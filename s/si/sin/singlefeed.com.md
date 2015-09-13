@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the singlefeed.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315083221id_/https%3A//www.singlefeed.com/aboutus/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singlefeed.com privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913175035id_/https%3A//www.singlefeed.com/aboutus/privacy.php) for the most accurate reproduction.*
 
 # SingleFeed — Comparison Engines Made Easy
 
