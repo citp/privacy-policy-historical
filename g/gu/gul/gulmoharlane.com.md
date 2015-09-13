@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gulmoharlane.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610083854id_/http%3A//gulmoharlane.com/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gulmoharlane.com privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913052401id_/http%3A//www.gulmoharlane.com/policies/privacy-policy) for the most accurate reproduction.*
 
 # Gulmohar Lane: Privacy Policy
 
