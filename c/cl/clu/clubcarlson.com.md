@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clubcarlson.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609013708id_/http%3A//www.clubcarlson.com/section/privacy.home/privacy.sidemenus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubcarlson.com privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913140319id_/https%3A//www.clubcarlson.com/section/privacy.home/privacy.sidemenus) for the most accurate reproduction.*
 
 # Privacy Policy
 
