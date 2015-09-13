@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thaifriendly.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315075205id_/https%3A//www.thaifriendly.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thaifriendly.com privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913140325id_/https%3A//www.thaifriendly.com/privacy.php) for the most accurate reproduction.*
 
 # Thai dating | Biggest free site in Thailand หาแฟนต่างชาติ หาแฟนฝรั่ง
 
@@ -24,8 +24,8 @@ All emails should be directed to support at thaifriendly.com
 **Third party data collection and tracking**
 
 * Third party vendors, including Google, use cookies to serve ads based on your prior visits to this website.  
-* You have the option to opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html).  
-Alternatively you can opt out - opt out of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).
+* You have the option to opt out of Google's use of cookies by visiting the [Google advertising opt-out page](https://www.google.com/privacy_ads.html).  
+Alternatively you can opt out - opt out of cookies by visiting the [Network Advertising Initiative opt out page](https://www.networkadvertising.org/managing/opt_out.asp).
 
 Google Analytics is used to track anonymous user data such as browser resolution, access times, and which pages have been accessed. This helps us develop our site to provide more relevant content for our users
 
