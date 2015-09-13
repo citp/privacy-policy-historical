@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guardian.com privacy policy that was archived on 2015-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150330060925id_/http%3A//www.guardian.com/AboutGuardian/PrivacyPolicy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guardian.com privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913110110id_/http%3A//www.guardian.com/AboutGuardian/PrivacyPolicy/index.htm) for the most accurate reproduction.*
 
 # Privacy Policy Guardian Industries
 
@@ -18,7 +18,7 @@ When you submit personally identifiable information to Guardian, you understand 
 
 ### Data subject’s rights
 
-You have the right to obtain: access to your data; confirmation as to whether or not data relating to you are being processed and information as to the purposes of the processing, the categories of data concerned and the recipients or categories of recipients to whom the data are disclosed; disclosure to you in an intelligible form of the data undergoing processing and of any available information as to their source; knowledge of the logic involved in any automatic processing of data concerning you. You also have the right to object at any time, for compelling and legitimate reasons, to the processing of any data on him except in cases where legal provisions expressly provide for that processing. You can exercise your rights by contacting Guardian at this _[email address](mailto:info@guardian.com)_
+You have the right to obtain: access to your data; confirmation as to whether or not data relating to you are being processed and information as to the purposes of the processing, the categories of data concerned and the recipients or categories of recipients to whom the data are disclosed; disclosure to you in an intelligible form of the data undergoing processing and of any available information as to their source; knowledge of the logic involved in any automatic processing of data concerning you. You also have the right to object at any time, for compelling and legitimate reasons, to the processing of any data on you except in cases where legal provisions expressly provide for that processing. You can exercise your rights by contacting Guardian at this _[email address](mailto:info@guardian.com)_. Of course, you also have the ability to adjust your web browser security settings accordingly to prevent any cookies from being stored on your device.
 
 ### Security
 
