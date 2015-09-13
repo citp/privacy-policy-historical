@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pobox.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615022240id_/http%3A//www.pobox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pobox.com privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913020855id_/http%3A//www.pobox.com/privacy) for the most accurate reproduction.*
 
 # Pobox.com Privacy Policy
 
@@ -72,7 +72,6 @@ Subscription or other administrative requests sent via email are stored for 30 d
     email to Pobox Support"), or send us paper mail at:
 
 IC Group, Inc.  
-1100 Vine Street  
-Suite C8  
+PO Box 40918  
 Philadelphia, PA 19107  
 
