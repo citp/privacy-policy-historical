@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cheapundies.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627082709id_/http%3A//www.cheapundies.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapundies.com privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913184735id_/https%3A//www.cheapundies.com/pages/privacy) for the most accurate reproduction.*
 
-# Privacy | CheapUndies
+# Privacy – CheapUndies
 
 ##### What information do we collect?
 
