@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the definitivehc.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610084100id_/http%3A//www.definitivehc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the definitivehc.com privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913101600id_/http%3A//www.definitivehc.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Definitive Healthcare
 
@@ -7,8 +7,8 @@ Privacy Policy
 This website (“Website”) and associated websites are maintained by:
 
 Definitive Healthcare  
-73 Mount Wayte Avenue, Suite 3  
-Framingham, MA 01702
+5 Strathmore Road  
+Natick, MA 01760
 
 The publisher of this Website (“Publisher”) collects personally identifying information and data about individuals, their company, and their company’s demographics (personally identifying information and data) including (i) when you provide information to us, such as when you register or sign up for any of our products such as publications, subscriptions, e-mails, contests, newsletters, memberships, RSS Feeds, webcasts, White Papers, online seminars, conferences and other communications with the Publisher, (ii) when you register or sign up on one of our Websites, or when you register for any other Definitive Healthcare products individually or through auto register, your information will be known to the Publisher and (iii) from time to time we may add other information that we collect from third party sources to enhance the information that you provided to the Publisher.
 
