@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oakleyvault.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608214201id_/http%3A//www.oakleyvault.com/en/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oakleyvault.com privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913220228id_/http%3A//www.oakleyvault.com/en/legal/privacy-policy) for the most accurate reproduction.*
 
 # Oakley Vault – Privacy Policy
 
