@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videogamesplus.ca privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521190032id_/https%3A//www.videogamesplus.ca/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videogamesplus.ca privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913052005id_/https%3A//www.videogamesplus.ca/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy / Security | VIDEOGAMESPLUS.CA | Home for the Hardcore Gamer!
 
