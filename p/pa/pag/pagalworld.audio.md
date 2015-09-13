@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pagalworld.audio privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515230007id_/http%3A//www.pagalworld.audio/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagalworld.audio privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913220755id_/http%3A//www.pagalworld.audio/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Pagalworld.com
+# Privacy Policy | Pagalworld.com
 
 Pagalworld.audio has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: Clearpost.in
 
@@ -24,5 +24,4 @@ Pagalworld.link contains links of other sites on the internet. We are not respon
 
 To the maximum extent permitted by applicable law, we reserve the right to change or replace this Privacy Policy at any time and from time to time without prior notice to or the consent of any person. Any changes or replacement will be posted at this site.
 
-  
-
+[](https://www.addtoany.com/share_save)
