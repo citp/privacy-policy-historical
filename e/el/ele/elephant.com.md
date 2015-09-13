@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elephant.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609065009id_/http%3A//www.elephant.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elephant.com privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913102238id_/http%3A//www.elephant.com/privacy) for the most accurate reproduction.*
 
 # Elephant Auto Insurance | Privacy & Security
 
@@ -9,6 +9,8 @@ Elephant Insurance Company (Elephant) collects customer information to help us t
 Elephant collects information about you to quote and service your insurance policy. The information we collect that identifies you is known as “nonpublic personal information” (NPPI), because it personally identifies you and is not otherwise available lawfully through a public information source. We commonly collect several types of this information from the following sources: 
 
 Application Information: This is information provided by you, the consumer, on your application either by phone or online. We may also obtain it from outside sources. It includes your name, street address, phone number, e-mail address, driver’s license number, Social Security number, date of birth, gender, marital status, vehicle information, and information about other drivers.
+
+It is vitally important that you inform us of any change to your application information in a timely manner. It not only allows us to ensure that we meet your changing insurance needs, but it assists us in protecting your privacy. It is especially important that you notify us about changes in your contact information, as we periodically may need to speak to you or send you information regarding your policy. To provide updates, please contact one of our customer service specialists at 1-877-218-7865. 
 
 Consumer Report Information: We obtain this information from third party consumer reporting agencies. It includes your driving record, claims history with other insurers, and credit report information. Credit report information is used to develop an insurance score. This credit-based insurance score does not affect your financial credit score. The information is kept by the consumer reporting agencies and disclosed by them to others as permitted by law. Consumer reporting agencies may be contacted during underwriting, processing claims, investigations, to service your account, and other purposes as permitted by law.
 
@@ -32,7 +34,7 @@ Elephant restricts access to your NPPI to our employees and others we feel must 
 
 ####  How can I opt out?
 
-Elephant reserves the right to disclose NPPI to third parties. In accordance with the Fair Credit Reporting Act (FCRA), you have the opportunity to notify us at any time that you wish to opt out of the disclosures described in this Privacy Notice before any disclosure is made to a third party. You can partially or completely opt out of disclosures. If you do not choose to opt out and allow sharing of your information when necessary, you do not need to take any action. If you choose to opt out and prefer that we do not share your information except as otherwise permitted by law, you may notify us of your decision by submitting your name and policy numbers in either of the following methods:
+Elephant reserves the right to disclose NPPI to third parties. You have the opportunity to notify us at any time that you wish to opt out of the disclosures described in this Privacy Notice before any disclosure is made to a third party. You can partially or completely opt out of disclosures. If you do not choose to opt out and allow sharing of your information when necessary, you do not need to take any action. If you choose to opt out and prefer that we do not share your information except as otherwise permitted by law, you may notify us of your decision by submitting your name and policy numbers in either of the following methods:
 
   * Send an email to CustomerService@elephant.com. In the subject line, please include the phrase, “Do not share my information”.
   * Send a written request not to share your information to the following address: Elephant Insurance Company, Attn: Do Not Share My Information, P.O. Box 5005, Glen Allen, VA 23058-5005
@@ -46,12 +48,11 @@ Joint applicants may opt out jointly, or submit opt out notices individually. If
 To review credit information used in developing your insurance score or to review non-credit information (accidents or violations), please contact the consumer reporting agency listed below:
 
 For Credit:  
-Digital Matrix Systems (DMS)  
-PO Box 1009  
-ATTN: Customer Service  
-Addison, TX 75001-1009  
-Phone: 888-229-6923  
-Email: customerservicedepartment@dms.net
+Equifax Information Services  
+PO Box 740256  
+Atlanta, GA 30347  
+Phone: 1-800-685-1111  
+[www.equifax.com/fcra](https://aa.econsumer.equifax.com/aad/landing.ehtml)
 
 For Non-Credit:  
 LexisNexis Consumer Center  
@@ -60,7 +61,7 @@ Atlanta, GA 30348-5108
 Phone: 800-456-6004  
 Email: consumer.center@lexisnexis.com
 
-Upon review of your report(s), you may want to challenge the accuracy of specific information.  Depending on your request, either agency can assist you with the process of disputing or correcting information on these reports. Their role is to supply information to Elephant Insurance Company, which Elephant reviews for assistance in making underwriting decisions. 
+Upon review of your report(s), you may want to challenge the accuracy of specific information. Depending on your request, either agency can assist you with the process of disputing or correcting information on these reports. Their role is to supply information to Elephant Insurance Company, which Elephant reviews for assistance in making underwriting decisions. 
 
 You have a right to know the contents of any NPPI that Elephant has collected about you, and to review or obtain copies of that information. You also have a right to request that we correct, amend, or delete any information you feel is in error. To review information Elephant has collected concerning you, send a written request to:
 
@@ -88,6 +89,8 @@ We also use website information to analyze use of our website. Information that 
 We may use advertising companies to display our ads on other websites. These companies may use non-personally identifiable information about your visits to websites. In addition, we may share website usage information with these companies to manage advertisements, or for market research purposes.
 
 You can choose to have your browser warn you each time a cookie is delivered to it, or you can choose to reject all cookies delivered through your browser. However, if you choose to reject cookies, features that make your web experience run more smoothly may not be available.
+
+Third Party Analytics. We have engaged Inspectlet to analyze the activities of visitors to this website, and Inspectlet’s authorized use of cookies and other tracking technologies enable it to have access to Personal Information of visitors to this website. Such access to and use of Personal Information by Inspectlet is governed by Inspectlet’s Privacy Policy [https://www.inspectlet.com/legal#privacy].
 
 #### Review of anonymous data from Google Analytics
 
