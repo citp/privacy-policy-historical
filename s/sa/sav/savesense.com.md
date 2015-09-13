@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savesense.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615104610id_/http%3A//www.savesense.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savesense.com privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913070039id_/http%3A//www.savesense.com/privacy.html) for the most accurate reproduction.*
 
 # SaveSense
 
