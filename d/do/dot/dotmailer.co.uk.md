@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dotmailer.co.uk privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619031540id_/http%3A//www.dotmailer.com/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotmailer.co.uk privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913042434id_/http%3A//www.dotmailer.com/terms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | dotmailer
 
