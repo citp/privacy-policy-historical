@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ellevatenetwork.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319022233id_/https%3A//www.ellevatenetwork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ellevatenetwork.com privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913163233id_/https%3A//www.ellevatenetwork.com/privacy-policy) for the most accurate reproduction.*
 
 # Ellevate – a global professional women's network
 
