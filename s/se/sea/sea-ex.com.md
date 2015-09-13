@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sea-ex.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618010701id_/http%3A//www.sea-ex.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sea-ex.com privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913040139id_/http%3A//www.sea-ex.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Sea-Ex Privacy Policy
 
@@ -49,3 +49,5 @@ If problems arise, users may contact Sea-Ex by email, Skype or telephone. We are
 
 **Data Storage and Security:**  
 Sea-Ex protects user information with the following security measures:  No data is stored on our servers.  All information collected is stored within a secure environment in our offices.  There is no access by third parties to the information we hold.
+
+See also our [Cookie Policy](http://www.sea-ex.com/cookiepolicy.htm)
