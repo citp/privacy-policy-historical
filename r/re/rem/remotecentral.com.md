@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the remotecentral.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227162419id_/http%3A//www.remotecentral.com/aboutrc.htm%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remotecentral.com privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913042424id_/http%3A//www.remotecentral.com/aboutrc.htm%23privacy) for the most accurate reproduction.*
 
 # About Remote Central
 
 The following page was printed from RemoteCentral.com:
 
-[](http://www.remotecentral.com/)
-
+[](http://www.remotecentral.com/)  
 **_Link to Remote Central!_**
 
 **All photographs, graphics, designs, reviews, articles, JavaScript, CGI programs & HTML code used on this site are copyrighted and may not be used without explicit written permission.**
