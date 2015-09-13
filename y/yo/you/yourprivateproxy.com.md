@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourprivateproxy.com privacy policy that was archived on 2015-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150101062513id_/https%3A//www.yourprivateproxy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourprivateproxy.com privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913062433id_/http%3A//www.yourprivateproxy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,3 +11,13 @@ Privacy Policy yourprivateproxy.com, ("yourprivateproxy") is strongly committed 
 Last modified
 
 Tuesday, January 21, 2014 - 14:55
+
+## Usage of private proxies
+
+Before you **buy proxy** or **proxies** you should check the list of services that we don't allow. As a condition of your use of the **private proxies** we provide, you warrant that you will not utilize the **proxies** for any purpose that is unlawful or prohibited by our terms, conditions, and notices.
+
+## Payment
+
+We offer a **month to month service**. There is no contract or long term obligation. You are **billed on a monthly basis** , and if you cancel you will not be billed again. Currently, we only accept Paypal as a payment method but this is subject to change in the near future. 
+
+Get you own private proxy plan with 1 montly ip replacement included! 
