@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bodhost.co.uk privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323001450id_/https%3A//www.eukhost.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodhost.co.uk privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913031216id_/https%3A//www.eukhost.com/privacy-policy.php) for the most accurate reproduction.*
 
 # eUKhost's : Privacy Policy
 
@@ -73,5 +73,11 @@ Note – "Expires" refers to the point in time after the cookie is set when the 
   * SWIFT_sessionid: When you either go to, or login to the helpdesk / client area page(s)
   * SWIFT_visitor: Any user that loads a live chat, click-to-call or visitor tracking button on a 'tagged web page'
   * SWIFT_scloginpassword: Any user that logs into the helpdesk and ticks the 'Remember Me' box
+
+
+
+### Other
+
+  * floating-offer: This is set when you close the promotional offer floating on the right-side. Expires: 7 days
 
 
