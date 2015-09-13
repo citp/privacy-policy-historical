@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redletterdays.co.uk privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320160407id_/https%3A//www.redletterdays.co.uk/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redletterdays.co.uk privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913091838id_/https%3A//www.redletterdays.co.uk/privacy) for the most accurate reproduction.*
 
 # Red Letter Days - Gift Experience Vouchers - Birthday presents and unique gift ideas
 
@@ -6,7 +6,7 @@ At Red Letter Days we are committed to protecting your privacy. We use the infor
 
 ###  Controllers of personal information 
 
-Any personal information provided or to be gathered at redletterdays.co.uk is controlled by Red Letter Days, 77 Muswell Hill, Muswell Hill, London, N10 3PJ.
+Any personal information provided or to be gathered at redletterdays.co.uk is controlled by Red Letter Days, The Grange, 100 High Street, Southgate, London N14 6BN.
 
 ###  What information do we collect? How do we use it? 
 
