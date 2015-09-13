@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the odishasuntimes.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629002809id_/http%3A//odishasuntimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odishasuntimes.com privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913110901id_/http%3A//odishasuntimes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - OdishaSunTimes.com
+# Privacy Policy |
 
 **OdishaSunTimes.com**   respects the privacy of it’s users and is committed to protect it in all respects. With a view to offer most enriching and holistic internet experience to its users OdishaSunTimes.com  offers a vast repository of Online Sites and variety of community services. You may read ‘About Us’ to know more about OdishaSunTimes.com .Most of the Online Community Services are offered for free. The information about the user as collected by OdishaSunTimes.com  is: (a) information supplied by users and (b) information automatically tracked while navigation (Information).
 
