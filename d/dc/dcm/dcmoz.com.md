@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dcmoz.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219233414id_/http%3A//dcmoz.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dcmoz.com privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913082547id_/http%3A//dcmoz.net/privacy) for the most accurate reproduction.*
 
 # Live Sex Cams: XXX Adult Sex Shows, Live Porn Chat - DCMOZ Live
 
