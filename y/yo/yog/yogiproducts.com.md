@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yogiproducts.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624002214id_/https%3A//www.yogiproducts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yogiproducts.com privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913053641id_/https%3A//www.yogiproducts.com/privacy-policy) for the most accurate reproduction.*
 
 # Yogi Products Privacy Policy | Yogi Tea
 
