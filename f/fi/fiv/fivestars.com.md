@@ -1,66 +1,84 @@
-> *The following text is extracted and transformed from the fivestars.com privacy policy that was archived on 2008-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080427145127id_/http%3A//www.fivestars.com/konfuciy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fivestars.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914010717id_/http%3A//www.fivestars.com/privacy) for the most accurate reproduction.*
 
-# getawaypedia.com Privacy Policy
+# FiveStars | Customer Loyalty Programs
 
-  
-At getawaypedia.com we strive to provide teachers, students and parents with high quality, safe educational resources, tools, services while fully respecting and protecting the privacy of our visitors and members. 
+## Our Policy:
 
-  
-**What type of information do we collect?**
+Welcome to the service provided by FiveStars Loyalty, Inc. (“FiveStars”, “we”, “us” and/or “our”). This Privacy Policy has been created to provide information about our company, our website and the services we provide (collectively, the “Services”) to our users (“you” and/or “your”). This Privacy Policy sets forth FiveStars’s policy with respect to information, including personally identifiable data (“Personal Data”), that is collected from users of the Services. 
 
-  
-Personally Identifiable Information getawaypedia.com requests personally identifiable information from visitors registering for any purpose. The information we collect includes first and last name, email address, school name and zip code. We only collect personally identifiable information from you when you voluntarily submit it. We use this information to contact you about administrative issues like scheduled membership upgrades, membership renewal reminders and membership expiration. If you allow us, this information is used to contact you with updates on new products and features as well as special promotions from getawaypedia.com and our partners. If you allow us, we will also email you our Newsletter. We do not collect any individually identifiable information on children under the age of 13. 
+## Information We Collect: 
 
-  
-Visitors should be aware of The Children's Online Privacy Protection Act (COPPA). Please visit [www.ftc.gov/ogc/coppa1.htm](http://www.ftc.gov/ogc/coppa1.htm) to learn more. 
+When you interact with us through the Services, we may collect Personal Data and other information from you, as further described below: 
 
-  
-**Anonymous Survey Information**
+**Personal Data That You Provide Through the Services:** We collect Personal Data from you when you voluntarily provide such information such as when you register for access to the Services, use certain Services, contact us with inquiries or respond to one of our surveys. For example, we collect your name, phone number, email address, third party service login credentials, and the messages you send or receive through the Services. Wherever FiveStars collects Personal Data we make an effort to provide a link to this Privacy Policy. 
 
-  
-We collect non-personally identifiable information via voluntary visitor surveys. This information is anonymous and used to gain a broad picture of visitor interests and usage patterns relating to the content of our site. 
+**By voluntarily providing us with Personal Data, you are consenting to our use of it in accordance with this Privacy Policy. If you provide Personal Data, you acknowledge and agree that such Personal Data may be transferred from your current location to the offices and servers of FiveStars and the authorized third parties referred to herein located in the United States.**
 
-  
-**With whom we share your information?**
+**Non-Identifiable or Aggregated Data:** When you interact with FiveStars through the Services, we also receive and store certain personally non-identifiable information. Such information, which is collected passively using various technologies, cannot presently be used to specifically identify you. FiveStars may store such information itself or such information may be included in databases owned and maintained by FiveStars affiliates, agents or service providers. We may use such information and pool it with other information to track, for example, the total number of visitors or users of the Services, the number of visitors to each page of our website, the domain names of our visitors' Internet service providers, and how our users use and interact with the Service. Also, in an ongoing effort to better understand and serve the users of the Services, FiveStars may conduct research on its customer demographics, interests and behavior based on the Personal Data and other information provided to us. This research may be compiled and analyzed on an aggregate basis. FiveStars may share this non-identifiable and aggregate data with its affiliates, agents and business partners, but this type of non-identifiable and aggregate information does not identify you personally. FiveStars may also disclose aggregated user statistics in order to describe our services to current and prospective business partners, and to other third parties for other lawful purposes. 
 
-  
-getawaypedia.com aggregates data from cookies to anonymously determine visitor and member usage patterns. 
+In operating the Services, we may also use a technology called "cookies." A cookie is a piece of information that the computer that hosts our Services gives to your browser when you access the Services. Our cookies help provide additional functionality to the Services and help us analyze Services usage more accurately. For instance, our Services may set a cookie on your browser that allows you to access the Services without needing to remember and then enter a password more than once during a visit to the Services. In all cases in which we use cookies, we will not collect Personal Data except with your permission. On most web browsers, you will find a “help” section on the toolbar. Please refer to this section for information on how to receive notification when you are receiving a new cookie and how to turn cookies off. We recommend that you leave cookies turned on because they allow you to take advantage of some of the Service’s features. 
 
-getawaypedia.com will never willfully disclose individually-identifiable information about its members to any third party without first receiving a particular member's permission. 
+## Our Use of Your Personal Data and Other Information 
 
-  
-Other sites listed in the getawaypedia.com site may send you their own cookies or solicit you to gather your personal information. We do not control these cookies or the content of these third parties. The site that you are visiting can contain its own privacy policy and may differ from ours. 
+FiveStars uses the Personal Data you provide in a manner that is consistent with this Privacy Policy. If you provide Personal Data for a certain reason, we may use the Personal Data in connection with the reason for which it was provided. For instance, if you contact us by email, we will use the Personal Data you provide to answer your question or resolve your problem. Also, if you provide Personal Data in order to obtain access to the FiveStars Services, we will use your Personal Data to provide you with access to such services and to monitor your use of such services. FiveStars and its subsidiaries and affiliates (the “Related Companies”) may also use your Personal Data and other personally non-identifiable information collected through the Services to help us improve the content and functionality of the Services, to better understand our users, and to improve the FiveStars Services. FiveStars and its Related Companies may use this information to contact you in the future to tell you about services we believe will be of interest to you. If we do so, each communication we send you will contain instructions permitting you to "opt-out" of receiving future communications. In addition, if at any time you wish not to receive any future communications or you wish to have your name deleted from our mailing lists, please contact us as indicated below. 
 
-  
-**Children Under Age 13**
+If FiveStars intends on using any Personal Data in any manner that is not consistent with this Privacy Policy, you will be informed of such anticipated use prior to or at the time at which the Personal Data is collected. 
 
-  
-getawaypedia.com is committed to protecting the privacy of all of its visitors, especially children. In compliance with the Children's Online Privacy Protection Act of 1998, getawaypedia.com does not sign up anyone under the age of 13 for any marketing or promotional purpose. The FTC (Federal Trade Commission) enforces this act for their protection. At getawaypedia.com we are working hard to keeping children safe on the Internet. Listed below are a few web privacy and safety sites that may also help to answer any questions you may have. It is our objective to continue making getawaypedia.com the best resource for high quality, safe educational resources and services on the web. 
+## Our Disclosure of Your Personal Data and Other Information 
 
-  
-Electronic Frontier Foundation - EFF, the Electronic Frontier Foundation, is a non-profit, non-partisan organization working in the public interest to protect fundamental civil liberties, including privacy and freedom of expression, in the arena of computers and the Internet. 
+FiveStars is not in the business of selling your information. We consider this information to be a vital part of our relationship with you. There are, however, certain circumstances in which we may share your Personal Data with certain third parties without further notice to you, as set forth below: 
 
-  
-How to Protect Your Privacy - The Federal Trade Commission is educating consumers about the importance of personal information privacy. Read more about our efforts, what we've learned, and what you can do to protect the privacy of your personal information. 
+**Rewards Providers:** To the extent you have obtained or redeemed a reward offered by a merchant (“Rewards Providers”), added a Reward Provider as a membership to your account or otherwise participated in any other activity sponsored or offered through the Service on behalf of the Rewards Provider, we may provide such Rewards Providers with your Personal Data (a) in order for the Rewards Provider to redeem and validate your reward, send you customized offers, troubleshoot redemption, combat fraud and otherwise communicate with you, (b) as part of legal proceedings affecting FiveStars and the Rewards Provider, or (c) to facilitate a direct relationship between the Rewards Provider and you or. 
 
-  
-SmartParent.com - SmartParent.com is a resource dedicated to educating parents on the best ways to safeguard their from the dangers presented by cyberspace. 
+**Business Transfers:** As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets. 
 
-  
-**How we secure your information?**
+**Related Companies:** We may also share your Personal Data with our Related Companies for purposes consistent with this Privacy Policy. 
 
-  
-Unfortunately, no data transmission over the Internet can be guaranteed 100% secure. We make every reasonable attempt to ensure the security of your information on our system. Your information is stored on secure servers and is only accessible to qualified getawaypedia.com personnel. 
+**Agents, Consultants and Related Third Parties:** FiveStars, like many businesses, sometimes hires other companies to perform certain business-related functions. Examples of such functions include maintaining databases, sending emails and SMS messages, offering and developing certain features of the Services, and maintenance and security. When we employ another company to perform a function of this nature, we only provide them with the information that they need to perform their specific function. We also disclose automatically collected data (card scans, promotional activities, and redemption information) to our Rewards Provider, third-party ad servers and advertisers. These third parties may match this data with information that they have previously collected about you under their own privacy policies, which you should consult on a regular basis. 
 
-**Links to other sites**
+Your Public Profile: If you make any information available through your public profile, it will be made available to members of the FiveStars community. Please note that your first name and last initial and photo are, by default, available on your public profile. Your phone number, email address, and birthday are private and will never be displayed publicly as part of any profile. 
 
-  
-Because getawaypedia.com does not have control over the changing nature of content on sites that are listed in its directories, getawaypedia.com lists Internet sites for use at the visitor's risk and explicitly disclaims any responsibility for the accuracy, content, or availability of information the resources may contain. Subsequently, getawaypedia.com does not warrant or guarantee that information from a listed site will not contain material which some individuals may deem inappropriate or objectionable. 
+**Legal Requirements:** FiveStars may disclose your Personal Data if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation or assist government enforcement agencies, (ii) protect and defend the rights or property of FiveStars, Rewards Providers, or our users, (iii) act in urgent circumstances to protect the personal safety of users of the Services or the public, (iv) protect against legal liability; (v) protect Rewards Providers from fraudulent, abusive, or unlawful uses; or (vi) protect the security or integrity of the Services. 
 
-  
-Our partners and co-branded sites 
+**With the Ability to Opt-Out:** We do not share Personal Data with other third-party organizations for their marketing or promotional uses without your consent except as part of a specific program or feature for which you will have the ability to opt-out. We may offer contests that require you to take an action in order to receive a reward. This data is provided to the advertiser and you will always have the option to not participate.   
+The Services will automatically send you SMS messages with updates and other information as part of the Services. You may stop receiving SMS messages from the Services generally by replying STOP in response to any received SMS from the program. You may also opt-out of receiving SMS messages on the FiveStars website. If you opt-out of receiving SMS messages, you may not be able to use certain Services. 
 
-  
-getawaypedia.com partners with a number of sites and companies to provide additional features for our visitors. We work hard to select quality partners that are COPPA compliant, but are not responsible for the content on our partner sites. Please read the privacy policy for partner sites. 
+## Your Choices: 
 
-**Acceptance: By using getawaypedia.com, you signify that you understand and accept the policies of this site as stated above.**
+You can use our website without providing any Personal Data. If you choose not to provide any Personal Data, you may not be able to use certain Services. 
+
+## Exclusions: 
+
+This Privacy Policy does not apply to any Personal Data collected by FiveStars other than Personal Data collected through the Services. This Privacy Policy shall not apply to any unsolicited information you provide to FiveStars through the Services or any other means. This includes, but is not limited to, information posted to any public areas of the Services, such as public forums (collectively, “Public Areas”), any ideas for new products or modifications to existing products, and other unsolicited submissions (collectively, “Unsolicited Information”). All Unsolicited Information shall be deemed to be non-confidential and FiveStars shall be free to reproduce, use, disclose, distribute and exploit such Unsolicited Information without limitation or attribution. 
+
+## Children: 
+
+FiveStars does not knowingly collect Personal Data from children under the age of 13. If you are under the age of 13, please do not submit any Personal Data through the Services. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data on the Services without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Data to FiveStars through the Services, please contact us, and we will endeavor to delete that information from our databases. 
+
+## Links to Other Web Sites: 
+
+This Privacy Policy applies only to the Services. The Services may contain links to other web sites not operated or controlled by FiveStars (the “Third Party Sites”). The policies and procedures we described here do not apply to the Third Party Sites. The links from the Services do not imply that FiveStars endorses or has reviewed the Third Party Sites. We suggest contacting those sites directly for information on their privacy policies. 
+
+## Integrating Third Party Services within the Services: 
+
+One of the special features of the Service is that it allows you to enable various online third party services, such as social media and social networking services (“Third Party Services”), to be directly integrated into your FiveStars experience. To take advantage of this feature, we will ask you to provide us your username and password for the relevant Third Party Services. By enabling such Third Party Services, you are allowing us to pass your log-in information to these service providers for this purpose. When you add a Third Party Service account to the Service, we will collect your login information and other relevant information necessary to enable the Service to access that Third Party Service and your data contained within that Third Party Service. However, please remember that the manner in which Third Party Services use, store and disclose your information is governed solely by the policies of such third parties, and FiveStars shall have no liability or responsibility for the privacy practices or other actions of any Third Party Service that may be enabled within the Service. 
+
+## Security: 
+
+FiveStars takes reasonable steps to protect the Personal Data provided via the Services from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet, email, mobile or other electronic transmission is ever fully secure or error free, so you should take special care in deciding what information you send to us in this way. 
+
+## Other Terms and Conditions: 
+
+Your access to and use of this Services is subject to FiveStars’s [Terms of Use](https://web.archive.org/terms/) located at our website. 
+
+## Changes to FiveStars’ Privacy Policy: 
+
+The Services and our business may change from time to time. As a result, at times it may be necessary for FiveStars to make changes to this Privacy Policy. FiveStars reserves the right to update or modify this Privacy Policy at any time and from time to time without prior notice. Please review this policy periodically, and especially before you provide any Personal Data. This Privacy Policy was last updated on the date indicated above. Your continued use of the Services after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy. 
+
+## Access to Information; Contacting FiveStars: 
+
+To keep your Personal Data accurate, current, and complete, please contact us as specified below. We will take reasonable steps to update or correct Personal Data in our possession that you have previously submitted via the Services. 
+
+Please also feel free to contact us if you have any questions about FiveStars’ Privacy Policy or the information practices of the Services. 
+
+You may contact us [here](https://web.archive.org/contact/). 
