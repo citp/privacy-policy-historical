@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the live-socks.net privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616001336id_/http%3A//www.live-socks.net/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the live-socks.net privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913225802id_/http%3A//www.live-socks.net/p/privacy-policy-for-httplive-socks.html) for the most accurate reproduction.*
 
 # Live Socks: Privacy Policy
 
