@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weightwatchers.com.au privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611222439id_/https%3A//www.weightwatchers.com.au/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weightwatchers.com.au privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913174133id_/http%3A//www.weightwatchers.com.au/legal/privacy.aspx) for the most accurate reproduction.*
 
 # WeightWatchers.com.au: Privacy Policy
 
