@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thegrindstone.com privacy policy that was archived on 2015-03-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150316113451id_/http%3A//www.thegrindstone.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thegrindstone.com privacy policy that was archived on 2015-09-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150913152307id_/http%3A//www.thegrindstone.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en-US"><!--<![endif]--><!-- the "no-js" class is for Modernizr. --><head>
 	<meta charset="UTF-8">
@@ -28,21 +28,21 @@
 		<script type="text/javascript" async="" src="//assets.pinterest.com/js/pinit.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">ord = Math.random()*10000000000000000;</script>
 	<script type="text/javascript" src="http://c.jsrdn.com/s/cs.js?p=22195"> </script>
 
-	<meta name="description" content="Tips on career, business &amp; work place for women, including interview advice, resume help and strategy and office style."><meta name="DC.date.issued" content="2015-03-16T11:29:49-0:00"><meta name="robots" content="index,follow">
+	<meta name="description" content="Tips on career, business &amp; work place for women, including interview advice, resume help and strategy and office style."><meta name="DC.date.issued" content="2015-09-13T15:23:07-0:00"><meta name="robots" content="index,follow">
 	
 <!--Plugin WP Missed Schedule 2013.1231.2013 Build 2014-09-13 Active - Tag 6707293c0218e2d8b7aa38d418ffa608-->
 
 <!-- This website is patched against a big problem not solved from WordPress 2.5+ to date -->
 
 
-<!-- This site is optimized with the Yoast WordPress SEO plugin v1.4.24 - http://yoast.com/wordpress/seo/ -->
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.7.4 - https://yoast.com/wordpress/plugins/seo/ -->
 <link rel="canonical" href="http://www.thegrindstone.com/privacy/">
 <meta name="twitter:card" content="summary">
+<meta name="twitter:description" content="Thank you for visiting a Defy Media, LLC website (the “Site”)! The Site is strongly committed to protecting your privacy. The purpose of this privacy policy is to inform users of the Site as to what information we collect and … More »">
+<meta name="twitter:title" content="Privacy | TheGrindstone">
 <meta name="twitter:site" content="@the_grindstone">
 <meta name="twitter:domain" content="TheGrindstone">
 <meta name="twitter:creator" content="@the_grindstone">
-<meta name="twitter:description" content="Thank you for visiting a Defy Media, LLC website (the “Site”)! The Site is strongly committed to protecting your privacy. The purpose of this privacy policy is to inform users of the Site as to what information we collect and … More »">
-<meta name="twitter:title" content="Privacy - TheGrindstone">
 <meta name="twitter:url" content="http://www.thegrindstone.com/privacy/">
 <!-- / Yoast WordPress SEO plugin. -->
 
@@ -146,7 +146,7 @@ img#wpstats{width:0px;height:0px;overflow:hidden}
             <script type="text/javascript">
 var siteGlobals = {
 	category : "",
-	post_id : "",
+	post_id : "592",
 	tags : []
 };
 </script>
@@ -299,11 +299,12 @@ siteGlobals.category = 'legal';
     }
 
     if(typeof googletag != "undefined") {
+        var lbSlot;
         
         googletag.cmd.push(function() {
 
             // Define ad slots. For gurl.com, remove [160,600] from the skyscraper unit
-            googletag.defineSlot('/4678/thegrindstone.dmp/'+adGlobal.unit.leaderboard, [[728, 90],[970, 66],[970,90],[970,250],[970,40],[1000,40],[1000,66],[1000,250]], 'div-gpt-ad-leaderboard')
+            lbSlot = googletag.defineSlot('/4678/thegrindstone.dmp/'+adGlobal.unit.leaderboard, [[728, 90],[970, 66],[970,90],[970,250],[970,40],[1000,40],[1000,66],[1000,250],[960,1]], 'div-gpt-ad-leaderboard')
                 .setCollapseEmptyDiv(true, true).addService(googletag.pubads());
             googletag.defineSlot('/4678/thegrindstone.dmp/'+adGlobal.unit.rectangle, [[300, 250],[300,600],[300,1050]],'div-gpt-ad-rectangle')
                 .setCollapseEmptyDiv(true, true).addService(googletag.pubads());
@@ -311,8 +312,6 @@ siteGlobals.category = 'legal';
                 .setCollapseEmptyDiv(true, true).addService(googletag.pubads());
             googletag.defineSlot('/4678/thegrindstone.dmp/'+adGlobal.unit.skyscraper, [[160, 600],[300,250]],'div-gpt-ad-skyscraper')
                 .setCollapseEmptyDiv(true, true).addService(googletag.pubads());
-            googletag.defineOutOfPageSlot('/4678/thegrindstone.dmp/'+adGlobal.unit.oop, 'div-gpt-ad-oop')
-                .addService(googletag.pubads());
 
             // Sets targeting values for all ad tags
             googletag.pubads()
@@ -323,8 +322,22 @@ siteGlobals.category = 'legal';
                 .setTargeting('pageviews',adGlobal.target.pageviews)
                 .setTargeting('tags', adGlobal.target.tags);
 
-            googletag.pubads().enableSingleRequest();
             googletag.enableServices();
+
+            //Wait for ad slots to render
+            googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+                if(event.slot === lbSlot) { //Check if ad slot is leaderboard slot
+                    if((event.size[0] == 960 && event.size[1] == 1) && !event.isEmpty) { //Check if size is 960x1 and is not empty (with takeover)
+                        //console.log('takeover detected, disable interstitial');
+                        return;                        
+                    } else { //Run interstitial
+                        //console.log('takeover not detected, enable interstitial');
+                        googletag.defineOutOfPageSlot('/4678/thegrindstone.dmp/'+adGlobal.unit.oop, 'div-gpt-ad-oop').addService(googletag.pubads());
+                        googletag.display("div-gpt-ad-oop");
+                    }
+                }
+            });
+
         });
     }
 </script>
@@ -355,6 +368,7 @@ siteGlobals.category = 'legal';
 <li id="menu-item-49418" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-49418"><a href="http://www.thegrindstone.com/topic/office-politics/">Office Politics</a></li>
 <li id="menu-item-49419" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-49419"><a href="http://www.thegrindstone.com/topic/career-management/">Career Management</a></li>
 <li id="menu-item-49512" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-49512"><a href="http://www.thegrindstone.com/topic/work-life-balance/">Work Life Balance</a></li>
+<li id="menu-item-62116" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-62116"><a href="http://www.thegrindstone.com/videos/">Videos</a></li>
 </ul></div>    <!--<form action="/" id="cse-search-box">
 	<input type="hidden" name="cx" value="" />
 	<input type="hidden" name="cof" value="FORID:11" />
@@ -661,7 +675,7 @@ E-mail: <a href="mailto:privacy@thegrindstone.com">privacy@thegrindstone.com</a>
 </ul></div></aside>	</div><!-- #third .widget-area -->
 	</div><!-- #supplementary -->
     <div id="footer" class="clearfix">
-        <p style="font-size: 8pt;">This site is part of the Defy Media Beauty and Style network.</p>
+        <p style="font-size: 8pt;">The site is part of the Clevver Network.</p>
 
         <ul class="b5logos">
             <li class="link-thegrindstone"><a href="http://www.thegrindstone.com/" title="TheGrindstone" rel="home">TheGrindstone</a></li>
@@ -684,11 +698,7 @@ E-mail: <a href="mailto:privacy@thegrindstone.com">privacy@thegrindstone.com</a>
 </div><!-- #skinwrapper -->
 
 <!--------------- BEGIN div-gpt-ad-oop ---------------->
-<div id="div-gpt-ad-oop" style="width:0px;height:0px;">
-	<script type="text/javascript">		
-		googletag.cmd.push(function () { googletag.display("div-gpt-ad-oop"); });	
-	</script>
-</div>
+<div id="div-gpt-ad-oop" style="width:0px;height:0px;"></div>
 <!--------------- END div-gpt-ad-oop ---------------->
 
 <div id="fb-root"></div>
@@ -750,7 +760,7 @@ jQuery(document).ready(function() {        jQuery(".adminbar-quick-backup-run a"
             jQuery.ajax({
                 type: 'post', success: function(json) { alert(json.message); },
                 dataType: 'json', data: { runquick: {id: 1, type: code, control: 0} },
-                url: gdpt_ajax_url + '?action=presstools_backup_quick&_ajax_nonce=611977f7a9'
+                url: gdpt_ajax_url + '?action=presstools_backup_quick&_ajax_nonce=7d7c381c98'
             });
         });
     });</script>
@@ -769,8 +779,8 @@ var countVars = {"disqusShortname":"thegrindstonecom"};
 </script>
 <script type="text/javascript" src="http://cdn2.thegrindstone.com/wp-content/plugins/disqus-comment-system/media/js/count.js?ver=3.8"></script>
 
-<!-- Max memory: 13358304-->
-<!-- time: 0.320 -->
+<!-- Max memory: 14083864-->
+<!-- time: 0.371 -->
 
 <div class="share-tip-window" id="share-tip-window">
 	<div class="share-tip-dialog">
@@ -788,9 +798,12 @@ var countVars = {"disqusShortname":"thegrindstonecom"};
 			<input type="hidden" name="tip_post" id="tip_post" value="http://www.thegrindstone.com/privacy/">
 			<input type="hidden" name="tip_submit" id="tip_submit" value="0">
 			<input type="submit" value="Share" onclick="el = document.getElementById('tip_submit'); el.value = 1;"> &nbsp; or &nbsp; <a href="" onclick="close_modal_window('share-tip-window'); return false;">Cancel</a>
-			<input type="hidden" name="wp_nonce" value="4191ebbd53"><input type="hidden" name="form_id" value="submit-tip-v2"><input type="hidden" name="b5_form_hash" value="e4ffafba1e54f9a7f4c49f10bd1f7a7fc225d361d41a552b519c40ccba1328f3"></form>		</div>
+			<input type="hidden" name="wp_nonce" value="7abc179068"><input type="hidden" name="form_id" value="submit-tip-v2"><input type="hidden" name="b5_form_hash" value="e4ffafba1e54f9a7f4c49f10bd1f7a7fc225d361d41a552b519c40ccba1328f3"></form>		</div>
 	</div>
 </div>
+<!-- BEGIN Defy Media O and O Skater Unit -->
+<script class="defy-skater-unit" lrpid="122945" src="http://media5.break.com/campaigns/global_lib/defy-oo-skater-unit-v2.js"></script>
+<!-- END Defy Media O and O Skater Unit -->
 <!-- nagios check -->
 <!-- skimlinks -->
 <script type="text/javascript" src="//s.skimresources.com/js/66137X1500867.skimlinks.js"></script>
@@ -835,13 +848,40 @@ var countVars = {"disqusShortname":"thegrindstonecom"};
 </noscript>
 <!-- END Nielsen Online SiteCensus V6.0 -->
 
+<!-- BEGIN Viacom Pixels -->
+<img src="http://mtvn.demdex.net/event?d_sid=1853789" width="0" height="0">
+<script>
+  var viacomPx = {
+    trackPixel : function(d_sid) {
+            var px = new Image();
+            px.width = 0;
+            px.height = 0;
+            px.src = 'http://mtvn.demdex.net/event?d_sid=' + d_sid;
+            document.body.appendChild(px);
+        },
+
+    cat : adGlobal.target.cat,
+
+    'education'         : 1853790,
+    'mentors'           : 1853791,
+    'office-politics'   : 1853792,
+    'career-management' : 1853793
+  }
+
+  if(viacomPx[viacomPx.cat]) {
+    viacomPx.trackPixel(viacomPx[viacomPx.cat]);
+  }
+</script>
+<!-- END Viacom Pixels -->
+
+
 
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
 Minified using memcached
 Page Caching using memcached
-Database Caching 9/13 queries in 0.011 seconds using memcached
-Object Caching 1493/1504 objects using memcached
+Database Caching using memcached
+Object Caching 1565/1585 objects using memcached
 Content Delivery Network via cdn2.thegrindstone.com
 
- Served from: www.thegrindstone.com @ 2015-03-16 07:29:49 by W3 Total Cache --></body></html>
+ Served from: www.thegrindstone.com @ 2015-09-13 11:23:07 by W3 Total Cache --></body></html>
