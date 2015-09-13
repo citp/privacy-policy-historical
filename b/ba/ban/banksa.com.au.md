@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the banksa.com.au privacy policy that was archived on 2015-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150412223739id_/https%3A//www.banksa.com.au/online-services/security-centre/we-protect-you/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the banksa.com.au privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913135008id_/https%3A//www.banksa.com.au/online-services/security-centre/we-protect-you/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BankSA
 
@@ -20,7 +20,7 @@
 
 We are bound by the Privacy Act and will protect your personal information in accordance with the Australian Privacy Principles. These principles govern how we can collect, use, hold and disclose your personal information.
 
-This is a summary of our Privacy Policy. Download a copy of our full [Privacy Policy](https://web.archive.org/content/dam/bsa/downloads/pds/170038%20PP%20BSA06068_0914_LR%20PP%20FINAL.pdf)
+This is a summary of our Privacy Policy. Download a copy of our full [Privacy Policy (PDF 63kb)](https://web.archive.org/content/dam/bsa/downloads/pds/170038%20PP%20BSA06068_0914_LR%20PP%20FINAL.pdf) (Opens in new window), view the [full Privacy Policy online](https://web.archive.org/online-services/security-centre/we-protect-you/privacy-policy-html) or contact us for a free printed copy.
 
 **What kinds of personal information do we collect and hold?**
 
