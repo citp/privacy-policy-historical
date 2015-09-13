@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the topendsports.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627170838id_/http%3A//www.topendsports.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topendsports.com privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913143429id_/http%3A//www.topendsports.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
-At http://www.topendsports.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://www.topendsports.com and how it is used. If you require any more information or have any questions about our privacy policy, please feel free to [contact us](https://web.archive.org/web/20150627170838id_/http%3A//www.topendsports.com/comment.htm).
+At http://www.topendsports.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://www.topendsports.com and how it is used. If you require any more information or have any questions about our privacy policy, please feel free to [contact us](https://web.archive.org/web/20150913143429id_/http%3A//www.topendsports.com/comment.htm).
 
 ## Log Files
 
@@ -10,8 +10,7 @@ At http://www.topendsports.com, the privacy of our visitors is of extreme import
 
 ## Cookies and Web Beacons
 
-> http://www.topendsports.com itself does not use cookies, though advertising placed on Topend Sports may do so.   
-> 
+> http://www.topendsports.com itself does not use cookies, though advertising placed on Topend Sports may do so. 
 > 
 > We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here <http://www.networkadvertising.org/managing/opt_out.asp>
 > 
@@ -19,9 +18,9 @@ At http://www.topendsports.com, the privacy of our visitors is of extreme import
 > 
 > ### DoubleClick DART Cookie
 
-  * Google, as a third party vendor, uses cookies to serve ads on http://www.topendsports.com. 
-  * Google's use of the DART cookie enables it to serve ads to users based on their visit to http://www.topendsports.com and other sites on the Internet. 
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - [http://www.google.com/privacy_ads.html ](http://www.google.com/privacy_ads.html)
+  * Google, as a third party vendor, uses cookies to serve ads on http://www.topendsports.com.
+  * Google's use of the DART cookie enables it to serve ads to users based on their visit to http://www.topendsports.com and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>
 
 
 
@@ -36,4 +35,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 > Your contact details may be required for several sections of this website. In each case there is built in security to safeguard your contact and personal information. When posting a message to this site, you may wish to include your email address if you require a reply. The inclusion of you email address is not compulsory. Your contact details will not be stored and used for any other purpose except for replying to a message sent to this site. Other third party websites or software such as Yahoo Groups, PhpBB, WordPress may require you to provide your email and other information. Please see their websites for more information about the security of this information.
 
-If you have any issues, questions or comments concerning this privacy policy, please [contact us](https://web.archive.org/web/20150627170838id_/http%3A//www.topendsports.com/comment.htm).
+If you have any issues, questions or comments concerning this privacy policy, please [contact us](https://web.archive.org/web/20150913143429id_/http%3A//www.topendsports.com/comment.htm).
