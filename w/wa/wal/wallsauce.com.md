@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallsauce.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609064432id_/https%3A//www.wallsauce.com/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallsauce.com privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913101701id_/http%3A//www.wallsauce.com/information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
