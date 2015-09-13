@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poorvikamobile.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507150252id_/http%3A//www.poorvikamobile.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poorvikamobile.com privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913092719id_/http%3A//www.poorvikamobile.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,11 +12,11 @@ We use personal information for various business purposes, such as to complete t
 
 We do not sell, rent, or provide personal information to unaffiliated third-parties to market their products and services to you. We may disclose personal information to unaffiliated third-parties who complete transactions or perform services on our behalf and under certain other limited circumstances, subject to restrictions on the third-parties’ use of such information. We use a variety of physical, electronic, and procedural safeguards to protect personal information and we use reasonable procedures to erase or render it unreadable when we dispose of it.
 
- **Access and Choice**
+**Access and Choice**
 
 You may access and modify your contact information by visiting poorvikamobile.com, visiting a Poorvika mobile retail store, or by contacting Customer Service. If you are a Poorvika customer and you manage your account online, you can change your marketing preferences by logging into your my Poorvika Profile.
 
- **Other Privacy Information**
+**Other Privacy Information**
 
 We do not solicit children to purchase our services or products and our Web sites are not designed to attract children under the age of 13. We may use cookies, Web beacons, and similar technologies. Poorvika follows the ISO’s Best Practices Guidelines for Location-Based Services.
 
@@ -24,7 +24,7 @@ With your consent, we may provide location-based services or provide access to l
 
 When you install third-party applications on your device, you may give your consent for the third party to access certain information you have stored on your device or to access Poorvika network information to facilitate the application’s functions.
 
- **Policy Updates and Contact Information**
+**Policy Updates and Contact Information**
 
 We may update this policy from time to time and you should refer to it often for the latest information and the effective date of any changes. If we intend to use or disclose personal information in a way that is materially different from that stated in this policy at the time it was collected, we will post notice of the change on our Web site’s home page for at least 10 days before we implement the change and give you an opportunity to opt-out of the proposed use.
 
