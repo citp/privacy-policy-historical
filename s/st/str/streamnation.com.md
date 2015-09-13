@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the streamnation.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322190013id_/https%3A//www.streamnation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamnation.com privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913211618id_/https%3A//www.streamnation.com/privacy) for the most accurate reproduction.*
 
 # StreamNation | Your Video Collection Anywhere & Everywhere
 
-Welcome to StreamNation! Protecting your privacy is really important to us. Accordingly, we’re providing this Privacy Policy to explain our practices regarding the collection, use and disclosure of information that we receive when you use our Services (as defined in our Terms of Service, accessible at [www.streamnation.com/tos](http://www.streamnation.com/tos)). This Privacy Policy applies only to those websites, services, software and mobile applications included within “Services” and doesn’t apply to any third-party websites, services, software or mobile applications, even if they are accessible through our Services. Also, please note that, unless we define a term in this Privacy Policy, all capitalized words used in this Privacy Policy have the same meanings as in our Terms of Service. 
+Welcome to StreamNation, a service offered by Milestone Project. Protecting your privacy is really important to us. Accordingly, we’re providing this Privacy Policy to explain our practices regarding the collection, use and disclosure of information that we receive when you use our Services (as defined in our Terms of Service, accessible at [www.streamnation.com/tos](http://www.streamnation.com/tos)). This Privacy Policy applies only to those websites, services, software and mobile applications included within “Services” and doesn’t apply to any third-party websites, services, software or mobile applications, even if they are accessible through our Services. Also, please note that, unless we define a term in this Privacy Policy, all capitalized words used in this Privacy Policy have the same meanings as in our Terms of Service. 
 
-By accepting this Privacy Policy, you hereby enter into an agreement made between you and The Digital Nation, a Luxembourg limited liability company (société à responsabilité limitée) existing under the laws of Luxembourg, having its registered address at 117, avenue Gaston Diderich, L-1420Luxembourg and registered with the Luxembourg register of Commerce and Companies under number B 177.564, and having a share capital of EUR 12,400. Digital Nation S.à r.l., together with its parent, subsidiaries and affiliates are collectively referred to herein as "DN", “we”, “our” or “us”. 
+By accepting this Privacy Policy, you hereby enter into an agreement made between you and Milestone Project, Inc., a Delaware Corporation. Milestone Project, together with its parent, subsidiaries and affiliates are collectively referred to herein as “MP”, “we”, “our” or “us”. 
 
-PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING THE SITE. BY USING THE SITE, YOU EXPLICITLY ACCEPT THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO BE BOUND BY THIS PRIVACY POLICY, YOU SHOULD LEAVE THE SITE IMMEDIATELY AND CEASE ALL YOUR USE OF THE SERVICES. 
+PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING THE SERVICES. BY USING THE SERVICES, YOU EXPLICITLY ACCEPT THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO BE BOUND BY THIS PRIVACY POLICY, YOU SHOULD LEAVE THE SITE IMMEDIATELY AND CEASE ALL YOUR USE OF THE SERVICES. 
 
 ## How do we collect and use information?
 
 Our primary goals in collecting information are to provide and improve our Services, to administer your use of the Services (including your Account, if you are an Account holder), and to enable you to enjoy and easily navigate our Services. 
 
-DN uses your personal information to provide you with a superior customer experience and, as necessary, to administer our business. We use your personal information for, inter alia, the following purposes: 
+MP uses your personal information to provide you with a superior customer experience and, as necessary, to administer our business. We use your personal information for, inter alia, the following purposes: 
 
-• Provide you with services and information, through e-mails from DN, the Site, your electronic devices, Apps and Software; 
+• Provide you with services and information, through e-mails from MP, the Site, your electronic devices, Apps and Software; 
 
 • Provide customer service; 
 
@@ -64,13 +64,13 @@ We use service providers such as Google Analytics and Mixpanel to collect, monit
 
 When you use our App we collect and store information about where you are located, such as by converting your IP address into a rough geolocation. 
 
-Most of mobile devices allow you to switch off the geolocation feature. If you do not wish that data regarding your location be collected, stored and processed by DN, you should modify the personal settings of your mobile device. 
+Most of mobile devices allow you to switch off the geolocation feature. If you do not wish that data regarding your location be collected, stored and processed by MP, you should modify the personal settings of your mobile device. 
 
-##  BY DOING BUSINESS WITH OR INTERACTING WITH DN, YOU CONSENT TO THE USE OF THE TRACKING TECHNOLOGIES AS DESCRIBED ABOVE. 
+##  BY DOING BUSINESS WITH OR INTERACTING WITH MP, YOU CONSENT TO THE USE OF THE TRACKING TECHNOLOGIES AS DESCRIBED ABOVE. 
 
 ### Inviting Friends to use the Services or Access User Content.
 
-Account holders can invite their friends to use the Services via their Accounts in connection with our Referral Program. Account holders can also send invitations to their friends to obtain access to User Content collections. In connection with these features of the Services, Account holders may connect their Accounts with their accounts with certain third-party services such as Facebook (each, a “Third Party Account”) to enable Account holders to contact their friends and contacts via such Third Party Accounts. If an Account holder chooses to connect with a Third Party Account via the Services, the Account holder may have to provide us with his or her username (or userID) so that his or her identity can be authenticated by the Third Party Account. When the authentication is complete, we’ll be able to access certain information such as lists of Third Party Account friends or contacts and other information that the Account holder’s privacy settings on the Third Party Account permit us to access in order to present such friends or contacts to the Account holder via the Services, as applicable. We don’t receive or store passwords for any Third Party Accounts. Alternatively, if an Account holder provides DN with the email address of a friend, a message will be sent from DN to such friend on the applicable Account holders’ behalf, inviting the friend to use the Services.  These email addresses will be used only for the purpose of sending the one-time communication to the friends and for analyzing the success of this feature of the Services. Invited friends may request that DN delete their PII by contacting us at theteam@streamnation.com. In any case, after 6 months, email addresses of friends who have not created an Account will be automatically deleted from our system. 
+Account holders can invite their friends to use the Services via their Accounts in connection with our Referral Program. Account holders can also send invitations to their friends to obtain access to User Content collections. In connection with these features of the Services, Account holders may connect their Accounts with their accounts with certain third-party services such as Facebook (each, a “Third Party Account”) to enable Account holders to contact their friends and contacts via such Third Party Accounts. If an Account holder chooses to connect with a Third Party Account via the Services, the Account holder may have to provide us with his or her username (or userID) so that his or her identity can be authenticated by the Third Party Account. When the authentication is complete, we’ll be able to access certain information such as lists of Third Party Account friends or contacts and other information that the Account holder’s privacy settings on the Third Party Account permit us to access in order to present such friends or contacts to the Account holder via the Services, as applicable. We don’t receive or store passwords for any Third Party Accounts. Alternatively, if an Account holder provides MP with the email address of a friend, a message will be sent from MP to such friend on the applicable Account holders’ behalf, inviting the friend to use the Services.  These email addresses will be used only for the purpose of sending the one-time communication to the friends and for analyzing the success of this feature of the Services. Invited friends may request that MP delete their PII by contacting us at theteam@streamnation.com. In any case, after 6 months, email addresses of friends who have not created an Account will be automatically deleted from our system. 
 
 ## What Information Do We Share With Third Parties?
 
@@ -86,7 +86,7 @@ We may engage third party service providers to work with us to administer and pr
 
 ### Information Shared with Third Parties.
 
-We may share aggregated information and non-identifying information with third parties for industry analysis, demographic profiling and other similar purposes. DN do not sell or rent your personal information to third parties. 
+We may share aggregated information and non-identifying information with third parties for industry analysis, demographic profiling and other similar purposes. MP do not sell or rent your personal information to third parties. 
 
 ### Information Disclosed in Connection with Business Transactions.
 
@@ -114,11 +114,11 @@ In case of incomplete or inaccurate PII, you have the right to ask us to modify 
 
 ## International Transfer
 
-You acknowledge and hereby explicitly agree that your PII may be transferred to, and maintained on, computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you’re located outside of Luxembourg and choose to provide your PII to us, we may transfer your PII to Luxembourg and process it there. 
+You acknowledge and hereby explicitly agree that your PII may be transferred to, and maintained on, computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. For example, we may transfer your PII to the European Union and process it there. 
 
 ## Our Policy Toward Children
 
-DN is committed to complying with all applicable laws and regulations regarding the collection, storage and use of PII of Minors. 
+MP is committed to complying with all applicable laws and regulations regarding the collection, storage and use of PII of Minors. 
 
 Except as noted below: (i) our services are marketed for and directed towards purchase by adults or with the consent of adults; (ii) Individuals under the age of 18 ("Minors") are not permitted to use the Services without the supervision of a parent or legal guardian; (iii) we do not knowingly collect or solicit personal information from children under the age of 18 or knowingly allow such persons to register for an online account or to post personal information on the Site; and (iv) should we learn that someone under the age of 18 has provided any personal information to or on any of the Site, we will remove that information as soon as possible. 
 
@@ -128,11 +128,11 @@ Any information that we collect is subject to the privacy policy in effect at th
 
 ## Dispute
 
-Any dispute between you and us regarding the privacy of your personal information is subject to this Privacy Policy and the Terms of Service, including limitation on damages, resolution of disputes, and application of the law of the Grand Duchy of Luxembourg. 
+Any dispute between you and us regarding the privacy of your personal information is subject to this Privacy Policy and the Terms of Service, including (but not limited to) those provisions related to limitation on damages, resolution of disputes, and governing law. 
 
 ## Notices
 
-Any notices or other communications provided by DN under this Privacy Policy, including those regarding modifications to this Privacy Policy, will be given by DN: (i) via email; or (ii) by posting to the Services. For notices made by e-mail, the date of receipt will be deemed the date on which such notice is transmitted. You hereby consent to receive electronic notices from us, whether addressed to the email address associated with your Account or another email address that you provide to us. To the maximum extent permitted by applicable local law, you acknowledge and agree that any communication via email or by postings to the Services satisfies any legal requirement that such communications be made in writing. You may give notice to us via email to the following address: [theteam@streamnation.com](mailto:theteam@streamnation.com)
+Any notices or other communications provided by MP under this Privacy Policy, including those regarding modifications to this Privacy Policy, will be given by MP: (i) via email; or (ii) by posting to the Services. For notices made by e-mail, the date of receipt will be deemed the date on which such notice is transmitted. You hereby consent to receive electronic notices from us, whether addressed to the email address associated with your Account or another email address that you provide to us. To the maximum extent permitted by applicable local law, you acknowledge and agree that any communication via email or by postings to the Services satisfies any legal requirement that such communications be made in writing. You may give notice to us via email to the following address: [theteam@streamnation.com](mailto:theteam@streamnation.com)
 
 ## Questions?
 
