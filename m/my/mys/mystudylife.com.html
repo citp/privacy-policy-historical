@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mystudylife.com privacy policy that was archived on 2015-03-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150322121113id_/https%3A//www.mystudylife.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mystudylife.com privacy policy that was archived on 2015-09-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150914065044id_/https%3A//www.mystudylife.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
     <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">var _sf_startpt = (new Date()).getTime()</script>
@@ -23,7 +23,7 @@
 
     <script type="text/javascript" src="https://use.typekit.com/dxy4ykg.js"></script>
     <script type="text/javascript">try { Typekit.load(); } catch (e) { }</script>
-    </head>
+    <script src="//az416426.vo.msecnd.net/scripts/a/ai.0.js"></script></head>
     <body itemscope="" itemtype="http://schema.org/WebPage">
         <div id="fb-root"></div>
 
@@ -108,20 +108,6 @@
             <script src="/js/bundle.min.js"></script>
 
         <script>
-            var _sf_async_config = { uid: 41367, domain: 'www.mystudylife.com', useCanonical: true };
-            (function () {
-                function loadChartbeat() {
-                    window._sf_endpt = (new Date()).getTime();
-                    var e = document.createElement('script');
-                    e.async = 1;
-                    e.src = '//static.chartbeat.com/js/chartbeat.js';
-                    document.body.appendChild(e);
-                };
-                var oldonload = window.onload;
-                window.onload = (typeof window.onload != 'function') ?
-                    loadChartbeat : function () { oldonload(); loadChartbeat(); };
-            })();
-
             (function (i, s, o, g, r, a, m) {
                 i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
                     (i[r].q = i[r].q || []).push(arguments);
@@ -131,8 +117,17 @@
 
             ga('create', 'UA-22456359-2', 'www.mystudylife.com');
             ga('send', 'pageview');
+
+            var appInsights = window.appInsights || function (config) {
+                function s(config) { t[config] = function () { var i = arguments; t.queue.push(function () { t[config].apply(t, i) }) } } var t = { config: config }, r = document, f = window, e = "script", o = r.createElement(e), i, u; for (o.src = config.url || "//az416426.vo.msecnd.net/scripts/a/ai.0.js", r.getElementsByTagName(e)[0].parentNode.appendChild(o), t.cookie = r.cookie, t.queue = [], i = ["Event", "Exception", "Metric", "PageView", "Trace"]; i.length;) s("track" + i.pop()); return config.disableExceptionTracking || (i = "onerror", s("_" + i), u = f[i], f[i] = function (config, r, f, e, o) { var s = u && u(config, r, f, e, o); return s !== !0 && t["_" + i](config, r, f, e, o), s }), t
+            }({
+                instrumentationKey: "f45641db-6744-431e-b0a9-db845dc0de5c"
+            });
+
+            window.appInsights = appInsights;
+            appInsights.trackPageView();
         </script>
         
     
 
-<script async="" src="//static.chartbeat.com/js/chartbeat.js"></script></body></html>
+</body></html>
