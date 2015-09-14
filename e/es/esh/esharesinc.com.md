@@ -1,115 +1,70 @@
-> *The following text is extracted and transformed from the esharesinc.com privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011115627id_/https%3A//www.esharesinc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esharesinc.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914194545id_/https%3A//support.esharesinc.com/article/166-privacy-policy) for the most accurate reproduction.*
 
-# eShares - Cap table management, subscription 409a valuations, ASC 718, and electronic stock certificates and options
+# Privacy Policy - eShares Help Center
 
-### Data Controller and Owner
+_Content last updated_ : January 18, 2015.
 
-eShares, Inc. 2525 E. Charleston Road, Suite 104 Mountain View, CA 94043 ,   
-support@esharesinc.com
+This privacy policy (“Policy”) describes how eShares, Inc. and its related companies (“Company”) collect, use, and share personal information of consumer users of this website, [www.esharesinc.com](http://www.esharesinc.com/) (the “Site”). This Policy also applies to any of our other websites that post this Policy. This Policy does not apply to websites that post different statements.
 
-  
+### WHAT WE COLLECT
 
+We get information about you in a range of ways.
 
-### Types of Data collected
+> **Information You Give Us.**  We collect your‎ name, postal address, email address, phone number, username, password, demographic information (such as your occupation), social security number, tax id number as well as other information you directly give us on our Site. 
+> 
+> **Information We Get From Others.**  We may get information about you from other sources. We may add this to information we get from this Site. 
+> 
+> **Information Automatically Collected.**  We automatically log information about you and your computer. For example, when visiting our Site, we log your computer operating system type, browser type, browser language, pages you viewed, how long you spent on a page, access times and information about your use of and actions on our Site. 
+> 
+> **Cookies.**  We may log information using "cookies." Cookies are small data files stored on your hard drive by a website. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on our Site. This type of information is collected to make the Site more useful to you and to tailor the experience with us to meet your special interests and needs. 
 
-Among the types of Personal Data that this Application collects, by itself or through third parties, there are: Cookie, Usage Data, Email, First Name and Last Name.
+### USE OF PERSONAL INFORMATION
 
-Other Personal Data collected may be described in other sections of this privacy policy or by dedicated explanation text contextually with the Data collection. The Personal Data may be freely provided by the User, or collected automatically when using this Application. Any use of Cookies - or of other tracking tools - by this Application or by the owners of third party services used by this Application, unless stated otherwise, serves to identify Users and remember their preferences, for the sole purpose of providing the service required by the User. Failure to provide certain Personal Data may make it impossible for this Application to provide its services.
+We use your personal information as follows:
 
-The User assumes responsibility for the Personal Data of third parties published or shared through this Application and declares to have the right to communicate or broadcast them, thus relieving the Data Controller of all responsibility.
-
-  
-
-
-### Mode and place of processing the Data
-
-**Method of processing**
-
-The Data Controller processes the Data of Users in proper manner and shall take appropriate security measures to prevent unauthorized access, disclosure, modification or unauthorized destruction of the Data. Access to the Data may be available to Data Processors, if appointed, as well as employees involved with the processing. Access to Data may be also available to external parties providing services to the Data Controller such as third party technical service providers, mail carriers, hosting providers, IT companies, communication agencies. The updated list of these parties may be requested from the Data Controller at any time.
-
-**Place**
-
-The Data is processed at the Data Controller headquarters, unless stated otherwise in the rest of this document.
-
-**Conservation Time**
-
-The Data is kept for the time necessary to provide the service requested by the User, or stated by the purposes outlined in this document, and the User can always request the Data Controller for their suspension or removal.
-
-  
+  * We use your personal information to operate, maintain, and improve our site, products, and services.
+  * We use your personal information to respond to comments and questions and provide customer service.
+  * We use your personal information to send information including confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages.
+  * We use your personal information to communicate about promotions, upcoming events, and other news about products and services offered by us.
+  * We use your personal information to link or combine user information with other personal information.
+  * We use your personal information to protect, investigate, and deter against fraudulent, unauthorized, or illegal activity.
+  * We use your personal information to provide and deliver products and services customers request.
 
 
-### The use of the collected Data
 
-The Data concerning the User is collected to allow the Application to provide its services, as well as for the following purposes: Analytics, Contacting the User, Managing email addresses and sending messages, Users' database management, Remarketing and Behavioral Targeting, Infrastructure monitoring and Registration and authentication.
+### SHARING OF PERSONAL INFORMATION
 
-  
+We may share personal information as follows:
 
-
-### Additional information about Data collection and processing
-
-**Legal Action**
-
-The User's Personal Data may be used for legal purposes by the Data Controller, in Court or in the stages leading to possible legal action arising from improper use of this Application or the related services.
-
-**Additional Information about User's Personal Data**
-
-In addition to the information in this privacy policy, this Application may provide the User with contextual information concerning particular services or the collection and processing of Personal Data.
-
-**System Logs and Maintenance**
-
-For operation and maintenance purposes, this Application and any third party services may collect files that record interaction with this Application (System Logs) or use for this purpose other Personal Data (such as IP Address).
-
-**Information not contained in this policy**
-
-More details concerning the collection or processing of Personal Data may be requested from the Data Controller at any time at its contact information.
-
-**The rights of Users**
-
-Users have the right, at any time, to know whether their Personal Data has been stored and can consult the Data Controller to learn about their contents and origin, to verify their accuracy or to ask for them to be supplemented, cancelled, updated or corrected, or for their transformation into anonymous format or to block any data held in violation of the law, as well as to oppose their treatment for any and all legitimate reasons. Requests should be sent to the Data Controller at the contact information set out above.
-
-This Application does not support “do not track” requests. To understand if any of the third party services it uses honor the “do not track” requests, please read their privacy policies.
-
-**Changes to this privacy policy**
-
-The Data Controller reserves the right to make changes to this privacy policy at any time by giving notice to its Users on this page. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom. If a User objects to any of the changes to the Policy, the User must cease using this Application and can request the Data Controller to erase the Personal Data. Unless stated otherwise, the then-current privacy policy applies to all Personal Data the Data Controller has about Users.
-
-  
+  * We may share personal information when we do a business deal, or negotiate a business deal, involving the sale or transfer of all or a part of our business or assets. These deals can include any merger, acquisition, or bankruptcy transaction or proceeding.
+  * We may share personal information for legal, protection, and safety purposes.
+  * We may share information to comply with laws. 
+    * We may share information to respond to lawful requests and legal processes.
+    * We may share information to protect the rights and property of eShares, Inc., our agents, customers, and others. This includes enforcing our agreements, policies, and terms of use.
+    * We may share information with those who need it to do work for us.
+  * We may also share aggregated and/or anonymized data with others for their own uses.
+  * We will not share personal information with investors of the Company beyond any personal information that such investors are entitled to.
 
 
-### Definitions and legal references 
 
-**Personal Data (or Data)**
+### INFORMATION CHOICES AND CHANGES
 
-Any information regarding a natural person, a legal person, an institution or an association, which is, or can be, identified, even indirectly, by reference to any other information, including a personal identification number.
+Our marketing emails tell you how to “opt-out.” If you opt out, we may still send you non-marketing emails. Non-marketing emails include emails about your accounts and our business dealings with you.
 
-**Usage Data**
+You may send requests about personal information to our Contact Information below. You can request to change contact choices, opt-out of our sharing with others, and update your personal information.
 
-Information collected automatically from this Application (or third party services employed in this Application ), which can include: the IP addresses or domain names of the computers utilized by the Users who use this Application, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Application) and the details about the path followed within the Application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User's IT environment.
+You can typically remove and reject cookies from our Site with your browser settings. Many browsers are set to accept cookies until you change your settings. If you remove or reject our cookies, it could affect how our Site works for you.
 
-**User**
+### CONTACT INFORMATION
 
-The individual using this Application, which must coincide with or be authorized by the Data Subject, to whom the Personal Data refer.
+We welcome your comments or questions about this privacy policy. You may also contact us at our address:
 
-**Data Subject**
+eShares, Inc.   
+2525 E. Charleston Road, Suite 104   
+Mountain View, California 94043
 
-The legal or natural person to whom the Personal Data refers to.
+### CHANGES TO THIS PRIVACY POLICY
 
-**Data Processor**
+We may change this privacy policy. If we make any substantiative changes, we will change the  _Content last updated_  date above. Other changes, such as grammar or spelling corrections will automatically update the timestamp at the bottom of this document.
 
-The natural person, legal person, public administration or any other body, association or organization authorized by the Data Controller to process the Personal Data in compliance with this privacy policy.
-
-**Data Controller (or Application Owner, or Owner)**
-
-The natural person, legal person, public administration or any other body, association or organization with the right, also jointly with another Data Controller, to make decisions regarding the purposes, and the methods of processing of Personal Data and the means used, including the security measures concerning the operation and use of this Application. The Data Controller, unless otherwise specified, is the Owner of this Application.
-
-**This Application**
-
-The hardware or software tool by which the User Personal Data is collected.
-
-**Cookie**
-
-Small piece of data stored in the User's device.
-
-**Legal information**
-
-Notice to European Users: this privacy statement has been prepared in fulfillment of the obligations under Art. 10 of EC Directive n. 95/46/EC, and under the provisions of Directive 2002/58/EC, as revised by Directive 2009/136/EC, on the subject of Cookies. This privacy policy is solely about this Application.
+Last updated on August 10, 2015
