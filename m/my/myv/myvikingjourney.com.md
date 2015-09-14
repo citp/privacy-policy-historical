@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myvikingjourney.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315132929id_/https%3A//www.myvikingjourney.com/Help/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myvikingjourney.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914023630id_/https%3A//www.myvikingjourney.com/Help/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Viking Cruises
 
