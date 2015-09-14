@@ -1,47 +1,47 @@
-> *The following text is extracted and transformed from the legaladvantage.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611232514id_/http%3A//legaladvantage.net/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legaladvantage.net privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914211428id_/http%3A//legaladvantage.net/Privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Legal Advantage
+# Legal Advantage - Patent Search, Patent Illustrations & Language Translation Services
 
----  
-  
-General
+Legal Advantage is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Legal Advantage Web site and governs data collection and usage. By using the Legal Advantage website, you consent to the data practices described in this statement.
 
-Legal Advantage LLC is committed to protecting your privacy and earning your trust. This Privacy Policy describes Legal Advantage LLC 's information gathering and dissemination practices for www.legaladvantage.net ("Web Site").
+Collection of your Personal Information
 
-Individuals may visit this Web Site without disclosing any personal information. Legal Advantage LLC may track the activity of visitors to this Web Site in order to analyze trends, monitor, and to improve and refine the functionality of the site. When used for the above purposes, this data is aggregated and is not stored in any personally identifiable form. Legal Advantage LLC uses visitors IP addresses to help diagnose problems with our server, and to administer our Web Site.
+Legal Advantage collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Legal Advantage also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
 
-Visitors to this Web Site may contact Legal Advantage LLC by e-mail. When Legal Advantage LLC receives e-mail, it collects the sender's return e-mail address. Legal Advantage LLC uses this return address to respond to inquires or comments that it receives. Legal Advantage LLC does not share personal information it obtains from visitors who send e-mail to Legal Advantage LLC with any third parties, unless it is authorized to do so.
+There is also information about your computer hardware and software that is automatically collected by Legal Advantage. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by Legal Advantage for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Legal Advantage Web site.
 
-Legal Advantage LLC "Submit Project" form allows customers to request services. We collect visitors' contact information and unique identifiers. Contact information from this form is used to contact customers regarding their requests and to send them information about our company. Visitors may opt-out of receiving future mailings. Unique identifiers are collected from Web Site visitors to verify the user's identity. No information provided to Legal Advantage LLC in connection with a request for Legal Advantage LLC services, including information submitted by the "Submit Project" form, will be disclosed to any third party unless it is authorized to do so by the customer or required to do so by applicable law. However, any other comments or materials you provide, including questions, suggestions, or ideas, will be deemed non-confidential, and Legal Advantage LLC will be free to transmit, reproduce, use, sell, exhibit, disclose, display, transform, create derivative works, and/or distribute such information to others without limitation. Legal Advantage LLC is free to use any ideas, concepts, know-how, or techniques contained in any comments or materials you voluntarily provide, for any purpose whatsoever, including development and marketing of services and products incorporating such information. Legal Advantage LLC may update this Privacy Policy at any time without prior notice. 
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Legal Advantage public message boards, this information may be collected and used by others. Note: Legal Advantage does not read any of your private online communications.
 
-Links to other Sites
+Legal Advantage encourages you to review the privacy statements of Web sites you choose to link to from Legal Advantage so that you can understand how those Web sites collect, use and share your information. Legal Advantage is not responsible for the privacy statements or other content on Web sites outside of the Legal Advantage and Legal Advantage family of Web sites.
 
-This Web Site may contain links to other sites. Legal Advantage LLC is not responsible for the privacy practices or the content of such web sites 
+Use of your Personal Information
 
-Disclaimer
+Legal Advantage collects and uses your personal information to operate the Legal Advantage Web site and deliver the services you have requested. Legal Advantage also uses your personally identifiable information to inform you of other products or services available from Legal Advantage and its affiliates. Legal Advantage may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
-THE SERVICES PROVIDED BY THE LEGAL ADVANTAGE LLC WEB SITE DO NOT CONSTITUTE THE RENDERING OF LEGAL SERVICES, AND NO ATTORNEY-CLIENT RELATIONSHIP IS FORMED BETWEEN LEGAL ADVANTAGE LLC AND ANY CUSTOMER, OR BETWEEN LEGAL ADVANTAGE LLC AND ANY USER, BY VIRTUE OF SUCH SERVICES. THE INFORMATION CONTAINED IN LEGAL ADVANTAGE LLC 'S WEB SITE IS NOT INTENDED TO CONSTITUTE LEGAL ADVICE OR TO SUBSTITUTE FOR OBTAINING APPROPRIATE LEGAL ADVICE. 
+Legal Advantage does not sell, rent or lease its customer lists to third parties. Legal Advantage may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Legal Advantage may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Legal Advantage, and they are required to maintain the confidentiality of your information.
 
-Changing Information
+Legal Advantage does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
 
-Users may change and modify information previously provided by sending an e-mail to info@legaladvantage.net.
+Legal Advantage keeps track of the Web sites and pages our customers visit within Legal Advantage, in order to determine what Legal Advantage services are the most popular. This data is used to deliver customized content and advertising within Legal Advantage to customers whose behavior indicates that they are interested in a particular subject area.
 
-If anyone has any questions about this Privacy Policy, the practices of, or his or her dealings with, this Web Site, he or she should contact Legal Advantage LLC at the following address:
+Legal Advantage Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Legal Advantage or the site; (b) protect and defend the rights or property of Legal Advantage; and, (c) act under exigent circumstances to protect the personal safety of users of Legal Advantage, or the public.
 
-Legal Advantage LLC   
-Webmaster  
-4330 East West Highway  
-Suite 205  
-Bethesda, MD 20814
+Use of Cookies
 
-Other
+The Legal Advantage Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
-This policy is subject to change from time to time.
+One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Legal Advantage pages, or register with Legal Advantage site or services, a cookie helps Legal Advantage to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Legal Advantage Web site, the information you previously provided can be retrieved, so you can easily use the Legal Advantage features that you customized.
 
-|   
-|  |  |  |   
-|  |   
----|---|---  
-  
-intellectual property services, legal support services, legal advantage, legal advantage llc, legal advantage law service, patent search, inventor resources, patent services, copyright, trademark design, patent illustration, patent drawing, patent design, prior art search, language translation, document review attorney, trial graphics, legal research, patent analysis, patent mapping, electronic discovery, mortgage modification, biotechnology, staffing, spend analysis services  
-Boston, Chicago, Dallas, Houston, Los Angeles, New York, Ottawa, San Francisco, Washington DC
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Legal Advantage services or Web sites you visit.
+
+Security of your Personal Information
+
+Legal Advantage secures your personal information from unauthorized access, use or disclosure. Legal Advantage secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+
+Changes to this Statement
+
+Legal Advantage will occasionally update this Statement of Privacy to reflect company and customer feedback. Legal Advantage encourages you to periodically review this Statement to be informed of how Legal Advantage is protecting your information.
+
+Contact Information
+
+Legal Advantage welcomes your comments regarding this Statement of Privacy. If you believe that Legal Advantage has not adhered to this Statement, please contact Legal Advantage at [nsarma@lainternal.com](mailto:nsarma@lainternal.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
