@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the workamajig.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623172707id_/http%3A//www.workamajig.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workamajig.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914065139id_/http%3A//www.workamajig.com/privacy-policy) for the most accurate reproduction.*
 
-# Workamajig™ Platinum | About Us
+# Workamajig™ Platinum | Search
 
 By using or accessing this website you are agreeing to the Privacy Policy set forth below.
 
