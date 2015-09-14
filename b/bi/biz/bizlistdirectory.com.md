@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizlistdirectory.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510160449id_/http%3A//bizlistdirectory.com/pages/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizlistdirectory.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914171615id_/http%3A//bizlistdirectory.com/pages/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -37,6 +37,10 @@ We adopt appropriate data collection, storage and processing practices and secur
 ####  **Sharing your personal information**
 
 We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+
+ **ATTENTION NEW USERS!**
+
+As of 06/03/2015 all new users who register on our website; the contact information you provide to us will be available to the public and third parties and it might be used for advertising purposes. 
 
 ####  **Third party websites**
 
@@ -81,4 +85,4 @@ Fill Out [Contact Form](http://bizlistdirectory.com/contact.php)[ ](http://biz
 
 Prospect, CT 06712
 
-This document was last updated on July 03, 2013
+This document was last updated on June, 03, 2015
