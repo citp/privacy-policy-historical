@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tads.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315021629id_/https%3A//www.tads.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tads.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914045312id_/http%3A//www.tads.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TADS
 
@@ -44,5 +44,3 @@ We may disclose the information we collect, as described above, with third parti
 
 
 ###### Click here for our PCI Certification information:
-
-Updated 12/05/2013
