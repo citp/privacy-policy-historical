@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onelittlemister.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502201620id_/http%3A//www.onelittlemister.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onelittlemister.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915002301id_/http%3A//www.onelittlemister.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | One Little Mister
 
