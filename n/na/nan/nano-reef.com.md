@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nano-reef.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317235226id_/http%3A//www.nano-reef.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nano-reef.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914235220id_/http%3A//www.nano-reef.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Nano-Reef.com Forums
 
