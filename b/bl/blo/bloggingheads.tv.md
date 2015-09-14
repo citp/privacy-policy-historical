@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloggingheads.tv privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627180548id_/http%3A//bloggingheads.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggingheads.tv privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914210624id_/http%3A//bloggingheads.tv/privacy-policy) for the most accurate reproduction.*
 
 # Bloggingheads.tv
 
@@ -10,11 +10,11 @@ We do not collect personal information about visitors to our website unless you 
 
 ### Contact form
 
-We provide a [contact form](https://web.archive.org/web/20150627180548id_/http%3A//bloggingheads.tv/contact) on Bloggingheads.tv so that site visitors can communicate with us. Users of this optional service provide a name as well as an email address where they can receive a response when one is needed. We do not use this information for any purpose other than responding to inquiries and we do not share this information with third parties.
+We provide a [contact form](https://web.archive.org/web/20150914210624id_/http%3A//bloggingheads.tv/contact) on Bloggingheads.tv so that site visitors can communicate with us. Users of this optional service provide a name as well as an email address where they can receive a response when one is needed. We do not use this information for any purpose other than responding to inquiries and we do not share this information with third parties.
 
 ### Email subscriptions
 
-We allow users to [subscribe to our content](https://web.archive.org/web/20150627180548id_/http%3A//bloggingheads.tv/subscribe) through the email delivery features of Google’s FeedBurner application. Users of this optional service provide an email address where they want to receive Bloggingheads.tv subscription emails. We do not use these email addresses for any purpose other than Bloggingheads.tv email subscriptions and we do not share them with third parties.
+We allow users to [subscribe to our content](https://web.archive.org/web/20150914210624id_/http%3A//bloggingheads.tv/subscribe) through the email delivery features of Google’s FeedBurner application. Users of this optional service provide an email address where they want to receive Bloggingheads.tv subscription emails. We do not use these email addresses for any purpose other than Bloggingheads.tv email subscriptions and we do not share them with third parties.
 
 ### Disqus commenting system
 
@@ -66,49 +66,17 @@ We may update this Privacy Policy at any time. When we do, we will revise the da
 
 ## Contact us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please send us a message on our [contact form](https://web.archive.org/web/20150627180548id_/http%3A//bloggingheads.tv/contact).
-
-[](https://web.archive.org/videos/35703?in=0:29&out=6:07)
-
-## Brian Beutler and Yevgeniy Feyman analyze the decision in King v. Burwell.
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please send us a message on our [contact form](https://web.archive.org/web/20150914210624id_/http%3A//bloggingheads.tv/contact).
 
 [
 
-### The DMZ
+### Rational Actors
 
-](https://web.archive.org/programs/dmz)
+](https://web.archive.org/programs/rational-actors)
 
-[](https://web.archive.org/videos/35692?in=33:28&out=39:13)
+[](https://web.archive.org/videos/36825?in=00:49&out=03:15)
 
-## Bill Scher and Matt Lewis react to the Chief Justice’s ruling that upheld Obamacare subsidies.
-
-[
-
-### Drezburt
-
-](https://web.archive.org/programs/drezburt)
-
-[](https://web.archive.org/videos/35680?in=21:47&out=25:14)
-
-## Heather Hurlburt and Dan Drezner discuss what many in the West didn’t understand about China’s economic rise. **Plus:** It’s a miracle! [Trade promotion authority](http://bloggingheads.tv/videos/35680?in=01:07&out=05:14) is revived
-
-[](https://web.archive.org/videos/35628?in=4:38&out=10:17)
-
-## Timothy Noah and Peter Cappelli discuss whether employers are actually unable to hire appropriately skilled workers. **Plus:** [You’re fired!](http://bloggingheads.tv/videos/35628?in=25:38&out=30:08) Please train your replacement.
-
-[
-
-### The Wright Show
-
-](https://web.archive.org/programs/wrightshow)
-
-[](https://web.archive.org/videos/35618?in=16:36&out=21:27)
-
-## Robert Wright and Conor Friedersdorf discuss how empathy can better promote racial understanding. **Plus:** Should the government be able to [scan your brain](http://bloggingheads.tv/videos/35618?in=45:46&out=51:20)?
-
-[](https://web.archive.org/videos/35603?in=29:27&out=33:15)
-
-## Harry Siegel explains why it’s impossible to measure the effect of the controversial police tactic. **Plus:** Lies, damned lies, and [NYC crime statistics](http://bloggingheads.tv/videos/35603?in=42:50&out=46:35).
+## Stephanie Slade contends that libertarian philosophy doesn’t conflict with her anti-abortion views.
 
 [
 
@@ -116,20 +84,26 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 ](https://web.archive.org/programs/woodruff-strauss)
 
-[](https://web.archive.org/videos/35572?in=21:54&out=26:14)
+[](https://web.archive.org/videos/36854?in=15:32&out=17:43)
 
-## Betsy Woodruff and Luke Brinker discuss how a President Hillary Clinton would approach the Trans-Pacific Partnership. **Plus:** How do you solve a problem like[ The Donald](http://bloggingheads.tv/videos/35572?in=5:32&out=10:42)?
+## Betsy Woodruff and Daniel Strauss explain why Rick Perry was the first GOP contender to drop out.
 
 [
 
-### Culturally Determined
+### The DMZ
 
-](https://web.archive.org/programs/culturally-determined)
+](https://web.archive.org/programs/dmz)
 
-[](https://web.archive.org/videos/35578?in=17:52&out=22:49)
+[](https://web.archive.org/videos/36819?in=13:42&out=18:45)
 
-## Alyssa Rosenberg argues against the charge that the show has become gratuitous. _(Contains spoilers.)_ **Plus:** Can [_Game of Thrones_](http://bloggingheads.tv/videos/35578?in=13:44&out=16:58) end in a intellectually honest way? __
+## Bill Scher and Matt Lewis game out the House Speaker’s future. **Plus:** Should [Biden ](http://bloggingheads.tv/videos/36819?in=30:44&out=35:45)run?
 
-[](https://web.archive.org/videos/35557?in=21:28&out=24:14)
+[
 
-## Mark Schmitt and Monica Potts discuss the economic choices and challenges facing Millennials. **Plus:** Could [Hillary](http://bloggingheads.tv/videos/35557?in=54:29&out=58:09) expand the Obama coalition?
+### The Glenn Show
+
+](https://web.archive.org/programs/glenn-show)
+
+[](https://web.archive.org/videos/36681?in=63:14&out=68:40)
+
+## Glenn Loury and Harold Pollack debate the wisdom of recent protests around the anniversary of Michael Brown’s death. **Plus:** Considering “[all lives matter](http://bloggingheads.tv/videos/36681?in=40:33&out=46:15).”
