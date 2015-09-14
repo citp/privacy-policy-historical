@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hours-locations.com privacy policy that was archived on 2015-03-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150317153621id_/http%3A//www.hours-locations.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hours-locations.com privacy policy that was archived on 2015-09-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150914164758id_/http%3A//www.hours-locations.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta charset="UTF-8">
@@ -103,22 +103,120 @@ Google, as a third party vendor, uses cookies to serve ads on www.hours-location
 
 <p>You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.hours-locations.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.</p>
 
-<p>If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.</p>	</div>
-	<div id="footer">
-	<ol>
-		<li>© 2012, 2013 - www.hours-locations.com
-		</li><li><a href="/">Home</a>
-		</li><li><a href="/contact-us/" rel="nofollow">Contact Us</a>
-		</li><li><a href="/privacy-policy/" rel="nofollow">Privacy Policy</a>
-		</li><li><a href="/disclaimer/" rel="nofollow">Disclaimer</a>	
-		</li><li class="social"><span class="st_facebook_large" displaytext="Facebook"></span>
-		</li><li class="social"><span class="st_twitter_large" displaytext="Tweet"></span>
-		</li><li class="social"><span class="st_email_large" displaytext="Email"></span>
-		</li><li class="social"><div class="g-plusone" data-size="medium" data-href="http://www.hours-locations.com"></div>
-		</li><li class="social"><div class="fb-like" data-href="http://www.hours-locations.com" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false">	</div>
-		
-	</li></ol>	
-	</div>
+<p>If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.</p>  </div>
+  <div id="footer">
+  <ol>
+    <li>© 2012, 2013 www.hours-locations.com
+    </li><li><a href="/">Home</a>
+    </li><li><a href="/contact-us/" rel="nofollow">Contact Us</a>
+    </li><li><a href="/privacy-policy/" rel="nofollow">Privacy Policy</a>
+    </li><li><a href="/disclaimer/" rel="nofollow">Disclaimer</a>  
+    </li><li><a href="javascript:;" onclick="submitStore()">Submit a Listing</a></li>
+    <li class="social"><span class="st_facebook_large" displaytext="Facebook"></span>
+    </li><li class="social"><span class="st_twitter_large" displaytext="Tweet"></span>
+    </li><li class="social"><span class="st_email_large" displaytext="Email"></span>
+    </li><li class="social"><div class="g-plusone" data-size="medium" data-href="http://www.hours-locations.com"></div>
+    </li><li class="social"><div class="fb-like" data-href="http://www.hours-locations.com" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false">  </div>
+    
+  </li></ol>
+  <div id="submitStoreModal" class="modal-mask" style="display: none">
+    <div class="modal">
+      <div class="modal-header">
+        <h3 style="line-height: 1.5em; margin: 0; padding: 0">Submit a company listing</h3>
+      </div>
+      <div class="modal-body" style="height:400px;overflow: scroll">
+        <!--<p>Are you associated with this store and see a problem?  Please fill out the form below and we'll do our best to update our records appropriately!</p>-->
+  
+        <br>
+        <form id="submitStoreForm" action="/" method="POST">
+          <input type="hidden" name="autobottest" id="autoBotTest" value="">
+          <div style="float:left;">
+            <label style="font-weight: bold">Store Name</label><br>
+          <input type="text" name="store_name" style="width:200px;padding:5px;">  
+          </div>
+          <div style="float:left;margin-left:10px;">
+            <label style="font-weight: bold">Street Address</label><br>
+            <input type="text" name="store_street_address" style="width:200px;padding:5px;">
+          </div>
+          <div style="clear:both"></div><br>
+          <div style="float:left;">
+            <label style="font-weight: bold">City</label><br>
+          <input type="text" name="store_city" style="width:200px;padding:5px;">
+          </div>
+          <div style="float:left;margin-left: 10px;">
+            <label style="font-weight: bold">State</label><br>
+            <input type="text" name="store_state" style="width:150px;padding:5px;">
+          </div>
+          <div style="float:left;margin-left:10px;">
+            <label style="font-weight: bold">Zip Code</label><br>
+            <input type="text" name="store_zip" style="width:100px;padding:5px;">
+          </div>
+          <div style="clear:both"></div><br>
+          <div style="float:left;">
+            <label style="font-weight: bold">Phone Number</label><br>
+            <input type="text" name="store_phone" style="width:200px;padding:5px;">
+          </div>
+          <div style="float:left;margin-left:10px;">
+            <label style="font-weight: bold">Email Address</label><br>
+            <input type="text" name="store_email" style="width:200px;padding:5px;">
+          </div>
+          <div style="clear:both;"></div><br>
+          <label style="font-weight: bold">Store Hours</label><br>
+          <input type="text" name="store_hours" style="width:200px;padding:5px;"><br><br>
+          <label style="font-weight: bold">Business Description</label>
+          <textarea cols="75" rows="3" style="padding: 10px" name="store_business_description"></textarea><br><br>
+          <input type="submit" value="Submit Form">
+        </form>
+      </div>
+      <div class="modal-footer">
+        <a class="button" href="javascript:;" onclick="closeSubmitStoreModal()">Close</a>
+      </div>
+    </div>
+  </div>
+  <style type="text/css">
+  #footer .modal{
+    text-align: left;
+  }
+  #footer .modal label{
+    font-weight: bold;
+    font-size: 16px;
+  }
+  .modal-mask               { position:fixed; top:0; right:0; bottom:0; left:0; background:rgba(0,0,0,0.8); z-index:999999999999; -webkit-transition:opacity 400ms ease-in; -moz-transition:opacity 400ms ease-in; transition:opacity 400ms ease-in; }
+  .modal-mask .modal            { position:fixed; left:50%; margin-left:-300px; top:50px; width:600px; border-radius:5px; background:#fff; border:1px #ccc solid; z-index:9999; }
+  .modal-mask .modal .modal-header    { padding:10px 20px; background:#EEE; }
+  .modal-mask .modal .modal-body      { padding:20px; }
+  .modal-mask .modal .modal-body p    { margin:0; font-size:16px; }
+  .modal-mask .modal .modal-footer    { padding:10px 20px; text-align:center; border-top:1px #ccc solid;background:#eee; }
+  .modal-mask .modal .modal-footer a    { margin:0; }
+  a.button.grey               { background:#ccc; color:#565656; }
+  a.button.grey:hover           { background:#aaa; color:#232323; }
+</style>
+<script>
+  $().ready(function(){
+    $("#submitStoreForm").submit(function(){
+
+      var data = $(this).serializeArray();
+
+      $.post("/submit-store-submit/",data,function(response){
+        alert("Thank you for your help!");
+        $("#submitStoreModal").hide();
+      })
+
+      return false;
+    })  
+  })
+
+  function submitStore(){
+    $("#autoBotTest").val("notAnAutobot");
+    $("#submitStoreModal").show()
+  }
+
+  function closeSubmitStoreModal(){
+    $("#submitStoreModal").hide()
+  }
+</script>
+  
+  </div>
 </div>
 
 </body></html>
