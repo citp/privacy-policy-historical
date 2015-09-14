@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trimdownclub.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320165437id_/http%3A//www.trimdownclub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trimdownclub.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914162837id_/http%3A//www.trimdownclub.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Trim Down Club
 
@@ -18,31 +18,32 @@ B2C hereby reserve the right, in its sole and absolute discretion, to change, mo
 
 When you provide Personal Information to the Website, you hereby consent to the manner in which B2C and/or the Affiliates collect, manage, protect and disclose your Personal Information in accordance with the terms and conditions of this Privacy Policy.
 
-**Please note that this Privacy Policy applies only to Personal Information collected by the Website or through purchase of a subscription to B2C’s Program or through purchase of its Products. B2C is not responsible for the privacy of any Personal Information you reveal or post in any public forum or Community Area (e.g., message board, blog, personal page, etc.) or through the “Public Profile” feature available on the Website, or for the privacy practices of Third Party Sellers**.
+ **Please note that this Privacy Policy applies only to Personal Information collected by the Website or through purchase of a subscription to B2C’s Program or through purchase of its Products. B2C is not responsible for the privacy of any Personal Information you reveal or post in any public forum or Community Area (e.g., message board, blog, personal page, etc.) or through the “Public Profile” feature available on the Website, or for the privacy practices of Third Party Sellers**.
 
-**Third Party Financial Institutions and Affiliates  
-**When you purchase Products available on the Website, you must submit payment information directly to Clickbank, including your credit card or debit card number, as well as your zip code. Such information shall be recorded and filed by Clickbank to fulfill your orders. In addition, when you return previously purchased Products or request a refund or exchange, you may be asked to give , including without limitation your name and address. Clickbank collects the Personal Information to prevent fraud and identity theft, and may occasionally share this Personal Information with B2C and its Affiliates. If a Registered User contacts any employee or affiliated person, a record of that correspondence may be kept.
+ **Third Party Financial Institutions and Affiliates  
+**When you purchase Products available on the Website, you must submit payment information directly to Clickbank, including your credit card or debit card number, as well as your zip code. Such information shall be recorded and filed by Clickbank to fulfill your orders. In addition, when you return previously purchased Products or request a refund or exchange, you may be asked to give , including without limitation your name and address. Clickbank collects the Personal Information to prevent fraud and identity theft, and may occasionally share this Personal Information with B2C and its Affiliates. If a Registered User contacts any employee or affiliated person, a record of that correspondence may be kept.  
+ClickBank is the retailer of products on this site. CLICKBANK® is a registered trademark of Click Sales, Inc., a Delaware corporation located at 917 S. Lusk Street, Suite 200, Boise Idaho, 83706, USA and used by permission. ClickBank’s role as retailer does not constitute an endorsement, approval or review of these products or any claim, statement or opinion used in promotion of these products.
 
-**Passive Collection of Personal Information  
+ **Passive Collection of Personal Information  
 **B2C reserves the right to passively collect information related to usage of the Website such as time spent on the Website, areas visited, and sites linked to and from the Website. The Website may collect additional information and may install cookies on the hard drives of the Registered Users and others who visit the Website.
 
 The use of cookies will allow B2C to improve the Website and the Services based on the user’s preferences and is a widely used industry practice of online businesses. However, the cookies are stored on the user’s computer, not on the Website. If you do not wish to receive cookies, or would like notification of when they are placed on your computer, you may set your own browser accordingly, if permitted.  If you disable cookies on your browser, please note that some parts of the Website may not function or may operate slower.
 
-**Security of Personal Information** :  
+ **Security of Personal Information** :  
 B2C maintains administrative, technical and physical safeguards to protect against unauthorized access, use, modification and disclosure of Personal Information in its custody and control. B2C  is committed to employing reasonable technology in order to protect the security of the Website and its offline files. However, even with the best technology, no site is 100% secure. B2C  will take reasonable measures which B2C believes are appropriate to protect your Personal Information from loss, misuse, alteration or destruction, and, where possible, will ask that any third parties to whom B2C may transfer such Personal Information take comparable steps to protect that security.
 
-**INFORMATION COLLECTED ON THE WEBSITE OR THROUGH YOUR SUBSCRIPTION TO THE PROGRAM OR THROUGH YOUR PURCHASE OF THE PRODUCTS**
+ **INFORMATION COLLECTED ON THE WEBSITE OR THROUGH YOUR SUBSCRIPTION TO THE PROGRAM OR THROUGH YOUR PURCHASE OF THE PRODUCTS**
 
-**_Personal Information.  
+ ** _Personal Information.  
 _**B2C may request Personal Information from you when you become a Registered User on our Website, subscribe to the Program or purchase the Products. In all of these cases, B2C will collect Personal Information from you only if you voluntarily submit such Personal Information. Unless you give B2C permission to do so, B2C will not sell, share, license, trade or rent your Personal Information other than as specified in this Privacy Policy. You do not have to provide B2C with any Personal Information to visit the Website. However, if you choose to withhold requested information, you may not be able to visit all sections of the Website or have access to all of the Products or other features of the Website, such as the online tools or submitting Postings to any Community Area on the Website.
 
-**_Non-Personal Information.  
+ ** _Non-Personal Information.  
 _**When you become a Registered User of the Website, subscribe to the Program or purchase one of the Products, B2C also may collect information that by itself cannot be used to identify or contact you, such as demographic information (such as age, profession or gender) and health information (such as current weight) (“Non-Personal Information“). Non-Personal Information may also include user’s IP addresses, browser types, domain names, and other anonymous statistical data involving the use of the Website. Non-Personal Information is used to help B2C understands who uses the Website and to improve and market the Website in general and the Program and Products in particular.
 
-**_Information from Other Sources.  
+ ** _Information from Other Sources.  
 _**B2C may also supplement the information it collects with information from other sources to assist B2C in evaluating and improving the Website, the Program and the Products, to determine your preferences so that B2C can tailor the Website, the Program and the Products to your needs, and/or to study nutritional, weight-loss, behavioral and fitness questions in general. ** **
 
-**Usage and Disclosure of Personal Information  
+ **Usage and Disclosure of Personal Information  
 **B2C may use your Personal Information, and/or transfer your Personal Information for any legal purpose including without limitation: (1) to deliver the Program and/or the Products to you that you have requested; (2) to validate your compliance with the [Terms & Conditions](http://www.trimdownclub.com/terms-condition); (3) for content improvement and feedback purposes; (4) to reach you, when necessary, regarding your use of the Website, the Program or the Products; and (5) to bring retail opportunities and promotional offers to you by email, direct mail, telemarketing, and/or online banner advertising.
 
 B2C will not disclose Personal Information collected from Registered Users of the Website to third parties, except to companies with which B2C is actively affiliated, to contractors B2C uses to support its business (such as technical support, delivery services, and financial institutions, such as ClickBank) whereby B2C will require such third parties to treat such Personal Information in accordance with this Privacy Policy, and in connection with the sale, assignment, or other transfer of the business of the Website to which the information relates. B2C may hire third parties to review certain Personal Information to advise B2C on demographic and marketing related issues, but only after such third parties have agreed to maintain the confidentiality, security, and integrity of any Personal Information contained in accordance with this Privacy Policy.
@@ -53,36 +54,36 @@ B2C will NEVER share your credit card information with third parties unless you 
 
 In addition, you agree that by submitting your email address or phone number on the Website and/or registering as a Registered User and/or subscribing to the Program and/or to purchase the Products, such act constitutes a purchase, an inquiry, and/or an application for the purposes of the Amended Telemarketing Sales Rule (ATSR), 16 CFR §310 et seq. and any applicable state and local “do not call” regulations. B2C and the third party advertisers retain the right to contact you via telemarketing in accordance with the ATSR and the applicable state regulations.
 
-**_Public Forums and the Public Profile Feature.  
+ ** _Public Forums and the Public Profile Feature.  
 _**B2C features public forums such as those contained in a Community Area where you and other Registered Users of the Website can communicate with one another (“Public Forum”). In addition, B2C offers the  “Community Area” and “Account Settings” features of the Website to permit you to share information about yourself (including, if you elect, Personal Information) with others. **THIS PRIVACY POLICY DOES NOT PROTECT YOU WHEN YOU USE THE PUBLIC FORUMS OR PROVIDE INFORMATION (INCLUDING PERSONAL INFORMATION) ABOUT YOURSELF THROUGH THE PUBLIC PROFILE FEATURE OR THROUGH ANY COMMUNITY AREA AVAILABLE ON THE WEBSITE**. You should be aware that any Personal Information shared in a Community Area, Public Forum or through the Public Profile feature is public information and may be seen or collected by third parties that do not adhere to B2C’s  Privacy Policy, although the availability of personal pages or groups identified as “private” may be limited to certain permitted Registered Users. However, even information marked “private” may be viewed by B2C and its Affiliates. You should think carefully before disclosing any Personal Information in any Public Forum, or through the Public Profile feature, on the Website. For example, you should not select a username that includes Personal Information.
 
-**Third Party Actions  
+ **Third Party Actions  
 **B2C does not control and is not liable for the actions of its third party marketers or advertisers. B2C prides itself in working with quality companies, but have no control over the actions of those third parties. While B2C is not liable for any of the actions of those third parties, you should feel free to give B2C feedback from time to time on your experiences with any third parties to whom B2C works with so that it may enhance its offerings. ** **
 
-**Other Uses of Personal Information  
+ **Other Uses of Personal Information  
 **B2C also uses Personal Information, including information provided to B2C from its service providers, to continually assess and improve the Products it offers. To serve you better, B2C may combine the Personal Information that you give B2C with publicly available information and information B2C receives from or cross-reference with its marketing partners and others. B2C uses that combined information to enhance and personalize your experience with B2C, to communicate with you about the Products that may be of interest to you, and for other promotional purposes.
 
-**Promotional Information and Marketing Materials  
+ **Promotional Information and Marketing Materials  
 **B2C would like to inform you of Products, sales and special offers that might benefit you.  
 We greatly respect your time and attention by controlling the frequency of promotional information and marketing e-mails.  
 You will have the opportunity to sign up for e-mails about the Products, sales and special offers. If you would like to stop receiving such promotional information from B2C please click the link at the bottom of the email correspondence, which allows you to opt out of receiving further correspondence.
 
-**Disclosures of Personal Information in Legal Proceedings  
+ **Disclosures of Personal Information in Legal Proceedings  
 **If B2C, its service providers or Affiliate(s) are requested by law enforcement officials or judicial authorities to provide Personal Information, B2C or the applicable third party provider, may, without your consent, provide such Personal Information. In matters involving claims of personal or public safety, B2C, or the applicable third party provider, may provide your Personal Information to appropriate authorities without your consent or court process. B2C, or the applicable third party provider, also will provide your Personal Information in response to a search warrant or other legally valid inquiry or order, or to an investigative body in the case of a breach of an agreement or contravention of law, or in litigation involving B2C, the applicable third party provider, or otherwise as required by law. B2C may also disclose Personal Information to assist in debt collection where you owe a debt to B2C.
 
-**Access to Personal Information by Companies that Work with or on Behalf of B2C  
+ **Access to Personal Information by Companies that Work with or on Behalf of B2C  
 **Some of B2C operations, such as B2C’s electronic commerce, may be managed by service providers who are unaffiliated companies. These companies may share Personal Information with their affiliates and with service providers whom they engage to perform services related to the Website or the operation of the business. Examples of these services include payment processing and authorization, fraud protection and credit risk reduction, product customization, order fulfillment and shipping, marketing and promotional material distribution, website evaluation, data analysis and, where applicable, data cleansing. These companies may have access to your Personal Information on a confidential basis only to the extent necessary to perform their functions. In no event will B2C authorize these companies to use your Personal Information for any reason other than for B2C to be able to provide you with those specific services.
 
-**Privacy Preferences / Opt Out** : The Website offers you the ability to opt out of receiving further email updates by clicking on a link on the email where you can change your preferences to receive or not receive marketing, newsletter, and informational materials. You may update these preferences at any time. You may also change your marketing preferences or remove yourself from B2C’s mailing list by clicking on an “unsubscribe” hyperlink contained at the bottom of the promotional emails sent to you.
+ **Privacy Preferences / Opt Out** : The Website offers you the ability to opt out of receiving further email updates by clicking on a link on the email where you can change your preferences to receive or not receive marketing, newsletter, and informational materials. You may update these preferences at any time. You may also change your marketing preferences or remove yourself from B2C’s mailing list by clicking on an “unsubscribe” hyperlink contained at the bottom of the promotional emails sent to you.
 
-**Third Party Links  
+ **Third Party Links  
 **This Privacy Policy only applies to the Website. The Website may include links to the websites of B2C’s business partners, vendors and advertisers. These sites are outside of B2C’s control. Please be aware that these websites may collect information about you, and operate according to their own privacy practices which may differ from those contained in this Privacy Policy. Please carefully read the privacy policy of these websites, as once you leave the Website, any information you submit is no longer in B2C’s control.
 
-**Your Warranties and Representations  
+ **Your Warranties and Representations  
 **You hereby warrant and represent that with respect to any Personal Information that you submit to the Website, you have the right and authority to submit such Personal Information for all purposes set forth herein.
 
-**Special Note Regarding Children  
+ **Special Note Regarding Children  
 ****CHILDREN UNDER THE AGE OF 13 ARE NOT PERMITTED TO USE THE WEBSITE**. Children between the ages of 13 and 18 may use the Website only with the permission and active involvement of a parent or legal guardian. If you believe that a child has submitted Personal Information on or through the Website without the consent and supervision of a parent or guardian, please contact B2C. Please see the Terms of Use for additional information regarding this and other requirements regarding age eligibility.
 
-**Contacting B2C** : If you have any questions concerning the Privacy Policy, you may contact B2C at: B2C MEDIA SOLUTIONS Ltd. at POB 326 Yoqneam, 2069205 Israel or 548 Market St #79661 San Francisco, CA, 94104-5401, United States; via phone at 1-877-280-1463; or via email at info@ b2cmsl.com.  
+ **Contacting B2C** : If you have any questions concerning the Privacy Policy, you may contact B2C at: B2C MEDIA SOLUTIONS Ltd. at POB 326 Yoqneam, 2069205 Israel or 548 Market St #79661 San Francisco, CA, 94104-5401, United States; via phone at 1-877-280-1463; or via email at info@ b2cmsl.com.  
 B2C strives to provide excellent products, along with equally excellent customer service. If you have any questions about this Privacy Policy or B2C’s practices, please feel free to contact B2C using one of the methods listed above.
