@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamweek.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315194248id_/https%3A//www.teamweek.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamweek.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915001804id_/https%3A//teamweek.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Teamweek
 
