@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodnightnaturals.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608041211id_/http%3A//www.goodnightnaturals.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodnightnaturals.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914020040id_/http%3A//www.goodnightnaturals.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy is a serious concern. Information is not shared and private.
 
@@ -37,7 +37,7 @@ Finally, we never use or share personally identifiable information provided to u
 In order to prevent unauthorized access, maintain data accuracy, and ensure correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
 **How You Can Access or Correct Your Information**  
-You can access all your personally identifiable information that we collect and maintain. Simply email [cust_serv@goodnightnaturals.com](mailto:cust_serv@goodnightnaturals.com), or call 415.738.8379. Leave your name and number so we can call you back to verify your identity and change your personally identifiable information.
+You can access all your personally identifiable information that we collect and maintain. Simply email [cust_serv@goodnightnaturals.com](mailto:cust_serv@goodnightnaturals.com), or call 323.255.7668. Leave your name and number so we can call you back to verify your identity and change your personally identifiable information.
 
 For our customers security we do NOT allow online orders that were placed to be changed by adding or deleting items from it after an order has been placed (of course before you place your order you can modify or change the contents of your shopping cart). You may however correct spelling mistakes. See below. In order to add or delete items you will need to cancel the order within 24 hours after being placed on line and create a new order. After that your order will be processed.
 
@@ -53,9 +53,9 @@ CHOICE/OPT-OUT: Users who no longer wish to receive our promotional e-mails or n
 If there are any questions or concerns in regards to these privacy policies, we may be reached at:  
 **Mailing Address**  
 Good Night Naturals  
-1418 W Poinsettia Pl Ste. 8  
-West Hollywood, CA 90046  
-Phone: 415.738.8379  
+5979 W 3rd Street Ste 102  
+Los Angeles, CA 90046  
+Phone: 323.255.7668  
 email: [cust_serv@goodnightnaturals.com](mailto:cust_serv@goodnightnaturals.com)
 
 _Privacy policy effective 11/1/2006_
