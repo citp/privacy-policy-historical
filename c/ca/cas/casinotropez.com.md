@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casinotropez.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121014315id_/http%3A//www.casinotropez.com/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casinotropez.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914095724id_/http%3A//www.casinotropez.com/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Casino Tropez Privacy Policy
 
@@ -43,7 +43,7 @@ The personal information that we ask you to provide when creating your Casino Tr
 •    (g) our general regulatory compliance, crime prevention and prosecution of offenders including, where appropriate, dealing with  requests for information by authorized entities for the sharing of information  
 •    (h) carrying out market research campaigns  
 •    (i) providing you with information about and support for products and services  
-•    (j) marketing our services or products or those of other entities within our group of companies; and  
+•    (j) offer additional or similar products, services or promotions relevant to you  
 •    (k) supporting any of the intended purposes specifically stated at the time at which you provided the personal information  
 These are the “ **Purposes** ” for which we may collect personal data.
 
