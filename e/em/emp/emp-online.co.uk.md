@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emp-online.co.uk privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612214635id_/http%3A//www.emp-online.co.uk/ter_dataprotection) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emp-online.co.uk privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914163651id_/http%3A//www.emp-online.co.uk/ter_dataprotection) for the most accurate reproduction.*
 
 # Terms of delivery • EMP
 
