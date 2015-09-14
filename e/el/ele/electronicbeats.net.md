@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the electronicbeats.net privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628201345id_/http%3A//www.electronicbeats.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electronicbeats.net privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914165544id_/http%3A//www.electronicbeats.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy › Electronic Beats
+# Privacy Policy | Electronic Beats
 
 Data protection and data security for customers and users have a high priority for the entire Deutsche Telekom Group. We therefore attach great importance to the protection of personal data in all business processes. More about our privacy policy principles, which are valid throughout many Deutsche Telekom companies, can be found in the Privacy Code of Conduct of Deutsche Telekom (142 KB, *.pdf).
 
