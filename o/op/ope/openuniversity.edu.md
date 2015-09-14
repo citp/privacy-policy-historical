@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the openuniversity.edu privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627192706id_/http%3A//www.openuniversity.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openuniversity.edu privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914205408id_/http%3A//www.openuniversity.edu/privacy) for the most accurate reproduction.*
 
 # Privacy | The Open University
+
+This page describes how you can access any personal information The Open University may hold, and how we may use cookies to monitor usage patterns across the OU website. You may wish to print this page.
+
+There are particular circumstances regarding the OpenLearn website (the OU's open content initiative) – see [OpenLearn privacy statement](http://www.open.ac.uk/about/main/management/policies-and-statements/website-privacy-openlearn).
 
 ##  Access to your personal information
 
@@ -14,7 +18,7 @@ The Open University
 Milton Keynes  
 MK7 6AT
 
-Email: [data-protection@open.ac.uk](mailto:data-protection@open.ac.uk?subject=Message%20from%20OpenUniversity.edu)
+Email: [data-protection@open.ac.uk](mailto:data-protection@open.ac.uk)
 
 See [Data protection policy](http://www3.open.ac.uk/our-student-policies/pdf/dataprotection.pdf).
 
@@ -56,11 +60,9 @@ If you are a registered user of the University and wish to sign in to password p
 
 Cookie name |  Nature and purpose |  Category |  Expires  
 ---|---|---|---  
-selected_country |  Stores the country code of the country selected from either the country drop-down list or dialog box. Used to determine the courses displayed dependant on the country selected. |  Strictly necessary   |  Session  
-selected_country_txt |  Stores the country nameof the country selected from either the country drop-down list or dialog box. Used display the country name on the course list pages. |  Functionality |  Session  
+selected_country |  Stores the country code of the country selected from either the country drop-down list or dialog box. Used to determine the courses displayed dependant on the country selected.  |  Strictly necessary |  Session  
+selected_country_txt |  Stores the country name of the country selected from either the country drop-down list or dialog box. Used display the country name on the course list pages. |  Functionality |  Session  
   
-For more detailed information see [Cookie use on the OU website.](http://www.open.ac.uk/about/main/management/policies-and-statements/cookie-use-ou-website)
-
 ##  Security
 
 We take security very seriously. All staff are made aware of the security procedures they must follow when handling personal information. Data is protected from unauthorised access and we are confident no one will be able to access your personal information unlawfully. We also protect data which is being transferred. As long as your web browser supports the Secure Sockets Layer (SSL), any personal data transmitted from your browser to our web service, or from the service to your browser, will be encrypted. Please note that Internet email is never a totally secure way of communicating. By using it, you agree that you will send any information by email at your own risk.
