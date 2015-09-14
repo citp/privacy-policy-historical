@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myvocabulary.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511112404id_/http%3A//myvocabulary.com/dir-info-privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myvocabulary.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914212637id_/https%3A//myvocabulary.com/dir-info-privacypolicy) for the most accurate reproduction.*
 
-# Vocabulary, Vocabulary games - www.localhost/vocabulary
+# Vocabulary, Vocabulary games - www.myvocabulary.com
 
 Vocabulary University® is committed to preserving the privacy and security of its participants. Information about visitors will not be sold or provided to third parties. Participants information is collected only to enhance the experience of the participant and subsequent participants.
 
