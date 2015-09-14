@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vesselfinder.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120005136id_/http%3A//www.vesselfinder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vesselfinder.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914064334id_/https%3A//www.vesselfinder.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | VesselFinder
 
@@ -46,9 +46,6 @@ If you wish to disable cookies, you may do so through your individual browser op
 **Contact Information**  
 If you have any questions regarding this privacy policy or would like any further information please contact our Customer Services Department at:
 
-Astra Paging Ltd.  
+VesselFinder Ltd.  
 Business centre, fl.5, Hadzhi Dimitar square, 8800 Sliven, Bulgaria  
 Email: info@vesselfinder.com 
-
-  
-
