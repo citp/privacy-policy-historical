@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muckrack.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613031330id_/http%3A//muckrack.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muckrack.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914033222id_/http%3A//muckrack.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -60,5 +60,5 @@ The Service is hosted in the United States and is primarily intended for and dir
 California Civil Code Section 1798.83 permits users of the Service who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail with "California Privacy Rights" in the heading to [privacy@sawhorsemedia.com](mailto:privacy@sawhorsemedia.com)  or write us at:
 
 Sawhorse Privacy Rights  
-560 Broadway, Suite 201  
+632 Broadway, Suite 901  
 New York, New York 10012 
