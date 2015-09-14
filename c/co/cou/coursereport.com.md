@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coursereport.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318002222id_/https%3A//www.coursereport.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coursereport.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914163217id_/https%3A//www.coursereport.com/privacy-policy) for the most accurate reproduction.*
 
-# Coding Bootcamp Reviews & Directory - Course Report
+# Find a Coding Bootcamp - Course Report
 
 ## CourseReport Privacy Policy
 
@@ -46,4 +46,4 @@ CourseGuide Inc. may update this Privacy Policy from time to time. We will notif
 
 ### Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at [hello@coursereport.com](mailto:%20hello@coursereport.com).
+If you have any questions about this Privacy Policy, please contact us at[hello@coursereport.com](mailto:%20hello@coursereport.com).
