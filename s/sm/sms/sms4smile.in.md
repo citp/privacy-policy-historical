@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sms4smile.in privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609091911id_/http%3A//sms4smile.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sms4smile.in privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915002707id_/http%3A//sms4smile.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy in English
 
