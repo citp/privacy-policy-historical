@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the studiesweekly.com privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326213711id_/http%3A//www.studiesweekly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studiesweekly.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914203251id_/https%3A//www.studiesweekly.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### Privacy Policy
 
-What information do we collect? 
+####  What information do we collect? 
 
 We collect information from you when you register on our site, place an order, subscribe to our newsletter or respond to a survey. 
 
@@ -24,23 +24,29 @@ The email address you provide for order processing, may be used to send you info
 
 If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-What do we use your information for? 
+####  What do we use your information for? 
 
 We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
 
-How do we protect your information? 
+####  How do we protect your information? 
 
 We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway provider's database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential. After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers. 
+
+####  Do we use cookies? 
 
 Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service provider's systems to recognize your browser and capture and remember certain information. 
 
 We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service provider's to assist us in better understanding our site visitors. These service provider's are not permitted to use the information collected on our behalf except to help us conduct and improve our business. 
 
-Do we disclose any information to outside parties? 
+####  Do we disclose any information to outside parties? 
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
 
+####  Third party links 
+
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. 
+
+####  Grantor 
 
 ##### Limited Permission to Reprint and Distribute:
 
@@ -62,11 +68,11 @@ The purpose of this agreement is to allow limited reprint and distribution of St
 
 This Limited Permission agreement applies to student editions, teacher editions and any supplemental materials - both in print and online - included with the _subscribed publication_. 
 
-_Subscribers_ may reprint and distribute single copies of the subscribed publication only to students officially enrolled in her or his class or to students participating in home schools that comply with state and local guidelines _subscribers_ must register students who may receive single-copy reprints of the _subscribed publication_ at [www.studiesweekly.com/online](http://www.studiesweekly.com/online) as soon after the beginning of the school year as is practicable. When new students are added to the class over the course of the school year, _subscribers_ must register those students at [www.studiesweekly.com/online](http://www.studiesweekly.com/online) as soon after enrollment as is practicable. The number of subscriptions a _subscriber_ has to a publication **MUST** correlate to the number of students registered in the _subscriber's_ class. 
+_Subscribers_ may reprint and distribute single copies of the subscribed publication only to students officially enrolled in her or his class or to students participating in home schools that comply with state and local guidelines _subscribers_ must register students who may receive single-copy reprints of the _subscribed publication_ at [www.studiesweekly.com/online](https://www.studiesweekly.com/online) as soon after the beginning of the school year as is practicable. When new students are added to the class over the course of the school year, _subscribers_ must register those students at [www.studiesweekly.com/online](https://www.studiesweekly.com/online) as soon after enrollment as is practicable. The number of subscriptions a _subscriber_ has to a publication **MUST** correlate to the number of students registered in the _subscriber's_ class. 
 
 Permission to reprint and distribute is limited solely to the _subscribed publication_ and is strictly limited to the school year for which the subscription was purchased. Example: A subscription for the 2013-2014 school year may only be distributed to registered students during the 2013-2014 school year. 
 
-Permission to reprint and distribute is **NOT** granted for school, class, teacher, student or any other websites. _subscribers_ who wish to make publications available for online viewing to parents and students during the subscription year must register students at [www.studiesweekly.com/online](http://www.studiesweekly.com/online). 
+Permission to reprint and distribute is **NOT** granted for school, class, teacher, student or any other websites. _subscribers_ who wish to make publications available for online viewing to parents and students during the subscription year must register students at [www.studiesweekly.com/online](https://www.studiesweekly.com/online). 
 
 Permission to reprint and distribute is **NOT** granted for commercial purposes of any kind. Any reprint or distribution for commercial purposes is strictly prohibited. 
 
@@ -74,25 +80,22 @@ Permission to reprint and distribute is **NOT** granted to any person who is not
 
 Any questions regarding this Limited Permission may be sent to [service@studiesweekly.com](mailto:service@studiesweekly.com). 
 
-California Online Privacy Protection Act Compliance 
+####  California Online Privacy Protection Act Compliance 
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent. 
 
-Children's Online Privacy Protection Act Compliance 
+####  Children's Online Privacy Protection Act Compliance 
 
 We are in compliance with the requirements of COPPA (Children's Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. 
 
-Online Privacy Policy Only 
+####  Online Privacy Policy Only 
 
 This online privacy policy applies only to information collected through our website and not to information collected offline. 
 
+####  Your Consent 
+
 By using our site, you consent to our _privacy policy_. 
 
-Changes to our Privacy Policy 
+####  Changes to our Privacy Policy 
 
 If we decide to change our _privacy policy_ , we will post those changes on this page. This policy was last modified on **June 9, 2011**. 
-
-__[www.studiesweekly.com](http://www.studiesweekly.com/)  
-__1922 West 200 North, Lindon, Utah 84042 / USA  
-__orders@studiesweekly.com  
-__1 (866) 311 8734
