@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the richelieu.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506081746id_/http%3A//www.richelieu.com/filiales/RC/html/SecuriteAn.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the richelieu.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914035007id_/http%3A//www.richelieu.com/filiales/RC/html/SecuriteAn.html) for the most accurate reproduction.*
 
 # Web Site Security and Privacy Policy
 
