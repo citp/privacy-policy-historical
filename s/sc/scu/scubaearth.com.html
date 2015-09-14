@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the scubaearth.com privacy policy that was archived on 2015-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150626221419id_/https%3A//www.scubaearth.com/about-scubaearth.aspx%3Fpagetype%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the scubaearth.com privacy policy that was archived on 2015-09-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150914160407id_/https%3A//www.scubaearth.com/about-scubaearth.aspx%3Fpagetype%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_ctl00_ctl00_Head1"><title>
 	Research, plan and share your scuba diving experiences in ScubaEarth
@@ -12,7 +12,7 @@ filter: none;
 }
 </style>
 <![endif]-->
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" language="javascript">
+    <script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.4&amp;appId=831832150187764"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" language="javascript">
         var googletag = googletag || {};
         googletag.cmd = googletag.cmd || [];
     </script>
@@ -23,10 +23,9 @@ filter: none;
     <script type="text/javascript" language="javascript" src="/content/scripts/jquery-ui-1.9.2.custom.min.js"></script>
     <script type="text/javascript" language="javascript" src="/content/scripts/recaptcha_ajax.js"></script>
     <script type="text/javascript" language="javascript" src="/content/scripts/gpt.js"></script>
-    <script type="text/javascript" language="javascript" src="/content/scripts/padi.scubaearth.ui.js?v=26"></script>
+    <script type="text/javascript" language="javascript" src="/content/scripts/padi.scubaearth.ui.js?v=20150724"></script>
     <script type="text/javascript" src="/content/scripts/ektronjquery.js"></script>
     <script type="text/javascript" language="javascript">
-
         ////////////////////////////////////////////////////////////////////////////////////////////////
         /// Google Tag /////////////////////////////////////////////////////////////////////////////////
         ////////////////////////////////////////////////////////////////////////////////////////////////
@@ -594,12 +593,7 @@ The PADI Companies are compliant with the Children’s Online Privacy Protection
     Japan Office: <a href="mailto:padijpn@padi.co.jp">padijpn@padi.co.jp</a><br>
     PADI Europe, Middle East and Africa: <a href="mailto:privacy@padi.co.uk">privacy@padi.co.uk</a>
 &nbsp;</p>
-<p>
-    ScubaEarth:
-    <a href="mailto:support@scubaearth.com">
-        support@scubaearth.com
-    </a>
-&nbsp;</p>
+<p>ScubaEarth: <a href="mailto:info@scubaearth.com" title="info@scubaearth.com">info@scubaearth.com</a></p>
 <h5><b>Emergency First Response Corp.</b> </h5>
 <p>
 For information concerning the Privacy Policy for non-PADI related Emergency First Response programs, please visit:    <a href="http://www.emergencyfirstresponse.com/" title="www.emergencyfirstresponse.com">www.emergencyfirstresponse.com</a>
@@ -1116,6 +1110,46 @@ For information concerning the Privacy Policy for non-PADI related Emergency Fir
         </script>
         <script type="text/javascript" src="/content/scripts/getsearchitemselected.js"></script>
     </form>
+    <div id="fb-root"></div>
+    <script type="text/javascript">
+        (function (d, s, id) {
+            try {
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id)) return;
+                js = d.createElement(s); js.id = id;
+                js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4&appId=831832150187764";
+                fjs.parentNode.insertBefore(js, fjs);
+            }
+            catch (err) {
+            }
+        }(document, 'script', 'facebook-jssdk'));
+        window.twttr = (function (d, s, id) {
+            try {
+                var js, fjs = d.getElementsByTagName(s)[0],
+                t = window.twttr || {};
+                if (d.getElementById(id)) return;
+                js = d.createElement(s);
+                js.id = id;
+                js.src = "https://platform.twitter.com/widgets.js";
+                fjs.parentNode.insertBefore(js, fjs);
+                t._e = [];
+                t.ready = function (f) {
+                    t._e.push(f);
+                };
+                return t;
+            }
+            catch (err) {
+            }
+        }(document, "script", "twitter-wjs"));
+        $(document).ajaxStop(function () {
+            try {
+                FB.XFBML.parse();
+                twttr.widgets.load();
+            }
+            catch (err) {
+            }
+        });
+    </script>
 
 
 </body></html>
