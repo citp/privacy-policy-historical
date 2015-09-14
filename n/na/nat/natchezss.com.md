@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the natchezss.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504200648id_/http%3A//www.natchezss.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natchezss.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914165626id_/http%3A//www.natchezss.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Natchez Shooters Supply | Natchez Shooters Supplies
 
