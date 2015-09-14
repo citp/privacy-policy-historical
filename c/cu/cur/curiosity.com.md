@@ -1,203 +1,127 @@
-> *The following text is extracted and transformed from the curiosity.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316035335id_/https%3A//curiosity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curiosity.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914220747id_/https%3A//curiosity.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This privacy policy applies only to the websites and applications controlled by Beacon Solutions, Inc. and/or its subsidiary and affiliated entities (“Curiosity,” “we” or “us”) where this privacy policy is posted (collectively, the “Sites”). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
+This Privacy Policy discloses the practices of Beacon Solutions, Inc. (d/b/a “Curiosity”) concerning information we obtain by and through your use of the Curiosity.com website (the “Site”) our Curiosity mobile application (the “Application”) and the services offered through either the Site or the Application (the “Services”). 
 
-### A. Information Collected
+Curiosity is committed to respecting your privacy and recognizing your need for appropriate protection and management of Personally Identifiable Information you share with us. The purpose of this privacy policy is to explain the types of information Curiosity obtains about visitors to our Site and users of our Application and Services, how the information is obtained, how it is used, and the choices you have regarding our use of, and your ability to review and correct, the information. By using the Site, the Services and/or the Application, you are accepting and consenting to the use of your information as described in this policy. 
 
-This privacy policy applies only to information collected on the Sites and does not apply to information collected by Curiosity through any other means.
+### A. What Information We Collect 
 
-We collect two types of information from visitors to the Sites: (1) Personally Identifiable Information; and (2) Non-Personally Identifiable Information, such as IP address or cookies.
+The information we collect on our Site and through the use of our Services or Application generally falls into the following two categories: Personally Identifiable Information and Non-Personally Identifiable Information. If we do combine Non-Personally Identifiable Information with Personally Identifiable Information, the combined information will be treated as personal information for as long as it remains combined.
 
 #### (1) Personally Identifiable Information
 
-“Personally Identifiable Information” is information that identifies you personally, such as your name, address, telephone number, email address, or company name. Curiosity collects and stores the personally identifiable information that you have provided to us. Here are some examples of manners in which we may collect your personally identifiable information on the Sites:
-
-  * We may collect your email address, first and last name, and zip code if you sign up for emails and/or registration;
-  * We may collect your email address if you contact us with a question;
-  * We may collect your first and last name, date of birth, and email address if you choose to participate in a contest or sweepstakes;
-  * and
-  * We may collect your first and last name, your address, and your credit card and billing information if you make a purchase of a product on the Sites.
-
-
-
-The above list provides an example of the personally identifiable information that may be collected on the Sites. If you do not want Curiosity to collect your personally identifiable information, please do not provide it to us.
+“Personally Identifiable Information” refers to information that lets us know the specifics of who you are. Curiosity collects and stores personally identifiable information that you provide to us. The Personally Identifiable Information we collect may include: your name, date of birth, e-mail address, login name, passwords, etc. We request Personally Identifiable Information when you register on the Site or through the Application.
 
 #### (2) Non-Personally Identifiable Information
 
-“Non-Personally Identifiable Information” can be technical information or it can be demographic information, such as your age, gender or interests. Non-personally identifiable information does NOT identify you personally. Here are some examples of the non-personally identifiable information that is collected via the Sites and a description of how this information is used:
+“Non-Personally Identifiable Information” refers to information that does not by itself identify a specific individual. This can be can be technical information or it can be demographic information, such as your age, gender or interests. The non-personally identifiable data we collect when you visit our Site may include: your Internet Protocol ("IP") address; “cookies” or small text files that collect information about our activity on our Site, including the Uniform Resource Locator ("URL") of the Web site that you came from before visiting our Site, which pages you visit on our Site, which URL you go to next, which browser you used to come to our Site, and any search terms entered on our Site. More information about Cookies appears below.
 
-  * Internet Protocol (IP) address – your IP address is a number that lets computers attached to the Internet know where to send you data – such as the webpages you view. We use this information to deliver our webpages to you upon request, to tailor our Sites to the interests of our users, and to measure traffic within our Sites.
-  * Cookie – A “cookie” is a small text file that may be used to collect information about your activity on the Sites. For example, when someone visits a page within the Sites, a cookie is placed on the user’s machine (if the user accepts cookies) or is read if the user has visited the Sites previously. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but if you do, you may not be able to take advantage of the personalized features enjoyed by other users to our Sites.
-  * Web Beacons (also known as “clear gifs,” “web bugs” or “pixel tags”) – “Web Beacons” are tiny graphics with a unique identifier, similar in function to cookies, and are used to allow us to count users who have visited certain pages of the Sites and to help determine the effectiveness of promotional or advertising campaigns. When used in HTML-formatted email messages, web beacons can tell the sender whether and when the email has been opened. In contrast to cookies, which are stored on a user’s computer hard drive, web beacons are embedded invisibly on web pages.
-  * Demographic Information – “Demographic Information” may be your gender, age, zip code and interests, which you voluntarily provide to us on the Sites. We use this information to provide you with personalized services and to analyze trends to ensure the information provided by the Sites meets your needs. For example, we offer personalized video, images, infographics, smart ‘memes’, animated gifs, video playlist and other content offerings if you tell us which topics interest you. Please note that we also consider aggregated information, which is not personally identifiable, to be non-personally identifiable information. The above list provides an example of the non-personally identifiable information that is collected via the Sites.
+We may also collect and use Non-Personally Identifiable Information in the form of demographic information, such as your gender, age and interest. We use this information to provide you with personalized services and information that we believe may be of interest to you. We may also collect, analyze and use aggregated and anonymized information about you for market research.
+
+Your use of the Application may also include collection of information from your mobile device. For example, the Application may request your permission to collect location data and/or may request access to multimedia (photos or videos) stored on your mobile device. If you do not wish for your location data to be shared with Curiosity, please respond accordingly when prompted on your mobile device, or visit your mobile device settings. Multimedia will only be collected from your device if you affirmatively select it to upload to the Application (i.e. you choose an image or video to store within the Application). 
+
+###  Cookies 
+
+Our Site uses or may use "cookies" to gather Non-Personally Identifiable Information. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. Generally, we use cookies to store information about your preferences and activity during and after your visit to a web site. Most browsers automatically accept cookies, but you can usually refuse cookies, or selectively accept certain cookies, by adjusting the preferences in your browser. If you turn off cookies, though, there may be some features of our Site that will not be available to you and some Web pages may not display properly. By using the Site and/or Application, you consent to Curiosity’s use of “cookies.”
+
+### B. Use of Information We Collect
+
+#### (1) Our primary goals in collecting information from and about you are to:
+
+  * provide you with the all features and functions of the Site, the Services and the Application;
+  * communicate with you regarding our Services and/or Application;
+  * To complete a transaction or service requested by you;
+  * provide all visitors a smooth, efficient, and personalized experience while using our Site, Services and/or Application.
+  
 
 
+#### Specifically, we may use your Personally Identifiable Information for the following purposes:
 
-### B. Use of Information Collected Via the Sites
-
-#### (1) Personally Identifiable Information
-
-We use your personally identifiable information that is collected on these Sites primarily for the following purposes:
-
-  * To deliver services, such as educational programs, information, newsletters or software you request or purchase;
+  * To deliver services, such as educational programs, information, or content that is of interest to you;
   * To alert you to special offers, updated information and other new services from Curiosity, or other third parties, or to forward promotional materials;
   * To complete a transaction or service requested by you;
   * To fulfill the terms of a promotion;
-  * To ensure the Sites are relevant to your needs;
+  * To ensure the content you view on Site and Application are relevant to your needs and interests;
   * To help us create and publish content most relevant to you;
-  * To notify you about a material change to this privacy policy or the Visitor Agreement, if necessary;
-  * To allow you access to limited-entry areas of the Sites;
-  * and
-  * To contact you in response to sign up forms such as Contact Us or Order Inquiry.
+  * To notify you about a material change to this privacy policy or the Terms of Use, if necessary;
+  * To allow you access to certain functions or features of our Site or Application;
+  * To contact you in response to requests or inquiries we may receive from you.
 
 
+
+We may also use Non-Personally Identifiable Information on an aggregated and anonymous basis to analyze customer behavior and to help us understand how visitors use our Site, Services and/or Application. We use this information to gather statistical information, improve the content of our Site, Services or Application, to make our Site, Services or Application easier to use, and we may use it to customize our advertising or your experience on the Site or within the Application (but we will not provide Personally Identifiable Information to advertisers). We may also use information relating to use of the Site, Services and the Application internally for research purposes, for marketing and promotional purposes, and to develop new tools and solutions.
 
 #### (2) Non-Personally Identifiable Information
 
 Non-personally identifiable information is used as described above and in other ways as permitted by applicable laws, including combining non-personally identifiable information with personally identifiable information (except with respect to non-personally identifiable information collected from children under the age of 13).
 
-### C. Sharing and Disclosure of Information
+### C. How We Collect Information 
 
-#### (1) Personally Identifiable Information
+We collect Personally Identifiable Information only when you provide it to us. If you do not wish for your Personally Identifiable Information to be used or collected, please do not submit it to us. There may be times, such as when a user registers through the Site and/or Application or signs up for any other product or service we may offer through the Site or the Application, when we will ask you to provide certain information about yourself, such as your name, e-mail address, etc. Whether or not you choose to provide such information is completely your own choice, but if you choose not to provide the information we request, you may be unable to use certain services, offers, and content on our Site, or that may be available by using the Application.
 
-We may share or disclose your personally identifiable information in the following instances:
+Our Site and Application may automatically collect Non-Personally Identifiable Information, including the web page from which a visitor enters our Site, which pages a visitor visits on our Site, and how much time a visitor spends on each page. Your mobile device may also collect certain information if permitted by you, including geolocation data.
 
-(i) To fulfill a service to you. For example, if you choose to watch an educational program on the Sites, we may share your personally identifiable information in order to provide the program to you. In addition, if you email us a question, we may use your email address to process your request and respond to your question. Also, if you are entering a sweepstakes or contest, we may use your personally identifiable information in order to fulfill the terms of that promotion. This means that we may share the information for prize fulfillment purposes or mail carriers. We also may share your information with the co-sponsor of that promotion.
+### D. Sharing and Disclosures of Information
 
-(ii) To affiliates, strategic partners, agents, third-party marketers or other unaffiliated parties who are offering products or services that we believe may be of interest to you or who require your personally identifiable information for research, administrative and/or internal business purposes. These parties may use your personally identifiable information to contact you with an offer or advertisement related to a product or service, or they may use such information for their own research, administration or business purposes. If you do not want us to share your personally identifiable information in this manner, please do not provide us with this information.
+#### Generally speaking, we do not shared your Personally Identifiable Information with third parties, except as follows: 
 
-(iii) To unaffiliated third-party service providers, agents or independent contractors who help us maintain our Sites and provide other administrative services to us (including, but not limited to, order processing and fulfillment, providing customer service, maintaining and analyzing data, sending customer communications on Curiosity’s behalf, and entry collection, winner selection and prize fulfillment for contests, sweepstakes and other promotions). We seek to ensure that these unaffiliated third parties will not use the personally identifiable information for any other purpose than to provide the administrative services for which they are responsible. Because such unaffiliated third-party service providers that help us administer our Sites will have access to users’ personally identifiable information, if you do not wish for our unaffiliated third-party service providers to have access to your information, please do not register or submit any personally identifiable information to us.
-
-(iv) To complete your purchase. If you choose to make a purchase on the Sites, we may collect from you your credit card number, billing address and other information related to such purchase, and we may use such collected information in order to fulfill your purchase. We may also provide such information, or other personally identifiable information provided by you, to unaffiliated third parties as necessary to complete your purchase (for example, to process your credit card).
-
-(v) To comply with the law or in the good faith belief that such action is necessary in order to conform to the requirements of law or comply with legal process served on us, protect and defend our rights or property, including the rights and property of Curiosity and its family of Sites or act in urgent circumstances to protect the personal safety of our end users.
-
-(vi) To third parties as part of any corporate reorganization process including, but not limited to, mergers, acquisitions, and sales of all or substantially all of our assets.
-
-(vii) To track and analyze non-identifying and aggregate usage and volume statistical information from our visitors and customers and provide such information to third parties.
-
-(viii) To protect against potential fraud, we may verify with third parties the information collected from the Sites. In the course of such verification, we may receive personally identifiable information about you from such services. In particular, if you use a credit card or debit card to purchase services with us, we may use card authorization and fraud screening services to verify that your card information and address matches the information that you supplied to us, and that the card has not been reported as lost or stolen.
-
-Except as described in this Privacy Policy or at the time we request the information, we do not otherwise use, share or otherwise disclose your personally identifiable information to any third parties.
-
-#### (2) Non-Personally Identifiable Information
-
-We use non-personally identifiable information collected on the Sites in the manner disclosed above, in the Section A (2). We may share this non-personal information with third parties.
-
-### D. Collection and Use of Information from Children Under the Age of 13
-
-#### (1) Collection of Personally Identifiable Information Collected from Kids
-
-In most instances, Curiosity will only request the first name and email address of the child in order to complete an immediate request from the child. The information that is collected will only be used for the requested purpose and will be deleted immediately. Curiosity will not store or otherwise use that information. Here are some examples of instances in which Curiosity may immediately delete the child’s information after the completion of the child’s initial request:
-
-  * If the child emails an inquiry;
-  * If the child participates in a game;
-  * If the child refers a game to a friend, we may request his or her first name and email address and the friend’s first name and email address;
-  * If the child wants to receive a postcard on one occasion;
-  * and
-  * If the child sends a postcard to a friend on one occasion, we may request his or her first name and email address and the friend’s first name and email address.
+  * With Service Providers and/or Affiliates: We may use other companies to perform services including, without limitation, facilitating some aspects of our Site or Services such as processing transactions and/or sending emails. These other companies may be supplied with or have access to your information solely for the purpose of providing these services to you on our behalf. 
+  * Special Circumstances: We also may disclose your information, including Personally Identifiable Information, in the following circumstances: 
+    * In response to a subpoena or similar investigative demand, a court order, or other request from a law enforcement or government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law;
+    * When we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our Site’s terms and conditions or other agreements or policies. 
+    * In connection with a corporate transaction, such as the sale of all or a portion of our business, a divestiture, merger, consolidation, or asset sale, or in the event of bankruptcy. We will endeavor to contact you in the event of any of these transactions, but we do not promise to do so.
 
 
 
-From time to time, we may request limited personally identifiable information from kids in order to offer a service, a promotion or other activity to the kids. In such an instance, we will request that the child provide his or her email address, as well as the email address of his or her parent or legal guardian. Curiosity will use that email address to send the parent an email letting him or her know about the child’s contact. The email will include details on how the parent may (i) provide Curiosity with consent; (ii) prohibit Curiosity from any further contact with the child; or (iii) delete the child’s personally identifiable information. Curiosity will not collect more information than is reasonably necessary for the child to participate in the activity at issue.
+###  Notice to California Residents 
 
-Below are some examples of instances in which we may collect the first name and email address from kids on the Sites and require parental consent:
+California law permits California residents to request certain information regarding our disclosure of personal information to third parties for direct marketing purposes. Generally speaking, we do not disclose personal information to third parties for that purpose. However, if you would like to make a request to review information regarding such disclosures, if any exist, please contact us at info@curiosity.com.
 
-  * If the child wants to enter a sweepstakes, contest or other promotion; and
-  * If the child wants to receive newsletters on a recurring basis.
+### E. How We Protect Your Information 
 
+We use reasonable technological and physical safeguards to protect Personally Identifiable Information you provide to us from loss, misuse and unauthorized access, disclosure, alteration and destruction. We follow generally accepted industry standards to protect the information submitted to us, both during transmission and once we receive it. 
 
+We urge you to keep any password for use of the Application and/or Site in a safe place and not to divulge it to anyone. Also remember to sign off your account and close your browser window when you have finished your visit to the Site. 
 
-#### (2) Use of Personally Identifiable Information Collected from Kids
+### F. How to Correct or Remove Personal Information
 
-When we collect personally identifiable information from kids, we will only use that information for the express purpose for which it was collected. For example, if a child enters a sweepstakes, we will request the parent’s information (as described in Section D (1)) and will only use the child’s email address to enter the child into the sweepstakes, to notify the parent of the child’s entry, and to identify and notify the child if he or she is a potential winner. The personally identifiable information will not be used for any other purpose, and the personally identifiable information will not be used after the promotion is complete.
+If you do not want your Personally Identifiable Information collected or stored, please do not submit it to us. If you have already submitted personal information and would like us to correct or remove your information from our records, please contact info@curiosity.com.
 
-#### (3) Sharing of Personally Identifiable Information Collected from Kids
+### G. Links to Third Party Sites and/or Integration with Third Party Platforms
 
-Except as provided in this Section, we do not share personally identifiable information collected from kids with any unaffiliated third parties. We may, however, share a child’s personally identifiable information that we have collected with parental consent in the following limited instances:
+Our Site and Application may interface with third party sites and services, (for example, social media platforms like YouTube, Facebook, Twitter, Google+ or other third party applications, sites or services). Our Site may also contain links to websites operated and maintained by third parties, over which we have no control.
 
-  * We may share such information with third-party service providers who help Curiosity maintain the Sites and provide other administrative services to us. We seek to ensure that these unaffiliated third parties may not use the personally identifiable information for any other purpose, and these unaffiliated third parties have agreed to maintain the confidentiality, security and integrity of the personally identifiable information.
-  * If a child is selected as a potential winner of one of our contests or sweepstakes, we will notify the parent, via the email address that the child submitted. If the parent consents, we will collect and share this information in order to fulfill the terms of the promotion.
-  * Finally, we may disclose kids’ personally identifiable information to third parties if we believe we are required to do so in order to comply with law (including court orders and subpoenas); to comply with requests from law enforcement agencies or the government; to enforce our Visitor Agreement; to protect our rights, privacy, safety or property, and the rights, privacy, safety or property of our employees or other users of our Sites; to protect our operations; and to permit us to pursue available remedies or limit the damages that we may sustain.
+Privacy policies for these third party sites and services may be different from our privacy policy. You access these third party sites and services at your own risk. You should always read the privacy policy of a linked site or integrated service before disclosing any personal information on such site and/or through such service. Curiosity is not responsible for and cannot control the use of any information you submit to third parties. 
 
+Currently, to help facilitate login to our Application and our Site, we offer a sign-on service that allows you to sign in using login credentials from your existing social media account. This allows you to associate your existing social media profile with your Curiosity account. By linking these accounts, Curiosity may access to certain profile information contained within your social media profile; this may include your full name, e-mail, locale, gender, profile picture, and friends list as well as other publicly available profile information. Curiosity uses this information only to facilitate and enhance your use of the Site, the Services and/or Application and your sharing of Curiosity content with existing friends and contacts. You can disassociate your social media account from your Curiosity account at any time by accessing your social media platform settings.
 
+### H. Interactive Public Posting Areas
 
-#### (4) Non Personally Identifiable Information
+Please note that any information you include in a message you post as a comment in any public posting area or interactive area of our Site or Application is available to anyone who accesses our Site or Services. If you don’t want people to know your username, for example, or specific information about you, don’t post publicly or include such information in any comment you post publicly. PLEASE BE EXTREMELY CAREFUL WHEN DISCLOSING ANY INFORMATION IN PUBLIC POSTING AREAS. WE ARE NOT RESPONSIBLE FOR THE USE BY OTHERS OF THE INFORMATION THAT YOU DISCLOSE IN PUBLIC POSTING AREAS.
 
-We collect and store the non-personally identifiable information that is described in Section A (2) of this privacy policy. We do not, however, link this information to personally identifiable information when it is collected from kids.
+### I. Opt-Out
 
-#### (5) Note to Parents and Legal Guardians
+We communicate with users who subscribe to our Site or Services on a regular basis via email. For example, we may use your email address to confirm your request, to send you notices or information about our products and services, and to send notices and other disclosures as required by law. 
 
-Please contact Curiosity at any time regarding privacy questions or concerns, or to request to review what personally identifiable information we have collected from a child. Parents may also contact us at any time to request that we delete the personally identifiable information of a child or a parent and/or refuse to permit further collection or use of a child’s information. We will take steps to ensure that any person contacting us for a child’s information is that child’s parent or legal guardian.
+We provide you the opportunity to exercise an opt-out choice if you do not want to receive certain types of communication from us, such as emails or updates from us regarding new services and products or information that we think may be of interest to you. The opt-out choice may be exercised by following instructions included within our email communications. We will process your unsubscribe as soon as possible, but please be aware that in some circumstances you may receive a few more messages until the unsubscribe is processed. 
 
-Beacon Solutions, Inc.  
-Email: [info@curiosity.com](mailto:info@curiosity.com)
-
-### E. International Transfer of Information
+###  J. International Transfer of Information
 
 If you choose to provide us with personally identifiable information, Curiosity may transfer that information to its affiliates and subsidiaries or to other third parties, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world. If you are visiting from the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring your personally identifiable information to the United States which does not have the same data protection laws as the EU and by providing your personally identifiable information you consent to:
 
-  * The use of your personally identifiable information for the uses identified above in accordance with this privacy policy;
-  * and
+  * The use of your personally identifiable information for the uses identified above in accordance with this privacy policy; and
   * The transfer of your personally identifiable information to the United States as indicated above.
 
 
 
-### F. Opt-Out
+###  K. Policy Changes 
 
-We communicate with users who subscribe to our services on a regular basis via email. For example, we may use your email address to confirm your request, to send you notice of payments, to send you information about changes to our products and services, and to send notices and other disclosures as required by law. Generally, users cannot opt-out of these communications, but they will be primarily informational in nature rather than promotional.
+To improve the services it can offer you, Curiosity may opt to expand its capabilities for obtaining information about users in the future. Curiosity will update this privacy statement continually to ensure that you are aware of developments in this area. We will post those changes here so that you will always know what information we collect online on through our Application, how we use it, and what choices you have. Please be sure to check this page before proceeding to use our Site or using the Application. Any material changes will be communicated to you directly via email or other notice on the Site or within the Application.
 
-However, we provide you the opportunity to exercise an opt-out choice if you do not want to receive other types of communication from us, such as emails or updates from us regarding new services and products offered on the Site or if you do not want us to share your personally identifiable information with third parties. The opt-out choice may be exercised by ticking or un-ticking the appropriate box if such checkbox is available at the points where personally identifiable information is collected or by contacting us. We will process your unsubscribe as soon as possible, but please be aware that in some circumstances you may receive a few more messages until the unsubscribe is processed. You also may opt-out of receiving such emails by clicking on the “unsubscribe” link within the text of the email.
+### L. Questions or Feedback 
 
-### G. Forums, Chat Rooms and Other Public Posting Areas
+If you have any questions or comments regarding our privacy policy and practice, please contact us at info@curiosity.com.
 
-Please note that any information you include in a message you post to any chat room, forum or other public posting area is available to anyone with Internet access. If you don’t want people to know your e-mail address, for example, don’t include it in any message you post publicly. PLEASE BE EXTREMELY CAREFUL WHEN DISCLOSING ANY INFORMATION IN CHAT ROOMS, FORUMS AND OTHER PUBLIC POSTING AREAS. WE ARE NOT RESPONSIBLE FOR THE USE BY OTHERS OF THE INFORMATION THAT YOU DISCLOSE IN CHAT ROOMS, FORUMS AND OTHER PUBLIC POSTING AREAS.
-
-### H. Third-Party Web Sites
-
-This statement applies solely to information collected on the Sites. The Sites may contain links to other web sites. We are not responsible for the privacy practices or the content of these other web sites.
-
-### I. Third-Party Advertisers
-
-We may use advertisers, third-party ad networks, and other advertising companies, to serve advertisements on the Sites. Please be advised that such advertising companies may gather information about your visit to the Sites or other sites (such as through cookies, web beacons and other technologies) to enable such advertising companies to market products or services to you, to monitor which ads have been served to your browser and which webpages you were viewing when such ads were delivered. If you would like more information about this practice and to know your choices please [click here](http://www.networkadvertising.org/choices/). PLEASE NOTE THAT THIS POLICY DOES NOT COVER THE COLLECTION AND USE OF INFORMATION BY SUCH ADVERTISING COMPANIES.
-
-### J. Accessing Your Personally Identifiable Information and Privacy Preferences
-
-We provide you with an opportunity to access your personally identifiable information to ensure it is correct, accurate and current. To edit your personally identifiable information, please contact our customer service representatives at (707) 408-3120. To be removed from our mailing list or if you would prefer that we do not share your information with third party marketers, please make sure to indicate that by emailing us [info@curiosity.com](mailto:info@curiosity.com). If for any reason you are not able to update or edit your personally identifiable information at this page, you can access such information by contacting us as described below. We will make reasonable efforts to accommodate your request.
-
-### K. Assignment
-
-In the event that all or part of our assets are sold or acquired by another party, or in the event of a merger, you grant us the right to assign the personally identifiable and non-personally identifiable information collected via the Sites.
-
-### L. Changes to this Privacy Policy
-
-We reserve the right to change this privacy policy from time to time. When we do, we will also revise the “last update” date at the bottom of this privacy policy. For changes to this privacy policy that may be materially less restrictive on our use or disclosure of personal information you have provided to us, we will attempt to obtain your consent before implementing the change by sending a notice to the primary email address specified in your account or by placing a prominent notice on the Sites.
-
-We will also notify parents or legal guardians if we change the kinds of information that we collect from kids and materially alter our practices of sharing and using this information. We will not collect, use or share the information without parental consent.
-
-### M. Security
-
-No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you understand that any information that you transfer to Curiosity is done at your own risk.
-
-Once we receive your transmission, we make reasonable efforts to ensure security on our systems. We use firewalls to protect your information from unauthorized access, disclosure, alteration or destruction. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered or destroyed by breach of such firewalls and secure server software.
-
-If we learn of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using these Sites or providing personally identifiable information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of the Sites. We may post a notice on our Sites if a security breach occurs. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing.
-
-### N. Age Screening
-
-Some parts of the Sites require that personally identifiable information be submitted in order to participate. For example, if you want to receive one of our newsletters, you must give us your email address. Some parts of the Sites may have an age-screening mechanism to prevent kids from registering. We won’t knowingly allow anyone under the age of 13 to register with any of our Sites, or to access those features that require registration, except as explicitly disclosed herein.
-
-If we become aware that we have inadvertently received personally identifiable information from a user under the age of 13 other than in a legally permissible situation, we will delete the information from our records as soon as we discover it.
-
-### O. Contacting Curiosity
-
-If you have any questions about this privacy policy or our privacy practices, please contact us at [info@curiosity.com](mailto:info@curiosity.com). All information you provide in any written communication will also be covered by this policy.
-
-YOUR CALIFORNIA PRIVACY RIGHTS
-
-Beginning on January 1, 2005, California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding Curiosity’s disclosure of personally identifiable information to third parties for their direct marketing purposes. To make such a request, please contact us:
-
-Beacon Solutions, Inc.  
-Email: [info@curiosity.com](mailto:info@curiosity.com)
+Last modified: July 10, 2015.
