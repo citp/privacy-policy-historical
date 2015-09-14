@@ -1,40 +1,19 @@
-> *The following text is extracted and transformed from the higherperspective.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315011458id_/http%3A//higherperspective.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the higherperspective.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914204428id_/http%3A//higherperspectives.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Higher PerspectiveHigher Perspective
+# Privacy Policy | Higher Perspective
 
-  * #####  Posted by | October 22, 2014 
+This privacy policy is your guarantee that any personal information given to _**[higherperspectives.com](http://gasanature.com/privacy-policy/gasanature.com)**_  will remain private. Any personal information gathered will never be sold to any third party for any reason.  _ **[higherperspectives.com](http://gasanature.com/privacy-policy/gasanature.com)**_  only collects personal information from visitors in order to process requests initiated by the filling out of forms on our site.  _ **[higherperspectives.com](http://gasanature.com/privacy-policy/gasanature.com)**_  is committed to keeping your personal information private. Please review our privacy policy below for more detailed information. At  _ **[higherperspectives.com](http://gasanature.com/privacy-policy/gasanature.com)**_ , we are committed to protecting your privacy. We promise to keep all the information that you share with us confidential. We use your personal information only to process requests for information; we do not share your information with any third parties. That would be really lame of us, wouldn’t it?
 
-**Section 1 – How your information is used.**
+Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
-Most websites collect information from their visitors. This includes IP address, browser type, and referring page. Cookies are used to remember the visitor’s preferences for interacting with the website. That said, the information Higher Perspective gathers will be used to enhance the visitor’s experience and may be used to target advertising. Your email address will not be sold to third parties, but if provided, your email may be used to inform you of news from us and to receive discounts/give aways from vegan friendly companies.
+Before or at the time of collecting personal information, we will identify the purposes for which information is being collected. We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law. We will only retain personal information as long as necessary for the fulfillment of those purposes.
 
-**Section 2 – Consent**
+We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.
 
-If you provide us with any kind of personal information, it is implied that you’re consenting us to collect it.  If we request additional personal information for a secondary reason, marketing for example, we will ask you directly for your consent, or give you the opportunity to say no.
+Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.
 
-**Section 3 – Our disclosure requirements**
+We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
 
-If we are required by law to disclose your personal information, we do reserve that right.
+We will make readily available to customers information about our policies and practices relating to the management of personal information.
 
-**Section 4 – Links**
-
-Any time you follow a link from our website to another, we aren’t responsible for the privacy policies of those other sites. We encourage you to read their private policies.
-
-Additionally, we use Google Analytics to help us learn about you, the visitor! It doesn’t tell us too much, just what you’ve been checking out on the site.
-
-**Section 5 – Third-party services**
-
-Third-party groups will only be allowed the information voluntarily collected from you to allow them to provide a service to us (see: advertising). We will not sell your email address to third parties under any circumstance.
-
-**Section 6 – Age of consent**
-
-By using this website, you acknowledge that you are the age of consent in your state, province, or country, or that you are a consenting adult giving consent to a minor to use this website.
-
-**Section 7 – Changes to this policy**
-
-We reserve the ability to change this privacy policy at any time, so review it frequently. Changes take effect immediately upon posting on this website unless otherwise specified.
-
-**Section 8 – Questions**
-
-    * 
-
+We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
