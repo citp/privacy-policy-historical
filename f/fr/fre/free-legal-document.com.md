@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-legal-document.com privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022094205id_/http%3A//www.free-legal-document.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-legal-document.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914165142id_/http%3A//www.free-legal-document.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Free-Legal-Document.com
 
@@ -40,9 +40,11 @@ If you would like more information about this practice and would like to know yo
 
 Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. Privacy software can be used to override web beacons. Taking either of these actions shouldn't cause a problem with our site, should you so choose. In FireFox, choose Tools > Options > Privacy to set your cookie settings. In Internet Explorer, choose Tools > Internet Options > Privacy. In other browsers, please check the documentation of that browser for how to change the cookie settings.
 
+[How Google uses data when you use our partners' sites or apps.](http://www.google.com/intl/en/policies/privacy/partners/)
+
 ### Google Analytics
 
-We have enabled Google Analytics Demographics and Interest Reporting. We use those demographic and interest reports to better tailor our articles to our user's interests.
+We have enabled Google Analytics Demographics and Interest Reporting, Remarketing, GDN Impression Reporting, and the DoubleClick Campaign Manager integration. We use those demographic and interest reports to better tailor our articles to our user's interests.
 
 As you browse [www.free-legal-document.com](http://www.free-legal-document.com/ "Free Legal Documents"), Google Analytics and advertising cookies will be placed on your computer to collect demographic and interest information, but we do not tie the cookie to any personal information that you provide to us.
 
