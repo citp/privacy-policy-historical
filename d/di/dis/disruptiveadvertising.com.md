@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the disruptiveadvertising.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529151215id_/http%3A//www.disruptiveadvertising.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disruptiveadvertising.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914200148id_/http%3A//www.disruptiveadvertising.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Disruptive Advertising
+# Privacy Policy - Disruptive Advertising
 
 Disruptive Advertising Privacy Policy
 
@@ -14,7 +14,7 @@ Disruptive Advertising is the sole owner of information collected on this websit
 You may submit your credit card information online or over the phone when you sign up for our services. We process payments through Litle& Co. This company and other companies we may do business with in order to provide the services you request from us will not retain, share, store, or use personally identifiable information for any purpose other than billing for our services.
 
 3\. Personal Information You Provide  
-As stated above, unless you voluntarily provide personal information for a specific purpose, we do not collect personal information from you. We will never combine any personal information about a user of our site with any aggregate information we collect about that user, whether collected on our site or our Advertising Service. If you choose to provide personal information during registration or when using our services, we use your personal information to provide you with particular product or services that you request. If your personal information changes, you may correct, update, or delete it by emailing our Customer Support at support@DisruptiveAdvertising.com or by calling 1-877-993-7275.
+As stated above, unless you voluntarily provide personal information for a specific purpose, we do not collect personal information from you. We will never combine any personal information about a user of our site with any aggregate information we collect about that user, whether collected on our site or our Advertising Service. If you choose to provide personal information during registration or when using our services, we use your personal information to provide you with particular product or services that you request. If your personal information changes, you may correct, update, or delete it by emailing our Customer Support at support@DisruptiveAdvertising.com or by calling 1-877-956-7510.
 
 4\. Limited Third-Party Use of Personal Information  
 In the event that you have been referred to our services by or through an Disruptive Advertising partnership promotion (such as through the Yahoo! Small Business Marketing Dashboard or other Yahoo!-sponsored promotion or site), such that our Promotional Partner (as defined in the Terms and Conditions you agreed to when obtaining our services) is a beneficiary of our relationship with you, then you agree that Disruptive Advertising may share all data it obtains from you, including product performance data, with our Promotional Partner, and our Promotional Partner shall have the same rights to access and use said data as Disruptive Advertising itself.
@@ -49,4 +49,4 @@ This Privacy Policy is effective and was last updated on January 22, 2013.
 Disruptive Advertising, LLC  
 support@DisruptiveAdvertising.com  
 1715 East 130 North Spanish Fork, UT, 84660  
-1-877-993-727
+1-877-956-7510
