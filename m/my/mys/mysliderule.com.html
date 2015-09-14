@@ -1,26 +1,26 @@
-<!--The following is the downloaded HTML source of the mysliderule.com privacy policy that was archived on 2015-03-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150321071632id_/https%3A//www.mysliderule.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mysliderule.com privacy policy that was archived on 2015-09-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150914212116id_/https%3A//www.mysliderule.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
  
-<link rel="stylesheet" href="/css/final.acac0621.css" media="screen, projection">
+<link rel="stylesheet" href="/css/final.faea2e23.css" media="screen, projection">
  
 <link href="//fonts.googleapis.com/css?family=Karla:400,400italic,700,700italic" rel="stylesheet" type="text/css">
 <link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,400italic,600italic" rel="stylesheet" type="text/css">
-<meta name="msapplication-TileImage" content="/images/touch/apple-touch-icon-144x144-precomposed.394a1150.png">
+<meta name="msapplication-TileImage" content="/images/touch/apple-touch-icon-144x144-precomposed.4831b676.png">
 <meta name="msapplication-TileColor" content="#222222">
-<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/images/touch/apple-touch-icon-152x152-precomposed.15c4e658.jpg">
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/images/touch/apple-touch-icon-144x144-precomposed.394a1150.png">
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/touch/apple-touch-icon-114x114-precomposed.2e690587.png">
-<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/touch/apple-touch-icon-72x72-precomposed.e66161fd.png">
-<link rel="apple-touch-icon-precomposed" href="/images/touch/apple-touch-icon-57x57-precomposed.02370786.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/images/touch/apple-touch-icon-152x152-precomposed.dfd9fcc0.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/images/touch/apple-touch-icon-144x144-precomposed.4831b676.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/touch/apple-touch-icon-114x114-precomposed.d0f09b33.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/touch/apple-touch-icon-72x72-precomposed.349f6697.png">
+<link rel="apple-touch-icon-precomposed" href="/images/touch/apple-touch-icon-57x57-precomposed.27511ad8.png">
  
 <!--[if lt IE 9]>
 		<script src="/js/libs/html5shiv.59067cb6.js"></script>
 	<![endif]-->
  
-<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0018/6590.js?439027" async="" type="text/javascript"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//cdn.optimizely.com/js/987935029.js"></script>
+<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0018/6590.js?439027" async="" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KBRBLH"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//cdn.optimizely.com/js/987935029.js"></script>
 <title>Privacy Policy | SlideRule</title>
 <meta name="description" content="Over 15,000 paid and free online courses / MOOCs from MIT, Harvard, Stanford, Yale, Coursera, Udacity, edX, Codecademy, Udemy, Khan Academy, Lynda.com, etc.">
 <meta property="fb:app_id" content="1386756464875327">
@@ -56,6 +56,14 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
  
 </head>
 <body>
+ 
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KBRBLH" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KBRBLH');</script>
+ 
 <div class="bg"></div>
 <header role="banner">
 <div class="container">
@@ -89,11 +97,16 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 <div class="container multi_cols">
 <ul id="h-univ-col1" class="">
 <li>
-<a href="/workshops/data-science">Intro To Data Science</a>
+<a href="/workshops/data-science">Foundations of Data Science</a>
 </li>
 <li>
 <a href="/workshops/ux-design">
 UX Design School
+</a>
+</li>
+<li>
+<a href="/workshops/data-science-intensive/">
+Data Science Intensive
 </a>
 </li>
 </ul>
@@ -370,24 +383,34 @@ Remember Me
 		</div>
 	    <ul class="profile-tabs-ctn multi_cols">
 	      <div class="sep"></div>
+	      {{#is_mentor}}
 	      <li class="table-view-cell" tab="courses">
-	        <a class="navigate-right active" href="/profile#courses">
-	          Courses
+	        <a class="navigate-right active" href="/mentor-dashboard">
+	          Mentor Dashboard
 	        </a>
 	      </li>
-	      <li class="table-view-cell"  tab="lps">
-	        <a class="navigate-right" href="/profile#lps">
-	          Learning Paths
+	      {{/is_mentor}}
+	      {{#is_admin}}
+		      <li class="table-view-cell" tab="courses">
+		        <a class="navigate-right active" href="/mentor-dashboard">
+		          Mentor Dashboard
+		        </a>
+		      </li>
+	      {{/is_admin}}
+	      <li class="table-view-cell" tab="my-learning">
+	        <a class="navigate-right active" href="/profile#my-learning">
+	          My Learning
 	        </a>
 	      </li>
+	     
 	      <li class="table-view-cell" tab="reviews">
 	        <a class="navigate-right" href="/profile#reviews">
 	          Reviews
 	        </a>
 	      </li>
 	      <div class="sep"></div>
-	      <li class="table-view-cell" tab="profile" >
-	        <a class="navigate-right" href="/profile#profile">
+	      <li class="table-view-cell" tab="user-profile" >
+	        <a class="navigate-right" href="/profile#user-profile">
 	          Profile
 	        </a>
 	      </li>
@@ -536,12 +559,15 @@ We may change this privacy policy. If we make any changes, we will change the La
 <h6>This privacy policy was last Updated on December 17, 2013. </h6>
 </div>
 <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+<script src="/js/libs/underscore-min.6a3a434a.js"></script>
+<script src="/js/libs/underscore.string.min.591a21f5.js"></script>
  
 <script src="/js/libs/history.d09f4e42.js"></script>
 <script src="/js/libs/mustache.acb2ace0.js"></script>
 <script src="/js/libs/jquery.raty.min.a8f4a811.js"></script>
 <script src="/js/libs/modal.17fae7ad.js"></script>
 <script src="/js/libs/typeahead.e7412dbb.js"></script>
+<script src="/js/libs/jquery.validate.min.fc8970df.js"></script>
 <script type="text/javascript">
 		
 		    ga('create', 'UA-43924544-1', 'mysliderule.com');
@@ -556,7 +582,7 @@ We may change this privacy policy. If we make any changes, we will change the La
 		            }
 		    });
 	</script>
-<script src="/js/final.42f6e0d4.js"></script>
+<script src="/js/final.17da30cd.js"></script>
 <footer role="contentinfo">
  
 <div class="container">
@@ -594,11 +620,16 @@ Browse All Learning Paths &gt;&gt;
 <h4>Workshops</h4>
 <ul>
 <li>
-<a href="/workshops/data-science">Intro To Data Science</a>
+<a href="/workshops/data-science">Foundations of Data Science</a>
 </li>
 <li>
 <a href="/workshops/ux-design">
 UX Design School
+</a>
+</li>
+<li>
+<a href="/workshops/data-science-intensive/">
+Data Science Intensive
 </a>
 </li>
 </ul>
@@ -631,6 +662,7 @@ Universities
 <h4>More</h4>
 <ul>
 <li><a href="/about">About</a></li>
+<li><a href="/join-us/">Join Us</a></li>
 <li><a href="//www.mysliderule.com/blog">Blog</a></li>
 <li><a href="/contact">Contact</a></li>
 <li><a href="/privacy">Privacy Policy</a></li>
@@ -770,6 +802,17 @@ $(document).ready(function() {
 
 
 });
+</script>
+ 
+ 
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 955729049;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
 </script>
 
 
