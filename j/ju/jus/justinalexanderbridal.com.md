@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justinalexanderbridal.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504044110id_/http%3A//www.justinalexanderbridal.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justinalexanderbridal.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914043855id_/http%3A//www.justinalexanderbridal.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Justin Alexander
 
