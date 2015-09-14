@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ps3scenefiles.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315014842id_/http%3A//www.ps3scenefiles.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ps3scenefiles.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914032044id_/http%3A//www.ps3scenefiles.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - PS3SceneFiles
 
@@ -14,8 +14,3 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 **Cookies**  
 This website does not store any information that would, on its own, allow us to identify individual users of this service without their permission. Any cookies that may be used by this website are used either solely on a per session basis or to maintain user preferences. Cookies are not shared with any third parties. 
-
-  1.  
-  2. [Privacy Policy](http://www.ps3scenefiles.com/privacypolicy/)
-
-
