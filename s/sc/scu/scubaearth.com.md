@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scubaearth.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626221419id_/https%3A//www.scubaearth.com/about-scubaearth.aspx%3Fpagetype%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scubaearth.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914160407id_/https%3A//www.scubaearth.com/about-scubaearth.aspx%3Fpagetype%3Dprivacy) for the most accurate reproduction.*
 
 # Research, plan and share your scuba diving experiences in ScubaEarth
 
@@ -198,7 +198,7 @@ PADI Asia Pacific: [legal@padi.com.au](mailto:legal@padi.com.au)
 Japan Office: [padijpn@padi.co.jp](mailto:padijpn@padi.co.jp)  
 PADI Europe, Middle East and Africa: [privacy@padi.co.uk](mailto:privacy@padi.co.uk)  
 
-ScubaEarth: [ support@scubaearth.com ](mailto:support@scubaearth.com)  
+ScubaEarth: [info@scubaearth.com](mailto:info@scubaearth.com "info@scubaearth.com")
 
 ##### **Emergency First Response Corp.**
 
