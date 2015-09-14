@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nexmo.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315233814id_/https%3A//www.nexmo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nexmo.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914193759id_/https%3A//www.nexmo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Nexmo
 
 Updated: March 12, 2015
 
-We at Nexmo, Inc. know you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. **By using or accessing our websites or the Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways.**
+We at Nexmo Inc. know you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. **By using or accessing our websites or the Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways.**
 
 Remember that your use of Nexmo’s Services is at all times subject to the [Terms of Use](https://www.nexmo.com/privacy-policy/www.nexmo.com/terms/ "Terms of Service"), which incorporates this Privacy Policy. Any terms we use in this Privacy Policy without defining them have the definitions given to them in the Terms of Use.
 
