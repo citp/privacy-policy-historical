@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 21nova.com privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515162358id_/http%3A//www.21nova.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 21nova.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914031614id_/http%3A//www.21nova.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Security Policy: Data Collection and Distribution - 21nova™
 
@@ -12,7 +12,7 @@ for instant download[Download Now](http://banner.21nova.com/cgi-bin/SetupCasino.
 
   1. **PURPOSE OF THIS PRIVACY POLICY**
     1. This Privacy Policy sets out the ways and the manner in which, we, the Operator, may collect and use personal information that we may obtain about You.
-    2. In Gibraltar, we are a registered Data Controller under the Gibraltar Data Protection Act 2004. Details of our registration can be found in the Gibraltar Regulatory Authority public register of data controllers at [www.gra.gi/data-protection/online-register](http://www.gra.gi/data-protection/online-register) by searching for "William Hill". Our Gibraltar Gambling Commissioner registration number for the purposes of data protection is DP005080.
+    2. In Gibraltar, we are a registered Data Controller under the Gibraltar Data Protection Act 2004. Details of our registration can be found in the Gibraltar Regulatory Authority public register of data controllers at <http://www.gra.gi/data-protection> by searching for "William Hill". Our Gibraltar Gambling Commissioner registration number for the purposes of data protection is DP005080.
     3. We ask that You read this Privacy Policy carefully as it contains important information about what to expect as to how we collect and use personal information about You.
     4. Unless the context otherwise requires, capitalised terms not defined in this Privacy Policy shall be as defined in the General Terms, which, for the avoidance of doubt, also apply and You will need to read and understand the General Terms in addition to this Privacy Policy.
   2. **WHAT TYPE OF INFORMATION WE COLLECT AND USE OF YOUR INFORMATION**
