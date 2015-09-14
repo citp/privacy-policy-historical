@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frenchconnection.com privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620003916id_/http%3A//www.frenchconnection.com/content/legal/privacy%2Bpolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frenchconnection.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914224921id_/https%3A//www.frenchconnection.com/content/legal/privacy%2Bpolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - French Connection
 
@@ -70,7 +70,7 @@ We may also combine your information with information lawfully obtained from oth
 
 We will not sell or rent your personal information to any third party without your express consent unless we are required or permitted to do so by law. 
 
-In order to ensure that we offer the best service we can and can carry out the functions more particularly described within the [How We Use Information](https://web.archive.org/web/20150620003916id_/http%3A//www.frenchconnection.com/content/legal/how-we-use) section above, it may be necessary in certain circumstances for us to share the information we collect (which may include personal information) with:
+In order to ensure that we offer the best service we can and can carry out the functions more particularly described within the [How We Use Information](https://web.archive.org/web/20150914224921id_/https%3A//www.frenchconnection.com/content/legal/how-we-use) section above, it may be necessary in certain circumstances for us to share the information we collect (which may include personal information) with:
 
   * any member of our corporate group (which means our holding company and its subsidiaries);
   * carefully selected and trusted third parties such as business partners, suppliers and sub-contractors for the provision of the Website and the fulfilment of any contract we enter into with them and you (e.g. fulfilling orders, processing payments, shipping, and carrying out promotional services); 
@@ -182,4 +182,4 @@ A "cookie" is a small data file stored by your web browser on your computer's ha
 
 We use cookies to keep track of what you have in your basket and to remember you when you return to our site. It also tells us which website you came to us from. You can disable cookies on your computer by changing the preferences or options menus in your browser. However, it is possible that some parts of our website will not operate correctly if you disable cookies.
 
-More about our [Cookie Policy](https://web.archive.org/web/20150620003916id_/http%3A//www.frenchconnection.com/content/legal/cookie+policy.htm).
+More about our [Cookie Policy](https://web.archive.org/web/20150914224921id_/https%3A//www.frenchconnection.com/content/legal/cookie+policy.htm).
