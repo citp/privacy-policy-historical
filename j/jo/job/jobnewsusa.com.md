@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the jobnewsusa.com privacy policy that was archived on 2015-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150327142309id_/https%3A//www.jobnewsusa.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobnewsusa.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914041331id_/https%3A//www.jobnewsusa.com/content/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-Please Sign in or Register to continue.
+# Privacy Policy – Job News
 
 **Overview**
 
@@ -10,15 +8,15 @@ Job News is a network of career web sites that provide a forum for job seekers a
 
  **Information About You**
 
-When you sign up for a job seeker account with Job News, you create a “public profile” (including information such as, but not limited to employment history, job title, salary requirements, education level, and job skills) and can post your resume information online, which is made available online via our employer web sites. We also collect personal information (including your contact information or other information in which your identity is discernible), which becomes part of your private “account profile.” Employers may view your contact information with the implicit intention of contacting you regarding potential employment opportunities.
+When you sign up for a job seeker account with Job News, you create a “account profile” (including information such as, but not limited to employment history, job title, salary requirements, education level, and job skills) by posting your resume information online. We also collect personal information (including your contact information or other information in which your identity is discernible), which becomes part of your private account profile. An employer may view your contact information only when you apply to a specific job(s), and with the implicit intention of contacting you regarding potential employment opportunities.
 
-When you sign up for an employer account with Job News, you may create a “job postings” and “organization pages,” the content of which is made available online via our (and sometimes our affiliates’) web sites. We also collect personal information (including your contact information or other information in which your identity is discernible), which becomes part of your private “account profile.” Job seekers may view your public information with the implicit intention of contacting you regarding your (or your client’s) potential employment opportunities.
+When you sign up for an employer account with Job News, you may create  “job postings,” the content of which is made available online via our (and sometimes our affiliates’) web sites. We also collect personal information (including your contact information or other information in which your identity is discernible), which becomes part of your private “account profile.” Job seekers may view your public information with the implicit intention of contacting you regarding your (or your client’s) potential employment opportunities.
 
 Regardless of your account type, from time to time, you may supply us supplemental information (such as, interests, favorites, preferences, gender, age group, hobbies, etc.) so we can better deliver personalized services. Unless you tell us otherwise, we may use this information to make you aware of opportunities, job openings, services, products, site changes, etc., which we believe may be of interest to you. Providing supplemental information is strictly voluntary, and you will not be subject to any adverse action or treatment if you choose not to provide such information. We respect your account’s communication settings.
 
  **Job Seeker Resume Information**
 
-You may post up to three (3) resumes at a time. What you put in any resume must be true and accurate to the best of your knowledge. Job News is under no obligation to verify any information you supply, including your identity. Your resume(s) will be accessible to all employers and customers who pay for access to resumes. If you do not wish to post a resume for all interested employers, simply apply for jobs one at a time without uploading a resume to your My Resumes page.
+You may post one (1) resume at a time. What you put in any resume must be true and accurate to the best of your knowledge. Job News is under no obligation to verify any information you supply, including your identity. Your resume(s) won't be accessible to employers other than those offering specific job(s) to which you specifically apply.
 
 You may edit or delete a resume at any time. However, customers and other users of our site may have already retained a copy of your resume in their own files. Job News is not responsible for the use, retention or disclosure of any resumes or other information about you that has been posted publicly at any time.
 
@@ -61,6 +59,10 @@ Job News is directed to adults and not to children under the age of 13. However,
  **Information About All Visitors**
 
 Job News collects general usage information about all visitors of our site, such as what areas of the site they visit most frequently and what services they access the most. This information may also include IP addresses, browser types, domain names, access times and referring web site addresses. However, we only use such usage data anonymously. This information helps us determine what is most beneficial for our users, and how we can continually create a better overall experience for you. We may share this information with our affiliates, but only anonymously and in the aggregate so that they too may understand how Job News visitors use our site and can help create a better overall experience.
+
+Specifically, Job News uses Google Analytics to track website usage. In addition to general usage information, we also collect data for:
+
+By enabling the Advertising Features, Job News uses Google Analytics to collect data about our website traffic via [Google advertising cookies](http://www.google.com/policies/technologies/types/) and [anonymous identifiers](https://www.google.com/policies/privacy/key-terms/#toc-terms-identifier), in addition to data collected through a standard Google Analytics implementation. Job News doesn't facilitate the merging of personally-identifiable information with non-personally identifiable information collected through any Google advertising product. In other words, your personal information is kept private, because Job News respects your privacy.
 
  **Cookies**
 
