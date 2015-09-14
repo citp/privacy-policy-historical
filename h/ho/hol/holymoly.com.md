@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the holymoly.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316043416id_/http%3A//www.holymoly.com/page/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holymoly.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914161225id_/http%3A//www.holymoly.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Holy Moly!
+# 
+
+## Privacy Policy
 
 _Holy Moly Entertainment Limited (referred to in these terms and conditions as " **Holy Moly** ", " **we** ", " **us** " or " **our** ") is committed to protecting your privacy on-line. We use the information we collect about you to provide services to you when you visit our website currently located at __[www.holymoly.com](http://www.holymoly.com/) _ _(the " **Site** "). At Holy Moly, we appreciate that you do not want any personal information you provide to us distributed indiscriminately and here, we explain how we collect information, what we do with it and what controls you have._
 
