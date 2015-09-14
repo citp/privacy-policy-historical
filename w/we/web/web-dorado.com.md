@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the web-dorado.com privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409023621id_/http%3A//web-dorado.com/web-dorado-privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web-dorado.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914055226id_/https%3A//web-dorado.com/web-dorado-privacy-statement.html) for the most accurate reproduction.*
 
 # Web-Dorado Privacy Statement
 
