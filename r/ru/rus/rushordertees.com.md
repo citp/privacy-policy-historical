@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the rushordertees.com privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326023618id_/https%3A//www.rushordertees.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rushordertees.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914200605id_/https%3A//www.rushordertees.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RushOrderTees.com
 
-This Privacy Policy governs the manner in which Printfly Corporation collects, uses, maintains and discloses information collected from users (each, a "User") of the https://www.rushordertees.com/ website ("Site"). This privacy policy applies to the Site and all products and services offered by Printfly Corporation. 
+This Privacy Policy governs the manner in which Printfly Corporation collects, uses, maintains and discloses information collected from users (each, a "User") of the <https://www.rushordertees.com/> website ("Site"). This privacy policy applies to the Site and all products and services offered by Printfly Corporation. 
 
+  
 **Personal identification information**
 
 We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, place an order, respond to a survey and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information, 
