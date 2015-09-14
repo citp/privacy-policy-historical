@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lcn.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322143602id_/https%3A//www.lcn.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lcn.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914035753id_/https%3A//www.lcn.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - LCN.com
 
