@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retailchoice.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508004950id_/http%3A//www.retailchoice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retailchoice.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914053649id_/http%3A//www.retailchoice.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -8,7 +8,7 @@ You can remove any of the information that RetailChoice.com stores about you, at
 
 Personal data which you supply to us may be transferred to third party service providers to be stored or processed on our behalf, including third parties located outside of the European Economic Area in countries where there may be a lower legal level of data protection. However, we will always endeavour to handle your information in accordance with this privacy policy, wherever it is processed.
 
-Privacy policy update (Last updated 4 Dec 2014)
+Privacy policy update (Last updated 13 July 2015)
 
 **Registration details**   
 Contact and other job advertisement details you supply as part of the RetailChoice.com Credit Card posting process are stored by us and used to provide you with the services you have requested. Please note that although we require customers who use our services, such as employers seeking to recruit staff, to agree to use the information made available solely for recruitment-related purposes, we do not control their use of any information that they have access to as part of receiving our services.
@@ -22,7 +22,7 @@ RetailChoice.com will also use the aggregate data to identify employment trends 
 
 Some of our customers may be located in countries outside the European Economic Area.
 
-When you 'apply online', we store some information about you in your 'my RetailChoice' area, but it is protected by your password and may only be accessed by you. It does not form part of our RetailChoice.com candidate database and cannot be searched or accessed by RetailChoice.com customers. You can delete your 'my RetailChoice' account at any time. Your CV can only be viewed by a RetailChoice.com customer if you have consented to this within the profile section.
+When you 'apply online', we store some information about you in your 'My retailchoice' area, but it is protected by your password and may only be accessed by you. When your profile is searchable your application activity (number of applications, job titles, locations & salaries) will be visible to RetailChoice customers. RetailChoice does not verify the names of organisations you applied to. We will respect the choices you make to limit sharing or visibility settings in your “retailchoice” account. You can delete your 'My retailchoice' account at any time, make your profile anonymous or choose to not make your profile searchable. Your CV can only be viewed by a RetailChoice.com customer if you have consented to this within the profile section.
 
 If you choose to create a profile and upload a CV to our database, we rely on you to ensure that your details are kept up to date. You should update your CV at least every six months, particularly if your contact details have changed.
 
