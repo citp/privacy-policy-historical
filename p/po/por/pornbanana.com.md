@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the pornbanana.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315001057id_/http%3A//streamlivesex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornbanana.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914200721id_/http%3A//streamlivesex.com/privacy-policy) for the most accurate reproduction.*
 
 # StreamLiveSex – Live Private Chat With Amateurs - Privacy Policy
+
+The following document is presented in its original language.
 
 We know that protecting your privacy is very important to you.
 
