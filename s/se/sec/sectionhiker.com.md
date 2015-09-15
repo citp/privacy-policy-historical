@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sectionhiker.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315001717id_/http%3A//sectionhiker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sectionhiker.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915090925id_/http%3A//sectionhiker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Section Hikers Backpacking Blog
 
@@ -42,9 +42,3 @@ We work with third-party advertising companies. These companies may use informat
 When you visit the SectionHiker.com web site, we or a third-party advertiser may store or recognize some information on your computer in the form of a “cookie” to better match your interests and preferences. With most Internet browsers or other software, you can erase cookies from your computer hard drive, block all cookies or receive a warning before a cookie is stored. Please refer to your browser instructions or help screen to learn more about these functions.
 
 The SectionHiker.com web site contain links to sites operated by our business partners and other third parties, including local directories. Once you leave the SectionHiker.com web site, you may or may not see a new URL in the location bar. Please review the linked site’s privacy policies, and if you do not agree to be bound by the terms of the policies governing that site, terminate your visit to that site. We are not responsible for the privacy policies and practices of the sites operated by our business partners or other third parties.
-
-#### Most Popular Searches
-
-  * ip address hiking
-
-
