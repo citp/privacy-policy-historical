@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the hotref.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602181522id_/http%3A//www.hotref.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotref.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915065057id_/http%3A//www.hotref.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
-|  |   
----  
-  
 |  Your privacy is our top concern. We work hard to earn and keep your trust, so we adhere to the following principles to protect your privacy:   
 ---  
 * We will never rent or sell your personal information to third parties for marketing purposes 
