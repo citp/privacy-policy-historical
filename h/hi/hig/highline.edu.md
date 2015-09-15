@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highline.edu privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319142842id_/https%3A//www.highline.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highline.edu privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916014957id_/http%3A//www.highline.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Highline College
 
@@ -119,7 +119,7 @@ __Top
 
 ## Degree Audit
 
-Highline College may require you to provide certain personal information in order to perform a degree audit of your records over the Web. The information is required in order to verify your identity. You may choose not to provide this information, but if you choose not to provide it we will be unable to display a degree audit of your records over the Web, and you will have to request a degree audit in person. Contact Registration at (206) 878-3710 ext. 3242 or [regisstaff@highline.edu](mailto:regisstaff@highline.edu?subject=Degree%20Audit%20Request) for more information.
+Highline College may require you to provide certain personal information in order to perform a degree audit of your records over the Web. The information is required in order to verify your identity. You may choose not to provide this information, but if you choose not to provide it we will be unable to display a degree audit of your records over the Web, and you will have to request a degree audit in person. Contact Registration at (206) 878-3710 ext. 3242 or [registration@highline.edu](mailto:registration@highline.edu?subject=Degree%20Audit%20Request) for more information.
 
 __Top
 
@@ -139,37 +139,37 @@ __Top
 
 ## Registration
 
-Highline College may require you to provide certain personal information in order to register for classes over the Web. The information is required in order to verify your identity. You may choose not to provide this information, but if you choose not to provide it you will be unable to register for classes over the Web, and you will have to register for classes in person. Contact Registration at (206) 878-3710 ext. 3242 or [regisstaff@highline.edu ](mailto:regisstaff@highline.edu?subject=Registration%20Question)for more information.
+Highline College may require you to provide certain personal information in order to register for classes over the Web. The information is required in order to verify your identity. You may choose not to provide this information, but if you choose not to provide it you will be unable to register for classes over the Web, and you will have to register for classes in person. Contact Registration at (206) 878-3710 ext. 3242 or [registration@highline.edu ](mailto:registration@highline.edu?subject=Registration%20Question)for more information.
 
 __Top
 
 ## Registration Time
 
-Highline College may require you to provide certain personal information in order to obtain your registration time over the Web. The information is required in order to verify your identity. You may choose not to provide this information, but if you choose not to provide it we will be unable to display your registration time over the Web, and you will have to obtain your registration time in person. Contact Registration at (206) 878-3710 ext. 3242 or [regisstaff@highline.edu](mailto:regisstaff@highline.edu?subject=Registration%20Time%20Request) for more information.
+Highline College may require you to provide certain personal information in order to obtain your registration time over the Web. The information is required in order to verify your identity. You may choose not to provide this information, but if you choose not to provide it we will be unable to display your registration time over the Web, and you will have to obtain your registration time in person. Contact Registration at (206) 878-3710 ext. 3242 or [registration@highline.edu](mailto:registration@highline.edu?subject=Registration%20Time%20Request) for more information.
 
 __Top
 
 ## Schedule Planner
 
-Highline College may require you to provide certain personal information in order to check requisites while using schedule planner. The information is required in order to access your academic and testing records. You may choose not to provide this information, but if you choose not to provide it we will be unable to verify your eligibility for enrollment into certain classes and you may be blocked from enrolling into those classes. Contact Registration at (206) 878-3710 ext. 3242 or [regisstaff@highline.edu](mailto:regisstaff@highline.edu?subject=Schedule%20Planner%20Question) for more information.
+Highline College may require you to provide certain personal information in order to check requisites while using schedule planner. The information is required in order to access your academic and testing records. You may choose not to provide this information, but if you choose not to provide it we will be unable to verify your eligibility for enrollment into certain classes and you may be blocked from enrolling into those classes. Contact Registration at (206) 878-3710 ext. 3242 or [registration@highline.edu](mailto:registration@highline.edu?subject=Schedule%20Planner%20Question) for more information.
 
 __Top
 
 ## Student Address Change
 
-Highline College may require you to provide certain personal information in order to change your address over the Web. The information is required in order to verify your identity. You may choose not to provide this information, but if you choose not to provide it we will be unable to change your address over the Web, and you will have to change your address in person. Contact Registration at (206) 878-3710 ext. 3242 or [regisstaff@highline.edu](mailto:regisstaff@highline.edu?subject=Student%20Address%20Change%20Request) for more information.
+Highline College may require you to provide certain personal information in order to change your address over the Web. The information is required in order to verify your identity. You may choose not to provide this information, but if you choose not to provide it we will be unable to change your address over the Web, and you will have to change your address in person. Contact Registration at (206) 878-3710 ext. 3242 or [registration@highline.edu](mailto:registration@highline.edu?subject=Student%20Address%20Change%20Request) for more information.
 
 __Top
 
 ## Student PIN Change
 
-Highline College may require you to provide certain personal information in order to change your personal identification number over the Web. The information is required in order to verify your identity. You may choose not to provide this information, but if you choose not to provide it we will be unable to change your PIN over the Web, and you will have to change your PIN in person. Contact Registration at (206) 878-3710 ext. 3242 or [regisstaff@highline.edu](mailto:regisstaff@highline.edu?subject=Student%20PIN%20Change%20Request) for more information.
+Highline College may require you to provide certain personal information in order to change your personal identification number over the Web. The information is required in order to verify your identity. You may choose not to provide this information, but if you choose not to provide it we will be unable to change your PIN over the Web, and you will have to change your PIN in person. Contact Registration at (206) 878-3710 ext. 3242 or [registration@highline.edu](mailto:registration@highline.edu?subject=Student%20PIN%20Change%20Request) for more information.
 
 __Top
 
 ## Student Schedule
 
-Highline College may require you to provide certain personal information in order to view your quarterly schedule. The information is required in order to verify your identity. You may choose not to provide this information, but if you choose not to provide it we will be unable to display your quarterly schedule over the Web, and you will have to obtain a copy of your quarterly schedule in person. Contact Registration at (206) 878-3710 ext. 3242 or [regisstaff@highline.edu](mailto:regisstaff@highline.edu?subject=Student%20Schedule%20Question) for more information.
+Highline College may require you to provide certain personal information in order to view your quarterly schedule. The information is required in order to verify your identity. You may choose not to provide this information, but if you choose not to provide it we will be unable to display your quarterly schedule over the Web, and you will have to obtain a copy of your quarterly schedule in person. Contact Registration at (206) 878-3710 ext. 3242 or [registration@highline.edu](mailto:registration@highline.edu?subject=Student%20Schedule%20Question) for more information.
 
 __Top
 
@@ -181,7 +181,7 @@ __Top
 
 ## Unofficial Transcript
 
-Highline College may require you to provide certain personal information in order to view your unofficial transcript over the Web. The information is required in order to verify your identity. You may choose not to provide this information, but if you choose not to provide it we will be unable to display your unofficial transcript over the Web, and you will have to view your unofficial transcript in person. Contact Registration at (206) 878-3710 ext. 3242 or [regisstaff@highline.edu](mailto:regisstaff@highline.edu?subject=Unofficial%20Transcript%20Request) for more information.
+Highline College may require you to provide certain personal information in order to view your unofficial transcript over the Web. The information is required in order to verify your identity. You may choose not to provide this information, but if you choose not to provide it we will be unable to display your unofficial transcript over the Web, and you will have to view your unofficial transcript in person. Contact Registration at (206) 878-3710 ext. 3242 or [registration@highline.edu](mailto:registration@highline.edu?subject=Unofficial%20Transcript%20Request) for more information.
 
 __Top
 
