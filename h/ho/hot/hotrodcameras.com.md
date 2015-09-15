@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotrodcameras.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618141453id_/http%3A//hotrodcameras.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotrodcameras.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915033744id_/http%3A//hotrodcameras.com/privacy) for the most accurate reproduction.*
 
 # HRC - Privacy Policy
 
