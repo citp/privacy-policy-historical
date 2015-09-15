@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iquitsugar.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628201710id_/https%3A//iquitsugar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iquitsugar.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915041724id_/https%3A//iquitsugar.com/privacy-policy) for the most accurate reproduction.*
 
 # I Quit Sugar Privacy Policy - I Quit Sugar
 
