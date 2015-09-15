@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aamc.org privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616002915id_/https%3A//www.aamc.org/44866/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aamc.org privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916001202id_/https%3A//www.aamc.org/44866/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - AAMC
 
@@ -86,7 +86,7 @@ GHLO™ (Global Health Learning Opportunities)| [GHLO Services Privacy Statement
 GME Track®| [Data Disclosure Statement](https://www.aamc.org/services/gmetrack/collection/disclosure/)  
 Graduation Questionnaire (GQ)| Frequently Asked Questions  
 MCAT® (Medical College Admissions Test®)| [MCAT Essentials ](https://www.aamc.org/students/download/63060/data/mcatessentials.pdf)  
-MedEdPORTAL®| [ Copyright and Patient Privacy Policy ](https://www.aamc.org/external/69416?url=https://www.mededportal.org/submitresources/policies/)  
+MedEdPORTAL®| [ Copyright and Patient Privacy Policy ](https://www.aamc.org/external/69416?url=https://www.mededportal.org/submit/policies/)  
 [Medical School Profile System (MSPS)](https://www.aamc.org/data/msps/)|   
 [Matriculating Student Questionnaire (MSQ)](https://www.aamc.org/data/msq/)|   
 Pre-MCAT Questionnaire (PMQ)| [Frequently Asked Questions (FAQs)](https://www.aamc.org/data/pmq/faq/)  
