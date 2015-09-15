@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2createawebsites.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614061846id_/http%3A//www.2createawebsites.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2createawebsites.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915051048id_/http%3A//www.2createawebsites.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - How To Create A Website
 
@@ -30,14 +30,17 @@ If you contact us from our email address we will never sell or give your email a
 
 Please Share
 
-Are you to busy to create a website?
+Let me set up your WordPress site free!
 
-Get your 5 page website built for $250.00
+All you have to do is sign up to the hosting company I recommend and leave the rest to me. You will also save $30.00 on one years hosting and get a free domain name. 
 
-Contact us to find out more or click the link below 
+[Contact](http://www.2createawebsites.com/contact-create-a-website.php) me today to find out more. 
 
-[We can build your website](http://www.2createawebsites.com/we-can-create-your-website.php)
+Build and host your own website on super fast reliable hosting.
 
-Get the best web hosting deal on the web save $30.00 and get a free domain name, we use the same hosting company. This fantastic deal is for our visitors only click below.
+Free domain included or add a domain you own - Install WordPress in a few clicks - Great support team.
 
-[Create a website](http://www.2createawebsites.com/how-to-create-a-website.php)
+USE CODE CREATE30  
+AND SAVE $30.00
+
+[Click Here](https://www.greengeeks.com/track/michael116844/cp-1958)
