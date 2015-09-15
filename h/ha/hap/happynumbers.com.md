@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the happynumbers.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607084844id_/http%3A//happynumbers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happynumbers.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915094329id_/http%3A//happynumbers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
