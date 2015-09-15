@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pythonspot.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629181841id_/https%3A//pythonspot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pythonspot.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915122730id_/https%3A//pythonspot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pythonspot
 
@@ -29,12 +29,6 @@ Despite our efforts to ensure third parties will not access or obtain your perso
  **Limitation of Liability**
 
 We will not be held liable for any damages resulting from the misuse of any information collected through the Website by any third party, or any misuse of any information collected through the Website not in violation of the Policy.
-
- **Amazon Associates Program**
-
-This web­site is a par­tic­i­pant in the Ama­zon Ser­vices LLC As­so­ci­ates Pro­gram. This means, in par­tic­u­lar, that if you fol­low a link to amazon.​com or any other na­tional ver­sion of Ama­zon web­site and then make a pur­chase within 24 hours, I will re­ceive a small per­cent­age of what you pay to Ama­zon (but your price will stay ex­actly the same).
-
-I, how­ever, never link to spe­cific prod­ucts just in or­der to ad­ver­tize them. I link only to the prod­ucts that I gen­uinely find help­ful and the web­pages link­ing to such prod­ucts ex­press my hon­est opin­ion on the prod­ucts. In other words, I never rec­om­mend a prod­uct just in or­der to per­suade you to buy it; I rec­om­mend it be­cause I my­self find it use­ful.
 
  **Collection of Information**
 
