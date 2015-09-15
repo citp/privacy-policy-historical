@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blacklibrary.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625192315id_/http%3A//www.blacklibrary.com/Info/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blacklibrary.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915071655id_/http%3A//www.blacklibrary.com/Info/Privacy-Policy.html) for the most accurate reproduction.*
 
 # The Black Library - Privacy Policy
 
