@@ -1,10 +1,22 @@
-> *The following text is extracted and transformed from the inspiredopinions.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323192736id_/https%3A//www.inspiredopinions.com/page/5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspiredopinions.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915034737id_/https%3A//www.inspiredopinions.com/page/5) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### Privacy Policy
 
 Schlesinger Associates, has created this privacy policy in order to demonstrate our firm commitment to your privacy when interacting with Schlesinger Associates in connection with engaging in survey research and when visiting our InspiredOpinions web site (the "Site"). This document will outline how we gather and utilize various sources of information obtained during your visit to the Site. This Privacy Policy applies solely to information collected at this Site.  **This policy may be updated from time to time without prior notice, so please check back periodically. If you continue to visit our Site and use the services made available to you after such changes have been made, you hereby provide your consent to the changes.** By using or accessing the Site, you signify your assent to our Privacy Policy.  **IF YOU DO NOT AGREE TO THIS PRIVACY POLICY YOU MAY NOT ACCESS OR OTHERWISE USE THE SITE.**
+
+### Privacy and data protection
+
+In order to fulfil our Mission Statement to Protect Consumer, Health Information and Business Information Privacy, Schlesinger Associates companies adhere to the following policies:
+
+1\. All PII obtained shall be lawfully collected, compiled, stored, allowed access to, processed and utilized by Schlesinger Associates companies.   
+2\. Participation in all research projects is voluntary and respondents may opt out of any research project, at any time. In addition, consent will be obtained prior to the collection of PII that will be recorded.   
+3\. All PII obtained shall be treated confidentially, shall be used for research purposes only and shall not be disclosed to any person not employed by Schlesinger Associates companies, except with consent, as required by law or by court order.   
+4\. All PII obtained shall not be disclosed to any client other than for lawful research purposes. In this regard, in general, clients will not receive (a) the last name or telephone number of any recruited Respondent for any research study; (b) any original screeners or sign-out sheets containing any last names or telephone numbers. Further, clients are bound by Schlesinger's Privacy Policy and any such information shared with clients will be used for marketing research and opinion research purposes only.   
+5\. Schlesinger Associates companies adhere to the policy laws of all countries in which we manage research.   
+6\. Schlesinger Associates companies will not transfer personal data to a country or territory outside the U.S. or the European Economic Area unless that territory or country ensures an adequate level of protection for the rights and freedoms of data subjects.   
+7\. Schlesinger Associates companies adhere to research industry Codes and Standards relating to the USA and additionally the country in which each Schlesinger Associates company is based.
 
 **Personal and Non-Personal Information Collected:**
 
