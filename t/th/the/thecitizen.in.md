@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thecitizen.in privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628223559id_/http%3A//www.thecitizen.in/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecitizen.in privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915104237id_/http%3A//www.thecitizen.in/Privacy.aspx) for the most accurate reproduction.*
 
-# 
+# Privacy Policy Of The Citizen
 
 ## Privacy
 
