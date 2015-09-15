@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the robfore.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629024615id_/http%3A//robfore.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robfore.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915055007id_/http%3A//robfore.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
