@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crystalknows.com privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424200859id_/https%3A//www.crystalknows.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crystalknows.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915085055id_/https%3A//www.crystalknows.com/privacy) for the most accurate reproduction.*
 
 # Crystal | Communicate with anyone, based on personality
 
