@@ -1,23 +1,90 @@
-> *The following text is extracted and transformed from the booz.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511042956id_/http%3A//www.strategyand.pwc.com/global/home/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booz.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915075450id_/http%3A//www.boozallen.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy | Booz Allen Hamilton
 
-PwC* or “we” considers your privacy a high priority. This privacy statement explains what information we gather from you through this web site, its subdomains and mobile versions (the “Web Site”) and how we may use it. By using the Web Site you indicate your acceptance of this Privacy Policy. If you do not agree to this Privacy Policy, do not use or access the Web Site. If you have any questions, please contact our [webmaster](http://www.strategyand.pwc.com/global/home/contact-form?Name=Webmaster).
+## PRIVACY POLICY – EFFECTIVE DATE MARCH 24, 2014
 
-PwC obtains non-individualized, generic information about your visit to our Web Site, including your IP address, browser type and language, access time and referring web site through the use of certain technology. We also obtain non-individualized, generic information about your visit to our Web Site through the use of cookies. Cookies are small pieces of data which are sent by a web site to your web browser and are stored on your computer. The non-individualized, generic information about your visit to our Web Site is aggregated and used by PwC for statistical tracking purposes. We use this information to understand general traffic patterns on our Web Site and to gauge and improve the Web Site’s effectiveness. The information is not used for individual identification and PwC in no way relates your personal information to these traffic pattern statistics. If you are concerned about the use of cookies, you may configure your web browser to either request your specific acceptance of a cookie or disable cookies entirely. You will still be able to fully navigate our Web Site if you choose to refuse or disable cookies. For more about our use of cookies, [click here](http://www.strategyand.pwc.com/global/home/cookie-information).
+Booz Allen Hamilton Inc. (collectively “Booz Allen,” “we,” “us,” or “our”) values your privacy. This privacy policy (“Privacy Policy”) applies to www.boozallen.com (“Site”) and explains how we collect, use, and disclose the information we collect from you via the Site. By using the Site, you agree that you have read, understand, and agree to this Privacy Policy, which incorporates our Terms of Use, available [here](https://web.archive.org/terms-of-use). Please note that certain sections of the Site may have additional or different privacy policies or terms of use applicable to those sections of the Site. Any such additional or different terms will be posted on the applicable section of the Site. If you have any questions regarding this Privacy Policy, please contact us at [webmaster@bah.com](mailto:webmaster@bah.com?subject=Question%20regarding%20Privacy%20Policy).
 
-We may obtain personally identifiable information about you through our Web Site from information that you voluntarily supply. We will use this information for the purpose for which it was supplied to us. We may also combine this personally identifiable information with information obtained from technology in email and newsletters we send to you that determine whether the message in the email or newsletter has been opened and links contained within have been clicked on, to measure interest in our specific offerings and email campaigns, improve our offerings to specific target audiences and tailor our interactions with you.
+## INFORMATION WE COLLECT
 
-We may share the personally identifiable information and aggregated information we collect from the Web Site with third parties in connection with administration of the Web Site or to make transmissions or mailings to you or in response to any legal process, such as a request by law enforcement, a court order or subpoena, or to protect the integrity of the Web Site if we believe that a user has committed unlawful or otherwise harmful acts.
+### _Automatic Collection_
 
-This Web Site may be accessed and viewed and personally identifiable information we collect from the Web Site may be transferred to our affiliates and third parties located throughout the world, including in countries that do not have laws regulating the use and transfer of such information. By using this Web Site you agree to transfer and hosting of your information anywhere in the world.
+When you visit the Site, we may automatically collect information about your visit to our Site, including your IP address, information about the website from which you came to our Site, clickstream data (data regarding the sections of the Site you click on, how long you spend on a page, etc.), information about your general geographic location, and information regarding the web browser you are using to access the Site.
 
-No information should be submitted by any user under 18 years of age. Unless otherwise disclosed during collection, PwC does not knowingly collect any personally identifying information about any user under 18 years of age or provide such information to any third parties or use such information for marketing or promotional purposes.
+### _Information You Provide_
 
-This Web Site may contain links to other sites. Please be aware that PwC is not responsible for the privacy practices of these other sites. We encourage our users to be aware when they leave the Web Site and to read the privacy statements of each and every web site that collects personally identifiable information. This Privacy Policy applies solely to information collected by this Web Site.
+We also collect information that you provide to us, for example, when you create an account to apply for a job on the Site, when you subscribe to receive communications from us, when you submit information in connection with contacting us, or when you otherwise provide or post information via the Site. This information may include your name, email address, address, phone number, and other information.
 
-We reserve the right to change or otherwise update this Privacy Policy at any time. Such changes or updates are effective immediately after we give notice of the change or update, which we may do so by revising the “Last Updated” date of this Privacy Policy or by otherwise posting the changes or updates on the Web Site or by email or conventional mail, and/or by other means that provides reasonable notice. Your use of the Web Site after such notice is posted means that you accept these changes or updates. You agree that PwC shall not be liable to you for any damages that might result from any changes to the Privacy Policy.
+## HOW WE USE AND DISCLOSE THE INFORMATION WE COLLECT
 
-*PwC refers to the PwC network and/or one or more of its member firms, each of which is a separate legal entity. Please see [www.pwc.com/structure](http://www.pwc.com/structure) for further details.
+### _Automatic Collection_
 
-_Last updated April 3, 2014_
+We use the information we automatically collect when you visit our Site to, among other things:
+
+  * better understand how users access our Site
+  * analyze user trends
+  * improve our Site
+  * display employment advertisements that may be of interest to you
+
+
+
+We may use third parties to collect this information on our behalf and provide us with analytics related to this information, as set forth above.  These third parties are prohibited from using this information other than for the purpose of providing us with the analytical information discussed above.    
+
+### _Information You Provide_
+
+If you provide information to us, we will only use and disclose that information to fulfill the purpose for which it was supplied to us. For example,
+
+  * when you create an account to apply for a job on the Site, we use the information you provide for processioning your application and to contact you about jobs you have applied for (for more information regarding the job application process please see our [Terms of Use](https://web.archive.org/terms-of-use));
+  * when you provide us with information in connection with subscribing to communications from us, we use this information to alert you to company news and other company information; and
+  * when you provide us information in connection with contacting us, we use this information to reply to your inquiry.
+
+
+
+We occasionally hire third parties to provide limited services on our behalf with respect to the information you provide to us, including, for example, processing job applications. We will only provide those third parties the information they need to deliver the service on our behalf, and those third parties are prohibited from using that information for any other purpose.
+
+### _Other Disclosures and Do-Not-Track_
+
+We may also need to use or disclose the information we collect when required by law or to enforce and protect our rights or property, this Privacy Policy, or the Terms of Use. We do not sell any information you provide to us to third parties.
+
+Given the nature or our data collection, use, and disclosure activities discussed above and below, we do not respond to do-not-track requests.
+
+## COOKIES AND OTHER TRACKING MECHANISMS
+
+Like most websites, we may use cookies, web beacons, and other technologies to track user activity and collect Site data.
+
+Cookies are small pieces of data which are sent by a website to your web browser and are stored on your computer. We use cookies for statistical tracking purposes regarding your activities on the Site and to improve our Site. Your browser can be configured to accept cookies, request your specific acceptance of a cookie, or disable cookies entirely. You will still be able to fully navigate our Site if you choose to refuse or disable cookies.
+
+Web beacons are object images that are embedded in a web site or email. We use web beacons to optimize your experience while on the Site.
+
+## USER CONTENT
+
+We may allow users to post information on our Site, such as comments to blogs and other items posted to our Site. Please see our [Terms of Use](https://web.archive.org/terms-of-use) for more detail. Any information that you post to our Site becomes publicly available and may be viewable by any visitors to our Site. By posting content to our Site, you agree that such posting is subject to our [Terms of Use](https://web.archive.org/terms-of-use).
+
+## THIRD-PARTY LINKING
+
+Our Site may contain links to other websites, including various social media websites. We do not regularly review materials on websites linked to from this Site and do not necessarily endorse the materials appearing on any websites linked to from this Site. We assume no responsibility for the content or the policies and practices of such other websites. We encourage you to be aware when you leave our Site and to read the privacy policies of any other website that you visit.
+
+## EMAIL COMMUNICATIONS
+
+If you subscribe to receive email communications from us, we may send you email communications to alert you to company news and provide you with other company information. In addition, if you sign up to receive information regarding job openings that may be of interest to you, we may send you email communications based on the preferences you specified in connection with signing-up for such communications. We may also contact you regarding any jobs for which you applied, even if you did not sign-up to receive ongoing communications from us. If at any time you would like to stop receiving these email communications, you can follow the opt-out procedures described in such email.
+
+## SECURITY
+
+We follow generally accepted industry standards to protect the information we collect. That said, no data security measures are 100% secure. Therefore, while we implement reasonable physical, technical, and administrative measures to protect the information we collect, we cannot guarantee its absolute security.
+
+## CHANGES TO THIS PRIVACY POLICY
+
+We have the right to change this Privacy Policy without prior notification to you. If we make a change to this Privacy Policy, we will change the effective date above. We suggest you review this Privacy Policy from time to time. If we materially change our privacy practices with respect to the information we have collected from you, we will attempt to provide you with notice of such changes via email or by posting a notice on our Site.
+
+## CHILDREN’S PRIVACY
+
+The Site is not directed toward children under the age of 13, and children under the age of 13 are not permitted to submit any information to us via the Site.
+
+## CHOICE OF LAW
+
+These Terms of Use shall be governed by the laws of the Commonwealth of Virginia without regard to its conflicts of law rules.
+
+## CONTACT
+
+If you have any questions regarding this Privacy Policy, please contact us at [webmaster@bah.com](mailto:webmaster@bah.com?subject=Question%20regarding%20Privacy%20Policy).
