@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the traffichoopla.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611125747id_/http%3A//traffichoopla.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traffichoopla.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915065328id_/http%3A//traffichoopla.com/policy.htm) for the most accurate reproduction.*
 
 # 
 
 | 
 
-**TrafficHoopla Privacy Policy**
+**ProfitHoopla Privacy Policy**
 
-This privacy policy applies to the website of TrafficHoopla.com
+This privacy policy applies to the website of ProfitHoopla.com
 
 | To contact our organization, use the following information.  
 ---  
-  | TrafficHoopla.com/support  
-TrafficHoopla.com | Carrmedia LLC  
+  | ProfitHoopla.com/support  
+ProfitHoopla.com | Carrmedia LLC  
 11625 Custer Road #110-296  
 Frisco, TX USA 75035  
   
@@ -47,4 +47,4 @@ If you have a question about our privacy policy,
 or you would like to dispute any information collected,  
 contact us using the information contained in this policy.
 
-[Return to TrafficHoopla Main page](http://traffichoopla.com/)
+[Return to ProfitHoopla Main page](http://profithoopla.com/)
