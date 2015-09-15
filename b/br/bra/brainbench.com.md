@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainbench.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055920id_/http%3A//www.brainbench.com/xml/bb/common/consumer/privacy.xml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainbench.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915022446id_/https%3A//www.brainbench.com/xml/bb/common/consumer/privacy.xml) for the most accurate reproduction.*
 
 # Brainbench - The Measure of Achievement
 
