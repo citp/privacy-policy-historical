@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlgames.la privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627014337id_/http%3A//girlgames.la/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlgames.la privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915085525id_/http%3A//girlgames.la/terms) for the most accurate reproduction.*
 
 # Game Sets - GirlGames.La
 
