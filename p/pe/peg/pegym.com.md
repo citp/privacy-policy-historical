@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pegym.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315015739id_/https%3A//www.pegym.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pegym.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915142148id_/https%3A//www.pegym.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PEGym
 
