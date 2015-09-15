@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the desihoes.com privacy policy that was archived on 2014-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140822170120id_/http%3A//www.desihoes.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desihoes.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915061739id_/http%3A//www.desihoes.com/static/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Indian Porn Videos
+# Privacy Policy - Desi Porn Videos
+
+## Privacy Policy
 
 DesiHoes respects your privacy. This policy explains how DesiHoes will treat information that it may obtain from you as you make use of the DesiHoes.com site. The owners and operators of DesiHoes.com ("DesiHoes") provide the DesiHoes.com site ("Site") subject to the terms of this Privacy Policy. By using the Site, you accept and agree to this Privacy Policy. The Privacy Policy may change from time to time, without notice other than appearing on the Site. The Revision Date below will show you when the Privacy Policy was last revised.
 
@@ -51,3 +53,12 @@ Some pages of the Site may use security measures to protect against the loss, mi
 If you have any questions, concerns or complaints about DesiHoes's Privacy Policy and use of personal information, please use [feedback form](http://www.desihoes.com/feedback). 
 
 This Privacy Policy was last revised on 26th of july 2009.
+
+Indian Porn Videos Desi Choot Fuck http://www.desihoes.com/media/videos/tmb/234/15.jpg Aug 15, 2015
+
+## Best of South Asian Amateur MMS Scandal Porn Videos
+
+Indian Sex Videos Has the most latest Indian Sex, Desi Porn, Indian Porn, Desi Choot, Indian Choot Videos filmed by Indian Porn VIdeos Videos. Desi Sex Tube with the best Arab Sex Videos can be found at [www.desihoes.com](http://www.desihoes.com/) and [Desi Porn](http://www.desihoes.com/videos) Videos is a huge collection of Desi Porn Videos You will enjoy your visit to Indian Arab Asian Sex Tube. Best of Muslim Village Porn at Arab Desi Sex Tube. Desi Hoes Indian Sex Videos Porn Choot Bhosri Chudai
+
+###  Free [Indian adult videos](http://www.desihoes.com/videos) site with [Desi sex Videos](http://www.desihoes.com/albums), Asian, Mallu, Tamil, _Indian Fuck_ , Telugu, Punjabi sex, Pakistani, bangla, nepal, Indian Choot, Sri Lanka,Arab, Desi Fuck and look alike porn. At [Indian Sex Videos](http://www.desihoes.com/)   
+
