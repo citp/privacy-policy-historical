@@ -1,97 +1,148 @@
-> *The following text is extracted and transformed from the xtlinks.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225164942id_/http%3A//www.xtlinks.com/p/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtlinks.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915021118id_/http%3A//www.xtlinks.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | XtLinks.com
+# Privacy Policy
 
-**What information do we collect?**
+Xtlinks.com 
 
-  * We collect information from you when you register on our site.
-  * When registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
+Xtlinks.com (hereinafter referred to as "Company" "we," "us," or "our") created this privacy policy ("Privacy Policy") to explain how we use personal information, as defined below, and to give you assurance of our commitment to fair information practices and to the protection of your privacy as you visit and use the Xtlinks.com website (the "Website"). 
 
+We understand that you value your privacy and the right to control how your personal information is collected and used. Our data collection and retention practices are designed to provide transparency, accountability and choice regarding the management and use of your personal information. 
 
+We also provide you with contact information should you wish to remove your personal information from our databases. 
 
-**What do we use your information for?**
+The Website is intended for users who are located in the United States of America and the Privacy Policy shall be interpreted under the laws of the United States. By registering on the Website, you explicitly accept, without limitation or qualification, the collection, use, and transfer of your information in the manner described in this Privacy Policy. Please read this Privacy Policy carefully as it affects your rights and liabilities under the law. 
 
-Any of the information we collect from you may be used in one of the following ways:
+If you do not agree to our practices and our [Terms and Conditions of Use](https://xtlinks.com/terms_and_conditions.html), please do not interact in any manner whatsoever with Xtlinks.com or register any personally identifiable information on this Website. Please contact us if you have any questions or comments about our privacy practices or this Privacy Policy. You can reach us online by clicking [here](https://xtlinks.com/contact_us.html). You can reach us via postal mail at the following address: 
 
-  * To personalize your experience  
-(your information helps us to better respond to your individual needs)
+Xtlinks.com   
+10063 Riverside Dr., #2306   
+Toluca Lake   
+CA 91610 
 
+**THIS WEBSITE IS NOT INTENDED FOR ANYONE UNDER THE AGE OF EIGHTEEN (18) OR PERSONS RESIDING OUTSIDE OF THE UNITED STATES. BY USING THE WEBSITE, YOU EXPRESSLY REPRESENT AND WARRANT THAT YOU HAVE READ, UNDERSTOOD AND AGREE TO THE TERMS OF THIS PRIVACY POLICY AND COMPANY’S TERMS OF USE. IF YOU DO NOT UNDERSTAND OR DO NOT AGREE TO BE BOUND BY THIS PRIVACY POLICY, YOU MUST IMMEDIATELY LEAVE THE WEBSITE.**
 
-  * To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+**1\. Types of Information We Collect**
 
+Company collects information about you by and through your access to and use of this Website and through your use of our matching services. The information that we collect during registration includes personally identifiable information ("PII"). PII is unique data of an individual used for identification and communication purposes. Any use of our services is entirely voluntary and you are not required to provide PII unless you choose to use our services. However, you will not be able to access or use our services where PII is required. PII that may be collected includes information such as your first name, last name, date of birth, telephone number, mailing and home address, zip code, email address, social security number; bank account information, financial information, employment information, and driver’s license number (collectively referred to herein as "PII"). 
 
-  * To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+We may also collect certain non-personally identifiable information ("NPII") about you when you visit many of the pages of this Website. NPII is data used in the aggregate to analyze trends, administer the Website, track movement and understand consumer behavior generally. The information collected by virtue of your access to and use of this Website may be collected irrespective of whether you submit information to register for our services. This NPII includes, without limitation, the type of browser that you use, your Internet Protocol (“IP”) address, the type of operating system that you use, referral/exit pages, date/time stamp and/or the domain name of your Internet service provider. An IP address is a unique identifier that a device uses to identify and communicate with on the Internet. 
 
+We may share NPII with third parties, in our discretion. 
 
-  * To send periodic emails
+**2\. How Your Personally Identifiable Information is Used and Shared**
 
+We ask you for PII when you interact with the Website and/or when you dial the number(s) provided on our website. We value your privacy and have taken the necessary precautions to be in compliance with relevant legislation, including, without limitation, the California Online Privacy Protection Act. 
 
+Broadly speaking, the information collected by and through your access to and use of this Website will be used to assist you with your inquiry, to fulfill your request and for solicitation purposes with respect to third party products, services, offers or promotions. Such collected information may also be used for other purposes for which you have given your consent, to prevent fraud, or as may otherwise be permitted by applicable law. To those ends, you expressly authorize Company to share such collected information as set forth herein. 
 
-The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
+We use the PII collected from you to facilitate your request for access to the third party providers of the products and/or services you are interested in. This may include passing your PII on to a third party lender with whom we have a contract to provide such products and/or services. 
 
-**How do we protect your information?**
+Company may share your PII with third parties who help us in the delivery the services you have requested and to companies/individuals we employ to perform technical functions on our behalf. These companies and individuals may not share that information with any other third party or use that data for any other purpose. We may also use your PII to resolve disputes, troubleshoot technical problems, enforce our agreements with you and to enable Company and/or third parties to personalize your Internet experience. We may also share the information we collect from you with consumer reporting and related agencies. 
 
-  * We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
+We may disclose any/all information if legally required to do so, or at our discretion pursuant to a request from a governmental entity, or if we believe in good faith that such action is necessary to: (a) conform to legal requirements or comply with legal process; (b) protect our rights or property or our affiliated companies; (c) prevent a crime or protect national security; or (d) protect the personal safety of users or the public. 
 
+We may also disclose and transfer any/all information to a third party who acquires any or all of our business, whether such acquisition is by way of merger, consolidation or purchase of all or a substantial portion of our assets. In addition, in the event we become the subject of an insolvency proceeding, whether voluntary or involuntary, we or our liquidator, administrator, receiver or administrative receiver may sell, license or otherwise dispose of such information in a transaction approved by the court. You may be notified of the sale of all or a substantial portion of our business to a third party by email or through a prominent notice posted on the Website. In each of these situations, the recipients of your data may potentially be located in any country in the world. 
 
+**_IVR_**
 
-**Do we use cookies?**
+We also provide you with the option of calling the numbers provided on our website(s) to get connected with participating third party lenders and/or providers. When you dial the phone number(s) provided, you are connected with an interactive voice system and are asked a series of questions that include your PII. These questions allow us to determine what services and/or products you might be interested in and connect you with a participating third party lender or provider. You can terminate the call at any time. Please be advised that if a call is terminated before we are able to gather all the needed information, you will not be matched/connected with a third party lender or provider. Calls may be recorded for quality assurance purposes. Please check with your phone carrier as standard phone rates and fees may apply. 
 
-  * Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+**_First and Third Party Marketing_**
 
+Company expressly reserves the right to sell or transfer your PII to independent third parties, including, without limitation, third party lenders, advertisers in Company’s network, independent companies or organizations with whom we have a marketing relationship, information re-sellers and third party marketers, some of who may sell information to advertisers and retailers that may present you offers for goods or services (collectively, “Third Party Marketers”). Your information may also be sold by and amongst Third Party Marketers. The foregoing may involve the use of technology information. Separate lists may be maintained for different purposes. If you wish to end your inclusion in a particular list, you need only to follow the instructions at the end of each communication to unsubscribe from the particular list. 
 
-  * We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+Company and/or Third Party Marketers may target advertising to you using direct mail, email, telemarketing calls (including SMS text messages), and/or targeted online banner advertising,. Company and/or Third-Party Marketers may match your PII to make and improve profiles of you, to track your online browsing habits over time and across different websites on the Internet, to show you targeted advertising for products and/or services, and/or to determine which areas of the Internet are most frequently visited. 
 
+Although our contractual arrangement may limit how such third parties can use your PII, we do not control the privacy practices of these third parties. Be aware that the Third Party Marketers may retain or use your PII whether or not you use their products and/or services and you should contact these third parties directly concerning their privacy and information sharing practices which may differ from ours. If you have any questions or wish to remove your information from a third party’s database, you will need to contact that third party, directly. 
 
-  * This website uses Google Analytics, a web analytics service provided by Google, Inc. (‘Google’). Google Analytics uses ‘cookies’, which are text files placed on your computer, to help the web team analyse how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
+By visiting and/or supplying your PII at this Website, you also agree to allow us to provide aggregated anonymous data about you to third parties so that they can understand the kinds of visitors to the Website and in order to offer you products and services. This includes demographic information and behavioral information. 
 
+For more on how your PII is used by Company and Third Party Marketers, please see Sections 3 and 4, below. 
 
-  * Google, as a third-party vendor, uses cookies to serve ads on your site.  
-Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
+**YOU MAY OPT-OUT OF RECEIVING ANY COMMUNICATIONS FROM US BY CHOOSING NOT TO SUBMIT YOUR PERSONAL INFORMATION. IF YOU HAVE ALREADY SUBMITTED YOUR PERSONAL INFORMATION TO US AND WISH TO OPT-OUT AND HAVE IT REMOVED FROM OUR DATABASE, YOU MAY DO SO BY SENDING US A REQUEST** [**HERE**](https://xtlinks.com/contact_us.html) **. IF YOU REMOVE YOUR INFORMATION FROM OUR DATABASE IT WILL NO LONGER BE USED FOR SECONDARY PURPOSES, DISCLOSED TO THIRD PARTY MARKETERS OR USED BY US TO SEND PROMOTIONAL COMMUNICATIONS. COMPANY IS NOT RESPONSIBLE FOR THIRD PARTY PROMOTIONAL COMMUNICATIONS SENT TO YOU.**
 
+**_Credit Implications_**
 
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
+Our participating third party lenders may verify, without limitation, your social security number and driver's license number, or any other qualifying identification and review your information against national databases to determine credit worthiness, standing and/or capacity. Please note that multiple inquiries on the three national databases (Equifax, Transunion and Experian) may result in a lowered credit score. By submitting your information you agree to allow third party providers to verify your information and check your credit as described in their policies and terms. 
 
+**3\. Email and Telemarketing**
 
+By registering on this Website and as set forth in the preceding section, you expressly acknowledge that Company may provide your PII to Third Party Marketers, both of which may target advertising to you using, without limitation, email and telemarketing calls. 
 
-**Cookies do not contain any personal information about you and cannot be used to identify an individual user.**  
-**Do we disclose any information to outside parties?**
+If you provide your express consent to receive telemarketing calls, Company and Third Party Marketers may use your PII (including any information which may reasonably be derived therefrom) to advertise, directly or indirectly, using the telephone number provided, including your mobile telephone number, in order to assist you with your mortgage loan inquiry, regarding the specific products and/or services for which you have directly expressed an interest, and/or regarding other products and/or services which you may be interested in (notwithstanding that your number(s) may be listed on a corporate, state, or federal Do-Not-Contact registry, suppression list, or the like). 
 
-  * We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+By registering on and using our Website, you agree that such registration and request constitutes a purchase, an inquiry and/or an application for purposes of the Amended Telemarketing Sales Rule, 16 CFR §310 et seq. (the "ATSR"). Notwithstanding that your telephone number may be listed on the Federal Trade Commission's Do-Not-Call List, you have authorized us to contact you via telemarketing in accordance with the ATSR. Moreover, by registering with, or requesting information from, a Third Party Marketer at or through our Website or other advertisement media made available by us, you agree that such action shall constitute a purchase, an inquiry and/or an application with the respective Third Party Marketer for purposes of the ATSR and you may be contacted via telemarketing by such Third Party Marketer in accordance with the ATSR. 
 
+For any/all telemarketing campaigns, you expressly agree that you are solely responsible for and authorized to incur any such charges, that you are eighteen (18) years of age or older and that you are authorized to use the mobile device. Your wireless carrier and other service providers may also collect data about your wireless device usage, and their practices are governed by their own policies. 
 
+**4\. Company and Third-Party Cookies, Web Beacons, Pixel Tags, Log Files and Online Behavioral Technologies**
 
-**Third party links**
+The Website and email messages may contain first-party (Company-related) and Third Party Marketer (e.g., advertisers and advertisements) cookies, web beacons, pixel tags, browser analysis tools and web server logs that enable Company and/or Third Party Marketers to track your online behavior, collect information regarding your operating system and browser type, record what webpage or email you viewed, track the IP address of the device you use to interact with the applicable online service, record when you open or click on a particular online advertisement link or webpage, and additionally for other information gathering purposes such as the language your system uses and the country and time zone of your device. 
 
-  * Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+A cookie is a small file uniquely assigned to you by a webpage server when you visit a webpage or click on a link and can assist in associating your information to a unique profile. Cookies are stored in web server logs and also in web cookies kept on your computer, which are then transmitted back to us and/or Third Party Marketers by your computer. They store information about your account, preferences, your use of the Website and your online browsing habits. They allow us and/or Third Party Marketers to recognize you when you return, and track and target your interests in order to provide a customized experience. They also assist with the provision of a customized browsing experience and with the detection of certain kinds of fraud. 
 
+Some cookies are temporary, whereas others may be configured to last longer. "Session" cookies are temporary cookies used for various reasons, such as to manage page views. Your browser usually erases session cookies once you exit your browser. "Persistent" cookies are more permanent cookies that are stored on your computer even beyond when you exit your browser. Your browser preferences can be modified to accept or reject all cookies, or request a notification when a cookie is set. 
 
+Pixel tags and web beacons are tiny graphic images placed on website pages or in emails that allow Company and/or Third-Party Marketers to determine whether you have performed specific actions. When you access these pages or open email messages, the pixel tags and web beacons generate a notice of that action. These tools permit the measurement of responses to communications and improve related promotions. You may read more about web beacons at www.webopedia.com/TERM/W/Web_beacon.html. 
 
-**California Online Privacy Protection Act Compliance**
+Log files include IP addresses, browser type, Internet service provider, referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer a website, track user's movement in the aggregate, and gather broad demographic information for aggregate use. 
 
-  * Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+As set forth herein, Company and/or Third Party Marketers collect many different types of information from cookies and other technologies, including, without limitation, what website you were visiting before you came to the Website, the website you visit after you leave the Website, and other activities or yours over time and across third-party websites and online services. 
 
+The use of cookies by third parties on the Website and in email messages is subject to the privacy policies of those Third Party Marketers and is not covered by this Privacy Policy. 
 
-  * As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the ‘Edit Account’ page.
+**5\. Managing Your Privacy**
 
+We believe that you benefit from a more personalized experience when we know more about you and what you like. However, you can limit the information you provide to us and thereby limit the communications that we and/or Third Party Marketers send to you. 
 
+To prevent first and third party online tracking from cookies, web beacons and other technologies on a webpage, or within an email message, for example, banner advertisements, do not visit the Website, utilize a changing IP address and do not click on or interact with any advertisements or links. 
 
-**Childrens Online Privacy Protection Act Compliance**
+Visit www.cookiecentral.com and http://www.aboutads.info to read more about cookies, including, without limitation, how you can modify your browser preferences to accept or reject all cookies, or request a notification when a cookie is sent (for example, from within Internet Explorer, Firefox, Safari, Google Chrome). As each browser is different, please check the help section of your browser for instructions on how to remove cookies and learn about other privacy and security settings that may be available. 
 
-  * We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+**DO NOT TRACK DISCLOSURE:** Because an industry-standard Do-Not-Track protocol has not yet been established, Company’s information collection practices will continue to operate as described in this Privacy Policy regardless of any “Do Not Track” signals that may be sent by certain browsers or selected by you. However, you may be able to opt-out of being targeted by certain Third Party Marketers online at www.networkadvertising.org/consumer/opt_out.asp. If you wish to opt-out of receiving communications from Company and/or Third Party Marketers, you can follow the opt-out instructions in the respective communications that are sent to you. 
 
+To prevent first and third party online tracking from cookies, web beacons and other technologies within an email message, unsubscribe from the email list using the unsubscribe link provided. 
 
+**6\. Security of Your Personally Identifiable Information**
 
-**Your Consent**
+To prevent unauthorized access, maintain data accuracy and ensure the correct use of information we gather online, Company stores your PII in a database on secure systems. We have put in place appropriate physical, electronic and managerial security procedures to protect against the loss, misuse and alteration of the information under our control. 
 
-  * By using our site, you consent to our [online privacy policy](http://www.freeprivacypolicy.com/).
+Access to this information is strictly limited, and not accessible to the public. All of our visitors’ PII is restricted in our offices. Only employees who need the information to perform a specific job are granted access to PII. Our employees are dedicated to ensuring the security and privacy of all user information, to the extent reasonably possible. Employees who do not adhere to our firm policies are subject to disciplinary action. 
 
+But notwithstanding such measures, Company cannot guarantee that its security measures will prevent Company computers from being illegally accessed, and the data on them stolen or altered, and Company assumes no responsibility for such actions. You may request that your information be modified or deleted as detailed below. 
 
+In compliance with applicable federal and state laws, we shall notify you and any applicable regulatory agencies in the event that we learn of an information security breach with respect to your PII. Third Party Marketers are contractually obligated to also protect your PII. 
 
-**Changes to our Privacy Policy**
+**7\. No Information Collected From Children**
 
-  * If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below.
+Company encourages parents and guardians to spend time online with their children and to participate and monitor the interactive activities of their children. We will never knowingly collect any PII about children under the age of eighteen (18) years old. If we obtain actual knowledge that we have collected PII about a child under the age of eighteen (18) years old, that information will be immediately deleted from our database. 
 
+Because we do not collect such information, we have no such information to use or to disclose to third parties. Company has designed this Privacy Policy in order to comply with the Children’s Privacy Protection Act ("COPPA"). 
 
+**8\. Consent to Electronic Disclosures**
+
+By submitting your information via the Website, you agree to receive certain notifications, disclosures and/or documents electronically. Your consent to the foregoing applies to the information you are providing on the Website and any other communications Company or any Third Party Marketers may provide to you. By submitting your information you agree to receive all such notifications, disclosures and/or documents from Company or any Third Party Marketers in electronic form or online in accordance with this Privacy Policy. You may withdraw your consent prior to submitting your information by exiting the website or by closing your browser. However, you will not be able to submit your information if you withdraw your consent by exiting the website or closing your browser. Following the submission of your information, you may be able to withdraw your consent to future electronic disclosures from Third Party Marketers by contacting them directly. However, due to rules regarding the timing of delivery of disclosures that may need to be made to you, you acknowledge that an opt-out notice may not be received and acted upon by such Third Party Marketers prior to such disclosures being delivered to you electronically. As set forth elsewhere herein, Company does not process opt-out communications for Third-Party Marketers, and each Third Party Marketer establishes its own rules regarding opting out of future electronic communications and disclosures. All notifications, disclosures and/or documents provided in electronic or paper format from Company or any Third Party Marketer to you will be considered "in writing," and you should print a copy for your records. You may obtain any notifications, disclosures and/or documents in paper form without charge from Company by printing them yourself from the Website or the appropriate Third Party Marketer when available. To access, view and retain the notifications, disclosures, and/or documents available to you in electronic form, you must have Internet access, sufficient electronic storage capacity, an email account with an Internet service provider email software. You agree and intend the federal Electronic Signatures in Global and National Commerce Act to apply to (i) your consent to receive notifications, disclosures and/or documents in electronic form; (ii) the information you provide, and (iii) Company’s and/or any Third Party Marketers’ ability to conduct business with you by electronic means. By completing and submitting your information, you agree to provide Company with an accurate and complete email address and other required information requested on the Website so that electronic notifications, documents and/or disclosures can be sent to you. By completing and submitting your information on the Website, you also acknowledge that you have read and reviewed the terms contained in this Electronic Disclosure section, and agree to the terms herein. Company and any Third Party Marketer reserve the right, in our sole discretion, to discontinue electronic provision of notifications and/or documents. You will be provided with notice of any such termination or change as required by law. To facilitate electronic commerce, to reduce the expense of records storage, and to obtain the benefits of faster access to records, you acknowledge and agree that all records may be stored electronically, and that neither Company nor any Third Party Marketers will retain and have no obligation to retain any original or electronic documents for any period of time beyond the regulatory requirements. This applies to all notifications, disclosures and/or documentation. You further acknowledge and understand that all original and electronic notification, disclosures and/or documentation will be routinely destroyed, but not before the period of time designated by regulatory requirements. Records may be stored electronically via imaging, scanning, filming or other technology used for the storage of documentation via internal processes or third party processors that Company or any Third Party Marketers may approve for these services. You agree that such records shall for all purposes be recognized and admissible in evidence or otherwise to prove the agreements, rights and obligations of the parties pursuant to any such records. Company will retain your information for as long as needed to provide you services. 
+
+**9\. Links to Other Websites and Third Party Privacy Practices**
+
+Company may provide links to other websites for your convenience and information, and encourages third parties to adopt and post privacy policies that govern the use of your PII. Such third party use is not subject to our control and we are not responsible for the content of linked websites, or any use of such websites. Whether linked or not, you expressly acknowledge that other websites and/or websites of Third Party Marketers have their own privacy statements and personal information collection, use, and disclosure practices. We encourage you to familiarize yourself with the privacy statements provided by any/all third party websites prior to providing them with information or taking advantage of an offer or promotion. 
+
+**10\. Special Notification for California Residents**
+
+As a business subject to California Civil Code section 1798.83, Company must disclose, upon request, the identity of third parties to whom Company has disclosed your PII within the previous calendar year, along with the categories of personal information disclosed, for the third parties' direct marketing purposes. If you are a California resident and would like to make such a request, you may communicate your desire to do by contacting Company directly. We reserve our right not to respond to requests submitted other than to the contact information specified herein. 
+
+**11\. Changes to This Privacy Policy**
+
+Company reserves the right to change or remove portions of our Privacy Policy at any time without prior notification. If Company changes this Privacy Policy updates will be posted herein and Company will revise the “Last Updated” date at the bottom of this Privacy Policy. Information will be used in accordance with the privacy policy under which the information was collected. Users will have a choice as to whether or not we use their information in this different manner. 
+
+Please check the Website frequently to apprise yourself of any changes that may affect you. The posting of any changes will be the only notice that you will receive regarding any such amendments or changes. Your use of the Website following these changes means that you accepted the revised Privacy Policy. 
+
+**12\. Privacy Inquiries or Complaints**
+
+Company strives to keep all PII accurate and complete. You are always fully in control of the information that we maintain to service you. You can change your PII at any time and as often as necessary. You can also request that PII be deleted. Information may be withheld or exempted from deletion if this is required by law or is part of a fraud investigation, or as otherwise as described above. 
+
+If you have any inquiries regarding our privacy practices, believe that we have not complied with this Privacy Policy, or would like to access and modify your PII, please contact us directly. 
+
+Pursuant to California Civil Code Section 1789.3, you are advised that the provider of the Website and related service can be contacted via mail at 10063 Riverside Dr., #2306, Toluca Lake, CA 91610, or via e-mail at info@Xtlinks.com. No direct charges are imposed by the Website and related service. If you have a complaint with the services provided on the Website or wish to request further information, please contact us at the address set forth herein. If the issue is not resolved to your satisfaction, you may contact the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs at 1625 North Market Blvd., Suite N 112, Sacramento, California 95834, or by telephone at 1-800-952-5210. 
+
+**Effective Date: August 15, 2015**
