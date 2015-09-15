@@ -1,322 +1,83 @@
-> *The following text is extracted and transformed from the powerbar.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607151131id_/http%3A//www.powerbar.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerbar.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915233635id_/http%3A//postholdings.com/privacy-policy) for the most accurate reproduction.*
 
-# PowerBar.Com | Privacy Policy
+# Privacy Policy | Post Holdings
 
-Effective: 12/1/2014  
-Last Updated On: 12/1/2014
+**Effective Date: September 30, 2013**  
+Post Holdings, Inc. is concerned about online privacy issues. We want you to be familiar with how we collect, use and disclose any personal information that individually identifies you (e.g., your name, address, phone number, email address, etc.). This privacy policy explains our online information practices and the choices you, as a visitor to this site, can make about the collection and use of your information..
 
-| 
+## What personal information do we collect?
 
-[](http://privacy.truste.com/privacy-seal/Nestle-USA,-Inc-/validation?rid=a0441b14-29fd-490b-99a1-3c9b1bf5572e "TRUSTe online privacy certification")  
-  
----|---  
-  
-### POWERBAR
+We collect personally identifiable information from you (such as your name, address, phone number, email address, etc.) when you voluntarily provide it to us. We may use the information to communicate with you regarding our products, services, and promotions, to provide you with other information that you request, and/or to improve our product and service offerings. We do not require you to provide personally identifiable information to play our games.
 
-This Privacy Policy (or “Policy”) tells you how PowerBar, Inc. (“PowerBar” “we,” or “our”) collects, uses, shares, and protects information about our consumers (“you”). It also tells you how you can access and update your information and make certain choices about how your information is used. This Policy covers both our online and offline data collection activities, including information that we may collect through our various websites and applications and offline programs and events. By using PowerBar’s website or application or by otherwise giving us your information, you agree to this Privacy Policy. If you do not agree to this Policy, you must not use our website or application or give us any of your information.
+If you contact one of our Consumer Affairs Representatives through our site, we may ask you for personal information such as your name, address, phone number, or email address so that we can respond to your questions or comments.
 
-If we change the way we handle your information, we will update this Privacy Policy. For material changes (substantially new practices you wouldn’t expect from us or that we didn’t previously tell you about), we will provide a prominent notice at the site or email you at the address you have provided prior to the change becoming effective. We reserve the right to make changes to our practices and this Policy at any time, provided that we follow the procedures above.
+In addition, when you use our website, we may ask you to provide personal information if you:
 
-This Privacy Policy provides important information in the following eight areas:
+  * register for a sweepstakes, contest, or other promotion;
+  * register as a user of our site;
+  * register to receive coupons or recipes through our site;
+  * join a club through our site;
+  * participate in a recipe review, survey, a consumer research panel, or similar type of activity;
+  * ask to receive online information such as recipes or material from us;
+  * participate in our tell-a-friend option; or
+  * otherwise participate in features of our website that ask for personal information.
 
-  1. What does this Privacy Policy apply to? 
-  2. What information do we collect?
-  3. How do we use your information?
-  4. With whom do we share your information?
-  5. How can you opt out and review your information?
-  6. How do we protect your information?
-  7. Other important information
-  8. Contact information
 
 
+If you purchase or otherwise request a product, publication or promotional offering from us or take advantage of a rebate or similar offer, you may be required to provide your contact and/or payment information (such as a credit card number) in order for us to process your request.
 
-### 
+Your participation in any of these activities is voluntary. We may use the information you provide to respond to your questions or comments, to administer our promotions and sites, to fulfill your request, subscription, or order, or to otherwise provide or improve our products and services. We will not send you any online newsletter or similar email communication unless you expressly consent to receive such a communication from us. We may, however, send you notices of changes to our privacy policy. And if you do choose to receive any such email communication from us, you will always have the opportunity to unsubscribe from receiving the email at any time.
 
-This Privacy Policy applies to information that we, PowerBar, collect from or about our consumers through the methods described below. This Policy does NOT apply to information collected by our parent company, affiliate companies, or joint venture partners.
+## How do we gather data by automatic means?
 
-Please note we may combine information that we collect via one method (e.g., the PowerBar website) with information that we collect via another method (e.g., a PowerBar offline event). We do this to get a more complete view of our consumers, which, in turn, allows us to serve you better and with more customization.
+Sometimes we use cookie technology, web beacons, and similar devices on our site to enhance functionality and navigation for our visitors. Information tracked through these mechanisms includes but is not limited to (1) your IP address, (2) the type of web browser and operating system being used, (3) the pages of the site you visit, and (4) other websites you visited before visiting our site.
 
-__PowerBar website__
+If you wish to disable cookies, refer to your browser help menu to learn how to disable cookies. Please note that if you disable cookies, you may be unable to access some customized features on our site. Cookies do not collect or contain your name or email address.
 
-This refers to the consumer-directed website operated by PowerBar, Inc., including the site that we operate under our own domain/URL and sites that we run on third party social networks such as Facebook or Twitter. This Policy will only apply to the PowerBar site if it provides a direct link to this page.
+Internet tags, graphic tags and similar web beacon type functions allow us to count the number of users who have visited a particular web page or to access certain cookies. We may use web beacons on our websites to count users and to recognize users by accessing our cookies. Being able to access our cookies allows us to personalize our website and improve your experience at our website. We may also include web beacons in HTML-formatted email messages that we send to determine which email messages were opened. Like cookies, web beacons do not collect or contain your name or your email address.
 
-Back to top
+## How do we share personal information?
 
-__PowerBar mobile sites/apps__
+Except as described below, we do not sell, transfer or otherwise disclose to third parties the personally identifiable information we collect on this Web site.
 
-This refers to any consumer-directed mobile sites or applications operated by PowerBar, including our WAP sites and smartphone apps (e.g., iPhone apps). This Policy will only apply to the PowerBar mobile site/app if it provides a direct link to this page.
+At times we provide your personal information to joint promotion partners and third parties who provide services on our behalf. These entities may use the information solely in conjunction with the specific promotion services they provide for us (e.g., fulfillment of an order, responding to your question or comment, providing a sweepstakes, prize, deployment of a consumer survey, investigation of a complaint, etc.).
 
-Back to top
+We reserve the right to transfer any information we have about you in the event that we sell or transfer all or a portion of our business or assets to a third party. We also reserve the right to share information within the family of companies owned by Post Holdings, Inc.
 
-__PowerBar text messaging programs__
+We reserve the right to disclose any personal information as needed if such information is requested by law enforcement agencies or if we are requested to do so by law, regulation, subpoena, court order or government entity. We also may disclose personal information to third parties if we have reason to believe that disclosing such information is necessary to conduct investigations of possible breaches of law, to cooperate in any legal investigation, or to identify, contact, or bring legal action against someone who may be violating the terms of use of our site. Further, we reserve the right to use your personal information to protect our rights, privacy, safety or property.
 
-This refers to any consumer-directed text messaging programs operated by PowerBar. These programs might be advertised on one of our websites or applications or in a print ad. **Policy will only apply to the PowerBar text messaging program if the program indicates that this Policy applies.**
+## Links to Other Websites
 
-Back to top
+Our site may contain links to the websites of our subsidiaries and affiliates, and to websites that are owned and operated by third parties. These other websites may have their own privacy policies and would not be governed by this privacy policy. We are not responsible for the privacy practices or the content of websites owned and operated by any such third parties. Other websites may collect and treat information collected differently, so we encourage you to carefully read and review the privacy policy for each website you visit.
 
-__Offline registration cards__
+## Tell-a-Friend
 
-This refers to printed registration and similar cards that we may collect from consumers via postal mail, sports events, in-store demos, or other offline events. **Policy will only apply to a PowerBar offline registration card if the registration card indicates that this Policy applies.**
+This site may, from time to time, include a tell-a-friend application that makes it easy for you to forward information or materials from our site to friends or family by email. In order to address your email message, the application will ask you to input the recipient's email address and/or similar information (including your email address). This information is only used by the application to address your message so that it can be properly sent.
 
-Back to top
+## Changing Your Information
 
-__Call center registrations__
+You can change your preferences for follow-up contacts by Post. If you're registered with www.postfoods.com, www.pebblesplay.com, or any other website operated by Post Holdings, Inc. or its subsidiaries, you can change the information you've provided to us or cancel your registration by going to the "Your Profile" section of the respective site.
 
-This refers to information that we may collect from consumers through our call center, for example if you call us with a question or comment or to sign up for marketing communications over the phone.
+## Children’s Privacy
 
-Back to top
+This website is not directed to children under age 13, and we have no intention of collective information from children under age 13 at this website.
 
-__Data from other sources__
+## United States Only
 
-This refers to information we may obtain about you from other sources. For example, we may hire a third party data aggregator to provide us additional information about our existing consumers (this is known as “data appending”). We may also receive information from third party co-sponsors who we may occasionally partner with to run special contests or other promotions. We may also receive information about consumers when we acquire other companies.
+This website is intended for use by residents of the United States of America only. All matters relating to this site are governed by the laws of the State of Missouri in the United States of America. If you are located outside of the United States of America and you contact us, please be advised that any information you provide to us will be transferred to the United States of America and that by submitting information, you explicitly authorize its transfer.
 
-Back to top
+## How We Protect Personally Identifiable Information
 
-### 
+The security of personally identifiable information is important to us. We maintain administrative, technical and physical safeguards designed to protect against unauthorized use, disclosure or access of the personally identifiable information we collect on this website.
 
-Depending on how you interact with PowerBar (online, offline, over the phone, etc.), we may collect from you various types of information, as described below. In some instances (and unless we say otherwise below), we may combine one type of information with another type of information, and store them together in our records. We strive to limit the amount of information we collect and store to that which is reasonably necessary to provide you the relevant services. We generally store your information for as long as your account is active with us or as needed to provide you the relevant services. We may store your information for a longer period of time to comply with legal or regulatory obligations, resolve disputes, enforce our agreements, or for records management purposes.
+## Changes in Our Online Privacy Policy
 
-__Personal contact info__
+We reserve the right to change or replace this Privacy Policy at our sole discretion at any time. Please check back from time to time to ensure that you are aware of any updates or changes in this Privacy Policy.
 
-This includes any information that would allow us to personally contact you, such as your name, home or mailing address, phone number (home, cell, etc.), or email address. In some cases, this could include information that you give us about someone else (for example, if you provide a friend’s email address for a tell-a-friend program). We typically collect personal contact information in connection with a variety of activities, including general website registration, newsletter sign-up, website community features, online purchases, customer service inquiries, contests and other promotions, and consumer surveys. If you create an account with us, your personal contact information may be stored under your account profile.
+## Your Consent to the Terms of This Privacy Policy
 
-Back to top
+By using this website you consent to the terms of this privacy policy, you signify your assent to all of the terms of this privacy policy and our terms and conditions. If you do not agree with any terms of this privacy policy or our terms and conditions, please do not use this site or submit any personally identifiable information.
 
-__Account login info__
+## Contact Us
 
-This refers to any information that is required for you to establish a unique account with us or for us to give you access to your specific account profile. Examples may include your login ID/email address, screen name, password, and/or security question and answer. We only collect unique login information for those activities that require an account, such as general website registration, newsletter sign-up, and website community features. Your login information, especially your password, should be kept confidential and never shared with anyone else. To change your login email address or password, log in to the relevant edit account section of our site (if available) or contact Consumer Services.
-
-Back to top
-
-__Demographic info__
-
-This includes any information that describes your demographic or psychographic characteristics. Examples may include your date of birth, age or age range, gender, geographic location (e.g., zip code, city and state, mobile location), favorite products, hobbies and interests, and household or lifestyle information. We typically collect demographic information in connection with a variety of activities, including general website registration, newsletter sign-up, website community registration, contests and other promotions, and consumer surveys. If you create an account with us, you may be allowed to modify certain demographic information stored under your account. To do so, log in to the relevant edit account section of our site (if available) or contact Consumer Services. For demographic information stored under your profile on a third party social network (e.g., Facebook), see separate paragraph on “[Social network info](http://www.powerbar.com/SocialNetworkInfo).”
-
-Back to top
-
-__Technical computer info__
-
-This includes any information about the computer system or other technological device that you may be using to access one of our websites or applications. We typically collect this information through automated technologies such as cookies and web beacons. Examples of technical computer information may include your computer’s IP address, operating system type, and web browser type. If you access a PowerBar website or application via a mobile device such as a smartphone, the collected information may also include your phone’s unique device ID, geo-location, and other similar mobile device data. Technical computer information may be linked to your personal contact information.
-
-Back to top
-
-__Website usage info__
-
-This includes information about how you use and navigate our websites and applications, including which links you click on, which pages or content you view and for how long, and other similar information and statistics about your interactions with a PowerBar website or application (e.g., date and time of visit, which site you came from, favorite recipes and site activities, high game scores, etc.). This information is captured using automated technologies such as browser cookies, flash cookies, and web beacons, and may also be collected through the use of third party tracking services (such as Google Analytics) that collect data in aggregate (such as number of visits to a particular page, or the amount of time spent on a web site). We may also use these technologies, such as web beacons, to capture information about how users respond to certain email campaigns (e.g., time the email is opened, where user links to from the email, etc.). Website usage information may be linked to your personal contact information for web site personalization and marketing purposes.
-
-Please note that “flash” cookies are different from "browser” cookies because of the way in which flash cookies capture and store data. Your browser’s cookie management tools will not remove flash cookies.
-
-__Consumer feedback__
-
-This includes information that you voluntarily share with us about your experience in using our products and services, including our websites and applications. Examples may include unsolicited comments and suggestions, testimonials, or other questions or feedback related to our products. We typically collect this information in the form of consumer surveys, consumer panels, contact forms, “Ask the Expert” forms, and email correspondence.
-
-Back to top
-
-__Consumer-generated content__
-
-This refers to any content that you create and then share with us (and perhaps others) by uploading it to one of our websites or applications, including one of our Facebook sites. Examples may include photos, videos, personal stories, or other similar media or content. We may collect and publish consumer-generated content in connection with a variety of activities, including contests and other promotions, website community features, consumer engagement, and third party social networking.
-
-Back to top
-
-__Social network info__
-
-This refers to any information that is part of your profile on a third party social network (such as Facebook) and that you allow the third party social network to share with us. Examples include your basic account information (e.g., name, email address, gender, birthday, current city, profile picture, user ID, list of friends, etc.) and any other additional information or activities that you permit the third party social network to share with third party application developers. For example, we may receive your social network profile information (or parts of it) every time you download or interact with a PowerBar web application on a social network such as Facebook or every time you use a social networking feature that is integrated within a PowerBar site (such as Facebook Connect). To learn more about how your information from a third party social network may be obtained by PowerBar (or other third party application developers), please visit the website of the relevant social network.
-
-Back to top
-
-__Payment info__
-
-This includes any information that you use to make a purchase, such as your credit card details (cardholder name, card number, expiration date, etc.) or other forms of payment (if such are made available). This also could include the billing name and address associated with your form of payment. Please note that online sales at PowerBar.com are managed by a third party vendor and that there are many independent e-commerce sites that sell PowerBar products but that are not controlled or operated by PowerBar. Because these sites may have different practices than we do, we recommend that you read their respective privacy policies before making any purchases.
-
-Back to top
-
-__Other info (depending on context)__
-
-This refers to any other information that we might need to collect for a specific PowerBar form, feature, or other service that you use or request. What this information includes will vary depending on the method of collection and the specific purpose(s) for which the information is being collected. Please see Section 3 (“How do we use your information?”) for more specific examples.
-
-Back to top
-
-### 
-
-The following paragraphs describe the various purposes and features for which we might collect and use your information, and the different types of information that might be collected for each. Please note that not all of the uses below will be relevant to every consumer.
-
-__Account maintenance__
-
-We may use your information to maintain your accounts with us, including administering any consumer loyalty or rewards programs that are associated with your account. This typically involves the use of information that was originally collected to set up your account (e.g., personal contact information, payment information, account login information, demographic information, etc.).
-
-Back to top
-
-__Customer service__
-
-We may collect and use your information to provide you customer service, including responses to your inquiries. This typically requires the collection and use of certain personal contact information (such as your name or email address) and information regarding the reason for your inquiry (e.g., order status, technical issue, product question/complaint, general question, etc.). Customer service may be provided through various forms of communication, including email correspondence, call center support, and live online chat features.
-
-Back to top
-
-__Product improvement and customization__
-
-We may collect and use your information so we can constantly improve our products, tailor them to your needs, and come up with new product ideas. This mostly involves the collection and use of demographic information and consumer feedback.
-
-Back to top
-
-__Consumer engagement__
-
-We may collect and use your information to get you more actively engaged with our products and services (including our websites and applications), thereby increasing overall brand engagement and awareness. This mostly involves the collection, use, and publication of consumer-generated content.
-
-Back to top
-
-__Contests and other promotions__
-
-We may collect and use your information to administer a contest, sweepstakes, giveaway, competition, or other similar marketing campaign or promotion. These events typically require the collection and use of personal contact information (for prize fulfillment), demographic information (for eligibility determination), and, in some instances, consumer-generated content. Some of our promotions may be run on third party social networks such as Facebook (for example, on our Facebook fan pages). To comply with legal requirements, we may publish or share a limited amount of information (such as name and city of residence) about the winners of a particular promotion. For more information about our contests and other promotions, please see the official rules or details posted with each promotion.
-
-Back to top
-
-__Marketing communications__
-
-We may collect and use your information to send you marketing communications, such as email communications and postal mailings. These communications will keep you up-to-date on the latest news, events, special offers, and promotions from PowerBar that may be of interest to you. On occasion, these communications may also introduce you to other Nestlé brands and inform you about offers and promotions from other third party companies. Sending you marketing communications mostly requires the collection and use of certain personal contact information and demographic information. In some instances (such as for mobile apps and text messaging programs), this could involve the use of your precise geo-location, which may allow us to send you location-based offers and promotions.
-
-You can always opt-out from receiving marketing-related email communications or text messages by following the unsubscribe instructions provided in each such communication. If you have an account with us, you may be given the option to change your communication preferences under the relevant edit-account section of our site (if available) or by contacting Consumer Services. Please note that even if you opt out from receiving marketing communications, you may still receive administrative communications from us, such as order confirmations, notifications about your account activities (e.g., account confirmations, password changes, etc.), and other important announcements.
-
-Also, please note that if you participated in a promotion that involved a third party company, and, as part of that promotion, you agreed to receive future marketing communications directly from that third party, you will need to contact the third party (not PowerBar) to opt-out from such communications. This process may be outlined in the third party’s privacy policy.
-
-Back to top
-
-__Third party social networking__
-
-We may collect and use your information when you interact with third party social networking features such as “Facebook Connect” or “Facebook Like”. These features may be integrated in our sites or applications for the purposes of running contests, allowing you to share content with friends, or other stated purposes. If you use these features, we may have the ability to obtain certain information about you from your social networking profile (see “Social network information” under Section 2 of this Policy). You can learn more about how these features work, and the profile data we may obtain about you, by visiting the website of the relevant third party social network.
-
-Back to top
-
-__Website improvement and personalization__
-
-We may collect and use your information to improve and personalize your experience on our websites and applications. This is typically done through automated technologies (such as cookies) that collect and remember certain account login information, technical information, and/or previous website usage information. For example, we might remember your login ID/email address or screen name so you can quickly login the next time you visit our site or so you can easily retrieve the items you previously placed in your shopping cart. Based on this type of information, we may also show you specific PowerBar content or promotions that are tailored to your interests.
-
-Back to top
-
-__Website community features__
-
-We may collect and use your information to give you access to website community features, including features that may allow you to upload and share recipes, pictures, videos, artwork, or other messages or content. This typically involves the collection, use, and (in some instances) public display of certain personal contact information, account login information, demographic information, and/or consumer-generated content. Because these features are “communal” in nature, information or content that you post in these areas may be visible to others. Please use caution when using these features or uploading content to a PowerBar site. For some community features, we may give you the ability to control whether some parts of your profile can be seen by others. To access these settings, log in to the relevant edit account section of our site (if one is available) and access your community profile. For website community features that have social networking integration (such as “Facebook Connect”), see separate paragraph on “Third party social networking.”
-
-Back to top
-
-__Website viral features (e.g., tell-a-friend)__
-
-We may request and use your information so you can use website viral features, such as our tell-a-friend features. These features allow you to easily share certain PowerBar news, product information, promotions, wish list items, or other content with family members and friends. These features typically require the collection and use of personal contact information (such as names and email addresses) so that the selected one-time message or content can be delivered to the proper recipients. In most cases, we do not retain the information provided. In some cases (for example, as part of a refer-a-friend program), we may store the information so we can track and reward consumers for their successful referrals. For tell-a-friend or other viral features administered by third party social networks (such as Facebook’s “Share” and “Like” features), please refer to the website of the relevant social network for additional information.
-
-Back to top
-
-__Order fulfillment__
-
-We may collect and use your information to process and ship your orders, and to inform you about the status of your orders. This could involve the collection and use of certain personal contact information, payment information, account login information, and/or other information related to your purchase (such as products ordered). This could also involve the ongoing storage of your payment information to allow for easier checkout on future purchases.
-
-Please note that there are many independent e-commerce sites that sell Nestlé products but that are not controlled or operated by PowerBar . Because these sites may have different practices than we do, we recommend that you read their privacy policies before making any purchases on those sites.
-
-Back to top
-
-__Other general purposes (e.g., website security, internal research)__
-
-We may collect and use your information for other general business purposes, such as to maintain the day-to-day operation and security of our websites and applications and to conduct internal marketing and demographic studies. These activities mostly require the collection and use of certain demographic information, technical computer information, website usage information, and consumer feedback.
-
-Back to top
-
-### 
-
-We may share your information with the types of companies or in the situations described below. We do not rent or sell your information to third party companies for their own marketing use.
-
-__Agents and contractors__
-
-These are outside companies, agencies, or contractors that we hire to help us run our business (e.g., fulfill orders, operate our websites, run promotions, provide website development, operate our call center, etc.). The information shared with our agents and contractors could include personal contact information, payment information, demographic information, or other types of information depending on the services being provided, and may require that we transfer your information to locations outside the United States. Agents and contractors are only allowed to access and use your information for the specific tasks they’ve been hired to do and are required to keep your information confidential and secure.
-
-Back to top
-
-__Joint sponsors and other partners__
-
-These are outside third party companies who we occasionally partner with to run joint promotions or offer you separate third party promotions. The information shared with these third party companies will vary depending on the promotion, and may be used by them for their own separate marketing purposes. If any of your personal contact information will be collected by or shared with a third party partner for its own marketing purposes, we will notify you at the time of information collection and give you the opportunity to opt-in or out of the sharing, as the case may be. For online promotions, we may also provide you a link to the third party’s privacy policy.
-
-_**Your California Privacy Rights**_
-
-If you are a California resident, you may have the right to request and receive certain information about our disclosure of your personal information to third parties for their own marketing use, and your choices with respect to such disclosures. Because we do not share your personal information with third parties for their own marketing use unless you are first given the opportunity to opt-in or out (as set forth above), we are exempt from having to meet this requirement. If you still wish to learn more about our compliance with this requirement, you may contact Consumer Services.
-
-Back to top
-
-__Legal disclosures (when necessary)__
-
-This is when we may need to share your information for law enforcement or other legal-related purposes. This may be necessary in connection with a lawsuit, claim or investigation, governmental inquiry, court order, enforcement of legal rights (e.g., contract terms, intellectual property rights, etc.), safety issue, or other similar legal or security matter. Sharing your information for these reasons is not a regular event, but could arise from time to time. We strive to limit the types and amount of information we share for legal-related purposes to that which is reasonably necessary.
-
-Back to top
-
-__Business transfers (e.g., sale or acquisition of company)__
-
-We may share (or receive) information about you, including personal contact information, in the event of an acquisition, merger, sale, corporate reorganization, bankruptcy proceeding, or other similar event that involves PowerBar . If such an event occurs, we will take reasonable steps to require that your information be handled in accordance with this Privacy Policy, unless it is not practical or permissible to do so.
-
-Back to top
-
-### 
-
-You can always opt-out from receiving marketing-related email communications or text messages by following the unsubscribe instructions provided in each such communication. Please read our Marketing communications section for limitations on certain administrative communications, order confirmations, and account notifications.
-
-Many of our sites have a “your account or “your profile” feature where you may review and edit the information you have provided and you may be given the option to change your communication preferences, including opting out. If an edit account or profile feature is not available or you otherwise desire to access, edit, or remove your information, contact Consumer Services and we will respond to your access request within 30 days.
-
-Back to top
-
-### 
-
-We use a variety of standard methods (described below) to keep consumer information confidential and secure. Please note, however, that these protections do not apply to information you choose to share in public areas such as our website community features or other social areas.
-
-__Secure operating environments__
-
-We store your information in secure operating environments that are protected from the public and that we only allow authorized PowerBar employees and agents/contractors to access on a need-to-know basis. We follow generally accepted industry standards to protect personal information; however, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security.
-
-Back to top
-
-__Encryption for payment info__
-
-We use industry-standard encryption to provide greater protection for sensitive financial information, such as credit card information, sent to us over the web. For example, encryption is used when you make payments through our online stores. Please note, however, that there are many independent e-commerce sites that sell Nestlé products but that are not controlled or operated by PowerBar . Because these sites may have different practices than we do, we recommend that you read their privacy policies before making any purchases.
-
-Back to top
-
-__Prior authentication for account access__
-
-We require our registered consumers to verify their identity (e.g., login ID/email address, password) before they can access or make changes to their account information. This helps prevent unauthorized access to your account.
-
-Back to top
-
-__Measures we expect you to take__
-
-It is important for you to also play a role in keeping your information safe and secure. When signing up for an online account, please be sure to choose an account password that is hard for others to guess and never reveal your password to anyone else. If you use a shared or public computer, never choose to have your login ID/email address or password remembered and make sure to log out of your account every time you leave the computer. You should also make use of any privacy settings or controls we may provide you in our website community areas.
-
-Back to top
-
-### 
-
-This section provides additional information that is important for you to know about this Policy or our practices.
-
-__This policy applies to consumers only__
-
-This Privacy Policy applies only to our collection and use of information from consumers, using the methods described under Section 1 of this Policy. It does not apply to our business customers (e.g., retailers, distributors, etc.). It also does not apply to information we might collect and use for employment-related purposes (e.g., resumes, job applications, etc.) or business-to-business related purposes (e.g., media inquiries, investor relations, etc.).
-
-Back to top
-
-__We do not knowingly collect info from children__
-
-We do not solicit or collect any type of information from a person that we know is under the age of 13. If we discover that we’ve accidentally collected information from a child, we will attempt to remove that child’s information from our records as soon as feasibly possible.
-
-Back to top
-
-__We are not responsible for third party sites/features__
-
-Our websites and applications may provide links to, or features from, other third party sites (such as independent e-commerce sites and third party social networks). If you link to or use such third party sites or features, you do so at your own risk. We do not control and are not responsible for the content or practices of any third party site, application, or feature.
-
-Back to top
-
-### 
-
-For privacy policy questions or concerns, please contact us at:
-
-PowerBar, Inc.   
-12 Vreeland Road  
-PO Box 697  
-Florham Park, NJ 07932  
-[Contact us via email](mailto:nestleconsumerservice@casupport.com)  
-1-800-587-6937
-
-Back to top
+[Find our contact information here.](https://web.archive.org/investor-relations/investor-contacts/ "Investor Contacts")
