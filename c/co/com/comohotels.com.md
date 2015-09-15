@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the comohotels.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316094301id_/http%3A//www.comohotels.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comohotels.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915122854id_/http%3A//www.comohotels.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | COMO Hotels and Resorts
+# Privacy Policy | COMO Shambala Estate Bali Privacy Policy
 
 We respect your right to privacy. This Privacy Policy sets out details of the information that we may collect from you and how we may use that information. This Privacy Policy should be read alongside, and in addition to, our website terms of use (accessible online at <http://www.comohotels.com/terms-use-website>). Please read this Privacy Policy carefully. By using this website or any individual COMO Hotel-related website (collectively, the " **Website** ") or by using specific services that we offer, such as when booking a room at one of our hotels (the " **Services** "), you agree to its terms (including as amended from time to time). If, for any reason, you do not agree to the terms of this Privacy Policy, please stop using the Website or Services immediately.
 
