@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gcruise.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319100822id_/http%3A//www.gcruise.com/main/privacy_policy%3Flink_id%3D30) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gcruise.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915111215id_/http%3A//www.gcruise.com/main/privacy_policy%3Flink_id%3D30) for the most accurate reproduction.*
 
 # Gay Hookups | Hot Gays | Meet Local Gay Men | Sex GCruise
 
@@ -140,7 +140,7 @@ BY PROVIDING PERSONAL INFORMATION TO US YOU SIGNIFY YOUR CONSENT TO OUR COLLECTI
 
 To stop or resume receiving email notifications regarding various site activity or offers, users can edit their settings at: [GCruise.com](https://web.archive.org/myprofile/settings)
 
-If you have any further questions or concerns about GCruise.com's privacy policies and use of personal information, please contact us using our online [contact form](https://web.archive.org/contact) or by email to [the webmaster.](mailto:abuse@GCruise.com)
+If you have any further questions or concerns about GCruise.com's privacy policies and use of personal information, please contact us using our online [contact form](https://web.archive.org/contact) or by email to [the webmaster.](mailto:abuse@gcruise.com)
 
 #### 18) Dispute Resolution
 
