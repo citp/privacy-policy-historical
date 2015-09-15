@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ironsocket.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318055046id_/https%3A//ironsocket.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ironsocket.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915210205id_/https%3A//ironsocket.com/privacy-policy) for the most accurate reproduction.*
 
 # IronSocket - Privacy Policy
 
@@ -28,13 +28,12 @@ Our Terms of Use, incorporated herein by reference, including the limitations on
 
 ### Information Collected
 
-When you Visit the Site, we collect the following information:
+When you Visit the Site, we collect the following information:  
+
 
   * Your IP address, browser type, operating system, and time of visit;
   * The pages and content you viewed while browsing the Site; and
   * Information about how you arrived on the Site such as, the referring site, advertisement information, keyword search phrase, etc.
-
-
 
 We use this data to understand usage trends and to determine the effectivity of our marketing.
 
@@ -46,15 +45,12 @@ Upon Registration and Use of the Site, we additionally collect the following lim
   * Details about your payment such as payment type, transaction ID, and limited transaction data provided by the payment processor used; and
   * All customer communications and files received via email, online chat, or web form submission such as our Contact Us form, or through the use of our Ticket System.
 
+Upon Use of the Services, we additionally collect the following session information:  
 
-
-Upon Use of the Services, we additionally collect the following session information:
 
   * Time and date of the session connection and disconnection;
   * The IP address used for the session and which server was connected to; and
   * A numerical representation showing total bytes transferred per session;
-
-
 
 We use this data to manage your account, to provide the Services, and to prevent fraud and abuse. This session information is retained for a limited period of time, typically 72 hours, after which it is purged from our servers.
 
@@ -83,14 +79,11 @@ We use both session and persistent cookies in meaningful ways to provide our Ser
   * To identify which site, or affiliate may have referred you to the Site; and
   * To track aggregate and statistical information about behaviors on the Site;
 
+We also may make use of third party tracking pixels used by advertising or analytical partners. Some such partners include, but are not limited to:  
 
-
-We also may make use of third party tracking pixels used by advertising or analytical partners. Some such partners include, but are not limited to:
 
   * _Google Analytics_. Used to track statistical information such as page visits and traffic source information allowing us to improve the performance and quality of the Site. For more information please visit: <http://www.google.com/analytics/learn/privacy.html>
   * _Google Advertising_. Used to track conversions from advertisements on the Google Search and Google Display network. For more information please visit: <http://www.google.com/policies/technologies/ads/>
-
-
 
 Third party pixels and content may make use of cookies. We do not have access or control over these third party cookies and this Policy does not cover the use of third party cookies.
 
@@ -98,7 +91,8 @@ For more detailed information about cookies, please visit <http://aboutcookies.o
 
 ### Security Measures
 
-We use many industry standard security measures to protect your Personally Identifiable Information (PII) from loss, theft, misuse or unauthorized access or disclosure or destruction. These measures include, but are not limited to:
+We use many industry standard security measures to protect your Personally Identifiable Information (PII) from loss, theft, misuse or unauthorized access or disclosure or destruction. These measures include, but are not limited to:  
+
 
   * All information you provide is stored on secure servers;
   * We use MFA (multi-factor authentications) processes whenever appropriate;
