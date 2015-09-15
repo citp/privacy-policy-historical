@@ -1,33 +1,130 @@
-> *The following text is extracted and transformed from the aplawrence.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604090059id_/http%3A//www.digicontracts.com/about/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aplawrence.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915083150id_/http%3A//aplawrence.com/privacy.html) for the most accurate reproduction.*
 
-# Digital Contracts - Privacy Policy
+# aplawrence.com | Privacy Policy
 
-1\. Privacy Statement. Digital Contracts, Inc., a Georgia corporation ("DCI"), operates this Digicontracts.com web site. DCI regards the privacy and security of user information as a critical component of the service that we offer to our users. The following information explains our information gathering and dissemination practices. 
+**What information do we collect?**
 
-2\. Registration. You may be required to register in order to be granted access to certain services and/or products at this web site, including without limitation, use of the ContractMaker demo and the purchase of a subscription for the ContractMaker Internet service. At the time of registration, you may be prompted by one of our online forms to provide certain personal information to us, including your name, company name, and email address ("Registration Data"). 
+We collect information from you when you register on our site or subscribe to our newsletter. 
 
-3\. Registration Data. We use Registration Data to send you information about our company and service and to keep you informed of enhancements and complementary products in which you might be interested. We also use Registration Data to tailor our web site to your particular needs. We use demographic and profile information to tailor your experience at our site, showing you the content that we think you might be interested in as well as displaying the content according to your preferences. You may choose to stop receiving future communications from us. Please see the Opt-Out and Discontinue Section below. **We share Registration Data only with the DCI partner or affiliate who referred you to this web site. Please note that the privacy practices of our partners and affiliates are not covered by this Privacy Policy, and we are not responsible for the privacy practices or the content of such partners or affiliates. You should be careful to review any privacy policies of such partners or affiliates before registration at this web site.**
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
-4\. Cookies. Cookies are pieces of information that a web site transfers to your computer's hard disk for record-keeping purposes. Cookies in and of themselves do not personally identify users, although they do identify a user's computer. Most browsers are initially set up to accept cookies. If you'd prefer, you can set your browser to refuse cookies. However, you may not be able to take full advantage of our web site if you do so. We use cookies to credit your referral to a partner or affiliate who referred you to our web site. We also use cookies to collect demographic and profile data for purposes of delivering content specific to your interests. Advertisers that display ads on our site may also use cookies. Digicontracts.com does not have access to the information obtained from those cookies. 
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
-5\. IP Addresses. IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as "traffic data" so that data (such as the Web pages you request) can be sent to you. Digicontracts.com will not use your IP address to attempt to identify your personal information. 
+ **DoubleClick DART Cookie**
 
-6\. Referers. A Referer is the information passed along by a web browser that references the Web URL you linked from, and is automatically collected by our web server as "traffic data". We use traffic data to credit your referral to a partner or affiliate who referred you to our web site. This information may also be used by Digicontracts.com to identify broad demographic trends that may be used to provide information tailored to your interests. You will not be personally identified from this information. 
+.:: Google, as a third party vendor, uses cookies to serve ads on aplawrence.com.  
+.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to aplawrence.com and other sites on the Internet.   
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://google.com/privacy_ads.html 
 
-7\. System Information. System information we collect as part of "traffic data" includes time, the type of web browser being used, the operating system/platform, and CPU speed. This information is sent automatically by your web browser when you are connected to a web site. This information is used by Digicontracts.com in identifying broad demographic trends and may be used to provide information appropriate for your computer system. You will not be personally identified from this information. 
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
+Google Adsense   
+Commission Junction   
+Widget Bucks   
+Adbrite   
+Clickbank   
+Epic / Azoogle   
+Chitika   
+Linkshare   
+Amazon   
+Kontera   
+Advertising.com   
+CPAStorm   
+Burst   
+Valueclick   
+InfoLinks   
+Vibrant Media   
+24/7 Real Media   
+Tribal Fusion   
+Casale   
+Tremor Media   
+Adify   
 
-8\. Sharing of Information. Digicontracts.com feels strongly that your personally identifying data should only be seen by you, unless you authorize us to share it with others. Except as provided in this privacy Policy, no data or information which personally identifies you will be shared with anyone. Some of your information may be shared on an aggregate basis only, as a part of a larger set of statistics (for example, statistics that indicate the percentage of our members that are female), but that information will not be sufficient to permit the recipient to identify you. Notwithstanding the forgoing, Digicontracts.com will only disclose personally identifiable data without your permission in the following limited circumstances: (i) if Digicontracts.com is required to do so by law, or (ii) if Digicontracts.com has the good faith belief that such action is necessary to conform to applicable laws or comply with legal process served on Digicontracts.com, or to protect and defend the rights or property of Digicontracts.com or another subscriber or to enforce the Terms of Use. 
 
-9\. Children Under Age of Thirteen. We do not collect any registration information form users who indicate they are under the age of thirteen (13). If a user under the age of thirteen (13) attempts to register with Digicontracts.com, Digicontracts.com notifies the user that he or she is not eligible to become a member of Digicontracts.com's service and we do not collect or use any personal information from that child. 
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on aplawrence.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
-10\. Security. Information collected by Digicontracts.com is stored in secure operating environments that are not available to the public. All of our employees and contractors are dedicated to maintaining and upholding your privacy and security and are aware of our privacy and security policies. Unfortunately, no data transmission over the Internet can be guaranteed 100% secure. As a result, while we strive to protect your personal information within our systems, Digicontracts.com cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. 
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
 
-11\. Other Web Sites and Links. **This web site contains links to other web sites, and our partners and affiliates may also have links on this web site and/or provide links to this web site. Please note that the privacy practices of those other web sites and of our partners and affiliates are not covered by this Privacy Policy, and we are not responsible for the privacy practices or the content of such web sites, partners, or affiliates. You should be careful to review any privacy policies of such web sites, partners, or affiliates.**
+aplawrence.com has no access to or control over these cookies that are used by third-party advertisers. 
 
-12\. Opt-Out and Discontinue. Subscribers may elect to op-out and to discontinue receiving future communications from us through making the appropriate changes to your personal subscriber account at this web site. In addition, you may elect to avoid future communications from Digicontracts.com by sending us an email at ctcooper@digicontracts.com indicating your Username and E-mail address and requesting to opt-out and discontinue future communications. Notwithstanding the forging, even if you have opted-out, under urgent circumstances, we reserve the right to send you information about the service or your account, but we will not send you unsolicited communications regarding any general information regarding this web site or commercial offers or advertisements if you have opted out or discontinued such communications. 
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. aplawrence.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
-13\. Contact Us. If you have any questions regarding this Privacy Policy, the practices of Digicontracts.com, or your dealings with our web site, please contact us at: Digital Contracts, Inc., 2370 Roxburgh Drive, Suite 100, Roswell, GA, 30076. Contact: Chip Cooper, Esq. - ccooper@digicontracts.com Telephone:770-664-8555. Facsimile:770-667-9203. 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here http://www.networkadvertising.org/managing/opt_out.asp
 
-14\. Modification of Privacy Policy By Digicontracts.com. Digicontracts.com reserves the right to change or update this Privacy Policy at any time by posting a notice that we are changing our Privacy Policy. 
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
-Last Update: December 7, 2000. 
+**What do we use your information for?**
+
+Any of the information we collect from you may be used in one of the following ways: 
+
+\- To personalize your experience  
+(your information helps us to better respond to your individual needs)
+
+\- To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+
+\- To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
+
+\- To process transactions
+
+> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+
+\- To administer a contest, promotion, survey or other site feature
+
+\- To share with our third party marketing partners so they may send you offers for goods and services which you may find of interest
+
+\- To send periodic emails
+
+> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, advertisements etc. The email address you provide to subscribe to a newsletter, receive information or enter to win a prize may be used to send you information and updates, relevant content and advertisements.
+
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+
+ **How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you access your personal information. 
+
+**Do we use cookies?**
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+
+We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service.
+
+ **Do we disclose any information to outside parties?**
+
+Other than described in this privacy policy, we do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, third party marketers, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
+
+**Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+ **California Online Privacy Protection Act Compliance**
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+ **Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+ **Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page. 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy or you wish to unsubscribe from our site and services you may contact us using the information below or by writing to us at:
+
+aplawrence.com 
+
+Email:  
+tony@aplawrence.com  
+
