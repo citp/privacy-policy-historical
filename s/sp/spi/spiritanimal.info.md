@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spiritanimal.info privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318165344id_/http%3A//www.spiritanimal.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiritanimal.info privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915150541id_/http%3A//www.spiritanimal.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy |
 
@@ -37,23 +37,20 @@ A cookie is a small file which asks permission to be placed on your computer’s
 
 We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
 
-We also use third party advertisements on SpiritAnimal.info to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).  
+We also use third party advertisements on SpiritAnimal.info to support our site.  Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.  This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).  
 Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. 
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
 We use “Google Analytics” to collect information about use of this site. Google Analytics collects information such as how often users visit this site, what pages they visit when they do so, and what other sites they used prior to coming to this site. We use the information we get from Google Analytics only to improve this site. Google Analytics collects only the IP address assigned to you on the date you visit this site, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this site, the cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to this site is restricted by the Google Analytics Terms of Use (as amended for government websites) and the Google Privacy Policy. You can prevent Google Analytics from recognizing you on return visits to this site by disabling cookies on your browser.
 
-Google Analytics employs cookies to define user sessions, which allows for the collection of data about how visitors are using the websites. Google Analytics uses only first-party cookies for data analysis. This means that the cookies are linked to a specific website domain, and Google Analytics will only use that cookie data for statistical analysis related to your browsing behavior on that specific website. According to Google, the data collected cannot be altered or retrieved by services from other domains.
+Google Analytics employs cookies to define user sessions, which allows for the collection of data about how visitors are using the websites. Google Analytics uses only first-party cookies for data analysis.  This means that the cookies are linked to a specific website domain, and Google Analytics will only use that cookie data for statistical analysis related to your browsing behavior on that specific website.  According to Google, the data collected cannot be altered or retrieved by services from other domains.
 
 If you choose, you can opt out by turning off cookies in the preferences settings in your web browser. For more information on Google Analytics, please visit Google Analytics
 
-Google Analytics Terms of Service
-
-http://www.google.com/analytics/tos.html
-
-Google Analytics Cookie Usage on Websites
-
+Google Analytics Terms of Service  
+http://www.google.com/analytics/tos.html  
+Google Analytics Cookie Usage on Websites  
 https://developers.google.com/analytics/devguides/collection/gajs/cookie-usage
 
 Links to other websites  
