@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the postso.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317103441id_/https%3A//postso.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postso.com privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916003822id_/https%3A//postso.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Posts - Posting and scheduling to Instagram, Pinterest, Facebook, Twitter, VK.com
+# Privacy Policy - - Posts - Posting and scheduling to Instagram, Pinterest, Facebook, Twitter, VK.com
 
 Our privacy policy explains how information is collected, used and disclosed by Posts with respect to your access and use of Posts’s services. 
 
 ### What information do we collect?
 
-We collect certain information you provide to us when using Posts, such as when you create an account and profile, send us an email or post information or other content to Posts We collect certain personal information, like your name, picture, email address and phone number, as well as certain non-identifying information, like your gender, birthday and zip code. We will also collect the contact information of your friends, if you choose to connect your contacts and address book information with Posts and your login credentials to your social network accounts, such as Instagram, Facebook and Twitter, if you choose to connect those accounts with your Posts account.
+We collect certain information you provide to us when using Posts, such as when you create an account and profile, send us an email or post information or other content to Posts We collect certain personal information, like your name, picture, email address and phone number, as well as certain non-identifying information, like your gender, birthday and zip code. We will also collect the contact information of your friends, if you choose to connect your contacts and address book information with Posts and your login credentials to your social network accounts, if you choose to connect those accounts with your Posts account.
 
 We also automatically collect certain information when you use Posts, such as your location/GPS coordinates (if you enable this feature), a device identifier (but not the UDID), MAC address, wireless service provider, Internet Protocol (IP) address, operating system, the browser type, the address of a referring site and your activity on Posts. You can enable or disable location services when you use Posts at anytime, through your browser settings. This information is not treated as personal information unless we combine it with or link it to any of the personally identifiable information mentioned above.
 
