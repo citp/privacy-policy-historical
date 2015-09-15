@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysinglefriend.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317145412id_/http%3A//www.mysinglefriend.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysinglefriend.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915184618id_/http%3A//www.mysinglefriend.com/privacy) for the most accurate reproduction.*
 
 # Mysinglefriend Privacy Policy for Online Dating
 
@@ -35,6 +35,6 @@ Please note that when you visit our site, we may also log your IP address, a uni
 If your personal details change, please log in to www.mysinglefriend.com and update your details in the 'my profile' or 'my details' section. If you have any queries about how we use your personal information, please contact our Customer Services Department:
 
 My Single Friend Ltd  
-4th Floor, 7 Swallow Place, London, W1B 2AG
+218 Titan Court, 3 Bishop Square, Hatfield, AL10 9NA
 
 mysinglefriend® and [mysinglefriend logo](https://web.archive.org/online/logos) **™**   are trade marks proprietary to MySingleFriend Limited. All rights reserved.
