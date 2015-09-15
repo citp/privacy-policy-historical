@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getup.org.au privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206130902id_/https%3A//www.getup.org.au/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getup.org.au privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915133829id_/https%3A//www.getup.org.au/about/privacy) for the most accurate reproduction.*
 
 # GetUp! - Privacy policy
 
@@ -51,7 +51,7 @@ If you believe personal information we hold about you is not up to date or accur
 
 If we provide you with copies of the information you have requested, we may charge you a reasonable fee to cover the administrative costs of providing you with that information. Please direct all request for access and correction to: 
 
-Darren Loasby, Lvl 2, 104 Commonwealth St, Sydney NSW 2010, [privacy@getup.org.au](mailto:privacy@getup.org.au)
+Darren Loasby, Lvl 14, 338 Pitt St, Sydney NSW 2000, [privacy@getup.org.au](mailto:privacy@getup.org.au)
 
 **Overseas disclosure**
 
@@ -63,8 +63,8 @@ Please note that this Privacy Policy may change from time to time.
 
 **Complaints**
 
-If you consider a breach of the Australian Privacy laws or your rights in relation to privacy has occurred, you may direct your query to our Privacy Officer and we will attempt to resolve your complaint. If you do not consider our response satisfactory, you may contact the Australian Privacy Commissioner at its website <http://www.oaic.gov.au/> or by telephone on 1300 363 992. 
+If you consider a breach of the Australian Privacy laws or your rights in relation to privacy has occurred, you may direct your query to our Privacy Officer and we will attempt to resolve your complaint. If you do not consider our response satisfactory, you may contact the Australian Privacy Commissioner at its website **<http://www.oaic.gov.au/>** or by telephone on 1300 363 992. 
 
 **For more information**
 
-If you would like more information on privacy, contact us at [info@getup.org.au](mailto:info@getup.org.au). 
+**If you would like more information on privacy, contact us at[info@getup.org.au](mailto:info@getup.org.au)**. 
