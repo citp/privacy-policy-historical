@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onespout.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504051349id_/http%3A//onespout.com/home/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onespout.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915061940id_/http%3A//onespout.com/home/privacy_policy) for the most accurate reproduction.*
 
 # OneSpout.com
 
