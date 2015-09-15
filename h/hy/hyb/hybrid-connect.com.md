@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hybrid-connect.com privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414015014id_/http%3A//hybrid-connect.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hybrid-connect.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915145651id_/https%3A//thrivethemes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Hybrid Connect
+# Privacy Policy - Thrive Themes
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and make use of personal information. The following outlines our Privacy Policy.
 
@@ -38,6 +38,16 @@ whitesquare GmbH may use software programs to create summary statistics, which a
 
 For site security purposes and to ensure that this service remains available to all users, whitesquare GmbH uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
 
+## Cookie Use for Retargeting
+
+We may use Google Analytics and the DoubleClick advertising network as well as other advertising networks to display ads across the Internet, based on your visit to our website.
+
+Third-party vendors, including Google, may show our ads on sites across the Internet. Our site and third-party vendors, use first-party cookies and third-party cookies together to inform, optimize and serve ads based on past visits and pages visited on this website.
+
+Our site as well as third-party vendors may use third-party audience data to further optimize advertisements displayed.
+
+You can opt-out of this kind of advertising anytime, [here](https://www.google.com/settings/ads) and [here](https://tools.google.com/dlpage/gaoptout/).
+
 ## Policy Changes
 
 We reserve the right to amend this privacy policy at any time with or without notice. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
@@ -46,7 +56,7 @@ We are committed to conducting our business in accordance with these principles 
 
 ## Contact
 
-If you have any questions regarding this Policy, or your dealings with our web site, please [contact us](http://hybrid-connect.com/contact/).
+If you have any questions regarding this Policy, or your dealings with our web site, please [contact us](http://thrivethemes.com/contact/).
 
 whitesquare GmbH  
 Wuelflingerstrasse 271  
