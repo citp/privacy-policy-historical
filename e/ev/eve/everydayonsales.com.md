@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everydayonsales.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618000944id_/http%3A//www.everydayonsales.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everydayonsales.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915033746id_/https%3A//www.everydayonsales.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | EverydayOnSales.com
 
