@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plan.io privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630225035id_/https%3A//plan.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plan.io privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915193525id_/https%3A//plan.io/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Planio
 
@@ -24,9 +24,11 @@ The Planio website contains links to external websites of third parties. Planio 
 
 ## Analytics, retargeting and website chat services
 
-This website uses the following analytics, retargeting and website chat services:
+This website uses the following analytics, split testing, retargeting and website chat services:
 
   * _Google Analytics_ , a web analytics service provided by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA; [Google Analytics privacy information](http://www.google.com/analytics/learn/privacy.html)
+  * _Calq.io_ , a web analytics service provided by Calq.io Limited, 4 Maguire Street, London, SE1 2NQ, UK; [Calq.io privacy policy](https://calq.io/privacy)
+  * _Visual Website Optimizer_ , a split testing service provided by Wingify, 14th Floor, KLJ Tower North, Netaji Subhash Place, Pitam Pura, Delhi 110034, India; [Visual Website Optimizer privacy policy](https://vwo.com/privacy-policy/)
   * _AdRoll_ , a retargeting service provided by Semantic Sugar, Inc., 972 Mission St, 3rd Floor, San Francisco, CA 94103, USA; [Adroll privacy policy](https://www.adroll.com/about/privacy)
   * _SnapEngage_ , a website chat service provided by SnapEngage, LLC, 1919 14th St., Suite 505, Boulder, CO 80302, USA; [Snapengage privacy policy](http://snapengage.com/privacy-policy/)
 
@@ -36,7 +38,7 @@ These services use ‘cookies’, which are text files placed on your computer, 
 
 You can learn about the privacy policies and configuration options for protecting your privacy via the abovementioned links.
 
-You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. In order to opt out of targeted ads via Adroll, you can visit the [Adroll website](https://www.adroll.com/about/privacy). By using this website, you consent to the processing of data about you by the service providers in the manner and for the purposes set out above.
+You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. In order to opt out of targeted ads via Adroll, you can visit the [Adroll website](https://www.adroll.com/about/privacy). In order to opt out of split tests via Visual Website Optimizer, you can visit the [Visual Website Optimizer website](https://vwo.com/opt-out/). By using this website, you consent to the processing of data about you by the service providers in the manner and for the purposes set out above.
 
 ## Social networks
 
