@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virantee.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617020516id_/http%3A//virantee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virantee.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915141857id_/http%3A//virantee.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - VIRANTEE
 
