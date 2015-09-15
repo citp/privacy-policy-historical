@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lookbookstore.co privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315054403id_/http%3A//www.lookbookstore.co/pages/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lookbookstore.co privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915040134id_/http%3A//lookbookstore.co/pages/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security | Lookbook Store
 
@@ -57,8 +57,8 @@ Upon your request, we will
 
 
 
-You can make these requests by livechat, or emailing your request to Lookbook Store’s Customer Support department at [support@lookbookstore.com](https://web.archive.org/web/20150315054403id_/http%3A//www.lookbookstore.co/pages/support@lookbookstore.com). Please do not email your credit card number or other sensitive information.  
-If you no longer wish to receive the Company's promotional communications, you may "opt-out" of receiving them by following the instructions included in each communication or by e-mailing the Company at [support@lookbookstore.com](https://web.archive.org/web/20150315054403id_/http%3A//www.lookbookstore.co/pages/support@lookbookstore.com)
+You can make these requests by livechat, or emailing your request to Lookbook Store’s Customer Support department at [support@lookbookstore.com](https://web.archive.org/web/20150915040134id_/http%3A//lookbookstore.co/pages/support@lookbookstore.com). Please do not email your credit card number or other sensitive information.  
+If you no longer wish to receive the Company's promotional communications, you may "opt-out" of receiving them by following the instructions included in each communication or by e-mailing the Company at [support@lookbookstore.com](https://web.archive.org/web/20150915040134id_/http%3A//lookbookstore.co/pages/support@lookbookstore.com)
 
 **Changes to Our Privacy Statement**
 
