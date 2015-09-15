@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the comindware.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227144322id_/http%3A//www.comindware.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comindware.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915194106id_/https%3A//www.comindware.com/privacy) for the most accurate reproduction.*
 
-# Comindware Privacy Policy - Comindware
-
-Comindware Privacy Policy
+# Comindware Privacy Policy
 
 #### Collection of personal information
 
-We collect information in different ways. It may be registration forms, contact form, polls where we directly ask you to provide us with your personal information, as well as visitor behavior on our website [www.comindware.com](http://www.comindware.com/) that we collect through cookies. By submitting a form you accept the Comindware privacy policy and confirm that the information you give us is true and up-to-date. 
+We collect information in different ways. It may be registration forms, contact form, polls where we directly ask you to provide us with your personal information, as well as visitor behavior on our website [www.comindware.com](https://www.comindware.com/) that we collect through cookies. By submitting a form you accept the Comindware privacy policy and confirm that the information you give us is true and up-to-date. 
 
 > _We ask you to provide us with information about you on some pages of our website. It’s important to us that you feel comfortable and safe when sharing your personal information with us. Comindware privacy policy informs you of how we collect, proceed and protect your personal data._
 
@@ -31,4 +29,4 @@ You have the ability to accept or decline cookies by modifying the settings in y
 
 #### Data removal
 
-We collect all the information to satisfy better your needs, so we strongly believe that all the information you get from Comindware and our partners is relevant to what you want and look for. Yet, in case you don’t want to get information from us or our partners anymore, you can write to us through the [contact us](http://www.comindware.com/company/contact-us/) form at any moment and we will take your personal data off our database. If you have any questions about your data collecting, keeping and processing, don’t hesitate to ask through the [contact us](http://www.comindware.com/company/contact-us/) form as well. 
+We collect all the information to satisfy better your needs, so we strongly believe that all the information you get from Comindware and our partners is relevant to what you want and look for. Yet, in case you don’t want to get information from us or our partners anymore, you can write to us through the [contact us](https://web.archive.org/company/contact-us/) form at any moment and we will take your personal data off our database. If you have any questions about your data collecting, keeping and processing, don’t hesitate to ask through the [contact us](https://web.archive.org/company/contact-us/) form as well. 
