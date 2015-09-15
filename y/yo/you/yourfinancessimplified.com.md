@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the yourfinancessimplified.com privacy policy that was archived on 2015-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150425180737id_/http%3A//yourfinancessimplified.com/disclaimer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourfinancessimplified.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915094135id_/https%3A//yourfinancessimplified.com/disclaimer/privacy) for the most accurate reproduction.*
 
 # Privacy - Your Finances Simplified
 
-#### Privacy Policy for **http://yourfinancessimplified.com**
+#### Privacy Policy for **https://yourfinancessimplified.com**
 
-The privacy of our visitors to **http://yourfinancessimplified.com** is important to us.
+The privacy of our visitors to **https://yourfinancessimplified.com** is important to us.
 
-At **http://yourfinancessimplified.com** , we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit **http://yourfinancessimplified.com** , and how we safeguard your information. We never sell your personal information to third parties.
+At **https://yourfinancessimplified.com** , we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit **https://yourfinancessimplified.com** , and how we safeguard your information. We never sell your personal information to third parties.
 
 #### **Log Files**
 
@@ -16,7 +16,7 @@ As with most other websites, we collect and use the data contained in log files.
 
 We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
 
-We also use third party advertisements on **http://yourfinancessimplified.com** to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+We also use third party advertisements on **https://yourfinancessimplified.com** to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
 #### **DoubleClick DART cookies**
 
