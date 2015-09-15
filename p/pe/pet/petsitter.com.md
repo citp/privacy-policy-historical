@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the petsitter.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531001756id_/http%3A//petsitter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petsitter.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915054615id_/http%3A//petsitter.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-* * *
 
 This application (hereinafter “Application”) collects some Personal Data from its Users.   
 The Data are collected and processed for the purposes set out below. 
