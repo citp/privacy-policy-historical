@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tinypulse.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317103012id_/https%3A//www.tinypulse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinypulse.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915140252id_/https%3A//www.tinypulse.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TINYpulse
+# Our Privacy Policy | TINYpulse
 
 **Last updated: March 17, 2014**
 
