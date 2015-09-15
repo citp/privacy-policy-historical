@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the delightedapp.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315023257id_/https%3A//delighted.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delightedapp.com privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916005500id_/https%3A//delighted.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Delighted
 
@@ -6,7 +6,7 @@
 
 We collect information from you when you register on our site, place an order, subscribe to our newsletter or respond to a survey.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, email address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
 ## What do we use your information for?
 
@@ -77,8 +77,8 @@ If we decide to change our Privacy Policy, we will post those changes on this pa
 If there are any questions regarding this Privacy Policy you may contact us using the information below.
 
 Delighted Inc.  
-2555 Park Boulevard, Suite 32  
-Palo Alto, CA 94306  
+1027 Alma Street, Suite B  
+Palo Alto, CA 94301  
 USA 
 
 [privacy@delighted.com](mailto:privacy@delighted.com)
