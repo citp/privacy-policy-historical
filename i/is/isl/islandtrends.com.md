@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the islandtrends.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612085645id_/http%3A//www.islandtrends.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the islandtrends.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915114648id_/http%3A//www.islandtrends.com/privacypolicy) for the most accurate reproduction.*
 
-# Island Trends - Robert Graham - FitFlop - FitFlops - Tommy Bahama
+# Island Trends - Upscale Fashion, Swimwear, Shoes and Sandals for Men and Women
 
 ## CONTACT US FOR ASSISTANCE
 
