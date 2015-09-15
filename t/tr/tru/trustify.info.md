@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the trustify.info privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521011936id_/http%3A//www.trustify.info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustify.info privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915072820id_/https%3A//www.trustify.info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## Trustify, Inc.
-
 Effective date: March 20, 2015
 
-Trustify, Inc. (the “Company”, “Trustify” “we”, or “us”) maintains strong privacy protections and takes your privacy seriously. Our Privacy Policy helps you understand how we collect, use, disclose, and safeguard the information you provide to us and to assist you in making informed decisions when using our Service. This Privacy Policy covers both our web and mobile application services.
+Trustify (the “Company”, “Trustify” “we”, or “us”) maintains strong privacy protections and takes your privacy seriously. Our Privacy Policy helps you understand how we collect, use, disclose, and safeguard the information you provide to us and to assist you in making informed decisions when using our Service. This Privacy Policy covers both our web and mobile application services.
 
 For purposes of this Privacy Policy, “Service” refers to the Company’s service, which enables you to connect with and hire a Private Investigator (“PI”). Information about our service can be obtained at [www.Trustify.](http://www.flimflam.com/)info. We reserve the right to offer you new products, offerings, tools, and services in the future. We will never sell, exchange, trade or share your personally identifiable information with another individual or company (“third party”) without your prior written and explicit informed consent .
 
 By using our service or by otherwise providing information to us, you agree to the terms of this Privacy Policy. If you do not agree with the terms of this Privacy Policy, please discontinue using the service and do not give us any of your information. Please also review our Terms and Conditions, which apply to our website and mobile application.
 
-INFORMATION WE COLLECT
+**INFORMATION WE COLLECT**
 
 We collect information you provide to us through the website or the mobile application. We collect some Non-Personal Information and Personally Identifiable Information (“Personal Information”) each time you access the website or mobile application. Non-Personal Information includes information that cannot be used to personally identify you, such as anonymous usage data, your internet service provider, the browser you use, general demographic information, referring/exit pages and URLs, preferences you submit and preferences that are generated based on the data you submit and number of clicks you make as you navigate the website or mobile application. Personal Information includes any information that can be used to identify you such as your name, address, and email address.
 
@@ -28,7 +26,7 @@ In an effort to improve the quality of the Service, we track information provide
 
 We may use cookies and other tracking methods such as beacons, tags, and scripts in order to track the user’s browsing throughout the website, analyze usage, and trends, and collect demographic information about the users of the website. The website may also record the IP address from which you access the site.
 
-HOW WE USE AND SHARE INFORMATION
+**HOW WE USE AND SHARE INFORMATION**
 
 Personal Information Provided on the Website or Mobile Application:
 
@@ -40,29 +38,29 @@ Non-Personal Information
 
 We may use Non-Personal Information to improve the Service or customize the user experience. We may also aggregate Non-Personal Information from all or some customers in order to track trends and analyze use patterns on the Site and of our service. This Privacy Policy does not limit in any way our use or disclosure of Non-Personal Information and we reserve the right to use and disclose such Non-Personal Information to our partners, advertisers and other third parties at our discretion.
 
-HOW WE PROTECT YOUR INFORMATION
+**HOW WE PROTECT YOUR INFORMATION**
 
 We seek to protect your information from potential security breaches by employing security practices such as encryption, firewalls and SSL (Secure Socket Layers), both during transmission of the information and while we store it. We store all our information using secure databases provided by Amazon Web Services (the “Amazon cloud”). However, no measures taken can guarantee the absolute security of your Personal Information and we cannot guarantee that your information will not be accessed, disclosed, altered or destroyed by breach of the Service and our system’s security measures. By using our Service, you acknowledge that you understand and agree to assume these risks.
 
-YOUR RIGHTS
+**YOUR RIGHTS**
 
 Please contact the Company at the email address provided below if you wish to obtain a copy of the Personal Information we have about you, if you need to correct any information – Non-Personal or Personal previously collected – or if you would like to terminate the account you created through the Website. We will make good faith efforts to correct any information you wish for us to correct as soon as is reasonably practicable. Otherwise, we will retain your Personal Information per the terms of the Privacy Policy and as necessary to comply with any existing legal obligation or agreement.
 
-MISCELLANEOUS PROVISIONS
+**MISCELLANEOUS PROVISIONS**
 
 COPPA Disclosure.  Pursuant to the Children’s Online Privacy Protection Act (COPPA), this Service is not directed at individuals younger than 18 years of age. Therefore, no one under 18 is allowed to register for our Service. We do not knowingly collect personal information from anyone under the age of 18.
 
 CalOPPA Disclosures. Pursuant to the California Online Privacy Protection Act (“CalOPPA”), this Service does not permit third parties to track users and collect information concerning their activities on our website or mobile application. This Service was not built with the capability to recognize and comport with a user’s Do Not Track election regarding third party tracking on and across first party websites.
 
-LINKS TO OTHER WEBSITES AND SOCIAL MEDIA
+**LINKS TO OTHER WEBSITES AND SOCIAL MEDIA**
 
 As part of the Service, we may provide links to or compatibility with other websites or applications. However, we are not responsible for the privacy practices employed by those websites or the information or content they contain. This Privacy Policy applies solely to information collected by us through the website and the Service. Therefore, this Privacy Policy does not apply to your use of a third party website accessed by clicking a link from our website. To the extent that you access or use the Service through or on another website or application, then the privacy policy of that other website or application will apply to your access or use of that site or application. The same also applies to clicking on any social media features appearing on the website, such as a Facebook “like” button or a Twitter button. The social media features and widgets are governed by the relevant social media company’s privacy policy. By clicking on social media buttons provided on the Website, you acknowledge that they may collect information about you pursuant to their privacy policies.
 
-CHANGES TO OUR PRIVACY POLICY
+**CHANGES TO OUR PRIVACY POLICY**
 
 The Company reserves the right to change this policy and our Terms of Service at any time. We will notify you of significant or material changes to our Privacy Policy by sending a notice to the primary email address specified in your account or by placing a prominent notice on our site. Significant or material changes will go into effect thirty (30) days following such notification. Non-material changes or clarifications will take effect immediately. You should periodically check the Site and this privacy page for updates.
 
-CONTACT US
+**CONTACT US**
 
 If you have any questions regarding this Privacy Policy or the practices of this website, please contact us by sending an email to privacy@Trustify.info or calling (202) 660-1559.
 
