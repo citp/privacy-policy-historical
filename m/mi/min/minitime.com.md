@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minitime.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511233858id_/http%3A//www.minitime.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minitime.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915155525id_/http%3A//www.minitime.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MiniTime
 
