@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the upwork.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628230135id_/https%3A//www.upwork.com/info/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upwork.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915060118id_/https%3A//www.upwork.com/info/terms/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[](https://privacy.truste.com/privacy-seal/Elance-oDesk,-Inc-/validation?rid=332b54d8-153e-42eb-8aa3-3a1f7fd1c009 "TRUSTe European Safe Harbor certification")
-
-Effective Date: May 5, 2015
 
 Upwork Global Inc. (“Upwork”) provides this Privacy Policy to let you know our policies and procedures regarding the collection, use and disclosure of information through [www.upwork.com](http://www.upwork.com/) (the “Site”), and any other websites, features, applications, widgets or online services that are owned or controlled by Upwork and that post a link to this Privacy Policy (together with the Site, the “Service”), as well as any information Upwork collects offline in connection with the Service.  **Note that we combine the information we collect from you from the Site, through the Service generally, or offline.**
 
@@ -16,64 +12,13 @@ Please note that the TRUSTe Privacy Program covers [www.upwork.com](http://www.u
 
 By accessing or using the Service, you consent to the information collection, disclosure and use practices described in this Privacy Policy.  Please note that certain features or services referenced in this Privacy Policy may not be offered on the Service at all times.  Please also review our **Terms of Service,** which governs your use of the Service, and which is accessible at [**https://www.upwork.com/info/terms/**](https://www.upwork.com/info/terms/).
 
-## TABLE OF CONTENTS
-
-  1. **Information Collection**
-    * **Information You Provide to Us**
-      * **Personal Information**
-      * **Payment Information**
-      * **Identity Verification**
-      * **General Audience Service**
-      * **Non-Identifying Information**
-      * **Combination of Personal and Non-Identifying Information**
-    * **Information Received from Third Parties**
-    * **Information Collected from Users Automatically**
-      * **Cookies**
-      * **Web Beacons**
-      * **Embedded Scripts**
-    * **How We Respond to Do Not Track Signals**
-    * **Work Diaries**
-    * **User Profiles**
-    * **Community Forums**
-    * **Work Listings Through the Service**
-    * **Feedback**
-    * **Email to Friends and Referral Program**
-    * **Social Networking Services**
-  2. **Use and Retention of Information**
-  3. **Information Sharing and Disclosure**
-    * **Information about Freelancers Shared with Clients and Agencies or Teams**
-    * **Service Providers**
-    * **What Happens if You Agree to Receive Information from Third Parties or Request That We Share Your Information**
-    * **Legal and Investigative Purposes**
-    * **Internal and Business Transfers**
-    * **Sweepstakes, Contests and Promotions**
-  4. **Third Party Analytics Providers, Ad Servers and Similar Third Parties**
-  5. **Your Choices and Opting Out**
-  6. **Changing Your Information or Closing Your Account**
-  7. **Security**
-  8. **International Transfers of Personal Information**
-  9. **Links to Other Sites**
-  10. **Phishing**
-  11. **California Residents – Your California Privacy Rights**
-  12. **Changes to this Policy**
-  13. **Contacting Us**
-
-
-
 ## 1\. INFORMATION COLLECTION 
 
 Users of the Service may be **Clients** (anyone utilizing the Upwork platform to request services to be performed by a Freelancer) or **Freelancers** (any company, individual user, or groups of associated individual users or companies utilizing the Upwork platform to offer services to Clients). Freelancers may also operate as an **Agency** (a legally recognized entity with the ability to hire and/or contract) with other Freelancers.  
 
 **_Information You Provide to Us_ **
 
-  * **Personal Information:** In the course of using the Service (whether as a Client or Freelancer), we may require or otherwise collect information that identifies you as a specific individual and can be used to contact or identify you (“Personal Information”). Examples of Personal Information include your name, email address, postal address and phone number.   
-  * **Payment Information:** If you use the Service to make or receive payments, we will also collect certain payment information, such as credit card, PayPal or other financial account information, and billing address. 
-  * **Identity Verification:** We may collect Personal Information, such as your date of birth, or taxpayer identification number, to validate your identity or as may be required by law, such as to complete tax filings. We may request documents to verify this information, such as a copy of your government-issued identification or photo or a billing statement. 
-  * **General Audience Service:** The Service is general audience and intended for users 18 and older.  We do not knowingly collect Personal Information from anyone younger than age 18. If we become aware that a child younger than 18 has provided us with Personal Information, we will use commercially reasonable efforts to delete such information from our files. If you are the parent or legal guardian of a child younger than age 18 and believe that Upwork has collected Personal Information from your child, please contact us at: [legal@upwork.com](mailto:legal@elance-upwork.com). 
-  * **Non-Identifying Information/Usernames:** We also may collect other information, such as zip codes, demographic data, information regarding your use of the Service, and general project-related data (“Non-Identifying Information”). We may aggregate information collected from Upwork registered and non-registered users (“ **Upwork Users** ”). We consider usernames to be Non-Identifying Information.  Usernames are made public through the Service and are viewable by other Upwork Users. 
-  * **Combination of Personal and Non-Identifying Information:** Certain Non-Identifying Information would be considered a part of your Personal Information if it were combined with other identifiers in a way that enables you to be identified (for example, combining information with your name). But the same pieces of information are considered Non-Identifying Information when they are taken alone or combined only with other non-identifying information (for example, your viewing preferences). We may combine your Personal Information with Non-Identifying Information, but Upwork will treat the combined information as Personal Information. 
-
-**_Information Received from Third Parties_**
+**_Information Received from Third Parties_ **
 
 We also may receive information about you from third parties. For example, we may supplement the information we collect with outside records or third parties may provide information in connection with a co-marketing agreement or at your request (such as if you choose to sign in with a third-party service).  If we combine the information we receive from others with information we collect through the Service, we will treat the combined information as described in this Privacy Policy.
 
@@ -83,21 +28,27 @@ We and our third party service providers, including analytics and third party co
 
 The information we collect also includes the Internet Protocol (“IP”) address or other unique device identifier (“Device Identifier”) for any device (computer, mobile phone, tablet, etc.) used to access the Service. A Device Identifier is a number that is automatically assigned or connected to the device you use to access the Service, and our servers identify your device by its Device Identifier.  Some mobile service providers may also provide us or our third party service providers with information regarding the physical location of the device used to access the Service.
 
-The technology used to collect information automatically from Upwork Users may include the following: 
+**_The technology used to collect information automatically from Upwork Users may include the following:_**
 
-**Cookies:** Like many websites, we and our marketing partners, affiliates, analytics, and service providers use “cookies” to collect information. A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes. We use both persistent cookies that remain on your computer or similar device (such as to save your registration ID and login password for future logins to the Service and to track your compliance with any Upwork applicable policies) and session ID cookies, which expire at the end of your browser session (for example, to enable certain features of the Service, to better understand how Upwork Users interact with the Service and to monitor aggregate usage by Upwork Users and web traffic routing on the Service). You may be able to instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all functionality of the Service.
+  * **Cookies:** Like many websites, we and our marketing partners, affiliates, analytics, and service providers use “cookies” to collect information. A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes. We use both persistent cookies that remain on your computer or similar device (such as to save your registration ID and login password for future logins to the Service and to track your compliance with any Upwork applicable policies) and session ID cookies, which expire at the end of your browser session (for example, to enable certain features of the Service, to better understand how Upwork Users interact with the Service and to monitor aggregate usage by Upwork Users and web traffic routing on the Service). You may be able to instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all functionality of the Service.
 
-Certain web browsers and certain browser add-ons such as Adobe Flash may provide additional data storage mechanisms that are used in a manner similar to cookies, and some of the content included on our Sites may make use of this type of storage.  For example, a Flash cookie is a data file placed on a device via the Adobe Flash plugin that may be built-in to or downloaded by you to your device. For more information about Flash and the privacy choices Adobe offers, visit [link](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html). 
+
+
+
+Certain web browsers and certain browser add-ons such as Adobe Flash may provide additional data storage mechanisms that are used in a manner similar to cookies, and some of the content included on our Sites may make use of this type of storage.  For example, a Flash cookie is a data file placed on a device via the Adobe Flash plugin that may be built-in to or downloaded by you to your device. For more information about Flash and the privacy choices Adobe offers, visit [link](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html).
 
 For further information on cookies and how they are used for the Service, please visit our Cookie Policy at <https://www.upwork.com/info/terms/cookie-policy/>. 
 
-**Web Beacons:   **We and our marketing partners, affiliates, analytics, and service providers may also employ software technology known as “web beacons” or “tracking tags” to help us keep track of what content on our Sites is effective and to serve relevant advertising to you. Web beacons are small graphics with a unique identifier that may be invisible to you, and which are used to track the online activity of Internet users. Web beacons are embedded in the web pages you review or email messages you receive. Web beacons or similar technologies may be used for a number of purposes, including, without limitation, to count visitors to our Service, to monitor how Upwork Users navigate the Service, to count how many emails that were sent were actually opened, or to count how many particular articles or links were actually viewed.
+  * **Web Beacons:   **We and our marketing partners, affiliates, analytics, and service providers may also employ software technology known as “web beacons” or “tracking tags” to help us keep track of what content on our Sites is effective and to serve relevant advertising to you. Web beacons are small graphics with a unique identifier that may be invisible to you, and which are used to track the online activity of Internet users. Web beacons are embedded in the web pages you review or email messages you receive. Web beacons or similar technologies may be used for a number of purposes, including, without limitation, to count visitors to our Service, to monitor how Upwork Users navigate the Service, to count how many emails that were sent were actually opened, or to count how many particular articles or links were actually viewed.
 
-**Embedded Scripts:**   An Embedded Script is programming code that is designed to collect information about your interactions with the Service, such as the links you click on.  The code is temporarily downloaded onto your computer or other device and is deactivated or deleted when you disconnect from the Service.
+  * **Embedded Scripts:**   An Embedded Script is programming code that is designed to collect information about your interactions with the Service, such as the links you click on.  The code is temporarily downloaded onto your computer or other device and is deactivated or deleted when you disconnect from the Service.
+
+
+
 
 In addition, we may use a variety of other technologies that collect similar information for security and fraud detection purposes and we may use third parties to perform these services on our behalf.
 
-**_How We Respond To Do Not Track Signals_**
+## HOW WE RESPOND TO DO NOT TRACK SIGNALS
 
 Please note that your browser setting may allow you to automatically transmit a “Do Not Track” signal to websites and online service you visit.  There is no consensus among industry participants as to what “Do Not Track” means in this context.  Like many websites and online services, Upwork does not alter its practices when it receives a “Do Not Track” signal from a visitor’s browser.  To find out more about “Do Not Track,” please visit [http://www.allaboutdnt.com](http://www.allaboutdnt.com/). 
 
@@ -203,7 +154,7 @@ Phishing websites imitate legitimate websites in order to obtain personal or fin
 
 Pursuant to California Civil Code Section 1798.83, California residents who provide us with personal information in obtaining products or services for personal, family, or household use are entitled to request and obtain from us, one time per calendar year, information about the customer information we shared, if any, with other businesses for their own direct marketing uses. Alternatively, the law provides that a company may comply, as Upwork does, by disclosing in its privacy policy that it provides consumers choice (opt-in or opt-out) regarding sharing Personal Information with third parties for those third parties’ direct marketing purposes, and information on how to exercise that choice. As stated above in this Privacy Policy,  Upwork provides you choice prior to sharing your personal information with third parties for their direct marketing purposes. If you do not opt-in or if you choose to opt-out at the time Upwork offers that choice, Upwork does not share your information with that identified third party for its direct marketing purposes.
 
-If you are a California resident and you have questions about our practices with respect to sharing information with third parties for their direct marketing purposes and your ability to exercise choice, please send your request to the following email address: [legal@upwork.com](mailto:legal@elance-upwork.com) or write to us at the following mailing address:
+If you are a California resident and you have questions about our practices with respect to sharing information with third parties for their direct marketing purposes and your ability to exercise choice, please send your request to the following email address: [legal@upwork.com](mailto:legal@upwork.com) or write to us at the following mailing address:
 
 Upwork  
 Attn: Legal  
