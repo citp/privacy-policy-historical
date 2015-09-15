@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the byregina.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315010126id_/http%3A//byregina.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the byregina.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915054434id_/http%3A//byregina.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - by Regina [for bloggers + freelancers + creative businesses]
+# by Regina [for infopreneurs + independents]
 
-This Privacy Policy governs the manner in which Anjou Consulting, Ltd. Co. (parent brand of byRegina.com) collects, uses, maintains, and discloses information collected from users (each, a “User”) of the http://www.byRegina.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Anjou Consulting, Ltd. Co.
+This Privacy Policy governs the manner in which byRegina[dot]com, LLC collects, uses, maintains, and discloses information collected from users (each, a “User”) of the http://www.byRegina.com website (“Site”). This privacy policy applies to the Site and all products and services offered by byRegina[dot]com, LLC through this site.
 
 ### Personal identification information
 
@@ -18,7 +18,7 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 ### How we use collected information
 
-Anjou Consulting, Ltd. Co. may collect and use Users personal information for the following purposes:
+byRegina[dot]com, LLC may collect and use Users personal information for the following purposes:
 
   * **To improve customer service.** Information you provide helps us respond to your customer service requests and support needs more efficiently.
   * **To personalize user experience.** We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
@@ -49,7 +49,7 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 ### Changes to this privacy policy
 
-Anjou Consulting, Ltd. Co. has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+byRegina[dot]com, LLC has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 ### Your acceptance of these terms
 
@@ -58,15 +58,14 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 ### Contacting us
 
 **If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:**  
-Anjou Consulting, Ltd. Co.
-
-http://www.byregina.com
-
-P.O. Box 12755  
-Austin, TX 78711  
+byRegina[dot]com, LLC  
+http://www.byregina.com  
+3310 W. Braker Lane  
+Bldg. 2, Ste. 300-722  
+Austin, TX 78758  
 512.200.2009  
-privacy@anjouconsulting.com
+privacy@byRegina.com
 
-This document was last updated on March 3, 2014
+This document was last updated on July 8, 2015.
 
 _Privacy policy created by http://www.generateprivacypolicy.com_
