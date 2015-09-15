@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetrackernetwork.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617070916id_/http%3A//thetrackernetwork.com/home/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetrackernetwork.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915165646id_/http%3A//thetrackernetwork.com/home/privacypolicy) for the most accurate reproduction.*
 
 # The Tracker Network The Tracker Network Privacy Policy
 
