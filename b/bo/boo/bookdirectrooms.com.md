@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookdirectrooms.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704190654id_/http%3A//www.bookdirectrooms.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookdirectrooms.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915205009id_/http%3A//www.bookdirectrooms.com/Privacy) for the most accurate reproduction.*
 
 # Privacy And Security - BookDirectRooms.com
 
@@ -72,7 +72,7 @@ We do our best to ensure that all information held relating to you is kept up-to
 
 Data populated by you (including your personal details entered in any fields) is your sole responsibility and any changes to any aspect of your personal data should be updated directly by you.
 
-If you have any questions or comments about our Privacy Policy, please contact us on info@eviivo.com and we will endeavour to respond as soon as possible. All of our processes and data storage methods have been approved by the Information Commissioner’s Office ( www.informationcommissioner.gov.uk ) and our registration number is Z1431368.
+If you have any questions or comments about our Privacy Policy, please contact us on reservations@eviivo.com and we will endeavour to respond as soon as possible. All of our processes and data storage methods have been approved by the Information Commissioner’s Office ( www.informationcommissioner.gov.uk ) and our registration number is Z1431368.
 
 ### 9\. Cookies and other non-personal information
 
@@ -84,20 +84,20 @@ We may use third-party advertising companies to serve ads on our behalf. These c
 
 ### 10\. Complaints procedure
 
-If you wish to make a complaint about eviivo, our services or any associated matter, you may contact us by telephone, email, letter or fax. We do not require complaints to be in writing. Wherever possible, complaints will be dealt with promptly, and you will receive a response within14 working days.
+If you wish to make a complaint about eviivo, our services or any associated matter, you may contact us by telephone, email, letter or fax. We do not require complaints to be in writing. Wherever possible, complaints will be dealt with promptly, and you will receive a response within 14 working days.
 
-If you are dissatisfied with the outcome of your complaint, you may choose to escalate the complaint internally by contacting our Customer Support Manager, info@eviivo.com. A response to an escalated complaint will also be made within 7 working days.
+ Please email to: reservations@eviivo.com including the word ‘Complaint’ in the subject line. Alternatively, You may write to us at the following address: Guest Support, The Grimaldi Building, 154 Pentonville Road, London, N1 9JE.
 
 ### 11\. Company details
 
   
 
 
-### Eviivo Limited
+### eviivo Limited
 
  **Registered Office:** The Grimaldi Building, 154 Pentonville Road, London, N1 9JE
 
- **E-mail:** info@eviivo.com
+ **E-mail:** reservations@eviivo.com
 
- **Telephone:** +44 (0)844 880 3000  
- **Fax:** +44 (0)844 880 3000
+ **Telephone:** +44 (0) 203 103 3504  
+
