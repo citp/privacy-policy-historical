@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the physioroom.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628235714id_/http%3A//www.physioroom.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the physioroom.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915042326id_/http%3A//www.physioroom.com/help/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - PhysioRoom.com
 
