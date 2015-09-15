@@ -1,94 +1,78 @@
-> *The following text is extracted and transformed from the jt.org privacy policy that was archived on 2008-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081026075146id_/http%3A//jt.org/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jt.org privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915092756id_/http%3A//www.jt.org/privacy-policy-.html) for the most accurate reproduction.*
 
-# Welcome to jt.org
+# Privacy Policy | 855-295-3892 Privacy Information from Comcast
 
-Why A Privacy Statement?
+_Please note that from time to time we may review and modify our Privacy Policy. As your visits to the Site will be subject to the Privacy Policy in effect at the time of your visit, please review this Privacy Policy regularly to ensure that you are aware of any modifications._
 
-We respect your individual privacy. That is why we have adopted this Privacy Statement, which embodies our commitment to the protection of your privacy through adherence to fair electronic information practices. This Privacy Statement puts you, the individual, in control of how your personal information is processed, and you have our promise that we will not electronically process your personal information in any way that is incompatible with this Privacy Statement. This Privacy Statement protects your privacy by:
+This policy is effective as of and was last updated on January 12, 2013.
 
-informing you about-
+  1. **General**  
+This privacy policy ("Privacy Policy") is designed to inform you about the type of information that Qology Direct ("Company", "we," "our" or "us") may gather about or collect from you in connection with your use of Qology Direct (this "Site"). It also is intended to explain the conditions under which we use and disclose that information, and your rights in relation to that information.
+  2. **Children**  
+This Site is not intended for children under 18 years of age. We do not knowingly collect personal information from children under 18.
+  3. **Gathering, Use and Disclosure of Non-Personally-Identifying Information** We collect both Non-Personally-Identifying Information and Personally-Identifying Information from you. "Non-Personally-Identifying Information" is information that, without the aid of additional information, cannot be directly associated with a specific person or entity. "Personally-Identifying Information," by contrast, is information such as a name or email address that, without more, can be directly associated with a specific person or entity.
+    1. **_Gathering Non-Personally-Identifying Information_**
+      1. **_Web Browsers_**  
+Like most site operators, we gather from you Non-Personally-Identifying Information of the sort that web browsers, depending on their settings, may make available. That information includes your Internet Protocol ("IP") address, operating system and browser type, and the locations of the web pages that you view right before arriving at, while navigating and immediately after leaving this Site. 
+      2. **_Web Cookies_**  
+A **"Web Cookie"** is a string of information that a site stores on your computer, and that your browser provides to this Site each time you submit a query to this site. We use Web Cookies to track the pages that you visit during each Site session, both to help us improve your experiences with this Site and to help us understand how this Site is being used.  
+IF YOU DO NOT WISH TO HAVE WEB COOKIES PLACED ON YOUR COMPUTER, YOU SHOULD SET YOUR BROWSER TO REFUSE WEB COOKIES BEFORE ACCESSING THIS SITE, WITH THE UNDERSTANDING THAT CERTAIN FEATURES OF THIS SITE MAY NOT FUNCTION PROPERLY WITHOUT THE AID OF WEB COOKIES. IF YOU REFUSE WEB COOKIES, YOU ASSUME ALL RESPONSIBILITY FOR ANY RESULTING LOSS OF FUNCTIONALITY. 
+      3. **_Google Interest Based Advertising Program_**  
+In order to enhance your experience when you visit our website, we participate in the Google Interest-based Advertising Program (the "Program") to insure that the advertisements on our website correspond to your interests. We do this by working with Google and other Program participants who, like us, place ads on our website and those of other Program Participants. We then share the information we collect using cookies placed in your browser in order to provide you with targeted advertising when you visit our websites. You may opt out of Google's use of cookies by visiting the Google Advertising Opt Out Page: <http://www.google.com/privacy_ads.html>  
 
-  * the types of personal information JT.ORG collects about you through its Web sites;
-  * how it collects that information;
-  * the general purposes for which it collects such information;
-  * the types of organizations to which it discloses the information;
-  * the choices and means by which individuals may limit its use and disclosure.
+      4. **_Web Beacons_**  
+A **"Web Beacon"** is an object that is embedded in a web page. It is usually invisible to you but allows site operators to check whether you have viewed a particular web page or email communication. We may occasionally place Web Beacons on pages of this Site. You may not decline Web Beacons. However, they may be rendered ineffective by declining all cookies or modifying your browser setting to notify you each time a cookie is tendered and permit you to accept or decline cookies on an individual basis.
+    2. **_Use of Non-Personally-Identifying Information_**  
+We analyze Non-Personally-Identifying Information gathered from you to help us better understand how this Site is being used. By identifying patterns and trends in usage, we are able to better design this Site to improve your experiences, both in terms of content and ease of use. We link information gathered using Web Cookies and Web Beacons to Personally-Identifying Information.
+    3. **_Disclosure of Non-Personally-Identifying Information_**  
+From time to time, we may also release the Non-Personally-Identifying Information gathered from you in the aggregate, such as by publishing a report on trends in the usage of this Site.
+  4. **_Collection, Use and Disclosure of Personally-Identifying Information_**  
+As defined above, Personally-Identifying Information is information that can be directly associated with a specific person or entity. We will only collect Personally-Identifying Information that you knowingly submit to us. We will not disclose Personally-Identifying Information to third parties, except under the limited circumstances described below.
+    1. **_Registration and Other Information Provided to Us_**  
+When you register with this Site, you may be asked to disclose Personally-Identifying Information. You may also choose to submit Personally-Identifying Information to us when you send us an email. You acknowledge and agree that we may use and store information about you in accordance with our Privacy Policy. We may also process and store your Personal Information on a server located outside of your jurisdiction. By providing your Personal Information to us, you consent to the transfer of your information across national boundaries. If you do not consent to such transfer as well as the processing and storage of your Personal Information outside your jurisdiction, you should not provide Personal Information to us.  
+We use your Personally-Identifying Information to perform transactions, deliver services or information you have requested, and offer you products and services offered by us and our trusted partners, that we believe may be of interest to you. We also use your information to contact you when necessary for customer service purposes. We may send you direct mailings or contact you by telephone about our various products and services or other products and services we feel may be of interest to you. If you do not want to receive such mailings, simply "opt-out" by the means provided for in the mailings or by contacting privacy@qologydirect.com.   
+We may also provide your Personally-Identifying Information, other than your credit card number, to third parties so that they may contact you by telephone or direct mail about their products or services. If you do not wish to have your Personally-Identifying Information shared with such third parties, please contact us at privacy@qologydirect.com.
+
+**When you order products or services from us or register with this Site, we may collect your:**  
+Â§ Name  
+Â§ Mailing and billing address  
+Â§ E-mail address  
+Â§ Phone number  
+Â§ Credit card number and expiration date  
+Â§ Social Security Number  
+We use 128-bit SSL encryption to securely and automatically accept, process and manage online payments as well as to collect and store the Personal Information you provide to us. When you order products or services or provide us with information, you will be transferred to a secure server where this information is stored and managed. All of the Personal Information you provide is encrypted before it is sent to us.
+
+  
+
+    1. **_Surveys_**  
+From time to time, we may also ask you to participate in surveys designed to help us improve this Site. Any Personally-Identifying Information provided to us in connection with a survey will be used only in relation to that survey, and will be disclosed to third parties not bound by this Privacy Policy only in non-personally-identifying, aggregated form.  
+
+    2. **_Other Disclosures_**  
+Notwithstanding any other provision in this Privacy Policy, we will disclose Personally-Identifying Information in the following limited circumstances:  
+
+      1. **_Employees and Third Party Processors_**  
+We will disclose Personally-Identifying Information to our employees, contractors, affiliates, vendors and suppliers who process Personally-Identifying Information on our behalf or participate with us in the provision or operation of this Site.  
+
+      2. **_By Law, to Protect Rights and to Comply with Our Policies_**  
+We disclose Personally-Identifying Information if: (1) required to do so by law, or in response to a subpoena or court order; (2) we believe in our sole discretion that disclosure is reasonably necessary to protect against fraud, to protect our property or other rights, or the rights of other users, third parties or the public at large; or (3) we believe that you have abused the Site by using it to attack other systems or to gain unauthorized access to any other system, to engage in spamming or otherwise to violate applicable laws.  
+
+      3. **_Business Transfers; Bankruptcy_**  
+We reserve the right to transfer all Personally-Identifying Information in our possession to a successor organization in the event of a merger, acquisition, or bankruptcy or other transfer of all or a portion of our assets. Other than to the extent ordered by a bankruptcy or other court, the use and disclosure of all transferred Personally-Identifying Information will be subject to this Privacy Policy, or to a new privacy policy if you are given notice of that transfer Personally-Identifying Information submitted or collected after a transfer, however, may be subject to a new privacy policy adopted by the successor organization.  
+
+      4. **_Marketing_**  
+We may contact you by email or telephone about products and services that we think may be of interest to you. If you wish to opt out of receiving marketing emails from us, please follow the instructions at the bottom of each email.  
+
+    1. **_Security_**  
+We take reasonable precautions to protect the security of your information. However, neither people nor security systems are foolproof. Therefore, while we use reasonable efforts to protect your Personally-Identifying Information, we cannot guarantee its absolute security.  
+
+    2. **_Contests, Giveaways and other Promotions_**  
+From time to time, we may offer Site users the opportunity to participate in contests, giveaways and other promotions. Any information submitted in connection with promotions will be subject to the terms of the promotion, not this Privacy Policy. You will be given the option to consent to the use of your Personally-Identifying Information at the time you sign up for the promotion. However, your participation in the promotion will not be conditioned on the consent to use your Personally-Identifying Information for purposes unrelated to the promotion.
+  5. **_Collection and Use of Information by Third Parties Not Covered By This Agreement_**  
+Third parties are under no obligation to comply with this Privacy Policy with respect to Personally-Identifying Information and Non-Personally-Identifying Information that you provide directly to those third parties or that those third parties collect for themselves. We do not control third-party sites that may be accessible through this Site. Thus, this Privacy Policy does not apply to information provided to third party sites or gathered by the third parties that operate them. Before visiting a third party site, whether by means of a link on this Site or otherwise, you should review its privacy policies and terms of use.
+  6. **_For Additional Information._**  
+Qology Direct, LLC maintains this Site from its headquarters in Margate, Florida. If you have questions regarding our Privacy Policy or believe that our Privacy Policy has not been complied with respect to your Personal Information, please contact us as at privacy@qologydirect.com.
+  7. **_To Inspect, Change or Modify Your Personal Information:_**  
+Upon request, Qology Direct, LLC will provide you with a readable copy of your personal information, although we may require proof of your identity before doing so. We will also modify the information that you have provided to us. To make such a request, contact us at privacy@qologydirect.com.
+  8. **_To view our Do Not Call Policy,_**[ ** _click here_**](http://www.onlinecomcast.com/dnc-policy.aspx) ** _._**
 
 
-
-empowering you to choose-  
-
-
-  * whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and
-  * whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it).
-
-
-
-assuring you that JT.ORG-  
-
-
-  * takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction;
-  * implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered;
-  * uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and
-  * provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate.
-
-
-
-ensuring accountability to individuals who believe that JT.ORG has not complied with these privacy principles.
-
-If you have any questions regarding this Privacy Statement, please contact privacy@jt.org
-
-Getting To Know Our Customers
-
-JT.ORG is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are the Internet's leading fan site because we have taken the time to get acquainted with each one of our many customers.
-
-We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
-
-After you've signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
-
-Additionally, for operational and quality assurance purposes, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of users' access to site files. Finally, in order to provide our interactive services, such as the dot com and free mail services and various message boards, we store your messages to or from other people.
-
-The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. We also encrypt your transmission of sensitive information to us (e.g., credit card numbers, account passwords) in the interest of heightened privacy protection and information integrity.
-
-Information Corrections Or Changes
-
-You have the ability to correct or change certain information in our records, such as your address and contact information. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail.
-
-How We Put Information To Good Use
-
-We use information about you for purposes of monitoring and improving our internal operations, as well as to ensure that we: (i) bill you properly, (ii) administer your account in accordance with your agreements with us and (iii) properly perform the services you have requested.
-
-We also use the information we collect to monitor and improve our internal operations, as well as to improve the experience of users in our network of sites. For example, we may correlate Web site traffic information with data about individual users. We may also break down overall usage statistics according to customers' domain names, browser types, and MIME types by reading this information from the browser string (information contained in every user's browser).
-
-Another example of our use of information to enhance the experience of users in our network of sites is our reliance on cookie files. We use cookie files to make it easier for users to access our site or services. A cookie file is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you've visited. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above) when you register for JT.ORG services. When you register, we may use a cookie to store a unique, random user ID. We use this ID to identify you anonymously in our database and to track the pages you visit on our site.
-
-If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access.
-
-Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
-
-With Whom We May Share Information
-
-We may share certain information about you with those of our vendors who are responsible for handling your account or performing other necessary services that you require. Although we may share sensitive financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors where necessary and appropriate, we will not share such information with other third parties, except in response to formal requests (e.g., subpoena or court order) made in connection with litigation or arbitration proceedings directly relating to a domain name registration or other services we provide.
-
-Our Accountability To You
-
-By purchasing our services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Statement. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
-
-In addition to the privacy protections that we provide, our employees, agents and business partners are independently responsible for ensuring compliance with this Privacy Statement, as described below.
-
-Employee Accountability
-
-Only those JT.ORG employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by a JT.ORG employee is prohibited and constitutes grounds for disciplinary action.
-
-Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access.
-
-The Accountability of JT.ORG's Agents and Business Partners
-
-Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
-
-If you feel that JT.ORG, or any of our agents, representatives or employees, is violating this Privacy Statement, please contact us via e-mail or by postal mail at:
-
-JT.ORG   
-23425 N. 39th DR #104-199  
-GLENDALE, AZ 85310  
-USA
