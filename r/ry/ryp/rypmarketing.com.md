@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rypmarketing.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611101240id_/http%3A//www.rypmarketing.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rypmarketing.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915075817id_/http%3A//www.rypmarketing.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
