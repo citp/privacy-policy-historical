@@ -1,858 +1,1035 @@
-<!--The following is the downloaded HTML source of the mediabizbloggers.com privacy policy that was archived on 2015-04-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150407215233id_/http%3A//www.mediabizbloggers.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mediabizbloggers.com privacy policy that was archived on 2015-09-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150915093858id_/https%3A//www.mediavillage.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+<!DOCTYPE html><html><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# ">
 
+   
+   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+   <meta http-equiv="reply-to" content="info@mediavillage.com">
+   <meta name="copyright" content="MediaVillage, 2015. All rights reserved.">
+   <meta name="viewport" content="initial-scale=1, maximum-scale=1.0, user-scalable=no">
+   
 
+   
+   
+   <title>
+      Privacy policy
+   </title>
 
+   
 
+   
+   
 
+   
+   
+   <link rel="stylesheet" href="/static.16/plugins/baron/baron.css">
+   <link rel="stylesheet" href="/static.16/css/main.css">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="Javascript" type="text/javascript">document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/caspl.js?r='+Math.random()+'&c=8500371&m=8727&d=741508&p=2152&p=5367&p=5357&p=5362&p=2461&p=5452&p=3461&p=2802&p=2562&p=2286&p=2811&p=2821&p=2142&p=4639&p=2282&p=2147&p=2167&p=2807&p=2157&p=2162"></scr'+'ipt>');</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/caspl.js?r=0.13112710428054064&amp;c=8500371&amp;m=8727&amp;d=741508&amp;p=2152&amp;p=5367&amp;p=5357&amp;p=5362&amp;p=2461&amp;p=5452&amp;p=3461&amp;p=2802&amp;p=2562&amp;p=2286&amp;p=2811&amp;p=2821&amp;p=2142&amp;p=4639&amp;p=2282&amp;p=2147&amp;p=2167&amp;p=2807&amp;p=2157&amp;p=2162"></script>
-
-
-	<title>Privacy Policy - Jack Myers</title>
-
-	<style type="text/css" media="all">
-	<!--
-		    @import url("http://www.mediabizbloggers.com/templates/tables.css");
-	
-	-->
-	</style>
-		
-<script type="text/javascript" src="/g/js/prototype.js"></script>
-<script type="text/javascript">
-
-	//Objects to interact with server
-	var CMSUtil = {
-		interactWithServer: function(form, isAjax, buildObjectFunction, 
-									returnFunction, action, servlet, 
-									extraFields){
-			if(isAjax == true && returnFunction != null){
-            	var queryString = Form.serialize(form);
-				if(queryString != null){
-					if(action != null){
-						queryString += "&action=" + action + "&isAjax=Y";	
-					}else{
-            			queryString += "&isAjax=Y";
-            		}
-            		if(extraFields){
-            			queryString += extraFields;
-            		}
-            		
-            		var handlerFunction = function(originalRequest){
-            			var response = "(" + originalRequest.responseText + ")";
-            			response = eval(response);
-						buildObjectFunction(response);	
-            			returnFunction(response);    
-            		}    
-           
-					var myAjax = new Ajax.Request(servlet,
-    					{method: 'post', postBody: queryString, onComplete: handlerFunction}
-					);
-				}
-            }else{
- 				this.submitUserFormNoAJAX(form, action, servlet); 
-			}
-		},
-		
-		submitUserFormNoAJAX: function(form, action, servlet){
-			if(servlet == null) return null;
-    	    form.action = servlet;
-
-    	    if(action != null) {
-    	    	var actionField = document.createElement('input');
-    	    	actionField.setAttribute('name', 'action');
-  					actionField.setAttribute('type', 'hidden');
-  					actionField.value = action;
-    	    	form.appendChild(actionField);
-    	    	
-    	    }
-    		form.submit();
-    	}
-    	
-	}
-	
-	var Action = {
-		attachAction: function(form, isAjax, returnFunction){
-			var action = "";
-			if(isAjax){
-				action = "attachActionAJAX";
-			} else {
-				action = "attachAction";
-			}
-			CMSUtil.interactWithServer(form, isAjax, Action.buildAction, returnFunction, action, "/s");
-		},
-		
-		deleteAction: function(form, isAjax, returnFunction){
-        	var action = "";
-        	if(isAjax){
-        		action = "deleteActionAJAX";
-        	} else {
-        		action = "deleteAction";
-        	}
-        	CMSUtil.interactWithServer(form, isAjax, Action.deletedAction, returnFunction, action, "/s");
-        },
-		
-		
-		buildAction: function(response){
-			if(response.success == true){
-				Action.actionID = response.actionID;
-				Action.contentID = response.contentID;
-				Action.commentID = response.commentID;
-				Action.contentTypeID = response.contentTypeID;
-				Action.actionDate = response.actionDate;
-				Action.userID = response.userID;
-				Action.actionType = response.actionType;
-				Action.slugLine = response.slugLine;
-			} else {
-			 	Action.error = response.error;
-			}
-		},
-		
-		deletedAction: function(response){
-			if(response.success == true){
-				Action.actionID = response.actionID;
-			} else {
-				Action.error = response.error;
-			}
-		}
-	}
-	
-	var Ranking = {
-		insertRanking: function(form, isAjax, returnFunction){
-			CMSUtil.interactWithServer(form, isAjax, Ranking.buildRanking, returnFunction, "rankComment", "/p");
-		},
-		
-		buildRanking: function(response){
-			if(response.success == true){
-				Ranking.success = true;
-				Ranking.objectId = response.objectId;
-				Ranking.type = response.type;
-				Ranking.ipAddress = response.ipAddress;
-				Ranking.rankDate = response.rankDate;
-				Ranking.upRanking = response.upRanking;
-				Ranking.downRanking = response.downRanking;
-			} else {
-				Ranking.error = response.error;
-			}
-		}
-			
-	}
-			
-	var Rating = {
-		addRating: function(form, isAjax, returnFunction){
-			var action = "";
-			if(isAjax){
-				action = "addRatingAJAX";
-			} else {
-				action = "addRating";
-			}
-            CMSUtil.interactWithServer(form, isAjax, Rating.buildRating, returnFunction, action, "/s");
-        },
-        
-        insertRating: function(form, isAjax, returnFunction){
-			var extraQueryStr = null;
-			if(isAjax){
-				extraQueryStr = getFieldsForForm();
-			}else{
-				addFieldsToForm(form);
-			}
-			CMSUtil.interactWithServer(form, isAjax, Comment.buildComment, returnFunction, "insertComment", "/c", extraQueryStr);
-		},
-        
-		buildRating: function(response){
-			if(response.success == true){
-				Rating.id = response.id;
-				Rating.rating = response.rating;
-				Rating.upvote = response.upvote;
-				Rating.downvote = response.downvote;
-				Rating.type = response.type;
-				Rating.date = response.date;
-				Rating.ipAddress = response.ipAddress;
-			}else{
-				Rating.error = response.error;
-			}
-		}
-		
-	}
-	
-	var User = {
-		createUser: function(form, isAjax, returnFunction){	
-		    var action = "";
-			if(isAjax){
-				action = "createProfileAJAX";
-			} else {
-				action = "createProfile";
-			}
-            CMSUtil.interactWithServer(form, isAjax, User.buildUser, returnFunction, action, "/s");
-		},
-		
-		loginUser: function(form, isAjax, returnFunction){
-			var action = "";
-			if(isAjax){
-				action = "doLoginProfileAJAX";
-			} else {
-				action = "doLoginProfile";
-			}
-        	CMSUtil.interactWithServer(form, isAjax, User.buildUser, returnFunction, action, "/s");
-		},
-		
-		updateUser: function(form, isAjax, returnFunction){
-			var action = "";
-			if(isAjax){
-				action = "updateProfileAJAX";
-			} else {
-				action = "updateProfile";
-			}
-			CMSUtil.interactWithServer(form, isAjax, User.buildUser, returnFunction, action, "/s");
-		},
-		
-		updateRegistration: function(form, isAjax, returnFunction){
-			var action = "";
-			if(isAjax){
-				action = "updateRegistrationAJAX";
-			} else {
-				action = "updateReg";
-			}
-			CMSUtil.interactWithServer(form, isAjax, User.buildUser, returnFunction, action, "/s");
-		},
-		
-		updateProfilePassword: function(form, isAjax, returnFunction){
-			var action = "";
-			if(isAjax){
-				action = "updateProfilePasswordAJAX";
-			} else {
-				action = "updateProfilePassword";
-			}
-			CMSUtil.interactWithServer(form, isAjax, User.buildUser, returnFunction, action, "/s");
-		},
-		
-		insertProfilePic: function(form, isAjax, returnFunction){
-			var action = "";
-			if(isAjax){
-				//not implemented as of yet
-				return;
-				//action = "updateImageAJAX";
-			} else {
-				action = "updateImage";
-			}
-			CMSUtil.interactWithServer(form, isAjax, User.buildUser, returnFunction, action, "/s");
-		},
-		
-		buildUser: function(response){
-			if(response.success == true){
-				User.username = response.username;
-				User.email = response.email;
-				User.firstName = response.firstName;
-				User.lastName = response.lastName;
-				User.birthDate = response.birthDate;
-				User.createDate = response.createDate;
-				User.title = response.title;
-				User.company = response.company;
-				User.address1 = response.address1;
-				User.address2 = response.address2;
-				User.city = response.city;
-				User.state = response.state;
-				User.zipcode = response.zipcode;
-				User.country = response.country;
-				User.custom1 = response.custom1;
-				User.custom2 = response.custom2;
-				User.custom3 = response.custom3;
-				User.custom4 = response.custom4;
-				User.custom5 = response.custom5;
-				User.custom6 = response.custom6;
-				User.custom7 = response.custom7;
-				User.custom8 = response.custom8;
-				User.custom9 = response.custom9;
-			}else{
-				User.error = response.error;
-				User.errorMsg = response.errorMsg;
-				User.errorCode = response.errorCode;
-			}
-		}
-	}
-	
-	var UserContent = {
-		insertContent: function(form, isAjax, returnFunction){
-			var extraQueryStr = null;
-			
-			if(isAjax){
-				extraQueryStr = getFieldsForForm();
-			}else{
-				addFieldsToForm(form);
-			}
-			UserContent.messages = null;
-			CMSUtil.interactWithServer(form, isAjax, UserContent.buildContent, returnFunction, extraQueryStr, "/d");
-		},
-		
-		editContent: function(form, isAjax, returnFunction){
-			CMSUtil.interactWithServer(form, isAjax, UserContent.buildContent, returnFunction, null, "/d");
-		},
-		
-		buildContent: function(response){
-			if(response.success == true){
-				for (var i=0; i< response.fields.length; i++){
-					var field = response.fields[i];
-					UserContent[field] = response[field];
-				}
-				UserContent.contentID = response.contentID;
-				UserContent.contentType = response.contentType;
-				UserContent.title = response.title;
-				UserContent.status = response.status;
-			} else {
-				UserContent.error = response.error;
-				UserContent.messages = response.messages;
-			}
-		}
-	}
-	
-	var Comment = {
-	
-		insertComment: function(form, isAjax, returnFunction){
-			var extraQueryStr = null;
-			if(isAjax){
-				extraQueryStr = getFieldsForForm();
-			}else{
-				addFieldsToForm(form);
-			}
-			CMSUtil.interactWithServer(form, isAjax, Comment.buildComment, returnFunction, "insertComment", "/c", extraQueryStr);
-		},
-	
-		deleteComment: function(form, isAjax, returnFunction){
-			var extraQueryStr = null;
-			if(isAjax){
-				extraQueryStr = getFieldsForForm();
-			}else{
-				addFieldsToForm(form);
-			}
-			CMSUtil.interactWithServer(form, isAjax, Comment.nullifyComment, returnFunction, "deleteComment", "/c", extraQueryStr);
-		},
-		
-		updateComment: function(form, isAjax, returnFunction){
-			var extraQueryStr = null;
-			if(isAjax){
-				extraQueryStr = getFieldsForForm();
-			} else {
-				addFieldsToForm(form);
-			}
-			CMSUtil.interactWithServer(form, isAjax, Comment.buildComment, returnFunction, "updateComment", "/c", extraQueryStr);
-		},
-		
-		buildComment: function(response){
-						Comment.name = null;
-			Comment.website = null;
-			Comment.title = null;
-			Comment.comment = null;
-			Comment.email = null;
-			Comment.rating = null;
-			Comment.ratingType = null;
-			Comment.commentType = null;
-			Comment.flagged = false;
-			Comment.isAuthor = false;
-			Comment.error = null;
-			Comment.status = null;
-			Comment.level = 0;
-			Comment.parentID = 0;
-			Comment.threadID = 0;
-			Comment.id = 0;
-			Comment.extID = null;		
-		
-			if(response.success == true){
-				Comment.name = response.name;
-				Comment.comment = response.comment;
-				Comment.email = response.email;
-				Comment.website = response.website;
-				Comment.title = response.title;
-				Comment.isAuthor = response.isAuthor;
-				Comment.flagged = response.flagged;
-				Comment.status = response.status;
-				Comment.rating = response.rating;
-				Comment.ratingType = response.ratingType;
-				Comment.commentType = response.commentType;
-				if(Comment.status == "AUTHOR"){
-					Comment.isAuthor = true;
-				} else if(Comment.status != "APPROVED") {
-					Comment.flagged = true;
-				}
-			    Comment.id = response.id;
-			    Comment.threadID = response.threadID;
-			    Comment.parentID = response.parentID;
-			    Comment.level = response.level;
-			    Comment.extID = response.extID;
-			} else {
-				Comment.error = response.error;
-			}
-		},
-		
-		nullifyComment: function(response){
-			if(response.success == true){
-				Comment.comment = null;
-				Comment.email = null;
-				Comment.website = null;
-				Comment.title = null;
-				Comment.isAuthor = null;
-				Comment.flagged = null;
-				Comment.status = null;
-				Comment.id = 0;
-			    Comment.threadID = 0;
-			    Comment.parentID = 0;
-			    Comment.level = 0;
-			    Comment.extID = null;
-			} else {
-				Comment.error = response.error;
-			}
-		}
-	}	
-	
-	var Clickability = Clickability || {};
-	Clickability.SMTK = {
-		kP : 0,
-		aT : 0,
-		myInterval : null,
-		xPos : -1,
-		yPos : -1,
-		firstX : -1,
-		firstY : -1,
-		intervals : 0,
-		cid :  -1 ,
-		did :  741508 ,
-		d : 0,
-		mT : 0
-	}
-	Clickability.SMTK.myInterval = window.setInterval(timedMousePos,250);
-	document.onkeypress = lK;
-	window.onload = rAT;
-
-		Clickability.Comment = Comment;
-		
-		var p;
-	var kP = 0;
-	var	aT = 0;
-	var myInterval = Clickability.SMTK.myInterval;
-	var xPos = -1;
-	var yPos = -1;
-	var firstX = -1;
-	var firstY = -1;
-	var intervals = 0;
-	var d = 0;
-	var mT = 0;
-	var cid =  -1 ;
-	var did =  741508 ;	
-	
-	function getMousePos(p) {
-		if(!p)var p = window.event;
-		if (p.pageX || p.pageY) {
-			Clickability.SMTK.xPos = p.pageX;
-			Clickability.SMTK.yPos = p.pageY;
-		} else if (p.clientX || p.clientY) {
-			Clickability.SMTK.xPos = p.clientX + document.body.scrollLeft + document.documentElement.scrollLeft;
-			Clickability.SMTK.yPos = p.clientY + document.body.scrollTop + document.documentElement.scrollTop;
-		}
-	}
-
-	
-	function lK() {	
-		Clickability.SMTK.kP++;
-	}
-
-	function rAT() {
-		Clickability.SMTK.aT = new Date();
-	}
-		
-	function timedMousePos() {
-		document.onmousemove = getMousePos;
-		if (Clickability.SMTK.xPos >= 0 && Clickability.SMTK.yPos >= 0) {
-			var newX = Clickability.SMTK.xPos;
-			var newY = Clickability.SMTK.yPos;
-			Clickability.SMTK.intervals++;
-		}
-		if (Clickability.SMTK.intervals == 1) {
-			Clickability.SMTK.firstX = Clickability.SMTK.xPos;
-			Clickability.SMTK.firstY = Clickability.SMTK.yPos;
-		} else if (Clickability.SMTK.intervals == 2) {
-			clearInterval(Clickability.SMTK.myInterval);
-			calcDistance(Clickability.SMTK.firstX,Clickability.SMTK.firstY,newX,newY);	
-		}
-	}
+   
+   <link rel="stylesheet" href="/static.16/css/contact_us.css">
 
 
-	function calcDistance(aX,aY,bX,bY){
-		Clickability.SMTK.mT = Math.round(Math.sqrt(Math.pow(aX-bX,2)+Math.pow(aY-bY,2)));
-	}
-	
-	function getFieldsForForm(){
-		var sT = new Date();
-		Clickability.SMTK.d = sT - Clickability.SMTK.aT;
-		var queryString = "&";
-		queryString += "mT=" + Clickability.SMTK.mT;
-     	queryString += "&d=" + Clickability.SMTK.d;
-     	queryString += "&kP=" + Clickability.SMTK.kP;
-     	if(Clickability.SMTK.cid)queryString += "&cid=" + Clickability.SMTK.cid;
-     	if(Clickability.SMTK.did)queryString += "&did=" + Clickability.SMTK.did;
-     	queryString += "&socialMedia=Y";
-	    return queryString;
-	}
-		
-	function addFieldsToForm(formObj, redirect) {
-		var sT = new Date();
-		Clickability.SMTK.d = sT - Clickability.SMTK.aT;
-		var mTField = document.createElement('input');
-		var dField = document.createElement('input');
-		var kPField = document.createElement('input');
-  		var cidField = document.createElement('input');
-  		var didField = document.createElement('input');
-  		var socialMedia = document.createElement('input');
-  	
-  	
-  		socialMedia.setAttribute('name','socialMedia');
-		socialMedia.setAttribute('type', 'hidden');
-		
-  		mTField.setAttribute('name','mT');
-		mTField.setAttribute('type', 'hidden');
-  	  
-		dField.setAttribute('name', 'd');
-		dField.setAttribute('type', 'hidden');
-  	  
-		kPField.setAttribute('name', 'kP');
-		kPField.setAttribute('type', 'hidden');
-  	
-		cidField.setAttribute('name', 'cid');
-		cidField.setAttribute('type', 'hidden');
-  	
-  		didField.setAttribute('name', 'did');
-  		didField.setAttribute('type', 'hidden');	
-  	
-  		if(redirect != null) {
-  			var pathField = document.createElement('input');
-  			pathField.setAttribute('name', 'path');
-  			pathField.setAttribute('type', 'hidden');
-  			pathField.value = redirect;
-  			formObj.appendChild(pathField);
-  		}
-  		mTField.value = Clickability.SMTK.mT;
-		dField.value = Clickability.SMTK.d;
-		kPField.value = Clickability.SMTK.kP;
-		cidField.value = Clickability.SMTK.cid;
-		didField.value = Clickability.SMTK.did;
-		socialMedia.value = "Y";
+   
+   <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/static.16/js/jquery-1.11.1.min.js"></script>
+   <script type="text/javascript" src="/static.16/plugins/dotdotdot/jquery.dotdotdot.min.js"></script>
+   <script type="text/javascript" src="/static.16/plugins/baron/baron.min.js"></script>
+   <script type="text/javascript" src="/static.16/plugins/placeholder/jquery.placeholder.min.js"></script>
+   <script type="text/javascript" src="/static.16/js/csrf.js"></script>
+   <script type="text/javascript" src="/static.16/js/main.js"></script>
 
-		formObj.appendChild(dField);
-		formObj.appendChild(kPField);
-		formObj.appendChild(mTField);
-		formObj.appendChild(cidField);
-		formObj.appendChild(didField);
-		formObj.appendChild(socialMedia);
-	}		
-	
-	//helper functions
-	
-	function insertComment(form, isAjax, returnFunction, showError){
-		return submitToServer(Comment.insertComment, "Unable to insert comment", form, isAjax, returnFunction, showError);
-	}
-	
-	function updateComment(form, isAjax, returnFunction, showError){
-		return submitToServer(Comment.updateComment, "Unable to update comment", form, isAjax, returnFunction, showError);
-	}
-	
-	function deleteComment(form, isAjax, returnFunction, showError){
-		return submitToServer(Comment.deleteComment, "Unable to delete comment", form, isAjax, returnFunction, showError);
-	}
-	
-	function createUser(form, isAjax, returnFunction, showError){
-		return submitToServer(User.createUser, "Unable to create user", form, isAjax, returnFunction, showError);
-	}
-	
-	function updateUser(form, isAjax, returnFunction, showError){
-		return submitToServer(User.updateUser, "Unable to update user", form, isAjax, returnFunction, showError);
-	}
-	
-	function loginUser(form, isAjax, returnFunction, showError){
-		return submitToServer(User.loginUser, "Unable to login user", form, isAjax, returnFunction, showError);
-	}
-	
-	function insertUserContent(form, isAjax, returnFunction, showError){
-		return submitToServer(UserContent.insertContent, "Unable to insert content item", form, isAjax, returnFunction, showError);
-	}
-	
-	function editUserContent(form, isAjax, returnFunction, showError){
-		return submitToServer(UserContent.editContent, "Unable to edit content item", form, isAjax, returnFunction, showError);
-	}
-	
-	function insertProfilePic(form, isAjax, returnFunction, showError){
-		return submitToServer(User.insertProfilePic, "Unable to upload profile photo", form, isAjax, returnFunction, showError);
-	}
-	
-	function addRating(form, isAjax, returnFunction, showError){
-		return submitToServer(Rating.addRating, "Unable to add rating", form, isAjax, returnFunction, showError);
-	}
-	
-	function insertRating(form, isAjax, returnFunction, showError){
-		return submitToServer(Rating.insertRating, "Unable to insert rating", form, isAjax, returnFunction, showError);
-	}
-	
-	function attachAction(form, isAjax, returnFunction, showError){
-		return submitToServer(Action.attachAction, "Unable to attach action", form, isAjax, returnFunction, showError);
-	}
-	
-	function deleteAction(form, isAjax, returnFunction, showError){
-		return submitToServer(Action.deleteAction, "Unable to delete action", form, isAjax, returnFunction, showError);
-	}
-	
-	function insertRanking(form, isAjax, returnFunction, showError){
-		return submitToServer(Ranking.insertRanking, "Unable to insert ranking", form, isAjax, returnFunction, showError);
-	}
-	
-	function submitToServer(method, msg, form, isAjax, returnFunction, showError){
-		method(form, isAjax, returnFunction);
-		if(isAjax){
-			return false;
-		} else {
-			return true;
-		}
-	}
+   <!-- Used by typekit.com to inject required fonts. See https://typekit.com/kit_editor/kits/blg3sjn for more info -->
+   <script src="//use.typekit.net/blg3sjn.js"></script>
+   <script>try{Typekit.load();}catch(e){}</script>
+   
+   <script type="text/javascript" src="/static.16/js/dfp.js"></script>
+   <script type="text/javascript" src="/static.16/js/blog.js"></script>
 
-</script>
+   
 
-    <script type="text/javascript" src="http://www.mediabizbloggers.com/includes/Form_Validation"></script>
-    <meta name="google-site-verification" content="rZegVYgXIgovlk3-0WDY-HvJ-sbwLgEUZM9cPUGOhvg"> </head>
+   <link rel="shortcut icon" href="/static.16/img/ico/favicon.ico" type="image/x-icon">
 
-<body topmargin="0" marginheight="0" leftmargin="0" marginwidth="0">
-<script language="Javascript">var js="0.0";</script><script language="Javascript1.0">js="1.0";</script><script language="Javascript1.1">js="1.1";</script><script language="Javascript1.2">js="1.2";</script><script language="Javascript1.3">js="1.3";</script><script language="Javascript1.4">js="1.4";</script><script language="Javascript1.5">js="1.5";</script><script language="Javascript1.6">js="1.6";</script><script language="Javascript1.7">js="1.7";</script><script language="Javascript1.8">js="1.8";</script><script language="Javascript1.9">js="1.9";</script><script language="javascript1.1" type="text/javascript"> 
-<!-- 
-var bb=new Image();var _ti=910;var _q="";var na=(navigator.appName=="Netscape");var ns=(navigator.appName.substring(0,9)=="Microsoft");var _qDate=new Date();var _r=(document.referrer.indexOf(getdomain(location))>-1?"":document.referrer);_q+="&5="+parseInt(_qDate.getTimezoneOffset());_q+="&35="+parseInt(_qDate.toString().indexOf("aylight")>-1?1:0);_q+="&6=900741508";_q+="&7=741508";_q+="&8="+encodeURIComponent(document.location);_q+="&9="+encodeURIComponent(_r);_q+="&10="+encodeURIComponent(document.title);_q+="&11="+encodeURIComponent(navigator.userAgent);_q+="&12="+encodeURIComponent((na?navigator.language:navigator.userLanguage));_q+="&13="+((navigator.javaEnabled()?'1':'0'));_q+="&14="+encodeURIComponent(js);if(document.cookie.indexOf("cc")==-1)document.cookie="cc=t;";_q+="&15="+((document.cookie.indexOf("cc")==-1)?"0":"1");_q+="&16="+encodeURIComponent((screen.width+'x'+screen.height));_q+="&17="+encodeURIComponent(((ns)?screen.colorDepth:screen.pixelDepth));_q+="&18="+encodeURIComponent(Math.random());_q+="&19="+_ti;bb.src="http://s.clickability.com/s?"+_q;
-function setonclicks(a,b){var i=0;var retval=true;while(document.links[i]!=a){i++;}if(b.li[i])retval=b.li[i].oldonclick();bye(a);return retval;}
-function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.links.length;lnks.li=new Array(sze);for (var i=0; i<sze; i++){if(document.links[i].onclick){lnks.li[i]=document.links[i];lnks.li[i].oldonclick=document.links[i].onclick;}eval("document.links[i].onclick=function(){return setonclicks(this,lnks);}");}}function bye(a){if(a.href.toLowerCase().indexOf('http')!=0)return true;if(getdomain(location)==getdomain(a))return true;if(a.href.toLowerCase().indexOf('http')!=0)return true;var _qc="http://s.clickability.com/s?19=912";_qc+="&6=900741508";_qc+="&7=741508";_qc+="&18="+encodeURIComponent(Math.random());_qc+="&100="+a.href;_qc+="&101="+encodeURIComponent(a.text);var cc=new Image();if(na){cc.src=_qc;pc(100);}else cc.src=_qc;return true;}function pc(a){d = new Date(); while (1){m =new Date(); df = m-d;if( df > a ) {break;}}}function getdomain(a){var i=a.host.indexOf(":");return (i>=0)?a.host.substring(0,i):a.host;}if(self['setupalready']){var dosetup = false;alert('There are two $imware.tracker calls on this page. Please alert Client Services');}else{var dosetup = true;var hasonload=false;}if(dosetup && ((window.screen)||((new Array()).toSource)||((new Array()).shift&&ns))&&(navigator.userAgent.indexOf('Mac')<0)){if(window.onload){oldonld=window.onload;hasonload=true;}window.onload=newonld;var setupalready = true;}//-->
-</script><noscript>
-<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=900741508&7=741508&25=0&18=0.1969318480842014">
-</noscript>
-
-<table cellpadding="0" cellspacing="0" border="0" align="center">
-
-<tbody><tr valign="top">
-
-	<td width="8" id="shadowleft" rowspan="8"><img src="http://media.jackmyers.com/designimages/left_shadow.gif" width="8" height="1" border="0"></td>
-
-	<td width="33%" background="http://media.jackmyers.com/designimages/top.gif"><a href="http://www.mediabizbloggers.com" border="0">
-	    <img src="http://media.jackmyers.com/designimages/MyersBizNet+2015.jpg" alt="www.jackmyers.com" width="319" height="71" border="0"></a></td>
-		<td width="33%" background="http://media.jackmyers.com/designimages/top.gif"><img src="http://media.jackmyers.com/designimages/top.gif" width="234" height="71" border="0"></td>
-		
-	<td width="33%" id="topright">&nbsp;</td>
-	
-	
-	<td width="8" id="shadowright" rowspan="8"><img src="http://media.jackmyers.com/designimages/top_right_shadow.gif" alt="" width="8" height="20" border="0"></td>
-
-</tr>
-<tr> 
-	<!-- start top nav --> 
-	<td colspan="3" width="100%" id="nav"> 
- 
-	<a href="http://www.jackmyers.com/feeds"><img src="http://media.jackmyers.com/designimages/nav_rss.gif" alt="rss" width="67" border="0" height="29" style="vertical-align: middle;"></a> 
-	<span style="color: #FFFFFF; font-size: 10pt; font-weight: bold; text-decoration: none;">|&nbsp;</span>  
-	<a href="/" style="color: #FFFFFF; font-size: 10pt; font-weight: bold; text-decoration: none;">Home</a> 
-	<span style="color: #FFFFFF; font-size: 10pt; font-weight: bold; text-decoration: none;">&nbsp;|&nbsp;</span> 
-	<a href="http://www.jackmyers.com" target="_blank" style="color: #FFFFFF; font-size: 10pt; font-weight: bold; text-decoration: none;">MyersBizNet</a> 
-	<span style="color: #FFFFFF; font-size: 10pt; font-weight: bold; text-decoration: none;">&nbsp;|&nbsp;</span> 
-	<a href="http://www.jackmyers.com/register" style="color: #FFFFFF; font-size: 10pt; font-weight: bold; text-decoration: none;">SUBSCRIBE FREE</a>
-	<span style="color: #FFFFFF; font-size: 10pt; font-weight: bold; text-decoration: none;">&nbsp;|&nbsp;</span> 
-	<a href="http://www.womenadvancing.org" target="_blank" style="color: #FFFFFF; font-size: 10pt; font-weight: bold; text-decoration: none;">WomenAdvancing</a> 
-	<span style="color: #FFFFFF; font-size: 10pt; font-weight: bold; text-decoration: none;">&nbsp;|&nbsp;</span> 
-	<a href="/media-business-report" style="color: #FFFFFF; font-size: 10pt; font-weight: bold; text-decoration: none;">Media Business Report</a>  
-	<span style="color: #FFFFFF; font-size: 10pt; font-weight: bold; text-decoration: none;">&nbsp;|&nbsp;</span>  
-	<a target="_blank" href="/hooked-up-gen" style="color: #FFFFFF; font-size: 10pt; font-weight: bold; text-decoration: none;">Hooked Up Gen</a>  
-	<span style="color: #FFFFFF; font-size: 10pt; font-weight: bold; text-decoration: none;">&nbsp;|&nbsp;</span>  
-	<a href="http://www.jackmyers.com/jack-myers-wall-street-media-business-report" target="_blank" "="" style="color: #FFFFFF; font-size: 10pt; font-weight: bold; text-decoration: none;">Economic Report</a>  
-        <span style="color: #FFFFFF; font-size: 10pt; font-weight: bold; text-decoration: none;">&nbsp;|&nbsp;</span> 
-	<a href="/Upfront_Week_2008_Updates_and_Insights" style="color: #FFFFFF; font-size: 10pt; font-weight: bold; text-decoration: none;">Upfront 2015</a>
-	<span style="color: #FFFFFF; font-size: 10pt; font-weight: bold; text-decoration: none;">&nbsp;|&nbsp;</span> 
-	  <!-- end top nav --> 
- 
-</td></tr> 
-
-<tr>
-
-	<td colspan="3" id="searchbar">
-					<form id="logginForm" name="logginForm" action="http://www.jackmyers.com/s" method="post" style="padding:0 0 0 0;margin:0 0 0 0;display:inline;">
-				<input type="hidden" name="action" value="doLogin">
-				<input type="hidden" name="permanent" value="N">
-								<div id="searchstuff"><a href="http://www.jackmyers.com/register">Subscribe</a> or Login: <input type="text" name="email" size="13"> &nbsp;&nbsp; Password: <input type="password" name="password" size="13"></div>
-				<div id="go"><input type="image" src="http://media.jackmyers.com/designimages/go.gif" alt="go" width="42" height="31" border="0" hspace="5"></div>
-			</form>
-		
-
-		<form id="searchForm" name="searchForm" action="/search" method="post" style="padding:0 0 0 0;margin:0 0 0 0;display:inline;">
-                        <div id="searchstuff">Search:&nbsp;&nbsp;<input type="text" size="15" name="keywords"></div>
-            <div id="go"><input type="image" src="http://media.jackmyers.com/designimages/go.gif" alt="go" width="42" height="31" border="0" hspace="5"></div>
-	    </form></td>
-	
-</tr>
+      <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+         (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+         m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-8008147-1', 'auto');
+      ga('send', 'pageview');
+   </script>
 
 
+</head>
+
+<body>
+
+   <div class="very-top-header">
+      <div class="wrapper">
+         <div class="links">
+            <a href="/about-us/">About MediaVillage</a>
+         </div>
+         <div class="links">
+            <a href="http://www.jackmyers.com/" target="_blank"> A Jack Myers Community</a>
+         </div>
+         <nav class="users">
+            
+               <a href="/accounts/login/">Sign In</a>
+               <a href="/accounts/register/">Sign Up</a>
+            
+         </nav>
+      </div>
+   </div>
+   <header class="margin-bottom">
+      <div class="wrapper">
+         <div class="search column3">
+            <form action="/search">
+               <input type="hidden" name="date" value="past_year">
+               <input type="hidden" name="content" value="all">
+               <input type="hidden" name="order_by" value="-date_published">
+               <input type="hidden" name="page" value="1">
+               <input type="search" name="q" value="" placeholder="Search">
+            </form>
+         </div>
+         <div class="social column3">
+            <ul>
+   <li><a href="https://www.facebook.com/pages/Media-Village/1010029439026926" class="color-animated-hover facebook" target="_blank"><span class="fa fa-facebook" title="Follow"></span></a></li>
+   <li><a href="https://twitter.com/mediavillagecom" class="color-animated-hover twitter" target="_blank"><span class="fa fa-twitter" title="Follow"></span></a></li>
+   <li><a href="https://www.linkedin.com/groups/MediaVillage-8272078?home=&amp;gid=8272078" class="color-animated-hover linkedin" target="_blank"><span class="fa fa-linkedin" title="Follow"></span></a></li>
+   <li><a href="https://plus.google.com/u/0/b/103067771718684878342/103067771718684878342/about" class="color-animated-hover google-plus" target="_blank"><span class="fa fa-google-plus" title="Follow"></span></a></li>
+   <li><a href="https://www.youtube.com/channel/UCYvXT9yJmAjL5EThLk3GomA" class="color-animated-hover youtube" target="_blank"><span class="fa fa-youtube" title="Follow"></span></a></li>
+   <li><a href="https://instagram.com/mediavillagecom/" class="opacity-animated-hover instagram" target="_blank"><span class="fa fa-instagram" title="Follow"></span></a></li>
+   <li><a href="/rss" class="color-animated-hover rss"><span class="fa fa-rss" title="Rss"></span></a></li>
+   <li><a href="/accounts/register/" class="color-animated-hover envelope"><span class="fa fa-envelope" title="Email"></span></a></li>
+</ul>
 
 
-
-
-
-
-<tr>
-
-	<td colspan="3" id="headerbar"><img src="http://media.jackmyers.com/designimages/header_aboutus.gif" alt="about us" width="90" height="26" border="0"></td>
-
-</tr>
-
-
-<tr bgcolor="#ffffff" valign="top">
-
-	<td width="100%" colspan="3">
-	
-		<table cellpadding="0" cellspacing="0" border="0">
-		<tbody><tr>
-			<td colspan="3" id="breadcrumbs">                    
+         </div>
+         
+         <input type="checkbox" id="mobile-menu">
+         <label for="mobile-menu">
+            <i class="fa fa-bars"></i>
+         </label>
+         <input type="checkbox" id="mobile-search">
+         <label for="mobile-search">
+            <i class="fa fa-search"></i>
+         </label>
+         <div class="column12 column-menu">
+            <a href="/" class="logo">
+               <img src="/static.16/img/mv-logo.svg" alt="Media Village logo" title="Media Village">
+            </a>
+            <div class="mobile-search">
+               <form action="/search" id="mobile_search_form">
+                  <input type="hidden" name="mobile" value="1">
+                  <input type="hidden" name="date" value="past_year">
+                  <input type="hidden" name="content" value="all">
+                  <input type="hidden" name="order_by" value="-date_published">
+                  <input type="hidden" name="page" value="1">
+                  <input type="search" name="q" placeholder="Search" value="">
+                  <button>Go</button>
+               </form>
+            </div>
+            
+               <nav class="user">
+                  <a href="/accounts/login/">Sign In</a>
+                  <a href="/accounts/register/">Sign Up</a>
+               </nav>
             
             
-                                  
+
+<nav class="b-main-nav">
+   <ul>
+      <li><a href="/">Home</a></li>
+      <li class="drop-down communities">
+         <a href="#"><span>Communities</span></a>
+         <div class="drop-down-window column12">
+   <div class="menu-container">
+      <div class="column12">
+         <ul class="channels">
             
+               <li class="column3">
+                  <a href="/channel/women-advancing/">
+                     <span class="logo"><img src="/media/channels/WomenAdvancing_Icon.jpg"></span>
+                     <span class="name">
+                        WomenAdvancing
+                        <span class="short-tag-line">Own Your Future</span>
+                     </span>
+                  </a>
+               </li>
             
-                                    
-      <a href="/">Home</a> &gt; Privacy Policy 
-  </td>
-		</tr>
-		
-		<tr>
-			<td colspan="3" align="center">
-			    <script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['Leaderboard']){ document.write(plpm['Leaderboard']);} else if (self['plunpla'] && plunpla['2142']){document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=2142&c=8500371&m=8727&d=741508&a='+plunpla['2142']+'"></scr'+'ipt>'); } else {  if(self['plurp'] && plurp['2142']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=2142&c=8500371&m=8727&d=741508"></scr'+'ipt>'); } }</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.24318962819023127&amp;p=2142&amp;c=8500371&amp;m=8727&amp;d=741508"></script>			
-			</td>
-		</tr>
-		
-		<tr valign="top">
-	
-			<td width="52%" id="main_col">
-			
-				<h1>Privacy Policy</h1><br>
-			
-				<p>for MediaBizBloggers.com</p>
-<p>MediaBizBloggers.com ("MediaBizBloggers") is strongly committed to protecting the privacy of our customers. The purpose of this MediaBizBloggers privacy policy is to inform you, as a welcome visitor, what kinds of information we may gather about you when you visit MediaBizBloggers, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information. This privacy policy applies to the MediaBizBloggers site. Please note that this policy applies only to MediaBizBloggers, and not to other companies' or organizations' Web sites to which we link. Our policy will be continuously assessed against new technologies, business practices and our customers' changing needs. All changes to our privacy policy will be posted here so that you are aware of our current practices.</p>
-<p><u><strong>Information </strong></u></p>
-<p>MediaBizBloggers collects personal information when you register with MediaBizBloggers and use our products or services. When you register we ask for information such as your name, contact information, email address, gender, zip code, occupation, industry, and personal interests. Once you register with MediaBizBloggers and sign in to our services, you are not anonymous to us. MediaBizBloggers automatically receives and records information on our server logs from your browser, including your IP address, MediaBizBloggers cookie information, and the page(s) you request. All requested information on the MediaBizBloggers site is not required. You may choose to post additional information about yourself. Please do not post sensitive data on registration pages such as credit card numbers, social security numbers or other personal data. MediaBizBloggers is not responsible for your disclosure of personal information on our registration form, sound offs, blogs, postings or other product offerings. You have the option to change your posted data at any time.</p>
-<p><u><strong>Disclosure </strong></u></p>
-<p>We do not use or disclose information about your individual visits to MediaBizBloggers or information that you may give us, such as your name, address, email address or telephone number, to any outside companies. MediaBizBloggers may share such information in response to legal process, such as a court order or subpoena, or in special cases such as a physical threat to you or others. And we may share with our Web site partners and prospective customers aggregated statistical "ratings" information about the use of MediaBizBloggers.</p>
-<p><u><strong>Protection of Data </strong></u></p>
+               <li class="column3">
+                  <a href="/channel/planet-ed-video-reviews/">
+                     <span class="logo"><img src="/media/channels/planeted-50x50.jpg"></span>
+                     <span class="name">
+                        Planet Ed
+                        <span class="short-tag-line">TV and Video Reviews</span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/channel/wall-st-speaks-out-on-media/">
+                     <span class="logo"><img src="/media/channels/wall_street_speaks_out-50x50.jpg"></span>
+                     <span class="name">
+                        Wall St. Speaks Out...on Media
+                        <span class="short-tag-line">Insights, Research &amp; Reports</span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/channel/futureofmen/">
+                     <span class="logo"><img src="/media/channels/40x40_FutureOfMen-2015.jpg"></span>
+                     <span class="name">
+                        FutureOfMen
+                        <span class="short-tag-line">Masculinity in the 21st Century</span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/channel/tomorrowtoday/">
+                     <span class="logo"><img src="/media/channels/tt-50x50.jpg"></span>
+                     <span class="name">
+                        Jack Myers TomorrowToday
+                        <span class="short-tag-line"> Future Proof Your Business</span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/channel/1stfive/">
+                     <span class="logo"><img src="/media/channels/1st5-50x50.jpg"></span>
+                     <span class="name">
+                        1stFive
+                        <span class="short-tag-line">Careers and Community</span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/channel/lunch-at-michaels/">
+                     <span class="logo"><img src="/media/channels/lunchmichaels-50x50--.jpg"></span>
+                     <span class="name">
+                        Lunch at Michael's
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/channel/media-legends/">
+                     <span class="logo"><img src="/media/channels/marketingMedia50x50.jpg"></span>
+                     <span class="name">
+                        Marketing and Media Legends
+                        <span class="short-tag-line">Sharing Knowledge &amp; Experience</span>
+                     </span>
+                  </a>
+               </li>
+            
+         </ul>
+      </div>
+   </div>
+</div>
+
+      </li>
+      <li class="drop-down mediabizbloggers">
+         <a href="#"><span>Mediabizbloggers</span></a>
+         <div class="drop-down-window column12">
+   <div class="menu-container">
+      <div class="column12">
+         <ul class="channels">
+            
+               <li class="column3">
+                  <a href="/channel/industry-thought-leaders/">
+                     <span class="logo"><img src="/media/channels/gathering-information_qpOAd5J.jpg"></span>
+                     <span class="name">
+                        Thought Leaders
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/channel/stuart-elliott-report/">
+                     <span class="logo"><img src="/media/channels/stuartelliott_50x50.jpg"></span>
+                     <span class="name">
+                        Stuart Elliott Report
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/channel/ed-martin-report/">
+                     <span class="logo"><img src="/media/channels/planeted-50x50_ipGXQNb.jpg"></span>
+                     <span class="name">
+                        Ed Martin Report
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/channel/upfronts-and-newfronts/">
+                     <span class="logo"><img src="/media/channels/Upfront_Logo_3_-_color.gif"></span>
+                     <span class="name">
+                        Upfronts and NewFronts
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/channel/more-thought-leaders/">
+                     <span class="logo"><img src="/media/channels/gathering-information_2oi9pss.jpg"></span>
+                     <span class="name">
+                        More Thought Leaders
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/channel/iheartmedia/">
+                     <span class="logo"><img src="/media/channels/iHeartMediawasclearchannel.jpg"></span>
+                     <span class="name">
+                        iHeartMedia
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/channel/havas-media/">
+                     <span class="logo"><img src="/media/channels/havas_icon.jpg"></span>
+                     <span class="name">
+                        Havas Media
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/channel/programmatic-ad-automation/">
+                     <span class="logo"><img src="/media/channels/programatic_automatic-50x50.jpg"></span>
+                     <span class="name">
+                        Programmatic + Ad Automation
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/channel/paul-s-maxwell-commentaries/">
+                     <span class="logo"><img src="/media/channels/white_hat_for_maxwell_7gBiuef.jpg"></span>
+                     <span class="name">
+                        Paul Maxwell Report
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/channel/smi/">
+                     <span class="logo"><img src="/media/channels/smi_50x50_L54K4EF.png"></span>
+                     <span class="name">
+                        SMI Spend Trends
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/channel/the-cog-blog/">
+                     <span class="logo"><img src="/media/channels/cog-50x50.jpg"></span>
+                     <span class="name">
+                        The Cog Blog
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/channel/youtube-insights/">
+                     <span class="logo"><img src="/media/channels/youtube-insights-50x50.jpg"></span>
+                     <span class="name">
+                        YouTube Insights
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/channel/media-link-ed/">
+                     <span class="logo"><img src="/media/channels/medialink_icon_AKAnnmE.jpg"></span>
+                     <span class="name">
+                        Media Link-ed
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/channel/out-of-home-into-media/">
+                     <span class="logo"><img src="/media/channels/Clear_channel_outdoor_50x50_fFY4JUX.png"></span>
+                     <span class="name">
+                        Out of Home, Into Media
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/channel/media-insights-qa/">
+                     <span class="logo"><img src="/media/channels/50x50_microphone.jpg"></span>
+                     <span class="name">
+                        Media Insights Q&amp;A
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/channel/consumers-in-motion/">
+                     <span class="logo"><img src="/media/channels/consumers_in_motion-50x50.jpg"></span>
+                     <span class="name">
+                        Consumers in Motion
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/channel/word-of-mouth-matters/">
+                     <span class="logo"><img src="/media/channels/word_of_mouth-50x50.jpg"></span>
+                     <span class="name">
+                        Word-of-Mouth Matters
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/channel/in-terms-of-roi/">
+                     <span class="logo"><img src="/media/channels/roi2-50x50.jpg"></span>
+                     <span class="name">
+                        In Terms of ROI
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/channel/um-curious-thoughts-for-curious-minds/">
+                     <span class="logo"><img src="/media/channels/UM.JPG"></span>
+                     <span class="name">
+                        UM: Curious Thoughts for Curious Minds
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/channel/video-everywhere-dpaa-blog/">
+                     <span class="logo"><img src="/media/channels/ddpa-50x50.jpg"></span>
+                     <span class="name">
+                        Video Everywhere - DPAA
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/channel/outfront-media/">
+                     <span class="logo"><img src="/media/channels/OutfrontMedia.jpg"></span>
+                     <span class="name">
+                        Outfront Media
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/channel/musings-from-groupm/">
+                     <span class="logo"><img src="/media/channels/groupm_icon.jpg"></span>
+                     <span class="name">
+                        GroupM Musings
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/channel/jack-myers-think-tank/">
+                     <span class="logo"><img src="/media/channels/think_tank-50x50.jpg"></span>
+                     <span class="name">
+                        Jack Myers Think Tank
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/channel/digital-media-training/">
+                     <span class="logo"><img src="/media/channels/50x50_DM_small.png"></span>
+                     <span class="name">
+                        Digital Media Training
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/channel/evolution-shift/">
+                     <span class="logo"><img src="/media/channels/40x40_evolution_shift.jpg"></span>
+                     <span class="name">
+                        Evolution Shift
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/channel/convergence-turner-broadcasting/">
+                     <span class="logo"><img src="/media/channels/turner.png"></span>
+                     <span class="name">
+                        Convergence - Turner Broadcasting
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/channel/active-international/">
+                     <span class="logo"><img src="/media/channels/50x_50_active_international.jpg"></span>
+                     <span class="name">
+                        Active International
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/channel/media-unplugged/">
+                     <span class="logo"><img src="/media/channels/50x50_media_unplugged_7bWmn5S.jpg"></span>
+                     <span class="name">
+                        Media Unplugged
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/channel/mediacom/">
+                     <span class="logo"><img src="/media/channels/40x40_mediacom.png"></span>
+                     <span class="name">
+                        MediaCom
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/channel/culture-vulture/">
+                     <span class="logo"><img src="/media/channels/50x50_Mindshare.jpg"></span>
+                     <span class="name">
+                        Culture Vulture --- Mindshare
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/channel/hulu-insights/">
+                     <span class="logo"><img src="/media/channels/50_x_50_hulu.jpg"></span>
+                     <span class="name">
+                        Hulu Insights
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/channel/operative-on-the-media/">
+                     <span class="logo"><img src="/media/channels/50x50_operative.jpg"></span>
+                     <span class="name">
+                        Operative On the Media
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/channel/cbs-tv/">
+                     <span class="logo"><img src="/media/channels/40x40_CBS_Corp_logo_gold.jpg"></span>
+                     <span class="name">
+                        CBS
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/channel/articles-club/">
+                     <span class="logo"><img src="/media/channels/Articles_club_final_50x50.jpg"></span>
+                     <span class="name">
+                        Articles Club
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+         </ul>
+      </div>
+   </div>
+</div>
+
+      </li>
+      <li class="drop-down contributors">
+         <a href="#"><span>Contributors</span></a>
+         <div class="drop-down-window column12">
+   <div class="menu-container">
+      <div class="column12">
+         <ul class="channels">
+            
+               <li class="column3">
+                  <a href="/author/ed-martin/">
+                     <span class="logo"><img src="/media/authors/ed_martin_3.png.46x46_q85_box-363%2C330%2C733%2C700_crop.png"></span>
+                     <span class="name">
+                        Ed Martin
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/author/jack-myers/">
+                     <span class="logo"><img src="/media/authors/Jack_Myers_2014-2015_cropped_1.jpg.46x46_q85_box-36%2C0%2C1219%2C1182_crop.jpg"></span>
+                     <span class="name">
+                        Jack Myers
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/author/stuart-elliott/">
+                     <span class="logo"><img src="/media/authors/StuartElliott.jpg.46x46_q85_box-0%2C0%2C200%2C200_crop.jpg"></span>
+                     <span class="name">
+                        Stuart Elliott
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/author/simon-applebaum/">
+                     <span class="logo"><img src="/media/authors/simon_applebaum2_ZkB6ttk.jpg.46x46_q85_box-123%2C6%2C371%2C254_crop.jpg"></span>
+                     <span class="name">
+                        Simon Applebaum
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/author/mike-drexler/">
+                     <span class="logo"><img src="/media/authors/Mike_Drexler_2011.jpg.46x46_q85_box-102%2C0%2C410%2C307_crop.jpg"></span>
+                     <span class="name">
+                        Mike Drexler
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/author/cenk-bulbul/">
+                     <span class="logo"><img src="/media/authors/Cenk_Bulbul.jpg.46x46_q85_box-0%2C0%2C384%2C384_crop.jpg"></span>
+                     <span class="name">
+                        Cenk Bulbul
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/author/michael-kassan/">
+                     <span class="logo"><img src="/media/authors/Kassan-Michael-0008.jpg.46x46_q85_box-52%2C0%2C258%2C205_crop.jpg"></span>
+                     <span class="name">
+                        Michael Kassan
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/author/paul-s-maxwell/">
+                     <span class="logo"><img src="/media/authors/Paul_S_Maxwell_cN7yOhd.jpg.46x46_q85_box-0%2C5%2C190%2C195_crop.jpg"></span>
+                     <span class="name">
+                        Paul S. Maxwell
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/author/brian-jacobs/">
+                     <span class="logo"><img src="/media/authors/Brian_Jacobs.jpg.46x46_q85_box-99%2C0%2C396%2C297_crop.jpg"></span>
+                     <span class="name">
+                        Brian Jacobs
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/author/ed-keller/">
+                     <span class="logo"><img src="/media/authors/Ed_Keller_3-12-12.jpg.46x46_q85_box-83%2C0%2C379%2C295_crop.jpg"></span>
+                     <span class="name">
+                        Ed Keller
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/author/bill-harvey/">
+                     <span class="logo"><img src="/media/authors/Bill_Harvey__2015.jpg.46x46_q85_box-96%2C0%2C480%2C384_crop.jpg"></span>
+                     <span class="name">
+                        Bill Harvey
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/author/charlotte-lipman/">
+                     <span class="logo"><img src="/media/authors/C_Lipman.jpg.46x46_q85_box-7%2C124%2C467%2C585_crop.jpg"></span>
+                     <span class="name">
+                        Charlotte Lipman
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/author/radha-subramanyam/">
+                     <span class="logo"><img src="/media/authors/Radha_2014.jpg.46x46_q85_box-0%2C15%2C283%2C298_crop.jpg"></span>
+                     <span class="name">
+                        Radha Subramanyam
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/author/dan-hodges/">
+                     <span class="logo"><img src="/media/authors/Dan_Hodges_2014_Ag23dWN.jpg.46x46_q85_box-0%2C0%2C200%2C200_crop.jpg"></span>
+                     <span class="name">
+                        Dan Hodges
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/author/james-fennessy/">
+                     <span class="logo"><img src="/media/authors/James_Fennessy.jpg.46x46_q85_box-64%2C0%2C578%2C514_crop.jpg"></span>
+                     <span class="name">
+                        James Fennessy
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/author/john-mccauley/">
+                     <span class="logo"><img src="/media/authors/john_mccauley3.jpg.46x46_q85_box-50%2C0%2C415%2C365_crop.jpg"></span>
+                     <span class="name">
+                        John McCauley
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/author/alex-petrilli/">
+                     <span class="logo"><img src="/media/authors/AlexPetrilliportrait2012_tight_shot.jpg.46x46_q85_box-0%2C13%2C256%2C269_crop.jpg"></span>
+                     <span class="name">
+                        Alex Petrilli
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/author/charlene-weisler/">
+                     <span class="logo"><img src="/media/authors/Charlene_Weisler_vnlMt9h.jpg.46x46_q85_box-59%2C1%2C296%2C238_crop.jpg"></span>
+                     <span class="name">
+                        Charlene Weisler
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/author/walter-sabo/">
+                     <span class="logo"><img src="/media/authors/Walter_Sabo-2012.jpg.46x46_q85_box-27%2C0%2C335%2C309_crop.jpg"></span>
+                     <span class="name">
+                        Walter Sabo
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/author/cliff-marks/">
+                     <span class="logo"><img src="/media/authors/Cliff_Marks.jpg.46x46_q85_box-72%2C0%2C355%2C283_crop.jpg"></span>
+                     <span class="name">
+                        Cliff Marks
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/author/jay-sears/">
+                     <span class="logo"><img src="/media/authors/Jay_Sears_of_Rubicon_project_RUBI_Cannes.jpg.46x46_q85_box-768%2C0%2C4589%2C3821_crop.jpg"></span>
+                     <span class="name">
+                        Jay Sears
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/author/john-bohan/">
+                     <span class="logo"><img src="/media/authors/John_Bohan.jpg.46x46_q85_box-0%2C12%2C222%2C235_crop.jpg"></span>
+                     <span class="name">
+                        John Bohan
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/author/rob-norman/">
+                     <span class="logo"><img src="/media/authors/Rob.Norman_2012.JPEG.46x46_q85_box-49%2C0%2C384%2C335_crop.jpg"></span>
+                     <span class="name">
+                        Rob Norman
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/author/graeme-hutton/">
+                     <span class="logo"><img src="/media/authors/graham.jpg.46x46_q85_box-107%2C0%2C375%2C267_crop.jpg"></span>
+                     <span class="name">
+                        Graeme Hutton
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/author/david-houle/">
+                     <span class="logo"><img src="/media/authors/David_Houle_2012.jpg.46x46_q85_box-44%2C0%2C390%2C347_crop.jpg"></span>
+                     <span class="name">
+                        David Houle
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/author/steve-fajen/">
+                     <span class="logo"><img src="/media/authors/steve_fajen.JPG.46x46_q85_box-87%2C0%2C294%2C206_crop.jpg"></span>
+                     <span class="name">
+                        Steve Fajen
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/author/shelly-palmer/">
+                     <span class="logo"><img src="/media/authors/Shelly_Palmer_2014.jpg.46x46_q85_box-38%2C0%2C357%2C319_crop.jpg"></span>
+                     <span class="name">
+                        Shelly Palmer
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/author/mark-ramsey/">
+                     <span class="logo"><img src="/media/authors/ramsey_and_assacker.png.46x46_q85_box-140%2C217%2C867%2C943_crop.png"></span>
+                     <span class="name">
+                        Mark Ramsey and Tom Asacker
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/author/greg-kahn/">
+                     <span class="logo"><img src="/media/authors/Greg_Kahn.jpg.46x46_q85_box-0%2C29%2C712%2C739_crop.jpg"></span>
+                     <span class="name">
+                        Greg Kahn
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+               <li class="column3">
+                  <a href="/author/leanna-garfield/">
+                     <span class="logo"><img src="/media/authors/Leanna_Garfield.jpg.46x46_q85_box-0%2C486%2C3456%2C3947_crop.jpg"></span>
+                     <span class="name">
+                        Leanna Garfield
+                        <span class="short-tag-line"></span>
+                     </span>
+                  </a>
+               </li>
+            
+         </ul>
+      </div>
+   </div>
+</div>
+
+      </li>
+   </ul>
+</nav>
+            <div class="social mobile-social column3">
+               <ul>
+   <li><a href="https://www.facebook.com/pages/Media-Village/1010029439026926" class="color-animated-hover facebook" target="_blank"><span class="fa fa-facebook" title="Follow"></span></a></li>
+   <li><a href="https://twitter.com/mediavillagecom" class="color-animated-hover twitter" target="_blank"><span class="fa fa-twitter" title="Follow"></span></a></li>
+   <li><a href="https://www.linkedin.com/groups/MediaVillage-8272078?home=&amp;gid=8272078" class="color-animated-hover linkedin" target="_blank"><span class="fa fa-linkedin" title="Follow"></span></a></li>
+   <li><a href="https://plus.google.com/u/0/b/103067771718684878342/103067771718684878342/about" class="color-animated-hover google-plus" target="_blank"><span class="fa fa-google-plus" title="Follow"></span></a></li>
+   <li><a href="https://www.youtube.com/channel/UCYvXT9yJmAjL5EThLk3GomA" class="color-animated-hover youtube" target="_blank"><span class="fa fa-youtube" title="Follow"></span></a></li>
+   <li><a href="https://instagram.com/mediavillagecom/" class="opacity-animated-hover instagram" target="_blank"><span class="fa fa-instagram" title="Follow"></span></a></li>
+   <li><a href="/rss" class="color-animated-hover rss"><span class="fa fa-rss" title="Rss"></span></a></li>
+   <li><a href="/accounts/register/" class="color-animated-hover envelope"><span class="fa fa-envelope" title="Email"></span></a></li>
+</ul>
+
+
+            </div>
+         </div>
+      </div>
+   </header>
+
+   
+   <section class="wrapper contact-us">
+      <section class="box">
+         <h1>Privacy policy</h1>
+         <div class="crossed"><br></div>
+            <div class="styling-text">
+               <p>MediaVillage.com ("MediaVillage") is strongly committed to protecting the privacy of our customers. The purpose of this MediaVillage privacy policy is to inform you, as a welcome visitor, what kinds of information we may gather about you when you visit MediaVillage, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information. This privacy policy applies to the MediaVillage site. Please note that this policy applies only to MediaVillage, and not to other companies' or organizations' Web sites to which we link. Our policy will be continuously assessed against new technologies, business practices and our customers' changing needs. All changes to our privacy policy will be posted here so that you are aware of our current practices.</p>
+
+<h3>INFORMATION</h3>
+
+<p>MediaVillage collects personal information when you register with MediaVillage and use our products or services. When you register we ask for information such as your name, contact information, email address, gender, zip code, occupation, industry, and personal interests. Once you register with MediaVillage and sign in to our services, you are not anonymous to us. MediaVillage automatically receives and records information on our server logs from your browser, including your IP address, MediaVillage cookie information, and the page(s) you request. All requested information on the MediaVillage site is not required. You may choose to post additional information about yourself. Please do not post sensitive data on registration pages such as credit card numbers, social security numbers or other personal data. MediaVillage is not responsible for your disclosure of personal information on our registration form, sound offs, blogs, postings or other product offerings. You have the option to change your posted data at any time.</p>
+
+<h3>DISCLOSURE</h3>
+
+<p>We do not use or disclose information about your individual visits to MediaVillage or information that you may give us, such as your name, address, email address or telephone number, to any outside companies. MediaVillage may share such information in response to legal process, such as a court order or subpoena, or in special cases such as a physical threat to you or others. And we may share with our Web site partners and prospective customers aggregated statistical "ratings" information about the use of MediaVillage.</p>
+
+<h3>PROTECTION OF DATA</h3>
+
 <p>We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.</p>
-<p><u><strong>How to Contact Us </strong></u></p>
-<p>We have established procedures to ensure that every reasonable effort is made to address your concerns. If you have any questions or comments concerning this policy, please contact <a href="mailto:maryann@jackmyers.com">maryann@jackmyers.com</a> or write to us: MediaBizBloggers.com, Attn: Legal Department, PO Box 27740, Las Vegas, NV 89126.</p>
-			</td>
-			
-			
-									
-				<td width="16%" id="middle_col">
+
+<h3>HOW TO CONTACT US</h3>
+
+<p>We have established procedures to ensure that every reasonable effort is made to address your concerns. If you have any questions or comments concerning this policy, please contact&nbsp;<a href="mailto:maryann@jackmyers.com">maryann@jackmyers.com</a>&nbsp;&nbsp;or write to us: MediaVillage.com, Attn: Legal Department, PO Box 27740, Las Vegas, NV 89126.</p>
+
+            </div>
+      </section>
+   </section>
+
+   <footer>
+      <div class="wrapper">
+         <div class="logo-holder column3 not-tablet-responsive">
+            <a href="/" class="logo"><img src="/static.16/img/mv-logo.svg"></a>
+         </div>
+         <dl class="company-description column9 not-tablet-responsive">
+            <dt>MyersBizNet, Inc.</dt><dd>
+
+   <a href="/channel/women-advancing/">WomenAdvancing</a>
+    / 
+
+   <a href="/channel/planet-ed-video-reviews/">Planet Ed</a>
+    / 
+
+   <a href="/channel/wall-st-speaks-out-on-media/">Wall St. Speaks Out...on Media</a>
+    / 
+
+   <a href="/channel/futureofmen/">FutureOfMen</a>
+    / 
+
+   <a href="/channel/tomorrowtoday/">Jack Myers TomorrowToday</a>
+    / 
+
+   <a href="/channel/1stfive/">1stFive</a>
+    / 
+
+   <a href="/channel/lunch-at-michaels/">Lunch at Michael's</a>
+    / 
+
+   <a href="/channel/media-legends/">Marketing and Media Legends</a>
+   
+
+</dd>
+         </dl>
+      </div>
+      <div class="wrapper">
+         <div class="column12 line "></div>
+         <div class="column2 not-tablet-responsive">
+            <header>Company</header>
+            <nav>
+               <ul>
+                  <li><a href="/about-us/">About Us</a></li>
+                  <li><a href="/contact-us/">Contact Us</a></li>
+                  <li><a href="/privacy-policy/">Privacy Policy</a></li>
+                  <li><a href="/terms-of-use/">Terms of Use</a></li>
+                  <li><a href="/partner-showcase/">Partner Showcase</a></li>
+               </ul>
+            </nav>
+         </div>
+         <div class="column3 not-tablet-responsive">
+            <header>Follow us</header>
+            <ul class="social">
+   <li><a href="https://www.facebook.com/pages/Media-Village/1010029439026926" class="color-animated-hover facebook" target="_blank"><span class="fa fa-facebook" title="Follow"></span></a></li>
+   <li><a href="https://twitter.com/mediavillagecom" class="color-animated-hover twitter" target="_blank"><span class="fa fa-twitter" title="Follow"></span></a></li>
+   <li><a href="https://www.linkedin.com/groups/MediaVillage-8272078?home=&amp;gid=8272078" class="color-animated-hover linkedin" target="_blank"><span class="fa fa-linkedin" title="Follow"></span></a></li>
+   <li><a href="https://plus.google.com/u/0/b/103067771718684878342/103067771718684878342/about" class="color-animated-hover google-plus" target="_blank"><span class="fa fa-google-plus" title="Follow"></span></a></li>
+   <li><a href="https://www.youtube.com/channel/UCYvXT9yJmAjL5EThLk3GomA" class="color-animated-hover youtube" target="_blank"><span class="fa fa-youtube" title="Follow"></span></a></li>
+   <li><a href="https://instagram.com/mediavillagecom/" class="opacity-animated-hover instagram" target="_blank"><span class="fa fa-instagram" title="Follow"></span></a></li>
+   <li><a href="/rss" class="color-animated-hover rss"><span class="fa fa-rss" title="Rss"></span></a></li>
+   <li><a href="/accounts/register/" class="color-animated-hover envelope"><span class="fa fa-envelope" title="Email"></span></a></li>
+</ul>
 
 
-		<script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['Wide Skyscraper']){ document.write(plpm['Wide Skyscraper']);} else if (self['plunpla'] && plunpla['2162']){document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=2162&c=8500371&m=8727&d=741508&a='+plunpla['2162']+'"></scr'+'ipt>'); } else {  if(self['plurp'] && plurp['2162']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=2162&c=8500371&m=8727&d=741508"></scr'+'ipt>'); } }</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.7937946935930771&amp;p=2162&amp;c=8500371&amp;m=8727&amp;d=741508"></script>
-		<script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['Skyscraper']){ document.write(plpm['Skyscraper']);} else if (self['plunpla'] && plunpla['2147']){document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=2147&c=8500371&m=8727&d=741508&a='+plunpla['2147']+'"></scr'+'ipt>'); } else {  if(self['plurp'] && plurp['2147']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=2147&c=8500371&m=8727&d=741508"></scr'+'ipt>'); } }</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.5361525907118592&amp;p=2147&amp;c=8500371&amp;m=8727&amp;d=741508"></script>
-	</td>
-
-<td width="32%" id="right_col">
-	<script language="Javascript" type="text/javascript">if (self['plpm'] && plpm['Box']){ document.write(plpm['Box']);} else if (self['plunpla'] && plunpla['2152']){document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=2152&c=8500371&m=8727&d=741508&a='+plunpla['2152']+'"></scr'+'ipt>'); } else {  if(self['plurp'] && plurp['2152']){} else {document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r='+Math.random()+'&p=2152&c=8500371&m=8727&d=741508"></scr'+'ipt>'); } }</script><script language="Javascript" type="text/javascript" src="http://cas.clickability.com/cas/cas.js?r=0.580830943325868&amp;p=2152&amp;c=8500371&amp;m=8727&amp;d=741508"></script>
-	<br>
-<!-- span style="margin-left: 33px;">
-<script type="text/javascript"><!--
-	google_ad_client = "pub-2233113054804064";
-	/* 234x60, created 8/13/08 */
-	google_ad_slot = "9324933091";
-	google_ad_width = 234;
-	google_ad_height = 60;
-//-->
-<!-- /script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">;
-<!/script>
-</span -->
-<br>
-<div style="width:300px;margin-bottom:13px;">
-<div data-owo-type="widget" data-owo-code="ef769ef7-dd3b-4f7b-9fef-f96b2479036a" data-owo-mode="smart3"></div>
-<script src="https://1worldonline.com/poller-constructor.js" type="text/javascript" data-cfasync="false"></script>
-</div>
-	
-
-
-
-<div id="mostpopular">			
-    <img src="http://media.jackmyers.com/designimages/CommentariesImage.jpg" alt="most recent" width="300" height="28" border="0">
-    <ul type="square">
-																								                                    <li><a href="http://www.mediabizbloggers.com/media-biz-bloggers/Odds-Now-Favor-Competition-in-US-TV-Ratings-Part-10--Bill-Harvey.html">Odds Now Favor Competition in U.S. TV Ratings: Part 10 – Bill Harvey</a></li>
-                                                <li><a href="http://www.mediabizbloggers.com/media-biz-bloggers/Upfront-Update-Bravo-Esquire-and-Oxygen-Offer-Lifestyle-Lifts----Simon-Applebaum.html">Upfront News and Views: Bravo, Esquire and Oxygen Offer Lifestyle Lifts -- Simon Applebaum</a></li>
-                                                <li><a href="http://www.mediabizbloggers.com/media-biz-bloggers/2015-Network-TV-Upfront-and-Digital-NewFronts-Event-Calendar.html">2015 Network TV Upfront and Digital NewFronts Event Calendar</a></li>
-                                                <li><a href="http://www.mediabizbloggers.com/media-biz-bloggers/Advertising-Planning-Protocol-aka-The-App--Steve-Fajen.html">Advertising Planning Protocol (aka The APP) – Steve Fajen</a></li>
-                                                <li><a href="http://www.mediabizbloggers.com/media-biz-bloggers/How-Marketers-Can-Effectively-Engage-Consumers-in-a-Socially-Engaged-Second-Screen-World--Howard-Shimmel-and-Dr-Carl-Marci.html">How Marketers Can Effectively Engage Consumers in a Socially-Engaged, Second Screen World – Howard Shimmel and Dr. Carl Marci</a></li>
-                                                                                                                            </ul>
-</div>
-
-
-</td>
-
-		
-		</tr>
-		
-		</tbody></table>
-		
-	</td>
-	
-</tr>
-
-
-<tr>
-		<td colspan="3" id="footer">
-			<div id="copyright">Copyright 2015 Jack Myers. All Rights Reserved. Site powered by <a href="http://www.clickability.com"><img src="http://media.jackmyers.com/designimages/logo_clickability.gif" alt="clickability" width="63" height="16" border="0"></a></div>
-			<div id="links"><a href="/about-us" id="links2">about us</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="/contact-us" id="links2">contact us</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://media.jackmyers.com/documents/MediaBizBloggers+Editorial+Overview+and+Guidelines-2014.pdf" id="links2">editorial overview and guidelines</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="/sitemap" id="links2">site map</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="/privacy" id="links2">privacy policy</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="/terms" id="links2">terms of use</a></div>
-		</td>
-</tr>
-
-</tbody></table>
-<!-- Start Google Analytic -->
-
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-20306144-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-<!-- End Google Analytic -->
-
-<!-- Start Quantcast tag -->
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-<script type="text/javascript">
-_qacct="p-87PTHBI0gAVCI";quantserve();</script>
-<noscript>
-<a href="http://www.quantcast.com/p-87PTHBI0gAVCI" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-87PTHBI0gAVCI.gif"
-style="display: none" border="0" height="1" width="1"
-alt="Quantcast"/></a></noscript>
-<!-- End Quantcast tag -->
+         </div>
+         <div class="column3 not-tablet-responsive get-in-touch">
+            <header>GET IN TOUCH</header>
+            <p>
+               
+                  We'd like to hear from you! Call us, send us an email or request a meeting.
+               
+            </p>
+            <a href="/contact-us/" class="button button-animated-hover">Contact Us</a>
+         </div>
+         <div class="column4 not-tablet-responsive">
+            <header>Receive e-mail News &amp; Updates</header>
+            <p>
+               
+                  Thanks for visiting MediaVillage.com. Sign up for free to receive the latest news via e-mail.
+               
+            </p>
+            <a class="button button-animated-hover" href="/accounts/register/">Sign Up</a>
+         </div>
+      </div>
+   </footer>
 
 
 
