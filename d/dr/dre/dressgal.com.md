@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dressgal.com privacy policy that was archived on 2015-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150523220832id_/http%3A//www.dressgal.com/Privacy-policy-a38.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dressgal.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915062554id_/http%3A//www.dressgal.com/Privacy-policy-a38.html) for the most accurate reproduction.*
 
 # Privacy policy_About Us_Online help classification_Classification system_Women's Fashion Zone & Best Price Clothes
 
