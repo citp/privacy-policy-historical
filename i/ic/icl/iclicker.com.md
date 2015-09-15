@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iclicker.com privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011090431id_/http%3A//www1.iclicker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iclicker.com privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916004059id_/https%3A//www1.iclicker.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | iClicker
+# Privacy Policy - i>clicker
 
 **www.iclicker.com web site privacy notice  
 Effective Date July 1, 2014**
