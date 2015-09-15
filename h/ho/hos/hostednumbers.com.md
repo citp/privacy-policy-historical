@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hostednumbers.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318012706id_/http%3A//www.hostednumbers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostednumbers.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915141812id_/https%3A//www.hostednumbers.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | HostedNumbers.com
+# Privacy Policy for HostedNumbers.com
 
 ## Our Commitment to You
 
@@ -30,7 +30,9 @@ We host and manage our own Web site. It is kept in a secure physical location an
   
 When you visit one of our Web pages, some information about your visit is automatically stored in a log file. This information includes the Internet address of your computer, the time and date of your request, the type of browser you use and sometimes the address of the page from which you came (it does not include your name, e-mail address or other personal identifying information). We use this stored information to improve the Web site content and navigation, to help prevent and diagnose problems and to help us understand how to make it easier to do business with us.   
   
-For the convenience of visitors, our Web site uses "cookies." Clients use cookies to memorize usernames, passwords and preferences on a computer so they don't have to be re-set every time. Cookies are also used to track Web page navigation. This information helps us understand how visitors use the site and how we can improve it. We do not use cookies to capture personal identifying information, such as names or email addresses. 
+For the convenience of visitors, our Web site uses "cookies." Clients use cookies to memorize usernames, passwords and preferences on a computer so they don't have to be re-set every time. Cookies are also used to track Web page navigation. This information helps us understand how visitors use the site and how we can improve it. We do not use cookies to capture personal identifying information, such as names or email addresses.   
+  
+HostedNumbers.com uses Google Display Advertising data to improve the experience of our website for our users. These display features enable Google to collect data about our users via Google advertising cookies, anonymous identifiers and other data collected through Google’s standard analytics implementation. We respect your privacy and if you wish, you may opt-out of Google’s tracking features at any time. 
 
 ## Lines with Other Websites
 
