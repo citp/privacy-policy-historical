@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysale.my privacy policy that was archived on 2014-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140924103307id_/http%3A//www.mysale.my/PrivacyPolicy.aspx%3Fcid%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysale.my privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915044442id_/http%3A//www.mysale.my/PrivacyPolicy.aspx%3Fcid%3D10) for the most accurate reproduction.*
 
 # Mysale.my - Privacy
 
