@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the anedot.com privacy policy that was archived on 2015-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150605153237id_/https%3A//anedot.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anedot.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915140446id_/http%3A//www.anedot.com/privacy) for the most accurate reproduction.*
 
 # Anedot — Accept Money Everywhere
 
-Last updated July 12, 2012
+Last updated August 7, 2015
 
 **Our Privacy Commitment**
 
@@ -112,7 +112,7 @@ If you have any questions about our privacy practices or this Privacy Policy, pl
 
 **Terms of Service**
 
-Please read the [Terms of Use](https://anedot.com/legal/terms-of-service "Terms of Use"), [Merchant Account Agreement](https://anedot.com/legal/merchant-agreement "Merchant Agreement") and [Mobile Application End-User License Agreement](https://anedot.com/legal/anedot-mobile-application-end-user-license-agreement "Mobile Application End-User License Agreement") governing the use of the Site(s) and the Anedot Features. 
+Please read the [Terms of Use](https://anedot.com/terms "Terms of Use"), [Merchant Account Agreement](https://anedot.com/merchant-agreement "Merchant Agreement") and [Mobile Application End-User License Agreement](https://anedot.com/eula "Mobile Application End-User License Agreement") governing the use of the Site(s) and the Anedot Features. 
 
   
 
