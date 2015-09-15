@@ -1,73 +1,107 @@
-> *The following text is extracted and transformed from the shesfreaky.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521030920id_/http%3A//static.mofos.com/policy_files/pp.php%3Fsite%3Dsaf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shesfreaky.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915112433id_/http%3A//www.shesfreaky.com/static/privacy) for the most accurate reproduction.*
 
-# PRIVACY POLICY
+# privacy at ShesFreaky
 
-PLEASE READ THIS PRIVACY POLICY STATEMENT CAREFULLY. BY YOUR SUBSCRIPTION TO AND USE OF THIS SITE YOU WILL BE EXPRESSLY SIGNIFYING THAT YOU AGREE WITH THE POLICIES AND PRACTICES SET FORTH IN THE PRESENT PRIVACY POLICY STATEMENT AND THAT YOU ASSENT TO THE USE OF ANY PERSONAL INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU AS DETAILED IN THIS PRIVACY POLICY STATEMENT. 
+rn{$config['site_name']} Limited recognizes that its customers, visitors, users, and others who use {$config['site_name']} Video value their privacy. This privacy notice details important information regarding the use and disclosure of user information collected on the {$config['site_name']} Video site. We provide this privacy notice to help you make an informed decision about whether to use or continue using our site.rn
 
-IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATEMENT YOU SHOULD NOT SUBSCRIBE TO OR USE THIS SITE. 
+rn
 
-The present Privacy Policy Statement details important information regarding the use and disclosure of user information and/or data gathered regarding subscriber (?you?) and members of Mofos.com network (?our?, ?we?, ?us? the ?site?) websites including but not limited to, MILFS Like it Big, Pornstars like it Big, Big Tits at School, Big Tits at Work, Big Boob Pass, Mommy Got Boobs, Baby Got Boobs, Racks and Blacks, Busty and Real, Jizz on my Jugs, Jug Fuckers. In addition, this Privacy Policy sets forth all relevant policies and practices for the sites. 
+rnPlease note that any video, image, or other content posted at the direction of users onto the {$config['site_name']} Video site becomes published content and is not considered personally identifiable information subject to this privacy notice.rn
 
-## USE
+rn
 
-This is an adult site that expressly and strictly limits its membership to adults. This site does not knowingly seek or collect any personal information or data from persons under the age of 18. All persons under the age of 18 are strictly prohibited from accessing or viewing the contents on this site without exception. If you are under the age of 18 and/or under the age of majority in the jurisdiction you reside and from which you access the website, then your account will be terminated without notice or delay. 
+The Information {$config['site_name']} Limited Collects
 
-## INFORMATION COLLECTED FROM SUBSCRIBERS
+rn
 
-Any customer that joins/signs up as a subscriber of the site will be required to provide personal information as well as demographic information which may include the subscriber's name, physical address, e-mail address, zip code, country, username, and password. The site collects any and all such information and includes it in its customer database. In addition, other information such as IP address (es), referring website information, browser information, and other related data may be collected.
+rn **User-provided information:** You provide certain personally identifiable information (such as your name and email address) to {$config['site_name']} Video when choosing to participate in various activities on the sites such as uploading videos or posting messages.rn
 
-## USE OF PERSONAL SUBSCRIBER INFORMATION
+rn **Cookies Information:** When you visit the {$config['site_name']} Video site, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. {$config['site_name']} Video uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the {$config['site_name']} Video site may not function properly if the ability to accept cookies is disabled.rn
 
-If the site features or conducts any special events, special promotions or offers, contests or polls, a subscriber of the site may be asked to provide information in order to participate, if the subscriber voluntarily provides that information, all such information may be collected by the site and included in its customer database.
+rn
 
-If a subscriber sends any personal communication or correspondence by any means, to the site, or any of its employees, agents or representatives, the site may collect the information regarding that communication and include that information in its customer database. 
+rn **Log File Information:** When you use the {$config['site_name']} Video site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browserrn
 
-The site may also automatically collect traffic and click-through data as well as information regarding the online behavior of subscribers by the use of "cookies" or other programming means any information about subscribers collected by the site through the use of cookies or other programming means will generally not be associable to the specific user in any way. 
+rn
 
-## DISCLAIMER
+rn
 
-By the subscriber's use of the site, the subscriber expressly agrees that the site may use any personal information that has been provided by the subscriber or that has been collected by the site about the subscriber for any purpose, including without limitation, technical, administrative, research and development, customer administration, marketing, trading of personal data, age verification, promotional and advertising use by the site or third parties authorized to use the information by the site. 
+The Way {$config['site_name']} Video Retains Information
 
-By the subscriber's use of the site, the subscriber expressly agrees that the site may, in its sole discretion share, disclose, transfer, rent, license or sell any of the personal information about subscribers that it has gathered or collected with affiliated or unaffiliated third parties. 
+rn
 
-All personal information about a subscriber may be collected by a third-party web service provider that has an advertising banner or link on the site. 
+rn
 
-The site is not responsible or liable for the use of any information that a subscriber may provide, or that is gathered by third-party websites that have banner ads or links on the site. The site shall not be responsible for the privacy policy or the content of other such websites. This site does not control, monitor or endorse the information gathering practices or privacy policies of any of those third-party websites. 
+rnTo preserve the integrity of website databases, {$config['site_name']} Video's procedure is to retain information submitted by members for an indefinite length of time. By submitting information to {$config['site_name']} Video, you are consenting to store that information indefinitely.rn
 
-Whenever applicable, each subscriber should seek to read the privacy policy of any third-party website provider that has an advertising banner, advertises or has a link on the site.
+rn
 
-All information collected may be shared when necessary to comply with applicable law and /or to cooperate with law enforcement agencies and the courts/tribunals. 
+rn
 
-A subscriber’s IP address may be used to diagnose problems with the server and all other technical issues and to administer the websites. 
+The Way {$config['site_name']} Limited Uses Information 
 
-## SECURITY OF INFORMATION COLLECTED BY THE SITE
+rn
 
-The site has adopted and implemented reasonable and technologically feasible procedures for maintaining the security, accuracy and integrity of all personal information relating to subscribers that is collected by the site. 
+rn
 
-While the website uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information, the transmission of information via the Internet is not completely secure. All subscribers should consider any information provided to or collected by the site as non-confidential, and consequently the site assumes no liability or responsibility if any information relating to any subscriber is intercepted and/or used by an unintended recipient.
+rnIf you submit personally identifiable information to us through the {$config['site_name']} Video website, then we use your personal information to operate, maintain, and provide to you the features and functionality of the site.rn
 
-Unfortunately, the transmission of information via the Internet is not completely secure. The website uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information.
+rn
 
-## FINANCIAL INFORMATION
+rnAny personal information or video content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your account name (not your email address) is displayed to other users when you upload videos or send messages through the {$config['site_name']} Video site, and other users can contact you through messages and comments. Any videos that you submit to the {$config['site_name']} Video site may be redistributed through the Internet and other media channels, and may be viewed by the general public.rn
 
-All financial data will only be shared with the sites third party processors in order to initiate and complete any orders placed on your account. All credit card transactions and such are processed with industry standard encryption through third party processors. Said processors only use your information for that purpose. All financial data and information shall be considered private information and will not be shared by the site with third parties except with your authorization or when necessary to carry out all and any transactions requested by the user with the understanding that such transactions may be subject to rules, terms, conditions and policies of a third party. All such information provided to a third party and all transactions are not governed by this Privacy Policy. All such information provided to a third party is subject to their terms and conditions. 
+rn
 
-Subscribers e-mail address may be used by the site to communicate special offers and other relevant information such as new services, subscription information, etc. In addition, there may be occasions when a subscriber will be presented with special offers either from the operators of the site or from third-party service or content providers, which may include consent to receive e-mail solicitations, communications, newsletters, commercial advertising, or other promotional or special event materials. 
+rnWe do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes.rn
 
-## "OPT-IN" & "OPT-OUT" PROVISIONS 
+rn
 
-"OPT-IN" -- Some offers may be presented to the subscriber with the option to express the subscriber’s preference by either clicking or entering "accept" (alternatively "yes") or "decline" (alternatively "no"). By selecting or clicking the "accept" or "yes", the subscriber indicates that the subscriber "OPTS-IN" to that offer and thereby agrees and assents that the subscriber's personal information and data may be disclosed to third-parties. 
+rn
 
-"OPT-OUT" -- Other offers may be presented with a pre-selected preference or choice. If the subscriber does not deselect the pre-selected preference of choice (i.e. "OPT-OUT" of the offer) then the site may transfer the subscriber's personal profile information to the third-party service or content provider making the offer. If the subscriber deselects the pre-selected preference then no personal information about the subscriber may be disclosed to any third-party service or content provider.
+When {$config['site_name']} Video Discloses Information 
 
-## CHANGES/MODIFICATIONS TO PRIVACY POLICY
+rn
 
-This privacy policy may be changed, modified or edited at any time. It is the subscriber’s responsibility to verify the Privacy Policy intermittently to see if there has been any change. All changes to the privacy policy shall be in effect thirty days after it is posted, unless the terms of the privacy policy indicate otherwise. 
+rn
 
-## TERMS AND CONDITIONS OF MEMBERSHIP
+rnWe provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.rn
 
-Each subscriber should carefully read each of the terms and conditions of membership for the site. By accepting membership to this site, you are unconditionally accepting all of those terms and conditions. Some of those terms and conditions may also affect the right of this site to use information that it has gathered from subscribers. 
+rn
 
-### Terms and Conditions:
+rnWe do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.rn
 
-[Shes A Freak.com](http://www.shesafreak.com/tour/ "Shes A Freak.com")
+rn
+
+rnWe may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant.rn
+
+rn
+
+rn{$config['site_name']} Limited also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that, in good faith, is appropriate or necessary to enforce our terms of use, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of our company, our users or others.rn
+
+rn
+
+rn
+
+Our Commitment to Legal-Age Usage 
+
+rn
+
+rnProtecting children from adult content is especially important. For that reason, {$config['site_name']} Limited does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the {$config['site_name']} Video site from persons under 18 years of age, and no part of our website is directed to persons under 18, or legal age according to state law. If you are under 18 years of age, then please do not use or access the {$config['site_name']} Video site at any time or in any manner. If {$config['site_name']} Limited learns that personally identifiable information of persons under 18 years of age has been collected, appropriate steps will be taken to delete this information.rn
+
+rn
+
+In the Event of Merger, Sale, or Bankruptcy
+
+rn
+
+rnIn the event that {$config['site_name']} Limited is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used.rn
+
+rn
+
+Changes and updates to this Privacy Notice
+
+rn
+
+rnThis privacy notice may be revised periodically and users are encouraged to review it periodically to stay aware of any changes. Your continued use of the {$config['site_name']} Video site constitutes your agreement to this privacy notice and any future revisions.rn
+
+rn 
