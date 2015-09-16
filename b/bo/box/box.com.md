@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the box.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619220015id_/https%3A//www.box.com/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the box.com privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916062536id_/https%3A//www.box.com/legal/privacypolicy) for the most accurate reproduction.*
 
 # Box Privacy Policy | Box
 
