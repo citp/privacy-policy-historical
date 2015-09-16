@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propccleaner.com privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515145934id_/http%3A//propccleaner.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propccleaner.com privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916050628id_/http%3A//propccleaner.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pro PC Cleaner Software
 
