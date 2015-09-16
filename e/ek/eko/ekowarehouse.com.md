@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ekowarehouse.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315004856id_/http%3A//www.ekowarehouse.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ekowarehouse.com privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916043946id_/https%3A//www.ekowarehouse.com/privacy) for the most accurate reproduction.*
 
 # Ekowarehouse Privacy Policy - Global Wholesale Organic & Green Products For Exporters, Traders, Importers, Distributors, Manufacturers, Retailers, Brands | Ekowarehouse
 
