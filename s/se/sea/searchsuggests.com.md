@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the searchsuggests.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407184050id_/http%3A//searchsuggests.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchsuggests.com privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916192052id_/http%3A//searchsuggests.com/privacy) for the most accurate reproduction.*
 
-# searchsuggests.com: Privacy policy
+# searchsuggests.com : search results
 
 **Your privacy**
 
@@ -10,7 +10,7 @@ SearchSuggests.com respects the privacy of all those who use the services we pro
 
 **Use of Cookies**
 
-A “cookie” is a file sent to your browser by a Web server and stored on your computer, it contains data that Web sites use to identify you as a unique user. Companies which advertise on our site may collect information from you if you click on their advertisements or access their sites. They may do this by using cookies. Due to the way the Internet operates, we cannot control this collection of information. Most Web browsers are initially set up to accept cookies. You can change the settings of your browser to refuse all cookies or to notify you each time a cookie is sent to your computer, giving you the choice whether to accept it or not.
+A "cookie" is a file sent to your browser by a Web server and stored on your computer, it contains data that Web sites use to identify you as a unique user. Companies which advertise on our site may collect information from you if you click on their advertisements or access their sites. They may do this by using cookies. Due to the way the Internet operates, we cannot control this collection of information. Most Web browsers are initially set up to accept cookies. You can change the settings of your browser to refuse all cookies or to notify you each time a cookie is sent to your computer, giving you the choice whether to accept it or not.
 
 If you have any questions or concerns about the way in which information is collected or used by another site, then you should contact whoever is responsible for that site directly.
 
@@ -20,7 +20,7 @@ SearchSuggests.com does not collect any personal information about you (such as 
 
 **Does SearchSuggests.com disclose information to anyone else?**
 
-We do not disclose any information about our site users to any 3rd party. For example, we may disclose the total number of “hits” our sites receive, or how often the average user visits our site, or which terms are most often entered in our search engine. Please be aware, however, that we will release specific personal information about you if required by law. We receive and reply to email from users on a regular basis. For record-keeping purposes we retain copies of all incoming and outgoing email. Information in the email we receive or send will not be disclosed to any third party without the permission of the sender, either express or implied, unless required by law.
+We do not disclose any information about our site users to any 3rd party. For example, we may disclose the total number of "hits" our sites receive, or how often the average user visits our site, or which terms are most often entered in our search engine. Please be aware, however, that we will release specific personal information about you if required by law. We receive and reply to email from users on a regular basis. For record-keeping purposes we retain copies of all incoming and outgoing email. Information in the email we receive or send will not be disclosed to any third party without the permission of the sender, either express or implied, unless required by law.
 
 **Links**
 
