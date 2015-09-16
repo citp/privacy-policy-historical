@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoutlet.com privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326110227id_/http%3A//www.shoutlet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoutlet.com privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916040821id_/http%3A//www.shoutlet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Shoutlet : Shoutlet
 
