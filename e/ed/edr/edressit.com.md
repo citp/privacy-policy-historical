@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edressit.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629031015id_/http%3A//www.edressit.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edressit.com privacy policy that was archived on 2015-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150917015758id_/http%3A//www.edressit.com/Privacy.html) for the most accurate reproduction.*
 
 # Terms of Use - eDressit.com
 
@@ -20,7 +20,6 @@ How does eDressit.com collect information about me?
 How does eDressit.com use my personal information?  
 How are cookies and other technologies used to collect information?  
 Does eDressit.com ever give out my personal information?  
-Is information eDressit.com collects about me secure?  
 Are children allowed to use eDressit.com?  
 How does eDressit.com use and disclose information collected from me offline?  
 Where can I find updates to this policy?
