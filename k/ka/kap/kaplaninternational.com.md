@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kaplaninternational.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612043211id_/http%3A//www.kaplaninternational.com/terms/index.aspx%23s5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaplaninternational.com privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916093122id_/http%3A//www.kaplaninternational.com/terms/index.aspx%23s5) for the most accurate reproduction.*
 
 # Terms & Conditions
 
