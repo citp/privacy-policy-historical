@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quipper.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318002146id_/http%3A//www.quipper.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quipper.com privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916043535id_/https%3A//www.quipper.com/en/privacy) for the most accurate reproduction.*
 
 # Quipper
 
@@ -24,7 +24,7 @@ Personal Information. We may use your Personal Information in any of the followi
     3. Assignment. We reserve the right to transfer any and all information that we collect from users of the Site to a third party in the event of any merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of Quipper's assets or stock (including without limitation in connection with any bankruptcy or similar proceedings).
     4. Security Measures. Quipper has set up appropriate security measures, but despite its best efforts, it cannot completely prevent hacking. Quipper assumes no liability in the event that an account is hacked.
   4. **Updating Your Information and Contacting Us.** You may review the information we have collected and where appropriate you may request that it be corrected. We also provide you with you several options for reviewing, correcting, updating or otherwise modifying information you have previously provided: 
-    * You may email us at [contact@quipper.com](mailto:contact@quipper.com)
+    * You may email us at [support@quipper.com](mailto:support@quipper.com?subject=User%20Support%3A%20Inquiry_website)
     * You may call us on 02071524527
 Please clearly indicate the information that you wish to review or have changed. We will endeavour to comply with your request as soon as reasonably possible. Note that despite any removal of or change to Personal Information requested there may also be residual information that will remain within our databases and other records, which will not be removed or changed.
   5. **Choice.** From time to time, we may ask you to indicate whether you are interested in receiving emails and other information from Quipper. If you elect to receive these communications, we will occasionally send you emails or other information that match your requests and offer you promotions and coupons.   
