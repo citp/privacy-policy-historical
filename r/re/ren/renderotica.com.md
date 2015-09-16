@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the renderotica.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426071005id_/http%3A//www.renderotica.com/help/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the renderotica.com privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916122141id_/http%3A//www.renderotica.com/help/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Renderotica - privacy policy
+# Renderotica - Renderotica.com the online community for 3d erotica.
 
 **What information do we collect?**
 
