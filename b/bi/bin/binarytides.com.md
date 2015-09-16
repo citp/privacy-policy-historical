@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the binarytides.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615011122id_/http%3A//www.binarytides.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the binarytides.com privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916214126id_/http%3A//www.binarytides.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
