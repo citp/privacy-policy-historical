@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tommyswiss.com.au privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504130006id_/http%3A//www.tommyswiss.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tommyswiss.com.au privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916091406id_/http%3A//www.tommyswiss.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
