@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the motorstown.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619165202id_/http%3A//www.motorstown.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorstown.com privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916212338id_/http%3A//www.motorstown.com/html/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Photo of the day:
 
-[ ](http://www.motorstown.com/913-fiat-idea.html)
+[ ](http://www.motorstown.com/168-mini-cooper.html)
 
 | 
 
