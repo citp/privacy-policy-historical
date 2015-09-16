@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parkinn.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623112802id_/http%3A//www.parkinn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkinn.com privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916095643id_/http%3A//www.parkinn.com/privacy-policy) for the most accurate reproduction.*
 
 # Carlson Hotels, Inc. Privacy Policy – Your Privacy Rights - Park Inn by Radisson
 
