@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skymall.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318092945id_/http%3A//www.skymall.com/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skymall.com privacy policy that was archived on 2015-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150917003009id_/http%3A//www.skymall.com/privacy/privacy.html) for the most accurate reproduction.*
 
-# SkyMall Privacy Policy and California Privacy Policy
+# Privacy Policy & CA Privacy Policy
 
 ### Our commitment to Privacy
 
@@ -16,7 +16,7 @@ Any information you choose to provide to SkyMall.com will be protected by a pass
 
 If you have made a purchase at SkyMall, registered for one of our affiliated services or benefits programs, or signed up for another special offer or opportunity, we may occasionally update you via email of specific opportunities we feel may be of special interest to you, or we may supply your name and address to carefully screened companies who we feel may have products or services which will be of interest to you.
 
-If you would prefer not to receive notice of such opportunities, simply indicate this during the checkout process: make sure the box next to the statement "SkyMall's partners may send me information about products and services which may be of interest to me" is not checked or contact us at _[**skymallprivacypolicies@skymall.com**](mailto:skymallprivacypolicies@skymall.com)_ and request that your name be removed from our mailing list. If you have asked that we not share your information, we may still need to provide your contact information to third parties to ensure that you do not receive any marketing messages from them.
+If you would prefer not to receive notice of such opportunities, simply indicate this during the checkout process: make sure the box next to the statement "SkyMall's partners may send me information about products and services which may be of interest to me" is not checked or contact us at [ **skymallprivacypolicies@skymall.com**](mailto:skymallprivacypolicies@skymall.com)  and request that your name be removed from our mailing list. If you have asked that we not share your information, we may still need to provide your contact information to third parties to ensure that you do not receive any marketing messages from them.
 
 SkyMall.com collects statistical information which allows us to track the frequency of visits to our different merchants and departments. We also collect information associated with visits and purchases. The information is collected for statistical purposes only, does not contain any personally identifiable information, and may be shared with third parties only in the aggregate.
 
@@ -32,9 +32,10 @@ California Civil Code Section 1798.83 permits customers of SkyMall who are Calif
 
 **To make such a request, please write to us at the following address:**
 
-  * _[**skymallprivacypolicies@skymall.com**](mailto:skymallprivacypolicies@skymall.com)_
-  
-OR
+    * [**skymallprivacypolicies@skymall.com**](mailto:skymallprivacypolicies@skymall.com)
+
+OR 
+
   * SkyMall  
 Attn: Customer Service - California Privacy Rights  
 1520 E Pima St  
@@ -50,10 +51,4 @@ It is our constant intent to provide the safest and most secure shopping experie
 
 **If you have any questions, or would like further clarification on any of our policies, please e-mail us at:**
 
- **
-
-_[**skymallprivacypolicies@skymall.com**](mailto:skymallprivacypolicies@skymall.com)_
-
-**
-
-** **
+[**skymallprivacypolicies@skymall.com**](mailto:skymallprivacypolicies@skymall.com)
