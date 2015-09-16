@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yugiohcardmaker.net privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630063253id_/http%3A//forum.yugiohcardmaker.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yugiohcardmaker.net privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916234853id_/http%3A//forum.yugiohcardmaker.net/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Yugioh Card Maker Forum
 
