@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expedia.co.uk privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623201951id_/http%3A//www.expedia.co.uk/p/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expedia.co.uk privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916041832id_/http%3A//www.expedia.co.uk/p/support/privacy) for the most accurate reproduction.*
 
 # Expedia.co.uk Privacy Policy
 
@@ -74,17 +74,7 @@ The Help portion of the toolbar on most browsers will tell you how to prevent yo
 
 ## Cookies and other Web technologies
 
-We automatically collect some information about you and your computer when you visit Expedia.co.uk. For example, we will collect your IP address, Web browser software (such as Firefox, Internet Explorer or Safari), and referring website. We also may collect information about your online activity, such as trips viewed and purchases made. One of our goals in collecting this automatic nformation is to help customise your user experience. 
-
-As a member or visitor to Expedia.co.uk you will be assigned a permanent cookie file on your computer's hard drive. You can always choose to not receive a cookie file by enabling your Web browser to refuse cookies or prompt you before accepting a cookie. Be advised that, by refusing to accept a cookie, you will not be able to access many travel services and planning tools offered by this site. 
-
-When you access the My Trips or My Profile areas of the Expedia.co.uk website, reserve or purchase travel, or use selected travel planning tools, we may require you to sign in as a member, using your Member ID and password. Once you sign in as an Expedia.co.uk member, we record the Member ID and the name on the member account in the cookie file on your computer. We may also record your password in this cookie file as encrypted data if you checked the box entitled "Save this password for automatic sign-in." Your Member ID, password, and the name on your member account is stored in the cookie file as encrypted data, so no one can view the information it contains by obtaining unauthorised access to your computer. Permanent cookie files remain on your computer's hard drive until you manually delete the file. 
-
-In addition to the above cookies, we use Local Shared Objects, also referred to as "flash cookies," on our website. These are used to enhance your user experience, for example, by storing your user preferences and settings, such as your volume/mute settings, and in connection with animated content on our website. Local Shared Objects are similar to browser cookies, but can store data more complex than simple text. By themselves, they cannot do anything to or with the data on your computer. Like other cookies, they can only access personally identifiable information that you have provided on this site, and cannot be accessed by other websites. To find out more about flash cookies or how to disable them, please [click here](http://kb2.adobe.com/cps/526/52697ee8.html). 
-
-This site may also use Web beacons (also known as clear gifs, pixel tags or Web bugs), which are tiny graphics with a unique identifier, similar in function to cookies, that are placed in the code of a Web page. We use Web beacons to monitor the traffic patterns of users from one page within our sites to another, to deliver or communicate with cookies, to understand whether you have come to our site from an online advertisement displayed on a third-party website, and to improve site performance. We also may allow our service providers to use Web beacons to help us understand which emails have been opened by recipients and to track the visitor traffic and actions on our site. This helps us measure the effectiveness of our content and other offerings. 
-
-If you have any questions about our use of cookies or other technologies, please email us at our customer care : [travel@support.expedia.co.uk](mailto:travel@support.expedia.co.uk)
+For information about our use of cookies or similar technologies, please see our [Cookie Policy](http://www.expedia.co.uk/p/support/cookies)
 
 * * *
 
