@@ -1,28 +1,48 @@
-> *The following text is extracted and transformed from the 2iim.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227210305id_/http%3A//2iim.com/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2iim.com privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916125102id_/http%3A//www.2iim.com/privacy.shtml) for the most accurate reproduction.*
 
-# 2IIM - IIM CAT Classes : Disclaimer
+# 2IIM's Privacy Policy
 
-We are committed to protecting your privacy. We will only use the information that we collect about you lawfully.
+### What information does 2IIM collect from its students?
 
-We collect information about you for 2 reasons: firstly, to process your order and second, to provide you with the best possible service.
+2IIM collects information from its students when they visit our website, and make a purchase online through our website. We need this information to process the order:
 
-We will not e-mail you in the future unless you have given us your consent.
+**Personal Information**  
+_Name, Mobile No. and Shipping Address:_  
+We need this information to ship the material to you.
 
-We will give you the chance to refuse any marketing email from us or from another trader in the future.
+_Email ID:_  
+Order confirmations, and Online Course Activation and Mock CAT Account Activation require a student’s Email ID.
 
-The type of information we will collect about you includes:
+_Account Information_  
+We do not collect or store information relating to a student’s credit card, or net-banking information. This information is provided directly to our Payment Gateway, Citrus Pay, which also provides the security for online transactions.
 
-Your Name  
-Address  
-Phone Number  
-Email Address
+_Cookies_  
+Our website uses cookies to enhance the visitor’s experience. These collect non-personal information such as a student’s computer’s I.P address, your Internet Service Provider, the browser that you use, and so on. Visitors can choose to disable cookies in the settings of your browser, but doing so may cause some features of this website, to malfunction. Certain elements, like Google Analytics, and our Facebook Like Buttons, also make use of cookies.
 
-We **will never collect sensitive information about you** without your explicit consent.
+### How does 2IIM use the information we collect?
 
-The information we hold will be accurate and up to date. You can check the information that we hold about you by emailing us. If you find any inaccuracies we will delete or correct it promptly.
+2IIM uses your information for the following purposes:  
+1\. To maintain your user accounts in our Online Course Platform and Mock CAT Account Platform. Obviously, to track your progress in preparation, to maintain assessments of your performance in quizzes and Mock CATs, you will need to maintain your own account. To create your account, we will be using your personal information.  
+2\. 2IIM shares questions, updates and news about the CAT with students who sign up for our Google Groups. Joining our Groups is voluntary, and students may choose to leave the Group at any time.  
+3\. Students can leave queries through an email from our Chat Widget. We will use this email only for responding to any questions that you might have for us, and for no other purpose.  
+4\. Students can leave their Mobile Nos. with us when they register to attend our Demo Classes. We will give you a ring back to confirm a date that works for you so you can attend our Classes.  
+5\. 2IIM shares updates with students who register for a free account for our Online Course. Students can choose to unsubscribe from our mailing list at any time.  
+6\. 2IIM uses aggregated non-personal information from cookies, in the form of number of visitors, visitor locations, platforms (mobile or desktop) etc. to improve visitor experience, and feedback for developing the website. This information is anonymous.
 
-The personal information which we hold will be held securely in accordance with our internal security policy and the law.
+**2IIM Does not share any personal information with Third Parties.**
 
-We may use technology to track the patterns of behaviour of visitors to our site. This can include using a "cookie" which would be stored on your browser. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings.
+_Links to other websites_  
+2IIM does not advertise for third parties in our website, and will not host links that redirects the visitor to third-party websites. The link-outs from our website are to our own content, in blogs, or our Facebook or G+ page etc.
 
-If you have any questions/comments about privacy, you should contact us.
+### Revising the Privacy Policy
+
+As requirements change, 2IIM may revise its Privacy Policy. Visitors can stay abreast of these changes by visiting this page, which will host the latest version of our Privacy Policy. 
+
+### Your Implied Acceptance of these Terms
+
+By visiting and using our website, you have signified your acceptance of these terms. We’ll assume that you have read through this page, and have understood what information we collect from you, and how we use it. If you do not accept these terms, do not continue to make use of this website.
+
+**Contacting Us**  
+If students have any concerns about our Privacy Policy, feel free to reach us at swami@2iim.com, or bharathwaj@2iim.com. We will be happy to respond to any queries.
+
+**Happy Browsing!**
