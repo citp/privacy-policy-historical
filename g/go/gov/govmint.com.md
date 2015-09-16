@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the govmint.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502091942id_/http%3A//www.govmint.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govmint.com privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916130619id_/http%3A//www.govmint.com/privacy) for the most accurate reproduction.*
 
 # Privacy-Policy
-
-### Privacy Policy
 
 Welcome to GovMint.com® (this “Site”).
 
@@ -41,13 +39,12 @@ If you have any other questions or concerns regarding how GovMint.com manages, a
   
 **GovMint.com Privacy Policy Overview**
 
-****Welcome to GovMint.com. As a customer of GovMint.com, we respect your privacy and want to protect your personal information. We want you to understand what personal information we may collect from you, how we use such information, and the choices you have regarding our use of this information.
+Welcome to GovMint.com. As a customer of GovMint.com, we respect your privacy and want to protect your personal information. We want you to understand what personal information we may collect from you, how we use such information, and the choices you have regarding our use of this information.
 
 In this policy, "personal information" means any information by which you can be identified or contacted, such as your name (first and last), address (city, state, zip code), e-mail address, telephone number, etc.
 
 This Privacy Policy governs your experience on this website and in our catalogs unless otherwise indicated.
 
-  
 **Categories of Information We Collect**
 
 We collect personal information that you provide to us when you use this Site, and when you communicate or interact with us. For example, the information you provide when you register online or update your account, log-in, place an order or make a return with us (online, via phone, mail, email, fax or catalog), communicate online with our customer service representatives, opt-in to receive emails, opt-in to receive mobile messages or social media notifications from us, shop online, request a catalog or other content and communications from us, participate in a sweepstakes, contest, promotion or survey, join our social networking sites, interact with our mobile sites or mobile applications, work with our sales representatives to purchase items not available on our websites, use one of our social media services (i.e., GovMint.com’s Facebook page or YouTube channel), or when you contact us with a comment, question or complaint.
@@ -64,7 +61,6 @@ When you visit our website, we may use both a session and a persistent cookie. T
 
 If you register with us, this GovMint.com-placed cookie allows us to recognize you when you return to our website and provides you with access to your account information. If you save your information with or order from us, we may also use cookies to monitor and maintain information about your use of our website. If you have not saved your information with or ordered from us, we may monitor and maintain information about your use of our website in a manner that does not identify you.
 
-  
 **How We Use Your Information**
 
 We use the personal information that we collect to conduct our business and to provide you with the best possible products, services and experience. For example, we may collect and use your information:
@@ -85,7 +81,6 @@ We use the personal information that we collect to conduct our business and to p
 
 
 
-  
 **How We Share Your Information**
 
 We share the information we collect from and about you within GovMint.com, which includes all subsidiaries and affiliates. We also share the information with a limited number of third parties, as described in this policy. When GovMInt.com allows these third parties access to your information, we require them to take commercially reasonable measures to protect the confidentiality of your information and we do not permit them to use it in any way other than for the limited purpose for which it is provided.
@@ -98,7 +93,6 @@ _Business Transfers_. In the event that the company’s business assets are sold
 
 _Legal Requirements_. We may disclose personal information when we, in good faith, believe disclosure is appropriate to comply with the law, to enforce or apply applicable terms or conditions and other agreements; or to protect the rights, property, or safety of our company, our customers, or others.
 
-  
 **Social Media Interactions**
 
 GovMint.com invites you to socialize and share your purchases with your friends using Social Media tools such as Facebook, Twitter, Google+, YouTube, etc. If you choose to use these tools, you may be sharing certain profile elements, including your comments. This sharing is subject to each social media program's privacy policies. We offer links on our site to “Share” or “Like” our site or products for many of the popular social sites. To remove a “Share” or “Like” or to delete your comments you will have to make those changes directly on that specific social site.
