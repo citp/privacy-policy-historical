@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the fastwebhost.com privacy policy that was archived on 2015-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150210153717id_/http%3A//www.fastwebhost.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastwebhost.com privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916084717id_/https%3A//www.fastwebhost.com/privacy.html) for the most accurate reproduction.*
 
 # FastWebHost.com Privacy Policy
+
+**FastWebHost.com Privacy Policy**
 
 The Privacy policy below describes how FastWebHost.com (the Company) collects and uses information about its customers and website visitors (The Users)
 
@@ -24,4 +26,4 @@ The company guarantees that it applies strictly all the industry standard securi
 
 The company reserves the right to change the above Privacy Policy at any time. Such changes will become effective and binding after their posting on FastWebHost.com website. The user agrees to regularly review this privacy policy and be aware of the changes made. By continuing to use the Company's services and website after any posted revision, the User agrees to abide by it.
 
-To report an incidence of abuse, please report it to [abuse@fastwebhost.com](mailto:abuse@fastwebhost.com)
+To report an incidence of abuse, please report it to abuse@fastwebhost.com
