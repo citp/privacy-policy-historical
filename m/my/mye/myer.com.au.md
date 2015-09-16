@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the myer.com.au privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530092312id_/http%3A//www.myer.com.au/p/customer-service/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myer.com.au privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916195841id_/http%3A//www.myer.com.au/p/customer-service/Privacy) for the most accurate reproduction.*
 
 # Myer - Customer Service
 
 **Myer Privacy Policy**  
-**Updated March 2014**
+ 
 
   1. **Your privacy**
 
