@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbcshop.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609235624id_/http%3A//www.bbcshop.com/terms%2Bconditions-security%2Bprivacy/privacy-policy%2Bcookies-policy/page/privacynotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbcshop.com privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916213252id_/http%3A//www.bbcshop.com/terms%2Bconditions-security%2Bprivacy/privacy-policy%2Bcookies-policy/page/privacynotice) for the most accurate reproduction.*
 
 # Privacy Policy & Cookies Policy at BBC Shop
 
