@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pharmatutor.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607175938id_/http%3A//www.pharmatutor.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmatutor.org privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916132353id_/http%3A//www.pharmatutor.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Of Pharmatutor | PharmaTutor
 
@@ -22,6 +22,7 @@ We can be reached via e-mail at [support@pharmatutor.org](mailto:support@pharmat
   * If you feel that this site is not following its stated information policy, you may contact us at the above addresses.  
 
 
+  
 
 
 [ ](http://www.pharmatutor.org/magazines/subscribe)
