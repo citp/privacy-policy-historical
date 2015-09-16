@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickthecity.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629002030id_/http%3A//www.clickthecity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickthecity.com privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916155554id_/http%3A//www.clickthecity.com/privacy) for the most accurate reproduction.*
 
 # ClickTheCity.com Privacy Policy
 
@@ -6,7 +6,7 @@ This privacy policy sets out how Surf Shop uses and protects any information tha
 
 Surf Shop is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-Surf Shop may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from Jan 1, 2011.
+Surf Shop may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from Sep 16, 2015.
 
 ##### What we collect
 
@@ -28,6 +28,10 @@ We require this information to understand your needs and provide you with a bett
   * We may use the information to improve our products and services.
   * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
   * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize the website according to your interests.
+  * For Mobile Ordering Service  
+If you use our mobile ordering service, we will transmit your information (name, address, phone#), together with your order to our delivery partners so they can fulfil your order request.
+  * For Ticketing Service  
+If you use our ticketing service, we transmit your information (name, email address), together with the order information to our cinema partners so they can properly record your ticket purchase.
 
 
 
