@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rentalsystems.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317140422id_/https%3A//www.rentalsystems.com/cookies-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentalsystems.com privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916152402id_/https%3A//www.rentalsystems.com/cookies-privacy-policy) for the most accurate reproduction.*
 
 # Rentalsystems
 
