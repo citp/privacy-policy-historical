@@ -1,400 +1,520 @@
-<!--The following is the downloaded HTML source of the discover-dubai.ae privacy policy that was archived on 2015-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150614002003id_/http%3A//www.discover-dubai.ae/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the discover-dubai.ae privacy policy that was archived on 2015-09-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150917102608id_/http%3A//www.discover-dubai.ae/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	Privacy Policy - Discover Dubai
-</title><link href="/css/Site.css" rel="stylesheet" type="text/css">
-    <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/Scripts/jquery-v1.7.1.js" type="text/javascript"></script>
-    <script src="/Scripts/jquery-hover-effect.js" type="text/javascript"></script>
+</title><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1"><link type="text/css" rel="stylesheet" href="/css/bootstrap.css"><link type="text/css" rel="stylesheet" href="/css/main.css">
+    <script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.3"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/js/jquery.js"></script>
+    <script src="/js/bootstrap.min.js"></script>   
+    
     <script type="text/javascript">
-        //Image Hover
-        jQuery(document).ready(function () {
-            jQuery(function () {
-                jQuery('ul.da-thumbs > li').hoverdir();
+        (function ($) {
+            $(document).ready(function () {
+                $('ul.dropdown-menu [data-toggle=dropdown]').on('click', function (event) {
+                    event.preventDefault();
+                    event.stopPropagation();
+                    $(this).parent().siblings().removeClass('open');
+                    $(this).parent().toggleClass('open');
+                });
             });
-        });
-
-        jQuery(document).ready(function ($) {
-            //portfolio - show link
-            $('.mh-background').hover(
-		function () {
-		    $(this).animate({ opacity: '1' });
-		},
-		function () {
-		    $(this).animate({ opacity: '0' });
-		}
-	);
-        });
+        })(jQuery);
     </script>
 
+    <script type="text/javascript">       
+     $(function () {
+            // Fix input element click problem
+            $('.dropdown input').click(function (e) {
+                e.stopPropagation();
+            });
+        })</script>
 
-
+     
     <script>
-        (function (i, s, o, g, r, a, m) {
-            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
-                (i[r].q = i[r].q || []).push(arguments)
-            }, i[r].l = 1 * new Date(); a = s.createElement(o),
-  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
-        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
-
-        ga('create', 'UA-41228613-1', 'discover-dubai.ae');
-        ga('send', 'pageview');
-
-</script>    
-
-<script type="text/javascript">
-    function _gaLt(event) {
-        var el = event.srcElement || event.target;
-
-        /* Loop up the tree through parent elements if clicked element is not a link (eg: an image inside a link) */
-        while (el && (typeof el.tagName == 'undefined' || el.tagName.toLowerCase() != 'a' || !el.href))
-            el = el.parentNode;
-
-        if (el && el.href) {
-            if (el.href.indexOf(location.host) == -1) { /* external link */
-                ga("send", "event", "Banner Links", el.href, document.location.pathname + document.location.search);
-                /* if target not set then delay opening of window by 0.5s to allow tracking */
-                if (!el.target || el.target.match(/^_(self|parent|top)$/i)) {
-                    setTimeout(function () {
-                        document.location.href = el.href;
-                    } .bind(el), 500);
-                    /* Prevent standard click */
-                    event.preventDefault ? event.preventDefault() : event.returnValue = !1;
+        jQuery(document).ready(function () {
+            var offset = 250;
+            var duration = 300;
+            $('.back-to-top').css({"display": "none"});
+            jQuery(window).scroll(function () {
+                if (jQuery(this).scrollTop() > offset) {
+                    jQuery('.back-to-top').fadeIn(duration);
+                } else {
+                    jQuery('.back-to-top').fadeOut(duration);
                 }
-            }
+            });
 
-        }
-    }
-
+            jQuery('.back-to-top').click(function (event) {
+                event.preventDefault();
+                jQuery('html, body').animate({ scrollTop: 0 }, duration);
+                return false;
+            })
+        });
 </script>
 
+<script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-41228613-1', 'discover-dubai.ae');
+    ga('send', 'pageview');
+
+</script> 
+   
     
 </head>
-<body>    
+<body>
     <form method="post" action="privacy" id="form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1MmRkDLc7f1JkfiWRtmwZS/ZfF0S1x4MDGxPcrXfR+dK05FE=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWAgIDD2QWBAIJDw8WAh4LTmF2aWdhdGVVcmwFGWh0dHA6Ly9maXRuZXNzZmlyc3RtZS5jb20WAh4HT25DbGljawUzZ2EoJ3NlbmQnLCdldmVudCcsJ0hPTUVQQUdFJywgJ2ZpdG5lc3NmaXJzdG1lLmNvbScpFgJmDw8WAh4ISW1hZ2VVcmwFHS9iYW5uZXIvZml0bmVzcy1maXJzdC10b3AuanBnFgIeA2FsdAUNRml0bmVzcyBGaXJzdGQCCw8WAh4HVmlzaWJsZWhkZCtyepyocH9JNrc+XTJnCpYq7v3kyO7USXBI8eNsdz3n">
 
 
-<script src="/ScriptResource.axd?d=2A8yhowUqTXiSJRhHP2pN9A66qPTWMdyzd5G9qCgypWrslcqVVYoviZLjR5UwsLNJyZqw6N7mPw8xA_bEXjkqmMeU5l4IC-yMPSw5tCbmGSVNa2pNfJPINqwoOfnI_o4EH3MjFUJzAwjvXsmgyKiZff15somutvh3QTmTDqbOcob0XfIwgqsyzm5pL8p0Nxr0&amp;t=6119e399" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=9JOTYlGWtuquAEBLNHMe2KeN4hfW0B9BvzC1dRznrBBfkQkqcQfXUen5Z2i4M3tT4mt2JFRcIhuE3JvpeJnj1NrLD8lNy1hXXDaUdBGtqyjEaKNQf0eolAkVwd4AqCSTTwArkEA8iqs0Oad1bLdnU1z_-vsfhjtS2I0uSJFi-NeV4K5aTBYduJgLBEIhUD7B0&amp;t=7b689585" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
 if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
 //]]>
 </script>
 
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="EAA40B43">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAV/iEkkNnFEPHqbahAi4JlWmvxsUx1pl8I4SwgM/Usrz6piA2EYykDwh1PJ2wxhwaunNGa+dtJvzEK7SGwh0l9Mk40KatKMo3EeVPWDjMub1xg6DF2htNao8cxVZcEYSRcGzocmv7k2hL+uG7F2T6Na">
     <div>
         
           
     </div>
+        <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+          <div class="container-fluid">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#dd-menu-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <a class="navbar-brand" rel="home" href="/"><!--<img src="/img/home.png" />--> 
+              <img src="/img/discover-dubai-logo.png" height="25px"></a>
+              
+            </div>
 
-    <div id="container">
-        <div style="background-image:url(/Images/DD-Skyscrapers.jpg); width:900px; float:left; height:150px; margin:0 0 5px 10px;">
-        <div style=" float:left; color:#A7A9AC; font-weight:bold; font-size:14px; width:190px; margin-left:20px; padding-top:25px">            
-            <div style="float:left; margin:5px 5px 0 0"><img src="/Images/home.png"></div>            
-            <div style="float:left;">
-            <a href="/" class="header_button" style="letter-spacing: 1px;" title="Home">HOME</a></div>
-        </div>
-        
-        <div id="logo"><a href="/"><img src="/Images/discover-dubai-logo.png" alt="Discover Dubai Logo"></a></div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="dd-menu-navbar-collapse-1">
 
-        <div style="float:left; color:#A7A9AC; font-weight:bold; font-size:12px; margin-left:10px; padding-top:25px">            
-            <div style="float:left"><img src="/Images/arrows.png"></div>            
-            <div style="float:left; ">
-            <a href="/online-copy" class="header_button" title="Online Copy">ONLINE COPY</a></div>
-        </div>
-        </div>
-    
-        <div id="Header">  
-            <div class="masterheader">
-                <article class="border c-two" style="background-image:url(/Images/general-info.jpg)">
-		            <div style="opacity: 0;" class="mh-background General">	
-                        <h3>General Information</h3>			        
-                        <p><a href="/general/overview-of-dubai">Overview of Dubai</a></p>
-                        <p><a href="/general/information/dubai-airport">Dubai Airport</a> / <a href="/general/information/UAE-visa">UAE Visa</a></p>                        
-                        <p><a href="/general/information/climate">Climate</a></p>
-                        <p><a href="/general/information/currency">Currency</a></p>
-                        <p><a href="/general/getting-around">Getting Around</a></p>
-                        <p><a href="/general/information/misconceptions-about-local-life">Misconceptions</a> / <a href="/general/information/Do's-and-Don'ts">Do's and Don'ts</a></p>
-                        <p><a href="/general/information/drinking-water">Drinking Water</a> / 
-                        <a href="/general/information/mobile-phone-coverage">Phone</a> / 
-                        <a href="/general/information/shisha">Shisha</a></p>
-                        <p><a href="/general/arabic-names-and-phrases">Arabic Names and Phrases</a></p>
-                        <p><a href="/general/information/holidays-and-event-calendar">Holidays and Event Calendar</a></p>
-                        			
-				    </div>
-			    </article>  
-                
+              <ul class="nav navbar-nav  ">         
+                <li class="dropdown">
+                  <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+                  General Info<span class="caret"></span></a>
+                  <ul class="dropdown-menu" role="menu">
+                    <li><a href="/general-info/1015/overview-of-dubai">Overview of Dubai</a></li>
+                    <li><a href="/general-info/1016/history-of-dubai">History of Dubai</a></li>
+                    <li><a href="/general-info/1017/present-day-dubai">Present Day Dubai</a></li>
+                    <li><a href="/general-info/1018/weather">Weather</a></li>
+                    <li><a href="/general-info/1019/currency">Currency</a></li>
+                    <li><a href="/general-info/1023/local-culture">Local Culture</a></li>
+                    <li><a href="/general-info/1024/dos-and-donts">Do's and Don'ts</a></li>
+                    <li><a href="/general-info/1025/drinking-water">Drinking Water</a></li>
+                    <li><a href="/general-info/1026/phones">Phones</a></li>
+                    <li><a href="/general-info/1027/shisha-hubbly-bubbly">Shisha</a></li>
+                    <li><a href="/general-info/1028/arabic-family-names">Arabic Family Names</a></li>
+                    <li><a href="/general-info/1029/useful-arabic-phrases">Useful Arabic Phrases</a></li>
+                    <li><a href="/general-info/1139/expo-2020">EXPO 2020</a></li>
+                    <li><a href="/general-info/1156/embassies-and-consulates">Embassies &amp; Consulates</a></li>
+                    <li><a href="/general-info/1154/useful-contact-numbers">Useful Contact Numbers</a></li>
+                    <li><a href="/general-info/upcoming-projects">Upcoming Projects</a></li>
+                  </ul>
+                </li>
+                <li>
+                  <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+                  Things To Do<span class="caret"></span></a>
+                  <ul class="dropdown-menu multi-level">
+                    <li><a href="/things-to-do/happenings">What's Happenings This Month</a></li>
+                    <!--<li><a href="#">Event Calendar</a></li>-->
+                    <li><a href="/things-to-do/arts-and-exhibitions">Arts and Exhibitions</a></li>
+                    <li class="divider"></li>
+                    
+                    <li class="dropdown dropdown-submenu">
+                    <a class="dropdown-toggle" href="#" data-toggle="dropdown">Sights &amp; Attractions</a>
+					    <ul class="dropdown-menu">
+						    <li><a href="/things-to-do/sights-and-attractions/culture-and-heritage">Culture &amp; Heritage</a></li>
+							<li><a href="/things-to-do/sights-and-attractions/safaris-and-tours">Safaris and Tours</a></li>
+                            <li><a href="/things-to-do/sights-and-attractions/places-of-interest">Places of Interest</a></li>
+						    <li><a href="/things-to-do/sights-and-attractions/dubai-by-air">Dubai by Air</a></li>
+                            <li><a href="/things-to-do/sights-and-attractions/water-parks">Water Parks</a></li>
+                            <li><a href="/things-to-do/sights-and-attractions/aquariums">Aquariums</a></li>
+                            <li><a href="/things-to-do/sights-and-attractions/beach-parks">Beach Parks</a></li>
+                            <li><a href="/things-to-do/sights-and-attractions/beach-clubs">Beach Clubs</a></li>
+                            <!--<li><a href="#">Dubai Must Do&apos;s</a></li>-->
+					    </ul>
+					</li>
 
-                <article class="border c-two" style="background-image:url(/Images/sight-attractions.jpg)">
-		            <div style="opacity: 0;" class="mh-background Sights">
-                        <h3>Sights &amp; Attractions</h3>
-				        <p><a href="/sights-and-attractions/culture-and-heritage">Culture &amp; Heritage</a></p>
-                        <p><a href="/sights-and-attractions/safaris-and-tours">Safaris and Tours</a></p>
-                        <p><a href="/sights-and-attractions/iconic-building">Iconic Buildings</a></p>
-                        <p><a href="/sights-and-attractions/dubai-by-air">Dubai by Air</a></p>
-                        <p><a href="/sights-and-attractions/water-parks">Water Parks</a></p>
-                        <p><a href="/sights-and-attractions/beach-parks">Beach Parks</a></p>
-                        <p><a href="/sights-and-attractions/private-beach-clubs">Private Beach Clubs</a></p>
-                        <p><a href="/sights-and-attractions/dubai-must-dos">Dubai Must Do´s</a></p>		
-				    </div>
-			    </article>  
+                    <li class="divider"></li>
+                    <li class="dropdown dropdown-submenu">
+                    <a class="dropdown-toggle" href="#" data-toggle="dropdown">Sports &amp; Activities</a>
+					    <ul class="dropdown-menu">
+						    <li><a href="/things-to-do/sports-and-activities/water-sports">Water Sports</a></li>
+							<li><a href="/things-to-do/sports-and-activities/motor-sports">Motor Sports</a></li>
+                            <li><a href="/things-to-do/sports-and-activities/shooting-and-paintball">Shooting and Paintball</a></li>
+						    <li><a href="/things-to-do/sports-and-activities/horse-and-camel-riding">Horse and Camel Riding</a></li>
+                            <li><a href="/things-to-do/sports-and-activities/air-time">Air Time</a></li>
+                            <li><a href="/things-to-do/sports-and-activities/snow-and-ice">Snow &amp; Ice</a></li>
+                            <li><a href="/things-to-do/sports-and-activities/cycling-and-skating">Cycling &amp; Skating</a></li>
+                            <li><a href="/things-to-do/sports-and-activities/golf">Golf</a></li>
+                            <li><a href="/things-to-do/sports-and-activities/trampolining">Trampolining</a></li>
+					    </ul>
+					</li>
+                    <li class="divider"></li>
+                    <li class="dropdown dropdown-submenu">
+                    <a class="dropdown-toggle" href="#" data-toggle="dropdown">Nightlife &amp; Entertainment</a>
+					    <ul class="dropdown-menu">
+						    <li><a href="/things-to-do/nightlife-and-entertainment/clubs">Clubs</a></li>
+							<li><a href="/things-to-do/nightlife-and-entertainment/lounges">Lounges</a></li>
+                            <li><a href="/things-to-do/nightlife-and-entertainment/bars-and-pubs">Bars and Pubs</a></li>
+						    <!--<li><a href="#">We recommend...</a></li>-->
+					    </ul>
+					</li>
+                    <li class="divider"></li>
+                    <li><a href="/things-to-do/cinemas">Cinemas</a></li>
+                    <li><a href="/things-to-do/theatre">Theatre</a></li>
+                    <!--<li><a href="#">Look What You Missed!</a></li>-->
+                  </ul>
+                </li>
 
-                <article class="border c-two" style="background-image:url(/Images/sports-activities.jpg)">
-		            <div style="opacity: 0;" class="mh-background Sports">
-                        <h3>Sports &amp; Activities</h3>
-				        <p><a href="/sports-and-activities/sky-diving">Sky Diving</a></p>
-                        <p><a href="/sports-and-activities/snow-and-ice">Snow &amp; Ice</a></p>
-                        <p><a href="/sports-and-activities/water-sports">Water Sports</a></p>
-                        <p><a href="/sports-and-activities/cruising-and-fishing">Cruising and Fishing</a></p>
-                        <p><a href="/sports-and-activities/motor-sports">Motor Sports</a></p>
-                        <p><a href="/sports-and-activities/shooting-and-paintball">Shooting and Paintball</a></p>
-                        <p><a href="/sports-and-activities/horse-and-camel-riding">Horse and Camel Riding</a></p>
-                        <p><a href="/sports-and-activities/golf">Golf</a></p>	
-                        <p><a href="/sports-and-activities/tried-and-tested">Tried and Tested</a></p>		
-				    </div>
-			    </article>
-
-                <article class="border c-two" style="background-image:url(/Images/health-beauty.jpg)">
-		            <div style="opacity: 0;" class="mh-background Health">
-                        <h3>Health &amp; Fitness</h3>
-                        <p><a href="/health-fitness-and-beauty/health-and-fitness/gymnasium">Gymnasium</a></p>
-                        <!--<p><a href="/health-and-beauty/pharmacies">Pharmacies</a></p>-->
-                        <p><a href="/health-fitness-and-beauty/health-and-fitness/pharmacies">Pharmacies</a></p>
-                        <h3>Beauty &amp; Pampering</h3>
-				        <!--<p><a href="/health-and-beauty/spas">Spa&apos;s</a></p>-->
-                        <p><a href="/health-fitness-and-beauty/health-and-fitness/spas">Spa's</a></p>
-                        <p><a href="/health-fitness-and-beauty/beauty-and-pampering/mens-grooming">Mens Grooming</a></p>
-                        <!--<p><a href="/health-and-beauty/beauty-salons">Salons</a></p>-->
-                        <p><a href="/health-fitness-and-beauty/health-and-fitness/beauty-salons">Salons</a></p>                       
-                        
-				    </div>
-			    </article>
-                
-                <article class="border c-two" style="background-image:url(/Images/shopping.jpg)">
-		            <div style="opacity: 0;" class="mh-background Shopping">
-                        <h3>Shopping</h3>
-				        <p><a href="/shopping/shop-'til-you-drop">Shop 'til you drop</a></p>
-                        <p><a href="/shopping/malls-and-souks">Shopping Malls and Souks</a></p> 
-                        <p><a href="/shopping/we-recommend">We recommend</a></p> 
-						<p><a href="/shopping/local-talent">Local Talent</a></p>
-				    </div>
-			    </article>
-
-                <article class="border c-two" style="background-image:url(/Images/dining-out.jpg)">
-		            <div style="opacity: 0;" class="mh-background Dining">
-                        <h3>Dining Out</h3>						                   
-				        <p><a href="/dining-out/this-months-offers">This months offers</a></p>
-						<p><a href="/dining-out/iftar-offers">Iftar Offers</a></p> 
-						<!--<p><a href="/dining-out/chinese-new-year">Chinese New Year</a></p>                    
-                        <p><a href="/dining-out/cafes-and-restaurants">Cafes and Restaurants</a></p>-->
-                        <p><a href="/dining-out/best-views">Best Views</a></p>
-                        <p><a href="/dining-out/friday-brunch">Friday Brunch</a></p>
-                        <p><a href="/dining-out/fine-dining">Fine Dining</a></p>	
-                        <p><a href="/dining-out/romantic-restaurants">Romantic Restaurants</a></p>	
-                        <p><a href="/dining-out/tried-and-tested">Tried and Tested</a></p>                      
-                        <p><a href="/dining-out/hot-new-venue">Hot New Venue!</a></p>
-                        <!--<p><a href="/dining-out/coming-soon">Coming Soon</a></p>-->		
-				    </div>
-			    </article>
+                <li class="dropdown">
+                  <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+                  Shop &amp; Dine<span class="caret"></span></a>
+                  <ul class="dropdown-menu" role="menu">
+                    <li class="dropdown dropdown-submenu">
+                    <a class="dropdown-toggle" href="#" data-toggle="dropdown">Shopping</a>
+					    <ul class="dropdown-menu">
+						    <li><a href="/shop-and-dine/shopping/malls">Shopping Malls</a></li>
+                            <li><a href="/things-to-do/sights-and-attractions/places-of-interest/1114/dubai-creek-and-deira">Souks</a></li>
+                            <li><a href="/shop-and-dine/shopping/boutiques">Boutiques</a></li>
+                            <!--<li><a href="#">We recommend</a></li>-->
+                            <li><a href="/shop-and-dine/shopping/local-talent">Local Talent</a></li>
+					    </ul>
+					</li>
+                    <li class="divider"></li>
+                    <li class="dropdown dropdown-submenu">
+                    <a class="dropdown-toggle" href="#" data-toggle="dropdown">Dining</a>
+					    <ul class="dropdown-menu">
+						    <li><a href="/shop-and-dine/dining/offers">Offers</a></li>
+                            <li><a href="/shop-and-dine/dining/friday-brunch">Friday Brunch</a></li>
+                            <li><a href="/shop-and-dine/dining/romantic-restaurants">Romantic Restaurants</a></li>
+                            <li><a href="/shop-and-dine/dining/celebrity-chefs">Celebrity Chefs</a></li>
+                            <li><a href="/shop-and-dine/dining/tried-and-tested">Tried and Tested</a></li>
+                            <!--<li><a href="#">Hot New Venues!</a></li>
+                            <li><a href="#">Home Delivery</a></li>-->
+                            <li><a href="/directory/?category=restaurant">Restaurant Directory</a></li>                            
+					    </ul>
+					</li>
+                   
+                  </ul>
+                </li>                
                
-                <article class="border c-two" style="background-image:url(/Images/nightlife-entertainment.jpg)">
-		            <div style="opacity: 0;" class="mh-background Nightlife">
-                        <h3 style="line-height:1em">Nightlife &amp; Entertainment</h3>
-                        <p><a href="/nightlife-and-entertainment">Overview</a></p>
-                        <p><a href="/nightlife-and-entertainment/ladies-nights">Ladies Nights</a></p>
-                        <p><a href="/nightlife-and-entertainment/clubs">Clubs</a></p>
-                        <p><a href="/nightlife-and-entertainment/lounges">Lounges</a></p>
-                        <p><a href="/nightlife-and-entertainment/bars-and-pubs">Bars and Pubs</a></p>	
-                        <p><a href="/nightlife-and-entertainment/we-recommend...">We Recommend...</a></p>	
-				    </div>
-			    </article>
+                <li class="dropdown">
+                  <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+                  Health &amp; Wellness<span class="caret"></span></a>
+                  <ul class="dropdown-menu" role="menu">
+                    <li><a href="/health-and-wellness/health-clubs-and-gymnasiums">Health Clubs &amp; Gymnasiums</a></li>
+                    <li><a href="/directory/?category=spas">Spas</a></li>
+                    <li><a href="/directory/?category=beauty-salons">Beauty Salons</a></li>
+                    <li><a href="/directory/?category=mens-grooming">Men's Grooming</a></li>
+                    <li><a href="/health-and-wellness/accident-and-emergencies/1155/accident-and-emergencies">Accident &amp; Emergencies</a></li>
+                    <li><a href="/directory/?category=pharmacies">Pharmacies</a></li>
+                  </ul>
+                </li>
 
-                <article class="border c-two" style="background-image:url(/Images/hotel-and-properties.jpg)">
-		            <div style="opacity: 0;" class="mh-background Property">
-                        <h3>Hotels &amp; Property</h3>
-				        <p><a href="/hotels">Hotels</a></p>
-                        <p><a href="/accommodations">Accommodation</a></p>		
-                        <p><a href="/real-estate">Real Estate</a></p>		
-				    </div>
-			    </article>
-            
+                <li class="dropdown">
+                  <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+                  Getting Around<span class="caret"></span></a>
+                  <ul class="dropdown-menu" role="menu">
+                    <li><a href="/getting-around/1030/hire-cars">Hire Cars</a></li>
+                    <li><a href="/getting-around/1031/limousine">Limousines</a></li>
+                    <li><a href="/getting-around/1032/dubai-taxi">Dubai Taxi</a></li>
+                    <li><a href="/getting-around/1033/dubai-metro--tram-system">Dubai Metro &amp; Tram System</a></li>
+                    <li><a href="/getting-around/1034/marine-transport">Marine Transport</a></li>
+                    <li><a href="/getting-around/1035/public-buses">Public Buses</a></li>
+                  </ul>
+                </li>
+
+                <li class="dropdown">
+                  <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+                  Planning Your Trip<span class="caret"></span></a>
+                  <ul class="dropdown-menu" role="menu">
+                    <li><a href="/planning-your-trip/1072/dubai-airport">Dubai Airport</a></li>
+                    <li><a href="/planning-your-trip/1075/uae-visa">Visas</a></li>
+                    <li><a href="/directory/?category=hotels">Hotels</a></li>
+                    <li><a href="/directory/?category=accommodation">Accommodation</a></li>
+                    <li><a href="/directory/?category=real-estate">Real Estate</a></li>
+                    <!--<li><a href="#">Weekly Planner</a></li>-->           
+                  </ul>
+                </li>
+
+              </ul>
+
+              <ul class="nav navbar-nav navbar-right">
+                <li><a href="/emagazine">e-Magazine</a></li>
+                <li><a href="http://connector.ae/subscribe/free" target="_blank">Free Magazine</a></li>
                 
-            </div>                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+                <li class="dropdown">
+                  <a href="#" class="dropdown-toggle btn btn-lg" data-toggle="dropdown" role="button" aria-expanded="false">
+                  <span class="glyphicon glyphicon-search" aria-label="Search"></span></a>
+                  <ul class="dropdown-menu " role="menu">
+                    <li>
+                       <div class="form-group form-inline" style="padding:12px; width:250px">
+                       &nbsp;
+                       <input name="ctl00$txtSearchTop" type="text" id="txtSearchTop" class="form-control" placeholder="Search">
+                       <a id="LinkbtnSearch" class="btn btn-primary" href='javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl00$LinkbtnSearch", "", true, "searchall", "", false, true))'>
+                            <i class="glyphicon glyphicon-search"></i>
+                        </a>
+                       
+                       </div>
+                    </li>
+                  </ul>
+                </li>
+              </ul>      
+              
+            </div><!-- /.navbar-collapse -->
+          </div><!-- /.container-fluid -->
+        </nav>
+        <div class="container" style="padding:74px 0 0 0; border:2px solid #ccc; border-bottom:0px;">
+        <section style="margin-bottom:5px; padding-bottom:0; background: url('/img/background-header33-2.jpg') no-repeat left;">
+            <div class="row" style="padding:0 15px">
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4 " style="padding:0 0 0 15px">
+                    <a href="/">
+                    <img src="/img/logo-DD.png" style="max-height:75px; margin-right:40px; margin-top:-5px" class="img-responsive img-left">
+                    </a>
+                    <span style="padding:4px 0; display:block">
+                    <a href="https://www.facebook.com/discoverdubai" target="_blank">
+                    <img class="img-responsive img-left" style="max-width:36px" src="/img/social/facebook.png" alt="Facebook">
+                    </a> 
+                    <a href="https://instagram.com/discover_dubaiae/" target="_blank">
+                    <img class="img-responsive img-left" style="max-width:36px" src="/img/social/insta.png" alt="Instagram">
+                    </a>
+                    <a href="https://twitter.com/discoverdxb" target="_blank">
+                    <img class="img-responsive img-left" style="max-width:36px;" src="/img/social/twitter.png" alt="Twitter">
+                    </a>
+                    <a href="https://www.youtube.com/user/connectordubai" target="_blank">
+                    <img class="img-responsive img-left" style="max-width:36px" src="/img/social/youtube.png" alt="Youtube">
+                    </a> 
+                    </span> 
+                    <p class="slogan1">
+                    The only Dubai guide you'll ever need!</p>  
+                </div>
+                <div class="col-lg-8 visible-lg">
+                    <a id="HyperTopBanner" onclick="ga('send','event','HOMEPAGE', 'fitnessfirstme.com')" href="http://fitnessfirstme.com" target="_blank"><img id="imgTopBanner" class="img-responsive center-all" alt="Fitness First" src="/banner/fitness-first-top.jpg"></a>
+                                        
+                </div>
+                
+            </div>
+           
+    </section>
+        </div>
+        <div class="container" style="border:2px solid #ccc; border-bottom-color: transparent; padding-bottom:20px; border-top: 0px">
+        <header class="image-bg-fluid-height">     
             
-        </div>               
+        </header>        
             
-        
-       
-<div style="float:left;
-    width:850px;    
-	margin-left:40px;
-	font-size:14px;
-	line-height:1.8em;
-	letter-spacing:0.02em;">
-<img src="/Images/privacy-header.jpg" alt="Privacy Policy"><br>
-<p>
-  All rights reserved. No part of this site may be reproduced without our written permission. </p>
-<p> <strong>Our Commitment To Privacy</strong></p>
-<p>  Your privacy is important to us. This privacy policy sets out how <a href="http://www.mydubaiconnection.com/">www.discover-dubai.ae</a> name uses and protects any information that you give <a href="http://www.mydubaiconnection.com/">www.discover-dubai.ae</a> when you use this website.</p>
-<p><a href="http://www.mydubaiconnection.com/">www.discover-dubai.ae</a> is committed to ensuring that your privacy is protected. Should we ask   you to provide certain information by which you can be identified when   using this website, then you can be assured that it will only be used in   accordance with this privacy statement. We will not sell, distribute or   lease your personal information to third parties unless we have your   permission or are required by law to do so. We may use your personal   information to send you promotional information about third parties   which we think you may find interesting if you tell us that you wish   this to happen.</p>
-<p><strong>What we collect</strong></p>
-<p><strong>We may collect the following information:</strong></p>
-<ul>
-  <li>name </li>
-  <li>contact information including email address</li>
-  <li>other information relevant to customer surveys and/or offers</li>
+   
+    <section style="margin:20px 0;">
+            <div class="row">
+                <!--Middle-->
+                <div class="col-md-12">
+                 <div class="MoreMagazineHeader">PRIVACY POLICY</div>  
+                 <div class="col-md-12">   
+                        
+                    <p>All rights  reserved. No part of this site may be reproduced without our written  permission.</p>
+<p><strong>Our  Commitment To Your Privacy</strong></p>
+<p>Discover  Dubai&nbsp;is committed to ensuring your privacy is protected. This privacy  policy sets out how&nbsp;<a href="http://www.discover-dubai.ae">www.discover-dubai.ae</a> uses and protects any information you provide when using this website.<br>
+  Should we  ask you to provide information by which you can be identified; you can be  assured that it will only be used in accordance with this privacy statement. We  will not sell, distribute or lease your personal information to third parties  unless we have your permission or are required to do so by law. We may use your  personal information to send you promotional information about third parties  which we think you may find interesting, unless you tell us you do not wish  this to happen.</p>
+<p><strong>What we  collect</strong></p>
+<p><strong>We may  collect the following information:</strong></p>
+<ul type="disc">
+  <li>name</li>
+  <li>contact information including       phone number and email address</li>
+  <li>other information relevant to       customer surveys and/or offers</li>
 </ul>
-<p><strong>What we do with the information we gather</strong></p>
-<p>We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:</p>
-<ul>
+<p><strong>What we  do with the information we gather</strong></p>
+<p>We require  this information to understand your needs, provide you with a better service  and in particular for the following:</p>
+<ul type="disc">
   <li>Internal record keeping.</li>
-  <li>We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.</li>
-  <li>From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.</li>
+  <li>We may periodically send       promotional emails about new products, special offers or other information       which we think you may find interesting using the email address which you       have provided.</li>
+  <li>From time to time, we may also       use your information to contact you for market research purposes. We may       contact you by email, phone, fax or mail. We may use the information to       customise the website according to your interests.</li>
 </ul>
 <p><strong>Security</strong></p>
-<p>We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place   suitable physical, electronic and managerial procedures to safeguard and   secure the information we collect online.</p>
-<p><strong>How we use cookies</strong></p>
-<p>A cookie is a small file which asks permission to be placed on your computer´s hard drive. Once you agree, the file is added and the cookie   helps analyse web traffic or lets you know when you visit a particular   site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.</p>
-<p>We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website   in order to tailor it to customer needs. We only use this information   for internal statistical analysis purposes.<br>
-Overall, cookies help us   provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us   access to your computer or any information about you, other than the   data you choose to share with us.</p>
-<p>You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from   taking full advantage of the website.</p>
-<p><strong>Links to other websites</strong></p>
-<p>Our website may&nbsp;contain links to other websites of interest. However, once you have used these links to leave our site, you should note that   we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.</p>
-<p><a href="http://www.mydubaiconnection.com/">www.discover-dubai.ae</a>&nbsp;may change this policy from time to time by updating this page. You should   check this page from time to time to ensure that you are happy with any changes. This policy is effective from 27th May 2010.</p>
-<h3>Disclaimer</h3>
-<p>The information contained in this website is for general information purposes only. The information is provided by <a href="http://www.mydubaiconnection.com/">www.discover-dubai.ae</a> and while we endeavour to keep the information up to date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the website or the information, products, services, contained on the website for any purpose. Any reliance you place on such information is therefore strictly at your own risk.</p>
-<p>Through this website you are able to link to other websites which are not under the control of <a href="http://www.mydubaiconnection.com/">www.discover-dubai.ae</a>. We have no control over the nature, content and availability of those sites. The inclusion of any links does not necessarily imply a recommendation or endorse the views expressed within them.</p>
-<p>Every effort is made to keep the website up and running smoothly. However, <a href="http://www.mydubaiconnection.com/">www.discover-dubai.ae</a>&nbsp;takes no responsibility for, and will not be liable for, the website being temporarily unavailable due to technical issues beyond our control.</p>
-
-</div>
-       	           
+<p>We are  committed to ensuring that your information is secure. In order to prevent  unauthorised access or disclosure, we have put in place suitable physical,  electronic and managerial procedures to safeguard and secure the information we  collect online.</p>
+<p><strong>How we  use cookies</strong></p>
+<p>A cookie is  a small file which asks permission to be placed on your computer´s hard drive.  Once you agree, the file is added and the cookie helps analyse web traffic or  lets you know when you visit a particular site. Cookies allow web applications  to respond to you as an individual. The web application can tailor its  operations to your needs, likes and dislikes by gathering and remembering  information about your preferences.</p>
+<p>We use  traffic log cookies to identify which pages are being used. This helps us  analyse data about webpage traffic and improve our website in order to tailor  it to customer needs. We only use this information for internal statistical  analysis purposes.</p>
+<p>Overall,  cookies help us provide you with a better website, by enabling us to monitor  which pages you find useful and which you do not. A cookie in no way gives us  access to your computer or any information about you, other than the data you  choose to share with us.</p>
+<p>You can  choose to accept or decline cookies. Most web browsers automatically accept  cookies, but you can usually modify your browser setting to decline cookies if  you prefer. This may prevent you from taking full advantage of the website.</p>
+<p><strong>Links to  other websites</strong></p>
+<p>Our website  may&nbsp;contain links to other websites of interest. However, we do not have  any control over these websites and cannot be responsible for the protection  and privacy of any information which you provide whilst visiting such sites and  such sites are not governed by this privacy statement. You should exercise  caution when leaving <a href="http://www.discover-dubai.ae">www.discover-dubai.ae</a> and look at the privacy statement applicable to the website you are visiting.</p>
+<p><a href="http://discover-dubai.ae/">www.discover-dubai.ae</a>&nbsp;may change this  policy from time to time by updating this page. You should check this page on  occasion to ensure that you are happy with any changes. This policy is  effective from 1st July 2015.</p>
+<p><strong>Disclaimer</strong></p>
+<p>The  information contained in this website is for general information purposes only.  The information is provided by&nbsp;<a href="http://discover-dubai.ae/">www.discover-dubai.ae</a>&nbsp;and  while we endeavour to keep the information up to date and correct, we make no  representations or warranties of any kind, express or implied, about the  completeness, accuracy, reliability, suitability or availability with respect  to the website or the information, products, services, contained on the website  for any purpose. Any reliance you place on such information is therefore  strictly at your own risk.</p>
+<p>Through  this website you are able to link to other websites which are not under the  control of&nbsp;<a href="http://discover-dubai.ae/">www.discover-dubai.ae</a>.  We have no control over the nature, content and availability of those sites.  The inclusion of any links does not necessarily imply a recommendation or  endorse the views expressed within them.</p>
+<p>Every  effort is made to keep the website up and running smoothly. However,&nbsp;<a href="http://discover-dubai.ae/">www.discover-dubai.ae</a>&nbsp;takes no  responsibility for, and will not be liable for, the website being temporarily  unavailable due to technical issues beyond our control. </p>
+                   </div>            
+                </div>  
+                <!-- /Middle-->              
+               
+            </div>
+          
        
-            
-    </div>
-    <div id="mainfooter">
-        <div id="footer">
-            <div style="width:705px; float:left">
-                <div class="subdiv" style="width:185px">
-                    <div style="height:175px">
-                        <span>General Information</span><br>
-                        <a href="/general/overview-of-dubai">Overview of Dubai</a><br>
-                        <a href="/general/information/dubai-airport">Dubai Airport</a> / <a href="/general/information/UAE-visa">UAE Visa</a><br>                        
-                        <a href="/general/information/climate">Climate</a><br>
-                        <a href="/general/information/currency">Currency</a><br>
-                        <a href="/general/getting-around">Getting Around</a><br>
-                        <a href="/general/information/misconceptions-about-local-life">Misconceptions</a> / <a href="/general/information/Do's-and-Don'ts">Do's and Don'ts</a><br>
-                        <a href="/general/information/drinking-water">Drinking Water</a> / 
-                        <a href="/general/information/mobile-phone-coverage">Phone</a> / 
-                        <a href="/general/information/shisha">Shisha</a><br>
-                        <a href="/general/arabic-names-and-phrases">Arabic Names and Phrases</a><br>
-                        <a href="/general/information/holidays-and-event-calendar">Holidays and Event Calendar</a>
-                    </div>
-                    <div>
-                        <span>Shopping</span><br>
-                        <a href="/shopping/shop-'til-you-drop">Shop 'til you drop</a><br>
-                        <a href="/shopping/malls-and-souks">Shopping Malls and Souks</a><br>
-                        <a href="/shopping/we-recommend">We recommend</a>
-                        
-                        <p><span><a href="/happenings" style="color:#000; ">What's Happening</a></span></p>
-                        <p><span><a href="/map-of-dubai" style="color:#000">Map of Dubai</a></span></p>                                             
-                    </div>                        
-                </div>
-                <div class="subdiv" style="width:150px">
-                    <div style="height:175px">
-                        <span>Sights &amp; Attractions</span><br>
-                        <a href="/sights-and-attractions/culture-and-heritage">Culture &amp; Heritage</a><br>
-                        <a href="/sights-and-attractions/safaris-and-tours">Safaris and Tours</a><br>
-                        <a href="/sights-and-attractions/iconic-building">Iconic Buildings</a><br>
-                        <a href="/sights-and-attractions/dubai-by-air">Dubai by Air</a><br>
-                        <a href="/sights-and-attractions/water-parks">Water Parks</a><br>
-                        <a href="/sights-and-attractions/beach-parks">Beach Parks</a><br>
-                        <a href="/sights-and-attractions/private-beach-clubs">Private Beach Clubs</a><br>
-                        <a href="/sights-and-attractions/dubai-must-dos">Dubai Must Do´s</a>
-                    </div>
-                    <div>
-                        <span>Dining Out</span><br>                        
-				        <a href="/dining-out/this-months-offers">This months offers</a><br>
-                        <a href="/dining-out/afternoon-tea">Afternoon Tea</a><br>
-                        <a href="/dining-out/cafes-and-restaurants">Cafes and Restaurants</a><br>
-                        <a href="/dining-out/best-views">Best Views</a><br>
-                        <a href="/dining-out/friday-brunch">Friday Brunch</a><br>
-                        <a href="/dining-out/fine-dining">Fine Dining</a><br>	
-                        <a href="/dining-out/romantic-restaurants">Romantic Restaurants</a><br>	
-                        <a href="/dining-out/tried-and-tested">Tried and Tested</a>
-                    </div>
+    </section>
+
+            <section>
+                <div class="row-fluid">
+                        <div class="col-md-12" style="margin:20px 0 5px 0; border:2px solid #ccc; padding:0; overflow:hidden ">
+                            <div class="col-lg-2 col-md-2 col-sm-12" style="  font-size:16px; font-weight:600;
+                                 letter-spacing:1.5px;  margin-bottom: -9999px;	padding-bottom: 9999px; padding-top:10px">
+                                FOLLOW<br> Discover Dubai 
+                                <img src="/img/arrows.jpg" width="50px">
+                            </div>
+                            <div class="col-lg-6 col-md-5 col-sm-12" style="margin-top:10px; padding:10px 25px 10px 25px; background:#fff">
+                                <span style="font-family:DonnysHand,Sans-Serif; font-size:24px; font-weight:bold; color:#ec8902">
+                                Stay Connected - Drop us your email.</span>
+                                &nbsp;                       
+                                <br>
+                                <div class="form-group" style="margin-top:10px;">
+                                   <input name="ctl00$txtNewsletterEmail" type="text" id="txtNewsletterEmail" class="form-control" placeholder="Your email address">
+                                   <input type="submit" name="ctl00$btnNewsletterEmail" value="Sign me up" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$btnNewsletterEmail&quot;, &quot;&quot;, true, &quot;NewsletterB&quot;, &quot;&quot;, false, false))" id="btnNewsletterEmail" class="btn btn-primary" style="margin-bottom:3px">
+                                </div> 
+                            </div>
+                            <div class="col-lg-4 col-md-5 col-sm-12" style="padding:15px; line-height:3em; background:#fff; border-left:1px solid #ccc ">
+                                <div class="col-md-6 " style="float:left">
+                                <a href="https://www.facebook.com/discoverdubai" target="_blank" style="font-weight:600">
+                                <img style="width:36px" src="/img/social/facebook.png" alt="Facebook"> FACEBOOK
+                                </a>
+                                </div>
+                                <div class="col-md-6 " style="float:left">
+                                <a href="https://instagram.com/discover_dubaiae/" target="_blank" style="font-weight:600">
+                                <img style="width:36px" src="/img/social/insta.png" alt="Instagram"> INSTAGRAM
+                                </a></div>
+                                <div class="col-md-6 " style="float:left">
+                                <a href="https://twitter.com/discoverdxb" target="_blank" style="font-weight:600">
+                                <img style=" width:36px" src="/img/social/twitter.png" alt="Twitter"> TWITTER
+                                </a></div>
+                                <div class="col-md-6 " style="float:left">
+                                <a href="https://www.youtube.com/user/connectordubai" target="_blank" style="font-weight:600">
+                                <img style="width:36px" src="/img/social/youtube.png" alt="Youtube"> YOUTUBE
+                                </a></div>
+                            </div>
+                        </div>
                     
                 </div>
-                <div class="subdiv" style="width:170px">
-                    <div style="height:175px">
-                        <span>Sports &amp; Activities</span><br>
-                        <a href="/sports-and-activities/sky-diving">Sky Diving</a><br>
-                        <a href="/sports-and-activities/snow-and-ice">Snow &amp; Ice</a><br>
-                        <a href="/sports-and-activities/water-sports">Water Sports</a><br>
-                        <a href="/sports-and-activities/cruising-and-fishing">Cruising and Fishing</a><br>
-                        <a href="/sports-and-activities/motor-sports">Motor Sports</a><br>
-                        <a href="/sports-and-activities/shooting-and-paintball">Shooting and Paintball</a><br>
-                        <a href="/sports-and-activities/horse-and-camel-riding">Horse and Camel Riding</a><br>
-                        <a href="/sports-and-activities/golf">Golf</a><br>
-                        <a href="/sports-and-activities/tried-and-tested">Tried and Tested</a>
-                    </div>
-                    <div>
-                        <span>Nightlife &amp; Entertainment</span><br>
-                        <a href="/nightlife-and-entertainment">Overview</a><br>
-                        <a href="/nightlife-and-entertainment/ladies-nights">Ladies Nights</a><br>
-                        <a href="/nightlife-and-entertainment/clubs">Clubs</a><br>
-                        <a href="/nightlife-and-entertainment/lounges">Lounges</a><br>
-                        <a href="/nightlife-and-entertainment/bars-and-pubs">Bars and Pubs</a>        
-                    </div>
-                    
-                </div>
-                <div class="subdiv" style="width:175px">
-                    <div style="height:175px">
-                        
-
-                        <span>Health &amp; Fitness</span><br>
-                        <a href="/health-fitness-and-beauty/health-and-fitness/gymnasium">Gymnasium</a><br>                       
-                        <a href="/health-fitness-and-beauty/health-and-fitness/pharmacies">Pharmacies</a><br><br>
-
-                        <span>Beauty &amp; Pampering</span><br>				        
-                        <a href="/health-fitness-and-beauty/health-and-fitness/spas">Spa's</a><br>
-                        <a href="/health-fitness-and-beauty/beauty-and-pampering/mens-grooming">Mens Grooming</a><br>
-                        <a href="/health-fitness-and-beauty/health-and-fitness/beauty-salons">Salons</a>                         
-                        
-                    </div>
-                    <div>
-                        <span>Hotels &amp; Property</span><br>
-				        <a href="/hotels">Hotels</a><br>
-                        <a href="/accommodations">Accommodation</a><br>		
-                        <a href="/real-estate">Real Estate</a>                        
-                    </div>
-                </div>
-                
-                <div style="width:750px; float:left; text-align:center; font-size:11px; color:#000; margin-top:18px; line-height:normal">
-                    <p>© Connector Publishing 2005 - 2015 | All Rights Reserved <br> Last update: 01.June.2015</p>
-                </div>                
-            </div>
-
-            <div class="fastlink">
-                <span style=" font-weight:bold; color:#150958; font-size:14px">Company</span> <br>
-                <a href="/about-us">About Us</a> <br>
-                <a href="/contact-us">Contact Us</a> <br> 
-                <a href="/registration">Register</a> <br>
-                <a href="/advertise">Advertising</a> <br>
-                <a href="/privacy">Privacy Policy</a> <br>
-
-                <p>
-                <span style=" font-weight:bold; color:#150958; font-size:14px">Social Media</span> <br>
-                <a href="http://facebook.com/discoverdubai" target="_blank">Facebook</a> <br>
-				<a href="http://twitter.com/discoverdxb" target="_blank">Twitter</a> <br>
-				<a href="http://instagram.com/discover_dubaiae  " target="_blank">Instagram</a> <br>
-                <a href="http://www.youtube.com/connectordubai" target="_blank">Youtube</a> 
-                </p>
-            </div>
-            
+            </section>            
         </div>
-    </div> 
-    
+
+        <!-- Footer -->
+        <footer>
+            
+            <div class="container-fluid" style="background-color:#f1f1f1; padding:30px 0 30px 50px; 
+               border-top:1px solid #ccc;">
+                <div class="row footerdd">
+                    <div class="col-md-3 col-sm-3 col-xs-6">
+                        <span class="footerheader">General Info</span>
+                          <ul>
+                            <li><a href="/general-info/1015/overview-of-dubai">Overview of Dubai</a></li>
+                            <li><a href="/general-info/1016/history-of-dubai">History of Dubai</a></li>
+                            <li><a href="/general-info/1017/present-day-dubai">Present Day Dubai</a></li>
+                            <li><a href="/general-info/1018/weather">Weather</a></li>
+                            <li><a href="/general-info/1019/currency">Currency</a></li>
+                            <li><a href="/general-info/1023/local-culture">Local Culture</a></li>
+                            <li><a href="/general-info/1024/dos-and-donts">Do's and Don'ts</a></li>
+                            <li><a href="/general-info/1025/drinking-water">Drinking Water</a></li>
+                            <li><a href="/general-info/1026/phones">Phones</a></li>
+                            <li><a href="/general-info/1027/shisha-hubbly-bubbly">Shisha</a></li>
+                            <li><a href="/general-info/1028/arabic-family-names">Arabic Family Names</a></li>
+                            <li><a href="/general-info/1029/useful-arabic-phrases">Useful Arabic Phrases</a></li>
+                            <li><a href="/general-info/1139/expo-2020">EXPO 2020</a></li>
+                            <li><a href="/general-info/1156/embassies-and-consulates">Embassies &amp; Consulates</a></li>
+                            <li><a href="/general-info/1154/useful-contact-numbers">Useful Contact Numbers</a></li>
+                            <li><a href="/general-info/upcoming-projects">Upcoming Projects</a></li>
+                          </ul>
+                    </div>
+                    <div class="col-md-3 col-sm-3 col-xs-6">
+                        <span class="footerheader">Things To Do</span>
+                          <ul>
+                            <li><a href="/things-to-do/happenings">What's Happenings This Month</a></li>
+                            <!--<li><a href="#">Event Calendar</a></li>-->
+                            <li><a href="/things-to-do/arts-and-exhibitions">Arts and Exhibitions</a></li>
+                            <li><a href="/things-to-do/sights-and-attractions">Sights &amp; Attractions</a></li>
+                            <li><a href="/things-to-do/sports-and-activities">Sports &amp; Activities</a></li>
+                            <li><a href="/things-to-do/nightlife-and-entertainment">Nightlife &amp; Entertainment</a></li>
+                            <li><a href="/things-to-do/cinemas">Cinemas</a></li>
+                            <li><a href="/things-to-do/theatre">Theatre</a></li>
+                            <!--<li><a href="#">Look What You Missed!</a></li>-->
+                          </ul>
+                        <span class="footerheader">Shop &amp; Dine</span>
+                          <ul>
+                            <li><a href="/shop-and-dine/shopping">Shopping</a></li>
+                            <li><a href="/shop-and-dine/dining">Dining</a></li>
+                          </ul>
+                    </div>
+                   
+                    <div class="col-md-3 col-sm-3 col-xs-6">
+                        <span class="footerheader">Health &amp; Wellness</span>
+                          <ul>
+                            <li><a href="/health-and-wellness/health-clubs-and-gymnasiums">Health Clubs &amp; Gymnasiums</a></li>
+                            <li><a href="/directory/?category=spas">Spas</a></li>
+                            <li><a href="/directory/?category=beauty-salons">Beauty Salons</a></li>
+                            <li><a href="/directory/?category=mens-grooming">Men's Grooming</a></li>
+                            <li><a href="/health-and-wellness/accident-and-emergencies/1155/accident-and-emergencies">Accident &amp; Emergencies</a></li>
+                            <li><a href="/directory/?category=pharmacies">Pharmacies</a></li>
+                          </ul>
+                        <span class="footerheader">Getting Around</span>
+                          <ul>
+                            <li><a href="/getting-around/1030/hire-cars">Hire Cars</a></li>
+                            <li><a href="/getting-around/1031/limousine">Limousines</a></li>
+                            <li><a href="/getting-around/1032/dubai-taxi">Dubai Taxi</a></li>
+                            <li><a href="/getting-around/1033/dubai-metro--tram-system">Dubai Metro &amp; Tram System</a></li>
+                            <li><a href="/getting-around/1034/marine-transport">Marine Transport</a></li>
+                            <li><a href="/getting-around/1035/public-buses">Public Buses</a></li>
+                          </ul>
+                    </div>
+                    <div class="col-md-3 col-sm-3 col-xs-6">
+                          <span class="footerheader">Planning Your Trip</span>
+                          <ul>
+                            <li><a href="/planning-your-trip/1072/dubai-airport">Dubai Airport</a></li>
+                            <li><a href="/planning-your-trip/1075/uae-visa">Visas</a></li>
+                            <li><a href="/directory/?category=hotels">Hotels</a></li>
+                            <li><a href="/directory/?category=accommodation">Accommodation</a></li>
+                            <li><a href="/directory/?category=real-estate">Real Estate</a></li>
+                            <!--<li><a href="#">Weekly Planner</a></li>-->     
+                          </ul>                          
+                    </div>
+
+                    <div class="col-md-12 col-sm-12 col-xs-12" style="margin-top:10px">
+                        <p><a href="/aboutus">About Us</a> | 
+                        <a href="/contactus">Contact Us</a> | 
+                        <a href="/advertise">Advertise with us</a> | <a href="/comments">Comments</a> | 
+                        <a href="/privacy">Privacy Policy</a></p>
+                        <p>Copyright © Discover Dubai 2005 - 2015 | All Rights Reserved</p>
+                    </div>
+                </div>
+                <!-- /.row -->
+            </div>
+            <!-- /.container -->
+        </footer>
+       
+        <div class="back-to-top">
+        <a style="display: inline;" href="#">
+        <span class="glyphicon glyphicon-chevron-up" aria-hidden="true">
+        </span></a>
+        </div>
     </form>
+
+    <div id="fb-root"></div>
+<script>    (function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+        fjs.parentNode.insertBefore(js, fjs);
+    } (document, 'script', 'facebook-jssdk'));</script>
 
 
 
