@@ -1,86 +1,6 @@
-> *The following text is extracted and transformed from the rbauction.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629003841id_/https%3A//www.rbauction.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rbauction.com privacy policy that was archived on 2015-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150918001108id_/https%3A//www.rbauction.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Ritchie Bros. Auctioneers
-
-  * [Home](https://web.archive.org/ "Home")
-  * [Current Inventory](https://web.archive.org/heavy-equipment/ "Current Inventory")
-    * [Construction](https://web.archive.org/construction?id=ci&q=Y2l8Tj00Mjk0NzQ4MDY5 "Construction")
-    * [Agriculture](https://web.archive.org/agriculture?id=ci&q=Y2l8Tj00Mjk0NzQ4MDQ4 "Agriculture")
-    * [Transport Trucks](https://web.archive.org/transport-trucks?id=ci&q=Y2l8Tj00Mjk0NzQ0Mjk0 "Transport Trucks")
-    * [Vocational Trucks](https://web.archive.org/vocational-trucks?id=ci&q=Y2l8Tj00Mjk0NzQ4MjEz "Vocational Trucks")
-    * [Trailers](https://web.archive.org/trailers?id=ci&q=Y2l8Tj00Mjk0NzQ3OTg1 "Trailers")
-    * [Lifting & Material Handling](https://web.archive.org/lifting-material-handling?id=ci&q=Y2l8Tj00Mjk0NzQ3NzU2 "Lifting & Material Handling")
-    * [Vehicles & Buses](https://web.archive.org/vehicles-buses?id=ci&q=Y2l8Tj00Mjk0NzQ3MDUw "Vehicles & Buses")
-    * [Asphalt & Concrete](https://web.archive.org/asphalt-concrete?id=ci&q=Y2l8Tj00Mjk0NzQ2ODgy "Asphalt & Concrete")
-    * [Marine, Aircraft & Rail](https://web.archive.org/marine-aircraft-rail?id=ci&q=Y2l8Tj00Mjk0NzQ3NDUz "Marine, Aircraft & Rail")
-    * [Drilling & Mining](https://web.archive.org/drilling-mining?id=ci&q=Y2l8Tj00Mjk0NzQ4MTcx "Drilling & Mining")
-    * [Aggregate](https://web.archive.org/aggregate?id=ci&q=Y2l8Tj00Mjk0NzQ2OTY2 "Aggregate")
-    * [Oil, Gas, Power and Utility](https://web.archive.org/oil-gas-power-utility?id=ci&q=Y2l8Tj00Mjk0NzQ4MTEx "Oil, Gas, Power and Utility")
-    * [Real Estate](https://web.archive.org/heavy-equipment-auctions/real-estate "Real Estate")
-    * [Consumer Items](https://web.archive.org/consumer-items?id=ci&q=Y2l8Tj00Mjk0OTY2MDk0 "Consumer Items")
-    * [Attachment](https://web.archive.org/attachments?id=ci&q=Y2l8Tj00Mjk0NzQ3MTU1 "Attachment")
-    * [Industrial Support](https://web.archive.org/industrial-support?id=ci&q=Y2l8Tj00Mjk0NzQ4MDI4 "Industrial Support")
-    * [Forestry & Environmental](https://web.archive.org/forestry-environmental?id=ci&q=Y2l8Tj00Mjk0NzQ4MjU1 "Forestry & Environmental")
-  * [Auction Results](https://web.archive.org/heavy-equipment?id=ar&q=YXJ8Tj0w "Auction Results")
-  * [Auctions](https://web.archive.org/heavy-equipment-auctions/ "Auctions")
-    * [Upcoming Auctions](https://web.archive.org/heavy-equipment-auctions "Upcoming Auctions")
-    * [Past Auctions](https://web.archive.org/heavy-equipment-auctions/past-auctions "Past Auctions")
-  * [Buy](https://web.archive.org/buying "Buy")
-    * [How To Buy](https://web.archive.org/buying/how-to-buy "How To Buy")
-    * [Read Before You Bid](https://web.archive.org/buying/read-before-you-bid "Read Before You Bid")
-    * [Bid Deposits & Payments](https://web.archive.org/buying/bid-deposits-and-payments "Bid Deposits & Payments")
-    * [Services](https://web.archive.org/buying/services "Services")
-    * [Buying Tips](https://web.archive.org/buying/tips-for-buyers "Buying Tips")
-    * [What Buyers Say](https://web.archive.org/buying/what-buyers-say "What Buyers Say")
-  * [Sell](https://web.archive.org/selling "Sell")
-    * [About our auctions](https://web.archive.org/selling/about-our-auctions "About our auctions")
-    * [Our solutions](https://web.archive.org/selling/our-solutions "Our solutions")
-    * [Services for sellers](https://web.archive.org/selling/services-for-sellers "Services for sellers")
-    * [Tips & resources](https://web.archive.org/selling/tips-and-resources-for-sellers "Tips & resources")
-    * [Customer testimonials](https://web.archive.org/selling/customer-testimonials "Customer testimonials")
-    * [Contact us to sell](https://web.archive.org/selling/sell-now "Contact us to sell")
-  * [About Us](https://web.archive.org/aboutus "About Us")
-    * [History](https://web.archive.org/aboutus/history "History")
-    * [Management](https://web.archive.org/aboutus/management "Management")
-    * [Testimonials](https://web.archive.org/aboutus/testimonials "Testimonials")
-    * [Health & Safety](https://web.archive.org/aboutus/health-and-safety "Health & Safety")
-    * [Environment](https://web.archive.org/aboutus/environment "Environment")
-    * [News Releases](https://web.archive.org/media/news-releases "News Releases")
-    * [For Investors](https://web.archive.org/investors "For Investors")
-    * [For Media](https://web.archive.org/media "For Media")
-    * [Videos](https://web.archive.org/media/photos-and-videos/videos "Videos")
-  * [My Account](https://web.archive.org/myaccount/summary "My Account")
-    * [Summary](https://web.archive.org/myaccount/summary "Summary")
-    * [Registrations](https://web.archive.org/myaccount/registrations "Registrations")
-    * [My Equipment](https://web.archive.org/myaccount/my-equipment "My Equipment")
-    * [Preferences](https://web.archive.org/myaccount/preferences "Preferences")
-    * [Deposits & Payments](https://web.archive.org/myaccount/deposits-and-payments "Deposits & Payments")
-    * [Financing](https://web.archive.org/myaccount/financing "Financing")
-    * [My Profile](https://web.archive.org/myaccount/profile "My Profile")
-    * [Terms and Conditions](https://web.archive.org/myaccount/terms-and-conditions "Terms and Conditions")
-  * [Blog](https://web.archive.org/blog "Blog")
-  * [EquipmentOne](http://www.equipmentone.com/ "EquipmentOne")
-  * [Contact Us](https://web.archive.org/contactus "Contact Us")
-  * [Careers](https://web.archive.org/careers "Careers")
-  * 
-
-
-This Privacy Statement describes the privacy practices of Ritchie Bros. Auctioneers Incorporated and its affiliates ("RBA") with respect to the collection, use, and disclosure of personal information, including in respect of RBA's web site located at [www.rbauction.com](http://www.rbauction.com/). This Privacy Statement may be supplemented or modified by agreements entered into between RBA and an individual from time to time.
-
-Where RBA has provided a translation of the English language version of this Privacy Statement, such translation is provided for your convenience only. To the extent there is any inconsistency between the English language version of this Privacy Statement and any such translation, the English language version shall govern.
-
-In this Privacy Statement, "personal information" means any information about an identifiable individual, excluding any information that has been made anonymous or that is excluded from the definition of "personal information" under applicable laws.
-
-This statement will notify you of:
-
-  1. What personal information or third party personal information is collected through our web site
-  2. How the information is used
-  3. With whom the information may be shared
-  4. What choices are available to you regarding collection, use and distribution of personal information
-  5. The kind of security procedures that are in place to protect the loss, misuse or alteration of personal information under our control
-  6. How you can correct any inaccuracies in your personal information
-
-
 
 **Information Collection**
 
@@ -179,5 +99,3 @@ If you have questions or concerns about this privacy statement, please send an e
 Last Revised: January 9, 2013
 
 Version: 5.0
-
-Node: dc1vplfry06.rbauction.net 
