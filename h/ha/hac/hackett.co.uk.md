@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hackett.co.uk privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318042519id_/http%3A//www.hackett.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hackett.co.uk privacy policy that was archived on 2015-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150917150306id_/http%3A//www.hackett.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hackett
 
@@ -6,7 +6,8 @@ Hackett is committed to protecting the privacy of visitors to its Web Site. HACK
 
 Upon request, HACKETT will stop processing your personal information for marketing purposes. Furthermore, upon request, registered visitors may access and/or correct any erroneous information. 
 
-Any request concerning personal data should be e-mailed to [privacy@hackett.com](mailto:privacy@hackett.com).
+Any request concerning personal data should be e-mailed to [](mailto:privacy@hackett.com)[onlinestore@hackett.com](mailto:onlinestore@hackett.com)  
+.
 
 We trust our privacy policy demonstrates our commitment to protecting your privacy.
 
