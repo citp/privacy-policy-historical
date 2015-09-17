@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emporium.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614070020id_/http%3A//www.emporium.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emporium.com privacy policy that was archived on 2015-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150917115005id_/http%3A//www.emporium.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Emporium.com
 
