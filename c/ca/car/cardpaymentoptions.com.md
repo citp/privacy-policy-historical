@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cardpaymentoptions.com privacy policy that was archived on 2015-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150329000202id_/https%3A//www.cardpaymentoptions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardpaymentoptions.com privacy policy that was archived on 2015-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150917075334id_/https%3A//www.cardpaymentoptions.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy • Expert & User Reviews
+# Privacy Policy
 
 ## We Hate Spam Too!
 
