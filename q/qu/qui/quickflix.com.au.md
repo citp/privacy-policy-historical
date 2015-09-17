@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickflix.com.au privacy policy that was archived on 2015-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150227203043id_/https%3A//www.quickflix.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickflix.com.au privacy policy that was archived on 2015-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150917131522id_/https%3A//www.quickflix.com.au/privacy) for the most accurate reproduction.*
 
 # Quickflix Privacy Policy
 
@@ -154,7 +154,6 @@ Please contact our Privacy Officer at:
 Quickflix Limited
 
 Post: PO Box 7260, Cloisters Square, Western Australia 6850  
-Tel: 1300 138 644  
 Email:[privacy@quickflix.com.au](mailto:privacy@quickflix.com.au)
 
 or use the [Contact Us](https://web.archive.org/ContactUs) form available on the Quickflix website.
