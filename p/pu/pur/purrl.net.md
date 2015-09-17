@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purrl.net privacy policy that was archived on 2015-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150219191206id_/http%3A//purrl.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purrl.net privacy policy that was archived on 2015-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150917133553id_/http%3A//purrl.net/privacy) for the most accurate reproduction.*
 
 # Privacy
 
