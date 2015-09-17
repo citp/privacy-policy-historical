@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rothco.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507125208id_/http%3A//www.rothco.com/cms/rothco-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rothco.com privacy policy that was archived on 2015-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150917172513id_/http%3A//www.rothco.com/cms/rothco-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
