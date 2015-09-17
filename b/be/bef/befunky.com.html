@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the befunky.com privacy policy that was archived on 2015-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608094239id_/http%3A//www.befunky.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the befunky.com privacy policy that was archived on 2015-09-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150917033557id_/https%3A//www.befunky.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
@@ -10,7 +10,12 @@
 <link rel="icon" type="image/x-icon" href="http://www.befunky.com/favicon.ico">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,requiresActiveX=true,chrome=1"><meta name="apple-itunes-app" content="app-id=442716817">
 <link href="http://fonts.googleapis.com/css?family=Roboto:400,100,300,300italic,400italic,500,500italic,700,700italic,900,900italic,100italic" rel="stylesheet" type="text/css">
-<meta name="apple-itunes-app" content="app-id=442716817"><link rel="stylesheet" href="http://static.befunky.com/web/css/allV3.2.css" type="text/css"><link rel="stylesheet" href="http://static.befunky.com/web/css/site.css" type="text/css"><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script><script src="//ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script><script src="http://static.befunky.com/web/js/befunky.coreV4.1.js" type="text/javascript"></script><script type="text/javascript">
+<meta name="apple-itunes-app" content="app-id=442716817">
+<link rel="stylesheet" href="http://static.befunky.com/web/css/allV4.7.css" type="text/css"><link rel="stylesheet" href="http://static.befunky.com/web/css/site.css" type="text/css">
+<script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
+<script src="//www.google.com/recaptcha/api.js" async="" defer=""></script>
+<script src="http://static.befunky.com/web/js/befunky.coreV5.4.js" type="text/javascript"></script><script type="text/javascript">
 	$(document).ready(function () {
 
 		var History = window.History;
@@ -36,9 +41,9 @@
 		BeFunky.Params.socialLoginCount = 0;
 		BeFunky.Params.nextUri = '';
 				BeFunky.Params.swfUrl = 'http://static.befunky.com/app/';
-		BeFunky.Params.swfId = 'BeFunky2015v0.52';
-		BeFunky.Params.swfVersion = 'v0.52';
-		BeFunky.Params.swfFlashVars = {swfpath:"http://static.befunky.com/app/", localepath:"http://static.befunky.com/web/locale/",siteUri:"http://www.befunky.com/",serviceUri:"http://www.befunky.com/", reqUri:"http://req.befunky.com/restserverNew.php", uplUri:"http://upload.befunky.com", language:"",nbdm:"07082015",nbdy:"06082016"};
+		BeFunky.Params.swfId = 'BeFunky2015v0.65';
+		BeFunky.Params.swfVersion = 'v0.65';
+		BeFunky.Params.swfFlashVars = {swfpath:"http://static.befunky.com/app/", localepath:"http://static.befunky.com/web/locale/",siteUri:"http://www.befunky.com/",serviceUri:"http://www.befunky.com/", reqUri:"http://req.befunky.com/restserverNew.php", uplUri:"http://upload.befunky.com", language:"",nbdm:"10162015",nbdy:"09162016"};
 		BeFunky.Params.swfMinVersion = '11.0.1';
 		BeFunky.Params.openurl = '';
 		BeFunky.Params.SessionLoginCount = '0';
@@ -123,7 +128,31 @@
 			
 		}
 	};
-	
+
+	function openEditor(type){
+		var img = 'http://static.befunky.com/app/graphics/collage/samples/red-car-min.jpg';
+		
+		switch(type){
+			case 'photo-to-art':
+				img = 'http://static.befunky.com/app/graphics/collage/samples/red-car-min.jpg';
+			break;
+			case 'frames':
+			case 'photo-effects':
+				img = 'http://static.befunky.com/app/graphics/collage/samples/balloon-girl-min.jpg';
+			break;
+			case 'text-editor':
+				img = 'http://static.befunky.com/app/graphics/collage/samples/bike-with-yellow-wall-min.jpg';
+			break;
+		}
+		
+		openUploadPanel(type);
+		try{urlUpload(img, false,type);} catch(err){}
+		
+		bf_eventTrack('EXTERNAL','FEATURE_'+type.toUpperCase(),'GETSTARTED'); 
+		
+		return false;
+	}
+
 	var getSharedObject = function(){
 		return '';
 	};
@@ -347,10 +376,11 @@
 					</div>
 		<!-- header menu btns -->
 		<ul class="menu-btns">
-					<li><a href="http://www.befunky.com/create/" class="icon-effect GetStartedButtonFake" data-btnmode="HEADER" data-btnaction="PHOTO_EDITOR"><span class="icon"><img src="http://static.befunky.com/web/images/img-editor.png" alt="Photo Editor">
+						<li class="photo-editor-button"><a href="http://www.befunky.com/create/" class="GetStartedButtonFake" data-btnmode="HEADER" data-btnaction="PHOTO_EDITOR"><span class="icon"><img src="http://static.befunky.com/web/images/img-editor.png" alt="Photo Editor">
 						<img src="http://static.befunky.com/web/images/img-editor-hover.png" class="hover" alt="Photo Editor"> </span>Photo Editor</a></li>
-			<li><a href="http://www.befunky.com/create/collage/" class="icon-template CollageButtonFake" data-btnmode="HEADER" data-btnaction="COLLAGE"><span class="icon"><img src="http://static.befunky.com/web/images/img-collage.png" alt="Collage Maker"> <img src="http://static.befunky.com/web/images/img-collage-hover.png" class="hover" alt="Collage Maker"> </span>Collage Maker</a></li>
-								</ul>
+			<li class="collage-maker-button"><a href="http://www.befunky.com/create/collage/" class="CollageButtonFake" data-btnmode="HEADER" data-btnaction="COLLAGE"><span class="icon"><img src="http://static.befunky.com/web/images/img-collage.png" alt="Collage Maker"> <img src="http://static.befunky.com/web/images/img-collage-hover.png" class="hover" alt="Collage Maker"> </span>Collage Maker</a></li>
+			<li class="designer-button"><a href="http://www.befunky.com/create/collage/" class="DesignerButtonFake" data-btnmode="HEADER" data-btnaction="DESIGNER"><span class="icon"><img src="http://static.befunky.com/web/images/img-designer.png" alt="Designer"> <img src="http://static.befunky.com/web/images/img-designer-hover.png" class="hover" alt="Designer"> </span>Designer</a></li>
+					</ul>
 			</div>
 	</header>
 	<!-- content -->
@@ -377,7 +407,6 @@
     <p>We may also collect photos you upload to the Site, which, at your election, can only be seen by:<br>
       (i) BeFunky and you; or (ii) any visitor to the Site.</p>
     <p>When you use our email support services, we collect your correspondence in order to build up a public knowledge base, which will be available to all users of the Site. Your correspondence will probably not be used verbatim, but likely paraphrased in an FAQ format.</p>
-    <p></p>
 <br>
 	<h3>Passive Collection of Information</h3>
     	<p>When you visit the Site, some information may be automatically collected. For example, it is standard for your Web browser to automatically send information to every Web site you visit including ours. Such information includes your computer's Internet Protocol ("IP") address, access times, browser type and language, and referring Web site addresses. We may also collect information about your computer's operating system and information about your usage and activity on the Site.</p>
@@ -442,10 +471,19 @@
 					<strong class="heading">Features</strong>
 					<ul>
 						<li><a href="http://www.befunky.com/features/photo-editor/">Photo Editor</a></li>
-						<li><a href="http://www.befunky.com/features/photo-effects/">Photo Effects</a></li>
 						<li><a href="http://www.befunky.com/features/collage-maker/">Collage Maker</a></li>
+						<li><a href="http://www.befunky.com/features/graphic-designer/">Graphic Designer</a></li>
 						<li><a href="http://www.befunky.com/mobile/">Mobile Apps</a></li>
-						
+					</ul>
+				</div>
+				
+				<div class="col">
+					<strong class="heading">Tools</strong>
+					<ul>
+						<li><a href="http://www.befunky.com/features/photo-effects/">Photo Effects</a></li>
+						<li><a href="http://www.befunky.com/features/photo-to-art/">Photo To Art</a></li>
+						<li><a href="http://www.befunky.com/features/text-editor/">Text Editor</a></li>
+						<li><a href="http://www.befunky.com/features/photo-frames/">Photo Frames</a></li>
 					</ul>
 				</div>
 				<div class="col">
@@ -513,6 +551,62 @@
 		<div class="popup-message"></div><br>
 		<div class="close-button"><button type="button" class="closeButton" onclick="BeFunky.befunkyPopupContainerClose()">OK</button></div>
 	</div>
+<!-- 
+<div class="popup-holder">
+	<div class="upgrade-panel">
+		<section class="promo">
+			<div class="block-holder">
+			<a class="close icon-cancel" href="#" onClick="BeFunky.befunkyPopupContainerClose();return false;"><img alt="close" src="http://static.befunky.com/web/images/btn-cancel.png"></a>
+			<h1>Awesome, You're A Fan Of Our Plus Features!</h1>
+			<h2>Step up to a BeFunky Plus account to use this effect (and access hundreds of others!)</h2>
+				<div class="intro-slideshow">
+					<div class="slideset">
+						<div class="slide" id="slide-more-templates"><img src="http://static.befunky.com/web/images/designer-template-min.jpg" height="260" width="728" alt="image description"></div>
+						<div class="slide" id="slide-graphic-elements"><img src="http://static.befunky.com/web/images/designer-graphic-elements-min.jpg" height="260" width="728" alt="image description"></div>
+						<div class="slide" id="slide-effect"><img src="http://static.befunky.com/web/images/1-graphic-effect-min.c.jpg" height="260" width="728" alt="image description"></div>
+						<div class="slide" id="slide-goodies"><img src="http://static.befunky.com/web/images/2-graphic-goodies-min.c.jpg" height="260" width="728" alt="image description"></div>
+						<div class="slide" id="slide-frames"><img src="http://static.befunky.com/web/images/3-graphic-frames-min.c.jpg" height="260" width="728" alt="image description"></div>
+						<div class="slide" id="slide-template"><img src="http://static.befunky.com/web/images/4-graphic-template-min.c.jpg" height="260" width="728" alt="image description"></div>
+						<div class="slide" id="slide-noads"><img src="http://static.befunky.com/web/images/5-graphic-noads-min.c.jpg" height="260" width="728" alt="image description"></div>
+					</div>
+					<a class="btn-prev" href="#"><img src="http://static.befunky.com/web/images/arrow-left2.png" alt="icon"></a>
+					<a class="btn-next" href="#"><img src="http://static.befunky.com/web/images/arrow-right2.png" alt="icon"></a>
+					<a class="btn-play" href="#">play</a>
+					<a class="btn-pause" href="#">pause</a>
+				</div>
+				<form action="" method="get" class="choose-form signup-form" onSubmit="return processSignup();">
+					<fieldset>
+						<div class="row">
+							<input type="radio" checked="checked" name="package" id="rd01" value="BFNPREMON_DSC">
+							<label><strong>$4.95</strong>Monthly</label>
+							<input type="radio" name="package" id="rd02" value="BFNPREYEAR_DSC">
+							<label><strong>$24.95</strong>Yearly<span class="red">(Save 42%)</span></label>
+						</div>
+						<input type="submit" value="Get Befunky plus" />
+					</fieldset>
+				</form>
+			</div>
+		</section>
+	</div>
+</div>
+ -->
+	<div class="info-box survey-panel">
+		<div class="heading-area">
+			<a href="javascript:void(0);" onclick="BeFunky.closeSurveyPanel();" class="close icon-cancel"><img src="http://static.befunky.com/web/images/btn-cancel.png" alt="close"></a>
+			<strong class="title"><span>Thank you for choosing BeFunky</span></strong>
+			<span>Let us know what you thought…</span>
+		</div>
+		<div class="popup-message">
+			<p>1. What did you like/dislike about using BeFunky?<br>
+			<textarea rows="4" cols="40" id="thoughts" placeholder="Type in your answer"></textarea>
+			</p>
+			<p>2. Will you be using BeFunky again?<br>
+			<span><input type="radio" value="Yes" name="useAgain">Yes</span>
+			<span><input type="radio" value="No" name="useAgain">No</span>
+			</p>
+		</div>
+		<div class="close-button"><button type="button" class="closeButton" onclick="BeFunky.saveSurvey()">Submit</button></div>
+	</div>
 
 	<div id="infoBoxPopup" class="info-box">
 		<div class="heading-area"><a href="javascript:void(0);" onclick="BeFunky.befunkyPopupContainerClose();" class="close icon-cancel"><img src="http://static.befunky.com/web/images/btn-cancel.png" alt="close"></a></div>
@@ -521,15 +615,16 @@
 		<div class="close-button"><button type="button" class="close closeButton">OK</button></div>
 		<a href="javascript:void(0);" onclick="BeFunky.befunkyPopupContainerClose();" class="close icon-cancel"><img src="http://static.befunky.com/web/images/btn-cancel.png" alt="close"></a>
 	</div>
+
 	<div id="dynamicPopup" class="dynamic-box">
 		<div class="heading-area"><a href="javascript:void(0);" onclick="BeFunky.befunkyPopupContainerClose();" class="close icon-cancel"><img src="http://static.befunky.com/web/images/btn-cancel.png" alt="close"></a></div>
 		<div class="popup-title"></div>
 		<div class="popup-content"></div>
 	</div>
 	
-	
 	<div class="sn-connect-panel info-box">
-		<div class="heading-area"><a href="javascript:void(0);" onclick="BeFunky.befunkyPopupContainerClose();" class="close icon-cancel"><img src="http://static.befunky.com/web/images/btn-cancel.png" alt="close"></a></div>
+		<div class="heading-area"><span class="header-title"></span><a href="javascript:void(0);" onclick="BeFunky.befunkyPopupContainerClose();" class="close icon-cancel"><img src="http://static.befunky.com/web/images/btn-cancel.png" alt="close"></a></div>
+		<a href="#" class="login-facebook page"><span class="icon"><img src="http://static.befunky.com/web/images/facebook-ico.png" alt="facebook"></span>Connect to Facebook</a>
 		<button id="submit" class="" style="margin:10px;"></button>
 	</div>
 	
@@ -537,7 +632,7 @@
 	<div class="welcome-lightbox stop-scroll">
 		<a class="close icon-cancel" href="javascript:void(0);" onclick="BeFunky.befunkyPopupContainerClose();"><img alt="close" src="http://static.befunky.com/web/images/icon-cancel2.png"><img alt="close" src="http://static.befunky.com/web/images/btn-cancel.png" class="hover"></a>
 		<div class="img-holder">
-			<img src="http://static.befunky.com/web/images/img117.jpg" alt="image descroption">
+			<img src="http://static.befunky.com/web/images/img117.jpg" alt="image description">
 			<div class="caption">
 				<div class="caption-holder">
 					<h3>Thank You For Choosing BeFunky!</h3>
@@ -551,11 +646,40 @@
 			<li><span class="icon"><img src="http://static.befunky.com/web/images/ico-plus.png" alt="icon"></span>Take your photo editing experience to a whole new level with <a href="#">BeFunky Plus</a></li>
 		</ul>
 	</div>
+<!--
+	<div class="dynamic-box" id="photos-holder" style="width: 600px !important; padding:0 0 5px;">
+		<div class="heading-area"><div class="popup-title upload">'+title+'</div><a href="javascript:void(0);" onclick="BeFunky.befunkyPopupContainerClose();" class="close icon-cancel"><img src="'+BeFunky.Params.imagesUrl+'btn-cancel.png" alt="close"></a></div>
+			<div class="popup-content" style="margin:10px auto !important;">
+	if(albumsData && albumsData.length>0){
+				<div class="row" style="padding:10px 10px 10px 15px; height: 60px; border-bottom: solid 1px #bfc7d5; margin-bottom: 20px;">
+					<div class="styled-select">
+						<select id="snAlbums" class="import-select" onchange="BeFunky.snChangedAlbum();">';
+		for(var i = 0; i<albumsData.length; i++){
+			htm+='      <option value="'+i+'">'+albumsData[i].name+'</option>';
+		}
+						</select>
+					</div>
+				</div>';
+
+	}   
+				<div id="scrollable-area-wrapper" class="scrollable-area-wrapper" style="width: 600px; height: 450px;">
+					<div id="images-holder">
+						<div id="images-holder" class="images-holder" style="padding:10px 0 0 15px;">
+	if(imageData && imageData.length>0){
+		htm+=getPhotosPanelPhotoContainer(imageData,isWillSaved,openerPanelType);
+	} else {
+						<span style="margin:0; margin-bottom: 3px;">You do not have any photo yet. Upload a photo <a href="'+BeFunky.Params.siteUrlSecured+'create/" class="GetStartedButtonFake">get started</a></span><br>
+	}
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>-->
 	
 </div>
 <div class="popup-holder">
 
-<div id="login-panel" class="login-block">
+<div id="login-panel" class="login-block login-panel">
 	<div class="login-box">
 		<div class="heading-area"><a href="javascript:void(0);" onclick="BeFunky.befunkyPopupContainerClose();" class="close icon-cancel"><img src="http://static.befunky.com/web/images/btn-cancel.png" alt="close"></a></div>
 		<ul class="tabset">
@@ -597,7 +721,7 @@
 	</div>
 </div>
 
-<div id="register-panel" class="login-block">
+<div id="register-panel" class="login-block register-panel" "="">
 	<div class="login-box">
 		<div class="heading-area"><a href="javascript:void(0);" onclick="BeFunky.befunkyPopupContainerClose();" class="close icon-cancel"><img src="http://static.befunky.com/web/images/btn-cancel.png" alt="close"></a></div>
 		<ul class="tabset">
@@ -632,7 +756,18 @@
 								<label class="icon"><img src="http://static.befunky.com/web/images/password-ico.png" alt="icon"></label>
 							</div>
 						</div>
-					
+						<div class="row">
+							<div class="filed-holder unbound">
+								<input id="em_effects" name="em_effects" value="1" type="checkbox" class="form-control" checked="checked">
+								<label>Receive the BeFunky Newsletter</label>
+							</div>
+						</div>
+						<div class="row">
+							<span class="errorlabel" id="captcha_err"></span>
+							<div class="captcha">
+								
+							</div>
+						</div>
 						<span class="terms">By creating an account I accept the <a href="http://www.befunky.com/terms" target="_blank">Terms of Service</a> and <a href="http://www.befunky.com/privacy" target="_blank">Privacy Policy</a>.</span>
 						<input id="register-submit" type="submit" value="Sign Up" class="btn" onclick="BeFunky.registerSubmit(); return false;">
 					</fieldset>
@@ -642,7 +777,7 @@
 	</div>
 </div>
 
-<div id="forgotpass-panel" class="login-block">
+<div id="forgotpass-panel" class="login-block forgotpass-panel">
 	<div class="login-box">
 		<div class="heading-area"><a href="javascript:void(0);" onclick="BeFunky.befunkyPopupContainerClose();" class="close icon-cancel"><img src="http://static.befunky.com/web/images/btn-cancel.png" alt="close"></a></div>
 		<!-- login tabs -->
@@ -669,7 +804,7 @@
 		</div>
 	</div>
 	
-	<div id="forget-password-success-panel" class="info-box">
+	<div id="forget-password-success-panel" class="info-box forget-password-success-panel">
 		<div class="heading-area"></div>
 		<div class="info-content">An email has been sent to <span class="foget-email"></span> with a link to reset your password. Please check your email.</div>
 		<input id="submit" type="button" value="OK" onclick="BeFunky.panelBack()">
@@ -769,6 +904,8 @@
 				<!-- slideshow -->
 				<div class="intro-slideshow">
 					<div class="slideset">
+						<div class="slide" id="slide-more-templates"><img src="http://static.befunky.com/web/images/designer-template-min.jpg" height="260" width="728" alt="image description"></div>
+						<div class="slide" id="slide-graphic-elements"><img src="http://static.befunky.com/web/images/designer-graphic-elements-min.jpg" height="260" width="728" alt="image description"></div>
 						<div class="slide" id="slide-effect"><img src="http://static.befunky.com/web/images/1-graphic-effect-min.c.jpg" height="260" width="728" alt="image description"></div>
 						<div class="slide" id="slide-goodies"><img src="http://static.befunky.com/web/images/2-graphic-goodies-min.c.jpg" height="260" width="728" alt="image description"></div>
 						<div class="slide" id="slide-frames"><img src="http://static.befunky.com/web/images/3-graphic-frames-min.c.jpg" height="260" width="728" alt="image description"></div>
@@ -809,7 +946,20 @@ processSignup = function() {
 </script>
 <div class="tmplate-wrapper">
 
-	<div id="noMyPhotoContets">
+	<div id="noMyPhotoContents">
+		<div class="photos-no-content">
+			<div><img src="http://static.befunky.com/web/images/no-photos.png" width="97" height="82"></div>
+			<div class="nocontent-header">You don't have any photos yet</div>
+			<p>Let's get started, shall we? Upload from everywhere!</p>
+			<span class="getstarted">
+				<a class="btn-upload GetStartedButtonFake" href="javascript:;" data-btnmode="HOMEPAGE" data-btnaction="GETSTARTED">Upload</a>
+				<a class="btn-fb" href="javascript:void(0);" onclick="BeFunky.showImportPopup();bf_eventTrack('EXTERNAL', 'MYPHOTOS', 'IMPORT');">Facebook</a>
+				<a class="btn-instagram" href="javascript:void(0);" onclick="BeFunky.showImportPopup();bf_eventTrack('EXTERNAL', 'MYPHOTOS', 'IMPORT');">Instagram</a>
+			</span>
+		</div>
+	</div>
+
+	<div id="noMyGalleryContents">
 		<div class="photos-no-content">
 			<div><img src="http://static.befunky.com/web/images/no-photos.png" width="97" height="82"></div>
 			<div class="nocontent-header">You don't have any photos yet</div>
@@ -821,7 +971,7 @@ processSignup = function() {
 			</span>
 		</div>
 	</div>
-
+	
 	<div id="noOtherUserPhoto">
 		<div class="photos-no-content">
 			<div><img src="http://static.befunky.com/web/images/no-photos.png" width="97" height="82"></div>
@@ -906,14 +1056,19 @@ processSignup = function() {
 			<p>Let's get started, shall we? Upload from everywhere!</p>
 			<span class="getstarted">
 				<a class="btn-upload GetStartedButtonFake" href="javascript:;" data-btnmode="HOMEPAGE" data-btnaction="GETSTARTED">Upload</a>
-				<!--<a class="btn-fb" href="http://www.befunky.com/import/photos/">Facebook</a>-->
-				<!--<a class="btn-instagram" href="http://www.befunky.com/import/photos/">Instagram</a>-->
+				<a class="btn-fb" href="http://www.befunky.com/myphotos/import/">Facebook</a>
+				<a class="btn-instagram" href="http://www.befunky.com/myphotos/import/">Instagram</a>
 			</span>
 		</div>
 	</div>
-	
-	
-	<div id="noMyFollowingData">
+	<div id="noImportFriendsData">
+		<div class="friends-no-content centered">
+			<div><img src="http://static.befunky.com/web/images/no-follow.png" width="102" height="93"></div>
+			<div class="nocontent-header">No friends found using BeFunky.</div>
+			<p>Why not invite a few to join?</p>
+		</div>
+	</div>
+	<div id="noMyFollowersData">
 		<div class="users-no-content">
 			<div><img src="http://static.befunky.com/web/images/no-follow.png" width="102" height="93"></div>
 			<div class="nocontent-header">You don't have any followers</div>
@@ -921,6 +1076,24 @@ processSignup = function() {
 			<span class="getstarted">
 				<a class="btn-invite" href="javascript:void(0);" onclick="BeFunky.inviteFacebookFriends();bf_eventTrack('EXTERNAL', 'IMPORTFRIENDSPAGE','INVITE'); return false;">Invite Now</a>
 			</span>
+		</div>
+	</div>
+	<div id="noMyFollowingData">
+		<div class="users-no-content">
+			<div><img src="http://static.befunky.com/web/images/no-follow.png" width="102" height="93"></div>
+			<div class="nocontent-header">You are not following anyone</div>
+			<div class="getstarted">
+				<a class="btn-fb" href="javascript:void(0);" onclick="BeFunky.importFacebookFriends();bf_eventTrack('EXTERNAL', 'IMPORTFRIENDSPAGE','INVITE'); return false;">Find Friends From Facebook</a>
+				<span class="login-mode"><span>Or</span></span>
+				<p>Find some new friends who are already using BeFunky</p>
+				<div id="friend-suggestions">
+					<div class="friend-slider">
+						<div id="global-loader" style="display: none;"><img src="http://static.befunky.com/web/images/befunky_loader_a.gif"></div>
+					</div>
+				</div>
+				<a href="#" class="btn-prev"><img src="http://static.befunky.com/web/images/arrow-left2.png" alt="previous"></a>
+				<a href="#" class="btn-next"><img src="http://static.befunky.com/web/images/arrow-right2.png" alt="next"></a>
+			</div>
 		</div>
 	</div>
 </div>
@@ -1286,6 +1459,12 @@ processSignup = function() {
 	
 <script type="text/javascript" src="https://www.dropbox.com/static/api/2/dropins.js" id="dropboxjs" data-app-key="xcse408r9ipxqtk"></script>
 
+
+<!--
+<div style="width:0px; height:0px;" >
+<embed width="0" height="0" name="plugin" src="http://www.befunky.com/DummyInit.swf" type="application/x-shockwave-flash">
+</div>
+-->
 
 <!-- Start Alexa Certify Javascript -->
 <script type="text/javascript">
