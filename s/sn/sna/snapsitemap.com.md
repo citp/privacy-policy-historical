@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the snapsitemap.com privacy policy that was archived on 2015-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150327133557id_/https%3A//www.snapsitemap.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapsitemap.com privacy policy that was archived on 2015-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150917114606id_/https%3A//www.snapsitemap.com/privacy) for the most accurate reproduction.*
 
-# SnapSitemap - Free HTML Sitemap
+# SnapSitemap - Free XML Sitemap
 
 Privacy Policy
 
