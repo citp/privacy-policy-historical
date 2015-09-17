@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the australiansportsnutrition.com.au privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613055654id_/http%3A//www.australiansportsnutrition.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the australiansportsnutrition.com.au privacy policy that was archived on 2015-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150917201429id_/https%3A//www.australiansportsnutrition.com.au/privacy) for the most accurate reproduction.*
 
-# PRIVACY POLICY
+# Privacy Policy
 
 ## Privacy policy for australian sports nutrition
 
@@ -18,10 +18,10 @@ Australian Sports Nutrition collects, holds and uses personal information in the
 
 Consumer information is usually collected via promotions, competitions, consumer queries and subscription forms. The information may include:
 
-  * your name, address, contact number(s), gender, age and email address 
+  * your name, address, contact number(s), gender, age and email address
   * information about your preference for goods or services we offer from time to time
   * details of any competitions/prizes you may have won
-  * a record of any queries you have made 
+  * a record of any queries you have made
 
 
 
@@ -50,7 +50,7 @@ Wherever possible, Australian Sports Nutrition collects this information directl
 
 Australian Sports Nutrition is dedicated to keeping personal information secure. This includes physical security, computer and network security, communications security and personnel security.
 
-**Important Information on Promotions, competitions & other marketing activities **
+**Important Information on Promotions, competitions & other marketing activities**
 
   * All entries become the property of the Promoter and are held for up to 3 months after the prize draw date. After this, they are then destroyed in a secure manner.
 
@@ -60,7 +60,7 @@ Australian Sports Nutrition is dedicated to keeping personal information secure.
 
 
 
-  * You can advise us if you would prefer not to be directly contacted by Australian Sports Nutrition or would like to request an update or correction of the information we hold on you, please contact us on [info@asn.com.au ](https://web.archive.org/web/20150613055654id_/http%3A//www.australiansportsnutrition.com.au/contact.php?Store=Southport) and provide your details or alternatively, contact head office on (07) 5532 1199. 
+  * You can advise us if you would prefer not to be directly contacted by Australian Sports Nutrition or would like to request an update or correction of the information we hold on you, please contact us on [info@asn.com.au ](http://www.australiansportsnutrition.com.au/contact.php?Store=Southport)and provide your details or alternatively, contact head office on (07) 5532 1199.
 
 
 
@@ -86,8 +86,8 @@ Australian Sports Nutrition does not sell, rent or otherwise make available any 
 
 **Access and correction of details**
 
-You may access personal information Australian Sports Nutrition holds on you by contacting the Privacy Officer in writing on [info@asn.com.au](https://web.archive.org/web/20150613055654id_/http%3A//www.australiansportsnutrition.com.au/contact.php?Store=Southport). If the information held is inaccurate, incomplete or not up to date you may request Australian Sports Nutrition to correct the information. If you are concerned about a possible interference with your privacy, please contact the Privacy Officer, by completing the 'Contact Us' form available on [www.asn.com.au](https://web.archive.org/web/20150613055654id_/http%3A//www.australiansportsnutrition.com.au/contact.php).
+You may access personal information Australian Sports Nutrition holds on you by contacting the Privacy Officer in writing on[info@asn.com.au](http://www.australiansportsnutrition.com.au/contact.php?Store=Southport). If the information held is inaccurate, incomplete or not up to date you may request Australian Sports Nutrition to correct the information. If you are concerned about a possible interference with your privacy, please contact the Privacy Officer, by completing the 'Contact Us' form available on [www.asn.com.au](http://www.australiansportsnutrition.com.au/contact.php).
 
-**Changes to the Privacy Policy**
+ **Changes to the Privacy Policy**
 
 We may update this Privacy Policy from time to time.
