@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quotesea.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504105130id_/http%3A//quotesea.com/privacystatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quotesea.com privacy policy that was archived on 2015-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150917203535id_/http%3A//www.quotesea.com/privacystatement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -44,8 +44,12 @@ quotesea will occasionally update this Statement of Privacy to reflect company a
 
 ### Random quotes
 
-[](https://web.archive.org/\(S\(23wvwr55t42tihuapkjvzpjk\)\)/quotes/by/sean-penn)
+[](https://web.archive.org/quotes/by/jack-balkin)
 
   
+
+
+[](https://web.archive.org/quotes/by/bob-cahoone)
+
   
 
