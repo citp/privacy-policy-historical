@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yousign.org privacy policy that was archived on 2015-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150411090137id_/http%3A//www.yousign.org/en/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yousign.org privacy policy that was archived on 2015-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150917082706id_/http%3A//www.yousign.org/en/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | YouSign.org
 
@@ -17,6 +17,12 @@ We may collect non-personal identification information about Users whenever they
 **Web browser cookies**
 
 Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+
+We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners.
+
+By continuing to use our website without changing the settings, you are agreeing to our use of cookies.
+
+For more information about your rights please read the [European ePrivacy Directive](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0058:EN:HTML). 
 
 **How we use collected information**
 
@@ -67,8 +73,4 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 [YouSign.org](http://www.yousign.org/) | [YouSign.org Contact Information](http://www.yousign.org/contact.php)   
-[contact@yousign.org](mailto:contact@yousign.org)  
-str. Aviator Badescu, nr. 26, Cluj-Napoca, Cluj, Romania, Zip Code: 400196  
-+40729592903
-
-This document was last updated on November 16, 2012
+[contact@yousign.org](mailto:contact@yousign.org)
