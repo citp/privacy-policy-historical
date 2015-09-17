@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inyopools.com privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529002056id_/http%3A//www.inyopools.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inyopools.com privacy policy that was archived on 2015-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150917041404id_/http%3A//www.inyopools.com/privacy.aspx) for the most accurate reproduction.*
 
 # INYO Pools Privacy Policy - INYOPools.com
 
@@ -31,8 +31,7 @@ Inyo Pool Products Inc. uses the Information collected from its Users to:
 ** Respond to Users' questions or comments;  
 ** Administer a User's contest entry or entry in other promotional feature;  
 ** Fulfill a User's purchase request and notify Users of their order status; and  
-** Provide Users with important functionality changes to the Site, new Inyo Pool Products Inc. services and special offers we think you will find valuable.  
-
+** Provide Users with important functionality changes to the Site, new Inyo Pool Products Inc. services and special offers we think you will find valuable.
 
 ###### Disclosure of Information to Third Parties
 
