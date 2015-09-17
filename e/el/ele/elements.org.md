@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elements.org privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322124423id_/https%3A//www.elements.org/clientuploads/Privacypolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elements.org privacy policy that was archived on 2015-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150917171216id_/https%3A//www.elements.org/clientuploads/Privacypolicy.pdf) for the most accurate reproduction.*
 
 # FACTS
 
