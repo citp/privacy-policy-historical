@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-n.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617035642id_/http%3A//www.teennick.com/info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-n.com privacy policy that was archived on 2015-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150917084155id_/http%3A//www.teennick.com/info/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy (Last updated: 04/09/2015) | TeenNick.com
 
@@ -221,11 +221,11 @@ You should be aware that different rules might apply to the collection, use or d
 
 With respect to the Tracking Technologies set by Third Party Advertising Service Providers and advertisers (and outside the control of the Nickelodeon Sites), you have a number of options:
 
-  * You can opt-out of the use of information for these advertising purposes by two such Third Party Advertising Service Providers, Adobe and DoubleClick by using those Providers’ opt-out tools.  You can access Adobe’s tool at <http://www.donottarget.com/> and DoubleClick’s at <http://www.google.com/intl/en/policies/technologies/ads/>.  We also may from time to time permit other Third Party Advertising Service Providers and Advertisers to collect Information on the Nickelodeon Sites.  Some of these Providers and Advertisers may participate in the Network [Advertising Initiative’s Opt-Out Tool](http://www.networkadvertising.org/managing/opt_out.asp) and/or the [Self-Regulatory Program for Online Behavioral Advertising](http://www.aboutads.info/choices/) Please click on the links to these tools to learn more about your choices. 
+  * You can opt-out of the use of information for these advertising purposes by two such Third Party Advertising Service Providers, Adobe and DoubleClick by using those Providers’ opt-out tools.  You can access Adobe’s tool at <http://www.donottarget.com/> and DoubleClick's at <http://www.google.com/intl/en/policies/technologies/ads/>.  We also may from time to time permit other Third Party Advertising Service Providers and Advertisers to collect Information on the Nickelodeon Sites.  Some of these Providers and Advertisers may participate in the Network [Advertising Initiative’s Opt-Out Tool](http://www.networkadvertising.org/managing/opt_out.asp) and/or the [Self-Regulatory Program for Online Behavioral Advertising](http://www.aboutads.info/choices/) Please click on the links to these tools to learn more about your choices.
 
 
 
-  * **_Nielsen Measurement:_** Â  The player on this website may feature Nielsen’s proprietary measurement software which will collect and use certain video viewing metrics and other information, in accordance with Nielsen’s digital measurement privacy policy.Â  For more information about Nielsen’s measurement software, see <http://www.nielsen.com/digitalprivacy> and see the “Choices” section of that digital measurement privacy policy to learn about your choices with respect to Nielsen’s measurement, including your opt-out options if you do not wish to participate in such measurement and the scope of any opt-out options. 
+  * **_Nielsen Measurement:_** Â  The player on this website may feature Nielsen's proprietary measurement software which will collect and use certain video viewing metrics and other information, in accordance with Nielsen's digital measurement privacy policy.Â  For more information about Nielsen's measurement software, see <http://www.nielsen.com/digitalprivacy> and see the "Choices" section of that digital measurement privacy policy to learn about your choices with respect to Nielsen's measurement, including your opt-out options if you do not wish to participate in such measurement and the scope of any opt-out options. 
 
 
   * Please note the following with respect to opting out of Tracking Technologies set by Third Party Advertising Service Providers and advertisers:
@@ -397,11 +397,11 @@ Nickelodeon Online
 
 New York, New York 10036
 
-This document is the sole statement of the Nickelodeon Sites' Privacy Policy and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, without limitation, machine-generated, is valid. In interpreting this Agreement, the English version governs the interpretation and meaning of the obligation set forth herein. To the extent there is an ambiguity or conflict with the Privacy Policy in other languages, the Privacy Policy in English governs.
+This document is the sole statement of the Nickelodeon Sites' Privacy Policy and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, without limitation, machine-generated, is valid. In interpreting this Agreement, the English version governs the interpretation and meaning of the obligation set forth herein. To the extent there is an ambiguity or conflict with the Privacy 
 
 **IX. CONTACT US**
 
-If you have any other questions about our information handling practices, including our practices with respect to children's personal information, please contact us at:
+If you have any other questions about our information handling practices, including our practices with respect to 
 
 Nick.com CA Privacy Coordinator
 
