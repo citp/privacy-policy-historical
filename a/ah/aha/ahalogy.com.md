@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ahalogy.com privacy policy that was archived on 2015-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150330141630id_/https%3A//www.ahalogy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahalogy.com privacy policy that was archived on 2015-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150917025859id_/https%3A//www.ahalogy.com/privacy) for the most accurate reproduction.*
 
 # privacy policy — Ahalogy
 
