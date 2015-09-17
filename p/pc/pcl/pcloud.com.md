@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcloud.com privacy policy that was archived on 2015-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150405092237id_/https%3A//www.pcloud.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcloud.com privacy policy that was archived on 2015-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150917165149id_/https%3A//www.pcloud.com/privacy_policy.html) for the most accurate reproduction.*
 
 # pCloud - Privacy Policy
 
@@ -17,7 +17,7 @@ We use cookies (a small text file placed on your computer to identify your compu
 
 ### How We Use Information and When We May Share and Disclose Information Generally
 
-We use Personal Information for internal purposes only, such as to provide you with the Site and Services and to improve the Site and Services. We also use Personal Information to notify you of new products or Services and to otherwise communicate with you about pCloud provided you have indicated that you do not object to being contacted for these purposes. We will not disclose Personal Information to third parties, including for their direct marketing purposes, without your consent, except as explained in this Privacy Policy. 
+We use Personal Information for internal purposes only, such as to provide you with the Site and Services and to improve the Site and Services. We also use Personal Information to notify you of new products or Services and to otherwise communicate with you about pCloud. We may use your email address for marketing purposes, by sending you newsletters or other email communication. If you have any objections about being contacted for marketing purposes, you need to notify us in writing or unsubscribe from our written communication. We will not disclose Personal Information to third parties, except as explained in this Privacy Policy. 
 
 ### Profile Information You Make Available to Others
 
