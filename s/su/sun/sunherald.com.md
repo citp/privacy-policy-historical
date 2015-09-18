@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunherald.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506124624id_/http%3A//www.sunherald.com/privacy_policy%23navlink%3Dmi_footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunherald.com privacy policy that was archived on 2015-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150918033728id_/http%3A//www.sunherald.com/privacy_policy%23navlink%3Dmi_footer) for the most accurate reproduction.*
 
 # The Sun Herald Gulfport, MS
 
@@ -240,7 +240,7 @@ We reserve the right to update this Privacy Policy from time to time by posting 
 If you have any questions or comments about our privacy practices, we may be reached at   
 The Sun Herald,   
 205 DeBuys Road, Gulfport, MS 39507,   
-228-896-2100   
+1-800-346-2472   
 or at [online@sunherald.com](mailto:online@sunherald.com).
 
 ### Definition of Certain Terms
