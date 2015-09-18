@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mumbrella.asia privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629052341id_/http%3A//mumbrella.asia/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mumbrella.asia privacy policy that was archived on 2015-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150918070431id_/http%3A//mumbrella.asia/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mumbrella Asia
 
