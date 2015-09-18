@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the planner5d.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318160523id_/https%3A//planner5d.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planner5d.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919002742id_/https%3A//planner5d.com/pages/privacy) for the most accurate reproduction.*
 
-# Política de privacidad - Planner 5D
+# Privacy Policy - Planner 5D
 
 (Version 01. April 18th 2012) 
 
