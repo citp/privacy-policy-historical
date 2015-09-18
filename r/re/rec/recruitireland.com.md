@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recruitireland.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317185852id_/https%3A//www.recruitireland.com/info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recruitireland.com privacy policy that was archived on 2015-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150918234303id_/https%3A//www.recruitireland.com/info/privacypolicy) for the most accurate reproduction.*
 
 # Confidentiality and Privacy Policy
 
