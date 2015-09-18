@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the donorbox.org privacy policy that was archived on 2015-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150403125237id_/https%3A//donorbox.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donorbox.org privacy policy that was archived on 2015-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150918021257id_/https%3A//donorbox.org/privacy) for the most accurate reproduction.*
 
 # Donorbox | Free Online Donation Form & Fundraising Software
 
