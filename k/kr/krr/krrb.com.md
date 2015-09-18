@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the krrb.com privacy policy that was archived on 2014-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141028001559id_/https%3A//krrb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krrb.com privacy policy that was archived on 2015-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150918174419id_/https%3A//krrb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy ~ Krrb Classifieds
 
@@ -47,7 +47,7 @@ To the extent you are able to modify or delete information as defined in this Pr
 
 ## Disclosure of Information
 
-We neither rent nor sell your Personal Information to anyone. Krrb may share your Personal and non-Personal Information only as described below. 
+We neither rent nor sell your Personal Information to anyone. Krrb may share your Personal and non-Personal Information only as described below.
 
   * **Our Corporate Family:** We may share your information with any parent company, subsidiary, joint venture, other entity under a common control with Krrb or with third party acquirers, including, but not limited to, Area 17 Media, LLC, a New York limited liability company, and its French affiliate Area 17, S.A.R.L.
   * **Our Agents:** We employ other companies, organizations, people (including outside of your country of residence) to perform tasks (e.g. fraud and spam protection) on our behalf and need to share your information with them to provide our Service to you. Our agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us, and they are required to provide a comparable level of protection for your Personal Information.
@@ -59,9 +59,9 @@ We neither rent nor sell your Personal Information to anyone. Krrb may share you
 
 ## Email and Notification Preferences
 
-Sending emails to our Users is a central part of our business. One of the primary reasons people use Krrb is to be notified and receive updates on activity that is relevant to them. Krrb may send you emails and notifications only as described below. 
+Sending emails to our Users is a central part of our business. One of the primary reasons people use Krrb is to be notified and receive updates on activity that is relevant to them. Krrb may send you emails and notifications only as described below.
 
-  * Success: You will receive a success notification email after you join, create a listing or promote a listing. These emails cannot be turned off.
+  * **Success:** You will receive a success notification email after you join, create a listing or promote a listing. These emails cannot be turned off.
   * **Inbox Messages:** You will receive email notifications when someone contacts you. These emails cannot be turned off.
   * **Credit Deposit:** You will receive email notifications each time credits are deposited into your account. These emails cannot be turned off.
   * **Krrb Alerts:** You may choose to receive email alerts for one, many or all of your locations and we will send you a weekly digest email of this activity. You can unsubscribe to Krrb alerts at any time in your account settings.
@@ -83,9 +83,9 @@ Ads appearing on the Service may be delivered to Users by our advertising partne
 
 Krrb uses analytics software to better understand who is using our Service, and how people are using it. Analytics software uses cookies to collect and store anonymous information such as time of visit, pages visited, time spent on each page of the Site, IP address, and type of operating system used. We use this information to improve the Service and make it appealing to as many Users as possible.
 
-## PCI Compliance
+## Payment Security and PCI Compliance
 
-When you enter sensitive information, such as a credit card number, Krrb uses a trusted third party that is PCI-compliant. The information is encrypted using secure socket layer technology (SSL).
+Security is one of the biggest considerations in everything we do. When using [Krrb Payments](https://web.archive.org/payments-terms-of-use), social security and tax ID numbers, credit card and bank account numbers are securely encrypted, transmitted to and stored with [Stripe](https://stripe.com/), our payment processor. Absolutely no credit card, bank account, social security and tax ID numbers are stored on our servers nor do we have access to the un-encrypted data. Stripe has been audited by a PCI-certified auditor, and is certified to [PCI Service Provider Level 1](http://www.visa.com/splisting/searchGrsp.do?companyNameCriteria=stripe). This is the most stringent level of certification available. Any other sensitive data that is stored on our servers is securely encrypted.
 
 ## Third Party Apps Using Our API(s)
 
