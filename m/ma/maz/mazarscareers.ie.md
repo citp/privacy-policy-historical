@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mazarscareers.ie privacy policy that was archived on 2015-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150216070626id_/http%3A//mazarscareers.ie/apply/data_protection) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mazarscareers.ie privacy policy that was archived on 2015-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150918021727id_/http%3A//mazarscareers.ie/apply/data_protection) for the most accurate reproduction.*
 
 # Mazars Careers | Mazars Careers
 
