@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highspeedinternet.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510210158id_/http%3A//www.highspeedinternet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highspeedinternet.com privacy policy that was archived on 2015-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150918232028id_/http%3A//www.highspeedinternet.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
@@ -55,47 +55,3 @@ The purpose of this Privacy Policy is to give you a summary of the ways in which
 4) You are entitled to receive a copy of this information in a standardized format and the information will not be specific to you individually. Our designated email address for such requests is privacy@clearlink.com.
 
 The Effective Date hereto shall be June 01, 2009
-
-## Thanks for reviewing !
-
-Your review has been submitted! When your review is approved you will automatically be entered to win free internet!
-
-See how your current provider stacks up against other ISPs in your area. We'll show you speeds, customer reviews, and pricing:
-
-×
-
-## Your review is your entry
-
-  1.   2.   3.   4.   5.   6. Your rating: 
-
-1 2 3 4 5
-
-  7. ### Additional ratings:
-
-  8. Your review:
-  9. Email me occasional updates on speed and pricing in my area
-
-
-
-### What makes a good review?
-
-#### Information:
-
-State your claim and give an example.
-
-#### Facts:
-
-Slanderous rants aren’t helpful.
-
-#### Depth:
-
-Good reviews have at least 90 characters.
-
-#### Relevance:
-
-Leave out prices, they vary by location.
-
-*Maximum payout $720 for the year on the internet portion of the winner’s bill. No purchase necessary.   
-See terms and conditions for details. 
-
-×
