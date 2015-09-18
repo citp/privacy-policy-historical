@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the lookastic.com privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428110026id_/http%3A//lookastic.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lookastic.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919011920id_/https%3A//lookastic.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Lookastic
-
-[My Wardrobe Try It! ](https://web.archive.org/join)[Women](https://web.archive.org/women) [Men](https://web.archive.org/men) [Brands](https://web.archive.org/) [Celebrities](https://web.archive.org/celebrities) [Contact Us](https://web.archive.org/site/contact-us) [Sign In](https://web.archive.org/users/sign_in) [Join Lookastic](https://web.archive.org/users/sign_up)
-
-## We use technology to help you dress better
 
 ## What information do we collect?
 
