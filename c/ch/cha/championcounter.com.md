@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the championcounter.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615195153id_/http%3A//www.championcounter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the championcounter.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919005625id_/http%3A//www.championcounter.com/privacy) for the most accurate reproduction.*
 
 # ChampionCounter Privacy Policy
 
