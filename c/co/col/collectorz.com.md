@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collectorz.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429075425id_/http%3A//www.collectorz.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collectorz.com privacy policy that was archived on 2015-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150918051312id_/http%3A//www.collectorz.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Collectorz.com Privacy Policy
 
