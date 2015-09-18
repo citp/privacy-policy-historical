@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoptab.net privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325134657id_/https%3A//www.shoptab.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoptab.net privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919013254id_/https%3A//www.shoptab.net/privacypolicy) for the most accurate reproduction.*
 
 # Facebook Cart Privacy Policy | Facebook Shop App Policy| ShopTab
 
