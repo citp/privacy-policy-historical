@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betterworks.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318124211id_/http%3A//www.betterworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betterworks.com privacy policy that was archived on 2015-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150918165012id_/https%3A//www.betterworks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BetterWorks
 
@@ -12,7 +12,7 @@ BetterWorks is a business software solution that allows for rapid iteration on m
 
 ### 2\. Websites Covered
 
-This Privacy Notice applies to the Web sites that link to this Privacy Notice, including: [http://www.betterworks.com](http://www.betterworks.com/); [http://blog.betterworks.com](http://blog.betterworks.com/); [https://app.betterworks.com](https://app.betterworks.com/); and https://betterworks10.zendesk.com (collectively referred to as “BetterWorks’ Web sites” or “the Company’s Web sites” or “Product”).
+This Privacy Notice applies to the Web sites that link to this Privacy Notice, including: [https://www.betterworks.com](https://web.archive.org/); [https://blog.betterworks.com](https://blog.betterworks.com/); [https://app.betterworks.com](https://app.betterworks.com/); and [https://betterworks.zendesk.com](https://betterworks.zendesk.com/) (collectively referred to as “BetterWorks’ Web sites” or “the Company’s Web sites” or “Product”).
 
 ### 3\. Information We Collect
 
@@ -22,7 +22,7 @@ When you create an account on the Website, we collect and store information abou
 
 #### Product Usage
 
-Once you are logged in to use the Product, we collect and store information that you submit through the Website, for your use of the Productand for your disclosure to other users in your organization as part of the Product (“Purpose”). You acknowledge and agree we may collect and disclose Personal Information to facilitate the Purpose. While in some cases you can make certain information private, most information is public by default to other users inside your company using the Product. Any Personal Information that is provided to us is stored securely, and used and disclosed only in accordance with this Notice and the BetterWorks Terms and Conditions. BetterWorks is not responsible for the information you disclose while using the Product.
+Once you are logged in to use the Product, we collect and store information that you submit through the Website, for your use of the Product and for your disclosure to other users in your organization as part of the Product (“Purpose”). You acknowledge and agree we may collect and disclose Personal Information to facilitate the Purpose. While in some cases you can make certain information private, most information is public by default to other users inside your company using the Product. Any Personal Information that is provided to us is stored securely, and used and disclosed only in accordance with this Notice and the BetterWorks Terms and Conditions. BetterWorks is not responsible for the information you disclose while using the Product.
 
 #### Events
 
@@ -44,17 +44,34 @@ We will not sell, license, trade or rent your Personal Information. BetterWorks 
 
 ### 6\. Updating Your Personal Information
 
-You can view and update the Personal Information you provide to us by accessing the profile feature of the Product, or you can update it by sending an email to support@BetterWorks.com, or using the “feedback” button available in the Product.
+You can view and update the Personal Information you provide to us by accessing the profile feature of the Product, or you can update it by sending an email to [support@betterworks.com](mailto:support@betterworks.com), or using the “feedback” button available in the Product.
 
 ### 7\. Data Security
 
 BetterWorks has established a privacy program designed to help respect and protect your data privacy rights. We maintain administrative, technical and physical safeguards intended to protect against the loss, misuse, unauthorized access, alteration, or disclosure of Personal Information. Although we take such precautions seriously, it is impossible for us or others to guarantee the safety and security of Personal Information. Consequently, we cannot ensure or warrant the security of any information.
 
-### 8\. Updating This Privacy Notice
+### 8\. Safe Harbor
+
+BetterWorks complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. BetterWorks has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view BetterWorks’ certification, please visit <http://www.export.gov/safeharbor>.
+
+Some types of Personal Information may be subject to other privacy-related requirements and policies, which are consistent with Safe Harbor. For example:
+
+  * Personal Information regarding and/or received from BetterWorks’ Customers is also subject to any specific agreement with, or notice to, said Customer, as well as additional applicable laws and professional standards.
+  * Personal Information regarding BetterWorks’ personnel and personnel of other Customers of the BetterWorks network is subject to internal human resource policies.
+
+
+
+You may request that we correct, update or amend the Personal Information we hold about you. To update us regarding changes in your Personal Information, please contact us as described below. Please be aware that before we can make any such change, we will need to confirm and authenticate that you are the data subject making such request. Should there be a denial of any such request, there will be an opportunity to appeal such denial or other unresolved customer inquiries, complaints, and disputes.
+
+In compliance with the US-EU Safe Harbor Principles and US-Swiss Safe Harbor Principles, BetterWorks commits to resolve complaints about your privacy and our collection or use of your Personal Information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact BetterWorks at [safeharbor@betterworks.com](mailto:safeharbor@betterworks.com).
+
+BetterWorks has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by BetterWorks, please visit the BBB EU SAFE HARBOR web site at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
+
+### 9\. Updating This Privacy Notice
 
 We may update this Notice from time to time. When we do, we will also revise the “last updated” date at the bottom of this page. If and when material changes are made, you will be notified in accordance with applicable law. We encourage you to review this Notice periodically to stay informed on our privacy practices.
 
-### 9\. Contacting Us
+### 10\. Contacting Us
 
 BetterWorks can be contacted at:
 
@@ -65,5 +82,5 @@ USA
 
 Questions about our Products, Services, or privacy practices can be directed to [security@betterworks.com](mailto:security@betterworks.com).
 
-Version 1.0  
-Last Updated, June 6, 2014.
+Version 2.0  
+Last Updated, April 27, 2015. 
