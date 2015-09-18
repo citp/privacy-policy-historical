@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the randstadusa.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325072307id_/https%3A//www.randstadusa.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the randstadusa.com privacy policy that was archived on 2015-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150918235450id_/https%3A//www.randstadusa.com/about/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy
 
@@ -66,6 +66,14 @@ Randstad will keep your personal information as long as we believe we may need i
 ##  Accessing and Updating Your Profile
 
 Job seekers may review and update, or remove, their job seeker profile directly from the website from time to time. You may also contact us and ask to see your job seeker profile and choices, and you may advise us of any changes or inaccuracies in such profile and choices and we will update or correct as appropriate. 
+
+## Consultant Texting Applicants & Employees
+
+We are pleased to offer you the ability to opt-in for text messages with your Randstad Branch. If you elect to enroll to receive text messages from your consultant, you will receive easy-to-check text messages related to Randstad. This information may include, but is not limited to, information such as job postings, assignment updates, weather alerts, and reminders for upcoming events and services. Please see a Randstad Consultant to learn how to enroll. If at any time you wish to stop receiving messages, you can contact Randstad and request to have your number removed through Randstad’s Call Center at 877.601.7453, or simply by texting STOP after receiving a text from Randstad.
+
+## Protecting Your Personal Information
+
+Randstad is committed to protecting all personal information provided, such as, Name, Address, Telephone, Email, Cell/Mobile Number. Randstad will not sell your information to a third party vendor. You will have the option to Opt in and Opt out with every message you receive from us. If you become aware of any potentially fraudulent activity on our website or in an email or text, please contact Randstad's Call Center at 877.601.7453 so that we can follow up. We take these matters, and the protection of our applicants/employees sensitive information, very seriously.
 
 ##  Contacting Randstad
 
