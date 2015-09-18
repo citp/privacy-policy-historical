@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mov-avi.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622022743id_/http%3A//www.movavi.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mov-avi.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919004449id_/http%3A//www.movavi.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -48,3 +48,5 @@ MOVAVI also collects general demographic information about visitors to our site.
 If you use a credit card to purchase a MOVAVI product, the credit card number is encrypted as it passes over the internet. Your credit card number is not kept or recorded by MOVAVI or our computers - it is simply passed through to the credit card company to purchase the course. In this respect, buying a course from MOVAVI is similar to a credit card purchase at any store. Neither MOVAVI nor the store keeps your credit card number on file. 
 
 More than anything, MOVAVI tries to treat its customers as each one of us would like to be treated. We value our privacy and we value yours, too. It is our goal to make your experience with MOVAVI a safe and positive experience. 
+
+Page loaded...
