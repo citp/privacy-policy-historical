@@ -1,13 +1,18 @@
-<!--The following is the downloaded HTML source of the novatech.co.uk privacy policy that was archived on 2015-03-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150317140935id_/http%3A//www.novatech.co.uk/privacyandsecurity.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the novatech.co.uk privacy policy that was archived on 2015-09-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150919011521id_/http%3A//www.novatech.co.uk/privacyandsecurity.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>Privacy and Security - novatech.co.uk</title>
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <link href="/css/global-layout.css" rel="stylesheet" type="text/css">
 <link href="/css/miscpages.css" rel="stylesheet" type="text/css">
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TSDDZJ"></script><script type="text/javascript" src="/js/jquery-1.8.2.min.js"></script>
+<link href="/css/bootstrap/bs.css" rel="stylesheet" type="text/css">
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TSDDZJ"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/js/jquery-1.11.2.min.js"></script>
+<script type="text/javascript" src="/js/jquery-migrate-1.2.1.min.js"></script>
+
+
 <script type="text/javascript"> 
 $(document).ready(function() {
 	$('#back-to-top').click(function(){
@@ -29,7 +34,36 @@ $(window).scroll(function() {
         $("#back-to-top").hide();
     }
 });
+</script>
 
+<link rel="stylesheet" href="/css/bootstrap/rrssb.css" type="text/css">
+<link href="/css/jquery.gritter.css" rel="stylesheet" type="text/css">
+<link href="/css/nov-alert.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="/js/jquery.gritter.min.js"></script>
+<script type="text/javascript" src="/js/novatech.js?v5"></script>
+<script type="text/javascript" src="/js/nov-alert.js"></script>
+
+
+
+
+<script async="" type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js"></script>
+
+<!--[if IE]>
+<link href="/css/ie.css" rel="stylesheet" type="text/css">
+<!-->
+
+
+
+ <link href="/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+ 	 <link href="/css/bootstrap/bs.css" rel="stylesheet">
+
+	 <!--[if lt IE 9]>
+     	 <script src="/js/bootstrap/html5shiv.min.js"></script>
+      	<script src="/js/bootstrap/respond.js"></script>
+     <![endif]-->
+
+     
+<script>
 
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -67,82 +101,69 @@ var google_remarketing_only = true;
 <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1070527034/?value=0&amp;guid=ON&amp;script=0"/>
 </div>
 </noscript>
-
-
-<link href="/css/jquery.gritter.css" rel="stylesheet" type="text/css">
-<link href="/css/nov-alert.css" rel="stylesheet" type="text/css">
-<link href="/css/novastrap.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="/js/jquery.gritter.min.js"></script>
-<script type="text/javascript" src="/js/novatech.js?v5"></script>
-<script type="text/javascript" src="/js/nov-alert.js"></script>
-<script type="text/javascript" src="/js/novastrap.js"></script>
-
-
-<!--[if IE]>
-<link href="/css/ie.css" rel="stylesheet" type="text/css">
-<!-->   
+     
+        
 </head>
-
-<body><div id="container-wrapper">
-<div id="global-container">
-
+<body>
 
  
+
+<script src="/js/rsp/jquery.event.swipe.js" type="text/javascript"></script>
+<script src="/js/rsp/jquery.event.move.js" type="text/javascript"></script>
+
 <script type="text/javascript">
-function remHover(){
-	$(theEl).removeClass("hovering");
-}
-var hto;
-var theEl;
- $(document).ready(function() {
+
+function moveMenus(){
+	$(".dropdown-menu").css("margin-left","0px");
+    $(".dropdown-toggle").each(function( index ) {
+     if($(this).attr("aria-expanded",true)){
+      if(($(this).offset().left + $(this).next().width()) > $(window).width()){
+          var mOff = ($(this).next().width() - ($(window).width()-$(this).offset().left))+45;
+    	  $(this).next().css("margin-left","-" + mOff + "px");		            
+      }
+     }
+    });
+
+
+
 	
-	 socialhide();
-
-	 $(window).scroll(function(){
-		 $(".wintest").css("top",$(".wintest").parent().position().top + 40-$(window).scrollTop());
-		 }); 
-	 
-$("ul#menu li").hover(
-  function () {
-	 	try{
-	  if($(this).attr('class').indexOf("mega")!=-1){
-  clearTimeout(hto);
-  remHover(theEl);
-   $(this).addClass("hovering");
-  	$(".wintest").css("top",$(this).parent().position().top + 45 - $(window).scrollTop()); 
- 	
-  	var leftHang = $(this).position().left;
-  	var divWidth = 0;
-  	divWidth = $('.wintest:visible').outerWidth();
-  	$('.wintest:visible').each(function(index) {
-  	   $(this).css("width",divWidth);
-  	    
-  	    if($(this).html().length<97){
-  	    	$(this).hide();
-  	    }
-  	});
-  	
-  	if((leftHang+divWidth)>(($(document).width()/2)+495-10)){  		
-  		if ( $.browser.msie ) {
-  			$(".wintest").css("left",(($(document).width() / 2) + 495)-divWidth-20);
-  		}else{
-  			$(".wintest").css("left",(($(document).width() / 2) + 495)-divWidth-10);
-  		}
-  		alert($(".wintest").css());
-  	}else{
-  		$(".wintest").css("left",$(this).position().left);	
-  	}
+}
 
 
-	  }
-	 	}catch(Exception){}
-  },
-  function () { 
-  theEl=this;
-   hto=setTimeout("remHover(this)",100);  
-  
-  }
-);
+
+
+$(window).resize(function() {
+	moveMenus();
+});
+
+
+
+ $(document).ready(function() {
+
+	 $(function(){
+			$(".dropdown-menu > li > a.trigger").on("click",function(e){
+				var current=$(this).next();
+				var grandparent=$(this).parent().parent();
+				if($(this).hasClass('left-caret')||$(this).hasClass('right-caret'))
+					$(this).toggleClass('right-caret left-caret');
+				grandparent.find('.left-caret').not(this).toggleClass('right-caret left-caret');
+				grandparent.find(".sub-menu:visible").not(current).hide();
+				current.toggle();
+				e.stopPropagation();
+			});
+			$(".dropdown-menu > li > a:not(.trigger)").on("click",function(){
+				var root=$(this).closest('.dropdown');
+				root.find('.left-caret').toggleClass('right-caret left-caret');
+				root.find('.sub-menu:visible').hide();
+			});
+		});	 
+
+	 	 socialhide();
+	
+	  $('.dropdown-toggle').click(function() {
+		  moveMenus();
+	    });
+
 
 });
 </script>
@@ -247,17 +268,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
  
 
-<div class="promoButtonOuter1"><a href="/shield" target="_blank" onclick="ga('send', 'event', 'SiteSkin', 'ButtonClick', 'Promo1-/shield');"><div class="promoButton1"></div></a></div>
-<div class="promoButtonOuter2"><a href="/promo/nvidia-thewitcher3.html" target="_blank" onclick="ga('send', 'event', 'SiteSkin', 'ButtonClick', 'Promo2-nvidia-thewitcher3');"><div class="promoButton2"></div></a></div>
+<div class="promoButtonOuter1"><a href="/promo/tplink-powerline-freeadapter.html" target="_blank" onclick="ga('send', 'event', 'SiteSkin', 'ButtonClick', 'Promo1-tplink-powerline-freeadapter');"><div class="promoButton1"></div></a></div>
+<div class="promoButtonOuter2"><a href="/promo/nvidia-metalgear.html" target="_blank" onclick="ga('send', 'event', 'SiteSkin', 'ButtonClick', 'Promo2-nvidia-metalgear');"><div class="promoButton2"></div></a></div>
 <div class="promoButtonOuter3"><a href="/products/peripherals/keyboards/keyboardmousebundles/sgh-2090-kkti1sgk-4020-gkcm1-.html" target="_blank" onclick="ga('send', 'event', 'SiteSkin', 'ButtonClick', 'Promo3-/products/peripherals/keyboards/keyboardmousebundles/sgh-2090-kkti1sgk-4020-gkcm1-');"><div class="promoButton3"></div></a></div>
 <div class="promoButtonOuter4"><a href="/products/networking/switches/netgear/" target="_blank" onclick="ga('send', 'event', 'SiteSkin', 'ButtonClick', 'Promo4-/products/networking/switches/netgear/');"><div class="promoButton4"></div></a></div>
-<div class="promoButtonOuter5"><a href="/products/networking/wirelessnetworking/wirelessextenders/" target="_blank" onclick="ga('send', 'event', 'SiteSkin', 'ButtonClick', 'Promo5-/products/networking/wirelessnetworking/wirelessextenders/');"><div class="promoButton5"></div></a></div>
+<div class="promoButtonOuter5"><a href="/products/networking/wirelessnetworking/netgear/" target="_blank" onclick="ga('send', 'event', 'SiteSkin', 'ButtonClick', 'Promo5-/products/networking/wirelessnetworking/netgear/');"><div class="promoButton5"></div></a></div>
 <div class="promoButtonOuter6"><a href="/products/networking/wirelessnetworking/wirelessrouters/netgear/" target="_blank" onclick="ga('send', 'event', 'SiteSkin', 'ButtonClick', 'Promo6-/products/networking/wirelessnetworking/wirelessrouters/netgear/');"><div class="promoButton6"></div></a></div>
 <div class="promoButtonOuter7"><a href="/products/networking/wirelessnetworking/wirelessextenders/netgear/" target="_blank" onclick="ga('send', 'event', 'SiteSkin', 'ButtonClick', 'Promo7-/products/networking/wirelessnetworking/wirelessextenders/netgear/');"><div class="promoButton7"></div></a></div>
 <div class="promoButtonOuter8"><a href="/products/networking/wirelessnetworking/wirelessusbadapters/netgear/" target="_blank" onclick="ga('send', 'event', 'SiteSkin', 'ButtonClick', 'Promo8-/products/networking/wirelessnetworking/wirelessusbadapters/netgear/');"><div class="promoButton8"></div></a></div>
 <div class="promoButtonOuter9"><a href="/products/networking/powerline/netgear/" target="_blank" onclick="ga('send', 'event', 'SiteSkin', 'ButtonClick', 'Promo9-/products/networking/powerline/netgear/');"><div class="promoButton9"></div></a></div>
-<div class="promoButtonOuter10"><a href="/promo/gigabytebuy1get2.html" target="_blank" onclick="ga('send', 'event', 'SiteSkin', 'ButtonClick', 'Promo10-gigabytebuy1get2');"><div class="promoButton10"></div></a></div>
-<div class="promoButtonOuter11"><a href="/promo/gigabytebuy1get2.html" target="_blank" onclick="ga('send', 'event', 'SiteSkin', 'ButtonClick', 'Promo11-gigabytebuy1get2');"><div class="promoButton11"></div></a></div>
+<div class="promoButtonOuter10"><a href="/products/monitors/21.5inchto22inchmonitors/9h.lc1lb.qpe.html" target="_blank" onclick="ga('send', 'event', 'SiteSkin', 'ButtonClick', 'Promo10-/products/monitors/21.5inchto22inchmonitors/9h.lc1lb.qpe');"><div class="promoButton10"></div></a></div>
+<div class="promoButtonOuter11"><a href="/promo/tplink-powerline-freeadapter.html" target="_blank" onclick="ga('send', 'event', 'SiteSkin', 'ButtonClick', 'Promo11-tplink-powerline-freeadapter');"><div class="promoButton11"></div></a></div>
 <div class="promoButtonOuter12"><a href="/products/networking/wirelessnetworking/wirelessrouters/tplink/" target="_blank" onclick="ga('send', 'event', 'SiteSkin', 'ButtonClick', 'Promo12-/products/networking/wirelessnetworking/wirelessrouters/tplink/');"><div class="promoButton12"></div></a></div>
   
 <div id="cover" onclick="hideN3D();"></div>
@@ -303,235 +324,554 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 
 
-<!-- NAVBAR CONTAINER -->
-<div id="new-navbar-container">
+<nav class="navbar navbar-default" id="navbar-container">
 
-<div id="new-navbar-container-left">
-<div class="new-header-logo">
-<a href="/"><img src="http://images.novatech.co.uk/website2011/new-header-logo.png"></a></div>
-</div>
-
-<div id="new-navbar-container-right">
-
-<div id="new-header-links">
-
-<ul id="signinlist">
-<li><a href="/contact.html">Help</a></li>
-<li>|</li>
-<li><a href="/mywishlists.html">Wishlist</a></li> 
-<li>|</li>
-<li><a href="/myaccount.html">Sign in</a></li>
-<li>|</li>
-<li><a href="/createaccount.html">Sign up</a></li>
-</ul>
-
-</div>
-
-<div id="new-navigation-bar-top">
-
-<div id="header-shop">
-<ul>
-<li>
-<a href="javascript:void(0);" onclick="showNovaStrap('business','To register for a Business Account with us, <a href=\'/business-signup.html\'>click here</a>.','http://images.novatech.co.uk/website2011/novastrap/business-icon.png',0)">Buying for business?</a>
-
- 
-</li>  
-</ul>
-</div>
-<a href="/basket.html">
-<div id="mybasket">
-<img src="http://images.novatech.co.uk/website2011/shopping-basket-logo-new.png" class="basket-icon"> 
-<div id="minibasket">
-<img border="0" width="155" src="/images/basket-updating.gif">
-</div>  
-</div>
-</a>
-<div class="header-search">
-<input type="button" value="" onclick="setSearch();" class="search-submit-new">
-<input type="text" id="searchBox" value="keywords or product code" onfocus="doClear(this)" name="s" autocomplete="off"> 
-<div id="search_suggest"> </div>		
-</div>
-</div>
-
-<!-- BOTTOM NAV -->
-<div id="new-navigation-bar">
-
-<ul id="menu">
-<li class="mega1"><h2><a href="/pc/" class="dropdown">Desktop PCs</a></h2><div class="wintest"><table><tbody><tr><td valign="top" align="left"><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Use</h2><ul class="nav-list"><li><a href="/pc/home/" class="menuLink">Home</a></li><li><a href="/pc/business/" class="menuLink">Office</a></li><li><a href="/promo/pro-video.html" class="menuLink">Video Editing</a></li><li><a href="/promo/pro-audio.html" class="menuLink">Pro Audio</a></li><li><a href="/promo/pro-graphics.html" class="menuLink">Pro Graphics</a></li><li><a href="/workstations" class="menuLink">Quadro CAD</a></li><li><a href="/promo/flight-simulation.html" class="menuLink">Flight Simulator</a></li><li><a href="/promo/multiview-workstations.html" class="menuLink">Multi Monitor</a></li><li><a href="/promo/tesla-workstations.html" class="menuLink">Tesla Workstation</a></li></ul><p></p><ul class="nav-list"><li><a href="/pc/all/" class="rangeallLink">View all PCs</a></li></ul></td><td valign="top" align="left"><ul class="nav-list"></ul><a href="/gaming-pcs/"><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Gaming</h2></a><ul class="nav-list"><li><a href="/pc/gaming/intel/" class="menuLink">Intel</a></li><li><a href="/pc/gaming/amd/" class="menuLink">AMD</a></li><li><a href="/pc/?s=5&amp;f=42" class="menuLink">NVIDIA GeForce</a></li></ul></td><td valign="top" align="left"><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Format</h2><ul class="nav-list"><li><a href="/pc/?f=56" class="menuLink">Tower</a></li><li><a href="/pockit" class="menuLink">Mini PC</a></li></ul><p></p><ul class="nav-list"></ul><a href="/barebonebundles/"><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Barebone Bundles</h2></a><ul class="nav-list"><li><a href="/barebonebundles/?p=intel" class="menuLink">Intel Barebone Bundles</a></li><li><a href="/barebonebundles/?p=amd" class="menuLink">AMD Barebone Bundles</a></li></ul><p></p><ul class="nav-list"></ul><a href="/motherboardbundles/"><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Motherboard Bundles</h2></a><ul class="nav-list"><li><a href="/motherboardbundles/intel/" class="menuLink">Intel Motherboard Bundles</a></li><li><a href="/motherboardbundles/amd/" class="menuLink">AMD Motherboard Bundles</a></li></ul></td></tr></tbody></table></div></li><li class="mega2"><h2><a href="/laptop/" class="dropdown">Laptops</a></h2><div class="wintest"><table><tbody><tr><td valign="top" align="left"><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Category</h2><ul class="nav-list"><li><a href="/products/laptops/brandedlaptops/" class="menuLink">Entry level</a></li><li><a href="/laptop/?s=1" class="menuLink">Everyday use</a></li><li><a href="/mobile-workstations/" class="menuLink">Mobile Workstations</a></li><li><a href="/laptop/?s=2" class="menuLink">Pro</a></li><li><a href="/laptop/?s=3" class="menuLink">Ultrabook</a></li><li><a href="/laptop/?s=5" class="menuLink">High performance</a></li></ul><p></p><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Use</h2><ul class="nav-list"><li><a href="/laptop/home/" class="menuLink">Home</a></li><li><a href="/laptop/business/" class="menuLink">Business</a></li><li><a href="/gaming-laptops/" class="menuLink">Gaming</a></li></ul><p></p><ul class="nav-list"><li><a href="/laptop/all/" class="rangeallLink">View all Laptops</a></li></ul></td><td valign="top" align="left"><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Laptop Extras</h2><ul class="nav-list"><li><a href="/products/laptops/laptopaccessories/acadapters/" class="menuLink">Adapters</a></li><li><a href="/products/laptops/laptopaccessories/" class="menuLink">Accessories</a></li><li><a href="/products/laptops/laptopbatteries/" class="menuLink">Batteries</a></li><li><a href="/products/laptops/laptopcases/" class="menuLink">Cases</a></li><li><a href="/products/laptops/laptopaccessories/security/" class="menuLink">Security</a></li></ul><p></p><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>More</h2><ul class="nav-list"><li><a href="/carepackinformation.html" class="menuLink">Carepack Information</a></li><li><a href="/clearance.html" class="menuLink">Clearance Laptops</a></li><li><a href="/servicecentre" class="menuLink">Repairs</a></li></ul></td></tr></tbody></table></div></li><li class="mega3"><h2><a href="/server/" class="dropdown">Servers</a></h2><div class="wintest"><table><tbody><tr><td valign="top" align="left"><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Category</h2><ul class="nav-list"><li><a href="/server/?s=6" class="menuLink">Tower</a></li><li><a href="/server/?s=7" class="menuLink">Rackmount</a></li><li><a href="/server/?s=9" class="menuLink">Workstation</a></li><li><a href="/server/?s=10" class="menuLink">HP Servers</a></li><li><a href="/server/all/" class="rangeallLink">View all Servers</a></li></ul><p></p><ul class="nav-list"></ul></td><td valign="top" align="left"><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Workstations</h2><ul class="nav-list"><li><a href="/workstations" class="menuLink">CAD Workstations</a></li><li><a href="/promo/tesla-workstations.html" class="menuLink">Tesla Workstations</a></li><li><a href="/promo/multiview-workstations.html" class="menuLink">MultiView Workstations</a></li></ul><p></p><ul class="nav-list"></ul></td></tr></tbody></table></div></li><li class="mega4"><h2><a href="/products/components/" class="dropdown">PC Components</a></h2><div class="wintest"><table><tbody><tr><td valign="top" align="left"><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Memory</h2><ul class="nav-list"><li><a href="/products/components/memory-pc/" class="menuLink">PC Memory</a></li><li><a href="/products/components/memory-laptop/" class="menuLink">Laptop Memory</a></li><li><a href="/products/components/memory-servers/" class="menuLink">Server Memory</a></li></ul><p></p><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Processors</h2><ul class="nav-list"><li><a href="/products/components/processors/intel/" class="menuLink">Intel Processors</a></li><li><a href="/products/components/processors/amd/" class="menuLink">AMD Processors</a></li></ul><p></p><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Motherboards</h2><ul class="nav-list"><li><a href="/products/components/motherboards/" class="menuLink">Motherboards</a></li></ul></td><td valign="top" align="left"><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Graphics Cards</h2><ul class="nav-list"><li><a href="/products/components/amdradeongraphicscards/" class="menuLink">AMD Graphics Cards</a></li><li><a href="/products/components/nvidiageforcegraphicscards/" class="menuLink">Nvidia Graphics Cards</a></li><li><a href="/products/components/professionalgraphicscards/" class="menuLink">Graphics - Professional</a></li></ul><p></p><ul class="nav-list"></ul><a href="/products/components/cooling/"><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>PC Cooling</h2></a><ul class="nav-list"><li><a href="/products/components/cooling/fans/" class="menuLink">Case Fans</a></li><li><a href="/products/components/cooling/cpucoolers/" class="menuLink">CPU Fans</a></li><li><a href="/products/components/cooling/thermalandcompounds/" class="menuLink">Thermal Paste</a></li><li><a href="/products/components/cooling/watercooling/" class="menuLink">Water Cooling</a></li></ul><p></p><ul class="nav-list"></ul><a href="/products/cables/"><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Cables &amp; Accessories</h2></a><ul class="nav-list"><li><a href="/products/cables/internaldatacables/" class="menuLink">Internal Data Cables</a></li><li><a href="/products/cables/internalpowercables/" class="menuLink">Internal Power Cables</a></li></ul></td><td valign="top" align="left"><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Components</h2><ul class="nav-list"><li><a href="/products/components/cases/" class="menuLink">Computer Cases</a></li><li><a href="/products/components/casemodsandlighting/" class="menuLink">Case Mods &amp; Lighting</a></li><li><a href="/products/components/powersupplies/" class="menuLink">Power Supplies</a></li><li><a href="/products/components/opticaldrives/" class="menuLink">Optical Drives</a></li><li><a href="/products/components/tvtunercards/" class="menuLink">TV Tuner Cards</a></li><li><a href="/products/components/soundcards/" class="menuLink">Sound Cards</a></li><li><a href="/products/networking/modems/" class="menuLink">Modems</a></li><li><a href="/products/components/floppydiskdrives/" class="menuLink">Floppy Disk Drives</a></li><li><a href="/products/components/controllercards/" class="menuLink">Controller Cards</a></li><li><a href="/products/components/pctoolsandkits/" class="menuLink">PC Tools &amp; Kits</a></li></ul><p></p><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Part Built Upgrades</h2><ul class="nav-list"><li><a href="/motherboardbundles/" class="menuLink">Motherboard Bundles</a></li><li><a href="/barebonebundles/" class="menuLink">Barebone Bundles</a></li></ul><p></p><ul class="nav-list"></ul></td></tr></tbody></table></div></li><li class="mega5"><h2><a href="/products/tabletpcs/" class="dropdown">Tablets</a></h2><div class="wintest"><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Tablets</h2><ul class="nav-list"><li><a href="/products/tabletpcs/androidtablets/" class="menuLink">Android</a></li><li><a href="/products/tabletpcs/windowstablets/" class="menuLink">Windows</a></li><li><a href="/products/tabletpcs/nvidiashieldtablet/" class="menuLink">NVIDIA Shield</a></li><li><a href="/products/tabletpcs/tabletpcaccessories/" class="menuLink">Tablet Accessories</a></li></ul><table><tbody><tr></tr></tbody></table></div></li><li class="mega6"><h2><a href="" class="dropdown">Storage</a></h2><div class="wintest"><table><tbody><tr><td valign="top" align="left"><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Hard Drives</h2><ul class="nav-list"><li><a href="/products/components/harddrives-internal/" class="menuLink">Internal Drives</a></li><li><a href="/products/components/harddrives-internal/ssdsolidstate/" class="menuLink">SSD/Solid State Drives</a></li><li><a href="/products/components/harddrives-internal/satahybridssddrives/" class="menuLink">Hybrid &amp; Dual Drives</a></li></ul><p></p><ul class="nav-list"></ul><a href="/products/components/harddrives-external/"><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>External Drives</h2></a><ul class="nav-list"><li><a href="/products/components/harddrives-external/desktopusb3.0/" class="menuLink">Desktop Drives</a></li><li><a href="/products/components/harddrives-external/portableusb3.0/" class="menuLink">Portable Drives</a></li><li><a href="/products/networking/networkattachedstorage/" class="menuLink">Network Attached</a></li><li><a href="/products/components/harddrives-external/harddriveenclosures/" class="menuLink">Caddies &amp; Docks</a></li><li><a href="/products/components/opticaldrives/externaldvdwriters/" class="menuLink">External DVD Writers</a></li></ul><p></p><ul class="nav-list"></ul></td><td valign="top" align="left"><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Network &amp; Enterprise</h2><ul class="nav-list"><li><a href="/products/networking/networkattachedstorage/" class="menuLink">NAS Drives</a></li></ul><p></p><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Tape Backup</h2><ul class="nav-list"><li><a href="/products/storage/" class="menuLink">Tape Drives &amp; Media</a></li></ul></td><td valign="top" align="left"><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Flash Memory</h2><ul class="nav-list"><li><a href="/products/components/memory-usb/" class="menuLink">USB Memory Sticks</a></li><li><a href="/products/digitalcameras/cameramemory/" class="menuLink">Memory Cards</a></li></ul><p></p><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Media</h2><ul class="nav-list"><li><a href="/products/consumables/blankcds/" class="menuLink">CD Media</a></li><li><a href="/products/consumables/blankdvds/" class="menuLink">DVD Media</a></li><li><a href="/products/consumables/blankdvds/blu-ray/" class="menuLink">BluRay Media</a></li><li><a href="/products/storage/storagemedia/" class="menuLink">Backup Media</a></li></ul><p></p><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Cables &amp; Accessories</h2><ul class="nav-list"></ul></td></tr></tbody></table></div></li><li class="mega7"><h2><a href="/products/peripherals/" class="dropdown">Peripherals</a></h2><div class="wintest"><table><tbody><tr><td valign="top" align="left"><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Peripherals</h2><ul class="nav-list"><li><a href="/products/peripherals/desktopkits/" class="menuLink">Desktop Kits</a></li><li><a href="/products/peripherals/graphicstablets/" class="menuLink">Graphics Tablets</a></li><li><a href="/products/peripherals/keyboards/" class="menuLink">Keyboards</a></li><li><a href="/products/peripherals/kvmandswitchboxes/" class="menuLink">KVM &amp; Switch Boxes</a></li><li><a href="/products/peripherals/miceandtrackballs/" class="menuLink">Mice and Trackballs</a></li><li><a href="/products/peripherals/mousemats/" class="menuLink">Mouse Mats</a></li><li><a href="/products/peripherals/pcjoysticksandcontrollers/" class="menuLink">PC Joysticks &amp; Controllers</a></li><li><a href="/products/peripherals/pduandsurgeprotection/" class="menuLink">PDU &amp; Surge Protection</a></li><li><a href="/products/peripherals/uninterruptiblepowersupplies/" class="menuLink">UPS</a></li><li><a href="/products/peripherals/usbhubs/" class="menuLink">USB Hubs</a></li></ul></td><td valign="top" align="left"><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Multimedia</h2><ul class="nav-list"><li><a href="/products/digitalcameras/" class="menuLink">Digital Cameras</a></li><li><a href="/products/soundandvision/mediaextenders/" class="menuLink">Media Extenders</a></li><li><a href="/products/peripherals/microphonesandheadsets/" class="menuLink">Microphones &amp; Headsets</a></li><li><a href="/products/printers/" class="menuLink">Printers</a></li><li><a href="/products/soundandvision/projectors/" class="menuLink">Projectors &amp; Screens</a></li><li><a href="/products/peripherals/scanners/" class="menuLink">Scanners</a></li><li><a href="/products/peripherals/speakers/" class="menuLink">Speakers</a></li><li><a href="/products/soundandvision/" class="menuLink">Sound &amp; Vision</a></li><li><a href="/products/peripherals/webcams/" class="menuLink">Web Cams</a></li><li><a href="/products/soundandvision/interactivewhiteboards/" class="menuLink">Whiteboards</a></li></ul></td><td valign="top" align="left"><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Monitors</h2><ul class="nav-list"><li><a href="/products/monitors/" class="menuLink">PC Monitors</a></li><li><a href="/products/monitors/touchscreenmonitors/" class="menuLink">Touch Screen</a></li><li><a href="/products/monitors/hardglassmonitors/" class="menuLink">Hard Glass Monitors</a></li><li><a href="/products/monitors/monitoraccessories/" class="menuLink">Monitor Accessories</a></li></ul><p></p><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Consumables</h2><ul class="nav-list"><li><a href="/products/consumables/blankcds/" class="menuLink">CD Media</a></li><li><a href="/products/consumables/blankdvds/" class="menuLink">DVD Media</a></li><li><a href="/products/consumables/blankdvds/blu-ray/" class="menuLink">BluRay Media</a></li><li><a href="/products/consumables/laserprinterconsumables/" class="menuLink">Laser Print Supplies</a></li><li><a href="/products/consumables/printercartridges/" class="menuLink">Printer Cartridges</a></li><li><a href="/products/consumables/printerpaper/" class="menuLink">Printer Paper</a></li><li><a href="/inkandtoner.html" class="menuLink">Ink and Toner Selector</a></li></ul><p></p><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Cables</h2><ul class="nav-list"><li><a href="/products/cables/" class="rangeallLink">View all</a></li></ul></td></tr></tbody></table></div></li><li class="mega8"><h2><a href="/products/networking/" class="dropdown">Networking</a></h2><div class="wintest"><table><tbody><tr><td valign="top" align="left"><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Network</h2><ul class="nav-list"><li><a href="/products/networking/modems/" class="menuLink">Modems</a></li><li><a href="/products/cables/networkingcables/" class="menuLink">Networking Cables</a></li><li><a href="/products/networking/networkinterfacecards/" class="menuLink">Network Interface Cards</a></li><li><a href="/products/networking/networksecurity/" class="menuLink">Network Security</a></li><li><a href="/products/networking/powerline/" class="menuLink">Powerline</a></li><li><a href="/products/networking/printservers/" class="menuLink">Print Servers</a></li><li><a href="/products/networking/switches/" class="menuLink">Switches</a></li><li><a href="/products/networking/wirelessnetworking/" class="menuLink">Wireless Networking</a></li><li><a href="/products/networking/routers/" class="menuLink">Wired Routers</a></li></ul></td><td valign="top" align="left"><ul class="nav-list"></ul><img src="/images/red-arrow-topmenu.png" alt="menuBulletPoint"><h2>Extras</h2><ul class="nav-list"><li><a href="/products/networking/bluetooth/" class="menuLink">Bluetooth</a></li><li><a href="/products/networking/cctvandsecurity/" class="menuLink">CCTV &amp; Security</a></li><li><a href="/products/networking/ipsecurity/" class="menuLink">IP Security</a></li><li><a href="/products/networking/iptelephony/" class="menuLink">IP Telephony</a></li><li><a href="/products/networking/kvm/" class="menuLink">KVM</a></li><li><a href="/products/networking/networkattachedstorage/" class="menuLink">Network Attached Storage</a></li><li><a href="/products/networking/poweroverethernet/" class="menuLink">Power Over Ethernet (PoE)</a></li><li><a href="/products/networking/racksandcabinets/" class="menuLink">Racks &amp; Cabinets</a></li><li><a href="/products/networking/toolsandtoolkits/" class="menuLink">Tools &amp; Tool Kits</a></li></ul></td></tr></tbody></table></div></li><li class="mega9"><h2><a href="/products/software/" class="dropdown">Software</a></h2><div class="wintest"><table><tbody><tr></tr></tbody></table></div></li><li class="mega10"><h2><a href="/deals" class="dropdown">Deals</a></h2><div class="wintest"><table><tbody><tr></tr></tbody></table></div>
-</li></ul>
+      <div id="nav-top" class="nav-darkbar">
+      <div id="nav-toprow" class="container">
      
- </div> 
-<!-- BOTTOM NAV -->
+        <div class="navbar-header" style="width:100%;padding:0px;margin:0px;">
+        <a href="/basket.html">
+           
+          <div id="minibasket" class="navbar-right hidden-xs hidden-sm nav-basket-info basket-counter"><img class="basket-updating" src="http://images.novatech.co.uk/website2015/icons/basket-updating.gif"></div>
+          <div id="nav-basket" class="navbar-right"><div class="basket-icon"></div></div>
+ </a>
+         <a href="/myaccount.html">
+            <button type="button" id="account-icon" class="navbar-toggle navbar-mobile-button navbar-account-icon visible-xs-block visible-sm-block">
+            <span class="sr-only">My Account</span>
+          
+            
+          </button> 
+       </a>
+          
+          <button type="button" id="menu-icon" class="visible-sm-block navbar-menu-icon navbar-toggle collapsed visible-xs-block" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+          </button>
+          
+            <button onclick="$('#searchbox').toggle();$('#searchboxnew').focus();" type="button" id="search-icon" class="navbar-toggle navbar-mobile-button navbar-search-icon visible-xs-block visible-sm-block">
+            <span class="sr-only">Toggle search</span>
+            </button>
+   
+          <a class="navbar-brand" href="/"><div class="tab-logo hidden-xs hidden-sm"></div><div class="logo-tablet hidden novatech-logo-medium"></div><img src="http://images.novatech.co.uk/website2011/novatech-white-n.png" class="hidden novatech-logo-small" style="margin:-5px 0px;"></a>
+         
+         	<div class="navbar-right hidden-xs hidden-sm header-top-item navbar-links" style="white-space: nowrap;"><a href="/basket.html" onclick="ga('send', 'event', 'Header', 'TopLinks', 'Basket');">YOUR BASKET:</a></div>
+         
+          <div class="navbar-right hidden-xs hidden-sm header-top-item navbar-links"><a href="/myaccount.html" onclick="ga('send', 'event', 'Header', 'TopLinks', 'Account-SignIn');" style="white-space: nowrap;">SIGN IN</a></div>
+                       
+          <div class="navbar-right hidden-xs hidden-sm header-top-item navbar-links"><a href="/mywishlists.html" onclick="ga('send', 'event', 'Header', 'TopLinks', 'Wishlists');">WISHLISTS</a></div>
+          
+          <div class="navbar-right hidden-xs hidden-sm header-top-item navbar-links"><a href="/contact.html" onclick="ga('send', 'event', 'Header', 'TopLinks', 'Help');">HELP</a></div>
+          
+          
+           
+        </div> 
+  
+		</div>
+        </div>
+        
+        
+        
+           <div class="nav-middle-section">  
+            <div id="nav-middle" class="container"> 
+            
+            <div id="searchbox" class="">
+          <div class="right-inner-addon">
+    			<span class="glyphicon glyphicon-search" style="cursor: pointer; cursor: hand;" onclick="setSearch();"></span>
+   				<input type="search" id="searchboxnew" name="s" class="form-control navbar-searchbox" placeholder="Looking for something?" style="border-radius: 20px;">
+   				<div style="display: none;" id="search_suggest"> </div>
+   				</div>
+		  </div>
+            
+            	<div id="navbar-contact"> 
+				<p><a href="/contact.html" class="navbar-livechat hidden-xs" onclick="ga('send', 'event', 'Header', 'CTA', 'LiveChat');"><span class="navbar-phone"><span id="header-ico" style="font-size: 30px; padding:0 10px 3px 0;" class="glyphicon glyphicon-comment"></span>Live chat</span></a><a class="navbar-callus" href="tel:02392322500"><span class="navbar-phone"><span id="header-ico" style="font-size: 25px; padding:0 10px 5px 0;" class="glyphicon glyphicon-earphone hidden-xs"></span>Call<span class="hidden-tiny"> us</span> 023<span class="hidden-tiny"> </span>9232<span class="hidden-tiny">  </span>2500<span style="font-weight:normal;"> Mon<span class="hidden-tiny">  </span>-<span class="hidden-tiny">  </span>Sat, 9am<span class="hidden-tiny">  </span>-<span class="hidden-tiny">  </span>5pm</span></span></a></p>
+				</div>	
+			 </div>         
+    		</div> 
+        
+       
+        
+        
+        
+        
+        
+        <div id="mainnav" class="dropdownbar mainnav-wrapper"> 
+        <div class="container">
+        
+        <div class="row">
+        <div id="navbar" class="collapse navbar-collapse">
+        
+                  <ul id="main-nav" class="nav navbar-nav"> 
+	        		
+	        <li class="dropdown visible-xs-block visible-sm-block"><a href="/contact.html" class="help-wishlist">Help</a>
+	
+			</li><li class="dropdown visible-xs-block visible-sm-block"><a href="/mywishlists.html" class="help-wishlist" style="border-top:1px solid #2F3338;">My Wishlists</a>
+			</li><li class="dropdown"><a href="/pc/" class="dropdown-toggle" data-toggle="dropdown"><span class="desktoppcs"><span class="hidden-sm hidden-md">Desktop</span> PCs</span></a>
+<ul class="dropdown-menu multi-column columns-2">
+		<div class="row">
+			<div class="col-sm-6">
 
-<!-- BOTTOM HEADER -->
-<div id="header-bottom">
 
-<div style="float:right;">
-<div style="float:left;"><a href="/contact.html" style="float:left;" onclick="ga('send', 'event', 'Header', 'CTA', 'LiveChat');"><img src="http://images.novatech.co.uk/website2011/livechat-header-logo.png" style="margin:5px 0 0 0;"></a></div>
-<div style="float:left;"><a href="/contact.html" style="float:left; margin:12px 0 0 10px; font-size:13px; color:#444; font-weight:bold;" onclick="ga('send', 'event', 'Header', 'CTA', 'LiveChat');">Live Chat</a>  </div>
-<div style="float:left; margin:0 0 0 15px;"><img src="http://images.novatech.co.uk/website2011/phone-header-logo.png" style="margin:5px 10px 0 0;"></div>
-<div style="float:left;"><p style="margin:9px 0 0 0; color:#444;"><span class="header-callus-bold">023 9232 2500</span> Mon - Fri, 9am - 5pm</p></div>
- 
+          			<a href="/pc/workstations" onclick="ga('send', 'event', 'Menu', 'HeaderLink', 'Workstations');">	<span class="menuHeader">Workstations</span></a>      
+				<li><a href="/pc/videoediting/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'VideoEditing');">Video
+						Editing</a></li>
+				<li><a href="/pc/flightsimulator/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'FlightSimulation');">Flight
+						Simulator</a></li>
+				<li><a href="/pc/multiview/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'MultiMonitor');">Multi Monitor</a></li>
+				<li><a href="/pc/quadrocad/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'QuadroCAD');">Quadro CAD</a></li>
+				<li><a href="/pc/prographics/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'ProGraphics');">Pro
+						Graphics</a></li>
+				<li><a href="/pc/teslaworkstation/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'Tesla');">Tesla
+						Workstation</a></li>
+				<div class="menuSpacer"></div>
+        <a href="/pc/gaming/" onclick="ga('send', 'event', 'Menu', 'HeaderLink', 'GamingPC');"><span class="menuHeader">Gaming</span></a>
+        <li><a href="/pc/gaming/intel/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'IntelPC');">Intel</a></li>
+        <li><a href="/pc/gaming/nvidia/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'NVIDIAPC');">NVIDIA GeForce</a></li>
+        <li><a href="/pc/gaming/amd/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'AMDPC');">AMD</a></li>
+        				<div class="menuSpacer"></div>
+			</div>
+			<div class="col-sm-6">
+      <li><a href="/pc/?s=24" onclick="ga('send', 'event', 'Menu', 'SubLink', 'Skylake-PC');" class="menuItem">Skylake PCs</a></li>
+
+      			<div class="menuSpacer"></div>
+        <a href="/pc/" onclick="ga('send', 'event', 'Menu', 'HeaderLink', 'Use');">	<span class="menuHeader">Use</span></a>
+          <li><a href="/pc/home/" onclick="ga('send', 'event', 'Menu', 'SubLink', 'Home');" class="menuItem">Home</a></li>
+          <li><a href="/pc/business/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'Office');">Office</a></li>
+				<div class="menuSpacer"></div>
+			<a href="/pc/">	<span class="menuHeader" onclick="ga('send', 'event', 'Menu', 'HeaderLink', 'StylePC');">Style</span> </a>
+				<li><a href="/pc/tower/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'TowerPC');">Tower</a></li>
+				<li><a href="/pc/minipc/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'MiniPC');">Mini PC</a></li>
+        
+        <div class="menuSpacer"></div>
+      <a href="/pc/">	<span class="menuHeader">More</span> </a>
+      <li><a href="/carepackinformation.html" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'CarepackLaptop');">Carepack
+          Information</a></li>
+      <li><a href="/clearance.html" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'ClearanceLaptop');">Clearance PCs</a></li>
+      <li><a href="/servicecentre" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'RepairsLaptop');">Repairs</a></li>
+        	<div class="menuSpacer"></div>
+			</div>
+			<div class="col-xs-12">
+				<a href="/pc/all/" class="rsp-button red-solid rsp-menusizer" onclick="ga('send', 'event', 'Menu', 'AllLink', 'ViewAllPC');">View
+					all PCs</a>
+			</div>
+		</div>
+	</ul></li>
+<li class="dropdown"><a href="/laptop/" class="dropdown-toggle" data-toggle="dropdown"><span class="laptops">Laptops</span></a>
+<ul class="dropdown-menu multi-column columns-2">
+		<div class="row">
+			<div class="col-sm-6">
+      			<div class="menuSpacer"></div>
+			<a href="/laptop/">	<span class="menuHeader" onclick="ga('send', 'event', 'Menu', 'HeaderLink', 'CategoryLaptop');">Category</span></a>
+				<li><a href="/products/laptops/brandedlaptops/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'EntryLevelLaptop');">Entry level</a></li>
+				<li><a href="/laptop/everydayuse/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'EverydayLaptop');">Everyday use</a></li>
+				<li><a href="/mobile-workstations/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'MobileWorkstations');">Mobile
+						Workstations</a></li>
+				<li><a href="/laptop/professional/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'ProLaptop');">Pro</a></li>
+				<li><a href="/ultrabook/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'Ultrabook');">Ultrabook</a></li>
+				<div class="menuSpacer"></div>
+				<a href="/laptop/">	<span class="menuHeader" onclick="ga('send', 'event', 'Menu', 'HeaderLink', 'UseLaptop');">Use</span> </a>
+				<li><a href="/laptop/home/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'HomeLaptop');">Home</a></li>
+				<li><a href="/laptop/business/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'BusinessLaptop');">Business</a></li>
+				<li><a href="/laptop/gaming/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'GamingLaptop');">Gaming</a></li>
+				<div class="menuSpacer"></div>
+			</div>
+			<div class="col-sm-6">
+			<a href="/products/laptops/laptopaccessories/" onclick="ga('send', 'event', 'Menu', 'HeaderLink', 'LaptopExtras');">	<span class="menuHeader">Laptop Extras</span> </a>
+				<li><a href="/products/laptops/laptopaccessories/acadapters/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'AdaptersLaptop');">Adapters</a></li>
+				<li><a href="/products/laptops/laptopaccessories/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'AccessoriesLaptop');">Accessories</a></li>
+				<li><a href="/products/laptops/laptopbatteries/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'BatteriesLaptop');">Batteries</a></li>
+				<li><a href="/products/laptops/laptopcases/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'CasesLaptop');">Cases</a></li>
+				<li><a href="/products/laptops/laptopaccessories/security/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'SecurityLaptop');">Security</a></li>
+				<div class="menuSpacer"></div>
+			<a href="/laptop/">	<span class="menuHeader">More</span> </a>
+				<li><a href="/carepackinformation.html" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'CarepackLaptop');">Carepack
+						Information</a></li>
+				<li><a href="/clearance.html" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'ClearanceLaptop');">Clearance
+						Laptops</a></li>
+				<li><a href="/servicecentre" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'RepairsLaptop');">Repairs</a></li>
+			</div>
+			<div class="col-xs-12">
+				<a href="/laptop/all/" class="rsp-button red-solid rsp-menusizer" onclick="ga('send', 'event', 'Menu', 'AllLink', 'ViewAllLaptop');">View
+					all Laptops</a>
+			</div>
+		</div>
+	</ul></li>
+<li class="dropdown"><a href="/server/" class="dropdown-toggle" data-toggle="dropdown"><span class="servers">Servers</span></a>
+<ul class="dropdown-menu multi-column columns-1">
+		<div class="row">
+			<div class="col-sm-12">
+			<a href="/server/" onclick="ga('send', 'event', 'Menu', 'HeaderLink', 'ServerCategory');">	<span class="menuHeader">Category</span> </a>
+				<li><a href="/server/tower/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'ServerTower');">Tower</a></li>
+				<li><a href="/server/rackmount/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'ServerRackmount');">Rackmount</a></li>
+				<li><a href="/server/hpservers/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'ServersHP');">HP
+						Servers</a></li>
+				<li><a href="/server/storageservers/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'StorageServers');">Storage
+						Servers</a></li>
+				<li><a href="/server/jbods/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'ServersJBODS');">JBODs</a></li>
+				<div class="menuSpacer"></div>
+			</div>
+			<div class="col-xs-12">
+				<a href="/server/all/" class="rsp-button red-solid rsp-menusizer" onclick="ga('send', 'event', 'Menu', 'AllLink', 'ViewAllServers');">View
+					all</a>
+			</div>
+		</div>
+	</ul></li>
+<li class="dropdown"><a href="/products/components/" class="dropdown-toggle" data-toggle="dropdown"><span class="pccomponents"><span class="hidden-sm hidden-md">PC</span> Components</span></a>
+<ul class="dropdown-menu multi-column columns-3">
+		<div class="row">
+			<div class="col-sm-4">
+			<a href="/products/components/memory-pc/" onclick="ga('send', 'event', 'Menu', 'HeaderLink', 'Memory');">	<span class="menuHeader">Memory</span> </a>
+				<li><a href="/products/components/memory-pc/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'PCMemory');">PC
+						Memory</a></li>
+				<li><a href="/products/components/memory-laptop/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'LaptopMemory');">Laptop Memory</a></li>
+				<li><a href="/products/components/memory-servers/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'ServerMemory');">Server Memory</a></li>
+				<div class="menuSpacer"></div>
+			<a href="/products/components/processors/" onclick="ga('send', 'event', 'Menu', 'HeaderLink', 'Processors');">	<span class="menuHeader">Processors</span> </a>
+				<li><a href="/products/components/processors/intel/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'IntelProcessors');">Intel Processors</a></li>
+				<li><a href="/products/components/processors/amd/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'AMDProcessors');">AMD Processors</a></li>
+				<div class="menuSpacer"></div>
+			<a href="/products/components/motherboards/">	<span class="menuHeader" onclick="ga('send', 'event', 'Menu', 'HeaderLink', 'Motherboards');">Motherboards</span> </a>
+				<li><a href="/products/components/motherboards/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'Motherboards');">Motherboards</a></li>
+          	<div class="menuSpacer"></div>
+          <a href="/products/components/harddrives-internal/" onclick="ga('send', 'event', 'Menu', 'HeaderLink', 'HardDrives-PCC');">	<span class="menuHeader">Hard Drives</span> </a>
+            <li><a href="/products/components/harddrives-internal/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'InternalHardDrives-PCC');">Internal Drives</a></li>
+            <li><a href="/products/components/harddrives-internal/ssdsolidstate/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'SSDDrives-PCC');">SSD/Solid State Drives</a></li>
+            <li><a href="/products/components/harddrives-internal/satahybridssddrives/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'HybridDualDrives-PCC');">Hybrid &amp; Dual Drives</a></li>
+            <div class="menuSpacer"></div>
+			</div>
+			<div class="col-sm-4">
+			<a href="/products/components/nvidiageforcegraphicscards/" onclick="ga('send', 'event', 'Menu', 'HeaderLink', 'Graphics');">	<span class="menuHeader">Graphics Cards</span> </a>
+				<li><a href="/products/components/amdradeongraphicscards/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'GraphicsAMD');">AMD Graphics Cards</a></li>
+				<li><a href="/products/components/nvidiageforcegraphicscards/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'GraphicsNVIDIA');">NVIDIA Graphics Cards</a></li>
+				<li><a href="/products/components/professionalgraphicscards/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'GraphicsProfessional');">Graphics - Professional</a></li>
+				<div class="menuSpacer"></div>
+				<a href="/products/components/cooling/" onclick="ga('send', 'event', 'Menu', 'HeaderLink', 'PCCooling');"><span class="menuHeader">PC
+						Cooling</span></a>
+				<li><a href="/products/components/cooling/fans/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'CaseFans');">Case Fans</a></li>
+				<li><a href="/products/components/cooling/cpucoolers/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'CPUFans');">CPU Fans</a></li>
+				<li><a href="/products/components/cooling/thermalandcompounds/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'ThermalPaste');">Thermal Paste</a></li>
+				<li><a href="/products/components/cooling/watercooling/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'WaterCooling');">Water Cooling</a></li>
+				<div class="menuSpacer"></div>
+				<a href="/products/cables/"><span class="menuHeader" onclick="ga('send', 'event', 'Menu', 'HeaderLink', 'Cables');">Cables
+						&amp; Accessories</span></a>
+				<li><a href="/products/cables/internaldatacables/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'InternalDataCables');">Internal Data Cables</a></li>
+				<li><a href="/products/cables/internalpowercables/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'InternalPowerCables');">Internal Power Cables</a></li>
+			</div>
+			<div class="col-sm-4">
+			<a href="/products/components/">	<span class="menuHeader" onclick="ga('send', 'event', 'Menu', 'HeaderLink', 'Components');">Components</span> </a>
+				<li><a href="/products/components/cases/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'Cases');">Computer
+						Cases</a></li>
+				<li><a href="/products/components/casemodsandlighting/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'CaseModsLighting');">Case Mods &amp; Lighting</a></li>
+				<li><a href="/products/components/powersupplies/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'PowerSupplies');">Power Supplies</a></li>
+				<li><a href="/products/components/opticaldrives/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'OpticalDrives');">Optical Drives</a></li>
+				<li><a href="/products/components/tvtunercards/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'TVTunerCards');">TV Tuner Cards</a></li>
+				<li><a href="/products/components/soundcards/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'SoundCards');">Sound
+						Cards</a></li>
+				<li><a href="/products/networking/modems/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'Modems');">Modems</a></li>
+				<li><a href="/products/components/floppydiskdrives/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'FloppyDiskDrives');">Floppy Disk Drives</a></li>
+				<li><a href="/products/components/controllercards/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'ControllerCards');">Controller Cards</a></li>
+				<li><a href="/products/components/pctoolsandkits/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'PCToolsKits');">PC Tools &amp; Kits</a></li>
+				<div class="menuSpacer"></div>
+		<a href="/motherboardbundles/" onclick="ga('send', 'event', 'Menu', 'HeaderLink', 'Bundles');">		<span class="menuHeader">Part Built Upgrades</span> </a>
+				<li><a href="/motherboardbundles/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'MotherboardBundles');">Motherboard
+						Bundles</a></li>
+				<li><a href="/barebonebundles/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'BareboneBundles');">Barebone
+						Bundles</a></li>
+				<div class="menuSpacer"></div>
+			</div>
+			<div class="col-xs-12">
+				<a href="/products/components/" class="rsp-button red-solid rsp-menusizer" onclick="ga('send', 'event', 'Menu', 'AllLink', 'ViewAllPCComponents');">View
+					all</a>
+			</div>
+		</div>
+	</ul></li>
+<li class="dropdown"><a href="/products/tabletpcs/" class="dropdown-toggle" data-toggle="dropdown"><span class="tablets">Tablets</span></a>
+<ul class="dropdown-menu multi-column columns-5">
+		<div class="row">
+			<div class="col-xs-12">
+				<span class="menuHeader">Tablets</span>
+				<li><a href="/products/tabletpcs/androidtablets/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'AndroidTablets');">Android</a></li>
+          <li><a href="/products/tabletpcs/appleipads/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'iPads');">Apple iPads</a></li>
+				<li><a href="/products/tabletpcs/windowstablets/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'WindowsTablets');">Windows</a></li>
+				<li><a href="/products/tabletpcs/tabletpcaccessories/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'AccessoriesTablets');">Tablet Accessories</a></li>
+          <li><a href="/products/tabletpcs/ipadaccessories/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'iPadAccessories');">iPad Accessories</a></li>
+            <li><a href="/products/tabletpcs/ipadcases/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'iPadCases');">iPad Cases</a></li>
+<div class="menuSpacer"></div>
+						
+			</div>
+			<div class="col-xs-12">
+					<a href="/products/tabletpcs/" class="rsp-button red-solid rsp-menusizer" onclick="ga('send', 'event', 'Menu', 'AllLink', 'ViewAllTablets');">View
+						all</a>
+					</div>
+		</div>
+	</ul></li>
+<li class="dropdown"><a href="" class="dropdown-toggle" data-toggle="dropdown"><span class="storage">Storage</span></a>
+<ul class="dropdown-menu multi-column columns-3">
+		<div class="row">
+			<div class="col-sm-4">
+			<a href="/products/components/harddrives-internal/" onclick="ga('send', 'event', 'Menu', 'HeaderLink', 'HardDrives');">	<span class="menuHeader">Hard Drives</span> </a>
+				<li><a href="/products/components/harddrives-internal/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'InternalHardDrives');">Internal Drives</a></li>
+				<li><a href="/products/components/harddrives-internal/ssdsolidstate/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'SSDDrives');">SSD/Solid State Drives</a></li>
+				<li><a href="/products/components/harddrives-internal/satahybridssddrives/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'HybridDualDrives');">Hybrid &amp; Dual Drives</a></li>
+				<div class="menuSpacer"></div>
+				<a href="/products/components/harddrives-external/"><span class="menuHeader" onclick="ga('send', 'event', 'Menu', 'HeaderLink', 'ExternalDrives');">External Drives</span></a>
+				<li><a href="/products/components/harddrives-external/desktopusb3.0/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'DesktopDrives');">Desktop Drives</a></li>
+				<li><a href="/products/components/harddrives-external/portableusb3.0/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'PortableDrives');">Portable Drives</a></li>
+				<li><a href="/products/networking/networkattachedstorage/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'NASDrives');">Network Attached</a></li>
+				<li><a href="/products/components/harddrives-external/harddriveenclosures/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'CaddiesDocks');">Caddies &amp; Docks</a></li>
+				<li><a href="/products/components/opticaldrives/externaldvdwriters/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'ExternalDVDWriters');">External DVD Writers</a></li>
+				<div class="menuSpacer"></div>
+			</div>
+			<div class="col-sm-4">
+			<a href="/products/networking/networkattachedstorage/" onclick="ga('send', 'event', 'Menu', 'HeaderLink', 'NetworkEnterprise');">	<span class="menuHeader">Network &amp; Enterprise</span> </a>
+				<li><a href="/products/networking/networkattachedstorage/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'NASDrives');">NAS Drives</a></li>
+				<div class="menuSpacer"></div>
+			<a href="/products/storage/">	<span class="menuHeader" onclick="ga('send', 'event', 'Menu', 'HeaderLink', 'TapeBackup');">Tape Backup</span> </a>
+				<li><a href="/products/storage/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'TapeDrives');">Tape
+						Drives &amp; Media</a></li>
+			</div>
+			<div class="col-sm-4">
+			<a href="/products/components/memory-usb/" onclick="ga('send', 'event', 'Menu', 'HeaderLink', 'FlashMemory');">	<span class="menuHeader">Flash Memory</span> </a>
+				<li><a href="/products/components/memory-usb/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'USBMemorySticks');">USB
+						Memory Sticks</a></li>
+				<li><a href="/products/digitalcameras/cameramemory/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'MemoryCards');">Memory Cards</a></li>
+				<div class="menuSpacer"></div>
+				<a href="/products/consumables/" onclick="ga('send', 'event', 'Menu', 'HeaderLink', 'Media');"><span class="menuHeader">Media</span> </a>
+				<li><a href="/products/consumables/blankcds/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'CDMedia');">CD
+						Media</a></li>
+				<li><a href="/products/consumables/blankdvds/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'DVDMedia');">DVD
+						Media</a></li>
+				<li><a href="/products/consumables/blankdvds/blu-ray/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'BluRayMedia');">BluRay Media</a></li>
+				<li><a href="/products/storage/storagemedia/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'BackupMedia');">Backup
+						Media</a></li>
+			</div>
+			<div class="col-xs-12">
+				<a href="/products/storage/" class="rsp-button red-solid rsp-menusizer" onclick="ga('send', 'event', 'Menu', 'AllLink', 'ViewAllStorage');">View
+					all</a>
+			</div>
+		</div>
+	</ul></li>
+<li class="dropdown"><a href="/products/peripherals/" class="dropdown-toggle" data-toggle="dropdown">
+<span class="peripherals">Peripherals</span></a>
+<ul class="dropdown-menu multi-column columns-3">
+		<div class="row">
+			<div class="col-sm-4">
+			<a href="/products/peripherals/" onclick="ga('send', 'event', 'Menu', 'HeaderLink', 'Peripherals');">	<span class="menuHeader">Peripherals</span> </a>
+				<li><a href="/products/peripherals/desktopkits/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'DesktopKits');">Desktop Kits</a></li>
+				<li><a href="/products/peripherals/graphicstablets/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'GraphicsTablets');">Graphics Tablets</a></li>
+				<li><a href="/products/peripherals/keyboards/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'Keyboards');">Keyboards</a></li>
+				<li><a href="/products/peripherals/kvmandswitchboxes/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'KVM');">KVM &amp; Switch Boxes</a></li>
+				<li><a href="/products/peripherals/miceandtrackballs/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'MiceTrackballs');">Mice and Trackballs</a></li>
+				<li><a href="/products/peripherals/mousemats/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'MouseMats');">Mouse
+						Mats</a></li>
+				<li><a href="/products/peripherals/pcjoysticksandcontrollers/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'PCJoysticks');">PC Joysticks &amp; Controllers</a></li>
+				<li><a href="/products/peripherals/pduandsurgeprotection/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'PDUSurge');">PDU &amp; Surge Protection</a></li>
+				<li><a href="/products/peripherals/uninterruptiblepowersupplies/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'UPS');">UPS</a></li>
+				<li><a href="/products/peripherals/usbhubs/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'USBHubs');">USB
+						Hubs</a></li>
+			</div>
+			<div class="col-sm-4">
+			<a href="/products/soundandvision/" onclick="ga('send', 'event', 'Menu', 'HeaderLink', 'Multimedia');">	<span class="menuHeader">Multimedia</span> </a>
+				<li><a href="/products/digitalcameras/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'DigitalCameras');">Digital
+						Cameras</a></li>
+				<li><a href="/products/soundandvision/mediaextenders/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'MediaExtenders');">Media Extenders</a></li>
+				<li><a href="/products/peripherals/microphonesandheadsets/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'MicrophonesHeadsets');">Microphones &amp; Headsets</a></li>
+				<li><a href="/products/printers/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'Printers');">Printers</a></li>
+				<li><a href="/products/soundandvision/projectors/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'Projectors');">Projectors &amp; Screens</a></li>
+				<li><a href="/products/peripherals/scanners/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'Scanners');">Scanners</a></li>
+				<li><a href="/products/peripherals/speakers/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'Speakers');">Speakers</a></li>
+				<li><a href="/products/soundandvision/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'SoundAndVision');">Sound
+						&amp; Vision</a></li>
+				<li><a href="/products/peripherals/webcams/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'Webcams');">Web
+						Cams</a></li>
+				<li><a href="/products/soundandvision/interactivewhiteboards/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'Whiteboards');">Whiteboards</a></li>
+			</div>
+			<div class="col-sm-4">
+			<a href="/products/monitors/" onclick="ga('send', 'event', 'Menu', 'HeaderLink', 'Monitors');">	<span class="menuHeader">Monitors</span> </a>
+				<li><a href="/products/monitors/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'Monitors');">PC
+						Monitors</a></li>
+				<li><a href="/products/monitors/touchscreenmonitors/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'TouchScreenMonitors');">Touch Screen</a></li>
+				<li><a href="/products/monitors/hardglassmonitors/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'HardGlassMonitors');">Hard Glass Monitors</a></li>
+				<li><a href="/products/monitors/monitoraccessories/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'MonitorsAccessories');">Monitor Accessories</a></li>
+				<div class="menuSpacer"></div>
+			<a href="/products/consumables/" onclick="ga('send', 'event', 'Menu', 'HeaderLink', 'Consumables');">	<span class="menuHeader">Consumables</span> </a>
+				<li><a href="/products/consumables/blankcds/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'CDMedia');">CD
+						Media</a></li>
+				<li><a href="/products/consumables/blankdvds/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'DVDMedia');">DVD
+						Media</a></li>
+				<li><a href="/products/consumables/blankdvds/blu-ray/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'BluRayMedia');">BluRay Media</a></li>
+				<li><a href="/products/consumables/laserprinterconsumables/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'LaserPrintSupplies');">Laser Print Supplies</a></li>
+				<li><a href="/products/consumables/printercartridges/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'PrinterCartridges');">Printer Cartridges</a></li>
+				<li><a href="/products/consumables/printerpaper/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'PrinterPaper');">Printer Paper</a></li>
+				<li><a href="/products/printers/printercartridges/3dprinterfilaments/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', '3DPrinterFilaments');">3D Printer Filaments</a></li>
+				<div class="menuSpacer"></div>
+			<a href="/products/cables/" onclick="ga('send', 'event', 'Menu', 'HeaderLink', 'Cables');">	<span class="menuHeader">Cables</span> </a>
+				<li><a href="/products/cables/" class="rangeallLink" onclick="ga('send', 'event', 'Menu', 'AllLink', 'ViewAllCables');">View
+						all</a></li>
+			</div>
+				<div class="col-xs-12">
+				<a href="/products/peripherals/" class="rsp-button red-solid rsp-menusizer" onclick="ga('send', 'event', 'Menu', 'AllLink', 'ViewAllPeripherals');">View
+					all</a>
+			</div>
+		</div>
+	</ul></li>
+<li class="dropdown"><a href="/products/networking/" class="dropdown-toggle" data-toggle="dropdown"><span class="networking">Networking</span></a>
+<ul class="dropdown-menu multi-column columns-2">
+		<div class="row">
+			<div class="col-sm-6">
+			 <a href=" /products/networking/" onclick="ga('send', 'event', 'Menu', 'HeaderLink', 'Networking');"><span class="menuHeader">Network</span> </a>
+				<li><a href="/products/cables/networkingcables/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'NetworkingCables');">Networking Cables</a></li>
+				<li><a href="/products/networking/networkinterfacecards/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'NetworkInterfaceCards');">Network Interface Cards</a></li>
+				<li><a href="/products/networking/networksecurity/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'NetworkSecurity');">Network Security</a></li>
+				<li><a href="/products/networking/powerline/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'Powerline');">Powerline</a></li>
+				<li><a href="/products/networking/printservers/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'PrintServers');">Print Servers</a></li>
+				<li><a href="/products/networking/switches/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'Switches');">Switches</a></li>
+				<li><a href="/products/peripherals/usbhubs/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'USBHubs');">USB
+						Hubs</a></li>
+				<li><a href="/products/networking/wirelessnetworking/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'WirelessNetworking');">Wireless Networking</a></li>
+				<li><a href="/products/networking/routers/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'WiredRouters');">Wired
+						Routers</a></li>
+			</div>
+			<div class="col-sm-6">
+			<a href="/products/networking/" onclick="ga('send', 'event', 'Menu', 'HeaderLink', 'NetworkingExtras');">	<span class="menuHeader">Extras</span> </a>
+				<li><a href="/products/networking/bluetooth/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'Bluetooth');">Bluetooth</a></li>
+				<li><a href="/products/networking/cctvandsecurity/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'CCTV');">CCTV &amp; Security</a></li>
+				<li><a href="/products/networking/ipsecurity/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'IPSecurity');">IP
+						Security</a></li>
+				<li><a href="/products/networking/iptelephony/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'IPTelephony');">IP Telephony</a></li>
+				<li><a href="/products/networking/kvm/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'KVM');">KVM</a></li>
+				<li><a href="/products/networking/networkattachedstorage/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'NAS');">Network Attached Storage</a></li>
+				<li><a href="/products/networking/poweroverethernet/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'POE');">Power Over Ethernet (PoE)</a></li>
+				<li><a href="/products/networking/racksandcabinets/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'RacksCabinets');">Racks &amp; Cabinets</a></li>
+				<li><a href="/products/networking/toolsandtoolkits/" class="menuItem" onclick="ga('send', 'event', 'Menu', 'SubLink', 'NetworkingToolKits');">Tools &amp; Tool Kits</a></li>
+<div class="menuSpacer"></div>
+			</div>
+				<div class="col-xs-12">
+				<a href="/products/networking/" class="rsp-button red-solid rsp-menusizer" onclick="ga('send', 'event', 'Menu', 'AllLink', 'ViewAllNetworking');">View
+					all</a>
+			</div>
+		</div>
+	</ul></li>
+<li class="dropdown"><a href="/products/software/" onclick="ga('send', 'event', 'Menu', 'AllLink', 'ViewAllSoftware');"><span class="software">Software</span></a>
+<ul class="dropdown-menu multi-column columns-0">
+		<div class="row"></div>
+	</ul></li>
+<li class="dropdown"><a href="/deals" onclick="ga('send', 'event', 'Menu', 'AllLink', 'ViewDeals');"><span class="deals">Deals</span></a>
+	           
+	        
+	        
+	        </li> 
+        </ul>
+        </div><!--/.nav-collapse -->
+        </div>
+        </div> 
+        </div> 
+      
+                
+      </nav>
+      
+      
+         
+      
+       
+
+    <!-- Begin page content -->
+    <div class="container main-content">   
+
 </div> 
 
+<div class="container-fluid">
+<div class="row">
+<div class="container">
+	<div id="breadcrumb-bar">
+		<p><a href="/">Home</a> <span class="bold-text">&gt;</span> <span class="current-breadcrumb">Privacy &amp; Security</span></p>
+	</div> 
 </div>
-<!-- BOTTOM HEADER -->
-
 </div>
-
-</div>
-<!-- NAVBAR CONTAINER -->   
-    
-<!-- breadcrumb-bar START -->   
-<div id="breadcrumb-bar">
-
-<p><a href="/">Home</a> <span class="bold-text">&gt;</span> <span class="current-breadcrumb">Privacy &amp; Security</span></p>
-
 </div> 
-<!-- breadcrumb-bar FINISH -->
-<div id="two-column-container">
 
 
-<!-- LEFT COLUMN -->
-<div id="left-column">
+<div class="container">
+		<div class="row">
+		
+<div class="col-xs-12"><h1>Privacy, Security &amp; Cookie Policy</h1></div>
 
+			<div class="col-xs-12 col-md-3 div-spacer">
+			<div class="box-liner">
+			
 
-
-
-<script>
-function changeimagehelp(div){
-	if ($("#" + div + "-image").attr("src") == "http://images.novatech.co.uk/website2011/navlist-minus-icon.png"){ 
-	$("#" + div + "-image").attr("src","http://images.novatech.co.uk/website2011/navlist-plus-icon.png");
+<script language="javascript">
+function showMobileMenu (section,link){
+	if ($(section).hasClass("open")){
+		$(section).removeClass("open");
+		$(link).removeClass("open");
 	}else{
-	$("#" + div + "-image").attr("src","http://images.novatech.co.uk/website2011/navlist-minus-icon.png");
+	$(section).addClass("open");
+	$(link).addClass("open");
 	}
-	}
-	
-function changeimage(div){
-	if ($("#" + div + "-image").attr("src") == "http://images.novatech.co.uk/website2011/navlist-plus-icon.png"){ 
-	$("#" + div + "-image").attr("src","http://images.novatech.co.uk/website2011/navlist-minus-icon.png");
-	}else{
-	$("#" + div + "-image").attr("src","http://images.novatech.co.uk/website2011/navlist-plus-icon.png");
-	}
-	}
-	
+}  
 </script>
+<a href="javascript:void(0);" onclick="showMobileMenu('#main-help-menu',this);" class="visible-xs-block visible-sm-block mobile-filter-btn rsp-button grey-filter">Help Menu<span class="caret"></span></a>
+<div class="category-mobile" id="main-help-menu">
+	<a href="javascript:void(0);" onclick="showMobileMenu('#about',this);" class="rsp-leftalign rsp-button grey-filter mobile-filter-btn">About us<span class="visible-xs-block visible-sm-block caret"></span></a>
 
-<div class="helpmenu-container">
-<div class="helpmenu-top" onclick="$('#about').stop(true,true).toggle('slow'); changeimagehelp(this.id);" id="about-top">
-<div class="helpmenu-top-left"><h3>About Novatech</h3></div>
-<div class="helpmenu-top-right">
-<img id="about-top-image" src="http://images.novatech.co.uk/website2011/navlist-minus-icon.png">
-</div>
-</div>
-<div class="helpmenu-main">
-<div class="helpmenu-main-inner" id="about">
-<ul>
-<li><a href="/about.html">Who we are</a> </li>
+						<ul id="about" class="category-mobile">
+							<li><a href="/about.html">Who we are</a> </li>
 <li><a href="/whybuyfromus.html">Why buy from us</a></li>
 <li><a href="/historyandgrowth.html">History &amp; Growth</a> </li>
 <li><a href="/customercomments.html">Customer Comments</a></li>
 </ul>
-</div>
-</div>
-</div>
 
-<div class="helpmenu-container">
-<div class="helpmenu-top" onclick="$('#contact').stop(true,true).toggle('slow'); changeimagehelp(this.id);" id="contact-top">
-<div class="helpmenu-top-left"><h3>Contact Novatech</h3></div>
-<div class="helpmenu-top-right">
-<img id="contact-top-image" src="http://images.novatech.co.uk/website2011/navlist-minus-icon.png">
-</div>
-</div>
-<div class="helpmenu-main">
-<div class="helpmenu-main-inner" id="contact">
-<ul>
+	<a href="javascript:void(0);" onclick="showMobileMenu('#contact',this);" class="rsp-leftalign rsp-button grey-filter mobile-filter-btn">Contact us<span class="visible-xs-block visible-sm-block caret"></span></a>
+<ul id="contact" class="category-mobile">
 <li><a href="/contact.html">Contact Us</a></li> 
 <li><a href="/openinghours.html">Opening Hours</a></li>
-<li><a href="/stores.html">Novatech Stores</a></li>
+<li><a href="/stores.html">Our Showroom</a></li>
 <li><a href="/webmaster.html">Website Enquiries </a></li>
 <li><a href="/jobs.html">Jobs at Novatech</a></li>
 </ul>
-</div>
-</div>
-</div>
 
-<div class="helpmenu-container">
-<div class="helpmenu-top" onclick="$('#privacy').stop(true,true).toggle('slow'); changeimagehelp(this.id);" id="privacy-top">
-<div class="helpmenu-top-left"><h3>Privacy &amp; Terms</h3></div>
-<div class="helpmenu-top-right">
-<img id="privacy-top-image" src="http://images.novatech.co.uk/website2011/navlist-minus-icon.png">
-</div>
-</div>
-<div class="helpmenu-main">
-<div class="helpmenu-main-inner" id="privacy">
-<ul>
+	<a href="javascript:void(0);" onclick="showMobileMenu('#privacy',this);" class="rsp-leftalign rsp-button grey-filter mobile-filter-btn">Privacy &amp; Terms<span class="visible-xs-block visible-sm-block caret"></span></a>
+<ul id="privacy" class="category-mobile">
 <li><a href="/termsandconditions.html">Terms &amp; Conditions </a></li>
 <li><a href="/privacyandsecurity.html">Privacy &amp; Security </a></li>
 <li><a href="/newsletterterms.html">Newsletter Terms </a></li>
 </ul>
-</div>
-</div>
-</div>
 
-
-<div class="helpmenu-container">
-<div class="helpmenu-top" onclick="$('#payment').stop(true,true).toggle('slow'); changeimage(this.id);" id="payment-top">
-<div class="helpmenu-top-left"><h3>Payment &amp; Security</h3></div>
-<div class="helpmenu-top-right">
-<img id="payment-top-image" src="http://images.novatech.co.uk/website2011/navlist-minus-icon.png">
-</div>
-</div>
-<div class="helpmenu-main">
-<div class="helpmenu-main-inner" id="payment">
-<ul>
+	<a href="javascript:void(0);" onclick="showMobileMenu('#payment',this);" class="rsp-leftalign rsp-button grey-filter mobile-filter-btn">Payment &amp; Security<span class="visible-xs-block visible-sm-block caret"></span></a>
+<ul id="payment" class="category-mobile">
 <li><a href="/paymentmethods.html">Payment Methods </a></li>
 <li><a href="/tradingschemes.html">Trading Schemes </a></li>
 <li><a href="/deliveryuk.html">UK Delivery Charges </a></li>
 <li><a href="/deliveryeurope.html">European Delivery Charges </a></li>
-<li><a href="/paybreak.html">Paybreak Information </a></li>
+<li><a href="/paybreak.html">Afford it Now Information </a></li>
 </ul>
-</div>
-</div>
-</div>
 
-
-
-<div class="helpmenu-container">
-<div class="helpmenu-top" onclick="$('#account').stop(true,true).toggle('slow'); changeimage(this.id);" id="account-top">
-<div class="helpmenu-top-left"><h3>Your Account</h3></div>
-<div class="helpmenu-top-right">
-<img id="account-top-image" src="http://images.novatech.co.uk/website2011/navlist-plus-icon.png">
-</div>
-</div>
-<div class="helpmenu-main">
-<div class="helpmenu-main-inner" id="account" style="display:none;">
-<ul>
+	<a href="javascript:void(0);" onclick="showMobileMenu('#account',this);" class="rsp-leftalign rsp-button grey-filter mobile-filter-btn">Your Account<span class="visible-xs-block visible-sm-block caret"></span></a>
+<ul id="account" class="category-mobile">
 <li><a href="/myaccount.html">Login / Register</a></li>
 <li><a href="resetyourpassword.html">Reset your password </a></li>
 </ul>
 </div>
-</div>
-</div>
+
+
+
+
+
+
+
 
 
 
    
+			</div>
+			</div>
+			<div class="col-xs-12 col-md-9 div-spacer">
+			<div class="box-liner">
 
 
- </div>
-<!-- LEFT COLUMN -->
 
-<!-- RIGHT COLUMN -->
-<div id="right-column"> 
 
-<!-- help section container start -->
-<div id="help-section-container">
 
-<div id="help-left-section">
-<h1>Privacy, Security &amp; Cookie Policy</h1>
-
-<h3>Information we collect when you register and how we use it.</h3>
+<h3 class="section-title">Information we collect when you register and how we use it.</h3>
 
 <p>Novatech are seriously committed to the privacy and security of your personal information. Our primary goal on collecting any personal information is to provide you with a smooth, efficient and trouble-free experience whilst using our services. 
 When you order, we need to know your name, e-mail address, delivery address, the credit or debit card number, the card's expiry date and the card's registered address. This allows us to process your orders and to notify you of the status of your order. We also ask for your telephone number so that we can contact you if there is a problem with your order. If there is a delivery problem we sometimes give the number to our carriers so they can contact you to arrange delivery.</p>
@@ -540,15 +880,15 @@ When you order, we need to know your name, e-mail address, delivery address, the
 
 <p>We may also use the information we collect to send you our monthly catalogue and e-mail you information; such as special offers, changes to the website or other valuable information such as changes to opening times. If you would rather not receive our catalogue please call our main telephone number or uncheck the 'catalogue' box in your User Profile. If you do not wish to receive our e-mail promotions please uncheck the 'E-Weekly E-mails' box in your My Personal Details page when logged in, or use the unsubscribe link on any marketing e-mail you receive.</p>
 
-<h3>Cookies for Site Performance and Site Analytics.</h3>
+<h3 class="section-title">Cookies for Site Performance and Site Analytics.</h3>
 
 <h4>Session Cookies.</h4>
 <p>We use a session cookie to remember your log-in details for you. We deem this strictly necessary to the working of this website and if these are disabled then various functionality of the site will be broken and you will be unable to place any orders.</p>
 
-<h4>Persistent Cookies.</h4>
+<h4>Persistent Cookies.
 <p>We use persistent cookies to remember items you have placed in your shopping basket and items you have recently viewed. Again, we deem these strictly necessary for the working of the site and if these are disabled you would be unable to place an order.</p>
 
-<h4>Affiliates and the Partner Program.</h4>
+</h4><h4>Affiliates and the Partner Program.</h4>
 <p>The affiliate schemes and partner program that we run requires cookies to record the fact that you have either come to our site through an affiliate or are a member of our partner program. Without this tracking we would be unable to record who placed orders through affiliate schemes or the partner program and we would be unable to pay commission or record partner points. As such these are also deemed necessary to the working of the site and if disabled would break this functionality.</p>
 
 <h4>Google Analytics.</h4>
@@ -566,179 +906,222 @@ When you order, we need to know your name, e-mail address, delivery address, the
 <h4>Blog Comments &amp; Reviews.</h4>
 <p>In order to leave a comment on our Blog or review a product you have to give us your Name and Email address. We require name and email addresses for quality control purposes.</p>
 
-<h3>Will Novatech disclose the information it collects to outside parties?</h3>
+<h4>Will Novatech disclose the information it collects to outside parties?</h4>
 <p>We do not sell, trade, or rent your personal information to others. We may choose to do so in the future with reputable third parties, but you can tell us not to by sending a blank e-mail message to <a href="mailto:nocontact@novatech.co.uk">nocontact@novatech.co.uk</a>. (If you use more than one email address to shop with us, send this message from each e-mail account you use.) Novatech may also provide aggregate statistics about our customers, sales, traffic patterns and related site information to reputable third-party vendors, but these statistics will include no personally identifying information.</p>
 
-<h3>How do we protect customer information?</h3>
+<h4>How do we protect customer information?</h4>
 <p>Novatech use many different industry standard security techniques to safeguard the confidentiality of your personal information. When you place orders or access your account information, you are connected to our secure server. We encrypt your information using SSL (secure socket layers) secure server software before it is sent to us. This ensures that your information can only be read by our secure server and cannot be unscrambled by any outside party. Your information is then stored on another secure server, which is not directly connected to the Internet. Furthermore, all information is collected lawfully and in accordance with the Data Protection Act 1988, registration no: PZ6599797. None of the thousands of customers who have purchased from Novatech have reported fraudulent use of their debit or credit cards as a result of purchasing from our website.</p>
 
-<h3>Safe Shopping Guarantee</h3>
+<h4>Safe Shopping Guarantee</h4>
 <p>As a security guarantee, Novatech will cover the first £50 of any fraudulent use of your credit or debit card that results through no fault of your own from purchases made on the Novatech website. Your card company should limit any liability to yourself to £50 maximum.</p>
 
-</div> <!-- help-left-section FINISH -->
-
-<div id="help-right-section">
-
-<div class="help-right-section-image-container"> <img src="http://images.novatech.co.uk/website2011/help-section-image1.jpg" class="help-right-section-image"> </div>
-
-<div class="help-right-section-image-container"> <img src="http://images.novatech.co.uk/website2011/help-section-image2.jpg" class="help-right-section-image">  </div>
-
-</div>
 
 
-</div> <!-- help section container end -->
 
-</div>
-<!-- RIGHT COLUMN -->
 
-</div> <!-- two-column-container FINISH -->
+	</div>
+			</div>
+		</div>
+</div>		
+   
 
 
 
 
 
 
-<!-- FOOTER -->
-<div id="footer">
-
-<!-- BACK TO TOP SECTION -->
-<div id="back-to-top"><img src="http://images.novatech.co.uk/website2011/backtotop.png"></div>
-<!-- BACK TO TOP SECTION -->
-
-<!-- SOCIAL MEDIA BAR -->
-<div id="footer-socialmedia">
-
-<script language="javascript">
-function testSubForm(){
-	if($("#listemail").val().length > 0 && $("#listemail").val() != "Enter your email address here"){
-		return true;
-	}else{
-		alert("Please enter your email address to sign up to our mailing list.");
-		return false;
-	}
-}
-</script>
-
-<div id="footer-socialmedia-right">
-<span>Hear from us</span>
-<form action="http://listserve.novatech.co.uk/subscribe/subscribe.tml" method="POST" onsubmit="return testSubForm();">
-<input type="text" id="listemail" name="email" class="specialoffersbox" value="Enter your email address here" onfocus="doClear(this)">
-<input type="submit" name="subscribe" value="" class="specialofferssignup">
-	    <input type="hidden" name="list" value="eweekly">
-	    <input type="hidden" name="confirm" value="none">
-	    <input type="hidden" name="showconfirm" value="F">
-	    <input type="hidden" name="url" value="http://www.novatech.co.uk/subscribed.html">
-	    <input type="hidden" name="appendsubinfotourl" value="T">
-</form>
-
-</div>
-
-</div>
-<!-- SOCIAL MEDIA BAR -->
-
-<div id="footer-left">
-
-<div class="footer-left-col">
-<span><a href="/contact.html">Contact Novatech</a></span>
-<ul>
-<li><a href="/contact.html?d=t">Technical Support</a></li>
-<li><a href="/contact.html?d=s">Sales</a></li>
-<li><a href="/contact.html?d=c">Customer Services</a></li>
-<li><a href="/servicecentre">Repairs</a>
-</li><li><a href="/stores.html">Our Showroom</a></li>
-<li><a href="/jobs.html">Jobs at Novatech</a></li>
-<li><a href="/webmaster.html">Get in touch (webmaster)</a></li>
-<li><a href="http://forum.novatech.co.uk" target="_blank">Forum</a></li>
-</ul>
-</div>
-
-<div class="footer-left-col">
-<span><a href="/about.html">About Novatech</a></span>
-<ul>
-<li><a href="/about.html">Who we are &amp; What we do</a></li>
-<li><a href="/whybuyfromus.html">Why Buy From Us</a></li>
-<li><a href="/stores.html">Stores &amp; Community</a></li>
-<li><a href="/customercomments.html">Customer Comments</a></li>
-<li><a href="/affiliates.html">Affiliates</a></li>
-<li><a href="/privacyandsecurity.html">Privacy &amp; Security</a></li>
-<li><a href="/WEEEregulations.html">Novatech &amp; WEEE Regulations</a></li>
-<li><a href="/tradingschemes.html">Trading Schemes</a></li>
-<li><a href="/quality-and-environmental-policy.html">Quality &amp; Environmental Policy</a></li>
-</ul>
-</div>
-
-<div class="footer-left-col">
-<span><a href="/login.html">Your Account</a></span>
-<ul>
-<li><a href="/login.html">Login / Register</a></li>
-<li><a href="/outstandingorders.html">Outstanding Orders</a></li>
-<li><a href="/ordertracking.html">Track an Order</a></li>
-<li><a href="/termsandconditions.html">Terms &amp; Conditions</a></li>
-<li><a href="/privacyandsecurity.html">Privacy &amp; Security</a></li>
-</ul>
-
-<span><a href="#" onclick="deleteMobilePref();">Mobile Website</a></span>
-<ul>
-<li><a href="#" onclick="deleteMobilePref();">m.novatech.co.uk</a></li>
-</ul>
-
-</div>
-
-</div>
-
-<!-- FOOTER RIGHT -->
-<div id="footer-right">
-
-<div id="footer-right-left">
-<span><a href="/about.html">About us</a></span>
-<p>In February 1987 Novatech was founded with a simple ethic of supplying high quality products at the lowest possible prices with excellent customer service.</p>
-</div>
-
-<div id="footer-right-right">
-
-<div id="footer-video">
-<a href="/about.html"><img src="http://images.novatech.co.uk/website2011/aboutus-video-image-new.jpg"></a>
-</div>
-
-
-</div>
-
-</div>
-<!-- FOOTER RIGHT -->
 
 
 
-<div id="footer-cards">
 
-<img src="http://images.novatech.co.uk/website2011/footer-cards-new.jpg">
+<div class="footer">
+
+<div class="section-container-white" id="foot1" style="border-top:1px solid #d1d4d6; margin-bottom:0px !important; ">
+<div class="container main-content whitebg" style="padding:30px 0 10px 0 ;">
+
+	<div id="newsletter-signup" style="width: 90%; margin: 0 auto;">
+		<script language="javascript">
+		function testSubForm(){
+			if($("#listemail").val().length > 0 && $("#listemail").val() != "Enter your email address here"){
+				return true;
+			}else{
+				alert("Please enter your email address to sign up to our mailing list.");
+				return false;
+			}
+		}
+		</script>
+		
+		<div class="col-md-4" style="text-align:center;">
+		<h2 style="margin:0 10px 0 0; line-height:45px;">Get the latest from Novatech</h2>
+		</div>
+		
+		<div class="col-md-8">
+		<form action="http://listserve.novatech.co.uk/subscribe/subscribe.tml" method="POST" onsubmit="return testSubForm();">
+		<input type="text" id="listemail" name="email" class="rsp-specialoffersbox" value="email address" style="text-align: center; color:#D1D4D6; font-weight:bold;" onfocus="doClear(this)">
+		<input type="submit" name="subscribe" value="Join" class="rsp-button grey-solid" style="width:50%; height:45px; margin:0; float:left;" "="">
+		<input type="hidden" name="list" value="eweekly">
+		<input type="hidden" name="confirm" value="none">
+		<input type="hidden" name="showconfirm" value="F">
+		<input type="hidden" name="url" value="http://www.novatech.co.uk/subscribed.html">
+		<input type="hidden" name="appendsubinfotourl" value="T">
+		</form>
+		</div>
+		
+			
+		</div>
+		
+		<div class="clearfix"></div>
+		
+		</div>
 
 </div>
 
 
+<div class="section-container-white" id="foot2" style="border-top:1px solid #d1d4d6;  margin-bottom:0px !important;">
+<div class="container main-content whitebg" style="padding:35px 0 0 0 ;">
+<div class="trustpilot-widget" data-locale="en-GB" data-template-id="53aa8912dec7e10d38f59f36" data-businessunit-id="476d311000006400050207db" data-style-height="130px" data-style-width="100%" data-theme="light" data-stars="5,4"></div>
+</div>
+</div>		
 
 
-<div id="footer-bottom">
-<p>© Copyright 2000-2015 Novatech Ltd - Computer Supplies | Company Reg No: 2605046 | WV 8.5.0-FCE - ba</p>
-<p>Head Office - Novatech Ltd, Harbour House, Hamilton Road, Cosham, Portsmouth, PO6 4PU</p>
+<script type="text/javascript">
+
+
+	function showFooterList(el){
+	
+		if($(".tab-logo:visible").length<1){
+			$("#"+el).toggle(0);
+		}
+	
+		}
+
+</script> 
+
+
+
+<div class="section-container-darkgrey" id="foot3">
+<div class="container main-content">
+
+
+		<div id="rsp-footer" class="col-sm-12 footer-container">
+		
+			<div class="col-md-3 col-sm-6 col-xs-12"><!-- contact col -->		 	
+				<a class="footer-header" href="javascript:void(0);" onclick="showFooterList('fclist');">Contact Novatech</a>
+				<ul class="footer-list" id="fclist">
+				<li><a href="/contact.html" onclick="ga('send', 'event', 'Footer', 'Contact', 'TechSupport');">Technical Support</a></li>
+				<li><a href="/contact.html" onclick="ga('send', 'event', 'Footer', 'Contact', 'Sales');">Sales</a></li>
+				<li><a href="/contact.html" onclick="ga('send', 'event', 'Footer', 'Contact', 'CustomerServices');">Customer Services</a></li>
+				<li><a href="/stores.html" onclick="ga('send', 'event', 'Footer', 'Contact', 'Showroom');">Our Showroom</a></li>
+				<li><a href="/jobs.html" onclick="ga('send', 'event', 'Footer', 'Contact', 'Jobs');">Jobs at Novatech</a></li>
+				<li><a href="/webmaster.html" onclick="ga('send', 'event', 'Footer', 'Contact', 'Webmaster');">Get in touch (webmaster)</a></li>
+				<li><a href="http://forum.novatech.co.uk" target="_blank" onclick="ga('send', 'event', 'Footer', 'Contact', 'Forum');">Forum</a></li>
+				</ul>			
+			</div><!-- contact col FINISH -->
+			
+			<div class="col-md-3 col-sm-6 col-xs-12"> <!--  about us  -->			
+				<a class="footer-header" href="javascript:void(0);" onclick="showFooterList('falist');">About Novatech</a>
+				<ul class="footer-list" id="falist">
+				<li><a href="/about.html" onclick="ga('send', 'event', 'Footer', 'About', 'WhoWeAre');">Who we are &amp; What we do</a></li>
+				<li><a href="/whybuyfromus.html" onclick="ga('send', 'event', 'Footer', 'Contact', 'WhyBuy');">Why Buy From Us</a></li>
+				<li><a href="/customercomments.html" onclick="ga('send', 'event', 'Footer', 'Contact', 'TrustPilot');">Trust Pilot Reviews</a></li>
+				<li><a href="/privacyandsecurity.html" onclick="ga('send', 'event', 'Footer', 'Contact', 'Privacy');">Privacy &amp; Security</a></li>
+				<li><a href="/WEEEregulations.html" onclick="ga('send', 'event', 'Footer', 'Contact', 'WEEE');">Novatech &amp; WEEE Regulations</a></li>
+				<li><a href="/quality-and-environmental-policy.html" onclick="ga('send', 'event', 'Footer', 'Contact', 'Quality');">Quality &amp; Environmental Policy</a></li>
+				<li>&nbsp;</li>
+				</ul>							
+			 </div><!--  about us FINISH  -->		
+			
+			<div class="col-md-3 col-sm-6 col-xs-12"><!-- your account -->
+				<a class="footer-header" href="javascript:void(0);" onclick="showFooterList('fylist');">Your Account</a>
+				<ul class="footer-list" id="fylist">
+				<li><a href="/login.html" onclick="ga('send', 'event', 'Footer', 'Account', 'Login');">Login / Register</a></li>
+				<li><a href="/outstandingorders.html" onclick="ga('send', 'event', 'Footer', 'Contact', 'OustandingOrders');">Outstanding Orders</a></li>
+				<li><a href="/ordertracking.html" onclick="ga('send', 'event', 'Footer', 'Contact', 'TrackOrder');">Track an Order</a></li>
+				<li><a href="/termsandconditions.html" onclick="ga('send', 'event', 'Footer', 'Contact', 'Terms');">Terms &amp; Conditions</a></li>
+				<li><a href="/privacyandsecurity.html" onclick="ga('send', 'event', 'Footer', 'Contact', 'Privacy');">Privacy &amp; Security</a></li>
+				</ul>
+			</div><!-- your account FINISH-->
+			
+						<div class="col-md-3 col-sm-6 col-xs-12"><!-- services -->
+				<a class="footer-header" href="javascript:void(0);" onclick="showFooterList('fslist');">Services</a>
+				<ul class="footer-list" id="fslist">
+				<li><a href="/servicecentre" onclick="ga('send', 'event', 'Footer', 'Services', 'ServiceCentre');">Repairs / Service Centre</a>
+				</li><li><a href="/affiliates.html" onclick="ga('send', 'event', 'Footer', 'Contact', 'Affiliates');">Affiliates</a></li>
+				<li><a href="/tradingschemes.html" onclick="ga('send', 'event', 'Footer', 'Contact', 'TradingSchemes');">Trading Schemes</a></li>
+				<li><a href="/paymentmethods.html" onclick="ga('send', 'event', 'Footer', 'Contact', 'PaymentMethods');">Payment Methods</a></li>
+				<li><a href="/paybreak.html" onclick="ga('send', 'event', 'Footer', 'Contact', 'Finance');">Finance Available - Afford It Now</a></li>
+			
+				
+				</ul>
+			</div><!-- your account FINISH-->
+			
+			
+		</div>
+</div>
 </div>
 
-</div> 
-<!-- FOOTER -->
+<div class="section-container-darkgrey" id="foot4" style="border-top:1px solid #333;"> 
+<div class="container main-content" style="padding: 30px 0 20px 0;">
+
+	<div class="col-xs-12">
+		<div class="col-xs-3 ccs-logo" style="float: left;"></div>
+		<div class="col-xs-9 payment-options" style="float: right;"></div>  
+	</div>
+</div>  
+</div>
+
+<div class="section-container-darkgrey" id="foot5" style="border-top:1px solid #333;"> 
+<div class="container main-content" style="padding: 30px 0 20px 0;">
+
+	<div class="col-xs-12">
+	
+	
+	
+	
+<p style="color:#d1d4d6; font-size:0.9em;">© Copyright 2000-2015 Novatech Ltd - Computer Supplies | Company Reg No: 2605046 | RWV 1.2.75-JHS - ha</p>
+<p style="color:#d1d4d6; font-size:0.9em;">Head Office - Novatech Ltd, Harbour House, Hamilton Road, Cosham, Portsmouth, PO6 4PU</p>
+	
+	</div>
+</div>  
+</div>
+
+
+
+
+</div>
+
+
+
+
+
+
 
 <script type="text/javascript">
 
 
 
-var dn = new Date(1426601428179);
+var dn = new Date(1442625321947);
 
 </script>
 
-<div class="clearfix"></div>    
+ 
+	<!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+	
+	 <script src="/bootstrap/js/bootstrap.min.js"></script>
+	 <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+	
+	 <script src="/js/bootstrap/bs.js"></script>
 
-</div> <!-- global-container FINISH -->
- </div> 
+<script src="/js/bootstrap/bootstrap-tabcollapse.js"></script><!-- collapse tabs -->
+<script src="/js/bootstrap/rrssb.min.js"></script><!-- NEW SOCIAL ICONS -->
+  
+
+
+  
 
  
 
 
-</body></html>
+<div id="nalertdialogoverlay" onclick="closeNAlert();"></div><div id="nalertdialogbox"><div id="nalertdialogboxhead"></div><div id="nalertdialogboxbody"></div><div id="nalertdialogboxfoot"></div></div></body></html>
