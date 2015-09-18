@@ -1,842 +1,445 @@
-<!--The following is the downloaded HTML source of the intuit.co.uk privacy policy that was archived on 2015-03-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315004806id_/http%3A//www.intuit.co.uk/privacy-policy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the intuit.co.uk privacy policy that was archived on 2015-09-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150918204437id_/http%3A//www.intuit.co.uk/privacy-policy.jsp) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
+<!DOCTYPE html><html lang="en-GB"><head>
+<meta charset="UTF-8">
+<script src="https://js-agent.newrelic.com/nr-686.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"14c3803a97","applicationID":"4813557","transactionName":"dg4PTUIOXlkBFB5cAkcKBE1ZD1VqFAdWVBAaEglWRz5RWBc5QVAEUA==","queueTime":0,"applicationTime":815,"agentToken":null,"agent":"js-agent.newrelic.com/nr-686.min.js","ttGuid":"8622a0897bf8e5c5"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwUHVUVXAAIDUVRV"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,ee:"QJf3ax"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=t("ee").create(),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-686.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+<!-- We like people who view source. Check out our careers page http://careers.intuit.com/ -->
+<meta content="authenticity_token" name="csrf-param">
+<meta content="ZvizDCPgeuquV8SBRbCky/EJIwRalWO0zEzRMr7gMlg=" name="csrf-token">
+
+
+
+
+
+
+ 
 <title>Privacy Policy | Intuit UK</title>
-<meta name="description" content="">
-<meta name="keywords" content="">
-<link rel="canonical" href="http://www.intuit.co.uk/privacy-policy.jsp" type="">
-<meta name="language" content="en">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<link href="http://intuitglobal.intuit.com/delivery/cms/prod/sites/default/intuit.co.uk-blaze/images/favicon.ico" rel="shortcut-icon" type="image/png">
-<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/1844.js?438989" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://ips-invite.iperceptions.com/webValidator.aspx?sdfc=ab4c9b21-19907-bfbcb3ba-1e34-44f9-86cb-6a29a32d0807&amp;lid=1&amp;source=91787" id="IPerceptionsJS" type="text/javascript" async="" defer=""></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script> 
-<link href="http://intuitglobal.intuit.com/delivery/cms/prod/sites/default/intuit.co.uk-blaze/css/standard.css" media="screen" rel="stylesheet" type="text/css"> 
-<script src="http://intuitglobal.intuit.com/delivery/cms/prod/sites/default/intuit.co.uk-blaze/js/standard.js" type="text/javascript"></script>
-<link href="http://intuitglobal.intuit.com/delivery/cms/prod/sites/default/intuit.co.uk-blaze/css/util1.css" media="screen" rel="stylesheet" type="text/css">
-<link href="http://intuitglobal.intuit.com/delivery/cms/prod/sites/default/intuit.co.uk-blaze/css/feature.css" media="screen" rel="stylesheet" type="text/css">
-<link rel="shortcut icon" href="http://intuitglobal.intuit.com/delivery/cms/prod/sites/default/intuit.co.uk-blaze/images/icon/favicon_16.ico" type="image/x-icon">
-<!--TrackingCodeHead - OpenCMS Tracking Services Configuration-->
+<link href="//quickbooks-uk-s3.intuitstatic.com/favicon.png" rel="icon" type="image/x-icon">
+<link href="//quickbooks-uk-s3.intuitstatic.com/assets/harmony/assets/resp/standard/css/merged/standard-34a17b9985774fb71c75208ef53a006a.css" media="screen" rel="stylesheet" type="text/css">
+
+<script type="text/javascript">
+    window.toolmapUrl =  '//tmsasset-s3.intuitstatic.com/toolmap_4725.json?preview=false'
+    window.datalayerUrl = '//tmsasset-s3.intuitstatic.com/datalayer_4725.json?preview=false'
+</script>
+
+
 <script type="text/javascript" src="//nexus.ensighten.com/intuitintl/UK_SBG_PROD/Bootstrap.js"></script>
-<!--Mbox
-<script language="javascript" src="https://intuitglobal.intuit.com/delivery/cms/prod/sites/default/intuit.co.uk-blaze/js/mbox.js"></script> -->
-<!--Ensighten-->
-<!-- uncomment for US -->
-<!--<script type="text/javascript" src="https://nexus.ensighten.com/intuitintl/Bootstrap.js"></script>-->
-<!-- uncomment for test -->
-<!--<script type="text/javascript" src="https://nexus3.ensighten.com/intuitintl/UK_SBG_DEV/Bootstrap.js"></script>-->
-<!-- Google Analytics - v1.0 - Initialization -->
-<script type="text/javascript" src="https://intuitglobal.intuit.com/delivery/cms/prod/sites/default/intuit.co.uk-blaze/js/ga_custom_code.js"></script>
-<script type="text/javascript"> try{ var GA_ACCOUNT = Intuit.Analytics.Google.Core.selectUAByEnvironment('UA-39425429-1', 'UA-39419589-1'); Intuit.Analytics.Google.Core.gaInitialize(GA_ACCOUNT); } catch(err){ if (typeof console !== "undefined" && typeof console.log === "function") { console.log(err); } }</script>
-<!--Live Person-->
-<script src="https://intuitglobal.intuit.com/delivery/cms/prod/sites/default/intuit.co.uk-blaze/js/mtagconfig.js" type="text/javascript"></script>
-<script type="text/javascript">
-var lpMTagConfig = lpMTagConfig || {}; lpMTagConfig.vars = lpMTagConfig.vars || [];
-lpMTagConfig.lpServer = "sales.liveperson.net";
-lpMTagConfig.lpTagSrv = "sales.liveperson.net";
-/*lpMTagConfig.lpNumber = "19343400";*/
-lpMTagConfig.lpNumber = "37343836";
-lpMTagConfig.deploymentID = "sales";
-lpMTagConfig.vars.push(["page","unit","quickbooks-sales-uk"]); /* or quickbooks-sales-uk */
-lpMTagConfig.vars.push(["session","language","english"]);
-var pageTitle = document.title;
-lpMTagConfig.vars.push(["page","PageName",pageTitle]);
-lpMTagConfig.vars.push(["page","Section","QB-UK"]);
-</script>
-<script src="//cdn.optimizely.com/js/394560642.js"></script>
-<!--
+<script src="//quickbooks-uk-s3.intuitstatic.com/assets/harmony/assets/base/js/merged/mtagconfig-c84f0567e9115fde2b1d14230a8d1e1c.js" type="text/javascript"></script>
 <script>
-if (window.location.href.indexOf("sign-up") == -1 && window.location.href.indexOf("buy-now")==-1) {
-var gaJs = document.createElement("script");
-gaJs.type = "text/javascript";
-gaJs.src = "http://cdn.optimizely.com/js/394560642.js";
-document.head.appendChild(gaJs);
-//var adobeJs = document.createElement("script");
-//adobeJs.type = "text/javascript";
-//adobeJs.src = "https://intuitglobal.intuit.com/delivery/cms/prod/sites/default/intuit.co.uk-blaze/js/mbox.js";
-//document.head.appendChild(adobeJs);
-}
+    var lpMTagConfig = lpMTagConfig || {}; lpMTagConfig.vars = lpMTagConfig.vars || [];
+    lpMTagConfig.lpServer       = "sales.liveperson.net";
+    lpMTagConfig.lpTagSrv       = "sales.liveperson.net";
+    lpMTagConfig.lpNumber       = "37343836";
+    lpMTagConfig.deploymentID   = "sales";
+    lpMTagConfig.vars.push(["page","unit","quickbooks-sales-uk"]);
+    lpMTagConfig.vars.push(["session","language","english"]);
+    lpMTagConfig.vars.push(["session","campaign",""]);
+    lpMTagConfig.vars.push(["page","inviteChat","yes"]);
+    
+    var lp_product_name = '';
+    if(lp_product_name != ''){
+      lpMTagConfig.vars.push(['page','ProductName','']);
+    }
+    var lp_section = 'QB-UK';
+    if(lp_section != ''){
+      lpMTagConfig.vars.push(['page','Section','QB-UK']);
+    }
+    window.onload = function() {
+        if(location.host.indexOf('quickbooks.intuit.com') > -1) {
+            $(".hdr-chat-link").attr("data-wa-link","quickbooks-sales-uk"+"-english"); 
+        }
+    };
 </script>
--->
-<!--endOf TrackingCodeHead - OpenCMS Tracking Services Configuration-->
-<script type="text/javascript" src="http://s3.amazonaws.com/ki.js/14595/2H3.js" async=""></script></head> 
-<body>
-<!--Empty Mbox -->
-<div class="mboxDefault"></div><script type="text/javascript">mboxCreate('UK_Top_Empty');</script>
-<header id="mainHeader" class="main-header">
-<section class="top-header">
-<div>
-<div class="top-bar">
-<div class="top-bar-full">
-<div class="top-bar-container">
-<ul class="quickNav-menu nav-links">
-<!--
-<li class="tiny-link">
-<a href="/quickbooks-accounting-software/price-plans-b.jsp" onclick="_gaq.push(['_trackEvent', 'button-clicks','header','pricing']);">Pricing</a>
-</li>
-<li class="tiny-link">
-<a href="http://support.intuit.co.uk/index.jsp">Support</a>
-</li>
--->
-<li class="tiny-link hdr-corporate-Security">
-<a href="/quickbooks-accounting-software/data-security.jsp">
-<!--span class="security-icon"></span-->Security
-</a>
-</li>
-<!--
-<li class="tiny-link"> 
-<a href="https://shop.intuit.co.uk/shop/secure/cart.jsp" data-sc="hdr-corporate-Cart" onclick="goToCartWithPriorityCode();" title="Shopping Cart">Basket 
-<span class="cart-item-count" id="cartItemCount"></span>
-</a> 
-</li>
--->
-<li class="tiny-link hdr-chat-link" data-wa-nav-link="hdr-quickbooks-Chat">
-<div id="divUK-button-2" style="visibility: visible;"><img src="http://sales.liveperson.net/visitor/liveperson/chat-button/transparent.gif"></div>
-</li>
-<li id="open" class="tiny-link phone-number">
-<ul class="phone-info">
-<li class="sub-menu change-text" style="height:28px;">
-<a href="javascript:void(0);" class="default-text"><span class="phone-tiny link-icon"></span>0808 168 9533<span class="info-icon"></span></a>
-<ul style="z-index:2000;">
-<li>
-<!--<div class="mboxDefault sub-menu-content">-->
-<div class="sub-menu-content">
-<ul class="current-sales">
-<li>
-<span class="phone-icon"></span>
-<span class="phone-details">
-<div class="call-center-status open">Call sales FREE <span class="open">Open!</span>
-<span class="closed">Closed</span> 
-</div>
-<span class="call-center-hours">9am – 5:30pm, Mon – Thurs</span><br>
-<span class="call-center-hours">9am – 4:30pm, Friday</span>
-</span>
-</li>
-<li class="more-phone-numbers">
-<a href="http://www.intuit.co.uk/contact-us.jsp" data-sc="hdr-quickbooks-Contact">Support &amp; More...</a> 
-</li>
-</ul>
-</div>
-<script type="text/javascript">mboxCreate('UK_Header_Phone');</script>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-<li id="closed" class="tiny-link phone-number" style="display:none;">
-<ul class="phone-info">
-<li class="sub-menu change-text" style="height:28px;">
-<a href="javascript:void(0);" class="default-text"><span class="phone-tiny link-icon"></span>Lines are closed<span class="info-icon"></span></a>
-<ul style="z-index:2000;">
-<li>
-<!--<div class="mboxDefault sub-menu-content">-->
-<div class="sub-menu-content">
-<ul class="current-sales">
-<li>
-<span class="phone-icon"></span>
-<span class="phone-details">
-<div class="call-center-status open">
-<a href="http://www.intuit.co.uk/contact-us.jsp">Request a callback?</a>
-</div>
-<br>
-<span class="call-center-hours center">Available during:</span><br>
-<span class="call-center-hours">9am – 5:30pm, Mon – Thurs</span><br>
-<span class="call-center-hours">9am – 4:30pm, Friday</span>
-<br>
-</span>
-</li>
-<li class="more-phone-numbers">
-<a href="http://www.intuit.co.uk/contact-us.jsp" data-sc="hdr-quickbooks-Contact">Support &amp; More...</a> 
-</li>
-</ul>
-</div>
-<script type="text/javascript">mboxCreate('UK_Header_Phone');</script>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-<!--<li>
-<form id="isearch" role="search" action="//www.intuit.com/search/" method="post" class=""> <label for="search_term" class="visually-hidden">Search Intuit Small Business</label> <input tabindex="0" type="text" id="search_term" name="search_term" class="search-intuit" value="Search" data-wa-nav-link="hdr-quickbooks-Search"> <input tabindex="0" type="submit" id="searchSubmitButton" class="search-submit-button search-submit-eyebrow" value="Search Submit Button"> </form>
-</li>-->
-<li>
+
+<script src="//quickbooks-uk-s3.intuitstatic.com/assets/harmony/assets/resp/standard_top_js/js/merged/js-5577b2cea8143fb0d3048e62d90aa8af.js" type="text/javascript"></script>
 <script type="text/javascript">
-function onClickSearchBox(theSearchBox, defaultTxt) {
-if (theSearchBox.value == defaultTxt) {
-theSearchBox.value = "";
-} else {
-theSearchBox.select();
-}
-}
-function onBlurSearchBox(theSearchBox, defaultTxt) {
-if (theSearchBox.value == "") {
-theSearchBox.value = defaultTxt;
-}
-}
-function validateSearchBoxForm(theForm, defaultTxt, errorMsg) {
-//alert("in validation form");
-//alert("defaultText: " + defaultTxt);
-if (theForm.searchText.value == defaultTxt || theForm.searchText.value == "") {
-//alert("validating default text");
-theForm.searchText.focus();
-theForm.searchText.select();
-alert(errorMsg);
-return false;
-} else {
-//alert(pageTracker);
-//Google analytics check
-if (typeof pageTracker != "undefined"){
-pageTracker._trackPageview(searchUrl + theForm.searchText.value);
-}
-//site catalyst search code defined in the tracking services segment in CMS 
-if (typeof submitSearchMetrics == "function"){
-if ((typeof pageTracker != "undefined") && (catalystSearchTerm == "yes")){
-var enteredSearchTerm = theForm.searchText.value;
-}
-if ((typeof pageTracker != "undefined") && (catalystSearchPage == "yes")){
-var sourceSearchPage = window.location.href;
-}
-var searchEventSuccessful = true;
-submitSearchMetrics(enteredSearchTerm, sourceSearchPage, searchEventSuccessful);
-}
-return true;
-}
-}
+  if (typeof(wa) == "undefined") {
+        wa={}
+    }
+    wa.pageLoadStart    = new Date();
+    wa.siteName         = "";
+    wa.siteGroup        = "";
+    wa.siteHost         = "";
+
+    var aryProd = [];
+    if (aryProd != "") {
+        wa.aryProducts = aryProd;
+        wa.eventList = "prodView";
+    }
+
+    //sbm_intuit_id cookie value saved in wa.visitorID for Ensighten to store in var74
+    /*i.com does not use harmony standard page templates which will cause js error when Intuit.Library.Cookie is accessed. Adding
+     check if Intuit.Library.Cookie varialbe is defined 04/01/14 - sjakka1. This can be removed when i.com moves to harmony standard page template*/
+     
+    if(typeof Intuit.Library.Cookie != "undefined"){
+        wa.userId = Intuit.Library.Cookie.getUUID();
+    }
 </script>
-<form id="isearch" name="searchBoxForm" action="/search/search-results-harmony.jsp" method="get" onsubmit="return validateSearchBoxForm(this, 'Search','Please enter a search term prior to searching.');">
-<label for="search_term" class="visually-hidden">Search Intuit Small Business</label>
-<input tabindex="0" type="text" id="searchBox" class="search-intuit" value="Search" name="searchText" onmouseup="return false;" onclick="onClickSearchBox(this, 'Search');" onblur="onBlurSearchBox(this, 'Search');">
-<input tabindex="0" type="submit" id="searchSubmitButton" class="search-submit-button search-submit-eyebrow" value="Search Submit Button">
-<input name="cmsLanguage" type="hidden" value="en">
-<input name="searchControllerPath" type="hidden" value="/search/controller/smallBusinessController.html">
-<input name="baseRestDirAttribute" type="hidden" value="/sites/default/intuit.co.uk-blaze">
-<input name="searchResultsPath" type="hidden" value="/search/search-results-harmony.jsp">
-<input name="filter" type="hidden" value="">
-</form>
+<script type="text/javascript">
+    /**
+     * script that will create var for ensighten consumption
+     */
+    (function(window){
+        var Intuit = window.Intuit || {};
+        Intuit.Data = Intuit.Data || {};
+        Intuit.Data.aggregate = Intuit.Data.aggregate || {};
+        Intuit.Data.aggregate.json = {"dynamic_vars":{"tagProperties":{"etc":{"object_type":"Page","Page_Type":"Web Landing Page","website_group":"Marketing","operating_segment":"FMS","page_owner":"Alicia Skubick","biz_segment":"SBFS","page_version":"1","tool_map":"|SC|GA|OI","product_group":"QBO","country_code":"GB","ClientUniqueUrn":"urn:pprdecmas30d:79b1db6c-d037-47fc-b908-d28618c33c0a"}}}};
+
+        Intuit.Data.aggregate.getDynamicVariable = function(references) {
+            var i, l = references.length, tmp, reference;
+            for (i = 0; i < references.length; i++) {
+                reference = references[i];
+                tmp = new Function('if(typeof '+reference+' !== "undefined") return ' + reference)();
+                if (typeof tmp !== 'undefined') {
+                    return tmp;
+                }
+            }
+            return '';
+        };
+
+        var dynamicVars = JSON.stringify(Intuit.Data.aggregate.json['dynamic_vars']),
+            parseDynamicVars = function() {
+                return JSON.parse(dynamicVars, function(key, value){
+                    var i;
+                    if (value && typeof value === 'string' && value.indexOf('=dom') !== -1) {
+                        return new Function('return Intuit.Data.aggregate.getDynamicVariable(' + value.replace('=dom','') + ')')();
+                    }
+                    return value;
+                });
+            };
+
+        /**
+         *
+         * API to get PR data layer object - the later it's called, the more likely it is it will have all the correct DOM sourced values
+         *
+         * @type {parseDynamicVars}
+         * @private
+         */
+        window._getPrDataLayer = parseDynamicVars;
+        window.Intuit = Intuit;
+    }(window));
+</script>
+
+
+  <script src="//cdn.optimizely.com/js/394560642.js"></script>
+
+</head>
+<body>
+
+<header>
+		    <section class="ccontainer None " id="globalNavHeader">
+	              	    <nav class="ccontainer header-eyebrow-container qb-en-au-header ">
+	          	    <section class="ccontainer header-eyebrow-boiler ">
+	        <div class="content-container">
+	            
+<div class="container-fluid">
+
+<div class="row grid-container-960">
+      <div class="span4 col-md-4 col-sm-4 col-xs-12">
+      </div>
+      <div class="span8 col-md-8 col-sm-8 col-xs-12">
+        	    <section class="ccontainer eyebrow-boiler-nav ">
+	           <div class="ctext"><ul>
+<li><a data-wa-link="hdr-uk-Careers" href="http://careers.intuit.com/" onclick="_gaq.push(['_trackEvent', 'button-clicks','careers','we are hiring header']);" target="_blank">We're Hiring!</a></li>
+<li id="js-chat-eb" class="tiny-link hdr-chat-link" data-wa-link="hdr-quickbooks-Chat">
+<div id="divUK-button-2"></div>
+</li>
+<li id="js-phone-eb" class="eyebrow-phone-no"><span style="font-size: 18px;font-weight: bold;">0808 168 9533</span><ul class="phone-info">
+<li><span class="phone-icon"></span> <span class="phone-details"><span class="call-center-status">Call us FREE </span><br><span class="call-center-hours">8:30am – 5:30pm, Mon – Thurs</span><br>
+ <span class="call-center-hours">8:30am – 4:30pm, Friday</span> </span></li>
+<li class="more-phone-numbers"><a data-wa-link="hdr-uk-Contact" href="http://www.intuit.co.uk/contact/">Support &amp; More...</a></li>
+</ul>
 </li>
 </ul>
 </div>
+<script>
+$(document).ready(function () {
+    var wi = $(window).width(); 
+	if ((navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iPod/i) || navigator.userAgent.match(/Android/i)) || wi <= 1024) {
+		$('#js-phone-eb').hide();
+		$('#js-chat-eb').hide();	
+	}	
+});
+</script>
+<style>
+.header-eyebrow-boiler .eyebrow-boiler-nav .ctext ul li ul {
+    margin-left: -20px;
+    margin-top: 8px;
+    width: 210px;
+}
+</style>
+
+	    </section>
+
+      </div>
 </div>
+
 </div>
-</div>
-</section>
-<nav>
-<div>
-<div class="nav-bar property-header Quickbooks">
-<div class="nav-bar-container">
-<a data-wa-nav-link="" class="intuit-logo visually-hidden-text" href="/index.jsp">
-Intuit: Simplify the business of life. 
-<span class="intuit-qb-logo-image">Intuit Logo</span>
-<!--<span class="property-logo-image">QuickBooks Logo</span> -->
-</a>
-<ul class="quickNav-menu" style="margin-left: 50px; margin-top: 10px;">
-<li class="nav-bar-top-links sub-menu" id="qm1"><a href="http://www.intuit.co.uk/quickbooks-accounting-software/" rel="nofollow">For Small Business</a>
-<ul class="submenu-items">
-<li>
-<a href="http://www.intuit.co.uk/quickbooks-accounting-software/">Online Accounting Software</a>
-</li>
-<li>
-<a href="http://www.intuit.co.uk/quickbooks-accounting-software/online/compare/">Features</a>
-</li> 
-<li>
-<a href="http://www.intuit.co.uk/quickbooks-accounting-software/price-plans/">Pricing</a>
-</li>
-<li>
-<a href="http://www.intuit.co.uk/free-payroll-software/">Payroll <sup style="color:green;">New</sup></a>
-</li>
-<li>
-<a href="http://www.intuit.co.uk/quickbooks-accounting-software/move-my-data.jsp">Move to QuickBooks Online</a>
-</li>
+
+
+	        </div>
+	    </section>
+
+
+	    </nav>
+
+
+      	    <nav class="ccontainer en-au-header global-header-resp site-header ">
+	        <div class="content-container">
+	            
+<div class="container-fluid">
+
+<div class="row grid-container-960">
+      <div class="span3 col-md-3 col-sm-3 col-xs-12">
+        	    <section class="ccontainer navhdr-icons ">
+	                  <a data-wa-link="hdr-quickbooks-logo" href="/">
+			<span class="visually-hidden-text logo-quickbooks-185x40" style="display:block;"></span>
+        </a>
+
+
+	    </section>
+
+      </div>
+      <div class="span5 col-md-5 col-sm-5 col-xs-12">
+        	    <section class="ccontainer navhdr-menu ">
+	          <div class="ctext">
+  <ul>
+<li><a ref="http://www.intuit.co.uk/quickbooks-accounting-software/" data-wa-link="hdr-quickbooks-forsmallbusiness">For Small Business</a><ul>
+<li><a href="http://www.intuit.co.uk/quickbooks-accounting-software/" data-wa-link="hdr-quickbooks-forsmallbusiness:qbo">Online Accounting Software</a></li>
+<li><a href="http://www.intuit.co.uk/quickbooks-accounting-software/online/compare/" data-wa-link="hdr-quickbooks-forsmallbusiness:compare">Features</a></li>
+<li><a href="http://www.intuit.co.uk/quickbooks-accounting-software/price-plans/" data-wa-link="hdr-quickbooks-forsmallbusiness:priceplans">Pricing</a></li>
+<li><a href="http://www.intuit.co.uk/free-payroll-software/" data-wa-link="hdr-quickbooks-forsmallbusiness:payroll">Payroll</a></li>
+<li><a href="http://www.intuit.co.uk/quickbooks-payments/" data-wa-link="hdr-quickbooks-forsmallbusiness:payments">Accept Card Payments <sup style="color: green;">New</sup></a></li>
+<li><a href="http://www.intuit.co.uk/auto-enrolment/index.jsp" title="Auto-Enrolment: Workplace pensions" data-wa-link="hdr-quickbooks-forsmallbusiness:autoenrolment">Auto-enrolment</a></li>
+<li><a href="https://selfemployed.intuit.co.uk/" title="QuickBooks Self-Employed" data-wa-link="hdr-quickbooks-forsmallbusiness:qbse">QuickBooks Self-Employed</a></li>
+<li><a href="http://www.intuit.co.uk/quickbooks-accounting-software/move-my-data.jsp" data-wa-link="hdr-quickbooks-forsmallbusiness:movetoqbo" style="border-top: dashed 1px #666; margin-top: 5px; padding-top: 15px;">Switch from QuickBooks Desktop</a></li>
+<li><a href="http://www.intuit.co.uk/quickbooks-accounting-software/switch-to-quickbooks/" title="Switch from Sage" data-wa-link="hdr-quickbooks-forsmallbusiness:switchfromsage">Switch from Sage</a></li>
 </ul>
 </li>
-<li class="nav-bar-top-links sub-menu" id="qm2"><a href="http://www.intuit.co.uk/quickbooks-add-ons.jsp" rel="nofollow">Add-ons</a>
-<ul class="submenu-items">
-<li>
-<a href="http://www.intuit.co.uk/quickbooks-add-ons.jsp">QuickBooks Add Ons <sup style="color:green;">New</sup></a>
-</li>
-<li>
-<a href="http://www.intuit.co.uk/mobile-apps/quickbooks-online.jsp">QuickBooks Mobile Apps</a>
-</li>
-<li>
-<a href="http://www.intuit.co.uk/accept-card-payments/intuit-pay-new.jsp" class="payments-menu">Accept Card Payments</a>
-</li>
+<li><a href="http://www.intuit.co.uk/quickbooks-add-ons/" data-wa-link="hdr-addons">Add-ons</a><ul>
+<li><a href="http://www.intuit.co.uk/quickbooks-add-ons/" data-wa-link="hdr-addons:quickbooksaddons">QuickBooks Add Ons <sup style="color: green;">New</sup></a></li>
+<li><a href="http://www.intuit.co.uk/mobile-apps/quickbooks-online/" data-wa-link="hdr-addons:mobileapps">QuickBooks Mobile Apps</a></li>
 </ul>
 </li>
-<!--
-<li class="nav-bar-top-links sub-menu" id="qm3"><a href="http://www.intuit.co.uk/accept-card-payments/intuit-pay.jsp" class="payments-menu">Accept Card Payments</a>
-<ul class="submenu-items">
-<li>
-<a href="http://www.intuit.co.uk/accept-card-payments/intuit-pay-benefits.jsp">Intuit Pay Benefits</a>
-</li> 
-<li>
-<a href="http://www.intuit.co.uk/accept-card-payments/intuit-pay-pricing.jsp">Intuit Pay Pricing</a>
-</li>
-<li>
-<a href="http://www.intuit.co.uk/accept-card-payments/how-intuit-pay-works.jsp">How Intuit Pay Works</a>
-</li>
-<li>
-<a href="http://www.intuit.co.uk/accept-card-payments/how-to-get-started.jsp">How to Get Started</a>
-</li>
-<li>
-<a href="http://www.intuit.co.uk/accept-card-payments/intuit-pay-tips-and-tricks.jsp">Top Tips and Tricks</a>
-</li>
+<li><a href="http://www.intuit.co.uk/quickbooks-accounting-software/accountants/" data-wa-link="hdr-quickbooks-foraccountants">For Accountants</a><ul>
+<li><a href="http://www.intuit.co.uk/quickbooks-accounting-software/accountants/" data-wa-link="hdr-quickbooks-foraccountants:accountantoverview">Accountant Overview</a></li>
+<li><a href="http://www.intuit.co.uk/quickbooks-accounting-software/accountants/quickbooks-online-accountant/" data-wa-link="hdr-quickbooks-foraccountants:qbonlineaccountant">QuickBooks Online Accountant</a></li>
+<li><a href="http://www.intuit.co.uk/quickbooks-accounting-software/accountants/resources/learn-quickbooks-accountant" data-wa-link="hdr-quickbooks-foraccountants:accountantresources">Accountant Resources</a></li>
+<li><a href="https://proadvisor.intuit.com/global/login.html?region=uk" data-wa-link="hdr-quickbooks-foraccountants:createyourprofile">Create Your Profile</a></li>
 </ul>
 </li>
--->
-<li class="nav-bar-top-links sub-menu" id="qm3"><a href="http://www.intuit.co.uk/quickbooks-accounting-software/for-accountants.jsp">For Accountants</a>
-<ul class="submenu-items">
-<li>
-<a href="http://www.intuit.co.uk/quickbooks-accounting-software/accountants/online-accountant.jsp">QuickBooks Online Accountant</a>
-</li> 
-<li>
-<a href="https://proadvisor.intuit.com/global/login.html?region=uk" target="_blank" rel="nofollow">Create Your Profile</a>
-</li>
-</ul>
-</li>
-<li class="nav-bar-top-links sub-menu" id="qm4"><a href="http://www.intuit.co.uk/support/" rel="nofollow">Learn &amp; Support</a>
-<ul class="submenu-items">
-<li><a href="http://www.intuit.co.uk/support/">Common Questions <sup style="color: green;">New</sup></a></li>
+<li><a href="http://www.intuit.co.uk/support/" rel="nofollow" data-wa-link="hdr-support">Learn &amp; Support</a><ul>
+<li><a href="http://www.intuit.co.uk/support/" data-wa-link="hdr-support:commonquestions">Common Questions</a></li>
 <li><a href="https://help.quickbooks.intuit.com/en_GB/contact" rel="nofollow">QuickBooks Online Support</a></li>
 <li><a href="http://support.intuit.co.uk/quickbooks/" rel="nofollow">QuickBooks Desktop Support</a></li>
 <li><a href="http://support.intuitglobal.com/intuitpay/uk/index.jsp" rel="nofollow">Intuit Pay Support</a></li>
+<li><a adhocenable="false" href="http://www.intuit.co.uk/r/" target="_blank">Blog <sup style="color: green;">Updated</sup></a></li>
 </ul>
 </li>
 </ul>
-<ul class="quickNav-buttons">
-<li class="sign-up-nav" id="sign-up">
-<!-- QUICKBOOKS ONLY --> <a class="ctatertiary" data-wa-nav-link="hdr-quickbooks-SignUp" href="http://www.intuit.co.uk/quickbooks-accounting-software/price-plans/">Free Trial</a> 
-</li>
-<li class="sub-menu sign-in-nav">
-<a class="ctasecondary" data-wa-nav-link="hdr-quickbooks-SignIn-QBO" href="https://go.qbo.intuit.com/">Sign In</a>
-<ul class="submenu-items">
-<li>
-<a href="https://go.qbo.intuit.com" onclick="_gaq.push(['_trackEvent', 'Button Clicks', 'Site-Wide','Login to QBO']);">QuickBooks Online</a>
-</li> 
-<li>
-<a href="https://pay.intuit.co.uk/uk/home" onclick="_gaq.push(['_trackEvent', 'Button Clicks', 'Site-Wide','Login to Intuit Pay']);">Intuit Pay</a> 
-</li>
-<li>
-<a href="http://www.intuit.co.uk/proadvisors/login.jsp" onclick="_gaq.push(['_trackEvent', 'Button Clicks', 'Site-Wide','Login to ProAdvisor Site']);">ProAdvisors</a>
-</li>
-<li>
-<a href="https://office.intuit.com/" onclick="_gaq.push(['_trackEvent', 'Button Clicks', 'Site-Wide','Login to QBOA']);">QuickBooks Online Accountant</a>
-</li> 
-</ul>
-</li>
-</ul>
-<script src="http://intuitglobal.intuit.com/delivery/cms/prod/sites/default/intuit.co.uk-blaze/js/date.js" type="text/javascript"></script>
-<script type="text/javascript">
-var nextFriday = Date.today().next().friday().toString('dd/MM/yyyy');
-</script>
-<script type="text/javascript">
-$(".payments-menu").mouseover(function(){
-$(".payments-submenu").slideDown("fast");
-$(".payments-submenu").css("display", "block");
-});
-$(".payments-menu").mouseout(function(){
-$(".payments-submenu").css("display", "none");
-});
-$(".payments-submenu").mouseover(function(){
-$(".payments-submenu").css("display", "block");
-});
-$(".payments-submenu").mouseout(function(){
-$(".payments-submenu").css("display", "none");
-});
-</script>
-<style>
-.sub-menu.sign-in-nav>ul { margin: 2px 0 0 -148px; width: 205px; }
-.sub-menu>ul { height: 0; width: 0; display: none; margin: 0; padding: 0; overflow: hidden;
--ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
-filter: alpha(opacity=0);
-opacity: 0; font-size: 13px; list-style: none; position: absolute;
-box-shadow: 0 2px 0 rgba(0,0,0,0.25); z-index: 1001; background-color: #fff; border: 1px solid #ccc; border-radius: 2px;
-border-top-left-radius: 0; -webkit-transition: opacity 0.2s ease; -moz-transition: opacity 0.2s ease; -o-transition: opacity 0.2s ease;
--ms-transition: opacity 0.2s ease; transition: opacity 0.2s ease; }
-.noshow { display: none !important; }
-.noshow-fix { display: none !important;margin-bottom:0px !important; }
-.show { display: block;}
-.keep { display: block !important;}
-.top-bar .phone-info>.sub-menu>ul { padding: 10px 15px; margin-left: -40px; margin-top: 11px; }
-.intuit-qb-logo-image { margin-left: -21px; width: 185px; height: 45px; background-position: -228px -20px; display: none; }
-.property-header.nav-bar .intuit-pay-logo>span { display: block; float: left; }
-.intuit-qb-logo-image { background-image: url(http://intuitglobal.intuit.com/delivery/cms/prod/sites/default/intuit.co.uk-blaze/images/harmony/global-sprite-fallback-new.png); background-repeat: no-repeat; }
-.nav-bar-container { height: 75px; } 
-.quickNav-buttons { margin: 28px 16px 0 0; }
-li.sign-in-nav { margin-left: 0px; }
-.nav-bar-top-links:hover>a { padding-bottom: 14px; }
-.nav-bar-top-links.active>a {padding-bottom: 14px;}
-</style>
-<!--[if IE]>
-<style>
-.nav-bar .intuit-logo {margin-top: 3px;}
-</style>
-<![endif]-->
-<style>
-#searchBox::-ms-clear { display: none;}
-</style>
-<script type="text/javascript">
-if ($.browser.msie && $.browser.version == 11) {
-$(".nav-bar .intuit-logo").css("margin-top", "3px");
-}
-</script>
-<script type="text/javascript">
-$(document).ready(function () {
-if(window.location.href.indexOf("accept-card-payments") > -1) {
-$('#sign-up').css("display", "none" )
-}
-if(window.location.href.indexOf("/accountants/") > -1) {
-$('#sign-up').css("display", "none" )
-}
-if(window.location.href.indexOf("/for-accountants") > -1) {
-$('#sign-up').css("display", "none" )
-}
-});
-</script>
-<script type="text/javascript">
-$(document).ready(function openinghours() {
-var d = new Date();
-var w = d.getDay();
-var h = d.getHours();
-var m = d.getMinutes();
-if (w == 0 || w == 6) {
-$('#open').addClass('noshow');
-$('#help-block').addClass('noshow');
-$('#closed').css("display", "inline-block");
-} else if (w == 5){
-if (h > 08 && h < 16) {
-$('#open').addClass('show');
-} else if (h == 16) {
-if (m >= 30) {
-$('#open').addClass('noshow');
-$('#help-block').addClass('noshow');
-$('#closed').css("display", "inline-block");
-}; 
-} else if (h > 16) {
-$('#open').addClass('noshow');
-$('#help-block').addClass('noshow');
-$('#closed').css("display", "inline-block");
-} else if (h < 09) {
-$('#open').addClass('noshow');
-$('#help-block').addClass('noshow');
-$('#closed').css("display", "inline-block");
-};
-} else {
-if (h > 08 && h < 17) {
-$('#open').addClass('show');
-// $('#help-block').addClass('noshow');
-} else if (h == 17) {
-if (m >= 30) {
-$('#open').addClass('noshow');
-$('#help-block').addClass('noshow');
-$('#closed').css("display", "inline-block");
-}; 
-} else if (h > 17) {
-$('#open').addClass('noshow');
-$('#help-block').addClass('noshow');
-$('#closed').css("display", "inline-block");
-} else if (h < 09) {
-$('#open').addClass('noshow');
-$('#help-block').addClass('noshow');
-$('#closed').css("display", "inline-block");
-};
-};
-window.onload = openinghours;
-});
-</script>
-<script type="text/javascript">
-$(document).ready(function () {
-if(window.location.href.indexOf("quickbooks-accounting-software") > -1) {
-$('#qm1').addClass('active')
-}
-if(window.location.href.indexOf("/accept-card-payments") > -1) {
-$('#qm2').addClass('active')
-}
-if(window.location.href.indexOf("/quickbooks-accounting-software/accountants/") > -1) {
-$('#qm1').removeClass('active')
-$('#qm3').addClass('active')
-}
-if(window.location.href.indexOf("/quickbooks-accounting-software/for-accountants") > -1) {
-$('#qm1').removeClass('active')
-$('#qm3').addClass('active')
-}
-if(window.location.href.indexOf("/free-payroll-software") > -1) {
-$('#qm1').addClass('active')
-}
-if(window.location.href.indexOf("/quickbooks-accounting-software/help-me-choose") > -1) {
-$('#qm1').addClass('active')
-}
-if(window.location.href.indexOf("/mobile-apps/") > -1) {
-$('#qm2').addClass('active')
-}
-if(window.location.href.indexOf("/quickbooks-add-ons") > -1) {
-$('#qm2').addClass('active')
-}
-if(window.location.href.indexOf("/support/") > -1) {
-$('#qm4').addClass('active')
-}
-});
-</script>
+
 </div>
+
+	    </section>
+
+      </div>
+      <div class="span4 col-md-4 col-sm-4 col-xs-12">
+        	    <section class="ccontainer navhdr-cta ">
+	          <div class="ctawrapperright clearfix">
+    <div class="margin10 inline">
+    	<div class="ccta cta-align-right" data-qe-id="25205de6-bd9d-4f4e-86e2-1a84459c98a5">
+    <a class="ctatertiary ctaright   " data-wa-link="hdr-quickbooks-freetrial" href="http://www.intuit.co.uk/quickbooks-accounting-software/price-plans/">Free Trial
+    </a>
 </div>
+
+    </div>
+
+    <div class="margin10 inline">
+    	<div class="ccta cta-align-center" data-qe-id="6f0bc59f-d5f6-4d5e-807b-db3d685b563d">
+    <a class="ctasecondary ctacenter   " data-wa-link="hdr-quickbooks-signin" href="https://uk.qbo.intuit.com/qbo34/login?locale=en_GB">Sign In
+    </a>
 </div>
-</nav>
+
+    </div>
+</div>
+  <div class="ctext">
+  <ul>
+<li><a data-wa-link="hdr-quickbooks-signin:qbo" href="https://uk.qbo.intuit.com/qbo34/login?locale=en_GB">QuickBooks Online</a></li>
+<li><a data-wa-link="hdr-quickbooks-signin:qbse" href="https://selfemployed.intuit.co.uk/login">QuickBooks Self-Employed</a></li>
+<li><a data-wa-link="hdr-quickbooks-signin:intuitpay" href="https://pay.intuit.co.uk/uk/home">Intuit Pay</a></li>
+<li><a data-wa-link="hdr-quickbooks-signin:proadvisors" href="http://www.intuit.co.uk/proadvisors/login.jsp">ProAdvisors</a></li>
+<li><a data-wa-link="hdr-quickbooks-signin:qboa" href="http://office.intuit.com#">QuickBooks Online Accountant</a></li>
+</ul>
+
+</div>
+
+	    </section>
+
+      </div>
+</div>
+
+</div>
+
+   <style>
+#globalNavHeader .signin-hover{
+width: 182px!important
+}
+</style>
+
+	        </div>
+	    </nav>
+
+
+
+	    </section>
+   
 </header>
-<!-- floating help chat/phone widget -->
-<style>
-#help-block {display: none; position: fixed; top: 43%; right: 0; z-index: 999; width: 140px; }
-#help-option-phone .link-icon { padding-right: 7px; }
-#help-option-chat .link-icon { padding-right: 11px; }
-#help-option-chat { height: 25px; }
-#help-option-chat > a { font-size: 12px; text-decoration: none; }
-#help-option-phone { height: 25px; }
-.help-header { width: 100%; height: 27px; background: #95CD3C; border-top-left-radius: 3px; }
-.help-header > h3 { color: #fff; font-size: 14px; font-weight: bold; font-family: "Helvetica Neue",Helvetica,Arial,sans-serif; letter-spacing: 0; padding: 6px 12px; }
-.help-options { height: 100%; background: #fff; border-bottom-left-radius: 3px; border-left: 1px solid #D7D7D7; border-right: 1px solid #D7D7D7; border-bottom: 2px solid #D7D7D7; padding: 6px 12px 0; }
-.phone-number { font-size: 12px; }
-</style>
-<div id="help-container">
-<div id="help-block">
-<div class="help-header">
-<h3>Need help?</h3>
+
+<section id="main" class="">
+     
+    <div class="outer-container">
+        	    <section class="ccontainer ">
+	          	    <section class="ccontainer " style="padding-top:10px; padding-bottom:40px; ">
+	        <div class="content-container">
+	            <div class="ctext">
+  <h1>Privacy Policy</h1>
+<p><span class="p2"><b>Last Updated: 19 February 2014</b></span></p>
+<p>&nbsp;</p>
+<p>At Intuit Limited ('Intuit'), we pride ourselves on our commitment to protecting your privacy. We want you to know how we will collect, use and disclose the personal data you provide to us.</p>
+<p>&nbsp;</p>
+<p>If at any time you wish for us to delete your personal data from our files, please contact us in writing at either the postal or e-mail address below and we will respond promptly.</p>
+<p>&nbsp;</p>
+<p>Intuit has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. This privacy policy and TRUSTe’ certification applies to all sites that link to the policy. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at&nbsp;<a href="mailto:ukprivacy@intuit.com">ukprivacy@intuit.com</a>. If you are not satisfied with our response you can contact TRUSTe here.</p>
+<p>&nbsp;</p>
+<p>If you are not satisfied with our response you can contact TRUSTe here. Intuit complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland respectively. Information regarding the both the E.U. and Swiss Safe Harbor Frameworks can be found at&nbsp;<a href="http://export.gov/safeharbor">http://export.gov/safeharbor</a>. Intuit adheres to the US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and are registered with the U.S. Department of Commerce's Safe Harbor Programme.</p>
+<p>&nbsp;</p>
+<p><b>By Post</b></p>
+<p>&nbsp;</p>
+<p><i>Data Protection Administration<br>
+ Intuit Limited<br>
+ 1 Cathedral Piazza<br>
+ Victoria<br>
+ London<br>
+ SW1E 5BP<br>
+ UK</i></p>
+<p>&nbsp;</p>
+<p><b>By E-Mail</b>&nbsp;<br>
+<a href="mailto:ukprivacy@intuit.com">ukprivacy@intuit.com</a></p>
+
 </div>
-<div class="help-options">
-<div id="help-option-phone">
-<span class="phone-tiny link-icon"></span>
-<span class="phone-number">0808 168 1304</span>
-</div>
-<div id="help-option-chat">
-</div>
-</div>
-</div>
-</div>
-<script>$(document).scroll(function () {var helpscroll = $(this).scrollTop();if (helpscroll < 600) {$('#help-block').fadeOut('fast');} else {$('#help-block').fadeIn(); }});</script>
-<!-- end floating help chat/phone widget -->
-<style>
-.h-heading {
-text-align: center;
-padding: 20px 0;
-}
-.bg-grey {
-padding: 50px 0;
-}
-.bg-green, .cdisclosure {
-margin-top: 0;
-}
-.content-container-top {
-width: 940px;
-margin: 0 auto;
-padding: 40px 0 50px 0;
-}
-.content-container-middle {
-width: 940px;
-margin: 0 auto;
-padding: 30px 0;
-background-color: #edeef0;
-position: relative;
-}
-.content-container-bottom {
-width: 940px;
-margin: 0 auto;
-padding: 80px 0 70px 0;
-}
-.cbanner-feature-page {
-padding: 30px 0;
-}
-.p20 {
-padding: 0 0 20px 0;
-}
-.p40 {
-padding: 0 0 40px 0;
-}
-.video-img {
-float: left;
-width: 100px;
-margin-left: -22px;
-margin-top: -32px;
-}
-.tleft {
-text-align: left;
-}
-.tright {
-text-align: right;
-}
-.inset-callout-a {
-margin: -110px auto 50px;
-border-bottom: 2px solid #ccc;
-background-color: #0098cd;
-width: 860px;
-padding: 20px;
-}
-.inset-callout-b {
-margin: 0 auto -105px;
-border: 1px solid #ccc;
-border-bottom: 2px solid #ccc;
-background-color: #fff;
-width: 860px;
-padding: 40px;
-}
-.inset-callout-a h3, .inset-callout-b h3 {
-text-align: center;
-padding: 0 0 20px 0;
-font-weight: 600;
-}
-.inset-callout-a h3 {
-color: #fff;
-}
-.inset-callout-a p {
-text-align: center;
-color: #fff;
-}
-.inset-callout-b p {
-margin: 0 90px;
-font-size: 18px;
-}
-.offset6b {
-margin-left: 470px;
-}
-.ticks {
-padding-top: 20px;
-}
-.ticks ul {
-list-style-type:none;
-}
-.ticks ul li {
-padding: 10px 0;
-}
-.tick {
-height: 24px;
-width: 24px;
-position: relative;
-top:12px;
-display: inline-block;
-overflow: hidden;
-background-image: url(http://intuitglobal.intuit.com/delivery/cms/prod/sites/default/intuit.co.uk-blaze/images/global-sprite-fallback.png);
-background-position: -580px -600px;
-padding-right: 10px;
-}
-.cmodal-page {
-height:100%;
-width:100%;
-}
-.cmodal-page .modal-container {
-width:640px;
-}
-.cmodal-page .info-modal {
-padding: 20px;
-}
-.close {
-float: right;
-cursor: pointer;
-padding: 5px;
-margin-top: -5px;
-font-size: 2em;
-}
-#new-harmony-banner-top {
-background: #0196CE url("http://intuitglobal.intuit.com/delivery/cms/prod/sites/default/intuit.co.uk-blaze/images/nty/nty_campaign_website_banner.jpg") 50% 0 no-repeat;
-cursor: pointer;
-margin: 0 auto;
-position: relative;
-height: 92px;
-max-width: 1600px;
-background-size: 1600px 92px;
-border-bottom: 1px solid #fff;
-}
-/*new styles*/
-.p20 {
-padding: 0 0 20px 0;
-line-height: 20px;
-}
-.section-header {
-padding-top: 50px;
-padding-bottom: 0;
-}
-ul.li-tidy, .li-tidy ul {
-list-style: square;
-}
-.li-tidy ol, .li-tidy ul, .li-tidy > li {
-margin: 0;
-padding: 0;
-margin-left: 25px;
-line-height: 20px;
-font-style: italic;
-}
-.li-tidy ul {
-margin-left: 0;
-padding-left: 0;
-list-style-type: square;
-}
-.li-tidy ul li {
-margin-left: 20px;
-padding-left: 10px;
-list-style-type: disc;
-}
-.li-tidy ul li ul li {
-margin-left: 20px;
-list-style-type: circle;
-}
-</style>
-<section id="main">
-<div class="outer-container">
-<div class="section-header">
-<h1 style="margin-left: -4px;padding-bottom: 10px;">Privacy Policy</h1>
-<h4>Last Updated: 19 February 2014</h4>
-</div>
-<div class="content-container-top">
-<section class="content-container csection">
-<p class="p20">
-At Intuit Limited ('Intuit'), we pride ourselves on our commitment to protecting your privacy. We want you to know how we will collect, use and disclose the personal data you provide to us.
-</p>
-<p class="p20">
-If at any time you wish for us to delete your personal data from our files, please contact us in writing at either the postal or e-mail address below and we will respond promptly. 
-</p>
-<p class="p20">
-Intuit has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. This privacy policy and TRUSTe’ certification applies to all sites that link to the policy. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at <a target="_self" href="mailto:ukprivacy@intuit.com">ukprivacy@intuit.com</a>. If you are not satisfied with our response you can contact TRUSTe here.
-</p>
-<p class="p20">
-If you are not satisfied with our response you can contact TRUSTe here.
-Intuit complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland respectively. Information regarding the both the E.U. and Swiss Safe Harbor Frameworks can be found at <a target="_blank" href="http://export.gov/safeharbor">http://export.gov/safeharbor</a>. Intuit adheres to the US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and are registered with the U.S. Department of Commerce's Safe Harbor Programme.
-</p>
-<p class="p20">
-<strong>By Post</strong>
-</p>
-<address>
-Data Protection Administration <br>
-Intuit Limited <br>
-1 Cathedral Piazza <br>
-Victoria <br>
-London <br>
-SW1E 5BP <br>
-UK <br>
-</address>
-<br>
-<p class="p20">
-<strong>By E-Mail</strong> <br>
-<a target="_self" href="mailto:ukprivacy@intuit.com">ukprivacy@intuit.com</a> 
-</p>
-</section>
-</div>
-<!-- section 2 data -->
-<section class="ccontainer bg-grey">
-<section class="content-container csection">
-<p class="p20">
-<strong>Collecting Your Data</strong>
-</p>
-<p class="p20">
-Intuit QuickBooks Online processes adhere to the US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the U.S. Department of Commerce's Safe Harbor Program.
-</p>
-<p class="p20">
-'Personal data' is any data that can be used to identify you as an individual. Intuit collects 'personal data' about you only with your full knowledge in conjunction with:
-</p>
+
+	        </div>
+	    </section>
+
+  	    <section class="ccontainer bg-grey ">
+	        <div class="content-container">
+	            <div class="ctext">
+  <p class="p20">&nbsp;</p>
+<p class="p20"><b>Collecting Your Data</b></p>
+<p class="p20">&nbsp;</p>
+<p class="p20">Intuit QuickBooks Online processes adhere to the US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the U.S. Department of Commerce's Safe Harbor Program.</p>
+<p class="p20">&nbsp;</p>
+<p class="p20">'Personal data' is any data that can be used to identify you as an individual. Intuit collects 'personal data' about you only with your full knowledge in conjunction with:</p>
 <ol class="li-tidy">
-<li>A product purchase</li>
+<i><li>A product purchase</li>
 <li>Registration of a purchased product</li>
 <li>A request for information</li>
 <li>A request for any trial products that Intuit may offer</li>
-</ol>
-<br>
-<p class="p20">
-Intuit complies fully with the Data Protection Act 1998 and all applicable data protection &amp; privacy legislation. Intuit will only process personal data in accordance with the applicable rules and this privacy policy. All personal data you submit will be controlled by Intuit.
-</p>
-<p class="p20">
-If you require further information on your rights under the Data Protection Act please contact the Information Commissioner. Further details can be found by visiting <a href="http://www.ico.org.uk" target="_blank">ico.org.uk</a>.
-</p>
-<p class="p20">
-<strong>Using Your Data</strong>
-</p>
-<p class="p20">
-It is Intuit's policy that you should know exactly what personal data we collect from you and how we will use it. We collect personal data from you for the purpose of processing your order or enquiry. We may use your personal data to supply products and services to you that you have requested, carry out any agreement with you or take any steps that you have requested. In particular, we may:
-</p>
+</i></ol>
+<p>&nbsp;</p>
+<p class="p20">Intuit complies fully with the Data Protection Act 1998 and all applicable data protection &amp; privacy legislation. Intuit will only process personal data in accordance with the applicable rules and this privacy policy. All personal data you submit will be controlled by Intuit.</p>
+<p class="p20">&nbsp;</p>
+<p class="p20">If you require further information on your rights under the Data Protection Act please contact the Information Commissioner. Further details can be found by visiting <a target="_blank" href="http://www.ico.org.uk">ico.org.uk</a>.</p>
+<p class="p20">&nbsp;</p>
+<p class="p20"><b>Using Your Data</b></p>
+<p class="p20">&nbsp;</p>
+<p class="p20">It is Intuit's policy that you should know exactly what personal data we collect from you and how we will use it. We collect personal data from you for the purpose of processing your order or enquiry. We may use your personal data to supply products and services to you that you have requested, carry out any agreement with you or take any steps that you have requested. In particular, we may:</p>
+<p><i>&nbsp;</i></p>
 <ol class="li-tidy">
-<li>Update you as to the status of your order</li>
+<i><li>Update you as to the status of your order</li>
 <li>Alert you to important product revisions or updates</li>
 <li>Inform you about upgrades to your purchased Intuit products</li>
 <li>Ensure that you are properly registered to receive technical support</li>
 <li>We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service through our chat feature. These companies are authorised to use your personal information only as necessary to provide these services to us.</li>
 <li>We post customer testimonials. We receive permission to post testimonials that include personal data prior to posting.</li>
-</ol>
-<br>
-<p class="p20">
-In addition to the above uses, where you have given us appropriate permission, we may also use your personal data for the following purposes and direct marketing ('Additional Purposes'):
-</p>
+</i></ol>
+<p><i>&nbsp;</i></p>
+<p>&nbsp;</p>
+<p class="p20">In addition to the above uses, where you have given us appropriate permission, we may also use your personal data for the following purposes and direct marketing ('Additional Purposes'):</p>
+<p><i>&nbsp;</i></p>
 <ol class="li-tidy">
-<li>To tell you about special discounts on additional Intuit products and services</li>
+<i><li>To tell you about special discounts on additional Intuit products and services</li>
 <li>To advise you about new Intuit products and services</li>
 <li>To advise you about new products from other carefully-screened companies that Intuit feels may be of interest to you (we carefully screen and then select such companies only when we are satisfied that their products and/or services are likely to be of interest to you)</li>
-</ol>
-<br>
-<p class="p20">
-Aggregate data is general data about groups of customers and does not identify individual customers. Intuit may combine your data with that of other individuals to create aggregate data which we will use to improve our products &amp; services and develop new ones. For example, we may tell a third party how many people purchased a certain product, but not that you personally purchased a specific item.
-</p>
-<p class="p20">
-You should also be aware that we may occasionally provide links from our Web site to other sites that we think will interest you. If you click on a banner advertisement or any other link, the 'click' will take you off the Intuit site. Once you leave any Intuit Web site, any information that you may have provided remains with us and is not forwarded to the next site to which you have linked. Personal data that you may choose to provide to a third party Web site linked to an Intuit Web site will be subject to the privacy policy of the operators of the third party Web site. Intuit is not responsible for the use or protection of personal data you disclose to a third party Web site operator, even if reached from an Intuit Web site.
-</p>
-<p class="p20">
-<strong>Security and Data Retention</strong>
-</p>
-<p class="p20">
-The security of your personal information is important to us. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.If you have any questions about security on our Web site, you can contact us at <a href="mailto:ukprivacy@intuit.com">ukprivacy@intuit.com</a>
-</p>
-<p class="p20">
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at <a href="mailto:ukprivacy@intuit.com">ukprivacy@intuit.com</a>. We will retain and use your information as necessary to comply with our legal obligations, conduct our business operations, resolve disputes, and enforce our agreements. 
-</p>
-</section>
-</section>
-<!-- section 3 cookies -->
-<section class="ccontainer">
-<section class="content-container-top csection" id="privacy-cookies">
-<p class="p20">
-<strong>Cookies</strong>
-</p>
-<p class="p20">
-Intuit uses cookies to track overall site usage and determine areas users prefer. Cookies also allow us to customise your visit to our Web sites by recognising you when you return. We never use cookies to “see” other data on your computer or determine your e-mail address. 
-</p>
-<p class="p20">
-Most browsers accept and maintain cookies by default. Check the Help menu of your browser to learn how to change your cookie preference. You can choose to decline cookies while at our Web site, but this may limit your ability to access certain areas of the Web site.
-</p>
-<p class="p20">
-Alternatively you may wish to visit an independent source of information, <a href="http://www.aboutcookies.org" target="_blank">www.aboutcookies.org</a> , which contains comprehensive information on how to delete cookies from your computer as well as more general information about cookies. For information on how to do this on the browser of your mobile phone you will need to refer to your handset manual or network operator for advice.
-</p>
-<p class="p20">
-To purchase and download products from intuit.co.uk you must ensure your browser is able to accept cookies. Cookies are required for these services to authenticate registered users and to provide access to certain areas of our Web sites that are available to limited registered users only. Cookies are deleted when you close your browser, as well; this authentication becomes invalid after a certain period of time.
-</p>
-<p class="p20">
-List of www.intuit.co.uk and shop.intuit.co.uk cookies:
-</p>
+</i></ol>
+<p><i>&nbsp;</i></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p class="p20">Aggregate data is general data about groups of customers and does not identify individual customers. Intuit may combine your data with that of other individuals to create aggregate data which we will use to improve our products &amp; services and develop new ones. For example, we may tell a third party how many people purchased a certain product, but not that you personally purchased a specific item.</p>
+<p>&nbsp;</p>
+<p class="p20">You should also be aware that we may occasionally provide links from our Web site to other sites that we think will interest you. If you click on a banner advertisement or any other link, the 'click' will take you off the Intuit site. Once you leave any Intuit Web site, any information that you may have provided remains with us and is not forwarded to the next site to which you have linked. Personal data that you may choose to provide to a third party Web site linked to an Intuit Web site will be subject to the privacy policy of the operators of the third party Web site. Intuit is not responsible for the use or protection of personal data you disclose to a third party Web site operator, even if reached from an Intuit Web site.</p>
+<p class="p20">&nbsp;</p>
+<p class="p20"><b>Security and Data Retention</b></p>
+<p class="p20">&nbsp;</p>
+<p class="p20">The security of your personal information is important to us. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.If you have any questions about security on our Web site, you can contact us at <a href="mailto:ukprivacy@intuit.com">ukprivacy@intuit.com</a></p>
+<p>&nbsp;</p>
+<p class="p20">We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at <a href="mailto:ukprivacy@intuit.com">ukprivacy@intuit.com</a>. We will retain and use your information as necessary to comply with our legal obligations, conduct our business operations, resolve disputes, and enforce our agreements.</p>
+<p class="p20">&nbsp;</p>
+
+</div>
+
+	        </div>
+	    </section>
+
+  	    <section class="ccontainer None ">
+	        <div class="content-container">
+	            <div class="ctext">
+  <p>&nbsp;</p>
+<p><b>Cookies</b></p>
+<p>&nbsp;</p>
+<p>Intuit uses cookies to track overall site usage and determine areas users prefer. Cookies also allow us to customise your visit to our Web sites by recognising you when you return. We never use cookies to “see” other data on your computer or determine your e-mail address.</p>
+<p>&nbsp;</p>
+<p>Most browsers accept and maintain cookies by default. Check the Help menu of your browser to learn how to change your cookie preference. You can choose to decline cookies while at our Web site, but this may limit your ability to access certain areas of the Web site.</p>
+<p>&nbsp;</p>
+<p>Alternatively you may wish to visit an independent source of information, <a href="http://www.aboutcookies.org" target="_blank">www.aboutcookies.org</a> , which contains comprehensive information on how to delete cookies from your computer as well as more general information about cookies. For information on how to do this on the browser of your mobile phone you will need to refer to your handset manual or network operator for advice.</p>
+<p>&nbsp;</p>
+<p>To purchase and download products from intuit.co.uk you must ensure your browser is able to accept cookies. Cookies are required for these services to authenticate registered users and to provide access to certain areas of our Web sites that are available to limited registered users only. Cookies are deleted when you close your browser, as well; this authentication becomes invalid after a certain period of time.</p>
+<p>&nbsp;</p>
+<p>List of www.intuit.co.uk and shop.intuit.co.uk cookies:</p>
+<p>&nbsp;</p>
 <ul class="li-tidy">
-<li><strong>Google Analytics</strong> for anonymous, aggregated web analytics:
-<ul>
+<i><li><b>Google Analytics</b> for anonymous, aggregated web analytics:<ul>
 <li>utma, utmb - "Persistent" cookie expires after 1 year</li>
 <li>utmz - "Persistent" cookie expires after 6 months</li>
 <li>utmc - "Session" cookie expires on browser close</li>
 </ul>
 <br>
 </li>
-<li><strong>Adobe Test &amp; Target</strong> - for delivering content testing:
-<ul>
+<li><b>Adobe Test &amp; Target</b> - for delivering content testing:<ul>
 <li>mbox - "Persistent" cookie expires after 12 months</li>
 </ul>
 <br>
 </li>
-<li><strong>intuit.co.uk "Shop &amp; Buy experience":</strong>
-<ul>
+<li><b>intuit.co.uk "Shop &amp; Buy experience":</b><ul>
 <li>JSESSIONID - "Session" cookie expires on browser close</li>
 </ul>
 <br>
 </li>
-</ul>
-<p class="p20">
-Pages on www.intuit.co.uk or shop.intuit.co.uk may also contain the following cookies:
-</p>
+</i></ul>
+<p>&nbsp;</p>
+<p><i>Pages on www.intuit.co.uk or shop.intuit.co.uk may also contain the following cookies:</i></p>
+<p>&nbsp;</p>
 <ul class="li-tidy">
-<li><strong>Instant Service</strong> for Chat buttons and Chat windows:
-<ul>
+<li><b>Instant Service</b> for Chat buttons and Chat windows:<ul>
 <li>IS3_GSV - "Session" cookie expires on browser close</li>
 <li>IS3_History - "Persistent" cookie expires after 1 hour</li>
 <li>Isvt_visitor - "Persistent" cookie expires after 2 months</li>
 </ul>
 <br>
 </li>
-<li><strong>4Q</strong> for feedback surveys:
-<ul>
+<li><b>4Q</b> for feedback surveys:<ul>
 <li>4Qua - "Persistent" cookie expires after 1 day</li>
 <li>4QguidIPE - "Persistent" cookie expires after 1 day</li>
 <li>4Q__utmz - "Persistent" cookie expires after 1 day</li>
@@ -844,8 +447,7 @@ Pages on www.intuit.co.uk or shop.intuit.co.uk may also contain the following co
 </ul>
 <br>
 </li>
-<li><strong>KISS Insights</strong> for pop-up surveys:
-<ul>
+<li><b>KISS Insights</b> for pop-up surveys:<ul>
 <li>ki_r – "Persistent" cookie expires after 5 years</li>
 <li>ki_s – "Persistent" cookie expires after 5 years</li>
 <li>ki_t – "Persistent" cookie expires after 5 years</li>
@@ -853,24 +455,20 @@ Pages on www.intuit.co.uk or shop.intuit.co.uk may also contain the following co
 </ul>
 <br>
 </li>
-<li><strong>YouTube</strong> for videos:
-<ul>
+<li><b>YouTube</b> for videos:<ul>
 <li>VISITOR_INFO1_LIVE – "Persistent" cookie related to YouTube (expires after 8 months)</li>
 <li>PREF – "Persistent" cookie related to YouTube (expires after 10 years)</li>
 <li>Use_hitbox – "Session" cookie related to YouTube (expires on browser close)</li>
 </ul>
 <br>
 </li>
-<li><strong>"Social sharing buttons":</strong>
-<ul>
-<li><strong>Twitter</strong>
-<ul>
+<li><b>"Social sharing buttons":</b><ul>
+<li><b>Twitter</b><ul>
 <li>pid – "Persistent" cookie expires after 2 years</li>
 </ul>
 <br>
 </li>
-<li><strong>Facebook</strong>
-<ul>
+<li><b>Facebook</b><ul>
 <li>datr - "Persistent" cookie expires after 1 year</li>
 <li>locale - "Persistent" cookie expires after 1 week</li>
 <li>lsd - "Session" cookie expires on browser close</li>
@@ -881,354 +479,373 @@ Pages on www.intuit.co.uk or shop.intuit.co.uk may also contain the following co
 </ul>
 </li>
 </ul>
-<br>
-<p class="p20">
-Pages on www.intuit.co.uk or shop.intuit.co.uk may also contain the following cookies:
-</p>
+<p>&nbsp;</p>
+<p>Pages on www.intuit.co.uk or shop.intuit.co.uk may also contain the following cookies:</p>
+<p>&nbsp;</p>
 <ul class="li-tidy">
-<li><strong>shop.intuit.co.uk "Shop &amp; Buy experience":</strong>
-<ul>
+<li><b>shop.intuit.co.uk "Shop &amp; Buy experience":</b><ul>
 <li>campaign_info - "Persistent" cookie expires after 1 week</li>
 <li>sku_info - "Persistent" cookie expires after 1 week</li>
 <li>quantity_info - "Persistent" cookie expires after 1 week</li>
 </ul>
 </li>
 </ul>
-<br>
-<p class="p20">
-With or without cookies, our Web sites track usage data, such as the source address that a page request is coming from, your IP address or domain name, the date and time of the page request, the referring Web site (if any) and other parameters in the URL. We use this data to better understand Web site usage so that we know what areas of our Web site users prefer and what organizations might have an interest in our offerings. This data is stored in log files and is used for internal business analytics purposes. This log data is not linked to personal data gathered elsewhere on the site.
-</p>
-<p class="p20">
-<strong>Clear Gifs (Web Beacons/Web Bugs)</strong>
-</p>
-<p class="p20">
-We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information. We use a third-party tracking service that uses cookies and clear gifs to track non-personally identifiable information about visitors to our site in the aggregate to track usage and volume statistics and improve our site.
-</p>
-</section>
-</section>
-<!-- section 4 disclosing data -->
-<section class="ccontainer bg-grey">
-<section class="content-container csection">
-<p class="p20">
-<strong>Disclosing Your Data</strong>
-</p>
-<p class="p20">
-Intuit may also transfer personal data to Intuit-affiliated companies in other countries. These may be outside the European Economic Area and may not have adequate laws that protect the rights and freedoms of data subjects in relation to the processing of personal data. Where this is done, Intuit shall take necessary steps to adequately protect the information transferred. In addition, we will transfer/share your personal data as required by law, such as to comply with a subpoena, or similar legal process.
-</p>
-<p class="p20">
-It is Intuit's policy that you are kept in control of the ways in which we use your personal data for the Additional Purposes. All Intuit communications, in whatever medium, that involve the recording of personal data for these Additional Purposes include a short section that allows you to indicate your preferences with respect to the use of that personal data. You can choose whether or not you wish to receive additional information or promotional offers from Intuit.
-</p>
-<p class="p20">
-Data Collected by Telephone <br>
-In the event that you submit your personal details by telephone, please note that Intuit may monitor or record your call for one or more of the following purposes:
-</p>
-<ul class="li-tidy">
-<li>To provide evidence of your order or transaction with us</li>
-<li>To ensure that we comply with relevant regulatory procedures</li>
-<li>To see that quality standards or targets are being met In the interests of national security to prevent or detect crime or to investigate the unauthorised use of a telecommunications system</li>
-<li>To secure the effective operation of our telecommunications system</li>
-</ul>
-</section>
-</section>
-<!-- section 5 additional info -->
-<section class="ccontainer">
-<section class="content-container-top csection">
-<p class="p20">
-<strong>Additional Information</strong>
-</p>
-<p class="p20">
-Any information that you choose to provide us with will be used to personalise and improve our customer service operations. All information is collected and stored in a secure manner and is used strictly in relation to this policy and your stated preference. Intuit shall not be responsible or liable for loss of privacy, disclosure of information, harm, damage or loss that may result from your transmission of any information to us. In addition, under the law, we must cooperate fully with any law enforcement agency should a situation arise where our information about customers could be of assistance. 
-</p>
-<p class="p20">
-From time to time, Intuit may introduce new products and services to our customers that may require modifications to this policy. We reserve the right to modify this policy at any time by notifying our customers, via the Intuit Web site, of a new or revised policy. These modifications will only apply to personal data that you then provide to us after the date of the modification.
-</p>
-<p class="p20">
-<strong>Contact Preferences</strong>
-</p>
-<p class="p20">
-As an Intuit customer, we may also use your contact information to inform you of other products or services we think might interest you. However, if you do not wish to be contacted for promotional purposes, you can "opt out" when Intuit collects your information. Alternatively, you can update or correct your personal or business information relating to your Intuit account by contacting us by post or e-mail. 
-</p>
-<p class="p20">
-Please note that your contact preferences only apply to Intuit contacting you for marketing purposes. We may still need to communicate with you regarding the usability of your product or critical messages relating to your service or software. These communications may include service messages, subscription renewal notices, critical notices or legally mandated notices.
-</p>
-<p class="p20">
-<strong>Openness</strong>
-</p>
-<p class="p20">
-In the future, we may make changes to our privacy policies or practices. If we make material changes regarding personal information, we will update our statement and post a notice on the Intuit Web site 30 days before the changes take effect. 
-</p>
-<p class="p20">
-<strong>Contact Us for More Information</strong>
-</p>
-<p class="p20">
-You may provide us with your feedback, ask us questions about this policy, view the information collected from you to date, or obtain a printed copy of our policy statement and/or the name of the individual in charge of our privacy policy by writing to us at:
-</p>
-<p class="p20">
-<strong>By Post</strong>
-</p>
-<address>
-Data Protection Administration <br>
-Intuit Limited <br>
-1 Cathedral Piazza <br>
-Victoria <br>
-London <br>
-SW1E 5BP <br>
-UK <br>
-</address>
-<br>
-<p class="p20">
-<strong>By E-Mail</strong> <br>
-<a target="_self" href="mailto:ukprivacy@intuit.com">ukprivacy@intuit.com</a> 
-</p>
-<p class="p20">
-Please be sure to include your mailing address if you would like us to send you any written materials. Intuit reserves the right to take reasonable steps to verify any requests for personal information it receives.
-</p>
-<p class="p20">
-If at any time you wish your personal data to be deleted from our files, please contact us in writing and we will respond to your request within 30 days.
-</p>
-</section>
-</section>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>With or without cookies, our Web sites track usage data, such as the source address that a page request is coming from, your IP address or domain name, the date and time of the page request, the referring Web site (if any) and other parameters in the URL. We use this data to better understand Web site usage so that we know what areas of our Web site users prefer and what organizations might have an interest in our offerings. This data is stored in log files and is used for internal business analytics purposes. This log data is not linked to personal data gathered elsewhere on the site.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><b>Clear Gifs (Web Beacons/Web Bugs)</b></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information. We use a third-party tracking service that uses cookies and clear gifs to track non-personally identifiable information about visitors to our site in the aggregate to track usage and volume statistics and improve our site.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 </div>
 
-</section> 
+	        </div>
+	    </section>
+
+  	    <section class="ccontainer bg-grey ">
+	        <div class="content-container">
+	            <div class="ctext">
+  <p class="p20">&nbsp;</p>
+<p class="p20"><b>Disclosing Your Data</b></p>
+<p class="p20">&nbsp;</p>
+<p class="p20">Intuit may also transfer personal data to Intuit-affiliated companies in other countries. These may be outside the European Economic Area and may not have adequate laws that protect the rights and freedoms of data subjects in relation to the processing of personal data. Where this is done, Intuit shall take necessary steps to adequately protect the information transferred. In addition, we will transfer/share your personal data as required by law, such as to comply with a subpoena, or similar legal process.</p>
+<p class="p20">&nbsp;</p>
+<p class="p20">It is Intuit's policy that you are kept in control of the ways in which we use your personal data for the Additional Purposes. All Intuit communications, in whatever medium, that involve the recording of personal data for these Additional Purposes include a short section that allows you to indicate your preferences with respect to the use of that personal data. You can choose whether or not you wish to receive additional information or promotional offers from Intuit.</p>
+<p class="p20">&nbsp;</p>
+<p class="p20">Data Collected by Telephone<br>
+In the event that you submit your personal details by telephone, please note that Intuit may monitor or record your call for one or more of the following purposes:</p>
+<ul class="li-tidy">
+<li><i>To provide evidence of your order or transaction with us</i></li>
+<li><i>To ensure that we comply with relevant regulatory procedures</i></li>
+<li><i>To see that quality standards or targets are being met In the interests of national security to prevent or detect crime or to investigate the unauthorised use of a telecommunications system</i></li>
+<li><i>To secure the effective operation of our telecommunications system</i></li>
+</ul>
+<p>&nbsp;</p>
+<p class="p20">&nbsp;</p>
+
+</div>
+
+	        </div>
+	    </section>
+
+  	    <section class="ccontainer None ">
+	        <div class="content-container">
+	            <div class="ctext">
+  <p class="p20">&nbsp;</p>
+<p class="p20"><b>Additional Information</b></p>
+<p class="p20">&nbsp;</p>
+<p class="p20">Any information that you choose to provide us with will be used to personalise and improve our customer service operations. All information is collected and stored in a secure manner and is used strictly in relation to this policy and your stated preference. Intuit shall not be responsible or liable for loss of privacy, disclosure of information, harm, damage or loss that may result from your transmission of any information to us. In addition, under the law, we must cooperate fully with any law enforcement agency should a situation arise where our information about customers could be of assistance.</p>
+<p class="p20">&nbsp;</p>
+<p class="p20">From time to time, Intuit may introduce new products and services to our customers that may require modifications to this policy. We reserve the right to modify this policy at any time by notifying our customers, via the Intuit Web site, of a new or revised policy. These modifications will only apply to personal data that you then provide to us after the date of the modification.</p>
+<p class="p20">&nbsp;</p>
+<p class="p20"><b>Contact Preferences</b></p>
+<p class="p20">&nbsp;</p>
+<p class="p20">As an Intuit customer, we may also use your contact information to inform you of other products or services we think might interest you. However, if you do not wish to be contacted for promotional purposes, you can "opt out" when Intuit collects your information. Alternatively, you can update or correct your personal or business information relating to your Intuit account by contacting us by post or e-mail.</p>
+<p class="p20">&nbsp;</p>
+<p class="p20">Please note that your contact preferences only apply to Intuit contacting you for marketing purposes. We may still need to communicate with you regarding the usability of your product or critical messages relating to your service or software. These communications may include service messages, subscription renewal notices, critical notices or legally mandated notices.</p>
+<p class="p20">&nbsp;</p>
+<p class="p20"><b>Openness</b></p>
+<p class="p20">&nbsp;</p>
+<p class="p20">In the future, we may make changes to our privacy policies or practices. If we make material changes regarding personal information, we will update our statement and post a notice on the Intuit Web site 30 days before the changes take effect.</p>
+<p class="p20">&nbsp;</p>
+<p class="p20"><b>Contact Us for More Information</b></p>
+<p class="p20">&nbsp;</p>
+<p class="p20">You may provide us with your feedback, ask us questions about this policy, view the information collected from you to date, or obtain a printed copy of our policy statement and/or the name of the individual in charge of our privacy policy by writing to us at:</p>
+<p class="p20">&nbsp;</p>
+<p class="p20"><b>By Post</b></p>
+<p class="p20">&nbsp;</p>
+<address>Data Protection Administration<br>
+Intuit Limited<br>
+1 Cathedral Piazza<br>
+Victoria<br>
+London<br>
+SW1E 5BP<br>
+UK<br>
+</address>
+<p>&nbsp;</p>
+<p class="p20"><b>By E-Mail</b><br>
+<a target="_self" href="mailto:ukprivacy@intuit.com">ukprivacy@intuit.com</a></p>
+<p class="p20">&nbsp;</p>
+<p class="p20">Please be sure to include your mailing address if you would like us to send you any written materials. Intuit reserves the right to take reasonable steps to verify any requests for personal information it receives.</p>
+<p class="p20">&nbsp;</p>
+<p class="p20">If at any time you wish your personal data to be deleted from our files, please contact us in writing and we will respond to your request within 30 days.</p>
+<p class="p20">&nbsp;</p>
+<p class="p20">&nbsp;</p>
+<p class="p20">&nbsp;</p>
+
+</div>
+
+	        </div>
+	    </section>
+
+
+	    </section>
+     
+    </div>      
+</section>
+
 <footer>
-<section class="site-cooler-footer">
-<div>
-<section class="site-footer">
-<div class="row">
-<div class="span3">
-<h5><a href="/quickbooks-accounting-software/" data-wa-nav-link="ftr-quickbooks-Products" title="QuickBooks Products">Accounting Software</a></h5>
+	    <section class="ccontainer ">
+	              	    <nav class="ccontainer r-site-footer " id="accordion">
+	        <div class="content-container">
+	            	    <section class="ccontainer r-footer-propertylinks ">
+	          
+<div class="container-fluid">
+
+<div class="row grid-container-960">
+      <div class="span3 col-md-3 col-sm-3 col-xs-12">
+        	    <section class="ccontainer ">
+	          <div class="ctext">
+  <h5>Accounting Software</h5>
 <ul>
-<li><a href="/quickbooks-accounting-software/online/compare/" data-wa-link="ftr-QBOAcctUK-ProductFeatures" title="QuickBooks Online">Product features</a></li>
-<li><a href="/quickbooks-accounting-software/price-plans/" data-wa-link="ftr-QBOAcctUK-Pricing" title="QuickBooks Online Pricing">Pricing</a></li>
-<li><a href="/quickbooks-add-ons.jsp" data-wa-link="ftr-QBOAcctUK-AddOns" title="QuickBooks Add-ons">Add-ons</a></li>
-<li><a href="/mobile-apps/quickbooks-online.jsp" data-wa-link="ftr-QBOAcctUK-MobileApps" title="QuickBooks Mobile Apps">Mobile apps</a></li>
-<li><a href="/free-payroll-software/" data-wa-link="ftr-QBOAcctUK-PayrollSoftware" title="QuickBooks Payroll">Payroll software</a></li>
-<li><a href="/quickbooks-accounting-software/desktop/pro/" data-wa-link="ftr-QBOAcctUK-LookingForQBDesktop" title="QuickBooks Upgrade">Looking for QuickBooks Desktop?</a></li>
+<li><a href="http://www.intuit.co.uk/quickbooks-accounting-software/" data-wa-link="ftr-uk-Software" title="QuickBooks Online">QuickBooks Online<br>
+ </a></li>
+<li><a href="https://selfemployed.intuit.co.uk/" data-wa-link="ftr-quickbooks-forsmallbusiness:qbse" title="QuickBooks Self-Employed">QuickBooks Self-Employed</a></li>
+<li><a href="http://www.intuit.co.uk/quickbooks-accounting-software/online/compare/" data-wa-link="ftr-uk-Features" title="Product features">Product features<br>
+ </a></li>
+<li><a adhocenable="false" href="http://www.intuit.co.uk/quickbooks-accounting-software/price-plans/" data-wa-link="ftr-uk-Pricing" title="Pricing">Pricing<br>
+ </a></li>
+<li><a href="http://www.intuit.co.uk/quickbooks-add-ons/" data-wa-link="ftr-uk-AddOns" title="Add-ons">Add-ons<br>
+ </a></li>
+<li><a href="http://www.intuit.co.uk/mobile-apps/quickbooks-online/" data-wa-link="ftr-uk-MobileApps" title="Mobile apps">Mobile apps<br>
+ </a></li>
+<li><a href="http://www.intuit.co.uk/free-payroll-software/" data-wa-link="ftr-uk-Payroll" title="Payroll software">Payroll software<br>
+ </a></li>
+<li><a href="http://www.intuit.co.uk/quickbooks-accounting-software/desktop/pro/" data-wa-link="ftr-uk-QBDesktop" title="Looking for QuickBooks Desktop?">Looking for QuickBooks Desktop?<br>
+ </a></li>
 </ul>
+
 </div>
-<div class="span3">
-<h5><a href="/accept-card-payments/intuit-pay-new.jsp" data-wa-nav-link="ftr-IntuitPay" title="Intuit Pay">Accept Card Payments</a></h5>
+
+	    </section>
+
+      </div>
+      <div class="span3 col-md-3 col-sm-3 col-xs-12">
+        	    <section class="ccontainer ">
+	          <div class="ctext">
+  <h5>Accept Card Payments</h5>
 <ul>
-<li><a href="/accept-card-payments/how-intuit-pay-works.jsp" data-wa-link="ftr-QBOAcctUK-HowItWorks" title="How Intuit Pay Works">How it works</a></li>
-<li><a href="/accept-card-payments/intuit-pay-benefits.jsp" data-wa-link="ftr-QBOAcctUK-Benefits" title="Intuit Pay Benefits">Benefits</a></li>
-<!--<li><a href="/accept-card-payments/intuit-pay-pricing.jsp" data-wa-nav-link="ftr-IntuitPayPricing" title="Intuit Pay Pricing">Pricing</a></li>-->
+<li><a href="http://www.intuit.co.uk/quickbooks-payments" data-wa-link="ftr-uk-AcceptCreditCard" title="QuickBooks Payments">QuickBooks Payments<br>
+ </a></li>
 </ul>
+
 </div>
-<div class="span3">
-<h5><a href="/small-business-resources.jsp" data-wa-nav-link="ftrSmallBusinessResources" title="Small Business Resources">Small Business Resources</a></h5>
+
+	    </section>
+
+      </div>
+      <div class="span3 col-md-3 col-sm-3 col-xs-12">
+        	    <section class="ccontainer ">
+	          <div class="ctext">
+  <h5>Small Business Resources</h5>
 <ul>
-<li><a href="/small-business-resources/what-is-accounting-software.jsp" data-wa-link="ftr-QBOAcctUK-WhatisAcctSw" title="What is accounting software?">What is accounting software?</a></li>
-<li><a href="http://www.intuit.co.uk/auto-enrolment/index.jsp" data-wa-link="ftr-QBOAcctUK-AutoEnroll" title="Auto-Enrolment">Workplace pensions: Auto-enrolment</a></li>
-<li><a href="/small-business-resources/cash-flow.jsp" data-wa-link="ftr-QBOAcctUK-CashFlow" title="Cash Flow">Cash flow</a></li>
-<li><a href="/small-business-resources/vat-software.jsp" data-wa-link="ftr-QBOAcctUK-VATsw" title="VAT software">VAT software</a></li>
-<li><a href="/quickbooks-accounting-software/invoicing-software.jsp" data-wa-link="ftr-QBOAcctUK-Inv" title="Invoicing">Invoicing</a></li>
-<li><a href="/small-business-resources/balance-sheet.jsp" data-wa-link="ftr-QBOAcctUK-BS" title="Balance Sheet">Balance sheet</a></li>
-<li><a href="/small-business-resources/profit-and-loss-statement.jsp" data-wa-link="ftr-QBOAcctUK-P&amp;L" title="Profit and Loss">Profit and loss</a></li>
-<li><a href="/quickbooks-payroll-software/rti-real-time-paye-advice.jsp" data-wa-link="ftr-QBOAcctUK-RealTimePAYE" title="Real Time PAYE (RTI)">Real Time PAYE (RTI)</a></li>
-<li><a href="http://proadvisor.intuit.com/search/uk.html " data-wa-link="ftr-QBOAcctUK-FindAcct" title="Find an accountant">Find an accountant</a></li>
+<li><a href="http://www.intuit.co.uk/small-business-resources/what-is-accounting-software.jsp" data-wa-link="ftr-uk-WhatisAcctSoftware" title="What is accounting software?">What is accounting software?<br>
+ </a></li>
+<li><a href="http://www.intuit.co.uk/auto-enrolment/index.jsp" data-wa-link="ftr-uk-AutoEnrolment" title="Workplace pensions:Auto-enrolment">Workplace pensions: Auto-enrolment<br>
+ </a></li>
+<li><a href="http://www.intuit.co.uk/quickbooks-accounting-software/features/cashflow-statement" data-wa-link="ftr-uk-CashFlow" title="Cash flow">Cash flow<br>
+ </a></li>
+<li><a href="http://www.intuit.co.uk/quickbooks-accounting-software/features/vat" data-wa-link="ftr-uk-VATsoftware" title="VAT software">VAT software<br>
+ </a></li>
+<li><a href="http://www.intuit.co.uk/quickbooks-accounting-software/features/invoicing" data-wa-nav-link="ftr-InvoiceSoftware" title="Invoicing">Invoicing<br>
+ </a></li>
+<li><a href="http://www.intuit.co.uk/quickbooks-accounting-software/features/balance-sheet" data-wa-link="ftr-uk-BalanceSheet" title="Balance sheet">Balance sheet<br>
+ </a></li>
+<li><a href="http://www.intuit.co.uk/quickbooks-accounting-software/features/profit-and-loss" data-wa-link="ftr-uk-ProfitLoss" title="Profit and loss">Profit and loss<br>
+ </a></li>
+<li><a href="http://www.intuit.co.uk/quickbooks-payroll-software/rti-real-time-paye-advice/" data-wa-link="ftr-uk-RealTimePAYE" title="Real Time PAYE (RTI)">Real Time PAYE (RTI)<br>
+ </a></li>
+<li><a href="http://proadvisor.intuit.com/search/uk.html" data-wa-link="ftr-uk-FindAccountant" title="Find an accountant">Find an accountant<br>
+ </a></li>
 </ul>
+
 </div>
-<div class="span3">
-<h5><a href="http://support.intuit.co.uk/index.jsp" data-wa-nav-link="ftr-quickbooks-Support" data-wa-link="support" title="Support">Support</a></h5>
+
+	    </section>
+
+      </div>
+      <div class="span3 col-md-3 col-sm-3 col-xs-12">
+        	    <section class="ccontainer ">
+	          <div class="ctext">
+  <h5>Support</h5>
 <ul>
-<li><a href="http://support.intuit.co.uk/index.jsp" data-wa-link="ftr-QBOAcctUK-QBSupport" title="Support">QuickBooks support</a></li>
-<li><a href="http://community.intuit.com/quickbooks/uk" data-wa-link="ftr-QBOAcctUK-QBDeskTopComm" title="QuickBooks Desktop Community">QuickBooks Desktop Community</a></li>
-<li><a href="https://qbouk.lcp.intuit.com/" data-wa-link="ftr-QBOAcctUK-QBOComm" title="QuickBooks Online Community">QuickBooks Online Community</a></li>
-<li><a href="/quickbooks-accounting-software/move-my-data.jsp" data-wa-link="ftr-QBOAcctUK-MoveDtSwtoQBO" title="Move from Quickbooks Desktop to QuickBooks Online">Move your Desktop software to QuickBooks Online</a></li>
-<!--<li><a href="/quickbooks/accounting-software/online/get-started-guide.jsp" data-wa-nav-link="ftr-quickbooks-GetStartedGuide" title="QuickBooks Get Started Guide">QuickBooks get started guide</a></li>--><!--<li><a href="/quickbooks/accounting-software/online/get-started-guide.jsp" data-wa-nav-link="ftr-quickbooks-GetStartedGuide" title="QuickBooks Get Started Guide">QuickBooks get started guide</a></li>-->
-<li><a href="https://proadvisor.intuit.com/faa/uk " data-wa-link="ftr-QBOAcctUK-CreateAcctProfile" title="Create you Accountant Profile">Create your accountant profile</a></li>
+<li><a href="http://support.intuit.co.uk/index.jsp" data-wa-link="ftr-uk-QBSupport" title="QuickBooks support">QuickBooks support<br>
+ </a></li>
+<li><a href="http://community.intuit.com/quickbooks/uk" data-wa-link="ftr-uk-QBDesktopCommunity" title="QuickBooks Desktop Community">QuickBooks Desktop Community<br>
+ </a></li>
+<li><a href="https://qbouk.lcp.intuit.com/" data-wa-link="ftr-uk-QBOnlineCommunity" title="QuickBooks Online Community">QuickBooks Online Community<br>
+ </a></li>
+<li><a href="http://www.intuit.co.uk/quickbooks-accounting-software/move-my-data.jsp" data-wa-link="ftr-uk-MovetoQBOnline" title="Move your Desktop software to QuickBooks Online">Move your Desktop software to QuickBooks Online<br>
+ </a></li>
+<li><a href="https://proadvisor.intuit.com/faa/uk" data-wa-link="ftr-uk-CreateProfile" title="Create your accountant profile">Create your accountant profile<br>
+ </a></li>
 </ul>
+
 </div>
+
+	    </section>
+
+      </div>
 </div>
-</section>
+
 </div>
-<div>
-<section class="footer-global-watercooler">
-<div class="row">
-<div class="span12">
-<hr class="footer-global-hr">
-</div>
-</div>
-<div class="row">
-<div class="span3 footer-watercooler">
-<ul>
-<li><a href="http://www.youtube.com/user/IntuitUK" data-wa-link="ftr-QBOAcctUK-YouTube" target="_blank"><img alt="YouTube" class="footer-sprite footer-icon-youtube" height="19" src="http://intuitglobal.intuit.com/delivery/cms/prod/sites/default/intuit.co.uk-blaze/images/harmony/tp.gif" width="21"></a></li>
-<li><a href="https://www.twitter.com/QuickBooksUK" data-wa-link="ftr-QBOAcctUK-Twitter" target="_blank"><img alt="Twitter" class="footer-sprite footer-icon-twitter" height="19" src="http://intuitglobal.intuit.com/delivery/cms/prod/sites/default/intuit.co.uk-blaze/images/harmony/tp.gif" width="21"></a></li>
-<li><a href="https://www.facebook.com/QuickBooksUK " data-wa-link="ftr-QBOAcctUK-FB" target="_blank"><img alt="Facebook" class="footer-sprite footer-icon-facebook" height="19" src="http://intuitglobal.intuit.com/delivery/cms/prod/sites/default/intuit.co.uk-blaze/images/harmony/tp.gif" width="21"></a></li>
-<li><a href="http://www.linkedin.com/company/intuit" data-wa-link="ftr-QBOAcctUK-LinkedIn" target="_blank"><img alt="LinkedIn" class="footer-sprite footer-icon-linkedin" height="19" src="http://intuitglobal.intuit.com/delivery/cms/prod/sites/default/intuit.co.uk-blaze/images/harmony/tp.gif" width="21"></a></li>
-<li><a href="https://plus.google.com/110583284517638999205/posts" data-wa-link="ftr-QBOAcctUK-Google+" target="_blank" rel="publisher"><img alt="Intuit on Google+" class="footer-sprite footer-icon-gplus" height="19" src="http://intuitglobal.intuit.com/delivery/cms/prod/sites/default/intuit.co.uk-blaze/images/harmony/tp.gif" width="21"></a></li>
+
+  <div class="interspace_container" style="padding:0px 0px 0px 0px; margin:0px 0px 0px 0px; "></div>
+<hr class="interspace_divider ">
+
+
+	    </section>
+
+  	    <section class="ccontainer center-sm ">
+	          
+<div class="container-fluid">
+
+<div class="row grid-container-960">
+      <div class="span3 col-md-3 col-sm-3 col-xs-12">
+        	    <section class="ccontainer r-footer-social ">
+	          <div class="ctext">
+  <ul>
+<li><a data-wa-link="ftr-corporate-YouTube" href="http://www.youtube.com/user/IntuitUK"><span class="visually-hidden-text footer-icon-youtube" style="display: inline-block;">&nbsp;</span></a></li>
+<li><a data-wa-link="ftr-corporate-Twitter" href="https://www.twitter.com/QuickBooksUK"><span class="visually-hidden-text footer-icon-twitter" style="display: inline-block;">&nbsp;</span></a></li>
+<li><a data-wa-link="ftr-corporate-Facebook" href="https://www.facebook.com/QuickBooksUK"><span class="visually-hidden-text footer-icon-facebook" style="display: inline-block;">&nbsp;</span></a></li>
+<li><a data-wa-link="ftr-corporate-LinkedIn" href="http://www.linkedin.com/company/intuit"><span class="visually-hidden-text footer-icon-linkedin" style="display: inline-block;">&nbsp;</span></a></li>
+<li><a data-wa-link="ftr-corporate-GooglePlus" href="https://plus.google.com/110583284517638999205/posts" rel="publisher"><span class="visually-hidden-text footer-icon-gplus" style="display: inline-block;">&nbsp;</span></a></li>
 </ul>
+
 </div>
-<div class="span7 footer-global">
-<ul>
-<li><a href="/about.jsp" title="About Intuit UK" data-wa-link="ftr-QBOAcctUK-AboutIntuit">About Intuit</a></li>
-<li><a href="http://careers.intuit.com/" data-wa-link="ftr-QBOAcctUK-Careers">Careers</a></li>
-<li><a href="http://www.intuit.co.uk/contact-us.jsp" data-wa-link="ftr-QBOAcctUK-Contact">Contact</a></li>
-<!--<li><a href="http://community.intuit.com/">Intuit Community</a></li>-->
-<li><a href="http://blog.intuit.co.uk/" data-wa-link="ftr-QBOAcctUK-Blog">Blog</a></li>
+
+	    </section>
+
+      </div>
+      <div class="span6 col-md-6 col-sm-6 col-xs-12">
+        	    <section class="ccontainer r-footer-company ">
+	          <div class="ctext">
+  <ul>
+<li><a href="http://www.intuit.co.uk/about.jsp" data-wa-link="ftr-uk-About">About Intuit</a></li>
+<li><a href="http://careers.intuit.com/" data-wa-link="ftr-uk-Careers">Careers</a></li>
+<li><a data-wa-link="ftr-uk-Security" href="http://www.intuit.co.uk/quickbooks-accounting-software/data-security/">Security</a></li>
+<li><a href="http://www.intuit.co.uk/contact-us.jsp" data-wa-link="ftr-uk-Contact">Contact</a></li>
+<li><a data-wa-link="ftr-uk-Blog" href="http://www.intuit.co.uk/r/" target="_blank">Blog</a></li>
 </ul>
+
 </div>
-<div class="span2 footer-global"> <a class="footer-global-select-country" href="http://global.intuit.com/choose-country.jsp" data-wa-link="ftr-QBOAcctUK-SelectCtry"><img alt="" class="footer-sprite footer-icon-global" height="17" src="http://intuitglobal.intuit.com/delivery/cms/prod/sites/default/intuit.co.uk-blaze/images/harmony/tp.gif" width="17"><span>Select country</span></a> </div>
+
+	    </section>
+
+      </div>
+      <div class="span3 col-md-3 col-sm-3 col-xs-12">
+        	    <section class="ccontainer r-footer-global ">
+	          <div class="interspace_container" style="padding:0px 0px 0px 0px; margin:0px 0px 0px 0px; "></div>
+<hr class="interspace_divider ">
+
+  <div class="ctext">
+  <p><a class="footer-global-select-country footer-icon-global" href="http://global.intuit.com/choose-country.jsp" data-wa-link="ftr-QBOAAUS-SelectCtry"> Select Country </a></p>
+
 </div>
-</section>
+
+	    </section>
+
+      </div>
 </div>
-</section>
-<!--<section class="legal-footer">
-<div>
-<section class="footer-legal">
-<div class="footer-legal-content">
-<div class="row">
-<div class="span2"> <a href="http://www.intuit.com"><img alt="Intuit" class="footer-sprite footer-intuit-logo" height="81" id="" src="//quickbooks-s3.intuitstatic.com/assets/harmony/images/tp.gif" title="Intuit" width="24"></a> </div>
-<div class="span8">
-<p class="footer-legal-copy"> <span class="footer-legal-copyright">© 2013 Intuit Limited. All rights reserved.</span> Intuit and QuickBooks are registered trademarks of Intuit, Inc. Terms and conditions, features, support, pricing, and service options subject to change without notice. </p>
-<ul>
-<li><a class="footer-legal-link" href="http://www.intuit.co.uk/legal.jsp">Legal</a></li>
-<li><a class="footer-legal-link" href="http://www.intuit.co.uk/privacy-policy.jsp">Privacy</a></li>
-<li><a class="footer-legal-link" href="http://www.intuit.co.uk/terms-of-service.jsp">Terms of service</a></li>
-</ul>
-<p></p>
+
 </div>
-<div class="footer-legal-truste-logo-container"> <a href="http://clicktoverify.truste.com/pvr.php?page=validate&url=www.intuit.com&sealid=101"> <img alt="TRUSTe Certified Privacy" class="footer-sprite footer-truste-logo" height="91" src="http://intuitglobal.intuit.com/delivery/cms/prod/sites/default/intuit.co.uk-blaze/images/tp.gif" width="31"> </a> <a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.intuit.co.uk"> <img class="footer-sprite footer-truste-logo" width="91" height="31" border="0" src="http://images.scanalert.com/meter/www.mcafee.com/12.gif" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"> </a> </div>
-</div>
-</div>
-</section>
-</div>
-</section>
-</footer>-->
-<section class="legal-footer">
-<div>
-<section class="footer-legal">
-<div class="footer-legal-content">
-<div class="row">
-<div class="span6">
-<a href="http://www.intuit.co.uk"><img alt="Intuit" class="footer-sprite footer-intuit-logo" height="81" id="" src="//quickbooks-s3.intuitstatic.com/assets/harmony/images/tp.gif" title="Intuit" width="24"></a>
-</div>
-<div class="span6">
-<ul class="footer-legal-links">
-<li><a class="footer-legal-link" href="https://developer.intuit.com/gb">Developers</a></li>
-<li> <a class="footer-legal-link" href="http://www.intuit.co.uk/legal.jsp">Legal</a> </li>
-<li> <a class="footer-legal-link" href="http://www.intuit.co.uk/privacy-policy.jsp">Privacy</a> </li>
-<!--<li><a class="footer-legal-link" href="http://security.intuit.com/">Security</a></li>-->
-<li><a class="footer-legal-link" href="http://www.intuit.co.uk/terms-of-service.jsp">Terms of Service</a></li>
-<div id="cookie-info"></div>
-</ul>
-</div>
-</div>
-<div class="row copyright">
-<div class="span8">
-<p class="footer-legal-copy"> <span class="footer-legal-copyright">© 2015 Intuit Limited. All rights reserved.</span> Intuit and QuickBooks are registered trademarks of Intuit, Inc. Terms and conditions, features, support, pricing, and service options subject to change without notice. </p>
-</div>
-<div class="footer-legal-truste-logo-container">
-<a href="http://clicktoverify.truste.com/pvr.php?page=validate&amp;url=www.intuit.com&amp;sealid=101" target="_blank">
-<img alt="TRUSTe Certified Privacy" class="footer-sprite footer-truste-logo" height="91" src="//quickbooks-s3.intuitstatic.com/assets/harmony/images/tp.gif" width="31"></a>
-<!-- 
-<a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.intuit.co.uk"> <img class="footer-sprite footer-truste-logo" width="91" height="31" border="0" src="http://images.scanalert.com/meter/www.mcafee.com/12.gif" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"> </a>
--->
+
+
+	    </section>
+
+
+	        </div>
+	    </nav>
+
+
+      	    <section class="ccontainer legal-footer ">
+	          	    <section class="ccontainer footer-legal center-sm ">
+	           <div class="footer-legal-content">
+  <div class="row">
+    <div class="span6 col-xs-6 footer-branding">
+      <a class="footer-sprite footer-intuit-logo" data-wa-nav-link="ftr-global-intuitbrand" href="http://www.intuit.co.uk" title="Intuit">Intuit</a>
+    </div>
+    <div class="span6 col-xs-6 footer-legal-links-col">
+      <ul class="footer-legal-links">
+        <li><a href="https://developer.intuit.com/gb" class="footer-legal-link">Developers</a></li>
+          <li> <a href="http://www.intuit.co.uk/legal.jsp" class="footer-legal-link">Legal</a> </li>
+          <li> <a href="http://www.intuit.co.uk/privacy-policy.jsp" class="footer-legal-link">Privacy</a> </li>
+          <li><a href="http://www.intuit.co.uk/terms-of-service.jsp" class="footer-legal-link">Terms of Service</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="row copyright">
+    <div class="span8 col-xs-12 col-sm-8 ">
+      <p class="footer-legal-copy">
+        <span class="footer-legal-copyright">© <span id="footer-legal-copyright-year">2015 </span> Intuit Limited. All rights reserved.</span> Intuit and QuickBooks are registered trademarks of Intuit, Inc. Terms and conditions, features, support, pricing, and service options subject to change without notice.
+      </p>
+    </div>
+    <div class="span4 col-xs-12 col-sm-4  ">
+      <div class="footer-legal-truste-logo-container">
+          <a data-wa-nav-link="ftr-global-truste" href="http://clicktoverify.truste.com/pvr.php?page=validate&amp;url=www.intuit.com&amp;sealid=101">
+        <img alt="TRUSTe Certified Privacy" class="footer-sprite footer-truste-logo" height="91" src="//quickbooks-uk-s3.intuitstatic.com/assets/harmony/images/tp-f515383f114e629a2e1f7e1612ecd44b.gif" width="31"></a>
 <!-- McAfee Secure Trustmark for www.intuit.co.uk -->
 <a target="_blank" href="https://www.mcafeesecure.com/verify?host=www.intuit.co.uk"><img class="mfes-trustmark" border="0" src="//cdn.ywxi.net/meter/www.intuit.co.uk/101.gif" width="70" height="31" title="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
 <!-- End McAfee Secure Trustmark -->
+      </div>
+      </div>
+  </div>
 </div>
-</div>
-</div>
-</section>
-</div>
-</section>
-</footer>
-<!--
-<script type="text/javascript">
-if ($('#help-option-chat').has('img')) {
-$('#help-block').addClass('noshow');
-}
-</script>
--->
-<!--Start Cookie Script-->
-<!--
-<script type="text/javascript" charset="UTF-8" src="//cookie-script.com/s/9a48a394ab9f30f0ff140b0003a2bd06.js">
--->
-<script type="text/javascript" charset="UTF-8" src="http://intuitglobal.intuit.com/delivery/cms/prod/sites/default/intuit.co.uk-blaze/js/custom/cookieScript-v1.min.js"></script>
 
-<!--End Cookie Script-->
-<!--
-<style>
-#cookiescript_injected {
-border-top: #ccc 1px solid;
--webkit-box-shadow: none !important;
-box-shadow: none !important;
-}
-.footer-legal {
-padding: 30px 0 75px;
-}
-</style>
--->
-<!--TrackingCode - OpenCMS Tracking Services Configuration-->
-<!-- SiteCatalyst code version: H.20.3. Copyright 1997-2009 Adobe, Inc. More info available at http://www.Adobe.com -->
-<!--
-<script language="javascript" type="text/javascript" src="https://intuitglobal.intuit.com/delivery/cms/prod/sites/default/intuit.co.uk/js/s_code.js"></script>
-<script language="JavaScript" type="text/javascript">
-/* You may give each page an identifying name, server, and channel on
-the next lines. */
-s.prop7="en";
-/* Conversion Variables */
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s.t();if(s_code)document.write(s_code)
-</script>
-<script language="JavaScript" type="text/javascript">
-if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-</script>
-<noscript><a href="http://www.Adobe.com" title="WebAnalytics"><img src="intuitca-quickbookscouk.112.2O7.net/b/ss/intuitca-quickbookscouk/1/H.20.3--NS/0" height="1" width="1" border="0" alt="" /></a></noscript>
--->
-<!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: H.20.3. -->
-<!-- QUALAROO -->
-<!--
-<script type="text/javascript">var _kiq = _kiq || [];</script>
-<script type="text/javascript" src="//s3.amazonaws.com/ki.js/14595/2H3.js" async="true"></script>-->
+	    </section>
+
+
+	    </section>
+
+
+
+	    </section>
+       
+</footer>
+
+
+
+
+
+
+
+<script src="//quickbooks-uk-s3.intuitstatic.com/assets/harmony/assets/resp/standard_bottom_js/js/merged/js-2fa96778b465ca3737eeaa3bc0679463.js" type="text/javascript"></script>
+
+
+
+<iframe src="http://1996823.fls.doubleclick.net/activityi;src=1996823;type=fmsco864;cat=qboukpp1;u10=gb;ord=1;num=1580361735346?" width="1" height="1" frameborder="0" style="display:none" id="dfaFrame"> </iframe>
 <script>
-if (window.location.href.indexOf("sign-up") == -1 && window.location.href.indexOf("buy-now")==-1) {
-var _kiq = _kiq || [];
-var kiJs = document.createElement("script");
-kiJs.type = "text/javascript";
-kiJs.src = "http://s3.amazonaws.com/ki.js/14595/2H3.js";
-kiJs.async = "true";
-document.head.appendChild(kiJs);
-}
+    var url                 = "http://1996823.fls.doubleclick.net/activityi;src=1996823;";
+		var dfa_type            = "fmsco864";
+		var dfa_optional_params = "u10=gb";
+    var dfa_ord             = "1";
+    var dfa_cat             = "qboukpp1";
+		var rnd =  new Date().getTime();
+		ord = (dfa_ord)? (dfa_ord) : '1';
+		param_string = (dfa_optional_params)? dfa_optional_params + ';' : '';
+		url += "type=" + dfa_type + ";cat=" + dfa_cat + ";" + param_string  + "ord=" + dfa_ord + ";num=" + rnd + "?";
+		document.getElementById('dfaFrame').src = url;
 </script>
-<!-- CRAZY EGG -->
+
+
 <script type="text/javascript">
-if (window.location.href.indexOf("sign-up") == -1 && window.location.href.indexOf("buy-now")==-1) {
-setTimeout(function(){var a=document.createElement("script");
-var b=document.getElementsByTagName("script")[0];
-a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/1844.js?"+Math.floor(new Date().getTime()/3600000);
-a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
-}
+$(function($, window, document){
+  if (typeof Intuit.ShowRoomEnv === 'object') { return; }
+  window.Intuit && (window.Intuit.ShowRoomEnv = {});
+}(jQuery, window, document));
+window.Intuit.ShowRoomEnv.asset_host = "//quickbooks-uk-s3.intuitstatic.com"; 
+window.Intuit.locale = "en-GB";
 </script>
-<!-- 4Q -->
-<!-- Begin: 4q.iperceptions.com -->
-<script type="text/javascript">
-if (window.location.href.indexOf("sign-up") == -1 && window.location.href.indexOf("buy-now")==-1) {
-;(function (w, d, s, l) { var r = 100, js, fjs = d.getElementsByTagName(s)[0], id = "IPerceptionsJS", a = "async", b = "defer",go = function() { if(d.getElementById(id)) { return; } js = d.createElement(s);js.src = w.location.protocol + "//ips-invite.iperceptions.com/webValidator.aspx?sdfc=ab4c9b21-19907-bfbcb3ba-1e34-44f9-86cb-6a29a32d0807&lid=1&source=91787"; js.id = id; js.type = "text/javascript"; js[a] = a; js[b] = b; fjs.parentNode.insertBefore(js, fjs); }; if(r < Math.floor(Math.random() * 100)) { d.cookie = "IPE_S_19907=0;Path=/;" } else if(!(/(^|;)\s*IPE(_S_)?19907=/.test(d.cookie))){ go(); } })(window, document, "script", "load"); } </script>
-<!-- End: 4q.iperceptions.com -->
-<script language="JavaScript" type="text/javascript">
-var _gaq = _gaq || [];
-_gaq.push(['b._setAccount', 'UA-15555944-1']);
-_gaq.push(['b._setDomainName', '.intuit.co.uk']);
-_gaq.push(['b._setCampNameKey', 'priorityCode']); 
-_gaq.push(['b._setCampSourceKey', 'cnm']); 
-_gaq.push(['b._setCampMediumKey', 'src']); 
-if (typeof(pageNotFound) == 'undefined') { 
-_gaq.push(['b._trackPageview']);
-} else { 
-_gaq.push(['b._trackEvent', 'Page Not Found',pageNotFound,fromPage]);
-} 
-( function() {var ga = document.createElement('script'); 
-ga.type = 'text/javascript'; 
-ga.async = true;ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);})();
-</script>
-<!-- Google Analytics - v1.0 - Invoke -->
-<script type="text/javascript" src="https://intuitglobal.intuit.com/delivery/cms/prod/sites/default/intuit.co.uk-blaze/js/ga_invoke.js"></script>
-<!--endOf TrackingCode - OpenCMS Tracking Services Configuration-->
+
+
+
 
 
 </body></html>
