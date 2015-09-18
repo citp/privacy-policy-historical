@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xmlgold.eu privacy policy that was archived on 2011-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110218182650id_/http%3A//www.xmlgold.eu/en/site/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xmlgold.eu privacy policy that was archived on 2015-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150918103130id_/http%3A//www.xmlgold.eu/en/site/policy) for the most accurate reproduction.*
 
-# XML Gold - Policy Site
+# Policy Site
 
 ### Privacy Policy
 
