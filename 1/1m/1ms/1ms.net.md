@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1ms.net privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314234327id_/http%3A//1ms.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1ms.net privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919004709id_/http%3A//1ms.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 1ms.net
 
@@ -16,7 +16,7 @@ The Site may use cookie and tracking technology depending on the features offere
 We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes.
 
 **Third parties**  
-We use third-party companies to display ads on our pages and to track visitor statistics. These companies use information about your visits in order to provide advertisements for this site. Information that is NOT USED: personal information like your name, address, email or phone number; Information that is USED includes: your IP address, country based on your IP address, browser used, the page you are currently visiting, page you came from. Third parties use cookies to display ads based on your prior visits to our website. Google's use of the DART cookie enables it and its partners to display ads based on your prior visits to this website and other websites. You may opt out of the use of the DART cookie by [visiting the advertising opt-out page](http://www.google.com/policies/privacy/ads/)
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit[ networkadvertising.org](http://networkadvertising.org/). 
 
 Third parties and their privacy policies:  
 Google.com - advertising, visitor statistics, +1 Button; [privacy policy of Google.com](http://www.google.com/privacy.html), [Google +1 Button Privacy Policy](http://www.google.com/intl/en/privacy/plusone/)  
@@ -24,7 +24,7 @@ Facebook.com - fan page, FaceBook like, share and send buttons; [Facebook's Pri
 Twitter.com - Twitter tweet button; [Twitter Privacy Policy](http://twitter.com/privacy)   
 Pinterest .com - Pinterest pin button; [Pinterest Privacy Policy](http://pinterest.com/about/privacy/)
 
-We partner with ValueClick to serve ads and/or collect certain information when you visit our website. ValueClick may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioral advertising” practice or to opt-out of this use of your anonymous information, you can visit [http://valueclickmedia.com/member_privacy.shtml](http://valueclickmedia.com/member_privacy.shtml%20)
+We partner with ValueClick to serve ads and/or collect certain information when you visit our website. ValueClick may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioral advertising” practice or to opt-out of this use of your anonymous information, you can visit <http://valueclickmedia.com/member_privacy.shtml>
 
 **Privacy Contact Information**  
 If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:
