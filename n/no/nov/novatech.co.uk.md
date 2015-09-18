@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the novatech.co.uk privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317140935id_/http%3A//www.novatech.co.uk/privacyandsecurity.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novatech.co.uk privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919011521id_/http%3A//www.novatech.co.uk/privacyandsecurity.html) for the most accurate reproduction.*
 
 # Privacy and Security - novatech.co.uk
 
@@ -16,7 +16,7 @@ We may also use the information we collect to send you our monthly catalogue and
 
 We use a session cookie to remember your log-in details for you. We deem this strictly necessary to the working of this website and if these are disabled then various functionality of the site will be broken and you will be unable to place any orders.
 
-#### Persistent Cookies.
+#### Persistent Cookies. 
 
 We use persistent cookies to remember items you have placed in your shopping basket and items you have recently viewed. Again, we deem these strictly necessary for the working of the site and if these are disabled you would be unable to place an order.
 
@@ -44,14 +44,14 @@ Some emails that we send you have in tracking so that we can tell how much traff
 
 In order to leave a comment on our Blog or review a product you have to give us your Name and Email address. We require name and email addresses for quality control purposes.
 
-### Will Novatech disclose the information it collects to outside parties?
+#### Will Novatech disclose the information it collects to outside parties?
 
 We do not sell, trade, or rent your personal information to others. We may choose to do so in the future with reputable third parties, but you can tell us not to by sending a blank e-mail message to [nocontact@novatech.co.uk](mailto:nocontact@novatech.co.uk). (If you use more than one email address to shop with us, send this message from each e-mail account you use.) Novatech may also provide aggregate statistics about our customers, sales, traffic patterns and related site information to reputable third-party vendors, but these statistics will include no personally identifying information.
 
-### How do we protect customer information?
+#### How do we protect customer information?
 
 Novatech use many different industry standard security techniques to safeguard the confidentiality of your personal information. When you place orders or access your account information, you are connected to our secure server. We encrypt your information using SSL (secure socket layers) secure server software before it is sent to us. This ensures that your information can only be read by our secure server and cannot be unscrambled by any outside party. Your information is then stored on another secure server, which is not directly connected to the Internet. Furthermore, all information is collected lawfully and in accordance with the Data Protection Act 1988, registration no: PZ6599797. None of the thousands of customers who have purchased from Novatech have reported fraudulent use of their debit or credit cards as a result of purchasing from our website.
 
-### Safe Shopping Guarantee
+#### Safe Shopping Guarantee
 
 As a security guarantee, Novatech will cover the first £50 of any fraudulent use of your credit or debit card that results through no fault of your own from purchases made on the Novatech website. Your card company should limit any liability to yourself to £50 maximum.
