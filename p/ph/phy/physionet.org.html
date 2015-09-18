@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the physionet.org privacy policy that was archived on 2015-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150610002550id_/http%3A//www.physionet.org/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the physionet.org privacy policy that was archived on 2015-09-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150919014756id_/http%3A//physionet.org/privacy.shtml) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/DTD/html4/loose.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="X-UA-Compatible" content="chrome=1">
 
@@ -9,6 +9,7 @@
 
 <link rel="stylesheet" href="/pn/physionet.css" type="text/css" media="all">
 <link rel="stylesheet" href="/pn/print.css" type="text/css" media="print">
+
 <style type="text/css">
 
   
@@ -27,15 +28,18 @@ a[href^='http://physionet.org']
 <script type="text/javascript">
   $(document).ready(function(){
     $('ul.sf-menu').superfish({ autoArrows: false });
-    if ($('h2').length) { $('#toc').tableOfContents(null, { startLevel: 2 }); }
-    else { $('#toc').hide(); }
+
+    if ($('h2').length) {
+      $('#tocwrapper').append('<ul id="toc"></ul>');
+      $('#toc').tableOfContents(null, { startLevel: 2 });
+    }
+
   });
 </script>
 </head>
 <body>
 <div class="banner">
-<table width="100%" style="position: fixed; margin-left: -1em;
- background-color: #4a4;"><tbody>
+<table width="100%" style="position: fixed; z-index: 1; margin-left: -1em;  background-color: #4a4;"><tbody>
 <tr>
 <td style="min-width: 700px; padding: 0;">
 <div style="float: left; padding: 0.5em 2em 0.5em 0.5em;">
@@ -206,14 +210,11 @@ es, serif; font-variant: small-caps;"><b>PhysioNet</b>&nbsp;<img src="/pn/menu-d
     <li><a href="/mirrors/">Mirrors&nbsp;<img src="/pn/menu-right.gif"></a>
       <table><tbody><tr><td><ul>
       <li><a href="http://physionet.mit.edu/privacy.shtml">Cambridge, MA&nbsp;</a></li>
-      <li><a href="http://physionet.caregroup.harvard.edu/privacy.shtml">Boston, MA&nbsp;</a></li>
       <li><a href="http://physionet.nlm.nih.gov/privacy.shtml">Bethesda, MD&nbsp;</a></li>
-      <li><a href="http://physionet.cecst.com/privacy.shtml">San Antonio, TX&nbsp;</a></li>
       <li><a href="http://physionet.incor.usp.br/privacy.shtml">Sao Paulo, Brazil&nbsp;</a></li>
       <li><a href="http://physionet.ph.biu.ac.il/privacy.shtml">Ramat-Gan, Israel&nbsp;</a></li>
       <li><a href="http://physionet.cps.unizar.es/privacy.shtml">Zaragoza, Spain&nbsp;</a></li>
       <li><a href="http://physionet.fri.uni-lj.si/privacy.shtml">Ljubljana, Slovenia&nbsp;</a></li>
-      <li><a href="http://physionet.ics.forth.gr/privacy.shtml">Heraklion, Greece&nbsp;</a></li>
       <li><a href="http://physionet.comp.nus.edu.sg/privacy.shtml">NUS, Singapore&nbsp;</a></li>
       <li><a href="http://physionet.bcc.ac.cn/privacy.shtml">Beijing, China&nbsp;</a></li>
       <li><a href="/mirrors/mirror-howto.shtml">Setting up a mirror&nbsp;</a></li>
@@ -235,18 +236,13 @@ es, serif; font-variant: small-caps;"><b>PhysioNet</b>&nbsp;<img src="/pn/menu-d
 	   padding: 0.6em;
 	   margin: 0;">
 <script type="text/javascript">
-document.write("<form action=\"/search-results.shtml\" " +
-		      "id=\"searchbox_007405203507124691154:xfntrbzi-tu\"> " +
-	       "<input type=\"hidden\" name=\"cx\" " +
-	              "value=\"007405203507124691154:xfntrbzi-tu\" /> " +
-	       "<input type=\"hidden\" name=\"cof\" value=\"FORID:11\" /> " +
+document.write("<form action=\"/search-results.shtml\"> " +
 	       "<input type=\"text\" name=\"q\" size=\"25\" /> " +
 	       "<input type=\"submit\" name=\"sa\" value=\"Search\" /> " +
 	       "</form>");
-</script><form action="/search-results.shtml" id="searchbox_007405203507124691154:xfntrbzi-tu"> <input type="hidden" name="cx" value="007405203507124691154:xfntrbzi-tu"> <input type="hidden" name="cof" value="FORID:11"> <input type="text" name="q" size="25"> <input type="submit" name="sa" value="Search"> </form>
-
+</script><form action="/search-results.shtml"> <input type="text" name="q" size="25"> <input type="submit" name="sa" value="Search"> </form>
 <noscript>
-<form action='http://www.google.com/search' id='searchForm'>
+<form action='https://www.google.com/search' id='searchForm'>
   <div>
     <input name='q' type='hidden' value='site:physionet.org' />
     <input name='q' size='25' type='text' />
@@ -264,16 +260,18 @@ document.write("<form action=\"/search-results.shtml\" " +
 from <b>PhysioNet</b>, the research resource for complex physiologic signals
 </center>
 </div>
-<a name="top"><div style="min-width: 700px; margin: 0 0 0.4em;
+<a name="top"><div style="min-width: 700px; margin: 0 0 0 .4em;
 			  background-color: #4a4;
 			  padding: 1px"><br><hr></div></a>
 
  <h1>PhysioNet Privacy Policy</h1>
 
-<div style="padding: 1.5em 0;">
 
-<ul id="toc" style="display: none;"></ul>
+<div id="tocwrapper" style="padding: 1.5em 0 0 0; float: right;"> <!-- id to position toc added by KP, 6 July 2015 -->
+</div>
 
+
+<div id="page">  <!-- added by KP, 12 June 2015 -->
 
 
 <p>
