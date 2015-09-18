@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hamaraphotos.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611203921id_/http%3A//hamaraphotos.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hamaraphotos.com privacy policy that was archived on 2015-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150918192053id_/http%3A//hamaraphotos.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for www.hamaraphotos.com
 
@@ -65,17 +65,7 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: 
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: admin@hamaraphotos.com
 
-Hamara Photos   
-http://hamaraphotos.com   
-D-410, Chandrakiran, 42,   
-Netaji Road Frazer Town,   
-Bangalore – 560005   
-India 
-
-Contact No: 96320-16526 (9.00 AM to 9.00 PM IST)  
-Email: admin@hamaraphotos.com 
-
-This policy was last updated on 7th September 2011.  
+This policy was last updated on 1st January 2015.  
 
