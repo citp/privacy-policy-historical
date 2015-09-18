@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articletopia.net privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628161745id_/http%3A//articletopia.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articletopia.net privacy policy that was archived on 2015-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150918213601id_/http%3A//articletopia.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Aricletopia.net
 
