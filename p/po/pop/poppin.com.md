@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poppin.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613062820id_/http%3A//www.poppin.com/Info-Pages/Your-Rights.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poppin.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919005633id_/http%3A//www.poppin.com/Info-Pages/Your-Rights.html) for the most accurate reproduction.*
 
 # Your Privacy Rights
 
