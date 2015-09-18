@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the porch.com privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529074917id_/https%3A//porch.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porch.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919015346id_/https%3A//porch.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Porch
 
-### Effective Date December 11, 2014
+### Effective Date July 10, 2015
 
 ## Privacy Policy Overview
 
-**_Overview._** Porch.com, Inc., a Delaware corporation, and our affiliates (collectively, ?Porch,? ?we,? ?us?), are providing this Privacy Policy (?Privacy Policy?) with respect to all of our Services, all of which are hosted in the United States. This Privacy Policy describes our collection, use and disclosure of information that we receive when you use our Services. All terms used in this Privacy Policy that are not defined herein have the meanings set forth in our Terms of Use.
+**_Overview._** Porch.com, Inc., a Delaware corporation, and our affiliates (collectively, "Porch," "we," "us"), are providing this Privacy Policy ("Privacy Policy") with respect to all of our Services, all of which are hosted in the United States. This Privacy Policy describes our collection, use and disclosure of information that we receive when you use our Services. All terms used in this Privacy Policy that are not defined herein have the meanings set forth in our Terms of Use.
 
 **_Privacy Policy Updates._** We may update this Privacy Policy from time to time to reflect changes to our information practices by updating this page and the Privacy Policy effective date above. Your continued use of the Services after the date the Privacy Policy is changed (or the posted effective date, if later) will constitute your acceptance and agreement to such changes.
 
 **_Information You Provide._** When using the Services, you may provide information about yourself, including name, address, telephone number, email address, and payment details in connection with a potential transaction. You may provide this information, for example, when you create an account, post User Submissions, request products or services, communicate with a Pro, or complete other forms. In addition, if you are a Pro, you may provide information about yourself or company, including for example, details to complete your account, User Submissions, and reference information.
+
+**_Information We Collect From all Users._**
 
 _Cookie Data._ Cookies (small data files that can be transferred to your electronic device to uniquely identify your browser) are used by the Services to connect your activity on the Services with other information we store about you in your account profile or from prior usage of the Services. For example, the use of cookies allows us to improve our Services by tracking saved searches, understanding your use of various features and functionality, measuring the effectiveness of advertising and otherwise creating a consistent user experience for you. At any time, you may adjust your browser settings to delete existing cookies, or refuse new cookies, according to the method permitted by your browser. If you choose to disable cookies, some of the Services may not operate properly.
 
@@ -22,13 +24,17 @@ _Location Data._ If you provide location information during the registration pro
 
 _Telephone Calls._ From time to time, when you call us, when we call you, or when we forward calls between users and Pros, we may record those calls for quality assurance and customer satisfaction purposes. In those jurisdictions where consent is required for a party to record a telephone call, you consent to us recording such calls.
 
-**_Information Collected by Third Parties._** Our service providers and advertising networks use cookies, web beacons or similar technologies to collect information about your use of the Services (including mobile applications) and your online activities over time and across different web sites. Collected information may include the content you review, the date and time you view content, and the referring web site, which information may be associated with your unique browser, device identifier or IP address. Cookies may be used, for example, to deliver targeted ads or analyze visitor activity. The use of cookies or similar technologies by our service providers and advertising networks is not covered by our Privacy Policy. Your browser may offer you a "Do Not Track" option, which allows you to signal to operators of websites and other properties that you do not wish such operators to track certain of your online activities. Our Services do not support Do Not Track requests at this time.
+**_Information Collected by Porch and Third Parties._**
 
-**_Information We Collect From Third Parties._** We may obtain information about you from third parties and use it to provide a customized experience, to suggest products or services that might be of interest to you, or to supplement or correct information that you have provided to us, and generally to improve our Services.
+_Online Activity._ Our service providers and advertising networks use cookies, web beacons or similar technologies to collect information about your use of the Services (including mobile applications) and your online activities over time and across different web sites. Collected information may include the content you review, the date and time you view content, and the referring web site, which information may be associated with your unique browser, device identifier or IP address. Cookies may be used, for example, to deliver targeted ads or analyze visitor activity. The use of cookies or similar technologies by our service providers and advertising networks is not covered by our Privacy Policy. Your browser may offer you a "Do Not Track" option, which allows you to signal to operators of websites and other properties that you do not wish such operators to track certain of your online activities. Our Services do not support Do Not Track requests at this time.
+
+_Offline Activity._ Porch and Pros may collect text, photos, videos, measurements, comments, reviews, feedback, notes, ideas, know-how, techniques, data or information of any nature whatsoever before, during or after the provision of Services, or otherwise in connection with the Services, relating to you, your household, your real or personal property or otherwise.
+
+**_Information We Obtain From Third Parties._** We may obtain information about you from third parties and use it to provide a customized experience, to suggest products or services that might be of interest to you, or to supplement or correct information that you have provided to us, and generally to improve our Services. 
 
 Any information we collect from you may be used in the following ways:
 
-  * To provide and improve our Services to you;
+  * To provide and improve our Services;
   * To personalize your experience so that you may find the most relevant information;
   * To manage our customer relationship with you and to improve customer service;
   * To process transactions;
@@ -54,9 +60,9 @@ Your privacy is important to us and we are committed to protecting your informat
 
 **_Sale/Merger:_** If we become party to a merger, acquisition, joint venture, sale or pledge of assets, securities offering, bankruptcy, reorganization, liquidation, dissolution or other transaction or if the ownership of all or substantially all of our business changes, we may share or transfer your information to a third party or parties in connection therewith.
 
-Section 1798.83 of the California Civil Code permits California residents to request from a business, with whom the California resident has an established business relationship, certain information about the types of personal information the business has shared with third parties for those third parties' direct marketing purposes and the names and addresses of the third parties with whom the business has shared such information during the immediately preceding calendar year. You may make one request each year by emailing us at support@porch.com or writing us at 1551 Eastlake Ave E, Suite 275, Seattle, WA 98102.
+Section 1798.83 of the California Civil Code permits California residents to request from a business, with whom the California resident has an established business relationship, certain information about the types of personal information the business has shared with third parties for those third parties' direct marketing purposes and the names and addresses of the third parties with whom the business has shared such information during the immediately preceding calendar year. You may make one request each year by emailing us at [support@porch.com](mailto:support@porch.com) or writing us at 2200 1st Ave South, Seattle, WA 98134.
 
-**_Changing Information; Closing Account._** To change or delete your information, you may login to your account and modify or remove specified information that resides in your account. If you want to delete your account, please contact us at support@porch.com. Please note that although Porch will remove your account within a reasonable time after receiving your request, information that you chose to provide in a public area of the Services may remain in accounts of users with whom such information has been shared, and Porch may retain and use information in backup/archival copies for our records as necessary to comply with our legal obligations, resolve disputes and enforce our agreements.
+**_Changing Information; Closing Account._** To change or delete your information, you may login to your account and modify or remove specified information that resides in your account. If you want to delete your account, please contact us at [support@porch.com](mailto:support@porch.com). Please note that although Porch will remove your account within a reasonable time after receiving your request, information that you chose to provide in a public area of the Services may remain in accounts of users with whom such information has been shared, and Porch may retain and use information in backup/archival copies for our records as necessary to comply with our legal obligations, resolve disputes and enforce our agreements.
 
 **_Children._** The Services are not directed to children under 13, and we do not knowingly collect or store any personally identifiable information about persons under the age of 13. If we learn that we have collected personally identifiable information of a child under 13, we will take steps to delete such information from our files as soon as practicable.
 
@@ -64,4 +70,4 @@ Section 1798.83 of the California Civil Code permits California residents to req
 
 **_Security._** We use commercially reasonable security measures to protect the loss, misuse, and alteration of the information under our control. For example, when you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer (SSL) technology. However, no method of transmitting information over the Internet or storing information is completely secure. Accordingly, we cannot guarantee the protection of any information shared with us.
 
-**_Contacting Us._** If you have any questions or suggestions regarding our Privacy Policy, please contact us by email at [support@porch.com](mailto:support@porch.com) or in writing at 1551 Eastlake Ave E, Suite 275, Seattle, WA 98102.
+**_Contacting Us._** If you have any questions or suggestions regarding our Privacy Policy, please contact us by email at [support@porch.com](mailto:support@porch.com) or in writing at 2200 1st Ave South, Seattle, WA 98134.
