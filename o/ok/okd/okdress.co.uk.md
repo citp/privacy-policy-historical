@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the okdress.co.uk privacy policy that was archived on 2015-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150406031248id_/http%3A//www.okdress.co.uk/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the okdress.co.uk privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919084059id_/http%3A//www.okdress.co.uk/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
