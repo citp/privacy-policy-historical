@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quixapp.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318115537id_/https%3A//www.quixapp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quixapp.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919131901id_/https%3A//www.quixapp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Quix
 
