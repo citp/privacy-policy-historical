@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cwjobs.co.uk privacy policy that was archived on 2015-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150421000102id_/http%3A//www.cwjobs.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cwjobs.co.uk privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919225212id_/http%3A//www.cwjobs.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -10,7 +10,7 @@ Personal data which you supply to us may be transferred to third party service p
 
 As a Registered User and based on the preferences you share at registration, you may also occasionally receive information on whitepapers, products, services, special deals and newsletters from third parties
 
-Privacy policy update (Last updated 4 Dec 2014)
+Privacy policy update (Last updated 13 July 2015)
 
 **Registration details**   
 Contact and other job advertisement details you supply as part of the CWJobs.co.uk Credit Card posting process are stored by us and used to provide you with the services you have requested. Please note that although we require customers who use our services, such as employers seeking to recruit staff, to agree to use the information made available solely for recruitment-related purposes, we do not control their use of any information that they have access to as part of receiving our services.
@@ -24,7 +24,7 @@ CWJobs.co.uk will also use the aggregate data to identify employment trends acro
 
 Some of our customers may be located in countries outside the European Economic Area. 
 
-When you 'apply online', we store some information about you in your 'my CWJobs' area, but it is protected by your password and may only be accessed by you. It does not form part of our CWJobs.co.uk candidate database and cannot be searched or accessed by CWJobs.co.uk customers. You can delete your 'my CWJobs' account at any time. Your CV can only be viewed by a CWJobs.co.uk customer if you have consented to this within the profile section. 
+When you 'apply online', we store some information about you in your 'My CWJobs' area, but it is protected by your password and may only be accessed by you. When your profile is searchable your application activity (number of applications, job titles, locations & salaries) will be visible to totaljobs customers. CWJobs does not verify the names of organisations you applied to. We will respect the choices you make to limit sharing or visibility settings in your “My CWJobs” account. You can delete your 'My CWJobs' account at any time, make your profile anonymous or choose to not make your profile searchable. Your CV can only be viewed by a CWJobs.co.uk customer if you have consented to this within the profile section.
 
 If you choose to create a profile and upload a CV to our database, we rely on you to ensure that your details are kept up to date. You should update your CV at least every six months, particularly if your contact details have changed. 
 
