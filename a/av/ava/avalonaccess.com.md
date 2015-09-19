@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avalonaccess.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315032824id_/https%3A//www.avalonaccess.com/Home/PublicPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avalonaccess.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919100604id_/https%3A//www.avalonaccess.com/Home/PublicPrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -29,7 +29,7 @@ When you visit the Web Site, we automatically collect certain information about 
   * A **_web beacon_** is a small, often invisible, graphic element included in a web page or e-mail. It allows the party that set the web beacon to monitor and collect certain limited information about the viewer of the web page or e-mail message (such as the type of browser downloading the web beacon, the IP address of the computer that the web beacon is sent to and the time the web beacon was viewed, as well as the URL of the page the web beacon comes from). We may use web beacons for many purposes, such as to count visitors to the Web Site, or to monitor how visitors navigate the Web Site, and we may include web beacons or similar technologies in e-mails in order to count how many e-mails (or particular articles, links, etc.) we sent were actually opened.
   
 
-  * An **_embedded scrip_** is programming code that is designed to collect information about your interactions with the Web Site. It is temporarily downloaded onto your computer from our Web server or a third party we work with, is active only while you are connected to the Web Site, and is deleted thereafter.  
+  * An **_embedded script_** is programming code that is designed to collect information about your interactions with the Web Site. It is temporarily downloaded onto your computer from our Web server or a third party we work with, is active only while you are connected to the Web Site, and is deleted thereafter.  
 Web Site Usage Information is frequently anonymous information, since it is not normally associated with you or your identity. It may be used for a number of purposes, such as system administration, to help us understand the demographics of the visitors to the Web Site, to enhance the performance and usefulness of the Web Site, to report aggregate information to our business partners, or to audit use of the Web Site. If Web Site Usage Information is combined with your Personal Information in a manner that it is directly associated with your identity, then it will be treated as Personal Information under this Privacy Policy.
 
 
@@ -83,6 +83,30 @@ Please note that in accordance with our routine corporate record-keeping practic
  **SECURITY OF PERSONAL INFORMATION**
 
 While we take reasonable steps to secure your Personal Information, no data transmission over the Internet can be guaranteed to be completely secure. Likewise, no storage or processing of your Personal Information on the Web Site or on other servers or databases to which the information may be transferred can be guaranteed to be completely secure. Please consider this prior to submitting your Personal Information to us via the Web Site.
+
+We use current security measures to safeguard your personal information:
+
+  
+
+
+  * All of the personal information you provide us is stored in a secure computing environment protected by secure firewalls and intrusion prevention systems to avert unauthorized access.
+  
+
+  * We protect the confidentiality of your data by encrypting sensitive information.
+  
+
+  * We build information security into our systems and networks using internationally recognized security standards, regulations, and industry-based best practices.
+  
+
+  * We control access so that only people who need to access the information are able to. All staff of AvalonBay Communities, Inc. are required to adhere to our policies on confidentiality and security.
+  
+
+  * When you access secure areas of our web sites, we use the Secure Sockets Layer (SSL) protocol to provide you with the safest, most secure web experience possible. SSL technology enables encryption (scrambling) of sensitive information, including passwords and banking information, during your online session. There are two cues to show you that you are using a secure area. First, the web site address (or URL) appears as https:// (instead of just http://) - the "s" is for "secure." Second, a lock or key indicator appears in the status bar of your web browser. We use https:// only for secure pages, i.e. pages that transfer confidential information. Pages that are only used for product offerings will still use the regular http:// since no sensitive information is being passed through them.
+  
+
+  * Secure areas of the site have a time-out feature. If you leave your secure session inactive for some time, it times-out to prevent unauthorized access.
+
+
 
  **THIRD PARTY CONTENT**
 
