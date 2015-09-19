@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joyjam.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509042616id_/http%3A//www.miniworldgames.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joyjam.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919190458id_/http%3A//miniworldgames.com/privacy) for the most accurate reproduction.*
 
 # Privacy | MiniWorldGames
 
@@ -16,11 +16,11 @@ We do update this Policy from time to time so please do review this Policy regul
 
 In running and maintaining our website we may collect and process the following data about you:
 
-\- Information about your use of our site including details of your visits such as pages viewed and the resources that you access. Such information includes traffic data, location data and other communication data.
+– Information about your use of our site including details of your visits such as pages viewed and the resources that you access. Such information includes traffic data, location data and other communication data.
 
-\- Information provided voluntarily by you. For example, when you register for information or make a purchase.
+– Information provided voluntarily by you. For example, when you register for information or make a purchase.
 
-\- Information that you provide when you communicate with us by any means.
+– Information that you provide when you communicate with us by any means.
 
 **Use of Cookies  
 **Cookies provide information regarding the computer used by a visitor. We may use cookies where appropriate to gather information about your computer fin order to assist us in improving our website.
@@ -35,11 +35,11 @@ Our advertisers may also use cookies, over which we have no control.  Such cook
 
 We use the information that we collect from you to provide our services to you.  In addition to this we may use the information for one or more of the following purposes:
 
-\- To provide information to you that you request from us relating to our products or services.
+– To provide information to you that you request from us relating to our products or services.
 
-\- To provide information to you relating to other products that may be of interest to you. Such additional information will only be provided where you have consented to receive such information.
+– To provide information to you relating to other products that may be of interest to you. Such additional information will only be provided where you have consented to receive such information.
 
-\- To inform you of any changes to our website, services or goods and products.
+– To inform you of any changes to our website, services or goods and products.
 
 If you have previously purchased goods or services from us we may provide to you details of similar goods or services, or other goods and services, that you may be interested in.
 
@@ -55,11 +55,11 @@ Unfortunately the sending of information via the internet is not totally secure 
 
 We will not disclose your personal information to any other party other than in accordance with this Privacy Policy and in the circumstances detailed below:
 
-\- In the event that we sell any or all of our business to the buyer.
+– In the event that we sell any or all of our business to the buyer.
 
-\- Where we are legally required by law to disclose your personal information.
+– Where we are legally required by law to disclose your personal information.
 
-\- To further fraud protection and reduce the risk of fraud.
+– To further fraud protection and reduce the risk of fraud.
 
 **Third Party Links  
 **On occasion we include links to third parties on this website. Where we provide a link it does not mean that we endorse or approve that site’s policy towards visitor privacy. You should review their privacy policy before sending them any personal data.
