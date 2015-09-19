@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coinsecure.in privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404005734id_/https%3A//coinsecure.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coinsecure.in privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919194404id_/https%3A//coinsecure.in/privacy) for the most accurate reproduction.*
 
 # Coinsecure | Home
 
