@@ -1,23 +1,74 @@
-> *The following text is extracted and transformed from the mydiet.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403104433id_/http%3A//www.metabolife.com/contact/default.jsp%3Fid%3D95) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydiet.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919140100id_/http%3A//www.mydiet.com/mydiet-privacy-policy) for the most accurate reproduction.*
 
-# Metabolife
+# MyDiet.com Privacy Policy - MyDiet
 
-Metabolife's Privacy Policy Metabolife respects the privacy of every individual who visits our web site and we are strongly committed to protecting their personal information. Please take a moment to read the following policy statement to understand how METABOLIFE collects, uses and safeguards the personal information you provide to us on the web site. This policy may change from time to time, so please check back periodically. 
+This privacy policy sets out how MyDiet.com uses and protects any information that you give while using www.mydiet.com
 
-GENERAL INFORMATION ABOUT ALL METABOLIFE.COM VISITORS  
-As a visitor to Metabolife's web site, you are anonymous to the company. Like many other commercial web sites, Metabolife may use a standard technology called a "cookie" that measures the number of visitors to the different sections of the web site. Cookies are designed, generally, to collect and store the name of the domain from which you access the Internet (e.g., aol.com, if you are connecting from an American Online account), the date and time you access Metabolife's site, and the Internet address of the web site from which you linked directly to Metabolife's site. Metabolife uses the information collected by cookies to improve its site and make it more useful to visitors. Metabolife's cookies do not collect personal information. 
+Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-INFORMATION ABOUT YOU  
-Sometimes Metabolife may ask you to provide specific information when you order a product online, enter a sweepstakes or otherwise contact us. In this case, Metabolife needs the information, such as name, internet and/or e-mail address, billing address, shipping address, telephone number, credit card number, etc., in order to respond to your request or contact you. When obtaining information from you, Metabolife will ask only for the information we need to provide the product or information you have requested.  While Metabolife may use customer information to improve our site, or for other internal purposes, you may rest assured that Metabolife will never misuse the information you provide. 
+MyDiet.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from December, 9.2014.
 
-DISCLOSURE OF YOUR PERSONAL INFORMATION  
-Metabolife does not sell or otherwise share any customer information with marketers outside Metabolife who may want to offer you their own products and services. However, Metabolife may give such information to other companies or individuals to perform functions on our behalf.  Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, analyzing information on our customer lists, providing marketing assistance, and providing customer service. In those situations, the outside party is performing work for Metabolife, and Metabolife takes appropriate steps designed to ensure your information is used only to provide the services requested by Metabolife, and not for other purposes.  Metabolife may also disclose your personal information when we believe such disclosure is appropriate to comply with the law, to enforce our rights or with your prior consent. 
+**What we collect**
 
-Metabolife recognizes that certain information that you provide to Metabolife through the web site or by other means may be of a particularly sensitive nature.  With regard to such confidential information, Metabolife respects the privacy rights of its customers.  Metabolife will not share such information with anyone outside Metabolife unless compelled by law to do so, and in the event of such compulsion, Metabolife will undertake its best efforts to limit disclosure to the extent permitted by law.
+We may collect the following information:
 
-We want to know what you think about our products and us. We invite you to complete the Feedback form below. Include your comments about products, our Web site (broken link, inappropriate image, etc.) or anything else you may be interested in telling us. Click here if you have a [health or product question](https://web.archive.org/healthyliving/healthquestions.jsp) or if you'd like to send us your [success story](https://web.archive.org/successstories/tellUsYourStory.jsp). 
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
-*Required fields 
 
-  
 
+**What we do with the information we gather**
+
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+
+
+
+**Security**
+
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+**How we use cookies**
+
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+We have enabled Google Analytics Demographics and Interest Reporting on our website. This means that by visiting this site, data such as your age, gender and interest are collected and may be used by 3rd party advertisers to better target their advertising campaigns.
+
+[You can opt out](https://www.google.com/settings/ads) of Google Analytics for Display Advertising and customize Google Display Network ads.
+
+**Advertising**
+
+Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. We may use advertising service vendors to help present advertisements on the website, one of which is [http://www.gourmetads.com](http://www.gourmetads.com/). These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Mydiet.com disclaims all liability in connection therewith.
+
+MyDiet.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for website owners to earn advertising fees by advertising and linking to amazon.com, endless.com, smallparts.com, myhabit.com, and any other website that may be affiliated with Amazon Service LLC Associates Program.
+
+**Links to other websites**
+
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+**Controlling your personal information**
+
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us.
+
+
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+**Opt Out**
+
+For information about opting out of Gourmet Ads and ad serving partners please visit <http://www.gourmetads.com/about/privacy-policy>
+
+If you believe that any information we are holding on you is incorrect or incomplete, please contact us.
