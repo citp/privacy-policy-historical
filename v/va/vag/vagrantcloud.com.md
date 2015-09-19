@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vagrantcloud.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320171445id_/https%3A//atlas.hashicorp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vagrantcloud.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919135339id_/https%3A//atlas.hashicorp.com/privacy) for the most accurate reproduction.*
 
-# Atlas by HashiCorp
+# Privacy Policy | Atlas by HashiCorp
 
 We at **_HashiCorp, Inc_**. ("Company", "we", "us", "our") know that our users ("you", "your") care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. **By visiting or using the Website or Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways.** Any capitalized terms used herein without definition shall have the meaning given to them in the [Company Terms of Use](https://atlas.hashicorp.com/terms). 
 
