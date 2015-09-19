@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thrivelife.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616224111id_/http%3A//www.thrivelife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thrivelife.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919220425id_/http%3A//www.thrivelife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
     
 
-At Thrive Life, we recognize the importance of your personal privacy. In the paragraphs below, you'll find basic information about the types of personal information we receive and collect when you use Thrive Life's services, as well as some of the steps we take to safeguard information. If you have any additional questions or comments about our policy, please feel free to [contact us](http://beta.shelfreliance.com/contact-us).
+At Thrive Life, we recognize the importance of your personal privacy. In the paragraphs below, you'll find basic information about the types of personal information we receive and collect when you use Thrive Life's services, as well as some of the steps we take to safeguard information. If you have any additional questions or comments about our policy, please feel free to [contact us](http://beta.thrivelife.com/contact-us).
 
 Our site's registration form requires you to give us contact information (like your name and email address) and a unique identifier (your login name). Your contact information is used to contact you only when necessary. Unique identifiers are collected for use as account numbers in our record system. Passwords are used for authenticating your access to the site and modifying your personal information.
 
