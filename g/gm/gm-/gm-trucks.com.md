@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gm-trucks.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701103049id_/http%3A//www.gm-trucks.com/forums/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gm-trucks.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919134359id_/http%3A//www.gm-trucks.com/forums/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - GM-Trucks.com
 
