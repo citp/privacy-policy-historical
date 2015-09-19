@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pickcrew.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317123614id_/https%3A//pickcrew.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pickcrew.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919233717id_/http%3A//crew.co/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Crew
 
-At 7943067 Canada Inc. (dba Crew) ( **“Crew”** or **“we”** ), we recognize the need to protect the privacy of the personal information we collect or you provide to us when you access and use our website ([www.pickcrew.com](https://pickcrew.com/)) (the **“Website”** ).
+At 7943067 Canada Inc. (dba Crew) ( **“Crew”** or **“we”** ), we recognize the need to protect the privacy of the personal information we collect or you provide to us when you access and use our website (www.crew.co) (the **“Website”** ).
 
 Therefore, we have adopted this privacy policy (the “Privacy Policy”), which sets forth, among other things, the type of information that will be collected, the purpose and use of the collected information, and your rights with regard to the collected information. By accessing the Website, you are consenting to the collection and the use of your information by Crew, but only to the extent described herein. Should you wish to revoke your consent, you may do so in accordance with the provisions of Section 4 below.
 
@@ -36,9 +36,9 @@ Crew may make modifications, deletions and/or additions to this Privacy Policy (
 
 
 
-**3\. Right to Examine Information.** You have the right to examine any of your Personal Information that we collect. Should you wish to examine such information, please send us a written request to [support@pickcrew.com](mailto:support@pickcrew.com). We reserve the right to charge you a reasonable administrative fee to access your information, as permitted by applicable law. In certain cases we may not be able to provide you with access to all of your Personal Information (ex: if the information also pertains to the Personal Information of another user)
+**3\. Right to Examine Information.** You have the right to examine any of your Personal Information that we collect. Should you wish to examine such information, please send us a written request to [support@crew.co](mailto:support@crew.co). We reserve the right to charge you a reasonable administrative fee to access your information, as permitted by applicable law. In certain cases we may not be able to provide you with access to all of your Personal Information (ex: if the information also pertains to the Personal Information of another user)
 
-**4\. Withdrawal of Consent.** You may withdraw your consent to the collection of Personal Information at any time by sending a written request to [support@pickcrew.com](mailto:support@pickcrew.com). Upon receiving notice that you have revoked your consent, we will stop using your Personal Information within a reasonable time, which will vary depending on what information we have collected and for what purpose. Please note that we will send you an email confirmation upon receipt of your request. Therefore, if you do not receive a confirmation email, please contact us again with your request. If you do choose to withdraw such consent, your experience on the Website may be diminished, or your ability to choose some of the options on the Website or the services provided therein may be limited.
+**4\. Withdrawal of Consent.** You may withdraw your consent to the collection of Personal Information at any time by sending a written request to [support@crew.co](mailto:support@crew.co). Upon receiving notice that you have revoked your consent, we will stop using your Personal Information within a reasonable time, which will vary depending on what information we have collected and for what purpose. Please note that we will send you an email confirmation upon receipt of your request. Therefore, if you do not receive a confirmation email, please contact us again with your request. If you do choose to withdraw such consent, your experience on the Website may be diminished, or your ability to choose some of the options on the Website or the services provided therein may be limited.
 
 **5\. Sharing Information.** We will not sell, rent or disclose to outside parties the information we collect, save and except that we may share the collected information with other parties as follows:
 
@@ -59,8 +59,8 @@ Crew may make modifications, deletions and/or additions to this Privacy Policy (
 
 **7\. International Transfer.** Your information may be transferred to and maintained on computers located outside of your jurisdiction, where privacy laws may not be as protective as your jurisdiction. Your consent to this Privacy Policy represents your consent to any such transfer.
 
-**8\. Terms of Use.** This Privacy Policy is incorporated into and forms part of the Terms of Use, which outlines the terms and conditions you agree to when accessing and using the Website, and which can be found here: (<https://pickcrew.com/terms)[pickcrew.com/terms>].
+**8\. Terms of Use.** This Privacy Policy is incorporated into and forms part of the Terms of Use, which outlines the terms and conditions you agree to when accessing and using the Website, and which can be found here: [crew.co/terms](https://crew.co/terms)
 
 **9\. Persons Under 18.** The Website is not marketed toward persons under the age of 18. If Crew discovers that it has inadvertently collected Personal Information about individuals under the age 18, it will promptly delete such information.
 
-_Should you have any questions or comments concerning this Privacy Policy, please do not hesitate to contact us at[support@pickcrew.com](mailto:support@pickcrew.com)._
+_Should you have any questions or comments concerning this Privacy Policy, please do not hesitate to contact us at[support@crew.co](mailto:support@crew.co)._
