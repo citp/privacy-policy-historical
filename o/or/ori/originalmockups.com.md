@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the originalmockups.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314233255id_/http%3A//originalmockups.com/support/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the originalmockups.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919131714id_/http%3A//originalmockups.com/support/privacy-statement) for the most accurate reproduction.*
 
 # Original Mockups - Privacy Statement
 
