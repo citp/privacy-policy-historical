@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stellartalk.org privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315043705id_/https%3A//stellartalk.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stellartalk.org privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920012204id_/https%3A//stellartalk.org/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - StellarTalk
 
