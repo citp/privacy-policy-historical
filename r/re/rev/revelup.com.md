@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the revelup.com privacy policy that was archived on 2015-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150216174603id_/http%3A//revelup.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revelup.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919090349id_/http%3A//revelsystems.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Revel Systems - iPad POS System
+# Privacy Policy | Revel Systems iPad POS
 
 ## Revel Systems Privacy Policy
 
