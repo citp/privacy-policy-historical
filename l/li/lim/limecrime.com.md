@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the limecrime.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627183336id_/http%3A//www.limecrime.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limecrime.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919095905id_/https%3A//www.limecrime.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy
 
 Lime Crime understands that the privacy of your personal information is important to you, so we have established privacy policies and practices. This notice explains how your data will be used and shared by Lime Crime. By visiting Limecrimemakeup.com or limecrime.com, you accept the policies and practices described in this Privacy Notice.
 
