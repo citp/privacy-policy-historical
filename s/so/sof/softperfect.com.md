@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the softperfect.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316131903id_/https%3A//www.softperfect.com/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softperfect.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919132149id_/https%3A//www.softperfect.com/company/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-At SoftPerfect Research, your security and privacy is of the utmost importance to us. This policy describes how we collect, use and protect your personal information.
+At SoftPerfect, your security and privacy is of the utmost importance to us. This policy describes how we collect, use and protect your personal information.
 
 ## Information
 
@@ -14,7 +14,7 @@ We also collect general, non-personal information about visitors to our website.
 
 ## Credit card purchases
 
-If you use a credit card to purchase a SoftPerfect Research product, both your credit card number and your personal details are encrypted as they traverse the Internet. Your credit card number is not kept or recorded by SoftPerfect Research. It is passed directly to the credit card company for processing the purchase of the product(s). In this respect, buying a product from SoftPerfect Research is similar to a credit card purchase at any store.
+If you use a credit card to purchase a SoftPerfect product, both your credit card number and your personal details are encrypted as they traverse the Internet. Your credit card number is not kept or recorded by SoftPerfect. It is passed directly to the credit card company for processing the purchase of the product(s). In this respect, buying a product from SoftPerfect is similar to a credit card purchase at any store.
 
 ## Third-party advertisements
 
