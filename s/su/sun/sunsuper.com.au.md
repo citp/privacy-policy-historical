@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunsuper.com.au privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609012719id_/http%3A//www.sunsuper.com.au/content/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunsuper.com.au privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919030917id_/http%3A//www.sunsuper.com.au/content/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
