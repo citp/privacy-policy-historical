@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the safishing.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623133252id_/http%3A//safishing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safishing.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919154516id_/https%3A//safishing.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - SA TEAM
 
-This Privacy Policy governs the manner in which Salt Armour collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.SATEAM.com](https://web.archive.org/web/20150623133252id_/http%3A//safishing.com/www.sateam.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by Salt Armour.
+This Privacy Policy governs the manner in which Salt Armour collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.SATEAM.com](https://web.archive.org/web/20150919154516id_/https%3A//safishing.com/www.sateam.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by Salt Armour.
 
 **PERSONAL  IDENTIFICATION INFORMATION**
 
