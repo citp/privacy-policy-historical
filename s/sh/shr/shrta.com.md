@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shrta.com privacy policy that was archived on 2015-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150208190439id_/http%3A//shrta.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shrta.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919233829id_/http%3A//shrta.com/privacy.php) for the most accurate reproduction.*
 
 # CalaBox.Com - muliupload files to muliple hosts - About Us
 
