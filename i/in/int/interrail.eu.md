@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interrail.eu privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609052455id_/http%3A//www.interrail.eu/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interrail.eu privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919080206id_/http%3A//www.interrail.eu/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Interrail.eu
 
