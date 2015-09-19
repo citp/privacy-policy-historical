@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the deliveroo.co.uk privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315003314id_/https%3A//deliveroo.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deliveroo.co.uk privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919061851id_/https%3A//deliveroo.co.uk/privacy) for the most accurate reproduction.*
 
 # Deliveroo | Privacy
 
-Roofoods Limited ("we", "our" or "Deliveroo") is committed to protecting the privacy of all visitors to our website www.deliveroo.co.uk and all visitors who access our website or services through any mobile application (together, **"Website"** ). Please read the following privacy policy which explains how we use and protect your information. 
+Roofoods Limited ("we", "our" or "Deliveroo") is committed to protecting the privacy of all visitors to our website deliveroo.co.uk and all visitors who access our website or services through any mobile application (together, **"Website"** ). Please read the following privacy policy which explains how we use and protect your information. 
 
 By visiting and/or ordering services on this Website, you agree and where required you consent to the collection, use and transfer of your information as set out in this policy. 
 
@@ -52,4 +52,4 @@ Any changes to our Privacy Policy will be posted to the Website and, where appro
 
 #### 7\. CONTACT
 
-All comments, queries and requests relating to our use of your information are welcomed and should be addressed to Roofoods Limited, 76-78 Charlotte Street, London, W1T4QS, United Kingdom; or call on tel +44 20 3322 3444 
+All comments, queries and requests relating to our use of your information are welcomed and should be addressed to Roofoods Limited, 76-78 Charlotte Street, London, W1T4QS, United Kingdom; or call on tel +44 203 322 3444 
