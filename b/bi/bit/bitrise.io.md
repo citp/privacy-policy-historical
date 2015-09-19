@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bitrise.io privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206001638id_/http%3A//www.bitrise.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitrise.io privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919135407id_/https%3A//www.bitrise.io/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Bitrise
 
 ## Privacy Policy
 
-This Privacy Policy governs the manner in which Bitfall Kft collects, uses, maintains and discloses information collected from users (each, a "User") of the **http://www.bitrise.io** website ("Site"). This privacy policy applies to the Site offered by Bitfall Kft.
+This Privacy Policy governs the manner in which Bitfall Kft collects, uses, maintains and discloses information collected from users (each, a "User") of the **https://www.bitrise.io** website ("Site"). This privacy policy applies to the Site offered by Bitfall Kft.
 
 ## Personal identification information
 
@@ -69,15 +69,16 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-Bitfall Kft  
-[http://www.bitfallinc.com](http://www.bitfallinc.com/)  
+Bitfall Kft
 
+[http://www.bitfallinc.com](http://www.bitfallinc.com/)
 
-  
-Bitfall Kft. Szuret utca 10 Budaors 2040, HU  
-+36 (70) 334 1461  
-bitfall@bitfallinc.com
+Bitfall Kft. Szuret utca 10 Budaors 2040, HU
+
++36 (70) 334 1461
+
+[bitfall@bitfallinc.com](mailto:bitfall@bitfallinc.com)
 
 ## Last modified
 
-This Privacy Policy was last modified on September 19, 2014
+This Privacy Policy was last modified on February 23, 2015
