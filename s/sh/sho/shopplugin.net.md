@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopplugin.net privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317163711id_/https%3A//shopplugin.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopplugin.net privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919095642id_/https%3A//shopplugin.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Shopp — shopping cart & ecommerce plugin for WordPress
 
