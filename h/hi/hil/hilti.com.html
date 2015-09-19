@@ -1,8 +1,11 @@
-<!--The following is the downloaded HTML source of the hilti.com privacy policy that was archived on 2015-03-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315044819id_/https%3A//www.hilti.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hilti.com privacy policy that was archived on 2015-09-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150919031829id_/https%3A//www.hilti.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class=" js csstransforms csstransitions generatedcontent" style=""><!--<![endif]--><head>
-	<title>Hilti - Privacy policy</title>
+<!DOCTYPE html><html lang="en" class="no-js"><!--<![endif]--><head>
+
+<link rel="alternate" hreflang="en" href="https://www.hilti.com">
+
+<title>Hilti - Privacy policy</title>
 	
 
 
@@ -12,27 +15,32 @@
 <meta name="keywords" content="">
 <meta name="robots" content="index,follow">
 
+<meta name="csrf-token" content="4f1bef37-3b0a-4752-afd6-c833443eb0f4">
+
 <link rel="shortcut icon" href="/_ui/desktop/css/img/favicon.ico" type="image/x-icon">
 <link rel="icon" href="/_ui/desktop/css/img/favicon.ico" type="image/x-icon">
 
-<link rel="stylesheet" type="text/css" media="screen" href="/_ui/desktop/css/global.min.css?7">
-<link rel="stylesheet" type="text/css" media="screen" href="/_ui/desktop/css/chosen.min.css?7">
-<link rel="stylesheet" type="text/css" media="screen" href="/_ui/desktop/css/hilti.min.css?7">
-<!--[if lt IE 9]><link rel="stylesheet" href="/_ui/desktop/css/ie8.min.css"><![endif]-->
-<!--[if lt IE 8]><link rel="stylesheet" href="/_ui/desktop/css/ie7.min.css"><![endif]-->
-<link rel="stylesheet" href="/_ui/desktop/css/jquery-ui-1.8.21.custom.min.css?7">
-<link rel="stylesheet" type="text/css" media="print" href="/_ui/desktop/css/print.min.css?7">
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TZCTB6"></script><script type="text/javascript" src="/_ui/desktop/js/modernizr.min.js?7"></script>
-	<script type="text/javascript" src="/_ui/desktop/js/json2.min.js?7"></script>
-	<script type="text/javascript" src="/_ui/desktop/js/jquery-1.7.2.min.js?7"></script>
-	<script type="text/javascript" src="/_ui/desktop/js/jquery.upload-1.0.2.min.js?7"></script>
-	<script type="text/javascript" src="/_ui/desktop/js/hilti.min.js?7"></script>
+<link rel="stylesheet" type="text/css" media="screen" href="/_ui/desktop/css/global_part_1.min.css?93">
+<link rel="stylesheet" type="text/css" media="screen" href="/_ui/desktop/css/global_part_2.min.css?93">
+<link rel="stylesheet" type="text/css" media="screen" href="/_ui/desktop/css/chosen.min.css?93">
+<link rel="stylesheet" type="text/css" media="screen" href="/_ui/desktop/css/jquery-ui-1.8.21.custom.min.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/_ui/desktop/css/hilti.min.css?93">
+<!--[if lt IE 9]><link rel="stylesheet" href="/_ui/desktop/css/ie8.min.css?93"><![endif]-->
+<!--[if lt IE 8]><link rel="stylesheet" href="/_ui/desktop/css/ie7.min.css?93"><![endif]-->
+<link rel="stylesheet" href="/_ui/desktop/css/jquery-ui-1.8.21.custom.min.css?93">
+<link rel="stylesheet" type="text/css" media="print" href="/_ui/desktop/css/print.min.css?93">
+<link rel="stylesheet" type="text/css" href="/_ui/desktop/css/make-it-fit.css">
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TZCTB6"></script><script type="text/javascript" src="/_ui/desktop/js/modernizr.min.js?93"></script>
+	<script type="text/javascript" src="/_ui/desktop/js/json2.min.js?93"></script>
+	<script type="text/javascript" src="/_ui/desktop/js/jquery-1.7.2.min.js?93"></script>
+	<script type="text/javascript" src="/_ui/desktop/js/jquery.upload-1.0.2.min.js?93"></script>
+	<script type="text/javascript" src="/_ui/desktop/js/hilti.min.js?93"></script>
 	
-	<script type="text/javascript" src="/_ui/desktop/js/jquery.tablednd.0.7.min.js?7"></script>
+	<script type="text/javascript" src="/_ui/desktop/js/jquery.tablednd.0.7.min.js?93"></script>
 	
 	
     <!--[if (gte IE 6)&(lte IE 8)]>
-	<script type="text/javascript" src="/_ui/desktop/js/selectivizr-min.js?7" charset="utf-8"></script>
+	<script type="text/javascript" src="/_ui/desktop/js/selectivizr-min.js?93" charset="utf-8"></script>
     <![endif]-->
 	<script type="text/javascript">
 		var hilti = hilti ? hilti : {};
@@ -41,10 +49,32 @@
 		
 		(new Image()).src = "/_ui/desktop/css/img/preloader.gif";
 		(new Image()).src = "/_ui/desktop/css/img/preloader_transparent_small.gif";
+		
+		var setCSRFToken = function(csrfToken) {
+			$.ajaxPrefilter(function (options, originalOptions, jqXHR) {
+				var isHttpMethodForCSRF = options['type'].toLowerCase() === 'post' ||
+				options['type'].toLowerCase() === 'put' ||
+				options['type'].toLowerCase() === 'delete';
+				
+				if (isHttpMethodForCSRF && !jqXHR.crossDomain) {
+					jqXHR.setRequestHeader('X-CSRF-Token', csrfToken);
+				}
+			});
+		};
+		
+		$(document).ready(function() {
+			setCSRFToken($('meta[name="csrf-token"]').attr('content'));
+		});
 	</script>
 </head>
 <body class="home  en" style="" id="editorials">
-<!-- Google Tag Manager -->
+<script>
+		dataLayer = [{'logged': 'false'
+             
+          }];
+	</script>
+	
+	<!-- Google Tag Manager -->
 	<noscript>
 		<iframe src="//www.googletagmanager.com/ns.html?id=GTM-TZCTB6" height="0" width="0" style="display:none;visibility:hidden"></iframe>
 	</noscript>
@@ -55,7 +85,8 @@
 	})(window,document,'script','dataLayer','GTM-TZCTB6');</script>
 	<!-- End Google Tag Manager -->
 <div id="main">
-			<header id="head">
+			<!-- editorialPageLayout -->
+	<header id="head">
 		<div id="header-static">
 	<div id="logo">
 		<a href="/" title="HILTI Homepage"><img src="/_ui/desktop/css/img/logo.gif" alt="HILTI logo"></a>
@@ -86,7 +117,8 @@
 	<a class="langbutton " href="#de">DE</a>
 	<form id="lang-form" action="/_s/language" method="post"><input type="hidden" name="code" id="lang-selector">
 		<input type="hidden" id="productHierarchyReferer" name="productHierarchyReferer" value="">
-	</form></div>
+	<input type="hidden" name="CSRFToken" value="4f1bef37-3b0a-4752-afd6-c833443eb0f4">
+</form></div>
 
 
 	<div id="search">
@@ -120,1008 +152,7 @@
 
 
 
-
-</div>
-	
-</div><nav id="navigation">
-	<ul>
-	<li id="topnavigation-link-1"><a href="#topnavigation-link-1_foldout">Products</a></li>
-		<li id="servicenode"><a href="#servicenode_foldout">Services</a></li>
-		<li id="companynode"><a href="#companynode_foldout">Company</a></li>
-		<li id="careersnode"><a href="#careersnode_foldout">Careers</a></li>
-		</ul>
-</nav>
-
-<div id="nav-foldout" style="height: 0px;">
-	<div id="foldoutcanvas">
-		<div id="stage1"></div>
-		<div id="stage2"></div>
-		<div id="stage3"></div>
-	</div>
-
-<div id="topnavigation-link-1_foldout" class="foldoutcontent">
-		<h4><span>Products</span></h4>
-				<ul class="productlist clearfix">
-					<li>
-						<a href="/anchor-systems">
-						<span class="prodpic"><span><span>
-						<img src="/medias/sys_master/h5c/h8e/9112967315486/L041537_V1_NG_APC_90x60.png" data-src="/medias/sys_master/h5c/h8e/9112967315486/L041537_V1_NG_APC_90x60.png" alt="Anchor systems">
-						</span></span></span>
-						<span>Anchor systems</span>
-			            </a>
-					</li>
-					<li>
-						<a href="/construction-chemicals">
-						<span class="prodpic"><span><span>
-						<img src="/medias/sys_master/h63/h8e/9112967544862/CB-G_PG_cmbo_NG_APC_90x60.png" data-src="/medias/sys_master/h63/h8e/9112967544862/CB-G_PG_cmbo_NG_APC_90x60.png" alt="Construction chemicals">
-						</span></span></span>
-						<span>Construction chemicals</span>
-			            </a>
-					</li>
-					<li>
-						<a href="/cordless-systems">
-						<span class="prodpic"><span><span>
-						<img src="/medias/sys_master/h6b/h8e/9112967807006/L047516_V1_NG_APC_90x60.png" data-src="/medias/sys_master/h6b/h8e/9112967807006/L047516_V1_NG_APC_90x60.png" alt="Cordless systems">
-						</span></span></span>
-						<span>Cordless systems</span>
-			            </a>
-					</li>
-					<li>
-						<a href="/cutting-sawing-grinding">
-						<span class="prodpic"><span><span>
-						<img src="/medias/sys_master/h6d/h8e/9112967872542/L_022203_NG_APC_90x60.png" data-src="/medias/sys_master/h6d/h8e/9112967872542/L_022203_NG_APC_90x60.png" alt="Cutting, sawing and grinding">
-						</span></span></span>
-						<span>Cutting, sawing and grinding</span>
-			            </a>
-					</li>
-					<li>
-						<a href="/diamond-coring-cutting">
-						<span class="prodpic"><span><span>
-						<img src="/medias/sys_master/h6f/h8e/9112967938078/L045691_NG_APC_90x60.png" data-src="/medias/sys_master/h6f/h8e/9112967938078/L045691_NG_APC_90x60.png" alt="Diamond coring and cutting">
-						</span></span></span>
-						<span>Diamond coring and cutting</span>
-			            </a>
-					</li>
-					<li>
-						<a href="/direct-fastening">
-						<span class="prodpic"><span><span>
-						<img src="/medias/sys_master/h78/h8e/9112968232990/L00015664_NG_APC_90x60.png" data-src="/medias/sys_master/h78/h8e/9112968232990/L00015664_NG_APC_90x60.png" alt="Direct fastening">
-						</span></span></span>
-						<span>Direct fastening</span>
-			            </a>
-					</li>
-					<li>
-						<a href="/drilling-and-demolition">
-						<span class="prodpic"><span><span>
-						<img src="/medias/sys_master/h7a/h8e/9112968298526/L016739_V_NG_APC_90x60.png" data-src="/medias/sys_master/h7a/h8e/9112968298526/L016739_V_NG_APC_90x60.png" alt="Drilling and demolition">
-						</span></span></span>
-						<span>Drilling and demolition</span>
-			            </a>
-					</li>
-					<li>
-						<a href="/firestop">
-						<span class="prodpic"><span><span>
-						<img src="/medias/sys_master/h8a/h8e/9112968822814/L038322_NG_APC_90x60.png" data-src="/medias/sys_master/h8a/h8e/9112968822814/L038322_NG_APC_90x60.png" alt="Firestop">
-						</span></span></span>
-						<span>Firestop</span>
-			            </a>
-					</li>
-					<li>
-						<a href="/insert-tools">
-						<span class="prodpic"><span><span>
-						<img src="/medias/sys_master/h81/hce/9115652882462.jpg" data-src="/medias/sys_master/h81/hce/9115652882462.jpg" alt="Insert tools">
-						</span></span></span>
-						<span>Insert tools</span>
-			            </a>
-					</li>
-					<li>
-						<a href="/installation-systems">
-						<span class="prodpic"><span><span>
-						<img src="/medias/sys_master/h9c/h8e/9112969412638/L00017216_NG_APC_90x60.png" data-src="/medias/sys_master/h9c/h8e/9112969412638/L00017216_NG_APC_90x60.png" alt="Installation systems">
-						</span></span></span>
-						<span>Installation systems</span>
-			            </a>
-					</li>
-					<li>
-						<a href="/measuring-systems">
-						<span class="prodpic"><span><span>
-						<img src="/medias/sys_master/h9e/h8e/9112969478174/L040994_V2_PRI36_NG_APC_90x60.png" data-src="/medias/sys_master/h9e/h8e/9112969478174/L040994_V2_PRI36_NG_APC_90x60.png" alt="Measuring systems">
-						</span></span></span>
-						<span>Measuring systems</span>
-			            </a>
-					</li>
-					<li>
-						<a href="/screw-fastening">
-						<span class="prodpic"><span><span>
-						<img src="/medias/sys_master/ha0/h8e/9112969543710/L006493_NG_APC_90x60.png" data-src="/medias/sys_master/ha0/h8e/9112969543710/L006493_NG_APC_90x60.png" alt="Screw fastening">
-						</span></span></span>
-						<span>Screw fastening</span>
-			            </a>
-					</li>
-					<li>
-						<a href="/facade-mounting-systems">
-						<span class="prodpic"><span><span>
-						<img src="/medias/sys_master/hb5/h47/9116669607966/LCG001308_v2_NG_APC_90x60.png" data-src="/medias/sys_master/hb5/h47/9116669607966/LCG001308_v2_NG_APC_90x60.png" alt="Facade mounting systems">
-						</span></span></span>
-						<span>Facade mounting systems</span>
-			            </a>
-					</li>
-					<li>
-						<a href="/solar">
-						<span class="prodpic"><span><span>
-						<img src="/medias/sys_master/hb3/h47/9116669542430/53384_NG_APC_90x60.png" data-src="/medias/sys_master/hb3/h47/9116669542430/53384_NG_APC_90x60.png" alt="Solar">
-						</span></span></span>
-						<span>Solar</span>
-			            </a>
-					</li>
-					</ul>
-				
-
-
-
-
-
-
-<div class="teaser">
-	<div>
-		<h5> </h5>
-		<img src="" alt="">
-		<p>
-		
-		</p>
-
-
-
-
-	</div>
-</div><div class="awards-innovations">
-	              		<a href="#awardsfoldout" class="link-to-stage2">New Products, Awards and Innovations</a>
-	           		</div>
-           		</div>
-<div id="servicenode_foldout" class="foldoutcontent">
-		<ul class="companylist clearfix">
-			<li>
-					<h5><a>Engineering                             </a></h5><ul>
-					<li><a href="/Services/Engineering-/technical-data"><span>Technical data</span></a></li>
-						<li><a href="/Services/Engineering-/design-software"><span>Design software</span></a></li>
-						<li><a href="/Services/Engineering-/engineering-solutions"><span>Engineering solutions</span></a></li>
-						<li><a href="/Services/Engineering-/engineering-services"><span>Engineering services</span></a></li>
-						</ul>
-				</li>
-			<li>
-					<h5><a>Trainings and Advice                  </a></h5><ul>
-					<li><a href="/Services/Trainings-and-Advice-/product-and-application-advice"><span>Product and application advice</span></a></li>
-						<li><a href="/Services/Trainings-and-Advice-/product-application-training"><span>Product and application trainings</span></a></li>
-						<li><a href="/Services/Trainings-and-Advice-/hse-training-advice"><span>Health and safety trainings and advice</span></a></li>
-						<li><a href="/Services/Trainings-and-Advice-/environmental-advice"><span>Environmental advice</span></a></li>
-						<li><a href="/Services/Trainings-and-Advice-/software-training"><span>Software training</span></a></li>
-						</ul>
-				</li>
-			<li>
-					<h5><a>Tool Services</a></h5><ul>
-					<li><a href="/Services/Tool-Services/fleet"><span>Fleet management</span></a></li>
-						<li><a href="/Services/Tool-Services/lifetime-services"><span>Lifetime services</span></a></li>
-						<li><a href="/Services/Tool-Services/repair-maintenance-and-calibration-services"><span>Repair, maintenance and calibration services</span></a></li>
-						<li><a href="/Services/Tool-Services/safety-with-hilti-tools"><span>Safety with Hilti tools</span></a></li>
-						</ul>
-				</li>
-			<li>
-					<h5><a>Logistics and Administration</a></h5><ul>
-					<li><a href="/Services/Logistics-and-Administration/financial-services"><span>Financial administration</span></a></li>
-						<li><a href="/Services/Logistics-and-Administration/hilti-logistics"><span>Logistics at Hilti</span></a></li>
-						<li><a href="/Services/Logistics-and-Administration/logistics-services"><span>Logistics services</span></a></li>
-						<li><a href="/Services/Logistics-and-Administration/e-procurement"><span>eProcurement</span></a></li>
-						</ul>
-				</li>
-			<li>
-					<h5><a>Quality and testing</a></h5><ul>
-					<li><a href="/Services/Quality-and-testing/on-site-testing"><span>On-site testing</span></a></li>
-						</ul>
-				</li>
-			</ul>
-			</div>
-<div id="companynode_foldout" class="foldoutcontent">
-		<ul class="companylist clearfix">
-			<li>
-					<h5><a>Corporate information</a></h5><ul>
-					<li><a href="/Company/corporate-information/company"><span>Company profile</span></a></li>
-						<li><a href="/Company/corporate-information/strategy"><span>Strategy</span></a></li>
-						<li><a href="/Company/corporate-information/management"><span>Management</span></a></li>
-						<li><a href="/Company/corporate-information/production"><span>Production</span></a></li>
-						<li><a href="/Company/corporate-information/trades"><span>Trades</span></a></li>
-						</ul>
-				</li>
-			<li>
-					<h5><a>Media relations</a></h5><ul>
-					<li><a href="/Company/media-relations/media"><span>Media releases</span></a></li>
-						<li><a href="/Company/media-relations/media-releases-archive"><span>Media releases archive</span></a></li>
-						<li><a href="/Company/media-relations/publications"><span>Publications</span></a></li>
-						<li><a href="/Company/media-relations/press-photos"><span>Press photos</span></a></li>
-						</ul>
-				</li>
-			<li>
-					<h5><a>Corporate responsibility</a></h5><ul>
-					<li><a href="/Company/corporate-responsibility/our-approach"><span>Our approach</span></a></li>
-						<li><a href="/Company/corporate-responsibility/team-members"><span>Team members</span></a></li>
-						<li><a href="/Company/corporate-responsibility/corporate-responsibility-health-and-safety"><span>Health and safety</span></a></li>
-						<li><a href="/Company/corporate-responsibility/social-responsibility"><span>Social responsibility</span></a></li>
-						<li><a href="/Company/corporate-responsibility/environment"><span>Environment</span></a></li>
-						<li><a href="/Company/corporate-responsibility/compliance-businessethics"><span>Compliance and business ethics</span></a></li>
-						</ul>
-				</li>
-			<li>
-					<h5><a>Supplier information</a></h5><ul>
-					<li><a href="/Company/supplier-information/supply-management-strategy"><span>Supply management strategy</span></a></li>
-						<li><a href="/Company/supplier-information/suppliers"><span>Requirements for suppliers</span></a></li>
-						<li><a href="/Company/supplier-information/sourcing-area-direct-materials"><span>Sourcing area - Direct productive materials</span></a></li>
-						<li><a href="/Company/supplier-information/sourcing-area-indirect-materials"><span>Sourcing area - Indirect materials</span></a></li>
-						</ul>
-				</li>
-			</ul>
-			</div>
-<div id="careersnode_foldout" class="foldoutcontent">
-		<ul class="companylist clearfix">
-			<li>
-					<h5><a>Jobs and application</a></h5><ul>
-					<li><a href="/career"><span>Global job offers</span></a></li>
-						<li><a href="/Careers/Jobs-and-application/speculativeapplication"><span>Speculative application</span></a></li>
-						<li><a href="/Careers/Jobs-and-application/FAQ"><span>FAQ</span></a></li>
-						<li><a href="/Careers/Jobs-and-application/applicationtips"><span>Application tips</span></a></li>
-						<li><a href="/Careers/Jobs-and-application/events"><span>Events</span></a></li>
-						<li><a href="/Careers/Jobs-and-application/recruiters"><span>For recruiting agencies</span></a></li>
-						</ul>
-				</li>
-			<li>
-					<h5><a>Why Hilti</a></h5><ul>
-					<li><a href="/Careers/Why-Hilti/successful"><span>Successful company</span></a></li>
-						<li><a href="/Careers/Why-Hilti/people"><span>Passion for people development</span></a></li>
-						<li><a href="/Careers/Why-Hilti/culture"><span>Living the corporate culture</span></a></li>
-						<li><a href="/Careers/Why-Hilti/independent"><span>Independent and solid</span></a></li>
-						<li><a href="/Careers/Why-Hilti/bestemployer"><span>Employer of choice</span></a></li>
-						</ul>
-				</li>
-			<li>
-					<h5><a>Your career with Hilti</a></h5><ul>
-					<li><a href="/Careers/Your-career-with-Hilti/berufsausbildung"><span>Vocational training</span></a></li>
-						<li><a href="/Careers/Your-career-with-Hilti/students"><span>Students</span></a></li>
-						<li><a href="/Careers/Your-career-with-Hilti/outperformer"><span>Outperformer program</span></a></li>
-						<li><a href="/Careers/Your-career-with-Hilti/professionals"><span>Professionals</span></a></li>
-						</ul>
-				</li>
-			<li>
-					<h5><a>Meet our teams</a></h5><ul>
-					<li><a href="/Careers/Meet-our-teams/testimonials"><span>Read our stories</span></a></li>
-						<li><a href="/summit"><span>Video Outperformer Summit 2014</span></a></li>
-						<li><a href="/Careers/Meet-our-teams/panama-video"><span>Video Outperformer Panama</span></a></li>
-						<li><a href="/Careers/Meet-our-teams/video-portugal"><span>Video Outperformer Portugal</span></a></li>
-						<li><a href="/Careers/Meet-our-teams/internship-video"><span>Video internship</span></a></li>
-						<li><a href="/Careers/Meet-our-teams/RandD"><span>Video research and development</span></a></li>
-						<li><a href="/Careers/Meet-our-teams/video-sales"><span>Video sales</span></a></li>
-						</ul>
-				</li>
-			<li>
-					<h5><a>Stay connected</a></h5><ul>
-					<li><a href="https://www.facebook.com/HiltiCareer" target="_blank"><span>Facebook</span></a></li>
-						<li><a href="http://www.linkedin.com/company/hilti" target="_blank"><span>LinkedIn</span></a></li>
-						<li><a href="https://twitter.com/HiltiCareer" target="_blank"><span>Twitter</span></a></li>
-						<li><a href="http://www.youtube.com/playlist?list=PLinIdT8Aoi71PlFFxCrOpq_SqS6MsY4HN" target="_blank"><span>Youtube</span></a></li>
-						<li><a href="https://www.xing.com/companies/hiltiag" target="_blank"><span>Xing</span></a></li>
-						</ul>
-				</li>
-			</ul>
-			</div>
-<div id="_foldout" class="foldoutcontent">
-				<h4>
-					<a href="#topnavigation-link-1_foldout" class="link-to-stage1"><strong>Back</strong></a><span>Anchor systems</span>
-				</h4>
-				<ul class="productlist clearfix">
-				</ul>
-				
-
-
-
-
-
-
-<div class="teaser">
-	<div>
-		<h5> </h5>
-		<img src="" alt="">
-		<p>
-		
-		</p>
-
-
-
-
-	</div>
-</div></div>
-
-			<div id="_foldout" class="foldoutcontent">
-				<h4>
-					<a href="#topnavigation-link-1_foldout" class="link-to-stage1"><strong>Back</strong></a><span>Construction chemicals</span>
-				</h4>
-				<ul class="productlist clearfix">
-				</ul>
-				
-
-
-
-
-
-
-<div class="teaser">
-	<div>
-		<h5> </h5>
-		<img src="" alt="">
-		<p>
-		
-		</p>
-
-
-
-
-	</div>
-</div></div>
-
-			<div id="_foldout" class="foldoutcontent">
-				<h4>
-					<a href="#topnavigation-link-1_foldout" class="link-to-stage1"><strong>Back</strong></a><span>Cordless systems</span>
-				</h4>
-				<ul class="productlist clearfix">
-				</ul>
-				
-
-
-
-
-
-
-<div class="teaser">
-	<div>
-		<h5> </h5>
-		<img src="" alt="">
-		<p>
-		
-		</p>
-
-
-
-
-	</div>
-</div></div>
-
-			<div id="_foldout" class="foldoutcontent">
-				<h4>
-					<a href="#topnavigation-link-1_foldout" class="link-to-stage1"><strong>Back</strong></a><span>Cutting, sawing and grinding</span>
-				</h4>
-				<ul class="productlist clearfix">
-				</ul>
-				
-
-
-
-
-
-
-<div class="teaser">
-	<div>
-		<h5> </h5>
-		<img src="" alt="">
-		<p>
-		
-		</p>
-
-
-
-
-	</div>
-</div></div>
-
-			<div id="_foldout" class="foldoutcontent">
-				<h4>
-					<a href="#topnavigation-link-1_foldout" class="link-to-stage1"><strong>Back</strong></a><span>Diamond coring and cutting</span>
-				</h4>
-				<ul class="productlist clearfix">
-				</ul>
-				
-
-
-
-
-
-
-<div class="teaser">
-	<div>
-		<h5> </h5>
-		<img src="" alt="">
-		<p>
-		
-		</p>
-
-
-
-
-	</div>
-</div></div>
-
-			<div id="_foldout" class="foldoutcontent">
-				<h4>
-					<a href="#topnavigation-link-1_foldout" class="link-to-stage1"><strong>Back</strong></a><span>Direct fastening</span>
-				</h4>
-				<ul class="productlist clearfix">
-				</ul>
-				
-
-
-
-
-
-
-<div class="teaser">
-	<div>
-		<h5> </h5>
-		<img src="" alt="">
-		<p>
-		
-		</p>
-
-
-
-
-	</div>
-</div></div>
-
-			<div id="_foldout" class="foldoutcontent">
-				<h4>
-					<a href="#topnavigation-link-1_foldout" class="link-to-stage1"><strong>Back</strong></a><span>Drilling and demolition</span>
-				</h4>
-				<ul class="productlist clearfix">
-				</ul>
-				
-
-
-
-
-
-
-<div class="teaser">
-	<div>
-		<h5> </h5>
-		<img src="" alt="">
-		<p>
-		
-		</p>
-
-
-
-
-	</div>
-</div></div>
-
-			<div id="_foldout" class="foldoutcontent">
-				<h4>
-					<a href="#topnavigation-link-1_foldout" class="link-to-stage1"><strong>Back</strong></a><span>Firestop</span>
-				</h4>
-				<ul class="productlist clearfix">
-				</ul>
-				
-
-
-
-
-
-
-<div class="teaser">
-	<div>
-		<h5> </h5>
-		<img src="" alt="">
-		<p>
-		
-		</p>
-
-
-
-
-	</div>
-</div></div>
-
-			<div id="_foldout" class="foldoutcontent">
-				<h4>
-					<a href="#topnavigation-link-1_foldout" class="link-to-stage1"><strong>Back</strong></a><span>Insert tools</span>
-				</h4>
-				<ul class="productlist clearfix">
-				</ul>
-				
-
-
-
-
-
-
-<div class="teaser">
-	<div>
-		<h5> </h5>
-		<img src="" alt="">
-		<p>
-		
-		</p>
-
-
-
-
-	</div>
-</div></div>
-
-			<div id="_foldout" class="foldoutcontent">
-				<h4>
-					<a href="#topnavigation-link-1_foldout" class="link-to-stage1"><strong>Back</strong></a><span>Installation systems</span>
-				</h4>
-				<ul class="productlist clearfix">
-				</ul>
-				
-
-
-
-
-
-
-<div class="teaser">
-	<div>
-		<h5> </h5>
-		<img src="" alt="">
-		<p>
-		
-		</p>
-
-
-
-
-	</div>
-</div></div>
-
-			<div id="_foldout" class="foldoutcontent">
-				<h4>
-					<a href="#topnavigation-link-1_foldout" class="link-to-stage1"><strong>Back</strong></a><span>Measuring systems</span>
-				</h4>
-				<ul class="productlist clearfix">
-				</ul>
-				
-
-
-
-
-
-
-<div class="teaser">
-	<div>
-		<h5> </h5>
-		<img src="" alt="">
-		<p>
-		
-		</p>
-
-
-
-
-	</div>
-</div></div>
-
-			<div id="_foldout" class="foldoutcontent">
-				<h4>
-					<a href="#topnavigation-link-1_foldout" class="link-to-stage1"><strong>Back</strong></a><span>Screw fastening</span>
-				</h4>
-				<ul class="productlist clearfix">
-				</ul>
-				
-
-
-
-
-
-
-<div class="teaser">
-	<div>
-		<h5> </h5>
-		<img src="" alt="">
-		<p>
-		
-		</p>
-
-
-
-
-	</div>
-</div></div>
-
-			<div id="_foldout" class="foldoutcontent">
-				<h4>
-					<a href="#topnavigation-link-1_foldout" class="link-to-stage1"><strong>Back</strong></a><span>Facade mounting systems</span>
-				</h4>
-				<ul class="productlist clearfix">
-				</ul>
-				
-
-
-
-
-
-
-<div class="teaser">
-	<div>
-		<h5> </h5>
-		<img src="" alt="">
-		<p>
-		
-		</p>
-
-
-
-
-	</div>
-</div></div>
-
-			<div id="_foldout" class="foldoutcontent">
-				<h4>
-					<a href="#topnavigation-link-1_foldout" class="link-to-stage1"><strong>Back</strong></a><span>Solar</span>
-				</h4>
-				<ul class="productlist clearfix">
-				</ul>
-				
-
-
-
-
-
-
-<div class="teaser">
-	<div>
-		<h5> </h5>
-		<img src="" alt="">
-		<p>
-		
-		</p>
-
-
-
-
-	</div>
-</div></div>
-
-			<div id="awardsfoldout" class="foldoutcontent">
-				<h4>
-					<a href="topnavigation-link-1_foldout" class="link-to-stage1"><strong>Back</strong></a><span>New Products, Awards and Innovations</span>
-				</h4>
-				<ul class="teaserlist clearfix">
-					<li>
-							<a href="/media-release-march2015">
-								<span class="prodpic">
-									<span><span>
-										<img src="/medias/sys_master/h52/h21/9142117400606/L066032.jpg" alt="Product">
-									</span></span>
-								</span>
-								<span class="head">
-									New Hilti breaker wins gold</span>
-								<span></span>
-							</a>
-						</li>
-					<li>
-							<a href="/company-report-awards">
-								<span class="prodpic">
-									<span><span>
-										<img src="/medias/sys_master/h7f/hae/9134711734302/CompanyReport_Award_120x75.jpg" alt="Product">
-									</span></span>
-								</span>
-								<span class="head">
-									Company Report Awards</span>
-								<span>Hilti Company Report wins two awards.<br type="_moz"></span>
-							</a>
-						</li>
-					<li>
-							<a href="/media-release-july2014">
-								<span class="prodpic">
-									<span><span>
-										<img src="/medias/sys_master/h3e/hd1/9124265787422/TE-70-family_120x75.jpg" alt="Product">
-									</span></span>
-								</span>
-								<span class="head">
-									Red Dot Design Award</span>
-								<span>TE 70 combihammer family<br type="_moz"></span>
-							</a>
-						</li>
-					<li>
-							<a href="/one-man-one-tool">
-								<span class="prodpic">
-									<span><span>
-										<img src="/medias/sys_master/hf8/h41/9116621471774/L059853_120x75.jpg" alt="Product">
-									</span></span>
-								</span>
-								<span class="head">
-									One man, one tool.</span>
-								<span>Reliability and versatility perfectly combined.</span>
-							</a>
-						</li>
-					</ul>
-				
-
-
-
-
-
-
-<div class="teaser">
-	<div>
-		<h5> </h5>
-		<img src="" alt="">
-		<p>
-		
-		</p>
-
-
-
-
-	</div>
-</div></div>
-		<div id="awardsfoldout" class="foldoutcontent">
-				<h4>
-					<a href="topnavigation-link-1_foldout" class="link-to-stage1"><strong>Back</strong></a><span>New Products, Awards and Innovations</span>
-				</h4>
-				<ul class="teaserlist clearfix">
-					<li>
-							<a href="/media-release-march2015">
-								<span class="prodpic">
-									<span><span>
-										<img src="/medias/sys_master/h52/h21/9142117400606/L066032.jpg" alt="Product">
-									</span></span>
-								</span>
-								<span class="head">
-									New Hilti breaker wins gold</span>
-								<span></span>
-							</a>
-						</li>
-					<li>
-							<a href="/company-report-awards">
-								<span class="prodpic">
-									<span><span>
-										<img src="/medias/sys_master/h7f/hae/9134711734302/CompanyReport_Award_120x75.jpg" alt="Product">
-									</span></span>
-								</span>
-								<span class="head">
-									Company Report Awards</span>
-								<span>Hilti Company Report wins two awards.<br type="_moz"></span>
-							</a>
-						</li>
-					<li>
-							<a href="/media-release-july2014">
-								<span class="prodpic">
-									<span><span>
-										<img src="/medias/sys_master/h3e/hd1/9124265787422/TE-70-family_120x75.jpg" alt="Product">
-									</span></span>
-								</span>
-								<span class="head">
-									Red Dot Design Award</span>
-								<span>TE 70 combihammer family<br type="_moz"></span>
-							</a>
-						</li>
-					<li>
-							<a href="/one-man-one-tool">
-								<span class="prodpic">
-									<span><span>
-										<img src="/medias/sys_master/hf8/h41/9116621471774/L059853_120x75.jpg" alt="Product">
-									</span></span>
-								</span>
-								<span class="head">
-									One man, one tool.</span>
-								<span>Reliability and versatility perfectly combined.</span>
-							</a>
-						</li>
-					</ul>
-				
-
-
-
-
-
-
-<div class="teaser">
-	<div>
-		<h5> </h5>
-		<img src="" alt="">
-		<p>
-		
-		</p>
-
-
-
-
-	</div>
-</div></div>
-		<div id="awardsfoldout" class="foldoutcontent">
-				<h4>
-					<a href="topnavigation-link-1_foldout" class="link-to-stage1"><strong>Back</strong></a><span>New Products, Awards and Innovations</span>
-				</h4>
-				<ul class="teaserlist clearfix">
-					<li>
-							<a href="/media-release-march2015">
-								<span class="prodpic">
-									<span><span>
-										<img src="/medias/sys_master/h52/h21/9142117400606/L066032.jpg" alt="Product">
-									</span></span>
-								</span>
-								<span class="head">
-									New Hilti breaker wins gold</span>
-								<span></span>
-							</a>
-						</li>
-					<li>
-							<a href="/company-report-awards">
-								<span class="prodpic">
-									<span><span>
-										<img src="/medias/sys_master/h7f/hae/9134711734302/CompanyReport_Award_120x75.jpg" alt="Product">
-									</span></span>
-								</span>
-								<span class="head">
-									Company Report Awards</span>
-								<span>Hilti Company Report wins two awards.<br type="_moz"></span>
-							</a>
-						</li>
-					<li>
-							<a href="/media-release-july2014">
-								<span class="prodpic">
-									<span><span>
-										<img src="/medias/sys_master/h3e/hd1/9124265787422/TE-70-family_120x75.jpg" alt="Product">
-									</span></span>
-								</span>
-								<span class="head">
-									Red Dot Design Award</span>
-								<span>TE 70 combihammer family<br type="_moz"></span>
-							</a>
-						</li>
-					<li>
-							<a href="/one-man-one-tool">
-								<span class="prodpic">
-									<span><span>
-										<img src="/medias/sys_master/hf8/h41/9116621471774/L059853_120x75.jpg" alt="Product">
-									</span></span>
-								</span>
-								<span class="head">
-									One man, one tool.</span>
-								<span>Reliability and versatility perfectly combined.</span>
-							</a>
-						</li>
-					</ul>
-				
-
-
-
-
-
-
-<div class="teaser">
-	<div>
-		<h5> </h5>
-		<img src="" alt="">
-		<p>
-		
-		</p>
-
-
-
-
-	</div>
-</div></div>
-		<div class="slide-up"><a href="#">Close menu</a></div>
-</div>
-
-<script type="text/javascript">
-$(document).ready(function() {
-	$('#nav-foldout img[data-src]').each(function() {
-		$(this).attr('src', $(this).attr('data-src'));
-	});
-});
-</script><div id="breadcrumb">
-	<a href="/" class="arrow">Home</a>
-	<span>Privacy policy</span>
-			</div></header>
-	<!-- _start__index__mark_ --> 
-	<div id="content" class="editorials">
-		<div>
-			<div class="contenthead large">
-	<div>
-		<h1>PRIVACY POLICY</h1>
-		<p class="headline"></p>
-</div>
-</div></div>
-		<div>
-			<div class="editorial content-copy big">
-	This website is brought to you by Hilti Aktiengesellschaft (“Hilti”). Terms like “we”, “us”, “our”, etc. in this Privacy Policy refer to Hilti. Terms like “you”, “your”, etc. refer to you as a user of the website, whether or not you register with the website. <br><br>Please read this Website Privacy Policy carefully and do not use the website if you disagree with any of the practices described herein. Please do also not use this web-site if you are below the age of 14. <br><br>We know that you care about your personal data and so do we. That is why we exercise care to handle personal data carefully and sensibly. We do not only have a reputation for providing quality products and excellent customer service but are also committed to pro-tecting your privacy in the online sphere. This Website Privacy Policy describes how we collect, process and use your personal data when you visit and/or register with the web-site. <br><br><strong>Table of contents</strong><br><ul><li>What is personal data?</li><li>Who is responsible for the proper handling of your personal data?</li><li>What do we do with your personal data?</li><li>What types of personal data do we collect, process and use?</li><li>Does the website use cookies and similar technologies?</li><li>Why and with whom do we share personal data?</li><li>Will personal data be transferred abroad?</li><li>What else do we do to protect your personal data?</li><li>How long do we retain personal data?</li><li>What privacy choices do you have?</li><li>Why do you receive emails from us?</li><li>Links to other websites</li><li>How are changes to this Website Privacy Policy communicated?</li><li>Contact us</li></ul><strong>What is personal data?</strong><br><br>The term “personal data”, as used herein, comprises any information attributed or at-tributable to you as a user of our website, whether such information was entered by you, collected from you or otherwise obtained.<br><br><strong>Who is responsible for the proper handling of your personal data?</strong><br><br>As the provider of this website, Hilti is the responsible data controller for all personal data that we hold about you, and that we collect, process and use in connection with your use of the website or otherwise.<br><br></div>
-<div class="editorial content-copy big">
-	<strong>What do we do with your personal data?</strong><br><ul><li>We collect, process and use your personal data only for the following purposes:</li><li>To administer, operate, maintain and improve the website;</li><li>To facilitate and process product and service orders placed on the website;</li><li>To provide you with a more personalized experience of our website (e.g., by tailoring any content or offers to your individual preferences);</li><li>To evaluate your eligibility for certain types of offers, products or services;</li><li>To help us to improve and personalize the website, our products and services;</li><li>To perform analytics and conduct customer research, including general market re-search or surveying our customers' needs and opinions on specific issues, generating sales and traffic patterns, and to analyze advertising effectiveness, both on an anony-mous basis (e.g., by aggregating data) or on an individual basis (if legally permissible);</li><li>To answer your questions and respond to your requests;</li><li>To provide you with information about products and services that may be of interest to you performed through traditional mail, email, telephone, fax, newsletter, text/SMS, and MMS messaging, including periodic sending&nbsp; of promotional materials on products, services and promotions of Hilti specifically dedicated to you (direct marketing);</li><li>To communicate with you on other matters (e.g., to send you reminders, technical no-tices, updates, security alerts, support and administrative messages or service bulle-tins);</li><li>To administer rewards, surveys, sweepstakes, contests, or other promotional activities or events;</li><li>To comply with legal obligations, prevent unlawful uses of the website, resolve dis-putes, and enforce our agreements;</li><li>For other purposes that you have specifically agreed to; and</li><li>Otherwise as permitted by applicable law.</li></ul>We will seek your consent before collecting, processing and using your personal data for the above-mentioned purposes, where legally required. Likewise, if we wish to use your personal data for a new or different purpose, we will notify you thereof and will only make such other use if it is required or permitted by applicable law or if you have con-sented to it.<br><br>For the purposes mentioned above, only a limited number of individuals within Hilti (e.g. individuals in sales, support, legal, finance, IT and accounting departments, as well as certain managers with assigned responsibility) will receive access to your personal data.<strong><br><br>What types of personal data do we collect, process and use?</strong><br><br>Personal data that we collect, process and use in connection with the website includes not only information that we actively collect while you interact with the website but also in-formation that you voluntarily provide to us over the website in various contexts (e.g., when you download software from our website, when you register for a sweepstake, when you send an e-mail to our customer service, when you fill in an online form, etc.). Hence, it is thus not possible to define an exclusive list of all potential types of personal data that we may collect, process and use. In general, however, typical types of personal data comprise the following:<br><br type="_moz"></div>
-<div class="editorial content-copy big">
-	<strong>What types of personal data do we collect, process and use?</strong><br><br>Personal data that we collect, process and use in connection with the website includes not only information that we actively collect while you interact with the website but also in-formation that you voluntarily provide to us over the website in various contexts (e.g., when you download software from our website, when you register for a sweepstake, when you send an e-mail to our customer service, when you fill in an online form, etc.). Hence, it is thus not possible to define an exclusive list of all potential types of personal data that we may collect, process and use. In general, however, typical types of personal data comprise the following:<br><ul><li>Name, title and address;</li><li>Personal contact information (phone, email, fax, etc.);</li><li>Name, address, department, contact information and other information in relation to a company that you represent (if any) and your function within this company;</li><li>Login name and password;</li><li>Hilti account number;</li><li>VAT number;</li><li>User profile information;</li><li>Confirmation of being either a private or a professional user;</li><li>User preferences (e.g., preferred language settings);</li><li>IP address, operating system, browser type, browser version, browser configuration, name of internet service provider, and other types of computer and connection related information relevant to identifying your type of device, connecting to the website, en-abling data exchange with you and your device, and ensuring a convenient use of the website;</li><li>URL and IP address of the website from which you accessed, or were directed to, our website, including date and time;</li><li>Subpages visited while on our website, links followed on the website, including date and time;</li><li>The full Uniform Resource Locator (URL) click stream to, through and from the website, including date and time;</li><li>Service requests and orders placed;</li><li>Shopping history, including open and completed transactions;</li><li>Search terms entered;</li><li>Services/products viewed or searched for on the website;</li><li>Shopping cart and payment information;</li><li>Information collected by cookies or similar technologies (as described in the next paragraph);</li><li>Newsletter subscriptions, enrollment for promotions, use of special offers, etc.</li><li>Consents, authorizations, etc. granted;</li><li>Survey answers, reviews, ratings and other types of feedback provided;</li><li>Content of any communication sent through the website, including any information posted in social communities on the website or otherwise shared with Hilti and/or other users, as well as chat messages and chat transcripts;</li><li>Information on software downloaded from the website; and</li><li>Any other information that you enter on, or upload to, the website (e.g., content that you fill into an online form, a photo that you upload).</li></ul></div>
-<div class="editorial content-copy big">
-	<strong>Does the website use cookies and similar technologies? </strong><br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <br>Cookies are small text files located in your browser directory. When a website is ac-cessed, a cookie that is placed on a device sends information to the browser. Cookies are extremely common and used on a number of websites. In general, the purpose of cookies is to improve the performance of the website and the user's experience in using that web-site, though cookies may also serve advertisements (which we explain below). <br><br>Hilti uses the following types of cookies and similar technologies in connection with this website:<br><ul><li>Google Analytics (persistent cookie that lasts after you close your browser): This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses cookies, which are text files placed on your com-puter, to help the website analyze how users use the site. The information generated by the cookie about your use of the website will be transferred to and stored by Google on servers in the United States. Before the transfer this information will be anonymized by removing the last octet of your IP address. Google will process this information on our behalf for the purpose of evaluating your use of the website, com-piling reports on website activity and providing other services relating to website ac-tivity and internet usage. Google will not link your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate set-tings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. You may further opt-out of the collection of your usage data (including your IP-address) and the processing of the data by Google by downloading and installing the add-on for your current web browser from the following link: <a href="http://tools.google.com/dlpage/gaoptout">tools.google.com/dlpage/gaoptout</a>.</li><li>JsessionID (session cookie that last until you close your internet browser): Hilti uses a cookie that serves to identify the user during his current session on this website. The Jsession ID cookie collects the user’s session ID but does not store any personal data after the user has closed his session and does not transfer any data to third parties.</li></ul><br>You can modify your cookies settings, or refuse to accept cookies at all, thus limiting the amount of personal data that we receive about you. The “Help” portion of the toolbar on most browsers tells you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Please be aware, however, that you might then not be able to take advantage of some functions and features of the website.<br><br>For a more thorough explanation of what cookies are and how they operate, please read the <a href="http://www.allaboutcookies.org/">All About Cookies website</a>.<br><br type="_moz"></div>
-<div class="editorial content-copy big">
-	<strong>Why and with whom do we share personal data?</strong><br><br>For the purposes mentioned above, we may share your personal data with third parties, including other entities of the Hilti group of companies. We do not sell, trade, rent, dis-close, transfer or otherwise share your personal data, unless to the extent described in the following or as agreed by you in a specific context (e.g., where you consenting to other types of data transfers in connection with enrolling for a specific service). Whenever sharing personal data, we do so only in strict accordance with applicable laws. <br><br>Potential recipients of your personal data are listed in the following:<br><ul><li>Other Hilti group entities and Hilti business partners: We may share your personal data with other entities of the Hilti group of companies (e.g. Hilti Market Organiza-tions responsible for the respective local websites) and with our business partners if there is a legitimate reason to do so (e.g., where a business partner renders parts of services ordered by you such as email service providers) and such sharing is legally permissible. A legal permission exists for instance if you have consented to the sharing of your personal data or if applicable law permits or requires it. In any case where we share your data with other entities of the Hilti group of companies or with our business partners we do so only for specific purposes.</li><li>Third party service providers: We may employ third party service providers (i.e., companies or individuals engaged by us) to perform certain functions on our behalf and under our instructions. Examples include database management, maintenance services, web analytics, handling in-bound inquiries, delivering packages, sending postal mail and email, removing repetitive information from customer lists, analysing data, providing sales and marketing assistance, processing credit card payments, and providing customer service. Third party service providers may for instance include IT companies, credit card processors, credit rating agencies or legal, financial and other advisors. Any third party provider will have access only to such personal data needed to perform its specific functions, and only for the purpose of performing these func-tions. We will ensure that any third party service provider is aware of and abides by these obligations. We will also ensure that any third party service provider treats your perso-nal data no less protective as required by applicable data protection laws and that they adopt adequate technical and organizational security measures.</li><li>Other users of the website: If you use posting, chat, messaging or other interactive functions provided on our website we may disclose your personal data to other users of the website, but only as required in connection with such functions.</li></ul></div>
-<div class="editorial content-copy big">
-	<ul><li>Courts, law enforcement authorities and regulators: We may share personal data when we believe it necessary to comply with the law, to protect the rights or safety of our website, other users, or third parties (e.g., for fraud protection purposes). Without limitation, this may include cases in which we are required to share personal data by the law or binding order of courts, law enforcement authorities or regulators. We will carefully determine the permissibility of providing personal data in each such context, paying particular attention to the type of request, types of data affected and any im-pact that a disclosure of personal data would have on the user affected. Should we decide to disclose personal data in such context we will also consider ways of reducing the scope of the disclosure, for instance by redacting the information pro-vided.</li><li>Buyers: As we continue to develop our business, we might sell all or parts of our website or business. In such transactions, user information generally is one of the transferred business assets, but remains subject to the promises made in any pre-existing Website Privacy Policy, unless you consent otherwise.</li></ul><strong>Will personal data be transferred abroad?</strong><br><br>Recipients of your personal data may be located in any country. This may include coun-tries where applicable data protection laws provide a lesser degree of protection than your home country. For instance, if you are located within the EU/EEA or Switzerland, the country where the recipient is located may not qualify as a safe country within the notion of the European Data Protection Directive (95/46/EC) or the Federal Data Protection Act of Switzerland. In such case, Hilti will nevertheless ensure an adequate level of protection for your data, for instance by ensuring that the recipient abides by the principles of the Safe Harbor (for recipients in the US) or by requiring the recipient to enter into so-called EC Model Clauses, which are sets of contractual clauses adopted by the European Commission for the purpose of adducing adequate safeguards to personal data in connec-tion with cross-border transfers. <br><br type="_moz"></div>
-<div class="editorial content-copy big">
-	<strong>What else do we do to protect your personal data?</strong><br><br>Hilti understands the importance of data security and we want your browsing and pur-chasing experience with us to be as safe as possible. We have implemented reasonable safeguards and precautions to protect your personal data, including technical and organi-zational measures against unauthorized access, improper use, alteration, unlawful or ac-cidental destruction, and accidental loss, both in an online and offline context.<br><br>Also, please understand that, while we strive to protect your personal data against poten-tial risks and exposures, there is no absolute security in the online sphere. Hence, we ask you to support our IT security efforts by not disclosing any data on our website that is particularly sensitive or not required in the specific context. In this context, please note that credit card credentials will not be stored absent your explicit permission. Further-more, you can help us protecting your personal data by signing off when you finished us-ing login-protected areas of the website. <br><strong><br>How long do we retain personal data?</strong><br><br>Your personal data is not retained by us for longer than necessary for the legally permis-sible purposes for which they were collected, as required under applicable retention poli-cies and/or as required or permitted in accordance with applicable law. Transcripts from online chats with our customer service are usually retained no longer than for 30 days.<br><br type="_moz"></div>
-<div class="editorial content-copy big">
-	<strong>What privacy choices do you have? <br></strong><br>You have a variety of choices regarding which data we may collect, process and use about you and for which purposes. Some of these choices include the following:<br><ul><li>You may use our website and its functions and features anonymously or through a pseudonym, unless where it is strictly necessary to identify you (e.g., in the context of a purchase).&nbsp;</li><li>You can choose not to provide certain personal data at all, in particular where we seek your consent for the collection of information.</li><li>You may at any time withdraw any privacy consent provided in the past with future effect and/or use our newsletter opt-out features and other features to unsubscribe.</li><li>You may at any time object to further uses of your personal data for marketing pur-poses.</li><li>Upon registration you can choose which personal data you wish to share with us. You can delete, add or update your profile information under “Change my profile”. When you do so, we may however keep a copy of the prior version for our records and may continue to use it for lawful purposes to the extent required.</li></ul><strong>Why do you receive emails from us?</strong><br><br>We may send you emails for various reasons, including the following:<br><ul><li>You have subscribed to our newsletter and/or opted in to receiving other types of marketing communication from us.</li><li>You have bought something on our website and we contact you in the context of this transaction.</li><li>You have placed an inquiry with us and we contact you in response to such an in-quiry.</li><li>We want to provide you with updates, privacy notices, warnings or other important information relevant to our users.&nbsp;&nbsp;&nbsp;</li></ul>If you are a registered user and wish to opt out from receiving marketing communication from us please change your preferences by visiting the “Change my profile” section of your account. You may also opt out by contacting us as described in the “Contact us” section below.<br><br type="_moz"></div>
-<div class="editorial content-copy big">
-	<strong>Links to other websites </strong><br><br>Our website may contain links to other websites. Such other websites are not controlled by us. When you visit such other website you do so at your own risk. Hilt cannot, and does not, assume any responsibility or liability for such other websites, the content of such websites and their privacy practices, nor do we endorse them. We encourage you to familiarize yourself with the privacy statements provided by such other websites prior to providing them with information about you or entering into any transactions on them.<br><br><strong>How are changes to this Website Privacy Policy communicated?<br></strong><br>Our business changes constantly and, therefore, our Website Privacy Policy will have to be adjusted from time to time. In such case, we will post on the website a new version of this Website Privacy Policy. You may easily identify a new version by checking the ver-sion data given in the last line below. Once posted, your continued use of our website will be deemed as your acceptance of the new version of the Website Privacy Policy. <br><strong><br>Contact us</strong><br><br>Your feedback is always welcome. If you have any questions or concerns about our pri-vacy practices or your online privacy please do not hesitate to contact us. You may also contact us if wish to gain access to the personal data we hold about you, if you wish to request that your personal data be updated, rectified, deleted or blocked, or that we re-frain from further use of your personal data, if you wish to withdraw any consents previ-ously granted, or if you wish to object to the creation of individual user profiles. <br><br>You may reach out to us as follows:<br><br>T +423-234 2111&nbsp; I&nbsp; F +423-234 2965<br><br>© Hilti Aktiengesellschaft<br>Version date: 10/01/2013<br><br type="_moz"></div>
-</div>
-		<div>
-			</div>
-		<div>
-			</div>
-		<div>
-			</div>
-		<div>
-			</div>
-		<div>
-			</div>
-		<div>
-			</div>
-		<div>
-			</div>
-		<div>
-			</div>
-	</div>
-	<!-- _end__index__mark_ --> 
-	<footer id="footer" class="shadow-light">
-		<div id="linklists" class="clearfix">
-	<div>
-		<h3>Career</h3>
-		<ul>
-			<li><a id="link-to-global-career-page" href="/career" title="Global job offers">Global job offers</a></li>
-			<li><a id="link-to-students-HR" href="/Careers/Your-career-with-Hilti/students" title="Students">Students</a></li>
-			<li><a id="link-to-OUTPERFORMER-Program" href="/Careers/Your-career-with-Hilti/outperformer" title="OUTPERFORMER program">OUTPERFORMER program</a></li>
-			</ul>
-		</div>
-		<div>
-		<h3>Media relations</h3>
-		<ul>
-			<li><a id="linkto-MediaReleases-2" href="/Company/media-relations/media" title="Media releases">Media releases</a></li>
-			<li><a id="linkto-MediaReleasesArchive-2" href="/Company/media-relations/media-releases-archive" title="Media releases archive">Media releases archive</a></li>
-			<li><a id="linkto-Publications-2" href="/Company/media-relations/publications" title="Publications">Publications</a></li>
-			<li><a id="PressPhotos-link" href="/Company/media-relations/press-photos" title="Press photos">Press photos</a></li>
-			</ul>
-		</div>
-		<div>
-		<h3>Keep up with the latest trends.</h3>
-		<ul>
-			<li><a id="linkto-Facebook-global-page" href="https://www.facebook.com/HiltiGroup" title="Global Facebook page" target="_blank">Global Facebook page</a></li>
-			<li><a id="linkto-YouTube-Global-channel" href="http://www.youtube.com/user/HiltiGroup" title="Global YouTube channel" target="_blank">Global YouTube channel</a></li>
-			</ul>
-		<h3></h3>
-		<ul>
-			</ul>
-		</div>
-		</div>
-<div id="metalinks">
-	<ul>
-		<li><a id="FooterBottomLink1" href="/access-agreement" title="Access Agreement">Access Agreement</a></li>
-		<li><a id="FooterBottomLink2" href="/privacy-policy" title="Privacy Policy">Privacy Policy</a></li>
-		<li><a id="linkto-Impressum" href="/impressum" title="Impressum">Impressum</a></li>
-		</ul>
-</div>
-<div id="abouthilti">
-	<h3>Hilti.</h3><p>Hilti provides worldwide leading-edge technology to the international construction professionals. Hilti products, systems and services offer innovative solutions with outstanding added value to customers in the construction and building maintenance industries. The headquarters of the Hilti Group are in Schaan in the Principality of Liechtenstein.</p></div><div id="slogan">
-	<h1>Hilti. Outperform. Outlast.</h1>
-</div>
-<div id="totop">
-	<a href="#head" class="scrollto">Return to top</a>
-</div></footer>
-	<script type="text/javascript" src="/_ui/desktop/js/jquery.tablesorter.min.js?7"></script>
-    <script type="text/javascript" src="/_ui/desktop/js/chosen.jquery.min.js?7"></script>
-	<script type="text/javascript" src="/_ui/desktop/js/jquery-ui-1.8.21.custom.min.js?7"></script>
-	<script type="text/javascript" src="/_ui/desktop/js/jquery.cycle.min.js?7"></script>
-	<script type="text/javascript" src="/_ui/desktop/js/hyjack.select.min.js?7"></script>
-	<script type="text/javascript" src="/_ui/desktop/js/jquery.onload.min.js?7"></script>
-	<script type="text/javascript" src="/_ui/desktop/js/jquery.cookie.min.js?7"></script>
-</div><div id="contactoverlay" class="worldwide" style="display: none;">
+<div id="contactoverlay" class="worldwide">
       <div class="dimmer"></div>
       <div id="contactoverlay-inner">
         <h3> <span class="close">Close</span><br><strong></strong></h3>
@@ -1147,7 +178,41 @@ $(document).ready(function() {
 
 
 
-
+<script type="text/javascript">
+var eglvchathandle = null;
+var openWindow = function(url) {
+	
+	try {
+		if (eglvchathandle != null && eglvchathandle.closed == false) {
+			eglvchathandle.focus();
+			return;
+		}
+	} catch (err) {
+	}
+	var refererName = "";
+	refererName = encodeURIComponent(refererName);
+	var refererurl = encodeURIComponent(document.location.href);
+	var hashIndex = refererurl.lastIndexOf('#');
+	if (hashIndex != -1) {
+		refererurl = refererurl.substring(0, hashIndex);
+	}
+	var w = 630, h = 440;
+	var t = 0, l = 0;
+	if (window.screen) {
+		if (window.screen.availWidth == 800)
+			w = window.screen.availWidth * 41 / 100;
+		else {
+			w = window.screen.availWidth * 31 / 100;
+		}
+		h = window.screen.availHeight * 95 / 100;
+		l = (window.screen.availWidth - w) * 98 / 100;
+	}
+	var params = "width=" + w + ",height=" + h + ",left=" + l + ",top=" + t
+			+ ",resizable=no,scrollbars=yes,toolbar=no";
+	/* HOL-7606 Change webchat and call me back script */
+	eglvchathandle = window.open(url, '', params); /* + 'referer=' + refererurl + '&eglvrefname=' + refererName , '', params );*/
+}
+</script>
 
 
 <div id="folder-feedback" class="folder-content ">	
@@ -1163,6 +228,1049 @@ $(document).ready(function() {
         </address>
       </div>
 </div>
+</div>
+	
+</div><nav id="navigation">
+	<ul>
+	<li id="topnavigation-link-1"><a href="#topnavigation-link-1_foldout">Products</a></li>
+		<li id="servicenode"><a href="#servicenode_foldout">Services</a></li>
+		<li id="companynode"><a href="#companynode_foldout">Company</a></li>
+		<li id="careersnode"><a href="#careersnode_foldout">Careers</a></li>
+		</ul>
+</nav>
+
+<div id="nav-foldout">
+	<div id="foldoutcanvas">
+		<div id="stage1"></div>
+		<div id="stage2"></div>
+		<div id="stage3"></div>
+	</div>
+
+<div id="topnavigation-link-1_foldout" class="foldoutcontent">
+		<div class="h4"><span>Products</span></div>
+				<ul class="productlist clearfix">
+					<li>
+						<a href="/anchor-systems">
+						<span class="prodpic"><span><span>
+						<img src="/_ui/desktop/css/img/sub/noimage_Navi.gif" data-src="/medias/sys_master/h5c/h8e/9112967315486/L041537_V1_NG_APC_90x60.png" alt="Anchor systems">
+						</span></span></span>
+						<span>Anchor systems</span>
+			            </a>
+					</li>
+					<li>
+						<a href="/construction-chemicals">
+						<span class="prodpic"><span><span>
+						<img src="/_ui/desktop/css/img/sub/noimage_Navi.gif" data-src="/medias/sys_master/h63/h8e/9112967544862/CB-G_PG_cmbo_NG_APC_90x60.png" alt="Construction chemicals">
+						</span></span></span>
+						<span>Construction chemicals</span>
+			            </a>
+					</li>
+					<li>
+						<a href="/cordless-systems">
+						<span class="prodpic"><span><span>
+						<img src="/_ui/desktop/css/img/sub/noimage_Navi.gif" data-src="/medias/sys_master/h6b/h8e/9112967807006/L047516_V1_NG_APC_90x60.png" alt="Cordless systems">
+						</span></span></span>
+						<span>Cordless systems</span>
+			            </a>
+					</li>
+					<li>
+						<a href="/cutting-sawing-grinding">
+						<span class="prodpic"><span><span>
+						<img src="/_ui/desktop/css/img/sub/noimage_Navi.gif" data-src="/medias/sys_master/h6d/h8e/9112967872542/L_022203_NG_APC_90x60.png" alt="Cutting, sawing and grinding">
+						</span></span></span>
+						<span>Cutting, sawing and grinding</span>
+			            </a>
+					</li>
+					<li>
+						<a href="/diamond-coring-cutting">
+						<span class="prodpic"><span><span>
+						<img src="/_ui/desktop/css/img/sub/noimage_Navi.gif" data-src="/medias/sys_master/h6f/h8e/9112967938078/L045691_NG_APC_90x60.png" alt="Diamond coring and cutting">
+						</span></span></span>
+						<span>Diamond coring and cutting</span>
+			            </a>
+					</li>
+					<li>
+						<a href="/direct-fastening">
+						<span class="prodpic"><span><span>
+						<img src="/_ui/desktop/css/img/sub/noimage_Navi.gif" data-src="/medias/sys_master/h78/h8e/9112968232990/L00015664_NG_APC_90x60.png" alt="Direct fastening">
+						</span></span></span>
+						<span>Direct fastening</span>
+			            </a>
+					</li>
+					<li>
+						<a href="/drilling-and-demolition">
+						<span class="prodpic"><span><span>
+						<img src="/_ui/desktop/css/img/sub/noimage_Navi.gif" data-src="/medias/sys_master/h7a/h8e/9112968298526/L016739_V_NG_APC_90x60.png" alt="Drilling and demolition">
+						</span></span></span>
+						<span>Drilling and demolition</span>
+			            </a>
+					</li>
+					<li>
+						<a href="/firestop">
+						<span class="prodpic"><span><span>
+						<img src="/_ui/desktop/css/img/sub/noimage_Navi.gif" data-src="/medias/sys_master/h8a/h8e/9112968822814/L038322_NG_APC_90x60.png" alt="Firestop">
+						</span></span></span>
+						<span>Firestop</span>
+			            </a>
+					</li>
+					<li>
+						<a href="/insert-tools">
+						<span class="prodpic"><span><span>
+						<img src="/_ui/desktop/css/img/sub/noimage_Navi.gif" data-src="/medias/sys_master/h81/hce/9115652882462.jpg" alt="Insert tools">
+						</span></span></span>
+						<span>Insert tools</span>
+			            </a>
+					</li>
+					<li>
+						<a href="/installation-systems">
+						<span class="prodpic"><span><span>
+						<img src="/_ui/desktop/css/img/sub/noimage_Navi.gif" data-src="/medias/sys_master/h9c/h8e/9112969412638/L00017216_NG_APC_90x60.png" alt="Installation systems">
+						</span></span></span>
+						<span>Installation systems</span>
+			            </a>
+					</li>
+					<li>
+						<a href="/measuring-systems">
+						<span class="prodpic"><span><span>
+						<img src="/_ui/desktop/css/img/sub/noimage_Navi.gif" data-src="/medias/sys_master/h9e/h8e/9112969478174/L040994_V2_PRI36_NG_APC_90x60.png" alt="Measuring systems">
+						</span></span></span>
+						<span>Measuring systems</span>
+			            </a>
+					</li>
+					<li>
+						<a href="/screw-fastening">
+						<span class="prodpic"><span><span>
+						<img src="/_ui/desktop/css/img/sub/noimage_Navi.gif" data-src="/medias/sys_master/ha0/h8e/9112969543710/L006493_NG_APC_90x60.png" alt="Screw fastening">
+						</span></span></span>
+						<span>Screw fastening</span>
+			            </a>
+					</li>
+					<li>
+						<a href="/facade-mounting-systems">
+						<span class="prodpic"><span><span>
+						<img src="/_ui/desktop/css/img/sub/noimage_Navi.gif" data-src="/medias/sys_master/hb5/h47/9116669607966/LCG001308_v2_NG_APC_90x60.png" alt="Facade mounting systems">
+						</span></span></span>
+						<span>Facade mounting systems</span>
+			            </a>
+					</li>
+					<li>
+						<a href="/solar">
+						<span class="prodpic"><span><span>
+						<img src="/_ui/desktop/css/img/sub/noimage_Navi.gif" data-src="/medias/sys_master/hb3/h47/9116669542430/53384_NG_APC_90x60.png" alt="Solar">
+						</span></span></span>
+						<span>Solar</span>
+			            </a>
+					</li>
+					</ul>
+				
+
+
+
+
+
+
+<div class="teaser">
+	<div>
+		<div class="h5"> </div>
+		<img src="" alt="">
+		<p>
+		
+		</p>
+
+
+
+
+	</div>
+</div><div class="awards-innovations">
+	              		<a href="#awardsfoldout" class="link-to-stage2">New Products, Awards and Innovations</a>
+	           		</div>
+           		<div class="makeitfit">
+	              <a href="#makeitfitfoldout">
+	                <img width="30" alt="Make it Fit" src="/_ui/desktop/css/img/makeitfit_large.png">
+	                <strong>Make it Fit</strong><br>
+	                The configurator for individual sets</a>
+            	</div>              		
+			</div>
+<div id="servicenode_foldout" class="foldoutcontent">
+		<ul class="companylist clearfix">
+			<li>
+					<div class="h5"><a>Engineering                             </a></div><ul>
+					<li><a href="/Services/Engineering-/technical-data"><span>Technical data</span></a></li>
+						<li><a href="/Services/Engineering-/design-software"><span>Design software</span></a></li>
+						<li><a href="/Services/Engineering-/engineering-solutions"><span>Engineering solutions</span></a></li>
+						<li><a href="/Services/Engineering-/engineering-services"><span>Engineering services</span></a></li>
+						</ul>
+				</li>
+			<li>
+					<div class="h5"><a>Trainings and Advice                  </a></div><ul>
+					<li><a href="/Services/Trainings-and-Advice-/product-and-application-advice"><span>Product and application advice</span></a></li>
+						<li><a href="/Services/Trainings-and-Advice-/product-application-training"><span>Product and application trainings</span></a></li>
+						<li><a href="/Services/Trainings-and-Advice-/hse-training-advice"><span>Health and safety trainings and advice</span></a></li>
+						<li><a href="/Services/Trainings-and-Advice-/environmental-advice"><span>Environmental advice</span></a></li>
+						<li><a href="/Services/Trainings-and-Advice-/software-training"><span>Software training</span></a></li>
+						</ul>
+				</li>
+			<li>
+					<div class="h5"><a>Tool Services</a></div><ul>
+					<li><a href="/Services/Tool-Services/fleet"><span>Fleet management</span></a></li>
+						<li><a href="/Services/Tool-Services/lifetime-services"><span>Lifetime services</span></a></li>
+						<li><a href="/Services/Tool-Services/repair-maintenance-and-calibration-services"><span>Repair, maintenance and calibration services</span></a></li>
+						<li><a href="/Services/Tool-Services/safety-with-hilti-tools"><span>Safety with Hilti tools</span></a></li>
+						</ul>
+				</li>
+			<li>
+					<div class="h5"><a>Logistics and Administration</a></div><ul>
+					<li><a href="/Services/Logistics-and-Administration/financial-services"><span>Financial administration</span></a></li>
+						<li><a href="/Services/Logistics-and-Administration/hilti-logistics"><span>Logistics at Hilti</span></a></li>
+						<li><a href="/Services/Logistics-and-Administration/logistics-services"><span>Logistics services</span></a></li>
+						<li><a href="/Services/Logistics-and-Administration/e-procurement"><span>eProcurement</span></a></li>
+						</ul>
+				</li>
+			<li>
+					<div class="h5"><a>Quality and testing</a></div><ul>
+					<li><a href="/Services/Quality-and-testing/on-site-testing"><span>On-site testing</span></a></li>
+						</ul>
+				</li>
+			</ul>
+			</div>
+<div id="companynode_foldout" class="foldoutcontent">
+		<ul class="companylist clearfix">
+			<li>
+					<div class="h5"><a>Corporate information</a></div><ul>
+					<li><a href="/Company/corporate-information/company"><span>Company profile</span></a></li>
+						<li><a href="/Company/corporate-information/strategy"><span>Strategy</span></a></li>
+						<li><a href="/Company/corporate-information/management"><span>Management</span></a></li>
+						<li><a href="/Company/corporate-information/production"><span>Production</span></a></li>
+						<li><a href="/Company/corporate-information/trades"><span>Trades</span></a></li>
+						</ul>
+				</li>
+			<li>
+					<div class="h5"><a>Media relations</a></div><ul>
+					<li><a href="/Company/media-relations/media"><span>Media releases</span></a></li>
+						<li><a href="/Company/media-relations/media-releases-archive"><span>Media releases archive</span></a></li>
+						<li><a href="/Company/media-relations/publications"><span>Publications</span></a></li>
+						<li><a href="/Company/media-relations/press-photos"><span>Press photos</span></a></li>
+						</ul>
+				</li>
+			<li>
+					<div class="h5"><a>Corporate responsibility</a></div><ul>
+					<li><a href="/Company/corporate-responsibility/our-approach"><span>Our approach</span></a></li>
+						<li><a href="/Company/corporate-responsibility/team-members"><span>Team members</span></a></li>
+						<li><a href="/Company/corporate-responsibility/corporate-responsibility-health-and-safety"><span>Health and safety</span></a></li>
+						<li><a href="/Company/corporate-responsibility/social-responsibility"><span>Social responsibility</span></a></li>
+						<li><a href="/Company/corporate-responsibility/environment"><span>Environment</span></a></li>
+						<li><a href="/Company/corporate-responsibility/compliance-businessethics"><span>Compliance and business ethics</span></a></li>
+						</ul>
+				</li>
+			<li>
+					<div class="h5"><a>Supplier information</a></div><ul>
+					<li><a href="/Company/supplier-information/supply-management-strategy"><span>Supply management strategy</span></a></li>
+						<li><a href="/Company/supplier-information/suppliers"><span>Requirements for suppliers</span></a></li>
+						<li><a href="/Company/supplier-information/sourcing-area-direct-materials"><span>Sourcing area - Direct productive materials</span></a></li>
+						<li><a href="/Company/supplier-information/sourcing-area-indirect-materials"><span>Sourcing area - Indirect materials</span></a></li>
+						</ul>
+				</li>
+			</ul>
+			</div>
+<div id="careersnode_foldout" class="foldoutcontent">
+		<ul class="companylist clearfix">
+			<li>
+					<div class="h5"><a>Jobs and application</a></div><ul>
+					<li><a href="/career"><span>Global job offers</span></a></li>
+						<li><a href="/Careers/Jobs-and-application/speculativeapplication"><span>Speculative application</span></a></li>
+						<li><a href="/Careers/Jobs-and-application/FAQ"><span>FAQ</span></a></li>
+						<li><a href="/Careers/Jobs-and-application/applicationtips"><span>Application tips</span></a></li>
+						<li><a href="/Careers/Jobs-and-application/events"><span>Events</span></a></li>
+						<li><a href="/Careers/Jobs-and-application/recruiters"><span>For recruiting agencies</span></a></li>
+						</ul>
+				</li>
+			<li>
+					<div class="h5"><a>Why Hilti</a></div><ul>
+					<li><a href="/Careers/Why-Hilti/successful"><span>Successful company</span></a></li>
+						<li><a href="/Careers/Why-Hilti/people"><span>Passion for people development</span></a></li>
+						<li><a href="/Careers/Why-Hilti/culture"><span>Living the corporate culture</span></a></li>
+						<li><a href="/Careers/Why-Hilti/independent"><span>Independent and solid</span></a></li>
+						<li><a href="/Careers/Why-Hilti/bestemployer"><span>Employer of choice</span></a></li>
+						</ul>
+				</li>
+			<li>
+					<div class="h5"><a>Your career with Hilti</a></div><ul>
+					<li><a href="/Careers/Your-career-with-Hilti/berufsausbildung"><span>Vocational training</span></a></li>
+						<li><a href="/Careers/Your-career-with-Hilti/students"><span>Students</span></a></li>
+						<li><a href="/Careers/Your-career-with-Hilti/outperformer"><span>OUTPERFORMER program</span></a></li>
+						<li><a href="/Careers/Your-career-with-Hilti/professionals"><span>Professionals</span></a></li>
+						</ul>
+				</li>
+			<li>
+					<div class="h5"><a>Meet our teams</a></div><ul>
+					<li><a href="/Careers/Meet-our-teams/testimonials"><span>Read our stories</span></a></li>
+						<li><a href="/summit"><span>Video OUTPERFORMER Summit 2014</span></a></li>
+						<li><a href="/Careers/Meet-our-teams/overview-outperformer"><span>OUTPERFORMER Program - Overview</span></a></li>
+						<li><a href="/Careers/Meet-our-teams/outperformer-structure"><span>OUTPERFORMER Program - Program structure</span></a></li>
+						<li><a href="/Careers/Meet-our-teams/outperformer-careerpaths"><span>OUTPERFORMER Program - Career paths</span></a></li>
+						<li><a href="/Careers/Meet-our-teams/internship-video"><span>Video internship</span></a></li>
+						<li><a href="/Careers/Meet-our-teams/RandD"><span>Video research and development</span></a></li>
+						<li><a href="/Careers/Meet-our-teams/video-sales"><span>Video sales</span></a></li>
+						</ul>
+				</li>
+			<li>
+					<div class="h5"><a>Stay connected</a></div><ul>
+					<li><a href="https://www.facebook.com/HiltiGroup" target="_blank"><span>Facebook</span></a></li>
+						<li><a href="http://www.linkedin.com/company/hilti" target="_blank"><span>LinkedIn</span></a></li>
+						<li><a href="http://www.youtube.com/playlist?list=PLinIdT8Aoi71PlFFxCrOpq_SqS6MsY4HN" target="_blank"><span>Youtube</span></a></li>
+						<li><a href="https://www.xing.com/companies/hiltiag" target="_blank"><span>Xing</span></a></li>
+						</ul>
+				</li>
+			</ul>
+			</div>
+<div id="_foldout" class="foldoutcontent">
+				<div class="h4">
+					<a href="#topnavigation-link-1_foldout" class="link-to-stage1"><strong>Back</strong></a><span>Anchor systems</span>
+				</div>
+				<ul class="productlist clearfix">
+				</ul>
+				
+
+
+
+
+
+
+<div class="teaser">
+	<div>
+		<div class="h5"> </div>
+		<img src="" alt="">
+		<p>
+		
+		</p>
+
+
+
+
+	</div>
+</div></div>
+
+			<div id="_foldout" class="foldoutcontent">
+				<div class="h4">
+					<a href="#topnavigation-link-1_foldout" class="link-to-stage1"><strong>Back</strong></a><span>Construction chemicals</span>
+				</div>
+				<ul class="productlist clearfix">
+				</ul>
+				
+
+
+
+
+
+
+<div class="teaser">
+	<div>
+		<div class="h5"> </div>
+		<img src="" alt="">
+		<p>
+		
+		</p>
+
+
+
+
+	</div>
+</div></div>
+
+			<div id="_foldout" class="foldoutcontent">
+				<div class="h4">
+					<a href="#topnavigation-link-1_foldout" class="link-to-stage1"><strong>Back</strong></a><span>Cordless systems</span>
+				</div>
+				<ul class="productlist clearfix">
+				</ul>
+				
+
+
+
+
+
+
+<div class="teaser">
+	<div>
+		<div class="h5"> </div>
+		<img src="" alt="">
+		<p>
+		
+		</p>
+
+
+
+
+	</div>
+</div></div>
+
+			<div id="_foldout" class="foldoutcontent">
+				<div class="h4">
+					<a href="#topnavigation-link-1_foldout" class="link-to-stage1"><strong>Back</strong></a><span>Cutting, sawing and grinding</span>
+				</div>
+				<ul class="productlist clearfix">
+				</ul>
+				
+
+
+
+
+
+
+<div class="teaser">
+	<div>
+		<div class="h5"> </div>
+		<img src="" alt="">
+		<p>
+		
+		</p>
+
+
+
+
+	</div>
+</div></div>
+
+			<div id="_foldout" class="foldoutcontent">
+				<div class="h4">
+					<a href="#topnavigation-link-1_foldout" class="link-to-stage1"><strong>Back</strong></a><span>Diamond coring and cutting</span>
+				</div>
+				<ul class="productlist clearfix">
+				</ul>
+				
+
+
+
+
+
+
+<div class="teaser">
+	<div>
+		<div class="h5"> </div>
+		<img src="" alt="">
+		<p>
+		
+		</p>
+
+
+
+
+	</div>
+</div></div>
+
+			<div id="_foldout" class="foldoutcontent">
+				<div class="h4">
+					<a href="#topnavigation-link-1_foldout" class="link-to-stage1"><strong>Back</strong></a><span>Direct fastening</span>
+				</div>
+				<ul class="productlist clearfix">
+				</ul>
+				
+
+
+
+
+
+
+<div class="teaser">
+	<div>
+		<div class="h5"> </div>
+		<img src="" alt="">
+		<p>
+		
+		</p>
+
+
+
+
+	</div>
+</div></div>
+
+			<div id="_foldout" class="foldoutcontent">
+				<div class="h4">
+					<a href="#topnavigation-link-1_foldout" class="link-to-stage1"><strong>Back</strong></a><span>Drilling and demolition</span>
+				</div>
+				<ul class="productlist clearfix">
+				</ul>
+				
+
+
+
+
+
+
+<div class="teaser">
+	<div>
+		<div class="h5"> </div>
+		<img src="" alt="">
+		<p>
+		
+		</p>
+
+
+
+
+	</div>
+</div></div>
+
+			<div id="_foldout" class="foldoutcontent">
+				<div class="h4">
+					<a href="#topnavigation-link-1_foldout" class="link-to-stage1"><strong>Back</strong></a><span>Firestop</span>
+				</div>
+				<ul class="productlist clearfix">
+				</ul>
+				
+
+
+
+
+
+
+<div class="teaser">
+	<div>
+		<div class="h5"> </div>
+		<img src="" alt="">
+		<p>
+		
+		</p>
+
+
+
+
+	</div>
+</div></div>
+
+			<div id="_foldout" class="foldoutcontent">
+				<div class="h4">
+					<a href="#topnavigation-link-1_foldout" class="link-to-stage1"><strong>Back</strong></a><span>Insert tools</span>
+				</div>
+				<ul class="productlist clearfix">
+				</ul>
+				
+
+
+
+
+
+
+<div class="teaser">
+	<div>
+		<div class="h5"> </div>
+		<img src="" alt="">
+		<p>
+		
+		</p>
+
+
+
+
+	</div>
+</div></div>
+
+			<div id="_foldout" class="foldoutcontent">
+				<div class="h4">
+					<a href="#topnavigation-link-1_foldout" class="link-to-stage1"><strong>Back</strong></a><span>Installation systems</span>
+				</div>
+				<ul class="productlist clearfix">
+				</ul>
+				
+
+
+
+
+
+
+<div class="teaser">
+	<div>
+		<div class="h5"> </div>
+		<img src="" alt="">
+		<p>
+		
+		</p>
+
+
+
+
+	</div>
+</div></div>
+
+			<div id="_foldout" class="foldoutcontent">
+				<div class="h4">
+					<a href="#topnavigation-link-1_foldout" class="link-to-stage1"><strong>Back</strong></a><span>Measuring systems</span>
+				</div>
+				<ul class="productlist clearfix">
+				</ul>
+				
+
+
+
+
+
+
+<div class="teaser">
+	<div>
+		<div class="h5"> </div>
+		<img src="" alt="">
+		<p>
+		
+		</p>
+
+
+
+
+	</div>
+</div></div>
+
+			<div id="_foldout" class="foldoutcontent">
+				<div class="h4">
+					<a href="#topnavigation-link-1_foldout" class="link-to-stage1"><strong>Back</strong></a><span>Screw fastening</span>
+				</div>
+				<ul class="productlist clearfix">
+				</ul>
+				
+
+
+
+
+
+
+<div class="teaser">
+	<div>
+		<div class="h5"> </div>
+		<img src="" alt="">
+		<p>
+		
+		</p>
+
+
+
+
+	</div>
+</div></div>
+
+			<div id="_foldout" class="foldoutcontent">
+				<div class="h4">
+					<a href="#topnavigation-link-1_foldout" class="link-to-stage1"><strong>Back</strong></a><span>Facade mounting systems</span>
+				</div>
+				<ul class="productlist clearfix">
+				</ul>
+				
+
+
+
+
+
+
+<div class="teaser">
+	<div>
+		<div class="h5"> </div>
+		<img src="" alt="">
+		<p>
+		
+		</p>
+
+
+
+
+	</div>
+</div></div>
+
+			<div id="_foldout" class="foldoutcontent">
+				<div class="h4">
+					<a href="#topnavigation-link-1_foldout" class="link-to-stage1"><strong>Back</strong></a><span>Solar</span>
+				</div>
+				<ul class="productlist clearfix">
+				</ul>
+				
+
+
+
+
+
+
+<div class="teaser">
+	<div>
+		<div class="h5"> </div>
+		<img src="" alt="">
+		<p>
+		
+		</p>
+
+
+
+
+	</div>
+</div></div>
+
+			<div id="awardsfoldout" class="foldoutcontent">
+				<div class="h4">
+					<a href="topnavigation-link-1_foldout" class="link-to-stage1"><strong>Back</strong></a><span>New Products, Awards and Innovations</span>
+				</div>
+				<ul class="teaserlist clearfix">
+					<li>
+							<a href="/media-release-30june2015">
+								<span class="prodpic">
+									<span><span>
+										<img src="/medias/sys_master/h9e/h72/9155684270110.jpg" alt="Product">
+									</span></span>
+								</span>
+								<span class="head">
+									Tough, reliable award winner</span>
+								<span>The PR 30-HVS Rotatin Laser<br type="_moz"></span>
+							</a>
+						</li>
+					<li>
+							<a href="/media-release-march2015">
+								<span class="prodpic">
+									<span><span>
+										<img src="/medias/sys_master/h52/h21/9142117400606/L066032.jpg" alt="Product">
+									</span></span>
+								</span>
+								<span class="head">
+									New Hilti breaker wins gold</span>
+								<span></span>
+							</a>
+						</li>
+					<li>
+							<a href="/company-report-awards">
+								<span class="prodpic">
+									<span><span>
+										<img src="/medias/sys_master/h7f/hae/9134711734302/CompanyReport_Award_120x75.jpg" alt="Product">
+									</span></span>
+								</span>
+								<span class="head">
+									Company Report Awards</span>
+								<span>Hilti Company Report wins two awards.<br type="_moz"></span>
+							</a>
+						</li>
+					<li>
+							<a href="/media-release-july2014">
+								<span class="prodpic">
+									<span><span>
+										<img src="/medias/sys_master/h3e/hd1/9124265787422/TE-70-family_120x75.jpg" alt="Product">
+									</span></span>
+								</span>
+								<span class="head">
+									Red Dot Design Award</span>
+								<span>TE 70 combihammer family<br type="_moz"></span>
+							</a>
+						</li>
+					<li>
+							<a href="/one-man-one-tool">
+								<span class="prodpic">
+									<span><span>
+										<img src="/medias/sys_master/hf8/h41/9116621471774/L059853_120x75.jpg" alt="Product">
+									</span></span>
+								</span>
+								<span class="head">
+									One man, one tool.</span>
+								<span>Reliability and versatility perfectly combined.</span>
+							</a>
+						</li>
+					</ul>
+				
+
+
+
+
+
+
+<div class="teaser">
+	<div>
+		<div class="h5"> </div>
+		<img src="" alt="">
+		<p>
+		
+		</p>
+
+
+
+
+	</div>
+</div></div>
+		<div id="awardsfoldout" class="foldoutcontent">
+				<div class="h4">
+					<a href="topnavigation-link-1_foldout" class="link-to-stage1"><strong>Back</strong></a><span>New Products, Awards and Innovations</span>
+				</div>
+				<ul class="teaserlist clearfix">
+					<li>
+							<a href="/media-release-30june2015">
+								<span class="prodpic">
+									<span><span>
+										<img src="/medias/sys_master/h9e/h72/9155684270110.jpg" alt="Product">
+									</span></span>
+								</span>
+								<span class="head">
+									Tough, reliable award winner</span>
+								<span>The PR 30-HVS Rotatin Laser<br type="_moz"></span>
+							</a>
+						</li>
+					<li>
+							<a href="/media-release-march2015">
+								<span class="prodpic">
+									<span><span>
+										<img src="/medias/sys_master/h52/h21/9142117400606/L066032.jpg" alt="Product">
+									</span></span>
+								</span>
+								<span class="head">
+									New Hilti breaker wins gold</span>
+								<span></span>
+							</a>
+						</li>
+					<li>
+							<a href="/company-report-awards">
+								<span class="prodpic">
+									<span><span>
+										<img src="/medias/sys_master/h7f/hae/9134711734302/CompanyReport_Award_120x75.jpg" alt="Product">
+									</span></span>
+								</span>
+								<span class="head">
+									Company Report Awards</span>
+								<span>Hilti Company Report wins two awards.<br type="_moz"></span>
+							</a>
+						</li>
+					<li>
+							<a href="/media-release-july2014">
+								<span class="prodpic">
+									<span><span>
+										<img src="/medias/sys_master/h3e/hd1/9124265787422/TE-70-family_120x75.jpg" alt="Product">
+									</span></span>
+								</span>
+								<span class="head">
+									Red Dot Design Award</span>
+								<span>TE 70 combihammer family<br type="_moz"></span>
+							</a>
+						</li>
+					<li>
+							<a href="/one-man-one-tool">
+								<span class="prodpic">
+									<span><span>
+										<img src="/medias/sys_master/hf8/h41/9116621471774/L059853_120x75.jpg" alt="Product">
+									</span></span>
+								</span>
+								<span class="head">
+									One man, one tool.</span>
+								<span>Reliability and versatility perfectly combined.</span>
+							</a>
+						</li>
+					</ul>
+				
+
+
+
+
+
+
+<div class="teaser">
+	<div>
+		<div class="h5"> </div>
+		<img src="" alt="">
+		<p>
+		
+		</p>
+
+
+
+
+	</div>
+</div></div>
+		<div id="awardsfoldout" class="foldoutcontent">
+				<div class="h4">
+					<a href="topnavigation-link-1_foldout" class="link-to-stage1"><strong>Back</strong></a><span>New Products, Awards and Innovations</span>
+				</div>
+				<ul class="teaserlist clearfix">
+					<li>
+							<a href="/media-release-30june2015">
+								<span class="prodpic">
+									<span><span>
+										<img src="/medias/sys_master/h9e/h72/9155684270110.jpg" alt="Product">
+									</span></span>
+								</span>
+								<span class="head">
+									Tough, reliable award winner</span>
+								<span>The PR 30-HVS Rotatin Laser<br type="_moz"></span>
+							</a>
+						</li>
+					<li>
+							<a href="/media-release-march2015">
+								<span class="prodpic">
+									<span><span>
+										<img src="/medias/sys_master/h52/h21/9142117400606/L066032.jpg" alt="Product">
+									</span></span>
+								</span>
+								<span class="head">
+									New Hilti breaker wins gold</span>
+								<span></span>
+							</a>
+						</li>
+					<li>
+							<a href="/company-report-awards">
+								<span class="prodpic">
+									<span><span>
+										<img src="/medias/sys_master/h7f/hae/9134711734302/CompanyReport_Award_120x75.jpg" alt="Product">
+									</span></span>
+								</span>
+								<span class="head">
+									Company Report Awards</span>
+								<span>Hilti Company Report wins two awards.<br type="_moz"></span>
+							</a>
+						</li>
+					<li>
+							<a href="/media-release-july2014">
+								<span class="prodpic">
+									<span><span>
+										<img src="/medias/sys_master/h3e/hd1/9124265787422/TE-70-family_120x75.jpg" alt="Product">
+									</span></span>
+								</span>
+								<span class="head">
+									Red Dot Design Award</span>
+								<span>TE 70 combihammer family<br type="_moz"></span>
+							</a>
+						</li>
+					<li>
+							<a href="/one-man-one-tool">
+								<span class="prodpic">
+									<span><span>
+										<img src="/medias/sys_master/hf8/h41/9116621471774/L059853_120x75.jpg" alt="Product">
+									</span></span>
+								</span>
+								<span class="head">
+									One man, one tool.</span>
+								<span>Reliability and versatility perfectly combined.</span>
+							</a>
+						</li>
+					</ul>
+				
+
+
+
+
+
+
+<div class="teaser">
+	<div>
+		<div class="h5"> </div>
+		<img src="" alt="">
+		<p>
+		
+		</p>
+
+
+
+
+	</div>
+</div></div>
+		<div class="slide-up"><a href="#">Close menu</a></div>
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+	$('#nav-foldout img[data-src]').each(function() {
+		$(this).attr('src', $(this).attr('data-src'));
+	});
+});
+</script><div id="breadcrumb">
+	<a href="/" class="arrow">Home</a>
+	<span>Privacy policy</span>
+			</div></header>
+	<!-- _start__index__mark_ --> 
+	<div id="content" class="editorials">
+		<div class="clearfix">
+			<div class="contenthead large">
+	<div>
+		<h1>PRIVACY POLICY</h1>
+		<h2></h2>
+</div>
+</div></div>
+		<div class="clearfix">
+			<div class="editorial content-copy big">
+	This website is brought to you by Hilti Aktiengesellschaft (“Hilti”). Terms like “we”, “us”, “our”, etc. in this Privacy Policy refer to Hilti. Terms like “you”, “your”, etc. refer to you as a user of the website, whether or not you register with the website. <br><br>Please read this Website Privacy Policy carefully and do not use the website if you disagree with any of the practices described herein. Please do also not use this web-site if you are below the age of 14. <br><br>We know that you care about your personal data and so do we. That is why we exercise care to handle personal data carefully and sensibly. We do not only have a reputation for providing quality products and excellent customer service but are also committed to pro-tecting your privacy in the online sphere. This Website Privacy Policy describes how we collect, process and use your personal data when you visit and/or register with the web-site. <br><br><strong>Table of contents</strong><br><ul><li>What is personal data?</li><li>Who is responsible for the proper handling of your personal data?</li><li>What do we do with your personal data?</li><li>What types of personal data do we collect, process and use?</li><li>Does the website use cookies and similar technologies?</li><li>Why and with whom do we share personal data?</li><li>Will personal data be transferred abroad?</li><li>What else do we do to protect your personal data?</li><li>How long do we retain personal data?</li><li>What privacy choices do you have?</li><li>Why do you receive emails from us?</li><li>Links to other websites</li><li>How are changes to this Website Privacy Policy communicated?</li><li>Contact us</li></ul><strong>What is personal data?</strong><br><br>The term “personal data”, as used herein, comprises any information attributed or at-tributable to you as a user of our website, whether such information was entered by you, collected from you or otherwise obtained.<br><br><strong>Who is responsible for the proper handling of your personal data?</strong><br><br>As the provider of this website, Hilti is the responsible data controller for all personal data that we hold about you, and that we collect, process and use in connection with your use of the website or otherwise.<br><br></div>
+<div class="editorial content-copy big">
+	<strong>What do we do with your personal data?</strong><br><ul><li>We collect, process and use your personal data only for the following purposes:</li><li>To administer, operate, maintain and improve the website;</li><li>To facilitate and process product and service orders placed on the website;</li><li>To provide you with a more personalized experience of our website (e.g., by tailoring any content or offers to your individual preferences);</li><li>To evaluate your eligibility for certain types of offers, products or services;</li><li>To help us to improve and personalize the website, our products and services;</li><li>To perform analytics and conduct customer research, including general market re-search or surveying our customers' needs and opinions on specific issues, generating sales and traffic patterns, and to analyze advertising effectiveness, both on an anony-mous basis (e.g., by aggregating data) or on an individual basis (if legally permissible);</li><li>To answer your questions and respond to your requests;</li><li>To provide you with information about products and services that may be of interest to you performed through traditional mail, email, telephone, fax, newsletter, text/SMS, and MMS messaging, including periodic sending&nbsp; of promotional materials on products, services and promotions of Hilti specifically dedicated to you (direct marketing);</li><li>To communicate with you on other matters (e.g., to send you reminders, technical no-tices, updates, security alerts, support and administrative messages or service bulle-tins);</li><li>To administer rewards, surveys, sweepstakes, contests, or other promotional activities or events;</li><li>To comply with legal obligations, prevent unlawful uses of the website, resolve dis-putes, and enforce our agreements;</li><li>For other purposes that you have specifically agreed to; and</li><li>Otherwise as permitted by applicable law.</li></ul>We will seek your consent before collecting, processing and using your personal data for the above-mentioned purposes, where legally required. Likewise, if we wish to use your personal data for a new or different purpose, we will notify you thereof and will only make such other use if it is required or permitted by applicable law or if you have con-sented to it.<br><br>For the purposes mentioned above, only a limited number of individuals within Hilti (e.g. individuals in sales, support, legal, finance, IT and accounting departments, as well as certain managers with assigned responsibility) will receive access to your personal data.<strong><br><br>What types of personal data do we collect, process and use?</strong><br><br>Personal data that we collect, process and use in connection with the website includes not only information that we actively collect while you interact with the website but also in-formation that you voluntarily provide to us over the website in various contexts (e.g., when you download software from our website, when you register for a sweepstake, when you send an e-mail to our customer service, when you fill in an online form, etc.). Hence, it is thus not possible to define an exclusive list of all potential types of personal data that we may collect, process and use. In general, however, typical types of personal data comprise the following:<br><br type="_moz"></div>
+<div class="editorial content-copy big">
+	<strong>What types of personal data do we collect, process and use?</strong><br><br>Personal data that we collect, process and use in connection with the website includes not only information that we actively collect while you interact with the website but also in-formation that you voluntarily provide to us over the website in various contexts (e.g., when you download software from our website, when you register for a sweepstake, when you send an e-mail to our customer service, when you fill in an online form, etc.). Hence, it is thus not possible to define an exclusive list of all potential types of personal data that we may collect, process and use. In general, however, typical types of personal data comprise the following:<br><ul><li>Name, title and address;</li><li>Personal contact information (phone, email, fax, etc.);</li><li>Name, address, department, contact information and other information in relation to a company that you represent (if any) and your function within this company;</li><li>Login name and password;</li><li>Hilti account number;</li><li>VAT number;</li><li>User profile information;</li><li>Confirmation of being either a private or a professional user;</li><li>User preferences (e.g., preferred language settings);</li><li>IP address, operating system, browser type, browser version, browser configuration, name of internet service provider, and other types of computer and connection related information relevant to identifying your type of device, connecting to the website, en-abling data exchange with you and your device, and ensuring a convenient use of the website;</li><li>URL and IP address of the website from which you accessed, or were directed to, our website, including date and time;</li><li>Subpages visited while on our website, links followed on the website, including date and time;</li><li>The full Uniform Resource Locator (URL) click stream to, through and from the website, including date and time;</li><li>Service requests and orders placed;</li><li>Shopping history, including open and completed transactions;</li><li>Search terms entered;</li><li>Services/products viewed or searched for on the website;</li><li>Shopping cart and payment information;</li><li>Information collected by cookies or similar technologies (as described in the next paragraph);</li><li>Newsletter subscriptions, enrollment for promotions, use of special offers, etc.</li><li>Consents, authorizations, etc. granted;</li><li>Survey answers, reviews, ratings and other types of feedback provided;</li><li>Content of any communication sent through the website, including any information posted in social communities on the website or otherwise shared with Hilti and/or other users, as well as chat messages and chat transcripts;</li><li>Information on software downloaded from the website; and</li><li>Any other information that you enter on, or upload to, the website (e.g., content that you fill into an online form, a photo that you upload).</li></ul></div>
+<div class="editorial content-copy big">
+	<strong>Does the website use cookies and similar technologies? </strong><br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <br>Cookies are small text files located in your browser directory. When a website is ac-cessed, a cookie that is placed on a device sends information to the browser. Cookies are extremely common and used on a number of websites. In general, the purpose of cookies is to improve the performance of the website and the user's experience in using that web-site, though cookies may also serve advertisements (which we explain below). <br><br>Hilti uses the following types of cookies and similar technologies in connection with this website:<br><ul><li>Google Analytics (persistent cookie that lasts after you close your browser): This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses cookies, which are text files placed on your com-puter, to help the website analyze how users use the site. The information generated by the cookie about your use of the website will be transferred to and stored by Google on servers in the United States. Before the transfer this information will be anonymized by removing the last octet of your IP address. Google will process this information on our behalf for the purpose of evaluating your use of the website, com-piling reports on website activity and providing other services relating to website ac-tivity and internet usage. Google will not link your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate set-tings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. You may further opt-out of the collection of your usage data (including your IP-address) and the processing of the data by Google by downloading and installing the add-on for your current web browser from the following link: <a href="http://tools.google.com/dlpage/gaoptout">tools.google.com/dlpage/gaoptout</a>.</li><li>JsessionID (session cookie that last until you close your internet browser): Hilti uses a cookie that serves to identify the user during his current session on this website. The Jsession ID cookie collects the user’s session ID but does not store any personal data after the user has closed his session and does not transfer any data to third parties.</li></ul><br>You can modify your cookies settings, or refuse to accept cookies at all, thus limiting the amount of personal data that we receive about you. The “Help” portion of the toolbar on most browsers tells you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Please be aware, however, that you might then not be able to take advantage of some functions and features of the website.<br><br>For a more thorough explanation of what cookies are and how they operate, please read the <a href="http://www.allaboutcookies.org/">All About Cookies website</a>.<br><br type="_moz"></div>
+<div class="editorial content-copy big">
+	<strong>Why and with whom do we share personal data?</strong><br><br>For the purposes mentioned above, we may share your personal data with third parties, including other entities of the Hilti group of companies. We do not sell, trade, rent, dis-close, transfer or otherwise share your personal data, unless to the extent described in the following or as agreed by you in a specific context (e.g., where you consenting to other types of data transfers in connection with enrolling for a specific service). Whenever sharing personal data, we do so only in strict accordance with applicable laws. <br><br>Potential recipients of your personal data are listed in the following:<br><ul><li>Other Hilti group entities and Hilti business partners: We may share your personal data with other entities of the Hilti group of companies (e.g. Hilti Market Organiza-tions responsible for the respective local websites) and with our business partners if there is a legitimate reason to do so (e.g., where a business partner renders parts of services ordered by you such as email service providers) and such sharing is legally permissible. A legal permission exists for instance if you have consented to the sharing of your personal data or if applicable law permits or requires it. In any case where we share your data with other entities of the Hilti group of companies or with our business partners we do so only for specific purposes.</li><li>Third party service providers: We may employ third party service providers (i.e., companies or individuals engaged by us) to perform certain functions on our behalf and under our instructions. Examples include database management, maintenance services, web analytics, handling in-bound inquiries, delivering packages, sending postal mail and email, removing repetitive information from customer lists, analysing data, providing sales and marketing assistance, processing credit card payments, and providing customer service. Third party service providers may for instance include IT companies, credit card processors, credit rating agencies or legal, financial and other advisors. Any third party provider will have access only to such personal data needed to perform its specific functions, and only for the purpose of performing these func-tions. We will ensure that any third party service provider is aware of and abides by these obligations. We will also ensure that any third party service provider treats your perso-nal data no less protective as required by applicable data protection laws and that they adopt adequate technical and organizational security measures.</li><li>Other users of the website: If you use posting, chat, messaging or other interactive functions provided on our website we may disclose your personal data to other users of the website, but only as required in connection with such functions.</li></ul></div>
+<div class="editorial content-copy big">
+	<ul><li>Courts, law enforcement authorities and regulators: We may share personal data when we believe it necessary to comply with the law, to protect the rights or safety of our website, other users, or third parties (e.g., for fraud protection purposes). Without limitation, this may include cases in which we are required to share personal data by the law or binding order of courts, law enforcement authorities or regulators. We will carefully determine the permissibility of providing personal data in each such context, paying particular attention to the type of request, types of data affected and any im-pact that a disclosure of personal data would have on the user affected. Should we decide to disclose personal data in such context we will also consider ways of reducing the scope of the disclosure, for instance by redacting the information pro-vided.</li><li>Buyers: As we continue to develop our business, we might sell all or parts of our website or business. In such transactions, user information generally is one of the transferred business assets, but remains subject to the promises made in any pre-existing Website Privacy Policy, unless you consent otherwise.</li></ul><strong>Will personal data be transferred abroad?</strong><br><br>Recipients of your personal data may be located in any country. This may include coun-tries where applicable data protection laws provide a lesser degree of protection than your home country. For instance, if you are located within the EU/EEA or Switzerland, the country where the recipient is located may not qualify as a safe country within the notion of the European Data Protection Directive (95/46/EC) or the Federal Data Protection Act of Switzerland. In such case, Hilti will nevertheless ensure an adequate level of protection for your data, for instance by ensuring that the recipient abides by the principles of the Safe Harbor (for recipients in the US) or by requiring the recipient to enter into so-called EC Model Clauses, which are sets of contractual clauses adopted by the European Commission for the purpose of adducing adequate safeguards to personal data in connec-tion with cross-border transfers. <br><br type="_moz"></div>
+<div class="editorial content-copy big">
+	<strong>What else do we do to protect your personal data?</strong><br><br>Hilti understands the importance of data security and we want your browsing and pur-chasing experience with us to be as safe as possible. We have implemented reasonable safeguards and precautions to protect your personal data, including technical and organi-zational measures against unauthorized access, improper use, alteration, unlawful or ac-cidental destruction, and accidental loss, both in an online and offline context.<br><br>Also, please understand that, while we strive to protect your personal data against poten-tial risks and exposures, there is no absolute security in the online sphere. Hence, we ask you to support our IT security efforts by not disclosing any data on our website that is particularly sensitive or not required in the specific context. In this context, please note that credit card credentials will not be stored absent your explicit permission. Further-more, you can help us protecting your personal data by signing off when you finished us-ing login-protected areas of the website. <br><strong><br>How long do we retain personal data?</strong><br><br>Your personal data is not retained by us for longer than necessary for the legally permis-sible purposes for which they were collected, as required under applicable retention poli-cies and/or as required or permitted in accordance with applicable law. Transcripts from online chats with our customer service are usually retained no longer than for 30 days.<br><br type="_moz"></div>
+<div class="editorial content-copy big">
+	<strong>What privacy choices do you have? <br></strong><br>You have a variety of choices regarding which data we may collect, process and use about you and for which purposes. Some of these choices include the following:<br><ul><li>You may use our website and its functions and features anonymously or through a pseudonym, unless where it is strictly necessary to identify you (e.g., in the context of a purchase).&nbsp;</li><li>You can choose not to provide certain personal data at all, in particular where we seek your consent for the collection of information.</li><li>You may at any time withdraw any privacy consent provided in the past with future effect and/or use our newsletter opt-out features and other features to unsubscribe.</li><li>You may at any time object to further uses of your personal data for marketing pur-poses.</li><li>Upon registration you can choose which personal data you wish to share with us. You can delete, add or update your profile information under “Change my profile”. When you do so, we may however keep a copy of the prior version for our records and may continue to use it for lawful purposes to the extent required.</li></ul><strong>Why do you receive emails from us?</strong><br><br>We may send you emails for various reasons, including the following:<br><ul><li>You have subscribed to our newsletter and/or opted in to receiving other types of marketing communication from us.</li><li>You have bought something on our website and we contact you in the context of this transaction.</li><li>You have placed an inquiry with us and we contact you in response to such an in-quiry.</li><li>We want to provide you with updates, privacy notices, warnings or other important information relevant to our users.&nbsp;&nbsp;&nbsp;</li></ul>If you are a registered user and wish to opt out from receiving marketing communication from us please change your preferences by visiting the “Change my profile” section of your account. You may also opt out by contacting us as described in the “Contact us” section below.<br><br type="_moz"></div>
+<div class="editorial content-copy big">
+	<strong>Links to other websites </strong><br><br>Our website may contain links to other websites. Such other websites are not controlled by us. When you visit such other website you do so at your own risk. Hilt cannot, and does not, assume any responsibility or liability for such other websites, the content of such websites and their privacy practices, nor do we endorse them. We encourage you to familiarize yourself with the privacy statements provided by such other websites prior to providing them with information about you or entering into any transactions on them.<br><br><strong>How are changes to this Website Privacy Policy communicated?<br></strong><br>Our business changes constantly and, therefore, our Website Privacy Policy will have to be adjusted from time to time. In such case, we will post on the website a new version of this Website Privacy Policy. You may easily identify a new version by checking the ver-sion data given in the last line below. Once posted, your continued use of our website will be deemed as your acceptance of the new version of the Website Privacy Policy. <br><strong><br>Contact us</strong><br><br>Your feedback is always welcome. If you have any questions or concerns about our pri-vacy practices or your online privacy please do not hesitate to contact us. You may also contact us if wish to gain access to the personal data we hold about you, if you wish to request that your personal data be updated, rectified, deleted or blocked, or that we re-frain from further use of your personal data, if you wish to withdraw any consents previ-ously granted, or if you wish to object to the creation of individual user profiles. <br><br>You may reach out to us as follows:<br><br>T +423-234 2111&nbsp; I&nbsp; F +423-234 2965<br><br>© Hilti Aktiengesellschaft<br>Version date: 10/01/2013<br><br type="_moz"></div>
+</div>
+		<div class="clearfix">
+			</div>
+		<div class="clearfix">
+			</div>
+		<div class="clearfix">
+			</div>
+		<div class="clearfix">
+			</div>
+		<div class="clearfix">
+			</div>
+		<div class="clearfix">
+			</div>
+		<div class="clearfix">
+			</div>
+		<div class="clearfix">
+			</div>
+	</div>
+	<!-- _end__index__mark_ --> 
+	<footer id="footer" class="shadow-light">
+		<div id="linklists" class="clearfix">
+	<div>
+		<div class="h3">Career</div>
+		<ul>
+			<li><a id="link-to-global-career-page" href="/career" title="Global job offers">Global job offers</a></li>
+			<li><a id="link-to-students-HR" href="/Careers/Your-career-with-Hilti/students" title="Students">Students</a></li>
+			<li><a id="link-to-OUTPERFORMER-Program" href="/Careers/Your-career-with-Hilti/outperformer" title="OUTPERFORMER program">OUTPERFORMER program</a></li>
+			</ul>
+		</div>
+		<div>
+		<div class="h3">Media relations</div>
+		<ul>
+			<li><a id="linkto-MediaReleases-2" href="/Company/media-relations/media" title="Media releases">Media releases</a></li>
+			<li><a id="linkto-MediaReleasesArchive-2" href="/Company/media-relations/media-releases-archive" title="Media releases archive">Media releases archive</a></li>
+			<li><a id="linkto-Publications-2" href="/Company/media-relations/publications" title="Publications">Publications</a></li>
+			<li><a id="PressPhotos-link" href="/Company/media-relations/press-photos" title="Press photos">Press photos</a></li>
+			</ul>
+		</div>
+		<div>
+		<div class="h3">Keep up with the latest trends.</div>
+		<ul>
+			<li><a id="linkto-Facebook-global-page" href="https://www.facebook.com/HiltiGroup" title="Global Facebook page" target="_blank">Global Facebook page</a></li>
+			<li><a id="linkto-YouTube-Global-channel" href="http://www.youtube.com/user/HiltiGroup" title="Global YouTube channel" target="_blank">Global YouTube channel</a></li>
+			</ul>
+		<div class="h3"></div>
+		<ul>
+			</ul>
+		</div>
+		</div>
+<div id="metalinks">
+	<ul>
+		<li><a id="FooterBottomLink1" href="/access-agreement" title="Access Agreement">Access Agreement</a></li>
+		<li><a id="FooterBottomLink2" href="/privacy-policy" title="Privacy Policy">Privacy Policy</a></li>
+		<li><a id="linkto-Impressum" href="/impressum" title="Impressum">Impressum</a></li>
+		</ul>
+</div>
+<div id="abouthilti">
+	<h3>Hilti.</h3><p>Hilti provides worldwide leading-edge technology to the international construction professionals. Hilti products, systems and services offer innovative solutions with outstanding added value to customers in the construction and building maintenance industries. The headquarters of the Hilti Group are in Schaan in the Principality of Liechtenstein.</p></div><div id="slogan">
+	<div class="h1">Hilti. Outperform. Outlast.</div>
+</div>
+<div id="totop">
+	<a href="#head" class="scrollto">Return to top</a>
+</div></footer>
+	<script type="text/javascript" src="/_ui/desktop/js/jquery.tablesorter.min.js?93"></script>
+    <script type="text/javascript" src="/_ui/desktop/js/chosen.jquery.min.js?93"></script>
+	<script type="text/javascript" src="/_ui/desktop/js/jquery-ui-1.8.21.custom.min.js?93"></script>
+	<script type="text/javascript" src="/_ui/desktop/js/jquery.cycle.min.js?93"></script>
+	<script type="text/javascript" src="/_ui/desktop/js/hyjack.select.min.js?93"></script>
+	<script type="text/javascript" src="/_ui/desktop/js/jquery.onload.min.js?93"></script>
+	<script type="text/javascript" src="/_ui/desktop/js/jquery.cookie.min.js?93"></script>
+</div>
 	<div class="dimmer" style="display:none"></div>
 	<div id="messageContainer">
 		<h2></h2>
@@ -1173,7 +1281,7 @@ $(document).ready(function() {
 		<div class="dimmer"></div>
 		<div id="preloader"><h2 id="preloader-text">Loading</h2></div>
 	</div>
-	<div id="cookiebanner" style="display: block;">
+	<div id="cookiebanner">
 		<div>
 			<div>
 				<p>We have placed cookies on your computer to help make this website better. You can <a href="#">change your cookie settings</a> at any time. Otherwise, we'll assume you're OK to continue.</p>
@@ -1190,4 +1298,4 @@ $(document).ready(function() {
 			});
 		</script>
 	</div>
-<div id="iframeoverlay" style="display: none;"><div class="overlaycontent"><div id="overlay-close"></div><iframe src="about:blank" frameborder="0" id="partner-frame"></iframe></div></div></body></html>
+</body></html>
