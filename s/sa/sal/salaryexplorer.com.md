@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salaryexplorer.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619015242id_/http%3A//www.salaryexplorer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salaryexplorer.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919020754id_/http%3A//www.salaryexplorer.com/privacy.php) for the most accurate reproduction.*
 
 # Salary Explorer Privacy Policy | Salary Comparison
 
@@ -13,12 +13,5 @@ At Salary Explorer we value your privacy and we realize how sensitive especially
 Security is provided by [ULTSEC](http://www.ultsec.com/)
 
   
-[
-
-Free Business English Course    
   
-Write better english and boost your career! 
 
-www.lettersandtemplates.com 
-
-](http://www.lettersandtemplates.com/business-english-course.php)
