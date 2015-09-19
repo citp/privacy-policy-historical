@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the winkbingo.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509214446id_/http%3A//www.winkbingo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winkbingo.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919024309id_/https%3A//www.winkbingo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy For WinkBingo Users
 
-  * [General TC’s](http://www.winkbingo.com/terms-and-conditions/)
-  * [Banking](http://www.winkbingo.com/banking/)
-  * [Responsible Gaming](http://www.winkbingo.com/responsible-gaming/)
+  * [General TC’s](https://www.winkbingo.com/terms-and-conditions/)
+  * [Banking](https://www.winkbingo.com/banking/)
+  * [Responsible Gaming](https://www.winkbingo.com/responsible-gaming/)
   * Privacy Policy
 
 
