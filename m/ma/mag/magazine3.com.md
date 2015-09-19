@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the magazine3.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074856id_/http%3A//magazine3.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magazine3.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919065350id_/http%3A//magazine3.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Magazine3 Wordpress Themes
 
-Posted On 15 Jun, 2014 - By [Matt Kaludi](http://magazine3.com/author/ugguseth/ "Posts by Matt Kaludi") \- With Comments Off
+Posted On 15 Jun, 2014 - By [Matt Kaludi](https://magazine3.com/author/ugguseth/ "Posts by Matt Kaludi") \- With Comments Off
 
-This Privacy Policy governs the manner in which Magazine3 collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://magazine3.com](http://magazine3.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Magazine3.
+This Privacy Policy governs the manner in which Magazine3 collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://magazine3.com](https://magazine3.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Magazine3.
 
 ####  **Personal identification information**
 
@@ -52,8 +52,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-[Magazine3](http://magazine3.com/)  
-[http://magazine3.com](http://magazine3.com/)  
+[Magazine3](https://magazine3.com/)  
+[https://magazine3.com](https://magazine3.com/)  
 RMK Commercial Complex,  
 Abids,  
 Hyderabad, Andhra Pradesh  
