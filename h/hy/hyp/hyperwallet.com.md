@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hyperwallet.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607084336id_/http%3A//www.hyperwallet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyperwallet.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919021702id_/http%3A//www.hyperwallet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Hyperwallet Systems Inc.
 
