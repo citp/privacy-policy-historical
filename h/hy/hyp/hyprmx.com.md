@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hyprmx.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615045915id_/http%3A//jungroup.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyprmx.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919090634id_/http%3A//jungroup.com/pp.html) for the most accurate reproduction.*
 
 # JunGroup.Privacy Policy (00021038.DOCX;4)
 
