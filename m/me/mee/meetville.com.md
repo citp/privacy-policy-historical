@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meetville.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408105045id_/http%3A//meetville.com/dating/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetville.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919220228id_/https%3A//meetville.com/dating/policy) for the most accurate reproduction.*
 
 # Privacy | Meetville | Meet the Right Person, Best Dating Apps for iPhone, iPad, Android
 
@@ -57,6 +57,6 @@ Please constantly update your personal data if they change. We strongly urge you
 
 We do not record or store your credit card information. Your payment details are encrypted with a secure socket layer technology (SSL) to ensure your payment data protection and transmitted directly to our processing company for authorization.
 
-Please, [contact](http://meetville.com/dating/feedback) our Support Team in case any financial security questions occur.
+Please, [contact](mailto:support@meetville.com) our Support Team in case any financial security questions occur.
 
 These Privacy Policy was last modified on January 30, 2015.
