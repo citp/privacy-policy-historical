@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rocketmiles.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326214459id_/https%3A//www.rocketmiles.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocketmiles.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919035303id_/https%3A//www.rocketmiles.com/privacy) for the most accurate reproduction.*
 
 # Rocketmiles - Privacy Policy
 
@@ -7,16 +7,6 @@ The policy was last modified on July 23rd, 2013
 ## What This Privacy Policy Covers
 
 Rocket Travel, Inc. ("Rocket Travel", "we", "us") knows that you care about how information about you is used and shared, and wants you to feel safe online. For that reason, we want to let you know how we treat personal information that we collect from users of both the full and mobile versions of our web site www.rocketmiles.com (together, the “Rocket Travel Site”). We also describe the choices available to you regarding our use of your personal information and how you can access and update this information. By providing personal information through the Rocket Travel Site you explicitly agree to our collection and use of all such information as described in this privacy policy.
-
-## TRUSTe
-
-Rocket Travel, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this Web site. www.rocketmiles.com and does not cover information that may be collected through mobile applications, devices or third party affiliates.
-
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at concierge@rocketmiles.com. If you are not satisfied with our response you can contact [TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint).
-
-## U.S.-E.U. Safe Harbor
-
-Rocket Travel, Inc. complies with the U.S.-E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Rocket Travel, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Rocket Travel, Inc’s certification, please visit [www.export.gov/safeharbor](http://www.export.gov/safeharbor/)
 
 ## What information we gather and use
 
@@ -54,7 +44,7 @@ We implement a variety of security measures to maintain the safety of your perso
 
 Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. We use session and persistent cookies to help us remember and process the items in your shopping cart and understand and save your preferences for future visits. If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly.
 
-We partner with third party ad networks to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. Web beacons are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking Here. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+We partner with third party ad networks to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. Web beacons are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence.
 
 The use of tracking technologies by our service providers, technology partners or other 3rd party assets (such as social media) on the site is not covered by our privacy policy. These 3rd parties may use cookies, clear gifs, images, and scripts to help them better manage their content on our site. We do not have access or control over these technologies. We do not tie the information gathered to our Customers’ or Users’ personally identifiable information.
 
@@ -64,7 +54,7 @@ We encourage you to promptly update your personally identifiable information if 
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-If you wish to subscribe to our newsletter or oter promotional email, we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us at concierge@rocketmiles.com
+If you wish to subscribe to our newsletter or other promotional email, we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us at concierge@rocketmiles.com
 
 ## California Online Privacy Protection Act Compliance
 
