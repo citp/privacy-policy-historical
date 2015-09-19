@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sunporno.com privacy policy that was archived on 2015-03-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315023015id_/http%3A//www.sunporno.com/pages/policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sunporno.com privacy policy that was archived on 2015-09-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150919140527id_/http%3A//www.sunporno.com/pages/policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -7,6 +7,12 @@
 		<link rel="alternate" href="http://www.sunporno.com/pages/policy.html" hreflang="en">
 		<link rel="alternate" href="http://www.sunporno.com/de/pages/policy.html" hreflang="de">
 		<link rel="alternate" href="http://www.sunporno.com/ru/pages/policy.html" hreflang="ru">
+		<link rel="alternate" href="http://www.sunporno.com/hi/pages/policy.html" hreflang="hi">
+		<link rel="alternate" href="http://www.sunporno.com/fr/pages/policy.html" hreflang="fr">
+		<link rel="alternate" href="http://www.sunporno.com/it/pages/policy.html" hreflang="it">
+		<link rel="alternate" href="http://www.sunporno.com/jp/pages/policy.html" hreflang="ja">
+		<link rel="alternate" href="http://www.sunporno.com/es/pages/policy.html" hreflang="es">
+		<link rel="alternate" href="http://www.sunporno.com/br/pages/policy.html" hreflang="pt-br">
 		<meta name="RATING" content="RTA-5042-1996-1400-1577-RTA">
 		
         <link rel="dns-prefetch" href="//ajax.googleapis.com">
@@ -19,12 +25,12 @@
         <link rel="dns-prefetch" href="//engine.phn.doublepimp.com">
         <link rel="dns-prefetch" href="//spots.ah-me.com">
 		
-		<link href="http://www.sunporno.com/css/style.css?v=11" rel="stylesheet" type="text/css">
+		<link href="http://www.sunporno.com/css/style.css?v=111" rel="stylesheet" type="text/css">
 		<link href="http://www.sunporno.com/css/handheld.css" rel="stylesheet" media="handheld,only screen and (max-device-width:800px)">
 		
 		<link type="text/css" rel="stylesheet" href="http://www.sunporno.com/css/jquery.jscrollpane.css">
 
-<script type="text/javascript" async="" src="http://cdn.engine.phn.doublepimp.com/Scripts/infinity.js.aspx?guid=dd037860-648a-4a77-a3e7-a76e4d996fe2" id="infinity" data-guid="dd037860-648a-4a77-a3e7-a76e4d996fe2" data-version="async"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="http://www.sunporno.com/js/jquery.min.js"><\/script>')</script><script src="http://www.sunporno.com/js/jquery.min.js"></script>
 
 <script type="text/javascript">
@@ -42,9 +48,13 @@
 	var COMMON_STATIC_CDN_URL = 'http://sunstatic.fuckandcdn.com/sun/sunstatic/v20/common/';
 	var STATIC_CDN_URL = 'http://sunstatic.fuckandcdn.com/sun/sunstatic/v20/new/';
 	var PATH_WEB = 'http://www.sunporno.com/';
+	var PATH_WEB_STATISTIC = 'http://st.sunporno.com/';
+	var PATH_MOBILE = 'http://m.sunporno.com/';
 	var PATH_WEB_MEMBER_PHOTO = '/avatars/';
 	var USERPIC_PREFIX = 'avatar_';
 	var THUMB_CDN_URL = 'http://sunstatic.fuckandcdn.com/sun/sunthumbs/320x240/';
+	var ROOT_DOMAIN = 'sunporno.com';
+	var COOKIE_LANGUAGE_SITE_NAME = 'language_site_name';
 	
 	var langLink = '';
 	
@@ -52,11 +62,6 @@
 		SYSTEM_MEMBER_ID: 1	};
 	
 	var loggedMember = false;
-	
-	var DICTIONARY = {
-		alertCaptcha: 'Error! Confirmation code is incorrect.',
-		defaultError: 'Unknown error. Please try again later'
-	};
 
 	function dbglog(str, important)
 	{
@@ -64,7 +69,20 @@
 			console.log(str);
 		}
 	}
+	
+	function _(str)
+	{
+		if (typeof DICTIONARY == 'object' && DICTIONARY[str]) {
+			return DICTIONARY[str]
+		} else {
+			return str;
+		}
+	}
 </script>
+
+
+<script type="text/javascript" src="http://sunstatic.fuckandcdn.com/sun/sunstatic/v20/common/js/dictionary.eng.js"></script>
+
 
 
 <script>
@@ -107,13 +125,12 @@ document.write(
 </head>
 
 
-<body class="page">
-
+<body class="page" data-area="page">
 
 <!-- HEADER STARTS -->
 <div class="head-container">
 <div class="header">
-  <div id="wrap-h" style="width:1000px;">
+  <div id="wrap-h">
 		<!-- Not Logged -->
 	<div class="auth">
 		<p><a rel="nofollow" href="http://www.sunporno.com/signup/" title="Sign Up" class="btn-signup">Sign Up</a></p>
@@ -131,7 +148,7 @@ document.write(
 	<ul class="or_popup" style="display: none;">
 
 
-				<li class="li_fay"><a href="http://www.sunporno.com/gay/">Gay</a></li>		<li class="li_she"><a href="http://www.sunporno.com/shemale/">Shemale</a></li>
+				<li class="li_fay"><a href="http://www.sunporno.com/gay/">Gay</a></li>		<li class="li_she"><a href="http://www.sunporno.com/shemale/">Transgender</a></li>
 
 
 	</ul>
@@ -158,11 +175,18 @@ document.write(
 		<span><b><img src="http://sunstatic.fuckandcdn.com/sun/sunstatic/v20/new/img/flags/24/EN.png" width="24" height="24" alt="sunporno" title="sunporno"></b></span>
 			<div class="lanq_popup" style="display: none;">
 			<ul>
-						<li><a rel="de" href="http://www.sunporno.com/de/"><img src="http://sunstatic.fuckandcdn.com/sun/sunstatic/v20/new/img/flags/24/DE.png" alt="sunporno" width="24" height="24" title="sunporno">Deutsch</a></li>
-						<li><a rel="ru" href="http://www.sunporno.com/ru/"><img src="http://sunstatic.fuckandcdn.com/sun/sunstatic/v20/new/img/flags/24/RU.png" alt="sunporno" width="24" height="24" title="sunporno">Русский</a></li>
-						<li><a rel="en" href="http://www.sunporno.com/"><img src="http://sunstatic.fuckandcdn.com/sun/sunstatic/v20/new/img/flags/24/EN.png" alt="sunporno" width="24" height="24" title="sunporno">English</a></li>
-						</ul>
-
+				<li><a rel="de" href="http://www.sunporno.com/de/"><img src="http://sunstatic.fuckandcdn.com/sun/sunstatic/v20/new/img/flags/24/DE.png" alt="sunporno" width="24" height="24" title="sunporno">Deutsch</a></li>
+				<li><a rel="ru" href="http://www.sunporno.com/ru/"><img src="http://sunstatic.fuckandcdn.com/sun/sunstatic/v20/new/img/flags/24/RU.png" alt="sunporno" width="24" height="24" title="sunporno">Русский</a></li>
+				<li><a rel="en" href="http://www.sunporno.com/"><img src="http://sunstatic.fuckandcdn.com/sun/sunstatic/v20/new/img/flags/24/EN.png" alt="sunporno" width="24" height="24" title="sunporno">English</a></li>
+				<li><a rel="hi" href="http://www.sunporno.com/hi/"><img src="http://sunstatic.fuckandcdn.com/sun/sunstatic/v20/new/img/flags/24/HI.png" alt="sunporno" width="24" height="24" title="sunporno">Hindi</a></li>
+				<li><a rel="fr" href="http://www.sunporno.com/fr/"><img src="http://sunstatic.fuckandcdn.com/sun/sunstatic/v20/new/img/flags/24/FR.png" alt="sunporno" width="24" height="24" title="sunporno">Français</a></li>
+			</ul>
+			<ul>
+				<li><a rel="it" href="http://www.sunporno.com/it/"><img src="http://sunstatic.fuckandcdn.com/sun/sunstatic/v20/new/img/flags/24/IT.png" alt="sunporno" width="24" height="24" title="sunporno">Italiano</a></li>
+				<li><a rel="jp" href="http://www.sunporno.com/jp/"><img src="http://sunstatic.fuckandcdn.com/sun/sunstatic/v20/new/img/flags/24/JP.png" alt="sunporno" width="24" height="24" title="sunporno">日本語</a></li>
+				<li><a rel="es" href="http://www.sunporno.com/es/"><img src="http://sunstatic.fuckandcdn.com/sun/sunstatic/v20/new/img/flags/24/ES.png" alt="sunporno" width="24" height="24" title="sunporno">Español</a></li>
+				<li><a rel="br" href="http://www.sunporno.com/br/"><img src="http://sunstatic.fuckandcdn.com/sun/sunstatic/v20/new/img/flags/24/BR.png" alt="sunporno" width="24" height="24" title="sunporno">Portuguese</a></li>
+			</ul>
 
 			</div>
 		</div>
@@ -193,11 +217,9 @@ document.write(
 
 
 
-		<li><a rel="nofollow" target="_blank" href="http://www.sunpornochat.com/">Live Cams</a></li>
+		<li><a rel="nofollow" target="_blank" href="http://cams.sunporno.com/">Live Cams</a></li>
 
-		<li><a rel="nofollow" target="_blank" href="http://www.fling.com/enter.php?prg=1&amp;t=best&amp;id=tgpalliance">Adult Dating</a></li>
-
-		<li><a rel="nofollow" target="_blank" href="http://store.sunporno.com/">Sex Shop</a></li>
+		<li><a rel="nofollow" target="_blank" href="http://adultfriendfinder.com/go/p61145.subsunweb">Adult Dating</a></li>
 
 
 
@@ -244,7 +266,7 @@ function get_cookie (cookie_name){
 	<form class="search" method="get" action="http://www.sunporno.com/" id="search-form">
 	
 			<div class="search-text-wrap">
-		<input type="text" name="q" id="query" value="" autocomplete="off">
+		<input type="text" name="q" id="query" value="" autocomplete="off" placeholder="Type search keywords">
 		</div>
 	
 		<a id="main-btn-search">Search</a>
@@ -385,10 +407,11 @@ request us to do so by contacting us at privacy@sunporno.com.<br><br>
 <div class="clearfix"></div>
 <!-- FOOTER 1ST LINE STARTS -->
 <div class="footer-1st-line">
-  <div class="wrap" style="width:1000px;">
+  <div class="wrap">
     <div class="column">
 	<h5>General Info</h5>
 	<ul>
+		<li><a href="http://sunporno.uservoice.com/forums/287373-general" target="_blank">Feedback</a></li>
 		<li><a href="http://www.sunporno.com/pages/faq.html">FAQ</a></li>
 		<li><a href="http://www.sunporno.com/pages/terms.html">Terms &amp; Conditions</a></li>
 		<li><a href="http://www.sunporno.com/pages/2257.html">18 U.S.C. 2257</a></li>
@@ -435,15 +458,19 @@ request us to do so by contacting us at privacy@sunporno.com.<br><br>
 <!-- FOOTER 1ST LINE ENDS -->
 <!-- FOOTER 2ND LINE STARTS -->
 <div class="footer-2nd-line">
-  <div class="wrap" style="width:1000px;">
+  <div class="wrap">
 	Copyright © 2014, SunPorno.com, All rights reserved. All models are 18+ y.o.
   </div>
 </div>
 <!-- FOOTER 2ND LINE ENDS -->
 
 
+
+
+
+
 <script type="text/javascript">
-  var sun_ad_configuration = [{"url":"http://sunstatic.fuckandcdn.com/sun/sunstatic/ads/top-banner.html","div_id":"sunAB0", "width":730, "height":90}, {"url":"http://sunstatic.fuckandcdn.com/sun/sunstatic/ads/NTVA.html","div_id":"sunAB1"}, {"url":"http://sunstatic.fuckandcdn.com/sun/sunstatic/ads/NTVB.html","div_id":"sunAB2"}, {"url":"http://sunstatic.fuckandcdn.com/sun/sunstatic/ads/NTVC.html","div_id":"sunAB3"}, {"url":"http://sunstatic.fuckandcdn.com/sun/sunstatic/ads/bottom-1.html","div_id":"sunAB4"}, {"url":"http://sunstatic.fuckandcdn.com/sun/sunstatic/ads/bottom-2.html","div_id":"sunAB5"}, {"url":"http://sunstatic.fuckandcdn.com/sun/sunstatic/ads/bottom-3.html","div_id":"sunAB6"}];
+  var sun_frm_configuration = [{"url":"http://sunstatic.fuckandcdn.com/sun/sunstatic/frms/top-banner.html","div_id":"sunAB0", "width":730, "height":90}, {"url":"http://sunstatic.fuckandcdn.com/sun/sunstatic/frms/NTVA.html","div_id":"sunAB1"}, {"url":"http://sunstatic.fuckandcdn.com/sun/sunstatic/frms/NTVB.html","div_id":"sunAB2"}, {"url":"http://sunstatic.fuckandcdn.com/sun/sunstatic/frms/NTVC.html","div_id":"sunAB3"}, {"url":"http://sunstatic.fuckandcdn.com/sun/sunstatic/frms/bottom-1.html","div_id":"sunAB4"}, {"url":"http://sunstatic.fuckandcdn.com/sun/sunstatic/frms/bottom-2.html","div_id":"sunAB5"}, {"url":"http://sunstatic.fuckandcdn.com/sun/sunstatic/frms/bottom-3.html","div_id":"sunAB6"}];
   var sun_ad_orientation = "straight";
   var sun_ad_category = "";
 </script>
@@ -452,27 +479,36 @@ request us to do so by contacting us at privacy@sunporno.com.<br><br>
 <link rel="stylesheet" type="text/css" media="screen" href="http://sunstatic.fuckandcdn.com/sun/sunstatic/v20/common/css/jquery.Jcrop.min.css">
 <link rel="stylesheet" type="text/css" media="screen" href="http://sunstatic.fuckandcdn.com/sun/sunstatic/v20/new/css/style_bottom.css">
 
-<script type="text/javascript" src="http://sunstatic.fuckandcdn.com/sun/sunstatic/v20/new/js/min/jcore_eng.min.js"></script>
-<script>typeof(formCallback) == 'function' || document.write('<script src="http://www.sunporno.com/js/min/jcore_eng.min.js"><\/script>')</script><script src="http://www.sunporno.com/js/min/jcore_eng.min.js"></script>
+<script type="text/javascript" src="http://sunstatic.fuckandcdn.com/sun/sunstatic/v20/new/js/min/v1/jcore.min.js"></script>
+<script>typeof(formCallback) == 'function' || document.write('<script src="http://www.sunporno.com/js/min/jcore.min.js?v=1"><\/script>')</script><script src="http://www.sunporno.com/js/min/jcore.min.js?v=1"></script>
 
 
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=sunporno" async="async"></script>
 
-
-<script data-cfasync="false" type="text/javascript">
-<!--//<![CDATA[
-if (!/ip(hone|od|ad)/i.test(navigator.userAgent.toLowerCase())) {
-	(function(s,o,l,v,e,d){if(s[o]==null&&s[l+e]){s[o]="loading";s[l+e](d,l=function(){s[o]="complete";s[v+e](d,l,!1)},!1)}})(document,"readyState","add","remove","EventListener","DOMContentLoaded");
-	(function() {
-	var s = document.createElement("script"); s.type = "text/javascript"; s.async = true;
-	s.src = "http://cdn.engine.phn.doublepimp.com/Scripts/infinity.js.aspx?guid=dd037860-648a-4a77-a3e7-a76e4d996fe2";
-	s.id = "infinity"; s.setAttribute("data-guid", "dd037860-648a-4a77-a3e7-a76e4d996fe2"); s.setAttribute("data-version", "async");
-	var e = document.getElementsByTagName('script')[0]; e.parentNode.insertBefore(s, e);
-	})();
-}
+<style type="text/css">
+a.at-svc-feedback {margin-bottom: 20px; background: #AE002F;}
+.at4-icon.aticon-feedback {background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACIAAABjCAYAAAD+Q9ILAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAG4nAABzrwAA9zUAAIUGAABs7gAA5xMAADHAAAAW+/9AKCsAAAL6SURBVHja7FntkaMwDFVurgFvCb4S2BLYErgS2BK8JWRLICUkJZASoIRQApSg+yPP6Lzmw4AVdseaYUjsjPMSSU9P4oSIcAT7BQexBCQBSUASkGcCySb2NADUQach4tqrR8TSs17QHoactwWINQtGIeIV/zcRID37wsp5jwRKBIhGxBq/2gMR89DztgCxl2H/RrX2nFOAHqlnskTT6ztbf1t6eAiQNQrq9O0I7XeMXyfNrGrj/m5A+okAftB+dCD5zH63oB7tGqx6Zl1JFD1rxkNw1rQEs1YOrdd0t9ZI1poe/dYjYiZZaxT9Mw8G4BoKIrTWHIZZlxQ8l9BuEkAUAFxnOGVxWdjimnoBsUWvvpqBuDE2/WDvPyRUfO5whcsbD8qgxWdupfiB7i3VFc3W1QLXbXZN69QSKw8burLgEzeQWUMuyYllfWpejOKV0+FZhq1D2fXHMKsGgIIF5UDxcmOBHD1G8onq+5B0TT+jwO4hDdYWzaoYg74Qnb8wRs0npORurtEzKoyndlRm7YjUlMc9dm1w+uDdssZ4wBTEpBe2XpJL3oOa5NSEb3DNW0wg35Li8xXn31OwSrjGFcMFKbFOmkd8RW8AgFen5CsiOQCAP1JFb/DoDrumJQY1fCJknMGMWSOet7hmTq13Eq4BCsZuot/5K8msirIkYzHTUhYNkkAOMfC12XOlVEYKVNtqllIqvvSod+NMHEWa8DMrbPeRYqdju0aTC2zLcA8cCO8eI+3IeiYVrB2lZ+nRKcYzrogarAanrZIc+FYjIBpnZCEylsjpylhTdXmWeLYU303Un6hZY4hVG5q7FkwKVFLMep5g1l6SWQ3TspcRfomu0OwXXADgcyIulAShTWmU3BkIRxvmDQSmpLtmtaVin2klgrWYYVYjyazlyGTx/IxHacoZ3N3WkFoIEPvILMz3EbKmIPY8O3UGV04KjjkNSED2IDTN6oz21B5unzEIbU4a+kzs4eJTXHOLwR8/rglPQBKQBCQBOQyQfwMAI5CC7WaPW9MAAAAASUVORK5CYII=") no-repeat 50% 0; height: 99px;}
+</style>
+<script>
+	var addthisTimer = setInterval(function() {
+		if ($('#at4-share').length) {
+			$('#at4-share').prepend(
+                '<a id="feedbackLink" class="at-svc-feedback" href="http://sunporno.uservoice.com/forums/287373-general" target="_blank" style="overflow: visible;"><span class="at4-icon aticon-feedback" title="Feedback" style="overflow: visible;">Feedback</span></a>'
+			);
+			clearInterval(addthisTimer);
+		}
+	}, 250);
 </script>
 
-<!--265803-->
+<script type="text/javascript" src="http://www.sunporno.com/js/flirt/serve.js"></script>
+<script type="text/javascript">
+<!--//<![CDATA[
+var url = (location.protocol=='https:'?'https://spots.ah-me.com/sp/delivery/js.php':'http://spots.ah-me.com/sp/delivery/js.php');
+document.write ("<scr"+"ipt type='text/javascript' src='"+ url +"?advplaces=20'><\/scr"+"ipt>");
+//]]>-->
+</script><script type="text/javascript" src="https://spots.ah-me.com/sp/delivery/js.php?advplaces=20"></script>
+
+<!--904646-->
 <div id="search-suggest-container"><div id="search-suggest-wrapper"><div id="search-suggest"></div></div></div>
 
 </body></html>
