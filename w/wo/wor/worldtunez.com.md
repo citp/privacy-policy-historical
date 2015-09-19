@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the worldtunez.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612033447id_/http%3A//worldtunez.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldtunez.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919064624id_/http%3A//worldtunez.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+Posted by  January 19th, 2015 04:22 PM on .  
 
 **worldtunez.com Privacy Policy**
 
