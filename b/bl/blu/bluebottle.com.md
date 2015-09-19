@@ -1,23 +1,8 @@
-> *The following text is extracted and transformed from the bluebottle.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315005052id_/https%3A//www.bluebottle.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluebottle.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919081456id_/https%3A//www.bluebottle.com/privacy.php) for the most accurate reproduction.*
 
-# Bluebottle Email: Privacy
-
-"I really like the way you guys run things." - **Jake L,**
-
-"Your email service is the best one of all. There is no other better spam provider other than yours.... TRULY THE BEST..." - **Jainam S,**
-
-"I can count many email providers who have promised many juicy things and could not fulfill them at all. I can confirm that Bluebottle is different and will remain different... keep up the good job." - **Oyeniyi B,**
-
-  
-"Now bluebottle is running smoother than Ever! Thank you very much for supplying me with the service." - **Connagh,**
-
-"Thank YOU for providing a great service! I've got my whole family hooked!" - **Kerryn M,**
-
-##  Bluebottle - the Only Anti-Spam solution you will ever need
-
+# Bluebottle: Privacy
 
 **1** | **PRIVACY POLICY**  
----|---  
 | This Privacy Policy: 
 
   1. discloses the privacy practices for the websites located at [www.bluebottle.com ](https://www.bluebottle.com/) and [mail.bluebottle.com ](https://mail.bluebottle.com/) (together, the **Website** ), solely operated by Bluebottle Solutions Pty Ltd ( **we** , the **Company** , or **us** ); and 
