@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barrysbootcamp.com privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603160357id_/http%3A//www.barrysbootcamp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barrysbootcamp.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919074732id_/http%3A//www.barrysbootcamp.com/privacy-policy) for the most accurate reproduction.*
 
 # Barry's Bootcamp | The Best Workout in the World®
 
