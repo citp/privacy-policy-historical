@@ -1,17 +1,18 @@
-> *The following text is extracted and transformed from the ralphlaurenhome.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616000545id_/http%3A//www.ralphlauren.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Drestrictions%23policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ralphlaurenhome.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919193142id_/http%3A//www.ralphlauren.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Drestrictions%23policies) for the most accurate reproduction.*
 
 # RalphLauren.com Customer Assistance
 
-  * [ Shipping ](https://web.archive.org/helpdesk/index.jsp?display=ship&subdisplay=shipMethods)
-  * [ Returning ](https://web.archive.org/helpdesk/index.jsp?display=returns&subdisplay=returns)
-  * [ Shopping and Payment ](https://web.archive.org/helpdesk/index.jsp?display=payment&subdisplay=checkout)
-  * [ Gift Services ](https://web.archive.org/helpdesk/index.jsp?display=gift&subdisplay=ogc)
-  * [ Account Information ](https://web.archive.org/helpdesk/index.jsp?display=account&subdisplay=registryWhy)
-  * [ About Our Products ](https://web.archive.org/helpdesk/index.jsp?display=shopping&subdisplay=product)
-  * [ Privacy Notice ](https://web.archive.org/helpdesk/index.jsp?display=safety&subdisplay=restrictions)
-  * [ Canadian Privacy Policy ](https://web.archive.org/helpdesk/index.jsp?display=tft&subdisplay=policies)
-  * [ Terms of Use ](https://web.archive.org/helpdesk/index.jsp?display=corp&subdisplay=terms)
-  * [ Frequently Asked Questions (FAQs) ](https://web.archive.org/helpdesk/index.jsp?display=faq&subdisplay=buyer)
+  * [ Shipping ](http://www.ralphlauren.com/helpdesk/index.jsp?display=ship&subdisplay=shipMethods)
+  * [ Returning ](http://www.ralphlauren.com/helpdesk/index.jsp?display=returns&subdisplay=returns)
+  * [ Shopping and Payment ](http://www.ralphlauren.com/helpdesk/index.jsp?display=payment&subdisplay=checkout)
+  * [ Gift Services ](http://www.ralphlauren.com/helpdesk/index.jsp?display=gift&subdisplay=ogc)
+  * [ Account Information ](http://www.ralphlauren.com/helpdesk/index.jsp?display=account&subdisplay=registryWhy)
+  * [ About Our Products ](http://www.ralphlauren.com/helpdesk/index.jsp?display=shopping&subdisplay=product)
+  * [ Privacy Notice ](http://www.ralphlauren.com/helpdesk/index.jsp?display=safety&subdisplay=restrictions)
+  * [ Canadian Privacy Policy ](http://www.ralphlauren.com/helpdesk/index.jsp?display=tft&subdisplay=policies)
+  * [ Operating Guidelines ](http://www.ralphlauren.com/helpdesk/index.jsp?display=terms&subdisplay=other)
+  * [ Terms of Use ](http://www.ralphlauren.com/helpdesk/index.jsp?display=corp&subdisplay=terms)
+  * [ Frequently Asked Questions (FAQs) ](http://www.ralphlauren.com/helpdesk/index.jsp?display=faq&subdisplay=buyer)
   * [Contact Us](https://www.ralphlauren.com/helpdesk/index.jsp?display=store&subdisplay=contact)
   * [Site Map](https://web.archive.org/helpdesk/sitemap.jsp)
 
@@ -311,7 +312,7 @@ Ralph Lauren's practices regarding the collection, storage, transfer, use and ot
 
 We notify our Customers and Workers located in the EEA and Switzerland about the purposes for which we collect and use Personal Information, the types of third parties to which we disclose the information (for example, service providers that process Personal Information on our behalf), certain privacy rights of our Customers and Workers (such as the right to access Personal Information and the choice for limiting the use and disclosure of the information), and how to contact us about our practices concerning Personal Information. 
 
-Job applicants who submit Personal Information through our careers site may view our [ Careers Privacy Policy](http://global.ralphlauren.com/en-us/about/pages/careers.aspx?ab=footer_careers)for details about our Personal Information privacy practices. Current Workers can find additional information in the Employee Data Protection Policy available on Polo Express or from local Human Resources representatives. Customers may view our Privacy Notice by clicking [here](https://web.archive.org/web/20150616000545id_/http%3A//www.ralphlauren.com/helpdesk/index.jsp?display=safety&subdisplay=restrictions#policies). 
+Job applicants who submit Personal Information through our careers site may view our [ Careers Privacy Policy](http://global.ralphlauren.com/en-us/about/pages/careers.aspx?ab=footer_careers)for details about our Personal Information privacy practices. Current Workers can find additional information in the Employee Data Protection Policy available on Polo Express or from local Human Resources representatives. Customers may view our Privacy Notice by clicking [here](https://web.archive.org/web/20150919193142id_/http%3A//www.ralphlauren.com/helpdesk/index.jsp?display=safety&subdisplay=restrictions#policies). 
 
 **Purpose of Collection and Use of Personal Information**
 
