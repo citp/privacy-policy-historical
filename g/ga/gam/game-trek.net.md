@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the game-trek.net privacy policy that was archived on 2014-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141003234639id_/http%3A//game-trek.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the game-trek.net privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919235832id_/http%3A//game-trek.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,7 +16,7 @@ Information Sharing: We may share your personal information in limited circumsta
 
 Internet Advertising: Our ability to provide free content and services depends on advertising. Some of our ads are displayed based on the page visited, but many of our ads are targeted to you based on your interests and other information we have about you. Game-Trek permits the use of advertising by third party advertisers. Some advertising partners may use cookies or similar technologies to better measure campaign effectiveness, target future campaigns and deliver a more targeted experience to users.
 
-By using this site, you signify your agreement to the Capellov LTD’s Online Privacy Policy. If you do not agree to this Privacy Policy, please do not use this site.
+By using this site, you signify your agreement to the Capellov LTDâ€™s Online Privacy Policy. If you do not agree to this Privacy Policy, please do not use this site.
 
 Capellov LTD may change its privacy policy from time to time
 
