@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directflights.com.au privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321133013id_/https%3A//www.directflights.com.au/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directflights.com.au privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919091132id_/https%3A//www.directflights.com.au/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Online Cheap Flights, Hotels, Car Hire & Holiday Booking Australia - Privacy Policy
 
@@ -27,3 +27,5 @@ Direct Flights is committed to protecting your privacy. We use the information w
 Direct Flights welcomes your questions and comments about privacy, as well as any other aspect of our service. You can always enquire about or check the information that you have given us by contacting [techsupport@directflights.com.au](mailto:techsupport@directflights.com.au?subject=techsupport@directflights.com.au).
 
 When you visit our website and would like to make payment using Paypal, you would be requested to sign in using your Paypal logon. This is to ensure you are a genuine Paypal account owner and enable you to make the payment with your Paypal account. We guarantee your information is 100% safe and we do not capture nor does it store any of your sensitive details (linked with your Paypal account). During a Paypal payment transaction, no one can access or see your login credentials. We do not share any of your details with any 3rd party companies, the details would be used solely for your travel reservation. All communication via Paypal takes place using HTTPS transport level security and none of the information is collected or cached on our website.
+
+Braintree payment gateway (PCI-DSS compliant) platform is not only protects all online data transaction in real time, but also supports faster transaction and reduce processing time for your booking with us.
