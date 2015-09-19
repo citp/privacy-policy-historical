@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gouletpens.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623093552id_/http%3A//www.gouletpens.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gouletpens.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919085006id_/http%3A//www.gouletpens.com/privacy-policy) for the most accurate reproduction.*
 
 # The Goulet Pen Company
 
