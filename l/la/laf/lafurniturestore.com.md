@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lafurniturestore.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319170346id_/http%3A//www.lafurniturestore.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lafurniturestore.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919204055id_/http%3A//www.lafurniturestore.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -100,5 +100,3 @@ Contacting Us
     
 
 If there are any questions regarding this privacy policy you may [contact us](https://web.archive.org/contacts)
-
- 
