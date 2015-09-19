@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the britishairways.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921005757id_/http%3A//www.britishairways.com/travel/prvdet-vsg/public/en_us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britishairways.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919230632id_/http%3A//www.britishairways.com/travel/prvdet-vsg/public/en_us) for the most accurate reproduction.*
 
 # Privacy Policy | Legal | British Airways -
 
-## Introduction
-
- **British Airways is committed to respecting your privacy and protecting your personal information**
+### British Airways is committed to respecting your privacy and protecting your personal information.
 
 We’ve written this Privacy Policy to let you know how we use your personal information. In it, we explain the types of personal information we collect, how we collect it, what we use it for and who we may share your personal information with.
 
-Below is a high level summary of the Privacy Policy, setting out the most important points. [View our full Privacy Policy (updated July 2014)](http://www.britishairways.com/information/legal/privacy-policy?).
+Below is a **high level summary** of the Privacy Policy, setting out the most important points. [View our full Privacy Policy (updated July 2014)](http://www.britishairways.com/information/legal/privacy-policy?).
 
 This Privacy Policy comes into effect from 22 July 2014 and replaces our [previous Privacy Policy](http://www.britishairways.com/information/legal/privacy-policy/privacy-policy-2012). This Privacy Policy applies to all information we process about you in connection with your relationship with us as a customer or potential customer, including where you have a British Airways Executive Club account with us.
 
 Please [contact us](http://www.britishairways.com/travel/askbainter/public/en_gb) if you would like to find out more about any matters to do with this Privacy Policy.
+
+## High level policy
 
 ### What this Privacy Policy covers
 
@@ -48,3 +48,8 @@ We do not sell personal information to third parties, and we only allow third pa
 ### How we look after the policy
 
 We will keep this Privacy Policy under review and notify you of any changes by posting the revised policy on ba.com, to take effect as soon as it is posted.
+
+## Detailed policy
+
+Last updated: July 2014  
+© British Airways Plc
