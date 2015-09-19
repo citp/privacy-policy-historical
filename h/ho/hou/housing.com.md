@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the housing.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616223305id_/https%3A//housing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the housing.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919194000id_/https%3A//housing.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Housing
+# privacy-policy
 
 Welcome to Housing.com! We are a real estate information service connecting people in the real estate market. Housing.com and our subsidiaries and affiliates (collectively " **Housing.com** ") provide you with access to a variety of services, including but not limited to the www.housing.com website (the " **Website** ") and Housing.com's mobile applications and all the products and services available through our website (collectively the " **Services** "). The Website is owned and operated by Locon Solutions Private Limited, a company incorporated under the laws of India.
 
