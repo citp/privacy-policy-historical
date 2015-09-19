@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the santhigramusa.com privacy policy that was archived on 2013-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130119001033id_/http%3A//www.santhigramusa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the santhigramusa.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919054709id_/http%3A//santhigramusa.com/privacy-policy) for the most accurate reproduction.*
 
-# Rejuvenation Therapy | Privacy Policy Of Santhigram
+# Treatment for Allergy in USA | Treatment for Arthritis in USA | Treatment for Asthma in USA | Treatment for Sinusitis in USA | Santhigram
 
 **Website Visitors**
 
