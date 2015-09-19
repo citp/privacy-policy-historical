@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the songtrust.com privacy policy that was archived on 2015-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150405230440id_/https%3A//www.songtrust.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the songtrust.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919062121id_/https%3A//www.songtrust.com/privacy) for the most accurate reproduction.*
 
 # Songtrust | Privacy
 
