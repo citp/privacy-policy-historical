@@ -1,50 +1,117 @@
-> *The following text is extracted and transformed from the acornonline.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408002611id_/http%3A//acornonline.com/privacy-policy/a/340) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acornonline.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919135356id_/http%3A//www.acornonline.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Acorn Online
+# Privacy Policy
 
-Acorn Direct and the Acorn catalog (hereafter referred to as Acorn) is committed to respecting your privacy and recognizing your need for appropriate protection and management of personally identifiable information you share with us (the phrases "personally identifiable information" or "personal information" mean any information by which you can be identified, such as your name, address, telephone number, etc.). The purpose of this privacy policy is to inform you what personally identifiable information or personal information we may collect from you when you visit our web site, how we use such information, and the choices you have regarding our use of, and your ability to review and correct, the information. This policy applies only to users accessing our web site from the United States and Canada.
+This **“Privacy Policy”** explains our policy regarding the collection, use, disclosure and transfer of certain information, including your personal information, by the RLJ Entertainment, Inc.’s family of companies (" **RLJE** ").
 
-As a part of our commitment to your privacy, Acorn supports and adheres to the guidelines and practices adopted by the Direct Marketing Association's "Privacy Promise to American Consumers." We have agreed to (1) provide customers with notice of their ability to opt out of information rental, sale or exchange with other marketers; (2) honor customers' requests not to share their information with other marketers; and (3) honor customers' requests not to receive mail, telephone or other solicitations from Acorn.
+By visiting or browsing the RLJE Sites, you are accepting our practices described in this Privacy Policy.
 
-**Collecting Information About You**  
-In general, you can visit many of our web pages without telling us who you are or revealing any personal information about yourself. We may track the Internet domain address from which people visit us and analyze this data for trends and statistics, but individual users will remain anonymous, unless you voluntarily tell us who you are.
+“ **RLJE Sites** ” refer to any website domain name registered to RLJE, including, but not limited to:  
+http://www.RLJEntertainment.com/  
+http://www.us.rljentertainment.com/  
+http://www.image-entertainment.com/  
+**http://acornonline.com/  
+http://acacialifestyle.com/**  
+http://www.acorndvd.com/  
+http://acornmediaau.com/  
+http://acorn.tv/  
+https://www.youtube.com/user/OnCueNetwork  
+http://www.acacia.tv/  
+http://www.acornproductionsltd.com/  
+http://www.agathachristie.com/
 
-There may be times (such as when you order a product, subscribe to a service, register to receive catalogs, or to participate in contests, sweepstakes or promotions, etc.) at which we ask you to provide certain information about yourself, such as your name, shipping/billing address, telephone number, email address, credit card information, birth date, gender, occupation, personal interests, etc. We also maintain a record of your online product purchases. Whether or not to provide such information is completely your own choice. But if you choose not to provide the information we request, you may be unable to purchase products, or access certain services, offers and content on our web site.
+For the purposes of this Privacy Policy, the term "personal information" refers to information that can be used to uniquely identify or contact you. Non-personal information is information that does not permit direct association with you. We may collect, use, transfer and disclose non-personal information for any purpose.
 
-**Using Information About You**  
-We use the personally identifiable information you provide for internal purposes, such as confirming and tracking your order, subscription or registration, analyzing trends and statistics, informing you of our new products, services and offers, etc. From time to time we might establish a business relationship with other persons or entities we deem trustworthy and whose privacy policies are consistent with ours. These are known as our Select Partners. In such cases we might share information, including personally identifiable information about you, that will enable such persons or entities to contact you regarding products and services that may be of interest to you.
+**Contents**  
+What Personal Information About You Does RLJE Gather?  
+What About Cookies?  
+What Does RLJE Do With The Information?  
+Does RLJE Share The Information It Receives?  
+How Secure Is The Information?  
+What About Third Party Advertisers And Links to Other Websites?  
+What About Children?  
+What Choices Do I Have?  
+What If We Make Changes To This Policy?  
+Contacting Us
 
-To serve you better, we may combine information you give us online or through our catalogs. We use that combined information to enhance and personalize your shopping experience with us, and to communicate with you by mail about our products and events that may be of interest to you.
+**What Personal Information About You Does RLJE Gather?**
 
-Although unlikely, in certain instances we may disclose your personally identifiable information when we have reason to believe that it is necessary to identify, contact or bring legal action against persons or entities who may be causing injury to you, to Acorn or to others. Acorn may also disclose your personally identifiable information when we believe the law requires it.
+The information we learn from you helps us personalize and continually improve your RLJE experience. Here are the types of information we gather.
 
-**Editing, Updating, Correcting and Deleting Information About You**  
-We want to communicate with you only if you want to hear from us. If you prefer not to receive information from us or from our Select Partners please let us know by calling us at 1-888-870-8047 or by sending us an email at [customerservice@acornonline.com](mailto:customerservice@acornonline.com) Please be sure to include your email address, full name, and specifically what information you do not want to receive. If you would like to update or correct your email address, street address or other personal information with us please contact us the same way.
+**Information You Give Us:** We receive and store any information you enter on our websites or give us in any other way. Examples are when you enter your information while using our services, interact with our customer service, or participate in surveys or marketing promotions. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, and communicating with you.  
+**Automatic Information:** We receive and store certain types of information whenever you interact with us. For example, like many websites, we use "cookies" and we obtain certain types of information when your web browser accesses RLJE Sites.  
+**Mobile:** When you download or use apps created by RLJE, we may receive information about your location and your mobile device. We may use this information to provide you with location-based services, such as advertising, search results, and other personalized content. Most mobile devices allow you to turn off location services.  
+**Social Networking Accounts:** If you choose to connect one or more social networking accounts (such as Facebook) with your RLJE account, we will obtain information from your social networking account.  
+**Email Communications:** To help us make emails more useful and interesting, we often receive a confirmation when you open email from RLJE if your computer supports such capabilities. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive email or other mail from us, you may unsubscribe to the email.  
+**Information from Other Sources:** We may supplement the information described above with information we obtain from other sources, including from both online and offline data providers. Such supplemental information may include demographic data and Internet browsing behavior. We may use this supplemented information for purposes that are consistent with this Privacy Policy.
 
-Please note that sometimes these requests may take up to 6-8 weeks to be effective, particularly if we are removing your name from postal mailings. In addition, when you purchase from us online or through our catalogs we may need to contact you via phone, email or mail to address questions specific to your order, even if you have opted to not receive communications.
+**What About Cookies?**
 
+Cookies are small pieces of data sent from our website and stored on your web browser. Your browser sends the cookie back to our server to notify us of your previous activity. It is a mechanism used to remember information (such as items in your shopping cart). The Help feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.
+
+**What Does RLJE Do With the Information It Receives?**
+
+We use the information we collect to provide, analyze, administer, enhance and personalize our services and marketing efforts for you and others. For example, we may use the information we collect for purposes such as:
+
+  
+
+
+  * determining your general geographic location, providing localized content, providing recommendations on movies and TV shows we think will be enjoyable, determining your Internet service provider and helping us quickly and efficiently respond to inquiries and requests;
+  * preventing, detecting and investigating potentially prohibited or illegal activities, including fraud, and enforcing our terms (such as determining free trial eligibility);
+  * sending you e-mails, push notifications or other correspondence and advertising concerning our service, including newsletters, messages about new RLJE features, RLJE special offers, promotional announcements and consumer surveys. From time to time, we may partner with companies whose products we believe will interest our members. In conjunction with these partners, we may send promotional announcements and/or serve web-based advertisements on their behalf, as permitted by law.
+
+
+
+We may use information on an aggregated or anonymous basis. For example, we use movie and TV show ratings and consumption behavior, as well as commentary and reviews, on an aggregate or anonymous basis, to improve our recommendations to you as well as other users. Aggregated or anonymous information may be used for a variety purposes not explicitly set forth in this policy.
+
+**Does RLJE Share the Information It Receives?**
+
+Information about you is an important part of our business and we are not in the business of selling it to others. We share your information only as described below:  
+**RLJE family of companies:** We may share your information among the RLJE family of companies (see: http://www.RLJEEntertainment.com).  These companies when handling this information, will follow practices that are consistent with the practices described in this Privacy Policy.  
+**Service Providers** : We use other companies, agents or contractors ("Service Providers") to perform services on our behalf. For example, we engage Service Providers to fulfill orders, deliver packages, send postal mail and e-mail, remove repetitive information from customer lists, provide marketing, advertising, communications, infrastructure and IT services, to personalize and optimize our services, to process and limit fraud in connection with credit card transactions or other payment methods, to provide customer service, to collect debts, to analyze and enhance data (including data about users' interactions with our service), and to process and administer consumer surveys. In the course of providing such services, these Service Providers may have access to your personal or other information. We do not authorize them to use or disclose your personal information except in connection with providing their services.  
+**Promotional Offers** : We may offer joint promotions or programs that, in order for your participation, will require us to share your information with third parties. For example, we may partner with companies that offer incentives, such as frequent flyer mileage awards, if you sign up or otherwise utilize our service. In fulfilling these types of promotions, we may share your name and other information in connection with fulfilling the incentive. By participating in such joint promotions or programs, you agree to our sharing of your information. Please note that we do not control the privacy practices of these third party businesses.  
+**Business Transfers:** In connection with any reorganization, restructuring, merger or sale, or other transfer of assets, we reserve the right to transfer information, including personal information, provided that the receiving party agrees to respect your personal information in a manner that is consistent with our Privacy Policy.  
+**Protection of RLJE and Others** : RLJE and its Service Providers may disclose and otherwise use your personal and other information where we or they reasonably believe such disclosure is needed to (a) comply with any applicable law, regulation, legal process, or governmental request, (b) enforce applicable terms of use, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address illegal or suspected illegal activities (including payment fraud), security or technical issues, or (d) protect against harm to the rights, property or safety of RLJE, its users or the public, as required or permitted by law.
+
+**How Secure Is the Information?**
+
+RLJE uses reasonable administrative, technical, physical and managerial measures to safeguard your personal information against loss, theft and unauthorized access, use and modification. For example, we may utilize Secure Sockets Layering (SSL) software, which encrypts information you input.  
+Unfortunately, no security system can be guaranteed to be 100% secure. Accordingly, we cannot guarantee the security of your information and cannot assume liability for improper access to it. By using our service, including our website and user interfaces, or providing information to us through any means, you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of RLJE Services.  
+It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
+
+**What About Third Party Advertisers and Links to Other Websites?**
+
+Our sites include third-party advertising and links to other web sites. Our services may be provided through platforms or contain links to sites operated by third parties whose policies regarding the handling of information may differ from ours. For example, you may be able to access RLJE services through platforms such as gaming systems, smart TVs, mobile devices, set top boxes and a number of other Internet connected devices. These websites and platforms have separate and independent privacy statements, notices and terms of use, which we recommend you read carefully. In addition, you may encounter third party applications that interact with RLJE services. RLJE is not responsible for the information handling practices of these other websites and platforms.
+
+**What About Children?**
+
+RLJE does not sell products for purchase by children. We may sell children’s products for purchase by adults.
+
+You must be 18 years of age or older to purchase RLJE products or subscribe to the RLJE services.
+
+If you are under 18, you must involve a parent or guardian.
+
+In certain jurisdictions, the age of majority may be older than 18, in which case, you must satisfy that age in order to purchase, become a member, and/or subscribe to RLJE services.
+
+**What Choices Do I Have?**
+
+You may always choose not to provide information, even though it might be needed to make a purchase or to take advantage of RLJE features.
+
+We want to communicate with you only if you want to hear from us. If you prefer not to receive information from us, then either:  
+Update your information in your account.  
+Send us an email at inquiries@RLJEntertainment.com
+
+Please be sure to include your email address, full name, and specifically what information you do not want to receive. If you would like to update or correct your email address, street address or other personal information with us please contact us the same way.
+
+Please note that sometimes these requests may take up to 6-8 weeks to be effective, particularly if we are removing your name from postal mailings. In addition, when you purchase from us online or through our catalogs we may need to contact you via phone, email or mail to address questions specific to your order, even if you have opted to not receive communications.  
 Please remember, if you delete certain information you may not be able to continue to purchase products or access other portions of our web site without entering additional information.
 
-**Protecting Children**  
-We at Acorn take special care to protect the safety and privacy of children. Our web site is a general audience site. We do not permit children under the age of 18 to purchase products on our web site nor do we permit anyone under the age of 13 to register with us. We also do not send email correspondence to anyone who tells us that they are under the age of 13.
+**What if We Make Changes to this Policy?**
 
-Children under the age of 13 should always ask their parents or guardians for permission before providing any personal information to anyone online. We urge parents and guardians to participate in their children's online activities and use parental control or other web filtering technology to supervise children's access to the web.
+RLJE reserves the right to change this Privacy Policy at any time. All changes to the Privacy Policy will be effective when posted, and your continued use of any RLJE Sites or services after the posting will constitute acceptance of, and agreement to be bound by, those changes.
 
-**Cookies**  
-Our web site may use "cookies" in some instances. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. We may use cookies to remind us of who you are, tailor our products and services to suit your personal interests, estimate our audience size, process your order, track your status in our promotions, contests and sweepstakes, and/or analyzing your visiting patterns. You can set your browser to notify you when you are sent a cookie, giving you the chance to decide whether or not to accept it.
+**Contacting Us**
 
-**Security**  
-We use sophisticated encryption and authentication tools to protect the security of your personal information that you share with us. Unfortunately, however, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, we cannot guarantee or warrant the security of any information you transmit to or from our web site, and you do so at your own risk. Once we receive your transmission, we will do our best to protect its security on our systems.
+For questions specifically concerning this Privacy Policy, please contact us via email at inquiries@RLJEntertainment.com . Alternatively, you may write to us at the following address: RLJ Entertainment, Inc., 6320 Canoga Avenue, 8th Floor, Woodland Hills, CA 91367, USA, Attention: Legal Counsel.
 
-We urge you to keep your password in a safe place and not to divulge it to anyone. Also remember to sign off your account and close your browser window when you have finished your visit. This is to ensure that others cannot access your account, especially if you are sharing a computer with someone else or are using a computer in a public place such as a library or Internet cafe.
-
-**Links to Third Party Sites**  
-Our web site may contain links to web sites operated and maintained by third parties, over which we have no control. Privacy policies on such linked sites may be different from our privacy policy. You access such linked sites at your own risk. You should always read the privacy policy of a linked site before disclosing any personal information on such site.
-
-**Policy Changes**  
-If we decide to change our privacy policy in whole or in part, we will inform you by posting a notice on our web site. Those changes will go into effect on the date posted in the notice. The new policy will apply to all current and past users of our web site and will replace any prior policies which are inconsistent.
-
-**Your Feedback**  
-To help us improve our privacy policy and practice, please give us your feedback. You may e-mail us or write to us at Acorn Direct, 8515 Georgia Avenue, Suite 650, Silver Spring, MD 20910.
-
-_Privacy policy effective as of 8/01/05._
+_Last updated: March 19, 2015_
