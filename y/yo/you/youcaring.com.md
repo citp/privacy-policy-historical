@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youcaring.com privacy policy that was archived on 2015-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150420093648id_/http%3A//youcaring.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youcaring.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920153923id_/https%3A//www.youcaring.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - YouCaring
 
@@ -47,7 +47,7 @@ YouCaring is based in the United States and the information we collect is govern
   
 
 
-### NFORMATION COLLECTED BY COOKIES AND OTHER TRACKING TECHNOLOGIES
+### INFORMATION COLLECTED BY COOKIES AND OTHER TRACKING TECHNOLOGIES
 
 YouCaring uses various technologies to collect information, including cookies and web beacons. Cookies are small data files stored on your hard drive or in device memory that help us improve our Services and your experience, see which areas and features of our Services are popular, and count visits. Web beacons are electronic images that may be used in our Services or emails and help deliver cookies, count visits and understand usage and campaign effectiveness. For more information about cookies, and how to disable them, please see "Your Choices" below.
 
@@ -105,14 +105,14 @@ You may update, correct or delete information about you at any time by logging i
 
 #### Cookies
 
-Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Removing or rejecting browser cookies does not necessarily affect third party flash cookies used in connection with our Services. To delete or disable flash cookies please visit http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html for more information.] Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services.
+Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Removing or rejecting browser cookies does not necessarily affect third party flash cookies used in connection with our Services. To delete or disable flash cookies, please visit [Adobe](https://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html) for more information. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services.
 
   
 
 
 #### Promotional Communications
 
-You may opt out of receiving informational or promotional emails from YouCaring by following the instructions in those emails or by emailing us at help@youcaring.com. If you opt out, we may still send you non-promotional communications, such as those about your account or confirmations of donation transactions.
+You may opt out of receiving informational or promotional emails from YouCaring by following the instructions in those emails or by emailing us at [help@youcaring.com](mailto:help@youcaring.com). If you opt out, we may still send you non-promotional communications, such as those about your account or confirmations of donation transactions.
 
   
 
