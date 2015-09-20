@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the needle.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501111413id_/http%3A//needle.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the needle.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920082949id_/https%3A//www.needle.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy - Needle
 
-Needle.com is committed to protecting your privacy online. In order to fully understand your rights, please read this privacy statement before using the Needle.com website (the "Site"), or Needle Facebook App (the “App”) which includes any link to a manufacturers site that is partnered with Needle.com.
+Needle.com is committed to protecting your privacy online. In order to fully understand your rights, please read this privacy statement before using the Needle.com website (the "Site"), or Needle Facebook App (the “App”) which includes any link to a manufacturer's site that is partnered with Needle.com.
 
-### When does Needle.com collect personally identifiable information?
+### When does Needle.com collect personally identifiable information? 
 
- **Needle.com gathers information from visitors in multiple ways:**
+Needle.com gathers information from visitors in multiple ways:
 
   * Registration
   * Cookie Technology
@@ -15,17 +15,17 @@ Needle.com is committed to protecting your privacy online. In order to fully und
 
 
 
-**Registration.** When you register at the Site, we collect information, which allows us to identify you. The more information you provide, the better we are able to customize our services and your experience to suit your needs and preferences.
+**Registration.**  When you register at the Site, we collect information, which allows us to identify you. The more information you provide, the better we are able to customize our services and your experience to suit your needs and preferences.
 
-**Cookie Technology.** We use cookies to store and track your preferences to provide you with a more customized experience. A cookie is a message that is sent to your browser from a web server and stored on your computer's hard drive. Most Internet sites use cookies. You can set your browser preferences to reject all cookies but then you will not be able to participate in most customized services and you may be required to repeatedly type in certain information. Cookies make your experience easier by saving preferences and passwords. We also use cookies that contain no personal information at all. These cookies help us estimate our web traffic, determine which areas of the Site are the most popular, and deliver relevant messages.
+**Cookie Technology.**  We use cookies to store and track your preferences to provide you with a more customized experience. A cookie is a message that is sent to your browser from a web server and stored on your computer's hard drive. Most Internet sites use cookies. You can set your browser preferences to reject all cookies but then you will not be able to participate in most customized services and you may be required to repeatedly type in certain information. Cookies make your experience easier by saving preferences and passwords. We also use cookies that contain no personal information at all. These cookies help us estimate our web traffic, determine which areas of the Site are the most popular, and deliver relevant messages.
 
-**IP Address.** We may also log IP addresses for the purpose of systems administration or to report information in aggregate form to third parties (e.g., how many visitors logged in to our Site). An IP address is a number that is assigned to your computer automatically when you use the Internet. When you visit a particular web page in the Site, our servers log your IP address. We do not link your IP address to anything personally identifiable.
+**IP Address.**  We may also log IP addresses for the purpose of systems administration or to report information in aggregate form to third parties (e.g., how many visitors logged in to our Site). An IP address is a number that is assigned to your computer automatically when you use the Internet. When you visit a particular web page in the Site, our servers log your IP address. We do not link your IP address to anything personally identifiable.
 
 ### How is personally identifiable information used?
 
-**Customized Look and Feel.** Needle.com gathers information to provide you with an effortless experience. For instance, your personal information enables us to greet you when you return to our Site and to provide you with your specified preferences (e.g., Site look and feel and preferred categories and content).
+**Customized Look and Feel.**  Needle.com gathers information to provide you with an effortless experience. For instance, your personal information enables us to greet you when you return to our Site and to provide you with your specified preferences (e.g., Site look and feel and preferred categories and content).
 
-**Email.** If you register with our Site, from time to time, we may email you with informative messages about our services we believe may be of interest to you.
+**Email.**  If you register with our Site, from time to time, we may email you with informative messages about our services we believe may be of interest to you.
 
 ### With whom does Needle.com share information?
 
@@ -33,7 +33,7 @@ We will not disclose your personal information to third parties except to the ex
 
 ### What are my options to control the use of personal information?
 
-Most browsers can be configured to reject cookies or alert you when cookies are being sent. You may cancel your registration to Needle.com and/or request the removal of your personal information from our visitor records by sending an email to support@needle.com. We will send an email to confirm your request. After you respond, we will remove your information from our database. Residual information may remain in our archives and records, but this information will not be used for a commercial purpose. We reserve the right to maintain information on registered visitors who have violated any of our policies or who have had their access to the Site blocked.
+Most browsers can be configured to reject cookies or alert you when cookies are being sent. You may cancel your registration to Needle.com and/or request the removal of your personal information from our visitor records by sending an email to [support@needle.com](mailto:support@needle.com). We will send an email to confirm your request. After you respond, we will remove your information from our database. Residual information may remain in our archives and records, but this information will not be used for a commercial purpose. We reserve the right to maintain information on registered visitors who have violated any of our policies or who have had their access to the Site blocked.
 
 ### What else should I know about my privacy?
 
@@ -41,6 +41,4 @@ You should be aware that if you voluntarily disclose personal information online
 
 ### Acceptance of Privacy Policy
 
-By using the Site, you accept this privacy statement. If you do not agree with this privacy statement, do not use the Site. We reserve the right to modify this privacy statement from time to time. Your continued use of any portion of the Site, following notification or posting of such changes, will constitute your acceptance of those changes. If you have questions or concerns about our specific policies, please send an email to [support@needle.com](mailto:support@needle.com)
-
-* * *
+By using the Site, you accept this privacy statement. If you do not agree with this privacy statement, do not use the Site. We reserve the right to modify this privacy statement from time to time. Your continued use of any portion of the Site, following notification or posting of such changes, will constitute your acceptance of those changes. If you have questions or concerns about our specific policies, please send an email to [support@needle.com](mailto:support@needle.com).
