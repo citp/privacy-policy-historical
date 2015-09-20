@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3point5.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317230118id_/https%3A//www.3point5.com/business/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3point5.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920184247id_/https%3A//www.3point5.com/business/privacy) for the most accurate reproduction.*
 
 # Privacy | 3point5
 
@@ -955,6 +955,5 @@ EU Safe Harbor Framework）に準拠します。
 eXperticityは、通知、選択、転送、セ  
 キュリティ、データの完全性、アクセスおよび実施におけるセーフハーバープライバシー原則（Safe Harbor  
 Privacy Principles）に準拠していることを証明しています。 セーフハーバープログラムの詳細について、および  
-eXperticityの証明書の閲覧については、 [](https://web.archive.org/web/20150317230118id_/http://www.3point5.com/business/privacy/%E2%80%A8http://www.export.gov/safeharbor/)
-
-[http://www.export.gov/safeharbor/](https://web.archive.org/web/20150317230118id_/http://www.3point5.com/business/privacy/%E2%80%A8http://www.export.gov/safeharbor/)をご覧ください。
+eXperticityの証明書の閲覧については、 [  
+http://www.export.gov/safeharbor/](https://web.archive.org/web/20150920184247id_/https://www.3point5.com/business/privacy/%E2%80%A8http://www.export.gov/safeharbor/)をご覧ください。
