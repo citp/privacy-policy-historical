@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dugout.com privacy policy that was archived on 2015-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150214060402id_/http%3A//dugout.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dugout.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920230851id_/http%3A//dugout.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Dugout.com
 
