@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xsplasher.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608035029id_/http%3A//xsplasher.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xsplasher.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920061502id_/http%3A//xsplasher.com/privacypolicy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Free Porn Videos & Sex Movies - Porno, YouPorn, XXX Community, Xsplasher.com
+# Privacy Policy - XSPLASHER.COM - Porno, YouPorn, XXX, Community - Welcome to the new experience of porn - Free Porn Videos & Sex Movies, search for full movies and stream it for free, everyday and everywhere with your mobile android or iphone and pc, when ever you need to jerk off.
 
 Nice Marketing & Promotions L.P.  
 44 Main Street,South Lanarkshire,Scotland  
