@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emcosmetics.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516224031id_/http%3A//www.emcosmetics.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emcosmetics.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920141142id_/http%3A//www.emcosmetics.com/privacy_policy.html) for the most accurate reproduction.*
 
 # privacy policy - em cosmetics by michelle phan
 
@@ -77,7 +77,7 @@ If you connect your Facebook account to your Em Cosmetics account, we will make 
 
 **Business Transfers.** We may share your Personal Information with other entities and our affiliates in the family of companies controlled by L’Oreal USA, Inc. for internal reasons, primarily for business and operational purposes. As we continue to develop our business, we may sell or purchase assets. If another entity acquires us or our assets, or assets related to the Sites, Personal Information, Usage Information, and any other information that we have collected about the users of the Sites may be disclosed to such entity as one of the transferred assets.  Also, if any bankruptcy or reorganization proceeding is brought by or against us, all such information may be considered an asset of ours and as such may be sold or transferred to third parties.
 
-**Legal Disclosure.** Em Cosmetics may transfer and disclose information, including your Personal Information, Usage Information and Device Identifier, (including IP address), to third parties to comply with a legal obligation; when we believe in good faith that the law requires it; at the request of governmental authorities conducting an investigation; to verify or enforce our [Terms of Use](http://www.emcosmetics.com/terms.html)  or other applicable policies; to respond to an emergency; or otherwise to protect the rights, property, safety, or security of third parties, visitors to our Sites or the public.
+**Legal Disclosure.** Em Cosmetics may transfer and disclose information, including your Personal Information, Usage Information and Device Identifier, (including IP address), to third parties to comply with a legal obligation; when we believe in good faith that the law requires it; at the request of governmental authorities conducting an investigation; to verify or enforce our [Terms of Use](https://www.emcosmetics.com/terms.html)  or other applicable policies; to respond to an emergency; or otherwise to protect the rights, property, safety, or security of third parties, visitors to our Sites or the public.
 
 ## 4\. Your privacy rights, choice and access.
 
