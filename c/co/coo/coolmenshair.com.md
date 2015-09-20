@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coolmenshair.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612090409id_/http%3A//coolmenshair.com/privacy-policy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolmenshair.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920075407id_/http%3A//coolmenshair.com/privacy-policy-statement) for the most accurate reproduction.*
 
-# Privacy Policy Statement | Cool Men's Hair
+# Privacy Policy Statement – Cool Men's Hair
 
 The privacy of our visitors to [CoolMenshair.com](http://coolmenshair.com/) is important to us.
 
