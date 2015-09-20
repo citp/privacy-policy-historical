@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buytrends.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315191420id_/http%3A//www.buytrends.com/security-privacy-i-8.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buytrends.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920143316id_/http%3A//www.buytrends.com/security-privacy-i-8.html) for the most accurate reproduction.*
 
-# Security & Privacy - BuyTrends.com
+# Security & Privacy - BuyTrends.Com
 
 **Collection of personal data**  
 BuyTrends works to ensure that your privacy is protected when using our services. We therefore have a policy setting out how your personal data will be processed and protected. Any changes we have made to this privacy policy can be found by visiting us online. We take responsibility for all the personal data (such as your name, address, email address, phone number, date of birth, etc.) that you provide us with, that we obtain when you subscribe to our newsletter or when you create a personal profile at BuyTrends.com. The Chinese parent company BuyTrends, is responsible for your personal data under the Chinese Data Protection (CDP) regulation. Your personal details are maintained in China and processed within the BuyTrends.
