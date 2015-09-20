@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gfs.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321111253id_/https%3A//www.gfs.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gfs.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920223432id_/https%3A//www.gfs.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gordon Food Service
 
