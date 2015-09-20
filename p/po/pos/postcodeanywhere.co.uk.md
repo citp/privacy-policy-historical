@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postcodeanywhere.co.uk privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627151147id_/http%3A//postcodeanywhere.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postcodeanywhere.co.uk privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921014939id_/http%3A//www.postcodeanywhere.co.uk/privacy) for the most accurate reproduction.*
 
 # Postcode Anywhere Privacy Policy
 
@@ -6,7 +6,7 @@ The purpose of this document is to bring to your attention Postcode Anywhere (Eu
 
 ## Use of personal information
 
-There are a number of areas within the Postcode Anywhere website which record personal data, including the: registration; billing; contact; invoice; and account sections. The information requested within these sections is standard and includes name, address, phone number and email details and is collected for the purpose of administering your account (this will therefore include: registering your account; processing any orders which you make; communicating with you on any matter relating to the conduct of your account; and the provision of our services to you in general).
+There are a number of areas within the PCA Predict (formerly Postcode Anywhere) website which record personal data, including the: registration; billing; contact; invoice; and account sections. The information requested within these sections is standard and includes name, address, phone number and email details and is collected for the purpose of administering your account (this will therefore include: registering your account; processing any orders which you make; communicating with you on any matter relating to the conduct of your account; and the provision of our services to you in general).
 
 Where we are undertaking any services in collaboration with a third party (this will be clear from either the branding or notices on the website), then we may be required in order to provide the respective services, to share your account details with such third party in order to administrate the account (in a similar manner as mentioned above) and provide the respective services.
 
@@ -14,13 +14,13 @@ We will also need to share details about your use of our services with our data 
 
 We may also use aggregate information and statistics for the purposes of monitoring website usage in order to help us develop the website and our services. These statistics will not include information that can be used to identify any individual.
 
-We may also wish to provide you with information about special features of our website or any other service or products we think may be of interest to you. If you would rather not receive this information, you will have the opportunity on our website at the time of registration to make this clear, and subsequently if you change your mind you can send an email with such a request to support@postcodeanywhere.co.uk.
+We may also wish to provide you with information about special features of our website or any other service or products we think may be of interest to you. If you would rather not receive this information, you will have the opportunity on our website at the time of registration to make this clear, and subsequently if you change your mind you can send an email with such a request to support@pcapredict.co.uk.
 
 ## Email addresses
 
 We collect email addresses for 3 main purposes.
 
-  * Email is our preferred means of communication, and will be used to notify our customers of developments within the Postcode Anywhere services.
+  * Email is our preferred means of communication, and will be used to notify our customers of developments within the PCA Predict services.
   * We use email to administer your account, for example, by alerting you when your account balance reaches a given level.
   * The email address on registration will be used to authenticate users who have forgotten passwords or user account IDs.
 
@@ -46,7 +46,7 @@ We consider the security of your personal data and the details of any transactio
 
 Your account information is protected by your account code and password which you should keep safe at all times. In addition to your password, we generate keys which are used to authenticate your account against our servers when you are querying the database. Keys are a randomly generated and unique set of letters and numbers.
 
-If you feel that there has been a breach in the security on your licence please contact us on (01905) 888550 or by email at security@postcodeanywhere.co.uk.
+If you feel that there has been a breach in the security on your licence please contact us on (01905) 888550 or by email at security@pcapredict.co.uk.
 
 ## Purchasing
 
@@ -91,7 +91,7 @@ If you register with our website, or if you continue to use this website, you ag
 
 ## Third party sites
 
-Third party Internet sites that hotlink to Postcode Anywhere are not covered by our Privacy and Security policy. Postcode Anywhere accepts no responsibility or liability for these sites.
+Third party Internet sites that hotlink to PCA Predict are not covered by our Privacy and Security policy. PCA Predict accepts no responsibility or liability for these sites.
 
 ## Sale of business
 
@@ -99,7 +99,7 @@ If this business is sold or integrated with another business, your details may b
 
 ## Updating your details
 
-If any of the information that you have provided to us changes, for example if you change your e-mail address, name or other details, please let us know the correct details by sending an e-mail to accounts@postcodeanywhere.co.uk.
+If any of the information that you have provided to us changes, for example if you change your e-mail address, name or other details, please let us know the correct details by sending an e-mail to accounts@pcapredict.co.uk.
 
 ## Your consent
 
