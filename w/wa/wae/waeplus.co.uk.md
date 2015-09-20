@@ -1,55 +1,33 @@
-> *The following text is extracted and transformed from the waeplus.co.uk privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821000058id_/http%3A//www.waeplus.co.uk/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waeplus.co.uk privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921003657id_/http%3A//www.waeplus.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy | Wae Plus
 
-This privacy policy sets out how WAE+ Limited (hereby known as WAE+) uses and protects any information that you give WAE+ when you use this website.
+  *   *   *   * [](https://www.pinterest.com/pin/create/button/)
+  *   *   * [ ](http://www.scoop.it/)
 
-WAE+ is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-WAE+ may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 22/05/2012.
 
- **What we collect**
+Privacy:  
+waeplus (“waeplus”) operates http://waeplus.co.uk/ and may operate other websites. It is waeplus’s policy to respect your privacy regarding any information we may collect while operating our websites.  
+Website Visitors  
+Like most website operators, waeplus collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. waeplus’s purpose in collecting non-personally identifying information is to better understand how waeplus’s visitors use its website. From time to time, waeplus may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.  
+waeplus also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on http://waeplus.co.uk/ blogs/sites. waeplus only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog/site where the comment was left.  
+Gathering of Personally-Identifying Information  
+Certain visitors to waeplus’s websites choose to interact with waeplus in ways that require waeplus to gather personally-identifying information. The amount and type of information that waeplus gathers depends on the nature of the interaction. For example, we ask visitors who sign up at http://waeplus.co.uk/ to provide a username and email address. Those who engage in transactions with waeplus are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, waeplus collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with waeplus. waeplus does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.  
+Aggregated Statistics  
+waeplus may collect statistics about the behavior of visitors to its websites. waeplus may display this information publicly or provide it to others. However, waeplus does not disclose personally-identifying information other than as described below.  
+Protection of Certain Personally-Identifying Information  
+waeplus discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on waeplus’s behalf or to provide services available at waeplus’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using waeplus’s websites, you consent to the transfer of such information to them. waeplus will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, waeplus discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when waeplus believes in good faith that disclosure is reasonably necessary to protect the property or rights of waeplus, third parties or the public at large. If you are a registered user of an waeplus website and have supplied your email address, waeplus may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with waeplus and our products. If you send us a request (for example via email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. waeplus takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.  
+Cookies  
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. waeplus uses cookies to help waeplus identify and track visitors, their usage of waeplus website, and their website access preferences. waeplus visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using waeplus’s websites, with the drawback that certain features of waeplus’s websites may not function properly without the aid of cookies.  
+Business Transfers  
+If waeplus, or substantially all of its assets, were acquired, or in the unlikely event that waeplus goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of waeplus may continue to use your personal information as set forth in this policy.  
+Ads  
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by waeplus and does not cover the use of cookies by any advertisers.  
+Privacy Changes  
+Although most changes are likely to be minor, waeplus may change its Privacy from time to time, and in waeplus’s sole discretion. waeplus encourages visitors to frequently check this page for any changes to its Privacy. If you have a http://waeplus.co.uk/ account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy will constitute your acceptance of such change.
 
-We may collect the following information:
+  *   *   *   * [](https://www.pinterest.com/pin/create/button/)
+  *   *   * [ ](http://www.scoop.it/)
 
-When you make a purchase from our website, we collect certain personal information from you (for example: your name, email address, payment address and details). All such information is held on secure servers. WAE+ complies fully with all applicable Data Protection and consumer legislation, and will treat all your personal information as fully confidential.
 
-**What we do with the information we gather**
-
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:  
-Internal record keeping.  
-We may use the information to improve our products and services.  
-We may periodically send promotional email about new products, special offers or other information which we think you may find interesting using the email address which you have provided.   
-From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
-
-In order to serve you most efficiently, reputable third-party banking and distribution institutions handle our credit card transactijohons and order fulfilment. They receive the information needed to verify and authorise your payment card and to process your order. All such organisations are under strict obligation to keep your personal information private.
-
- **Security**
-
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
-
- **How we use cookies**
-
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
-
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
-
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
-
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
-
-For full information please check our [cookie policy](https://www.waeplus.co.uk/pages/Cookie-Information.html "Cookie Information")
-
- **Links to other websites**
-
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
-
- **Controlling your personal information**
-
-You may choose to restrict the collection or use of your personal information in the following ways:  
-whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes  
-if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at info@waeplus.com
-
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
-
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to 180 Newhall Street, Birmingham, B3 1SJ.
