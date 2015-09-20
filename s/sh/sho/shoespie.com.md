@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoespie.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317053319id_/http%3A//www.shoespie.com/help/1privacy-Policy-401.html%23detail1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoespie.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920115521id_/http%3A//www.shoespie.com/help/1privacy-Policy-401.html%23detail1) for the most accurate reproduction.*
 
 # 1.Privacy Policy
 
