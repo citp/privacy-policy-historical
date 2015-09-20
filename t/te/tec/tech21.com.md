@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tech21.com privacy policy that was archived on 2015-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150330021310id_/https%3A//www.tech21.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tech21.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920054402id_/https%3A//www.tech21.com/en_us/privacy) for the most accurate reproduction.*
 
-# Tech21 - Privacy Policy | Intelligent Impact Protection
+# Privacy policy
 
 **PRIVACY TERMS**
 
@@ -61,7 +61,7 @@ The Website and/or Applications may from time to time contain links to other web
 **SECURITY STATEMENT**
 
 Unfortunately transmission of information via the Internet is not completely secure. Although we do our best to protect your personal data we cannot guarantee the security of your data submitted to us and any transmission is at your own risk.  
-We do however use strict procedures and security features to try to prevent unauthorised access wherever possible. Personal information provided to Tech21 via the Website or via any Applications and online credit card transactions are transmitted through a secure PCI compliant server, using,??????? Xxxx SSL encryption technology. When the letters "http" in the URL change to "https," the "s" indicates you are in a secure area employing SSL; also, your browser may give you a pop-up message that you are about to enter a secure area or display a padlock image. Pawel to confirm   
+We do however use strict procedures and security features to try to prevent unauthorised access wherever possible. Personal information provided to Tech21 via the Website or via any Applications and online credit card transactions are transmitted through a secure PCI compliant server, using SSL encryption technology. When the letters "http" in the URL change to "https," the "s" indicates you are in a secure area employing SSL; also, your browser may give you a pop-up message that you are about to enter a secure area or display a padlock image.   
 The Website and the Applications use this encryption technology to protect your information during data transport. SSL encrypts ordering information such as your name, address and credit card number. Please note that e-mail is not encrypted and is not considered to be a secure means of transmitting credit card information.
 
 **COOKIES AND HOW WE USE THEM**
