@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contiki.com privacy policy that was archived on 2015-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150528054909id_/http%3A//www.contiki.com/pages/257-legal-stuff-how-your-information-is-used) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contiki.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920055808id_/http%3A//www.contiki.com/pages/257-legal-stuff-how-your-information-is-used) for the most accurate reproduction.*
 
 # Legal Stuff - How your information is used - Contiki
 
@@ -10,7 +10,7 @@ Your privacy is important to us. We know that you care about how information abo
 
 While we do not plan to modify our policies very often, it is always advisable to double-check when you visit our site to be sure that you have read and agree with our most current privacy policy statement. Any change in our privacy policy will be prospective only. We will not make any changes that have retroactive effect unless legally required to do so.
 
-The content on our site may include a photo gallery, message boards, surveys, sweepstakes, and contests. We hope that you enjoy the [www.contiki.com](http://www.contiki.com/) site and will come back often to visit.
+The content on our site may include a photo gallery, message boards, surveys, sweepstakes, and contests. We hope that you enjoy the [www.contiki.com](https://www.contiki.com/) site and will come back often to visit.
 
 ### Collection
 
