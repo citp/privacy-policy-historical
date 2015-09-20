@@ -1,9 +1,7 @@
-<!--The following is the downloaded HTML source of the luxola.com privacy policy that was archived on 2014-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141221121512id_/http%3A//www.luxola.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the luxola.com privacy policy that was archived on 2015-09-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150920095436id_/http%3A//www.luxola.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:fb="http://ogp.me/ns/fb#"><head>
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-N72VQC"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"2481c6d7fc","applicationID":"289855","transactionName":"e1ZcFRRbCg5RQRdUWFdNVxM5RAcFUUAXQkVRT1MCH2sWDVhaW0s=","queueTime":43,"applicationTime":232,"agentToken":null,"agent":"js-agent.newrelic.com/nr-476.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQEPWVBACgsJXFRX"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
 <link href="//fonts.googleapis.com/css?family=Roboto:400,700|Covered+By+Your+Grace" rel="stylesheet" type="text/css">
 <title>Privacy Policy - How we store and protect your data - Luxola</title>
 <meta content="Luxola Privacy Policy. What we share, what we dont and how do we protect your information with us." name="Description">
@@ -14,18 +12,18 @@
 <meta content="Luxola" property="og:title">
 <meta content="company" property="og:type">
 <meta content="http://www.luxola.com/privacy" property="og:url">
-<meta content="https://d2ni914xopmsh5.cloudfront.net/assets/luxola_icon_v2-06259a9f3e125585b2a01d7066822ae3.png" property="og:image">
+<meta content="https://d2ni914xopmsh5.cloudfront.net/assets/luxola_icon_v2-4b2c793f5751cdc2434f8825ba29637a.png" property="og:image">
 <meta content="Luxola" property="og:site_name">
 <meta content="214878688541980" property="fb:page_id">
-<link href="https://d2ni914xopmsh5.cloudfront.net/assets/application-97947e6bea4dc535ac783d59208add4b.css" media="all" rel="stylesheet">
-<!--[if gt IE 6]>
-<link href="https://d2ni914xopmsh5.cloudfront.net/assets/ie-31f4d17fdf8846ffb1ab070734de626b.css" media="screen" rel="stylesheet" />
-<script src="https://d2ni914xopmsh5.cloudfront.net/assets/modernizr.custom.18193-2d22d665973268eac4d3029347b44529.js"></script>
+<link rel="stylesheet" media="all" href="https://d2ni914xopmsh5.cloudfront.net/assets/application-3e3ca468f5e766685b8ae7c01d4bb67b.css">
+<!--[if lte IE 9]>
+<link rel="stylesheet" media="all" href="https://d2ni914xopmsh5.cloudfront.net/assets/application_split2-c6135064bf37dcba9a50bfd2e810d8f1.css" />
+<link rel="stylesheet" media="all" href="https://d2ni914xopmsh5.cloudfront.net/assets/application_split3-2bec0ccf0fa6690c00c9a0ddd40c6a24.css" />
+<link rel="stylesheet" media="all" href="https://d2ni914xopmsh5.cloudfront.net/assets/application_split4-d11e330d5fb1eacffb5db3ffa5f9e0f9.css" />
 <![endif]-->
-<!--[if lt IE 9]>
-<link href="https://d2ni914xopmsh5.cloudfront.net/assets/application_ie_partial1-c6e831703f4f28b1ccad7687734a925d.css" media="all" rel="stylesheet" />
-<link href="https://d2ni914xopmsh5.cloudfront.net/assets/application_ie_partial2-3f72e6a0a5e4e3d0de8387b6ed363411.css" media="all" rel="stylesheet" />
-<link href="https://d2ni914xopmsh5.cloudfront.net/assets/application_ie_partial3-24e06f891ec1a5516e349f4676772ebd.css" media="all" rel="stylesheet" />
+<!--[if gt IE 6]>
+<link rel="stylesheet" media="screen" href="https://d2ni914xopmsh5.cloudfront.net/assets/ie-9ba12e1a66c8fb22f13708e06e12c945.css" />
+<script src="https://d2ni914xopmsh5.cloudfront.net/assets/modernizr.custom.18193-1ced5681bc11d0cd4e15df67b5edef9e.js"></script>
 <![endif]-->
 <!--[if lt IE 8]>
 <div id='javascript_disabled_notification'>
@@ -34,24 +32,22 @@
 </div>
 </div>
 <![endif]-->
-<meta content="authenticity_token" name="csrf-param">
-<meta content="ucxhEga11DHA6JNkkFqKd0xbszSx67/izi7DFApBS0M=" name="csrf-token">
-
-<script>
-  //<![CDATA[
-    var _kmq = _kmq || [];
-  //]]>
-</script>
-<script src="//cdn.optimizely.com/js/1401021290.js"></script>
+<meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="R99UQ5cT3HTeXk+exhXVDTH0va1y9YR5ciFZm14NE+eTCRytZvJyqNYNUleBGGG4MBDNtMsfcV94GS4b65twZw==">
 
 
+
+<link href="https://www.luxola.com/privacy" rel="canonical">
 </head>
 <body class="footer_pages privacy_policy lng_en ">
-<script>
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-N72VQC"></script><script>
   //<![CDATA[
     dataLayer = [{
       'user': {
-        'id': ''
+        'id': '',
+        'new_user': false,
+        'admin': false,
+        'order_count': 0
       },
       'product': {},
       'brand': {},
@@ -64,10 +60,18 @@
         'language': 'en',
         'layout': 'Desktop',
         'mobile': false,
-        'time': '2014-12-21 20:15:12',
+        'time': '2015-09-20 17:54:36',
         'criteo_account': 13732
+      },
+      'split_experiments': {
+        'cart': 'b1'
       }
     }];
+    
+    dataLayer[0].cart = {
+      'productid_cart': "",
+      'products': []
+    };
   //]]>
 </script>
 
@@ -97,14 +101,19 @@
 <div class="topbar">
 <div class="container">
 <ul class="menu float_left">
-<li>
+<li class="shipping_header">
 <a href="/faq#delivery" target="blank">
-Free Next Day Delivery on orders above $10
+Free delivery above S$40.00
+</a>
+</li>
+<li>
+<a href="/pages/free-samples">
+Free sample with every purchase, while stocks last!
 </a>
 </li>
 <li>
 <div class="float_left" id="credit-card-promotions-link-container">
-<a href="/pages/card-promotions-sg" id="credit_card_promotions_link">
+<a href="/pages/card-promotions-sg" id="credit_card_promotions_link_sg">
 Card Promotions
 </a>
 </div>
@@ -113,17 +122,7 @@ Card Promotions
 </ul>
 <ul class="menu float_right">
 <li>
-<a data-dropdown=".topbar .languages" data-horizontal-offset="9" data-vertical-offset="7" href="#">English
-<span class="caret"></span>
-</a><ul class="languages dropdown dropdown-menu dropdown-anchor-right">
-<li>
-<h4>Select Language</h4>
-</li>
-<li><a data-input="#country_language_code" data-value="lng_en" href="#">English</a></li>
-</ul>
-</li>
-<li>
-<a data-dropdown=".topbar .currencies" data-horizontal-offset="9" data-vertical-offset="7" href="#" id="currency_selector"><i class="flag sg"></i>
+<a data-dropdown=".topbar .currencies" data-vertical-offset="7" data-horizontal-offset="9" id="currency_selector" href="#"><i class="flag sg"></i>
 SGD
 <span class="caret"></span>
 </a><ul class="currencies dropdown dropdown-menu dropdown-anchor-right">
@@ -170,7 +169,7 @@ United Arab Emirates
 </li>
 </ul>
 <div class="clear_float"></div>
-<form accept-charset="UTF-8" action="/user/change_preferences" class="simple_form country" id="user_preferences" method="post" novalidate="novalidate"><div style="display:none"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="ucxhEga11DHA6JNkkFqKd0xbszSx67/izi7DFApBS0M="></div><fieldset class="input select optional country_iso_alpha2_code"><label class="select optional" for="country_iso_alpha2_code">Country</label><select class="select optional" id="country_iso_alpha2_code" name="country[iso_alpha2_code]"><option value="au">Australia</option>
+<form id="user_preferences" novalidate="novalidate" class="simple_form country" action="/user/change_preferences" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="ykX2ok/dC4bPCfntUkSmnzJUiddnhEvZNihg5Zcs8Ygek75MvjylWsda5CQVSRIqM7D5zt5uvv88EBdlIrqSCA=="><fieldset class="input select optional country_iso_alpha2_code"><label class="select optional" for="country_iso_alpha2_code">Country</label><select class="select optional" name="country[iso_alpha2_code]" id="country_iso_alpha2_code"><option value="au">Australia</option>
 <option value="bn">Brunei</option>
 <option value="hk">Hong Kong</option>
 <option value="in">India</option>
@@ -179,21 +178,20 @@ United Arab Emirates
 <option value="ph">Philippines</option>
 <option selected="selected" value="sg">Singapore</option>
 <option value="ae">United Arab Emirates</option></select></fieldset>
-<fieldset class="input select optional country_language_code"><label class="select optional" for="country_language_code">Language</label><select class="select optional" id="country_language_code" name="country[language_code]"><option selected="selected" value="lng_en">English</option>
+<fieldset class="input select optional country_language_code"><label class="select optional" for="country_language_code">Language</label><select class="select optional" name="country[language_code]" id="country_language_code"><option selected="selected" value="lng_en">English</option>
 <option value="lng_id">Bahasa Indonesia</option>
 <option value="lng_th">Thai</option></select></fieldset>
-<input id="country_src_params" name="country[src_params]" type="hidden" value="{&quot;controller&quot;:&quot;footer_pages&quot;,&quot;action&quot;:&quot;privacy_policy&quot;}">
-<input id="km_identity" name="country[km_identity]" type="hidden" value="">
+<input value="{&quot;controller&quot;:&quot;footer_pages&quot;,&quot;action&quot;:&quot;privacy_policy&quot;}" type="hidden" name="country[src_params]" id="country_src_params">
+<input id="km_identity" value="" type="hidden" name="country[km_identity]">
 </form>
-
 </div>
 </div>
 <div class="container" id="header_banner">
-<a href="http://www.luxola.com/holiday-shop" target=""><img alt="Topbanner hs1" src="http://s3.lximg.com/images/billboards/TOPBANNER_HS1.jpg">
+<a class="header_banner_link" target="_blank" href="http://www.luxola.com/pages/lxinspiredseptember"><img src="http://s2.lximg.com/images/billboards/WK36_15_MonthlySept_HB_6069ebda502a50b82bc8998f3672c3d43fb36a1e_1441104933.jpg" alt="Wk36 15 monthlysept hb 6069ebda502a50b82bc8998f3672c3d43fb36a1e 1441104933">
 </a></div>
 <div class="container">
-<form accept-charset="UTF-8" action="/search/full_search" class="float_left" id="search" method="get"><div style="display:none"><input name="utf8" type="hidden" value="✓"></div>
-<input autocomplete="off" id="search_input" name="q" placeholder="Search" type="text">
+<form class="float_left" id="search" action="/search/full_search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="✓">
+<input type="text" name="q" id="search_input" placeholder="Search" autocomplete="off">
 <button name="button" type="submit">Search</button>
 <div id="autosuggested_container">
 <div id="autosuggested_results">
@@ -226,7 +224,7 @@ No Results Found
 <a href="https://www.luxola.com/users/sign_in?sa=Register">Register</a>
 </li>
 <li>
-<a href="https://www.luxola.com/user/welcome">Lx Insider</a>
+<a href="https://www.luxola.com/user/welcome">Loyalty</a>
 </li>
 <li>
 <a href="http://www.luxola.com/wishlist">Wishlist</a>
@@ -240,9 +238,9 @@ No Results Found
 </a></li>
 </ul>
 </nav>
-<div id="added_to_cart"></div>
+<div data-url="/cart/add_to_cart_popup" id="added_to_cart"></div>
 <div class="logo">
-<a href="/"><img alt="Luxola" class="lng_en" id="logo" onerror="this.src='https://d2ni914xopmsh5.cloudfront.net/assets/lx_logo_v4-b77f7ecafb9c5de61530c2b34e8d3ed3.png';this.onerror=null;" src="https://d2ni914xopmsh5.cloudfront.net/assets/lx_logo_v4-b77f7ecafb9c5de61530c2b34e8d3ed3.png">
+<a href="/"><img id="logo" class="lng_en" alt="Luxola" onerror="this.src='https://d2ni914xopmsh5.cloudfront.net/assets/lx_logo_v4-fa7259f2249fc2776d54e27047152a4d.png';this.onerror=null;" src="https://d2ni914xopmsh5.cloudfront.net/assets/lx_logo_v4-fa7259f2249fc2776d54e27047152a4d.png">
 </a></div>
 <div class="clear_float"></div>
 </div>
@@ -250,60 +248,65 @@ No Results Found
 <div class="container">
 <ul class="columnized_menu" id="user_menu">
 <li>
+<a href="/lx-links/new-arrivals">New</a>
+</li>
+<li>
 <a href="/sg/categories/makeup">Makeup</a>
 <div class="container">
 <nav data-column_float="left" data-columns="5" data-threshold="10">
-<div class="featured"><div class="image">
-<a href="http://www.luxola.com/brands/zoeva" target=""><img alt="Mb 14 makeup zoeva" height="225" src="http://s1.lximg.com/images/billboards/MB_14_Makeup_Zoeva.jpg" width="270">
+<div class="featured ">
+<div class="image">
+<a target="" href="http://www.luxola.com/brands/zoeva"><img width="270" height="225" src="http://s2.lximg.com/images/billboards/MB_14_Makeup_Zoeva.jpg" alt="Mb 14 makeup zoeva">
 <h4>SHOP ZOEVA</h4>
 </a></div>
 
 </div>
+
 <ul class="links columnize">
-<li class="dontend">
-<h4><a href="/sg/categories/makeup/palettes-and-sets">Palettes and Sets</a></h4>
+<li class="view_all_link">
+<h4><a href="/sg/categories/makeup">View All</a></h4>
 </li>
-<li class=""><a href="/sg/categories/makeup/palettes-and-sets/makeup-palettes">Makeup Palettes</a></li>
-<li class="last_subchild"><a href="/sg/categories/makeup/palettes-and-sets/value-sets">Value Sets</a></li>
-<li class="dontend">
-<h4><a href="/sg/categories/makeup/eyes">Eyes</a></h4>
-</li>
-<li class=""><a href="/sg/categories/makeup/eyes/undereye-concealer">Undereye Concealer</a></li>
-<li class=""><a href="/sg/categories/makeup/eyes/eye-makeup-remover">Eye Makeup Remover</a></li>
-<li class=""><a href="/sg/categories/makeup/eyes/eyeshadow-palettes-and-sets">Eyeshadow Palettes &amp; Sets</a></li>
-<li class=""><a href="/sg/categories/makeup/eyes/eye-shadow">Eye Shadow</a></li>
-<li class=""><a href="/sg/categories/makeup/eyes/eye-primer-and-base">Eye Primer and Base</a></li>
-<li class=""><a href="/sg/categories/makeup/eyes/eyebrows">Eyebrows</a></li>
-<li class=""><a href="/sg/categories/makeup/eyes/eyeliner">Eyeliner</a></li>
-<li class=""><a href="/sg/categories/makeup/eyes/false-lashes">False Lashes</a></li>
-<li class=""><a href="/sg/categories/makeup/eyes/mascara">Mascara</a></li>
-<li class="last_subchild"><a href="/sg/categories/makeup/eyes/eye-tools">Eye Tools</a></li>
 <li class="dontend">
 <h4><a href="/sg/categories/makeup/face">Face</a></h4>
 </li>
-<li class=""><a href="/sg/categories/makeup/face/makeup-remover">Makeup Remover</a></li>
-<li class=""><a href="/sg/categories/makeup/face/primer">Primer</a></li>
-<li class=""><a href="/sg/categories/makeup/face/tinted-moisturiser">Tinted Moisturiser</a></li>
+<li class=""><a href="/sg/categories/makeup/face/makeup-tools">Makeup Tools</a></li>
+<li class=""><a href="/sg/categories/makeup/face/bronzer">Bronzer</a></li>
 <li class=""><a href="/sg/categories/makeup/face/bb-and-cc-cream">BB and CC Cream</a></li>
 <li class=""><a href="/sg/categories/makeup/face/blush">Blush</a></li>
-<li class=""><a href="/sg/categories/makeup/face/bronzer">Bronzer</a></li>
-<li class=""><a href="/sg/categories/makeup/face/concealer">Concealer</a></li>
 <li class=""><a href="/sg/categories/makeup/face/contour">Contour</a></li>
-<li class=""><a href="/sg/categories/makeup/face/foundation">Foundation</a></li>
-<li class=""><a href="/sg/categories/makeup/face/luminizer">Luminizer</a></li>
+<li class=""><a href="/sg/categories/makeup/face/concealer">Concealer</a></li>
 <li class=""><a href="/sg/categories/makeup/face/face-powder">Face Powder</a></li>
-<li class="last_subchild"><a href="/sg/categories/makeup/face/makeup-tools">Makeup Tools</a></li>
+<li class=""><a href="/sg/categories/makeup/face/foundation">Foundation</a></li>
+<li class=""><a href="/sg/categories/makeup/face/primer">Primer</a></li>
+<li class=""><a href="/sg/categories/makeup/face/luminizer">Luminizer</a></li>
+<li class="last_subchild"><a href="/sg/categories/makeup/face/tinted-moisturiser">Tinted Moisturiser</a></li>
+<li class="dontend">
+<h4><a href="/sg/categories/makeup/eyes">Eyes</a></h4>
+</li>
+<li class=""><a href="/sg/categories/makeup/eyes/eye-primer-and-base">Eye Primer and Base</a></li>
+<li class=""><a href="/sg/categories/makeup/eyes/eyeshadow-palettes-and-sets">Eyeshadow Palettes &amp; Sets</a></li>
+<li class=""><a href="/sg/categories/makeup/eyes/eye-tools">Eye Tools</a></li>
+<li class=""><a href="/sg/categories/makeup/eyes/false-lashes">False Lashes</a></li>
+<li class=""><a href="/sg/categories/makeup/eyes/eyeshadow">Eyeshadow</a></li>
+<li class=""><a href="/sg/categories/makeup/eyes/undereye-concealer">Undereye Concealer</a></li>
+<li class=""><a href="/sg/categories/makeup/eyes/mascara">Mascara</a></li>
+<li class=""><a href="/sg/categories/makeup/eyes/eyebrows">Eyebrows</a></li>
+<li class="last_subchild"><a href="/sg/categories/makeup/eyes/eyeliner">Eyeliner</a></li>
+<li class="dontend">
+<h4><a href="/sg/categories/makeup/palettes-and-sets">Palettes and Sets</a></h4>
+</li>
+<li class=""><a href="/sg/categories/makeup/palettes-and-sets/value-sets">Value Sets</a></li>
+<li class="last_subchild"><a href="/sg/categories/makeup/palettes-and-sets/makeup-palettes">Makeup Palettes</a></li>
 <li class="dontend">
 <h4><a href="/sg/categories/makeup/lips">Lips</a></h4>
 </li>
-<li class=""><a href="/sg/categories/makeup/lips/lip-stain">Lip Stain</a></li>
-<li class=""><a href="/sg/categories/makeup/lips/lip-tools">Lip Tools</a></li>
 <li class=""><a href="/sg/categories/makeup/lips/lip-sets">Lip Sets</a></li>
 <li class=""><a href="/sg/categories/makeup/lips/lip-balm-and-treatments">Lip Balm &amp; Treatments</a></li>
-<li class=""><a href="/sg/categories/makeup/lips/lip-gloss">Lip Gloss</a></li>
+<li class=""><a href="/sg/categories/makeup/lips/lipstick">Lipstick</a></li>
 <li class=""><a href="/sg/categories/makeup/lips/lip-liner">Lip Liner</a></li>
 <li class=""><a href="/sg/categories/makeup/lips/lip-plumper">Lip Plumper</a></li>
-<li class="last_subchild"><a href="/sg/categories/makeup/lips/lipstick">Lipstick</a></li>
+<li class=""><a href="/sg/categories/makeup/lips/lip-gloss">Lip Gloss</a></li>
+<li class="last_subchild"><a href="/sg/categories/makeup/lips/lip-stain">Lip Stain</a></li>
 <li class="dontend">
 <h4><a href="/sg/categories/makeup/tools">Tools</a></h4>
 </li>
@@ -322,6 +325,19 @@ No Results Found
 <li class="last_subchild"><a href="http://www.luxola.com/lx-links/travel-size?category=makeup">Travel Size</a></li>
 </div>
 
+<div class="dontsplit">
+<li>
+<h4>
+<strong>LX Advice</strong>
+</h4>
+</li>
+<li class=""><a href="https://www.luxola.com/pages/contouring-face">Contouring Guide</a></li>
+<li class=""><a href="https://www.luxola.com/pages/makeup-brush-guide">Makeup Brush Guide</a></li>
+<li class="last_subchild"><a href=""></a></li>
+<li class="last_subchild"><a href=""></a></li>
+<li class="last_subchild"><a href=""></a></li>
+<li class="last_subchild"><a href=""></a></li>
+</div>
 
 </ul>
 </nav>
@@ -333,46 +349,45 @@ No Results Found
 <nav data-column_float="left" data-columns="5" data-threshold="10">
 
 <ul class="links columnize">
+<li class="view_all_link">
+<h4><a href="/sg/categories/skincare">View All</a></h4>
+</li>
 <li class="dontend">
 <h4><a href="/sg/categories/skincare/moisturize">Moisturize</a></h4>
 </li>
 <li class=""><a href="/sg/categories/skincare/moisturize/decollete-and-neck-cream">Decollete &amp; Neck Cream</a></li>
-<li class=""><a href="/sg/categories/skincare/moisturize/night-cream">Night Cream</a></li>
-<li class=""><a href="/sg/categories/skincare/moisturize/moisturizer">Moisturizer</a></li>
+<li class=""><a href="/sg/categories/skincare/moisturize/moisturiser">Moisturiser</a></li>
 <li class=""><a href="/sg/categories/skincare/moisturize/face-oil">Face Oil</a></li>
-<li class="last_subchild"><a href="/sg/categories/skincare/moisturize/bb-cream-and-primer">BB Cream and Primer</a></li>
+<li class=""><a href="/sg/categories/skincare/moisturize/bb-cream-and-primer">BB Cream and Primer</a></li>
+<li class="last_subchild"><a href="/sg/categories/skincare/moisturize/night-cream">Night Cream</a></li>
+<li class="dontend">
+<h4><a href="/sg/categories/skincare/serum-and-treatments">Serum &amp; Treatments</a></h4>
+</li>
+<li class=""><a href="/sg/categories/skincare/serum-and-treatments/eye-treatments">Eye Treatments</a></li>
+<li class=""><a href="/sg/categories/skincare/serum-and-treatments/facial-peels">Facial Peels</a></li>
+<li class=""><a href="/sg/categories/skincare/serum-and-treatments/treatments-and-serums">Treatments and Serums</a></li>
+<li class=""><a href="/sg/categories/skincare/serum-and-treatments/face-masks">Face Masks</a></li>
+<li class="last_subchild"><a href="/sg/categories/skincare/serum-and-treatments/face-serum-and-treatments">Face Serum &amp; Treatments</a></li>
+<li class="dontend">
+<h4><a href="/sg/categories/skincare/sets">Sets</a></h4>
+</li>
+<li class="last_subchild"><a href="/sg/categories/skincare/sets/gift-ideas">Gift Ideas</a></li>
+<li class="dontend">
+<h4><a href="/sg/categories/skincare/cleanse">Cleanse</a></h4>
+</li>
+<li class=""><a href="/sg/categories/skincare/cleanse/face-wash-and-cleansers">Face Wash &amp; Cleansers</a></li>
+<li class=""><a href="/sg/categories/skincare/cleanse/toner">Toner</a></li>
+<li class=""><a href="/sg/categories/skincare/cleanse/exfoliator">Exfoliator</a></li>
+<li class=""><a href="/sg/categories/skincare/cleanse/tools">Tools</a></li>
+<li class="last_subchild"><a href="/sg/categories/skincare/cleanse/cleansing-brushes-and-tools">Cleansing Brushes &amp; Tools</a></li>
 <li class="dontend">
 <h4><a href="/sg/categories/skincare/self-tanning-and-sun-protection">Self Tanning &amp; Sun Protection</a></h4>
 </li>
 <li class=""><a href="/sg/categories/skincare/self-tanning-and-sun-protection/self-tanning">Self-Tanning</a></li>
 <li class="last_subchild"><a href="/sg/categories/skincare/self-tanning-and-sun-protection/sunscreen-for-face">Sunscreen for Face</a></li>
 <li class="dontend">
-<h4><a href="/sg/categories/skincare/serum-and-treatments">Serum &amp; Treatments</a></h4>
-</li>
-<li class=""><a href="/sg/categories/skincare/serum-and-treatments/facial-peels">Facial Peels</a></li>
-<li class=""><a href="/sg/categories/skincare/serum-and-treatments/eye-treatments">Eye Treatments</a></li>
-<li class=""><a href="/sg/categories/skincare/serum-and-treatments/face-serum-and-treatments">Face Serum &amp; Treatments</a></li>
-<li class=""><a href="/sg/categories/skincare/serum-and-treatments/face-masks">Face Masks</a></li>
-<li class=""><a href="/sg/categories/skincare/serum-and-treatments/personalised-serums">Personalised Serums</a></li>
-<li class=""><a href="/sg/categories/skincare/serum-and-treatments/skin-supplements">Skin Supplements</a></li>
-<li class="last_subchild"><a href="/sg/categories/skincare/serum-and-treatments/treatments-and-serums">Treatments and Serums</a></li>
-<li class="dontend">
-<h4><a href="/sg/categories/skincare/cleanse">Cleanse</a></h4>
-</li>
-<li class=""><a href="/sg/categories/skincare/cleanse/cleansing-brushes-and-tools">Cleansing Brushes &amp; Tools</a></li>
-<li class=""><a href="/sg/categories/skincare/cleanse/makeup-remover">Makeup remover</a></li>
-<li class=""><a href="/sg/categories/skincare/cleanse/face-wash-and-cleansers">Face Wash &amp; Cleansers</a></li>
-<li class=""><a href="/sg/categories/skincare/cleanse/exfoliator">Exfoliator</a></li>
-<li class=""><a href="/sg/categories/skincare/cleanse/tools">Tools</a></li>
-<li class="last_subchild"><a href="/sg/categories/skincare/cleanse/toner">Toner</a></li>
-<li class="dontend">
 <h4><a href="/sg/categories/skincare/heal-and-repair">Heal &amp; Repair</a></h4>
 </li>
-<li class="last_subchild"><a href="/sg/categories/skincare/heal-and-repair/after-sun">After Sun</a></li>
-<li class="dontend">
-<h4><a href="/sg/categories/skincare/sets">Sets</a></h4>
-</li>
-<li class="last_subchild columnbreak"><a href="/sg/categories/skincare/sets/gift-ideas">Gift Ideas</a></li>
 <div class="dontsplit">
 <li>
 <h4>
@@ -398,53 +413,53 @@ No Results Found
 <nav data-column_float="left" data-columns="5" data-threshold="10">
 
 <ul class="links columnize">
+<li class="view_all_link">
+<h4><a href="/sg/categories/bath-and-body">View All</a></h4>
+</li>
 <li class="dontend">
 <h4><a href="/sg/categories/bath-and-body">Bath &amp; Body</a></h4>
 </li>
-<li class=""><a href="/sg/categories/bath-and-body/body-scrub">Body Scrub</a></li>
 <li class=""><a href="/sg/categories/bath-and-body/first-aid">First Aid</a></li>
 <li class=""><a href="/sg/categories/bath-and-body/hair-color">Hair Color</a></li>
+<li class=""><a href="/sg/categories/bath-and-body/body-scrub">Body Scrub</a></li>
 <li class="last_subchild"><a href="/sg/categories/bath-and-body/mens">Mens</a></li>
 <li class="dontend">
 <h4><a href="/sg/categories/bath-and-body/hair">Hair</a></h4>
 </li>
-<li class=""><a href="/sg/categories/bath-and-body/hair/conditionner">Conditionner</a></li>
-<li class=""><a href="/sg/categories/bath-and-body/hair/styling-cream">Styling Cream</a></li>
 <li class=""><a href="/sg/categories/bath-and-body/hair/conditioner">Conditioner</a></li>
-<li class=""><a href="/sg/categories/bath-and-body/hair/dry-shampoo">Dry Shampoo</a></li>
-<li class=""><a href="/sg/categories/bath-and-body/hair/hair-mousse">Hair Mousse</a></li>
-<li class=""><a href="/sg/categories/bath-and-body/hair/hair-oil">Hair Oil</a></li>
-<li class=""><a href="/sg/categories/bath-and-body/hair/hair-serum">Hair Serum</a></li>
-<li class=""><a href="/sg/categories/bath-and-body/hair/hair-spray">Hair Spray</a></li>
 <li class=""><a href="/sg/categories/bath-and-body/hair/shampoo">Shampoo</a></li>
-<li class="last_subchild"><a href="/sg/categories/bath-and-body/hair/treatment">Treatment</a></li>
-<li class="dontend">
-<h4><a href="/sg/categories/bath-and-body/other-needs">Other Needs</a></h4>
-</li>
-<li class=""><a href="/sg/categories/bath-and-body/other-needs/aromatherapy">Aromatherapy</a></li>
-<li class=""><a href="/sg/categories/bath-and-body/other-needs/cellulite-and-stretchmarks">Cellulite &amp; Stretchmarks</a></li>
-<li class=""><a href="/sg/categories/bath-and-body/other-needs/hand-wash">Hand Wash</a></li>
-<li class=""><a href="/sg/categories/bath-and-body/other-needs/candles">Candles</a></li>
-<li class=""><a href="/sg/categories/bath-and-body/other-needs/deodorant">Deodorant</a></li>
-<li class=""><a href="/sg/categories/bath-and-body/other-needs/fragrance">Fragrance</a></li>
-<li class="last_subchild"><a href="/sg/categories/bath-and-body/other-needs/room-spray">Room Spray</a></li>
+<li class=""><a href="/sg/categories/bath-and-body/hair/hair-serum">Hair Serum</a></li>
+<li class=""><a href="/sg/categories/bath-and-body/hair/hair-oil">Hair Oil</a></li>
+<li class=""><a href="/sg/categories/bath-and-body/hair/styling-cream">Styling Cream</a></li>
+<li class=""><a href="/sg/categories/bath-and-body/hair/dry-shampoo">Dry Shampoo</a></li>
+<li class=""><a href="/sg/categories/bath-and-body/hair/treatment">Treatment</a></li>
+<li class=""><a href="/sg/categories/bath-and-body/hair/hair-spray">Hair Spray</a></li>
+<li class="last_subchild"><a href="/sg/categories/bath-and-body/hair/hair-mousse">Hair Mousse</a></li>
 <li class="dontend">
 <h4><a href="/sg/categories/bath-and-body/bath-and-shower">Bath &amp; Shower</a></h4>
 </li>
-<li class=""><a href="/sg/categories/bath-and-body/bath-and-shower/bath-soaks-and-bubble-bath">Bath Soaks &amp; Bubble Bath</a></li>
 <li class=""><a href="/sg/categories/bath-and-body/bath-and-shower/body-wash-and-shower-gel">Body Wash &amp; Shower Gel</a></li>
+<li class=""><a href="/sg/categories/bath-and-body/bath-and-shower/bath-soaks-and-bubble-bath">Bath Soaks &amp; Bubble Bath</a></li>
 <li class="last_subchild"><a href="/sg/categories/bath-and-body/bath-and-shower/body-sponges">Body Sponges</a></li>
 <li class="dontend">
 <h4><a href="/sg/categories/bath-and-body/lotions-and-creams">Lotions &amp; Creams</a></h4>
 </li>
-<li class=""><a href="/sg/categories/bath-and-body/lotions-and-creams/body-lotions-and-body-oils">Body Lotions and Body Oils</a></li>
 <li class=""><a href="/sg/categories/bath-and-body/lotions-and-creams/hand-cream-and-foot-cream">Hand Cream and Foot Cream</a></li>
-<li class="last_subchild"><a href="/sg/categories/bath-and-body/lotions-and-creams/treatment">Treatment</a></li>
+<li class=""><a href="/sg/categories/bath-and-body/lotions-and-creams/treatment">Treatment</a></li>
+<li class="last_subchild"><a href="/sg/categories/bath-and-body/lotions-and-creams/body-lotions-and-body-oils">Body Lotions and Body Oils</a></li>
 <li class="dontend">
 <h4><a href="/sg/categories/bath-and-body/baby">Baby</a></h4>
 </li>
-<li class=""><a href="/sg/categories/bath-and-body/baby/lotions-and-creams">Lotions &amp; Creams </a></li>
-<li class="last_subchild columnbreak"><a href="/sg/categories/bath-and-body/baby/sun">Sun</a></li>
+<li class="dontend">
+<h4><a href="/sg/categories/bath-and-body/other-needs">Other Needs</a></h4>
+</li>
+<li class=""><a href="/sg/categories/bath-and-body/other-needs/deodorant">Deodorant</a></li>
+<li class=""><a href="/sg/categories/bath-and-body/other-needs/fragrance">Fragrance</a></li>
+<li class=""><a href="/sg/categories/bath-and-body/other-needs/candles">Candles</a></li>
+<li class=""><a href="/sg/categories/bath-and-body/other-needs/aromatherapy">Aromatherapy</a></li>
+<li class=""><a href="/sg/categories/bath-and-body/other-needs/cellulite-and-stretchmarks">Cellulite &amp; Stretchmarks</a></li>
+<li class=""><a href="/sg/categories/bath-and-body/other-needs/hand-wash">Hand Wash</a></li>
+<li class="last_subchild columnbreak"><a href="/sg/categories/bath-and-body/other-needs/room-spray">Room Spray</a></li>
 <div class="dontsplit">
 <li>
 <h4>
@@ -465,76 +480,43 @@ No Results Found
 </div>
 </li>
 <li>
-<a href="/sg/categories/nails">Nails</a>
-<div class="container">
-<nav data-column_float="left" data-columns="5" data-threshold="10">
-<div class="featured"><div class="image">
-<a href="http://www.luxola.com/brands/ncla" target=""><img alt="Mb 14 makeup ncla" height="225" src="http://s0.lximg.com/images/billboards/MB_14_Makeup_NCLA.jpg" width="270">
-<h4>SHOP NCLA</h4>
-</a></div>
-
-</div>
-<ul class="links columnize">
-<li class="dontend">
-<h4><a href="/sg/categories/nails">Nails</a></h4>
-</li>
-<li class=""><a href="/sg/categories/nails/nail-accessories">Nail Accessories</a></li>
-<li class=""><a href="/sg/categories/nails/nail-polish-remover">Nail Polish Remover</a></li>
-<li class=""><a href="/sg/categories/nails/nail-polish">Nail Polish</a></li>
-<li class=""><a href="/sg/categories/nails/nail-sets">Nail Sets</a></li>
-<li class="last_subchild columnbreak"><a href="/sg/categories/nails/nail-treatment">Nail Treatment</a></li>
-<div class="dontsplit">
-<li>
-<h4>
-<strong>LX Links</strong>
-</h4>
-</li>
-<li class=""><a href="http://www.luxola.com/lx-links/best-sellers?category=nails">Best Sellers</a></li>
-<li class=""><a href="http://www.luxola.com/lx-links/new-arrivals?category=nails">New Arrivals</a></li>
-<li class=""><a href="http://www.luxola.com/lx-links/editors-picks?category=nails">Editors Picks</a></li>
-<li class=""><a href="http://www.luxola.com/lx-links/gift-giving?category=nails">Gift Giving</a></li>
-<li class=""><a href="http://www.luxola.com/lx-links/back-in-stock?category=nails">Back in Stock</a></li>
-<li class="last_subchild"><a href="http://www.luxola.com/lx-links/travel-size?category=nails">Travel Size</a></li>
-</div>
-
-
-</ul>
-</nav>
-</div>
-</li>
-<li>
 <a href="/sg/categories/tools">Tools</a>
 <div class="container">
 <nav data-column_float="left" data-columns="5" data-threshold="10">
-<div class="featured"><div class="image">
-<a href="http://www.luxola.com/brands/sigma-beauty" target=""><img alt="Mb tools sigma" height="225" src="http://s3.lximg.com/images/billboards/MB_Tools_Sigma.jpg" width="380">
+<div class="featured wide">
+<div class="image">
+<a target="" href="http://www.luxola.com/brands/sigma-beauty"><img width="380" height="225" src="http://s1.lximg.com/images/billboards/MB_Tools_Sigma.jpg" alt="Mb tools sigma">
 <h4>SHOP SIGMA</h4>
 </a></div>
 
 </div>
+
 <ul class="links columnize">
-<li class="dontend">
-<h4><a href="/sg/categories/tools/styling-tools">Styling tools</a></h4>
+<li class="view_all_link">
+<h4><a href="/sg/categories/tools">View All</a></h4>
 </li>
-<li class=""><a href="/sg/categories/tools/styling-tools/pencil-sharpeners">Pencil Sharpeners</a></li>
-<li class=""><a href="/sg/categories/tools/styling-tools/hair-brushes-and-combs">Hair Brushes and Combs</a></li>
-<li class=""><a href="/sg/categories/tools/styling-tools/nail-file">Nail file</a></li>
-<li class="last_subchild"><a href="/sg/categories/tools/styling-tools/tweezers-and-eyebrow-tools">Tweezers and Eyebrow Tools</a></li>
 <li class="dontend">
 <h4><a href="/sg/categories/tools/makeup-tools">Makeup Tools</a></h4>
 </li>
-<li class=""><a href="/sg/categories/tools/makeup-tools/makeup-brush-sets">Makeup Brush Sets</a></li>
-<li class=""><a href="/sg/categories/tools/makeup-tools/makeup-brush-cleaners">Makeup Brush Cleaners</a></li>
+<li class=""><a href="/sg/categories/tools/makeup-tools/accessories">Accessories</a></li>
+<li class=""><a href="/sg/categories/tools/makeup-tools/blotting-powder">Blotting Powder</a></li>
+<li class=""><a href="/sg/categories/tools/makeup-tools/makeup-sanitizer">Makeup Sanitizer</a></li>
 <li class=""><a href="/sg/categories/tools/makeup-tools/eye-brushes">Eye Brushes</a></li>
 <li class=""><a href="/sg/categories/tools/makeup-tools/face-brushes">Face Brushes</a></li>
-<li class=""><a href="/sg/categories/tools/makeup-tools/lip-brushes">Lip Brushes</a></li>
-<li class=""><a href="/sg/categories/tools/makeup-tools/makeup-sponges-and-applicators">Makeup Sponges and Applicators</a></li>
-<li class=""><a href="/sg/categories/tools/makeup-tools/accessories">Accessories</a></li>
-<li class=""><a href="/sg/categories/tools/makeup-tools/blotting-paper">Blotting Paper</a></li>
-<li class=""><a href="/sg/categories/tools/makeup-tools/blotting-powder">Blotting Powder</a></li>
 <li class=""><a href="/sg/categories/tools/makeup-tools/brush-cleanser">Brush Cleanser</a></li>
 <li class=""><a href="/sg/categories/tools/makeup-tools/eyelash-curlers">Eyelash Curlers</a></li>
-<li class="last_subchild columnbreak"><a href="/sg/categories/tools/makeup-tools/makeup-sanitizer">Makeup Sanitizer</a></li>
+<li class=""><a href="/sg/categories/tools/makeup-tools/lip-brushes">Lip Brushes</a></li>
+<li class=""><a href="/sg/categories/tools/makeup-tools/makeup-brush-cleaners">Makeup Brush Cleaners</a></li>
+<li class=""><a href="/sg/categories/tools/makeup-tools/makeup-brush-sets">Makeup Brush Sets</a></li>
+<li class=""><a href="/sg/categories/tools/makeup-tools/makeup-sponges-and-applicators">Makeup Sponges and Applicators</a></li>
+<li class="last_subchild"><a href="/sg/categories/tools/makeup-tools/blotting-paper">Blotting Paper</a></li>
+<li class="dontend">
+<h4><a href="/sg/categories/tools/styling-tools">Styling tools</a></h4>
+</li>
+<li class=""><a href="/sg/categories/tools/styling-tools/nail-file">Nail file</a></li>
+<li class=""><a href="/sg/categories/tools/styling-tools/tweezers-and-eyebrow-tools">Tweezers and Eyebrow Tools</a></li>
+<li class=""><a href="/sg/categories/tools/styling-tools/pencil-sharpeners">Pencil Sharpeners</a></li>
+<li class="last_subchild columnbreak"><a href="/sg/categories/tools/styling-tools/hair-brushes-and-combs">Hair Brushes and Combs</a></li>
 <div class="dontsplit">
 <li>
 <h4>
@@ -555,46 +537,92 @@ No Results Found
 </div>
 </li>
 <li>
+<a href="/sg/categories/nails">Nails</a>
+<div class="container">
+<nav data-column_float="left" data-columns="5" data-threshold="10">
+<div class="featured ">
+<div class="image">
+<a target="" href="http://www.luxola.com/brands/ncla"><img width="270" height="225" src="http://s0.lximg.com/images/billboards/MB_14_Makeup_NCLA.jpg" alt="Mb 14 makeup ncla">
+<h4>SHOP NCLA</h4>
+</a></div>
+
+</div>
+
+<ul class="links columnize">
+<li class="view_all_link">
+<h4><a href="/sg/categories/nails">View All</a></h4>
+</li>
+<li class="dontend">
+<h4><a href="/sg/categories/nails">Nails</a></h4>
+</li>
+<li class=""><a href="/sg/categories/nails/nail-accessories">Nail Accessories</a></li>
+<li class=""><a href="/sg/categories/nails/nail-treatment">Nail Treatment</a></li>
+<li class=""><a href="/sg/categories/nails/nail-polish-remover">Nail Polish Remover</a></li>
+<li class=""><a href="/sg/categories/nails/nail-sets">Nail Sets</a></li>
+<li class="last_subchild columnbreak"><a href="/sg/categories/nails/nail-polish">Nail Polish</a></li>
+<div class="dontsplit">
+<li>
+<h4>
+<strong>LX Links</strong>
+</h4>
+</li>
+<li class=""><a href="http://www.luxola.com/lx-links/best-sellers?category=nails">Best Sellers</a></li>
+<li class=""><a href="http://www.luxola.com/lx-links/new-arrivals?category=nails">New Arrivals</a></li>
+<li class=""><a href="http://www.luxola.com/lx-links/editors-picks?category=nails">Editors Picks</a></li>
+<li class=""><a href="http://www.luxola.com/lx-links/gift-giving?category=nails">Gift Giving</a></li>
+<li class=""><a href="http://www.luxola.com/lx-links/back-in-stock?category=nails">Back in Stock</a></li>
+<li class="last_subchild"><a href="http://www.luxola.com/lx-links/travel-size?category=nails">Travel Size</a></li>
+</div>
+
+
+</ul>
+</nav>
+</div>
+</li>
+<li>
 <a href="/sg/categories/men">Men</a>
 <div class="container">
 <nav data-column_float="left" data-columns="5" data-threshold="10">
-<div class="featured"><div class="image">
-<a href="http://www.luxola.com/brands/lqd/view-all" target=""><img alt="Mb men lqd" height="225" src="http://s2.lximg.com/images/billboards/MB_Men_LQD.jpg" width="270">
+<div class="featured ">
+<div class="image">
+<a target="" href="http://www.luxola.com/brands/lqd/view-all"><img width="270" height="225" src="http://s1.lximg.com/images/billboards/MB_Men_LQD.jpg" alt="Mb men lqd">
 <h4>SHOP LQD</h4>
 </a></div>
 
 </div>
+
 <ul class="links columnize">
+<li class="view_all_link">
+<h4><a href="/sg/categories/men">View All</a></h4>
+</li>
 <li class="dontend">
 <h4><a href="/sg/categories/men/haircare">Haircare</a></h4>
 </li>
-<li class=""><a href="/sg/categories/men/haircare/hair-gel">Hair Gel</a></li>
-<li class=""><a href="/sg/categories/men/haircare/hair-mousse">Hair Mousse</a></li>
-<li class=""><a href="/sg/categories/men/haircare/grooming">Grooming</a></li>
 <li class=""><a href="/sg/categories/men/haircare/shampoo">Shampoo</a></li>
-<li class=""><a href="/sg/categories/men/haircare/conditioner">Conditioner</a></li>
+<li class=""><a href="/sg/categories/men/haircare/grooming">Grooming</a></li>
 <li class=""><a href="/sg/categories/men/haircare/hair-loss-treatment">Hair Loss Treatment</a></li>
-<li class=""><a href="/sg/categories/men/haircare/hair-pomade">Hair Pomade</a></li>
-<li class="last_subchild"><a href="/sg/categories/men/haircare/hair-wax">Hair Wax</a></li>
-<li class="dontend">
-<h4><a href="/sg/categories/men/body">Body</a></h4>
-</li>
-<li class=""><a href="/sg/categories/men/body/body-wash">Body Wash</a></li>
-<li class=""><a href="/sg/categories/men/body/body-soap">Body Soap</a></li>
-<li class=""><a href="/sg/categories/men/body/body-scrub">Body Scrub</a></li>
-<li class="last_subchild"><a href="/sg/categories/men/body/moisturizer">Moisturizer</a></li>
+<li class=""><a href="/sg/categories/men/haircare/conditioner">Conditioner</a></li>
+<li class=""><a href="/sg/categories/men/haircare/hair-wax">Hair Wax</a></li>
+<li class="last_subchild"><a href="/sg/categories/men/haircare/hair-pomade">Hair Pomade</a></li>
 <li class="dontend">
 <h4><a href="/sg/categories/men/face">Face</a></h4>
 </li>
-<li class=""><a href="/sg/categories/men/face/cleanser">Cleanser</a></li>
-<li class=""><a href="/sg/categories/men/face/moisturizer">Moisturizer</a></li>
-<li class=""><a href="/sg/categories/men/face/toner">Toner</a></li>
-<li class=""><a href="/sg/categories/men/face/treatments">Treatments</a></li>
 <li class=""><a href="/sg/categories/men/face/serum">Serum</a></li>
+<li class=""><a href="/sg/categories/men/face/toner">Toner</a></li>
+<li class=""><a href="/sg/categories/men/face/cleanser">Cleanser</a></li>
+<li class=""><a href="/sg/categories/men/face/suncare">Suncare</a></li>
+<li class=""><a href="/sg/categories/men/face/gift-sets">Gift Sets</a></li>
 <li class=""><a href="/sg/categories/men/face/anti-aging">Anti-aging</a></li>
 <li class=""><a href="/sg/categories/men/face/travel-kits">Travel Kits</a></li>
-<li class=""><a href="/sg/categories/men/face/suncare">Suncare</a></li>
-<li class="last_subchild columnbreak"><a href="/sg/categories/men/face/gift-sets">Gift Sets</a></li>
+<li class=""><a href="/sg/categories/men/face/treatments">Treatments</a></li>
+<li class="last_subchild"><a href="/sg/categories/men/face/moisturizer">Moisturizer</a></li>
+<li class="dontend">
+<h4><a href="/sg/categories/men/body">Body</a></h4>
+</li>
+<li class=""><a href="/sg/categories/men/body/moisturizer">Moisturizer</a></li>
+<li class=""><a href="/sg/categories/men/body/body-scrub">Body Scrub</a></li>
+<li class=""><a href="/sg/categories/men/body/body-soap">Body Soap</a></li>
+<li class="last_subchild columnbreak"><a href="/sg/categories/men/body/body-wash">Body Wash</a></li>
 <div class="dontsplit">
 <li>
 <h4>
@@ -620,7 +648,7 @@ No Results Found
 <nav>
 <div class="featured">
 <div class="image">
-<a href="http://www.luxola.com/lx-links/best-sellers?category=makeup" target=""><img alt="Mb brands bestsellers02" height="225" src="http://s0.lximg.com/images/billboards/MB_Brands_bestsellers02.jpg" width="380">
+<a target="" href="http://www.luxola.com/lx-links/best-sellers?category=makeup"><img width="380" height="225" src="http://s0.lximg.com/images/billboards/MB_Brands_bestsellers02.jpg" alt="Mb brands bestsellers02">
 <h4>SHOP BEST SELLERS</h4>
 </a></div>
 
@@ -718,13 +746,10 @@ No Results Found
 <h4 id="brand-letter-a">a</h4>
 <ul>
 <li>
-<a href="/sg/brands/acqua-di-parma">Acqua di Parma</a>
+<a href="/sg/brands/alcina">Alcina</a>
 </li>
 <li>
 <a href="/sg/brands/3ce">3CE</a>
-</li>
-<li>
-<a href="/sg/brands/anne-semonin">Anne Semonin</a>
 </li>
 <li>
 <a href="/sg/brands/66-degrees-30">66°30</a>
@@ -739,10 +764,10 @@ No Results Found
 <a href="/sg/brands/american-crew">American Crew</a>
 </li>
 <li>
-<a href="/sg/brands/apothecary">Apothecary</a>
+<a href="/sg/brands/anne-semonin">Anne Semonin</a>
 </li>
 <li>
-<a href="/sg/brands/avance">Avance</a>
+<a href="/sg/brands/apothecary">Apothecary</a>
 </li>
 <li>
 <a href="/sg/brands/ardell">Ardell</a>
@@ -750,28 +775,46 @@ No Results Found
 <li>
 <a href="/sg/brands/argentum-apothecary">Argentum Apothecary</a>
 </li>
+<li>
+<a href="/sg/brands/astalift">Astalift</a>
+</li>
+<li>
+<a href="/sg/brands/avance">Avance</a>
+</li>
 </ul>
 </li>
 <li>
 <h4 id="brand-letter-b">b</h4>
 <ul>
 <li>
-<a href="/sg/brands/beauty-blender">Beautyblender</a>
+<a href="/sg/brands/byrd">Byrd</a>
 </li>
 <li>
 <a href="/sg/brands/balance-me">Balance Me</a>
 </li>
 <li>
-<a href="/sg/brands/bodhi">Bodhi</a>
+<a href="/sg/brands/beauty-blender">Beautyblender</a>
 </li>
 <li>
 <a href="/sg/brands/beautysoclean">BeautySoClean</a>
 </li>
 <li>
+<a href="/sg/brands/benta-berry">Benta Berry</a>
+</li>
+<li>
+<a href="/sg/brands/bioderma">Bioderma </a>
+</li>
+<li>
 <a href="/sg/brands/bloom-cosmetics">Bloom Cosmetics</a>
 </li>
 <li>
+<a href="/sg/brands/bodhi">Bodhi</a>
+</li>
+<li>
 <a href="/sg/brands/brad-biophotonic-skin-care">Brad Biophotonic Skin Care</a>
+</li>
+<li>
+<a href="/sg/brands/by-terry">By Terry</a>
 </li>
 </ul>
 </li>
@@ -779,7 +822,7 @@ No Results Found
 <h4 id="brand-letter-c">c</h4>
 <ul>
 <li>
-<a href="/sg/brands/cara-k">Cara K</a>
+<a href="/sg/brands/clinique">Clinique</a>
 </li>
 <li>
 <a href="/sg/brands/candy-doll">Candy Doll</a>
@@ -814,9 +857,6 @@ No Results Found
 <a href="/sg/brands/deborah-lippmann">Deborah Lippmann</a>
 </li>
 <li>
-<a href="/sg/brands/duo">Duo</a>
-</li>
-<li>
 <a href="/sg/brands/dercos-by-vichy">Dercos by Vichy</a>
 </li>
 <li>
@@ -829,10 +869,13 @@ No Results Found
 <a href="/sg/brands/dr-lipp">Dr. Lipp</a>
 </li>
 <li>
+<a href="/sg/brands/the-sasquatch-soap-co">Dr. Squatch Soap Co.</a>
+</li>
+<li>
 <a href="/sg/brands/drgl">DRGL</a>
 </li>
 <li>
-<a href="/sg/brands/dr-wu-clinical-skincare">Dr. Wu Clinical Skincare</a>
+<a href="/sg/brands/duo">Duo</a>
 </li>
 <li>
 <a href="/sg/brands/duwop">DuWop</a>
@@ -843,28 +886,31 @@ No Results Found
 <h4 id="brand-letter-e">e</h4>
 <ul>
 <li>
-<a href="/sg/brands/ecotools">Ecotools</a>
+<a href="/sg/brands/edible-beauty">Edible Beauty</a>
 </li>
 <li>
-<a href="/sg/brands/les-floralies">Earths Botanics</a>
+<a href="/sg/brands/empro">EMPRO</a>
 </li>
 <li>
-<a href="/sg/brands/egyptian-magic">Egyptian Magic</a>
-</li>
-<li>
-<a href="/sg/brands/enavose">Enavose</a>
-</li>
-<li>
-<a href="/sg/brands/edward-bess">Edward Bess</a>
-</li>
-<li>
-<a href="/sg/brands/elizabethw">elizabethW</a>
+<a href="/sg/brands/emk">EMK</a>
 </li>
 <li>
 <a href="/sg/brands/eco-care">Eco Care</a>
 </li>
 <li>
-<a href="/sg/brands/estelle-and-thild">Estelle &amp; Thild</a>
+<a href="/sg/brands/ecotools">Ecotools</a>
+</li>
+<li>
+<a href="/sg/brands/edward-bess">Edward Bess</a>
+</li>
+<li>
+<a href="/sg/brands/egyptian-magic">Egyptian Magic</a>
+</li>
+<li>
+<a href="/sg/brands/elizabethw">elizabethW</a>
+</li>
+<li>
+<a href="/sg/brands/enavose">Enavose</a>
 </li>
 </ul>
 </li>
@@ -873,9 +919,6 @@ No Results Found
 <ul>
 <li>
 <a href="/sg/brands/face-atelier">Face Atelier</a>
-</li>
-<li>
-<a href="/sg/brands/flash-tattoos">Flash Tattoos</a>
 </li>
 </ul>
 </li>
@@ -886,16 +929,13 @@ No Results Found
 <a href="/sg/brands/geo-f-trumper">Geo. F. Trumper </a>
 </li>
 <li>
-<a href="/sg/brands/great-barrier-island-bee-co">Great Barrier Island Bee Co</a>
-</li>
-<li>
 <a href="/sg/brands/glam-it">Glam-It!</a>
 </li>
 <li>
-<a href="/sg/brands/glamourflage">Glamourflage</a>
+<a href="/sg/brands/glasshouse-fragrances">Glasshouse Fragrances</a>
 </li>
 <li>
-<a href="/sg/brands/glasshouse-fragrances">Glasshouse Fragrances</a>
+<a href="/sg/brands/great-barrier-island-bee-co">Great Barrier Island Bee Co</a>
 </li>
 </ul>
 </li>
@@ -903,13 +943,10 @@ No Results Found
 <h4 id="brand-letter-h">h</h4>
 <ul>
 <li>
-<a href="/sg/brands/hermippe">Hermippe</a>
-</li>
-<li>
 <a href="/sg/brands/hanz-de-fuko">Hanz De Fuko</a>
 </li>
 <li>
-<a href="/sg/brands/harnn">Harnn</a>
+<a href="/sg/brands/hermippe">Hermippe</a>
 </li>
 </ul>
 </li>
@@ -925,13 +962,16 @@ No Results Found
 <h4 id="brand-letter-j">j</h4>
 <ul>
 <li>
-<a href="/sg/brands/julie-hewett">Julie Hewett</a>
-</li>
-<li>
 <a href="/sg/brands/jacqueline-burchell">Jacqueline Burchell</a>
 </li>
 <li>
+<a href="/sg/brands/jimmy-choo">Jimmy Choo</a>
+</li>
+<li>
 <a href="/sg/brands/joey-healy">Joey Healy</a>
+</li>
+<li>
+<a href="/sg/brands/julie-hewett">Julie Hewett</a>
 </li>
 <li>
 <a href="/sg/brands/just-herbs">Just Herbs</a>
@@ -943,6 +983,9 @@ No Results Found
 <ul>
 <li>
 <a href="/sg/brands/k-palette">K-Palette</a>
+</li>
+<li>
+<a href="/sg/brands/karl-lagerfeld">Karl Lagerfeld</a>
 </li>
 <li>
 <a href="/sg/brands/klarity">Klarity</a>
@@ -959,52 +1002,58 @@ No Results Found
 <h4 id="brand-letter-l">l</h4>
 <ul>
 <li>
-<a href="/sg/brands/leaves-of-trees">Leaves of Trees</a>
-</li>
-<li>
-<a href="/sg/brands/luscious">Luscious</a>
-</li>
-<li>
-<a href="/sg/brands/leneige">Laneige</a>
-</li>
-<li>
 <a href="/sg/brands/loreal-paris">L'Oreal Paris</a>
-</li>
-<li>
-<a href="/sg/brands/loreal-paris-men-expert">L'Oreal Paris Men Expert</a>
-</li>
-<li>
-<a href="/sg/brands/lancaster">Lancaster</a>
-</li>
-<li>
-<a href="/sg/brands/l-dot-a-skinny">L.A. Skinny</a>
-</li>
-<li>
-<a href="/sg/brands/lavie-lash">Lavie Lash</a>
 </li>
 <li>
 <a href="/sg/brands/loreal-paris-hair-expertise">L'Oreal Paris Hair Expertise</a>
 </li>
 <li>
-<a href="/sg/brands/lb-cosmetics">LB Cosmetics</a>
+<a href="/sg/brands/loreal-paris-men-expert">L'Oreal Paris Men Expert</a>
+</li>
+<li>
+<a href="/sg/brands/l-dot-a-skinny">L.A. Skinny</a>
+</li>
+<li>
+<a href="/sg/brands/lancaster">Lancaster</a>
+</li>
+<li>
+<a href="/sg/brands/laneige">Laneige</a>
+</li>
+<li>
+<a href="/sg/brands/lanvin">Lanvin</a>
 </li>
 <li>
 <a href="/sg/brands/laqa-and-co">LAQA &amp; Co</a>
 </li>
 <li>
-<a href="/sg/brands/lqd">LQD</a>
+<a href="/sg/brands/lavie-lash">Lavie Lash</a>
 </li>
 <li>
-<a href="/sg/brands/lollipops">Lollipops</a>
-</li>
-<li>
-<a href="/sg/brands/luxola">Luxola</a>
+<a href="/sg/brands/lb-cosmetics">LB Cosmetics</a>
 </li>
 <li>
 <a href="/sg/brands/leaders-insolution">Leaders Insolution</a>
 </li>
 <li>
+<a href="/sg/brands/leaves-of-trees">Leaves of Trees</a>
+</li>
+<li>
 <a href="/sg/brands/lierac">Lierac</a>
+</li>
+<li>
+<a href="/sg/brands/lollipops">Lollipops</a>
+</li>
+<li>
+<a href="/sg/brands/londontown">Londontown</a>
+</li>
+<li>
+<a href="/sg/brands/lqd">LQD</a>
+</li>
+<li>
+<a href="/sg/brands/luscious">Luscious Cosmetics</a>
+</li>
+<li>
+<a href="/sg/brands/luxola">Luxola</a>
 </li>
 <li>
 <a href="/sg/brands/luzern">Luzern</a>
@@ -1018,16 +1067,10 @@ No Results Found
 <h4 id="brand-letter-m">m</h4>
 <ul>
 <li>
-<a href="/sg/brands/milk">Milk</a>
-</li>
-<li>
-<a href="/sg/brands/mario-badescu">Mario Badescu</a>
+<a href="/sg/brands/maison">Maison by Amanda Dyer</a>
 </li>
 <li>
 <a href="/sg/brands/magnifibres">Magnifibres</a>
-</li>
-<li>
-<a href="/sg/brands/maybelline">Maybelline</a>
 </li>
 <li>
 <a href="/sg/brands/make-up-store">Make Up Store</a>
@@ -1036,25 +1079,31 @@ No Results Found
 <a href="/sg/brands/malin-plus-goetz">Malin + Goetz</a>
 </li>
 <li>
+<a href="/sg/brands/mario-badescu">Mario Badescu</a>
+</li>
+<li>
 <a href="/sg/brands/matrix-haircare">Matrix Haircare</a>
 </li>
 <li>
-<a href="/sg/brands/mirenesse">Mirenesse</a>
-</li>
-<li>
-<a href="/sg/brands/matakana-valley">Matakana Valley</a>
+<a href="/sg/brands/maybelline">Maybelline</a>
 </li>
 <li>
 <a href="/sg/brands/mekhala">Mekhala</a>
 </li>
 <li>
+<a href="/sg/brands/milk">Milk</a>
+</li>
+<li>
+<a href="/sg/brands/mirenesse">Mirenesse</a>
+</li>
+<li>
 <a href="/sg/brands/modelco">ModelCo</a>
 </li>
 <li>
-<a href="/sg/brands/matis">Matis</a>
+<a href="/sg/brands/models-own">Models Own</a>
 </li>
 <li>
-<a href="/sg/brands/models-own">Models Own</a>
+<a href="/sg/brands/montblanc">Montblanc</a>
 </li>
 <li>
 <a href="/sg/brands/mor">MOR</a>
@@ -1065,22 +1114,25 @@ No Results Found
 <h4 id="brand-letter-n">n</h4>
 <ul>
 <li>
-<a href="/sg/brands/natural-world">Natural World</a>
-</li>
-<li>
 <a href="/sg/brands/nanogen">Nanogen</a>
 </li>
 <li>
-<a href="/sg/brands/nip-plus-fab">Nip + Fab</a>
-</li>
-<li>
-<a href="/sg/brands/nuxe">NUXE</a>
+<a href="/sg/brands/natural-world">Natural World</a>
 </li>
 <li>
 <a href="/sg/brands/ncla">NCLA</a>
 </li>
 <li>
+<a href="/sg/brands/nina-ricci">Nina Ricci</a>
+</li>
+<li>
+<a href="/sg/brands/nip-plus-fab">Nip + Fab</a>
+</li>
+<li>
 <a href="/sg/brands/not-soap-radio">Not Soap, Radio</a>
+</li>
+<li>
+<a href="/sg/brands/nuxe">NUXE</a>
 </li>
 </ul>
 </li>
@@ -1088,13 +1140,13 @@ No Results Found
 <h4 id="brand-letter-o">o</h4>
 <ul>
 <li>
-<a href="/sg/brands/origins">Origins</a>
-</li>
-<li>
 <a href="/sg/brands/olay">Olay</a>
 </li>
 <li>
 <a href="/sg/brands/original-and-mineral">Original &amp; Mineral</a>
+</li>
+<li>
+<a href="/sg/brands/origins">Origins</a>
 </li>
 </ul>
 </li>
@@ -1102,19 +1154,19 @@ No Results Found
 <h4 id="brand-letter-p">p</h4>
 <ul>
 <li>
-<a href="/sg/brands/phyto">Phyto</a>
-</li>
-<li>
-<a href="/sg/brands/phil-smith">Phil Smith</a>
+<a href="/sg/brands/purevivi">Purevivi</a>
 </li>
 <li>
 <a href="/sg/brands/paris-bahamas">Paris-Bahamas</a>
 </li>
 <li>
+<a href="/sg/brands/phil-smith">Phil Smith</a>
+</li>
+<li>
 <a href="/sg/brands/philosophy">Philosophy</a>
 </li>
 <li>
-<a href="/sg/brands/pure-by-phytocare">PURE by phytocare</a>
+<a href="/sg/brands/phyto">Phyto</a>
 </li>
 <li>
 <a href="/sg/brands/purer-skin">Purer Skin</a>
@@ -1125,16 +1177,7 @@ No Results Found
 <h4 id="brand-letter-r">r</h4>
 <ul>
 <li>
-<a href="/sg/brands/revitalash">RevitaLash</a>
-</li>
-<li>
-<a href="/sg/brands/red-flower">Red Flower</a>
-</li>
-<li>
-<a href="/sg/brands/rachel-k-cosmetics">Rachel K Cosmetics</a>
-</li>
-<li>
-<a href="/sg/brands/red-burlesque">Red Burlesque</a>
+<a href="/sg/brands/rodial">Rodial</a>
 </li>
 <li>
 <a href="/sg/brands/radical-skincare">Radical Skincare</a>
@@ -1143,19 +1186,25 @@ No Results Found
 <a href="/sg/brands/rahua">Rahua</a>
 </li>
 <li>
-<a href="/sg/brands/rouge-bunny-rouge">Rouge Bunny Rouge</a>
-</li>
-<li>
 <a href="/sg/brands/real-techniques">Real Techniques</a>
 </li>
 <li>
 <a href="/sg/brands/rebels-refinery">Rebels Refinery</a>
 </li>
 <li>
+<a href="/sg/brands/red-burlesque">Red Burlesque</a>
+</li>
+<li>
 <a href="/sg/brands/ren">REN</a>
 </li>
 <li>
+<a href="/sg/brands/revitalash">RevitaLash</a>
+</li>
+<li>
 <a href="/sg/brands/rosebud-perfume-company">Rosebud Perfume Company</a>
+</li>
+<li>
+<a href="/sg/brands/rouge-bunny-rouge">Rouge Bunny Rouge</a>
 </li>
 </ul>
 </li>
@@ -1163,10 +1212,10 @@ No Results Found
 <h4 id="brand-letter-s">s</h4>
 <ul>
 <li>
-<a href="/sg/brands/sara-happ">Sara Happ</a>
+<a href="/sg/brands/sachajuan">Sachajuan</a>
 </li>
 <li>
-<a href="/sg/brands/sachajuan">Sachajuan</a>
+<a href="/sg/brands/sara-happ">Sara Happ</a>
 </li>
 <li>
 <a href="/sg/brands/seche">Seche </a>
@@ -1178,28 +1227,31 @@ No Results Found
 <a href="/sg/brands/sigma-beauty">Sigma Beauty</a>
 </li>
 <li>
-<a href="/sg/brands/somme-institute">Somme Institute</a>
-</li>
-<li>
 <a href="/sg/brands/sk-ii">SK-II</a>
-</li>
-<li>
-<a href="/sg/brands/skinmiso">Skinmiso</a>
 </li>
 <li>
 <a href="/sg/brands/skin-inc">Skin Inc</a>
 </li>
 <li>
-<a href="/sg/brands/supergoop">Supergoop!</a>
+<a href="/sg/brands/skinceuticals">SkinCeuticals</a>
 </li>
 <li>
-<a href="/sg/brands/skinceuticals">SkinCeuticals</a>
+<a href="/sg/brands/skinmiso">Skinmiso</a>
 </li>
 <li>
 <a href="/sg/brands/sleek-makeup">Sleek MakeUP</a>
 </li>
 <li>
-<a href="/sg/brands/swedish-skincare">Swedish Skincare</a>
+<a href="/sg/brands/soleil-toujour">Soleil Toujours</a>
+</li>
+<li>
+<a href="/sg/brands/somme-institute">Somme Institute</a>
+</li>
+<li>
+<a href="/sg/brands/supergoop">Supergoop!</a>
+</li>
+<li>
+<a href="/sg/brands/susanne-kaufmann">Susanne Kaufmann</a>
 </li>
 </ul>
 </li>
@@ -1207,13 +1259,13 @@ No Results Found
 <h4 id="brand-letter-t">t</h4>
 <ul>
 <li>
+<a href="/sg/brands/triumph-and-disaster">Triumph &amp; Disaster</a>
+</li>
+<li>
 <a href="/sg/brands/tangle-teezer">Tangle Teezer</a>
 </li>
 <li>
 <a href="/sg/brands/teen-skin-actives">Teen-Skin Actives</a>
-</li>
-<li>
-<a href="/sg/brands/this-works">This Works</a>
 </li>
 <li>
 <a href="/sg/brands/the-aromatherapy-co">The Aromatherapy Co</a>
@@ -1222,7 +1274,16 @@ No Results Found
 <a href="/sg/brands/the-konjac-sponge-company">The Konjac Sponge Company</a>
 </li>
 <li>
-<a href="/sg/brands/the-sasquatch-soap-co">The Sasquatch Soap Co. </a>
+<a href="/sg/brands/the-balm">theBalm</a>
+</li>
+<li>
+<a href="/sg/brands/thierry-mugler">Thierry Mugler</a>
+</li>
+<li>
+<a href="/sg/brands/this-works">This Works</a>
+</li>
+<li>
+<a href="/sg/brands/to-be-calm">To Be Calm </a>
 </li>
 <li>
 <a href="/sg/brands/tweezerman">Tweezerman</a>
@@ -1281,6 +1342,27 @@ No Results Found
 </li>
 <li>
 <a href="/luxury-brands">Luxury</a>
+<div class="container">
+<nav data-column_float="left" data-columns="5" data-threshold="10">
+<div class="links">
+<ul>
+<li>
+<h4>Luxury</h4>
+</li>
+<li><a href="/sg/brands/luzern">Luzern</a></li>
+<li><a href="/sg/brands/origins">Origins</a></li>
+<li><a href="/sg/brands/clinique">Clinique</a></li>
+<li><a href="/sg/brands/sk-ii">SK-II</a></li>
+<li><a href="/sg/brands/skinceuticals">SkinCeuticals</a></li>
+<li><a href="/sg/brands/argentum-apothecary">Argentum Apothecary</a></li>
+<li><a href="/sg/brands/brad-biophotonic-skin-care">Brad Biophotonic Skin Care</a></li>
+<li><a href="/sg/brands/skin-inc">Skin Inc</a></li>
+<li><a href="/sg/brands/laneige">Laneige</a></li>
+<li><a href="/sg/brands/anne-semonin">Anne Semonin</a></li>
+</ul>
+</div>
+</nav>
+</div>
 </li>
 <li>
 <a href="/sale">Sale</a>
@@ -1293,35 +1375,35 @@ No Results Found
 <strong>Sale</strong>
 </h4>
 </li>
-<li><a href="/sale?categories=bath-and-body">Bath &amp; Body</a></li>
+<li><a href="/sale?categories=makeup">Makeup</a></li>
 <li><a href="/sale?categories=skincare">Skincare</a></li>
+<li><a href="/sale?categories=bath-and-body">Bath &amp; Body</a></li>
 <li><a href="/sale?categories=tools">Tools</a></li>
 <li><a href="/sale?categories=nails">Nails</a></li>
 <li><a href="/sale?categories=men">Men</a></li>
-<li><a href="/sale?categories=makeup">Makeup</a></li>
 </ul>
 </div>
 </nav>
 </div>
 </li>
 <li>
-<a href="/lx-links/new-arrivals">New</a>
-</li>
-<li>
-<a href="/holiday-shop">Gifts</a>
+<a href="/pages/lxinspiredseptember">Trends</a>
 </li>
 <li class="shopping_cart hidden" data-horizontal-offset="-10" data-vertical-offset="-15" id="sticky_cart">
-<a href="/cart"><span class="count">
-(1)
+<a href="#"><span class="count">
+(0)
 </span>
-<span class="icon"></span>
-</a></li>
+</a><span class="icon"></span>
+</li>
 </ul>
 <div id="added_to_cart_sticky"></div>
 </div>
 </div>
 
 <div class="clear_float"></div>
+<div class="hidden" id="cart_preloader">
+<img id="cart_preloader_img" src="https://d2ni914xopmsh5.cloudfront.net/assets/ajax-loader-e3f5655299f51b89a6175b3a645f9f99.gif" alt="Ajax loader">
+</div>
 </div>
 
 
@@ -1623,12 +1705,12 @@ us at +65 8493 7315.</p>
 <h4>Want more love?</h4>
 <h2>Get 20% off</h2>
 <h4>Subscribe to our newsletter:</h4>
-<form accept-charset="UTF-8" action="/email_signup" id="email_subscription_form" method="post"><div style="display:none"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="ucxhEga11DHA6JNkkFqKd0xbszSx67/izi7DFApBS0M="></div>
+<form id="email_subscription_form" action="/email_signup" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="YgT6/raj6B1xcA7QBhd249VAyfJqgSfHUIrsQgTPLoG20rIQR0JGwXkjExlBGsJW1KS569Nr0uFaspvCsVlNAQ==">
 <fieldset>
-<input id="email_input" name="email" placeholder="Enter your email" type="email" value="">
+<input type="email" name="email" id="email_input" value="" placeholder="Enter your email">
 </fieldset>
 <fieldset>
-<input class="black_button" id="email_submit_button" name="commit" type="submit" value="Get your code now">
+<input type="submit" name="commit" value="Get your code now" id="email_submit_button" class="black_button">
 </fieldset>
 </form>
 
@@ -1649,39 +1731,39 @@ Discount is unique to user only and is not valid for multiple email accounts
 <p id="free_shipping_info">
 <span class="au_country_pref hidden min_shipping_container">
 <span class="bold pink">Free express delivery</span>
-any order over A$ 40.00
+any order over A$ 55.00
 </span>
 <span class="bn_country_pref hidden min_shipping_container">
 <span class="bold pink">Free express delivery</span>
-any order over S$40.00
+any order over S$50.00
 </span>
 <span class="hidden hk_country_pref min_shipping_container">
 <span class="bold pink">Free express delivery</span>
-any order over HK$ 250.00
+any order over HK$ 350.00
 </span>
 <span class="hidden in_country_pref min_shipping_container">
 <span class="bold pink">Free express delivery</span>
-any order over ₹ 2,300.00
+any order over ₹ 3,000.00
 </span>
 <span class="hidden min_shipping_container my_country_pref">
 <span class="bold pink">Free express delivery</span>
-any order over RM 40.00
+any order over RM 80.00
 </span>
 <span class="hidden min_shipping_container nz_country_pref">
 <span class="bold pink">Free express delivery</span>
-any order over NZ$ 60.00
+any order over NZ$ 75.00
 </span>
 <span class="hidden min_shipping_container ph_country_pref">
 <span class="bold pink">Free express delivery</span>
-any order over ₱ 0.00
+any order over ₱ 1,300.00
 </span>
 <span class="hidden min_shipping_container sg_country_pref">
 <span class="bold pink">Free Next Day Delivery</span>
-any order over S$10.00
+any order over S$40.00
 </span>
 <span class="ae_country_pref hidden min_shipping_container">
 <span class="bold pink">Free express delivery</span>
-any order over 450.00 د.إ
+any order over 460.00 د.إ
 </span>
 </p>
 <div class="thick_horizontal_line"></div>
@@ -1689,7 +1771,7 @@ any order over 450.00 د.إ
 </div>
 <div id="choose_country_form">
 <h3>Choose your Country &amp; Language</h3>
-<form accept-charset="UTF-8" action="/user/change_preferences" class="simple_form country" id="change_user_preferences_form" method="post" novalidate="novalidate"><div style="display:none"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="ucxhEga11DHA6JNkkFqKd0xbszSx67/izi7DFApBS0M="></div><fieldset class="input select optional country_iso_alpha2_code"><label class="select optional" for="country_iso_alpha2_code">Country</label><select class="select optional chzn-select" id="country_iso_alpha2_code" name="country[iso_alpha2_code]"><option value="au">Australia</option>
+<form id="change_user_preferences_form" novalidate="novalidate" class="simple_form country" action="/user/change_preferences" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="3SvMtI2YKSDfY/bydRZP0gtdNgMTrEdclFFHsFHrFisJ/YRafHmH/Ncw6zsyG/tnCrlGGqpGsnqeaTAw5H11qw=="><fieldset class="input select optional country_iso_alpha2_code"><label class="select optional" for="up_country_code">Country</label><select class="select optional chzn-select" id="up_country_code" name="country[iso_alpha2_code]"><option value="au">Australia</option>
 <option value="bn">Brunei</option>
 <option value="hk">Hong Kong</option>
 <option value="in">India</option>
@@ -1698,45 +1780,45 @@ any order over 450.00 د.إ
 <option value="ph">Philippines</option>
 <option selected="selected" value="sg">Singapore</option>
 <option value="ae">United Arab Emirates</option></select></fieldset>
-<fieldset class="input select optional country_language_code language-select"><label class="select optional" for="country_language_code">Language</label><select class="select optional chzn-select" data-default="lng_en" id="country_language_code" name="country[language_code]"><option selected="selected" value="lng_en">English</option>
+<fieldset class="input select optional country_language_code language-select"><label class="select optional" for="up_language_code">Language</label><select class="select optional chzn-select" data-default="lng_en" id="up_language_code" name="country[language_code]"><option selected="selected" value="lng_en">English</option>
 <option value="lng_id">Bahasa Indonesia</option>
 <option value="lng_th">Thai</option></select></fieldset>
-<input id="country_src_params" name="country[src_params]" type="hidden" value="{&quot;controller&quot;:&quot;footer_pages&quot;,&quot;action&quot;:&quot;privacy_policy&quot;}">
-<input id="km_identity" name="country[km_identity]" type="hidden" value="">
+<input value="{&quot;controller&quot;:&quot;footer_pages&quot;,&quot;action&quot;:&quot;privacy_policy&quot;}" type="hidden" name="country[src_params]" id="country_src_params">
+<input id="km_identity" value="" type="hidden" name="country[km_identity]">
 <div class="au_country_pref hidden payment_type_container">
 <div class="paypal-logo payment-type-small"></div>
-<div class="mastercard-logo payment-type-small"></div><div class="visa-logo payment-type-small"></div>
+<div class="mastercard-logo payment-type-small"></div><div class="visa-logo payment-type-small"></div><div class="amex-logo payment-type-small"></div>
 <div class="clear_float"></div>
 </div>
 <div class="bn_country_pref hidden payment_type_container">
-<div class="mastercard-logo payment-type-small"></div><div class="visa-logo payment-type-small"></div>
 <div class="paypal-logo payment-type-small"></div>
+<div class="mastercard-logo payment-type-small"></div><div class="visa-logo payment-type-small"></div>
 <div class="clear_float"></div>
 </div>
 <div class="hidden hk_country_pref payment_type_container">
 <div class="paypal-logo payment-type-small"></div>
-<div class="mastercard-logo payment-type-small"></div><div class="visa-logo payment-type-small"></div>
+<div class="mastercard-logo payment-type-small"></div><div class="visa-logo payment-type-small"></div><div class="amex-logo payment-type-small"></div>
 <div class="clear_float"></div>
 </div>
 <div class="hidden in_country_pref payment_type_container">
 <div class="mastercard-logo payment-type-small"></div><div class="visa-logo payment-type-small"></div>
-<div class="cod-logo payment-type-small"></div>
 <div class="clear_float"></div>
 </div>
 <div class="hidden my_country_pref payment_type_container">
 <div class="paypal-logo payment-type-small"></div>
 <div class="molpay-logo payment-type-small"></div><div class="maybank2u-logo payment-type-small"></div><div class="cimb-logo payment-type-small"></div><div class="rhb-logo payment-type-small"></div><div class="amb-logo payment-type-small"></div><div class="hlb-logo payment-type-small"></div><div class="fpx-logo payment-type-small"></div><div class="mepscash-logo payment-type-small"></div><div class="webcash-logo payment-type-small"></div>
-<div class="mastercard-logo payment-type-small"></div><div class="visa-logo payment-type-small"></div>
+<div class="mastercard-logo payment-type-small"></div><div class="visa-logo payment-type-small"></div><div class="amex-logo payment-type-small"></div>
 <div class="cod-logo payment-type-small"></div>
 <div class="clear_float"></div>
 </div>
 <div class="hidden nz_country_pref payment_type_container">
 <div class="paypal-logo payment-type-small"></div>
-<div class="mastercard-logo payment-type-small"></div><div class="visa-logo payment-type-small"></div>
+<div class="mastercard-logo payment-type-small"></div><div class="visa-logo payment-type-small"></div><div class="amex-logo payment-type-small"></div>
 <div class="clear_float"></div>
 </div>
 <div class="hidden payment_type_container ph_country_pref">
 <div class="paypal-logo payment-type-small"></div>
+<div class="dragonpay payment-type-small"></div>
 <div class="mastercard-logo payment-type-small"></div><div class="visa-logo payment-type-small"></div>
 <div class="clear_float"></div>
 </div>
@@ -1751,22 +1833,23 @@ any order over 450.00 د.إ
 <div class="ae_country_pref hidden payment_type_container">
 <div class="paypal-logo payment-type-small"></div>
 <div class="mastercard-logo payment-type-small"></div><div class="visa-logo payment-type-small"></div>
+<div class="cod-logo payment-type-small"></div>
 <div class="clear_float"></div>
 </div>
 <div class="clear_float"></div>
 <div class="form_actions">
-<input class="pink-btn" name="commit" type="submit" value="Update Country &amp; Language">
+<input type="submit" name="commit" value="Update Country &amp; Language" class="pink-btn">
 </div>
 </form>
-
 <div id="learn_more-shipping">
-<a href="/faq#delivery" target="_blank">Learn more about international shipping ▶</a>
+<a target="_blank" href="/faq#delivery">Learn more about international shipping ▶</a>
 </div>
 </div>
 <div class="clear_float"></div>
 </div>
 
 </div>
+
 <div class="footer" id="footer">
 <div class="container">
 <div class="footer_inner_container">
@@ -1793,7 +1876,6 @@ any order over 450.00 د.إ
 <li><a href="/about">About Us</a></li>
 <li><a href="/jobs">Jobs</a></li>
 <li><a href="/sitemap">Sitemap</a></li>
-<li><a href="/affiliates_program">Become Affiliate</a></li>
 </ul>
 </nav>
 <div class="block">
@@ -1801,21 +1883,10 @@ any order over 450.00 د.إ
 <dl class="phones">
 <dt>Singapore</dt>
 <dd itemprop="telephone">+65 8493 7315</dd>
+<dd itemprop="telephone">+65 6715 7049</dd>
 </dl>
 </div>
 </div>
-</div>
-<div class="social_container">
-<nav class="social_links">
-<h4>Connect</h4>
-<ul>
-<li><a class="facebook-link" href="https://www.facebook.com/Luxola" rel="me" target="_blank">facebook</a></li>
-<li><a class="twitter-link" href="https://twitter.com/luxolasg" rel="me" target="_blank">twitter</a></li>
-<li><a class="instagram-link" href="http://instagram.com/luxolasg" rel="me" target="_blank">instagram</a></li>
-<li><a class="youtube-link" href="http://www.youtube.com/LuxolaVideo" rel="me" target="_blank">youtube</a></li>
-</ul>
-</nav>
-<div class="facebook_likes"></div>
 </div>
 <div id="payment_options_email_signup_container">
 <div id="payment_types_small">
@@ -1829,32 +1900,51 @@ any order over 450.00 د.إ
 </div>
 </div>
 </div>
-<form accept-charset="UTF-8" action="/email_signup" id="mailing_list_signup" method="post"><div style="display:none"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="H9vahQrVHWEzMMK9XElcXFnbqsjujpp6wytAupUR+C4="></div>
+<div class="social_container">
+<nav class="social_links">
+<h4>Connect</h4>
+<ul>
+<li><a rel="me" class="facebook-link" target="_blank" href="https://www.facebook.com/Luxola">facebook</a></li>
+<li><a rel="me" class="twitter-link" target="_blank" href="https://twitter.com/luxolasg">twitter</a></li>
+<li><a rel="me" class="instagram-link" target="_blank" href="http://instagram.com/luxolasg">instagram</a></li>
+<li><a rel="me" class="youtube-link" target="_blank" href="http://www.youtube.com/LuxolaVideo">youtube</a></li>
+</ul>
+</nav>
+<div class="facebook_likes"></div>
+</div>
+<form id="mailing_list_signup" action="/email_signup" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="9xr0D91LMgTmF9/94WC90oiefFNj9PxQZcRrM0hCph2jgUHnQW5otT1lvs34Gz9hQauoVvupHqP4QIm71+NgHw==">
 <div class="join_mailing_list">
 <h4>Get in the know!</h4>
 <fieldset>
-<input id="email_input" name="email" placeholder="Join our email list" type="email" value="">
-<input name="commit" type="submit" value="Submit">
+<input type="email" name="email" id="email_input" value="" placeholder="Join our email list">
+<input type="submit" name="commit" value="Submit">
 </fieldset>
 </div>
 </form>
 
 <div class="clear_float" id="copyright">
-© 2011-2014 LUXOLA. ALL RIGHTS RESERVED.
+© 2011-2015 LUXOLA. ALL RIGHTS RESERVED.
 </div>
 </div>
 </div>
 
 <div id="app_js">
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script>
 //<![CDATA[
-window.jQuery || document.write(unescape('%3Cscript src="https://d2ni914xopmsh5.cloudfront.net/assets/jquery-6373b8f2b5fccef35ba956494ee41701.js">%3C/script>'))
+window.jQuery || document.write(unescape('%3Cscript src="https://d2ni914xopmsh5.cloudfront.net/assets/jquery-f5d44cf6605d36f8cce469de7f6b0276.js">%3C/script>'))
 //]]>
-</script><script src="https://d2ni914xopmsh5.cloudfront.net/assets/jquery-6373b8f2b5fccef35ba956494ee41701.js"></script>
-<script src="https://d2ni914xopmsh5.cloudfront.net/assets/application-adb4108f827b5a3b9ca97f84a3cf9eee.js"></script>
+</script><script src="https://d2ni914xopmsh5.cloudfront.net/assets/jquery-f5d44cf6605d36f8cce469de7f6b0276.js"></script>
+<script src="https://d2ni914xopmsh5.cloudfront.net/assets/application-272da523ac723e23eff8f850760655ac.js"></script>
 </div>
 <div id="local_scripts">
+<script>
+  //<![CDATA[
+    PriceSupport.exchange_rates = {"SGD":{"USD":0.7148412480556319,"AUD":0.994072536371,"HKD":5.540050410605,"INR":47.058793548129,"MYR":2.7,"NZD":1.11711887524,"PHP":33.190901214658,"AED":2.625310955943,"THB":25.483725924147,"IDR":10280.286870796734},"AUD":{"SGD":1.005962807956},"HKD":{"SGD":0.180503772689},"INR":{"SGD":0.021250013538},"MYR":{"SGD":0.37037037037},"NZD":{"SGD":0.895159881517},"PHP":{"SGD":0.030128739004},"AED":{"SGD":0.380907258904},"THB":{"SGD":0.039240729671},"IDR":{"SGD":9.727355e-05}};
+    I18n.currency = 'SGD';
+  //]]>
+</script>
+
 
 </div>
 <div id="third_party_scripts">
@@ -1870,10 +1960,10 @@ window.jQuery || document.write(unescape('%3Cscript src="https://d2ni914xopmsh5.
 
 <script>
 //<![CDATA[
+      luxola.releaseStage = 'production';
       luxola.isMobile = false;
       luxola.isTablet = false;
       luxola.init();
-      if (false && !!luxola.views.sk_ii && !!luxola.views.sk_ii.init) { luxola.views.sk_ii.init() }
       if (!!luxola.views.footer_pages && !!luxola.views.footer_pages.init) { luxola.views.footer_pages.init() }
       if (!!luxola.views.footer_pages && !!luxola.views.footer_pages.init_privacy_policy) { luxola.views.footer_pages.init_privacy_policy() }
 
@@ -1881,9 +1971,10 @@ window.jQuery || document.write(unescape('%3Cscript src="https://d2ni914xopmsh5.
 </script>
 
 
+
 <div id="back2top">
 <a href="#header">▲ TOP</a>
 </div>
 
 
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+</body></html>
