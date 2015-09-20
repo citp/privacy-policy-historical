@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the andhrawatch.com privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514200054id_/http%3A//www.andhrawatch.com/index.php/privacy-policy/568-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andhrawatch.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920041635id_/http%3A//www.andhrawatch.com/index.php/privacy-policy/568-privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | www.andhrawatch.com
 
