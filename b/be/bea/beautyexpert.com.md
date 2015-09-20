@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beautyexpert.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627004552id_/http%3A//www.beautyexpert.com/articles/customer-services/privacy-policy.list) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautyexpert.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920083728id_/http%3A//www.beautyexpert.com/articles/customer-services/privacy-policy.list) for the most accurate reproduction.*
 
 # Privacy Policy | Beauty Expert | Free Delivery
 
