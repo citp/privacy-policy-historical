@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the esportsea.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408095918id_/http%3A//play.esea.net/index.php%3Fs%3Dcontent%26d%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esportsea.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920024756id_/https%3A//play.esea.net/index.php%3Fs%3Dcontent%26d%3Dprivacy_policy) for the most accurate reproduction.*
 
 # ESEA - ESEA Privacy Policy
+
+ESEA Privacy Policy ****
 
 ****
   1. **Overview**  
@@ -31,15 +33,14 @@ BY USING THIS SITE, OR ANY PRODUCT OR SERVICE OFFERED ON THIS SITE, YOU CONSENT 
 We use the personal information you provide to us (i) in the manner described in this Policy, (ii) to improve and customize this site and the products and services offered to you, and (iii) as directed by you as indicated by your use of the products and services offered on this site. For example, we may use your personal information in connection with the following:  
 
     1. Creation of membership accounts;
-    2. Offers to participate in competitions and event;
-    3. Detection and prevention of cheats
-    4. Enforce bans; 
-    5. Offers to participate in competitions and event;
-    6. Delivery of email updates and newsletters;
-    7. Communications of offers for promotions, sweepstakes and contests;
-    8. Invitations to participate in user surveys and polls;
-    9. Execution of purchases of products and services; and
-    10. Providing software updates and interactive materials.
+    2. Detection and prevention of cheats
+    3. Enforce bans; 
+    4. Offers to participate in competitions and event;
+    5. Delivery of email updates and newsletters;
+    6. Communications of offers for promotions, sweepstakes and contests;
+    7. Invitations to participate in user surveys and polls;
+    8. Execution of purchases of products and services; and
+    9. Providing software updates and interactive materials.
   
 We may also use your personal information to contact you offline concerning the products and services offered on this site.
   
@@ -96,6 +97,5 @@ Commack, New York 11725
   11. **International Users**  
 If you are visiting this site from a location outside the United States, your connection will be through servers located in the United States and all information you provide will be processed and maintained in our web servers and internal systems located within the United States. By using this site, you authorize the export of personal information to the United States and its storage and use as specified above. 
 
-
-
+  
 _Last updated: November 10, 2014_
