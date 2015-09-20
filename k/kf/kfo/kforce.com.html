@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kforce.com privacy policy that was archived on 2015-04-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150418122704id_/https%3A//www.kforce.com/privacy-and-legal) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kforce.com privacy policy that was archived on 2015-09-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150920104625id_/https%3A//www.kforce.com/privacy-and-legal) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="ie js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths htmlhidden" lang="en" style=""><!--<![endif]--><head>
 	<meta charset="UTF-8">
@@ -65,7 +65,7 @@
         
         
         
-        <link href="/Css/smoothness/jquery-ui-1.10.2.custom.css?cdv=20150319" type="text/css" rel="stylesheet"><link href="/Css/font-awesome/css/font-awesome.min.css?cdv=20150319" type="text/css" rel="stylesheet"><link href="/Css/employers.css?cdv=20150319" type="text/css" rel="stylesheet"><link href="/Css/search.css?cdv=20150319" type="text/css" rel="stylesheet"><script src="/Scripts/js/base64.js?cdv=20150319" type="text/javascript"></script><script src="/Scripts/js/jquery-ui-1.10.2.custom.js?cdv=20150319" type="text/javascript"></script><script src="/Scripts/js/jquery.validate.js?cdv=20150319" type="text/javascript"></script><script src="/Scripts/js/jquery.validation.additional.js?cdv=20150319" type="text/javascript"></script><script src="/Scripts/js/jquery.mask.min.js?cdv=20150319" type="text/javascript"></script><script src="/Scripts/jobsearch/initSearchPanel.js?cdv=20150319" type="text/javascript"></script><script src="/Scripts/employer/initEmployerPanel.js?cdv=20150319" type="text/javascript"></script><script src="/Scripts/multiselect/jquery.multiselect.js?cdv=20150319" type="text/javascript"></script><script src="/Scripts/multiselect/jquery.multiselect.filter.js?cdv=20150319" type="text/javascript"></script>
+        <link href="/Css/smoothness/jquery-ui-1.10.2.custom.css?cdv=20150727" type="text/css" rel="stylesheet"><link href="/Css/font-awesome/css/font-awesome.min.css?cdv=20150727" type="text/css" rel="stylesheet"><link href="/Css/employers.css?cdv=20150727" type="text/css" rel="stylesheet"><link href="/Css/search.css?cdv=20150727" type="text/css" rel="stylesheet"><script src="/Scripts/js/base64.js?cdv=20150727" type="text/javascript"></script><script src="/Scripts/js/jquery-ui-1.10.2.custom.js?cdv=20150727" type="text/javascript"></script><script src="/Scripts/js/jquery.validate.js?cdv=20150727" type="text/javascript"></script><script src="/Scripts/js/jquery.validation.additional.js?cdv=20150727" type="text/javascript"></script><script src="/Scripts/js/jquery.mask.min.js?cdv=20150727" type="text/javascript"></script><script src="/Scripts/jobsearch/initSearchPanel.js?cdv=20150727" type="text/javascript"></script><script src="/Scripts/employer/initEmployerPanel.js?cdv=20150727" type="text/javascript"></script><script src="/Scripts/multiselect/jquery.multiselect.js?cdv=20150727" type="text/javascript"></script><script src="/Scripts/multiselect/jquery.multiselect.filter.js?cdv=20150727" type="text/javascript"></script>
     
 </div>
     <!-- Begin Google Analytics Include -->
@@ -197,10 +197,36 @@
             $('.JobSearchContainer').fadeOut(0);
             $('.JobSearchContainer').css('visibility', 'visible');
             $('.JobSearchContainer').fadeIn(500);
+            var idReferral = getURLParameter('id');
+            if (idReferral != null && idReferral != '')
+            {
+                if (idReferral.length == 4) {
+                    if (localStorage != null) {
+                        if (localStorage.getItem("referral_code") != null && localStorage.getItem("referral_code") != '') {
+                            if (localStorage.getItem("referral_set_time") != null)
+                            {
+                                var myDate = new Date(localStorage.getItem("referral_set_time"));
+                                if ((new Date()) - myDate > (60 * 60 * 1000*24))
+                                {
+                                    localStorage.setItem("referral_code", idReferral);
+                                    localStorage.setItem("referral_set_time", new Date());
+                                }
+                            }
+                            
+                        } else {
+                            localStorage.setItem("referral_code", idReferral);
+                            localStorage.setItem("referral_set_time", new Date());
+                        }
+                    }
+                }
+            }
         });
         /*$(window).on('beforeunload', function () {
             $('html').fadeOut(250);
         });*/
+        function getURLParameter(name) {
+            return decodeURIComponent((new RegExp('[?|&]' + name + '=' + '([^&;]+?)(&|#|;|$)').exec(location.search)||[,""])[1].replace(/\+/g, '%20'))||null
+        }
     </script>
     <script type="text/javascript">
         /* $(document).bind("mobileinit", function () {
