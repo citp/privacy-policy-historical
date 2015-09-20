@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minutemanpress.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609225254id_/http%3A//www.minutemanpress.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minutemanpress.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920144135id_/http%3A//www.minutemanpress.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Minuteman Press International, Inc. : Privacy Policy
 
