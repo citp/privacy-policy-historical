@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the android-enjoyed.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615112637id_/http%3A//www.android-enjoyed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the android-enjoyed.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920161322id_/http%3A//www.android-enjoyed.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Android Enjoyed - Privacy Policy
 
 **Data Collection**
 
@@ -50,15 +50,15 @@ To opt-out of our newsletter subscription, please follow the instructions found 
 
 **Dispute Resolution**
 
-If visitors or customers have any issues regarding the privacy practice of our website, please email privacy@android-enjoyed.com or write to our Privacy Policy Supervisor at the address below. Our Privacy Policy Supervisor will respond within 10 working days.
+If visitors or customers have any issues regarding the privacy practice of our website, please email privacy@android-enjoyed.com or write to our Privacy Policy Supervisor at the address below. Our Privacy Policy Supervisor will respond within 10 working days. 
 
-**California Online Privacy Protection Act Compliance**
+**Privacy Act (AU) California Online Privacy Protection Act (US) Compliance**
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+Because we value your privacy we have taken the necessary precautions to be in compliance with the Privacy Act (AU) and California Online Privacy Protection Act (US). We therefore will not distribute your personal information to outside parties without your consent.
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page.
+As part of the above mentioned acts, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page.
 
-**Childrens Online Privacy Protection Act Compliance**
+**Childrens Online Privacy Protection Act (US) Compliance**
 
 We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not knowingly collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. Our Online Store is directed at people who are at least 18 years old or older.
 
