@@ -1,20 +1,33 @@
-> *The following text is extracted and transformed from the sync.com privacy policy that was archived on 2014-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140826223008id_/https%3A//www.sync.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sync.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920153227id_/https%3A//www.sync.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Sync | Securely store all your sensitive files with Sync
+# Privacy Policy | Sync
 
-## At Sync, we are committed to protecting your privacy. This Privacy Policy lets you know when and how Sync uses, collects or discloses your personal information.
+  
+
+
+### At Sync, we are committed to protecting your privacy.
+
+This Privacy Policy lets you know when and how Sync uses, collects or discloses your personal information.
+
+* * *
 
 Personal information is information that can be used to identify or contact you individually, and other information that Sync needs to provide you with the products and services you have requested. Personal information typically includes your name, e-mail address, mailing address, telephone number and credit card or payment information. Under certain circumstances, an IP address may be considered personal information. Personal information does not include contact information about a person in their business capacity, such as the name, title, business address, or telephone number of an employee of an organization.
 
-## Sync's Ten Privacy Principles
+* * *
+
+### Sync's Ten Privacy Principles
 
 Sync has 10 Privacy Principles, based on those established in Canada’s Personal Information Protection and Electronic Documents Act, or PIPEDA. Sync has implemented policies and practices to give effect to these principles. Sync has implemented procedures to protect personal information, has established procedures to receive and respond to complaints and inquiries, has trained its staff and communicated to them information about Sync's policies and practices, and has developed information explaining Sync's policies and procedures. This Privacy Policy tells you about how Sync's policies and procedures comport with each of these Principles. 
+
+* * *
 
 ### Principle 1 – Accountability
 
 Sync is responsible for personal information under its control. Sync has designated a Privacy Officer who is accountable for its compliance with our Privacy Policy and PIPEDA. Sync's Privacy Officer is accountable for our compliance with PIPEDA, but other individuals at Sync may be responsible for day-to-day collection and processing of personal information and may also be delegated to act on behalf of the Privacy Officer.
 
 Sync may on occasion use outside companies, called third parties, to help us provide our products or services to you. Regardless of where these third parties are located, we require that they also comply with PIPEDA and with Sync's Privacy Principles. 
+
+* * *
 
 ### Principle 2 – Identifying Purposes
 
@@ -49,11 +62,15 @@ Sync will not disclose your personal information to any third parties without yo
 
 
 
+* * *
+
 ### Principle 3 – Consent
 
 Sync will collect, use and disclose your personal information only with your knowledge and consent, except where permitted or as required by law. We will not rent, sell, or otherwise distribute your personal information without your permission. Where appropriate, Sync will generally seek consent for the use or disclosure of the information at the time of collection. In certain circumstances, consent with respect to use or disclosure may be sought after the information has been collected but before use (for example, when Sync wants to use information for a purpose other than those identified above). Sync will seek consent when the information is likely to be considered sensitive. Implied consent will generally be appropriate where the information is less sensitive or where it can be reasonably inferred that you are consenting to the use and disclosure of personal information for certain purposes. 
 
 You control any future secondary use of your personal information, such as sharing it with marketers. You can prevent future secondary use of your information by “opting out” when Sync collects your information or at any time by simply contacting us. Opting out only applies to the secondary purposes because we may need to contact you regarding the usability of our services or notify you of important product revisions or updates. To change your privacy preferences, please go to www.sync.com and log into your account.
+
+* * *
 
 ### Principle 4 – Limiting Collection
 
@@ -72,15 +89,21 @@ Sync uses "cookies" to collect information and improve our products and services
 
 The Sync web site may include links to third-party Web sites. These third-party Web sites may assign different cookies to you. Those cookies may be used to track your involvement with the advertising site. You may choose not to accept these cookies. Sync does not control these parties, and you should review their privacy policies to learn more about what, why and how they collect and use personal information. 
 
+* * *
+
 ### Principle 5 – Limiting Use, Disclosure, and Retention
 
 Sync will not use or disclose your personal information other than for the purposes for which it was collected unless we receive your consent or unless we are required or permitted to by law. The content of the files that you store on our service is encrypted and only You can decrypt it. When providing information in response to a legal inquiry or order, we will verify its validity and disclose only the information that is legally required. Sync will make reasonable efforts, within the bounds of the law, to notify you should your personal information be subject to disclosure.
 
 Sync will keep your personal information only for as long as it needs to for the purposes identified above, as required by law, or as necessary to resolve any disputes you may have concerning our services. Sync will follow internally set guidelines and use care in the disposal, destruction, or de-identification of personal information to prevent unauthorized parties from gaining access to such information.
 
+* * *
+
 ### Principle 6 – Accuracy
 
 Sync will maintain accurate, complete and up-to-date personal information as required for the identified purposes associated with its collection. Please let Sync know if your contact or other personal information changes. To update your personal information, please go to www.sync.com and log into your account. 
+
+* * *
 
 ### Principle 7 – Safeguards
 
@@ -90,26 +113,34 @@ When you use our service, Sync will ask you to create a password. You will need 
 
 YOU MUST SAFEGUARD YOUR PASSWORD AND KEYS. Your password and keys are not stored on the Sync system. Consequently, should you lose or forget these, we cannot provide these to you or reset your password. Should you lose your device or should your device become inoperative, you may log in to your account management portal on the internet and deselect the affected device(s). For further information, please go to www.sync.com/help.
 
+* * *
+
 ### Principle 8 – Openness
 
 This Privacy Policy is an overview of information about our policies and practices relating to the management of personal information. Should we change any of our privacy practices, we will post such change in this Privacy Policy for 30 days before it goes into effect. We will not retroactively change the practices associated with your personal information without your consent.
 
-The intention of this Privacy Policy is to answer your questions about our privacy policies and practices. Should you be interested in more detailed information about our procedures and practices, please contact our Privacy Officer at privacyofficer@Sync. When you email Sync a request or concern, the Privacy Officer or somebody designated on the Officer's behalf, will review your email and will respond within a reasonable period of time. 
+The intention of this Privacy Policy is to answer your questions about our privacy policies and practices. Should you be interested in more detailed information about our procedures and practices, please contact our Privacy Officer at [privacyofficer@sync.com](mailto:privacyofficer@sync.com). When you email Sync a request or concern, the Privacy Officer or somebody designated on the Officer's behalf, will review your email and will respond within a reasonable period of time. 
+
+* * *
 
 ### Principle 9 – Individual Access
 
 Upon your written request, and subject to exceptions as permitted or mandated by law, Sync will inform you of the existence, use and disclosure of your personal information and will give you access to that information. You may challenge the accuracy and completeness of your information and have it amended as appropriate.
 
+* * *
+
 ### Principle 10 – Challenging Compliance
 
 Sync maintains procedures for addressing and responding to all inquiries or complaints from its customers about Sync's handling of personal information. We will inform individuals who make inquiries or lodge complaints of the existence of relevant complaint procedures. Our Privacy Officer and staff working at the Officer's direction may seek external advice where appropriate before providing a final response to individual complaints. Sync shall investigate all complaints. If a complaint is found to be justified, we will take appropriate measures, including, if necessary, amending its policies and procedures. 
 
-## For More Information
+* * *
+
+### For More Information
 
 We appreciate hearing any comments, questions or concerns that you may have about our policies, practices and customer service. Please contact our Privacy Office at [privacyofficer@sync.com](mailto:privacyofficer@sync.com), or by mail at: 
 
-Sync Inc.  
-7030 Woodbine Avenue. Suite 900  
+Sync.com Inc.  
+7030 Woodbine Avenue. Suite 800  
 Markham, ON L3R 6G2  
 Canada  
 Attention: Privacy Officer  
