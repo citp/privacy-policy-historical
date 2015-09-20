@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the beforward.jp privacy policy that was archived on 2015-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150616091616id_/http%3A//www.beforward.jp/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the beforward.jp privacy policy that was archived on 2015-09-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150920194947id_/http%3A//www.beforward.jp/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 
@@ -31,6 +31,7 @@
 <link rel="stylesheet" href="/css/popup.css" type="text/css">
 <link rel="stylesheet" href="/css/index.css" type="text/css" nolang="1">
 <link rel="stylesheet" href="/css/style.css" type="text/css">
+<link rel="stylesheet" href="/css/search.css" type="text/css">
 <!-- plugin css -->
 <link rel="stylesheet" href="/css/jquery.ad-gallery.css" type="text/css">
 
@@ -74,7 +75,7 @@
 </script>
 </head>
 <body id="mgt">
-	<!-- us -->
+	<!-- vu -->
 
 	<script type="text/javascript">
 //<![CDATA[
@@ -145,8 +146,6 @@ $(function() {
 		clickIt : false
 	});
 
-
-
 	//Language swicher
 	$('#lang-switch-area').hide();
 
@@ -174,9 +173,9 @@ $(function() {
 	<div id="in-header-top-wrap">
 		<div id="in-header-top">
 			<ul id="header-status">
-				<li><a href="/stocklist">Total Cars In Stock: 10,301</a></li>
-				<li><a href="/stocklist/sortkey=n">Cars Added Today: 797</a></li>
-				<li id="ja-time">Japan Time: 18:16</li>
+				<li><a href="/stocklist">Total Cars In Stock: 10,560</a></li>
+				<li><a href="/stocklist/sortkey=n">Cars Added Today: 874</a></li>
+				<li id="ja-time">Japan Time: 4:49</li>
 			</ul>
 			<!-- header_status -->
 
@@ -193,7 +192,7 @@ $(function() {
 						<a href="https://mypage.beforward.jp/clients/signup/">Create Your Account</a>
 					</li>
 					<li id="my-page" style="display:none;">
-						<a href="/mypage">My Page</a>
+						<a href="https://mypage.beforward.jp/mypage">My Page</a>
 					</li>
 
 					<li id="lang-switch">
@@ -232,85 +231,90 @@ $(function() {
 		<div id="in-header-bottom">
 			<h1 id="logo"><a href="/"><img src="/images/logo.gif" alt="BE FORWARD.JP WITH JAPANESE QUALITY"></a></h1>
 			<ul id="gloval-nav" class="megamenu" style="display: block;">
-				<li id="gn-find-car" class="mm-item" style="float: left;">
-					<a href="#" class="mm-item-link">Find Cars</a>
+				<li id="gn-browse-stock" class="not-link mm-item" style="float: left;">
+					<a href="#" class="mm-item-link">Browse Stock</a>
 					<div class="mm-item-content" style="display: none;"><div class="mm-content-base">
 						<ul id="gn-find-car-content">
 							<li>
 								<ul>
 									<li><a href="/stocklist">・Browse All Cars</a></li>
-									<li><a href="/stocklist/icon_sale=1/sortkey=k">・Best Deal<span style="font-size:11px;">$</span></a></li>
-									<li><a href="/stocklist/icon_pickup=1/sortkey=e">・Recommended Cars</a></li>
-									<li><a href="/stocklist/icon_campaign=1/sortkey=e">・Premium Class</a></li>
-									<li><a href="/stocklist/icon_outlet=1/sortkey=e">・Outlet</a></li>
-									<li><a href="/stocklist/icon_clearance=1/sortkey=e">・Clearance</a></li>
+									<li><a href="/stocklist/icon_pickup=1/sortkey=n">・Recommended Cars</a></li>
+									<li><a href="/stocklist/icon_campaign=1/sortkey=n">・Premium Class</a></li>
+									<li class="bestdeals"><a href="/stocklist/icon_sale=1/sortkey=k">・Best Deal<span style="font-size:11px;">$</span></a></li>
+									<li><a href="/stocklist/icon_clearance=1/sortkey=n">・Clearance</a></li>
+									<li><a href="/stocklist/icon_outlet=1/sortkey=n">・Outlet</a></li>
 								</ul>
 									<h2>By Year:</h2>
 								<ul>
-									<li><a href="/stocklist/mfg_year_to=2005/sortkey=e">・Older than 2005</a></li>
-									<li><a href="/stocklist/mfg_year_from=2006/mfg_year_to=2006/sortkey=e">・2006</a></li>
-									<li><a href="/stocklist/mfg_year_from=2007/mfg_year_to=2007/sortkey=e">・2007</a></li>
-									<li><a href="/stocklist/mfg_year_from=2008/sortkey=e">・Newer than 2008</a></li>
+									<li><a href="/stocklist/mfg_year_to=2005/sortkey=n">・2005 and Older</a></li>
+							<li><a href="/stocklist/mfg_year_from=2006/sortkey=n">・2006 and Newer</a></li>
+							<li><a href="/stocklist/mfg_year_from=2007/sortkey=n">・2007 and Newer</a></li>
+							<li><a href="/stocklist/mfg_year_from=2008/sortkey=n">・2008 and Newer</a></li>
+							<li><a href="/stocklist/mfg_year_from=2009/sortkey=n">・2009 and Newer</a></li>
+							<li><a href="/stocklist/mfg_year_from=2010/sortkey=n">・2010 and Newer</a></li>
 								</ul>
 									<h2>By Price:</h2>
 								<ul>
-									<li><a href="/stocklist/fob_price_to=1000/sortkey=e">・Under $1,000</a></li>
-									<li><a href="/stocklist/fob_price_from=1000/fob_price_to=1500/sortkey=e">・$1,000-$1,500</a></li>
-									<li><a href="/stocklist/fob_price_from=1500/fob_price_to=2000/sortkey=e">・$1,500-$2,000</a></li>
-									<li><a href="/stocklist/fob_price_from=2000/fob_price_to=2500/sortkey=e">・$2,000-$2,500</a></li>
-									<li><a href="/stocklist/fob_price_from=2500/fob_price_to=3000/sortkey=e">・$2,500-$3,000</a></li>
-									<li><a href="/stocklist/fob_price_from=3000/sortkey=e">・Over $3,000</a></li>
+									<li><a href="/stocklist/fob_price_to=1000/sortkey=n">・Under $1,000</a></li>
+									<li><a href="/stocklist/fob_price_from=1000/fob_price_to=1500/sortkey=n">・$1,000-$1,500</a></li>
+									<li><a href="/stocklist/fob_price_from=1500/fob_price_to=2000/sortkey=n">・$1,500-$2,000</a></li>
+									<li><a href="/stocklist/fob_price_from=2000/fob_price_to=2500/sortkey=n">・$2,000-$2,500</a></li>
+									<li><a href="/stocklist/fob_price_from=2500/fob_price_to=3000/sortkey=n">・$2,500-$3,000</a></li>
+									<li><a href="/stocklist/fob_price_from=3000/sortkey=n">・Over $3,000</a></li>
 								</ul>
 							</li>
 							<li>
 								<h2>By Make:</h2>
 								<ul>
-									<li><a href="/stocklist/make=1/sortkey=e">・TOYOTA</a></li>
-									<li><a href="/stocklist/make=4/sortkey=e">・MAZDA</a></li>
-									<li><a href="/stocklist/make=106/sortkey=e">・MERCEDES-BENZ</a></li>
-									<li><a href="/stocklist/make=48/sortkey=e">・VOLKSWAGEN</a></li>
-									<li><a href="/stocklist/make=79/sortkey=e">・JAGUAR</a></li>
-									<li><a href="/stocklist/make=3/sortkey=e">・NISSAN</a></li>
-									<li><a href="/stocklist/make=7/sortkey=e">・SUZUKI</a></li>
-									<li><a href="/stocklist/make=83/sortkey=e">・BMW</a></li>
-									<li><a href="/stocklist/make=47/sortkey=e">・AUDI</a></li>
-									<li><a href="/stocklist/make=53/sortkey=e">・OPEL</a></li>
-									<li><a href="/stocklist/make=2/sortkey=e">・HONDA</a></li>
-									<li><a href="/stocklist/make=8/sortkey=e">・ISUZU</a></li>
-									<li><a href="/stocklist/make=52/sortkey=e">・LAND ROVER</a></li>
-									<li><a href="/stocklist/make=72/sortkey=e">・CHEVROLET</a></li>
-									<li><a href="/stocklist/make=44/sortkey=e">・HYUNDAI</a></li>
-									<li><a href="/stocklist/make=5/sortkey=e">・MITSUBISHI</a></li>
-									<li><a href="/stocklist/make=10/sortkey=e">・DAIHATSU</a></li>
+									<li><a href="/stocklist/make=1/sortkey=n">・TOYOTA</a></li>
+									<li><a href="/stocklist/make=3/sortkey=n">・NISSAN</a></li>
+									<li><a href="/stocklist/make=2/sortkey=n">・HONDA</a></li>
+									<li><a href="/stocklist/make=4/sortkey=n">・MAZDA</a></li>
+									<li><a href="/stocklist/make=5/sortkey=n">・MITSUBISHI</a></li>
+									<li><a href="/stocklist/make=94/sortkey=n">・SUBARU</a></li>
+									<li><a href="/stocklist/make=7/sortkey=n">・SUZUKI</a></li>
+									<li><a href="/stocklist/make=8/sortkey=n">・ISUZU</a></li>
+									<li><a href="/stocklist/make=10/sortkey=n">・DAIHATSU</a></li>
+									<li><a href="/stocklist/make=103/sortkey=n">・HINO</a></li><br>
+									<li><a href="/stocklist/make=106/sortkey=n">・MERCEDES-BENZ</a></li>
+									<li><a href="/stocklist/make=48/sortkey=n">・VOLKSWAGEN</a></li>
+									<li><a href="/stocklist/make=52/sortkey=n">・LAND ROVER</a></li>
+									<li><a href="/stocklist/make=73/sortkey=n">・PEUGEOT</a></li>
+									<li><a href="/stocklist/make=83/sortkey=n">・BMW</a></li>
+									<li><a href="/stocklist/make=47/sortkey=n">・AUDI</a></li>
+									<li><a href="/stocklist/make=50/sortkey=n">・FORD</a></li>
+									<li><a href="/stocklist/make=205/sortkey=n">・JEEP</a></li>
+									<li><a href="/stocklist/make=313/sortkey=n">・KIA</a></li>
+									<li><a href="/stocklist/make=44/sortkey=n">・HYUNDAI</a></li>
 								</ul>
 							</li>
 							<li>
 								<h2>By Type :</h2>
 								<ul>
-									<li><a href="/stocklist/veh_type=6/sortkey=e">・SUV</a></li>
-									<li><a href="/stocklist/veh_type=4/sortkey=e">・Sedan</a></li>
-									<li><a href="/stocklist/veh_type=3/sortkey=e">・Hatchback</a></li>
-									<li><a href="/stocklist/veh_type=1/sortkey=e">・Coupe</a></li>
-									<li><a href="/stocklist/veh_type=2/sortkey=e">・Convertible</a></li>
-									<li><a href="/stocklist/veh_type=8/sortkey=e">・Van</a></li>
-									<li><a href="/stocklist/veh_type=15/sortkey=e">・Mini Van</a></li>
-									<li><a href="/stocklist/veh_type=5/sortkey=e">・Wagon</a></li>
-									<li><a href="/stocklist/veh_type=9/sortkey=e">・Truck</a></li>
-									<li><a href="/stocklist/veh_type=7/sortkey=e">・Pick up</a></li>
-									<li><a href="/stocklist/veh_type=10/sortkey=e">・Mini Bus</a></li>
-									<li><a href="/stocklist/veh_type=17/sortkey=e">・Bus</a></li>
-									<li><a href="/stocklist/veh_type=16/sortkey=e">・Machinery</a></li>
-									<li><a href="/stocklist/veh_type=26/sortkey=e">・Motorcycle</a></li>
+									<li><a href="/stocklist/veh_type=6/sortkey=n">・SUV</a></li>
+									<li><a href="/stocklist/veh_type=8/sortkey=n">・Van</a></li>
+									<li><a href="/stocklist/veh_type=17/sortkey=n">・Bus</a></li>
+									<li><a href="/stocklist/veh_type=9/sortkey=n">・Truck</a></li>
+									<li><a href="/stocklist/veh_type=4/sortkey=n">・Sedan</a></li>
+									<li><a href="/stocklist/veh_type=1/sortkey=n">・Coupe</a></li>
+									<li><a href="/stocklist/veh_type=5/sortkey=n">・Wagon</a></li>
+									<li><a href="/stocklist/veh_type=7/sortkey=n">・Pick up</a></li>
+									<li><a href="/stocklist/veh_type=15/sortkey=n">・Mini Van</a></li>
+									<li><a href="/stocklist/veh_type=10/sortkey=n">・Mini Bus</a></li>
+									<li><a href="/stocklist/veh_type=3/sortkey=n">・Hatchback</a></li>
+									<li><a href="/stocklist/veh_type=2/sortkey=n">・Convertible</a></li>
+									<li><a href="/stocklist/veh_type=16/sortkey=n">・Machinery</a></li>
+									<li><a href="/stocklist/veh_type=28/sortkey=n">・Forklift</a></li>
+									<li><a href="/stocklist/veh_type=27/sortkey=n">・Tractor</a></li>
+									<li><a href="/stocklist/veh_type=26/sortkey=n">・Motorcycle</a></li>
 								</ul>
-							</li>
-							<li>
-								<h2>Other Categories :</h2>
+
+								<h2 class="mt20">Other Categories :</h2>
 								<ul>
-									<li><a href="/stocklist/steering=Left/sortkey=e">・Left Hand Drive</a></li>
-									<li><a href="/stocklist/fuel=5/sortkey=e">・Diesel</a></li>
-									<li><a href="/stocklist/mission=13/sortkey=e">・Manual</a></li>
-									<li><a href="/used-truck" target="_blank">・Used Trucks</a></li>
-									<li><a href="/used-bus" target="_blank">・Used Buses</a></li>
+									<li><a href="/stocklist/steering=Left/sortkey=n">・Left Hand Drive</a></li>
+									<li><a href="/stocklist/fuel=5/sortkey=n">・Diesel</a></li>
+									<li><a href="/stocklist/mission=13/sortkey=n">・Manual</a></li>
+									<li><a href="/stocklist/keyword=WELCAB/sortkey=n">・For Handicapped</a></li>
 								</ul>
 							</li>
 						</ul>
@@ -318,10 +322,14 @@ $(function() {
 					</div><div class="mm-js-shadow"></div></div>
 				</li>
 				<!-- gn-find-car -->
-				<li id="gn-how-to-buy" class="mm-item" style="float: left;">
+				<li id="gn-auto-parts" class="mm-item" style="float: left;">
+					<a href="http://autoparts.beforward.jp/" target="_blank" class="mm-item-link">Auto Parts</a>
+				</li>
+				<!-- gn-how-to-buy -->
+				<li id="gn-how-to-buy" class="not-link mm-item" style="float: left;">
 					<a href="#" class="mm-item-link">How To Buy</a>
 					<div class="mm-item-content" style="display: none;"><div class="mm-content-base">
-						<ul id="gn-how-to-buy-content">
+						<ul id="gn-support-and-faqs-content">
 							<li><a href="/guides-tips/how-to-buy#choose_your_vehicle">1. Choose Your vehicle!</a></li>
 							<li><a href="/guides-tips/how-to-buy#request">2. Request</a></li>
 							<li><a href="/guides-tips/how-to-buy#payment">3. Payment</a></li>
@@ -333,47 +341,16 @@ $(function() {
 						</ul>
 					</div><div class="mm-js-shadow"></div></div>
 				</li>
-				<!-- gn-how-to-buy -->
-				<li id="gn-support-and-faqs" class="mm-item" style="float: left;">
-					<a href="#" class="mm-item-link">Support &amp; FAQs</a>
-					<div class="mm-item-content" style="display: none;"><div class="mm-content-base">
-						<ul id="gn-support-and-faqs-content">
-							<li><a href="/cap">・Car At Progress (CAP)</a></li>
-							<li><a href="/support/faq">・Frequently Asked Questions (FAQs)</a></li>
-							<li><a href="/shipping_agents">・Shipping Agents</a></li>
-							<li><a href="/support/contact-information">・Contact Information</a></li>
-						</ul>
-					</div><div class="mm-js-shadow"></div></div>
-				</li>
 				<!-- gn-support-and-faqs -->
-				<li id="gn-about-be-forward" class="mm-item" style="float: left;">
-					<a href="#" class="mm-item-link">About BE FORWARD</a>
-					<div class="mm-item-content" style="display: none;"><div class="mm-content-base">
-						<ul id="gn-about-be-forward-content">
-							<li><a href="/about">・Overview</a></li>
-							<li><a href="/about/company-profile">・Company Profile</a></li>
-							<li><a href="/about/why-choose-be-forward">・Why Choose BE FORWARD?</a></li>
-							<li><a href="/about/team">・Team</a></li>
-							<li><a href="/about/languages">・Languages</a></li>
-							<li><a href="/about/awards">・Awards</a></li>
-							<li><a href="/about/partners">・Partners</a></li>
-							<li><a href="http://voc.beforward.jp/testimonials.html">・Testimonials</a></li>
-							<li><a href="http://blog.beforward.jp/">・Blog</a></li>
-							<li><a href="/car_comparison/nissan_x_trai_vs_toyota_rav4">・Car Comparison</a></li>
-							<li><a href="/car_wiki/used_honda_crv_models_comparison">・Car Wiki</a></li>
-							<li><a href="http://carnews.beforward.jp">・Car News</a></li>
-							<li><a href="/support/inquiry">・Inquiry</a></li>
-							<li><a href="http://corporate.beforward.jp/company/" target="_blank">・会社情報</a></li>
-							<li><a href="http://corporate.beforward.jp/recruit/" target="_blank">・採用情報</a></li>
-							<li><a href="http://www.ystruck.jp/" target="_blank">・中古トラック業販</a></li>
-							<li><a href="http://www.africabusiness.jp" target="_blank">・アフリカ進出支援サービス</a></li>
-						</ul>
-					</div><div class="mm-js-shadow"></div></div>
+
+
+				<li id="gn-testimonials" class="mm-item" style="float: left;">
+					<a href="https://fun.beforward.jp/" target="_blank" class="mm-item-link">Testimonials</a>
 				</li>
 				<!-- gn-about-be-forward -->
-				<li id="gn-be-forward-local" class="mm-item" style="float: left;">
-					<a href="#" class="mm-item-link">BE FORWARD Local</a>
-					<div class="mm-item-content" style="display: none;"><div class="mm-content-base">
+				<li id="gn-be-forward-local" class="not-link mm-item" style="float: left;">
+					<a href="#" class="mm-item-link">BF Local Service</a>
+					<div style="border-right: 5px solid rgb(50, 50, 50); left: 356px; display: none;" class="mm-item-content"><div class="mm-content-base">
 						<ul id="gn-be-forward-local-content">
 							<li>
 								<ul>
@@ -398,13 +375,13 @@ $(function() {
 									<li class="local-service-kenya">
 										<a href="/beforward_kenya" target="_blank">BF Kenya</a>
 									</li>
+									<li class="local-service-uganda">
+										<a href="/beforward_uganda" target="_blank">BF Uganda</a>
+									</li>
 								</ul>
 							</li>
 							<li>
 								<ul>
-									<li class="local-service-uganda">
-										<a href="/beforward_uganda" target="_blank">BF Uganda</a>
-									</li>
 									<li class="local-service-southsudan">
 										<a href="/beforward_southsudan" target="_blank">BF South Sudan</a>
 									</li>
@@ -414,18 +391,84 @@ $(function() {
 									<li class="local-service-georgia">
 										<a href="/beforward_georgia" target="_blank">BF Georgia</a>
 									</li>
+									<li class="local-service-russia">
+										<a href="/beforward_russia" target="_blank">BF Russia</a>
+									</li>
 									<li class="local-service-mongolia">
 										<a href="/guides-tips/how-to-use-mongolian" target="_blank">BF Mongolia</a>
 									</li>
 									<li class="local-service-newzealand">
 										<a href="/beforward_newzealand" target="_blank">BF New Zealand</a>
 									</li>
+									<li class="local-service-caribbean">
+										<a href="/beforward_caribbean" target="_blank">BF Caribbean</a>
+									</li>
+									<li class="local-service-latinamerica">
+										<a href="/beforward_latinamerica" target="_blank">BF Latin America</a>
+									</li>
 								</ul>
 							</li>
 						</ul>
 					</div><div class="mm-js-shadow"></div></div>
-				</li><li class="clear-fix"></li>
+				</li>
 				<!-- gn-be-forward-local -->
+
+
+				<li id="gn-help-and-support" class="not-link mm-item" style="float: left;">
+					<a href="#" class="mm-item-link">Help &amp; Support</a>
+					<div class="mm-item-content" style="display: none;"><div class="mm-content-base">
+						<ul id="gn-be-forward-help-content">
+							<li><a href="/beforward_certified_agents/all">・Be Forward Certified Agents</a></li>
+							<li><a href="/shipping_agents">・Shipping Agents</a></li>
+							<li><a href="/support/help-center/create-an-account">・How to register</a></li>
+							<li><a href="/support/faq">・FAQs</a></li><br>
+							<li><a href="/support/inquiry">・Send us Inquiry</a></li>
+							<li><a href="/support/help-center/about-notify-me">・What is Notify Me?</a></li>
+							<li><a href="/support/help-center/about-wish-cars">・What is Wish Car?</a></li>
+							<li><a href="/cap">・What is CAP?</a></li>
+						</ul>
+					</div><div class="mm-js-shadow"></div></div>
+				</li>
+				<!-- gn-about-be-forward -->
+
+
+				<li id="gn-blog-and-resources" class="not-link mm-item" style="float: left;">
+					<a href="#" class="mm-item-link">Blog &amp; Resources</a>
+					<div class="mm-item-content" style="display: none;"><div class="mm-content-base">
+						<ul id="gn-be-forward-blog-content">
+							<li><a href="/car_wiki/used_toyota_prius_models_comparison">・Car Encyclopedia</a></li>
+							<li><a href="/car_comparison/bmw_3_series_vs_mercedesbenz_c_class">・Car Comparison</a></li>
+							<li><a href="http://carnews.beforward.jp" target="_blank">・Car News</a></li>
+							<li><a href="http://blog.beforward.jp/" target="_blank">・Blog</a></li>
+							<li><a href="/used-truck" target="_blank">・Used Trucks</a></li>
+							<li><a href="/used-bus" target="_blank">・Used Bus</a></li>
+						</ul>
+					</div><div class="mm-js-shadow"></div></div>
+				</li>
+				<!-- gn-about-be-forward -->
+
+				<li id="gn-about-be-forward" class="not-link mm-item" style="float: left;">
+					<a href="#" class="mm-item-link">About Us</a>
+					<div class="mm-item-content" style="display: none;"><div class="mm-content-base">
+						<ul id="gn-about-be-forward-content">
+							<li><a href="/about">・Overview</a></li>
+							<li><a href="/about/company-profile">・Company Profile</a></li>
+							<li><a href="/about/bank_information">・Bank Information</a></li>
+							<li><a href="/about/why-choose-be-forward">・Why Choose BF?</a></li>
+							<li><a href="/about/languages">・Languages</a></li>
+							<li><a href="/about/team">・Team</a></li>
+							<li><a href="/about/awards">・Awards</a></li>
+							<li><a href="/about/partners">・Partners</a></li>
+							<li><a href="/support/inquiry">・Inquiry</a></li><br>
+							<li><a href="http://corporate.beforward.jp/company/" target="_blank">・会社情報</a></li>
+							<li class="careers"><a href="http://corporate.beforward.jp/recruit/" target="_blank">・採用情報</a></li>
+							<li><a href="http://www.ystruck.jp/" target="_blank">・中古トラック業販</a></li>
+							<li><a href="http://www.africabusiness.jp" target="_blank">・アフリカ進出支援サービス</a></li>
+						</ul>
+					</div><div class="mm-js-shadow"></div></div>
+				</li><li class="clear-fix"></li>
+				<!-- gn-about-be-forward -->
+
 			</ul>
 			<!-- gloval-nav -->
 		</div>
@@ -444,7 +487,7 @@ $(function() {
 		<span id="warning-head">SECURITY NOTICE:</span>
 		Beware of Fake BE FORWARD Emails! (read more).
 	</a>
-	<span id="warning-date">- Updated Feb 20, 2015</span>
+	<span id="warning-date">- Updated Jul 28, 2015</span>
 </div>
 
 		</div>
@@ -454,64 +497,67 @@ $(function() {
 
 	<h2>Vehicles In Stock</h2>
 	<ul id="vehicles-in-stock">
-		<li id="vehicles-japan"><a href="/stocklist/stock_country=47/sortkey=o">Japan<span class="fs9">(10,083)</span></a></li>
-		<li id="vehicles-korea"><a href="/stocklist/stock_country=28/sortkey=o">Korea<span class="fs9">(207)</span></a></li>
-		<li id="vehicles-uk"><a href="/stocklist/stock_country=45/sortkey=o">United Kingdom<span class="fs9">(4)</span></a></li>
-		<li id="vehicles-usa"><a href="/stocklist/stock_country=90/sortkey=o">USA<span class="fs9">(1)</span></a></li>
-			</ul>
+		<li id="vehicles-japan"><a href="/stocklist/stock_country=47/sortkey=o">Japan<span class="fs9">(10,425)</span></a></li>
+		<li id="vehicles-korea"><a href="/stocklist/stock_country=28/sortkey=a">Korea<span class="fs9">(116)</span></a></li>
+		<li id="vehicles-uk"><a href="/stocklist/stock_country=45/sortkey=o">United Kingdom<span class="fs9">(5)</span></a></li>
+		<li id="vehicles-usa"><a href="/stocklist/stock_country=90/sortkey=o">USA<span class="fs9">(8)</span></a></li>
+	</ul>
 
 	<h2>Order Of Makes</h2>
 	<ul id="order-of-makes">
-		<li id="makes-toyota"><a href="/stocklist/make=1/sortkey=e">TOYOTA<span class="fs9">(5,066)</span></a></li>
-		<li id="makes-nissan"><a href="/stocklist/make=3/sortkey=e">NISSAN<span class="fs9">(1,208)</span></a></li>
-		<li id="makes-honda"><a href="/stocklist/make=2/sortkey=e">HONDA<span class="fs9">(432)</span></a></li>
-		<li id="makes-mazda"><a href="/stocklist/make=4/sortkey=e">MAZDA<span class="fs9">(532)</span></a></li>
-		<li id="makes-mitsubishi"><a href="/stocklist/make=5/sortkey=e">MITSUBISHI<span class="fs9">(596)</span></a></li>
-		<li id="makes-subaru"><a href="/stocklist/make=94/sortkey=e">SUBARU<span class="fs9">(220)</span></a></li>
-		<li id="makes-suzuki"><a href="/stocklist/make=7/sortkey=e">SUZUKI<span class="fs9">(293)</span></a></li>
-		<li id="makes-isuzu"><a href="/stocklist/make=8/sortkey=e">ISUZU<span class="fs9">(157)</span></a></li>
-		<li id="makes-daihatsu"><a href="/stocklist/make=10/sortkey=e">DAIHATSU<span class="fs9">(91)</span></a></li>
-		<li id="makes-hino"><a href="/stocklist/make=103/sortkey=e">HINO<span class="fs9">(72)</span></a></li>
-		<li id="makes-mercedes-benz"><a href="/stocklist/make=106/sortkey=e">MERCEDES-BENZ<span class="fs9">(311)</span></a></li>
-		<li id="makes-bmw"><a href="/stocklist/make=83/sortkey=e">BMW<span class="fs9">(329)</span></a></li>
-		<li id="makes-volkswagon"><a href="/stocklist/make=48/sortkey=e">VOLKSWAGEN<span class="fs9">(312)</span></a></li>
-		<li id="makes-audi"><a href="/stocklist/make=47/sortkey=e">AUDI<span class="fs9">(101)</span></a></li>
-		<li id="makes-peugeot"><a href="/stocklist/make=73/sortkey=e">PEUGEOT<span class="fs9">(39)</span></a></li>
-		<li id="makes-ford"><a href="/stocklist/make=50/sortkey=e">FORD<span class="fs9">(59)</span></a></li>
-		<li id="makes-volvo"><a href="/stocklist/make=57/sortkey=e">VOLVO<span class="fs9">(40)</span></a></li>
-		<li id="makes-land-rover"><a href="/stocklist/make=52/sortkey=e">LAND ROVER<span class="fs9">(31)</span></a></li>
-		<li id="makes-jaguar"><a href="/stocklist/make=79/sortkey=e">JAGUAR<span class="fs9">(21)</span></a></li>
-		<li id="makes-jeep"><a href="/stocklist/make=205/sortkey=e">JEEP<span class="fs9">(52)</span></a></li>
-		<li id="makes-hyundai"><a href="/stocklist/make=44/sortkey=e">HYUNDAI<span class="fs9">(102)</span></a></li>
-		<li id="makes-kia"><a href="/stocklist/make=313/sortkey=e">KIA<span class="fs9">(62)</span></a></li>
-		<li id="makes-ssangyong"><a href="/stocklist/make=244/sortkey=e">SSANGYONG<span class="fs9">(38)</span></a></li>
+		<li id="makes-toyota"><a href="/stocklist/make=1/sortkey=e">TOYOTA<span class="fs9">(5,055)</span></a></li>
+		<li id="makes-nissan"><a href="/stocklist/make=3/sortkey=e">NISSAN<span class="fs9">(1,528)</span></a></li>
+		<li id="makes-honda"><a href="/stocklist/make=2/sortkey=e">HONDA<span class="fs9">(650)</span></a></li>
+		<li id="makes-mazda"><a href="/stocklist/make=4/sortkey=e">MAZDA<span class="fs9">(554)</span></a></li>
+		<li id="makes-mitsubishi"><a href="/stocklist/make=5/sortkey=e">MITSUBISHI<span class="fs9">(498)</span></a></li>
+		<li id="makes-subaru"><a href="/stocklist/make=94/sortkey=e">SUBARU<span class="fs9">(237)</span></a></li>
+		<li id="makes-suzuki"><a href="/stocklist/make=7/sortkey=e">SUZUKI<span class="fs9">(258)</span></a></li>
+		<li id="makes-isuzu"><a href="/stocklist/make=8/sortkey=e">ISUZU<span class="fs9">(123)</span></a></li>
+		<li id="makes-daihatsu"><a href="/stocklist/make=10/sortkey=e">DAIHATSU<span class="fs9">(103)</span></a></li>
+		<li id="makes-hino"><a href="/stocklist/make=103/sortkey=e">HINO<span class="fs9">(44)</span></a></li>
+		<li id="makes-mercedes-benz"><a href="/stocklist/make=106/sortkey=e">MERCEDES-BENZ<span class="fs9">(375)</span></a></li>
+		<li id="makes-bmw"><a href="/stocklist/make=83/sortkey=e">BMW<span class="fs9">(274)</span></a></li>
+		<li id="makes-volkswagon"><a href="/stocklist/make=48/sortkey=e">VOLKSWAGEN<span class="fs9">(272)</span></a></li>
+		<li id="makes-audi"><a href="/stocklist/make=47/sortkey=e">AUDI<span class="fs9">(75)</span></a></li>
+		<li id="makes-peugeot"><a href="/stocklist/make=73/sortkey=e">PEUGEOT<span class="fs9">(42)</span></a></li>
+		<li id="makes-ford"><a href="/stocklist/make=50/sortkey=e">FORD<span class="fs9">(58)</span></a></li>
+		<li id="makes-volvo"><a href="/stocklist/make=57/sortkey=e">VOLVO<span class="fs9">(59)</span></a></li>
+		<li id="makes-land-rover"><a href="/stocklist/make=52/sortkey=e">LAND ROVER<span class="fs9">(34)</span></a></li>
+		<li id="makes-jaguar"><a href="/stocklist/make=79/sortkey=e">JAGUAR<span class="fs9">(15)</span></a></li>
+		<li id="makes-jeep"><a href="/stocklist/make=205/sortkey=e">JEEP<span class="fs9">(28)</span></a></li>
+		<li id="makes-hyundai"><a href="/stocklist/make=44/sortkey=e">HYUNDAI<span class="fs9">(61)</span></a></li>
+		<li id="makes-kia"><a href="/stocklist/make=313/sortkey=e">KIA<span class="fs9">(31)</span></a></li>
+		<li id="makes-ssangyong"><a href="/stocklist/make=244/sortkey=e">SSANGYONG<span class="fs9">(22)</span></a></li>
 	</ul>
 	<!-- order-of-makes -->
 
 	<h2>Order Of Types</h2>
 	<ul id="order-of-types">
-		<li id="types-suv"><a href="/stocklist/veh_type=6/sortkey=e">SUV<span class="fs9">(1,966)</span></a></li>
-		<li id="types-truck"><a href="/stocklist/veh_type=9/sortkey=e">Truck<span class="fs9">(1,043)</span></a></li>
-		<li id="types-pickup"><a href="/stocklist/veh_type=7/sortkey=e">Pick up<span class="fs9">(51)</span></a></li>
-		<li id="types-van"><a href="/stocklist/veh_type=8/sortkey=e">Van<span class="fs9">(953)</span></a></li>
-		<li id="types-sedan"><a href="/stocklist/veh_type=4/sortkey=e">Sedan<span class="fs9">(2,180)</span></a></li>
-		<li id="types-bus"><a href="/stocklist/veh_type=17/sortkey=e">Bus<span class="fs9">(118)</span></a></li>
-		<li id="types-mini-van"><a href="/stocklist/veh_type=15/sortkey=e">Mini Van<span class="fs9">(1,174)</span></a></li>
-		<li id="types-hatchback"><a href="/stocklist/veh_type=3/sortkey=e">Hatchback<span class="fs9">(2,151)</span></a></li>
+		<li id="types-suv"><a href="/stocklist/veh_type=6/sortkey=e">SUV<span class="fs9">(1,905)</span></a></li>
+		<li id="types-truck"><a href="/stocklist/veh_type=9/sortkey=e">Truck<span class="fs9">(744)</span></a></li>
+		<li id="types-pickup"><a href="/stocklist/veh_type=7/sortkey=e">Pick up<span class="fs9">(67)</span></a></li>
+		<li id="types-van"><a href="/stocklist/veh_type=8/sortkey=e">Van<span class="fs9">(849)</span></a></li>
+		<li id="types-sedan"><a href="/stocklist/veh_type=4/sortkey=e">Sedan<span class="fs9">(2,242)</span></a></li>
+		<li id="types-bus"><a href="/stocklist/veh_type=17/sortkey=e">Bus<span class="fs9">(55)</span></a></li>
+		<li id="types-mini-van"><a href="/stocklist/veh_type=15/sortkey=e">Mini Van<span class="fs9">(1,092)</span></a></li>
+		<li id="types-hatchback"><a href="/stocklist/veh_type=3/sortkey=e">Hatchback<span class="fs9">(2,794)</span></a></li>
 		<li id="types-coupe"><a href="/stocklist/veh_type=1/sortkey=e">Coupe<span class="fs9">(137)</span></a></li>
-		<li id="types-convertible"><a href="/stocklist/veh_type=2/sortkey=e">Convertible<span class="fs9">(26)</span></a></li>
-		<li id="types-wagon"><a href="/stocklist/veh_type=5/sortkey=e">Wagon<span class="fs9">(410)</span></a></li>
-		<li id="types-minibus"><a href="/stocklist/veh_type=10/sortkey=e">Mini Bus<span class="fs9">(3)</span></a></li>
-		<li id="types-machinery"><a href="/stocklist/veh_type=16/sortkey=e">Machinery<span class="fs9">(18)</span></a></li>
-		<li id="types-motorcycle"><a href="/stocklist/veh_type=26/sortkey=e">Motorcycle<span class="fs9">(12)</span></a></li>
+		<li id="types-convertible"><a href="/stocklist/veh_type=2/sortkey=e">Convertible<span class="fs9">(40)</span></a></li>
+		<li id="types-wagon"><a href="/stocklist/veh_type=5/sortkey=e">Wagon<span class="fs9">(476)</span></a></li>
+		<li id="types-minibus"><a href="/stocklist/veh_type=10/sortkey=e">Mini Bus<span class="fs9">(2)</span></a></li>
+		<li id="types-machinery"><a href="/stocklist/veh_type=16/sortkey=e">Machinery<span class="fs9">(3)</span></a></li>
+		<li id="types-forklift"><a href="/stocklist/veh_type=28/sortkey=e">Forklift<span class="fs9">(3)</span></a></li>
+		<li id="types-tractor"><a href="/stocklist/veh_type=27/sortkey=e">Tractor<span class="fs9">(9)</span></a></li>
+		<li id="types-motorcycle"><a href="/stocklist/veh_type=26/sortkey=e">Motorcycle<span class="fs9">(35)</span></a></li>
 	</ul>
 	<!-- order-of-types -->
 
 	<h2>Other Categories</h2>
 	<ul id="other-categories">
-		<li id="other-lefthand"><a href="/stocklist/steering=Left/sortkey=e">Left Hand Drive</a></li>
-		<li id="other-diesel"><a href="/stocklist/fuel=5/sortkey=e">Diesel</a></li>
-		<li id="other-manual"><a href="/stocklist/mission=13/sortkey=e">Manual</a></li>
+		<li id="other-lefthand"><a href="/stocklist/steering=Left/sortkey=e">Left Hand Drive<span class="fs9">(299)</span></a></li>
+		<li id="other-diesel"><a href="/stocklist/fuel=5/sortkey=e">Diesel<span class="fs9">(1,257)</span></a></li>
+		<li id="other-manual"><a href="/stocklist/mission=13/sortkey=e">Manual<span class="fs9">(1,502)</span></a></li>
+		<li id="other-handicapped"><a href="/stocklist/keyword=WELCAB/sortkey=e">For Handicapped<span class="fs9">(69)</span></a></li>
 	</ul>
 	<!-- other-categories -->
 
@@ -714,27 +760,29 @@ $(function() {
 						<h4>Find Cars :</h4>
 						<ul id="find-cars-list">
 							<li><a href="/stocklist">・Browse All Cars</a></li>
-							<li><a href="/stocklist/icon_sale=1/sortkey=k">・Best Deal<span style="font-size:11px;">$</span></a></li>
-							<li><a href="/stocklist/icon_pickup=1/sortkey=e">・Recommended Cars</a></li>
-							<li><a href="/stocklist/icon_campaign=1/sortkey=e">・Premium Class</a></li>
-							<li><a href="/stocklist/icon_outlet=1/sortkey=e">・Outlet</a></li>
-							<li><a href="/stocklist/icon_clearance=1/sortkey=e">・Clearance</a></li>
+							<li><a href="/stocklist/icon_pickup=1/sortkey=n">・Recommended Cars</a></li>
+							<li><a href="/stocklist/icon_campaign=1/sortkey=n">・Premium Class</a></li>
+							<li class="bestdeals"><a href="/stocklist/icon_sale=1/sortkey=k">・Best Deal<span style="font-size:11px;">$</span></a></li>
+							<li><a href="/stocklist/icon_clearance=1/sortkey=n">・Clearance</a></li>
+							<li><a href="/stocklist/icon_outlet=1/sortkey=n">・Outlet</a></li>
 						</ul>
 						<h4>By Year :</h4>
 						<ul id="by-year-list">
-							<li><a href="/stocklist/mfg_year_to=2005/sortkey=e">・Older than 2005</a></li>
-							<li><a href="/stocklist/mfg_year_from=2006/mfg_year_to=2006/sortkey=e">・2006</a></li>
-							<li><a href="/stocklist/mfg_year_from=2007/mfg_year_to=2007/sortkey=e">・2007</a></li>
-								<li><a href="/stocklist/mfg_year_from=2008/sortkey=e">・Newer than 2008</a></li>
+							<li><a href="/stocklist/mfg_year_to=2005/sortkey=n">・2005 and Older</a></li>
+							<li><a href="/stocklist/mfg_year_from=2006/sortkey=n">・2006 and Newer</a></li>
+							<li><a href="/stocklist/mfg_year_from=2007/sortkey=n">・2007 and Newer</a></li>
+							<li><a href="/stocklist/mfg_year_from=2008/sortkey=n">・2008 and Newer</a></li>
+							<li><a href="/stocklist/mfg_year_from=2009/sortkey=n">・2009 and Newer</a></li>
+							<li><a href="/stocklist/mfg_year_from=2010/sortkey=n">・2010 and Newer</a></li>
 						</ul>
 						<h4>By Price :</h4>
 						<ul id="by-price-list">
-							<li><a href="/stocklist/fob_price_to=1000/sortkey=e">・Under $1,000</a></li>
-							<li><a href="/stocklist/fob_price_from=1000/fob_price_to=1500/sortkey=e">・$1,000-$1,500</a></li>
-							<li><a href="/stocklist/fob_price_from=1500/fob_price_to=2000/sortkey=e">・$1,500-$2,000</a></li>
-							<li><a href="/stocklist/fob_price_from=2000/fob_price_to=2500/sortkey=e">・$2,000-$2,500</a></li>
-							<li><a href="/stocklist/fob_price_from=2500/fob_price_to=3000/sortkey=e">・$2,500-$3,000</a></li>
-							<li><a href="/stocklist/fob_price_from=3000/sortkey=e">・Over $3,000</a></li>
+							<li><a href="/stocklist/fob_price_to=1000/sortkey=n">・Under $1,000</a></li>
+							<li><a href="/stocklist/fob_price_from=1000/fob_price_to=1500/sortkey=n">・$1,000-$1,500</a></li>
+							<li><a href="/stocklist/fob_price_from=1500/fob_price_to=2000/sortkey=n">・$1,500-$2,000</a></li>
+							<li><a href="/stocklist/fob_price_from=2000/fob_price_to=2500/sortkey=n">・$2,000-$2,500</a></li>
+							<li><a href="/stocklist/fob_price_from=2500/fob_price_to=3000/sortkey=n">・$2,500-$3,000</a></li>
+							<li><a href="/stocklist/fob_price_from=3000/sortkey=n">・Over $3,000</a></li>
 						</ul>
 					</div>
 					<!-- footer-search-column-01 -->
@@ -742,23 +790,26 @@ $(function() {
 					<div id="footer-search-column-02">
 						<h4>By Make :</h4>
 						<ul id="by-make-list">
-							<li><a href="/stocklist/make=1/sortkey=e">・TOYOTA</a></li>
-							<li><a href="/stocklist/make=4/sortkey=e">・MAZDA</a></li>
-							<li><a href="/stocklist/make=106/sortkey=e">・MERCEDES-BENZ</a></li>
-							<li><a href="/stocklist/make=48/sortkey=e">・VOLKSWAGEN</a></li>
-							<li><a href="/stocklist/make=79/sortkey=e">・JAGUAR</a></li>
-							<li><a href="/stocklist/make=3/sortkey=e">・NISSAN</a></li>
-							<li><a href="/stocklist/make=7/sortkey=e">・SUZUKI</a></li>
-							<li><a href="/stocklist/make=83/sortkey=e">・BMW</a></li>
-							<li><a href="/stocklist/make=47/sortkey=e">・AUDI</a></li>
-							<li><a href="/stocklist/make=53/sortkey=e">・OPEL</a></li>
-							<li><a href="/stocklist/make=2/sortkey=e">・HONDA</a></li>
-							<li><a href="/stocklist/make=8/sortkey=e">・ISUZU</a></li>
-							<li><a href="/stocklist/make=52/sortkey=e">・LAND ROVER</a></li>
-							<li><a href="/stocklist/make=72/sortkey=e">・CHEVROLET</a></li>
-							<li><a href="/stocklist/make=44/sortkey=e">・HYUNDAI</a></li>
-							<li><a href="/stocklist/make=5/sortkey=e">・MITSUBISHI</a></li>
-							<li><a href="/stocklist/make=10/sortkey=e">・DAIHATSU</a></li>
+							<li><a href="/stocklist/make=1/sortkey=n">・TOYOTA</a></li>
+							<li><a href="/stocklist/make=3/sortkey=n">・NISSAN</a></li>
+							<li><a href="/stocklist/make=2/sortkey=n">・HONDA</a></li>
+							<li><a href="/stocklist/make=4/sortkey=n">・MAZDA</a></li>
+							<li><a href="/stocklist/make=5/sortkey=n">・MITSUBISHI</a></li>
+							<li><a href="/stocklist/make=94/sortkey=n">・SUBARU</a></li>
+							<li><a href="/stocklist/make=7/sortkey=n">・SUZUKI</a></li>
+							<li><a href="/stocklist/make=8/sortkey=n">・ISUZU</a></li>
+							<li><a href="/stocklist/make=10/sortkey=n">・DAIHATSU</a></li>
+							<li><a href="/stocklist/make=103/sortkey=n">・HINO</a></li><br>
+							<li><a href="/stocklist/make=106/sortkey=n">・MERCEDES-BENZ</a></li>
+							<li><a href="/stocklist/make=48/sortkey=n">・VOLKSWAGEN</a></li>
+							<li><a href="/stocklist/make=52/sortkey=n">・LAND ROVER</a></li>
+							<li><a href="/stocklist/make=73/sortkey=n">・PEUGEOT</a></li>
+							<li><a href="/stocklist/make=83/sortkey=n">・BMW</a></li>
+							<li><a href="/stocklist/make=47/sortkey=n">・AUDI</a></li>
+							<li><a href="/stocklist/make=50/sortkey=n">・FORD</a></li>
+							<li><a href="/stocklist/make=205/sortkey=n">・JEEP</a></li>
+							<li><a href="/stocklist/make=313/sortkey=n">・KIA</a></li>
+							<li><a href="/stocklist/make=44/sortkey=n">・HYUNDAI</a></li>
 						</ul>
 					</div>
 					<!-- footer-search-column-02 -->
@@ -766,29 +817,30 @@ $(function() {
 					<div id="footer-search-column-03">
 						<h4>By Type :</h4>
 						<ul id="by-type-list">
-							<li><a href="/stocklist/veh_type=6/sortkey=e">・SUV</a></li>
-							<li><a href="/stocklist/veh_type=4/sortkey=e">・Sedan</a></li>
-							<li><a href="/stocklist/veh_type=3/sortkey=e">・Hatchback</a></li>
-							<li><a href="/stocklist/veh_type=1/sortkey=e">・Coupe</a></li>
-							<li><a href="/stocklist/veh_type=2/sortkey=e">・Convertible</a></li>
-							<li><a href="/stocklist/veh_type=8/sortkey=e">・Van</a></li>
-							<li><a href="/stocklist/veh_type=15/sortkey=e">・Mini Van</a></li>
-							<li><a href="/stocklist/veh_type=5/sortkey=e">・Wagon</a></li>
-							<li><a href="/stocklist/veh_type=9/sortkey=e">・Truck</a></li>
-							<li><a href="/stocklist/veh_type=7/sortkey=e">・Pick up</a></li>
-							<li><a href="/stocklist/veh_type=10/sortkey=e">・Mini Bus</a></li>
-							<li><a href="/stocklist/veh_type=17/sortkey=e">・Bus</a></li>
-							<li><a href="/stocklist/veh_type=16/sortkey=e">・Machinery</a></li>
-							<li><a href="/stocklist/veh_type=26/sortkey=e">・Motorcycle</a></li>
+							<li><a href="/stocklist/veh_type=6/sortkey=n">・SUV</a></li>
+							<li><a href="/stocklist/veh_type=8/sortkey=n">・Van</a></li>
+							<li><a href="/stocklist/veh_type=17/sortkey=n">・Bus</a></li>
+							<li><a href="/stocklist/veh_type=9/sortkey=n">・Truck</a></li>
+							<li><a href="/stocklist/veh_type=4/sortkey=n">・Sedan</a></li>
+							<li><a href="/stocklist/veh_type=1/sortkey=n">・Coupe</a></li>
+							<li><a href="/stocklist/veh_type=5/sortkey=n">・Wagon</a></li>
+							<li><a href="/stocklist/veh_type=7/sortkey=n">・Pick up</a></li>
+							<li><a href="/stocklist/veh_type=15/sortkey=n">・Mini Van</a></li>
+							<li><a href="/stocklist/veh_type=10/sortkey=n">・Mini Bus</a></li>
+							<li><a href="/stocklist/veh_type=3/sortkey=n">・Hatchback</a></li>
+							<li><a href="/stocklist/veh_type=2/sortkey=n">・Convertible</a></li>
+							<li><a href="/stocklist/veh_type=16/sortkey=n">・Machinery</a></li>
+							<li><a href="/stocklist/veh_type=28/sortkey=n">・Forklift</a></li>
+							<li><a href="/stocklist/veh_type=27/sortkey=n">・Tractor</a></li>
+							<li><a href="/stocklist/veh_type=26/sortkey=n">・Motorcycle</a></li>
 						</ul>
 
 						<h4>Other Categories :</h4>
 						<ul id="other-categories-list">
-							<li><a href="/stocklist/steering=Left/sortkey=e">・Left Hand Drive</a></li>
-							<li><a href="/stocklist/fuel=5/sortkey=e">・Diesel</a></li>
-							<li><a href="/stocklist/mission=13/sortkey=e">・Manual</a></li>
-							<li><a href="/used-truck" target="_blank">・Used Trucks</a></li>
-							<li><a href="/used-bus" target="_blank">・Used Buses</a></li>
+							<li><a href="/stocklist/steering=Left/sortkey=n">・Left Hand Drive</a></li>
+							<li><a href="/stocklist/fuel=5/sortkey=n">・Diesel</a></li>
+							<li><a href="/stocklist/mission=13/sortkey=n">・Manual</a></li>
+							<li><a href="/stocklist/keyword=WELCAB/sortkey=n">・For Handicapped</a></li>
 						</ul>
 					</div>
 					<!-- footer-search-column-03 -->
@@ -804,10 +856,17 @@ $(function() {
 
 					<h4>Support &amp; FAQs :</h4>
 					<ul id="support-faq-list">
-						<li><a href="/cap">・Car At Progress (CAP)</a></li>
-						<li><a href="/support/faq">・Frequently Asked Questions (FAQs)</a></li>
-						<li><a href="/shipping_agents">・Shipping Agents</a></li>
 						<li><a href="/support/contact-information">・Contact Information</a></li>
+						<li><a href="/beforward_certified_agents/all">・BE FORWARD Certified Agents</a></li>
+						<li><a href="/shipping_agents">・Shipping Agents</a></li>
+						<li><a href="/cap">・Car At Progress (CAP)</a></li>
+						<li><a href="/support/help-center/about-wish-cars">・Wish Cars</a></li>
+						<li><a href="/support/help-center/about-notify-me">・Notify Me</a></li>
+						<li><a href="/support/inquiry">・Inquiry Form</a></li><br>
+						<li><a href="/support/help-center/create-an-account">・How to register</a></li>
+						<li><a href="/support/help-center/edit-my-password">・How to edit my password</a></li>
+						<li><a href="/support/help-center/reset-my-password">・How to reset my password</a></li><br>
+						<li><a href="/support/faq">・Frequently Asked Questions (FAQs)</a></li>
 					</ul>
 
 					<h4>Language :</h4>
@@ -818,7 +877,7 @@ $(function() {
 						<li class="spanish"><a href="/es/privacy">Español</a></li>
 						<li class="russian"><a href="/ru/privacy">Русский</a></li>
 						<li class="georgian"><a href="/ge/privacy">ქართული</a></li>
-						</ul>
+					</ul>
 				</div>
 				<!-- footer-help -->
 
@@ -834,8 +893,8 @@ $(function() {
 						<li><a href="/about/partners">・Partners</a></li>
 						<li><a href="http://voc.beforward.jp/testimonials.html">・Testimonials</a></li>
 						<li><a href="http://blog.beforward.jp/">・Blog</a></li>
-						<li><a href="/car_comparison/nissan_x_trai_vs_toyota_rav4">・Car Comparison</a></li>
-						<li><a href="/car_wiki/used_honda_crv_models_comparison">・Car Wiki</a></li>
+						<li><a href="/car_comparison/nissan_elgrand_vs_toyota_alphard">・Car Comparison</a></li>
+						<li><a href="/car_wiki/used_toyota_prius_models_comparison">・Car Wiki</a></li>
 						<li><a href="http://carnews.beforward.jp">・Car News</a></li>
 						<li><a href="/support/inquiry">・Inquiry</a></li>
 						<li><a href="http://corporate.beforward.jp/company/" target="_blank">・会社情報</a></li>
@@ -859,13 +918,17 @@ $(function() {
 						<li><a href="/beforward_southsudan" target="_blank">・BE FORWARD South Sudan</a></li>
 						<li><a href="/fr/beforward_drcongo" target="_blank">・BE FORWARD R.D. Congo</a></li>
 						<li><a href="/beforward_georgia" target="_blank">・BE FORWARD Georgia</a></li>
+						<li><a href="/beforward_russia" target="_blank">・BE FORWARD Russia</a></li>
 						<li><a href="/guides-tips/how-to-use-mongolian" target="_blank">・BE FORWARD Mongolia</a></li>
 						<li><a href="/beforward_newzealand" target="_blank">・BE FORWARD New Zealand</a></li>
+						<li><a href="/beforward_caribbean" target="_blank">・BE FORWARD Caribbean</a></li>
+						<li><a href="/beforward_latinamerica" target="_blank">・BE FORWARD Latin America</a></li>
 					</ul>
 
 					<ul id="social-list">
 						<li><a href="https://www.facebook.com/pages/Be-Forward/180050085358616" target="_blank"><img src="/images/icon_facebook.gif" alt="Facebook" height="25" width="25"></a></li>
 						<li><a href="http://vk.com/beforward" target="_blank" class="vkontakte-img" style="margin-left:15px;"> <img src="/images/icon_vk.gif" alt="vkontakte Icon" width="25" height="25"> </a></li>
+						<li><a href="https://instagram.com/beforward/" target="_blank" style="margin-left:15px;"><img src="/images/icon_instagram.png" alt="Instagram" height="25" width="25"></a></li>
 					</ul>
 				</div>
 				<!-- in-footer-about -->
@@ -892,6 +955,7 @@ $(function() {
 		<!-- in-footer-bottom -->
 	</div>
 	<!-- in-footer-bottom-wrap -->
+
 
 </div>
 <!-- footer -->
