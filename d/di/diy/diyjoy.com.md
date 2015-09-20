@@ -1,80 +1,111 @@
-> *The following text is extracted and transformed from the diyjoy.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226100923id_/http%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diyjoy.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920233413id_/http%3A//diyjoy.com/privacy-policy) for the most accurate reproduction.*
 
-# HugeDomains.com - Privacy Policy
+# Privacy Policy - DIY Joy
 
-[Home](http://www.hugedomains.com/index.cfm) _ _ Privacy Policy
+### WHAT INFORMATION DO WE COLLECT?
 
-**What information do we collect?**
+WE COLLECT INFORMATION FROM YOU WHEN YOU REGISTER ON OUR SITE, PLACE AN ORDER, SUBSCRIBE TO OUR NEWSLETTER, RESPOND TO A SURVEY OR FILL OUT fA FORM.
 
-We collect information from you when you register on our site, place an order or fill out a form. 
+ANY DATA WE REQUEST THAT IS NOT REQUIRED WILL BE SPECIFIED AS VOLUNTARY OR OPTIONAL.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
+WHEN ORDERING OR REGISTERING ON OUR SITE, AS APPROPRIATE, YOU MAY BE ASKED TO ENTER YOUR: NAME, E-MAIL ADDRESS, MAILING ADDRESS, PHONE NUMBER, CREDIT CARD INFORMATION OR SOCIAL SECURITY NUMBER. YOU MAY, HOWEVER, VISIT OUR SITE ANONYMOUSLY.
 
-**What do we use your information for?**
+GOOGLE, AS A THIRD PARTY VENDOR, USES COOKIES TO SERVE ADS ON YOUR SITE. GOOGLE’S USE OF THE DART COOKIE ENABLES IT TO SERVE ADS TO YOUR USERS BASED ON THEIR VISIT TO YOUR SITES AND OTHER SITES ON THE INTERNET. USERS MAY OPT OUT OF THE USE OF THE DART COOKIE BY VISITING THE GOOGLE AD AND CONTENT NETWORK PRIVACY POLICY.
 
-Any of the information we collect from you may be used in one of the following ways: 
+### WHAT DO WE USE YOUR INFORMATION FOR?
 
-• To personalize your experience  
-(your information helps us to better respond to your individual needs) 
+ANY OF THE INFORMATION WE COLLECT FROM YOU MAY BE USED IN ONE OF THE FOLLOWING WAYS:
 
-• To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
+  * TO PERSONALIZE YOUR EXPERIENCE
+  * (YOUR INFORMATION HELPS US TO BETTER RESPOND TO YOUR INDIVIDUAL NEEDS)
+  * TO IMPROVE OUR WEBSITE
+  * (WE CONTINUALLY STRIVE TO IMPROVE OUR WEBSITE OFFERINGS BASED ON THE INFORMATION AND FEEDBACK WE RECEIVE FROM YOU)
+  * TO IMPROVE CUSTOMER SERVICE
+  * (YOUR INFORMATION HELPS US TO MORE EFFECTIVELY RESPOND TO YOUR CUSTOMER SERVICE REQUESTS AND SUPPORT NEEDS)
+  * TO PROCESS TRANSACTIONS
+  * YOUR INFORMATION, WHETHER PUBLIC OR PRIVATE, WILL NOT BE SOLD, EXCHANGED, TRANSFERRED, OR GIVEN TO ANY OTHER COMPANY FOR ANY REASON WHATSOEVER, WITHOUT YOUR CONSENT, OTHER THAN FOR THE EXPRESS PURPOSE OF DELIVERING THE PURCHASED PRODUCT OR SERVICE REQUESTED BY THE CUSTOMER.
+  * TO SEND PERIODIC EMAILS
 
-• To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs) 
 
-• To process transactions
 
-> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
+THE EMAIL ADDRESS YOU PROVIDE FOR ORDER PROCESSING, MAY BE USED TO SEND YOU INFORMATION AND UPDATES PERTAINING TO YOUR ORDER OR REQUEST, IN ADDITION TO RECEIVING OCCASIONAL COMPANY NEWS, UPDATES, PROMOTIONS, RELATED PRODUCT OR SERVICE INFORMATION, ETC.
 
-• To send periodic emails
+**NOTE:** IF AT ANY TIME YOU WOULD LIKE TO UNSUBSCRIBE FROM RECEIVING FUTURE EMAILS, WE INCLUDE DETAILED UNSUBSCRIBE INSTRUCTIONS AT THE BOTTOM OF EACH EMAIL.
 
-> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+  * TO ADMINISTER A CONTEST, PROMOTION, SURVEY OR OTHER SITE FEATURE
 
-If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-**How do we protect your information?**
+### HOW DO WE PROTECT YOUR INFORMATION?
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+WE IMPLEMENT A VARIETY OF SECURITY MEASURES TO MAINTAIN THE SAFETY OF YOUR PERSONAL INFORMATION WHEN YOU SUBMIT A REQUEST, PLACE AN ORDER OR ACCESS YOUR PERSONAL INFORMATION.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
+THESE SECURITY MEASURES INCLUDE: PASSWORD PROTECTED DIRECTORIES AND DATABASES TO SAFEGUARD YOUR INFORMATION, SSL (SECURE SOCKETS LAYERED) TECHNOLOGY TO ENSURE THAT YOUR INFORMATION IS FULLY ENCRYPTED AND SENT ACROSS THE INTERNET SECURELY OR PCI SCANNING TO ACTIVELY PROTECT OUR SERVERS FROM HACKERS AND OTHER VULNERABILITIES.
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
+WE OFFER THE USE OF A SECURE SERVER. ALL SUPPLIED SENSITIVE/CREDIT INFORMATION IS TRANSMITTED VIA SECURE SOCKET LAYER (SSL) TECHNOLOGY AND THEN ENCRYPTED INTO OUR PAYMENT GATEWAY PROVIDERS DATABASE ONLY TO BE ACCESSIBLE BY THOSE AUTHORIZED WITH SPECIAL ACCESS RIGHTS TO SUCH SYSTEMS, AND ARE REQUIRED TO KEEP THE INFORMATION CONFIDENTIAL.
 
-**Do we use cookies?**
+AFTER A TRANSACTION, YOUR PRIVATE INFORMATION (CREDIT CARDS, SOCIAL SECURITY NUMBERS, FINANCIALS, ETC.) WILL NOT BE STORED ON OUR SERVERS.
 
-Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+### DO WE USE COOKIES?
 
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+YES (COOKIES ARE SMALL FILES THAT A SITE OR ITS SERVICE PROVIDER TRANSFERS TO YOUR COMPUTERS HARD DRIVE THROUGH YOUR WEB BROWSER (IF YOU ALLOW) THAT ENABLES THE SITES OR SERVICE PROVIDERS SYSTEMS TO RECOGNIZE YOUR BROWSER AND CAPTURE AND REMEMBER CERTAIN INFORMATION.
 
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+### DO WE DISCLOSE ANY INFORMATION TO OUTSIDE PARTIES?
 
-**Do we disclose any information to outside parties?**
+WE DO NOT SELL, TRADE, OR OTHERWISE TRANSFER TO OUTSIDE PARTIES YOUR PERSONALLY IDENTIFIABLE INFORMATION. THIS DOES NOT INCLUDE TRUSTED THIRD PARTIES WHO ASSIST US IN OPERATING OUR WEBSITE, CONDUCTING OUR BUSINESS, OR SERVICING YOU, SO LONG AS THOSE PARTIES AGREE TO KEEP THIS INFORMATION CONFIDENTIAL. WE MAY ALSO RELEASE YOUR INFORMATION WHEN WE BELIEVE RELEASE IS APPROPRIATE TO COMPLY WITH THE LAW, ENFORCE OUR SITE POLICIES, OR PROTECT OURS OR OTHERS’ RIGHTS, PROPERTY, OR SAFETY. HOWEVER, NON-PERSONALLY IDENTIFIABLE VISITOR INFORMATION MAY BE PROVIDED TO OTHER PARTIES FOR MARKETING, ADVERTISING, OR OTHER USES.
 
-Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
+### THIRD PARTY LINKS
 
-**Online Privacy Policy Only**
+OCCASIONALLY, AT OUR DISCRETION, WE MAY INCLUDE OR OFFER THIRD PARTY PRODUCTS OR SERVICES ON OUR WEBSITE. THESE THIRD PARTY SITES HAVE SEPARATE AND INDEPENDENT PRIVACY POLICIES. WE THEREFORE HAVE NO RESPONSIBILITY OR LIABILITY FOR THE CONTENT AND ACTIVITIES OF THESE LINKED SITES. NONETHELESS, WE SEEK TO PROTECT THE INTEGRITY OF OUR SITE AND WELCOME ANY FEEDBACK ABOUT THESE SITES.
 
-This online privacy policy applies only to information collected through our website and not to information collected offline. 
+### CALIFORNIA ONLINE PRIVACY PROTECTION ACT COMPLIANCE
 
-**Terms and Conditions**
+BECAUSE WE VALUE YOUR PRIVACY WE HAVE TAKEN THE NECESSARY PRECAUTIONS TO BE IN COMPLIANCE WITH THE CALIFORNIA ONLINE PRIVACY PROTECTION ACT. WE THEREFORE WILL NOT DISTRIBUTE YOUR PERSONAL INFORMATION TO OUTSIDE PARTIES WITHOUT YOUR CONSENT.
 
-Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ http://www.HugeDomains.com](http://www.hugedomains.com/index.cfm)
+AS PART OF THE CALIFORNIA ONLINE PRIVACY PROTECTION ACT, ALL USERS OF OUR SITE MAY MAKE ANY CHANGES TO THEIR AFFILIATE PROFILE AND MEMBERSHIP INFORMATION AT ANYTIME BY LOGGING INTO THEIR CONTROL PANEL AND GOING TO THE ‘EDIT PROFILE’ PAGE.
 
-**Your Consent**
+### CHILDRENS ONLINE PRIVACY PROTECTION ACT COMPLIANCE
 
-By using our site, you consent to our web site privacy policy. 
+WE ARE IN COMPLIANCE WITH THE REQUIREMENTS OF COPPA (CHILDRENS ONLINE PRIVACY PROTECTION ACT), WE DO NOT COLLECT ANY INFORMATION FROM ANYONE UNDER 13 YEARS OF AGE. OUR WEBSITE, PRODUCTS AND SERVICES ARE ALL DIRECTED TO PEOPLE WHO ARE AT LEAST 13 YEARS OLD OR OLDER.
 
-**Changes to our Privacy Policy**
+### CAN-SPAM COMPLIANCE
 
-If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+WE HAVE TAKEN THE NECESSARY STEPS TO ENSURE THAT WE ARE COMPLIANT WITH THE CAN-SPAM ACT OF 2003 BY NEVER SENDING OUT MISLEADING INFORMATION.
 
-This policy was last modified on 1/10/2012 
+### ONLINE PRIVACY POLICY ONLY
 
-**Contacting Us**
+THIS ONLINE PRIVACY POLICY APPLIES ONLY TO INFORMATION COLLECTED THROUGH OUR WEBSITE AND NOT TO INFORMATION COLLECTED OFFLINE.
 
-If there are any questions regarding this privacy policy you may use the [contact us](http://www.hugedomains.com/contact.cfm) form on this Web site. 
+### TERMS AND CONDITIONS
 
-HugeDomains.com
+PLEASE ALSO VISIT OUR TERMS AND CONDITIONS SECTION ESTABLISHING THE USE, DISCLAIMERS, AND LIMITATIONS OF LIABILITY GOVERNING THE USE OF OUR WEBSITE AT <http://diyjoy.com/terms-of-use/>.
+
+### YOUR CONSENT
+
+BY USING OUR SITE, YOU CONSENT TO OUR PRIVACY POLICY.
+
+### CHANGES TO OUR PRIVACY POLICY
+
+IF WE DECIDE TO CHANGE OUR PRIVACY POLICY, WE WILL POST THOSE CHANGES ON THIS PAGE, AND/OR UPDATE THE PRIVACY POLICY MODIFICATION DATE BELOW. POLICY CHANGES WILL APPLY ONLY TO INFORMATION COLLECTED AFTER THE DATE OF THE CHANGE.
+
+THIS POLICY WAS LAST MODIFIED ON  **07 May 2015**
+
+### CONTACTING US
+
+IF THERE ARE ANY QUESTIONS REGARDING THIS PRIVACY POLICY YOU MAY CONTACT US USING THE INFORMATION BELOW.
+
+Blue Rose Media, LLC / dba DIYWays.com  
+300 W. BEECH ST. #1810  
+SAN DIEGO, CA 92101  
+UNITED STATES OF AMERICA  
+diy [@] countryrebel [dot] com  
+(949) 212-9195
+
+### PRIVACY POLICY CUSTOMER PLEDGE
+
+WE PLEDGE TO YOU, OUR CUSTOMER, THAT WE HAVE MADE A DEDICATED EFFORT TO BRING OUR PRIVACY POLICY IN LINE WITH THE THE FOLLOWING IMPORTANT PRIVACY LAWS AND INITIATIVES:  
+FEDERAL TRADE COMMISION FAIR  
+CALIFORNIA ONLINE PRIVACY PROTECTION ACT  
+CHILDRENS ONLINE PRIVACY PROTECTION ACT  
+PRIVACY ALLIANCE  
+CONTROLLING THE ASSAULT OF NON-SOLICITED PORNOGRAPHY AND MARKETING ACT
