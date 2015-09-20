@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the antiquefarmhouse.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619072444id_/http%3A//www.antiquefarmhouse.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the antiquefarmhouse.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920060812id_/http%3A//www.antiquefarmhouse.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
-# Privacy Policy Antique Farm House
+# Privacy Policy Antique Farmhouse
 
 This privacy policy sets out how Antique Farm House uses and protects any information that you give Antique Farm House when you use this website. Antique Farm House is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Antique Farm House may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
