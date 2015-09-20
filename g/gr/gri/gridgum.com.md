@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gridgum.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314232443id_/http%3A//gridgum.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gridgum.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920143438id_/http%3A//gridgum.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gridgum
 
@@ -14,4 +14,4 @@ Please remember that any information you may disclose on public support forums, 
 
 If you have any questions or require any further information within this policy, click here to contact us.
 
- _Last updated: March 18th, 2014_
+_Last updated: March 18th, 2014_
