@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the checkcompany.co.uk privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615024127id_/http%3A//www.checkcompany.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkcompany.co.uk privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920105453id_/http%3A//www.checkcompany.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Companies Director Webcheck
+# Privacy Policy | Check Company
 
 CHECK COMPANY ("We") are committed to protecting and respecting your privacy.
 
