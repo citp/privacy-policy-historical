@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesportscampus.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109173311id_/http%3A//www.thesportscampus.com/2008070122/general/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesportscampus.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920021632id_/http%3A//www.thesportscampus.com/2008070122/general/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | General
 
