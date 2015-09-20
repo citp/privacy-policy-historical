@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cashpig.gy privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429071027id_/http%3A//cashpig.gy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashpig.gy privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920095059id_/http%3A//cashpig.gy/privacy) for the most accurate reproduction.*
 
 # Privacy :: CashPiggy
-
-Only advertiser can access to the Advertiser Control Panel!
 
 ### LEGAL PRIVACY POLICY for CASHPIG.GY / Code404 S.L.
 
