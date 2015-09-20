@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brooklinen.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142546id_/http%3A//brooklinen.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brooklinen.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920104753id_/http%3A//www.brooklinen.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Brooklinen Privacy Policy | Brooklinen
 
