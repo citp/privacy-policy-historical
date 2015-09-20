@@ -1,243 +1,21 @@
-<!--The following is the downloaded HTML source of the buytrends.com privacy policy that was archived on 2015-03-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315191420id_/http%3A//www.buytrends.com/security-privacy-i-8.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the buytrends.com privacy policy that was archived on 2015-09-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150920143316id_/http%3A//www.buytrends.com/security-privacy-i-8.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Security &amp; Privacy  -  BuyTrends.com</title><link rel="icon" type="image/x-icon" href="/favicon.ico"><link href="/Public/Css/common.css?20150104" rel="stylesheet" type="text/css"><link href="/Public/Css/content.css?20150104" rel="stylesheet" type="text/css"><script type="text/javascript" async="" src="https://chatserver.comm100.com/livechat.ashx?siteId=180910"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://cloud.buytrends.com/Public/Js/jquery.js"></script><script type="text/javascript" src="/Public/Js/common.js"></script><script src="/Public/Js/jquery.validate.min.js" type="text/javascript"></script></head><body id="top"><script>$(function(){
-    var f = navigator.userAgent.toLowerCase();
-    var m = f.match(/ipad/i) == "ipad";
-    var o = f.match(/iphone os/i) == "iphone os";
-    var k = f.match(/midp/i) == "midp";
-    var h = f.match(/rv:1.2.3.4/i) == "rv:1.2.3.4";
-    var j = f.match(/ucweb/i) == "ucweb";
-    var c = f.match(/android/i) == "android";
-    var d = f.match(/windows ce/i) == "windows ce";
-    var q = f.match(/windows mobile/i) == "windows mobile";
-    if(( o || c) && !m){
-        $(".mobile_version").show();        
-    }
-});
-
-(function(d, s, id){
-    var js, fjs = d.getElementsByTagName(s)[0];
-    if (d.getElementById(id)) {return;}
-    js = d.createElement(s); js.id = id;
-    js.src = "//connect.facebook.net/en_US/sdk.js";
-    fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
-
-window.fbAsyncInit = function() {
-    FB.init({
-        appId      : '1527463350809196',
-        status     : true,
-        cookie     : true,
-        xfbml      : false,
-        version    : 'v2.0'
-    });
-};
-
-function authUser(){
-    $(".popup_bg").hide();
-    $('html').removeAttr("style");
-    FB.login(checkLoginStatus, {
-        scope: "email",
-        auth_type: 'rerequest'
-    });
-}
-
-function checkLoginStatus(response){
-    if(response.status === 'connected'){
-        var uid = response.authResponse.userID;
-        //alert(uid);
-        var accessToken = response.authResponse.accessToken;
-        FB.api('/me', function(response) { 
-            if(response){
-                var url = "/Member/fbLogin";
-                var data = {"uid":response.id,"name":response.name,"email":response.email};
-                var buy = $("#buynow").attr("rel");
-                $.post(url,data,function(response){
-                    if(response.status=="success"){
-                        if(buy == "buy"){
-                            $('#buynow2').show();
-                            document.form.submit();
-                        }else{
-                            if(response.data.url==""){
-                                window.location.reload();
-                            }else{
-                                window.location.href = response.data.url;
-                            }
-                        }
-                        
-                    }else{
-                        alert(response.info);
-                    }
-                    
-                },"json");
-            }
-
-        });
-    }else if(response.status === 'not_authorized'){
-        alert("not authenticated");
-    }else{
-        alert("not login in to Facebook");
-    }
-}
-
-function loginout(){
-
-    FB.logout(function(response){
+<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Security &amp; Privacy - BuyTrends.Com</title><meta http-equiv="X-UA-Compatible" content="IE=10"><meta name="keywords" content=""><meta name="description" content=""><meta property="fb:app_id" content="1527463350809196"><link rel="icon" type="image/x-icon" href="/favicon.ico"><link rel="dns-prefetch" href="//www.paypalobjects.com"><link rel="dns-prefetch" href="//www.paypal.com"><link href="/Public/Css/common.css?150905" rel="stylesheet" type="text/css"><link href="/Public/Css/content.css?150905" rel="stylesheet" type="text/css"><link href="/Public/Css/color-button.css?150905" rel="stylesheet" type="text/css"><script type="text/javascript" async="" src="https://chatserver.comm100.com/livechat.ashx?siteId=180910"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="//web.archive.org/web/20150908085557/http://connect.facebook.net/en_US/sdk.js"></script><script type="text/javascript" src="/Public/Js/jquery.js"></script><script type="text/javascript" src="/Public/Js/FBlogin.js?150905"></script><script type="text/javascript" src="/Public/Js/common.js?150905"></script><script>$(function(){
+    document.onkeydown = function(event){
+        var e = event || window.event || arguments.callee.caller.arguments[0];
         
-    });
-}
-
-/*function popup(buy){
-    if(buy=='buy'){
-        var sign = $("#top_sign").attr('rel');
-        if(sign == 1){
-            $(".popup_bg").show();
-            $('html').attr("style","overflow:hidden;");
-            $("#buynow").attr("rel","buy");
+        if(e && e.keyCode == 13){
+            var key = $(".searchTxt").val();
+            if(key != ''){
+                window.location.href = "/Search?k="+ encodeURIComponent(key);
+            }
         }
-    }else{
-        $(".popup_bg").show();
-        $('html').attr("style","overflow:hidden;");
     }
-}*/
-
-function popup(){
-    $(".popup_bg").show();
-    $('html').attr("style","overflow:hidden;");
-}
-
-$(function(){
-    $('.popup_close').click(function(){
-        $(".popup_bg").hide();
-        $('html').removeAttr("style");
-    });
-    
-    $("#sign_btn").click(function(){
-        var ss = validateSign();
-        if(ss){
-            var str = $("#loginForm").serialize();
-            /*var buy = $("#buynow").attr("rel");*/
-            $.ajax({
-                type: "POST",  
-                url: "/Member/ajaxLogin", 
-                data: str,
-                success:function(data){
-                    var data = eval("("+data+")");
-                    if(data.status=='success'){
-                        data = data.data;
-                        var html = '<li><a href="/customer/logout.html">Sign Out</a></li><li><a href="/customer/account">My Account</a></li><li>Welcome, <a href="/customer/account" class="red">'+data['user_name']+'</a></li>';
-                        $(".popup_bg").hide();
-                        $('html').removeAttr("style");
-                        $("#top_sign").append(html);
-                        $(".top_sign").remove();
-                        $("#top_sign").attr('rel','0');
-                        /*if(buy == "buy"){
-                            window.location.href="/Shopcart/index";
-                        }*/
-                    }else{
-                        $(".popup_bg").hide();
-                        $('html').removeAttr("style");
-                        alert(data.info);
-                    }
-                }
-            });
-        }
-    });
-    
-    $("#rigister_btn").click(function(){
-        var ss = validateRigister();
-        if(ss){
-            var str = $("#registerForm").serialize();
-            /*var buy = $("#buynow").attr("rel");*/
-            $.ajax({
-                type: "POST",  
-                url: "/Member/ajaxRegister", 
-                data: str,
-                success:function(data){
-                    var data = eval("("+data+")");
-                    if(data.status=='success'){
-                        data = data.data;
-                        var html = '<li><a href="/customer/logout.html">Sign Out</a></li><li><a href="/customer/account">My Account</a></li><li>Welcome, <a href="/customer/account" class="red">'+data['user_name']+'</a></li>';
-                        $(".popup_bg").hide();
-                        $('html').removeAttr("style");
-                        $("#top_sign").append(html);
-                        $(".top_sign").remove();
-                        $("#top_sign").attr('rel','0');
-                        /*if(buy == "buy"){
-                            $('#buynow2').show();
-                            document.form.submit();
-                        }*/
-                    }else{
-                        $(".popup_bg").hide();
-                        $('html').removeAttr("style");
-                        alert(data.info);
-                    }
-                }
-            });
-        }
-    });
 });
-
-function validateSign(){
-    aa = false;
-    aa = $("#loginForm").validate({
-        rules: {
-            email: {
-                required: true,
-                email: true
-            },
-            password: {
-                required: true,
-                minlength: 4
-            }
-        },
-        messages: {
-            email: "Please enter a valid email address",
-            password: {
-                required: "Please provide a password",
-                minlength: "Your password must be at least 4 characters long"
-            }
-        }
-    }).form();
-    return aa;
-}
-
-function validateRigister(){
-    aa = false;
-    aa = $("#registerForm").validate({
-        rules: {
-            email: {
-                required: true,
-                email: true
-            },
-            password: {
-                required: true,
-                minlength: 4
-            },
-            repassword: {
-                required: true,
-                minlength: 4,
-                equalTo: "#password"
-            }
-        },
-        messages: {
-            password: {
-                required: "Please provide a password",
-                minlength: "Your password must be at least 4 characters long"
-            },
-            repassword: {
-                required: "Please provide a password",
-                minlength: "Your password must be at least 4 characters long",
-                equalTo: "Please enter the same password as above"
-            },
-            email: "Please enter a valid email address",
-        }
-    }).form();
-    return aa;
-}
-</script><div class="popup_bg"><div class="popup_box"><div class="sign_popup"><div class="popup_close">X</div><div class="sign_box fr"><form action="/customer/login.html" method="post" id="loginForm"><h3>Sign in</h3><p>I already have BuyTrends account</p><dl><dd>E-mail:</dd><dt><input type="text" name="email" value="" class="sign_text"></dt></dl><dl><dd>Password:</dd><dt><input type="password" name="password" value="" class="sign_text"></dt></dl><dl><dd></dd><dt><a href="/customer/resetpassword.html">Forgot Your Password?</a></dt></dl><dl><dd></dd><dt><input type="button" name="" value="Sign in" class="sign_btn login_in_submit fl" id="sign_btn"></dt></dl><input type="hidden" name="__hash__" value="6a815eb49914aff8e802bba32f95c4b9_d5a00c0834640af02d13aeddb5d80a7f"></form></div><div class="register_box fl"><h3>Register</h3><p></p><form action="/customer/register.html" method="post" id="registerForm"><dl><dd>E-mail:</dd><dt><input type="text" name="email" value="" class="sign_text"></dt></dl><dl><dd>Password:</dd><dt><input type="password" name="password" value="" id="password" class="sign_text"></dt></dl><dl><dd>Confirm Password:</dd><dt><input type="password" name="repassword" value="" class="sign_text"></dt></dl><dl class="s_agree"><dt><label><input name="" type="checkbox" value="" checked=""> Subscribe to BuyTrends excluslive and discount offers.</label></dt></dl><dl class="s_agree"><dt><label><input name="" type="checkbox" id="cr" value="" checked=""> I accept the terms and privacy policy of BuyTrends.</label><span class="r_prompt red">Please read and agree to our terms &amp; conditions.</span></dt></dl><dl class="c_agree"><dt><label>BuyTrends account will help track online delivery status.</label></dt></dl><dl><dd></dd><dt><input type="button" name="submit" value="Create My Account" class="sign_btn registration_submit" id="rigister_btn"></dt></dl><input type="hidden" name="__hash__" value="6a815eb49914aff8e802bba32f95c4b9_d5a00c0834640af02d13aeddb5d80a7f"></form></div><div class="facebook_box fl"><input type="button" class="facebook_btn facebook_login_submit" onclick="authUser()"></div></div></div></div><!--header start--><div class="main_top_menu"><div class="top_menu_box"><div class="top_menu"><div class="top_title fl">                BuyTrends: Your 1-Stop Shop for Fashion
-                <span class="Cashback">Cash Reduction</span><div class="Deals_box"></div></div><div class="top_list fr"><span class="mobile_version fl"><a href="http://m.buytrends.com/" class="mobile">Mobile Version</a></span><ul id="top_sign" rel="1"><li class="b_comm"><div id="comm100-button-417" style="margin-left:-3px;"></div></li><li class="top_sign"><a href="/customer/login.html" onclick="popup();return false;">Register</a></li><li class="top_sign"><a href="/customer/login.html" onclick="popup();return false;">Sign in</a></li><li class="fb_login top_sign" onclick="authUser()"></li></ul></div><div class="clear"></div></div></div></div><script type="text/javascript"> var tarUrl = "/Catalog/quickSearch"; </script><script src="/Public/Js/search.js" type="text/javascript"></script><div class="main_header"><div class="main_header_box"><div class="logo fl"><a href="/"><img src="http://cloud.buytrends.com/Public/Images/logo.png" alt="BuyTrends.com"></a></div><div class="search_box fl"><div class="search fl"><div class="search_list fl" style="display:none;"><span>All Categories</span></div><input type="text" name="qs_keyword" value="Please enter keywords here..." id="keywords_search" class="search_text fl" style="color:#999;"><input type="button" name="submit_search" value="Search" class="search_btn fr" onclick="onSubmitSearch();"></div></div><div class="cart fr"><a href="/ShopCart.html" class="cart_a_img" rel="nofollow"><strong>Shopping Cart :</strong><br><span class="red" id="count_cart"></span><span id="c_empty">Empty</span></a><div class="top_cart_arr"></div><div class="top_cart_list"></div></div><div class="clear"></div></div></div><div class="main_menu"><div class="menu_box"><ul><li class="menu_list_box"><a href="/">Home</a></li><li class="menu_list_box"><span>New Arrival</span><div class="menu_list list_hide1"><div class="menu_list_inf menu_list_inf1 fl"><ul><li><a href="/dresses-15/New-Arrival">Dresses</a></li></ul><ul><li><a href="/coats-jackets-51/New-Arrival">Coats</a></li></ul><ul><li><a href="/sweaters-50/New-Arrival">Sweaters</a></li></ul><ul><li><a href="/bodycon-dresses-445/New-Arrival">Bodycon Dresses</a></li></ul><ul><li><a href="/trench-rain-171/New-Arrival">Trench Coats</a></li></ul><ul><li><a href="/hoodies-145/New-Arrival">Hoodies</a></li></ul><ul><li><a href="/tees-t-shirts-47/New-Arrival">T-shirts &amp; Tees</a></li></ul><ul><li><a href="/pants-shorts-18/New-Arrival">Pants</a></li></ul><ul><li><a href="/shorts-58/New-Arrival">Shorts</a></li></ul></div><div class="menu_list_ad menu_list_ad1 fl"><img src="http://cloud.buytrends.com/Public/banner/menu/new.jpg"></div><div class="clear"></div></div></li><li class="menu_list_box"><a href="/Womens-Clothing">Women's Clothing</a><div class="menu_list list_hide2"><div class="menu_list_inf menu_list_inf2 fl"><div class="l1"><ul><li><a href="/dresses-15/"><strong>Dresses</strong></a></li><li><a href="/casual-dresses-31/">Casual Dresses</a></li><li><a href="/bodycon-dresses-445/">Bodycon Dresses</a></li><li><a href="/maxi-dresses-32/">Maxi Dresses</a></li><li><a href="/party-dresses-35/">Party Dresses</a></li><li><a href="/sexy-dresses-447/">Sexy Dresses</a></li><li><a href="/work-dresses-37/">Work Dresses</a></li><li><a href="/evening-dresses-33/">Evening Dresses</a></li></ul><ul><li><a href="/skirts-16/"><strong>Skirts</strong></a></li></ul><ul><li><a href="/tees-t-shirts-47/"><strong>T-shirts &amp; Tees</strong></a></li></ul><ul><li><a href="/shirts-blouses-46/"><strong>Blouses</strong></a></li></ul></div><div class="l2"><ul><li><a href="/coats-jackets-51/"><strong>Coats</strong></a></li><li><a href="/blazers-166/">Blazers</a></li><li><a href="/jackets-168/">Jackets</a></li><li><a href="/trench-rain-171/">Trench Coats</a></li><li><a href="/puffer-down-coats-170/">Down Coats</a></li><li><a href="/ponchos-shawls-167/">Ponchos</a></li></ul><ul><li><a href="/sweaters-50/"><strong>Sweaters</strong></a></li><li><a href="/cardigans-twin-sets-158/">Cardigans</a></li><li><a href="/pullovers-164/">Pullovers</a></li></ul><ul><li><a href="/hoodies-145/"><strong>Hoodies</strong></a></li></ul><ul><li><a href="/sweatshirts-146/"><strong>Sweatshirts</strong></a></li></ul></div><div class="l3"><ul><li><a href="/pants-shorts-18/"><strong>Pants</strong></a></li><li><a href="/casual-pants-52/">Casual Pants</a></li><li><a href="/leggings-59/">Leggings</a></li><li><a href="/jeans-54/">Jeans</a></li><li><a href="/jumpsuits-207/">Jumpsuits</a></li><li><a href="/shorts-58/">Shorts</a></li></ul><ul><li><a href="/tracksuits-415/"><strong>Tracksuits</strong></a></li></ul><ul><li><a href="/nightwear-robes-22/"><strong>Nightwears</strong></a></li></ul><ul><li><a href="/vests-49/"><strong>Vests</strong></a></li></ul><ul><li><a href="/camis-tanks-48/"><strong>Camis</strong></a></li></ul></div></div><div class="menu_list_ad menu_list_ad2 fl"><img src="http://cloud.buytrends.com/Public/banner/menu/women.jpg"></div><div class="clear"></div></div></li><li class="menu_list_box"><a href="/fashion-clubwear-446/" class="list_info w140">Clubwear</a></li><li class="menu_list_box"><a href="/shoes-26/">Shoes</a><div class="menu_list list_hide2"><div class="menu_list_inf menu_list_inf1 fl"><ul><li><a href="/pumps-110/">Pumps</a></li></ul><ul><li><a href="/sandals-flip-flops-109/">Sandals</a></li></ul><ul><li><a href="/boots-108/">Boots</a></li></ul><ul><li><a href="/flat-shoes-114/">Flat Shoes</a></li></ul><ul><li><a href="/sneakers-112/">Sneakers</a></li></ul></div><div class="menu_list_ad menu_list_ad1 fl"><img src="http://cloud.buytrends.com/Public/banner/menu/shoes.jpg"></div><div class="clear"></div></div></li><li class="menu_list_box"><a class="list_info w100" href="/swimwear-23/">Swimwear</a></li><li class="menu_list_box"><a class="list_info w140" href="/sexy-lingerie-29/">Sexy Lingeries</a><div class="menu_list list_hide2"><div class="menu_list_inf menu_list_inf1 fl"><ul><li><a href="/baby-dolls-134/">Baby Dolls</a></li></ul><ul><li><a href="/sexy-corsets-137/">Sexy Corsets</a></li></ul><ul><li><a href="/sexy-costumes-139/">Sexy Costumes</a></li></ul></div><div class="clear"></div></div></li><li class="menu_list_box"><span>Accessories</span><div class="menu_list list_hide4"><div class="menu_list_inf menu_list_inf2 fl"><ul><li><a href="/bags-25/"><strong>Bags</strong></a></li><li><a href="/shoulder-bags-101/">Shoulder Bags</a></li><li><a href="/tote-bags-102/">Tote Bags</a></li><li><a href="/crossbody-messenger-103/">Crossbody</a></li><li><a href="/briefcase-106/">Briefcase</a></li><li><a href="/clutches-evening-bags-99/">Evening Bags</a></li><li><a href="/wallets-98/">Wallets</a></li></ul><ul><li><a href="/jewelry-watches-27/"><strong>Jewelry</strong></a></li></ul><ul><li><a href="/hosiery-socks-389/"><strong>Stockings</strong></a></li></ul><ul><li><a href="/hair-accessories-388/"><strong>Hair Accessories</strong></a></li></ul><ul><li><a href="/bras-91/"><strong>Bras</strong></a></li></ul><ul><li><a href="/hats-385/"><strong>Hats</strong></a></li></ul><ul><li><a href="/tattoos-supplies-416/"><strong>Tattoos Supplies</strong></a></li></ul><ul><li><a href="/scarves-384/"><strong>Scarves</strong></a></li></ul><ul><li><a href="/belts-386/"><strong>Belts</strong></a></li></ul><ul><li><a href="/iphone-cases-448/"><strong>iPhone Cases</strong></a></li></ul><ul><li><a href="/gloves-458/"><strong>Gloves</strong></a></li></ul></div><div class="menu_list_ad menu_list_ad2 fl"><img src="http://cloud.buytrends.com/Public/banner/menu/bag.jpg"></div><div class="clear"></div></div></li><li class="menu_list_box"><a class="list_info w140" href="/bedding-449/">Bedding</a></li></ul><div class="clear"></div></div></div><div class="main_ad"><div class="main_ad_box"></div></div><script src="/Public/Js/topbanner.js" type="text/javascript"></script><div class="main_nav"><div class="breadcrumbs"><ul><li><a href="index.html" title="Home">Home</a></li><li>»</li><li>Security &amp; Privacy</li></ul><div class="clear"></div></div></div><div class="main_content"><div class="help_box"><div class="help_left fl"><h3 class="help_left_title fl">Customer Guide</h3><ul class="help_left_list fl"><li><a href="/register-i-9.html">Register or Sign In</a></li><li><a href="/find-items-i-7.html">Find Items</a></li><li><a href="/order-making-i-14.html">Making Order</a></li><li><a href="/faq-i-5.html">FAQ</a></li><li><a href="/login-problem-i-11.html">Sign In Problem</a></li></ul><h3 class="help_left_title fl">Payment Methods</h3><ul class="help_left_list fl"><li><a href="/coupon-i-15.html">Coupon</a></li><li><a href="/paypal-i-16.html">PayPal</a></li><li><a href="/credit-card-i-17.html">Credit Card</a></li><li><a href="/bank-transfer-i-18.html">Bank Transfer</a></li><li><a href="/western-union-i-19.html">Western Union</a></li></ul><h3 class="help_left_title fl">Shipping &amp; Delivery</h3><ul class="help_left_list fl"><li><a href="/shipping-methods-i-20.html">Shipping Methods</a></li><li><a href="/shipping-cost-i-21.html">Shipping Charges</a></li><li><a href="/delivery-time-i-22.html">Delivery Time</a></li><li><a href="/customs-import-tax-i-23.html">Tax and Customs</a></li><li><a href="/international-shipping-i-24.html">International Shipping</a></li></ul><h3 class="help_left_title fl">Refund &amp; Return</h3><ul class="help_left_list fl"><li><a href="/order-cancellation-i-29.html">Order Withdrawals</a></li><li><a href="/fail-to-receive-i-26.html">Fail Shipment</a></li><li><a href="/dispute-i-28.html">Disagreement</a></li><li><a href="/return-policy-i-27.html">Return Policy</a></li></ul></div><div class="help_right fr"><div class="hg fl"><h2>Security &amp; Privacy</h2></div><div class="help_right_ad fl"><a href="/coats-jackets-51/"><img src="http://cloud.buytrends.com/Public/banner/list03.jpg" alt=""></a></div><div class="help_right_box fl"><strong>Collection of personal data</strong><br>
+</script><style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow-x:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}.fb_link img{border:none}
+.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_reset .fb_dialog_legacy{overflow:visible}.fb_dialog_advanced{padding:10px;-moz-border-radius:8px;-webkit-border-radius:8px;border-radius:8px}.fb_dialog_content{background:#fff;color:#333}.fb_dialog_close_icon{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;_background-image:url(http://static.ak.fbcdn.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif);cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{top:5px;left:5px;right:auto}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent;_background-image:url(http://static.ak.fbcdn.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif)}.fb_dialog_close_icon:active{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent;_background-image:url(http://static.ak.fbcdn.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif)}.fb_dialog_loader{background-color:#f6f7f8;border:1px solid #606060;font-size:24px;padding:20px}.fb_dialog_top_left,.fb_dialog_top_right,.fb_dialog_bottom_left,.fb_dialog_bottom_right{height:10px;width:10px;overflow:hidden;position:absolute}.fb_dialog_top_left{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 0;left:-10px;top:-10px}.fb_dialog_top_right{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 -10px;right:-10px;top:-10px}.fb_dialog_bottom_left{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 -20px;bottom:-10px;left:-10px}.fb_dialog_bottom_right{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 -30px;right:-10px;bottom:-10px}.fb_dialog_vert_left,.fb_dialog_vert_right,.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{position:absolute;background:#525252;filter:alpha(opacity=70);opacity:.7}.fb_dialog_vert_left,.fb_dialog_vert_right{width:10px;height:100%}.fb_dialog_vert_left{margin-left:-10px}.fb_dialog_vert_right{right:0;margin-right:-10px}.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{width:100%;height:10px}.fb_dialog_horiz_top{margin-top:-10px}.fb_dialog_horiz_bottom{bottom:0;margin-bottom:-10px}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #3a5795;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title>span{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{-webkit-transform:none;height:100%;margin:0;overflow:visible;position:absolute;top:-10000px;left:0;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{width:auto;height:auto;min-height:initial;min-width:initial;background:none}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{color:#fff;display:block;padding-top:20px;clear:both;font-size:18px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .45);position:absolute;left:0;top:0;width:100%;min-height:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_content .dialog_header{-webkit-box-shadow:white 0 1px 1px -1px inset;background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#738ABA), to(#2C4987));border-bottom:1px solid;border-color:#1d4088;color:#fff;font:14px Helvetica, sans-serif;font-weight:bold;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{-webkit-font-smoothing:subpixel-antialiased;height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#4966A6), color-stop(.5, #355492), to(#2A4887));border:1px solid #2f477a;-webkit-background-clip:padding-box;-webkit-border-radius:3px;-webkit-box-shadow:rgba(0, 0, 0, .117188) 0 1px 1px inset, rgba(255, 255, 255, .167969) 0 1px 0;display:inline-block;margin-top:3px;max-width:85px;line-height:18px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{border:none;background:none;color:#fff;font:12px Helvetica, sans-serif;font-weight:bold;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #555;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f6f7f8;border:1px solid #555;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_button{text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/t-wz8gw1xG1.png);background-repeat:no-repeat;background-position:50% 50%;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_hide_iframes iframe{position:relative;left:-10000px}.fb_iframe_widget_loader{position:relative;display:inline-block}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}.fb_iframe_widget_loader iframe{min-height:32px;z-index:2;zoom:1}.fb_iframe_widget_loader .FB_Loader{background:url(http://static.ak.fbcdn.net/rsrc.php/v2/y9/r/jKEcVPZFk-2.gif) no-repeat;height:32px;width:32px;margin-left:-16px;position:absolute;left:50%;z-index:4}</style></head><body id="top"><!-- IE6 --start-- --><div class="ie6 hide"><div class="ie6Box"><div class="ie6Content"><dl><dt>Notice</dt><dd><p>The browser under Internet Explorer 7 can not be supported on our website, please update or use other browsers.</p></dd></dl></div></div></div><!-- IE6 --end-- --><!-- Lodin register Pop-up box --start-- --><script src="/Public/Js/jquery.validate.min.js" type="text/javascript"></script><script src="/Public/Js/toplogin.js" type="text/javascript"></script><div class="popupBg hide"></div><div class="popupBox hide"><div class="popupBoxTitle fl"><span>REGISTER</span><span class="selected">LOGIN</span><div class="popupClose"></div></div><div class="popupInfBox fl"><div class="popupInf hide fl" id="regsubmitBox"><form action="" method="post" autocomplete="off" id="popupRegisterForm" onsubmit="return regsubmit();"><div class="popupLeft fl"><dl><dd>E-mail:</dd><dt><input type="text" name="email" value="" class="popupText"></dt></dl><dl><dd>Password:</dd><dt><input type="password" name="password" value="" id="password" class="popupText"></dt></dl><dl><dd>Confirm Password:</dd><dt><input type="password" name="repassword" value="" class="popupText"></dt></dl><dl class="popupSAgree"><dt><label><input name="" type="checkbox" value="" checked=""> Subscribe to BuyTrends.Com excluslive and discount offers.</label></dt></dl><dl class="popupSAgree"><dt><label><input name="" type="checkbox" id="cr" value="" checked=""> I accept the terms and privacy policy of BuyTrends.Com.</label></dt></dl><dl><dd></dd><dt><input type="submit" name="submit" value="Create My Account" class="popupBtn" id="popupBtnR"></dt></dl></div></form><div class="popupRight fl"><div class="popupTitle fl">or Login Using Your Account with</div><div class="popupOther fl"><a href="javascript:void(0);" class="popupFb fl" onclick="checkLoginState();">Facebook</a><!--<a href="" class="popupGg fl">Google</a>--></div><!--<div class="popupFbSale fl"><span class="popupFbArrow"></span><span class="red">15% OFF</span>First Order</div><div class="popupPaypal fl"></div>--></div></div><div class="popupInf fl" id="signsubmitBox"><form action="" method="post" id="popupLoginForm" autocomplete="off" onsubmit="return signsubmit();"><div class="popupLeft fl"><dl><dd>E-mail:</dd><dt><input type="text" name="email" value="" class="popupText fl"></dt></dl><dl><dd>Password:</dd><dt><input type="password" name="password" value="" class="popupText fl"></dt></dl><dl><dt><a href="/User/forgotpw">Forgot Your Password?</a></dt></dl><dl><dd></dd><dt><input type="submit" name="submit" value="LOGIN" class="popupBtn fl" id="popupBtnL"></dt></dl></div></form><div class="popupRight fl"><div class="popupTitle fl">or Login Using Your Account with</div><div class="popupOther fl"><a href="javascript:void(0);" class="popupFb fl" onclick="checkLoginState();">Facebook</a><!--<a href="" class="popupGg fl">Google</a>--></div><!--<div class="popupFbSale fl"><span class="popupFbArrow"></span><span class="red">15% OFF</span>First Order</div><div class="popupPaypal fl"></div>--></div></div></div><div class="clear"></div></div><!-- Lodin register Pop-up box  --end-- --><!--Header top start--><div class="headerTop"><div class="headerTopBox"><ul><li class="headerTopTitle ml0">BuyTrends: Your 1-Stop Shop for Fashion Clothing</li><li class="cashReduction"><p><i class="arrow cashbackArrow fl"></i><span class="cashback fl">Cash Reduction</span></p><div class="headerTopS cashbackBox hide"><div class="cashbackInf"><p>All customers on BuyTrends.Com enjoy cash reduction if your order reaches a certain amount.</p><dl><dt>Details:</dt><dd><strong>US$9</strong> off an order <strong>US$99</strong></dd><dd><strong>US$19</strong> off an order <strong>US$199</strong></dd><dd><strong>US$39</strong> off an order <strong>US$299</strong></dd><dd><strong>US$69</strong> off an order <strong>US$499</strong></dd></dl><p>For further infos, please feel free to consult our customer services.</p></div></div></li><li><a href="" class="mobile hide">Mobile Version</a></li><li class="comm100 mr0 fr"><div id="comm100-button-417" style="margin-left:-3px;"></div></li><li class="fr login-wrap"><a href="/User/login" class="loginA fl" onclick="javascript:void(0);return false;"><span class="red register-btn" rel="r">Register</span><s>or</s><span class="red login-btn" rel="l">Login</span></a><a href="javascript:void(0);" class="fbLogin fl" onclick="checkLoginState();"></a></li></ul></div></div><!--Header top --end-- --><!--Header search --start-- --><div class="headerSearch"><div class="headerSearchBox"><div class="logo fl"><a href="/"><img src="/Public/Images/logo.png" alt="BuyTrends.Com"></a></div><div class="searchBox fl"><div class="search fl"><input type="text" autocomplete="off" name="keyword" value="" id="searchKeywords" class="searchTxt c999 fl" placeholder="Please enter keywords here..."><input type="button" name="" value="" class="searchBtn fr"></div></div><div class="cart fr"><a href="/ShopCart.html" class="cartInf" rel="nofollow"><strong>Shopping Cart :</strong><span id="cartEmpty">Empty</span><span id="cartCount" class="hide"><span class="red">0</span> Item(s)</span></a><div class="cartArr hide"></div><div class="cartList hide"></div></div><div class="clear"></div></div></div><!--Header search --end-- --><!--Navigation --start-- --><div class="navigation"><div class="NavigationBox"><ul><li><a href="/">home</a></li><li><span>New Arrival</span><div class="subsetBox locate1 hide"><div class="subsetList subsetWidth2 fl"><div class="subsetList2 fl"><dl><dd><a href="/dresses-15/?sort=3-New-Arrival">Dresses</a></dd></dl><dl><dd><a href="/bodycon-dresses-445/?sort=3-New-Arrival">Bodycon Dresses</a></dd></dl><dl><dd><a href="/maxi-dresses-32/?sort=3-New-Arrival">Maxi Dresses</a></dd></dl><dl><dd><a href="/tees-t-shirts-47/?sort=3-New-Arrival">T-shirts &amp; Tees</a></dd></dl><dl><dd><a href="/shirts-blouses-46/?sort=3-New-Arrival">Blouses</a></dd></dl><dl><dd><a href="/camis-tanks-48/?sort=3-New-Arrival">Camis</a></dd></dl><dl><dd><a href="/pants-shorts-18/?sort=3-New-Arrival">Pants</a></dd></dl><dl><dd><a href="/shorts-58/?sort=3-New-Arrival">Shorts</a></dd></dl><dl><dd><a href="/sandals-flip-flops-109/?sort=3-New-Arrival">Sandals</a></dd></dl></div><div class="subsetProduct fl"><div class="subsetImg fl"><a href="/Products/a-line-square-neckline-dotted-nipped-in-waist-retro-style-swing-dress-plus-size-dress-40515.html"><img src="http://cloud.buytrends.com/catalog/products/medium/images/201508/12/1439367277909.jpg" title=""></a></div><div class="subsetPriceBox fl"><span class="subsetMarketPrice"> US$ 57.47</span><span class="subsetPrice"> US$ 22.99</span></div></div></div></div></li><li><span>Women's Clothing</span><div class="subsetBox locate hide"><div class="subsetList subsetWidth1 fl"><div class="subsetList1 fl"><div class="subsetListnav1 fl"><dl><dd><a href="/dresses-15/">Dresses</a></dd><dt><a href="/casual-dresses-31/">Casual Dresses</a></dt><dt><a href="/bodycon-dresses-445/">Bodycon Dresses</a></dt><dt><a href="/maxi-dresses-32/">Maxi Dresses</a></dt><dt><a href="/party-dresses-35/">Party Dresses</a></dt><dt><a href="/sexy-dresses-447/">Sexy Dresses</a></dt><dt><a href="/work-dresses-37/">Work Dresses</a></dt><dt><a href="/evening-dresses-33/">Evening Dresses</a></dt></dl><dl><dd><a href="/sweaters-50/">Sweaters</a></dd><dt><a href="/cardigans-twin-sets-158/">Cardigans</a></dt><dt><a href="/pullovers-164/">Pullovers</a></dt></dl><dl><dd><a href="/vests-49/">Vests</a></dd></dl></div><div class="subsetListnav1 fl"><dl><dd><a href="/coats-jackets-51/">Coats</a></dd><dt><a href="/blazers-166/">Blazers</a></dt><dt><a href="/jackets-168/">Jackets</a></dt><dt><a href="/trench-rain-171/">Trench Coats</a></dt><dt><a href="/puffer-down-coats-170/">Down Coats</a></dt><dt><a href="/ponchos-shawls-167/">Ponchos</a></dt></dl><dl><dd><a href="/hoodies-145/">Hoodies</a></dd></dl><dl><dd><a href="/tees-t-shirts-47/">T-shirts &amp; Tees</a></dd></dl><dl><dd><a href="/shirts-blouses-46/">Blouses</a></dd></dl><dl><dd><a href="/sweatshirts-146/">Sweatshirts</a></dd></dl></div><div class="subsetListnav1 fl"><dl><dd><a href="/pants-shorts-18/">Pants</a></dd><dt><a href="/casual-pants-52/">Casual Pants</a></dt><dt><a href="/leggings-59/">Leggings</a></dt><dt><a href="/jeans-54/">Jeans</a></dt><dt><a href="/jumpsuits-207/">Jumpsuits</a></dt><dt><a href="/shorts-58/">Shorts</a></dt></dl><dl><dd><a href="/skirts-16/">Skirts</a></dd></dl><dl><dd><a href="/camis-tanks-48/">Camis</a></dd></dl></div></div></div></div></li><li><a href="/fashion-clubwear-446/">Clubwear</a></li><li><a href="/shoes-26/">Shoes</a><div class="subsetBox locate hide"><div class="subsetList subsetWidth3 fl"><div class="subsetList3 fl"><dl><dd><a href="/pumps-110/">Pumps</a></dd></dl><dl><dd><a href="/sandals-flip-flops-109/">Sandals</a></dd></dl><dl><dd><a href="/boots-108/">Boots</a></dd></dl><dl><dd><a href="/flat-shoes-114/">Flat Shoes</a></dd></dl><dl><dd><a href="/sneakers-112/">Sneakers</a></dd></dl></div><div class="subsetProduct fl"><div class="subsetImg fl"><a href="/Products/amazing-women-peep-toe-thin-heel-lace-flower-beads-decorated-platform-pumps-30848.html"><img src="http://cloud.buytrends.com/catalog/products/medium/images/201408/18/1408325501370.jpg" title=""></a></div><div class="subsetPriceBox fl"><span class="subsetMarketPrice"> US$ 136.31</span><span class="subsetPrice"> US$ 29.99</span></div></div><div class="subsetProduct fl"><div class="subsetImg fl"><a href="/Products/stylish-lace-up-solid-color-rhinestone-pumps-for-lady-34610.html"><img src="http://cloud.buytrends.com/catalog/products/medium/images/201412/26/1419586262117.jpg" title=""></a></div><div class="subsetPriceBox fl"><span class="subsetMarketPrice"> US$ 99.97</span><span class="subsetPrice"> US$ 39.99</span></div></div></div></div></li><li><a href="/swimwear-23/">Swimwear</a></li><li><a href="/sexy-lingerie-29/">Sexy Lingeries</a><div class="subsetBox locate5 hide"><div class="subsetList subsetWidth3 fl"><div class="subsetList3 fl"><dl><dd><a href="/baby-dolls-134/">Baby Dolls</a></dd></dl><dl><dd><a href="/sexy-corsets-137/">Sexy Corsets</a></dd></dl><dl><dd><a href="/sexy-costumes-139/">Sexy Costumes</a></dd></dl></div><div class="subsetProduct fl"><div class="subsetImg fl"><a href="/Products/romantic-royal-style-strapless-front-zipper-push-up-shaping-floral-printed-ladys-sexy-corset-36736.html"><img src="http://cloud.buytrends.com/catalog/products/medium/images/201504/09/1428569309184.jpg" title=""></a></div><div class="subsetPriceBox fl"><span class="subsetMarketPrice"> US$ 107.10</span><span class="subsetPrice"> US$ 29.99</span></div></div><div class="subsetProduct fl"><div class="subsetImg fl"><a href="/Products/falbala-flower-pattern-bowknots-v-neck-lace-up-womens-corset-bustier-tops-37007.html"><img src="http://cloud.buytrends.com/catalog/products/medium/images/201504/21/1429601012442.jpg" title=""></a></div><div class="subsetPriceBox fl"><span class="subsetMarketPrice"> US$ 49.97</span><span class="subsetPrice"> US$ 19.99</span></div></div></div></div></li><li><span>Accessories</span><div class="subsetBox locate5 hide"><div class="subsetList subsetWidth2 fl"><div class="subsetList2 fl"><dl><dd><a href="/bags-25/">Bags</a></dd><dt><a href="/shoulder-bags-101/">Shoulder Bags</a></dt><dt><a href="/tote-bags-102/">Tote Bags</a></dt><dt><a href="/crossbody-messenger-103/">Crossbody</a></dt><dt><a href="/briefcase-106/">Briefcase</a></dt><dt><a href="/wallets-98/">Wallets</a></dt></dl><dl><dd><a href="/jewelry-watches-27/">Jewelry</a></dd></dl></div><div class="subsetProduct fl"><div class="subsetImg fl"><a href="/Products/metal-side-diamond-pattern-womens-tote-bag-and-handbag-22634.html"><img src="http://cloud.buytrends.com/catalog/products/medium/images/201311/23/1385217343859.jpg" title=""></a></div><div class="subsetPriceBox fl"><span class="subsetMarketPrice"> US$ 79.38</span><span class="subsetPrice"> US$ 26.99</span></div></div></div></div></li></ul></div></div><!--Navigation --end-- --><!--Top banner --start-- --><div class="topBanner"><div class="topBannerBox"></div></div><script src="/Public/Js/topbanner.js" type="text/javascript"></script><!--Navigation --end-- --><!-- Content --start-- --><div class="content"><div class="contentBox"><!-- breadcrumbs statr --><div class="breadcrumbs fl"><ul><li><a href="/" title="Home">Home</a></li><li>»</li><li>Security &amp; Privacy</li><li class="listBack" style="display: list-item;"><a href="javascript:history.go(-1)">&lt;&lt; Back</a></li></ul></div><!-- breadcrumbs end --><div class="helpBox fl"><div class="helpLeft fl"><h3 class="helpLeftTitle fl">Customer Guide</h3><ul class="helpLeftList fl"><li><a href="/register-i-9.html">Register or Sign In</a></li><li><a href="/find-items-i-7.html">Find Items</a></li><li><a href="/order-making-i-14.html">Making Order</a></li><li><a href="/faq-i-5.html">FAQ</a></li><li><a href="/login-problem-i-11.html">Sign In Problem</a></li></ul><h3 class="helpLeftTitle fl">Payment Methods</h3><ul class="helpLeftList fl"><li><a href="/coupon-i-15.html">Coupon</a></li><li><a href="/paypal-i-16.html">PayPal</a></li><li><a href="/credit-card-i-17.html">Credit Card</a></li><li><a href="/bank-transfer-i-18.html">Bank Transfer</a></li><li><a href="/western-union-i-19.html">Western Union</a></li></ul><h3 class="helpLeftTitle fl">Shipping &amp; Delivery</h3><ul class="helpLeftList fl"><li><a href="/shipping-methods-i-20.html">Shipping Methods</a></li><li><a href="/shipping-cost-i-21.html">Shipping Charges</a></li><li><a href="/delivery-time-i-22.html">Delivery Time</a></li><li><a href="/customs-import-tax-i-23.html">Tax and Customs</a></li><li><a href="/international-shipping-i-24.html">International Shipping</a></li></ul><h3 class="helpLeftTitle fl">Refund &amp; Return</h3><ul class="helpLeftList fl"><li><a href="/order-cancellation-i-29.html">Order Withdrawals</a></li><li><a href="/fail-to-receive-i-26.html">Fail Shipment</a></li><li><a href="/return-policy-i-27.html">Return Policy</a></li><li><a href="/dispute-i-28.html">Disagreement</a></li></ul></div><div class="helpRight fr"><div class="helpRightTitle fl"><h2>Security &amp; Privacy</h2></div><div class="helpRightBox fl"><strong>Collection of personal data</strong><br>
 BuyTrends works to ensure that your privacy is protected when using our services. We therefore have a policy setting out how your personal data will be processed and protected. Any changes we have made to this privacy policy can be found by visiting us online. We take responsibility for all the personal data (such as your name, address, email address, phone number, date of birth, etc.) that you provide us with, that we obtain when you subscribe to our newsletter or when you create a personal profile at BuyTrends.com. The Chinese parent company BuyTrends, is responsible for your personal data under the Chinese Data Protection (CDP) regulation. Your personal details are maintained in China and processed within the BuyTrends.<br>
 <br>
 <strong>How do we use your personal data?</strong><br>
@@ -255,23 +33,23 @@ Please note that if you choose to disable cookies, you will not be able to take 
 BuyTrends has implemented a number of security measures to ensure that our internal procedures comply with the security standards required in accordance with applicable data protection law. BuyTrends always strives to protect your personal data in the best possible way.<br>
 <br>
 The content of this website is copyright-protected and is the property of BuyTrends.<br>
-<br></div></div><div class="clear"></div></div></div><!--footer start--><div class="main_footer"><div class="main_footer_box"><div class="footer_box"><div class="footer_list fl"><div class="footer_list1 fl"><h3>Customer Guide</h3><ul><li><a href="/register-i-9.html">Register or Sign In</a></li><li><a href="/find-items-i-7.html">Find Items</a></li><li><a href="/order-making-i-14.html">Making Order</a></li><li><a href="/faq-i-5.html">FAQ</a></li><li><a href="/login-problem-i-11.html">Sign In Problem</a></li></ul></div><div class="footer_list1 fl"><h3>Payment Methods</h3><ul><li><a href="/coupon-i-15.html">Coupon</a></li><li><a href="/paypal-i-16.html">PayPal</a></li><li><a href="/credit-card-i-17.html">Credit Card</a></li><li><a href="/bank-transfer-i-18.html">Bank Transfer</a></li><li><a href="/western-union-i-19.html">Western Union</a></li></ul></div><div class="footer_list1 fl"><h3>Shipping &amp; Delivery</h3><ul><li><a href="/shipping-methods-i-20.html">Shipping Methods</a></li><li><a href="/shipping-cost-i-21.html">Shipping Charges</a></li><li><a href="/delivery-time-i-22.html">Delivery Time</a></li><li><a href="/customs-import-tax-i-23.html">Tax and Customs</a></li><li><a href="/international-shipping-i-24.html">International Shipping</a></li></ul></div><div class="footer_list1 fl"><h3>Refund &amp; Return</h3><ul><li><a href="/order-cancellation-i-29.html">Order Withdrawals</a></li><li><a href="/fail-to-receive-i-26.html">Fail Shipment</a></li><li><a href="/dispute-i-28.html">Disagreement</a></li><li><a href="/return-policy-i-27.html">Return Policy</a></li></ul></div><div class="footer_list2 fr"><div class="newsletter fl"><h3>Sign up for our newsletter</h3><div class="newsletter_box fl"><form action="/Member/add_newsletter" method="post"><input type="text" name="" value="Your E-mail Address" class="newsletter_text fl" style="color:#999;"><input type="submit" name="" value="Submit" class="newsletter_btn fl"><input type="hidden" name="__hash__" value="6a815eb49914aff8e802bba32f95c4b9_d5a00c0834640af02d13aeddb5d80a7f"></form></div></div><div class="follow_us fl"><h3>FOLLOW US</h3><div class="follow_us_box fl"><a href="http://www.facebook.com/buytrends.clothing" class="f fl" title="Add Us on Facebook" alt="Add Us on Facebook"></a><a href="http://twitter.com/buytrends" class="t fl" title="Follow Us on Twitter" alt="Follow Us on Twitter"></a><a href="https://pinterest.com/buytrends/" class="q fl" title="Pin on Pinterest" alt="Pin on Pinterest"></a><a href="http://www.youtube.com/user/buytrendsfashion" class="w fl" title="Watch us on youtube" alt="Watch us on youtube"></a><a target="_blank" href="https://plus.google.com/118414118567889474257" class="g fl" rel="publisher"></a><a href="http://blog.buytrends.com" class="b m0 fl" title="Read us on our official blog" alt="Read us on our official blog"></a></div></div></div></div><div class="footer_menu fl"><a href="/about-i-4.html">About Us</a><a href="/terms-conditions-i-10.html">Terms &amp; Conditions</a><a href="/security-privacy-i-8.html">Security &amp; Privacy</a><a href="/help-i-1.html">Help Center</a><a href="/LeaveMessage.html">Contact Us</a><a href="/Sitemap/sitemap.html">Sitemap</a><a href="http://blog.buytrends.com/">Blog</a><a href="/affiliate-program-i-54.html">Affiliate Program</a><a href="/purchase-guidelines-i-55.html">Purchase Guidelines</a></div><div class="footer_img fl"><img src="http://cloud.buytrends.com/Public/Images/log.jpg" width="639" height="40"><a onclick="window.open ('https://sealserver.trustwave.com/cert.php?customerId=&amp;size=105x54&amp;style=normal&amp;baseURL=www.buytrends.com','newwindow','height=720,width=610,top=50,left=50')" href="javascript:void(0);"><img src="http://cloud.buytrends.com/Public/Images/log1.jpg" width="80" height="40"></a><img src="http://cloud.buytrends.com/Public/Images/log2.jpg" width="244" height="40"></div><div class="footer_key fl"><span>Product Tags:</span><a href="/Products-Tags/A/">A</a><a href="/Products-Tags/B/">B</a><a href="/Products-Tags/C/">C</a><a href="/Products-Tags/D/">D</a><a href="/Products-Tags/E/">E</a><a href="/Products-Tags/F/">F</a><a href="/Products-Tags/G/">G</a><a href="/Products-Tags/H/">H</a><a href="/Products-Tags/I/">I</a><a href="/Products-Tags/J/">J</a><a href="/Products-Tags/K/">K</a><a href="/Products-Tags/L/">L</a><a href="/Products-Tags/M/">M</a><a href="/Products-Tags/N/">N</a><a href="/Products-Tags/O/">O</a><a href="/Products-Tags/P/">P</a><a href="/Products-Tags/Q/">Q</a><a href="/Products-Tags/R/">R</a><a href="/Products-Tags/S/">S</a><a href="/Products-Tags/T/">T</a><a href="/Products-Tags/U/">U</a><a href="/Products-Tags/V/">V</a><a href="/Products-Tags/W/">W</a><a href="/Products-Tags/X/">X</a><a href="/Products-Tags/Y/">Y</a><a href="/Products-Tags/Z/">Z</a><a href="/Products-Tags/0-9/">0-9</a></div><div class="footer_cop fl">Copyright Notice © 2010-2015 <a href="http://www.buytrends.com/">BuyTrends.com</a> All rights reserved.</div><div class="clear"></div></div></div></div><div style="display:none;" class="back-to" id="toolBackTop"><a title="Back to top" class="back-top">Back to top</a><a href="/" title="Back to home" class="back-home">Back to home</a><a href="javascript:history.go(-1)" title="Back" class="back-back">Back</a></div><!--footer end--><script type="text/javascript" src="/Public/Js/click_ga.js"></script><script type="text/javascript">$(document).ready(function () {
-    $(".newsletter_text").focusin(function(){
+<br></div></div></div><div class="clear"></div></div></div><!--Footer --start-- --><div class="footer"><div class="footerBox"><div class="footerBoxInf"><div class="footerNavigation fl"><div class="footerNavigation1 fl"><h3>Customer Guide</h3><ul><li><a href="/register-i-9.html">Register or Sign In</a></li><li><a href="/find-items-i-7.html">Find Items</a></li><li><a href="/order-making-i-14.html">Making Order</a></li><li><a href="/faq-i-5.html">FAQ</a></li><li><a href="/login-problem-i-11.html">Sign In Problem</a></li></ul></div><div class="footerNavigation1 fl"><h3>Payment Methods</h3><ul><li><a href="/coupon-i-15.html">Coupon</a></li><li><a href="/paypal-i-16.html">PayPal</a></li><li><a href="/credit-card-i-17.html">Credit Card</a></li><li><a href="/bank-transfer-i-18.html">Bank Transfer</a></li><li><a href="/western-union-i-19.html">Western Union</a></li></ul></div><div class="footerNavigation1 fl"><h3>Shipping &amp; Delivery</h3><ul><li><a href="/shipping-methods-i-20.html">Shipping Methods</a></li><li><a href="/shipping-cost-i-21.html">Shipping Charges</a></li><li><a href="/delivery-time-i-22.html">Delivery Time</a></li><li><a href="/customs-import-tax-i-23.html">Tax and Customs</a></li><li><a href="/international-shipping-i-24.html">International Shipping</a></li></ul></div><div class="footerNavigation1 fl"><h3>Refund &amp; Return</h3><ul><li><a href="/order-cancellation-i-29.html">Order Withdrawals</a></li><li><a href="/fail-to-receive-i-26.html">Fail Shipment</a></li><li><a href="/return-policy-i-27.html">Return Policy</a></li><li><a href="/dispute-i-28.html">Disagreement</a></li><li><a href="/index/openDispute.html">Open a Dispute</a></li></ul></div><div class="footerSocializing fr"><div class="newsletter fl"><h3>Sign up for our newsletter</h3><div class="newsletterBox fl"><form action="/user/addNewsletter.html" method="post" autocomplete="off" onsubmit="return newsletterSubmit();"><input type="text" name="email" value="Your E-mail Address" class="newsletterTxt c999 fl"><input type="submit" name="" value="Submit" class="newsletterBtn fl"></form></div></div><div class="socializing fl"><h3>FOLLOW US</h3><div class="socializingBox fl"><a href="http://www.facebook.com/buytrends.clothing" class="f fl" title="Add Us on Facebook" alt="Add Us on Facebook"></a><a href="http://twitter.com/buytrends" class="t fl" title="Follow Us on Twitter" alt="Follow Us on Twitter"></a><a href="https://pinterest.com/buytrends/" class="q fl" title="Pin on Pinterest" alt="Pin on Pinterest"></a><a href="http://www.youtube.com/user/buytrendsfashion" class="w fl" title="Watch us on youtube" alt="Watch us on youtube"></a><a target="_blank" href="https://plus.google.com/118414118567889474257" class="g fl" rel="publisher"></a><a href="http://blog.buytrends.com" class="b m0 fl" title="Read us on our official blog" alt="Read us on our official blog"></a></div></div></div></div><div class="footerMenu fl"><a href="/about-i-4.html">About Us</a><a href="/help-i-1.html">Help Center</a><a href="/security-privacy-i-8.html">Security &amp; Privacy</a><a href="/terms-conditions-i-10.html">Terms &amp; Conditions</a><a href="/order-trace-i-25.html">Order Trace</a><a href="/affiliate-program-i-54.html">Affiliate Program</a><a href="/purchase-guidelines-i-84.html">Purchase Guidelines</a><a href="/LeaveMessage">Contact Us</a><a href="/Sitemap/sitemap.html">Sitemap</a><a href="http://blog.buytrends.com/">Blog</a></div><div class="footerImg fl"><img src="/Public/Images/log.jpg" width="639" height="40"><a onclick="window.open ('https://sealserver.trustwave.com/cert.php?customerId=&amp;size=105x54&amp;style=normal&amp;baseURL=www.buytrends.com','newwindow','height=720,width=610,top=50,left=50')" href="javascript:void(0);"><img src="/Public/Images/log1.jpg" width="80" height="40"></a><img src="/Public/Images/log2.jpg" width="244" height="40"></div><div class="footerCop fl">Copyright Notice © 2010-2015 <a href="">BuyTrends.Com</a> All rights reserved.</div><div class="clear"></div></div></div></div><div class="footerBack hide" id="BackTop"><a title="Back to top" class="backTop">Back to top</a></div><script type="text/javascript">$(document).ready(function () {
+    $(".newsletterTxt").focusin(function(){
         var value = $(this).val();
         if(value == "Your E-mail Address"){
             $(this).val('');
-            $(this).removeAttr("style")
+            $(this).removeClass("c999")
         }
     });
-    $(".newsletter_text").focusout(function(){
+    $(".newsletterTxt").focusout(function(){
         var value = $(this).val();
         if(value==''){
             $(this).val("Your E-mail Address");
-            $(this).attr("style","color:#999;")
+            $(this).addClass("c999")
         }
     });
     
-    var bt = $('#toolBackTop');
+    var bt = $('#BackTop');
     $(window).scroll(function() {
             var st = $(window).scrollTop();
             if(st > 30){
@@ -280,13 +58,38 @@ The content of this website is copyright-protected and is the property of BuyTre
                     bt.hide();
             }
     });
-    $('.back-top').click(function(){
+    $('.backTop').click(function(){
         var x = $("#top").offset().top;
         $("html, body").animate({ scrollTop: x}, 600);
         return false;
     });
-})
-</script><script>
+});
+
+function newsletterSubmit(){
+    var email = $.trim($(".newsletterTxt").val());
+    
+    if(!/[\w._\-]+@[\w_\-]+\.[\w._\-]+/.test(email)) {
+        alert('Invalid Email Address!');
+        return false;
+    }
+    
+    $.ajax({
+        type: "POST",  
+        url: "/user/addNewsletter.html", 
+        data: "email="+email,
+        success:function(data){
+            var data = eval(data);
+            if(data.status=='success'){
+                alert(data.info);
+            }else{
+                alert(data.info);
+            }
+        }
+    });
+    
+    return false;
+}
+</script><!--Footer --start-- --><script>
                   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
                   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
                   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -294,7 +97,22 @@ The content of this website is copyright-protected and is the property of BuyTre
                   ga('create', 'UA-33275992-1', 'auto');
                   ga('require', 'displayfeatures');
                   ga('send', 'pageview');
-                  </script><script type="text/javascript">
+                  </script><script>(function() {
+				  var _fbq = window._fbq || (window._fbq = []);
+				  if (!_fbq.loaded) {
+				    var fbds = document.createElement("script");
+				    fbds.async = true;
+				    fbds.src = "//connect.facebook.net/en_US/fbds.js";
+				    var s = document.getElementsByTagName("script")[0];
+				    s.parentNode.insertBefore(fbds, s);
+				    _fbq.loaded = true;
+				  }
+				  _fbq.push(["addPixelId", "342271532630379"]);
+				})();
+				window._fbq = window._fbq || [];
+				window._fbq.push(["track", "PixelInitialized", {}]);
+				</script>
+				<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=342271532630379&ev=PixelInitialized" /></noscript><script type="text/javascript">
                             /* <![CDATA[ */
                             var google_conversion_id = 977390353;
                             var google_custom_params = window.google_tag_params;
@@ -304,7 +122,7 @@ The content of this website is copyright-protected and is the property of BuyTre
                             <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
                             <noscript>
                             <div style='display:inline;'>
-                            <img height='1' width='1' style='border-style:none;' src='//googleads.g.doubleclick.net/pagead/viewthroughconversion/977390353/?value=0&amp;guid=ON&amp;script=0'/>
+                            <img height='1' width='1' style='border-style:none;' src='//googleads.g.doubleclick.net/pagead/viewthroughconversion/977390353/?value=0&guid=ON&script=0'/>
                             </div>
                             </noscript><script type="text/javascript">
                     var Comm100API = Comm100API || new Object;
@@ -321,4 +139,4 @@ The content of this website is copyright-protected and is the property of BuyTre
                     comm100_lc.src = 'https://chatserver.comm100.com/livechat.ashx?siteId=' + Comm100API.site_id;
                     var comm100_s = document.getElementsByTagName('script')[0];
                     comm100_s.parentNode.insertBefore(comm100_lc, comm100_s);
-                </script></body></html>
+                </script><div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="https://s-static.ak.facebook.com/connect/xd_arbiter/44OwK74u0Ie.js?version=41#channel=f2d999e421953d8&amp;origin=https%3A%2F%2Fweb.archive.org" style="border: none;"></iframe></div></div></div></body></html>
