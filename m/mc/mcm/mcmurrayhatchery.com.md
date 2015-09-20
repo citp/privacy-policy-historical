@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcmurrayhatchery.com privacy policy that was archived on 2014-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140908000437id_/https%3A//www.mcmurrayhatchery.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcmurrayhatchery.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920102740id_/https%3A//www.mcmurrayhatchery.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Murray McMurray Hatchery - Privacy Policy
 
@@ -33,6 +33,12 @@ We have contracts with other companies to provide certain services, like shippin
 If you have registered for our e-mail newsletter or made purchases through our web site, rest assured that your e-mail address and telephone number will not be made available to other companies for marketing purposes.
 
 We do, however, share offline contact information, which includes your name and mailing address, with third parties who may send you promotional offers or information about their products or services. If you do not want us to share your offline contact information with third parties, or if you do not want to receive such information or promotional offers by mail, then please call, write, or e-mail us your request to opt-out.
+
+## What information do you share with government agencies?
+
+McMurray Hatchery is required to file a VS 9-3 form in the destination state (US only) for every order of baby chicks that we ship. That form includes the full ship-to address: name, address, city, state, zip code and phone number. These forms are first sent to an approved reviewer, usually a state veterinarian or health official, who reviews the forms, signs them and forwards them to the appropriate state agency. The VS 9-3 form is an integral part of the [National Poultry Improvement Plan](http://www.poultryimprovement.org/), of which McMurray Hatchery is an active participant. 
+
+In addition to the required form, McMurray Hatchery also sends a pre-shipment notification report to each state, approximately one week before the actual shipment. This report contains the same information as the VS 9-3 and allows the state agencies to more effectively monitor the birds being shipped to their state. 
 
 ## What about cookies?
 
