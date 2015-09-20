@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campusportal.com.ng privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314225439id_/http%3A//campusportalng.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campusportal.com.ng privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920172335id_/http%3A//campusportalng.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CampusPortalNigeria
 
@@ -25,7 +25,7 @@ Any of the information we collect from you may be used in one of the following w
 
 > Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-\- To send periodic emails
+– To send periodic emails
 
 The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
 
