@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xtube.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318041858id_/http%3A//support.xtube.com/index.php%3F/Knowledgebase/Article/View/1881/101/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtube.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920204340id_/http%3A//support.xtube.com/index.php%3F/Knowledgebase/Article/View/1881/101/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice - XTube.com
 
