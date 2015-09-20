@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uktodaynews.com privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115183337id_/http%3A//uktodaynews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uktodaynews.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920043343id_/http%3A//uktodaynews.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | UKTODAYNEWS.COM
+# UK and Worldwide News |Privacy Policy | Uktodaynews
 
 **UK Today News** can be reached via e-mail at
 
@@ -25,3 +25,6 @@ We use third-party advertising companies to serve ads and collect data when you 
 If, for any reason you feel that www.uktodaynews.com is not following this stated information policy, please contact us at the e-mail address provided below.
 
 **contact [at] uktodaynews [dot] com**
+
+  
+
