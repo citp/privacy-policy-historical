@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idp.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619112953id_/http%3A//www.idp.com/global/footerlinks/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idp.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920081444id_/https%3A//www.idp.com/global/footerlinks/privacypolicy) for the most accurate reproduction.*
 
 # PrivacyPolicy
 
