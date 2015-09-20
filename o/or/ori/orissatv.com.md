@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the orissatv.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408101952id_/http%3A//www.odishatv.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orissatv.com privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921002047id_/http%3A//odishatv.in/%3Fpage_id%3D54878) for the most accurate reproduction.*
 
-# Odisha Television Limited
+# Privacy Policy | Odisha Television Limited
 
 Odisha Television Limited takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this privacy policy primer to learn more about privacy policies in general.  
 **Routine Information Collection**  
