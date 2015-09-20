@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sotc.in privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607075114id_/http%3A//www.sotc.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sotc.in privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920035714id_/http%3A//www.sotc.in/in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Kuoni – SOTC
+# Privacy Policy - Kuoni
 
 **Kuoni Travel (India) Private Limited (KUONI)** believes that customer who books or looks for any services at www.sotc.in (Site) has the right to know about the privacy policy that is followed by us. For the trust the client has on KUONI, we value the right to your privacy.
 
