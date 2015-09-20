@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the datahero.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407070224id_/https%3A//datahero.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datahero.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920150648id_/https%3A//datahero.com/privacy-policy) for the most accurate reproduction.*
 
-# DataHero: Chart Any Data, Anywhere
+# Datahero Privacy Policy
 
 #### Effective Date: September 2014
 
@@ -8,14 +8,14 @@
 
 We want you to feel confident when using the DataHero service and comfortable with how your content is used.
 
-  * We believe in _being transparent_ about the information we collect and how we use it.
-  * We believe that _you should have control_ over the content you upload to the DataHero service. We will never share your content without your permission (unless required by law) and will provide you with a clear means to be able to delete your content from our systems.
-  * We believe that _you own and will always own_ all content you upload to the DataHero service. We will never claim ownership rights to any of your content and only ask you to grant us license rights necessary for us to provide the service.
-  * We believe that having access to your content is a privilege. If you provide DataHero with credentials for a third-party service, we pledge to only use those credentials to list the content that you have available in that service and that _we will not upload anything into DataHero without your permission_.
+  * We believe in being transparent about the information we collect and how we use it.
+  * We believe that you should have control over the content you upload to the DataHero service. We will never share your content without your permission (unless required by law) and will provide you with a clear means to be able to delete your content from our systems.
+  * We believe that you own and will always own all content you upload to the DataHero service. We will never claim ownership rights to any of your content and only ask you to grant us license rights necessary for us to provide the service.
+  * We believe that having access to your content is a privilege. If you provide DataHero with credentials for a third-party service, we pledge to only use those credentials to list the content that you have available in that service and that we will not upload anything into DataHero without your permission.
 
 
 
-By using this service, you agree to allow us to collect and process information as described below. If you have any questions or believe that content has been uploaded into DataHero that shouldn't have been, please contact us at [privacy@datahero.com](mailto:privacy@datahero.com).
+By using this service, you agree to allow us to collect and process information as described below. If you have any questions or believe that content has been uploaded into DataHero that shouldn’t have been, please contact us at [privacy@datahero.com](mailto:privacy@datahero.com).
 
 COLLECTION: We collect three types of Personally Identifiable Information (PII). This information is used to enable DataHero service functionality and to better allow us to understand how visitors navigate our website.
 
@@ -47,4 +47,4 @@ Email: [privacy@datahero.com](mailto:privacy@datahero.com)
 
 NOTICE TO CALIFORNIA RESIDENTS
 
-Under California Civil Code Section 1789.3, California users are entitled to the following consumer rights notice: If you have a question or complaint regarding the Site, please send an e-mail to privacy@datahero.com. You may also contact us by writing to 425 2nd Street Suite 210 San Francisco, CA 94107, or by calling us at (650) 308-4301. California residents may reach the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs by mail at 1625 North Market Blvd., Sacramento, CA 95834, or by telephone at (916) 445-1254 or (800) 952-5210. 
+Under California Civil Code Section 1789.3, California users are entitled to the following consumer rights notice: If you have a question or complaint regarding the Site, please send an e-mail to privacy@datahero.com. You may also contact us by writing to 425 2nd Street Suite 210 San Francisco, CA 94107, or by calling us at (650) 308-4301. California residents may reach the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs by mail at 1625 North Market Blvd., Sacramento, CA 95834, or by telephone at (916) 445-1254 or (800) 952-5210.
