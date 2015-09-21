@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metallica.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629010854id_/http%3A//www.metallica.com/help/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metallica.com privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921042741id_/http%3A//www.metallica.com/help/privacy-policy.asp) for the most accurate reproduction.*
 
 # METALLICA.com | Privacy Policy
 
