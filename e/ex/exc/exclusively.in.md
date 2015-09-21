@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the exclusively.in privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926154932id_/http%3A//exclusively.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exclusively.in privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921203209id_/http%3A//www.exclusively.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Exclusively In
+# Privacy Policy
 
-Exclusively.In is committed to protecting the privacy of visitors to this site (the "Site"). At Exclusively.In, we want you to have an enjoyable shopping experience. And while it is necessary for us to collect certain personal information, we respect and protect your right to privacy as set forth in this Privacy Policy. This Privacy Policy applies to the Site. This Privacy Policy does not apply to other web sites to which we link. You agree that your use of the Site signifies your assent to this Privacy Policy. If you do not agree with this Privacy Policy, please do not use the Site.
+Exclusively.com is committed to protecting the privacy of visitors to this site (the "Site"). At Exclusively.com, we want you to have an enjoyable shopping experience. And while it is necessary for us to collect certain personal information, we respect and protect your right to privacy as set forth in this Privacy Policy. This Privacy Policy applies to the Site. This Privacy Policy does not apply to other web sites to which we link. You agree that your use of the Site signifies your assent to this Privacy Policy. If you do not agree with this Privacy Policy, please do not use the Site.
 
 **Information Collected**  
 In order to access this Site, you must first complete the registration process. During the registration process, we collect personal information such as your name and email address. Once you complete and submit your registration, you have opted in to receive email communication from us.
@@ -11,7 +11,7 @@ We also collect personal information when you choose to use certain other featur
 
 In addition, through the Site, we automatically gather certain information about the use of the Site, such as how frequently certain areas of the Site are visited, including through the use of cookies, web beacons and other technologies. Most browsers can be set to prevent cookies or to notify you when one is being placed. However, cookies are necessary to access the Site.
 
-If you choose to invite an individual to join Exclusively.In, you will need to provide his/her name and email address. Exclusively.In stores this information to confirm qualifying orders attributable to your account and to track the results of the invitation referrals.
+If you choose to invite an individual to join Exclusively.com, you will need to provide his/her name and email address. Exclusively.com stores this information to confirm qualifying orders attributable to your account and to track the results of the invitation referrals.
 
 **How We Use Your Information**  
 We will not share or disclose your information to anyone except as described in this Privacy Policy.
@@ -38,7 +38,7 @@ We are committed to protecting the information we receive from you. We follow re
 The Site encrypts your credit card number and other personal information using secure socket layer (SSL) technology to provide for the secure transmission of the information from your PC to our servers. In addition, only those employees and third parties who need access to your information in order to perform their duties are allowed such access.
 
 **Accessing and Updating Your Personal Information and Preferences**  
-If you are a registered user, you may access and update your registration information and your preferences to receive email or other communications from us by sending an email to [service@exclusively.in](mailto:service@exclusively.in). Please note that your friends and contacts may still choose to send email invitations to you. Any user who receives an email invitation to join the Site may choose not to receive such invitations in the future by following the instructions in the email invitations and, in addition, if you are a member, you may also choose not to receive such invitations by changing your preferences as indicated above. We will take commercially reasonable steps to implement your opt-out requests promptly, but you may still receive communications from us for up to ten business days as we process your request.
+If you are a registered user, you may access and update your registration information and your preferences to receive email or other communications from us by sending an email to [service@exclusively.com](mailto:service@exclusively.com). Please note that your friends and contacts may still choose to send email invitations to you. Any user who receives an email invitation to join the Site may choose not to receive such invitations in the future by following the instructions in the email invitations and, in addition, if you are a member, you may also choose not to receive such invitations by changing your preferences as indicated above. We will take commercially reasonable steps to implement your opt-out requests promptly, but you may still receive communications from us for up to ten business days as we process your request.
 
 While we make efforts to accommodate requests to restrict our use of your information, we reserve the right to delete all or any portion of customer information if we are not able to reasonably accommodate a requested restriction.
 
@@ -49,4 +49,4 @@ We do not solicit any personal information from children. If you are not 18 or o
 If we decide to change our Privacy Policy for the Site, we will post the revised Privacy Policy here so that you will always know what information we gather, how we might use that information and whether we may disclose it to anyone. Your continued use of the Site indicates your assent to the Privacy Policy as posted.
 
 **If you have any questions about this Privacy Policy, please contact us at:**  
-Exclusively.In, 149 West 27th Street, 4th Floor, New York, NY 10001, USA.
+service@exclusively.com
