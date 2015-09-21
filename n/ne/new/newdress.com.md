@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newdress.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316140525id_/http%3A//www.newdress.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newdress.com privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921071735id_/http%3A//www.newdress.com/html/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Global Online Shopping from Newdress
 
@@ -122,4 +122,4 @@ Choice and Opt-Out
 
 If you no longer wish to receive the Company's promotional communications, you may "opt-out" of receiving them by following the instructions included in each communication or by e-mailing the Company at service@Newdress.com
 
-If you wish to talk to a Newdress.com customer representative please call +86-755-89619517 or +86-755-89619973 or write to: Customer Service Department, Newdress.com, Huanan City, Pinghu, Longgang District, Shenzhen, 518116, China. You can also email us at service@Newdress.com
+If you wish to talk to a Newdress.com customer representative please call +86-755-89619517 or +86-755-89619973.You can also email us at service@Newdress.com.
