@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jofrati.net privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315005250id_/http%3A//jofrati.net/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jofrati.net privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921165421id_/http%3A//jofrati.net/static/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Jofrati.net | Jofrati.net - PR 4 Dofollow Social Bookmarking Site
 
