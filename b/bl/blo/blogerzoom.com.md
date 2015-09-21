@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogerzoom.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516221239id_/http%3A//www.blogerzoom.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogerzoom.com privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921190742id_/http%3A//www.blogerzoom.com/privacy.html) for the most accurate reproduction.*
 
 # Blogerzoom.com | Privacy Policy - Perfect Place For Advertising And Marketing, SEO Services, Badge Advertising, Link Exchange
 
@@ -23,7 +23,7 @@ We do not sell,trade, or otherwise transfer to outside parties your personally i
 
 Purchasing services
 
-If you purchase services from us, we will ask for the minimum information necessary to verify that you are authorized to make the purchase, that you are who you say, and not someone else with your credit card. We will ask for your address, your credit card information, including the expiration date to make sure that the card owner is the one who is using it. If you notice any charges from our site that you did not authorize, please contact us so we can resolve any issues.
+If you purchase services from us, we will ask for the minimum information necessary to verify that you are authorized to make the purchase, that you are who you say, and not someone else with your credit card. If you notice any charges from our site that you did not authorize, please contact us so we can resolve any issues.
 
 Cookies
 
