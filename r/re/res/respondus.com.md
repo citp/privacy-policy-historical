@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the respondus.com privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505101341id_/http%3A//www.respondus.com/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the respondus.com privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921074109id_/http%3A//respondus.com/about/privacy.shtml) for the most accurate reproduction.*
 
 # Respondus.com Privacy Statement
 
@@ -40,7 +40,7 @@ Individual student purchases of Respondus Monitor will redirect the user to PayP
 
 ## **Software Updates**
 
-The Respondus software will periodically and automatically check for a software update at the Respondus.com web site. No information about your computer hardware and software is collected by Respondus, Inc. during this process. Instead, the Respondus software retrieves information from Respondus.com and will display a message if an update is available. The user can choose whether or not to upgrade to the latest version of software. 
+The Respondus software will periodically and automatically check for a software update at the Respondus.com web site. No information about your computer hardware and software is collected by Respondus, Inc. during this process. Instead, the Respondus software retrieves information from Respondus.com and will display a message if an update is available.
 
 ## **Security**
 
@@ -54,11 +54,11 @@ No data transmission over the Internet can be guaranteed to be 100% secure. Alth
 
 ## What A Cookie Is
 
-A "cookie" is a small piece of data that is sent to your browser from a Web server and stored on your computer's hard drive. Cookies store information about your use of a particular web site or service and are typically used to make services more convenient and personalized. Most cookies are "session cookies," which are automatically deleted whenever you leave a web site (and end the "session"). Some cookies remain on your computer until you remove them. 
+A "cookie" is a small piece of data that is sent to your browser from a Web server and stored on your computer's hard drive. Cookies (and similar tracking technologies such as web beacons) store information about your use of a particular web site or service and are typically used to make services more convenient and personalized. Most cookies are "session cookies," which are automatically deleted whenever you leave a web site (and end the "session"). Some cookies remain on your computer until you remove them. 
 
 ## How We Use Cookies
 
-We use cookies on our website (1) to estimate the number of visitors to our web site, (2) to measure general traffic patterns, and (3) to store the items you've placed in your shopping cart. Most browsers permit you to set the browser to accept, reject, or notify you of cookie use. However, some parts of the Respondus.com site may not function properly if your browser is set to reject cookies. 
+We use cookies on our website (1) to estimate the number of visitors to our web site, (2) to measure general traffic patterns,(3) to store the items you've placed in your shopping cart, and (4) to improve your web browsing experience. Most browsers permit you to set the browser to accept, reject, or notify you of cookie use. However, some parts of the Respondus.com site may not function properly if your browser is set to reject cookies. 
 
 Our shopping cart will remember your cart contents for up to 14 days, for the convenience of our returning customers. It does not retain personal information of any kind, only products added to your shopping cart. 
 
@@ -78,6 +78,16 @@ StudyMate.com uses a session cookie that allows the user to navigate between ite
 StudyMate Class is a web-based application that integrates with the learning management system. StudyMate Class uses a single cookie to remember the last tab accessed by the user. If the user blocks the use of cookies in their browser, StudyMate Class simply won't remember the last tab the user accessed. All other features will work normally.
 
 StudyMate Class also has an integration with the Respondus Test Bank Network, which contains official publisher test banks formatted for Respondus applications. The Test Bank Network feature within StudyMate Class uses a session cookie that allows the user to navigate from one page of the Test Bank Network feature to the next page without having to login on each page. 
+
+## Cookies and Third-Party Service Providers
+
+In addition to using our own cookies, we work with other companies to help provide you with the best experience on our website. Cookies or web beacons may be used to transmit information to the servers of our service providers, such as Google Analytics and AdWords. This allows us to analyze and improve our website and marketing based on anonymous information about browsing activity on the site. These third-party service providers may also retain and use anonymous, aggregated data for their businesses, such as to improve their products and services.
+
+On our website, we may collect information about your online activities for use in offering you tailored advertisements about our products. We may use features of Google Analytics for Display Advertisers. This includes obtaining specific visitor cookie data, such as the source, medium and keywords used to visit our Site. This automated technology helps us track and manage the effectiveness of our marketing efforts.
+
+You may see Respondus ads on other websites based on your visits to our Site because we participate in third-party advertising networks, such as Google Adwords remarketing service. These allow us to target customized messaging based on users' demographic data, browsing history and inferred interests. The networks track your browser across multiple websites, and use this information to show you advertisements that are targeted to suit your interests.
+
+Users may opt out of Google's use of cookies by visiting the Google Advertising Opt-out Page or the Google Analytics Opt-out Page. Users may opt out of third party vendor use of cookies by visiting the [Network Advertising Initiative Opt-out Page](http://www.networkadvertising.org/choices/).
 
 ## **Children and Privacy**
 
