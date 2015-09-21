@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the leftronic.com privacy policy that was archived on 2015-03-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315001105id_/https%3A//www.leftronic.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the leftronic.com privacy policy that was archived on 2015-09-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150921144508id_/https%3A//www.leftronic.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#"><!--<![endif]--><head>
 
@@ -113,10 +113,40 @@ mixpanel.track('pageview', {'path': document.location.pathname});
       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
     </script>
+    
+    <!-- Lead Forensics Tag -->
+    <script type="text/javascript"> 
+     function track_load (docloc, doctit) { 
+         var trk_sw = escape(screen.width).substring(0, 6); 
+         var trk_sh = escape(screen.height).substring(0, 6); 
+         var trk_ref = escape(document.referrer).substring(0, 1100); 
+         var trk_tit = escape(doctit).substring(0, 200); 
+         trk_tit = trk_tit.replace(/\%u00a0/g, ''); 
+         trk_tit = trk_tit.replace(/\%u2122/g, ''); 
+         trk_tit = trk_tit.replace(/\%u[0-9][0-9][0-9][0-9]/g, ''); 
+         var trk_loc = escape(docloc).substring(0, 200); 
+         var trk_agn = escape(navigator.appName).substring(0, 100); 
+         var trk_lng = window.navigator.userLanguage || window.navigator.language; 
+         var trk_agv = escape(navigator.userAgent + '.lfcd' + screen.colorDepth + '.lflng' + trk_lng).substring(0, 1000); 
+         var trk_dom = escape(document.domain).substring(0, 200); 
+         var trk_user = '53350'; 
+         var trk_cookie = ''; 
+         var trk_guid = 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c) { 
+             var r = Math.random()*16|0, v = c == 'x' ? r : (r&0x3|0x8); 
+             return v.toString(16); 
+         }); 
+         var trk_img = 'http://www.final-aws-01.com/Track/Capture.aspx'; 
+         var trk_link = trk_img + '?trk_user=' + trk_user + '&trk_sw=' + trk_sw + '&trk_sh=' + trk_sh + '&trk_ref=' + trk_ref + '&trk_tit=' + trk_tit + '&trk_loc=' + trk_loc + '&trk_agn=' + trk_agn + '&trk_agv=' + trk_agv + '&trk_dom=' + trk_dom + '&trk_guid=' + trk_guid + '&trk_cookie=NA'; 
+         var preload = new Image(); 
+         preload.src = trk_link; 
+     } 
+</script>
 		<script type="text/javascript" src="https://www.leftronic.com/wp-content/themes/leftronic/javascript/redesign.js"></script>
 		<script type="text/javascript" src="https://www.leftronic.com/wp-content/themes/leftronic/include/wmm-service/wmm-services.js"></script>
 		<link rel="stylesheet" href="https://www.leftronic.com/wp-content/themes/leftronic/stylesheet/modal.css" media="screen" title="no title" charset="utf-8">
 		<link rel="stylesheet" href="https://www.leftronic.com/wp-content/themes/leftronic/stylesheet/redesign.css" media="screen" title="no title" charset="utf-8">
+		<script type="text/javascript" src="http://www.final-aws-01.com/js/53350.js"></script>
+		<noscript><img src="http://www.final-aws-01.com/53350.png" style="display:none;" /></noscript>
 </head>
 <body class="page page-id-23 page-template-default">
 <div class="body-outer-wrapper">
@@ -142,7 +172,7 @@ mixpanel.track('pageview', {'path': document.location.pathname});
 <option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11 menu-item-depth-0" value="https://www.leftronic.com/blog/">Blog</option>
 </select></div>								<ul class="portal">
 									<li><a href="/login/">Login</a></li>
-									<li><button data-toggle="modal" data-target="#signup-modal" class="login"><a href="#">Sign Up</a></button></li>
+									<li><button data-toggle="modal" data-target="#signup-modal" class="login"><a href="#">Free Trial</a></button></li>
 								</ul>
 				</div> <!-- header wrapper container -->
 		</div>
@@ -187,7 +217,7 @@ mixpanel.track('pageview', {'path': document.location.pathname});
 <div class="pico-content">
 <div class="email-signup-vad">
 <form id="email-signup-vad-form" action="javascript:console.log('preventDefault did not work!');">
-                  <input type="hidden" name="csrfmiddlewaretoken" value="6252b30cd30b0d78e952966f128d1c34"><p></p>
+                  <input type="hidden" name="csrfmiddlewaretoken" value="a654eb2f1301faa6b38df674a3ecd79e"><p></p>
 <div class="pico-input">
                     <label for="">Email:</label><br>
                     <input id="email-signup-vad-email" type="text" autocomplete="off" name="email" placeholder="email@address.com"><p></p>
