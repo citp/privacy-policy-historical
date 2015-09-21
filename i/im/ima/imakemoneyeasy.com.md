@@ -1,69 +1,40 @@
-> *The following text is extracted and transformed from the imakemoneyeasy.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231200136id_/http%3A//www.imakemoneyeasy.com/threads/3209-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imakemoneyeasy.com privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921214948id_/http%3A//imakemoneyeasy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | I make Money Easy
 
-  1. 02-17-2012, 09:17 PM [#1](http://www.imakemoneyeasy.com/threads/3209-Privacy-Policy?p=4215&viewfull=1#post4215)
+**Privacy Policy for http://imakemoneyeasy.com/**
 
-##  Privacy Policy 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@imakemoneyeasy.com.
 
-> Protecting your privacy is important to us. We hope the following information will help you understand how we collect, use and safeguard the personal information you provide to us on our site.  
->  Personal Information  
->  The definition of “personal information” in context to this privacy notice refers to any information that you give out that may disclose part or your whole identity. We will only gather personal information that you decide to offer us, such as email addresses. We are committed to our no spam policy and will not sell any information collected from our visitors.  
->  We only apply the personal information that you submit to us for their intended purposes. We do not share personally identifiable information with third party websites, organizations or other persons without your consent unless it is:  
->  1\. Necessary to provide you with a requested service;  
->  2\. Lawfully authorized or required;  
->  3\. Or utilized in the prevention or minimization of a serious and immediate threat to a party’s health.  
->  Legal Disclaimer  
->  We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site.  
->  Collection of Information  
->  As is true of most websites, we gather certain information automatically and store it in log files. This information Includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp and click Stream data. This Information collected will be used to research, analyze and evaluate trends and content featured on the website, to order to improve the services to our consumers. Website traffic, that is non-identifiable by person, is used in our data collection. We may use your IP address to assist in the diagnosis and administration of our website operations. It may also be utilized in the gathering of demographic data. Occasionally, we and other websites referred to may uses cookies.  
->  Cookies  
->  A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited.  
->  Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. See “Third Party Advertisers & Links.” This privacy statement covers the use of cookies by this website only and does not cover the use of cookies by any advertisers. [See the “Third Party Advertisers” section.]  
->  Third Party Advertisers Links  
->  Our websites contain links to other sites that are not owned or controlled by us. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each website to which we may link that may collect personally identifiable information. While we may use cookies in some parts of our website, cookies received with advertisements on our website are collected by the respective advertising companies, and we do not possess access to or control of such information gathered.  
->  We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.  
->  Specific Parties  
->  Google, as a third party vendor, uses cookies to serve ads on this site.  
->  Google’s use of the DART cookie enables it and its partners to serve ads to users based on their visit to this site and/or other sites on the Internet.  
->  Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.  
->  Your Rights  
->  If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by emailing us or by postal mail at the contact information listed below. In protection of the privacy of yourself and others, we may have to acquire identification evidence before we can allow you to access to information regarding you in order to retrieve or change it.  
->  Change in customer internet privacy statement  
->  From time to time we may revise its Privacy Policy if we make material changes to this policy, we will notify you here, either by email, or by means of a notice on our home page. Please check back periodically for any updates.
+At http://imakemoneyeasy.com/, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://imakemoneyeasy.com/ and how it is used.
 
-* * *
+**Log Files**  
+Like many other Web sites, http://imakemoneyeasy.com/ makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
+**Cookies and Web Beacons**  
+http://imakemoneyeasy.com/ does not use cookies.
 
+**DoubleClick DART Cookie**  
+.:: Google, as a third party vendor, uses cookies to serve ads on http://imakemoneyeasy.com/.  
+.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to http://imakemoneyeasy.com/ and other sites on the Internet.  
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
+Google Adsense  
+Commission Junction  
+Widget Bucks  
+Adbrite  
+Clickbank  
+Azoogle  
+Chitika  
+Linkshare  
+Amazon  
+Kontera
 
-  
- 
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on http://imakemoneyeasy.com/ send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-#### Thread Information
+http://imakemoneyeasy.com/ has no access to or control over these cookies that are used by third-party advertisers.
 
-##### Users Browsing this Thread
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://imakemoneyeasy.com/’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-There are currently 1 users browsing this thread. (0 members and 1 guests)
-
-
-
-
-####  [](http://www.imakemoneyeasy.com/threads/3209-Privacy-Policy#top) Posting Permissions 
-
-  * You **may not** post new threads
-  * You **may not** post replies
-  * You **may not** post attachments
-  * You **may not** edit your posts
-  *  
-
-
-
-[Forum Rules](http://www.imakemoneyeasy.com/misc.php?do=showrules)
-
-Powered by [vBulletin®](https://www.vbulletin.com/) Version 4.1.10   
-Copyright © 2012 vBulletin Solutions, Inc. All rights reserved. 
-
-I Make Money Easy 
-
-All times are GMT -5. The time now is 03:01 PM.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
