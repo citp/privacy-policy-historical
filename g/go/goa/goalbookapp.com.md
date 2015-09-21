@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goalbookapp.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317065638id_/https%3A//goalbookapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goalbookapp.com privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921155052id_/https%3A//goalbookapp.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Success For EVERY Student
 
@@ -48,7 +48,7 @@ If we gain knowledge that we have collected personally identifiable information 
 
 #### Your Choices:
 
-You may, of course, decline to share certain personally identifiable information with us, in which case we may not be able to provide to you some of the features and functionality of the Services. You may update, correct, or delete your profile information and preferences at any time by accessing your account preferences page through the Services. Please note that while your changes are reflected promptly in active user databases and will no longer be viewable by other users, we may retain information you submit for a variety of purposes, including backups and archiving, prevention of fraud and abuse, and analytics.
+You may, of course, decline to share certain personally identifiable information with us, in which case we may not be able to provide to you some of the features and functionality of the Services. You may update or correct your profile information and preferences at any time by accessing your account preferences page through the Services. You may request deletion of your account, including all profile information and any library data you stored on our system, by writing an email request from your email account to support@goalbookapp.com. Please note that while your changes are reflected promptly in active user databases, we may retain information you submit for a variety of purposes, including backups and archiving, prevention of fraud and abuse, and analytics.
 
 #### Third Party Services:
 
@@ -62,9 +62,9 @@ We use commercially reasonable physical, managerial, and technical safeguards to
 
 The website and Services are hosted in the United States. If you choose to use the Services from the European Union or other regions of the world with laws governing data collection and use that may differ from U.S. law, then please note that you are transferring your personally identifiable information outside of those regions to the United States and by providing your personally identifiable information on the Services you consent to that transfer.
 
-#### In the Event of Merger or Sale:
+#### In the Event of Merger or Sale or Bankruptcy:
 
-In the event that all or a portion of Enome, Inc. or its assets are acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information that we have collected from users in connection with such merger, acquisition, sale, or other change of control.
+In the event that all or a portion of Enome, Inc. or its assets are acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information that we have collected from users in connection with such merger, acquisition, sale, or other change of control. In the event that Enome goes into bankruptcy under Chapter 11, your personally identifiable information and library data will be deleted from our system.
 
 #### Changes and Updates to this Privacy Policy:
 
@@ -74,6 +74,6 @@ Please revisit this page periodically to stay aware of any changes to this Priva
 
 Please contact us with any questions or comments about this Privacy Policy, your personally identifiable information, our use and disclosure practices, or your consent choices by e-mail at privacy@goalbookapp.com.
 
-Enome, Inc. dba Goalbook  
-4 W 4th Ave, Suite 305  
-San Mateo, CA 94402 
+Enome, Inc. (Goalbook)  
+PO Box 1289  
+San Mateo, CA 94401 
