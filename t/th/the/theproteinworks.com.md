@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theproteinworks.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319062636id_/http%3A//www.theproteinworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theproteinworks.com privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922013927id_/http%3A//www.theproteinworks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -73,11 +73,9 @@ You may choose to restrict the collection or use of your personal information in
 
 
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.  
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Customer Service Department, The Protein Works™, Unit 2, Aragon Court, Manor Park, Runcorn, Cheshire, WA7 1SP, UK.  
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Customer Service Department, The Protein Works™, Unit 2, Aragon Court, Manor Park, Runcorn, Cheshire, WA7 1SP, UK. If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
-## List of cookies we collect
+## List of Cookies We Collect
 
 The table below lists the cookies we collect and what information they store.
 
