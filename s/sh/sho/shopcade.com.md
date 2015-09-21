@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shopcade.com privacy policy that was archived on 2015-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150412031024id_/http%3A//www.shopcade.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopcade.com privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921043258id_/https%3A//www.shopcade.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Shopcade: Your Personal Shopping App
+# Shopcade
 
 For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve the Service and to deliver a better and more personalized service. Shopvolution Limited ("we", "us" or "our") is committed to protecting and respecting your privacy. This policy (together with our [Terms of Service](http://apps.facebook.com/shopcade/tc) ) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
@@ -13,7 +13,7 @@ For the data protection purposes, the data controller is Shopvolution Limited, i
 
 We may collect and process the following data about you:
 
-Information that you provide to us when registering through our sites [www.shopcade.com](http://www.shopcade.com/) and [apps.facebook.com/shopcade](http://apps.facebook.com/shopcade) (the "Sites") including name, location and email address.
+Information that you provide to us when registering through our sites [www.shopcade.com](https://www.shopcade.com/) and [apps.facebook.com/shopcade](http://apps.facebook.com/shopcade) (the "Sites") including name, location and email address.
 
 Information that you allow us to collect from Facebook (or other social media website) through installing the Shopcade application on your Facebook profile (our "Service"). This includes your Facebook user account information including, but not limited to, information such as age, name, profile picture, gender, networks, user ID, list of friends and such friends' user IDs and any other information you have made available through your settings on Facebook.
 
