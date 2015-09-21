@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the propertyobserver.com.au privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318124231id_/http%3A//www.propertyobserver.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyobserver.com.au privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922013538id_/http%3A//www.propertyobserver.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
-The website, www.PropertyObserver.com.au and the Property Observer email alert are published by Private Media Pty Ltd (ABN 11 102 933 362). In this privacy policy Private Media Pty Ltd is referred to as “Property Observer”.
+The website, www.PropertyObserver.com.au and the Property Observer email alert are wholly owned by the Property Observer media group. This privacy policy relates directly to the Property Observer website and email alert. 
 
 **Privacy Policy Purpose**
 
@@ -18,12 +18,7 @@ Property Observer will not sell or receive payment for licensing or disclosing p
 
 **Access and Correction**
 
-Property Observer will provide, where possible, access for providers of personal information to their file. Providers may correct any information that is incorrect and instruct Property Observer to delete the information from its files. Those who have reason to believe information held is inaccurate should inform Property Observer by contacting:
-
-The Office Manager  
-Private Media Pty Ltd  
-Level 6, 22 William St  
-Melbourne, VIC, 3000
+Property Observer will provide, where possible, access for providers of personal information to their file. Providers may correct any information that is incorrect and instruct Property Observer to delete the information from its files. Those who have reason to believe information held is inaccurate should inform Property Observer by contacting Property Observer through the contact links published on the Property Observer website and email newsletter:
 
 Reasonable steps will be taken to correct the information so that it is accurate, complete and up to date.
 
@@ -33,12 +28,7 @@ Property Observer uses reasonable administrative, technical, personnel, and phys
 
 **Complaints About Privacy**
 
-Queries regarding privacy complaints and disputes should be addressed to:
-
-The Office Manager  
-Private Media Pty Ltd  
-Level 6, 22 William St  
-Melbourne, VIC, 3000
+Queries regarding privacy complaints and disputes should be addressed through the contact links published on the Property Observer website and email newsletter.
 
 Property Observer will investigate all complaints.
 
