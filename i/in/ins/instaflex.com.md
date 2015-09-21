@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the instaflex.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608051532id_/http%3A//www.instaflex.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instaflex.com privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921153912id_/http%3A//www.instaflex.com/privacy) for the most accurate reproduction.*
 
-# Instaflex Advanced|Privacy Policy
+# Instaflex Advanced – Get a Sample Today|Privacy Policy
 
 Welcome to the InstaFlex website (www.InstaFlex.com or the "Website"). This written policy (the "Privacy Policy") is designed to tell you about our practices regarding collection, use, and disclosure of information that you may provide via this Website and certain related services. Please be sure to read this entire Privacy Policy before using, or submitting information, to this Website.
 
