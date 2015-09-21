@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pho.to privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317002200id_/http%3A//pho.to/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pho.to privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921093941id_/http%3A//pho.to/policy) for the most accurate reproduction.*
 
 # Pho.to - Privacy policy
 
@@ -10,7 +10,7 @@ Your personal information at Pho.to
 
 We will never share your e-mail address or other identifiable information with any third party without your explicit consent. The following legal document will dictate how we will handle this information.
 
-This privacy policy together with our [Terms of Service](http://pho.to/terms.php) sets out how VicMan, ("VicMan" or "we") will use any personal data we collect from you, or you provide to us during your use of our online services ("Pho.to" or the "website").
+This privacy policy together with our [Terms of Service](http://pho.to/terms/) sets out how VicMan, ("VicMan" or "we") will use any personal data we collect from you, or you provide to us during your use of our online services ("Pho.to" or the "website").
 
 We respect the privacy of every individual who visits the website. Our policy on the collection and use of personal information is outlined below.  
 We will only disclose your information without your authorization in the following situations: 
@@ -24,13 +24,13 @@ We will only disclose your information without your authorization in the followi
 
 You are giving your consent to disclose your personal info (photos, albums, etc.) in the following situations:
 
-  * You upload a web album or a 3D album to Pho.to site either using our software or Photo! Presentation Widget service ([http://pho.to/widget3d](http://pho.to/widget3d/)), or using other options at Pho.to website.
+  * You upload a web album or a 3D album to Pho.to site either using our software or Photo! Presentation Widget service ([http://pho.to/widget3d](http://pho.to/album3d/)), or using other options at Pho.to website.
   * You share images with the "Share it!" button situated to the right of any of the Pho.to services. 
   * You share your photo at Pho.to site using any of the Pho.to services and share a link to this photo elsewhere on the internet. 
 
 
 
-We do not disclose your photos, which you have uploaded for editing and manipulation to any of the Pho.to services and which you see in the [file selection panel](http://pho.to/press/file-selection.php) at the top of a service page. These photos are stored at Pho.to temporarily and are visible only to you from the same IP address and from the same browser. These photos will be deleted from our server in 12 hours.
+We do not disclose your photos, which you have uploaded for editing and manipulation to any of the Pho.to services and which you see in the [file selection panel](http://pho.to/press/file-selection/) at the top of a service page. These photos are stored at Pho.to temporarily and are visible only to you from the same IP address and from the same browser. These photos will be deleted from our server in 12 hours.
 
 Non-Personal Details
 
