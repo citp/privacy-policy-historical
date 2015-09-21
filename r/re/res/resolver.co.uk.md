@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resolver.co.uk privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430035945id_/http%3A//www.resolver.co.uk/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resolver.co.uk privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921214829id_/http%3A//www.resolver.co.uk/our-privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | resolver
 
@@ -88,9 +88,17 @@ Information you give to us. We will use this information:
 
 We may share your personal information with any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
 
-We will share by secure means with MoneySavingExpert.com Limited (“MoneySavingExpert.com”) your personal information. By submitting personal information on our site, you consent to us passing your personal information on to MoneySavingExpert.com, which may be used in accordance with its [privacy policy](http://www.moneysavingexpert.com/site/privacy-policy "http://www.moneysavingexpert.com/site/privacy-policy").
+By submitting personal information on our site, you consent to us passing aggregated anonymised data on to MoneySavingExpert.com Limited (“MoneySavingExpert.com”). MoneySavingExpert.com may use this information for the purposes of:
 
-We will not share your information with third parties for the purpose of advertising or any other way of third parties contacting you.
+  * Measuring the performance and success of information and communications on their site
+  * Measuring the performance and success of any emails which MoneySavingExpert.com sends to Resolver users
+  * Calculating trends and patterns in relation to complaints and using the resulting data for internal business purposes and to publicise and highlight complaint resolution matters
+
+
+
+Where you’ve given your express permission for MoneySavingExpert.com to contact you, MoneySavingExpert.com may contact you about information and deals, including products and services and/or switching to alternative product or service providers that may be of interest to you.
+
+Save where expressly stated in this [privacy policy](http://www.moneysavingexpert.com/site/privacy-policy "http://www.moneysavingexpert.com/site/privacy-policy"), we will not share your information with third parties for the purpose of advertising or any other way of third parties contacting you.
 
 We do work with analytics and search engine providers that assist us in the improvement and optimisation of our site. 
 
