@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sparxitsolutions.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617031444id_/http%3A//www.sparxitsolutions.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparxitsolutions.com privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921095130id_/http%3A//www.sparxitsolutions.com/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - Sparx IT Solutions
 
