@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cytalk.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315001213id_/http%3A//www.cytalk.com/index.php%3Fmenu%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cytalk.com privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921160929id_/http%3A//www.cytalk.com/index.php%3Fmenu%3Dprivacy) for the most accurate reproduction.*
 
 # CY.TALK: Your premium quality internet telephony provider
 
