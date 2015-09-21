@@ -1,39 +1,58 @@
-> *The following text is extracted and transformed from the buzzquotes.com privacy policy that was archived on 2008-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080308142701id_/http%3A//buzzquotes.com/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzquotes.com privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922013628id_/http%3A//www.buzzquotes.com/privacy-policy.php) for the most accurate reproduction.*
 
-# BuzzQuotes.com|Privacy
+# All Topics - image quotes at BuzzQuotes.com
 
-**BuzzQuotes.com** is committed to maintaining your privacy. The following discloses our information gathering and dissemination practices for this website:
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at . At www.BuzzQUOTES.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by www.BuzzQUOTES.com and how we use it.
 
-This Privacy Policy is incorporated into, and part of, the Terms and Conditions, which govern your use of the Site in general.
+**Log Files**
 
-We use cookies to deliver content specific to your interests and to save your password so you don't have to re-enter it each time you visit our site.
+Like many other Web sites, www.BuzzQUOTES.com makes use of log files. These files merely logs visitors to the site - usually a standard procedure for hosting companies and a part of hosting services's analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-Some of our forms require users to give us contact information (for example name and email address) and demographic information (for example zip code, or budget level). We use customer contact information from the registration form to send the user information. The customer's contact information is also used to contact the customer when appropriate. Users may opt-out of receiving future mailings.
+**Cookies and Web Beacons**
 
-This site contains links to other sites. **BuzzQuotes.com** is not responsible for the privacy practices or the content of such Web sites.
+www.BuzzQUOTES.com uses cookies to store information about visitors' preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors' browser type or other information that the visitor sends via their browser.
 
-We are not Mortgage agents. We do NOT provide legal advice, and we do NOT do any mortgage services. Please consult with a licensed professional if you need advice regarding the purchase of any home service product. 
+**DoubleClick DART Cookie**
 
-Our advertiser sites are solely responsible for the content they provide. We shall not be responsible or liable for any products, services, or information associated with their sites. We are also not responsible for the Privacy Policies or Practices of the sites we link to. Please read the Privacy Policies available on all linked web sites for complete information.
+→ Google, as a third party vendor, uses cookies to serve ads on www.BuzzQUOTES.com.
 
-**Security**
+→ Google's use of the DART cookie enables it to serve ads to our site's visitors based upon their visit to www.BuzzQUOTES.com and other sites on the Internet. 
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html
 
-**Children's Guidelines**
+**Our Advertising Partners**
 
-**BuzzQuotes.com**
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....... 
 
-1\. Does NOT collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent.
+Google
 
-2\. Does NOT collect personally identifiable offline contact information without prior parental consent. 
+PulsePoint
 
-3\. Does NOT distribute to third parties any personally identifiable information with out prior parental consent. 
+Infolinks
 
-4\. Does NOT give the ability to publicly post or otherwise distribute personally identifiable contact information without prior parental consent.
+While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here: Privacy Policies.
 
-5\. Does NOT entice by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity. 
+You may consult this listing to find the privacy policy for each of the advertising partners of www.BuzzQUOTES.com.
 
-**Opt-Out**
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on www.BuzzQUOTES.com and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site's third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
 
-Our site provides users the opportunity to opt-out of receiving communications from us. To opt out send an email to [customerService@BuzzQuotes.com](mailto:customerService@BuzzQuotes.com)
+www.BuzzQUOTES.com has no access to or control over these cookies that are used by third-party advertisers.
+
+**Third Party Privacy Policies**
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.BuzzQUOTES.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: Privacy Policy Links.
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. What Are Cookies?  
+
+
+**Children's Information**
+
+We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. www.BuzzQUOTES.com does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that www.BuzzQUOTES.com has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
+
+**Online Privacy Policy Only**
+
+This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there. This policy does not apply to any information collected offline or via channels other than this website.
+
+**Consent**
+
+By using our website, you hereby consent to our privacy policy and agree to its terms.
