@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bigoven.com privacy policy that was archived on 2015-03-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150319085743id_/http%3A//www.bigoven.com/site/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bigoven.com privacy policy that was archived on 2015-09-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150921085025id_/http%3A//www.bigoven.com/site/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
         <!-- Start Visual Website Optimizer Asynchronous Code -->
@@ -12,7 +12,7 @@
                     // DO NOT EDIT BELOW THIS LINE
                     f = false, d = document; return { use_existing_jquery: function () { return use_existing_jquery; }, library_tolerance: function () { return library_tolerance; }, finish: function () { if (!f) { f = true; var a = d.getElementById('_vis_opt_path_hides'); if (a) a.parentNode.removeChild(a); } }, finished: function () { return f; }, load: function (a) { var b = d.createElement('script'); b.src = a; b.type = 'text/javascript'; b.innerText; b.onerror = function () { _vwo_code.finish(); }; d.getElementsByTagName('head')[0].appendChild(b); }, init: function () { settings_timer = setTimeout('_vwo_code.finish()', settings_tolerance); this.load('//dev.visualwebsiteoptimizer.com/j.php?a=' + account_id + '&u=' + encodeURIComponent(d.URL) + '&r=' + Math.random()); var a = d.createElement('style'), b = 'body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}', h = d.getElementsByTagName('head')[0]; a.setAttribute('id', '_vis_opt_path_hides'); a.setAttribute('type', 'text/css'); if (a.styleSheet) a.styleSheet.cssText = b; else a.appendChild(d.createTextNode(b)); h.appendChild(a); return settings_timer; } };
             }()); _vwo_settings_timer = _vwo_code.init();
-        </script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=72410&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20150319085743id_%2Fhttp%253A%2F%2Fwww.bigoven.com%2Fsite%2Fprivacy&amp;r=0.8148938877550187" type="text/javascript"></script>
+        </script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=72410&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20150921085025id_%2Fhttp%253A%2F%2Fwww.bigoven.com%2Fsite%2Fprivacy&amp;r=0.49535866383631255" type="text/javascript"></script>
         <script>
             var _comscore = _comscore || [];
             _comscore.push({ c1: "2", c2: "18575900" });
@@ -41,7 +41,7 @@
 <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">        <meta name="apple-mobile-web-app-title" content="BigOven">
         <link href="/bundles/jqueryuicss?v=aqwjO9kkiT3Le7TMaiT918kKDlAh1vkDNEDOHv0LKgw1" rel="stylesheet">
 
-        <link href="/content/bootstrap?v=JPRtBYCyUrObO9MUGEOjW50qLX57csPy4XXaRlsvV_g1" rel="stylesheet">
+        <link href="/content/bootstrap?v=fklqE3eSGE8qo-PoexRU2yIXG7ToDNQMHkWUtRXNDbE1" rel="stylesheet">
 
         <script src="/bundles/jquery?v=M6dmVkrHVhoZ1gfOtvVDZbgBcQTsbWxoLsRizcGkbPk1"></script>
 
@@ -49,7 +49,7 @@
 
         <script src="/bundles/jqueryui?v=tY6OgGCT75o444y61QS1O4aw53gZZEMxEShWnQ-YqdI1"></script>
 
-        <script src="/bundles/bigoven?v=QLwqvnlBP9ptbTuj7x_xflH5s0nzy6DibZha6dyROQ41"></script>
+        <script src="/bundles/bigoven?v=MRgKR7_4YAA7S6iNob0iu8_WrrAmBtGFj20omGU_Zm01"></script>
 
         <script type="text/javascript" src="/scripts/helpers/jquery.fancybox-media.js"></script>
         
@@ -100,8 +100,8 @@
 
     .nav-bigoven {
         padding-bottom: 15px;
-        background: ;
     }
+    .typeahead:focus { border: 2px solid #ccc;}
 
     .bigoven-logo {
         /*width: 60%;*/
@@ -115,7 +115,7 @@
     }
 
     .avatar {
-        margin-top: 8px;''
+        margin-top: 8px;
     }
 
     .avatar-img {
@@ -137,7 +137,14 @@
         vertical-align: middle;
     }
 
-    .ss-smartphone {
+    .ss-settings {
+        color: #6f6f6f;
+        font-size: 12px;
+        padding-right: 10px;
+        vertical-align: middle;
+    }
+
+    .ss-smartphone, .ss-users {
         color: #6f6f6f;
         font-size: 12px;
         padding-right: 8px;
@@ -341,12 +348,12 @@
             </button>
 
             <div class="navbar-collapse collapse no-transition">
-                         <form class="navbar-form navbar-left navbar-search hidden-xs" role="search">
-                             <div class="input-group">
-                                 <input type="text" class="form-control" id="txtSearch" placeholder="Search Recipes">
-                                 <span class="input-group-btn"><button id="magButton" class="btn btn-default" type="button" data-loading-text="..." onclick=" javascript:doSimpleSearch($('#txtSearch').prop('value')); "><i class="fa fa-search"></i></button></span>
-                             </div>
-                         </form>
+                        <form class="navbar-form navbar-left navbar-search hidden-xs" role="search">
+                            <div class="input-group">
+                                <input type="text" class="xform-control typeahead" id="txtSearch" placeholder="Search Recipes" style="max-width:165px;">
+                                <span class="input-group-btn"><button id="magButton" class="btn btn-default" type="button" data-loading-text="..." onclick=" javascript:doSimpleSearch($('#txtSearch').prop('value')); "><i class="fa fa-search"></i></button></span>
+                            </div>
+                        </form>
                 
 <div class="nav-tool-bar navbar-right hidden-xs">
                      <a href="/account/facebook" class="btn btnstateless btn-join">Join Free</a>
@@ -359,49 +366,123 @@
                         <a href="javascript:void(0);" onclick="showLoginDialog('/grocery');" class="btn btnstateless btn-tool-bar navbar-right tip" data-toggle="tooltip" data-placement="bottom" title="Grocery List"><i class="ss ss-cart"></i> </a>
                         <a href="javascript:void(0);" onclick="showLoginDialog('/myrecipes');" class="btn btnstateless btn-tool-bar navbar-right tip" data-toggle="tooltip" data-placement="bottom" title="My Recipes"><i class="ss ss-openbook"></i> </a>
                     <a href="/recipes" class="btn btnstateless btn-tool-bar navbar-right tip" data-toggle="tooltip" data-placement="bottom" title="Get Ideas"><i class="ss ss-utensils"></i> </a>
+                        <a href="/pro" class="btn btnstateless hidden-md" id="tryBigOvenPro"></a>
                 </div>
 
                 <div class="input-group nav-tool-bar-collapse visible-xs no-transition">
                     
-                        <div style="display: block; min-width: 300px;">
-                            <br>
-    <form class="navbar-search-collapse" role="search" style="padding-left: 40px;">
-        <div class="input-group">
-            <input type="text" id="txtSearchCollapse" class="form-control" placeholder="Search Recipes">
-            <span class="input-group-btn"><button class="btn btn-default" type="button" data-loading-text="..." onclick=" javascript: doSimpleSearch($('#txtSearchCollapse').prop('value')); "><i class="fa fa-search"></i></button></span>
-        </div>
-    </form>
+                    <div style="display: block; min-width: 300px;">
+                        <br>
+                            <form class="navbar-search-collapse" role="search" style="padding-left: 40px;">
+                                <div class="input-group">
+                                    <input type="text" id="txtSearchCollapse" class="form-control" placeholder="Search Recipes">
+                                    <span class="input-group-btn"><button class="btn btn-default" type="button" data-loading-text="..." onclick=" javascript: doSimpleSearch($('#txtSearchCollapse').prop('value')); "><i class="fa fa-search"></i></button></span>
+                                </div>
+                            </form>
+                        <ul>
+                            <li><a href="/recipes"><i class="ss ss-utensils icons-collapse"></i> Get Ideas</a></li>
+                                <li><a href="javascript:void(0);" onclick=" javascript: showLoginDialog('/myrecipes'); "><i class="ss ss-openbook icons-collapse"></i> My Recipes</a></li>
+                                                            <li><a href="javascript:void(0);" onclick=" javascript: showLoginDialog('/grocery'); "><i class="ss ss-cart icons-collapse"></i> Grocery List</a></li>
+                                                            <li><a href="javascript:void(0);" onclick=" javascript: showLoginDialog('/menu'); "><i class="ss ss-calendar icons-collapse"></i> Menu Planner</a></li>
+                            <li><a href="/recipes/leftover"><i class="ss ss-repeat icons-collapse"></i> Use Up Leftovers</a></li>
+                                <li><a href="javascript:void(0);" onclick=" showLoginDialog('/recipes/post'); "><i class="fa fa-plus icons-collapse"></i> Add Recipe</a></li>
+                        </ul>
                             <ul>
-                                <li><a href="/recipes"><i class="ss ss-utensils icons-collapse"></i> Get Ideas</a></li>
-                                    <li><a href="javascript:void(0);" onclick=" javascript: showLoginDialog('/myrecipes'); "><i class="ss ss-openbook icons-collapse"></i> My Recipes</a></li>
-                                                                    <li><a href="javascript:void(0);" onclick=" javascript: showLoginDialog('/grocery'); "><i class="ss ss-cart icons-collapse"></i> Grocery List</a></li>
-                                                                    <li><a href="javascript:void(0);" onclick=" javascript: showLoginDialog('/menu'); "><i class="ss ss-calendar icons-collapse"></i> Menu Planner</a></li>
-                                <li><a href="/recipes/leftover"><i class="ss ss-repeat icons-collapse"></i> Use Up Leftovers</a></li>
-                                    <li><a href="javascript:void(0);" onclick=" showLoginDialog('/recipes/post'); "><i class="fa fa-plus icons-collapse"></i> Add Recipe</a></li>
+                                <li class="bold-buttons-in-hamburger"><a href="/account/facebook">JOIN FREE</a></li>
+                                <li class="bold-buttons-in-hamburger"><a href="/account/login">SIGN IN</a></li>
                             </ul>
-                                <ul>
-                                    <li class="bold-buttons-in-hamburger"><a href="/account/facebook">JOIN FREE</a></li>
-                                    <li class="bold-buttons-in-hamburger"><a href="/account/login">SIGN IN</a></li>
-                                </ul>
-                        </div>
+                    </div>
                     
                 </div>
             </div>
         </div>
-      </nav>
+    </nav>
 </div>
-<script type="text/javascript">
-        $(document).ready(function(){
-            //$(".tip").tooltip();
-            $(document).on("keyup", "#txtSearch", function(event) {
-                if (event.which == 13) {
-                    $("#magButton").html("...");
-                    doSimpleSearch($('#txtSearch').prop('value'));
-                }
-            });
-        });
-</script>
-        <div class="wrapper">
+<script>
+    
+    var bestRecipes = new Bloodhound({
+        datumTokenizer: Bloodhound.tokenizers.obj.whitespace('value'),
+        queryTokenizer: Bloodhound.tokenizers.whitespace,
+
+        remote: {
+            url: '/recipe/autocomplete?prefix=%QUERY',
+            wildcard: '%QUERY'
+        }
+    });
+
+    var suppressTabComplete = false;
+
+    $("#txtSearch").typeahead(null, {
+        name: 'best-recipes',
+        //display: 'value',
+        limit: 12,
+        highlight: true,
+        minLength: 2,
+        source: bestRecipes,
+        templates: {
+            empty: [
+                ''
+            ].join('\n'),
+            suggestion: function (data) {
+                return '<div>'+data+'</div>';
+            }
+        }
+    });
+
+
+
+
+    var nProUpsell = 0;
+    function updatePro() {
+        switch (nProUpsell) {
+        case 0:
+            $("#tryBigOvenPro").css("display", "none");
+            $("#tryBigOvenPro").html("<i class=\"fa fa-star\"></i> Try BigOven Pro free!");
+            $("#tryBigOvenPro").fadeIn();
+
+            break;
+        case 1:
+            $("#tryBigOvenPro").css("display", "none");
+            $("#tryBigOvenPro").html("<i class=\"fa fa-star\"></i> Customize any recipe");
+            $("#tryBigOvenPro").fadeIn();
+
+            break;
+        case 2:
+            $("#tryBigOvenPro").css("display", "none");
+            $("#tryBigOvenPro").html("<i class=\"fa fa-star\"></i> Create folders");
+            $("#tryBigOvenPro").fadeIn();
+
+            break;
+        case 3:
+            $("#tryBigOvenPro").css("display", "none");
+            $("#tryBigOvenPro").html("<i class=\"fa fa-star\"></i> Get nutrition facts");
+            $("#tryBigOvenPro").fadeIn();
+
+            break;
+        default:
+            $("#tryBigOvenPro").css("display", "none");
+            $("#tryBigOvenPro").html("<i class=\"fa fa-star\"></i> Unlimited recipe storage");
+            $("#tryBigOvenPro").fadeIn();
+            break;
+
+        }
+        nProUpsell++;
+        if (nProUpsell > 4) { nProUpsell = 0; }
+        
+    }
+
+    function runner() {
+        updatePro();
+        
+        setTimeout(function() { 
+            runner();
+        }, 10000);
+    }
+
+    runner();
+
+</script>        <div class="wrapper">
+
             <div>
                 
     <ol class="breadcrumb">
@@ -412,8 +493,7 @@
             </div>
 
             <div class="container">
-               
-
+                
                                 <div id="fb-root"></div>
                 
 
@@ -516,7 +596,7 @@
             </div>
         </div> 
 
-
+       
         
 
         <div id="pleaseLogin" class="modal fade">
@@ -533,14 +613,17 @@
                         </div>
                         <div style="margin:auto;margin-bottom:2em;">
                             <div class="text-center">
-                                <form action="/account/createtemp" method="post">
-                                    <input name="ReturnUrl" type="hidden" id="ReturnUrlID">
-                                    <button onmousedown="window.location = '/account/facebook?ReturnUrl=%2fsite%2fprivacy';" style="background-color: #398439; border-color: #398439; " class="btn btn-lg btn-success btnstateless">Sign Up Free</button>
-                                    <input type="submit" class="btn btn-primary btn-lg" style="background-color:#5079cd;border-color:#5079cd;" data-loading-text="One moment..." value="Test it out">
-                                </form>
+                                
+                                
+                                    <form action="/account/createtemp" method="post">
+                                        <input name="ReturnUrl" type="hidden" id="ReturnUrlID">
+                                        <button onmousedown="window.location = '/account/facebook?ReturnUrl=%2fsite%2fprivacy';" style="background-color: #398439; border-color: #398439; " class="btn btn-lg btn-success btnstateless">Sign Up Free</button>
+                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="submit" class="btn btn-primary btn-lg" style="background-color:#5079cd;border-color:#5079cd;" data-loading-text="One moment..." value="Test It Out Free">
+                                    </form>
+                                
                             </div>
-
-                            <div style="clear:both;text-align:center;padding-top:2em;">
+                            
+                            <div style="clear:both;text-align:center;padding-top:1.4em; padding-bottom:1.4em;">
                                 <a href="/account/login?ReturnUrl=%2fsite%2fprivacy">Already a member? <b>Sign in</b>.</a>
                             </div>
                             
@@ -584,7 +667,7 @@
 
 
     <div class="container-fluid tryProBanner">
-        <span class="tryProText">Add unlimited recipes. Organize in custom folders. Find recipes for your diet.</span>
+        <span class="tryProText">Add unlimited recipes. Remove ads. Custom folders. Find recipes for your diet.</span>
         <a href="/pro" class="btn btn-primary tryProButton" data-loading-text="Try BigOven Pro Free">Try BigOven Pro Free</a>
     </div>
 <footer>
@@ -659,6 +742,11 @@
                     } else {
                         return true;
                     }
+                });
+                $("#btnGo").click(function (e){
+                        $('#btnGo').button('loading');
+                        doSimpleSearch($('#txtSearch').prop('value'));
+                        return false;
                 });
             });
         </script>
