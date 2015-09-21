@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reddotpayment.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627164344id_/http%3A//www.reddotpayment.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reddotpayment.com privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921121048id_/http%3A//www.reddotpayment.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
