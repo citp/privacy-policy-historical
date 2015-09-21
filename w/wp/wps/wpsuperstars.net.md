@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpsuperstars.net privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410001307id_/http%3A//www.wpsuperstars.net/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpsuperstars.net privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921190253id_/http%3A//www.wpsuperstars.net/privacy-cookies) for the most accurate reproduction.*
 
 # Privacy and Cookies - WP Superstars
 
