@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recruiter.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315024939id_/http%3A//recruiter.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recruiter.com privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921220041id_/https%3A//www.recruiter.com/privacy.html) for the most accurate reproduction.*
 
 # Recruiter: Privacy Policy
 
@@ -27,6 +27,8 @@ Recruiter.com may also use your personally identifiable information to inform yo
 
 Recruiter.com may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. Recruiter.com may share data with trusted partners to help perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Recruiter.com, and they are required to maintain the confidentiality of your information. 
 
+Recruiter.com may, from time to time, work with trusted external third parties to provide or sponsor special content, such as eBooks, videos, and white papers. In those cases, your unique personally identifiable information (such as e-mail, name, address, telephone number) may be shared with the trusted third party that is responsible for the specific special piece of content that you downloaded. In addition, Recruiter.com provides hosted career content (such as job postings.) When you apply to a job or register for such career content, Recruiter.com may share your information, including resume and other personally identifiable information with an intermediate third-party and/or the direct employer for the purpose of conveying your intent of applying to the position. 
+
 Recruiter.com may keep track of the websites and pages our users visit within Recruiter.com, in order to determine what Recruiter.com services are the most popular. This data is used to deliver customized content and advertising within Recruiter.com to customers whose behavior indicates that they are interested in a particular subject area. 
 
 Recruiter.com may disclose your personal information, without notice, if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Recruiter.com or the site; (b) protect and defend the rights or property of Recruiter.com; and, (c) act under exigent circumstances to protect the personal safety of users of Recruiter.com, or the public. 
@@ -48,7 +50,7 @@ Recruiter.com does not knowingly collect personally identifiable information fro
 We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from Recruiter.com by contacting us here:   
 \- Web page: https://www.recruiter.com/contact.html  
 \- Email: info@recruiter.com  
-\- Phone: 860-321-7614
+\- Phone: 888-925-7010
 
 **Changes to this Statement**   
 Recruiter.com will occasionally update this Statement of Privacy to reflect company and customer feedback. Recruiter.com encourages you to periodically review this Statement to be informed of how Recruiter.com is protecting your information. 
@@ -63,6 +65,6 @@ Email Address:
 info@recruiter.com
 
 Telephone number:   
-860-321-7614
+888-925-7010
 
 Effective as of July 15, 2013 
