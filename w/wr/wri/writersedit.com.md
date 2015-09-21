@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the writersedit.com privacy policy that was archived on 2015-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150520092309id_/http%3A//www.writersedit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the writersedit.com privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921165401id_/http%3A//www.writersedit.com/privacy-policy) for the most accurate reproduction.*
 
 # Writer's Edit Privacy Policy - Writer's Edit
 
