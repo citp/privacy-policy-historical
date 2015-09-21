@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adparlor.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504131533id_/http%3A//adparlor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adparlor.com privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921134940id_/http%3A//adparlor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AdParlor
 
@@ -8,7 +8,7 @@
 
 **This Policy may change from time to time.   Please check back for updates.**
 
-AdParlor Media ULC (“AdParlor”, “we”, or “us”) respects and protects the privacy of consumers.  This Privacy Policy (“Policy”) describes what information we collect, how we use that information, and some of your privacy rights regarding that information. 
+AdParlor Media ULC (“AdParlor”, “we”, or “us”) respects and protects the privacy of consumers.  This Privacy Policy (“Policy”) describes what information we collect, how we use that information, and some of your privacy rights regarding that information.
 
 **Collection of Information and Your Privacy Rights**
 
@@ -17,7 +17,7 @@ _What information we collect and how we collect it._
 AdParlor does not collect or retain the following consumer information: name, race, religion, sexual orientation, health, social security number (or other government issued identifying number), insurance plan number, financial account number, information relaying precise, real-time location data (e.g. through GPS or other location-based services), or information about past, present or future health or medical condition.  Occasionally, AdParlor may receive consumer information, such as email addresses, from its advertising clients in connection with specific advertising campaigns.
 
 AdParlor collects user submitted information such as name, email and password data to authenticate users, authenticate its commercial users, (AdParlor accounts and account services are available only to advertisers; they are not available to consumers), and to send notifications to those users relating to the AdParlor service. This information is not shared to anyone and is used by AdParlor so we can customize your experience and protect the security of your account.  
-We may also use a user’s email address to send updates, a newsletter or news regarding   
+We may also use a user’s email address to send updates, a newsletter or news regarding  
 Adparlor’s services.
 
 AdParlor may also collect information from business partners, such as advertisers and agencies, on AdParlor’s website or self-service product offerings as necessary to provide services to those business partners.  This may include, but is not limited to, names, email addresses, phone numbers, physical addresses, and other information provided by business partners to AdParlor through such a website or product offering (“Business Information”).  Such information may be used and shared as necessary to perform AdParlor’s services for those business partners.
@@ -36,7 +36,7 @@ _How we use and share the information we collect._
 
 Except as otherwise described in this privacy policy, AdParlor will not disclose personal information to any third party unless we believe that disclosure is necessary: (1) to conform to legal requirements or to respond to a subpoena, search warrant or other legal process received by AdParlor, whether or not a response is required by applicable law; (2) to enforce the AdParlor Terms of Use Agreement or to protect our rights; or (3) to protect the safety of members of the public and users of the service.
 
-AdParlor reserves the right to transfer personal information to a successor in interest that acquires rights to that information as a result of the sale of AdParlor or substantially all of its assets to that successor in interest. AdParlor may also transfer information it collects to affiliated entities, parent companies, or subsidiaries, in AdParlor’s Discretion.  For more information see the "Changes in Our Privacy Policy" section below. 
+AdParlor reserves the right to transfer personal information to a successor in interest that acquires rights to that information as a result of the sale of AdParlor or substantially all of its assets to that successor in interest. AdParlor may also transfer information it collects to affiliated entities, parent companies, or subsidiaries, in AdParlor’s Discretion.  For more information see the “Changes in Our Privacy Policy” section below.
 
 _How we store and protect the information we receive._
 
@@ -58,7 +58,7 @@ Suite 400
 Toronto ON, M5V 2L3  
 Canada
 
-Or by sending email to [privacy at adparlor.com](mailto:privacy@adparlor.com) subject "DELETE ACCOUNT" — please note that the email must come from the account you wish to delete.
+Or by sending email to [privacy at adparlor.com](mailto:privacy@adparlor.com) subject “DELETE ACCOUNT” — please note that the email must come from the account you wish to delete.
 
 If you would like access to personal information we may have about you in our files, to correct, update, or to have us delete it, or would like to notify us of your choice to opt out of the sharing of any of your personal information, please contact us at the email address or physical address at the end of this Privacy Policy.
 
@@ -66,11 +66,11 @@ Please note that, notwithstanding any requests otherwise, Business Information m
 
 **More Information**
 
-_Changes in our Privacy Policy_  
+_Changes in our Privacy Policy_
 
-From time to time we may make changes to our privacy policy. If we make changes, we will post them on our site to make users aware of what the changes are so users will always be aware of what information we collect, how we use it, and when we may disclose it. A user is bound by any changes to the policy when she or he uses the site after those changes have been posted.  
+From time to time we may make changes to our privacy policy. If we make changes, we will post them on our site to make users aware of what the changes are so users will always be aware of what information we collect, how we use it, and when we may disclose it. A user is bound by any changes to the policy when she or he uses the site after those changes have been posted.
 
-_Additional resources and contact information._  
+_Additional resources and contact information._
 
 AdParlor is a wholly-owned subsidiary of Adknowledge, Inc.  For more information about protecting your privacy, you may wish to visit [www.netcoalition.com](http://www.netcoalition.com/), and [www.privacyalliance.org](http://www.privacyalliance.org/).  We reserve the right to update this Policy at any time by re-publishing it to this website with a new effective date.
 
