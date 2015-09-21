@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the m-files.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325131442id_/http%3A//www.m-files.com/en/privacy-policy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the m-files.com privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921211803id_/http%3A//www.m-files.com/en/privacy-policy-statement) for the most accurate reproduction.*
 
-# None
+# Privacy Policy Statement | M-Files
 
 ### M-Files Privacy Statement
 
