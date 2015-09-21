@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sextoy.com privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410075150id_/http%3A//www.sextoy.com/infopage.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sextoy.com privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921212349id_/http%3A//www.sextoy.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Sex Toys and Adult Products for sale with discreet shipping and billing
+# SexToy.com - Privacy Policy
 
 ### WE SHARE YOUR CONCERNS ABOUT SAFEGUARDING PERSONAL INFORMATION
 
