@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the privatetunnel.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315045636id_/https%3A//www.privatetunnel.com/index.php/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privatetunnel.com privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921183432id_/https%3A//www.privatetunnel.com/home/privacy-policy) for the most accurate reproduction.*
 
-# Private Tunnel - Your Private Tunnel to the Internet
+# Privacy Policy | Private Tunnel
 
 **What information do we collect**?
 
@@ -42,7 +42,7 @@ After a transaction, your private information (credit cards, financials, etc.) w
 
 We do use cookies.
 
-A cookie is a piece of data that a Web site can send to your browser, which may then be stored on your computer as a tag that identifies your computer. While cookies are often only used to measure Web site usage and effectiveness and to allow for ease of navigation or use and as such, are not associated with any personal information, they are also used at times to personalize a known visitor's experience to a Web site by being associated with profile information or user preferences. You can set your browser in most instances to notify you before you receive a cookie, giving you the chance to decide whether to accept it or not. You can also generally set your browser to turn off cookies. Since cookies allow you to take advantage of some of our Web sites' features, we recommend that you leave them turned on. If you block or otherwise reject our cookies, you will not be able to use any Web site services that require you to sign in
+A cookie is a piece of data that a Web site can send to your browser, which may then be stored on your computer as a tag that identifies your computer. While cookies are often only used to measure Web site usage and effectiveness and to allow for ease of navigation or use and as such, are not associated with any personal information, they are also used at times to personalize a known visitor’s experience to a Web site by being associated with profile information or user preferences. You can set your browser in most instances to notify you before you receive a cookie, giving you the chance to decide whether to accept it or not. You can also generally set your browser to turn off cookies. Since cookies allow you to take advantage of some of our Web sites’ features, we recommend that you leave them turned on. If you block or otherwise reject our cookies, you will not be able to use any Web site services that require you to sign in
 
 **Do we disclose any information to outside parties**?
 
@@ -76,9 +76,9 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-PrivateTunnel.com   
-5980 Stoneridge Dr, Suite 103   
-Pleasanton, California 94588   
+PrivateTunnel.com  
+5980 Stoneridge Dr, Suite 103  
+Pleasanton, California 94588  
 USA
 
-support@privatetunnel.com
+[support@privatetunnel.com](mailto:support@privatetunnel.com)
