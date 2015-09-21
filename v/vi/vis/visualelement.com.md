@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visualelement.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628002512id_/http%3A//www.visualelement.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visualelement.com privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921041840id_/http%3A//www.visualelement.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
