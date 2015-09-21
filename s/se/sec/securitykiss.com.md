@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the securitykiss.com privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430135644id_/http%3A//www.securitykiss.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securitykiss.com privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921140424id_/https%3A//securitykiss.com/about/privacypolicy) for the most accurate reproduction.*
 
 # SecurityKISS - Free VPN Service
 
@@ -54,7 +54,7 @@ We have security measures in place to protect the loss, misuse and alteration of
 
 We will never release any information about you or your account to anyone except law enforcement personnel with the proper documentation and paperwork. We do not and will not monitor user sessions for inappropriate behavior, unless compelled to by law enforcement with proper documentation and paperwork.
 
-We are under Ireland jurisdiction. It has never happened that we disclosed users information to anyone.
+We are under Ireland jurisdiction. It has never happened that we were requested by any authority for anything.
 
   
 
@@ -62,5 +62,5 @@ We are under Ireland jurisdiction. It has never happened that we disclosed users
 ### Important note
 
 SecurityKISS is unique with regard to privacy and anonymity because registration is not required to use our service, we are not aware of any other VPN service that does not require registration.   
-In the free version we do not even need your email address, go to the website, download the program and connect.  
+In the free version we do not even need your email address, go to the website, download and use.  
 How can you achieve more anonymity?
