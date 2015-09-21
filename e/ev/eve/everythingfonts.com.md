@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everythingfonts.com privacy policy that was archived on 2015-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150405164843id_/https%3A//everythingfonts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everythingfonts.com privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921232720id_/https%3A//everythingfonts.com/privacy) for the most accurate reproduction.*
 
 # Everything Fonts Privacy Statement
 
