@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roomster.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322143834id_/https%3A//www.roomster.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roomster.com privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921234225id_/https%3A//www.roomster.com/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
