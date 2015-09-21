@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the raymond.cc privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316131256id_/https%3A//www.raymond.cc/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raymond.cc privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921193332id_/https%3A//www.raymond.cc/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • Raymond.CC
 
-[__Home](https://www.raymond.cc/blog) » Privacy Policy
+[__Home](https://www.raymond.cc/blog/) » Privacy Policy
 
 _**Communicating with us**_
 
@@ -33,10 +33,3 @@ A “cookie” is a small data text file that is placed in your browser and allo
 We may update this privacy statement to reflect changes to our information gathering practices. We encourage you to periodically review this page for the latest information on our privacy practices.
 
 Feel free to get in touch if you have any questions or concerns regarding our Privacy Policy.
-
- _ **Privacy Policy Validation and Certification**_
-
-Our Privacy Policy is verified by the famous [TRUSTe](http://www.truste.com/) to be accurate and up-to-date.
-
-[ Privacy Policy](https://privacy.truste.com/reseller/privacy-policy/RAYMONDCC-TECH-%28Blog%29/certified/694c36aa-b75c-4954-9eb6-1944ffc4adbb "RAYMONDCC TECH \(Blog\) Privacy Policy")  
-[](https://privacy.truste.com/privacy-seal/RAYMONDCC-TECH-%28Blog%29/validation?validationId=eac148ef-3c4b-4511-9c9e-05fc5b5c5ce5 "RAYMONDCC TECH \(Blog\) Privacy Seal Certification")
