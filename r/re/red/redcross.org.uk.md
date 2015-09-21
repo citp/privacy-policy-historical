@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the redcross.org.uk privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627195944id_/http%3A//www.redcross.org.uk/en/Header-Footer-Links/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redcross.org.uk privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921193015id_/http%3A//www.redcross.org.uk/Header-Footer-Links/Privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy and cookies document | British Red Cross
 
-At the British Red Cross we are committed to protecting your privacy. When you interact with us by phone, mail, in person or online, we sometimes receive personal information about you. This page, together with [our website terms and conditions](https://web.archive.org/en/Header-Footer-Links/Terms-and-conditions), tells you about how we collect, use and store your personal information.
+At the British Red Cross we are committed to protecting your privacy. When you interact with us by phone, mail, in person or online, we sometimes receive personal information about you. This page, together with [our website terms and conditions](https://web.archive.org/Header-Footer-Links/Terms-and-conditions), tells you about how we collect, use and store your personal information.
 
 Please read this policy carefully to understand how we collect, use and store your personal data.
 
-If you have any queries about our privacy policy, please contact our supporter care team at [supportercare@redcross.org.uk](mailto:supportercare@redcross.org.uk) or call us on 0844 87 100 87.
+If you have any queries about our privacy policy, please contact our supporter care team at [supportercare@redcross.org.uk](mailto:supportercare@redcross.org.uk) or call us on 0300 456 1155.
 
   * What this policy takes into account
   * How we collect information about you
@@ -67,11 +67,11 @@ We will use your information to:
 
 
 
-To do some of this, we may need to share your information with other companies such as our trading subsidiaries, service providers, associated organisations and agents. But we will only share your information for marketing purposes if you have already given us permission. 
+To do some of this, we may need to share your information with other companies such as our trading subsidiaries, service providers, associated organisations and agents. But we will not swap or sell your data to any third parties for marketing purposes.
 
-You can opt out of receiving donation appeal letters, emails or telephone calls from us at any time – just contact us at [supportercare@redcross.org.uk](mailto:supportercare@redcross.org.uk). 
+You can opt out of receiving donation appeal letters, emails or telephone calls at any time – just contact us at [supportercare@redcross.org.uk](mailto:supportercare@redcross.org.uk), call us on 0300 456 11 55 or [manage your preferences online](https://web.archive.org/Donate-Now/Appeals/Donate-now/Keeping-in-touch). 
 
-Please note that if you opt out of receiving specific communications then opt in again in the future, the newest request replaces any previous requests you made to opt out. 
+Please note that if you opt out of receiving specific communications then opt in again in the future, the most recent request/preference will supersede. 
 
 ##  Your consent
 
@@ -187,7 +187,7 @@ British Red Cross
 London EC2Y 9AL 
 
 Or email [supportercare@redcross.org.uk](mailto:supportercare@redcross.org.uk)   
-Or call us on 0844 87 100 87
+Or call us on 0300 456 1155
 
 If you want to have your details removed from our marketing mailing lists, or to change your marketing preferences, please email [supportercare@redcross.org.uk](mailto:supportercare@redcross.org.uk).
 
@@ -202,7 +202,7 @@ British Red Cross
 London EC2Y 9AL 
 
 Or email [supportercare@redcross.org.uk](mailto:supportercare@redcross.org.uk)   
-Or call us on 0844 87 100 87.
+Or call us on 0300 456 1155
 
 Our privacy policy may change from time to time, so please check this page occasionally to see if we have included any updates or changes, and that you are happy with them. 
 
