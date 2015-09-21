@@ -1,829 +1,223 @@
-<!--The following is the downloaded HTML source of the buzzquotes.com privacy policy that was archived on 2008-03-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080308142701id_/http%3A//buzzquotes.com/policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the buzzquotes.com privacy policy that was archived on 2015-09-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150922013628id_/http%3A//www.buzzquotes.com/privacy-policy.php) for the most accurate reproduction.-->
 
-<html><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>BuzzQuotes.com|Privacy</title>
-<script language="JavaScript">
-<!--
-/****
-* Banner Ad Rotater v3.02
-**/
+<!DOCTYPE html><html lang="en"><head>
 
-function Banner(refreshTime, width, height, altText, start, random){
-	this.objName = "bannerAd" + (Banner.count++);
-	eval(this.objName + "=this");
-	if (!refreshTime) this.refreshTime = 5000; else this.refreshTime = refreshTime*1000;
-	if (!width) this.width = 460; else this.width = width;
-	if (!height) this.height = 68; else this.height = height;
-	if (random == null) this.random = 1; else this.random = random;
-	this.altText = altText;
-	this.ads = [];
-	if (start) this.currentAd = start-1; else start = null;
-	this.mySize = 0;
-
-	this.Ad = function(src, href, target, mouseover) {
-		var tempImage = new Image();
-		tempImage.src = src;
-		this.ads[this.mySize] = new Object();
-		var ad = this.ads[this.mySize];
-		ad.src = src;
-		if (typeof(target) == "undefined" || target == null) ad.target = "_self"; else ad.target = target;
-		ad.href = href;
-		ad.mouseover = mouseover;
-		this.mySize++;
-	}
-
-	this.link = function(){
-		var	ad = this.ads[this.currentAd];
-		if (ad.target == "_self"){
-			location.href = ad.href;
-		}
-		else if (ad.target == "_blank" || ad.target == "_new"){
-			open(ad.href,this.objName + "Win");
-		}
-		else top.frames[ad.target].location.href = ad.href;
-	}
-
-	this.showStatus = function(){
-		var ad = this.ads[this.currentAd];
-		if (ad.mouseover) status = ad.mouseover;
-		else status = ad.href;
-	}
-
-	this.randomAd = function(){
-		var n;
-		do { n = Math.floor(Math.random() * (this.mySize)); } 
-		while(n == this.currentAd);
-		this.currentAd = n;
-	}
-
-	this.output = function(){
-		var tempCode = "";
-		if (this.mySize > 1){
-			if (this.currentAd == null) this.randomAd();
-			if (this.currentAd >= this.mySize) this.currentAd = this.mySize - 1;
-			tempCode += '<img src="' + 							this.ads[this.currentAd].src + '" width="' + this.width;
-			tempCode += '" name="' + this.objName + 'Img" height="' + this.height + '" ';
-			if (this.altText) tempCode += 'alt="'+this.altText + '" ';
-			tempCode += 'border="0" />';
-			document.write(tempCode);
-			this.nextAd();
-		} else document.write("Error: two banners must be defined for the script to work.");
-	}
-
-	this.newAd = function(){
-		if (!this.random){	
-			this.currentAd++;
-			if (this.currentAd >= this.mySize)
-			   this.currentAd = 0;
-		}
-		else {
-			this.randomAd();
-		}
-		this.nextAd();
-	}
-
-	this.nextAd = function(){
-		document.images[this.objName+ 'Img'].src = this.ads[this.currentAd].src;
-		setTimeout(this.objName+'.newAd()',this.refreshTime)
-	}
-}
-Banner.count = 0;
-
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
-
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-
-function MM_findObj(n, d) { //v3.0
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
-}
-
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-//-->
-
-var preloadFlag = false;
-function preloadImages() {
-	if (document.images) {
-		insurance_on = newImage("images/Nav/insurance_on.gif");
-		mortgage_on = newImage("images/Nav/mortgage_on.gif");
-		debt_on = newImage("images/Nav/debt_on.gif");
-		preloadFlag = true;		
-	}
-}
-
-function openwin(url){
-windowbits = "height=" + 300 + ",width=" + 350 + ",channelmode=0,dependent=0,directories=0,fullscreen=0,location=0,top=150,left=150,menubar=0,resizable=0,scrollbars=1,status=0,toolbar=0" 
-window.open(url, 'child', windowbits)
-}
-
-function openwin2(url){
-windowbits = "height=" + 500 + ",width=" + 650 + ",channelmode=0,dependent=0,directories=0,fullscreen=0,location=0,top=150,left=150,menubar=0,resizable=0,scrollbars=1,status=0,toolbar=0" 
-window.open(url, 'child', windowbits)
-}
+  <!-- Basic Page Needs-->
+ <title>All Topics - image quotes at BuzzQuotes.com</title>
+ <meta http-equiv="content-type" content="text/html; charset=utf-8">
+ <meta name="description" content="all topics quotes, all topics quotes pictures, all topics instagram quotes, all topics pinterest, all topics quotes tumblr, all topics download, all topics hq images, all topics image collection, new all topics quotes images, all topics quotes gallery, cute all topics photos, funny all topics images, all topics quotes photos, all topics pins">
+ <meta name="keywords" content="all topics quotes, all topics quotes pictures, all topics instagram quotes, all topics pinterest, all topics quotes tumblr, all topics download, all topics hq images, all topics image collection, new all topics quotes images, all topics quotes gallery, cute all topics photos, funny all topics images, all topics quotes photos, all topics pins">
+ <meta name="author" content="www.buzzquotes.com">
 
 
-function ValidateEmail(strEmail) 
-{
-	// Convert the email address to lowercase
-	strEmail = strEmail.toLowerCase();
+  <!-- Mobile Specific Metas -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-	/* The following variable tells the rest of the function whether or not
-	to verify that the address ends in a two-letter country or well-known
-	TLD.  1 means check it, 0 means don't. */
+  <!-- FONT -->
+  <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
 
-	var checkTLD=1;
-
-	/* The following is the list of known TLDs that an e-mail address must end with. */
-
-	var knownDomsPat=/^(com|net|org|edu|int|mil|gov|arpa|biz|aero|name|coop|info|pro|museum)$/;
-
-	/* The following pattern is used to check if the entered e-mail address
-	fits the user@domain format.  It also is used to separate the username
-	from the domain. */
-
-	var emailPat=/^(.+)@(.+)$/;
-
-	/* The following string represents the pattern for matching all special
-	characters.  We don't want to allow special characters in the address. 
-	These characters include ( ) < > @ , ; : \ " . [ ] */
-
-	var specialChars="\\(\\)><@,;:\\\\\\\"\\.\\[\\]";
-
-	/* The following string represents the range of characters allowed in a 
-	username or domainname.  It really states which chars aren't allowed.*/
-
-	var validChars="\[^\\s" + specialChars + "\]";
-
-	/* The following pattern applies if the "user" is a quoted string (in
-	which case, there are no rules about which characters are allowed
-	and which aren't; anything goes).  E.g. "jiminy cricket"@disney.com
-	is a legal e-mail address. */
-
-	var quotedUser="(\"[^\"]*\")";
-
-	/* The following pattern applies for domains that are IP addresses,
-	rather than symbolic names.  E.g. joe@[123.124.233.4] is a legal
-	e-mail address. NOTE: The square brackets are required. */
-
-	var ipDomainPat=/^\[(\d{1,3})\.(\d{1,3})\.(\d{1,3})\.(\d{1,3})\]$/;
-
-	/* The following string represents an atom (basically a series of non-special characters.) */
-
-	var atom=validChars + '+';
-
-	/* The following string represents one word in the typical username.
-	For example, in john.doe@somewhere.com, john and doe are words.
-	Basically, a word is either an atom or quoted string. */
-
-	var word="(" + atom + "|" + quotedUser + ")";
-
-	// The following pattern describes the structure of the user
-
-	var userPat=new RegExp("^" + word + "(\\." + word + ")*$");
-
-	/* The following pattern describes the structure of a normal symbolic
-	domain, as opposed to ipDomainPat, shown above. */
-
-	var domainPat=new RegExp("^" + atom + "(\\." + atom +")*$");
-
-	/* Finally, let's start trying to figure out if the supplied address is valid. */
-
-	/* Begin with the coarse pattern to simply break up user@domain into
-	different pieces that are easy to analyze. */
-
-	var matchArray=strEmail.match(emailPat);
-
-	if (matchArray==null) 
-	{
-		/* Too many/few @'s or something; basically, this address doesn't
-		even fit the general mould of a valid e-mail address. */
-
-		//alert("Email address seems incorrect (check @ and .'s)");
-		return false;
-	}
-	
-	var user=matchArray[1];
-	var domain=matchArray[2];
-
-	// Start by checking that only basic ASCII characters are in the strings (0-127).
-
-	for (i=0; i<user.length; i++) 
-	{
-		if (user.charCodeAt(i)>127) 
-		{
-			//alert("Ths username contains invalid characters.");
-			return false;
-		}
-	}
-	
-	for (i=0; i<domain.length; i++) 
-	{
-		if (domain.charCodeAt(i)>127) 
-		{
-			//alert("Ths domain name contains invalid characters.");
-			return false;
-		}
-	}
-
-	// See if "user" is valid 
-
-	if (user.match(userPat)==null) 
-	{
-		// user is not valid
-		//alert("The username doesn't seem to be valid.");
-		return false;
-	}
-
-	/* if the e-mail address is at an IP address (as opposed to a symbolic
-	host name) make sure the IP address is valid. */
-	var IPArray=domain.match(ipDomainPat);
-	if (IPArray!=null) 
-	{
-		// this is an IP address
-		for (var i=1;i<=4;i++) 
-		{
-			if (IPArray[i]>255) 
-			{
-				//alert("Destination IP address is invalid!");
-				return false;
-			}
-		}
-		return true;
-	}
-
-	// Domain is symbolic name.  Check if it's valid.
-	var atomPat=new RegExp("^" + atom + "$");
-	var domArr=domain.split(".");
-	var len=domArr.length;
-	for (i=0;i<len;i++) 
-	{
-		if (domArr[i].search(atomPat)==-1) 
-		{
-			//alert("The domain name does not seem to be valid.");
-			return false;
-		}
-	}
-
-	/* domain name seems valid, but now make sure that it ends in a
-	known top-level domain (like com, edu, gov) or a two-letter word,
-	representing country (uk, nl), and that there's a hostname preceding 
-	the domain or country. */
-
-	if (checkTLD && domArr[domArr.length-1].length!=2 && domArr[domArr.length-1].search(knownDomsPat)==-1) 
-	{
-		//alert("The address must end in a well-known domain or two letter " + "country.");
-		return false;
-	}
-
-	// Make sure there's a host name preceding the domain.
-	if (len<2) 
-	{
-		//alert("This address is missing a hostname!");
-		return false;
-	}
-
-	// If we've gotten this far, everything's valid!
-	return true;
-}
-
- function ReplaceComma(input)
- {        var result="";
-
-     for (var i = 0; i < input.length; i++)
-         {
-         var Char_Val = input.charAt(i);
-         if( Char_Val == "," || Char_Val == "\"")
-             {
-             result = result + " ";
-             }
-         else
-             {
-             result = result + Char_Val;
-             }
-
-         //alert("Result=" + result + "(" + i + ")");
-         }
-     return result;
-  }
+  <!-- CSS & Favicon-->
+  <link rel="stylesheet" href="http://www.buzzquotes.com/css/normalize.css">
+  <link rel="stylesheet" href="http://www.buzzquotes.com/css/skeleton.css?ts=1442885787&quot; /&gt;">
+  <link rel="shortcut icon" href="http://www.buzzquotes.com/favicon.ico?v=2" type="image/x-icon">
+  <link rel="icon" href="http://www.buzzquotes.com/favicon.ico?v=2" type="image/x-icon">
   
-function validateQuickForm(form){
-	var strAlertstring;
-	var intErrCount;
-	intErrCount=1;
-	strAlertstring="The following problem(s) have occured\n\n"
+  
+  <link href="css/justifiedGallery.min.css" rel="stylesheet" type="text/css">
+  <link href="colorbox/colorbox.css" rel="stylesheet" type="text/css">
+  <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="js/jquery.min.js"></script>
+  <script type="text/javascript" src="js/jquery.justifiedGallery.min.js"></script>
+  <script type="text/javascript" src="colorbox/jquery.colorbox-min.js"></script>
+   
+</head>
+<body>
+<!-- Primary Page Layout -->
+  
+<div class="container"> <!-- START CONTAINER -->
+
+<div class="row">
+    <div class="twelve columns">
+    <!-- LOGO --><center>
+	<a href="/"><img style="max-width:180px; padding-top:10px;" src="http://www.buzzquotes.com/images/logo20.png" alt="buzzquotes"></a></center>
+    </div>
+    
+    <div class="twelve columns">
+    <!-- MENU and SEARCH BAR-->
+<div class="menutop">
+<center>
+<b><a href="http://www.buzzquotes.com">Home</a> <a href="http://www.buzzquotes.com/topics.php">Topics</a> <a href="http://www.buzzquotes.com/authors.php">Authors</a> <a href="http://www.buzzquotes.com/movies.php">Movies</a> <a href="http://www.buzzquotes.com/tv-shows.php">TVs</a></b>
+</center>
+</div>
+
+<div style="background-color:#FAFAFA;color:#000000">
+    <center>
+    <form action="http://www.buzzquotes.com/search.php" id="cse-search-box">
+      <div>
+        <input type="hidden" name="cx" value="partner-pub-8368803406305390:6548249102">
+        <input type="hidden" name="cof" value="FORID:10">
+        <input type="hidden" name="ie" value="UTF-8">
+        <input type="text" name="q" placeholder=" Search million image quotes " autofocus="" style="border:5px solid #e03177;width:80%;">
+        <input type="submit" name="sa" value="go" style="border:1px solid #d40f75; background-color:#d40f75;color:#fff;">
+        <br>
+        <div style="padding:3px 20px;">
+<em style="font-size:11px"><a href="http://www.buzzquotes.com/work-quotes">Work quotes</a></em>,  <em style="font-size:11px"><a href="http://www.buzzquotes.com/sports-quotes">Sports quotes</a></em>,  <em style="font-size:11px"><a href="http://www.buzzquotes.com/health-quotes">Health quotes</a></em>,  <em style="font-size:11px"><a href="http://www.buzzquotes.com/leadership-quotes">Leadership quotes</a></em>,  <em style="font-size:11px"><a href="http://www.buzzquotes.com/risk-quotes">Risk quotes</a></em>,  <em style="font-size:11px"><a href="http://www.buzzquotes.com/dreams-quotes">Dreams quotes</a></em>,  <em style="font-size:11px"><a href="http://www.buzzquotes.com/facebook-status-quotes">Facebook Status quotes</a></em>,  <em style="font-size:11px"><a href="http://www.buzzquotes.com/angels-quotes">Angels quotes</a></em>,  </div>
+
+      </div>
+      
+      </form>
+      </center>
+</div>
 	
-	if(form.sltReferralType.value==""){
-		strAlertstring = strAlertstring + intErrCount + ") Please select the quote desired.\n"
-		intErrCount++;			
-	}
-	else
-	{
-		if(form.sltReferralType.value=="1"){
-			form.action = 'formDebtConsolidations.asp';
-		}		
-		else if(form.sltReferralType.value=="4"){
-			form.action = 'formAnnuities.asp';
-		}		
-		else if(form.sltReferralType.value=="5"){
-			form.action = 'formHealthFamily.asp';
-		}			
-		else if(form.sltReferralType.value=="6"){
-			form.action = 'formhomeowners.asp';
-		}		
-		else if(form.sltReferralType.value=="7"){
-			form.action = 'formAuto.asp';
-		}		
-		else if(form.sltReferralType.value=="8"){
-			form.action = 'formDisability.asp';
-		}		
-		else if(form.sltReferralType.value=="9"){
-			form.action = 'formHealthIndividual.asp';
-		}	
-		else if(form.sltReferralType.value=="10"){
-			form.action = 'formLongTermCare.asp';
-		}	
-		else if(form.sltReferralType.value=="11"){
-			form.action = 'formTermLife.asp';
-		}	
-		else if(form.sltReferralType.value=="12"){
-			form.action = 'formHealthIndividual.asp';
-		}	
-		else if(form.sltReferralType.value=="13"){
-			form.action = 'formHealthGroup.asp';
-		}	
-		else if(form.sltReferralType.value=="14"){
-			form.action = 'formBusiness.asp';
-		}	
-		else if(form.sltReferralType.value=="15"){
-			form.action = 'formPurchase.asp';
-		}	
-		else if(form.sltReferralType.value=="16"){
-			form.action = 'formRefinance.asp';
-		}	
-		else if(form.sltReferralType.value=="17"){
-			form.action = 'formHomeEquity.asp';
-		}	
-		else if(form.sltReferralType.value=="18"){
-			form.action = 'formFHAVA.asp';
-		}	
-		else if(form.sltReferralType.value=="19"){
-			form.action = 'formCommercial.asp';
-		}	
-		else if(form.sltReferralType.value=="20"){
-			form.action = 'formNewConstruction.asp';
-		}		
-		else if(form.sltReferralType.value=="21"){
-			form.action = 'formLoans.asp';
-		}		
-		else if(form.sltReferralType.value=="22"){
-			form.action = 'formAccounting.asp';
-		}																															
-		else{
-			strAlertstring = strAlertstring + intErrCount + ") Please select the quote desired.\n"
-			intErrCount++;		
-		}	
-	}
-				
-	if(intErrCount > 1)
-	{
-		alert(strAlertstring);
-		return false;
-	}
-	else
-	{
-		return true;
-	}
-}
+    
 
-function validateRegisteration(form){
-	var strAlertstring;
-	var intErrCount;
-	intErrCount=1;
-	strAlertstring="The following problem(s) have occured\n\n"
-	if(form.registerEmail.value==""){
-		strAlertstring = strAlertstring + intErrCount + ") Please enter your email address.\n"
-		intErrCount++;
-	}																							
-	if(intErrCount > 1)
-	{
-	alert(strAlertstring);
-		return false;
-	}
-	else
-	{
-		return true;
-	}
-}
-
-function validateMembersLogin(form){
-	var strAlertstring;
-	var intErrCount;
-	intErrCount=1;
-	strAlertstring="The following problem(s) have occured\n\n"
-	if(form.username.value==""){
-		strAlertstring = strAlertstring + intErrCount + ") Please enter your username.\n"
-		intErrCount++;
-	}		
-	if(form.password.value==""){
-		strAlertstring = strAlertstring + intErrCount + ") Please enter your password.\n"
-		intErrCount++;
-	}																							
-	if(intErrCount > 1)
-	{
-	alert(strAlertstring);
-		return false;
-	}
-	else
-	{
-		return true;
-	}
-}
-
-	function validateLogin(form){
-		var strAlertstring;
-		var intErrCount;
-		intErrCount=1;
-		strAlertstring="The following problem(s) have occured\n\n"
-
-		if(form.user_name.value==""){
-			strAlertstring = strAlertstring + intErrCount + ") Please enter your username.\n"
-				intErrCount++;
-		}		
-		if(form.user_pass.value==""){
-			strAlertstring = strAlertstring + intErrCount + ") Please enter your password.\n"
-				intErrCount++;
-		}				
-		if(intErrCount > 1)
-		{
-			alert(strAlertstring);
-			return false;
-		}
-		else
-		{
-			return true;
-		}
-	}
-	
-function popMortgage(URL,intWidth,intHeight) {
-day = new Date();
-id = day.getTime();
-eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=1,menubar=0,resizable=0,width=" + intWidth + ",height=" + intHeight + ",left=100,top=100');");
-}	
+    </div>
+  </div>
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- buzzquotes responsive -->
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8368803406305390" data-ad-slot="4776491100" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<br>
 
 
-	function validateshortform(form){
-		var strAlertstring;
-		var intErrCount;
-		intErrCount=1;
-		strAlertstring="The following problem(s) have occured\n\n"
-			
-		if(form.txtZip.value==""){
-			strAlertstring = strAlertstring + intErrCount + ") Please enter your 5 digit zip code.\n";
-			intErrCount++;
-		}	
-		else
-		{
-			if(isNaN(form.txtZip.value)){
-				strAlertstring = strAlertstring + intErrCount + ") Your zip code should only contain numbers.\n";
-				intErrCount++;		
-			}
-		}	
-		if(form.sltReferralType.value==""){
-			strAlertstring = strAlertstring + intErrCount + ") Please select the quote desired.\n"
-			intErrCount++;			
-		}
-		else
-		{
-
-			if(form.sltReferralType.value=="6"){
-				form.action = 'FormHomeowners.asp';
-			}		
-			else if(form.sltReferralType.value=="7"){
-				form.action = 'FormAuto.asp';
-			}		
-			else if(form.sltReferralType.value=="9"){
-				form.action = 'FormHealth.asp';
-			}	
-			else if(form.sltReferralType.value=="11"){
-				form.action = 'FormLife.asp';
-			}																															
-			else{
-				strAlertstring = strAlertstring + intErrCount + ") Please select the quote desired.\n"
-				intErrCount++;		
-			}	
-		}
-			
-		if(intErrCount > 1)
-		{
-			alert(strAlertstring);
-			return false;
-		}
-		else
-		{
-			return true;
-		}
-}
 
 
-  function validate(form)
-  {
- 	var strAlertstring;
-	var intErrCount;
-	intErrCount=1;
-	strAlertstring="The following problem(s) have occured\n\n";
-		
-		if(form.txtFirstName.value==""){
-			strAlertstring = strAlertstring + intErrCount + ") Please enter your first name.\n";
-			intErrCount++;
-		}		
-		if(form.txtLastName.value==""){
-			strAlertstring = strAlertstring + intErrCount + ") Please enter your last name.\n";
-			intErrCount++;
-		}		
-		if(form.txtPhone.value==""){
-			strAlertstring = strAlertstring + intErrCount + ") Please enter your phone number.\n";
-			intErrCount++;
-		}	
-		if(form.txtEmail.value==""){
-			strAlertstring = strAlertstring + intErrCount + ") Please enter your email address.\n";
-			intErrCount++;
-		}					
-		if(form.sltState.value==""){
-			strAlertstring = strAlertstring + intErrCount + ") Please select a state.\n";
-			intErrCount++;
-		}		
-		if(form.txtZip.value==""){
-			strAlertstring = strAlertstring + intErrCount + ") Please enter your 5 digit zip code.\n";
-			intErrCount++;
-		}	
-		else
-		{
-			if(isNaN(form.txtZip.value)){
-				strAlertstring = strAlertstring + intErrCount + ") Your zip code should only contain numbers.\n";
-				intErrCount++;		
-			}
-		}																			
-		if(intErrCount > 1)
-		{
-			alert(strAlertstring);
-			return false;
-		}
-		else
-		{
-			return true;
-		}
-		         
-  }
-</script>			
-<link href="include/css.css" type="text/css" rel="stylesheet"></head>
-<body style="background-color:#838383">
-<!--Start Header -->
-<table width="100%" style="height:100% " border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td>&nbsp;</td>
-    <td width="766" height="100%" bgcolor="#ffffff"><table width="100%" style="height:100% " border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-        <td height="324"><table width="100%" style="height:327 " border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td height="68" style="padding-left:11; padding-right:10; padding-top:9 "><table width="100%" style="height:59;background-image:url(images/bg_14.jpg); background-repeat:repeat-x; " border="0" cellspacing="0" cellpadding="0" class="top">
-              <tbody><tr>
-                <td width="50%" style="padding-left:20; vertical-align:middle " class="text_white">3/8/2008 8:27:06 AM</td>
-                <td width="50%" class="menu_top" style="vertical-align:middle; padding-right:22; " align="right"><a href="default.asp">Home</a> | <a href="AboutUs.asp">About Us</a> | <a href="ContactUs.asp">Contacts</a></td>
-              </tr>
-            </tbody></table></td>
-          </tr>
-          <tr>
-            <td style="padding-left:11; padding-right:10 "><table width="100%" style="height:100%" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr>
-                <td width="200"><table width="100%" style="height:100% " border="0" cellspacing="0" cellpadding="0">
-                  <tbody><tr>
-                    <td height="10" colspan="2"><img alt="#" src="images/bg_18.gif" width="223" height="10"></td>
-                  </tr>
-                  <tr>
-                    <td height="170" colspan="2">
-					<table width="100%" style="height:100% " border="0" cellspacing="0" cellpadding="0">
-                      <tbody><tr bgcolor="gray">
-                        <td width="10"><img alt="#" src="images/bg_20.gif" width="10" height="170"></td>
-                        <td style="background-image:url(images/bg_22.gif); background-repeat:repeat-x; padding-top:5" align="center">
-							<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://active.macromedia.com/flash4/cabs/swflash.cab#version=4,0,0,0" id="logo" width="195" height="141">
-							  <param name="movie" value="flash/logo6.swf">
-							  <param name="quality" value="high">
-							  <param name="bgcolor" value="#FFFFFF">
-							  <embed name="logo" src="flash/logo6.swf" quality="high" bgcolor="#FFFFFF" width="195" height="141" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">
-							  
-							</object>
-							</td>
-                        <td width="10"><img alt="#" src="images/bg_21.gif" width="10" height="170"></td>
-                      </tr>
-                    </tbody></table>
-					</td>
-                  </tr>
-                  <tr>
-                    <td height="10" colspan="2"><img alt="#" src="images/bg_19.gif" width="223" height="10"></td>
-                  </tr>
-                  <tr>
-                    <td height="100%" class="text_white" style="background-color:#58A9C4; padding-left:8;"><br><form method="GET" action="http://www.google.com/search" target="_blank"><input type="hidden" name="ie" value="UTF-8"><input type="hidden" name="oe" value="UTF-8"><input type="text" name="q" maxlength="255" value="Google Search" style="width:175; height:25; border-color:#CDCDCD; margin-left:4" onclick="javascript:this.value='';"><input type="submit" name="btnG" value="Go"></form></td><td width="29" class="text_white" style="vertical-align:middle; background-color:#58A9C4; padding-right:5 " align="left"></td>
-                  </tr>
-                </tbody></table></td>
-                <td width="5" style="background-image:url(images/bg_15.gif); background-repeat:repeat-y ">&nbsp;</td>
-                
-				<td bgcolor="#DD2B27"><div valign="bottom">
-			  	<script type="text/javascript">
-				<!--
-				myAd = new Banner( 0, 516, 259, "Header", 0, 0 );
-				myAd.Ad( "images/h_main_general.gif", null, null, "Header0" );
-				myAd.Ad( "images/h_main_car.gif", null, null, "Header1" );
-				myAd.Ad( "images/h_main_health.gif", null, null, "Header2" );
-				myAd.Ad( "images/h_main_life.gif", null, null, "Header3" );
-				myAd.Ad( "images/h_main_home.gif", null, null, "Header4" );
-				myAd.output();
-				// -->
-				</script><img src="images/h_main_home.gif" width="516" name="bannerAd0Img" height="259" alt="Header" border="0"></div></td>
-				
-              </tr>
-            </tbody></table></td>
-          </tr>
-        </tbody></table></td>
-      </tr>
-	  <tr><td><img alt="#" src="images/line_1.jpg"></td></tr>
-      <tr>
-        <td style="padding-left:11; padding-right:10 "><table width="100%" style="height:100% " border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td height="28"><table width="100%" style="height:28 " border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td width="avto" style="vertical-align:bottom; border-right:1px solid #BBBEBB; border-left:1px solid #BBBEBB; padding-left:9 " bgcolor="#ffffff"><img alt="#" src="images/AgentLogin.gif"></td>
-            <td width="519"><table width="100%" border="0" cellspacing="0" cellpadding="0" style="height:100% " class="menu">
-              <tbody><tr>
-                <td width="99" style="background-image:url(images/menu_1_1.jpg); vertical-align:middle" align="center"><a href="default.asp">Home</a></td>
-                <td width="85" height="29" style="background-image:url(images/menu_2_0.jpg); vertical-align:middle " align="center"><a href="FormAuto.asp">Auto</a></td>
-                <td width="84" style="background-image:url(images/menu_3_0.jpg); vertical-align:middle" align="center"><a href="FormHealth.asp">Health</a></td>
-                <td width="91" style="background-image:url(images/menu_4_0.jpg); vertical-align:middle" align="center"><a href="FormLife.asp">Life</a></td>
-                <td width="81" style="background-image:url(images/menu_5_0.jpg); vertical-align:middle" align="center"><a href="FormHomeowners.asp">Homeowners</a></td>
-                <td width="79" style="background-image:url(images/menu_6_0.jpg); vertical-align:middle" align="center"><a href="ContactUs.asp">Contacts</a></td>
-              </tr>
-            </tbody></table></td>
-          </tr>
-            </tbody></table>
-              </td>
-          </tr>
-          <tr>
-            <td height="158">
-<!--End Header -->	
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-		<td width="224" height="100%" style="border-left:1px solid #BBBEBB; border-right:1px solid #BBBEBB">
-		<table width="100%" style="height:100% " border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-		<td bgcolor="#F0F1E7" style="padding-left:18; padding-top:6; padding-right:14; padding-bottom:11; border-bottom:1px solid #BFBFBF " class="text_main">
-		<form action="members/loginExecute.asp" method="Post" name="login">
-		<div style="padding-top:5;padding-left:20"><b>Username:&nbsp;<input type="text" name="user_name" style="width:100;height:20"></b></div>
-		<div style="padding-top:5;padding-left:18"><b>&nbsp;&nbsp;Password:&nbsp;<input type="text" name="user_pass" style="width:100;height:20"></b></div>
-		<div style="padding-top:5;padding-left:83"><input type="Submit" name="Login" value="Login »»" style="width:100;height:25"></div>
-		<div style="padding-top:5" class="text_main2"><b><br>If you are not a member of BuzzQuotes, <a href="BecomeaMember.asp">click here to get started</a>.</b></div>
-		</form>
-		</td>
-	</tr>
-	<tr>
-		<td style="vertical-align:middle; padding-left:9"><img alt="#" src="images/testimonialsGreen.gif" style="margin-bottom:2; margin-right:4; margin-left:1"></td>
-	</tr>
-	<tr>
-		<td height="100%" bgcolor="#ECECEC" style="padding-left:18; padding-top:6; padding-right:14; padding-bottom:11; border-bottom:1px solid #BFBFBF " class="text_main">
-		
-		<div style="padding-top:5"><b>1/20/2006&nbsp;|&nbsp;John Shepard</b></div>
-		<div style="padding-top:2 ">"The best website I have used to lower my auto insurance."</div><br>
-		<div style="padding-top:5"><b>1/1/2006&nbsp;|&nbsp;Mike Johnson</b></div>
-		<div style="padding-top:2 ">"My agent was able to answer all my questions within 5 minutes"</div><br>
-		<div style="padding-top:5"><b>12/15/2005&nbsp;|&nbsp;Evan McCoy</b></div>
-		<div style="padding-top:2 ">"Zero hassle and completely FREE service"</div><br>
-		<div style="padding-top:5"><b>9/3/2005&nbsp;|&nbsp;Patrick Dunn</b></div>
-		<div style="padding-top:2 ">"Immediate response with an affordable quote"</div><br>
-		
-		</td>
-	</tr>
-</tbody></table>	
-		</td>
-		<td height="100%" style=" border-bottom:1px solid #BBBEBB; border-right:1px solid #BBBEBB">
-			<table width="100%" style="height:100% " border="0" cellspacing="0" cellpadding="0" class="text_main">
-				<tbody><tr>
-					<td colspan="2" height="116" style="border-bottom:1px solid #BBBEBB; padding-right:10" background="images/bgyellow.gif">
-						<!--Start Form-->
-						<center>
-<br><br>
-	<form name="shortform" method="post" onsubmit="return validateshortform(this)">
-	<input type="hidden" name="SourceId" value="">
-	<input type="hidden" name="Source" value="">
-	<table cellpadding="3" cellspacing="0" border="0">
-	<tbody><tr><td class="text_main3" valign="top" colspan="2"><div style="padding-top:6; padding-left:0" class="red"><br></div><br></td></tr>
-	<tr><td class="text_main3" valign="top"><b>Zip Code:</b></td><td class="bodytext" valign="top"><input type="text" name="txtZip" size="20"></td></tr>
-	<tr><td class="text_main3" valign="top"><b>Insurance:</b></td><td class="bodytext" valign="top">
-	<select name="sltReferralType" stype="width:150">
-	<option value="">Select the type of quote you would like
-	</option><option value="7">Auto</option><option value="9">Health Insurance</option><option value="6">Home Owners   </option><option value="11">Life Insurance      </option>
-	</select>
-	</td></tr>
-	<tr><td></td><td><input type="submit" name="submit" value="Continue »»"></td></tr>
-	</tbody></table>
-	</form>
-</center>	
-						<!--End Form-->
-					</td>
-				</tr>
-				<tr>
-					<td height="100%" style="border-right:1px solid #BBBEBB; padding-left:11; padding-right:15; padding-top:11; padding-bottom:7 "></td>
-				</tr>
-				<tr>
-					<td colspan="2" height="116" style="border-bottom:1px solid #BBBEBB; padding-right:10">
-						<!--Start Bottom Body -->
-						<center>
-						<table cellpadding="0" cellspacing="0" border="0" width="100%">
-						<tbody><tr><td bgcolor="#ffffff" style="padding-left:18; padding-top:6; padding-right:14; padding-bottom:11" class="text_main">
-						<div style="padding-top:5">
-						<img src="images/policy.gif"><br><br><br>
-						<b>BuzzQuotes.com</b> is committed to maintaining your privacy. The following discloses our information gathering and dissemination practices for this website:<br><br>
- 
-						This Privacy Policy is incorporated into, and part of, the Terms and Conditions, which govern your use of the Site in general.<br><br>
-						
-						We use cookies to deliver content specific to your interests and to save your password so you don't have to re-enter it each time you visit our site.<br><br>
-						
-						Some of our forms require users to give us contact information (for example name and email address) and demographic information (for example zip code, or budget level). We use customer contact information from the registration form to send the user information. The customer's contact information is also used to contact the customer when appropriate. Users may opt-out of receiving future mailings.<br><br>
-						
-						This site contains links to other sites. <b>BuzzQuotes.com</b> is not responsible for the privacy practices or the content of such Web sites.<br><br>
-						
-						We are not Mortgage agents.  We do NOT provide legal advice, and we do NOT do any mortgage services. Please consult with a licensed professional if you need advice regarding the purchase of any home service product.
-						 <br><br>
-						 
-						Our advertiser sites are solely responsible for the content they provide. We shall not be responsible or liable for any products, services, or information associated with their sites.  We are also not responsible for the Privacy Policies or Practices of the sites we link to. Please read the Privacy Policies available on all linked web sites for complete information.<br><br>
-						
-						<b>Security</b><br><br>
-						
-						This site has security measures in place to protect the loss, misuse and alteration of the information under our control.<br><br>
-						
-						<b>Children's Guidelines</b><br><br>
-						
-						<b>BuzzQuotes.com</b><br><br>
-						
-						1.	Does NOT collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent.<br><br> 
-						
-						2.	Does NOT collect personally identifiable offline contact information without prior parental consent. <br><br>
-						
-						3.	Does NOT distribute to third parties any personally identifiable information with out prior parental consent. <br><br>
-						
-						4.	Does NOT give the ability to publicly post or otherwise distribute personally identifiable contact information without prior parental consent.<br><br> 
-						
-						5.	Does NOT entice by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity. <br><br>
-						
-						<b>Opt-Out</b><br><br>
-						Our site provides users the opportunity to opt-out of receiving communications from us. To opt out send an email to <a href="mailto:customerService@BuzzQuotes.com">customerService@BuzzQuotes.com</a>
-										
-						</div>
-						</td></tr>
-						</tbody></table>
-						</center>
-						<!--End Bottom Body -->
-					</td>
-				</tr>				  
-			</tbody></table>
-		</td>
-	</tr>
-</tbody></table>
-<!--Start Footer -->
-</td>
-</tr>
-</tbody></table></td>
-</tr>
-<tr><td style="height:100%; padding-left:11; padding-right:10">
-	<!--Start Footer -->
-	<table width="100%" style="height:100% " border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-	<td id="bot" style="height:27; background-image:url(images/bg_bottom.gif); background-repeat:repeat-x; vertical-align:middle " align="center" class="bottom"><a href="default.asp" style="color:#484848;font-family:tahoma; font-size:11px; line-height:12px; text-decoration:none ">Home</a> &nbsp;&nbsp;::  &nbsp;&nbsp;<a href="Aboutus.asp" style="color:#484848;font-family:tahoma; font-size:11px; line-height:12px; text-decoration:none ">About us</a>  &nbsp;&nbsp;:: &nbsp;&nbsp;<a href="http://www.clixgalore.com/AffSelectProgram.aspx?AdvProgID=6540" style="color:#484848;font-family:tahoma; font-size:11px; line-height:12px; text-decoration:none " target="_blank">Affiliate Programs</a> &nbsp;&nbsp; :: &nbsp;&nbsp; <a href="Becomeamember.asp" style="color:#484848;font-family:tahoma; font-size:11px; line-height:12px; text-decoration:none ">Become a Member</a>  &nbsp;&nbsp;:: &nbsp;&nbsp; <a href="Termsofuse.asp" style="color:#484848;font-family:tahoma; font-size:11px; line-height:12px; text-decoration:none ">Terms &amp; Conditions</a> &nbsp;&nbsp; :: &nbsp;&nbsp; <a href="Career.asp" style="color:#484848;font-family:tahoma; font-size:11px; line-height:12px; text-decoration:none ">Career</a>  &nbsp;&nbsp;:: &nbsp;&nbsp; <a href="ContactUs.asp" style="color:#484848;font-family:tahoma; font-size:11px; line-height:12px; text-decoration:none ">Contacts</a>  &nbsp;&nbsp;:: &nbsp;&nbsp; <a href="testimonials.asp" style="color:#484848;font-family:tahoma; font-size:11px; line-height:12px; text-decoration:none ">Testimonials</a></td>
-	</tr>
-	<tr>
-	<td style="height:44; background-color:#F0F0F0; vertical-align:middle; color:#8A8A8A " align="center" class="text_main">Copyright 2005-2006 © BuzzQuotes Inc | <a href="policy.asp" style="color:#8A8A8A; text-decoration:none ">Privacy Policy</a></td>
-	</tr>
-	<tr>
-	<td style="height:100% ">&nbsp;</td>
-	</tr>
-	</tbody></table>
-	<!--End Footer -->
-</td></tr>
-</tbody></table></td>
-<td height="120">&nbsp;</td>
-</tr>
-</tbody></table>	
-<!--End Footer-->
 
 
-</body></html>
+
+<!-- just use a number and class column or columns -->
+<div class="row"><!-- START ROW1 -->
+
+<div class="nine columns">
+<h1> Privacy Policy </h1>
+<p>If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at .
+At www.BuzzQUOTES.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by www.BuzzQUOTES.com and how we use it.</p>
+<b>Log Files</b>
+<p>Like many other Web sites, www.BuzzQUOTES.com makes use of log files. These files merely logs visitors to the site - usually a standard procedure for hosting companies and a part of hosting services's analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.</p>
+<p><b>Cookies and Web Beacons</b></p>
+<p>www.BuzzQUOTES.com uses cookies to store information about visitors' preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors' browser type or other information that the visitor sends via their browser.</p>
+<p><b>DoubleClick DART Cookie</b></p>
+<p>→ Google, as a third party vendor, uses cookies to serve ads on www.BuzzQUOTES.com.</p>
+<p>→ Google's use of the DART cookie enables it to serve ads to our site's visitors based upon their visit to www.BuzzQUOTES.com and other sites on the Internet. </p>
+<p>→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html</p>
+<p><b>Our Advertising Partners</b></p>
+<p>Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....... </p>
+Google<br>
+<p>PulsePoint</p>
+<p>Infolinks</p>
+<p>While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here: Privacy Policies.</p>
+<p>You may consult this listing to find the privacy policy for each of the advertising partners of www.BuzzQUOTES.com.</p>
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on www.BuzzQUOTES.com and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site's third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.<p></p>
+<p>www.BuzzQUOTES.com has no access to or control over these cookies that are used by third-party advertisers.</p>
+<p><b>Third Party Privacy Policies</b></p>
+<p>You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.BuzzQUOTES.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: Privacy Policy Links.</p>
+<p>If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. What Are Cookies?<br>
+</p><p><b>Children's Information</b></p>
+<p>We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. www.BuzzQUOTES.com does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that www.BuzzQUOTES.com has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.</p>
+<p><b>Online Privacy Policy Only</b></p>
+<p>This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there. This policy does not apply to any information collected offline or via channels other than this website.</p>
+<p><b>Consent</b></p>
+<p>By using our website, you hereby consent to our privacy policy and agree to its terms.</p>
+
+</div>
+
+</div><!--END ROW1-->
+
+<div class="row">
+<center>
+<div class="bottom">
+<a href="/topics.php">TOPICS</a> 
+<a href="/topics.php?letter=A">A</a> 
+<a href="/topics.php?letter=B">B</a> 
+<a href="/topics.php?letter=C">C</a> 
+<a href="/topics.php?letter=D">D</a> 
+<a href="/topics.php?letter=E">E</a> 
+<a href="/topics.php?letter=F">F</a> 
+<a href="/topics.php?letter=G">G</a> 
+<a href="/topics.php?letter=H">H</a> 
+<a href="/topics.php?letter=I">I</a> 
+<a href="/topics.php?letter=J">J</a> 
+<a href="/topics.php?letter=K">K</a> 
+<a href="/topics.php?letter=L">L</a> 
+<a href="/topics.php?letter=M">M</a> 
+<a href="/topics.php?letter=N">N</a> 
+<a href="/topics.php?letter=O">O</a> 
+<a href="/topics.php?letter=P">P</a> 
+<a href="/topics.php?letter=Q">Q</a> 
+<a href="/topics.php?letter=R">R</a> 
+<a href="/topics.php?letter=S">S</a> 
+<a href="/topics.php?letter=T">T</a> 
+<a href="/topics.php?letter=U">U</a> 
+<a href="/topics.php?letter=V">V</a> 
+<a href="/topics.php?letter=W">W</a> 
+<a href="/topics.php?letter=X">X</a> 
+<a href="/topics.php?letter=Y">Y</a> 
+<a href="/topics.php?letter=Z">Z</a>
+<br>
+<a href="/authors.php">AUTHORS</a> 
+<a href="/authors.php?letter=A">A</a> 
+<a href="/authors.php?letter=B">B</a> 
+<a href="/authors.php?letter=C">C</a> 
+<a href="/authors.php?letter=D">D</a> 
+<a href="/authors.php?letter=E">E</a> 
+<a href="/authors.php?letter=F">F</a> 
+<a href="/authors.php?letter=G">G</a> 
+<a href="/authors.php?letter=H">H</a> 
+<a href="/authors.php?letter=I">I</a> 
+<a href="/authors.php?letter=J">J</a> 
+<a href="/authors.php?letter=K">K</a> 
+<a href="/authors.php?letter=L">L</a> 
+<a href="/authors.php?letter=M">M</a> 
+<a href="/authors.php?letter=N">N</a> 
+<a href="/authors.php?letter=O">O</a> 
+<a href="/authors.php?letter=P">P</a> 
+<a href="/authors.php?letter=Q">Q</a> 
+<a href="/authors.php?letter=R">R</a> 
+<a href="/authors.php?letter=S">S</a> 
+<a href="/authors.php?letter=T">T</a> 
+<a href="/authors.php?letter=U">U</a> 
+<a href="/authors.php?letter=V">V</a> 
+<a href="/authors.php?letter=W">W</a> 
+<a href="/authors.php?letter=X">X</a> 
+<a href="/authors.php?letter=Y">Y</a> 
+<a href="/authors.php?letter=Z">Z</a>
+</div>
+</center>
+</div>
+<br>
+<center>
+© 2015 BUZZQUOTES<a href="/about.php">About</a> - <a href="/privacy-policy.php">Privacy policy</a> - <a href="#">Contact</a> 
+</center>
+
+</div><!--END CONTAINER-->
+<!-- End Document––––––––––––––– -->
+<link rel="image_src" href="">
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-42128419-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- addthis -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4d81f899126794f5" async="async"></script>
+<script type="text/javascript">
+var infolinks_pid = 90757;
+var infolinks_wsid = 8;
+</script>
+<script type="text/javascript" src="http://resources.infolinks.com/js/infolinks_main.js"></script>
+
+
+
+
+
+
+
+
+<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none; max-width: none;"></div></div></body></html>
