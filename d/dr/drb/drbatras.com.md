@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drbatras.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322141900id_/http%3A//www.drbatras.com/en/privacy-policy.aspx%3Fsl%3Dfl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drbatras.com privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922012745id_/http%3A//www.drbatras.com/en/privacy-policy.aspx%3Fsl%3Dfl) for the most accurate reproduction.*
 
 # Privacy Policy - Dr. Batra's
 
