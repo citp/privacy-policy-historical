@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyfreeware.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607173540id_/http%3A//dailyfreeware.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyfreeware.net privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921192423id_/http%3A//dailyfreeware.net/privacy-policy) for the most accurate reproduction.*
 
 # Daily Freeware DownloadPrivacy Policy - Daily Freeware Download
 
@@ -26,7 +26,7 @@ about goods and services of interest to you.
 
 * Google  
 Google, as a third party vendor, uses cookies to serve ads on dailyfreeware.net.  
-Google's use of the DART cookie enables it to serve ads to you based on your visit to dailyfreeware.net.  
+Google’s use of the DART cookie enables it to serve ads to you based on your visit to dailyfreeware.net.  
 and other sites on the Internet.  
 If you would like more information about this practice and to know your choices  
 about not having this information used by these companies, please visit :  
@@ -37,7 +37,8 @@ http://www.echotopic.com/privacy.html
 
 Links  
 This site contains links to other web sites.  
-We are not responsible for the privacy practices or the content of any other site.
+We are not responsible for the privacy practices or the content of any other site.  
+
 
   
 
