@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proranktracker.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610113012id_/http%3A//www.proranktracker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proranktracker.com privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921185231id_/http%3A//www.proranktracker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pro Rank Tracker
 
@@ -59,9 +59,6 @@ Pro Rank Tracker having a mailing address at P.O Box 22602, Tel Aviv 61226, Isra
 9.1 We use cookies to make use of the Website as convenient as possible. Cookies are pieces of information that a website transfers to a computing device for record keeping purposes. The majority of web browsers are set to accept cookies. The cookies do not themselves personally identify users. However, they identify users' browsers. The cookies allow the Company to remember your preferences and improve your experience of the Website.
 
 9.2 It is possible to set your browser to refuse cookies. Please note that this may limit the services provided by us through the Website. If you would like to stop receiving cookies, check your browser's help information or visit the following links for further information:
-
-  
-
 
   * [Aboutcookies.org](http://www.aboutcookies.org/)
   * [Internet Explorer](http://windows.microsoft.com/en-GB/windows7/How-to-manage-cookies-in-Internet-Explorer-9)
