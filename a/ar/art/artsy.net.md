@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the artsy.net privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627153418id_/https%3A//www.artsy.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artsy.net privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921073452id_/https%3A//www.artsy.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Artsy
 
-## Our Privacy Policy was recently updated. Please review it carefully. To view the previous version of our Privacy Policy, [click here](https://web.archive.org/past-privacy).
+##Our Privacy Policy was recently updated. Please review it carefully. To view the previous version of our Privacy Policy, [click here](https://web.archive.org/past-privacy). 
+
+#ARTSY PRIVACY POLICY 
 
 Last Updated: June 4, 2015
 
 This Privacy Policy ("Policy") describes how Art.sy, Inc. d/b/a Artsy (“Artsy” or “we” or “our” or “us”) collects, stores, shares, and uses information, and your choices about privacy when you use our website, products, and services (collectively, “Services”). Your privacy is important to us, and we ask that you read this Policy carefully to be informed about our practices. This Policy is part of our Terms of Use, which can be viewed at: [https://artsy.net/terms](https://web.archive.org/terms). Any capitalized terms that are used but not defined in this Policy have the same meaning given to them in our Terms of Use. By accessing or using our Services in any way, you agree that your information may be collected, stored, shared, and used as described in this Policy and our Terms of Use. 
 
-## When This Privacy Policy Applies
+##When This Privacy Policy Applies
 
 This Policy applies to all of our Services, regardless of how you use them, and whether or not you register for an Artsy account. This Policy only applies to how we collect, store, share, and use information. This Policy does not apply to any entity that we do not own or control, or to any person that we do not employ or manage. 
 
@@ -51,7 +53,7 @@ The information we collect helps us to operate, improve, protect, and customize 
 
 
 
-## Communication Preferences
+##Communication Preferences
 
 We provide registered Users with settings on our Services to control whether they receive certain communications from us. If you do not want to receive marketing email from us, you can unsubscribe by following the unsubscribe link in the email you received, changing your preferences in your profile and account settings (if you have registered for an Artsy account), or [emailing us](mailto:privacy@artsy.net). Please note that opt-out requests may take up to ten (10) business days to process. You may not be able to opt out of receiving some communications from us, such as email about your account, your relationship with us, or your transactions.
 
@@ -61,11 +63,11 @@ We provide registered Users with settings on our Services to control whether the
 
 **Profile and Account Information.** To make our Services more interactive, certain information about Users’ profiles or accounts may be made accessible to other Users on or through our Services, as indicated in Users’ profile and account settings on our Services, or as otherwise indicated by us when you use certain Services. For example, if your public profile is enabled in your settings, your name and certain information that you may enter in your profile (such as a bio, location and website) will be visible to other Users on our Services. Our Services may include settings to control how certain profile or account information is shared with other Users on or through our Services, and you should check your profile and account settings regularly to be informed of your current choices. Please also note that public information on our Services may be indexed by third-party search engines and accessible through them. 
 
-## Favorites and Follows
+##Favorites and Follows
 
 Our Services may include features that enable you to designate your “favorite” artists, designers or other creators, artwork or other items, or categories of artwork or other items. Our Services may also include features that enable you to “follow” galleries, institutions or other Users, artists, designers or other creators, or categories of artwork or other items. If your public profile is enabled, other Users may also be able to follow you, and the number of Users that follow you may be visible to other Users on our Services. You may be able to share, or choose not to share, certain information about your favorites, follows or followers on or through our Services, as indicated by us in connection with these features or in your profile and account settings. 
 
-## User Content
+##User Content 
 
 As described in our Terms of Use, some Services may enable you to provide User Content on or through our Services. When you post or publish User Content on our Services, any information contained in the User Content (including information in images or videos) becomes publicly accessible on our Services (and may also be indexed by and accessible through third-party search engines), and we and other Users may access and use the User Content as described in our Terms of Use. This applies even if you or someone else also provides such information to us by other means, and our use of such information might have been more limited under this Policy if such information was only provided to us by such other means. It is your responsibility to ensure that you have the right to share any information about others that you may share with us or with others through our Services. 
 
@@ -75,6 +77,8 @@ As described in our Terms of Use, some Services may enable you to provide User C
 
 **Sharing Information with Other Users.** When you use our Services to contact another User or perform a transaction with another User, they may obtain your name, email address and (as applicable) other contact information from us to facilitate your communications or transactions. Sometimes other Users may be able to obtain additional information about you when you use our Services to contact them or perform a transaction with them. For example, they may be able to obtain information about your location, interests and other information, as indicated by us in connection with these Services, or as otherwise indicated in your profile and account settings. Our Services may include settings that enable you to choose how certain information is shared with other Users when you contact them or perform a transaction with them, as indicated when you use these Services or in your profile and account settings. Please note that other Users may have their own privacy policies that apply to their use of information, and you may wish to ask them about their policies before sharing information with them to be informed of their practices. As mentioned above, this Policy does not apply to any entity that we do not own or control, or to any person that we do not employ or manage, and we are not responsible for their privacy policies or practices.
 
+##With Whom do We Share Personal Information?
+
 **Personal Information.** Under this Policy, "Personal Information" means information that by itself can be used to identify or contact a specific person (for example, a person’s name, email address, postal address or phone number), and Personal Information does not include information that has been aggregated or made anonymous so that by itself, it no longer identifies and can no longer reasonably be used to contact a specific person. We will only share your Personal Information with others in the ways described in this Policy, or otherwise with your prior consent. In addition to the other sharing of Personal Information described in this Policy, we may share your Personal Information with others in the following contexts.
 
 **Service Providers.** We may contract with third-party service providers that help us provide some of our Services, or that perform some services for us related to our Services, and they may access your Personal Information as needed to perform their functions for us. Examples may include but are not limited to order fulfillment, package delivery, payment processing, bill collection, fraud investigation, email and postal mail administration, customer service assistance, web and mobile data analytics, and server and database hosting services. 
@@ -83,15 +87,15 @@ As described in our Terms of Use, some Services may enable you to provide User C
 
 **Legal Purposes.** We may access, preserve, and disclose your Personal Information and/or other information if we believe that such access, preservation or disclosure is reasonably necessary to: (i) comply with any law, regulation, legal process or governmental request (such as search warrants, subpoenas or court orders), which may include responding to legal requests from jurisdictions outside the United States; (ii) enforce our Terms of Use or our other policies or agreements with Users, or investigate potential violations; (iii) detect, prevent or otherwise address fraud, security or technical issues; (iv) protect or enforce the rights or property of Artsy, you, or any other person or entity; or (v) prevent physical harm to any person, including situations involving possible violence or self-harm. 
 
-## Aggregated and Non-Personal Information
+##Aggregated and Non-Personal Information
 
 We may aggregate or make anonymous any Personal Information that we have obtained in any way from or about you or others so that such information no longer contains any Personal Information. We may use and share any aggregated, anonymous or other non-personally identifying information for any purposes, including research and development, marketing, and to inform others about how our Services or Content are engaged with or used. Information we share in these contexts will not include your Personal Information.
 
-## Payment Information
+##Payment Information 
 
 If you use our marketplace or register for certain Services, you may need to provide payment information, such as a credit card number, type and expiration date. We do not store credit card information entered on our Services. This information is stored by a third-party payment processor, and the use and storage of this information will be subject to the payment processor’s own [terms of service](https://stripe.com/us/terms) and [privacy policy](https://stripe.com/us/privacy). We do receive certain information from the payment processor, including a unique token that we associate with you to authorize your purchases, and in certain cases, the last four digits of the credit card number associated with that token, in order to help prevent fraud and identity theft. 
 
-## Analytics Providers
+##Analytics Providers
 
 Our third-party data analytics providers include but are not limited to Google Analytics and Mixpanel. These providers help us to better understand how our Services and Content are accessed and used, which in turn helps us to develop and improve them. These providers may use cookies, web beacons and similar technologies to collect information about how Users access or engage with our Services, Content, emails, and ads on or off our Services. For more information about how Google may collect and process information in connection with Google Analytics, click [here](http://www.google.com/policies/privacy/partners/). You may opt-out of receiving cookies from [Google Analytics](https://tools.google.com/dlpage/gaoptout) and [Mixpanel](https://mixpanel.com/optout/) on their respective websites. If you opt-out of receiving cookies from one of these providers, it may place a cookie on your device to remember your preference. Accordingly, if you delete cookies, install a new browser, or start using a new device, you may need to repeat the opt-out process. 
 
@@ -99,37 +103,41 @@ Our third-party data analytics providers include but are not limited to Google A
 
 Our Services may include links to other websites or services that we do not own or control, and other websites or services that we do not own or control may include links to our Services. Our Services may also include features that enable you to link your Artsy account to your account on other social media services. For example, you may be able to sign up for (or sign in to) our Services through another social media service. Our Services may also include features that enable you to share Content on other websites and social media services. However, these links and features are not an endorsement by us of any other websites or services, or any of their privacy policies or practices. When you visit or use other websites or services, they may collect information from you, including through the use of cookies, web beacons or similar technologies. We encourage you to read the privacy policies of other websites and services that you visit or use to be informed of their practices.
 
-## International Processing
+##International Processing
 
 Artsy is based in the United States. Our Users (including the galleries and other organizations that use our Services as exhibitors or sellers), service providers, and other third parties you may interact with in connection with our Services, may be located in the United States and other countries around the world, including countries that may not offer the same level of protection for Personal Information as that offered in the United States. By accessing or using our Services in the United States or any other country or jurisdiction, you agree that your information may be transferred and processed in the United States and any other country or jurisdiction.
 
-## Children’s Information
+##Children’s Information 
 
 Our Services are not directed to children under the age of 13, and we do not knowingly collect Personal Information from people in this age group. If you believe we may have collected Personal Information from anyone under the age of 13, please [contact us](mailto:privacy@artsy.net). 
 
-## Security
+##Security
 
 Every Artsy account is protected by a password to help maintain privacy and security on our Services. If you register for an account, we urge you to use a strong password containing unique numbers, letters and special characters, and to protect the confidentiality of your password at all times. If you suspect or become aware of any unauthorized access to or use of your account or password, you agree to immediately [notify us](mailto:privacy@artsy.net) and change your password. Please note that while we seek to protect your information and maintain the security of our Services, due to the possibility of hardware or software failure, unauthorized entry or use and other factors, we cannot guarantee the security of any information, whether online or offline. Any transmission of information is at your own risk. Please also note that any information you provide to us via email is unencrypted.
 
-## Statutory Requests
+##Statutory Requests
 
 Some jurisdictions have laws that give people the right to access or correct their Personal Information which a company has about them. We will honor any statutory right you may have to access or correct your Personal Information that we have in our records, and you can email such requests to [privacy@artsy.net](mailto:privacy@artsy.net). Once we receive your request, we will let you know if an administrative fee will apply to fulfill your request, as permitted by applicable law. However, please note that even if you have a legal right to request access to information or to correct information, as permitted by applicable law, we may reject requests that are unreasonably repetitive, would require disproportionate technical effort (for example, developing a new system or materially changing an existing practice), would jeopardize the privacy of others, or would be extremely impractical to fulfill (for example, requests to access information located on backup systems). 
 
-## Dispute Resolution
+##Dispute Resolution
 
 As this Policy is part of our Terms of Use, any disputes involving you and us that relate to privacy or the use of your information, and that arise out of or are related to this Policy or our Services, will be subject to our Terms of Use, including any provisions regarding the limitation of damages and liability, choice of law, and dispute resolution.
 
-## Changes to This Privacy Policy
+##Changes to This Privacy Policy
 
 Our business changes with time, and our Privacy Policy will change also. We reserve the right to change this Policy, including our Cookie Policy, without prior notice, at any time at our sole discretion. For example, and without limitation, we may change this Policy to reflect changes to the law or changes to our Services. All changes to this Policy will be effective when posted on our Services, or at such later date as may be specified in the updated Policy. We will notify you of any changes to this Policy by posting the updated Policy on our Services, and you agree to review this Policy regularly and inform yourself of all applicable changes. By continuing to use our Services after any changes to this Policy become effective, you agree to such changes and the updated Policy. Unless we notify you otherwise, the current version of this Policy will apply to all information that we have about you or your account. 
 
+##Contacting Artsy
+
 If you have questions or comments about our Privacy Policy or practices, you may contact us by email sent to [privacy@artsy.net](mailto:privacy@artsy.net), or by postal mail sent to Artsy, 401 Broadway, 25th Floor, new York, NY 10013, U.S.
 
-## Effective Date
+##Effective Date
 
 This Privacy Policy is effective June 4, 2015.
 
 To view the previous version of our Privacy Policy, [click here](https://web.archive.org/past-privacy). 
+
+#Cookie Policy 
 
 **Cookies, Web Beacons, and Similar Technologies.** We may use cookies, web beacons and similar technologies, such as tracking URLs, to collect information about how you or others access or engage with our Services, Content, emails, and ads displayed on or off our Services, and to operate, develop, improve, and customize our Services, Content, and marketing, including ads displayed on or off our Services. Most browsers automatically accept cookies, but your browser may have settings that enable you to decline or delete cookies on your device. Please note that if you decline cookies, you may not be able to sign in, customize, or use some of the interactive features of our Services, as some of our Services require cookies to operate.
 
