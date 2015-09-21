@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womansdivorce.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502195306id_/http%3A//www.womansdivorce.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womansdivorce.com privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921205933id_/http%3A//www.womansdivorce.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | WomansDivorce.com
 
@@ -50,12 +50,12 @@ Some third-party advertisements may be provided by Google, which uses cookies to
 
 
 
-**Contacting Us**
+ **Contacting Us**
 
 If you have any questions about this privacy statement, or your dealing with this web site, please feel free to contact us at:
 
 Woman's Divorce  
-410 N. Main, PMB 127  
+624 Commerce Way PMB 127  
 Clovis, NM  88101  
 [Contact Us by email](http://www.womansdivorce.com/contact-us.html)  
 
