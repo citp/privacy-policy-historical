@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tokbox.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321080056id_/https%3A//tokbox.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tokbox.com privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921192508id_/https%3A//tokbox.com/support/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | TokBox
 
@@ -14,7 +14,9 @@ If you have an unresolved privacy or data use concern that we have not addressed
 
 TokBox complies with the U.S.–E.U. Safe Harbor framework and the U.S.–Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. TokBox has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view TokBox’s certification, please visit http://www.export.gov/safeharbor/.
 
-## What information does Tokbox collect from you? 
+[](https://privacy.truste.com/privacy-seal/TokBox,-Inc-/validation?rid=89e5b5b9-a78f-44e8-b4b5-80fc3368779d "TRUSTe European Safe Harbor certification")
+
+## What information does TokBox collect from you? 
 
 We collect and store the following types of information from our users:
 
@@ -136,5 +138,4 @@ If you have any questions or concerns regarding privacy at TokBox, please send u
 TokBox, Inc.  
 San Francisco  
 501 2nd Street, Suite 310  
-San Francisco, CA 94107   
-
+San Francisco, CA 94107 
