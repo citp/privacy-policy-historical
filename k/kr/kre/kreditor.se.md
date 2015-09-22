@@ -1,115 +1,73 @@
-> *The following text is extracted and transformed from the kreditor.se privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414135313id_/http%3A//cdn.klarna.com/1.0/shared/content/legal/terms/Klarna/en_gb/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kreditor.se privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922163920id_/https%3A//www.klarna.com/us/privacy-statement) for the most accurate reproduction.*
 
-# Terms and Conditions
+# Klarna - Privacy Statement
 
-**Klarna Privacy Statement**
+EFFECTIVE DATE: March 31, 2015 
 
-Klarna AB (registered in the Swedish companies register under the registration number 556737-0431, referred to as “Klarna”, “we” or “us”) is a provider of financial services, to enable consumers to make online purchases. Klarna’s principal place of business is registered at Sveavägen 46, 111 34 Stockholm (Sweden), authorised by and under the supervision of the Swedish Financial Supervisory Authority.
+Klarna Inc. (“ **Klarna** ,” “ **we** ” or “ **us** ”) values your privacy. This Website Privacy Policy (the “ **policy** ”) applies to [www.klarna.com/us](http://www.klarna.com/us) and any information associated with this Site. In this policy, we describe how we collect, use, and disclose information that we obtain about visitors to our Site. The Klarna Checkout Privacy Policy, which describes your rights about information collected when you use Klarna products, may be found in the Klarna Checkout Terms and Conditions. Again, **please note that this policy is limited to data associated with this Site.**
 
-With this Privacy Statement we want to inform you about how your personal data is processed by Klarna. Information about Klarna and how to contact us is found at the bottom of this document. Klarna is committed to ensuring that your privacy is protected and you can always contact us if you have any questions.
+By visiting the Site, you agree that your personal information will be handled as described in this policy. The Klarna.com/us Website Terms of Use are incorporated by reference into this policy, and available on this Site. 
 
-**BY USING KLARNA CHECKOUT, YOU AGREE TO OUR PRIVACY STATEMENT AND USER TERMS AND OUR COLLECTION, USE AND SHARING OF YOUR PERSONAL DATA, INCLUDING ANY TRANSFER FOR DATA PROCESSING IN A STATE OUTSIDE THE EU/EEA AREA, AS WELL AS THE ABILITY TO USE ELECTRONIC COMMUNICATION CHANNELS FOR INSTANCE FOR SENDING COMMERCIAL MESSAGES, AND OTHER ACTIVITIES, AS DESCRIBED BELOW. IT IS IMPORTANT THAT YOU READ AND UNDERSTAND THE ENTIRE PRIVACY STATEMENT BEFORE USING KLARNA CHECKOUT.**  
+**What Information Do We Collect About You and Why?**
 
-**Collection of personal data**
+We may collect information about you directly from you, as well as automatically through your use of our Site. 
 
-When using any of Klarna’s services, Klarna may collect and process the following categories of personal data about you:
+**_Information We Collect Directly From You_** At this time, you can browse all portions of our Site without registering, however, this may change at any time and this policy will be updated to reflect the change. You may submit certain personal information to us in order to learn more about Klarna products and services, including contact details such as your name, address, email address, and phone number. We may also collect contact details and opinions you provide on our Site via forms, surveys, contests, user comments and other mechanisms. 
 
-**Information you give us**. You may give us information about you by interacting with Klarna Checkout (such as filling out forms) or we may also process additional data that you may choose to disclose to us by using our website, over phone or via email. This includes information you provide when you register on Klarna Checkout, place an order on a merchant site, choose to pay with one of Klarna’s payment methods, and when you contact us in relation to the services we provide. The information you give us may include the following:
+**_Information We Collect Automatically_** We may automatically collect the following non-personally identifying information about your use of our Site through cookies, web beacons, log files, and other technologies including: your domain name; your browser type and operating system; web pages you view, links you click and your activities in the Services; your IP address; time stamp and the length of time you visit our Site and the referring URL, or the webpage that led you to our Site; mobile device ID; location and language information; device name and model. We may combine this information with other information that we have collected about you or that you have provided to us, including, where applicable, your user name, name, and other personal information. Please see the section “Cookies and Other Tracking Mechanisms” below for more information. 
 
-  1. Contact information – name, title, address, email address, mobile phone number, etc;
-  2. Payment information – card number, invoice information, bank account number etc;
-  3. If you choose to pay by card, we shall process the credit or debit card data (card number, validity date, and CCV code).
+**How We Use Your Information**
 
+We use your information, for the following purposes: 
 
-
-**Information we collect about you.** With regard to your interaction with Klarna Checkout (including where you use Klarna Checkout on different merchant sites), we may automatically collect the following information:
-
-  1. Information on goods/services – details about the items you purchase etc;
-  2. Historical information – information about your previous purchases, payment history, possible rejection etc;
-  3. Financial information – information about your income and potential negative payment remarks (where available);
-  4. Information about interaction between you and Klarna – for Klarna Checkout: page response times, download errors and methods used to browse away from the page. For electronic communication: delivery notice;
-  5. Device information – such as Internet protocol (IP) address used to connect your computer to the Internet, language settings, browser settings,  time zone setting, operating system and platform and screen resolution; and
-  6. Geographical information.
+  * To provide more information about our products and services to you, to respond to your inquiries, and for other client service purposes.
+  * To tailor the content and information that we may send or display to you, to offer location customization, and personalized help and instructions, and to otherwise personalize your experiences while using the Site.
+  * For marketing and promotional purposes. For example, we may send you news and newsletters, special offers, and promotions, or to otherwise contact you about products or information we think may interest you.
+  * To better understand how users access and use our Site, both on an aggregated and individualized basis, in order make improvements and respond to user desires and preferences, and for other research and analytical purposes, through the use of automated devices and applications.
 
 
 
-**Use of Personal Data**
+**How We Share Your Information**
 
-All data collected is used to operate and improve our service to you and to provide you a simplified payment service through Klarna Checkout. Klarna processes personal data for the following purposes:
+We may share your information, as follows: 
 
-  * to confirm your identity,
-  * to administer your payment and the customer relationship - to carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products and services that you request from us; 
-  * for customer analysis, to administer Klarna Checkout and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
-  * to improve our services to ensure that content is presented in the most effective manner for you and for your device;
-  * to prevent misuse or improper use of Klarna’s services as part of our efforts to keep Klarna Checkout safe and secure;
-  * to assess on which payment options Klarna can offer you;
-  * to carry out internal credit assessments;
-  * to carry out risk analysis and management;
-  * business development; and
-  * to comply with applicable laws.
+  * **_Service Providers_**  We may use service providers to assist us with the Site and may disclose the information we collect from you to third party vendors, service providers, contractors or agents who perform functions solely on our behalf, and they may not use the information for their own purposes.
+  * **_Aggregate and Non-Personally Identifying Information_**  We may share aggregate or non-personally identifying information about users with third parties for marketing, advertising, research or similar purposes.
 
 
 
-Klarna may also use your data in order to send you relevant information regarding used or similar services by the Klarna group and to conduct customer satisfaction surveys regarding our services (e.g. after you have contacted Klarna’s customer service). You can always withdraw your consent if you do not want us to use your data in this way, free of charge, by sending an email to privacy[at]klarna.co.uk.
+**Our Use of Cookies and Other Tracking Mechanisms**
 
-**Disclosure of your Information**
+We and our third party service providers use cookies and other tracking mechanisms to track information about your use of our Site and to track users across unaffiliated sites. We may combine this information with other personal information we collect from you (and our third party service providers may do so on our behalf). 
 
-We may share your information with selected third parties, including the following:
+Currently, our systems do not recognize browser “do-not-track” requests. You may, however, disable certain tracking as discussed in this section (e.g., by disabling cookies). 
 
-**Klarna group companies, suppliers and subcontractors.** Klarna may transfer your personal data to other companies in the Klarna Group, suppliers and subcontractors for the performance of any contract we enter into with them or you, and they will only process your personal data for the purposes described in this Privacy Statement.
-
-**Merchants.** Klarna may share your personal data with the e-store at which you made your purchase. If so, all personal data disclosed to the merchant will be subject to the merchant's privacy policies and practices.   We do not accept any responsibility or liability for these policies.
-
-**Credit reference agencies.** You agree that your personal data may be shared with credit reference agencies for the purpose of assessing your credit score if you are offered, and apply for, any of Klarna's payment methods.
-
-**Divestment.**  We may disclose your personal information to third parties:
-
-  * In the event that Klarna sells or buys any business or assets, in which case Klarna may disclose your personal data to the prospective seller or buyer of such business or assets.
-  * If Klarna AB or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+  * **_Cookies_**  Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your web browser for record-keeping purposes. Some cookies allow us to make it easier for you to navigate our Site, while others are used to enable a faster log-in process, or to allow us to track your activities at our Site. Most web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in the future. The Help portion of the toolbar on most browsers will tell you how to do control cookies. Visitors to our Site who disable cookies will be able to browse certain areas of the Site, but some features may not function.
+  * _**Clear GIFs**_  Clear GIFs are tiny graphics with a unique identifier, similar in function to cookies. In contrast to cookies, which are stored on your computer’s hard drive, clear GIFs are embedded invisibly on web pages. We may use clear GIFs (a.k.a. web beacons, web bugs or pixel tags), in connection with our Site to, among other things, track the activities of Site visitors, help us manage content, and compile statistics about Site usage.
+  * _**Third Party Analytics**_  We may use automated devices and applications to evaluate usage of our Site. We use these tools to help us improve our Site, performance and user experiences. These entities may use cookies and other tracking technologies to perform their services. We do not share your personal information with these third parties.
 
 
 
-**Where Klarna stores your personal data**
+**Third-Party Links**
 
-The data that we collect from you may be transferred to, and stored at, a destination outside of the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. By submitting your personal data, you agree to this transfer, storing or processing. Klarna will take all steps reasonably necessary to ensure that your data is treated securely.
+Our Site may contain links to third-party websites, including social media sites. Any access to and use of such linked websites is not governed by this policy, but instead is governed by the privacy policies of those third party websites. We are not responsible for the information practices of such third party websites. 
 
-Klarna may use electronic communication channels (e.g. email and SMS) in all communication with you.
+**Security of My Personal Information**
 
-**What we DO NOT do with your data**
+We have implemented safeguards to protect the information we collect from loss, misuse, and unauthorized access, disclosure, alteration, and destruction. Please be aware that despite our efforts, no data security measures can guarantee 100% security. You should take steps to protect against unauthorized access to your password, phone, and computer by, among other things, signing off after using a shared computer, choosing a robust password that nobody else knows or can easily guess, and keeping your log-in and password private. We are not responsible for any lost, stolen, or compromised passwords or for any activity on your account via unauthorized password activity. 
 
-We will not sell or otherwise distribute your personal details to third parties unless we have your permission or are required by law to do so.
+**What Choices Do I Have Regarding Use of My Personal Information?**
 
-**Klarna Checkout**
+We may send periodic promotional or informational emails to our clients. You may opt-out of such communications by following the opt-out instructions contained in the e-mail. Please note that it may take up to 10 business days for us to process opt-out requests. If you opt-out of receiving emails about recommendations or other information we think may interest you, we may still send you e-mails about any Services you have requested or received from us. 
 
-Klarna Checkout offers you an easy order process adjusted to your personal needs, which makes it easier for you to place an order online with our partner merchants. If you have used Klarna’s services previously there might be information stored about you, e.g. for customer administration, documentation and similar purposes declared at time of using the service. Where available, Klarna may also use such information when you use Klarna Checkout, to confirm your identity, prevent unauthorised use and personalise the experience of Klarna Checkout.
+**Children Under 13**
 
-Klarna Checkout automatically adapts the risk assessment and by that also the service every time you purchase, making sure that you do not need to enter more information than necessary. In some cases your previously approved address will be pre-filled as soon as you have entered your email address and your postal code.
+Our products and services are not designed for children under 13. If we discover that a child under 13 has provided us with personal information, we will delete such information from our systems. 
 
-By clicking on the "I agree" button you agree that we may reuse the data you previously provided to us and we may carry out limited credit searches to help us decide which payment options to offer you. These limited credit searches will be visible to you and to Klarna on your credit file, but they will not affect your chances of obtaining credit in the future. It is only if you are offered and then actively apply for Pay Monthly, that Klarna will carry out a search which may be seen by other lenders and which will affect your credit rating (see below). Unless you apply for Pay Monthly, the record of the limited search Klarna will make will only be visible to you and to Klarna. The credit reference agencies will supply us with credit information, as well as information from the Electoral Register. We will use this information for confirmation purposes. We may use credit scoring methods to assess your application and to verify your identity.
+**Contact Us**
 
-**Klarna Payment Methods**
+If you have questions about the privacy aspects of our Services or would like to make a complaint, please contact us at legal_us@klarna.com 
 
-When choosing to pay with one of Klarna’s payment methods (e.g. Pay After Delivery or Pay Monthly), Klarna may also, where applicable, collect additional historical information about purchases and payment behaviour from the estore that you purchase.
+**Changes to this Policy**
 
-If you choose to apply for Pay Monthly, we will make a full credit search that will be visible to other lenders. We will ask for, record and use the following types of information:
-
-1.             Financial information – we might ask you about your annual household income, outgoings, and for other similar information and may seek to verify the information you provide against your credit record with a credit reference agency; and
-
-2.             Positive and negative information about your credit history and potential negative payment remarks (where available).
-
-Automated decisions are used to decide on which payment option to offer and whether to offer you the opportunity to apply for credit. You may apply for a manual reassessment of an automated decision, by contacting Klarna Customer Service.
-
-Details of our credit agreement and data on non-contractual payment behaviour regarding uncontested claims may be submitted to the credit bureaus with due regard to the interests of Klarna, the credit bureau and the debtor. Furthermore, data relating to the relevant purchase may be transferred if a debt is sold to an external debt collection agency. You have the right of access to your personal records held by the credit bureaus and we will supply their names and address upon request to privacy[at]klarna.co.uk.
-
-**Use of links**
-
-Klarna Checkout may contain links to other websites. If you visit other websites Klarna’s user terms will no longer be valid. We recommend that you read the user terms applicable for those websites before using them.
-
-**Contact us**
-
-Klarna AB is the controller for the processing of your personal data in Klarna’s services and abides by Swedish data protection legislation. You have the right to receive a transcript of records of how your personal data is processed once a year free of charge. You also have the right to correct inaccurate information about you. To request a transcript of records, request correction of personal data, apply for a manual reassessment of an automated credit decision, opt-out from receiving further information about our services or for additional information about Klarna’s processing of personal data, please send an email to privacy[at]klarna.co.uk.
-
-Klarna AB is a company incorporated under the laws of Sweden and registered at the Swedish companies register under registration number 556737-0431. Klarna AB is authorised to provide financial services by Finansinspektionen (the Swedish financial supervisory authority). Further information about Klarna you can find on www.klarna.co.uk.
-
-____________  
-This Privacy Statement was last updated on 9 September 2014.
+This policy is current as of the Effective Date set forth above. We may change this policy from time to time, so please be sure to check back periodically. We will post any changes to this policy on our Site. If we make any changes to this policy that materially affect our practices with regard to the personal information we have previously collected from you, we will aim to provide you with notice in advance of such change by highlighting the change on our Site. 
