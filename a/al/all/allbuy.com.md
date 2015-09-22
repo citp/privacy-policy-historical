@@ -1,165 +1,81 @@
-> *The following text is extracted and transformed from the allbuy.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806193743id_/http%3A//www.allbuy.com/doc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allbuy.com privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922100655id_/https%3A//www.allbuy.com/policy) for the most accurate reproduction.*
 
-# AllBuy丨Offer You Home, Electronics, Outdoor Products and Tools in High Quality
+# AllBuy - shop xiaomi series,huawei and newest Wearable gadgets, shop with daily deals,renewed promos,coupon codes.
 
-We are glad that you (referred to herein as "the customer", "you" "your(s)" or "user") have chosen to shop at AllBuy.com. We are committed to protecting your privacy online. This page explains how we collect, use and protect the information that you provide to us. We respect your privacy and intend to give you as much control as possible over your personal information.
+This Privacy Policy identifies and describes the way Allbuy uses and protects the information we collect about users. All use of Allbuy's products and services. as well as visits to our websites, are subject to this Privacy Policy.
 
-_What Information AllBuy Collects_
+### The Information We Collect, How We Collect it, And How We Use it.
 
-AllBuy may collect three types of information from customers of AllBuy: 
+We may collect different types of personal and other information based on your use of our products and services.  
+Some examples include:  
+Contact Information that allows us to communicate with you - including your name, address, and e-mail address;  
+Equipment, Performance, Allbuy Websites Usage, Viewing and other Technical Information about your use of our network, services, products or websites.
 
-Personally Identifiable Information
+### We collect information in two primary ways
 
-Device Information
+  * ● You give it to us when you login with your Facebook credential;
+  * ● We collect it automatically when you visit our websites or use our products and services
 
-Aggregate Information
 
-_Personally identifiable information_ is any piece of information which can potentially be used to uniquely identify, contact, or locate you (such as name, email address, postal address, telephone number).
 
-_Device information_ is information about the device and its attributes (such as information about how your browser is configured, whether your device has enabled cookies, its Flash settings, the device's identification number and other characteristics about the device); it also may be personally identifiable information in cases where it is associated with the name or other identifier for you. We use device information for purposes such as enhancing your experience and fraud prevention.
+### We may use the information we collect in a variety of ways, including:
 
-_Aggregate information_ is non-personally identifiable/anonymous information about customers of AllBuy (such as frequency of visits to Sites, Site pages most frequently accessed browser type). Aggregate information also may include pages visited along with any navigation and in-page interactions used during each visit. In-page interactions monitored include: clicks and selections, mouse movement, page scrolling, and form fields focused on (specific keystrokes entered into each field are not collected). Aggregate information is used in a collective manner and no single person can be identified by that compiled information.
+  * ● Providing you with the best user experience possible;
+  * ● Providing the services you use, and to respond to your questions;
+  * ● Communicating with you regarding service updates, offers, and promotions;
+  * ● Delivering customized content that may be of interest to you ;
+  * ● Addressing network integrity and security issues;
+  * ● Investigating, preventing or taking action regarding illegal activities, violations of our Terms of Service or Acceptable Use Policies. 
 
-_Social Network Login_
 
-If you chose to use third-party social networking sites, such as Facebook or Twitter, to log into one of our sites that offers that login feature, we may collect information, such as your basic profile information, gender, age, interests, and other demographic and geographical information, from the social networking site you use to interact with our site. If you do not want to share information from your social networking account with us you can either decline to use these features or check your social networking site's current privacy setting options to see what options they provide for limiting disclosures when you use login sharing features.
 
-This privacy policy will apply to our use of information collected about you through these offerings. We do not control the privacy practices of your social networking sites. As a result, we want you to be aware that when you use these offerings you may be providing information to both us and the social networking site, and you should review your social networking site's privacy policy to be sure that you know how it will use any data that it collects. Similarly, if you choose to post content from our site through your social networking accounts, you will be sharing information about your activities with your social networking provider.
+### Online Activity Tracking
 
-_Cookies and Other Technologies_
+We collect information about your activity on Allbuy websites for a number of purposes using technologies such as cookies, user behavior, and server log files.
 
-AllBuy uses cookies on AllBuy. A "browser" or "HTTP" cookie is a unique text file that may be used for data analysis, and enables a web site to tailor information presented to you based on your browsing program. AllBuy may use browser cookies to personalize your pages at a Site, to remember you when you register for products or services, for fraud prevention, or to track visits to a Site. If you do not want AllBuy or our partners to deploy browser cookies in your browser when you visit AllBuy, you may set the browser to reject cookies or to notify you when a web site tries to place cookies in the browser program. Rejecting cookies may affect your ability to use some of the products, features, functions, or services on a Site. But **this Site's cookies do not and cannot infiltrate your hard drive to gather any confidential information.**
+We use that information to help tailor the content you see on our site.
 
-AllBuy and our partners also use other technologies to remember personal information when you use our website, online services, and applications. 
+### Information Sharing
 
-AllBuy uses cookies to  
-* speed up navigation  
-* track site usage  
-* recognize customers and customer access privileges   
-* enable selection and purchase products on AllBuy record your browsing activity and purchases 
+### With Allbuy Products: Subject to applicable legal restrictions, Allbuy products may share your Personal Information with each other to make sure your experience:
 
-So that we can make your shopping experience in AllBuy.com more convenient and provide you with better service.
+  * ● Is as seamless as possible;
+  * ● Benefits fully from what Allbuy has to offer.
 
-  
-Any electronic image on AllBuy.com, such as an ad banner, can function as a web beacon. We may use content or ads from third-party advertising companies that may use cookies and web beacons to measure web page visits or amount of products purchased.   
-**Any information these third parties collect via cookies and web beacons is not linked to any personal information we collect.**
 
-_Log Files_
 
-AllBuy servers may automatically log aggregate information, such as your IP address, domain name, browser type, date and time of access, and other log file data. This information may be used to analyze trends or administer the Sites.
+### In Other Circumstances: We may provide Personal Information to non-Allbuy companies or other third parties for purposes such as:
 
-_How AllBuy Uses the Information Collected_
+  * ● Responding to 911 calls and other emergencies;
+  * ● Complying with court orders and other legal process;
+  * ● To assist with identity verification, and to prevent fraud and identity theft;
+  * ● Enforcing our agreements and property rights;
 
-AllBuy may use the personally identifiable information you submit for any purposes related to AllBuy's business, including, but not limited to:
 
-To understand your needs and create content that is relevant to you;
 
-To generate statistical studies;
+Additionally, when you complete a purchase with Allbuy's service, we share your submitted shipping address and phone number for shipping purposes only. This information is shared with the entities fulfilling and shipping your order, such as the merchant and the shipping provider. 
 
-To conduct market research and planning by sending you surveys;
+### Anonymous & Aggregate Information
 
-To notify your referrals of AllBuy services, information, or products when you request that AllBuy send such information to referrals;
+  * ● We collect some information on an anonymous basis. We also may anonymous the personal information we collect about you. 
+  * ● We obtain aggregate data by combining anonymous data that meet certain criteria into groups. 
+  * ● We may share aggregate or anonymous information in various formats with trusted non-Allbuy entities, and may work with those entities to do research and provide products and services. 
 
-To improve services, information, and products;
 
-To help you complete a transaction, or provide services or customer support to you and to recipients of AllBuy products;
 
-To communicate with customers and with recipients of AllBuy products;
+### Safeguarding Your Information: Our Policy an Data Protection and Security
 
-To update customers and recipients of AllBuy products about services, information, and products;
+  * ● We do not sell your Personal Information to anyone for any purpose Period.
+  * ● We maintain information about you in our business records while you are a user, or until it is no longer needed for business, tax, or legal purposes. 
+  * ● We have implemented encryption or other appropriate security controls to protect Personal Information when stored or transmitted by Allbuy. 
+  * ● We require non-Allbuy companies acting on our behalf to protect any Personal Information they may receive in a manner consistent with this Policy. We do not allow them to use such information for any other purpose. 
 
-To notify you of any changes with AllBuy which may affect you;
 
-To enforce terms of use on AllBuy; and
 
-To allow you to purchase products, access services, or otherwise engage in activities you select.
+### Links to/from Other Web Sites
 
-Your names, identifications ("IDs"), and email addresses (as well as any additional information that you may choose to post) may be publicly available on AllBuy when you voluntarily and publicly discloses personally identifiable information, such as when you post personally identifiable information in conjunction with a product. You may not be able to change or remove public postings once posted. Such personally identifiable information may be used by visitors of these pages to send unsolicited messages. AllBuy is not responsible for any consequences which may occur from the use of personally identifiable information that you choose to submit to public pages.
+Allbuy is not responsible for the practices employed by websites linked to or from our website, nor the information or content contained therein. Please remember that when you use a link to go from our website to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including those that have a link on our website, are subject to that website's own rules and policies. Please read over those rules and policies before proceeding.
 
-With respect to surveys, in the event that responses are publicly disclosed, customers will be notified at the time they take the survey. AllBuy will disclose only aggregate information regarding its customers, which as stated earlier is anonymous information that does not identify any specific individual. Circumstances under which AllBuy would publicly disclose such aggregate information include, but are not limited to, sharing survey results with the site population, providing data to AllBuy advertisers on your preferences and/or demographics, and publicizing overall usage data in press communications. Where surveys allow customers to submit written comments, and where AllBuy advises customers of the possibility of such disclosure at the time they take the survey, AllBuy reserves the right to disclose any information provided by customers, provided that no personal information identifying a specific customer is disclosed. Participation in surveys is at a customer's option; AllBuy does not conduct mandatory surveys.
+### Changes to Our Privacy Policy
 
-_Gift Certificates_
-
-If you choose to send a gift certificate to one of your friends, we will ask you for your friend's name and email address. The gift certificate will be delivered via email. AllBuy stores this information for the sole purpose of sending this gift certificate.
-
-Your friend may contact us at [cs@allbuy.com](mailto:cs@allbuy.com) to request that we remove this information from our database.
-
-_CHOICE/OPT OUT_
-
-You make the decision whether to proceed with activities that request personally identifiable information, such as online contact us and order forms. If you do not provide requested information, you may not be able to complete certain transactions.
-
-Customers who use the personally identifiable information of other customers agree to use such information only for:
-
-Using services offered through AllBuy;
-
-Site transaction-related purposes and not for unsolicited commercial messages; 
-
-Or other purposes that the other customer expressly chooses.
-
-AllBuy encourages customers to evaluate privacy and security policies of any of our transaction partners before entering into transactions or choosing to disclose personally identifiable information.
-
-_Email_
-
-AllBuy will not use the personally identifiable information provided to it online in ways unrelated to the purposes identified in the "How AllBuy Uses Personal Information" section above without first letting you know and offering you a choice. If you no longer wish to receive direct marketing materials, AllBuy will provide instructions in its marketing email messages on how to be removed from any lists. AllBuy will make commercially reasonable efforts to honor such requests. For information about how AllBuy may share personally identifiable information, please see the Onward Transfer section below.
-
-_Profile Display_
-
-Your personally identifiable information may be publicly available through your profile display. You have the option to opt out of publicly displaying your real name by changing your display name under the Sites' customer preferences. Profile Display may allow other customers to see your activities, including purchase and sales content, ratings, and comments.
-
-_Photographs_
-
-Customers may have the opportunity to submit photographs to AllBuy for product sharing, contests, and other purposes to be disclosed at the time of request. In these circumstances, AllBuy is designed to allow the public to view, download, save, and otherwise access the photographs posted. By submitting a photograph, you waive any privacy expectations you have with respect to the security of such photographs, and AllBuy's use or exploitation of your likeness. All photographs submitted to AllBuy become the property of AllBuy and will not be returned.
-
-_ONWARD TRANSFER_
-
-With whom may AllBuy share information
-
-Unless AllBuy has your permission, as otherwise described in this Privacy Statement, or as required by law, such as to comply with a subpoena, AllBuy will only share the personally identifiable information you provide online with other entities that are part of the AllBuy corporate family and/or outside service providers who may be used to ship products, process credit cards, provide technical support, handle order processing, or otherwise act on AllBuy's behalf. These service providers, which may include our affiliates, are prohibited from using your information for any other purpose, including their own marketing.
-
-When AllBuy uses third parties to assist in processing your personally identifiable information, AllBuy requires that these third parties establish safeguards to protect the confidentiality of the information that we provide them. 
-
-AllBuy may share personally identifiable information with third parties for marketing purposes, but will provide you with choices about disclosures of personally identifiable information for marketing purposes.
-
-Please be advised that in certain instances, it may be necessary for AllBuy to disclose your personally identifiable information without your permission to government officials or otherwise as required by legal obligations. AllBuy may disclose such personally identifiable information when responding to subpoenas, court orders, or legal process, or to establish or exercise legal rights or defend against claims, including fraud or infringement investigations.
-
-Data collected online may be combined with information you provide through other means of communication, such as postal mail or third parties to further carry out the purposes described above under the heading "NOTICE, How AllBuy uses the information collected regarding customers".
-
-In addition, AllBuy reserves the right to share aggregate information collected from you of AllBuy, without prior notice, with entities that are part of the AllBuy corporate family and unrelated third parties. As stated earlier, aggregate information is used in a collective manner and no single person can be identified by such compiled information.
-
-If you choose to make information available to other people through instant messages, status updates, group forum discussions or lists, electronic mail messages, bulletin boards, blog postings, or by joining groups or using other networking functions that we may offer on the Sites (either our own or through third party applications such as Facebook, Twitter or YouTuBe), this information will be visible to these third parties. Please take care in deciding what information you choose to make available through these mechanisms, as we do not control the manner in which recipients or persons who may see the information may use, retain, or re-disclose the information that you choose to provide. In addition, if you use third party social networking sites to interact with AllBuy, we may exchange information with those social networking sites. Whether to use social networking sites to interact with AllBuy, when that capability is offered, is your choice. In addition, you may restrict the sharing of information from your social networking accounts to the extent permitted by your social networking site's privacy settings.
-
-_Service Orders_
-
-To purchase services, you may be asked to be directed to a third party site, like PayPal, to pay for their purchases. If applicable, the third party site may collect payment information directly to facilitate a transaction. None of this information will be captured or stored by AllBuy.
-
-_Links to third party web sites_
-
-Links to third party web sites or widgets to enable sharing of information through social networks on AllBuy.com are provided solely as a convenience to you. When you use these links, you leave the Sites. AllBuy has not reviewed all of these third party sites, does not control, and is not responsible for, any of the third party sites, their content or privacy practices. AllBuy does not endorse or make any representations about the third party sites, or any information, services, or products found on the sites. If you decide to access any of the linked sites, AllBuy encourages you to read their privacy statements. The customer accesses such sites at his/her own risk.
-
-_Bankruptcy or Sale of business_
-
-AllBuy reserves the right to share or transfer personally identifiable information and aggregate information to a third party should AllBuy ever file for bankruptcy or in the event of a sale, merger or acquisition of AllBuy, provided such third party agrees to adhere to the terms of this Privacy Statement.
-
-_DATA INTEGRITY AND ACCESS_
-
-Should you find inaccuracies in such customers’ information, or desire to close an account or view or remove the personally identifiable information AllBuy may have regarding you, you may contact AllBuy through the communication methods described below, or when technically feasible, directly on a Site. AllBuy will make commercially reasonable efforts to respond to requests for access, updating or removal within thirty (30) days of receiving requests. AllBuy may decline to process customers’ access, updating or removal requests concerning their personally identifiable information if the requests require disproportionate technical effort, jeopardize the privacy of other customers, are inconsistent with our legal obligations, or are impractical (for instance, requests concerning information residing on backup tapes).
-
-_SECURITY_
-
-To prevent unauthorized access or disclosure, maintain data accuracy, and ensure the appropriate use of information, AllBuy implements physical, electronic, and managerial procedures to safeguard and secure the information AllBuy collects. AllBuy uses encryption when using the Internet to transfer or receive requested sensitive personally identifiable information. However, AllBuy does not guarantee that unauthorized third parties will never defeat measures taken to prevent improper use of personally identifiable information.
-
-Internal AllBuy access to customers’ nonpublic personally identifiable information is restricted to AllBuy's administrators and individuals on a need-to-know basis. These individuals are bound by confidentiality agreements.
-
-Your passwords are keys to accounts. Use unique numbers, letters, and special characters for passwords and do not disclose passwords to other people in order to prevent loss of account control. You are responsible for all actions taken in their accounts. Notify AllBuy of any password compromises, and change passwords periodically to maintain account protection.
-
-_Data Retention_
-
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [cs@allbuy.com](mailto:cs@allbuy.com) and we will deactivate your account and will retain and use your information only as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-
-_ENFORCEMENT_
-
-In the event AllBuy becomes aware that the security of a Site has been compromised or your personally identifiable information has been disclosed to unrelated third parties as a result of external activity, including but not limited to security attacks or fraud, AllBuy reserves the right to take reasonable appropriate measures, including but not limited to, investigation and reporting, and notification to and cooperation with law enforcement authorities. In the event of a data breach, AllBuy will make reasonable efforts to notify affected individuals if AllBuy believes that there is a reasonable risk of harm to you as a result of the breach or if notice is otherwise required by law.
-
-If a user has comments or questions about AllBuy's privacy statement, please contact:[cs@allbuy.com](mailto:cs@allbuy.com)
-
- 
+If we change our privacy policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page.
