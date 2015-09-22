@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leadbolt.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322150944id_/http%3A//www.leadbolt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadbolt.com privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922104037id_/http%3A//www.leadbolt.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Leadbolt
 
