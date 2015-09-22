@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colorstv.in privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628214358id_/http%3A//colors.in.com/in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colorstv.in privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922174803id_/http%3A//colors.in.com/in/privacy.html) for the most accurate reproduction.*
 
 # Colors.in.com
 
