@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designcuts.com privacy policy that was archived on 2015-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150311130524id_/http%3A//www.designcuts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designcuts.com privacy policy that was archived on 2015-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150923015655id_/https%3A//www.designcuts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Design Cuts
 
@@ -71,7 +71,8 @@ Design Cuts
 246 STATION ROAD  
 ADDLESTONE  
 WEYBRIDGE  
-KT15 2PS
+KT15 2PS  
+Tel. 01932 268 809
 
 ### Your Consent
 
