@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vircurex.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318045751id_/https%3A//vircurex.com/welcome/privacy%3Flocale%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vircurex.com privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922234709id_/https%3A//vircurex.com/welcome/privacy%3Flocale%3Den) for the most accurate reproduction.*
 
 # Vircurex | Exchange and Trading Platform for Crypto Currencies such as Bitcoin Litecoin Namecoin and many more
 
@@ -7,7 +7,7 @@ Date of last revision: 30th October 2011
 ## Introduction
 
 Protecting personally identifying information is a core business value of ours. This privacy statement describes how Vircurex acquires, collects and uses the personally identifying information that you provide or that is generated while using Vircurex's web sites.   
-If you have questions about this Privacy Statement or want to contact us regarding how we handle your data, please send an email to customerservice@vircurex.com
+If you have questions about this Privacy Statement or want to contact us regarding how we handle your data, please send an email to customerservice@vircurex.com 
 
 ## Cookies
 
