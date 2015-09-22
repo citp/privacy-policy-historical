@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the franchisehelp.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317150355id_/https%3A//www.franchisehelp.com/terms-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franchisehelp.com privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922064643id_/https%3A//www.franchisehelp.com/terms-privacy) for the most accurate reproduction.*
 
 # Terms of Service & Privacy Policy for Franchise Help
 
@@ -60,9 +60,9 @@ We obtain address information about you from third party sources, such _as LeadQ
 
  **2.   ****Information Sharing**
 
-We will share your personal information with third parties only in the ways that are described in this privacy policy.  We do not sell your personal information to third parties.
+We will share your personal information with third parties only in the ways that are described in this privacy policy.  
 
-Based on your expressed interest in the franchise opportunities we provide, when you request additional information about a particular opportunity we share your personal information with those companies so they can contact you directly.  In cases where we do not have direct relationships with a franchise owner, we may share your contact information with franchise consults.   If you do not want us to share your personal information with these companies, contact us at [support@franchisehelp.com](mailto:support@franchisehelp.com)
+Based on your expressed interest in the franchise opportunities we provide, when you request additional information about a particular opportunity we share your personal information with those companies so they can contact you directly.  In cases where we do not have direct relationships with a franchise owner, we may share your contact information with franchise consultants.   If you do not want us to share your personal information with these companies, contact us at [support@franchisehelp.com](mailto:support@franchisehelp.com)
 
   *  _Service Providers_
 
@@ -192,7 +192,7 @@ We may update this privacy policy to reflect changes to our information practice
  **7.   ****   Contact Us**
 
 FranchiseHelp Holdings LLC  
-57 E 11th St, Suite 8A  
+57 E 11th St, Suite 3A  
 New York, NY 10003  
 Phone: 646-419-4365
 
