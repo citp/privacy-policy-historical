@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jdmagicbox.com privacy policy that was archived on 2015-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150518113646id_/http%3A//us.justdial.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jdmagicbox.com privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922092328id_/http%3A//us.justdial.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Justdial US
 
-[](http://us.justdial.com%3C/a%3E) You are here:
+[](http://us.justdial.com%3C/a%3E)
 
 ###  Privacy Policy
 
@@ -36,13 +36,15 @@
 
 **Legal Age of the User:** It is presumed that the user, using the Just Dial service is of Legal Age. In the event the user is not of a Legal age, then any issues or problems arising out of using Just Dial Service/s, which requires a user to be of Legal age, then Just Dial shall not be responsible for any such issues or problems. The aforementioned Privacy Policy (" **Policy** " is for the US based User of Just Dial ) describes the manner in which Just Dial Ltd ((Includes its Affiliates and subsidiaries), a company incorporated under the laws of India, and having its principal place of business at 501 / B, Palm Court Complex, New Link Road, Malad (W), Mumbai 400 064 India)), treats the personal information that you may provide to us, while using our services. 
 
-X
+You are here: X
 
 Email
 
 Password
 
 X
+
+Login
 
 Email / Phone
 
@@ -51,6 +53,16 @@ Password
 X
 
 ### Your Feedback for Justdial
+
+Name *
+
+Mobile
+
+Email *
+
+Comments *
+
+  * marked fields mandatory
 
 X
 
