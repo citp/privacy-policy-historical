@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roguefcu.org privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317054922id_/https%3A//www.roguecu.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roguefcu.org privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922154625id_/https%3A//www.roguecu.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rogue Credit Union
 
@@ -197,10 +197,16 @@ A formal agreement between _Rogue Credit Union_ and a __ non-affiliated financia
 
   
   
+This site contains some content directed towards minors, however data is not knowingly collected from minors.
+
 ## 
+
+[ ](https://ws.loanspq.com/Consumer/login/default.aspx?enc2=CjDDGQgp6ViDEpMSQAmj1MJs8ZemM7me68Cl8-ASseZ9lpqBRyllfn8rhHG2v70gbELaAclRImEZ75szNcE-sPgQGLGLhWiKXUcpNbi55ukoAPwYfpfc97OXSdFgBCqK)
 
 [](http://www.facebook.com/RogueCreditUnion)
 
 [](https://www.roguecu.org/credit-union-difference/insured-funds)
+
+NMLS#776623
 
 **541.858.7328   -  800.856.7328**
