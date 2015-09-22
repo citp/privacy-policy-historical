@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redshift3d.com privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530002808id_/https%3A//www.redshift3d.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redshift3d.com privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922053159id_/https%3A//www.redshift3d.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Redshift
 
