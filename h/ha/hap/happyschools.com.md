@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the happyschools.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229085100id_/http%3A//www.happyschools.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happyschools.com privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922185429id_/http%3A//www.happyschools.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
-**HappySchoolsBlog.com PRIVACY POLICY (UPDATED 10/2012)**
+**HappySchools.com PRIVACY POLICY (UPDATED 04/2015)**
 
 **PLEASE READ THE FOLLOWING PRIVACY POLICY CAREFULLY BEFORE ACCESSING ANY PART OF THE WEBSITE.**
 
 **I. OVERVIEW**
 
-41Square LLC (“Happy Schools Blog”) recognizes and respects the privacy of users of  **HappySchoolsBlog.com** (the “Website”). The following privacy policy, as modified from time to time by us as described below (the “Policy”), tells you about the information that Happy Schools Blog collects through the Website and how we use the information we may collect. If you access the Website, you are consenting to the information collection and use practices described in this Policy, as modified from time to time by us.
+41Square LLC (“Happy Schools Blog”) recognizes and respects the privacy of users of  **HappySchools.com** (the “Website”). The following privacy policy, as modified from time to time by us as described below (the “Policy”), tells you about the information that Happy Schools Blog collects through the Website and how we use the information we may collect. If you access the Website, you are consenting to the information collection and use practices described in this Policy, as modified from time to time by us.
 
 **II. UPDATES**
 
