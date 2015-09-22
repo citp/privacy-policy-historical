@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the airpair.com privacy policy that was archived on 2015-04-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150411215620id_/http%3A//airpair.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the airpair.com privacy policy that was archived on 2015-09-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150922160605id_/https%3A//www.airpair.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#" ng-app="AP" ng-strict-di=""><head>
   <title>AirPair Privacy Policy</title>
@@ -15,32 +15,31 @@
 
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="/static/styles/libs-588bf637.css" type="text/css">
-  <link rel="stylesheet" href="/static/styles/index-d879d73c.css" type="text/css">
+  <link rel="stylesheet" href="/static/styles/libs-588bf637b4.css" type="text/css">
+  <link rel="stylesheet" href="/static/styles/index-098148cb28.css" type="text/css">
   <link rel="alternate" type="application/rss+xml" href="https://www.airpair.com/rss" title="AirPair Rss">
-  <link rel="alternate" type="application/rss+xml" href="https://www.airpair.com/rss/posts" title="AirPair Posts">
-  <link rel="alternate" type="application/rss+xml" href="https://www.airpair.com/rss/workshops" title="AirPair Workshops">
   <base href="/">
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
-<body>
+<body><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+//<![CDATA[
+try{(function(a){var b="https://",c="www.airpair.com",d="/cdn-cgi/cl/",e="img.gif",f=new a;f.src=[b,c,d,e].join("")})(Image)}catch(e){}
+//]]>
+</script>
 <header>
   <a href="/" tile="airpair.com pair programming"></a>
 
   <ul>
-    <li><a href="/login" target="_self">Login</a></li>
-    <li class="exp nomob"><a href="/be-an-expert" target="_self">! Expert Application</a></li>
+    <li class="login"><a href="/login" target="_self">Login</a></li>
+    <li class="find nomob"><a href="/find-an-expert" target="_self">Find an expert</a></li>
+    <li class="exp nomob"><a href="/be-an-expert" target="_self">Help others</a></li>
     <li class="ps"><a href="/posts" target="_self">Posts</a></li>
-    <li class="nomob"><a href="/100k-writing-competition" target="_self"><b>100k Writing Comp</b></a></li>
-    <li class="more"><a>More</a>
+    <li class="more nomob"><a>More</a>
       <ul class="more">
-        <li><a href="/about" target="_self" class="about">About</a></li>
         <li><a href="/blog" target="_self" class="blog">AirPair Blog</a></li>
-        <li class="nomob"><a href="/workshops" target="_self" class="wk">Workshops</a></li>
         <li><a href="/rss" target="_self" class="rss">Rss</a></li>
         <li><a href="/privacy" target="_blank" class="pp">Privacy</a></li>
       </ul>
     </li>
-    <li><b><a id="headerGetHelp" href="/help/request" track-click="request" class="btn">Live Coding Help </a></b></li>
   </ul>
 </header>
 
@@ -50,7 +49,7 @@
     <div id="serverTemplate">
         
         
-        <article class="blogpostblank faq">
+        <article class="blogpost faq">
 
   <h1 class="entry-title" itemprop="headline">AirPair Privacy Policy</h1>
 
@@ -59,7 +58,7 @@
     <h6>Something off?</h6>
     <div class="fork">
       <a href="/posts/fork/54dd8418f9cf4b0a0016d4fb" class="btn">Fork this FAQ!</a>
-      <p>Forked <b>1</b> times so far.</p>
+      <p>Forked <b>2</b> times so far.</p>
     </div>
   </div>
 
@@ -104,8 +103,12 @@ If you have any questions about this Privacy Policy, please contact us at team@a
 <p>AirPair Inc., 875 Howard St, San Francisco, CA 94103</p>
 </post>
 
+
 </article>
 
+        
+        
+        
         
         
         
@@ -116,73 +119,29 @@ If you have any questions about this Privacy Policy, please contact us at team@a
 
 </div>
 
-<nav id="side" class="collapse" side-nav=""></nav>
+<nav id="side" ng-if="session._id" class="collapse" side-nav=""></nav>
 
-<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0021/1713.js?439009" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://tag.perfectaudience.com/serve/54b046fb22526644ea000012.js"></script><script type="text/javascript" id="analytics-js" async="" src="https://cdn.segment.io/analytics.js/v1/0xxx5xrw5q/analytics.min.js"></script><script type="text/javascript" src="/static/js/index-3f60f710.js"></script>
+
+<script type="text/javascript" src="/static/js/index-24d2e0356c.js"></script>
 <script type="text/javascript">
 
 function bindTracking() {
   ga('send', 'pageview')
-
-  $.each($('.trackPostCTA'), function(idx,el){
-    $(el).click(function (e) {
-      analytics.track('Click', { type: 'Post CTA', unit: 'code footer', idx: idx, text: el.innerHTML, location: window.location.pathname });
-
-      setTimeout(function () {
-        window.location.href = $(el).attr('href');
-      }, 350);
-
-      return false;
-    });
-  })
-
-  $.each($('.featured a.btn'), function(idx,el) {
-    $(el).click(function (e) {
-      analytics.track('Click', { type: 'Tag Feature', unit: 'featured', idx: idx, text: el.innerHTML, location: window.location.pathname });
-    });
-  })
 }
 
-window.viewData = { canonical: '/privacy', post : {"_id":"54dd8418f9cf4b0a0016d4fb"}, session: {"authenticated":false,"sessionID":"XFsLXlwEYc9dMQ6B-RaTX0zrmXwLyBEc","avatar":"/static/img/css/sidenav/default-mario.png"} };
+window.viewData = { canonical: '/privacy', post : {"_id":"54dd8418f9cf4b0a0016d4fb"}, session: {"authenticated":false,"sessionID":"unNOwnSZ3Wi8bDEnaKzhygGG2a2RkjZ2","avatar":"/static/img/css/sidenav/default-cat.png"} };
 
 </script>
 
 
-<script type="text/javascript">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  window.analytics=window.analytics||[],window.analytics.methods=["identify","group","track","page","pageview","alias","ready","on","once","off","trackLink","trackForm","trackClick","trackSubmit"],window.analytics.factory=function(t){return function(){var a=Array.prototype.slice.call(arguments);return a.unshift(t),window.analytics.push(a),window.analytics}};for(var i=0;i<window.analytics.methods.length;i++){var key=window.analytics.methods[i];window.analytics[key]=window.analytics.factory(key)}window.analytics.load=function(t){if(!document.getElementById("analytics-js")){var a=document.createElement("script");a.type="text/javascript",a.id="analytics-js",a.async=!0,a.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.io/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(a,n)}},window.analytics.SNIPPET_VERSION="2.0.9",
-  window.analytics.load("0xxx5xrw5q");
-
-
-  window.analytics.ready(function() {
-
-    if (!window.bindTracking)
-      window.bindTracking = function() {};
-
-    // var mixId = mixpanel.get_distinct_id()
-
-    var email = null;
-    var anonymousId = 'XFsLXlwEYc9dMQ6B-RaTX0zrmXwLyBEc';
-
-    //console.log('userEmail', email, 'mixId', mixId, 'anonymousId', anonymousId)
-
-    // var ident = function() {
-      // console.log('identify', email || anonymousId)  //-- could be from a different session.
-      // window.analytics.identify(email || anonymousId, { id: email || anonymousId, name: '' });
-    // }
-
-
-    // If they're signed in
-    // if (email && mixId != email) ident()
-
-    // If they didn't already identify their email and log out
-    // else if (mixId.indexOf("@") == -1 && anonymousId != mixId)
-    // {
-      // setTimeout(ident,200)
-    // }
-
-    bindTracking();
-  });
+  ga('create', 'UA-40569487-1', 'auto');
+  ga('send', 'pageview');
 
 </script>
 
@@ -203,16 +162,12 @@ window.onload = function(){
    if(oldonload){oldonload()}};
 }());
 </script>
+
 <script type="text/javascript">
-  (function() {
-    window._pa = window._pa || {};
-    var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.async = true;
-    pa.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + "//tag.perfectaudience.com/serve/54b046fb22526644ea000012.js";
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pa, s);
-  })();
+  window.analytics = {};
+  window.analytics.track = function(event, props) { console.log('off.track', event, props); }
 </script>
-<script type="text/javascript">setTimeout(function(){var a=document.createElement("script");var b=document.getElementsByTagName("script")[0];a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0021/1713.js?"+Math.floor(new Date().getTime()/3600000);a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
-</script>
+
 
 
 
