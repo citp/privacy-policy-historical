@@ -1,67 +1,73 @@
-> *The following text is extracted and transformed from the honey.is privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316220808id_/https%3A//honey.is/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honey.is privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922151010id_/https%3A//honey.is/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Honey
 
-## Privacy Policy
+Last updated: June 22, 2015
 
-Last updated 1/18/2013
+Front & Main, Inc. d/b/a Honey (“Honey”) has established a comprehensive privacy program, designed to help us respect and protect your data privacy rights. This statement includes both Honey’s Safe Harbor Privacy Statement and our Privacy Statement. This Privacy Policy explains what information may be collected by Honey, how such information may be used or shared with others, how we safeguard it and how you may control its use. Honey wants you to feel safe, so please read this Privacy Policy carefully, because by using Honey you are acknowledging that you understand and agree to the terms of this Privacy Policy.
 
-This Privacy Policy explains what information may be collected by Honey, how such information may be used or shared with others, how we safeguard it and how you may control its use. Honey wants you to feel safe, so please read this Privacy Policy carefully, because by using Honey you are acknowledging that you understand and agree to the terms of this Privacy Policy.
+### Safe Harbor Privacy Statement
 
-## Information that we collect
+Honey complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Honey has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. Honey commits that any personal information that Honey receives from you will be handled, as more fully described in the Privacy Statement below, in accordance with the Safe Harbor Privacy Principles. For more information about the Safe Harbor Privacy Principles, please visit the U.S. Department of Commerce’s Safe Harbor website at <http://export.gov/safeharbor>.
 
-#### Personal Information
+### Honey Privacy Statement
 
-Any information that we collect from you will be used to enable the features of our service. This information includes things like your user name, email address, avatar and other information that you provide when registering for an account. We also collect information that you provide for your user profile.
+Honey respects your privacy, as a result, we have developed this Privacy Policy. In order to optimize our products and services, Honey collects certain information provided by you, such as user name, email address, avatar and other information you provide when registering for an account, or on your user profile, as well as all content that’s been posted to Honey, whether through our site, via email or from other applications, including content such as text, links to other sites, files or images. (“Your Information”) We will use Your Information to respond to requests you may make of us, and from time to time, we may refer to Your Information to better understand your needs and how we can improve products and services. We will handle your Personal Information in accordance with the terms of this Privacy Policy.
 
-#### Posted Content
+Any other information transferred by you in connection with your use of Honey (“Other Information” - that is, information that cannot be used to identify you) may be included in databases owned and maintained by Honey or its agents. Honey retains all rights to these databases and the information contained in them. Other Information we collect may include your IP Address and other information gathered through our cookies.
 
-We collect and archive all content that’s been posted to Honey, whether through the site, via email or from other applications. This includes content such as text, links to other sites, files or images.
+### Protecting Your Information
 
-#### Aggregated Statistics
+Honey uses commercially reasonable and industry standard security measures to protect Your Information. We also use up to 256-bit SSL (secure sockets layer) encryption to transmit sensitive information. However, no internet transmission or storage of information can be completely ensured to be safe from intrusion. As such, Honey can’t guarantee the security of any information you transmit to us.
 
-We automatically collect aggregate data and metrics about Honey’s overall usage. This may include things like the pages you visit, the time of access, the device, browser or OS that you used and various other metrics that can be used to help maintain and improve our user experience.
+### Using Your Information
 
-#### Cookies
+Honey uses the information it collects in order to provide you with the most efficient service and optimized user experience.
 
-We may place cookies or similar files on your device for security purposes, to facilitate site navigation and to personalize your experience while using Honey. You can always disable cookies through your browser,, but be aware that some of our features may not function properly if you choose to do so.
+We may share Your Information with agents, contractors or partners of Honey in connection with services that these individuals or entities perform for, or with, Honey. Specifically, Honey uses vendors providing tools for analytics, customer support and general operations in order to better serve your needs and operate our business efficiently. Honey endeavors to only share Your Information only with service providers who also subscribe to the standards set forth in the Safe Harbor Privacy Principles, or who otherwise commit to Honey that they ensure the same level of privacy as that encompassed as is required by the Safe Harbor Privacy Principles.
 
-## How we use collected information
+Honey reserves the right to share Your Information to respond to duly authorized information requests of governmental authorities or where required by law.
 
-We use the information we collect to provide you with efficient access to our service. We also use this information to test and develop new functionality, diagnose and fix technology problems and generally tailor the experience for you.
+We may also provide Your Information to a third party in connection with the sale, assignment, or other transfer of the business of Honey to which the information relates, in which case we will require any such buyer to agree to treat Your Information in accordance with this Privacy Policy.
 
-## Information sharing
+Honey does not sell, rent or lease any of Your Information to any third party.
 
-We will not provide any of your information to any third parties without your specific consent. We may share anonymous, aggregate analytics data with third parties. We may also share your information under the following circumstances:
+### Opting Out
 
-#### You choose to share your information
+You can always direct us not to share Your Information with non-essential third parties, or not to send you newsletters, emails, or other communications by emailing us at [hello@honey.is](mailto:hello@honey.is).
 
-You may have the opportunity to sync your Honey account with other services, such as social networks or applications integrated with Honey’s APIs. If you opt-in to these opportunities, your information will be disclosed and subject to the privacy policy of that third party.
+You may opt-out of third party cookies from Google Analytics by visiting <https://tools.google.com/dlpage/gaoptout> and following opt-out instructions. We do not currently recognize or respond to browser-initiated Do Not Track signals as there is no consistent industry standard for compliance.
 
-#### Our service providers
+### Cookies
 
-In order to support the features and services available to you through Honey, we may share your information with third parties that perform functions on our behalf, such as companies that analyze data, provide infrastructure, process email or handle customer service.
+Honey uses a technology called a “cookie”. A cookie is a piece of information that we send to your computer or other device when you use Honey. Our cookies help provide additional functionality to the site and help us analyze site usage more accurately. You can always disable cookies through your browser, but some of our features may not function properly if you do so.
 
-#### Under legal obligation
+### Anonymized Data
 
-Honey may disclose your information to third parties to comply with a legal obligation, when we believe in good faith that the law requires it, at the request of governmental authorities conducting an investigation or to enforce our [Terms of Use](https://web.archive.org/terms).
+Honey collects and aggregates anonymized data (data that has been stripped of any user identifiable information) and metrics about overall usage. This may include pages you visit, the time of access, the device, browser or OS that you used and various other metrics necessary in order to maintain and improve user experience. This data is used by Honey in order to optimize user experience and to develop new products.
 
-## Security
+### External Services
 
-Honey uses commercially reasonable and industry standard security measures to protect your information. We also use 256-bit SSL encryption to transmit sensitive information. However, no internet transmission or storage of information can be completely ensured to be safe from intrusion. As such, Honey can’t guarantee the security of any information you transmit to us.
+In connection with your use of Honey you may sync your account with other services, such as social networks, or other applications which integrate with Honey. If you elect to sync to such services, Your Information will be disclosed and subject to the privacy policy of any such other services.
 
-## Controlling access to your information
+### Other Sites
 
-You may always direct us not to share your information with third parties or not to send you newsletters, e-mails or other communications by sending us an e-mail at [hello@honey.is](mailto:hello@honey.is).
+Honey may contain links to other sites or services that we don’t own or operate. We don’t recommend and aren’t responsible for these sites or their privacy policies and practices. Be aware that these other services may set their own cookies, independently collect data or solicit personal information. You should assess the authenticity of any site which appears or claims to be part of Honey, and contact us if you have any questions or doubts.
 
-## Other Sites
+### Reviewing your Information
 
-Honey may contain links to other sites or services that we don’t own or operate. We don’t recommend and aren’t responsible for these sites or their privacy policies and practices. Be aware that these other services may set their own cookies, independently collect data or solicit personal information. You should assess the authenticity of any site which appears or claims to be part of Honey.
+You can access Your Information at any time in order to ensure its accuracy or make any updates as you may require through the use of “My Account” or by emailing us at [hello@honey.is](mailto:hello@honey.is).
 
-## Changes
+### Enforcement
 
-We may modify this Privacy Policy from time to time, so please review it periodically. We may provide you with other forms of notice of updates as appropriate. Your continued use of Honey after any modification to this Privacy Policy will constitute your acceptance of such modification.
+In compliance with the U.S.-EU and U.S.-Swiss Safe Harbor Principles, Honey commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Honey at: [hello@honey.is](mailto:hello@honey.is).
 
-## Contact
+Honey has further committed to refer unresolved privacy complaints under the U.S.-EU and U.S.-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <http://www.bbb.org/us/safe-harbor-complaints> for more information and to file a complaint.
 
-If you have any questions or concerns regarding this Privacy Policy, please contact us at [hello@honey.is](mailto:hello@honey.is).
+### Changes
+
+Honey reserves the right to change its Privacy Policy from time to time, as may be necessary in order to accommodate our business and our users. We encourage you to bookmark and review this Privacy Policy form occasionally in order to ensure that you are up to date on any changes. This Privacy Policy was last updated on June 22, 2015.
+
+### Contact
+
+If you have any questions, comments, suggestions or concerns, please feel free to email us at [hello@honey.is](mailto:hello@honey.is) at any time.
