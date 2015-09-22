@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keycafe.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319160414id_/https%3A//www.keycafe.com/keycafe-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keycafe.com privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922130353id_/https%3A//www.keycafe.com/keycafe-privacy-policy) for the most accurate reproduction.*
 
 # Keycafe: Key Exchange Simplified
 
