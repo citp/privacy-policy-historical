@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the modeltrainstuff.com privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426030915id_/http%3A//www.modeltrainstuff.com/Terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modeltrainstuff.com privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922145728id_/http%3A//www.modeltrainstuff.com/Terms_privacy.asp) for the most accurate reproduction.*
 
-# Model Train Stuff - Model Trains and Model Railroad Accessories
-
-modeltrainstuff.com privacy policy  
-
-
-* * *
+# Terms: Privacy | ModelTrainStuff.com
 
 What information do we collect?  
 
@@ -14,6 +9,8 @@ What information do we collect?
   * When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously.
   * We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not used for marketing purposes.
   * Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our websites. Please refer to the "Do we use 'cookies'?" section below for information about cookies and how we use them.
+
+
 
   
 How do we use your information?
@@ -24,6 +21,8 @@ We may use the information we collect from you when you register, purchase produ
   * To allow us to better service you in responding to your customer service requests.
   * To quickly process your transactions.
   * To administer site features.
+
+
 
   
 How do we protect visitor information?
@@ -40,7 +39,7 @@ You can choose to have your computer warn you each time a cookie is being sent, 
 
 Do we disclose the information we collect to outside parties?
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include MB Klein Inc. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include www.modeltrainstuff.com. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
 
 However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses (i.e. the amount of vistors to site or clicks per page).
 
@@ -66,11 +65,11 @@ This online privacy policy applies only to information collected through our web
 
 Terms and Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20090426030915id_/http%3A//www.modeltrainstuff.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20150922145728id_/http%3A//www.modeltrainstuff.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 Your consent
 
 By using our site, you consent to our privacy policy.
 
-  
+last editied 5/4/2012  
 
