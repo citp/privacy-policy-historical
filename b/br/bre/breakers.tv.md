@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the breakers.tv privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607174253id_/http%3A//breakers.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breakers.tv privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922193527id_/http%3A//breakers.tv/privacy) for the most accurate reproduction.*
 
 # Privacy - [ Breakers.TV ] http://breakers.tv - It's Breaking LIVE Right Now! Live box breaks, Live group breaks, Sports Cards, Collectibles
 
