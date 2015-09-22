@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samanage.com privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418040725id_/http%3A//www.samanage.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samanage.com privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922041853id_/https%3A//www.samanage.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Samanage
 
@@ -8,7 +8,7 @@ _Effective date: 01/26/2014_
 
 This privacy policy applies to www.samanage.com owned and operated by Samanage.
 
-Samanage respects the privacy of anyone who uses a Samanage website ([www.samanage.com](http://www.samanage.com/)) or the Samanage Service. Samanage publishes this Privacy Policy to communicate how we gather and use information about you and how we protect it. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
+Samanage respects the privacy of anyone who uses a Samanage website ([www.samanage.com](http://www.samanage.com/)) or the Samanage Service. Samanage publishes this Privacy Policy to communicate how we gather and use information about you and how we protect it. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 [](https://privacy.truste.com/privacy-seal/Samanage/validation?rid=f72f7061-212e-4e34-9611-47d894665a40 "TRUSTe online privacy certification")
 
@@ -50,7 +50,8 @@ Customers using the Service will be storing data and information ( **Customer Da
 
 Customers who are Covered Entities or Business Associates under the Health Insurance Portability and Accountability Act of 1996 as amended (“HIPAA”) must agree to comply with the HIPAA Privacy and Security Rules, including without limitation the Minimum Necessary Rule at 45 CFR 164.502(b). While Samanage has put safeguards in place consistent with those required by the HIPAA Privacy and Security Rules, because of the nature of Samanage’s service, Samanage does not expect to receive any Protected Health Information (PHI) from Covered Entities or Business Associates. Because Samanage does not review Customer Data, as set forth above, Customer understands and accepts that Samanage will not be able to provide the identities of individuals whose PHI is in Samanage’s system for any HIPAA reporting obligations.
 
-Samanage may provide the ability for website visitor to request additional information or contact Samanage. We collect certain information from visitors such as their name, phone number and email and the purpose of their request or interest. This information is captured in our systems to better serve our customers and visitor needs. We also capture log information’s from our servers to help diagnose technical problems, and to constantly improve the quality of the Service. We may also track and analyze non-identifying and aggregate usage and volume statistical information from our website visitors and customers and provide such information to third parties.
+Samanage may provide the ability for website visitor to request additional information or contact Samanage. We collect certain information from visitors such as their name, phone number and email and the purpose of their request or interest. This information is captured in our systems to better serve our  
+customers and visitor needs. We also capture log information’s from our servers to help diagnose technical problems, and to constantly improve the quality of the Service. We may also track and analyze non-identifying and aggregate usage and volume statistical information from our website visitors and customers and provide such information to third parties.
 
 ## User Access and Choice
 
@@ -104,7 +105,7 @@ We follow generally accepted standards to protect the personal information submi
 
 Samanage also provides each User in your organization with a unique password that must be entered each time a User logs into the Service. As stated above, Samanage is using a session “cookie” to store user sessions and provide an easy to use experience. Cookies do not include either the username or password of the user, or any other confidential user and session information.
 
-Samanage is hosted in a security oriented server environment that uses a firewall and other advanced technology to prevent interference or access from outside intruders. [Learn more about our security practices](http://www.samanage.com/products/security.html) and how our service is protected.
+Samanage is hosted in a security oriented server environment that uses a firewall and other advanced technology to prevent interference or access from outside intruders. [Learn more about our security practices](https://www.samanage.com/trust) and how our service is protected.
 
 ## Opt-Out Policy
 
