@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mymovingreviews.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317033230id_/http%3A//www.mymovingreviews.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymovingreviews.com privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922210801id_/http%3A//www.mymovingreviews.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - MyMovingReviews
 
