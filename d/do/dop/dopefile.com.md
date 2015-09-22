@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dopefile.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408054831id_/http%3A//dopefile.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dopefile.com privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922233129id_/http%3A//dopefile.com/pages/privacy-policy.html) for the most accurate reproduction.*
 
-# Dopefile - Easy way to share your files
+# DopeFile.com - Free File Hosting Service
 
 This Dopefile Privacy Policy, in conjunction with the AUP, Terms of Service and other terms and conditions of use which are incorporated herein by reference and may be posted and applicable to specific services, governs your use of the Dopefile website and are collectively referred to as the "Agreement". Dopefile may modify the Agreement which will become effective immediately upon posting on the website. Your continued use of the website and any associated services, the "Services", indicates your acceptance of the Agreement. Any Content uploaded by you to Dopefile becomes published Content and is not considered personally identifiable information subject to this Privacy Policy. Dopefile uses IP addresses to measure usage and analyze trends, administer the website and collect information for its databases. 
 
