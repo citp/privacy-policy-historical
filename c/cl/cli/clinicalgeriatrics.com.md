@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clinicalgeriatrics.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627144754id_/http%3A//www.hmpcommunicationsholdings.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clinicalgeriatrics.com privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922095128id_/http%3A//www.hmpcommunicationsholdings.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | HMP Communications Holdings
 
@@ -14,7 +14,13 @@ This policy applies to all visitors of HMP Holdings and related affiliates’ we
 
 We may collect personally identifiable and/or anonymous information from you in the course of your use of our websites, products, events, or services (“Services”) as further described in this Privacy Policy. Personally identifiable information is information that can identify you, such as your full name, email address, postal address, telephone number, and fax number. In some cases, you will  provide information to us to fully utilize our services.  In other cases,  information about you or your activities on our Services may be automatically collected, as further described below.
 
-**Information You Provide**
+This Digital Offering is a member of the Medical Publisher Consortium (the "Consortium"), and as such has implemented various technologies for universal registration/log-in among all Consortium member websites. These technologies are managed by DMD Marketing Corp. ("DMD"), and may involve the collection, receipt, and sharing of information with DMD and among other Consortium members. If you would like to understand how this Digital Offering’s participation in the Consortium affects your privacy, please click here:
+
+<http://usersupport.dmdconnects.com/PrivacyPolicy.htm>
+
+Please note that the Consortium registration/log-in system may be different from the registration/log-in used by this Digital Offering for other products and services. To the extent that anything in this privacy policy conflicts with the policy for the Consortium technologies, the conflict will be resolved in favor of policy applicable to the Consortium technologies.
+
+ **Information You Provide**
 
 We collect personally identifiable information that you provide to us when you subscribe to our magazines (either directly or through a third party (such as a subscription agency); sign up for email newsletters or promotions; enter a contest; participate in surveys; register for a website, webcast, mobile application, tradeshow or other online or in-person event; or otherwise communicate with us or interact with our Sites. We also may receive information about you from other sources and add it to the information you have provided to us. 
 
@@ -91,4 +97,4 @@ Suite 100
 Malvern, PA 19355  
 Phone: 610-560-0500**
 
-**Last Updated:** February 5, 2014
+**Last Updated:** July 23, 2015
