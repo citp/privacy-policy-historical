@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coins.ph privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701043310id_/https%3A//coins.ph/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coins.ph privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922113342id_/https%3A//coins.ph/privacy) for the most accurate reproduction.*
 
-# Buy Bitcoins in the Philippines, The safest and easiest bitcoin exchange portal in the Philippines
+# Coins.ph is a quick way to transfer cash, pay bills, and load your phone.
 
 **Effective Date: Dec 1st, 2013. Last updated: Jan 30th, 2014.**
 
@@ -59,7 +59,7 @@ You may encounter coins.ph cookies or pixel tags on websites that we do not cont
 
 Throughout this policy, we use the term "personal information" to describe information that can be associated with a specific person and can be used to identify that person. We do not consider personal information to include information that has been anonymized so that it does not identify a specific user. 
 
-We store and process your personal information on our computers in the US and elsewhere in the world where coins.ph facilities or our service providers are located, and we protect it by maintaining physical, electronic and procedural safeguards in compliance with applicable US federal and state regulations. We use computer safeguards such as firewalls and data encryption, we enforce physical access controls to our buildings and files, and we authorize access to personal information only for those employees who require it to fulfill their job responsibilities. 
+We store and process your personal information on our computers in Asia Pacific and elsewhere in the world where coins.ph facilities or our service providers are located, and we protect it by maintaining physical, electronic and procedural safeguards. We use computer safeguards such as firewalls and data encryption, we enforce physical access controls to our buildings and files, and we authorize access to personal information only for those employees who require it to fulfill their job responsibilities. 
 
   
 
