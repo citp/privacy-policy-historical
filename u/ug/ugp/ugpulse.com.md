@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ugpulse.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503140742id_/http%3A//www.ugpulse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ugpulse.com privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922063201id_/http%3A//www.ugpulse.com/privacy-policy) for the most accurate reproduction.*
 
 # UGPulse.com: Privacy Policy
 
