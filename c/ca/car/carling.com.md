@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carling.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318205002id_/http%3A//www.carling.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carling.com privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922152538id_/http%3A//www.carling.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Carling.com
 
@@ -80,7 +80,7 @@ You may update or correct your personal information by contacting us in writing 
 
 ### YOUR RIGHTS TO ACCESS YOUR PERSONAL INFORMATION
 
-You have the right to receive a copy of the personal information that we hold about you. We may charge a small fee towards the cost of administering any request you make. The current fee is |ANAMP|pound;10.00.
+You have the right to receive a copy of the personal information that we hold about you. We may charge a small fee towards the cost of administering any request you make. The current fee is £10.00.
 
 ### HOW TO CONTACT US
 
