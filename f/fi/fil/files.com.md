@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the files.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512204354id_/http%3A//www.files.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the files.com privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922102943id_/http%3A//www.files.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Files.com
 
