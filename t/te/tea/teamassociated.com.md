@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the teamassociated.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607184647id_/http%3A//www.teamassociated.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamassociated.com privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922090004id_/https%3A//www.teamassociated.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy: Team Associated - Champions By Design - Nitro and Electric RC Cars
+# Privacy Policy | Team Associated
 
-Privacy Policy
+[TeamAssociated.com](https://web.archive.org/)  »  [Privacy Policy](https://web.archive.org/privacy/)
 
 **E-mail correspondence.**  
 When you send us an e-mail, we will store your communication and our reply for a time in case we correspond further. We will not share to third parties the personally identifiable information you provided us with, or sell, rent, or lease it to any third party. 
