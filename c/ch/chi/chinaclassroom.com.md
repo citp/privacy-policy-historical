@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinaclassroom.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615101714id_/http%3A//www.chinaclassroom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinaclassroom.com privacy policy that was archived on 2015-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150923234938id_/http%3A//www.chinaclassroom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ChinaClassroom
 
