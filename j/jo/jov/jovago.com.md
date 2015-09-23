@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jovago.com privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521195301id_/http%3A//www.jovago.com/en-gb/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jovago.com privacy policy that was archived on 2015-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150923224740id_/http%3A//www.jovago.com/en-gb/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Jovago.com
 
@@ -10,7 +10,7 @@ _Bookings:_ We use the information you give us to manage your bookings, and to s
 
  _Guest reviews:_ We’ll use your information to contact you following a stay, asking you to rate the accommodation and our website to help future visitors to Jovago.com.
 
- _Marketing activities:_ We may use your information and booking history to send you newsletters and special offers relevant to you. Of course, you can choose to opt out of these at any time. We may also use this information to show a customised selection of offers and accommodation to you when you use our services. From time to time, we may contact you by phone to suggest offers we think would be of interest to you. We sometimes ask our customers to take part in market research. If you do so, any personal information gathered as part of the research will only be used with your consent.
+ _Marketing activities:_ We may use your information and booking history to send you newsletters and special offers relevant to you via email, sms and push notifications. Of course, you can choose to opt out of these at any time. We may also use this information to show a customised selection of offers and accommodation to you when you use our services. From time to time, we may contact you by phone to suggest offers we think would be of interest to you. We sometimes ask our customers to take part in market research. If you do so, any personal information gathered as part of the research will only be used with your consent.
 
  _Other communications:_ There may be other times when we need to get in touch with you for specific reasons and will use your information in order to do this. Examples of this include: responding to specific requests or direct communications from you; contacting you to finalise, confirm or change a booking; asking you to review our services or those of our accommodation partners.
 
