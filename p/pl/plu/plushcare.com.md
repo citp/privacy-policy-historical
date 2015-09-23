@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the plushcare.com privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018113506id_/http%3A//www.plushcare.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plushcare.com privacy policy that was archived on 2015-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150923234156id_/https%3A//www.plushcare.com/privacy) for the most accurate reproduction.*
 
-# Urgent Care Online | World Class Doctor's Online | Plushcare
+# World Class Online Doctors - Urgent Care Online | PlushCare
 
 ## PRIVACY POLICY
 
@@ -110,8 +110,8 @@ H. You have the right to opt out of receiving fundraising communications from us
 COMPLAINTS   
 If you believe that we have violated your privacy rights, you may file a complaint with us by notifying our Privacy Officer in writing at the following address:   
 PlushCare of California, Inc.   
-520 Townsend Street   
-San Francisco, California 94103   
+255A King Street   
+San Francisco, California 94107   
 PRIVACY OFFICER   
 info@plushcare.com 
 
