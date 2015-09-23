@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hollandresidential.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607175204id_/http%3A//www.hollandresidential.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollandresidential.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924003052id_/http%3A//www.hollandresidential.com/privacy) for the most accurate reproduction.*
 
 # Holland Residential | Privacy Policy
 
@@ -16,9 +16,9 @@ Holland Residential reserves the right, at its sole discretion, to change, modif
 
 **Holland Residential and Session Cookies**
 
-The Holland Residential web site uses session cookies to enable making transactions on our site. A session cookie is a small file placed on your computer which acts as a unique identifier to keep track of the information you have entered. Without the session cookie, our site cannot track the information you are entering, and you will be unable to complete your transaction.
+The Holland Residential web site platform uses cookies, tracking pixels and related technologies to enable making transactions on our site and provides our services for Advertisers. Cookies are small data files that are served by our platform and stored on your device. They enable us to identify your device when you move between different websites and applications, so that we can serve targeted advertising to you. Without the cookie, our site cannot track the information you are entering, and you will be unable to complete certain transactions you may want to communicate with us. Our cookie contains none of your personal information.
 
-A session cookie does not remain on your machine after you close your web browser window. Our session cookie contains none of your personal information, and cannot be used to track you around the web. It can only be used by our web site to identify the information you have entered during the transaction process which is required to complete the transaction.
+We recognize how important your online privacy is to you, so we offer the following options below for controlling the targeted ads you may receive.
 
 **How to Enable Cookies on your Browser**
 
@@ -44,5 +44,8 @@ Cookie options are available under Tools -> Options -> Under the Hood -> Content
 
 Cookie options are available under Safari -> Preferences -> Security.
 
-Other web browsers provide similar options. Alternatively, you can also control cookies with a number of internet security packages. If you use one of these packages, please refer to the software documentation for more information. ** **  
-****
+Other web browsers provide similar options. Alternatively, you can also control cookies with a number of internet security packages. If you use one of these packages, please refer to the software documentation for more information.
+
+**Security**
+
+Holland Residential uses reasonable precautions to host and maintain the web site platform in a secure manner and to safeguard it from unauthorized access. We use Secure Socket Layer encryption for transmitting and storing your Information and stores your Information in limited access servers. Neither Holland Residential nor its service providers, however, can guarantee that any transmission of personal information over the Internet will be secure and you use the Holland Residential platform at your own risk. 
