@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cannalawblog.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315023836id_/http%3A//www.cannalawblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cannalawblog.com privacy policy that was archived on 2015-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150923164300id_/http%3A//www.cannalawblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Canna Law Blog Privacy Policy | Harris Moure | Canna Law Group
 
