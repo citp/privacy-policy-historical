@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fcbayern.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630004000id_/http%3A//www.fcbayern.de/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fcbayern.com privacy policy that was archived on 2015-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150923200049id_/http%3A//www.fcbayern.de/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FC Bayern München AG
 
@@ -8,9 +8,9 @@ This website is operated by FC Bayern München AG. The protection of your person
 
 You have the right to object to the following programs/uses. To be able to use this objection function, cookies must be activated on your internet browser.
 
-  * For Econda Web Analysis (only for the fan shop) please click here.
-  * For Piwik Web Analysis (for the rest of the website) please click here.
-  * For BOMP Online Marketing Platform (for the whole website incl. shop) please click here.
+  * For Econda Web Analysis (only for the fan shop) please click [here](http://www.econda.com/econda/company/data-protection/revocation-of-data-storage/).
+  * For Piwik Web Analysis (for the rest of the website) please click [here](http://www.fcbayern.de/en/objection-webanalysis/index.php).
+  * For BOMP Online Marketing Platform (for the whole website incl. shop) please click [here](http://www.fcbayern.de/en/objection-bomp/index.php).
   * For Google (for the whole website incl. shop) please use the following link: [www.google.de/settings/ads](http://www.google.de/settings/ads)
 
 
