@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the cunet.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206001719id_/http%3A//www.cunet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cunet.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924015109id_/http%3A//sparkroom.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - CUnet
+# Sparkroom Privacy Policy
 
 **Effective Date: July 1, 2013**
 
-### 1\. Privacy Policy Overview
+## 1\. Privacy Policy Overview
 
-CUnet, LLC (the “Company”) operates the website CUnet.com (the “website”) and versions of the site, including co-branded and/or framed versions of the site with third parties, that refer to this website Privacy Statement in a link. This website Privacy Policy is designed to inform you of the types of information we collect from users, how we use that information, and the circumstances under which we will share it with third parties.
+Sparkroom, LLC (the “Company”) operates the website Sparkroom.com (the “website”) and versions of the site, including co-branded and/or framed versions of the site with third parties, that refer to this website Privacy Statement in a link. This website Privacy Policy is designed to inform you of the types of information we collect from users, how we use that information, and the circumstances under which we will share it with third parties.
 
 This website Privacy Policy applies only to this website. It does not apply to your use of any other websites (whether or not operated by us), including any websites to which we provide links or websites of our business partners or to any activities which are not online. This Privacy Policy pertains to information collected only directly through the website and does not apply to personal information collected from offline resources and communications (for instance, if you send the Company a postal letter or call the Company).
 
@@ -16,19 +16,19 @@ Please note that some features and/or functions referenced may not be included o
 
 This website Privacy Policy is effective as of the date listed above and applies to all websites that link to this policy. Even if you read and/or agreed to a prior privacy statement, you need to review this updated version. We reserve the right to revise this Policy at any time and at our discretion. If we decide to make a material change to our website Privacy Policy, we will post those changes and make them accessible on the homepage of the website, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-### 2\. Children’s Privacy
+## 2\. Children’s Privacy
 
 The website is not structured to attract children under 13, and the Company does not intend to collect personally identifiable information from anyone we know to be under 13 years of age. If you are under 13, please do not use our website. If we find out we have unknowingly collected personally identifiable information about a child under 13, we will take all reasonable measures to delete that information from our system as soon as possible.
 
-### 3\. Non-Personally Identifiable Information
+## 3\. Non-Personally Identifiable Information
 
 The Company and/or our third-party advertising or technology vendors may collect Non-Personally Identifiable Information using various tracking technologies described in this privacy policy. Non-Personally Identifiable Information is anonymous and includes information such as IP address, web pages which have been viewed, search queries that have been submitted, education interests, date and time, domain type, and responses by a visitor to an advertisement and content delivered by us or a third party advertising or technology vendor. The Company and our business partners may use different types of technologies to collect this type of information, including cookies and web beacons (1×1 pixels). Additionally, when registering for the site or requesting education information from one of our business partners on the website, we may collect additional non-personally identifiable information about the individual. Examples of the non-personally identifiable data that may be requested include gender, ethnicity, military status, education background, geographic location, and other information. None of this information (collectively referred to as “non-personally identifiable information”), by itself, or together with other non-personally identifiable information, can by its nature be matched with a specific individual. We have no access or control of third-party tracking technologies.
 
-### 4\. Personally Identifiable Information
+## 4\. Personally Identifiable Information
 
 Personally Identifiable Information, as used in this website Privacy Policy, means any information or set of information that identifies a specific individual. Examples of personally identifiable data that may be requested include name, address and email address, and phone numbers (home, mobile, office, and/or fax numbers). The Company generally collects this information on the website to match you with educational opportunities, personalize content, and to allow the user to request contact from educational institutions. Providing your personal information is always voluntary, and you can always choose not to provide your personal information by electing not to use our website. By providing your personal information, you acknowledge and consent to our use of such information in accordance with this website Privacy Policy.
 
-### 5\. Automatically Collected Information
+## 5\. Automatically Collected Information
 
 During the course of the visitor’s use of the website, we automatically collect certain information on the website through cookies, web beacons, log files, and other common website data collection techniques, and we receive information from third parties.
 
@@ -46,11 +46,11 @@ Most browsers allow you to control cookies, including whether or not to accept t
 
 **Third-Party Information:**  We may receive information about you from other sources. For example, we may receive updated or corrected contact information from third-party vendors as part of vendors’ fraud detection services. We may also receive information about you from third-party accounts. On some of our sites, you can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign-up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network. All information received from these third-party sources is utilized in accordance with this website Privacy Policy.
 
-### 6\. Information You Provide to the Company
+## 6\. Information You Provide to the Company
 
 In addition to the information collected automatically, we also collect information that you provide to us when you register for an account on our website, request information about a particular school or educational program, or otherwise voluntarily provide information about yourself and/or your educational interests.
 
-Most commonly, our website provides users the opportunity to request information from schools and to learn about various education opportunities. These information request pages require users to provide the Company with contact information (name, address, phone numbers [home, work and mobile], email address, age, work experience, military history, etc.) as well as information about their interest in one or more of our education or business partners (universities, colleges, test preparation companies, financial aid providers, etc.). We collect this information that you provide and may use it to make your future requests from our websites easier by pre-populating contact forms with the information that you have provided. We share this contact information that you provide with the education or business partner that you requested information from, and that information usage is covered by their Privacy Policy.
+Most commonly, our website provides users the opportunity to request information from schools and to learn about various education opportunities. These information request pages require users to provide the Company with contact information (name, address, phone numbers , email address, age, work experience, military history, etc.) as well as information about their interest in one or more of our education or business partners (universities, colleges, test preparation companies, financial aid providers, etc.). We collect this information that you provide and may use it to make your future requests from our websites easier by pre-populating contact forms with the information that you have provided. We share this contact information that you provide with the education or business partner that you requested information from, and that information usage is covered by their Privacy Policy.
 
 ### Testimonials
 
@@ -58,9 +58,9 @@ From time to time, we post customer testimonials/comments/reviews on our website
 
 ### Public Forums
 
-Our website offers publicly accessible blogs. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [privacy@cunet.com](mailto:%20privacy@cunet.com) or the mailing address provided at the end of this document. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Our website offers publicly accessible blogs. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [info@sparkroom.com](mailto:info@sparkroom.com) or the mailing address provided at the end of this document. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-### 7\. How the Company Uses and Shares Information
+## 7\. How the Company Uses and Shares Information
 
 In addition to the uses listed in other sections of this website Privacy Policy, the information you provide to the Company and automatically-collected information (both Personally and Non-Personally Identifiable Information) is used and shared to provide a number of different functions and services on the website and in coordination with our technology and business partners. This utilization includes, but is not limited to, the following:
 
@@ -93,11 +93,11 @@ In addition to the uses listed in other sections of this website Privacy Policy,
 
 
 
-### 8\. Control of Third Party Data Usage
+## 8\. Control of Third Party Data Usage
 
 While the Company undertakes efforts to see that any third party with whom the Company shares personal or other information is under contractual obligation to use it solely for the purposes for which the information was disclosed and in accordance with the terms of this Privacy Policy, such parties are independent third parties over which the Company exercises no direct control. The Company is not responsible for, and will not be liable for, their conduct, actions, omissions, or information handling or dissemination practices.
 
-### 9\. Accessing and Changing Your Personal Information
+## 9\. Accessing and Changing Your Personal Information
 
 The Company provides a number of different opportunities to review and change information in your profile or that we have stored about you. For example, you can go to the website and log in to your account to make desired changes.
 
@@ -109,11 +109,11 @@ Notwithstanding any request from you, we may retain a record of your information
 
 Please be advised that by requesting that your data be removed from our database, you will be unsubscribed from our services. Also note that the information removal request does not carry forward and any subsequent return to the website will result in additional information capture and sharing in accordance with this Privacy Policy.
 
-### 10\. Links to Third Party Websites
+## 10\. Links to Third Party Websites
 
 The website, as well as the electronic messages sent as part of the Company’s services, may contain links to other sites or services. The Company is not responsible for the privacy practices or the content of such third-party sites. If you have a question about the privacy policy of those other sites, please contact them directly.
 
-### 11\. Email Opt-Out Policy
+## 11\. Email Opt-Out Policy
 
 By completing website registration, filling out school information request forms, or otherwise providing your email address on one of our pages, you consent that the website may send email to you regarding our products and services or those of our business partners.
 
@@ -121,22 +121,20 @@ We understand you may not want to receive email from us or from our business par
 
 In accordance with this Privacy Policy, we may have shared your email address with our business partners, including educational institutions. When that occurs, we no longer have direct control over the use of such information, and your rights regarding such use will be governed by our partner’s policies. You will have to contact them directly with any email opt-out request.
 
-### 12\. Security Measures to Protect Your Information
+## 12\. Security Measures to Protect Your Information
 
 The Company has implemented technical, administrative, physical security measures, and other generally accepted industry standards designed to protect your information from unauthorized access and improper use. We review our security procedures on a regular basis to consider new or updated and appropriate technology and methods. Please be aware, however, that no method of transmission of information over the Internet, or method of electronic storage of information, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your information, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can send email us using the Company Contact Information.
 
-### 13\. Your California Privacy Rights
+## 13\. Your California Privacy Rights
 
 California has passed legislation requiring certain disclosures be made available to California residents who use the Internet and provide information that may be used for marketing purposes. It requires any business that discloses a customer’s personal information to any third party for direct marketing purposes to provide the customer a method for obtaining the names, addresses, and certain other specified details of anyone who might have received that personal information. If you are a California resident, you may request this information by requesting it using the Company Contact Information.
 
-### 14\. Company Contact Information
+## 14\. Company Contact Information
 
 If you have any questions about this website Privacy Policy, the practices of the website, or your use of the website, please contact us at:
 
-**Address:**  
-Attention: Privacy Policy Administrator CUnet  
-461 From Road  
-Suite 200  
+**Address:  
+**461 From Road Suite 200  
 Paramus, NJ 07652
 
-**Email:**  [privacy@cunet.com](mailto:privacy@cunet.com)
+**Email:** [info@sparkroom.com](mailto:info@sparkroom.com)
