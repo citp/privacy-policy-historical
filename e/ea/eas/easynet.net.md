@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easynet.net privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628043452id_/https%3A//www.easynet.com/gb/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easynet.net privacy policy that was archived on 2015-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150923194623id_/https%3A//www.easynet.com/gb/en/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Easynet - Privacy Policy
 
