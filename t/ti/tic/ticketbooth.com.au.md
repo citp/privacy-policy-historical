@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ticketbooth.com.au privacy policy that was archived on 2015-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150411211954id_/https%3A//www.ticketbooth.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketbooth.com.au privacy policy that was archived on 2015-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150923131508id_/https%3A//www.ticketbooth.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Ticketbooth
+# Privacy Policy - Ticketbooth
 
 [**Terms & Conditions**](http://dev3.ticketbooth.com.au/terms-conditions/ "Terms & Conditions") | [**Privacy Policy**](http://dev3.ticketbooth.com.au/privacy-policy/ "Terms & Conditions")
 
