@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hardcoreyouth.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314224433id_/http%3A//hardcoreyouth.com/free_tour/en/support/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardcoreyouth.com privacy policy that was archived on 2015-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150923043733id_/http%3A//hardcoreyouth.com/free_tour/en/support/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
