@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birdeye.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619024746id_/http%3A//birdeye.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birdeye.com privacy policy that was archived on 2015-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150923034343id_/http%3A//birdeye.com/privacy) for the most accurate reproduction.*
 
 # BirdEye Business Reputation Management | Privacy Statement
 
@@ -22,17 +22,17 @@ BirdEye does not collect any information regarding your real-time geo-location w
 
 ### BirdEye uses the information it collects in the following ways:
 
-Personal Contact Information| We use this information primarily to administer the Services to you and to provide you with updates and product announcements. Per the Terms and Conditions we may use some of your information for marketing purposes, as explained below.  
+Personal Contact Information | We use this information primarily to administer the Services to you and to provide you with updates and product announcements. Per the Terms and Conditions we may use some of your information for marketing purposes, as explained below.  
 ---|---  
-Billing Information| BirdEye does not store any Billing Information on its servers. Instead, we use payment provider, Recurly (www.recurly.com) to store and process all payment related transactions. Please look at privacy for information regarding Recurly’s privacy policy.  
-Data, Diagnostic Information and Login Information| We use this information solely for the purpose of administering and improving our Services to you.  
-Analytics Information| BirdEye may use your Analytics Information in conjunction with an analytics service such as Google Analytics to monitor and analyze use of the Services, for the Services’ technical administration, to increase the Services’ functionality and user-friendliness, and to verify users have the authorization needed for the Services to process their requests.  
+Billing Information | BirdEye does not store any Billing Information on its servers. Instead, we use payment provider, Recurly (www.recurly.com) to store and process all payment related transactions. Please look at privacy for information regarding Recurly’s privacy policy.  
+Data, Diagnostic Information and Login Information | We use this information solely for the purpose of administering and improving our Services to you.  
+Analytics Information | BirdEye may use your Analytics Information in conjunction with an analytics service such as Google Analytics to monitor and analyze use of the Services, for the Services’ technical administration, to increase the Services’ functionality and user-friendliness, and to verify users have the authorization needed for the Services to process their requests.  
   
 ### Sharing & Disclosure of Private Information
 
 ### Third Party Applications and Your Use
 
-BirdEye provides users with the ability to link to their Data on third party solutions such as Facebook, Twitter, Google Plus, and LinkedIn. Such linking is at the complete discretion of users. Because of this, BirdEye cannot be held responsible or liable for the linking of user’s Data to such third party solutions, nor for how such third party solutions use such links.
+BirdEye provides users with the ability to link to their Data on third party solutions such as Facebook, Twitter, Google Plus, and LinkedIn. Such linking is at the complete discretion of users. Because of this, BirdEye cannot be held responsible or liable for the linking of user’s Data to such third party solutions, nor for how such third party solutions use such links. 
 
 Per our Terms and Conditions, you agree to permit BirdEye to identify you as a customer and to use your name and/or logo in BirdEye’s website and marketing materials.
 
