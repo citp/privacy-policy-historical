@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the themissingniche.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624223057id_/http%3A//www.themissingniche.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themissingniche.com privacy policy that was archived on 2015-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150923021803id_/http%3A//www.themissingniche.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Disclosure - The Missing Niche
-
-**0** Flares Twitter 0 Facebook 0 Google+ 0 StumbleUpon 0 LinkedIn 0 Reddit 0 **0** Flares ×
 
 This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
@@ -56,5 +54,3 @@ The owner(s) of this blog is compensated to provide opinion on products, service
 This blog does not contain any content which might present a conflict of interest.
 
 For any other information email [webmaster](mailto:themissingniche@gmail.com)
-
-**0** Flares Twitter 0 Facebook 0 Google+ 0 StumbleUpon 0 LinkedIn 0 Reddit 0 **0** Flares ×
