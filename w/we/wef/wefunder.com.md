@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wefunder.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315041055id_/https%3A//wefunder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wefunder.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924013901id_/https%3A//wefunder.com/privacy) for the most accurate reproduction.*
 
-# Crowd Investing for Startups | Wefunder | Crowdfunding
+# Invest in Startups You Love - Wefunder
 
-## We have a few fundamental principles:
+### We have a few fundamental principles:
 
   * We don't ask you for personal information unless we truly need it.
   * We don't share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
