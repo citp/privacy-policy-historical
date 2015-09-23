@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abibaa.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502191853id_/http%3A//abibaa.com/shop/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abibaa.com privacy policy that was archived on 2015-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150923020652id_/http%3A//abibaa.com/shop/privacypolicy) for the most accurate reproduction.*
 
 # Abibaa.com : The earth's largest selection of electronics, software, clothing, toys & more!
 
@@ -270,4 +270,4 @@ _How your Username and Password is used?_
 When you open a ABIBAA ID account, your username and password will be stored in one of the following Abibaa Data Centers. Once stored, all Data Centers will synchronize the ABIBAA data. When you access to the ABIBAA ID Site for the first time, the ABIBAA Site will access to the closest Data Center, and authenticate the username and password you entered in the ABIBAA Site. 
 
 _Data Centers_   
-USA Data Center â€“ Abibaa USA, Inc. 
+USA Data Center – Abibaa USA, Inc. 
