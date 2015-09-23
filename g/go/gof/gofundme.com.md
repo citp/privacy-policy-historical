@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gofundme.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626170533id_/https%3A//www.gofundme.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gofundme.com privacy policy that was archived on 2015-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150923111525id_/https%3A//www.gofundme.com/privacy) for the most accurate reproduction.*
 
 # GoFundMe Privacy Policy
 
