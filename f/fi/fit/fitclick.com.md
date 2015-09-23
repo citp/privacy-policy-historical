@@ -1,89 +1,111 @@
-> *The following text is extracted and transformed from the fitclick.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319065431id_/http%3A//www.fitclick.com/www/misc/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitclick.com privacy policy that was archived on 2015-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150923183511id_/http%3A//www.fitclick.com/www/misc/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy policy | FitClick
 
-Maintaining your privacy is of paramount concern to Genesant Technologies, Inc. ("GTI"), the owner and operator of FitClick.com (the "Site"). GTI recognizes the premium you place on protecting your privacy, particularly on the Internet. We also understand that your personal fitness is a very private matter. But in order to provide you the full value of our proprietary nutritional analysis software and our dynamic virtual training program, the input of your personal information is necessary. We therefore strive to protect the information you share with us, including information you provide during the registration process that you must complete in order to use the Site and to download the ("MA") to your mobile device, and the information you share on message boards, in chat rooms or within the any other interactive areas of the Site ("Interactive Areas"). 
+Maintaining your privacy is of paramount concern to Genesant Technologies, Inc. ("GTI"), the provider of mobile applications ("Apps") and the owner and operator of the online service (the "Site" and, together with the Apps, the "Service") that provides data to, and stores data from, the Apps. GTI created this Privacy Policy to explain its information collection and use practices and the protection of your information when you visit and use the Service. Any terms capitalized but not otherwise defined herein shall have the respective meanings set forth in the Terms & Conditions.
 
-As a result of our commitment to you and the integrity of your experience with us, we have painstakingly developed this privacy policy (the "Policy") to provide the framework for the use of the information you provide. The following pledges are our guarantees to help you feel more secure in our environment so that you may benefit from the programs we have designed for your overall fitness development. It is our hope that you will accept this Policy with a clear expectation of GTI's obligation to you. 
+In this Policy, "we", "us" and "our" collectively refer to GTI.
 
-In this Policy, "we", "us" and "our" collectively refer to GTI. 
+This Privacy Policy is only applicable to the Service and does not apply to any websites or applications that are owned or operated by third parties ("Third-Party Websites/Applications"), which may have data collection, storage and use practices and policies that differ materially from this Privacy Policy. For additional information, see the section concerning Third-Party Websites/Applications, below.
 
-**Personally Identifiable Information That We Collect**
+BY USING THE WEBSITE AND/OR APPLICATIONS, YOU REPRESENT AND WARRANT THAT YOU HAVE READ AND UNDERSTOOD, AND AGREE TO THE TERMS OF, THIS PRIVACY POLICY. IF YOU DO NOT UNDERSTAND OR DO NOT AGREE TO BE BOUND BY THIS PRIVACY POLICY, YOU MAY NOT USE THE SERVICE.
 
-GTI does not collect any information that can either be directly used to contact or identify you, or extrapolated to identify or contact you (personally identifiable information, or "PII"), unless this information is provided to us voluntarily. Use of any of the features of MA or the Site (collectively, the "Service"), constitutes the voluntary provision of information to us by any such person who uses the Service (each a "User"). 
+## Information Collection Practices
 
-**The Circumstances During Which We Collect PII**
+### Traffic Data
 
-1\. Registration
+GTI automatically gathers information of the sort that browsers automatically make available, including: (i) IP addresses; (ii) domain servers; (iii) types of computers accessing the Website; and (iv) types of Web browsers accessing the Site (collectively "Traffic Data"). Traffic Data is anonymous information that does not personally identify you. 
 
-Upon registration with the Site, we collect PII and other information required to create a User account for you and, optionally, to deliver to you a version of MA that is compatible with your mobile device. At this time, this information consists of: 
+### Cookies
 
-  * — Your mobile communications carrier (optional)
-  * — Your mobile device make and model (optional)
-  * — Your mobile phone number (optional)
-  * — Your email address
-  * — Your gender
-  * — Your age
-  * — A "screen name" that you will use to indetify yourself on the Site
-  * — A password for logging in to the Site
+A "cookie" is a string of information that a website stores on a user’s computer, and that the user's browser provides to the website each time the user submits a query to the website. The purpose of a cookie is to identify the user as a unique user of the Site. GTI uses cookies to customize your experience on the Site to your interests, to ensure that you do not see the same advertisements or informational messages repeatedly, and to store your password so you do not have to re-enter it each time you visit the Site. In addition, GTI may use cookies, and other methods, to store and retrieve data from your web browser. For additional information on GTI’s uses of cookies, see the section concerning Information Use and Disclosure Practices/Traffic Data and Information Gathered Using Cookies, below.
 
-  
-This information will be stored in an internal database that is proprietary to GTI. Other than as necessary to create your User account, deliver the proper version of MA to your mobile device or for the various other uses disclosed in this Policy, we will only use this information to determine the appropriateness of, and thus whether to display to you, certain content on the Site. We do not serve content on the Site in a personally identifiable manner; rather, the software we use entreats this task in a closed database environment. 
+IF YOU DO NOT WISH TO HAVE COOKIES PLACED ON YOUR COMPUTER, YOU SHOULD SET YOUR BROWSERS TO REFUSE COOKIES BEFORE ACCESSING THE SITE, WITH THE UNDERSTANDING THAT CERTAIN OF THE SERVICES AND CERTAIN FEATURES OF THE SITE MAY NOT FUNCTION PROPERLY WITHOUT THE AID OF COOKIES.
 
-2\. Configuration of a Customized Diet or Workout Program
+### Web Beacons
 
-To fully benefit from the Service, you will be required to enter medical history data and personal data that we use to calibrate the mechanisms of our nutritional analysis software and our dynamic virtual training program. 
+"Web beacons" (also known as clear gifs, pixel tags or web bugs) are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies. Unlike cookies which are stored on the user’s computer hard drive, web beacons are embedded invisibly on web pages (or in e-mail). Web beacons may be used to deliver or communicate with cookies, to count users who have visited certain pages and to understand usage patterns. For additional information on GTI’s uses of web beacons, see the section concerning Information Use and Disclosure Practices/Traffic Data and Information Gathered Using Cookies & Web Beacons, below.
 
-3\. In Connection With Promotional Campaigns
+### Mobile Device Data
 
-From time to time, either GTI or a third party may host a promotional campaign on or through the Service. These campaigns have a variety of objectives such as ensuring that we are satisfying your needs, assessing the performance of areas or aspects of the Service and introducing new products or offers. In these cases a specialty promotional privacy statement will be implemented in the framework of the promotion, which will give specific direction as to the treatment of collected information. Oftentimes the information will be necessary for the fulfillment obligation of a prize or sample. GTI conducts all promotional campaigns within the guidelines of this Policy. 
+When users download, install and use the Apps on their mobile phone or other wireless telecommunications device, GTI automatically gathers information, including without limitation, carrier providers, a unique device identifier, geo-location information (if allowed by the user), the types of mobile devices accessing the Apps, and the types of operating systems accessing the Apps (collectively, "Mobile Device Data"). A unique device identifier is a string of alphanumeric characters (similar to a serial number) used to uniquely identify and distinguish each mobile phone or other wireless communications device. Location services can be enabled or disabled at anytime, through the mobile device settings. GTI uses Mobile Device Data to understand usage patterns and to improve the Apps. For additional information on GTI’s uses of Mobile Device Data, see the section concerning Information Use and Disclosure Practices/Traffic Data and Information Gathered Using Cookies, Web Beacons, and Mobile Device Data, below.
 
-**What We Do With Your PII**
+### Ad Serving and Usage Analytics
 
-PII of individual Users will not be sold or otherwise transferred to unaffiliated third parties without the User's prior consent. We may, however, in certain limited circumstances provide PII: (1) to comply with valid legal requirements such as a law, regulation, search warrant, subpoena, or court order; or (2) in special cases such as a physical threat to you or others. 
+GTI uses third-parties for advertising and usage analytics for the Service. These third-parties may place cookies on your machine, use web beacons, gather Personal Information (as defined below), Traffic Data and Mobile Device Data, and log data to collect traffic and activity data in order to deliver relevant metrics, content, and advertising. We do not share your non-public Personal Information with these parties, but we may share anonymized or aggregated information with them to improve the relevancy of the ads you see on or through the Service. The collection of this information by third-parties is subject to such third-parties’ privacy policies. For additional information, see the section concerning Third-Party Websites/Applications, below. With regards to advertising on the Site, to learn more about behavioral advertising practices or to opt-out of this type of advertising, visit http://www.networkadvertising.org/choices and http://www.aboutads.info/choices.
 
-The Site stores the Internet Protocol (IP) address of your computer when you visit the Site. This information is only used to create broad demographic summaries of where our Users come from; for example, we know what percentage of Users come from Europe or Africa, but our use of the IP addresses does not include identifying who those Users actually are. However, GTI may use registration information and other voluntarily submitted information in the following ways: 
+### Personal Information
 
-  * — To provide our employees with information that is useful in developing new features for the Service; 
-  * — To provide advertisers with aggregate -- never individual -- information about our Users and their usage patterns (for more on Aggregate Information, see below); 
-  * — To allow us to potentially vary advertising based on User preference; and 
-  * — To provide Users with an individual experience when using the Service through personalization.
+You will be asked to provide GTI certain information related to you ("Personal Information"). Personal Information includes, without limitation: (1) "Contact Data" (personally identifiable information about you, such as your name and email address, as well as your friends and contacts, if you enable access to your contacts and address book information); and (2) "Demographic Data" (personal information about you (but doesn’t specifically identify you), such as your gender, birthday, zip code, country, height, weight, lifestyle and exercise frequency); and (3) "Fitness Data" (information about your use of the Service (but doesn’t specifically identify you), such as your caloric intake, nutritional statistics, fitness activity, and weight loss/gain). The Personal Information you provide is used for such purposes as allowing you to set up a user account and profile, providing the Service and related services, monitoring and improving the content and usage of the Service, interacting with the Service and with your friends and other members, to find and connect with your friends and other members (when instructed by you), customizing the advertising and content you see, communicating with you about new features and other news, and any other purpose for which the information was collected. We may also draw upon this Personal Information in order to adapt the Service to your needs, to research the effectiveness of our Service, and to develop new tools for our members.
 
-  
-GTI reserves the right to perform statistical analyses and profiling of User behavior and characteristics in order to measure interest in and use of the various aspects of the Service and to inform partners of such information. GTI will provide only aggregate data from these analyses to third parties; no PII will be disclosed. 
+You are under no obligation to provide Personal Information, however, not providing this information may prevent you from using certain features of the Service.
 
-GTI may, at some time, permit third parties to offer subscription and/or registration-based services through the Site. In this event, GTI will not be responsible for any actions or policies of such third parties and Users should check the applicable privacy policy of such third party before providing PII. 
+### Third-Party Services
 
-It is not possible for a User to delete his or her profile from our database, nor is it feasible to delete all traces of a User's activity in the system. Messages posted to message boards are examples of User activities that are not feasible to delete. 
+If you create an account using your login/ID from a third-party service, like Facebook, GTI will use your login/ID to access and collect the information that your privacy settings on that third-party service permits GTI to access so that GTI can create your account and connect you with your friends.
 
-GTI may send regular email updates to Users. If you wish to have your email address deleted from our database, please use [this form](https://web.archive.org/www/main/EmailUnsubscribe.aspx). Please allow two to three business days for the actual cancellation to take effect. We will not share your email address with third parties without first receiving your permission. 
+### Information you Make Public
 
-Users should be aware that when they voluntarily disclose PII (for example, name or email address) in Interactive Areas of the Site, that information, along with any substantive information disclosed in the User's communication, can be collected and correlated and used by third parties and may result in unsolicited messages from third parties. Such activities are beyond the control of GTI. GTI makes no warranties about the discoverability of a User's identity by methods beyond our control. 
+Certain portions of the Service are open to any viewer, such as our community forums and your personal profile. Any information you post in these locations may be available and accessible to other members of the Site. In addition, the Site contains features that permit you to upload, post, transmit, display, perform or distribute content, information or other data, including your Personal Information. Any information that you choose to disclose by means of such features becomes public information. You should exercise caution when deciding to disclose your Personal Information by means of such features, and you agree to assume all responsibility for doing so.
 
-**We Use Cookies**
+## Information Use And Disclosure Practices
 
-The Site employs cookie technology to allow Users to move more quickly through the Site. Cookies are small text files a Website can use to recognize repeat users and facilitate the user's ongoing access to and use of the site. Generally cookies work by assigning a unique number to the user that has no meaning outside the assigning website. They do not pose a threat to a user's files. Users should be aware that GTI cannot control the use of cookies by advertisers or third parties hosting data for the Site. However, if a User does not want information collected through the use of cookies, there is a simple procedure in most browsers that allows the User to deny or accept the cookie feature. Please note that cookies may be necessary to provide the User with certain features (for example, customized delivery of information) available on the Site. 
+### Traffic Data and Information Gathered Using Cookies, Web Beacons & Mobile Device Data
 
-**Aggregate Information**
+GTI analyzes Traffic Data and information gathered using cookies, web beacons and Mobile Device Data to help GTI better understand who is using the Service and how they are using the Service. By identifying patterns and trends in usage, GTI is able to better design the Service to improve your experience, and to serve you more relevant and interesting content and advertisements. From time to time, GTI may release Traffic Data and information gathered using cookies, web beacons and Mobile Device Data in the aggregate, such as by publishing a report on trends in the usage of the Site. In addition, GTI may share Traffic Data and Mobile Device Data and information gathered using cookies and web beacons with: (1) third-party analytics companies so that such third-parties may help GTI better understand who is using the Service and how they are using the Service; (2) advertisers and marketing partners so that such third-parties may provide you with advertisements tailored to your interests; and (3) service providers so that we can personalize, provide and improve our Service to your use and interests.
 
-In most cases, GTI will provide aggregate information about you, which does not allow you to be personally identified or contacted ("Aggregate Information") to third parties. For example, we might inform third parties regarding the number of members enrolled in a particular workout program who are over the age of 25. We might also inform a fitness apparel manufacturer (that may or may not be an advertiser on our site) that 45% of the women on the site participate in aerobics programs. Depending on the circumstances, we may or may not charge them for this information. 
+### Personal Information: Contact Data
 
-**Internal Privacy**
+GTI uses your Contact Data to send you information about GTI and GTI’s products and services, and to contact you when necessary in connection with the Service. GTI uses your Contact Data (when instructed by you) to connect you with your friends and other members with whom you want to connect with, according to the preferences set in your account.
 
-GTI utilizes databases to produce results of our Service's performance and give us measurements regarding the activity of the Service. This enables us to continually refine and improve the Service for you. Only authorized GTI employees are permitted access to your PII and all GTI employees are required to abide by this Policy. Those who violate the terms of this Policy are subject to disciplinary action, up to and including termination. 
+### Personal Information: Demographic Data
 
-**Your Choice**
+GTI uses your Demographic Data to customize and tailor your experience on the Service. As with Traffic Data and Mobile Device Data and information gathered using cookies and web beacons, from time to time GTI may release or share Demographic Data with third-parties in anonymous form and/or in the aggregate, for industry analysis, research, demographic profiling and other similar purposes. In addition, GTI shares anonymized Demographic Data with its advertisers and marketing partners so that such third-parties may provide you with advertisements tailored to your interests. To opt-out of sharing your anonymized and Demographic Data with our advertising and marketing partners, visit http://www.networkadvertising.org/choices and http://www.aboutads.info/choices.
 
-When you register on the Site, you will be given the opportunity to either choose to receive or decline to receive informational/promotional emails and offers from GTI. 
+### Personal Information: Fitness Data
 
-**Internet-based Advertising**
+GTI uses your Fitness Data to provide, personalize and improve your experience on the Website and/or Applications. As with Demographic Data and other data gathered through the Service, GTI may release or share Fitness Data with third parties in anonymous form and/or in the aggregate, for statistical analysis, research, demographic profiling and other similar purposes. In addition, GTI may share your Fitness Data along with some of your Demographic Data, in anonymous form and in the aggregate, with other GTI users so that you and other users can compare their own personal fitness, health and wellness situation relative to the entire GTI community.
 
-We use third-party advertising companies to serve ads when you visit the Site. These companies may use information other than PII about your visits to the Site and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.google.com/privacy_ads.html). 
+### Other Disclosure Practices
 
-We also use Remarking with Google Analytics for Display Advertisers and may remarket our services or products to our visitors by showing them ads on sites across the Internet. We use third party advertising vendors, including Google, that use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to our website. You may opt out of Google Analytics for Display Advertisers and opt out of customized Google Display Network ads by visiting the [Ads Preferences Manager](https://www.google.com/settings/ads/onweb/). 
+Except as otherwise provided in this Privacy Policy, and when you otherwise give permission or under the following circumstances, GTI will not share your Personal Information with third parties.
 
-**Contacting GTI**
+  * Disclosure in Connection with Services. GTI discloses Personal Information to those who help it provide services, including those who perform technical, administrative and data processing tasks such as hosting, billing, fulfillment, and data storage and security.
+  * By Law or to Protect Rights. GTI discloses Personal Information when required to do so by law, or in response to a subpoena or court order, or when GTI believes in its sole discretion that disclosure is reasonably necessary to protect the property or rights of GTI, third-parties or the public at large.
+  * Business Transfers; Bankruptcy. GTI reserves the right to transfer all Personal Information in its possession to a successor organization in the event of a merger, acquisition, or bankruptcy or other sale of all or a portion of GTI’ assets. Other than to the extent ordered by a bankruptcy or other court, the use and disclosure of all transferred Personal Information will be subject to this Privacy Policy, or to a new privacy policy if you are given notice of that new privacy policy and an opportunity to affirmatively opt-out of it. Personal Information submitted or collected after a transfer, however, may be subject to a new privacy policy adopted by GTI’s successor organization.
 
-You are always welcome to contact us in order to delete your PII from our databases, to update your profile and to change your preferences with respect to marketing contacts. Our postal address is: Genesant Technologies, Inc., 8150 Leesburg Pike, Suite 400, Vienna, VA 22182. Our telephone number is 703-204-1301. 
 
-As we grow and offer you new service features, we will continually evaluate this Policy to ensure that your anonymity is maintained and to protect your personal information. Should we change an aspect of this Policy, we will note that change with an update marker in the text; however, our pledge to keeping your trust by maintaining the highest privacy standards will not deviate. If you do not agree to the terms of this Policy or any revised policy, please exit the Site immediately and discontinue use of the Service. 
+
+## Email Communications From GTI
+
+In providing the Service, you may receive periodic email communications from GTI regarding the Service, such as new product offers and other information regarding the Service, which are part of the Service and which you cannot opt out of receiving. You may also receive periodic promotions and other offers or materials GTI believes might be of interest to you. You can opt-out of receiving these promotional messages at any time by (a) following the unsubscribe instructions contained in each message; or (b) changing the messaging preferences in your account.
+
+## Email Communications From Members
+
+By finding and connecting with your friends and other members, you may receive electronic communications, including email and personal messages from other GTI members. You can manage the messages you receive from other members by changing the messaging preferences in your account.
+
+## Security Of Personal Information
+
+GTI has implemented and maintains reasonable security procedures and practices designed to protect against the unauthorized access, use, modification, destruction or disclosure of your Personal Information, however, despite these efforts, no security measures are perfect or impenetrable and no method of data transmission can be guaranteed against any interception or other type of misuse. In the event that your Personal Information is compromised as a result of a breach of security, GTI will promptly notify you if your Personal Information has been compromised as required by applicable law.
+
+## User Ability To Access, Update, And Correct Personal Information
+
+If you have an account, you can access and modify your Personal Information through your account, at any time. If you completely delete all such information you will not be able to access or use the Website and/or Applications correctly. If you would like GTI to delete your Personal Information from its system, please contact us at removal@fitclick.com with a request that we delete your Personal Information from its database. GTI will use commercially reasonable efforts to honor your request; however, GTI may retain an archived copy of your records as required by law or for other legitimate business purposes.
+
+GTI wants your Personal Information to be complete and accurate. By using the Service, you represent and warrant that all information you provide on any registration form or otherwise in connection with your use of the Service will be complete and accurate, and that you will update that information as necessary to maintain its completeness and accuracy. To confirm the completeness and accuracy of, or make changes to, your Personal Information, please visit your personal profile.
+
+## Third-party Websites/Applications
+
+The Service contains links to Third-Party Websites/Applications. GTI does not own or control these Third-Party Websites/Applications. GTI is not responsible for the privacy and security practices and policies of those Third-Party Websites/Applications and this Privacy Policy does not apply to any Third-Party Websites/Applications, except with respect to Personal Information provided directly to them by GTI. Before visiting or providing Personal Information to a Third-Party Website, you should inform yourself of the privacy policies and practices (if any) of that Third-Party Website, and should take those steps necessary to, in your discretion, protect your privacy.
+
+## Updates And Changes To Privacy Policy
+
+GTI reserves the right to, update, change or modify this Privacy Policy. Any material changes to this policy will be posted on the Service (or you may be notified by email or other notification), and will indicate when such changes will become effective. You will be deemed to have agreed to any such modification or amendment by your decision to continue using the Service following the date in which the modified or amended Privacy Policy is posted on the Service. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used.
+
+## Children's Privacy
+
+GTI does not solicit or knowingly collect personally identifiable information from children under the age of 13. If GTI obtains actual knowledge that it has collected personally identifiable information from a child under the age of 18, GTI will promptly delete such information from its database.
+
+## International Users
+
+If you are located outside the United States and choose to provide your information to GTI, your information will be transferred to the United States and processed there (or any other country where GTI operates). By providing your information and using the Website and/or Applications, you agree and consent to the collection, transfer, use, storage and disclosure of your information as described in this Privacy Policy.
