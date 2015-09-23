@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the arirang.co.kr privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627170314id_/http%3A//www.arirang.co.kr/Help/Privacy_Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arirang.co.kr privacy policy that was archived on 2015-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150923163155id_/http%3A//www.arirang.com/Help/Privacy_Policy.asp) for the most accurate reproduction.*
 
-# Asia Heartbeat arirang
+# Privacy Policy | The World On Arirang
 
 ### 
 
 ## Privacy Policy for Members of Arirang’s Web Site
 
-Welcome to the Arirang.co.kr  
-Arirang.co.kr takes your privacy seriously. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this Arirang.co.kr. Arirang will manage members' personal information under the Arirang policy to protect personal information on the service website.  
+Welcome to the arirang.com  
+arirang.com takes your privacy seriously. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this arirang.com. Arirang will manage members' personal information under the Arirang policy to protect personal information on the service website.  
 Please read the following to learn more about our privacy policy. 
 
   * #### 1\. Agreement to collect profile information
@@ -44,7 +44,7 @@ Personal information that has been placed in a special database is not used for 
 \- Personal information stored in electronic files is deleted using technical methods that prevent its restoration.
   * #### 7\. Membership withdrawal
 
-Users of Arirang’s Web site can delete their personal information collected by Arirang anytime. To delete a user account, either go to the “My Arirang” page and click on the “Account Deletion,” or email us at [webmaster@arirang.co.kr](mailto:webmaster@arirang.co.kr).
+Users of Arirang’s Web site can delete their personal information collected by Arirang anytime. To delete a user account, either go to the “My Arirang” page and click on the “Account Deletion,” or email us at [webmaster@arirang.com](mailto:webmaster@arirang.com).
   * #### 8\. Rights of Users and Legal Representatives and Methods of Exercising Those Rights
 
 Users and legal representatives can view and modify at any time their registered personal information or the personal information of children under 14 who they represent.  
@@ -64,14 +64,14 @@ We send all new members a welcoming email to verify password and username. Estab
 Comments and complaints on Privacy Policy are managed by the below representatives:
 
 Management Chief  
-\- Name : Song Chang-un  
+\- Name : Kim Hea-young  
 \- Department : CS & PR Team  
-\- E-mail : [scw9876@arirang.co.kr](mailto:scw9876@arirang.co.kr)
+\- E-mail : [khyoung@arirang.com](mailto:khyoung@arirang.com)
 
 Management Director  
 \- Name : Lee Taek-soo  
 \- Department : Newmedia Team  
-\- E-mail : [tslee@arirang.co.kr](mailto:tslee@arirang.co.kr)
+\- E-mail : [tslee@arirang.com](mailto:tslee@arirang.com)
 
   * #### 12\. Complaints on personal information related
 
