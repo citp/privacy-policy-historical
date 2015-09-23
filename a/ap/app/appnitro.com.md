@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appnitro.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618113700id_/http%3A//www.appnitro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appnitro.com privacy policy that was archived on 2015-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150923235524id_/http%3A//www.appnitro.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « HTML Form Builder Online , PHP Form Creator – MachForm
 
@@ -15,3 +15,9 @@ If you sign up for our newsletter, your email address will be kept confidential,
 During purchase process, we collect user information. This information is collected by our payment processor — [FastSpring, LLC](http://www.fastspring.com/), trusted e-commerce company that handles sales for thousands of software companies world-wide. They have their own [privacy policy](http://www.fastspring.com/privacy.php) and already known for their long-term reputation for professionalism and security. No personal information will ever be shared with another company.
 
 We (Appnitro Software) **do not know users’ credit card numbers** and other sensitive payment information — this data is only available to the secure service of FastSpring, LLC during the purchase process and they deal with it safely.
+
+##### Form Data
+
+MachForm ensures the privacy of your forms data. When using MachForm, you keep control of your data. Your form data is stored in your own MySQL database and will never be sent to other servers by MachForm.
+
+We do not host any of your form data and we do not have any access to your form data.
