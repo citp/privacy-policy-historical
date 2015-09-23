@@ -1,47 +1,128 @@
-> *The following text is extracted and transformed from the webhealthanswers.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121074359id_/http%3A//webhealthanswers.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhealthanswers.com privacy policy that was archived on 2015-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150923101922id_/http%3A//www.webhealthanswers.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-WebHealthAnswers.com ("The Site") has created this privacy statement in order to demonstrate our firm commitment to privacy. This Web site provides health information and resources. We understand that health is a personal and private matter, and we do not want you to have to be concerned about the security or use of any information you provide to us. The following discloses our information gathering and dissemination practices for the Web site, WebHealthAnswers.com.
+This policy elaborates on the process of information gathering and dissemination. What may be collected about you when you use our services made available, how this information may be used, how you can control how your information is used, and what precautions are taken against unauthorized access or use of your information are explained and elaborated here.
 
-WebHealthAnswers.com does not sell, trade, or rent the personal identifying information of its users to third parties. WebHealthAnswers.com collects no personal identifying information about its users except when specifically and knowingly provided by such users. Many of the services on our site are offered without our collecting any personally identifiable information from you. You can visit WebHealthAnswers.com and view most of our sites content and sections while remaining anonymous. A user's personal identifying information may be used by WebHealthAnswers.com to improve its services to its users. Users who have requested updates may receive information from WebHealthAnswers.com on new health therapies, products and services that may help them better manage their care. Any information received is not an endorsement or opinion of WebHealthAnswers.com regarding any treatment option, product or service. Users who receive a requested update, will always have the ability at any time to opt out of receiving any future information. WebHealthAnswers.com may offer its users online surveys and questionnaires that ask users for opinions and/or other information. Such surveys are completely voluntary. Any information submitted may be shared with other companies on an aggregate basis, but WebHealthAnswers.com will not provide such companies with any information regarding the identity of any individual user.
+The services may be provided in a variety of mediums and devices now known or hereinafter developed including mobile applications, and include without limitation news, reference tools and applications, sponsored programs, personalized content, continuing medical education, communication tools and discussion boards.
 
- **Passive Information Collection Practices**
+Hence, it’s your responsibility to read our privacy policy. We are not responsible for other websites. Rather, we only answer to our own policy.
 
- **Aggregate information:** Users should know that WebHealthAnswers.com may place a "cookie" in the browser files of the user's computer. The cookie does not contain any personal identifying information. The information tracked provides information such as your browser type, the type of operating systems you use, the domain of your Internet service provider, and pages visited on the site. Most web browsers automatically accept cookies, but a user can usually modify their browser to prevent cookies from being accepted.
+#### Privacy Policy Changes
 
- **IP Addresses:** An IP address is a number automatically assigned to your computer whenever you access the Internet. All computer identification on the Internet is conducted with IP addresses, which allow computers and servers to recognize and communicate with each other. The Company collects IP addresses in order to conduct system administration, report aggregate information to partners, sponsors and advertisers, and to conduct site analysis. To maintain visitor anonymity, the Company does not associate IP addresses with records containing personal information. However, the Company will use IP addresses to identify any visitors who refuse to comply with WebHealthAnswers.com 's rules or Terms and Conditions.
+For any significant change on the policy, we will take steps to inform you in a timely fashion. For minor changes, we may or may not inform you. However, when the changes can significantly affect the way we handle personal information, we will not apply the changes without giving you a choice.
 
- **Active Information Collection**
+#### Information We Collect
 
- **About Children:** This site is not intended for children under the age of 13. We will not knowingly collect information from site visitors in this age group. We encourage parents to talk to their children about their use of the Internet and the information they disclose to Websites.
+In this section, we discuss the different types of information that we may collect about you and the collection process that goes with it.
 
- **Public Forums:** This site may make forums, message boards, and/or news groups available to Members. Please remember that any information that is disclosed in these areas becomes public information and Members should exercise caution when deciding to disclose any personal information. We cannot control the actions of others and inappropriate and/or offensive information may be posted. We have scheduled monitoring of the message boards and when we come across inappropriate and/or offensive information we remove it. 
+**1\. From Unregistered Visitors**  
+You must register to access all of the services. However, you may be able to access certain limited areas without disclosing any personal and identifiable piece of information. The information we get here is not traced back to any individual and is not used on its own to identify anyone. We do not make use of cookies. Our section of this Privacy Policy entitled Cookies and Web Beacons below, further describes the process.
 
-**Passwords and Account Information:** You are solely responsible for maintaining the secrecy of your passwords and/or account information. Please be careful and responsible whenever you are online.
+**2\. From Registered Visitors**  
+You will asked to provide identifying information such as your name, e-mail address, zip code, and other professional information. You will also have a choice regarding the newsletters and other information that you may want to receive. If you are required to provide additional information to gain more access, or if we would like to use personally identifiable information about you, we adhere to the strict Privacy Policy. It is our responsibility to explain how we intend to use it and we will require your consent.
 
- **Email Opt-Out:** Our site provides users with the opportunity to opt-out of receiving communications from us and our partners or sponsors at the point where we request information about the visitor. This site also gives users the following options for removing their name from our communications list so as to not receive future communications or to discontinue service:
+**3\. From Outside Sources**  
+We reserve the right to collect additional information about registered users from third party sources to further assist us in our services. We will use such information to verify and update registration information and confirm licensure status.
 
-You can click "Unsubscribe" at the bottom of all emails communications from Company.
+#### Other Information
 
- **Security**
+  * **Discussion Boards** : When you post a message to a discussion board, your basic profile will be available for all registered users to see. This said basic profile includes name, specialty, and geographic information. You have the choice to display additional information. Just make sure that you do not post any information about you or any other person to a discussion board or other public forum if you want to keep such information private. Information posted is considered public information and may be used by us and by third parties.
+  * **Tools** : Clinical tools are made available through the services. These tools require you to provide information for the tools to operate. These are designed to store information that you provide.
+  * **Additional Forms and Emails** : We may also ask you to provide additional information if you want to obtain additional services or to resolve concerns.
+  * **Market Research** : As a registered user, you may be invited to participate in a sponsored or non-sponsored market research survey via email invitation, on-site pop-up, or other means. The survey may be administered by one of our companies or a third party market research establishment. Should you choose to participate, provide a response to the survey questions. You may then again be asked to provide further personally identifiable information. Refer to the section on Uses and Disclosures We Make of Your Information for this.
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Certain areas of the site are secured with encryption technology. Any employee or contractor requiring access to technology relating to Member information must be given password access by the Company management. This access is reviewed on a regular basis, and parties granted such access are instructed on the Company privacy and security policies. In order to prevent loss of information, all data is backed up on a real-time basis. 
 
-**Contact Information**
 
-Site visitors who have questions about this privacy statement, the privacy practices of this site, or their dealings with this Web site insofar as their privacy and confidentiality are concerned, should contact [admin@webhealthanswers.com](mailto:admin@webhealthanswers.com). 
+#### Use of Cookies and Web Beacons
 
-**Changes to This Privacy Policy**
+We collect non-personally identifiable information through cookies. This is merely a small data file that your browser allows us to place on your hard drive so we can associate you with the device you have.
 
-If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. 
+**We assign cookies for:**
 
-**Google Adsense and Third Party Advertising**
+  * Track usage across the Professional Sites and Services
+  * Help us dynamically generate advertising and content to users
+  * Assess which professional site pages and services you access
 
-We use [Google AdSense](http://en.wikipedia.org/wiki/AdSense "Google AdSense") and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used, please click here: <http://www.google.com/privacy.html>
 
-**DoubleClick Dart Cookies**
 
-Google AdSense uses the DoubleClick DART cookie to gather the information specified above. In the course of serving advertisements to this site, our third-party advertiser may place or recognize cookies on your browser. You may decline to provide personal information to them and/or refuse cookies in your browser, although some of features may not function properly as a result. For more information on the DoubleClick DART cookie and privacy: <http://www.doubleclick.com/privacy/faq.aspx>
+If you are registered, we may decide to associate your registration information with our cookies. This step allows us to provide more customized content, including advertisements, and enhance personalization and functionality of the services.
 
-**This Privacy Policy was last updated on 03-21-2009.**
+As stated below, when you download and install any of our mobile applications onto your device, we assign a random number for your installation. This is similar to a cookie.
+
+Most browser software can be set to reject all cookies. If your browser is set to reject, websites that are cookie-enabled will not recognize you when you return to our site. It’s important to note that some website functionality may be lost.
+
+Refer to the help section of your browser to access options.
+
+We may use web beacons and cookies to serve you targeted advertisements when you visit other sites owned and operated by us. We may also use web beacons to track emails. Web beacons are tiny graphic image files, embedded in a website page that notify the home server (which can belong to the host website, a network advertiser, or some other third party) on a non-personally identifiable basis. This may also result in a cookie.
+
+Our contracts with third parties whose web beacons may be placed on our sites to assist us in targeting its advertising are not owned and operated by the people on our end. These web beacons place cookies to enable third parties to collect non-personally identifiable information about you. These third parties have agreed not to use incriminating or personal information. Again, if your browser is set to reject cookies, this non-personally identifiable information will not be sent.
+
+With sale of advertising, we may allow a third party to place a cookie on your browser to enable advertisers to recognize your browser on a non-personally identifiable basis. One again, the same procedures apply.
+
+We do not control the third parties’ use of cookies or web beacons, or how they manage the non-personally identifiable information. However, we do require sponsors, advertisers, and Ad Servers. They have been authorized to collect cookie or web beacon information through the services. They have agreed not to collect any personally identifiable information. Further, they have also agreed not link any non-personal cookie or web beacon.
+
+Certain Ad Servers and third party firms allow you to prevent them from collecting data or serving advertisements through the use of their cookies. You can opt of it. You can also do this for Cookies for several Ad Servers and analytic firms by visiting the Network Advertising Initiative gateway opt-out website. Head over to this site will also allow you to review the privacy policies.
+
+## Children’s Privacy
+
+We are committed to protecting the children. The Professional Sites and Services are solely for adults over the age of 18.
+
+## Uses and Disclosures We Make of Information
+
+The personally identifiable information that you provide will be used to provide the services you have requested or authorized.
+
+## Aggregate Data
+
+We create aggregate data about users for product development and improvement, and for market analysis. We may provide information about users in aggregate form to third parties. The information is done professionally, with your well-being in mind at all times. For instance, we may tell a client what percentage of registered users of the site reside in a particular geographical area or specialize in a particular clinical area, or what percentage of participants in a market research survey selected a particular response to a survey question.
+
+When aggregated information is provided to a third party, it is pooled along with other individual records. These are stripped of any data that could be used to identify you. Any third party that receives aggregated information must agree to this procedure.
+
+## Marketing and Advertising
+
+We may target its advertising and marketing based on information you provide upon registration. For instance, a user that we knows is a cardiologist may be served cardiology-related advertisements on both our site and third party websites. We serve these ads with the use of cookies and web beacons. Additionally, we may geographically target its advertising to registered and unregistered users based on IP address.
+
+We may also personalize the services and the advertising that registered users see based on individual interests.
+
+## Third Parties
+
+We may also share personally identifiable information with third parties as described below.
+
+  * **Other Companies** : When you are interacting with one of these companies, a specialized privacy policy may apply and will be presented to you at such time.
+  * **Companies and People Who Work for Us** : If you are a healthcare professional, we may request that a third-party to validate your licensure status and other related information. We require all companies to comply with the terms of this Privacy Policy. This is done to protect your identity and to limit their access.
+  * **Market Research** : From time to time, we may invite you to participate in sponsored or non-sponsored market research surveys as further described above. Should you choose to participate in a survey administered by a third-party market research company, this company may identify you. Nonetheless, we require these companies to approve policies that protect you.
+  * **Business Transfers** : If one of us transfers a business unit or an asset to another company, we ensure that these companies to honor the terms.
+  * **Legal Requirements** : We only release account and other personally identifiable information when (1) it is required to comply with valid legal requirements such as a law, regulation, search warrant, subpoena or court order; or (2) when it is reasonable in response to a threat. In the event that the unfortunate happens, we will attempt to notify you unless doing so would violate the law, court order or government instruction.
+  * **Consent** : We always get your consent, especially in the release of personally identifiable information to a third party.
+
+
+
+If we discover that a third party inadvertently disclosed personally identifiable information about any of our users, we will take immediate action for your safety and precaution.
+
+## Security of Information
+
+Here are the security measures we take to protect information we have collected.
+
+## General Policies
+
+We have implemented technology and security policies, rules and other measures to protect personal data. This is to ensure and respect your confidentiality. We use security methods to determine the identity of registered users, so that appropriate rights and restrictions can be enforced. Reliable verification of user identity is called authentication. We use both passwords and usernames for this. Users are mainly responsible for maintaining passwords.
+
+## Employees
+
+Employees are required to keep your information private. Only authorized employees are permitted to access health information. Everyone is duty-bound to abide by this to avoid termination and legal action.
+
+## Access to Information and Choices
+
+We obtain and correct information about you. For errors, you may edit your personal profile any time. Requests for deletion of your record may result in your removal, but we may keep certain demographic information for product improvement purposes. You may contact Customer Support and ask for the changes you deem necessary.
+
+## Use of your Information Outside of the EEA
+
+We will collect, store, and process information about your use of the Services in countries outside of the European Economic Area (EEA) as necessary. This is the task that every legitimate business must do.
+
+By using the Services, you agree to such collection, storage, and processing outside of the EEA. We take the necessary steps to ensure your information is protected.
+
+## Privacy Questions or Concerns
+
+For privacy questions or concerns about our website or services, please use our [Contact Us](http://www.webhealthanswers.com/contact-us.html) form
+
+**Terms of Use** Our Terms of Use agreements can be found [Here](http://www.webhealthanswers.com/terms-of-use.html).
