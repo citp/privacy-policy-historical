@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the symbols-n-emoticons.com privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514090805id_/http%3A//www.symbols-n-emoticons.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the symbols-n-emoticons.com privacy policy that was archived on 2015-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150923215148id_/http%3A//www.symbols-n-emoticons.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Facebook Symbols and Chat Emoticons
 
@@ -16,4 +16,4 @@ Any user may opt out of Google's cookies by visiting: http://www.google.com/priv
 
 Users can also disable cookies by navigating their individual browser options.
 
-[ ](http://www.blogger.com/page-edit.g?blogID=791797931587932205&pageID=5706617865389130567&from=pencil "Edit Page")
+[ ](https://www.blogger.com/page-edit.g?blogID=791797931587932205&pageID=5706617865389130567&from=pencil "Edit Page")
