@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chipublib.org privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317065122id_/http%3A//chipublib.bibliocommons.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chipublib.org privacy policy that was archived on 2015-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150923141858id_/http%3A//chipublib.bibliocommons.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy | Chicago Public Library | BiblioCommons
 
@@ -10,7 +10,7 @@ BiblioCommons believes that effective privacy controls are the cornerstone of op
 
 ### Is this the only policy governing the use of my information on services offered by the library?
 
-No. Information you provide on the BiblioCommons Service may be transmitted your library and its designated service partners, where it will be handled according to the policies your library has implemented in those environments. Please check the library’s website to view these documents, or speak to a librarian.
+No. Information you provide on the BiblioCommons Service may be transmitted to your library and its designated service partners, where it will be handled according to the policies your library has implemented in those environments. Please check the library’s website to view these documents, or speak to a librarian.
 
 ### What types of information are collected on this service?
 
@@ -81,7 +81,7 @@ More information about children’s safety online can be found on the following 
 
 _Safety tips for children:_
 
-  * <http://kids.getnetwise.org/safetyguide/kids>
+  * <http://www.safekids.com/kids-rules-for-online-safety/>
   * <http://www.safesurfingkids.com/tips_for_kids.htm>
 
 
@@ -98,11 +98,6 @@ Tips for parents:
 Guardians of children under the age of thirteen may make a request to review and alter the personal information collected from their children on this service, or to deactivate their child’s BiblioCommons account. The first step in gaining access to your child’s account is to make your request in person to staff at one of the library’s locations. Be prepared to show proof of your identity and of your relationship with the child. Staff will then have the information retrieved and delivered to you by mail or held for pick-up. Note that guardians cannot be given access to a child’s borrowing record.
 
 Note that the BiblioCommons Service does not require children under the age of 13, as a condition of participation, to provide more information than is reasonably required. 
-
-  * <http://www.google.com/familysafety/advice.html>
-  * <http://www.internetsafety101.org/safety101.htm>
-
-
 
 ## Borrowing Information
 
@@ -169,7 +164,7 @@ This privacy statement may change from time to time in response to new laws, or 
 
 ### Change of Service
 
-In the event that Chicago Public Library discontinues its participation in the BilioCommons Service, the Chicago Public Library may transfer your information to a new service of a similar nature. In addition, Chicago Public Library may agree to have your information transferred to a successor entity of BiblioCommons or to any entity which purchases substantially all of the assets related to BiblioCommons or a division of BiblioCommons.
+In the event that Chicago Public Library discontinues its participation in the BiblioCommons Service, the Chicago Public Library may transfer your information to a new service of a similar nature. In addition, Chicago Public Library may agree to have your information transferred to a successor entity of BiblioCommons or to any entity which purchases substantially all of the assets related to BiblioCommons or a division of BiblioCommons.
 
 Comments? Questions? Contact us. privacy@bibliocommons.com
 
