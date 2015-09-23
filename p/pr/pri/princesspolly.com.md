@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the princesspolly.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622104957id_/http%3A//www.princesspolly.com/help-faq/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the princesspolly.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924005549id_/http%3A//www.princesspolly.com/help-faq/privacy) for the most accurate reproduction.*
 
 # Your Privacy
 
