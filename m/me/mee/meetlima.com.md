@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the meetlima.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319004026id_/http%3A//meetlima.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetlima.com privacy policy that was archived on 2015-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150923022406id_/https%3A//meetlima.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy — Lima
+# Lima - A World Where Your Devices Act As One
 
 _Last Modified: May 26, 2014_
 
