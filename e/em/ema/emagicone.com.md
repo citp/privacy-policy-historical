@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emagicone.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315054042id_/http%3A//emagicone.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emagicone.com privacy policy that was archived on 2015-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150923171326id_/https%3A//emagicone.com/privacy-statements) for the most accurate reproduction.*
 
 # Privacy Statement | eMagicOne
 
@@ -8,7 +8,7 @@
 
 In order to register account at our site we ask you to provide personal information, such as your e-mail address, name, home or work address, or telephone number. We may also collect location information, such as your ZIP code, age, gender, preferences, interests and favorites. If you choose to make a purchase or sign up for a paid subscription service, we will ask for additional information, such as your credit card number and billing address, which is used to create a eMagicOne billing account.
 
-Additionally, we collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times and referring Web site addresses.
+Additionally, we collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times and referring Web site addresses. Basing on European rules ( http://ec.europa.eu/ipg/basics/legal/cookies/index_en.htm ), some of our websites inform users from EU that cookies are not being used to gather information unnecessarily.
 
 We value our reputation greatly, that is why our privacy commitments are fundamental for us, that is why we will do the following:
 
