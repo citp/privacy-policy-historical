@@ -1,19 +1,20 @@
-<!--The following is the downloaded HTML source of the realtyaustin.com privacy policy that was archived on 2015-03-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150325181242id_/https%3A//www.realtyaustin.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the realtyaustin.com privacy policy that was archived on 2015-09-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150923152951id_/https%3A//www.realtyaustin.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><!--<![endif]--><head>
-<meta charset="utf-8"><script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQYGUV9aGwADV1NTBgA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(o){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&f&&f.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=l.proto+t.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-593.min.js"},l=e.exports={offset:i(),origin:p,features:{}};f[u]?(f[u]("DOMContentLoaded",o,!1),c[u]("load",n,!1)):(f[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
+<meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-686.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-W4K2S4"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o?o:n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):void(r.q&&(r.q[e]||(r.q[e]=[]),r.q[e].push(n)))}var r=e("ee").create();n.exports=t,t.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=window,f=u.document;e(2);var s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-686.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
 <title>Realty Austin Privacy Policy</title>
-<meta name="description" content="Looking for a better Austin Home Search? Use the #1 Austin real estate website to view homes for sale Austin TX by Map, Neighborhood, School Boundary, or Builder.">
+<meta name="description" content="Looking for a better Austin Home Search? Use the #1 Austin real estate website to find homes for sale by Map, Neighborhood, School Boundary, or Builder.">
 <meta name="keywords" content="Austin real estate, Austin homes for sale, Austin houses for sale, Austin home search">
 <!--[if lt IE 9]><script src="https://realtyaustin-realestatewebmas.netdna-ssl.com/inc/js/libs/html5shiv/html5shiv-printshiv.min.js"></script><![endif]-->
 <meta name="google-site-verification" content="wLVK5E_ZeassjYkOSYyY602XJFMk48a4dEaKv679Q4A">
 <meta name="msvalidate.01" content="74DA509896837A3582C0873D858A929B">
-<meta property="og:image" content="https://public.realtyaustin.com/branding/Logos/Realty-Austin-color-logo-outline.png">
+<meta property="og:image" content="https://public.realtyaustin.com/branding/Logos/realty-austin-og-logo-201x201.png">
 <link rel="alternate" type="application/rss+xml" title="Blog RSS Feed" href="https://www.realtyaustin.com/blog/rss/">
 <meta name="apple-itunes-app" content="app-id=849922708">
-<link rel="stylesheet" href="https://realtyaustin-realestatewebmas.netdna-ssl.com/inc/cache/css/static.d7f6168bba03c64272c1494170313d67.4.3.95.css">
-<link rel="stylesheet" href="https://realtyaustin-realestatewebmas.netdna-ssl.com/inc/cache/css/static.d7f6168bba03c64272c1494170313d67.4.3.95-2.css">
+<meta name="google-play-app" content="app-id=com.realestatewebmasters.jonathan_boatwright_austin">
+<link rel="stylesheet" href="https://realtyaustin-realestatewebmas.netdna-ssl.com/inc/cache/css/static.f47e17535e5ac695dfb64ff27e163394.4.3.114.css">
+<link rel="stylesheet" href="https://realtyaustin-realestatewebmas.netdna-ssl.com/inc/cache/css/static.f47e17535e5ac695dfb64ff27e163394.4.3.114-2.css">
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -24,22 +25,22 @@ ga('require', 'displayfeatures');
 ga('require', 'linkid', 'linkid.js');
 ga('send', 'pageview');
 </script>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="apple-touch-icon" sizes="57x57" href="https://realtyaustin-realestatewebmas.netdna-ssl.com/r/4.3.95/apple-touch-icon-57x57.png">
-<link rel="apple-touch-icon" sizes="114x114" href="https://realtyaustin-realestatewebmas.netdna-ssl.com/r/4.3.95/apple-touch-icon-114x114.png">
-<link rel="apple-touch-icon" sizes="72x72" href="https://realtyaustin-realestatewebmas.netdna-ssl.com/r/4.3.95/apple-touch-icon-72x72.png">
-<link rel="apple-touch-icon" sizes="144x144" href="https://realtyaustin-realestatewebmas.netdna-ssl.com/r/4.3.95/apple-touch-icon-144x144.png">
-<link rel="apple-touch-icon" sizes="60x60" href="https://realtyaustin-realestatewebmas.netdna-ssl.com/r/4.3.95/apple-touch-icon-60x60.png">
-<link rel="apple-touch-icon" sizes="120x120" href="https://realtyaustin-realestatewebmas.netdna-ssl.com/r/4.3.95/apple-touch-icon-120x120.png">
-<link rel="apple-touch-icon" sizes="76x76" href="https://realtyaustin-realestatewebmas.netdna-ssl.com/r/4.3.95/apple-touch-icon-76x76.png">
-<link rel="apple-touch-icon" sizes="152x152" href="https://realtyaustin-realestatewebmas.netdna-ssl.com/r/4.3.95/apple-touch-icon-152x152.png">
+<meta name="viewport" content="width=device-width, initial-scale=1 maximum-scale=1, user-scalable=0">
+<link rel="apple-touch-icon" sizes="57x57" href="https://realtyaustin-realestatewebmas.netdna-ssl.com/r/4.3.114/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://realtyaustin-realestatewebmas.netdna-ssl.com/r/4.3.114/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://realtyaustin-realestatewebmas.netdna-ssl.com/r/4.3.114/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://realtyaustin-realestatewebmas.netdna-ssl.com/r/4.3.114/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://realtyaustin-realestatewebmas.netdna-ssl.com/r/4.3.114/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://realtyaustin-realestatewebmas.netdna-ssl.com/r/4.3.114/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://realtyaustin-realestatewebmas.netdna-ssl.com/r/4.3.114/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://realtyaustin-realestatewebmas.netdna-ssl.com/r/4.3.114/apple-touch-icon-152x152.png">
 <meta name="application-name" content="Realty Austin">
 <meta name="msapplication-TileColor" content="#2e2c36">
-<meta name="msapplication-square70x70logo" content="https://realtyaustin-realestatewebmas.netdna-ssl.com/r/4.3.95/mstile-70x70.png">
-<meta name="msapplication-TileImage" content="https://realtyaustin-realestatewebmas.netdna-ssl.com/r/4.3.95/mstile-144x144.png">
-<meta name="msapplication-square150x150logo" content="https://realtyaustin-realestatewebmas.netdna-ssl.com/r/4.3.95/mstile-150x150.png">
-<meta name="msapplication-wide310x150logo" content="https://realtyaustin-realestatewebmas.netdna-ssl.com/r/4.3.95/mstile-310x150.png">
-<meta name="msapplication-square310x310logo" content="https://realtyaustin-realestatewebmas.netdna-ssl.com/r/4.3.95/mstile-310x310.png">
+<meta name="msapplication-square70x70logo" content="https://realtyaustin-realestatewebmas.netdna-ssl.com/r/4.3.114/mstile-70x70.png">
+<meta name="msapplication-TileImage" content="https://realtyaustin-realestatewebmas.netdna-ssl.com/r/4.3.114/mstile-144x144.png">
+<meta name="msapplication-square150x150logo" content="https://realtyaustin-realestatewebmas.netdna-ssl.com/r/4.3.114/mstile-150x150.png">
+<meta name="msapplication-wide310x150logo" content="https://realtyaustin-realestatewebmas.netdna-ssl.com/r/4.3.114/mstile-310x150.png">
+<meta name="msapplication-square310x310logo" content="https://realtyaustin-realestatewebmas.netdna-ssl.com/r/4.3.114/mstile-310x310.png">
 <style type="text/css">
 		@font-face {
 		font-family: 'icomoon';
@@ -80,6 +81,16 @@ ga('send', 'pageview');
 
 <!--[if lt IE 9]><p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/" rel="nofollow">upgrade your browser</a> to improve your experience.</p><![endif]-->
 
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-W4K2S4"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W4K2S4');</script>
+<!-- End Google Tag Manager -->
+
 
 	
 	<div id="page">
@@ -88,7 +99,7 @@ ga('send', 'pageview');
 
 				<header id="head">
 					<div class="wrap">
-						<a href="/" id="logo"><img src="https://realtyaustin-realestatewebmas.netdna-ssl.com/r/4.3.95/inc/skins/ra-2014/img/realty-austin-logo.png" alt="Realty Austin" width="190" height="50"></a>
+						<a href="/" id="logo"><img src="https://realtyaustin-realestatewebmas.netdna-ssl.com/r/4.3.114/inc/skins/ra-2014/img/realty-austin-logo.png" alt="Realty Austin" width="190" height="50"></a>
 							<div id="phone">
 		<span>Call Us Now</span> (512) 241-1300	</div>
 					</div>
@@ -102,28 +113,28 @@ ga('send', 'pageview');
 	<div class="menu grid_12">
 		<div class="wrap">
 			<div class="x9">
-				<h5>Property Search</h5>
+				<h5>Property Search..</h5>
 				<ul>
-					<li><a href="/idx" title="">Search Austin MLS</a></li>
+					<li><a href="/idx/" title="">Search Austin MLS</a></li>
 					<li><a href="/coming-soon.php" title="">Coming Soon to MLS</a></li>
 					<li><a href="/pocket-listings.php" title="">Pocket Listings - not in MLS</a></li>
-					<li><a href="/newest-austin-home-listings.php" title="">Just Listed Today</a></li>
+					<li><a href="/newest-austin-home-listings.php" title="">Just Listed - 2 Days</a></li>
 					<li><a href="/austin-homes-listed-this-week.php" title="">Just Listed This Week</a></li>
 					<li><a href="/featured.php" title="">Our Featured Listings</a></li>
 					<li><a href="/realty-austin-luxury-listings.php" title="">Our Luxury Listings</a></li>
 				</ul>
-
 				<ul>
-					<li><a href="/idx/#map" title="">Interactive Map Search</a></li>
+					<li><a href="/map-search.php" title="">Map Search</a></li>
 					<li><a href="/austin-open-house-map.php" title="">Open House Map</a></li>
 					<li><a href="/neighborhoods.php" title="">Neighborhood Map</a></li>
-					<li><a href="/neighborhoods.php" title="">City Map</a></li>
-					<li><a href="/maps/austin/counties.php" title="">County Map</a></li>
 					<li><a href="/maps/austin/zip-codes.php" title="">Zip Code Map</a></li>
+					<li><a href="/maps-austin-cities.php" title="">City Map</a></li>
+					<li><a href="/maps/austin/counties.php" title="">County Map</a></li>
+					
 					<li><a href="/schools.php" title="">School District Map</a></li>
+					<li><a href="/school-attendance-zones.php" title="">School Attendance Zone Map</a></li>
 					<li><a href="/mls-areas.php" title="">MLS Area Map</a></li>
 				</ul>
-
 				<ul>
 					<li><a href="/austin-homes.php" title="">Home Listings</a></li>
 					<li><a href="/austin-condos.php" title="">Condo Listings</a></li>
@@ -284,6 +295,28 @@ ga('send', 'pageview');
 				</div>
 
 
+                                <h5>Home Styles</h5>
+				<div class="x4">
+					<ul>
+						<li><a href="/austin-home-styles/contemporary.php">Contemporary</a></li>
+						<li><a href="/austin-home-styles/craftsman.php">Craftsman</a></li>
+						<li><a href="/austin-home-styles/historic.php">Historic</a></li>
+					</ul>
+				</div>
+
+				<div class="x4">
+					<ul>
+						<li><a href="/austin-home-styles/mediterranean.php">Mediterranean</a></li>
+						<li><a href="/austin-home-styles/modern.php">Modern</a></li>
+					</ul>
+				</div>
+
+				<div class="x4 last">
+					<ul>
+					<li><a href="/austin-home-styles/spanish.php">Spanish</a></li>
+					<li><a href="/austin-home-styles/tuscan.php">Tuscan</a></li>
+                    					</ul>
+				</div>
 
 
 
@@ -301,10 +334,12 @@ ga('send', 'pageview');
 			</ul>
 			<ul>
 				<li><a href="/austin-home-buyers-guide.php" title="">Request a Buyer's Guide</a></li>
-				<li><a href="/buyers.php#buyersform" title="">Request a Buyer's Specialist</a></li>
+				<li><a href="/buyers.php#buyersform" title="">Request a Buyer's Agent</a></li>
+<li><a href="/austin-home-tours.php" title="">Austin Home Tours</a></li>
 			</ul>
 			<ul>
 				<li><a href="/real-estate-glossary.php" title="">Real Estate Glossary</a></li>
+				<li><a href="/protest-property-taxes.php" title="">Protest Property Taxes</a></li>
 				<li><a href="/austin-market-statistics.php" title="">Austin Market Statistics</a></li>
 			</ul>
 		</div>
@@ -321,7 +356,7 @@ ga('send', 'pageview');
 				</ul>
 				<ul>
 				<li><a href="/austin-home-sellers-guide.php">Request a Seller's Guide</a></li>
-				<li><a href="/sellers.php#form">Request a Listing Specialist</a></li>
+				<li><a href="/sellers.php#form">Request a Listing Agent</a></li>
 				</ul>
 				<ul>
 				<li><a href="/sold-listings.php">Homes We Sold</a></li>
@@ -349,6 +384,8 @@ ga('send', 'pageview');
 				<li><a href="/communities.php">Austin-area Communities</a></li>
 				</ul>
 				<ul>
+	<li><a href="/things-to-do-in-austin.php">Austin Attractions</a></li>
+
 				<li><a href="/relocation/austin-employers.php">Austin Employers</a></li>
 				<li><a href="/relocation/recruiting-companies.php">Austin Recruiters</a></li>
 				<li><a href="/austin-schools.php">Austin Schools</a></li>
@@ -371,6 +408,7 @@ ga('send', 'pageview');
 				<ul>
 					<li><a href="/agents.php">Find an Agent</a></li>
 					<li><a href="/company/careers.php">Join Realty Austin</a></li>
+	<li><a href="/the-game-changers.php">The Game Changers</a></li>
 					<li><a href="/company/employment.php">Employment Opportunities</a></li>
 				</ul>
 				<ul>
@@ -380,11 +418,11 @@ ga('send', 'pageview');
 			</div><!--/.x9-->
 		</div><!--/.wrap-->
 	</div><!--/.menu-->
-</li>
-	<li class="profile-link has-menu">
-		<a href="">
-			Login/Register</a>
-					<div class="menu">
+</li>	<li class="profile-link has-menu">
+		<a href="/idx/dashboard.html">
+										Login/Register
+					</a>
+							<div class="menu">
 									<div class="networks">
 						<h6>Login Instantly with Social Media</h6>
 													<a class="facebook" href="javascript:var w = window.open('https://www.realtyaustin.com/oauth/bridge.php?provider=facebook', 'socialconnect', 'toolbar=0,status=0,width=600,height=450,left='+(screen.availWidth/2-225)+',top='+(screen.availHeight/2-250)); w.focus();">
@@ -499,7 +537,7 @@ ga('send', 'pageview');
 			   <ul>
 				<li><strong>Resources</strong></li>
 					<li><a href="/mobile.php">Mobile</a></li>
-					<li><a href="/blog">Blog</a></li>
+					<li><a href="/blog/">Blog</a></li>
 					<li><a href="/austin-home-buyers-guide.php">Buying Guide</a></li>
 					<li><a href="/austin-home-sellers-guide.php">Selling Guide</a></li>
 					<li><a href="/relocation.php">Relocation Guide</a></li>
@@ -525,6 +563,7 @@ ga('send', 'pageview');
 			  <li><a href="/austin-home-buyers-guide.php">Request a Buyer's Guide</a></li>
 			  <li><a href="/mobile.php">Home Search App for iOS</a></li>
 			  <li><a href="/real-estate-glossary.php">Real Estate Glossary</a></li>
+			  <li><a href="/protest-property-taxes.php">Protest Property Taxes</a></li>
 			</ul>
 			<ul>
 			<li><strong>Selling</strong></li>
@@ -603,13 +642,14 @@ ga('send', 'pageview');
 			<li class="social-linkedin"><a href="https://www.linkedin.com/company/realty-austin" target="_blank"><i class="icon linkedin"></i> <span>LinkedIn</span></a></li>
 			<li class="social-google"><a href="https://plus.google.com/111680865588873054348" rel="publisher" target="_blank"><i class="icon google"></i> <span>Google+</span></a></li>
 			<li class="social-pinterest"><a href="https://www.pinterest.com/therealtyaustin/" target="_blank"><i class="icon pinterest"></i> <span>Pinterest</span></a></li>
+			<li class="social-youtube"><a href="https://www.youtube.com/user/realtyaustin" target="_blank"><i class="icon youtube"></i> <span>youtube</span></a></li>
 			<li class="social-instagram"><a href="http://instagram.com/realtyaustin" target="_blank"><i class="icon instagram"></i> <span>Instagram</span></a></li>
 		</ul>
 	</div>
 
 	<div class="info-icons">
-		<a class="leading-re" href="http://www.leadingre.com" target="blank"> <img src="https://realtyaustin-realestatewebmas.netdna-ssl.com/r/4.3.95/inc/skins/ra-2014/img/leading-re.png" alt="Leading Real Estate Companies of the World"></a>
-		<a class="bbb" target="_blank" href="http://www.bbb.org/central-texas/business-reviews/real-estate-agents/realty-austin-in-austin-tx-90082406/"><img src="https://realtyaustin-realestatewebmas.netdna-ssl.com/r/4.3.95/inc/skins/ra-2014/img/logo-bbb-blue.png" alt="Better Business Bureau" target="_blank"></a>
+		<a class="leading-re" href="http://www.leadingre.com" target="blank"> <img src="https://realtyaustin-realestatewebmas.netdna-ssl.com/r/4.3.114/inc/skins/ra-2014/img/leading-re.png" alt="Leading Real Estate Companies of the World"></a>
+		<a class="bbb" target="_blank" href="http://www.bbb.org/central-texas/business-reviews/real-estate-agents/realty-austin-in-austin-tx-90082406/"><img src="https://realtyaustin-realestatewebmas.netdna-ssl.com/r/4.3.114/inc/skins/ra-2014/img/logo-bbb-blue.png" alt="Better Business Bureau" target="_blank"></a>
 	</div>
 
 
@@ -628,7 +668,7 @@ ga('send', 'pageview');
 	</div>
 
 <script src="//code.jquery.com/jquery-1.7.2.min.js"></script>
-<script src="https://realtyaustin-realestatewebmas.netdna-ssl.com/inc/cache/js/static.273c7f6594b4527a7dcdb3ed1e583718.4.3.95.js"></script>
+<script src="https://realtyaustin-realestatewebmas.netdna-ssl.com/inc/cache/js/static.dc7d9a8d034312d4a8a82903ee88d7fa.4.3.114.js"></script>
 <script>var Locale = {
 	'lang' : 'en-US',
 	'spell' : function (str) {
@@ -646,21 +686,8 @@ ga('send', 'pageview');
 <script>
 
 
-			piAId = '64452';
-			piCId = '2196';
-			(function() {
-				function async_load(){
-					var s = document.createElement('script'); s.type = 'text/javascript';
-					s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
-					var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
-				}
-				if(window.attachEvent) { window.attachEvent('onload', async_load); }
-				else { window.addEventListener('load', async_load, false); }
-			})();
-		
-
 
 </script>
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"3ca3af8f13","applicationID":"3332111","transactionName":"M1YHbEQCVxdUU0RYCgocMEpfTFAKUVVIHxUMQw==","queueTime":0,"applicationTime":74,"atts":"HxEEGgwYRBk=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-593.min.js"}</script>
-<script src="https://js-agent.newrelic.com/nr-593.min.js"></script></body></html>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"3ca3af8f13","applicationID":"3332111","transactionName":"M1YHbEQCVxdUU0RYCgocMEpfTFAKUVVIHxUMQw==","queueTime":0,"applicationTime":67,"atts":"HxEEGgwYRBk=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-686.min.js"}</script>
+</body></html>
