@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the dudepins.com privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419084702id_/http%3A//dudepins.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dudepins.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924000138id_/http%3A//www.dudepins.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D6) for the most accurate reproduction.*
 
 # The Site for Men & Manly Interests. Dudepins. Discover Stuff for Guys.
 
-Last Updated May 08, 2012
+Last Updated September 16, 2015
 
 **About Your Privacy**
 
   
-We at Dudepins take privacy very seriously because your privacy is important to us. We are dedicated to protecting your privacy and safeguarding your personal information. This policy has been designed to comply with the Personal Information Protection and Electronic Documents Act and The Personal Information Protection Act (British Columbia). This policy applies to any individual who access our site. This policy may change over time as we may add, change or remove portions when appropriate. Such changes become effective upon posting.
+We at Dudepins take privacy very seriously because your privacy is important to us. We are dedicated to protecting your privacy and safeguarding your personal information. This policy applies to any individual who access our site. This policy may change over time as we may add, change or remove portions when appropriate. Such changes become effective upon posting.
 
   
 If you have any questions about how Dudepins protects your privacy please contact us at [legal@dudpins.com](mailto:legal@dudpins.com).
@@ -110,9 +110,10 @@ If there is a dispute between you and Dudepins regarding your personal informati
 **Jurisdiction:**
 
   
-Depending on the location of users of the Site, information on the Site may be accessed from outside of Canada or sent to others outside of Canada.
+Depending on the location of users of the Site, information on the Site may be accessed from outside of the United States or sent to others outside of the United States.
 
   
 **Contact Information:**
 
-Please contact [legal@dudepins.com](mailto:legal@dudepins.com) to obtain further information about our policies and procedures or if you have any unresolved enquiries or concerns. 
+  
+Please contact [legal@dudepins.com](mailto:legal@dudepins.com) to obtain further information about our policies and procedures or if you have any unresolved enquiries or concerns.
