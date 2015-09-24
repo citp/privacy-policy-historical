@@ -1,10 +1,40 @@
-<!--The following is the downloaded HTML source of the thegrommet.com privacy policy that was archived on 2015-03-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150322132029id_/https%3A//www.thegrommet.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thegrommet.com privacy policy that was archived on 2015-09-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150924032128id_/https%3A//www.thegrommet.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!--<![endif]--><head>
+ 
+<script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MZVPFC"></script><script id="ltkSDK" src="https://cdn.listrakbi.com/scripts/script.js?m=jATtAm8GGeW0&amp;v=1"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" defer="" src="//dd.thegrommet.com/piwik.js"></script><script src="//www.google-analytics.com/cx/api.js"></script>
+<script>
+var ExpEng120 = {};
+
+(function() {
+
+    var expId = "Dm4p1lx6TPC81Et0UwnAng";
+    var chosenVar = cxApi.getChosenVariation(expId);
+
+    if(chosenVar == cxApi.NO_CHOSEN_VARIATION) {
+        var isFromEmail = (document.location.search.indexOf('utm_medium=email') !== -1);
+        var rand = Math.floor(Math.random() * 5);
+
+        var choice = cxApi.NOT_PARTICIPATING;
+        if(isFromEmail && (rand===0 || rand===1)) {
+            choice = rand;
+        }
+
+        cxApi.setChosenVariation(choice, expId);
+        chosenVar = cxApi.getChosenVariation(expId);
+    }
+
+    ExpEng120.id = expId;
+    ExpEng120.chosenVar = chosenVar;
+    ExpEng120.shownVar = ((chosenVar==cxApi.NO_CHOSEN_VARIATION || chosenVar==cxApi.NOT_PARTICIPATING) ? cxApi.ORIGINAL_VARIATION : chosenVar);
+
+})();
+</script>
+ 
 <meta charset="utf-8">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/46729c6934a3edbd6387cba5f061cb7107284ebc.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MZVPFC"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XQEEVFJADgcBUlJQ"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(5),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(4),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:8,2:5,3:9,4:7,5:22,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1);t("loader").features.stn=!0,t(2),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:8,2:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:22,2:23,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:23,2:22,ee:"QJf3ax"}],7:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:23,2:22,ee:"QJf3ax"}],8:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:23,2:22,ee:"QJf3ax"}],9:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),f=s(a),u=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new u(t);try{i.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=u.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:5,2:23,ee:"QJf3ax"}],10:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:11,3:9,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],11:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],12:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","trackUserAction","finished","traceEvent","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:21,2:22,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&f&&f.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=l.proto+t.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-536.min.js"},l=e.exports={offset:i(),origin:p,features:{}};f[u]?(f[u]("DOMContentLoaded",o,!1),c[u]("load",n,!1)):(f[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:21,2:12,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],21:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],22:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],23:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:22,ee:"QJf3ax"}]},{},["G9z0Bl",3,10,4]);</script>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o?o:n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):(o[e]||(o[e]=[]),void o[e].push(n))}var r=e("ee").create(),o={};n.exports=t,t.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=(e(2),window),f=u.document,s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
 <meta name="HandheldFriendly" content="True">
 <meta name="MobileOptimized" content="320">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -26,19 +56,21 @@
 <link rel="apple-touch-icon" href="https://cdn3.thegrommet.com/skin/frontend/enterprise/thegrommet/apple-touch-icon-114x114.png" sizes="114x114">
 <link rel="apple-touch-icon" href="https://cdn3.thegrommet.com/skin/frontend/enterprise/thegrommet/apple-touch-icon-144x144.png" sizes="144x144">
 <link href="//fonts.googleapis.com/css?family=IM+Fell+DW+Pica:400,400italic" rel="stylesheet" type="text/css">
-<link rel="stylesheet" type="text/css" href="https://cdn4.thegrommet.com/media/css/ee468a4c920eaa93dd9b047d7fc9cd5e.css" data-section="all">
-<link rel="stylesheet" type="text/css" href="https://cdn4.thegrommet.com/media/css/3dd20740219f7cc305327991ed165385.css" data-section="cms_page">
+<link rel="stylesheet" type="text/css" href="https://cdn4.thegrommet.com/media/css/0e5f48252e0b23a749e4883db3927fe3.css" data-section="all">
+<link rel="stylesheet" type="text/css" href="https://cdn4.thegrommet.com/media/css/15b743d068bef8b9b6cd524bc117c952.css" data-section="cms_page">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
+ 
+<!--[if lt IE 9]>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.2/html5shiv.min.js"></script>
+<![endif]-->
+ 
 </head>
-<body class=" cms-page-view cms-privacy cms-privacy"><script type="text/javascript">
-//<![CDATA[
-try{(function(a){var b="https://",c="www.thegrommet.com",d="/cdn-cgi/cl/",e="img.gif",f=new a;f.src=[b,c,d,e].join("")})(Image)}catch(e){}
-//]]>
-</script>
+<body class=" cms-page-view cms-privacy cms-privacy">
 <div id="mobile-wrap">
 <div class="page">
-<div class="">  
-<div class="header-panel">
+<div class="sitewideannouncement">  
+<div class="site-msg"><ul class="announcement announcement_sitewide_header"><li><strong><span>Free Shipping</span> on orders over $50.</strong> <a href="https://www.thegrommet.com/customer-service/faq-shipping#freeship">See exclusions</a></li>
+</ul></div><div class="header-panel">
 <div class="wrapper-border">
 &nbsp;
 </div>
@@ -46,7 +78,7 @@ try{(function(a){var b="https://",c="www.thegrommet.com",d="/cdn-cgi/cl/",e="img
 <div class="header-container wrapper-border">
 <div class="header">
 <div class="marketing-info">
-<ul class="announcement announcement_website_header"><li class="autotip" title="*Free ground shipping on orders over $50, shipped to a single address in the 48 contiguous states, excluding Alaska and Hawaii. Perishable food items, specialty items, and certain oversized and fragile items excluded. For more information check our Shipping FAQ page." data-tooltip-class="wide"><div class="fs_stamp"></div><div class="fs_text"><strong>Free Shipping</strong><br> on orders over $50 *</div></li>
+<ul class="announcement announcement_website_header"><li><div class="header-promo">Want to launch your product with us?<br><a href="https://www.thegrommet.com/become-grommet">Learn More</a></div></li>
 </ul> </div>
 <div class="branding">
 <a href="#" id="mobile-nav" class="mobile-nav">Navigation</a>
@@ -61,8 +93,9 @@ try{(function(a){var b="https://",c="www.thegrommet.com",d="/cdn-cgi/cl/",e="img
 </div>
 </div>
 <ul class="links">
-<li class="first"> <span></span> <a href="https://www.thegrommet.com/customer/account/" title="Account" id="my-account-link">My Account</a> <span class="expand-icon"></span> </li>
-<li class=" last"><a href="https://www.thegrommet.com/checkout/cart/" title="Cart">Cart</a></li>
+<li class="first" id="refer-item"><a href="/invitation" title="Refer">Refer a Friend, Earn $10</a></li>
+<li id="cart-item"><a href="https://www.thegrommet.com/checkout/cart/" title="Cart" id="my-cart-link">Cart</a></li>
+<li class=" last" id="account-item"> <span></span> <a href="https://www.thegrommet.com/customer/account/" title="Account" id="my-account-link">My Account</a> <span class="expand-icon"></span> </li>
 </ul>
 </div>
 <div id="hover-menu">
@@ -89,69 +122,186 @@ try{(function(a){var b="https://",c="www.thegrommet.com",d="/cdn-cgi/cl/",e="img
 </div>
 </div>
 </div>
-<div id="catalog-search" class="search-container">
-<form id="search_mini_form" action="https://www.thegrommet.com/catalogsearch/result/" method="get">
-<div class="form-search clearfix">
-<input id="search" type="text" autocomplete="off" name="q" value="" placeholder="Search for..." class="input-text" maxlength="128">
-<button type="submit" title="Search" class="button"><span><span>Search</span></span></button>
-</div>
-</form>
-</div>
 </div>
 </div>
 </div>
 </div>
 <div class="nav-container">
 <div class="wrapper-border">
-<div id="catalog-search" class="search-container">
-<form id="search_mini_form" action="https://www.thegrommet.com/catalogsearch/result/" method="get">
+<div id="catalog-search" class="search-container" itemscope="" itemtype="http://schema.org/WebSite">
+<meta itemprop="url" content="https://www.thegrommet.com/">
+<form id="search_mini_form" action="https://www.thegrommet.com/catalogsearch/result/" method="get" itemprop="potentialAction" itemscope="" itemtype="http://schema.org/SearchAction">
+<meta itemprop="target" content="https://www.thegrommet.com/catalogsearch/result/?q={q}">
 <div class="form-search clearfix">
-<input id="search" type="text" autocomplete="off" name="q" value="" placeholder="Search for..." class="input-text" maxlength="128">
+<input id="search" type="text" itemprop="query-input" autocomplete="off" name="q" value="" placeholder="Search for..." class="input-text" maxlength="128">
 <button type="submit" title="Search" class="button"><span><span>Search</span></span></button>
 </div>
 </form>
 </div>
 <ul class="links">
-<li class="first"> <span></span> <a href="https://www.thegrommet.com/customer/account/" title="Account" id="my-account-link">My Account</a> <span class="expand-icon"></span> </li>
-<li class=" last"><a href="https://www.thegrommet.com/checkout/cart/" title="Cart">Cart</a></li>
+<li class="first" id="refer-item"><a href="/invitation" title="Refer">Refer a Friend, Earn $10</a></li>
+<li id="cart-item"><a href="https://www.thegrommet.com/checkout/cart/" title="Cart" id="my-cart-link">Cart</a></li>
+<li class=" last" id="account-item"> <span></span> <a href="https://www.thegrommet.com/customer/account/" title="Account" id="my-account-link">My Account</a> <span class="expand-icon"></span> </li>
 </ul>
 <ul id="nav">
 <li class="level0 nav-1 first level-top parent recently-launched">
-<a href="https://www.thegrommet.com/catalog/recent/" class="level-top"><span>What's New</span></a>
-<ul class="level0">
+<a href="https://www.thegrommet.com/catalog/recent/" class="level-top"><span>Recent Launches</span></a>
+<ul class="level0 products-grid-eng120-parents">
 <li class="level1 nav-1-1-1 first">
-<a href="https://www.thegrommet.com/compokeeper">
-<img class="product-image" src="https://cdn4.thegrommet.com/media/catalog/product/cache/1/thumbnail/55x41/9df78eab33525d08d6e5fb8d27136e95/c/a/catalogv1_compokeeper.jpg" alt="CompoKeeper">
+<a href="https://www.thegrommet.com/agawa-canyon">
+<img class="product-image" src="https://cdn4.thegrommet.com/media/catalog/product/cache/1/thumbnail/55x41/9df78eab33525d08d6e5fb8d27136e95/c/a/catalogv1_agawacanyon.jpg" alt="Agawa Canyon">
 <div class="product-details">
-<h3 class="product-name">CompoKeeper</h3>
-<p class="tag-line"><em>Food Scrap Collector</em></p>
+<h3 class="product-name">Agawa Canyon</h3>
+<p class="tag-line"><em>Boreal21 Bow Saw</em></p>
 </div>
 </a>
 </li>
 <li class="level1 nav-1-1-1 first">
-<a href="https://www.thegrommet.com/diablo">
-<img class="product-image" src="https://cdn4.thegrommet.com/media/catalog/product/cache/1/thumbnail/55x41/9df78eab33525d08d6e5fb8d27136e95/c/a/catalogv1_diablo.jpg" alt="Diablo">
+<a href="https://www.thegrommet.com/rising-tide">
+<img class="product-image" src="https://cdn4.thegrommet.com/media/catalog/product/cache/1/thumbnail/55x41/9df78eab33525d08d6e5fb8d27136e95/c/a/catalogv3_risingtide.jpg" alt="Rising Tide">
 <div class="product-details">
-<h3 class="product-name">Diablo</h3>
-<p class="tag-line"><em>Toasted Snack Maker</em></p>
+<h3 class="product-name">Rising Tide</h3>
+<p class="tag-line"><em>Chunky Woven Knits</em></p>
 </div>
 </a>
 </li>
 <li class="level1 nav-1-1-1 first">
-<a href="https://www.thegrommet.com/smokio-1">
-<img class="product-image" src="https://cdn4.thegrommet.com/media/catalog/product/cache/1/thumbnail/55x41/9df78eab33525d08d6e5fb8d27136e95/c/a/catalogv1_smokio.jpg" alt="Smokio Vaporizer">
+<a href="https://www.thegrommet.com/swiftpoint">
+<img class="product-image" src="https://cdn4.thegrommet.com/media/catalog/product/cache/1/thumbnail/55x41/9df78eab33525d08d6e5fb8d27136e95/c/a/catalogv2_swiftpoint.jpg" alt="Swiftpoint">
 <div class="product-details">
-<h3 class="product-name">Smokio Vaporizer</h3>
-<p class="tag-line"><em>Smart Monitoring Device</em></p>
+<h3 class="product-name">Swiftpoint</h3>
+<p class="tag-line"><em>Gesture Based Computer Mouse</em></p>
 </div>
 </a>
 </li>
 <li class="level1 nav-1-1-1 first">
-<a href="https://www.thegrommet.com/yay-wallet">
-<img class="product-image" src="https://cdn4.thegrommet.com/media/catalog/product/cache/1/thumbnail/55x41/9df78eab33525d08d6e5fb8d27136e95/c/a/catalogv1_yaynovelty.jpg" alt="YaY Wallet">
+<a href="https://www.thegrommet.com/klevercase">
+<img class="product-image" src="https://cdn4.thegrommet.com/media/catalog/product/cache/1/thumbnail/55x41/9df78eab33525d08d6e5fb8d27136e95/c/a/catalogv1_klevercase.jpg" alt="KleverCase">
 <div class="product-details">
-<h3 class="product-name">YaY Wallet</h3>
-<p class="tag-line"><em>Slim Card Holders</em></p>
+<h3 class="product-name">KleverCase</h3>
+<p class="tag-line"><em>Book-bound Tablet Cover</em></p>
+</div>
+</a>
+</li>
+<li class="level1 nav-1-1-4 last">
+<a href="https://www.thegrommet.com/catalog/recent/" class="see-launches">See All Launches</a>
+</li>
+</ul>
+<ul class="level0 products-grid-eng120-children">
+<li class="level1 nav-1-1-1 first">
+<a href="https://www.thegrommet.com/csg/product/view/id/25360/">
+<img class="product-image" src="https://cdn4.thegrommet.com/media/catalog/product/cache/1/thumbnail/55x41/9df78eab33525d08d6e5fb8d27136e95/s/k/skucover_boreal21_sheath_agawacanyon.jpg" alt="Agawa Canyon: Boreal21 Bow Saw with Canvas Sheath + Extra Blade">
+<div class="product-details">
+<h3 class="product-name">Agawa Canyon: Boreal21 Bow Saw with Canvas Sheath + Extra Blade</h3>
+<p class="tag-line"><em></em></p>
+</div>
+</a>
+</li>
+<li class="level1 nav-1-1-1 first">
+<a href="https://www.thegrommet.com/csg/product/view/id/25893/">
+<img class="product-image" src="https://cdn4.thegrommet.com/media/catalog/product/cache/1/thumbnail/55x41/9df78eab33525d08d6e5fb8d27136e95/l/i/lifestyle_boreal21step1_agawacanyon.jpg" alt="Agawa Canyon: Boreal21 Bow Saw">
+<div class="product-details">
+<h3 class="product-name">Agawa Canyon: Boreal21 Bow Saw</h3>
+<p class="tag-line"><em></em></p>
+</div>
+</a>
+</li>
+<li class="level1 nav-1-1-1 first">
+<a href="https://www.thegrommet.com/csg/product/view/id/25015/">
+<img class="product-image" src="https://cdn4.thegrommet.com/media/catalog/product/cache/1/thumbnail/55x41/9df78eab33525d08d6e5fb8d27136e95/s/k/skucover_infinityscarf_risingtide.jpg" alt="Rising Tide: Chunky Knit Infinity Scarf">
+<div class="product-details">
+<h3 class="product-name">Rising Tide: Chunky Knit Infinity Scarf</h3>
+<p class="tag-line"><em></em></p>
+</div>
+</a>
+</li>
+<li class="level1 nav-1-1-1 first">
+<a href="https://www.thegrommet.com/csg/product/view/id/25016/">
+<img class="product-image" src="https://cdn4.thegrommet.com/media/catalog/product/cache/1/thumbnail/55x41/9df78eab33525d08d6e5fb8d27136e95/s/k/skucover_ruana_risingtide.jpg" alt="Rising Tide: Chunky Knit Ruana">
+<div class="product-details">
+<h3 class="product-name">Rising Tide: Chunky Knit Ruana</h3>
+<p class="tag-line"><em></em></p>
+</div>
+</a>
+</li>
+<li class="level1 nav-1-1-1 first">
+<a href="https://www.thegrommet.com/csg/product/view/id/24918/">
+<img class="product-image" src="https://cdn4.thegrommet.com/media/catalog/product/cache/1/thumbnail/55x41/9df78eab33525d08d6e5fb8d27136e95/s/k/skucover_swiftpoint.jpg" alt="Swiftpoint: GT Micro-Ergonomic Wireless Mouse">
+<div class="product-details">
+<h3 class="product-name">Swiftpoint: GT Micro-Ergonomic Wireless Mouse</h3>
+<p class="tag-line"><em></em></p>
+</div>
+</a>
+</li>
+<li class="level1 nav-1-1-1 first">
+<a href="https://www.thegrommet.com/csg/product/view/id/25566/">
+<img class="product-image" src="https://cdn4.thegrommet.com/media/catalog/product/cache/1/thumbnail/55x41/9df78eab33525d08d6e5fb8d27136e95/s/k/skucover_pride_prejudice_klevercase.jpg" alt="KleverCase: Book-bound Tablet Cover - Pride and Prejudice">
+<div class="product-details">
+<h3 class="product-name">KleverCase: Book-bound Tablet Cover - Pride and Prejudice</h3>
+<p class="tag-line"><em></em></p>
+</div>
+</a>
+</li>
+<li class="level1 nav-1-1-1 first">
+<a href="https://www.thegrommet.com/csg/product/view/id/25570/">
+<img class="product-image" src="https://cdn4.thegrommet.com/media/catalog/product/cache/1/thumbnail/55x41/9df78eab33525d08d6e5fb8d27136e95/s/k/skulifestyle3_mybookkindle_klevercase.jpg" alt="KleverCase: Book-bound Tablet Cover - My Book">
+<div class="product-details">
+<h3 class="product-name">KleverCase: Book-bound Tablet Cover - My Book</h3>
+<p class="tag-line"><em></em></p>
+</div>
+</a>
+</li>
+<li class="level1 nav-1-1-1 first">
+<a href="https://www.thegrommet.com/csg/product/view/id/25574/">
+<img class="product-image" src="https://cdn4.thegrommet.com/media/catalog/product/cache/1/thumbnail/55x41/9df78eab33525d08d6e5fb8d27136e95/s/k/skulifestyle2_tokillamockingbirdkindle_klevercase.jpg" alt="KleverCase: Book-bound Tablet Cover - To Kill a Mockingbird">
+<div class="product-details">
+<h3 class="product-name">KleverCase: Book-bound Tablet Cover - To Kill a Mockingbird</h3>
+<p class="tag-line"><em></em></p>
+</div>
+</a>
+</li>
+<li class="level1 nav-1-1-1 first">
+<a href="https://www.thegrommet.com/csg/product/view/id/25578/">
+<img class="product-image" src="https://cdn4.thegrommet.com/media/catalog/product/cache/1/thumbnail/55x41/9df78eab33525d08d6e5fb8d27136e95/l/i/lifestyle2_aliceinwonderlandkindle_klevercase.jpg" alt="KleverCase: Book-bound Tablet Cover - Alice in Wonderland">
+<div class="product-details">
+<h3 class="product-name">KleverCase: Book-bound Tablet Cover - Alice in Wonderland</h3>
+<p class="tag-line"><em></em></p>
+</div>
+</a>
+</li>
+<li class="level1 nav-1-1-1 first">
+<a href="https://www.thegrommet.com/csg/product/view/id/25582/">
+<img class="product-image" src="https://cdn4.thegrommet.com/media/catalog/product/cache/1/thumbnail/55x41/9df78eab33525d08d6e5fb8d27136e95/s/k/skucover_sherlockholmesipadmini_klevercase.jpg" alt="KleverCase:  Book-bound Tablet Cover - Sherlock Holmes">
+<div class="product-details">
+<h3 class="product-name">KleverCase: Book-bound Tablet Cover - Sherlock Holmes</h3>
+<p class="tag-line"><em></em></p>
+</div>
+</a>
+</li>
+<li class="level1 nav-1-1-1 first">
+<a href="https://www.thegrommet.com/csg/product/view/id/25586/">
+<img class="product-image" src="https://cdn4.thegrommet.com/media/catalog/product/cache/1/thumbnail/55x41/9df78eab33525d08d6e5fb8d27136e95/s/k/skucover_einsteinstheoryofrelativitykindle_klevercase.jpg" alt="KleverCase:  Book-bound Tablet Cover - Einstein's Theory of Relativity">
+<div class="product-details">
+<h3 class="product-name">KleverCase: Book-bound Tablet Cover - Einstein's Theory of Relativity</h3>
+<p class="tag-line"><em></em></p>
+</div>
+</a>
+</li>
+<li class="level1 nav-1-1-1 first">
+<a href="https://www.thegrommet.com/csg/product/view/id/25590/">
+<img class="product-image" src="https://cdn4.thegrommet.com/media/catalog/product/cache/1/thumbnail/55x41/9df78eab33525d08d6e5fb8d27136e95/s/k/skucover_janeeyrekindle_klevercase.jpg" alt="KleverCase: Book-bound Tablet Cover - Jane Eyre">
+<div class="product-details">
+<h3 class="product-name">KleverCase: Book-bound Tablet Cover - Jane Eyre</h3>
+<p class="tag-line"><em></em></p>
+</div>
+</a>
+</li>
+<li class="level1 nav-1-1-1 first">
+<a href="https://www.thegrommet.com/csg/product/view/id/25594/">
+<img class="product-image" src="https://cdn4.thegrommet.com/media/catalog/product/cache/1/thumbnail/55x41/9df78eab33525d08d6e5fb8d27136e95/s/k/skucover_greatgatsby_klevercase.jpg" alt="KleverCase: Book-bound Tablet Cover - The Great Gatsby">
+<div class="product-details">
+<h3 class="product-name">KleverCase: Book-bound Tablet Cover - The Great Gatsby</h3>
+<p class="tag-line"><em></em></p>
 </div>
 </a>
 </li>
@@ -160,23 +310,7 @@ try{(function(a){var b="https://",c="www.thegrommet.com",d="/cdn-cgi/cl/",e="img
 </li>
 </ul>
 </li>
-<li class="level0 nav-1 first level-top parent shop"><a level-top=""><span>Shop</span></a><ul class="level0"><li class="level1 nav-1-1 first parent by-category"><a><span>By Category</span></a><ul class="level1"><li class="level2 nav-1-1-1 first women"><a href="https://www.thegrommet.com/women"><span>Women</span></a></li><li class="level2 nav-1-1-2 tech-gadgets"><a href="https://www.thegrommet.com/tech-gadgets"><span>Tech &amp; Gadgets</span></a></li><li class="level2 nav-1-1-3 men"><a href="https://www.thegrommet.com/men"><span>Men</span></a></li><li class="level2 nav-1-1-4 home-decor"><a href="https://www.thegrommet.com/home-decor"><span>Home &amp; Decor</span></a></li><li class="level2 nav-1-1-5 kids"><a href="https://www.thegrommet.com/kids"><span>Kids &amp; Babies</span></a></li><li class="level2 nav-1-1-6 kitchen-bar"><a href="https://www.thegrommet.com/kitchen-bar"><span>Kitchen &amp; Bar</span></a></li><li class="level2 nav-1-1-7 jewelry"><a href="https://www.thegrommet.com/jewelry"><span>Jewelry</span></a></li><li class="level2 nav-1-1-8 food-drink"><a href="https://www.thegrommet.com/food-drink"><span>Food &amp; Drink</span></a></li><li class="level2 nav-1-1-9 toys-games"><a href="https://www.thegrommet.com/toys-games"><span>Toys &amp; Games</span></a></li><li class="level2 nav-1-1-10 entertaining"><a href="https://www.thegrommet.com/entertaining"><span>Entertaining</span></a></li><li class="level2 nav-1-1-11 beauty-personal-care"><a href="https://www.thegrommet.com/beauty-personal-care"><span>Beauty &amp; Personal Care</span></a></li><li class="level2 nav-1-1-12 garden-patio"><a href="https://www.thegrommet.com/garden-patio"><span>Garden &amp; Patio</span></a></li><li class="level2 nav-1-1-13 nutrition-health"><a href="https://www.thegrommet.com/nutrition-health"><span>Nutrition &amp; Health</span></a></li><li class="level2 nav-1-1-14 bed-bath"><a href="https://www.thegrommet.com/bed-bath"><span>Bed &amp; Bath</span></a></li><li class="level2 nav-1-1-15 sports-fitness"><a href="https://www.thegrommet.com/sports-fitness"><span>Sports &amp; Fitness</span></a></li><li class="level2 nav-1-1-16 cleaning-laundry"><a href="https://www.thegrommet.com/cleaning-laundry"><span>Cleaning &amp; Laundry</span></a></li><li class="level2 nav-1-1-17 travel"><a href="https://www.thegrommet.com/travel"><span>Travel</span></a></li><li class="level2 nav-1-1-18 organization-tools"><a href="https://www.thegrommet.com/organization-tools"><span>Organization &amp; Tools</span></a></li><li class="level2 nav-1-1-19 art-stationery"><a href="https://www.thegrommet.com/art-stationery"><span>Art &amp; Stationery</span></a></li><li class="level2 nav-1-1-20 office-space"><a href="https://www.thegrommet.com/office-space"><span>Office Space</span></a></li><li class="level2 nav-1-1-21 pets"><a href="https://www.thegrommet.com/pets"><span>Pets</span></a></li><li class="level2 nav-1-1-22 last gear-outdoor"><a href="https://www.thegrommet.com/gear-outdoor"><span>Gear &amp; Outdoor</span></a></li></ul></li><li class="level1 nav-1-2 gifts"><a><span>Gifts</span></a></li><li class="level1 nav-1-3 last parent values"><a><span>Personal Values</span></a><ul class="level1"><li class="level2 nav-1-3-1 first natural-eco"><a href="https://www.thegrommet.com/natural-eco"><span>Natural &amp; Eco</span></a></li><li class="level2 nav-1-3-2 made-in-the-usa"><a href="https://www.thegrommet.com/made-in-the-usa"><span>Made in the USA</span></a></li><li class="level2 nav-1-3-3 handcrafted"><a href="https://www.thegrommet.com/handcrafted"><span>Handcrafted</span></a></li><li class="level2 nav-1-3-4 social-enterprises"><a href="https://www.thegrommet.com/social-enterprises"><span>Social Enterprises</span></a></li><li class="level2 nav-1-3-5 charities"><a href="https://www.thegrommet.com/charities"><span>Charities</span></a></li><li class="level2 nav-1-3-6 underrepresented-entrepreneurs"><a href="https://www.thegrommet.com/underrepresented-entrepreneurs"><span>Underrepresented Entrepreneurs</span></a></li><li class="level2 nav-1-3-7 last crowdfunded"><a href="https://www.thegrommet.com/crowdfunded"><span>Crowdfunded</span></a></li></ul></li></ul></li><li class="level0 nav-2 level-top parent collections"><a href="https://www.thegrommet.com/collections" level-top=""><span>Features</span></a><ul class="level0"><li class="level1 nav-2-1 first best-sellers"><a href="https://www.thegrommet.com/collections/best-sellers"><div class="category-image"><img src="https://cdn4.thegrommet.com/media/catalog/category/cache/109x79/a4e40ebdc3e371adff845072e1c73f37/catalogv1_bladebuddy_1.jpg" alt=""></div><span>Best Sellers</span></a></li><li class="level1 nav-2-2 top-reviews"><a href="https://www.thegrommet.com/collections/top-reviews"><div class="category-image"><img src="https://cdn4.thegrommet.com/media/catalog/category/cache/109x79/a4e40ebdc3e371adff845072e1c73f37/catalogv1_chargehub_3.jpg" alt=""></div><span>Top Reviews</span></a></li><li class="level1 nav-2-3 savvy-travels"><a href="https://www.thegrommet.com/collections/savvy-travels"><div class="category-image"><img src="https://cdn4.thegrommet.com/media/catalog/category/cache/109x79/a4e40ebdc3e371adff845072e1c73f37/catalogv1_risegear.jpg" alt=""></div><span>Savvy Travels</span></a></li><li class="level1 nav-2-4 problem-solvers"><a href="https://www.thegrommet.com/collections/problem-solvers"><div class="category-image"><img src="https://cdn4.thegrommet.com/media/catalog/category/cache/109x79/a4e40ebdc3e371adff845072e1c73f37/CatalogV1_PMate.jpg" alt=""></div><span>Problem Solvers</span></a></li><li class="level1 nav-2-5 last tech-time"><a href="https://www.thegrommet.com/collections/tech-time"><div class="category-image"><img src="https://cdn4.thegrommet.com/media/catalog/category/cache/109x79/a4e40ebdc3e371adff845072e1c73f37/CatalogV1_NOMAD.jpg" alt=""></div><span>Tech Time</span></a></li></ul></li><li class="level0 nav-3 last level-top parent gifts"><a href="https://www.thegrommet.com/gifts" level-top=""><span>Gifts</span></a><ul class="level0"><li class="level1 nav-3-1 first gifts-for-him"><a href="https://www.thegrommet.com/gifts/him"><span>For Him</span></a></li><li class="level1 nav-3-2 gifts-for-her"><a href="https://www.thegrommet.com/gifts/her"><span>For Her</span></a></li><li class="level1 nav-3-3 gifts-for-teens"><a href="https://www.thegrommet.com/gifts/teens"><span>For Teens</span></a></li><li class="level1 nav-3-4 gifts-for-kids"><a href="https://www.thegrommet.com/gifts/kids"><span>For Kids</span></a></li><li class="level1 nav-3-5 gifts-for-baby"><a href="https://www.thegrommet.com/gifts/baby-shower"><span>For Mom and Baby</span></a></li><li class="level1 nav-3-6 wedding-gifts"><a href="https://www.thegrommet.com/gifts/wedding"><span>For Weddings &amp; Engagements</span></a></li><li class="level1 nav-3-7 gifts-for-host-hostess"><a href="https://www.thegrommet.com/gifts/host-hostess"><span>For Host &amp; Hostess</span></a></li><li class="level1 nav-3-8 cooking"><a href="https://www.thegrommet.com/gifts/cooking"><span>For Chefs &amp; Foodies</span></a></li><li class="level1 nav-3-9 fitness"><a href="https://www.thegrommet.com/gifts/fitness"><span>For Outdoors &amp; Fitness</span></a></li><li class="level1 nav-3-10 geeky-cool"><a href="https://www.thegrommet.com/gifts/techie"><span>For Tech &amp; Gadget Lovers</span></a></li><li class="level1 nav-3-11 gifts-made-in-america"><a href="https://www.thegrommet.com/gifts/usa-made"><span>For Made in the USA</span></a></li><li class="level1 nav-3-12 virtual-gift-card"><a href="https://www.thegrommet.com/gifts/virtual-gift-card"><span>Virtual Gift Card</span></a></li><li class="level1 nav-3-13 romantic-valentines-gifts-with-heart"><a href="https://www.thegrommet.com/gifts/romantic-valentines-gifts-with-heart"><span>Romantic Gifts with Heart</span></a></li><li class="level1 nav-3-14 classic-valentines-gifts-with-heart"><a href="https://www.thegrommet.com/gifts/classic-valentines-gifts-with-heart"><span>Classic Gifts with Heart</span></a></li><li class="level1 nav-3-15 practical-valentines-gifts-with-heart"><a href="https://www.thegrommet.com/gifts/practical-valentines-gifts-with-heart"><span>Practical Gifts with Heart</span></a></li><li class="level1 nav-3-16 last kids-valentines-gifts-with-heart"><a href="https://www.thegrommet.com/gifts/kids-valentines-gifts-with-heart"><span>Kids' Valentine's</span></a></li></ul></li>  
-<li class="level0 nav-1 level-top blog"><a href="https://www.thegrommet.com/blog/" class="level-top"><span>Blog</span></a></li>
-<li class="level0 nav-1 level-top parent commerce">
-<a href="https://www.thegrommet.com/citizens-gallery/" class="level-top"><span>Citizen Commerce</span></a>
-<ul class="level0">
-<li class="level1 first last">
-<h3>What is Citizen Commerce?</h3>
-<div class="content">
-<p>At The Grommet, we truly believe that every purchase is an act of citizenship. That's why we launch undiscovered products and help them succeed. Our Grommets aren't just things. Grommets are products with a purpose invented by people with stories. Browse our Citizens' Gallery to learn about these ideas or post your own. Buy differently.</p>
-</div>
-<div class="button-set">
-<a href="https://www.thegrommet.com/citizens-gallery" class="button orange">Browse or Post a Product</a>
-<a href="https://www.thegrommet.com/become-grommet" class="button orange">Become a Grommet</a>
-</div>
-</li>
-</ul> </li>
-<li class="level0 nav-1 level-top wholesale"><a href="https://wholesale.thegrommet.com/" class="level-top"><span>Wholesale</span></a></li>
+<li class="level0 nav-1 first level-top parent shop"><a level-top=""><span>Shop</span></a><ul class="level0"><li class="level1 nav-1-1 first parent by-category"><a><span>By Category</span></a><ul class="level1"><li class="level2 nav-1-1-1 first women"><a href="https://www.thegrommet.com/women"><span>Women</span></a></li><li class="level2 nav-1-1-2 tech-gadgets"><a href="https://www.thegrommet.com/tech-gadgets"><span>Tech, Gadgets &amp; Tools</span></a></li><li class="level2 nav-1-1-3 men"><a href="https://www.thegrommet.com/men"><span>Men</span></a></li><li class="level2 nav-1-1-4 gear-outdoor"><a href="https://www.thegrommet.com/fitness-outdoor"><span>Fitness &amp; Outdoor</span></a></li><li class="level2 nav-1-1-5 kids"><a href="https://www.thegrommet.com/kids"><span>Kids</span></a></li><li class="level2 nav-1-1-6 beauty-personal-care"><a href="https://www.thegrommet.com/health-beauty"><span>Beauty &amp; Personal Care</span></a></li><li class="level2 nav-1-1-7 baby"><a href="https://www.thegrommet.com/baby"><span>Baby</span></a></li><li class="level2 nav-1-1-8 home-decor"><a href="https://www.thegrommet.com/home-garden"><span>Home &amp; Garden</span></a></li><li class="level2 nav-1-1-9 pets"><a href="https://www.thegrommet.com/pets"><span>Pets</span></a></li><li class="level2 nav-1-1-10 kitchen-bar"><a href="https://www.thegrommet.com/kitchen-bar"><span>Kitchen &amp; Bar</span></a></li><li class="level2 nav-1-1-11 travel"><a href="https://www.thegrommet.com/travel"><span>Travel</span></a></li><li class="level2 nav-1-1-12 art-stationery"><a href="https://www.thegrommet.com/art-decor"><span>Art, Decor &amp; Stationery</span></a></li><li class="level2 nav-1-1-13 toys-games"><a href="https://www.thegrommet.com/toys-games"><span>Toys &amp; Games</span></a></li><li class="level2 nav-1-1-14 bed-bath"><a href="https://www.thegrommet.com/bed-bath"><span>Bed &amp; Bath</span></a></li><li class="level2 nav-1-1-15 food-drink"><a href="https://www.thegrommet.com/food-drink"><span>Food &amp; Drink</span></a></li><li class="level2 nav-1-1-16 last organization-tools"><a href="https://www.thegrommet.com/cleaning-organization"><span>Cleaning &amp; Organization</span></a></li></ul></li><li class="level1 nav-1-2 gifts"><a><span>Gifts</span></a></li><li class="level1 nav-1-3 last parent values"><a><span>Personal Values</span></a><ul class="level1"><li class="level2 nav-1-3-1 first made-in-the-usa"><a href="https://www.thegrommet.com/made-in-the-usa"><span>Made in the USA</span></a></li><li class="level2 nav-1-3-2 tech-and-innovation"><a href="https://www.thegrommet.com/tech-and-innovation"><span>Tech &amp; Innovation</span></a></li><li class="level2 nav-1-3-3 natural-eco"><a href="https://www.thegrommet.com/sustainable-living"><span>Sustainable Living</span></a></li><li class="level2 nav-1-3-4 handcrafted"><a href="https://www.thegrommet.com/handcrafted"><span>Handcrafted</span></a></li><li class="level2 nav-1-3-5 independent-maker"><a href="https://www.thegrommet.com/independent-maker"><span>Independent Maker</span></a></li><li class="level2 nav-1-3-6 social-enterprises"><a href="https://www.thegrommet.com/social-enterprises"><span>Social Enterprises</span></a></li><li class="level2 nav-1-3-7 charities"><a href="https://www.thegrommet.com/philanthropy"><span>Philanthropy</span></a></li><li class="level2 nav-1-3-8 underrepresented-entrepreneurs"><a href="https://www.thegrommet.com/underrepresented-entrepreneurs"><span>Underrepresented Entrepreneurs</span></a></li><li class="level2 nav-1-3-9 last crowdfunded"><a href="https://www.thegrommet.com/crowdfunded"><span>Crowdfunded</span></a></li></ul></li></ul></li><li class="level0 nav-2 level-top parent collections"><a href="https://www.thegrommet.com/collections" level-top=""><span>Features</span></a><ul class="level0"><li class="level1 nav-2-1 first best-sellers"><a href="https://www.thegrommet.com/collections/best-sellers"><div class="category-image"><img src="https://cdn4.thegrommet.com/media/catalog/category/cache/109x79/a4e40ebdc3e371adff845072e1c73f37/catalogv1_bondic_1.jpg" alt=""></div><span>Best Sellers</span></a></li><li class="level1 nav-2-2 harvest-home"><a href="https://www.thegrommet.com/collections/harvest-home"><div class="category-image"><img src="https://cdn4.thegrommet.com/media/catalog/category/cache/109x79/a4e40ebdc3e371adff845072e1c73f37/lifestyle_piebaker_sassafras.jpg" alt=""></div><span>Harvest &amp; Home</span></a></li><li class="level1 nav-2-3 top-reviews"><a href="https://www.thegrommet.com/collections/top-reviews"><div class="category-image"><img src="https://cdn4.thegrommet.com/media/catalog/category/cache/109x79/a4e40ebdc3e371adff845072e1c73f37/herofinallarge_layngo_cosmo_1.jpg" alt=""></div><span>Top Reviews</span></a></li><li class="level1 nav-2-4 fashion-solutions"><a href="https://www.thegrommet.com/collections/fashion-solutions"><div class="category-image"><img src="https://cdn4.thegrommet.com/media/catalog/category/cache/109x79/a4e40ebdc3e371adff845072e1c73f37/herov1_hoodtogo_1.jpg" alt=""></div><span>Fashion Solutions</span></a></li><li class="level1 nav-2-5 last problem-solvers"><a href="https://www.thegrommet.com/collections/problem-solvers"><div class="category-image"><img src="https://cdn4.thegrommet.com/media/catalog/category/cache/109x79/a4e40ebdc3e371adff845072e1c73f37/lifestyle_klip_tudia_1.jpg" alt=""></div><span>Problem Solvers</span></a></li></ul></li><li class="level0 nav-3 last level-top parent gifts"><a href="https://www.thegrommet.com/gifts" level-top=""><span>Gifts</span></a><ul class="level0"><li class="level1 nav-3-1 first gifts-for-him"><a href="https://www.thegrommet.com/gifts/him"><span>For Him</span></a></li><li class="level1 nav-3-2 gifts-for-her"><a href="https://www.thegrommet.com/gifts/her"><span>For Her</span></a></li><li class="level1 nav-3-3 gifts-for-teens"><a href="https://www.thegrommet.com/gifts/teens"><span>For Teens</span></a></li><li class="level1 nav-3-4 gifts-for-kids"><a href="https://www.thegrommet.com/gifts/kids"><span>For Kids</span></a></li><li class="level1 nav-3-5 gifts-for-baby"><a href="https://www.thegrommet.com/gifts/baby-shower"><span>For Mom &amp; Baby</span></a></li><li class="level1 nav-3-6 gifts-for-host-hostess"><a href="https://www.thegrommet.com/gifts/host-hostess"><span>For Host &amp; Hostess</span></a></li><li class="level1 nav-3-7 under-25"><a href="https://www.thegrommet.com/gifts/under-25"><span>Gifts under $25</span></a></li><li class="level1 nav-3-8 under-50"><a href="https://www.thegrommet.com/gifts/under-50"><span>Gifts under $50</span></a></li><li class="level1 nav-3-9 geeky-cool"><a href="https://www.thegrommet.com/gifts/techie"><span>For Tech &amp; Gadget Lovers</span></a></li><li class="level1 nav-3-10 cooking"><a href="https://www.thegrommet.com/gifts/cooking"><span>For Chefs &amp; Foodies</span></a></li><li class="level1 nav-3-11 fitness"><a href="https://www.thegrommet.com/gifts/fitness"><span>For the Sporty &amp; Outdoorsy</span></a></li><li class="level1 nav-3-12 last virtual-gift-card"><a href="https://www.thegrommet.com/gifts/virtual-gift-card"><span>Virtual Gift Card</span></a></li></ul></li> <li class="level0 nav-1 level-top blog"><a href="https://www.thegrommet.com/blog/" class="level-top"><span>Blog</span></a></li>
 </ul>
 </div>
 </div>
@@ -235,11 +369,9 @@ The email address that you supply to us for purposes of receiving our email comm
 </ul>
 <h2>Protecting Your Information</h2>
 <p>We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. If transactions are processed on the Website, transaction information is transmitted to and from the Website in encrypted form using industry-standard SSL connections to help protect such information from interception. Using this encryption, we transmit the entire credit card number to the appropriate credit card company during order processing but reveal only the last four digits of your credit card numbers when confirming an order. We restrict authorized access to your personal information to those persons who have a legitimate purpose to know that information to provide products or services to you and those persons you have authorized to have access to such information.</p>
-<p>The Grommet follows generally accepted industry standards to protect the personal information submitted to us, both during transmission and once The Grommet receives it. No method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while The Grommet strives to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our Website, you can email The Grommet at <a href="mailto:folks@thegrommet.com">folks@thegrommet.com<script cf-hash="f9e31" type="text/javascript">
-/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></p>
+<p>The Grommet follows generally accepted industry standards to protect the personal information submitted to us, both during transmission and once The Grommet receives it. No method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while The Grommet strives to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our Website, you can email The Grommet at <a href="mailto:folks@thegrommet.com">folks@thegrommet.com</a></p>
 <h2>Editing and Deleting Account Information</h2>
-<p>You can change your Grommet Account Information at any time by logging into your account on the Website. To delete your account entirely, email your request to <a href="mailto:folks@thegrommet.com">folks@thegrommet.com<script cf-hash="f9e31" type="text/javascript">
-/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a>.</p>
+<p>You can change your Grommet Account Information at any time by logging into your account on the Website. To delete your account entirely, email your request to <a href="mailto:folks@thegrommet.com">folks@thegrommet.com</a>.</p>
 <p>To opt-out of Grommet Email, follow the instructions included in the email. Your request should be processed within 48 hours.</p>
 <h2>Suppliers and Other Third Parties</h2>
 <p>Except as otherwise expressly included in this Privacy Policy, this document addresses only the use and disclosure of information The Grommet collects from you. If you disclose your information to others, whether other users or suppliers on The Grommet, different rules may apply to their use or disclosure of the information you disclose to them. The Grommet does not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable. The Grommet is not responsible for the privacy or security practices of other websites on the Internet, even those linked to or from the The Grommet site. The Grommet encourages you to ask questions before you disclose your personal information to others.</p>
@@ -254,14 +386,15 @@ The email address that you supply to us for purposes of receiving our email comm
 <div class="footer-links clearfix">
 <div class="col col-1">
 <h4>About Us</h4>
-<ul><li><a href="https://www.thegrommet.com/about-us/our-story"><span>About The Grommet</span></a></li><li><a href="https://www.thegrommet.com/about-us/what-is-a-grommet"><span>What is a Grommet?</span></a></li><li><a href="https://www.thegrommet.com/about-us/citizen-commerce"><span>Citizen Commerce™</span></a></li><li><a href="https://www.thegrommet.com/about-us/meet-us"><span>Meet Us</span></a></li><li><a href="https://www.thegrommet.com/about-us/careers"><span>Careers</span></a></li><li><a href="https://www.thegrommet.com/about-us/contact-us"><span>Contact Us</span></a></li><li><a href="https://www.thegrommet.com/about-us/invite-a-friend"><span>Refer a Friend</span></a></li></ul>
+<ul><li><a href="https://www.thegrommet.com/about-us/our-story" data-name="our-story"><span>About The Grommet</span></a></li><li><a href="https://www.thegrommet.com/about-us/what-is-a-grommet" data-name="what-is-a-grommet"><span>What is a Grommet?</span></a></li><li><a href="https://www.thegrommet.com/about-us/citizen-commerce" data-name="citizen-commerce"><span>Citizen Commerce™</span></a></li><li><a href="https://www.thegrommet.com/about-us/meet-us" data-name="meet-us"><span>Meet Us</span></a></li><li><a href="https://www.thegrommet.com/about-us/careers" data-name="careers"><span>Careers</span></a></li><li><a href="https://www.thegrommet.com/about-us/contact-us" data-name="contact-us"><span>Contact Us</span></a></li><li><a href="https://www.thegrommet.com/about-us/invite-a-friend" data-name="invite-a-friend"><span>Refer a Friend</span></a></li></ul>
 <ul>
 <li><a href="https://www.thegrommet.com/blog"><span>Blog</span></a></li>
+<li><a href="https://wholesale.thegrommet.com"><span>Wholesale</span></a></li>
 </ul>
 </div>
 <div class="col col-2">
 <h4>Press</h4>
-<ul><li><a href="https://www.thegrommet.com/press/press-overview"><span>Press Overview</span></a></li><li><a href="https://www.thegrommet.com/press/press-releases"><span>Press Releases</span></a></li><li><a href="https://www.thegrommet.com/press/press-coverage"><span>Press Coverage</span></a></li><li><a href="https://www.thegrommet.com/press/press-awards"><span>Awards</span></a></li><li><a href="https://www.thegrommet.com/press/community-testimonials"><span>Community Testimonials</span></a></li><li><a href="https://www.thegrommet.com/press/product-pitch"><span>Product Pitch</span></a></li></ul>
+<ul><li><a href="https://www.thegrommet.com/press/press-overview" data-name="press-overview"><span>Press Overview</span></a></li><li><a href="https://www.thegrommet.com/press/press-releases" data-name="press-releases"><span>Press Releases</span></a></li><li><a href="https://www.thegrommet.com/press/press-coverage" data-name="press-coverage"><span>Press Coverage</span></a></li><li><a href="https://www.thegrommet.com/press/press-awards" data-name="press-awards"><span>Awards</span></a></li><li><a href="https://www.thegrommet.com/press/community-testimonials" data-name="community-testimonials"><span>Community Testimonials</span></a></li><li><a href="https://www.thegrommet.com/press/product-pitch" data-name="product-pitch"><span>Product Pitch</span></a></li></ul>
 </div>
 <div class="col col-3">
 <h4>Customer Service</h4>
@@ -282,7 +415,7 @@ The email address that you supply to us for purposes of receiving our email comm
 <div class="footer-social">
 <h4>Connect with Us</h4>
 <ul class="clearfix">
-<li><div class="fb-like hidden-until-loaded" data-href="http://www.facebook.com/thegrommet" data-send="false" data-layout="button_count" data-width="30" data-show-faces="false" data-font="arial" style="font:11px arial,sans-serif;">80k</div></li>
+<li><div class="fb-like " data-href="http://www.facebook.com/thegrommet" data-send="false" data-layout="button_count" data-width="30" data-show-faces="false" data-font="arial" style="font:11px arial,sans-serif;"></div></li>
 <li><a class="socialmedia-link twitter-link" data-ga-network="twitter" href="https://twitter.com/TheGrommet" target="_blank" title="Connect with us on Twitter">Connect with us on Twitter</a></li>
 <li><a class="socialmedia-link pinterest-link" data-ga-network="pinterest" href="http://pinterest.com/thegrommet/" target="_blank" title="Connect with us on Pinterest">Connect with us on Pinterest</a></li>
 <li><a class="socialmedia-link instagram-link" data-ga-network="instagram" href="http://instagram.com/thegrommet" target="_blank" title="Connect with us on Instagram">Connect with us on Instagram</a></li>
@@ -314,6 +447,18 @@ The email address that you supply to us for purposes of receiving our email comm
 </div>
 </div>
 </div>
+<img src="https://d.liadm.com/segment?s=16694" style="width:1px;height:1px; ">
+ 
+<noscript><p><img src="//dd.thegrommet.com/piwik.php?idsite=1" style="border:0;" alt=""/></p></noscript>
+ 
+ 
+ 
+ 
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=272781852905764&ev=PageView&noscript=1"/></noscript>
+ 
+﻿
+﻿
+﻿
 <noscript><iframe src='//www.googletagmanager.com/ns.html?id=GTM-MZVPFC' height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
  
 <div id="newsletter-overlay" style="opacity: 0.3;"></div>
@@ -325,7 +470,7 @@ The email address that you supply to us for purposes of receiving our email comm
 <h4>We know interrupting is rude. But, so is keeping secrets. We want to make sure you know you can get Grommet launches &amp; offers delivered to your inbox.</h4>
  
 <input id="newsletter-modal-email" name="email" type="email" value="Enter email address..." class="input-text required-entry validate-email">
-<input name="source" type="hidden" value="site_sticky">
+<input id="newsletter-modal-source" name="source" type="hidden" value="site_sticky">
 <div class="controls">
 <button type="submit" class="button orange" title="Submit"><span><span>Submit</span></span></button>
 </div>
@@ -349,13 +494,10 @@ The email address that you supply to us for purposes of receiving our email comm
 <script>window.jQuery || document.write('<script src="https://cdn3.thegrommet.com/js/jquery/jquery-1.9.1-min.js"><\/script>'); jQuery.noConflict();</script><script src="https://cdn3.thegrommet.com/js/jquery/jquery-1.9.1-min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/scriptaculous/1.9.0/effects.js"></script>
 <script>window.Effect || document.write('<script src="https://cdn3.thegrommet.com/js/scriptaculous-1-9-0/effects.js"><\/script>'); </script><script src="https://cdn3.thegrommet.com/js/scriptaculous-1-9-0/effects.js"></script>
-<script type="text/javascript" src="https://cdn4.thegrommet.com/media/js/52b9a861f98844a6c73ed63059823e86.js" data-section="all"></script>
+<script type="text/javascript" src="https://cdn4.thegrommet.com/media/js/ea4b249a1ceec259bf0f0fcd43a7bde5.js" data-section="all"></script>
 <!--[if lt IE 7]>
 <script type="text/javascript" src="https://cdn3.thegrommet.com/js/lib/ds-sleight.js"></script>
 <script type="text/javascript" src="https://cdn3.thegrommet.com/skin/frontend/enterprise/default/js/iehover-fix.js"></script>
-<![endif]-->
-<!--[if lt IE 9]>
-<script type="text/javascript" src="https://cdn3.thegrommet.com/js/afarkas/html5shiv/3.6.2/html5shiv.js"></script>
 <![endif]-->
 <script type="text/javascript">
 //<![CDATA[
@@ -370,12 +512,40 @@ optionalZipCountries = [];
 </script>
 <script type="text/javascript">//<![CDATA[
         var Translator = new Translate([]);
-        //]]></script><script type="text/javascript">
+        //]]></script><script>
+(function() {
+if(typeof ExpEng120 === 'object') {
+
+    if(ExpEng120.chosenVar != cxApi.NO_CHOSEN_VARIATION && ExpEng120.chosenVar != cxApi.NOT_PARTICIPATING) {
+        grommet.GoogleTagManager.TrackExperiment(ExpEng120.id, ExpEng120.chosenVar);
+    }
+
+    var exceptionFound = $$('body.category-virtual-gift-card');
+
+    if(ExpEng120.shownVar == 1 && !exceptionFound.length) {
+        Element.insert($$('head')[0], '<style> '+"\r\n            .products-grid-eng120-parents { display:none !important; }\r\n            .products-grid-eng120-children { display:block; }\r\n            .toolbar .product-count-collection, .toolbar .pager .limiter { display:none !important; }\r\n            #nav li.recently-launched li.nav-1-1-1:nth-child(n+5) { display:none !important; }\r\n        "+' </style>');
+
+        document.observe('dom:loaded', function() {
+            $$('.col-main .products-grid-eng120-children').invoke('show');
+            $$('.products-grid-eng120-parents').invoke('remove');
+            $$('#nav li.recently-launched li.nav-1-1-1:nth-child(n+5)').invoke('remove');
+            document.fire('ProductGridManager:resize');
+        });
+
+    } else {
+        Element.insert($$('head')[0], '<style> '+"\r\n            .products-grid-eng120-children { display:none !important; }\r\n        "+' </style>');
+
+        $$('.products-grid-eng120-children').invoke('remove');
+    }
+
+}
+})();
+</script>
+<script type="text/javascript">
 jQuery(function() {
-    jQuery(".header .account-links .links li.first").hover(function () {
-	        jQuery("#hover-menu .block-account").show();  
-	    }, function() {  
-    		jQuery("#hover-menu .block-account").hide();
+    jQuery("#my-account-link").click(function (e) {
+		e.preventDefault();
+		jQuery("#hover-menu .block-account").show();  
     });    
 
     jQuery("#hover-menu").hover(function () {
@@ -392,22 +562,10 @@ document.observe('BrowserStorage:AfterPageUpdated', function(){
 
 	}
 });
-</script> <script type="text/javascript">
-        //<![CDATA[
-        var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Search for...');
-
-        jQuery(document).ready(function(){
-            _kmq.push(['trackSubmit', 'search_mini_form', 'Product Search']);
-        });
-        //]]>
-    </script>
+</script>
 <script type="text/javascript">
         //<![CDATA[
         var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Search for...');
-
-        jQuery(document).ready(function(){
-            _kmq.push(['trackSubmit', 'search_mini_form', 'Product Search']);
-        });
         //]]>
     </script>
 <script type="text/javascript">
@@ -439,6 +597,7 @@ Event.observe(window, 'load', function(){
     }
 });
 </script>
+<script> document.fire('grommet:Experiment:recordRedirect'); </script>
 <script type="text/javascript">
 //<![CDATA[
 document.observe('dom:loaded', function() {
@@ -452,18 +611,62 @@ document.observe('dom:loaded', function() {
 });
 //]]>
 </script>
-<script type="text/javascript">var _kmq = _kmq || []; var _kmk = _kmk || '46729c6934a3edbd6387cba5f061cb7107284ebc'; function _kms(u){ setTimeout(function(){ var d = document, f = d.getElementsByTagName('script')[0], s = d.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = u; f.parentNode.insertBefore(s, f); }, 1); } _kms('//i.kissmetrics.com/i.js'); _kms('//doug1izaerwt3.cloudfront.net/' + _kmk + '.1.js'); </script>
 <script type="text/javascript">
-arrEcjs = [];
-function _ecjs(ecid,email) { new Ajax.Request("https://www.thegrommet.com/remarketing/email/", {parameters:{cid: ecid, email: email}}); }
-function ecjsInit() {for(var ecjsi = 0; ecjsi < arrEcjs.length; ecjsi++) {if($(arrEcjs[ecjsi].id)) {$(arrEcjs[ecjsi].id).stopObserving("change", arrEcjs[ecjsi].fn);$(arrEcjs[ecjsi].id).observe("change", arrEcjs[ecjsi].fn);}}}
-arrEcjs.push({id:"newsletter", fn: function() { _ecjs(3, $(this).value);}});
-arrEcjs.push({id:"ltkmodal-email", fn: function() { _ecjs(4, $(this).value);}});
-arrEcjs.push({id:"header_email", fn: function() { _ecjs(5, $(this).value);}});
-arrEcjs.push({id:"newsletter-modal-email", fn: function() { _ecjs(8, $(this).value);}});
-document.observe("dom:loaded", function() { ecjsInit(); 
-Ajax.Responders.register({onComplete: function() {ecjsInit();}});});
-</script><script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//dd.thegrommet.com/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 1]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<script type="text/javascript" src="//js.rmtag.com/111468.ct.js"></script>
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '272781852905764');
+fbq('track', 'PageView');
+</script>
+<script type="text/javascript">
+    (function(d) { if (document.addEventListener) document.addEventListener('ltkAsyncListener', d);
+    else {e = document.documentElement; e.ltkAsyncProperty = 0; e.attachEvent('onpropertychange', function (e) {
+    if (e.propertyName == 'ltkAsyncProperty'){d();}});}})(function() {
+        _ltk.Click.Submit();
+        _ltk.SCA.CaptureEmail('newsletter');
+        _ltk.SCA.CaptureEmail('ltkmodal-email');
+        _ltk.SCA.CaptureEmail('header_email');
+        _ltk.SCA.CaptureEmail('newsletter-modal-email');
+        _ltk.Activity.AddPageBrowse(location.href);
+        _ltk.Activity.Submit();
+    });
+</script>
+<script type="text/javascript">
+    (function (d, s, id, url) {
+        var js, ljs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id; js.src = url;
+        ljs.parentNode.insertBefore(js, ljs);
+    })(document, 'script', 'ltkSDK', 'https://cdn.listrakbi.com/scripts/script.js?m=jATtAm8GGeW0&v=1');
+</script>
+<script type="text/javascript">
+    Listrak_Remarketing = new function() {
+        this.updateCart = function() {
+                            new Ajax.Request('https://www.thegrommet.com/remarketing/ajax/cart/');
+                    };
+
+        this.track = function() {
+                            new Ajax.Request('https://www.thegrommet.com/remarketing/ajax/tracking/');
+                    };
+    };
+</script>
+<script type="text/javascript">
 grommet.BrowserStorage.refreshUrl = 'https://www.thegrommet.com/browserstorage/data/json/';
 </script>
 <script>
@@ -492,12 +695,22 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         'newsletter-overlay'
 	);
 	newsletterSubscribeModal.initForm('newsletter-modal-form');
+
+    if (typeof grommet.productNewsletterSubscribe !== "undefined") {
+        var productNewsletterSubscribeModal = new grommet.productNewsletterSubscribe(
+            'newsletter_subscribe',
+            90,
+            '',
+            'newsletter-overlay'
+        );
+        productNewsletterSubscribeModal.initForm('newsletter-modal-form');
+    }
 //]]>
 </script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"e95ea7394f","applicationID":"641632","transactionName":"NF1XYENTCBIEUExYCQ0XdFdFWwkPSlBVQkkTWVJRHkQPBBI=","queueTime":0,"applicationTime":197,"atts":"GBpAFgtJG01HUhoLHR5F","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-536.min.js"}</script><script type="text/javascript">
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"e95ea7394f","applicationID":"9163408","transactionName":"NF1XYENTCBIEUExYCQ0XdFdFWwkPSlBVQkkTWVJRHkQPBBI=","queueTime":0,"applicationTime":169,"atts":"GBpAFgtJG01HUhoLHR5F","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script><script type="text/javascript">
 /* <![CDATA[ */
 (function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&a.indexOf("/cdn-cgi/l/email-protection") > -1  && (a.length > 28)){s='';j=27+ 1 + a.indexOf("/cdn-cgi/l/email-protection");if (a.length > j) {r=parseInt(a.substr(j,2),16);for(j+=2;a.length>j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);}t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
 /* ]]> */
 </script>
 
-<script src="https://js-agent.newrelic.com/nr-536.min.js"></script></body></html>
+</body></html>
