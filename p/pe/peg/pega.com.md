@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pega.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630000759id_/http%3A//www.pega.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pega.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924163529id_/http%3A//www.pega.com/privacy) for the most accurate reproduction.*
 
 # Pega | Privacy and Security
 
@@ -60,4 +60,4 @@ If we update this Privacy Statement, we will notify you by posting a new Privacy
 
 **Contact us**
 
-If you have any questions about this Privacy Statement or our use of your information collected through the Online Services, please [contact us](https://web.archive.org/web/20150630000759id_/http%3A//www.pega.com/contact).
+If you have any questions about this Privacy Statement or our use of your information collected through the Online Services, please [contact us](https://web.archive.org/web/20150924163529id_/http%3A//www.pega.com/contact).
