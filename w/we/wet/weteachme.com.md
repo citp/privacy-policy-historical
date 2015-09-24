@@ -1,17 +1,35 @@
-> *The following text is extracted and transformed from the weteachme.com privacy policy that was archived on 2012-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120831030637id_/http%3A//weteachme.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weteachme.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924122942id_/https%3A//weteachme.com/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy / WeTeachMe
 
-* * *
+**Your privacy is very important to us.**
 
-**Your privacy is very important to us.** Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
+Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
   * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.
+
+
   * We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.
+
+
   * We will only retain personal information as long as necessary for the fulfillment of those purposes.
+
+
   * We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.
+
+
   * Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.
+
+
   * We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
+
+
   * If we want to use any personal information, we will ask you first.
+
+
+  * We will contact you post-purchase as a courtesy followup to inform you of the option to view your purchase or order details online.
+
+
+  * We will contact you from time-to-time if you register as a member or if there are announcements related to your purchase.
 
 
