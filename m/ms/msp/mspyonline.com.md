@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mspyonline.com privacy policy that was archived on 2015-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150406172336id_/http%3A//www.mspy.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mspyonline.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924103643id_/http%3A//mspy.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | mSpy
 
@@ -22,6 +22,7 @@ Other Aggregate Information
 Legal Matters
     "My Spy" considers your use of the service to be private. However, we may access or disclose information about you, your account, recorded information stored in your account and/or the content of your communications, in order to: (1) comply with the law or legal process served on us; (2) enforce and investigate potential violations of this contract; including use of this service to participate in, or facilitate, activities that violate the law; (3) investigate potential fraudulent activities; or (4) protect the rights, property, or safety of "My Spy", its employees, its customers or the public. You consent to the access and disclosures outlined in this section.
     In the event of a change of control of MY SPY (such as through a merger, sale, assignment or liquidation of the business entity, or any of its properties, assets or equity) or, in the event of a direct or indirect sale of any of its publishing properties and/or its Web sites, personal information of users of the affected Web sites in our possession will be transferred to the new owner/successor. We are not obligated to notify Web site users of any such transaction. You may always change or delete your information or opt out by contacting us as provided below, or if the acquirer posts a new Privacy Policy with new contact information, you may change or delete your information or opt out by following any new instructions that are posted.
+    Please be advised that all the logs of your mSpy account dated more than 3 months will be automatically deleted, for reasons of security. Logs can be downloaded for further storage, should the necessity arise.
 
 ### HOW DO I OPT OUT OR CHANGE MY PERSONAL INFORMATION?
 
