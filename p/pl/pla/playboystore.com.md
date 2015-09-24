@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playboystore.com privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419013426id_/http%3A//www.playboystore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playboystore.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924232030id_/http%3A//www.playboystore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ Registrants must provide certain personally identifiable information (“PII”)
 
 Unless you provide PII to Araca through the Website, we will not collect any PII from you.
 
-Araca may use your PII to communicate offers on merchandise which we believe will be of interest to you, customize our communications to you, administer our business an improve your shopping experience.
+Araca may use your PII to communicate offers on merchandise which we believe will be of interest to you, customize our communications to you, administer our business and improve your shopping experience.
 
 If you would rather we did not send you direct marketing materials, please send a request in writing (an “Opt-Out Request”) to: Araca Merchandise LP, 545 West 45th Street, 10th Floor, New York, NY 10036, USA Attention: Web Marketing, or by email to orders@playboystore.com. 
 
