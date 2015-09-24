@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vidcaster.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325113835id_/http%3A//www.vidcaster.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidcaster.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924190604id_/http%3A//www.vidcaster.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Vidcaster: Video Experience Platform
+# Privacy - Video Training Platform
 
 Please read this Privacy Policy carefully to understand how Vidcaster, Inc., its subsidiary and affiliate corporations, successors, and assigns (collectively referred to as “Vidcaster.”) uses and protects the information you provide. This privacy policy (the “Privacy Policy”) applies to this World Wide Web site and any variations or successors to this website (vidcaster.com, the “Vidcaster Site”), any Vidcaster computer software downloadable or otherwise available from the Vidcaster Site (“Vidcaster Software”) and any Vidcaster services purchased or otherwise made available from the Vidcaster Site (“Vidcaster Services”) (collectively, the “Vidcaster Properties”). This Privacy Policy (“Privacy Policy”) applies to all Users (“Users”) of the Vidcaster Properties.
 
