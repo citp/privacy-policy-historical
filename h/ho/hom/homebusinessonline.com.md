@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homebusinessonline.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317201223id_/http%3A//www.homebusinessonline.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homebusinessonline.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924044031id_/http%3A//www.homebusinessonline.com/privacy.php) for the most accurate reproduction.*
 
 # New Document
 
