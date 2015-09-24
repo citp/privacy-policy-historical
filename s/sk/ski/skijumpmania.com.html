@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the skijumpmania.com privacy policy that was archived on 2015-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150618213233id_/http%3A//s1.skijumpmania.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the skijumpmania.com privacy policy that was archived on 2015-09-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150924122810id_/http%3A//s1.skijumpmania.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"><html xmlns:fb="http://www.facebook.com/2008/fbml"><head> 
   <base href="http://s1.skijumpmania.com/">  
@@ -48,7 +48,7 @@
     <link type="text/css" href="./_style/main.css?19" rel="stylesheet">
   </head>
 
-<body class="welcome_body" style="background-color: white;">
+	<body class="welcome_body" style="background-color: white;">
 
 <div class="page_container">
 
@@ -123,7 +123,7 @@
 	
 	<div class="welcome_top_regcount">
 					<img align="absmiddle" src="https://apps.powerplaymanager.com/images/skijumpmania/panacik.png" style="margin-bottom: 2px;">
-			&nbsp;Registered players: <span class="yellow" style="font-size:12px;">158 083</span>
+			&nbsp;Registered players: <span class="yellow" style="font-size:12px;">163 919</span>
 			</div>
 	        
 	<div class="welcome_box_top"> 
@@ -364,22 +364,27 @@ This privacy policy applies to all services offered on www.skijumpmania.com oper
 
 		<div style="clear: both;"></div>
 	</div>   
+	
 	<div class="welcome_footer"><div class="welcome_footer_inner">
 		 
 	
 		<div class="welcome_footer_logo">
-			<img title="Powerplay Manager" alt="Powerplay Manager" src="https://apps.powerplaymanager.com/images/skijumpmania/ppm_logo.png">
+			<a href="http://www.powerplaymanager.com/games/sjm_cross/"><img title="Powerplay Manager" alt="Powerplay Manager" src="https://apps.powerplaymanager.com/images/skijumpmania/ppm_logo.png"></a>
 		</div>
 		<div class="welcome_footer_text">
-			      <div>
-				<span style="font-size: 13px;">By using this website you give your consent to store cookies on your device. <span style="white-space: nowrap;"><a href="./privacy-policy" target="_blank">More information</a><br><a href="./privacy-policy" target="_blank">Privacy policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="./license" target="_blank">Terms of Service</a></span></span>
-			</div>
-              
-			   Partners:  <a href="http://www.powerplaymanager.com/action/ams_group.php?id_group=655&amp;dir_page=ppm&amp;lng=en" target="_blank">PowerPlay Manager - Online Sport Manager Game</a>&nbsp;&nbsp;&nbsp;
+        
+			   Partners:  <a href="http://www.powerplaymanager.com/action/ams_group.php?id_group=655&amp;dir_page=ppm&amp;lng=en" target="_blank">PowerPlay Manager - Online Sport Manager Game</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;<a href="./license" target="_blank">Terms of Service</a>
        
-       Copyright © 2011-2015- POWERPLAY MANAGER, s.r.o. - All rights reserved<br>
+			      <div>
+				<span>By using this website you give your consent to store cookies on your device. <span style="white-space: nowrap;"><a href="./privacy-policy" target="_blank">More information</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;<a href="./privacy-policy" target="_blank">Privacy policy</a></span></span>
+			</div>
+            <div>Copyright © 2011-2015- POWERPLAY MANAGER, s.r.o. - All rights reserved</div>
 		</div>
-		
+		<div class="welcome_footer_social">
+      <a href="https://www.facebook.com/skijumpmania" target="_blank" title="Facebook"><div id="fb_button"></div></a>
+      <!-- <a href="plus" target="_blank" title="Google+"><div id="gplus_button"></div></a> -->
+    </div>
+    
 	</div></div>
 </div>
 
@@ -400,6 +405,12 @@ This privacy policy applies to all services offered on www.skijumpmania.com oper
 				$('.welcome_footer').css('position', 'absolute');
 			}
 		});
+
+		if ($('.welcome_content').outerHeight() < $(window).height()) {
+			$('.welcome_footer').css('position', 'fixed');
+		} else {
+			$('.welcome_footer').css('position', 'absolute');
+		}
 
 		$('.modal_window_activator').overlay({
 			// maska pre modal okno
