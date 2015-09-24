@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the essential-watches.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614011755id_/http%3A//www.essential-watches.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essential-watches.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924223626id_/http%3A//www.essential-watches.com/privacy) for the most accurate reproduction.*
 
-# Watches New & Preowned | From Essential-Watches.com
+# Privacy - Watches New & Preowned | From Essential-Watches.com
 
 This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.  
 
@@ -168,9 +168,9 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 and we will promptly remove you from **ALL** correspondence.   
 
 
-We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline. Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for "https" at the beginning of the address of the web page. While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment. If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at XXX YYY-ZZZZ or via email.
+We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline. Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for "https" at the beginning of the address of the web page. While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment. If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 310.601.7264 or via email.
 
-[click here to read testimonials from satisifed customers.](https://web.archive.org/testimonials)
+[click here to read testimonials from satisifed customers.](https://web.archive.org/web/20150924223626id_/http%3A//www.essential-watches.com/testimonials)
 
 If you have any questions, we encourage you to [contact us](https://web.archive.org/contact).
 
