@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brickpicker.com privacy policy that was archived on 2015-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150405123107id_/http%3A//www.brickpicker.com/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brickpicker.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924120234id_/http%3A//www.brickpicker.com/privacy-policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -131,7 +131,7 @@ General communications provide information about products, services, and/or supp
 
     * Select the email "opt out" or "unsubscribe" link, or follow the opt-out instructions included in each email communication.
     * To unsubscribe from text messages delivered to mobile devices, reply to the message with the words "STOP" or "END."
-    * [Contact us](https://web.archive.org/web/20150405123107id_/http%3A//www.brickpicker.com/privacy-contact-form.php). Please provide your name, relevant contact information, and specific relevant information about your privacy preferences. 
+    * [Contact us](https://web.archive.org/web/20150924120234id_/http%3A//www.brickpicker.com/privacy-contact-form.php). Please provide your name, relevant contact information, and specific relevant information about your privacy preferences. 
 
 
 
