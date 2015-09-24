@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the g2crowd.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628233336id_/https%3A//www.g2crowd.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the g2crowd.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924205239id_/https%3A//www.g2crowd.com/static/privacy) for the most accurate reproduction.*
 
 # G2 Crowd
 
@@ -16,7 +16,7 @@ This Privacy Policy explains:
   * How you can access that information.
   * Your choices with respect to the collection and use of that information.
   * How we protect that information.
-  * Children's privacy.
+  * Children’s privacy.
   * External links.
   * Visiting our Site from outside the United States.
   * Your California privacy rights.
@@ -29,7 +29,7 @@ This Privacy Policy explains:
 
 **In General.**
 
-We receive and store any information you enter on our Site or give us in any other way. This may include information that can identify you ("personal information"), including your first and last name, telephone number, postal and e-mail addresses, user name, and password. Additionally, if you connect to our Site through LinkedIn, we will receive information from your LinkedIn account as further described below. We may also request information about your usage of technology products and services and your preferences in choosing technology products and services. You can choose not to provide information to us, but, in general, some information about you is required in order for you to enjoy the benefits of being a registered member of our Site. For example, only registered members are able to post technology reviews, participate in discussion forums, e-mail content to themselves and others, access members-only newsletters and technology research content, and enter surveys, contests, or sweepstakes. In addition, some information is also required in order for you to ask us a question or initiate other transactions on our site.
+We receive and store any information you enter on our Site or give us in any other way. This may include information that can identify you (“personal information”), including your first and last name, telephone number, postal and e-mail addresses, user name, and password. Additionally, if you connect to our Site through LinkedIn, we will receive information from your LinkedIn account as further described below. We may also request information about your usage of technology products and services and your preferences in choosing technology products and services. You can choose not to provide information to us, but, in general, some information about you is required in order for you to enjoy the benefits of being a registered member of our Site. For example, only registered members are able to post technology reviews, participate in discussion forums, e-mail content to themselves and others, access members-only newsletters and technology research content, and enter surveys, contests, or sweepstakes. In addition, some information is also required in order for you to ask us a question or initiate other transactions on our site.
 
 **Information about Others.**
 
@@ -40,7 +40,7 @@ You may have the opportunity to provide contact information for other people thr
 If you connect to our Site through your LinkedIn account, we will receive:
 
   1. your LinkedIn profile information and will automatically populate your profile on our Site with your company name, industry, company size, and skills from your LinkedIn profile, however, you control whether this information is shown publicly on our Site;
-  2. access to your LinkedIn connections to show you reviews written by your connections, however, we will not access your connections' contact information nor send messages to your connections.
+  2. access to your LinkedIn connections to show you reviews written by your connections, however, we will not access your connections’ contact information nor send messages to your connections.
 
 
 
@@ -60,7 +60,7 @@ We automatically collect some information about your computer when you visit the
 
 Cookies are small data text files and can be stored on your computer’s hard drive (if your web browser permits). G2 and its affiliated websites use cookies for the following general purposes:
 
-  1. To help us recognize your browser as a previous visitor and save and remember any preferences that may have been set while your browser was visiting our site. For example, if you register on our site, we may use cookies to remember your registration information, so you do not need to log into our site each time you visit. We also may record your password in a cookie, if you checked the box entitled "Save this password for automatic sign-in." Please note that member IDs, passwords, and any other account-related data included in such cookies are encrypted for security purposes.
+  1. To help us recognize your browser as a previous visitor and save and remember any preferences that may have been set while your browser was visiting our site. For example, if you register on our site, we may use cookies to remember your registration information, so you do not need to log into our site each time you visit. We also may record your password in a cookie, if you checked the box entitled “Save this password for automatic sign-in.” Please note that member IDs, passwords, and any other account-related data included in such cookies are encrypted for security purposes.
   2. To help us customize the content and website experience provided to you on our Site and on other websites across the Internet. For example, when you access a web page, a cookie is automatically set by us, our service providers, or our partners to recognize your browser as you navigate on the Internet and to present you with information based on your apparent interests.
   3. To help measure and research the effectiveness of website features and offerings, advertisements, and e-mail communications (by determining which e-mails you open and act upon).
 
@@ -72,13 +72,9 @@ The Help portion of the toolbar on most browsers should tell you how to prevent 
 
 G2 uses the information we collect about you for the following general purposes: for registration and to manage your account, including to facilitate your access to and use of our Site; to communicate with you in general, including to provide information about G2 and invitations from the G2 community; to enable us to publish your reviews, forum posts, and other content to the G2 community; to respond to your questions and comments; to measure interest in and improve our products, services, and Site; to notify you about special offers and products or services available from us or our partners, or from the providers of products and services listed on our Site, that may be of interest to you; to otherwise customize your experience with G2; to solicit information from you, including through surveys; to resolve disputes or troubleshoot problems; to prevent potentially prohibited or illegal activities; to enforce our Terms of Use; and as otherwise described to you at the point of collection.
 
-Please review "Your choices with respect to the collection and use of your information" below.
-
-## With whom we share your information
+Please review “Your choices with respect to the collection and use of your information” below.
 
 G2 may share your information with the following entities: 1\. Third-party vendors who provide services or functions on our behalf, which may include business analytics, customer service, marketing, distribution of surveys or contest programs, payment processing, and fraud prevention. We may also authorize third-party vendors to collect information on our behalf, including as necessary to operate features of our Site. Third-party vendors have access to and may collect information only as needed to perform their functions and are not permitted to share or use the information for any other purpose. 1\. Business partners with whom we may offer products or services in conjunction. You can tell when a third party is involved in a product or service you have requested because their name will appear either with ours or separately. If you choose to access these optional services, we may share information about you, including your personal information, with those partners. Please note that we do not control the privacy practices of these third-party business partners. 1\. Business partners and the public with whom we may share aggregated, non-personally identifiable information. This is information that is recorded about a user or activity on our Site, such as the automatic information described above, which no longer reflects or references an individually identifiable user. We may share this aggregated, non-personally identifiable information with our business partners to provide their own services to others, such as advertising or business analytics services. We also may share this aggregated, non-personally identifiable information publicly to show, for example, trends in technology products and services purchases or rankings amongst providers of such products and services based on aggregated reviews and comments. 1\. Social Media Services. You can choose to access certain third party social media websites and services through our site (such as LinkedIn and Twitter). When you do so, you are sharing information with those sites, and the information you share will be governed by their privacy policies. You may also be able to modify your privacy settings with these third party social media web sites.
-
-## We also may share your information
 
 G2 also may share your information as follows: 1\. In response to subpoenas, court orders, or other legal process; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we reserve the right to raise or waive any legal objection or right available to us. 1\. When we believe it is necessary to investigate, prevent, or take action regarding illegal or suspected illegal activities; to protect and defend the rights, property, or safety of G2, our customers, or others; and in connection with our Terms of Use and other agreements. 1\. In connection with a corporate transaction, such as a divestiture, investment, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy. 1\. If you choose to create a profile on the Site, certain information in your profile will be publicly viewable and identifiable via your name. You will have the ability to view your profile as members of the public will see it. Additionally, if you choose to participate in our member-to-member communications programs, other G2 members may contact you by using G2 as an intermediary; however, G2 will not display your email address in any public manner. All G2 members have the option to turn off the member-to-member communication features at any time. Other than as set out above, you will be notified when personal information about you will be shared with third parties, and you will have an opportunity to choose not to have us share such information. We also may share aggregate or anonymous information with third parties, including partners and investors. This information does not contain any personal information and is used to develop content and services we hope you will find of interest. 
 
@@ -100,7 +96,7 @@ Email Communications. G2 wants to make it easy for you to take advantage of new 
 
 We want you to feel confident about using our Site and services, and we are committed to protecting the information we collect. While no website can guarantee security, we are implementing appropriate administrative, technical, and physical security procedures to help protect the personal information you provide to us. For example, only authorized employees are permitted to access personal information, and they only may do so for permitted business functions. In addition, we use encryption when transmitting your personal information between your system and ours, and we, together with our partners, employ firewalls and intrusion detection systems to help prevent unauthorized persons from gaining access to your information. 
 
-## Children's privacy
+## Children’s privacy
 
 The Site is a general audience site and does not offer services directed to children. Should an individual whom we know to be a child under age 18 send personal information to us, we will delete or destroy such information as soon as reasonably possible. 
 
@@ -119,8 +115,6 @@ California Civil Code Section 1798.83 permits California residents to request ce
 ## Changes to this Privacy Policy 
 
 G2 may update this Privacy Policy in the future. We will notify our members about material changes to this Privacy Policy by either sending a notice to the email address you provided to us and/or by placing a prominent notice on the Site.
-
-## How you can contact us 
 
 If you have questions about this Privacy Policy, please contact us at: legal@g2crowd.com
 
