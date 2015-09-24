@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookworld.com.au privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619140621id_/https%3A//www.bookworld.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookworld.com.au privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924170126id_/http%3A//www.bookworld.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Bookworld
 
@@ -10,7 +10,9 @@ As a result of its purchase of Borders, Pearson Australia Group collected and he
 
 On 1 July 2013 Penguin and Random House officially united to create Penguin Random House, the world’s first truly global trade book publisher. As a result Penguin Australia Pty Ltd became a local subsidiary, and Bookworld became a division of Penguin Australia Pty Ltd Any personal information that Penguin Australia Pty Ltd now holds as a result the purchase of Borders, or that it will collect through the Bookworld site in the future, will be used, disclosed, managed and stored in accordance with Penguin Australia Pty Ltd’ privacy policy and you consent to Penguin Australia Pty Ltd handling your information as provided for in this policy.
 
-Below is a summary of Penguin Australia Pty Ltd privacy policy as it applies to the Bookworld business.
+In August 2015 the Bookworld business was purchased by Booktopia Pty Ltd.
+
+Below is a summary of Booktopia's privacy policy as it applies to the Bookworld business.
 
 **  
 Bookworld Citizens**
@@ -19,7 +21,7 @@ Upon registering as a Citizen will be automatically opted-in to receive communic
 
 **Privacy Policy**
 
-In this Privacy Policy, "us", "we" or "our" means Penguin Australia Pty Ltd ABN 21 162 605 745 and its divisions (including without limitation Penguin Group (Australia), Bookworld and Angus & Robertson) and related bodies corporate.
+In this Privacy Policy, "us", "we" or "our" means Booktopia Pty Ltd trading as Angus & Robertson Bookworld.
 
 We recognise the importance of privacy and are committed to protecting your privacy when handling your personal information.
 
@@ -89,8 +91,6 @@ In addition to the primary purpose outlined above, we may use the personal infor
 
 **How we disclose it**
 
-We may disclose personal information, and you consent to us disclosing your personal information, to other members of the Penguin Group (in which case, your personal information will be collected, used, disclosed and otherwise handled in accordance with this Privacy Policy and applicable privacy laws) located in other countries including the United States, the United Kingdom, China, New Zealand, South Africa, India, Canada and Ireland.
-
 We may also disclose personal information, and you consent to us disclosing your personal information, to third parties:
 
   * for purposes necessary or incidental to the provision of products or services to you including the disclosure of order details, tracking numbers and other transaction information to Google Inc. for processing and other use for the Google Certified Shops program;
@@ -126,14 +126,12 @@ Subscribers or members of our websites will generally be able to access, update 
 
 If you wish to access, update or correct any personal information that we hold about you, or if you have any questions or require a complaint dealt with about how we collect, use, disclose, store or otherwise handle your personal information, you can contact the department that collected your personal information in the first instance, or write to:
 
-The Privacy Officer  
-Penguin Australia Pty Ltd  
-Melbourne VIC 3008  
-Email: [privacy.officer@penguinrandomhouse.com.au](https://web.archive.org/web/20150619140621id_/https%3A//www.bookworld.com.au/mail%20to:%20privacy.officer@penguinrandomhouse.com.au)
+**What to do if you have a problem or question**  
+If Booktopia Pty Ltd becomes aware of any ongoing concerns or problems with the Angus & Robertson or Bookworld website, Booktopia Pty Ltd will work to address these concerns promptly. If you have any further queries relating to this Privacy Policy, or you have a problem or complaint, please contact Booktopia Pty Ltd by calling 1300 187 187 9am - 4pm AEST, Monday - Friday.
 
   1. **Why we collect your personal information**
 
-Penguin Australia Pty Ltd ABN 21 162 605 745 (“ **we** ”, “ **us** ” or “ **our** ”) collects personal information of an entrant (“ **you** ” or “ **your** ”) to include you in our Citizen’s database, to offer you promotions and offers, confirm or verify your identity, age, residential address or meet our legal or regulatory obligations. If you are under 18 years of age, we may collect the personal information of your parent or legal guardian to confirm or verify their identity or their consent. You will be given the opportunity to "opt out" from receiving such communications from us
+Booktopia (“ **we** ”, “ **us** ” or “ **our** ”) collects personal information of an entrant (“ **you** ” or “ **your** ”) to include you in our Citizen’s database, to offer you promotions and offers, confirm or verify your identity, age, residential address or meet our legal or regulatory obligations. If you are under 18 years of age, we may collect the personal information of your parent or legal guardian to confirm or verify their identity or their consent. You will be given the opportunity to "opt out" from receiving such communications from us
 
   2. **Consequences of not providing your personal information**
 
@@ -156,11 +154,11 @@ Our Privacy Policy is available on our website at <http://www.bookworld.com.au/p
 
 To the extent of any inconsistency between this Privacy Collection Statement and our Privacy Policy, this Privacy Collection Statement prevails.
 
-  5. **Our contact details**
+  5. **What to do if you have a problem or question**
 
-If you have any questions about our handling of your personal information, please contact the Privacy Officer by email to: privacy.officer@penguinrandomhouse.com.au, or by mail to: Penguin Australia Pty Ltd, 707 Collins Street, Docklands, Victoria 3008
-
-
+If Booktopia Pty Ltd becomes aware of any ongoing concerns or problems with the Angus & Robertson or Bookworld website, Booktopia Pty Ltd will work to address these concerns promptly. If you have any further queries relating to this Privacy Policy, or you have a problem or complaint, please contact Booktopia Pty Ltd by calling 1300 187 187 9am - 4pm AEST, Monday - Friday.
 
 
-Last Updated: 15 June 2015
+
+
+Last Updated: 15 September 2015
