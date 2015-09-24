@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buccaneers.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627211940id_/http%3A//www.buccaneers.com/footer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buccaneers.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924063426id_/http%3A//www.buccaneers.com/footer/privacy.html) for the most accurate reproduction.*
 
 # Tampa Bay Buccaneers | Privacy
 
