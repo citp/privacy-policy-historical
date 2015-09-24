@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mag.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629044132id_/http%3A//www.playstation.com/en-us/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mag.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924052116id_/http%3A//www.playstation.com/en-us/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Support - PlayStation.com
 
