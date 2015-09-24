@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the animebacon.tv privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609225418id_/http%3A//www.animebacon.tv/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animebacon.tv privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924130322id_/http%3A//animebacon.tv/privacy-policy.php) for the most accurate reproduction.*
 
 # Watch Anime Online | Watch English Subbed Anime & Dubbed Anime Episodes.
 
-This Privacy Policy governs the manner in which animebaconTV collects, uses, maintains and discloses information collected from users (each, a "User") of the [animebacon.tv](https://web.archive.org/web/20150609225418id_/http%3A//www.animebacon.tv/animebacon.tv) website ("Site"). This privacy policy applies to the Site and all products and services offered by animebaconTV.
+This Privacy Policy governs the manner in which animebaconTV collects, uses, maintains and discloses information collected from users (each, a "User") of the [animebacon.tv](https://web.archive.org/web/20150924130322id_/http%3A//animebacon.tv/animebacon.tv) website ("Site"). This privacy policy applies to the Site and all products and services offered by animebaconTV.
 
 **Personal identification information**
 
