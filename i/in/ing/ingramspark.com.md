@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ingramspark.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423124132id_/https%3A//www.ingramspark.com/Portal/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ingramspark.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924102202id_/https%3A//www.ingramspark.com/Portal/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Best Self Publishing Companies | IngramSpark
 
