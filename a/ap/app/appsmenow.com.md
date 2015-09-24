@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the appsmenow.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627210708id_/http%3A//www.appsmenow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appsmenow.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924125332id_/http%3A//appsmenow.com/privacy-policy) for the most accurate reproduction.*
 
-# New Apps, Top Apps, Price Drops, iOS News and App Reviews for iPhone and iPad | AppsMeNow
-
-Privacy Policy for www.appsmenow.com
+# Privacy Policy
 
 At www.appsmenow.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.appsmenow.com and how it is used.
 
@@ -27,27 +25,3 @@ www.appsmenow.com has no access to or control over these cookies that are used b
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.appsmenow.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
-
-Latest Reviews
-
-3.6
-
-$ 2.99
-
-3.7
-
-3.9
-
-3.7
-
-3.8
-
-$ 1.99
-
-3.6
-
-Total Apps Reviewd: 73,248  
-Total Apps Approved: 32,379  
-Total iPhone Apps: 31,948  
-Total iPad Apps: 30,960  
-Total Apple iWatch Apps: 0 
