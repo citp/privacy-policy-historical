@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rtcamp.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127124258id_/http%3A//rtcamp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rtcamp.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924040559id_/https%3A//rtcamp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,17 +13,24 @@
 
 
 
-**Log Files:**  
+ **Log Files:**  
 rtCamp makes use of log files (which includes IP addresses, type of browser, internet service providers, referrer, number of clicks etc) to understand user movements and demographics. Such information is not linked to any information that is personally identifiable.
 
-**Cookies:**
+ **Cookies:**
 
   * rtCamp use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
   * We will not sell, disseminate, disclose, trade, transmit, transfer, share, lease or rent any personally identifiable information to any third party not specifically authorized by you to receive your information except as we have disclosed to you in this Privacy Policy. However we may use such information to update you about promotional offers and updates from us.
 
 
 
-**Advertising:**
+ **Support**
+
+  * rtCamp gives support for premium products with Helpdesk. Helpdesk support requires raising a ticket on this website.
+  * All personal data, admin information is accessible only to the user who raises the ticket and rtCamp’s support team.
+
+
+
+ **Advertising:**
 
   * rtCamp has implemented and uses Display Advertising
   * rtCamp makes use of remarketing with Google Adwords and Google Analytics to advertise online
@@ -34,7 +41,7 @@ rtCamp makes use of log files (which includes IP addresses, type of browser, int
 
 
 
-**Changes in Our Privacy Policy:**  
+ **Changes in Our Privacy Policy:**  
 We reserve the right to change this Privacy Policy without providing you with advance notice of our intent to make the changes.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to us or email us at contact@rtcamp.com as soon as possible.
