@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsinjuryclinic.net privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627111526id_/https%3A//www.sportsinjuryclinic.net/about-us/disclaimer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsinjuryclinic.net privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924043626id_/http%3A//www.sportsinjuryclinic.net/about-us/disclaimer/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
