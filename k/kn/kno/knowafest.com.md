@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the knowafest.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611102820id_/http%3A//www.knowafest.com/2009/12/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowafest.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924124124id_/http%3A//www.knowafest.com/2009/12/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy : Advertise in knowafest.com, Campus Fests, College Fest : Know a Fest - Campus Festivals in India
+# Privacy Policy : Advertise in knowafest.com, Campus Fests, College Fest: Know a Fest - Campus Festivals in India
 
 **Knowafest.com privacy policy Highlights**
 
@@ -49,7 +49,4 @@ You may choose to restrict the collection or use of your personal information in
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.  
 You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to webmaster@knowafest.com.
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.  
-For more information on this college fest, please contact the event co-ordinators directly by logging into this website as mentioned above. Please drop your comments below if you have been to this college fest earlier or if you are planning to go this time. 
-
-We will send you more information on Privacy Policy and also other Cultural Fests, Technical Fests, Conferences, Workshops, Symposiums conducted all over India. 
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. 
