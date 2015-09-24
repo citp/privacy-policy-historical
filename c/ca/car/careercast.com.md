@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careercast.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429081130id_/http%3A//www.careercast.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careercast.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924150123id_/http%3A//www.careercast.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | CareerCast.com
 
