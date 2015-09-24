@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chromeactions.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614013643id_/http%3A//www.chromeactions.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chromeactions.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924143554id_/http%3A//www.chromeactions.com/privacy.html) for the most accurate reproduction.*
 
 # Magic Actions for YouTube™ | Privacy Policy
 
@@ -28,7 +28,7 @@ Any of the information we collect from you may be used to:
 
 Yes. Cookies are small pieces of data that a site or its service provider can save to your computers hard drive through your Web browser, if you allow. [Learn more](http://www.hotcleaner.com/cookie-wiper.html "About Cookies")
 
-Google, as a third party vendor, uses cookies to serve ads and measure how users interact with website content on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to this site and other sites on the Internet. You may [opt out](http://www.google.com/policies/technologies/ads/) of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+Google, as a third party vendor, [uses cookies](https://www.google.com/intl/en/policies/technologies/cookies/ "Learn more about cookies used by Google") to serve ads and measure how users interact with website content on our site. You may [opt out](http://www.google.com/settings/ads/anonymous) of the use of advertising cookies by visiting the Google ad and content network [privacy policy](http://www.google.com/policies/technologies/ads/).
 
 Also, we may collect and store information using [HTML5 local storage](http://www.hotcleaner.com/web_storage.html "Learn more about HTML5 local storage") and application data caches. We can use local storage to compile aggregate data about site traffic, site and apps interaction so that we can offer better site experiences and apps in the future. We do not store any personally identifiable information.
 
@@ -56,7 +56,7 @@ By using our website, products and services, you consent to this privacy policy 
 
 If we decide to change our privacy policy, we will update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change.
 
-This policy was last modified on **January 25, 2014**
+This policy was last modified on **August 30, 2015**
 
 ### Contact US
 
