@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theneodesign.com privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414055240id_/http%3A//theneodesign.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theneodesign.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924094956id_/http%3A//theneodesign.com/privacy) for the most accurate reproduction.*
 
 # Privacy | TheNeoDesign.com
 
