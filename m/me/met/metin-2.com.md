@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metin-2.com privacy policy that was archived on 2015-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150523035443id_/http%3A//agbserver.gameforge.com/enGB-Privacy-Metin2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metin-2.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924022129id_/http%3A//agbserver.gameforge.com/enGB-Privacy-Metin2.html) for the most accurate reproduction.*
 
 # Privacy Policy - Metin2 - Gameforge 4D GmbH
 
