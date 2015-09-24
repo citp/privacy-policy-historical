@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slotobar.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324061504id_/https%3A//slotobar.com/en/page/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slotobar.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924195849id_/https%3A//slotobar.com/en/page/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Slotobar.com
 
