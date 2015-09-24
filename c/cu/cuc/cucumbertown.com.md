@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cucumbertown.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318211056id_/http%3A//www.cucumbertown.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cucumbertown.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924211126id_/http%3A//www.cucumbertown.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Cucumbertown
 
@@ -18,7 +18,7 @@ We continually strive to find new ways to enhance your experience with the Websi
 
 ## 1\. Terms of Service.
 
-Use of the Website and the Cucumbertown Service is subject to the terms of our [Terms of Service](https://web.archive.org/tos), which is hereby incorporated into and made part of this Privacy Policy. Please carefully review our Terms of Service. By using the Website or the Cucumbertown Service, you agree to be bound by the terms of our Terms of Service.
+Use of the Website and the Cucumbertown Service is subject to the terms of our [Terms of Service](https://web.archive.org/tos/), which is hereby incorporated into and made part of this Privacy Policy. Please carefully review our Terms of Service. By using the Website or the Cucumbertown Service, you agree to be bound by the terms of our Terms of Service.
 
 ## 2\. Types and Uses of Collected Information.
 
