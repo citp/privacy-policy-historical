@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the mapmytalent.in privacy policy that was archived on 2013-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130112031547id_/http%3A//www.mapmytalent.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapmytalent.in privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924021723id_/http%3A//www.mapmytalent.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | mapmytalent.in
+# Online Aptitude Test, Personality Assessment & Expert Career Counseling at MapMyTalent
 
 This statement discloses the privacy practices for the website www.mapmytalent.in (the “Site”). By using the Site, you agree to the collection, use and disclosure of your personal information as described in this statement. If you do not agree to the terms of this statement, then please do not use the Site.
 
 BY USING THE SITE, YOU AGREE TO OUR COLLECTION, USE AND MAINTENANCE OF YOUR INFORMATION.
 
-If you have any questions regarding this Privacy Statement, please [contact us](https://web.archive.org/contact-us). 
+If you have any questions regarding this Privacy Statement, please [contact us](https://web.archive.org/contact-us).
 
 ## Collection of Information
 
