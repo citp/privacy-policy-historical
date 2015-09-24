@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the autoitscript.com privacy policy that was archived on 2014-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140808053731id_/http%3A//www.autoitconsulting.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoitscript.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924150624id_/http%3A//www.autoitconsulting.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AutoIt Consulting
-
-Privacy Policy for AutoIt Consulting Websites 
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
