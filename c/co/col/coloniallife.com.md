@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the coloniallife.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510053905id_/http%3A//www.coloniallife.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coloniallife.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924033341id_/http%3A//www.coloniallife.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
 We understand your privacy is important. We value our relationship with you and are committed to protecting the confidentiality of nonpublic personal information (NPI). This notice explains why we collect NPI, what we do with NPI and how we protect your privacy. 
 
-[PDF of this notice](https://web.archive.org/web/20150510053905id_/http%3A//www.coloniallife.com/~/media/11BC4E9E235D4761B9950C384EA44040.ashx)
+[PDF of this notice](https://web.archive.org/web/20150924033341id_/http%3A//www.coloniallife.com/~/media/11BC4E9E235D4761B9950C384EA44040.ashx)
 
 ### Collecting information 
 
@@ -48,6 +48,6 @@ For additional information about our commitment to privacy and to view a copy of
 
 Unum is providing this notice to you on behalf of the following insuring companies: Unum Life Insurance Company of America, First Unum Life Insurance Company, Provident Life and Accident Insurance Company, Provident Life and Casualty Insurance Company, Colonial Life & Accident Insurance Company, The Paul Revere Life Insurance Company and The Paul Revere Variable Annuity Insurance Company.
 
-© 2013 Unum Group. All rights reserved. Unum is a registered trademark and marketing brand of Unum Group and its insuring subsidiaries.
+© 2015 Unum Group. All rights reserved. Unum is a registered trademark and marketing brand of Unum Group and its insuring subsidiaries.
 
 [MK-1883](http://www.unum.com/PDF/forms.ashx?formID=MK-1883)
