@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pakistanztv.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408023807id_/http%3A//pakistanztv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakistanztv.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924160206id_/http%3A//pakistanztv.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | PakistanZtv.com
 
@@ -20,7 +20,7 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 Pakistsnz Tv may collect and use Users personal information for the following purposes:
 
-  * _\- To improve our Site_  
+  * _– To improve our Site_  
 We may use feedback you provide to improve our products and services.
 
 
