@@ -1,6 +1,18 @@
-> *The following text is extracted and transformed from the voilanorbert.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315090915id_/https%3A//www.voilanorbert.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voilanorbert.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924092020id_/https%3A//www.voilanorbert.com/privacy.html) for the most accurate reproduction.*
 
 # VoilaNorbert - Find anyone email address
+
+## Future changes
+
+Starting 2015/04/15, we will change this Privacy Policy in order to adapt for our future release.
+
+At this time, we will start collecting emails. Our future version will keep track of your search in order to help you find old searches without having to pay again.
+
+We will **respect the privacy of the emails** and they won't be shared with anyone except the owner.
+
+The sole purpose of keeping an history of searches is for our customer to be able to navigate through their entire dataset of emails.
+
+* * *
 
 This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
@@ -120,4 +132,4 @@ If there are any questions regarding this privacy policy you may contact us usin
     
     www.voilanorbert.com - Belfort - France - contact@voilanorbert.com
 
-Last Edited on 2014-11-05
+Last Edited on 2015-03-20
