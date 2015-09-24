@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailomo.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626015418id_/http%3A//www.dailomo.com/dailomo-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailomo.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924072512id_/http%3A//www.dailomo.com/dailomo-privacy-policy) for the most accurate reproduction.*
 
 # Dailomo Privacy Policy
 
@@ -58,14 +58,6 @@ In order to keep our members informed about the operation of our services, we wi
 
 We use personal information to:
 
-Your ads will be inserted here by
-
- **Easy Plugin for AdSense**.
-
-Please go to the plugin admin page to  
- _Paste your ad code_ OR  
-_Suppress this ad slot_.
-
 1\. Help us provide personalized features   
 2\. Tailor our sites to your interest   
 3\. Get in touch with you when necessary 
@@ -115,9 +107,3 @@ Although we will endeavor to safeguard the confidentiality of your personally id
 To correct or update any information you have provided, our sites give you the following options for changing:
 
 Send an e-mail to Dailomo [at] Dailomo [dot] com
-
-#### Incoming search terms:
-
-  * [DailomoPrivacyPolicy](http://www.dailomo.com/dailomo-privacy-policy/ "DailomoPrivacyPolicy")
-
-
