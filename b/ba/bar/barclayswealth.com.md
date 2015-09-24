@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the barclayswealth.com privacy policy that was archived on 2015-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150402093526id_/https%3A//wealth.barclays.com/en_gb/home/others/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barclayswealth.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924201259id_/https%3A//wealth.barclays.com/en_gb/home/others/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Barclays
 
-  * [Others](https://web.archive.org/en_gb/home/others.html)
+  * Others
   * Privacy policy
 
 
