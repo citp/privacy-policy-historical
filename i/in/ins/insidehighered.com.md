@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insidehighered.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629055459id_/https%3A//www.insidehighered.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidehighered.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924033715id_/https%3A//www.insidehighered.com/content/privacy) for the most accurate reproduction.*
 
 # Privacy | Inside Higher Ed
 
