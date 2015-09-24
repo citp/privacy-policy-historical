@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getlighthouse.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319060248id_/https%3A//getlighthouse.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getlighthouse.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924133106id_/https%3A//getlighthouse.com/privacy) for the most accurate reproduction.*
 
 # Getlighthouse
 
