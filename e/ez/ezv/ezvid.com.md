@@ -1,9 +1,18 @@
-> *The following text is extracted and transformed from the ezvid.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316084132id_/http%3A//www.ezvid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezvid.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924142833id_/http%3A//www.ezvid.com/privacy) for the most accurate reproduction.*
 
 # www.ezvid.com | Privacy Policy
 
-**AMAZON**  
-Ezvid is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
+**LINKS TO MERCHANTS FROM THIS WEBSITE**  
+Ezvid is a participant in the Amazon Services LLC Associates Program, Walmart Affiliates, the Ebay Partner Program, Target Affiliates, and other affiliate advertising programs designed to provide a means for sites to earn advertising fees by advertising and linking to merchant websites. When you click links from our website to these and other merchants and make purchases, we may be compensated. This will not increase your purchase price, which will be the same as any direct visitor to the merchant’s website. 
+
+**PRODUCTS RECOMMENDED ON THIS WEBSITE**  
+Information provided by Ezvid is general in nature and is not intended to be a substitute for professional advice. All reviews of third party products and services are provided as journalistic opinions only. 
+
+All information is provided “as is.” While we try to provide accurate information, we make no claims, promises, or guarantees about the accuracy or completeness of the information provided by Ezvid. Information provided by Ezvid may be altered at any time without notice. Ezvid disclaims any responsibility associated with the general information it provides on any of its pages.
+
+Visitors use Ezvid content solely at their own risk. In no event shall Ezvid be liable to any third party for damages related to using or not using its content whether claims are advanced on contract, tort, or other legal theories.
+
+Ezvid does not endorse any product, service, seller, or provider mentioned in any of its articles or associated advertisements.
 
 **THIRD PARTY ADVERTISING**  
 We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out [this page](http://www.networkadvertising.org/managing/opt_out.asp)
@@ -46,4 +55,4 @@ Ezvid Inc.
 Los Angeles CA 90068  
 info@ezvid.com
 
-Copyright © 2014 Ezvid, Inc. All Rights Reserved.
+Copyright © 2015 Ezvid, Inc. All Rights Reserved.
