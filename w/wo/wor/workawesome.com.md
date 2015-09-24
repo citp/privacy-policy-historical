@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workawesome.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315191803id_/http%3A//workawesome.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workawesome.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924232441id_/http%3A//workawesome.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Work Awesome
 
