@@ -1,28 +1,33 @@
-> *The following text is extracted and transformed from the sabian.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429170455id_/http%3A//www.sabian.com/EN/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sabian.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924054447id_/http%3A//sabian.com/en/pages/privacy) for the most accurate reproduction.*
 
-# SABIAN Cymbals - Privacy Policy
+# Privacy | SABIAN Cymbals
 
-SABIAN considers your personal privacy an important priority.  We have created this information policy because we have a fundamental respect for our members' right to privacy.
+SABIAN LTD. PRIVACY POLICY
 
- The information collected on the Zone members is only for the use of SABIAN and its designated agents to better understand and serve its customers.  We will not sell or otherwise provide this information to other companies or other individuals.
+This Privacy Policy will apply to the website that you are visiting, www.SABIAN.com, SABIAN.de, SABIAN.es (the “Website”), which is owned by SABIAN LTD. (the “Company”).
 
- This information is collected through direct questionnaires filled out on the site, and linked to Zone member files.  Other information collected in digital polls is not linked to Zone member files and is anonymous.
+Company and its subsidiary companies respect the privacy rights of our online visitors and recognize the importance of protecting the information collected from you. We have adopted a corporate wide Privacy Policy that guides how we collect, store and use the information you provide online. Please note that this policy applies only to sites maintained by Company and its subsidiaries, and not to websites maintained by other companies or organizations to which we link.
 
- SABIAN encourages the interest of children in various aspects of music.  We are pleased that children may be interested in SABIAN products and in drumming, although the Zone and the site as a whole is not directed at children.  We are aware that children may not be able to make informed choices about use of the Internet, or about providing personal information on line.  SABIAN encourages parents to take an active role in monitoring their children's use of this Site, and of the Internet in general.  Parents of children under the age of 13 are requested to provide consent before we can establish a membership and accept information from children in the zone.  Parents are also welcome to see the information that has been collected in their child's Zone member profile page, and have the right to delete or change the information provided.  The exact date of birth is required only to determine which potential Zone members are under the age of 13.  This information is not retained by SABIAN in any form and is not used for any other purpose.
+If you have questions or concerns regarding this statement, you should first contact Company at the email address or postal address specified on the Website.
 
- Any member can access their profile (username and password required) from 'The Zone' section of www.sabian.com.  A member may see their personal information currently on file, and have the option of making changes to this information as required.
+INFORMATION COLLECTION AND USE
 
- Should a member choose to discontinue their membership, SABIAN will delete the identifiable personal information on file in respect of that member, in the course of removing the membership.
+Our primary goal in collecting personally identifiable information is to provide you with the products and services made available through the Website, including, but not limited to our services, to communicate with you, and to manage your registered user account, if you have one.
 
- Data transmission and storage on the Internet cannot be guaranteed to be 100% secure, and SABIAN does not make such a guarantee.  SABIAN safeguards the personal information provided by Zone members by using industry-standard methods and technology to protect against the loss, misuse or alteration of such information.
+Information Collected Upon Registration: If you desire to have access to certain restricted sections of the Website, you will be required to become a registered user, and to submit certain personally identifiable information to Company. This happens in a number of instances, such as when you sign up for our services, or if you desire to receive marketing materials and information. Personally identifiable information that we may collect in such instances may include your full name, username, password, email address, address, time zone, telephone number, gender, and other information that you decide to provide us with, or that you decide to include in your public profile.
 
- If you have any questions, please contact us:
+Use of Contact Information: We will NOT use your personal information to provide marketing materials to you. We respect your privacy and will not use your information or provide it to any third party for marketing purposes.
 
- Web Site Manager SABIAN Ltd.  
-219 Main Street  
-Meductic, NB E6H 2L5  
-Canada  
-Tel. 506-272-2019  
-Fax 506-272-2081  
-sabian@sabian.com  
-Thank you for joining our Forums.
+Log Data: When you visit the Website, our servers automatically record information that your browser sends whenever you visit a website as Log Data. This Log Data may include information such as your IP address, browser type or the domain from which you are visiting, the websites you visit, the search terms you use, and any advertisements on which you click. For most users accessing the Internet from an Internet service provider the IP address will be different every time you log on. We use Log Data to monitor the use of the Website and of our Service, and for the Website’s technical administration. We do not associate your IP address with any other personally identifiable information to identify you personally, except in case of violation of the Terms of Service.
+
+Your Account: If you use this site, you are responsible for maintaining the confidentiality of your account and password and for restricting access to your computer, and you agree to accept responsibility for all activities that occur under your account or password. Company reserves the right to refuse service, terminate accounts, remove or edit content, or cancel orders in their sole discretion.
+
+Cookies: We use cookies and other technologies to passively collect demographic information, personalize your experience on our site and monitor advertisements and other activities. Cookies are small files downloaded to your computer to track movements within web sites. We may link cookie information to personal information. Cookies link to information regarding what items you have selected for purchase at our store or pages you have viewed. This information is used to keep track of your shopping cart and make sure you don’t see the same ad repeatedly. Also, we use cookies to deliver content specific to your interest and to monitor Website usage. Some of our sites use an outside ad company to display ads. These ads may contain cookies. Our ad companies collect cookies received with banner ads, and Company does not have access to this information. Most browsers are automatically set to accept cookies whenever you visit a website. You can disable cookies or set your browser to alert you when cookies are being sent. However some areas of our sites will not function properly if you do so. Please note that this privacy policy covers the use of cookies by Company only and does not cover the use of cookies by any advertisers.
+
+Third Party Services: Users may register for other services from our Website. Certain products and/or services available on our Website are provided to you in partnership with third parties’ and may require you to disclose personally identifiable information in order to register for and access such products and/or services. Such products and/or services shall identify the third party partners at the point of registration. If you elect to register for such products and/or services, your personally identifiable information will be transferred to such third parties’ and will be subject to the privacy policy and practices of such third parties’. We are not responsible for the privacy practices and policies of such third parties’ and, therefore, you should review the privacy practices and policies of such third parties’ prior to providing your personally identifiable information in connection with such products and/or services.
+
+Service Providers: We engage certain trusted third parties to perform functions and provide services to us, including, without limitation, hosting and maintenance, customer relationship, database storage and management, and direct marketing campaigns. We will share your personally identifiable information with these third parties, but only to the extent necessary to perform these functions and provide such services, and only pursuant to binding contractual obligations requiring such third parties to maintain the privacy and security of your data.
+
+Law Enforcement: We cooperate with government and law enforcement officials or private parties to enforce and comply with the law. We may disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims, legal process (including subpoenas), to protect the property and rights of Company or a third party, the safety of the public or any person, to prevent or stop any illegal, unethical, or legally actionable activity, or to comply with the law.
+
+Business Transfers: We may sell, transfer or otherwise share some or all of its assets, including your personally identifiable information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. You will have the opportunity to opt out of any such transfer if the new entity’s planned processing of your information differs materially from that set forth in this Privacy Policy.
