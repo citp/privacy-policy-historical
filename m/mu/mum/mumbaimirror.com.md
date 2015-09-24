@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mumbaimirror.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626213209id_/http%3A//www.mumbaimirror.com/privacypolicy.cms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mumbaimirror.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924084742id_/http%3A//www.mumbaimirror.com/privacypolicy.cms) for the most accurate reproduction.*
 
 # Mumbai News – Latest & Breaking Mumbai News | Mumbai Mirror
 
