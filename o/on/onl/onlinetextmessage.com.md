@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinetextmessage.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407072419id_/http%3A//www.onlinetextmessage.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinetextmessage.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924022700id_/http%3A//www.onlinetextmessage.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy For OnlineTextMessage.com
 
@@ -47,31 +47,6 @@ Enter your email/phone number to block its use on this site.
 
 | 
 
-OnlineTextMessage.com - 253,391,459 Messages Sent  
+OnlineTextMessage.com - 268,061,583 Messages Sent  
   
----  
-| 
-
-Mobile Number (to): (XXXXXXXXXX)  
-  
----  
-  
-Your E-Mail Address (from):  
-  
-**Remember email?**  
-  
-Subject:  
-  
-|   
-  
-Select Carrier:  
-  
-Insert Quick Text:  
-  
-Enter Message:  
-  
-  
-**100** of 100 characters left.  
-  
-  
-Bookmark Us For Later 
+---
