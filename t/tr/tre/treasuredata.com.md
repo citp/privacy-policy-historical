@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the treasuredata.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626070555id_/http%3A//www.treasuredata.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the treasuredata.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924143513id_/http%3A//www.treasuredata.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Treasure Data
 
