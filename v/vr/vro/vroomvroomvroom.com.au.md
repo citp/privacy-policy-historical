@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vroomvroomvroom.com.au privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607174243id_/http%3A//www.vroomvroomvroom.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vroomvroomvroom.com.au privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924160545id_/https%3A//www.vroomvroomvroom.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Cheap Car Hire Australia > Avis,Budget,Europcar,Hertz,Thrifty.
 
@@ -102,9 +102,9 @@ Information is also generated whenever a page is accessed on our website that re
 
 Our website also collects cookies for use by analytics services, such as Google Analytics. These services use cookies and scripts to collect and store information, including how users interact with our website, errors users encounter when using our website, device identifiers, how often users visit the website, what pages they visit, and what other sites they used prior to coming to the website. We use the information we get from Google Analytics only to improve our website and our services. Please see the following links for more information about Google Analytics:
 
-•   <http://www.google.com/privacy_ads.html;>  
-•   <http://www.google.com/privacy.html;> and  
-•   <http://www.google.com/analytics/tos.html.>
+•   <http://www.google.com/privacy_ads.html>  
+•   <http://www.google.com/privacy.html>  
+•   <http://www.google.com/analytics/tos.html>
 
 We do not tie the information gathered using third party analytics to your personal information.
 
