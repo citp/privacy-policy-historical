@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the liftweightsfaster.com privacy policy that was archived on 2014-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140720182454id_/http%3A//www.liftweightsfaster.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liftweightsfaster.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924073010id_/http%3A//www.liftweightsfaster.com/privacy-policy) for the most accurate reproduction.*
 
-# Lift Weights FasterPrivacy Policy | Lift Weights Faster
+# Privacy Policy - Lift Weights Faster
 
 Official Contest Rules
 
@@ -20,7 +20,7 @@ Entry in the Contest constitutes entrant’s full and unconditional agreement to
 
 4\. Contest Period
 
-The Contest begins on 2014-03-11 00:00:00 and ends on 2014-03-17 19:00:00 (the “Contest Period”). Entries that are submitted before or after the Contest Period will be disqualified. Submissions will be accepted for the duration of the Contest Period.
+The Contest begins on 2015-03-03 00:00:00 and ends on 2014-03-10 10:00:00 (the “Contest Period”). Entries that are submitted before or after the Contest Period will be disqualified. Submissions will be accepted for the duration of the Contest Period.
 
 5\. How to Enter
 
@@ -28,7 +28,7 @@ You may enter the Contest in either of the following ways:
 
 Online: You may enter by visiting our website at the following hyperlink: http://www.liftweightsfaster.com/, and following the directions provided to fill out and submit the required entry information. By entering the Contest online, you understand that you will be automatically subscribed to our mailing list, and may receive communications from us from time to time in the future, and you expressly consent to agree to such subscription and communications.
 
-Alternate Method of Entry – By Mail: You may also enter by filling out a standard postcard, postage prepaid, setting forth [the words "Compelling headline goes that summarizes the prize! Entry", your first and last name, address, city, state, zip code, e-mail address, year and date of birth], and mailing it to [2100-B Lyndale Ave S, Minneapolis, MN 55405, Attn: Jen Sinkler]. If you enter through this alternative method of entry, you will not be subscribed to our mailing list.
+Alternate Method of Entry – By Mail: You may also enter by filling out a standard postcard, postage prepaid, setting forth [the words “Compelling headline goes that summarizes the prize! Entry”, your first and last name, address, city, state, zip code, e-mail address, year and date of birth], and mailing it to [2100-B Lyndale Ave S, Minneapolis, MN 55405, Attn: Jen Sinkler]. If you enter through this alternative method of entry, you will not be subscribed to our mailing list.
 
 Limite one (1) submitted entry per person for the duration of the Contest Period, regardless of method of submission. Entries received in excess of the stated limitation will be void. However, for each friend you persuade to enter the Contest, and to designate you as a referrer, you will receive 10 additional “entries” or chance(s) to win. All entries become the property of the Sponsor and will not be acknowledged or returned.
 
