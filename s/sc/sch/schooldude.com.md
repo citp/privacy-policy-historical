@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schooldude.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323210750id_/https%3A//www.schooldude.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schooldude.com privacy policy that was archived on 2015-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150925050428id_/https%3A//www.schooldude.com/privacy) for the most accurate reproduction.*
 
 # Cloud Operations Software for Schools - SchoolDude
 
