@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the polk.edu privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527063119id_/http%3A//www.polk.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polk.edu privacy policy that was archived on 2015-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150925080123id_/http%3A//www.polk.edu/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy ‹ Polk State College
+# Privacy Policy | Polk State College
 
 Thank you for visiting Polk State College. Your privacy is very important to us. Simply stated, our policy is to collect no personal information about you when you visit Polk State College’s website, unless you affirmatively choose to make such information available to us.
 
