@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the quotewizard.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614054722id_/http%3A//quotewizard.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quotewizard.com privacy policy that was archived on 2015-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150925210523id_/https%3A//quotewizard.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | QuoteWizard
 
-_This privacy policy was last updated on February 5th, 2015_
+_This privacy policy was last updated on September 1st, 2015_
 
 QuoteWizard is committed to protecting your private information. This Privacy Statement describes the information that we collect when you visit one of our sites. It also describes how we use that information, and how you can update it. We reserve the right to append or otherwise modify this Privacy Statement at any time. Please re-visit this page occasionally to check for updates.
 
@@ -28,7 +28,7 @@ Some information is automatically sent to QuoteWizard by your browser or Interne
 
 This information allows us to see how users are finding our sites, and which pages are visited the most often. We can then use this information to make our web sites more useful and more user-friendly.
 
-### >Third Party Advertisers
+### Third Party Advertisers
 
 QuoteWizard works with third party advertisers and other vendors to serve ads and collect data on our sites. These companies may use information (including your name, address, email address, or telephone number) about your visits to these and other websites in order to provide advertisements on these sites and other websites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
@@ -63,6 +63,10 @@ The company respects the privacy of users visiting our sites and will abide by a
 ### Our Security Measures
 
 Our web sites have security measures in place to protect against the loss, misuse, and/or alteration of the information under our control.
+
+### Opt-out
+
+If you no longer desire to receive communications from us, you may opt-out by emailing our Customer Support at consumerinquiries@qw-corp.com or by contacting us by postal mail at quotewizard.com, 157 Yesler Way Suite 400, Seattle, WA 98104.
 
 ### Why We Use "Cookies"
 
