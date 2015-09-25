@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the gov.ab.ca privacy policy that was archived on 2015-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150525001204id_/http%3A//alberta.ca/privacystatement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gov.ab.ca privacy policy that was archived on 2015-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150925211208id_/http%3A//www.alberta.ca/privacystatement.cfm) for the most accurate reproduction.*
 
 # Government of Alberta Privacy Statement
 
 ### Know what information may be collected from you when you visit a Government of Alberta website.
 
-The Government of Alberta is committed to ensuring your privacy while you visit this site. All information is collected in compliance with section 33 (c) of the Freedom of Information and Protection of Privacy (FOIP) Act.
+The Government of Alberta is committed to ensuring your privacy while you visit this site. All information is collected in accordance with section 33 (c) of the Freedom of Information and Protection of Privacy (FOIP) Act.
 
 ## Collection of information
 
-We maintain our websites to help the public find information about the government and its services. When you visit this site, our web server automatically collects a limited amount of standard information essential to the operation and evaluation of the site. This information is not used to identify individuals who come to the site. None of this information is disclosed to other public bodies or individuals.
+Information collected on this website is only used for the purpose of assisting the public with finding information about the government and its services. When you visit this site, our web server automatically collects a limited amount of standard information essential to the operation and evaluation of the site. This information is not used to identify individuals who come to the site. None of this information is disclosed to other public bodies or individuals.
 
 The information that is collected identifies the following:
 
@@ -26,11 +26,23 @@ The only information we may use to identify you is the information you give volu
 
 This personal information is disclosed only to the authorized personnel who use it to process and respond to your request.
 
-While the personal information you send is secure once it reaches the government server, it may not be secure in transit between your computer and ours. For more information about any of the policies described above, please contact:
+While the personal information you send is secure once it reaches the government server, it may not be secure in transit between your computer and ours.
 
-Manager, Digital Communications  
-Tel: 780-427-9263  
-Email: [internetcomm@gov.ab.ca](mailto:internetcomm@gov.ab.ca)
+For more information about any of the policies described above, please contact:
+
+ **[Email](mailto:internetcomm@gov.ab.ca)**
+
+ **Mail**
+
+Director, Digital Communications  
+7th fl Federal Building  
+9820 - 107 Street  
+Edmonton, AB  
+T5K 1E7
+
+ **Phone**
+
+780-427-2754 
 
 ## Cookies
 
