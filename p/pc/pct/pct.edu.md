@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pct.edu privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315122120id_/http%3A//www.pct.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pct.edu privacy policy that was archived on 2015-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150925200217id_/https%3A//www.pct.edu/about/privacy) for the most accurate reproduction.*
 
 # Privacy - Pennsylvania College of Technology
 
@@ -12,7 +12,7 @@ Penn College collects information at several different points on our website inc
 
 ##### Student Information System (SIS)
 
-You will use your Penn College username and password to log in to SIS. Information obtained via SIS includes personal information such as addresses and home information, grades, and account/billing information. You are encouraged to protect the privacy of your login credentials throughout your college career. Sharing network usernames and passwords is a violation of [Penn College's Acceptable Use Policy](https://web.archive.org/its/policy.htm).
+You will use your Penn College username and password to log in to SIS. Information obtained via SIS includes personal information such as addresses and home information, grades, and account/billing information. You are encouraged to protect the privacy of your login credentials throughout your college career. Sharing network usernames and passwords is a violation of [Penn College's IT Resources Acceptable Use Policy](https://web.archive.org/campuslife/its/policy.htm).
 
 ##### Registrar
 
@@ -44,7 +44,7 @@ Read [Crescendo's privacy statement](http://www.pctgift.org/?pageID=98) for more
 
 ##### Alumni Information Update
 
-Alumni Relations offers an Information Update form to maintain current contact information and supply information for [Class Notes](https://web.archive.org/oca/classNotes.aspx) published in _One College Avenue_. Alumni may elect to opt out of e-mail from the Alumni Relations office.
+Alumni Relations offers an Information Update form to maintain current contact information and supply information for [Class Notes](https://www.pct.edu/oca/classNotes.aspx) published in _One College Avenue_. Alumni may elect to opt out of e-mail from the Alumni Relations office.
 
 We have also asked alumni, on occasion, to act as ambassadors for the College, to appear and give testimony for our publications and website, and to offer tours during College events such as Open Houses.
 
@@ -56,13 +56,13 @@ We request information from the user when the user chooses to ask a question of 
 
 If a user elects to use our "Send this recipe to a friend" option for informing a friend about a recipe, we ask them for the friend's name and e-mail address only. We will send the friend a one-time e-mail inviting them to visit the site. We store this information for the sole purpose of sending this one-time-only e-mail.
 
-##### College Store
+##### The College Store
 
 The College contracts with Missouri Bookstore to provide online shopping cart technology for purchases. The user's e-mail address will not be shared with anyone, and the user will receive no correspondence unless it relates directly to a question or order. Missouri Bookstore uses secure SSL technology to secure all transactions.
 
 #####  Workforce Development & Continuing Education
 
-We accept online registrations for non-credit classes taught through our Workforce Development & Continuing Education office. The information is used solely for registration purposes. Also, because we accept credit card payment, this site is secured.
+We accept online registrations for noncredit classes taught through our Workforce Development & Continuing Education office. The information is used solely for registration purposes. Also, because we accept credit card payment, this site is secured.
 
 #####  Wildcat Wishes
 
@@ -86,7 +86,7 @@ The College uses Google Custom Search for providing customized search results. S
 
 ##### Cookies
 
-A cookie is a piece of data stored on the user's hard drive, and contains information about the user. Usage of a cookie on the College’s public web site ([www.pct.edu](http://www.pct.edu/)) is in no way linked to any personally identifiable information while on our site. The cookie we use will stay on the user's hard drive. If a user rejects the cookie, they may still use our site with no limitations. Cookies on our site are used solely for the purpose of tracking the progress of visitors to our site.
+A cookie is a piece of data stored on the user's hard drive, and contains information about the user. Use of a cookie on the College’s public website ([www.pct.edu](http://www.pct.edu/)) is in no way linked to any personally identifiable information while on our site. The cookie we use will stay on the user's hard drive. If a user rejects the cookie, they may still use our site with no limitations. Cookies on our site are used solely for the purpose of tracking the progress of visitors to our site.
 
 ##### Log Files/IP Addresses
 
@@ -98,7 +98,7 @@ We request your e-mail address only to allow us to respond to your messages, or 
 
 ## Links
 
-This website contains links to other sites. Pennsylvania College of Technology is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this website.
+This website contains links to other sites, and these links are designed to open all external websites in a new browser window. Pennsylvania College of Technology is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this website.
 
 ## Notification of Change
 
@@ -106,4 +106,4 @@ The College will occasionally update this Statement. Those changes will be poste
 
 ## How to Report Privacy Violations
 
-You may report violations of this statement to [Privacy](https://web.archive.org/web/20150315122120id_/http://www.pct.edu/privacy/contact.asp).
+You may report violations of this statement with the form below.
