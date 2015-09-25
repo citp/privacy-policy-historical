@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peoplesinnovation.com privacy policy that was archived on 2015-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150416221444id_/http%3A//peoplesinnovation.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peoplesinnovation.com privacy policy that was archived on 2015-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150925173638id_/http%3A//peoplesinnovation.com/privacy.php) for the most accurate reproduction.*
 
 # None
 
