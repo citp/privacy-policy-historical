@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ometria.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323130253id_/https%3A//www.ometria.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ometria.com privacy policy that was archived on 2015-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150925150758id_/https%3A//www.ometria.com/privacy-policy) for the most accurate reproduction.*
 
 # Privary Policy
 
