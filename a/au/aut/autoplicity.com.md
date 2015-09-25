@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the autoplicity.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314232826id_/http%3A//autoplicity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoplicity.com privacy policy that was archived on 2015-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150925235303id_/http%3A//autoplicity.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy. Autoplicity.com | Discount Performance and OEM Auto Parts, 100% In Stock
+# Privacy policy | Autoplicity
 
 **Autoplicity Privacy Policy**  
 The following states the Autoplicity.com policy regarding the privacy rights of visitors to this website. We respect your right to privacy and your desire for a secure online shopping experience. Autoplicity can be reached by telephone at 1-800-299-1028.
