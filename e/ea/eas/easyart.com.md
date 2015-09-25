@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the easyart.com privacy policy that was archived on 2015-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150213010435id_/http%3A//www.easyart.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyart.com privacy policy that was archived on 2015-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150925123333id_/https%3A//www.kingandmcgaw.com/help/privacy) for the most accurate reproduction.*
 
-# Privacy Policy Easyart.com
+# Privacy Policy at King & McGaw
 
 ## Effective Date: 01 February 2011
 
 ### Privacy Policy
 
-Easyart ("We") are committed to protecting and respecting your privacy.
+King & McGaw ("We") are committed to protecting and respecting your privacy.
 
 Our Privacy Policy is designed to assist you, businesses, consumers and the general public, in understanding how we collect and use the personal information you give us. It sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. We also want to help you make informed decisions when using our web site and all of our related services therein. 
 
@@ -14,11 +14,11 @@ Please read the following carefully to understand our views and practices regard
 
 ### Contact Information
 
-To request a correction or deletion of your private information, or if you have any questions and general comments about this privacy policy, please contact us at [customercare@easyart.com](mailto:customercare@easyart.com).
+To request a correction or deletion of your private information, or if you have any questions and general comments about this privacy policy, please contact us at [customercare@kingandmcgaw.com](mailto:customercare@kingandmcgaw.com).
 
 #### Address
 
-Easyart
+King & McGaw
 
 Unit 12 E Plan Estate  
 New Road  
@@ -36,15 +36,15 @@ BN9 0EX
 
 #### Email:
 
-[customercare@easyart.com](mailto:customercare@easyart.com)
+[customercare@kingandmcgaw.com](mailto:customercare@kingandmcgaw.com)
 
 ### What Information Do We Collect?
 
 We may collect and process the following data items related to you:
 
-  1. Information that you provide by filling in forms on our site www.easyart.com (our site). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information when you report a problem with our site.
+  1. Information that you provide by filling in forms on our site www.kingandmcgaw.com (our site). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information when you report a problem with our site.
   2. If you contact us, we may keep a record of that correspondence.
-  3. Easyart may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
+  3. King & McGaw may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
   4. Details of transactions you carry out through our site and of the fulfilment of your orders.
   5. Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
 
@@ -83,8 +83,8 @@ We may disclose your personal information to any member of our group, which mean
 ### We may disclose your personal information to third parties:
 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
-  * If Easyart or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use or [terms and conditions of supply](https://web.archive.org/help/terms) and other agreements; or to protect the rights, property, or safety of Easyart, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * If King & McGaw or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use or [terms and conditions of supply](https://web.archive.org/help/terms) and other agreements; or to protect the rights, property, or safety of King & McGaw, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
 
@@ -108,7 +108,7 @@ Where we have given you (or where you have chosen) a password which enables you 
 
 ### Your rights
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [customercare@easyart.com](mailto:customercare@easyart.com).
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [customercare@kingandmcgaw.com](mailto:customercare@kingandmcgaw.com).
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
@@ -122,13 +122,13 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 ### Contact
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [customercare@easyart.com](mailto:customercare@easyart.com).
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [customercare@kingandmcgaw.com](mailto:customercare@kingandmcgaw.com).
 
 ## Cookies: Information and Policy
 
-Easyart's websites use cookies. Cookies are pieces of code that allow small amounts of information to be passed from your internet browser to our web server. Easyart use our own cookies, as well as those from third parties, serving several purposes. They allow us to remember whether you are logged in to the site, to remember what items you had in your shopping basket, to serve you with content tailored specifically for you and to help us learn about how you like to use our website and where we can make it better.
+King & McGaw's websites use cookies. Cookies are pieces of code that allow small amounts of information to be passed from your internet browser to our web server. King & McGaw use our own cookies, as well as those from third parties, serving several purposes. They allow us to remember whether you are logged in to the site, to remember what items you had in your shopping basket, to serve you with content tailored specifically for you and to help us learn about how you like to use our website and where we can make it better.
 
-Easyart will never disclose your personal details to any third parties. All data passed by cookies is anonymous and will never contain your name, address, telephone number, email address, IP address or payment details.
+King & McGaw will never disclose your personal details to any third parties. All data passed by cookies is anonymous and will never contain your name, address, telephone number, email address, IP address or payment details.
 
 You can learn more about cookies, how we use them, how to manage them and about our third party partnerships below.
 
@@ -150,7 +150,7 @@ Note:
 
 
 
-### Why does Easyart use cookies?
+### Why does King & McGaw use cookies?
 
 Cookies allow us to present you with relevant products and services that are based on the way that you want to use our website, providing you with an enhanced browsing and shopping experience.
 
@@ -162,7 +162,7 @@ Third party cookies and web beacons are also used with our marketing partners to
 
 Note:
 
-  * Easyart's cookies and those of our third party partners will never be used to collect any personal data. This includes your name, address, telephone number, email address, credit card information or any other payment details.
+  * King & McGaw's cookies and those of our third party partners will never be used to collect any personal data. This includes your name, address, telephone number, email address, credit card information or any other payment details.
 
 
 
@@ -174,7 +174,7 @@ Cookies can also be deleted using your internet browser. However, unless they ar
 
 Note:
 
-  * In common with most other transactional websites, refusing cookies via your web browser will mean that you are unable to make a transactional purchase on Easyart's websites. You will also find that the functionality of many other websites and services will be affected.
+  * In common with most other transactional websites, refusing cookies via your web browser will mean that you are unable to make a transactional purchase on King & McGaw's websites. You will also find that the functionality of many other websites and services will be affected.
 
 
 
@@ -182,22 +182,15 @@ Disallowing cookies will prevent web beacons from tracking your specific activit
 
 For more detailed information about cookies and web beacons please visit [www.allaboutcookies.org](http://allaboutcookies.org/).
 
-### Where exactly do Easyart use cookies?
+### Where exactly do King & McGaw use cookies?
 
-Cookies are used by all Easyart transactional websites:
+Cookies are used by all King & McGaw transactional websites.
 
-  * [www.easyart.com](http://www.easyart.com/)
-  * [www.easyart.de](http://www.easyart.de/)
-  * [www.easyart.fr](http://www.easyart.fr/)
-  * [www.easyart.de](http://www.easyart.se/)
-
-
-
-There are two types of cookie that may be used during your visit to an Easyart website:
+There are two types of cookie that may be used during your visit to an King & McGaw website:
 
 ### 1\. Session cookies
 
-Session cookies are deleted after each 'session'. For example, when you are browsing an Easyart website, it will remember you for the duration of your visit, but the cookie will be removed from your computer as soon as you close down your internet browser.
+Session cookies are deleted after each 'session'. For example, when you are browsing an King & McGaw website, it will remember you for the duration of your visit, but the cookie will be removed from your computer as soon as you close down your internet browser.
 
 Without a session cookie, every time you open a new web page the web server where that page is stored will treat you like a completely new visitor and items placed in your shopping basket will disappear by the time you reach the checkout.
 
@@ -205,29 +198,28 @@ Without a session cookie, every time you open a new web page the web server wher
 
 Persistent cookies remember you for a set period of time (unless you delete them).
 
-On your first visit to an Easyart site, you will be presented the site in a default manner. Over time, the version of the site you see may change, as persistent cookies remember items you have viewed, preference changes you have made, or whether you logged into or out of your account while browsing.
+On your first visit to an King & McGaw site, you will be presented the site in a default manner. Over time, the version of the site you see may change, as persistent cookies remember items you have viewed, preference changes you have made, or whether you logged into or out of your account while browsing.
 
-Here is a list of the different types of cookies used by Easyart:
+Here is a list of the different types of cookies used by King & McGaw:
 
 Cookie purpose | Cookie type | Summary  
 ---|---|---  
-Transaction | Session cookie | Used to maintain your transaction with Easyart and minimise the need to transfer your information across the internet.  
+Transaction | Session cookie | Used to maintain your transaction with King & McGaw and minimise the need to transfer your information across the internet.  
 Navigation | Last viewed product | Used to help you return to the last viewed product, for instance after adding an item to the cart.  
   
-### Easyart third party marketing partner cookies
+### King & McGaw third party marketing partner cookies
 
-Easyart work with several partners who serve advertisements on our behalf. Most of these third party marketing sites use both session and persistent cookies.
+King & McGaw work with several partners who serve advertisements on our behalf. Most of these third party marketing sites use both session and persistent cookies.
 
-All data collected by these third parties is anonymous and will never contain your name, address, telephone number, email address or payment details. You can delete your cookies at any time from any of the third party marketing sites and technology partners mentioned below. Easyart will never disclose your personal details to third parties without your permission.
+All data collected by these third parties is anonymous and will never contain your name, address, telephone number, email address or payment details. You can delete your cookies at any time from any of the third party marketing sites and technology partners mentioned below. King & McGaw will never disclose your personal details to third parties without your permission.
 
-More information on Easyart's third party, network and supplier relationships - and the Easyart' websites to which they apply can be found below.
+More information on King & McGaw's third party, network and supplier relationships - and the King & McGaw websites to which they apply can be found below.
 
-Partner | Easyart.com | Easyart.fr | Easyart.de | Easyart.se  
+Partner | kingandmcgaw.com | kingandmcgaw.fr | kingandmcgaw.de | kingandmcgaw.se  
 ---|---|---|---|---  
 Criteo | × |  |  |   
 Affiliate Window | × |  |  |   
 Triggered Messaging | × |  |  |   
-Kissmetrics | × |  |  |   
 Google | × | × | × | ×  
 Yahoo! | × | × | × | ×  
 MSN/Bing | × | × | × | ×  
@@ -248,10 +240,6 @@ These cookies and tag requests store information on your computer so that when y
 
 Places a cookie on the computers of vistors to help us better understand browsing and send more tailored and relevant communications.
 
-### Kissmetrics
-
-Places a cookie on the computers of vistors to help us better understand browsing behaviour and improve the user experience.
-
 ### Google
 
 Google uses cookies to serve you relevant advertisements based on your recent searches and browsing behaviour on our website.
@@ -262,4 +250,4 @@ Yahoo! use cookies across their advertising products and their third party adver
 
 ### MSN / Bing
 
-Bing search use cookies across their advertising products. When you use Bing Search they place a cookie on your machine which contains a unique identifier known as a 'Search ID'. If you have previously signed into a Microsoft site or service using a Windows Live ID, Easyart can also read one or more additional unique identifiers contained in other Microsoft cookies when you conduct a search.
+Bing search use cookies across their advertising products. When you use Bing Search they place a cookie on your machine which contains a unique identifier known as a 'Search ID'. If you have previously signed into a Microsoft site or service using a Windows Live ID, King & McGaw can also read one or more additional unique identifiers contained in other Microsoft cookies when you conduct a search.
