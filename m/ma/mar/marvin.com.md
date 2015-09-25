@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marvin.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429114236id_/http%3A//www.marvin.com/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marvin.com privacy policy that was archived on 2015-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150925043119id_/http%3A//www.marvin.com/information/privacy) for the most accurate reproduction.*
 
-# Privacy Statement - Marvin Family of Brands
+# Privacy Statement | Marvin Family of Brands
 
 Marvin Lumber and Cedar Company (“Marvin”) respects the privacy of its customers and users of this web site (the “Site”). This Privacy Statement discloses how we collect and use information on the Site, and the choices that you can make about the way your information is collected and used.
 
