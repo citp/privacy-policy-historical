@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yourlive.tv privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514063806id_/http%3A//yourlive.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourlive.tv privacy policy that was archived on 2015-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150925071126id_/http%3A//yourlive.tv/privacy) for the most accurate reproduction.*
 
-# YourLive.tv - Broadcast everything
+# YourLive.Tv | Broadcast and watch live channels streamings.
 
 ### General
 
