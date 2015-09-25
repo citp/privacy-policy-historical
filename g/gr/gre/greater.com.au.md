@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greater.com.au privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323194402id_/https%3A//www.greater.com.au/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greater.com.au privacy policy that was archived on 2015-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150925095901id_/https%3A//www.greater.com.au/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Greater Building Society
 
@@ -129,7 +129,7 @@ In that case, we will give you written notice that the application has been refu
 We take all reasonable steps to ensure that your personal information (including credit-related information), held on our website or otherwise, is protected from:
 
   * misuse, interference and loss, and
-  * unauthorised access, disclosure or modification. 
+  * unauthorised access, disclosure or modification.
 
 
 
@@ -167,6 +167,10 @@ We may also use cookies to tell you about things that may be relevant to your in
 We currently use Google cookies to service adverts to its visitors across the Google Content Network. For more information about this and to opt out of this advertising, please click here:
 
 https://www.google.com/settings/ads/onweb/?sig=ACiOTCjBwYWUHEBqTvq1KO8jq9cKVPqOBkp7ENZgp-R8niqeQBD3TIBszjn7F8yrdOIDgK4ww9exMwsfZN2uTd2sA94iiOfJw&hl=en
+
+Additionally, we have enabled Google Analytics to collect data about our advertising traffic via [Google advertising cookies](http://www.google.com/policies/technologies/types) and [anonymous identifiers](https://www.google.com/policies/privacy/key-terms/#toc-terms-identifier), and have enabled the following Google Analytics Advertising Features: Remarketing with Google Analytics, Google Display Network Impression Reporting, Google Analytics Demographics and Interest Reporting and integrated services that require Google Analytics to collect data via advertising cookies and anonymous identifiers.
+
+You can opt-out of your data being used by Google Analytics here: [https://tools.google.com/dlpage/gaoptout/ ](https://tools.google.com/dlpage/gaoptout)
 
 We also use the ClickTale customer experience analytics service on this site. The ClickTale service helps us analyse how visitors use our website. We do not collect through the ClickTale service or transfer to ClickTale any information that can personally identify you.
 
