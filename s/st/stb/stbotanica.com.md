@@ -1,22 +1,41 @@
-> *The following text is extracted and transformed from the stbotanica.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623150832id_/http%3A//www.stbotanica.com/privacy-notice.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stbotanica.com privacy policy that was archived on 2015-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150925061604id_/http%3A//www.stbotanica.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Notice
+# Privacy Policy | St.Botanica.com
 
-Dear Customer,
+### **Open Policy on the Issue of Privacy:**
 
-We understand and respect your concern about the privacy of any information you supply while at our site. We believe that knowledge is the key to monitoring and protecting how your information is used on the Internet. This statement sets forth stherb.biz's Privacy Policy and describes the practice follows with respect to all visitors to this site.
+We at St.Botanica.com adhere to a strict professional code of ethical conduct in the handling of your personal information. Read below to review how we safeguard your relationship with us.
 
-**Transactional Information:**  
-When you make a purchase from us via Paysystems.com On-line payment, CCNow.com will ask for information such as name, address and credit card information. This information is stored in a secured database. Users' credit information is transferred over a Secure Socket Layer (SSL) line. This ensures your information is encrypted and cannot be read by any other Internet users. The secure mode begins upon ordering.
+### **Our Commitment To Privacy**
 
-**About Cookies:**  
-When you visit a Paysystems.com On-line payment website, it will place a text file called a "cookie" in the browser directory of your computer's hard drive. A cookie is a small piece of information that a website can store on your web browser and later retrieve. The cookie cannot be read by any website other than the one that set up the cookie. Cookies enable this website to recognize the information you have provided to this website. Most major browsers such as Netscape and Internet Explorer accept cookies, but also allow the user to be alerted when a cookie is going to be created. This option (generally found in the “tools” or “options” area of your browser) lets you decide whether or not you wish to have a cookie created using your data.
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-**IP Addresses:**  
-An IP address is a number that is automatically assigned to your PC every time you browse the Internet. Information from IP addresses is used for system administration, to examine overall traffic trends, troubleshooting, etc. This information is used only in the aggregate form. IP addresses are not linked to any personally identifiable information (meaning the user session is tracked, but the user is anonymous).   
-Please be reassured that On-line Payment with Paysystems.com is the right decision and for more than 1 year, we have used this service, and there is no customer claiming any problem.
+### **The Information We Collect**
 
-Yours faithfully,
+This notice applies to all information collected or submitted on the St.Botanica.com website whether from customers or prospects. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
 
-**StBotanica**  
-www.stbotanica.com
+  * Name
+  * Address
+  * Email address
+  * Phone number
+  * Credit Card Information
+
+
+
+### **The Way We Use Information**
+
+We use the information you provide about yourself when placing an order only to complete that order, to contact you with regard to your order, to respond to email inquires, to participate in chat room discussions, or to send an email newsletter. We do not share this information with outside parties except to the extent necessary to complete that order.
+
+We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order.
+
+We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
+
+You can register with our website if you would like to receive our newsletter as well as updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form.
+
+We use non-identifying and aggregate information to better design our website and to share with advertisers but we would not disclose anything that could be used to identify individuals.
+
+Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
+
+### **Our Commitment To Data Security**
+
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
