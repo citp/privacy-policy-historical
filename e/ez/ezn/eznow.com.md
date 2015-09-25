@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eznow.com privacy policy that was archived on 2015-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150329214146id_/http%3A//www.eznow.com/publiccenter/about/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eznow.com privacy policy that was archived on 2015-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150925164053id_/http%3A//www.eznow.com/publiccenter/about/policy.aspx) for the most accurate reproduction.*
 
 # Eznow.com's service agree/policy/paymethod/price
 
