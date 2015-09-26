@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the meyouhealth.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407160913id_/http%3A//meyouhealth.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meyouhealth.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926110132id_/http%3A//meyouhealth.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - MeYou Health
+# Privacy Policy - MeYou Health - MeYou Health
 
 ###  PRIVACY STATEMENT FOR MEYOU HEALTH™ 
 
@@ -18,7 +18,7 @@ Keeping your information safe shouldn't even be a question. MeYou Health believe
 
 **Why do we collect information about you?** The answer is very simple. MeYou Health uses your information in order to offer you valuable tools to improve your health.
 
-If you have any questions about our Privacy Policy, our [Terms of Use](http://meyouhealth.com/terms), or about MeYou Health, or if you just want to tell us what you think about our website, please write us at MeYou Health, 27-43 Wormwood Street, 6th floor, Boston, MA 02210, Attn: Support, or simply email us at [support@meyouhealth.com](mailto:support@meyouhealth.com). We promise that we will answer you.
+If you have any questions about our Privacy Policy, our [Terms of Use](https://web.archive.org/terms), or about MeYou Health, or if you just want to tell us what you think about our website, please write us at MeYou Health, 27-43 Wormwood Street, 6th floor, Boston, MA 02210, Attn: Support, or simply email us at [support@meyouhealth.com](mailto:support@meyouhealth.com). We promise that we will answer you.
 
   2. **_What Information Do We Collect?_**
 
@@ -149,3 +149,7 @@ The terms below have the following meanings when used in this Privacy Policy.
 
 
 For some MeYou Health services, a different Privacy Policy or Terms of Use may apply. However, we will ask for your consent to these documents before giving you access to these services. In addition, if these services are sponsored by your health plan or health care provider, we may ask for your authorization for these entities to send us health information about you.
+
+#### See how MeYou Health can bring the power of small actions and social support to your population.
+
+[Request a demo](https://web.archive.org/demo)
