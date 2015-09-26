@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gamestarmechanic.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511041748id_/https%3A//gamestarmechanic.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamestarmechanic.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926171437id_/https%3A//gamestarmechanic.com/about/privacy) for the most accurate reproduction.*
 
 # Gamestar Mechanic - Privacy Policy
 
 Gamestar Mechanic (“Gamestar” or the "site") is an online service offered by E-Line Media (“we” or “us”) that helps users learn how to design video games. This policy covers how we treat the information we collect and receive from you. Our goal is to create a safe, entertaining and educational online environment that complies with the United States Federal Trade Commission's Children's Online Privacy Protection Rule.
 
-This Privacy Policy is effective as of May 30, 2013. In the future, our site or our practices may change. When we make changes related to privacy, we will revise this Privacy Policy to reflect the changes. We'll post the updated version here, and we'll notify you if we think the changes will significantly impact the treatment of information you have already provided.
+This Privacy Policy is effective as of May 11, 2015. In the future, our site or our practices may change. When we make changes related to privacy, we will revise this Privacy Policy to reflect the changes. We'll post the updated version here, and we'll notify you if we think the changes will significantly impact the treatment of information you have already provided.
 
 This Privacy Policy applies to the version of Gamestar Mechanic that is open to registration and use by members of the general public. We also make private “realms” of the service available to certain organizations or groups, and it is the responsibility of those organizations or groups to inform their users if their own privacy policies differ from this one. Users within these realms should contact their Realm Administrator for more information.
 
@@ -84,6 +84,6 @@ If you have questions or concerns regarding this Privacy Policy, you can contact
 
 Gamestar Mechanic  
 c/o E-Line Media  
-363 7th Ave, 20th Floor  
-New York, NY 10001  
-Tel. 212.534.3275
+1295 W. Washington Street  
+Suite 105  
+Tempe, AZ 85281
