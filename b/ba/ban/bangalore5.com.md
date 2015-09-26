@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the bangalore5.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622010344id_/http%3A//www.bangalore5.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangalore5.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926132622id_/http%3A//www.bangalore5.com/privacy.php) for the most accurate reproduction.*
 
-# bangalore5 | Residential property| Property investing | Flats for purchase
+# Privacy Policy | Residential property| Flats for purchase| bangalore5.com
 
-##  Privacy Policy (Bangalore5.com)
+## Privacy Policy (Bangalore5 .com)
+
+  
+
 
 The Privacy policy is subject to the terms of the Site Policy of Bangalore5.com. Thispolicy is effective from the date and time a user registers with Bangalore5.com byfilling up the Registration form and accepting the terms and conditions laid out in the Site Policy.
 
@@ -10,7 +13,7 @@ In order to provide a personalized browsing experience, Bangalore5.com may colle
 
 To extend this personalized experience Bangalore5.com may track the IP address ofa user's computer and save certain information on your system in the form of cookies. A user hasthe option of accepting or declining the cookies of this website by changing the settings of yourbrowser.
 
-The personal information provided by the users to Bangalore5.com will not beprovided to third parties without previous consent of the user concerned. Information of ageneral nature may however be revealed to external parties
+The personal information provided by the users to Bangalore5.com will not beprovided to third parties without previous consent of the user concerned. Information of ageneral nature may however be revealed to external parties.
 
 Every effort will be made to keep the information provided by users in a safe manner, theinformation will be displayed on the website will be done so only after obtaining consent fromthe users. Any user browsing the site generally is not required to disclose his identity or provideany information about him/her; it is only at the time of registration you will be required tofurnish the details in the registration form.
 
@@ -23,3 +26,6 @@ You agree that BANGALORE5.com may use your personal information to contactyou an
 All BANGALORE5.com websites including Bangalore5.com fullycomply with all Indian Laws that are applicable. BANGALORE5.com has alwayscooperated with all law enforcement inquires. BANGALORE5.com may disclose allor part of your personal details in response to a request from the law enforcement authorities orin a case of bonafide requirement to prevent an imminent breach of the law.
 
 If you require more information or have any questions regarding this statement, you may write tous : **Contact us :- office@bangalore5.com**
+
+  
+
