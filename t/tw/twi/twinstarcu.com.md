@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twinstarcu.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318171258id_/https%3A//www.twinstarcu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twinstarcu.com privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927003004id_/https%3A//www.twinstarcu.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TwinStar Credit Union
 
