@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the swoop.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316212423id_/http%3A//www.swoop.com/categories/3-legal/pages/9-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swoop.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926050817id_/http%3A//www.swoop.com/privacy-policy) for the most accurate reproduction.*
 
-# Swoop | Advertising Platform
+# Swoop Privacy Policy
+
+## Swoop Shopping Services Privacy Policy
 
 Welcome. The information below explains how Swoop collects, uses, and discloses information as we provide services to users, publishers, brands, websites and others.
 
