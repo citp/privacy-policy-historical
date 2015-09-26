@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the jeffreynewyork.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607034714id_/http%3A//shop.jeffreynewyork.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeffreynewyork.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926214111id_/https%3A//jeffreynewyork.com/info/privacy-policy) for the most accurate reproduction.*
 
-# Jeffrey |
+# Privacy Policy | Just Jeffrey
+
+  
+
 
 ##### **Jeffrey Customer Privacy Policy**
 
@@ -187,3 +190,6 @@ Seattle, WA 98111-3986
 The examples contained in this Privacy Policy are illustrations only, and are not intended to be exhaustive.
 
 _11/24/2014_
+
+  
+
