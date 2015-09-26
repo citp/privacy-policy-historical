@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the termpaperwarehouse.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619040626id_/http%3A//www.termpaperwarehouse.com/about/your-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the termpaperwarehouse.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926112811id_/http%3A//www.termpaperwarehouse.com/about/your-privacy) for the most accurate reproduction.*
 
 # Privacy Policy - TermPaperWarehouse.com
 
