@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyverge.com privacy policy that was archived on 2015-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150303094507id_/https%3A//www.skyverge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyverge.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926160717id_/https%3A//www.skyverge.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SkyVerge
 
@@ -50,4 +50,4 @@ Although most changes are likely to be minor, SkyVerge may change its Privacy Po
 
 * * *
 
-This Privacy Policy is used and adapted via a [Creative Commons Sharealike](http://creativecommons.org/licenses/by-sa/2.5/) license from _[Automattic](http://github.com/automattic/legalmatti)_. You can [view it here](http://github.com/automattic/legalmatti).
+This Privacy Policy is used and adapted via a [Creative Commons Sharealike](http://creativecommons.org/licenses/by-sa/2.5/) license from _[Automattic](http://github.com/automattic/legalmattic)_. You can [view it here](http://github.com/automattic/legalmattic).
