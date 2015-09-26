@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allsaints.com privacy policy that was archived on 2015-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150202001333id_/http%3A//www.allsaints.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allsaints.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926122500id_/http%3A//www.allsaints.com/privacy_policy) for the most accurate reproduction.*
 
 # Customer Information | Privacy Policy | AllSaints
 
