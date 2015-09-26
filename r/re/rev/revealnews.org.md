@@ -1,80 +1,81 @@
-> *The following text is extracted and transformed from the revealnews.org privacy policy that was archived on 2015-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150422003603id_/http%3A//www.revealnews.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revealnews.org privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926133838id_/https%3A//www.revealnews.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Reveal
 
-This site is published by The Center for Investigative Reporting, a tax-exempt 501(c)3 organization located at 1400 65th Street, Suite 200, Emeryville, CA 94608.
+**The Center for Investigative Reporting  
+****Privacy Policy  
+****Last Updated:  9/24/2015**
 
-By accessing this site, you agree to be legally bound by and comply with the Terms of Use and Privacy Policy. You are not authorized to use this site if you do not agree to comply with the Terms of Use and Privacy Policy.
+Protecting your privacy is really important to us. With this in mind, we’re providing this Privacy Policy to explain our practices regarding the collection, use and disclosure of information that we receive through our Services. This Privacy Policy does not apply to any third-party websites, services or applications, even if they are accessible through our Services. Also, please note that, unless we define a term in this Privacy Policy, all capitalized terms used in this Privacy Policy have the same meanings as in our Terms of Service. So, please make sure that you have read and understand our Terms of Service.
 
-We may update our Terms of Use and Privacy Policy from time to time, and we will notify you of any changes by posting them on this page.
+Any information that is collected via our Services is covered by the Privacy Policy in effect at the time such information is collected. We may revise this Privacy Policy from time to time. If we make any material changes to this Privacy Policy, we’ll notify you of those changes by posting them on the Services or by sending you an email or other notification, and we’ll update the “Last Updated Date” above, to indicate when those changes will become effective.
 
-Contents of this site, including all site and section names, logos, graphics, images, presentation strategies, and other design elements, are covered by trademarks, copyrights, and other intellectual and trade property rights, held jointly or separately by the Center for Investigative Reporting. All rights are reserved. Authors may also hold rights to some material. Material on this site may not be copied, mirrored, cataloged, or displayed simultaneously with another site in part or in whole.
+**Information Collected or Received from You**
 
-We respect the intellectual property of others. If you believe that your work has been copied — by us or by any third party on our site — in a manner that constitutes copyright infringement, please contact us.
+Account  Information. You are not required to register or create an account to use our Services, unless you are a Donor(as defined below). However, if you create an account, we’ll collect certain information that can be used to identify you, such as your name, email address, postal address and phone number (“ **PII** ”).
 
-## Links and Frames
+Financial Information. Users are not required to provide and we do not collect any financial information from the users, except the donors who wish to donate money to our organization (the “Donors”). Besides the PII, we also collect information such as the last four digits of credit card and expiration date of the credit card and other payment information (“Financial Information”) from the Donors, which is used only for collecting the donations made. 
 
-You may link to our site as long as the link does not cast us in a false or misleading light. You may not frame the content of our site. If you would like to license material from our site, please contact the Director of Finance and Administration at the Center for Investigative Reporting at [administration@cironline.org](mailto:administration@cironline.org).
+Information Collected Using Cookies and other Web Technologies. Like many website owners and operators, we use automated data collection tools such as Cookies and Web Beacons to collect certain information.
 
-## Links to Other Websites
+“ **Cookies** ” are small text files that are placed on your hard drive by a Web server when you access our Services. We may use both session Cookies and persistent Cookies to identify that you’ve logged in to the Services and to tell us how and when you interact with our Services. We may also use Cookies to monitor aggregate usage and web traffic routing on our Services and to customize and improve our Services. Unlike persistent Cookies, session Cookies are deleted when you log off from the Services and close your browser. Although most browsers automatically accept Cookies, you can change your browser options to stop automatically accepting Cookies or to prompt you before accepting Cookies. Please note, however, that if you don’t accept Cookies, you may not be able to access all portions or features of the Services. Some third-party services providers that we engage (including third-party advertisers) may also place their own Cookies on your hard drive. Note that this Privacy Policy covers only our use of Cookies and does not include use of Cookies by such third parties.
 
-Our site may contain links to other websites that we think may be of interest to you. We have no control over these other sites or their content. You should be aware when you leave our site for another and remember that other sites are governed by their own user agreements and privacy policies, which you should be sure to read.
+“ **Web Beacons** ” (also known as Web bugs, pixel tags or clear GIFs) are tiny graphics with a unique identifier that may be included on our Services for several purposes, including to deliver or communicate with Cookies, to track and measure the performance of our Services, to monitor how many visitors view our Services, and to monitor the effectiveness of our advertising. Unlike Cookies, which are stored on the user’s hard drive, Web Beacons are typically embedded invisibly on web pages (or in an e-mail).
 
-## Your Comments on Our Content
+Information Related to Use of the Services. Our servers automatically record certain information about how a person uses our Services (we refer to this information as “ **Log Data** ”). Log Data may include information such as a user’s Internet Protocol (IP) address, browser type, operating system, the web page that a user was visiting before accessing our Services, the pages or features of our Services to which a user browsed and the time spent on those pages or features, search terms, the links on our Services that a user clicked on and other statistics. We use Log Data to administer the Services and we analyze (and may engage third parties to analyze) Log Data to improve, customize and enhance our Services by expanding their features and functionality and tailoring them to our users’ needs and preferences. 
 
-We invite you to comment on our content as part of our interactive community.
+Information Sent by Your Device. We collect certain information that your device (including mobile, ipad, computer, etc.) sends when you use our Services, like a device identifier, user settings and the operating system of your device, as well as information about your use of our Services.
 
-You agree that your posted comments intended for display on our site (“Reader-Submitted Content”) will not include any content that is illegal, indecent, profane, threatening, defamatory, invasive of privacy or otherwise injurious to third parties; and that it will not consist of or contain software viruses, political campaigning, commercial solicitation, chain letters, mass mailings, obscenity or any form of “spam.” You may not use a false e-mail address, impersonate any person or entity, or otherwise mislead as to the origin of your Reader-Submitted Content.
+Our primary goals in collecting information are to provide and improve our Services, to administer your use of the Services, and to enable you to enjoy and easily navigate our Services. We will use your PII to:
 
-You may not submit Reader-Submitted Content that infringes in any manner on the copyright, trademark or other intellectual property rights of any person or entity, or that contains any confidential or proprietary information of any person or entity, or that otherwise violates the legal rights of any person or entity. You may not submit Reader-Submitted Content that contains personally identifiable information about other people, such as their phone number, street address or e-mail address, or information about other people that could result in an invasion of their privacy or their harassment.
+  * provide Services, communicate with you and provide customer support in relation to the Services.
+  * customize your experience and otherwise measure and improve our Services.
+  * send you newsletters (if you have signed up for receiving our newsletters) and relevant communications (including keeping you informed about our offerings) that might be of interest to you (If we use your personal information to market to you, you will be able to opt-out of such uses). 
+  * resolve disputes and troubleshoot problems.
+  * prepare aggregated data, including for general marketing and analytical purposes.
 
-You agree that, by submitting any Reader-Submitted Content to us, you are granting to us a non-exclusive, royalty-free, perpetual, irrevocable and fully assignable and sublicensable right to use, reproduce, modify, adapt, publish, translate, edit, reformat, create derivative works from, distribute and display that Reader-Submitted Content throughout the world for any purpose and in any media. Your Reader-Submitted Content may be edited for length or clarity or for any other reason either before or after it is published, and it may be attributed it to you and may include your name and city. We reserve the right (but not the obligation) to remove any Reader-Submitted Content for any reason from our site.
 
-## CIR’s use of the Echo commenting system and Echo Network
 
-CIR may participate in the Echo Network, which would make visitor content from other Echo sites available on CIR and vice versa.
+We will not share any PII that we have collected from or regarding you except as described below:
 
-Visitors agree that by posting content to any part of the CIR site, they automatically grant, and represent and warrant that they have the right to grant, Echo a non-exclusive, royalty free, perpetual, irrevocable and fully assignable and sublicensable right to usethat content on all Echo sites that have opted into the Echo network.
+Information Shared with Our Services Providers. We may engage third-party services providers to work with us to administer and provide the Services. These third-party services providers have access to your PII only for the purpose of performing services on our behalf.
 
-## AP News Registry
+Information Shared with Third Parties. We may share aggregated information and non-identifying information with third parties for industry research and analysis, demographic profiling and other similar purposes.
 
-This Web site uses services provided by AP News Registry. AP News Registry collects content usage information and may use cookies in conjunction with this activity. Your continued readership of the Site means you accept the privacy policy of the AP News Registry. Please refer to the AP News Registry privacy policy at <http://www.apnewsregistry.com/privacycenter/servicepolicy.aspx> for further information.
+Information Disclosed in Connection with Business Transactions. Information that we collect from our users, including PII, is considered to be a business asset. Thus, if we are acquired by a third party as a result of a transaction such as a merger, acquisition or asset sale or if our assets are acquired by a third party in the event we go out of business or enter bankruptcy, some or all of our assets, including your PII, may be disclosed or transferred to a third party acquirer in connection with the transaction.
 
-## Privacy
+Information Disclosed for Our Protection and the Protection of Others. We cooperate with government and law enforcement officials or private parties to enforce and comply with the law. We may disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate: (i) to respond to claims, legal process (including subpoenas); (ii) to protect our property, rights and safety and the property, rights and safety of a third party or the public in general; and (iii) to stop any activity that we consider illegal, unethical or legally actionable activity.
 
-We are committed to protecting your privacy. We have developed our site so that you can visit it without identifying yourself or revealing any personal information. Visitors to our site are not tracked as they access other sites; though we do analyze traffic on this site. We only collect personally identifying data about you, such as your name, address and e-mail address when you provide it to us voluntarily. CIR notes and saves information such as time of day, browser type, browser language, and IP address for each visit to our site. We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, safety, or property. We may provide non-personally identifiable visitor information to other parties for marketing, advertising, or other uses.
+We offer you choices regarding the collection, use and sharing of your PII and we’ll respect the choices you make. Please note that if you decide not to provide us with the PII that we request, you may not be able to access all of the features of the Services.
 
-## How do we protect your information?
+Opt-Out. We may periodically send you free newsletters and e-mails that directly promote our Services. When you receive such promotional communications from us, you will have the opportunity to “opt-out” (either through your account or by following the unsubscribe instructions provided in the e-mail you receive). We do need to send you certain communications regarding the Services and you will not be able to opt out of those communications – e.g., communications regarding updates to our Terms of Service or this Privacy Policy or information about your donations. 
 
-We implement a variety of security measures to maintain the safety of your personal information when you make a donation, or submit or post content.
+Modifying Your Information. You can access and modify the PII associated with your account by contacting us at 510-809-3160 . If you want us to delete your PII and your account, please contact us at 510-809-3160 with your request. We’ll take steps to delete your PII as soon we can, but some information may remain in archived/backup copies for our records or as otherwise required by law.
 
-We offer the use of a secure server on our transaction pages. All supplied sensitive information is transferred via Secure Socket Layer (SSL) technology and then encrypted into our payment gateway provider’s database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+**Responding to Do Not Track Signals**
 
-After a transaction, your private information will not be stored on our servers.
+Our Site does not have the capability to respond to “Do Not Track” signals received from various web browsers.
 
-## Opt Out
+**The Security of Your Information**
 
-If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+We take reasonable administrative, physical and electronic measures designed to protect the information that we collect from or about you (including your PII) from unauthorized access, use or disclosure. When you enter sensitive information on our forms, we encrypt this data using SSL or other technologies. Please be aware, however, that no method of transmitting information over the Internet or storing information is completely secure. Accordingly, we cannot guarantee the absolute security of any information.
 
-## COPPA Compliance
+**Links to Other Sites**
 
-We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act). We do not collect any information from anyone under 13 years of age. You must be over the age of 13 in order to receive information or comment on our site.
+Our Services may contain links to websites and services that are owned or operated by third parties (each, a “ **Third-party Service** ”). Any information that you provide on or to a Third-party Service or that is collected by a Third-party Service is provided directly to the owner or operator of the Third-party Service and is subject to the owner’s or operator’s privacy policy. We’re not responsible for the content, privacy or security practices and policies of any Third-party Service. To protect your information we recommend that you carefully review the privacy policies of all Third-party Services that you access.
 
-## Termination
+**International Transfer**
 
-We reserve the right to terminate the site and this Terms of Use and Privacy Policy at any time without notice for any reason. The Limitation of Liability section of this Terms of Use and Privacy Policy shall survive any such termination.
+Your PII may be transferred to, and maintained on, computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you’re located outside the United States and choose to provide your PII to us, we may transfer your PII to the United States and process it there.
 
-## Disclaimers and Limitation of Liability
+**Our Policy Toward Children**
 
-ALTHOUGH WE TAKE REASONABLE STEPS TO PREVENT THE INTRODUCTION OF VIRUSES, WORMS, OR OTHER DESTRUCTIVE MATERIALS AND PROGRAMS TO OUR SITE, WE DO NOT GUARANTEE OR WARRANT THAT OUR SITE OR MATERIALS THAT MAY BE DOWNLOADED FROM OUR SITE ARE FREE FROM SUCH DESTRUCTIVE FEATURES. WE ARE NOT LIABLE FOR ANY DAMAGES OR HARM ATTRIBUTABLE TO SUCH FEATURES. WE ARE NOT LIABLE FOR ANY CLAIM, LOSS OR INJURY BASED ON ERRORS, OMISSIONS, INTERRUPTIONS OR OTHER INACCURACIES IN OUR SITE, NOR FOR ANY CLAIM, LOSS OR INJURY THAT RESULTS FROM YOUR USE OF THIS SITE OR YOUR BREACH OF ANY PROVISION OF THIS AGREEMENT.
+Our Services are not directed to children under 13 and we do not knowingly collect PII from children under 13. If we learn that we have collected PII of a child under 13 we will take steps to delete such information from our files as soon as possible.
 
-## Contact Us
+**Your California Privacy Rights**
 
-If there are any questions regarding the Terms of Use and Privacy Policy you may contact us using the information below.
+California residents may request and obtain from us, once a year, free of charge, a list of third parties, if any, to which we disclosed their PII for direct marketing purposes during the preceding calendar year and the categories of PII shared with those third parties. If you are a California resident and wish to obtain that information, please submit your request by sending us an email at [rsaulsbury@cironline.org](mailto:rsaulsbury@cironline.org) with “California Privacy Rights” in the subject line or by writing to us at 1400 65th St., Suite 200, Emeryville, CA 94608.
 
-The Center for Investigative Reporting  
-1400 65th Street, Suite 200  
-Emeryville, CA 94608  
-(510) 809-3160  
-[administration@cironline.org](mailto:administration@cironline.org)  
-[cironline.org](http://cironline.org/)
+**Questions?**
+
+Please contact us at [rsaulsbury@cironline.org](mailto:rsaulsbury@cironline.org) if you have any questions about our Privacy Policy.
