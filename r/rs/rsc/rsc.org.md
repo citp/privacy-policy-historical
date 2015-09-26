@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rsc.org privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629110805id_/http%3A//www.rsc.org/help-legal/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsc.org privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926200141id_/http%3A//www.rsc.org/help-legal/legal/privacy) for the most accurate reproduction.*
 
 # Privacy & cookies
 
@@ -112,6 +112,8 @@ _utma
 _utmb
 
 _utmc
+
+_utmv
 
 _utmz
 
@@ -349,6 +351,86 @@ ICViewMode
 
 Page loads  
   
+#### Cookies in use on [Chemistry World Jobs](http://jobs.rsc.org/)
+
+Cookie name| Description  
+---|---  
+  
+User_WebSite
+
+User_CandidateCVServices
+
+User_RecruiterServices
+
+User_MobileSite
+
+| A unique user ID for the logged in user  
+  
+Logon_WebSite
+
+Logon_CandidateCVServices
+
+Logon_RecruiterServices
+
+Logon_MobileSite
+
+| A user session identifier for the current logged on user  
+  
+LoginCookieCheck
+
+CookieTest
+
+|  Checks that user has cookies enabled  
+Session_CandidateCVServices | Tracks a candidate CV services session  
+JobListing | Used on the search pages to remember user settings  
+  
+WebSite_LatestJobSearchCount
+
+WebSite_LatestJobSearchItems
+
+WebSite_LatestJobSearchListingPage
+
+WebSite_LatestJobSearchPageSize
+
+WebSite_LatestJobSearchOrder
+
+WebSite_LatestJobSearchID
+
+WebSite_LatestSearchRecruiterID
+
+WebSite_LatestSearchFirstJobID
+
+WebSite_LatestSearchLastJobID
+
+WebSite_SearchPageLink
+
+| A range of cookies that enable jobs search result listings to function  
+Session_Jobseeker | Tracks a jobseeker session - note only initiated when a jobseeker action takes place (e.g. Search) or a user logs in  
+deviceType | This is used to optimise the browser to display based on the user device type  
+CampaignClickThroughID | Used to measure the number of clicks on adverts  
+JBEClickThroughID | The JBEID of the JBE the user clicked on  
+JBEClickThroughJobID | The JobID the user clicked on inside the JBE  
+RSSClickThroughJobID | The JobID the user clicked on when viewing the RSS feed  
+WidgetClickThroughDomain | The domain the user was referred from when clicking on a a widget job link  
+WidgetClickThroughJobID | The JobID the user clicked on when viewing the job widget  
+iPhoneClickThroughJobID | The JobID the user clicked on when viewing a job in the iPhone app  
+Session_RecruiterHub | This is used to track a recruiter hub session  
+RecruiterCVServicesSettings | Stores settings for the user whilst in Recruiter CV  
+  
+twister_Collapsed
+
+twister_Expanded
+
+| Stores settings for collapsed and expanded information on the FindCVs search page  
+  
+Session_Mobile
+
+| This is used to track a mobile session  
+  
+cookieNotification
+
+| To determine whether a visitor has seen the cookie banner/widget notification before (either true or false)  
+  
 #### Cookies in use on [RSC-ID](https://www.rsc.org/rsc-id/sign-in "RSC-ID")
 
 Cookie name| Description  
@@ -423,7 +505,11 @@ Third-party websites and services we link to through our websites have their own
 
 ### [MyRSC](http://my.rsc.org/)
 
-Any information submitted to MyRSC is securely held by Small World Labs in Austin, Texas, US. The Royal Society of Chemistry is the sole user of this information. To find out more please view [Small World Labs privacy statement.](http://www.smallworldlabs.com/privacy-policy)
+Any information submitted to MyRSC is securely held by Small World Labs in Austin, Texas, US. The Royal Society of Chemistry is the sole user of this information. To find out more, please view [Small World Labs privacy statement.](http://www.smallworldlabs.com/privacy-policy)
+
+### Altmetric
+
+We use Altmetric to collect journal article level metrics and online conversations around research. We present this data on [pubs.rsc.org](http://pubs.rsc.org/). Please view the [Altmetric privacy policy](http://support.altmetric.com/tos#privacy-policy) for further information.
 
 ### Feedburner feeds
 
