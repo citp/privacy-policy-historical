@@ -1,26 +1,76 @@
-> *The following text is extracted and transformed from the dubbedepisodes.net privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110063300id_/http%3A//www.dubbedepisodes.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dubbedepisodes.net privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926093544id_/http%3A//theanimeplace.co/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « Anime English Dubbed | Free Anime Online
+# Privacy Policy « The Anime Place – Watch English Dubbed and Subbed Anime Episodes Online
 
-We respect your privacy. While visiting dubbedepisodes.com, small amounts of personal data is collected. The list includes but is not limited to: IP, DART cookies and possibly email address.
+[____](https://web.archive.org/)Pages __Privacy Policy
 
-_In regards to IP addresses:_ A list of recently visited consumer IP addresses are automatically stored for a short period of time. IP addresses are not used for personal use in any way and are not given to any third party vendors. Who has access to recently stored IP Addresses? The website administrator and server administrators. What personal information does your IP address contain? Generally your IP address is a string of numbers and in some cases letters. Its unique to your ISP and can be used in cases of abuse to this website and/or its hosting web server. This is for the protection of this website and hosting server the website is running on.
+This privacy policy sets out how The Anime Place uses and protects any information that you give knowingly or unknowingly to The Anime Place when you use this website. The Anime Place is committed to your privacy, any information collected is neither sold nor freely given to third parties except where stated in this privacy policy.
 
-_In regards to cookies:_ We use cookies to record user-specific information on what pages users access or visit, how they found this website, overall general usage time and other statistic related information.
+The Anime Place may, from time to time, change this privacy policy. As a guest of this website, you should check this page to see if any changes were made. The changes were last made on  **June 21st, 2015 – Father’s Day.**
 
-Google Adsense:  
-* Third-party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website. 
+## Information We Directly Collect
 
-* Google’s use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet. 
+*         Optional  
+**       Optional, however IP Information may give this detail away on it’s own.  
+***     Required, User can avoid giving this information by not signing up for the website.  
+****   Automatically Obtained, Can’t be opted out of.
 
-* Users may opt out of the use of the DART cookie by visiting the [advertising opt-out page](http://www.google.co.uk/privacy_ads.html). (Alternatively, you can direct users to opt out of a third-party vendor’s use of cookies by visiting the Network Advertising Initiative [opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).) 
+### Via the Forum
 
-_In regards to email:_ In certain cases where you contact us using our contact form (eg. the “contact us” link) and we do receive your email it is not used or handed out to third party companies/consumers. We do not store email addresses. In case of future addons to this website where we begin storing email addresses for forums, social networks, etc your personal data will not be used in an abusive manor and certain will not be distributed.
+Time Zone Details**
 
-Chatango (live anime chat)  
-This website uses a third party live chatting system. The following paragraph is a brief overview of chatango’s privacy policy
+Birthday*
 
-> We do not read private one-on-one conversations that occur in Chatango. Messages sent to Chatango Groups can be read by everybody. We do store your IPs, and use cookies to identify users, just like every other site in the world. When you send a message in a group chat, your IP address is visible to the chat owner and to the chat moderators, that the chat owner creates. We don’t store your passwords, just their HMAC’s. We do not store any credit card numbers when you support Chatango. We do not sell your email addresses to spammers or marketing agencies. And there is no spyware and no adware in MessageCatcher. That’s pretty much it.
+AIM Account*
 
-[Chatango Terms and Conditions](http://chatango.com/page?full_terms "Chatango Terms and Conditions")  
-[Chatango Privacy Policy](http://chatango.com/page?full_privacy "Chatango Privacy Policy")
+MSN Account*
+
+ICQ Account*
+
+Yahoo Account*
+
+Jabber Account*
+
+Skype Account*
+
+Personal Website URL*
+
+Gender*
+
+Location**
+
+Interests*
+
+E-mail***
+
+IP****
+
+### Via the website
+
+E-mail***
+
+IP****
+
+IP Address information is automatically obtained anytime the user connects to the website, this cannot be prevented. User profiles can, on request, be deleted. We may require additional validation when a user wishes to delete their profile which will delete all other information that we collect, excluding IP Addresses and information that can be extrapolated from that IP Address.
+
+**Cookies & 3rd Party Advertisements**  
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit http://www.networkadvertising.org/managing/opt_out.asp.  
+Requests to delete an account can be e-mailed to support@anime.place or requested via a message posted on the forums.
+
+## Information that is collected by third parties.
+
+The Anime Place uses a chat service called “Chatango”. Their policy is located [at this link](https://chatango.com/page?full_privacy).
+
+The Anime Place uses an analytical service called “Google Analytics”, The Google privacy policy is located [at this link](http://www.google.com/policies/privacy/).
+
+The Anime Place utilizes advertising services from [AdsOptimal](https://www.adsoptimal.com/tos/privacy), [CPMStar](https://www.cpmstar.com/privacyPolicy.html), [EvolveNation](http://www.evolvenation.com/privacy_policy) and [PlaywireMedia](http://playwiremedia.com/privacy/). Click on the name of the advertising service to be directed to their privacy policy.
+
+The Anime Place utilizes a video player known as JW Player that has analytical services. The video player’s privacy policy is located [at this link](http://www.jwplayer.com/privacy/).
+
+The Anime Place uses a DNS and DDoS Protection service known as Cloudflare. Here is it’s [privacy policy](https://www.cloudflare.com/security-policy).
+
+The Anime Place uses a sharing service called AddThis which allows you to share The Anime Place with your friends at the click of a button. Here is it’s [privacy policy](http://www.addthis.com/privacy/privacy-policy).
+
+The Anime Place uses facebook. The embedded widget may indirectly collect information about your activities. Here is the facebook [privacy policy](https://www.facebook.com/about/privacy).
