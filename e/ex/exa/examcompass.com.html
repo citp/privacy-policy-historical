@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the examcompass.com privacy policy that was archived on 2015-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150622142819id_/http%3A//www.examcompass.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the examcompass.com privacy policy that was archived on 2015-09-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150927004644id_/http%3A//www.examcompass.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-gb" prefix="og: http://ogp.me/ns#"><head>
 			<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	
-	<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=543169285722702&amp;version=v2.0"></script><script id="twitter-wjs" async="" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+	<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.4&amp;appId=543169285722702"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
 	<script type="text/javascript">jQuery.noConflict();</script>
 	  <base href="http://www.examcompass.com/privacy-policy">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -25,6 +25,47 @@
   <link rel="stylesheet" href="http://www.examcompass.com/templates/meet_gavern/css/font-awesome.css" type="text/css">
   <link rel="stylesheet" href="http://www.examcompass.com/templates/meet_gavern/css/override.css" type="text/css">
   <style type="text/css">
+
+			#cookiesck {
+				position:fixed;
+				left:0;
+				right: 0;
+				bottom: 0;
+				z-index: 99;
+				min-height: 20px;
+				color: #eeeeee;
+				background: rgba(0,0,0,0.5);
+				box-shadow: #000 0 0 2px;
+				text-align: center;
+				font-size: 12px;
+				line-height: 12px;
+			}
+			#cookiesck .cookiesck_inner {
+				padding: 10px 0;
+				display: inline-block;
+			}
+			#cookiesck_readmore {
+				float:right;
+				font-weight:normal;
+				padding:10px;
+				margin: 1px;
+				border-radius: 3px;
+				color: #000;
+				text-decoration: underline;
+			}
+			#cookiesck_accept{
+				float:right;
+				font-weight:normal;
+				padding:10px;
+				margin: 1px;
+				border-radius: 3px;
+				color: #000;
+				text-decoration: underline;
+			}
+			#cookiesck_accept:hover{
+				cursor:pointer;
+			}
+		
 .gkcol { width: 200px; }
 .container-fluid { max-width: 1100px!important; }
 .gk-main-menu ul ul { width: 250px; } .gk-main-menu ul ul ul { margin-left: 225px; }
@@ -41,6 +82,53 @@
 jQuery(window).on('load',  function() {
 				new JCaption('img.caption');
 			});
+jQuery(document).ready(function($){
+				$("body").prepend("<div id=\"cookiesck\" />");
+				
+				$("#cookiesck").append("<span class=\"cookiesck_inner\">We are using cookies to give you the best experience on our site. By continuing to use our website without changing the settings, you are agreeing to our use of cookies.</span>")
+					.append("<a href=\"/privacy-policy\"  target=\"\" id=\"cookiesck_readmore\">Learn more</a>")
+					.append("<div id=\"cookiesck_accept\">Close</div>")
+					.append("<div style=\"clear:both;\"></div>");
+			});
+			
+			jQuery(document).ready(function () { 
+		
+			function setCookie(c_name,value,exdays)
+			{
+				var exdate=new Date();
+				exdate.setDate(exdate.getDate() + exdays);
+				var c_value=escape(value) + ((exdays==null) ? "" : "; expires="+exdate.toUTCString()) + "; path=/";
+				document.cookie=c_name + "=" + c_value;
+			}
+
+			function readCookie(name) {
+				var nameEQ = name + "=";
+				var cooks = document.cookie.split(';');
+				for(var i=0;i < cooks.length;i++) {
+					var c = cooks[i];
+					while (c.charAt(0)==' ') c = c.substring(1,c.length);
+						if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+					}
+				return null;
+			}
+
+			var $cookieck = jQuery('#cookiesck');
+			var $jb_infoaccept = jQuery('#cookiesck_accept');
+			var cookiesck = readCookie('cookiesck');
+			$cookieck.hide();
+			if(!(cookiesck == "yes")){
+			
+				// $cookieck.delay(1000).slideDown('fast'); 
+				$cookieck.show(); 
+
+				$jb_infoaccept.click(function(){
+					setCookie("cookiesck","yes",365);
+					jQuery.post('http://www.examcompass.com/privacy-policy', 'set_cookie=1', function(){});
+					$cookieck.slideUp('slow');
+				});
+			} 
+		});
+		
 $GK_MENU = [];
 $GK_MENU['animation'] = "width_height_opacity";
 $GK_MENU['animation_speed'] = "fast";
@@ -128,11 +216,10 @@ $GK_URL = "http://www.examcompass.com/";
 <p><strong>Joomla! CMS</strong><br>The Site uses Joomla! Content Management System (CMS), and first-party cookies are set by Joomla! to store basic data on User interactions with the Site. Apart from the core Joomla! CMS, the Site also uses Joomla! extensions installed on the core CMS that enhance its functionality and these extensions will also generate cookies. We deem cookies set by Joomla! as strictly necessary to the proper working of the Site. If You choose to disable cookies, a detailed guide on how to control cookies for all the main browser types can be found at the <a href="http://www.aboutcookies.org" rel="nofollow" target="_blank">www.aboutcookies.org</a> website.</p>
 </div>
 <p><strong>Third-party cookies</strong></p>
-<div class="left-indent"><strong>Google AdSense</strong><br>The Site displays AdSense ads by Google. Google's use of the <a href="http://support.google.com/adsense/bin/answer.py?hl=en&amp;answer=2839090" rel="nofollow" target="_blank">DoubleClick cookie</a> enables it and its partners to serve ads to Users of the Site based on their previous visits to the Site and/or other sites on the Internet. You can opt out of the use of the DoubleClick cookie for interest-based advertising by visiting Google's <a href="https://www.google.com/settings/ads/onweb/" rel="nofollow" target="_blank">ads preference manager</a>.</div>
+<div class="left-indent"><strong>Google AdSense</strong><br>The Site displays AdSense ads by Google. Google's use of the <a href="http://support.google.com/adsense/bin/answer.py?hl=en&amp;answer=2839090" rel="nofollow" target="_blank">DoubleClick cookie</a> enables it and its partners to serve ads to Users of the Site based on their previous visits to the Site and/or other sites on the Internet. You can opt out of the use of the DoubleClick cookie for interest-based advertising by visiting Google's <a href="https://www.google.com/settings/ads/onweb/" rel="nofollow" target="_blank">ads preference manager</a>.</div><br>
 <p><strong>Social media sharing widgets and third-party vendors</strong><br>Third-party vendors may use cookies, JavaScript, or web beacons to collect data about Users visiting the Site. For example, when You share a web page using a social media sharing button on the Site, the party that has created the button will record that You have done this.</p>
 <p>Please note that the Site has no access to or control over the cookies that are used by third-parties. Please consult the respective privacy policies of these third-party vendors for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. This Policy does not apply to and We cannot control the activities of such other advertisers or websites.</p>
-<div class="left-indent">AddThis (<a href="http://www.addthis.com/privacy" rel="nofollow" target="_blank">AddThis privacy and data practices</a>)<br> Facebook (<a href="https://www.facebook.com/about/privacy/" rel="nofollow" target="_blank">Facebook privacy policy</a>)<br> Google+ (<a href="http://www.google.com/intl/en/policies/terms/" rel="nofollow" target="_blank">Google privacy policy</a>)<br> Google Analytics (<a href="http://www.google.com/analytics/learn/privacy.html" rel="nofollow" target="_blank">Google Analytics privacy policy</a>)<br> Twitter (<a href="https://twitter.com/privacy" rel="nofollow" target="_blank">Twitter privacy policy</a>)<br> YouTube (<a href="http://www.google.com/intl/en/policies/terms/" rel="nofollow" target="_blank">Google privacy policy</a>)</div>
-<p>&nbsp;</p>
+<div class="left-indent">AddThis (<a href="http://www.addthis.com/privacy" rel="nofollow" target="_blank">AddThis privacy and data practices</a>)<br> Facebook (<a href="https://www.facebook.com/about/privacy/" rel="nofollow" target="_blank">Facebook privacy policy</a>)<br> Google+ (<a href="http://www.google.com/intl/en/policies/terms/" rel="nofollow" target="_blank">Google privacy policy</a>)<br> Google Analytics (<a href="http://www.google.com/analytics/learn/privacy.html" rel="nofollow" target="_blank">Google Analytics privacy policy</a>)<br> Twitter (<a href="https://twitter.com/privacy" rel="nofollow" target="_blank">Twitter privacy policy)</a></div><br>
 <p>You can generally opt-out of cookies from third-party advertisers and ad networks by visiting their Sites (if the advertiser or ad network offers this capability). It is also possible to opt out of some, but not all, of these cookies in one location at the <a href="http://www.networkadvertising.org/managing/opt_out.asp" rel="nofollow" target="_blank">Network Advertising Initiative (NAI)</a>, or <a href="http://www.aboutads.info/choices/" rel="nofollow" target="_blank">Digital Advertising Alliance (DAA)</a> opt-out web pages.</p>
 <p>If You wish to disable cookies, you may do so through individual Internet browser options. More detailed information about cookie management with specific web browsers can be found at <a href="http://www.aboutcookies.org/Default.aspx?page=1" rel="nofollow" target="_blank">www.aboutcookies.org</a>, or at the browsers' respective websites.</p>
 <h3>Acquisition or changes in ownership</h3>
@@ -194,34 +281,21 @@ $GK_URL = "http://www.examcompass.com/";
 <script type="text/javascript">var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-34930828-3']); _gaq.push(['_trackPageview']);(function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();</script>		
 
 <div class="custom">
-	<script type="text/javascript">!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.async=true;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
   js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=543169285722702&version=v2.0";
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4&appId=543169285722702";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
 <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 
-<!-- AddThis Smart Layers BEGIN -->
-<!-- Go to http://www.addthis.com/get/smart-layers to customize -->
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=xa-4ea2e0b4545ae42f"></script>
-<script type="text/javascript">
-  addthis.layers({
-    'theme' : 'transparent',
-    'share' : {
-      'position' : 'left',
-      'numPreferredServices' : 5
-    }/*,  
-    'whatsnext' : {},  
-    'recommended' : {}*/
-  });
-</script>
-<!-- AddThis Smart Layers END -->
+<!-- AddThis -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5157228161be17ee" async="async"></script>
 
 <!-- Start of StatCounter Code for Joomla -->
 <script type="text/javascript">
