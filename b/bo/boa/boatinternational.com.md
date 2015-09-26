@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boatinternational.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619160542id_/http%3A//www.boatinternational.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boatinternational.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926180822id_/http%3A//www.boatinternational.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Boat International
 
@@ -49,7 +49,7 @@ We may collect personal information from you (such as name, address, telephone n
 
 #### Collection of Other Information
 
-In addition to personal information, we may collect information about you automatically when you visit the Site. The collection of information may involve the use of cookies and web beacons. For more information about the cookies we use on our Site please see our [Cookie Policy](https://www.boatinternational.com/cookie-policy/).
+In addition to personal information, we may collect information about you automatically when you visit the Site. The collection of information may involve the use of cookies and web beacons. For more information about the cookies we use on our Site please see our [Cookie Policy](http://www.boatinternational.com/cookie-policy/).
 
 As is true of most web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. Most browsers are initially set to accept cookies, but you can change your settings to notify you when a cookie is being updated, or to block cookies altogether. Please consult the “Help” section of your browser for more information. Please note that by blocking any or all of these cookies may not have access to certain features, content or personalization available through our Site.
 
@@ -57,13 +57,13 @@ We use this information, which does not identify individual users, to analyze tr
 
 Third parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information.
 
-Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. You can manage the use of Flash technologies with the Flash management tools available at [Adobes’ website](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html#117498).
+Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. You can manage the use of Flash technologies with the Flash management tools available at [Adobes’ website](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html#117498).
 
 #### Activity Information
 
 When you access and interact with our Site, we may collect certain information about those visits. Eg. In order to permit your connect to our Site, our servers receive and record information about your computer, device and browser including potentially your IP address, browser type and other software and hardware information. If you access our Site from a mobile or other device, we may collect a unique device identifier assigned to that device, geolocation data or other transactional information for that device.
 
-Third parties that support our Site by serving advertisements or providing services, such as allowing you to share content or tracking aggregate Site usage statistics, may also use these technologies to collect similar information. We do not control these third party technologies and their use is governed by the privacy policies of third parties using such technologies. For more information about third party advertising networks and similar entities that use these technologies see www.aboutads.info/consumers, and to opt-out of such ad networks and services advertising practices, go to [www.aboutads.info/choices](https://www.aboutads.info/consumers).
+Third parties that support our Site by serving advertisements or providing services, such as allowing you to share content or tracking aggregate Site usage statistics, may also use these technologies to collect similar information. We do not control these third party technologies and their use is governed by the privacy policies of third parties using such technologies. For more information about third party advertising networks and similar entities that use these technologies see www.aboutads.info/consumers, and to opt-out of such ad networks and services advertising practices, go to [www.aboutads.info/choices](http://www.aboutads.info/consumers).
 
 #### Use of Your Information
 
@@ -91,7 +91,7 @@ If you change your mind about being contacted in the future or if choose to stop
 
 We will share your personal information with third parties only in the ways that are described in this privacy policy and on our enquiry forms or if you consent to such sharing. We do not sell your personal information to third parties.
 
-We use Google Remarketing Services on this Site otherwise known as Online Behavioural Advertising (“OBA”). This service uses cookies to help us to serve advertising which is more targeted to your interests, based on the content of the pages you have visited on our Site and on partner websites. These cookies help us to understand browser habits and visited websites so we can display ads that are targeted to your interests. For more information on OBA, please see our [Cookie Policy](https://www.boatinternational.com/cookie-policy/). To Opt out of this type of profiling cookie visit [Google’s Ads Settings](https://www.google.com/settings/u/0/ads?sig=ACi0TChtOYMrhDOVnwLgvJbZU7aU-Jj-3M43MuCUNc_ozwsQn8SjiauhCzD94LXE1wSlf3id2jnAFCYRHSx11vmXqNGQZYZzkAkqQyuf5G_CnVhwl8Gz5ufPvk2cdWPOS0AVRxxuiehSl2FUOA5qmizke-36Tp_yG1uYMY6q8izI4FcTeDRgO8c&hl=en-GB).
+We use Google Remarketing Services on this Site otherwise known as Online Behavioural Advertising (“OBA”). This service uses cookies to help us to serve advertising which is more targeted to your interests, based on the content of the pages you have visited on our Site and on partner websites. These cookies help us to understand browser habits and visited websites so we can display ads that are targeted to your interests. For more information on OBA, please see our [Cookie Policy](http://www.boatinternational.com/cookie-policy/). To Opt out of this type of profiling cookie visit [Google’s Ads Settings](https://www.google.com/settings/u/0/ads?sig=ACi0TChtOYMrhDOVnwLgvJbZU7aU-Jj-3M43MuCUNc_ozwsQn8SjiauhCzD94LXE1wSlf3id2jnAFCYRHSx11vmXqNGQZYZzkAkqQyuf5G_CnVhwl8Gz5ufPvk2cdWPOS0AVRxxuiehSl2FUOA5qmizke-36Tp_yG1uYMY6q8izI4FcTeDRgO8c&hl=en-GB).
 
 By using the Site, you agree that we may disclose your personal information to any company within the Boat International Media Limited group of companies. We may employ other companies to provide services for us, including for example, providers of web hosting or maintenance services. These companies have access to the personal information needed to perform their functions and not for any other purpose.
 
