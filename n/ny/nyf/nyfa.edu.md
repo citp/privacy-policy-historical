@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nyfa.edu privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428000642id_/https%3A//www.nyfa.edu/about/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyfa.edu privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926043934id_/https%3A//www.nyfa.edu/about/policy.php) for the most accurate reproduction.*
 
 # New York Film Academy - Privacy Policy
 
@@ -56,8 +56,8 @@ If we decide to change our privacy policy, we will post those changes on this pa
 **Contacting Us**  
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.nyfa.edu  
-100 E 17th St.  
-New York, New York 10003, USA  
+<https://www.nyfa.edu/>  
+17 Battery Place, 5th Floor  
+New York, NY 10004  
 [film@nyfa.edu](mailto:film@nyfa.edu)  
 212-674-4300
