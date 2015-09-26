@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the kerastase-usa.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612083316id_/http%3A//www.kerastase-usa.com/privacy-and-sequrity-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kerastase-usa.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926235016id_/http%3A//www.kerastase-usa.com/privacy-and-sequrity-policy.html) for the most accurate reproduction.*
 
-# Privacy & Security Policy
+# Privacy & Security Policies | Kérastase
+
+## Privacy & Security Policy
 
 Thank you for visiting the Kérastase website. We appreciate the importance of your trust and have set forth this Privacy Policy and Cookie Notice to explain how we ( “we”, “us”, or “our”) collect, protect, share and use your information as part of our technology platforms, including, without limitation, our company websites, web pages, sponsored social media platforms, mobile sites and mobile apps (the “Sites”). 
 
