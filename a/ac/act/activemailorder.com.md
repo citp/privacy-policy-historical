@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the activemailorder.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117032915id_/http%3A//www.activerideshop.com/c/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activemailorder.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926061941id_/http%3A//www.activerideshop.com/privacy-policy) for the most accurate reproduction.*
 
-# Active Ride Shop - Privacy Policy
-
-## Active Ride Shop Online Privacy Policy
+# Privacy Policy | activerideshop.com
 
 Active Ride Shop would like to thank you for your support and wants you to know that your privacy is very important to us. This privacy policy is provided to explain how information is collected on our website and how that information is handled once it has been collected. Please note that this privacy policy may change at any time. While using the ActiveRideShop.com website you accept the terms and conditions described in this privacy policy. For the latest changes to our privacy policy click the privacy link on our website at any time.
 
@@ -34,18 +32,18 @@ Active Ride Shop does not knowingly collect information from children under the 
 
 The security of the information regarding your order is very important to us. We use the 128-bit Secure Socket Layer protocol to protect the security of your online order information. You can be assured that all sensitive information will be handled with the utmost discretion and security. SSL technology encrypts your order information to protect it from being decoded by anyone other than Active Ride Shop.
 
-[Click here](https://web.archive.org/web/20111117032915id_/http%3A//www.activerideshop.com/c/Security.htm) to visit our Security section of our website which further explains how you are protected on activerideshop.com
+[Click here](https://web.archive.org/security) to visit our Security section of our website which further explains how you are protected on activerideshop.com
 
 ### Questions and Concerns
 
 If you have any question or concerns in regard to our privacy policy please contact Active Ride Shop at:
 
   * **ActiveRideShop.com**
-  * 12087 Landon Dr.
-  * Mira Loma, CA 91752
+  * 12178 4th Street
+  * Rancho Cucamonga, CA 91730
   * 800-588-3911
   * Outside the US call:
-  * 909-673-7777
+  * 951-934-4200
   * [info@activerideshop.com](mailto:info@activerideshop.com)
 
 
