@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the transfast.com privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527063150id_/https%3A//www.transfast.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transfast.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926214035id_/https%3A//transfast.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | transfast
+# Privacy Policy | TRANSFAST
 
 [ ](https://web.archive.org/)
 
-Policy Effective as of February 11, 2015
+Policy Effective as of August 13, 2015
 
-TRANSFAST Remittance LLC, a Delaware Corporation (“TRANSFAST”, “we”, “our”) takes your Privacy very seriously. This Privacy Policy applies to the Site, www.TRANSFAST.com.   ‘Site’, by definition for this agreement includes our Service application(s) available via internet/web access, mobile and smart phones, tablets, or any other technology that allows you to access the Service, which exists now or in the future.This privacy policy describes how TRANSFAST Remittance LLC collects and uses the personal information you provide on our web site: [www.transfast.com](https://web.archive.org/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This Privacy Policy applies to the Site, [www.TRANSFAST.com](http://www.transfast.com/). Transfast.com is powered by Trans-Fast Remittance LLC, and in California by Trans-Fast Remittance Inc.  ‘Site’, by definition for this agreement includes our Service application(s) available via internet/web access, mobile and smart phones, tablets, or any other technology that allows you to access the Service, which exists now or in the future. This privacy policy describes how TRANSFAST Remittance LLC collects and uses the personal information you provide on our web site: [www.transfast.com](https://web.archive.org/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 We are committed to protecting our customers' privacy and security. This Privacy Statement explains what personal information we collect about you, with whom we share it, and how you [The user of the Service] can direct us not to share certain information with certain parties. "Personal Information" refers to information such as name and email that can be used to identify an individual. You should read this Privacy Policy in its entirety. Certain sections may apply differently to residents of different jurisdictions.
 
