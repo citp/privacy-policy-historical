@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pirateparty.org.uk privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314223022id_/http%3A//pirateparty.org.uk/secretariat/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pirateparty.org.uk privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926193837id_/http%3A//pirateparty.org.uk/secretariat/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Pirate Party
 
@@ -46,7 +46,7 @@ We will never give your information to a third party without your explicit permi
 
 Any personal information about you that we do collect and store about you is for the explicit purpose of helping us to provide you a better service. Much of this information is voluntary, and we limit the information we require from our users to the minimum required by Law (in terms of Membership of the Party) and to the minimum required to provide a service (in terms of website account for use of the Forums).
 
-We may use any contact details you provide to give you information about our campaigns, services, and ongoing development unless you opt out. You are able to opt out of these messages at any time via your [profile page](https://web.archive.org/user).
+We may use any contact details you provide to give you information about our campaigns, services, and ongoing development unless you opt out. You are able to opt out of these messages at any time via your [profile page](https://web.archive.org/user). We reserve the right to send out occasional, important updates to all registered members, regardless of your subscription preferences. We will keep this to a minimum, and in general aim for no more than 4 such emails per year. 
 
 We may use any information we collect to fulfil any commitments we've made to you, if the information is needed to do so.
 
