@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ifrs.org privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622084125id_/http%3A//www.ifrs.org/Pages/PrivacyStatement.aspx%236) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifrs.org privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926165600id_/http%3A//www.ifrs.org/Pages/PrivacyStatement.aspx%236) for the most accurate reproduction.*
 
 # IFRS - Privacy and Cookies
 
@@ -224,4 +224,5 @@ Sensitive Personal Data means personal data consisting of information as to:
   * the commission or alleged commission by him of any offence; or 
   * any proceedings for any offence committed or alleged to have been committed by him, the disposal of such proceedings or the sentence of any court in such proceedings.
 
+  
 
