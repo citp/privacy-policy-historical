@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sitepen.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407082742id_/http%3A//www.sitepen.com/site/page.html%3Fview%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitepen.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926223727id_/https%3A//www.sitepen.com/site/page.html%3Fview%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy | SitePen
 
-SitePen, Inc. (“SitePen”, “we,” “us,” or “our”) is committed to respecting the privacy rights of users of our products, services and web sites, such as http://sitepen.com (including each subdomain, the “Site”) and our software support services (the “Services”). We created this Privacy Policy to give you confidence and describe how we treat personal information as you visit and use our Site and Services. 
+SitePen, Inc. (“SitePen”, “we,” “us,” or “our”) is committed to respecting the privacy rights of users of our products, services and websites, such as http://sitepen.com (including each subdomain, the “Site”) and our software support services (the “Services”). We created this Privacy Policy to give you confidence and describe how we treat personal information as you visit and use our Site and Services. 
 
 See our [contact page](https://web.archive.org/site/contact.html) to contact us.
 
@@ -12,7 +12,7 @@ Registration data. An email address, username and password are required for user
 
 Content and other submissions. If you choose to submit Content on the Site, we will collect that information. We may examine it to provide better service and filter out any objectionable Content. We also collect Content you submit in connection with the Services, as well as information otherwise volunteered by users of our Site, such as by emailing or mailing us. 
 
-Log file information. When users visit our Site, our servers automatically collect certain information that the browser sends when visiting Web sites in general. This log file information may include the URLs you visited; your IP address; date, time, and time spent on pages visited; and information about your browser and platform. 
+Log file information. When users visit our Site, our servers automatically collect certain information that the browser sends when visiting websites in general. This log file information may include the URLs you visited; your IP address; date, time, and time spent on pages visited; and information about your browser and platform. 
 
 Cookies. From time to time, our Site may use the “cookies” feature of major browser applications that allows us to store a small piece of data on your computer about your use of the same. We do not set any personally identifiable information in cookies. Cookies help us learn which portions of our Site are useful and which need improvement, among other things. You can choose whether to accept cookies by changing the settings on your browser. However, if you choose to disable this function, your experience with the Site may be significantly diminished and various features may not operate. 
 
