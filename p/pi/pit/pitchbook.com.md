@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pitchbook.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127134102id_/http%3A//pitchbook.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitchbook.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926044525id_/http%3A//www.pitchbook.com/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | PitchBook
 
@@ -69,7 +69,8 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 We may provide you the ability to view or edit your personal information online. In order to help prevent your personal information from being viewed by others, you will be required to sign in with your credentials (user name and password). 
 
 **HOW TO CONTACT US**  
-If you would like to contact us for any reason regarding our privacy practices, please write us at the following address: ATTN: President, PitchBook Data, Inc., 1201 Alaskan Way, Pier 56 - Suite 200, Seattle, WA 98101
+If you would like to contact us for any reason regarding our privacy practices, please write us at the following address:  
+ATTN: President, PitchBook Data, Inc., 901 Fifth Avenue, Suite 1200, Seattle, WA 98164
 
 **CHANGES TO THIS POLICY**  
 We will occasionally update this Policy to reflect changes in our services and customer feedback. When we post changes to this Policy, we will revise the "Effective Date" at the top of this Policy. If there are material changes to this Policy or in how we will use your personal information, we will notify you either by prominently posting a notice of such changes prior to implementing the change or by directly sending you a notification. We encourage you to periodically review this Policy to be informed of how PitchBook is protecting your information. 
