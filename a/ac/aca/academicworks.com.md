@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the academicworks.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324142411id_/http%3A//www.academicworks.com/wordpress/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academicworks.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926090857id_/http%3A//www.academicworks.com/wordpress/privacy-policy) for the most accurate reproduction.*
 
 # AcademicWorks | The leading provider of scholarship management solutions for colleges, universities, and foundations. » Privacy Policy
 
