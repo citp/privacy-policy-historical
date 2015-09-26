@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iplcricket.com privacy policy that was archived on 2015-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150107212834id_/http%3A//www.iplcricket.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iplcricket.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926084021id_/http%3A//iplcricket.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | IPL 2013 - IPL Cricket Live
 
