@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the racingvictoria.net.au privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627181508id_/http%3A//www.racing.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racingvictoria.net.au privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926113558id_/http%3A//www.racing.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RACING.COM
 
