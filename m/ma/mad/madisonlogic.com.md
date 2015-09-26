@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the madisonlogic.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319225758id_/http%3A//www.madisonlogic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madisonlogic.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926234746id_/https%3A//www.madisonlogic.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Madison Logic
 
-**_Effective as of August 27th, 2014_**
+## ****Privacy Policy****
+
+_Effective as of  July 27, 2015_
 
 **Overview**
 
@@ -10,21 +12,45 @@ Madison Logic, Inc., its subsidiaries, partners and affiliates (collectively, �
 
 **Madison Logic Anti-Spam Policy**
 
-Madison Logic has a zero tolerance spam policy. Any partner found to be using Madison Logic promotional offers for spam will be immediately cut-off from use of the product. If you know of or suspect any violators, please notify us immediately at [privacy@madisonlogic.com](mailto:privacy@madisonlogic.com)
+Madison Logic has a zero tolerance spam policy. Any partner found to be using Madison Logic promotional offers for spam will be immediately cut-off from use of the product. If you know of or suspect any violators, please notify us immediately at [privacy@madisonlogic.com](mailto:privacy@madisonlogic.com)
 
 **Data Collection**
 
 Our purpose in collecting information is to help us provide you with better service, such as notifications about special offers and promotions, or other relevant content delivered through targeted advertising. We will not willfully disclose any identifiable information about you to any third party without first receiving your explicit permission, as explained in this privacy statement.
 
-Madison Logic may use a variety of technologies, including [“cookies”](https://web.archive.org/privacy/#anchor) that automatically or passively collect information from your computer, mobile device or other technology when you are visiting a Madison Logic or partner website or on a 3rd party’s behalf when we serve advertisements. Information collected may include data such as your IP address, browser type, operating system, your responses to advertisements delivered by us, date and time, referring URLs and other information normally transmitted in HTTP requests (“Usage Information”). This information may be associated with anonymous business profile information about you, such as your industry, company size, and job title. The purpose of this information is to keep the Service updated and interesting to our users and tailor content to each individual’s interests. Madison Logic does not use this information to discern your identity or to disclose your identity to any 3rd party.
+We do not collect the following information that identifies you: your name, address, email address, and telephone number (“Personal Information”) unless you choose to provide it to us for example, by submitting a registration form in order to access free content. We may also receive this information when you provide it to a business partner of ours. We may receive business profile information about you, such as your industry, company size and job title from other sources, and add it to the information you provided to us. If you do not want your Personal Information collected, please do not submit it. In order to ensure the safekeeping of your Personal Information, Madison Logic stores this data in a separate database from any Usage Information.
 
-You may elect to Opt Out of Usage Information collection [here.](https://web.archive.org/privacy/#tab-1380136766-2-91)
+The madisonlogic.com website may also collect another recipient’s email address to help you to initiate and email the recipient you have selected, when you forward a position to them in our careers pages. The recipient may contact us at [privacy@madisonlogic.com](mailto:privacy@madisonlogic.com) to request that we remove this information.
 
-We do not collect the following information that identifies you: your name, address, email address, and telephone number (“Personal Information”) unless you choose to provide it to us for example, by submitting a registration form in order to access free content. We may also receive this information when you provide it to a business partner of ours. We may receive business profile information about you, such as your industry, company size and job title from other sources, and add it to the information you provided to us. If you do not want your Personal Information collected, please do not submit it. In order to ensure the safekeeping of your Personal Information, Madison Logic stores this data in a separate database from any Usage Information. You may elect to Opt Out from your personal profile [here.](https://web.archive.org/privacy/#tab-1380136766-2-91)
+**How We Use the Information We Collect**
 
-**Cookies**
+Madison Logic may use the information we obtain, license and collect about and from you for a number of business purposes, including for example, to: better tailor website and promotional content to visitor interests; verify your profile information; deliver targeted advertising; inform our partners of your business-related interests; improve the Service for internal business purposes; help our advertising partners better understand the audience they are reaching; and for purposes we disclose at the time you provide your Personal Information.
+
+**Cookies / Tracking Technologies**
+
+We Madison Logic and our publishing partners, affiliates, or analytics or service providers, use technologies such as cookies, beacons, tags, and scripts, to analyze trends, administer the website, tracking users’ movements around the website, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual and aggregated basis.  As to information submitted to, through or on our website, we may likewise use service providers to host content, host or implement blogs and forums, or conduct data and marketing analytics with respect to information captured.
+
+Madison Logic may use a variety of technologies, including [“cookies”](http://www.madisonlogic.com/privacy/#anchor) that automatically or passively collect information from your computer, mobile device or other technology when you are visiting a Madison Logic or partner website or on a 3rd party’s behalf when we serve advertisements and store it in log files. Information collected may include data such as your IP address, browser type, operating system, your responses to advertisements delivered by us, date and time, referring URLs and other information normally transmitted in HTTP requests (“Usage Information”). This information may be associated with anonymous business profile information about you, such as your industry, company size, and job title. The purpose of this information is to keep the Service updated and interesting to our users and tailor content to each individual’s interests. Madison Logic does not use this information to discern your identity or to disclose your identity to any 3rd party.
+
+You may [click here](http://www.networkadvertising.org/choices/) to opt out of Madison Logic. This link will take you to the NAI’s industry opt-out page where you will be able to opt-out from Interest-Based Advertising from Madison Logic and other NAI members.
+
+Please note: This opt-out relies on a cookie, so if you wipe all your cookies, we will no longer know that you have opted out.
 
 A cookie is a small text file stored on a user’s device containing information about the user. We may use cookies to reduce registration fields so that you can receive free content more easily, deliver targeted advertising, or understand your interests and focus areas of research. We believe this enables us to provide users with a more meaningful online experience.
+
+We use Local Storage Objects (LSOs) such as Flash to store content information and preferences. Various browsers may offer their own management tools for removing HTML5 LSOs. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 and Flash to collect and store information. To learn how to manage privacy and storage settings for Flash cookies click here:
+
+[**http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118**](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118)
+
+**Advertising / Behavioral Targeting; How to Opt-Out**
+
+If you wish to opt out of our Service, please go to our opt-out page.
+
+We may use third party vendors to enhance the Service (e.g. for purposes of retargeting). We do not share Personal Information with these third parties, but they may set and access their own cookies, pixel tags and similar technologies on your device and they may otherwise collect or have access to anonymous Usage Information.
+
+When you opt out of the Service, Madison Logic will no longer use or share any of your Personal or anonymous Usage Information, unless you recently submitted Personal Information (within last 30 days) in order to access free content, in which case only the Content Provider associated with the content you recently acquired will have access to your information.
+
+When you opt out of the Service, we place a cookie on or otherwise identify your browser or device (and/or employ similar technology) to prevent future collection of Usage Information. Opting out of the Service is not the same as blocking cookies. When you opt out of Madison Logic’s Service, we will place a special Madison Logic cookie on (or otherwise identify) your device or browser in a way that informs our systems not to record information related to your business research activities. If you browse the web from multiple devices or browsers, you will need to opt out from each device or browser to ensure that we prevent personalization tracking on all of them. For the same reason, if you procure a new device, change browsers or delete the Madison Logic opt out cookie (or clear all cookies), you will need to perform this opt-out task again.
 
 **Disabling Cookies**
 
@@ -37,29 +63,21 @@ If you would prefer not to accept cookies, you can:
 
 Please note, however, that cookies are used for a variety of reasons, not just marketing-related, so this may adversely impact your online experience.
 
-**How We Use the Information We Collect**
+**Service Providers**
 
-Madison Logic may use the information we obtain, license and collect about and from you for a number of business purposes, including for example, to: better tailor website and promotional content to visitor interests; verify your profile information; deliver targeted advertising; inform our partners of your business-related interests; improve the Service for internal business purposes; help our advertising partners better understand the audience they are reaching; and for purposes we disclose at the time you provide your Personal Information.
+We may engage companies that provide services to help us with our business activities such as our blog and career pages. These companies are authorized to use your personal information only as necessary to provide these services to us.
 
 **Sharing of Information**
 
 Except as denoted in this Privacy Policy, we will not provide any of your Personal Information to any partners or third parties without your consent. We may share non-Personal Information, such as aggregated demographics, user statistics, interest categories, and Usage Information with third parties. We may combine your Usage Information with those of other users of the Service in order to share trend information with third parties, always in aggregated and anonymous form. We may aggregate Usage Information associated with your Personal Information into business-related research events, which include the form of engagement and content type, topics derived from the content of the event, and date/timestamp of when the event occurred, always in anonymous form. An interest event may be, for example, the downloading of a whitepaper on cloud computing, or clicking on an advertisement related to SSL certificates.
 
-**Advertising / Behavioral Targeting; How to Opt-Out**
-
-If you wish to opt out of our Service, please go to our opt-out page.
-
-We may use third party vendors to enhance the Service (e.g. for purposes of retargeting). We do not share Personal Information with these third parties, but they may set and access their own cookies, pixel tags and similar technologies on your device and they may otherwise collect or have access to anonymous Usage Information.
-
-When you opt out of the Service, Madison Logic will no longer use or share any of your Personal or anonymous Usage Information, unless you recently submitted Personal Information (within last 30 days) in order to access free content, in which case only the Content Provider associated with the content you recently acquired will have access to your information.
-
-When you opt out of the Service, we place a cookie on or otherwise identify your browser or device (and/or employ similar technology) to prevent future collection of Usage Information. Opting out of the Service is not the same as blocking cookies. When you opt out of Madison Logic’s Service, we will place a special Madison Logic cookie on (or otherwise identify) your device or browser in a way that informs our systems not to record information related to your business research activities. If you browse the web from multiple devices or browsers, you will need to opt out from each device or browser to ensure that we prevent personalization tracking on all of them. For the same reason, if you procure a new device, change browsers or delete the Madison Logic opt out cookie (or clear all cookies), you will need to perform this opt-out task again.
+We may also disclose your personal information as required by law, such as to comply with a subpoena, bankruptcy proceedings, or similar legal process when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
 
 **Updating Personal Information**
 
-If you wish to verify, correct, or update your Personal Information collected through the Service, you may contact us at the address or email found at the [Contact Us](https://web.archive.org/privacy/#anchor2) section of this Privacy Policy. In accordance with our routine record keeping, we may delete certain records that contain Personal Information you have submitted through the Service. We are under no obligation to store such Personal Information indefinitely and disclaim any liability arising out of, or related to, the destruction of such Personal Information. We will retain your information for as long as your account is active or as needed to provide you the Service. If you wish to cancel your account or request that we no longer use your information to provide the Service, contact us at privacy@madisonlogic.com.┬á We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. In addition, you should be aware that it is not always possible to completely remove or delete all of your information from our databases without some residual data because of backups and other reasons.
+If you wish to verify, correct, or update your Personal Information collected through the Service, you may contact us at [privacy@madisonlogic.com](mailto:privacy@madisonlogic.com) or by mail to 257 Park Avenue South, 5th Floor, NY, NY 10010. We will respond to your request within a reasonable timeframe. In accordance with our routine record keeping, we may delete certain records that contain Personal Information you have submitted through the Service. We are under no obligation to store such Personal Information indefinitely and disclaim any liability arising out of, or related to, the destruction of such Personal Information. We will retain your information for as long as your account is active or as needed to provide you the Service. If you wish to cancel your account or request that we no longer use your information to provide the Service, contact us at [privacy@madisonlogic.com](mailto:privacy@madisonlogic.com).  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. In addition, you should be aware that it is not always possible to completely remove or delete all of your information from our databases without some residual data because of backups and other reasons.
 
-**Data Security Precautions & Retention **
+**Data Security Precautions & Retention**
 
 Madison Logic takes precautions to protect data and information under its control from misuse, loss or alteration. Madison Logic’s security measures include industry-standard technology and equipment to help protect your information, and Madison Logic maintains security measures to allow only the appropriate personnel and contractors access to your information. Unfortunately, no system can ensure complete security, and Madison Logic disclaims any liability resulting from use of the Service or from third party hacking events or intrusions.
 
@@ -81,21 +99,40 @@ Madison Logic does not knowingly collect Personal or Usage Information from chil
 
 The Service and the servers and facilities that maintain the data we hold, are operated in the United States. Given that we are an international business, our use of your information necessarily involves the transmission of data on an international basis. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that information we collect may be transferred to and processed in the United States. By using the Service, or providing us with any information, you consent to the collection, processing, maintenance and transfer of such information in and to the United States and other applicable territories in which the privacy laws may not be as comprehensive as or equivalent to those in the country where you reside and/or are a citizen.
 
+**Social Media Widgets**
+
+Our website includes Social Media Features, such as the Facebook Like button, and Widgets, such as the Share This button or interactive mini-programs that run on our website. These Features may collect your Internet protocol address, which page you are visiting on our website, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our website. Your interactions with these Features are governed by the privacy statement of the company providing it.
+
+**Blogs**
+
+Our website offers publicly accessible blogs. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [privacy@madisonlogic.com](mailto:privacy@madisonlogic.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+
 **Changes to our Privacy Policy**
 
-Please note, we may modify information presented via the Service and/or this Privacy Policy from time to time without prior notice to you, and any changes will be effective immediately upon the posting of the revised Privacy Policy. You are encouraged to periodically revisit the Madison Logic Privacy Policy to see if it has been updated. We will always show the date of the latest modification date of the Privacy Policy at the top of the page so you can tell when it has last been revised.
+Please note, we may modify information presented via the Service and/or this Privacy Policy from time to time without prior notice to you, and any changes will be effective immediately upon the posting of the revised Privacy Policy. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this website prior to the change becoming effective. You are encouraged to periodically revisit the Madison Logic Privacy Policy to see if it has been updated. We will always show the date of the latest modification date of the Privacy Policy at the top of the page so you can tell when it has last been revised.
+
+**Madison Logic Services**
+
+Madison Logic also collects information under the direction of any one of its Clients, in which case it collects cookie identifiers from the individuals.  If you are a customer of one of any one of our Clients and would no longer like to be contacted by our Client that uses our Service, please contact the Client that you interact with directly. We may transfer personal information to companies that help us provide our Service. Transfers to subsequent third parties are covered by the service agreements with our Clients.
+
+An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the Madison Logic’s Client (the data controller). If requested to remove data we will respond within a reasonable time frame.
+
+We will retain that personal information for as long as needed to provide services to any one of our Clients or as otherwise authorized, directed or permissioned by our Clients.  In addition, Madison Logic will retain this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 **Contact Us**
 
-We regularly review our compliance with this Privacy Policy. Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to: [privacy@madisonlogic.com](mailto:privacy@madisonlogic.com) or by mail to 257 Park Avenue South, 5th Floor, NY, NY 10010
+We regularly review our compliance with this Privacy Policy. Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to: [privacy@madisonlogic.com](mailto:privacy@madisonlogic.com) or by mail to 257 Park Avenue South, 5th Floor, NY, NY 10010
 
 **Affiliations**
 
-  
-Madison Logic is a member of the Network Advertising Initiative (NAI) and complies with all NAI standards. To learn more about the use of cookies for targeting and to opt out of data collection and targeting cookies from Madison Logic or other ad networks, [click here](http://www.networkadvertising.org/choices/ "NAI"). Alternatively, you may [click here](http://www.madisonlogic.com/privacy/#tab-1380136766-2-91 "Opt-Out") to opt-out of data collection and targeting cookies from Madison Logic only. This will result in your inability to benefit from many of the Madison Logic features described above. Note that if you change computers or browsers, or use multiple computers or browsers, you will need to repeat the opt-out process for each computer and each browser.
+Madison Logic is a member of the Network Advertising Initiative (NAI) and complies with all NAI standards. To learn more about the use of cookies for targeting and to opt out of data collection and targeting cookies from Madison Logic or other ad networks, [click here](http://www.networkadvertising.org/choices/). Alternatively, you may [click here](http://www.madisonlogic.com/privacy/#tab-1380136766-2-91) to opt-out of data collection and targeting cookies from Madison Logic only. This will result in your inability to benefit from many of the Madison Logic features described above. Note that if you change computers or browsers, or use multiple computers or browsers, you will need to repeat the opt-out process for each computer and each browser.
 
-[](http://privacy.truste.com/privacy-seal/Madison-Logic/validation?rid=e7b3baf6-1740-4b68-8881-c49dfa919209)
+[](http://privacy.truste.com/privacy-seal/validation?rid=7a559be2-d7f1-4bd2-891e-e0ff0a702f8c)
 
-Madison Logic has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s program requirements including transparency, accountability and choice regarding the collection and use of your Personal Information.TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at 257 Park Avenue South, 5th Floor, NY, NY 10010. If you are not satisfied with our response you can contact TRUSTe here.
+The TRUSTe certification covers our collection, use and disclosure of information we collect through our website www.madisonlogic.com and our Madison Logic Service. The use of information collected through our Service shall be limited to the purpose of providing the Service for which our Client has engaged Madison Logic.
 
-Madison Logic complies with the U.S. – E.U. and U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from European Union member countries and Switzerland.┬á Madison Logic has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Madison Logic’s certification, click [here.](http://safeharbor.export.gov/companyinfo.aspx?id=16561)
+In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at[ https://feedback-form.truste.com/watchdog/request.](https://feedback-form.truste.com/watchdog/request.)
+
+[](http://export.gov/safeharbor/)
+
+Madison Logic complies with the U.S. – E.U. and U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from European Union member countries and Switzerland. Madison Logic has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Madison Logic’s certification, click [here.](http://safeharbor.export.gov/companyinfo.aspx?id=16561)
