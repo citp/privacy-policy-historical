@@ -1,85 +1,57 @@
-> *The following text is extracted and transformed from the enwisen.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206120514id_/http%3A//www.enwisen.com/exploreoursolutions/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enwisen.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926092726id_/http%3A//www.infor.com/company/privacy) for the most accurate reproduction.*
 
-# Privacy Policy and Security Statement
+# Privacy
 
-### Our Commitment to Privacy
+## Company Privacy Policy 
 
-Infor is committed to maintaining the confidentiality, integrity and security of all personal information we process or maintain about our current and prospective customers and the employees of our corporate customers in connection with its hosted and software as a service (SaaS) products delivered as part of Infor’s Enwisen HR Service Delivery product suite.  Infor maintains a strong focus on meeting privacy requirements and the implementation of appropriate security controls to foster a high level of trust between Infor, our customers and our customers’ users.
+Infor (the "Company") regards customers privacy as one of its most important values. The Company wants you to know how it protects the information of Company customers who make use of the services and products offered though this website (the "Company Website"). 
 
-Please note that this policy applies to the Infor Enwisen HR Service Delivery product suite.  How this policy applies to your use of the Infor Enwisen HR Service Delivery products may depend on whether you are a direct corporate customer or an employee or associate of an Infor customer.  
+## Electronic Service Registration
 
-### Infor Privacy Policy
+When you register to receive a product or information through the Company Website ("Registered User"), you will be prompted to provide certain information that identifies you ("Personal Information") or allows the Company to contact you. Such registration information may be merged with any information you have already provided to the Company (the "Personal Profile"). If you have not previously registered with the Company, a Personal Profile will be created for you from your electronic registration information. 
 
-#### How and why we obtain personal information
+## Customer Profiles
 
-The use of Infor’s Enwisen HR Service Delivery solutions may result in Infor having access to and possession of personal information about the employees of our corporate customers or other individuals with whom we have relationships.  Personal information is a class of non-public information that typically includes data about an individual such as name, address, Social Security Number, birth date, and other personally identifiable information.   Personal information may be the subject of one or more applicable laws requiring Infor and/or our customer to protect the information and to take specific actions in the event of an unauthorized use or disclosure.  Infor takes great care to protect any personal information provided to us.  This information may be collected from multiple sources that include:
+Every Registered User has a unique Personal Profile. Each Personal Profile is assigned a unique personal identification number, that you will receive to help ensure that only you can access your profile. 
 
-  * Directly from individual users entering the information into one of Infor’s applications.
-  * Directly from Infor’s corporate customers through their designated service representatives or indirectly via secure batch data transfers.
-  * In the ordinary course of transactional activities as information is updated or processed by our customers or through data maintenance activities.
-  * Other sources as defined by one of our solutions.
+## Privacy 
 
+**U.S. - EU and U.S. - Swiss  Safe Harbor Privacy Statement**   
+Infor is committed to handling personal information of employees and customers that Infor receives from the European Union member countries and Switzerland in accordance with the U.S. - E.U. Safe Harbor Framework and the U.S. - Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce.  You can find Infor’s Safe Harbor certification at <http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list>. For more information about the Safe Harbor Principles and the FAQs, please visit the U.S. Department of Commerce’s Website at <http://export.gov/safeharbor/>.
 
-
-#### How we protect personal information
-
-Infor does not use personal information provided to us by our customers or users for promotional, advertising or marketing purposes nor does Infor sell or make personal information available for such purposes.  Personal information is used only in connection with delivery of our solutions to our customers and access to personal information is restricted to only those who have a need-to-know in connection with the delivery of our solutions.  
-
-Infor employs multiple best practices which include physical, electronic and procedural controls. We are constantly evaluating these controls through internal and external audits and modify them to respond to any changes in technological advances, risk or requirements changes.  Our Information Security Management System is centered on the implementation and maintenance of appropriate administrative, physical and technical safeguards consistent with industry best practices and designed to comply with ISO/IEC 27001:2005 and the associated ISO/IEC 27002 appendix.   Our Information Security Management System features:
-
-  * Management commitment to information security as noted by our focus on ISO 27001 compliance and certification strategy;
-  * Continual review of the implementation and effectiveness of information security policies and practices including frequent internal security audits and annual independent SSAE16 audits;
-  * Requirements that third parties participating in delivery of our solutions implement and maintain appropriate security controls with verification of such practices through periodic assurance audits;
-  * Asset management processes which track all assets and insure they are being used appropriately
-  * Information classification designed to ensure that appropriate protection is applied to all data;
-  * Administrative processes to ensure all individuals are aware of their responsibility for data privacy and security and that appropriate non-disclosure agreements are executed;
-  * Requirements that all employees maintain awareness  of the risks related to data security and their responsibility to adhere to Infor’s policies and procedures;
-  * Appropriate physical security controls to protect assets within a secure perimeter and enforce limited access based upon the classification level of the data.
+To protect your privacy when you browse and/or make use of the services provided through the Company Website, the Company follows certain basic rules:   
 
 
+  * **Notice.** Generally, personal information is requested when: (i) existing Company customers register to use the customer portal area of the Company Website (the "Customer Portal"); and (ii) visitors to the Company Website request certain information about Company information, products, and/or services. Although the Terms of Use governing (i) and (ii) above may vary, the Company uses your personal Information in all three situations for the same general purposes: 
+    * To make the Company Website easier to use by not having to enter information more than once 
+    * To find services or information quicker 
+    * To create relevant content 
+    * To distribute alerts concerning product upgrades, special offers, updated information, and other new services and products from Company 
+    * To share relevant information with affiliates, or third-parties 
 
-#### How we share personal information with third parties
+PLEASE NOTE THAT COMPANY CUSTOMERS WHO ARE AUTHORIZED TO USE THE CUSTOMER PORTAL ARE SUBJECT TO AN ADDITIONAL TERMS-OF-USE POLICY THAT GOVERNS THE USE THEREOF. 
 
-Infor does not share personal information with third parties unless a third party is participating in the performance of a specific service for the benefit or our customer and the data shared is necessary to the service being performed.  Third party service providers are contractually obligated to protect the information shared with them and to use it only for providing services to our customers.
+    * **Consent/Choice.** If you choose not to provide personal information, you can still browse and/or use many areas of the Company Website, but you will not be able to access certain areas that are restricted to specific users. 
 
-#### How we share personal information within Infor
+The Company will share personal information to facilitate transactions, or to comply with the valid legal process such as a search warrant, subpoena, or court order. The Company may share statistical, aggregate, non-personally identifiable data with third parties in order to permit third parties to provide non-targeted marketing offers to you. If you do not want the Company to communicate with you about other offers regarding Company products, programs, events, or services by email, postal mail, or telephone, or if you do not want to receive affiliate, partner, or third-party offers, you may contact the Company at [Privacy.Inquiries@infor.com](mailto:Privacy.Inquiries@infor.com). 
 
-A department within Infor may utilize the services of another department at Infor to provide functions that could include printing, mailing or data processing.  All private information that is shared within Infor will be handled in strict compliance with our Information Security Management System.
+Please note that the Company does not control the privacy policies or data-sharing practices of the third parties who provide such products or services. Such third parties may have privacy terms that differ from this privacy policy, and they may share personal information different from the way this Company Privacy Policy permits. 
 
-#### Privacy Online
-
-Services provided by Infor that have an online capability have additional security controls to insure the confidentiality, availability and integrity of the data being transmitted or processed.  Infor has implemented a variety of controls that include strong physical security, highly redundant critical systems, firewalls, DMZ’s, load-balancers, advanced encryption, VPN’s, two-factor authentication, and other techniques, designed to ensure the security of online sessions.  When necessary to facilitate site navigation or to enhance security, Infor will utilize techniques such as session cookies or similar temporary files.  The information processed or stored by these mechanisms will be limited to only that which is necessary for delivery of our services.  We may collect information about application performance and the time required to respond to user interactions.  This information is only used to determine where additional resources are necessary to provide a more rewarding customer experience. 
-
-### Infor Enwisen HR Service Delivery Security Statement
-
-#### How and why we obtain non-public information
-
-Infor takes great care to protect non-public information provided to us by our customers.  This information may be collected from multiple sources that include:
-
-  * Directly from use of one of Infor’s hosted applications.
-  * Directly from a customer’s designated service representative or indirectly via batch data transfers.
-  * In the course of transactional activities as information is updated or processed by an Infor hosted application, or through data maintenance activities.
-  * Other sources as defined by one of our solutions.
+    * **Access.** The Company will provide you with the means to ensure that your personal information is correct and current. You may review and update this information at any time by contacting the Company at [Privacy.Inquiries@infor.com](mailto:Privacy.Inquiries@infor.com). 
+    * **Data Integrity/Security.** The Company collects personal information that is relevant for the purpose for which it is to be used, and the Company will take reasonable precautions to ensure that such data is appropriate for its intended use. Additionally, the Company takes precautions to protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. 
+    * **Enforcement.** If you believe the Company has not adhered to these rules, please notify us by e-mail at [Privacy.Inquiries@infor.com](mailto:Privacy.Inquiries@infor.com), and the Company will do its best to determine and correct the problem promptly. Be certain the words "Privacy Policy" are in the subject line. 
 
 
 
-#### How we protect non-public information
+## Other Measures
 
-Infor has implemented a defense-in-depth strategy to protect non-public information.  This strategy is based upon best-practices designed to comply with applicable laws and regulations and is based upon widely accepted industry standards such as ISO/IEC 27001:2005. Our security management system is based on a plan, do, check and act model that includes these domains:
-
-  * Security Policies:  We require that all employees be responsible for the security of non-public information and follow the practices defined within the Information Security Management System.
-  * Information Security Organization:  Infor’s management is committed to security and has established an organization responsible for the security of non-public information. 
-  * Asset Management:  All assets are strictly controlled and all information is classified in order to determine the appropriate controls required for access and handling.
-  * Human Resources Security Practices:  Infor conducts a comprehensive background check and screening at the time each employee is hired and requires that employees maintain familiarity and compliance with security responsibilities.  When employees leave Infor, a formal process is established to remove their physical and virtual access to the Infor infrastructure.
-  * Physical and Environmental Security: Infor places critical components in physically controlled spaces with best-practices in place to secure infrastructure. Physical and environmental security measures include card and/or biometric access controls, and limited access to secure locations based on job function.  
-  * Communication and Operations Management:  Infor has implemented strong operational procedures to protect information. Our controls surrounding system planning, protection from malicious code, backup processes, network security, media handling and exchange of information are constantly being analyzed and monitored to insure they provide reasonable protection for your data. Third party service providers with access to confidential information are required to adhere to security and privacy requirements that are consistent with and at least as restrictive as Infor’s own policies and procedures regarding the protection of confidential information.  
-  * Access Control: All access to systems, networks, and applications is controlled down to the user and resource level with role-based privilege techniques.  This access is reviewed on a periodic basis to ensure that a change of personnel or a change of role has not modified the access needs of the individual.
-  * System Development: Security requirements of all applications that handle confidential information are defined early in the development stage.  Appropriate data protection techniques are designed into the application while changes to developed software must go through a mature change management process.
-  * Incident Management: In the unlikely event of an actual or reasonably suspected security incident, our teams immediately begin work to identify the scope if impact, mitigate any exposure, determine the root cause of the incident and take appropriate corrective action.
-  * Compliance: We are constantly analyzing the requirements of legal, regulatory, and contractual obligations to insure we are abiding by the requirements that apply to the handling of your data. 
+Calls into the Company personnel for technical support and other inquiries may be recorded for quality assurance and training purposes. The Company takes precautions to protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction.  
 
 
+[ ](https://myportal.infor.com/protectedinformationincidentreport/)
 
-#### Additional Information
+**HIPAA - Protected Information Incident Report**
 
-If you have any questions or need additional information, please don’t hesitate to contact your Infor Account Executive directly or contact us by e-mail at info@infor.com with “Enwisen Security and Privacy” in the subject line.
+Infor employees, contractors, and partners can report certain types of information incidents they observe in their work for Infor.
+
+[Go to the report/form ](https://myportal.infor.com/protectedinformationincidentreport/)
