@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doordash.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621211524id_/https%3A//www.doordash.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doordash.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926111722id_/https%3A//www.doordash.com/privacy) for the most accurate reproduction.*
 
 # DoorDash Food Delivery | Privacy Policy
 
@@ -39,8 +39,8 @@ DoorDash will occasionally update this Statement of Privacy to reflect company a
 DoorDash welcomes your questions or comments regarding this Statement of Privacy. If you believe that DoorDash has not adhered to this Statement, please contact DoorDash at: 
 
 **DoorDash, Inc**  
-470 Olive Ave.  
-Palo Alto, California 94306  
+116 New Montgomery St, 4th Floor  
+San Francisco, CA 94105  
 
 
 Email Address: support@doordash.com
