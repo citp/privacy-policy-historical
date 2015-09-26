@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the linjer.co privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317031344id_/http%3A//www.linjer.co/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linjer.co privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926204420id_/http%3A//www.linjer.co/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Linjer
+# Privacy Policy – Linjer
 
 This privacy policy is developed to ensure maximum security to customers during their association with  linjer.co and later. The privacy policy highlights the usage of information provided by customers and its interpretation at our end and the measures adopted by us to secure it.
 
