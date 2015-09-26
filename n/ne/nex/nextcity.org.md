@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextcity.org privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508191050id_/http%3A//nextcity.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextcity.org privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926095934id_/https%3A//nextcity.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Next City
 
