@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aboutgirlslove.com privacy policy that was archived on 2015-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150525024555id_/http%3A//aboutgirlslove.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aboutgirlslove.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926111810id_/http%3A//aboutgirlslove.com/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY
 
