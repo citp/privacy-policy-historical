@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldstar.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627175057id_/https%3A//www.goldstar.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldstar.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926233705id_/https%3A//www.goldstar.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Company | Goldstar
 
