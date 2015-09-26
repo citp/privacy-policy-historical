@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the huddle.net privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512193338id_/http%3A//www.huddle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huddle.net privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926223623id_/https%3A//www.huddle.com/privacy) for the most accurate reproduction.*
 
-# Huddle Privacy Policy | Huddle.com
+# Privacy Policy | Huddle
 
 ## Last Updated: January 21st, 2014
 
-Ninian Solutions Ltd (t/a Huddle) whose registered offices are Maersk House, 1 Braham Street, London, UK and it’s US subsidiary Huddle Inc (dba Huddle) a Delaware Corporation whose offices are at 835 Howard Street, 3rd Floor, San Francisco, CA 94103 (“we”, “us” “our” or “Huddle”) are committed to protecting and respecting Your privacy. When we collect personal information from You, we follow the privacy principles and comply with the Data Protection Act 1998 and the US-EU and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use and retention of personal data from the European Union. Huddle’s US-EU and US Swiss Safe Harbor framework policy can be found [here](http://www.huddle.com/safe-harbor/).
+Ninian Solutions Ltd (t/a Huddle) whose registered offices are Maersk House, 1 Braham Street, London, UK and it’s US subsidiary Huddle Inc (dba Huddle) a Delaware Corporation whose offices are at 835 Howard Street, 3rd Floor, San Francisco, CA 94103 (“we”, “us” “our” or “Huddle”) are committed to protecting and respecting Your privacy. When we collect personal information from You, we follow the privacy principles and comply with the Data Protection Act 1998 and the US-EU and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use and retention of personal data from the European Union. Huddle’s US-EU and US Swiss Safe Harbor framework policy can be found [here](http://www.huddle.com/safe-harbor/).
 
-This policy, together with our Subscriber Agreement for Huddle Services <http://www.huddle.com/subscriber-agreement/>, our Master Services Agreement and our End User License Agreement (“Terms of Use”) <http://www.huddle.com/terms-of-use/> and any other documents referred to in them, sets out the basis on which any personal data we collect from You, or that You provide to us, will be processed by us. Please read the following information carefully to understand our views and practices regarding Your personal data and how we will treat it. 
+This policy, together with our Subscriber Agreement for Huddle Services <http://www.huddle.com/subscriber-agreement/>, our Master Services Agreement and our End User License Agreement (“Terms of Use”) <http://www.huddle.com/terms-of-use/> and any other documents referred to in them, sets out the basis on which any personal data we collect from You, or that You provide to us, will be processed by us. Please read the following information carefully to understand our views and practices regarding Your personal data and how we will treat it.
 
 ### Changes to our Privacy Policy
 
@@ -18,7 +18,7 @@ For the purpose of the Data Protection Act 1998 (the Act), the Data Controller f
 
 We may collect and process the following data about You:
 
-  * We collect information from You when You complete forms on our websites ([www.huddle.com](http://www.huddle.com/) or my.huddle.net which can also be accessed using a custom domain name e.g. myaccount.huddle.net) – “our sites” – including when registering to use our Sites or subscribing to our services or updating Your profile. Information You provide is stored in Huddle databases. The information we may collect about You includes, Your name and email address; Your title, company and other profile information You provide as well as aggregate information about Your use of the features of the Services we provide to You such as the number of times You upload/download files and documents.
+  * We collect information from You when You complete forms on our websites ([www.huddle.com](http://www.huddle.com/) or my.huddle.net which can also be accessed using a custom domain name e.g. myaccount.huddle.net) – “our sites” – including when registering to use our Sites or subscribing to our services or updating Your profile. Information You provide is stored in Huddle databases. The information we may collect about You includes, Your name and email address; Your title, company and other profile information You provide as well as aggregate information about Your use of the features of the Services we provide to You such as the number of times You upload/download files and documents.
   * Information that You provide to us by completing surveys on our site or as carried out by our approved third parties.
   * If You contact us for customer or technical support, we may keep a record of that correspondence or conversation.
   * Information we receive from third party search engines such as but not limited to Google, Yahoo and Microsoft (Bing and MSN) relating to Your search activity.
@@ -26,12 +26,11 @@ We may collect and process the following data about You:
 
 
 
-On registration with Huddle or when completing forms on our Sites, Huddle does not require nor ask for sensitive personal data such as – Medical, race/ethnicity, political opinions or sexuality. Where You believe You have either submitted or been asked to provide this information as part of registration or completion of forms, You are to contact [privacy@huddle.com](mailto:privacy@huddle.com) to opt-out.
+On registration with Huddle or when completing forms on our Sites, Huddle does not require nor ask for sensitive personal data such as – Medical, race/ethnicity, political opinions or sexuality. Where You believe You have either submitted or been asked to provide this information as part of registration or completion of forms, You are to contact [privacy@huddle.com](mailto:privacy@huddle.com) to opt-out.
 
 ### Uses made of the information
 
-Huddle may use the information You provide in the following ways:  
-
+Huddle may use the information You provide in the following ways:
 
   1. To provide our services and features to You, to measure and improve those services and features and to provide You with customer and technical support through Customer Relationship Management systems.
   2. To contact You with any service-related announcements from time to time.
@@ -42,11 +41,11 @@ Huddle may use the information You provide in the following ways:
 
 
 
-You may at any time opt-out of receiving this information by clicking on the opt-out link in the footer of a marketing email You have received or by sending us an email at [privacy@huddle.com](mailto:privacy@huddle.com). Opt out requests will not apply where Huddle sends You a notice regarding the status of service, security alerts or any notice pertinent to Your service and account.
+You may at any time opt-out of receiving this information by clicking on the opt-out link in the footer of a marketing email You have received or by sending us an email at [privacy@huddle.com](mailto:privacy@huddle.com). Opt out requests will not apply where Huddle sends You a notice regarding the status of service, security alerts or any notice pertinent to Your service and account.
 
 Information We collect may be stored and processed in and transferred between any Huddle offices in order to enable us to use the information but strictly in accordance with this privacy policy.
 
-Huddle may use trusted 3rd parties (“Agents”) to assist in the delivery, provision, analysis and improvement of the Services including but not limited to data storage, maintenance services, database management, analytics, payment processing, Customer Relationship Management services/systems and improvement to the Services features (“tasks”). These 3rd parties may have access to Your Information only for the purposes of performing these tasks on our behalf and under obligations similar to those in this Privacy Policy. All 3rd parties will be risk assessed by Huddle prior to receiving any Information in order to ensure compliance to Huddle’s ISO 27001:2005 certified Information Security Management System to ensure the protection of Your Information. 
+Huddle may use trusted 3rd parties (“Agents”) to assist in the delivery, provision, analysis and improvement of the Services including but not limited to data storage, maintenance services, database management, analytics, payment processing, Customer Relationship Management services/systems and improvement to the Services features (“tasks”). These 3rd parties may have access to Your Information only for the purposes of performing these tasks on our behalf and under obligations similar to those in this Privacy Policy. All 3rd parties will be risk assessed by Huddle prior to receiving any Information in order to ensure compliance to Huddle’s ISO 27001:2005 certified Information Security Management System to ensure the protection of Your Information.
 
 ### Cookies, Web Beacons and IP addresses
 
@@ -66,9 +65,9 @@ Persistent | mp_fef9a865cb6b76f1c0a17d22d29a916a_mixpanel | .huddle.net | Mixpan
 Session | auth_token | .huddle.net | Huddle’s utilises OAUTH (used by many large and secure websites) to verify and maintain customers sessions for the duration of their usage on our service.  
 Persistent | ajs_user_id | .huddle.net | Segment.io allows Huddle to plugin behavioural and functionality by trusted and risk assessed third party providers (such as Mixpanel). This cookie allows Huddle to follow the events that a user is performing.  
 Persistent | ELQSTATUS | .eloqua.com | These functional cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.  
-Persistent |  __utma  
+Persistent | __utma  
 __utmb  
-__utmz  | .google.com | These functional cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.  
+__utmz | .google.com | These functional cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.  
 Session | __utmc | .google.com | These functional cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.  
 Persistent | PREF | youtube.com | Google stores language preferences and user selection of ‘SafeSearch’ in this cookie for all our embedded videos used on the www site. Customer created video content is only stored on Huddle’s servers.  
 Persistent | VISITOR_INFO1_LIVE | youtube.com | We use YouTube to embed videos on our blog and www sites. However, if the ‘Share’ button is clicked YouTube will set these two cookies. The VISITOR_INFO1_LIVE cookie attempts to estimate your bandwidth. These cookies don’t gather information that identifies a user.  
@@ -109,10 +108,9 @@ We are not responsible for the privacy policies or practices of third party webs
 
 Marketing communications and opting-out
 
-We will provide You with information concerning our products or services that You request from us or which we feel may interest You by email unless You have opted-out of receiving this information. 
+We will provide You with information concerning our products or services that You request from us or which we feel may interest You by email unless You have opted-out of receiving this information.
 
-You may at anytime opt-out of receiving this information by clicking on the opt-out link in the footer of a marketing email You have received or by sending us an email at privacy@huddle.com.  
-
+You may at anytime opt-out of receiving this information by clicking on the opt-out link in the footer of a marketing email You have received or by sending us an email at privacy@huddle.com.
 
 ### How You can change or remove information
 
@@ -136,7 +134,7 @@ Huddle’s Information Security Management is 3rd party ISO 27001:2005 certified
 
 ### Disclosure of Your information
 
-We may disclose Your personal information to any of our employees, officers, agents within Huddle which means our subsidiaries in so far as reasonably necessary for the purposes set out in this privacy policy. 
+We may disclose Your personal information to any of our employees, officers, agents within Huddle which means our subsidiaries in so far as reasonably necessary for the purposes set out in this privacy policy.
 
 We may disclose Your personal information to third parties:
 
