@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sdxcentral.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321201645id_/https%3A//www.sdxcentral.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sdxcentral.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926211150id_/https%3A//www.sdxcentral.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -27,7 +27,9 @@ SDxCentral uses your personal information to better understand your needs and pr
 
 
 
-We may also use personal information for internal purposes such as auditing, data analysis, and research to improve SDxCentral’s services, and customer communications. **Disclosure to Third Parties**
+We may also use personal information for internal purposes such as auditing, data analysis, and research to improve SDxCentral’s services, and customer communications.
+
+**Disclosure to Third Parties**
 
 SDxCentral does not sell, rent, or lease your personal information to others. However, SDxCentral may share your personal information with our affiliated entities and business partners so that they may provide you with marketing information we think would be of particular interest.  We will always give you the opportunity to opt-out of receiving such contact.   At times SDxCentral may make certain information available to strategic partners that work with SDxCentral to provide products and services, or that help SDNCentral market its services. Personal information will only be shared by SDxCentral to provide or improve our products, services and advertising; it will not be shared with third parties for their marketing purposes.  We reserve the right to, and generally will, share personal information with the sponsors and contributors to the SDxCentral webinars.  We reserve the right to, and generally will, share personal information with Wiretap Ventures, LLC and Wiretap Labs, Inc.
 
