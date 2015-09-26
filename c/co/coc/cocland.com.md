@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cocland.com privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524002934id_/http%3A//cocland.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cocland.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926045223id_/http%3A//cocland.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Clash of Clans Land
 
