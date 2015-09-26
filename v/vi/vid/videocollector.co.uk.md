@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videocollector.co.uk privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630142202id_/http%3A//videocollector.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videocollector.co.uk privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926145954id_/http%3A//videocollector.co.uk/privacy.php) for the most accurate reproduction.*
 
 # VideoCollector.co.uk Privacy Policy
 
@@ -22,11 +22,11 @@ We do not sell, rent or exchange your personal information with any third party 
 
 We follow strict security procedures in the storage and disclosure of information which you have given us, to prevent unauthorised access in accordance with the UK data protection legislation.
 
-We do not collect sensitive information about you except when you specifically knowingly provide it. In order to maintain the accuracy of our database, you can check, update or remove your personal details by [contacting us](http://videocollector.co.uk/contact.php).
+We do not collect sensitive information about you except when you specifically knowingly provide it. In order to maintain the accuracy of our database, you can check, update or remove your personal details by [contacting us](http://www.videocollector.co.uk/contact.php).
 
 **6 Any Questions?**
 
-If you have any questions about privacy please [contact us](http://videocollector.co.uk/contact.php).
+If you have any questions about privacy please [contact us](http://www.videocollector.co.uk/contact.php).
 
 **7 Third Party Advertising**
 
@@ -38,12 +38,12 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 
 * * *
 
-[](http://videocollector.co.uk/youngblood/13614 "Youngblood")
+[](http://www.videocollector.co.uk/cut-and-run/20551 "Cut and Run")
 
-[](http://videocollector.co.uk/best-of-bon-jovi-the-crossroad/24652 "Best of Bon Jovi, The: Crossroad")
+[](http://www.videocollector.co.uk/thunderball-widescreen/28727 "Thunderball \(widescreen\)")
 
-[](http://videocollector.co.uk/barney-live/24403 "Barney: Live")
+[](http://www.videocollector.co.uk/who-slew-auntie-roo/27897 "Who Slew Auntie Roo?")
 
-[](http://videocollector.co.uk/terminator-2-judgement-day/17629 "Terminator 2: Judgement Day")
+[](http://www.videocollector.co.uk/world-gone-wild/21277 "World Gone Wild")
 
-[](http://videocollector.co.uk/kingdom-of-the-spiders/13334 "Kingdom of the Spiders")
+[](http://www.videocollector.co.uk/last-run-the/14327 "Last Run, The")
