@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easycron.com privacy policy that was archived on 2015-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150522194206id_/https%3A//www.easycron.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easycron.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926120307id_/https%3A//www.easycron.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - EasyCron.com
 
@@ -6,7 +6,7 @@ By using EasyCron, you are agreeing to the following privacy policy.
 
 #### Information Collection and Use
 
-EasyCron may collect and ask you for personally identifiable information when you visit or use our website, including username, email address, password. We may also collect information that Google Analytics collects. We may use this information for several purposes to: 
+EasyCron may collect and ask you for personally identifiable information when you visit or use our website, including email address, password. We may also collect information that Piwik web analytic tool collects. We may use this information for several purposes to: 
 
   * improve the content you see,
   * fulfill your requests for certain services and information,
@@ -27,7 +27,7 @@ EasyCron uses third-party hosting service. Therefore, any information you submit
 
 #### Information Sharing and Disclosure
 
-EasyCron will not release your information(username, email address, password and cron job URLs) to any third-party by default. We need to share your information only if: 
+EasyCron will not release your information(email address, password and cron job URLs) to any third-party by default. We need to share your information only if: 
 
   * it’s requested by legal process, court orders or subpoenas,
   * you violate our Terms of Service, and we need to take action to protect the rights of other users or EasyCron,
