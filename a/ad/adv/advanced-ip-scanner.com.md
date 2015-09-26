@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advanced-ip-scanner.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625000313id_/http%3A//www.advanced-ip-scanner.com/legal/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advanced-ip-scanner.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926113012id_/http%3A//www.advanced-ip-scanner.com/legal/pp.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
