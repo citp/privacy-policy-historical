@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybeautystuff.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511140659id_/http%3A//mybeautystuff.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybeautystuff.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926051507id_/http%3A//mybeautystuff.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | My beauty stuff
 
