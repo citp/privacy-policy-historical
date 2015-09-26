@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the moneysmart.gov.au privacy policy that was archived on 2015-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150327060010id_/http%3A//www.moneysmart.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneysmart.gov.au privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926113333id_/https%3A//www.moneysmart.gov.au/privacy) for the most accurate reproduction.*
 
-# Privacy | MoneySmart by ASIC
+# Privacy | ASIC's MoneySmart
 
-Any information gathered when you use the MoneySmart website or MoneySmart apps will not be disclosed or distributed further without your consent.
+Any information gathered when you use MoneySmart website or MoneySmart apps will not be disclosed or distributed further without your consent.
 
-We comply with the Information Privacy Principles in the [Privacy Act 1988 (Cth)](http://www.austlii.edu.au/au/legis/cth/consol_act/pa1988108/ "Privacy Act 1988 \(Cth\)") which regulates the collection, storage, quality, use and disclosure of personal information.  We also follow the Federal Government website guidelines issued by the [Australian Privacy Commissioner](http://www.privacy.gov.au/ "Australian Privacy Commissioner").
+We comply with the Australian Privacy Principles in the [Privacy Act 1988 (Cth)](http://www.austlii.edu.au/au/legis/cth/consol_act/pa1988108/ "Privacy Act 1988 \(Cth\)") which regulates the collection, storage, quality, use and disclosure of personal information.  We also follow the Federal Government website guidelines issued by the [Office of the Australian Privacy Commissioner](http://www.privacy.gov.au/ "Australian Privacy Commissioner").
+
+MoneySmart is run by the Australian Securities and Investments Commission (ASIC).  Please refer to [ASIC's privacy policy](http://www.asic.gov.au/about-asic/dealing-with-asic/summary-of-asic-privacy-policy/ "ASIC's privacy policy") for information about how ASIC handles personal information, your rights to seek access to and correct personal information and how to complain about breaches of your privacy by ASIC.
 
   * Collection of statistical information
   * Collection, use and disclosure of personal information
@@ -61,7 +63,7 @@ As there may be security risks in sending information via the internet, you shou
 
 If you have any concerns about your privacy when using this website, email us at [info@moneysmart.gov.au](mailto:info@moneysmart.gov.au "info@moneysmart.gov.au") or phone the ASIC Infoline on 1300 300 630.
 
-Last updated: 13 Nov 2014
+Last updated: 01 May 2015
 
 Helpful
 
