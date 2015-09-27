@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the draftday.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502162522id_/https%3A//www.draftday.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the draftday.com privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927033055id_/https%3A//www.draftday.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy, Frequently Asked Questions
 
@@ -10,11 +10,11 @@ Please note that any video, image, or other content you post on DraftDay.com (e.
 
 Any questions, comments or complaints that you might have should be forwarded in writing to:
 
-DraftDay
+DraftDay Gaming Group, Inc.
 
-500 Mamaroneck Avenue, Suite 204
+902 Broadway, 11th Floor
 
-Harrison, NY 10528
+New York, NY 10010
 
 **Information We Collect**
 
@@ -75,11 +75,11 @@ Except where prohibited, participation in a contest constitutes the player's con
 
 If you reside in California, you may request certain general information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please write to us at the following address:
 
-DraftDay
+DraftDay Gaming Group, Inc.
 
-500 Mamaroneck Avenue, Suite 204
+902 Broadway, 11th Floor
 
-Harrison, NY 10528
+New York, NY 10010
 
 **Changes and updates**
 
