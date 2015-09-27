@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mp3ape.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506064532id_/https%3A//mp3ape.eu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3ape.com privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927121417id_/https%3A//mp3ape.eu/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
