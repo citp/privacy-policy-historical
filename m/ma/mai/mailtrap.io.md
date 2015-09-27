@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mailtrap.io privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317184302id_/https%3A//mailtrap.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailtrap.io privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927181426id_/https%3A//mailtrap.io/privacy) for the most accurate reproduction.*
 
 # Privacy — Mailtrap
 
