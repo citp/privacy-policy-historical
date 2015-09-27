@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebestdayever.com privacy policy that was archived on 2015-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150301013520id_/http%3A//www.thebestdayever.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebestdayever.com privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927055210id_/http%3A//www.thebestdayever.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
