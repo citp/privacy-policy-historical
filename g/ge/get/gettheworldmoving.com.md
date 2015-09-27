@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gettheworldmoving.com privacy policy that was archived on 2015-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150113135356id_/https%3A//www.gettheworldmoving.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gettheworldmoving.com privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927093533id_/https%3A//www.gettheworldmoving.com/privacy) for the most accurate reproduction.*
 
 # GCC Privacy Policy | ISO Compliant | Truste Certified | E.U. Safe Harbor Compliant
 
@@ -6,7 +6,7 @@
 
 The Global Corporate Challenge (GCC) is the world’s largest and most exciting workplace health and performance program with independently proven results. The GCC improves staff health and wellness, promotes teamwork, reduces absenteeism and creates a culture of resilience across entire organizations.
 
-_Effective date: 07/10/2014_
+_Effective date: 07/04/2015_
 
 In this privacy policy, the terms “Get The World Moving” “we”, “us” and “ours” refer to:  
 
@@ -20,7 +20,9 @@ In this privacy policy, the terms “Get The World Moving” “we”, “us” 
 
 
 
-The term “Website” means the website located at [www.gettheworldmoving.com](https://web.archive.org/). The term "Mobile Applications" means our Global Corporate Challenge® smartphone mobile applications for the 100-day journey challenge, GCC Sprint, and GCC Energy. The term “Services” refers to the Global Corporate Challenge® web and mobile applications associated with this Website. The purpose of this policy is to tell you what kind of information we may gather about you when you visit this Website or use our Services, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct this information. Our policy allows you to choose what kind and how much information you provide to us and to control how we use whatever information you give us.
+The term “Website” means the website located at [www.gettheworldmoving.com](https://web.archive.org/). The term "Mobile Applications" means our Global Corporate Challenge® smartphone mobile applications for the 100-day journey challenge, GCC Sprint, and GCC Sleep. The term “Services” refers to the Global Corporate Challenge® web and mobile applications associated with this Website. The purpose of this policy is to tell you what kind of information we may gather about you when you visit this Website or use our Services, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct this information. Our policy allows you to choose what kind and how much information you provide to us and to control how we use whatever information you give us.
+
+[](https://privacy.truste.com/privacy-seal/Get-the-World-Moving/validation?rid=bfe4064a-1e74-4db8-8b5c-0ae51713d60e "TRUSTe online privacy certification")
 
 Get The World Moving has received TRUSTe's Privacy Seal, signifying that this privacy statement and our practices have been reviewed for [compliance with the TRUSTe program](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Website, [www.gettheworldmoving.com](http://www.gettheworldmoving.com/), our Global Corporate Challenge® Mobile Applications, and the online Services and email communications associated with the site and the provision and fulfillment of the Services. It does not cover information that may be collected by any affiliated Third Parties. The TRUSTe program does not cover information that may be collected through downloadable software to a computer, such as .exe files.
 
@@ -46,9 +48,9 @@ As a user, you have the ability to add the personal information of 3rd party ind
 
 ## How we use your information
 
-Get The World Moving will only use the personal information you have chosen to provide us for the purpose for which you provided it. Get The World Moving will not use it for any other purpose without your consent. We may use your personal information to: fulfill your registration, send you an order confirmation, send you requested service information, respond to customer service requests, administer your account, allow you to track your weight week to week, allow you to participate in virtual challenges, send you a newsletter, send you marketing communications, administer contests you entered, and notify you if you won, improve our Website and marketing efforts, and display content based upon your interests.
+Get The World Moving will only use or disclose the personal information you have chosen to provide us for the purpose for which you provided it. Get The World Moving will not use it for any other purpose without your consent. We may use your personal information to: fulfill your registration, send you an order confirmation, send you requested service information, respond to customer service requests, administer your account, allow you to track your weight week to week, allow you to participate in virtual challenges, send you a newsletter, send you marketing communications, administer contests you entered, and notify you if you won, improve our Website and marketing efforts, and display content based upon your interests.
 
-We may also use your information for reporting purposes. For instance, we may provide information about your participation in the GCC, aggregate performance information, and summary information about participants.
+We may use or disclose your information for reporting purposes. For instance, we may use and disclose information about your participation in the GCC, aggregate performance information, and summary information about participants. We may also use or disclose your information for research purposes. For instance, we may use or disclose your information to better understand aggregate sleep patterns and daily active movement.
 
 ## Anonymous information
 
@@ -56,7 +58,9 @@ As is true of most websites, we gather certain information automatically and sto
 
 ## Disclosure of your information
 
-We will not, without your consent, sell or otherwise provide your personal information to a third party, or make any other use of your personal information, for any purpose which is not incidental to your use of the Website or Mobile Applications. Unless in using the Website or Mobile Applications you expressly or impliedly agree to make certain information available, all personal information which we collect is kept confidential to the best of our ability, subject to the other terms and conditions of this privacy policy. In addition, our employees and contractors who provide services related to our Website or Mobile Applications are obliged to respect the confidentiality of any personal information held by us. Our employed staff and contractors engaged by us for technical and support purposes may have access to personal information that you provide and may access it for purposes that include the audit of content on the Website or Mobile Applications for quality control purposes and for compliance with our Website [Terms and Conditions](https://web.archive.org/terms). 
+We will not, without your consent, sell or otherwise disclose your personal information to a third party, or make any other use of your personal information, for any purpose which is not related to your use of the Website, Mobile Applications and Services, unless otherwise permitted to do so by law. . Unless in using the Website or Mobile Applications you expressly or impliedly agree to make certain information available, all personal information which we collect is kept confidential to the best of our ability, subject to the other terms and conditions of this privacy policy. In addition, our employees and contractors who provide services related to our Website or Mobile Applications are obliged to respect the confidentiality of any personal information held by us. Our employed staff and contractors engaged by us for technical and support purposes may have access to personal information that you provide and may access it for purposes that include the audit of content on the Website or Mobile Applications for quality control purposes and for compliance with our Website [Terms and Conditions](https://web.archive.org/terms).
+
+We may disclose your personal information to overseas recipients, which are located in the United Kingdom, the Unites States of America, Canada or Switzerland. 
 
 ## Access to your personal information
 
@@ -94,7 +98,7 @@ We follow generally accepted standards to protect the personal information submi
 
 ## Blog / testimonials / public comments and profiles
 
-Our Website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [enquiry@gettheworldmoving.com](https://web.archive.org/web/20150113135356id_/https%3A//www.gettheworldmoving.com/enquiry@gettheworldmoving.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Our Website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [enquiry@gettheworldmoving.com](mailto:enquiry@gettheworldmoving.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, please contact us.
 
@@ -150,7 +154,7 @@ or [enquiry@gettheworldmoving.com](mailto:enquiry@gettheworldmoving.com).
 
 ## In Australia:
 
-In Australia, we are bound by the National Privacy Principles contained in the Privacy Act (1988) (Cth) which govern the handling of personal information. Personal information can include a person’s name, address and any health information (including opinion) about the person. For more information about privacy issues in Australia and protecting your privacy visit [www.privacy.gov.au](http://www.privacy.gov.au/), the Australian government privacy website. 
+In Australia, we are bound by the Australian Privacy Principles contained in the Privacy Act 1988 (Cth) which govern the handling of personal information. Personal information can include a person’s name, address and any health information about the person. For more information about privacy issues in Australia and protecting your privacy visit [www.privacy.gov.au](http://www.privacy.gov.au/), the Australian government privacy website. 
 
 ## In the UK:
 
