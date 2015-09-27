@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the yireo.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703023939id_/https%3A//www.yireo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yireo.com privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927090010id_/https%3A//www.yireo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Yireo
 
-## This Privacy Statement is intended to describe Yireo's privacy practices and provide information about the choices you have regarding the ways in which information collected by Yireo is used and disclosed.
+This Privacy Statement is intended to describe Yireo's privacy practices and provide information about the choices you have regarding the ways in which information collected by Yireo is used and disclosed.
 
 Please note that our co-branded web sites (web sites where Yireo has presented content together with one or more of our business partners) may be governed by additional or different privacy provisions.
 
@@ -59,6 +59,7 @@ Yireo uses the personal information you provide to:
 
 
 
+  
 We also use this personal information to provide you with information related to your account and the products or services you purchased from us, to better understand your needs and interests, to improve our service, and to personalize communications.
 
 ### Sharing Your Personal Information
@@ -84,7 +85,7 @@ You may let us know whether or not you would like to receive information, specia
 Yireo will provide you with the opportunity to opt-out of any of our direct marketing communications at any time. All promotional email sent from Yireo will contain a provision allowing you the option to decline receiving future promotional email. You may unsubscribe to an email communication by contacting Yireo at either of the addresses provided below and requesting that you be unsubscribed from that specific communication:
 
   * Web: Contact form
-  * Email: [info@yireo.com](mailto:info@yireo.com)
+  * Email: info@yireo.com
 
 
 
@@ -114,7 +115,7 @@ In the event that Yireo ever decides to expand its intended site audience to inc
 
 ### About Links to Other Sites
 
-This site contains links to other sites. Yireo does not control the information collection of sites that can be reached through links from yireo.com. If you have questions about the data collection procedures of linked sites, please contact those companies directly. 
+This site contains links to other sites. Yireo does not control the information collection of sites that can be reached through links from yireo.com. If you have questions about the data collection procedures of linked sites, please contact those companies directly.
 
 ### How to Access, Modify or Update Your Information
 
@@ -122,8 +123,8 @@ Yireo gives you the ability to access, modify or update your information at any 
 
 ### How to Contact Us
 
-If you have any questions about any of these practices or Yireos use of your personal information, please feel free to contact us through the Contact Form on this site or by emailing us at [info@yireo.com](mailto:info@yireo.com). Yireo will work with you to resolve any concerns you may have about this Statement.
+If you have any questions about any of these practices or Yireos use of your personal information, please feel free to contact us through the Contact Form on this site or by emailing us at info@yireo.com. Yireo will work with you to resolve any concerns you may have about this Statement.
 
 ### Changes to this Privacy Statement
 
-Yireo reserves the right to change this policy from time to time. If we do make changes, the revised Privacy Statement will be posted on this site. A notice will be posted on our homepage for 30 days whenever this privacy statement is changed in a material way. 
+Yireo reserves the right to change this policy from time to time. If we do make changes, the revised Privacy Statement will be posted on this site. A notice will be posted on our homepage for 30 days whenever this privacy statement is changed in a material way.
