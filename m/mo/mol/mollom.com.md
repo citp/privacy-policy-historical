@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mollom.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628005629id_/https%3A//mollom.com/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mollom.com privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927164745id_/https%3A//www.mollom.com/website-privacy-policy) for the most accurate reproduction.*
 
 # Website privacy policy | Mollom
 
