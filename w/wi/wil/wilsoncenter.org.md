@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wilsoncenter.org privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626135722id_/http%3A//www.wilsoncenter.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wilsoncenter.org privacy policy that was archived on 2015-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150928014619id_/https%3A//www.wilsoncenter.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wilson Center
 
@@ -11,11 +11,12 @@ Thank you for visiting The Wilson Center's website and reviewing our privacy pol
 If you visit our Website, we automatically gather and store the following information about your visit so that we can track the use of our Website in order to make improvements. This information is stored and used in the aggregate only, and is not used to contact you personally:
 
   * The IP address from which you access our Website
-  * The name of the domain from which you access the Internet (for example, aol.com, if you are connecting from an America Online account)
+  * The name of the domain from which you access the Internet (for example, gmail.com, if you are connecting from a Google account)
   * The type of browser and operating system used to access our Website
   * The date and time you access our site
   * The pages, files, documents and links that you visit
-  * The Internet address of the website from which you linked to this Website
+  * The Internet address of the website from which you linked to this Website  
+ 
 
 
 
@@ -27,7 +28,7 @@ You may set your browser to refuse cookies from any website that you visit. You 
 
 ### If You Send Us Personal Information
 
-The Wilson Center's Website will only collect personal information which you knowingly and voluntarily provide by, for example, sending emails, completing subscription forms, registering for events, making a donation or responding to surveys. If you provide us with personal information, we will normally respond to your inquiry, request or order. We may also contact you to provide information about Wilson Center activities, programs, membership and development opportunities, products and special events that may interest you. We will never share your name or information outside the Wilson Center unless you affirmatively authorize us to do so by opting-in.
+The Wilson Center's Website will only collect personal information which you knowingly and voluntarily provide by, for example, sending emails, completing subscription forms, registering for events, making a donation or responding to surveys. If you provide us with personal information, we will normally respond to your inquiry, request or order. We may also contact you to provide information about Wilson Center activities, programs, membership and development opportunities, products and special events that may interest you based on your subscriptions. We will never sell, rent, or give your name or information to anyone outside the Wilson Center unless you affirmatively authorize us to do so.
 
 When we send you such information by email, you will always have an immediate opportunity to decline further communication. Please use the contact specified in the email so that we can remove you from the list that contains your name. If you are uncertain about whom to contact, you may contact our webmaster at [wwics@wilsoncenter.org](mailto:wwics@wilsoncenter.org)[.](mailto:wwics@wilsoncenter.org)
 
