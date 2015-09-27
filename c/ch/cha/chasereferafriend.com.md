@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chasereferafriend.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607060414id_/http%3A//www.chase.com/ccp/index.jsp%3Fpg_name%3Dccpmapp/shared/assets/page/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chasereferafriend.com privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927235800id_/http%3A//www.chase.com/ccp/index.jsp%3Fpg_name%3Dccpmapp/shared/assets/page/Privacy_Policy) for the most accurate reproduction.*
 
 # Chase Online Security Center | Online Privacy Policy
 
