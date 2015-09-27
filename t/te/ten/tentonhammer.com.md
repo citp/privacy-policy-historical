@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the tentonhammer.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629190918id_/http%3A//www.tentonhammer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tentonhammer.com privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927123849id_/http%3A//www.tentonhammer.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Ten Ton Hammer
-
-### Keeping Your Personal Information Safe
 
 Although we hope that our members get to know each other, you are not required to provide Personal Information to any member, and you should NEVER give your password to another member. Ten Ton Hammer encourages parents or guardians of minor members to be diligent and to supervise what their wards or children reveal to others. If you have problems with another member, or another member or visitor is not abiding by this Privacy Policy, please contact one of our administrators.
 
@@ -36,6 +34,6 @@ Any communication with another member or visitor to the Site is NOT private and 
 
 Your right to privacy is important to us. Ten Ton Hammer obtains certain Personal Information (as later defined) in order to provide our members with news, updates and other information we believe will be useful to you. Your Personal Information is provided to us upon registration and during your use of Master Games' internet sites. ("Site").
 
-Ten Ton Hammer is committed to providing members with a Site that respects their privacy. Please review this Privacy Policy which is subject to change from time to time. Note, however, that this Privacy Policy only applies to our Site and does NOT apply to the web sites or Internet sites of any other person or entity. Should you have any questions or comments, please contact one of our administrators at **[admin-tth@tentonhammer.com](mailto:admin-tth@tentonhammer.com)**.
+Ten Ton Hammer is committed to providing members with a Site that respects their privacy. Please review this Privacy Policy which is subject to change from time to time. Note, however, that this Privacy Policy only applies to our Site and does NOT apply to the web sites or Internet sites of any other person or entity. Should you have any questions or comments, please contact one of our administrators at **[support@tentonhammer.com](mailto:support@tentonhammer.com)**.
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
