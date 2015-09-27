@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the import.io privacy policy that was archived on 2015-04-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150406045202id_/https%3A//import.io/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the import.io privacy policy that was archived on 2015-09-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150927091936id_/https%3A//import.io/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en-gb" ng-app="io"><head>
 
@@ -17,7 +17,7 @@
 
 
       <!-- device.js -->
-      <script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//static.woopra.com/js/w.js"></script><script type="text/javascript" async="" src="//widget.uservoice.com/qSwnV6C2suh9dd8Kc2l1gA.js"></script><script src="//d3sgt82prjfpwv.cloudfront.net/website2/187/js/device.min.js"></script>
+      <script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//static.woopra.com/js/w.js"></script><script async="" charset="utf-8" src="//v2.zopim.com/?2n5B4yKLuXkHyrp4WyTGTNCaZItBd6Hy" type="text/javascript"></script><script src="//d3sgt82prjfpwv.cloudfront.net/website2/268/js/device.min.js"></script>
       <!-- /device.js -->
 
       <!-- Font fix on Chrome / Win -->
@@ -32,21 +32,21 @@
     <title>  Privacy | import.io </title>
 
 
-    <link rel="stylesheet" href="//d3sgt82prjfpwv.cloudfront.net/website2/187/css/foundation.min.css">
+    <link rel="stylesheet" href="//d3sgt82prjfpwv.cloudfront.net/website2/268/css/foundation.min.css">
 
-    <link rel="stylesheet" href="//d3sgt82prjfpwv.cloudfront.net/website2/187/css/responsive-nav.css">
-    <link rel="stylesheet" href="//d3sgt82prjfpwv.cloudfront.net/website2/187/css/responsive-nav-style.css">
-    <link rel="stylesheet" href="//d3sgt82prjfpwv.cloudfront.net/website2/187/css/style.css">
-    <script src="//d3sgt82prjfpwv.cloudfront.net/website2/187/js/responsive-nav.js"></script>
-
-
+    <link rel="stylesheet" href="//d3sgt82prjfpwv.cloudfront.net/website2/268/css/responsive-nav.css">
+    <link rel="stylesheet" href="//d3sgt82prjfpwv.cloudfront.net/website2/268/css/responsive-nav-style.css">
+    <link rel="stylesheet" href="//d3sgt82prjfpwv.cloudfront.net/website2/268/css/style.css">
+    <script src="//d3sgt82prjfpwv.cloudfront.net/website2/268/js/responsive-nav.js"></script>
 
 
 
-    <link rel="stylesheet" href="//d3sgt82prjfpwv.cloudfront.net/website2/187/css/owlkingdom.css">
 
 
-    <script src="//d3sgt82prjfpwv.cloudfront.net/tribble/202/js/tribble-head.js"></script>
+    <link rel="stylesheet" href="//d3sgt82prjfpwv.cloudfront.net/website2/268/css/owlkingdom.css">
+
+
+    <script src="//d3sgt82prjfpwv.cloudfront.net/tribble/207/js/tribble-head.js"></script>
 
     <!--[if lt IE 9]>
   		<script src="//s3.amazonaws.com/nwapi/nwmatcher/nwmatcher-1.2.5-min.js"></script>
@@ -55,7 +55,7 @@
   	<![endif]-->
 
     <!--[if lte IE 8]>
-      <link rel="stylesheet" type="text/css" href="//d3sgt82prjfpwv.cloudfront.net/website2/187/css/ie8-and-down.css" />
+      <link rel="stylesheet" type="text/css" href="//d3sgt82prjfpwv.cloudfront.net/website2/268/css/ie8-and-down.css" />
     <![endif]-->
 
   <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
@@ -63,38 +63,42 @@
 <body ng-controller="Website" id="privacy">
 <div class="nav-bar">
   	<div class="nav-wrapper">
-		<a class="logo-link" href="/"><img src="//d3sgt82prjfpwv.cloudfront.net/website2/187/img/importio.png" class="logo" alt="import.io"></a>
+		<a class="logo-link" href="/"><img src="//d3sgt82prjfpwv.cloudfront.net/website2/268/img/import-logo-new-carmine.svg" class="logo" alt="import.io"></a>
 	    <nav class="nav-collapsable">
 		    <ul>
-				<li class="nav-link first-link about-nav"><a href="/team">About</a></li>
-	<li class="nav-link pricing-nav"><a href="/pricing">Pricing</a></li>
+				<li class="nav-link first-link pricing-nav"><a href="/pricing">Pricing</a></li>
+	<li class="nav-link enterprise-nav"><a href="http://enterprise.import.io/">Enterprise</a></li>
 	<li class="nav-link showcase-nav"><a href="/showcase">Showcase</a></li>
+	<li class="nav-link apidocs-nav"><a href="http://api.docs.import.io/" target="_blank">API Docs</a></li>
 	<li class="nav-link help-nav"><a href="/help">Help</a></li>
 	<li class="nav-link last-link"><a href="http://blog.import.io" target="_blank">Blog</a></li>
 
-
-
+	
 	<!-- if not signed in -->
+	<li class="nav-link last-link ng-cloak" ng-hide="current()">
+		<a ng-href="/{[{getReturnAddress()}]}" style="color: #e52054;">
+			<span>Log in</span>
+		</a>
+	</li>
 	<li class="button-wrapper ng-cloak" ng-hide="current()">
-		<a ng-href="/{[{getReturnAddress()}]}" class="button-main button primary">
-			<span ng-show="initialised()">Sign in</span>
+		<a ng-href="/{[{getSignupAddress()}]}" class="button-main button primary">
+			<span ng-show="initialised()">Sign up</span>
 			<i class="fa fa-spin fa-spinner" ng-hide="initialised()"></i>
 		</a>
 	</li>
-
-
+	
 
 	<!-- if signed in -->
 	<li class="button-wrapper split button primary ng-cloak" ng-show="current()" ng-class="{'open' : splitOpen}">
-		<div class="split-dropdown-container" ng-mouseenter="splitOpen=true" ng-mouseleave="splitOpen=false">
+		<div class="split-dropdown-container" ng-mouseenter="splitOpen=true" ng-mouseleave="	splitOpen=false">
 		 	<a href="">
 		 		<span class="button-text">My Account</span>
-				<i class="split-icon fa" ng-class="{'fa-caret-up' : splitOpen, 'fa-caret-down' : !splitOpen}"></i>
+				<i class="split-icon fa" ng-class="{'fa-caret-up' : splitOpen, 'fa-caret-down' : 	!splitOpen}"></i>
 			</a>
 			<ul ng-show="current() &amp;&amp; splitOpen">
 				<li><a target="_blank" href="/start">My Data</a></li>
 				<li><a href="/data/account">Settings</a></li>
-				<li><a href="" ng-click="signOut()">Sign out</a></li>
+				<li><a href="" ng-click="signOut()">Log out</a></li>
 			</ul>
 		</div>
 	</li>
@@ -194,8 +198,9 @@
                 <br class="show-for-small-only"><h5>Company</h5>
 
                 <ul>
+                    <li><a href="/team">About</a></li>
                     <li><a href="/press">Press &amp; Media</a></li>
-                    <li><a href="/data-summit">The Data Summit 2014</a></li>
+                    <li><a href="http://extractconf.com" target="_blank">Extract Conf</a></li>
                     <li><a href="/jobs">Jobs</a></li>                    
                     <li><a href="/terms-and-conditions">Terms and Conditions</a></li>                   
                     <li><a href="/privacy">Privacy</a></li>                   
@@ -227,18 +232,21 @@
         </div>
     </section>		
 
-    <!-- <script src="//d3sgt82prjfpwv.cloudfront.net/tribble/202/js/tribble.js"></script> -->
-    <script src="//d3sgt82prjfpwv.cloudfront.net/website2/187/js/jquery/jquery-1.11.1.min.js"></script>
-    <script src="//d3sgt82prjfpwv.cloudfront.net/website2/187/js/angular/angular.min.js"></script>
-    <script src="//d3sgt82prjfpwv.cloudfront.net/website2/187/js/angular/angular-animate.min.js"></script>
+    <!-- <script src="//d3sgt82prjfpwv.cloudfront.net/tribble/207/js/tribble.js"></script> -->
+    <script src="//d3sgt82prjfpwv.cloudfront.net/website2/268/js/jquery/jquery-1.11.1.min.js"></script>
+    <script src="//d3sgt82prjfpwv.cloudfront.net/website2/268/js/angular/angular.min.js"></script>
+    <script src="//d3sgt82prjfpwv.cloudfront.net/website2/268/js/angular/angular-animate.min.js"></script>
     <!-- TODO -->
     <script src="//d7xe6yl2ckrgs.cloudfront.net/js/4/importio.js"></script>
-    <script src="//d3sgt82prjfpwv.cloudfront.net/website2/187/js/foundation.min.js"></script>
+    <script src="//d3sgt82prjfpwv.cloudfront.net/website2/268/js/foundation.min.js"></script>
     <script src="/js/config/config.js"></script>
-    <script src="//d3sgt82prjfpwv.cloudfront.net/website2/187/js/app.js"></script>
+    <script src="//d3sgt82prjfpwv.cloudfront.net/website2/268/js/app.js"></script>
 
 
-    <script src="//d3sgt82prjfpwv.cloudfront.net/website2/187/js/rem.min.js"></script>
+
+
+
+    <script src="//d3sgt82prjfpwv.cloudfront.net/website2/268/js/rem.min.js"></script>
 
 
 
@@ -262,53 +270,63 @@
 
 
 
-<!-- uservoice widget -->
+<script type="text/javascript">
+  // Start of Zopim Live Chat Script
 
-<script>
-// Include the UserVoice JavaScript SDK (only needed once on a page)
-UserVoice=window.UserVoice||[];(function(){var uv=document.createElement('script');uv.type='text/javascript';uv.async=true;uv.src='//widget.uservoice.com/qSwnV6C2suh9dd8Kc2l1gA.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(uv,s)})();
+  window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+  d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+  _.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
+  $.src="//v2.zopim.com/?2n5B4yKLuXkHyrp4WyTGTNCaZItBd6Hy";z.t=+new Date;$.
+  type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
 
-//
-// UserVoice Javascript SDK developer documentation:
-// https://www.uservoice.com/o/javascript-sdk
-//
+  // End of Zopim Live Chat Script
 
-// Set colors
-UserVoice.push(['set', {
-  accent_color: '#2e332e',
-  trigger_color: 'white',
-  trigger_background_color: '#ec3e82',
-  contact_title: 'What can we help you with today?',
-  screenshot_enabled: true
-}]);
+  function getCurrentUser (callback) {
 
-// Identify the user and pass traits
-// To enable, replace sample data with actual user traits and uncomment the line
-UserVoice.push(['identify', {
-  //email:      'support@import.io', // User’s email address
-  //name:       'John Doe', // User’s real name
-  //created_at: 1364406966, // Unix timestamp for the date the user signed up
-  //id:         123, // Optional: Unique id of the user (if set, this should not change)
-  //type:       'Owner', // Optional: segment your users by type
-  //account: {
-  //  id:           123, // Optional: associate multiple users with a single account
-  //  name:         'Acme, Co.', // Account name
-  //  created_at:   1364406966, // Unix timestamp for the date the account was created
-  //  monthly_rate: 9.99, // Decimal; monthly rate of the account
-  //  ltv:          1495.00, // Decimal; lifetime value of the account
-  //  plan:         'Enhanced' // Plan name for the account
-  //}
-}]);
+    var corsSupport = 'XMLHttpRequest' in window && 'withCredentials' in new XMLHttpRequest();
 
-// Add default trigger to the bottom-right corner of the window:
-UserVoice.push(['addTrigger', { mode: 'contact', trigger_position: 'bottom-right' }]);
+    var xhr       = new XMLHttpRequest();
+    var API_BASE  = window.location.protocol + '//' + window.location.hostname + '/~api';
 
-// Or, use your own custom trigger:
-//UserVoice.push(['addTrigger', '#id', { mode: 'contact' }]);
 
-// Autoprompt for Satisfaction and SmartVote (only displayed under certain conditions)
-UserVoice.push(['autoprompt', {}]);
+    xhr.onload = function onload (e) {
+      if (xhr.status !== 200) {
+        return;
+      }
+
+      try {
+        window.currentUser = JSON.parse(xhr.responseText);
+      } catch (e) {
+        console.log('XHR error', e);
+        return;
+      }
+
+      callback && callback(window.currentUser);
+    };
+
+    if (corsSupport) {
+      xhr.withCredentials = true;
+      API_BASE = window.location.protocol + '//api.' + window.location.hostname;
+    }
+
+    var url = API_BASE + '/auth/currentuser';
+
+    xhr.open('GET', url, true);
+    xhr.send();
+  }
+
+  $zopim(function() {
+    getCurrentUser(function callback (user) {
+      if (!user) {
+        return;
+      }
+
+      $zopim.livechat.setName(user.username);
+      $zopim.livechat.setEmail(user.email);
+    });
+  });
 </script>
+
 
 
 
