@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unleash.com privacy policy that was archived on 2015-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150417100544id_/http%3A//www.unleash.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unleash.com privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927134246id_/http%3A//www.unleash.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for Graphics Unleashed
 
@@ -68,8 +68,8 @@ Last Updated Tuesday March 17 2009.
 Artwork, Brushes & Add-Ons |  Free Stuff |  Training |  Unleashed Sites  
 ---|---|---|---  
   
-[Bonus Content Packs](http://www.unleash.com/bonus-content-packs/)  
-[Clipart Unleashed](http://www.unleash.com/clipart-unleashed/)  
+[Bonus Content Packs](http://coreldrawunleashed.com/artwork/coreldraw-unleashed-bonus-content-packs/)  
+[Clipart Unleashed](http://coreldrawunleashed.com/artwork/clipart-unleashed-value-priced-artwork/)  
 [1400+ CorelDRAW Brushes](http://www.unleash.com/tomknight/coreldraw-brush-packs/)  
 [Fashion Design](http://www.unleash.com/fashion-design/)  
 [QR Codes Docker](http://www.unleash.com/softbotz/qr-codes/)  
@@ -82,13 +82,13 @@ Artwork, Brushes & Add-Ons |  Free Stuff |  Training |  Unleashed Sites
 [Signs by Design](http://www.unleash.com/signsbydesign/)  
 [Clipart deSIGN](http://www.unleash.com/clipartdesign/)  
 [Design Base (free)](http://www.unleash.com/tomknight/design-base/)  
-[ROMCat](http://www.unleash.com/articles/romcat/) | [eCut](http://www.unleash.com/ecut/)  
+[ROMCat](http://coreldrawunleashed.com/store/romcat-clip-art-utility/) | [eCut](http://www.unleash.com/ecut/)  
 [CoCut Standard & Pro](http://www.unleash.com/cocut/)  
 
 
 | 
 
-[680+ Free Fonts](http://www.unleash.com/fonts-unleashed/)  
+[700+ Free Fonts](http://www.unleash.com/fonts-unleashed/)  
 [Cave Creek Geek](http://www.unleash.com/cave-creek-geek/)  
 [Graphics Unleashed Blog](http://graphics-unleashed.com/)  
 [Free Publications](http://www.unleash.com/news/graphicsunleashedsubscription.aspx)  
@@ -107,6 +107,7 @@ Artwork, Brushes & Add-Ons |  Free Stuff |  Training |  Unleashed Sites
 | 
 
 [CorelDRAW Unleashed](http://coreldrawunleashed.com/)  
+[Graphics Unleashed Blog](http://graphics-unleashed.com/)  
 [Seamless Textures Unleashed](http://seamless-textures-unleashed.com/)  
 [Vehicle Templates Unleashed](http://vehicle-templates-unleashed.com/)  
 [Web Design Solutions Unleashed](http://web-design-solutions-unleashed.com/)  
