@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the personforce.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630050157id_/http%3A//www.personforce.com/newcontent/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personforce.com privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927192935id_/http%3A//www.personforce.com/newcontent/privacy.php) for the most accurate reproduction.*
 
 # Personforce - job board and business directory solutions
 
