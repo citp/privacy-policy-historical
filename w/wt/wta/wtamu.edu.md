@@ -1,14 +1,20 @@
-> *The following text is extracted and transformed from the wtamu.edu privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517041331id_/https%3A//www.wtamu.edu/home/link-policy-and-privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtamu.edu privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927130609id_/http%3A//www.wtamu.edu/home/link-policy-and-privacy-statement.aspx) for the most accurate reproduction.*
 
 # West Texas A&M University
 
 ## Link Policy
 
-West Texas A&M University is committed to abiding by the link policy set forth by the [Texas Department of Information Resources Linking and Privacy Policy](http://www2.dir.state.tx.us/pubs/Pages/weblink-privacy.aspx).
+West Texas A&M University is committed to abiding by the link policy set forth by the [Texas Department of Information Resources Link Policy](http://dir.texas.gov/View-About-DIR/Pages/Content.aspx?id=21), meaning that advance permission to link to WTAMU's website(s) is not necessary; however, be aware that WTAMU subpages may change at any time without notice. Entities and individuals linking to the WTAMU website must continuously verify links to our subpages.
+
+Entities and individuals linking to the WTAMU website, or any of its entities, shall not capture WTAMU pages within frames, present WTAMU content as its own, or otherwise misrepresent WTAMU content. Furthermore, they shall not misinform users about the origin or ownership of wTAMU content. Certain information on the WTAMU website may be trademarked, service-marked, or otherwise protected as intellectual property. Protected intellectual property must be used in accordance with state and federal laws and must reflect the proper ownership of the intellectual property.
+
+Any link to the WTAMU website should be a full forward link that passes the client browser to WTAMU unencumbered.
+
+The "Back" button should return the visitor to original site if the visitor wishes to back out.
 
 In accordance with the recommendations from Texas DIR, the following disclaimer and guidelines are applicable to all webpages pertaining to www.wtamu.edu.
 
-**Disclaimer:** West Texas A&M University disclaims responsibility for the accessibility, security or content accuracy of information for external (non www.wtamu.edu) website content. The liability of such pages rests on the site owner of the respective site.
+ **Disclaimer:** West Texas A&M University disclaims responsibility for the accessibility, security or content accuracy of information for external (non www.wtamu.edu) website content. The liability of such pages rests on the site owner of the respective site.
 
 ### External Website Content
 
@@ -27,20 +33,18 @@ This Privacy Statement applies to the WTAMU homepage - www.wtamu.edu and any pag
 **Purpose**  
 West Texas A&M University respects your privacy and is committed to ensuring that any personal or confidential information that is collected is kept accurate and secure from unauthorized access. The University's homepage, and any other www.wtamu.edu webpage, does not collect personal information about visitors. We may, however, use third party analytics services that may use browser cookies to anomalously collect and track site usage information. This information is then analyzed as an aggregate, and no personally identifiable information is collected.
 
-**Information Gathered by WTAMU**  
+ **Information Gathered by WTAMU**  
 Personal information that you provide via email or through other online means will be used only for purposes necessary to serve your needs, such as responding to an inquiry or other request for information. This may involve redirecting your inquiry or comment to another person or department better suited to meeting your needs.
 
 Our site does use server logs to collect information concerning your internet connection and general information about your visit to our website. This information may be used to analyze trends; to create summary statistics for the purpose of determining technical design specifications; and to identify system performance or problem areas.
 
 This means we sometimes acquire, record, and analyze portions of the data that is entered into, stored on, and/or transmitted through this site by you. This information is only released – when legally required – to help law enforcement investigations, legal proceedings or internal investigations of WTAMU rule and regulation violations. These groups would use the information to track the electronic interactions back to the source computer(s) or account(s).
 
-**Cookies**  
-A cookie file contains unique information that a website can use to track such things as passwords, pages you have visited, the date you last looked at a specific page, and to identify your session at a particular website. We do not use cookies to track or collect any information that could personally identify individual visitors.  
+ **Cookies**  
+A cookie file contains unique information that a website can use to track such things as passwords, pages you have visited, the date you last looked at a specific page, and to identify your session at a particular website. We do not use cookies to track or collect any information that could personally identify individual visitors.
 
-
-**Server Log Information**  
-The following information is collected from server logs for analysis. Note that other servers across campus might collect different data elements.  
-
+ **Server Log Information**  
+The following information is collected from server logs for analysis. Note that other servers across campus might collect different data elements.
 
   * User/client hostname - The hostname (or IP address if DNS is disabled) of the user/client requesting access
   * HTTP header, "user agent" - The user-agent information includes the type of browser, its version, and the operating system it is running on
@@ -56,23 +60,22 @@ The following information is collected from server logs for analysis. Note that 
 
 
 
-**Access to Information**  
+ **Access to Information**  
 Except for education records governed by FERPA, all information collected from this website, including the summary server log information, emails sent to the website, and information collected from web-based forms, may be subject to the Texas Public Information Act. This means that while WTAMU does not actively share information, but in some cases may be compelled by law to release information gathered from its web servers.
 
 The Texas Public Information Act, with a few exceptions, gives you the right to be informed about the information that this website collects about you. It also gives you the right to request a copy of that information, and to have the university correct any information that is wrong. You may request to receive and review any of that information, or request corrections to it, by contacting Sherry Bays, WT Box 60188, Canyon, Texas, 79016, at 806-651-2095.
 
-**Forms**
+ **Forms**
 
 Consistent with the [Texas DIR State Website Linking and Privacy Policy](http://www2.dir.state.tx.us/pubs/Pages/weblink-privacy.aspx), with few exceptions, state law gives you the right to request, receive, review, and correct information collected by forms.
 
 In accordance with TAC Rule 206.72, any web-based form on an official University website that requests information from the public must have a link to the [WTAMU Link Policy and Privacy Statement](http://www.wtamu.edu/privacy).
 
-**Security**  
-Extensive security measures consistent with the Texas Administrative Code (TAC) "Information Security Standards" and WTAMU Rules and Standard Administrative Procedures have been employed to protect against unauthorized access, disclosure, modification, or destruction of information under our control, as well as the loss, misuse, or alteration of this website and/or associated electronic information resources. The information resources that support this site undergo an annual information security risk assessment via the Information Security Awareness Assessment and Compliance (ISAAC) system. The ISAAC system is used to assess the security posture of information systems and measure compliance with information security standards. View our [Security Policy](https://web.archive.org/webres/File/About/Administration/Rules/24.99.99.W1_RULE_Security%20of%20Electronic%20Information%20Resources_7.13.10.pdf).  
-  
-**Questions**  
-If you have any questions about the practices of this site or your use of this website, please contact:  
+ **Security**  
+Extensive security measures consistent with the Texas Administrative Code (TAC) "Information Security Standards" and WTAMU Rules and Standard Administrative Procedures have been employed to protect against unauthorized access, disclosure, modification, or destruction of information under our control, as well as the loss, misuse, or alteration of this website and/or associated electronic information resources. The information resources that support this site undergo an annual information security risk assessment via the Information Security Awareness Assessment and Compliance (ISAAC) system. The ISAAC system is used to assess the security posture of information systems and measure compliance with information security standards. View our [Security Policy](https://web.archive.org/webres/File/About/Administration/Rules/24.99.99.W1_RULE_Security%20of%20Electronic%20Information%20Resources_7.13.10.pdf).
 
+ **Questions**  
+If you have any questions about the practices of this site or your use of this website, please contact:
 
 Trey Roach  
 Web Communication Manager  
@@ -80,4 +83,5 @@ West Texas A&M University
 WT Box 60788  
 Canyon, Texas 79016-0001  
 (806) 651-3325  
-[droach@mail.wtamu.edu](mailto:droach@mail.wtamu.edu?subject=Privacy%20Statement)
+[droach@mail.wtamu.edu](mailto:droach@mail.wtamu.edu?subject=Privacy%20Statement)  
+ 
