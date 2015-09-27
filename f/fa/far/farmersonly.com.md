@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the farmersonly.com privacy policy that was archived on 2015-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150416051448id_/http%3A//farmersonly.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farmersonly.com privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927052238id_/http%3A//www.farmersonly.com/pages/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
