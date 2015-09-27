@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloze.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702035756id_/https%3A//www.cloze.com/app/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloze.com privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927120012id_/https%3A//www.cloze.com/app/legal/privacy) for the most accurate reproduction.*
 
 # Privacy | Cloze
 
@@ -190,4 +190,4 @@ Cloze may update this Privacy Policy from time to time.  If we decide to change
 
 Please contact us at privacy@cloze.com if you have any questions about our Privacy Policy.
 
-Copyright © 2014 Cloze, Inc. All Rights Reserved.
+Copyright © 2015 Cloze, Inc. All Rights Reserved.
