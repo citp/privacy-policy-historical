@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the gotvape.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630085129id_/http%3A//www.gotvape.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotvape.com privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927054421id_/http%3A//www.gotvape.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-## GotVape.com Privacy Policy
 
 We understand that you have **confidential information** that you want to protect and maintain as confidential. We want you to know that Got Vape? is committed to safeguarding your privacy online and that we strive to make our Web site as safe and secure as reasonably possible.
 
