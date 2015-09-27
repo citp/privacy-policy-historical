@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the tlo.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511100406id_/http%3A//www.tlo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tlo.com privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927161317id_/http%3A//www.tlo.com/privacy.html) for the most accurate reproduction.*
 
 # TLO Privacy Statement
 
-Privacy
-
+Privacy  
 We are committed to protecting your privacy  
 Please carefully read our privacy policy to understand how we will treat the information you provide while visiting our Website. 
 
@@ -24,3 +23,23 @@ We have appropriate security measures in place to safeguard the personal informa
 
 Changes to this Privacy Policy  
 We may modify this policy at any time by posting the modified terms on this page. Please check the policy each time you use our Website for the most current information. 
+
+### Market-leading risk management solutions
+
+  * Verify identity
+  * Prevent and detect internal and external fraud
+  * Link people, businesses, and assets
+  * Conduct enhanced due diligence
+  * Increase the effectiveness of current fraud prevention and legislative compliance programs
+  * Identify relationships between customers, people, and businesses
+  * Investigate potential conflicts of interest
+
+
+
+* * *
+
+* * *
+
+## Get to know TLOxp
+
+* * *
