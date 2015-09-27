@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the rekhta.org privacy policy that was archived on 2015-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150411114039id_/https%3A//rekhta.org/cms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rekhta.org privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927064855id_/https%3A//rekhta.org/cms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-  
-
-
-* * *
 
 Rekhta’s privacy policy explains how we treat your personal data and protect your privacy when you use our Services. By using our Services, you agree that Rekhta can collect, retain and use such data in accordance with our privacy policy.
 
