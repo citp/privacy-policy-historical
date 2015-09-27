@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jaynaylor.com privacy policy that was archived on 2015-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150216151100id_/https%3A//jaynaylor.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaynaylor.com privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927131134id_/https%3A//jaynaylor.com/privacy.php) for the most accurate reproduction.*
 
 # JayNaylor.com
 
