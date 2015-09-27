@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chargedevs.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318095620id_/http%3A//chargedevs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chargedevs.com privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927190319id_/https%3A//chargedevs.com/privacy-policy) for the most accurate reproduction.*
 
 # Charged EVs | Privacy Policy
 
@@ -39,15 +39,15 @@ On our websites, we may also use tiny graphic images called pixel tags, web beac
 
 We work with reputable third parties that provide data tracking and collection technologies in order to:
 
-> \-      Present or serve the advertisements you may see at ChargedEVs websites;
+> –      Present or serve the advertisements you may see at ChargedEVs websites;
 > 
-> \-      Deliver and track e-mail communications;
+> –      Deliver and track e-mail communications;
 > 
-> \-      Process purchase orders through e-commerce transactions;
+> –      Process purchase orders through e-commerce transactions;
 > 
-> \-      Fulfill print and digital subscription orders; and
+> –      Fulfill print and digital subscription orders; and
 > 
-> \-      Provide marketing leads to third-party organizations (where you have agreed to allow us to do so).
+> –      Provide marketing leads to third-party organizations (where you have agreed to allow us to do so).
 
 These companies may collect information about you on our behalf.  We require that these parties agree to process any such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.  
 
@@ -71,11 +71,11 @@ We may transfer your sensitive personally-identifying information to other Charg
 
 ChargedEVs will only share your sensitive personal information with outside companies or individuals in any of the following limited circumstances:
 
-> \-      When we use trusted businesses or persons to process personal information on our behalf.  Before sharing any personal information with outside parties, we require that these parties agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
+> –      When we use trusted businesses or persons to process personal information on our behalf.  Before sharing any personal information with outside parties, we require that these parties agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
 > 
-> \-      When we have a good faith belief that access, use, preservation, or disclosure is necessary to (a) comply with applicable law, regulation, or legal process; (b) enforce the applicable Terms of Service or other agreements and policies on the Company's Websites; (c) detect, prevent, or otherwise address fraud, security, or technical issues; or (d) protect against imminent harm to the rights, property, or safety or ChargedEVs, its users, or the public as required or permitted by law.
+> –      When we have a good faith belief that access, use, preservation, or disclosure is necessary to (a) comply with applicable law, regulation, or legal process; (b) enforce the applicable Terms of Service or other agreements and policies on the Company's Websites; (c) detect, prevent, or otherwise address fraud, security, or technical issues; or (d) protect against imminent harm to the rights, property, or safety or ChargedEVs, its users, or the public as required or permitted by law.
 > 
-> \-      When you consent.  Before we share your sensitive personal information outside of the previously listed circumstances, we will ask you for permission first.  Please note that this only applies to sensitive information, as defined above.
+> –      When you consent.  Before we share your sensitive personal information outside of the previously listed circumstances, we will ask you for permission first.  Please note that this only applies to sensitive information, as defined above.
 
 We may also use, transfer, sell, and share aggregated, anonymous data about our users for any legal purpose, such as analyzing usage trends and seeking compatible advertisers and partners.  In no event will this aggregated data contain any information that could be used to identify individual users of our products or services.
 
