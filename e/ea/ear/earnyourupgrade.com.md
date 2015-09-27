@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earnyourupgrade.com privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410032955id_/http%3A//earnyourupgrade.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earnyourupgrade.com privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927195819id_/http%3A//www.earnyourupgrade.com/privacy.php) for the most accurate reproduction.*
 
 # Earn Your Upgrade Privacy Policy
 
