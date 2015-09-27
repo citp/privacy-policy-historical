@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trackif.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320041400id_/https%3A//trackif.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trackif.com privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927041318id_/https%3A//trackif.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - TrackIf
 
