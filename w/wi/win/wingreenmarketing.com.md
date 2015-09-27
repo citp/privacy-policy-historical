@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wingreenmarketing.com privacy policy that was archived on 2014-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140108095530id_/http%3A//wingreenmarketing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wingreenmarketing.com privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927094114id_/http%3A//wingreenmarketing.com/privacy-policy) for the most accurate reproduction.*
 
-# WinGreen Privacy Policy - WinGreen
+# Privacy Policy
 
 What follows is WinGreen Marketing Systems’ (WinGreen) online privacy policy, which governs personal information gathered on our Internet site.
 
