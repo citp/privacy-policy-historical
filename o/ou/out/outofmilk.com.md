@@ -1,20 +1,18 @@
-> *The following text is extracted and transformed from the outofmilk.com privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530020608id_/https%3A//www.outofmilk.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outofmilk.com privacy policy that was archived on 2015-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150928000744id_/http%3A//www.outofmilk.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Out of Milk - Privacy
 
-## CAPIGAMI, INC. Privacy Policy
+#### Last Updated : May 20, 2014
 
-**Last Updated : May 20, 2014**
+This privacy policy (this “ **Policy** ”) describes the collection of personal information by Capigami, Inc., a Delaware corporation (“ **Capigami** ,” “ **we** ,” or “ **us** ”) from users of our website at www.capigami.com and www.outofmilk.com (collectively, the “ **Website** ”), as well as all related applications, widgets, software, tools, and other services provided by us and on which a link to this Policy is displayed (collectively, together with the Website, our “ **Service** ”). This Policy also describes our use and disclosure of such information. By using our Service, you consent to the collection, use, and disclosure of personal information in accordance with this Policy. This Policy is incorporated by reference into the Capigami Terms of Use **<http://www.outofmilk.com/Terms.aspx>** and End User License Agreement **<http://www.outofmilk.com/EULA.aspx>** for the mobile-device, software applications that we may provide as part of the Service (“ **Apps** ”).
 
-This privacy policy (this “ **Policy** ”) describes the collection of personal information by Capigami, Inc., a Delaware corporation (“ **Capigami** ,” “ **we** ,” or “ **us** ”) from users of our website at www.capigami.com and www.outofmilk.com (collectively, the “ **Website** ”), as well as all related applications, widgets, software, tools, and other services provided by us and on which a link to this Policy is displayed (collectively, together with the Website, our “ **Service** ”). This Policy also describes our use and disclosure of such information. By using our Service, you consent to the collection, use, and disclosure of personal information in accordance with this Policy. This Policy is incorporated by reference into the Capigami Terms of Use [ **<http://www.outofmilk.com/Terms.aspx>** ] and End User License Agreement [ **<http://www.outofmilk.com/EULA.aspx>** ] for the mobile-device, software applications that we may provide as part of the Service (“ **Apps** ”). 
-
-### Personal Information
+#### Personal Information
 
 “ **Personal Information** ,” as used in this Policy, is information that specifically identifies an individual, such as an individual's name, address, telephone number, or email address. 
 
 Personal Information does not include “aggregate” or other non-personally identifiable information. Aggregate information is information that we collect about a group or category of products, services, or users that is not personally identifiable or from which individual identities are removed.
 
-### Collection of Information
+#### Collection of Information
 
 **Information You Provide**
 
@@ -48,7 +46,7 @@ Please be aware that in the course of your use of the Service, websites or other
 
 When you use our Apps, we collect information about the location of your mobile device such as your country, latitude, longitude and what stores, retailers or other merchants are physically near the location of your mobile device. Your devices operating system may give you the option of enabling or disabling the collection of certain location information at any time through your mobile device.
 
-### Use of Your Information
+#### Use of Your Information
 
 We use the information we collect to provide services and information that you request; to enhance, improve, operate, and maintain our Service, our programs, services, websites, and other systems; to prevent fraudulent use of our Service and other systems; to prevent or take action against activities that are, or may be, in violation of our Terms of Use [ **<http://www.outofmilk.com/Terms.aspx>** ], End User License Agreement [ **<http://www.outofmilk.com/EULA.aspx>** ] or applicable law; to provide and tailor advertisements, content, and other aspects of your experience on and in connection with the Service; to perform anonymous market research; to maintain a record of our dealings with you; for other administrative purposes; and for any other purposes that we may disclose to you at the point at which we request your information, and with your consent.
 
@@ -94,26 +92,26 @@ If you request that we delete your account on any of our Service (via a user set
 
 The Service may contain links to other websites, products, or services that we do not own or operate. For example, the Service may contain links to third-party merchants from which you may receive deals through the Service. If you choose to visit or use any Third-Party Sites or products or services available on or through such Third-Party Sites, please be aware that this Policy will not apply to your activities or any information you disclose while using those Third-Party Sites or any products or services available on or through such Third-Party Sites. We are not responsible for the privacy practices of these Third-Party Sites or any products or services on or through them. Additionally, please be aware that the Service may contain links to websites and services that we operate but that are governed by different privacy policies. We encourage you to carefully review the privacy policies applicable to any website or service you visit other than the Service before providing any Personal Information on them.
 
-### Children
+#### Children
 
-Childrens safety is important to us, and we encourage parents and guardians to take an active interest in the online activities of their children. Our Service is not directed to children under the age of 13, and we do not knowingly collect Personal Information from children under the age of 13 without obtaining parental consent. If we learn that we have collected Personal Information from a child under the age of 13 on our Service, we will delete that information as quickly as possible. If you believe that we may have collected any such Personal Information on our Service, please notify us at privacy@capigami.com.
+Children's safety is important to us, and we encourage parents and guardians to take an active interest in the online activities of their children. Our Service is not directed to children under the age of 13, and we do not knowingly collect Personal Information from children under the age of 13 without obtaining parental consent. If we learn that we have collected Personal Information from a child under the age of 13 on our Service, we will delete that information as quickly as possible. If you believe that we may have collected any such Personal Information on our Service, please notify us at privacy@capigami.com.
 
-### International Visitors
+#### International Visitors
 
 Our servers and data centers are located in the United States. If you choose to use the Service from outside the U.S., then you should know that you are transferring your Personal Information outside of your region and into the U.S. for storage and processing. By providing your Personal Information to us through your use of the Service, you agree to that transfer, storage, and processing in the U.S. Also, we may transfer your data from the U.S. to other countries or regions in connection with storage and processing of data, fulfilling your requests, and operating the Service. You should know that each region can have its own privacy and data security laws, some of which may be less stringent as compared to those of your own region.
 
-### Security
+#### Security
 
 We use security measures to help protect information from accidental loss, disclosure, misuse, and destruction. These measures may include regular review of our system logs, data encryption, and security software on our networks and servers. Please be aware, however, that no data security measures can be guaranteed to be completely effective. Consequently, we cannot ensure or warrant the security of any information that you provide to us. You transmit information to us at your own risk.
 
-### Updates to this Policy
+#### Updates to this Policy
 
 We may occasionally update this Policy. When we do, we will also revise the “last updated” date at the beginning of the Policy. Your continued use of our Service after such changes will be subject to the then-current policy. If we change this Policy in a manner that is materially less restrictive of our use or disclosure of your Personal Information, we will use reasonable efforts to notify you of the change and to obtain your consent prior to applying the change to any Personal Information that we collected from you prior to the date the change becomes effective. We encourage you to periodically review this Policy to stay informed about how we collect, use, and disclose information.
 
-### Contacting Us
+#### Contacting Us
 
 If you have any questions or comments about this Policy, please contact us using the following contact information:
 
 Capigami, Inc.  
-156 2nd St.  
-San Francisco, CA 94105 privacy@capigami.com
+322 Ritch St.  
+San Francisco, CA 94105 support@capigami.com
