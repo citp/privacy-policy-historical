@@ -1,0 +1,80 @@
+> *The following text is extracted and transformed from the treeline.io privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927093309id_/https%3A//treeline.io/privacy-policy) for the most accurate reproduction.*
+
+# Treeline Privacy Policy
+
+### General Information
+
+At Treeline we believe it is important for you to understand what types of information we are collecting and what may happen to that information when using our website and related applications and resources (collectively, the “Service”). This Privacy Policy is designed to explain Treeline’s policies and procedures with respect of collection, use and disclosure by Treeline of information about you in connection with the Service. This Privacy Policy has a limited scope and applies only to the Service. 
+
+By accessing the Service, you consent to the collection, use and disclosure of your personal information as explained in this privacy policy (the “Privacy Policy”). This Privacy Policy is incorporated into and is subject to the Treeline Terms of Service, which can be accessed [here](https://web.archive.org/terms-of-service). Your use of the Service and any information you provide through the Service is subject to the terms of this Privacy Policy and our Terms of Service. 
+
+### What you will find in this privacy policy?
+
+  1. How we collect information about you
+  2. How we use or share information about you
+  3. How we safeguard information about you
+  4. Other matters related to the information we collect about you
+
+
+
+#### COLLECTION OF INFORMATION
+
+We collect information about you in a variety of ways in connection the Service. 
+
+REGISTRATION. To use some features and resources available through the Service, a user must complete our registration process. During registration, a user is required to provide certain categories of information, which may include personally identifiable information and other information about you such as your name, address, e-mail address, social network account information, password, user type, birthdate, gender, phone number, and how you heard about Treeline.
+
+OPTIONAL INFORMATION. At various other points during your use of the Service, you may have the option to provide additional information related to you. For example, you may wish to create a profile, post, comment on another user’s post or share a post with another person, or you may wish to utilize social network integrations or location-based features of the Service. For voluntary activities like these you have the choice about whether to disclose the information necessary to use these features of the Service.
+
+PASSIVE COLLECTION OF INFORMATION. In addition to the information which you actively provide to us by methods such as completing our registration process, commenting on, or sharing a post, we collect information about how you interact with the Service. We collect passive information for purposes such as testing and improving user experience with the Service and the compilation of demographic data and related usage information for internal purposes and for disclosure to third parties such as advertisers and business partners. The types of passive information we collect include, without limitation, certain standard information sent by your browser, such as your Internet Protocol (IP) address, your device ID, your browser type and capabilities and language, your operating system, the date and time you access the Service, and the referring website from which you linked to the Service. We also collect information related to your behavior within the Service (such as pages viewed, links clicked, and other actions taken within the Service). We also may utilize special links, electronic images or other objects embedded within the Site—sometimes referred to as web beacons or tracking pixels—to collect information that helps determine and analyze how you and other visitors use the Site. If you have provided us with personal information through registration or other voluntary means, we may connect your personal information with passive information collected through our Site and use the combined information to help determine your potential interests in certain products, services or information and for other purposes described in this Privacy Policy.
+
+COOKIES. Information related to your interactions with the Service may be collected and stored by us in small data files—commonly referred to as cookies—that are placed onto your device by our servers. We may use temporary session cookies, which are terminated when you close your current session, to store certain personal information you provide for purposes of administering that session and facilitating transactions requested by you during that session. We also may use persistent cookies, which remain saved on your device after your current session is closed, to store information related to your interactions with the Service to facilitate future sessions. Most browsers automatically accept cookies, but you can usually modify your browser settings to decline cookies or to notify you when a cookie is being placed on your device. Each browser is different, but generally users can remove cookies by following directions provided in the browser’s “help” file. Please note that, if you reject cookies or disable cookies, some features of the Service may not function properly.
+
+COLLECTION OF INFORMATION FROM MINORS. The Service is intended for a general audience and it is not intended for children under the age of 13. Use of the Service is prohibited for anyone under the age of 13. If you are between 13 and 18 years of age, you must secure authorization from your parents or legal guardian before using the Service. Although the Service may contain information that may be of interest to children, the Service is not directed at children and we do not knowingly collect or solicit personal information from children under the age 13.
+
+#### USE AND SHARING OF INFORMATION
+
+The Service enables that enable users to post, access and share user generated content and other information across the Treeline community, other social networks and other websites and online services and may include various features and functionality such as comments, message boards or chat areas, where users can post information and communicate with one another. Please be aware that these posts and communications are being made publicly available online and you do so at your own risk.
+
+We will not knowingly use, share, or otherwise transfer information about you other than in accordance with the terms set forth in this Privacy Policy. Additionally, we may use, share, or otherwise transfer information about you for other purposes for which we have obtained your consent. Your consent may be implied, deemed (using an opt-out mechanism) or express. Express consent can be given orally, electronically or in writing. Implied consent is consent that can reasonably be inferred from your action or inaction. Regardless of your decision regarding the sharing of your personal information, we may share demographic data and related usage information with our business partners in an aggregated or anonymized manner intended to remove or obscure any personal information which can identify any individual user.
+
+We may use information about you in order to deliver products and services to you and to customize the Service to your interests and enhance your overall experience with the Service. We try to recognize you using various methods, including having you log in with your user name and your password. Once we recognize you, your experience may be customized for you so that you can see what interests you the most. In addition, as described above, we utilize passive information to learn more about how you interact with the Service. This passive information may be combined with other information and used for purposes such as enhancing your experience using the Service, improving the Service, testing and enhancing security and compilation of demographic data and related usage information for our internal purposes and for other purposes described in this Privacy Policy.
+
+While we strive to protect the personal information of our users, we may use, share, or otherwise transfer your personal without your knowledge or consent if required by applicable law or regulatory requirements or in the good-faith belief that such action is necessary or appropriate.
+
+From time to time, we may decide that it is more efficient to use third parties to perform specific functions related to the Service. If we use a third party to perform specific functions (such as sending communications to our users on our behalf), then information (such as contact information) may be shared with that third party to the extent necessary for that third party to perform that function. We authorize these third party service providers to use personally identifiable information only for the purpose of providing the specific services requested by us. Third party service providers covered by this paragraph do not include third party sites, applications or services that are accessed via links within the Service, which are governed by a more specific provision below.
+
+If you opt-in to a feature that allows third parties to contact you, personal information about you (such as your contact information and other information collected during your visit to the Service) may be shared with data aggregators, marketers, and other organizations (possibly in the form of list rental).
+
+In the event that we sell, assign or transfer some or all of our business to a successor or acquirer, we may sell, assign or transfer all of your information, regardless of your status, to such successor or acquirer.
+
+#### SECURITY
+
+We have security measures in place to help protect against the unauthorized access of personally identifiable information under our control. We utilize both online and offline security methods, including firewalls, passwords and restricted physical access to the places where your information is stored to help protect personally identifiable information. Our staff is trained to comply with our security procedures, and our security procedures are regularly reviewed and revised as we deem necessary.
+
+#### HOW YOU CAN ACCESS AND UPDATE YOUR INFORMATION
+
+Our goal is for any personal information in our possession to be as accurate, current and complete as necessary for the purposes for which we use that information. If you want to review, verify or correct your personal information, please contact us using the contact information set out below. We reserve the right not to change any personal information and instead append any alternative information the individual concerned believes is appropriate. To some extent, we rely on individuals to update their own personal information. Unless an individual advises us of these important changes, we may have no way of knowing about them.
+
+The State of California enacted the Shine the Light law (CA Civil Code Sec 198.83) that permits users who are California residents to request certain information regarding the disclosure of personal information during the past year for marketing purposes. To make such a request, you can contact us at [privacy@treeline.io](mailto:privacy@treeline.io).
+
+#### ELECTRONIC MAILING LISTS AND HOW TO UNSUBSCRIBE
+
+We may use your contact information periodically in order to send you email or other communications regarding updates to the Service and to alert you or remind you of happenings related to the Service. The frequency of these messages will vary depending upon various factors.
+
+If you no longer wish to receive e-mails from us and want to be removed from our electronic mailing list, please e-mail us at the following address [unsubscribe@treeline.io](mailto:unsubscribe@treeline.io) with “Email Unsubscribe” in the subject heading. If you choose to unsubscribe from our mailing lists, we will hold your contact information on file marked so that we do not inadvertently contact you if your details are subsequently provided to us by a third party.
+
+#### OTHER PROVISIONS
+
+Your use of the Service indicates an acceptance of the terms of the Privacy Policy. We reserve the right to update or amend this Privacy Policy at any time. We will post any revised version of this Privacy Policy on our website, and we encourage you to refer back to it on a regular basis. The changes contained in any such revised version of this Privacy Policy will be effective from the time such revised version is posted unless otherwise specifically stated therein.
+
+This Privacy Policy does not create or confer upon any individual any rights, or impose upon Treeline any rights or obligations outside of, or in addition to, any rights or obligations imposed by the privacy laws of such individual’s jurisdiction, as applicable. Privacy legislation or an individual’s right to privacy may differ from one jurisdiction to another. The rights and obligations described in this Privacy Policy may not apply to all individuals or in all jurisdictions. Should there be, in a specific case, any inconsistency between this Privacy Policy and the applicable privacy laws of such individual’s jurisdiction, this Privacy Policy shall be interpreted, in respect of that case, to give effect to, and comply with, such privacy laws.
+
+Please be aware that, by accessing our Service, you acknowledge that our servers are currently located in the United States and that the various communications necessarily result in the transfer of information across international boundaries. By accessing the Service and communicating electronically with us, you consent to the processing and transfer of your personal information as set out in this Privacy Policy. Personal information collected by us may be stored and processed in the United States of America or any other country in which we maintain facilities. Personal information collected by us may be transferred among our various divisions and affiliated companies around the world, which may involve transfer from countries within the European Economic Area to countries outside the European Economic Area. By choosing to access the Service, you consent to any such transfer, storage or processing of personal data outside of your country.
+
+This Privacy Policy applies solely to the information collected by us on-line through the Service and does not apply to any website, application or service other than the Service. The Service contains links to other websites, applications and services provided by third parties that we do not own or control and we are not responsible for the privacy policies and practices of those third parties. Similarly, we are not responsible for the privacy policies and practices of any other websites, applications and services from which you linked to our Service. We encourage you to be aware when you leave our Service and to read the privacy policies of each and every third party that may be providing websites, applications or information linked to the Service.
+
+This Privacy Policy may include examples but is not intended to be restricted in its application to such examples, thus ‘including’ means ‘including without limitation.’
+
+Your privacy is important to us. If you have questions about any of the provisions described above, please contact us at e such a request, you can contact us at .
+
+Last Updated: June 30, 2015
