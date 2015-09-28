@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the avidian.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619123257id_/http%3A//www.avidian.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avidian.com privacy policy that was archived on 2015-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150928041648id_/http%3A//www.avidian.com/privacy-policy) for the most accurate reproduction.*
 
 # Avidian - Privacy Policy for Avidian CRM
+
+[Home](https://www.avidian.com/) » **Avidian Privacy Policy**
 
 ## Privacy Policy
 
@@ -16,7 +18,7 @@ From time to time, we may need to change our privacy statement because of change
 
 In situations where you haven’t provided anything to us, it is simply information such as your IP address or your browser type. This type of information allows us to do things such as identify and track problems on our server and find out how many people use one type of browser over another. In cases where you have provided us information by becoming a member of our site, filling out a form, signing up for our newsletters, or participating in a survey, the information may consist of items such as your name, e-mail address, company, etc. (whatever you’ve provided us). We use this type of information to help us personalize your experience on our website and send you your requested information.
 
-Plus, we may selectively send out communications that may be of interest to you such as newsletters, special offers from Avidian and product announcements. You always have the choice of opting-out of receiving communications from us. Simply send us an email with unsubscribe in the subject to info@avidian.com.
+Plus, we may selectively send out communications that may be of interest to you such as newsletters, special offers from Avidian and product announcements. You always have the choice of opting-out of receiving communications from us. Simply send us an email with unsubscribe in the subject to [info@avidian.com](mailto:info@avidian.com).
 
 If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and e-mail address. We will automatically send the friend a one-time e-mail inviting them to visit the site. We store this information for the sole purpose of sending this one-time e-mail. The friend may contact us to request the removal of this information from our database.
 
@@ -40,7 +42,7 @@ We’ll use reasonable efforts to honor your requests, but we appreciate your pa
 
 ## Opt-out
 
-You also have the opportunity to opt-out of receiving communications from us by one of the following options:
+You also have the opportunity to opt-out of receiving communications from us by one of the following options: 
 
   1. Email info@avidian.com with corrections.
   2. Send postal mail to: Customer Information Updates; Avidian Technologies, LLC | 3633 136 Place SE, Suite 107  | Bellevue, WA 98006
