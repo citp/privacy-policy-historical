@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weirdpalace.com privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521120443id_/http%3A//www.weirdpalace.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weirdpalace.com privacy policy that was archived on 2015-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150928215655id_/http%3A//www.weirdpalace.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Weird Palace
 
