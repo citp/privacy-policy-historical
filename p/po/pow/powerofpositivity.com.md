@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the powerofpositivity.com privacy policy that was archived on 2013-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130906014400id_/http%3A//powerofpositivity.com/test/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerofpositivity.com privacy policy that was archived on 2015-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150928232956id_/http%3A//www.powerofpositivity.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - powerofpositivity.com | powerofpositivity.com
+# Privacy Policy -
 
-This Privacy Policy governs the manner in which Power of Positivity collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.PowerofPositivity.com](http://www.powerofpositivity.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Power of Positivity.
+This Privacy Policy governs the manner in which Power of Positivity collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.powerofpositivity.com](http://www.powerofpositivity.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Power of Positivity.
 
 **Personal identification information**
 
@@ -20,17 +20,17 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 Power of Positivity may collect and use Users personal information for the following purposes:
 
-  * _\- To improve customer service_  
+  * _– To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _\- To personalize user experience_  
+  * _– To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To improve our Site_  
+  * _– To improve our Site_  
 We may use feedback you provide to improve our products and services.
-  * _\- To process payments_  
+  * _– To process payments_  
 We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
-  * _\- To run a promotion, contest, survey or other Site feature_  
+  * _– To run a promotion, contest, survey or other Site feature_  
 To send Users information they agreed to receive about topics we think will be of interest to them.
-  * _\- To send periodic emails_  
+  * _– To send periodic emails_  
 We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
 
@@ -63,24 +63,22 @@ Power of Positivity has the discretion to update this privacy policy at any time
 
 **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](http://powerofpositivity.com/privacy-policy/). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](http://www.powerofpositivity.com/privacy-policy/). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 [Power of Positivity](http://www.powerofpositivity.com/)  
-[http://www.PowerofPositivity.com](http://www.powerofpositivity.com/)  
+[http://www.powerofpositivity.com](http://www.powerofpositivity.com/)  
 info@powerofpositivity.com
 
-This document was last updated on February 10, 2013
+This document was last updated on June 5, 2015
 
-### [Power of Positivity](http://powerofpositivity.com/test/author/popadmin/ "Power of Positivity")
+### [Power of Positivity](http://www.powerofpositivity.com/author/popadmin/ "Power of Positivity")
 
-Our passion is to serve and bring the best possible positive information, news, expertise and opinions to this page. We want to help our community find and shine their inner light – the truth of love, light, and positivity that is within us all! Read more [ about Power of Positivity… ](http://powerofpositivity.com/test/about-us/)
+Our passion is to serve and bring the best possible positive information, news, expertise and opinions to this page. We want to help our community find and shine their inner light - the truth of love, light, and positivity that is within us all! Read more [ about Power of Positivity... ](http://www.powerofpositivity.com/test/about-us/)
 
-[More Posts](http://powerofpositivity.com/test/author/popadmin/ "More posts by Power of Positivity") – [Website](http://www.powerofpositivity.com/ "Power of Positivity")
+[More Posts](http://www.powerofpositivity.com/author/popadmin/ "More posts by Power of Positivity") \- [Website](http://www.powerofpositivity.com/ "Power of Positivity")
 
 Follow Me:  
-[](http://www.twitter.com/livepositivity)[](http://www.facebook.com/http://www.facebook.com/PowerofPositivity)[](http://www.pinterest.com/http://www.pinterest.com/PowerofPositivity)
-
- 
+[](http://www.twitter.com/livepositivity)[](http://www.facebook.com/PowerofPositivity)[](http://www.pinterest.com/PowerofPositivity)
