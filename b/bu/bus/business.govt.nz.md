@@ -1,27 +1,27 @@
-> *The following text is extracted and transformed from the business.govt.nz privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321071925id_/http%3A//www.business.govt.nz/resolveuid/070cbbd2a6cfe632882a9b72fde8cc5a) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the business.govt.nz privacy policy that was archived on 2015-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150928172030id_/http%3A//www.business.govt.nz/resolveuid/070cbbd2a6cfe632882a9b72fde8cc5a) for the most accurate reproduction.*
 
 # Privacy | Business.govt.nz
 
-  * [Purpose](http://www.business.govt.nz/help-support/privacy#purpose "\[bookmark\]")
-  * [Scope](http://www.business.govt.nz/help-support/privacy#scope "\[bookmark\]")
-  * [Collection, storage and use](http://www.business.govt.nz/help-support/privacy#collection-storage-use "\[bookmark\]")
-  * [Voluntary disclosure of personal information](http://www.business.govt.nz/help-support/privacy#voluntary-disclosure-of-personal-information "\[bookmark\]")
-  * [Collection of personal information](http://www.business.govt.nz/help-support/privacy#collection-of-personal-information "\[bookmark\]")
-  * [Holding of information](http://www.business.govt.nz/help-support/privacy#holding-of-information "\[bookmark\]")
-  * [Disclosure of information](http://www.business.govt.nz/help-support/privacy#disclosure-of-information "\[bookmark\]")
-  * [Use of personal information](http://www.business.govt.nz/help-support/privacy#use-of-personal-information "\[bookmark\]")
-  * [Records and retention of personal information](http://www.business.govt.nz/help-support/privacy#Records-and-retention-of-persona-_information "\[bookmark\]")
-  * [Public records](http://www.business.govt.nz/help-support/privacy#public-records "\[bookmark\]")
-  * [Call recording](http://www.business.govt.nz/help-support/privacy#call-recording "\[bookmark\]")
-  * [Business.govt.nz calendar](http://www.business.govt.nz/help-support/privacy#business.govt-calendar "\[bookmark\]")
-  * [Companies Office Search Results](http://www.business.govt.nz/help-support/privacy#companies-office-search-results "\[bookmark\]")
-  * [Compliance Matters](http://www.business.govt.nz/help-support/privacy#compliance-matters "\[bookmark\]")
-  * [Employee Cost Calculator](http://www.business.govt.nz/help-support/privacy#employee-cost-calculator "\[bookmark\]")
-  * [Rights of access and correction](http://www.business.govt.nz/help-support/privacy#rights-of-access-and-correction "\[bookmark\]")
-  * [Your rights](http://www.business.govt.nz/help-support/privacy#your-rights "\[bookmark\]")
-  * [Statistical information and cookies](http://www.business.govt.nz/help-support/privacy#statisical-information-and-cookies "\[bookmark\]")
-  * [Statistical information](http://www.business.govt.nz/help-support/privacy#statistical-information "\[bookmark\]")
-  * [Cookies](http://www.business.govt.nz/help-support/privacy#cookies "\[bookmark\]")
+  * [Purpose](http://www.business.govt.nz/about-this-site/privacy#purpose "\[bookmark\]")
+  * [Scope](http://www.business.govt.nz/about-this-site/privacy#scope "\[bookmark\]")
+  * [Collection, storage and use](http://www.business.govt.nz/about-this-site/privacy#collection-storage-use "\[bookmark\]")
+  * [Voluntary disclosure of personal information](http://www.business.govt.nz/about-this-site/privacy#voluntary-disclosure-of-personal-information "\[bookmark\]")
+  * [Collection of personal information](http://www.business.govt.nz/about-this-site/privacy#collection-of-personal-information "\[bookmark\]")
+  * [Holding of information](http://www.business.govt.nz/about-this-site/privacy#holding-of-information "\[bookmark\]")
+  * [Disclosure of information](http://www.business.govt.nz/about-this-site/privacy#disclosure-of-information "\[bookmark\]")
+  * [Use of personal information](http://www.business.govt.nz/about-this-site/privacy#use-of-personal-information "\[bookmark\]")
+  * [Records and retention of personal information](http://www.business.govt.nz/about-this-site/privacy#Records-and-retention-of-persona-_information "\[bookmark\]")
+  * [Public records](http://www.business.govt.nz/about-this-site/privacy#public-records "\[bookmark\]")
+  * [Call recording](http://www.business.govt.nz/about-this-site/privacy#call-recording "\[bookmark\]")
+  * [Business.govt.nz calendar](http://www.business.govt.nz/about-this-site/privacy#business.govt-calendar "\[bookmark\]")
+  * [Companies Office Search Results](http://www.business.govt.nz/about-this-site/privacy#companies-office-search-results "\[bookmark\]")
+  * [Compliance Matters](http://www.business.govt.nz/about-this-site/privacy#compliance-matters "\[bookmark\]")
+  * [Employee Cost Calculator](http://www.business.govt.nz/about-this-site/privacy#employee-cost-calculator "\[bookmark\]")
+  * [Rights of access and correction](http://www.business.govt.nz/about-this-site/privacy#rights-of-access-and-correction "\[bookmark\]")
+  * [Your rights](http://www.business.govt.nz/about-this-site/privacy#your-rights "\[bookmark\]")
+  * [Statistical information and cookies](http://www.business.govt.nz/about-this-site/privacy#statisical-information-and-cookies "\[bookmark\]")
+  * [Statistical information](http://www.business.govt.nz/about-this-site/privacy#statistical-information "\[bookmark\]")
+  * [Cookies](http://www.business.govt.nz/about-this-site/privacy#cookies "\[bookmark\]")
 
 
 
@@ -50,7 +50,7 @@ MBIE may ask or require you (including where required by legislation administere
 If you wish to apply for a job with us, you will be required to register your details with us in order to create an account, maintain a profile so we can match your skills and preferences against upcoming positions, apply for positions, sign up for and receive alerts, and manage any applications.  
  
 
-[Top](http://www.business.govt.nz/help-support/privacy# "\[bookmark\] Back to top. ")
+[Top](http://www.business.govt.nz/about-this-site/privacy# "\[bookmark\] Back to top. ")
 
 ### Holding of information
 
@@ -74,7 +74,7 @@ Public records
 
 Where any information provided (which may include personal information) to or through this site constitute public records, it will be retained to the extent required by the Public Records Act 2005. MBIE may also be required to disclose information under the Official Information Act 1982 or to a Parliamentary Select Committee or Parliament in response to a Parliamentary Question.
 
- [Top](http://www.business.govt.nz/help-support/privacy# "\[bookmark\] Back to top. ")
+ [Top](http://www.business.govt.nz/about-this-site/privacy# "\[bookmark\] Back to top. ")
 
 ## Call recording
 
@@ -92,7 +92,7 @@ We understand your personal information is important to you, and we are committe
 
 Unless we have lawful reason for withholding this information, it will be made available if you request access to a transcript of your call by phoning 0508 266 726 and asking for the Privacy Officer.
 
- [Top](http://www.business.govt.nz/help-support/privacy# "\[bookmark\] Back to top. ")
+ [Top](http://www.business.govt.nz/about-this-site/privacy# "\[bookmark\] Back to top. ")
 
 ### Business.govt.nz calendar
 
@@ -114,7 +114,7 @@ MBIE will be collecting statistics from the Compliance Matters tool including in
 This information is not associated with individuals and cannot be traced back to an email address used to save an action list.
 
 ###   
-Employee Cost Calculator[Top](http://www.business.govt.nz/help-support/privacy# "\[bookmark\] Back to top. ")
+Employee Cost Calculator[Top](http://www.business.govt.nz/about-this-site/privacy# "\[bookmark\] Back to top. ")
 
 The Employee Cost Calculator tool requires users to provide an email address to email their calculation results.  Business.govt.nz does not collect or store these email addresses.  Some browsers may auto fill an email address previously entered if the cache has not been cleared but this is not related to any action by Business.govt.nz.
 
@@ -146,7 +146,7 @@ Auckland 1142.
 
 For more information on the privacy laws in New Zealand and contact details for the Office of the Privacy Commissioner, please visit the [Privacy Commissioner's website](https://opcwebsite.cwp.govt.nz/ "\[link to Privacy Commissioner's website\]. ").
 
- [Top](http://www.business.govt.nz/help-support/privacy# "\[bookmark\] Back to top. ")
+ [Top](http://www.business.govt.nz/about-this-site/privacy# "\[bookmark\] Back to top. ")
 
 ## Statistical information and cookies
 
@@ -188,5 +188,5 @@ You can read Google’s privacy statement, and access a Google Analytics opt-out
 
 You can manually disable cookies at any time - check your browser's 'Help' to find out how (disabling cookies will not affect your ability to use this website).
 
-[Top](http://www.business.govt.nz/help-support/privacy# "\[bookmark\] Back to top. ")  
-[Contact us](http://www.business.govt.nz/help-support/contact-business.govt.nz "\[internal link\] Contact us. ") if you have an enquiry or concern about our privacy policy.
+[Top](http://www.business.govt.nz/about-this-site/privacy# "\[bookmark\] Back to top. ")  
+[Contact us](http://www.business.govt.nz/about-this-site/contact-business.govt.nz "\[internal link\] Contact us. ") if you have an enquiry or concern about our privacy policy.
