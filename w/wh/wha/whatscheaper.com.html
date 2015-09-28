@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the whatscheaper.com privacy policy that was archived on 2014-03-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140331114353id_/http%3A//www.whatscheaper.com/privacypolicy.php%3Fuid%3D5337929f1c20e) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the whatscheaper.com privacy policy that was archived on 2015-09-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150928122735id_/http%3A//www.whatscheaper.com/privacypolicy.php%3Fuid%3D56083a763e913) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -93,7 +93,7 @@ turn_on_off_adv_pre_check
 <!--
 <input id='FDate' type='hidden' value="mm/dd/yyyy" name='FDate'>
 <input id='TDate' type='hidden' value="mm/dd/yyyy" name='TDate'> 
-<input id='CalS' name='CalS' value="03/31/2014" type='hidden'>
+<input id='CalS' name='CalS' value="09/28/2015" type='hidden'>
 <input id='CalE' name='CalE' value="" type='hidden'>
 
 <script src="js/cal_files/e.js" type=text/javascript></SCRIPT>
@@ -124,12 +124,12 @@ function expMonthChange(year)
 	var str;
 	var mnth=document.getElementById('exp_month').value;
 	
-	if(year == 2014)
+	if(year == 2015)
 	{
-		str="<select name='exp_month' id='exp_month' class='dropdown dpwidth1'><option value='-'>-</option> <option value='3'>3</option><option value='4'>4</option><option value='5'>5</option><option value='6'>6</option><option value='7'>7</option><option value='8'>8</option><option value='9'>9</option><option value='10'>10</option><option value='11'>11</option><option value='12'>12</option> </select>";
+		str="<select name='exp_month' id='exp_month' class='dropdown dpwidth1'><option value='-'>-</option> <option value='9'>9</option><option value='10'>10</option><option value='11'>11</option><option value='12'>12</option> </select>";
 
 		old_mnth = mnth;
-		mnth = 03;
+		mnth = 09;
 
 		if(old_mnth > mnth){
 			mnth = old_mnth;
@@ -192,7 +192,7 @@ function showCalendar(singleDate)
 -->
 </script>
 <script language="javascript" src="js/calendar.js"></script>
-</head><body><iframe id="calendar" style="DISPLAY: block; Z-INDEX: 100; LEFT: 64px; VISIBILITY: hidden; WIDTH: 299px; POSITION: absolute; TOP: 311px; HEIGHT: 217px" name="calendar" src="js/calendar_builder2.html" frameborder="0" scrolling="no"></iframe>
+</head><body><iframe id="calendar" style="DISPLAY: none; Z-INDEX: 1000000; LEFT: 64px; VISIBILITY: hidden; WIDTH: 299px; POSITION: absolute; TOP: 311px; HEIGHT: 217px" name="calendar" src="js/calendar_builder2.html" frameborder="0" scrolling="no"></iframe>
 
 
 		<!--<script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>-->
@@ -234,7 +234,7 @@ function toggle(id) {
 				
 			//newdiv.innerHTML = '<br><div id='+divIdName+' class="hotel_wid_txt">TO: <input type="text" name="departure_city[]" id="departure_city_'+num+'" size="10" onKeyUp="countme(this.value,\'departure_city_'+num+'\');" autocomplete="off" />FROM: <input type="text" name="arrival_city[]" id="arrival_city_'+num+'" size="10" value="" onKeyUp="countme(this.value,\'arrival_city_'+num+'\');" autocomplete="off" /> DEPART DATE: <input type="text" name="fdt[]" id="fdt_'+num+'" size="10"  onclick="dispCalendar(\'fdt_'+num+'\',\'fdt_'+num+'\',\'fdt_'+num+'\',\'\',false)" autocomplete="off" readonly="readonly"/>RETURN DATE <input type="text" name="tdt[]" id="tdt_'+num+'"  size="10" onclick="dispCalendar(\'tdt_'+num+'\',\'fdt_'+num+'\',\'fdt_'+num+'\',\'M\',true)"  autocomplete="off" readonly="readonly"/>TRIP TYPE: <select name="fltype[]" id="fltype_'+num+'"><option value="R">Round Trip</option><option value="O">One Way</option></select><a href="javascript:;" style="text-decoration:none;font-weight:bold" onclick=removePopupSignupElement("'+divIdName+'") >[Remove]</a></div>';
 			
-			newdiv.innerHTML = '<div id='+divIdName+' class="hotel_wid_txt"><div class="add_pan left_pad_0"><div class="add_input_label">TO:</div><div class="add_input_bg"><input name="departure_city[]" id="departure_city_'+num+'" onKeyUp="countme(this.value,\'departure_city_'+num+'\');" onblur="checairportcode_fatealert(departure_city_'+num+');" autocomplete="off"/></div></div><div class="add_pan"><div class="add_input_label">FROM:</div><div class="add_input_bg"><input type="text" name="arrival_city[]" id="arrival_city_'+num+'" size="10" value="" onKeyUp="countme(this.value,\'arrival_city_'+num+'\');" onblur="checairportcode_fatealert(arrival_city_'+num+');"  autocomplete="off" /></div></div><div class="add_pan"><div class="add_input_label">DEPART DATE:</div><div class="add_input_bg"><input type="text" name="fdt[]" id="fdt_'+num+'" onclick="dispCalendar(\'fdt_'+num+'\',\'fdt_'+num+'\',\'fdt_'+num+'\',\'\',false)" autocomplete="off" readonly="readonly"/></div></div><div class="add_pan"><div class="add_input_label">RETURN DATE:</div><div class="add_input_bg"><input type="text" name="tdt[]" id="tdt_'+num+'"  size="10" onclick="dispCalendar(\'tdt_'+num+'\',\'fdt_'+num+'\',\'fdt_'+num+'\',\'M\',true)"  autocomplete="off" readonly="readonly"/></div></div><div class="add_pan"><div class="add_input_label">TRIP TYPE:</div><div class="add_input_bg"><select name="fltype[]" id="fltype_'+num+'"><option value="R">Round Trip</option><option value="O">One Way</option></select></div></div><div class="add_pan"><div class="add_input_label">Passengers:</div><div class="add_input_bg"><input type="text" name="passengers[]" id="passengers_'+num+'"  size="10" /></div></div><div class="add_pan"><div class="add_input_label" style="width:180px">Infants (Under 2 Years Old):</div><div class="add_input_bg"><input type="text" name="infants[]" value="0" id="infants_'+num+'"  size="10" /></div></div><br /><div class="remove_profile" style="width:130px;"><a href="javascript:;" style="text-decoration:none;font-weight:bold" onclick=removePopupSignupElement("'+divIdName+'")>[Remove]</a></div></div>';
+			newdiv.innerHTML = '<div id='+divIdName+' class="hotel_wid_txt"><div class="add_pan left_pad_0"><div class="add_input_label">FROM:</div><div class="add_input_bg"><input name="departure_city[]" id="departure_city_'+num+'" onKeyUp="countme(this.value,\'departure_city_'+num+'\');" onblur="checairportcode_fatealert(departure_city_'+num+');" autocomplete="off"/></div></div><div class="add_pan"><div class="add_input_label">TO:</div><div class="add_input_bg"><input type="text" name="arrival_city[]" id="arrival_city_'+num+'" size="10" value="" onKeyUp="countme(this.value,\'arrival_city_'+num+'\');" onblur="checairportcode_fatealert(arrival_city_'+num+');"  autocomplete="off" /></div></div><div class="add_pan"><div class="add_input_label">DEPART DATE:</div><div class="add_input_bg"><input type="text" name="fdt[]" id="fdt_'+num+'" onclick="dispCalendar(\'fdt_'+num+'\',\'fdt_'+num+'\',\'fdt_'+num+'\',\'\',false)" autocomplete="off" readonly="readonly"/></div></div><div class="add_pan"><div class="add_input_label">RETURN DATE:</div><div class="add_input_bg"><input type="text" name="tdt[]" id="tdt_'+num+'"  size="10" onclick="dispCalendar(\'tdt_'+num+'\',\'fdt_'+num+'\',\'fdt_'+num+'\',\'M\',true)"  autocomplete="off" readonly="readonly"/></div></div><div class="add_pan"><div class="add_input_label">TRIP TYPE:</div><div class="add_input_bg"><select name="fltype[]" id="fltype_'+num+'"><option value="R">Round Trip</option><option value="O">One Way</option></select></div></div><div class="add_pan"><div class="add_input_label">Passengers:</div><div class="add_input_bg"><input type="text" name="passengers[]" id="passengers_'+num+'"  size="10" /></div></div><div class="add_pan"><div class="add_input_label" style="width:180px">Infants (Under 2 Years Old):</div><div class="add_input_bg"><input type="text" name="infants[]" value="0" id="infants_'+num+'"  size="10" /></div></div><br /><div class="remove_profile" style="width:130px;"><a href="javascript:;" style="text-decoration:none;font-weight:bold" onclick=removePopupSignupElement("'+divIdName+'")>[Remove]</a></div></div>';
 		
 			ni.appendChild(newdiv);
 			
@@ -252,13 +252,49 @@ function toggle(id) {
 
 
 
-<!--[if IE]><!--><style type="text/css">
+<!--<style type="text/css">
 .menutxt{
 float:left;
-padding-left:17px ;
+/*padding-left:17px ;*/
+padding-left:11px ;
 padding-right:17px ;
 }
-</style><!--<![endif]-->
+</style>-->
+
+
+<!--[if gte IE 9]>        
+<style>
+.menutxt {
+    padding-left: 13px ;
+    padding-right: 13px;
+    padding-top: 13px;
+}
+
+div#header li#selected{
+ height:25px;
+}
+
+</style>
+<![endif]-->
+
+<style>
+@media screen and (-webkit-min-device-pixel-ratio:0)
+and (min-resolution:.001dpcm),
+screen and(-webkit-min-device-pixel-ratio:0)
+{
+    .menutxt 
+	{
+    	padding-top: 13px;
+	}
+
+	div#header li#selected
+	{
+	 	height:25px;
+	}
+}
+
+
+</style>
 
 
 
@@ -277,7 +313,9 @@ padding-right:17px ;
                 <a class="addthis_counter addthis_pill_style"></a>
             </div>
             <script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
-            <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=twister787"></script>
+                        <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=twister787"></script>
+            
+            
             <!-- AddThis Button END -->
         </div>
         <div style="float:right; width:auto"><g:plusone></g:plusone></div>
@@ -354,11 +392,11 @@ function loadpopunder(){
 
 <!--
 <div class="toplinks" style="margin-top:17px;" >
-<a href="http://www.whatscheaper.com/aboutus.php?uid=5337929f1c20e">About Us</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="http://www.whatscheaper.com/help.php?uid=5337929f1c20e">Help</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="http://www.whatscheaper.com/sitemap.php?uid=5337929f1c20e">Sitemap</a>	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="http://www.whatscheaper.com/privacypolicy.php?uid=5337929f1c20e">Privacy Policy</a>	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="http://www.whatscheaper.com/contactus.php?uid=5337929f1c20e">Contact us</a>
+<a href="http://www.whatscheaper.com/aboutus.php?uid=56083a763e913">About Us</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://www.whatscheaper.com/help.php?uid=56083a763e913">Help</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://www.whatscheaper.com/sitemap.php?uid=56083a763e913">Sitemap</a>	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://www.whatscheaper.com/privacypolicy.php?uid=56083a763e913">Privacy Policy</a>	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://www.whatscheaper.com/contactus.php?uid=56083a763e913">Contact us</a>
 </div>
 -->
     <div style="width:100%; font-family:Tahoma,Geneva,sans-serif; font-size:11px; float:left; text-align:right; font-weight:bold; color:#006699">
@@ -383,10 +421,11 @@ function loadpopunder(){
 <div id="header"> 
 <ul>
 	<li id="" class="menulft"></li>
-	<li id="" class="menutxt" style="margin-left:-1px;"><a href="http://www.whatscheaper.com/index.php?uid=5337929f1c20e">Home</a></li>
-	<li id="" class="menutxt"><a href="http://www.whatscheaper.com/flight.php?uid=5337929f1c20e">Flights</a></li>
-	<li id="" class="menutxt"><a href="http://www.whatscheaper.com/hotel.php?uid=5337929f1c20e">Hotels</a></li>
-	<li id="" class="menutxt"><a href="http://www.whatscheaper.com/vacationpackage.php?ctype=QUg=&amp;uid=5337929f1c20e">Vacation packages</a></li>
+	<li id="" class="menutxt" style="margin-left:-1px;"><a href="http://www.whatscheaper.com/index.php?uid=56083a763e913">Home</a></li>
+	<li id="" class="menutxt"><a href="http://www.whatscheaper.com/flight.php?uid=56083a763e913">Flights</a></li>
+	<li id="" class="menutxt"><a href="http://www.whatscheaper.com/hotel.php?uid=56083a763e913">Hotels</a></li>
+	<li id="" class="menutxt"><a href="http://www.whatscheaper.com/car.php?uid=56083a763e913">Cars</a></li>    
+	<li id="" class="menutxt"><a href="http://www.whatscheaper.com/vacationpackage.php?ctype=QUg=&amp;uid=56083a763e913">Vacation packages</a></li>
 
 	<li id="" class="menutxt">
 	<a href="http://tripreservations.neatgroup.com/tripreservations/CPMerchandisingPage?DD=TRIPRESERVATIONS&amp;referrerId=None&amp;referrerId2=None&amp;referrerId3=None&amp;headTemplate=TripreservationsHead&amp;bodyTemplate=TripreservationsBody&amp;isShowFramework=true&amp;wt.mc_id=Tripreservations_PL_FN_Deals_txt_021610">Todays Hot Deals</a></li>
@@ -490,28 +529,48 @@ We reserve the right to change or update this Privacy Policy, or any of other po
 			<div id="pop_txt" style="display:none;"></div>
 <div class="footlft"><!--Recent Searches<br />-> BOS - DEN    (2/14/2009)--></div>
 <div class="footmid">5348 Vegas Dr #767, Las Vegas NV 89108 / Ph: 1-888-474-1232<br><br><br>
-<a href="http://www.whatscheaper.com/aboutus.php?uid=5337929f1c20e">About Us</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="http://www.whatscheaper.com/help.php?uid=5337929f1c20e">Help</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="http://www.whatscheaper.com/sitemap.php?uid=5337929f1c20e">Sitemap</a>	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="http://www.whatscheaper.com/privacypolicy.php?uid=5337929f1c20e">Privacy Policy</a>	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="http://www.whatscheaper.com/contactus.php?uid=5337929f1c20e">Contact us</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="http://www.whatscheaper.com/?mobile=enable">Mobile Site</a><br><br><br>
+
+
+
+
+<a href="http://www.whatscheaper.com/aboutus.php?uid=56083a763e913">About Us</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://www.whatscheaper.com/help.php?uid=56083a763e913">Help</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://www.whatscheaper.com/sitemap.php?uid=56083a763e913">Sitemap</a>	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://www.whatscheaper.com/privacypolicy.php?uid=56083a763e913">Privacy Policy</a>	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://www.whatscheaper.com/contactus.php?uid=56083a763e913">Contact us</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<br><br><br>
 <font color="#A9A9A9">
-Copyright © 2009-2014 Whatscheaper.com. All rights reserved.<br>
+Copyright © 2009-2015 Whatscheaper.com. All rights reserved.<br>
 Trip Reservations Online, D/B/A Whatscheaper.com - CST 1001990-10<br>
 </font>
 </div>
 <!--<div class="footrgt">Ph: 1-888-474-1232<br>2</div> -->
+
+
+
+
+
+
+
+
 <script type="text/javascript">
+
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-12303802-1']);
   _gaq.push(['_trackPageview']);
+
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-</script>		</div>
+
+</script>
+
+
+
+		</div>
 	</div>
 </div>
 
