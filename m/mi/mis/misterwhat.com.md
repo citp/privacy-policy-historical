@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the misterwhat.com privacy policy that was archived on 2015-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150402050000id_/http%3A//www.misterwhat.com/content/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the misterwhat.com privacy policy that was archived on 2015-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150928085522id_/http%3A//www.misterwhat.com/content/terms) for the most accurate reproduction.*
 
 # Terms of use | MisterWhat
 
@@ -6,7 +6,7 @@ Terms and Conditions of Use for the website www.misterwhat.com , administered by
 
 ### 1\. Domain of application of Terms and Conditions
 
-1.1 Unless explicitely stated otherwise, these Terms and Conditions (hereinafter collectively referred to as "Terms") of www.misterwhat.com (hereinafter "MISTERWHAT") apply to all services provided in the online business directory www.misterwhat.com, in relation to the navigation on the Portal, the use of its Services and to all relationships and interactions between MISTERWHAT and the Users/Clients, unless special circumstances apply for a certain service. 
+1.1 Unless explicitly stated otherwise, these Terms and Conditions (hereinafter collectively referred to as "Terms") of www.misterwhat.com (hereinafter "MISTERWHAT") apply to all services provided in the online business directory www.misterwhat.com, in relation to the navigation on the Portal, the use of its Services and to all relationships and interactions between MISTERWHAT and the Users/Clients, unless special circumstances apply for a certain service. 
 
 1.2 (Definitions) 
 
