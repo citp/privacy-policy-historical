@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myproperty.ph privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529001344id_/http%3A//www.myproperty.ph/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myproperty.ph privacy policy that was archived on 2015-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150928045519id_/http%3A//www.myproperty.ph/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MyProperty.ph
 
@@ -89,9 +89,9 @@ MyProperty.ph has Facebook Integration, as a third party social network service,
 
 MyProperty.ph also uses iContact, a third-party e-mail newsletter service. It is used to design and release e-newsletters, and does not have access to the personal information of our users. 
 
-MyProperty.ph also uses Google AdWords and Google Display Network together to serve ads to you on other websites after you've visited our website. This practice is known as remarketing and is a tool that Google offers to businesses. If you would like to know more about the program, **you can do so here**. But here are the basics: we, along with third-party vendors, Google and DoubleClick, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on your past visits to our website. 
+MyProperty.ph also uses Google AdWords and Google Display Network together to serve ads to you on other websites after you've visited our website. This practice is known as remarketing and is a tool that Google offers to businesses. If you would like to know more about the program, [**you can do so here**](https://support.google.com/adwords#topic=3119071). But here are the basics: we, along with third-party vendors, Google and DoubleClick, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on your past visits to our website. 
 
-If you would like to opt-out of receiving advertising like this from Google, you can manage these settings by visiting the **Google Ads Preferences Manager**. Also, Google recommends installing the **Google Analytics Opt-out Browser Add-on**.
+If you would like to opt-out of receiving advertising like this from Google, you can manage these settings by visiting the [**Google Ads Preferences Manager**](https://www.google.com/settings/u/0/ads/authenticated?hl=en). Also, Google recommends installing the [**Google Analytics Opt-out Browser Add-on**](https://tools.google.com/dlpage/gaoptout).
 
 ## I. Changes Applied to the Privacy Policy
 
@@ -103,4 +103,4 @@ Telephone no.: **+63 (2) 505-1833.**
 
 E-mail: **info@myproperty.ph**
 
-This Privacy Statement is in effect until March 4, 2013, or until otherwise superseded with an update.
+This Privacy Statement is in effect starting April 27, 2015, or until otherwise superseded with an update.
