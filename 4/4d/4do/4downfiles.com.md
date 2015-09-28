@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4downfiles.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618001242id_/http%3A//4downfiles.net/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4downfiles.com privacy policy that was archived on 2015-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150928123049id_/http%3A//4downfiles.net/pp.html) for the most accurate reproduction.*
 
 # 4 Down Files
 
