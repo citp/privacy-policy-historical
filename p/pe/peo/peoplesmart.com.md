@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peoplesmart.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323023449id_/https%3A//www.peoplesmart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peoplesmart.com privacy policy that was archived on 2015-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150928070304id_/https%3A//www.peoplesmart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PeopleSmart
 
@@ -10,11 +10,11 @@ If you have an unresolved privacy or data use concern that we have not addressed
 
 [ ](https://privacy.truste.com/privacy-seal/Inflection-LLC/validation?rid=cc333f0f-7850-4e67-ab0f-cb9534729965 "TRUSTe online privacy certification")
 
-##  What does this privacy policy cover? 
+##  What does this Privacy Policy cover? 
 
-This policy covers how treats personal information that we collect and receive from you, including information related to your use of our website, products, and services. This policy does not apply to the practices of companies that we do not own or control, or to people that we do not employ or manage. Unless noted otherwise, this privacy policy does not apply to any information in our people search databases, which is covered separately under our [Opt-Out Policy](https://www.peoplesmart.com/optout-policy). 
+This policy covers how PeopleSmart.com treats personal information that we collect and receive from you, including information related to your use of our website, products, and services. This policy does not apply to the practices of companies that we do not own or control, or to people that we do not employ or manage. Unless noted otherwise, this Privacy Policy does not apply to any information in our people search databases, which is covered separately under our [Opt-Out Policy](https://www.peoplesmart.com/optout-policy). 
 
-Our website also includes links to other websites whose privacy practices may differ from those of Inflection.com, Inc. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any website you visit. 
+Our website also includes links to other websites whose privacy practices may differ from those of Inflection.com, Inc. If you submit personal information to any of those sites, your information is governed by their Privacy Policies. We encourage you to carefully read the Privacy Policy of any website you visit. 
 
 ##  What information do we collect? 
 
@@ -22,7 +22,7 @@ We collect some information that is personal (i.e. information that identifies y
 
 ###  Registration Information 
 
-When you register for an account to use , we may collect the following information: 
+When you register for an account to use PeopleSmart.com, we may collect the following information: 
 
   * Your name, email address, mailing address, phone number, and password 
   * Your birthdate 
@@ -65,7 +65,7 @@ When you give us authorization to access an account you have on a third-party se
 
 ###  Social Media Widgets 
 
-Our website includes social media features, such as the Facebook Like button and Widgets, such as the Share This button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
+Our website includes social media features, such as the Facebook Like button and Widgets, such as the Share This button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the Privacy Policy of the company providing it. 
 
 ###  Cookies and Other Tracking Technologies 
 
@@ -74,7 +74,7 @@ We use several methods to collect technical and analytics data, including the fo
   * Technologies such as: cookies, beacons, tags and scripts are used by Inflection.com, Inc. and our affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
   * We use cookies for our shopping cart, to remember users’ settings (e.g. language preference), for authentication, and for analyzing site usage. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
   * As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality.
-  * We partner with a third party to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here. Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+  * We partner with a third party to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
   * Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 and Flash to collect and store information.
   * To manage Flash LSOs please [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
 
@@ -115,7 +115,7 @@ For processing payments, we use systems that are compliant with the Payment Card
 
 When you enter sensitive information such as a credit card number on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). 
 
-We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our website, you can contact us at [privacy@](mailto:privacy@). 
+We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our website, you can contact us at [privacy@peoplesmart.com](mailto:privacy@peoplesmart.com). 
 
 ##  When do we share your information? 
 
@@ -139,7 +139,7 @@ We may share or disclose information that is non-private, anonymously aggregated
 
 ###  Testimonials 
 
-We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [privacy@](mailto:privacy@). 
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [privacy@peoplesmart.com](mailto:privacy@peoplesmart.com). 
 
 ###  Business Transfers 
 
@@ -170,7 +170,7 @@ If you are a law enforcement officer seeking information from Inflection about o
 
 ###  Access and Choice 
 
-You may use your account to access, correct, or change any personal information you have provided to us or that is associated with your account. You may also email our Privacy Team at [privacy@](mailto:privacy@). We will respond to your request within 30 days. 
+You may use your account to access, correct, or change any personal information you have provided to us or that is associated with your account. You may also email our Privacy Team at [privacy@peoplesmart.com](mailto:privacy@peoplesmart.com). We will respond to your request within 30 days. 
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
@@ -178,7 +178,7 @@ We will retain your information for as long as your account is active or as need
 
 We may send you information about our products, notify you of any changes to your account, or send confirmations, technical notices, updates, security alerts, support and administrative messages, and marketing emails. 
 
-If you would like to stop receiving newsletters and marketing emails from please provide us with the email address you would like to unsubscribe by emailing [privacy@](mailto:privacy@) or calling 1-888-813-0008. Please note that you may still receive account and billing notices from us, if applicable. 
+If you would like to stop receiving newsletters and marketing emails from PeopleSmart please provide us with the email address you would like to unsubscribe by emailing [privacy@peoplesmart.com](mailto:privacy@peoplesmart.com) or calling 1-888-813-0008. Please note that you may still receive account and billing notices from us, if applicable. 
 
 ##  Compliance Notices 
 
@@ -194,17 +194,17 @@ We do not share your personal information with third parties for their own use w
 
 ###  Children’s Online Privacy Protection Act 
 
-complies with the Children’s Online Privacy Protection Act (COPPA) where it applies to our information collection practices. This website is not directed to individuals under the age of 18. We do not actively or knowingly collect personal information from children under the age of 13. If we discover that we have collected personal information on a child under the age of 13 without proper consent, we will promptly remove that information from our systems. 
+PeopleSmart complies with the Children’s Online Privacy Protection Act (COPPA) where it applies to our information collection practices. This website is not directed to individuals under the age of 18. We do not actively or knowingly collect personal information from children under the age of 13. If we discover that we have collected personal information on a child under the age of 13 without proper consent, we will promptly remove that information from our systems. 
 
 ##  Changes to this Privacy Policy 
 
-We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the email address specified in your account) or by means of a notice posted to this website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
+We may update this Privacy Policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the email address specified in your account) or by means of a notice posted to this website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
 
 ##  Contact Information 
 
-If you have questions or concerns regarding this policy, you can contact us by emailing [privacy@](mailto:privacy@), calling 1-888-813-0008, or writing to us at: 
+If you have questions or concerns regarding this policy, you can contact us by emailing [privacy@peoplesmart.com](mailto:privacy@peoplesmart.com), calling 1-888-813-0008, or writing to us at: 
 
-  
+PeopleSmart.com   
 ATTN: Privacy Department   
 P.O. Box 391146   
 Omaha, NE 68139 
