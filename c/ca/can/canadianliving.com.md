@@ -1,126 +1,95 @@
-> *The following text is extracted and transformed from the canadianliving.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607175651id_/http%3A//tctranscontinental.com/en/privacy-policy%3Futm_source%3Dsite%26utm_medium%3Dtcl-footer%26utm_term%3Dsubscription%26utm_content%3Dros-cl%26utm_campaign%3DINT-EN-footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadianliving.com privacy policy that was archived on 2015-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150928073002id_/http%3A//groupetva.ca/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - TC Transcontinental
+# Privacy policy | Groupe TVA
 
-**GENERAL**
+TVA Group Inc. (hereinafter “TVA”, “we”, “us” and “our”) wishes to inform you of the privacy practices and policies implemented on the [www.groupetva.ca](http://www.groupetva.ca/) site and the sites of TVA’s authorized affiliates (hereinafter the “Site”). More specifically, this privacy policy (hereinafter the “Policy”) describes the way we in which we collect, use, disclose and process information concerning you.
 
-Transcontinental Inc. and its [affiliated entities](http://tctranscontinental.com/affiliated-companies) (collectively, "TC Transcontinental", "we" or "us") are committed to maintaining the privacy, security and accuracy of the Personal Information (as such term is defined below) under our care and control. This Privacy Policy informs you of our privacy practices with respect to our collection, use and disclosure of Personal Information.
+TVA is aware of concerns regarding the circulation of personal information and navigational data on the internet and aims to cooperate with you to ensure that your privacy is respected and protected. For this reason, we wish to inform you of the type of information we collect when you visit our Site and when, how and why we collect this information. We wish to specify that TVA restricts both the quantity and nature of the information collected. We therefore ask you to read the following Policy closely and to come back periodically to learn of any changes we may have made. 
 
-This Privacy Policy does not apply to the Personal Information of our temporary or permanent employees and other staff members, our consultants or other individuals assigned to TC Transcontinental, or to any information that is not Personal Information.
+**PERSONAL INFORMATION:**
 
-  
-**ACCOUNTABILITY**
+**1.  What is « Personal Information » and how is it collected? **
 
-TC Transcontinental is responsible for Personal Information under its care and control and has designated a Chief Privacy Officer who is accountable for our compliance with this Privacy Policy and applicable privacy laws. If you have any concerns, questions, requests or complaints about this Privacy Policy or the processing of your Personal Information, please contact our Chief Privacy Officer by email at [chiefprivacyofficer@tc.tc](mailto:chiefprivacyofficer@tc.tc) or by fax at  
-(514) 954-2802. Alternatively, you can contact our Chief Privacy Officer by mail at:
+Personal Information refers to information about an identifiable individual.  That is, information that could be used to specifically identify you as the user, such as your first or last name, your physical or email address and your telephone number. 
 
-Chief Privacy Officer  
-Transcontinental Inc.  
-1 Place Ville Marie, Suite 3315  
-Montréal, Québec H3B 3N2  
-Canada
+No Personal Information will be collected on the Site without your consent. Under special circumstances, and always honestly and lawfully, TVA will prompt you to enter Personal Information.  For example, we might collect this information during your registration for one of our personalized services, emails and online contests, or when you indicate you are interested in receiving information about other services, contests or news regarding TVA or its partners. When TVA requests such information, you will be expressly notified in advance that you are providing Personal Information that will be subject to our practices regarding the collection, recording, development, modification, retention and destruction of such Personal Information. You will always have the option to decline our request for Personal Information or terminate a subscription to a personalized service you have previously accepted. 
 
-  
-**COLLECTION, USE AND DISCLOSURE OF PERSONAL INFORMATION**
+We might also automatically collect general anonymous information regarding your use of the Site, such as the date and time of your visit, the particular pages of the Site you visited, the type of browser you used, the IP address of your device, and the name of your internet service provider. Please see our Navigational Data policy below to learn more about such information. 
 
-**Personal Information**
+**2.  Why do we collect Personal Information? **
 
-The types of Personal Information that we may collect from time to time may include your name, address, telephone number, e-mail address, contact details, financial, credit and billing information and other personally identifiable information ("Personal Information"). 
+The collection of this information allows TVA to provide an experience that is more relevant to your needs, to improve the Site’s content and interface, to reach you in the event you win a prize, to ensure that we are complying with our own Site rules for control purposes, and, only if you have so indicated, to communicate with you from time to time. 
 
-**Collection, Use and Disclosure**
+**3.  Who may access the Personal Information?**
 
-Personal Information is collected namely through your voluntary disclosure, your use of our services or websites, your purchase of our products, your subscription to our publications, through our registration or subscription forms, by means of surveys, as part of any entry to a contest or other promotion, through third party agents, contractors, vendors or suppliers who provide products and services to us ("Service Providers"), as well as through our third party business partners to whom we provide our products and services.
+ It is important to specify that TVA’s advertisers, customers or partners do not have access to your Personal Information at any time.  Only TVA has access to Personal Information submitted by you. If you are prompted to provide Personal Information for any other purpose, you will be automatically and expressly notified when this information is requested from you. No Personal Information will be made available to persons outside TVA without your prior written authorization. Therefore, we will not transfer, sell or disclose your Personal Information to any third party without your prior written consent.
 
-We may collect, use and/or disclose your Personal Information for the following purposes:
+**4.  Where and how long do we store Personal Information?**
 
-  * to create and maintain client accounts;
-  * to provide the product, service or information you requested;
-  * to communicate with you regarding the products and services you order and to respond to your requests and inquiries;
-  * to process payments and collect unpaid accounts;
-  * to detect and protect against error, fraud, theft and other illegal activity;
-  * to better understand your needs and preferences;
-  * to engage in business transactions;
-  * to provide customer service;
-  * to organize and administer contests and/or surveys;
-  * to inform you of special offers and promotions;
-  * to meet legal requirements; and/or
-  * for any other purpose for which you otherwise provide your consent.
+The Personal Information collected by TVA is stored in areas inaccessible to the public and protected by security measures appropriate for the information’s level of sensitivity. In order to protect the confidentiality of your Personal Information, TVA implements administrative, technical and physical protective measures for all the Personal Information under our custody and control. Our security measures aim to protect your Personal Information against loss, theft and unauthorized access, copy, use or modification. 
 
+We retain Personal Information only as long as necessary or relevant for the purposes mentioned in the Policy, and always in accordance with the law.
 
+**5.  Are there limits to TVA’s protection of Personal Information?**
 
-**Disclosure to TC Transcontinental**
+ Despite our good faith protection measures mentioned above, no one can perfectly secure or guarantee the safe transmission of data on this Site, or on the internet in general. Therefore, we cannot guarantee that your Personal Information will be perfectly secure from all loss, misuse or modification during its transmission. We must therefore deny liability for any use or misuse of your Personal Information by a third party, for example, if such Personal Information is intercepted during its online transmission or if we are hacked.
 
-We may disclose your Personal Information within our organization in order to better serve you and to provide you with information about TC Transcontinental's products and services.
+The only circumstances under which TVA might voluntarily disclose Personal Information apart from those expressly provided by law are the following: (a) at the request of a legal authority or in good faith if such action is reasonably required to comply with any law or regulation in effect; (b) to intervene in a trial, prevent fraud or protect or defend TVA’s rights, property or users; or (c) in extreme circumstances, to protect the personal safety of TVA users or the public.
 
-When you provide Personal Information to us with respect to employment opportunities including, but not limited to, your resume, we will treat such Personal Information on a confidential basis and use it only (i) to consider you for current or future employment opportunities within TC Transcontinental and (ii) to contact you with respect to such employment opportunities. We will retain your Personal Information for further employment opportunities that may arise within TC Transcontinental, unless you inform us that you no longer wish us to retain your information.  
+**6.  Can you access or ask us to rectify your Personal Information?**
 
-**Disclosure to Service Providers**
+Yes, you can access or ask us to rectify your Personal Information by submitting a detailed request to: [infoprivee@quebecor.com](mailto:infoprivee@quebecor.com).  However, we can only satisfy your request if we already have a personal folder in your name in our files (for example, if you already communicated Personal Information to us when creating an account).
 
-TC Transcontinental has operations in both Canada and the United States. We may transfer your Personal Information to Service Providers acting on our behalf for purposes mentioned in this Privacy Policy. Note that some of our Service Providers who process or handle Personal Information on our behalf may be located in a foreign jurisdiction.
+Be vigilant! Our Site may contain links to websites managed by third parties. These links are offered to you only for your convenience. Clicking on these links leads you to another website. Be informed that TVA exercises no control over third-party websites and the fact that these sites are available on the Site in no way generates liability on TVA’s behalf. Thus, any Personal Information you provide to websites other than this Site are necessarily subject to the Personal Information policies of these other websites. In no event may TVA be held liable for abuses that could result therefrom or from the manner in which organizations administering these third party websites collect, use, disclose or process your Personal Information. We highly recommend that you read the Personal Information protection policies of these other websites carefully. 
 
-We take reasonably necessary steps to ensure that your data is treated in an appropriate and secure manner and in accordance with this Privacy Policy, subject however to the legal requirements of the relevant foreign jurisdiction.
+We also wish to draw your attention to the fact that voluntarily uploading and publicly disseminating Personal Information during chat sessions, by email, electronic bulletin board, blog, or any other interactive page of the Site is not covered by this Policy. Vigilance is of the essence when you communicate your Personal Information by these means and we request that you review our Terms of Use on this subject. In these cases, be informed that you would be transmitting your Personal Information at your own risk and that this Personal Information might be collected and used by third parties without your prior consent. For example, if you enter Personal Information online and this Personal Information is accessible to the public, you might receive unsolicited messages from third parties. TVA denies all liability in this regard. We therefore advise you to remain prudent and attentive at all times when you are surfing the internet or creating content on the internet, particularly when making online comments.
 
-**Disclosure in Business Transactions**
+**NAVIGATIONAL DATA**
 
-TC Transcontinental may be involved in the sale, merger or restructuring of some or all of our business or assets. In the course of such transaction, TC Transcontinental may disclose your Personal Information to the purchaser or new corporate entity. In such case, TC Transcontinental will require such third parties to agree to protect the privacy of your Personal Information in a manner that is consistent with this Privacy Policy and in accordance with applicable privacy laws.
+**1.  What does «Navigational Data» mean, and how is it collected?**
 
-We make reasonable efforts to ensure that your Personal Information is used and disclosed as provided for in this Privacy Policy, unless we have obtained your consent for any other purposes, or as otherwise required or permitted by applicable laws.
+Navigational Data is general information about your electronic device or your navigational activity. It may include information about your IP address, your browsing history (such as the time and date you visited this site), the content of the different pages of this site you visited, the number of clicks during your visit, the type of device you used, your general geographic location (province or country), the advertisements or videos that you watched during your visit, and the address of the site you visited immediately before this site or that you visit immediately after this site.
 
-  
-**CONSENT**
+Navigational Data is not Personal Information in that we do not use it, either alone or coupled with other information, with the intent of revealing your identity. The Navigational Data is used solely for the purposes expressed in this Policy.
 
-We collect, use and disclose your Personal Information with your consent or as permitted or required by applicable law. Your consent may be express or implied, depending on the circumstances and applicable laws. If you provide Personal Information about another person to us, we assume you have the valid consent of that individual to enable us to collect, use or disclose such information in accordance with this Privacy Policy. Any electronic communication that we may send to you, whether on our behalf or on behalf of our third party business partners, will include instructions on how to unsubscribe from any such future communications. If you do not consent, please do not provide your Personal Information or, where applicable, exercise opt-out options offered, or send an e-mail to [unsubscribe@tc.tc](mailto:unsubscribe@tc.tc) .
+Navigational Data is collected by means of so-called «cookies», which are small data files uploaded onto your electronic device (such as your computer, tablet or mobile) once you visit this site. The cookies are automatically sent by the server of this site onto the browser of your device (Internet Explorer, Safari, Mozilla, etc.) and are archived, by default, onto your device’s hard drive.  
 
-Note that if you withdraw your consent to certain uses of your Personal Information, we may no longer be able to provide you with certain of our services.
+**2.  Who collects Navigational Data?**
 
-  
-**PRIVACY PROTECTION AND OUR WEBSITES**
+Navigational Data may be collected, in whole or in part, by: (a) us (being TVA), Quebecor Media Inc., its affiliates and/or related companies (collectively, «us»); and (b) certain companies with which we collaborate for commercial or non-commercial purposes (such as our advertising and content partners, our service, solution and technological platform providers, or certain companies who wish to acquire our assets) (collectively, our «Partners»).
 
-TC Transcontinental sometimes collects Personal Information through its various websites. In this section, we provide you with additional information regarding such collection.
+When the Navigational Data is collected directly by a Partner, we will first enter into an agreement with that Partner to ensure that the Navigational Data is collected, used and stored with caution and only as expressly disclosed in this policy. The Partner must agree to abide by all applicable laws in Quebec and guarantees the safety and confidentiality of any Navigational Data collected. Our Partners are not allowed to collect Personal Information, use spyware to collect data without your knowledge, or use cookies that you cannot disable.   
 
-**Cookies**
+**3.  Is Navigational Data shared with third parties?**
 
-By using a browser feature called a "cookie" and other methods, TC Transcontinental and our third party Service Providers may gather non-personal information when you visit our websites such as data about the frequency of your visits to our websites, the duration of your visits, the number of pages you view and the type of Internet browser and operating system you use. A cookie is a small text file containing a unique identification number that identifies the visitor's browser, but not necessarily the visitor, to our computers each time our websites are visited. Website visitor information is collected on an anonymous basis, which means that no Personal Information is associated with such data, unless a visitor specifically provides us with such information (e.g. by enrolling to our services or by sending us a message from our websites).
+Unless you expressly authorize us to do so, we will not share your Navigational Data with any third parties other than our Partners. Even when we share the Navigational Data with our Partners, they are also bound by the rights, uses and limitations disclosed in this policy. We aim to ensure that the Navigational Data is solely used per our instructions and in accordance with this policy, and all applicable laws, security measures and confidentiality requirements.   
 
-In addition to the identified purposes described in this Privacy Policy, we may use information obtained from our websites and share it with other organizations with whom we have a commercial relationship to measure the use of our websites and to improve the functionality and content of our websites. TC Transcontinental and our third party Service Providers may also use cookies and invisible web beacons to deliver interest-based advertisements that are relevant and targeted to the visitors of our websites.  
+**4.  How do we use Navigational Data?**
 
-You can manage your cookies by installing a third party program or by configuring your web browser. Most web browsers are initially set up to accept cookies; however, you can delete or disable cookies by modifying your settings. If you decide to disable cookies on our websites, you may not be able to take full advantage of all website features once you have done so.
+We use Navigational Data in the following ways:
 
-**Online Communications**
+(a) we generate statistical data about our level of readership, the performance and use of our sites and content, and the type of persons interested in our sites;
 
-If you are known to TC Transcontinental as a registered user of an online service that we offer, we may combine and store information about your use of our websites and the online information that you have provided us with along with other online and offline information we may have collected.
+(b) we improve your browsing experience. For example, the settings of your browser (such as your preferred language, time zone and plug-ins) may be offered to you by default upon your next visit, so that you are not required to enter your settings and preferences upon each visit; and
 
-**Public Forums**
+(c) we provide you with advertisements that are in line with your interests. In other words, advertisements may be tailored to you, given the content of the pages of this site that you have visited.  
 
-Some of TC Transcontinental's websites offer chat rooms and other public forums. Your voluntary disclosure of Personal Information on such forums is not governed by this Privacy Policy. TC Transcontinental is not responsible for any information disclosed in our chat rooms and other public forums. Any such voluntary disclosures become public and are made at your own risk. Although it is prohibited to use our forums as a source for collecting e‑mail addresses for sending unfounded or unsolicited messages or spamming, others may still capture your e‑mail address and send you messages if you provide your e-mail address; we cannot control such actions by others. We advise you to remain prudent and attentive at all times when using the Internet. 
+**5.  Where and for how long do we store Navigational Data?**
 
-**Searches**
+The Navigational Data may be stored on our servers, our providers’ servers, or our Partners’ servers, as applicable. The Navigational Data is only stored for as the long as necessary to fulfill the purposes described above, after which time it will be permanently deleted. 
 
-For your convenience, search functions are sometimes provided on our websites. We keep records of the words searched to learn more about what kind of information our visitors are seeking, and thus improve our products and services.
+**6.  How can you avoid having your Navigational Data collected?**
 
-**Hyperlinks**
+By browsing this site, you consent to having your Navigational Data collected in the manner and for the purposes detailed above. Nevertheless, you may at any time erase the cookies already on your browser or disable new cookies. Certain browsers allow you to pick and choose which cookies you allow on your browser and which cookies you disable. For more information on this subject, please turn to your browsing parameters.
 
-For your convenience, TC Transcontinental's websites may contain hyperlinks to websites operated by third parties. When you click on one of these hyperlinks, you will be transferred from TC Transcontinental's websites and be connected to a third party site, which may have different privacy policies and practices in place. This Privacy Policy is no longer applicable when you leave our websites. You should consult the privacy policies of these other entities before providing any Personal Information on their websites. TC Transcontinental is not responsible, nor do we accept any liability, for the Personal Information collection, use and disclosure practices of other entities to which our websites may link.
+Disabling the cookies on this site will not block you access to our page. However, you will be treated as a new user upon each visit and the advertisements you receive will be random and non-personalized.
 
-**Individuals Under 18**
+Certain advanced functionalities of this site may be inadvertently affected by disabling cookies because some cookies enable advanced interaction between different pages of our site. If you are experiencing difficulties as a result of disabling the cookies on our site, we invite you to contact us at any time.  
 
-No Personal Information should be submitted or posted on our websites by individuals under 18 years of age without their parent's or legal guardian's permission. We may request the Personal Information of an individual under 18 years of age for contest administration purposes. In the event we do so, we will request such individual's parent or legal guardian to consent prior to collecting such information.
+**7.  What happens when you click on an advertisement or an external link embedded on our site? **
 
-  
-**SECURITY**
+When you click on an advertisement or an external link embedded on our site, you will be redirected to the site of the advertiser and third party sponsoring the link, respectively. The new site will have its own policy regarding Navigational Data that may differ from ours and the new site will also likely have its own cookies.  The policy of this site will no longer apply and your online activity will be subject to the new site’s policies.
 
-TC Transcontinental has implemented reasonable security measures to safeguard the Personal Information under our care and control. Any Personal Information maintained by TC Transcontinental is archived in a reasonably secured environment based on the nature of the information.  Credit card information is processed using industry-standard encryption technology. TC Transcontinental limits the collection of Personal Information to that which is necessary for the purpose(s) identified by TC Transcontinental unless otherwise required or permitted by law. Any credit card information submitted to TC Transcontinental will be used only to complete the purchase and arrange for shipping (where applicable) and/or for credit verification purposes (where applicable). Our security policies and procedures are periodically reviewed and enhanced as necessary.
+**8.  Can you access or ask us to rectify your Navigational Data?**
 
-Only authorized employees, agents, partners and Service Providers may have access to Personal Information under our care and control. We instruct all of our authorized employees, agents, partners and Service Providers who have access to Personal Information to use appropriate privacy and security precautions when processing such information.
-
-  
-**ACCURACY AND ACCESS**
-
-We use reasonable efforts to ensure that your Personal Information is kept as accurate, complete and up-to-date as possible. We do not routinely update your Personal Information, unless such a process is necessary. In order to help us maintain and ensure that your Personal Information is accurate and up to date, please inform us as soon as possible of any changes to your Personal Information so that we can update our records.
-
-If you wish to request access to, or correction of, your Personal Information that is in our care and control, please make your request in writing to our Chief Privacy Officer at the address or numbers above. All requests to access information or change information will be treated in accordance with applicable law.
-
-  
-**CHANGES TO THIS PRIVACY POLICY**
-
-TC Transcontinental reserves the right to modify this Privacy Policy at any time. All such changes will be posted on TC Transcontinental websites, which will be effective immediately upon posting. We will take reasonable measures to advise affected individuals of any material changes, if necessary. You may contact our Chief Privacy Officer at the address or numbers above to obtain a current copy of this Privacy Policy.
+Yes, you can access or ask us to rectify your Navigational Data by submitting a detailed request to: [infoprivee@quebecor.com](mailto:infoprivee@quebecor.com).  However, we can only satisfy your request if we already have a personal folder in your name in our files (for example, if you already communicated Personal Information to us when creating an account) and if we are further able to confirm that the Navigational Data contained in that personal folder is in fact yours.
