@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the socialtalent.co privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315091343id_/http%3A//www.socialtalent.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialtalent.co privacy policy that was archived on 2015-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150928232202id_/http%3A//www.socialtalent.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Social Talent
-
-## Privacy Policy
 
 This Privacy Policy covers the Company’s treatment of personal information that the Company collects and receives, including information related to your past use of the Company products and services. Personal information includes information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available.
 
@@ -10,7 +8,7 @@ The Privacy Policy also gives information about cookies; the Company’s use of 
 
 This Privacy Policy does not apply to the practices of companies that the Company does not own or control, or to people that the Company does not employ or manage.
 
-“The Company” means Social Talent Ltd.
+The Company means Social Talent Ltd.
 
 **Information Collection And Use**
 
