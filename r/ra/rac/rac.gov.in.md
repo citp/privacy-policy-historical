@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rac.gov.in privacy policy that was archived on 2013-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130412215748id_/http%3A//rac.gov.in/content.php%3Flang%3Den%26id%3D22) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rac.gov.in privacy policy that was archived on 2015-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150928043603id_/http%3A//rac.gov.in/content.php%3Flang%3Den%26id%3D22) for the most accurate reproduction.*
 
-# Recruitment and Assessment Centre
+# Recruitment and Assessment Centre | RAC, DRDO
 
 ## Privacy Policy
 
