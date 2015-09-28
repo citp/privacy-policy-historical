@@ -1,115 +1,154 @@
-> *The following text is extracted and transformed from the virginmobileusa.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127075600id_/http%3A//www.virginmobileusa.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginmobileusa.com privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929000410id_/http%3A//www.virginmobileusa.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Virgin Mobile USA
+# Virgin Mobile USA Privacy Policy
 
-### Privacy Policy
-
-#### Virgin Mobile USA Privacy Policy
-
-At Virgin Mobile USA, L.P. ("Virgin Mobile," or "we," "us," "our") we understand that privacy is important, and we are strongly committed to protecting the privacy of our customers and visitors to our websites at www.virginmobileusa.com, www.virginmobileusarecycle.com, http://studiov.virginmobileusa.com, www.homelessyouthamongus.com, and www.vmcustomerpulse.com (collectively, "our websites"). 
-
-The following information is designed to help you better understand the information we gather from our websites, how we handle the information once we gather it, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct the information we gather on our websites. Please note that this Privacy Policy applies only to our websites and not to other companies' or organizations' services or websites to which we may link, even if they market our products or use the Virgin Mobile name. By visiting our websites or using the services provided there, you accept the practices described in this Privacy Policy. 
-
-NOTE: Some of our websites and services may involve features or practices not common to our other websites or services. You should carefully read this entire policy to understand the provisions applicable to our websites and services you are using. 
-
-#### What Information Do We Collect?
-
-Our primary goal in collecting personal information is to provide you with a smooth, efficient and customized experience. This allows us to provide features that are most likely to meet your needs, and to customize our service to make your experience easier. 
-
-##### Aggregate Data
-
-We gather certain usage information like the number and frequency of visitors to our websites. This information may include which URL you just came from, which URL you next go to, what browser you are using, and your IP address. We use such data only in the aggregate. This collective data help us determine how much our customers use parts of our websites, and do internal research on our customers' demographics, interests, and behavior to better understand and serve you. 
-
-This type of aggregated, non-personally identifiable information may also be collected and/or used by third parties that support our services. In addition, we aggregate data and disclose such information in a non-personally identifiable manner to advertisers and other third parties for marketing and promotional purposes. 
-
-##### Personally Identifiable Information
-
-Users are asked to provide certain information when they sign up for our services such as name, address, phone number, birth date, gender, credit card information, and email address (collectively "personally identifiable information"). The personally identifiable information collected from our customers during the registration process is used to manage each customer's account. We also seek such information to provide products and/or services that more closely reflect your preferences. In addition, we may use such personally identifiable information to improve our marketing and promotional efforts, to analyze website usage, improve our content and product offerings, and customize our website's content, layout and services. 
-
-##### Personal Identification Number for Your Account
-
-To activate and manage your account and obtain access to certain services, we require you to provide a secret code (your "Account PIN"). When using your account or providing your Account PIN, you must provide accurate and complete information to Virgin Mobile. You are entirely responsible for maintaining the confidentiality of your Account PIN and are solely responsible for any activity conducted using your Account PIN. You agree not to use the account, customer name, or Account PIN of another customer at any time unless that customer is under 18 and you are the parent or guardian of that customer. 
-
-##### Voluntary Surveys
-
-We may periodically conduct surveys of our customers and/or users of our websites ("survey participants"). We encourage you to participate in these voluntary surveys because they provide us with important information that helps us to improve the types of services we offer and how we provide them to you. Your personal information and responses will remain confidential, even if the survey is conducted by a third-party.
-
-We take the information we receive from individuals responding to our surveys and combine (or aggregate) it with the responses of other survey participants to create broader, generic responses to the survey questions (such as gender, age, residence, hobbies, education, employment, industry sector, or other demographic information). We then use the aggregated information to improve the quality of our services to you, and to develop new services and products. This aggregated, non-personally identifying information may be shared with third-party affiliates. 
-
-#### How Do We Use Your Information?
-
-Unless you specifically decline, we may use personally identifiable information to contact you and deliver information to you via your home phone, address, email, voice or text messages on your mobile phone if you are a Virgin Mobile customer. We may also share personally identifiable information with certain third parties so that these third parties can share information with you about new products, services and promotions that we believe will interest you. By accepting this Privacy Policy or by purchasing or using our products or our jointly-branded products, you expressly agree to such usage and sharing of information. In addition, Virgin Mobile may use non-personally identifiable information in aggregate form for demographic marketing purposes, and may disclose this information to third parties, including advertisers. 
-
-If you are a Virgin Mobile customer, in certain special circumstances, we may contact you to deliver service-oriented messages, even if you have asked that we not contact you about special airtime events or promotions. These messages will be limited and only for this purpose. 
-
-We may use third party service providers to facilitate our services, and therefore, we may provide some of your personally identifiable information directly to them. In addition, we employ other companies and individuals to perform functions on our behalf. Some examples include fulfilling orders, providing mobile content, delivering packages, sending postal mail and email, removing repetitive information from customer lists, analyzing data, providing marketing assistance, processing credit card payments and providing customer service. These service providers have access to personally identifiable information and may use it as needed to perform their functions, but may not use it for any other purpose, except that they may aggregate your personally identifiable information with similar information from other customers in a manner that does not personally identify you. 
-
-Virgin Mobile cooperates with law enforcement inquiries, as well as other third parties, to enforce laws, such as protecting intellectual property rights and preventing fraud. We can (and you authorize us to) disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate, to respond to claims or legal process, to protect the property of Virgin Mobile or the safety of its employees or others, to investigate fraud, intellectual property infringements, or other activity that is or may be illegal or expose us or you to liability. 
-
-It is possible that Virgin Mobile or its partners could be acquired by or merged with another business entity. Should such a combination occur, you should expect that Virgin Mobile or its partners will share some or all of your personally identifiable information to continue to provide service. You will receive notice of such event (to the extent that it occurs), and we will request that the new combined entity follow the practices disclosed in this Privacy Policy or notify you of any changes. 
-
-#### What Are Your Choices About Your Privacy?
-
-If you are a Virgin Mobile customer, you may change the personal information you have elected to share with us. You also have choices in the types of communications you wish to receive from us. When you activated your device, your notification preferences were set to receive notices about special offers, events and promotions from Virgin Mobile and special offers from our partners.
-
-If you are a Virgin Mobile customer with a No Annual Contract account, to change your notification settings, or to change any of your personal information, click [here](https://www.virginmobileusa.com/myaccount/home.do) to log in to your Virgin Mobile account and go to the "My Account" page (then select Account Info and then Contact Info).
-
-If you are a Virgin Mobile customer with a Contract account, to change your notification settings, or to change any of your personal information call 888-884-3546.
-
-#### What About Cookies?
-
-"Cookies" are small files placed on your hard drive; each website can send its own cookie to your browser if your browser preferences allow it. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is sent. (Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.) You are always free to decline our cookies if your browser permits, although in that case you may not be able to use certain features on our websites and you may be required to re-enter your Account PIN more frequently during a session. In addition, a number of companies not related to Virgin Mobile offer utilities designed to help you visit websites anonymously. 
-
-Cookies assist us in providing customized services and can also help us provide information that is targeted to your interests. Virgin Mobile uses cookies to tell us how and when pages in our websites are visited, and by how many people. Virgin Mobile also uses cookies to remember you when you "sign in" to our websites, so that we can provide you with customized content, such as your balance, VirginXL and VirginXtras targeted specifically for your phone, and other helpful services. Virgin Mobile cookies do not combine information collected through cookies with other personally identifiable information. Virgin Mobile uses two kinds of cookies. Each time you log on to any of our websites, Virgin Mobile uses a "session cookie," to help us to remember you until the earlier of approximately 30 minutes or the closing of your browser and to help make sure that you remain logged in to our website. Session cookies are automatically deleted from your hard drive at the end of a session. We also use "persistent cookies," which enable us to remember what is in your shopping cart for approximately two hours and to aggregate certain non-personally identifiable usage data in ways that help us improve our services. Additionally, you may encounter cookies or other similar devices on our websites that are placed by third parties. We do not control the use of cookies by third parties, including third party websites to which we may link. 
-
-We use Google Analytics and SiteCatalyst to help analyze how customers use our websites through the use of cookies. The information generated by the cookie about your use of our website (including your IP address) is transmitted to and stored by these analytical partners. This information is used for the purpose of evaluating your use of our websites, compiling reports on website activity for website operators and providing other services relating to website activity and Internet usage. These analytical partners may transfer this information to third parties where required to do so by law, or to third parties that process information on its behalf. Neither partner will associate your IP address with any other data held regarding you. 
-
-#### What Is Our Policy Toward Children?
-
-Virgin Mobile is concerned about the safety and privacy of children who use the Internet. Consistent with the Children's Online Privacy Protection Act of 1998, we will never knowingly collect personally identifiable information from anyone under the age of 13 without prior verifiable parental consent and may limit participation in certain services we provide to individuals over 13 years of age. At various places on our websites, we may request that customers provide a year of birth. If a child under 13 responds to that request, we will direct him or her to have a parent or guardian call a live customer care agent at 1-888-322-1122, where a parent will be permitted to purchase a Virgin Mobile device, establish an account and activate the on behalf of a child under 13. In these circumstances, activation can be made only by phone with a live customer care agent, and the account must be in the parent's name. A customer must be 18 in order to establish an account for a contract phone. 
-
-If we become aware that a child under 13 has or has attempted to provide us with personally identifiable information, we will use our best efforts to remove such information from our files. If a parent or guardian becomes aware that his or her child has done this, he or she should contact the following customer care agent to remove this information: 
-
-  * Virgin Mobile - Office of Privacy
-  * Legal Department - Sprint
-  * P.O. Box 4600
-  * Reston, Virginia 20195
-  * [officeofprivacy@sprint.com](mailto:officeofprivacy@sprint.com)
-  * Fax: 703-433-8025
+#### Effective date: August 4, 2014
 
   
 
 
-#### What Is Our Policy Regarding Location-Based Information?
+IMPORTANT NOTICE: Our privacy policy has been updated to reflect that Virgin Mobile USA will be introducing two new programs: 1) Mobile Advertising - which allows Virgin Mobile USA to use information it collects to provide service to you to make the ads you see on your device more relevant (You must opt in to this program) and 2) Reporting & Analytics - to create and share certain business and marketing reports (You may opt out of this program.). We will not share any information that identifies you personally under either of these new programs. For detailed information on these programs and to learn how to opt in or out, please visit [virginmobileusa.com/privacy](https://web.archive.org/privacy). 
 
-Location-based information is information that indicates the location of your Virgin Mobile phone. When you turn on your mobile phone and use any of our location-based services, your device automatically communicates with our network and relays its current location. The accuracy of location services may be affected by circumstances beyond our control, including atmospheric, geographic or topographic conditions. We do not warrant or guarantee that location services will be available at any specific time or geographic location, or that service will be provided without interruption. 
+PLEASE NOTE: Assurance Wireless customers are not included in these programs   
+[(En Espanol)](http://espanol.virginmobileusa.com/legal/1v4zh/pol%C3%ADtica-de-privacidad)
 
-By using our location-based services, you consent to have us electronically collect, monitor and track your physical location and the location of your handset. We collect and disclose your location information only to provide you with the location-based services you have requested, or in emergency situations as prescribed by law. If you allow other users to use your handset, you are responsible for informing these users that their location information may be collected or disclosed. We will not provide your location information to third parties other than as prescribed by law without your consent. 
+### VIRGIN MOBILE USA PRIVACY POLICY
 
-If you are a Virgin Mobile customer with a No Annual Contract account, and you wish to change your privacy options for the use of your location information, or if you no longer wish to use our location-based services, please change the settings on your mobile phone by going to either 1) Menu->Settings->Network->Location or 2) Menu->Tools&Settings->Others->Location depending on your mobile phone. Changing your privacy options or terminating our location-based services will not affect the status of any other services you receive from us. Any information that is collected, monitored or tracked regarding your physical location or the location of your handset will not be retained longer than is necessary to provide the location-based services you have selected.
+This Privacy Policy ("Policy") describes how Virgin Mobile USA, L.P. ("Virgin Mobile", or "we", "us", "our") will collect, access, use or disclose your personal information. It applies to all of our products, services and websites ("Services"). A few of our Services may be covered by different privacy policies and in the event of a conflict between the two, the product or service specific policy governs. Our collection, use, access, disclosure and safeguarding of your personal information is subject to U.S. law. 
 
-#### What About Other Information Collectors?
+INFORMATION COLLECTED   
+USE OF PERSONAL INFORMATION   
+INFORMATION WE SHARE   
+NETWORK AND INFORMATION SECURITY   
+CHILDREN   
+INFORMATION CHOICES AND CHANGES   
+CONTACTING US   
+UPDATING THIS POLICY   
+YOUR CALIFORNIA PRIVACY RIGHTS
 
-Except as otherwise expressly included in this Privacy Policy, this document addresses only the use and disclosure of information that we or our partners collect from you. To the extent that you disclose your information to other parties, different rules may apply to their use or disclosure of your information. We encourage you to ask questions before you disclose your personal information to others. 
+  
 
-#### Is My Information Secure?
 
-Virgin Mobile uses standard industry practices to safeguard the confidentiality of your personally identifiable information. Virgin Mobile treats data as an asset that must be protected against loss and unauthorized access. We employ many different security techniques to protect such data from unauthorized access by users inside and outside the company. 
+#### Information Collected
 
-Unfortunately, perfect security does not exist on the Internet, and therefore, Virgin Mobile makes no representations or warranties with regard to the sufficiency of our security measures. Virgin Mobile shall not be responsible for any damages that result from a lapse in compliance with this Privacy Policy because of a security breach, technical malfunction or similar problem. Always be careful and responsible regarding your personal information. 
+We collect personal information about you in various ways. We may also get information from other sources and may combine it with information we collect about you. Personal information is information that identifies or is associated with a specific person, such as a name, address, telephone number, e-mail address, or information about activities directly linked to that person. Personal information does not include information that is not used to identify you, including aggregate or anonymous information. 
 
-We are not responsible for, and cannot control, the use by others of any information which you provide to them via our wireless services. Similarly, we cannot assume any responsibility for the content of any personal information or communication you receive from other customers through our wireless services. 
+Information you give us: You may give us information in a variety of ways, including when you sign up for or use Virgin Mobile Services, communicate with customer care or register on one of our websites. For example, you may provide us information such as our name, billing address, telephone number ore-mail address. We also collect information about your demographics, activities, location and personal preferences. Third-party providers, whose sites are featured on and accessed via our website, may collect information as well. Such collection and use of your information is governed by the third party's privacy policy - not by this one. 
 
-#### What Law Applies?
+If we have trouble processing your order, the contact information you provide is used to get in touch with you. We also use this contact information to provide you with updates regarding your current phone or service and to provide you with information about Virgin Mobile promotions and special offers. 
 
-Personally identifiable information that is submitted to our websites will be collected, processed, stored, disclosed and disposed of in accordance with applicable U.S. law. If you are a non-U.S. customer, you acknowledge and agree that we may collect and use your personally identifiable information outside your resident jurisdiction. 
+Virgin Mobile may offer the opportunity to participate in contests, giveaways, or other similar promotions we sponsor. Except as explained otherwise in the rules for a particular contest, giveaway, or promotion, any personal information you provide will be used in accordance with this Policy. 
 
-In addition, such personally identifiable information may be stored on servers located outside your resident jurisdiction. U.S. law may not provide the degree of protection for your information that is available in other countries. BY PROVIDING US WITH YOUR INFORMATION, YOU ACKNOWLEDGE THAT YOUR HAVE READ THIS PRIVACY POLICY, UNDERSTAND IT, AGREE TO ITS TERMS AND CONSENT TO THE TRANSFER OF SUCH INFORMATION OUTSIDE YOUR RESIDENT JURISDICTION. If you do not consent to the terms of this Privacy Policy, please do not use our websites. 
+Information we automatically collect: We automatically receive certain types of information whenever you use our Services. We may collect information about your device such as the type, version of operating system, signal strength, whether it is on and how it is functioning, as well as information about how you use the device and services available through it, such as your call and data usage and history, your location, web sites you have visited, applications purchased, downloaded or used and other similar information. We may link information we collect with personal information, such as information you give us at registration and check out. We may use systems or tools to follow your use of our Services and other applications, including using cookies, web beacons and other mechanisms, along with analysis of network and device information. For example, we allow collection by analytic service provider(s) of site click-stream and cookie data to help us track aggregate and individual use of our Services. We sometimes use cookies to enable features on our sites, such as the ability to save your shopping cart or set preferences. Advertisers and ad networks that serve ads on our sites may also use their own mechanisms, including cookies. These third party cookies or tools are governed by the privacy policies of the entities placing the ads and not by this policy. 
 
-#### Will This Privacy Policy Change?
+Information from other sources: We may obtain information about you from outside sources and add it to or combine it with your account information. For example, we often receive information from the retailer from whom you purchased your Virgin Mobile phone or device prior to initiating service with us. We also may use commercially available demographic and marketing information from third parties to help us better serve you or inform you about products or services that we think will be of interest to you. 
 
-Virgin Mobile may, from time to time, make changes to this policy based on your comments and our need to accurately reflect our legal obligations and our data collection and disclosure practices. By continuing to use our websites and services or by calling Virgin Mobile At Your Service at 1-888-322-1122, you agree to be bound by the latest version of this policy, which may be viewed anytime by clicking on the "Privacy Policy" link at the foot of the each of our websites. 
+Back to Top
 
-#### Want To Know More?
+#### Virgin Mobile USA's Use of Personal Information
 
-For questions or concerns about Virgin Mobile or our websites, please contact customer care at [ourteam@virginmobileusa.com](mailto:ourteam@virginmobileusa.com) or call Virgin Mobile At Your Service at 1-888-322-1122. Calls to Virgin Mobile At Your Service may be monitored for quality assurance. 
+We use personal information for a variety of purposes, including providing you with Services. We use your personal information to do things like: 
+
+  * Process your orders.
+  * Protect our rights and property and those of our customers.
+  * Respond to legal process and emergencies.
+  * Develop or inform you of new products and services.
+  * Anonymize or aggregate personal information for various purposes like market analysis or traffic flow analysis and reporting.
+  * Monitor, evaluate or improve our products, Services, systems or networks.
+  * Customize or personalize your experience with our Services.
+  * Customize or [personalize online advertising](https://web.archive.org/legal/adchoices.html) to bring you information about products and services of Virgin Mobile or others that may interest you, including co-branded offers.
+  * Tell you about products or services from Virgin Mobile or others that better meet your needs. More specifically, and as permitted by law, Virgin Mobile may use e-mail, telemarketing, direct mail and wireless messages to inform you about products or services we think will interest you.
+
+
+
+Back to Top
+
+  
+
+
+Information about our customers is one of our most important business assets, and therefore we strive to protect it and keep it confidential. We do not share information that identifies you personally with third parties other than as follows: 
+
+Affiliates. We may share personal and non-personal information with affiliated entities for approved business purposes. 
+
+Virgin Mobile USA's Service Providers. We may share personal information with third parties who perform services on our behalf. 
+
+Group Account Holders. We offer group accounts to business and government customers, family customers and other group account holders ("Group Accounts"). The account holder for Group Accounts is the entity or person that buys the service or product for its employees, family members or other authorized users. You (as the user of a device) may receive service, certain pricing, terms or other benefits through a Group Account with us. If so, we may share with that Group Account holder customer registration and other information related to your use of our services. 
+
+Third Party Verification Services. We may share limited personal information (e.g., address, phone number) with non-Virgin Mobile entities to assist with identity verification, and to prevent fraud and identity theft. 
+
+Other third parties with your consent. We may share information with other third parties with your consent. For example, you may agree to our sharing your information with other third parties to hear about their products and services. Use of the information you agree to share will be subject to those third parties' separate privacy policies. 
+
+Disclosures to Third Party Application and Service Providers. You may choose to use services and products offered by third party providers through our Services or devices such as third party applications. When you leave our network you may also use mobile roaming services provided by third parties. Your use of such services and applications may result in these third parties collecting your personal information and obtaining information from Virgin Mobile, including location information (when applicable). You may also choose to give personal information directly to third parties when using our Services. In each case, personal information you give a third party will be subject to its terms, conditions and policies - not this policy. You should review a third party's privacy policy and terms of service before providing your information or using the service. 
+
+Business Transfers. Personal information about you may be disclosed as part of any merger, acquisition, sale of company assets or transition of service to another provider. In the unlikely event of an insolvency, bankruptcy or receivership, personal information may also be transferred as a business asset. 
+
+Protection of Virgin Mobile and Others. We may access, monitor, use or disclose your personal information or communications to do things such as: 
+
+  * comply with the law or respond to lawful requests or legal process;
+  * protect the rights or property of us, our agents, members, our customers, and others including to enforce our agreements, policies and terms of use; 
+  * respond to emergencies;
+  * initiate, render, bill, and collect for services; or
+  * facilitate or verify the appropriate calculation of taxes, fees, or other obligations due to a local, state, or federal government requirement; or determine eligibility for government benefits. 
+
+
+
+We may share information that is de-identified or in an aggregated form that does not directly identify you. We share de-identified or aggregate information for purposes such as to: 
+
+  * Conduct market or traffic flow analysis and reporting or produce or facilitate production by others of business and marketing reports to share with third parties. For example, we may aggregate customer information across a particular region and create a report showing that 10,000 subscribers from a given city visited a sports stadium. If you do not wish for us to use your information to produce de-identified and aggregated data sets in the reports we share with third parties, you may opt out at any time. See [virginmobileusa.com/privacy](https://web.archive.org/privacy) for details. Assurance Wireless customers are not included in this program. 
+  * With your opt-in consent only, customize or personalize advertising based on information we collect about your use of your wireless device in order to provide wireless service to you. For example, we may use information about your mobile web browsing or use of mobile applications to deliver advertisements tailored to your interests, and we may share de-identified information about your use of your device with third parties so that they can tailor advertising to your interests based on that information. To participate in this program, you must opt in. See [virginmobileusa.com/privacy](https://web.archive.org/privacy) for details on how to do so. Assurance Wireless customers are not included in this program. 
+
+
+
+Back to Top
+
+#### Network and Information Security
+
+We maintain a variety of physical, electronic and procedural safeguards. These safeguards help protect your personal information from loss, misuse and unauthorized access, disclosure, alteration and destruction. Be sure to use a strong account PIN to access your information on our websites and not one you use for other services. 
+
+Back to Top
+
+#### Children's Privacy
+
+  
+
+
+Virgin Mobile does not knowingly collect personal information from children under the age of 13. You should also be aware that wireless devices and services purchased for family use may be used by children under 13 without the knowledge of Virgin Mobile. If that happens, any information collected from the usage will appear to be the personal information of the actual adult subscriber and treated as such under this Policy. 
+
+If you have any questions about Virgin Mobile's policies around children's privacy, please contact Virgin Mobile Customer Care at 1-888-322-1122. 
+
+Back to Top
+
+#### Information Choices and Changes
+
+  
+
+
+We offer you choices regarding how we contact you for marketing-related communications and whether we use information regarding your online or mobile web activities for marketing purposes. We also offer you choices regarding the use of de-identified information to make ads you see on your mobile device more relevant and to produce or facilitate production of business and marketing reports shared with third parties. Visit to learn about your choices and how to register your privacy preferences with us. 
+
+You may also let us know that you do not want us to contact you for marketing purposes. If you are a Virgin Mobile customer with a No Annual Contract account, to change your notification settings, or to change any of your personal information, click [here](https://www2.virginmobileusa.com/myaccount/home.do) to log in to your Virgin Mobile account and-go to the "My Account" page (then select Account Info and then Contact Info). 
+
+If you are a Virgin Mobile customer with a Contract account, to change your notification settings, or to change any of your personal information call 1-888-322-1122. 
+
+If you register a do-not-contact request, we still may contact you for non-promotional purposes, such as emails or wireless messages related to your account or our ongoing business relations. If you disable cookies on your Internet browser, you also may stop some collection and use of data when you visit our websites. If you would like to change certain Virgin Mobile account information, you may create an online account and manage your account online. For more information, visit [www.virginmobileusa.com](http://www.virginmobileusa.com/). 
+
+Back to Top
+
+#### Changes to This Privacy Policy
+
+This privacy policy is subject to change. If we need to change our privacy policy at some point in the future, we'll post the new policy promptly. When we change the policy we will give notice by changing the date it was last updated or as required by law. By using virginmobileusa.com, you agree that your visit to our site abides by the information contained in our Visitor's Agreement and Acceptable Use Policy. 
+
+Back to Top
+
+#### Your California Privacy Rights
+
+Virgin Mobile shares personal information between Virgin Mobile affiliates and marketing agents for marketing purposes. Virgin Mobile does not disclose customers' personal information to third parties for the third parties' direct marketing purposes without your consent. California residents may request the categories of personal information Virgin Mobile shared with its affiliates during the previous calendar year, if any. Written requests may be sent to the Office of Privacy - Legal Department, Virgin Mobile USA, P.O. Box 4600, Reston, VA 20195. Virgin Mobile will respond to these requests within 30 days. Requests that come to us by other means may result in a delayed response. 
+
+Back to Top
+
+#### Questions or Concerns
+
+If you have any questions about, or complaints that concern, this Privacy Policy please click on the Customer Support tab or call Virgin Mobile Customer Care at 1-888-322-1122. If you prefer, you also may write us at Office of Privacy - Legal Department, Virgin Mobile USA, P.O. Box 4600, Reston, VA 20195. 
+
+Back to Top
+
+#### This Privacy Policy was last revised August 4, 2014.
