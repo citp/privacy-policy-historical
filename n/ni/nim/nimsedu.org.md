@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nimsedu.org privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624174932id_/http%3A//nimsedu.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nimsedu.org privacy policy that was archived on 2015-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150928045253id_/http%3A//nimsedu.org/%3Fpage_id%3D120) for the most accurate reproduction.*
 
 # Privacy Policy | NIMS Education Site
 
