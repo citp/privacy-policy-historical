@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yousendit.com privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526180158id_/https%3A//www.hightail.com/aboutus/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yousendit.com privacy policy that was archived on 2015-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150928063550id_/https%3A//www.hightail.com/aboutus/legal/privacy) for the most accurate reproduction.*
 
 # Privacy - Hightail
 
@@ -98,7 +98,7 @@ If you have been added to a user's Hightail address book and no longer wish to h
 
 #### User postings and testimonials on our website
 
-Hightail users can post comments or messages to the Hightail website, such as on our blog and community forum, which may be available to the public. We recommend that you guard your anonymity and sensitive information and we encourage you to think carefully about what information about yourself you disclose in your comments or messages. To request removal of such comments and message, contact Customer Support at [support@hightail.com](https://web.archive.org/web/20150526180158id_/https%3A//www.hightail.com/aboutus/legal/support@hightail.com "Hightail Support Email"). In some cases, we may not be able to remove them, in which case we will let you know we are unable to do so.
+Hightail users can post comments or messages to the Hightail website, such as on our blog and community forum, which may be available to the public. We recommend that you guard your anonymity and sensitive information and we encourage you to think carefully about what information about yourself you disclose in your comments or messages. To request removal of such comments and message, contact Customer Support at [support@hightail.com](https://web.archive.org/web/20150928063550id_/https%3A//www.hightail.com/aboutus/legal/support@hightail.com "Hightail Support Email"). In some cases, we may not be able to remove them, in which case we will let you know we are unable to do so.
 
 We post Hightail user testimonials on our website, which may contain Personal Information such as the user's name. We obtain user consent prior to posting of any such testimonial. If you wish to request the removal of your testimonial you may contact us at [privacy@hightail.com](mailto:privacy@hightail.com "Privacy Email").
 
