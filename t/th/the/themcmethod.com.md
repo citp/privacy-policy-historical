@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themcmethod.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317070618id_/http%3A//www.themcmethod.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themcmethod.com privacy policy that was archived on 2015-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150928025949id_/http%3A//www.themcmethod.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - McMethod
 
@@ -189,9 +189,9 @@ Nevis, West Indies
 
 PO Box 590, Suite 5 Horsford’s Business Centre, Long Point Road
 
--
+–
 
--
+–
 
 john@themcmethod.com
 
