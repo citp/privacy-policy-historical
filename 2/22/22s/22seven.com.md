@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the 22seven.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318015602id_/https%3A//www.22seven.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 22seven.com privacy policy that was archived on 2015-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150928192606id_/https%3A//www.22seven.com/legal/privacy) for the most accurate reproduction.*
 
-# 22seven | Privacy policy
-
-Our Privacy Policy confirms that your information belongs to you: we won’t sell it to anyone, nor will we use it to spam you. Here is our Privacy Policy in full.
+# 22seven | Privacy Policy
 
 22seven is committed to the privacy of your Personal Information. Your information is yours - always. We will always collect the minimum amount of Personal Information necessary to provide the Service to you. Our staff and Authorised Service Providers are bound by confidentiality and privacy obligations that align directly with this Privacy Policy. They are given access only to the information they require to fulfil their responsibilities.
 
@@ -70,7 +68,7 @@ We may, in compliance with applicable laws or if we are unable to verify your id
 
 #### Is my Personal Information deleted when I close my account?
 
-Yes. When you close your account we delete your Personal Information (including your Security Credentials for your Product/Service Provider websites and your account information). We are required by South African law to retain some information. For example, once subscribed your billing information is required to be kept for five years.
+Yes. When you close your account we delete your Personal Information (including your Security Credentials for your Product/Service Provider websites and your account information). There may be some information that we are required by South African law to retain.
 
 #### How long does 22seven keep my Personal Information?
 
@@ -86,7 +84,7 @@ Yes. We may change our Privacy Policy at any time. We will notify you of any les
 
 #### What happens if the ownership of 22seven changes hands?
 
-If we become involved in any merger, consolidation, or sale of our assets and this involves the sharing in any way of your Personal Information, we will ensure the confidentiality of such information and let you know before your Personal Information is transferred and becomes subject to a different privacy policy. Should you not wish for your Personal Information to be so transferred, you may terminate your use of the Service by closing your account, which will result in the deletion of your Personal Information.
+If we become involved in any merger, consolidation, or sale of our assets and this involves the sharing in any way of your Personal Information, we will ensure the confidentiality of such information and let you know before your Personal Information is transferred and becomes subject to a different Privacy Policy. Should you not wish for your Personal Information to be so transferred, you may terminate your use of the Service by closing your account, which will result in the deletion of your Personal Information.
 
 #### Can I have my name removed from the public forum/message board?
 
