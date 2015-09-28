@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techmesto.com privacy policy that was archived on 2015-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150329072623id_/https%3A//www.techmesto.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techmesto.com privacy policy that was archived on 2015-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150928141230id_/https%3A//www.techmesto.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for TechMesto
 
