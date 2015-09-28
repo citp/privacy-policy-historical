@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the syntelinc.com privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529034556id_/http%3A//www.syntelinc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syntelinc.com privacy policy that was archived on 2015-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150928171722id_/http%3A//www.syntelinc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Syntel - IT Consulting | IT Outsourcing Services | BPO/KPO | Enterprise Solutions
 
