@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dealasite.com privacy policy that was archived on 2009-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090513182458id_/http%3A//www.dealasite.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealasite.com privacy policy that was archived on 2015-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150928080631id_/http%3A//www.dealasite.com/privacy.html) for the most accurate reproduction.*
 
-# DealASite.com Websites for Sale - Privacy Policy
+# DealASite - Privacy Policy
 
 **Our Commitment To Privacy**
 
@@ -8,11 +8,11 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 **The Information We Collect:**
 
-This notice applies to all information collected or submitted on the DealASite.com website. To access extended features of DealASite.com, we may require that you establish an account and provide the following personal information: Name, Address and Email address. 
+This notice applies to all information collected or submitted on the DealASite website. To access extended features of DealASite, we may require that you establish an account and provide the following personal information: Name, Address and Email address. 
 
 **The Way We Use Information:**
 
-We use the information you provide about yourself to authenticate logins to your account with DealASite.com. We do not share this information with outside parties except to the extent necessary to complete that order. 
+We use the information you provide about yourself to authenticate logins to your account with DealASite. We do not share this information with outside parties except to the extent necessary to complete that order. 
 
 We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
 
@@ -24,7 +24,7 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 **How You Can Access Or Correct Your Information**
 
-You can access all your personally identifiable information that we collect online and maintain by logging in to your DealASite.com account. We use this procedure to better safeguard your information. 
+You can access all your personally identifiable information that we collect online and maintain by logging in to your DealASite account. We use this procedure to better safeguard your information. 
 
 You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
 
@@ -32,7 +32,7 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 **IP Addresses and Logging**
 
-DealASite.com server logs information about visitors, including IP addresses, date/time visited, referring website, length of stay, etc. This information is used for site statistics only. 
+DealASite server logs information about visitors, including IP addresses, date/time visited, referring website, length of stay, etc. This information is used for site statistics only. 
 
 **Third Party Advertisers**
 
@@ -42,4 +42,4 @@ DealASite.com server logs information about visitors, including IP addresses, da
 
 **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please [contact us here](https://web.archive.org/contact.php). 
+Should you have other questions or concerns about these privacy policies, please [contact us here](https://web.archive.org/contact.html). 
