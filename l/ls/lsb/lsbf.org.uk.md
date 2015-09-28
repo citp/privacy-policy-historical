@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lsbf.org.uk privacy policy that was archived on 2015-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150525005705id_/http%3A//www.lsbf.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lsbf.org.uk privacy policy that was archived on 2015-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150928043920id_/http%3A//www.lsbf.org.uk/privacy-policy) for the most accurate reproduction.*
 
 # LSBF - London School of Business and Finance Privacy Policy
 
@@ -123,6 +123,10 @@ We may disclose your personal information to third parties:
   * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Terms of use and other agreements; or to protect the rights, property, or safety of LSBF, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
+
+**Higher Education Statistics Agency (HESA)**
+
+Your personal data (including sensitive personal data) will be provided to HESA. Further information about the data which will be shared with HESA can found in the HESA collection notice on the HESA website (<http://www.hesa.ac.uk/fpn>)
 
 ## Your rights
 
