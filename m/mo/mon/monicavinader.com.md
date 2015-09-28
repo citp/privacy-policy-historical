@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the monicavinader.com privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427041743id_/http%3A//www.monicavinader.com/us/customer-care/privacy-and-security/privacy-promise) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monicavinader.com privacy policy that was archived on 2015-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150928234641id_/http%3A//www.monicavinader.com/us/customer-care/privacy-and-security/privacy-promise) for the most accurate reproduction.*
 
 # Privacy Policy
-
-### Privacy Policy
 
 **1 Introduction**  
 1.1 This website monicavinader.com (the "Site") is provided and operated by Monica Vinader Ltd ("we", "us" or "our"). We take the privacy of your information very seriously and believe that it is important for you to know what types of information we collect from the Site and how we treat information we may receive from you.
