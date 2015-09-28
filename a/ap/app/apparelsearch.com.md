@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apparelsearch.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613154057id_/http%3A//www.apparelsearch.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apparelsearch.com privacy policy that was archived on 2015-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150928080250id_/http%3A//apparelsearch.com/privacy.html) for the most accurate reproduction.*
 
 # apparelsearch.com | Privacy Policy
 
