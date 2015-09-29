@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the josephprince.org privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624093112id_/http%3A//www.josephprince.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the josephprince.org privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929033240id_/http%3A//www.josephprince.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Joseph Prince Ministries
 
