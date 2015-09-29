@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momswhosave.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622051330id_/http%3A//momswhosave.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momswhosave.com privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929025932id_/http%3A//momswhosave.com/privacy) for the most accurate reproduction.*
 
 # Privacy | MomsWhoSave.com
 
