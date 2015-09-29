@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the coingecko.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423203638id_/https%3A//www.coingecko.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coingecko.com privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929181423id_/https%3A//www.coingecko.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CoinGecko
 
-Your privacy is very important to us. At CoinGecko, we want to make your experience with us satisfying and safe. This Privacy Policy outlines the types of information we gather from your use of this service (the "Service"), how we use it, with whom we might share it, the means by which we keep it secure, and the choices you have about the information you choose to share with us. 
+Your privacy is very important to us. At Gecko Labs Pte. Ltd. ("CoinGecko"), we want to make your experience with us satisfying and safe. This Privacy Policy outlines the types of information we gather from your use of this service (the "Service"), how we use it, with whom we might share it, the means by which we keep it secure, and the choices you have about the information you choose to share with us. 
 
 If you have any questions about the privacy practices of coingecko.com or this Privacy Policy, please e-mail [hello@coingecko.com](mailto:hello@coingecko.com). 
 
