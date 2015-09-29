@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vistage.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316002204id_/http%3A//www.vistage.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vistage.com privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929025423id_/http%3A//www.vistage.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Vistage International Privacy Policy | Executive and CEO Organization
 
