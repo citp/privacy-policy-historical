@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 1800gotjunk.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608043018id_/http%3A//1800gotjunk.com/us_en/footer/privacy-legal.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800gotjunk.com privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929155609id_/http%3A//www.1800gotjunk.com/us_en/footer/privacy-legal) for the most accurate reproduction.*
 
 # Terms of Use and Privacy Policy 1-800-GOT-JUNK? LLC and RBDS Rubbish Boys Disposal Service Inc
 
-Thank you for visiting the 1-800-GOT-JUNK? website (the "Site"). **PLEASE CAREFULLY REVIEW THE TERMS OF USE OF THE SITE AND THE PRIVACY POLICY.** Since your use of the Site will indicate your acceptance of these terms, do not use the Site if you do not agree to be bound by these terms. We may periodically change the terms in our sole discretion and without notice so please check these terms from time to time since your continued use of the Site signifies your acceptance of any changed terms. These terms incorporate and include our Privacy Policy, outlined below, and any other guidelines or disclaimers that may be posted on the Site.
+Thank you for visiting the 1-800-GOT-JUNK? website (the "Site").  **PLEASE CAREFULLY REVIEW THE TERMS OF USE OF THE SITE AND THE PRIVACY POLICY.  **Since your use of the Site will indicate your acceptance of these terms, do not use the Site if you do not agree to be bound by these terms. We may periodically change the terms in our sole discretion and without notice so please check these terms from time to time since your continued use of the Site signifies your acceptance of any changed terms. These terms incorporate and include our Privacy Policy, outlined below, and any other guidelines or disclaimers that may be posted on the Site.
 
 **USE OF THE SITE AND INDEMNITY**
 
@@ -16,7 +16,7 @@ If you submit any material to or for use on the Site, unless all parties agree o
 
 If you breach any provision of this agreement, you may no longer use the Site. We may, at any time and for any reason, suspend, modify, limit or restrict your access, temporarily or permanently, to some or all of the Site, without notice. Despite any termination of this agreement, we may continue to use your personal information in accordance with our Privacy Policy, outlined below.
 
-**Ownership of the Site,** **COPYRIGHT AND TRADEMARK**
+**Ownership of the Site,  ** **COPYRIGHT AND TRADEMARK**
 
 © 2013 RBDS Rubbish Boys Disposal Service Inc. All rights reserved. Unless otherwise noted, all materials on the Site are protected as the copyrights, trade dress, trademarks and, or alternatively, other intellectual properties owned by RBDS Rubbish Boys Disposal Service Inc. d.b.a. 1-800-GOT-JUNK?, its subsidiaries, its affiliates and others, and is protected by Canadian, American and international copyright, trademark and other laws. Your use of the Site does not transfer to you any ownership or other rights in the Site or its content.
 
@@ -42,7 +42,7 @@ The provisions of this agreement will enure to the benefit of and be binding upo
 
 ## Privacy Policy
 
-We are committed to maintaining your confidence and trust in all of our activities with you. Below is our Privacy Policy governing our use of information about you that you provide, actively or passively, while using the Site ("Information"). This Privacy Policy does not govern our collection of any information about you through any channel or by any method other than by your use of this Site. If you have any questions about this privacy statement or the content and practices of the Site, please feel free to contact us by clicking [here](https://web.archive.org/ca_en/about/forms/contact_us.aspx?topic=marketing).
+We are committed to maintaining your confidence and trust in all of our activities with you. Below is our Privacy Policy governing our use of information about you that you provide, actively or passively, while using the Site ("Information"). This Privacy Policy does not govern our collection of any information about you through any channel or by any method other than by your use of this Site. If you have any questions about this privacy statement or the content and practices of the Site, please feel free to contact us by clicking [here](https://web.archive.org/ca_en/about/forms/contact_us.aspx?topic=marketing).
 
 **TRACKING TECHNOLOGY**
 
@@ -54,7 +54,7 @@ If you prefer, you can choose to turn off all cookies via your browser settings.
 
 **ONLINE BEHAVIOURAL ADVERTISING**
 
-We use third-party advertising companies to serve ads when you visit the Site. These companies may use information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <http://www.networkadvertising.org/>.
+We use third-party advertising companies to serve ads when you visit the Site. These companies may use information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <http://www.networkadvertising.org/>.
 
 **INFORMATION WE COLLECT AUTOMATICALLY**
 
@@ -79,8 +79,8 @@ If you interact with our website by booking services, submitting feedback, joini
 
 
 
-**  
-OUR USE OF YOUR PERSONAL INFORMATION**
+  
+**OUR USE OF YOUR PERSONAL INFORMATION**
 
 We use the Information in order to make the Site more useful and to respond to your queries, to inform users of new promotions, products and services offered by us, to improve our level of service, and to provide notifications regarding the Site and our products and services. We restrict access to your Information to those in our organization who require access in order to provide the Site, information and services to you. We also may share your Information with the following entities:
 
@@ -108,7 +108,7 @@ We also may use your IP address and information about the web pages you visit to
 
 We may also share your non-personal information to deliver tailored advertising to you that match your interests when you visit our Site as well as other websites.
 
-You may opt-out of the use of your information. To learn more about the use of this information or to choose not to have this information used by our third-party advertising partner by opting out, please visit the Network Advertising Initiative by clicking [here](http://www.networkadvertising.org/managing/opt_out.asp). **If you delete your Cookies, use a different browser, or buy a new computer, you will need to renew your opt-out choice.**
+You may opt-out of the use of your information. To learn more about the use of this information or to choose not to have this information used by our third-party advertising partner by opting out, please visit the Network Advertising Initiative by clicking [here](http://www.networkadvertising.org/managing/opt_out.asp).  **If you delete your Cookies, use a different browser, or buy a new computer, you will need to renew your opt-out choice.**
 
 **FORMER USERS**
 
@@ -127,11 +127,11 @@ Attention: Customer Experience
 301 – 887 Great Northern Way  
 Vancouver, BC Canada V5T 4T5
 
-You can also click [here](mailto:optout@1800gotjunk.com) or email us at [optout@1800gotjunk.com](mailto:optout@1800gotjunk.com) to email us your request, or you can call us at 1-800-468-5865.
+You can also click [here](mailto:optout@1800gotjunk.com) or email us at [optout@1800gotjunk.com](mailto:optout@1800gotjunk.com) to email us your request, or you can call us at 1-800-468-5865.
 
 **HOW TO REVIEW AND UPDATE YOUR INFORMATION**
 
-You may e-mail us with changes to your information and contact preferences by clicking [here](https://web.archive.org/ca_en/about/forms/contact_us.aspx?topic=customerservice).
+You may e-mail us with changes to your information and contact preferences by clicking [here](https://web.archive.org/ca_en/about/forms/contact_us.aspx?topic=customerservice).
 
 **SECURITY**
 
@@ -151,4 +151,4 @@ As we grow and new features are added, or legal requirements change, this Privac
 
 **HOW TO CONTACT US**
 
-If you have any questions or complaints about our Site, our Privacy Policy, or the Information we collect, please contact our customer service team [here](https://web.archive.org/ca_en/about/forms/contact_us.aspx?topic=customerservice).
+If you have any questions or complaints about our Site, our Privacy Policy, or the Information we collect, please contact our customer service team [here](https://web.archive.org/ca_en/about/forms/contact_us.aspx?topic=customerservice).
