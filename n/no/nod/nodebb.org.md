@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nodebb.org privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315004131id_/https%3A//nodebb.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nodebb.org privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929093637id_/https%3A//nodebb.org/privacy) for the most accurate reproduction.*
 
-# NodeBB | Privacy Policy
+# NodeBB Forum Software | A better community platform for the modern web
 
 This Privacy Policy governs the manner in which NodeBB collects, uses, maintains and discloses information collected from users (each, a "User") of the https://nodebb.org website ("Site"). This privacy policy applies to the Site and all products and services offered by NodeBB. 
 
@@ -36,9 +36,9 @@ Contacting us
 If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at: 
 
 **NodeBB**  
-27 Enmount Drive  
-Brampton, Ontario  
-L6T 4C8  
+36 King Street East  
+Suite 400  
+Toronto, Ontario M5C 3B2  
 Canada
 
 https://nodebb.org  
