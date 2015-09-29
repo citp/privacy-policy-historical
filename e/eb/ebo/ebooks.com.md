@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the ebooks.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611202658id_/http%3A//www.ebooks.com/information/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebooks.com privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929225725id_/http%3A//www.ebooks.com/information/privacy.asp) for the most accurate reproduction.*
 
 # Help - Privacy
 
-(Last Updated: June 16, 2014)
+(Last Updated: September 09, 2015)
 
 [](https://privacy.truste.com/privacy-seal/Ebooks-com-Pty-Limited/validation?rid=d4c0906c-5618-4e62-9f3c-8a4fcb313dff "TRUSTe online privacy certification")
 
-This privacy policy applies to [www.ebook.com](http://www.ebook.com/) owned and operated by Ebooks.com Pty Limited. This privacy policy describes how Ebooks.com Pty Limited collects and uses the personally identifiable information you provide on our web site: www.ebook.com. It also describes the choices available to you regarding our use of your personally identifiable information and how you can access and update this information.
+This privacy policy applies to [www.ebooks.com](http://www.ebooks.com/) owned and operated by Ebooks.com Pty Limited. This privacy policy describes how Ebooks.com Pty Limited collects and uses the personally identifiable information you provide on our web site: www.ebooks.com. It also describes the choices available to you regarding our use of your personally identifiable information and how you can access and update this information.
 
 Ebooks.com Pty Limited has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
-The TRUSTe program covers only information that is collected through this Web site, [www.ebook.com](http://www.ebook.com/) and does not cover information that may be collected through software downloaded from the site. eBooks.com respects your privacy. As we develop our online presence, we will revise our Privacy Policy to reflect our practices and to meet any legislative or other requirements. The terms of this Privacy Policy form part of and should be read in conjunction with the [Terms of Use and Licenses](https://web.archive.org/information/terms.asp) which govern this Website.
+The TRUSTe program covers only information that is collected through this Web site, [www.ebooks.com](http://www.ebooks.com/) and does not cover information that may be collected through software downloaded from the site, our mobile website and our mobile application. eBooks.com respects your privacy. As we develop our online presence, we will revise our Privacy Policy to reflect our practices and to meet any legislative or other requirements. The terms of this Privacy Policy form part of and should be read in conjunction with the [Terms of Use and Licenses](https://web.archive.org/information/terms.asp) which govern this Website.
 
 ## Collection of personally identifiable information
 
@@ -42,34 +42,26 @@ We will not sell, rent, trade, share, reveal or disclose any of your personally 
 
   * you have specifically requested that we do so;
   * we deem it necessary to provide you with services you have requested;
-  * we are required to do so by a Court of competent jurisdiction or by a governmental order, decree, regulation or rule of any regulatory agency;
+  * as required by law, such as to comply with a subpoena, bankruptcy proceedings, or similar legal process;
   * our terms and conditions state that we will;
-  * we reasonably believe that use of disclosure is necessary to prevent or lessen a serious and imminent threat to an individual's life, health or safety or a serious threat to public health or safety; or 
+  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request; or
   * We have reason to suspect that unlawful activity has been, is being or may be engaged in and the use or disclosure of your personally identifiable information is a necessary part of our investigation of the matter or in reporting our concerns to relevant persons or authorities. 
 
 
 
 We may provide aggregate information and statistics about eBooks.com's customers, sales traffic patterns and related site information to third parties but these statistics will not include individual personally identifiable information. We use a credit card processing company to bill you for goods and services. These companies do not retain, share, store or use personally identifiable information for any other purposes. 
 
-We use a credit card processing company to bill you for goods and services. These companies do not retain, share, store or use personally identifiable information for any other purposes. 
+We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us. 
 
-## Cookies
+## Tracking Technologies
 
-Cookies are pieces of information that a website can transfer to an individual's web browser on their computer hard drive for record keeping. Cookies can make using websites easier by storing information about your preferences on a particular website. The information remains on your computer after the Internet session finishes. 
+We Ebooks.com Pty Limited and our affiliates, or analytics use technologies such as cookies, beacons, tags, and scripts, to analyze trends, administer the website, tracking users' movements around the website, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual and aggregated basis. 
 
-eBooks.com uses cookies to improve the functionality of it's site and to support all browsers. eBooks.com uses cookies to assess the performance of the Website and to confirm your preferences. eBooks.com also uses cookies to determine the effectiveness of our third party partners' and our own marketing efforts and communications.
+We use cookies to improve the functionality of it's site and to support all browsers. eBooks.com uses cookies to assess the performance of the Website and to confirm your preferences and for user authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our website, but your ability to use some features or areas of our website may be limited. 
 
-Most Internet browsers are pre-set to accept cookies. If you prefer not to receive cookies, you can adjust your Internet browser to refuse cookies or to warn you when cookies are being used. These cookies do not contain any personally identifiable information. 
+We use Local Storage, such as HTML5, to store content information and preferences. Various browsers may offer their own management tools for removing HTML5. 
 
-We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. On our website we use session ID cookies to keep your browsing session active so that you do not need to log in every so often. A persistent cookie remains on your hard drive for an extended period of time. Persistent cookies are used to store information such as your browsing preferences, shopping cart information, affiliate referrals etc. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. Learn more from [here](http://www.wikihow.com/Clear-Your-Browser%27s-Cookies)
-
-If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as purchasing ebooks, will be limited.
-
-The use of cookies by our partners, affiliates, tracking utility service providers is not covered by our privacy statement. We do not have access or control over these cookies. Our partners, affiliates, tracking utility service providers use session ID cookies to make it easier for you to navigate our site. 
-
-## Clear Gifs (Web Beacons/Web Bugs)
-
-We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), in conjunction with cookies to help us better manage affiliate referrals. Clear gifs are tiny graphics with a unique identifier, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information. 
+We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here . Please note this does not opt you out of being served ads. You will continue to receive generic ads. 
 
 ## Analytics/Log files
 
@@ -81,7 +73,7 @@ We do not link this automatically-collected data to personally identifiable info
 
 ## Access to Personally Identifiable Information
 
-If your personally identifiable information changes, or if you no longer desire our service, you may update it by logging in to your account or by emailng Customer Support at privacy@ebooks.com or by contacting us by telephone or postal mail at the contact information listed below. 
+If your personally identifiable information changes, or if you no longer desire our service, you may update, delete/remove it by logging in to your account or by emailng Customer Support at privacy@ebooks.com or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request within a reasonable timeframe. 
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -95,17 +87,13 @@ You will be notified when your personally identifiable information is collected 
 
 ## Data Security
 
-eBooks.com takes your privacy and the privacy of all its customers very seriously. We have practices which include the secure storage of personally identifiable information and safeguards against the accidental release of personally identifiable information. eBooks.com uses SSL encryption to transmit sensitive information. 
+eBooks.com takes your privacy and the privacy of all its customers very seriously. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once it is received. 
 
 If you have any concerns about your privacy and the use of the Website or any of eBooks.com's services or products, please contact privacy@ebooks.com. We will respond to your request to access 30 days. 
 
-You may request that we provide you with a copy of the personally identifiable information collected by us from your use of the Website or through your dealings with us. You may make this request by contact us through our [Online Support Form](http://www.ebooks.com/help/support-form.aspx) and providing the requested details. 
+You may request that we provide you with a copy of the personally identifiable information collected by us from your use of the Website or through your dealings with us. You may make this request by contact us through our [Online Support Form](https://sec.ebooks.com/account/ticket.asp) and providing the requested details. 
 
 ## E-commerce Policy
-
-eBooks.com takes steps to ensure that your credit card details are protected. When you enter sensitive information such as a credit card number on our order forms, we encrypt that information using secure socket layer technology (SSL).
-
-eBooks.com follows generally accepted industry standards to protect the Personal Information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personally identifiable information, we cannot guarantee its absolute security.
 
 If you choose to purchase a product or service from eBooks.com online, eBooks.com only stores enough information concerning your transaction as to permit it to verify your instructions and reconcile payment information from its merchant clearance system.
 
@@ -122,7 +110,7 @@ CB4 0WE
 United Kingdon  
 
 
-By default, credit card details are encrypted and stored for use with future purchases. Internally, eBooks.com takes extra caution to limit access to customers' information. Only a few individuals within the company are given degrees of access to customers' personally identifiable information according to job function and necessity. Access is granted to these employees through special passwords. All employees are kept up to date on our security and privacy practices. Finally, the servers that store personally identifiable information are kept in a secure, guarded environment. If you would like your details removed, please submit a request through our [support form](https://sec.ebooks.com/account/support.asp).
+By default, credit card details are encrypted and stored for use with future purchases. Internally, eBooks.com takes extra caution to limit access to customers' information. Only a few individuals within the company are given degrees of access to customers' personally identifiable information according to job function and necessity. Access is granted to these employees through special passwords. All employees are kept up to date on our security and privacy practices. Finally, the servers that store personally identifiable information are kept in a secure, guarded environment. If you would like your details removed, please submit a request through our [support form](https://sec.ebooks.com/account/ticket.asp).
 
 ## Tell-a-Friend
 
