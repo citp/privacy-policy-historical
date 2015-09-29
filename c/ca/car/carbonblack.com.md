@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the carbonblack.com privacy policy that was archived on 2014-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140722212113id_/https%3A//www.bit9.com/license-agreements/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carbonblack.com privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929114035id_/https%3A//www.bit9.com/license-agreements/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Bit9 + Carbon Black
-
-## Bit9 Privacy Policy
-
-[<< Back to all License Agreements](https://web.archive.org/license-agreements "License Agreements")
+# Bit9 Privacy Policy - Bit9 + Carbon Black
 
 **I. Introduction. ** We at Bit9, Inc.  (“Bit9”, “we” or “us”) are constantly striving to provide excellent service to you, our customers and business partners, while building a long-lasting relationship with you.  To achieve these goals, we occasionally need information supplied by you or collected about you through your use of our website (the “Site”); any such information will be referred to in this Privacy Policy as “User Information”.  Bit9 takes seriously, and values, your privacy and accordingly protects User Information as described below.  This Policy describes the types of information that you may provide or that we may collect from you when you visit our Site, and our practices for collecting, using, maintaining, protecting and disclosing that information. This Policy applies to information we collect:
 
@@ -26,7 +22,7 @@ _**Please read this Policy carefully in order to understand our policies and pra
 
 If you have questions about our privacy policy, please contact us at: contact@bit9.com
 
-**II.** **Information We Collect About You and How We Collect It.** We collect several types of information from and about users of our Site, as described below.
+**II.  ** **Information We Collect About You and How We Collect It.** We collect several types of information from and about users of our Site, as described below.
 
 **Information You Provide to Us.** We encourage all visitors to register with Bit9. Registration is not required, except for access to our premium content areas. The registration form requires users to give us the following User Information:
 
@@ -97,7 +93,7 @@ To exercise any of these rights, please contact us at contact@bit9.com.
 
 **VIII. Your California Privacy Rights.** California Civil Code Section 1798.83 permits California residents to request a notice from us describing which categories of personal information we have shared with third parties or corporate affiliates for those third parties or corporate affiliates’ direct marketing purposes within the last calendar year, and the name and address of such parties. If you are a California resident and would like a copy of this notice, please send an email to contact@bit9.com with “California Privacy Rights Request” in the subject line.
 
-**IX. Children Under the Age of 13.** Our Website is not intended for children under 13 years of age. No one under age 13 may provide any information to or on the Site. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Site or on or through any of its features/register on the Site, use any of the interactive or public comment features of this Site or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at contect@bit9.com.
+**IX. Children Under the Age of 13.** Our Website is not intended for children under 13 years of age. No one under age 13 may provide any information to or on the Site. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Site or on or through any of its features/register on the Site, use any of the interactive or public comment features of this Site or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at contact@bit9.com.
 
 **X. Changes to Policy.** Bit9 will occasionally update this privacy policy. When we do, we will revise the “last updated” date at the top of the privacy policy.  You are responsible for periodically reviewing this policy for updates to its content.
 
