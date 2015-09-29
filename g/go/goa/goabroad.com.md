@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goabroad.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516025746id_/http%3A//www.goabroad.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goabroad.com privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929145450id_/http%3A//www.goabroad.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | GoAbroad.com
 
@@ -30,7 +30,7 @@ Just like all of the GoAbroad.com websites, we send our e-newsletter free of cha
 
 ## Double Opt-in
 
-To subscribe to our newsletter, just give your email address at the box of [http://www.goabroad.com/newsletter](https://web.archive.org/newsletter/index#subscribe) and click on the subscribe button. Subscription is optional and needs to be confirmed by clicking on a link sent to your email. Only after you confirmed your interest do we add you to our newsletter list. You will never receive a newsletter unless you clicked on the confirmation link. 
+To subscribe to our newsletter, just give your email address at the box of [http://www.goabroad.com/newsletter](https://web.archive.org/newsletter#subscribe) and click on the subscribe button. Subscription is optional and needs to be confirmed by clicking on a link sent to your email. Only after you confirmed your interest do we add you to our newsletter list. You will never receive a newsletter unless you clicked on the confirmation link. 
 
 ## Opt-out or Unsubscribe Procedure
 
