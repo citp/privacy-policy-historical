@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adriagate.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623081310id_/http%3A//www.adriagate.com/Croatia-en/About-us/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adriagate.com privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929174934id_/http%3A//www.adriagate.com/Croatia-en/About-us/Privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
