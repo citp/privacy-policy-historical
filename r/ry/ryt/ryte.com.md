@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ryte.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408032521id_/http%3A//www.ryte.com/footer-pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryte.com privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929234503id_/http%3A//www.ryte.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Ryte Privacy Policy
+
+[](https://web.archive.org/)
 
 A. **Privacy Policy Overview**. Ryte and its affiliates and subsidiaries (“Ryte”) are aware of and responsive to your concerns regarding how information about you is collected, used and shared when you visit ryte.com (“Website”). Ryte is committed to protecting the privacy of consumers of Ryte’s products and services. This notice describes the privacy policy applicable to our Website (“Privacy Policy”). Although the Privacy Policy is discussed in more detail below, it is important to note:  
 (1) The personally identifiable information that you provide is considered confidential and except as otherwise explained below in Paragraph C, such information will not be provided to others.  
@@ -28,6 +30,6 @@ F. **Applicable Law/International Issues**. Because Ryte is committed to protect
 
 G. **Third Party Sites**. The Website provides hyperlinks, which are highlighted words or pictures within a hypertext document that, when clicked, take you to another place within the document, to another document altogether, or to other Websites not controlled by Ryte. These hyperlinked Websites may contain privacy provisions that are different from those provided herein. Ryte is not responsible for the collection, use, or disclosure of information collected through these Websites or links, and Ryte expressly disclaims any and all liability related to such collection, use, or disclosure.
 
-H. **Changes to Ryte’s Privacy Policy**. If Ryte decides to change the Privacy Policy, it will post those changes here so that you will always know what information we collect, and how we might use or disclose that information. Any changes to this Privacy Policy will be considered effective immediately after the changes are posted on this Website. 
+H. **Changes to Ryte’s Privacy Policy**. If Ryte decides to change the Privacy Policy, it will post those changes here so that you will always know what information we collect, and how we might use or disclose that information. Any changes to this Privacy Policy will be considered effective immediately after the changes are posted on this Website.
 
-I. **How to Contact Ryte**. If you have any questions about this Privacy Policy, please send an e-mail to info@ryte.com.
+I. **How to Contact Ryte**. If you have any questions about this Privacy Policy, please send an e-mail to support@ryte.com.
