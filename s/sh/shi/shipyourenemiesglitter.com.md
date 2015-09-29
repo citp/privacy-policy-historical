@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the shipyourenemiesglitter.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315021129id_/https%3A//shipyourenemiesglitter.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shipyourenemiesglitter.com privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929034531id_/https%3A//shipyourenemiesglitter.com/privacy) for the most accurate reproduction.*
 
-# Ship Your Enemies Glitter - Privacy Policy
+# Ship Your Enemies Glitter - Privacy
 
-This Privacy Policy governs the manner in which Brouhaha LLC collects, uses, maintains and discloses information collected from users (each, a "User") of the [shipyourenemiesglitter.com](http://shipyourenemiesglitter.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Brouhaha LLC.
-
-**Personal identification information**
+  * This Privacy Policy governs the manner in which Brouhaha LLC collects, uses, maintains and discloses information collected from users (each, a "User") of the [shipyourenemiesglitter.com](http://shipyourenemiesglitter.com/), [shipyourfriendsbacon.com](http://shipyourfriendsbacon.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Brouhaha LLC.
 
 We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
@@ -20,7 +18,19 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 Brouhaha LLC may collect and use Users personal information for the following purposes:
 
- **How we protect your information**
+  * _\- To improve customer service_  
+Information you provide helps us respond to your customer service requests and support needs more efficiently.
+  * _\- To personalize user experience_  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * _\- To improve our Site_  
+We may use feedback you provide to improve our products and services.
+  * _\- To process payments_  
+We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
+  * _\- To run a promotion, contest, survey or other Site feature_  
+To send Users information they agreed to receive about topics we think will be of interest to them.
+  * _\- To send periodic emails_  
+We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+  * **How we protect your information**
 
 We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
@@ -53,9 +63,12 @@ By using this Site, you signify your acceptance of this policy and [terms of ser
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Brouhaha LLC](http://shipyourenemiesglitter.com/)  
+[Brouhaha LLC](http://brouhahaowns.com/)  
 [shipyourenemiesglitter.com](http://shipyourenemiesglitter.com/)  
 shipyourenemiesglitter.com  
 yo@shipyourenemiesglitter.com
 
-This document was last updated on March 10, 2015 
+This document was last updated on March 29, 2015 
+
+
+
