@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aceable.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426004943id_/http%3A//www.aceable.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aceable.com privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929033050id_/http%3A//www.aceable.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,7 +30,7 @@ We reserve the right to change our policy for any reason necessary, but we will 
 
 ### V. Modification
 
-You may modify your personal information within the Aceable app. Should you wish to delete your Aceable account, you may contact [ace@aceable.com](mailto:ace@aceable.com) or call (512) 920-2236. A member of the Aceable team will be happy to help you.
+You may modify your personal information within the Aceable app. Should you wish to delete your Aceable account, you may contact [ace@aceable.com](mailto:ace@aceable.com). A member of the Aceable team will be happy to help you.
 
 ### VI. Opt-Out
 
@@ -42,4 +42,4 @@ While no method is absolutely secure, we can assure you we take every measure ne
 
 ### VIII. Contact
 
-We want to hear from you! Contact us at (512) 920-2236 with any questions concerning any of our policies. 
+We want to hear from you! with any questions concerning any of our policies. 
