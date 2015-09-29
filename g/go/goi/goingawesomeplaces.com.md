@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goingawesomeplaces.com privacy policy that was archived on 2015-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150405112948id_/http%3A//goingawesomeplaces.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goingawesomeplaces.com privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929124027id_/http%3A//goingawesomeplaces.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Going Awesome Places
 
