@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the profootballfocus.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615161709id_/https%3A//www.profootballfocus.com/about/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profootballfocus.com privacy policy that was archived on 2015-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150930012445id_/https%3A//www.profootballfocus.com/about/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | ProFootballFocus.com
 
@@ -90,5 +90,3 @@ We do not reveal specific information about our customers to parties outside of 
 **7)** **Your Acceptance of this Privacy Policy**
 
 By using the Website, you signify your agreement to the terms of this Privacy Policy. We may amend this Privacy Policy at any time. If we make a material change to the way in which we collect, use, and/or share your personal information, we will post a notice on the Website and / or send an email to users who have provided an email address. We will assume that you have given your permission for your information to be used under the terms of the Privacy Policy, as modified, if you do not respond to our email within thirty days or continue to use the Website thirty days after a notice is posted. Please note that you should always update your personal information to provide us with a current email address.
-
-[](http://twitter.com/intent/tweet?text=Privacy+Statement+http%3A%2F%2Fbit.ly%2FaJvQRn) [](http://digg.com/submit?url=http://www.profootballfocus.com/about/privacy-statement/&title=Privacy+Statement "Post to Digg") [](http://www.facebook.com/share.php?u=http://www.profootballfocus.com/about/privacy-statement/&t=Privacy+Statement) [](http://reddit.com/submit?url=http://www.profootballfocus.com/about/privacy-statement/&title=Privacy+Statement "Post to Reddit") [](http://stumbleupon.com/submit?url=http://www.profootballfocus.com/about/privacy-statement/&title=Privacy+Statement "Post to StumbleUpon")
