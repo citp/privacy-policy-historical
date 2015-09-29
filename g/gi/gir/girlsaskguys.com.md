@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the girlsaskguys.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228054206id_/http%3A//www.girlsaskguys.com/content/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsaskguys.com privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929103703id_/http%3A//www.girlsaskguys.com/content/privacy-policy.html) for the most accurate reproduction.*
 
-# GirlsAskGuys Privacy Policy - GirlsAskGuys.com
+# GirlsAskGuys Privacy Policy - GirlsAskGuys
 
 * * *
 
 Last Updated: 02/14/2014
 
- **INTRODUCTION**
-
-GirlsAskGuys' Privacy Policy is designed to help you understand how we collect and use the personal information you decide to share, and help you make informed decisions when using GirlsAskGuys, located at www.girlsaskguys.com and its directly associated domains (collectively, "GirlsAskGuys" or "website"). By using or accessing GirlsAskGuys, you are accepting the practices described in this Privacy Policy. GirlsAskGuys respects each individual’s right to personal privacy. We will collect and use information through our website (website also includes “mobile application”) only in the ways disclosed in this statement. This statement applies solely to information collected at GirlsAskGuys’ website. If you have any questions about this privacy policy, please contact us at [privacy@girlsaskguys.com](mailto:privacy@girlsaskguys.com). 
+ **INTRODUCTION** GirlsAskGuys' Privacy Policy is designed to help you understand how we collect and use the personal information you decide to share, and help you make informed decisions when using GirlsAskGuys, located at www.girlsaskguys.com and its directly associated domains (collectively, "GirlsAskGuys" or "website"). By using or accessing GirlsAskGuys, you are accepting the practices described in this Privacy Policy. GirlsAskGuys respects each individual’s right to personal privacy. We will collect and use information through our website (website also includes “mobile application”) only in the ways disclosed in this statement. This statement applies solely to information collected at GirlsAskGuys’ website. If you have any questions about this privacy policy, please contact us at [privacy@girlsaskguys.com](mailto:privacy@girlsaskguys.com). 
 
 **PART I. INFORMATION COLLECTION**
 
@@ -71,3 +69,5 @@ Some advertisements on GirlsAskGuys are sometimes delivered directly to users by
 **PART VIII. MODIFICATIONS TO THIS POLICY**
 
 We may modify this Policy in our discretion at any time. If we modify this Policy, we will post the new policy or any changes on this site and update the “Last Updated” date above. Your use of GirlsAskGuys after the later of (i) the date modifications to this Policy are posted on this site and (ii) the date such modifications are set to take effect, constitutes acceptance of the Policy, as modified, and from that time your use of GirlsAskGuys will be subject to the Policy, as modified. 
+
+[ ](https://web.archive.org/help/pop?id=451) Loading...
