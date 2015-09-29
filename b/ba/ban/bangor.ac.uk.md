@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bangor.ac.uk privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531001416id_/http%3A//www.bangor.ac.uk/corporate/cookies/index.php.en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangor.ac.uk privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929053433id_/http%3A//www.bangor.ac.uk/corporate/cookies/index.php.en) for the most accurate reproduction.*
 
 # The University
 
@@ -20,7 +20,7 @@ You may also wish to consult our;
 
   * [Freedom of Information Policy](http://www.bangor.ac.uk/ar/ro/recordsmanagement/freedomofinformation/index.php.en)
   * [Data Protection Policy](http://www.bangor.ac.uk/ar/ro/recordsmanagement/dataprotection/DPPolicy.php.en)
-  * [Privacy Policy (Website)](https://web.archive.org/web/20150531001416id_/http%3A//www.bangor.ac.uk/corporate/cookies/Privacy%20Policy.pdf)
+  * [Privacy Policy (Website)](https://web.archive.org/web/20150929053433id_/http%3A//www.bangor.ac.uk/corporate/cookies/Privacy%20Policy.pdf)
 
 
 
@@ -180,22 +180,6 @@ JSESSIONID | Session cookie - used within the BangorPortal system. No personal i
 UserAgentId | Session cookie - used within the BangorPortal system. No personal information is stored. Removed when you close your browser.  
 sctSession | Session cookie - used within the BangorPortal system. No personal information is stored. Removed when you close your browser.  
   
-## Online gazette
-
-The online gazette system (admint.bangor.ac.uk) set a single session cookie when the home page is visited. This cookie 'ASPSESSIONIDQQGQQHQF' does not store any personal data and is removed when you close your browser. Where used this cookiee is required for our site to function properly.
-
-## Webmail
-
-Our internal email system, Webmail, sets two cookies on its login page - which are used by Webmail to provide functionality once users have logged in. These are 'Horde' and 'auth_key'. These cookies do not store any personal data and they are removed when you close your browser. Where used this cookie is required for our site to function properly.
-
-## Inside.Bangor
-
-This internal system sets Googe Tracking cookies and two other cookies on its publicly visible homepage. These additional two cookies are a PHP session variable to manage login and identification. It's name is randomly generated but starts with 'SESS' and is set to the domain 'inside.bangor.ac.uk'. The second additional cookie is 'has_js' which is used to provide inside.bangor with information about your browsers ability to use Javascript. Neither of these two cookies store any personal data and they are removed when you close your browser. Where used this cookiee is required for our site to function properly.
-
-## Pontio.co.uk
-
-In addition to the Google Analytics cookies outlined above the Pontio site uses two cookies to store language preference. The 'int_pontio_language_bu' has a 12 month lifespan, the 'prefer-language' cookie is a session cookie and is removed when you close your browser. No personal data is stored in either of these cookies.
-
 ## Rejecting and disabling cookies via your browser settings
 
 You can choose not to accept cookies and still use the Bangor University web site, but some essential functionality may be lost. For example, user preferences will not be retained if cookies are disabled, and some parts of the site may not function as intended.
