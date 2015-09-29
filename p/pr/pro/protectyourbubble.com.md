@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the protectyourbubble.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408072132id_/http%3A//us.protectyourbubble.com/legal-information/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protectyourbubble.com privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929045617id_/https%3A//us.protectyourbubble.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Protect Your Bubble
+# Privacy Policy | privacy-policy
 
-****This notice is given to You pursuant to state law. It addresses personally identifiable information collected by Us about You when You visit or use this Site.
+This notice is given to You pursuant to state law. It addresses personally identifiable information collected by Us about You when You visit or use this Site.
 
 Assurant Solutions and its affiliated companies are committed to protecting the personal information entrusted to us by consumers who visit our website. The trust you place in us when you share personal information and/or the personal information of another person or entity is a responsibility we take very seriously and is the cornerstone of how we conduct our business.
 
