@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northshorelij.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318152941id_/https%3A//www.northshorelij.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northshorelij.com privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929131609id_/https%3A//www.northshorelij.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | North Shore-LIJ Health System
 
