@@ -1,38 +1,184 @@
-> *The following text is extracted and transformed from the lyoness.ag privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115123725id_/http%3A//www.lyoness.net/us/datenschutzerklaerung.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyoness.ag privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929042423id_/https%3A//www.lyoness.com/us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Lyoness | Privacy Policy
 
-## What Information We Collect and Why
+## PRIVACY STATEMENT
 
-At Lyoness.net/US (our “Site”) Lyoness America, Inc. and its affiliates (“Lyoness” or “we”) aim to provide our members with the most current shopping information and keep them informed of the best deals on relevant products, in order to maximize their “Cashback” rewards. The primary way we accomplish these goals is by utilizing the power of our consumer membership base to gain access to special deals and promotions and to negotiate sales commissions from well-known national retailers, as well as specialty boutiques (our “Loyalty Merchants”). We then share this commission with you, as a Lyoness member, in the form of cash or equivalent rewards. Consequently, when you first register with Lyoness, we ask you to provide your name, email address and mobile phone number so we can notify you of your Cashback rewards. Lyoness.net/US may also collect certain information online deriving from your navigation of our Site and our Loyalty Merchants. We collect this information to ensure that you receive your Cashback rewards and to better understand what type of stores and specials to pursue. Once logged into the Lyoness portal, if you visit one of our Loyalty Merchants to make a purchase, the transaction is reported by the merchant directly to Lyoness. This notification occurs to help ensure that your Cashback rewards are properly credited to your account. No individual payment information is received by our Site.
+We take the protection of your personal data very seriously and strive to make sure that the use of our services is secure. We are committed to following the legal guidelines for data protection. This privacy statement serves to detail which data we collect from you and how we protect it. 
 
-Lyoness.net/US uses cookie technology to provide general information on site traffic trends such as most frequently visited pages or Loyalty Merchants. This information is captured on an aggregate basis, is not specific to individual users and enables us to continually improve our Site content and navigation. We also use cookie technology for login and navigation between the various components of our Site.  
-On occasion, we offer our users third-party company offers and promotions via our Site. Please note that we may also retain any personal information that you provide on our Site to take advantage of such third-party offers. 
+Table of contents 
 
-## How We Ensure the Security of Your Information
+1\. Scope  
+2\. Gathered data  
+3\. Cookies  
+4\. Use of data  
+5\. Data security and transfer  
+6\. Right of revocation, information, data changes and contact 
 
-Lyoness.net/US has security measures in place to protect the information within our control from loss, misuse or alteration. We have appropriate industry standard procedures in place to safeguard the confidentiality of your personal information, such as firewall and Secure Socket Layer (SSL) encryption. However, no data transmitted over the Internet can be 100% secure. Consequently, while we make every effort to protect your personal information, any information that you provide to Lyoness.net/US or its Loyalty Merchants is transmitted at your own risk.
+Scope 
 
-## With Whom We Share Your Information
+This statement shall apply to Lyoness Members as well as to the Lyoness Website retrievable under http:/www.lyoness.com. Please note that this website will refer you to other Lyoness websites including those for other countries for which other data protection rules may apply. Within the framework of further development of our websites, in order to improve our services, we may have to amend this privacy statement from time to time. In this event, we will provide you with corresponding information and request your express consent. Stored data Personal data shall include all data detailing personal or material circumstances we received from you in connection with your Lyoness Membership that can be directly or indirectly (i.e. via your membership number) attributed to you. This shall include: your full name, date of birth, postal address, telephone number, E-Mail address and bank information as well as any purchasing data in connection with your Lyoness Membership. 
 
-Our primary use of your personal information is to process your Cashback reward checks and to maintain your Member account. Your browser activity may be used to trigger personalized shopping alerts as our Site evolves to include this feature. Lyoness may also store and use your personal information for our own internal mailing and database purposes. The composite tracking information generated by cookies, as outlined above, may be shared with third-parties for the purpose of documenting site activity and other trends. In the course of our day-to-day business, we may employ outside companies and individuals to perform functions for us, such as removing duplicate information from customer lists or providing database analysis. These vendors have access to the personal information needed to perform their functions, but may not use it for other purposes. All emails distributed by Lyoness have simple opt-out mechanisms should you decide you do not want to receive these offers from us.
+Cookies 
 
-## Your privacy as related to our Loyalty Merchants
+Use of Cookies on This Site A "cookie" is a small data file stored on your computer's hard drive via your web browser that allows a Web site to respond to you as an individual, gathering and remembering information about your preferences in order to tailor its operation to your needs, likes and dislikes. Overall, cookies are safe, as they only identify your computer to customize your Web experience. Accepting a cookie does not provide access to your computer or any Personally Identifiable Information about you, other than the information you choose to share. Our servers are stored in the country of Lichtenstein. Other servers cannot read them, nor can they be used to deliver a virus. Most browsers automatically accept cookies, but you can usually adjust yours (Microsoft Internet Explorer, Google Chrome, etc.) to notify you of cookie placement requests, refuse certain cookies, or deny cookies completely. Our Site may send cookies to your computer’s hard drive to enhance your experience when visiting our Site. We do not use “surveillance” cookies that track your web activity outside of our Site. 
 
-In order to grant your Cashback rebate, our Loyalty Merchants pass back to us the amount of your order as well as your unique Member ID. With these two pieces of information, we are able to make sure the right rebate goes to the right person. Our Site contains links to our Loyalty Merchants. Each of these stores maintains its own privacy statement and we encourage you to read these individual policies. We can neither enforce nor monitor the Privacy Policies of Loyalty Merchants. This Privacy Policy applies solely to information collected by Lyoness on our Site. Lyoness does not bear any responsibility for any actions or policies of third-party Web sites including all framed sites. Moreover, Lyoness disclaims all responsibility for the subsequent use of an email address or any other personally identifiable information you have provided to Loyalty Merchants.
+Links to Other Web Sites 
 
-## How you can change, correct and update your information
+Links to third-party Web sites may be provided solely for your information and convenience. If you use these links, you will leave our Site. This Privacy Statement does not cover the information practices of those Web sites linked to our Site, nor do we control their content or privacy policies. We suggest that you carefully review the privacy policies of each site you visit. You can access some of our website offers without having to register and/or log in. In this case certain information will be gathered automatically in order to collect statistical data regarding the usage and efficiency of our web offers and to adapt them to the needs of our users. For this reason, we collect data via your IP, the time and duration of your visit, the number of visits, use of forms and the like. The storage period of the cookies varies. We mainly use cookies that are automatically deleted after your visit to our website. We record every access to our site and the download of every file on our website. The cookies placed by us are used exclusively for informational purposes and will not be made available to any third parties. 
 
-As a Lyoness Member, you can change the information we have on file for you at any time, simply by logging in and making your desired changes. Upon enrollment, Lyoness Members are opted-in to receive Lyoness Cashback newsletters and special email promotions. Lyoness announces its latest deals and special offers in these emails, sometimes before they are posted on our Site. On every one of these emails you are given the choice to unsubscribe from the mailing. You may also login to our Site and change your email preferences. For your security, you will be prompted to login before updating any account information. Please allow up to 7 days to process your email request or account changes. You may receive several additional emails from us while we are processing your unsubscribe request. 
+In addition, we use Google Analytics to identify your online activities on our site, to register how many users visit us on the internet, to record what content is being viewed on your computer and how often. The evaluation of the results, however, is anonymous. The Google Analytics cookies are stored in your computer and can be evaluated by Google. In concrete terms, we use the Google Analytics Tool Anonymous IP, demographic data and interests. For additional information please refer to <https://support.google.com/analytics/answer/6004245?hl=en>. Under <https://tools.google.com/dlpage/gaoptout?hl=en>. Goog l e Ana l y t i c s of f e r s the opt ion to r e fus e the col l e c t ion of da ta . 
 
-## Miscellaneous
+_Cookie_
 
-As Lyoness changes and grows, we might sell or buy companies, subsidiaries, or assets. In such transactions, customer information generally is one of the transferred business assets. Also, in the event that Lyoness or substantially all of its assets are acquired, your member information may be one of the transferred assets. By enrolling in the Lyoness Loyalty Program, you agree that you have read, understand and agree with our Privacy Policy, and the Membership Agreement, in its entirety and consent to be bound by all said Terms and Conditions. You further acknowledge the right of Lyoness to change this policy, without prior notification, and our commitment to post any such changes on this page so that you are fully informed. We encourage our members to check back from time to time to view the most recent version of this Policy. 
+| 
 
-## Contact Us
+_Parameter_
 
-If you have any questions about this Privacy Policy please contact our Privacy Policy Officer by email office@lyoness.us, fax: 646-537-1728 or mail to:  
-Lyoness America  
-350 5th Ave., Suite 2710  
-New York, NY 10118 _  
-_
+| 
+
+_Purpose_
+
+| 
+
+_Functionality_  
+  
+---|---|---|---  
+  
+_/y_ _o_ __it_ ___ _accept_ ___ _cookie_
+
+| 
+
+_True_
+
+| 
+
+_This cookie serves to get the visitor’s consent_
+
+| 
+
+_In order for the visitor to withdraw his consent, he must delete this cookie from his own browser_  
+  
+- _utma_   
+- _utmb_   
+- _utmc_   
+- _utmz_
+
+| 
+
+_Google_   
+_Analytics_
+
+| 
+
+_These cookiesserve to collect information: how the visitor uses the website (time, day of the week) and how often._ _This information is used to improve the Website- Service._
+
+| 
+
+_For additional information, please refer to Google Privacy_  
+  
+ASP. _NET_Sessionld_
+
+| 
+
+_ID_
+
+| 
+
+_This cookieserves to clearly identify a visitor._
+
+| 
+
+_The session-IDis saved in a cookie._  
+  
+_Lyo-Search-Settings_
+
+| 
+
+_Tre_ _e_ _Type_
+
+| 
+
+_Cookie to save search views_ _._
+
+| 
+
+_The desired view of search results are saved per cookie_  
+  
+_lyo_box_account_info_settings_
+
+| 
+
+_true/false_
+
+| 
+
+_Cookie to fold and unfold data in the account overview_
+
+| 
+
+_The view of account information can be activated and/or deactivated through this cookie._ _._  
+  
+_popup_lyoness3steps_closed_
+
+| 
+
+_true/false_
+
+| 
+
+_A pop-up will appear on the first visit with explanations regarding Lyoness_
+
+| 
+
+_Cookie to control pop-ups. As soon as it is closed, the explanations will no longer appear at the next visit._  
+  
+Please note that conventional Internet browsers accept cookies pursuant to default settings. You can set your browser to refuse all or certain cookies or to get your permission prior to the acceptance of a new cookie. Most browsers provide corresponding instructions under the “help” menu item on the menu list. You will also find instructions there on how to delete any already received cookies. Please note that you may not be able to use all the functions on our website if you do not accept cookies. Through the use of our website you express your consent to the use of the above listed cookies. 
+
+Use of data 
+
+Lyoness uses your personal data in full compliance with statutory stipulations. The personal data provided by you upon registration as a Lyoness Member and during the course of your Membership will be strictly collected and processed within the framework of fulfilling our contractual duties to you and only if you give us your express consent. We will use your data to communicate with you, in order to verify your identity, to enable you to access your personal Member section on the Lyoness Website, to process your inquiries and orders and to make our services available to you. In addition, we use your data to determine and assign the corresponding Member Benefits arising from your Membership in the Lyoness Loyalty Program to you. If we have your separate consent to do so, we will use your data to let you know, e.g. about any sales and specials that our Loyalty Merchant companies are offering. 
+
+Data Security and transfer 
+
+In order to protect your data, among other things, we implement encryptions during data transmission (SSL-Encryption), firewalls, hackerdeterring programs and additional security methods based on state-of-the-art technology. The use of your personal data will basically take place through Lyoness Europe AG as the contractual party of the Members, which uses the individual regional companies as well as the Lyoness Group AG for processing purposes. Your personal data can, however, be forwarded to certain service providers as well within the Lyoness Group as follows: We are authorized to use certain service providers to assist us with the processing of our services, the communication with our Members and the administration of our online presence. We guarantee that we carefully select these service providers in order to ensure legal and safe data processing. In addition, these service providers have pledged to use any personal data solely for the intended purpose pursuant to our instructions and in accordance with the Austrian data protection provisions. You can find a complete list of all companies comprising the Lyoness Group on the following website:  
+<http://www.lyoness-corporate.com/en-US/Company/Organisation/>. 
+
+The concerned services include but are not limited to the following: contact via electronic means (e.g. Email or SMS), via social media (such as Facebook, etc.) by fax, telephone or postal mail regarding information on products and campaigns offered by Loyalty Merchant companies, the identification of sales which correspond with your interests, taking satisfaction surveys, the operation of hotlines as well as the processing of transactions. If your personal information is required in order to provide a concrete service to you, we will give the Loyalty Merchant companies the necessary personal data. The Loyalty Merchant companies, in turn are obligated to use your data exclusively for the respective specific usage pursuant to the Austrian data protection provisions. Lyoness is an internationally active Group. Our business activities, management structures and technical infrastructure cross national borders. We are therefore able to send your personal data abroad. The transmission of your personal data to the Members of the European Economic area, to Switzerland and to other countries with an adequate level of data protection (§12 Par. 2 DSG 2000) does not require further consent. However, in the event that your personal data is to be sent to countries other than the ones detailed above, we will ask for your express prior consent. We will not forward your personal information to any persons other than those associated businesses, service providers and Lyoness companies detailed above. The forwarding of any such information which may be required for the purpose of executing an agreement shall be subject to your express prior consent. 
+
+Children's Privacy Protection 
+
+We take special care to protect the privacy needs of children under the age of 13 and encourage parents to be an active participant in their child's online activities. We abide by the requirements of the Children's Online Privacy Protection Act (COPPA) and other relevant laws. Our Site does not target and is not intended for children under the age of 13, and we will not knowingly collect Personally Identifiable Information from them. If we discover personal data from a child through an adult-oriented site, we will eliminate that data. Right of revocation, information, data changes and contact You have the option of revoking your consent to the use of your data in the future at any time without providing a reason. Such a revocation will make any further use of your data inadmissible. The revocation may be sent in writing (by letter, fax or Email) to the following address: 
+
+LYONESS America Inc.  
+350 Fifth Avenue Suite 2710  
+New York NY 10118  
+Tel: +1 646-537-2547  
+Fax: +1 646-537-1728  
+Email: office@lyoness.us
+
+Please contact us at this address for any questions regarding the use of your data in order to update and/or correct your information. 
+
+## DATA PROTECTION JOB PORTAL
+
+Lyoness is committed to providing equal opportunity employment to its staff and is extremely proud of the diversity of its team. All qualified applicants form part of the selection process without discrimination on the basis of ethnic origin, race, religion, gender, sexual orientation, nationality, disability or age. 
+
+The following data will be collected: 
+
+Since www.lyoness.corporate.com is an international job portal in which job vacancies are advertised for all branches and subsidiaries of the Lyoness Group, you may first have to select the country you wish to work in. After making this initial pre-selection, you will be transferred to the country-specific job fair. You can find a complete list of all companies comprising the Lyoness group, some of which will naturally be abroad, on the following web site:  
+<http://www.lyoness-corporate.com/en-US/Company/Organisation/>
+
+If you apply for one of the jobs advertised on our website, you we be asked to fill out an application and/or upload information. The personal data we collect and save are your title, first name, last name, address including street address, zip code and city, date of birth, native tongue, nationality, Email address, telephone number, highest completed level of education, desired salary, gross annual salary and earliest start date. In addition, you can list any special knowledge and qualifications such as IT skills, language skills, etc. In addition you can provide information regarding your education and training, professional experience, etc. You also have the option of uploading files onto our server such as, e.g. your curriculum vitae, personal statement, photo, transcripts, and any additional information relevant to the job. In addition, you can send us a message in the text field provided for this purpose. Since Lyoness is well aware that the national laws of individual countries may not allow us to request all of the above detailed data, we have only inserted the minimum number of absolutely required fields such as last name and contact address. Your personal data will be used exclusively to process your application. By using the Lyoness website you give your consent to the electronic storage and further processing of the personal data provided by you within the Lyoness group. 
+
+Right of revocation, information, data changes and contact 
+
+You have the option of revoking your consent to the use of your data in the future at any time without providing a reason. Such a revocation will make any further use of your data inadmissible. The revocation may have to be sent in writing (by letter, fax or Email) to the following address: 
+
+LYONESS America Inc.  
+350 Fifth Avenue Suite 2710  
+New York NY 10118  
+Tel: +1 646-537-2547  
+Fax: +1 646-537-1728  
+Email: office@lyoness.us
+
+Upon request, we will naturally let you know what applicant data we have on file for you. In addition, you can amend the data or have it deleted at any time. If you do not wish for us to keep your application information in our files for a period exceeding one year following the end of the selection process, please let us know by sending us an E-Mail to the above address.
