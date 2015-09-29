@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialspew.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629091637id_/http%3A//socialspew.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialspew.com privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929042755id_/http%3A//socialspew.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
