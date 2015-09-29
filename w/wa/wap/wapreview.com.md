@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wapreview.com privacy policy that was archived on 2015-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150501182040id_/http%3A//wapreview.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wapreview.com privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929062838id_/http%3A//wapreview.com/privacy) for the most accurate reproduction.*
 
-# Wap Review » Privacy
+# Privacy | Wap Review
 
 The privacy of our visitors to _WapReview.com_ is important to us.
 
