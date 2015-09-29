@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the upsidecard.com privacy policy that was archived on 2013-10-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131025192754id_/http%3A//www.upsidecard.com/PrivatePolicy.aspx%3Fsitemode%3Dlife) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the upsidecard.com privacy policy that was archived on 2015-09-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150930002542id_/http%3A//www.upsidecard.com/PrivatePolicy.aspx%3Fsitemode%3Dlife) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <title>
         Privacy Policy: Privacy Policy for UPside Visa Prepaid Cards
     </title>
     <link rel="shortcut icon" href="/images/favicon1.ico" type="image/x-icon">
-<meta name="contact_addr" content="UPside Program, 155 Broad Street, 23rd Floor, New York, NY 10004 ">
+<meta name="contact_addr" content="UPside Program, 155 Broad Street, 7th Floor, New York, NY 10004 ">
 <meta name="Copyright" content="Plastyc, Inc.">
 <meta name="description" content="The UPside Visa prepaid debit card is the most cost-effective and responsible way to manage your money. No debt. No overdraft fees. For more information on prepaid credit cards, visit UpSideCard.com today!">
 <meta name="Distribution" content="global">
@@ -29,7 +29,6 @@
     <script type="text/javascript" language="javascript">
     //<![CDATA[
     function showActivationCodePopup() { frameHolder.frames['frameActivation'].show(true); }
-    function showPaymentCheckServicePopup() { frameHolder.frames['framePaymentCheckService'].show(true); }
     function showCompareCardsPopup() { document.getElementById('popupNewCompareCards').style.display = "block"; $('popupNewCompareCards').obj.show(true); }
     function showChexSystemsPopup() { $('popupChexSystems').obj.show(true); }
     function showUPsideCardVideo() { frameHolder.frames['frameUPsideVideo'].show(true); }
@@ -38,7 +37,6 @@
     function showRewardProgramPopup() {
           $('popupHolder_popupCustomMessageBox_lPopupCustomMessageBox_Header').innerHTML = 'Reward Program';$('popupHolder_popupCustomMessageBox_lPopupMessageBox_Content').innerHTML = '<div style=\"width:620px;\">\n<h3>UPside is the only prepaid card with a true rewards program that gives you cash back!</h3>\n<table cellpadding=\"0\" cellspacing=\"0\" class=\"noborder nospacing\">\n  <tr>\n    <td>\n      <img src=\"/images/get-rewards.gif\" alt=\"Easy Sign-up\" style=\"float: left;height:80px; padding-right:10px;\" />\n    </td>\n    <td>\n<ul class=\"bullet-list-type1\">\n<li>Earn 500 points when activating  your card online</li>\n<li>Earn 1000 points when you sign-up for direct deposit</li>\n<li>Earn points worth up to 15% in cash back when shopping online at leading online retailers through the UPside mall</li>\n<li>Earn 3 points per dollar spent on prepaid cell phone service purchases</li>\n</ul>\n    </td>\n  </tr>\n</table>\n<h3>Get rewarded fast: redeem 2,000 points and receive $20 credited directly to your card.</h3>\n<center><span style=\"font-size: x-small; color: gray;\">This optional offer is not a MetaBank product or service nor does MetaBank endorse this offer.</span></center>\n</div>';$('popupCustomMessageBox').obj.show(true);
     }
-    function ShowPaymentCheckTC() { popupCheckTCHolder.frames['popupCheckTCFrame'].show(true); }
     function moveCertificate() {
         var item = document.getElementById("body_masterpage").childNodes[0];
         if (item.nodeType == 1 && item.title == "Coalfire Certificate Verification")
@@ -46,6 +44,16 @@
             document.getElementById("certificate").appendChild(item);
         }
     };
+
+    function showNavigationConfirmationPopup(anchorHref, newWindow, isDomainMaintained) {
+        document.getElementById("nav-ext-text").style.display = !isDomainMaintained ? 'inline' : 'none';
+        document.getElementById("nav-mt-text").style.display = isDomainMaintained ? 'inline' : 'none';
+        document.getElementById('nav-confirm-btn').onclick = function() {
+            newWindow ? window.open(anchorHref, '_blank') : location.href = anchorHref;
+            $('popupNavigationExternal').obj.close(true);
+        };
+        $('popupNavigationExternal').obj.show(true);
+    }
 
     
 var _gaq = _gaq || [];
@@ -66,8 +74,9 @@ _gaq.push(['_trackPageview']);
     <meta http-equiv="Cache-Control" content="no-cache">
 </head>
 <body class="body_masterpage" id="body_masterpage" onload="">
+<div id="supportedBrowsers" style="display: none;">We have detected that you are using an old version of Internet Explorer or you are using Compatibility View for old IE standards. We recommend that you update your IE browser version for a better user experience.</div>
 <form method="post" action="PrivatePolicy.aspx?sitemode=life" id="formMasterPage">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTExMDc4NjQ1MzQPZBYCZg9kFgQCBQ9kFggCAw9kFgQCAw8WAh4EVGV4dAWkBzxkaXYgY2xhc3M9InRhYiI+CiAgPGEgaHJlZj0iaHR0cDovL3d3dy51cHNpZGVjYXJkLmNvbS9MZWFybk1vcmUuYXNweCIgdGl0bGU9IkdldCB0aGUgZnVsbCBwaWN0dXJlIj5MZWFybiBNb3JlPC9hPgo8L2Rpdj4gCjxkaXYgY2xhc3M9InRhYiI+CiAgPGEgaHJlZj0iaHR0cDovL3d3dy51cHNpZGVjYXJkLmNvbS9GQVEuYXNweCIgdGl0bGU9IkxlYXJuIGhvdyB0aGUgVVBzaWRlIENhcmQgd29ya3MiPkZBUTwvYT4KPC9kaXY+IAo8ZGl2IGNsYXNzPSJ0YWIiPgogIDxhIGhyZWY9Imh0dHA6Ly93d3cudXBzaWRlY2FyZC5jb20vU2VlVGhlQ2FyZC5hc3B4IiBvbmNsaWNrPSJyZXR1cm4gcG9wdXAodGhpcywncGFyZW4nLCc1ODAnKTsgcmV0dXJuIGZhbHNlOyIgdGl0bGU9IlNlZSB0aGUgYXZhaWxhYmxlIGNhcmQgZ3JhcGhpY3MiPlRoZSBDYXJkczwvYT48L2Rpdj4gPGRpdiBjbGFzcz0idGFiIHNpZ251cCI+ICA8YSBocmVmPSJodHRwOi8vd3d3LnVwc2lkZWNhcmQuY29tL3NpZ24tdXAvIiB0aXRsZT0iRnJlZSBzaWduIHVwIHRha2VzIGxlc3MgdGhhbiA1JyI+U2lnbi11cDwvYT4KPC9kaXY+IAo8ZGl2IGNsYXNzPSJ0YWIgbG9naW4iPgogIDxhIGhyZWY9Imh0dHBzOi8vd3d3LnVwc2lkZWNhcmQuY29tL0xvZ2luLmFzcHgiIHRpdGxlPSJIYXZlIGEgdXNlcm5hbWUgYW5kIHBhc3N3b3JkPyBDbGljayBoZXJlLiI+TG9naW48L2E+CjwvZGl2PiAKPGRpdiBjbGFzcz0idGFiIHVwc2lkZW1hbGwiPgogIDxhIGhyZWY9Imh0dHA6Ly93d3cudXBzaWRlbWFsbC5jb20vIiB0YXJnZXQ9Il9ibGFuayIgdGl0bGU9IlZpc2l0IHRoZSBVUHNpZGUgTWFsbC4gVGhpcyBvcHRpb25hbCBvZmZlciBpcyBub3QgYSBNZXRhQmFuayBwcm9kdWN0IG9yIHNlcnZpY2Ugbm9yIGRvZXMgTWV0YUJhbmsgZW5kb3JzZSB0aGlzIG9mZmVyLiI+TWFsbDwvYT4KPC9kaXY+ZAIJDxYCHwAF5wQ8YSBocmVmPSJodHRwOi8vd3d3LnVwc2lkZWNhcmQuY29tIj5Ib21lPC9hPiB8IDxhIGhyZWY9IiMiIG9uY2xpY2s9InNob3dDb250YWN0VXNQb3B1cCgpOyByZXR1cm4gZmFsc2U7Ij5Db250YWN0IFVzPC9hPiB8IDxhIGhyZWY9Imh0dHA6Ly93d3cudXBzaWRlY2FyZC5jb20vUHJpdmF0ZVBvbGljeS5hc3B4P3NpdGVtb2RlPWxpZmUiPlByaXZhY3kgUG9saWN5PC9hPiB8IDxhIGhyZWY9Imh0dHA6Ly93d3cudXBzaWRlY2FyZC5jb20vVEMuYXNweD9zaXRlbW9kZT1saWZlIj5UZXJtcyAmIENvbmRpdGlvbnM8L2E+IHwgPGEgaWQ9InNlZUFsbEZlZXMiIGhyZWY9Imh0dHA6Ly93d3cudXBzaWRlY2FyZC5jb20vVEMuYXNweD9zaXRlbW9kZT1saWZlI2ZlZVRhYmxlIj5TZWUgQWxsIEZlZXM8L2E+IHwgPGEgaHJlZj0iaHR0cDovL3d3dy51cHNpZGVjYXJkLmNvbS9BYm91dC5hc3B4P3NpdGVtb2RlPWxpZmUiPkFib3V0IFBsYXN0eWM8L2E+IHwgPGEgaHJlZj0iaHR0cDovL3d3dy51cHNpZGVjYXJkLmNvbS9GQVEuYXNweD9zaXRlbW9kZT1saWZlIj5GQVE8L2E+IHwgPGEgaHJlZj0iaHR0cDovL3d3dy51cHNpZGVjYXJkLmNvbS9IZWxwLmFzcHg/c2l0ZW1vZGU9bGlmZSI+SGVscDwvYT5kAgcPZBYIZg8PZBYCHgVzdHlsZQU0cG9zaXRpb246YWJzb2x1dGU7bGVmdDowcHg7dG9wOjBweDtib3JkZXItd2lkdGg6MXB4O2QCAQ8PZBYCHwEFQHBvc2l0aW9uOmFic29sdXRlO2xlZnQ6MHB4O3RvcDowcHg7d2lkdGg6NDUwcHg7Ym9yZGVyLXdpZHRoOjFweDtkAgIPD2QWAh8BBU1kaXNwbGF5Om5vbmU7cG9zaXRpb246YWJzb2x1dGU7bGVmdDowcHg7dG9wOjBweDt3aWR0aDo2MDBweDtib3JkZXItd2lkdGg6MXB4O2QCAw8PZBYCHwEFNHBvc2l0aW9uOmFic29sdXRlO2xlZnQ6MHB4O3RvcDowcHg7Ym9yZGVyLXdpZHRoOjFweDtkAgkPZBYIZg8PFgIeA1NyYwUtaHR0cDovL3d3dy51cHNpZGVjYXJkLmNvbS9BY3RpdmF0aW9uQ29kZS5hc3B4ZGQCAQ8PFgIfAgUmaHR0cDovL3d3dy51cHNpZGVjYXJkLmNvbS9Db250YWN0LmFzcHhkZAICDw8WAh8CBTJodHRwOi8vd3d3LnVwc2lkZWNhcmQuY29tL1BheW1lbnRDaGVja1NlcnZpY2UuYXNweGRkAgMPDxYCHwIFKmh0dHA6Ly93d3cudXBzaWRlY2FyZC5jb20vVVBzaWRlVmlkZW8uYXNweGRkAgsPZBYCZg8PFgIfAgUtaHR0cDovL3d3dy51cHNpZGVjYXJkLmNvbS9QYXltZW50Q2hlY2tUQy5hc3B4ZGQCBg8WAh8ABY8DPCEtLSBTdGFydCBRdWFudGNhc3QgdGFnIC0tPgo8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+Ci8vPCFbQ0RBVEFbCl9xb3B0aW9ucz17CnFhY2N0OiJwLTMyQ0hfS0cwWWVZak0iCn07Ci8vXV0+Cjwvc2NyaXB0Pgo8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPSJodHRwOi8vZWRnZS5xdWFudHNlcnZlLmNvbS9xdWFudC5qcyI+PC9zY3JpcHQ+Cjxub3NjcmlwdD4KPGltZyBzcmM9Imh0dHA6Ly9waXhlbC5xdWFudHNlcnZlLmNvbS9waXhlbC9wLTMyQ0hfS0cwWWVZak0uZ2lmIiBzdHlsZT0iZGlzcGxheTogbm9uZTsiIGJvcmRlcj0iMCIgaGVpZ2h0PSIxIiB3aWR0aD0iMSIgYWx0PSJRdWFudGNhc3QiLz4KPC9ub3NjcmlwdD4KPCEtLSBFbmQgUXVhbnRjYXN0IHRhZyAtLT4KZGSdliEoacTGdQh52EDUioz0g8hHlw==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTExMDc4NjQ1MzQPZBYCZg9kFgQCBQ9kFgYCAw9kFgQCAw8WAh4EVGV4dAWpBzxkaXYgY2xhc3M9InRhYiI+PGEgaHJlZj0iaHR0cDovL3d3dy51cHNpZGVjYXJkLmNvbS9MZWFybk1vcmUuYXNweCIgdGl0bGU9IkdldCB0aGUgZnVsbCBwaWN0dXJlIj5MZWFybiBNb3JlPC9hPjwvZGl2PgoKPGRpdiBjbGFzcz0idGFiIj48YSBocmVmPSJodHRwOi8vd3d3LnVwc2lkZWNhcmQuY29tL0ZBUS5hc3B4IiB0aXRsZT0iTGVhcm4gaG93IHRoZSBVUHNpZGUgQ2FyZCB3b3JrcyI+RkFRPC9hPjwvZGl2PgoKPGRpdiBjbGFzcz0idGFiIj48YSBocmVmPSJodHRwOi8vd3d3LnVwc2lkZWNhcmQuY29tL1NlZVRoZUNhcmQuYXNweCIgY2xhc3M9InNlZS10aGUtY2FyZC1saW5rIiBvbmNsaWNrPSJyZXR1cm4gcG9wdXAodGhpcywncGFyZW4nLCc1ODAnKTsgcmV0dXJuIGZhbHNlOyIgdGl0bGU9IlNlZSB0aGUgYXZhaWxhYmxlIGNhcmQgZ3JhcGhpY3MiPlRoZSBDYXJkczwvYT48L2Rpdj4KCjxkaXYgY2xhc3M9InRhYiBzaWdudXAiPjxhIGhyZWY9Imh0dHA6Ly93d3cudXBzaWRlY2FyZC5jb20vc2lnbi11cC8iIHRpdGxlPSJGcmVlIHNpZ24gdXAgdGFrZXMgbGVzcyB0aGFuIDUnIj5TaWduLXVwPC9hPjwvZGl2PgoKPGRpdiBjbGFzcz0idGFiIGxvZ2luIj48YSBocmVmPSJodHRwczovL3d3dy51cHNpZGVjYXJkLmNvbS9Mb2dpbi5hc3B4IiB0aXRsZT0iSGF2ZSBhIHVzZXJuYW1lIGFuZCBwYXNzd29yZD8gQ2xpY2sgaGVyZS4iPkxvZ2luPC9hPjwvZGl2PgoKPGRpdiBjbGFzcz0idGFiIHVwc2lkZW1hbGwiPjxhIGhyZWY9Imh0dHA6Ly93d3cudXBzaWRlbWFsbC5jb20vIiB0YXJnZXQ9Il9ibGFuayIgdGl0bGU9IlZpc2l0IHRoZSBVUHNpZGUgTWFsbC4gVGhpcyBvcHRpb25hbCBvZmZlciBpcyBub3QgYSBNZXRhQmFuayBwcm9kdWN0IG9yIHNlcnZpY2Ugbm9yIGRvZXMgTWV0YUJhbmsgZW5kb3JzZSB0aGlzIG9mZmVyLiI+TWFsbDwvYT48L2Rpdj5kAgkPFgIfAAXnBDxhIGhyZWY9Imh0dHA6Ly93d3cudXBzaWRlY2FyZC5jb20iPkhvbWU8L2E+IHwgPGEgaHJlZj0iIyIgb25jbGljaz0ic2hvd0NvbnRhY3RVc1BvcHVwKCk7IHJldHVybiBmYWxzZTsiPkNvbnRhY3QgVXM8L2E+IHwgPGEgaHJlZj0iaHR0cDovL3d3dy51cHNpZGVjYXJkLmNvbS9Qcml2YXRlUG9saWN5LmFzcHg/c2l0ZW1vZGU9bGlmZSI+UHJpdmFjeSBQb2xpY3k8L2E+IHwgPGEgaHJlZj0iaHR0cDovL3d3dy51cHNpZGVjYXJkLmNvbS9UQy5hc3B4P3NpdGVtb2RlPWxpZmUiPlRlcm1zICYgQ29uZGl0aW9uczwvYT4gfCA8YSBpZD0ic2VlQWxsRmVlcyIgaHJlZj0iaHR0cDovL3d3dy51cHNpZGVjYXJkLmNvbS9UQy5hc3B4P3NpdGVtb2RlPWxpZmUjZmVlVGFibGUiPlNlZSBBbGwgRmVlczwvYT4gfCA8YSBocmVmPSJodHRwOi8vd3d3LnVwc2lkZWNhcmQuY29tL0Fib3V0LmFzcHg/c2l0ZW1vZGU9bGlmZSI+QWJvdXQgUGxhc3R5YzwvYT4gfCA8YSBocmVmPSJodHRwOi8vd3d3LnVwc2lkZWNhcmQuY29tL0ZBUS5hc3B4P3NpdGVtb2RlPWxpZmUiPkZBUTwvYT4gfCA8YSBocmVmPSJodHRwOi8vd3d3LnVwc2lkZWNhcmQuY29tL0hlbHAuYXNweD9zaXRlbW9kZT1saWZlIj5IZWxwPC9hPmQCBw9kFgpmDw9kFgIeBXN0eWxlBTRwb3NpdGlvbjphYnNvbHV0ZTtsZWZ0OjBweDt0b3A6MHB4O2JvcmRlci13aWR0aDoxcHg7ZAIBDw9kFgIfAQVAcG9zaXRpb246YWJzb2x1dGU7bGVmdDowcHg7dG9wOjBweDt3aWR0aDo0NTBweDtib3JkZXItd2lkdGg6MXB4O2QCAg8PZBYCHwEFTWRpc3BsYXk6bm9uZTtwb3NpdGlvbjphYnNvbHV0ZTtsZWZ0OjBweDt0b3A6MHB4O3dpZHRoOjYwMHB4O2JvcmRlci13aWR0aDoxcHg7ZAIDDw9kFgIfAQU0cG9zaXRpb246YWJzb2x1dGU7bGVmdDowcHg7dG9wOjBweDtib3JkZXItd2lkdGg6MXB4O2QCBA8PZBYCHwEFQHBvc2l0aW9uOmFic29sdXRlO2xlZnQ6MHB4O3RvcDowcHg7d2lkdGg6NDAwcHg7Ym9yZGVyLXdpZHRoOjFweDtkAgkPZBYGZg8PFgIeA1NyYwUtaHR0cDovL3d3dy51cHNpZGVjYXJkLmNvbS9BY3RpdmF0aW9uQ29kZS5hc3B4ZGQCAQ8PFgIfAgUmaHR0cDovL3d3dy51cHNpZGVjYXJkLmNvbS9Db250YWN0LmFzcHhkZAICDw8WAh8CBSpodHRwOi8vd3d3LnVwc2lkZWNhcmQuY29tL1VQc2lkZVZpZGVvLmFzcHhkZAIIDxYCHwAFjwM8IS0tIFN0YXJ0IFF1YW50Y2FzdCB0YWcgLS0+CjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4KLy88IVtDREFUQVsKX3FvcHRpb25zPXsKcWFjY3Q6InAtMzJDSF9LRzBZZVlqTSIKfTsKLy9dXT4KPC9zY3JpcHQ+CjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Imh0dHA6Ly9lZGdlLnF1YW50c2VydmUuY29tL3F1YW50LmpzIj48L3NjcmlwdD4KPG5vc2NyaXB0Pgo8aW1nIHNyYz0iaHR0cDovL3BpeGVsLnF1YW50c2VydmUuY29tL3BpeGVsL3AtMzJDSF9LRzBZZVlqTS5naWYiIHN0eWxlPSJkaXNwbGF5OiBub25lOyIgYm9yZGVyPSIwIiBoZWlnaHQ9IjEiIHdpZHRoPSIxIiBhbHQ9IlF1YW50Y2FzdCIvPgo8L25vc2NyaXB0Pgo8IS0tIEVuZCBRdWFudGNhc3QgdGFnIC0tPgpkZFARmu4bp8a6j9dVJ9+k1r9avwYG">
 
 
 <script src="http://www.upsidecard.com/scripts/popupWindow.js" type="text/javascript"></script>
@@ -76,42 +85,34 @@ _gaq.push(['_trackPageview']);
 clientScriptErrorHandlerURL = 'http://www.upsidecard.com/clientscripterrorhandler.aspx';//]]>
 </script>
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBQLpoMiDDgKslfuWDgKDvOXXAQKQrMGqBwKWgqyuAvCVXdbVcjkkox/MrPZFUCGanraQ">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAYl0AwDGW9IHtXB0uFUgv4up8nIoPlzTKa7bhk/XxyDaF3cuZwo5AqTdhOZfJVz1ZnyySnY9V7ko+llauIaE9cghkG7+YZejasEI+p6by38Q5eTaaFDOwgs59OlWEoDHNoZ+h7jaHtvla0kM1/+ELj0G6NjjA==">
   <span id="clientErrorAjax"></span>
   <center>
     <div id="container_masterpage" class="page-container">    
         <div class="header_masterpage">
             <noscript><div id="noJSSupport">Please enable JavaScript on your browser or upgrade to a Javascript-capable browser to use this site.</div></noscript>
             <div class="header-promo">
-              <img alt="Best Consumer-Funded Prepaid Program" src="/Images/pay-before-awards-header-ad.png" style="height: 50px; border: 0px none;" title="Best Consumer-Funded Prepaid Program"> 
+              <img alt="Best Consumer-Funded Prepaid Program" src="/Images/paybefore_winner_2014_header.png" style="border:0px none; height:50px; " title="Best Consumer-Funded Prepaid Program"> 
             </div>
             <div id="logo">
-                <a href="http://www.upsidecard.com">
-<img alt="UPside logo" title="UPside Visa Prepaid Card" style="border:0;" src="/images/UPsideLogo-0.gif">
-</a>
+                <a href="http://www.upsidecard.com"><img alt="UPside logo" src="/images/UPsideLogo-0.gif" style="border:0;" title="UPside Visa Prepaid Card"></a>
             </div>
             
             <div class="nav_masterpage">
-               <div class="tab">
-  <a href="http://www.upsidecard.com/LearnMore.aspx" title="Get the full picture">Learn More</a>
-</div> 
-<div class="tab">
-  <a href="http://www.upsidecard.com/FAQ.aspx" title="Learn how the UPside Card works">FAQ</a>
-</div> 
-<div class="tab">
-  <a href="http://www.upsidecard.com/SeeTheCard.aspx" onclick="return popup(this,'paren','580'); return false;" title="See the available card graphics">The Cards</a></div> <div class="tab signup">  <a href="http://www.upsidecard.com/sign-up/" title="Free sign up takes less than 5'">Sign-up</a>
-</div> 
-<div class="tab login">
-  <a href="https://www.upsidecard.com/Login.aspx" title="Have a username and password? Click here.">Login</a>
-</div> 
-<div class="tab upsidemall">
-  <a href="http://www.upsidemall.com/" target="_blank" title="Visit the UPside Mall. This optional offer is not a MetaBank product or service nor does MetaBank endorse this offer.">Mall</a>
-</div>
+               <div class="tab"><a href="http://www.upsidecard.com/LearnMore.aspx" title="Get the full picture">Learn More</a></div>
+
+<div class="tab"><a href="http://www.upsidecard.com/FAQ.aspx" title="Learn how the UPside Card works">FAQ</a></div>
+
+<div class="tab"><a href="http://www.upsidecard.com/SeeTheCard.aspx" class="see-the-card-link" onclick="return popup(this,'paren','580'); return false;" title="See the available card graphics">The Cards</a></div>
+
+<div class="tab signup"><a href="http://www.upsidecard.com/sign-up/" title="Free sign up takes less than 5'">Sign-up</a></div>
+
+<div class="tab login"><a href="https://www.upsidecard.com/Login.aspx" title="Have a username and password? Click here.">Login</a></div>
+
+<div class="tab upsidemall"><a href="http://www.upsidemall.com/" target="_blank" title="Visit the UPside Mall. This optional offer is not a MetaBank product or service nor does MetaBank endorse this offer.">Mall</a></div>
             </div>
             <div id="nav_accessories">
-                <a href="#" onclick="showActivationCodePopup(); return false;" title="Click here if you have received and enrollment code in the mail">I have an enrollment code</a>
-
-
+                <a href="#" onclick="showActivationCodePopup(); return false;" title="Click here if you have received and enrollment code in the mail">I have an enrollment code</a> 
             </div>
             
             <div class="visalogo">
@@ -126,8 +127,7 @@ clientScriptErrorHandlerURL = 'http://www.upsidecard.com/clientscripterrorhandle
         <td id="cl2"><a onclick="displayChapter('cl2', 'd2'); return false;" href="#"> UPSide Card Services Privacy Disclosure </a></td>
       </tr>
     </tbody></table>
-    <style type="text/css">
-.privacy-policy-table table, .privacy-policy-table tr, .privacy-policy-table td {
+    <style type="text/css">.privacy-policy-table table, .privacy-policy-table tr, .privacy-policy-table td {
 		border: 1px solid black;
 		padding: 5px;
 		border-collapse: collapse;
@@ -137,461 +137,397 @@ clientScriptErrorHandlerURL = 'http://www.upsidecard.com/clientscripterrorhandle
 		font-weight: bold;
 		color: white;
 		background-color: #7F7F7F;
-	}</style>
-<div id="d1">
-	<a name="1"></a>
-	<div align="left">
-		<h1>
-			MetaBank Privacy Disclosure</h1>
-	</div>
-	<div align="left">
-		<div class="privacy-policy-table">
-			<table style="width:100%;">
-				<tbody>
-					<tr>
-						<td class="header" style="background-color: black; font-size: 42px;">
-							FACTS</td>
-						<td style="font-size: 18px;">
-							WHAT DOES METABANK<br>
-							DO WITH YOUR PERSONAL INFORMATION?</td>
-					</tr>
-					<tr>
-						<td class="header" style="font-size: 24px;">
-							Why?</td>
-						<td>
-							Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.</td>
-					</tr>
-					<tr>
-						<td class="header" style="font-size: 24px;">
-							What?</td>
-						<td>
-							The types of personal information we collect and share depend on the product or service you have with us. This information can include:
-							<ul>
-								<li>
-									Social Security number and other personal information such as name, address and phone number and</li>
-								<li>
-									Transaction activity</li>
-							</ul>
-							When you are <i>no longer</i> our customer, we continue to share your information as described in this notice.</td>
-					</tr>
-					<tr>
-						<td class="header" style="font-size: 24px;">
-							How?</td>
-						<td>
-							All financial companies need to share customers’ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers’ personal information; the reasons MetaBank chooses to share; and whether you can limit this sharing.</td>
-					</tr>
-				</tbody>
-			</table>
-			<table style="width:100%; border-top:none">
-				<tbody>
-					<tr style="border-top:none">
-						<td class="header" style="border-top:none">
-							Reasons we can share your personal information</td>
-						<td class="header" style="border-top:none">
-							Does MetaBank share?</td>
-						<td class="header" style="border-top:none">
-							Can you limit this sharing?</td>
-					</tr>
-					<tr>
-						<td>
-							<b>For our everyday business purposes –</b><br>
-							such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus</td>
-						<td>
-							Yes</td>
-						<td>
-							No</td>
-					</tr>
-					<tr>
-						<td>
-							<b>For our marketing purposes –</b><br>
-							to offer our products and services to you</td>
-						<td>
-							Yes</td>
-						<td>
-							No</td>
-					</tr>
-					<tr>
-						<td>
-							<b>For joint marketing with other financial companies</b></td>
-						<td>
-							Yes</td>
-						<td>
-							No</td>
-					</tr>
-					<tr>
-						<td>
-							<b>For our affiliates' everyday business purposes –</b><br>
-							information about your transactions and experiences</td>
-						<td>
-							No</td>
-						<td>
-							We do not share</td>
-					</tr>
-					<tr>
-						<td>
-							<b>For our affiliates' everyday business purposes -</b><br>
-							information about your creditworthiness</td>
-						<td>
-							No</td>
-						<td>
-							We do not share</td>
-					</tr>
-					<tr>
-						<td>
-							<b>For our affiliates’ to market to you</b></td>
-						<td>
-							No</td>
-						<td>
-							We do not share</td>
-					</tr>
-					<tr>
-						<td>
-							<b>For nonaffiliates to market to you</b></td>
-						<td>
-							No</td>
-						<td>
-							We do not share</td>
-					</tr>
-				</tbody>
-			</table>
-			<table style="width:100%; border-top:none;">
-				<tbody>
-					<tr style="border-top:none">
-						<td class="header" style="font-size: 18px; border-top:none;">
-							Questions?</td>
-						<td style="border-top:none">
-							Call 866-845-6273 or go to www.upsidecard.com</td>
-					</tr>
-				</tbody>
-			</table>
-			<br>
-			<table style="width:100%;">
-				<tbody>
-					<tr>
-						<td class="header" colspan="2">
-							Who we are</td>
-					</tr>
-					<tr>
-						<td>
-							<b>Who is providing this notice?</b></td>
-						<td>
-							This privacy policy is provided by MetaBank and applies to your UPside Visa prepaid card and related products and services.</td>
-					</tr>
-					<tr>
-						<td class="header" colspan="2">
-							What we do</td>
-					</tr>
-					<tr>
-						<td>
-							<b>How does MetaBank protect my personal information?</b></td>
-						<td>
-							To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.</td>
-					</tr>
-					<tr>
-						<td>
-							<b>How does MetaBank collect my personal information?</b></td>
-						<td>
-							We collect your personal information, for example, when you
-							<ul>
-								<li>
-									Open an account or use your prepaid card</li>
-								<li>
-									Make a purchase or other transaction</li>
-								<li>
-									Provide us your name or other information</li>
-							</ul>
-						</td>
-					</tr>
-					<tr>
-						<td>
-							<b>Why can't I limit all sharing?</b></td>
-						<td>
-							Federal law gives you the right to limit only
-							<ul>
-								<li>
-									Sharing for affiliates' everyday business purposes – information about your creditworthiness</li>
-								<li>
-									Affiliates from using your information to market to you</li>
-								<li>
-									Sharing for nonaffiliates to market to you</li>
-							</ul>
-							State laws and individual companies may give you additional rights to limit sharing. See below for more on your rights under state law.</td>
-					</tr>
-					<tr>
-						<td class="header" colspan="2">
-							Definitions</td>
-					</tr>
-					<tr>
-						<td>
-							<b>Affiliates</b></td>
-						<td>
-							Companies related by common ownership or control. They can be financial and nonfinancial companies.
-							<ul>
-								<li>
-									<i>MetaBank has no affiliates with which it shares your personal information.</i></li>
-							</ul>
-						</td>
-					</tr>
-					<tr>
-						<td>
-							<b>Nonaffiliates</b></td>
-						<td>
-							Companies not related by common ownership or control. They can be financial and nonfinancial companies.
-							<ul>
-								<li>
-									<i>MetaBank does not share your personal information with nonaffiliates.</i></li>
-							</ul>
-						</td>
-					</tr>
-					<tr>
-						<td>
-							<b>Joint marketing</b></td>
-						<td>
-							A formal agreement between nonaffiliated financial companies that together market financial products or services to you.
-							<ul>
-								<li>
-									<i>We may partner with nonaffiliated financial companies to jointly market financial products or services to you.</i></li>
-							</ul>
-						</td>
-					</tr>
-					<tr>
-						<td class="header" colspan="2">
-							Other Important Information</td>
-					</tr>
-					<tr>
-						<td colspan="2">
-							If you are a resident of California or Vermont, we will not share with nonaffiliates except for our own marketing purposes, our everyday business purposes, or with your consent. Nevada residents: We are providing this notice pursuant to Nevada law.</td>
-					</tr>
-				</tbody>
-			</table>
-		</div>
-	</div>
+	}
+</style>
+<div id="d1"><a name="1"></a>
+<div align="left">
+<h1>MetaBank Privacy Disclosure</h1>
 </div>
-<div id="d2">
-	<a name="2"></a>
-	<div align="left">
-		<h1>
-			UPside Card Services Privacy Disclosure</h1>
-	</div>
-	<div align="left">
-		This Privacy Disclosure explains the privacy policies of Plastyc Inc. (“Plastyc”) with respect to the UPside Card Services inclusive of customer enrollment, self care and value added services provided through any combination of the UPside Card websites, phone lines and electronic mail and postal mail services, but exclusive of the payment transaction services and card issuance services, which are governed by the <a href="#" onclick="displayChapter('cl1', 'd1'); window.scrollTo(0); return false;">MetaBank Privacy Policy</a>.<br>
-		<br>
-		We are committed to protecting our customers’ privacy and security. This disclosure explains what information we collect about you, with whom we share it, and how you can direct us not to share certain information with certain parties. This Privacy Disclosure applies to all users of our websites and value-added services, whether they are minor or major, and whether they are a prospective cardholder, existing cardholder, or parent/tutor of a prospective or existing cardholder.<br>
-		<br>
-		 <strong>The Children Online Privacy Protection Act (COPPA)</strong><br>
-		<br>
-		The Children Online Privacy Protection Act, effective April 21, 2000 applies to the online collection of personally identifiable information and aggregate information from children under 13. We do not knowingly market to or solicit information from children under 13. We have made it a policy at Plastyc to not accept any applications or communications from children under the age of 13. Since we do not collect information from children we are not required by law to comply with COPPA, but we do choose to adhere to its principles. We are not responsible for the data collection and practices of nonaffiliated third parties that may be linked to/from our Web site, with respect to COPPA compliance.<br>
-		<br>
-		We recognize that protecting children’s identities and privacy online is important and that the responsibility to do so rests with both the online industry and with parents. While Plastyc works to protect your personal information, you also have responsibility.<br>
-		<br>
-		<strong>INTERNET SAFETY For CHILDREN</strong><br>
-		<br>
-		The Internet is a public network. Children’s access to the Internet can allow them to visit inappropriate Web sites and be exposed to unwanted risks. Parents can be proactive by installing filtering software that gives them more control over their family’s Internet experience. Learn more about COPPA at <a href="http://www.coppa.org">www.coppa.org</a> and on the Federal Trade Commission’s Web Site at <a href="http://www.ftc.gov">www.ftc.gov</a>.<br>
-		<br>
-		 <strong>1. DEFINITIONS</strong><br>
-		<br>
-		<u>We, our, and us</u>, means Plastyc, the marketer and program manager for your UPside Card issued by MetaBank.<br>
-		<br>
-		  <u>You and your</u>, means individuals using the UPside Card websites to enroll into the UPside Card program and manage one or more UPside Cards, once a card has been issued to them by MetaBank.<br>
-		<br>
-		  <u>UPside Card websites</u>, means the publicly-accessible websites operated by or on behalf of Plastyc, such as the upsidecard.com website, the upsideparent.com website, and future websites bearing the UPside logo, as may be brought online from time to time by Plastyc.<br>
-		<br>
-		<u>Nonpublic personal information</u>, means information about you that we collect in connection with providing a financial product or service to you. Nonpublic personal information does not include information that is available from public sources, such as telephone directories or government records. Hereafter we will use the term “information” to mean nonpublic personal information as defined by this section.<br>
-		<br>
-		<u>Affiliate</u>, means a company that Plastyc owns or controls, a company that owns or controls Plastyc, or a company that is owned or controlled by the same company that owns or controls Plastyc. Ownership does not mean complete ownership, but means enough to have control.<br>
-		<br>
-		<u>Nonaffiliated third party</u>, means a person not employed by Plastyc or a company that is not an affiliate of Plastyc.<br>
-		<br>
-		<u>Opt in</u>, means a choice you make to participate in certain optional services, such as, by way of example, the UPside Loyalty Program which my result in certain sharing and use of your information.<br>
-		<br>
-		<u>Opt out</u>, means a choice you can make to prevent certain sharing or use of information. We will explain how you can exercise this choice.<br>
-		<br>
-		<strong>2. INFORMATION COLLECTION &amp; USE</strong><br>
-		<br>
-		<u>Registration</u><br>
-		<br>
-		In order to use a large section of this Web Site, you must first complete an online registration form and create a user name and password. During registration you are required to give contact information such as name, address, phone number and email address. We use this information to contact you about the services on our site in which you have expressed interest.<br>
-		<br>
-		You have the option to provide demographic information such as gender to us; we encourage you to submit this information so we can provide you a more personalized experience on our site.<br>
-		<br>
-		<u>Application for a Card</u><br>
-		<br>
-		If you apply for an UPside Card on our site, we require that you provide certain personally identifiable information, including your name, address, phone number, date of birth, bank account information and/or credit card information and Social Security Number. This information is necessary to process your application and contact you, as well as comply with the USA Patriot Act with respect to the issuance of financial instruments.</div>
-	<div align="left">
-		As part of the card application process, part of the information you supply to us is transmitted to one of the 3 major US Credit Bureaus, Experian, Equifax or TransUnion solely for the purpose of verifying the consistency of your identity, Social Security Number and address. We do not seek any information pertaining to your credit record from such bureaus. We do not retain any copy of your Social Security Number after such verification.<br>
-		<br>
-		Further storage and management of the card application information is governed by <a href="#" onclick="displayChapter('cl1', 'd1');window.scrollTo(0); return false;">MetaBank Privacy Policy</a>, as MetaBank is the issuer of the cards.<br>
-		<br>
-		<u>Participation in the Loyalty Program</u><br>
-		<br>
-		Once your application for an UPside Card is successfully approved, you may opt to become a member of the UPside Loyalty Program, allowing you to be granted loyalty points exchangeable for certain rewards, and allowing you to receive special product recommendations and offers from third-party merchants or service providers having partnered with Plastyc to this effect.</div>
-	<div align="left">
-		During the Loyalty Program opt-in process, we may ask you non-personally identifiable lifestyle information such as preferred music genres, favorite sports, or preferred brands of products. We will use card usage information such as the frequency and amounts of monetary reloads in the card to determine how many loyalty points you may receive.<br>
-		<br>
-		We will use certain non-personally identifiable information such as zip code, or lifestyle information provided by you during the UPside Loyalty Program opt-in process, to direct product recommendations and offers from third-party merchants to your online account.<br>
-		<br>
-		No personally identifiable information will be passed along by Plastyc to any third-party merchant as part of the UPside Loyalty Program services. Only if you (a) choose voluntarily to accept a product recommendation or offer, and (b) decide to contact the merchant having originated the recommendation or offer, or (c) decide to redeem some of your points with certain merchant, will any personally identifiable information be possibly accessible to such merchant.<br>
-		<br>
-		You may opt out of the Loyalty Program at any time through the UPside Card websites.<br>
-		<br>
-		<u>Participation in photo deposit of checks</u><br>
-		<br>
-		Once your application for an UPside Card is successfully approved, you may opt to become a member of the Ingo service, allowing you to load the amount of certain paper checks issued to you into your card account. You will have to agree to the Terms and Conditions of Ingomoney, the provider of the Ingo service, prior to using this service.<br>
-		During the photo depositing of a paper check, your choice of obtaining your funds in minutes or waiting a few days for the check to clear, will be recorded, as well as your decision to approve or decline the fee relative to the service.<br>
-		<br>
-		We may share non-personally identifiable information such as the frequency and amounts of photo deposits of checks, the percentage of "funds in minutes" versus of "funds in days" that you have chosen and the percentage of instances when you have declined the fees, strictly for research purposes and only to non-commercial third parties. Such information will never be used for marketing purposes.<br>
-		<br>
-		<u>Visits to the UPside Mall</u><br>
-		<br>
-		You may choose to visit the UPSide Mall pages of this website either after having logged in as a registered user or simply as a visitor, i.e. without having entered a username and password. If you visit the UPside Mall as a visitor and choose to click on one of the product or merchant links, your action of clicking will be registered anonymously, i.e. without personally identifiable information, by both our servers and the destination merchant’s servers, for the sole purpose of determining if such selection later results in a purchase by you, and therefore determine the efficiency of the UPside Mall in driving traffic towards its merchants.</div>
-	<div align="left">
-		If you visit the UPside Mall after having logged in and choose to click on one of the product or merchant links, your action will be registered by our servers as related to you as an individual user, whereas your action will be recorded anonymously without personally identifiable information by the destination merchant.</div>
-	<div align="left">
-		&nbsp;</div>
-	<div align="left">
-		We record your action for the sole purpose of being able to grant you loyalty points, should your action be followed up by a purchase by you from the merchant. Such information will not be shared or sold to any third party.<br>
-		<br>
-		<u>Participation in Surveys or Contests</u><br>
-		<br>
-		From time to time we may provide you the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information and demographic information (e.g. zip code)<br>
-		<br>
-		We use this information to notify contest winners and award prizes to participants to monitor site traffic, and to personalize the site to best fit the needs of our customers.</div>
-	<div align="left">
-		We may use a third party service provider to conduct these surveys or contests; that company is/will be prohibited from using our users’ personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior written notice and choice.<br>
-		<br>
-		<u>Tell-A-Friend</u><br>
-		<br>
-		If you choose to use our automated email-based referal service available on the initial pre-registration page of the UPside Card websites to tell a friend about the UPside Cards, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Plastyc stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.<br>
-		<br>
-		Your friend may contact us at <a href="http://www.upsidecard.com">www.upsidecard.com</a> to request that we remove this information from our database.<br>
-		<br>
-		<u>Sponsor-A-Friend</u><br>
-		<br>
-		If you choose to use our automated email-based sponsoring service available post-registration from your main account page of the UPside Card websites to invite a friend to apply for an UPside Card, we will ask you for your friend’s name and email address. We will automatically send your friend an email inviting him or her to enroll for an UPside Card and we will keep track of whether or not your friend as accepted the offer, in order to grant you certain reward if they do accept.</div>
-	<div align="left">
-		We may keep your friends’ name and email address during a reasonable period of time in order to be able to remind them from time to time about your sponsored invitation.<br>
-		<br>
-		Your friend may contact us at any time through the UPside Card websites to request that we remove his or her information from our database and stop sending him or her any further email beyond the confirmation of the removal.<br>
-		<br>
-		<u>Navigating the UPside Card Websites</u><br>
-		<br>
-		Plastyc uses information provided by you to customize your user experience while you are using the UPside Card websites, to display information about your transactions and provide account information such as balance, payment history, parties to transactions and card usage.<br>
-		<br>
-		As is true with most web sites, we gather certain information automatically and store it in log files. This information includes Internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies to track returning users to our site.<br>
-		<br>
-		We do not link this automatically-collected data to personally identifiable information.<br>
-		<br>
-		We may use from time to time third party tracking services such as Quantcast that use cookies/log files to track non-personally identifiable information about visitors to our site in the aggregate, e.g. usage and volume statistics to analyze trends, to administer this site, to track users' movements around the site and to gather demographic information about our user base as a whole.<br>
-		<br>
-		<u>Supplementation of Information</u><br>
-		<br>
-		In order to provide certain services to you we may on occasion supplement the personal information you submitted to us via the UPside Card websites with information from third party sources.<br>
-		For example:<br>
-		<ul>
-			<li>
-				Allowing you to enroll for an UPside Card requires that we obtain from the US Treasury’s Office of Foreign Assets Control (OFAC) a confirmation that you are not listed as a Specially Designated National.</li>
-			<li>
-				Allowing you to verify your history of payment transactions online via the upsidecard.com website, and to be granted loyalty points, requires that we gather card usage and reloads information from the Visa-certified transaction processor connected to MetaBank, the card issuer.</li>
-			<li>
-				Allowing you to reload UPside Cards from a checking account via an UPside Card Website requires that we obtain from your bank the routing details necessary to organize such transfers.</li>
-		</ul>
-		- Allowing you to enroll for an UPside Card requires that we obtain from the US Treasury’s Office of Foreign Assets Control (OFAC) a confirmation that you are not listed as a Specially Designated National.<br>
-		- Allowing you to verify your history of payment transactions online via the upsidecard.com website, and to be granted loyalty points, requires that we gather card usage and reloads information from the Visa-certified transaction processor connected to MetaBank, the card issuer.<br>
-		- Allowing you to fund your prepaid account from a checking account via the UPside Card Website requires that we obtain from your bank the routing details necessary to organize such transfers.<br>
-		<br>
-		We may also purchase marketing data from third parties and add it to our existing user database to better target our advertising and to provide pertinent offers which we think you would be interested in. To enrich our Profiles of individual customers, we tie that information to the personally identifiable information they have provided to us.<br>
-		<br>
-		<a name="3"></a> <strong>3. CHOICE OPT-IN/OPT-OUT</strong><br>
-		<br>
-		We provide you the opportunity to “opt-in” to certain optional services making use of personally identifiable information which we may ask you as part of the opt-in process, such as, by way of example, the UPside Loyalty Program offering the combination of a loyalty reward program and product promotions and recommendations.</div>
-	<div align="left">
-		Such services are opted into entirely on a voluntary basis.<br>
-		<br>
-		We also provide you the opportunity to “opt-out” of having your personally identifiable information used for certain purposes, when we ask for this information. For example, you register for a Card but do not wish to receive any additional marketing material from us, you can indicate your preference on our application form.<br>
-		<br>
-		If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication.<br>
-		<br>
-		You will be notified when any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party collects your personally identifiable information.<br>
-		<br>
-		<strong>4. COMMUNICATIONS FROM THE UPSIDE CARD WEBSITES</strong><br>
-		<br>
-		<u>Special Offers and Updates</u><br>
-		<br>
-		We will occasionally send you information on special services and promotions. You can sign up for these emails on our registration page.<br>
-		<br>
-		Out of respect for your privacy, we present the option not to receive these types of communications. Please see the “Choice and Opt-out.”<br>
-		<br>
-		<u>Newsletters</u><br>
-		<br>
-		If you wish to subscribe to our newsletter, we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the “Choice and Opt-out.”<br>
-		<br>
-		<u>Service Related Announcements</u><br>
-		<br>
-		We will send you strictly service related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email.<br>
-		<br>
-		Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account.<br>
-		<br>
-		<u>Customer Service</u><br>
-		<br>
-		Based upon personally identifiable information you provide us, we will send you a welcoming email to verify your user name and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes.<br>
-		<br>
-		<strong>5. INFORMATION SHARING AND DISCLOSURE</strong><br>
-		<br>
-		<u>Aggregate information (non-personally identifiable)</u><br>
-		<br>
-		We share aggregated demographic information about our use database with our partners and advertisers. This information does not identify individual users.<br>
-		<br>
-		We do not link aggregate data with personally identifiable information.<br>
-		<br>
-		<u>Service Providers</u><br>
-		<br>
-		We may disclose all of the information we collect, as described above, to companies (including affiliates) that perform services on our behalf, including those who assist us in preparing and mailing statements (if applicable) and responding to customer inquiries. We may provide that information, except for information from consumer reporting agencies, to others who perform marketing services for us and to financial institutions that are not our affiliates with whom we jointly offer financial products or services. You do not have the right to opt out of the disclosure of this information. <em>See our <a href="#3">Choice/Opt-out</a> section above.</em><br>
-		<br>
-		These third parties are prohibited from using your personally identifiable information for any other purpose.<br>
-		<br>
-		<u>Legal Disclaimer</u><br>
-		<br>
-		We reserve the right to disclose your personally identifiable information as required by law and when we believe disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our web site.<br>
-		<br>
-		<strong>6. ACCESS TO PERSONALLY IDENTIFIABLE INFORMATION</strong><br>
-		<br>
-		If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, deactivate or delete it by making the change on our member information page, or by emailing customer support through our secure Contact Us link at the bottom of the member information page.&nbsp; You may also contact us by telephone at (866) 845-6273 or by postal mail at “UPside Cardholder Services”, 55 Broad Street Floor 23, New York, NY 10004.<br>
-		<br>
-		<strong>7. SECURITY</strong><br>
-		<br>
-		We restrict access to nonpublic personal information about you to our employees who have a need to know such information (e.g., to process your transactions). We train our employees on the importance of customer privacy and confidentiality. We also maintain physical, electronic, and procedural safeguards that comply with federal standards to guard the nonpublic personal information of our customers.<br>
-		<br>
-		Although we follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it, no method of transmission over the Internet or method of electronic storage is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personally identifiable information, we cannot guarantee its absolute security.<br>
-		<br>
-		If you have questions about security on our Web Site, you can contact us by telephone at (866) 845-6273 or by postal mail at “UPside Cardholder Services”, 55 Broad Street Floor 23, New York, NY 10004.<br>
-		<br>
-		<strong>8. SPECIAL NOTICE FOR CALIFORNIA RESIDENTS</strong><br>
-		<br>
-		In order to comply with California law, if our records with respect to your card indicate a California address we will not disclose information that we have about you outside of our family of companies, unless otherwise permitted by law.<br>
-		<br>
-		<strong>9. SPECIAL NOTICE FOR VERMONT RESIDENTS</strong><br>
-		<br>
-		In order to comply with Vermont law, if our records with respect to your card indicate a Vermont address we will not disclose nonpublic personal financial information about you to nonaffiliated third parties, other than permitted by law, unless you authorize us to make that disclosure. Your authorization must be in writing or, if you agree, in electronic form. If we disclose information about you to nonaffiliated third parties with whom we have joint marketing agreements, we will only share information about your name, contact information, and our own transactions and experiences with you.<br>
-		<br>
-		<strong>10. BUSINESS TRANSITIONS</strong><br>
-		<br>
-		In the event Plastyc, Inc. And Plastyc.com go through a business transition, such as a merger, acquisition by another company, or a sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via email and by a prominent notice on our web site of any change in ownership or control of your personally identifiable information.<br>
-		<br>
-		<strong>11. CHANGES IN THIS PRIVACY STATEMENT</strong><br>
-		<br>
-		If we decide to change our privacy policy, we will psot those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.<br>
-		<br>
-		We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email or by means of a notice on our home page.<br>
-		<br>
-		<strong>12. CONTACT US</strong><br>
-		<br>
-		If you have questions or suggestions regarding our privacy policy, please contact us by telephone at (866) 845-6273 or by postal mail at “UPside Cardholder Services”, 55 Broad Street Floor 23, New York, NY 10004.</div>
-	<div align="left">
-		<br>
-		<br>
-		&nbsp;</div>
+
+<div align="left">
+<div class="privacy-policy-table">
+<table style="width:100%;">
+	<tbody>
+		<tr>
+			<td class="header" style="background-color: black; font-size: 42px;">FACTS</td>
+			<td style="font-size: 18px;">WHAT DOES METABANK<br>
+			DO WITH YOUR PERSONAL INFORMATION?</td>
+		</tr>
+		<tr>
+			<td class="header" style="font-size: 24px;">Why?</td>
+			<td>Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.</td>
+		</tr>
+		<tr>
+			<td class="header" style="font-size: 24px;">What?</td>
+			<td>The types of personal information we collect and share depend on the product or service you have with us. This information can include:
+			<ul>
+				<li>Social Security number and account balances,</li>
+				<li>Payment history and account transactions and</li>
+				<li>Transaction history and purchase history</li>
+			</ul>
+			When you are <i>no longer</i> our customer, we continue to share your information as described in this notice.</td>
+		</tr>
+		<tr>
+			<td class="header" style="font-size: 24px;">How?</td>
+			<td>All financial companies need to share customers’ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers’ personal information; the reasons MetaBank chooses to share; and whether you can limit this sharing.</td>
+		</tr>
+	</tbody>
+</table>
+
+<table style="width:100%; border-top:none">
+	<tbody>
+		<tr style="border-top:none">
+			<td class="header" style="border-top:none">Reasons we can share your personal information</td>
+			<td class="header" style="border-top:none">Does MetaBank share?</td>
+			<td class="header" style="border-top:none">Can you limit this sharing?</td>
+		</tr>
+		<tr>
+			<td><b>For our everyday business purposes –</b><br>
+			such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus</td>
+			<td>Yes</td>
+			<td>No</td>
+		</tr>
+		<tr>
+			<td><b>For our marketing purposes –</b><br>
+			to offer our products and services to you</td>
+			<td>Yes</td>
+			<td>No</td>
+		</tr>
+		<tr>
+			<td><b>For joint marketing with other financial companies</b></td>
+			<td>Yes</td>
+			<td>No</td>
+		</tr>
+		<tr>
+			<td><b>For our affiliates' everyday business purposes –</b><br>
+			information about your transactions and experiences</td>
+			<td>No</td>
+			<td>We do not share</td>
+		</tr>
+		<tr>
+			<td><b>For our affiliates' everyday business purposes -</b><br>
+			information about your creditworthiness</td>
+			<td>No</td>
+			<td>We do not share</td>
+		</tr>
+		<tr>
+			<td><b>For our affiliates’ to market to you</b></td>
+			<td>No</td>
+			<td>We do not share</td>
+		</tr>
+		<tr>
+			<td><b>For nonaffiliates to market to you</b></td>
+			<td>No</td>
+			<td>We do not share</td>
+		</tr>
+	</tbody>
+</table>
+
+<table style="width:100%; border-top:none;">
+	<tbody>
+		<tr style="border-top:none">
+			<td class="header" style="font-size: 18px; border-top:none;">Questions?</td>
+			<td style="border-top:none">Call 866-845-6273 or go to www.upsidecard.com</td>
+		</tr>
+	</tbody>
+</table>
+&nbsp;
+
+<table style="width:100%;">
+	<tbody>
+		<tr>
+			<td class="header" colspan="2">Who we are</td>
+		</tr>
+		<tr>
+			<td><b>Who is providing this notice?</b></td>
+			<td>This privacy policy is provided by MetaBank and applies to your UPside Visa prepaid card and related products and services.</td>
+		</tr>
+		<tr>
+			<td class="header" colspan="2">What we do</td>
+		</tr>
+		<tr>
+			<td><b>How does MetaBank protect my personal information?</b></td>
+			<td>To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.</td>
+		</tr>
+		<tr>
+			<td><b>How does MetaBank collect my personal information?</b></td>
+			<td>We collect your personal information, for example, when you
+			<ul>
+				<li>Register your card (open the card account) or pay a bill</li>
+				<li>Make a purchase or other transaction</li>
+				<li>Provide us card account information</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td><b>Why can't I limit all sharing?</b></td>
+			<td>Federal law gives you the right to limit only
+			<ul>
+				<li>Sharing for affiliates' everyday business purposes – information about your creditworthiness</li>
+				<li>Affiliates from using your information to market to you</li>
+				<li>Sharing for nonaffiliates to market to you</li>
+			</ul>
+			State laws and individual companies may give you additional rights to limit sharing. See below for more on your rights under state law.</td>
+		</tr>
+		<tr>
+			<td class="header" colspan="2">Definitions</td>
+		</tr>
+		<tr>
+			<td><b>Affiliates</b></td>
+			<td>Companies related by common ownership or control. They can be financial and nonfinancial companies.
+			<ul>
+				<li><i>MetaBank has no affiliates with which it shares your personal information.</i></li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td><b>Nonaffiliates</b></td>
+			<td>Companies not related by common ownership or control. They can be financial and nonfinancial companies.
+			<ul>
+				<li><i>MetaBank does not share your personal information with nonaffiliates.</i></li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td><b>Joint marketing</b></td>
+			<td>A formal agreement between nonaffiliated financial companies that together market financial products or services to you.
+			<ul>
+				<li><i>We may partner with nonaffiliated financial companies to jointly market financial products or services to you.</i></li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td class="header" colspan="2">Other Important Information</td>
+		</tr>
+		<tr>
+			<td colspan="2">If you are a resident of California or Vermont, we will not share with nonaffiliates except for our own marketing purposes, our everyday business purposes, or with your consent. Nevada residents: We are providing this notice pursuant to Nevada law.</td>
+		</tr>
+	</tbody>
+</table>
 </div>
+</div>
+</div>
+
+<div id="d2"><a name="2"></a>
+
+<div align="left">
+<h1>UPside Card Services Privacy Disclosure</h1>
+</div>
+
+<div align="left">This Privacy Disclosure explains the privacy policies of Plastyc Inc. (“Plastyc”) with respect to the UPside Card Services inclusive of customer enrollment, self care and value added services provided through any combination of the UPside Card websites, phone lines and electronic mail and postal mail services, but exclusive of the payment transaction services and card issuance services, which are governed by the <a href="#" onclick="displayChapter('cl1', 'd1'); window.scrollTo(0); return false;">MetaBank Privacy Policy</a>.<br>
 <br>
+We are committed to protecting our customers’ privacy and security. This disclosure explains what information we collect about you, with whom we share it, and how you can direct us not to share certain information with certain parties. This Privacy Disclosure applies to all users of our websites and value-added services, whether they are minor or major, and whether they are a prospective cardholder, existing cardholder, or parent/tutor of a prospective or existing cardholder.<br>
+<br>
+ <strong>The Children Online Privacy Protection Act (COPPA)</strong><br>
+<br>
+The Children Online Privacy Protection Act, effective April 21, 2000 applies to the online collection of personally identifiable information and aggregate information from children under 13. We do not knowingly market to or solicit information from children under 13. We have made it a policy at Plastyc to not accept any applications or communications from children under the age of 13. Since we do not collect information from children we are not required by law to comply with COPPA, but we do choose to adhere to its principles. We are not responsible for the data collection and practices of nonaffiliated third parties that may be linked to/from our Web site, with respect to COPPA compliance.<br>
+<br>
+We recognize that protecting children’s identities and privacy online is important and that the responsibility to do so rests with both the online industry and with parents. While Plastyc works to protect your personal information, you also have responsibility.<br>
+<br>
+<strong>INTERNET SAFETY For CHILDREN</strong><br>
+<br>
+The Internet is a public network. Children’s access to the Internet can allow them to visit inappropriate Web sites and be exposed to unwanted risks. Parents can be proactive by installing filtering software that gives them more control over their family’s Internet experience. Learn more about COPPA at <a href="http://www.coppa.org">www.coppa.org</a> and on the Federal Trade Commission’s Web Site at <a href="http://www.ftc.gov">www.ftc.gov</a>.<br>
+<br>
+ <strong>1. DEFINITIONS</strong><br>
+<br>
+<u>We, our, and us</u>, means Plastyc, the marketer and program manager for your UPside Card issued by MetaBank.<br>
+<br>
+  <u>You and your</u>, means individuals using the UPside Card websites to enroll into the UPside Card program and manage one or more UPside Cards, once a card has been issued to them by MetaBank.<br>
+<br>
+  <u>UPside Card websites</u>, means the publicly-accessible websites operated by or on behalf of Plastyc, such as the upsidecard.com website, the upsideparent.com website, and future websites bearing the UPside logo, as may be brought online from time to time by Plastyc.<br>
+<br>
+<u>Nonpublic personal information</u>, means information about you that we collect in connection with providing a financial product or service to you. Nonpublic personal information does not include information that is available from public sources, such as telephone directories or government records. Hereafter we will use the term “information” to mean nonpublic personal information as defined by this section.<br>
+<br>
+<u>Affiliate</u>, means a company that Plastyc owns or controls, a company that owns or controls Plastyc, or a company that is owned or controlled by the same company that owns or controls Plastyc. Ownership does not mean complete ownership, but means enough to have control.<br>
+<br>
+<u>Nonaffiliated third party</u>, means a person not employed by Plastyc or a company that is not an affiliate of Plastyc.<br>
+<br>
+<u>Opt in</u>, means a choice you make to participate in certain optional services, such as, by way of example, the UPside Loyalty Program which my result in certain sharing and use of your information.<br>
+<br>
+<u>Opt out</u>, means a choice you can make to prevent certain sharing or use of information. We will explain how you can exercise this choice.<br>
+<br>
+<strong>2. INFORMATION COLLECTION &amp; USE</strong><br>
+<br>
+<u>Registration</u><br>
+<br>
+In order to use a large section of this Web Site, you must first complete an online registration form and create a user name and password. During registration you are required to give contact information such as name, address, phone number and email address. We use this information to contact you about the services on our site in which you have expressed interest.<br>
+<br>
+You have the option to provide demographic information such as gender to us; we encourage you to submit this information so we can provide you a more personalized experience on our site.<br>
+<br>
+<u>Application for a Card</u><br>
+<br>
+If you apply for an UPside Card on our site, we require that you provide certain personally identifiable information, including your name, address, phone number, date of birth, bank account information and/or credit card information and Social Security Number. This information is necessary to process your application and contact you, as well as comply with the USA Patriot Act with respect to the issuance of financial instruments.</div>
+
+<div align="left">As part of the card application process, part of the information you supply to us is transmitted to one of the 3 major US Credit Bureaus, Experian, Equifax or TransUnion solely for the purpose of verifying the consistency of your identity, Social Security Number and address. We do not seek any information pertaining to your credit record from such bureaus. We do not retain any copy of your Social Security Number after such verification.<br>
+<br>
+Further storage and management of the card application information is governed by <a href="#" onclick="displayChapter('cl1', 'd1');window.scrollTo(0); return false;">MetaBank Privacy Policy</a>, as MetaBank is the issuer of the cards.<br>
+<br>
+<u>Participation in the Loyalty Program</u><br>
+<br>
+Once your application for an UPside Card is successfully approved, you may opt to become a member of the UPside Loyalty Program, allowing you to be granted loyalty points exchangeable for certain rewards, and allowing you to receive special product recommendations and offers from third-party merchants or service providers having partnered with Plastyc to this effect.</div>
+
+<div align="left">During the Loyalty Program opt-in process, we may ask you non-personally identifiable lifestyle information such as preferred music genres, favorite sports, or preferred brands of products. We will use card usage information such as the frequency and amounts of monetary reloads in the card to determine how many loyalty points you may receive.<br>
+<br>
+We will use certain non-personally identifiable information such as zip code, or lifestyle information provided by you during the UPside Loyalty Program opt-in process, to direct product recommendations and offers from third-party merchants to your online account.<br>
+<br>
+No personally identifiable information will be passed along by Plastyc to any third-party merchant as part of the UPside Loyalty Program services. Only if you (a) choose voluntarily to accept a product recommendation or offer, and (b) decide to contact the merchant having originated the recommendation or offer, or (c) decide to redeem some of your points with certain merchant, will any personally identifiable information be possibly accessible to such merchant.<br>
+<br>
+You may opt out of the Loyalty Program at any time through the UPside Card websites.<br>
+<br>
+<u>Participation in photo deposit of checks</u><br>
+<br>
+Once your application for an UPside Card is successfully approved, you may opt to become a member of the Ingo service, allowing you to load the amount of certain paper checks issued to you into your card account. You will have to agree to the Terms and Conditions of Ingomoney, the provider of the Ingo service, prior to using this service.<br>
+During the photo depositing of a paper check, your choice of obtaining your funds in minutes or waiting a few days for the check to clear, will be recorded, as well as your decision to approve or decline the fee relative to the service.<br>
+<br>
+We may share non-personally identifiable information such as the frequency and amounts of photo deposits of checks, the percentage of "funds in minutes" versus of "funds in days" that you have chosen and the percentage of instances when you have declined the fees, strictly for research purposes and only to non-commercial third parties. Such information will never be used for marketing purposes.<br>
+<br>
+<u>Visits to the UPside Mall</u><br>
+<br>
+You may choose to visit the UPSide Mall pages of this website either after having logged in as a registered user or simply as a visitor, i.e. without having entered a username and password. If you visit the UPside Mall as a visitor and choose to click on one of the product or merchant links, your action of clicking will be registered anonymously, i.e. without personally identifiable information, by both our servers and the destination merchant’s servers, for the sole purpose of determining if such selection later results in a purchase by you, and therefore determine the efficiency of the UPside Mall in driving traffic towards its merchants.</div>
+
+<div align="left">If you visit the UPside Mall after having logged in and choose to click on one of the product or merchant links, your action will be registered by our servers as related to you as an individual user, whereas your action will be recorded anonymously without personally identifiable information by the destination merchant.</div>
+
+<div align="left">&nbsp;</div>
+
+<div align="left">We record your action for the sole purpose of being able to grant you loyalty points, should your action be followed up by a purchase by you from the merchant. Such information will not be shared or sold to any third party.<br>
+<br>
+<u>Participation in Surveys or Contests</u><br>
+<br>
+From time to time we may provide you the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information and demographic information (e.g. zip code)<br>
+<br>
+We use this information to notify contest winners and award prizes to participants to monitor site traffic, and to personalize the site to best fit the needs of our customers.</div>
+
+<div align="left">We may use a third party service provider to conduct these surveys or contests; that company is/will be prohibited from using our users’ personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior written notice and choice.<br>
+<br>
+<u>Tell-A-Friend</u><br>
+<br>
+If you choose to use our automated email-based referal service available on the initial pre-registration page of the UPside Card websites to tell a friend about the UPside Cards, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Plastyc stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.<br>
+<br>
+Your friend may contact us at <a href="http://www.upsidecard.com">www.upsidecard.com</a> to request that we remove this information from our database.<br>
+<br>
+<u>Sponsor-A-Friend</u><br>
+<br>
+If you choose to use our automated email-based sponsoring service available post-registration from your main account page of the UPside Card websites to invite a friend to apply for an UPside Card, we will ask you for your friend’s name and email address. We will automatically send your friend an email inviting him or her to enroll for an UPside Card and we will keep track of whether or not your friend as accepted the offer, in order to grant you certain reward if they do accept.</div>
+
+<div align="left">We may keep your friends’ name and email address during a reasonable period of time in order to be able to remind them from time to time about your sponsored invitation.<br>
+<br>
+Your friend may contact us at any time through the UPside Card websites to request that we remove his or her information from our database and stop sending him or her any further email beyond the confirmation of the removal.<br>
+<br>
+<u>Navigating the UPside Card Websites</u><br>
+<br>
+Plastyc uses information provided by you to customize your user experience while you are using the UPside Card websites, to display information about your transactions and provide account information such as balance, payment history, parties to transactions and card usage.<br>
+<br>
+As is true with most web sites, we gather certain information automatically and store it in log files. This information includes Internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies to track returning users to our site.<br>
+<br>
+We do not link this automatically-collected data to personally identifiable information.<br>
+<br>
+We may use from time to time third party tracking services such as Quantcast that use cookies/log files to track non-personally identifiable information about visitors to our site in the aggregate, e.g. usage and volume statistics to analyze trends, to administer this site, to track users' movements around the site and to gather demographic information about our user base as a whole.<br>
+<br>
+<u>Supplementation of Information</u><br>
+<br>
+In order to provide certain services to you we may on occasion supplement the personal information you submitted to us via the UPside Card websites with information from third party sources.<br>
+For example:
+<ul>
+	<li>Allowing you to enroll for an UPside Card requires that we obtain from the US Treasury’s Office of Foreign Assets Control (OFAC) a confirmation that you are not listed as a Specially Designated National.</li>
+	<li>Allowing you to verify your history of payment transactions online via the upsidecard.com website, and to be granted loyalty points, requires that we gather card usage and reloads information from the Visa-certified transaction processor connected to MetaBank, the card issuer.</li>
+	<li>Allowing you to reload UPside Cards from a checking account via an UPside Card Website requires that we obtain from your bank the routing details necessary to organize such transfers.</li>
+</ul>
+- Allowing you to enroll for an UPside Card requires that we obtain from the US Treasury’s Office of Foreign Assets Control (OFAC) a confirmation that you are not listed as a Specially Designated National.<br>
+- Allowing you to verify your history of payment transactions online via the upsidecard.com website, and to be granted loyalty points, requires that we gather card usage and reloads information from the Visa-certified transaction processor connected to MetaBank, the card issuer.<br>
+- Allowing you to fund your prepaid account from a checking account via the UPside Card Website requires that we obtain from your bank the routing details necessary to organize such transfers.<br>
+<br>
+We may also purchase marketing data from third parties and add it to our existing user database to better target our advertising and to provide pertinent offers which we think you would be interested in. To enrich our Profiles of individual customers, we tie that information to the personally identifiable information they have provided to us.<br>
+<br>
+<a name="3"></a> <strong>3. CHOICE OPT-IN/OPT-OUT</strong><br>
+<br>
+We provide you the opportunity to “opt-in” to certain optional services making use of personally identifiable information which we may ask you as part of the opt-in process, such as, by way of example, the UPside Loyalty Program offering the combination of a loyalty reward program and product promotions and recommendations.</div>
+
+<div align="left">Such services are opted into entirely on a voluntary basis.<br>
+<br>
+We also provide you the opportunity to “opt-out” of having your personally identifiable information used for certain purposes, when we ask for this information. For example, you register for a Card but do not wish to receive any additional marketing material from us, you can indicate your preference on our application form.<br>
+<br>
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication.<br>
+<br>
+You will be notified when any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party collects your personally identifiable information.<br>
+<br>
+<strong>4. COMMUNICATIONS FROM THE UPSIDE CARD WEBSITES</strong><br>
+<br>
+<u>Special Offers and Updates</u><br>
+<br>
+We will occasionally send you information on special services and promotions. You can sign up for these emails on our registration page.<br>
+<br>
+Out of respect for your privacy, we present the option not to receive these types of communications. Please see the “Choice and Opt-out.”<br>
+<br>
+<u>Newsletters</u><br>
+<br>
+If you wish to subscribe to our newsletter, we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the “Choice and Opt-out.”<br>
+<br>
+<u>Service Related Announcements</u><br>
+<br>
+We will send you strictly service related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email.<br>
+<br>
+Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account.<br>
+<br>
+<u>Customer Service</u><br>
+<br>
+Based upon personally identifiable information you provide us, we will send you a welcoming email to verify your user name and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes.<br>
+<br>
+<strong>5. INFORMATION SHARING AND DISCLOSURE</strong><br>
+<br>
+<u>Aggregate information (non-personally identifiable)</u><br>
+<br>
+We share aggregated demographic information about our use database with our partners and advertisers. This information does not identify individual users.<br>
+<br>
+We do not link aggregate data with personally identifiable information.<br>
+<br>
+<u>Service Providers</u><br>
+<br>
+We may disclose all of the information we collect, as described above, to companies (including affiliates) that perform services on our behalf, including those who assist us in preparing and mailing statements (if applicable) and responding to customer inquiries. We may provide that information, except for information from consumer reporting agencies, to others who perform marketing services for us and to financial institutions that are not our affiliates with whom we jointly offer financial products or services. You do not have the right to opt out of the disclosure of this information. <em>See our <a href="#3">Choice/Opt-out</a> section above.</em><br>
+<br>
+These third parties are prohibited from using your personally identifiable information for any other purpose.<br>
+<br>
+<u>Legal Disclaimer</u><br>
+<br>
+We reserve the right to disclose your personally identifiable information as required by law and when we believe disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our web site.<br>
+<br>
+<strong>6. ACCESS TO PERSONALLY IDENTIFIABLE INFORMATION</strong><br>
+<br>
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, deactivate or delete it by making the change on our member information page, or by emailing customer support through our secure Contact Us link at the bottom of the member information page.&nbsp; You may also contact us by telephone at (866) 845-6273 or by postal mail at “UPside Cardholder Services”, 55 Broad Street Floor 7, New York, NY 10004.<br>
+<br>
+<strong>7. SECURITY</strong><br>
+<br>
+We restrict access to nonpublic personal information about you to our employees who have a need to know such information (e.g., to process your transactions). We train our employees on the importance of customer privacy and confidentiality. We also maintain physical, electronic, and procedural safeguards that comply with federal standards to guard the nonpublic personal information of our customers.<br>
+<br>
+Although we follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it, no method of transmission over the Internet or method of electronic storage is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personally identifiable information, we cannot guarantee its absolute security.<br>
+<br>
+If you have questions about security on our Web Site, you can contact us by telephone at (866) 845-6273 or by postal mail at “UPside Cardholder Services”, 55 Broad Street Floor 7, New York, NY 10004.<br>
+<br>
+<strong>8. SPECIAL NOTICE FOR CALIFORNIA RESIDENTS</strong><br>
+<br>
+In order to comply with California law, if our records with respect to your card indicate a California address we will not disclose information that we have about you outside of our family of companies, unless otherwise permitted by law.<br>
+<br>
+<strong>9. SPECIAL NOTICE FOR VERMONT RESIDENTS</strong><br>
+<br>
+In order to comply with Vermont law, if our records with respect to your card indicate a Vermont address we will not disclose nonpublic personal financial information about you to nonaffiliated third parties, other than permitted by law, unless you authorize us to make that disclosure. Your authorization must be in writing or, if you agree, in electronic form. If we disclose information about you to nonaffiliated third parties with whom we have joint marketing agreements, we will only share information about your name, contact information, and our own transactions and experiences with you.<br>
+<br>
+<strong>10. BUSINESS TRANSITIONS</strong><br>
+<br>
+In the event Plastyc, Inc. And Plastyc.com go through a business transition, such as a merger, acquisition by another company, or a sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via email and by a prominent notice on our web site of any change in ownership or control of your personally identifiable information.<br>
+<br>
+<strong>11. CHANGES IN THIS PRIVACY STATEMENT</strong><br>
+<br>
+If we decide to change our privacy policy, we will psot those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.<br>
+<br>
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email or by means of a notice on our home page.<br>
+<br>
+<strong>12. CONTACT US</strong><br>
+<br>
+If you have questions or suggestions regarding our privacy policy, please contact us by telephone at (866) 845-6273 or by postal mail at “UPside Cardholder Services”, 55 Broad Street Floor 7, New York, NY 10004.</div>
+
+<div align="left"><br>
+<br>
+&nbsp;</div>
+</div>
   </div>
     <script type="text/javascript" language="javascript">
     //<![CDATA[
@@ -634,12 +570,9 @@ clientScriptErrorHandlerURL = 'http://www.upsidecard.com/clientscripterrorhandle
                     </td>
                     <td valign="middle" align="center">
                       
-                      <div class="footnote"><center>
-Your money is safe in a reloadable UPside Visa Prepaid Card. Funds are kept in an FDIC-insured account. That means you are protected for up to $250,000
-</center></div>
-                      <div class="metabank_text"><center>The UPside Visa Prepaid Card is issued by MetaBank™, Member FDIC, pursuant to a license from Visa U.S.A. Inc.<br>
-MoneyPak is a trademark of the Green Dot Corporation
-</center></div>
+                      <div class="footnote"><center><sup>4</sup>Your money is safe in a reloadable UPside Visa Prepaid Card. Funds are kept in an FDIC-insured account. That means you are protected for up to $250,000</center></div>
+                      <div class="metabank_text"><center>The UPside Visa Prepaid Card is issued by MetaBank<sup>®</sup>, Member FDIC, pursuant to a license from Visa U.S.A. Inc.<br>
+©2015 Green Dot Corporation. Green Dot is a registered trademark of Green Dot Corporation.</center></div>
                     </td>
                   </tr>
                 </tbody></table>
@@ -713,119 +646,84 @@ is your second chance  - Enroll today!</strong>
 	</div></td></tr><tr><td><div id="popupHolder_popupNewCompareCards_c">
 		
             <div class="compare-cards-popup-content">
-	<table border="0" cellpadding="0" cellspacing="0" id="compare-cards">
-		<tbody>
-			<tr>
-				<th class="col1">
-					&nbsp;</th>
-				<th class="col2">
-					Walmart MoneyCard</th>
-				<th class="col3">
-					Account Now</th>
-				<th class="col4">
-					Rush Card</th>
-				<th class="col5">
-					UPside</th>
-			</tr>
-			<tr>
-				<td class="col1">
-					Online Checks<br>
-					Bill Pay</td>
-				<td class="col2">
-					<img alt="No" src="/Images/compare-cards-no.png"></td>
-				<td class="col3">
-					<img alt="Yes" src="/Images/compare-cards-yes.png"></td>
-				<td class="col4">
-					<img alt="Yes" src="/Images/compare-cards-yes.png"></td>
-				<td class="col5">
-					<img alt="Yes" src="/Images/compare-cards-yes.png"></td>
-			</tr>
-			<tr>
-				<td class="col1">
-					Cell Phone Minutes</td>
-				<td class="col2">
-					<img alt="No" src="/Images/compare-cards-no.png"></td>
-				<td class="col3">
-					<img alt="No" src="/Images/compare-cards-no.png"></td>
-				<td class="col4">
-					<img alt="No" src="/Images/compare-cards-no.png"></td>
-				<td class="col5">
-					<img alt="Yes" src="/Images/compare-cards-yes.png"></td>
-			</tr>
-			<tr>
-				<td class="col1">
-					Discount Prescriptions</td>
-				<td class="col2">
-					<img alt="Yes" src="/Images/compare-cards-yes.png"></td>
-				<td class="col3">
-					<img alt="No" src="/Images/compare-cards-no.png"></td>
-				<td class="col4">
-					<img alt="Yes" src="/Images/compare-cards-yes.png"></td>
-				<td class="col5">
-					<img alt="Yes" src="/Images/compare-cards-yes.png"></td>
-			</tr>
-			<tr>
-				<td class="col1">
-					Cash Back Rewards</td>
-				<td class="col2">
-					<img alt="No" src="/Images/compare-cards-no.png"></td>
-				<td class="col3">
-					<img alt="No" src="/Images/compare-cards-no.png"></td>
-				<td class="col4">
-					<img alt="No" src="/Images/compare-cards-no.png"></td>
-				<td class="col5">
-					<img alt="Yes" src="/Images/compare-cards-yes.png"></td>
-			</tr>
-			<tr>
-				<td class="col1">
-					Rainy Day Reserve</td>
-				<td class="col2">
-					<img alt="No" src="/Images/compare-cards-no.png"></td>
-				<td class="col3">
-					<img alt="No" src="/Images/compare-cards-no.png"></td>
-				<td class="col4">
-					<img alt="No" src="/Images/compare-cards-no.png"></td>
-				<td class="col5">
-					<img alt="Yes" src="/Images/compare-cards-yes.png"></td>
-			</tr>
-			<tr>
-				<td class="col1">
-					Card-to-Card Transfer</td>
-				<td class="col2">
-					<img alt="No" src="/Images/compare-cards-no.png"></td>
-				<td class="col3">
-					<img alt="No" src="/Images/compare-cards-no.png"></td>
-				<td class="col4">
-					<img alt="Yes" src="/Images/compare-cards-yes.png"></td>
-				<td class="col5">
-					<img alt="Yes" src="/Images/compare-cards-yes.png"></td>
-			</tr>
-			<tr>
-				<td class="col1">
-					Invite Friends Reward</td>
-				<td class="col2">
-					<img alt="No" src="/Images/compare-cards-no.png"></td>
-				<td class="col3">
-					+$20.00</td>
-				<td class="col4">
-					+$5.00</td>
-				<td class="col5">
-					+$20.00</td>
-			</tr>
-			<tr>
-				<td class="col1">
-					Companion Card</td>
-				<td class="col2">
-					<img alt="No" src="/Images/compare-cards-no.png"></td>
-				<td class="col3">
-					<img alt="No" src="/Images/compare-cards-no.png"></td>
-				<td class="col4">
-					<img alt="No" src="/Images/compare-cards-no.png"></td>
-				<td class="col5">
-					<img alt="Yes" src="/Images/compare-cards-yes.png"></td>
-			</tr>
-		</tbody>
-	</table>
+<table border="0" cellpadding="0" cellspacing="0" id="compare-cards">
+	<tbody>
+		<tr>
+			<th class="col1">Card</th>
+			<th class="col2">NetSpend</th>
+			<th class="col3">Account Now</th>
+			<th class="col4">Rush Card</th>
+			<th class="col5">Walmart money card</th>
+			<th class="col6">UPside</th>
+		</tr>
+		<tr>
+			<td class="col1">Plan</td>
+			<td class="col2">Fee advantage</td>
+			<td class="col3">Gold card</td>
+			<td class="col4">Unlimited</td>
+			<td class="col5">-</td>
+			<td class="col6">Classic</td>
+		</tr>
+		<tr>
+			<td class="col1">Activation fee</td>
+			<td class="col2">$9.95</td>
+			<td class="col3">None</td>
+			<td class="col4">$9.95</td>
+			<td class="col5">$1.88</td>
+			<td class="col6">$1.95</td>
+		</tr>
+		<tr>
+			<td class="col1">Monthly fee</td>
+			<td class="col2">$9.95</td>
+			<td class="col3">$9.95</td>
+			<td class="col4">$7.95</td>
+			<td class="col5">$3.00</td>
+			<td class="col6">$0.99</td>
+		</tr>
+		<tr>
+			<td class="col1">Yearly fee</td>
+			<td class="col2">-</td>
+			<td class="col3">-</td>
+			<td class="col4">-</td>
+			<td class="col5">-</td>
+			<td class="col6">None</td>
+		</tr>
+		<tr>
+			<td class="col1">DDA load fee</td>
+			<td class="col2">-</td>
+			<td class="col3">-</td>
+			<td class="col4">-</td>
+			<td class="col5">-</td>
+			<td class="col6">None</td>
+		</tr>
+		<tr>
+			<td class="col1">ATM withdrawal fee</td>
+			<td class="col2">$2.50</td>
+			<td class="col3">$2.50</td>
+			<td class="col4">$2.50</td>
+			<td class="col5">$2.00</td>
+			<td class="col6">$1.95</td>
+		</tr>
+		<tr>
+			<td class="col1">Fee per purchase transaction</td>
+			<td class="col2">-</td>
+			<td class="col3">-</td>
+			<td class="col4">-</td>
+			<td class="col5">-</td>
+			<td class="col6">None</td>
+		</tr>
+		<tr>
+			<td class="col1">Total cost for 1st year <span style="color: #5AFBE7;">*</span></td>
+			<td class="col2">$189.35</td>
+			<td class="col3">$179.40</td>
+			<td class="col4">$165.35</td>
+			<td class="col5">$85.88</td>
+			<td class="col6">$58.68</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>* Prices as of January 16, 2015, based on the following monthly card usage: 2 direct deposit loads for a total of $500 or more, 2 ATM domestic cash withdrawals and 12 purchase transactions (PIN based)</p>
 </div>
           
 	</div></td></tr></tbody></table><input name="ctl00$popupHolder$popupNewCompareCards$v" type="hidden" id="popupHolder_popupNewCompareCards_v" value="false"></div></td></tr></tbody></table></div><div id="popupCustomMessageBoxd" style="position:absolute; left:0; top:0; visibility:hidden; z-index:10"><table id="popupCustomMessageBoxt"><tbody><tr><td><div id="popupCustomMessageBox" header="popupHolder_popupCustomMessageBox_htd" isvisible="popupHolder_popupCustomMessageBox_v" class="popup_window" style="position:absolute;left:0px;top:0px;border-width:1px;" onpopupshow="this.center();"><table border="0" cellspacing="0" cellpadding="0" style=""><tbody><tr><td id="popupHolder_popupCustomMessageBox_htd" align="center"><div id="popupHolder_popupCustomMessageBox_h" class="popup_header">
@@ -839,11 +737,27 @@ is your second chance  - Enroll today!</strong>
                 <div id="popupHolder_popupCustomMessageBox_lPopupMessageBox_Content"></div>
             </div>
         
-	</div></td></tr></tbody></table><input name="ctl00$popupHolder$popupCustomMessageBox$v" type="hidden" id="popupHolder_popupCustomMessageBox_v" value="false"></div></td></tr></tbody></table></div>
+	</div></td></tr></tbody></table><input name="ctl00$popupHolder$popupCustomMessageBox$v" type="hidden" id="popupHolder_popupCustomMessageBox_v" value="false"></div></td></tr></tbody></table></div><div id="popupNavigationExternald" style="position:absolute; left:0; top:0; visibility:hidden; z-index:10"><table id="popupNavigationExternalt"><tbody><tr><td><div id="popupNavigationExternal" header="popupHolder_popupNavigationExternal_htd" isvisible="popupHolder_popupNavigationExternal_v" class="popup_window" style="position:absolute;left:0px;top:0px;width:400px;border-width:1px;" onpopupshow="this.center();"><table border="0" cellspacing="0" cellpadding="0" style="width:100%"><tbody><tr><td id="popupHolder_popupNavigationExternal_htd" align="center"><div id="popupHolder_popupNavigationExternal_h" class="popup_header">
+		
+            <a href="javascript:$('popupNavigationExternal').obj.close(true);"><img id="popupHolder_popupNavigationExternal_popupNavigationExternal_Close" style="float:right;padding:0px 3px;border-width:0;" src="/images/pbClose.gif" title="" onmouseover="this.src='/images/pbClose_over.gif'" onmouseout="this.src='/images/pbClose.gif'"></a>
+            Caution
+          
+	</div></td></tr><tr><td><div id="popupHolder_popupNavigationExternal_c" class="popup_body">
+		
+              <div style="text-align: center; padding: 10px 0;">
+                  <span id="nav-ext-text" style="display: none;">MetaBank and UPside do not endorse or guarantee the products, information, or recommendations provided in linked sites; MetaBank Privacy Polices do not apply to linked websites, and that the privacy disclosures on the linked site should be consulted for further information; and MetaBank and UPside are not liable for any failure of products or services advertised on the third party sites.</span>
+                  <span id="nav-mt-text" style="display: none;">MetaBank does not endorse or guarantee the products, information, or recommendations provided in linked sites; MetaBank Privacy Polices do not apply to linked websites, and that the privacy disclosures on the linked site should be consulted for further information; and MetaBank is not liable for any failure of products or services advertised on the third party sites.</span>
+              </div>
+              <div style="text-align: center; padding: 10px 0;">
+                  <span id="nav-confirm-btn" class="button no-ie-corners">Proceed</span>
+                  <span id="popupHolder_popupNavigationExternal_popupNavigationExternal_CloseBody" class="button no-ie-corners" onclick="$('popupNavigationExternal').obj.close(true);">Cancel</span>
+              </div>
+          
+	</div></td></tr></tbody></table><input name="ctl00$popupHolder$popupNavigationExternal$v" type="hidden" id="popupHolder_popupNavigationExternal_v" value="false"></div></td></tr></tbody></table></div>
 </div>
     
   <div id="frameHolder">
-	<div id="frameActivation" style="position:absolute; left:0; top:0; visibility:hidden; z-index:10"><table id="frameActivationt"><tbody><tr><td><iframe id="frameActivationw" src="" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" style="; position:absolute; left:300px; top:200px;"></iframe></td></tr></tbody></table></div><div id="frameContactUs" style="position:absolute; left:0; top:0; visibility:hidden; z-index:10"><table id="frameContactUst"><tbody><tr><td><iframe id="frameContactUsw" src="" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" style="; position:absolute; left:300px; top:200px;"></iframe></td></tr></tbody></table></div><div id="framePaymentCheckService" style="position:absolute; left:0; top:0; visibility:hidden; z-index:10"><table id="framePaymentCheckServicet"><tbody><tr><td><iframe id="framePaymentCheckServicew" src="" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" style="; position:absolute; left:200px; top:90px;"></iframe></td></tr></tbody></table></div><div id="frameUPsideVideo" style="position:absolute; left:0; top:0; visibility:hidden; z-index:10"><table id="frameUPsideVideot"><tbody><tr><td><iframe id="frameUPsideVideow" src="" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" style="; position:absolute; left:200px; top:90px;"></iframe></td></tr></tbody></table></div>
+	<div id="frameActivation" style="position:absolute; left:0; top:0; visibility:hidden; z-index:10"><table id="frameActivationt"><tbody><tr><td><iframe id="frameActivationw" src="" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" style="; position:absolute; left:300px; top:200px;"></iframe></td></tr></tbody></table></div><div id="frameContactUs" style="position:absolute; left:0; top:0; visibility:hidden; z-index:10"><table id="frameContactUst"><tbody><tr><td><iframe id="frameContactUsw" src="" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" style="; position:absolute; left:300px; top:200px;"></iframe></td></tr></tbody></table></div><div id="frameUPsideVideo" style="position:absolute; left:0; top:0; visibility:hidden; z-index:10"><table id="frameUPsideVideot"><tbody><tr><td><iframe id="frameUPsideVideow" src="" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" style="; position:absolute; left:200px; top:90px;"></iframe></td></tr></tbody></table></div>
 </div>
 
   <div id="popupCheckTCHolder">
@@ -853,7 +767,7 @@ is your second chance  - Enroll today!</strong>
 
 <script type="text/javascript">
 //<![CDATA[
-var popupHolder = new PopupHolder('popupHolder');popupHolder.frames.popupHowMuchCost = new PopupFrame('popupHowMuchCost','popupHowMuchCostd','popupHowMuchCostt','popupHowMuchCost');popupHolder.frames.popupChexSystems = new PopupFrame('popupChexSystems','popupChexSystemsd','popupChexSystemst','popupChexSystems');popupHolder.frames.popupNewCompareCards = new PopupFrame('popupNewCompareCards','popupNewCompareCardsd','popupNewCompareCardst','popupNewCompareCards');popupHolder.frames.popupCustomMessageBox = new PopupFrame('popupCustomMessageBox','popupCustomMessageBoxd','popupCustomMessageBoxt','popupCustomMessageBox');if ($('popupHowMuchCost')) {$('popupHowMuchCost').obj = new PopupWindow('popupHowMuchCost',popupHolder,'popupHowMuchCost');$('popupHowMuchCost').obj.addAnchor('popupHolder_popupHowMuchCost_popupHowMuchCost_close',22);}if ($('popupChexSystems')) {$('popupChexSystems').obj = new PopupWindow('popupChexSystems',popupHolder,'popupChexSystems');$('popupChexSystems').obj.addAnchor('popupHolder_popupChexSystems_popupChexSystems_close',22);}if ($('popupNewCompareCards')) {$('popupNewCompareCards').obj = new PopupWindow('popupNewCompareCards',popupHolder,'popupNewCompareCards');}if ($('popupCustomMessageBox')) {$('popupCustomMessageBox').obj = new PopupWindow('popupCustomMessageBox',popupHolder,'popupCustomMessageBox');$('popupCustomMessageBox').obj.addAnchor('popupHolder_popupCustomMessageBox_popupCustomMessageBox_close',22);}var frameHolder = new PopupHolder('frameHolder');frameHolder.frames.frameActivation = new PopupFrame('frameActivation','frameActivation','frameActivationt','frameActivationw','http://www.upsidecard.com/ActivationCode.aspx');frameHolder.frames.frameContactUs = new PopupFrame('frameContactUs','frameContactUs','frameContactUst','frameContactUsw','http://www.upsidecard.com/Contact.aspx');frameHolder.frames.framePaymentCheckService = new PopupFrame('framePaymentCheckService','framePaymentCheckService','framePaymentCheckServicet','framePaymentCheckServicew','http://www.upsidecard.com/PaymentCheckService.aspx');frameHolder.frames.frameUPsideVideo = new PopupFrame('frameUPsideVideo','frameUPsideVideo','frameUPsideVideot','frameUPsideVideow','http://www.upsidecard.com/UPsideVideo.aspx');var popupCheckTCHolder = new PopupHolder('popupCheckTCHolder');popupCheckTCHolder.frames.popupCheckTCFrame = new PopupFrame('popupCheckTCFrame','popupCheckTCFrame','popupCheckTCFramet','popupCheckTCFramew','http://www.upsidecard.com/PaymentCheckTC.aspx');//]]>
+var popupHolder = new PopupHolder('popupHolder');popupHolder.frames.popupHowMuchCost = new PopupFrame('popupHowMuchCost','popupHowMuchCostd','popupHowMuchCostt','popupHowMuchCost');popupHolder.frames.popupChexSystems = new PopupFrame('popupChexSystems','popupChexSystemsd','popupChexSystemst','popupChexSystems');popupHolder.frames.popupNewCompareCards = new PopupFrame('popupNewCompareCards','popupNewCompareCardsd','popupNewCompareCardst','popupNewCompareCards');popupHolder.frames.popupCustomMessageBox = new PopupFrame('popupCustomMessageBox','popupCustomMessageBoxd','popupCustomMessageBoxt','popupCustomMessageBox');popupHolder.frames.popupNavigationExternal = new PopupFrame('popupNavigationExternal','popupNavigationExternald','popupNavigationExternalt','popupNavigationExternal');if ($('popupHowMuchCost')) {$('popupHowMuchCost').obj = new PopupWindow('popupHowMuchCost',popupHolder,'popupHowMuchCost');$('popupHowMuchCost').obj.addAnchor('popupHolder_popupHowMuchCost_popupHowMuchCost_close',22);}if ($('popupChexSystems')) {$('popupChexSystems').obj = new PopupWindow('popupChexSystems',popupHolder,'popupChexSystems');$('popupChexSystems').obj.addAnchor('popupHolder_popupChexSystems_popupChexSystems_close',22);}if ($('popupNewCompareCards')) {$('popupNewCompareCards').obj = new PopupWindow('popupNewCompareCards',popupHolder,'popupNewCompareCards');}if ($('popupCustomMessageBox')) {$('popupCustomMessageBox').obj = new PopupWindow('popupCustomMessageBox',popupHolder,'popupCustomMessageBox');$('popupCustomMessageBox').obj.addAnchor('popupHolder_popupCustomMessageBox_popupCustomMessageBox_close',22);}if ($('popupNavigationExternal')) {$('popupNavigationExternal').obj = new PopupWindow('popupNavigationExternal',popupHolder,'popupNavigationExternal');$('popupNavigationExternal').obj.addAnchor('popupHolder_popupNavigationExternal_popupNavigationExternal_Close',22);}var frameHolder = new PopupHolder('frameHolder');frameHolder.frames.frameActivation = new PopupFrame('frameActivation','frameActivation','frameActivationt','frameActivationw','http://www.upsidecard.com/ActivationCode.aspx');frameHolder.frames.frameContactUs = new PopupFrame('frameContactUs','frameContactUs','frameContactUst','frameContactUsw','http://www.upsidecard.com/Contact.aspx');frameHolder.frames.frameUPsideVideo = new PopupFrame('frameUPsideVideo','frameUPsideVideo','frameUPsideVideot','frameUPsideVideow','http://www.upsidecard.com/UPsideVideo.aspx');var popupCheckTCHolder = new PopupHolder('popupCheckTCHolder');popupCheckTCHolder.frames.popupCheckTCFrame = new PopupFrame('popupCheckTCFrame','popupCheckTCFrame','popupCheckTCFramet','popupCheckTCFramew','');//]]>
 </script>
 </form>
 
@@ -865,6 +779,46 @@ window.onload = function() {
     
     if (_onload) _onload();
     moveCertificate();
+    initNavigationConfirm();
+}
+document.getElementById('supportedBrowsers').style.display = isSupportedBrowser() ? 'none' : 'block';
+
+function initNavigationConfirm() {
+    var onclick = function (e) {
+        var a = e.target || e.srcElement; // 'this' does not work in IE
+        while (a.tagName.toLowerCase() != 'a') {
+            // find closest a
+            if (a.parentElement == null) return true;
+            a = a.parentElement;
+        }
+
+        var anchorHost = a.hostname;
+        var anchorDomain = anchorHost.replace('www.', '').toLowerCase();
+        var anchorHref = a.href;
+        var newWindow = a.getAttribute('target') == '_blank';
+        var allowedDomains = JSON.parse('["upsidevisa.com","upsideaccount.com"]');
+        var maintainedDomains = JSON.parse('["upsidemall.com","m.upsidecard.com"]');
+
+        if (anchorHost != "" && document.location.host != anchorHost) {
+            if (allowedDomains.indexOf(anchorDomain) > -1) {
+                return true;
+            }
+
+            if (maintainedDomains.indexOf(anchorDomain) > -1) {
+                showNavigationConfirmationPopup(anchorHref, newWindow, true);
+                e.preventDefault ? e.preventDefault() : e.returnValue = false;
+                return false;
+            }
+
+            showNavigationConfirmationPopup(anchorHref, newWindow, false);
+            e.preventDefault ? e.preventDefault() : e.returnValue = false;
+            return false;
+        }
+    }
+
+    document.addEventListener 
+        ? document.body.addEventListener("click", onclick)
+        : document.body.attachEvent("onclick", onclick); //IE8
 }
 //]]>
 </script>
