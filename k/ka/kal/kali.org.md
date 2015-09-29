@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kali.org privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325175351id_/https%3A//www.kali.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kali.org privacy policy that was archived on 2015-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150930000432id_/https%3A//www.kali.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Kali Linux
 
