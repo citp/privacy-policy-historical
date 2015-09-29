@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the panelbase.net privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318110551id_/https%3A//www.panelbase.net/terms/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panelbase.net privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929081337id_/https%3A//www.panelbase.net/terms/Privacy.aspx) for the most accurate reproduction.*
 
 # panelbase.net - Privacy Statement
 
-Privacy Statement Last updated: 25th May 2012
+Last updated: 25th May 2012
 
 At panelbase.net we are committed to protecting your privacy. Panelbase.net is operated by [Dipsticks Research Ltd](http://www.dipsticksresearch.com/), a professional market research agency who are also members of the [Market Research Society's Company Partner Scheme](http://www.mrs.org.uk/companypartner/companies.htm). Our primary business is to conduct research studies in order to provide insights for our clients, whilst ensuring that the personal identity of those participating in our surveys is protected. Results from surveys and research discussions are not linked to the individual identity of respondents without the informed consent of those respondents.
 
