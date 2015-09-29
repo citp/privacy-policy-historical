@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buyusa.gov privacy policy that was archived on 2015-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150214051829id_/http%3A//www.export.gov/about/eg_main_016803.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyusa.gov privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929073050id_/http%3A//www.export.gov/about/eg_main_016803.asp) for the most accurate reproduction.*
 
-# Export.gov - Privacy Policy
+# 
 
 Note: Export.gov is managed by the International Trade Administration and follows its privacy policy.
 
@@ -71,7 +71,7 @@ These third parties may use web measurement and customization technologies (such
 
 **  How Long is the Information Retained:** We will retain data the technology makes available only as long as required by law, or specific program need as specified by the National Archives and Records Administration’s General Records Schedule 20, which pertains to Electronic Records or other approved records schedule as applicable.
 
-**Opt-Out Instructions:** If you are concerned about the potential use of the information gathered from your computer by cookies, you can set your browser to prompt you before it accepts a cookie. You can remove or block the use of web measurement and customization technologies by changing the setting of your browser to block cookies as described at <http://www.usa.gov/optout_instructions.shtml>.
+**Opt-Out Instructions:** If you are concerned about the potential use of the information gathered from your computer by cookies, you can set your browser to prompt you before it accepts a cookie. You can remove or block the use of web measurement and customization technologies by changing the setting of your browser to block cookies as described at <https://www.usa.gov/optout-instructions>.
 
 **Privacy Act System of Records** : ITA websites do not maintain any Privacy Act System of Records (PASOR) as defined by the Privacy Act.
 
