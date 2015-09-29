@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the selz.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701075123id_/https%3A//selz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selz.com privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929071214id_/https%3A//selz.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Selz - Seriously simple selling.
+# Privacy Policy - Selz
 
 ## Introduction
 
