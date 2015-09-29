@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idebate.org privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615073059id_/http%3A//idebate.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idebate.org privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929232009id_/http%3A//idebate.org/privacy) for the most accurate reproduction.*
 
 # Privacy | idebate.org
 
