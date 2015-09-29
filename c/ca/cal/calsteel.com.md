@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calsteel.com privacy policy that was archived on 2015-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150405025131id_/http%3A//www.calsteel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calsteel.com privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929084341id_/http%3A//www.calsteel.com/privacy) for the most accurate reproduction.*
 
 # Privacy - California Steel Services
 
