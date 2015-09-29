@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upsidecard.com privacy policy that was archived on 2013-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131025192754id_/http%3A//www.upsidecard.com/PrivatePolicy.aspx%3Fsitemode%3Dlife) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upsidecard.com privacy policy that was archived on 2015-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150930002542id_/http%3A//www.upsidecard.com/PrivatePolicy.aspx%3Fsitemode%3Dlife) for the most accurate reproduction.*
 
 # Privacy Policy: Privacy Policy for UPside Visa Prepaid Cards
 
@@ -128,7 +128,7 @@ We may use from time to time third party tracking services such as Quantcast tha
  _Supplementation of Information_
 
 In order to provide certain services to you we may on occasion supplement the personal information you submitted to us via the UPside Card websites with information from third party sources.  
-For example:
+For example: 
 
   * Allowing you to enroll for an UPside Card requires that we obtain from the US Treasury’s Office of Foreign Assets Control (OFAC) a confirmation that you are not listed as a Specially Designated National.
   * Allowing you to verify your history of payment transactions online via the upsidecard.com website, and to be granted loyalty points, requires that we gather card usage and reloads information from the Visa-certified transaction processor connected to MetaBank, the card issuer.
@@ -196,7 +196,7 @@ We reserve the right to disclose your personally identifiable information as req
 
 **6\. ACCESS TO PERSONALLY IDENTIFIABLE INFORMATION**
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, deactivate or delete it by making the change on our member information page, or by emailing customer support through our secure Contact Us link at the bottom of the member information page.  You may also contact us by telephone at (866) 845-6273 or by postal mail at “UPside Cardholder Services”, 55 Broad Street Floor 23, New York, NY 10004.
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, deactivate or delete it by making the change on our member information page, or by emailing customer support through our secure Contact Us link at the bottom of the member information page.  You may also contact us by telephone at (866) 845-6273 or by postal mail at “UPside Cardholder Services”, 55 Broad Street Floor 7, New York, NY 10004.
 
 **7\. SECURITY**
 
@@ -204,7 +204,7 @@ We restrict access to nonpublic personal information about you to our employees 
 
 Although we follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it, no method of transmission over the Internet or method of electronic storage is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personally identifiable information, we cannot guarantee its absolute security.
 
-If you have questions about security on our Web Site, you can contact us by telephone at (866) 845-6273 or by postal mail at “UPside Cardholder Services”, 55 Broad Street Floor 23, New York, NY 10004.
+If you have questions about security on our Web Site, you can contact us by telephone at (866) 845-6273 or by postal mail at “UPside Cardholder Services”, 55 Broad Street Floor 7, New York, NY 10004.
 
 **8\. SPECIAL NOTICE FOR CALIFORNIA RESIDENTS**
 
@@ -226,4 +226,4 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 **12\. CONTACT US**
 
-If you have questions or suggestions regarding our privacy policy, please contact us by telephone at (866) 845-6273 or by postal mail at “UPside Cardholder Services”, 55 Broad Street Floor 23, New York, NY 10004.
+If you have questions or suggestions regarding our privacy policy, please contact us by telephone at (866) 845-6273 or by postal mail at “UPside Cardholder Services”, 55 Broad Street Floor 7, New York, NY 10004.
