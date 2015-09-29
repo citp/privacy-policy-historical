@@ -1,91 +1,134 @@
-> *The following text is extracted and transformed from the madmimi.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317153411id_/https%3A//madmimi.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madmimi.com privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929180124id_/https%3A//www.godaddy.com/Agreements/Privacy.aspx) for the most accurate reproduction.*
 
-# Mad Mimi Email Marketing : Create, Send, And Track HTML Email Newsletters
+# Privacy Policy | GoDaddy Respects Your Privacy - GoDaddy
 
-Effective date: October 29th, 2013
+**Last Revised: March 10, 2015**
 
-At Mad Mimi we believe that respecting your recipients is important. These policies aim to make sending emails effective and receiving emails a joy.
+GoDaddy Respects your privacy
 
-This privacy policy applies to [madmimi.com](https://www.madmimi.com/) owned and operated by Mad Mimi. This privacy policy describes how Mad Mimi collects and uses the personal information you provide on our website: [madmimi.com](https://www.madmimi.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information
+This Privacy Policy describes how we collect and use the personally identifiable information you provide on our Site and in our mobile applications.  It also describes the choices available to you regarding our use of your personally identifiable information and how you can access and update that information.
 
-Mad Mimi's privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through [madmimi.com](https://www.madmimi.com/) does not cover information that may be collected behind the log in on our website. If you have questions or complaints regarding our privacy policy or practices, please [contact us](https://web.archive.org/contact), or [contact TRUSTe](https://feedback-form.truste.com/watchdog/request). You may report abuse of our service to the [Mad Mimi Abuse Desk](https://web.archive.org/legal/abuse).
+[](https://privacy.truste.com/privacy-seal/Go-Daddy-Operating-Company,-LLC/validation?rid=503396dc-0fe5-4182-a3b4-435ca72dedea "TRUSTe European Safe Harbor certification")
 
-## Permission Policy
+GoDaddy has been awarded TRUSTe's Privacy Seal signifying that its Privacy Policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html), including transparency, accountability and choice regarding the collection and use of your personally identifiable information.  This Privacy Policy covers the website [http://www.godaddy.com](http://www.godaddy.com/) and our mobile application. The TRUSTe program does not cover information that may be collected through downloadable software.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its lead privacy trustmark and innovative trust solutions.  If you have questions or complaints regarding our Privacy Policy or practices, please contact us at [privacy@godaddy.com](mailto:privacy@godaddy.com) or call (480) 505-8877.  If you are not satisfied with our response, please contact [TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint).
 
-Mad Mimi is _permission based_. That means that the people who receive your emails must have given you permission to email them somehow, usually by signing up directly or as active customers of yours. Our [Terms of Use](https://web.archive.org/legal/terms) conform to Can Spam regulations and more importantly, adhere to the best practices laid out by ISP's.
+**GoDaddy complies with the U.S-EU Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from   European Union member countries.  GoDaddy has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement.  To learn more about the Safe Harbor program, and to view our certification, please visit <http://www.export.gov/safeharbor/>.**
 
-When you use our site, we collect personal information from you including, but not limited to, your name, email address, phone number and billing information such as credit card number (if you're on one of our business plans). We use your personal information to respond to your customer service requests, to administer your account, and to send you newsletters from time to time.
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-To send mailings using Mad Mimi, you must follow the content, privacy, and permission guidelines set by the postmasters of the domains you are sending to. You may only send emails that are designed with care and are the type of emails your recipients have asked for.
+**Information Collection and Use**
 
-In addition, you should regularly remove subscribers who do not read your emails or interact with you, or your business, for more than 18 months.
+Our Site and mobile applications use forms in which you give us contact information (including your name, address, telephone number, and email address) so you can place orders, request information and support, and make product suggestions. For certain services, we may also request a credit card number, government identification number, or other financial information. We will then create an account number for you.
 
-## Safety of your personal information
+We receive and store any information you enter on our Site or mobile applications, or give us in any other way, including through email, telephone, or other communications with our customer service department. If you contact us for support, we will keep an internal record of what support was given.
 
-Mad Mimi collects certain information about you in order to allow your account to function properly. At any time, you may log in and change this information, or remove it. If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove, or deactivate it by making the change on your account page or plans page, or by emailing our customer support [here](https://web.archive.org/contact). We will respond to your request to access within 2 days. We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We use your information to contact you regarding functionality changes to our products, our Site and mobile applications, new GoDaddy services, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-## Protecting your customer lists and data
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-Although we reserve the right to monitor your lists, content and response data from time to time to make sure they comply with our Terms of Use, we will never share, sell or rent your customer data to anyone for any reason.  
+We use information gathered about you from our Site or mobile application statistics (for example, your IP address, location or device operating system) to help personalize search results, diagnose problems with our server, and to administer our Site and mobile applications. We also gather broad demographic information from this data to help us improve our Site and mobile applications and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+
+Our Site and mobile applications use cookies to keep track of your shopping cart and receipts. We use cookies to identify you so you don't need to log in each time you visit our Site or mobile applications. The cookies are linked to your customer number, which is associated with the information in your account.
+
+Within our Site and mobile applications we use tracking technologies such as:  CI codes (click tracking), ISC (source tracking), and ITC (item tracking codes, attached to purchases at an item level, used to determine where within the application a product was added).  Our mobile applications automatically collect the device's operating system, phone model, app version, and device ID, and customer number.  We report this data back to our GoDaddy web services.  These results are not shared with any third parties and are used solely for deciding when to retire SDKs/OS versions and to identify characteristics of major users so that we may optimize our applications and services for those user types. 
+
+With your express consent, we may access and track location data from your mobile device in order to personalize results such as user favorite domain name selections.  We do not tie any personally identifiable information about you to any of the location tracking technologies that we use, and we do not track location data when our mobile applications are not in use.  You may withdraw your consent for us to use location data at any time by turning off the location services setting on your device.
+
+This Site and our mobile applications contain links to other websites. Unfortunately, GoDaddy is not responsible for the privacy practices or the content of such sites.
+
+**Security**
+
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
+
+We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
+
+**Sending Emails**
+
+We use emails to communicate with you, to confirm your placed orders, and to send information that you have requested. We also provide email links, as on our ["About Go Daddy"](https://www.godaddy.com/gdshop/about.asp) page, to allow you to contact us directly. We strive to promptly reply to your messages.
+
+The information you send to us may be stored and used to improve this Site, our mobile application, and our products, or it may be reviewed and discarded.
+
+**Third Party Service Providers**
+
+We may at times provide information about you to third parties to provide various services on our behalf, such as processing credit card payments, serving advertisements, conducting contests or surveys, performing analyses of our products or customer demographics, shipping of goods or services, and customer relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+
+We may also use a tool called TruEffect to place a cookie on our behalf.  This cookie collects anonymous data that helps us conduct targeted advertising and improve the performance of our advertising on other websites.  To opt-out of our use of TruEffect, click [here](http://media.godaddy.com/optout.html).
+
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Google Analytics**
+
+We use a tool called “Google Analytics” to collect information about use of this Site, such as how often users visit the Site, what pages they visit when they do so, and what other sites they used prior to coming to this Site.  Google Analytics collects only the IP address assigned to you on the date you visit this Site, rather than your name or other identifying information. 
+
+Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this Site.  This cookie cannot be used by anyone but Google, Inc.  The information generated by the cookie will be transmitted to and stored by Google on servers in the United States.
+
+We use the information received from Google Analytics only to improve services on this Site.  We do not combine the information collected through the use of Google Analytics with personally identifiable information. 
+
+Google’s ability to use and share information collected by Google Analytics about your visits to this Site is restricted by the [Google Privacy Policy](http://www.google.com/policies/privacy/).  You can prevent Google Analytics from recognizing you on return visits to this Site by [disabling the Google Analytics cookie](https://tools.google.com/dlpage/gaoptout/) on your browser.
+
+**For Website Builder Users Only**
+
+Website Builder incorporates the Google Places API.  Google's ability to use and share information collected by the Google Places API is governed by the [Google Privacy Policy](http://www.google.com/policies/privacy/).
+
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personally identifiable information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Targeted Advertisements**  
+
+GoDaddy may display targeted offers to our customers based on the products currently owned by the customer.  These offers will display as varying product banners.  There is no personal or geolocation information collected within these product banners to build a profile about your activities or that is shared with third party advertising companies.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site or mobile application, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [mailto:hq@godaddy.com](mailto:hq@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personally Identifiable  Information if I Terminate my GoDaddy Account? **
+
+When your GoDaddy account is cancelled (either voluntarily or involuntarily) all of your personally identifiable information is placed in "deactivated" status on our relevant GoDaddy databases. However, deactivation of your account does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Updating Your Information  **
+
+You may alter, update or deactivate your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+
+  1. You may send an email to [mailto:hq@godaddy.com](mailto:hq@godaddy.com)
+  2. You may visit your online Account
+  3. You may send mail to GoDaddy at the following postal address:   
+14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+  4. You may call us at: (480) 505-8800
+  5. You may fax us at: (480) 505-8844
 
 
-## Tracking Technologies
 
-A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for longer, and are used for the purposes or remembering your settings, local storage, for example making sure you don't lose your text while you're composing an email campaign, and "remember me" option. You can remove persistent cookies by following directions provided in your Internet browser's "help" directory. Here is [more information about cookies](http://en.wikipedia.org/wiki/HTTP_cookie). If you reject cookies, you may still use our site, but your ability to use some areas of our site will be limited.
+We will respond to your request for access or to modify or deactivate your information within thirty (30) days. 
 
-The use of cookies by our tracking utility company, for example, Google Analytics and service providers like [SnapEngage Live Chat](https://snapengage.com/), is not covered by our privacy policy. We do not have access or control over these cookies. These providers use both session ID and persistent cookies to make it easier for you to use our live chat and for us to log general website traffic. Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our customers' or users' personally identifiable information.
+**Transfer of Data Abroad**
 
-As is true of most web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. 
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole.
+**Compliance with Laws and Law Enforcement**
 
-IP addresses are tied to personally identifiable information to maintain a record of log-in attempts for security purposes and for other security reasons.
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-### Adhering to the Safe Harbor privacy principles of the U.S.-EU and U.S.-Swiss Safe Harbor Framework
+To the extent we are legally permitted to do so, we will take reasonable steps to notify you in the event that we are required to provide your personal information to third parties as part of legal process.
 
-Mad Mimi uses self-assessments to assure compliance within the US-EU and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use and retention or personal data from the European Union and Switzerland. Mad Mimi has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Mad Mimi's certification, please visit <http://www.export.gov/safeharbor/>. 
+**Changes in Our Practices**
 
-Our privacy policy above serves as our statement of adherence to the US-EU and US-Swiss Safe Harbor Principles. We encourage you to use the contact information below to inform us of any complaints or disputes you may have regarding the use of your personal information. We will thoroughly investigate the matter internally and make every effort to attempt to resolve the issue quickly. If your dispute cannot be resolved by us internally, we agree to dispute resolution with the Better Business Bureau as our third party resolution provider.
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-Direct any Safe Harbor inquiries or requests in writing if via email to:
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
 
-Mad Mimi  
-c/o GoDaddy.com LLC  
-14455 N. Hayden Rd., Suite 219  
-Scottsdale, AZ 85260
+**Contacting Our Site**
 
-support@madmimi.com 
+If you have any questions about our Privacy Policy, the practices of this Site or our mobile application, or your dealings with this Site or our mobile application, please contact us at:
 
-## Periodic emails from Mad Mimi
-
-From time to time you may receive from us emails related to your account or your use of Mad Mimi. Every email will contain a link for you to be able to opt-out of receiving it.
-
-## Ensuring secure billing transactions
-
-You are asked to supply certain credit card and billing information in order to purchase Mad Mimi's services. That information is transferred, using the most secure transmission technology, to a trusted third party for processing. The information is then encrypted using secure socket layer technology (SSL) and securely stored to handle your transactions.
-
-We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at support@madmimi.com.
-
-### We will not sell or rent your email address. Ever.
-
-We may provide your personal information to companies that provide services to help us with our business activities such as processing your order or offering customer service. These companies are authorized to use your personal information _only as necessary to provide_ these services to us.
-
-We may also disclose your personal information as required by law, such as to comply with a subpoena, or similar legal process and when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
-
-If Mad Mimi is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
-
-## Testimonials
-
-We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at support@madmimi.com.
-
-## Links to 3rd party sites
-
-Our site includes links to other websites whose privacy practices may differ from those of Mad Mimi. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to read the privacy policy of any website you visit.
-
-Our website includes social media features, such as the Facebook Like button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social media features are either hosted by a third party or hosted directly on our site. Your interactions with these features are governed by the privacy policy of the company providing it.
-
-You can also log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
-
-## Changes to this Policy
-
-We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.  
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
