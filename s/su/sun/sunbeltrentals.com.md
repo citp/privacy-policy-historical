@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunbeltrentals.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618040710id_/https%3A//www.sunbeltrentals.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunbeltrentals.com privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929115050id_/https%3A//www.sunbeltrentals.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Statement | Sunbelt Rentals
 
