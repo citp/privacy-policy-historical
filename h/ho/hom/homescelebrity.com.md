@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homescelebrity.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607143745id_/http%3A//www.homescelebrity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homescelebrity.com privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929024039id_/http%3A//www.homescelebrity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HomesCelebrity
 
