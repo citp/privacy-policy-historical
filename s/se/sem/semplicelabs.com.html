@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the semplicelabs.com privacy policy that was archived on 2015-05-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150503152601id_/http%3A//www.semplicelabs.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the semplicelabs.com privacy policy that was archived on 2015-09-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150929070557id_/http%3A//www.semplicelabs.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 		<meta charset="UTF-8">
@@ -8,7 +8,6 @@
 		<title>Semplice</title>
 		<link href="//cloud.webtype.com/css/5dc7c434-f3c2-49f5-b2ab-65ee7548a41f.css" rel="stylesheet" type="text/css">
 		<link type="text/css" rel="stylesheet" href="http://fast.fonts.net/cssapi/a6e9c453-6c15-45ad-95ad-84fb659f6639.css">
-		<link rel="stylesheet" href="//f.fontdeck.com/s/css/KoOoVMY1u2CGmCLJ9QWBJUghRPk/DOMAIN_NAME/46951.css" type="text/css">
 		<!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 		<link type="text/css" rel="stylesheet" href="css/reset.css">
 		<link type="text/css" rel="stylesheet" href="css/style.css">
@@ -20,10 +19,11 @@
 		<meta property="og:image" content="images/fb_image.png">
 		<meta name="google-site-verification" content="_qrM0rkqW2ZSxceXCS-y9QCKH-kh2LQI6dzkUT8toaY">
 		<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+		<script type="text/javascript" src="http://transactions.sendowl.com/assets/sendowl.js"></script>
 		<script type="text/javascript" src="js/scripts.min.js"></script>
 			</head>
 	<body>
-										<header style="transition: opacity 800ms ease 0s, top 800ms ease 0s; opacity: 1; top: 0px;">
+								<header style="opacity: 1; top: 0px;">
 			<div class="container">
 				<div class="row">
 					<div class="span4">
@@ -159,7 +159,7 @@
 				</div>
 			</div>
 		</header>
-		<div id="content" style="transition: opacity 800ms ease 200ms; opacity: 1;">
+		<div id="content" style="opacity: 1;">
 			<section id="terms" class="first-section">
 	<div class="container">
 		<div class="row">
@@ -224,7 +224,7 @@ Questions on our privacy policy can be directed to hello@semplicelabs.com</p>
 						<div class="span2">
 							<nav>
 								<ul>
-									<li><a href="http://www.semplicelabs.com/blog/" target="_blank">Blog</a></li>
+									<li><a href="https://medium.com/semplice-labs" target="_blank">Semplice Magazine</a></li>
 									<li><a href="https://twitter.com/semplicelabs" target="_blank">Twitter</a></li>
 									<li><a href="https://www.facebook.com/semplicelabs" target="_blank">Facebook</a></li>
 								</ul>
@@ -255,16 +255,56 @@ Questions on our privacy policy can be directed to hello@semplicelabs.com</p>
 				</a>
 			</div>
 		</div>
+
 		<!-- <div style="top: 100px; left: 100px; cursor: pointer; position: fixed; font-size: 20px; background: white; padding: 50px; color: black;" class="debug">mikes</br>debug<br/>box</div> -->
 		
 		<script>
-		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-		  ga('create', 'UA-46325243-1', 'auto');
-		  ga('send', 'pageview');
+			ga('create', 'UA-46325243-1', 'auto');
+			ga('send', 'pageview');
+
+			// automatically track outbound links, thanks to Ralph Slooten (http://www.axllent.org)
+			function _gaLt(event){
+				var el = event.srcElement || event.target;
+
+				/* Loop up the DOM tree through parent elements if clicked element is not a link (eg: an image inside a link) */
+				while(el && (typeof el.tagName == 'undefined' || el.tagName.toLowerCase() != 'a' || !el.href)){
+					el = el.parentNode;
+				}
+
+				if(el && el.href && el.className !== 'buy-button'){
+					/* link */
+					var link = el.href;
+					if(link.indexOf(location.host) == -1 && !link.match(/^javascript\:/i)){ /* external link */
+						/* HitCallback function to either open link in either same or new window */
+						var hitBack = function(link, target){
+							target ? window.open(link, target) : window.location.href = link;
+						};
+						/* Is target set and not _(self|parent|top)? */
+						var target = (el.target && !el.target.match(/^_(self|parent|top)$/i)) ? el.target : false;
+						/* send event with callback */
+						ga(
+							"send", "event", "Outgoing Links", link,
+							document.location.pathname + document.location.search,
+							{"hitCallback": hitBack(link, target)}
+						);
+
+						/* Prevent standard click */
+						event.preventDefault ? event.preventDefault() : event.returnValue = !1;
+					}
+
+				}
+			}
+
+			/* Attach the event to all clicks in the document after page has loaded */
+			var w = window;
+			w.addEventListener ? w.addEventListener("load",function(){document.body.addEventListener("click",_gaLt,!1)},!1)
+			 : w.attachEvent && w.attachEvent("onload",function(){document.body.attachEvent("onclick",_gaLt)});
+	
 		</script>
 	
 </body></html>
