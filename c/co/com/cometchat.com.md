@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cometchat.com privacy policy that was archived on 2015-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150518023958id_/http%3A//www.cometchat.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cometchat.com privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929174803id_/https%3A//www.cometchat.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CometChat
 
@@ -33,9 +33,9 @@ We may use your personal information to send you email communications regarding 
 
 We do not share, sell, trade or rent your personal information to third parties for unknown reasons.
 
-You may at any time choose not to receive promotional emails from us by [contacting us](http://www.cometchat.com/contact). Notwithstanding the foregoing, we may continue to contact you for the purpose of communicating information relating to this Site, as well as to facilitate, complete, or confirm any transaction that you may enter into or responding to your inquiry or request.
+You may at any time choose not to receive promotional emails from us by [contacting us](https://www.cometchat.com/contact). Notwithstanding the foregoing, we may continue to contact you for the purpose of communicating information relating to this Site, as well as to facilitate, complete, or confirm any transaction that you may enter into or responding to your inquiry or request.
 
-If you prefer for us not to provide your name and email or postal address to third parties for direct marketing purposes, please [contact us](http://www.cometchat.com/contact).
+If you prefer for us not to provide your name and email or postal address to third parties for direct marketing purposes, please [contact us](https://www.cometchat.com/contact).
 
 ### Cookies
 
@@ -49,4 +49,4 @@ This Site has reasonable security measures in place to help protect against the 
 
 Please be aware that we may change our Privacy Policy from time to time. If we do, we will update this Privacy Policy on this Site, so be sure to check back here frequently.
 
-If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, you may [contact us](http://www.cometchat.com/contact). 
+If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, you may [contact us](https://www.cometchat.com/contact). 
