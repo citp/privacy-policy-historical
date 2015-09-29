@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reedconstructiondata.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612115427id_/http%3A//www.cmdgroup.com/company-information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reedconstructiondata.com privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929153109id_/http%3A//www.cmdgroup.com/company-information/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ Our site visitors’ privacy and trust are important to us. We provide this noti
 
 This Privacy Policy describes the policies of CMD Group ( ** _“CMD”_** or ** _“we”_** ) regarding the collection, use, disclosure and protection of the following types of information:
 
-  * Information obtained when you (“ ** _you_** _”_ **** or “ ** _User_** ”) visit any of the following web sites of CMD and R.S. Means Company, LLC: **cmdgroup.com, CMDConnect.com, SmartProjectNews.com, cubusCMDConstructionData.com, MeansCostworks.com,RSMeans.com and CMDPSP.com** (collectively, the “Sites”). 
+  * Information obtained when you (“ ** _you_** _”_ **** or “ ** _User_** ”) visit any of the following web sites of CMD: **cmdgroup.com, CMDConnect.com, SmartProjectNews.com, and CMDPSP.com** (collectively, the “Sites”). 
   * Information obtained through e-mail communications with you related to the Sites.
 
 
