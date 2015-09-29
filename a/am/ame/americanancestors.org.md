@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanancestors.org privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624024448id_/http%3A//www.americanancestors.org/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanancestors.org privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929103227id_/http%3A//www.americanancestors.org/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
