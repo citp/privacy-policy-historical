@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the komen.org privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424155704id_/http%3A//ww5.komen.org/AboutUs/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the komen.org privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929111735id_/http%3A//ww5.komen.org/AboutUs/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Susan G. Komen®
 
@@ -28,7 +28,7 @@ While you are visiting the Sites, Komen may collect two types of information abo
 
 _Personal Information:   Information You Provide to Us_
 
-Personal Information is collected online when you voluntarily submit non-public personal information on the Sites by requesting information, purchasing our products, signing up for an account or other Services, receiving electronic notices or other similar communications and other similar activities.  Please note that Personal Information stored on the Sites may be collected, stored and processed in the United States of America.  
+Personal Information is collected online when you voluntarily submit non-public personal information on the Sites by requesting information, purchasing our products, signing up for an account or other Services, receiving electronic notices or other similar communications and other similar activities.  **Please note that Personal Information stored on the Sites may be collected, stored and processed in the United States of America.**  
  
 
 We may obtain Personal Information about you ONLY if you elect to give us that information. Types of Personal Information may include the following:
@@ -49,7 +49,7 @@ We may request Personal Information, such as your user name or password, wheneve
 
 Komen will retain your Personal Information to fulfill the purposes described in this Privacy Policy. Komen will establish minimum and maximum retention periods based upon the type of information collected (i.e., sensitivity), the intended purposes and as otherwise required by law.
 
-Personal Information shall NOT include any personal information posted or sent by or to you in any public forum (such as a message board) or your Personal Home Page on the Sites. Participation in these public forums and Komen fundraising initiatives requires the public release and dissemination of such information, and thus Komen cannot commit to treating such information confidentially in the same manner that other personal information will be treated under this Privacy Policy. Participation in these programs is voluntary and thus your consent to certain terms is required before participation is allowed.
+Personal Information shall NOT include any personal information posted, shared or sent by or to you in any public forum (such as a message board) or your Personal Home Page on the Sites or any page on the Sites that specifically provides that the content may be used in a public manner. Participation in such areas of the Sites requires the public release and dissemination of such information, and thus Komen cannot commit to treating such information confidentially in the same manner that other personal information will be treated under this Privacy Policy. Participation in these areas of the Sites is voluntary and thus your consent to certain terms is required before participation is allowed. Please see “Posted or Shared Content” under the Terms of Use for more information on how such posted or shared information is used.
 
 _Aggregate Information:  Collected Automatically_  
 When you visit the Sites, we automatically collect Aggregate Information about your visit. Collecting this information helps us to improve the Sites to enhance your experience while on our Sites.  Aggregate Information is non-personally identifiable/anonymous information about you, such as pages most frequently accessed by you, time spent on a page or area of the Sites, the number of visits to the Sites by you, types of browser used by you, cookie preferences or search terms entered by you. We can tell the type of computer and web service that you are using, as well as the date, time, and pages that you visit. Aggregate Information is used in a collective manner, and no single person can be identified by that compiled information (for example, the number of people who logged into the Sites in a particular day). 
@@ -139,4 +139,4 @@ Attn: Privacy Manager, Donor Services
 Phone: 1-877 GO KOMEN (1.877.465.6636)  
 Fax: (972) 855-4301
 
-Revised: 09/14/14
+Revised: 07/07/15
