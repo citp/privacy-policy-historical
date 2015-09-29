@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the sitevisibility.co.uk privacy policy that was archived on 2014-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140801130226id_/http%3A//www.sitevisibility.co.uk/cookie-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitevisibility.co.uk privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929121709id_/http%3A//www.sitevisibility.co.uk/cookie-and-privacy-policy) for the most accurate reproduction.*
 
-# Cookie and Privacy Policy - SiteVisibility | SiteVisibility
+# Cookie and Privacy Policy - SiteVisibility
 
-April 2012  
-[ Think@SiteVisibility.co.uk](mailto:Think@SiteVisibility.co.uk "Email Think@SiteVisibility.co.uk")
+July 2015  
+[grow@sitevisibility.com](mailto:grow@sitevisibility.com "Email SiteVisibility ")
 
 This policy covers the data collected by the company, SiteVisibility, how it is used, how it is protected, and the users’ ability to control the collection and use of their personal data.
 
@@ -40,11 +40,11 @@ If you would like to know what information the company holds about you, you can 
 You can also apply in writing:
 
 SiteVisibility  
-Kingslake House  
-1-5 Union Street  
-Brighton, East Sussex  
-England  
-BN3 1RN
+King Place Suite,  
+3 King Place  
+Brighton  
+East Sussex  
+BN1 1GA
 
 In May 2011, the UK Government passed new legislation is regards to the use of Cookies. The following section explains what cookies are, which ones are collected by SiteVisibility and how they are used on SiteVisibility’s website.
 
@@ -144,8 +144,8 @@ AdInsight is a phone call analytics tool, used by companies to understand the cu
   
 ---|---|---  
 adiV | The adiV cookie contains an identifier which is used by AdInsight to track a visitor over time. This allows AdInsight to show multiple visits made by a customer over time from the same browser. | This cookie is set to expire 1 year after the visitor leaves the website.  
-adiVi  | The adiVi cookie contains an identifier which is used by AdInsight to help track a visitor’s path while they are on the website.  | This cookie is set to expire 30 minutes after the visitor leaves the website.  
-adiLP  | The adiLP cookie is used to help track visitors who have multiple tabs open in the same browser to prevent errors in tracking.  |   
+adiVi | The adiVi cookie contains an identifier which is used by AdInsight to help track a visitor’s path while they are on the website. | This cookie is set to expire 30 minutes after the visitor leaves the website.  
+adiLP | The adiLP cookie is used to help track visitors who have multiple tabs open in the same browser to prevent errors in tracking. |   
   
 ## Third Party Cookies
 
