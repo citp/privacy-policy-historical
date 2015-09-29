@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the irex.org privacy policy that was archived on 2015-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150103012852id_/https%3A//www.irex.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irex.org privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929220552id_/http%3A//www.irex.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | IREX - Civil Society, Education and Media Development
 
-This **IREX Privacy Policy** is designed to inform visitors to our website [www.irex.org](http://www.irex.org/ "www.irex.org") about what information we may collect and how we protect users’ privacy. We encourage you to read this Privacy Policy before submitting any personal information through this website. IREX reserves the right to modify this Privacy Policy at any time by posting changes on our website.
+This **IREX Privacy Policy** is designed to inform visitors to our website www.irex.org about what information we may collect and how we protect users’ privacy. We encourage you to read this Privacy Policy before submitting any personal information through this website. IREX reserves the right to modify this Privacy Policy at any time by posting changes on our website.
 
 **Information We Collect and How We Use It**  
 • We collect no personal information about you unless you choose to provide it to us. We do not give, share, sell, or transfer any personal information to a third party without your permission.
@@ -23,4 +23,4 @@ This **IREX Privacy Policy** is designed to inform visitors to our website [www.
 **Other Websites**  
 • Our website contains links to other sites. If you click on one of them, you are leaving the IREX website, and your information is no longer subject to this Privacy Policy.
 
-_For questions about this Privacy Policy, please contact[communications@irex.org](mailto:communications@irex.org) _
+_For questions about this Privacy Policy, please contact communications@irex.org_
