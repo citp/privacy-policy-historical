@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the virtualassistantjobs.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512124658id_/http%3A//www.virtualassistantjobs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualassistantjobs.com privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929095853id_/http%3A//www.virtualassistantjobs.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Virtual Office Temps
+# Privacy Policy -
 
 **Virtual Office Temps, Virtual Assistant Jobs**
 
