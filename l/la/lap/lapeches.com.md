@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lapeches.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508192859id_/http%3A//lapeches.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lapeches.com privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929130512id_/https%3A//lapeches.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy @ lapeches.com
 
