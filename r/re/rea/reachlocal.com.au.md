@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the reachlocal.com.au privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410203915id_/http%3A//www.reachlocal.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reachlocal.com.au privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929071539id_/http%3A//www.reachlocal.com/au/en/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ReachLocal Australia
-
-**ReachLocal Australia Privacy Policy**
+# Privacy Policy | ReachLocal
 
 ReachLocal Australia Pty Limited ( **ReachLocal** ) and its related bodies corporate ( **we** , **our** , **us** ) recognise the importance of protecting the privacy and the rights of individuals in relation to their personal information. This document is our privacy policy and it tells you how we collect and manage your personal information.
 
@@ -53,7 +51,7 @@ We may also collect personal information from third parties including:
 
 
 
-#### Cookies and Other Tracking Technologies
+####  Cookies and Other Tracking Technologies
 
 Some of our web pages utilise “cookies” and other tracking technologies. A cookie is a small text file that a website transfers to an individual’s hard drive for record-keeping purposes. For example, we may use cookies to collect information about website activity. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser. However, please be aware that some features of our websites may not function properly or may be slower if you refuse cookies. We do not link the information we store in cookies to any personal information you submit while on the website. Tracking technologies may record information such as internet domain and host names; internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times that our website is accessed. It is not our practice to link the information we record using tracking technologies to any personal information you submit while on the website. However, we reserve the right to use IP addresses and other tracking technologies to identify a visitor only when we feel it is necessary to enforce compliance with the website’s policies, to protect the website, our customers, or others, or when we believe in good faith that the law requires it.
 
@@ -122,7 +120,7 @@ We may disclose your personal information to entities located outside of Austral
 
   * our related bodies corporate, located in the countries identified in our website [www.reachlocal.com.au](http://www.reachlocal.com.au/);
   * our data hosting and other IT service providers located in the United States of America, India and Singapore; and
-  * other third parties located in New Zealand, Japan, the United States of America, and Singapore. ****
+  * other third parties located in New Zealand, Japan, the United States of America, and Singapore.
 
 
 
