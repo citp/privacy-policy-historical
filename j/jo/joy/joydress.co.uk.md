@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joydress.co.uk privacy policy that was archived on 2014-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140824050417id_/http%3A//www.joydress.co.uk/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joydress.co.uk privacy policy that was archived on 2015-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150930194546id_/http%3A//www.joydress.co.uk/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
