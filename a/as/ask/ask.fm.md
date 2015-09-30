@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ask.fm privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629211002id_/http%3A//about.ask.fm/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ask.fm privacy policy that was archived on 2015-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150930074253id_/http%3A//about.ask.fm/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | About.Ask.fm
 
@@ -29,7 +29,7 @@ This Privacy Policy covers the following information:
 
 **1\. Who is Ask.fm?**
 
-Ask.fm is currently operated by Ask.fm Europe, Ltd., an Irish limited liability company (the “Company”). The Company’s registration number is 551873 and its registered office is at 6th Floor South Bank House, Barrow Street, Dublin 4, Ireland.
+Ask.fm is currently operated by Ask.fm Europe, Ltd., an Irish limited liability company (the “Company”). The Company’s registration number is 551873 and its registered office is at Arthur Cox Building Earlsfort Terrace Dublin 2, Ireland.
 
 The personal information provided to or collected by our Services is controlled by the Company in accordance with Irish and EU law.
 
@@ -157,7 +157,7 @@ You have a variety of choices regarding the collection, use and sharing of your 
 
   * The “Privacy” tab of the [Settings](http://ask.fm/?back=%252Faccount%252Fsettings%252Fprivacy) page allows you to: (1) switch off receiving anonymous questions; and (2) hide your answers from appearing in the “Stream”.
   * You can opt out of receiving certain e-mail notifications from us, including emails advertising Ask.fm products and services, by clicking the “Notifications” tab of the Settings page on the mobile app and through the “Privacy” tab of the [Settings](http://ask.fm/?back=%252Faccount%252Fsettings%252Fprivacy) page on the site.
-  * Blocking other users. You have the ability to add any user to your “blacklist” at any time by clicking on the “block” button on that user’s profile. This will prevent the user from asking you a question.
+  * Blocking other users. You have the ability to add any user to your “blocklist” at any time by clicking on the “block” button on that user’s profile. This will prevent the user from asking you a question.
 
 
 
