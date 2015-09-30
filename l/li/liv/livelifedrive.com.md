@@ -1,85 +1,320 @@
-> *The following text is extracted and transformed from the livelifedrive.com privacy policy that was archived on 2015-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150425005553id_/http%3A//www.livelifedrive.com/malaysia/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livelifedrive.com privacy policy that was archived on 2015-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150930151806id_/http%3A//www.livelifedrive.com/terms/Privacy_Policy.pdf) for the most accurate reproduction.*
 
-# Privacy And Security Policy | LIVE LIFE DRIVE
+# Privacy policy
 
-## Your Privacy and the Security of Your Personal Information Is Very Important to Us 
+                                    Privacy policy
+Welcome to The iCar Asia Network
+We – iCar Asia Network respect the privacy of visitors to our all websites which can be found
+on our company website – www.iCarAsia.com and the iCar Asia vehicle search engine
+wherever distributed on the internet (the ‘iCar Asia Network’). Please read this Privacy
+Statement carefully so that you understand what information we collect through our website
+and what we do with that information.
+This Privacy Policy forms part of the User Agreement that can be found for using Carlist.my
+(‘the Site’) at Terms of Service. By using and visiting the Site, you agree to this Policy and the
+uses made of personal information as set forth herein or amended hereafter.
+About the iCar Asia Network
+A. iCar Asia publishes or makes available on the iCar Asia Network information,
+     advertisements, product and service offers, vehicle data, valuations, Software and links
+     and other content supplied by iCar Asia and third parties (‘Material’). iCar Asia does not
+     warrant, represent, authorise or endorse the reliability, accuracy or completeness of any
+     such Material published on the iCar Asia Network or on any web site that links from the
+     iCar Asia Network. (Including third party display advertisements).
+B. iCar Asia does not and cannot provide any warranty in relation to any goods or services
+     advertised for sale on the iCar Asia Network by third parties including, but not limited to,
+     any representation or warranty that the goods or services are of merchantable quality, fit
+     for the purpose intended, safe for the purpose intended, as described by the seller or
+     owned by the seller.
+What this Privacy Policy Covers
+This Privacy Policy covers the Site's treatment of personal information that it collects when
+you are on this Site and when you use its services. This policy also describes how the
+company discloses your personal information. This policy does not describe information
+collection policies on other sites, including those linked to or from the Site.
+If you disclose personal information to third parties, this policy will not apply and you will be
+subject to the privacy policy of that third party.
+By accessing or using the Site’s services, including the rest of iCar Asia Network, you agree
+to the use and disclosure of your personal information in the manner described in this policy.
+Words defined in the Site’s Terms and Conditions of Use have the same meaning in this
+Privacy Policy.
 
-Mocento Media, doing business at www.LIVELIFEDRIVE.COM ("LIVE LIVE DRIVE") values our Visitors and guests and respects your concerns about online security and privacy. We believe in providing you with a safe and secure experience in automotive, lifestyle, and entertainment. Our Privacy and Security Policy is intended to protect your privacy and ensure that your personal information is handled in a safe and responsible manner. By using our website, you consent to the collection and use of your personal information. In addition to reviewing our Privacy and Security Policy, you should also read our Terms of Use. Your use of LIVELIFEDRIVE.COM constitutes your agreement to its terms and conditions.
 
-## Our Privacy and Security Policy Will Change Over Time
+Personal Data Protection
+Protection of personal data of iCar Asia’s Users matters and iCar Asia has a well-defined
+policy. Please refer to iCar Asia’s personal data protection notice located at Personal Data
+Protection Notice which forms part of this Agreement, to understand how iCar Asia uses and
+protects the personal data of its Users.
+The Information we gather
+The Site collects Personal Information that it considers necessary for it or its related bodies
+corporate to provide the range of services they offer. The information we collect generally falls
+into two categories:
+1. Information supplied by visitors to the website when they:
+     a. Create a new account
+     b. Login to their account
+     c. List, modify, delete a car (for sale) ad
+     d. Perform a search
+     e. Click to reveal seller info
+     f. Enter a sweepstakes or other promotional contest
+     g. Request an offer
+     h. Inquire about a vehicle listed for sale or about another product or service offered
+          through our website
+2. Information we collect as visitors use our website.
+     You need to sign up to use certain products, services, and tools on our website that
+     require you to provide information about yourself, such as your name, physical address,
+     email address, and phone number. For example, you may provide such information if you
+     sign up for a new account, newsletters, complete our "Feedback" form, or use a social
+     media tool. We may use such information in order to provide you with the products,
+     services, or tools you have requested.
+     When you list a car for sale, we ask for information about the car and on how you can be
+     contacted by potential buyers (including information like your phone number and email
+     address).
+     In addition to the above, we may collect information, and/or use the information we
+     collect, in the following specific ways:
+     Searches and Listings
+     To make use of certain features on our website, visitors need to provide limited
+     information about themselves and their interests so that we can tailor the information we
+     provide to their needs. For example, to help you find the car you want close to home, we
+     need to know what kind of car you are looking for and your location. We ask you to
+     provide this information when you perform a search. We use this information to help you
+     find the car you are looking for or as otherwise described in this Privacy Statement.
 
-Because we continue to develop LIVELIFEDRIVE.COM and take advantage of technologies to improve the services we provide, our policies will change over time. We encourage you to refer to this Privacy and Security Policy from time to time to stay abreast of our most current privacy policy practices. If you are a registered member of LIVELIFEDRIVE.COM, we may notify you by e-mail of material changes to our Privacy and Security Policy using the most current e-mail address you have provided to us. Your continued access and use of LIVELIFEDRIVE.COM will constitute your acceptance of any changes or revisions to our Privacy and Security Policy.
 
-## Summary of Our Privacy and Security Policy 
+Sweepstakes and Other Promotions
+From time to time, we may offer sweepstakes or other promotions on our website. If you
+enter a sweepstakes or promotional contest, we will ask you to provide information about
+yourself (such as your name, phone number, address, date of birth, and email address).
+Among other things, we will use this information to contact you if you win, and we may
+also use this information for marketing purposes. We may share this information with any
+co-sponsor of the contest or sweepstakes; we will identify the co-sponsor in the contest
+rules. We may also share this information with shipping or fulfilment companies or other
+third-party service providers that help administer our promotions, such as by conducting
+drawings, and/or delivering prizes to winners. If you do not want us to collect the
+information requested in the contest or sweepstakes registration form or to provide it to
+co-sponsors, please do not enter the contest or sweepstakes.
+Online Surveys
+From time to time, we survey our users to measure their satisfaction with our website and
+other sites and to help us learn more about our audience and how they interact with our
+website. Third-party research firms often conduct these surveys on our behalf. We use
+the survey results to help us improve the services we offer to you. We will take the
+information you provide and aggregate it on an anonymous basis with data collected from
+other survey participants. We may use and disclose that pool of anonymous information
+as we see fit, without identifying you personally.
+You may also find on our website invitations to participate in surveys conducted by our
+advertisers, whose privacy practices we do not control. These invitations will usually link
+to an online survey form that is hosted either by the advertiser conducting the survey or
+by a third-party research firm working on the advertiser's behalf. When you access an
+advertiser's survey through our website, the use and disclosure of any information you
+submit will be governed by the advertiser's privacy policy (or by the privacy policy of the
+advertiser's research firm), which may differ from ours. If you cannot find the applicable
+privacy policy via a link either from the advertiser's survey invitation or from the online
+survey form, you should contact the advertiser directly for more information.
+Email Addresses
+We may use your email address to respond to requests you make for our products or
+services or to respond to your communications with us. We may also contact you to
+inquire about your experience on our website, to provide you with information about our
+products and services available from us or from our affiliates, or to communicate to you
+information related to the automotive industry. From time to time, we may also send you
+emails that include special promotions and other commercial offers that we think may be
+of interest to you. We hope you will find these communications informative and useful. If
+you do not, you can unsubscribe from any of our commercial email programs by following
+the simple instructions included in an email you receive in connection with that program.
+If you request for a car using our Latest Car Requests, we will use and share your email
+address and other contact information with participating dealers as described earlier.
 
-This Privacy and Security Policy explains and summarizes how we collect, use, and protect your personal information as you interact with us online and through our customer and technical support. This Privacy and Security Policy explains:
 
-What information LIVE LIVE DRIVE gathers from users of LIVELIFEDRIVE.COM. How LIVE LIVE DRIVE uses the personal information that you share with us and that we learn about you because of our relationship. How LIVE LIVE DRIVE uses "cookies" and "IP Addresses." What personal information, if any, LIVE LIVE DRIVE may share about you with others and the conditions that protect your information if it must be shared. What kind of security measures LIVE LIVE DRIVE takes to protect your information from loss or disclosure and how LIVE LIVE DRIVEwill inform you in the event of a security breach. The circumstances under which you can access your personal information you have shared with LIVE LIVE DRIVEand have that information corrected, restrict LIVE LIVE DRIVE's use of that information, and even have it removed from our records. Other things you should know about privacy and LIVE LIVE DRIVE.
+    My Account
+    Creating and logging in to your account helps you find the right car by allowing you to do
+    things, like saving your favourite searches and cars, viewing car requests, and searching
+    for potential buyers. It also lets you customize your profile picture, edit first name, last
+    name, phone number, address, post code etc.
+    To access your account, we will ask you to register with us on the form provided, which
+    may include personally identifiable information like your email address. You may also be
+    asked to provide additional optional personal information, such as your name, gender,
+    and age. You agree to provide true, accurate, current, and complete information about
+    yourself. We use this information to process your registration request, provide you with
+    the services and communications that you request, customize features that appear on our
+    website, measure traffic on our website, and improve our website and the services and
+    features offered to users. We may share information we collect while you are using the
+    Site, including registration information, with our affiliates and with trusted third-party
+    service providers who assist us in providing services.
+    Social Networks
+    When you use one of the social network sharing tools available on our website, we and
+    the social network operating the tool may collect information about you based on such
+    use. The social network's use of that information will be subject to its own privacy policy,
+    which may be different from this Privacy Statement.
+    Content You Post to our Website
+    If you choose to post content to any of the interactive areas of our website, such as
+    discussion forums, comments fields, and social media areas, please keep in mind that the
+    information you post can be seen, collected, and used by anyone who has access to
+    those areas. You may also have the opportunity from time to time to respond to questions
+    that we display to users of the website. If you choose to respond, your response may be
+    published on an area of the website accessible to other users or the public. We are not
+    responsible for any third-party use of such information.
+Cookies and other data collection technologies
+Cookies
+A cookie is used to monitor the use of the Website and to gather information such as the
+sections of the website visited and other website usage information.
+The information is aggregated prior to such use and does not include any Personal
+Information. The Site uses cookies to serve you more efficiently when you revisit the Site.
+Most browsers are initially set up to accept cookies. However, you can set your browser to
+refuse all cookies or notify you when you receive a cookie and you will have the opportunity to
+either accept or reject it in each instance.
+Please note, however, that some parts of the services offered by the Site may not function
+properly if you refuse cookies.
 
-## The Type of Information LIVELIFEDRIVE.COM Collects About You 
 
-LIVE LIVE DRIVE collects information that you provide to us or that we learn about you from your use of LIVELIFEDRIVE.COM. We receive and store information you enter on LIVELIFEDRIVE.COM or give to us in any other way. For example, you may provide information to LIVELIFEDRIVE.COM when you register, sign-in, search, add items to your shopping cart, participate in a test profile or survey, request our e-mail newsletters, or communicate with LIVE LIVE DRIVE's customer service. As a result of those actions, you might supply us with such information as your name, address, phone number, e-mail address, and personal shopping and product preferences. We also automatically receive and store certain types of information whenever you visit LIVELIFEDRIVE.COM. We might also receive information about you from other sources, such as in providing you special offers that we think will be of interest, and we may add that information to our account information.
+Web Beacons
+To help us (and in some cases our advertisers and third-party providers) keep track of how
+many users are accessing particular pages or listings within our website, and to track how
+users respond to ads we place on third-party websites, we may place a small file, called a
+web beacon, on some of our pages and on some of the listings and ads we distribute.
+We may also place a web beacon in the emails we send to you. When you open one of our
+emails or click on links within these emails, we track this click-through data to help us
+determine your interest in particular topics and measure the effectiveness of our
+communications to you. If you prefer not to be tracked in this way, you should not open these
+emails or click text or graphic links in the emails.
+Information about your computer or device
+Our web server (and/or any web server operated by our service provider(s) on our behalf)
+automatically collects and may store limited information about your computer configuration
+when you visit our website, including:
+1.   The type of browser software you use,
+2.   The operating system you are running,
+3.   The resolution of your computer monitor,
+4.   Your IP address. (This is a numerical address that is used by computers connected to the
+     Internet to identify your computer so that data (such as the web pages you want to view)
+     can be transmitted to you. We also use IP address information for systems administration
+     (including fraud detection and prevention) and troubleshooting purposes.
+We may also collect information about the website you were visiting before you came to our
+website and the website you visit after you leave our website.
+Combined Technology Information
+Cookies, beacons, information collected about your computer or device, and other data
+collection technologies ("Data Technologies") may be used individually or in combination in
+order to provide and/or administer our services, to help us understand user behaviour, to
+monitor website performance, optimize ads and measure advertising performance.
+Website Analytics
+We may collect, or have a third party collect on our behalf, data on how visitors use and
+navigate through the Websites, such as the number of users who visit various pages within
+the Websites, what they click on, whether they scroll up or down on particular pages, fill out
+forms, etc. We use this information to improve the Websites and learn about users, and may
+disclose it to our affiliates (including, among others, the members of the iCar Asia Network
+corporate family), or to third parties.
+Advertising
+The Site has relationships with certain third-party advertising networks, Advertisers, and
+advertising services ("Advertising Services") that collect data, target and serve some of the
+advertisements, promotions, or other marketing messages you see on our website and other
+websites and mobile applications, including websites owned and/or operated by our affiliates.
 
-## How LIVE LIVE DRIVE Uses Information About You 
 
-We use information we have collected about you to provide you with the very best fashion and personal style news, products and services, and shopping experience. We do not sell your personal information to third parties for any reason. We do not disclose your personal information to unaffiliated third parties who may want to offer you their own products and services unless you have requested or authorized us to do so. We may share your personal information with third parties or affiliates of LIVE LIVE DRIVE where it is necessary for us to complete a transaction or do something you have asked us to do. For example, we might need to provide your personal information to retailers whose merchandise is featured on LIVELIFEDRIVE.COM so they can process and fulfill your request to buy merchandise. We may share your personal information to third parties or affiliates of LIVE LIVE DRIVE with whom we have contracted to perform services on our behalf. All companies that act on our behalf are contractually obligated to keep the personal information we provide to them confidential and to use the personal information we share only to provide the services we ask them to perform. We may disclose personal information about our Visitors as permitted or required by law, such as in connection with a subpoena or similar legal process, or in connection with a merger, acquisition, or bankruptcy, as discussed further below. We try to provide you with the information you need to make informed reasonable choices with respect to how LIVELIFEDRIVE.COM uses or shares your information. LIVE LIVE DRIVE collects and uses personal information from you in several ways:
+Such Advertising Services may, including through processes that we do not control, use Data
+Technologies from third party companies to collect data from your activities on these
+websites, on other websites owned and/or operated by our affiliates, or with other websites.
+These technologies may be used to track user behaviour, how our products and services are
+offered, conduct consumer research and possibly to serve you relevant ads and content.
+These companies may also obtain information, including personally identifiable information,
+from services you use from other companies, including without limitation, other websites,
+mobile websites or applications, and combine the information they obtain through these Data
+Technologies with information obtained through our products and services. Their collection
+and use of this data is subject to their own privacy policies.
+What if you do not provide personal information
+If you choose not to provide personal information when requested, the Site may not be able to
+provide you with the full range of services. You are given the opportunity to 'opt-out' of having
+your Personal Information used for purposes not directly related to the Website at the point
+where we ask for it.
+If you do not wish to have information on you used in any of the aforesaid manner, you can e-
+mail us through our Feedback form or to enquiries@carlist.my.
+If you do not want to receive e-mail or other mail from us, you can click on the unsubscribe
+link in our emails to remove your email address from our mailing list.
+Request not to use your personal information
+If you request that the Site does not use your Personal Information in any particular manner,
+we will adopt all reasonable measures to observe your request but we may still use or
+disclose that Personal Information if we believe that the use and disclosure is reasonably
+necessary under the governing laws.
+How is personal information used
+The Personal Information may be used to:
+•    send e-mail newsletters and other information to you as you request and to notify you
+     from time to time about services offered by the Site or other entities associated with the
+     Site,
+•    profile and/or analyse you using and accessing the Website and your pattern and manner
+     of usage,
+•    customise the advertising and content you see, to fulfil your requests for certain products
+     and services, and to contact you about specials and new products, whether directly or
+     through our partners or affiliates but for the sole purpose of fulfilling the functions above
+•    research, develop, and improve Carlist services,
+•    conduct surveys to determine use and satisfaction with Carlist services,
+•    generate statistics in relation to the Carlist and iCar Asia Network,
+•    promote and market special offers and other services to you
 
-**Website Usage.** LIVE LIVE DRIVE or LIVE LIVE DRIVE's authorized service providers may observe activities, preferences, and transactional data (such as your IP address, browser type, and operating system) relating to your use of LIVELIFEDRIVE.COM. We may use this collected or logged information in order to provide better service, to facilitate our Visitors' use of the website, to track usage of the website, and to address security hazards. LIVE LIVE DRIVE, or one of LIVE LIVE DRIVE's authorized service providers, may use this information to track aggregate traffic patterns throughout LIVELIFEDRIVE.COM. We may use aggregated, statistical information to describe our customer audience, products and services, and to develop partnerships with third parties to offer products and services in which we believe our Visitors will be interested. For example, if 30 percent of our Visitors are interested in the latest handbags and accessories, we may share that statistic with handbag and accessory retailers in order to offer through LIVELIFEDRIVE.COM the type of merchandise our Visitors want. 
 
-**Online Transactions.** We collect information about you when you use our website. You may visit our site without registering, but if you wish to add merchandise to your shopping cart, take a test, create a shopping book, "Shop Together," or use other special features offered on our site, you will need to provide us with certain information, including your name, address, phone number, and e-mail address, to open an account with us. We will assist you in creating a user ID and a password to protect your account information.
+We will not, however, share any such Personal Information with other entities except for such
+entities that have been authorised to carry out specific services for the Site.
+The Site shall preserve the contents of any communications which you send if the Site is of
+the view that there is a legal requirement for doing so. Your communications may be
+monitored for purposes of trouble-shooting or maintenance purposes.
+How is personal information disclosed
+The Site may use your Personal Information for any purpose which the Site may deem fit in
+its sole discretion.
+Individuals and/or organisations to which we may disclose personal information include:
+•    Carlist staff and Carlist bodies corporate
+•    the public if you advertise with Carlist or use publicly available Communications Services
+•    Individuals and organisations that advertise with Carlist if you submit an enquiry with
+     Carlist. If you do not want Carlist to disclose your personal information to these individuals
+     and organisations, please do not submit enquires.
+     Depending on your enquiry these may include:
+     o private advertisers
+     o licensed car dealers
+     o car brokers
+     o operators of Linked Sites
+     o financial service providers
+     o insurance service providers
+     o vehicle inspection service providers
+     o outsourced service providers who assist Carlist to provide its services including:
+     o information technology providers
+     o marketing and market research advisers
+     o professional advisers
+     o resellers of Carlist services
+     o organisations involved in a sale/transfer of Carlist assets, business, or shares
+     o government and regulatory authorities as required by law
+Except as provided herein and as required by law, your Personal Information will not be made
+available to third parties without your consent.
+Hyperlinks
+When you are on the Site, you could be directed to other sites that are beyond our control
+including hyperlinks to advertisers, merchants, sponsors, and content partners.
+You acknowledge that when you click on a hyperlink that leaves the Site, the site you are
+directed to is not within our control, and you acknowledge that the Site shall not be
+responsible for those sites or any damages or losses incurred by you resulting thereto.
 
-At this time, when you request to purchase items in your shopping cart, we will forward your request and basic account information to the retailer or ecommerce service provider. When you provide personal financial and other personally identifiable information to the retailers or service providers featured through LIVELIFEDRIVE.COM, the sales transaction will occur on the retailer's or service provider's site and not on LIVELIFEDRIVE.COM. As such, the financial and personally identifiable information you provide in placing your order is controlled by that retailer or service provider. In the future, LIVELIFEDRIVE.COM may conduct some or all of these sales transactions itself, but at this time, it only facilitates your requests.
 
-If you provide to us information about a friend through the "Invite a Friend" section of LIVELIFEDRIVE.COM, we will first contact that friend by e-mail to confirm that the friend wishes to participate in LIVELIFEDRIVE.COM activities and consents to having personal information about him or her collected and retained by LIVELIFEDRIVE.COM. If your friend does not consent to our use of his or her contact information, we will delete it from our records.
+Protecting the privacy of children
+Our website is not directed at or intended for children under 18 and we will not knowingly
+allow anyone under 18 to provide us any personally identifying information; if you are under
+18, please do not provide any information about yourself on this website.
+International visitors
+This website is intended for use by visitors within Malaysia. Please be aware that:
+1. Our databases are stored on servers and storage devices located in Malaysia, Singapore,
+    and various other parts of the world,
+2. Your information (including personal data) may be transferred to these locations for
+    processing and storage,
+3. These locations may not guarantee the same level of protection for personal data as the
+    locality or country in which you reside. By using our website, you expressly agree to our
+    collection, use, disclosure, and transfer of your information (including personal data) for
+    the purposes identified herein, and you consent to the transfer of such information outside
+    of your country.
+Effective date
+This Privacy Policy is effective as of January 2013.
+How this policy changes
+We may revise these Terms from time to time; the most current version can always be found
+here. The company recommends you to review this policy periodically to be aware of such
+modifications. By continuing to access or use the Services after those revisions /
+modifications become effective, you agree to be bound by the revised privacy policy.
+About security and personal Information
+The Site uses its best endeavours to store all Personal Information on servers with restricted
+access, and all electronic storage and transmission of Personal Information are secured with
+appropriate security technologies. Not to withstand the foregoing, the Site cannot guarantee
+that such precautions would render the Site and its servers immune to security breaches.
 
-LIVE LIVE DRIVE may offer Open Group Tests ("OGT"). To take our OGT, you and any of your friends who may wish to participate must be registered with LIVELIFEDRIVE.COM. Through our comparative scorecard, LIVE LIVE DRIVE will allow you to create a list of your friends and to compare your results with theirs. It works like this: You tell us whom to invite; our technology invites them on your behalf to participate in the OGT. Once your friend takes the test, you will receive an e-mail notice from LIVE LIVE DRIVE that his or her results are in. On the "results" page, which every invited participant can access and review, you can see their OGT results, first name, and e-mail address, and how you match up in certain categories. You can view your "personal invitation list" and who has yet to participate. The personal invitation list can only be seen by you as the inviter.
 
-Our "Shop Together" feature operates in a similar fashion. Each friend that you ask us to invite on your behalf to shop together with you must also be registered with LIVELIFEDRIVE.COM. We will e-mail you when your friend is ready to shop or is done shopping. You both will be able to view and compare each other's shopping selections. 
-
-**Public Areas.** Any information disclosed in public areas of LIVELIFEDRIVE.COM is public information that may be viewed and collected by any party. We cannot control the use of information disclosed in the social networking, chat rooms, reviews, or bulletin board portions of our site. You should exercise caution when disclosing information, including photos or images, in these public areas and should refrain from disclosing personally identifying information. If you wish to use some of the public portions on our site, we will direct you to first create a public ID, which is not your real e-mail address, before you can post information to our site. LIVE LIVE DRIVE reserves the right to remove any information at any time from our site that we deem inappropriate or for any other reason. 
-
-## Our Security Practices 
-
-Our internal data security policies restrict access to Visitors' personal information to authorized employees. Authorized employees may use our Visitors' personal information for LIVE LIVE DRIVE business purposes only. Our employees are bound by LIVE LIVE DRIVE policies that require them to maintain the confidentiality of our Visitors' personal information. Employees who violate these requirements are subject to disciplinary action, up to and including termination. We maintain physical, electronic, and procedural safeguards that are designed to guard our Visitors' personal information. For example, for the security of your online visit to LIVELIFEDRIVE.COM, we may make use of firewall barriers, encryption techniques, and/or authentication procedures. Unfortunately, no data transmission over the Internet can be guaranteed to be absolutely secure. As a result, while we strive to protect your personal information, LIVE LIVE DRIVE cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. In the event of a breach of the confidentiality or security of your personal information, we will notify you as necessary so you can take appropriate protective steps. Unless you indicate otherwise, we may notify you under such circumstances using the e-mail address you provided to us when you registered with LIVELIFEDRIVE.COM.
-
-## What Are Cookies and How Does LIVELIFEDRIVE.COM Use Them? 
-
-We may use "cookies" to collect or log certain information. A cookie is a small piece of information that a website stores on a personal computer and which it can later retrieve. We may use cookies for some administrative purposes-for example, to store our Visitors' preferences for certain kinds of products or to store a password so that you do not have to input it every time you visit our website. The cookies will not contain information that will enable anyone to contact our Visitors via telephone, e-mail, or any other means. If our Visitors are uncomfortable with the use of cookie technology, they can set their browsers to refuse cookies. Certain of our services, however, could be dependent on cookies, and our Visitors may disable those services by refusing cookies.
-
-Please note that the advertising networks serving ads on LIVELIFEDRIVE.COM may also use their own cookies. LIVE LIVE DRIVE does not control these cookies or the data collection practices of these companies. For more information about these companies' separate privacy policies, you should contact the advertising network directly. For more information on the privacy policies of our advertisers, see below. If the advertising network is a member of the Network Advertising Initiative ("NAI"), you may be able to opt out of receiving targeted advertising delivered by NAI members by following the opt-out directions on www.networkadvertising.org.
-
-## What Privacy Policies Cover the Ads on LIVELIFEDRIVE.COM? 
-
-We may use third-party advertising companies to serve ads on LIVELIFEDRIVE.COM. These companies may employ cookies and action tags (also known as single-pixel GIFs or Web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is not connected to personally identifiable information, such as your name and e-mail address.
-
-## Links to Third-Party Sites and Websites Containing LIVELIFEDRIVE.COM Branding 
-
-LIVELIFEDRIVE.COM may contain links to third-party sites. Please be aware, however, that LIVE LIVE DRIVE is not responsible for and cannot control the privacy policies of these other sites or their practices. We encourage you to read the privacy policies for these other sites, as they may differ from ours./p>
-
-This website may also contain links to sites that display LIVELIFEDRIVE.COM branding and/or LIVE LIVE DRIVE's logo but which are maintained by third parties. Such websites may be identified in that they do not display a "LIVELIFEDRIVE.COM" URL. Please read the privacy policy on these sites for applicable privacy practices relating to personal information collected via those sites because they may differ from LIVELIFEDRIVE.COM privacy practices. This Privacy and Security Policy applies solely to personal information collected by LIVE LIVE DRIVE.
-
-## Contact Preferences and Accessing Your Personal Information 
-
-You have choices when it comes to how LIVE LIVE DRIVE uses your personal information. When you register online with LIVELIFEDRIVE.COM, you can choose not to receive information about merchandise, services, and special promotional offers from us by direct mail and/or e-mail. If you elect not to receive such product marketing information by direct mail or e-mail, LIVE LIVE DRIVE may continue to contact you as necessary to service your account. You can change your contact preferences at any time by following the instructions for My Profile on LIVELIFEDRIVE.COM.
-
-Your test answers and results, both for your individual and OGT results, can be viewed in the My Tests section of our site. You can delete this information at any time by following the instructions on the My Tests section of LIVELIFEDRIVE.COM. Keeping your account information accurate and up-to-date is very important, so we can provide you with excellent service. If your account information is incomplete, inaccurate, or not current, please follow the instructions for My Account on LIVELIFEDRIVE.COM to correct your account information online.
-
-## This Privacy and Security Policy Applies to Malaysian Visitors 
-
-LIVELIFEDRIVE.COM is hosted in the Malaysia and is intended for Malaysia visitors. This Privacy and Security Policy applies to customer relationships established in the Malaysia. Parts of this Privacy and Security Policy may not apply to visitors outside the Malaysia. Like almost every website, LIVELIFEDRIVE.COM may be accessed by an international audience. If you are a Malaysian. visitor to our website, by visiting our website and providing us with data, you acknowledge and agree that your personal information may be processed for the purposes identified in this Privacy and Security Policy. In addition, such data may be stored on servers located outside your resident jurisdiction, which may have less stringent privacy practices than your own. By providing us with your data, you consent to transfer of such data.
-
-## Mergers, Acquisitions, and Bankruptcy 
-
-If LIVE LIVE DRIVE should ever file for bankruptcy or merge with another company, or if LIVE LIVE DRIVE should decide to buy another business or sell or reorganize part or all of LIVE LIVE DRIVE's business, LIVE LIVE DRIVE may be required to disclose your personal information to prospective or actual purchasers and other parties. It is LIVE LIVE DRIVE's practice to obtain appropriate protections for information disclosed in these types of transactions. LIVE LIVE DRIVE cannot, however, guarantee that LIVE LIVE DRIVE's Privacy and Security Policy will remain unchanged if LIVE LIVE DRIVE is sold or merges with another company.
-
-## LIVELIFEDRIVE.COM Is Not for Use by Children 
-
-Children are not eligible to use LIVELIFEDRIVE.COM. We ask that minors (under the age of 18) only use LIVELIFEDRIVE.COM in conjunction with your parents or guardians. Children under 13 should not send any information about themselves to LIVE LIVE DRIVE. If a child under 13 submits information through any part of LIVELIFEDRIVE.COM, and LIVE LIVE DRIVE becomes aware that the person submitting the information is a child, we will attempt to delete this information as soon as possible. Because we do not knowingly collect any personal information about children under 13, we do not use or disclose such information to third parties.
-
-## What Else Should I Know About My Privacy? 
-
-You should be careful to maintain the secrecy of your passwords and/or account information and be responsible about protecting your personal information and identity whenever you are online.
-
-## Trademark Notice 
-
-LIVE LIVE DRIVE and LIVELIFEDRIVE.COM are trademarks of Mocento Media.
+Contact Information
+If you have any questions or comments regarding this Privacy Policy, please contact us. Our
+details are as follows.
+Tel : 1300-30-4227
+Fax : 603-2776-6010
+Email : enquiries@carlist.my
+	  
