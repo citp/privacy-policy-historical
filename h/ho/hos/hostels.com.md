@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostels.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614043423id_/http%3A//www.hostels.com/d/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostels.com privacy policy that was archived on 2015-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150930162105id_/http%3A//www.hostels.com/d/privacy.php) for the most accurate reproduction.*
 
 # Hostels.com | Privacy Policy & Security Statement
 
@@ -97,11 +97,11 @@ Video guides, travel podcasts, city maps & free city guides. What to eat, where 
 
 [Find a guide »](http://www.hostels.com/d/guides "Find a travel guide")
 
-##### [Latest Blog Post](http://www.hostels.com/d/blog/travel/the-best-places-in-the-world-to-take-a-road-trip/)
+##### [Latest Blog Post](http://www.hostels.com/d/blog/cheap-eats/a-foodie-s-guide-to-marrakesh/)
 
-There's nothing like having your own transport to get around and when travelling the world it's no different.
+The epitome of culinary richness, Marrakesh -the heart of the red city, is a foodies wonderland
 
-[Read more »](http://www.hostels.com/d/blog/travel/the-best-places-in-the-world-to-take-a-road-trip/ "Latest blog post")
+[Read more »](http://www.hostels.com/d/blog/cheap-eats/a-foodie-s-guide-to-marrakesh/ "Latest blog post")
 
 ##### [Great Value and Choice](http://www.hostels.com/hostel.menu.html)
 
