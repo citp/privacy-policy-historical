@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usetallie.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317163101id_/https%3A//usetallie.com/automated-expense-reports-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usetallie.com privacy policy that was archived on 2015-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150930123525id_/https%3A//tallie.com/automated-expense-reports-privacy-policy) for the most accurate reproduction.*
 
 # Expense Report Software Privacy Policy | Tallie
 
