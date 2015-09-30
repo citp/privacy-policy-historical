@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freevideolectures.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144350id_/http%3A//freevideolectures.com/Pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freevideolectures.com privacy policy that was archived on 2015-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150930075224id_/http%3A//freevideolectures.com/Pages/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy
 
