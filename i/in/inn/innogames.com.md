@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the innogames.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507072602id_/http%3A//legal.innogames.com/portal/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innogames.com privacy policy that was archived on 2015-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150930051657id_/http%3A//legal.innogames.com/portal/en/privacy) for the most accurate reproduction.*
 
 # Data Protection Provisions
 
@@ -56,22 +56,20 @@ We will share some of the information we collect from you upon install of the mo
 
 You may "opt out" of the collection of your information for third party analytics purposes by following the directions provided by our third party analytics vendor located at <http://www.mobileapptracking.com/privacy-policy/>. If you “opt out” with our third party analytics provider, that action is specific to the information we collect specifically for that provider, and does not limit our ability to collect information from you, under the terms of this privacy policy, for other vendors.
 
+**3.3.6** In order to improve and optimize our service continuously, we use so-called mobile tracking technologies. For this, we use the services of the adjust GmbH, Saarbrücker Str. 38a, 10405 Berlin, Germany (www.adjust.com). With the help of these services, we collect statistical data on the usage of our apps to be able to constantly improve our offers. While using our apps, information transmitted to us by your device are collected and analyzed. In this respect, the following data are gathered: IP address, which is anonymized right away, MAC address, anonymized Device ID (IDentifier For Advertisers - IDFA or Google Advertiser ID - GAID), browser type, language settings, internet service provider, network status, time zone, URL of the entry and exit pages, date of access and time spent, clickstream data, and other statistical information about the use of our services. A direct individual identification of the user is not possible. The data gathered this way is used to create anonymous user profiles. The data collected with the tracking technologies will not be used to personally identify any visitor of our websites without their explicit consent. The collection and storing of the data can at any time be disabled with effect for the future by adjusting the settings of your mobile device as set out in section §3.5.
+
+**3.3.7** Our website utilizes the “conversion tracking pixel” of Facebook Inc., 1601 S. California Ave., Palo Alto, CA 94304, USA, www.facebook.com (“Facebook”) and/or Twitter International Company, The Academy 42, Pearse Street, Dublin 2, Ireland, http://www.twitter.com (“Twitter”). This tool allows us to follow the actions of users after they are redirected to a provider’s website by clicking on a partner’s advertisement. Hence, we are able to record the efficacy of Facebook or Twitter advertisements for statistical and market research purposes. The collected data are anonymous. This means that we cannot see the personal data of any individual user. However, the collected data are saved and processed by Facebook or Twitter. We are informing you on this matter according to our information at this time. Facebook and Twitter are able to connect the data with your Facebook or Twitter account and might use them for their own advertising in accordance with their privacy policies: https://www.facebook.com/about/privacy/ or https://twitter.com/privacy. The conversion tracking allows Facebook, Twitter and their respective partners to show you advertisements on and outside Facebook or Twitter. In addition, a cookie will be saved onto your computer for these purposes in both cases. Please click here if you would like to revoke your permission: <https://www.facebook.com/ads/website_custom_audiences/> or <https://twitter.com/settings/security>.
+
 **3.4 Usage via a third-party platform; MobileTracking**
 
-By using a website or downloading an InnoGames mobile app from or through a third-party platform, you consent to the access and / or storage of
+In order to improve and optimize our service continuously, we use so-called mobile tracking technologies. For this, we use the services of the adjust GmbH, Saarbrücker Str. 38a, 10405 Berlin, Germany (www.adjust.com). With the help of these services, we collect statistical data on the usage of our apps to be able to constantly improve our offers. While using our apps, information transmitted to us by your device are collected and analyzed. In this respect, the following data are gathered: IP address, which is anonymized right away, MAC address, anonymized Device ID (IDentifier For Advertisers - IDFA or Google Advertiser ID - GAID), browser type, language settings, internet service provider, network status, time zone, URL of the entry and exit pages, date of access and time spent, clickstream data, and other statistical information about the use of our services. A direct individual identification of the user is not possible. The data gathered this way is used to create anonymous user profiles. The data collected with the tracking technologies will not be used to personally identify any visitor of our websites without their explicit consent. The collection and storing of the data can at any time be disabled with effect for the future by adjusting the settings of your mobile device as set out in section §3.5.
 
-  * specific account and/or profile information with this third-party provider or
-  * specific information through cookies placed on your device by third-party platforms. 
+**3.5** You can disable the tracking of your device ID as follows: 
+
+  * In the case of a mobile device of Apple: Open the settings of your mobile device (e.g. iPhone or iPad) and select the menu item “Privacy”. Under “Advertising“ you can turn off the Ad Tracking.
+  * In the case of Android devices: Open the settings in your App list and tap on the “Ad” button. When the Ad window has opened, you can deactivate the Google Advertising ID.
 
 
-
-We share this data with the third-party platform for the purpose of use by them according to the terms of use and your privacy settings at this third-party platform. 
-
-If you use a mobile app, InnoGames, in accordance with the privacy settings you have agreed with your mobile operator, can collect your IP address, i.e. the unique identification number automatically assigned to your device; the device type; and any information you voluntarily provide or publish (such as your email address).
-
-We pass on some of this information during the installation of the mobile app to contracted suppliers as well as to other service providers with whom we work who require the duplication or disclosure of this data for the purpose of providing you with the provided services and / or for analysis purposes.
-
-You can, at any time, revoke permission to the access and / or storage of your data for the purpose of analysis by third-party platforms or prevent such access and / or storage of this by using the following apps: [https://play.google.com/store/apps/details?id=com.adxtracking.optout&hl=en](https://play.google.com/store/apps/details?id=com.adxtracking.optout&hl=en) oder <https://itunes.apple.com/en/app/ad-x-tracking-opt-out/id651367370?mt=8>.
 
 ## 4\. Use of the Scalable Central Measurement Method
 
