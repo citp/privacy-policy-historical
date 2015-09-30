@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the coop.com.au privacy policy that was archived on 2015-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150628202907id_/http%3A//www.coop.com.au/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the coop.com.au privacy policy that was archived on 2015-09-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150930190220id_/http%3A//www.coop.com.au/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://script.crazyegg.com/pages/scripts/0031/1969.js?439000" async="" type="text/javascript"></script><script type="text/javascript" src="//d1l6p2sc9645hc.cloudfront.net/tracker.js"></script><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PTGB3H"></script><script src="//s.squixa.net/8/sqrum.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XQIAUlVSGwsDUFVTAgI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript" src="//d1l6p2sc9645hc.cloudfront.net/tracker.js"></script><script src="https://js-agent.newrelic.com/nr-686.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PTGB3H"></script><script src="//s.squixa.net/8/sqrum.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XQIAUlVSGwsDUFVTAgI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,ee:"QJf3ax"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=t("ee").create(),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-686.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
 <title>Privacy Policy</title>
-<meta name="description" content="">
+<meta name="description" content="The Co-op has Australia's largest range of textbooks, as well as fiction &amp;amp; non-fiction, tech items, gifts &amp;amp; more. Visit us today for great value &amp;amp; fast delivery!.">
 <meta name="robots" content="INDEX,FOLLOW">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="icon" href="https://s.squixa.net/www.coop.com.au/1/coop-production-magento.s3.amazonaws.com/skin/frontend/default/b-responsive/xfavicon.ico.pagespeed.ic.HHtgSHkCAZ.png" type="image/x-icon">
@@ -18,33 +18,35 @@
 </script>
 <![endif]-->
 <script type="text/javascript">var JAVELIN_URL='http://www.coop.com.au';var BASE_URL='http://www.coop.com.au/';var clearenceUrl='';</script>
-<link rel="stylesheet" type="text/css" href="https://s.squixa.net/www.coop.com.au/1/coop-production-magento.s3.amazonaws.com/media/css/A.24ab171cbb72f6e375bdfd19eecc6a8e-2-1435205494.css.gz.css.pagespeed.cf.GAwwkQkyKy.css" media="all">
-<link rel="stylesheet" type="text/css" href="https://s.squixa.net/www.coop.com.au/1/coop-production-magento.s3.amazonaws.com/media/css/A.cf06231785b9656cb0a04b1fcffb5582-2-1435205215.css.gz.css.pagespeed.cf.A2EYejur-L.css" media="print">
-<script type="text/javascript" src="https://s.squixa.net/www.coop.com.au/1/coop-production-magento.s3.amazonaws.com/media/js/15e8bc2a00c46d45d54f6f25e1e396ef-1435205215.js.gz.js.pagespeed.jm.BE9Bjqkaau.js"></script>
-<script type="text/javascript" src="https://s.squixa.net/www.coop.com.au/1/coop-production-magento.s3.amazonaws.com/media/js/fe915d1db1dd1655838945bb69412600-1435205215.js.gz.js.pagespeed.jm.QRw2KO1K8r.js"></script>
+<link rel="stylesheet" type="text/css" href="https://s.squixa.net/www.coop.com.au/1/coop-production-magento.s3.amazonaws.com/media/css/A.c24e3486eb745ea98f0798b7681d090e-2-1443400906.css.gz.css.pagespeed.cf.u1Ckg331da.css" media="all">
+<link rel="stylesheet" type="text/css" href="https://s.squixa.net/www.coop.com.au/1/coop-production-magento.s3.amazonaws.com/media/css/A.997a1279f909edb96e8b6cd064adddd3-2-1443072754.css.gz.css.pagespeed.cf.A2EYejur-L.css" media="print">
+<script type="text/javascript" src="https://s.squixa.net/www.coop.com.au/1/coop-production-magento.s3.amazonaws.com/media/js/e3568c9dca1ea183a1acc189340d3787-1443072754.js.gz.js.pagespeed.jm.TDggFqPvYr.js"></script>
+<script type="text/javascript" src="https://s.squixa.net/www.coop.com.au/1/coop-production-magento.s3.amazonaws.com/media/js/515fc43f1a25453de477f3e47227c89e-1443072754.js.gz.js.pagespeed.jm.hGYztBcU-Z.js"></script>
 <link rel="canonical" href="http://www.coop.com.au/privacy-policy">
 <!--[if lt IE 8]>
-<link rel="stylesheet" type="text/css" href="https://www.coop.com.au/coop-production-magento.s3.amazonaws.com/media/css/10b6a45788da04b1a5e676929512f69d-2-1435205215.css.gz.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.coop.com.au/coop-production-magento.s3.amazonaws.com/media/css/6cd741b63eefb96ac042369fb0e3c199-2-1443072754.css.gz.css" media="all" />
 <![endif]-->
 <!--[if lt IE 7]>
-<script type="text/javascript" src="https://www.coop.com.au/coop-production-magento.s3.amazonaws.com/media/js/c09c21a1acf8dd8d5a64efddcd8df43b-1435205215.js.gz.js"></script>
-<script type="text/javascript" src="https://www.coop.com.au/coop-production-magento.s3.amazonaws.com/media/js/23560bd196a94e1653c78cb24ddd2946-1435205215.js.gz.js"></script>
+<script type="text/javascript" src="https://www.coop.com.au/coop-production-magento.s3.amazonaws.com/media/js/c648e93010fb458b5bc2d839a96ab0b1-1443072754.js.gz.js"></script>
 <![endif]-->
 <!--[if lt IE 9]>
-<script type="text/javascript" src="https://www.coop.com.au/coop-production-magento.s3.amazonaws.com/media/js/fffd0efa1f5bf64e855a671291c28013-1435205215.js.gz.js"></script>
+<script type="text/javascript" src="https://www.coop.com.au/coop-production-magento.s3.amazonaws.com/media/js/f3c18a40edc77f74665f486be48bfd4b-1443072754.js.gz.js"></script>
 <![endif]-->
 
 <script type="text/javascript">Mage.Cookies.path='/';Mage.Cookies.domain='.coop.com.au';</script>
 
 <script type="text/javascript">optionalZipCountries=["HK","IE","MO","PA"];</script>
 
-<script type="text/javascript">var slibaseurlsearch='http://';var slibaseurl='http://';</script>
-<!-- Please get configuration from SLI Systems !--><script type="text/javascript">var Translator=new Translate([]);</script><style>.category-products .out-of-stock{display:none}</style><script type="text/javascript">jQuery(document).ready(function(){var backgroundOption={background:'url("http://www.coop.com.au/skin//frontend/default/b-responsive/images/coop/background-ebooks-home.png") no-repeat top center'};jQuery('.category-ebooks > .wrapper').css(backgroundOption);jQuery('.category-mall > .wrapper').css(backgroundOption);if(country_code!=null&&country_code!=''&&country_code!='AU'&&country_code!='au'){var message="<strong>Yes, we also ship to "+country_name+"</strong>";jQuery('#shipping-method-free').html(message);}});function getCookie(cname){var name=cname+'=';var ca=document.cookie.split(';');for(var i=0;i<ca.length;i++){var c=ca[i];while(c.charAt(0)==' ')c=c.substring(1);if(c.indexOf(name)==0)return c.substring(name.length,c.length);}
+<script type="text/javascript">var slibaseurlsearch='http://coop.resultspage.com';var slibaseurl='http://coop.resultspage.com';</script>
+<link rel="stylesheet" type="text/css" href="//coop.resultspage.com/autocomplete/sli-rac.css"> <script type="text/javascript">var Translator=new Translate([]);</script><style>.category-products .out-of-stock{display:none}</style>
+<script type="text/javascript">if(window.location.host=='search.coop.com.au'){Ajax.Request.prototype.request=Ajax.Request.prototype.request.wrap(function(request,url){this.transport.withCredentials=true;request(url);});}</script><script type="text/javascript">function getCookie(cname){var name=cname+'=';var ca=document.cookie.split(';');for(var i=0;i<ca.length;i++){var c=ca[i];while(c.charAt(0)==' ')c=c.substring(1);if(c.indexOf(name)==0)return c.substring(name.length,c.length);}
 return"";}
-var country_code=getCookie('country_code');var country_name=getCookie('country_name');if(!country_code){var country=getCookie('country');if(country){var parts=country.split(",");if(parts.length==2){country_code=parts[0];country_name=parts[1];}}}</script>
+var country_code=getCookie('country_code');var country_name=getCookie('country_name');if(country_code&&country_name){country_code=decodeURIComponent(country_code);try{country_code=eval(country_code);}catch(err){}
+country_name=decodeURIComponent(country_name);try{country_name=eval(country_name);}catch(err){}}else{var token=(new Date().getTime())+""+(Math.round((Math.pow(36,11)-Math.random()*Math.pow(36,10))).toString(36).slice(1));var jslocation=document.createElement('script');jslocation.setAttribute("type","text/javascript");jslocation.setAttribute("src","/profile/index/location?token="+token);document.getElementsByTagName("head")[0].appendChild(jslocation)}
+function updateShipping(country_code,country_name){if(country_code!=''&&country_code!=null){if(getCookie('country_code')!=country_code){var cookie_path="/";var cookie_domain=".coop.com.au";jQuery.cookie('country_code',country_code,{raw:true,domain:cookie_domain,path:cookie_path});jQuery.cookie('country_name',country_name,{raw:true,domain:cookie_domain,path:cookie_path});}
+if(country_code.toLowerCase()!='au'){var message="<strong>Yes, we also ship to "+country_name+"</strong>";jQuery('#shipping-method-free').html(message);}}}
+jQuery(document).ready(function(){updateShipping(country_code,country_name);});</script><script type="text/javascript" src="/profile/index/location?token=1580402741903dm4zijtny8"></script>
 
-<script src="//cdn.optimizely.com/js/1633360609.js"></script>
-    <script type="text/javascript" src="//static.criteo.net/js/ld/ld.js" async="true"></script>
 
 <!-- SKIN ZOOM -->
     <style media="screen">.zoom-container{position:relative}#zoom-window{position:absolute;top:0;border:5px solid #fff;z-index:100;height:390px;overflow:hidden;background:#fff url(https://s.squixa.net/www.coop.com.au/1/coop-production-magento.s3.amazonaws.com/skin/frontend/default/b-responsive/images/loading.gif.pagespeed.ce.-20AGeOD1Z.gif) no-repeat center center;-webkit-box-shadow:0 0 10px #888;-moz-box-shadow:0 0 10px #888;box-shadow:0 0 10px #888}.zoom-gallery{list-style-type:none;width:1000px;margin-top:100px}.zoom-thumbnail{float:left;text-decoration:none}li:first-child .zoom-thumbnail{margin-left:0}.thumbnail-loading{background:#fff url(https://s.squixa.net/www.coop.com.au/1/coop-production-magento.s3.amazonaws.com/skin/frontend/default/b-responsive/images/loading.gif.pagespeed.ce.-20AGeOD1Z.gif) no-repeat center center}.thumbnail-loading img{opacity:.5}</style>
@@ -65,76 +67,8 @@ var country_code=getCookie('country_code');var country_name=getCookie('country_n
         <!-- ESI START DUMMY COMMENT [] -->
 <!-- ESI URL DUMMY COMMENT -->
 
- <div class="global-nav">
-
-    <div class="container">
-        <div class="row">
-            <div class="col-xs-6 col-sm-9 col-md-10">
-                <ul class="coop-menu">
-                    <li class="coop"><a href="http://www.coop.com.au" target="_self" class="coop-coop-logo"></a></li>
-                </ul>
-                <ul class="coop-menu-xs hidden-xs">
-                    <li><a class="coop-coop-menu">&nbsp;&nbsp;About Us</a>
-                        <ul>
-                            <li><a href="/about-us" target="_self">About the Co-op</a></li>
-                            <li><a href="/welcome" target="_self">CEO Message</a></li>
-                            <li><a href="/executive-profiles" target="_self">Executive Profiles</a></li>
-                            <li><a href="/we-support" target="_self">We Support</a></li>
-                            <li><a href="/coop-employment" target="_self">Work at the Co-op</a></li>
-                            <li><a href="/what-is-co-op" target="_self">What is a Co-op</a></li>
-                        </ul>
-                    </li>
-                    <li><a class="coop-coop-menu">&nbsp;&nbsp;Customer Service</a>
-                        <ul>
-                            <li><a href="/books/faq" target="_self">FAQ</a></li>
-                            <li><a href="/postage" target="_self">Postage &amp; Handling</a></li>
-                            <li><a href="/privacy-policy" target="_self">Privacy</a></li>
-                            <li><a href="/returns-policy" target="_self">Returns</a></li>
-                            <li><a href="/pricing-policy" target="_self">Pricing Policy</a></li>
-                            <li><a href="/availability" target="_self">Availability</a></li>
-                        </ul>
-                    </li>
-                    <li><a href="/contact-us" target="_self">Contact Us</a></li>
-                    <li><a href="/storelocator" target="_self">Our Stores</a></li>
-                    <li><a class="coop-coop-menu">&nbsp;&nbsp;Membership</a>
-                        <ul>
-                                                            <li><a href="/join" target="_self">Buy Membership</a></li>
-                                                        <li><a href="/membership-information" target="_self">Why you should become a Member</a></li>
-                            <li><a href="/membership-switch" target="_self">Switch Membership Card Info</a></li>
-                            <li><a href="/customer/account/login/" target="_self">Update Your Details</a></li>
-                            <li><a href="/profile/account/membercheck" target="_self">Am I Still A Member?</a></li>
-                            <li><a href="/membership-terms" target="_self">Membership Terms &amp; Conditions</a></li>
-                            <li><a href="/coupon-deals" target="_self">Member Deals</a></li>
-                        </ul>
-                    </li>
-                </ul>
-            </div>
-
-            <div class="col-xs-6 col-sm-3 col-md-2">
-                <ul>
-                                            <li class="buy-membership"><a href="/join" target="_self">Buy Co-op Membership</a></li>
-                                    </ul>
-            </div>
-        </div>
-    </div>
-</div>
  
-<!-- ESI END DUMMY COMMENT [] -->
-            <noscript>
-        <div class="global-site-notice noscript">
-            <div class="notice-inner">
-                <p>
-                    <strong>JavaScript seems to be disabled in your browser.</strong><br/>
-                    You must have JavaScript enabled in your browser to utilize the functionality of this website.                </p>
-            </div>
-        </div>
-    </noscript>
-
-        <div class="page container">
-            <!-- ESI START DUMMY COMMENT [] -->
-<!-- ESI URL DUMMY COMMENT -->
-
- 
+<div class="page container">
 <div class="navbar navbar-default coop-mall-navbar" role="navigation">
     <div class="grid-container">
 
@@ -144,22 +78,12 @@ var country_code=getCookie('country_code');var country_name=getCookie('country_n
         <div class="top-nav">
             <!-- Top nav bar elements -->
             <div>
-                <form id="search_mini_form_header" class="" action="http://www.coop.com.au/catalogsearch/result/" method="get">
-<!--
-                    <select name="cid" id="category_select" class="form-control">
-                        <option value="">Filter by a Department</option>
-                                            </select>
--->
-                    <div class="form-wrapper search-container">
-                        <input id="nav-search" type="text" class="form-control search-text" name="q" value="" placeholder="Search by ISBN, keyword or subject" autocomplete="off">
-                        <div id="search_autocomplete" class="search-autocomplete search-autocomplete-2"></div>
-                        <script type="text/javascript">var searchForm=new Varien.searchForm('search_mini_form_header','nav-search','Search by ISBN, keyword or subject');searchForm.initAutocomplete('http://www.coop.com.au/searchautocomplete/suggest/result/','search_autocomplete');function getParameterByName(name){name=name.replace(/[\[]/,"\\[").replace(/[\]]/,"\\]");var regex=new RegExp("[\\?&]"+name+"=([^&#]*)"),results=regex.exec(location.search);return results===null?"":decodeURIComponent(results[1].replace(/\+/g," "));}
-jQuery(document).ready(function(){var keyword=getParameterByName('q');jQuery('#nav-search').val(keyword);});</script>
-                        <button class="btn-search icon-small coop-coop-search"></button>
-                    </div>
-
-                </form>
-
+                <form id="search_mini_form_header" action="http://search.coop.com.au/search" method="get"> 
+<div class="form-wrapper search-container"> 
+<input id="nav-search" type="text" class="form-control search-text" name="w" placeholder="Search by ISBN, keyword or subject" autocomplete="off" data-provide="rac"> 
+<button class="btn-search icon-small coop-coop-search"></button> 
+</div> 
+</form>
                 <div id="nav-account" class="hover-wrapper">
                                             <!-- REMOVED MINI LOGIN FORM -->
                         <script type="text/javascript">function setBeforeLoginUrl(){var before_login_url=window.location.href.toString();var cookie_path="/";var cookie_domain=".coop.com.au";jQuery.cookie("before_login_url",before_login_url,{domain:cookie_domain,path:cookie_path})
@@ -172,16 +96,34 @@ return true;}</script>
                 <div id="nav-cart" class="hover-wrapper" data-id="viewCartHover">
                     <a href="javascript:void(0)" class="icon-small coop-coop-cart"><span>&nbsp;My Cart</span></a>
                     <div id="j2t-top-cart" class="my-cart-total j2t-top-cart hidden-mobile">
-        <span>0</span>
+    <span>0</span>
     <div class="top-block-cart">
         <div class="block block-cart-header">
             <div class="block-content">
-                                    <div id="header-items" class="empty">
-                        <p class="empty">You have no items in your shopping cart.</p>
+                                    <div id="header-items">
+                        <ol id="cart-sidebar" class="mini-products-list">
+                                <li class="item membership-promo membership-promo--header membership-promo--pending">
+        <h4>
+            You are missing out!        </h4>
+        <p>
+            Save by becoming a            <a href="/membership-information">Co-op Member</a>.
+        </p>
+        <button class="btn btn-primary" type="button" onclick="window.location='https://www.coop.com.au/join/checkout/add/'">Add »</button>
+    </li>
+                        </ol>
+                        <dl class="header-summary">
+                            <dt class="header-summary--key">
+                                Subtotal                            </dt>
+                            <dd class="header-summary--value">
+                                $0.00
+                            </dd>
+                        </dl>
                     </div>
-                            </div>
-        </div>
+                                <button data-id="checkoutCartView" type="button" title="View Cart" class="button btn-primary " onclick="window.location='http://www.coop.com.au/checkout/cart/';"><span><span>View Cart »</span></span></button>
+                <button data-id="checkoutCartView" type="button" title="Checkout" class="button btn-primary pull-right" onclick="window.location='http://www.coop.com.au/checkout/cart/';"><span><span>Checkout »</span></span></button>
             </div>
+        </div>
+                    </div>
 </div>
                 </div>
 
@@ -206,7 +148,7 @@ return true;}</script>
 
                 <div class="msg-container">
                     <span class="icon-small icon-member"></span>
-                    Co-op Memberships: <strong>1,885,465</strong>
+                    Co-op Memberships: <strong>1,908,022</strong>
                 </div>
             </div>
 
@@ -218,468 +160,368 @@ return true;}</script>
 <script type="text/javascript">function openTopMenuItem(item){jQuery(item).parent().addClass('active');return false;}
 function closeTopMenuItem(item){jQuery(item).parent().removeClass('active');return false;}</script>
 
-<div><a class="tablet-menu mobile-menu slide-menu"><span class="coop-coop-menu">&nbsp;Browse by category</span></a></div>
+<div><a class="tablet-menu mobile-menu slide-menu"> <span class="coop-coop-menu">&nbsp;Browse by category</span> </a></div>
 <div class="slide-cover">&nbsp;</div>
 <ul class="secondary-navigation nav nav-pills clearfix">
 <li class="btn-close coop-coop-close"></li>
-<li class="level0 nav-1 first menu-item navigation-item no-transition parent"><a href="http://www.coop.com.au/books/fiction" class="menu-item navigation-item no-transition">
-    <span>Fiction</span>
-    <b class="coop-coop-menu"></b>
-</a>
-<a href="#" onclick="return openTopMenuItem(this);" class="icon-open icon-expend">&nbsp;</a>
-<a href="#" onclick="return closeTopMenuItem(this);" class="icon-close icon-expend">&nbsp;</a>
+<!-- BOOKS -->
+<li class="level0 nav-2 menu-item navigation-item no-transition parent"><a href="#" class="menu-item navigation-item no-transition"> <span>Books</span> </a> <a href="#" onclick="return openTopMenuItem(this);" class="icon-open icon-expend">&nbsp;</a> <a href="#" onclick="return closeTopMenuItem(this);" class="icon-close icon-expend">&nbsp;</a>
 <div class="sub-menu dropdown-menu row">
-    <ul class="level0">
-                <li class="level1 nav-5065-8006 parent">
-            <a href="http://www.coop.com.au/books/fiction/featured"><span>Featured Fiction</span></a>
-        </li>
-                <li class="level1 nav-5065-7461 parent">
-            <a href="http://www.coop.com.au/books/fiction/new-releases"><span>New Release Books</span></a>
-        </li>
-                <li class="level1 nav-5065-5074 parent">
-            <a href="http://www.coop.com.au/books/fiction/adventure"><span>Adventure</span></a>
-        </li>
-                <li class="level1 nav-5065-7198 parent">
-            <a href="http://www.coop.com.au/books/fiction/picture-books"><span>Children's Illustrated</span></a>
-        </li>
-                <li class="level1 nav-5065-7229 parent">
-            <a href="http://www.coop.com.au/books/fiction/childrens-fiction"><span>Children's Fiction </span></a>
-        </li>
-                <li class="level1 nav-5065-5067 parent">
-            <a href="http://www.coop.com.au/books/fiction/classic-fiction"><span>Classic Fiction</span></a>
-        </li>
-                <li class="level1 nav-5065-5068 parent">
-            <a href="http://www.coop.com.au/books/fiction/crime-mystery"><span>Crime &amp; Mystery</span></a>
-        </li>
-                <li class="level1 nav-5065-5089 parent">
-            <a href="http://www.coop.com.au/books/fiction/erotic-fiction"><span>Erotic Fiction</span></a>
-        </li>
-                <li class="level1 nav-5065-5087 parent">
-            <a href="http://www.coop.com.au/books/fiction/fantasy"><span>Fantasy</span></a>
-        </li>
-                <li class="level1 nav-5065-5104 parent">
-            <a href="http://www.coop.com.au/books/fiction/fiction-in-translation"><span>Fiction in Translation</span></a>
-        </li>
-                <li class="level1 nav-5065-5097 parent">
-            <a href="http://www.coop.com.au/books/fiction/graphic-novels"><span>Graphic Novels</span></a>
-        </li>
-                <li class="level1 nav-5065-5095 parent">
-            <a href="http://www.coop.com.au/books/fiction/historical-fiction"><span>Historical Fiction</span></a>
-        </li>
-                <li class="level1 nav-5065-5082 parent">
-            <a href="http://www.coop.com.au/books/fiction/horror-ghost-stories"><span>Horror &amp; Ghost Stories</span></a>
-        </li>
-                <li class="level1 nav-5065-5066 parent">
-            <a href="http://www.coop.com.au/books/fiction/fiction-modern-contemporary"><span>Modern &amp; Contemporary FIction</span></a>
-        </li>
-                <li class="level1 nav-5065-5090 parent">
-            <a href="http://www.coop.com.au/books/fiction/myth-legend-told-as-fiction"><span>Myths &amp; Legends Told as Fiction</span></a>
-        </li>
-                <li class="level1 nav-5065-5015 parent">
-            <a href="http://www.coop.com.au/books/fiction/poetry"><span>Poetry</span></a>
-        </li>
-                <li class="level1 nav-5065-5096 parent">
-            <a href="http://www.coop.com.au/books/fiction/religious-spiritual-fiction"><span>Religious &amp; Spiritual Fiction</span></a>
-        </li>
-                <li class="level1 nav-5065-5091 parent">
-            <a href="http://www.coop.com.au/books/fiction/romance"><span>Romance</span></a>
-        </li>
-                <li class="level1 nav-5065-5094 parent">
-            <a href="http://www.coop.com.au/books/fiction/sagas"><span>Sagas</span></a>
-        </li>
-                <li class="level1 nav-5065-5084 parent">
-            <a href="http://www.coop.com.au/books/fiction/science-fiction"><span>Science Fiction</span></a>
-        </li>
-                <li class="level1 nav-5065-5103 parent">
-            <a href="http://www.coop.com.au/books/fiction/short-stories"><span>Short Stories</span></a>
-        </li>
-                <li class="level1 nav-5065-5071 parent">
-            <a href="http://www.coop.com.au/books/fiction/thriller-suspense"><span>Thriller &amp; Suspense</span></a>
-        </li>
-                <li class="level1 nav-5065-7458 parent">
-            <a href="http://www.coop.com.au/books/fiction/young-adult-fiction"><span>Young Adult Fiction</span></a>
-        </li>
-                <li class="level1 nav-5065-8060 parent">
-            <a href="http://www.coop.com.au/books/fiction/oxford-classics"><span>Oxford World's Classics</span></a>
-        </li>
-            </ul>
+<div class="container">
+<div class="menu-header row">
+<div class="navigation-container navigation-top books-navigation-top">
+<div class="col-md-6 col-xs-12">
+<div class="category-name pull-left">Books</div>
+<div class="view-all pull-left"></div>
 </div>
-</li>
-<li class="level0 nav-2 menu-item navigation-item no-transition parent"><a href="http://www.coop.com.au/books/non-fiction" class="menu-item navigation-item no-transition">
-    <span>Non Fiction</span>
-    <b class="coop-coop-menu"></b>
-</a>
-<a href="#" onclick="return openTopMenuItem(this);" class="icon-open icon-expend">&nbsp;</a>
-<a href="#" onclick="return closeTopMenuItem(this);" class="icon-close icon-expend">&nbsp;</a>
-<div class="sub-menu dropdown-menu row">
-    <ul class="level0">
-                <li class="level1 nav-3788-4733 parent">
-            <a href="http://www.coop.com.au/books/non-fiction/the-arts"><span>Arts</span></a>
-        </li>
-                <li class="level1 nav-3788-4838 parent">
-            <a href="http://www.coop.com.au/books/non-fiction/architecture"><span>Architecture</span></a>
-        </li>
-                <li class="level1 nav-3788-4944 parent">
-            <a href="http://www.coop.com.au/books/non-fiction/biography"><span>Biography &amp; Memoirs</span></a>
-        </li>
-                <li class="level1 nav-3788-5661 parent">
-            <a href="http://www.coop.com.au/books/non-fiction/economics-finance-business"><span>Business, Finance &amp; Economics</span></a>
-        </li>
-                <li class="level1 nav-3788-7196 parent">
-            <a href="http://www.coop.com.au/books/non-fiction/children-s-educational"><span>Children's &amp; Educational</span></a>
-        </li>
-                <li class="level1 nav-3788-6635 parent">
-            <a href="http://www.coop.com.au/books/non-fiction/computing-information-tech"><span>Computing &amp; Information Tech</span></a>
-        </li>
-                <li class="level1 nav-3788-6909 parent">
-            <a href="http://www.coop.com.au/books/non-fiction/cooking-food-drink"><span>Cookery, Food &amp; Drink</span></a>
-        </li>
-                <li class="level1 nav-3788-4973 parent">
-            <a href="http://www.coop.com.au/books/non-fiction/dictionaries"><span>Dictionaries</span></a>
-        </li>
-                <li class="level1 nav-3788-6389 parent">
-            <a href="http://www.coop.com.au/books/non-fiction/earth-sciences-geography"><span>Earth Sciences, Geography</span></a>
-        </li>
-                <li class="level1 nav-3788-5516 parent">
-            <a href="http://www.coop.com.au/books/non-fiction/education"><span>Education</span></a>
-        </li>
-                <li class="level1 nav-3788-7410 parent">
-            <a href="http://www.coop.com.au/books/non-fiction/graphic-novels"><span>Graphic Novels</span></a>
-        </li>
-                <li class="level1 nav-3788-6837 parent">
-            <a href="http://www.coop.com.au/books/non-fiction/health-fitness-diet"><span>Health Fitness &amp; Diet</span></a>
-        </li>
-                <li class="level1 nav-3788-5149 parent">
-            <a href="http://www.coop.com.au/books/non-fiction/history"><span>History</span></a>
-        </li>
-                <li class="level1 nav-3788-5148 parent">
-            <a href="http://www.coop.com.au/books/non-fiction/humanities"><span>Humanities</span></a>
-        </li>
-                <li class="level1 nav-3788-7013 parent">
-            <a href="http://www.coop.com.au/books/non-fiction/humour"><span>Humour</span></a>
-        </li>
-                <li class="level1 nav-3788-4971 parent">
-            <a href="http://www.coop.com.au/books/non-fiction/language-literature-and-biography"><span>Language, Literature and Biography</span></a>
-        </li>
-                <li class="level1 nav-3788-5830 parent">
-            <a href="http://www.coop.com.au/books/non-fiction/law"><span>Law</span></a>
-        </li>
-                <li class="level1 nav-3788-6213 parent">
-            <a href="http://www.coop.com.au/books/non-fiction/mathematics-science"><span>Mathematics &amp; Science</span></a>
-        </li>
-                <li class="level1 nav-3788-6012 parent">
-            <a href="http://www.coop.com.au/books/non-fiction/medicine"><span>Medicine</span></a>
-        </li>
-                <li class="level1 nav-3788-6869 parent">
-            <a href="http://www.coop.com.au/books/non-fiction/mind-body-spirit"><span>Mind, Body, Spirit</span></a>
-        </li>
-                <li class="level1 nav-3788-6847 parent">
-            <a href="http://www.coop.com.au/books/non-fiction/parenting"><span>Parenting</span></a>
-        </li>
-                <li class="level1 nav-3788-5219 parent">
-            <a href="http://www.coop.com.au/books/non-fiction/philosophy"><span>Philosophy</span></a>
-        </li>
-                <li class="level1 nav-3788-5573 parent">
-            <a href="http://www.coop.com.au/books/non-fiction/politics-government"><span>Politics &amp; Government</span></a>
-        </li>
-                <li class="level1 nav-3788-5483 parent">
-            <a href="http://www.coop.com.au/books/non-fiction/psychology"><span>Psychology</span></a>
-        </li>
-                <li class="level1 nav-3788-5108 parent">
-            <a href="http://www.coop.com.au/books/non-fiction/reference-information"><span>Reference, Information &amp; Interdisciplinary Subjects</span></a>
-        </li>
-                <li class="level1 nav-3788-6852 parent">
-            <a href="http://www.coop.com.au/books/non-fiction/self-help-practical-interest"><span>Self-Help &amp; Practical Interest</span></a>
-        </li>
-                <li class="level1 nav-3788-5365 parent">
-            <a href="http://www.coop.com.au/books/non-fiction/social-sciences"><span>Social Sciences</span></a>
-        </li>
-                <li class="level1 nav-3788-5439 parent">
-            <a href="http://www.coop.com.au/books/non-fiction/sociology-anthropology"><span>Sociology &amp; Anthropology</span></a>
-        </li>
-                <li class="level1 nav-3788-6908 parent">
-            <a href="http://www.coop.com.au/books/non-fiction/sport-leisure"><span>Sport &amp; Leisure </span></a>
-        </li>
-                <li class="level1 nav-3788-6446 parent">
-            <a href="http://www.coop.com.au/books/non-fiction/technology-engineering-agric"><span>Technology, Engineering, Agric</span></a>
-        </li>
-                <li class="level1 nav-3788-7171 parent">
-            <a href="http://www.coop.com.au/books/non-fiction/travel-holiday"><span>Travel &amp; Holiday</span></a>
-        </li>
-                <li class="level1 nav-3788-5014 parent">
-            <a href="http://www.coop.com.au/books/non-fiction/literature-literary-studies"><span>Literature &amp; Literary Studies</span></a>
-        </li>
-                <li class="level1 nav-3788-8051 parent">
-            <a href="http://www.coop.com.au/books/non-fiction/ted-books"><span>TED books</span></a>
-        </li>
-                <li class="level1 nav-3788-8062 parent">
-            <a href="http://www.coop.com.au/books/non-fiction/fy15end"><span>Financial Year end 2015</span></a>
-        </li>
-            </ul>
 </div>
-</li>
-<li class="level0 nav-3 menu-item navigation-item no-transition parent"><a href="http://www.coop.com.au/shop/essentials" class="menu-item navigation-item no-transition">
-    <span>Essentials</span>
-    <b class="coop-coop-menu"></b>
-</a>
-<a href="#" onclick="return openTopMenuItem(this);" class="icon-open icon-expend">&nbsp;</a>
-<a href="#" onclick="return closeTopMenuItem(this);" class="icon-close icon-expend">&nbsp;</a>
-<div class="sub-menu dropdown-menu row">
-    <ul class="level0">
-                <li class="level1 nav-2189-2169 parent">
-            <a href="http://www.coop.com.au/shop/essentials/stationery"><span>Stationery</span></a>
-        </li>
-                <li class="level1 nav-2189-2190 parent">
-            <a href="http://www.coop.com.au/shop/essentials/university-apparel"><span>University Apparel</span></a>
-        </li>
-                <li class="level1 nav-2189-2286 parent">
-            <a href="http://www.coop.com.au/shop/essentials/brands"><span>Brands</span></a>
-        </li>
-                <li class="level1 nav-2189-2278 parent">
-            <a href="http://www.coop.com.au/shop/essentials/bags"><span>Bags</span></a>
-        </li>
-                <li class="level1 nav-2189-2232 parent">
-            <a href="http://www.coop.com.au/shop/essentials/travel-accessories"><span>Travel Accessories</span></a>
-        </li>
-                <li class="level1 nav-2189-2431 parent">
-            <a href="http://www.coop.com.au/shop/essentials/sunglasses"><span>Sunglasses</span></a>
-        </li>
-                <li class="level1 nav-2189-2655 parent">
-            <a href="http://www.coop.com.au/shop/essentials/mens-clothing"><span>Mens Clothing</span></a>
-        </li>
-                <li class="level1 nav-2189-2631 parent">
-            <a href="http://www.coop.com.au/shop/essentials/womens-clothing"><span>Womens Clothing</span></a>
-        </li>
-            </ul>
 </div>
-</li>
-<li class="level0 nav-4 menu-item navigation-item no-transition parent"><a href="http://www.coop.com.au/shop/technology" class="menu-item navigation-item no-transition">
-    <span>Technology</span>
-    <b class="coop-coop-menu"></b>
-</a>
-<a href="#" onclick="return openTopMenuItem(this);" class="icon-open icon-expend">&nbsp;</a>
-<a href="#" onclick="return closeTopMenuItem(this);" class="icon-close icon-expend">&nbsp;</a>
-<div class="sub-menu dropdown-menu row">
-    <ul class="level0">
-                <li class="level1 nav-2181-2193 parent">
-            <a href="http://www.coop.com.au/shop/technology/brands"><span>Brands</span></a>
-        </li>
-                <li class="level1 nav-2181-2195 parent">
-            <a href="http://www.coop.com.au/shop/technology/accessories"><span>Accessories</span></a>
-        </li>
-                <li class="level1 nav-2181-2182 parent">
-            <a href="http://www.coop.com.au/shop/technology/calculators"><span>Calculators</span></a>
-        </li>
-                <li class="level1 nav-2181-2183 parent">
-            <a href="http://www.coop.com.au/shop/technology/data-storage"><span>Data Storage</span></a>
-        </li>
-                <li class="level1 nav-2181-2641 parent">
-            <a href="http://www.coop.com.au/shop/technology/headphones"><span>Headphones</span></a>
-        </li>
-                <li class="level1 nav-2181-2643 parent">
-            <a href="http://www.coop.com.au/shop/technology/keyboards"><span>Keyboards</span></a>
-        </li>
-                <li class="level1 nav-2181-3142 parent">
-            <a href="http://www.coop.com.au/shop/technology/laptop-bags"><span>Laptop Bags</span></a>
-        </li>
-                <li class="level1 nav-2181-2644 parent">
-            <a href="http://www.coop.com.au/shop/technology/mobile-phone-accessories"><span>Mobile Phone Accessories</span></a>
-        </li>
-                <li class="level1 nav-2181-2647 parent">
-            <a href="http://www.coop.com.au/shop/technology/power-packs"><span>Power Packs</span></a>
-        </li>
-                <li class="level1 nav-2181-2200 parent">
-            <a href="http://www.coop.com.au/shop/technology/software"><span>Software</span></a>
-        </li>
-                <li class="level1 nav-2181-2640 parent">
-            <a href="http://www.coop.com.au/shop/technology/speakers"><span>Speakers</span></a>
-        </li>
-                <li class="level1 nav-2181-2638 parent">
-            <a href="http://www.coop.com.au/shop/technology/tablet-accessories"><span>Tablet Accessories</span></a>
-        </li>
-                <li class="level1 nav-2181-7937 parent">
-            <a href="http://www.coop.com.au/shop/technology/pc-gaming-accessories"><span>PC Gaming Accessories</span></a>
-        </li>
-                <li class="level1 nav-2181-8048 parent">
-            <a href="http://www.coop.com.au/shop/technology/computers-tablets"><span>Computers &amp; Tablets</span></a>
-        </li>
-                <li class="level1 nav-2181-8063 parent">
-            <a href="http://www.coop.com.au/shop/technology/gaming"><span>Gaming</span></a>
-        </li>
-            </ul>
-</div>
-</li>
-<li class="level0 nav-5 menu-item navigation-item no-transition parent"><a href="http://www.coop.com.au/shop/medical" class="menu-item navigation-item no-transition">
-    <span>Medical</span>
-    <b class="coop-coop-menu"></b>
-</a>
-<a href="#" onclick="return openTopMenuItem(this);" class="icon-open icon-expend">&nbsp;</a>
-<a href="#" onclick="return closeTopMenuItem(this);" class="icon-close icon-expend">&nbsp;</a>
-<div class="sub-menu dropdown-menu row">
-    <ul class="level0">
-                <li class="level1 nav-2227-2445 parent">
-            <a href="http://www.coop.com.au/shop/medical/anatomical-charts"><span>Anatomical Charts</span></a>
-        </li>
-                <li class="level1 nav-2227-2310 parent">
-            <a href="http://www.coop.com.au/shop/medical/anatomical-models"><span>Anatomical Models</span></a>
-        </li>
-                <li class="level1 nav-2227-3152 parent">
-            <a href="http://www.coop.com.au/shop/medical/blood-pressure-monitors"><span>Blood Pressure Monitors</span></a>
-        </li>
-                <li class="level1 nav-2227-2228 parent">
-            <a href="http://www.coop.com.au/shop/medical/stethoscopes"><span>Stethoscopes</span></a>
-        </li>
-                <li class="level1 nav-2227-2564 parent">
-            <a href="http://www.coop.com.au/shop/medical/apparel-accessories"><span>Apparel &amp; Accessories</span></a>
-        </li>
-                <li class="level1 nav-2227-2269 parent">
-            <a href="http://www.coop.com.au/shop/medical/clinic-consumables"><span>Clinic Consumables</span></a>
-        </li>
-                <li class="level1 nav-2227-2536 parent">
-            <a href="http://www.coop.com.au/shop/medical/diagnostic-equipment"><span>Diagnostic Equipment</span></a>
-        </li>
-                <li class="level1 nav-2227-2272 parent">
-            <a href="http://www.coop.com.au/shop/medical/medical-gifts-and-memorabilia"><span>Gifts and Memorabilia</span></a>
-        </li>
-                <li class="level1 nav-2227-2345 parent">
-            <a href="http://www.coop.com.au/shop/medical/lab-coats-and-doctors-coats"><span>Lab Coats and Doctors Coats</span></a>
-        </li>
-                <li class="level1 nav-2227-2309 parent">
-            <a href="http://www.coop.com.au/shop/medical/nurse-fob-watches"><span>Nurse - Fob Watches</span></a>
-        </li>
-                <li class="level1 nav-2227-2265 parent">
-            <a href="http://www.coop.com.au/shop/medical/nurse-pouches-and-bags"><span>Nurse - Pouches and Bags</span></a>
-        </li>
-                <li class="level1 nav-2227-2271 parent">
-            <a href="http://www.coop.com.au/shop/medical/otoscope-and-ophthalmoscopes"><span>Otoscope and Ophthalmoscopes</span></a>
-        </li>
-                <li class="level1 nav-2227-2268 parent">
-            <a href="http://www.coop.com.au/shop/medical/penlight-torches"><span>Penlight Torches</span></a>
-        </li>
-                <li class="level1 nav-2227-2694 parent">
-            <a href="http://www.coop.com.au/shop/medical/nurse-diary"><span>Nurse Diary</span></a>
-        </li>
-            </ul>
-</div>
-</li>
-<li class="level0 nav-6 menu-item navigation-item no-transition parent"><a href="http://www.coop.com.au/shop/gifts" class="menu-item navigation-item no-transition">
-    <span>Gifts</span>
-    <b class="coop-coop-menu"></b>
-</a>
-<a href="#" onclick="return openTopMenuItem(this);" class="icon-open icon-expend">&nbsp;</a>
-<a href="#" onclick="return closeTopMenuItem(this);" class="icon-close icon-expend">&nbsp;</a>
-<div class="sub-menu dropdown-menu row">
-    <ul class="level0">
-                <li class="level1 nav-3018-3027 parent">
-            <a href="http://www.coop.com.au/shop/gifts/brands"><span>Brands</span></a>
-        </li>
-                <li class="level1 nav-3018-2204 parent">
-            <a href="http://www.coop.com.au/shop/gifts/games-toys"><span>Games &amp; Toys</span></a>
-        </li>
-                <li class="level1 nav-3018-2172 parent">
-            <a href="http://www.coop.com.au/shop/gifts/health-beauty"><span>Health &amp; Beauty</span></a>
-        </li>
-                <li class="level1 nav-3018-2186 parent">
-            <a href="http://www.coop.com.au/shop/gifts/music"><span>Music</span></a>
-        </li>
-                <li class="level1 nav-3018-2236 parent">
-            <a href="http://www.coop.com.au/shop/gifts/science"><span>Science</span></a>
-        </li>
-                <li class="level1 nav-3018-3041 parent">
-            <a href="http://www.coop.com.au/shop/gifts/baby"><span>Baby Gifts</span></a>
-        </li>
-                <li class="level1 nav-3018-3024 parent">
-            <a href="http://www.coop.com.au/shop/gifts/candles"><span>Candles</span></a>
-        </li>
-                <li class="level1 nav-3018-3045 parent">
-            <a href="http://www.coop.com.au/shop/gifts/clocks"><span>Clocks</span></a>
-        </li>
-                <li class="level1 nav-3018-3036 parent">
-            <a href="http://www.coop.com.au/shop/gifts/diffusers"><span>Diffusers</span></a>
-        </li>
-                <li class="level1 nav-3018-3151 parent">
-            <a href="http://www.coop.com.au/shop/gifts/gift-sets"><span>Gift Sets</span></a>
-        </li>
-                <li class="level1 nav-3018-3031 parent">
-            <a href="http://www.coop.com.au/shop/gifts/graduation-gifts"><span>Graduation Gifts</span></a>
-        </li>
-                <li class="level1 nav-3018-3019 parent">
-            <a href="http://www.coop.com.au/shop/gifts/kitchenware"><span>Kitchenware</span></a>
-        </li>
-                <li class="level1 nav-3018-3153 parent">
-            <a href="http://www.coop.com.au/shop/gifts/movember-moustache-gifts"><span>Movember Moustache Gifts</span></a>
-        </li>
-                <li class="level1 nav-3018-3400 parent">
-            <a href="http://www.coop.com.au/shop/gifts/gift-ideas-for-men"><span>Gift Ideas for Men</span></a>
-        </li>
-                <li class="level1 nav-3018-3401 parent">
-            <a href="http://www.coop.com.au/shop/gifts/gift-ideas-for-women"><span>Gift Ideas for Women</span></a>
-        </li>
-            </ul>
-</div>
-</li>
-<li class="level0 nav-7 menu-item navigation-item no-transition parent"><a href="http://www.coop.com.au/promotions" class="menu-item navigation-item no-transition">
-    <span>Featured</span>
-    <b class="coop-coop-menu"></b>
-</a>
-<a href="#" onclick="return openTopMenuItem(this);" class="icon-open icon-expend">&nbsp;</a>
-<a href="#" onclick="return closeTopMenuItem(this);" class="icon-close icon-expend">&nbsp;</a>
-<div class="sub-menu dropdown-menu row">
-    <ul class="level0">
-                <li class="level1 nav-7370-7381 parent">
-            <a href="http://www.coop.com.au/promotions/back-to-uni"><span>Back to Uni</span></a>
-        </li>
-                <li class="level1 nav-7370-7440 parent">
-            <a href="http://www.coop.com.au/promotions/pre-order-books"><span>Pre-Order Books</span></a>
-        </li>
-                <li class="level1 nav-7370-7447 parent">
-            <a href="http://www.coop.com.au/promotions/anzac-history-books"><span>ANZAC History</span></a>
-        </li>
-                <li class="level1 nav-7370-7452 parent">
-            <a href="http://www.coop.com.au/promotions/box-sets-special-editions"><span>Box Sets &amp; Special Book Editions</span></a>
-        </li>
-                <li class="level1 nav-7370-7456 parent">
-            <a href="http://www.coop.com.au/promotions/coffee-table-books"><span>Coffee Table Books</span></a>
-        </li>
-                <li class="level1 nav-7370-7371 parent">
-            <a href="http://www.coop.com.au/promotions/movie-tie-in"><span>Movie Tie-In Books</span></a>
-        </li>
-                <li class="level1 nav-7370-7449 parent">
-            <a href="http://www.coop.com.au/promotions/tv-tie-ins"><span>TV Tie-In Books</span></a>
-        </li>
-                <li class="level1 nav-7370-7448 parent">
-            <a href="http://www.coop.com.au/promotions/valentines-day-romance-books"><span>Valentine's Day</span></a>
-        </li>
-                <li class="level1 nav-7370-7969 parent">
-            <a href="http://www.coop.com.au/promotions/girlpower"><span>Girlpower</span></a>
-        </li>
-                <li class="level1 nav-7370-7978 parent">
-            <a href="http://www.coop.com.au/promotions/crumpler"><span>Crumpler</span></a>
-        </li>
-                <li class="level1 nav-7370-8059 parent">
-            <a href="http://www.coop.com.au/promotions/crafternoon"><span>Crafternoon</span></a>
-        </li>
-                <li class="level1 nav-7370-8057 parent">
-            <a href="http://www.coop.com.au/promotions/professional-development"><span>Professional Development</span></a>
-        </li>
-                <li class="level1 nav-7370-8077 parent">
-            <a href="http://www.coop.com.au/promotions/for-dummies"><span>For Dummies</span></a>
-        </li>
-                <li class="level1 nav-7370-8078 parent">
-            <a href="http://www.coop.com.au/promotions/adult-colouring-books"><span>Adult Colouring Books</span></a>
-        </li>
-                <li class="level1 nav-7370-8080 parent">
-            <a href="http://www.coop.com.au/promotions/lonely-planet"><span>Lonely Planet</span></a>
-        </li>
-            </ul>
-</div>
-</li>
-<li class="level0 nav-8 menu-item navigation-item no-transition parent"><a href="http://www.coop.com.au/buy-a-voucher" class="menu-item navigation-item no-transition"><span>Gift Vouchers</span></a></li>
+<div class="row sub-menu-content">
+<div class="col-md-30">
+<ul>
+<li class="level-1"><a href="/books/fiction"> <span>Fiction</span> </a></li>
 </ul>
-<a id="btn-textbook" href="/textlist/search"><span class="hidden-xs">Find Your</span> Textbooks</a>
+<ul class="col-md-6">
+<li class="level-2"><a href="/books/fiction/adventure"> <span>Adventure</span> </a></li>
+<li class="level-2"><a href="/books/fiction/classic-fiction"> <span>Classic Fiction</span> </a></li>
+<li class="level-2"><a href="/books/fiction/crime-mystery"> <span>Crime &amp; Mystery</span> </a></li>
+<li class="level-2"><a href="/books/fiction/erotic-fiction"> <span>Erotic Fiction</span> </a></li>
+<li class="level-2"><a href="/books/fiction/fantasy"> <span>Fantasy</span> </a></li>
+<li class="level-2"><a href="/books/fiction/graphic-novels"> <span>Comics / Graphic Novels</span> </a></li>
+</ul>
+<ul class="col-md-6">
+<li class="level-2"><a href="/books/fiction/historical-fiction"> <span>Historical Fiction</span> </a></li>
+<li class="level-2"><a href="/books/fiction/fiction-modern-contemporary"> <span>Modern &amp; Contemporary</span> </a></li>
+<li class="level-2"><a href="/books/fiction/romance"> <span>Romance</span> </a></li>
+<li class="level-2"><a href="/books/fiction/science-fiction"> <span>Science Fiction</span> </a></li>
+<li class="level-2"><a href="/books/fiction/thriller-suspense"> <span>Thriller &amp; Suspense</span> </a></li>
+</ul>
+</div>
+<div class="col-md-30">
+<ul>
+<li class="level-1"><a href="/books/non-fiction"> <span>Non Fiction</span> </a></li>
+</ul>
+<ul class="col-md-6">
+<li class="level-2"><a href="/books/non-fiction/the-arts"> <span>Arts</span> </a></li>
+<!-- <li class="level-2">
+							<a href="/books/non-fiction/biography-true-stories">
+								<span>Biography &amp; Memoirs</span>
+							</a>
+						</li>
+						-->
+<li class="level-2"><a href="/books/non-fiction/economics-finance-business"> <span>Business, Finance &amp; Economics</span> </a></li>
+<li class="evel-2"><a href="/books/non-fiction/computing-information-tech"> <span>Computing &amp; Information Tech</span> </a></li>
+<li class="level-2"><a href="/books/non-fiction/cooking-food-drink"> <span>Cooking, Food &amp; Drink</span> </a></li>
+<li class="level-2"><a href="/books/non-fiction/health-fitness-diet"> <span>Health, Fitness &amp; Diet</span> </a></li>
+<li class="level-2"><a href="/books/non-fiction/history"> <span>History</span> </a></li>
+</ul>
+<ul class="col-md-6">
+<li class="level-2"><a href="/books/non-fiction/mind-body-spirit"> <span>Mind, Body, Spirit</span> </a></li>
+<li class="level-2"><a href="/books/non-fiction/self-help-practical-interest"> <span>Self-Help &amp; Practical Interest</span> </a></li>
+<li class="level-2"><a href="/books/non-fiction/sport-leisure"> <span>Sport &amp; Leisure</span> </a></li>
+<li class="level-2"><a href="/books/non-fiction/travel-holiday"> <span>Travel &amp; Holiday</span> </a></li>
+</ul>
+</div>
+<a href="http://www.coop.com.au/books/the-healthy-life/sepel-jess/9781743536889"> <img style="padding-top: 11px; float: right; padding-right: 10px;" src="https://s.squixa.net/www.coop.com.au/1/coop-production-magento.s3.amazonaws.com/home/coop/web/comagento.com.au/shared/media/wysiwyg/172x209xjessica-sepel-the-healthy-life-offer.png.pagespeed.ic.iBgLhAWsVh.png" alt="" width="172" height="209"> </a></div>
+</div>
+</div>
+</li>
+<!-- EBOOKS -->
+<li class="level0 nav-2 menu-item navigation-item no-transition parent">
+<div style="position: absolute; bottom: 31px; z-index: 10000; left: 88px; background-color: #80a74d; color: white; padding: 1px 8px; font-size: 10px; font-weight: bold; border-radius: 2px; border: 1px solid hsl(86, 71%, 29%);">NEW</div>
+<a href="/ebooks" class="menu-item navigation-item no-transition"> <span>eBooks</span> </a> <a href="#" onclick="return openTopMenuItem(this);" class="icon-open icon-expend">&nbsp;</a> <a href="#" onclick="return closeTopMenuItem(this);" class="icon-close icon-expend">&nbsp;</a>
+<div class="sub-menu dropdown-menu row">
+<div class="container">
+<div class="menu-header row">
+<div class="navigation-container navigation-top  ebooks-navigation-top"><img src="http://s.squixa.net/www.coop.com.au/1/skin/frontend/default/b-responsive/images/menu/xctg-banner-ebooks-devices.png.pagespeed.ic.vOSbxtHc3O.png" alt="">
+<div class="col-md-6 col-xs-12">
+<div class="category-name pull-left">eBooks</div>
+<!--<div class="view-all pull-left">
+						<a href="/cop/ebooks">View all</a>
+					</div>
+					--></div>
+<div class="col-md-6 col-xs-12 download-ebooks-app"><a href="/device-of-your-choice/" class="btn btn-primary">Download the free e-reader app</a></div>
+</div>
+</div>
+<div class="row sub-menu-content">
+<div class="col-md-30">
+<ul>
+<li class="level-1"><a href="/ebooks/fiction"> <span>Fiction</span> </a></li>
+</ul>
+<ul class="col-md-6">
+<li class="level-2"><a href="/ebooks/fiction/adventure"> <span>Adventure</span> </a></li>
+<li class="level-2"><a href="/ebooks/fiction/classic-fiction"> <span>Classic Fiction</span> </a></li>
+<li class="level-2"><a href="/ebooks/fiction/crime-mystery"> <span>Crime &amp; Mystery</span> </a></li>
+<li class="level-2"><a href="/ebooks/fiction/erotic-fiction"> <span>Erotic Fiction</span> </a></li>
+<li class="level-2"><a href="/ebooks/fiction/fantasy"> <span>Fantasy</span> </a></li>
+<li class="level-2"><a href="/ebooks/fiction/graphic-novels"> <span>Comics / Graphic Novels</span> </a></li>
+</ul>
+<ul class="col-md-6">
+<li class="level-2"><a href="/ebooks/fiction/historical-fiction"> <span>Historical Fiction</span> </a></li>
+<li class="level-2"><a href="/ebooks/fiction/modern-contemporary-fiction"> <span>Modern &amp; Contemporary</span> </a></li>
+<li class="level-2"><a href="/ebooks/fiction/romance"> <span>Romance</span> </a></li>
+<li class="level-2"><a href="/ebooks/fiction/science-fiction"> <span>Science Fiction</span> </a></li>
+<li class="level-2"><a href="/ebooks/fiction/thriller-suspense"> <span>Thriller &amp; Suspense</span> </a></li>
+</ul>
+</div>
+<div class="col-md-30">
+<ul>
+<li class="level-1"><a href="/ebooks/non-fiction"> <span>Non Fiction</span> </a></li>
+</ul>
+<ul class="col-md-6">
+<li class="level-2"><a href="/ebooks/non-fiction/arts"> <span>Arts</span> </a></li>
+<li class="level-2"><a href="/ebooks/non-fiction/biography-memoirs"> <span>Biography &amp; Memoirs</span> </a></li>
+<li class="level-2"><a href="/ebooks/non-fiction/business-finance-economics"> <span>Business, Finance &amp; Economics</span> </a></li>
+<li class="evel-2"><a href="/ebooks/non-fiction/computing-information-tech"> <span>Computing &amp; Information Tech</span> </a></li>
+<li class="level-2"><a href="/ebooks/non-fiction/sport-leisure/cookery-food-drink"> <span>Cooking, Food &amp; Drink</span> </a></li>
+<li class="level-2"><a href="/ebooks/non-fiction/family-home-practical-int/family-health/health-fitness-diet"> <span>Health, Fitness &amp; Diet</span> </a></li>
+</ul>
+<ul class="col-md-6">
+<li class="level-2"><a href="/ebooks/non-fiction/humanities/history"> <span>History</span> </a></li>
+<li class="level-2"><a href="/ebooks/non-fiction/family-home-practical-int/mind-body-spirit"> <span>Mind, Body, Spirit</span> </a></li>
+<li class="level-2"><a href="/ebooks/non-fiction/family-home-practical-int/self-help-practical-interest"> <span>Self-Help &amp; Practical Interest</span> </a></li>
+<li class="level-2"><a href="/ebooks/non-fiction/sport-leisure"> <span>Sport &amp; Leisure</span> </a></li>
+<li class="level-2"><a href="/ebooks/non-fiction/sport-leisure/travel-holiday"> <span>Travel &amp; Holiday</span> </a></li>
+</ul>
+</div>
+<a href="http://www.coop.com.au/the-anti-cool-girl/rosie-waterland/9781460705223"> <img style="padding-top: 11px; float: right; padding-right: 10px;" src="https://www.coop.com.au/coop-production-magento.s3.amazonaws.com/home/coop/web/comagento.com.au/shared/media/wysiwyg/rosie-waterland-the-anti-cool-girl-ebook-promo.png.pagespeed.ce.lgvAutDyAF.png" alt="" width="172" height="209"> </a></div>
+</div>
+</div>
+</li>
+<!-- STATIONERY -->
+<li class="level0 nav-1 first menu-item navigation-item no-transition parent"><a href="/shop/essentials/stationery" class="menu-item navigation-item no-transition"> <span>Stationery</span> </a> <a href="#" onclick="return openTopMenuItem(this);" class="icon-open icon-expend">&nbsp;</a> <a href="#" onclick="return closeTopMenuItem(this);" class="icon-close icon-expend">&nbsp;</a>
+<div class="sub-menu dropdown-menu row">
+<div class="container">
+<div class="menu-header row">
+<div class="navigation-container navigation-top stationary-navigation-top"><img src="http://s.squixa.net/www.coop.com.au/1/skin/frontend/default/b-responsive/images/menu/xctg-banner-stationary-plant.png.pagespeed.ic.hqJDp1PKrx.png" alt="">
+<div class="col-md-6 col-xs-12">
+<div class="category-name pull-left">Stationery</div>
+<div class="view-all pull-left"><a href="/shop/essentials/stationery">View all</a></div>
+</div>
+</div>
+</div>
+<div class="row sub-menu-content">
+<ul class="col-md-15">
+<li class="level-2"><a href="/shop/essentials/stationery/notebooks"> <span>Notebooks</span> </a></li>
+<li class="level-2"><a href="/shop/essentials/stationery/journals"> <span>Journals</span> </a></li>
+<li class="level-2"><a href="/shop/essentials/stationery/pens"> <span>Pens &amp; Pencils</span> </a></li>
+<li class="level-2"><a href="/shop/essentials/stationery/art-supplies"> <span>Colouring books &amp; accessories</span> </a></li>
+</ul>
+<ul class="col-md-15">
+<li class="level-2"><a href="/shop/essentials/stationery/diaries"> <span>Diaries</span> </a></li>
+<li class="level-2"><a href="/shop/essentials/stationery/compendiums"> <span>Compendiums</span> </a></li>
+<li class="level-2"><a href="/shop/essentials/stationery/calendars"> <span>Calendars</span> </a></li>
+<li class="level-2"><a href="/shop/essentials/stationery/greeting-cards"> <span>Greeting Cards</span> </a></li>
+</ul>
+<ul class="col-md-15">
+<li class="level-2"><a href="/shop/essentials/stationery/book-lights"> <span>Books Lights</span> </a></li>
+<li class="level-2"><a href="/shop/essentials/stationery/book-stands"> <span>Book Stands</span> </a></li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+<!-- ELECTRONICS -->
+<li class="level0 nav-2 menu-item navigation-item no-transition parent"><a href="/shop/technology" class="menu-item navigation-item no-transition"> <span>Electronics</span> </a> <a href="#" onclick="return openTopMenuItem(this);" class="icon-open icon-expend">&nbsp;</a> <a href="#" onclick="return closeTopMenuItem(this);" class="icon-close icon-expend">&nbsp;</a>
+<div class="sub-menu dropdown-menu row">
+<div class="container">
+<div class="menu-header row">
+<div class="navigation-container navigation-top electronics-navigation-top">
+<div class="col-md-6 col-xs-12">
+<div class="category-name pull-left">Electronics</div>
+<div class="view-all pull-left"><a href="/shop/technology">View all</a></div>
+</div>
+</div>
+</div>
+<div class="row sub-menu-content">
+<ul class="col-md-15">
+<li class="level-2"><a href="/shop/technology/data-storage"> <span>Data Storage</span> </a></li>
+<li class="level-2"><a href="/shop/technology/headphones"> <span>Headphones</span> </a></li>
+<li class="level-2"><a href="/shop/technology/calculators"> <span>Calculators</span> </a></li>
+<li class="level-2"><a href="/shop/technology/computers-tablets"> <span>Computers &amp; Tablets</span> </a></li>
+<li class="level-2"><a href="/shop/technology/tablet-accessories"> <span>Tablet Accessories</span> </a></li>
+</ul>
+<ul class="col-md-15">
+<li class="level-2"><a href="/shop/technology/laptop-bags"> <span>Laptop Bags</span> </a></li>
+<li class="level-2"><a href="/shop/technology/smartphones"> <span>Mobile &amp; Smartphones</span> </a></li>
+<li class="level-2"><a href="/shop/technology/mobile-phone-accessories"> <span>Mobile Phone Accessories</span> </a></li>
+<li class="level-2"><a href="/shop/technology/software"> <span>Software</span> </a></li>
+<li class="level-2"><a href="/shop/technology/pc-gaming-accessories"> <span>PC Gaming Accessories</span> </a></li>
+</ul>
+<ul class="col-md-15">
+<li class="level-2"><a href="/shop/technology/keyboards"> <span>Keyboards</span> </a></li>
+<li class="level-2"><a href="/shop/technology/accessories"> <span>Accessories</span> </a></li>
+<li class="level-2"><a href="/shop/technology/power-packs"> <span>Power Packs</span> </a></li>
+<li class="level-2"><a href="/shop/technology/speakers"> <span>Speakers</span> </a></li>
+<li class="level-2"><a href="/shop/technology/gaming"> <span>Gaming</span> </a></li>
+</ul>
+<ul class="col-md-15">
+<li class="level-1"><a href="/shop/technology/gaming"> <span>Video Games</span> </a></li>
+<li class="level-2"><a href="/shop/technology/gaming/ps4-games"> <span>PS4 Games</span> </a></li>
+<li class="level-2"><a href="/shop/technology/gaming/xbox-one-games"> <span>Xbox One Games</span> </a></li>
+<li class="level-2"><a href="/shop/technology/gaming/pc-games"> <span>PC Games</span> </a></li>
+</ul>
+<a href="http://search.coop.com.au/search?lbc=coop&amp;method=and&amp;p=Q&amp;ts=custom&amp;uid=363093459&amp;w=Grand%20Theft%20Auto%20V&amp;af=cat1%3ashop"> <img style="padding-top: 0px; float: right; padding-right: 10px;" src="https://s.squixa.net/www.coop.com.au/1/coop-production-magento.s3.amazonaws.com/home/coop/web/comagento.com.au/shared/media/wysiwyg/172x209xgame-gtav.png.pagespeed.ic.yA3cy6vyx4.png" alt="" width="172" height="209"> </a></div>
+</div>
+</div>
+</li>
+<!-- FASHION & HOME -->
+<li class="level0 nav-1 first menu-item navigation-item no-transition parent"><a href="/shop/essentials" class="menu-item navigation-item no-transition"> <span>Fashion &amp; Home</span> </a> <a href="#" onclick="return openTopMenuItem(this);" class="icon-open icon-expend">&nbsp;</a> <a href="#" onclick="return closeTopMenuItem(this);" class="icon-close icon-expend">&nbsp;</a>
+<div class="sub-menu dropdown-menu row">
+<div class="container">
+<div class="menu-header row">
+<div class="navigation-container navigation-top fashion-navigation-top"><img src="http://s.squixa.net/www.coop.com.au/1/skin/frontend/default/b-responsive/images/menu/xctg-banner-fashion-makeup.png.pagespeed.ic.mXWqBretPu.png" alt="">
+<div class="col-md-6 col-xs-12">
+<div class="category-name pull-left">Fashion &amp; Home</div>
+<!--<div class="view-all pull-left">
+					<a href="/shop/on-sale">View all</a>
+				</div>
+				--></div>
+</div>
+</div>
+<div class="row sub-menu-content">
+<ul class="col-md-15">
+<li class="level-1"><a href="/shop/essentials/womens-clothing"> <span>Womens Clothing</span> </a></li>
+<li class="level-2"><a href="/shop/essentials/womens-clothing/tees"> <span>Tees</span> </a></li>
+<li class="level-2"><a href="/shop/essentials/womens-clothing/tights"> <span>Tights</span> </a></li>
+<li class="level-1"><a href="/shop/essentials/mens-clothing"> <span>Mens Clothing</span> </a></li>
+<li class="level-2"><a href="/shop/essentials/mens-clothing/tees"> <span>Tees</span> </a></li>
+<li class="level-2"><a href="/shop/essentials/mens-clothing/mens-accessories"> <span>Mens Accessories</span> </a></li>
+</ul>
+<ul class="col-md-15">
+<li class="level-1"><a href="/shop/essentials/"> <span>Accessories</span> </a></li>
+<li class="level-2"><a href="/shop/essentials/bags"> <span>Bags</span> </a></li>
+<li class="level-2"><a href="/shop/essentials/sunglasses"> <span>Sunglasses</span> </a></li>
+<li class="level-2"><a href="/shop/essentials/travel-accessories"> <span>Travel Accessories</span> </a></li>
+<!-- NEEDS EXTRA SPACING -->
+<li class="level-2"><a href="/shop/gifts/health-beauty/fitness-equipment"> <span>Fitness Equipment</span> </a></li>
+<li class="level-2"><a href="/shop/essentials/active-wear"> <span>Active Wear</span> </a></li>
+<li class="level-2"><a href="/shop/essentials/university-apparel"> <span>University Branded Apparel</span> </a></li>
+</ul>
+<ul class="col-md-15">
+<li class="level-1"><a href="/shop/gifts/health-beauty"> <span>Cosmetics</span> </a></li>
+<li class="level-2"><a href="/shop/gifts/health-beauty/bath-and-body"> <span>Bath &amp; Body</span> </a></li>
+<li class="level-2"><a href="/shop/gifts/health-beauty/haircare"> <span>Haircare</span> </a></li>
+<li class="level-2"><a href="/shop/gifts/health-beauty/make-up"> <span>Make-up</span> </a></li>
+<li class="level-2"><a href="/shop/gifts/health-beauty/makeup-tools"> <span>Make-up Tools</span> </a></li>
+<li class="level-2"><a href="/shop/gifts/health-beauty/mens-grooming-and-skincare"> <span>Mens Grooming and Skincare</span> </a></li>
+</ul>
+<ul class="col-md-15">
+<li class="level-1"><a href="/shop/gifts/"> <span>Homewares</span> </a></li>
+<li class="level-2"><a href="/shop/gifts/candles"> <span>Candles</span> </a></li>
+<li class="level-2"><a href="/shop/gifts/clocks"> <span>Clocks</span> </a></li>
+<li class="level-2"><a href="/shop/gifts/kitchenware"> <span>Kitchenware</span> </a></li>
+<li class="level-2"><a href="/shop/gifts/science"> <span>Science</span> </a></li>
+</ul>
+<ul class="col-md-15">
+<li class="level-1"><a href="/shop/gifts/"> <span>Giftware</span> </a></li>
+<li class="level-2"><a href="/shop/gifts/graduation-gifts"> <span>Graduation Gifts</span> </a></li>
+<li class="level-2"><a href="/shop/gifts/gift-ideas-for-women"> <span>Gift Ideas for Women</span> </a></li>
+<li class="level-2"><a href="/shop/gifts/gift-ideas-for-men"> <span>Gift Ideas for Men</span> </a></li>
+<li class="level-2"><a href="/shop/gifts/gift-sets"> <span>Gift Sets</span> </a></li>
+<li class="level-2"><a href="/shop/gifts/baby"> <span>Baby Gifts</span> </a></li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+<!-- GAMES & TOYS -->
+<li class="level0 nav-1 first menu-item navigation-item no-transition parent"><a href="/shop/gifts/games-toys" class="menu-item navigation-item no-transition"> <span>Games &amp; Toys</span> </a> <a href="#" onclick="return openTopMenuItem(this);" class="icon-open icon-expend">&nbsp;</a> <a href="#" onclick="return closeTopMenuItem(this);" class="icon-close icon-expend">&nbsp;</a>
+<div class="sub-menu dropdown-menu row">
+<div class="container">
+<div class="menu-header row">
+<div class="navigation-container navigation-top games-navigation-top"><img src="http://s.squixa.net/www.coop.com.au/1/skin/frontend/default/b-responsive/images/menu/xctg-banner-games-pieces.png.pagespeed.ic.Zs4GkUDwgP.png" alt="">
+<div class="col-md-6 col-xs-12">
+<div class="category-name pull-left">Games &amp; Toys</div>
+<div class="view-all pull-left"><a href="/shop/gifts/games-toys">View all</a></div>
+</div>
+</div>
+</div>
+<div class="row sub-menu-content">
+<div class="col-md-30">
+<ul>
+<li class="level-1"><a href="/shop/gifts/games-toys/collectables"> <span>Collectables</span> </a></li>
+</ul>
+<ul class="col-md-6">
+<li class="level-2"><a href="/shop/gifts/games-toys/licensed-products/doctor-who"> <span>Doctor Who</span> </a></li>
+<li class="level-2"><a href="/shop/gifts/games-toys/licensed-products/game-of-thrones"> <span>Game of Thrones</span> </a></li>
+<li class="level-2"><a href="/shop/gifts/games-toys/licensed-products/guardians-of-the-galaxy"> <span>Guardians of the Galaxy</span> </a></li>
+<li class="level-2"><a href="/shop/gifts/games-toys/licensed-products/the-big-bang-theory"> <span>The Big Bang Theory</span> </a></li>
+</ul>
+<ul class="col-md-6">
+<li class="level-2"><a href="/shop/gifts/games-toys/licensed-products/the-hunger-games"> <span>The Hunger Games</span> </a></li>
+<li class="level-2"><a href="/shop/gifts/games-toys/licensed-products/the-walking-dead"> <span>The Walking Dead</span> </a></li>
+<li class="level-2"><a href="/shop/gifts/games-toys/licensed-products/star-wars"> <span>Star Wars</span> </a></li>
+</ul>
+</div>
+<ul class="col-md-15">
+<li class="level-1"><a href="/shop/gifts/games-toys/games"> <span>Games</span> </a></li>
+<li class="level-2"><a href="/shop/gifts/games-toys/games/board-games"> <span>Board Games</span> </a></li>
+<li class="level-2"><a href="/shop/gifts/games-toys/puzzles"> <span>Puzzles</span> </a></li>
+<li class="level-2"><a href="/shop/gifts/games-toys/toys"> <span>Toys</span> </a></li>
+</ul>
+<ul class="col-md-15">
+<li class="level-1"><a href="/shop/technology/gaming"> <span>Video Games</span> </a></li>
+<li class="level-2"><a href="/shop/technology/gaming/ps4-games"> <span>PS4 Games</span> </a></li>
+<li class="level-2"><a href="/shop/technology/gaming/xbox-one-games"> <span>Xbox One Games</span> </a></li>
+<li class="level-2"><a href="/shop/technology/gaming/pc-games"> <span>PC Games</span> </a></li>
+</ul>
+<a href="http://www.coop.com.au/shop/gifts/games-toys/licensed-products/star-wars"> <img style="padding-top: 0px; float: right; padding-right: 10px;" src="https://s.squixa.net/www.coop.com.au/1/coop-production-magento.s3.amazonaws.com/home/coop/web/comagento.com.au/shared/media/wysiwyg/172x209xyoda-offer.png.pagespeed.ic.6jByyxZzdS.png" alt="" width="172" height="209"> </a></div>
+</div>
+</div>
+</li>
+<li class="level0 nav-2 menu-item navigation-item no-transition parent"><a href="/shop/medical" class="menu-item navigation-item no-transition"> <span>Medical</span> </a> <a href="#" onclick="return openTopMenuItem(this);" class="icon-open icon-expend">&nbsp;</a> <a href="#" onclick="return closeTopMenuItem(this);" class="icon-close icon-expend">&nbsp;</a>
+<div class="sub-menu dropdown-menu row">
+<div class="container">
+<div class="menu-header row">
+<div class="navigation-container navigation-top medical-navigation-top"><img src="http://s.squixa.net/www.coop.com.au/1/skin/frontend/default/b-responsive/images/menu/xctg-banner-medical-board.png.pagespeed.ic.0gQ-Ewt_JO.png" alt="">
+<div class="col-md-6 col-xs-12">
+<div class="category-name pull-left">Medical</div>
+<div class="view-all pull-left"><a href="/shop/medical">View all</a></div>
+</div>
+</div>
+</div>
+<div class="row sub-menu-content">
+<ul class="col-md-15">
+<li class="level-2"><a href="/shop/medical/stethoscopes"> <span>Stethoscopes</span> </a></li>
+<li class="level-2"><a href="/shop/medical/anatomical-models"> <span>Anatomical Models</span> </a></li>
+<li class="level-2"><a href="/shop/medical/nurse-fob-watches"> <span>Nurse FOB Watches</span> </a></li>
+<li class="level-2"><a href="/shop/medical/anatomical-charts"> <span>Anatomical Charts</span> </a></li>
+</ul>
+<ul class="col-md-15">
+<li class="level-2"><a href="/shop/medical/lab-coats-and-doctors-coats"> <span>Lab Coats &amp; Doctors Coats</span> </a></li>
+<li class="level-2"><a href="/shop/medical/apparel-accessories"> <span>Apparel &amp; Accessories</span> </a></li>
+<li class="level-2"><a href="/shop/medical/diagnostic-equipment"> <span>Diagnostic Equipment</span> </a></li>
+<li class="level-2"><a href="/shop/medical/nurse-pouches-and-bags"> <span>Nurse Pouches and Bags</span> </a></li>
+</ul>
+<ul class="col-md-15">
+<li class="level-2"><a href="/shop/medical/blood-pressure-monitors"> <span>Blood Pressure Monitors</span> </a></li>
+<li class="level-2"><a href="/shop/medical/otoscope-and-ophthalmoscopes"> <span>Otoscope and Ophthalmoscopes</span> </a></li>
+<li class="level-2"><a href="/shop/medical/penlight-torches"> <span>Penlight Torches</span> </a></li>
+<li class="level-2"><a href="/shop/medical/clinic-consumables"> <span>Clinic Consumables</span> </a></li>
+</ul>
+<a href="http://www.coop.com.au/shop/medical/stethoscopes/littmann-stethoscope"> <img style="padding-top: 0px; float: right; padding-right: 10px;" src="https://s.squixa.net/www.coop.com.au/1/coop-production-magento.s3.amazonaws.com/home/coop/web/comagento.com.au/shared/media/wysiwyg/172x209xlittman-stethoscope-offer.png.pagespeed.ic.NPrxojL5ek.png" alt="" width="172" height="209"> </a></div>
+</div>
+</div>
+</li>
+<li class="level0 menu-item navigation-item no-transition parent"><a href="http://www.coop.com.au/buy-a-voucher" class="menu-item navigation-item no-transition"> <span>Gift Vouchers</span> </a></li>
+</ul>
+<a id="btn-textbook" href="/textbook/search"><span class="hidden-xs">Find Your</span> Textbooks</a>
 
+</div>
  
 <!-- ESI END DUMMY COMMENT [] -->
+            <noscript>
+        <div class="global-site-notice noscript">
+            <div class="notice-inner">
+                <p>
+                    <strong>JavaScript seems to be disabled in your browser.</strong><br/>
+                    You must have JavaScript enabled in your browser to utilize the functionality of this website.                </p>
+            </div>
+        </div>
+    </noscript>
+
+        <div class="page container">
                         <ol class="breadcrumb">
             <li class="home" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
                     <a href="http://www.coop.com.au/" title="Go to Home Page" itemprop="url">
@@ -755,7 +597,7 @@ $.cookie("coop_cookiemessage",[],{domain:".coop.com.au",path:"/"});$('#coop-cook
 <p>If you believe that we have breached our privacy obligations, or you have any complaint regarding the treatment of your privacy by us, please contact our Privacy Officer on the telephone number or email address above. If we have not responded to your complaint within 30 days, you can make a complaint to the Office of the Australian Information Commissioner about the handling of your personal information.</p></div>            </div>
 
         </div>
-        
+
     </div>
 
     <!-- ESI START DUMMY COMMENT [] -->
@@ -765,73 +607,59 @@ $.cookie("coop_cookiemessage",[],{domain:".coop.com.au",path:"/"});$('#coop-cook
     <div class="footer well">
         <div class="container">
             <div class="container">
-<div class="col-md-2"><strong>Membership</strong>
+<div style="min-height: 405px; margin-top: 20px;">
+<div class="col-md-3"><strong>Membership</strong>
 <ul>
-<li><a href="/membership-information">Information</a></li>
-<li><a href="/join">Become a Member</a></li>
-<li><a href="/coupon-deals">Member Exclusives</a></li>
-<li><a href="/customer/account/login/">Update your Membership</a></li>
-<li><a href="/profile/account/membercheck">Am I still a Member?</a></li>
+<li><a href="/join">Why become a Member?</a></li>
+<li><a href="/coupon-deals">Exclusive Member Deals</a></li>
 </ul>
 <strong>Textbook Hub</strong>
 <ul>
 <li><a href="/textlist/search">Textbook Search</a></li>
-<li><a href="/textlist/manager">Lecturers Textlist Manager</a></li>
 <li><a href="/sell-textbooks">Sell Your Textbooks</a></li>
+<li><a href="/textlist/manager">Lecturers Textlist Manager</a></li>
 </ul>
-<!--<strong>Shop Links</strong>
+<strong>Corporate Customers</strong>
 <ul>
-<li><a href="#">Search Terms</a></li>
-<li><a href="#">Contact us</a></li>
-<li><a href="#">Site Map</a></li>
-</ul>--> <strong>Corporate</strong>
-<ul>
-<li><a href="/account-services">Account Services</a></li>
-<li><a href="/customer/account/login/">My Account</a></li>
+<li><a href="/account-services">Apply for Corporate Account</a></li>
 </ul>
 </div>
-<div class="col-md-2"><strong>Customer Service</strong>
+<div class="col-md-2"><strong>Customer Care</strong>
 <ul>
+<li><a href="http://www.coop.com.au/about-us">About Us</a></li>
 <li><a href="/storelocator">Find a Store</a></li>
+<li><a href="/faq">Help Centre</a></li>
 <li><a href="/contact-us">Contact Us</a></li>
-<li><a href="/books/faq">FAQ</a></li>
 <li><a href="/postage">Postage</a></li>
 <li><a href="/returns-policy">Refunds &amp; Returns</a></li>
 <li><a href="/privacy-policy">Privacy &amp; Security</a></li>
-<li><a href="/news-press">Media Centre</a></li>
+<li><a href="/news-press">News</a></li>
+<li><a href="http://www.coop.com.au/coop-employment">Careers</a></li>
 <li><a href="/white-papers">White Papers</a></li>
 </ul>
-<!--<strong>Shop Links</strong>
+</div>
+<div class="col-md-3"><strong>Our Social Networks</strong>
+<p>Connect with us to stay up-to-date on all things awesome at the Co-op!</p>
 <ul>
-<li><a href="#">Search Terms</a></li>
-<li><a href="#">Contact Us</a></li>
-<li><a href="#">Site Map</a></li>
-</ul>--></div>
-<div class="col-md-4"><strong>Our Social Networks</strong>
-<p>Follow us and be the first to find out all the new information and our secret plans for world domination!</p>
-<ul>
-<li class="icon icon-facebook"><strong>Facebook</strong> <a href="http://www.facebook.com/thecoopau">http://www.facebook.com/thecoopau</a></li>
-<li class="icon icon-twitter"><strong>Twitter</strong> <a href="http://www.twitter.com/thecoopau">http://www.twitter.com/thecoopau</a></li>
-<li class="icon icon-gplus"><strong>Google+</strong> <a href="https://plus.google.com/u/0/+CoopAu/posts">https://plus.google.com/u/0/+CoopAu/posts</a></li>
-<li class="icon icon-linkedin"><strong>LinkedIn</strong> <a href="https://www.linkedin.com/company/the-co-op">https://www.linkedin.com/company/the-co-op</a></li>
-<li class="icon icon-pinterest"><strong>Pinterest</strong> <a href="http://www.pinterest.com/thecoopau">http://www.pinterest.com/thecoopau</a></li>
-<li class="icon icon-blog"><strong>Blog</strong> <a href="http://blog.coop.com.au">http://blog.coop.com.au</a></li>
+<li class="icon icon-facebook"><strong><a href="http://www.facebook.com/thecoopau">Facebook</a></strong></li>
+<li class="icon icon-instagram"><strong><a href="https://instagram.com/thecoop_au">Instagram</a></strong></li>
+<li class="icon icon-twitter"><strong><a href="http://www.twitter.com/thecoopau">Twitter</a></strong></li>
+<li class="icon icon-linkedin"><strong><a href="https://www.linkedin.com/company/the-co-op">LinkedIn</a></strong></li>
+<li class="icon icon-blog"><strong><a href="http://blog.coop.com.au">Blog</a></strong></li>
 </ul>
 </div>
-<div class="col-md-4">
-<p class="fine-print">Use of this Website constitues acceptance of the <a href="#">User Agreement</a> and <a href="/privacy-policy">Privacy Policy</a>.</p>
-<p class="fine-print">Copyright © 2015 University Co-operative Bookshop Limited. ABN: 70 009 937 160.</p>
-<img src="https://www.coop.com.au/coop-production-magento.s3.amazonaws.com/skin/frontend/default/b-responsive/images/img-payment-methods.png.pagespeed.ce.mHo6AeKOJ7.png" alt="Payment methods accepted: American Express. Mastercard. Visa. PayPal." width="223" height="31"></div>
+<div class="col-md-3">
+<p class="fine-print">Use of this Website constitues acceptance of the Privacy Policy.</p>
+<p class="fine-print">University Co-operative Bookshop Limited. ABN: 70 009 937 160.</p>
+<img src="http://s.squixa.net/www.coop.com.au/1/skin/frontend/default/b-responsive/images/223xNximg-payment-methods.png.pagespeed.ic.ValU3PaxZp.png" alt="Payment methods accepted: American Express. Mastercard. Visa. PayPal." width="223"></div>
+</div>
 </div>        </div>
     </div>
 </footer>
 
  
 <!-- ESI END DUMMY COMMENT [] -->
-                
-<script type="text/javascript">setTimeout(function()
-{var a=document.createElement("script");var b=document.getElementsByTagName("script")[0];a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0031/1969.js?"+Math.floor(new Date().getTime()/3600000);a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)},1);</script>
-<script type="text/javascript">new Avs("http://www.coop.com.au/etemando/pcs/autocompletecart/",'billing:postcode','billing:city','billing:country_id','billing:region_id');new Avs("http://www.coop.com.au/etemando/pcs/autocompletecart/",'shipping:postcode','shipping:city','shipping:country_id','shipping:region_id');</script>
+                <script type="text/javascript">new Avs("http://www.coop.com.au/etemando/pcs/autocompletecart/",'billing:postcode','billing:city','billing:country_id','billing:region_id');new Avs("http://www.coop.com.au/etemando/pcs/autocompletecart/",'shipping:postcode','shipping:city','shipping:country_id','shipping:region_id');</script>
 <script type="text/javascript">String.prototype.j2ttrim=function(){return this.replace(/^\s+|\s+$/g,"");}
 var cookie_available=true;var cookie_redirect=0;var enable_cookie_url="http://www.coop.com.au/enable-cookies/";var js_bundle_url="https://www.coop.com.au/coop-production-magento.s3.amazonaws.com/skin/frontend/default/b-responsive/js/bundle.js.gz.js";var js_varien_product_url="https://www.coop.com.au/coop-production-magento.s3.amazonaws.com/skin/frontend/default/b-responsive/js/varien/product.js.gz.js";var js_varien_calendar_url="https://www.coop.com.au/coop-production-magento.s3.amazonaws.com/skin/frontend/default/b-responsive/js/calendar/calendar.js.gz.js";var js_varien_calendar_setup_url="https://www.coop.com.au/coop-production-magento.s3.amazonaws.com/skin/frontend/default/b-responsive/js/calendar/calendar-setup.js.gz.js";var scp_on=true;var js_scp_url="https://www.coop.com.au/coop-production-magento.s3.amazonaws.com/skin/frontend/base/default/js/scp_product_extension.min.js.gz.js";var on_product_page=false;var js_skin_js_url="http://www.coop.com.au/skin/frontend/default/b-responsive/js";var js_skin_css_url="http://www.coop.com.au/skin/frontend/default/b-responsive/css";var j2t_ajax_cart_on_show_option='';var j2t_ajax_cart_on_show_confirm='';var j2t_ajax_cart_after_delete='';var j2t_ajax_cart_appear_headercart='mouseover';var j2t_ajax_cart_options_restrictions=0;var j2t_ajax_cart_countdown=0;var j2t_ajax_cart_countdown_redirection=0;var j2t_cart_url="http://www.coop.com.au/checkout/cart/";var j2t_ajax_cart_show_headercart=1;var j2t_ajax_cart_fast_configuration_mode=0;var j2t_ajax_cart_transparency=0.8;var ajax_cart_show_popup=1;var ajax_cart_qty=0;var j2t_custom_top_link='';var j2t_custom_cart='';var j2t_custom_mini_cart='';var j2t_product_essentials='';var j2t_product_image='';var j2t_product_shop='';var j2t_product_options='';var j2t_product_bottom='';if(j2t_ajax_cart_fast_configuration_mode==1){j2t_product_essentials='';j2t_product_image='';j2t_product_shop='';j2t_product_options='';j2t_product_bottom='';}
 var j2t_show_options='0';var j2t_show_close=false;var j2t_blink='';j2t_blink=j2t_blink.j2ttrim();var j2t_ajax_cart_debug='0';var j2t_ajax_cart_show_details='0';var j2t_current_store_id='2';var loadingW=300;var loadingH=100;var confirmW=400;var confirmH=120;var use_template=false;var box_width_height=1;var j2tajaxcart_url_check="http://www.coop.com.au/j2tajaxcheckout/index/productcheck/product/product_id/";var j2tajaxcart_url_product_details="http://www.coop.com.au/j2tajaxcheckout/index/productdetails/product/product_id/";var j2tajaxcart_url_product_fast_configuration="http://www.coop.com.au/j2tajaxcheckout/product/index/id/product_id/current_store_id/2/";var j2tajaxcart_url_header_cart="http://www.coop.com.au/j2tajaxcheckout/product/topcart/";</script>
@@ -840,7 +668,7 @@ var j2t_show_options='0';var j2t_show_close=false;var j2t_blink='';j2t_blink=j2t
 
 <div class="j2t-loading-data" id="j2t-loading-data" style="display: none;">
     <div class="j2t-ajax-child">
-                        <img alt="Adding to cart" src="https://www.coop.com.au/coop-production-magento.s3.amazonaws.com/skin/frontend/base/default/images/j2t/ajax-loader.gif.pagespeed.ce.mpz76uk4dK.gif">
+                        <img alt="Adding to cart" src="https://s.squixa.net/www.coop.com.au/1/coop-production-magento.s3.amazonaws.com/skin/frontend/base/default/images/j2t/ajax-loader.gif.pagespeed.ce.mpz76uk4dK.gif">
         <p>Adding to cart</p>
     </div>
 </div>
@@ -871,10 +699,10 @@ var j2t_show_options='0';var j2t_show_close=false;var j2t_blink='';j2t_blink=j2t
 </div>
 
 <div id="j2t-product-details" style="display:none;"></div>
-
+<script type="text/javascript" src="//coop.resultspage.com/autocomplete/sli-rac.config.js"></script>
     <script type="text/javascript">(function($){function deleteCookie(name){document.cookie=name+'=; Max-Age=0; expires=-1; path=/; domain=.coop.com.au'}
 $('.logout-link a').click(function ajaxSignout(){deleteCookie('coopid');deleteCookie('__j1');});})(jQuery);</script>
-    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"2afa256188","applicationID":"8344153","transactionName":"MlIBYRBSC0pQVBBQWAsYNkcLHAxXVVIcF0cNRw==","queueTime":0,"applicationTime":229,"atts":"HhUCF1hIGEQ=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>			<script type="text/javascript">var GoSquared={};GoSquared.acct="GSN-277781-D";(function(w){function gs(){w._gstc_lt=+new Date;var d=document,g=d.createElement("script");g.type="text/javascript";g.src="//d1l6p2sc9645hc.cloudfront.net/tracker.js";var s=d.getElementsByTagName("script")[0];s.parentNode.insertBefore(g,s);}
+    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"2afa256188","applicationID":"8344153","transactionName":"MlIBYRBSC0pQVBBQWAsYNkcLHAxXVVIcF0cNRw==","queueTime":0,"applicationTime":218,"atts":"HhUCF1hIGEQ=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-686.min.js"}</script>			<script type="text/javascript">var GoSquared={};GoSquared.acct="GSN-277781-D";(function(w){function gs(){w._gstc_lt=+new Date;var d=document,g=d.createElement("script");g.type="text/javascript";g.src="//d1l6p2sc9645hc.cloudfront.net/tracker.js";var s=d.getElementsByTagName("script")[0];s.parentNode.insertBefore(g,s);}
 w.addEventListener?w.addEventListener("load",gs,false):w.attachEvent("onload",gs);})(window);</script>
 			<script type="text/javascript">(function(w,d){var a=function(){var a=d.createElement('script');a.type='text/javascript';a.async='async';a.src='//'+((w.location.protocol==='https:')?'s3.amazonaws.com/cdx-radar/':'radar.cedexis.com/')+'01-11108-radar10.min.js';d.body.appendChild(a);};if(w.addEventListener){w.addEventListener('load',a,false);}
 else if(w.attachEvent){w.attachEvent('onload',a);}}(window,document));</script>
