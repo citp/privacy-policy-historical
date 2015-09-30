@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realstrategic.com privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519013212id_/http%3A//www.realstrategic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realstrategic.com privacy policy that was archived on 2015-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150930222742id_/http%3A//www.realstrategic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Real Strategic, Inc
 
