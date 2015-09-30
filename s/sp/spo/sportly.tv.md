@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportly.tv privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607153034id_/http%3A//www.sportly.tv/page/load/sportly_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportly.tv privacy policy that was archived on 2015-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150930051750id_/http%3A//www.sportly.tv/page/load/sportly_privacy) for the most accurate reproduction.*
 
 # 
 
