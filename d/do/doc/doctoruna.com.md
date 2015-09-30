@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the doctoruna.com privacy policy that was archived on 2013-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130704221519id_/http%3A//ae.doctoruna.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doctoruna.com privacy policy that was archived on 2015-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150930055949id_/http%3A//ae.doctoruna.com/en/privacy) for the most accurate reproduction.*
 
-# Privacy | Doctoruna
+# Privacy Policy | DoctorUna - UAE
 
 **1\. Introduction**
 
@@ -18,7 +18,7 @@ We automatically track and collect the following categories of information when 
 
 To fully participate in our doctor/dentist search activities, we require you to register as a DoctorUna member. Non-registered users are granted partial participation access eg. non-registered patients may view profiles and availability but will not be able to book appointments.
 
-To register,  we may require you to provide us with certain information that personally identifies you (“Personal Information”). Personal Information includes the following categories of information: (1) Contact Data (such as your e-mail address, phone number and DoctorUna password); (2) Demographic Data (such as your gender, your date of birth and your address); (3) Insurance Data (such as your insurance carrier and insurance plan); and (4) Medical Data (such as your previous doctors and dentists (“Providers”) visited, your reason for visit and your date of visit, your medical history, and other medical and  protected health information you choose to share with us). If you communicate with us by, for example, e-mail or letter, any information provided in such communication may be collected as Personal Information.
+To register, we may require you to provide us with certain information that personally identifies you (“Personal Information”). Personal Information includes the following categories of information: (1) Contact Data (such as your e-mail address, phone number and DoctorUna password); (2) Demographic Data (such as your gender, your date of birth and your address); (3) Insurance Data (such as your insurance carrier and insurance plan); and (4) Medical Data (such as your previous doctors and dentists (“Providers”) visited, your reason for visit and your date of visit, your medical history, and other medical and protected health information you choose to share with us). If you communicate with us by, for example, e-mail or letter, any information provided in such communication may be collected as Personal Information.
 
 Doctors and dentists will need to create a DoctorUna Public Profile and they fully understand that by opting to do so their profile becomes in the public domain and can be accessed by search engines. Doctors and dentists need to bear in mind that once a Public Profile gets activated, search engines and others may obtain permanent copies of it and even if the user disables their profile, DoctorUna cannot restrict views of the copies of the Public Profile obtained by these search engines and other crawlers.
 
@@ -38,7 +38,7 @@ We also collect other information, some of which may be Personal Information tha
 
 Generally, we use “cookies” to customize your experience on our Site and to store your password so you do not have to re-enter it each time you visit the Site.
 
-In addition, our business partners may use cookies to provide us with anonymous data and information regarding the use of our Site. Specifically, some of our business partners use cookies to show DoctorUna ads on other sites on the internet as a result of you using the Site. Such cookies do not contain any Personal Information. 
+In addition, our business partners may use cookies to provide us with anonymous data and information regarding the use of our Site. Specifically, some of our business partners use cookies to show DoctorUna ads on other sites on the internet as a result of you using the Site. Such cookies do not contain any Personal Information. 
 
 Other cookies used by our business partners may collect other non-personally identifying information, such as the computer’s IP address, type of operating system, type of internet browsing software, what web pages were viewed at what time, the geographic location of your internet service provider and demographic information, such as gender and age range. This information is used to provide DoctorUna with more information about our users’ demographics and internet behaviors. You may find out more about the information collected and how to opt-out of receiving these cookies by visiting our partners website. We do not link the information stored in these cookies directly to any of your Personal Information you submit while on the Site, however.
 
@@ -82,10 +82,8 @@ We reserve the right, at any time, to add to, change, update, or modify this Pri
 
  **16\. Controlling Your Personal Information**
 
-As a registered user of the Site, you can modify some of the Personal Information you have included in your profile or change your username by logging in and accessing your account. Upon your request, DoctorUna will use commercially reasonable efforts to delete your account and the Personal Information in your profile; however, it may be impossible to remove your account without some residual information being retained by DoctorUna. DoctorUna has no obligation to delete any data or information you provide on a Medical History Form following termination of your account or the account of any medical professional to whom your Medical History Form was submitted through the Site. 
+As a registered user of the Site, you can modify some of the Personal Information you have included in your profile or change your username by logging in and accessing your account. Upon your request, DoctorUna will use commercially reasonable efforts to delete your account and the Personal Information in your profile; however, it may be impossible to remove your account without some residual information being retained by DoctorUna. DoctorUna has no obligation to delete any data or information you provide on a Medical History Form following termination of your account or the account of any medical professional to whom your Medical History Form was submitted through the Site. 
 
- **17\. Links to Other Websites**
+**17\. Links to Other Websites**
 
 The Site contains links to third party websites to which DoctorUna has no affiliation. DoctorUna does not share your personal information with those websites and is not responsible for their privacy practices. Some web sites may have the look and feel of our Site. Please be aware that you may be on a different site and that this Privacy Policy only covers our Site. Should you decide to visit one of these third party websites, we suggest that you read its privacy policy.
-
- 
