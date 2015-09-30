@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the smoothradio.com privacy policy that was archived on 2015-03-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150317215220id_/http%3A//www.smoothradio.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the smoothradio.com privacy policy that was archived on 2015-09-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150930203644id_/http%3A//www.smoothradio.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
 	    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -10,7 +10,7 @@
 		
 	
 	    
-	<script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WD2MXG"></script><script>var _sf_startpt=(new Date()).getTime()</script>
+	<script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-N7KJ77"></script><script>var _sf_startpt=(new Date()).getTime()</script>
     
 	        
 	    
@@ -26,7 +26,7 @@
 		
 	
 		
-		<link rel="stylesheet" href="http://smooth.gcstatic.com/d/smoothradio.com/css/combined/smooth-minified__b8f9ce7e.css" media="screen" type="text/css">
+		<link rel="stylesheet" href="http://smooth.gcstatic.com/d/smoothradio.com/css/combined/smooth-minified__2c3dc7ed.css" media="screen" type="text/css">
 		
 	
 		
@@ -43,7 +43,7 @@
 		<!--[if !IE]><!-->
 	
 		
-		<script type="text/javascript" src="http://smooth.gcstatic.com/d/smoothradio.com/js/combined/smooth-minified__61205105.js"></script>
+		<script type="text/javascript" src="http://smooth.gcstatic.com/d/smoothradio.com/js/combined/smooth-minified__a7b46b54.js"></script>
 		
 	
 		<!--<![endif]-->
@@ -53,7 +53,7 @@
 	<!--[if lte IE 6]>
 	
 		
-		<script type="text/javascript" src="http://smooth.gcstatic.com/d/smoothradio.com/js/combined/smooth-ie-lte7-minified__0a458e4c.js"></script>
+		<script type="text/javascript" src="http://smooth.gcstatic.com/d/smoothradio.com/js/combined/smooth-ie-lte7-minified__d5447c3d.js"></script>
 		
 	<![endif]-->
 	
@@ -62,7 +62,7 @@
 	<!--[if IE 7]>
 	
 		
-		<script type="text/javascript" src="http://smooth.gcstatic.com/d/smoothradio.com/js/combined/smooth-ie-minified__1cefe435.js"></script>
+		<script type="text/javascript" src="http://smooth.gcstatic.com/d/smoothradio.com/js/combined/smooth-ie-minified__c6346463.js"></script>
 		
 	<![endif]-->
 	
@@ -71,7 +71,7 @@
 	<!--[if IE 8]>
 	
 		
-		<script type="text/javascript" src="http://smooth.gcstatic.com/d/smoothradio.com/js/combined/smooth-ie-minified__1cefe435.js"></script>
+		<script type="text/javascript" src="http://smooth.gcstatic.com/d/smoothradio.com/js/combined/smooth-ie-minified__c6346463.js"></script>
 		
 	<![endif]-->
 	
@@ -80,7 +80,7 @@
 	<!--[if gte IE 9]>
 	
 		
-		<script type="text/javascript" src="http://smooth.gcstatic.com/d/smoothradio.com/js/combined/smooth-minified__61205105.js"></script>
+		<script type="text/javascript" src="http://smooth.gcstatic.com/d/smoothradio.com/js/combined/smooth-minified__a7b46b54.js"></script>
 		
 	<![endif]-->
 	
@@ -109,11 +109,13 @@
 		
 			<meta property="og:site_name" content="Smooth">
 		
-			<meta property="fb:admins" content="10150989310761400,10152852372180562,10151417298831297 ">
+			<meta property="fb:admins" content="551351399,695470561,533626296">
 		
 			<meta property="fb:app_id" content="233524320165894">
 		
 			<meta content="10151866324557825" property="fb:page_id">
+		
+			<meta content="privacy-policy" name="sailthru.tags">
 		
 
 		
@@ -151,7 +153,11 @@
 		// UKRP Popup - ListenLive buttons and targets
 		gusto.player_url_default  = '/london/radio/player/';  // best effort player for prefered station
 		gusto.player_url_template = '/<%= slug %>/radio/player/'; // template to construct new player_url's from a slug
-		gusto.openPlayerPopup = function(player_url) {gusto.playerWin = window.open(player_url, 'playerWin', 'width=380,height=665,status=1,resizable=1');}; // Single point of contact to spawn the correct size window
+		gusto.openPlayerPopup = function(player_url) {
+            var streaming_params = gusto.build_streaming_params();
+            gusto.set_streaming_params_cookie(streaming_params);
+            
+            gusto.playerWin = window.open(player_url, 'playerWin', 'width=380,height=665,status=1,resizable=1');}; // Single point of contact to spawn the correct size window
 		gusto.playerInitListenLiveButton = function(id) {
 			// Short term click event for #listen_live button 's
 			// This will be unbound and overridden when localise.js loads
@@ -163,34 +169,146 @@
 					return false;
 				}).attr('href', gusto.player_url_default).addClass('listen_live_btn_click_handler');
 			}
-		}
+		};
 		
 		// avoid the form submission in the on-air module until JS loads
-if (window.jQuery) {
-		$("#on_air_listen_live_btn").ready(function(){
-			$("#on_air_listen_live_btn").bind("click.on_air_before_page_loaded", function(){
-				return false;
-			});
-		});
-}
-	    
-	    </script>
+        if (window.jQuery) {
+            $("#on_air_listen_live_btn").ready(function(){
+                $("#on_air_listen_live_btn").bind("click.on_air_before_page_loaded", function(){
+                    return false;
+                });
+            });
+        }
+
+    
+        </script>
+
+    <script type="text/javascript">
+//    get the urlencoded string to pass in the streaming request
+//    first build_streaming_params is a fallback in case the second one contains a syntax error
+gusto.build_streaming_params = function() {
+    return encodeURIComponent('amsparams=' + "playerid:UKRP;skey:1443641805;");
+};
+//    this comes from app settings for ukrp
+gusto.streaming_params_cookie_name = 'ukrp_streamparams';
+//    wrapper for setting the cookie up until near the end of 32bit timestamp
+gusto.set_streaming_params_cookie = function(encoded_querystring) {
+    document.cookie = gusto.streaming_params_cookie_name + '=' + encoded_querystring + '; expires=Thu, 31 Dec 2037 23:59:59 GMT; path=/';
+};
+</script>
+<script type="text/javascript">
+gusto.build_streaming_params = function() {
+    function param_error(message) {
+        if (console) {
+            console.log('Streaming param error:', message);
+        }
+    }
+
+    // internal function to process bits of the template and stiches the final value
+    // eg stitch('|', 'a', 'b:', [1,2,3] ,';c:', 123) => "ab:|1|2|3|;c:123"
+    function stitch() {
+        var separator = Array.prototype.shift.apply(arguments) + "";
+        var final_value = '';
+        for (var i=0; i<arguments.length; i++) {
+            var string_type = Object.prototype.toString.call(arguments[i]);
+            switch (string_type) {
+                case '[object Array]':
+                    if (separator.length > 0) {
+                        final_value = final_value + separator + arguments[i].join(separator) + separator;
+                        break;
+                    }
+                case '[object Object]':
+                case '[object Undefined]':
+                    param_error(arguments[i]);
+                    break;
+                default:
+                    final_value = final_value + arguments[i];
+            }
+        }
+        return final_value;
+    }
+
+    var params = [];
+    
+        try {
+            params.push('amsparams=' + stitch('', "playerid:UKRP;skey:1443641805;"));
+        } catch(e) {
+            param_error('amsparams');
+        }
+        
+    
+        try {
+            params.push('listenerid=' + stitch('', adswizzListenerId));
+        } catch(e) {
+            param_error('listenerid');
+        }
+        
+    
+        try {
+            params.push('awparams=' + stitch('|', "kxsegs:" , Krux.segments , ";"));
+        } catch(e) {
+            param_error('awparams');
+        }
+        
+    
+    return encodeURIComponent(params.join('&'));
+};
+</script>
+
+
 	</head>
 	<body class="js">
 
+		<!-- START krux interchange tag -->
+<script type="text/javascript">
+// code for retrieving the Krux user id and segments from either local storage or a cookie
+window.Krux || ((Krux = function() {Krux.q.push(arguments);}).q = []);
+
+(function() {
+	function retrieveKruxValue(key) {
+		var ret = "";
+		// check for value in local storage
+		if (window.localStorage) {
+			ret = window.localStorage.getItem(key);
+		} 
+		if (ret != undefined && ret != "") {
+			return ret;
+		}
+		// check for value in cookie
+		if (navigator.cookieEnabled) {
+			ret = document.cookie.match(key + '=([^;]*)');
+			ret = (ret && unescape(ret[1])) || "";
+		} 
+		return ret;
+	}
+	var kruxUserId = "";
+	// there are two possible variables that hold the krux user id - try them both
+	kruxUserId = retrieveKruxValue('kxuser');
+	if (kruxUserId == undefined || kruxUserId == "") {
+		kruxUserId = retrieveKruxValue('kxkuid');
+	}
+	Krux.user = kruxUserId;
+	Krux.segments = retrieveKruxValue('kxsegs') && retrieveKruxValue('kxsegs').split(',') || [];
+	
+})();
+
+// used in _ad_tech.html
+window.krux_adtech_param = ';kvkrx=' + window.Krux.segments.join(":");
+</script>
+<!-- END krux interchange tag -->
 		
 
 
 <!-- Google Tag Manager - Data Layer -->
 <script>dataLayer = [{"google_analytics_id": "UA-49209497-1", "render_mode": "v3", "category_top_level": "smoothradio.com", "brand": "smooth", "cb_data_json": "{\"domain\": \"smoothradio.com\", \"sections\": \"smoothradio.com\", \"uid\": 134, \"author\": \"\"}", "content_type": "article"}];</script>
 <!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WD2MXG&google_analytics_id=UA-49209497-1&render_mode=v3&category_top_level=smoothradio.com&brand=smooth&cb_data_json=%7B%22domain%22%3A+%22smoothradio.com%22%2C+%22sections%22%3A+%22smoothradio.com%22%2C+%22uid%22%3A+134%2C+%22author%22%3A+%22%22%7D&content_type=article"
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-N7KJ77&google_analytics_id=UA-49209497-1&render_mode=v3&category_top_level=smoothradio.com&brand=smooth&cb_data_json=%7B%22domain%22%3A+%22smoothradio.com%22%2C+%22sections%22%3A+%22smoothradio.com%22%2C+%22uid%22%3A+134%2C+%22author%22%3A+%22%22%7D&content_type=article"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-WD2MXG');</script>
+})(window,document,'script','dataLayer','GTM-N7KJ77');</script>
 <!-- End Google Tag Manager -->
 
 
@@ -219,11 +337,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 if (navigator.appVersion.indexOf('MSIE 6') === -1) document.body.className = ((document.body.className) ? document.body.className + ' js' : 'js');
 </script>
 
-		<div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
+		<div id="fb-root"><script src="https://connect.facebook.net/en_US/sdk.js" async=""></script></div>
 		<script>
 		  window.fbAsyncInit = function() {
 		    FB.init({
 		      appId  : '233524320165894',
+              version   : 'v2.0',
 		      status : true, // check login status
 		      cookie : true, // enable cookies to allow the server to access the session
 		      xfbml  : true, // parse XFBML
@@ -233,7 +352,7 @@ if (navigator.appVersion.indexOf('MSIE 6') === -1) document.body.className = ((d
 
 		  (function() {
 		    var e = document.createElement('script');
-		    e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+		    e.src = document.location.protocol + '//connect.facebook.net/en_US/sdk.js';
 		    e.async = true;
 		    document.getElementById('fb-root').appendChild(e);
 		  }());
@@ -365,7 +484,7 @@ if (navigator.appVersion.indexOf('MSIE 6') === -1) document.body.className = ((d
 		
 		       <li class="last childless">
 	               
-	                   <a href="/singles/">Dating</a>
+	                   <a href="/charity/">Charity</a>
 	               
 	           </li>
 		
@@ -412,8 +531,7 @@ gusto.udb_user={
     "grid": "",
     "dob_year": "",
     "gender": "",
-    "age_segment": "",
-    "streaming_params": ""
+    "age_segment": ""
 };
 
 if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
@@ -437,10 +555,21 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
     
     <script type="text/javascript">
     <!--
+    
     if (window.adgroupid == undefined) {window.adgroupid = parseInt(Math.random() * 1000);}
-    document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|5058077|0|3466|ADTECH;loc=100;target=_blank;key=None_article+None+article+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+
+    var local_krux_adtech_param = '';
+    if(window.krux_adtech_param) {
+        local_krux_adtech_param = window.krux_adtech_param;
+    } else if(parent.window.krux_adtech_param) {
+        local_krux_adtech_param = parent.window.krux_adtech_param;
+    }
+
+    document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|5058077|0|3466|ADTECH;loc=100'+ local_krux_adtech_param +';target=_blank;key=None_article+None+article+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+
+    
     -->
-    </script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|5058077|0|3466|ADTECH;loc=100;target=_blank;key=None_article+None+article+key4;grp=465;misc=1580392683788"></script>
+    </script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|5058077|0|3466|ADTECH;loc=100;kvkrx=;target=_blank;key=None_article+None+article+key4;grp=157;misc=1580392685547"></script>
     <noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|5058077|0|3466|ADTECH;loc=300;key=None_article+None+article+key4;"><img src="http://adserver.adtech.de/adserv|3.0|646|5058077|0||ADTECH;loc=300;key=None_article+None+article+key4;" width="1" height="1" alt=""></a></p></noscript>
     
 
@@ -463,10 +592,21 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
     
     <script type="text/javascript">
     <!--
+    
     if (window.adgroupid == undefined) {window.adgroupid = parseInt(Math.random() * 1000);}
-    document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2048350|0|454|ADTECH;loc=100;target=_blank;key=None_article+None+article+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+
+    var local_krux_adtech_param = '';
+    if(window.krux_adtech_param) {
+        local_krux_adtech_param = window.krux_adtech_param;
+    } else if(parent.window.krux_adtech_param) {
+        local_krux_adtech_param = parent.window.krux_adtech_param;
+    }
+
+    document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2048350|0|454|ADTECH;loc=100'+ local_krux_adtech_param +';target=_blank;key=None_article+None+article+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+
+    
     -->
-    </script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2048350|0|454|ADTECH;loc=100;target=_blank;key=None_article+None+article+key4;grp=465;misc=1580392683789"></script>
+    </script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2048350|0|454|ADTECH;loc=100;kvkrx=;target=_blank;key=None_article+None+article+key4;grp=157;misc=1580392685547"></script>
     <noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|2048350|0|454|ADTECH;loc=300;key=None_article+None+article+key4;"><img src="http://adserver.adtech.de/adserv|3.0|646|2048350|0||ADTECH;loc=300;key=None_article+None+article+key4;" width="1" height="1" alt=""></a></p></noscript>
     
 
@@ -684,107 +824,92 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
             
 
 <ul>
-	
-
-	
-    
-	<li class="first nowplaying odd">
-		<p class="track">
-			<span class="track_artist">
-				
-				
-
-
-
-    
-        Diana Ross
     
 
-				
-			</span>
-			
-				Theme From Mahogany
-			
-		</p>
-		<p class="time"><a href="/playlist/">
+    
+    
+    <li class="first nowplaying odd">
+        <p class="track">
+            <span class="track_artist">
+                
+    
+           Mr Mister
+    
+
+
+            </span>
+            
+                Broken Wings
+            
+        </p>
+        <p class="time"><a href="/playlist/">
         Now
         </a></p>
-		<p class="download"><a href="https://itunes.apple.com/gb/album/theme-from-mahogany/id319514522?i=319514703&amp;uo=4&amp;at=10lwHC&amp;ct=Smooth_Miscellaneous"><span>iTunes</span></a></p>
-	</li>
+        <p class="download"><a href="https://itunes.apple.com/gb/album/broken-wings/id311932413?i=311932416&amp;uo=4&amp;at=10lwHC&amp;ct=Smooth_Miscellaneous"><span>iTunes</span></a></p>
+    </li>
 
-	<li class="">
-		<p class="track">
-			<span class="track_artist">
-				
-				
-
-
-
+    <li class="">
+        <p class="track">
+            <span class="track_artist">
+                
     
-        <a class="first" href="/artists/bee-gees/">Bee Gees</a>
+           Mark Cohn
     
 
-				
-			</span>
-			
-				Massachusetts
-			
-		</p>
-		<p class="time"><a href="/playlist/">
-        21:47
+
+            </span>
+            
+                Walking In Memphis
+            
+        </p>
+        <p class="time"><a href="/playlist/">
+        21:29
         </a></p>
-		<p class="download"><a href="https://itunes.apple.com/gb/album/massachusetts/id515807830?i=515807837&amp;uo=4&amp;at=10lwHC&amp;ct=Smooth_Miscellaneous"><span>iTunes</span></a></p>
-	</li>
+        <p class="download"><a href="https://itunes.apple.com/gb/album/walking-in-memphis-backing/id493974878?i=493974880&amp;uo=4&amp;at=10lwHC&amp;ct=Smooth_Miscellaneous"><span>iTunes</span></a></p>
+    </li>
 
-	<li class="odd">
-		<p class="track">
-			<span class="track_artist">
-				
-				
-
-
-
+    <li class="odd">
+        <p class="track">
+            <span class="track_artist">
+                
     
-        Atlantic Starr
+           Roxy Music
     
 
-				
-			</span>
-			
-				Always
-			
-		</p>
-		<p class="time"><a href="/playlist/">
-        21:40
+
+            </span>
+            
+                Jealous Guy
+            
+        </p>
+        <p class="time"><a href="/playlist/">
+        21:21
         </a></p>
-		<p class="download"><a href="https://itunes.apple.com/gb/album/always/id160829?i=160813&amp;uo=4&amp;at=10lwHC&amp;ct=Smooth_Miscellaneous"><span>iTunes</span></a></p>
-	</li>
+        <p class="download"><a href="https://itunes.apple.com/gb/album/jealous-guy/id724413368?i=724413586&amp;uo=4&amp;at=10lwHC&amp;ct=Smooth_Miscellaneous"><span>iTunes</span></a></p>
+    </li>
 
-	<li class="">
-		<p class="track">
-			<span class="track_artist">
-				
-				
-
-
-
+    <li class="">
+        <p class="track">
+            <span class="track_artist">
+                
     
-        Bob Marley
+           Carole King
     
 
-				
-			</span>
-			
-				Is This Love
-			
-		</p>
-		<p class="time"><a href="/playlist/">
-        21:36
+
+            </span>
+            
+                It's Too Late
+            
+        </p>
+        <p class="time"><a href="/playlist/">
+        21:17
         </a></p>
-		<p class="download"><a href="https://itunes.apple.com/gb/album/is-this-love/id13126496?i=17012489&amp;uo=4&amp;at=10lwHC&amp;ct=Smooth_Miscellaneous"><span>iTunes</span></a></p>
-	</li>
+        <p class="download"><a href="https://itunes.apple.com/gb/album/its-too-late/id278129200?i=278129308&amp;uo=4&amp;at=10lwHC&amp;ct=Smooth_Miscellaneous"><span>iTunes</span></a></p>
+    </li>
 
 </ul>
+
 
             
                 <footer><a href="/playlist/">Go to the Smooth Radio Playlist</a></footer>
@@ -809,10 +934,21 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
     
     <script type="text/javascript">
     <!--
+    
     if (window.adgroupid == undefined) {window.adgroupid = parseInt(Math.random() * 1000);}
-    document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|5058109|0|170|ADTECH;loc=100;target=_blank;key=None_article+None+article+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+
+    var local_krux_adtech_param = '';
+    if(window.krux_adtech_param) {
+        local_krux_adtech_param = window.krux_adtech_param;
+    } else if(parent.window.krux_adtech_param) {
+        local_krux_adtech_param = parent.window.krux_adtech_param;
+    }
+
+    document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|5058109|0|170|ADTECH;loc=100'+ local_krux_adtech_param +';target=_blank;key=None_article+None+article+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+
+    
     -->
-    </script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|5058109|0|170|ADTECH;loc=100;target=_blank;key=None_article+None+article+key4;grp=465;misc=1580392683792"></script>
+    </script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|5058109|0|170|ADTECH;loc=100;kvkrx=;target=_blank;key=None_article+None+article+key4;grp=157;misc=1580392685551"></script>
     <noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|5058109|0|170|ADTECH;loc=300;key=None_article+None+article+key4;"><img src="http://adserver.adtech.de/adserv|3.0|646|5058109|0||ADTECH;loc=300;key=None_article+None+article+key4;" width="1" height="1" alt=""></a></p></noscript>
     
 
@@ -1180,12 +1316,12 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 
 	<h3>
 	    
-        <a href="/artists/elton-john/boycottdolcegabbana-campaign-elton-john/" class="">
+        <a href="/best-music/top-songs/top-5-kenny-rogers-songs-watch-listen/" class="">
 	    
 	    
 
      
-        <img src="http://assets2.smoothradio.com/2014/38/elton-john-3-1411481780-small-pod-0.jpg" alt="Elton John" height="138" width="138">
+        <img src="http://assets9.smoothradio.com/2013/27/kenny-rogers---glastonbury-2013-1373549688-small-pod-0.jpg" alt="Kenny Rogers - Glastonbury 2013" height="138" width="138">
     
 
 	<span class="headline">
@@ -1195,7 +1331,7 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
             
         
         
-		Gabbana Calls Elton John ‘Ignorant’</span>
+		Top 5 Kenny Rogers Songs - Watch &amp; Listen </span>
 
     
 	    
@@ -1219,26 +1355,26 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 
 
 
-<article class="grid_1 last first_row cycle_end  has_video">
+<article class="grid_1 last first_row cycle_end  ">
 
 	<h3>
 	    
-        <a href="/music-news/kayne-west-glastonbury-2015-reaction/" class="">
+        <a href="/music-news/10-most-uplifting-songs-list/" class="">
 	    
 	    
 
      
-        <img src="http://assets3.smoothradio.com/2015/01/david-bowie-1-1420713769-small-pod-0.jpg" alt="David Bowie" height="138" width="138">
+        <img src="http://assets4.smoothradio.com/2013/44/abba---smooth-artists-1383755689-small-pod-0.jpg" alt="Abba" height="138" width="138">
     
 
 	<span class="headline">
 		
 		    
-              <em class="has_video">Watch</em>
+              
             
         
         
-		BRITs Would Prefer David Bowie Or Fleetwood Mac To Headline Glastonbury, Not Kayne West </span>
+		Scientist Reveals Top Feel-Good Songs Of All Time</span>
 
     
 	    
@@ -1290,12 +1426,12 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 
 	<h3>
 	    
-        <a href="/best-music/top-songs/the-best-buddy-holly-songs-list-videos/" class="">
+        <a href="/best-music/1970s/top-one-hit-wonders-of-the-1970s/" class="">
 	    
 	    
 
      
-        <img src="http://assets5.smoothradio.com/2015/09/buddy-holly-1425217110-small-pod-0.png" alt="Buddy Holly" height="138" width="138">
+        <img src="http://assets6.smoothradio.com/2013/26/the-knack-the-xfm-top-1000-songs-of-all-time--1372846525-small-pod-0.jpg" alt="The Knack - My Sharona" height="138" width="138">
     
 
 	<span class="headline">
@@ -1305,7 +1441,7 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
             
         
         
-		The 10 Best Buddy Holly Songs</span>
+		Top One Hit Wonders Of The 1970s</span>
 
     
 	    
@@ -1315,7 +1451,7 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 	</h3>
 
 	
-		<p class="abstract">Buddy Holly was an incredible pioneer of rock and roll and was taken much too early after a plane crash at 22. We pick ten of his best songs. </p>
+		<p class="abstract">We look at seven of the top one hit wonders of the 1970s - some fantastic songs in this music collection! </p>
 	
 </article>
 
@@ -1329,26 +1465,26 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 
 
 
-<article class="grid_1 last first_row cycle_end  has_video">
+<article class="grid_1 last first_row cycle_end  ">
 
 	<h3>
 	    
-        <a href="/best-music/best-motown/supremes-best-girl-group/" class="">
+        <a href="/best-music/culture-club-top-5/" class="">
 	    
 	    
 
      
-        <img src="http://assets1.smoothradio.com/2009/45/heart-divas---the-supremes-1258030836-small-pod-0.jpg" alt="The Supremes" height="138" width="138">
+        <img src="http://assets6.smoothradio.com/2011/05/culture-club-to-reunite1-1296571922-small-pod-0.jpg" alt="Culture Club" height="138" width="138">
     
 
 	<span class="headline">
 		
 		    
-              <em class="has_video">Watch</em>
+              
             
         
         
-		Supremes Top Best Girl Group Of All-Time List</span>
+		Listen And Watch: Culture Club's Top 5</span>
 
     
 	    
@@ -1358,7 +1494,7 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 	</h3>
 
 	
-		<p class="abstract">Billboard has named the Supremes at the best girl group of all-time.</p>
+		<p class="abstract">They were one of the biggest acts of the '80s with their album 'Colour By Numbers' selling 10 million copies worldwide.</p>
 	
 </article>
 
@@ -1682,10 +1818,21 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
     
     <script type="text/javascript">
     <!--
+    
     if (window.adgroupid == undefined) {window.adgroupid = parseInt(Math.random() * 1000);}
-    document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|5058085|0|225|ADTECH;loc=100;target=_blank;key=None_article+None+article+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+
+    var local_krux_adtech_param = '';
+    if(window.krux_adtech_param) {
+        local_krux_adtech_param = window.krux_adtech_param;
+    } else if(parent.window.krux_adtech_param) {
+        local_krux_adtech_param = parent.window.krux_adtech_param;
+    }
+
+    document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|5058085|0|225|ADTECH;loc=100'+ local_krux_adtech_param +';target=_blank;key=None_article+None+article+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+
+    
     -->
-    </script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|5058085|0|225|ADTECH;loc=100;target=_blank;key=None_article+None+article+key4;grp=465;misc=1580392683798"></script>
+    </script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|5058085|0|225|ADTECH;loc=100;kvkrx=;target=_blank;key=None_article+None+article+key4;grp=157;misc=1580392685561"></script>
     <noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|5058085|0|225|ADTECH;loc=300;key=None_article+None+article+key4;"><img src="http://adserver.adtech.de/adserv|3.0|646|5058085|0||ADTECH;loc=300;key=None_article+None+article+key4;" width="1" height="1" alt=""></a></p></noscript>
     
 </div>
@@ -1700,10 +1847,21 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
     
     <script type="text/javascript">
     <!--
+    
     if (window.adgroupid == undefined) {window.adgroupid = parseInt(Math.random() * 1000);}
-    document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|5058091|0|16|ADTECH;loc=100;target=_blank;key=None_article+None+article+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+
+    var local_krux_adtech_param = '';
+    if(window.krux_adtech_param) {
+        local_krux_adtech_param = window.krux_adtech_param;
+    } else if(parent.window.krux_adtech_param) {
+        local_krux_adtech_param = parent.window.krux_adtech_param;
+    }
+
+    document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|5058091|0|16|ADTECH;loc=100'+ local_krux_adtech_param +';target=_blank;key=None_article+None+article+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+
+    
     -->
-    </script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|5058091|0|16|ADTECH;loc=100;target=_blank;key=None_article+None+article+key4;grp=465;misc=1580392683800"></script>
+    </script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|5058091|0|16|ADTECH;loc=100;kvkrx=;target=_blank;key=None_article+None+article+key4;grp=157;misc=1580392685562"></script>
     <noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|5058091|0|16|ADTECH;loc=300;key=None_article+None+article+key4;"><img src="http://adserver.adtech.de/adserv|3.0|646|5058091|0||ADTECH;loc=300;key=None_article+None+article+key4;" width="1" height="1" alt=""></a></p></noscript>
     
 </div>
@@ -1731,9 +1889,32 @@ var s_account="GlobalRSmooth";
 <script type="text/javascript" src="http://smooth.gcstatic.com/gusto/c/js/sctl.js?ver=333"></script>
 
 
-<script language="JavaScript" type="text/javascript"><!--
-/* You may give each page an identifying name, server, and channel on
-the next lines. */
+<script language="JavaScript" type="text/javascript">
+<!--
+
+    var events = [];
+    var last_logged_in_state = sessionStorage.last_logged_in_state || "not_signed_in";
+    var current_logged_in_state = gusto.udb_user.grid ? "signed_in" : "not_signed_in";
+    var registration_context = "";
+
+    if(last_logged_in_state != current_logged_in_state) {
+        var login_or_out = (current_logged_in_state == 'signed_in') ? "event9" : "event10";
+        events.push(login_or_out);
+        if(current_logged_in_state == 'signed_in') {
+            var action = (gusto.tracking_registration_done) ? "register" : "sign_in";
+            registration_context  = (sessionStorage.registration_context || 'SMTH:unknown:') + action;
+        }
+        sessionStorage.registration_context = "";
+    };
+
+    if(gusto.tracking_login_form_displayed && gusto.tracking_registration_form_displayed) {
+        // the only place you can register, that isn't the register page, is a competition
+        // there may be other places in the future
+        sessionStorage.registration_context = 'SMTH:competition:';
+    }
+
+    /* You may give each page an identifying name, server, and channel on
+    the next lines. */
     s.pageName="SMTH/SMTH/privacy policy";
     s.prefix="SMTH/SMTH";
     s.channel="SMTH";
@@ -1755,9 +1936,9 @@ the next lines. */
     s.prop15="";
     s.prop16="";
     s.prop17="";
-    s.prop18="";
+    s.prop18=current_logged_in_state;
     s.prop19="";
-    s.prop20="";
+    s.prop20=registration_context;
     s.prop21="";
     s.prop22="";
     s.prop23="v3";
@@ -1766,7 +1947,7 @@ the next lines. */
     s.prop26="";
     s.prop27="";
     s.prop45="";
-    s.prop46= (gusto && (gusto.udb_user)) ? gusto.udb_user.grid : "";
+    s.prop46= (gusto && (gusto.udb_user.grid)) ? gusto.udb_user.grid : "not_signed_in";
     s.products="646-5058109;646-2048350;646-5058077;646-5058085;646-5058091";
     /* Conversion Variables */
     s.campaign="";
@@ -1788,9 +1969,9 @@ the next lines. */
     s.eVar15="";
     s.eVar16="";
     s.eVar17="";
-    s.eVar18="";
+    s.eVar18=current_logged_in_state;
     s.eVar19="";
-    s.eVar20="";
+    s.eVar20=registration_context;
     s.eVar21="";
     s.eVar22="";
     s.eVar23="";
@@ -1798,11 +1979,24 @@ the next lines. */
     s.eVar25="";
     s.eVar45="";
     s.eVar46="";
+    s.eVar50=(gusto && (gusto.udb_user.grid)) ? gusto.udb_user.grid : "not_signed_in";
     /* Hierarchy Variables */
     s.hier1="article, 176";
     s.hier2="SMTH/SMTH/privacy policy";
     /* Stream Tracking Variables */
     s.Media.autotrack=true;
+
+
+    if(gusto.tracking_login_form_displayed) {
+        events.push("event11");
+    }
+    if(gusto.tracking_registration_done) {
+        events.push("event3");
+    }
+
+    // if you see event2 while debugging, that's a page view event
+    s.events = events.join(",")
+    sessionStorage.last_logged_in_state = s.prop18;
 
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 var s_code=s.t();if(s_code)document.write(s_code);//--></script>
