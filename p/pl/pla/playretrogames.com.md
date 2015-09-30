@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the playretrogames.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628220612id_/http%3A//www.playretrogames.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playretrogames.com privacy policy that was archived on 2015-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150930021607id_/http%3A//www.playretrogames.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Play Retro Games
 
-This Privacy Policy governs the manner in which Retro Games Online collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.retrogamesonline.com](https://web.archive.org/web/20150628220612id_/http%3A//www.playretrogames.com/www.retrogamesonline.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by Retro Games Online.
+This Privacy Policy governs the manner in which Retro Games Online collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.retrogamesonline.com](https://web.archive.org/web/20150930021607id_/http%3A//www.playretrogames.com/www.retrogamesonline.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by Retro Games Online.
 
 **Personal identification information**
 
@@ -50,8 +50,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Retro Games Online](https://web.archive.org/web/20150628220612id_/http%3A//www.playretrogames.com/www.retrogamesonline.com)  
-[www.retrogamesonline.com](https://web.archive.org/web/20150628220612id_/http%3A//www.playretrogames.com/www.retrogamesonline.com)  
+[Retro Games Online](https://web.archive.org/web/20150930021607id_/http%3A//www.playretrogames.com/www.retrogamesonline.com)  
+[www.retrogamesonline.com](https://web.archive.org/web/20150930021607id_/http%3A//www.playretrogames.com/www.retrogamesonline.com)  
 Retro Games Online United Kingdom  
 +44 (0) 208 816 8165  
 retrogamesonline@gmail.com
