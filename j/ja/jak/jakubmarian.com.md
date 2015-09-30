@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jakubmarian.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627180958id_/http%3A//jakubmarian.com/privacy-policy-and-information-about-amazon-affiliate-marketing-links) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jakubmarian.com privacy policy that was archived on 2015-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150930055313id_/http%3A//jakubmarian.com/privacy-policy-and-information-about-amazon-affiliate-marketing-links) for the most accurate reproduction.*
 
 # Privacy policy and information about Amazon affiliate marketing links
 
