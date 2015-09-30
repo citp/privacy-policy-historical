@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the halsbrook.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315232653id_/https%3A//www.halsbrook.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halsbrook.com privacy policy that was archived on 2015-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150930102427id_/https%3A//www.halsbrook.com/static/privacy) for the most accurate reproduction.*
 
-# Halsbrook
+# Privacy Policy | Halsbrook
 
 This Privacy Policy was last updated on August 1, 2012.
 
