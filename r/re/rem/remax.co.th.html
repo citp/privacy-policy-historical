@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the remax.co.th privacy policy that was archived on 2015-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150609000046id_/http%3A//www.remax.co.th/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the remax.co.th privacy policy that was archived on 2015-09-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150930092908id_/http%3A//www.remax.co.th/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" ng-app="webportal"><head>
     <meta name="google-site-verification" content="teay-3UdiPGbASkLEneI930MFELXwOcj5QhzA10IFwM">
@@ -21,13 +21,20 @@
   <script src="http://www.remax.co.th/assets/bower_components/isteven-angular-multiselect/angular-multi-select.js" type="text/javascript"></script>
   <script src="http://www.remax.co.th/assets/bower_components/angular-socialshare/angular-socialshare.js" type="text/javascript"></script>
   <script src="http://www.remax.co.th/assets/bower_components/raphael/raphael-min.js" type="text/javascript"></script>
+  <script src="http://www.remax.co.th/assets/bower_components/jquery-ui/jquery-ui.min.js" type="text/javascript"></script>
   <script src="http://www.remax.co.th/assets/bower_components/foundation/js/foundation.min.js" type="text/javascript"></script>
   <script src="http://www.remax.co.th/assets/bower_components/foundation/js/foundation/foundation.equalizer.js" type="text/javascript"></script>
   <script src="http://www.remax.co.th/assets/bower_components/jquery-validation/dist/jquery.validate.min.js" type="text/javascript"></script>
   <script src="http://www.remax.co.th/assets/bower_components/jquery-validation/dist/additional-methods.min.js" type="text/javascript"></script>
+  <script src="http://www.remax.co.th/assets/bower_components/dropzone/dist/min/dropzone.min.js" type="text/javascript"></script>
+  <script src="http://www.remax.co.th/assets/bower_components/bootstrap/dist/js/bootstrap.min.js" type="text/javascript"></script>
+  <script src="http://www.remax.co.th/assets/bower_components/bootstrap-form-helpers/dist/js/bootstrap-formhelpers.min.js" type="text/javascript"></script>
+  <script src="http://www.remax.co.th/assets/bower_components/ngDialog/js/ngDialog.min.js" type="text/javascript"></script>
   <script src="http://www.remax.co.th/templates/webportal/js/helper.js" type="text/javascript"></script>
   <script src="http://www.remax.co.th/templates/webportal/js/pager.js" type="text/javascript"></script>
   <script src="http://www.remax.co.th/templates/webportal/js/search.js" type="text/javascript"></script>
+  <script src="http://www.remax.co.th/templates/webportal/js/addproperty.js" type="text/javascript"></script>
+  <script src="http://www.remax.co.th/templates/webportal/js/image_upload.js" type="text/javascript"></script>
   <script src="http://www.remax.co.th/templates/webportal/js/contact.js" type="text/javascript"></script>
   <script src="http://www.remax.co.th/templates/webportal/js/map.js" type="text/javascript"></script>
   <script src="http://www.remax.co.th/templates/webportal/js/property_list.js" type="text/javascript"></script>
@@ -100,7 +107,7 @@ var langHalf = "en";
 
     <header class="header">
         <div class="row">
-            <div class="small-18 large-6 columns">
+            <div class="small-18 large-6 columns" style="display: none">
                 <div class="input-textbox--wrapper--search" ng-controller="SearchCtrl">
                     <form method="get" action="/properties-search/list" ng-submit="savefilter()">
                         <input type="text" ng-model="searchfilter.text" placeholder="SEARCH HOMES">
@@ -108,7 +115,7 @@ var langHalf = "en";
                     </form>
                 </div>
             </div>
-            <div class="small-24 large-12 columns top-logo">
+            <div class="small-24 large-12 large-offset-6 columns top-logo">
                 <a href="/">
                     <img src="http://www.remax.co.th/images/remax_logo_huge.png" alt="Real Estate and Property for Buy, Sell, Rent Real estate" title="">                </a>
             </div>
@@ -117,10 +124,10 @@ var langHalf = "en";
                                                     <a href="http://www.remax.co.th/en/">
                                     <span class="language__flag--en">
                                 </span></a>
-                                                            <a href="http://www.remax.co.th/th/">
+                                                                <a href="http://www.remax.co.th/th/">
                                     <span class="language__flag--th">
                                 </span></a>
-                                            </div>
+                                                </div>
             </div>
     </div></header>
 
@@ -128,6 +135,7 @@ var langHalf = "en";
     
     
 
+    
     <div class="main-content row">
         
         <main class="columns small-24 end">
@@ -153,14 +161,14 @@ var langHalf = "en";
 <h2 class="MsoNormal" style="margin-bottom: .0001pt; line-height: 17.25pt; mso-outline-level: 1;"><span style="font-size: 14.5pt; font-family: 'inherit','serif'; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Helvetica; color: #3f3f3f; mso-font-kerning: 18.0pt; mso-bidi-language: HE;"><b><span style="border: none windowtext 1.0pt; mso-border-alt: none windowtext 0in; padding: 0in;">remax.co.th</span></b></span></h2>
 <p class="MsoNormal" style="margin-bottom: .0001pt; line-height: 14.25pt;"><span style="font-size: 10.0pt; font-family: 'inherit','serif'; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Helvetica; color: #6b6b6b; mso-bidi-language: HE;">This Application collects some Personal Data from its Users.</span></p>
 <h2 class="MsoNormal" style="margin-bottom: .0001pt; line-height: 15.75pt; mso-outline-level: 2;"><b><span style="font-size: 13.0pt; font-family: 'inherit','serif'; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Helvetica; color: #3f3f3f; mso-bidi-language: HE;">Data Controller and Owner</span></b></h2>
-<p class="MsoNormal" style="margin-bottom: .0001pt; line-height: 14.25pt;"><span style="font-size: 10.0pt; font-family: 'inherit','serif'; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Helvetica; color: #6b6b6b; mso-bidi-language: HE;"><strong>RE/MAX Thailand and E.D Real Estate co., LTD,</strong><br><strong>Email: <span id="cloak45236"><a href="mailto:info@remax.co.th">info@remax.co.th</a></span><script type="text/javascript">
+<p class="MsoNormal" style="margin-bottom: .0001pt; line-height: 14.25pt;"><span style="font-size: 10.0pt; font-family: 'inherit','serif'; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Helvetica; color: #6b6b6b; mso-bidi-language: HE;"><strong>RE/MAX Thailand and E.D Real Estate co., LTD,</strong><br><strong>Email: <span id="cloak9209"><a href="mailto:info@remax.co.th">info@remax.co.th</a></span><script type="text/javascript">
  //<!--
- document.getElementById('cloak45236').innerHTML = '';
+ document.getElementById('cloak9209').innerHTML = '';
  var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
  var path = 'hr' + 'ef' + '=';
- var addy45236 = '&#105;nf&#111;' + '&#64;';
- addy45236 = addy45236 + 'r&#101;m&#97;x' + '&#46;' + 'c&#111;' + '&#46;' + 'th';
- document.getElementById('cloak45236').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy45236 + '\'>' +addy45236+'<\/a>';
+ var addy9209 = '&#105;nf&#111;' + '&#64;';
+ addy9209 = addy9209 + 'r&#101;m&#97;x' + '&#46;' + 'c&#111;' + '&#46;' + 'th';
+ document.getElementById('cloak9209').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy9209 + '\'>' +addy9209+'<\/a>';
  //-->
  </script></strong></span></p>
 <h3 class="MsoNormal" style="margin-bottom: .0001pt; line-height: 15.75pt; mso-outline-level: 2;"><b><span style="font-size: 13.0pt; font-family: 'inherit','serif'; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Helvetica; color: #3f3f3f; mso-bidi-language: HE;">Types of Data collected</span></b></h3>
@@ -233,6 +241,7 @@ var langHalf = "en";
  </div>
 
 
+            
             
         </main>
             </div>
