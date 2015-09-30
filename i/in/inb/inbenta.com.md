@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inbenta.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321233144id_/https%3A//www.inbenta.com/en/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inbenta.com privacy policy that was archived on 2015-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150930122456id_/https%3A//www.inbenta.com/en/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Inbenta.com
 
