@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wyyo.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207064527id_/http%3A//wyyo.com%3Ftmp%3Dwyyo_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wyyo.com privacy policy that was archived on 2015-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150930155220id_/http%3A//wyyo.com%3Ftmp%3Dwyyo_privacy) for the most accurate reproduction.*
 
 # WYYO.com - Privacy Policy
 
