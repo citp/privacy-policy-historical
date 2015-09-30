@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swarajyamag.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323044937id_/http%3A//swarajyamag.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swarajyamag.com privacy policy that was archived on 2015-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150930051807id_/http%3A//swarajyamag.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | Swarajya
 
@@ -20,15 +20,15 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 Swarajya collects and uses Users personal information for the following purposes:
 
-  * _\- To personalize user experience_
+  * _– To personalize user experience_
   * We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To improve our Site_
+  * _– To improve our Site_
   * We continually strive to improve our website offerings based on the information and feedback we receive from you.
-  * _\- To improve customer service_
+  * _– To improve customer service_
   * Your information helps us to more effectively respond to your customer service requests and support needs.
-  * _\- To administer a content, promotion, survey or other Site feature_
+  * _– To administer a content, promotion, survey or other Site feature_
   * To send Users information they agreed to receive about topics we think will be of interest to them.
-  * _\- To send periodic emails_
+  * _– To send periodic emails_
   * The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site
   * Any personal information received will only be used to fill your order. We will not sell or redistribute your information to anyone.
 
