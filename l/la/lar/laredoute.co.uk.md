@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the laredoute.co.uk privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502200529id_/http%3A//www.laredoute.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laredoute.co.uk privacy policy that was archived on 2015-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150930222232id_/http%3A//www.laredoute.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
-# La Redoute, French Style Made Easy: | La Redoute
+# | La Redoute
 
   
 
@@ -55,7 +55,7 @@ If we perform a credit search, we will search the files of credit reference agen
 
   We, credit reference agencies and fraud prevention agencies may also use the records for statistical analysis about credit, insurance and fraud. We may pass information to financial and other organisations involved in fraud prevention to protect ourselves and our customers from theft and fraud. If you give us false or inaccurate information and we suspect fraud, we will record this.
 
-  We may use your information held within La Redoute Group (or held by Vertbaudet or Daxon, as explained above), including shopping habits, to run your Style Account if you have one. We may make periodic searches of the records of those companies, credit reference agencies and fraud prevention agencies to manage your account with us, to take decisions regarding credit (including whether to make credit available or to continue or extend existing credit). Those searches will not be available to other lenders for credit assessment purposes. If you require details of the credit reference agencies from whom we obtain and with whom we record information about you please write to us at our Head Office address below or telephone us on 0844 842 2222. Our lines are open from 8am-9pm, Monday to Friday and Saturday 8am to 5:30pm. Calls cost 5p per minute plus a connection charge from BT landlines of less than 6p. Mobile/other providers’ charges may vary.
+  We may use your information held within La Redoute Group (or held by Vertbaudet or Daxon, as explained above), including shopping habits, to run your Style Account if you have one. We may make periodic searches of the records of those companies, credit reference agencies and fraud prevention agencies to manage your account with us, to take decisions regarding credit (including whether to make credit available or to continue or extend existing credit). Those searches will not be available to other lenders for credit assessment purposes. If you require details of the credit reference agencies from whom we obtain and with whom we record information about you please write to us at our Head Office address below or telephone us on 033 0303 0199. Our lines are open from 8am-9pm, Monday to Friday and Saturday 8am to 5:30pm.
 
 _  
 Marketing_
@@ -64,16 +64,15 @@ We will send you our seasonal catalogue whilst you have an active account with u
 
   We may also use your information, including shopping habits, for marketing as set out below. If you do not wish to be contacted for marketing purposes, please see the section below headed “How to unsubscribe from marketing”.
 
-  * We may contact you by mail, telephone, email or any other reasonable method in relation to products we offer for sale whether as La Redoute or as other brands we operate, e.g. Daxon.
+  * We may contact you by mail, telephone, email or any other reasonable method in relation to products we offer for sale whether as La Redoute.
   * We may contact you by mail, telephone, email or any other reasonable method to introduce products offered for sale by other La Redoute Group members.
   * We may share your details with other members of the La Redoute Group and those members may contact you by mail, telephone, email or any other reasonable method.
-  * We may share your detail with our former sister companies, Vertbaudet and Daxon.
 
 
 
 **How to unsubscribe from marketing**
 
-  If you decide at any time that you do not wish to be contacted for marketing purposes by La Redoute or you decide that you do not wish La Redoute to share information for marketing purposes with other brands we operate from time to time, with other members of the La Redoute Group , with Vertbaudet and Daxon, you can unsubscribe easily by following the instructions below.
+  If you decide at any time that you do not wish to be contacted for marketing purposes by La Redoute, you can unsubscribe easily by following the instructions below.
 
   **Marketing from La Redoute, our other brands or other La Redoute Group members**
 
