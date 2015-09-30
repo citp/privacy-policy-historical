@@ -1,19 +1,17 @@
-<!--The following is the downloaded HTML source of the modernhealthcare.com privacy policy that was archived on 2015-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150617072118id_/http%3A//www.modernhealthcare.com/article/20100101/INFO/100209995) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the modernhealthcare.com privacy policy that was archived on 2015-09-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150930070320id_/http%3A//www.modernhealthcare.com/article/20100101/INFO/100209995) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-us" class=" js no-touch"><!--<![endif]--><head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=Edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
   <!-- metdata-story -->
-<!-- built by /article/20100101/INFO/100209995 at 20150617004010 by http://www.modernhealthcare.com -->
+<!-- built by /article/20100101/INFO/100209995 at 20150930001245 by http://www.modernhealthcare.com -->
 <!-- @pageType is article -->
 <title>
   Privacy Policy and Rules  - Modern Healthcare
 </title>
 <meta name="description" content="Modernhealthcare.com is the Web site of Modern Healthcare, a publication of Crain Communications Inc. Our postal address is 150 N. Michigan Avenue, Chicago, IL 60601. We can be reached by e-mail at mheditorial@crain.com or by telephone at 312-649-3173. Your use of our Web site indicates to us that you have read and accepted our Privacy Policy and our Terms and Conditions.
-%|%
-The leader in healthcare business news, research &amp; data
 ">
   <link rel="canonical" href="http://www.modernhealthcare.com/article/20100101/INFO/100209995">
   <!-- Twitter -->
@@ -44,7 +42,7 @@ Modernhealthcare.com is the Web site of Modern Healthcare, a publication of Crai
   <!-- Swiftype  -->
   <meta class="swiftype" name="title" data-type="string" content="Privacy Policy and Rules">
   <meta class="swiftype" name="url" data-type="enum" content="http://www.modernhealthcare.com/article/20100101/INFO/100209995">
-  <meta class="swiftype" name="published_at" data-type="date" content="2010-1-1">
+  <meta class="swiftype" name="published_at" data-type="date" content="2010-01-01">
   <meta class="swiftype" name="image" data-type="enum" content="https://raw.githubusercontent.com/modernhealthcare/mh-logo/master/mh-logo-g-plus.jpg">
 <!-- /metdata -->
 
@@ -129,7 +127,6 @@ var CCI = CCI || {};
 			// oas_tag.taxonomy = 'user=1234';
 			// define ad sizes and override site page in oas-custom:
 				oas_tag.allowSizeOverride = true;
-	// set breakpoints
 	switch( true ) {
 		case( screen.width > 1024 ):
 			oas_tag.query += '&screen=desktop';
@@ -141,13 +138,79 @@ var CCI = CCI || {};
 			oas_tag.query += '&screen=phone';
 		break;
 	}
-	oas_tag.sizes = function() {
-		oas_tag.definePos('x01', [970, 66]); // header position
-		oas_tag.definePos('x02', [970, 66]); // footer position
-		oas_tag.definePos('x11', [300, 250]); // 1st sidebar position
-       oas_tag.definePos('x21', [300, 600]); // 2nd sidebar position
-		oas_tag.definePos('x50', [1, 1]); // 2nd sidebar position
-	};
+	if ( screen.width < 768 ) {
+    var
+      $window = $(window),
+      _view_ads = []
+      _lazy_ads = []
+    ;
+    window.oasAdsAreLoading = !1;
+    function isInView(elem) {
+      var docViewTop = $window.scrollTop();
+      var docViewBottom = docViewTop + $window.height();
+      var elemTop = elem.offset().top;
+      var elemBottom = elemTop + elem.height();
+      return ((elemBottom <= docViewBottom) && (elemTop >= docViewTop));
+    };
+    function lazyAd(pos, wdt, hgt, elem) {
+      if( window.oasAdsAreLoading ) {
+        setTimeout(function() {
+          lazyAd(pos, wdt, hgt, elem)
+        }, 10);
+        return;
+      }
+      window.oasAdsAreLoading = 1;
+      oas_tag.sizes = function() {
+        oas_tag.definePos(pos, [wdt, hgt]);
+      };
+      oas_tag.reloadAds(pos);
+      elem.data('has-ad', 'true');
+    };
+    oas_tag.sizes = function() {
+      oas_tag.definePos('x01', [970, 66]); // header position
+      oas_tag.definePos('x50', [1, 1]); // App tracking px
+      for( var y = 0; y < _view_ads.length; y++ ) {
+        oas_tag.definePos( _view_ads[y].position, _view_ads[y].sizes );
+      }
+    };
+    $(function() {
+      $('[data-js="lazy-ad"]').each(function() {
+        var
+          $this = $(this),
+          id = $this.attr('id').split('_')[1],
+          w = $this.attr('data-width'),
+          h = $this.attr('data-height')
+        ;
+        _lazy_ads.push({
+          position: id,
+          w: w,
+          h: h,
+          elem: $this
+        });
+      });
+      $window.scroll(function() {
+        for( var x = 0; x < _lazy_ads.length; x++ ) {
+          if( isInView( _lazy_ads[x].elem )  && !$(_lazy_ads[x].elem).data('has-ad') ) {
+            lazyAd( _lazy_ads[x].position, _lazy_ads[x].w, _lazy_ads[x].h, _lazy_ads[x].elem);
+          }
+        }
+      });
+    });
+    oas_tag.callbackHandler = function () {
+        oas_tag.addHandler('adLoadCompleted', function() {
+          window.oasAdsAreLoading = !1;
+        });
+    };
+  } else {
+    oas_tag.sizes = function() {
+      oas_tag.definePos('x01', [970, 66]); // header position
+      oas_tag.definePos('x02', [970, 66]); // footer position
+      oas_tag.definePos('x11', [300, 250]); // 1st sidebar position
+      oas_tag.definePos('x21', [300, 600]); // 2nd sidebar position
+      oas_tag.definePos('x50', [1, 1]); // App tracking px
+			oas_tag.definePos('x12', [300, 250]); // Additional mobile ad
+    };
+  }
 			if(typeof CCI != 'undefined' && typeof CCI.CurrentUser != 'undefined' && CCI.CurrentUser !== null && typeof CCI.CurrentUser.OASQuery != 'undefined')
 			{
 				// Remove the first & if oas_tag.query was blank
@@ -159,7 +222,14 @@ var CCI = CCI || {};
 				{
 					oas_tag.query += CCI.CurrentUser.OASQuery;
 				}
-			}		
+			}
+			if ('referrer' in document) {
+					oas_tag.query += document.referrer.match(/^https*:\/\/www\.facebook\.com/) ? '&q=ref_facebook' : '';
+					oas_tag.query += document.referrer.match(/^https*:\/\/t\.co\//) ? '&q=ref_twitter' : '';
+					oas_tag.query += document.referrer.match(/^https*:\/\/www\.linkedin\.com/) ? '&q=ref_linkedin' : '';
+					oas_tag.query += document.referrer.match(/^https*:\/\/plus\.url\.google\.com/) ? '&q=ref_gplus' : '';
+					oas_tag.query += document.referrer.match(/^https*:\/\/www\.pinterest\.com/) ? '&q=ref_pinterest' : '';
+			}
 			var OAS_url = "http://" + oas_tag.url + "/";
 			try {
 				var OAS_listpos = oas_tag.sizes.toString().replace(/\s/g,"").match(/['"][^'"]+['"]/g).join().replace(/['"]/g,"");
@@ -185,28 +255,26 @@ var CCI = CCI || {};
 			<!--- End OAS DX Tag Snippet -->
 		<!-- End OAS -->
 <!-- pbs:macro name="cci/services-inner" cci_currcatname="Information" cci_currmaincatname="Information" cci_articleInfo="{'ArtNo':'100209995','AID':'20100101/INFO/100209995','GUID':'B355086E-F8A2-4FC9-9602-B656381B4340','Author': '','Title':'Privacy%20Policy%20and%20Rules','URL':'/article/20100101/INFO/100209995','ISOPubDate':'20100101','ShortDate':'01/01/2010 12:00 a.m.','ExtendedDate':'Fri, 1 Jan 2010 00:00:00 -0400','Summary':'Modernhealthcare.com%20is%20the%20Web%20site%20of%20Modern%20Healthcare%2C%20a%20publication%20of%20Crain%20Communications%20Inc.%20Our%20postal%20address%20is%20150%20N.%20Michigan%20Avenue%2C%20Chicago%2C%20IL%2060601.%20We%20can%20be%20reached%20by%20e-mail%20at%20mheditorial@crain.com%20or%20by%20telephone%20at%20312-649-3173.%20Your%20use%20of%20our%20Web%20site%20indicates%20to%20us%20that%20you%20have%20read%20and%20accepted%20our%20Privacy%20Policy%20and%20our%20Terms%20and%20Conditions.','Theme':'','TaxonomyWords':[],'ExtLogin':0, 'Status':'9','AccessControl':false,'ExtLoginGlobalVar':'0','ConnectionItems':{}}" cci_hierarchy="currcategory,template,@storyID,tagID*,module*,type,subtype,djoPid,djoPage,q,id*" OASUseDXTags="1" noparse -->
-<!-- services tags generated at 12:40 am 6/17/2015 -->
+<!-- services tags generated at 12:12 am 9/30/2015 -->
 
 <!-- /#includes/services.inc -->
 </head>
-<body class=" pace-running"><div class="pace pace-active"><div class="pace-progress" data-progress-text="100%" data-progress="99" style="width: 100%;">
-  <div class="pace-progress-inner"></div>
-</div>
-<div class="pace-activity"></div></div>
+<body>
   <!-- {'ArtNo':'100209995','AID':'20100101/INFO/100209995','GUID':'B355086E-F8A2-4FC9-9602-B656381B4340','Author': '','Title':'Privacy%20Policy%20and%20Rules','URL':'/article/20100101/INFO/100209995','ISOPubDate':'20100101','ShortDate':'01/01/2010 12:00 a.m.','ExtendedDate':'Fri, 1 Jan 2010 00:00:00 -0400','Summary':'Modernhealthcare.com%20is%20the%20Web%20site%20of%20Modern%20Healthcare%2C%20a%20publication%20of%20Crain%20Communications%20Inc.%20Our%20postal%20address%20is%20150%20N.%20Michigan%20Avenue%2C%20Chicago%2C%20IL%2060601.%20We%20can%20be%20reached%20by%20e-mail%20at%20mheditorial@crain.com%20or%20by%20telephone%20at%20312-649-3173.%20Your%20use%20of%20our%20Web%20site%20indicates%20to%20us%20that%20you%20have%20read%20and%20accepted%20our%20Privacy%20Policy%20and%20our%20Terms%20and%20Conditions.','Theme':'','TaxonomyWords':[],'ExtLogin':0, 'Status':'9','AccessControl':false,'ExtLoginGlobalVar':'0','ConnectionItems':{}} -->
 <!-- macro cachequalifiers: currcategory,category,template,@storyid,@cci_extLogin,lopenr,profile,q,crit,page,start,itemMainCategory,itemSubCategory,tagID,url,cci_FrameVideoTracking -->
 <!-- SiteCatalyst code version: H.25.4.
 Copyright 1996-2011 Adobe, Inc. All Rights Reserved
 More info available at http://www.omniture.com -->
 <script type="text/javascript">
-var s_account = (document.domain.indexOf("modernphysician.com") > -1) ? "crainmodernphysician" : "crainmodernhealth";
-var s_firstPartyTracking = false;
+var s_account="crainmodernhealth";
+var s_firstPartyTracking = true;
 var s_isSaxotechClickshare = true;
 var s_isShortArticle = false;
 var s_isMeteredArticle = false;
 var s_loggedInCookie = "CSDemos";
+var s_sendPageView = true;
 </script>
-<script language="JavaScript" type="text/javascript" src="http://www.modernhealthcare.com/global/js/omniture/s_crainsc.js?ver=V27.1"></script>
+<script language="JavaScript" type="text/javascript" src="http://www.modernhealthcare.com/global/js/omniture/s_crainsc.js?ver=V28.3"></script>
 <script language="JavaScript" type="text/javascript">
 /* You may give each page an identifying name, server, and channel on
 the next lines. */
@@ -226,27 +294,26 @@ s_crainsc.prop43 = s_crainsc.eVar37 = "full"; // article length flag
 // BEGIN global overrides for third-party wrappers
 // END global overrides for third-party wrappers
 // BEGIN site-level overrides
-var mhSearchTerm = (function() {
-  var windowHash = location.hash;
-  var pathArray = window.location.pathname.split('/');
-  var pathSearch = pathArray[2];
-  if (pathSearch === 'search' && windowHash) {
-    var hashValue = windowHash.split('#stq=')[1];
-    var str = hashValue.substring(0, hashValue.indexOf('&'));
-    var term = str.split('+').join(' ');
-    //console.log(decodeURIComponent(term));
-    return decodeURIComponent(term);
-  }
-})();
-s_crainsc.prop9 = s_crainsc.eVar11 = mhSearchTerm;
-_cci_sc_eventsArr.push("event13"); // search success event
-s_crainsc.eVar46="+1"; // search counter
-s_crainsc.prop20 = s_crainsc.eVar8= "swifttype"; // search type
+if (s_crainsc.pageName == 'misc:/community/index.html') {
+    s_sendPageView = false;
+    // var pn = s_crainsc.getPageName().replace(/http:\/\/.*$/,"");
+    // var qs = location.search ? location.search : !1;
+    // pn = qs ? pn + qs : pn;
+    // s_crainsc.pageName = pn;
+    // s_crainsc.prop1 = "community";
+    // s_crainsc.prop2 = "most-influential";
+    // s_crainsc.prop3 = "most-influential-2015";
+    // s_crainsc.prop5 = "community:most-influential:most-influential-2015";
+    // s_crainsc.prop25 = "community";
+    // s_crainsc.prop29 = "community";
+}
 // END site-level overrides
 s_crainsc.events = _cci_sc_eventsArr.join(",");
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s_crainsc.t();
-if(s_code)document.write(s_code);
+if (s_sendPageView) {
+    var s_code=s_crainsc.t();
+    if(s_code)document.write(s_code);
+}
 </script>
 <div style="display:none;position:absolute;left:-9999px;">
 <noscript>
@@ -254,8 +321,8 @@ if(s_code)document.write(s_code);
 </noscript>
 </div>
 <!-- End SiteCatalyst code version: H.25.4. -->
-<!-- omniture-inner.pbo cached at 12:40 am 6/17/2015 -->
-<!-- Omniture tag generated at 12:40 am 6/17/2015 -->
+<!-- omniture-inner.pbo cached at 12:12 am 9/30/2015 -->
+<!-- Omniture tag generated at 12:12 am 9/30/2015 -->
 
   		<div id="cci-interstitial">
 		<link href="/global/css/interstitial.css?ver=20130503" rel="stylesheet" type="text/css">
@@ -315,12 +382,11 @@ if(s_code)document.write(s_code);
         <div class="pure-u-1 pure-u-sm-1-2"><a class="menu-item omnitrack" data-omnilocation="touch-menu" data-omnilink="safety &amp; quality" href="/section/safety-and-quality"><span>Safety &amp; Quality</span></a></div>
         <div class="pure-u-1 pure-u-sm-1-2"><a class="menu-item omnitrack" data-omnilocation="touch-menu" data-omnilink="people" href="/section/people"><span>People</span></a></div>
         <div class="pure-u-1 pure-u-sm-1-2"><a class="menu-item omnitrack" data-omnilocation="touch-menu" data-omnilink="opinion-editorial" href="/section/opinion-and-editorial"><span>Opinion &amp; Editorial</span></a></div>
-        <div class="pure-u-1 pure-u-sm-1-2"><a class="menu-item omnitrack" data-omnilocation="touch-menu" data-omnilink="research" href="/section/data-center "><span>Research</span></a></div>
-        <div class="pure-u-1 pure-u-sm-1-2"><a class="menu-item omnitrack" data-omnilocation="touch-menu" data-omnilink="interactive-data-products" href="/section/interactive-data-products"><span>Interactive Data Products</span></a></div>
+        <div class="pure-u-1 pure-u-sm-1-2"><a class="menu-item omnitrack" data-omnilocation="touch-menu" data-omnilink="research-and-data-center" href="/section/research-and-data"><span>Research &amp; Data Center</span></a></div>
         <div class="pure-u-1 pure-u-sm-1-2"><a class="menu-item omnitrack" data-omnilocation="touch-menu" data-omnilink="education-events" href="/section/education-and-events"><span>Education &amp; Events</span></a></div>
         <div class="pure-u-1 pure-u-sm-1-2"><a class="menu-item omnitrack" data-omnilocation="touch-menu" data-omnilink="awards-recognition" href="/section/awards-and-recognition"><span>Awards &amp; Recognition</span></a></div>
         <div class="pure-u-1 pure-u-sm-1-2"><a class="menu-item omnitrack" data-omnilocation="touch-menu" data-omnilink="magazine" href="/section/magazine"><span>Magazine</span></a></div>
-        <div class="pure-u-1 pure-u-sm-1-2"><a class="menu-item omnitrack" data-omnilocation="touch-menu" data-omnilink="jobs" href="/jobs"><span>Jobs</span></a></div>
+        <div class="pure-u-1 pure-u-sm-1-2"><a class="menu-item omnitrack" data-omnilocation="touch-menu" data-omnilink="jobs" href="http://jobs.modernhealthcare.com"><span>Jobs</span></a></div>
         <div class="pure-u-1 pure-u-sm-1-2"><a class="menu-item omnitrack" data-omnilocation="touch-menu" data-omnilink="subscribe" href="/section/subscriptions"><span>Subscribe</span></a></div>
          <div class="pure-u-1 pure-u-sm-1-2"><a class="menu-item omnitrack" data-omnilocation="touch-menu" data-omnilink="advertise" href="/section/advertising"><span>Advertise</span></a></div>
          <div class="pure-u-1 pure-u-sm-1-2"><a class="menu-item omnitrack" data-omnilocation="touch-menu" data-omnilink="about-us" href="/section/about-us"><span>About Us</span></a></div>
@@ -350,11 +416,10 @@ if(s_code)document.write(s_code);
           <nav class="secondary-nav">
             <ul class="global-nav">
   <li><a class="omnitrack" data-omnilocation="global-nav" data-omnilink="opinions-editorial" href="/section/opinion-and-editorial"><span>Opinion &amp; Editorial</span></a></li>
-  <li><a class="omnitrack" data-omnilocation="global-nav" data-omnilink="research" href="/section/data-center "><span>Research</span></a></li>
-  <li><a class="omnitrack" data-omnilocation="global-nav" data-omnilink="interactive-data-products" href="/section/interactive-data-products"><span>Interactive Data Products</span></a></li>
+  <li><a class="omnitrack" data-omnilocation="global-nav" data-omnilink="research-and-data-center" href="/section/research-and-data"><span>Research &amp; Data Center</span></a></li>
   <li><a class="omnitrack" data-omnilocation="global-nav" data-omnilink="education-events" href="/section/education-and-events"><span>Education &amp; Events</span></a></li>
   <li><a class="omnitrack" data-omnilocation="global-nav" data-omnilink="awards-recognition" href="/section/awards-and-recognition"><span>Awards &amp; Recognition</span></a></li>
-  <li><a class="omnitrack" data-omnilocation="global-nav" data-omnilink="jobs" href="/jobs"><span>Jobs</span></a></li>
+  <li><a class="omnitrack" data-omnilocation="global-nav" data-omnilink="jobs" href="http://jobs.modernhealthcare.com"><span>Jobs</span></a></li>
 </ul>
           </nav>
         </div>
@@ -388,7 +453,7 @@ if(s_code)document.write(s_code);
                 <li>•&nbsp;<a class="omnitrack" data-omnilocation="main-nav" data-omnilink="subscribe" href="/section/subscriptions">Subscribe</a></li>
                 <li>•&nbsp;<a class="omnitrack" data-omnilocation="main-nav" data-omnilink="advertise" href="/section/advertising">Advertise</a></li>
               </ul>
-              <a class="omnitrack" data-omnilocation="main-nav" data-omnilink="magazine" href="/section/magazine"><img src="/apps/pbcsi.dll/storyimage/CH/20150613/MAGAZINE/306139986/AR/0/Cover-6-15-15.jpg&amp;border=0&amp;maxW=240"></a>
+              <a class="omnitrack" data-omnilocation="main-nav" data-omnilink="magazine" href="/section/magazine"><img src="/apps/pbcsi.dll/storyimage/CH/20150926/MAGAZINE/309269986/AR/0/AR-309269986.jpg&amp;border=0&amp;maxW=240"></a>
             </div>
           </div>
         </div>
@@ -507,12 +572,12 @@ if(s_code)document.write(s_code);
 				<!-- #oas_x11 -->
 		<div class="ad-container sidebar-02">
 			<h6>Advertisement</h6>
-			<div id="oas_x11"></div>
+			<div data-js="lazy-ad" data-width="300" data-height="250" id="oas_x11"></div>
 		</div>
 		<!-- #oas_x21 -->
 		<div class="ad-container sidebar-01">
 			<h6>Advertisement</h6>
-			<div id="oas_x21"></div>
+			<div data-js="lazy-ad" data-width="300" data-height="600" id="oas_x21"></div>
 		</div>
 
 		<div class="sponsored">
@@ -526,68 +591,101 @@ if(s_code)document.write(s_code);
 {
   "slug" : "Technology",
   "slugURL" : "/section/technology",
-  "title" : "Boost Patient Satisfaction and Experience Scores through Emergency Department Improvements",
-  "link": "http:\/\/info.modernhealthcare.com\/Perspectives-5-25-15-edition_Sheridan.html",
-  "image" : "http://www.modernhealthcare.com/apps/pbcsi.dll/storyimage/CH/20150617/SPONSORED/150609918/AR/0/AR-150609918.jpg&maxw=200&q=40",
-  "pubDate" : "Wed, 17 Jun 2015 00:01:00 EST",
-  "description": "First impressions matter &#8211; and for an increasing number of patients, that first impression is defined by the emergency department. This white paper examines several successful strategies for...",
-  "buttonURL" : "http:\/\/info.modernhealthcare.com\/Perspectives-5-25-15-edition_Sheridan.html",
-  "buttonType" : "Download"
-},
-{
-  "slug" : "Providers",
-  "slugURL" : "/section/providers",
-  "title" : "Integrating Acute Care & Population Health Management ",
-  "link": "http:\/\/info.modernhealthcare.com\/CEP-America_CEP-America-Home-Page.html",
-  "image" : "http://www.modernhealthcare.com/apps/pbcsi.dll/storyimage/CH/20150616/SPONSORED/150619959/AR/0/AR-150619959.jpg&maxw=200&q=40",
-  "pubDate" : "Tue, 16 Jun 2015 00:01:00 EST",
-  "description": "The move from fee-for-service to value-based care is especially challenging for hospitals and emergency departments. CEP America says integration across the acute care continuum and innovative models...",
-  "buttonURL" : "http:\/\/info.modernhealthcare.com\/CEP-America_CEP-America-Home-Page.html",
+  "title" : "Proper Room Design Can Optimize Workflow and Improve Patient Care ",
+  "link": "http:\/\/pages.modernhealthcare.com\/Midmark_83115",
+  "image" : "http://www.modernhealthcare.com/apps/pbcsi.dll/storyimage/CH/20150930/SPONSORED/309309999/AR/0/AR-309309999.jpg&maxw=200&q=40",
+  "pubDate" : "Wed, 30 Sep 2015 00:01:00 EST",
+  "description": "Learn how Berkeley, California-based LifeLong Medical Care embarked on an ambitious redesign of its East Oakland Health Center clinic, and in the process gained a better understanding of its...",
+  "buttonURL" : "http:\/\/pages.modernhealthcare.com\/Midmark_83115",
   "buttonType" : "Download"
 },
 {
   "slug" : "Technology",
   "slugURL" : "/section/technology",
-  "title" : "Revenue Cycle Payment Clarity Can Help Your Patients &#8212; and Your Bottom Line",
-  "link": "http:\/\/info.modernhealthcare.com\/Perspectives-5-25-15-edition_RelayHealth.html",
-  "image" : "http://www.modernhealthcare.com/apps/pbcsi.dll/storyimage/CH/20150616/SPONSORED/150609919/AR/0/AR-150609919.jpg&maxw=200&q=40",
-  "pubDate" : "Tue, 16 Jun 2015 00:01:00 EST",
-  "description": "To maintain revenue health and boost patient satisfaction and loyalty, healthcare providers need visibility into when and how much they will be paid, by whom, and the ability to better navigate...",
-  "buttonURL" : "http:\/\/info.modernhealthcare.com\/Perspectives-5-25-15-edition_RelayHealth.html",
+  "title" : "Discovering Hidden Areas of Clinical and Financial Improvement",
+  "link": "http:\/\/pages.modernhealthcare.com\/Sheridan_083115",
+  "image" : "http://www.modernhealthcare.com/apps/pbcsi.dll/storyimage/CH/20150929/SPONSORED/309299999/AR/0/AR-309299999.jpg&maxw=200&q=40",
+  "pubDate" : "Tue, 29 Sep 2015 00:01:00 EST",
+  "description": "Many healthcare organizations don't actively include radiology in their efforts to reduce costs and improve patient care. Download this white paper to discover how hospitals are involving radiology...",
+  "buttonURL" : "http:\/\/pages.modernhealthcare.com\/Sheridan_083115",
+  "buttonType" : "Download"
+},
+{
+  "slug" : "Technology",
+  "slugURL" : "/section/technology",
+  "title" : "Minimizing and Recovering from the Financial Impact of a Poor IT Implementation",
+  "link": "http:\/\/pages.modernhealthcare.com\/Warbird_083115",
+  "image" : "http://www.modernhealthcare.com/apps/pbcsi.dll/storyimage/CH/20150928/SPONSORED/309289999/AR/0/AR-309289999.jpg&maxw=200&q=40",
+  "pubDate" : "Mon, 28 Sep 2015 00:01:00 EST",
+  "description": "By conducting implementations the right way, health systems position themselves to gain the most benefits from the technology and achieve the best possible financial performance. Learn what goes...",
+  "buttonURL" : "http:\/\/pages.modernhealthcare.com\/Warbird_083115",
+  "buttonType" : "Download"
+},
+{
+  "slug" : "Finance",
+  "slugURL" : "/section/finance",
+  "title" : "What Does Risk-Sharing With Suppliers Really Look Like?",
+  "byline" : "Julie Blatnik, Medtronic",
+  "link": "http:\/\/www.modernhealthcare.com\/article\/20150923\/SPONSORED\/309239977\/what-does-risk-sharing-with-suppliers-really-look-like",
+  "image" : "http://www.modernhealthcare.com/apps/pbcsi.dll/storyimage/CH/20150923/SPONSORED/309239977/AR/0/AR-309239977.jpg&maxw=200&q=40",
+  "pubDate" : "Wed, 23 Sep 2015 00:01:00 EST",
+  "description": "As healthcare providers continue to take on additional risk, they are looking for partners who not only understand their new reality, but are also willing to share risk. This new reality requires...",
+  "buttonURL" : "http:\/\/www.modernhealthcare.com\/article\/20150923\/SPONSORED\/309239977\/what-does-risk-sharing-with-suppliers-really-look-like",
+  "buttonType" : "Learn More"
+},
+{
+  "slug" : "Technology",
+  "slugURL" : "/section/technology",
+  "title" : "How Transparent Is Your Hospital Pricing?",
+  "link": "http:\/\/pages.modernhealthcare.com\/HospitalPricing",
+  "image" : "http://www.modernhealthcare.com/apps/pbcsi.dll/storyimage/CH/20150922/SPONSORED/150929961/AR/0/AR-150929961.jpg&maxw=200&q=40",
+  "pubDate" : "Tue, 22 Sep 2015 12:26:32 EST",
+  "description": "Learn the 6 starter questions that help hospitals determine price transparency.",
+  "buttonURL" : "http:\/\/pages.modernhealthcare.com\/HospitalPricing",
   "buttonType" : "Download"
 },
 {
   "slug" : "Providers",
   "slugURL" : "/section/providers",
-  "title" : "5 Types of Cost-Saving Hospital Mobile Apps ",
-  "link": "http:\/\/www.modernhealthcare.com\/article\/20150531\/SPONSORED\/150529872\/5-types-of-cost-saving-hospital-mobile-apps",
-  "image" : "http://www.modernhealthcare.com/apps/pbcsi.dll/storyimage/CH/20150531/SPONSORED/150529872/AR/0/cost-saving-apps.jpg&maxw=200&q=40",
-  "pubDate" : "Sun, 31 May 2015 00:01:00 EST",
-  "description": "Less than 2 percent of U.S. adults own a wearable; but more than 70 percent carry a smartphone. It makes sense for providers to engage patients on mobile. But how can apps save costs for hospitals?...",
-  "buttonURL" : "http:\/\/www.modernhealthcare.com\/article\/20150531\/SPONSORED\/150529872\/5-types-of-cost-saving-hospital-mobile-apps",
-  "buttonType" : "More"
+  "title" : "How to Create a Comfortable and Functional Space for Patients",
+  "link": "http:\/\/pages.modernhealthcare.com\/designingcare",
+  "image" : "http://www.modernhealthcare.com/apps/pbcsi.dll/storyimage/CH/20150917/SPONSORED/301019987/AR/0/AR-301019987.jpg&maxw=200&q=40",
+  "pubDate" : "Thu, 17 Sep 2015 00:01:00 EST",
+  "description": "Learn how one medical practice identified the clinical furniture and equipment that created an inviting space for patients, while increasing efficiency during patient visits.",
+  "buttonURL" : "http:\/\/pages.modernhealthcare.com\/designingcare",
+  "buttonType" : "Download"
 },
 {
   "slug" : "Providers",
   "slugURL" : "/section/providers",
-  "title" : "Healthcare's Advantage in the Move Toward Predictive Modeling",
-  "byline" : "Christina Galoozis, Modern Healthcare Custom Media",
-  "link": "http:\/\/www.modernhealthcare.com\/article\/20150526\/SPONSORED\/150529933\/healthcares-advantage-in-the-move-toward-predictive-modeling",
-  "image" : "http://www.modernhealthcare.com/apps/pbcsi.dll/storyimage/CH/20150526/SPONSORED/150529933/AR/0/truven-health-logo.jpg&maxw=200&q=40",
-  "pubDate" : "Tue, 26 May 2015 13:09:04 EST",
-  "description": "A Q&A with Truven Health's new chief data officer, Rich Holada, about what healthcare can learn from other industries, and why data doesn't have to be big to save lives.",
-  "buttonURL" : "http:\/\/www.modernhealthcare.com\/article\/20150526\/SPONSORED\/150529933\/healthcares-advantage-in-the-move-toward-predictive-modeling",
+  "title" : "Bringing Innovation to Growing Hearts",
+  "link": "http:\/\/www.modernhealthcare.com\/article\/20150915\/SPONSORED\/150919931\/bringing-innovation-to-growing-hearts",
+  "image" : "http://www.modernhealthcare.com/apps/pbcsi.dll/storyimage/CH/20150915/SPONSORED/150919931/AR/0/AR-150919931.jpg&maxw=200&q=40",
+  "pubDate" : "Tue, 15 Sep 2015 08:30:20 EST",
+  "description": "Because some children are treated with adult-sized medical devices, device makers are stepping up to help clinicians produce better outcomes. Dr. Mark Carlson, chief medical officer at St. Jude...",
+  "buttonURL" : "http:\/\/www.modernhealthcare.com\/article\/20150915\/SPONSORED\/150919931\/bringing-innovation-to-growing-hearts",
   "buttonType" : "More"
 },
 {
-  "slug" : "Finance",
-  "slugURL" : "/section/finance",
-  "title" : "NEW RESEARCH: Is Retirement Readiness an Employer or Employee Responsibility?",
-  "link": "http:\/\/info.modernhealthcare.com\/Lincoln-Financial-Group_Lincoln-Financial-Group-Download-Page.html",
-  "image" : "http://www.modernhealthcare.com/apps/pbcsi.dll/storyimage/CH/20150323/SPONSORED/150329992/AR/0/AR-150329992.jpg&maxw=200&q=40",
-  "pubDate" : "Mon, 23 Mar 2015 00:01:00 EST",
-  "description": "Download this survey of 523 healthcare executives to get insights on how plan sponsors determine success and how they go about helping their workforce engage in the retirement savings process.",
-  "buttonURL" : "http:\/\/info.modernhealthcare.com\/Lincoln-Financial-Group_Lincoln-Financial-Group-Download-Page.html",
+  "slug" : "Technology",
+  "slugURL" : "/section/technology",
+  "title" : "Is Your Organization Prepared for New 'Chip' Requirements in Credit Cards? ",
+  "link": "http:\/\/pages.modernhealthcare.com\/EMVrequirements",
+  "image" : "http://www.modernhealthcare.com/apps/pbcsi.dll/storyimage/CH/20150915/SPONSORED/301019988/AR/0/AR-301019988.jpg&maxw=200&q=40",
+  "pubDate" : "Tue, 15 Sep 2015 00:01:00 EST",
+  "description": "By October 2015, all U.S. merchants will be required to adopt EMV standards or be liable for counterfeit fraud at a magstripe-only terminal. This white paper describes EMV, its implementation...",
+  "buttonURL" : "http:\/\/pages.modernhealthcare.com\/EMVrequirements",
+  "buttonType" : "Download"
+},
+{
+  "slug" : "Technology",
+  "slugURL" : "/section/technology",
+  "title" : "Optimizing Vehicle Usage",
+  "link": "http:\/\/pages.modernhealthcare.com\/FleetManagement",
+  "image" : "http://www.modernhealthcare.com/apps/pbcsi.dll/storyimage/CH/20150801/SPONSORED/301019993/AR/0/AR-301019993.jpg&maxw=200&q=40",
+  "pubDate" : "Sat, 1 Aug 2015 00:01:00 EST",
+  "description": "Operating an efficient fleet starts with knowing where, when and how your vehicles are being used. Having visibility into trips taken, days utilized, miles driven, engine hours and more, can help you...",
+  "buttonURL" : "http:\/\/pages.modernhealthcare.com\/FleetManagement",
   "buttonType" : "Download"
 }
 ]
@@ -633,7 +731,7 @@ if(s_code)document.write(s_code);
     	<!-- #oas_x02 -->
     <div class="ad-container leaderboard-bottom">
       <h6>Advertisement</h6>
-      <div id="oas_x02"></div>
+      <div data-js="lazy-ad" data-width="970" data-height="66" id="oas_x02"></div>
     </div>
 
   </div><!-- /content wrapper -->
@@ -673,8 +771,7 @@ if(s_code)document.write(s_code);
     </div>
   </footer>
   
-  <script src="/js/plugins/pace.min.js"></script>
-<script src="/js/plugins/tappy.min.js"></script>
+  <script src="/js/plugins/tappy.min.js"></script>
 <script src="/js/plugins/headroom.min.js"></script>
 <script src="/js/plugins/flexmenu.min.js"></script>
 <script src="/js/plugins/jquery.fitvids.min.js"></script>
@@ -708,6 +805,8 @@ if(s_code)document.write(s_code);
   })();
 </script>
 
+  <img src="//dbg52463.moatads.com?a=40402ab81ea749a79e7b7cd3f486b6ac" style="display:none;">
+  <img src="//d5i9o0tpq9sa1.cloudfront.net?a=40402ab81ea749a79e7b7cd3f486b6ac" style="display:none;">
 
 
 
