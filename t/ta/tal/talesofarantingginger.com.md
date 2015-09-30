@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the talesofarantingginger.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508061411id_/http%3A//www.talesofarantingginger.com/giveaway-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talesofarantingginger.com privacy policy that was archived on 2015-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150930203203id_/http%3A//www.talesofarantingginger.com/giveaway-policy) for the most accurate reproduction.*
 
 # Privacy, disclosure & Giveaway Policy - Tales of a Ranting Ginger
 
 Thank you for entering a giveaway on **Tales of a Ranting Ginger**. Giveaways are a great way for companies to help promote a product or campaign. All opinions expressed are honest and of my own. Any information taken from a second source is quoted or referenced  
 **  
 **  
-**Rules** \- Giveaways hosted here are most always open to Canada. Whenever possible they are open to both Canada and USA. If the brands requests, Quebec will be excluded due to laws for that province on prizes over $100
+**Rules** – Giveaways hosted here are most always open to Canada. Whenever possible they are open to both Canada and USA. If the brands requests, Quebec will be excluded due to laws for that province on prizes over $100
 
 All mandatory entries **MUST** be completed correctly before additional entries are counted. If you do not complete the mandatory entry your additional entries will be deleted.
 
@@ -29,13 +29,13 @@ Newsletter subscriptions must be verified in your inbox to count. If your twitte
 
 Tales of a Ranting Ginger has the right to ban or disqualify anyone who is not eligible to win a prize or has broken the rules in any way 
 
-**Rafflecopter** \- While using Rafflecopter to promote giveaways, I will be using their pick a winner feature. **If you sign into Rafflecopter with your Facebook account** , make sure the email linked to it is one you check often as this is were your winner notification will go.  
+**Rafflecopter** – While using Rafflecopter to promote giveaways, I will be using their pick a winner feature. **If you sign into Rafflecopter with your Facebook account** , make sure the email linked to it is one you check often as this is were your winner notification will go.  
   
-**Giveaway tools** \- When I use GT for a giveaway, all entries will be verified and the pick a winner feature will determine the winner(s) NOTE The names on these widgets do not always match up to the names commenting on the blog. This is why we ask for the name you used when commenting. 
+**Giveaway tools** – When I use GT for a giveaway, all entries will be verified and the pick a winner feature will determine the winner(s) NOTE The names on these widgets do not always match up to the names commenting on the blog. This is why we ask for the name you used when commenting. 
 
 **Disclosure** -Tales of a Ranting Ginger is happy to have _won_ the opportunity to review these great products. All opinions expressed are honest and of my own. NOT influenced in any way. 
 
-**Sponsored content** \- Some posts, ads and links are sponsored on this blog. All opinions are my own and honest. Often product is received in exchange for my review and promotion or giveaways.
+**Sponsored content** – Some posts, ads and links are sponsored on this blog. All opinions are my own and honest. Often product is received in exchange for my review and promotion or giveaways.
 
 “Our website may contain affiliate marketing links, which means we may get paid commission on sales of those products or services we write about. Our editorial content is not influenced by advertisers or affiliate partnerships. This disclosure is provided in accordance with the [Federal Trade Commission’s 16 CFR § 255.5: Guides Concerning the Use of Endorsements and Testimonials in Advertising](http://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-publishes-final-guides-governing-endorsements-testimonials/091005revisedendorsementguides.pdf).”
 
