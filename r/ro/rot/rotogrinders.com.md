@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rotogrinders.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315044252id_/https%3A//rotogrinders.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rotogrinders.com privacy policy that was archived on 2015-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150930054834id_/https%3A//rotogrinders.com/static/privacy-policy) for the most accurate reproduction.*
 
 # RotoGrinders: The Daily Fantasy Sports Authority
 
@@ -12,17 +12,18 @@
   *     * FanDuel 
     * DraftKings 
     * Articles 
-    * Reviews 
-    * [GrindersU](https://web.archive.org/lessons/GrindersU_Introduction_Daily_Fantasy_Lessons-177082)
+    * Blogs 
+    * [Podcasts](https://rotogrinders.com/podcasts)
+    * [RotoAcademy](https://rotogrinders.com/rotoacademy)
+    * [LineupBuilder](https://rotogrinders.com/lineup-builder)
     * [ GrindersLive ](https://rotogrinders.com/live)
     * [Sign Up](https://rotogrinders.com/sign-up)
     * [Sign In](https://rotogrinders.com/sign-in?from=https%3A%2F%2Frotogrinders.com%2Fstatic%2Fprivacy-policy)
-  *     * [FanDuel Review](https://rotogrinders.com/reviews/FanDuel_Promocode-115)
-    * [FanDuel Research Tools](https://rotogrinders.com/offers/fanduel/nfl)
-    * [Getting Started](https://rotogrinders.com/articles/FanDuel_Strategy-239679)
-    * [FanDuel NFL Strategy](https://rotogrinders.com/articles/FanDuel_NFL_Strategy-239686)
-    * [FanDuel NBA Strategy](https://rotogrinders.com/articles/FanDuel_NBA_Strategy-239702)
-    * [FanDuel MLB Strategy](https://rotogrinders.com/articles/FanDuel_MLB_Strategy-239696)
+  *     * [FanDuel Review](https://rotogrinders.com/reviews/fanduel-promocode-115)
+    * [FanDuel Research Tools](https://rotogrinders.com/offers/nfl?site=fanduel)
+    * [FanDuel NFL Strategy](https://rotogrinders.com/articles/fanduel_nfl_Strategy-239686)
+    * [FanDuel NBA Strategy](https://rotogrinders.com/articles/fanduel_nba_Strategy-239702)
+    * [FanDuel MLB Strategy](https://rotogrinders.com/articles/fanduel_mlb_Strategy-239696)
   *     * [News](https://rotogrinders.com/articles/category/news)
     * By Sport 
     * [Promotions & Industry](https://rotogrinders.com/articles/category/industry)
@@ -36,11 +37,13 @@
     * [ NHL](https://rotogrinders.com/articles/category/nhl)
     * [ CFB](https://rotogrinders.com/articles/category/cfb)
     * [ CBB](https://rotogrinders.com/articles/category/cbb)
-  *     * Daily Research 
+    * [ PGA](https://rotogrinders.com/articles/category/pga)
+  *     * [Daily Research](https://rotogrinders.com/offers/mlb?site=fanduel)
     * [Main Forum](https://rotogrinders.com/threads/category/main)
     * [All Forums](https://rotogrinders.com/forums)
     * Rankings 
-    * [Lineups](https://rotogrinders.com/lineups/nba)
+    * Reviews 
+    * [Starting Lineups](https://rotogrinders.com/lineups/mlb?site=fanduel)
     * [Incentives](https://rotogrinders.com/incentives)
     * Search 
 
@@ -59,6 +62,10 @@ We have taken appropriate security measures to protect your personal information
 ## Aggregate Information
 
 We may collect aggregate and non-personal information when users visit our website. This includes, but is not limited to, how many users visit our site, pages accessed, and countries users came from. By collecting this information, we may learn how to best tailor our website to our visitors. We may track domain names, IP addresses, location, browser types, and other technical information from users who visit our site.
+
+## Bankroll Tracker
+
+Our Bankroll Tracker extensions, at your request, may send contest results data to RotoGrinders.com. We use this data for the express purpose of showing analytical data and charts that are only accesible by you. RotoGrinders does not and will not share your data with other members of the site or with any third-parties.
 
 ## Cookies
 
