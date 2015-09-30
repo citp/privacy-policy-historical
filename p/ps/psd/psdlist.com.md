@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psdlist.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627071952id_/http%3A//www.psdlist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psdlist.com privacy policy that was archived on 2015-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150930142520id_/http%3A//www.psdlist.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Free Download PSD Files Template and Photoshop Graphics Showcase
 
