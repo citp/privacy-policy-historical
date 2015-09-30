@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jagex.com privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514040621id_/http%3A//www.jagex.com/a%3D13/privacy/privacy.ws) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jagex.com privacy policy that was archived on 2015-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150930045238id_/http%3A//www.jagex.com/privacy/privacy.ws) for the most accurate reproduction.*
 
 # Jagex Games Studio - Free Online Browser Games
 
