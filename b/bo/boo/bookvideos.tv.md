@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bookvideos.tv privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323083420id_/http%3A//www.smartshoot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookvideos.tv privacy policy that was archived on 2015-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151001195258id_/http%3A//www.smartshoot.com/privacy-policy) for the most accurate reproduction.*
 
-# Photography & Video Production Professionals For Your Project
+# Start Photography & Video Production projects on SmartShoot
 
 ## Privacy Policy
 
@@ -112,7 +112,7 @@ We will make any legally required disclosures of any breach of the security, con
 
 ### Contacting Us
 
-If you have any questions or comments about our Privacy Policy, please e-mail us at legal@SmartShoot.com. Our office address is 121 2nd Street, Ste. 200, San Francisco, CA. 94105. 
+If you have any questions or comments about our Privacy Policy, please e-mail us at legal@SmartShoot.com. Our office address is 121 2nd Street, Ste. 300, San Francisco, CA. 94105. 
 
 Non-US Users 
 
