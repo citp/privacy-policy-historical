@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theeagleonline.com.ng privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314235017id_/http%3A//theeagleonline.com.ng/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theeagleonline.com.ng privacy policy that was archived on 2015-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151001110748id_/http%3A//theeagleonline.com.ng/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - The Eagle Online - The Nigerian Online Newspaper
+# Privacy policy -
 
 **Privacy Policy**
 
@@ -29,6 +29,3 @@ About Google advertising: What is the DoubleClick DART cookie? The DoubleClick 
 **Contact Information**
 
 Concerns or questions about this privacy policy can be directed to info@theeagleonline.com.ng for further clarification.
-
-  
-
