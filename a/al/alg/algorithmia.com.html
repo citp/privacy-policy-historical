@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the algorithmia.com privacy policy that was archived on 2015-03-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150319211847id_/https%3A//algorithmia.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the algorithmia.com privacy policy that was archived on 2015-10-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151001082359id_/https%3A//algorithmia.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" data-ng-app="algorithmia"><head>
     <meta charset="utf-8">
@@ -10,13 +10,29 @@
     <link href="//fonts.googleapis.com/css?family=Raleway:300,100" rel="stylesheet" type="text/css">
     <link rel="shortcut icon" href="/versioned/images/4851a01dd6485d109c37c7099f0807bd-favicon.png" type="image/png">
     <link rel="apple-touch-icon" href="/versioned/images/ac6d7436009579ec3a04993fb490b823-apple-touch-icon.png">
-    <link rel="stylesheet" media="screen" href="/versioned/stylesheets/1e3d5f44c47810feaa8b958fb983598e-bootstrap3.min.css">
+    <link rel="stylesheet" media="screen" href="/versioned/stylesheets/fef3c2c880d2c7b2654ffc7c58245806-bootstrap3.min.css">
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
     <link rel="stylesheet" media="screen" href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css">
     <link rel="stylesheet" media="screen" href="//cdnjs.cloudflare.com/ajax/libs/jquery.perfect-scrollbar/0.5.8/perfect-scrollbar.min.css">
-    <link rel="stylesheet" media="screen" href="/versioned/stylesheets/a97f4a30a87dfdd0647a705654e1d8f4-algo.min.css">
+    <link rel="stylesheet" media="screen" href="//cdn.jsdelivr.net/jquery.slick/1.5.7/slick.css">
+    <link rel="stylesheet" href="/versioned/stylesheets/0769797cf842a7091b06e4b05dfcd39d-textAngular.css">
+    <link rel="stylesheet" media="screen" href="/versioned/stylesheets/9763cff32498d9edb76afb382aebd6ae-algo.min.css">
+    <link rel="stylesheet" href="/versioned/stylesheets/b730cf14adde2e283aec4d36c700e017-highlight.css">
     <!--[if lt IE 9]><script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+    
+<script type="text/javascript" async="" src="https://widget.intercom.io/widget/c9fj6354"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+  window.Algorithmia = window.Algorithmia || {};
+  window.Algorithmia.demo = window.Algorithmia.demo || {};
+
+  Algorithmia.demo.demo_api_key = "simeyUbLXQ/R8Qga/3ZCRGcr2oR1"
+</script>
+
+    <script type="text/javascript">
+      window.Algorithmia = window.Algorithmia || {};
+      Algorithmia.apiAddress = "/v1/algo";
+    </script>
+    <script src="/versioned/api/v1/clients/js/b5dd345888e7fe372c07a61fa6435bd9-algorithmia-0.2.0.js"></script>
+    <script type="text/javascript">
       var _gaq = _gaq || [];
       _gaq.push(['_setAccount', 'UA-38617973-1']);
       _gaq.push(['_setDomainName', 'algorithmia.com']);
@@ -29,7 +45,7 @@
     </script>
     
   </head>
-  <body><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
+  <body>
     <div class="outer-container">
       
 
@@ -44,6 +60,112 @@
         </button>
         
           <a class="navbar-brand brand" href="/"><img src="/versioned/images/823cda907135e965170d94ac513eba9a-algorithmia-textonly-sm.png" alt="Algorithmia" width="177" height="16"></a>
+          
+            
+<div class="header-search" style="float: left;" ng-controller="SearchControl" ng-init="initAlgolia(&quot;DNIVNO6LGM&quot;,&quot;6a2f894ce58f4be5d6061f3b0f7b9cbf&quot;, [&quot;algorithms-prod&quot;,&quot;bounties-prod&quot;]); searchQuery=&quot;&quot;">
+  <i class="fa fa-search" style="position: absolute;"></i>
+  <form action="/search" method="get">
+   <input class="form-control" name="q" type="search" placeholder="Search..." ng-model="searchQuery" ng-click="searchFocus()" ng-focus="searchFocus()" ng-keydown="searchKeyDown($event)" autocomplete="off">
+   <input type="submit" style="position: absolute; left: -9999px" value="Search">
+  </form>
+  <div class="live-search-results dropdown-menu" ng-show="searchAlgorithms.length > 0 || searchBounties.length > 0" ng-cloak="">
+    <div ng-show="searchAlgorithms.length > 0">
+      <h5>Algorithms</h5>
+      <ul class="text-wordwrap li-no-style filtered-list algo-list compact">
+        <li ng-repeat="item in searchAlgorithms">
+
+
+
+<div ng-cloak="">
+  <div class="pull-right">
+    <ul class="algo-list-float">
+      
+        <li class="algo-author">
+          <img src="" ng-src="/users/{{item.username}}/avatar">
+          <a href="" ng-href="/users/{{item.username}}" ng-bind="item.username"></a>
+        </li>
+      
+      
+        <li class="algo-popularity" ng-show="item.call_count">
+          <i class="fa fa-arrow-circle-o-down"></i>
+          <div style="display:inline-block;">
+            <span class="algo-popularity-val" ng-bind="item.call_count | simpleMagnitude"></span>
+            <span>requests</span>
+          </div>
+        </li>
+      
+    </ul>
+  </div>
+
+  <div>
+    <div class="algo-list-header">
+        <a href="" ng-href="/algorithms/{{item.username}}/{{item.algoname}}">
+          <strong ng-bind="item.algolabel"></strong>
+        </a>
+    </div>
+    
+      
+        <div class="algo-list-body" ng-bind="item.summary | truncate:180"></div>
+      
+    
+  
+  </div>
+  <div class="clearfix"></div>
+</div>
+</li>
+      </ul>
+    </div>
+    <div ng-show="searchBounties.length > 0">
+      <h5>Bounties</h5>
+      <ul class="text-wordwrap li-no-style filtered-list algo-list compact">
+        <li ng-repeat="item in searchBounties">
+
+
+
+
+
+<div ng-cloak="">
+  <div class="pull-right" style="padding-left:8px;">
+    <ul class="algo-list-float">
+      
+      <li ng-show="item.is_active">
+        <i class="fa fa-circle-o text-info"></i>
+        Active
+        </li>
+      <li ng-hide="item.is_active">
+        <i class="fa fa-check text-success"></i>
+        Fulfilled
+      </li>
+      <li>
+        <i class="fa fa-dollar text-primary" title="Bounty payment"></i>
+        <span ng-bind="item.pledge"></span>
+      </li>
+    </ul>
+  </div>
+
+  <div>
+    <div class="algo-list-header">
+      <a href="" ng-href="/bounties/{{item.bounty_id}}">
+        <strong ng-bind="item.bounty_title"></strong>
+      </a>
+    </div>
+
+    
+      <div class="algo-list-body" ng-bind="item.summary | truncate:180"></div>
+    
+
+    
+  </div>
+  <div class="clearfix"></div>
+</div>
+
+</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+          
         
       </div>
       <div class="navbar-collapse collapse">
@@ -52,14 +174,19 @@
             <a href="/algorithms"><span>Algorithms</span></a>
           </li>
           <li>
+            <a href="/use-cases">Use Cases</a>
+          </li>
+          <li>
             <a href="/pricing"><span>Pricing</span></a>
           </li>
           <li>
             <a href="http://blog.algorithmia.com/"><span>Blog</span></a>
           </li>
-          <li>
-            <a href="/signup?invite=OpenMarketplace"><span>Sign Up</span></a>
-          </li>
+          
+            <li>
+              <a href="/signup?invite=OpenMarketplace"><span>Sign Up</span></a>
+            </li>
+          
           
 
 <li class="dropdown">
@@ -251,45 +378,44 @@ Most web browsers are set to accept cookies by default.  If you prefer, you can 
   </div>
     
 
-
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 <script src="//netdna.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
-<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js"></script>
-<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular-sanitize.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular.min.js"></script>
+<script src="//cdn.jsdelivr.net/algoliasearch/3/algoliasearch.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery.perfect-scrollbar/0.5.9/perfect-scrollbar.min.js"></script>
-<script src="/versioned/javascripts/03b4b9b33e1cbf3d9bdae3a8471756a2-textAngular.js"></script>
+<script type="text/javascript" src="/versioned/javascripts/61f5764ba8fec606cbf5b18accdde0f2-highlight.pack.js"></script>
+
+<script src="/versioned/javascripts/textAngular/04d6edc1b60b4b707a2ccb9d119b9577-textAngular-rangy.min.js"></script>
+<script src="/versioned/javascripts/textAngular/544ea609f0cfa9aa27c701be9a9b2393-textAngular-sanitize.min.js"></script>
+
+<script src="/versioned/javascripts/textAngular/82d373a665cf3654c99a636330ec3281-textAngular.min.js"></script>
+
 <script src="/versioned/javascripts/09d3531de7239b6783c744f5150a7721-ui-ace.js"></script>
 <script src="/versioned/javascripts/ui-bootstrap/f702a400b90c081520bf98861fd8ec8a-ui-bootstrap-tpls-0.10.0.min.js"></script>
 <script src="/versioned/javascripts/717b7c29b8798ec1bd897f04f0766c77-jquery.console.js"></script>
-<script src="/versioned/javascripts/679a7941cf162ca50ad03d654bacc422-jqconsole.js"></script>
-<script src="/versioned/javascripts/ad4c5f2f8c203133e452dbaddb65adbe-app.js"></script>
+<script src="/versioned/javascripts/08d56befde01cbf7e18022f3b716dfa4-jqconsole.js"></script>
+<script src="/versioned/javascripts/619774aadb221af9943de03c76c97e6c-json-compact-pretty.js"></script>
+<script src="/versioned/javascripts/5a4d5863152c344e6811bd1e67e9f385-base64.js"></script>
+<script src="/versioned/javascripts/d5acd170444d371bf0cfe5863d19b568-app.js"></script>
 <!--[if lte IE 9]>
 <script src="/versioned/javascripts/1431c043437840040f4edcccd0c51a25-ie9.js"></script>
 <![endif]-->
-
-<script src="/assets/javascripts/algorithmia.js"></script>
+<script>
+  $(document).ready(function() {
+    //Init code highlilghting
+    hljs.initHighlightingOnLoad();
+  });
+</script>
  
-<!-- begin olark code -->
-<script data-cfasync="false" type="text/javascript">/*<![CDATA[*/window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){
-f[z]=function(){
-(a.s=a.s||[]).push(arguments)};var a=f[z]._={
-},q=c.methods.length;while(q--){(function(n){f[z][n]=function(){
-f[z]("call",n,arguments)}})(c.methods[q])}a.l=c.loader;a.i=nt;a.p={
-0:+new Date};a.P=function(u){
-a.p[u]=new Date-a.p[0]};function s(){
-a.P(r);f[z](r)}f.addEventListener?f.addEventListener(r,s,false):f.attachEvent("on"+r,s);var ld=function(){function p(hd){
-hd="head";return["<",hd,"></",hd,"><",i,' onl' + 'oad="var d=',g,";d.getElementsByTagName('head')[0].",j,"(d.",h,"('script')).",k,"='",l,"//",a.l,"'",'"',"></",i,">"].join("")}var i="body",m=d[i];if(!m){
-return setTimeout(ld,100)}a.P(1);var j="appendChild",h="createElement",k="src",n=d[h]("div"),v=n[j](d[h](z)),b=d[h]("iframe"),g="document",e="domain",o;n.style.display="none";m.insertBefore(n,m.firstChild).id=z;b.frameBorder="0";b.id=z+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){
-b.src="javascript:false"}b.allowTransparency="true";v[j](b);try{
-b.contentWindow[g].open()}catch(w){
-c[e]=d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{
-var t=b.contentWindow[g];t.write(p());t.close()}catch(x){
-b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({
-loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});
-/* custom configuration goes here (www.olark.com/documentation) */
-olark.identify('9053-788-10-2530');/*]]>*/</script><noscript><a href="https://www.olark.com/site/9053-788-10-2530/contact" title="Contact us" target="_blank">Questions? Feedback?</a> powered by <a href="http://www.olark.com?welcome" title="Olark live chat software">Olark live chat software</a></noscript>
-<!-- end olark code -->
+
+<script>
+  window.intercomSettings = {
+
+  };
+</script>
+<script>(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/c9fj6354';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()</script>
+
   
   
 
