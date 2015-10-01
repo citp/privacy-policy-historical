@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momsonlinerecipes.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614072306id_/http%3A//www.momsonlinerecipes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momsonlinerecipes.com privacy policy that was archived on 2015-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151001230929id_/http%3A//www.momsonlinerecipes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mom's Recipes
 
@@ -48,3 +48,5 @@ You may choose to restrict the collection or use of your personal information in
 
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please contact us.If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
