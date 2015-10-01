@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the discovermodus.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324220946id_/http%3A//discovermodus.com/contact/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discovermodus.com privacy policy that was archived on 2015-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151001020724id_/http%3A//discovermodus.com/contact/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Modus
+# Privacy Policy | Modus
 
 ### At MODUS, we respect and are committed to protecting your privacy. This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy.
 
