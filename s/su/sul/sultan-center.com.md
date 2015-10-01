@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sultan-center.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504060906id_/http%3A//www.sultan-center.com/default.aspx%3FpageId%3D11) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sultan-center.com privacy policy that was archived on 2015-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151001190446id_/http%3A//www.sultan-center.com/default.aspx%3FpageId%3D11) for the most accurate reproduction.*
 
 # Privacy Policy
 
