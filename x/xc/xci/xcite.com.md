@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xcite.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628182909id_/http%3A//www.xcite.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xcite.com privacy policy that was archived on 2015-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151001162556id_/http%3A//www.xcite.com/privacy) for the most accurate reproduction.*
 
 # Xcite by Alghanim Electronics | Xcite's Privacy Policy
 
@@ -111,4 +111,4 @@ If you require any further information on this service or wish to have your revi
 
 #### Contact Us
 
-If you have any comments or queries in connection with our Terms and/or Privacy Policy, you can contact us by sending an email on [info@xcite.com](mailto:info@xcite.com) or call our customer service at 180-3535. Address: Yusuf Ahmad Al Ghanim, Shuwaikh Industrial Area # 3, Road 55, Opposite Keifan Telecom. PO Box 223, Safat 13003, Kuwait
+If you have any comments or queries in connection with our Terms and/or Privacy Policy, you can contact us by sending an email on [info@xcite.com](https://web.archive.org/cdn-cgi/l/email-protection#30595e565f7048535944551e535f5d) or call our customer service at 180-3535. Address: Yusuf Ahmad Al Ghanim, Shuwaikh Industrial Area # 3, Road 55, Opposite Keifan Telecom. PO Box 223, Safat 13003, Kuwait
