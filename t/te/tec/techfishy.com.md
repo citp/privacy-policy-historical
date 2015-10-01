@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techfishy.com privacy policy that was archived on 2014-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141210171643id_/http%3A//www.techfishy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techfishy.com privacy policy that was archived on 2015-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151001191732id_/http%3A//www.techfishy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Tech FishyTech Fishy
+# Privacy Policy - Tech Fishy
 
 We collect information from you when you subscribe to our newsletter.
 
