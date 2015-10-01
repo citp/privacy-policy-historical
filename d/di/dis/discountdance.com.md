@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discountdance.com privacy policy that was archived on 2015-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150331014940id_/http%3A//discountdance.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountdance.com privacy policy that was archived on 2015-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151001171614id_/https%3A//www.discountdance.com/privacy.php) for the most accurate reproduction.*
 
 # Discount Dance Supply - Privacy Statement
 
