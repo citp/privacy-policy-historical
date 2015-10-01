@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the floraqueen.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619161733id_/http%3A//www.floraqueen.com/sending-flowers/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floraqueen.com privacy policy that was archived on 2015-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151002014209id_/http%3A//www.floraqueen.com/sending-flowers/privacy) for the most accurate reproduction.*
 
 # Privacy and Legal - Flower deliveries
 
@@ -87,18 +87,18 @@ Occasionally, FloraQueen may also use the information we collect to notify you a
 
 Smiles Guaranteed
 
->  **Shinjini (India)**
+>  **Zoran (Australia)**
 > 
-> Thanks a ton for the service you provided. :)
+> Thank you thank you thank you. I Don't have words to thank you how everything went perfect. even with my late change for delivery time you have made me and the person I love so much very happy. Please pass my thanks to your team as well as to florist in Croatia. Thank you all.
 
-[ ](https://web.archive.org/sending-flowers/cheery-morning-bouquet)
+[ ](https://web.archive.org/sending-flowers/24-red-roses)
 
 Rated 4.2 out of 5 by 6215 reviewers 
 
-  * [Neighbour Day](https://web.archive.org/international-flower-delivery/neighbour-day "Neighbour Day")
-  * [Grandparents Day](https://web.archive.org/international-flower-delivery/grandparents-day "Grandparents Day")
-  * [World Peace Day](https://web.archive.org/international-flower-delivery/world-peace-day "World Peace Day")
-  * [Rosh Hashanah Flowers](https://web.archive.org/international-flower-delivery/rosh-hashanah "Rosh Hashanah Flowers")
+  * [Halloween Flowers](https://web.archive.org/international-flower-delivery/halloween "Halloween Flowers") 2015-10-31T00:01 2015-10-31T23:59
+  * [Neighbour Day](https://web.archive.org/international-flower-delivery/neighbour-day "Neighbour Day") 2015-11-15T00:01 2015-11-28T23:59
+  * [Thanksgiving International flowers](https://web.archive.org/international-flower-delivery/thanksgiving "Thanksgiving International flowers") 2015-11-27T00:01 2015-11-27T23:59
+  * [International Christmas Flower Delivery](https://web.archive.org/international-flower-delivery/christmas "International Christmas Flower Delivery") 2015-12-24T00:01 2015-12-26T23:59
 
 
 
@@ -114,7 +114,7 @@ Premium Flowers and Gifts
 
 A new opportunity with a wide range of benefits and new orders from new clients
 
-  * [Florists](http://www.floraqueen.com/sending-flowers/florists)
+  * [Florists: collaborate with FloraQueen](http://www.floraqueen.com/florist-collaboration)
 
 Start receiving orders now
 
