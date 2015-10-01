@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worksforweb.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630091722id_/http%3A//www.worksforweb.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worksforweb.com privacy policy that was archived on 2015-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151001230700id_/http%3A//www.worksforweb.com/company/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - WorksForWeb Classified Software
+# Privacy Policy
 
 ### What information do we collect?
 
@@ -8,7 +8,7 @@ We collect information from you when you register on our site, place an order, s
 
 When ordering, you will be asked to enter your name, e-mail address, phone number. Any credit card information during the ordering process is supplied directly to the third party payment gateways which have separate privacy policies.
 
-We also collect non-personal aggregate information on the URL you came from, your landing page, and the number of visits of our website.
+We also collect non-personal aggregate information on the URL you came from, your landing page, and the number of visits of our website using Google Analytics functionality.
 
 ### What do we use your information for?
 
@@ -53,9 +53,9 @@ By using our site, you consent to our online privacy policy.
 
 ### Changes to our Privacy Policy
 
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on 3 September 2010
+This policy was last modified on 4 June 2015
 
 ### Contacting Us
 
