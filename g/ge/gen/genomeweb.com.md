@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genomeweb.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317103039id_/https%3A//www.genomeweb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genomeweb.com privacy policy that was archived on 2015-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151001223557id_/https%3A//www.genomeweb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GenomeWeb
 
