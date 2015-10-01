@@ -1,45 +1,94 @@
-> *The following text is extracted and transformed from the onlinesports.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316234852id_/http%3A//www.onlinesports.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinesports.com privacy policy that was archived on 2015-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151001072854id_/http%3A//www.onlinesports.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
-# Privacy - OnlineSports.com
+# Privacy Policy - OnlineSports.com
 
-**Your Privacy**  
-Your privacy is a very sensitive subject for us and we take it very seriously.
+Please replace this text with you Privacy Policy. Please add any additional cookies your website uses below (e.g., Google Analytics) 
 
-We may share your personally identifiable information, including your name, address, email address, as well as a record of any transactions you conduct on our website or offline with us with a third-party advertising partner and its service providers in order to deliver to you banner advertisements and other advertising tailored to your interests when you visit certain websites. Our advertising partner will make the data we provide it anonymous.
+This privacy policy sets out how OnlineSports uses and protects any information that you give OnlineSports when you use this website. OnlineSports is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. OnlineSports may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
 
-We also have partners that assist us with fulfillment and shipping in certain categories, and in those cases those partners receive a name and shipping address so that they can process and ship orders properly.
+## What we collect
 
-Also, OnlineSports.com may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personally identifying information. OnlineSports.com may release account information when we believe, in good faith, that such release is reasonably necessary to (i) comply with law, (ii) enforce or apply the terms of any of our user agreements or (iii) protect the rights, property or safety of OnlineSports.com, our users, or others.
+We may collect the following information:
 
-**What Type Of Information Is Kept?**
-
-**Via Newsletter Registration:**  
-If you register on the site for the OnlineSports.com newsletter, we ask that you provide your name and email address. Additionally, we ask some questions that help us better understand our customers in general such as what sports people are interested in, who they buy for, and how they heard about OnlineSports.com.
-
-**When Ordering:**  
-The only information we require to process an order is the following:
-
-  * Your name 
-  * Your credit card number 
-  * The expiration date 
-  * The billing address of the credit card (for security purposes) 
-  * A shipping address (if different from billing address) 
-  * And your phone number so that we can contact with any questions concerning your order. 
+  * name
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
 
 
-**Information We Won't Ask For**  
-OnlineSports.com does not request sensitive information such as a social security number, a Personal Identification Number (PIN) from a bank or credit card, or a driver's license number.
+For the exhaustive list of cookies we collect see the List of cookies we collect section. 
 
-**What About "Cookies"?**  
-"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Our cookies do not contain any personally identifying information, but they do enable us to store items in your shopping cart. It also allows us to track which sites referred you to OnlineSports.com. If you still feel uncomfortable about cookies, you are always welcome to order via our Customer Service number at (800) 856-2638.
+## What we do with the information we gather
 
-**Changes to our Policy**  
-Our Policy is intended to provide you with the safest and most secure shopping experience possible.
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
 
-Since offerings and technologies change, we reserve the right to change, modify, add or remove portions of our Privacy Policy at any time without prior notice. Please periodically review our Privacy Policy for changes.
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests. 
 
-If you have any questions, or would like further clarification, please contact our Customer Service department at privacy@onlinesports.com.
 
-**Your Consent**  
-By using the OnlineSports.com web site, you consent to the collection and use of this information by OnlineSports.com. Please check this site regularly for updates or changes.
+
+## Security
+
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
+
+## How we use cookies
+
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
+
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
+
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. 
+
+## Links to other websites
+
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
+
+## Controlling your personal information
+
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes 
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at orders@onlinesports.com 
+
+
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
+
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to . 
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. 
+
+## List of cookies we collect
+
+The table below lists the cookies we collect and what information they store.
+
+COOKIE name | COOKIE Description  
+---|---  
+CART | The association with your shopping cart.  
+CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
+COMPARE | The items that you have in the Compare Products list.  
+CURRENCY | Your preferred currency  
+CUSTOMER | An encrypted version of your customer id with the store.  
+CUSTOMER_AUTH | An indicator if you are currently logged into the store.  
+CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
+CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
+EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
+FRONTEND | You sesssion ID on the server.  
+GUEST-VIEW | Allows guests to edit their orders.  
+LAST_CATEGORY | The last category you visited.  
+LAST_PRODUCT | The most recent product you have viewed.  
+NEWMESSAGE | Indicates whether a new message has been received.  
+NO_CACHE | Indicates whether it is allowed to use cache.  
+PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history if you have asked the site.  
+POLL | The ID of any polls you have recently voted in.  
+POLLN | Information on what polls you have voted on.  
+RECENTLYCOMPARED | The items that you have recently compared.   
+STF | Information on products you have emailed to friends.  
+STORE | The store view or language you have selected.  
+USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
+VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
+WISHLIST | An encrypted list of products added to your Wishlist.  
+WISHLIST_CNT | The number of items in your Wishlist.
