@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesuburbanmom.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623005249id_/http%3A//www.thesuburbanmom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesuburbanmom.com privacy policy that was archived on 2015-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151001030705id_/http%3A//www.thesuburbanmom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TheSuburbanMom
 
