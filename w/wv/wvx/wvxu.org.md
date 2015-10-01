@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wvxu.org privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009101916id_/http%3A//wvxu.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wvxu.org privacy policy that was archived on 2015-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151001231711id_/http%3A//wvxu.org/privacy-policy-and-terms-use) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use | WVXU
 
@@ -114,9 +114,11 @@ The contents of the CPR Digital Services are protected by U.S. and international
 
 You may not reproduce, distribute, republish, upload, transmit, display, prepare derivative works of, publicly perform, sell, transfer, assign, license or use for commercial purposes any copyrighted material on the CPR Digital Services without the prior written consent of CPR, except as provided below. CPR will not grant permission for use of its copyrighted material to any political parties or candidates for political office. All rights not expressly granted in these Terms of Use are reserved to CPR.
 
-You may copy, download one copy on a single computer, and print a limited amount of content, for your **personal, non-commercial use only** , provided that (a) you include without modification all copyright and other proprietary notices contained in the content, (b) you do not modify the content, (c) you do not use the content in a manner that suggests CPR promotes or endorses your, or any third party's, causes, ideas, web sites, products or services, and (d) you do not use the content in any way that is unlawful or harmful to any other person or entity. In addition, you may use widgets and tools on the NPR Services that allow selected User Materials to appear on your personal, noncommercial web site, weblog or other application, subject to the conditions in the preceding sentence.
+Cincinnati Public Radio will share links to its online news stories and multimedia content when asked for permission, but reserves the right to decline based on an evaluation of the request. It is Cincinnati Public Radio policy to not share or sell photographs / video to any non-partner organization. CPR will consider exceptions to this policy for non-commercial usage on a case by case basis.
 
-No quotes, photographs, or other content from any material on the CPR Digital Services may be used in any media without attribution to Cincinnati Public Radio, WVXU, WGUC or WMUB.
+Individuals may copy, download one copy on a single computer, and print a limited amount of content, for your personal, non-commercial use only, provided that (a) you include without modification all copyright and other proprietary notices contained in the content, (b) you do not modify the content, (c) you do not use the content in a manner that suggests CPR promotes or endorses your, or any third party's, causes, ideas, web sites, products or services, and (d) you do not use the content in any way that is unlawful or harmful to any other person or entity. In addition, you may use widgets and tools on the NPR Services that allow selected User Materials to appear on your personal, noncommercial web site, weblog or other application, subject to the conditions in the preceding sentence.
+
+No quotes, photographs, or other content from any material on the CPR Digital Services may be used in any media (commercial or  non-commercial) without prior permission and attribution to Cincinnati Public Radio, WVXU, WGUC or WMUB.
 
 **User Materials**
 
