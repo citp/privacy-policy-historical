@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dfw.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627143320id_/http%3A//star-telegram.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dfw.com privacy policy that was archived on 2015-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151001044046id_/http%3A//star-telegram.com/privacy-policy) for the most accurate reproduction.*
 
-# Find Star-Telegram newspaper and star-telegram.com's Privacy Policy. The Star Telegram
+# Privacy Policy | star-telegram.com & The Star-Telegram
 
 **Effective Date: March 2014**
 
