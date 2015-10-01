@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smallstarter.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630134949id_/http%3A//www.smallstarter.com/component/content/article/2-uncategorised/6-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallstarter.com privacy policy that was archived on 2015-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151001073934id_/http%3A//www.smallstarter.com/component/content/article/2-uncategorised/6-privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | smallstarter.com
 
