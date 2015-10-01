@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the valuemytweets.com privacy policy that was archived on 2014-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140920220309id_/http%3A//valuemytweets.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuemytweets.com privacy policy that was archived on 2015-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151001042429id_/http%3A//twitvaluesjeet.com/privacy.php) for the most accurate reproduction.*
 
-# What is your Twitter account worth? | this cool app
+# What is your Twitter Buzz worth? | Privacy Policy
 
   
 
@@ -22,6 +22,6 @@ Cookies are small digital signature files that are stored by your web browser th
 **Google Ads**  
 Google, as a third party vendor, uses cookies to serve ads. Google's use of the DART cookie enables it to serve ads to visitors based on their visit to sites they visit on the Internet. Website visitors may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
 
-If you have any questions please feel free to [Contact Us](https://web.archive.org/web/20140920220309id_/http%3A//valuemytweets.com/contact.php).
+If you have any questions please feel free to [Contact Us](https://web.archive.org/helpdesk).
 
-[Home](https://web.archive.org/web/20140920220309id_/http%3A//valuemytweets.com/index.php) \- [About](https://web.archive.org/web/20140920220309id_/http%3A//valuemytweets.com/about.php) \- [Contact](https://web.archive.org/web/20140920220309id_/http%3A//valuemytweets.com/contact/index.php) \- [FAQ](https://web.archive.org/web/20140920220309id_/http%3A//valuemytweets.com/faq.php) \- [Privacy Policy](https://web.archive.org/web/20140920220309id_/http%3A//valuemytweets.com/privacy.php) \- [Remove my account](https://web.archive.org/web/20140920220309id_/http%3A//valuemytweets.com/remove.php)
+[Home](https://web.archive.org/web/20151001042429id_/http%3A//twitvaluesjeet.com/index.php) \- [About](https://web.archive.org/web/20151001042429id_/http%3A//twitvaluesjeet.com/about.php) \- [Contact](https://web.archive.org/helpdesk) \- [FAQ](https://web.archive.org/web/20151001042429id_/http%3A//twitvaluesjeet.com/faq.php) \- [Privacy Policy](https://web.archive.org/web/20151001042429id_/http%3A//twitvaluesjeet.com/privacy.php) \- [Remove my account](https://web.archive.org/web/20151001042429id_/http%3A//twitvaluesjeet.com/remove.php)
