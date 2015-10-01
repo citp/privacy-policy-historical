@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jobs-boeing.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324095832id_/http%3A//www.boeing.com/boeing/companyoffices/aboutus/privacy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs-boeing.com privacy policy that was archived on 2015-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151001113452id_/http%3A//www.boeing.com/boeing/companyoffices/aboutus/privacy.page) for the most accurate reproduction.*
 
-# Boeing: privacy
+# Boeing: Privacy and Cookie Policy
 
 Thank you for reviewing the Privacy Policy for Boeing.com, your web portal into The Boeing Company ("Boeing"). Boeing is sensitive to the issue of confidentiality in online dealings and is committed to protecting individual privacy. This Privacy Policy is intended to inform users about the general approach Boeing uses in collecting, using and disseminating user information via Boeing.com.
 
