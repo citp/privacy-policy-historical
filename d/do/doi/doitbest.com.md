@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the doitbest.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322071836id_/http%3A//www.doitbest.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doitbest.com privacy policy that was archived on 2015-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151001204800id_/https%3A//www.doitbest.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Do It Best
+# Privacy Policy - Do it Best
 
 By using or accessing our website you signify your acknowledgment and assent to the Privacy Policy set forth below.  If you do not agree to this policy, please do not use this website. Do it Best can revise this policy at any time by updating this posting, and your use after such change signifies your acceptance of the changed terms.  Please check this policy periodically for changes.
 
