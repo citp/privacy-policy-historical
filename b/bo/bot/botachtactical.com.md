@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the botachtactical.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609235100id_/http%3A//www.botach.com/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the botachtactical.com privacy policy that was archived on 2015-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151001164506id_/https%3A//www.botach.com/policies) for the most accurate reproduction.*
 
 # Policies
 
 **Privacy Policy**
 
-This privacy notice discloses the privacy practices for ([http://www.botach.com](http://www.botach.com/)). This privacy notice applies solely to information collected by this web site. It will notify you of the following: 
+This privacy notice discloses the privacy practices for ([https://www.botach.com](https://www.botach.com/)). This privacy notice applies solely to information collected by this web site. It will notify you of the following: 
 
 1.     What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared. 
 
@@ -60,6 +60,6 @@ Funds take anywhere from 24-72 hours to be processed back into your account. You
 
 Yes, we do ship outside of the U.S. However, the methods of payment for international orders are different than those nationwide. We do adhere to all ITAR rules and regulations for the exportation of restricted items.
 
-[Click Here For Shipping Restrictions](http://www.botach.com/pages/customer-service/restrictions.html)
+[Click Here For Shipping Restrictions](https://www.botach.com/pages/customer-service/restrictions.html)
 
 **Please note:** Botach reserves the right to correct critical errors on our website, as we are constantly updating it. 
