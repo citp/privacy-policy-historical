@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the carmall.com privacy policy that was archived on 2015-03-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150317220210id_/http%3A//www.sgcarmart.com/main/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the carmall.com privacy policy that was archived on 2015-10-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151002123854id_/http%3A//www.sgcarmart.com/main/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy Statement</title>
@@ -16,9 +16,9 @@
 <meta http-equiv="expires" content="-1">
 <meta http-equiv="pragma" content="no-cache">
 <link rel="SHORTCUT ICON" href="http://www.sgcarmart.com/favicon.ico">
-<link type="text/css" rel="stylesheet" href="/css/global.css">
+<link type="text/css" rel="stylesheet" href="/css/global.css?2015042101">
 <link type="text/css" rel="stylesheet" href="/css/colorbox.css">
-<script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" async="" src="https://web.archive.org/web/20130306085513/https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/common.fun.js"></script>
+<script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="/js/common.fun.js?2015042101"></script>
 <script type="text/javascript" src="/js/jquery-1.4.2.min.js"></script>
 <script type="text/javascript" src="/js/jquery.colorbox-min.js"></script>
 <script type="text/javascript" src="/js/threedot.js"></script>
@@ -123,31 +123,14 @@ jQuery(document).ready(function(){
 
 function callAutoCom(s){
 	jQuery("#topheaderMOD").flushCache();
-	if(s=='motordirectory'){
-		jQuery("#topheaderMOD").val('Company name or product');
-		jQuery("#topheaderMOD").attr('onFocus', "clearDefaultText(this, 'font_gray_light', 'font_black', 'Company name or product')");
-		jQuery("#topheaderMOD").attr('class', "font_gray_light");
-	}
-	else if(s=='accessories'){
-		jQuery("#topheaderMOD").val('Product Type / Brand');
-		jQuery("#topheaderMOD").attr('onFocus', "clearDefaultText(this, 'font_gray_light', 'font_black', 'Product Type / Brand')");
-		jQuery("#topheaderMOD").attr('class', "font_gray_light");
-	}
-	else if(s=='article'){
-		jQuery("#topheaderMOD").val('Keyword');
-		jQuery("#topheaderMOD").attr('onFocus', "clearDefaultText(this, 'font_gray_light', 'font_black', 'Keyword')");
-		jQuery("#topheaderMOD").attr('class', "font_gray_light");
-	}
-	else if(s=='forum'){
-		jQuery('#topheaderMOD').val('Keywords');
-		jQuery("#topheaderMOD").attr('onFocus', "clearDefaultText(this, 'font_gray_light', 'font_black', 'Keywords')");
-		jQuery("#topheaderMOD").attr('class', "font_gray_light");
-	}
-	else{
-		jQuery("#topheaderMOD").val('Car Make or Model');
-		jQuery("#topheaderMOD").attr('onFocus', "clearDefaultText(this, 'font_gray_light', 'font_black', 'Car Make or Model')");
-		jQuery("#topheaderMOD").attr('class', "font_gray_light");
-	}
+	if(s=='motordirectory')
+		jQuery("#topheaderMOD").attr('placeholder', 'Company name or product');
+	else if(s=='accessories')
+		jQuery("#topheaderMOD").attr('placeholder', 'Product Type / Brand');
+	else if(s=='article')
+		jQuery("#topheaderMOD").attr('placeholder', 'Keyword');
+	else
+		jQuery("#topheaderMOD").attr('placeholder', 'Car Make or Model');
 }
 
 function changeInputWidth(s){
@@ -177,15 +160,19 @@ function MCFSetCookie(cname,cvalue){
 } 
 -->
 </script>
+<style type="text/css">
+.downappslink:link, .downappslink:hover, .downappslink:visited {color:#000000;font-size:10px;line-height:10px;}
+</style>
 <div id="topheader">
 	    <div id="logo" class="floatleft">
     	    		<a href="/main/index.php" onclick="return xt_click(this, 'C', '1', 'sgCarmart_Homepage', 'N');"><img src="http://i.i-sgcm.com/all/topheader/sgcarmart_logo_242x34.gif"></a>
             </div>
     <div class="floatright" style="padding-top:7px;position:relative;">
+        
         <ul class="links floatleft">
-            <li><a href="http://www.mycarforum.com/" target="_blank" onclick="return xt_click(this, 'C', '13', 'Forum_Landing', 'N');">MyCarForum</a></li>
-            <li class="nosplitter"><a href="http://www.mycarforum.com/index.php?app=sgcarstore" target="_blank">Marketplace</a></li>
-        </ul>
+        	            <li class="nosplitter" style="position:relative;"><a href="http://www.sgcarmart.com/ads/sgcmapp/" target="_blank" style="position:absolute;top:-8px;left:-137px"><img src="http://i.i-sgcm.com/all/topheader/sgcarmartapps.gif?20151002" width="51" height="35" alt="SgCarMart App Download"></a></li>
+            <li class="nosplitter" style="position:relative;"><a href="http://www.sgcarmart.com/ads/sgcmapp/" target="_blank" class="downappslink" style="color:#000000;position:absolute;top:-4px;left:-88px;">SGCARMART<br><font class="font_red">APP</font> DOWNLOAD</a></li>
+                    </ul>
         <div class="search_sections floatleft">
             <form action="/main/searchlanding.php" method="get" name="topsearch" onsubmit="CommmonTabSearch();return false;">
             <table cellspacing="0" cellpadding="0">
@@ -198,7 +185,7 @@ function MCFSetCookie(cname,cvalue){
                         </div>
                         <div class="nav_searchfield_width" style="padding: 0 2px 0 45px;">
                             <div id="nav_iss_attach" style="height:20px;padding:0 0 0 5px;background:#FFFFFF;">
-                                <input type="text" name="MOD" maxlength="100" id="topheaderMOD" value="Car Make or Model" class="font_gray_light ac_input" onfocus="clearDefaultText(this, 'font_gray_light', 'font_black', 'Car Make or Model');" autocomplete="off">
+                                <input type="text" name="MOD" maxlength="100" id="topheaderMOD" placeholder="Car Make or Model" autocomplete="off" class="ac_input">
                             </div>
                         </div>
                         <a id="search_btn" href="javascript:;" onclick="CommmonTabSearch();return false;">Search</a>
@@ -255,7 +242,7 @@ function MCFSetCookie(cname,cvalue){
             <p class="greydashsplit"><!----></p>
                 <div id="functions">
             <div class="tools floatleft">
-                <a href="http://www.sgcarmart.com/phpads/www/delivery/ck.php?oaparams=2__bannerid=972__zoneid=95__cb=5109305b71__oadest=http%3A%2F%2Fwww.mycarforum.com%2Fblog%2F12-myautoblog%2F" target="_blank"><img src="http://a.i-sgcm.com/bd05ba37d79f06e22a9d820cda538c56.jpg" width="728" height="90" alt="" title="" border="0"></a><div id="beacon_5109305b71" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.sgcarmart.com/phpads/www/delivery/lg.php?bannerid=972&amp;campaignid=352&amp;zoneid=95&amp;loc=http%3A%2F%2Fwww.sgcarmart.com%2Fmain%2Fprivacy.php&amp;referer=http%3A%2F%2Fwww.sgcarmart.com%2Ftools_tips%2Fmens_interest.php%3FCAT%3D8&amp;cb=5109305b71" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div>            </div>
+                <a href="http://www.sgcarmart.com/phpads/www/delivery/ck.php?oaparams=2__bannerid=972__zoneid=95__cb=14c19bda74__oadest=http%3A%2F%2Fwww.mycarforum.com%2Fblog%2F12-myautoblog%2F" target="_blank"><img src="http://a.i-sgcm.com/41dd183ed554ec745839cf906c42bce7.jpg" width="728" height="90" alt="" title="" border="0"></a><div id="beacon_14c19bda74" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.sgcarmart.com/phpads/www/delivery/lg.php?bannerid=972&amp;campaignid=352&amp;zoneid=95&amp;loc=http%3A%2F%2Fwww.sgcarmart.com%2Fmain%2Fprivacy.php&amp;referer=http%3A%2F%2Fwww.sgcarmart.com%2Fnews%2Freview.php%3FAID%3D136&amp;cb=14c19bda74" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div>            </div>
                         <div id="login" class="floatleft">
                 <form name="member_login_form" action="/member/process.php" method="POST">
                 <table cellpadding="0" cellspacing="0" width="100%" border="0">
@@ -273,7 +260,7 @@ function MCFSetCookie(cname,cvalue){
                 	<td>
                     	<table cellpadding="0" cellspacing="0" border="0">
                         <tbody><tr>
-                    		<td><input type="password" name="pass" value="password" class="font_gray_light show_popup" id="pw" style="width:138px;height:13px;border-right:none" onfocus="clearDefaultText(this, 'font_gray_light', 'font_black', 'password')"></td>
+                    		<td><input type="password" name="pass" placeholder="password" class="show_popup" id="pw" style="width:138px;height:13px;border-right:none"></td>
                 			<td><input class="logindef" type="submit" value="" id="login_btn"></td>
                         </tr>
                         </tbody></table>
@@ -296,7 +283,10 @@ function MCFSetCookie(cname,cvalue){
                 	<td rowspan="2" width="88"><a onclick="javascript:;" href="/member/member_facebook.php?referer=http%3A%2F%2Fwww.sgcarmart.com%2Fmain%2Fprivacy.php"><img alt="Log in with Facebook" src="http://i.i-sgcm.com/all/topheader/facebook_connect.png"></a></td>
                     <td class="font_10">
                     	<span class="font_11" style="line-height:13px;">»</span>&nbsp;<a href="http://www.mycarforum.com/index.php?app=core&amp;module=global&amp;section=register" class="show_popup" style="line-height:13px;" onmouseover="jQuery(this).parentsUntil('table').find('.Bottom_Popup1').css('top','-7px');" target="_blank">Sign Up New Account</a>
-                    	                    </td>
+                    	                        <div style="position:relative;">
+                        	<img src="http://i.i-sgcm.com/all/topheader/new_signup_83x78.gif" alt="Sign Up Gift" name="MCFgift" border="0" usemap="#MapSignup" id="MCFgift" style="position:absolute;top:-70px;left:-80px;">
+                        </div>
+                                            </td>
                 </tr>
                 <tr>
                     <td class="font_10"><span class="font_11" style="line-height:13px;">»</span>&nbsp;<a href="http://www.mycarforum.com/index.php?app=core&amp;module=global&amp;section=lostpass" class="show_popup" style="line-height:13px;" onmouseover="jQuery(this).parentsUntil('table').find('.Bottom_Popup1').css('top','7px');" target="_blank">Forgot Password</a></td>
@@ -515,7 +505,7 @@ function MCFSetCookie(cname,cvalue){
     if (document.context) document.write ("&context=" + escape(document.context));
     if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
     document.write ("'><\/scr"+"ipt>");
-    //]]>--></script><script type="text/javascript" src="https://www.sgcarmart.com/phpads/www/delivery/ajs.php?zoneid=205&amp;cb=20013811778&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20150317220210id_/http%253A//www.sgcarmart.com/main/privacy.php"></script><noscript><a href='http://www.sgcarmart.com/phpads/www/delivery/ck.php?n=e3dkk6f&amp;cb=1755606761' target='_blank'><img src='http://www.sgcarmart.com/phpads/www/delivery/avw.php?zoneid=205&amp;cb=1755606761&amp;n=e3dkk6f' border='0' alt='' /></a></noscript>
+    //]]>--></script><script type="text/javascript" src="https://www.sgcarmart.com/phpads/www/delivery/ajs.php?zoneid=205&amp;cb=48442909488&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20151002123854id_/http%253A//www.sgcarmart.com/main/privacy.php"></script><noscript><a href='http://www.sgcarmart.com/phpads/www/delivery/ck.php?n=kc14qtr&amp;cb=1838508628' target='_blank'><img src='http://www.sgcarmart.com/phpads/www/delivery/avw.php?zoneid=205&amp;cb=1838508628&amp;n=kc14qtr' border='0' alt='' /></a></noscript>
 	 </div>
 </div>
 
