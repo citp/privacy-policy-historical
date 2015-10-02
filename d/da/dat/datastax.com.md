@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the datastax.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614031318id_/http%3A//www.datastax.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datastax.com privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003001055id_/http%3A//www.datastax.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy : DataStax
+# Privacy Policy | DataStax
 
 ### EFFECTIVE: DECEMBER 26, 2012
 
