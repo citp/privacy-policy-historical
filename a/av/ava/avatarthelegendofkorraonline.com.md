@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the avatarthelegendofkorraonline.com privacy policy that was archived on 2015-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150415041526id_/http%3A//avatarthelegendofkorraonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avatarthelegendofkorraonline.com privacy policy that was archived on 2015-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151002023934id_/http%3A//avatarthelegendofkorraonline.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Legend of Korra - Season 3 Release Date, Trailer & News
+# Privacy Policy
 
 **What information do we collect?**
 
@@ -71,8 +71,7 @@ This policy was last modified on 08/21/12
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://avatarthelegendofkorraonline.com/
-
+http://avatarthelegendofkorraonline.com/  
 3720 Running Springs Rd  
 Ellicott City, Maryland 21042  
 United States  
