@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techotopia.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506020037id_/http%3A//techotopia.com/index.php/Techotopia%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techotopia.com privacy policy that was archived on 2015-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151002115408id_/http%3A//www.techotopia.com/index.php/Techotopia%3APrivacy_policy) for the most accurate reproduction.*
 
 # Techotopia:Privacy policy - Techotopia
 
