@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rimmkaufman.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315022357id_/http%3A//www.rimmkaufman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rimmkaufman.com privacy policy that was archived on 2015-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151002152322id_/http%3A//www.rimmkaufman.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Data-Driven Online Marketing | RKG
 
