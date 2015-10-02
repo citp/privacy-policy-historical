@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tectite.com privacy policy that was archived on 2012-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120923155017id_/http%3A//www.tectite.com/privacy.php%3FWWWTECTITE%3D8frpmhg7is0o6ri1sfvd3ru7c6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tectite.com privacy policy that was archived on 2015-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151002232747id_/http%3A//www.tectite.com/privacy.php%3FWWWTECTITE%3D2ohc159pucifue5n4rqs5s66n1) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
@@ -10,8 +10,6 @@ We consider your privacy to be of paramount importance.
 
 Very occasionally, we may send you some information about our products or a partner's product or about special offers. As at October 2011, this has happened _way less than_ once a year. 
 
-If you register on our [forums](http://www.tectite.com/vbforums/index.php), they perform some automated tasks which involve emailing you. You can adjust your user profile to prevent these activities. 
-
 ## Update notices
 
 Some of our products (in particular, FormMail) regularly check our server for updates. When a newer version is found, it will attempt to email you regarding the new version. 
@@ -20,7 +18,7 @@ Note that in the case of FormMail, it is **your server** sending you email - we 
 
 These update checks are entirely automated, and we have no direct control over them. We also don't receive any information about who is performing an update check (other than our normal web server logs). 
 
-You can [switch off these update checks](https://web.archive.org/fmdoc/check_for_new_version.php?WWWTECTITE=8frpmhg7is0o6ri1sfvd3ru7c6). 
+You can [switch off these update checks](https://web.archive.org/fmdoc/check_for_new_version.php?WWWTECTITE=2ohc159pucifue5n4rqs5s66n1). 
 
 We don't like spam and we actively fight spammers!  We will _never_ give your contact details to anyone else.
 
@@ -30,13 +28,13 @@ We do not share our customer lists or user lists with anyone.
 
 We don't purchase lists of email addresses, and we don't use automated bulk-mail software programs. 
 
-Our free [FormMail](https://web.archive.org/formmailpage.php?WWWTECTITE=8frpmhg7is0o6ri1sfvd3ru7c6) product actively fights spam on the Internet. 
+Our free [FormMail](https://web.archive.org/formmailpage.php?WWWTECTITE=2ohc159pucifue5n4rqs5s66n1) product actively fights spam on the Internet. 
 
 ## Your privacy and our forums
 
 Our forums are specifically setup to prevent other users from accessing your email address. 
 
-There is a [Private Message](http://www.tectite.com/vbforums/private.php) system so that forum users can communicate with each other in private, but they can do that only via the forums, not by using email addresses. Again, you can disable this feature. 
+Our forums are now in readonly mode, and we have disabled all email functions in the forums. 
 
 ## If you don't want us to contact you...
 
@@ -58,8 +56,8 @@ We also use third-party advertising companies to serve ads when you visit some p
 
 In most cases where we display ads, we use Google ads: 
 
-  * Google, as a third party vendor, uses cookies to serve ads on our site.
-  * Google's use of the [DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads based on your visits to our site and to other sites on the Internet.
+  * Google, as a third party vendor, uses cookies to serve ads on our site. 
+  * Google's use of the [DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads based on your visits to our site and to other sites on the Internet. 
   * You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 
