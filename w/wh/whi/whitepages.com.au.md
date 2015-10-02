@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whitepages.com.au privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623044353id_/http%3A//www.about.sensis.com.au/Privacy-Collection-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitepages.com.au privacy policy that was archived on 2015-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151002123105id_/http%3A//www.about.sensis.com.au/Privacy-Collection-Statement) for the most accurate reproduction.*
 
 # Sensis Privacy Policy
 
@@ -8,11 +8,11 @@ At Sensis Pty Ltd, we take your privacy very seriously. The _Privacy Act 1988_ (
 
 ### Q: Who is Sensis?
 
-**A:** Sensis (and its related companies) publishes and distributes the Yellow Pages and White Pages directories, electronic, wireless and online consumer products, as well as offering advertising, media, content, location and other business services.
+**A:  **Sensis (and its related companies) publishes and distributes the Yellow Pages and White Pages directories, electronic, wireless and online consumer products, as well as offering advertising, media, content, location and other business services.
 
 ### Q: What personal information do you collect and hold?
 
-**A:** We might typically collect and store your name, current and previous addresses, phone numbers, email, work information, occupation, website preferences, driver's licence details, birth date, web log, computer, device and connection information, Sensis username and password, and (depending on the service) banking and credit card details. We might also hold information about the status of your Sensis services, as well as details about your interests.
+**A:  **We might typically collect and store your name, current and previous addresses, phone numbers, email, work information, occupation, website preferences, driver's licence details, birth date, web log, computer, device and connection information, Sensis username and password, and (depending on the service) banking and credit card details. We might also hold information about the status of your Sensis services, as well as details about your interests.
 
 Some information we collect might not be included in this list. It really depends on the service or product we’re offering.
 
@@ -104,21 +104,21 @@ Our related companies will use and disclose your personal information in accorda
 
 ### Q: How do you handle my personal information and IP addresses in your websites, applications, and cookies?
 
-**A:** When you visit our sites, our web servers record anonymous information like the time, date and URL of your request. This helps us improve the structure of our websites and monitor their performance. Sometimes we use third parties to analyse this data.
+**A:**  When you visit our sites, our web servers record anonymous information like the time, date and URL of your request. This helps us improve the structure of our websites and monitor their performance. Sometimes we use third parties to analyse this data.
 
 When we compile these web server records, we don’t intend to collect personally identifiable information, but sometimes it’s unavoidable (for example, where an email address is incorporated into a URL that we record). Rest assured, personal information we collect in this way is not used by third party analysts or Sensis for any purpose.
 
-At times, we’ll also use cookies or an equivalent on our websites and apps. A cookie is a small text file that stores information on your browser or device. Usually, cookies are used so websites and apps can remember your preferences and improve your experience. We may also use them to tailor advertising to your interests. Some of the cookies on our sites are deployed by our third party analysts.
+At times, we’ll also use cookies or an equivalent on our websites and apps. A cookie is a small text file that stores information on your browser or device. Usually, cookies are used so websites and apps can remember your preferences and improve your experience. We may also use them to tailor advertising to your interests. Some of the cookies on our sites are deployed by our third party analysts and advertising companies.
 
 Sometimes cookies collect and store personal information about you. We treat this information in the same way as any other personal information. If this isn’t something you’re interested in, you can always change the settings in your internet browser to disable cookies or warn you when they’re being used. Just remember, if you do disable cookies, you might not be able to access certain areas of our websites or experience extra features.
 
 We may also collect and manage your internet protocol (IP) address – a unique number which your computer or device uses to identify itself to third parties when it’s connected to the internet. We use your IP address to provide internet session management and uncover any misuse or fraudulent activities.  It’s collected from our websites, and we may sometimes use third parties to analyse it.
 
-Digital advertising is sometimes also included on our sites. To make this advertising more relevant to you, we may use anonymous information about the web browsing activity on your computer or device.
+Sensis has partnered with Yahoo!7 and other third parties, so digital advertising may be included on our sites. To make this advertising more relevant to you, we or our third party advertising companies, may collect and use information about visits to our sites and to other sites made using your computer or device. For more information about this practice and your options, visit [here](http://www.networkadvertising.org/understanding-online-advertising/what-are-my-options). For more information about Yahoo!7’s ad serving and opting out, visit [here](https://info.yahoo.com/privacy/au/yahoo/adserving).
 
 ### Q: Are there additional privacy rules for Sensis applications?
 
-**A:** When we create apps, we make sure they’re developed in accordance with the Privacy Act, our Privacy Policy, and guidelines set by operating system providers such as Apple iOS, Google Android and Microsoft Windows. This includes any guidelines relating to privacy. 
+**A:  **When we create apps, we make sure they’re developed in accordance with the Privacy Act, our Privacy Policy, and guidelines set by operating system providers such as Apple iOS, Google Android and Microsoft Windows. This includes any guidelines relating to privacy. 
 
 We’ll only ever collect, use and disclose personal information provided to us through your use of our apps in the ways set out in this Privacy Policy.
 
@@ -152,4 +152,4 @@ If we haven’t responded within this time, or you feel dissatisfied with our re
 
 **A:** You can read more on privacy at the Office of the Australian Information Commissioner [website.](http://www.oaic.gov.au/)
 
-**Policy last updated:** 20 February 2015
+**Policy last updated:** 6 July 2015
