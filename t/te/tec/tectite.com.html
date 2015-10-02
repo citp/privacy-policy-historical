@@ -1,17 +1,18 @@
-<!--The following is the downloaded HTML source of the tectite.com privacy policy that was archived on 2012-09-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120923155017id_/http%3A//www.tectite.com/privacy.php%3FWWWTECTITE%3D8frpmhg7is0o6ri1sfvd3ru7c6) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tectite.com privacy policy that was archived on 2015-10-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151002232747id_/http%3A//www.tectite.com/privacy.php%3FWWWTECTITE%3D2ohc159pucifue5n4rqs5s66n1) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html><html><head>
         <title>Our Privacy Policy</title>
         <meta name="description" content="Root Software's Privacy Policy.">
 <meta name="keywords" content="root software privacy policy, privacy policy, tectite privacy policy">
-                <meta http-equiv="Content-Style-Type" content="text/css">
+        	    <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta http-equiv="Content-Style-Type" content="text/css">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-            <link href="/stylesheets/tectitestyle.css?mod=1341902860" rel="stylesheet" type="text/css">
+            <link href="/stylesheets/tectitestyle.css?mod=1429436363" rel="stylesheet" type="text/css">
         <link href="/stylesheets/tooltips.css?mod=1338671545" rel="stylesheet" type="text/css">
     <!-- popupthumb.css is imported in the right places by other stylesheets -->
     <!-- link href="" rel="stylesheet" type="text/css" / -->
-    <script type="text/javascript" async="" src="https://platform.stumbleupon.com/1/widgets.js"></script><script type="text/javascript" async="" src="http://widgets.digg.com/buttons.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <script type="text/javascript" async="" src="https://platform.stumbleupon.com/1/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 <!-- we don't use jQuery's CDN because it doesn't work with https:// -->
 <script type="text/javascript">
     //If above fails, use Microsoft's CDN Network 
@@ -22,8 +23,8 @@
 <script type="text/javascript">
     //If all else fails, use local
     window.jQuery || document.write('\x3Cscript src="js/jquery-1.7.2.min.js"\x3E\x3C/script\x3E')</script><script src="js/jquery-1.7.2.min.js"></script>
-<script type="text/javascript" src="/js/stdpage.js?mod=1342937764"></script>
-<script type="text/javascript" src="/js/touchable.js?mod=1334204629"></script>
+<script type="text/javascript" src="/js/stdpage.js?mod=1429436363"></script>
+<script type="text/javascript" src="/js/touchable.js?mod=1429436363"></script>
 <script type="text/javascript" src="/js/popupthumb.js?mod=1334204629"></script>
 <link rel="SHORTCUT ICON" href="/favicon.ico">
 <script type="text/javascript">
@@ -41,32 +42,37 @@
     function ResizeFrame(s_frame_id)
     {
         var j_frame = parent.$('#'+s_frame_id,top.document);
-        var i_extra = 90;       /* additional height to deal with some browsers */
-       
-        if (j_frame.length > 0)
-        {
-            var i_ht;
 
-            j_frame.css({ height: 0 }); /* apparently required for Safari and Chrome */
-            i_ht = $(document).height();
-            i_ht += i_extra;
-            //                ConsoleLog("ResizeFrame " + s_frame_id + " to " + i_ht,0);
-            j_frame.css({ height: i_ht });
-        }
-        //            else
-        //                ConsoleLog("ResizeFrame " + s_frame_id + " NOT FOUND",0);
+	    j_frame.ready(function () {
+		    var i_extra = 90;       /* additional height to deal with some browsers */
 
-        //        parent.$('#'+s_frame_id).height(parent.$('#'+s_frame_id).contents().find('html').outerHeight(true));
+		    if (j_frame.length > 0) {
+			    var i_ht;
+			    var j_doc;
+
+			    j_frame.css({height: 0});	    /* apparently required for Safari and Chrome */
+			    j_doc = $(j_frame.get(0).contentWindow.document);
+			    i_ht = j_doc.height();
+			    i_ht += i_extra;
+			    ConsoleLog("ResizeFrame " + s_frame_id + " to " + i_ht, 0);
+			    j_frame.css({height: i_ht});
+		    }
+		    /*
+		     else {
+		     ConsoleLog("ResizeFrame " + s_frame_id + " NOT FOUND", 0);
+		     }
+		     */
+	    });
     }
     // -->
 </script>
-<!-- Agent input: From $_SERVER[HTTP_USER_AGENT]: ia_archiver (+http://www.alexa.com/site/help/webmasters; crawler@alexa.com) -->
-<!-- User agent: ia_archiver (+http://www.alexa.com/site/help/webmasters; crawler@alexa.com) -->
+<!-- Agent input: From $_SERVER[HTTP_USER_AGENT]: ia_archiver -->
+<!-- User agent: ia_archiver -->
 <!-- Platform: Unknown -->
 <!-- Browser: Unknown 0.0 Unknown -->
 <!-- SELF=/privacy.php -->
 <!-- GET=array (
-  'WWWTECTITE' =&gt; '8frpmhg7is0o6ri1sfvd3ru7c6',
+  'WWWTECTITE' =&gt; '2ohc159pucifue5n4rqs5s66n1',
 ) -->
                         <script type="text/javascript">
 var _gaq = _gaq || [];
@@ -74,8 +80,15 @@ var _gaq = _gaq || [];
                     _gaq.push(['_setDomainName', '.tectite.com']);
                     _gaq.push(['_trackPageview']);
 </script>
+	        <script language="javascript" type="text/javascript">
+		        //<![CDATA[
+		        var cot_loc0 = (window.location.protocol == "https:") ? "https://secure.comodo.net/trustlogo/javascript/cot.js" :
+			        "http://www.trustlogo.com/trustlogo/javascript/cot.js";
+		        document.writeln('<scr' + 'ipt language="JavaScript" src="' + cot_loc0 + '" type="text\/javascript">' + '<\/scr' + 'ipt>');
+		        //]]>
+	        </script><script language="JavaScript" src="https://secure.comodo.net/trustlogo/javascript/cot.js" type="text/javascript"></script>
 
-    </head>
+            </head>
 
     <!-- scroll down past the logo when requested -->
     <!-- body onLoad="ScrollDown(0,150);"
@@ -85,7 +98,7 @@ var _gaq = _gaq || [];
             $('document').ready(function() {
     });
         </script>
-                <!-- SEARCH_EXCL_START1 (the search database build skips from here...) -->
+        <!-- SEARCH_EXCL_START1 (the search database build skips from here...) -->
 <div class="pagealign">
 
     <!-- TOP START -->
@@ -93,7 +106,7 @@ var _gaq = _gaq || [];
     <div class="headerin">
         <table width="100%" border="0" cellspacing="0" cellpadding="0">
             <tbody><tr valign="bottom">
-                <td width="258px"><div class="logo"><a href="/index.php?WWWTECTITE=8frpmhg7is0o6ri1sfvd3ru7c6"><img src="/images/logo.gif" border="0" alt="Tectite.com"></a></div></td>
+                <td width="258px"><div class="logo"><a href="/index.php?WWWTECTITE=2ohc159pucifue5n4rqs5s66n1"><img src="/images/logo.gif" border="0" alt="Tectite.com"></a></div></td>
                 <td align="right">
                     <div class="navigation1">
                         <div class="navigation">
@@ -102,57 +115,57 @@ var _gaq = _gaq || [];
                                     <td class="nav_left"></td>
                                     <td class="nav_center">
                                         <ul id="menu">
-                                            <li><a href="/index.php?WWWTECTITE=8frpmhg7is0o6ri1sfvd3ru7c6" class="hover">Home</a></li>
+                                            <li><a href="/index.php?WWWTECTITE=2ohc159pucifue5n4rqs5s66n1" class="hover">Home</a></li>
                                             <li class="hover"><a href="#" class="submenu hover">Products&nbsp;<img src="/images/submenu.gif" border="0" alt=""></a>
                                                 <ul class="submenu">
-                                                    <li><a href="/formmailpage.php?WWWTECTITE=8frpmhg7is0o6ri1sfvd3ru7c6" class="hover">FormMail</a></li>
-                                                    <li><a href="/wizards/choose.php?WWWTECTITE=8frpmhg7is0o6ri1sfvd3ru7c6" class="hover">FormMail Wizards</a></li>
-                                                    <li><a href="/formencryption.php?WWWTECTITE=8frpmhg7is0o6ri1sfvd3ru7c6" class="hover">Form Encryption</a></li>
-                                                    <li class=" lastitem"><a href="/hostedforms.php?WWWTECTITE=8frpmhg7is0o6ri1sfvd3ru7c6" class="hover">Hosted Forms</a></li>
+                                                    <li><a href="/formmailpage.php?WWWTECTITE=2ohc159pucifue5n4rqs5s66n1" class="hover">FormMail</a></li>
+                                                    <li><a href="/wizards/choose.php?WWWTECTITE=2ohc159pucifue5n4rqs5s66n1" class="hover">FormMail Wizards</a></li>
+                                                    <li><a href="/formencryption.php?WWWTECTITE=2ohc159pucifue5n4rqs5s66n1" class="hover">Form Encryption</a></li>
+                                                    <li class=" lastitem"><a href="/hostedforms.php?WWWTECTITE=2ohc159pucifue5n4rqs5s66n1" class="hover">Hosted Forms</a></li>
                                                 </ul>
                                             </li>
                                             <li class="hover"><a href="#" class="submenu hover">Documentation&nbsp;<img src="/images/submenu.gif" border="0" alt=""></a>
                                                 <ul class="submenu">
                                                     <li class="hover"><a href="#" class="submenu hover">FormMail</a>
                                                         <ul class="subsubmenu">
-                                                            <li><a href="/formmaildoc.php?WWWTECTITE=8frpmhg7is0o6ri1sfvd3ru7c6" class="hover">Getting Started</a></li>
-                                                            <li><a href="/fmdoc/creating_forms.php?WWWTECTITE=8frpmhg7is0o6ri1sfvd3ru7c6" class="hover">Creating HTML Forms</a></li>
-                                                            <li><a href="/formmaildoc.php#config_ref?WWWTECTITE=8frpmhg7is0o6ri1sfvd3ru7c6" class="hover">Configuration Reference</a></li>
-                                                            <li><a href="/formmaildoc.php#howto_guides?WWWTECTITE=8frpmhg7is0o6ri1sfvd3ru7c6" class="hover">How-To Guides</a></li>
-                                                            <li><a href="/fmbuttons.php?WWWTECTITE=8frpmhg7is0o6ri1sfvd3ru7c6" class="hover">Buttons</a></li>
+                                                            <li><a href="/formmaildoc.php?WWWTECTITE=2ohc159pucifue5n4rqs5s66n1" class="hover">Getting Started</a></li>
+                                                            <li><a href="/fmdoc/creating_forms.php?WWWTECTITE=2ohc159pucifue5n4rqs5s66n1" class="hover">Creating HTML Forms</a></li>
+                                                            <li><a href="/formmaildoc.php#config_ref?WWWTECTITE=2ohc159pucifue5n4rqs5s66n1" class="hover">Configuration Reference</a></li>
+                                                            <li><a href="/formmaildoc.php#howto_guides?WWWTECTITE=2ohc159pucifue5n4rqs5s66n1" class="hover">How-To Guides</a></li>
+                                                            <li><a href="/fmbuttons.php?WWWTECTITE=2ohc159pucifue5n4rqs5s66n1" class="hover">Buttons</a></li>
                                                             <li><a href="http://www.tectite.com/vbforums/faq.php" class="hover">FAQs</a></li>
-                                                            <li><a href="/formmailantispam.php?WWWTECTITE=8frpmhg7is0o6ri1sfvd3ru7c6" class="hover">Anti-Spam Design</a></li>
-                                                            <li><a href="/formmailsecurity.php?WWWTECTITE=8frpmhg7is0o6ri1sfvd3ru7c6" class="hover">Security History</a></li>
-                                                            <li><a href="/serverabuse.php?WWWTECTITE=8frpmhg7is0o6ri1sfvd3ru7c6" class="hover">About "Server Abuse"</a></li>
-                                                            <li><a href="/geoip.php?WWWTECTITE=8frpmhg7is0o6ri1sfvd3ru7c6" class="hover">GeoIP for FormMail</a></li>
-                                                            <li class=" lastitem"><a href="/fmdoc/version_history.php?WWWTECTITE=8frpmhg7is0o6ri1sfvd3ru7c6" class="hover">Version History</a></li>
+                                                            <li><a href="/formmailantispam.php?WWWTECTITE=2ohc159pucifue5n4rqs5s66n1" class="hover">Anti-Spam Design</a></li>
+                                                            <li><a href="/formmailsecurity.php?WWWTECTITE=2ohc159pucifue5n4rqs5s66n1" class="hover">Security History</a></li>
+                                                            <li><a href="/serverabuse.php?WWWTECTITE=2ohc159pucifue5n4rqs5s66n1" class="hover">About "Server Abuse"</a></li>
+                                                            <li><a href="/geoip.php?WWWTECTITE=2ohc159pucifue5n4rqs5s66n1" class="hover">GeoIP for FormMail</a></li>
+                                                            <li class=" lastitem"><a href="/fmdoc/version_history.php?WWWTECTITE=2ohc159pucifue5n4rqs5s66n1" class="hover">Version History</a></li>
                                                         </ul>
                                                     </li>
-                                                    <li><a href="/tutorials/index.php?WWWTECTITE=8frpmhg7is0o6ri1sfvd3ru7c6" class="hover">Tutorials</a></li>
-                                                    <li><a href="/fmbuttons.php?WWWTECTITE=8frpmhg7is0o6ri1sfvd3ru7c6" class="hover">Link to Us!</a></li>
-                                                    <li class=" lastitem"><a href="/fmdoc/server_security.php?WWWTECTITE=8frpmhg7is0o6ri1sfvd3ru7c6" class="hover">Server security</a></li>
+                                                    <li><a href="/tutorials/index.php?WWWTECTITE=2ohc159pucifue5n4rqs5s66n1" class="hover">Tutorials</a></li>
+                                                    <li><a href="/fmbuttons.php?WWWTECTITE=2ohc159pucifue5n4rqs5s66n1" class="hover">Link to Us!</a></li>
+                                                    <li class=" lastitem"><a href="/fmdoc/server_security.php?WWWTECTITE=2ohc159pucifue5n4rqs5s66n1" class="hover">Server security</a></li>
                                                 </ul>
                                             </li>
                                             <li class="hover"><a href="#" class="submenu hover">Support&nbsp;<img src="/images/submenu.gif" border="0" alt=""></a>
                                                 <ul class="submenu">
-                                                    <li><a href="/support.php?WWWTECTITE=8frpmhg7is0o6ri1sfvd3ru7c6" class="hover">Getting Help</a></li>
+                                                    <li><a href="/support.php?WWWTECTITE=2ohc159pucifue5n4rqs5s66n1" class="hover">Getting Help</a></li>
                                                     <li><a href="http://www.tectite.com/vbforums/faq.php" class="hover">FAQs</a></li>
                                                     <li class=" lastitem"><a href="http://www.tectite.com/vbforums/" class="hover">Forums</a></li>
                                                 </ul>
                                             </li>
                                             <li class="hover"><a href="#" class="submenu hover active">About&nbsp;<img src="/images/submenu.gif" border="0" alt=""></a>
                                                 <ul class="submenu">
-                                                    <li><a href="/aboutus.php?WWWTECTITE=8frpmhg7is0o6ri1sfvd3ru7c6" class="hover">About Us</a></li>
-                                                    <li><a href="/links.php?WWWTECTITE=8frpmhg7is0o6ri1sfvd3ru7c6" class="hover">Useful Links</a></li>
-                                                    <li><a href="/privacy.php?WWWTECTITE=8frpmhg7is0o6ri1sfvd3ru7c6" class="active hover">Privacy Policy</a></li>
-                                                    <li class=" lastitem"><a href="/dmr-tribute.php?WWWTECTITE=8frpmhg7is0o6ri1sfvd3ru7c6" class="hover">Tribute to Dennis Ritchie</a></li>
+                                                    <li><a href="/aboutus.php?WWWTECTITE=2ohc159pucifue5n4rqs5s66n1" class="hover">About Us</a></li>
+                                                    <li><a href="/links.php?WWWTECTITE=2ohc159pucifue5n4rqs5s66n1" class="hover">Useful Links</a></li>
+                                                    <li><a href="/privacy.php?WWWTECTITE=2ohc159pucifue5n4rqs5s66n1" class="active hover">Privacy Policy</a></li>
+                                                    <li class=" lastitem"><a href="/dmr-tribute.php?WWWTECTITE=2ohc159pucifue5n4rqs5s66n1" class="hover">Tribute to Dennis Ritchie</a></li>
                                                 </ul>
                                             </li>
                                             <li class="hover lastitem"><a href="#" class="submenu hover">Contact&nbsp;<img src="/images/submenu.gif" border="0" alt=""></a>
                                                 <ul class="submenu">
-                                                    <li><a href="/contacts.php?WWWTECTITE=8frpmhg7is0o6ri1sfvd3ru7c6" class="hover">Contacting Us</a></li>
-                                                    <li><a href="/forms/feedback.php?ref=www.tectite.com/privacy.php%3FWWWTECTITE=8frpmhg7is0o6ri1sfvd3ru7c6&amp;WWWTECTITE=8frpmhg7is0o6ri1sfvd3ru7c6" class="hover">Feedback Form</a></li>
-                                                    <li class=" lastitem"><a href="https://secure.tectite.com/forms/sendsecret.php?WWWTECTITE=8frpmhg7is0o6ri1sfvd3ru7c6" class="hover">Send Us a Secret</a></li>
+                                                    <li><a href="/contacts.php?WWWTECTITE=2ohc159pucifue5n4rqs5s66n1" class="hover">Contacting Us</a></li>
+                                                    <li><a href="/forms/feedback.php?ref=www.tectite.com/privacy.php%3FWWWTECTITE=2ohc159pucifue5n4rqs5s66n1&amp;WWWTECTITE=2ohc159pucifue5n4rqs5s66n1" class="hover">Feedback Form</a></li>
+                                                    <li class=" lastitem"><a href="https://secure.tectite.com/forms/sendsecret.php?WWWTECTITE=2ohc159pucifue5n4rqs5s66n1" class="hover">Send Us a Secret</a></li>
                                                 </ul>
                                             </li>
                                         </ul>
@@ -171,7 +184,7 @@ var _gaq = _gaq || [];
         <div id="main_image">
             <div id="main_text">
                 <p class="headline">Contact Form Processing Products - <i>for all your needs</i></p>
-                <p class="prodlist">FormMail • Form Encryption • Hosted Forms</p>
+                <p class="prodlist">FormMail •&nbsp;Form Encryption •&nbsp;Hosted Forms</p>
             </div>
         </div>
     </div>
@@ -184,7 +197,7 @@ var _gaq = _gaq || [];
                 <script type="text/javascript">
             var    sSearchBoxText = 'Search our site';
         </script>
-        <form method="get" action="/search.php?WWWTECTITE=8frpmhg7is0o6ri1sfvd3ru7c6">
+        <form method="get" action="/search.php?WWWTECTITE=2ohc159pucifue5n4rqs5s66n1">
             <input type="text" value="Search our site" id="searchtxt" name="SearchString">
             <input type="submit" value="">
         </form>
@@ -226,102 +239,101 @@ var _gaq = _gaq || [];
 <h2>Your contact details are safe with us</h2>
 
 <div class="notebox">
-    <div class="notebox_top"><img src="/images/featurebox_top.gif" alt=""></div>
-    <div class="notebox_center">
-        <h2>We don't pester you</h2>
+	<div class="notebox_top"><img src="/images/featurebox_top.gif" alt=""></div>
+	<div class="notebox_center">
+		<h2>We don't pester you</h2>
 
-        <!-- p>If you download our product we may send you one email with some information
-        to assist you in evaluating it.  About a week later we may send you one followup email.
-        That's it.</p>
-        
-        <p>Occasionally, we release a new version and we will send you one email
-        to let you know about it.</p -->
+		<!-- p>If you download our product we may send you one email with some information
+		to assist you in evaluating it.  About a week later we may send you one followup email.
+		That's it.</p>
 
-        <p>Very occasionally, we may send you some information about our products
-            or a partner's product or about special offers. As at October 2011, this has
-            happened <i>way less than</i> once a year.
-        </p>
+		<p>Occasionally, we release a new version and we will send you one email
+		to let you know about it.</p -->
 
-        <p>
-            If you register on our <a href="http://www.tectite.com/vbforums/index.php">forums</a>, they
-            perform some automated tasks which involve emailing you.  You can adjust
-            your user profile to prevent these activities.
-        </p>
-    </div>
-    <div class="notebox_bottom"><img src="/images/featurebox_bottom.gif" alt=""></div>
-    <div class="notebox_top"><img src="/images/featurebox_top.gif" alt=""></div>
-    <div class="notebox_center">
-        <h2>Update notices</h2>
-        <p>
-            Some of our products (in particular, FormMail) regularly check our server
-            for updates.  When a newer version is found, it will attempt to email you regarding the
-            new version.
-        </p>
-        <p>
-            Note that in the case of FormMail, it is <b>your server</b> sending you email - we
-            have no involvement in the process.
-        </p>
-        <p>
-            These update checks are entirely automated, and we have no direct control over
-            them.  We also don't receive any information about who is performing an update
-            check (other than our normal web server logs).
-        </p>
-        <p>
-            You can <a href="/fmdoc/check_for_new_version.php?WWWTECTITE=8frpmhg7is0o6ri1sfvd3ru7c6">switch off these update checks</a>.
-        </p>
+		<p>Very occasionally, we may send you some information about our products
+			or a partner's product or about special offers. As at October 2011, this has
+			happened <i>way less than</i> once a year.
+		</p>
+	</div>
+	<div class="notebox_bottom"><img src="/images/featurebox_bottom.gif" alt=""></div>
+	<div class="notebox_top"><img src="/images/featurebox_top.gif" alt=""></div>
+	<div class="notebox_center">
+		<h2>Update notices</h2>
 
-    </div>
-    <div class="notebox_bottom"><img src="/images/featurebox_bottom.gif" alt=""></div>
+		<p>
+			Some of our products (in particular, FormMail) regularly check our server
+			for updates. When a newer version is found, it will attempt to email you regarding the
+			new version.
+		</p>
+
+		<p>
+			Note that in the case of FormMail, it is <b>your server</b> sending you email - we
+			have no involvement in the process.
+		</p>
+
+		<p>
+			These update checks are entirely automated, and we have no direct control over
+			them. We also don't receive any information about who is performing an update
+			check (other than our normal web server logs).
+		</p>
+
+		<p>
+			You can <a href="/fmdoc/check_for_new_version.php?WWWTECTITE=2ohc159pucifue5n4rqs5s66n1">switch off these update
+				checks</a>.
+		</p>
+
+	</div>
+	<div class="notebox_bottom"><img src="/images/featurebox_bottom.gif" alt=""></div>
 </div>
 <div class="leftofnote">
 
 
-    <p>We don't like spam and we actively fight spammers!&nbsp; We
-        will <em>never </em>give
-        your contact details to anyone else.</p>
-    <!--
-    <p>
-    We do provide you with the opportunity to purchase
-    our partners' products from our website.
-    </p>
-    
-    <p>
-    If you use our purchase
-    page to purchase these products, your contact details are sent to the author
-    of the software so that they can deliver the product to you and provide you
-    with support.  We encourange you to check the privacy policy of the authors of the
-    product you want to purchase.
-    </p>
-    -->
-    <p>
-        We do not share our customer lists or user lists with anyone.
-    </p>
+	<p>We don't like spam and we actively fight spammers!&nbsp; We
+		will <em>never </em>give
+		your contact details to anyone else.</p>
+	<!--
+	<p>
+	We do provide you with the opportunity to purchase
+	our partners' products from our website.
+	</p>
 
-    <h2>We oppose spam!</h2>
-    <p>We don't purchase lists of email addresses, and we don't use automated bulk-mail
-        software programs.
-    </p>
+	<p>
+	If you use our purchase
+	page to purchase these products, your contact details are sent to the author
+	of the software so that they can deliver the product to you and provide you
+	with support.  We encourange you to check the privacy policy of the authors of the
+	product you want to purchase.
+	</p>
+	-->
+	<p>
+		We do not share our customer lists or user lists with anyone.
+	</p>
 
-    <p>
-        Our free <a href="/formmailpage.php?WWWTECTITE=8frpmhg7is0o6ri1sfvd3ru7c6">FormMail</a>
-        product actively fights spam on the Internet.
-    </p>
+	<h2>We oppose spam!</h2>
 
-    <h2>Your privacy and our forums</h2>
-    <p>
-        Our forums are specifically
-        setup to prevent other users from accessing your email address.
-    </p>
+	<p>We don't purchase lists of email addresses, and we don't use automated bulk-mail
+		software programs.
+	</p>
 
-    <p>
-        There is a <a href="http://www.tectite.com/vbforums/private.php">Private Message</a>
-        system so that forum users can communicate with each other in private,
-        but they can do that only via the forums, not by
-        using email addresses.  Again, you can disable this feature.
-    </p>
-    <h2>If you don't want us to contact you...</h2>
+	<p>
+		Our free <a href="/formmailpage.php?WWWTECTITE=2ohc159pucifue5n4rqs5s66n1">FormMail</a>
+		product actively fights spam on the Internet.
+	</p>
 
-            <script language="JavaScript" type="text/javascript"><!--
+	<h2>Your privacy and our forums</h2>
+
+	<p>
+		Our forums are specifically
+		setup to prevent other users from accessing your email address.
+	</p>
+
+	<p>
+		Our forums are now in readonly mode, and we have disabled all email functions in the forums.
+	</p>
+
+	<h2>If you don't want us to contact you...</h2>
+
+	        <script language="JavaScript" type="text/javascript"><!--
             var name = "salestaff";
             var domain = "tectite.com";
             var s_text_1 = "tell us";
@@ -332,7 +344,7 @@ var _gaq = _gaq || [];
 
         <noscript>
 
-	<p>We won't. Simply tell us (email to "&#115;&#x61;&#x6c;&#x65;&#115;&#x74;&#97;&#102;&#x66;&#32;&#97;&#116;&#32;&#x74;&#x65;&#x63;&#x74;&#105;&#x74;&#101;&#x20;&#100;&#x6f;&#116;&#x20;&#99;&#111;&#109;")  you don't
+	<p>We won't. Simply tell us (email to "&#x73;&#x61;&#x6c;&#101;&#x73;&#116;&#x61;&#102;&#x66;&#x20;&#97;&#116;&#32;&#116;&#x65;&#99;&#116;&#105;&#x74;&#x65;&#32;&#100;&#111;&#116;&#x20;&#99;&#111;&#109;")  you don't
 	want us to email you and we won't.  We'll immediately update our CRM to ensure
 	we never send you an email again.  (We'll send you one more email to confirm
 	to you that we've complied with your request.)</p>	</noscript>
@@ -342,46 +354,49 @@ var _gaq = _gaq || [];
 
 <h2>Website cookies</h2>
 <p>
-    Our main site uses cookies as part of its PHP session processing.  These cookies allow
-    it to keep track of some activities to assist you in navigating our site.
-</p>
-<p> 
-    For example, when you search our site, the PHP session (identified by a cookie in
-    your browser) remembers what you searched for so it can highlight these items
-    on the pages you visit.
+	Our main site uses cookies as part of its PHP session processing. These cookies allow
+	it to keep track of some activities to assist you in navigating our site.
 </p>
 <p>
-    Our forums also use cookies to automatically log you in when you visit next
-    time.
+	For example, when you search our site, the PHP session (identified by a cookie in
+	your browser) remembers what you searched for so it can highlight these items
+	on the pages you visit.
 </p>
 <p>
-    None of the cookies store personally-identifiable information
-    about you.  None of our cookies are shared with other sites, except as noted
-    below.
+	Our forums also use cookies to automatically log you in when you visit next
+	time.
+</p>
+<p>
+	None of the cookies store personally-identifiable information
+	about you. None of our cookies are shared with other sites, except as noted
+	below.
 </p>
 
 <h2>Advertising cookies</h2>
 <p>
-    We also use third-party advertising companies to serve ads when you visit some
-    parts of our website. These companies may use information (not including your name,
-    address, email address, or telephone number) about your visits to this and
-    other websites in order to provide advertisements about goods and services of
-    interest to you. If you would like more information about this practice and to
-    know your choices about not having this information used by these companies,
-    <a href="http://www.networkadvertising.org/pdfs/NAI_principles.pdf">click here</a>.
+	We also use third-party advertising companies to serve ads when you visit some
+	parts of our website. These companies may use information (not including your name,
+	address, email address, or telephone number) about your visits to this and
+	other websites in order to provide advertisements about goods and services of
+	interest to you. If you would like more information about this practice and to
+	know your choices about not having this information used by these companies,
+	<a href="http://www.networkadvertising.org/pdfs/NAI_principles.pdf">click here</a>.
 </p>
 
 <p>
-    In most cases where we display ads, we use Google ads:
+	In most cases where we display ads, we use Google ads:
 </p>
 <ul>
-    <li>Google, as a third party vendor, uses cookies to serve ads on our
-        site.</li>
-    <li>Google's use of the <a href="http://www.doubleclick.com/privacy/faq.aspx">DART cookie</a> 
-        enables it to serve ads based on your
-        visits to our site and to other sites on the Internet.</li>
-    <li>You may opt out of the use of the DART cookie by visiting the
-        <a href="http://www.google.com/privacy_ads.html">Google ad and content network privacy policy</a>. </li>
+	<li>Google, as a third party vendor, uses cookies to serve ads on our
+		site.
+	</li>
+	<li>Google's use of the <a href="http://www.doubleclick.com/privacy/faq.aspx">DART cookie</a>
+		enables it to serve ads based on your
+		visits to our site and to other sites on the Internet.
+	</li>
+	<li>You may opt out of the use of the DART cookie by visiting the
+		<a href="http://www.google.com/privacy_ads.html">Google ad and content network privacy policy</a>.
+	</li>
 </ul>
                         <!-- CONTENT END -->
                     </div>
@@ -393,61 +408,61 @@ var _gaq = _gaq || [];
         </div>
         <!-- ************* MAIN CONTENT END HERE ***************-->
         <div class="footer" align="center">
-    <div class="footerin">
+	<div class="footerin">
 
-        <div class="footerleft">
-                <script language="JavaScript" type="text/javascript"><!--
+		<div class="footerleft">
+			    <script language="JavaScript" type="text/javascript"><!--
         var name = "webmaster";
         var domain = "tectite.com";
                     document.write('<' + 'a ');
         document.write('class="vismenu" ');
-                document.write('h' + 'ref=\"&#109;&#97;&#105;&#108;&#x74;&#x6f;&#x3a;' + name + '@' + domain);
+                document.write('h' + 'ref=\"&#x6d;&#x61;&#x69;&#108;&#116;&#111;&#58;' + name + '@' + domain);
         document.write('?subject=Website');
                 document.write('\">');
                 document.write('Email the webmaster' + '<' + '/a>');
                 // -->
     </script><a class="vismenu" href="mailto:webmaster@tectite.com?subject=Website">Email the webmaster</a>
     <noscript>
-        Email the webmaster (email to "&#x77;&#101;&#98;&#109;&#97;&#115;&#x74;&#x65;&#114;&#32;&#x61;&#116;&#x20;&#116;&#x65;&#99;&#116;&#105;&#116;&#x65;&#32;&#100;&#x6f;&#x74;&#x20;&#99;&#111;&#x6d;") </noscript>
+        Email the webmaster (email to "&#x77;&#x65;&#x62;&#x6d;&#97;&#x73;&#116;&#x65;&#x72;&#x20;&#x61;&#x74;&#32;&#116;&#x65;&#x63;&#x74;&#x69;&#116;&#x65;&#32;&#100;&#111;&#116;&#32;&#x63;&#111;&#x6d;") </noscript>
      with questions or comments about this web site |
-                <script language="JavaScript" type="text/javascript"><!--
+			    <script language="JavaScript" type="text/javascript"><!--
         var name = "enquiries";
         var domain = "tectite.com";
                     document.write('<' + 'a ');
         document.write('class="vismenu" ');
-                document.write('h' + 'ref=\"&#x6d;&#x61;&#105;&#108;&#x74;&#x6f;&#58;' + name + '@' + domain);
+                document.write('h' + 'ref=\"&#x6d;&#97;&#105;&#108;&#116;&#x6f;&#x3a;' + name + '@' + domain);
         document.write('?subject=General&nbsp;enquiry');
                 document.write('\">');
                 document.write('Email for information' + '<' + '/a>');
                 // -->
     </script><a class="vismenu" href="mailto:enquiries@tectite.com?subject=General enquiry">Email for information</a>
     <noscript>
-        Email for information (email to "&#x65;&#110;&#x71;&#x75;&#105;&#x72;&#x69;&#101;&#x73;&#32;&#97;&#x74;&#x20;&#116;&#101;&#x63;&#x74;&#x69;&#x74;&#101;&#x20;&#x64;&#111;&#x74;&#x20;&#99;&#x6f;&#x6d;") </noscript>
+        Email for information (email to "&#x65;&#110;&#x71;&#117;&#105;&#114;&#x69;&#101;&#x73;&#32;&#x61;&#x74;&#32;&#116;&#101;&#x63;&#x74;&#105;&#116;&#101;&#32;&#100;&#x6f;&#116;&#x20;&#99;&#x6f;&#109;") </noscript>
      about our products<br>
-            By using our software or services you are agreeing to our standard
-            <a href="/TermsAndConditions.pdf">Terms and Conditions</a>.<br><br>
-            <span>Copyright © 1999-2012                <a href="http://www.openconcepts.com.au/">Open Concepts (Vic) Pty Limited</a> (ABN 12 130 429 248). All rights reserved. </span><br>
-            We use <a href="http://www.hivelocity.net/">dedicated servers</a> from HiVelocity.net.<br>
-            Page modified: 22 July 2012 GMT.
-            <script type="text/javascript">
-                if (typeof bIsTouchable != "undefined" && bIsTouchable)
-                    document.write("&nbsp;Touchscreen features enabled.");
-            </script>
-                    </div>
+			By using our software or services you are agreeing to our standard
+			<a href="/TermsAndConditions.pdf">Terms and Conditions</a>.<br><br>
+            <span>Copyright © 1999-2015	            <a href="http://www.openconcepts.com.au/">Open Concepts (Vic) Pty Limited</a> (ABN 12 130 429 248). All rights reserved. </span><br>
+			We use <a href="http://www.hivelocity.net/">dedicated servers</a> from HiVelocity.net.<br>
+			Page modified: 19 April 2015 GMT.
+						<script type="text/javascript">
+				if (typeof bIsTouchable != "undefined" && bIsTouchable)
+					document.write("&#160;Touchscreen features enabled.");
+			</script>
+					</div>
 
-        <div class="footerright">
-            <a href="http://validator.w3.org/check/referer" target="_blank">
-                <img src="/images/validate_html.gif" border="0" alt="">
-            </a>
-            <a href="http://jigsaw.w3.org/css-validator/check/referer" target="_blank">
-                <img src="/images/validate_css.gif" border="0" alt="">
-            </a>
-            <br>
-                    </div>
+		<div class="footerright">
+			<a href="http://validator.w3.org/check/referer" target="_blank">
+				<img src="/images/validate_html.gif" border="0" alt="">
+			</a>
+			<a href="http://jigsaw.w3.org/css-validator/check/referer" target="_blank">
+				<img src="/images/validate_css.gif" border="0" alt="">
+			</a>
+			<br>
+					</div>
 
-        <br style="clear:both">
+		<br style="clear:both">
 
-    </div>
+	</div>
 </div>
 <script type="text/javascript">
 (function() {
@@ -457,73 +472,126 @@ var _gaq = _gaq || [];
                     })();
 </script>
 <script type="text/javascript">
-if (typeof bIsTouchable != "undefined" && bIsTouchable)
-{
-    //    alert('IOS');
-    //    document.addEventListener('touchstart',function(event) { alert('Touched'); },false);
-    //    document.addEventListener('touchmove',function(event) { alert('Touch Move'); },false);
-}
+	if (typeof bIsTouchable != "undefined" && bIsTouchable) {
+		//    alert('IOS');
+		//    document.addEventListener('touchstart',function(event) { alert('Touched'); },false);
+		//    document.addEventListener('touchmove',function(event) { alert('Touch Move'); },false);
+	}
 </script>    </div>
 </div>
 <!-- SEARCH_EXCL_END9 -->
-                                                    <script type="text/javascript">
-                /*<![CDATA[*/
-                jQuery(document).ready(function() {jQuery(".btntslidebox").hover(function() {jQuery(this).stop().animate({left: "0"}, "medium");}, function() {jQuery(this).stop().animate({left: "-70"}, "medium");}, 500);});
-                /*]]>*/
-            </script>
-            <div class="btntslidebox" style="display: block;">
-                <div>
-                    <div id="floatingbuttons" title="Share this!">
-                        <script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
-                        <div class="floatbutton" id="googleplus1"><g:plusone href="http://www.tectite.com/" annotation="none"></g:plusone></div>
-                        <div class="floatbutton" id="stumbleupon"><su:badge layout="6"></su:badge></div>
-                        <div class="floatbutton" id="digg"><a class="DiggThisButton DiggMedium" href="http://digg.com/submit?url=http%3A//www.tectite.com/&amp;title=Visit+www.tectite.com+for+free+form+processing+software%21"><span style="display:none">Visit www.tectite.com for free PHP web form to email software!</span></a></div>
-                        <div class="floatbutton" id="twitter"><a href="http://twitter.com/share" class="twitter-share-button" data-count="none">Tweet</a></div>
-                        <div class="floatbutton" id="linkedin"><script type="IN/Share"></script><script type="text/javascript" async="" src="http://platform.linkedin.com/in.js"></script></div>
-                    </div>
-                </div>
-            </div>
-            <script type="text/javascript">
-                function LoadPlusOne() {
-                    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-                    po.src = 'https://apis.google.com/js/plusone.js';
-                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-                }
-                function LoadDigg() {
-                    var s = document.createElement('SCRIPT'),
-                    s1 = document.getElementsByTagName('SCRIPT')[0]; 
-                    s.type = 'text/javascript'; 
-                    s.async = true;
-                    s.src = 'http://widgets.digg.com/buttons.js'; 
-                    s1.parentNode.insertBefore(s, s1);
-                }
-                function LoadSUpon() { 
-                    var li = document.createElement('script');
-                    li.type = 'text/javascript';
-                    li.async = true; 
-                    li.src = window.location.protocol + '//platform.stumbleupon.com/1/widgets.js'; 
-                    var s = document.getElementsByTagName('script')[0];
-                    s.parentNode.insertBefore(li, s); 
-                }
-                function LoadLinkedIn() { 
-                    var li = document.createElement('script');
-                    li.type = 'text/javascript';
-                    li.async = true; 
-                    li.src = 'http://platform.linkedin.com/in.js'; 
-                    var s = document.getElementById('linkedin');
-                    s.appendChild(li); 
-                }
+                                        <script type="text/javascript">
+    /*<![CDATA[*/
+    jQuery(document).ready(function() {
+        (function ($) {
+            var t_timer = null;
+            var j_btn = $('.btntslidebox');
+            var button_hide = { left: "-70" };
+            var all_hide = { left: "-100" };
+            var all_show = { left: "0" };
+            
+            j_btn.stop().animate(all_show, "medium");
 
-            </script>
-            <script type="text/javascript">
-                $(document).ready(function() {
-                    $('div.btntslidebox').css('display','block');   /* display the box */
-                    LoadPlusOne();
-                    LoadDigg();
-                    LoadSUpon();
-                    LoadLinkedIn();
-                });
-            </script>
+            function StopTimer()
+            {
+                if (typeof t_timer != 'undefined' && typeof t_timer !== null) {
+                    clearTimeout(t_timer);
+                }
+                t_timer = null;
+            }
+            
+            function CloseAll()
+            {
+                j_btn.stop().animate(all_hide, "medium");
+            }
+            function ClosePart()
+            {
+                j_btn.stop().animate(button_hide, "medium");
+            }
+            function Close2Stage()
+            {
+                ClosePart();
+                StopTimer();
+                t_timer = setTimeout(function () {
+                    j_btn.stop().animate(all_hide, "medium");
+                },1000);
+            }
+            function Open()
+            {
+                var j_btn = $(this);
                 
+                StopTimer();
+                j_btn.stop().animate(all_show, "medium");
+                if (typeof bIsTouchable != 'undefined' && bIsTouchable) {
+                    t_timer = setTimeout(CloseAll,2000);
+                }
+            }
+            /*
+             * Hover doesn't work real well with touch devices, so use click instead.
+             */
+            if (typeof bIsTouchable != 'undefined' && bIsTouchable) {
+                j_btn.click(Open);
+                ClosePart();
+                t_timer = setTimeout(CloseAll,2000);
+            } else {
+                j_btn.hover(Open, Close2Stage, 500);
+                ClosePart();
+                t_timer = setTimeout(CloseAll,10000);
+            }
+        })(jQuery);
+    });
+    /*]]>*/
+</script>
+<div class="btntslidebox" style="left: -70px; display: block;">
+    <a href="?NoShare=1">
+        <img class="disable" src="/images/cross-grey.png" alt="Close" title="Close">
+    </a>
+    <div>
+        <div id="floatingbuttons" title="Share this!">
+            <script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+            <div class="floatbutton" id="googleplus1"><g:plusone href="http://www.tectite.com/" annotation="none"></g:plusone></div>
+            <div class="floatbutton" id="stumbleupon"><su:badge layout="6"></su:badge></div>
+            <div class="floatbutton" id="twitter"><a href="http://twitter.com/share" class="twitter-share-button" data-count="none">Tweet</a></div>
+            <div class="floatbutton" id="linkedin"><script type="IN/Share"></script><script type="text/javascript" async="" src="http://platform.linkedin.com/in.js"></script></div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    function LoadPlusOne() {
+        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+        po.src = 'https://apis.google.com/js/plusone.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+    }
+    function LoadSUpon() {
+        var li = document.createElement('script');
+        li.type = 'text/javascript';
+        li.async = true; 
+        li.src = window.location.protocol + '//platform.stumbleupon.com/1/widgets.js'; 
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(li, s); 
+    }
+    function LoadLinkedIn() { 
+        var li = document.createElement('script');
+        li.type = 'text/javascript';
+        li.async = true; 
+        li.src = 'http://platform.linkedin.com/in.js'; 
+        var s = document.getElementById('linkedin');
+        s.appendChild(li); 
+    }
+
+</script>
+<script type="text/javascript">
+    $(document).ready(function() {
+        $('div.btntslidebox').css('display','block');   /* display the box */
+        LoadPlusOne();
+        LoadSUpon();
+        LoadLinkedIn();
+    });
+</script>
+	        <a href="http://www.instantssl.com" id="comodoTL">SSL Certificate Authority</a>
+	        <script language="JavaScript" type="text/javascript">
+		        COT("https://secure.tectite.com/images/cot.gif", "SC2", "none");
+	        </script>
+            
 
 </body></html>
