@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alfa.com.lb privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331143541id_/https%3A//www.alfa.com.lb/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alfa.com.lb privacy policy that was archived on 2015-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151002154729id_/https%3A//www.alfa.com.lb/privacy.aspx) for the most accurate reproduction.*
 
-# alfa - privacy
+# Alfa - privacy
 
 Alfa Privacy Policy describes how Alfa treats information and data you submit or send using our offerings through Alfa's web.   
 Alfa is committed to protecting your privacy online and recognizes the importance of protecting the privacy of personally identifiable information collected about you. In adopting this member privacy policy, Alfa intends to make sure you are fully aware of each party's involvement in such privacy and web usage.
