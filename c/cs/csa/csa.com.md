@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csa.com privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514024033id_/http%3A//www.proquest.com/en-US/site/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csa.com privacy policy that was archived on 2015-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151002173718id_/http%3A//www.proquest.com/en-US/site/privacy.shtml) for the most accurate reproduction.*
 
 # About - Privacy
 
