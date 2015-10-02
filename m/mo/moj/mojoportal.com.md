@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mojoportal.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319195429id_/https%3A//www.mojoportal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mojoportal.com privacy policy that was archived on 2015-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151002030747id_/https%3A//www.mojoportal.com/privacy) for the most accurate reproduction.*
 
 # Privacy - mojoPortal
 
