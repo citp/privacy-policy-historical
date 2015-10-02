@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camelbak.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317095843id_/http%3A//www.camelbak.com/Sports-Recreation/Legal/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camelbak.com privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003000945id_/http%3A//www.camelbak.com/Sports-Recreation/Legal/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # CamelBak | Legal - Privacy Policy
 
