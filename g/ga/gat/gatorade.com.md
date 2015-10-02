@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gatorade.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315043839id_/http%3A//www.gatorade.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatorade.com privacy policy that was archived on 2015-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151002111827id_/http%3A//www.gatorade.com/privacy-policy) for the most accurate reproduction.*
 
 # Gatorade.com Privacy Policy
 
