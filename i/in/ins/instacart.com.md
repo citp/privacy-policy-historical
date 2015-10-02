@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the instacart.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531031755id_/https%3A//www.instacart.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instacart.com privacy policy that was archived on 2015-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151002083415id_/https%3A//www.instacart.com/privacy) for the most accurate reproduction.*
 
-# Instacart - Same-day Grocery Delivery in Atlanta, Austin, Boston, Chicago, Denver, Los Angeles, New York City, Philadelphia, San Francisco Bay Area, Seattle, and Washington, D.C.
+# Instacart
 
 1\. _Information you provide to us or allow others to provide to us_
 
