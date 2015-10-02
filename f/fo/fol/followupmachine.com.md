@@ -1,92 +1,89 @@
-> *The following text is extracted and transformed from the followupmachine.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316093148id_/http%3A//www.digitalmarketer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the followupmachine.com privacy policy that was archived on 2015-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151002170146id_/http%3A//www.digitalmarketer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Digital Marketer
 
 DigitalMarketer.com is serious about protecting your online privacy. This Privacy Statement explains our views and practices concerning privacy, and how they may pertain to you as a user of our website.
 
-You or Your means you as a participant in or as a user of the DigitalMarketer .com website. We or Our or Us means DigitalMarketer.com. Our site means DigitalMarketer.com.
+You or Your means you as a participant in or as a user of the DigitalMarketer.com website. We or Our or Us means DigitalMarketer.com. Our site means DigitalMarketer.com.
 
-All information transmitted, printed or otherwise submitted to DigitalMarketer.com via this website shall be deemed to be the property of DigitalMarketer.com and DigitalMarketer.com shall be free to use such information for any lawful purpose as detailed herein.
+**SECTION 1 – WHAT DO WE DO WITH YOUR INFORMATION?**
 
-This site contains links to other sites and we are not responsible for the privacy practices or the content of such sites.
+When you purchase something from our site, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address. This enables us to both fulfill and support the products you purchase.
 
-We reserve the right to release such information to law enforcement or other governmental officials as we, in our sole and absolute discretion, deem necessary to comply with the law.
+When you browse our site, we also automatically receive your computer’s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system so we can better improve the experience for all our users.
 
-**Section 1: Collected Information**  
-We automatically collect and/or track the following:
+Email marketing: With your permission, we may send you emails about new products, free and premium content (i.e. blog posts, YouTube videos, reports/whitepapers, etc.), and special events.
 
-  1. Web page http headers (home server domain names, IP address, type of client computer, and type of Web browser);
-  2. information knowingly provided by you through on-line forms, registration forms, surveys, and/or other entries, such as email addresses, personal, financial or demographic information;
-  3. information, user specific or aggregate, on what pages our visitors access; and
-  4. E-mail addresses of visitors that communicate with DigitalMarketer.com via e-mail.
+**SECTION 2 – CONSENT**
 
+When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only.
 
+If we ask for your personal information for a secondary reason (i.e. newsletter subscription and marketing messages), we will ask you directly for your expressed consent and provide you with an opportunity to withdraw your consent.
 
-**Section 2: Use of Data Collected**  
-We use your personal, demographic and profile data to enhance your experience at our site and to enable us to present content we think you might be interested in. We use your contact information to send you information about our company and promotional material from our partners. We may also use your personal, demographic and profile data to improve our site, for statistical analysis, for marketing and promotional purposes (both via email and through using your email address for targeting on sites such as Facebook.com), and for editorial or feedback purposes for our advertisers. Information collected by us may be added to our databases and used for future telemarketing, SMS text-messaging, e-mails, display and native advertising or postal mailings regarding site updates, new products and services, upcoming events, and/or status of orders placed online. By using this site, you agree that you may be contacted in any manner contemplated in this section even if your number is found on a do not call registry, in-house list or similar registry.
+You may withdraw your consent at any time by clicking on an “unsubscribe” link which is offered at the bottom of every email we send.
 
-**Section 3: Disclosure of Data to Third Parties**
+You may also withdraw your consent anytime, by contacting us at support@digitalmarketer.com or mailing us at: DigitalMarketer 4330 Gaines Ranch Loop Austin TX United States 78735
 
-If you choose to provide personal information, it will be used for the following purposes:
+**SECTION 3 – DISCLOSURE**
 
-  1. considering you for a DigitalMarketer.com product;
-  2. as required by law; and
-  3. for marketing products and services which we determine, in our sole judgment, that you might find of interest. We reserve the right to share, rent, sell, or otherwise disclose data we collect to third parties. Any third party we share, rent, sell, or otherwise disclose data to will be prescreened by us, determined by us to be reputable, and will use the personal data for marketing products and services which we determine, in our sole judgment, that you might find of interest.
+We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service. Also, if our site is acquired or merged with another company, your information may be transferred to the new owners so that they may continue to sell and support our products and services.
 
+IMPORTANT: We do not sell, rent or otherwise disclose your personal information to any third parties, including but not limited to advertisers, strategic partners or vendors. Again, we take your privacy very seriously.
 
+**SECTION 4 – DATA STORAGE**
 
-**Section 4: Your Opt-Out Rights**  
-You may opt-out of receiving communications from us and/or our partners by not submitting your information. We also allow you to remove your information from our marketing lists. If you remove your information from our marketing lists it will no longer be used by us to send promotional correspondence to you. You can remove your information from our marketing lists by clicking on the Unsubscribe link at the bottom of every email we send you, or by sending your request, in writing, via email to: supportATdigitalmarketerDOTcom (Please replace AT with @ and DOT with .)
+Our shopping cart solution is hosted and managed by Infusionsoft. They provide us with the online e-commerce platform that allows us to sell our products and services to you.
 
-**Section 5: We Do Not Intend to Collect Data from Children**  
-The information and services provided to us or our affiliates, sponsors, and advertisers are not intended to be viewed by children (under 18 years old). No information collected from children is knowingly used for any marketing or promotional purposes whatsoever, either inside or outside DigitalMarketer.com. No part of DigitalMarketer.coms web site is structured to attract anyone under the age of 18.
+Your data is stored through Infusionsoft’s data storage, databases and the general Infusionsoft application. They store your data on a secure server behind a firewall.
 
-**Section 6: Our Right to Contact You**  
-We reserve the right to contact you regarding your account status and changes to subscriber agreements, privacy policy, or any other policies or agreements relevant to you.
+Payment:
 
-**Section 7: Our Right to Change**  
-We reserve the right to change this policy at any time by notifying you of the existence and location of the new or revised privacy policy or by posting the changes online at our site.
+If you choose a direct payment gateway to complete your purchase, then Infusionsoft stores your credit card data. It is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS). Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is deleted.
 
-**Section 8: Our Contact Information**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us via email sent to: supportATdigitalmarketerDOTcom (Please replace AT with @ and DOT with .)
+All direct payment gateways adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover.
 
-**Section 9:   Anti Spam Policy. Can-Spam Act Compliance**
+PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers.
 
-DigitalMarketer.com is dedicated to ensuring compliance with the Can-Spam Act, which took effect January 1, 2004. You may receive email from DigitalMarketer.com in the following circumstances:
+NOTE: At no point during the transaction does DigitalMarketer take custody or store your credit card information. This is process is monitored and managed by Infusionsoft, and you can read their terms of service, privacy policy and PCI Compliance information by visiting their site at: <http://www.infusionsoft.com/legal>[  
+](http://www.infusionsoft.com/legal)  
+**SECTION 5 – THIRD-PARTY SERVICES**
 
-  1. Acknowledging your application has been received and requesting additional action
-  2. Requests for additional information to support your current application
-  3. Response to your inquiries regarding the status of your transactional requests
-  4. Thanking you for your valued business
-  5. Advertisements for our products, services, changes in services, new product availability
-  6. Advertisements for third party products and services where we have determined that such product or service may be of interest to our customers
+In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.
 
+However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies in respect to the information we are required to provide to them for your purchase-related transactions.
 
+For these providers, we recommend that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers.
 
-To ensure compliance with the Can-Spam Act, DigitalMarketer.com has implemented the following guidelines for email delivery:
+In particular, remember that certain providers may be located in or have facilities that are located a different jurisdiction than either you or us. So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.
 
-  1. All emails sent to you by DigitalMarketer.com will clearly identify DigitalMarketer.com as the sender. FROM / SENDER: someone@DigitalMarketer.com or someone@drivingtraffic.com (NOTE: The actual sender will alter from department to department, but all from addresses will end with @DigitalMarketer.com or @DrivingTraffic.com).
-  2. Any email from DigitalMarketer.com will include the ability to unsubscribe from future email messages.
-  3. Unsubscribing will ensure the customer is removed from ALL lists at DigitalMarketer.com; this excludes customer service emails regarding the processing and status of a current product.
-  4. All emails sent to you directly by DigitalMarketer.com include valid postal address information in the footer.
-  5. All third party marketing partners are required to comply with the Can-Spam Act.
-  6. Emails sent to you directly by DigitalMarketer.com will include an email address and physical address where you can send suggestions, complaints or other correspondence.
+As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act.
 
+Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service.
 
+Links: When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
 
-**Section 10: Information for ISPs**  
-Web site: DigitalMarketer.com  
-Email Address: supportATdigitalmarketerDOTcom  
-(Please replace AT with @ and DOT with .)
+**SECTION 6 – SECURITY**
 
-DigitalMarketer.com understands consumers concerns over the use of their personal information. We hope this information will relieve any concerns your company may have regarding our email policies. DigitalMarketer.com and its affiliated sites use only an opt-in or opt out method of obtaining customer information, and it is not our policy or desire to send unsolicited email. We obtain email addresses and personal information from third parties that follow the same set of policies. DigitalMarketer.com email messages sent always include information about the origin of the emails and instructions on how recipients can unsubscribe from receiving future email messages.
+To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.
 
-From time to time, DigitalMarketer.com will enter into an arrangement with a third party website to allow individuals to opt into our marketing program on those third party websites. In each case the third party websites have represented and warranted to us, among other things,
+If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with a AES-256 encryption. Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.
 
-  1. that the data was collected voluntarily from individuals on website registrations and co-registrations,
-  2. that the sellers have a right, under any applicable privacy statements, to transfer the data to us, and
-  3. that DigitalMarketer.com has the right to send marketing offers to the individuals.
+**SECTION 7 – COOKIES**
 
+DigitalMarketer utilizes cookies to create a more customized experience for our users and customers. For example, we use a login cookie so members do not have to re-enter their username and password each time they return to our site We also use tracking pixels (i.e. Google Analytics) to aid in measuring and tracking where our website traffic is coming from and to track the performance of our site. Finally, we use remarking pixels from Facebook and Google to aid in customized, targeted followup advertising.
 
+**SECTION 8 – AGE OF CONSENT**
 
-We hope this information satisfies any questions or concerns you may have regarding the email practices of DigitalMarketer.com. If you have additional questions or wish to discuss this matter further, please contact us at: supportATdigitalmarketerDOTcom (Please replace AT with @ and DOT with .)
+By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
+
+**SECTION 9 – CHANGES TO THIS PRIVACY POLICY**
+
+We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.
+
+**QUESTIONS AND CONTACT INFORMATION**
+
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at support@digitalmarketer.com or by mail at DigitalMarketer
+
+[Re: Privacy Compliance Officer]
+
+[4330 Gaines Ranch Loop Austin TX United States 78735]
