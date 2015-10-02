@@ -1,88 +1,127 @@
-> *The following text is extracted and transformed from the outdoorphotographer.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602202213id_/http%3A//www.wernerpublishing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoorphotographer.com privacy policy that was archived on 2015-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151002224902id_/http%3A//www.outdoorphotographer.com/privacy-policy) for the most accurate reproduction.*
 
-# Werner Publishing » Privacy Policy
+# Privacy Policy | OutdoorPhotographer.com
 
-**Werner Publishing Corporation Online Privacy Policy**
-
-Effective Date: January 31, 2014
-
-Thank you for visiting a Werner Publishing Corp. site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at Werner Publishing Corp. sites. [Click here](http://wernerpublishing.com/) for a list of the Werner Publishing Corp. publications and products whose sites are governed by this Privacy Policy. By visiting this site, you agree to the terms of this policy as they may be amended from time to time. As we update and expand our services, this policy may change, so check back to this page every so often.
-
-### Collected Information
-
-The information we collect is gathered from several sources. These include our magazine and e-Newsletter subscription forms, site registration, Werner Publishing Interactive Galleries, contest entries, website message postings, survey information and purchases via telephone, direct mail, email and other electronic sources. From these sources, we may collect postal addresses, email addresses, telephone numbers and/or demographic information for those individuals who volunteer such information. For each visitor to our websites, our web server automatically recognizes the visitor’s domain name, IP address plus geographic area, but no other identifiable information unless volunteered. In addition, we collect aggregate information on what web pages visitors access within our properties.
-
-### How We Use Collected Information
-
-The information we collect is used to improve the content of our web pages, customize the content and layout of our pages for each individual visitor, and/or notify visitors about updates to our website. As part of a subscription, Werner Publishing Interactive Gallery usage, registration or contest entry agreement, subscribers, contest entrants and registrants (galleries and other registrants) can be contacted by us through both mail and email to communicate with them about their subscription, registration, contests and topics that may be of interest. In addition, we may use the collected information for marketing purposes. Persons who supply us with their telephone numbers online will only receive telephone contact from us with information regarding orders they have placed online.
-
-### Postal Communications
-
-If you supply us with your postal address online, you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number(s) provided below or writing to us at the below address.  
-You may receive mailings from other reputable companies. You can, however, have your name put on our do-not-share list by calling us at one of following phone numbers, depending on the title: 
-
-_[Digital Photo Pro](http://www.digitalphotopro.com/)_ | 800.814.2993  
----|---  
-_[Golf Tips](http://www.golftipsmag.com/)_ | 800.283.4640  
-_[HDVideoPro](http://www.hdvideopro.com/)_ | 800.333.6926  
-_[Outdoor Photographer](http://www.outdoorphotographer.com/)_ | 800.283.4410  
-_[Digital Photo](http://www.dpmag.com/)_ | 800.288.6187  
-_[Plane& Pilot](http://www.planeandpilotmag.com/)_ | 800.283.4330  
   
-### email Communications
-
-If you have registered for our products and/or services, entered a contest and have supplied an email address, you will receive emails pertaining to these types of products, services and upcoming contests. If you do not want to receive email from us in the future, please let us know by clicking on “Edit Profile” (at the bottom of all our emails) and editing your email preferences.    
-From time to time, we make the email addresses of those who opt in and sign up for our e-Newsletters and contest promotions available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your email address with other companies or organizations, please let us know by clicking on “Edit Profile” (at the bottom of all our emails) and editing your email preferences.
-
-Werner Publishing Corp. sites sometimes may offer contests, sweepstakes or promotions that are sponsored by or co-sponsored with identified third parties. By virtue of their sponsorship, these third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the contest, sweepstakes, or promotion. Werner Publishing Corp. has no control over the third-party sponsors’ use of this information. The Werner Publishing Corp. site will notify you at the time of requesting personally identifiable information if third-party sponsors will obtain such information.
-
-### Attention, Kids
-
-If you are under the age of 13 (12 or younger), you may not provide any information about yourself to Werner Publishing Corp. sites. While you may view content on the Site, you may not register with the Site, enter any of our sweepstakes or contests or participate in any of our chat rooms, bulletin boards or other activities that would let you enter information about yourself. If we learn that you have provided information about yourself toWerner Publishing Corp. sites, we will delete such information. 
-
-### Note to Parents
-
-Werner Publishing Corp. will not knowingly collect personally identifiable information from kids under 13. If you have any concerns about our sites or its related services, wish to find out if your child is a member of one of our services or wish to cancel your child’s membership, please contact us at [marketing@wernerpublishing.com](mailto:marketing@wernerpublishing.com).
-
-### Cookies
-
-Werner Publishing Corp uses Google Analytics in order to gather statistics on portions of its web site. We will use the information gathered to improve the quality of our services. Google Analytics employs cookies to define user sessions, which allows for the collection of important data about how our visitors use our website. Google Analytics uses only first-party cookies for data analysis. This means that the cookies are linked to our website, and Google Analytics will only use that cookie data for statistical analysis related to your browsing behavior on Werner Publishing Corp websites. According to Google, the data collected cannot be altered or retrieved by services from other domains. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above. For more information on Google Analytics, please visit Google’s web site.
-
-### Interest-Based Advertising Policy
-
-Werner Publishing Corp. uses remarketing with Google AdWords and Analytics to display content specific advertisements to visitors that have previously visited our site when those visitors go to other websites that have the Google Display Network implemented. Werner Publishing Corp. and other third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on visitor’s past visits to our website.
-
-Under the Google Interest Based Advertising Program Google will enable Werner Publishing Corp. to serve advertisements to Users (i) who are on Werner Publishing Corp. sites and (ii) based on Google-defined interest-categories. Using cookies, Werner Publishing Corp. may remarket using your session information. Remarketing is a way for Werner Publishing Corp. to connect with users, based upon their past interactions with Werner Publishing Corp. Third-party vendors, including Google, may show Werner Publishing Corp. ads on sites on the Internet. Third-party vendors, including Google, use cookies (3rd party) to serve ads based on a user’s prior visits to Werner Publishing Corp.’ website. Users may opt out of Google’s use of cookies by visiting the Google advertising opt-out page at:
-
-  *  • <http://www.google.com/policies/privacy/ads/>
 
 
-  *  • If you choose, you can opt out by turning off cookies in the preferences settings in your browser. You can opt-out from being tracked by Google Analytics by downloading and installing Google Analytics Opt-out Browser Add-on for your current web browser: <https://tools.google.com/dlpage/gaoptout>. 
+This is the privacy policy (”Privacy Policy”) for the Outdoor Photographer website (the “Site”). The Site is made available by Madavor Media, LLC (the “Site Proprietor” or “we” or “us”). This Privacy Policy sets forth our policies regarding the collection, use, and disclosure of certain information relating to you and your use of the Site. Your use of this Site signifies your understanding and acceptance of the terms of this Privacy Policy.
+
+This Privacy Policy is incorporated into, and part of, the Terms of Use, which govern your use of the Site in general.
+
+This Privacy Policy does not apply to information that you may provide to us, or that we may obtain, other than through our Site, such as by phone, through postal mail and through other live or print media.
+
+**Age Requirement for Use of Site** : This Site is not intended for use by persons under the age of 18 years old. You must be 18 years old or older to provide any personal information to the Site, or to us through the Site.
+
+**Domicile Requirement for Use of the Site:**  You represent and warrant that you are domiciled in the United States. This Privacy Policy shall be interpreted under the laws of the United States.
+
+1.  **Collecting Information:**
+
+**Personally Identifiable Information**
+
+This Site may request and collect certain personally identifiable information (”Personal Information”) from our users. “Personal Information” includes, for example, your name, mailing address, email address, telephone, wireless and/or fax number, other wireless device address, credit/debit card and other payment information, and other contact information and medical information through various means such as Site registration, magazine subscriptions, subscription renewals and account maintenance, e-newsletter subscriptions, product orders, medicine tracking tools, sweepstakes and contest entries (if any), surveys and other online forms, questions, comments and communications to the Site, including but not limited to a “contact us” or similar feature on our Site, as well as through our blog(s), and through contributions to a chat room, bulletin board, or other open forum area of the Site. We may also obtain Personal Information about you from other sources, such as third parties.
+
+**Non-Personally Identifiable Information**
+
+We may also collect certain non-personally identifiable information via the Site, such as Site usage activity and preferences, as well as demographic or profile data.
+
+**Site Technology and website Usage Information**
+
+**Cookies**
+
+As with many websites, we may use “cookies” to keep, and sometimes track, information about you. Cookies are small data files that are sent to your browser or related software from a web server and stored on your computer’s hard drive. Cookies track where you travel on our Site and what you look at and purchase. They may store the information in your shopping cart, and/or your username and/or password. A cookie may enable us to relate your use of our Site to other information about you, including your Personal Information. All of these purposes serve to improve and personalize your experience on our Site.
+
+Most web browsers can be set to inform you when a cookie has been sent to you and provide you with the opportunity to refuse that cookie. Additionally, if you have a Flash player installed on your computer, your Flash player can be set to reject or delete Flash cookies. However, refusing a cookie may, in some cases, preclude you from using, or negatively impact, the display or function of the Site or certain areas or features of the Site.
+
+**Clear GIFs**
+
+We also may use “clear GIFs” (aka, web bugs, email bugs, “web beacons” or “pixel tags”) in the Site and/or in our communications with you to enable us to know whether you have visited a web page or received a message. A clear GIF is typically a one-pixel, transparent image (although it can be a visible image as well), located on a web page or in an email or other type of message, which is retrieved from a remote site on the Internet enabling the verification of an individual’s viewing or receipt of a web page or message. A clear GIF may enable us to relate your viewing or receipt of a web page or message to other information about you, including your Personal Information.
+
+**IP Address and Clickstream Data**
+
+Our server may automatically collect data about your server’s Internet address when you visit us. This information, known as an Internet Protocol address, or IP Address, is a number that’s automatically assigned to your computer by your Internet service provider whenever you’re on the Internet. When you request pages from our Site, our servers may log your IP Address and sometimes your domain name. Our server may also record the referring page that linked you to us (e.g., another web site or a search engine); the pages you visit on this Site; the website you visit after this Site; the ads you see and/or click on; other information about the type of web browser, computer, platform, related software and settings you are using; any search terms you have entered on this Site or a referral site; and other web usage activity and data logged by our web servers. We use this information for internal system administration, to help diagnose problems with our server, administer our Site, and identify our users. We may also use such technologies to remember user preferences or minimize the need for you to re-enter information. Such information may also be used to gather broad demographic information, such as country of origin and Internet Service Provider. We may also link this information with your Personal Information.
+
+Any or all of these activities with regard to webite Usage Information may be performed on our behalf by our service providers.
+
+Third parties (including, but not limited to, software vendors, advertisers, content providers, and fulfillment companies) may also use certain “tracking” technologies by or through the Site. We have no control over what information such third parties track or collect, and we have no responsibility or liability for any tracking, data collection, or other activities of such third parties.
+
+2.  **Usage and Sharing:**
+
+We may use Personal Information collected on and through this Site for a variety of purposes in the course of our business and as otherwise set forth herein. For example, such information may be used to process your requests and orders, respond to your requests and inquiries, or to send you information about our and our business partners’ products and services and other information and materials that may be of interest to you. This information may also be used for internal record keeping, or to evaluate what portions of the Site are more popular than others, determine where visitors came from, where they go, and how long they stay on a particular page or the Site in general. We may match information collected from you through different means or at different times, including both Personal Information and website Usage Information, and use such information along with information obtained from other sources, including third parties.
+
+We may analyze user behavior as a measure of interest in, and use of, our Site and emails, both on an individual basis and in the aggregate. We may disclose aggregate statistics regarding user behavior as a measure of interest in, and use of, our Site and emails to third parties in the form of aggregate data, such as overall patterns or demographic reports that do not describe or identify any individual user.
+
+When you contribute to a public area or feature of our Site, such as our blog(s), or a chat room, bulletin board, list serve, wiki, or other open forum that we may make available on or through our Site, the information that you submit will be made available to other users, and sometimes to the general public. For this reason, we recommend that you do not submit any sensitive information, including your full name, home address, phone number, other information that would enable other users to locate you, or financial or medical information on these areas of our Site. Instead, make up a username that does not disclose your personal identity.
+
+We may share this information with others, such as our affiliates, advertisers, third party service providers (such as website or database hosting companies, address list hosting companies, email service providers, analytics companies, distribution companies, fulfillment companies, and other similar service providers that use such information on our behalf) for or through the Site and other business partners, and such third parties may use such information, among other purposes, to contact you.
+
+We may transfer, sell, or assign such information to third parties as a result of a sale, merger, consolidation, change in control, transfer of assets, reorganization, or liquidation. We also reserve the right to disclose any information concerning you to government authorities, and to other third parties when compelled to do so by government authorities, if required by law, including but not limited to in response to court orders and subpoenas, or to protect or defend our rights or the rights or well-being of our users or if you are involved (or are reasonably suspected to be involved) in any illegal activity, even without a subpoena, warrant, or court order.
+
+We may provide visitors an opportunity to receive offers from other entities (aside from the Site Proprietor) who have services, products, and offers that we think might be of interest to you. Unless you elect not to receive such offers by following the instructions in the  **Right to Opt Out**  section below, we may from time to time provide your Personal Information to these entities so that they may send you these offers. If you change your mind and no longer want us to share your Personal Information with these types of third parties, follow the instructions to opt-out in the  **Right to Opt Out**  section below.
+
+Some of our contests, sweepstakes, and other offerings may be co-sponsored by another company. In those situations, the information we obtain from you in connection with such contest, sweepstakes, or offering may be shared with our co-sponsor, unless you instruct us not to by following the instructions in the  **Right to Opt Out**  section below. In those situations, our co-sponsors will have the right to use your information for their own purposes, in accordance with their own policies. We are not responsible for how our co-sponsors may use your information.
+
+We may use third-party advertising companies to serve ads when you visit our Site. These companies may use information (generally not including your name, address email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. These companies may employ cookies and clear gifs to measure advertising effectiveness. Any information that these third parties collect via cookies and clear gifs is generally not personally identifiable (unless, for example, you provide personally identifiable information to them through an ad or email message). We encourage you to read these businesses’ privacy policies if you should have any concerns about how they will care for your Personal Information. If you would like more information about this practice and to know your choices about not having this information used by these companies, see the Network Advertising Initiative’s consumer website at http://www.networkadvertising.org/consumer/.
+
+3.  **Wireless Addresses:**
+
+If the email address you provide to us is a wireless email address, you may not receive the correspondence you signed up for. If you find this to have occurred, please try to sign up again with a non-wireless email address.
+
+4.  **Right to Opt-Out:**
+
+You have the right to “opt out” of certain of our uses of your Personal Information. For example, at the time you are requested to provide Personal Information on this Site, you may have the opportunity to elect to, or not to: (1) receive promotional or marketing material from us in the future, or (2) have your Personal Information disclosed to or shared with third parties in the future. You may opt-out of our emails by clicking on an opt-out link within the email you receive.
+
+However, please understand that your option not to receive promotional and marketing material: (a) shall not preclude us from corresponding with you, by email or otherwise, regarding your existing or past relationship with us (e.g., your magazine subscription, the status of your orders, or our responses to questions or inquiries you pose to us), and (b) shall not preclude us, including our employees, contractors, agents, and other representatives, from accessing and viewing your personal information in the course of maintaining and improving the Site. Also, a request to have us stop sharing your Personal Information with other entities for marketing purposes will only apply as of the date of your request, and we will not be responsible for any communications that you may receive from entities that received your Personal Information prior to such request. In these cases, please contact that entity directly.
+
+5.  **Posting Information on or Through the Site:**
+
+You are solely responsible for the information and other content you submit to, or post on or through, the Site, including without limitation to our blog(s). You understand that personal and other information (e.g., user name, email address, phone number) that you post on or through the Site (e.g., blog[s], chat rooms, bulletin boards) as well as your general communications with the Site are generally accessible to, and may be collected and used by, others and may result in unsolicited messages or other contact from others. Users of the Site are encouraged to exercise caution when providing personal information about themselves.
+
+You may be able to send information about our products and services to your friends and family members through our Site, by clicking on a “Refer a Friend” or similar button on the Site, or in an email that we have sent you, or otherwise. In some of these cases (unless you simply forward our email on your own), you may provide the name and email address of your friend or family member to us. In the event that you do submit personal information regarding a friend or family member to us, such information will be treated in accordance with this Privacy Policy and applicable law. You hereby warrant and represent that such third party has consented to your doing so, for use in accordance with this Privacy Policy and applicable law.
+
+6.  **Security:**
+
+Due to the open nature of the Internet, we cannot guarantee that any information stored on our servers, or transmitted to or from a user, will be free from unauthorized access or intrusion by others, such as hackers. By using the Site, you acknowledge that you understand and agree to assume these risks.
+
+If you contact us by email, you should be aware that your transmission might not be secure. A third party could view information you send by these methods in transit.
+
+You may be able to create an account on our Site with a username and password. If so, you are responsible for maintaining the strict confidentiality of your account password, and you shall be responsible for any access to or use of the Site by you or any person or entity using your password, whether or not such access or use has been authorized by or on behalf of you, and whether or not such person or entity is your employee or agent. You agree to (a) immediately notify us of any unauthorized use of your password or account or any other breach of security, and (b) ensure that you exit from your account at the end of each session. It is your sole responsibility to control the dissemination and use of your password, control access to and use of your account, and notify us when you desire to cancel your account on this Site. We will not be responsible or liable for any loss or damage arising from your failure to comply with this provision.
+
+We will have no liability for disclosure of your information due to errors or unauthorized acts of third parties during or after transmission.
+
+In the unlikely event that we believe that the security of your Personal Information in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is appropriate, we would endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your email address, we may notify you by email. **You consent to our use of email as a means of such notification. If you prefer for us to use another method to notify you in this situation, please email us at  accounts@outdoorphotographer.com with the alternative contact information you wish to be used.**
+
+7.  **Phishing:**
+
+With identity theft a continuing problem, it has become increasingly common for unauthorized individuals to send email messages to consumers, purporting to represent a legitimate company such as a bank or online merchant, requesting that the consumer provide personal, often sensitive information. Sometimes, the domain name of the email address from which the email appears to have been sent, and the domain name of the website requesting such information, appears to be the domain name of a legitimate, trusted company. In reality, such sensitive information is received by an unauthorized individual to be used for purposes of identity theft. This illegal activity has come to be known as “phishing.”
+
+If you receive an email or other correspondence requesting that you provide any sensitive information (including your Site password or credit card information) via email or to a website that does not seem to be affiliated with our Site, or that otherwise seems suspicious to you, please do not provide such information, and report such request to us at accounts@outdoorphotographer.com.
+
+8.  **Consent to Processing:**
+
+By providing any personal information to this Site, you fully understand and unambiguously consent to the transfer of such personal information to, and the collection and processing of such personal information in, the United States and other countries or territories.
+
+9.  **Links:**
+
+This Site may contain links or references to other websites outside of our control. Please be aware that we have no control over these sites, that these sites may collect Personal Information about you, and that our Privacy Policy does not apply to these sites.
+
+10.  **Your Acceptance of this Policy:**
+
+By using this Site, you signify your acceptance of our Privacy Policy. If you do not agree to this policy, please do not use our Site. We reserve the right, at our discretion, to change, modify, add, or remove portions from this policy at any time so visitors are encouraged to review this policy from time to time. We will notify users of this Site of such changes by posting such changed or updated Privacy Policy on this page. Any changes or updates will be effective immediately upon posting to this Site. Under certain circumstances, we may also elect to notify you of changes or updates to our Privacy Policy by additional means, such as posting a notice on the front page of our Site or sending you an email. Your continued use of our Site following the posting of changes to these terms means you accept these changes.
+
+11.  **Contact Us**
+
+If you have any questions or comments regarding our privacy practices, you may contact us at accounts@outdoorphotographer.com.
+
+### Popular OP Articles
+
+  * | [](http://www.outdoorphotographer.com/how-to/shooting/hdr-the-easy-way.html "HDR The Easy Way")| [HDR The Easy Way](http://www.outdoorphotographer.com/how-to/shooting/hdr-the-easy-way.html)  
+Learn to make use of this increasingly mainstream technology without losing the soul of your images [More »](http://www.outdoorphotographer.com/how-to/shooting/hdr-the-easy-way.html "HDR The Easy Way")  
+---|---  
+  *   * 
 
 
+| 
 
-You can also choose to opt out by turning off cookies in the preferences settings in your browser. For more information on Google Analytics, AdWords, please visit Google’s website. 
-
-### Ad Servers
-
-Some of the banner ads displayed in our web sites are provided by third parties. These ads contain cookies and may also contain web beacons. Cookies or web beacons received with banner ads are collected by our advertisers and we do not have access to this information. We use third parties to serve some or all of the advertisements that are placed within our sites and they may use information (not including personally identifiable information) about your visits to our sites and other sites to assist in serving advertisements to you. Third parties and web sites that have links on our site may also collect or use information about you. The information practices of other companies or people that Werner Publishing Corp. does not employ or manage are not covered by this privacy statement. DoubleClick is our primary third party ad server. If you would like to know more about their information gathering practices and "opt-out" procedures, please see ****<http://www.doubleclick.com/us/corporate/privacy>.
-
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future, we will post the policy changes to our website to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our website periodically. Customers may prevent their information from being used for purposes other than those for which it was originally collected by following the information above.
-
-In reference to customer subscriptions, upon request, we offer visitors the ability to have inaccuracies corrected in contact information.  
-Consumers can have all other, non-subscription information corrected by emailing or writing to us at the below address.
-
-### Security
-
-We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site, and when we transfer and receive financial information, transactions are conducted through a secure server. Only designated staff members have access to this area.  
-REMEMBER—DO NOT DISCLOSE PERSONAL INFORMATION IN FORUMS OR ON MESSAGE BOARDS. WHENEVER YOU DO SO, ALL OF THAT INFORMATION CAN BE COLLECTED AND USED BY OTHERS. IF YOU POST PERSONAL INFORMATION IN PUBLIC PLACES, OTHERS MAY SEND YOU UNSOLICITED email MESSAGES. BE CAREFUL AND SMART WITH YOUR PERSONAL INFORMATION.
-
-If you feel that this site is not following its stated information policy, you may contact us at the below addresses or phone number.
-
-Our postal address is:   
-Werner Publishing Corp.  
-12121 Wilshire Blvd, Suite 1200  
-Los Angeles, CA 90025  
-ATTN: Marketing Department
-
-We can be reached via email at [marketing@wernerpublishing.com](mailto:marketing@wernerpublishing.com) or you can reach us by telephone at 310-820-1500. 
+Get 11 Issues of Outdoor Photographer for only $14.97!  
+That's 77% off the cover price!
