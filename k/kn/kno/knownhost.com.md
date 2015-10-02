@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the knownhost.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315154915id_/https%3A//www.knownhost.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knownhost.com privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003003402id_/https%3A//www.knownhost.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy For KnownHost - Our Commitment To You
+# Privacy Policy For KnownHost - Our Commitment To You - KnownHost.com - Your high quality managed VPS hosting provider
 
-This Privacy Policy describes the information we collect from you, what we do with the information, and our information security practices. If you have any questions about our Privacy Policy, please contact legal@knownhost.com. 
+This Privacy Policy describes the information we collect from you, what we do with the information, and our information security practices. If you have any questions about our Privacy Policy, please contact legal@knownhost.com 
 
 ### Information
 
@@ -34,7 +34,8 @@ We will not provide any personally identifiable information about you to any oth
   * a person or company who acquires our business;
   * third parties who perform services on our behalf (such as payment processing), subject to the third party agreeing with us that it will keep your personally identifiable information confidential;
   * As otherwise needed to protect or enforce or rights or the rights of others.
-**We absolutely do not transfer or sell your information for inclusion on third party e-mail or other marketing lists.** 
+  * **We absolutely do not transfer or sell your information for inclusion on third party e-mail or other marketing lists.**
+
 
 
 We will never disclose your data to any third party unless we are required to do so by court or administrative order. Each party retains all right, title and interest in its data, information and intellectual property rights, and nothing in this Agreement is intended to transfer or diminish such rights. We claim no ownership or control over any content submitted, posted or displayed by you on or through our services.
