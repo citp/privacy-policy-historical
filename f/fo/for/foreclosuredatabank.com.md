@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foreclosuredatabank.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426031327id_/http%3A//www.foreclosuredatabank.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foreclosuredatabank.com privacy policy that was archived on 2015-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151002022247id_/http%3A//www.foreclosuredatabank.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Policies Provided by ForeclosureDataBank.com
 
