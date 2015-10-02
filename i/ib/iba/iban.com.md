@@ -1,72 +1,58 @@
-> *The following text is extracted and transformed from the iban.com privacy policy that was archived on 2014-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140520124550id_/http%3A//iban.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iban.com privacy policy that was archived on 2015-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151002142056id_/https%3A//www.iban.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | IBAN conversion with our IBAN converter tool on iban.com
+# IBAN Privacy Policy
 
-_Revision Date: April 21, 2010_
+Please find below privacy policies that apply to all products and services provided by www.iban.com.  
+Information we collect from our customers and users of our websites may be used in the following ways. By using an www.iban.com website or service you consent to this collection and use of information.
 
-IBAN.COM is owned and operated by Domain Invest S.A. (“DI S.A.”). This Privacy Policy is intended to inform you of our privacy policyand practices, and of the choices you can make about the way your informationis collected and used by us.
+### Subscription Services
 
-#### 1\. Types of information we collect:
+Personal information provided as part of the registration process for any product or service is used to manage your subscription to enable us to provide a better service and to monitor compliance with password and other usage restrictions applicable to the relevant www.iban.com service.
 
-In order to make oursites (including the site through which you accessed this Privacy Policy(“Sites”)) as beneficial to users (“Users”) as possible, andto facilitate interaction between Users and DI S.A.’s affiliates,we collect certain personal and non-personal information.
+### Free/Demo Web Services
 
-**“Personal information”** is information that is associated with your name or personal identity.DI S.A. uses personal information to better understand yourneeds and interests and to provide you with better service. Once youchoose to provide us with personal information, you can be assured thatit will be used only to support your relationship with DI S.A.and its affiliates.
+All data (International Bank Account Numbers, Account Numbers, Bank Code etc .) submitted to our website's forms (IBAN Validator, IBAN Calculator, Sort Code search etc.) may be stored securely and used for statistical analysis and improvement of the quality and reliability of our services.
 
-In order to registerfor some services, request information, order products, or subscribeto marketing or other support materials on our Sites, a User may beprompted to complete a registration form which will require the Userto give certain personal information (such as the User’s name, address,telephone number, e-mail address, user IDs and passwords, billing andtransaction information, credit card information, and contact preferences). In the event we should arrange an affiliate arrangement with you andyou apply for affiliate payments, we may ask you to provide additionalinformation such as your social security number. This information willbe used by our financial department for payment and tax reporting purposes. Some or all of this personal information may also be used by DI S.A. or its affiliates to contact you directly and to determineyour suitability for certain services. All such determinationsare at our or our affiliates. sole and absolute discretion, and rightto exclude or terminate you from any services for any reason is expresslyreserved.
+### Contact details
 
-To personalize ourwebsites, services or communications, and to improve our products andservices, we may also ask you to provide us with information regardingyour personal or professional interests, demographics, and experienceswith the products or services listed on the Sites. Providing this additionalinformation may be optional. We may share aggregated demographic informationwith our affiliates.
+We will use contact details provided by you as part of any registration process (i.e. your name, job title, telephone and fax number and your email and postal addresses) to provide any product or services requested by you and also to tell you about important changes to relevant subscription services and their functionality.
 
-**“Non-personal information”** is data about usage and service operation that is not associated witha specific person’s identity. We collect and analyze non-personalinformation to evaluate how visitors use our Sites.
+Contact details will be used by us and by our associated companies to provide you with information about other services and products which may interest you and may also be disclosed to third party businesses and advertisers for the same purpose. If you do not wish to be contacted for this purpose, you may change the preferences in your Client Area -> My Account section.
 
-Non-personal datawe collect may include the pages visited on a Site, unique URLs visitedwithin a Site, the User’s browser type and the User’s IP address.Most non-personal data is collected via cookies or other technologies.Our Sites use cookies, Web beacons and other such technologies for dataanalysis and to better personalize our services. Our Sites may alsoincorporate ads linking to other websites that may use cookies.
+### Cookies
 
-#### 2\. Children’s privacy:
+Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site. www.iban.com’s products and services require cookies in order to operate fully. We also work with advertisers who place cookies on your computer to serve and target adverts more effectively when you visit the site.
 
-DI S.A. is committedto protecting the privacy needs of children and we encourage parentsand guardians to take an active role in their children’s online activitiesand interests. DI S.A. does not knowingly collect informationfrom children under the age of 13 and DI S.A. does not knowinglytarget its Sites to children under the age of 13.
+Most web browsers allow some control of cookies through browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
-#### 3\. How we use your information:
+Further information about the cookies used by www.iban.com is provided below. The following cookie categories are based on the classification presented in The International Chambers of Commerce (ICC) Cookie Guide
 
-DI S.A. usespersonal information to provide you with services and to help us betterunderstand your needs and interests. Specifically, we use your informationto communicate with you, to provide service and support, to update youon services and benefits, to personalize promotional offers and to personalizeour Sites. Occasionally we may also use your information to contactyou for market research regarding products or services, or the productsand services of our affiliates. Your participation in these surveysis completely voluntary and you may choose whether or not to participateand therefore disclose this information.
+**Category 1: Strictly necessary cookies.**
 
-Personal data collectedonline may also be combined with information you provide DI S.A.through other sources such as subscriptions or public events such astrade shows or seminars.
+These cookies are strictly necessary to provide services that you have requested. _Category 1 Cookies used by www.iban.com_
 
-Personal data given tous may be transferred across state and country borders for the purposesof data consolidation, storage and simplified customer information management.
+**User Session Identifier:**  A cookie containing a sequence of characters which references the user’s account details held on our server. It also references the user’s current search criteria.
 
-Non-personal data isaggregated for reporting about the usability, performance and effectivenessof our Sites. It may also be used to improve the customer experience,usability and Site content.
+**Web Analytics:** Web Analytics cookies are used to improve the design and user experience of our website by providing statistics on site usage and pages visited.
 
-#### 4\. With whom we share your information:
+**User Profile Data :**  The user’s company, department and country is stored in an encrypted cookie and passed to Omniture for analytics purposes. You may choose to decline these cookies by visiting the following sites:
 
-DI S.A. will not share your personal information with third parties except in responding to your requests for products or services. Your permission will be requested when you submit your information.
+[Google analytics opt-out page](https://tools.google.com/dlpage/gaoptout)  
+[ AddThis opt-out page](http://www.addthis.com/privacy/opt-out)
 
-Suppliers and service providers are required to keep confidential the information received on behalf of DI S.A. and may not use it for any purpose other than to carry out the services they are performing for us or our Users. Our list of affiliates may change or we may contract with additional service providers to better accommodate our Users. DI S.A. will not share personal information with any other third parties without your permission, unless required by law enforcement action, subpoena, or local law.
+**Category 2: Targeting or Advertising cookies.**
 
-DI S.A., or any of its Sites or affiliates could merge with or be acquired by another business entity or some or all of their respective assets could be acquired. If such a combination or acquisition occurs, some or all of your personal information may be shared with the merging or acquiring entity on a confidential basis.
+These cookies are used to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advert as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operator’s permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers.
 
-#### 5\. Your choices:
+**Targeted Advertising:**  Advertising cookies are used by third parties to gather and send information to other websites so that they can present you with adverts you may be interested in. www.iban.com uses the following third party advertising network:
 
-DI S.A. gives you the choice of receiving a variety of information that complements our products and services. You may have opportunities to subscribe to certain product- and service-specific information and other marketing communications such as new product information, special offers, or an invitation to participate in market research. We give you a choice regarding delivery of DI S.A. communications by postal mail, e-mail and telephone. You can make or change your choices by email at any time. We will make every effort to honor your preferences. This option does not apply to communications for the purpose of administering order completion, contracts, billing, or support.
+Doubleclick (Google)  
+You may choose to decline these cookies by visiting the following site: [Google advertising opt-out page](http://www.google.com/privacy_ads.html)
 
-#### 6\. Your privacy preferences and opting out:
+**Campaign Tracking:**  Campaign Tracking cookies are used to monitor how effective adverts, promotions and e-newsletters are. Voluntary Information We may ask for further information about you as part of online surveys or if you enter any competition or other promotional feature. This information will be used to enable us to improve the relevant product or service and may also be disclosed to other companies as specified in the relevant promotion.
 
-To opt-out of communications you have expressly requested (such as e-mail lists, product updates, etc.), use any of the following methods:
+**Statistical information** Aggregate statistical information provided by us to our advertisers or others regarding sales or website usage will not include personally identifying information.
 
-  * Contact us by e-mail fromthe email address on file with DI S.A.. In the subject line of your email, put “opt-out” or “unsubscribe” and in the body of the email specifically list those services you wishto opt-out of.
-  * Write your specific requestto the DI S.A. Privacy Office. Be sure to provide your name,e-mail and postal address, and relevant information about your DI S.A. subscriptions and registrations.
+**Access to Data** Under the UK Data Protection Act 1988 individuals in the European Union  have the right to be told what personal information we hold about you on our databases. You should write to us, attn Company Secretary at the following address: Veriban Limited of 100 Elmer Gardens, Isleworth, London, Middlesex, TW7 6HA, UK stating your full name, your address and all www.iban.com  publications or services to which you know you subscribe. A small administrative charge may be made for fulfilling this request.
 
-
-
-#### 7\. Access to and accuracy of your information:
-
-DI S.A. strives to keep your personal information accurate. We have implemented technology, management processes and policies to maintain customer data accuracy. We will provide you with access to your information, including making reasonable efforts to provide you with online access and the opportunity to change your information. To protect your privacy and security, we will also take reasonable steps to verify your identity, such as a password and user ID, before granting access to your data. Certain areas of our Sites may limit access to specific individuals through the use of passwords and other personal identifiers.
-
-#### 8\. Keeping your information secure:
-
-DI S.A. is committed to protecting the personal information you provide to us which is not being shared with third parties with your permission. To prevent unauthorized access or disclosure, to maintain data accuracy, and to ensure the appropriate use of the information, DI S.A. has attempted to put in place appropriate physical and managerial procedures to safeguard the information we collect. In the event of any breaches to our security system of which we become aware, we will notify you if it is reasonable to believe that your personal information was acquired by any unauthorized person.
-
-#### 9\. Changes to this Policy:
-
-If there are updates to the terms of this Privacy Policy, we will post those changes and update the revision date in this document.
-
-#### 10\. Contacting us:
-
-We value your opinions. If you have comments or questions about this Privacy Policy, please [contact us](http://iban.com/contact).
+**Phone Calls** Calls to our phone numbers may be monitored or recorded. 
