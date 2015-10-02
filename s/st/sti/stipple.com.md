@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stipple.com privacy policy that was archived on 2015-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150425133224id_/https%3A//stipple.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stipple.com privacy policy that was archived on 2015-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151002194704id_/http%3A//stipple.com/privacy) for the most accurate reproduction.*
 
 # Stipple's Privacy Policy
 
