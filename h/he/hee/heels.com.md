@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heels.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423152802id_/http%3A//www.heels.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heels.com privacy policy that was archived on 2015-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151002174129id_/http%3A//www.heels.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Women's Shoes, Dress Shoes, Evening Shoes, Guess Shoes, Jessica Simpson Shoes, LAMB Shoes, High Heels, Heels.com
 
