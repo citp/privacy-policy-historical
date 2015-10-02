@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the woodlandtrust.org.uk privacy policy that was archived on 2015-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150417094134id_/http%3A//www.woodlandtrust.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodlandtrust.org.uk privacy policy that was archived on 2015-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151002081402id_/https%3A//www.woodlandtrust.org.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy & cookie policy | The Woodland Trust
+# Privacy policy | The Woodland Trust
 
 At the Woodland Trust we respect the privacy of our supporters and visitors to our websites. This policy is concerned with how we collect information, what we do with it and what controls you have. 
 
