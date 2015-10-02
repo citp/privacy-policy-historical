@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the proctoru.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512103249id_/http%3A//www.proctoru.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proctoru.com privacy policy that was archived on 2015-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151002110724id_/http%3A//www.proctoru.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - ProctorU
 
 This Privacy Policy describes ProctorU's policies and procedures on the collection, use and disclosure of your information you provide on our websites, not limited to the following: [https://go.proctoru.com](https://go.proctoru.com/), [https://proctoru.com](https://proctoru.com/), [https://at.proctoru.com](https://at.proctoru.com/), [https://legacy.proctoru.com](https://legacy.proctoru.com/), and [https://blog.proctoru.com](https://blog.proctoru.com/). ProctorU may obtain your information through your use of the service or from your institution. When using any of our Services you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. Irrespective of which country that you reside in or create information from, your information may be used by ProctorU in the United States or any other country where ProctorU operates.
 
-ProctorU has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, www.proctoru.com.
+The TRUSTe program covers only information that is collected through this website, [www.proctoru.com](https://www.proctoru.com/) and does not cover information that may be collected through software downloaded from the website or through our mobile applications.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
+In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
 
 ## Information Collection and Use
 
@@ -20,7 +20,7 @@ You may be asked to authenticate your identity through data services. These ques
 
 #### Log Data
 
-Our servers automatically record information ("Log Data") created by your use of the Services. Log Data may include information such as your IP address, browser type, the referring domain, operating system and browser plug-ins. 
+Our servers automatically record information ("Log Data") created by your use of the Services. Log Data may include information such as your IP address, browser type, the referring domain, internet service provider (ISP), operating system, date/time stamp, clickstream data, and browser plug-ins. 
 
 We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. 
 
@@ -28,15 +28,15 @@ We do not link this automatically-collected data to personal information.
 
 The IP address information we may receive will be the external IP of your ISP and is requested by your partner institution to help troubleshoot issues or verify a general testing location.
 
-#### Cookies
+#### Tracking Technologies
 
-Like many websites, we use "cookie" technology to collect additional website usage data and to improve our Services. A cookie is a small data file that is transferred to your computer's hard disk. ProctorU may use both session cookies and persistent cookies to better understand how you interact with our Services, to monitor aggregate usage by our users and web traffic routing on our Services, and to improve our Services. Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. 
+We ProctorU, affiliates, or analytics or service providers [LogMeIn, Live Chat, Google], use technologies such as cookies, beacons, tags, and scripts, to analyze trends, administer the website, tracking users’ movements around the website, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual and aggregated basis. 
 
-The use of cookies by our partners, affiliates, tracking utility company, service providers is not covered by our privacy policy. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company, service providers may use session ID cookies to make it easier for you to navigate the portion of service where we utilize them. 
-
-Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our Customers’ or Users’ personal information. 
+We use cookies to remember users’ settings. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our website, but your ability to use some features or areas of our website may be limited. 
 
 We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union [click here](http://www.youronlinechoices.eu/)) Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+
+Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity also use HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5.
 
 #### Third Party Services
 
@@ -54,6 +54,10 @@ We will share your personal information with third parties only in the ways that
 
 These companies are authorized to use your personal information only as necessary to provide these services to us.
 
+#### Frames
+
+Some of our pages utilize framing techniques to serve content to/from our partners while preserving the look and feel of our website. Please be aware that you are providing your personal information to these third parties and not to [www.proctoru.com.](https://www.proctoru.com/)
+
 #### Service Providers
 
 We engage certain trusted third parties to perform functions and provide services to us. We may share your personal information with these third parties, but only to the extent necessary to perform these functions and provide such services, and only pursuant to obligations mirroring the protections of this privacy policy.
@@ -68,7 +72,7 @@ In the event that ProctorU is involved in a bankruptcy, merger, acquisition, reo
 
 ## Modifying Your Personal Information
 
-If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove, ask to have it removed from our site or deactivate it by making the change on your profile page or by emailing our Customer Support at [help@proctoru.com](mailto:help@proctoru.com) or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within 30 days. 
+If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove, ask to have it removed from our site or deactivate it by making the change on your profile page or by emailing our Customer Support at [help@proctoru.com](mailto:help@proctoru.com) or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within a reasonable timeframe. 
 
 The telephone number to contact is 855-772-8678. The mailing address is 2100 Riverchase Ctr., Suite 108, Birmingham, AL 35244.
 
@@ -102,7 +106,7 @@ We follow generally accepted standards to protect the personal information submi
 
 We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the email address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practice.
 
-This policy is effective 08/10/14.
+This policy is effective 07/14/15.
 
 ## Contact Information
 
@@ -110,7 +114,7 @@ If you have questions or concerns about this privacy policy, please contact us t
 
 ProctorU
 
-2100 Riverchase Ctr., Suite 108
+2200 Riverchase Ctr. Suite 600
 
 Birmingham, AL 35244
 
