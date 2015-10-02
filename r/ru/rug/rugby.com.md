@@ -1,15 +1,17 @@
-> *The following text is extracted and transformed from the rugby.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617073431id_/http%3A//www.ralphlauren.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Drestrictions%26ab%3Dfooter_privacypolicy%23policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rugby.com privacy policy that was archived on 2015-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151002185847id_/http%3A//www.ralphlauren.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Drestrictions%26ab%3Dfooter_privacypolicy%23policies) for the most accurate reproduction.*
 
 # RalphLauren.com Customer Assistance
 
   * [ Shipping ](https://web.archive.org/helpdesk/index.jsp?display=ship&subdisplay=shipMethods)
-  * [ Returning ](https://web.archive.org/helpdesk/index.jsp?display=returns&subdisplay=returns)
+  * [ Returns & Exchanges ](https://web.archive.org/helpdesk/index.jsp?display=returns&subdisplay=returns)
+  * [ Canceling or Changing An Order ](https://web.archive.org/helpdesk/index.jsp?display=returns&subdisplay=canceling)
   * [ Shopping and Payment ](https://web.archive.org/helpdesk/index.jsp?display=payment&subdisplay=checkout)
   * [ Gift Services ](https://web.archive.org/helpdesk/index.jsp?display=gift&subdisplay=ogc)
   * [ Account Information ](https://web.archive.org/helpdesk/index.jsp?display=account&subdisplay=registryWhy)
   * [ About Our Products ](https://web.archive.org/helpdesk/index.jsp?display=shopping&subdisplay=product)
   * [ Privacy Notice ](https://web.archive.org/helpdesk/index.jsp?display=safety&subdisplay=restrictions)
   * [ Canadian Privacy Policy ](https://web.archive.org/helpdesk/index.jsp?display=tft&subdisplay=policies)
+  * [ Operating Guidelines ](https://web.archive.org/helpdesk/index.jsp?display=terms&subdisplay=other)
   * [ Terms of Use ](https://web.archive.org/helpdesk/index.jsp?display=corp&subdisplay=terms)
   * [ Frequently Asked Questions (FAQs) ](https://web.archive.org/helpdesk/index.jsp?display=faq&subdisplay=buyer)
   * [Contact Us](https://www.ralphlauren.com/helpdesk/index.jsp?display=store&subdisplay=contact)
@@ -125,7 +127,7 @@ Most browsers will tell you how to stop accepting new cookies, how to be notifie
 
 Using cookies, we utilize Google AdWords remarketing service to show you our ads on other websites based on your prior visits to our website. You can opt out of this feature by clicking [here](http://www.google.com/ads/preferences).
 
-We may use eBay Enterprise Targeted Display Advertising Services on this website. You can learn more about how this service functions by [clicking here](http://ebayenterprise.com/privacy/services_privacy.php), and you may opt out of eBay Enterprise targeted display services by [clicking here.](http://ebayenterprise.com/privacy/services_privacy.php%23optout) You also may opt out of eBay Enterprise targeted display services through the [Network Advertising Initiative website.](http://www.networkadvertising.org/managing/opt_out.asp)
+We may use third party targeted advertising display and related services, such as those of eBay Enterprise Targeted Display Advertising Services, on this website. You can learn more about how the eBay Enterprise service functions by [clicking here](http://ebayenterprise.com/privacy/services_privacy.php), and you may opt out of eBay Enterprise targeted display services by [clicking here](http://www.networkadvertising.org/managing/opt_out.asp). You also may opt out of ad network interest-based advertising generally (including eBay Enterprise targeted display services) through the [Network Advertising Initiative website](http://www.networkadvertising.org/managing/opt_out.asp).
 
 _Web Beacons_
 
@@ -229,11 +231,11 @@ Your Choices
 
 We offer you certain choices about how we communicate with you and what information we collect from you. You may withdraw any consent you previously provided to us or object at any time on legitimate grounds and free of charge to the processing of your personal information, and we will apply your preferences going forward. 
 
-You can choose not to receive marketing communications from us by clicking on the unsubscribe link in our marketing emails, [clicking here](http://app.ralphlauren.com/unsub/unsub.cfm), or contacting us as specified in the "How to Contact Us" section below. Please include your name, email address and postal address if you send us your request by email or postal mail. To opt out of aggregation and analysis of data collected by Adobe Analytics and Google Analytics, please click [here](http://www.adobe.com/privacy/analytics.html) and [here](http://tools.google.com/dlpage/gaoptout). Our website is not designed to respond to "do not track" signals received from browsers. 
+You can choose not to receive marketing communications from us by clicking on the unsubscribe link in our marketing emails, [clicking here](http://app.ralphlauren.com/unsub/unsub.cfm), or contacting us as specified in the "How to Contact Us" section below. Please include your name, email address and postal address if you send us your request by email or postal mail. Our website is not designed to respond to "do not track" signals received from browsers. 
 
 If you are a California resident, you may ask us to refrain from sharing your information with certain of our affiliates and other third parties for their marketing purposes. 
 
-To opt out of aggregation and analysis of data collected by Adobe Analytics and Google Analytics, please click [here](http://www.adobe.com/privacy/analytics.html) and [here](http://www.adobe.com/privacy/analytics.html). To opt out of eBay Enterprise targeted display services, please [click here.](http://ebayenterprise.com/privacy/opt-out.php)
+To opt out of aggregation and analysis of data collected by Adobe Analytics and Google Analytics, please click [here](http://www.adobe.com/privacy/analytics.html) and [here](http://www.adobe.com/privacy/analytics.html). To opt out of eBay Enterprise targeted display services, please [click here](http://www.networkadvertising.org/managing/opt_out.asp). To learn how to opt out of ad network interest-based advertising generally, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 To opt out of Wi-Fi data collection in our stores after you have opted in, either turn off your device's Wi-Fi function or click [here](https://privacy.retailnext.net/). 
 
@@ -311,7 +313,7 @@ Ralph Lauren's practices regarding the collection, storage, transfer, use and ot
 
 We notify our Customers and Workers located in the EEA and Switzerland about the purposes for which we collect and use Personal Information, the types of third parties to which we disclose the information (for example, service providers that process Personal Information on our behalf), certain privacy rights of our Customers and Workers (such as the right to access Personal Information and the choice for limiting the use and disclosure of the information), and how to contact us about our practices concerning Personal Information. 
 
-Job applicants who submit Personal Information through our careers site may view our [ Careers Privacy Policy](http://global.ralphlauren.com/en-us/about/pages/careers.aspx?ab=footer_careers)for details about our Personal Information privacy practices. Current Workers can find additional information in the Employee Data Protection Policy available on Polo Express or from local Human Resources representatives. Customers may view our Privacy Notice by clicking [here](https://web.archive.org/web/20150617073431id_/http%3A//www.ralphlauren.com/helpdesk/index.jsp?display=safety&subdisplay=restrictions#policies). 
+Job applicants who submit Personal Information through our careers site may view our [ Careers Privacy Policy](http://global.ralphlauren.com/en-us/about/pages/careers.aspx?ab=footer_careers)for details about our Personal Information privacy practices. Current Workers can find additional information in the Employee Data Protection Policy available on Polo Express or from local Human Resources representatives. Customers may view our Privacy Notice by clicking [here](https://web.archive.org/web/20151002185847id_/http%3A//www.ralphlauren.com/helpdesk/index.jsp?display=safety&subdisplay=restrictions#policies). 
 
 **Purpose of Collection and Use of Personal Information**
 
