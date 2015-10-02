@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animalwonder.com privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410221419id_/http%3A//animalwonder.com/%3Fpage_id%3D74) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animalwonder.com privacy policy that was archived on 2015-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151002033723id_/http%3A//animalwonder.com/%3Fpage_id%3D74) for the most accurate reproduction.*
 
 # Privacy Policy | Animal Wonder
 
