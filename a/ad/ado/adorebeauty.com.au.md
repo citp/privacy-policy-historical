@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adorebeauty.com.au privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122080221id_/http%3A//www.adorebeauty.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adorebeauty.com.au privacy policy that was archived on 2015-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151002190131id_/http%3A//www.adorebeauty.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy - Adore Beauty
+# Privacy
 
 **What is Adore Beauty's stance on Privacy?**
 
@@ -14,7 +14,9 @@ We will generally only use the information that you provide us with for the prim
 
 **If you sign up as a member** , we will collect your name, country of origin, and email address. If you elect to receive our newsletter, your email address will be added to our mailing list. We will only use your e-mail address for that purpose, you will not be put on the mailing lists of any third parties, and neither your email address nor your name or country will not be divulged to anyone else. We will only use these details to post to you about new developments, products, news and events. These updates will occur approximately once a week. Removing yourself from the mailing list will also be easy - just click on the "Unsubscribe" link at the bottom of any of our emails.
 
-**Order information**  such as your name, billing address, delivery address, email address and phone number are collected at the time you place your order and are necessary  to effect delivery of the products that you order, and to contact you in regard to your order if necessary. These details are retained in our database for record keeping purposes. If you have registered as a member, you can change or delete these details at any time by [logging in](https://www.adorebeauty.com.au/customer/account/login/) using your email address and password, and then going to the [Modify Details](http://www.adorebeauty.com.au/) section.
+**Order information**  such as your name, billing address, delivery address, email address and phone number are collected at the time you place your order and are necessary  to effect delivery of the products that you order, and to contact you in regard to your order if necessary. These details are retained in our database for record keeping purposes.  If you purchase any Clinique products, customer and order information will also be provided to Estée Lauder Pty Ltd for the purpose of completing the sale. This information will be kept secure and handled according to the [Clinique Australia Online Privacy Policy](http://www.clinique.com.au/cms/customer_service/privacy.tmpl).
+
+If you have registered as a member, you can change or delete these details at any time by [logging in](https://www.adorebeauty.com.au/customer/account/login/) using your email address and password, and then going to the [Modify Details](http://www.adorebeauty.com.au/) section.
 
 **If you elect to pay online**  using your credit card, your card details are not viewed by us or by any person except you, at any time during the transaction. These details are necessary to process your order using this payment process.  They are encrypted and passed directly to the Bank through our security provider [Securepay](http://www.securepay.com.au/). You can read more about our payment systems and security in the [Help](http://www.adorebeauty.com.au/%7B%7Bstore%20url=''help-customer-service) section. We do not retain your credit card details.
 
