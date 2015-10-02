@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luxuryescapes.com privacy policy that was archived on 2014-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140706061351id_/http%3A//luxuryescapes.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxuryescapes.com privacy policy that was archived on 2015-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151002094056id_/http%3A//luxuryescapes.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
