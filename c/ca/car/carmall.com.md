@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carmall.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317220210id_/http%3A//www.sgcarmart.com/main/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carmall.com privacy policy that was archived on 2015-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151002123854id_/http%3A//www.sgcarmart.com/main/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement
 
