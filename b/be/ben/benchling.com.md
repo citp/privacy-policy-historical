@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the benchling.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318191929id_/https%3A//benchling.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benchling.com privacy policy that was archived on 2015-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151002121036id_/https%3A//benchling.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy · Benchling
 
