@@ -1,76 +1,97 @@
-> *The following text is extracted and transformed from the dorchestercollection.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102021739id_/http%3A//www.dorchestercollection.com/en/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dorchestercollection.com privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003050829id_/https%3A//www.dorchestercollection.com/en/privacy) for the most accurate reproduction.*
 
-# Policies | Dorchester Collection
+# Privacy Policy | Dorchester Collection
 
-**Privacy Policy**
+We, Dorchester Services Limited, for itself and on behalf of its affiliates, are committed to protecting and respecting your privacy.
 
-Dorchester Services Limited and its subsidiary and affiliated companies (collectively the "Dorchester Collection") are committed to preserving the privacy of all visitors to websites (the "Websites") owned or controlled by Dorchester Collection. Please read the following privacy policy to understand how Dorchester Collection uses and protects information that you provide as a result of accessing the Websites. By registering or making any reservation via the Websites you consent to the collection, use and transfer of your information under the terms of this policy. If after reviewing this policy you have any questions or privacy concerns please send an e-mail to [ecommerce.dc@dorchestercollection.com](mailto:ecommerce.dc@dorchestercollection.com)
+This policy (together with our terms of use [www.dorchestercollection.com/terms](https://web.archive.org/terms) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-or send a letter to:
+**Information we may collect from you**
 
-Ecommerce Team  
-Dorchester Collection  
-Sixth Floor East  
-Lansdowne House  
-Berkeley Square   
-London W1J 6ER
+We may collect and process the following data about you:
 
- **Information that we collect from you**
+  * Information that you provide by filling in forms on our site [www.dorchestercollection.com](https://web.archive.org/) (our site).  This includes information provided at the time of registering to use our site,subscribing to our service, posting material or requesting further services.  We may also ask you for information when you report a problem with our site.
+  * If you contact us, we may keep a record of that correspondence.
+  * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
+  * Details of transactions you carry out through our site and of the fulfilment of your orders.
+  * Details of your visits to our site including,but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
 
-When you visit, register or order products or services on the Websites you may be asked to provide certain information about yourself ("personally identifiable information") so that we can provide you with a particular service. For example, if you would like to make a reservation at one of our hotels, we will ask you for information such as your name, address, telephone number, e-mail address, credit card number, and room preference to process your reservation. We will use your e-mail address to send a confirmation and, if necessary, might use the other information to contact you for help to process the reservation. We may also use your e-mail address to notify you about special offers and promotions as described in the E-Mail section of this policy, but you can opt out of e-mails at any time by following the procedures outlined in that section of this statement.
 
- **Browsing**
 
-The Websites do not collect personally identifiable information from your computer when you browse them and request pages from our servers. This means that, unless you voluntarily and knowingly provide us with personally identifiable information, we will not know your name, your e-mail address, or any other information about you. When you request a page from the Websites, our servers log the information provided in the HTTP request header including the IP number, the time of the request, the URL of your request and other information that is provided in the HTTP header. We collect the HTTP request header information in order to make the Websites function correctly. We also use this information to better understand how visitors use the Websites and how we can improve their content and functionality.
+**IP addresses**
 
- **Use of Information**
+We may collect information about your computer, including where available your IP address,operating system and browser type, for system administration and to report aggregate information to our advertisers.  This is statistical data about our users’browsing actions and patterns, and does not identify any individual.
 
-The personally identifiable information you provide to us will be used to enable us to provide a particular product or service such as making a reservation. If you cancel your reservation, the information is stored for record-keeping purposes only and is not accessed again. After making a reservation or completing your stay at one of our hotels, unless you tell us otherwise, the information you provide may be used by us for direct marketing of other products and services provided by Dorchester Collection or the products and services of selected reputable third parties with whom Dorchester Collection has a strategic marketing relationship because they offer products or services that we believe would of interest to you. If you do not wish to receive this information, you may indicate so by accessing the unsubscribe link.
+**Cookies**
 
-We have implemented technical, managerial, and operational security, rules, procedures and measures, to ensure that your personal information is held within operating environments that are not available to the public. We take steps to guard against unauthorised access, improper use, alteration, destruction, and accidental loss of personal data. This includes rules for all our staff with access to the servers or databases that hold your personal information. Although we make every effort to create a secure environment for your personal information, we cannot guarantee the safety of any personal information you transmit to us online.
+For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on your browser or the hard drive of your computer.  Cookies contain information that is transferred to your computer’s hard drive.  They help us to improve our site and to deliver a better and more personalised service.  Some of the cookies we use are essential for the site to operate.
 
- **Securing the Transmission and Storage of Information**
+If you register with us or if you continue to use our site, you agree to our use of cookies.
 
-We treat the information you provide to us as confidential information; it is, accordingly, subject to our company's security procedures and corporate policies regarding protection and use of confidential information. When we ask you for credit card data it is transferred over a Secured Sockets Layer ("SSL") line provided you are using a SSL enabled browser such as Microsoft Internet Explorer or Netscape Navigator. We also use SSL on other select pages where you would enter personally identifiable information. This ensures that your information is encrypted as it travels over the Internet. This secure mode is enabled before any such information is transmitted from your computer. You will know you are in secure mode when the padlock or key icon in the lower right-hand or left-hand corner of the computer screen appears in the locked position. In addition, when accessing a secure server, the first characters of the site address will change from "http" to "https." After information reaches us it is stored on a secure server that resides behind firewalls designed to block unauthorised access.
+Please note that our advertisers may also use cookies, over which we have no control.
 
- **Disclosure of Information to Third Parties**
+You block cookies by activating the setting on your browser which allows you to refuse the setting of all or some cookies.  However, if you use your browser settings to block all cookies (including essential cookies)you may not be to access all or parts of our site.  Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies as soon you visit our site.
 
-Dorchester Collection uses the services of third parties, such as e-mail service providers and marketing companies that act as agents on its behalf. These parties are contractually prohibited from using personally identifiable information for any purpose other than for the purpose Dorchester Collection specifies. In addition, we may disclose your personally identifiable information to successors in title to our business. We do provide non-personally identifiable information to certain service providers for their use on an aggregated basis for the purpose of performing their contractual obligations to us. We prohibit the sale or transfer of personal information to entities outside of Dorchester Collection for their use without your approval.
+Except for essential cookies, all cookies will expire after 30 Days.
 
- **Cookies**
+**Where we store yourpersonal data**
 
-Our Websites use "cookie" technology. "Cookies" are encrypted strings of text that a website stores on a user's computer. Our Websites require the use of a cookie throughout the online reservation process. Without cookies we will not be able to keep information you enter on multiple pages together. For example, unless our Websites can remember the dates you used in your hotel search we will not be able to check room availability.The types of cookies that we use are referred to as "session" cookies and "persistent" cookies. Session cookies are temporary and are automatically deleted once you leave our Websites. Persistent cookies remain on your computer hard drive until you delete them. We do not use cookies to gather information concerning your visits to other sites, nor ascertain any personally identifiable information about you apart from what you voluntarily provide us in your dealings with us. Cookies do not corrupt or damage your computer, programs, or computer files.
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”).  It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services.  By submitting your personal data, you agree to this transfer, storing or processing.  We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
-In addition, the service providers we use to serve and host our advertisements, and/or deliver our e-mails, use session and persistent cookies, to track the number of times our Websites are accessed and whether the sites were accessed from an advertisement. Sometimes cookie technology is used to track the number of times an advertisement is viewed. In all cases, the cookie generated from the advertisement or e-mail does not contain any personally identifiable information and will remain on your hard drive until you delete it.
+[All information you provide to us is stored on our secure servers.  Any payment transactions will be encrypted [using SSL technology].]
 
-You may set your browser to block cookies (consult the instructions for your particular browser on how to do this), although doing so will adversely affect your ability to perform certain transactions, use certain functionality and access certain content on our Websites.
+**WHERE WE HAVE GIVEN YOU (OR WHERE YOU HAVE CHOSEN) A PASSWORD WHICH ENABLES YOU TO ACCESS CERTAIN PARTS OF OUR SITE, YOU ARE RESPONSIBLE FOR KEEPING THIS PASSWORD CONFIDENTIAL. WE ASK YOU NOT TO SHARE A PASSWORD WITH ANYONE.**
 
- **Pixel Tags**
+Unfortunately, the transmission of information via the internet is not completely secure.  Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk.  Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-Dorchester Collection and its third party service providers use pixel tags (also known as "clear gifs", "beacon gifs", etc.). Pixel tags are not visible to the user of the Websites and consist of a few lines of computer coding. Pixel tags are not used to collect any personally identifiable information about you apart from what you voluntarily provide to us. Dorchester and our e-mail service provider use pixel tags to track responses to advertisements and website content and to determine your ability to receive HTML-based e-mail messages. Our e-mail service provider includes a pixel tag, which they refer to as a "coded sensor", in all of the HTML-based messages sent on our behalf. The sensor activates when the e-mail message is opened and flags the e-mail address of the user as one that is capable of receiving HTML-based e-mail messages. This capability helps our service provider to send the e-mail in a format you can read. The sensor does not collect or use any other information. If you cannot receive HTML, you will not receive a functioning sensor.
+**Uses made of the information**
 
- **E-Mails about Special Offers, Promotions and Future Events**
+We use information held about you in the following ways:
 
-It is our intention to send you only e-mail communications that will be useful to you and that you want to receive. We may periodically contact you via e-mail and provide information about special offers and promotions that may be of interest to you. We use a third party e-mail service provider to send e-mails. This service provider is prohibited from using your e-mail address for any purpose other than to send e-mail relating to our products and services. In addition, we may send you e-mail communications relating to the promotions of select, reputable third parties with whom we have a strategic marketing relationship because they offer products or services that we believe would be of interest to you.
+  * To ensure that content from our site is presented in the most effective manner for you and for your computer.
+  * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.
+  * To carry out our obligations arising from any contracts entered into between you and us.
+  * To allow you to participate in interactive features of our service, when you choose to do so.
+  * To notify you about changes to our service.
 
-To opt-out of future communication, please follow the unsubscribe instructions provided in our newsletters, or contact **[mark.day@dorchestercollection.com](mailto:mark.day@dorchestercollection.com?subject=Unsubscribe)**
 
-At your choice, you can use our Websites to opt-in to e-mail communications containing information of future events. Dorchester Collection will not use any information provided in response to such communications for any unauthorised purposes.
 
- **Links**
+[We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by post or telephone.]
 
-Our Websites may contain links to other sites. Please be aware that Dorchester Collection is not responsible for the privacy practices and policies of such other sites. The policies set forth in this statement apply only to the Websites and not to the websites of any other person.
+If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.
 
- **Legal Issues**
+If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this.
 
-Some of the personal information we hold about you may be sensitive personal data within the meaning of the Data Protection Act 1998 – for example, information about your health or ethnic origin. We will not use sensitive personal data about you other than for the specific purpose for which you provide it.
+If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data (the [order form **OR  **registration form]).
 
-You have a right under English law to access any personal information about you that is held by Dorchester Collection. To obtain a copy of any such information, please write to us at the address indicated above.
+[We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day).  We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in SW1).  We may make use of the personal data we have collected from you to enable us to comply with our advertisers’ wishes by displaying their advertisement to that target audience.]
 
-Dorchester Collection will only disclose personally identifiable information without your permission when required by law, or in good faith belief that such action is necessary to investigate or protect against suspected criminal activities to our guests, visitors, associates, or property (including this site), or to others.
+**Disclosure of your information**
 
- **Minors**
+We may disclose your personal information to any member of our group, which means our subsidiaries,our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
 
-Safeguarding the personal information of children is very important to Dorchester Collection. We encourage children to ask a parent or guardian for permission before accessing our Websites. Where we have reasons to believe that a user is under the age of 18, we try to collect the minimum amount of personal information necessary for the effective operation of our services. We also endeavour not to share with third parties any personal information supplied by users believed to be aged under 18.
+We may disclose your personal information to third parties:
 
-In addition, we aim not to send direct e-mail offers to users who indicate they are aged under 18. No information should be submitted to, or posted on, our Websites by visitors under the age of 18 without the consent of their parent or guardian.
+  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
+  * If Dorchester Services Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use [www.dorchestercollection.com/terms](https://web.archive.org/terms) and/or terms and conditions of supply [www.dorchestercollection.com/terms](https://web.archive.org/www.dorchestercollection.com/en/terms) and other agreements; or to protect the rights, property, or safety of Dorchester Services Limited, our customers, or others.  This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+
+
+
+**Your rights**
+
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at Dorchester Collection, Sixth Floor East, Lansdowne House,Berkeley Square, London W1J 6ER.
+
+Our site may, from time to time, contain links to and from the websites of our partner networks,advertisers and affiliates.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.
+
+**Access to information**
+
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+
+**Changes to our privacy policy**
+
+Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
+
+**Contact**
+
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to Dorchester Collection, Sixth Floor East, Lansdowne House, Berkeley Square, London W1J 6ER.
