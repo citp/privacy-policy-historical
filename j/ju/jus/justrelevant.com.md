@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justrelevant.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408160011id_/http%3A//www.justrelevant.com/privacy%2Bpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justrelevant.com privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003043201id_/http%3A//www.justrelevant.com/privacy%2Bpolicy) for the most accurate reproduction.*
 
 # Just Relevant - Online Advertising
 
@@ -32,4 +32,4 @@ Tell us what you think
 
 Just Relevant welcomes your questions and comments about our privacy policy. Please send an e-mail to [brian@justrelevant.com](mailto:brian@justrelevant.com). 
 
-Copyright � 2006 Just Relevant. All rights reserved. 
+Copyright © 2006 Just Relevant. All rights reserved. 
