@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wwwi.co.uk privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314212112id_/http%3A//www.wwwi.co.uk/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wwwi.co.uk privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003182256id_/http%3A//www.wwwi.co.uk/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
