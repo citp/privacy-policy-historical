@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coupontweet.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316033200id_/https%3A//givingassistant.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coupontweet.com privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003042529id_/https%3A//givingassistant.org/privacy-policy) for the most accurate reproduction.*
 
 # Giving Assistant - Privacy Policy
 
