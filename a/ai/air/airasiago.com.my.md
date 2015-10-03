@@ -1,150 +1,160 @@
-> *The following text is extracted and transformed from the airasiago.com.my privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209054927id_/http%3A//www.airasia.com/my/en/privacy-policy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airasiago.com.my privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003222544id_/https%3A//www.airasiago.com.my/p/corporate/privacypolicy) for the most accurate reproduction.*
 
-# AirAsia | Privacy policy
+# AirAsiaGo. Personal Data Protection Policy | AirAsiaGo.com.my
 
-AirAsia is concerned about your right to privacy. Therefore, AirAsia pledges to be responsible when gathering your personal information and to protect your privacy in every possible way. Although, this Privacy Policy is not a contract and does not create any legal rights, however, it does serve as an expression of AirAsia’s commitment to protecting private personal information.
+This website (“Website”) is owned and operated by AAE Travel Pte. Ltd., a Singapore private company and joint venture between Expedia, Inc. and Air Asia Berhad.AAE Travel Pte. Ltd. understands that making bookings online involves a great deal of trust on your part. We take this trust very seriously, and make it a high priority to ensure the security and confidentiality of the personal information you provide to us. This Privacy Policy applies to data collected on this Website. Our Website is intended for use by individuals who are over 18 years of age. 
 
-It must be borne in mind that AirAsia reserves the right to change, amend and/or vary this Privacy Policy at any time and will notify users of the same by updating the policy here and by including a "NEWLY UPDATED" label with the "PRIVACY POLICY" link on the web sites governed by this policy for a period of 30 days.
+The terms “we”, “us”, “our” and “AAE” refer to AAE Travel Pte. Ltd. and its subsidiaries and corporate affiliates (collectively, the “AAE Companies”). An AAE corporate affiliate shall mean any entity (whether a person, corporation, partnership or otherwise) that directly or indirectly, controls, are controlled by, or are under common control with AAE. An entity shall be deemed to be in “control” of another entity when it holds fifty (50%) percent or more of voting shares in that entity or has management control of that entity).The term “you” refers to the customer visiting the Website and/or booking a reservation through us on this Website, or through our customer service agents.
 
-This Privacy notice aims to answer your questions about the sources and kinds of information AirAsia collects, how it is used, when it may be shared with others, and how we safeguard its confidentiality and security. We also provide you with ways to correct the data you provide us and the option to limit our sharing of this data with AirAsia’s authorised third parties.
+ _In General_. We receive and store any information you enter on our Website or give us in any other way. This includes information that can identify you ("personal information"), including your first and last name, telephone number, postal and email addresses, fax number, and, if you make a reservation through our Website, credit card information (such as credit card number, cardholder name, and expiration date). We also may request information about your hotel room preferences, loyalty, frequent flyer and/or car rental program information. You can choose not to provide information to us, but in general some information about you is required in order for you to register as a member; purchase products or services; complete a traveler profile; participate in a survey, competition or promotion; ask us a question; or initiate other transactions on our Website. 
 
-This Privacy notice is applicable to all users of AirAsia’s website @ [www.airasia.com](http://www.airasia.com/) regardless of the intention and without limitation to Travel Reservations, Corporate Sales, Marketing Research, and Customer Relations/Service.
+_Travel Companion Information_. When you make a reservation for someone else through this Website, we will request personal information and travel preferences about that individual. You must obtain the consent of other individuals and ensure such other individuals are aware of, understand and accept this Privacy Policy prior to providing us with their personal information and travel preferences, as any access to view or change their information will be available only through your account. We will collect, use and disclose that individual's personal information only for the purpose of making a reservation.
 
-Information collection  
-  
-To ensure that we successfully process your booking and to effectively manage our business, we collect and maintain personal information about you. We collect customer information from many sources for the purposes of understanding current or new demands, meeting these demands as well as to provide and personalise our services. The means of information collection, among others, are as following: 
+ _Information from Other Sources_. We also may periodically obtain both personal and non-personal information about you from affiliated entities, business partners and other independent third-party sources and add it to our account information. Examples of information we may receive include: updated delivery and address information, purchase history, and demographic information. 
 
-  * From you; when you voluntarily provide to us or to third party service provider(s) engaged by us; 
-  * From your browser; when you visit our website and your browser interacts with us; 
-  * From other sources and related links in connection with providing your transportation and/or accommodation needs and services; 
-  * From you when you interact with us through social media 
+_Call Monitoring_. Calls to and from our customer service help desk may be recorded or monitored for the purpose of quality control and for staff training. Call recordings will be maintained as long as reasonably necessary and will then be deleted. Any personal information obtained from you during the call will be treated in accordance with the provisions of this Privacy Policy. 
 
+**Generally,** AAE collects, uses and discloses your personal information for the following purposes:
 
+* AAE may also collect, use and disclose your personal information for the following _“AAE Additional Purposes”_ : 
 
-The personal information we collect about you may include but not limited to the following:
-
-  * Name, addresses and telephone numbers 
-  * Email addresses, fax numbers and mobile numbers or social media accounts 
-  * Flight information or details 
-  * Credit / Charge card number(s), including associated billing address(es) and expiration date(s) 
-  * Information necessary to facilitate travel or other services, including travel companion(s) names, emergency contacts, seating preferences and special dietary or medical needs 
-  * Passport number, NRIC number, nationality and country of residence 
-  * Use of products and services such as self-service devices, flight status notification and online check-in 
-  * Personal information provided via survey, contest, competition or other marketing research efforts 
-  * Personal information provided to customer-service representatives to research and resolve issues or questions or lodging complain 
-  * Corporate-contract, employer and/or other corporate affiliation (i.e. employer name, title, address and contact information) 
+  1. analytics and tracking, including facilitating the sale of analytical data
+  2. conducting market research and surveys to enable us to understand and determine customer location, preferences and demographics to develop special offers and marketing programmes in relation to AAE's travel products and services, and to improve our service delivery and your customer experience at our touchpoints;
+  3. providing additional travel products and services and benefits to you, including special offers, promotions, loyalty and reward programmes from AAE;
+  4. matching personal information with other data collected for other purposes and from other sources (including third parties) in connection with the provision, marketing or offering of travel products and services by AAE;
+  5. leads generation and management for marketing AAE's travel products and services;
+  6. administering contests, competitions and marketing campaigns, and personalizing your experience at AAE’s touchpoints;
+  7. rewarding you as part of any reward and recognition program you choose to join;
+  8. communicating to you advertisements involving details of our travel products and services, special offers and rewards, either to our customers generally, or which we have identified may be of interest to you (including but not limited to upselling, cross selling);
+  9. organizing promotional events and corporate social responsibility projects; and 
+  10. purposes which are reasonably related to the above.
 
 
 
-We also collect your information when you make or send job application via our official website @ [www.airasia.com](http://www.airasia.com/).
+In addition, where permitted by law, your personal information may be disclosed, for AAE Additional Purposes, to the vendors or other third party service providers in connection with promotions and services offered by AAE. For more information, see below.
 
-With the latest creation of our very own Corporate Blog, we would collect your information when you choose to sign up with us for the purpose of creating a profile under your control, leave comment or to generally use the Blogsphere except viewing / reading a blog. Information that would be collected by us includes but not limited to your personal identifiable information, contact details and email address.  
-  
-Use of information collection  
-  
-Generally, we use your information for administrative purpose e.g. processing, confirming, fulfilling and completing your transactions and requests for our services. In the event there is alteration / change of flight schedule, we will use information provided by you while making your reservation through our official website @ [www.airasia.com](http://www.airasia.com/), our call centre, our sales counter, to contact and notify you of the alteration / change. In addition to this, your information will be used for the purposes of accounting (billing and auditing), immigration, custom control, safety, security, statistical and marketing analysis, information systems management, system testing, maintenance and development, operational, support, customer surveys, customer relations and to improve and help us in any future dealings with you, for example by identifying your requirements and preferences.
+* AAE may also collect, use and disclose your personal information for the following _“Preferred Partners Additional Purposes”_ : 
 
-If you have elected to be a member, you will also be a participant in the AirAsia BIG Loyalty Programme which is administered by our affiliate Think Big Digital Sdn Bhd. In such cases, your personal information will also be used to administer your membership and offer you the perks which you are eligible for under this Programme.
-
-In employment scenario, we would use information that you voluntarily provide to compare against the job specification / criteria we are seeking / intending to employ.
-
-Whenever required by law, we will disclose your information to the government bodies or authorities or third parties pursuant to a subpoena or other legal process accordingly. Further, we may also use or disclose your information as permitted by law to protect the rights or property of AirAsia, our customers, our website, or its users. We may also disclose your information, whether in part or in full, to our contracted or authorised companies such as our data processors.
-
-As part of our effort to serve you better, we are constantly enhancing and expanding our services to fulfill your ever-growing needs. In order to realise this business aim, we will from time to time appoint, authorise or contract with strategic business partner. Your information will be disclosed to these business partners, authorised or contracted third party, service providers or advertisers to make available promotions, offers, products or services, which may not belong to us. However, to ensure that you will not receive unwanted communications, only information with regards to promotions, offers, products or services that you selected or marked as interested through our member profile will be shared with the respective business partners, service providers or third parties.
-
-In the circumstances set out in this policy where AirAsia passes your information to a third party, we will ensure that the security measures that such party has in place in relation to the processing of your data are at least as stringent as those employed by AirAsia if not better. This does not apply where we are required by law to pass your information to a third party.
-
-In the event we go through a business transition, such as sale of part or all of our assets, merger or acquisition, your information will likely form part of this transition and be transferred.  
-  
-Sharing of information collected  
-  
-Personal information we collect from you may be disclosed to:
-
-  * our bank for authorisation of transaction and for payment 
-  * relevant third parties eg. booking agents and hotels 
-  * authorised government bodies if legally required to do 
-  * our subsidiaries and affiliates who may be located in or outside Malaysia.
+  1. conducting market research and surveys to enable us to understand and determine customer location, preferences and demographics to develop special offers and marketing programmes with our preferred partners;
+  2. matching personal information with other data collected for other purposes and from other sources (including third parties) in connection with the provision, marketing or offering of products and services (including promotions, loyalty and reward programmes) by our preferred partners;
+  3. leads generation and management for marketing the products and services offered by our preferred partners;
+  4. administering contests, competitions and marketing campaigns in connection with the products and services offered by our preferred partners;
+  5. sending you informational, recruitment and other notification messages communicated by our preferred partners;
+  6. communicating to you advertisements involving details of the products, services, special offers and rewards offered by our preferred partners, either to our customers generally, or which we or our preferred partners have identified may be of interest to you (including but not limited to upselling, cross selling); and
+  7. purposes which are reasonably related to the above. 
 
 
 
-AirAsia does not sell or rent any personal information you provide on our web site to any other parties. AirAsia may share anonymous and/or aggregated information about all our users with third parties.  
-  
-Children under 13 years old  
-  
-AirAsia does not collect or maintain information directly from those under 13 years old. If you are under 13 years old, please do not provide your name and address or other contact details or personal identifiable information of any kind whatsoever.
+In addition, where permitted by law, your personal information may be disclosed, for Preferred Partners' Additional Purposes, to the vendors or other third party service providers in connection with promotions and services offered by AAE’s preferred partners. For more information, see below.
 
-Information of children under the age of 13 would only be collected to facilitate online bookings of flight or room reservation. Such information should only and would normally be provided by the parent or guardian of someone under 13 years old. In addition, only limited information of the child such as name, age, date of birth, traveling document, would be collected by AirAsia.
+In relation to particular travel products and services or in your interactions with us, we may also have specifically notified you of other purposes for which we collect, use or disclose your personal information. If so, we will collect, use and disclose your personal information for these additional purposes as well, unless we have specifically notified you otherwise.
 
-If you are a Parent of Guardian of someone under 13 years old who has provided us information without your knowledge and consent, you may request that we remove this information by contacting us at [online feedback form](https://web.archive.org/my/en/e-form.page).  
-  
-Access to your personal information  
-  
-You may access your personal information by [Manage My Booking](https://member.airasia.com/login.aspx) or our [online feedback form](https://web.archive.org/my/en/e-form.page) .  
-  
-Correction/updating personal information  
-  
-You may correct or update your personal information by clicking [Manage My Booking](https://member.airasia.com/login.aspx) and/or via our [online feedback form](https://web.archive.org/my/en/e-form.page).
+You have a choice to withdraw your consent for receiving marketing or promotional materials/communication. You may contact us using the contact details found at the bottom of this privacy policy.
 
-The instructions to do this are also clearly outlined in every piece of promotional material issued by AirAsia.  
-  
-Links to other sites  
-  
-AirAsia web site contains links to other sites. Please be aware that we are not responsible for the privacy practices or content of those sites. We encourage you to read the privacy statements of each site that collects information from you. AirAsia's privacy policy applies solely to information collected by AirAsia on this web site.  
-  
-Newsletter  
-  
-By joining the AirAsia email update service, you expressed your agreement for us to contact you via email to inform you of our latest updates, products and services. If you do not wish to remain a subscriber, you are able to remove your details from the subscriptions list by [Manage My Booking](https://member.airasia.com/login.aspx) or you may click “unsubscribe” from every newsletter you received.  
-  
-Contests & surveys  
-  
-From time-to-time AirAsia may provide you the opportunity to participate in surveys or contests on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (e.g. name and address).
+Please be aware that once we receive confirmation that you wish to withdraw your consent for marketing or promotional materials/communication, it may take up to 30 working days for your withdrawal to be reflected in our systems. Therefore, you may still receive marketing or promotional materials/communication during this period of time. Please note that even if you withdraw your consent for the receipt of marketing or promotional materials, we may still contact you for other purposes in relation to the travel products and services that you hold or have subscribed to with AAE.
 
-  We use this information to update contest participants, notify contest winners, and award prizes and improve the site experience for our Customers where information would be collected in anonymous survey basis.
+All information that we collect from you is retained in the servers of the AAE Companies.. 
 
-We often use a third party service provider to conduct these surveys or contests; these companies are prohibited from using our users’ personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.  
-  
-Security  
-  
-Our online reservation system resides on a secure server that encrypts your purchase information using Secure Socket Layers. We use all reasonable endeavours to protect personal information from loss, misuse and alteration. Only authorised employees and agents, who are under appropriate confidentiality obligations, will have access to your personal information. However, you will be responsible for any user ID or password that is used on our web site. You should take due care to protect them.  
-  
-Cookies  
-  
-A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site.
+_Email Communications_. We want to make it easy for you to take advantage of travel-related opportunities on our Website. One way we do this is by sending you email messages that contain information about your travel-related interests. For example, if you search for a flight to New York on our Website and have saved your itinerary or otherwise not yet booked your travel, we may send you an email message reminding you about your saved travel itinerary or about a special airfare to New York. Similarly, if you receive an email from us about New York travel and demonstrate an interest in New York hotels by affirmatively clicking on a link about New York hotels in the email, you may receive an email about New York hotel offers or other destination information. We believe these email messages will provide you with useful information about travel-related special offers available through our Website. Please note that you will have the opportunity to choose not to receive these email messages in any such email we send. 
 
-This enables our system to recognise your browser and remember your passenger names and billing information so that you won't have to retype it. The address and passenger information is saved to your hard drive by the AirAsia web server. This information can only be accessed by the AirAsia web server; Internet users and other companies cannot access this information. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.
+#### With whom we share your information
 
-For security reasons, your credit card number is not saved. You must type the credit card number each time you make a purchase.
+AAE will take reasonable steps to protect your personal information against unauthorized disclosure. Subject to the provisions of any applicable law, your personal information may be disclosed, for the purposes listed above (where applicable), to the following:
 
-We also utilise cookies to track the effectiveness of online advertising. This information is treated confidentially and will not be shared with anyone outside of AirAsia. AirAsia will only use this information to make informed decisions with regard to the purchase of online advertising. This enables AirAsia to maintain low costs and low fares for you, our Customers.  
-  
-Site tracking  
-  
-We use tracking software to monitor customer traffic patterns and site usage to help us develop the design and layout of the site to better meet the needs of visitors to AirAsia.com. This software does not enable us to capture any personally identifying information.  
-  
-Use of pixels  
-  
-In order to understand how our customers interact with the emails and the content that we send, we use pixels in the email in order to understand who has opened the message. In order to provide our content in the most interesting way, we may also use pixels to learn whether you can receive emails in text or html form.  
-  
-Log files  
-  
-We use IP addresses to analyse trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.  
-  
-Your consent  
-  
-AirAsia or any third party service provides engaged by us will obtain your consent to collect and use your personal information at the time of collection, subject to certain legally prescribed circumstances where your consent is not required.
+  * _Suppliers_ , such as hotel, airline, car rental, insurance companies and activity providers, who fulfill your travel reservations. Throughout this Website, all services provided by a third-party supplier are described as such. We encourage you to review the privacy policies of any third-party travel supplier whose products you purchase through this Website. Please note that these suppliers also may separately contact you as necessary to obtain additional information about you, facilitate your travel reservation, or respond to a review you may submit. 
+  * _Third-party vendors_ who provide services or functions on our behalf, including banks, credit card processing, business analytics, customer service, marketing, promotions, distribution of surveys or sweepstakes programs, and fraud prevention. We may share your personal information with telecommunications, content or other service providers to facilitate their provision of content or services, or for interconnection, inter-operability, system operation and maintenance and billing between service providers. We may also authorize third-party vendors to collect information on our behalf, including as necessary to operate features of our Website or to facilitate the delivery of online advertising tailored to your interests. Third-party vendors have access to and may collect information only as needed to perform their functions and are not permitted to share or use the information for any other purpose. 
+  * _Business partners_ with whom we may jointly offer products or services, for example financial institutions, credit card services, telecommunications providers or travel-related services, as well as commercial shops and retailers in relation to providing rewards and benefits. You can tell when a third party is involved in a product or service you have requested because their name will appear with ours. If you choose to sign up to these optional, jointly-offered services, we may share information about you, including your personal information, with those business partners so that they can contact you directly by email or post about the products and services that you have signed up to receive. Such personal information may include your contact information as well as other information necessary to provide the travel product or service you have requested. Those third party business partners will not use your personal information for direct marketing purposes, except when permitted to do so by applicable law. However, please note that we do not control the privacy practices of these third-party business partners. 
+  * _Referring websites._ If you were referred to this Website from another website, we may share some information about you with that referring website so that they can contact you directly by email or post about their products and services. We have not placed limitations on the referring websites use of your personal information and we encourage you to review the privacy policies of any website that referred you to this Website. 
+  * _Companies within our corporate family._ With your prior specific consent, we may share your personal information with our corporate affiliates in the leisure and travel sector and their respective employees. This sharing enables us to: provide you with information about products and services, both leisure- and travel-related, which might interest you; address your questions and requests in relation to your customer accounts, subscription and billing arrangements with us as well as our travel products and services; activate, deactivate, install, maintain and operate our systems and/or services.. To the extent that our corporate affiliates have access to your information, they will follow practices that are at least as restrictive as the practices described in this Privacy Policy. 
+  * _Companies providing services to AAE Companies_ , such as insurance, auditing, legal or consultancy services, as well as agents, contractors or third party service providers who provide operational services to AAE, such as courier services, telecommunications, information technology, payment, printing, billing, payroll, processing, technical services, training, market research, call center, security or other services.
+  * _Others_ , including any business partner, investor, assignee or transferee (actual or prospective) to facilitate business asset transactions (which may extend to any merger, acquisition or asset sale) involving any of the AAE Companies; and any other party to whom you authorize us to disclose your personal information.
 
-Generally, in using the AirAsia web site, you consent to the collection and use of this information by AirAsia in the ways described above (which may change from time to time) unless and until you inform us to the contrary. , If you have provided us personal information of third party individuals in your travel party, you are required to obtain the individual's prior consent and you represent and warrant that you had or have their consent or are otherwise entitled to provide their personal information to us.
 
-In most instances, it is obligatory for you to provide us with your personal information in order to allow us to satisfy your request or provide you with the service that you have requested for. However, where applicable, we will provide you with an avenue to opt-out or unsubscribe from receiving marketing, communications, promotional offers, newsletters or any other communications from AirAsia.  
-  
-Contact information  
-  
-If you still have questions about our privacy policy, please visit Frequently Asked Questions on our web site where you may submit any questions or complaints you may have. We request your name, phone number, email address and comments so that we may respond to your concerns effectively and work to improve our service. If you have any additional concerns relating to AirAsia's collection and use of your personal information, you may  contact our Privacy Compliance Officer at [airasia_privacycompliance@airasia.com](mailto:airasia_privacycompliance@airasia.com). or contact us at +603 8660 4333.  
-  
-Our acceptable use policy / website disclaimer  
-  
-With reference to the terms of use of our Official Website @ [www.airasia.com](http://www.airasia.com/) , please refer to our [Acceptable Use Policy](https://web.archive.org/my/en/terms-of-use.page) for further information.  
-  
-Our terms and conditions of carriage  
-  
-The booking and carriage of guests and baggage is subject to the Terms and Conditions of Carriage and [Fare Rules](https://web.archive.org/my/en/our-fares/fare-rules.page).
+
+We also may share your information: 
+
+  * Where required by local or foreign law in the good faith belief that disclosure is necessary to comply with applicable laws or legal processes. 
+  * When we believe it is appropriate to investigate, prevent, or take action regarding illegal or suspected illegal activities covering both local and foreign investigations; and upon request from law enforcement agencies in your jurisdiction, for example in order to protect and defend the rights, property, or safety of the AAE Companies, their websites, or users of their websites; and in connection with our Terms of Use and other agreements. 
+  * In connection with a corporate transaction, such as a sale of a subsidiary or a division, merger, consolidation, or asset sale, or in the unlikely event of winding-up. 
+
+
+
+We also may share aggregate or anonymous information with third parties, including advertisers and investors. For example, we may tell our advertisers the number of visitors this Website receives or the most popular hotels and holiday destinations. This information does not contain any personal information and is used to develop content and services we hope you will find of interest and to audit the efficacy of our advertising.
+
+#### How you can access your information
+
+You can access, correct and update your contact information by visiting the My Profile page on this Website. You can close your account by contacting us at the email address listed below or by going to the Account Closure page of My Profile. Please note that after you close an account, if we no longer hold such information, you will not be able to sign in or access any of your personal information. However, you can open a new account at any time. Please also note that we may retain certain information associated with your account, including for analytical purposes as well as for record keeping integrity for a period of time, after which we will ensure such information is securely destroyed. Information we may retain includes, for example, accounting data, data for auditing purposes and transactional information and/or information required to be retained for compliance with law. 
+
+If you do not hold an account with us or wish to contact us in relation to any personal information that is not displayed in your account, you have the right to ask us to access, correct, delete or modify the information that we hold about you by emailing us at the email address listed below. 
+
+#### Your choices with respect to collection and use of your information
+
+When you make a booking for a travel reservation with us or choose to access certain services we provide, information we request that is mandatory will be marked with a red asterisk. As discussed above, you can choose not to provide us with requested information, but as a result you may not be able to complete your booking or access the requested services.
+
+You also have the right to add or update information and close your account as described above. 
+
+When you register as a member on this Website, you will be given a choice as to whether you want to receive email messages from us about special offers from us, as well as email messages about products and services of selected third parties. As a registered member on this Website, you can modify your choices at any time through the Email Settings of the My Profile page. You will also be given the same choices when you fill in any form on our Website by which you provide your email address to us. 
+
+Whether registered as a member or not, you also will be given the opportunity to unsubscribe from messages in any such email we send. Please note that we reserve the right to send you other communications, including service announcements, loyalty program updates, administrative messages, and surveys relating either to your account or to your transactions on this Website, without offering you the opportunity to opt out of receiving them. 
+
+The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Please note that if you refuse to accept cookies from this Website, you will not be able to access portions of our Website.
+
+#### Cookies and other Web technologies
+
+We automatically collect some information about you and your computer when you visit this Website. For example, we will collect your IP address, Web browser software (such as Firefox, Internet Explorer or Safari), and referring website. We also may collect information about your online activity, such as trips viewed and purchases made. One of our goals in collecting this automatic information is to help customize your user experience. 
+
+As a member or visitor to this Website, you will be assigned a permanent cookie file on your computer's hard drive. When you access the My Trips or My Profile areas of this Website, reserve or purchase travel, or use selected travel planning tools, we may require you to sign in as a member, using your Member ID and password. Once you sign in as a member, we record the Member ID and the name on the member account in the cookie file on your computer. We may also record your password in this cookie file as encrypted data if you checked the box entitled "Save this password for automatic sign-in." Your Member ID, password, and the name on your member account is stored in the cookie file as encrypted data, so no one can view the information it contains by obtaining unauthorised access to your computer. Permanent cookie files remain on your computer's hard drive until you manually delete the file.
+
+In addition to the above cookies, we use Local Shared Objects, also referred to as flash cookies, on our Website. These are used to enhance your user experience, for example, by storing your user preferences and settings, such as your volume/mute settings, and in connection with animated content on our Website. Local Shared Objects are similar to browser cookies, but can store data more complex than simple text. By themselves, they cannot do anything to or with the data on your computer. Like other cookies, they can only access personally identifiable information that you have provided on this Website, and cannot be accessed by other websites. To find out more about flash cookies or how to disable them, please click [here](http://kb2.adobe.com/cps/526/52697ee8.html).
+
+This Website may also use Web beacons (also known as clear gifs, pixel tags or Web bugs), which are tiny graphics with a unique identifier, similar in function to cookies, that are placed in the code of a Web page. We use Web beacons to monitor the traffic patterns of users from one page within our Website to another, to deliver or communicate with cookies, to understand whether you have come to our Website from an online advertisement displayed on a third-party website, and to improve Website performance. We also may allow our service providers to use Web beacons to help us understand which emails have been opened by recipients and to track the visitor traffic and actions on our Website. This helps us measure the effectiveness of our content and other offerings. 
+
+You may block, delete or disable cookies, Web beacons and other Web technologies by amending your browser or device settings. However, if you do disable these technologies, you may not be able to take advantage of certain features or services on our Website, including our travel services and planning tools. Disabling these technologies may also mean that you are required to re-enter account information (such as Member ID and password) on several occasions during any browsing session. For more information, please refer to your browser or device settings.
+
+If you have any questions about our use of cookies or other technologies, please email us at our customer care email address shown below.
+
+#### Display of tailored advertising/Your choices
+
+_Data collected by business partners and ad networks to serve you with relevant advertising._ The advertisements you see on this Website are served by us or by our service providers. But we also allow third parties to collect information about your online activities through cookies and other technologies. These third parties include (1) other AAE Companies; (2) business partners, who collect information when you view or interact with one of their advertisements on our Websites; and (3) advertising networks, which collect information about your interests when you view or interact with one of the advertisements they place on many different websites on the Internet. The information gathered by these third parties is used to make predictions about your characteristics, interests or preferences and to display advertisements on our Websites and across the Internet tailored to your apparent interests. We do not permit these third parties to collect personal information about you (such as email address) on our Website, nor do we share with them any personal information about you.
+
+Please note that we do not have access to or control over cookies or other technologies these third parties may use to collect information about your interests, and the information practices of these third parties are not covered by this Privacy Policy. Some of these companies are members of the Network Advertising Initiative or the Digital Advertising Alliance, which offer a single location to opt out of ad targeting from member companies. To learn more, please click [here](http://www.networkadvertising.org/) or [here](http://www.aboutads.info/).
+
+Data collected by companies that operate cookie-based exchanges to serve you with relevant advertising. Like other companies operating online, this Website participates in cookie-based exchanges where anonymous information is collected about your browsing behavior through cookies and other technologies and segmented into different topics of interest (such as travel). These topics of interest are then shared with third parties, including advertisers and ad networks, so they can tailor advertisements to your apparent interests. We do not share personal information (such as your email address) with these companies and we do not permit these companies to collect any such information about you on our Website. Please click [here](http://www.bluekai.com/registry/) to learn more about cookie-based exchanges, including how to access information about the topics of interest associated with cookies on your computer and how to decline participation in these programs. 
+
+#### Using the mobile phone and tablet Apps (the “Mobile Apps”)
+
+When you use our Mobile App, we collect and use information about you in the same way and for the same purposes as we do when you use this Website.
+
+In addition to this, we also use some other information that we collect automatically when you use our Mobile Apps. Specifically:
+
+  * We collect information about Mobile App functionality that you access and use. This allows us to identify those areas of the Mobile App that are of interest to our customers so that we can refine and continuously improve the Mobile App. The information we collect for this purpose does not enable us to directly identify you.
+  * Each Mobile App also sends us the device's unique device identifier (or "UID"), a sequence of numbers or characters that are unique to your mobile device. We use this only on the first opening of the Mobile App so that we can confirm to our advertising networks the number of downloads resulting from clicks on their respective ad banners and other marketing tools.
+  * When you use a Mobile App, you can choose to allow access to your current location – provided by your mobile device using GPS or similar technologies – in order to identify nearby hotels, airports, or other travel service providers. If you choose to allow access, this location data may be collected anonymously as part of search requests logged by our servers. You can switch off the Mobile App’s access to your location at any time through your phone settings menu.
+  * Each Mobile App will also send us error-reporting information in the event that it crashes or hangs. This enables us to investigate the error and to improve the stability of the Mobile App for future releases. As part of these error reports, the Mobile App sends us information about the mobile device type and version, the UID, the time the error occurred, the feature being used and the state of the application when the error occurred. We do not use this information for any purpose other than investigating and remedying the error.
+
+
+
+You always have the ability to control what information a Mobile App sends to us. You can exercise this control either by changing the settings of the Mobile App under its setting menu or changing the settings of your mobile device. Alternatively, you can remove the Mobile App from your mobile device entirely and access our services through our Website.
+
+#### How we protect your information
+
+We want you to feel confident about using this Website to make hotel and travel bookings, and we are committed to protecting the information we collect. While no website can guarantee security, we have implemented appropriate administrative, technical, and physical security procedures to help protect the personal information you provide to us. For example, only authorized employees are permitted to access personal information, and they only may do so for permitted business functions. In addition, we use encryption when transmitting personal information that is sensitive to you (e.g., credit card details) between your system and ours, and we employ firewalls and intrusion detection systems to help prevent unauthorized persons from gaining access to your information.
+
+#### External links
+
+If any part of this Website links you to other websites, those websites do not operate under this Privacy Policy. We recommend you examine the privacy statements posted on those other websites to understand their procedures for collecting, using, and disclosing personal information. 
+
+#### Changes to this Privacy Policy
+
+We may update this Privacy Policy in the future. We will notify you about material changes to this Privacy Policy by sending a notice to the email address you provided to us or by placing a prominent notice on our Website. Any changes we may make to our Privacy Policy in the future will be posted on this page. We may contact you where appropriate. Please check back frequently to see any updates or changes to our Privacy Policy.
+
+#### How you can contact us
+
+If you have questions about either this Privacy Policy (or your travel planning or purchases) or any complaints about the processing of your personal information, please contact our data privacy officer at [aaeprivacy@aaetravel.com](mailto:aaeprivacy@aaetravel.com). You can also contact your local data protection authority for further information or to file a complaint.
+
+We will do our best to respond to your request within 24 hours.   
+This Privacy Policy is effective as of 23 April 2015.
+
+AAE Travel Pte. Ltd.   
+(Company Registration Number: 201113337M)   
+50 Raffles Place, #32-01, Singapore Land Tower, Singapore 048623 
