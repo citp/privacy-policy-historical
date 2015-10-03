@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the novelguide.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618162318id_/http%3A//novelguide.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novelguide.com privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003051747id_/http%3A//novelguide.com/privacy_statement.html) for the most accurate reproduction.*
 
 # Privacy Statement | Novelguide
 
@@ -32,6 +32,6 @@ If you would like to remove your information from our database to not receive fu
 
 **Correct/Update:** This site gives users the option for changing and modifying information previously provided. You can send email to [admin@Novelguide.com](mailto:admin@novelguide.com?Subject=Novelguide%20Question)
 
-**Contacting the Web Site:** If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [](mailto:webmaster@novelguide.co%3Cdiv%20class=)[Login](http://www.studyhall.novelguide.com/user-login?destination=ng/privacy_statement.html) [Register](http://www.studyhall.novelguide.com/user/register)
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
 
-To unlock the contents for free, please Login / Register.
+**Contacting the Web Site:** If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [webmaster@novelguide.com](mailto:webmaster@novelguide.com?Subject=Novelguide%20Question)
