@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopmania.biz privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601050101id_/http%3A//cp.shopmania.com/privacy/biz) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopmania.biz privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003112010id_/http%3A//cp.shopmania.com/privacy/biz) for the most accurate reproduction.*
 
 # Privacy policy
 
