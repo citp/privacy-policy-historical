@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the getcloudapp.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608004453id_/http%3A//www.getcloudapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getcloudapp.com privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003041803id_/http%3A//getcloudapp.com/privacy) for the most accurate reproduction.*
 
-# CloudApp
+# CloudApp - Privacy
 
 We at CloudApp recognize that you expect privacy and security when it comes to information that personally identifies you and allows you to be individually contacted ("Personal Information"). We adopted the following online privacy policy because we understand the need to safeguard the information you may be providing to us at our websites. 
 
@@ -43,6 +43,32 @@ We will not sell or distribute your Personal Information except to provide produ
 Business transfers 
 
 If CloudApp, or substantially all of its assets were acquired, or in the unlikely event that we go out of business or enter bankruptcy, Personal Information would be one of the assets transferred to or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of CloudApp may continue to use the Personal Information as set forth in this policy. 
+
+### Data Integrity
+
+CloudApp processes personal information only for the purposes for which it was collected and in accordance with this Policy or any applicable service-specific privacy notice. We review our data collection, storage, and processing practices to ensure that we only collect, store, and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary. 
+
+### Safe Harbor Framework
+
+CloudApp adheres to the U.S., EU, and Swiss Safe Harbor Frameworks which are administered by the U.S. Department of Commerce. We comply with the Safe Harbor privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement. Details on the frameworks are found at: <http://export.gov/safeharbor/>. 
+
+### Enforcement
+
+Enforcement – Customer Service is staffed to assist and support our customers’ activities and accounts, and also to enforce adherence to our User Agreement terms and conditions. Customer Service can suspend and/or terminate service for any account for breach of those terms or operating in a manner inconsistent with the terms of service. CloudApp’s Human Resources department also works closely with department heads to ensure policies are adhered to and when necessary to terminate employment for any employee, permanent or temporary, that breaches the terms of hire, or presents a security risk. 
+
+CloudApp regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or CloudApp's treatment of personal information by contacting us through this web site or by writing to us at Your Privacy Rights, c/o CloudApp, PO Box 29502 #96560, Las Vegas, NV 89126-9502. When we receive formal written complaints at this address, it is CloudApp's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between CloudApp and an individual. 
+
+European residents with inquiries regarding data privacy can contact us at the above address or at privacy@getcloudapp.com. If, after contacting us, you believe your data privacy inquiry has not been resolved to your satisfaction, you may contact the Direct Marketing Association at:
+
+Safe Harbor  
+Direct Marketing Association  
+1615 L St. NW, Ste 1100  
+Washington, DC 20036-5624  
+[safeharbor@the-dma.org](mailto:safeharbor@the-dma.org)  
+<https://thedma.org/consumer-guide/>
+
+[We self-certify compliance with:](https://safeharbor.export.gov/list.aspx)   
+[ ](http://www.export.gov/safeharbor)
 
 ### Amendments
 
