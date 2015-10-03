@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneyexpert.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318093455id_/http%3A//www.moneyexpert.com/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyexpert.com privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003070522id_/http%3A//www.moneyexpert.com/information/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,11 +20,11 @@ If you have any queries about this Privacy Policy or any requests concerning you
 
 Data Protection Officer   
 MoneyExpert Limited,   
-Craven House,   
-Station Approach,  
-Godalming,  
-Surrey,  
-GU7 1EX
+Huxley House,   
+Weyside Park,   
+Catteshall Lane,   
+Godalming,   
+GU7 1XE
 
 ## Why we collect and use your personal information
 
