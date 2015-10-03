@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beastgrip.com privacy policy that was archived on 2015-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150330024445id_/http%3A//beastgrip.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beastgrip.com privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003111550id_/http%3A//beastgrip.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Beastgrip Pro
+# Privacy Policy - BEASTGRIP CO
 
 PRIVACY STATEMENT
 
@@ -74,5 +74,4 @@ If our store is acquired or merged with another company, your information may be
 
 QUESTIONS AND CONTACT INFORMATION
 
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at info@beastgrip.com  
-\---- 
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at info@beastgrip.com or by mail at:
