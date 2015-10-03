@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the getcloudapp.com privacy policy that was archived on 2015-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608004453id_/http%3A//www.getcloudapp.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the getcloudapp.com privacy policy that was archived on 2015-10-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151003041803id_/http%3A//getcloudapp.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <!-- Segment.io -->
@@ -36,8 +36,11 @@
 
   <link href="/assets/css/normalize.css" rel="stylesheet">
   <link href="/assets/css/magnific.css" rel="stylesheet">
-  <link href="/assets/css/global.css" rel="stylesheet">
-  <link href="/assets/css/home.css" rel="stylesheet">
+  <link href="/assets/css/base.css" rel="stylesheet">
+  <link href="/assets/css/modals.css" rel="stylesheet">
+  <link href="/assets/css/confirmation.css" rel="stylesheet">
+  <link href="/assets/css/new_home.css" rel="stylesheet">
+  <link href="/assets/css/pro-features.css" rel="stylesheet">
   <link href="/assets/css/referrals.css" rel="stylesheet">
   <link href="/assets/css/blog.css" rel="stylesheet">
   <link href="/assets/css/help.css" rel="stylesheet">
@@ -45,7 +48,11 @@
   <link href="/assets/css/teams.css" rel="stylesheet">
   <link href="/assets/css/plans.css" rel="stylesheet">
   <link href="/assets/css/bootstrap.css" rel="stylesheet">
-  <link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
+  <link href="/assets/css/ouibounce.css" rel="stylesheet">
+  <link href="/assets/css/autodownload.css" rel="stylesheet">
+
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
+  <script src="/assets/js/js.cookie.js"></script>
   <script src="/assets/js/jquery.min.js"></script>
   <script src="/assets/js/waitforimages.min.js"></script>
   <script src="/assets/js/waypoints.min.js"></script>
@@ -54,11 +61,12 @@
   <script src="/assets/js/application.js"></script>
   <script src="/assets/js/teams.js"></script>
   <script src="/assets/js/jssor.sliders.mini.js"></script>
+  <script src="/assets/js/ouibounce.min.js"></script>
 
   <link href="/favicon.ico" rel="shortcut icon">
   <link href="/feed.xml" rel="alternate" type="application/atom+xml">
 
-  <title>CloudApp</title>
+  <title>CloudApp - Privacy</title>
 
   <!-- Recurly.js -->
   <script src="https://js.recurly.com/v3/recurly.js"></script>
@@ -82,9 +90,12 @@
   
 
 </head>
-<body class="demo-loaded begin-demo"><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
+<body id="page-privacy" class="demo-loaded"><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
+  <!-- 
+  <div class="flash-message"></div>
+
   <!-- Hero -->
-  <div id="hero">
+  <div class="nav">
     <header class="container">
       <div class="row">
         <div class="col-md-3 col-sm-4 col-xs-12">
@@ -95,14 +106,18 @@
             <ul>
               <li><a href="/plans/">Plans</a></li>
               <li><a href="/team-plans/">Teams</a></li>
-              <li><a class="sign-up-modal" href="http://my.cl.ly/register" onclick="_gaq.push(['_trackEvent', 'Sign Up', '/']);">Sign Up</a></li>
-              <li class="sign-in-link"><a href="https://my.cl.ly/login">Login</a></li>
+              <li><a href="/download">Download</a></li>
+              <li><a class="sign-up-modal" href="http://my.cl.ly/register" onclick="ga('send', 'event', 'Sign Up Button Clicked', window.location.pathname, 'Free');">Sign Up</a></li>
+              <li class="sign-in-link"><a href="https://my.cl.ly/login" data-promo="">Login</a></li>
+
             </ul>
           </nav>
         </div>
       </div>
     </header>
   </div>
+  
+
   
 
   <div id="blog">
@@ -120,7 +135,7 @@
             <h3>Why we request information about you</h3>
 
             <p>
-              CloudApp collects and retains Personal Information about you only when you have communicated with us by email (we'll collect your email address), when you register to use CloudApp's services (we'll ask for your name and email address), and when you register for paid services (we'll ask for general information such as your name, email address, billing address, and credit card information). 
+              CloudApp collects and retains Personal Information about you only when you have communicated with us by email (we'll collect your email address), when you register to use CloudApp's services (we'll ask for your name and email address), and when you register for paid services (we'll ask for general information such as your name, email address, billing address, and credit card information).
             </p>
             <p>
               We use that information to transact business with you and deliver requested services from time to time, as well as services improvement, contact, and research.
@@ -129,7 +144,7 @@
             <h3>How we protect your information</h3>
 
             <p>
-              The information we receive from you is protected against unauthorized access once we receive it. We limit the access to your information to employees who have a business reason for accessing it. When collecting financial information from you, we use secure socket layer software (SSL).  
+              The information we receive from you is protected against unauthorized access once we receive it. We limit the access to your information to employees who have a business reason for accessing it. When collecting financial information from you, we use secure socket layer software (SSL).
             </p>
             <p>
               Despite our continual and evolving efforts to protect your personal information, we cannot guarantee the security of your Personal Information.  You acknowledge and agree that we make no such guarantee.
@@ -153,7 +168,7 @@
               Links to other web sites
             </p>
             <p>
-              Our web sites may contain links to and from other web sites. Some links may be in the form of display advertising. We cannot guarantee that web sites other than our websites will respect and protect your Personal Information like we do. For your own protection, you should go to and read the privacy statements/policies of other web sites when you visit them.  
+              Our web sites may contain links to and from other web sites. Some links may be in the form of display advertising. We cannot guarantee that web sites other than our websites will respect and protect your Personal Information like we do. For your own protection, you should go to and read the privacy statements/policies of other web sites when you visit them.
             </p>
             <p>
               We are not responsible for the content of websites other than our web sites.
@@ -162,19 +177,55 @@
             <h3>Your consent</h3>
 
             <p>
-              When you provide us with Personal Information, you consent to the collection and use of this information by CloudApp. 
+              When you provide us with Personal Information, you consent to the collection and use of this information by CloudApp.
             </p>
 
             <h3>Disclosure</h3>
 
             <p>
-              We will not sell or distribute your Personal Information except to provide products or services you have requested, when we have permission, or it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Terms of Service, or as otherwise required by law.  
+              We will not sell or distribute your Personal Information except to provide products or services you have requested, when we have permission, or it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Terms of Service, or as otherwise required by law.
             </p>
             <p>
               Business transfers
             </p>
             <p>
               If CloudApp, or substantially all of its assets were acquired, or in the unlikely event that we go out of business or enter bankruptcy, Personal Information would be one of the assets transferred to or acquired by a third party.  You acknowledge that such transfers may occur, and that any acquirer of CloudApp may continue to use the Personal Information as set forth in this policy.
+            </p>
+
+            <h3>Data Integrity</h3>
+            <p>
+            CloudApp processes personal information only for the purposes for which it was collected and in accordance with this Policy or any applicable service-specific privacy notice. We review our data collection, storage, and processing practices to ensure that we only collect, store, and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
+            </p>
+
+            <h3>Safe Harbor Framework</h3>
+            <p>
+            CloudApp adheres to the U.S., EU, and Swiss Safe Harbor Frameworks which are administered by the U.S. Department of Commerce. We comply with the Safe Harbor privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement. Details on the frameworks are found at: <a href="http://export.gov/safeharbor/">http://export.gov/safeharbor/</a>.
+            </p>
+
+            <h3>Enforcement</h3>
+            <p>
+            Enforcement – Customer Service is staffed to assist and support our customers’ activities and accounts, and also to enforce adherence to our User Agreement terms and conditions. Customer Service can suspend and/or terminate service for any account for breach of those terms or operating in a manner inconsistent with the terms of service. CloudApp’s Human Resources department also works closely with department heads to ensure policies are adhered to and when necessary to terminate employment for any employee, permanent or temporary, that breaches the terms of hire, or presents a security risk.
+            </p>
+            <p>
+            CloudApp regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or CloudApp's treatment of personal information by contacting us through this web site or by writing to us at Your Privacy Rights, c/o CloudApp, PO Box 29502 #96560, Las Vegas, NV 89126-9502. When we receive formal written complaints at this address, it is CloudApp's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between CloudApp and an individual.
+            </p>
+            <p>
+            European residents with inquiries regarding data privacy can contact us at the above address or at privacy@getcloudapp.com. If, after contacting us, you believe your data privacy inquiry has not been resolved to your satisfaction, you may contact the Direct Marketing Association at:</p>
+            <p>
+            Safe Harbor<br>
+            Direct Marketing Association<br>
+            1615 L St. NW, Ste 1100<br>
+            Washington, DC 20036-5624<br>
+            <a href="mailto:safeharbor@the-dma.org">safeharbor@the-dma.org</a><br>
+            <a href="https://thedma.org/consumer-guide/">https://thedma.org/consumer-guide/</a>
+            </p>
+
+            <p>
+              <a href="https://safeharbor.export.gov/list.aspx">We self-certify compliance with:</a>
+              <br>
+              <a href="http://www.export.gov/safeharbor">
+                <img src="/assets/images/safe_harbor.jpg" height="100" alt="Safe Harbor">
+              </a>
             </p>
 
             <h3>Amendments</h3>
@@ -193,133 +244,140 @@
   </div>
 </div>
 
-  <div id="sign-up-form" class="modal mfp-hide">
+  <div id="sign-up-form" class="modal mfp-hide small_modal js-sign-up">
   <hgroup>
     <h1>CloudApp</h1>
     <h2>Create your free account</h2>
   </hgroup>
 
   <form accept-charset="UTF-8" action="#" method="post">
-    <div class="form-errors hide">
-    </div>
-    <p>
-      <label for="user_email">Email <small>Have an account? <a href="https://my.cl.ly/login" tabindex="999">Sign in</a></small></label>
-      <input id="user_email" name="email" size="30" type="email">
-    </p>
-    <p>
-      <label for="user_password">Password</label>
-      <input id="user_password" name="password" size="30" type="password">
-    </p>
-    <p class="terms">
-      <label>
-        <input id="user_accept_tos" name="accept_tos" type="checkbox" value="1" checked="checked">
-        I agree to the <a href="/terms" target="_blank">Terms of Service</a>
-      </label>
-    </p>
-    <p>
-      <input class="blue large w100" type="submit" value="Sign Up">
-    </p>
-    <hr>
-    <a href="https://my.cl.ly/auth/google_oauth2" class="sign-in-google-button">
-      Sign In with Google
-      <span class="google-button-icon"> </span>
-    </a>
-  </form>
-</div>
+  <a href="https://my.cl.ly/auth/google_oauth2" class="google_plus_button green button w100">
+    <div class="google_icon"></div>
+    Sign up using Google
+  </a>
 
+  <span class="or muted">or</span>
+  <div class="form_sign_up">
+    <div class="form-group email">
+      <input id="user_email" name="email" size="30" type="email" placeholder="email@example.com">
+      <div class="form-errors hide"></div>
+    </div>
+    <div class="form-group password">
+      <input id="user_password" name="password" size="30" type="password" placeholder="password">
+      <div class="form-errors hide"></div>
+    </div>
+    <input type="hidden" name="promo_code" data-promo="">
+    <input class="green button w100" type="submit" value="Get started for FREE">
+
+    <span class="terms f12">
+        By signing up you accept our <a href="/terms" target="_blank">Terms of use</a>
+    </span>
+
+  </div>
+</form>
+
+
+  <p class="text-center"><a class="extra_link" href="https://my.cl.ly/login" tabindex="999"> Already have an account?</a></p>
+</div>
   <div id="free-trial-form" class="modal mfp-hide">
   <div id="first_step">
     <hgroup>
       <h1>CloudApp</h1>
-      <h2>Start your 15 day free trial of <strong>Cloud</strong>App Pro</h2>
+      <h2>Start your 15 days free trial of <strong>Cloud</strong>App Pro</h2>
     </hgroup>
 
     <form accept-charset="UTF-8" action="#" method="post">
-      <ul class="advantages">
-        <li>500MB max drop size</li>
-        <li>Personalized branding</li>
-        <li>Unlimited drops</li>
-        <li>Custom domain</li>
-      </ul>
-      <p class="sumup">And much more!</p>
-      <div class="form-group">
-        <div id="first_name" class="form-group-half left">
-          <label for="user_first_name">First name</label>
-          <input id="user_first_name" name="first_name" data-recurly="first_name" size="30" type="text">
-        </div>
-        <div id="last_name" class="form-group-half right">
-          <label for="user_last_name">Last name</label>
-          <input id="user_last_name" name="last_name" data-recurly="last_name" size="30" type="text">
-        </div>
-        <div class="clear"></div>
-      </div>
-      <div id="phone_number" class="form-group">
-        <label for="user_phone_number">Phone number</label>
-        <input id="user_phone_number" name="phone_number" data-recurly="phone" size="30" type="text">
-      </div>
-      <div id="business_name" class="form-group">
-        <label for="user_business_name">Business or Organization name</label>
-        <input id="user_business_name" name="business_name" size="30" type="text">
-      </div>
-      <div id="number_of_employees" class="form-group">
-        <label for="user_number_of_employees">Number of employees</label>
-        <select id="user_number_of_employees" name="number_of_employees">
-          <option value="">Select below</option>
-          <option value="1">1 - Just Me</option>
-          <option value="2-4">2-4</option>
-          <option value="5-9">5-9</option>
-          <option value="10-19">10-19</option>
-          <option value="20-49">20-49</option>
-          <option value="50-99">50-99</option>
-          <option value="100-199">100-199</option>
-          <option value="200+">200+</option>
-        </select>
-      </div>
-      <div id="number" class="form-group">
-        <label for="user_number">Credit card number</label>
-        <input id="user_number" data-recurly="number" size="30" type="text">
-      </div>
-      <div class="form-group">
-        <div id="cvv" class="form-group-half left">
-          <label for="user_cvv">Security code (CVV)</label>
-          <input id="user_cvv" data-recurly="cvv" size="30" type="text">
-        </div>
-        <div id="month" class="form-group-half">
-          <label for="user_month">Expiry date</label>
-          <div class="form-group-half month">
-            <input id="user_month" data-recurly="month" maxlength="2" size="30" type="text" placeholder="Month">
+      <div class="row">
+        <div class="col-md-7 col-sm-6">
+          <ul class="form-errors">
+          </ul>
+          <div class="form-group">
+            <div id="first_name" class="form-group-half left">
+              <label for="user_first_name">First name</label>
+              <input id="user_first_name" name="first_name" data-recurly="first_name" size="30" type="text">
+            </div>
+            <div id="last_name" class="form-group-half right">
+              <label for="user_last_name">Last name</label>
+              <input id="user_last_name" name="last_name" data-recurly="last_name" size="30" type="text">
+            </div>
+            <div class="clear"></div>
           </div>
-          <div class="form-group-half right">
-            <input id="user_year" data-recurly="year" maxlength="4" size="30" type="text" placeholder="Year">
+          <div id="phone_number" class="form-group">
+            <label for="user_phone_number">Phone number</label>
+            <input id="user_phone_number" name="phone_number" data-recurly="phone" size="30" type="text">
           </div>
-          <div class="clear"></div>
+          <div id="business_name" class="form-group">
+            <label for="user_business_name">Business or Organization name</label>
+            <input id="user_business_name" name="business_name" size="30" type="text">
+          </div>
+          <div id="number_of_employees" class="form-group">
+            <label for="user_number_of_employees">Number of employees</label>
+            <select id="user_number_of_employees" name="number_of_employees">
+              <option value="">Select below</option>
+              <option value="1">1 - Just Me</option>
+              <option value="2-4">2-4</option>
+              <option value="5-9">5-9</option>
+              <option value="10-19">10-19</option>
+              <option value="20-49">20-49</option>
+              <option value="50-99">50-99</option>
+              <option value="100-199">100-199</option>
+              <option value="200+">200+</option>
+            </select>
+          </div>
+          <div id="number" class="form-group">
+            <label for="user_number">Credit card number</label>
+            <input id="user_number" data-recurly="number" size="30" type="text">
+          </div>
+          <div class="form-group">
+            <div id="cvv" class="form-group-half left">
+              <label for="user_cvv">Security code (CVV)</label>
+              <input id="user_cvv" data-recurly="cvv" size="30" type="text">
+            </div>
+            <div id="month" class="form-group-half">
+              <label for="user_month">Expiry date</label>
+              <div class="form-group-half month">
+                <input id="user_month" data-recurly="month" maxlength="2" size="30" type="text" placeholder="Month">
+              </div>
+              <div class="form-group-half right">
+                <input id="user_year" data-recurly="year" maxlength="4" size="30" type="text" placeholder="Year">
+              </div>
+              <div class="clear"></div>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <div class="form-group">
+            <div id="address1" class="form-group-half left">
+              <label for="user_address">Billing address</label>
+              <input id="user_address1" data-recurly="address1" size="30" type="text">
+            </div>
+            <div id="postal_code" class="form-group-half right">
+              <label for="user_postal_code">Postal code</label>
+              <input id="user_postal_code" data-recurly="postal_code" size="30" type="text">
+            </div>
+            <div class="clear"></div>
+          </div>
+          <input type="hidden" name="recurly-token" data-recurly="token">
+          <div class="form-group">
+            <input class="button js-trial-submit green" type="submit" value="Go Pro">
+            <a id="close-modal">No, thanks</a>
+          </div>
+
         </div>
-        <div class="clear"></div>
-      </div>
-      <div class="form-group">
-        <div id="address1" class="form-group-half left">
-          <label for="user_address">Billing address</label>
-          <input id="user_address1" data-recurly="address1" size="30" type="text">
+        <div class="col-md-5 col-sm-6">
+          <h4 class="hidden-xs">What is CloudApp Pro?</h4>
+          <ul class="advantages hidden-xs">
+            <li>500MB storage space</li>
+            <li>Custom branding</li>
+            <li>Unlimited files</li>
+            <li>Custom domain</li>
+            <li>Annotations</li>
+            <li>And much more!</li>
+          </ul>
+          <br class="hidden-xs"><br>
+          <p class="risk_free">You will not be charged until free trial ends on <span class="js-trial-expires"></span>. After your trial, you will be charged $10/mo. <br>Cancel any time.</p>
+          <p class="ssl">Your security and privacy is important to us. Payments secured using 256-bit encryption.</p>
+          <p class="f12">For any questions, please reach out to us at (888) 551-8655</p>
         </div>
-        <div id="postal_code" class="form-group-half right">
-          <label for="user_postal_code">Postal code</label>
-          <input id="user_postal_code" data-recurly="postal_code" size="30" type="text">
-        </div>
-        <div class="clear"></div>
-      </div>
-      <input type="hidden" name="recurly-token" data-recurly="token">
-      <div class="form-group">
-        <input class="blue button js-trial-submit w100" type="submit" value="Go Pro">
-      </div>
-      <ul class="form-errors">
-      </ul>
-      <p class="risk_free">You will not be charged until free trial ends on <span class="js-trial-expires"></span>. After your trial, you will be charged $10/mo. <br>Cancel any time.</p>
-      <p class="ssl">Your security and privacy is important to us. Payments secured using 256-bit encryption.</p>
-      <div id="free-trial-form-footer">
-          <small>
-            <a id="close-modal">Thanks, but I'm not interested in going pro.</a>
-          </small>
-          <small>For any questions, please reach out to us at (888) 988 5036</small>
       </div>
     </form>
   </div>
@@ -333,16 +391,15 @@
       <h3 class="text-center">You now have access to:</h3>
       <ul class="advantages">
         <li>500MB max drop size</li>
-        <li>Personalized branding</li>
-        <li>Unlimited drops</li>
+        <li>Custom branding</li>
+        <li>Unlimited files</li>
         <li>Custom domain</li>
         <li>Motion HD</li>
         <li>Extended recording time</li>
       </ul>
       <div>
-        <br>
-        <button type="button" href="#" class="button blue w100 js_close_modal">Get Started</button>
-        <small>For any questions, please reach out to us at (888) 988 5036</small>
+        <button type="button" href="#" class="large blue w100 js_close_modal">Get Started</button>
+        <small>For any questions, please reach out to us at (888) 551-8655</small>
       </div>
     </form>
   </div>
@@ -372,12 +429,12 @@
             <ul>
               <li><a href="/plans/">Plans</a></li>
               <li><a href="/team-plans/">Teams</a></li>
-              <li><a href="/download/auto">Download</a></li>
+              <li><a href="/download">Download</a></li>
               <li><a href="/referrals/">Referrals</a></li>
               <li><a href="/blog/">Blog</a></li>
-              <li><a href="/help/">Help</a></li>
+              <li><a href="/help/getting-started/">Help</a></li>
               <li><a href="/terms">Terms</a></li>
-              <li><a href="/privacy">Privacy</a></li>
+              <li class="active-link"><a href="/privacy">Privacy</a></li>
               <li><a href="https://github.com/cloudapp/api/blob/master/README.md#the-cloudapp-api">Developers</a></li>
             </ul>
           </nav>
@@ -385,8 +442,8 @@
       </div>
       <div class="row small-talk">
         <div class="col-xs-12">
-          <p class="f12 text-center"> <b>© Cloud</b>App 2014  |  <span class="phone">tel: (888) 988 5036</span></p>
-        </div>
+          <p class="f12 text-center"> ©2015 CloudApp  |  <a href="tel:8889885036" class="phone"> (888) 988 5036</a>
+        </p></div>
       </div>
     </div>
   </footer>
