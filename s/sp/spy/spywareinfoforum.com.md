@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spywareinfoforum.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318164505id_/http%3A//www.spywareinfoforum.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spywareinfoforum.com privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003094410id_/http%3A//www.spywareinfoforum.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - SpywareInfo Forum
 
