@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hindimatrimony.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317190717id_/http%3A//www.hindimatrimony.com/privacy-policy.php%3Fgaact%3DHP%26gasrc%3DFTRPPHINDI) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hindimatrimony.com privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003030215id_/http%3A//www.hindimatrimony.com/privacy-policy.php%3Fgaact%3DHP%26gasrc%3DFTRPPHINDI) for the most accurate reproduction.*
 
 # www.hindimatrimony.com
 
