@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the domesticsale.com privacy policy that was archived on 2014-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141103165411id_/http%3A//www.domesticsale.com/help-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domesticsale.com privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003220809id_/https%3A//www.domesticsale.com/help-privacy.html) for the most accurate reproduction.*
 
 # DomesticSale.com - Privacy Policy
 
 ## Privacy policy
 
-DomesticSale has established its privacy policy to explain how your information within the purview of DomesticSale is protected, collected and used. This policy may be updated by DomesticSale. DomesticSale will post notices of its policy changes on the DomesticSale site at: [$RootURL/help-privacy.html](https://web.archive.org/web/20141103165411id_/http%3A//www.domesticsale.com/$RootURL/help-privacy.html)
+DomesticSale has established its privacy policy to explain how your information within the purview of DomesticSale is protected, collected and used. This policy may be updated by DomesticSale. DomesticSale will post notices of its policy changes on the DomesticSale site at: <https://www.domesticsale.com/help-privacy.html>
 
- **PRIVACY PROTECTION**
+**PRIVACY PROTECTION**
 
 DomesticSale does not share your information with third parties for marketing purposes, or engage in cross-marketing or link-referral programs with other similar sites. DomesticSale recommends its customers to keep their password safe and do not remember it on public (shared) computers (Internet-cafe, college, library, family computer etc). DomesticSale does not knowingly collect any information from persons under the age of 13. If DomesticSale learns that a posting is by a person under the age of 13, DomesticSale will remove that posting. DomesticSale, or persons who post on DomesticSale, may provide links to third party websites, with different privacy policies. DomesticSale is not responsible for, nor have any control over, those third party websites. 
 
@@ -18,7 +18,7 @@ DomesticSale does not store full credit card information but DomesticSale may st
 
 Your personal information may be collected by DomesticSale if you provide it in the feedback or comments, post it on our classifieds, forums, guestbook or other publishing areas of the website.
 
-Should you expect your personal information to be private please do not post any personal information on DomesticSale site. Standard web log entries for each page served, including visitors IP address, page URL, and timestamp are collected by DomesticSale web logs in order to help diagnose problem with DomesticSale servers, to administer DomesticSale site, and to otherwise enhance visitors use of DomesticSale sites and services. 
+Should you expect your personal information to be private please do not post any personal information on DomesticSale site. Standard web log entries for each page served, including visitor’s IP address, page URL, and timestamp are collected by DomesticSale web logs in order to help diagnose problem with DomesticSale servers, to administer DomesticSale site, and to otherwise enhance visitor’s use of DomesticSale sites and services. 
 
 **DATA STORAGE**
 
@@ -38,15 +38,15 @@ Member area
 
 Testimonials
 
+I love this site too! The guy who set this up **really knows** what we shoe people need. Thanks!! :)  
+ELENITA SCHNEIDER 
+
 **Thank you** for helping me find a new home for my puppy! I placed the ad on the 13th and **got 180 responses in 2 days!** I was able to interview to find the PERFECT home on the 16th!  
 Rebecca  
 _Gainesville, Florida_
 
+I was having a difficult time selling my pups...then I added them to Domesticsale.com. **Within 2 weeks they were sold**. I had over 300 hits! I'll come here first next time! Thanks so much!  
+_Mineral Wells, WV_
+
 This is a very nice site, I **sold my car** in few days!!!  
 Thank You. Steve. 
-
-This website is great! I listed my Dodge, Neon and **in 2 hours** of listing it I got a offer for full price! This site is recommended!!! 
-
-**Dear Domestic Sale** , I just want to thank you for the opportunity to place a free ad. My Doberman puppies **sold within hours** of publication. Excellent site!!!  
-Thanks again, Maryann Ward.  
-_Kemptville, Ontario_
