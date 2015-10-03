@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mypolice.qld.gov.au privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419094651id_/http%3A//www.police.qld.gov.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypolice.qld.gov.au privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003214829id_/http%3A//www.police.qld.gov.au/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
