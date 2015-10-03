@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the makegameswith.us privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315233615id_/https%3A//www.makeschool.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makegameswith.us privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003135212id_/https%3A//www.makeschool.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Make School
 
 ## Privacy Policy
 
-Welcome to makegameswith.us, the online and mobile service of makegameswithus, Inc. (“Company,” “we,” or “us”). Our Privacy Policy explains how we collect, use, disclose, and protect information that applies to our Service, and your choices about the collection and use of your information.
+Welcome to makeschool.com, the online and mobile service of makegameswithus, Inc. DBA Make School ("Company," "we," or "us"). Our Privacy Policy explains how we collect, use, disclose, and protect information that applies to our Service, and your choices about the collection and use of your information.
 
 ### 1\. How we collect your information
 
-Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our Terms of Use [https://s3.amazonaws.com/mgwu/legal/TermsOfUse.html].
+Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Use](https://www.makeschool.com/terms-of-service).
 
 ### We collect the following types of information about you:
 
@@ -18,7 +18,7 @@ We ask for certain information such as your username, first and last name, and e
 
 ### Information we may receive from third parties:
 
-We may receive information about you from third parties. For example, if you access our websites or Service through a third-party connection or log-in, for example, through Facebook Connect, by “following,” “liking,” adding the Company application, linking your account to the Company Service, etc., that third party may pass certain information about your use of its service to Company. This information could include, but is not limited to, the user ID associated with your account (for example, your Facebook UID), an access token necessary to access that service, any information that you have permitted the third party to share with us, and any information you have made public in connection with that service. If you allow us access to your friends list, your friends’ user IDs, and your connection to those friends, may be used and stored to make your experience more social, and to allow you to invite your friends to use our Service as well as provide you with updates if and when your friends join Company. You should always review, and if necessary, adjust your privacy settings on third-party websites and services before linking or connecting them to the Company Service. You may also unlink your third party account from the Service by adjusting your settings on the third party service. If you unlink your third party account, we will remove the information collected about you in connection with that service.
+We may receive information about you from third parties. For example, if you access our websites or Service through a third-party connection or log-in, for example, through Facebook Connect, by "following," "liking," adding the Company application, linking your account to the Company Service, etc., that third party may pass certain information about your use of its service to Company. This information could include, but is not limited to, the user ID associated with your account (for example, your Facebook UID), an access token necessary to access that service, any information that you have permitted the third party to share with us, and any information you have made public in connection with that service. If you allow us access to your friends list, your friends’ user IDs, and your connection to those friends, may be used and stored to make your experience more social, and to allow you to invite your friends to use our Service as well as provide you with updates if and when your friends join Company. You should always review, and if necessary, adjust your privacy settings on third-party websites and services before linking or connecting them to the Company Service. You may also unlink your third party account from the Service by adjusting your settings on the third party service. If you unlink your third party account, we will remove the information collected about you in connection with that service.
 
 ### Analytics information.
 
@@ -30,11 +30,11 @@ When you visit the Service, we may send one or more cookies — a small text fil
 
 ### Log file information:
 
-Log file information is automatically reported by your browser or mobile device each time you access the Service. When you use our Service, our servers automatically record certain log file information. These server logs may include anonymous information such as your web request, Internet Protocol (“IP”) address, browser type, referring / exit pages and URLs, number of clicks and how you interact with links on the Service, domain names, landing pages, pages viewed, and other such information.
+Log file information is automatically reported by your browser or mobile device each time you access the Service. When you use our Service, our servers automatically record certain log file information. These server logs may include anonymous information such as your web request, Internet Protocol ("IP") address, browser type, referring / exit pages and URLs, number of clicks and how you interact with links on the Service, domain names, landing pages, pages viewed, and other such information.
 
 ### Log file information:
 
-Log file information is automatically reported by your browser or mobile device each time you access the Service. When you use our Service, our servers automatically record certain log file information. These server logs may include anonymous information such as your web request, Internet Protocol (“IP”) address, browser type, referring / exit pages and URLs, number of clicks and how you interact with links on the Service, domain names, landing pages, pages viewed, and other such information.
+Log file information is automatically reported by your browser or mobile device each time you access the Service. When you use our Service, our servers automatically record certain log file information. These server logs may include anonymous information such as your web request, Internet Protocol ("IP") address, browser type, referring / exit pages and URLs, number of clicks and how you interact with links on the Service, domain names, landing pages, pages viewed, and other such information.
 
 ### Clear gifs/web beacons information:
 
@@ -42,11 +42,11 @@ When you use the Service, we may employ clear gifs (also known as web beacons) w
 
 ### Device identifiers:
 
-When you access the Service by or through a mobile device (including but not limited to smart-phones or tablets), we may access, collect, monitor and/or remotely store one or more “device identifiers,” such as a universally unique identifier (“UUID”). Device identifiers are small data files or similar data structures stored on or associated with your mobile device, which uniquely identify your mobile device. A device identifier may be data stored in connection with the device hardware, data stored in connection with the device’s operating system or other software, or data sent to the device by Company. A device identifier may convey information to us about how you browse and use the Service. A device identifier may remain persistently on your device, to help you log in faster and enhance your navigation through the Service. Some features of the Service may not function properly if use or availability of device identifiers is impaired or disabled.
+When you access the Service by or through a mobile device (including but not limited to smart-phones or tablets), we may access, collect, monitor and/or remotely store one or more "device identifiers," such as a universally unique identifier ("UUID"). Device identifiers are small data files or similar data structures stored on or associated with your mobile device, which uniquely identify your mobile device. A device identifier may be data stored in connection with the device hardware, data stored in connection with the device’s operating system or other software, or data sent to the device by Company. A device identifier may convey information to us about how you browse and use the Service. A device identifier may remain persistently on your device, to help you log in faster and enhance your navigation through the Service. Some features of the Service may not function properly if use or availability of device identifiers is impaired or disabled.
 
 ### Location data:
 
-When you access the Service by or through a mobile device, we may access, collect, monitor and/or remotely store “location data,” which may include GPS coordinates (e.g. latitude and/or longitude) or similar information regarding the location of your mobile device. Location data may convey to us information about how you browse and use the Service. Some features of the Service, particularly location-based services, may not function properly if use or availability of location data is impaired or disabled.
+When you access the Service by or through a mobile device, we may access, collect, monitor and/or remotely store "location data," which may include GPS coordinates (e.g. latitude and/or longitude) or similar information regarding the location of your mobile device. Location data may convey to us information about how you browse and use the Service. Some features of the Service, particularly location-based services, may not function properly if use or availability of location data is impaired or disabled.
 
 ### Commercial and marketing communications:
 
@@ -72,11 +72,11 @@ We may buy or sell/divest/transfer the company (including any shares in the comp
 
 ### Instances where we are required to share your information:
 
-Company will disclose your information where required to do so by law or subpoena or if we reasonably believe that such action is necessary to (a) comply with the law and the reasonable requests of law enforcement; (b) to enforce our Terms of Use [https://s3.amazonaws.com/mgwu/legal/TermsOfUse.html] or to protect the security or integrity of our Service; and/or (c) to exercise or protect the rights, property, or personal safety of Company, our Users or others.
+Company will disclose your information where required to do so by law or subpoena or if we reasonably believe that such action is necessary to (a) comply with the law and the reasonable requests of law enforcement; (b) to enforce our [Terms of Use](https://www.makeschool.com/terms-of-service) or to protect the security or integrity of our Service; and/or (c) to exercise or protect the rights, property, or personal safety of Company, our Users or others.
 
 ### Sharing certain service type information we collect about you:
 
-We may share certain service type information, including information obtained through tools such as cookies, log files, device identifiers, location data and clear gifs (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.): (i) with our third-party business partners for the purposes described in the section above on “How We Collect and Use Information.” We may also aggregate or otherwise strip data of all personally identifying characteristics and may share that aggregated, anonymized data with third parties.
+We may share certain service type information, including information obtained through tools such as cookies, log files, device identifiers, location data and clear gifs (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.): (i) with our third-party business partners for the purposes described in the section above on "How We Collect and Use Information." We may also aggregate or otherwise strip data of all personally identifying characteristics and may share that aggregated, anonymized data with third parties.
 
 ### Storage and Processing:
 
@@ -92,22 +92,22 @@ In the event that any information under our control is compromised as a result o
 
 ### You control your account information and settings:
 
-You may update your account information and email-communication preferences at any time by logging in to your account and changing your profile settings. You can also stop receiving promotional email communications from us by clicking on the “unsubscribe link” provided in such communications. We make every effort to promptly process all unsubscribe requests. As noted above, you may not opt out of Service-related communications (e.g., account verification, purchase and billing confirmations and reminders, changes/updates to features of the Service, technical and security notices). If you have any questions about reviewing or modifying your account information, you can contact us directly at support@makegameswith.us.
+You may update your account information and email-communication preferences at any time by logging in to your account and changing your profile settings. You can also stop receiving promotional email communications from us by clicking on the "unsubscribe link" provided in such communications. We make every effort to promptly process all unsubscribe requests. As noted above, you may not opt out of Service-related communications (e.g., account verification, purchase and billing confirmations and reminders, changes/updates to features of the Service, technical and security notices). If you have any questions about reviewing or modifying your account information, you can contact us directly at [support@makeschool.com](mailto:support@makeschool.com).
 
 ### Opting out of collection of your information for Tracking / Advertising:
 
-Please refer to your mobile device or browser’s technical information for instructions on how to delete and disable cookies, and other tracking/recording tools. Depending on your type of device, it may not be possible to delete or disable tracking mechanisms on your mobile device. Note that disabling cookies and/or other tracking tools prevents Company or its business partners from tracking your browser’s activities in relation to the Service, and for use in targeted advertising activities by third parties. However, doing so may disable many of the features available through the Service. If you have any questions about opting out of the collection of cookies and other tracking/recording tools, you can contact us directly at support@makegameswith.us.
+Please refer to your mobile device or browser’s technical information for instructions on how to delete and disable cookies, and other tracking/recording tools. Depending on your type of device, it may not be possible to delete or disable tracking mechanisms on your mobile device. Note that disabling cookies and/or other tracking tools prevents Company or its business partners from tracking your browser’s activities in relation to the Service, and for use in targeted advertising activities by third parties. However, doing so may disable many of the features available through the Service. If you have any questions about opting out of the collection of cookies and other tracking/recording tools, you can contact us directly at [support@makeschool.com](mailto:support@makeschool.com).
 
 ### How long we keep your User Content:
 
-Following termination or deactivation of your User account, Company may retain your profile information and User Content for a commercially reasonable time for backup, archival, or audit purposes.
+Following termination or deactivation of your User account, the Company may retain your profile information and User Content for a commercially reasonable time for backup, archival, or audit purposes.
 
-Company does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register as Users. The Service and its content are not directed at children under the age of 13. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at support@makegameswith.us.
+The Company does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register as Users. The Service and its content are not directed at children under the age of 13. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [support@makeschool.com](mailto:support@makeschool.com).
 
 We are not responsible for the practices employed by websites or services linked to or from the Service, including the information or content contained therein. Please remember that when you use a link to go from the Service to another website, our Privacy Policy does not apply to third-party websites or services. Your browsing and interaction on any third-party website or service, including those that have a link or advertisement on our website, are subject to that third party’s own rules and policies. In addition, you agree that we are not responsible and we do not control over any third-parties that you authorize to access your User Content. If you are using a third-party website or service (like Facebook) and you allow such a third-party access to you User Content you do so at your own risk. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources other than through the Service.
 
-If you have any questions about this Privacy Policy or the Service, please contact us at [support@makegameswith.us](mailto:support@makegameswith.us)
+If you have any questions about this Privacy Policy or the Service, please contact us at [support@makeschool.com](mailto:support@makeschool.com)
 
-Company may modify or update this Privacy Policy from time to time to reflect the changes in our business and practices, and so you should review this page periodically. When we change the policy in a material manner we will let you know and update the ‘last modified’ date at the bottom of this page.
+The Company may modify or update this Privacy Policy from time to time to reflect the changes in our business and practices, and so you should review this page periodically. When we change the policy in a material manner we will let you know and update the "last modified" date at the bottom of this page.
 
 This privacy policy was last modified on Monday July 9th, 2012.
