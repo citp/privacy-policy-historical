@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hylete.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429063220id_/http%3A//www.hylete.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hylete.com privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003200926id_/http%3A//www.hylete.com/privacy.html) for the most accurate reproduction.*
 
 # HYLETE - Privacy Policy
 
@@ -40,6 +40,6 @@ If you choose to use any of the links we provide to our member companies, affili
 If you have any questions or comments or receive any unwanted e-mail from this site, please contact our customer service department via e-mail at [customerservice@hylete.com](mailto:customerservice@hylete.com) or contact us at the below address: 
 
 **HYLETE, LLC**  
-742 Genevieve, Suite P  
+564 Stevens  
 Solana Beach, California 92075  
 Phone: (800) 991-6532
