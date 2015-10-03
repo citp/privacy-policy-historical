@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scpr.org privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627203952id_/http%3A//www.scpr.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scpr.org privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003180605id_/http%3A//www.scpr.org/privacy) for the most accurate reproduction.*
 
 # Your Privacy Rights | 89.3 KPCC
 
@@ -12,9 +12,9 @@ You have come to this page from a Web site produced by Southern California Publi
     * Demographic and profile information
     * Credit card information
   * Your California Privacy Rights
-  * [Contact SCPR](https://web.archive.org/web/20150627203952id_/http://www.scpr.org/privacy/contact)
-  * [Consent](https://web.archive.org/web/20150627203952id_/http://www.scpr.org/privacy/consent)
-  * [Effective Date](https://web.archive.org/web/20150627203952id_/http://www.scpr.org/privacy/effective)
+  * [Contact SCPR](https://web.archive.org/web/20151003180605id_/http://www.scpr.org/privacy/contact)
+  * [Consent](https://web.archive.org/web/20151003180605id_/http://www.scpr.org/privacy/consent)
+  * [Effective Date](https://web.archive.org/web/20151003180605id_/http://www.scpr.org/privacy/effective)
 
 
 
@@ -38,6 +38,8 @@ Like virtually all other Web servers, SCPR's Web server automatically creates lo
 We use this information to aid the technical administration of the sites and to better understand how each site is functioning for its users. This information may be correlated with your profile, if you have provided this data, to provide special "personalized" services. This information may also be used in aggregate form.
 
 We may track your visit to sections of our Web sites in order for some site features to function properly for you. In some instances, "cookies" or a similar technology may be used to update your registration records with session information. If you do not wish to accept a cookie from SCPR's servers, you can adjust the settings on your browser accordingly. Refusing to accept cookies from the SCPR server may result in some limits on the benefits that we can automatically provide as you enjoy the SCPR Web sites.
+
+SCPR works with a third party, ADTECH, for ad delivery.  The non-personally-identifiable information collected about your visits to this and other web sites may be used in order to provide advertisements about goods and services of interest to you.  You have the option not to participate (see <http://www.adtech.com/en/service/cookies.html>).
 
 ### Nielsen//NetRatings
 
