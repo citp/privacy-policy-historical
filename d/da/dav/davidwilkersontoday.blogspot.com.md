@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davidwilkersontoday.blogspot.com privacy policy that was archived on 2015-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150402045733id_/https%3A//www.worldchallenge.org/page.aspx%3Fpid%3D587%26srctid%3D1%26erid%3D326003%26trid%3Df6e5cce3-e408-4a10-8db7-c9741518ca6d) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidwilkersontoday.blogspot.com privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003210346id_/https%3A//www.worldchallenge.org/page.aspx%3Fpid%3D587%26srctid%3D1%26erid%3D326003%26trid%3Df6e5cce3-e408-4a10-8db7-c9741518ca6d) for the most accurate reproduction.*
 
 # About World Challenge - World Challenge
 
