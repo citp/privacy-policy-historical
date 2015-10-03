@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marksandspencer.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630032556id_/http%3A//help.marksandspencer.com/support/company-website/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marksandspencer.com privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003170328id_/http%3A//help.marksandspencer.com/support/company-website/privacy-policy) for the most accurate reproduction.*
 
 # Ask Marks & Spencer - What is the website's privacy policy?
 
@@ -55,15 +55,17 @@ We do not and will not knowingly collect information from any unsupervised perso
 
 **The personal data we collect about you**
 
-When you make purchases from Marks & Spencer (including purchases made in-store on any device, over the phone, or via our catalogue order forms or this Website) we may collect the following personal data about you:
+When you make purchases from Marks & Spencer (including purchases made in-store on any device, over the phone, via our catalogue order forms or this Website) or browse this Website, we may collect the following personal data about you:
 
   * your name, age and sex;
   * your billing and delivery postal addresses, phone (including mobile phone), fax and e-mail details;
   * where you have registered with us, your user name and password;
   * where you place an order with us, your payment card details;
   * your communication and shopping preferences;
-  * your browsing and shopping activities; and 
-  * your date of birth.
+  * your browsing and shopping activities;  
+  * your date of birth;
+  * your interests, feedback and survey responses; and
+  * your location
 
 
 
@@ -78,7 +80,7 @@ Marks & Spencer (and third party data processors acting on our behalf) may colle
   * to maintain any registered account that you hold with us;
   * with your agreement, to contact you (including by SMS, push and e-mail) about promotional offers and products and services which we think may interest you;
   * for customer satisfaction and market research purposes;
-  * to provide our goods and services to you and for associate purposes, including verifying your identity;
+  * to provide our goods and services to you and for associated purposes, including verifying your identity;
   * for research, analysis, testing, monitoring, risk management and administrative purposes; and
   * for any related purposes, or where we have a legal right or duty to use or disclose your information (including for crime and fraud prevention and related purposes).
 
