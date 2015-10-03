@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the improvepresentation.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318040206id_/https%3A//www.improvepresentation.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the improvepresentation.com privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003053929id_/https%3A//www.improvepresentation.com/privacy_policy) for the most accurate reproduction.*
 
 # Website Privacy Policy | Improve Presentation
 
@@ -36,7 +36,7 @@ Please read this policy carefully to understand our policies and practices regar
 
 ## Children Under the Age of 13 
 
-Our Website is not intended for children under 13 years of age. No one under age 13 may provide any information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or on or through any of its features/register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at [contact@improvepresentation.com](mailto:contact@improvepresentation.com)
+Our Website is not intended for children under 13 years of age. No one under age 13 may provide any information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or on or through any of its features/register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at [contact@www.improvepresentation.com](mailto:contact@www.improvepresentation.com)
 
 ##  Information We Collect About You and How We Collect It 
 
@@ -203,13 +203,13 @@ We strive to provide you with choices regarding the personal information you pro
   * **Tracking Technologies and Advertising.** You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly 
   
 
-  * **Promotional Offers from the Company** If you do not wish to have your e-mail address or contact information used by the Company to promote our own or third parties' products or services, you can opt-out at any time by logging into the Website and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes or by sending us an e-mail stating your request to [contact@improvepresentation.com](mailto:contact@improvepresentation.com) If we have sent you a promotional e-mail, you may send us a return e-mail asking to be omitted from future e-mail distributions. 
+  * **Promotional Offers from the Company** If you do not wish to have your e-mail address or contact information used by the Company to promote our own or third parties' products or services, you can opt-out at any time by logging into the Website and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes or by sending us an e-mail stating your request to [contact@www.improvepresentation.com](mailto:contact@www.improvepresentation.com) If we have sent you a promotional e-mail, you may send us a return e-mail asking to be omitted from future e-mail distributions. 
 
 
 
 ##  Accessing and Correcting Your Information 
 
-You can review, change or delete your personal information by emailing us at [contact@improvepresentation.com](mailto:contact@improvepresentation.com)
+You can review, change or delete your personal information by emailing us at [contact@www.improvepresentation.com](mailto:contact@www.improvepresentation.com)
 
 ##  Data Security 
 
@@ -225,7 +225,7 @@ Unfortunately, the transmission of information via the internet is not completel
 
 ##  Contact Information 
 
-To ask questions or comment about this privacy policy and our privacy practices, contact us at: [contact@improvepresentation.com](mailto:contact@improvepresentation.com)
+To ask questions or comment about this privacy policy and our privacy practices, contact us at: [contact@www.improvepresentation.com](mailto:contact@www.improvepresentation.com)
 
 US correspondence address:
 
