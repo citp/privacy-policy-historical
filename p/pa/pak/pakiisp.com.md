@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pakiisp.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317041858id_/http%3A//www.pakiisp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakiisp.com privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003052001id_/http%3A//www.pakiisp.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | PakiISP – Technology Blog
 
 This Privacy Policy governs the manner in which PakiISP.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.pakiisp.com](http://www.pakiisp.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by PakiISP.com.
 
@@ -20,9 +20,9 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 PakiISP.com may collect and use Users personal information for the following purposes:
 
-  * _\- To improve our Site_  
+  * _– To improve our Site_  
 We may use feedback you provide to improve our products and services.
-  * _\- To send periodic emails_  
+  * _– To send periodic emails_  
 If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 
