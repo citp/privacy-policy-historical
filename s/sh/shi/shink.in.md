@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shink.in privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602162521id_/https%3A//shink.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shink.in privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003103336id_/http%3A//shink.in/privacy) for the most accurate reproduction.*
 
 # Earn money on short links. Make short links and earn the biggest money - Shink.in
 
