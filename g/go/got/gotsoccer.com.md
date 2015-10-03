@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gotsoccer.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609002044id_/http%3A//home.gotsoccer.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotsoccer.com privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003180518id_/http%3A//home.gotsoccer.com/privacy.aspx) for the most accurate reproduction.*
 
 # GotSoccer Privacy Statement
 
-Revised GotSoccer Privacy Policy and terms of Service
+GotSoccer Privacy Policy and terms of Service
 
-May 29, 2012
+August 7, 2015
 
 There are many different ways you can use our services – to share and search for information, to communicate with players, teams, associations and events or to create new content. When you share information with us, for example by creating a player or team account, we can help you connect with the soccer community or to make sharing with others quicker and easier.
 
@@ -139,7 +139,7 @@ Information security
 
 We work hard to protect GotSoccer and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold. In particular:
 
-  * We encrypt many of our services using Secure Socket Layers (SSL as https:)
+  * We encrypt many of our services (communication is transmitted using the HTTPS protocol, using industry standard encryption algorithms)
   * We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to systems.
   * We restrict access to personal information to GotSoccer employees, contractors and agents who need to know that information in order to process it, and who are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.
 
@@ -150,6 +150,20 @@ Application
 Our Privacy Policy applies to all of the services offered by GotSoccer LLC. and its affiliates, but excludes services that have separate privacy policies that do not incorporate this Privacy Policy. For example, clubs, associations, state associations may export information from GotSoccer to comply with obligations from USSF, USYS or other organizations. Our Privacy Policy does not extend to information and its use once exported from our database. Please contact your club, association, state organization, US Youth Soccer or others regarding their Privacy Policy.
 
 Our Privacy Policy does not apply to services offered by other companies or individuals. Our Privacy Policy does not cover the information practices of other companies and organizations that use our services.
+
+U.S.-EU Safe-Harbor Compliance
+
+GotSoccer complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. GotSoccer has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.
+
+If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern.
+
+To learn more about the Safe Harbor program, and to view GotSoccer's certification (appearing as GotSoccer, LLC), please visit <http://www.export.gov/safeharbor/>
+
+Privacy Inquiries and Dispute Resolution
+
+In compliance with the US-EU Safe Harbor Principles, GotSoccer commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact GotSoccer using our [online contact form](http://www.gotsport.com/asp/help/contact.asp). 
+
+GotSoccer has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed,please visit [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint. 
 
 Changes
 
