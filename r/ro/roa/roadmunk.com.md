@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roadmunk.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314234921id_/https%3A//roadmunk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadmunk.com privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003144733id_/https%3A//roadmunk.com/privacy-policy) for the most accurate reproduction.*
 
 # Roadmunk's Privacy Policy | Create Beautiful Roadmaps Quickly
 
@@ -84,11 +84,11 @@ You may choose to stop receiving our newsletter or marketing emails by following
 
 **Blogs**
 
-Our website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [support@roadmunk.com](mailto:support@roadmunk.com?Subject=Support%20Case "Cotnact Support"). In some cases, we may not be able to remove your personal information. If this is the case, we will let you know and indicate why.
+Our website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [support@roadmunk.com](mailto:support@roadmunk.com?Subject=Support%20Case "Contact Support"). In some cases, we may not be able to remove your personal information. If this is the case, we will let you know and indicate why.
 
 **Security**
 
-Roadmunk stresses its privacy and security standards. Although no one can guarantee absolute security, we regularly re-evaluate our privacy and security policies in order to adapt to new challenges. We follow generally accepted standards to protect the information submitted to us, both during transmission and once we receive it. We encrypt the most sensitive data that you store on Roadmunk using the 128-bit TSL encryption, which is the same encryption standard used by banks to secure customer data.
+Roadmunk stresses its privacy and security standards. Although no one can guarantee absolute security, we regularly re-evaluate our privacy and security policies in order to adapt to new challenges. We follow generally accepted standards to protect the information submitted to us, both during transmission and once we receive it. We encrypt the most sensitive data that you store on Roadmunk using the 128-bit TLS encryption, which is the same encryption standard used by banks to secure customer data.
 
 **Contacting Us**
 
