@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spanx.com privacy policy that was archived on 2015-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150307053223id_/http%3A//www.spanx.com/-cms-page.privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spanx.com privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003121433id_/http%3A//www.spanx.com/-cms-page.privacypolicy%3Bpgid%3DH8tkS3exQtNSRpWtAo44LLQX0000L2Ix9L83%3Bsid%3DDFG6li1tdQi8lntglt2Jkh9nLtAagw_srERnUsOB) for the most accurate reproduction.*
 
 # Spanx Store - US
 
