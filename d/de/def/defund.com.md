@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the defund.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627182255id_/http%3A//defund.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the defund.com privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003062734id_/http%3A//defund.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Defund.com
 
