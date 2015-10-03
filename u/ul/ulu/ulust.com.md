@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ulust.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315062303id_/http%3A//www.ulust.com/%3Fwm_login%3Dadmin%26ps%3Ds%26page%3Dpp%26from%3Ds16) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ulust.com privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003143012id_/http%3A//www.ulust.com/%3Fwm_login%3Dadmin%26ps%3Ds%26page%3Dpp%26from%3Ds16) for the most accurate reproduction.*
 
 # Free Adult Dating and Adult Personals - Ulust
 
