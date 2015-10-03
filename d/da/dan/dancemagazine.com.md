@@ -1,26 +1,150 @@
-> *The following text is extracted and transformed from the dancemagazine.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121222935id_/http%3A//dancemagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dancemagazine.com privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003175711id_/http%3A//dancemagazine.com/privacy-statement) for the most accurate reproduction.*
 
-# Dance Magazine – If it's happening in the world of dance, it's happening in Dance Magazine.
+# Privacy Statement - Dance Magazine
 
-At _Dance Magazine,_ we respect your right to privacy and we understand that users of the __Dance Magazine__ Web site need to be in control of their personal information. "Personal information" includes, but is not limited to, name, address, telephone number, email address and credit card information _Dance Magazine_ does not sell, rent, swap or otherwise disclose any of this information. _  
-Dance Magazine_ adopted this Privacy Policy to inform users of the _Dance Magazine_ Internet site how the site does collect, store and use personal information submitted via the site. 
+  
+Effective Date: December 1, 2014
 
-**1\. Collection of Information**   
-Certain applications on the _Dance Magazine_ Web site may require users to register or to provide personal information in order to make a commerce transaction, to enter a contest, or to subscribe to a newsletter. Such personal information is not shared or sold to third parties. To better understand the needs of our Web site users, we may also request demographic information. Entry of such information is optional and if you choose not to enter such information, you can successfully use these applications. If we request demographic information, we will not share information about you as an individual with any other entity. If we do share demographic information with third parties, we will give them aggregate information only. 
+Online Privacy Policy | Your California Privacy Rights  
+---|---  
+  
+## Online Privacy Policy
 
-**2\. Mailing Lists**  
-If you provide your email address _Dance Magazine_ may contact you periodically with special offers, updated information and new services. Any emails sent to you by the _Dance Magazine_ offer you the option to be removed from the email mailing list. 
+Welcome! This Online Privacy Policy applies to your use of websites, interactive services and mobile device applications provided by Macfadden Dance Magazine, LLC and our affiliates (collectively, “Macfadden Dance Magazine, LLC,” “we” or “us”) and that display an authorized link to this policy (collectively, the “Services”). This Online Privacy Policy applies only to the information we collect online through the Services.
 
-**3\. Information to third parties**  
-_Dance Magazine_ may occasionally present a special contest or promotion on its Web site that is sponsored by another company. To qualify for entry, we may ask you to provide personal information. If we plan to share that information with the sponsor(s), we will provide a statement to that effect. 
+By using any of our Services, you agree that this Online Privacy Policy and our Visitor Agreement govern your use of our Services and any dispute concerning the Services. Please take a few minutes to read them before using or registering to access our Services.
 
-**4\. Financial information**   
-_Dance Magazine_ will protect any personal financial information that you share with us. If you make a purchase online,  we will use your credit card number only to process your payment and will not use it for marketing purposes. For reasons of security, credit card information is not stored on our Web server. We will retain order information for our records, but this information is never shared with third parties. 
+This Policy describes our privacy practices regarding:
 
-**5\. Links**  
-Our site includes links to other Web sites whose privacy policies we don't control. Once you leave our servers (you can check where you are by checking the URL in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the site you are visiting. That policy may differ from ours. If you can't find the privacy policy of any of these sites via a link from the site's homepage, you should contact the site directly for more information. _Dance Magazine_ is not responsible for the privacy practices or the content of such Web sites. 
+Children under 13 | Sites to Which We Link  
+---|---  
+Information Collected Through Our Services |   
+Information We May Obtain from Other Sources | Security, Retention and Storage of Information  
+How We Use the Information We Collect | Changes to Our Online Privacy Policy  
+How We Disclose Information and Your Related Opt-Out Choices |   
+  
+If you have questions about this Online Privacy Policy, please contact us at [info@dancemagazine.com](mailto:info@dancemagazine.com).
 
-**6\. Children**   
-We do not solicit personal information from children. Sites specifically geared toward children will not request any personal or contact information. 
+### Children Under 13:
 
-  _Dance Magazine_ would like to receive your comments and any questions about this policy. Please address comments or questions regarding _Dance Magazine's_ privacy practices to us at one of the addresses listed on our [Contacts](https://web.archive.org/contact) page. _Dance Magazine_ may occasionally update this policy. Notice of revisions will be posted here.
+Macfadden Dance Magazine, LLC cares about protecting the privacy of children. We won’t knowingly allow anyone under the age of 13 to provide us any personally identifying information online. Children should always get permission from their parents before sending any personal information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. We encourage you to become involved in your children’s online experience, and to share your knowledge and experience with your young ones. If you’re under 13, please do not register for any of our Services or provide us with any personally identifying information (such as your name, email address or phone number)
+
+### Information Collected Through Our Services:
+
+The information we gather through our Services falls into two categories: (1) information you voluntarily supply to us when you register, initiate transactions or communicate with us or others through the Services, and (2) information collected automatically as you use our Services. Third-party providers and advertisers featured on, or linked to from, our Services may also gather information through processes that we don’t control and subject to their own separate privacy policies, which may differ from ours.
+
+**Registration and Other Personally Identifying Information.** You may register to use certain features of our Services. When you register, we may collect personally identifying information, including your name, postal address, email address, user name and password, reminder questions and answers and communications preferences, such as which newsletters you would like to receive. We may also ask for information about age, gender, hobbies, interests and the like, but you’re free to register for most of our Services without providing this additional information. When you register for one of our Services, the information you provide may be added to a centralized Macfadden Dance Magazine, LLC database so that you may be simultaneously registered for our other Services as well. In addition, when you use various aspects of our Services, we may ask you for personally identifying information, including when you order products, complete a survey, enter a contest, or report a problem with our Services. We and our authorized third-party service providers use this information to process orders, tailor our Services to your interests or otherwise improve our Services. We may also collect contact information for other individuals when you use the sharing tools available within some of our Services to forward content or offers to your friends and associates. We use this information to facilitate the communications that you request. Please note that if you use any “send-to-a-friend” features of our Services, your email address may be included in the communication sent to your friend.
+
+**Contests and Other Promotions.** From time to time, we may offer contests, sweepstakes or other promotions. Participation in these promotions may require registration for our Services (see Registration and Other Personally Identifying Information, above). If you participate in these promotions, we collect contact information such as your name, address, and email address and we may share this information with co-sponsors or other third parties involved in the promotion that we identify in the rules or entry materials. We don’t control these third parties’ privacy practices, and our Privacy Policy does not apply to their collection and use of your information. We may also share some of your entry information with third parties or the public in connection with the administration of the promotion, such as winner selection and prize fulfillment, and as permitted by the promotion’s official rules, such as on a winners’ list.
+
+**Information Collected Automatically When You Use Our Services.** Macfadden Dance Magazine, LLC or third-party contractors we engage may collect certain information automatically when you use our Services, including:
+
+  * Your browser type, language, plug-ins, Internet domain and operating system;
+  * Your Internet Protocol (IP) address (a numerical address assigned to your computer by your Internet service provider so that other computers connected to the Internet can communicate with you online) that can sometimes be used to derive your general geographic area;
+  * The site you visited before visiting a Macfadden Dance Magazine, LLC website and the site you visited after visiting a Macfadden Dance Magazine, LLC website;
+  * Web pages and advertisements you view and links you click on while navigating within our Services;
+  * Unique identifiers, including mobile device identification numbers, that can identify the physical location of such devices in accordance with applicable law;
+  * Information collected through cookies, web beacons and other tracking technologies (see additional descriptions of these terms below);
+  * Information about your interactions with our video content, such as the type of content viewed on our Services;
+  * Information about your interactions with our email messages, such as the links you click on and whether you open or forward a message; the date and time of these interactions and the device you use to read emails; and standard server log information.
+
+
+
+**Personalization and Tracking Technologies.** Like most website and mobile application operators, we, or third parties acting on our behalf, use embedded scripts, “cookies,” web beacons and other similar technologies to operate our Services.
+
+Cookies are small amounts of data (often containing a unique identifier) that are stored in separate files within your computer’s Internet browser. Cookies are accessed and recorded by the websites you visit, and by the companies that deliver the advertisements you see on websites, so they can recognize the same browser navigating online.
+
+We use cookies for the following general purposes:
+
+  * To help us recognize your browser as a previous visitor and save and remember any preferences that may have been set while your browser was visiting one of our Services. For example, if you register for a Macfadden Dance Magazine, LLC Service, we may save your username and password, so you do not have to re-enter them each time you visit.
+  * To help control the display of advertisements and customize the content and advertisements you see while using our Services and sometimes while visiting other websites online.
+  * To help us measure and analyze visitor traffic and usage patterns and to improve the quality and effectiveness of our content, features, advertisements, and other communications.
+
+
+
+Third-party companies that provide some of the tools and features accessible through our Services and advertisers and other companies involved in the delivery of the advertisements that you see while using our Services and other websites also may place cookies within your browser. We do not have access to these cookies and do not control how they may be used. You can set your browser to accept or reject most cookies, or to notify you when a cookie is set. (Each browser is different, so check the “Help” menu of your browser to learn how to change your cookie preferences.) It is up to you whether to allow us or third parties to send you or to set cookies, but if you block cookies, you may not be able to view or access some of the features of our Services. Please be aware that certain browsers cannot block or delete so-called “Flash” cookies, which use a feature of the Adobe Flash video player to store information on your computer. For information about how to delete Flash cookies, please visit the Adobe website [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
+
+**Web Beacons and Other Tracking Technologies.** We and our service providers and other third-party companies involved in the delivery of advertisements you see on our Services and/or while visiting other unaffiliated websites may also use scripts, web beacons and/or similar technologies, to collect information about your use of our Services. Web beacons (sometimes called “transparent GIFs,” “clear GIFs,” or “pixel tags”) embed a small graphic image (usually invisible) on a web page or in an email. When your browser downloads a web beacon, the server that sends the corresponding image to your browser can recognize and store certain types of information such as cookies previously set, the time and date that you viewed the page embedded with the beacon and a description of that page. We use web beacons to improve your experience using our Services, including by providing you with content, advertising and offers customized to your interests, and to understand whether our users read email messages and click on links contained within those messages.
+
+**Mobile Device IDs and Location-Based Information.** Certain mobile devices, including smart phones and tablet devices, contain unique device IDs that can be used to identify their physical location. Mobile devices also typically transmit caller ID data (which may include a phone number) when used to transmit a telephone call or text message. When you use mobile devices to access our Services, we may collect and transmit unique device IDs and collect caller ID data, information about your wireless carrier, the make, model and operating system of your device and information about how you navigate within our Service. With your consent, we also may use precise geolocation technology such as GPS or WiFi triangulation to collect information about the exact location of your mobile device. We use this information to provide you the content and services you request, tell you about offers we think you will value, and improve your experience using our mobile applications and other Services.
+
+**Information Collected in Connection With Ad Serving, Targeting and Analytics.** We and our service providers may use information collected when you use our Services to serve interest-based advertisements on our Services and on other third-party websites that participate in advertising networks that we operate. The data collection for our networks currently is managed by our ad service provider, Google Double Click for Publishers.
+
+We also may work with other third-party advertising companies and data providers to target and serve some of the advertisements you see on our Services and on other websites, to send emails on our behalf, and to provide related analytics, forecasting, optimization and audience segmentation services. These companies may use their own cookies, web beacons and similar technologies to collect navigation information from our users that they may use, sometimes in conjunction with similar information gathered through other websites, to deliver advertisements tailored to match perceived user interests and/or for other purposes. To enable you to receive customized ads, content or services, some of these companies may also place or recognize a unique cookie on your browser that reflects de-identified demographic data or other information about you that they obtained from third-party data suppliers. To enable these cookies, we may share with these companies your email address or other registration information in an encrypted format (i.e. hashed non-human readable form) solely for the purpose of matching you to a relevant demographic profile. No personally identifying data will be captured or used in the cookies.
+
+Most of the third-party advertising and data companies we work with, including DoubleClick and Google, are members of the Network Advertising Initiative (“NAI”) and/or the DAA). To learn more about the information collection practices of NAI and DAA members and your related opt-out choices, please visit the NAI’s website [here](http://www.networkadvertising.org/choices/), or the DAA’s website (and opt-out mechanism) at <http://www.aboutads.info/>. Many of our advertisers also engage other third-party vendors to help them deliver advertisements tailored to your interests, and evaluate and improve the effectiveness of their advertising campaigns. We do not have access to the information these third parties may collect and this Policy does not cover their information practices. You can opt out of the use of cookies by many of these third-party vendors to tailor advertising to you by visiting <http://www.aboutads.info/>.
+
+**Social Network Posting Tools and “Share” Features.** You can access various social network posting and sharing tools through our Services that are operated by third parties, including a “share” button that allows you to post links to content and features that you believe will be of interest to others on your social network pages. When you use one of these sharing tools, the third-party company that operates the tool may be collecting information about your browser, device and online activity through its own tracking technologies and subject to its own separate privacy policy, which may differ from ours.
+
+**Nielsen Online Campaign Ratings Service.** Some of our advertisers may participate in a program operated by the Nielsen Company to develop an Online Campaign Ratings service that is comparable to Nielsen’s television ratings. When one of their ads appears on our Services, it may contain a web beacon that will record your exposure to the ad, read certain cookies on your browser, and forward this information to one or more operators of third-party websites or other online service on which you may have registered. If the third-party operator recognizes a cookie that identifies you as one of its registered users, it will append the impression data it receives, which may identify you as a user our Services, with age and gender information before returning the data to Nielsen. Nielsen aggregates the data it receives about a given campaign to create ratings reports for advertisers and publishers. According to Nielsen, these reports measure campaign performance on an aggregate level within various demographic categories and do not identify you personally. For more information about Nielsen’s information collection practices and any related opt-out choices that Nielsen offers, please see the Nielsen.com privacy policy [here](http://www.nielsen.com/us/en/privacy-policy.html).
+
+Return to top
+
+### Information We May Obtain From Other Sources:
+
+We may combine the information we collect through the Services with other information that we obtain about you, your computer, and/or device from other companies and sources, including third-party data suppliers and public databases. The following are examples of information we may collect from other sources:
+
+  * Name, postal address, email address and telephone number;
+  * Demographic data, such as age, gender, and income level;
+  * Your interests and purchase behavior;
+  * Publicly-visible data, such as your posts and submissions to blogs, video-sharing services, and other interactive forums; and
+  * Other navigation data, such as web sites visited and advertisements viewed or clicked on.
+
+
+
+### How We Use The Information We Collect:
+
+Our primary goal in collecting information is to provide you with a customized experience when using our Services and to make them more valuable to you. Because our Services are supported by advertising, we also use the information we collect to help advertisers efficiently reach consumers who are most likely to be interested in their products and services. We only use payment and identity verification information, such as credit card numbers, driver’s license numbers, social security numbers, or comparable national identifiers as necessary to complete a particular transaction, provide a requested service, enforce legal rights or comply with applicable law.
+
+In addition, we and our authorized service providers generally use other information that we collect about you to:
+
+  * Analyze, operate and improve our Services, and fulfill your requests for products, services, and information, including to send you electronic newsletters;
+  * Enable you to participate in features such as surveys, polls, sweepstakes, and message boards;
+  * Provide you with special offers and promotions from companies within our corporate family, and select third parties in accordance with applicable law;
+  * Customize the content you see when you use our Services;
+  * Develop and provide advertising tailored to your interests, including advertising that you see on our Services and on third-party websites;
+  * Prevent potentially prohibited or illegal activities and enforce our Visitor Agreement;
+  * Conduct market analysis, traffic flow analysis and related reporting; and
+  * For any other purposes disclosed to you at the time we collect your information or pursuant to your consent
+
+
+
+Return to top
+
+### How We Disclose Information and Your Related Opt-out Choices:
+
+Except as otherwise expressly noted herein or within the Services, we may share any information that we collect through our Services, including without limitation, your name, postal address (and any other information we combine with that information) with our Macfadden Dance Magazine, LLC-affiliated companies, our provider partners and service providers, and with carefully selected third-party marketers of products and services potentially of interest to you. To remove your name and postal address from lists that we sell or rent to third parties for their direct marketing purposes, please send your request to us in a letter addressed to Macfadden Dance Magazine, LLC Opt-Out Postal, Attn: Circulation, 333 seventh Avenue, New York, NY 10001).
+
+We may share our users’ email addresses with service providers that send email messages on our behalf. These service providers may collect data about how you interact with those messages (including information about whether and when you opened a particular message or clicked on a link within a message and the device you used to do so) and analyze it in conjunction with similar information they collect when you respond to emails they send on behalf of their other clients who are not affiliated with us. They use this email response information in combination with your email address to target and optimize the delivery of emails they send on our behalf and for their other clients. To opt out of this information collection, you can unsubscribe from the related Macfadden Dance Magazine, LLC email list by using the unsubscribe link at the bottom of each message and/ or by visiting the Email Preferences page on our sites and updating your preferences. (Note that using the opt-out mechanism associated with the AdChoices icon will NOT affect the collection of email response information.) We do not authorize our email service providers to share your email address with their other clients.
+
+Except as described in this policy, we will not sell or rent your email address to unaffiliated third parties for their email marketing purposes, without your consent. If you use our Services to sign up for special email offers from third-party advertisers, we will share your email address and any other information you provided with your request with the advertisers you selected. If you decide you no longer want to receive these emails, simply follow the advertiser’s unsubscribe link or instructions that should be included in every commercial message you receive. If you choose to subscribe to any of Macfadden Dance Magazine, LLC’s newsletters or commercial email lists, you can unsubscribe at any time by following the unsubscribe link at the bottom of each message.
+
+**Provider Partners and Service Providers.** To make your experience with our Services more useful and enjoyable, we may offer some features (such as chat rooms and email newsletters) in conjunction with third-party providers (“Provider Partners”) that specialize in operating such services. We share with each of these Provider Partners such information as is useful or necessary to provide you with the services we offer through that Provider Partner. We also contract with other companies to provide specialized services to us, including credit-card and billing processing, shipping, marketing, email and text message distribution, data processing, website analytics and promotions management. We reserve the right to share with these companies any information we collect about you provided that they commit not to use the information for purposes inconsistent with this Privacy Policy.
+
+**Aggregated Information.** We and our service providers may combine information that we collect about you with information that we collect about other users of our Services and share it in a form that does not identify you personally. We and our service providers may use aggregated information or other anonymous information and disclose it to third parties as we see fit.
+
+**Information You Post to Blogs, Discussion Forums and Community or Social Networking Areas.** Keep in mind that any information that you choose to post to blogs, discussion forums, or other community or social networking services that we offer can be seen, collected and used by anyone who has access to the applicable service. We cannot be responsible for any unauthorized third-party use of such information.
+
+**Legal Compliance, Business Transfers and Other Disclosures.** Notwithstanding anything to the contrary stated herein or within our Services, we may occasionally release information about users of our Services when we deem such release appropriate to comply with law, respond to compulsory process or law enforcement requests, enforce our Visitor Agreement, or protect the rights, property or safety of users of our Services, the public, Macfadden Dance Magazine, LLC, our affiliates, or any third party. Over time, we may reorganize or transfer various assets and lines of business. Notwithstanding anything to the contrary stated herein or on our Services, we reserve the right to disclose or transfer any information we collect to third parties in connection with any proposed or actual purchase, sale, lease, merger, foreclosure, liquidation, amalgamation or any other type of acquisition, disposal, transfer, conveyance or financing of all or any portion of Macfadden Dance Magazine, LLC or our affiliates.
+
+Return to top
+
+### Sites to Which We Link:
+
+We also may provide links to other websites or services, and provide access to products and services offered by third parties, whose privacy policies we don’t control.
+
+### Security, Retention and Storage of Information:
+
+We use commercially reasonable procedures to protect the personally-identifying information that we collect. No security system is impenetrable, however. We cannot guarantee the security of our databases, nor can we guarantee that information you supply won’t be intercepted while being transmitted to us over the Internet. For the purposes set out in this Online Privacy Policy, personally-identifying information may be transferred to, processed, stored and accessed by us, our affiliates and our unaffiliated service providers in the United States and in other jurisdictions where we or they operate. Courts and other authorities in these jurisdictions may, in certain circumstances, be entitled to access your personally-identifying information. By using the Services, you consent to this transfer, processing, storage and access of your personally-identifying information in and/or outside of the jurisdiction in which you reside.
+
+### Changes to Our Online Privacy Policy:
+
+Digital technology is rapidly evolving. If we decide to change our Privacy Policy in the future, we’ll post the changes here and indicate at the top of the policy the last date on which it was updated. Unless otherwise noted, all changes will be effective when posted.
+
+Return to top
+
+## YOUR CALIFORNIA PRIVACY RIGHTS
+
+**(As provided by California Civil Code Section 1798.83)**
+
+California residents have the right to request and obtain from us, once a year and free of charge, a list of the third parties to whom we have disclosed certain types of personal information (if any) for their direct marketing purposes in the prior calendar year. At our option, we may respond to such requests by providing instructions about how our users can exercise their options to prevent our disclosure of personal information to third parties for their direct marketing purposes. You can read these instructions above in the section of our Online Privacy Policy titled “How We Disclose Information and Your Related Opt-out Choices.” Or, if you are a California resident and prefer that we send you a separate description of these opt-out choices, please email your request to [info@dancemagazine.com](mailto:info@dancemagazine.com).
