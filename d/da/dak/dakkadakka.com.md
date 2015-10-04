@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dakkadakka.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317113413id_/http%3A//www.dakkadakka.com/core/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dakkadakka.com privacy policy that was archived on 2015-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151004033956id_/http%3A//www.dakkadakka.com/core/privacy.jsp) for the most accurate reproduction.*
 
-# DakkaDakka - Privacy Policy | They're not "toys" they're "miniatures".
+# DakkaDakka - Privacy Policy | Roll the dice to see if I'm getting drunk.
 
 ## Dakka Privacy Policy
 
