@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greentreeservicing.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316105539id_/https%3A//www.greentreeservicing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greentreeservicing.com privacy policy that was archived on 2015-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151004201124id_/https%3A//www.greentreeservicing.com/privacy) for the most accurate reproduction.*
 
 # Green Tree Servicing Protects Your Privacy
 
@@ -43,6 +43,6 @@ We do not sell Personal Information to third parties. However, sometimes it is n
 We want our customers to understand our commitment to privacy issues and our use of confidential customer information. Furthermore, we want our customers to feel confident that their privacy is protected. Our customers may obtain a copy of this policy by calling our Customer Service Center (1-800-643-0202) or by writing to our Customer Service Center.
 
 Corporate Finance Department  
-1700 Landmark Towers  
-345 St. Peter St.  
-St. Paul, MN 55102
+PO Box 6172  
+Rapid City, SD  
+57709-6172
