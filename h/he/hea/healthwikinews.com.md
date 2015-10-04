@@ -1,79 +1,128 @@
-> *The following text is extracted and transformed from the healthwikinews.com privacy policy that was archived on 2014-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140918172919id_/http%3A//www.healthwikinews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthwikinews.com privacy policy that was archived on 2015-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151004071313id_/http%3A//www.healthwikinews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-HealthWikiNews.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period.
+This policy elaborates on the process of information gathering and dissemination. What may be collected about you when you use our services made available, how this information may be used, how you can control how your information is used, and what precautions are taken against unauthorized access or use of your information are explained and elaborated here.
 
-#### How we gather information from users
+The services may be provided in a variety of mediums and devices now known or hereinafter developed including mobile applications, and include without limitation news, reference tools and applications, sponsored programs, personalized content, continuing medical education, communication tools and discussion boards.
 
-How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, HealthWikiNews.com also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site’s features according to your preferences.
+Hence, it’s your responsibility to read our privacy policy. We are not responsible for other websites. Rather, we only answer to our own policy.
 
-#### What we do with the information we collect
+#### Privacy Policy Changes
 
-Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone.
+For any significant change on the policy, we will take steps to inform you in a timely fashion. For minor changes, we may or may not inform you. However, when the changes can significantly affect the way we handle personal information, we will not apply the changes without giving you a choice.
 
-Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually.
+#### Information We Collect
 
-We may use Personally Identifiable Information collected on www.HealthWikiNews.com to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by www.HealthWikiNews.com and other topics we think you might find of interest.
+In this section, we discuss the different types of information that we may collect about you and the collection process that goes with it.
 
-Personally Identifiable Information collected by HealthWikiNews.com may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases.
+**1\. From Unregistered Visitors**  
+You must register to access all of the services. However, you may be able to access certain limited areas without disclosing any personal and identifiable piece of information. The information we get here is not traced back to any individual and is not used on its own to identify anyone. We do not make use of cookies. Our section of this Privacy Policy entitled Cookies and Web Beacons below, further describes the process.
 
-#### Affiliated sites, linked sites and advertisements
+**2\. From Registered Visitors**  
+You will asked to provide identifying information such as your name, e-mail address, zip code, and other professional information. You will also have a choice regarding the newsletters and other information that you may want to receive. If you are required to provide additional information to gain more access, or if we would like to use personally identifiable information about you, we adhere to the strict Privacy Policy. It is our responsibility to explain how we intend to use it and we will require your consent.
 
-HealthWikiNews.com expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a www.HealthWikiNews.com page, certain content that is actually created or hosted by a third party. Also, through HealthWikiNews.com you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. HealthWikiNews.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
+**3\. From Outside Sources**  
+We reserve the right to collect additional information about registered users from third party sources to further assist us in our services. We will use such information to verify and update registration information and confirm licensure status.
 
-While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. HealthWikiNews.com does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties.
+#### Other Information
 
-You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of HealthWikiNews.com and this policy.
+  * **Discussion Boards** : When you post a message to a discussion board, your basic profile will be available for all registered users to see. This said basic profile includes name, specialty, and geographic information. You have the choice to display additional information. Just make sure that you do not post any information about you or any other person to a discussion board or other public forum if you want to keep such information private. Information posted is considered public information and may be used by us and by third parties.
+  * **Tools** : Clinical tools are made available through the services. These tools require you to provide information for the tools to operate. These are designed to store information that you provide.
+  * **Additional Forms and Emails** : We may also ask you to provide additional information if you want to obtain additional services or to resolve concerns.
+  * **Market Research** : As a registered user, you may be invited to participate in a sponsored or non-sponsored market research survey via email invitation, on-site pop-up, or other means. The survey may be administered by one of our companies or a third party market research establishment. Should you choose to participate, provide a response to the survey questions. You may then again be asked to provide further personally identifiable information. Refer to the section on Uses and Disclosures We Make of Your Information for this.
 
-#### Children
 
-HealthWikiNews.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe HealthWikiNews.com has any information from or about anyone under 13, please contact us at the address listed below.
 
-#### Changes to this Policy
+#### Use of Cookies and Web Beacons
 
-HealthWikiNews.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
+We collect non-personally identifiable information through cookies. This is merely a small data file that your browser allows us to place on your hard drive so we can associate you with the device you have.
 
-#### Governing law
+**We assign cookies for:**
 
-This policy and the use of this Site are governed by Indian law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Nagpur. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us.
+  * Track usage across the Professional Sites and Services
+  * Help us dynamically generate advertising and content to users
+  * Assess which professional site pages and services you access
 
-If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Nagpur under the rules of the india. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
 
-This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
 
-#### Access to Information
+If you are registered, we may decide to associate your registration information with our cookies. This step allows us to provide more customized content, including advertisements, and enhance personalization and functionality of the services.
 
-[healthwikinews.com](http://www.healthwikinews.com/ "healthwikinews.com") maintains the accuracy of our information through ongoing content refreshing Users may access their own personal information and contact us about inaccuracies they may find.
+As stated below, when you download and install any of our mobile applications onto your device, we assign a random number for your installation. This is similar to a cookie.
 
-#### Data Storage and Security
+Most browser software can be set to reject all cookies. If your browser is set to reject, websites that are cookie-enabled will not recognize you when you return to our site. It’s important to note that some website functionality may be lost.
 
-[healthwikinews.com](http://www.healthwikinews.com/ "healthwikinews.com") protects user information with the following security measures: secure servers, firewalls, SSL encryption and other technologies.
+Refer to the help section of your browser to access options.
 
-#### Personal & Confidential Information Usage Policy?
+We may use web beacons and cookies to serve you targeted advertisements when you visit other sites owned and operated by us. We may also use web beacons to track emails. Web beacons are tiny graphic image files, embedded in a website page that notify the home server (which can belong to the host website, a network advertiser, or some other third party) on a non-personally identifiable basis. This may also result in a cookie.
 
-Any personal information (E-mail address, Phone numbers, fax numbers, physical address) and medical information is only used for correspondence with the viewers and is never used for marketing purpose. This information is also not shared with any third party.
+Our contracts with third parties whose web beacons may be placed on our sites to assist us in targeting its advertising are not owned and operated by the people on our end. These web beacons place cookies to enable third parties to collect non-personally identifiable information about you. These third parties have agreed not to use incriminating or personal information. Again, if your browser is set to reject cookies, this non-personally identifiable information will not be sent.
 
-#### Advertising Policy & Site Funding
+With sale of advertising, we may allow a third party to place a cookie on your browser to enable advertisers to recognize your browser on a non-personally identifiable basis. One again, the same procedures apply.
 
-“All the advertisements on the site are contextual to the topic and dynamically placed by Google. These advertisements can be utilized by the viewers… This is the only source of funding for maintaining the site.”
+We do not control the third parties’ use of cookies or web beacons, or how they manage the non-personally identifiable information. However, we do require sponsors, advertisers, and Ad Servers. They have been authorized to collect cookie or web beacon information through the services. They have agreed not to collect any personally identifiable information. Further, they have also agreed not link any non-personal cookie or web beacon.
 
-#### Editorial Content & Advertisements
+Certain Ad Servers and third party firms allow you to prevent them from collecting data or serving advertisements through the use of their cookies. You can opt of it. You can also do this for Cookies for several Ad Servers and analytic firms by visiting the [Network Advertising Initiative](http://www.networkadvertising.org/choices/) gateway opt-out website. Head over to this site will also allow you to review the privacy policies.
 
-“For the benefit of the viewers, healthwikinews clearly mentions ‘Advertisement’ on its website in order to distinguish the editorial content from the commercial content (advertisement).”
+#### Children’s Privacy
 
-#### Product Endorsements Policy
+We are committed to protecting the children. The Professional Sites and Services are solely for adults over the age of 18.
 
-“We do not endorse any healthcare product and any links to a recommended product is solely for the purpose of viewer information. Our intention is to direct the customer to the sites which we have referenced for our research. We do not recommend any product purchase from any particular manufacturer. Also, healthwikinews does not have a funding mechanism by way of Clicks made on a particular link.”
+#### Uses and Disclosures We Make of Information
 
-#### Google Adsense and Third Party Advertising
+The personally identifiable information that you provide will be used to provide the services you have requested or authorized.
 
-We use [Google AdSense ](http://en.wikipedia.org/wiki/AdSense "Google AdSense")and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used, please click here: [http://www.google.com/privacy.html ](http://www.google.com/privacy.html "Privacy Policy")
+#### Aggregate Data
 
-#### DoubleClick Dart Cookies
+We create aggregate data about users for product development and improvement, and for market analysis. We may provide information about users in aggregate form to third parties. The information is done professionally, with your well-being in mind at all times. For instance, we may tell a client what percentage of registered users of the site reside in a particular geographical area or specialize in a particular clinical area, or what percentage of participants in a market research survey selected a particular response to a survey question.
 
-Google AdSense uses the DoubleClick DART cookie to gather the information specified above. In the course of serving advertisements to this site, our third-party advertiser may place or recognize cookies on your browser. You may decline to provide personal information to them and/or refuse cookies in your browser, although some of features may not function properly as a result. For more information on the DoubleClick DART cookie and privacy: <http://www.doubleclick.com/privacy/faq.aspx>.
+When aggregated information is provided to a third party, it is pooled along with other individual records. These are stripped of any data that could be used to identify you. Any third party that receives aggregated information must agree to this procedure.
 
-**This Privacy Policy was last updated on 03-21-2013.**
+#### Marketing and Advertising
 
-### Health Wiki Related Articles
+We may target its advertising and marketing based on information you provide upon registration. For instance, a user that we knows is a cardiologist may be served cardiology-related advertisements on both our site and third party websites. We serve these ads with the use of cookies and web beacons. Additionally, we may geographically target its advertising to registered and unregistered users based on IP address.
+
+We may also personalize the services and the advertising that registered users see based on individual interests.
+
+#### Third Parties
+
+We may also share personally identifiable information with third parties as described below.
+
+  * **Other Companies** : When you are interacting with one of these companies, a specialized privacy policy may apply and will be presented to you at such time.
+  * **Companies and People Who Work for Us** : If you are a healthcare professional, we may request that a third-party to validate your licensure status and other related information. We require all companies to comply with the terms of this Privacy Policy. This is done to protect your identity and to limit their access.
+  * **Market Research** : From time to time, we may invite you to participate in sponsored or non-sponsored market research surveys as further described above. Should you choose to participate in a survey administered by a third-party market research company, this company may identify you. Nonetheless, we require these companies to approve policies that protect you.
+  * **Business Transfers** : If one of us transfers a business unit or an asset to another company, we ensure that these companies to honor the terms.
+  * **Legal Requirements** : We only release account and other personally identifiable information when (1) it is required to comply with valid legal requirements such as a law, regulation, search warrant, subpoena or court order; or (2) when it is reasonable in response to a threat. In the event that the unfortunate happens, we will attempt to notify you unless doing so would violate the law, court order or government instruction.
+  * **Consent** : We always get your consent, especially in the release of personally identifiable information to a third party.
+
+
+
+If we discover that a third party inadvertently disclosed personally identifiable information about any of our users, we will take immediate action for your safety and precaution.
+
+#### Security of Information
+
+Here are the security measures we take to protect information we have collected.
+
+#### General Policies
+
+We have implemented technology and security policies, rules and other measures to protect personal data. This is to ensure and respect your confidentiality. We use security methods to determine the identity of registered users, so that appropriate rights and restrictions can be enforced. Reliable verification of user identity is called authentication. We use both passwords and usernames for this. Users are mainly responsible for maintaining passwords.
+
+#### Employees
+
+Employees are required to keep your information private. Only authorized employees are permitted to access health information. Everyone is duty-bound to abide by this to avoid termination and legal action.
+
+#### Access to Information and Choices
+
+We obtain and correct information about you. For errors, you may edit your personal profile any time. Requests for deletion of your record may result in your removal, but we may keep certain demographic information for product improvement purposes. You may contact Customer Support and ask for the changes you deem necessary.
+
+#### Use of your Information Outside of the EEA
+
+We will collect, store, and process information about your use of the Services in countries outside of the European Economic Area (EEA) as necessary. This is the task that every legitimate business must do.
+
+By using the Services, you agree to such collection, storage, and processing outside of the EEA. We take the necessary steps to ensure your information is protected.
+
+#### Privacy Questions or Concerns
+
+For privacy questions or concerns about our website or services, please use our [Contact Us](http://www.healthwikinews.com/contact-us/) form
+
+**Terms of Use** Our Terms of Use agreements can be found [Here](http://www.healthwikinews.com/terms-of-service/).
