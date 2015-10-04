@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the designtutorials4u.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224175632id_/http%3A//designtutorials4u.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designtutorials4u.com privacy policy that was archived on 2015-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151004154952id_/http%3A//designtutorials4u.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Web Design Tutorials and Inspiration | Learn Photoshop Online | Creative Inspiration | Web Resources
+# Web Design Tutorials and Inspiration | Learn Photoshop Online | Creative Inspiration | Web Resources | Privacy Policy
 
 ## Privacy Policy
 
