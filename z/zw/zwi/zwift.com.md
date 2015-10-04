@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zwift.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315012818id_/http%3A//zwift.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zwift.com privacy policy that was archived on 2015-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151004144224id_/http%3A//zwift.com/privacy) for the most accurate reproduction.*
 
 # Zwift - Privacy
 
@@ -42,7 +42,7 @@
   * 13\. Links.
     The Services may contain links to other websites. We are not responsible for the privacy practices of any such other website and urge you to review such practices prior to submitting any information to such websites. 
   * 14\. Children’s Privacy. 
-    We are committed to protecting the privacy needs of children and we encourage parents and guardians to take an active role in their children’s online activities and interests. The Services are not intended for and may not be used by children under the age of 13. We do not knowingly collect information from children under the age of 13 and we do not target the Services to children under the age of 13. 
+    We are committed to protecting the privacy needs of children and we encourage parents and guardians to take an active role in their children’s online activities and interests. The Services may not be used by children under the age of 13 without a parent’s express written consent. We do not knowingly collect information from children under the age of 13 and we do not target the Services to children under the age of 13.
   * 15\. Changes.
     We may update this Privacy Policy from time to time. If under any such update we make any material change to the way in which we treat your User Information, we will inform you of such change via email or by posting a notice on relevant areas of the Services. Any updated version of this Privacy Policy will be effective as of the date set forth therein. 
     
@@ -50,5 +50,7 @@
 ### Questions.
 
 If you have any questions about this Privacy Policy, please feel free to contact us by email at privacy@zwift.com.
+  *   
+
 
 
