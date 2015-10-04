@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stylingyou.com.au privacy policy that was archived on 2014-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141207205321id_/http%3A//www.stylingyou.com.au/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylingyou.com.au privacy policy that was archived on 2015-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151004040647id_/http%3A//www.stylingyou.com.au/about/privacy) for the most accurate reproduction.*
 
 # Privacy - Styling You :: Styling You
 
@@ -14,4 +14,6 @@ We use the information we collect for the purpose disclosed at the time of colle
 
 If you at any time receive any communication from www.stylingyou.com.au which you would not like to receive, please contact us and we will remove your name from our mailing list. If you would like to check or amend your contact details, please contact us. We will deal with all requests for access to personal information as quickly as possible.
 
-[](http://www.printfriendly.com/print?url=http%3A%2F%2Fwww.stylingyou.com.au%2Fabout%2Fprivacy%2F)
+## Stay in touch
+
+For a daily email update, click **[HERE](http://stylingyou.us1.list-manage1.com/subscribe?u=afd8caaaa2f099e64f6a643f8&id=40ed249bb6)**. Or hit the subscribe button below for weekly news in your inbox. 
