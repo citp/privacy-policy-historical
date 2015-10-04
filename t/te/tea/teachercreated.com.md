@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teachercreated.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608043051id_/http%3A//www.teachercreated.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachercreated.com privacy policy that was archived on 2015-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151004114330id_/https%3A//www.teachercreated.com/company/privacy.php) for the most accurate reproduction.*
 
 # Privacy and Security | Teacher Created Resources
 
@@ -28,4 +28,12 @@ Periodically, we may share your information with a select few companies who woul
 
 When on a secure Web page, you should see the security icon on your browser's status bar light up and lock, or some other security-notifying feature on your browser enable itself.
 
-If you have any questions about the Teacher Created Resources or require further information, please contact:
+If you have any questions about the Teacher Created Resources or require further information, please contact us:
+
+Teacher Created Resources  
+6421 Industry Way  
+Westminster, CA 92683
+
+Phone: 888-343-4335 (M-F 7am-4pm Pacific)  
+Fax: 800-525-1254  
+E-Mail: [custserv@teachercreated.com](mailto:custserv@teachercreated.com)
