@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inspire2rise.com privacy policy that was archived on 2015-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150331000713id_/http%3A//www.inspire2rise.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspire2rise.com privacy policy that was archived on 2015-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151004193906id_/http%3A//www.inspire2rise.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Inspire2rise.com © 2012
 
