@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instacashkeywords.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613000833id_/http%3A//www.instacashkeywords.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instacashkeywords.com privacy policy that was archived on 2015-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151004111750id_/http%3A//www.instacashkeywords.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
