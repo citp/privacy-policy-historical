@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lucasentertainment.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203022228id_/http%3A//www.lucasentertainment.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lucasentertainment.com privacy policy that was archived on 2015-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151005015550id_/http%3A//www.lucasentertainment.com/company/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Lucas Entertainment - Official Website
+# Privacy Policy| Lucas Entertainment | HD Gay Porn
 
 #### I. Introduction
 
