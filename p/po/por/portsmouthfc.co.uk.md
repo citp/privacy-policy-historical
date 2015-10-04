@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the portsmouthfc.co.uk privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626134839id_/http%3A//www.portsmouthfc.co.uk/global/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portsmouthfc.co.uk privacy policy that was archived on 2015-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151004100601id_/http%3A//www.portsmouthfc.co.uk/global/privacy-policy.aspx) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
