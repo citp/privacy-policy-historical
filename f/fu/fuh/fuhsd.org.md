@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fuhsd.org privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403125628id_/http%3A//fuhsd.org/portal/privacy%3Fd%3Dx%26return_url%3D1364877843129) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuhsd.org privacy policy that was archived on 2015-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151004174635id_/http%3A//www.fuhsd.org/portal/privacy%3Fd%3Dx%26return_url%3D1443760265451) for the most accurate reproduction.*
 
 # Privacy Notice
 
 ## School Loop Privacy Notice 
 
-(last updated July 2012)
+(last updated July 2014)
 
 ### Welcome
 
@@ -28,7 +28,7 @@ School Loop Standard is designed for staff members and other adults that the Sch
 
 ### Who Sets the Information Access Rules for the Service?
 
-Each school or school district sets the rules for accessing the information on the Service by configuring the privacy settings for the Service. In general, the principles outlined below apply.
+Each school or school district sets the rules for accessing the information on the Service by configuring the privacy settings for the Service. Note, Districts have privacy policies in place that govern access to information. In general, the principles outlined below apply.
 
 ### What Kind of Personal Information is Stored in the Service? Who has access to this information? 
 
@@ -83,11 +83,13 @@ School Loop staff has full access to all of the above information in order to pr
 
 When feasible, School Loop automatically collects your IP address. We also automatically collect and store statistics and other information about you and your online activities in an aggregated, non-personally identifiable basis. This information helps school administrators assess and manage the School Loop system.
 
+Google Analytics is used internally by School Loop for development and improvement purposes. Google Analytics collects aggregated usage statistics on School Loop. We use this information to evaluate the effectiveness of our interface, and to evaluate the level of use of various features. Google Analytics is not intended to track data about individuals. Note, this data will never be sold to a third party.
+
 ### When Will School Loop Disclose the Information it Collects to Outside Parties?
 
-School Loop may store and disclose personal information as allowed or required by applicable law, including making disclosures that are necessary or advisable to: (a) protect the rights, safety or property of users of the Service or the School Loop Site, the public, or School Loop or our web site suppliers; (b) conform to legal or regulatory requirements; (c) with the district's permission, to deliver additional subcontracted services run by third parties.
+School Loop may store and disclose personal information as allowed or required by applicable law, including making disclosures that are necessary or advisable to: (a) protect the rights, safety or property of users of the Service or the School Loop Site, the public, or School Loop or our web site suppliers; (b) conform to legal or regulatory requirements; (c) with the district's permission, to deliver additional subcontracted services run by third parties. These integrations are governed by the district’s privacy policy.
 
-We do not otherwise disclose personal information collected by the Service to third parties. 
+Google Analytics is used internally by School Loop for development and improvement purposes. Note, this data will never be sold to a third party. Google Analytics collects aggregated usage statistics on School Loop. We use this information to evaluate the effectiveness of our interface, and to evaluate the level of use of various features. Google Analytics is not intended to track data about individuals. We do not otherwise disclose personal information collected by the Service to third parties. 
 
 ### How does School Loop Protect Personal Information?
 
@@ -95,11 +97,15 @@ We take reasonable steps to protect the data we collect from unauthorized access
 
 ### What about "cookies"?
 
-"Cookies" are small pieces of information that are transferred to your browser and stored on your computer's hard drive. Our cookies enable us to provide you with more personal service. Cookies also allow us to track usage patterns, trends and other aggregate visitor information. Most web browsers automatically accept cookies, but you can usually change your browser to prevent that if you would rather not store the information for future use. Please be aware, however, that if you choose not to store a cookie, you will need to login repeatedly, because cookies are what we use to manage your sessions. We may also collect certain technical and routing information about your computer to facilitate your use of the site and its services (such as browser type, operating system and the Internet Protocol ("IP") address of your computer). We do not match such information with any of your personal information without expressly informing you in each particular instance. 
+"Cookies" are small pieces of information that are transferred to your browser and stored on your computer's hard drive. Our cookies enable us to provide you with more personal service. Cookies also allow us to track usage patterns, trends and other aggregate visitor information. Most web browsers automatically accept cookies, but you can usually change your browser to prevent that if you would rather not store the information for future use. Please be aware, however, that if you choose not to store a cookie, you will need to login repeatedly, because cookies are what we use to manage your sessions. We may also collect certain technical and routing information about your computer to facilitate your use of the site and its services (such as browser type, operating system and the Internet Protocol ("IP") address of your computer). We do not match such information with any of your personal information without expressly informing you in each particular instance. We do not capture IP or other personally identifiable information.
 
 ### Third-party Sites
 
 We may offer links to third party sites from our site. Please note that we are not responsible for the content or privacy practices of any non-School Loop sites to which we may link. You should review the privacy policy of such sites before using the sites or providing any personal information.
+
+### Third-Party Integration
+
+By enabling any third party services (e.g. choosing to connect to and access Google Drive, a third party service, through your School Loop locker), you agree that School Loop is not responsible for the accuracy, legality, availability or reliability of any such third party services, the acts or omissions of any providers of such third party services or any information made available in connection with such third party services. Please remember that the manner in which such third party services use, store and disclose your information is governed solely by the policies of such third parties, and School Loop will have no liability or responsibility for the privacy practices or other actions of any provider of such third party service. As such, you agree not to seek to hold School Loop liable or responsible for any damage or loss caused by or in connection with the use of such third party services. School Loop enables these features merely as a convenience and the integration or inclusion of such features does not imply an endorsement or recommendation. 
 
 ### Business Transitions
 
@@ -118,5 +124,3 @@ As School Loop is a product for schools and school districts, access to student 
 ### Questions and Feedback 
 
 If you have any questions about this Privacy Notice or to provide us with feedback to help us improve our policies, please contact us by email at **info@schoolloop.com.**
-
-**Last Update to this Privacy Policy: July 2012**
