@@ -1,0 +1,67 @@
+> *The following text is extracted and transformed from the gearboxsoftware.com privacy policy that was archived on 2015-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151004124322id_/http%3A//www.gearboxsoftware.com/privacy) for the most accurate reproduction.*
+
+# Gearbox Software Privacy Policy
+
+## Gearbox Privacy Policy
+
+Because Gearbox Software, LLC (“Gearbox”) respects the privacy of its online visitors and customers, Gearbox has adopted this privacy policy with respect to information collected through its online products, online services and websites (collectively “Gearbox services”); this includes the online service currently known as Shift. While this policy is not designed to confer any legal rights, it is designed to advance an open and trusting relationship between Gearbox and its users (“players,” “users” or “you”). Please read the following policy carefully so you are aware of what we are trying to do.
+
+By registering or using Gearbox services, you agree that Gearbox may transfer and store your account information in the United States of America, the laws of which will exclusively govern any disputes arising from the use of Gearbox services consistent with the mandatory arbitration requirements contained in Gearbox’s Online End User License Agreement (EULA). The use of Gearbox services also constitutes a voluntary and full waiver of any foreign laws and/or jurisdictions (e.g., the EU Directive). By accessing Gearbox services, you agree that Gearbox may process your data in accordance with the following privacy policy, that you agree to be bound by Gearbox’s privacy policy, and that you will abide by Gearbox’s terms and conditions.
+
+Use of Gearbox Services is subject to other terms and conditions prescribed within the governing End User License Agreement, the materials provided when purchasing the game(s), and terms governed by third parties in connection with the use of their gaming consoles and their online services. All such terms and conditions are incorporated herein by reference and must be respected by users when utilizing Gearbox services.
+
+Gearbox reserves the right to make changes to this privacy policy. If Gearbox makes a material change to this privacy policy, your continued use of Gearbox services will signify your voluntary acceptance of the changes.
+
+_Collection and Use of Information_
+
+The type of information that Gearbox collects from each user varies depending upon the activities in which each user engage. For example, participation in the Gearbox service known as “Shift” requires its users to provide additional forms of data, including personally identifiable information. Those who use Gearbox services knowingly and voluntarily enable Gearbox to collect information as follows:
+
+“Aggregate information” is information that tends to describe the habits, usage patterns, and demographics of users as a group without revealing the identity of any particular user. Aggregate information might include, for example, the percentage of users that connect to Gearbox services via a particular internet browser. Gearbox collects Aggregate Information for service-improvement purposes and may share such information with the publisher of the game(s) with which Shift is provided. When users utilize Gearbox services via internet-capable hardware, Aggregate Information may be exchanged with Gearbox without any additional notice or actions taken by users.
+
+“Individual information” is information presented in a form distinguishable from information relating to other users, without necessarily identifying any particular user. Individual information may include, for example, the countries wherein certain users are located. Individual information may be used to individually tailor, improve and communicate Gearbox services (e.g., sharing news about updates, contests, events, promotional materials, etc.).
+
+Online gameplay via Gearbox services entails the automatic collection of both aggregate and individual information (often referred to as “telemetry”) by Gearbox; such data will be handled consistent with this policy.
+
+“Personally identifiable information” is information that personally identifies a particular user. Personally identifiable information might include, for example, the names and e-mail addresses of particular users. Gearbox services will process and store whatever personally identifiable information a user chooses to provide, and we reserve our right to collect and retain whatever users share.
+
+The online service known as “Shift” collects telemetry and personally identifiable information from its registered users, and remains limited to those who opt-in to such collection. All information collected by “Shift” will be handled consistent with this policy.
+
+Personally identifiable information provided in connection with Gearbox services may be available to others. During registration with Gearbox services, for example, Gearbox may collect a user’s ID, which may then be viewable to other users. Users accept the risks of whatever information they share, and Gearbox has no obligation to preserve the privacy of personally identifiable information that users make available to others via any Gearbox services. Information that is manually submitted and shared by users (e.g., information disclosed during multiplayer gaming) is unprotected public information that may also be displayed to others and/or used by Gearbox in its discretion. Accordingly, users are encouraged to exercise care when conveying information during their game play and users should always be careful to protect their passwords.
+
+Gearbox may provide online avenues for questions or comments. In the process of receiving and responding to such communications, Gearbox may collect personally identifiable information, such as your e-mail address or any other personal data contained in the e-mail message. 
+
+Gearbox’s privacy policy does not extend to external websites and companies who may collect personally identifiable information about users; users are advised to refer directly to those external companies and websites for information regarding their specific policies. This is important because Gearbox cannot control or guarantee the security of any information collected by third parties. That said, Gearbox will take steps in compliance with the written guidelines of its partners regarding the use or handling of such information.
+
+Gearbox does not knowingly collect information from children under 13 years of age. Gearbox discourages such collection and encourages parents to instruct their children to never reveal personally identifiable information (e.g., real names, addresses or phone numbers), without their permission when using the internet.
+
+Although Gearbox is committed to taking reasonable steps to protect information from unauthorized access or disclosure, Gearbox may be required to release information as necessary to comply with applicable law(s). 
+
+Since 2005, California Civil Code Section 1798.83 permits California residents to request certain information regarding disclosure of personal information to third parties for direct marketing purposes. Additional information regarding California is available via www.ca.gov.
+
+In all circumstances, personally identifiable information may be retained as necessary to maintain the security, integrity and operation of Gearbox services.
+
+_Cookies & Other Information on User Machines_
+
+“Cookies” are bits of electronic information that can be transferred to a user’s hardware, and Gearbox services utilize cookies in tandem with Gearbox services. For example, when a user signs into a component of Gearbox Services, Gearbox may store that user’s unique identifier and other information as a cookie; the cookie in this example can facilitate movement between pages without having to repeatedly enter the information saved within the cookie.
+
+In a similar fashion, Gearbox also stores information in conjunction with Gearbox services. An example might include a unique authorization key that is downloaded automatically during registration in order to confirm a user’s access to Gearbox’s services (which can then automatically generate and submit data to Gearbox regarding bug reports and other potential software issues). This automatically-generated information may include limited statistical data about other software and hardware on a user’s system.
+
+_Chat Forums, Etc._
+
+From time to time, Gearbox services may provide chat forums, bulletin boards, or instant messaging tools to users. Any information disclosed by users via such forums constitutes unprotected public information, and users should therefore exercise caution when deciding to disclose personal information in such forums.
+
+_Choice/Opt-out_
+
+Gearbox intends to convey—and support—various promotions via Gearbox services. Future instructions for discontinuing receipt of promotional communications from Gearbox will be provided to users; everyone is welcome to wait for such instructions before using Gearbox services. Users who do not wish to receive such communications may also deactivate their account(s).
+
+_Risks & Rewards_
+
+Like everything else in life, participation in Gearbox services entails various risks and rewards that are both known and unknown; this is especially true for new adventures involving technology, such as Gearbox services.
+
+For those users who are looking for a shared gaming experience, information-sharing is a fundamental and familiar aspect of that pursuit. However, those who are more risk-adverse—or who simply prefer a more isolated gaming experience—may not wish to participate in Gearbox services precisely because information-sharing is a necessary component to the experience. As much as we want users to enjoy Gearbox services, participation remains a voluntary endeavor that users are free to forego.
+
+Users who have questions, comments, or concerns regarding this privacy policy may contact Gearbox at [privacy@gearboxsoftware.com](mailto:privacy@gearboxsoftware.com).
+
+By utilizing Gearbox services, each user is fully accountable for accepting the terms of this privacy policy and all other applicable agreements; users looking to blame others for anything relating to their use of Gearbox services are both uninvited and ineligible to use Gearbox services. By utilizing Gearbox services, each user confirms that he or she understands these terms, having received sufficient answers to any and all questions that he or she considered material to his or her decision-making.
+
+Game on!
