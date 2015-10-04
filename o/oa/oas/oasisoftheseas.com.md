@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oasisoftheseas.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407164056id_/http%3A//www.oasisoftheseas.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oasisoftheseas.com privacy policy that was archived on 2015-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151004211009id_/http%3A//www.oasisoftheseas.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Allure of the Seas | Oasis Of The Seas
 
