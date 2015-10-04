@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wimsbios.com privacy policy that was archived on 2014-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140817070833id_/https%3A//www.wimsbios.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wimsbios.com privacy policy that was archived on 2015-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151004233738id_/https%3A//www.wimsbios.com/privacy.jsp) for the most accurate reproduction.*
 
-# Privacy policy - Wim's BIOS
+# Privacy policy - Wim's BIOS • Wim's BIOS
 
 Wim's BIOS Page, and its advertisers and affiliates are deeply committed to protecting the privacy of Internet users.
 
