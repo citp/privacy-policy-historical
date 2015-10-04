@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the schoolspring.com privacy policy that was archived on 2015-05-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150528192110id_/http%3A//www.schoolspring.com/about/privacypolicy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the schoolspring.com privacy policy that was archived on 2015-10-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151004090915id_/https%3A//www.schoolspring.com/about/privacypolicy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
@@ -8,14 +8,15 @@
 	
 	<meta name="keywords" content="teaching jobs,education jobs,principal jobs,teaching,teachers,educators,teacher positions,employment,teacher resume">
     <title>SchoolSpring: Privacy Policy</title>
-
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+	<script type="text/javascript" async="" src="https://ssl.luckyorange.com/w.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script src="/js/jquery-1.11.1.min.js"></script>
     <!-- Bootstrap -->
     <link rel="stylesheet" href="/css/bootstrap.min.css">
 	<link href="/css/next1.css" rel="stylesheet" type="text/css">
 	<!--[if IE 8]><link rel="stylesheet" href="/css/next1-ie8.css"><![endif]-->
 	<!--[if IE 9]><link rel="stylesheet" href="/css/next1-ie9.css"><![endif]-->
 
-	<script type="text/javascript" async="" src="https://ssl.luckyorange.com/w.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script language="javascript" src="/js/trackLink.js"></script>
+	<script language="javascript" src="/js/trackLink.js"></script>
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -47,7 +48,7 @@
     <div class="platform-navbar-login">
       
 	  <form style="display:inline;" name="login" action="https://www.schoolspring.com/login.cfm" method="post">
-	  <div class="dropdown">
+	  <div id="modalLoginContainer" class="dropdown">
         <button class="btn btn-default dropdown-toggle" type="button" id="LogInMenu" data-toggle="dropdown">
           Log In
         </button>
@@ -81,13 +82,21 @@
       <ul class="nav navbar-nav navbar-right">
         
 		<li class="btn-white"><a href="/account">My Profile</a></li>
-        <li class="btn-orange"><a href="/searchform.cfm"><span class="glyphicon glyphicon-search"></span>Find a Job</a></li>
+        <li class="btn-orange"><a href="/search.cfm"><span class="glyphicon glyphicon-search"></span>Find a Job</a></li>
         <li class="btn-blue"><a href="/employers"><span class="glyphicon glyphicon-list-alt"></span>Post a Job</a></li>
       </ul>
     </div><!--/.nav-collapse -->
   </div> <!--/.container -->
 </div> <!--/.navbar -->
 </nav>
+
+<script>
+
+function ShowLogin(){
+		$("#modalLoginContainer").toggleClass("open");	
+}
+
+</script>
 <div align="center">
 <header class="about-us">
   <div class="container">
@@ -139,26 +148,29 @@
 </div>
 
 <div class="container hidden-print">
-	<div class="hidden-xs">
 	
+		<div class="hidden-xs adMove">
 		
-		<script type="text/javascript" src="//partner.googleadservices.com/gampad/google_service.js"></script>
+			
+			<script type="text/javascript" src="//partner.googleadservices.com/gampad/google_service.js"></script>
+			<script type="text/javascript">
+			  GS_googleAddAdSenseService("ca-pub-9749920420673263");
+			  GS_googleEnableAllServices();
+			</script>
+		
 		<script type="text/javascript">
-		  GS_googleAddAdSenseService("ca-pub-9749920420673263");
-		  GS_googleEnableAllServices();
+		  GA_googleAddSlot("ca-pub-9749920420673263", "SS_footer_728x15");
 		</script>
+		<script type="text/javascript">
+		  GA_googleFetchAds();
+		</script>
+		<script type="text/javascript">
+		GA_googleFillSlot("SS_footer_728x15");
+		</script>
+		</div>
 	
-	<script type="text/javascript">
-	  GA_googleAddSlot("ca-pub-9749920420673263", "SS_footer_728x15");
-	</script>
-	<script type="text/javascript">
-	  GA_googleFetchAds();
-	</script>
-	<script type="text/javascript">
-	GA_googleFillSlot("SS_footer_728x15");
-	</script>
-	</div>
 </div>
+<div style="clear:both"></div>
 <footer>
   <div class="container hidden-print">
     <div class="row">
@@ -168,7 +180,7 @@
           3520 W 75th St.<br>
           Suite 300<br>
           Prairie Village, KS 66208 <br>
-          1-888-546-3487 (toll free, US only)<br>
+          1-888-826-4034 (toll free, US only)<br>
           1-802-660-8567 (local and outside US)<br>
           <a href="mailto:support@schoolspring.com">support@schoolspring.com</a>
         </address>
@@ -178,7 +190,7 @@
 	      <div class="col-sm-4 footer-sitemap">
 	        <h3>Get&nbsp;Started</h3>
 	        <ul class="sitemap">
-	          <li><a href="/searchform.cfm">Find a job</a></li>
+	          <li><a href="/search.cfm">Find a job</a></li>
 	          <li><a href="/employers">Post a job</a></li>
 	          <li><a href="/account">My Account</a></li>
 	        </ul>
@@ -257,10 +269,8 @@
 	})();
 	</script>
 
-	<!-- Served by: 10.153.231.90 --> 
+	<!-- Served by: 10.167.199.29 --> 
 
-<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-<script src="/js/jquery-1.11.1.min.js"></script>
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="/js/bootstrap.min.js"></script>
 <div id="feedback-bar">
