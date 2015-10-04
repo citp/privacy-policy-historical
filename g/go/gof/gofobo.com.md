@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gofobo.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611203738id_/http%3A//www.gofobo.com/main/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gofobo.com privacy policy that was archived on 2015-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151004203222id_/https%3A//gofobo.com/main/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
