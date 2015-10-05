@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taylorstitch.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407121808id_/http%3A//taylorstitch.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taylorstitch.com privacy policy that was archived on 2015-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151005140327id_/http%3A//www.taylorstitch.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Taylor Stitch
 
