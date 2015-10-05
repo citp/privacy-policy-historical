@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the updater.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320222347id_/https%3A//www.updater.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the updater.com privacy policy that was archived on 2015-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151005200419id_/http%3A//www.updater.com/privacy) for the most accurate reproduction.*
 
-# Updater | Privacy
+# Privacy - Updater
 
 ###### Introduction
 
@@ -8,19 +8,19 @@ Updater's mission is to put you in control. We want to help you organize and com
 
 ###### Our pledge
 
-We never sell, rent or share your personal information behind your back. We would only make an exception to this pledge if we were required to do so by law.
+We never sell, rent or share your personally identifiable information behind your back. We would only make an exception to this pledge if we were required to do so by law.
 
 ###### Information we share
 
-We do not share your personal information (such as your name, old or new address, move date, etc.) with companies, organizations or individuals outside of Updater unless one of the following circumstances apply:
+We do not share your personal information (such as your name, old or new address, move date, etc.), regardless of whether or not you are a User (as defined below), with companies, organizations or individuals outside of Updater unless one of the following circumstances apply:
 
- **To implement our services**
+**To implement our services**
 
-In order to implement any of the services (each a “Service” and collectively our "Services") that we offer at https://www.updater.com or technology "powered by Updater" available on third party websites (Collectively, the "Site"), we may need to share your personal information with third parties. In such situations, we may share only such personal information as is necessary to to complete the ordered Service that requires sharing of your information to implement said Service. For example, if you request a free consultation with ADT Home Security, we will share your applicable information with our ADT marketing partner so that they may contact you; or if you instruct us to send a change of address notification to a certain organization, we share your applicable information with the selected organization so that they may process your requested address change.
+In order to implement any of the services (each a “Service” and collectively our "Services") that we offer at https://www.updater.com or technology "powered by Updater" available on third party websites (Collectively, the "Site"), we may need to share your personal information with third parties. In such situations, we may share only such personal information as is necessary to complete the requested Service. For example, if you request a consultation with a company, we will share your applicable personal information with such company so that they may contact you; or if you instruct us to send a change of address notification to a certain organization, we will share your applicable information with the selected organization so that they may process your requested address change.
 
  **With your explicit consent**
 
-We may share your personal information that you provide on the Site to certain third parties if you instruct us to share your information, or you consent to the sharing of your personal information by opting-in to hear about certain deals in your neighborhood or other marketing initiatives.
+We may share your personal information that you provide on the Site to certain third parties if you instruct us to share your information, or if you consent to the sharing of your personal information via opt-in.
 
  **To share with friends**
 
@@ -28,7 +28,7 @@ We'll share your name, old and new address via email to your personal contacts t
 
  **For external processing**
 
-We may provide your personal information to our affiliates or other trusted businesses or persons to process certain services, such as filing USPS Change of Address Forms. In all such situations, the provision of information is necessary for processing a Service that you order and appropriate confidentiality and security measures are in place to protect your information.
+We may provide your personal information to our affiliates or other trusted businesses or persons to process certain services, such as filing USPS Change of Address Forms. In all such situations, the provision of information is necessary for processing a Service that you request and appropriate confidentiality and security measures are in place to protect your information.
 
  **For legal reasons**
 
@@ -41,19 +41,41 @@ We'll share your personal information with companies, organizations or individua
 
  **For aggregate or reflective data**
 
-We may share aggregated, non-personally identifiable information publicly and with our partners (“Aggregate Data”). For example, we may share information publicly to show moving trends and other information about new movers. Data of all Users (as defined below) may be included.
+We may share aggregated, non-personally identifiable information publicly and with our partners (“Aggregate Data”). For example, we may share information publicly to show moving trends and other information about relocating consumers. Data of all Users (as defined below) may be included.
 
-We may use old and new address data of a User (as defined below) to indicate the general or approximate location of a recent move on Updater (“Reflective Data”). In such situations, old and new address data are randomly obscured in order to not display the User's actual old or new address. Thus, the data shown publicly is merely reflective of the area of the recent move.
+We may use old and new address data of a User (as defined below) to indicate the general or approximate location of a recent move (“Reflective Data”). In such situations, old and new address data are randomly obscured in order to not display the User's actual old or new address. Thus, the data shown publicly is merely reflective of the area of the recent move.
 
 Any User who does not want Updater to use his or her personal information in either Aggregate Data or Reflective Data sets, whether such data sets are shared publicly or not, may email [privacy@updater.com](mailto:privacy@updater.com) to opt-out any time.
 
- **With the website operator hosting Updater technology**
+ **With the business hosting Updater technology**
 
-Updater technology is made available on third party websites. In all such situations, the Services offered are clearly marked "powered by Updater". When Updater technology is powering websites other than https://www.updater.com, we may need to share your personal information with the applicable third party that owns and operates the website. In such situations, we may share your personal information only with the applicable third party business that owns and operates the hosting website, and such business will protect your personal information pursuant to their privacy policy. For example, if an Updater User creates their account on https://www.changeofaddressform.com or https://www.whitefence.com using technology powered by Updater, Updater will share certain personal information of such User with WhiteFence pursuant to their privacy policy.
+Updater technology may be made available on third party websites. In all such situations, the Services offered are clearly marked "powered by Updater". When Updater technology is powering websites other than updater.com or a subdomain within updater.com, then we may need to share your personal information with the applicable third party that owns and operates the applicable website hosting the Updater technology (the “Hosting Business”). If you create a User account via Updater technology hosted on a third party site, then Updater may share your personally identifiable information with the Hosting Business. In such situations, The Hosting Business will be encouraged to protect your personal information pursuant to their privacy policy. 
+
+**With the business or individual that invited you to Updater**
+
+You may be invited to use a personalized and custom version of Updater by a third party with whom you have a relationship, such as a real estate brokerage firm, a mortgage company, a title insurance company, a property manager, a real estate brokerage, a moving company, etc. (each an Updater “Client”). If you create a User account on a version of Updater provided by a Client, then Updater may share your personally identifiable information with the Client(s) that provided your information for purposes of generating your invitation to Updater. In such situations, Client(s) will be encouraged to protect your personal information pursuant to their privacy policy. 
+
+**With third parties that you have a pre-existing relationship in order to streamline your moving process**
+
+We may use Partner-Provided Information (defined below) and other information we collect about you to notify our Qualified Partners (defined below) that you are moving. _We do not share any of your personally identifiable information with these Qualified Partners._ If you prefer that we do not notify Qualified Partners that you are moving, please email [privacy@updater.com](mailto:privacy@updater.com) to opt-out. 
+
+A “Qualified Partner” is an Updater partner that would, pursuant to the Privacy Act of 1974, 5 U.S.C. § 552a, be eligible to receive data about you from the federal government NCOALINK database if your applicable relocation data was included in the NCOALINK database. Broadly, Qualified Partners are companies that already have at least some of your personally identifiable information, including your current address, indicating that you are an existing customer, member or client of the Qualified Partner. Qualified Partners agree not to share any information that we provide, such as a notification of an impending move, with other third parties.
+
+**If your information is publicly available**
+
+We may provide your personally identifiable information to other parties if your information is or becomes publicly available from a source other than Updater. 
+
+**With third parties in connection with certain transactions**
+
+If we sell all or part of our business, make a transfer of assets, or are otherwise involved in a change of control transaction, or in the unlikely event of bankruptcy, we may transfer information from or about you to one or more third parties as part of the transaction.
 
 ###### Information we collect
 
-We collect certain information from all visitors to our site, regardless of whether they sign up for an Updater user account or order one of our Services. Beyond this baseline level of collected information, we collect and store additional information from visitors who sign up for an Updater user account ("Users").
+We collect certain information from all visitors to our site, regardless of whether they sign up for an Updater user account or order one of our Services. Beyond this baseline level of collected information, we collect and store additional information from visitors who sign up for an Updater user account ("Users"). We also collect certain information about you from our Partners (“Partner-Provided Information”). 
+
+###### Information we collect from partners
+
+The information that we collect from our Partners may include your first and last name, email address, your old and/or new postal address, your phone number, certain dates related to your relocation process (such as the date of your lease signing or closing). 
 
 ###### Information we collect from all visitors
 
@@ -63,9 +85,42 @@ We collect from all visitors certain information about the type of computer, ope
 
 The information that we collect from Users includes, at minimum, their email address and their password. In addition, if a User fills out any of the forms on the Site while they're signed in to their account (or if a visitor to the site fills out any such forms and during that same session becomes a User), then we'll link the information contained in such forms to the User's account in our database. This information may include the User's first and last name, their new and old home addresses, their home phone number, their mobile phone number, whether the User wants Updater to file, on behalf of the User, a change of address form with the United States Postal Service, whether the User is acting on his or her own behalf or on behalf of a household, when the change of address order should become effective, and for how long it should remain in force, any businesses, educational institutions, or other organizations (each, a "Business") the User has selected to receive a change of address notification from Updater, etc. If a User orders a service that requires payment or identity verification, then we may require the User to input additional information. For example, this information may include a credit card number and credit card expiration date or, if the User selects to use a PayPal account, then we'll collect the PayPal ID of such User. Please note that we will not store any of this information other than (i) the expiration date and the last four digits of the User’s credit card number and (ii) the User's PayPal ID.
 
+###### INFORMATION FROM MULTIPLE SOURCES
+
+We may collect information about you from more than one source. We may have privacy obligations and restrictions beyond this Privacy Policy that apply to the use of your personal information, such as contractual obligations to our Clients. Contractual obligations owed to a Client are only applicable for information that we have not previously received from another source. In addition, when we receive information about you from a Client, we may use that information to append or correct information about you that we previously received from other sources.
+
 ###### Security
 
 Updater is committed to protecting the information of our Users, which is why we have chosen to protect all User information using Amazon’s Web Services cloud-based computing and data storage infrastructure. You may read more about how Amazon Web Services incorporates best practices regarding data security at this link: <https://aws.amazon.com/security/>
+
+###### Children
+
+This web site is not intended or designed to attract children under the age of 13. We do not knowingly collect personal information from or about any person under the age of 13. If you are under 13 years old and wish to ask a question or use this site in any way which requires you to submit your personal information, please get your parent or guardian to do so on your behalf. 
+
+###### Google Analytics
+
+Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the data collected to track and examine the use of this Site, to prepare reports on its activities and share them with other Google services. Google may use the data collected to contextualize and personalize the ads of its own advertising network. 
+
+We utilize several Google Analytics Advertising Features, including: 
+
+  * Remarketing with Google Analytics
+  * Google Display Network Impression Reporting
+  * DoubleClick Platform Integrations and/or
+  * Google Analytics Demographics and Interest Reporting
+
+
+
+These features are used to understand how our advertising performs and to improve our marketing efforts and the Site. For example, we use Google Remarketing and/or DoubleClick to advertise the Services. Third-party vendors, including Google, show our ads on sites across the Internet. We and third-party vendors, including Google, use first-party Google Analytics cookies and third-party DoubleClick cookies together to serve advertisements to you based on your past visits to the Site. 
+
+For more information on how Google Analytics collects and processes data, please see http://www.google.com/intl/en/policies/technologies/ads/. 
+
+You can opt out of these features by
+
+  * Changing your settings at [Google’s Ad Settings](http://www.google.com/settings/ads "Ads Settings")
+  * Installing an Opt-Out [browser add-on](https://tools.google.com/dlpage/gaoptout/ "Google Analytics Opt-out Browser Add-on")
+  * Adjusting the [settings on your web browser](http://www.google.com/intl/en/policies/technologies/managing "Managing cookies in your browser")
+
+
 
 ###### Questions
 
