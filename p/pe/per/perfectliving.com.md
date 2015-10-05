@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perfectliving.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607200401id_/http%3A//perfectliving.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectliving.com privacy policy that was archived on 2015-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151005143046id_/http%3A//perfectliving.com/privacy-policy) for the most accurate reproduction.*
 
 # Perfect Living | Privacy Policy
 
