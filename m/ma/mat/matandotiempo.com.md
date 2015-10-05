@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the matandotiempo.com privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428015801id_/http%3A//culinaryprocollection.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matandotiempo.com privacy policy that was archived on 2015-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151005041015id_/http%3A//culinaryprocollection.com/privacy-policy) for the most accurate reproduction.*
 
 # culinaryprocollection.com Privacy Policy - culinaryprocollection.com
 
-This Privacy Policy governs the manner in which Culinary Pro Collection collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.culinaryprocollection.com](https://web.archive.org/web/20150428015801id_/http://culinaryprocollection.com/privacy-policy/www.culinaryprocollection.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by Culinary Pro Collection.
+This Privacy Policy governs the manner in which Culinary Pro Collection collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.culinaryprocollection.com](https://web.archive.org/web/20151005041015id_/http://culinaryprocollection.com/privacy-policy/www.culinaryprocollection.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by Culinary Pro Collection.
 
 **Personal identification information**
 
@@ -20,13 +20,13 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 Culinary Pro Collection may collect and use Users personal information for the following purposes:
 
-  * _\- To improve customer service_  
+  * _– To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _\- To personalize user experience_  
+  * _– To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To process payments_  
+  * _– To process payments_  
 We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
-  * _\- To send periodic emails_  
+  * _– To send periodic emails_  
 We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 
@@ -52,8 +52,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Culinary Pro Collection](https://web.archive.org/web/20150428015801id_/http://culinaryprocollection.com/privacy-policy/www.culinaryprocollection.com)  
-[www.culinaryprocollection.com](https://web.archive.org/web/20150428015801id_/http://culinaryprocollection.com/privacy-policy/www.culinaryprocollection.com)  
+[Culinary Pro Collection](https://web.archive.org/web/20151005041015id_/http://culinaryprocollection.com/privacy-policy/www.culinaryprocollection.com)  
+[www.culinaryprocollection.com](https://web.archive.org/web/20151005041015id_/http://culinaryprocollection.com/privacy-policy/www.culinaryprocollection.com)  
 PO Box 1122 Sunbury, OH 43074  
 (614) 356-8549  
 jeff@culinaryprocollection.com
