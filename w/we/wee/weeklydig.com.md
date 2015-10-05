@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weeklydig.com privacy policy that was archived on 2015-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150518210430id_/https%3A//digboston.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weeklydig.com privacy policy that was archived on 2015-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151005190336id_/https%3A//digboston.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -74,7 +74,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <https://digboston.com/>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://digboston.com/>
 
 **Your Consent**
 
@@ -90,7 +90,7 @@ This policy was last modified on 10/20/2010
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-[digboston.com](https://digboston.com/)  
+[digboston.com](http://digboston.com/)  
 242 E. Berkeley St. 5th floor  
 Boston, MA 02118  
 USA  
