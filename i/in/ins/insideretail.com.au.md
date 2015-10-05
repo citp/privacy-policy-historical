@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insideretail.com.au privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609230805id_/http%3A//www.insideretail.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insideretail.com.au privacy policy that was archived on 2015-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151005035638id_/https%3A//www.insideretail.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Inside Retail
 
@@ -21,6 +21,8 @@ For each visitor to reach the site, we expressively collect the following non-pe
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will use for these new purposes only, data collected from the time of the policy change forward will adhere to our updated practices.
 
 We use personal information you provide only for purposes consistent with the reason you provided it, or for a directly related purpose.
+
+In addition, if you provide any personally identifiable information via an advertiser promotion, please be aware you are directly providing your personally identifiable information to that advertiser.
 
 Generally, we will not use your personal information to market to you  unless we have either your implied or express consent but in situations where it is impractical to obtain your prior consent, we will ensure you have an ability to opt out of future such communications.
 
