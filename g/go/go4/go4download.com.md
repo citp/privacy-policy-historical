@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the go4download.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122010427id_/http%3A//go4download.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go4download.com privacy policy that was archived on 2015-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151005075140id_/http%3A//go4download.com/privacy-policy) for the most accurate reproduction.*
 
 # Go4download.com Privacy policy Page
 
-We at go4download.com respects the privacy of all our visitors and for us, the trust of our customers is very important. Our privacy policy page will let you know as to how we use as well as protect the information that you provide us while using our site.
+[__Home](http://go4download.com/) / Privacy policy Free Download
 
-There may be changes in our policy from time to time which we will keep you updated through the page. The present policy is effective from: 1 st july 2008.
+We at go4download.com respects the privacy of all our visitors and for us, the trust of our customers is very important. Our privacy policy page will let you know as to how we use as well as protect the information that you provide us while using our site. There may be changes in our policy from time to time which we will keep you updated through the page. The present policy is effective from: 1 st july 2008.
 
-### Information Collected by us:
+[](http://i1.wp.com/go4download.com/wp-content/uploads/2014/02/privacy.jpg)
 
 Your information is collected when you register on our site or when you fill any form on our site. Information that may be collected by us includes:
 
@@ -18,7 +18,7 @@ Your information is collected when you register on our site or when you fill any
 
 
 
-### What is done with the collected information?
+## What is done with Privacy Policy collected information?
 
 All the information collected by our site is used in order to know your needs in a better manner so that we can offer services as per your requirements. We may also use the collected information for one or more of the following reasons:
 
@@ -36,7 +36,7 @@ All the information collected by our site is used in order to know your needs in
 
 
 
-### Protection of your information:
+### Privacy Policy Protection Of Your Information
 
 Wide range of security measures are used by us so as to make sure that your information is kept secured. We have placed managerial, physical and electronic procedures so as to prevent unauthorized access of the information collected.
 
