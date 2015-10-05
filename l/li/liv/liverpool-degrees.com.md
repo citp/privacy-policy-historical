@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liverpool-degrees.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104820id_/http%3A//www.university-liverpool-online.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liverpool-degrees.com privacy policy that was archived on 2015-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151005142649id_/http%3A//www.university-liverpool-online.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | University of Liverpool Online Degrees
 
@@ -23,7 +23,7 @@ For these purposes, you further expressly permit Laureate Online Education to tr
 
 ### Personal information modification
 
-You are hereby informed that you have a right to access and correct any of your personal data held by Laureate Online Education at any time, by contacting Laureate Online Education at Haarlerbergpark River Building 2nd Floor, Haarlerbergweg 23C, 1101 CH Amsterdam Z.O The Netherlands or at [contact@ohecampus.com](mailto:contact@ohecampus.com). 
+You are hereby informed that you have a right to access and correct any of your personal data held by Laureate Online Education at any time, by contacting Laureate Online Education at Haarlerbergpark River Building 2nd Floor, Haarlerbergweg 23C, 1101 CH Amsterdam Z.O The Netherlands or at [webmaster@liverpool-online.com](mailto:webmaster@liverpool-online.com). 
 
 ### Security of personal information
 
@@ -55,18 +55,18 @@ Cookies are small text files that are stored on your computer or device when you
 ### The cookies we use
 
 **1\. Necessary cookies**  
-These types of cookies allow you to move our around our website and utilize the features as intended. 
+These types of cookies allow you to move our around our website and utilize the features as intended. These cookies will only be placed by Laureate Online Education's websites and not by third parties.
 
-These cookies will only be placed by Laureate Online Education's websites and not by third parties. 
+Our necessary cookies will:  
 
-Our necessary cookies will:
 
   * Enable site functionality
   * Detect the best settings for the device you are using
 
 
 
-Our necessary cookies will not:
+Our necessary cookies will not:  
+
 
   * Store any behavioural information
   * Send any information to third parties
@@ -74,11 +74,10 @@ Our necessary cookies will not:
 
 
 **2\. Performance cookies**  
-These cookies help us to improve our website(s) and performance by telling us how people use each page, most commonly viewed pages, recurring errors, etc.
+These cookies help us to improve our website(s) and performance by telling us how people use each page, most commonly viewed pages, recurring errors, etc. The majority of our performance cookies are placed by Laureate Online Education. We also place cookies by third parties, such as companies who provide analytical information to us.
 
-The majority of our performance cookies are placed by Laureate Online Education. We also place cookies by third parties, such as companies who provide analytical information to us.
+Our performance cookies will:  
 
-Our performance cookies will:
 
   * Identifying errors within the website, allowing us to improve it
   * Help us understand user interaction
@@ -86,18 +85,18 @@ Our performance cookies will:
 
 
 
-Our performance cookies will not:
+Our performance cookies will not:  
+
 
   * Store personal information beyond your current visit
 
 
 
 **3\. Customisation cookies**  
-The purpose of these cookies is to store any personal settings (E.g. Font size) that you may have chosen on the site.
+The purpose of these cookies is to store any personal settings (E.g. Font size) that you may have chosen on the site. The majority of our performance cookies are placed by Laureate Online Education. We also place information by third parties, such as companies who provide specialist information to us.
 
-The majority of our performance cookies are placed by Laureate Online Education. We also place information by third parties, such as companies who provide specialist information to us.
+Our customisation cookies will:  
 
-Our customisation cookies will:
 
   * Store preferences that you select, such as font sizes or volume level
 
@@ -122,6 +121,12 @@ Necessary | To keep your internet session running smoothly | ASP.NET_SessionId
 Performance | To help us track referrals and pay commission when earned | ictf_il490, ictf_in490, ictf_master, sc_pview_shuser   
 Customisation | To remember the pages you've seen so you can navigate back | ASP.NET_SessionId, HasAccptedCookieLaw   
   
+### Terms and Conditions for Application Fee Waiver offer
+
+This offer is available for our 1 October, 8 October and 3 December intake dates. The Webinar recordings that are eligible for this offer are indicated on the website. For further details, speak to your enrolment advisor. The application fee waiver is subject to change at Laureate Online Education B.V.’s sole discretion, without notice.
+
+* * *
+
 ### Contact us
 
 Should you have any questions or comments regarding this Statement of Privacy, please do not hesitate to contact 
