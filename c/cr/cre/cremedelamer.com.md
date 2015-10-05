@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cremedelamer.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207001539id_/http%3A//www.cremedelamer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cremedelamer.com privacy policy that was archived on 2015-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151005164838id_/http%3A//www.cremedelamer.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | LaMer.com
 
@@ -8,7 +8,7 @@ Skip to main content
 
 ## LM Header Store Locator Link
 
-**Effective Date: October 15th, 2013**
+**Effective Date: June 18th, 2015**
 
 ## **La Mer Technology Inc. United States Privacy Policy**
 
@@ -25,6 +25,7 @@ Click on one of the links below to jump to the listed section:
   * ·                Third Party Web Analytics Services
   *           §  Targeted Advertising
   *           §  How We Use the Information Collected by Automated Means
+  *           §  California Do Not Track Notice
   * Information We Share
   * Your Rights And Choices
   * Data Transfers
@@ -38,7 +39,7 @@ Click on one of the links below to jump to the listed section:
 
 _**Information We Collect**_
 
-We may obtain personal information about you from various sources. We may collect this information when you provide it at one of our stores, on our website or in connection with our social networking or mobile applications. Our products are available for sale in many department stores. Personal information collected in these department stores is not provided to us. This Privacy Policy does not address any data collection at our retail partners. When you visit this site or our social networking or mobile applications, we may also collect certain information by automated means, using technologies such as cookies, web server logs and web beacons           
+We may obtain personal information about you from various sources. We may collect this information when you provide it at one of our stores, on our website, our social media platforms, or in connection with our social networking or mobile applications, or at one of our events. Our products are available for sale in many department stores. Personal information collected in these department stores is not provided to us. This Privacy Policy does not address any data collection at our retail partners. When you visit this site, our social media platforms, or our social networking or mobile applications, we may also collect certain information about your device or usage by automated means or by using technologies such as cookies, web server logs and web beacons.
 
       **Information You Provide**
 
@@ -78,29 +79,41 @@ We also may use the information in other ways for which we provide specific noti
 
       **Information We Collect by Automated Means**
 
-When you visit this site, we collect certain information by automated means, using technologies such as cookies, web server logs and web beacons. 
+When you visit this site or our online advertisements or use one of our social networking or mobile applications, we collect certain information about your usage or device by automated means or by using technologies such as cookies, web server logs and web beacons. For example, if you use one of our mobile applications, we may collect your unique device identifier (or other device identifier) and/or geolocation data in order to offer you certain features or functionalities within that mobile application. As set forth in more detail below, we may also collect information about your usage and browsing habits using various web-based technologies. 
 
                                      _Technologies We Use_
 
 _Cookies, Web Server Logs and Web Beacons_
 
-Cookies are small text files that websites send to your computer or other Internet-connected device to uniquely identify your browser or to store information or settings in your browser.  Your browser may tell you how to be notified when you receive certain types of cookies and how to restrict or disable certain cookies.  Please note, however, that without cookies you may not be able to use all of the features of our website. 
+Cookies are small text files that websites send to your computer or other Internet-connected device to uniquely identify your browser or to store information or settings in your browser. Your browser may tell you how to be notified when you receive certain types of cookies and how to restrict or disable certain cookies. Please note, however, that without cookies you may not be able to use all of the features of our website. 
 
-In conjunction with obtaining information through cookies, our web servers may log details such as your operating system type, browser type, domain, and other system settings, as well as the language your system uses and the country and time zone in which your device is located.  The web server logs also may record information such as the address of the web page that linked you to our site and the IP address of the device you use to connect to the Internet. 
+In conjunction with obtaining information through cookies, our web servers may log details such as your operating system type, browser type, domain, and other system settings, as well as the language your system uses and the country and time zone in which your device is located. The web server logs also may record information such as the address of the web page that linked you to our site and the IP address of the device you use to connect to the Internet. 
 
-To control which web servers collect this information, we may place tags on our web pages called “web beacons.”  These are computer instructions that link web pages to particular web servers and their cookies. 
+To control which web servers collect this information, we may place tags on our web pages called "web beacons." These are computer instructions that link web pages to particular web servers and their cookies. 
 
 _Third Party Web Analytics Services_
 
-We may use third party web analytics services on this site.  Such third party web analytics service providers may include, but is not limited to, Coremetrics and Google Analytics.  The service providers that administer these services use technologies such as cookies, web server logs and web beacons to help us analyze how visitors use the site.  The information collected through these means (including IP address) is disclosed to these service providers, who use the information to evaluate use of the website.  You may deactivate the ability of Coremetrics to analyze your browsing activities on this site.  To learn more about Coremetrics, and exercise your choice with respect to their collection of information on this site, please [click here](https://web.archive.org/customer_service/coremetrics_optout.tmpl) **.  ** To disable the Google Analytics cookie and any other third party web analytics service provider cookies, some browsers indicate when a cookie is being sent and allow you to decline cookies on a case-by-case basis.
+We may use third party web analytics services on this site, our social media platforms, or our social networking or mobile applications, such as those of Adobe Site Catalyst, Coremetrics and/or Google Analytics.  The service providers that administer these services use technologies such as cookies, web server logs and web beacons to help us analyze how visitors use the site.  The information collected through these means (including IP address) is disclosed to these service providers, who use the information to evaluate use of the website.  You may deactivate the ability of these analytics services to analyze your browsing activities on this site. To exercise your choice with respect to their collection of information on this site:
+
+  * For Adobe Site Catalyst, please [click here](http://www.adobe.com/privacy/opt-out.html);
+  * For Coremetrics, please [click here](https://web.archive.org/customer_service/coremetrics_optout.tmpl);
+  * To disable the Google Analytics cookie and any other third party web analytics service provider cookies, some browsers indicate when a cookie is being sent and allow you to decline cookies on a case-by-case basis.
+
+
 
                                      _Targeted Advertising_
 
-We also may contract with third-party advertising networks that collect IP addresses and other information through the use of cookies, web server logs and web beacons on our websites and on third-party websites.  They use this information to provide advertisements about our products and services tailored to your interests (including for companies not affiliated with us).  You may see these advertisements on other websites.  This process also helps us manage and track the effectiveness of our marketing efforts.  To learn more about these and other advertising networks and their opt-out instructions, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
+We also may contract with third-party advertising networks that collect IP addresses and other information through the use of cookies, web server logs and web beacons on our websites and emails; on third-party websites and emails; and on our advertising placed on third-party websites. They use this information to provide advertisements about products and services tailored to your interests (including for companies not affiliated with us). You may see these advertisements on other websites. This process also helps us manage and track the effectiveness of our marketing efforts. To learn more about these and other advertising networks and their opt-out instructions, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
                                       _How We Use the Information Collected by Automated Means_
 
 We may use the information collected through automated means on this site for market research, data analytics and system administration purposes, such as to determine whether you’ve visited us before or are new to the site, and for compliance with our legal obligations, policies and procedures, including compliance with relevant industry standards and the enforcement of our [Terms and Conditions](https://web.archive.org/terms).  We also may use the information in other ways for which specific notice is provided at the time of collection. 
+
+                                      _California Do Not Track Notice_
+
+Under California law, website and online service operators are required to disclose how they respond to web browser "do not track" signals or other similar mechanisms that provide consumers the ability to exercise choice regarding the collection of personal information about a consumer’s online activities over time and across third party websites, to the extent the operator engages in that collection. At this time, we do not track our customers' personal information over time and across third-party websites and therefore this requirement does not apply to us.
+
+California law also requires website and online service operators to disclose whether third parties may collect personal information about their users' online activities over time and across different sites when the users use the operator's website or service. Third parties that have content or services on our site such as a social feature, analytics service, or an advertising network partner, may obtain information about your browsing or usage habits but this information does not include personal information. We do not knowingly permit such third parties to collect any personal information from our site unless you directly provide it to us and we provide it to them with your consent.
 
 **_Information We Share_**
 
