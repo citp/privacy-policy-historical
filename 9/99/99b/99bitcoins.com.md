@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 99bitcoins.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619132320id_/http%3A//99bitcoins.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 99bitcoins.com privacy policy that was archived on 2015-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151005133140id_/https%3A//99bitcoins.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 99 Bitcoins
 
@@ -47,7 +47,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, promotions, etc. However, you may opt-out at any time by  clicking the unsubscribe button at the bottom of our emails.
 
  **Terms and Conditions**  
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://99bitcoins.com/>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <https://99bitcoins.com/>
 
  **Your Consent**  
 By using our site, you consent to our [web site privacy policy](http://www.freeprivacypolicy.com/).
