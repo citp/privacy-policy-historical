@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the namibian.com.na privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007062816id_/http%3A//www.namibian.com.na/indexx.php%3Fpage_type%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namibian.com.na privacy policy that was archived on 2015-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151005141129id_/http%3A//namibian.com.na/indexx.php%3Fpage_type%3Dprivacy_policy) for the most accurate reproduction.*
 
 # The Namibian
 
