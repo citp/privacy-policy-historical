@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kenya-airways.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323095647id_/https%3A//kenya-airways.com/Global/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kenya-airways.com privacy policy that was archived on 2015-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151005084654id_/https%3A//www.kenya-airways.com/Global/Privacy_Policy) for the most accurate reproduction.*
 
 # 
 
