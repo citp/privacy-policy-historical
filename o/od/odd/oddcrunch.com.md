@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oddcrunch.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503220756id_/http%3A//www.oddcrunch.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oddcrunch.com privacy policy that was archived on 2015-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151005210336id_/http%3A//www.oddcrunch.com/privacy.htm) for the most accurate reproduction.*
 
 # 
 
