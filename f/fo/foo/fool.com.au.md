@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the fool.com.au privacy policy that was archived on 2015-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150520163840id_/http%3A//www.fool.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fool.com.au privacy policy that was archived on 2015-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151005122652id_/https%3A//www.fool.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Motley Fool Australia
 
-## Privacy Policy
-
 **Privacy Policy**
 
-The Motley Fool Australia Pty Ltd ACN 146 988 052, (“The Motley Fool”, “we”, “our” or “us”) takes the issue of privacy very seriously and is committed to protecting and respecting your privacy. This Privacy Policy sets out The Motley Fool’s current data processing practices including how we collect, hold, use and disclose your personal information. If you have any queries or concerns regarding these practices, please contact us via email at [privacy@fool.com.au](mailto:privacy@fool.com.au)
+The Motley Fool Australia Pty Ltd ACN 146 988 052, (“The Motley Fool”, “we”, “our” or “us”) takes the issue of privacy very seriously and is committed to protecting and respecting your privacy. This Privacy Policy sets out The Motley Fool’s current data processing practices including how we collect, hold, use and disclose your personal information. If you have any queries or concerns regarding these practices, please contact us via email at [membersupportAU@fool.com.au](mailto:membersupportAU@fool.com.au)
 
 **The Information We Collect**
 
@@ -84,7 +82,7 @@ In accordance with the Australian Privacy Principles, upon written request, The 
 
 Privacy
 
-The Motley Fool Australia ([privacyau@fool.com.au](mailto:privacyau@fool.com.au))  
+The Motley Fool Australia ([membersupportAU@fool.com.au](mailto:membersupportAU@fool.com.au))  
 PO Box 4635  
 Ashmore, Qld 4214
 
@@ -92,7 +90,7 @@ Ashmore, Qld 4214
 
 While we always endeavour to get things right, we accept that we can get things wrong.  If you have a complaint regarding your privacy you may make a complaint to us and we will investigate your concerns as soon as possible. To make a complaint, please contact us at:
 
-Privacy ([privacyau@fool.com.au](mailto:privacyau@fool.com.au))
+Privacy ([membersupportAU@fool.com.au](mailto:membersupportAU@fool.com.au))
 
 The Motley Fool Australia  
 PO Box 4635  
