@@ -1,0 +1,2645 @@
+<!--The following is the downloaded HTML source of the medisyskart.com privacy policy that was archived on 2015-10-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151005232604id_/http%3A//www.medisyskart.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html xml:lang="en" lang="en"><head>
+<meta name="format-detection" content="telephone=no">
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Privacy Policy</title>
+<meta name="description" content="Medisyskart.com - The Online Health Store">
+<meta name="keywords" content="health supplements, india, whey protein, gym supplements, weight loss products">
+<meta name="robots" content="INDEX,NOFOLLOW">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+
+<link rel="icon" href="http://www.medisyskart.com/media/favicon/default/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="http://www.medisyskart.com/media/favicon/default/favicon.ico" type="image/x-icon">
+<link rel="author" href="https://plus.google.com/+Medisyskart">
+<!--[if lt IE 7]>
+<script type="text/javascript">
+//<![CDATA[
+    var BLANK_URL = 'http://www.medisyskart.com/js/blank.html';
+    var BLANK_IMG = 'http://www.medisyskart.com/js/spacer.gif';
+//]]>
+</script>
+<![endif]-->
+<!--group: nogroup-->
+<link rel="stylesheet" type="text/css" href="http://www.medisyskart.com/media/css/b8ef0fd3561dd02cc3ec6d644d7417d5.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.medisyskart.com/media/css/e4c662c0cb14687f4d800002ef3bae5d.css" media="print">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://www.medisyskart.com/media/js/7c9791b4cd7c91f18444beeba42276d0.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+Mage.Cookies.path     = '/';
+Mage.Cookies.domain   = '.medisyskart.com';
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+optionalZipCountries = ["AF"];
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+	var isCart=0;
+	var _skipProductlink ='';
+	var enable_ajax_cart = 1;
+	var enable_ajax_compare = 1;
+	var enable_ajax_wishlist = 1;
+	var enable_ajax_update = 1;
+	var confirm_display = 0;
+	var confirm_countdown_number = 5;
+	var confirm_item_display = 1;
+	
+	var isWishlist=0;
+	var isCompare=0;
+	var setfocus=1;
+	//var isIE6= new RegExp("MSIE 6").test(navigator.userAgent);
+	var isIE7= new RegExp("MSIE 7").test(navigator.userAgent);
+	var iffix="";
+	//if(isIE6) {iffix="<iframe id='iffix'></iframe>";}
+	var iprocess='<div id="loadmask"><p class="loader"><img alt="Loading..." src="http://www.medisyskart.com/skin/frontend/medisys/default/sm/cartpro/images/ajax-loader-tr.gif"><br>Please wait...</p></div>'+iffix;
+	var iconfirm="";
+	var islogin="0";
+	var bundle;
+	var optionsPrice;
+	var calendar;
+	var productAddToCartForm;
+	var dConfig;
+	var classBtnAddtocart = '.btn-cart';
+	function ajaxUpdate(args,type)
+	{
+		if(type=="url"){
+			//var param=""+args;
+			//url="http://www.medisyskart.com/cartpro/index/add/";
+			url=args;
+			new Ajax.Request(url, {encoding:'UTF-8',method: 'post',
+				 parameters:{
+					isCart:isCart,	//check current page is product page, or My cart page, and check this request is ajax or not
+					isWishlist:isWishlist	
+				}, 
+				// req.setRequestHeader("Content-type", "text/x-json");
+
+				onSuccess : function(resp)
+				{
+					var respjson=resp.responseText.evalJSON();
+                    updateCart(respjson);
+   				},
+				onLoading : function(resp)
+				{	$("fancybox-wrap-clone").setStyle({display:"none"});
+					$("process").innerHTML=iprocess;
+					$("process").setStyle({display:"block"});
+					$("options").setStyle({display:"block"});
+					//$("blurmask").setStyle({display:"block"});
+					fixcenter();
+				},
+				onFailure : function(resp)
+				{
+					Element.setInnerHTML( display, resp.responseText);
+				},
+				onComplete: function()
+				{
+					$("process").setStyle({display:"none"});
+					$("blurmask").setStyle({display:"none"});
+
+				}
+			}); 
+		}
+		else{
+			$('product_addtocart_form').request({			//form-example  id form
+				encoding:'UTF-8',
+				method:'post',
+				//setRequestHeader: {Accept: 'text/html'},
+				parameters:{isCart:isCart},		
+				onLoading : function(resp)
+				{
+					$("process").innerHTML=iprocess;
+					$("process").setStyle({display:"block"})
+					$("fancybox-wrap-clone").setStyle({display:"none"});
+					$("options").setStyle({display:"block"});
+					//$("blurmask").setStyle({display:"block"});
+					fixcenter();
+				},				
+				onComplete: function(resp){
+                    var delElement = function(){
+                        Effect.toggle($("block-content-mini-cart"), 'Slide', {duration:0.3});
+                        isShow=!isShow;
+                        (isShow)?$("show-cart-button").addClassName('show'):$("show-cart-button").removeClassName('show');
+
+                    }
+                    delElement.delay(5);
+
+					$("process").setStyle({display:"none"});
+					$("blurmask").setStyle({display:"none"});
+					var respjson=resp.responseText.evalJSON();
+					updateCart(respjson);
+
+                    Effect.toggle($("block-content-mini-cart"), 'Slide', {duration:0.3});
+                    isShow=!isShow;
+                    (isShow)?$("show-cart-button").addClassName('show'):$("show-cart-button").removeClassName('show');
+				}
+			});		
+		}
+	}
+	function updatePCart(resp){
+		if(resp.r=='0'){ //add to cart
+			if(!resp.options){
+				if(opener.isCart=='1'){
+					opener.updateBigcart(resp);
+					$("options").setStyle({display:"none"});
+				}
+				else{
+					opener.updateCartSidebar(resp);
+					if(hideConfirm!=1)
+					showPConfirm(resp);
+					
+					hideConfirm=0;
+				}
+			}
+			else{
+				showOptions(resp);
+				showPConfirm(resp);
+			}
+		}
+		else if(resp.r=='1'){		//apply add wishlist
+			if(isWishlist=='1'){
+				opener.updateWishlistRemove(resp);
+			}
+			else{
+				opener.updateMiniWish(resp);
+				if(hideConfirm!=1)
+				showPConfirm(resp);
+				hideConfirm=0;
+			}			
+		}		
+	}
+function FireEvent( ElementId, EventName )
+{
+    if( document.getElementById(ElementId) != null )
+    {
+        if( document.getElementById( ElementId ).fireEvent )
+        {
+            document.getElementById( ElementId ).fireEvent( 'on' + EventName );
+        }
+        else
+        {
+            var evObj = document.createEvent( 'Events' );
+            evObj.initEvent( EventName, true, false );
+            document.getElementById( ElementId ).dispatchEvent( evObj );
+        }
+    }
+}
+	function updateCart(resp){
+
+
+        //$("show-cart-button").removeClassName("show");
+       // $("show-cart-button").fire("mouseover");
+
+
+		if(resp.r=='0'){ //  apply action add to cart
+			if(!resp.options){
+				if(isCart=='1'){	// in my cart page
+					updateBigcart(resp);
+					$("options").setStyle({display:"none"});
+					if(hideConfirm!=1)
+						showConfirm(resp);
+					hideConfirm=0;
+				}
+				else{
+					
+					if(resp.wishlist){
+						updateWishlist(resp); //update mini wish ,or big wishlist when click addtocart
+					}
+					updateCartSidebar(resp);
+					
+					if(hideConfirm!=1)
+						showConfirm(resp);
+					hideConfirm=0;
+				}
+				updateMiniCartPro(resp);
+				updateDeleteLinks();	//for btn delete in table item added tocart
+				updateLinks(resp);
+				if(islogin=="1"){
+					updateWishlistLinks();
+				}
+				updateProductCompareLinks();						
+			}
+			else{
+				if(resp.wishlist){
+						updateWishlist(resp);
+				}		
+				showOptions(resp);
+				//showConfirm(resp);	//fixed for mage 324
+			}
+		}
+		else if(resp.r=='1'){		//apply action add wishlist 
+			if(isWishlist=='1'){
+				updateWishlistRemove(resp);  //in wishlist page have only case remove item in big wishlist, => only update bigwishlist
+				if(hideConfirm!=1)
+				showConfirm(resp);
+				hideConfirm=0;
+			}
+			else{
+				updateMiniWish(resp);  //not in wishlist page have 2case : add item, and remove item in miniwish => only update miniwish
+				if(hideConfirm!=1)
+				showConfirm(resp);
+				hideConfirm=0;
+			}			
+		}
+		else if(resp.r=='2'){		//apply action add product compare
+			updateProductCompare(resp);
+			if(isCompare && deletePCompare){
+				//deletePCompare=0;
+				win.location.reload();
+			}
+			if(hideConfirm!=1)
+			showConfirm(resp);
+			deletePCompare=0;
+			hideConfirm=0;
+		}
+	}
+	function updateBigcart(resp){
+		var bcart=$$("#yt_content .cart");
+		if(typeof(bcart)!='undefined'){
+			bcart.each(function(el){ el.innerHTML = resp.cart; });
+		}
+	}
+	function updateCartSidebar(resp){
+		//for(var x in elem){console.log(x);}
+		//Effect add to cart
+		// if(elem!=undefined){
+			// var clone = elem.cloneNode(true);
+			
+			// elem.up().insert(clone);
+			// clone.setStyle({position:"absolute"});elem.setStyle({position:"absolute"});
+			// //console.log(clone);
+			// //console.log($$(minicart)[0].offsetLeft,$$(minicart)[0].offsetTop);
+
+			// ProdX=elem.up(2).offsetLeft+elem.offsetLeft;
+			// ProdY=elem.up(2).offsetTop+elem.offsetTop;
+
+			// //console.log(elem.up(2).tagName);
+			// if(isIE6 ||isIE7){
+			// CartX=$$(minicart)[0].offsetLeft+$$(minicart)[0].up().offsetLeft+$$(minicart)[0].up(1).offsetLeft;
+			// CartY=$$(minicart)[0].offsetTop+$$(minicart)[0].up().offsetTop+$$(minicart)[0].up(1).offsetTop;
+			// }
+			// else{
+			// CartX=$$(minicart)[0].offsetLeft;
+			// CartY=$$(minicart)[0].offsetTop;
+			// }
+			// //pCartX=$$(minicart)[0].offsetParent.offsetLeft ;
+			// //pCartY=$$(minicart)[0].offsetParent.offsetTop ;
+			// //prod=elem.realOffset();
+			// var gotoX           = CartX - ProdX;
+			// var gotoY           = CartY - ProdY;
+			// //alert(gotoX+":"+gotoY+":"+ProdY+":"+ProdX+":"+CartX+":"+CartY+":"+pCartX+":"+pCartY+":"+CartX2+":"+CartY2);
+			// var pos=fixcenter();
+			// //console.log(CartX);console.log(CartY );console.log(pos[0]);console.log(pos[1]);console.log(ProdX);console.log(ProdY);//console.log(prod[0]);console.log(prod[1]);
+			// new Effect.Parallel(
+			 // [
+			 // new Effect.MoveBy(clone,gotoY, gotoX , { sync: true }),
+			 // new Effect.Scale(clone, 75, { sync: true }),
+			 // new Effect.Opacity(clone,{sync: true,from:1,to:0})
+			 // ],
+			 // {duration: 3}
+			 // );		
+			// //clone.remove();
+		// }
+		//var bcart=$$(".block-cart");
+		//minicart=($$('.mini-cart')!='')?$$('.mini-cart')[0]:$$('.block-cart')[0];
+		//var bcart=$$(sidebarcart);
+		if(typeof($$(sidebarcart))!='undefined'){
+			$$(sidebarcart).each(function(blockitem){ blockitem.replace(resp.cart); } );
+			truncateOptions();		
+		}
+	}
+	function updateMiniCartPro(resp){
+		//var bcart=$$(minicartpro)[0];
+		if(typeof($$(minicartpro))!='undefined'){
+			$$(minicartpro).each(function(blockitem){ 
+				if(resp.cartpro!=""){
+					blockitem.replace(resp.cartpro);
+				}
+			});
+
+			truncateOptions();	
+		}
+	}	
+	function updateMiniWish(resp){
+		//var bminiwish=$$(".block-wishlist");
+		var bminiwish=$$(miniwish);
+		//var bcart=$$(".block-cart");
+		var bcart=$$(minicart);
+		if(typeof(bminiwish)!='undefined'){ 
+			bminiwish.each(function(el){ el.replace(resp.cart); })
+		}else if(typeof(bcart)!='undefined'){
+			bcart.each(function(el){ el.insert({after:resp.cart}); });
+		}
+		updateWishlistAddCartLinks();
+		updateRemoveWishLinks();		
+		updateWishlinks(resp);
+	}
+	function updateLinks(resp){
+		//var links=$$(".top-link-cart");
+		//links[0].innerHTML=resp.links;
+		var links=$$(toplinkcart);
+		links.each(function(el){ el.innerHTML=resp.links; });
+	}
+	function updateWishlistRemove(resp){	//update wishlist when remove item
+		updateWishlist(resp);
+	}
+	function updateWishlist(resp){			//update wish list when add item to wishlist
+		var strwish="";
+		if(resp.wishlist){
+			strwish=resp.wishlist;
+		}else{
+			strwish=resp.cart;		
+		}
+		if(isWishlist=='0'){
+			//var bminiwish=$$(".block-wishlist");
+			var bminiwish=$$(miniwish);
+			//var bcart=$$(".block-cart");
+			var bcart=$$(minicart);
+			if(typeof(bminiwish)!='undefined'){
+				bminiwish.each(function(el){ el.replace(strwish); });
+			}
+			else if(typeof(bcart)!='undefined'){
+				bcart.each(function(el){ el.insert({after:strwish}); });
+			}
+			updateWishlistAddCartLinks();
+		}else{
+			//var bwish=$$(".my-account");
+			var bwish=$$(".col-main .my-account");
+			bwish.each(function(el){ 
+				el.innerHTML="";
+				el.innerHTML=strwish;
+			});
+		}
+		//bwish[0].replace(resp.wishlist);
+		updateRemoveWishLinks();
+		updateWishlinksCart(resp);
+		
+	}
+	function updateWishlinksCart(resp){		//update wishlink when add to cart item from wishlist
+		updateWishlinks(resp);
+	}
+	function updateWishlinks(resp){		//update wishlink when add product, remove product vao wishlist
+		var links=$$(".top-link-wishlist");
+		links[0].innerHTML=resp.links;	
+		var strwishlink="";
+		if(resp.wishlinks){
+			strwishlink=resp.wishlinks;
+		}else{
+			strwishlink=resp.links;		
+		}	
+		//var links=$$(".top-link-wishlist");
+		//links[0].innerHTML=strwishlink;			
+		
+		if(toplinkwish!=''){
+			$$(toplinkwish).each(function(el){ el.innerHTML=strwishlink; });
+		}
+		else{
+			var links = getToplinkwish();
+			if(links.length){
+				links.each(function(el){ el.innerHTML=strwishlink; });
+			}
+		}
+	}
+	function updateProductCompare(resp){
+		//var bproductcompare=$$('.block-compare');
+		var bproductcompare=$$(compare)[0];
+		//bproductcompare[0].replace(resp.cart);
+		if(typeof(bproductcompare)!='undefined'){
+			bproductcompare.replace(resp.cart);
+			updateRemovePCompareLinks();
+			updateClearPCompareLinks();
+		}
+		
+	}
+
+	function showConfirm(resp){
+		if(!confirm_display){ return false; }
+		timedown = confirm_countdown_number;
+		var cnext="";
+		var addto="";
+		var cshop="";
+		var txtaddedto=(hideConfirm==1 || deletePCompare==1)?"item deleted from ":" added to ";
+		
+		if(isCompare){
+			cshop='<li><button id="btcshop" title="Continue Compare" class="button" onclick="$(\'confirmbox\').innerHTML=\'\';$(\'fancybox-wrap-clone\').setStyle({display:\'none\'});$(\'options\').setStyle({display:\'none\'});isCompare=0;win.focus();"><span id="setcdown">'+ timedown +' s</span> </button></li>';		
+		}
+		else{
+			cshop='<li><button id="btcshop" title="Continue Shopping" class="button" onclick="$(\'confirmbox\').innerHTML=\'\';$(\'fancybox-wrap-clone\').setStyle({display:\'none\'});$(\'options\').setStyle({display:\'none\'});"><span id="setcdown">'+ timedown +' s</span> </button></li>';
+		}
+		if(resp.r=='0'){
+				var tnext=(isCart==1)?"Proceed to Checkout":"View cart & checkout";
+				var linknext=(isCart==1)?"https://www.medisyskart.com/checkout/onepage/":"http://www.medisyskart.com/checkout/cart/";
+				cnext='<li><a id="btccart" title="Checkout"  onclick="$(\'confirmbox\').innerHTML=\'\';$(\'fancybox-wrap-clone\').setStyle({display:\'none\'});$(\'options\').setStyle({display:\'none\'});window.location=\''+linknext+'\';"  href="'+linknext+'">	<span>'+tnext+'</span></a></li>';
+				addto="your shopping cart.";
+		}
+		else if(resp.r=='1'){
+				cnext='<li><a id="btccart" title="View Wishlist" class="button" onclick="$(\'confirmbox\').innerHTML=\'\';$(\'fancybox-wrap-clone\').setStyle({display:\'none\'});$(\'options\').setStyle({display:\'none\'});window.location=\'https://www.medisyskart.com/wishlist/index/\';"  href="https://www.medisyskart.com/wishlist/index/">	<span>View Wishlist</span></a></li>';
+				addto="your wishlist.";
+		}
+		else if(resp.r=='2'){
+				var str=resp.cart;
+				var strclick=str.substring(str.indexOf("popWin('"),str.indexOf(")",str.indexOf("popWin('"))+1);
+				cnext='<li><a id="btccart" title="View Comparison" href="javascript:void(\'0\')" onclick="$(\'confirmbox\').innerHTML=\'\';$(\'fancybox-wrap-clone\').setStyle({display:\'none\'});$(\'options\').setStyle({display:\'none\'});'+strclick+'">	<span>View Comparison</span></a></li>';
+				addto="comparison list.";
+		}
+		var info= (typeof resp.infoitem !="undefined")?resp.infoitem:"";
+		var sometext = '<div class="moretext">Thank you for your choosing !</div>';
+		
+		var headinfo = '<p class="head-iteminfo '+((resp.r=='1' || resp.r=='2')?'show':'')+'"><span id="item-name">"'+resp.nameitem+'"</span>'+txtaddedto+addto+'</p>';
+		var blockconfirm=	headinfo
+							+ ((typeof info.item !="undefined" && info.item!="" && confirm_item_display)?(info.item + sometext):"") + ((typeof info.other !="undefined" && info.other!="")?info.other:"") 
+							
+							+'<div id="btnavi"><ul>'+cshop+cnext+'</ul></div>'+iffix;
+		$("confirmbox").innerHTML=blockconfirm;
+		setTimeout("cdown(timedown)",1000);
+		$("fancybox-wrap-clone").setStyle({display:"block"});
+		$("options").setStyle({display:"block"});
+		fixcenter();
+		
+		if(timedown==0)
+			isCompare=0;
+	}
+	function showPConfirm(resp){
+		timedown = confirm_countdown_number;
+		var cnext="";
+		var addto="";
+		var cshop='<li><a id="btcshop"  onclick="$(\'confirmbox\').remove();$(\'options\').setStyle({display:\'none\'});" href="javascript:void(0);"><span id="setcdown">Continue Shopping<span id="cdown">('+timedown+')</span></span> </a></li>';
+		var cclose='<li><a id="btcclose"  onclick="window.close();" href="javascript:void(0);"><span>Close Compare</span> </a></li>';
+		if(resp.r=='0'){
+				var cnext='<li><a id="btccart"  onclick="opener.window.location.href=\'http://www.medisyskart.com/checkout/cart/\';window.close();"  href="javascript:void(0)">	<span>View cart & checkout</span></a></li>';
+				addto="your shopping cart.";
+		}
+		else if(resp.r=='1'){
+				var cnext='<li><a id="btccart"  onclick="opener.location.href=\'http://www.medisyskart.com/checkout/cart/\';window.close();"  href="javascript:void(0)">	<span>View Wishlist</span></a></li>';
+				addto="your wishlist.";
+		}
+		var blockconfirm='<div id="confirmbox" ><p><span id="product_name">'+resp.nameitem+'</span> added to '+addto+'</p><br><div id="btnavi"><ul>'+cshop+cnext+cclose+'</ul></div></div>'+iffix;
+		
+		$("confirmbox").innerHTML=blockconfirm;setTimeout("cdown(timedown)",1000);		
+		$("fancybox-wrap-clone").setStyle({display:"block"});
+		$("process").setStyle({display:"none"});	
+		$("options").setStyle({display:"block"});		
+	}
+	function cdown(timedown){
+		var cto="";
+		//cto=(isCompare)?"Continue Compare":"Continue Shopping";
+
+		if(timedown!=1){  //show box and count down timer when timeout will close box
+			try{
+					time=timedown-1;
+					$("setcdown").innerHTML= time+"  s";setTimeout("cdown(time)",1000);
+				}
+			catch(e){}
+		}
+		else{
+			$("options").setStyle({display:"none"});
+			$('fancybox-wrap-clone').setStyle({display:'none'});
+			if(isCompare) {isCompare=0;win.focus();}
+			
+			return;
+		}
+	}
+	function showOptions(resp){
+		            //tmpDiv = win.document.createElement('div');
+					var i;
+
+                    var scripts = resp.cart.extractScripts();
+			
+					//$("zoptions").innerHTML=resp.cart.stripScripts()+iffix;//iframe hack IE6 , make for div have zindex great than z-index select form
+									
+                    for (i=0; i<scripts.length; i++)
+                    {
+                        if (typeof(scripts[i]) != 'undefined' && i<2){
+                            try{
+								eval(scripts[i]);
+							}
+							catch(e){
+								console.debug(e);
+							}
+                        }
+						else{
+							break;
+						}
+                    }
+						
+					$("confirmbox").innerHTML=resp.cart.stripScripts()+iffix;	
+				   //tmpDiv.innerHTML = resp.cart.stripScripts();
+                   // win.document.body.appendChild(tmpDiv);
+					$("process").setStyle({display:"none"});
+
+					$("fancybox-wrap-clone").setStyle({display:"block"});
+                    $("options").setStyle({display:"block"});
+					try{
+						fixcenter();
+						}
+					catch(e){
+						console.debug(e);
+					}					
+                   // showOptionsDialog();
+                   // hideProgressAnimation();
+                    for (i; i<scripts.length; i++)
+                    {
+                        if (typeof(scripts[i]) != 'undefined')
+                        {	
+                            try{
+								eval(scripts[i]);
+							}
+							catch(e){
+								console.debug(e);
+							}
+                        }
+                    }
+                    productAddToCartForm = new VarienForm('product_addtocart_form');
+                    decorateGeneric($$('#product-options-wrapper dl'), ['last']);
+                    addSubmitEvent();
+                    //if (typeof($$('#acp_configurable_block .focus')[0]) != 'undefined') $$('#acp_configurable_block .focus')[0].focus();
+                  //  bundle.reloadPrice();
+	}
+	function truncateOptions() { //box show description options of product configurable when hover "details" in sidebar or minicartpro
+		 $$('.truncated').each(function(element){
+			 Event.observe(element, 'mouseover', function(){
+					 if (element.down('div.truncated_full_value')) {
+						element.down('div.truncated_full_value').addClassName('show')
+					 }
+				 });
+			 Event.observe(element, 'mouseout', function(){
+				 if (element.down('div.truncated_full_value')) {
+					element.down('div.truncated_full_value').removeClassName('show')
+				 }
+			});
+		 });
+	} 
+	function addSubmitEvent()
+	{
+		if (enable_ajax_cart && (typeof productAddToCartForm != 'undefined' ))
+		{
+			productAddToCartForm.submit = function(url){
+				if(this.validator && this.validator.validate()){
+					url=$('product_addtocart_form').action;	//url cua form trong category view
+					ajaxUpdate(url,'form');
+				}
+				return false;
+			}
+		}
+	}
+
+	//this code below allow product type download is valid when addtocart
+	Product.Downloadable = Class.create();
+	Product.Downloadable.prototype = {
+		config : {},
+		initialize : function(config){
+			this.config = config;
+			this.reloadPrice();
+		},
+		reloadPrice : function(){
+			var price = 0;
+			config = this.config;
+			$$('.product-downloadable-link').each(function(elm){
+				if (config[elm.value] && elm.checked) {
+					price += parseFloat(config[elm.value]);
+				}
+			});
+			try {
+				var _displayZeroPrice = optionsPrice.displayZeroPrice;
+				optionsPrice.displayZeroPrice = false;
+				optionsPrice.changePrice('downloadable', price);
+				optionsPrice.reload();
+				optionsPrice.displayZeroPrice = _displayZeroPrice;
+			} catch (e) {
+
+			}
+		}
+	};
+
+	function validateDownloadableCallback(elmId, result) {
+		var container = $('downloadable-links-list');
+		if (result == 'failed') {
+			container.removeClassName('validation-passed');
+			container.addClassName('validation-failed');
+		} else {
+			container.removeClassName('validation-failed');
+			container.addClassName('validation-passed');
+		}
+	} 
+    Product.Options = Class.create();
+    Product.Options.prototype = {
+        initialize : function(config){
+            this.config = config;
+            this.reloadPrice();
+        },
+        reloadPrice : function(){
+            price = new Number();
+            config = this.config;
+            skipIds = [];
+            $$('.product-custom-option').each(function(element){
+                var optionId = 0;
+                element.name.sub(/[0-9]+/, function(match){
+                    optionId = match[0];
+                });
+                if (this.config[optionId]) {
+                    if (element.type == 'checkbox' || element.type == 'radio') {
+                        if (element.checked) {
+                            if (config[optionId][element.getValue()]) {
+                                price += parseFloat(config[optionId][element.getValue()]);
+                            }
+                        }
+                    } else if(element.hasClassName('datetime-picker') && !skipIds.include(optionId)) {
+                        dateSelected = true;
+                        $$('.product-custom-option[id^="options_' + optionId + '"]').each(function(dt){
+                            if (dt.getValue() == '') {
+                                dateSelected = false;
+                            }
+                        });
+                        if (dateSelected) {
+                            price += parseFloat(this.config[optionId]);
+                            skipIds[optionId] = optionId;
+                        }
+                    } else if(element.type == 'select-one' || element.type == 'select-multiple') {
+                        if (element.options) {
+                            $A(element.options).each(function(selectOption){
+                                if (selectOption.selected) {
+                                    if (this.config[optionId][selectOption.value]) {
+                                        price += parseFloat(this.config[optionId][selectOption.value]);
+                                    }
+                                }
+                            });
+                        }
+                    } else {
+                        if (element.getValue().strip() != '') {
+                            price += parseFloat(this.config[optionId]);
+                        }
+                    }
+                }
+            });
+            try {
+                optionsPrice.changePrice('options', price);
+                optionsPrice.reload();
+            } catch (e) {
+
+            }
+        }
+    }
+    function validateOptionsCallback(elmId, result){
+        var container = $(elmId).up('ul.options-list');
+        if (result == 'failed') {
+            container.removeClassName('validation-passed');
+            container.addClassName('validation-failed');
+        } else {
+            container.removeClassName('validation-failed');
+            container.addClassName('validation-passed');
+        }
+    }
+
+
+
+    var CartForm = Class.create();
+        CartForm.prototype = { 
+        		initialize: function(form, addressUrl, saveUrl){
+						this.form = form;
+						if ($(this.form)) {
+						     $(this.form).observe('submit', function(event){this.save();Event.stop(event);}.bind(this)); //prevent event submit form
+						}
+						this.addressUrl = addressUrl;
+						this.saveUrl = saveUrl;
+						this.onSave = this.reloadCart.bindAsEventListener(this);
+						this.onComplete = this.hideLoading.bindAsEventListener(this);
+						this.onFailure = this.ajaxFailure.bindAsEventListener(this);
+						this.onLoading = this.showLoading.bindAsEventListener(this);
+						this.onChanged = false;
+        			 }, 
+        		save: function(){
+	        			
+		        		var validator = new Validation(this.form);
+						if (validator.validate()) {
+	        				 if(enable_ajax_update){	   
+		        				 var request = new Ajax.Request(
+			        				 this.saveUrl,
+			        				 {
+				        				 method: 'post',
+				        				 onComplete: this.onComplete,
+				        				 onSuccess: this.onSave,
+				        				 //onFailure: this.onFailure,
+				        				 onLoading: this.onLoading,
+				        				 parameters: Form.serialize(this.form)+'&isCart='+isCart,
+			        				 }
+		        				 );
+	        				 }else{
+								//return VarienForm.prototype.submit.bind(new VarienForm(this.form.id))();
+									$(this.form).submit();
+	        				 }	 
+	        			}
+        			},
+  
+				reloadCart: function(resp){
+						var respjson=resp.responseText.evalJSON();
+						hideConfirm = 1;
+						updateCart(respjson);
+
+                    },
+				ajaxFailure: function(){
+
+				},
+				showLoading: function(){
+					$("fancybox-wrap-clone").setStyle({display:"none"});
+					$("process").innerHTML=iprocess;
+					$("process").setStyle({display:"block"});
+					
+					$("options").setStyle({display:"block"});
+					//$("blurmask").setStyle({display:"block"});
+					fixcenter();				
+				},
+				hideLoading: function(){
+					$("process").setStyle({display:"none"});
+					$("blurmask").setStyle({display:"none"});
+				}					        			        			 	
+        };
+        
+//]]>    
+</script>
+<script type="text/javascript">//<![CDATA[
+        var Translator = new Translate([]);
+        //]]></script><script>
+window.onload = function(){
+
+   if(window.location.href.indexOf('checkout/onepage/success')!=-1)
+   {
+       (new (Image)).src ="//www.googleadservices.com/pagead/conversion/950462546/?label=-r8OCJH73F8Q0tCbxQM&guid=ON&script=0";
+   }
+};
+</script>
+<script type="text/javascript">
+//<![CDATA[
+	var SKIN_URL = 'http://www.medisyskart.com/skin/frontend/default/sm_market';
+	var TMPL_NAME = 'sm_market';
+	var TMPL_COOKIE = ["theme_color","layoutstyle","menustyle"];
+//]]>
+</script>
+
+<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans" media="all">
+<style type="text/css">
+body{	
+		font-size:12px;	
+	}
+		body{
+			font-family:Lucida Console;	
+		}body{
+			font-family:Open Sans, serif !important;
+		}.yt-menu-nav > #nav > li > a > span,.language-currency ul li a,.sm-serachbox-pro .sm-searbox-content,.sm-serachbox-pro .jqTransformInputWrapper input.input-text,#custom_popular_search .sm-searchbox-popular-title,.banner-policy a,.yt-header-bottom .more-wrap .more-view,.toolbar .select-inner ul li a.selected,.category-products .item .product-name a,.yt-product-detail .tab-product-detail .yt-tab-navi > li > a,
+.yt-product-detail .tab-product-detail .yt-tab-navi > li > a:hover,.sm_quickview_handler,.yt-tab-listing .respl-tabs-wrap ul li.respl-tab .respl-tab-label,.yt-tab-listing .title-text,.block-title span,.spotlight .block-title,.spotlight4,.footer-links-w,.toolbar,.sm-categories .cat-title,.breadcrumbs,#narrow-by-list dt,.yt-product-detail .product-name h1,.yt-product-detail .short-description h2,.postTitle h2 a,#yt_wrapper h1.page-title, #yt_wrapper .page-title h1{
+			color:#444444 ;
+		}
+		body.sm_market{	
+			color:#666666 ;			
+		}
+		body.sm_market{	
+			background-color:#FFFFFF ;
+		}
+		a{	
+			color:#666666 ;	
+		}
+		a:focus,
+		a:hover{	
+			color:#F4A137 ;	
+		}
+		/*titleColor  hover*/
+		.more-wrap .more-view:hover,
+		.postTitle h2 a:hover,
+		.category-products .item .product-name a:hover,
+		.yt-tab-listing .respl-tabs-wrap ul li.respl-tab .respl-tab-label:hover,
+		.yt-product-detail .tab-product-detail .yt-tab-navi > li > a:hover{	
+			color:#F4A137 ;	
+		}	
+		
+		.cloud-zoom-big {
+			top: 0 !important;
+			left: 0 !important;
+			width: 100% !important;
+			height: 100% !important;
+		}
+		</style>
+
+<script type="text/javascript">
+//<![CDATA[
+	jQuery(document).ready(function($){
+			$("#narrow-by-list .item-filter .item-filter-title").each(function(){
+				$this = $(this);
+				firt_attr_href = $this.attr('href')
+				console.log(firt_attr_href);
+				if( firt_attr_href == '#collapse1'){
+					$(this).addClass('cl-open');
+				}
+			});	
+			$("#narrow-by-list .item-filter .item-filter-title").click(function(){
+				$this = $(this);
+				if( $this.hasClass('cl-open') ){
+					$this.removeClass('cl-open');
+				}else{
+					$(this).addClass('cl-open');
+				}
+			});
+		// show-hidden login form 
+		$(".header-login .login-quick").hide();
+		$('.header-login a.login').click(function(){
+			$this = $(this);
+			$this.toggleClass("actived");
+			$(".login-quick").slideToggle("fast");
+			$('.mini-cartpro .block-content').css({'display': 'none'});
+		});
+		
+		//show-hidden account user
+		$(".header-user .links").hide();
+		$('.header-user span.icon-user').click(function(){
+			$this = $(this);
+			$this.toggleClass("actived");
+			$(".header-user .links").slideToggle("fast");
+		});
+		
+		$(".sm-searbox-content").jqTransform();
+		//on top header 1
+				//on top header 2
+			
+		
+		//on top header 3
+				//on top header 4
+				
+		
+		//custom js (theme config) 
+			
+		
+		// get content top search of search box pro		
+		if( $('#yt_header .sm-searchbox-popular').length){
+			$('#custom_popular_search').html($('#yt_header .sm-searchbox-popular').html());
+			$('#yt_header .sm-searchbox-popular').remove();
+		}
+		
+		
+	});
+//]]>	
+</script>
+
+
+    <meta name="google-site-verification" content="XsdR8njJyale4gfld4_XUBWP919eFEZgV9e3ov4Gd9E">
+    <meta name="msvalidate.01" content="D0D07B7E25F6C491FAEE457DDBBC9062">
+<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
+
+
+<body id="bd" class="sm_market    cms-page-view cms-privacy-policy ">
+    <div id="yt_wrapper">
+    
+        <!-- BEGIN: Header -->
+		<div id="yt_header" class="yt-header wrap header1-wrap">
+		     
+
+<div class="yt-header-top">
+    <div class="container">
+        <div class="row">
+            <div class="language-currency col-lg-6 col-md-6 col-sm-6 col-xs-12">
+            	<div class="inner">
+                
+                
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                </div>
+            </div>
+          <div class="head-quicklink col-lg-6 col-md-6 col-sm-6 col-xs-12">
+            	<div class="inner">
+	
+            
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="yt-header-middle">
+	<div class="container">
+        <div class="row">
+        <div class="logo col-lg-3 col-md-3 col-sm-12 col-xs-12">
+            <a href="http://www.medisyskart.com/" title="medisyskart" class="logo"><img src="http://www.medisyskart.com/skin/frontend/medisys/default/images/Logo.png" alt="medisyskart">
+            </a>
+        </div>
+<div class="top_menu">
+
+<div class="top_links">
+    
+			 <a><div class="free-shipping-text"><strong>Free Shipping On Orders Above Rs. 499</strong></div></a>
+			 <a title="24x7 Customer Care" class="btn-head" href="http://www.medisyskart.com/contacts">24x7 Customer Care</a>
+			  <a href="https://www.medisyskart.com/trackorder/" title="Track Order " class="btn-head">Track Order</a>
+
+			  <a title="Sign Up" class="btn-head" href="http://www.medisyskart.com/customer/account/create/">Sign Up</a>
+                                                    
+			                                                    <a class="last" title="Login" href="https://www.medisyskart.com/customer/account/login/">
+                                Login                            </a>
+                        			</div>
+
+</div>
+
+        <div class="header-middle-right col-lg-9 col-md-9 col-sm-12 col-xs-12">
+                            <div class="head-searchbox">
+                    	<div id="sm_serachbox_pro5736534261444087561" class="sm-serachbox-pro">
+			
+							<div class="sm-searbox-content">
+			<form id="search_mini_form" action="http://www.medisyskart.com/catalogsearch/result/" method="get">
+				<div class="form-search">
+										<select id="cat" name="cat">
+						<option value="">All Categories</option>
+
+													<option value="2">Default Category</option>
+													<option value="6">- - Vitamins &amp; Minerals</option>
+													<option value="167">- - - - Vitamins</option>
+													<option value="168">- - - - - - Multivitamins</option>
+													<option value="327">- - - - - - Vitamins A-Z</option>
+													<option value="170">- - - - Minerals</option>
+													<option value="171">- - - - - - Minerals</option>
+													<option value="176">- - - - Premium Brands</option>
+													<option value="177">- - - - - - Vitamin Shoppe</option>
+													<option value="178">- - - - - - Health Aid</option>
+													<option value="179">- - - - - - GNC</option>
+													<option value="180">- - - - - - Herbal Hills</option>
+													<option value="181">- - - - - - Organic India</option>
+													<option value="353">- - - - - - Morpheme</option>
+													<option value="406">- - - - - - ON</option>
+													<option value="285">- - - - Select By Concern</option>
+													<option value="73">- - - - - - Digestion</option>
+													<option value="174">- - - - - - Diabetes Support</option>
+													<option value="175">- - - - - - Brain &amp; Memory Tonics</option>
+													<option value="317">- - - - - - Skin Care</option>
+													<option value="318">- - - - - - Immunity</option>
+													<option value="319">- - - - - - Heart &amp; Blood Pressure</option>
+													<option value="354">- - - - - - Liver</option>
+													<option value="355">- - - - - - Weight Loss</option>
+													<option value="218">- - Elderly Care</option>
+													<option value="219">- - - - Mobility Support</option>
+													<option value="220">- - - - - - Walker</option>
+													<option value="221">- - - - - - Wheel Chair</option>
+													<option value="222">- - - - - - Commode Stool</option>
+													<option value="223">- - - - - - Walking Stick</option>
+													<option value="224">- - - - - - Shower Chair</option>
+													<option value="225">- - - - - - Power Wheel Chair</option>
+													<option value="226">- - - - Adult Diaper</option>
+													<option value="227">- - - - - - Pull up diaper</option>
+													<option value="228">- - - - - - Normal diaper</option>
+													<option value="229">- - - - - - Under Pad</option>
+													<option value="230">- - - - Monitoring Devices</option>
+													<option value="231">- - - - - - Glucose Meters</option>
+													<option value="232">- - - - - - Blood Pressures</option>
+													<option value="233">- - - - - - Weighing Scales</option>
+													<option value="234">- - - - - - Thermometer</option>
+													<option value="235">- - - - Pain Relief Devices</option>
+													<option value="236">- - - - - - Back Care</option>
+													<option value="237">- - - - - - Neck Care</option>
+													<option value="238">- - - - - - Wrist &amp; Elbow Care</option>
+													<option value="239">- - - - - - Knee Care</option>
+													<option value="240">- - - - - - Ankle Care</option>
+													<option value="241">- - Baby Care</option>
+													<option value="242">- - - - Diapers &amp; Wipes</option>
+													<option value="243">- - - - - - Baby Diapers &amp; Pants</option>
+													<option value="244">- - - - - - Wipes</option>
+													<option value="245">- - - - - - Diaper Bag</option>
+													<option value="246">- - - - Feeding &amp; Nursing</option>
+													<option value="247">- - - - - - Breast Feeding Aid</option>
+													<option value="248">- - - - - - Nipples &amp; Teats</option>
+													<option value="249">- - - - - - Bottles &amp; Accessories</option>
+													<option value="250">- - - - - - Steriliser &amp; Food Warmer</option>
+													<option value="251">- - - - Bath &amp; Skin Care</option>
+													<option value="252">- - - - - - Bath Gel, Soaps &amp; Shampoo</option>
+													<option value="253">- - - - - - Cream &amp; Lotion</option>
+													<option value="254">- - - - - - Powder</option>
+													<option value="255">- - - - Health &amp; Safety</option>
+													<option value="256">- - - - - - Oral Care</option>
+													<option value="257">- - - - - - Eye, Ear &amp; Nose Care</option>
+													<option value="258">- - - - - - Thermometer</option>
+													<option value="259">- - - - Premium Brands</option>
+													<option value="260">- - - - - - Himalaya Baby</option>
+													<option value="261">- - - - - - Johnson's</option>
+													<option value="262">- - - - - - Pampers</option>
+													<option value="263">- - - - - - Huggies</option>
+													<option value="407">- - - - - - Himalaya</option>
+													<option value="412">- - - - Kid Essentials</option>
+													<option value="413">- - - - - - Nutrition For Children</option>
+													<option value="264">- - Gym &amp; Yoga</option>
+													<option value="265">- - - - Gym Equipments</option>
+													<option value="266">- - - - - - Dumbbells</option>
+													<option value="267">- - - - - - Home Gyms</option>
+													<option value="268">- - - - - - Benches</option>
+													<option value="269">- - - - - - Push Up Stands</option>
+													<option value="270">- - - - - - Training Equipments</option>
+													<option value="271">- - - - - - Exercise &amp; Fitness Gloves</option>
+													<option value="272">- - - - - - Exercise Balls &amp; Accessories</option>
+													<option value="273">- - - - Yoga Equipments</option>
+													<option value="274">- - - - - - Yoga Mats</option>
+													<option value="275">- - - - - - Yoga Belts</option>
+													<option value="420">- - - - Gym Accessories</option>
+													<option value="421">- - - - - - Shaker</option>
+													<option value="276">- - Protein Supplements</option>
+													<option value="138">- - - - Gainers</option>
+													<option value="139">- - - - - - Mass Gainer</option>
+													<option value="140">- - - - - - Weight Gainer</option>
+													<option value="141">- - - - Sports Supplement</option>
+													<option value="142">- - - - - - Whey Protein</option>
+													<option value="143">- - - - - - Soy Protein</option>
+													<option value="144">- - - - - - Energy Bars</option>
+													<option value="145">- - - - - - Creatine</option>
+													<option value="324">- - - - - - Amino Acids/BCAA's</option>
+													<option value="415">- - - - - - Glutamine</option>
+													<option value="147">- - - - Premium Brands</option>
+													<option value="148">- - - - - - Medisys</option>
+													<option value="149">- - - - - - ON</option>
+													<option value="150">- - - - - - Ultimate</option>
+													<option value="151">- - - - - - Universal</option>
+													<option value="153">- - - - - - Dymatize</option>
+													<option value="326">- - - - - - MuscleTech</option>
+													<option value="352">- - - - - - BSN</option>
+													<option value="399">- - - - - - Endura</option>
+													<option value="400">- - - - - - Nature's</option>
+													<option value="401">- - - - - - Naturell India</option>
+													<option value="402">- - - - - - ProIN</option>
+													<option value="403">- - - - - - Xterra Nutrition</option>
+													<option value="277">- - - - Proteins</option>
+													<option value="278">- - - - - - Whey Protein</option>
+													<option value="279">- - - - - - Whey Protein Isolates</option>
+													<option value="280">- - - - - - Soy Protein</option>
+													<option value="281">- - - - - - Protein Bars</option>
+													<option value="414">- - - - - - Casein</option>
+													<option value="416">- - - - Pre/Post Workout</option>
+													<option value="417">- - - - - - Pre-Workout</option>
+													<option value="418">- - - - - - Creatine</option>
+													<option value="419">- - - - - - Glutamine</option>
+													<option value="282">- - Weight Loss</option>
+													<option value="14">- - - - Low Carbs/Fats</option>
+													<option value="154">- - - - - - Meal Replacement Shakes</option>
+													<option value="155">- - - - - - Protein Shakes</option>
+													<option value="156">- - - - - - Energy Drinks</option>
+													<option value="341">- - - - - - Bars</option>
+													<option value="283">- - - - Premium Brands</option>
+													<option value="160">- - - - - - Medisys</option>
+													<option value="161">- - - - - - Getrim</option>
+													<option value="162">- - - - - - Proln</option>
+													<option value="163">- - - - - - LaPlant</option>
+													<option value="164">- - - - - - MuscleTech</option>
+													<option value="165">- - - - - - Organic India</option>
+													<option value="344">- - - - - - GNC</option>
+													<option value="345">- - - - - - Naturell India</option>
+													<option value="404">- - - - - - ProIN</option>
+													<option value="405">- - - - - - Xterra Nutrition</option>
+													<option value="284">- - - - Increase Metabolism</option>
+													<option value="157">- - - - - - Fat Burners</option>
+													<option value="158">- - - - - - Green Tea</option>
+													<option value="159">- - - - - - Garcinia</option>
+													<option value="286">- - Ayurvedic &amp; Herbals</option>
+													<option value="287">- - - - Select By Concern</option>
+													<option value="183">- - - - - - Weight Loss</option>
+													<option value="184">- - - - - - Sexual Health</option>
+													<option value="185">- - - - - - Skin Care</option>
+													<option value="186">- - - - - - Immunity</option>
+													<option value="187">- - - - - - Liver</option>
+													<option value="188">- - - - - - Heart</option>
+													<option value="189">- - - - - - Digestion</option>
+													<option value="190">- - - - - - Brain &amp; Memory Tonics</option>
+													<option value="342">- - - - - - Diabetic Care</option>
+													<option value="411">- - - - - - Joint Pain</option>
+													<option value="290">- - - - Premium Brands</option>
+													<option value="291">- - - - - - Deemark</option>
+													<option value="292">- - - - - - Morpheme</option>
+													<option value="293">- - - - - - GNC</option>
+													<option value="294">- - - - - - Herbals Hills</option>
+													<option value="295">- - - - - - Organic India</option>
+													<option value="367">- - - - - - Himalaya</option>
+													<option value="297">- - Health Devices</option>
+													<option value="298">- - - - Monitoring Devices</option>
+													<option value="198">- - - - - - Glucose Meters</option>
+													<option value="199">- - - - - - Blood Pressures</option>
+													<option value="200">- - - - - - Weighing Scales</option>
+													<option value="201">- - - - - - Thermometer</option>
+													<option value="300">- - - - Pain Relief Devices</option>
+													<option value="301">- - - - - - Back Care</option>
+													<option value="306">- - - - - - Neck Care</option>
+													<option value="307">- - - - - - Wrist &amp; Elbow Care</option>
+													<option value="308">- - - - - - Knee Care</option>
+													<option value="313">- - - - - - Ankle Care</option>
+													<option value="329">- - - - Premium Brands</option>
+													<option value="330">- - - - - - Omron</option>
+													<option value="331">- - - - - - Morepen Labs</option>
+													<option value="332">- - - - - - Tynor</option>
+													<option value="333">- - - - - - Vissco</option>
+													<option value="334">- - - - - - Roche</option>
+													<option value="346">- - - - - - LifeScan J&amp; J</option>
+													<option value="408">- - - - - - Equinox</option>
+													<option value="302">- - Daily Needs</option>
+													<option value="303">- - Wellness</option>
+													<option value="304">- - - - Beauty Care</option>
+													<option value="209">- - - - - - Body Care</option>
+													<option value="314">- - - - - - Hair Care</option>
+													<option value="321">- - - - - - Eye Care</option>
+													<option value="328">- - - - - - Skin Care</option>
+													<option value="305">- - - - Sexual Wellness For Men</option>
+													<option value="322">- - - - - - Condoms For Men</option>
+													<option value="323">- - - - - - Men Sexual Care</option>
+													<option value="335">- - - - Premium Brands</option>
+													<option value="336">- - - - - - Durex</option>
+													<option value="337">- - - - - - Kohinoor</option>
+													<option value="338">- - - - - - Manforce</option>
+													<option value="339">- - - - - - Skore</option>
+													<option value="349">- - - - - - KamaSutra</option>
+													<option value="350">- - - - - - Morpheme</option>
+													<option value="351">- - - - - - Organic India</option>
+													<option value="409">- - - - - - Veet</option>
+													<option value="410">- - - - - - Dabur</option>
+													<option value="347">- - - - Sexual Wellness For Women</option>
+													<option value="348">- - - - - - Women Sexual Care</option>
+													<option value="340">- - Top Products</option>
+													<option value="343">- - Daily Deals</option>
+													<option value="356">- - Seller</option>
+													<option value="357">- - - - Medisys</option>
+													<option value="358">- - - - Endura</option>
+													<option value="359">- - - - Do You Even Gym</option>
+													<option value="360">- - - - Xterra Nutrition</option>
+													<option value="361">- - - - LaPlant Beverages</option>
+													<option value="363">- - - - Morpheme Remedies</option>
+													<option value="364">- - - - Nouveau Medicament </option>
+													<option value="365">- - - - Deemark Healthcare</option>
+													<option value="366">- - - - Isha Agro</option>
+													<option value="368">- - Brands</option>
+													<option value="369">- - - - Medisys</option>
+													<option value="370">- - - - ON</option>
+													<option value="371">- - - - Dr.Morepen</option>
+													<option value="372">- - - - Dymatize</option>
+													<option value="373">- - - - MuscleTech</option>
+													<option value="374">- - - - Omron</option>
+													<option value="375">- - - - Organic India</option>
+													<option value="376">- - - - Roche</option>
+													<option value="377">- - - - Hyp</option>
+													<option value="378">- - - - LifeScan J&amp; J</option>
+													<option value="379">- - - - Endura</option>
+													<option value="380">- - - - Himalaya</option>
+													<option value="381">- - - - Hindustan Unilever</option>
+													<option value="382">- - - - Tynor</option>
+													<option value="383">- - - - BSN</option>
+													<option value="384">- - - - GNC</option>
+													<option value="385">- - - - P&amp;G</option>
+													<option value="386">- - - - Johnson's</option>
+													<option value="387">- - - - Dabur</option>
+													<option value="388">- - - - Equinox</option>
+													<option value="389">- - - - LaPlant</option>
+													<option value="390">- - - - Manforce</option>
+													<option value="391">- - - - Skore</option>
+													<option value="392">- - - - Deemark</option>
+													<option value="393">- - - - Durex</option>
+													<option value="394">- - - - Herbals Hills</option>
+													<option value="395">- - - - Kohinoor</option>
+													<option value="396">- - - - Morpheme</option>
+													<option value="397">- - - - Veet</option>
+													<option value="398">- - - - Vissco</option>
+												
+						
+					</select>
+					<!-- <input size="30" id="search" type="text" name="q" class="input-text" onfocus="if(this.value=='Enter keywords to search your gadgets in entire store here...') this.value='';" onblur="if(this.value=='') this.value='Enter keywords to search your gadgets in entire store here...';" value="Enter keywords to search your gadgets in entire store here..."  /> -->
+					<input size="30" id="search" type="text" name="q" class="input-text" value="" placeholder="So, what are you buying today?">
+					<button type="submit" title="Search" class="button form-button"><span class="">Search</span></button>
+					<div id="search_autocomplete" class="search-autocomplete"></div>
+					<script type="text/javascript">
+			        //<![CDATA[
+			            var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Search...');
+			            searchForm.initAutocomplete('http://www.medisyskart.com/catalogsearch/ajax/suggest/', 'search_autocomplete');
+			        //]]>
+			        </script>
+				</div>
+			</form>
+		</div>
+		        
+        
+	</div>
+
+<script type="text/javascript">
+	jQuery(document).ready(function($){
+		$('.sm-searchbox-more').click(function(){
+			$('a.sm-searchbox-more').attr('data_count') == 10; 
+			var sb_ajaxurl = $('a.sm-searchbox-more').attr('data_sb_ajaxurl');
+			var firt_load = 5;
+			var count = $('a.sm-searchbox-more').attr('data_count'); 
+			count = parseInt(count);
+			if( firt_load >= count ){
+				count = count + parseInt(firt_load);
+			}
+			$.ajax({
+				type: 'POST',
+				url: sb_ajaxurl,
+				data:{
+					is_ajax: 1,
+					count_term: count
+				},
+				success: function(data){
+					$('.sm-serachbox-pro').html(data.htm);				
+					$('a.sm-searchbox-more').attr({
+					'data_count': count + parseInt(firt_load)
+					}); 					
+				}, 
+				dataType:'json'
+			});
+		});
+	});
+</script>
+                </div> 
+	  <div class="authentic-product"><a href="http://www.medisyskart.com/authentic-products/"><img src="http://www.medisyskart.com/skin/frontend/medisys/default/images/Product.png"></a></div>
+                
+	   
+            <div class="head-cart">
+                <script type="text/javascript">
+	 //<![CDATA[
+	 	mincart = new CartForm('minicart-form_uq56130709e4b64', '', 'http://www.medisyskart.com/checkout/cart/updatePost/');
+	 	minicartpro_id='';	 	
+	 	if (typeof isShow == 'undefined') isShow = false;
+	 	if (typeof isEffect == 'undefined') isEffect = false;
+	 	if (typeof overEffect == 'undefined') overEffect = false;
+	 	if (typeof outEffect == 'undefined') outEffect = false;
+	 //]]>
+</script>
+
+<div class="block mini-cartpro sm-cartpro">
+		<div class="block-title">
+					<div class="btn-toggle show-cart-button">
+				<div class="detail-minicart">
+                	
+                 	<p style="float:left;margin-top:-10px;">Cart</p>
+			<p class="cart" style="float:left;  margin: -3px 0px 0px 17px;"><img src="http://www.medisyskart.com/skin/frontend/medisys/default/images/cart.png"></p>
+                	<span class="count-item">
+						
+						<div class="txt-item"> 0</div>
+					</span>	
+					<!--<span class="price">Rs. 0</span>-->
+				</div>
+				<div class="detail-minicart-v4">
+                	<p>My Cart - </p>
+                	<span class="count-item">
+						
+						<div class="txt-item"> 0</div>
+					</span>
+									</div>
+			</div>
+			
+			</div>
+	</div>
+
+<script type="text/javascript">
+     //<![CDATA[
+    jQuery(document).ready(function($){    
+        //click button quantity of products
+        $('.mini-cartpro input.quantity-controls').each(function(){
+            $(this).click(function(){    
+                $(this).parent().parent().children().remove('.update-minicart-message');
+                //$('.mini-cartpro .btn-update').css({'display':'inline-block'});                
+                qty = $(this).parent().prev().attr('value');
+                qty_stock     = $(this).parent().prev().attr('data-stock');
+                min_qty_stock = $(this).parent().prev().attr('data-min-qty');
+                max_qty_stock = $(this).parent().prev().attr('data-max-qty');                
+                max_qty       = eval(qty-qty_stock);
+                max_default   = eval(qty-max_qty_stock);
+                min_qty       = eval(min_qty_stock-qty);    
+                
+                if( min_qty > 0 ){                    
+                    $(this).parent().parent().append('<p class="update-minicart-message">The minimum quantity allowed for purchase is '+min_qty_stock+'</p>');
+                    //$('.mini-cartpro .btn-update').css({'display':'none'});
+                    return false;
+                }
+                else if( max_qty > 0 ){    
+                    $(this).parent().parent().append('<p class="update-minicart-message">The maximum quantity allowed for purchase is '+qty_stock+'</p>');
+                    //$('.mini-cartpro .btn-update').css({'display':'none'});                    
+                    return false;
+                }
+                else if( max_default > 0 ){
+                    $(this).parent().parent().append('<p class="update-minicart-message">The maximum quantity allowed for purchase is '+max_qty_stock+'</p>');    
+                    //$('.mini-cartpro .btn-update').css({'display':'none'});
+                    return false;
+                }
+            });    
+        });
+        
+        //change input quantity of products
+        $('.mini-cartpro .qty').each(function(){
+            $(this).change(function(){    
+                $(this).parent().children().remove('.update-minicart-message');                
+                $('.mini-cartpro .btn-update').css({'display':'inline-block'});
+                qty = $(this).attr('value');
+                qty_stock     = $(this).attr('data-stock');
+                min_qty_stock = $(this).attr('data-min-qty');
+                max_qty_stock = $(this).attr('data-max-qty');                
+                max_qty       = eval(qty-qty_stock);
+                max_default   = eval(qty-max_qty_stock);
+                min_qty       = eval(min_qty_stock-qty);    
+                
+                if( min_qty > 0 ){                    
+                    $(this).parent().append('<p class="update-minicart-message">The minimum quantity allowed for purchase is '+min_qty_stock+'</p>');
+                    //$('.mini-cartpro .btn-update').css({'display':'none'});
+                    return false;
+                }
+                else if( max_qty > 0 ){    
+                    $(this).parent().append('<p class="update-minicart-message">The maximum quantity allowed for purchase is '+qty_stock+'</p>');
+                    //$('.mini-cartpro .btn-update').css({'display':'none'});                    
+                    return false;
+                }
+                else if( max_default > 0 ){
+                    $(this).parent().append('<p class="update-minicart-message">The maximum quantity allowed for purchase is '+max_qty_stock+'</p>');    
+                    //$('.mini-cartpro .btn-update').css({'display':'none'});
+                    return false;
+                }
+            });    
+        });        
+    });
+     //]]>
+</script>
+
+<script type="text/javascript">
+    /*jQuery(document).ready(function($){   
+		var n = $('.mini-cartpro .block-content').length;
+		//alert(n);
+		if(n > 0){
+			$('.mini-cartpro .block-title').addClass('hv_btnCart');
+		}
+	});*/
+</script>            </div>
+        </div>
+    </div>
+    </div>
+</div>
+<div class="mega-horizontal-wrap">
+    <div class="container">
+        <div class="row">
+            <div class="mega-horizontal-left col-lg-3 col-md-3 col-sm-2 col-xs-12">
+            </div>
+            <div class="mega-horizontal-right col-lg-9 col-md-9 col-sm-10 col-xs-12">
+                		
+
+<!--link media="all" href="" type="text/css" rel="stylesheet">
+
+
+<link media="all" href="" type="text/css" rel="stylesheet"-->
+
+		
+	<div class="sm_megamenu_wrapper_horizontal_menu sambar" id="sm_megamenu_menu5613070a02560" data-sam="20457584451444087562">
+		<div class="sambar-inner">
+			<a class="btn-sambar" data-sapi="collapse" href="#sm_megamenu_menu5613070a02560">
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</a>	
+			<ul class="sm-megamenu-hover sm_megamenu_menu sm_megamenu_menu_black" data-jsapi="on">
+									<li class=" other-toggle   
+						sm_megamenu_lv1 sm_megamenu_drop parent   ">
+
+                            <a class="sm_megamenu_head sm_megamenu_drop " href="http://www.medisyskart.com/" id="sm_megamenu_218">
+                                                                <span class="sm_megamenu_icon sm_megamenu_nodesc">		
+                                                                        			
+                                	
+                                </span>
+                                                                <span class="sm_megamenu_title">Home</span>
+								                                
+                            </a>
+																																	</li><li class=" other-toggle   
+						sm_megamenu_lv1 sm_megamenu_drop parent   ">
+
+                            <a class="sm_megamenu_head sm_megamenu_drop " href="http://www.medisyskart.com/daily-deals" id="sm_megamenu_219">
+                                                                <span class="sm_megamenu_icon sm_megamenu_nodesc">		
+                                                                        			
+                                	
+                                </span>
+                                                                <span class="sm_megamenu_title">Daily Deals</span>
+								                                
+                            </a>
+																																	</li><li class=" other-toggle   
+						sm_megamenu_lv1 sm_megamenu_drop parent   ">
+
+                            <a class="sm_megamenu_head sm_megamenu_drop " href="http://www.medisyskart.com/top-products.html" id="sm_megamenu_220">
+                                                                <span class="sm_megamenu_icon sm_megamenu_nodesc">		
+                                                                        			
+                                	
+                                </span>
+                                                                <span class="sm_megamenu_title">Top Products</span>
+								                                
+                            </a>
+																																	</li><li class=" other-toggle   
+						sm_megamenu_lv1 sm_megamenu_drop parent   ">
+
+                            <a class="sm_megamenu_head sm_megamenu_drop " href="http://www.medisyskart.com/brands" id="sm_megamenu_221">
+                                                                <span class="sm_megamenu_icon sm_megamenu_nodesc">		
+                                                                        			
+                                	
+                                </span>
+                                                                <span class="sm_megamenu_title">Brands</span>
+								                                
+                            </a>
+																																	</li><li class=" other-toggle   
+						sm_megamenu_lv1 sm_megamenu_drop parent   ">
+
+                            <a class="sm_megamenu_head sm_megamenu_drop " href="http://www.medisyskart.com/gift-for-you" id="sm_megamenu_222">
+                                                                <span class="sm_megamenu_icon sm_megamenu_nodesc">		
+                                                                        			
+                                	
+                                </span>
+                                                                <span class="sm_megamenu_title">Gift For You</span>
+								                                
+                            </a>
+																																	</li><li class=" other-toggle   
+						sm_megamenu_lv1 sm_megamenu_drop parent   ">
+
+                            <a class="sm_megamenu_head sm_megamenu_drop " href="http://www.medisyskart.com/get-a-call" id="sm_megamenu_223">
+                                                                <span class="sm_megamenu_icon sm_megamenu_nodesc">		
+                                                                        			
+                                	
+                                </span>
+                                                                <span class="sm_megamenu_title">Get A Call</span>
+								                                
+                            </a>
+																																	</li><li class=" other-toggle   
+						sm_megamenu_lv1 sm_megamenu_drop parent   ">
+
+                            <a class="sm_megamenu_head sm_megamenu_drop " href="http://www.medisyskart.com/about-us" id="sm_megamenu_224">
+                                                                <span class="sm_megamenu_icon sm_megamenu_nodesc">		
+                                                                        			
+                                	
+                                </span>
+                                                                <span class="sm_megamenu_title">About Us</span>
+								                                
+                            </a>
+																																	</li><li class=" other-toggle   
+						sm_megamenu_lv1 sm_megamenu_drop parent   ">
+
+                            <a class="sm_megamenu_head sm_megamenu_drop " href="http://www.medisyskart.com/contact-us" id="sm_megamenu_225">
+                                                                <span class="sm_megamenu_icon sm_megamenu_nodesc">		
+                                                                        			
+                                	
+                                </span>
+                                                                <span class="sm_megamenu_title">Contact Us</span>
+								                                
+                            </a>
+																														</li></ul>
+		</div>
+	</div>
+	<!--End Module-->
+
+<script type="text/javascript">
+// <![CDATA[ 
+$jsmart(document).ready(function(){
+	var menu_width = $jsmart('.sm_megamenu_wrapper_horizontal_menu').width();
+	$jsmart('.sm_megamenu_wrapper_horizontal_menu .sm_megamenu_menu > li > div').each(function(){
+		$this = $jsmart(this);   
+		var lv2w = $this.width();
+		var lv2ps = $this.position();
+		var lv2psl = $this.position().left;
+		var sw = lv2w + lv2psl;
+		if( sw > menu_width ){
+			$this.css({'right': '0'});
+		}   
+	});
+});
+// ]]> 
+</script>            </div>
+        </div>
+    </div>
+</div>
+<div class="yt-header-bottom">
+<div class="container">
+<div class="row">
+    <div id="yt_header_left" class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+        <div id="yt-responsivemenu" class="yt-responsivemenu">
+             
+<script type="text/javascript">
+	function MobileRedirectUrl(){
+		window.location.href = document.getElementById("yt_resmenu_selectbox").value;
+	}
+</script>
+<div class="menu-selectbox">
+<button class="btn btn-navbar">
+	<i class="icon-th-list"></i>
+</button>
+<select id="yt_resmenu_selectbox" onchange="MobileRedirectUrl(this);">
+	<option value="http://www.medisyskart.com/">Home</option>
+			<option selected="selected" value="http://www.medisyskart.com//default-category">Default Category</option>
+			<option value="http://www.medisyskart.com/vitamins-minerals.html">Vitamins &amp; Minerals</option>
+			<option value="http://www.medisyskart.com/vitamins-minerals/vitamins.html">- - Vitamins</option>
+			<option value="http://www.medisyskart.com/vitamins-minerals/vitamins/multivitamins.html">- - - - Multivitamins</option>
+			<option value="http://www.medisyskart.com/vitamins-minerals/vitamins/vitamins-a-z.html">- - - - Vitamins A-Z</option>
+			<option value="http://www.medisyskart.com/vitamins-minerals/minerals.html">- - Minerals</option>
+			<option value="http://www.medisyskart.com/vitamins-minerals/minerals/minerals.html">- - - - Minerals</option>
+			<option value="http://www.medisyskart.com/vitamins-minerals/premium-brands.html">- - Premium Brands</option>
+			<option value="http://www.medisyskart.com/vitamins-minerals/premium-brands/vitamin-shoppe.html">- - - - Vitamin Shoppe</option>
+			<option value="http://www.medisyskart.com/vitamins-minerals/premium-brands/health-aid.html">- - - - Health Aid</option>
+			<option value="http://www.medisyskart.com/vitamins-minerals/premium-brands/gnc.html">- - - - GNC</option>
+			<option value="http://www.medisyskart.com/vitamins-minerals/premium-brands/herbal-hills.html">- - - - Herbal Hills</option>
+			<option value="http://www.medisyskart.com/vitamins-minerals/premium-brands/organic-india.html">- - - - Organic India</option>
+			<option value="http://www.medisyskart.com/vitamins-minerals/premium-brands/morpheme.html">- - - - Morpheme</option>
+			<option value="http://www.medisyskart.com/vitamins-minerals/premium-brands/optimum-nutrition.html">- - - - ON</option>
+			<option value="http://www.medisyskart.com/vitamins-minerals/select-by-concern.html">- - Select By Concern</option>
+			<option value="http://www.medisyskart.com/vitamins-minerals/select-by-concern/digestion.html">- - - - Digestion</option>
+			<option value="http://www.medisyskart.com/vitamins-minerals/select-by-concern/diabetes.html">- - - - Diabetes Support</option>
+			<option value="http://www.medisyskart.com/vitamins-minerals/select-by-concern/brain-memory-tonics.html">- - - - Brain &amp; Memory Tonics</option>
+			<option value="http://www.medisyskart.com/vitamins-minerals/select-by-concern/skin-care.html">- - - - Skin Care</option>
+			<option value="http://www.medisyskart.com/vitamins-minerals/select-by-concern/immunity.html">- - - - Immunity</option>
+			<option value="http://www.medisyskart.com/vitamins-minerals/select-by-concern/heart-blood-pressure.html">- - - - Heart &amp; Blood Pressure</option>
+			<option value="http://www.medisyskart.com/vitamins-minerals/select-by-concern/liver.html">- - - - Liver</option>
+			<option value="http://www.medisyskart.com/vitamins-minerals/select-by-concern/weight-loss.html">- - - - Weight Loss</option>
+			<option value="http://www.medisyskart.com/elderly-care.html">Elderly Care</option>
+			<option value="http://www.medisyskart.com/elderly-care/mobility-support.html">- - Mobility Support</option>
+			<option value="http://www.medisyskart.com/elderly-care/mobility-support/walker.html">- - - - Walker</option>
+			<option value="http://www.medisyskart.com/elderly-care/mobility-support/wheel-chair.html">- - - - Wheel Chair</option>
+			<option value="http://www.medisyskart.com/elderly-care/mobility-support/commode-stool.html">- - - - Commode Stool</option>
+			<option value="http://www.medisyskart.com/elderly-care/mobility-support/walking-stick.html">- - - - Walking Stick</option>
+			<option value="http://www.medisyskart.com/elderly-care/mobility-support/shower-chair.html">- - - - Shower Chair</option>
+			<option value="http://www.medisyskart.com/elderly-care/mobility-support/power-wheel-chair.html">- - - - Power Wheel Chair</option>
+			<option value="http://www.medisyskart.com/elderly-care/adult-diaper.html">- - Adult Diaper</option>
+			<option value="http://www.medisyskart.com/elderly-care/adult-diaper/pull-up-diaper.html">- - - - Pull up diaper</option>
+			<option value="http://www.medisyskart.com/elderly-care/adult-diaper/normal-diaper.html">- - - - Normal diaper</option>
+			<option value="http://www.medisyskart.com/elderly-care/adult-diaper/under-pad.html">- - - - Under Pad</option>
+			<option value="http://www.medisyskart.com/elderly-care/monitoring-devices.html">- - Monitoring Devices</option>
+			<option value="http://www.medisyskart.com/elderly-care/monitoring-devices/glucose-meters.html">- - - - Glucose Meters</option>
+			<option value="http://www.medisyskart.com/elderly-care/monitoring-devices/blood-pressures.html">- - - - Blood Pressures</option>
+			<option value="http://www.medisyskart.com/elderly-care/monitoring-devices/weighing-scales.html">- - - - Weighing Scales</option>
+			<option value="http://www.medisyskart.com/elderly-care/monitoring-devices/thermometer.html">- - - - Thermometer</option>
+			<option value="http://www.medisyskart.com/elderly-care/pain-relief-devices.html">- - Pain Relief Devices</option>
+			<option value="http://www.medisyskart.com/elderly-care/pain-relief-devices/back-care.html">- - - - Back Care</option>
+			<option value="http://www.medisyskart.com/elderly-care/pain-relief-devices/neck-care.html">- - - - Neck Care</option>
+			<option value="http://www.medisyskart.com/elderly-care/pain-relief-devices/wrist-elbow-care.html">- - - - Wrist &amp; Elbow Care</option>
+			<option value="http://www.medisyskart.com/elderly-care/pain-relief-devices/knee-care.html">- - - - Knee Care</option>
+			<option value="http://www.medisyskart.com/elderly-care/pain-relief-devices/ankle-care.html">- - - - Ankle Care</option>
+			<option value="http://www.medisyskart.com/baby-care.html">Baby Care</option>
+			<option value="http://www.medisyskart.com/baby-care/diapers-wipes.html">- - Diapers &amp; Wipes</option>
+			<option value="http://www.medisyskart.com/baby-care/diapers-wipes/baby-diapers-pants.html">- - - - Baby Diapers &amp; Pants</option>
+			<option value="http://www.medisyskart.com/baby-care/diapers-wipes/wipes.html">- - - - Wipes</option>
+			<option value="http://www.medisyskart.com/baby-care/diapers-wipes/diaper-bag.html">- - - - Diaper Bag</option>
+			<option value="http://www.medisyskart.com/baby-care/feeding-nursing.html">- - Feeding &amp; Nursing</option>
+			<option value="http://www.medisyskart.com/baby-care/feeding-nursing/breast-feeding-aid.html">- - - - Breast Feeding Aid</option>
+			<option value="http://www.medisyskart.com/baby-care/feeding-nursing/nipples-teats.html">- - - - Nipples &amp; Teats</option>
+			<option value="http://www.medisyskart.com/baby-care/feeding-nursing/bottles-accessories.html">- - - - Bottles &amp; Accessories</option>
+			<option value="http://www.medisyskart.com/baby-care/feeding-nursing/steriliser-food-warmer.html">- - - - Steriliser &amp; Food Warmer</option>
+			<option value="http://www.medisyskart.com/baby-care/bath-skin-care.html">- - Bath &amp; Skin Care</option>
+			<option value="http://www.medisyskart.com/baby-care/bath-skin-care/bath-gel-soaps-shampoo.html">- - - - Bath Gel, Soaps &amp; Shampoo</option>
+			<option value="http://www.medisyskart.com/baby-care/bath-skin-care/cream-lotion.html">- - - - Cream &amp; Lotion</option>
+			<option value="http://www.medisyskart.com/baby-care/bath-skin-care/powder.html">- - - - Powder</option>
+			<option value="http://www.medisyskart.com/baby-care/health-safety.html">- - Health &amp; Safety</option>
+			<option value="http://www.medisyskart.com/baby-care/health-safety/oral-care.html">- - - - Oral Care</option>
+			<option value="http://www.medisyskart.com/baby-care/health-safety/eye-ear-nose-care.html">- - - - Eye, Ear &amp; Nose Care</option>
+			<option value="http://www.medisyskart.com/baby-care/health-safety/thermometer.html">- - - - Thermometer</option>
+			<option value="http://www.medisyskart.com/baby-care/premium-brands.html">- - Premium Brands</option>
+			<option value="http://www.medisyskart.com/baby-care/premium-brands/himalaya-baby.html">- - - - Himalaya Baby</option>
+			<option value="http://www.medisyskart.com/baby-care/premium-brands/j-j.html">- - - - Johnson's</option>
+			<option value="http://www.medisyskart.com/baby-care/premium-brands/p-g.html">- - - - Pampers</option>
+			<option value="http://www.medisyskart.com/baby-care/premium-brands/hindustan-unilever.html">- - - - Huggies</option>
+			<option value="http://www.medisyskart.com/baby-care/premium-brands/himalaya.html">- - - - Himalaya</option>
+			<option value="http://www.medisyskart.com/baby-care/kid-essentials.html">- - Kid Essentials</option>
+			<option value="http://www.medisyskart.com/baby-care/kid-essentials/nutrition-for-children.html">- - - - Nutrition For Children</option>
+			<option value="http://www.medisyskart.com/gym-yoga.html">Gym &amp; Yoga</option>
+			<option value="http://www.medisyskart.com/gym-yoga/gym-equipments.html">- - Gym Equipments</option>
+			<option value="http://www.medisyskart.com/gym-yoga/gym-equipments/dumbbells.html">- - - - Dumbbells</option>
+			<option value="http://www.medisyskart.com/gym-yoga/gym-equipments/home-gyms.html">- - - - Home Gyms</option>
+			<option value="http://www.medisyskart.com/gym-yoga/gym-equipments/benches.html">- - - - Benches</option>
+			<option value="http://www.medisyskart.com/gym-yoga/gym-equipments/push-up-stands.html">- - - - Push Up Stands</option>
+			<option value="http://www.medisyskart.com/gym-yoga/gym-equipments/training-equipments.html">- - - - Training Equipments</option>
+			<option value="http://www.medisyskart.com/gym-yoga/gym-equipments/exercise-fitness-gloves.html">- - - - Exercise &amp; Fitness Gloves</option>
+			<option value="http://www.medisyskart.com/gym-yoga/gym-equipments/exercise-balls-accessories.html">- - - - Exercise Balls &amp; Accessories</option>
+			<option value="http://www.medisyskart.com/gym-yoga/yoga-equipments.html">- - Yoga Equipments</option>
+			<option value="http://www.medisyskart.com/gym-yoga/yoga-equipments/yoga-mats.html">- - - - Yoga Mats</option>
+			<option value="http://www.medisyskart.com/gym-yoga/yoga-equipments/yoga-belts.html">- - - - Yoga Belts</option>
+			<option value="http://www.medisyskart.com/gym-yoga/gym-accessories.html">- - Gym Accessories</option>
+			<option value="http://www.medisyskart.com//">- - - - Shaker</option>
+			<option value="http://www.medisyskart.com/protein-supplements.html">Protein Supplements</option>
+			<option value="http://www.medisyskart.com/protein-supplements/gainers.html">- - Gainers</option>
+			<option value="http://www.medisyskart.com/protein-supplements/gainers/mass-gainer.html">- - - - Mass Gainer</option>
+			<option value="http://www.medisyskart.com/protein-supplements/gainers/weight-gainer.html">- - - - Weight Gainer</option>
+			<option value="http://www.medisyskart.com/protein-supplements/sports-supplement.html">- - Sports Supplement</option>
+			<option value="http://www.medisyskart.com/protein-supplements/sports-supplement/whey-protein.html">- - - - Whey Protein</option>
+			<option value="http://www.medisyskart.com/protein-supplements/sports-supplement/soy-protein.html">- - - - Soy Protein</option>
+			<option value="http://www.medisyskart.com/protein-supplements/sports-supplement/energy-bars.html">- - - - Energy Bars</option>
+			<option value="http://www.medisyskart.com/protein-supplements/sports-supplement/creatine.html">- - - - Creatine</option>
+			<option value="http://www.medisyskart.com/protein-supplements/sports-supplement/amino-acids-bcaa-s.html">- - - - Amino Acids/BCAA's</option>
+			<option value="http://www.medisyskart.com/protein-supplements/sports-supplement/glutamine.html">- - - - Glutamine</option>
+			<option value="http://www.medisyskart.com/protein-supplements/premium-brands.html">- - Premium Brands</option>
+			<option value="http://www.medisyskart.com/protein-supplements/premium-brands/medisys.html">- - - - Medisys</option>
+			<option value="http://www.medisyskart.com/protein-supplements/premium-brands/optimum-nutrition.html">- - - - ON</option>
+			<option value="http://www.medisyskart.com/protein-supplements/premium-brands/ultimate.html">- - - - Ultimate</option>
+			<option value="http://www.medisyskart.com/protein-supplements/premium-brands/universal.html">- - - - Universal</option>
+			<option value="http://www.medisyskart.com/protein-supplements/premium-brands/dymatize.html">- - - - Dymatize</option>
+			<option value="http://www.medisyskart.com/protein-supplements/premium-brands/muscletech.html">- - - - MuscleTech</option>
+			<option value="http://www.medisyskart.com/protein-supplements/premium-brands/bsn.html">- - - - BSN</option>
+			<option value="http://www.medisyskart.com/protein-supplements/premium-brands/endura.html">- - - - Endura</option>
+			<option value="http://www.medisyskart.com/protein-supplements/premium-brands/nature-s.html">- - - - Nature's</option>
+			<option value="http://www.medisyskart.com/protein-supplements/premium-brands/naturell-india.html">- - - - Naturell India</option>
+			<option value="http://www.medisyskart.com/protein-supplements/premium-brands/proin.html">- - - - ProIN</option>
+			<option value="http://www.medisyskart.com/protein-supplements/premium-brands/xterra-nutrition.html">- - - - Xterra Nutrition</option>
+			<option value="http://www.medisyskart.com/protein-supplements/proteins.html">- - Proteins</option>
+			<option value="http://www.medisyskart.com/protein-supplements/proteins/whey-protein.html">- - - - Whey Protein</option>
+			<option value="http://www.medisyskart.com/protein-supplements/proteins/whey-protein-isolates.html">- - - - Whey Protein Isolates</option>
+			<option value="http://www.medisyskart.com/protein-supplements/proteins/soy-protein.html">- - - - Soy Protein</option>
+			<option value="http://www.medisyskart.com/protein-supplements/proteins/protein-bars.html">- - - - Protein Bars</option>
+			<option value="http://www.medisyskart.com/protein-supplements/proteins/casein.html">- - - - Casein</option>
+			<option value="http://www.medisyskart.com/protein-supplements/pre-post-workout.html">- - Pre/Post Workout</option>
+			<option value="http://www.medisyskart.com/protein-supplements/pre-post-workout/pre-workout.html">- - - - Pre-Workout</option>
+			<option value="http://www.medisyskart.com/protein-supplements/pre-post-workout/creatine.html">- - - - Creatine</option>
+			<option value="http://www.medisyskart.com/protein-supplements/pre-post-workout/glutamine.html">- - - - Glutamine</option>
+			<option value="http://www.medisyskart.com/weight-loss.html">Weight Loss</option>
+			<option value="http://www.medisyskart.com/weight-loss/low-carbs-fats.html">- - Low Carbs/Fats</option>
+			<option value="http://www.medisyskart.com/weight-loss/low-carbs-fats/meal-replacement-shakes.html">- - - - Meal Replacement Shakes</option>
+			<option value="http://www.medisyskart.com/weight-loss/low-carbs-fats/protein-shakes.html">- - - - Protein Shakes</option>
+			<option value="http://www.medisyskart.com/weight-loss/low-carbs-fats/energy-drinks.html">- - - - Energy Drinks</option>
+			<option value="http://www.medisyskart.com/weight-loss/low-carbs-fats/bars.html">- - - - Bars</option>
+			<option value="http://www.medisyskart.com/weight-loss/premium-brands.html">- - Premium Brands</option>
+			<option value="http://www.medisyskart.com/weight-loss/premium-brands/medisys.html">- - - - Medisys</option>
+			<option value="http://www.medisyskart.com/weight-loss/premium-brands/getrim.html">- - - - Getrim</option>
+			<option value="http://www.medisyskart.com/weight-loss/premium-brands/proin.html">- - - - Proln</option>
+			<option value="http://www.medisyskart.com/weight-loss/premium-brands/laplant.html">- - - - LaPlant</option>
+			<option value="http://www.medisyskart.com/weight-loss/premium-brands/muscletech.html">- - - - MuscleTech</option>
+			<option value="http://www.medisyskart.com/weight-loss/premium-brands/organic-india.html">- - - - Organic India</option>
+			<option value="http://www.medisyskart.com/weight-loss/premium-brands/gnc.html">- - - - GNC</option>
+			<option value="http://www.medisyskart.com/weight-loss/premium-brands/naturell-india.html">- - - - Naturell India</option>
+			<option value="http://www.medisyskart.com/weight-loss/premium-brands/proin-25.html">- - - - ProIN</option>
+			<option value="http://www.medisyskart.com/weight-loss/premium-brands/xterra-nutrition.html">- - - - Xterra Nutrition</option>
+			<option value="http://www.medisyskart.com/weight-loss/increase-metabolism.html">- - Increase Metabolism</option>
+			<option value="http://www.medisyskart.com/weight-loss/increase-metabolism/fat-burners.html">- - - - Fat Burners</option>
+			<option value="http://www.medisyskart.com/weight-loss/increase-metabolism/green-tea.html">- - - - Green Tea</option>
+			<option value="http://www.medisyskart.com/weight-loss/increase-metabolism/garcinia.html">- - - - Garcinia</option>
+			<option value="http://www.medisyskart.com/ayurvedic-herbals.html">Ayurvedic &amp; Herbals</option>
+			<option value="http://www.medisyskart.com/ayurvedic-herbals/select-by-concern.html">- - Select By Concern</option>
+			<option value="http://www.medisyskart.com/ayurvedic-herbals/select-by-concern/weight-loss.html">- - - - Weight Loss</option>
+			<option value="http://www.medisyskart.com/ayurvedic-herbals/select-by-concern/sexual-health.html">- - - - Sexual Health</option>
+			<option value="http://www.medisyskart.com/ayurvedic-herbals/select-by-concern/skin-care.html">- - - - Skin Care</option>
+			<option value="http://www.medisyskart.com/ayurvedic-herbals/select-by-concern/immunity.html">- - - - Immunity</option>
+			<option value="http://www.medisyskart.com/ayurvedic-herbals/select-by-concern/liver.html">- - - - Liver</option>
+			<option value="http://www.medisyskart.com/ayurvedic-herbals/select-by-concern/heart.html">- - - - Heart</option>
+			<option value="http://www.medisyskart.com/ayurvedic-herbals/select-by-concern/digestion.html">- - - - Digestion</option>
+			<option value="http://www.medisyskart.com/ayurvedic-herbals/select-by-concern/brain-memory-tonics.html">- - - - Brain &amp; Memory Tonics</option>
+			<option value="http://www.medisyskart.com/ayurvedic-herbals/select-by-concern/diabetic-care.html">- - - - Diabetic Care</option>
+			<option value="http://www.medisyskart.com/ayurvedic-herbals/select-by-concern/joint-pain.html">- - - - Joint Pain</option>
+			<option value="http://www.medisyskart.com/ayurvedic-herbals/premium-brands.html">- - Premium Brands</option>
+			<option value="http://www.medisyskart.com/ayurvedic-herbals/premium-brands/deemark.html">- - - - Deemark</option>
+			<option value="http://www.medisyskart.com/ayurvedic-herbals/premium-brands/morpheme.html">- - - - Morpheme</option>
+			<option value="http://www.medisyskart.com/ayurvedic-herbals/premium-brands/gnc.html">- - - - GNC</option>
+			<option value="http://www.medisyskart.com/ayurvedic-herbals/premium-brands/herbal-hills.html">- - - - Herbals Hills</option>
+			<option value="http://www.medisyskart.com/ayurvedic-herbals/premium-brands/organic-india.html">- - - - Organic India</option>
+			<option value="http://www.medisyskart.com/ayurvedic-herbals/premium-brands/himalaya.html">- - - - Himalaya</option>
+			<option value="http://www.medisyskart.com/health-devices.html">Health Devices</option>
+			<option value="http://www.medisyskart.com/health-devices/monitoring-devices.html">- - Monitoring Devices</option>
+			<option value="http://www.medisyskart.com/health-devices/monitoring-devices/glucose-meters.html">- - - - Glucose Meters</option>
+			<option value="http://www.medisyskart.com/health-devices/monitoring-devices/blood-pressures.html">- - - - Blood Pressures</option>
+			<option value="http://www.medisyskart.com/health-devices/monitoring-devices/weighing-scales.html">- - - - Weighing Scales</option>
+			<option value="http://www.medisyskart.com/health-devices/monitoring-devices/thermometer.html">- - - - Thermometer</option>
+			<option value="http://www.medisyskart.com/health-devices/pain-relief-devices.html">- - Pain Relief Devices</option>
+			<option value="http://www.medisyskart.com/health-devices/pain-relief-devices/back-care.html">- - - - Back Care</option>
+			<option value="http://www.medisyskart.com/health-devices/pain-relief-devices/neck-care.html">- - - - Neck Care</option>
+			<option value="http://www.medisyskart.com/health-devices/pain-relief-devices/wrist-elbow-care.html">- - - - Wrist &amp; Elbow Care</option>
+			<option value="http://www.medisyskart.com/health-devices/pain-relief-devices/knee-care.html">- - - - Knee Care</option>
+			<option value="http://www.medisyskart.com/health-devices/pain-relief-devices/ankle-care.html">- - - - Ankle Care</option>
+			<option value="http://www.medisyskart.com/health-devices/premium-brands.html">- - Premium Brands</option>
+			<option value="http://www.medisyskart.com/health-devices/premium-brands/omron.html">- - - - Omron</option>
+			<option value="http://www.medisyskart.com/health-devices/premium-brands/dr-morepen-labs.html">- - - - Morepen Labs</option>
+			<option value="http://www.medisyskart.com/health-devices/premium-brands/tynor.html">- - - - Tynor</option>
+			<option value="http://www.medisyskart.com/health-devices/premium-brands/vissco.html">- - - - Vissco</option>
+			<option value="http://www.medisyskart.com/health-devices/premium-brands/accu-chek.html">- - - - Roche</option>
+			<option value="http://www.medisyskart.com/health-devices/premium-brands/life-scan-j-j.html">- - - - LifeScan J&amp; J</option>
+			<option value="http://www.medisyskart.com/health-devices/premium-brands/equinox.html">- - - - Equinox</option>
+			<option value="http://www.medisyskart.com/daily-needs.html">Daily Needs</option>
+			<option value="http://www.medisyskart.com/wellness.html">Wellness</option>
+			<option value="http://www.medisyskart.com/wellness/beauty-care.html">- - Beauty Care</option>
+			<option value="http://www.medisyskart.com/wellness/beauty-care/body-care.html">- - - - Body Care</option>
+			<option value="http://www.medisyskart.com/wellness/beauty-care/hair-care.html">- - - - Hair Care</option>
+			<option value="http://www.medisyskart.com/wellness/beauty-care/eye-care.html">- - - - Eye Care</option>
+			<option value="http://www.medisyskart.com/wellness/beauty-care/skin-care.html">- - - - Skin Care</option>
+			<option value="http://www.medisyskart.com/wellness/sexual-wellness-for-men.html">- - Sexual Wellness For Men</option>
+			<option value="http://www.medisyskart.com/wellness/sexual-wellness-for-men/condoms-for-men.html">- - - - Condoms For Men</option>
+			<option value="http://www.medisyskart.com/wellness/sexual-wellness-for-men/men-sexual-care.html">- - - - Men Sexual Care</option>
+			<option value="http://www.medisyskart.com/wellness/premium-brands.html">- - Premium Brands</option>
+			<option value="http://www.medisyskart.com/wellness/premium-brands/durex.html">- - - - Durex</option>
+			<option value="http://www.medisyskart.com/wellness/premium-brands/kohinoor.html">- - - - Kohinoor</option>
+			<option value="http://www.medisyskart.com/wellness/premium-brands/manforce.html">- - - - Manforce</option>
+			<option value="http://www.medisyskart.com/wellness/premium-brands/skore.html">- - - - Skore</option>
+			<option value="http://www.medisyskart.com/wellness/premium-brands/kamasutra.html">- - - - KamaSutra</option>
+			<option value="http://www.medisyskart.com/wellness/premium-brands/morpheme.html">- - - - Morpheme</option>
+			<option value="http://www.medisyskart.com/wellness/premium-brands/organic-india.html">- - - - Organic India</option>
+			<option value="http://www.medisyskart.com/wellness/premium-brands/veet.html">- - - - Veet</option>
+			<option value="http://www.medisyskart.com/wellness/premium-brands/dabur.html">- - - - Dabur</option>
+			<option value="http://www.medisyskart.com/wellness/sexual-wellness-for-women.html">- - Sexual Wellness For Women</option>
+			<option value="http://www.medisyskart.com/wellness/sexual-wellness-for-women/women-sexual-care.html">- - - - Women Sexual Care</option>
+			<option value="http://www.medisyskart.com/top-products.html">Top Products</option>
+			<option value="http://www.medisyskart.com/daily-deals.html">Daily Deals</option>
+			<option value="http://www.medisyskart.com/seller.html">Seller</option>
+			<option value="http://www.medisyskart.com/seller/medisys.html">- - Medisys</option>
+			<option value="http://www.medisyskart.com/seller/endura.html">- - Endura</option>
+			<option value="http://www.medisyskart.com/seller/do-you-even-gym.html">- - Do You Even Gym</option>
+			<option value="http://www.medisyskart.com/seller/xterra-nutrition.html">- - Xterra Nutrition</option>
+			<option value="http://www.medisyskart.com/seller/laplant-beverages.html">- - LaPlant Beverages</option>
+			<option value="http://www.medisyskart.com/seller/morpheme-remedies.html">- - Morpheme Remedies</option>
+			<option value="http://www.medisyskart.com/seller/nouveau-medicament.html">- - Nouveau Medicament </option>
+			<option value="http://www.medisyskart.com/seller/deemark-healthcare.html">- - Deemark Healthcare</option>
+			<option value="http://www.medisyskart.com/seller/isha-agro.html">- - Isha Agro</option>
+			<option value="http://www.medisyskart.com/brands.html">Brands</option>
+			<option value="http://www.medisyskart.com/brands/medisys.html">- - Medisys</option>
+			<option value="http://www.medisyskart.com/brands/on.html">- - ON</option>
+			<option value="http://www.medisyskart.com/brands/dr-morepen.html">- - Dr.Morepen</option>
+			<option value="http://www.medisyskart.com/brands/dymatize.html">- - Dymatize</option>
+			<option value="http://www.medisyskart.com/brands/muscletech.html">- - MuscleTech</option>
+			<option value="http://www.medisyskart.com/brands/omron.html">- - Omron</option>
+			<option value="http://www.medisyskart.com/brands/organic-india.html">- - Organic India</option>
+			<option value="http://www.medisyskart.com/brands/roche.html">- - Roche</option>
+			<option value="http://www.medisyskart.com/brands/hyp.html">- - Hyp</option>
+			<option value="http://www.medisyskart.com/brands/lifescan-j-j.html">- - LifeScan J&amp; J</option>
+			<option value="http://www.medisyskart.com/brands/endura.html">- - Endura</option>
+			<option value="http://www.medisyskart.com/brands/himalaya.html">- - Himalaya</option>
+			<option value="http://www.medisyskart.com/brands/hindustan-unilever.html">- - Hindustan Unilever</option>
+			<option value="http://www.medisyskart.com/brands/tynor.html">- - Tynor</option>
+			<option value="http://www.medisyskart.com/brands/bsn.html">- - BSN</option>
+			<option value="http://www.medisyskart.com/brands/gnc.html">- - GNC</option>
+			<option value="http://www.medisyskart.com/brands/p-g.html">- - P&amp;G</option>
+			<option value="http://www.medisyskart.com/brands/johnson-s.html">- - Johnson's</option>
+			<option value="http://www.medisyskart.com/brands/dabur.html">- - Dabur</option>
+			<option value="http://www.medisyskart.com/brands/equinox.html">- - Equinox</option>
+			<option value="http://www.medisyskart.com/brands/laplant.html">- - LaPlant</option>
+			<option value="http://www.medisyskart.com/brands/manforce.html">- - Manforce</option>
+			<option value="http://www.medisyskart.com/brands/skore.html">- - Skore</option>
+			<option value="http://www.medisyskart.com/brands/deemark.html">- - Deemark</option>
+			<option value="http://www.medisyskart.com/brands/durex.html">- - Durex</option>
+			<option value="http://www.medisyskart.com/brands/herbal-hills.html">- - Herbals Hills</option>
+			<option value="http://www.medisyskart.com/brands/kohinoor.html">- - Kohinoor</option>
+			<option value="http://www.medisyskart.com/brands/morpheme.html">- - Morpheme</option>
+			<option value="http://www.medisyskart.com/brands/veet.html">- - Veet</option>
+			<option value="http://www.medisyskart.com/brands/vissco.html">- - Vissco</option>
+	</select>
+</div>
+        </div>
+        <div id="yt_menu_short">
+            <div id="btn_categories">
+                <span><i class="icon-cate"></i>Categories</span>
+            </div>
+            <div class="yt-menu-content">
+            		
+
+<!--link media="all" href="" type="text/css" rel="stylesheet">
+
+
+<link media="all" href="" type="text/css" rel="stylesheet"-->
+
+		
+	<div class="sm_megamenu_wrapper_vertical_menu sambar" id="sm_megamenu_menu5613070a37cd8" data-sam="16107882151444087562">
+		<div class="sambar-inner">
+			<a class="btn-sambar" data-sapi="collapse" href="#sm_megamenu_menu5613070a37cd8">
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</a>	
+			<ul class="sm-megamenu-hover sm_megamenu_menu sm_megamenu_menu_black" data-jsapi="on">
+									<li class="megamenu2-parent  other-toggle   
+						sm_megamenu_lv1 sm_megamenu_drop parent   ">
+												<a class="sm_megamenu_head sm_megamenu_drop " href="http://www.medisyskart.com/protein-supplements.html" id="sm_megamenu_226">
+																										<span class="sm_megamenu_icon sm_megamenu_nodesc">		
+																												<span class="sm_megamenu_title">Protein Supplements</span>
+																	
+														
+													</span>
+																									</a>
+																																					<div class="sm-megamenu-child sm_megamenu_dropdown_6columns ">	
+													<div class="sm_megamenu_col_6 sm_megamenu_firstcolumn  sm_megamenu_id226 megamenu2"><div class="sm_megamenu_col_6 sm_megamenu_firstcolumn  sm_megamenu_id227 megamenu2"><div class="sm_megamenu_head_item ">	</div><div class="sm_megamenu_content"><div class="mega1-cont">
+
+	<div class="mega1-col mega1-col1">
+    	<span class="mega-title"><a href="/protein-supplements/proteins.html">Proteins</a></span>
+    	<ul>
+        <li><a href="/protein-supplements/proteins/whey-protein.html">Whey Protein</a></li>
+            <li><a href="/protein-supplements/proteins/whey-protein-isolates.html">Whey Protein Isolates</a></li>
+            <li><a href="/protein-supplements/proteins/soy-protein.html">Soy Protein</a></li>
+             <li><a href="/protein-supplements/proteins/casein.html">Casein</a></li>
+            <li><a href="/protein-supplements/proteins/protein-bars.html">Protein Bars</a></li>
+                        
+        </ul>
+        <span class="mega-title"><a href="/protein-supplements/gainers.html">Gainers</a></span>
+        <ul>
+            <li><a href="/protein-supplements/gainers/mass-gainer.html">Mass Gainer</a></li>
+            <li><a href="/protein-supplements/gainers/weight-gainer.html">Weight Gainer</a></li>
+         
+        </ul>
+   
+  <span class="mega-title"><a href="/protein-supplements/pre-post-workout.html">Pre/Post Workout</a></span>
+        <ul>
+            <li><a href="/protein-supplements/pre-post-workout/pre-workout.html">Pre-Workout</a></li>
+            <li><a href="/protein-supplements/pre-post-workout/creatine.html">Creatine</a></li>
+            <li><a href="/protein-supplements/pre-post-workout/glutamine.html">Glutamine</a></li>
+         
+        </ul>
+    </div>
+    <div class="mega1-col mega1-col2">
+<p>&nbsp;</p>
+    	<span class="mega-title"><a href="/protein-supplements/sports-supplement.html">Sports Supplement</a></span>
+    	<ul>
+        	<li><a href="/protein-supplements/sports-supplement/whey-protein.html">Whey Protein</a></li>
+            <li><a href="/protein-supplements/sports-supplement/soy-protein.html">Soy Protein</a></li>
+            <li><a href="/protein-supplements/sports-supplement/energy-bars.html">Energy Bars</a></li>    
+             <li><a href="/protein-supplements/sports-supplement/creatine.html">Creatine</a></li>     
+             <li><a href="/protein-supplements/sports-supplement/amino-acids-bcaa-s.html">Amino Acids/BCAA's</a></li>           
+        </ul>
+        <span class="mega-title"><a href="/protein-supplements/premium-brands.html">Premium Brands</a></span>
+        <ul>
+ <li><a href="/protein-supplements/premium-brands/optimum-nutrition.html">Optimum Nutrition</a></li>
+ <li><a href="/protein-supplements/premium-brands/bsn.html">BSN</a></li>
+ <li><a href="/protein-supplements/premium-brands/muscletech.html">MuscleTech</a></li>
+ <li><a href="/protein-supplements/premium-brands/dymatize.html">Dymatize</a></li>
+ </ul>
+    </div>
+
+</div>
+</div></div></div>												</div>
+												</li>
+									<li class="megamenu2-parent  other-toggle   
+						sm_megamenu_lv1 sm_megamenu_drop parent   ">
+												<a class="sm_megamenu_head sm_megamenu_drop " href="http://www.medisyskart.com/weight-loss.html" id="sm_megamenu_228">
+																										<span class="sm_megamenu_icon sm_megamenu_nodesc">		
+																												<span class="sm_megamenu_title">Weight Loss</span>
+																	
+														
+													</span>
+																									</a>
+																																					<div class="sm-megamenu-child sm_megamenu_dropdown_6columns ">	
+													<div class="sm_megamenu_col_6 sm_megamenu_firstcolumn  sm_megamenu_id228 megamenu2"><div class="sm_megamenu_col_6 sm_megamenu_firstcolumn  sm_megamenu_id229 megamenu2"><div class="sm_megamenu_head_item ">	</div><div class="sm_megamenu_content"><div class="mega1-cont">
+<div class="mega1-col mega1-col1">
+<span class="mega-title"><a href="/weight-loss/low-carbs-fats.html">Low Carbs/Fats</a></span>
+<ul>
+<li><a href="/weight-loss/low-carbs-fats/meal-replacement-shakes.html">Meal Replacement Shakes</a></li>
+<!--<li><a href="/weight-loss/low-carbs-fats/protein-shakes.html">Protein Shakes</a></li>
+<li><a href="/weight-loss/low-carbs-fats/energy-drinks.html">Energy Drinks</a></li>-->
+<li><a href="/weight-loss/low-carbs-fats/bars.html">Bars</a></li>
+</ul>
+
+<span class="mega-title"><a href="/weight-loss/increase-metabolism.html">Increase Metabolism</a></span>
+<ul>
+<li><a href="/weight-loss/increase-metabolism/fat-burners.html">Fat Burners</a></li>
+<li><a href="/weight-loss/increase-metabolism/green-tea.html">Green Tea</a></li>
+<li><a href="/weight-loss/increase-metabolism/garcinia.html">Garcinia</a></li>
+</ul>
+</div>
+<div class="mega1-col mega1-col2">
+<p>&nbsp;</p>
+<span class="mega-title"><a href="/weight-loss/premium-brands.html">Premium Brands</a></span>
+<ul>
+<li><a href="/weight-loss/premium-brands/getrim.html">Getrim</a></li>
+<li><a href="/weight-loss/premium-brands/proin.html">ProlN</a></li>
+<li><a href="/weight-loss/premium-brands/laplant.html">LaPlant</a></li>
+<li><a href="/weight-loss/premium-brands/muscletech.html">MuscleTech</a></li>
+<li><a href="/weight-loss/premium-brands/organic-india.html">Organic India</a></li>
+<li><a href="/weight-loss/premium-brands/gnc.html">GNC</a></li>
+<li><a href="/weight-loss/premium-brands/naturell-india.html">Naturell India</a></li>
+</ul>
+</div></div></div></div>												</div>
+												</div></li>
+									<li class="megamenu2-parent  other-toggle   
+						sm_megamenu_lv1 sm_megamenu_drop parent   ">
+												<a class="sm_megamenu_head sm_megamenu_drop " href="http://www.medisyskart.com/vitamins-minerals.html" id="sm_megamenu_230">
+																										<span class="sm_megamenu_icon sm_megamenu_nodesc">		
+																												<span class="sm_megamenu_title">Vitamins &amp; Minerals</span>
+																	
+														
+													</span>
+																									</a>
+																																					<div class="sm-megamenu-child sm_megamenu_dropdown_6columns ">	
+													<div class="sm_megamenu_col_6 sm_megamenu_firstcolumn  sm_megamenu_id230 megamenu2"><div class="sm_megamenu_col_6 sm_megamenu_firstcolumn  sm_megamenu_id231 megamenu2"><div class="sm_megamenu_head_item ">	</div><div class="sm_megamenu_content"><div class="mega1-cont">
+<div class="mega1-col mega1-col1">
+<span class="mega-title"><a href="/vitamins-minerals/select-by-concern.html">Select By Concern</a></span>
+<ul>
+<li><a href="/vitamins-minerals/select-by-concern/digestion.html">Digestion</a></li>
+<li><a href="/vitamins-minerals/select-by-concern/skin-care.html">Skin Care</a></li>
+<li><a href="/vitamins-minerals/select-by-concern/immunity.html">Immunity</a></li>
+<li><a href="/vitamins-minerals/select-by-concern/heart-blood-pressure.html">Heart &amp; Blood Pressure</a></li>
+<li><a href="/vitamins-minerals/select-by-concern/diabetes.html">Diabetic Support</a></li>
+<li><a href="/vitamins-minerals/select-by-concern/liver.html">Liver</a></li>
+<li><a href="/vitamins-minerals/select-by-concern/brain-memory-tonics.html">Brain &amp; Memory Tonics</a></li>
+<li><a href="/vitamins-minerals/select-by-concern/weight-loss.html">Weight Loss</a></li>
+</ul>
+</div>
+ <div class="mega1-col mega1-col2">
+<p>&nbsp;</p>
+<span class="mega-title"><a href="/vitamins-minerals/premium-brands.html">Premium Brands</a></span>
+<ul>
+<li><a href="/vitamins-minerals/premium-brands/gnc.html">GNC</a></li>
+<li><a href="/vitamins-minerals/premium-brands/herbal-hills.html">Herbal Hills</a></li>
+<li><a href="/vitamins-minerals/premium-brands/organic-india.html">Organic India</a></li>
+<li><a href="/vitamins-minerals/premium-brands/morpheme.html">Morpheme</a></li>
+
+</ul>
+<!--<span class="mega-title"><a href="/vitamins-minerals/vitamins.html">Vitamins</a></span>
+<ul>
+<li><a href="/vitamins-minerals/vitamins/multivitamins.html">Multivitamins</a></li>
+<li><a href="/vitamins-minerals/vitamins/vitamins-a-z.html">Vitamins A-Z</a></li>
+
+</ul>
+
+<span class="mega-title"><a href="/vitamins-minerals/minerals.html">Minerals</a></span>
+<ul>
+<li><a href="/vitamins-minerals/minerals/minerals.html">Minerals</a></li>
+</ul>-->
+</div>
+
+</div></div></div>												</div>
+												</div></li>
+									<li class="megamenu2-parent  other-toggle   
+						sm_megamenu_lv1 sm_megamenu_drop parent   ">
+												<a class="sm_megamenu_head sm_megamenu_drop " href="http://www.medisyskart.com/ayurvedic-herbals.html" id="sm_megamenu_232">
+																										<span class="sm_megamenu_icon sm_megamenu_nodesc">		
+																												<span class="sm_megamenu_title">Ayurvedic &amp; Herbals</span>
+																	
+														
+													</span>
+																									</a>
+																																					<div class="sm-megamenu-child sm_megamenu_dropdown_6columns ">	
+													<div class="sm_megamenu_col_6 sm_megamenu_firstcolumn  sm_megamenu_id232 megamenu2"><div class="sm_megamenu_col_6 sm_megamenu_firstcolumn  sm_megamenu_id233 megamenu2"><div class="sm_megamenu_head_item ">	</div><div class="sm_megamenu_content"><div class="mega1-cont">
+<div class="mega1-col mega1-col1">
+
+<span class="mega-title"><a href="/ayurvedic-herbals/select-by-concern.html">Select By Concern</a></span>
+<ul>
+<li><a href="/ayurvedic-herbals/select-by-concern/weight-loss.html">Weight Loss</a></li>
+<!--<li><a href="/ayurvedic-herbals/select-by-concern/sexual-health.html">Sexual Health</a></li>-->
+<li><a href="/ayurvedic-herbals/select-by-concern/skin-care.html">Skin Care</a></li>
+<li><a href="/ayurvedic-herbals/select-by-concern/immunity.html">Immunity</a></li>
+<li><a href="/ayurvedic-herbals/select-by-concern/liver.html">Liver</a></li>
+<li><a href="/ayurvedic-herbals/select-by-concern/joint-pain.html">Joint Pain</a></li>
+<li><a href="/ayurvedic-herbals/select-by-concern/heart.html">Heart</a></li>
+<li><a href="/ayurvedic-herbals/select-by-concern/digestion.html">Digestion</a></li>
+<li><a href="/ayurvedic-herbals/select-by-concern/brain-memory-tonics.html">Brain &amp; Memory Tonics</a></li>
+<li><a href="/ayurvedic-herbals/select-by-concern/diabetic-care.html">Diabetic Care</a></li>
+</ul>
+</div>
+<div class="mega1-col mega1-col2">
+<p>&nbsp;</p>
+<span class="mega-title"><a href="/ayurvedic-herbals/premium-brands.html">Premium Brands</a></span>
+<ul>
+<li><a href="/ayurvedic-herbals/premium-brands/organic-india.html">Organic India</a></li>
+<li><a href="/ayurvedic-herbals/premium-brands/deemark.html">Deemark</a></li>
+<li><a href="/ayurvedic-herbals/premium-brands/morpheme.html">Morpheme</a></li>
+<li><a href="/ayurvedic-herbals/premium-brands/herbal-hills.html">Herbals Hills</a></li>
+<li><a href="/ayurvedic-herbals/premium-brands/himalaya.html">Himalaya</a></li>
+</ul>
+</div>
+</div></div></div>												</div>
+												</div></li>
+									<li class="megamenu2-parent  other-toggle   
+						sm_megamenu_lv1 sm_megamenu_drop parent   ">
+												<a class="sm_megamenu_head sm_megamenu_drop " href="http://www.medisyskart.com/baby-care.html" id="sm_megamenu_240">
+																										<span class="sm_megamenu_icon sm_megamenu_nodesc">		
+																												<span class="sm_megamenu_title">Baby Care</span>
+																	
+														
+													</span>
+																									</a>
+																																					<div class="sm-megamenu-child sm_megamenu_dropdown_6columns ">	
+													<div class="sm_megamenu_col_6 sm_megamenu_firstcolumn  sm_megamenu_id240 megamenu2"><div class="sm_megamenu_col_6 sm_megamenu_firstcolumn  sm_megamenu_id241 megamenu2"><div class="sm_megamenu_head_item ">	</div><div class="sm_megamenu_content"><div class="mega1-cont">
+
+	<div class="mega1-col mega1-col1">
+    	<span class="mega-title"><a href="/baby-care/diapers-wipes.html">Diapers &amp; Wipes</a></span>
+    	<ul>
+        <li><a href="/baby-care/diapers-wipes/baby-diapers-pants.html">Baby Diapers &amp; Pants</a></li>
+            <li><a href="/baby-care/diapers-wipes/wipes.html">Wipes</a></li>
+            <!--<li><a href="/baby-care/diapers-wipes/diaper-bag.html">Diaper Bags</a></li>-->
+        
+        </ul>
+
+	<span class="mega-title"><a href="/baby-care/premium-brands.html">Premium Brands</a></span>
+    	<ul>
+           <!--<li><a href="/baby-care/premium-brands/himalaya-baby.html">Himalaya Baby</a></li>-->
+            <li><a href="/baby-care/premium-brands/j-j.html">Johnson's</a></li>
+            <li><a href="/baby-care/premium-brands/p-g.html">Pampers</a></li>    
+            <li><a href="/baby-care/premium-brands/hindustan-unilever.html">Huggies</a></li>
+<li><a href="/baby-care/premium-brands/endura.html">Endura</a></li>  
+                    
+        </ul>
+        <!--<span class="mega-title"><a href="/baby-care/feeding-nursing.html">Feeding & Nursing</span></a>
+        <ul>
+            <li><a href="/baby-care/feeding-nursing/breast-feeding-aid.html">Breast Feeding Aid</a></li>
+            <li><a href="/baby-care/feeding-nursing/nipples-teats.html">Nipples & Teats</a></li>
+          <li><a href="/baby-care/feeding-nursing/bottles-accessories.html">Bottles & Accessories</a></li>
+	 <li><a href="/baby-care/feeding-nursing/steriliser-food-warmer.html">Steriliser & Food Warmer</a></li>
+        </ul>-->
+    </div>
+    <div class="mega1-col mega1-col2">
+<p>&nbsp;</p>
+    	<span class="mega-title"><a href="/baby-care/bath-skin-care.html">Bath &amp; Skin Care</a></span>
+    	<ul>
+        	<li><a href="/baby-care/bath-skin-care/bath-gel-soaps-shampoo.html">Bath Gel, Soaps &amp; Shampoo</a></li>
+            <li><a href="/baby-care/bath-skin-care/cream-lotion.html">Cream &amp; Lotion</a></li>
+            <li><a href="/baby-care/bath-skin-care/powder.html">Powder</a></li>    
+        
+                    
+        </ul>
+        <span class="mega-title"><a href="/baby-care/health-safety.html">Health &amp; Safety</a></span>
+        <ul>
+<li><a href="/baby-care/health-safety/oral-care.html">Oral Care</a></li>
+ <li><a href="/baby-care/health-safety/eye-ear-nose-care.html">Eye, Ear &amp; Nose Care</a></li>
+ <!--<li><a href="/baby-care/health-safety/thermometer.html">Thermometer</a></li>-->
+ 
+ 
+        </ul>
+ <span class="mega-title"><a href="/baby-care/kid-essentials.html">Kid Essentials</a></span><ul>
+<li><a href="/baby-care/kid-essentials/nutrition-for-children.html">Nutrition For Children</a></li></ul>
+    </div>
+    
+
+</div>
+</div></div></div>												</div>
+												</li>
+									<li class="megamenu2-parent  other-toggle   
+						sm_megamenu_lv1 sm_megamenu_drop parent   ">
+												<a class="sm_megamenu_head sm_megamenu_drop " href="http://www.medisyskart.com/elderly-care.html" id="sm_megamenu_238">
+																										<span class="sm_megamenu_icon sm_megamenu_nodesc">		
+																												<span class="sm_megamenu_title">Elderly Care</span>
+																	
+														
+													</span>
+																									</a>
+																																					<div class="sm-megamenu-child sm_megamenu_dropdown_6columns ">	
+													<div class="sm_megamenu_col_6 sm_megamenu_firstcolumn  sm_megamenu_id238 megamenu2"><div class="sm_megamenu_col_6 sm_megamenu_firstcolumn  sm_megamenu_id239 megamenu2"><div class="sm_megamenu_head_item ">	</div><div class="sm_megamenu_content"><div class="mega1-cont">
+
+	<div class="mega1-col mega1-col1">
+    	<span class="mega-title"><a href="/elderly-care/mobility-support.html">Mobility Support</a></span>
+    	<ul>
+        <li><a href="/elderly-care/mobility-support/walker.html">Walker</a></li>
+            <li><a href="/elderly-care/mobility-support/wheel-chair.html">Wheel Chair</a></li>
+            <li><a href="/elderly-care/mobility-support/commode-stool.html">Commode Stool</a></li>
+            <li><a href="/elderly-care/mobility-support/walking-stick.html">Walking Stick</a></li>
+	    <li><a href="/elderly-care/mobility-support/shower-chair.html">Shower Chair</a></li>
+	    <!--<li><a href="/elderly-care/mobility-support/power-wheel-chair.html">Power Wheel Chair</a></li>-->
+            
+        </ul>
+        <span class="mega-title"><a href="/elderly-care/adult-diaper.html">Adult Diaper</a></span>
+        <ul>
+            <li><a href="/elderly-care/adult-diaper/pull-up-diaper.html">Pull up diaper</a></li>
+            <li><a href="/elderly-care/adult-diaper/normal-diaper.html">Normal diaper</a></li>
+          <!--<li><a href="/elderly-care/adult-diaper/under-pad.html">Under Pad</a></li>-->
+        </ul>
+    </div>
+    <div class="mega1-col mega1-col2">
+<p>&nbsp;</p>
+    	<span class="mega-title"><a href="/elderly-care/monitoring-devices.html">Monitoring Devices</a></span>
+    	<ul>
+        	<li><a href="/elderly-care/monitoring-devices/glucose-meters.html">Glucose Meters</a></li>
+            <li><a href="/elderly-care/monitoring-devices/blood-pressures.html">Blood Pressures</a></li>
+            <li><a href="/elderly-care/monitoring-devices/weighing-scales.html">Weighing Scales</a></li>    
+             <li><a href="/elderly-care/monitoring-devices/thermometer.html">Thermometer</a></li>     
+                    
+        </ul>
+        <span class="mega-title"><a href="/elderly-care/pain-relief-devices.html">Pain Relief Devices</a></span>
+        <ul>
+<li>
+<a href="/elderly-care/pain-relief-devices/back-care.html">Back Care</a></li>
+            <li><a href="/elderly-care/pain-relief-devices/neck-care.html">Neck Care</a></li>
+ <li>
+<a href="/elderly-care/pain-relief-devices/wrist-elbow-care.html">Wrist &amp; Elbow Care</a></li>
+ <li>
+<a href="/elderly-care/pain-relief-devices/knee-care.html">Knee Care</a></li>
+<li>
+<a href="/elderly-care/pain-relief-devices/ankle-care.html">Ankle Care</a>
+</li>
+ 
+        </ul>
+    </div>
+
+</div>
+</div></div></div>												</div>
+												</li>
+									<li class="megamenu2-parent  other-toggle   
+						sm_megamenu_lv1 sm_megamenu_drop parent   ">
+												<a class="sm_megamenu_head sm_megamenu_drop " href="http://www.medisyskart.com/gym-yoga.html" id="sm_megamenu_242">
+																										<span class="sm_megamenu_icon sm_megamenu_nodesc">		
+																												<span class="sm_megamenu_title">Gym &amp; Yoga</span>
+																	
+														
+													</span>
+																									</a>
+																																					<div class="sm-megamenu-child sm_megamenu_dropdown_6columns ">	
+													<div class="sm_megamenu_col_6 sm_megamenu_firstcolumn  sm_megamenu_id242 megamenu2"><div class="sm_megamenu_col_6 sm_megamenu_firstcolumn  sm_megamenu_id243 megamenu2"><div class="sm_megamenu_head_item ">	</div><div class="sm_megamenu_content"><div class="mega1-cont">
+
+	<div class="mega1-col mega1-col1">
+    	<span class="mega-title"><a href="/gym-yoga/gym-equipments.html">Gym Equipments</a></span>
+    	<ul>
+        <li><a href="/gym-yoga/gym-equipments/dumbbells.html">Dumbbells</a></li>
+            <li><a href="/gym-yoga/gym-equipments/home-gyms.html">Home Gyms</a></li>
+            <li><a href="/gym-yoga/gym-equipments/benches.html">Benches</a></li>
+	        <li><a href="/gym-yoga/gym-equipments/push-up-stands.html">Push Up Stands</a></li>
+            <li><a href="/gym-yoga/gym-equipments/training-equipments.html">Training equipments</a></li>
+            <li><a href="/gym-yoga/gym-equipments/exercise-fitness-gloves.html">Exercise &amp; Fitness Gloves</a></li>
+                  <li><a href="/gym-yoga/gym-equipments/exercise-balls-accessories.html">Exercise Balls &amp; Accessories</a></li>
+            
+        </ul>
+        
+    </div>
+
+    <div class="mega1-col mega1-col2">
+    <p>&nbsp;</p>
+    	<span class="mega-title"><a href="/gym-yoga/yoga-equipments.html">Yoga Equipments</a></span>
+        <ul>
+            <li><a href="/gym-yoga/yoga-equipments/yoga-mats.html">Yoga Mats</a></li>
+            <li><a href="/gym-yoga/yoga-equipments/yoga-belts.html">Yoga Belts</a></li>
+                 </ul>
+<span class="mega-title"><a href="/gym-yoga/gym-accessories.html">Gym Accessories</a></span>
+<ul>
+<li><a href="/gym-yoga/gym-accessories/shaker.html">Shaker</a></li>
+</ul>
+    </div>
+      
+
+</div>
+</div></div></div>												</div>
+												</li>
+									<li class="megamenu2-parent  other-toggle   
+						sm_megamenu_lv1 sm_megamenu_drop parent   ">
+												<a class="sm_megamenu_head sm_megamenu_drop " href="http://www.medisyskart.com/health-devices.html" id="sm_megamenu_234">
+																										<span class="sm_megamenu_icon sm_megamenu_nodesc">		
+																												<span class="sm_megamenu_title">Health Devices</span>
+																	
+														
+													</span>
+																									</a>
+																																					<div class="sm-megamenu-child sm_megamenu_dropdown_6columns ">	
+													<div class="sm_megamenu_col_6 sm_megamenu_firstcolumn  sm_megamenu_id234 megamenu2"><div class="sm_megamenu_col_6 sm_megamenu_firstcolumn  sm_megamenu_id235 megamenu3"><div class="sm_megamenu_head_item ">	</div><div class="sm_megamenu_content"><div class="mega1-cont">
+<div class="mega1-col mega1-col1">
+
+<span class="mega-title"><a href="/health-devices/monitoring-devices.html">Monitoring Devices</a></span>
+<ul>
+<li><a href="/health-devices/monitoring-devices/glucose-meters.html">Glucose Meters</a></li>
+<li><a href="/health-devices/monitoring-devices/blood-pressures.html">Blood Pressures</a></li>
+<li><a href="/health-devices/monitoring-devices/weighing-scales.html">Weighing Scales</a></li>
+<li><a href="/health-devices/monitoring-devices/thermometer.html">Thermometer</a></li>
+
+</ul>
+</div>
+<div class="mega1-col mega1-col2">
+
+<span class="mega-title"><a href="/health-devices/pain-relief-devices.html">Pain Relief Devices</a></span>
+<ul>
+<li><a href="/health-devices/pain-relief-devices/back-care.html">Back Care</a></li>
+<li><a href="/health-devices/pain-relief-devices/neck-care.html">Neck Care</a></li>
+<li><a href="/health-devices/pain-relief-devices/wrist-elbow-care.html">Wrist &amp; Elbow Care</a></li>
+<li><a href="/health-devices/pain-relief-devices/knee-care.html">Knee Care</a></li>
+<li><a href="/health-devices/pain-relief-devices/ankle-care.html">Ankle Care</a></li>
+</ul>
+</div>
+
+<div class="mega1-col mega1-col3">
+
+<span class="mega-title"><a href="/health-devices/premium-brands.html">Premium Brands</a></span>
+<ul>
+<li><a href="/health-devices/premium-brands/omron.html">Omron</a></li>
+<li><a href="/health-devices/premium-brands/dr-morepen-labs.html">Morepen Labs</a></li>
+<li><a href="/health-devices/premium-brands/tynor.html">Tynor</a></li>
+<li><a href="/health-devices/premium-brands/vissco.html">Vissco</a></li>
+<li><a href="/health-devices/premium-brands/accu-chek.html">Roche</a></li>
+<li><a href="/health-devices/premium-brands/life-scan-j-j.html">LifeScan J&amp; J</a></li>
+</ul>
+</div>
+</div></div></div>												</div>
+												</div></li>
+									<li class="megamenu2-parent  other-toggle   
+						sm_megamenu_lv1 sm_megamenu_nodrop   ">
+												<a class="sm_megamenu_head sm_megamenu_nodrop " href="http://www.medisyskart.com/daily-needs.html" id="sm_megamenu_244">
+																										<span class="sm_megamenu_icon sm_megamenu_nodesc">		
+																												<span class="sm_megamenu_title">Daily Needs</span>
+																	
+														
+													</span>
+																									</a>
+																														</li></ul>
+		</div>
+	</div>
+	<!--End Module-->
+
+            </div>
+        </div>        
+    </div>  
+</div>
+</div>
+</div>        
+<script type="text/javascript">
+	jQuery(document).ready(function($){
+        //menu more cate
+		$i = 0;
+		$('.sm_megamenu_wrapper_vertical_menu .sm_megamenu_menu').append('<div class="more-wrap"><span class="more-view">More Categories</span></div>');
+		$('.sm_megamenu_wrapper_vertical_menu .sm_megamenu_menu > li.sm_megamenu_lv1').each(function(){
+			$i ++; 
+			if($i>13){ 
+				$(this).css('display', 'none');
+			}			
+		});
+
+		$('.sm_megamenu_wrapper_vertical_menu .sm_megamenu_menu .more-wrap > .more-view').click(function(){
+			if($(this).hasClass('open')){
+				$i=0;
+				$('.sm_megamenu_wrapper_vertical_menu .sm_megamenu_menu > li.sm_megamenu_lv1').each(function(){
+					$i ++;
+					if($i>13){
+						$(this).slideUp(200);
+                        //$(this).addClass('disappear');
+                        //$(this).removeClass('appear');
+					}
+				});
+				$(this).removeClass('open');
+				$('.more-wrap').removeClass('active-i');
+				$(this).text('More Categories');
+			}else{
+				$i=0;
+				$('.sm_megamenu_wrapper_vertical_menu .sm_megamenu_menu > li.sm_megamenu_lv1').each(function(){
+					$i ++;
+					if($i>13){
+						$(this).slideDown(200);
+                        // $(this).addClass('appear');
+                         //$(this).removeClass('disappear');
+					}
+				});
+				$(this).addClass('open');
+				$('.more-wrap').addClass('active-i');
+				$(this).text('Close Menu');
+			}
+		});
+
+        // style for quicklink
+        $("#yt_header .head-quicklink .links li").mouseenter(function(){
+            $("#yt_header .head-quicklink .links li.first").addClass('inactive');
+        });
+        $("#yt_header .head-quicklink .links li").mouseleave(function(){
+            $("#yt_header .head-quicklink .links li.first").removeClass('inactive');
+        });
+        $("#yt_header .head-quicklink .links li.first").mouseenter(function(){
+            $("#yt_header .head-quicklink .links li.first").removeClass('inactive');
+        });
+		
+		/*fix show button more*/
+		
+		var n = $('.sm_megamenu_wrapper_vertical_menu .sm_megamenu_menu > li.sm_megamenu_lv1').length;
+
+		if(n < 13){
+			$('.sm_megamenu_wrapper_vertical_menu .more-wrap').css('display', 'none');
+		} else{
+			$('.sm_megamenu_wrapper_vertical_menu .more-wrap').css('display', 'block');
+		}
+	})
+</script>
+
+
+
+
+
+
+
+
+
+		</div>
+		<!-- END: Header -->
+		
+		<!-- BEGIN: content -->
+        <div id="yt_content" class="yt-content wrap">        	
+            <div class="yt-content-inner">
+				<div class="container">
+					<div class="row">
+                    	          
+                    		<div id="yt_pathway" class="clearfix">
+	<div class="pathway-inner">
+		<!--<h4></h4>-->
+		<ul class="breadcrumbs">
+            <div class="breadcrumbs-content">
+												<li class="home" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+									<a itemprop="url" href="http://www.medisyskart.com/" title="Go to Home Page" class="has-link">
+					<span itemprop="title">Home</span>
+					</a>
+				  
+													<!--<span class="separator">&nbsp</span>-->
+								</li>
+								<li class="cms_page last" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+									Privacy Policy												</li>
+							</div>
+		</ul>
+	</div>
+</div>
+                                                <div class="columns-w">
+							<div id="yt_left" class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+								<div class="yt-left-wrap">
+									
+																	</div>
+							</div>
+							
+
+							<div id="yt_main" class="yt-main-right yt-main col-main col-lg-9 col-md-9 col-sm-8 col-xs-12">
+								<div class="yt_main_inner">	                            	
+									    <noscript>
+        <div class="global-site-notice noscript">
+            <div class="notice-inner">
+                <p>
+                    <strong>JavaScript seems to be disabled in your browser.</strong><br />
+                    You must have JavaScript enabled in your browser to utilize the functionality of this website.                </p>
+            </div>
+        </div>
+    </noscript>
+																		  
+									    <div class="page-title">
+        <h1>Privacy Policy</h1>
+    </div>
+<div class="std"><div class="privacy-policy">
+<p>We value the trust you place in us. That's why we insist upon the highest standards for secure transactions and customer information privacy. Please read the following statement to learn about our information gathering and dissemination practices.</p>
+
+<strong>Note:</strong>
+
+<p>Our privacy policy is subject to change at any time without notice. To make sure you are aware of any changes, please review our policy periodically. By visiting our Website you agree to be bound by the terms and conditions of our Privacy Policy. If you do not agree please do not use or access our Website.</p>
+
+<p>By mere use of the Website, you expressly consent to our use and disclosure of your personal information in accordance with our Privacy Policy. Our Privacy Policy is incorporated into and subject to the Terms of Use.</p>
+
+<strong>COLLECTION AND USE OF PERSONAL INFORMATION</strong>
+<p>Personal information is data that can be used to uniquely identify or contact a single person. You may be asked to provide your personal information any time you are in contact with us or our affiliates. We may share this personal information with our affiliates and use it consistent with our Privacy Policy.</p>
+
+<p>Here are some examples of the types of personal information that we collect and how we may use it:</p>
+<ul>
+<li>We do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent and we only use your information as described in the Privacy Policy. We view protection of your privacy as a very important community principle. We understand clearly that you and Your Information is one of our most important assets. We store and process your Information on computers located in the India that are protected by physical as well as technological security devices. We use third parties to verify and certify our privacy principles. If you object to your Information being transferred or used in our way please do not use the Site.</li>
+
+<li>We collect "personal" information from you when you provide it to us. For example, if you purchase a product from us, we may collect your name, mailing address, telephone number and email address. If you sign up to receive a newsletter, we will collect your email address. If you take advantage of special services offered by us, we may collect other personal information about you. We use your personal information for internal purposes such as processing and keeping you informed of your order.</li>
+
+<li>Under no circumstances do we rent, trade or share your Personal information that we have collected with any other company for their marketing purposes without your consent. We reserve the right to communicate your personal information to any third party that makes a legally-compliant request for its disclosure. Otherwise, however, we will not disclose your name, address and other personal information to any third party without your consent. We reserve the right to collect general demographic and other anonymous information that does not personally identify you. This information is not associated with your personally identifiable information and cannot be linked to you personally.</li>
+
+<li>If you are no longer interested in receiving e-mail announcements and other marketing information from us, or you want us to remove any information that we have collected about you, please e-mail your request to <a href="mailto:info@medisyskart.com">info@medisyskart.com</a></li>
+
+<li>We use cookies and other technologies such as pixel tags and clear gifs to store certain types of information each time you visit any page on our website. Cookies enable this website to recognize the information you have consented to give to our website and help us to determine what portions of our website are most appropriate for your professional needs. We may also use cookies to serve advertising banners to you. These banners may be served by us or by a third party on our behalf. These cookies will not contain any personal information.</li>
+
+<li>Whether you want your web browser to accept cookies or not is up to you. If you haven't changed your computer's settings, most likely your browser already accepts cookies. If you choose to decline cookies, you may not be able to fully experience all features of the website. You can also delete your browser cookies of disable them entirely. But this may significantly impact your experience with our website and may make parts of our website non functional or inaccessible. We recommend that you leave them turned on.</li>
+
+<li>We use third-party service providers to serve ads on our behalf across the Internet and sometimes on our site. They may collect anonymous information about your visits to our website, and your interaction with our products and services. They may also use information about your visits to our and other websites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major websites. No personally identifiable information is collected or used in this process. They do not know the name, phone number, address, email address, or any personally identifying information about the user.</li>
+</ul></div></div>                                      	                        
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<!-- Hot categories home page v3 -->
+				 
+                
+             </div>
+         </div>      
+        <!-- END: content -->
+        
+        <!-- BEGIN: footer -->
+        <div id="yt_footer" class="yt-footer wrap">
+        	
+   
+	<div class="footer-top">  
+        <div class="container">
+            <div class="row">          				                                            
+               
+                                    <div class="spotlight-wrap">
+                        <div class="spotlight spotlight1 col-lg-3 col-md-3 col-sm-6 col-xs-12">
+<div class="block-title">About Medisyskart</div>
+<div class="block-content">
+<ul>
+<li><a href="/about-us">About us</a></li>
+<li><a href="/career">Career</a></li>
+<li><a href="/blog">Blog</a></li>
+<li><a href="/press">Press</a></li>
+<li><a href="/team">Team</a></li>
+</ul>
+</div>
+</div><div class="spotlight spotlight2 col-lg-3 col-md-3 col-sm-6 col-xs-12">
+<div class="block-title">Customer Service</div>
+<div class="block-content">
+<ul>
+<li><a href="/customer/account/create/">My Account</a></li>
+<li><a href="/shipping-policies">Shipping Policy</a></li>
+<li><a href="/return-policy">Return Policy</a></li>
+<li><a href="/contacts">Contact Us</a></li>
+</ul>
+</div>
+</div><div class="spotlight spotlight3 col-lg-3 col-md-3 col-sm-6 col-xs-12">
+<div class="block-title">Payment &amp; Shipping</div>
+<div class="block-content">
+<ul>
+<li><a href="/payment-methods">Payment Methods</a></li>
+<li><a href="/shipping-policies">Estimated Delivery Time</a></li>
+<li><a href="/faq">FAQs</a></li>
+
+
+</ul>
+</div>
+</div><div class="spotlight spotlight4 col-lg-3 col-md-3 col-sm-6 col-xs-12">
+<div class="block-title">Health Tips</div>
+<div class="block-content">
+<ul>
+<li><a href="/blog/product/fitness">Fitness</a></li>
+<li><a href="/blog/product/skin-care">Skin Care</a></li>
+<li><a href="/blog/product/weight-loss">Weight Loss</a></li>
+<li><a href="/blog/product/body-building">Bodybuilding</a></li>
+<li><a href="/blog/product/health">Health</a></li>
+<li><a href="/blog/product/weight-gain">Weight Gain</a></li>
+</ul>
+</div>
+</div>                    </div>
+                                
+		<div class="banner">
+<div class="policy policy1"><a href="/trackorder"><span class="ico-policy">ico policy</span>Track Your Order</a></div>
+<div class="policy policy2"><a href="/return-policy"><span class="ico-policy">ico policy</span>Free And Easy Returns</a></div>
+<div class="policy policy3"><a href="/order-cancellation"><span class="ico-policy">ico policy</span>Online Cancellation</a></div>
+<div class="policy policy4"><a href="/contact-us"><span class="ico-policy">ico policy</span>24/7 Customer Care</a></div>
+</div>                <div class="footer-text">
+<ul>
+<li style="float:left;  margin-top: 10px;"><strong>Policies:</strong><a href="/terms-and-conditions"> Terms of Use</a> | <a href="/privacy-policy">Privacy</a> <span>© 2015 Medisyskart </span></li>
+<li style="float:right;"><strong>Follow Us: </strong>
+<a href="https://www.facebook.com/medisyskart" target="_blank"><img src="http://www.medisyskart.com/skin/frontend/medisys/default/images/facebook.png"></a>
+<a href="https://plus.google.com/+Medisyskart/about" target="_blank"><img src="http://www.medisyskart.com/skin/frontend/medisys/default/images/google-plus.png"></a>
+<a href="https://twitter.com/medisyskart" target="_blank"><img src="http://www.medisyskart.com/skin/frontend/medisys/default/images/twitter.png"></a>
+</li>
+</ul>
+</div>                    <div class="footer-links-w">
+<div class="label-link">Top Stores : Brand Directory | Store Directory</div>
+<ul>
+<li>
+<h2>Most Searched For On Medisyskart:</h2>
+<a href="/protein-supplements/proteins/whey-protein.html&quot;">Whey Protein</a> | <a href="protein-supplements/sports-supplement/creatine.html">Creatine</a> | <a href="/weight-loss.html">Weight Loss</a> | <a href="/weight-loss/increase-metabolism/fat-burners.html">Fat Burners</a></li>
+<li>
+<h3>Protein Supplements:</h3>
+<a href="/protein-supplements/proteins/whey-protein.html">Whey Protein</a> | <a href="/protein-supplements/proteins/whey-protein-isolates.html">Whey Protein Isolates</a> | <a href="/protein-supplements/proteins/soy-protein.html">Soy Protein </a> | <a href="/protein-supplements/proteins/protein-bars.html">Protein Bars </a> | <a href="/protein-supplements/gainers/mass-gainer.html">Mass Gainer</a> | <a href="/protein-supplements/gainers/weight-gainer.html">Weight Gainer</a> | <a href="/protein-supplements/sports-supplement/energy-bars.html">Energy Bars </a> | <a href="/protein-supplements.html">View All</a></li>
+<li>
+<h4>Weight Loss:</h4>
+<a href="/weight-loss/low-carbs-fats/meal-replacement-shakes.html">Meal Replacement Shakes </a> | <a href="/weight-loss/increase-metabolism/fat-burners.html">Fat Burners</a> | <a href="/weight-loss/increase-metabolism/green-tea.html">Green Tea</a> | <a href="/weight-loss/increase-metabolism/garcinia.html">Garcinia</a> |<a href="//www.medisyskart.com/weight-loss.html">View all</a></li>
+<li>
+<h3>Vitamins &amp; Minerals:</h3>
+<a href="/vitamins-minerals/select-by-concern/digestion.html">Digestion</a> | <a href="/vitamins-minerals/select-by-concern/skin-care.html">Skin Care</a> | <a href="/vitamins-minerals/select-by-concern/immunity.html">Immunity</a> | <a href="/vitamins-minerals/select-by-concern/brain-memory-tonics.html">Brain &amp; Memory Tonics</a> | <a href="/vitamins-minerals.html">View all</a></li>
+<li>
+<h4>Ayurvedic &amp; Herbals:</h4>
+<a href="/ayurvedic-herbals/select-by-concern/weight-loss.html">Weight Loss </a> | <a href="/ayurvedic-herbals/select-by-concern/sexual-health.html">Sexual Health</a> | <a href="/ayurvedic-herbals/select-by-concern/skin-care.html">Skin Care</a> | <a href="/ayurvedic-herbals/select-by-concern/immunity.html">Immunity</a> | <a href="/ayurvedic-herbals/select-by-concern/liver.html">Liver</a> | <a href="/ayurvedic-herbals/select-by-concern/heart.html">Heart</a> | <a href="/ayurvedic-herbals/select-by-concern/digestion.html">Digestion</a> | <a href="/ayurvedic-herbals.html">View all</a></li>
+<li>
+<h5>Health Devices:</h5>
+<a href="/health-devices/monitoring-devices/glucose-meters.html">Glucose Meters</a> | <a href="/health-devices/monitoring-devices/blood-pressures.html">Blood Pressures</a> | <a href="/health-devices/monitoring-devices/weighing-scales.html">Weight Scale </a> | <a href="/health-devices/monitoring-devices/thermometer.html">Thermometer</a> |  <a href="/health-devices.html">View all</a></li>
+<!--<li>
+<h4>Wellness:</h4>
+<a href="/wellness/sexual-wellness-for-men/condoms-for-men.html">Condoms </a> | <a href="/wellness/sexual-wellness-for-men/men-sexual-care.html">Men Sexual Care</a> | <a href="/wellness/sexual-wellness-for-women/women-sexual-care.html">Women Sexual Care</a> | <a 
+href="/wellness.html">View all</a></li>-->
+<li>
+<h5>Elderly Care:</h5>
+<a href="/elderly-care/mobility-support/wheel-chair.html">Wheel Chair </a> | <a href="/elderly-care/mobility-support/walker.html">Walker </a> | <a href="/elderly-care/mobility-support/commode-stool.html">Commode Stool</a> | <a href="/elderly-care/mobility-support/walking-stick.html">Walking Stick </a> | <a href="/elderly-care/mobility-support/shower-chair.html">Shower Chair </a> | <a href="/elderly-care/adult-diaper/pull-up-diaper.html&#10;">Pull Up Diaper </a> | <a href="/elderly-care/adult-diaper/normal-diaper.html">Normal Diaper </a> | <a href="/elderly-care.html">View all</a></li>
+<li>
+<h4>Baby Care:</h4>
+<a href="/baby-care/diapers-wipes/baby-diapers-pants.html">Baby Diapers &amp; Pants </a> | <a href="/baby-care/diapers-wipes/wipes.html">Wipes </a> | <a href="//www.medisyskart.com/baby-care.html">View all</a> </li>
+<li>
+<h5>Gym And Yoga:</h5>
+<a href="/gym-yoga/gym-equipments/dumbbells.html">Dumbbells </a> | <a href="/gym-yoga/gym-equipments/home-gyms.html">Home Gyms </a> | <a href="//www.medisyskart.com/gym-yoga/gym-equipments/benches.html">Benches </a> | <a href="/gym-yoga/gym-equipments/push-up-stands.html">Push Up Stands </a> | <a href="/gym-yoga/gym-equipments/training-equipments.html">Training Equipments </a> | 
+<a href="/gym-yoga/gym-equipments/exercise-fitness-gloves.html">Exercise &amp; Fitness Gloves </a> | <a href="/gym-yoga/gym-equipments/exercise-balls-accessories.html">Exercise Balls &amp; Accessories </a> | <a href="/gym-yoga.html">View all</a> </li>
+</ul>
+</div>		    <div class="payments-options">
+<strong>Pay Using:</strong>
+<ul>
+<li><img src="http://www.medisyskart.com/skin/frontend/medisys/default/images/visa.png"></li>
+<li><img src="http://www.medisyskart.com/skin/frontend/medisys/default/images/master-card.png"></li>
+<li><img src="http://www.medisyskart.com/skin/frontend/medisys/default/images/mastro.png"></li>
+<li><img src="http://www.medisyskart.com/skin/frontend/medisys/default/images/american-express.png"></li>
+<li><img src="http://www.medisyskart.com/skin/frontend/medisys/default/images/net-banking.png"></li>
+<li><img src="http://www.medisyskart.com/skin/frontend/medisys/default/images/cash.png"></li>
+<!--<li><img src="http://www.medisyskart.com/skin/frontend/medisys/default/images/easy-emi.png"></li>-->
+
+</ul>
+</div>
+
+                            <div class="std category-content">
+                                  </div>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+            
+            
+		    	            
+               
+                            </div>
+        </div>
+    </div>
+    
+    <div class="footer-bottom"> 
+        <div class="container">
+            <div class="row">          	
+            	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-12 yt-copyright">
+        			<p>2015 Medisyskart - Online health store. All Rights Reserved</p>            	</div>
+            	<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 yt-payment">
+            		<div class="block-payment"><a class="payment1" href="#">payment1</a> <a class="payment2" href="#">payment2</a> <a class="payment3" href="#">payment3</a> <a class="payment4" href="#">payment4</a><a class="payment5" href="#">payment5</a><a class="payment6" href="#">payment6</a></div>            	</div>
+            </div>
+        </div>
+    </div>
+    
+
+<a id="yt-totop" href="#" title="Go to Top"></a>
+<script type="text/javascript">
+	jQuery(document).ready(function($){  
+		$("#yt-totop").hide();
+		$(function () {
+			var wh = $(window).height();
+			var whtml =  $(document).height();
+			$(window).scroll(function () {
+				if ($(this).scrollTop() > whtml/10) {
+					$('#yt-totop').fadeIn();
+				} else {
+					$('#yt-totop').fadeOut();
+				}
+			});
+			$('#yt-totop').click(function () {
+				$('body,html').animate({
+					scrollTop: 0
+				}, 800);
+				return false;
+			});
+		});
+	});
+</script>
+       
+			
+        </div>
+        <!-- END: footer -->        
+        
+		
+
+<script language="JavaScript" type="text/javascript">
+/*<![CDATA[*/
+window.fbAsyncInit = function() {
+	FB.init({appId: '1441993216102444',             
+	    status     : true, 
+            cookie     : true,
+            xfbml      : true,
+            oauth      : true});
+
+	FB.getLoginStatus(function(response) {
+	   if (response.status == 'connected') {
+	    	   }
+	});
+};
+(function(d){
+           var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+           js = d.createElement('script'); js.id = id; js.async = true;
+           js.src = "//connect.facebook.net/en_US/all.js";
+           d.getElementsByTagName('head')[0].appendChild(js);
+         }(document));
+
+function login(){
+	   document.location.href="http://www.medisyskart.com/facebookfree/customer/login/?referer=aHR0cDovL3d3dy5tZWRpc3lza2FydC5jb20vcHJpdmFjeS1wb2xpY3k,";
+	}
+	function logout(){
+	   document.location.href="http://www.medisyskart.com/facebookfree/customer/logout/";
+	}
+	function greet(id){
+	   FB.api('/me', function(response) {
+		var src = 'https://graph.facebook.com/'+id+'/picture';
+		$$('.welcome-msg')[0].insert('<img height="20" src="'+src+'"/>');
+	   });
+	}
+
+    function fblogin(){
+        FB.login(function(response) {
+
+           if (response.status == 'connected') {
+                login();
+            } else {
+                // user is not logged in
+                window.location.reload();
+            }
+        }, {scope:'email,publish_stream'});
+        return false;
+    }
+/*]]>*/
+</script><script type="text/javascript">
+//<![CDATA[
+	window.removeItem=function(args){ //for version mage1501 and later
+		if (enable_ajax_compare && (args.search('catalog/product_compare/remove') != -1) ){
+				opener.deletePCompare=1;
+				if(setfocus){				// for win parent  , detect by var setfocus
+					
+					opener.isCompare=1;
+					opener.deletePCompare=1;
+
+					opener.focus();
+					opener.ajaxUpdate(args,'url');
+					exit;
+				}
+				else
+					ajaxUpdate(args,'url');		//for win-popup
+		}
+        else
+        {
+            window.location.href = args;
+        }	
+	};
+//]]>
+</script>
+            </div>
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-65531274-1', 'auto');
+    ga('send', 'pageview');
+
+</script>
+
+</body></html>
