@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the themillionairemastermind.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624115719id_/http%3A//themillionairemastermind.com/privacypolicymm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themillionairemastermind.com privacy policy that was archived on 2015-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151005184033id_/http%3A//themillionairemastermind.com/privacypolicymm) for the most accurate reproduction.*
 
-# Privacy Policy MM — The Millionaire Mastermind
+# Privacy Policy MM | The Millionaire Mastermind
 
 themillionairemastermind.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period.”
 
