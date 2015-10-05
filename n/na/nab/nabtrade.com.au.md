@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nabtrade.com.au privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201053942id_/http%3A//www.nab.com.au/wps/wcm/connect/nab/nab/home/About_Us/10/1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nabtrade.com.au privacy policy that was archived on 2015-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151005134751id_/http%3A//www.nab.com.au/about-us/using-this-site/national-australia-bank-privacy-policy) for the most accurate reproduction.*
 
 # National Australia Bank Privacy Policy - NAB
 
