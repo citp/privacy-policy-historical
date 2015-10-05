@@ -1,98 +1,79 @@
-> *The following text is extracted and transformed from the rabobankamerica.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315050656id_/https%3A//www.rabobankamerica.com/Security-and-Privacy/Consumer-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rabobankamerica.com privacy policy that was archived on 2015-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151005160640id_/http%3A//www.rabobankamerica.com/security-and-privacy-raf/consumer-privacy-policy) for the most accurate reproduction.*
 
-# Rabobank, N.A. Consumer Privacy Policy
+# Consumer Privacy Policy
 
-## Rabobank, N.A. Consumer Privacy Policy
+## Consumer Privacy Policy
 
-Effective December 1, 2014
+| 
 
-What does Rabobank do with your information?  
----  
-Why? | Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.   
-What? | The types of personal information we collect and share depend on the product or service you have with us. This information can include: 
+#### Our Privacy Pledge…
 
-  * Social Security Number and Income
-  * Account Balances and Payment History
-  * Credit History and Credit Score
-
+Protecting your privacy and safeguarding the information you provide us is a priority at Rabo AgriFinance.   
+---|---  
   
-How? | All financial companies need to share customers' personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers' personal information; the reasons Rabobank, N.A. chooses to share; and whether you can limit this sharing.  
-Reasons we can share your personal information | Does Rabobank, N.A. share? | Can you limit this sharing?  
----|---|---  
-**For our everyday business purposes** —  
-such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus  | Yes | No  
-**For our marketing purposes** —  
-to offer our products and services to you  | Yes | No  
-**For joint marketing with other financial companies** | Yes | Yes  
-**For our affiliates' everyday business purposes** —  
-information about your transactions and experiences  | Yes | No  
-**For our affiliates' everyday business purposes** —  
-information about your creditworthiness  | No | We Don't Share  
-**For nonaffiliates to market to you** | No | We Don't Share  
-To limit our sharing  
----  
-To limit our sharing | 
+We value your business and the trust you place in us to keep your information safe. It is important to us that you understand the choices you have related to your information. As you carefully review our privacy policy, please remember the following:
 
-  * Call 800-942-6222. Our menu will prompt you through your choice(s)
-  * Mail the form found in the [Rabobank, N.A. Privacy Policy](https://web.archive.org/~/media/Files/Documents/rabo-privacy-policy-notice-FM-MKT-105-106-2014-12-01.ashx) document.
+Safeguarding the information you provide to us is a priority for ALL Rabo entities.
+
+You have a choice regarding the disclosure of certain personal information to our affiliates and you can ask us not to disclose that information by opting out of those disclosures by contacting Rabo AgriFinance at the address listed on page 2, by calling (855) 722-7766 or email us at [CustomerConnect@raboag.com](mailto:CustomerConnect@raboag.com).
+
+We respect your privacy and your trust is important to us. As such, the following sets forth our privacy policy.
+
+**We** , **our** , and **us** , when used in this notice, means RABO AGRIFINANCE, INC. This notice advises you of certain rights you have under Federal law. When we use the words "you" and "your", we mean customers who have a continuing relationship with us.
+
+**Nonpublic personal information** means information about you that we collect in connection with providing a financial product or service to you. Nonpublic personal information does not include information that is available from public sources, such as telephone directories or government records.
+
+**Affiliate** means a company we own or control, a company that owns or controls us, or a company that is owned or controlled by the same company that owns or controls us. Ownership does not mean complete ownership, but means ownership sufficient to have control of the company. A list of affiliates may be found within this document.
+
+**Nonaffiliated** third party means a company that is not an affiliate of ours.
+
+**Opt Out** is a choice that you can make to prevent certain sharing of information.
+
+#### Information That We Collect
+
+We collect certain nonpublic personal information about you from the following types of sources:
+
+  * Information we receive from you on applications or other forms;
+  * Information about your transactions with us;
+  * Information about your transactions with our affiliates; and
+  * Information from a consumer reporting agency.
 
 
 
-**Please note:**
+#### Information We May Disclose
 
-If you are a new customer, we can begin sharing your information 30 days from the date we sent this notice. When you are no longer our customer, we continue to share your information as described in this notice.
+We may disclose the following types of nonpublic personal information about you:
 
-However, you can contact us at any time to limit our sharing.  
-  
-Questions | Call 800-942-6222  
-Who we are  
----  
-Who is providing this notice? | Rabobank, N.A.  
-What we do  
----  
-How does Rabobank, N.A. protect my personal information? | To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.
+Transaction and experience information from our account records, such as:
 
-Further, we maintain strict internal policies and procedural safeguards against unauthorized use or disclosure of Customer information.  
-  
-How does Rabobank, N.A. collect my personal information? | We collect your personal information, for example, when you: 
+  * Name
+  * Address
+  * Types of accounts you hold
+  * Nonpublic personal information we receive from you on applications or other forms, such as: 
+    * Social security number
+    * Assets and liabilities
+    * Income
 
-  * open an account or apply for a loan
-  * pay your bills or use your credit or debit card
-  * make deposits or withdrawals from your account
 
-We also collect your personal information from others, such as credit bureaus or other companies.  
-Why can't I limit all sharing? | Federal law gives you the right to limit only: 
 
-  * sharing for affiliates' everyday business purposes—information about your creditworthiness
-  * affiliates from using your information to market to you
-  * sharing for nonaffiliates to market to you
+#### To Whom We May Disclose Such Information
 
-State laws and individual companies may give you additional rights to limit sharing. See below for more on your rights.  
-What happens when I limit sharing for an account I hold jointly with someone else? | Your choice will apply to all of your accounts and everyone on your accounts.  
-Defintions   
----  
-Affiliates | Companies related by common ownership or control. They can be financial and nonfinancial companies. 
+We may disclose the above information to our affiliates that are financial service providers, such as banks, lenders and loan brokers. They may use this information to make marketing solicitations to you about their products and services. You may opt out of the disclosure to our affiliates of nonpublic personal information other than our transactions and experiences with you (i.e. information we receive from you on applications or other forms). You may also elect not to receive marketing solicitations from our affiliates. When you are no longer a customer, we continue to share your information as disclosed in this notice.
 
-  * _Our affiliates include companies with a Rabobank name and financial companies such as De Lage Landen and Rabo AgriFinance._
+#### You Have the Right to Choose
 
-  
-Nonaffiliates | Companies not related by common ownership or control. They can be financial and nonfinancial companies. 
+If you prefer that we limit our disclosure of nonpublic personal information to our affiliates, you may opt out of those disclosures, that is, you may direct us not to make those disclosures (other than the disclosures permitted by law). In such event, however, you may not learn of other opportunities which might be of interest. You may further elect not to receive marketing solicitations from our affiliates which are based upon such information. Please note that if you make this election, we will still call you and send you mail in order to service your existing relationships with us or to provide account related information (and, when doing so, our mailings may include pre-printed marketing materials). You may exercise your right to opt out and your election not to receive such marketing solicitations by contacting Rabo AgriFinance at the address listed below, by calling (855) 722-7766 or email us at [CustomerConnect@raboag.com](mailto:CustomerConnect@raboag.com).
 
-  * _Rabobank, N.A. does not share with nonaffiliates so they can market to you._
+#### Confidentiality and Security
 
-  
-Joint Marketing | A formal agreement between nonaffiliated financial companies that together market financial products or services to you. 
+We restrict access to nonpublic personal information about you to those employees who need to know that information to provide products or services to you. We maintain physical, electronic and procedural safeguards that comply with Federal regulations to guard such information.
 
-  * _Our joint marketing partners include companies such as Elan Financial Services, a joint credit card provider._
+#### The USA Patriot Act Disclosure
 
-  
-Other important information  
----  
-  
-**Do Not Call Policy.** This notice is the Rabobank, N.A. Do Not Call Policy under the Telephone Consumer Protection Act. We do not solicit via telephone numbers listed on the state or federal Do Not Call lists, unless the law allows. Rabobank, N.A. employees receive training on how to document and process telephone marketing choices. Consumers who ask not to receive telephone solicitations from Rabobank, N.A. will be placed on the Rabobank, N.A. Do Not Call list and will not be called in any future campaigns, including those of Rabobank, N.A. affiliates. If you communicate with us by telephone, we may monitor or record the call.
+_USA Patriot Act/Identity Theft - Customer Identification Program_
 
-**California:** California law gives you the right to opt out of certain sharing. Please see the enclosed notice entitled "[Important Privacy Choice for Consumers](https://web.archive.org/~/media/Files/Documents/rabo-privacy-policy-notice-FM-MKT-105-106-2014-12-01.ashx)".  
-  
-Do you have questions? Call (888) 945-6600 for more information or visit your [local branch](https://web.archive.org/Locations). 
+Enacted to help the government fight the funding of terrorism and money laundering activities. Federal law requires all financial institutions to obtain, verify and record information that identifies each person who applied for a loan. When you apply for a loan, we will ask your name, address, date of birth and other information that will allow us to identify you. We may also ask to see your driver's license or other identifying documents.
 
-Read our [Online Privacy Policy](https://web.archive.org/Security-and-Privacy/Online-Privacy).
+#### The Right to Receive Appraisal Disclosure
+
+If your credit is to be secured by a first lien on a dwelling, we may order an appraisal to determine the property's value and charge you for this appraisal. We will promptly give you a copy of any appraisal, even if your loan does not close. You can pay for an additional appraisal for your own use at your own cost.
