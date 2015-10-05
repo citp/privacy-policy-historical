@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gixmi.com privacy policy that was archived on 2015-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150311103555id_/http%3A//www.gixmi.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gixmi.com privacy policy that was archived on 2015-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151005151522id_/http%3A//www.gixmi.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
