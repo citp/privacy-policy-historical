@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studylink.govt.nz privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626134316id_/http%3A//www.studylink.govt.nz/about-studylink/about-this-site/copyright-privacy-and-disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studylink.govt.nz privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006012531id_/http%3A//www.studylink.govt.nz/about-studylink/about-this-site/copyright-privacy-and-disclaimer.html) for the most accurate reproduction.*
 
 # Copyright, Privacy and Disclaimer - StudyLink
 
@@ -60,7 +60,7 @@ The Privacy Act 1993 requires us to tell you that:
 
 You may browse and access information contained within this website without providing any personal information. Where you voluntarily provide personal information (e.g. through online forms or email requests), we will only use that information to communicate with you.
 
-The personal information transmitted using the Frequently Asked Questions electronic form is hosted in the United States by Rightnow Technologies. Any personal information you submit will be kept secure and will not be disclosed to any third parties.
+We will keep any personal information that you provide secure. The Ministry of Social Development (MSD) uses Oracle to provide this cloud-based online service. Oracle are contractually obliged to MSD to keep any personal information collected through the online service that they provide for MSD secure. Your information may be held in Australia, Singapore or the United States of America. Oracle are subject to the laws of these countries.
 
 * * *
 
@@ -95,4 +95,4 @@ To keep yourself safe online, we strongly encourage you to take the following st
 
 * * *
 
-Last updated: 08 June 2015
+Last updated: 13 August 2015
