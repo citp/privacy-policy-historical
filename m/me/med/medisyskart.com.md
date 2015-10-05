@@ -1,0 +1,27 @@
+> *The following text is extracted and transformed from the medisyskart.com privacy policy that was archived on 2015-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151005232604id_/http%3A//www.medisyskart.com/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy
+
+We value the trust you place in us. That's why we insist upon the highest standards for secure transactions and customer information privacy. Please read the following statement to learn about our information gathering and dissemination practices.
+
+**Note:**
+
+Our privacy policy is subject to change at any time without notice. To make sure you are aware of any changes, please review our policy periodically. By visiting our Website you agree to be bound by the terms and conditions of our Privacy Policy. If you do not agree please do not use or access our Website.
+
+By mere use of the Website, you expressly consent to our use and disclosure of your personal information in accordance with our Privacy Policy. Our Privacy Policy is incorporated into and subject to the Terms of Use.
+
+**COLLECTION AND USE OF PERSONAL INFORMATION**
+
+Personal information is data that can be used to uniquely identify or contact a single person. You may be asked to provide your personal information any time you are in contact with us or our affiliates. We may share this personal information with our affiliates and use it consistent with our Privacy Policy.
+
+Here are some examples of the types of personal information that we collect and how we may use it:
+
+  * We do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent and we only use your information as described in the Privacy Policy. We view protection of your privacy as a very important community principle. We understand clearly that you and Your Information is one of our most important assets. We store and process your Information on computers located in the India that are protected by physical as well as technological security devices. We use third parties to verify and certify our privacy principles. If you object to your Information being transferred or used in our way please do not use the Site.
+  * We collect "personal" information from you when you provide it to us. For example, if you purchase a product from us, we may collect your name, mailing address, telephone number and email address. If you sign up to receive a newsletter, we will collect your email address. If you take advantage of special services offered by us, we may collect other personal information about you. We use your personal information for internal purposes such as processing and keeping you informed of your order.
+  * Under no circumstances do we rent, trade or share your Personal information that we have collected with any other company for their marketing purposes without your consent. We reserve the right to communicate your personal information to any third party that makes a legally-compliant request for its disclosure. Otherwise, however, we will not disclose your name, address and other personal information to any third party without your consent. We reserve the right to collect general demographic and other anonymous information that does not personally identify you. This information is not associated with your personally identifiable information and cannot be linked to you personally.
+  * If you are no longer interested in receiving e-mail announcements and other marketing information from us, or you want us to remove any information that we have collected about you, please e-mail your request to [info@medisyskart.com](mailto:info@medisyskart.com)
+  * We use cookies and other technologies such as pixel tags and clear gifs to store certain types of information each time you visit any page on our website. Cookies enable this website to recognize the information you have consented to give to our website and help us to determine what portions of our website are most appropriate for your professional needs. We may also use cookies to serve advertising banners to you. These banners may be served by us or by a third party on our behalf. These cookies will not contain any personal information.
+  * Whether you want your web browser to accept cookies or not is up to you. If you haven't changed your computer's settings, most likely your browser already accepts cookies. If you choose to decline cookies, you may not be able to fully experience all features of the website. You can also delete your browser cookies of disable them entirely. But this may significantly impact your experience with our website and may make parts of our website non functional or inaccessible. We recommend that you leave them turned on.
+  * We use third-party service providers to serve ads on our behalf across the Internet and sometimes on our site. They may collect anonymous information about your visits to our website, and your interaction with our products and services. They may also use information about your visits to our and other websites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major websites. No personally identifiable information is collected or used in this process. They do not know the name, phone number, address, email address, or any personally identifying information about the user.
+
+
