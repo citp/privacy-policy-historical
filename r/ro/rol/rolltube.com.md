@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rolltube.com privacy policy that was archived on 2015-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150401122958id_/http%3A//www.rolltube.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rolltube.com privacy policy that was archived on 2015-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151005144248id_/http%3A//www.rolltube.com/privacy.html%3F) for the most accurate reproduction.*
 
 # Roll Tube - Privacy Policy
 
