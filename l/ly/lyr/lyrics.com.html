@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lyrics.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607154006id_/http%3A//www.lyrics.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lyrics.com privacy policy that was archived on 2015-10-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151005142654id_/http%3A//www.lyrics.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:lyricscom="http://www.lyrics.com/ns#"><head>
 		  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -20,7 +20,7 @@
 		  
 		  
 		            
-		            <script type="text/javascript" src="/js/mini/header.20150205.js?combined=prototype,overlay,common,lyrics,users,scriptaculous"></script>
+		            <script async="" src="https://player.muzu.tv/player/playerapi.js"></script><script type="text/javascript" src="/js/mini/header.20150205.js?combined=prototype,overlay,common,lyrics,users,scriptaculous"></script>
           <script type="text/javascript" src="/js/jquery-1.11.2.min.js"></script>
           <script type="text/javascript" src="/js/jquery-migrate-1.2.1.min.js"></script>
           <script type="text/javascript">var $j = jQuery.noConflict();</script>
@@ -182,7 +182,7 @@ document.getElementById('googlecseinput'),
                           <a href="/about/contact">Contact Us</a> | <a href="/about/terms_of_use">Terms of Use</a> | <a href="/about/privacy">Privacy Policy</a> | <a href="/user/api/docs/">Developers</a>
                       </td>
                       <td style="text-align:right;">
-                          © 2008 Lyrics.com | All rights reserved. | 0.0046()<!--  -->                      </td>
+                          © 2008 Lyrics.com | All rights reserved. | 0.0050()<!--  -->                      </td>
                   </tr>
               </tbody></table>
           </div>
@@ -220,7 +220,37 @@ document.getElementById('googlecseinput'),
           <img src="http://b.scorecardresearch.com/p?c1=2&c2=6035055&c3=&c4=&c5=&c6=&c15=&cj=1" />
       </noscript>
       <!-- End comScore Tag -->
+<!--Insert into the bottom of your page before the cloisng body tag -->
+
+          <div id="muzu-video-player"></div>
+
+          <script type="text/javascript">
+
+            (function() {
+
+              var muzuTag = document.createElement("script");
+
+              muzuTag.async = true;
+
+              muzuTag.src = document.location.protocol + "//player.muzu.tv/player/playerapi.js";
+
+              var firstTag = document.getElementsByTagName("script")[0];
+
+              firstTag.parentNode.insertBefore(muzuTag, firstTag);
+
+            })();
+
+            function onMuzuPlayerAPIReady()
+
+            {
+
+              muzutv.player.createMPlayer("muzu-video-player", {onTheFold: true, autoPause: true, autoMute: false, autoStart: true, width: "400px", disableLink: true , playerConfig: {partnerId: "lf224" , defaultPlaylistId: 1188420 }});
+
+            }
+
+          </script>
 	  	  
 	  
 	  	  
-	</body></html>
+	
+</body></html>
