@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gettingpersonal.co.uk privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320014643id_/http%3A//www.gettingpersonal.co.uk/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gettingpersonal.co.uk privacy policy that was archived on 2015-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151005221912id_/https%3A//www.gettingpersonal.co.uk/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | GettingPersonal.co.uk
 
@@ -18,31 +18,31 @@ To maintain customer service standards and to assist staff training, we may reco
 
 Your information will enable us to provide you with access to all parts of our website and to supply the goods or services you have requested. It will also enable us to bill you and to contact you where necessary concerning your orders. We will also use and analyse the information we collect so that we can administer, support, improve, develop our business and where we are required to do so to report sales to our business partners . 
 
-In particular, we may use your information to contact you for your views on our services and to notify you occasionally about important changes or developments to the website or our services. Further, where you have consented, we might also use your information to let you know by email about other products and services which we, other companies within our group and our business partners offer which may be of interest to you. If you change your mind about being contacted in the future, please let us know.
+In particular, we may use your information to contact you for your views on our services and to notify you occasionally about important changes or developments to the website or our services. Further, where you have consented, we might also use your information to let you know about other products and services which we, other companies within our group and our business partners offer which may be of interest to you. If you change your mind about being contacted in the future, please let us know.
 
 Where you have entered your credit card details for payment of goods or services on www.gettingpersonal.co.uk, we will not store your credit card data. 
 
 **Opt-out information:**
 
-We may provide you the opportunity to opt-in to additional newsletters or promotional communications sent by email. If you have opted in or otherwise qualify to receive these forms of communication, and no longer wish to receive our newsletter or other promotional communications by email, you may opt-out of receiving them by following the instructions included in each communication. You may also opt out by writing to us at:- 
+We may provide you the opportunity to opt-in to additional newsletters or promotional communications. If you have opted in or otherwise qualify to receive these forms of communication, and no longer wish to receive our newsletter or other promotional communications, you may opt-out of receiving them by following the instructions included in each communication. You may also opt out by writing to us at:- 
 
 Getting Personal Limited, Southmoor Road, Roundthorn Industrial Estate, Wythenshawe, Manchester M23 9DS 
 
 Phoning our Customer services team on 0161 947 5900 
 
-Or emailing us at ask@gettingpersonal.co.uk 
+Or emailing us at business@gettingpersonal.co.uk 
 
 **Disclosure of your Information**
 
 The information you provide to us may be accessed by or given to third parties some of whom may be located outside the European Economic Area who act for us for the purposes set out in this policy or for other purposes approved by you. Those parties process information, fulfil and deliver orders, process credit card payments and provide support services on our behalf. We may also pass aggregate information on the usage of our website to third parties but this will not include information that can be used to identify you. 
 
-Where you have consented when providing us with your details, we may also allow other companies in our group and our business partners, to contact you occasionally about products and services which may be of interest to you. They may contact you by e-mail. If you change your mind about being contacted by these companies in the future, please let us know at ask@gettingpersonal.co.uk. 
+Where you have consented when providing us with your details, we may also allow other companies in our group and our business partners, to contact you occasionally about products and services which may be of interest to you. They may contact you by e-mail. If you change your mind about being contacted by these companies in the future, please let us know at business@gettingpersonal.co.uk. 
 
 Finally, if our business enters into a joint venture with or is sold to or merged with another business entity, your information may be disclosed to our new business partners or owners. 
 
 Countries outside the European Economic Area do not always have strong data protection laws. However, we will always take steps to ensure that your information is used by third parties in accordance with this policy. 
 
-We know that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. We occasionally make our mailing list available to other carefully selected organisations whose products and services may be of interest to you. If you would prefer not to be included in such mailings, please write to Getting Personal Limited, Southmoor Road, Roundthorn Industrial Estate, Wythenshawe, Manchester M23 9DS, or drop an email to ask@gettingpersonal.co.uk. 
+We know that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. We occasionally make our mailing list available to other carefully selected organisations whose products and services may be of interest to you. If you would prefer not to be included in such mailings, please write to Getting Personal Limited, Southmoor Road, Roundthorn Industrial Estate, Wythenshawe, Manchester M23 9DS, or drop an email to business@gettingpersonal.co.uk. 
 
 **Cookies**
 
@@ -87,13 +87,13 @@ Where you have entered your credit card details for payment of goods or services
 
 **Accessing and Updating**
 
-You are entitled to see the information held about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to do this, please contact us at ask@gettingpersonal.co.uk. We are entitled by law to charge a fee of £10 to meet our costs in providing you with details of the information we hold about you. 
+You are entitled to see the information held about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to do this, please contact us at business@gettingpersonal.co.uk. We are entitled by law to charge a fee of £10 to meet our costs in providing you with details of the information we hold about you. 
 
 **Changes to our Privacy Policy**
 
 Any changes to our privacy policy in the future will be posted to the website and, where appropriate, through e-mail notification. 
 
-All comments, queries and requests relating to our use of your information are welcomed and should be addressed to ask@gettingpersonal.co.uk. 
+All comments, queries and requests relating to our use of your information are welcomed and should be addressed to business@gettingpersonal.co.uk. 
 
 **Other web sites**
 
@@ -112,7 +112,7 @@ Our web site may contain links to other web sites which are outside our control 
 
 Mailing list subscribers must specifically opt-into Getting Personal emails to receive them. The nature of the emails people will be sent is fully disclosed, both on the page the subscription is made from and with a prominent link to the site’s Privacy Policy.
 
-Getting Personal do not use brought in lists, rented lists or lists that use appended email addresses.
+Getting Personal do not use bought in lists, rented lists or lists that use appended email addresses.
 
 Getting Personal do not use email addresses scraped or copy and pasted from the web, or harvested in any way.
 
@@ -137,4 +137,4 @@ If you receive an email message that you think is spam, sent from GettingPersona
 
 If you have questions regarding this anti-spam policy, please contact GettingPersonal.co.uk using the following email address:
 
-ask@gettingpersonal.co.uk
+business@gettingpersonal.co.uk
