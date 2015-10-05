@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teachtci.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607030740id_/http%3A//www.teachtci.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachtci.com privacy policy that was archived on 2015-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151005233205id_/http%3A//www.teachtci.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | TCI
 
