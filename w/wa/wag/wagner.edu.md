@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wagner.edu privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628211244id_/http%3A//wagner.edu/communications/digital/website-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wagner.edu privacy policy that was archived on 2015-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151005033538id_/http%3A//wagner.edu/communications/digital/website-policies) for the most accurate reproduction.*
 
 # Digital Policies | Communications & Marketing
 
