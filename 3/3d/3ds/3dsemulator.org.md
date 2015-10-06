@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 3dsemulator.org privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618232250id_/http%3A//3dsemulator.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3dsemulator.org privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007005547id_/http%3A//3dsemulator.org/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - 3DS Emulator
+# Privacy Policy - 3dsemulator.org
 
 **What information do we collect?**
 
