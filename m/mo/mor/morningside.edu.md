@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morningside.edu privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502185627id_/https%3A//www.morningside.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morningside.edu privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007013909id_/https%3A//www.morningside.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Morningside College
 
