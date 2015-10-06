@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the synology.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319024652id_/https%3A//www.synology.com/company/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synology.com privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006234705id_/https%3A//www.synology.com/company/legal/privacy) for the most accurate reproduction.*
 
 # Legal - About Synology - Synology - Network Attached Storage (NAS)
 
@@ -61,14 +61,14 @@ Synology Inc. uses cookies on this Site to ensure the integrity of the registrat
 
 ## Enforcement of this Privacy Statement
 
-If you have questions regarding this statement, you should [contact](https://www.synology.com/company/contact_us) Synology Inc. 
+If you have questions regarding this statement, you should [contact](https://www.synology.com/company/contact_us "contact") Synology Inc. 
 
 ## Collection of Synology Product Usage Information
 
 When you use Synology products, Synology may collect different levels of information from you and/or your Synology system. The type of information depends on how much information you wish to provide.
 
   * Register: if you choose to register your Synology product with us, you will provide us with the following information: 
-    * Email address (that becomes associated with the MyDS Center account) 
+    * Email address (that becomes associated with the Synology Account) 
     * The serial number of your Synology Products 
     * The Country where the system you use is. 
 
