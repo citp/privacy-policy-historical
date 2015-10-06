@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the fiat.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142225id_/http%3A//www.fiat.com/com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiat.com privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006194554id_/http%3A//www.fiat.com/com/privacy) for the most accurate reproduction.*
 
 # Privacy
-
-## privacy policy  
-
 
 #### General introduction
 
@@ -16,8 +13,7 @@ Please note that the Information will not be provided for other websites possibl
 #### DATA CONTROLLER, DATA PROCESSOR AND PERSONS IN CHARGE OF THE PROCESSING
 
 The Data Controller is the presiding head of the Information & Communication Technologies department of Fiat Group Automobiles S.p.A., with registered office in Turin, Corso Agnelli 200, Italy. The Data Processor for this Service is the presiding head of Commercial Operations of Fiat Group Automobiles S.p.A..  
-The personal data that you have provided may be handled by Data Processing Officers, including external, responsible for managing the requested service and by Data Processor(s).  
-
+The personal data that you have provided may be handled by Data Processing Officers, including external, responsible for managing the requested service and by Data Processor(s).
 
 #### TYPE OF DATA PROCESSED AND PURPOSE OF PROCESSING
 
@@ -30,7 +26,7 @@ This technical/IT data are collected and used on an aggregated and anonymous bas
 These technical data are collected and used in an aggregated and anonymous way for the sole purpose of:  
 1\. improving the quality of the service and optimize the functionality of the website;   
 2\. understanding user behavior in order to improve online communication;  
-3\. providing statistical information concerning the use of the website. 
+3\. providing statistical information concerning the use of the website.
 
 **GEOGRAPHICAL LOCATION DATA**  
 Upon previous consent of the user, the website may process geographical location data - in a discontinuous way - to provide the services that user has requested.
@@ -56,7 +52,7 @@ This website also uses persistent cookies, i.e. cookies that are stored on the c
 Through persistent cookies users/visitors to the site (or any other user that use the same computer) are automatically recognized at each visit.  
 The user/visitor may set the computer browser in order to accept/refuse all cookies or receive a notice  each time a cookie is proposed, in order to decide whether to accept it or not (2). **  
 Javascript**  
-This is a technique used as an alternative to direct analysis of Web server log files. It consists of collecting and processing navigation data using dedicated JavaScript code in the HTML pages deemed of interest. 
+This is a technique used as an alternative to direct analysis of Web server log files. It consists of collecting and processing navigation data using dedicated JavaScript code in the HTML pages deemed of interest.
 
 #### External services
 
