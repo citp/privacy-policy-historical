@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheltenham-festival.co.uk privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627033916id_/http%3A//www.cheltenham-festival.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheltenham-festival.co.uk privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006115313id_/http%3A//www.cheltenham-festival.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Cheltenham Festival About Us | Advertising | Privacy Policy
 
@@ -86,4 +86,4 @@ Some information and e-mails sent to us may be used as testimonials but no e-mai
 
 ## Contacting Us
 
-If you have any questions or concerns about the information we hold about you, please feel free to [contact us](https://web.archive.org/web/20150627033916id_/http%3A//www.cheltenham-festival.co.uk/contact-us.php).
+If you have any questions or concerns about the information we hold about you, please feel free to [contact us](https://web.archive.org/web/20151006115313id_/http%3A//www.cheltenham-festival.co.uk/contact-us.php).
