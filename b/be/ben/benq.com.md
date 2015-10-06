@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the benq.com privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526052626id_/http%3A//www.benq.com/page/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benq.com privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006094136id_/http%3A//www.benq.com/page/Privacy_Policy) for the most accurate reproduction.*
 
 # | BenQ Global
 
@@ -22,7 +22,7 @@ Notice To/Regarding Children Under the Age of 13
 
 BenQ is open only to individuals who are 13 years of age and older. If you are under 13 years of age, any information you submit will not be retained by BenQ.
 
-BenQ believes that children using the Internet require special protection, and we urge parents or guardians to explain Internet safety to their children. 
+BenQ believes that children using the Internet require special protection, and we urge parents or guardians to explain Internet safety to their children.
 
 Parents are urged to spend time online with their children to become familiar with the types of content available on the Internet. Control tools are available from online services and software manufacturers to help create a safer environment for children.
 
