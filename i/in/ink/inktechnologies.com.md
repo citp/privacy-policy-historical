@@ -1,20 +1,6 @@
-> *The following text is extracted and transformed from the inktechnologies.com privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430015937id_/http%3A//www.inktechnologies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inktechnologies.com privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006233357id_/http%3A//www.inktechnologies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ink Technologies
-
-Free Shipping  
-orders $50 or more  
-(ground service to U.S. contiguous 48 states)
-
-Refer Friends  
-earn $5 gift card  
-(200 points)  
-[start referring](https://web.archive.org/CustomerService/RewardsPortal?_ff_action=referral)
-
-Recycle Cartridges  
-recycle empty ink  
-and toner for free  
-[submit request](https://web.archive.org/toner-cartridge-recycling)
 
 **Ink Technologies** ("website", "we", "our", or "us") respects the User's ("your", "the customer") privacy and recognizes your right to protection of all personal information you share with us, including your name, address, email address, telephone number, etc.
 
