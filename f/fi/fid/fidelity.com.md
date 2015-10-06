@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fidelity.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629165824id_/https%3A//www.fidelity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fidelity.com privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006124729id_/https%3A//www.fidelity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Fidelity Investments
 
@@ -28,7 +28,7 @@ The privacy policies of Fidelity Investments and the Fidelity Funds are reviewed
 
 ###  How and why we obtain personal information 
 
-Fidelity takes great care to protect personal information about you and when we use it, we do so with respect for your privacy. We may use personal information about you to service and maintain your account; process transactions in your account; respond to inquiries from you or your representative; develop, offer, and deliver products and services; or to fulfill legal and regulatory requirements. Fidelity may collect public and non-public personal information about you from any of the following sources:
+Fidelity takes great care to protect personal information about you and when we use it, we do so with respect for your privacy. We may use personal information about you to service, maintain, and protect your account; process transactions in your account; respond to inquiries from you or your representative; develop, offer, and deliver products and services; or to fulfill legal and regulatory requirements. Fidelity may collect public and non-public personal information about you from any of the following sources:
 
   * You or your representative on applications or forms (for example, name, address, Social Security number, birth date, assets and income)
   * You or your employer or plan sponsor if Fidelity provides them with recordkeeping services (for example, payroll, human resources, or benefits information)
@@ -65,7 +65,7 @@ Based on the nature of your relationship with Fidelity, we may exchange informat
 
   * If Fidelity provides workplace services to your employer or plan sponsor, such as payroll, human resources or benefits recordkeeping services, Fidelity may exchange any information received in connection with such services with your employer or plan sponsor or others they may authorize.
   * If you conduct business with Fidelity through your investment professional, we may exchange information we collect with your investment professional or with others they may authorize.
-  * If you transact business through Fidelity's life insurance companies, we may validate and obtain information about you from an insurance support organization. The insurance support organization may further share your information with other insurers, as permitted by law.
+  * If you transact business through Fidelity's life insurance companies, we may validate and obtain information about you from an insurance support organization. The insurance support organization may further share your information with other insurers, as permitted by law. We may also share medical information about you to learn if you qualify for coverage, to process claims, to prevent fraud, or otherwise at your direction, as permitted by law.
 
 
 
@@ -89,25 +89,27 @@ When you visit Fidelity websites, we may collect technical and navigational info
 
 **Cookies and similar technologies**
 
-We use cookies and similar technologies to support the operation of Fidelity websites. Cookies are small amounts of data that a website sends to a web browser on a visitor's computer. Our cookies help us to collect information about visitors to Fidelity websites, including date and time of visits, pages viewed, amount of time spent on our sites, or general information about the device used to access the site. Fidelity cookies are also used for security purposes and to personalize your experience, such as customizing your screen layout.
+Fidelity and our third-party service providers may use cookies and similar technologies to support the operation of Fidelity websites. Cookies are small amounts of data that a website exchanges with a web browser or application on a visitor's computer or mobile device. Cookies help us to collect information about visitors to Fidelity websites, including date and time of visits, pages viewed, amount of time spent on our sites, or general information about the device used to access the site. Fidelity cookies are also used for security purposes and to personalize your experience, such as customizing your screen layout.
 
 You can refuse or delete cookies. Most browsers and mobile devices offer their own settings to manage cookies. If you refuse a cookie when on a Fidelity website, or if you delete cookies, you may experience some inconvenience in your use of Fidelity websites. For example, you may not be able to sign in and access your account, or we may not be able to recognize you, your device, or your online preferences.
 
-Both Fidelity and third-party service providers we hire may use cookies and other technologies, such as web beacons or pixel tags, in online advertising as described below. We do not share personally identifiable information about our customers with these third-party service providers, and they do not collect such information for us.
+Both Fidelity and third-party service providers we hire may use cookies and other technologies, such as web beacons or pixel tags, in online advertising as described below.
 
 **Advertising on Fidelity websites**
 
-Fidelity advertises on its own websites, and when we do, we may use information about your relationship with us, such as the types of accounts you have, to tailor advertisements about Fidelity products and services that may be of interest to you.
+Fidelity advertises on its own websites (including our mobile applications), and when we do, we may use information about your relationship with us, such as the types of accounts you have, to tailor advertisements about Fidelity and third-party products and services that may be of interest to you.
 
 We may also use third-party service providers to help us determine which Fidelity products and services may be of interest to you. These service providers may collect information about your activity on Fidelity websites using cookies and other technologies to analyze, for example, pages visited, search engine referrals, browsing patterns, and responses to advertisements and promotions. Such service providers may only collect and use such information for purposes specified by Fidelity and not for their own purposes.
 
 **Advertising on non-Fidelity websites**
 
-Fidelity also advertises our products and services on websites not affiliated with Fidelity. We contract with third-party advertising companies to display these ads, and they may use cookies and similar technologies to optimize the placement of our ads. We do not share personally identifiable information about our customers with these third-party service providers, and they do not collect such information for us.
+Fidelity also advertises our products and services on websites not affiliated with Fidelity and we contract with third-party advertising companies to display these ads. These third-party advertising companies may use cookies and similar technologies to collect technical and web navigational information, such as device type, browser type, Internet protocol address, and pages visited.
 
-When we hire third-party online advertising companies, they may provide you with Fidelity advertisements that may be relevant to your interests, as determined by your activity on Fidelity and non-Fidelity websites. Such advertisements are known as "interest-based advertisements."
+Fidelity and these third-party online advertising companies may use the data collected, along with other information we have about you and your Fidelity relationships, to serve relevant ads to you. The advertisements may be relevant to your interests, as determined by your activity on Fidelity and non-Fidelity websites. These are known as "interest-based advertisements."
 
 You may opt-out of receiving interest-based advertisements from online advertising companies by clicking on the AdChoices icon (which appears on all Fidelity interest-based ads) and following the opt-out instructions. For more information about interest-based advertising please see <http://www.networkadvertising.org/managing/opt_out.asp>.
+
+Non-Fidelity websites and mobile applications are not subject to Fidelity's Privacy Policy. You may visit the individual sites for additional information on their privacy practices.
 
 **Connecting with Fidelity on social media sites**
 
@@ -127,7 +129,7 @@ Fidelity websites are not directed to individuals under the age of thirteen (13)
 
 If you are a former customer, these policies also apply to you; we treat your information with the same care as we do information about current customers.
 
-Fidelity offers several options for accessing and, if necessary, correcting your account information. You can review your information using your statements, or through our automated telephone or Internet services. You may also write or call us with your request for information. If we serve you through an investment professional, please contact them directly. Specific Internet addresses, mailing addresses and telephone numbers are listed on your statements and other correspondence.
+Fidelity offers several options for accessing and, if necessary, correcting your account information. You can review your information using your statements, or through our automated telephone or Internet services. You may also write or call us with your request for information. If you transact business through Fidelity's life insurance companies, you are entitled to receive, upon written request, a record of any disclosures of your medical record information. If we serve you through an investment professional, please contact them directly. Specific Internet addresses, mailing addresses and telephone numbers are listed on your statements and other correspondence.
 
 ###  The Fidelity Investments Privacy Policy is provided on behalf of: 
 
@@ -170,5 +172,5 @@ Please read the Fidelity Funds Privacy Policy in conjunction with the Privacy Po
 The Fidelity Funds Privacy Policy is provided on behalf of the Fidelity Investments family of mutual funds.
 
   
-Effective June 2014    
-©1998-2014 FMR LLC. All Rights Reserved.
+Effective June 2015    
+©1998-2015 FMR LLC. All Rights Reserved.
