@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flashseats.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607185638id_/http%3A//www.flashseats.com/PrivacyPolicy.aspx%3Fss%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashseats.com privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006234624id_/http%3A//www.flashseats.com/PrivacyPolicy.aspx%3Fss%3D0) for the most accurate reproduction.*
 
 # Flash Seats: Privacy Policy
 
