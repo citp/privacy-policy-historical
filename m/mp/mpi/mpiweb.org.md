@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mpiweb.org privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511234823id_/http%3A//mpiweb.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mpiweb.org privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006211504id_/http%3A//www.mpiweb.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,12 +34,13 @@ Our Web site utilizes "cookie" technology. "Cookies" are encrypted strings of te
 
   * Measure usage of various pages on our website to help us make our information more pertinent to your needs and easy for you to access; and, 
   * Provide functionality such as online registration and other functionality that we believe would be of interest and value to you. 
+  * Serve advertisements to you, and allow select suppliers of MPI, to serve online advertisements through remarketing channels, this is also known as behavioral advertising.
 
 
 
 The two types of cookies that we use are referred to as "session" cookies and "persistent" cookies. Session cookies are temporary and are automatically deleted once you leave our website. Persistent cookies remain on your computer hard drive until you delete them. We do not use cookies to gather any personally identifiable information about you apart from what you voluntarily provide us in your dealings with us. Our cookies do not corrupt or damage your computer, programs or computer files.
 
-You may set your browser to block cookies (consult the instructions for your particular browser on how to do this), although doing so will adversely affect your ability to perform certain transactions, use certain functionality and access certain content on our website.
+You may set your browser to block cookies (consult the instructions for your particular browser on how to do this), although doing so will adversely affect your ability to perform certain transactions, use certain functionality and access certain content on our website. Visitors to our website can opt-out of remarketing networks that use cookies by visiting Google Ads Settings page. Alternatively, website visitors can opt out of a third-party vendor's use of cookies by visiting the Network Advertising Initiative opt-out page.
 
 #### Compliance with Law
 
@@ -59,4 +60,4 @@ All contents of this website are protected by United States and International Co
 
 #### Privacy Protection Policy Changes
 
-In the future, we may need to change this Policy. All changes will be included on this web site so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone. This Policy was last updated on November 15, 2005. 
+In the future, we may need to change this Policy. All changes will be included on this web site so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone. This Policy was last updated on June 24, 2015. 
