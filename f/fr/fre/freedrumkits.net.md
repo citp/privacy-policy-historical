@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freedrumkits.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607214136id_/http%3A//www.freedrumkits.net/index.php%3Fview%3Darticle%26id%3D4%3Aprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedrumkits.net privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007002417id_/http%3A//www.freedrumkits.net/index.php%3Fview%3Darticle%26id%3D4%3Aprivacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
