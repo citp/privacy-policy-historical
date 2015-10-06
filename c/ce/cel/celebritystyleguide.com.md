@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebritystyleguide.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513161009id_/http%3A//www.celebritystyleguide.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebritystyleguide.com privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006034839id_/http%3A//www.celebritystyleguide.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Celebrity Style Guide
 
