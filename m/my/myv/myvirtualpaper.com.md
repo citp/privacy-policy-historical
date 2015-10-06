@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myvirtualpaper.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324125257id_/http%3A//en.myvirtualpaper.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myvirtualpaper.com privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006040150id_/http%3A//www.virtualpaper.com/en/privacy-policy.php) for the most accurate reproduction.*
 
 # Virtual Paper, the digital publishing experts.
 
@@ -85,9 +85,9 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-[Please also visit our Terms and Conditions section](https://web.archive.org/web/20150324125257id_/http%3A//en.myvirtualpaper.com/terms-conditions.php) establishing the use, disclaimers, and limitations of liability governing the use of our website at :
+[Please also visit our Terms and Conditions section](https://web.archive.org/web/20151006040150id_/http%3A//www.virtualpaper.com/en/terms-conditions.php) establishing the use, disclaimers, and limitations of liability governing the use of our website at :
 
-[http://www.myvirtualpaper.com](http://www.myvirtualpaper.com/)
+[http://www.virtualpaper.com](http://www.virtualpaper.com/)
 
  **Your Consent**
 
@@ -103,7 +103,7 @@ This policy was last modified on 2013-10-01
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-[www.myvirtualpaper.com](http://www.myvirtualpaper.com/)  
+[www.virtualpaper.com](http://www.virtualpaper.com/)  
 1010 de Sérigny  
 Suite 202  
 Longueuil, Québec  
