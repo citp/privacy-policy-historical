@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogsandyou.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503094033id_/http%3A//blogsandyou.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogsandyou.com privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006030352id_/http%3A//blogsandyou.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Blogs and you
 
