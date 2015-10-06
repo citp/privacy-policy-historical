@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the droik.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607130406id_/http%3A//www.droik.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the droik.com privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006155527id_/http%3A//www.droik.com/privacy.php) for the most accurate reproduction.*
 
 # India Classifieds
 
