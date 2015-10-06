@@ -1,45 +1,128 @@
-> *The following text is extracted and transformed from the momentive.com privacy policy that was archived on 2015-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150528052203id_/http%3A//momentive.com/about_us.aspx%3Fid%3D302) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momentive.com privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006154328id_/http%3A//www.momentive.com/about_us.aspx%3Fid%3D302) for the most accurate reproduction.*
 
 # Momentive.com - Momentive Specialty Chemicals Privacy Policy
 
-Revised August 31, 2014
+About Us
 
-This Privacy Policy describes the information collection, use, and disclosure practices of the Momentive Performance Materials Inc. (“Momentive”) website, hosted at [www.momentive.com](http://www.momentive.com/ "www.momentive.com") (the “Site”).
+  
+| 
 
-From time to time, Momentive may make changes to this Privacy Policy.  Any future modifications to this Privacy Policy will be posted on the Site, with an updated “Revised” date at the top.  Your continued use of the Site after any changes have been posted constitutes your agreement to those changes.
+**Momentive Privacy Policy**
 
-## INFORMATION COLLECTION AND USE
+Revised July 13, 2015
 
-**Personal Information**  
-You may browse most areas of the Site without providing any personal information to Momentive. To access some services or areas on the Site, you may be asked to register, and you may also be asked to provide information about you and/or your company such as name, job title, email address, and other information.  This information will enable Momentive to provide services and/or information to you. If you order products or use certain services available through this Site, you may be asked to provide further information, including, but not limited to, billing information (such as credit card account information), product information, and other personal information. Momentive may also collect other information from you when you provide comments or participate in surveys. We use such personal information to provide our services and otherwise operate our business, consistent with this Privacy Policy and any notice that may be provided at the time of collection. In most cases, personal information is used only to respond to your inquiry or to process your request.
+This website is controlled and operated by Momentive Performance Materials, Inc. (“Momentive”) with registered seat Global Head Quarters, 260 Hudson River Road, Waterford, NY 12188 , USA.
 
-If you use the online job search program, you may be asked to provide additional information about yourself as part of the application process, such as your address and other contact information, your educational history, or your work history.  The members of our Human Resources staff will review and process your application, and the information you provide may become part of your personnel file if you accept a job at Momentive. Even if you do not accept a job, the information you provide may also be kept on file for purposes of identifying future employment opportunities for you at Momentive.
+This Privacy Policy describes the information collection, use, and disclosure practices of the Momentive website, hosted at [_www.momentive.com_](http://www.momentive.com/) (the “Site”).
 
- **Other Information**  
-Momentive’s web servers may collect certain non-personal information, including the name of the domain you used to access the Internet and the web site you came from and visit next. This information is aggregated to measure the number of visits, average time spent, page views, and other statistics about visitors to this Site.
+From time to time, Momentive may make changes to this Privacy Policy.  Such changes do not have retroactive effect, they only apply to our future practice.  Any such future modifications to this Privacy Policy will be posted on the Site, with an updated “Revised” date at the top.  Your continued use of the Site after any changes have been posted constitutes your agreement to those changes.
 
- When registering with this Site, certain technical and routing information about your computer is collected to facilitate your use of the Site. For example, environmental variables are logged, such as browser type, operating system and CPU speed, and the Internet Protocol (“IP”) address of your originating Internet Service Provider. Momentive also records search requests and results to try to ensure the accuracy and efficiency of the search engine. Your IP address is also used to track your use of the Site. This "clickstream" data may be matched with the registration data you provide, in which case we will treat it as personal information.
+**INFORMATION COLLECTION AND USE**
 
-To gather general statistics, our servers may place a "cookie" (a small data file typically made up of a string of text and numbers, which assigns the visitor a unique identifier) on your computer or use other, similar technologies to recognize your computer. Furthermore, Momentive maintains a "server cookie" on its own system in order to recognize a returning visitor, and to track statistical information about the visitor’s navigation to and throughout certain areas of this Site, as well as to Momentive promotions on other sites. This information allows better administration of the Site, and provides a more tailored and user-friendly service to you. It is used for internal purposes, such as to improve Site navigation and to measure the effectiveness of our promotional placements. If you prefer not to accept cookies, you may be able to use features provided by your browser to reject them or to alert you before one is placed. However, rejection of a cookie may limit the functionality that is available to you when you visit this Site.
+**Personal Information**   
 
-## SHARING OF INFORMATION
+Whenever you browse the Site, Momentive’s web server will temporarily log each access to its log file. Through this process, Momentive will collect and store the below data until they are deleted in accordance with statutory requirements:
+
+  * IP address of requesting system
+  * Time and date of access
+  * Name and URL of the data accessed on our web server
+  * Transferred data volume
+  * Confirmation whether download was successful
+  * Header information identifying the requesting browser and operating system 
+
+
+
+Momentive processes this data only to the extent required for the purposes of providing access to the content of the Site and to secure and administer Momentive’s system. The IP address will only be analyzed in case of security incidents on Momentive’s systems.
+
+You may browse most areas of the Site without providing any further personal information to Momentive. To access some services or areas on the Site, you may be asked to register, and you may also be asked to provide information about you and/or your company such as name, job title, email address, and other information.  This information will enable Momentive to provide services and/or information to you. If you order products or use certain services available through this Site, you may be asked to provide further information, including, but not limited to, billing information (such as credit card account information), product information, and other personal information. Momentive may also collect other information from you when you provide comments or participate in surveys. The type of information collected is always transparent to you in advance, as the relevant registration process or survey will ask for such information explicitly. We use such personal information to provide our services and otherwise operate our business, consistent with this Privacy Policy and any notice that may be provided at the time of collection. In most cases, personal information is used only to respond to your inquiry or to process your request. If we would like to use your personal information for marketing purposes, we will first ask for your consent.
+
+If you chose to use the online job search program, you will be asked to provide additional information about yourself that is required as part of the application process, such as your address and other contact information, your educational history, or your work history.  The members of our Human Resources staff will review and process your application, and the information you provide may become part of your personnel file if you accept a job at Momentive. Even if you do not accept a job, the information you provide may also be kept on file for purposes of identifying future employment opportunities for you at Momentive, subject to your prior consent.
+
+**Google Analytics and Cookies**
+
+On this Site, we use Google Analytics, a web analysis service provided by Google Inc. ("Google"). Google Analytics uses so-called cookies which are small text files that are stored on your computer and make it possible, among other things, to analyse the way in which you use our Site. As a rule, the information generated by cookies is transferred to and stored on a server in the US that is operated by Google. Google will use this information on our behalf in order to evaluate your use of our Site, compile reports regarding website activities and provide services for us relating to website and internet usage. These reports and services are used to make continuous improvements to the facilities offered by this Site.
+
+You can prevent the storage of cookies by making an appropriate setting in your browser. Please note that, if you do this, you will be unable to use all the functionalities of this Site to their full extent. You can also prevent the acquisition and processing of data relating to your use of this Site (incl. your IP address) and generated by cookies by Google by simply downloading and installing the following Google browser plug-in by clicking the following link: http://tools.google.com/dlpage/gaoptout?hl=en. Similar plug-ins are available from other providers depending on the particular browser you use.
+
+In view of the debate regarding the use of analytics tools with full IP addresses, this Site uses Google Analytics with the "anonymizeIp()" function, which ensures that IP addresses are processed in truncated form only and prevents them from being traced to a specific user. In states that form part of the European Economic Area, Google will therefore truncate your IP address before transfer to its server. Full IP addresses will be sent to a Google server in the US to be truncated there only in exceptional cases. The IP address sent from your browser when using Google Analytics is not combined with any other Google data.
+
+To ensure a good user experience, our Site also uses system cookies that contain a unique number, your 'session ID', which allows our server to recognize your computer and 'remember' what you've done on the Site. The benefits of these are:
+
+  * You only need to log in once if you're navigating secure areas of the Site
+  * You are able to use interactive elements of the Site, such as forms
+  * Our server can distinguish between your computer and other users, so you can see the information that you have requested.
+
+ 
+
+When you close your browser the cookie will be deleted and the Site will 'forget' your session.
+
+The following table gives details of the different types of cookies that might be used during a session.
+
+|    
+
+**Cookie Names**
+
+    |    
+
+**Purpose**
+
+    |    
+
+**Stays Until**
+
+     
+---|---|---  
+  
+
+**Google Analytics Cookies:**
+
+     
+
+**__utma, __utmb, __utmc, __utmt,    __utmz, _ga, _gat**
+
+   |   
+
+We use Google Analytics for our   web analytics tool.  The information   collected helps us to continually address the needs of our visitors.  Our configuration uses the Anonoymize IP   function provided by Google to protect the identity of each user.  Further information as well as Opt-Out   capabilities can be found at [_http://www.google.com/analytics_](http://www.google.com/analytics). 
+
+   |   
+
+Google Analytics Cookies may   exist up to 2 years.
+
+    
+  
+
+**System Cookies:**
+
+     
+
+**.ASPXAUTH, AVESTA_ENVIRONMENT, ASP.NET_SessionId,    ASPSESSIONIDQATCDDTA, ASPSESSIONIDSARSRCCS, BC_BANDWIDTH, ecm, EkAnalytics,   EktGUID, Region, IN_HASH, JSESSIONID, lidc, uit, X-Mapping-mlknngpl**
+
+   |   
+
+We use various system cookies to help with the   operation of our website and your user experience.  These include cookies to help maintain   bandwidth metrics so we can optimize your experience and display the products   you have viewed to help provide you with the most relevant information.
+
+   |   
+
+System Cookies will be automatically deleted   within 1 day or until your browser session closes.
+
+    
+  
+If you would like to opt out of the advantages of these cookies, you can read in the ‘help’ function on your browser how to adjust your browser to prevent these cookies, accept new cookies, or delete existing cookies. You can also learn there how to block all cookies or set up notifications for new cookies. However, rejection of a cookie may limit the functionality that is available to you when you visit this Site.
+
+**SHARING OF INFORMATION**
 
 When you provide information to Momentive, it may be shared with third party service providers to perform business functions for us or on our behalf including, but not limited to, fulfilling your requests and offering you other Momentive products and services that may be of interest to you. Momentive does not share, sell, or lease personal information about you to any third parties for their own direct marketing use. Momentive may disclose information about you to other third parties if we believe that we have a legal obligation to do so or where we believe disclosure is necessary to protect our rights, and/or comply with a judicial proceeding, court order, or legal process.  In the event Momentive merges with another company, or another company acquires all or part of Momentive’s assets, including without limitation, in the event of bankruptcy, personal information compiled or owned by Momentive may be among the items transferred in that transaction. In addition, the information you provide may be shared with Momentive operating units or departments, as well as affiliates or other companies under common ownership with Momentive, whether located in the United States or in other parts of the world.
 
-## DATA SECURITY
+**DATA SECURITY**
 
 Momentive maintains reasonable physical, electronic, and administrative safeguards to protect your personal information from unauthorized access. Access to information about you is restricted to those Momentive workers who need to know the information to respond to your inquiry or request. 
 
-## LINKS
+**LINKS**
 
- This Site may feature links to other websites. Momentive is not responsible for the content, security, or privacy practices employed by other sites. You should contact these companies directly if you have any questions about their collection or use of information about you.
+This Site may feature links to other websites. Momentive is not responsible for the content, security, or privacy practices employed by other sites. You should contact these companies directly if you have any questions about their collection or use of information about you.
 
-## SPECIAL PROVISIONS FOR OUR EUROPEAN USERS
-
-By providing data to Momentive, you acknowledge and agree that personal data collected in the course of the relationship may be collected, used, and disclosed for commercial and marketing purposes, or provided in accordance with this Privacy Policy to other Momentive operating units or departments, and selected third parties, which may be outside of the European Union (EU) and/or European Economic Area (EEA). In addition, such data may be stored on servers located in jurisdictions outside of the EU or EEA. Further, you consent to the transfer of such data outside of the EU or EEA as described in this Privacy Policy. If you do not consent to the terms of this Privacy Policy, please do not use this Site and, if you have already provided personal information to Momentive, please contact Momentive about how you would like your data to be handled.
-
-## CONTACT US
+**CONTACT US**
 
 Please contact Momentive if you wish to modify or verify personal information that you have submitted or if you have questions about the information that is maintained.
 
- If you have any questions or concerns about this Privacy Policy, please contact us at [webprivacy@momentive.com](mailto:webprivacy@momentive.com).
+ If you have any questions or concerns about this Privacy Policy, please contact us at [**_webprivacy@momentive.com_**](mailto:webprivacy@momentive.com).
