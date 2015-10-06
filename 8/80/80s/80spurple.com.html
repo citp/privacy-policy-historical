@@ -1,20 +1,45 @@
-<!--The following is the downloaded HTML source of the 80spurple.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607175344id_/http%3A//www.80spurple.com/jzv/inf/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 80spurple.com privacy policy that was archived on 2015-10-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151007015650id_/http%3A//www.80spurple.com/jzv/inf/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta content="IE=Edge,chrome=1" http-equiv="X-UA-Compatible">
-<title>
-www.80spurple.com
-</title>
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=7e13c32551/cloudflare.min.js"></script><script type="text/javascript">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=e9627cd26a/cloudflare.min.js"></script><script type="text/javascript">
 //<![CDATA[
-try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok3v=1613a3a185/"},atok:"ee4035099dfbc7184587bcd743e92ddb",petok:"ff8dacc365ec78c92b14dddde7df57c501eca6c8-1433699624-1800",zone:"80spurple.com",rocket:"0",apps:{"ga_key":{"ua":"UA-464200-5","ga_bs":"2"}}}];!function(a,b){a=document.createElement("script"),b=document.getElementsByTagName("script")[0],a.async=!0,a.src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=7e13c32551/cloudflare.min.js",b.parentNode.insertBefore(a,b)}()}}catch(e){};
+try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok3v=1613a3a185/"},atok:"ee4035099dfbc7184587bcd743e92ddb",petok:"483436f1682491c96b27c33454b0d177fb081602-1444183010-1800",zone:"80spurple.com",rocket:"0",apps:{"ga_key":{"ua":"UA-464200-5","ga_bs":"2"}}}];!function(a,b){a=document.createElement("script"),b=document.getElementsByTagName("script")[0],a.async=!0,a.src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=e9627cd26a/cloudflare.min.js",b.parentNode.insertBefore(a,b)}()}}catch(e){};
 //]]>
 </script>
-<link rel="stylesheet" type="text/css" href="/jzv/cmres/main.css" media="all">
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-<script type="text/javascript" src="/pub/js/jz.js"></script>
-<script type="text/javascript">CSRF_TOKEN='5300e94b6c024df4b5d20b32cd6949ff';</script>
+<script type="text/javascript">
+    function positionEditDivs() {
+      var poss = new Array();
+
+      $('.editBtn').each(function (e) {
+        var pos = $(this).offset();
+        var found = false;
+        for (var i = 0; i < poss.length; i++) {
+          var obj = poss[i];
+//            alert(obj.left + "   " + obj.top);
+          if (obj.left - pos.left < 10 && obj.left - pos.left > -10 && obj.top - pos.top < 10 && obj.top - pos.top > -10) {
+            $(this).offset({
+//                   position: "absolute",
+//                   top: pos.top + "px",
+              top:pos.top,
+              left:(pos.left + 16)
+            });
+            pos = $(this).offset();
+//                window.console.log('moved ' + $(this).html() + " " + pos.left + " " + pos.top);
+          }
+        }
+        poss.push($(this).offset());
+//        window.console.log('remembered ' + $(this).offset().left + " " + $(this).offset().top);
+      })
+    }
+  </script>
+<title>
+www.80spurple.com</title>
+<link rel="stylesheet" type="text/css" href="/jzv/cmres/main.css" media="all">
+<script type="text/javascript" src="/pub/js/jz.min.js"></script>
+<script type="text/javascript">CSRF_TOKEN='a6a19c50af4044bebed0246cd95d5eef';</script>
 <script type="text/javascript">/* CloudFlare analytics upgrade */
 </script>
 <script type="text/javascript">
@@ -117,8 +142,7 @@ function chooseOption(type, value) {
     })
 }
 
-</script>
-<script type="text/javascript">
+</script> <script type="text/javascript">
 /*! ResponsiveSlides.js v1.54
 * http://responsiveslides.com
 * http://viljamis.com
@@ -510,8 +534,7 @@ function chooseOption(type, value) {
 
   };
 })(jQuery, this, 0);
-</script>
-<script>
+</script> <script>
   $(function() {
     $(".rslides").responsiveSlides({
      "auto": false,
@@ -519,8 +542,7 @@ function chooseOption(type, value) {
      
     });
   });
-</script>
-<script type="text/javascript">
+</script> <script type="text/javascript">
 /*================================================================================
  * @name: bPopup - if you can't get it up, use bPopup
  * @author: (c)Bjoern Klinggaard (twitter@bklinggaard)
@@ -528,8 +550,7 @@ function chooseOption(type, value) {
  * @version: 0.9.4.min
  ================================================================================*/
  (function(b){b.fn.bPopup=function(z,F){function K(){a.contentContainer=b(a.contentContainer||c);switch(a.content){case "iframe":var h=b('<iframe class="b-iframe" '+a.iframeAttr+"></iframe>");h.appendTo(a.contentContainer);r=c.outerHeight(!0);s=c.outerWidth(!0);A();h.attr("src",a.loadUrl);k(a.loadCallback);break;case "image":A();b("<img />").load(function(){k(a.loadCallback);G(b(this))}).attr("src",a.loadUrl).hide().appendTo(a.contentContainer);break;default:A(),b('<div class="b-ajax-wrapper"></div>').load(a.loadUrl,a.loadData,function(){k(a.loadCallback);G(b(this))}).hide().appendTo(a.contentContainer)}}function A(){a.modal&&b('<div class="b-modal '+e+'"></div>').css({backgroundColor:a.modalColor,position:"fixed",top:0,right:0,bottom:0,left:0,opacity:0,zIndex:a.zIndex+t}).appendTo(a.appendTo).fadeTo(a.speed,a.opacity);D();c.data("bPopup",a).data("id",e).css({left:"slideIn"==a.transition||"slideBack"==a.transition?"slideBack"==a.transition?g.scrollLeft()+u:-1*(v+s):l(!(!a.follow[0]&&m||f)),position:a.positionStyle||"absolute",top:"slideDown"==a.transition||"slideUp"==a.transition?"slideUp"==a.transition?g.scrollTop()+w:x+-1*r:n(!(!a.follow[1]&&p||f)),"z-index":a.zIndex+t+1}).each(function(){a.appending&&b(this).appendTo(a.appendTo)});H(!0)}function q(){a.modal&&b(".b-modal."+c.data("id")).fadeTo(a.speed,0,function(){b(this).remove()});a.scrollBar||b("html").css("overflow","auto");b(".b-modal."+e).unbind("click");g.unbind("keydown."+e);d.unbind("."+e).data("bPopup",0<d.data("bPopup")-1?d.data("bPopup")-1:null);c.undelegate(".bClose, ."+a.closeClass,"click."+e,q).data("bPopup",null);H();return!1}function G(h){var b=h.width(),e=h.height(),d={};a.contentContainer.css({height:e,width:b});e>=c.height()&&(d.height=c.height());b>=c.width()&&(d.width=c.width());r=c.outerHeight(!0);s=c.outerWidth(!0);D();a.contentContainer.css({height:"auto",width:"auto"});d.left=l(!(!a.follow[0]&&m||f));d.top=n(!(!a.follow[1]&&p||f));c.animate(d,250,function(){h.show();B=E()})}function L(){d.data("bPopup",t);c.delegate(".bClose, ."+a.closeClass,"click."+e,q);a.modalClose&&b(".b-modal."+e).css("cursor","pointer").bind("click",q);M||!a.follow[0]&&!a.follow[1]||d.bind("scroll."+e,function(){B&&c.dequeue().animate({left:a.follow[0]?l(!f):"auto",top:a.follow[1]?n(!f):"auto"},a.followSpeed,a.followEasing)}).bind("resize."+e,function(){w=y.innerHeight||d.height();u=y.innerWidth||d.width();if(B=E())clearTimeout(I),I=setTimeout(function(){D();c.dequeue().each(function(){f?b(this).css({left:v,top:x}):b(this).animate({left:a.follow[0]?l(!0):"auto",top:a.follow[1]?n(!0):"auto"},a.followSpeed,a.followEasing)})},50)});a.escClose&&g.bind("keydown."+e,function(a){27==a.which&&q()})}function H(b){function d(e){c.css({display:"block",opacity:1}).animate(e,a.speed,a.easing,function(){J(b)})}switch(b?a.transition:a.transitionClose||a.transition){case "slideIn":d({left:b?l(!(!a.follow[0]&&m||f)):g.scrollLeft()-(s||c.outerWidth(!0))-C});break;case "slideBack":d({left:b?l(!(!a.follow[0]&&m||f)):g.scrollLeft()+u+C});break;case "slideDown":d({top:b?n(!(!a.follow[1]&&p||f)):g.scrollTop()-(r||c.outerHeight(!0))-C});break;case "slideUp":d({top:b?n(!(!a.follow[1]&&p||f)):g.scrollTop()+w+C});break;default:c.stop().fadeTo(a.speed,b?1:0,function(){J(b)})}}function J(b){b?(L(),k(F),a.autoClose&&setTimeout(q,a.autoClose)):(c.hide(),k(a.onClose),a.loadUrl&&(a.contentContainer.empty(),c.css({height:"auto",width:"auto"})))}function l(a){return a?v+g.scrollLeft():v}function n(a){return a?x+g.scrollTop():x}function k(a){b.isFunction(a)&&a.call(c)}function D(){x=p?a.position[1]:Math.max(0,(w-c.outerHeight(!0))/2-a.amsl);v=m?a.position[0]:(u-c.outerWidth(!0))/2;B=E()}function E(){return w>c.outerHeight(!0)&&u>c.outerWidth(!0)}b.isFunction(z)&&(F=z,z=null);var a=b.extend({},b.fn.bPopup.defaults,z);a.scrollBar||b("html").css("overflow","hidden");var c=this,g=b(document),y=window,d=b(y),w=y.innerHeight||d.height(),u=y.innerWidth||d.width(),M=/OS 6(_\d)+/i.test(navigator.userAgent),C=200,t=0,e,B,p,m,f,x,v,r,s,I;c.close=function(){a=this.data("bPopup");e="__b-popup"+d.data("bPopup")+"__";q()};return c.each(function(){b(this).data("bPopup")||(k(a.onOpen),t=(d.data("bPopup")||0)+1,e="__b-popup"+t+"__",p="auto"!==a.position[1],m="auto"!==a.position[0],f="fixed"===a.positionStyle,r=c.outerHeight(!0),s=c.outerWidth(!0),a.loadUrl?K():A())})};b.fn.bPopup.defaults={amsl:50,appending:!0,appendTo:"body",autoClose:!1,closeClass:"b-close",content:"ajax",contentContainer:!1,easing:"swing",escClose:!0,follow:[!0,!0],followEasing:"swing",followSpeed:500,iframeAttr:'scrolling="no" frameborder="0"',loadCallback:!1,loadData:!1,loadUrl:!1,modal:!0,modalClose:!0,modalColor:"#000",onClose:!1,onOpen:!1,opacity:0.7,position:["auto","auto"],positionStyle:"absolute",scrollBar:!0,speed:250,transition:"fadeIn",transitionClose:!1,zIndex:9997}})(jQuery);
-</script>
-<script type="text/javascript">
+</script> <script type="text/javascript">
  // Semicolon (;) to ensure closing of earlier scripting
     // Encapsulation
     // $ is assigned to jQuery
@@ -559,8 +580,7 @@ function chooseOption(type, value) {
                });
 
         })(jQuery);
-</script>
-<script type="text/javascript">
+</script> <script type="text/javascript">
 /*! ResponsiveSlides.js v1.54
 * http://responsiveslides.com
 * http://viljamis.com
@@ -952,8 +972,7 @@ function chooseOption(type, value) {
 
   };
 })(jQuery, this, 0);
-</script>
-<script>
+</script> <script>
   $(function() {
     $(".rslides").responsiveSlides({
      "auto": false,
@@ -961,8 +980,7 @@ function chooseOption(type, value) {
      
     });
   });
-</script>
-<script type="text/javascript">
+</script> <script type="text/javascript">
 /*================================================================================
  * @name: bPopup - if you can't get it up, use bPopup
  * @author: (c)Bjoern Klinggaard (twitter@bklinggaard)
@@ -970,8 +988,7 @@ function chooseOption(type, value) {
  * @version: 0.9.4.min
  ================================================================================*/
  (function(b){b.fn.bPopup=function(z,F){function K(){a.contentContainer=b(a.contentContainer||c);switch(a.content){case "iframe":var h=b('<iframe class="b-iframe" '+a.iframeAttr+"></iframe>");h.appendTo(a.contentContainer);r=c.outerHeight(!0);s=c.outerWidth(!0);A();h.attr("src",a.loadUrl);k(a.loadCallback);break;case "image":A();b("<img />").load(function(){k(a.loadCallback);G(b(this))}).attr("src",a.loadUrl).hide().appendTo(a.contentContainer);break;default:A(),b('<div class="b-ajax-wrapper"></div>').load(a.loadUrl,a.loadData,function(){k(a.loadCallback);G(b(this))}).hide().appendTo(a.contentContainer)}}function A(){a.modal&&b('<div class="b-modal '+e+'"></div>').css({backgroundColor:a.modalColor,position:"fixed",top:0,right:0,bottom:0,left:0,opacity:0,zIndex:a.zIndex+t}).appendTo(a.appendTo).fadeTo(a.speed,a.opacity);D();c.data("bPopup",a).data("id",e).css({left:"slideIn"==a.transition||"slideBack"==a.transition?"slideBack"==a.transition?g.scrollLeft()+u:-1*(v+s):l(!(!a.follow[0]&&m||f)),position:a.positionStyle||"absolute",top:"slideDown"==a.transition||"slideUp"==a.transition?"slideUp"==a.transition?g.scrollTop()+w:x+-1*r:n(!(!a.follow[1]&&p||f)),"z-index":a.zIndex+t+1}).each(function(){a.appending&&b(this).appendTo(a.appendTo)});H(!0)}function q(){a.modal&&b(".b-modal."+c.data("id")).fadeTo(a.speed,0,function(){b(this).remove()});a.scrollBar||b("html").css("overflow","auto");b(".b-modal."+e).unbind("click");g.unbind("keydown."+e);d.unbind("."+e).data("bPopup",0<d.data("bPopup")-1?d.data("bPopup")-1:null);c.undelegate(".bClose, ."+a.closeClass,"click."+e,q).data("bPopup",null);H();return!1}function G(h){var b=h.width(),e=h.height(),d={};a.contentContainer.css({height:e,width:b});e>=c.height()&&(d.height=c.height());b>=c.width()&&(d.width=c.width());r=c.outerHeight(!0);s=c.outerWidth(!0);D();a.contentContainer.css({height:"auto",width:"auto"});d.left=l(!(!a.follow[0]&&m||f));d.top=n(!(!a.follow[1]&&p||f));c.animate(d,250,function(){h.show();B=E()})}function L(){d.data("bPopup",t);c.delegate(".bClose, ."+a.closeClass,"click."+e,q);a.modalClose&&b(".b-modal."+e).css("cursor","pointer").bind("click",q);M||!a.follow[0]&&!a.follow[1]||d.bind("scroll."+e,function(){B&&c.dequeue().animate({left:a.follow[0]?l(!f):"auto",top:a.follow[1]?n(!f):"auto"},a.followSpeed,a.followEasing)}).bind("resize."+e,function(){w=y.innerHeight||d.height();u=y.innerWidth||d.width();if(B=E())clearTimeout(I),I=setTimeout(function(){D();c.dequeue().each(function(){f?b(this).css({left:v,top:x}):b(this).animate({left:a.follow[0]?l(!0):"auto",top:a.follow[1]?n(!0):"auto"},a.followSpeed,a.followEasing)})},50)});a.escClose&&g.bind("keydown."+e,function(a){27==a.which&&q()})}function H(b){function d(e){c.css({display:"block",opacity:1}).animate(e,a.speed,a.easing,function(){J(b)})}switch(b?a.transition:a.transitionClose||a.transition){case "slideIn":d({left:b?l(!(!a.follow[0]&&m||f)):g.scrollLeft()-(s||c.outerWidth(!0))-C});break;case "slideBack":d({left:b?l(!(!a.follow[0]&&m||f)):g.scrollLeft()+u+C});break;case "slideDown":d({top:b?n(!(!a.follow[1]&&p||f)):g.scrollTop()-(r||c.outerHeight(!0))-C});break;case "slideUp":d({top:b?n(!(!a.follow[1]&&p||f)):g.scrollTop()+w+C});break;default:c.stop().fadeTo(a.speed,b?1:0,function(){J(b)})}}function J(b){b?(L(),k(F),a.autoClose&&setTimeout(q,a.autoClose)):(c.hide(),k(a.onClose),a.loadUrl&&(a.contentContainer.empty(),c.css({height:"auto",width:"auto"})))}function l(a){return a?v+g.scrollLeft():v}function n(a){return a?x+g.scrollTop():x}function k(a){b.isFunction(a)&&a.call(c)}function D(){x=p?a.position[1]:Math.max(0,(w-c.outerHeight(!0))/2-a.amsl);v=m?a.position[0]:(u-c.outerWidth(!0))/2;B=E()}function E(){return w>c.outerHeight(!0)&&u>c.outerWidth(!0)}b.isFunction(z)&&(F=z,z=null);var a=b.extend({},b.fn.bPopup.defaults,z);a.scrollBar||b("html").css("overflow","hidden");var c=this,g=b(document),y=window,d=b(y),w=y.innerHeight||d.height(),u=y.innerWidth||d.width(),M=/OS 6(_\d)+/i.test(navigator.userAgent),C=200,t=0,e,B,p,m,f,x,v,r,s,I;c.close=function(){a=this.data("bPopup");e="__b-popup"+d.data("bPopup")+"__";q()};return c.each(function(){b(this).data("bPopup")||(k(a.onOpen),t=(d.data("bPopup")||0)+1,e="__b-popup"+t+"__",p="auto"!==a.position[1],m="auto"!==a.position[0],f="fixed"===a.positionStyle,r=c.outerHeight(!0),s=c.outerWidth(!0),a.loadUrl?K():A())})};b.fn.bPopup.defaults={amsl:50,appending:!0,appendTo:"body",autoClose:!1,closeClass:"b-close",content:"ajax",contentContainer:!1,easing:"swing",escClose:!0,follow:[!0,!0],followEasing:"swing",followSpeed:500,iframeAttr:'scrolling="no" frameborder="0"',loadCallback:!1,loadData:!1,loadUrl:!1,modal:!0,modalClose:!0,modalColor:"#000",onClose:!1,onOpen:!1,opacity:0.7,position:["auto","auto"],positionStyle:"absolute",scrollBar:!0,speed:250,transition:"fadeIn",transitionClose:!1,zIndex:9997}})(jQuery);
-</script>
-<script type="text/javascript">
+</script> <script type="text/javascript">
  // Semicolon (;) to ensure closing of earlier scripting
     // Encapsulation
     // $ is assigned to jQuery
@@ -1001,22 +1018,7 @@ function chooseOption(type, value) {
                });
 
         })(jQuery);
-</script>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title></title>
-<meta name="description" content="">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="/cm/style.min.css">
-<link rel="icon" type="image/ico" href="/cm/80S.ico">
-<link href="http://fonts.googleapis.com/css?family=Lato:900,700italic,400,400italic,700" rel="stylesheet" type="text/css">
-<link href="https://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700italic,400,600,700" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="https://apis.google.com/js/platform.js"></script>
-<!--[if lt IE 7]>
-            <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
-        <![endif]-->
-<script type="text/javascript" src="https://www.80spurple.com/cm/colorbox.js"></script>
-<script>
+</script> <meta charset="utf-8"> <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> <title></title> <meta name="description" content=""> <meta name="viewport" content="width=device-width, initial-scale=1"> <link rel="stylesheet" href="/cm/style.min.css"> <link rel="icon" type="image/ico" href="/cm/80S.ico"> <link href="http://fonts.googleapis.com/css?family=Lato:900,700italic,400,400italic,700" rel="stylesheet" type="text/css"> <link href="https://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700italic,400,600,700" rel="stylesheet" type="text/css"> <script type="text/javascript" src="https://apis.google.com/js/platform.js"></script> <!--[if lt IE 7]><p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p><![endif]--> <script type="text/javascript" src="https://www.80spurple.com/cm/colorbox.js"></script> <script>
 
 $("document").ready(function (){ 
 
@@ -1036,65 +1038,7 @@ $("document").ready(function (){
  });
 
 
-</script>
-<style>#colorbox,#cboxOverlay,#cboxWrapper{position:fixed;top:0;z-index:9999;overflow:visible;}#cboxOverlay{position:fixed;width:100%;height:100%;}#cboxMiddleLeft,#cboxBottomLeft{clear:left;}#cboxContent{position:relative;}#cboxLoadedContent{}#cboxTitle{margin:0;}#cboxLoadingOverlay,#cboxLoadingGraphic{position:absolute;top:0;left:0;width:100%;}#cboxPrevious,#cboxNext,#cboxClose,#cboxSlideshow{cursor:pointer;}.cboxPhoto{float:left;margin:auto;border:0;display:block;}.cboxIframe{width:100%;height:100%;display:block;border:0;}#cboxOverlay{background:#000;opacity:0.3!important;}#colorbox{background:none;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;}#cboxTopLeft{width:14px;height:14px;}#cboxTopCenter{height:14px;}#cboxTopRight{width:14px;height:14px;}#cboxBottomLeft{width:14px;height:43px;}#cboxBottomCenter{height:43px;}#cboxBottomRight{width:14px;height:43px;}#cboxMiddleLeft{width:14px;}#cboxMiddleRight{width:14px;}#cboxContent{overflow:visible;top:78px;}#cboxLoadedContent{margin-bottom:5px;overflow:inherit!important;}#cboxLoadingOverlay{background:url("/cm/loading_background.png") no-repeat center center;}#cboxLoadingGraphic{background:url("/cm/loading.gif") no-repeat center center;}#cboxTitle{position:absolute;bottom:-25px;left:0;text-align:center;width:100%;font-weight:bold;color:#7C7C7C;}#cboxCurrent{position:absolute;bottom:-25px;left:58px;font-weight:bold;color:#7C7C7C;}#cboxPrevious,#cboxNext,#cboxClose,#cboxSlideshow{position:relative;bottom:194px;bottom:40px;background-image:url("/cm/close1.png");width:29px;height:29px;text-indent:-9999px;}#cboxPrevious{left:0px;background-position:-51px -25px;}#cboxPrevious.hover{background-position:-51px 0px;}#cboxNext{left:27px;background-position:-75px -25px;}#cboxNext.hover{background-position:-75px 0px;}#cboxClose{background-position:-24px 57px;right:-308px;float:right;}#cboxClose.hover{background-position:-24px 57px;}.cboxSlideshow_on #cboxSlideshow{background-position:-125px 0px;right:27px;}.cboxSlideshow_on #cboxSlideshow.hover{background-position:-150px 0px;}.cboxSlideshow_off #cboxSlideshow{background-position:-150px -25px;right:27px;}.cboxSlideshow_off #cboxSlideshow.hover{background-position:-125px 0px;}-->
- 
-
-
-#subscribe_popup,.overlays {
-background-image: url("/cm/banner.png");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: 100% auto;
-    width: 88%;
-    height: 500px;position: fixed;left: 77px;top:48px;
-}@media only screen and (min-width: 980px) and (max-width: 1280px){#cboxPrevious,#cboxNext,#cboxClose,#cboxSlideshow{bottom:30px;}#cboxClose{background-position:-24px 57px;right:-283px;}}@media only screen and (min-width: 800px) and (max-width: 980px) {#cboxClose{background-position:-24px 57px;float:right;right:-127px;}#cboxPrevious,#cboxNext,#cboxClose,#cboxSlideshow{bottom:-34px;}#subscribe_popup,.overlays{background-image:url("/cm/banner.png");background-repeat:no-repeat;background-position:center;background-size:100% auto;width:84%;height:500px;position:fixed;left:77px;top:48px;}.popup2{margin-top:22%!important;position:relative;width:100%;}}@media only screen and (min-width: 768px) and (max-width: 800px) {#cboxClose{background-position:-24px 57px;right:-8%;}#cboxPrevious,#cboxNext,#cboxClose,#cboxSlideshow{bottom:-69px;}#subscribe_popup,.overlays{width:81%;}.popup2{margin-top:28%!important;}}@media only screen and (min-width: 586px) and (max-width: 768px) {#cboxClose{right:9%;}#cboxPrevious,#cboxNext,#cboxClose,#cboxSlideshow{bottom:2px;}#subscribe_popup,.overlays{background:none repeat scroll 0 0 #FFFFFF;width:81%;left:11%;position:relative;top:0;height:auto;}#cboxContent{overflow:visible;top:0px;}.popup2{margin-top:30%!important;}}@media only screen and (min-width: 480px) and (max-width: 586px) {#cboxClose{right:41%;}#cboxPrevious,#cboxNext,#cboxClose,#cboxSlideshow{bottom:-95px;}#subscribe_popup,.overlays{background:none repeat scroll 0 0 #FFFFFF;width:81%;left:6%;position:relative;top:0;height:auto;}#cboxContent{overflow:visible;top:0px;}.popup2{margin-top:28%!important;width:81%!important;position:relative;}}@media only screen and (min-width: 320px) and (max-width: 480px) {#cboxPrevious,#cboxNext,#cboxClose,#cboxSlideshow{bottom:-62px;}#cboxClose{right:48%;}#subscribe_popup,.overlays{background-image:none;width:89%;left:6%;position:fixed;top:0;height:auto;}#cboxContent{overflow:visible;top:0px;}.popup2{margin-top:28%!important;width:97%;position:relative;background:none repeat scroll 0 0 #FFFFFF;}}@media only screen and (min-width: 320px) and (max-width: 360px) {#cboxPrevious,#cboxNext,#cboxClose,#cboxSlideshow{bottom:-77px;}#cboxClose{right:42%;}}@media only screen and (min-width: 240px) and (max-width: 320px) {#cboxPrevious,#cboxNext,#cboxClose,#cboxSlideshow{bottom:-62px;}#cboxClose{right:48%;}#subscribe_popup,.overlays{background-image:none;width:89%;left:6%;position:fixed;top:0;height:auto;}#cboxContent{overflow:visible;top:0px;}.popup2{margin-top:28%!important;width:97%;position:relative;background:none repeat scroll 0 0 #FFFFFF;}}.popup2{margin-top:14%;position:relative;width:100%;}.opetion{margin-top:10px;}.opetion>label{display:inline;}.dmsg{text-transform:uppercase;margin-top:1%;}</style>
-<style>.label{display:block!important;margin-bottom:5px;}</style>
-<div style="display:none">
-<div style="width:auto;height:auto;overflow: auto;position:relative;"><div id="subscribe_popup">
-<div class="popup1">
-<form action="https://madmimi.com/signups/subscribe/93799" id="mad_mimi_signup_form" method="post" target="_blank"><input type="hidden" name="csrftoken" value="5300e94b6c024df4b5d20b32cd6949ff">
-<div class="messagebox notice" style="display: none;"></div>
-<center>
-<div class="popup2">
-<div id="newsletter-join">
-<div style="margin-top: 37px;">
-<div class="required">
-<label class="titel1" for="signup_email">Email</label>
-<input class="required" data-invalid-email="This field is invalid" data-required-field="This field is required" id="signup_email" name="signup[email]" placeholder="you@example.com" type="text">
-</div>
-<div class="dmsg">receive weekly updates on:</div>
-<div class="opetion">
-<div class="mimi_field checkgroup" id="signup_audience_lists">
-<div class="check" style="display:inline-block">
-<input id="list_885986" name="lists[]" type="checkbox" value="885986">
-<label for="list_885986">General</label>
-</div>
-<div class="check" style="display:inline-block">
-<input id="list_510010" name="lists[]" type="checkbox" value="510010">
-<label for="list_510010">Mens</label>
-</div>
-<div class="check" style="display:inline-block">
-<input id="list_510015" name="lists[]" type="checkbox" value="510015">
-<label for="list_510015">Womens</label>
-</div>
-</div>
-</div>
-<div class="mimi_field_feedback"></div><span class="mimi_funk"></span>
-<div class="form-item" style=" margin-top: 1%;">
-<input type="submit" id="continue-submit" value="Subscribe">
-</div>
-<div class="dmsg">your code will be emailed to you </div>
-</div>
-</div>
-</div></center>
-</form></div>
-
-</div>
-</div>
-</div>
-
-<script type="text/javascript">
+</script> <style>#colorbox,#cboxOverlay,#cboxWrapper{position:fixed;top:0;z-index:9999;overflow:visible}#cboxOverlay{position:fixed;width:100%;height:100%}#cboxMiddleLeft,#cboxBottomLeft{clear:left}#cboxContent{position:relative}#cboxTitle{margin:0}#cboxLoadingOverlay,#cboxLoadingGraphic{position:absolute;top:0;left:0;width:100%}#cboxPrevious,#cboxNext,#cboxClose,#cboxSlideshow{cursor:pointer}.cboxPhoto{float:left;margin:auto;border:0;display:block}.cboxIframe{width:100%;height:100%;display:block;border:0}#cboxOverlay{background:#000;opacity:.3!important}#colorbox{background:0;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px}#cboxTopLeft{width:14px;height:14px}#cboxTopCenter{height:14px}#cboxTopRight{width:14px;height:14px}#cboxBottomLeft{width:14px;height:43px}#cboxBottomCenter{height:43px}#cboxBottomRight{width:14px;height:43px}#cboxMiddleLeft{width:14px}#cboxMiddleRight{width:14px}#cboxContent{overflow:visible;top:78px}#cboxLoadedContent{margin-bottom:5px;overflow:inherit!important}#cboxLoadingOverlay{background:url("/cm/loading_background.png") no-repeat center center}#cboxLoadingGraphic{background:url("/cm/loading.gif") no-repeat center center}#cboxTitle{position:absolute;bottom:-25px;left:0;text-align:center;width:100%;font-weight:bold;color:#7c7c7c}#cboxCurrent{position:absolute;bottom:-25px;left:58px;font-weight:bold;color:#7c7c7c}#cboxPrevious,#cboxNext,#cboxClose,#cboxSlideshow{position:relative;bottom:194px;bottom:40px;background-image:url("/cm/close1.png");width:29px;height:29px;text-indent:-9999px}#cboxPrevious{left:0;background-position:-51px -25px}#cboxPrevious.hover{background-position:-51px 0}#cboxNext{left:27px;background-position:-75px -25px}#cboxNext.hover{background-position:-75px 0}#cboxClose{background-position:-24px 57px;right:-308px;float:right}#cboxClose.hover{background-position:-24px 57px}.cboxSlideshow_on #cboxSlideshow{background-position:-125px 0;right:27px}.cboxSlideshow_on #cboxSlideshow.hover{background-position:-150px 0}.cboxSlideshow_off #cboxSlideshow{background-position:-150px -25px;right:27px}.cboxSlideshow_off #cboxSlideshow.hover{background-position:-125px 0}-->#subscribe_popup,.overlays{background-image:url("/cm/banner.png");background-repeat:no-repeat;background-position:center;background-size:100% auto;width:88%;height:500px;position:fixed;left:77px;top:48px}@media only screen and (min-width:980px) and (max-width:1280px){#cboxPrevious,#cboxNext,#cboxClose,#cboxSlideshow{bottom:30px}#cboxClose{background-position:-24px 57px;right:-283px}}@media only screen and (min-width:800px) and (max-width:980px){#cboxClose{background-position:-24px 57px;float:right;right:-127px}#cboxPrevious,#cboxNext,#cboxClose,#cboxSlideshow{bottom:-34px}#subscribe_popup,.overlays{background-image:url("/cm/banner.png");background-repeat:no-repeat;background-position:center;background-size:100% auto;width:84%;height:500px;position:fixed;left:77px;top:48px}.popup2{margin-top:22%!important;position:relative;width:100%}}@media only screen and (min-width:768px) and (max-width:800px){#cboxClose{background-position:-24px 57px;right:-8%}#cboxPrevious,#cboxNext,#cboxClose,#cboxSlideshow{bottom:-69px}#subscribe_popup,.overlays{width:81%}.popup2{margin-top:28%!important}}@media only screen and (min-width:586px) and (max-width:768px){#cboxClose{right:9%}#cboxPrevious,#cboxNext,#cboxClose,#cboxSlideshow{bottom:2px}#subscribe_popup,.overlays{background:none repeat scroll 0 0 #fff;width:81%;left:11%;position:relative;top:0;height:auto}#cboxContent{overflow:visible;top:0}.popup2{margin-top:30%!important}}@media only screen and (min-width:480px) and (max-width:586px){#cboxClose{right:41%}#cboxPrevious,#cboxNext,#cboxClose,#cboxSlideshow{bottom:-95px}#subscribe_popup,.overlays{background:none repeat scroll 0 0 #fff;width:81%;left:6%;position:relative;top:0;height:auto}#cboxContent{overflow:visible;top:0}.popup2{margin-top:28%!important;width:81%!important;position:relative}}@media only screen and (min-width:320px) and (max-width:480px){#cboxPrevious,#cboxNext,#cboxClose,#cboxSlideshow{bottom:-62px}#cboxClose{right:48%}#subscribe_popup,.overlays{background-image:none;width:89%;left:6%;position:fixed;top:0;height:auto}#cboxContent{overflow:visible;top:0}.popup2{margin-top:28%!important;width:97%;position:relative;background:none repeat scroll 0 0 #fff}}@media only screen and (min-width:320px) and (max-width:360px){#cboxPrevious,#cboxNext,#cboxClose,#cboxSlideshow{bottom:-77px}#cboxClose{right:42%}}@media only screen and (min-width:240px) and (max-width:320px){#cboxPrevious,#cboxNext,#cboxClose,#cboxSlideshow{bottom:-62px}#cboxClose{right:48%}#subscribe_popup,.overlays{background-image:none;width:89%;left:6%;position:fixed;top:0;height:auto}#cboxContent{overflow:visible;top:0}.popup2{margin-top:28%!important;width:97%;position:relative;background:none repeat scroll 0 0 #fff}}.popup2{margin-top:14%;position:relative;width:100%}.opetion{margin-top:10px}.opetion>label{display:inline}.dmsg{text-transform:uppercase;margin-top:1%}</style> <style>.label{display:block!important;margin-bottom:5px}</style> <div style="display:none"> <div style="width:auto;height:auto;overflow: auto;position:relative;"><div id="subscribe_popup"> <div class="popup1"> <form action="https://madmimi.com/signups/subscribe/93799" id="mad_mimi_signup_form" method="post" target="_blank"><input type="hidden" name="csrftoken" value="a6a19c50af4044bebed0246cd95d5eef"> <div class="messagebox notice" style="display: none;"></div> <center> <div class="popup2"> <div id="newsletter-join"> <div style="margin-top: 37px;"> <div class="required"> <label class="titel1" for="signup_email">Email</label> <input class="required" data-invalid-email="This field is invalid" data-required-field="This field is required" id="signup_email" name="signup[email]" placeholder="you@example.com" type="text"> </div> <div class="dmsg">receive weekly updates on:</div> <div class="opetion"> <div class="mimi_field checkgroup" id="signup_audience_lists"> <div class="check" style="display:inline-block"> <input id="list_885986" name="lists[]" type="checkbox" value="885986"> <label for="list_885986">General</label> </div> <div class="check" style="display:inline-block"> <input id="list_510010" name="lists[]" type="checkbox" value="510010"> <label for="list_510010">Mens</label> </div> <div class="check" style="display:inline-block"> <input id="list_510015" name="lists[]" type="checkbox" value="510015"> <label for="list_510015">Womens</label> </div> </div> </div> <div class="mimi_field_feedback"></div><span class="mimi_funk"></span> <div class="form-item" style=" margin-top: 1%;"> <input type="submit" id="continue-submit" value="Subscribe"> </div> <div class="dmsg">your code will be emailed to you </div> </div> </div> </div></center> </form></div>  </div> </div> </div>  <script type="text/javascript">
 (function() {
   var form = document.getElementById("mad_mimi_signup_form"),
       submit = document.getElementById("webform_submit_button"),
@@ -1210,8 +1154,7 @@ background-image: url("/cm/banner.png");
     }
   }
 })();
-</script>
-<script type="text/javascript" language="Javascript">
+</script> <script type="text/javascript" language="Javascript">
 var count;
 var url =
 'https://www.emjcd.com/tags/c?containerTagId=4021&CID=1508538&TYPE=320118&CURRENCY=USD'
@@ -1226,370 +1169,31 @@ url += '&QTY' + count + '=' + OrderDetails[count - 1][6];
 }
 document.write('<iframe height="1" width="1" frameborder="0" scrolling="no" 
 name="cj_conversion" src="' + url + '"></iframe>');
-</script>
-<script type="text/javascript">
+</script> <script type="text/javascript">
 var pkBaseURL = (("https:" == document.location.protocol) ? "https://" : "http://");
 document.write(unescape("%3Cscript src='" + pkBaseURL + "s3.amazonaws.com/aascript/80spurple.com/abandonaid-80spurple.com.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://s3.amazonaws.com/aascript/80spurple.com/abandonaid-80spurple.com.js" type="text/javascript"></script>
-<div class="snap-drawers">
-<div class="snap-drawer snap-drawer-left">
-<div class="mb50">
-<div class="snap-drawer-search">
-<form method="GET" action="/jzv/search" name="ProductSearchForm" class="navbar-search">
-<input type="text" id="searchQ" name="sq" class="input-block-level search" placeholder="SEARCH">
-<span class="glyphicon glyphicon-search"></span>
-</form>
-</div>
-<div class="mainleftnav">
-<div class="menu-vertical-item level0">
-<a href="/women">Women</a>
-</div>
-<div class="menu-vertical-item level0">
-<a href="/men">Men</a>
-</div>
-<div class="menu-vertical-item level0">
-<a href="/eyewear">Eyewear</a>
-</div>
-<div class="menu-vertical-item level0">
-<a href="/jzv/inf/lookbook">Lookbook</a>
-</div>
-<div class="menu-vertical-item level0">
-<a href="http://blog.80spurple.com/">Blog</a>
-</div>
-<div class="menu-vertical-item level0">
-<a href="http://shop.80spurple.com/jzv/inf/project">Project</a>
-</div>
-<div class="menu-vertical-item level0">
-<a href="http://shop.80spurple.com/jzv/search?p=YzE9ODg0">Gift Card</a>
-</div>
-<div class="menu-vertical-item level0">
-</div>
-<div class="menu-vertical-item level0">
-<a href="http://instagram.com/80spurple">@80spurple</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div id="newsletter-popup" class="white-popup mfp-hide">
-<p>
-Sign up for news and updates and receive up-to-the-moment information about new arrivals, designer collections, trend reports, promotions, giveaways and more!
-</p>
-<form name="SubscriptionForm" method="post" action="/jzv/newsletter/subscribe_email"><input type="hidden" name="csrftoken" value="5300e94b6c024df4b5d20b32cd6949ff">
-<input type="hidden" name="p" value="">
-<div class="form-item">
-E-mail Address
-</div>
-<div class="form-item">
-<input type="text" name="email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Keep in Touch'">
-</div>
-<div class="form-item">
-<input type="submit" value="Subscribe" id="continue-submit">
-</div>
-</form>
-</div>
-<div id="content" class="snap-content">
-<div class="snap-content-wrapper">
-<div id="offcanvasdim">
-</div>
-<div class="altheader">
-<div id="open-left" class="open-left">
-<ul class="open-left-links">
-<li class="open-left-link unselectable">
-<span>
-<img class="" src="/cm/icon-menu.svg">
-</span>
-</li>
-</ul>
-</div>
-<div class="altheader-logo">
-<a href="http://www.80spurple.com">
-<img src="/cm/minilogo.svg">
-</a>
-</div>
-<div class="altheader-nav">
-<ul class="altheader-links">
-<li class="toggleaccount-link unselectable">
-<span>
-<span class="glyphicon glyphicon-user"></span>
-</span>
-</li>
-<li class="togglecart-link unselectable">
-<span class="glyphicon glyphicon-shopping-cart"></span>
-</li>
-</ul>
-</div>
-</div>
-<div class="top-wrapper">
-<div class="content-wrapper">
-<div class="container-fluid">
-<div class="row-fluid header">
-<div class="header-container">
-<div class="headernav">
-<div class="span12">
-<div class="headernav-container">
-<div class="headernav-blocks">
-<ul class="headernav-links">
-<li>
-<a href="#newsletter-popup" class="newsletter-popup-link">
-Newsletter
-</a>
-</li>
-<li>
-<a href="/jzv/account/view?next=account">
-SIGN IN
-</a>
-</li>
-<li id="basket">
-<a href="/jzv/cart/view">
-Shopping Bag ( 0 )
-</a>
-</li>
-</ul>
-</div>
-<div class="headernav-blocks">
-<form method="GET" action="/jzv/search" name="ProductSearchForm" class="altnavbar-search">
-<input type="text" id="searchQ" name="sq" class="search" placeholder="SEARCH">
-</form>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="container-fluid altheader-toggle">
-<div id="togglesearch">
-<div class="toggle-container">
-<form method="GET" action="/jzv/search" name="ProductSearchForm" class="navbar-search">
-<input type="text" id="searchQ" name="sq" class="input-block-level search" placeholder="SEARCH">
-<span class="glyphicon glyphicon-search"></span>
-</form>
-</div>
-</div>
-<div id="togglecart">
-<div class="toggle-container">
-<a href="/jzv/cart/view">
-Shopping Bag ( 0 )
-</a>
-</div>
-</div>
-<div id="toggleaccount">
-<div class="toggle-container">
-<ul class="toggleaccount-list">
-<li>
-<a href="/jzv/account/view?next=account">
-SIGN IN
-</a>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="container-fluid">
-<div class="row-fluid middle">
-<div class="middle-container">
-<div class="sidebar">
-<div class="header-logo">
-<a href="/">
-<img src="http://www.80spurple.com/cm/img_logo_80s.png">
-</a>
-</div>
-<div class="sidenav sidenav-main">
-<div class="mainleftnav">
-<div class="menu-vertical-item level0">
-<a href="/women">Women</a>
-</div>
-<div class="menu-vertical-item level0">
-<a href="/men">Men</a>
-</div>
-<div class="menu-vertical-item level0">
-<a href="/eyewear">Eyewear</a>
-</div>
-<div class="menu-vertical-item level0">
-<a href="/jzv/inf/lookbook">Lookbook</a>
-</div>
-<div class="menu-vertical-item level0">
-<a href="http://blog.80spurple.com/">Blog</a>
-</div>
-<div class="menu-vertical-item level0">
-<a href="http://shop.80spurple.com/jzv/inf/project">Project</a>
-</div>
-<div class="menu-vertical-item level0">
-<a href="http://shop.80spurple.com/jzv/search?p=YzE9ODg0">Gift Card</a>
-</div>
-<div class="menu-vertical-item level0">
-</div>
-<div class="menu-vertical-item level0">
-<a href="http://instagram.com/80spurple">@80spurple</a>
-</div>
-</div>
-</div>
-</div>
-<div class="span12 content">
-<div class="body-container">
+</script><script src="https://s3.amazonaws.com/aascript/80spurple.com/abandonaid-80spurple.com.js" type="text/javascript"></script> <div class="snap-drawers"> <div class="snap-drawer snap-drawer-left"> <div class="mb50"> <div class="snap-drawer-search"> <form method="GET" action="/jzv/search" name="ProductSearchForm" class="navbar-search"> <input type="text" id="searchQ" name="sq" class="input-block-level search" placeholder="SEARCH"> <span class="glyphicon glyphicon-search"></span> </form> </div> <div class="mainleftnav"> <div class="menu-vertical-item level0"> <a href="/women">Women</a> </div> <div class="menu-vertical-item level0"> <a href="/men">Men</a> </div> <div class="menu-vertical-item level0"> <a href="/eyewear">Eyewear</a> </div> <div class="menu-vertical-item level0"> <a href="/jzv/inf/lookbook">Lookbook</a> </div> <div class="menu-vertical-item level0"> <a href="http://blog.80spurple.com/">Blog</a> </div> <div class="menu-vertical-item level0"> <a href="http://shop.80spurple.com/jzv/inf/project">Project</a> </div> <div class="menu-vertical-item level0"> <a href="http://shop.80spurple.com/jzv/search?p=YzE9ODg0">Gift Card</a> </div> <div class="menu-vertical-item level0"> </div> <div class="menu-vertical-item level0"> <a href="http://instagram.com/80spurple">@80spurple</a> </div> </div> </div> </div> </div> <div id="newsletter-popup" class="white-popup mfp-hide"> <p> Sign up for news and updates and receive up-to-the-moment information about new arrivals, designer collections, trend reports, promotions, giveaways and more! </p> <form name="SubscriptionForm" method="post" action="/jzv/newsletter/subscribe_email"><input type="hidden" name="csrftoken" value="a6a19c50af4044bebed0246cd95d5eef"> <input type="hidden" name="p" value=""> <div class="form-item"> E-mail Address </div> <div class="form-item"> <input type="text" name="email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Keep in Touch'"> </div> <div class="form-item"> <input type="submit" value="Subscribe" id="continue-submit"> </div> </form> </div> <div id="content" class="snap-content"> <div class="snap-content-wrapper"> <div id="offcanvasdim"> </div> <div class="altheader"> <div id="open-left" class="open-left"> <ul class="open-left-links"> <li class="open-left-link unselectable"> <span> <img class="" src="/cm/icon-menu.svg"> </span> </li> </ul> </div> <div class="altheader-logo"> <a href="http://www.80spurple.com"> <img src="/cm/minilogo.svg"> </a> </div> <div class="altheader-nav"> <ul class="altheader-links"> <li class="toggleaccount-link unselectable"> <span> <span class="glyphicon glyphicon-user"></span> </span> </li> <li class="togglecart-link unselectable"> <span class="glyphicon glyphicon-shopping-cart"></span> </li> </ul> </div> </div> <div class="top-wrapper"> <div class="content-wrapper"> <div class="container-fluid"> <div class="row-fluid header"> <div class="header-container"> <div class="headernav"> <div class="span12"> <div class="headernav-container"> <div class="headernav-blocks"> <ul class="headernav-links"> <li> <a href="#newsletter-popup" class="newsletter-popup-link"> Newsletter </a> </li> <li> <a href="/jzv/account/view?next=account"> SIGN IN </a> </li> <li id="basket"> <a href="/jzv/cart/view"> Shopping Bag ( 0 ) </a> </li> </ul> </div> <div class="headernav-blocks"> <form method="GET" action="/jzv/search" name="ProductSearchForm" class="altnavbar-search"> <input type="text" id="searchQ" name="sq" class="search" placeholder="SEARCH"> </form> </div> </div> </div> </div> </div> </div> </div> <div class="container-fluid altheader-toggle"> <div id="togglesearch"> <div class="toggle-container"> <form method="GET" action="/jzv/search" name="ProductSearchForm" class="navbar-search"> <input type="text" id="searchQ" name="sq" class="input-block-level search" placeholder="SEARCH"> <span class="glyphicon glyphicon-search"></span> </form> </div> </div> <div id="togglecart"> <div class="toggle-container"> <a href="/jzv/cart/view"> Shopping Bag ( 0 ) </a> </div> </div> <div id="toggleaccount"> <div class="toggle-container"> <ul class="toggleaccount-list"> <li> <a href="/jzv/account/view?next=account"> SIGN IN </a> </li> </ul> </div> </div> </div> <div class="container-fluid"> <div class="row-fluid middle"> <div class="middle-container"> <div class="sidebar"> <div class="header-logo"> <a href="/"> <img src="http://www.80spurple.com/cm/img_logo_80s.png"> </a> </div> <div class="sidenav sidenav-main"> <div class="mainleftnav"> <div class="menu-vertical-item level0"> <a href="/women">Women</a> </div> <div class="menu-vertical-item level0"> <a href="/men">Men</a> </div> <div class="menu-vertical-item level0"> <a href="/eyewear">Eyewear</a> </div> <div class="menu-vertical-item level0"> <a href="/jzv/inf/lookbook">Lookbook</a> </div> <div class="menu-vertical-item level0"> <a href="http://blog.80spurple.com/">Blog</a> </div> <div class="menu-vertical-item level0"> <a href="http://shop.80spurple.com/jzv/inf/project">Project</a> </div> <div class="menu-vertical-item level0"> <a href="http://shop.80spurple.com/jzv/search?p=YzE9ODg0">Gift Card</a> </div> <div class="menu-vertical-item level0"> </div> <div class="menu-vertical-item level0"> <a href="http://instagram.com/80spurple">@80spurple</a> </div> </div> </div> </div> <div class="span12 content"><div class="body-container">
 <div id="body" class="wrapper">
 <div id="leftWr">
 <div class="refine" style="">
 </div>
 </div>
-<div class="row">
-<div class="span6 info">
-<div class="inner">
-<div class="hd"><strong>Privacy Policy</strong></div>
-<div class="bd">
-<p>We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another site feature.</p>
-<p>When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously.<br> We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not used for marketing purposes.Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our websites.</p>
-<p>We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies,&nbsp;<a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">click here</a>.</p>
-<p>80's Purple works with <a href="http://www.adroll.com/">AdRoll retargeting</a>, who uses technology including web beacons and cookies to collect data about our website usage and to improve the effectiveness of our marketing. Data recorded through the use of this technology is aggregated and shared with us. No personally identifiable information about you is collected or shared by AdRoll with 80's Purple. You can opt-out of AdRoll and their partners by visiting <a href="http://www.adroll.com/about/privacy">this link</a>.</p>
-</div>
-</div>
-</div>
-</div>
+<div class="row"> <div class="span6 info"> <div class="inner"> <div class="hd"><strong>Privacy Policy</strong></div> <div class="bd"> <p>We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another site feature.</p> <p>When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously.<br> We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not used for marketing purposes.Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our websites.</p> <p>We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies,&nbsp;<a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">click here</a>.</p> <p>80's Purple works with <a href="http://www.adroll.com/">AdRoll retargeting</a>, who uses technology including web beacons and cookies to collect data about our website usage and to improve the effectiveness of our marketing. Data recorded through the use of this technology is aggregated and shared with us. No personally identifiable information about you is collected or shared by AdRoll with 80's Purple. You can opt-out of AdRoll and their partners by visiting <a href="http://www.adroll.com/about/privacy">this link</a>.</p> </div> </div> </div> </div>
 </div>
 </div>
 <div style="clear:both;display:block">
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="footer-wrapper">
-<div class="container-fluid">
-<div class="row-fluid bottom">
-<div class="bottom-container">
-<div class="scrollup-container">
-<a href="#" class="scrollup">
-<img src="http://www.80spurple.com/cm/scrollup.png">
-Back to top
-</a>
-</div>
-<div class="span12 footer-links-container-alt">
-<div class="row" style="border-top: solid 1px #ccc;padding-top: 10px;padding-bottom: 15px;">
-<div class="span8">
-<div class="row">
-<div class="footer-promo">
-<a href="/jzv/inf/promo"><img src="/cm/promo_footer.png"></a>
-</div>
-</div>
-<div class="row">
-<div class="footer-block-menu">
-Account
-<br>
-<a href="/jzv/account/view?next=account">
-My Account
-</a>
-<br>
-<a href="/jzv/account/view?next=account">
-Sign In
-</a>
-<br>
-<a href="/jzv/cart/view">
-Shopping Bag
-</a>
-<br>
-</div>
-<div class="footer-block-menu">
-<a href="/jzv/inf/customercare">
-Customer Care
-</a>
-<br>
-<a href="/pub/support/support.jsp">
-Contact
-</a>
-<br>
-<a href="/jzv/inf/careers">
-Careers
-</a>
-<br>
-<a href="/jzv/inf/affiliates">
-Affiliate Program
-</a>
-<br>
-</div>
-<div class="footer-block-menu">
-Connect With Us<br>
-<a href="https://www.facebook.com/80spurple" target="blank">
-Facebook
-</a>
-<br>
-<a href="http://instagram.com/80spurple" target="blank">
-Instagram
-</a>
-<br>
-<a href="https://www.pinterest.com/80spurple/" target="blank">
-Pinterest
-</a>
-<br>
-<a href="https://twitter.com/80spurple" target="blank">
-Twitter
-</a>
-<br>
-<a href="http://80spurple.tumblr.com/" target="blank">
-Tumblr
-</a>
-<br>
-</div>
-</div>
-</div>
-<div class="span4">
-<div class="footer-newsletter">
-<div>
-Newsletter Signup
-</div>
-<form class="footer-subscribe" name="SubscriptionForm" method="post" action="/jzv/newsletter/subscribe_email"><input type="hidden" name="csrftoken" value="5300e94b6c024df4b5d20b32cd6949ff">
-<input class="mb0" type="text" name="email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'KEEP IN TOUCH'">
-<input type="submit" value="Subscribe" class="form-submit">
-</form>
-</div>
-</div>
-</div>
-<div class="row pt40">
-<div class="span5">
-<div class="row">
-<div class="footer-block-menu mr20">
-<a href="/jzv/inf/terms">
-Terms &amp; Conditions
-</a>
-</div>
-<div class="footer-block-menu">
-<a href="/jzv/inf/privacy">
-Privacy Policy
-</a>
-</div>
-</div>
-</div>
-<div class="span7 footer-block-copyright">
-© 2014 80's Purple, Inc - All Rights Reserved
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<script src="/cm/script.min.js"></script>
-<script src="/cm/main.min.js"></script>
-<script src="//80spurple.com/jzv/js/respond.min.js"></script>
-<script>
+</div> </div> </div> </div> </div> </div> </div> <div class="footer-wrapper"> <div class="container-fluid"> <div class="row-fluid bottom"> <div class="bottom-container"> <div class="scrollup-container"> <a href="#" class="scrollup"> <img src="http://www.80spurple.com/cm/scrollup.png"> Back to top </a> </div> <div class="span12 footer-links-container-alt"> <div class="row" style="border-top: solid 1px #ccc;padding-top: 10px;padding-bottom: 15px;"> <div class="span8"> <div class="row"> <div class="footer-promo"> <a href="/jzv/inf/promo"><img src="/cm/promo_footer.png"></a> </div> </div> <div class="row"> <div class="footer-block-menu"> Account <br> <a href="/jzv/account/view?next=account"> My Account </a> <br> <a href="/jzv/account/view?next=account"> Sign In </a> <br> <a href="/jzv/cart/view"> Shopping Bag </a> <br> </div> <div class="footer-block-menu"> <a href="/jzv/inf/customercare"> Customer Care </a> <br> <a href="/pub/support/support.jsp"> Contact </a> <br> <a href="/jzv/inf/careers"> Careers </a> <br> <a href="/jzv/inf/affiliates"> Affiliate Program </a> <br> </div> <div class="footer-block-menu"> Connect With Us<br> <a href="https://www.facebook.com/80spurple" target="blank"> Facebook </a> <br> <a href="http://instagram.com/80spurple" target="blank"> Instagram </a> <br> <a href="https://www.pinterest.com/80spurple/" target="blank"> Pinterest </a> <br> <a href="https://twitter.com/80spurple" target="blank"> Twitter </a> <br> <a href="http://80spurple.tumblr.com/" target="blank"> Tumblr </a> <br> </div> </div> </div> <div class="span4"> <div class="footer-newsletter"> <div> Newsletter Signup </div> <form class="footer-subscribe" name="SubscriptionForm" method="post" action="/jzv/newsletter/subscribe_email"><input type="hidden" name="csrftoken" value="a6a19c50af4044bebed0246cd95d5eef"> <input class="mb0" type="text" name="email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'KEEP IN TOUCH'"> <input type="submit" value="Subscribe" class="form-submit"> </form> </div> </div> </div> <div class="row pt40"> <div class="span5"> <div class="row"> <div class="footer-block-menu mr20"> <a href="/jzv/inf/terms"> Terms &amp; Conditions </a> </div> <div class="footer-block-menu"> <a href="/jzv/inf/privacy"> Privacy Policy </a> </div> </div> </div> <div class="span7 footer-block-copyright"> © 2014 80's Purple, Inc - All Rights Reserved </div> </div> </div> </div> </div> </div> </div> </div> </div> <script src="/cm/script.min.js"></script> <script src="/cm/main.min.js"></script> <script src="//80spurple.com/jzv/js/respond.min.js"></script> <script>
 //<![CDATA[
 var bs_pinButtonURL = "http://3.bp.blogspot.com/-y3xzTGiGzH0/UK4XOaUpdaI/AAAAAAAADw8/Z1MH4Jr4Efo/s1600/pinterestx1_72.png";
 var bs_pinButtonPos = "center";
 var bs_pinPrefix = "";
 var bs_pinSuffix = "";
 //]]>
-</script>
-<script id="bs_pinOnHover" src="http://greenlava-code.googlecode.com/svn/trunk/publicscripts/bs_pinOnHoverv1_min.js" type="text/javascript">
+</script> <script id="bs_pinOnHover" src="http://greenlava-code.googlecode.com/svn/trunk/publicscripts/bs_pinOnHoverv1_min.js" type="text/javascript">
 // This Pinterest Hover Button is brought to you by bloggersentral.com.
 // Visit http://www.bloggersentral.com/2012/11/pinterest-pin-it-button-on-image-hover.html for details.
 // Feel free to use and share, but please keep this notice intact.
-</script>
-<script type="text/javascript">if(new Date().getTime() < 1421646118000){var fc_CSS=document.createElement('link');fc_CSS.setAttribute('rel','stylesheet');var isSecured = (window.location && window.location.protocol == 'https:');fc_CSS.setAttribute('type','text/css');fc_CSS.setAttribute('href',((isSecured)? 'https://d36mpcpuzc4ztk.cloudfront.net':'http://assets1.chat.freshdesk.com')+'/css/visitor.css');document.getElementsByTagName('head')[0].appendChild(fc_CSS);var fc_JS=document.createElement('script'); fc_JS.type='text/javascript';fc_JS.src=((isSecured)?'https://d36mpcpuzc4ztk.cloudfront.net':'http://assets.chat.freshdesk.com')+'/js/visitor.js';(document.body?document.body:document.getElementsByTagName('head')[0]).appendChild(fc_JS);window.freshchat_setting= 'eyJ3aWRnZXRfc2l0ZV91cmwiOiJoZWxwLjgwc3B1cnBsZS5jb20iLCJ3aWRnZXRfZXh0ZXJuYWxfaWQiOjUwMDAwMDI5MjcsIndpZGdldF9pZCI6bnVsbCwic2hvd19vbl9wb3J0YWwiOmZhbHNlLCJwb3J0YWxfbG9naW5fcmVxdWlyZWQiOmZhbHNlLCJpZCI6NTAwMDA1MjMxMCwibWFpbl93aWRnZXQiOmZhbHNlLCJmY19pZCI6IjJhODViZGMyYTU1ZDExM2ZiNGJlMDA2ZDQwMDhiMWUxIiwic2hvdyI6MSwicmVxdWlyZWQiOjIsImhlbHBkZXNrbmFtZSI6InBnIHN1cHBvcnQiLCJuYW1lX2xhYmVsIjoiTmFtZSIsIm1haWxfbGFiZWwiOiJFbWFpbCIsInBob25lX2xhYmVsIjoiUGhvbmUgTnVtYmVyIiwidGV4dGZpZWxkX2xhYmVsIjoiVGV4dGZpZWxkIiwiZHJvcGRvd25fbGFiZWwiOiJEcm9wZG93biIsIndlYnVybCI6InBnc3VwcG9ydC5mcmVzaGRlc2suY29tIiwibm9kZXVybCI6ImNoYXQuZnJlc2hkZXNrLmNvbSIsImRlYnVnIjoxLCJtZSI6Ik1lIiwiZXhwaXJ5IjoxNDIxNjQ2MTE4MDAwLCJlbnZpcm9ubWVudCI6InByb2R1Y3Rpb24iLCJkZWZhdWx0X3dpbmRvd19vZmZzZXQiOjMwLCJkZWZhdWx0X21heGltaXplZF90aXRsZSI6IkNoYXQgaW4gcHJvZ3Jlc3MiLCJkZWZhdWx0X21pbmltaXplZF90aXRsZSI6IkxldCdzIHRhbGshIiwiZGVmYXVsdF90ZXh0X3BsYWNlIjoiWW91ciBNZXNzYWdlIiwiZGVmYXVsdF9jb25uZWN0aW5nX21zZyI6IldhaXRpbmcgZm9yIGFuIGFnZW50IiwiZGVmYXVsdF93ZWxjb21lX21lc3NhZ2UiOiJIaSEgSG93IGNhbiB3ZSBoZWxwIHlvdSB0b2RheT8iLCJkZWZhdWx0X3dhaXRfbWVzc2FnZSI6Ik9uZSBvZiB1cyB3aWxsIGJlIHdpdGggeW91IHJpZ2h0IGF3YXksIHBsZWFzZSB3YWl0LiIsImRlZmF1bHRfYWdlbnRfam9pbmVkX21zZyI6Int7YWdlbnRfbmFtZX19IGhhcyBqb2luZWQgdGhlIGNoYXQiLCJkZWZhdWx0X2FnZW50X2xlZnRfbXNnIjoie3thZ2VudF9uYW1lfX0gaGFzIGxlZnQgdGhlIGNoYXQiLCJkZWZhdWx0X3RoYW5rX21lc3NhZ2UiOiJUaGFuayB5b3UgZm9yIGNoYXR0aW5nIHdpdGggdXMuIElmIHlvdSBoYXZlIGFkZGl0aW9uYWwgcXVlc3Rpb25zLCBmZWVsIGZyZWUgdG8gcGluZyB1cyEiLCJkZWZhdWx0X25vbl9hdmFpbGFiaWxpdHlfbWVzc2FnZSI6IldlIGFyZSBzb3JyeSwgYWxsIG91ciBhZ2VudHMgYXJlIGJ1c3kuIFBsZWFzZSAjIGxlYXZlIHVzIGEgbWVzc2FnZSAjIGFuZCB3ZSdsbCBnZXQgYmFjayB0byB5b3UgcmlnaHQgYXdheS4iLCJkZWZhdWx0X3ByZWNoYXRfbWVzc2FnZSI6IldlIGNhbid0IHdhaXQgdG8gdGFsayB0byB5b3UuIEJ1dCBmaXJzdCwgcGxlYXNlIHRha2UgYSBjb3VwbGUgb2YgbW9tZW50cyB0byB0ZWxsIHVzIGEgYml0IGFib3V0IHlvdXJzZWxmLiJ9';}</script>
-<script type="text/javascript">
+</script> <script type="text/javascript">if(new Date().getTime() < 1421646118000){var fc_CSS=document.createElement('link');fc_CSS.setAttribute('rel','stylesheet');var isSecured = (window.location && window.location.protocol == 'https:');fc_CSS.setAttribute('type','text/css');fc_CSS.setAttribute('href',((isSecured)? 'https://d36mpcpuzc4ztk.cloudfront.net':'http://assets1.chat.freshdesk.com')+'/css/visitor.css');document.getElementsByTagName('head')[0].appendChild(fc_CSS);var fc_JS=document.createElement('script'); fc_JS.type='text/javascript';fc_JS.src=((isSecured)?'https://d36mpcpuzc4ztk.cloudfront.net':'http://assets.chat.freshdesk.com')+'/js/visitor.js';(document.body?document.body:document.getElementsByTagName('head')[0]).appendChild(fc_JS);window.freshchat_setting= 'eyJ3aWRnZXRfc2l0ZV91cmwiOiJoZWxwLjgwc3B1cnBsZS5jb20iLCJ3aWRnZXRfZXh0ZXJuYWxfaWQiOjUwMDAwMDI5MjcsIndpZGdldF9pZCI6bnVsbCwic2hvd19vbl9wb3J0YWwiOmZhbHNlLCJwb3J0YWxfbG9naW5fcmVxdWlyZWQiOmZhbHNlLCJpZCI6NTAwMDA1MjMxMCwibWFpbl93aWRnZXQiOmZhbHNlLCJmY19pZCI6IjJhODViZGMyYTU1ZDExM2ZiNGJlMDA2ZDQwMDhiMWUxIiwic2hvdyI6MSwicmVxdWlyZWQiOjIsImhlbHBkZXNrbmFtZSI6InBnIHN1cHBvcnQiLCJuYW1lX2xhYmVsIjoiTmFtZSIsIm1haWxfbGFiZWwiOiJFbWFpbCIsInBob25lX2xhYmVsIjoiUGhvbmUgTnVtYmVyIiwidGV4dGZpZWxkX2xhYmVsIjoiVGV4dGZpZWxkIiwiZHJvcGRvd25fbGFiZWwiOiJEcm9wZG93biIsIndlYnVybCI6InBnc3VwcG9ydC5mcmVzaGRlc2suY29tIiwibm9kZXVybCI6ImNoYXQuZnJlc2hkZXNrLmNvbSIsImRlYnVnIjoxLCJtZSI6Ik1lIiwiZXhwaXJ5IjoxNDIxNjQ2MTE4MDAwLCJlbnZpcm9ubWVudCI6InByb2R1Y3Rpb24iLCJkZWZhdWx0X3dpbmRvd19vZmZzZXQiOjMwLCJkZWZhdWx0X21heGltaXplZF90aXRsZSI6IkNoYXQgaW4gcHJvZ3Jlc3MiLCJkZWZhdWx0X21pbmltaXplZF90aXRsZSI6IkxldCdzIHRhbGshIiwiZGVmYXVsdF90ZXh0X3BsYWNlIjoiWW91ciBNZXNzYWdlIiwiZGVmYXVsdF9jb25uZWN0aW5nX21zZyI6IldhaXRpbmcgZm9yIGFuIGFnZW50IiwiZGVmYXVsdF93ZWxjb21lX21lc3NhZ2UiOiJIaSEgSG93IGNhbiB3ZSBoZWxwIHlvdSB0b2RheT8iLCJkZWZhdWx0X3dhaXRfbWVzc2FnZSI6Ik9uZSBvZiB1cyB3aWxsIGJlIHdpdGggeW91IHJpZ2h0IGF3YXksIHBsZWFzZSB3YWl0LiIsImRlZmF1bHRfYWdlbnRfam9pbmVkX21zZyI6Int7YWdlbnRfbmFtZX19IGhhcyBqb2luZWQgdGhlIGNoYXQiLCJkZWZhdWx0X2FnZW50X2xlZnRfbXNnIjoie3thZ2VudF9uYW1lfX0gaGFzIGxlZnQgdGhlIGNoYXQiLCJkZWZhdWx0X3RoYW5rX21lc3NhZ2UiOiJUaGFuayB5b3UgZm9yIGNoYXR0aW5nIHdpdGggdXMuIElmIHlvdSBoYXZlIGFkZGl0aW9uYWwgcXVlc3Rpb25zLCBmZWVsIGZyZWUgdG8gcGluZyB1cyEiLCJkZWZhdWx0X25vbl9hdmFpbGFiaWxpdHlfbWVzc2FnZSI6IldlIGFyZSBzb3JyeSwgYWxsIG91ciBhZ2VudHMgYXJlIGJ1c3kuIFBsZWFzZSAjIGxlYXZlIHVzIGEgbWVzc2FnZSAjIGFuZCB3ZSdsbCBnZXQgYmFjayB0byB5b3UgcmlnaHQgYXdheS4iLCJkZWZhdWx0X3ByZWNoYXRfbWVzc2FnZSI6IldlIGNhbid0IHdhaXQgdG8gdGFsayB0byB5b3UuIEJ1dCBmaXJzdCwgcGxlYXNlIHRha2UgYSBjb3VwbGUgb2YgbW9tZW50cyB0byB0ZWxsIHVzIGEgYml0IGFib3V0IHlvdXJzZWxmLiJ9';}</script> <script type="text/javascript">
 adroll_adv_id = "WNCSKR7G3VGGHE65C2HIVM";
 adroll_pix_id = "SGNFCUOJXVEF3ASUQIM2DE";
 (function () {
