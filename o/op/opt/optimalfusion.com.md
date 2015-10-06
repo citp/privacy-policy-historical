@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optimalfusion.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607022054id_/http%3A//optimalfusion.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimalfusion.com privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006042031id_/http%3A//optimalfusion.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy | Optimal Fusion - Advertisers + Consumers
 
