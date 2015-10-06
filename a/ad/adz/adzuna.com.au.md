@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adzuna.com.au privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142945id_/http%3A//www.adzuna.com.au/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adzuna.com.au privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007014611id_/http%3A//www.adzuna.com.au/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -104,10 +104,10 @@ Subject to some exceptions in the Privacy Act, you have the right to seek access
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes; 
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us via our [contact form](http://www.adzuna.com.au/contact-us.html).
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us via our [contact form](https://www.adzuna.com.au/contact-us.html).
 
 
 
 We request that you keep your information as current as possible so that we may continue to improve our service to you.
 
-If you would like to seek access to personal information we hold about you, or if you have any questions or complaints about how we collect, use, disclose, manage or store your personal information, you can contact us using our [contact form](http://www.adzuna.com.au/contact-us.html).
+If you would like to seek access to personal information we hold about you, or if you have any questions or complaints about how we collect, use, disclose, manage or store your personal information, you can contact us using our [contact form](https://www.adzuna.com.au/contact-us.html).
