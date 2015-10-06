@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bisedgkhan.edu.pk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607140136id_/http%3A//www.bisedgkhan.edu.pk/index.php%3Ffilename%3Dprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bisedgkhan.edu.pk privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007011705id_/http%3A//www.bisedgkhan.edu.pk/index.php%3Ffilename%3Dprivacy.php) for the most accurate reproduction.*
 
 # :: BISE DGKHAN ::
 
-[ ](https://web.archive.org/web/20150607140136id_/http%3A//www.bisedgkhan.edu.pk/index.php)
+[ ](https://web.archive.org/web/20151007011705id_/http%3A//www.bisedgkhan.edu.pk/index.php)
 
 +92 64 2023004 
 
