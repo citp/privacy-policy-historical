@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joby.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607071634id_/http%3A//joby.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joby.com privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006234815id_/http%3A//joby.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
