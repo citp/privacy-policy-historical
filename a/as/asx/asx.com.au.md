@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asx.com.au privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427221205id_/http%3A//www.asx.com.au/about/privacy-statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asx.com.au privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006145117id_/http%3A//www.asx.com.au/about/privacy-statement.htm) for the most accurate reproduction.*
 
 # Privacy Policy - ASX
 
@@ -51,26 +51,27 @@ We may collect Personal Information about:
 
 ASX may use or disclose Personal Information for the following purposes:
 
-  * To enable it to discharge its statutory obligations; 
+  * To enable it to discharge its statutory obligations;
   * To enable it to discharge its licence obligations as a market operator and as a clearing and settlements facility;
-  * To enable it to discharge its contractual obligations when providing products and services to third parties; 
-  * To provide investor education services; 
-  * To service shareholders; 
-  * To provide administration for ASX employees; 
-  * To enable the resolution of a concern or complaint; 
-  * To provide ongoing information about our products and services to people that we believe may be interested; 
-  * To consider applications for employment; and 
-  * To provide products and services. 
+  * To enable it to discharge its contractual obligations when providing products and services to third parties;
+  * To provide investor education services;
+  * To service shareholders;
+  * To service ASX customers;
+  * To provide administration for ASX employees;
+  * To enable the resolution of a concern or complaint;
+  * To provide ongoing information about our products and services to people that we believe may be interested;
+  * To consider applications for employment; and
+  * To provide products and services.
 
 
 
 ASX will only use your Personal Information for the purpose for which you have provided it. We will not disclose your Personal Information to third parties, unless you consent or in other circumstances where such disclosure is required or authorised by law.
 
-Contracts we enter into with other parties for the provision of services may require us to disclose your Personal Information to them. In those cases, our contracts require other parties providing services to us to observe the terms of this Privacy Statement.
+Contracts we enter into with other parties for the provision of services may require us to disclose your Personal Information to them. In those cases, our contracts require other parties providing services to us to observe the terms of this Privacy Policy.
 
 ### Does ASX transfer Personal Information overseas?
 
-ASX transfers information about an individual to someone who is in a foreign country only if the individual consents to the transfer or otherwise in compliance with the APPs. ASX does not generally transfer personal information to overseas parties unless required by law or enforcement activity. In some cases information is encrypted when used for testing computer systems by overseas vendors. 
+ASX does not generally transfer personal information to overseas parties unless required by law or enforcement activity or unless working with international service providers. ASX may exchange or store personal information with vendors who have been contracted to provide customer relationship systems and technological solutions. These third party service providers may be located in Australia, USA, Japan and other countries.  While these parties will be subject to confidentiality, they are not required to comply with the Australian Privacy Act and may have different disclosure requirements under their local laws. Although information is encrypted where possible and efforts are made to protect your information, when you agree to this Privacy Policy you acknowledge that the ASX will not be responsible for the overseas third party. The list of countries may change from time to time.
 
 ### Does ASX collect sensitive information and use of Government Identifiers?
 
@@ -108,7 +109,7 @@ We may also from time to time email you about an event or new feature/service th
 
 ASX will notify you at the time of collecting Personal Information.  The Notification of Collection statement covers the following:
 
-“ _This information is collected by ASX to facilitate the provision of a product or service. Failure to provide this information to ASX is likely to prevent ASX from being able to offer you the product or service. Should you wish to, you can access the information you provide to ASX by contacting the ASX. ASX may from time to time use external service providers but will not disclose personal information you provide to any other organisations or individuals, unless required or authorised by law to do so or unless you consent to the disclosure. ASX does not generally provide personal information to overseas parties and if you would like to contact us or lodge a complaint please refer to the ASX's Privacy Statement for further details._ ”
+“ _This information is collected by ASX to facilitate the provision of a product or service. Failure to provide this information to ASX is likely to prevent ASX from being able to offer you the product or service. Should you wish to, you can access the information you provide to ASX by contacting the ASX. ASX may from time to time use external service providers but will not disclose personal information you provide to any other organisations or individuals, unless required or authorised by law to do so or unless you consent to the disclosure. ASX does not generally provide personal information to overseas parties but does use international service providers for technological solutions. If you would like to contact us or lodge a complaint please refer to the ASX's Privacy  Policy for further details._”
 
 ### Links to other Sites
 
@@ -133,8 +134,6 @@ You can also obtain information at the Office of the Australian Information Comm
 
 ### Updates to this Privacy Statement
 
-This Privacy Statement will be reviewed from time to time as required. 
+This Privacy Statement will be reviewed from time to time as required.
 
-Dated: September 2014
-
-Advertisement
+Dated: July 2015
