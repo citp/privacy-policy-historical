@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myfuture.edu.au privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219050409id_/http%3A//www.myfuture.edu.au/Footer%2520Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfuture.edu.au privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006043432id_/http%3A//myfuture.edu.au/Footer%2520Pages/Privacy.aspx) for the most accurate reproduction.*
 
-# myfuture:Privacy policy
+# Privacy policy - myfuture
 
   * Introduction
   * Information collected when you use this website
@@ -15,7 +15,7 @@
 
 ##  1\. Introduction 
 
-Education Services Australia Limited maintains and hosts this Website for the Commonwealth Department of Education. Where relevant, references to "We" and “Us” in this Privacy Policy include a reference to the Commonwealth Department of Education.
+Education Services Australia Limited maintains and hosts this Website. Where relevant, references to "We", "Our" and “Us” in this Privacy Policy mean Education Services Australia Limited.
 
 All personal information collected by Us is protected by the Privacy Act (Cth) 1988 and the Privacy Amendment (Enhancing Privacy Protection) Act 2012. Information on Australian privacy law can be found on the website of the Office of the Australian Information Commissioner [www.oaic.gov.au](http://www.oaic.gov.au/). 
 
@@ -25,7 +25,7 @@ We are committed to protecting the privacy of personal information. This Privacy
 
 **(a) Log information**
 
-When you visit this Website our server makes a record of your visit and logs the following information:
+When you visit this Website Our server makes a record of your visit and logs the following information:
 
   * your server address
   * your top level domain name (for example .com, .gov, .au, .net, .edu, etc)
@@ -108,22 +108,8 @@ please contact Us at:
 
      PO Box 177 Carlton South
 
-     MELBOURNE VIC 3053; or
-
-(c) Department of Education
-
-     Director, Career Development Team
-
-     Youth Attainment and Transitions Branch
-
-     Location Code: C50MA9
-
-     PO Box 9880
-
-     CANBERRA ACT 2601; or
-
-(d) phone 1300 363 079
+     MELBOURNE VIC 3053
 
 If you would like to know more about your rights under Australian privacy laws, please refer to the website of the Office of the Australian Information Commissioner [www.oaic.gov.au](http://www.oaic.gov.au/). 
 
-This Privacy Policy was last updated in December 2013.
+This Privacy Policy was last updated in May 2015.
