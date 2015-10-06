@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buybluesteel.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513030805id_/http%3A//www.buybluesteel.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buybluesteel.com privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006211615id_/http%3A//www.buybluesteel.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Blue Steel Jewelry, featuring Stainless Steel, Tungsten and Titanium Jewelry
 
@@ -40,7 +40,7 @@ This information helps us better understand your needs and allows us to provide 
 
 We are committed to ensuring that the information you provide is secure. In order to prevent unauthorized access or disclosure, we have appropriate physical, electronic and managerial procedures in place to safeguard all information we collect online. BLUE STEEL encrypts your personal information using industry standard GeoTrust SSL Certification.
 
-###  **Links to other websites**
+### **Links to other websites**
 
 Occasionally, our website may include links to other websites of interest. These links are provided for your convenience, but please note that we have no control or responsibility for the content of any linked websites. Therefore, we cannot be responsible for the protection and privacy of any information you provide when visiting linked sites and they are not governed by BLUE STEEL’s privacy notice. Please exercise due caution and read the privacy statement applicable to the website in question. 
 
@@ -49,12 +49,11 @@ Occasionally, our website may include links to other websites of interest. These
 You may choose to restrict the collection or use of your personal information in the following ways: 
 
   * when you are asked to fill in a form on our website, please look for and click on the box indicating that you do not want any information to be used by anybody for direct marketing purposes 
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by emailing us at [customerservice@buybluesteel.com](mailto:customerservice@buybluesteel.com) or writing to us at: Blue Steel, po box 177, Gay, GA 30218  
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by emailing us at [customerservice@buybluesteel.com](mailto:customerservice@buybluesteel.com) or writing to us at: Blue Steel Jewelry, 26017 Huntington Lane Building C Valencia, CA 91355
 
 
 
-
-We will not sell, distribute or lease your personal information to third parties unless we have your permission, or are required by law to do so. With your permission, we may use your personal information to send you promotional information about third parties which we think will be of interest to you.
+We will not sell, distribute or lease your personal information to third parties unless we have your permission, or are required by law to do so. With your permission, we may use your personal information to send you promotional information about third parties which we think will be of interest to you. Likewise, if you are subscribed to our newsletter, we may send you promotional emails about Blue Steel or affiliated entities that we feel may be of interest to our subscribers.
 
 You may request details concerning the personal information we store about you under the Data Protection Act of 1998. A small fee is applicable. Please contact us if you would like a copy of the information. 
 
