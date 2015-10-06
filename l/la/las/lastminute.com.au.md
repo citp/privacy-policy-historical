@@ -1,148 +1,154 @@
-> *The following text is extracted and transformed from the lastminute.com.au privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407083004id_/http%3A//www.lastminute.com.au/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lastminute.com.au privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006040811id_/https%3A//www.lastminute.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# lastminute.com.au Privacy Policy
 
-We are committed to protecting the privacy and security of your personally identifiable information (PII) and are bound by the Australian Privacy Principles (APPs).  We will only collect, use or disclose PII in accordance with the APPs and this Privacy Policy.  References to www.lastminute.com.au include, but are not limited to its mobile website.  This policy was last adjusted on 12 March 2014.
+### lastminute.com.au Privacy Policy 
 
-We reserve the right to amend this policy at any time.  Any material changes to this policy will be posted prior to their implementation.  If you do not agree with this policy please do not continue to use the site.  You will be deemed to have consented to any changes to the policy when you use the site after the effective date of change.  
- 
+Below you will find the Privacy Policy for www.lastminute.com.au, a website operated by Expedia, Inc. 
 
-**Information we collect**
+Expedia, Inc. (“we” or “us”) complies with applicable Privacy Laws in relation to the collection and disclosure of information regarding individuals using and accessing this website. In this Privacy Policy, the term "Privacy Law" means any legislation or regulations that apply to Expedia,Inc. from time to time in force in Australia or New Zealand (as applicable to you) affecting privacy, or the collection, handling, storage, processing, use or disclosure of personal data. 
 
-The PII we collect from or about you will depend on our relationship with you, the reason for its collection and the services we are providing to you.  
- 
+We understand that booking online involves significant trust on your part. We value your trust, and make it a high priority to ensure the security and confidentiality of the personal information you provide to us. Please read this policy to learn about our privacy practices. By visiting this website, you are accepting the practices described herein. 
 
-We collect PII when you:  
- 
+  * What information we collect from you
+  * How we use your information
+  * With whom we share your information
+  * How you can access your information
+  * Your choices with respect to the collection and use of your information
+  * Cookies and other technologies
+  * Display of tailored advertising/Your choices
+  * Using our mobile phone and tablet apps (" **Mobile Apps** ")
+  * How we protect your information
+  * External links
+  * Cross-border data flows
+  * Changes to this Privacy Policy
+  * How you can contact us
 
-• make a booking:  We collect your full name, email address, phone number and guest/traveller details each time you make a booking with Lastminute.com.au.  We will also collect credit card information, including card number, card type, security number, cardholder name, expiry date and issuing bank and country to pay for services purchased through lastminute.com.au.  For flight bookings we may also collect frequent traveler numbers, seating preferences, passport information and other relevant information as required by the airline.  
 
-• subscribe to receive our promotional material:  We collect email addresses, mobile phone numbers, names, city of residence and communications preferences from people who elect to subscribe to the lastminute.com.au newsletter and to receive promotional offers. 
 
-• participate in surveys, promotions and competitions:  We may collect PII when you participate in a survey, promotion or competition either conducted by us (or on our behalf) or as a prize supplier of the promotion/competition.  
+#### What information we collect from you 
 
-• are involved in a card payment dispute:  If a card payment occurring on our site is disputed or fraud is detected, we may request from the supplier of the booked service a copy of the photo ID and other check-in details provided to them.  This information may be used by us in connection with the dispute.  
+_In General_. We receive and store any information you enter on our website or give us in any other way. This includes information that can identify you ("personal information"), including but not limited to your first and last name, telephone number, postal and email addresses, fax number, and billing information (such as credit card number, cardholder name, and expiration date). We may also request information about your hotel room preferences, and frequent flyer and car rental program information. You can choose not to provide all requested information to us, but in general some information about you is required in order for you to register as a member; book travel; complete a traveller profile; participate in a survey, contest, or sweepstakes; ask us a question; or initiate other transactions on our site. If you do not provide all or part of the requested information, you may not be able to complete certain activities on the website. 
 
-• contact lastminute.com.au:  We collect PII such as your full name, email address and/or telephone number and feedback whenever you submit an enquiry or suggestion, provide feedback or comments or request assistance with a booking. 
+_Travel Companion Information_.When you make a reservation for someone else through this website, we will request personal information and travel preferences about that individual. If you are providing the personal information of a third party, you must obtain the consent of the individual(s) prior to providing us with their personal information and travel preferences and you must ensure that the individual(s) have read and consent to this Privacy Policy. Any access to view or change the information of your travel companion(s) will be available through your account. 
 
-• make a reservation for a third party:  When you make a reservation for someone else through this website, we will request PII about that person.  You should obtain the consent of the other person prior to providing us with their PII and provide that individual access to this policy.  Any access to view or change the information of your travel companion(s) will be available through your booking. 
+_Information from Other Sources_.We also may periodically obtain both personal and non-personal information about you from affiliated entities, business partners and other independent third-party sources and add it to our account information. Examples of information we may receive include: updated delivery and address information, purchase history, and demographic information. 
 
-• deal with third parties:  We may also from time to time obtain both personal and non-personal information about you from affiliates, related companies, business partners and other independent third party sources and add it to our account information.   
- 
+_Automatic Information_.We automatically collect some information about your computer when you visit this website. For example, we will collect your IP address, Web browser software (such as Firefox, Safari, or Internet Explorer), and referring website. We also may collect information about your online activity, such as trips viewed and bookings made. Our goals in collecting this automatic information include helping customize your user experience and inhibiting fraud. For more information, please see Cookies and other technologies. 
 
-**Other information we collect:**  
- 
+#### How we use your information 
 
-• Non-PII:  We may collect non-PII including your IP address and search preferences to help customise your user experience and provide you with offers tailored to your interests.  
+We use sensitive billing information (such as cardholder name, credit card number, and expiration date) and disclose such information to our third party suppliers and vendors for the purpose of completing the travel bookings you conduct on our site. We use other information about you for the following general purposes: to provide you with the products and services you request; to provide you with travel confirmation and updates; to manage your account, including processing bills and providing travel notifications; to communicate with you in general; to respond to your questions and comments; to measure interest in and improve our products, services, and website; to notify you about special offers and products or services that may be of interest to you; to otherwise customize your experience with this website; to reward you as part of any reward and recognition program you choose to join; to solicit information from you, including through surveys; to resolve disputes, collect fees, or troubleshoot problems; to prevent potentially prohibited or illegal activities; to enforce our Terms of Use; and as otherwise described to you at the point of collection. By providing your personal information to us, you consent to the use of your personal information as described. 
 
-• Statistical information:  When you visit our site, we record general information about your visit for statistical purposes.  These statistics do not contain any PII.  
+_Email Communications_.We want to make it easy for you to take advantage of travel-related opportunities on our website. One way we do this is by sending you email messages that contain information about your apparent travel-related interests. For example, if you search for a flight to New York on our website and have saved your itinerary or otherwise not yet booked your travel, we may send you an email message reminding you about your saved travel itinerary or about a special airfare to New York. Similarly, if you receive an email from us about New York travel and demonstrate an interest in New York hotels by affirmatively clicking on a link about New York hotels in the email, you may receive an email about New York hotel offers or other destination information. We believe these email messages will provide you with useful information about travel-related special offers available through our site. Please note that you will have the opportunity to choose not to receive these email messages in any such email we send 
 
-• Mobile:  If you are using the mobile website on your mobile device we may collect data that identifies your mobile device.  This site collects and processes your details in the same way as the website.  
- 
+Please review "Your choices with respect to the collection and use of your information" below. 
 
-**Cookies**
+#### With whom we share your information 
 
-We and our trusted third party service providers may, from time to time, use “cookies” to store your preferences, record session information and collect non-PII on how you visit and access our web pages and newsletters.  If you subscribe to receive promotional material from us we may link the information stored in cookies to your PII.  This information allows us to continually improve our services, to provide you with a better overall experience and to communicate offers to you tailored to your interests.  
- 
+We may share your information with the following entities: 
 
-Cookies are small files stored on your computer which allow us to recognise you when you return to our site.  As well as allowing our booking process to remember which products you have selected, and to move through the various screens of the booking process.  
- 
+  * _Suppliers_ , such as hotel, airline, car rental, and activity providers, who fulfill your travel reservations. Throughout this site, all services provided by a third-party supplier are described as such. We do not place limitations on our suppliers' use or disclosure of your personal information. Therefore, we encourage you to review the privacy policies of any travel supplier whose products you purchase through this website. Please note that these suppliers also may contact you as necessary to obtain additional information about you, facilitate your travel reservation, or respond to a review you may submit. 
+  * _Third-party vendors_ who provide services or functions on our behalf, including credit card processing, business analytics, customer service, marketing, distribution of surveys or sweepstakes programs, and fraud prevention. We may also authorize third-party vendors to collect information on our behalf, including as necessary to operate features of our website or to facilitate the delivery of online advertising tailored to your interests. Third-party vendors have access to and may collect information only as needed to perform their functions and are not permitted to share or use the information for any other purpose. 
+  * _Business partners_ with whom we may jointly offer products or services, or whose products or services may be offered on our website. You can tell when a third party is involved in a product or service you have requested because their name will appear, either alone or with ours. If you choose to access these optional services, we may share information about you, including your personal information, with those partners. Please note that we do not control the privacy practices of these third-party business partners. Therefore, we encourage you to review the privacy policies of any such business partners. 
+  * _Referring websites_. If you were referred to this website from another site (for example, through a link you clicked on another site that directed you to this one), we may share some information about you with that referring website. We have not placed limitations on the referring websites’ use of your personal information and we encourage you to review the privacy policies of any website that referred you here. 
+  * _Companies within our corporate family_. We may share your personal information with our parent company and corporate affiliates, including Expedia, Inc.; Hotels.com, L.P.; Hotwire, Inc.; and Venere Net S.p.A. This sharing enables us to provide you with information about products and services, both travel-related and other, which might interest you. To the extent that our corporate affiliates have access to your information, they will follow practices that are at least as restrictive as the practices described in this Privacy Policy. They will also comply with applicable laws governing the transmission of commercial electronic communications and, at a minimum, give you an opportunity in any commercial electronic message they send to choose not to receive such commercial electronic messages in the future. 
+  * _Government and Law Enforcement Agencies_. We may be required to disclose your personal information to law enforcement agencies and governments around the world for security, customs and immigration purposes. For example, under U.S. Law, the U.S. Department of Homeland Security Bureau of Customs and Border Protection requires that certain travel and reservation information relating to people travelling to or via the U.S.A, known as Passenger Name Record or PNR data, be provided to it prior to arrival in, or departure from, the U.S.A. 
 
-We also use third party cookies to show you lastminute.com.au advertisements on other websites (remarketing).  Our advertisements on other websites may be based on destinations and products you have searched for or viewed on lastminute.com.au.  
- 
 
-Most Internet browsers will be set to automatically accept cookies when installed.  Cookies can be deleted from your computer at any time (see your internet browser’s help menu for more information).  
- 
 
-It is possible to view all lastminute.com.au material without having cookies enabled, however it is not possible to purchase without accepting these cookies.  
- 
+We also may share your information: 
 
-**How we use your information**
+  * In response to subpoenas, court orders, or other legal process; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases we reserve the right to raise or waive any legal objection or right available to us. 
+  * When we believe it is appropriate to investigate, prevent, or take action regarding illegal or suspected illegal activities; to protect and defend the rights, property, or safety of our company or this website, our customers, or others; and in connection with our Terms of Service and other agreements. 
+  * In connection with a corporate transaction, such as a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy. 
+  * As otherwise permitted by applicable Privacy Law. 
 
-We use your PII only for the primary purpose of providing our services and communicating with you in relation to bookings and deals.  By providing your PII to us, or otherwise allowing your PII to be collected, you consent to us using this PII for the primary purpose for which it was collected and for the following related purposes:   
- 
 
-• Purchase of Lastminute.com.au services:  Information collected when you purchase from us is used to charge your credit card and deliver your booking confirmation electronically.  We may contact you about your booking with related offers from us or our partners we think may be of interest to you.  We may also contact you about your stay for customer service and feedback purposes, or to make any changes or cancellations to your booking. 
 
-• Promotional offers:  We will use your PII to communicate with you about products and promotional offers that may be of interest to you.  We may communicate with you through emails, newsletters, SMS, push notifications and telephone calls.  We will only send our newsletter and other promotional offers to you if you have opted into receiving them.  We use the individual preferences provided to us by newsletter subscribers and their interactions within our newsletters and site to tailor the relevance of our newsletter content.  Our newsletters may contain paid advertising material. 
+Other than as set out above, you will be notified when personal information about you will be shared with third parties, and you will have an opportunity to choose not to have us share such information. 
 
-• Offers tailored to your interests:  Based on the information you share with us, individualised offers may be shown to you on our website, in mobile apps or on third-party websites, including social media platforms.
+By providing your personal information to us, you consent to the disclosure of your personal information as described above. 
 
-• Advertising:  From time to time anonymous usage statistics are used by our third party advertising providers including to serve more relevant advertisements.  Your PII is never shared with these parties.
+We also may share aggregate or anonymous information with third parties, including advertisers and investors. For example, we may tell our advertisers the number of visitors our website receives or the most popular hotels and vacation destinations. This information does not contain any personal information and is used to develop content and services we hope you will find of interest. 
 
-• Respond to your questions or suggestions:  We will use your email address and/or telephone number to contact you when you submit a question or suggestion.
+#### How you can access your information 
 
-• General communications:  We may use your PII to communicate with you in general.
+You can access and update your personal information and other contact information by visiting the "My Account" section of this website. You can close your account by contacting us at the email address listed below. Please note that after you close an account, you will not be able to sign in or access any of your personal information. However, you can open a new account at any time. Please also note that we may retain certain information associated with your account, including for analytical purposes as well as for recordkeeping integrity. 
 
-• Market research:  We may ask you to participate in market research so that we can improve the products and services we offer to you.
+If you do not have an account , we will, on request, provide you with access to the personal information we hold about you, unless there is an exception which applies under the applicable Privacy Law. We may recover from you our reasonable costs of supplying you with access to this personal information. Your request to provide access to this personal information will be dealt with in a reasonable time. If we refuse to provide you with access to the personal information, we will provide you with reasons for the refusal and inform you of any exceptions relied upon under the applicable Privacy Law. 
 
-• Illegal activity:  We may use PII for the detection and prevention of fraud and other illegal activities.
+#### Your choices with respect to collection and use of your information 
 
-• Improving and promoting our services:  We use PII and non-PII for analytical purposes, to improve our services, to promote our offers to other customers, to enhance the user experience, and to improve the functionality and quality of your customer experience.
+  * As discussed above, you can choose not to provide us with any information, although it may be needed to book travel or to take advantage of certain features offered on this site. 
+  * You also can add or update information and close your account as described above. 
+  * When you register as a member on this site, you will be given a choice as to whether you want to receive email messages from us about special offers. As a registered member, you can modify your choice at any time on the "My Account" page. Whether registered as a member or not, you will also be given the opportunity to unsubscribe from commercial messages in any such email we send. Please note that we reserve the right to send you other communications, including service announcements, administrative messages, and surveys relating either to your account or to your transactions on this site, without offering you the opportunity to opt out of receiving them. 
+  * You may have the opportunity on our website to provide a mobile number in order to receive day-of-travel flight alerts. You may discontinue these alerts at any time. 
+  * The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Please note that if you refuse to accept cookies from this site, you will not be able to access portions of our site. 
 
-Who we share your information with
 
-We do not disclose any PII except in the following circumstances: 
 
-• Accommodation and airline suppliers:  We provide the guest/passenger name, telephone number and email address for each booking made to the relevant supplier or its representatives to fulfil your booking.  For flights bookings we may also provide to the airline other relevant information collected from you.  Our suppliers require this information for the booking and may use it if they need to contact you about the booking.  Although we offer accommodation and flights from reputable suppliers, we encourage you to review the privacy policies of any supplier whose services you book on our website. 
+#### Cookies and other technologies 
 
-• Third party service providers:  We may share your PII with third parties we appoint to perform services on our behalf.  For example, we use a technology platform provider to facilitate marketing campaigns controlled and managed by us.  Our service providers are not permitted to use or share your PII for any purpose other than the purpose for which they are appointed. 
+Cookies are small data text files and can be stored on your computer’s hard drive (if your Web browser permits). This website uses cookies for the following general purposes: 
 
-• Legal obligations:  We may be required by law to disclose your PII or to service providers where we are investigating a serious complaint or potential illegal acts. 
+  * To help us recognize your browser as a previous visitor and save and remember any preferences that may have been set while your browser was visiting our site. For example, if you register on our site, we may use cookies to remember your registration information, so you do not need to log into our site each time you visit. We also may record your password in a cookie, if you checked the box entitled "Sign me in automatically next time." Please note that member IDs, passwords, and any other account-related data included in such cookies are encrypted for security purposes. Unless you register with us, these cookies will not contain any personal information. 
+  * To help us customize the content and advertisements provided to you on this website and on other sites across the Internet. For example, when you access a page on our website, a cookie is automatically set by us, our service providers, or our partners to recognize your browser as you navigate on the Internet and to present you with information and advertising based on your apparent interests. See Display of Advertising/Your Choices for more information about our online advertising practices and your choices. 
+  * To help measure and research the effectiveness of website features and offerings, advertisements, and email communications (by determining which emails you open and act upon). 
 
-• Lastminute.com.au related companies:  We may share your PII with our parent company and related companies.  This sharing enables us to provide you with information about products and services both travel related and other which may be of interest to you.  They will comply with all applicable laws in their handling of your PII and will include an unsubscribe facility in any electronic messages sent to you.  
- 
 
-Other than as set out above you will be notified when PII about you will be shared with third parties and you will have an opportunity not to have us share such information.  
- 
 
-**Disclosure of your information overseas**
+The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Please note that if you refuse to accept cookies, you may not be able to access many of the travel tools offered on our sites. 
 
-Your PII may be transferred to, stored and processed overseas where those third parties with whom we share it, as described in this policy, are located.  Due to the nature of the travel services offered to you many of the service providers that we deal with are located overseas.  For example, if you have made a booking for a flight provided by an overseas travel provider we will need to disclose your PII to them to confirm that booking.  As a consequence, it is not practicable to list the location of every service provider with whom we deal.  We do, however, engage a third party technology platform provider based in the United States to facilitate our marketing campaigns controlled and managed by us.  
- 
+In addition to the above cookies, we use Local Shared Objects, also referred to as “flash cookies,” on our web site. These are used to enhance your user experience, for example, by storing your user preferences and settings, such as your volume/mute settings, and in connection with animated content on our website. Local Shared Objects are similar to browser cookies, but can store data more complex than simple text. By themselves, they cannot do anything to or with the data on your computer. Like other cookies, they can only access personally identifiable information that you have provided on this site, and cannot be accessed by other websites. To find out more about flash cookies or how to disable them, please click [here.](http://kb2.adobe.com/cps/526/52697ee8.html)
 
-The recipient of your PII may be located in a country that might not provide an equivalent level of data protection.  While we do take steps to help ensure that your PII is protected we cannot be accountable for how these recipients handle your PII.  By using this website and providing your PII to us, you consent to your PII being transferred to these overseas recipients.  If you have any concerns regarding the transfer of your PII overseas please contact us using the details provided below.   
- 
+This site may also use Web beacons (also known as clear gifs, pixel tags or Web bugs), which are tiny graphics with a unique identifier, similar in function to cookies, that are placed in the code of a Web page. We use Web beacons to monitor the traffic patterns of users from one page within our sites to another, to deliver or communicate with cookies, to understand whether you have come to our site from an online advertisement displayed on a third-party website, and to improve site performance. We also may allow our service providers to use Web beacons to help us understand which emails have been opened by recipients and to track the visitor traffic and actions on our site. This helps us measure the effectiveness of our content and other offerings 
 
-**How you control and access your information**
+If you have any questions about our use of cookies or other technologies, please email us at the email address below. 
 
-Subject to any exceptions provided by law, you are able to access any PII we hold about you.  If we refuse your access request we will provide you with our reasons for doing so. Here's how you can control and have access to your information: 
+#### Display of tailored advertising/Your choices 
 
-• Newsletter and promotional material:  If at any time you would like to either change your email address with us, update your newsletter preferences or unsubscribe from our newsletter you can: 
+Data collected by business partners and ad networks to serve you with relevant advertising. The advertisements you see on this website are served by us or by our service providers. We also allow third parties to collect information about your online activities through cookies and other technologies. These third parties include (1) business partners, who collect information when you view or interact with one of their advertisements on our sites; and (2) advertising networks, which collect information about your interests when you view or interact with one of the advertisements they place on many different websites on the Internet. The information gathered by these third parties is used to make predictions about your characteristics, interests or preferences and to display advertisements on our sites and across the Internet tailored to your apparent interests. We do not permit these third parties to collect personal information about you (such as email address) on our site, nor do we share with them any personal information about you. 
 
-1. click on the unsubscribe link located in the footer of the email or via the Newsletter section of this site;  or 
+Please note that we do not have access to or control over cookies or other technologies these third parties may use to collect information about your interests, and the information practices of these third parties are not covered by this Privacy Policy. Some of these companies are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies. To learn more, please click [here](http://www.networkadvertising.org/). 
 
-2. contact us, using the details set out below. advising that you would like to unsubscribe, change your preferences or change your email address.  Be sure to include details of your old and new email addresses for changes.
+Data collected by companies that operate cookie-based exchanges to serve you with relevant advertising. Like other companies operating online, we participate in cookie-based exchanges where anonymous information is collected about your browsing behaviour through cookies or other technologies and segmented into different topics of interest (such as travel). These topics of interest are then shared with third parties, including advertisers and ad networks, so they can tailor advertisements to your apparent interests. We do not share personal information (such as your email address) with these companies and we do not permit these companies to collect any such information about you on our site. Please click [here](http://www.bluekai.com/registry/) to learn more about cookie-based exchanges, including how to access information about the topics of interest associated with cookies on your computer and how to decline participation in these programs. 
 
-If you no do not wish to receive promotional offers, participate in market research or receive other types of communication from us please contact us.
+#### Using the our mobile phone and tablet Apps ("Mobile Apps") 
 
-• Booking information:  If at any time you would like to alter the PII you provided us in your booking, please contact us. 
+When you use one of our Mobile Apps, we collect and use information about you in the same way and for the same purposes as we do when you use our website. 
 
-• General:  Where any PII we hold about you is not accurate, complete or up to date or relevant you may contact us to correct that PII and we will respond to your request in a reasonable time period.   
- 
+In addition to this, we also use some other information that we collect automatically when you use our Mobile Apps. Specifically: 
 
-**How we protect your information**
+  * We collect information about Mobile App functionality that you access and use. This allows us to identify those areas of the Mobile App that are of interest to our customers so that we can refine and continuously improve the Mobile App. The information we collect for this purpose does not enable us to directly identify you. 
+  * Each Mobile App also sends us the device's unique device identifier (or "UID"), a sequence of numbers or characters that are unique to your mobile device. We use this only on the first opening of the Mobile App so that we can confirm to our advertising networks the number of downloads resulting from clicks on their respective ad banners and other marketing tools. 
+  * When you use a Mobile App, you can choose to allow access to your current location – provided by your mobile device using GPS or similar technologies – in order to identify nearby hotels or airports. If you choose to allow access, this location data may be collected anonymously as part of search requests logged by our servers. You can switch off the Mobile App’s access to your location at any time through your phone settings menu. 
+  * Each Mobile App will also send us error-reporting information in the event that it crashes or hangs. This enables us to investigate the error and to improve the stability of the Mobile App for future releases. As part of these error reports, the Mobile App sends us information about the mobile device type and version, the UID, the time the error occurred, the feature being used and the state of the application when the error occurred. We do not use this information for any purpose other than investigating and remedying the error. 
 
-To ensure the confidentiality of your PII, we use leading security technology and procedures that are regularly reviewed and updated.  We will never ask you to send us credit card information by email and we never store any “cvv” credit card security numbers.  
- 
 
-We have obtained a digital certificate from Thawte Server CA, an industry leader in the protection and management of data transmission.
 
-Our systems are configured with industry standard data encryption and firewall technology.  When you send PII to us over the Internet, your data is protected by Secure Socket Layer (SSL) technology to ensure safe transmission.   
- 
+#### How we protect your information 
 
-**Privacy complaints**
+We want you to feel confident about using this website to make travel arrangements, and we are committed to protecting the information we collect. While no website can guarantee security, we have implemented appropriate administrative, technical, and physical security procedures to help protect the personal information we collect about you. For example, only authorized employees are permitted to access personal information, and they may only do so for permitted business functions. In addition, we use encryption when transmitting your sensitive personal information between your system and ours, and we employ firewalls and intrusion detection systems to help prevent unauthorized persons from gaining access to your information. 
 
-If you are concerned about how we handle your PII please contact us by using the details below.  We will respond to you within a reasonable time period.  
- 
+#### External links 
 
-**Contact us**
+If any part of this website links you to other sites, those sites do not operate under this Privacy Policy. We recommend you examine the privacy statements posted on those other websites to understand their procedures for collecting, using, and disclosing personal information. 
 
-If you have any questions regarding how we handle your PII please send your questions by email to [customercentral@lastminute.com.au](mailto:customercentral@lastminute.com.au) or send via postal mail to: lastminute.com.au Pty Ltd, Attention: Privacy Officer, 7 Baroona Rd, Milton, Qld, 4064, Australia.  
- 
+#### Cross-border data flows 
 
-**lastminute.com.au partners**
+If you are visiting our website or using the Mobile Apps from Australia or from any other country outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States (where our servers are located and our central database is operated) or another country where those third parties with whom we share it as described in this Policy are located. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country, but please be assured that we take steps to ensure that your privacy is protected (however, such steps may not expressly require the overseas recipient to comply with the applicable Privacy Law). By using our services and providing information to us, you consent to your information being transferred to our facilities and the facilities of those third parties with whom we share it as described in this Policy. 
 
-If you purchase Car Hire, Insurance, Gifts, Wine or Experiences through lastminute.com.au you are purchasing through one of our '’white label’ partners who are clearly identified in the booking pages for those product categories.  Each of these partners has its own privacy policy which governs the way that they collect and treat your information when you view and book products within those categories.  Their privacy policies are displayed on the booking pages applicable to each of their product categories.  We ensure that we only work with reputable partners who commit to respecting customer privacy in accordance with accepted privacy principles.  However, lastminute.com.au is not responsible for the privacy practices of our partners.
+#### Changes to this Privacy Policy 
 
-This privacy policy applies solely to information collected by us.
+We may update this Privacy Policy in the future. We will notify you about material changes to this Privacy Policy by sending a notice to the email address you provided to us or by placing a prominent notice on our website. 
+
+#### How you can contact us 
+
+If you have questions about this Privacy Policy (or your travel planning or purchases) or if you wish to make a complaint about our handling of your personal information, [here](https://web.archive.org/service) is information on how to contact us. 
+
+This Privacy Policy is effective as of 5 May 2015. 
+
+Expedia, Inc., 333 108th Ave. NE, Bellevue, WA 98004 USA
+
+return to top
