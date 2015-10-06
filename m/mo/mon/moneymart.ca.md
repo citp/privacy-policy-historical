@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneymart.ca privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607083323id_/http%3A//www.moneymart.ca/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneymart.ca privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006201953id_/http%3A//www.moneymart.ca/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Money Mart
 
@@ -29,7 +29,7 @@ CUSTOMERS’ RIGHT TO PRIVACY AND ADHERES TO THE FOLLOWING KEY PRINCIPLES:
 
 • A customer can address a challenge concerning compliance with the above principles to MONEY MART’s designated Privacy Officer. 
 
-View MONEY MART’s complete [Privacy Policy](https://web.archive.org/web/20150607083323id_/http%3A//www.moneymart.ca/Money%20Mart%20Privacy%20Policy.pdf) or contact: 
+View MONEY MART’s complete [Privacy Policy](https://web.archive.org/web/20151006201953id_/http%3A//www.moneymart.ca/Money%20Mart%20Privacy%20Policy.pdf) or contact: 
 
 Privacy Officer  
 MONEY MART  
