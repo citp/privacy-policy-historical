@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the black-tgirls.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316005916id_/http%3A//www.black-tgirls.com/compliance/privacypolicy.php%3Fsite%3Dblack-tgirls.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the black-tgirls.com privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006184410id_/http%3A//www.black-tgirls.com/compliance/privacypolicy.php%3Fsite%3Dblack-tgirls.com) for the most accurate reproduction.*
 
 # black-tgirls.com - Privacy Policy
 
