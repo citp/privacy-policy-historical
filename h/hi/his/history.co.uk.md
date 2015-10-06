@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the history.co.uk privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630155745id_/http%3A//www.history.co.uk/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the history.co.uk privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007011654id_/http%3A//www.history.co.uk/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HISTORY
 
