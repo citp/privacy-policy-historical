@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zapier.com privacy policy that was archived on 2015-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150406004545id_/https%3A//zapier.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zapier.com privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006144423id_/https%3A//zapier.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Zapier
 
