@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shakeuplearning.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407083913id_/http%3A//www.shakeuplearning.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shakeuplearning.com privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006040935id_/http%3A//www.shakeuplearning.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Shake Up Learning
 
