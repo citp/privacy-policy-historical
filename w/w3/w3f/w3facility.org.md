@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the w3facility.org privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617143859id_/http%3A//w3facility.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w3facility.org privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006203253id_/http%3A//w3facility.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - W3facility Q&A
+# Privacy Policy
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at aamir@w3facility.com. 
 
