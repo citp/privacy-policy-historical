@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vermontsystems.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315051758id_/http%3A//www.vermontsystems.com/web.wsc/index.htm%3Fsi%3Dd3e5bc59-3bc2-6595-e411-96ca4d612b99%26id%3D65%26tv%3D65289%26param%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vermontsystems.com privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006110141id_/http%3A//www.vermontsystems.com/web.wsc/index.htm%3Fsi%3D936e5445-3d03-45af-e511-846b1f3b362d%26id%3D65%26tv%3D47514%26param%3D1) for the most accurate reproduction.*
 
 # Vermont Systems Inc. - Privacy Policy
 
