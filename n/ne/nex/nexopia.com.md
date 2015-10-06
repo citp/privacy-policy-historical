@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nexopia.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607213848id_/http%3A//www.nexopia.com/mag/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nexopia.com privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006041551id_/http%3A//www.nexopia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Nexopia
 
@@ -158,9 +158,9 @@ Virtually all advertising-supported sites use cookies to make sure that the same
 
 **Refusing or Removing Cookies**
 
-All cookies can be refused by adjusting the appropriate settings in your browser; however, not accepting any cookies at all can make web browsing a frustrating experience. You can also delete cookies periodically or at the end of each browsing session by adjusting the appropriate settings in your browser, however some sites may not “recognize” you when you return. Users can learn more about Google and cookies, as well as opting out of Google’s behavioural program by clicking [here](http://www.google.com/policies/technologies/ads/) and [here](http://www.networkadvertising.org/understanding-online-advertising/what-are-my-options). 
+All cookies can be refused by adjusting the appropriate settings in your browser; however, not accepting any cookies at all can make web browsing a frustrating experience. You can also delete cookies periodically or at the end of each browsing session by adjusting the appropriate settings in your browser, however some sites may not “recognize” you when you return. Users can learn more about Google and cookies, as well as opting out of Google’s behavioural program by clicking [here](http://www.google.com/policies/technologies/ads/ "http://www.google.com/policies/technologies/ads/") and [here](http://www.networkadvertising.org/understanding-online-advertising/what-are-my-options "http://www.networkadvertising.org/understanding-online-advertising/what-are-my-options"). 
 
-To opt-out of cookies placed by Network Advertising Initiative member companies, please visit the Network Advertising Initiative's (NAI) opt-out page [here](http://www.networkadvertising.org/choices/). The NAI represents the majority of advertising technology companies that make use of cookies.
+To opt-out of cookies placed by Network Advertising Initiative member companies, please visit the Network Advertising Initiative's (NAI) opt-out page [here](http://www.networkadvertising.org/choices/ "http://www.networkadvertising.org/choices/"). The NAI represents the majority of advertising technology companies that make use of cookies.
 
 **Advertising and Targeted Advertising**
 
