@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viralzonda.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607151342id_/http%3A//viralzonda.com/sample-page-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralzonda.com privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006165756id_/http%3A//viralzonda.com/sample-page-2) for the most accurate reproduction.*
 
 # Privacy Policy
 
