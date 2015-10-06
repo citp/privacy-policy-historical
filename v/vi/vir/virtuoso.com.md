@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the virtuoso.com privacy policy that was archived on 2015-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150312163000id_/http%3A//www.virtuoso.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtuoso.com privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006215908id_/http%3A//www.virtuoso.com/Privacy-Policy) for the most accurate reproduction.*
 
-# Virtuoso - Privacy Policy
+# Virtuoso - Virtuoso Luxury Travel
 
 **Last Updated** : January 22, 2014
 
