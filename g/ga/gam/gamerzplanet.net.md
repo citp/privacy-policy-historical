@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the gamerzplanet.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607172209id_/http%3A//www.gamerzplanet.net/forums/gamerzplanet-discussion/100304-gamerzplanet-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamerzplanet.net privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006232640id_/http%3A//www.gamerzplanet.net/forums/gamerzplanet-discussion/100304-gamerzplanet-privacy-policy.html) for the most accurate reproduction.*
 
 # Announcement GamerzPlanet Privacy Policy
-
-## [User Tag List](http://www.gamerzplanet.net/forums/usertag.php?do=list&action=tags&t=100304)
-
-  1. 01-16-2007 10:37 PM [#1](http://www.gamerzplanet.net/forums/gamerzplanet-discussion/100304-gamerzplanet-privacy-policy.html#post622214)
 
 ##  GamerzPlanet Privacy Policy 
 
@@ -12,18 +8,20 @@
 >    
 >  **
 > 
-> **Our Commitment To Privacy **Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.   
+> **Our Commitment To Privacy** Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.   
 >    
 >  **The Information We Collect:**
 > 
 > This notice applies to all information collected or submitted on the GamerzPlanet website. The types of personal information collected at these pages are:
 > 
->     * Name   
+>   * Name   
 > 
->     * Address   
+>   * Address   
 > 
->     * Email address
->     * (etc.) 
+>   * Email address
+>   * (etc.) 
+> 
+
 > 
 > **The Way We Use Information:  
 >    
@@ -47,19 +45,3 @@
 >  For Over 10,000 Free Online Flash Games!
 > 
 > **_I DO NOT MM or Trade_**
-
-* * *
-
-
-
-
-####  [](http://www.gamerzplanet.net/forums/gamerzplanet-discussion/100304-gamerzplanet-privacy-policy.html#top) Posting Permissions 
-
-  * You **may not** post new threads
-  * You **may not** post replies
-  * You **may not** post attachments
-  * You **may not** edit your posts
-
-
-
-[Forum Rules](http://www.gamerzplanet.net/forums/misc.php?do=showrules)
