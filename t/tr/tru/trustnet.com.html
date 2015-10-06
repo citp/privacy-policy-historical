@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the trustnet.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607154000id_/http%3A//www.trustnet.com/Education/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trustnet.com privacy policy that was archived on 2015-10-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151006165948id_/http%3A//www.trustnet.com/Education/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580389200000/445778.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"03b26cbfa9","applicationID":"3307192","transactionName":"Y1QGMERQCkFXB0RZXFoeJTdmHgFWQwdRRFpbX0sQWEQPHUYWWUZSV0gUC1pYB0sYBUNASw==","queueTime":0,"applicationTime":667,"ttGuid":"A84E4956881A57CF","agent":"js-agent.newrelic.com/nr-632.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAYOV15XGwADVFZTDgM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===f.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=u.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:f,features:{}};u.addEventListener?(u.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(u.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script src="https://js-agent.newrelic.com/nr-686.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-P2VJLH"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"03b26cbfa9","applicationID":"3307192","transactionName":"Y1QGMERQCkFXB0RZXFoeJTdmHgFWQwdRRFpbX0sQWEQPHUYWWUZSV0gUC1pYB0sYBUNASw==","queueTime":0,"applicationTime":1111,"ttGuid":"D87129AAA0D96263","agent":"js-agent.newrelic.com/nr-686.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAYOV15XGwADVFZTDgM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,ee:"QJf3ax"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=t("ee").create(),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-686.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
     
     <meta name="copyright" content="Trustnet Limited 2015">
     <meta name="verify-v1" content="JnKYMCyNNsEXyUV1fo/Bbu1aO77l2WwhxoQMfEi9xOQ=">	
@@ -18,32 +18,34 @@
     
 
     <!--DBWK_LV_TRN_01-->
-    <!--DSS1WEB-TN4-->
+    <!--DSS1WEB-TN1-->
 	<title>Privacy Policy | FE Trustnet</title>
 
 	
-        <link type="text/css" href="http://davu072c1j2c0.cloudfront.net/v6.0.5633.4382/CSS__NewLayoutCSS/css/ResourceHandler.axd" rel="Stylesheet">
-        <script type="text/javascript" src="http://davu072c1j2c0.cloudfront.net/v6.0.5633.4382/JQJS/js/ResourceHandler.axd"></script>
-        <script type="text/javascript" src="http://davu072c1j2c0.cloudfront.net/v6.0.5633.4382/JqueryUi/js/ResourceHandler.axd"></script>
-        <script type="text/javascript" src="http://davu072c1j2c0.cloudfront.net/v6.0.5633.4382/JStorage/js/ResourceHandler.axd"></script>		
-        <script type="text/javascript" src="http://davu072c1j2c0.cloudfront.net/v6.0.5633.4382/JAlert__JSON/js/ResourceHandler.axd"></script>
+
+        <link type="text/css" href="http://davu072c1j2c0.cloudfront.net/v6.0.5743.5095/CSS__NewLayoutCSS/css/ResourceHandler.axd" rel="Stylesheet">
+        <script type="text/javascript" src="http://davu072c1j2c0.cloudfront.net/v6.0.5743.5095/JQJS/js/ResourceHandler.axd"></script>
+        <script type="text/javascript" src="http://davu072c1j2c0.cloudfront.net/v6.0.5743.5095/JqueryUi/js/ResourceHandler.axd"></script>
+        <script type="text/javascript" src="http://davu072c1j2c0.cloudfront.net/v6.0.5743.5095/JStorage/js/ResourceHandler.axd"></script>		
+        <script type="text/javascript" src="http://davu072c1j2c0.cloudfront.net/v6.0.5743.5095/JAlert__JSON/js/ResourceHandler.axd"></script>
             
         <script type="text/javascript">
             jQuery.noConflict();
         </script>
 
         <script type="text/javascript">/*... Translation related common tokens which will get replaced during design page rendering. */ var tPortfolio = 'Portfolio';var tWatchList = 'Watchlist';var tBasket = 'Basket';var tChartingdesc = 'Then... Select fund to add to chart';var tLoading = 'Loading..';var tChartingdesc3 = 'Select a group';var tChartingdesc4 = 'Select a sector';var tChartingdesc5 = 'Select Main Index';var tChartingdesc6 = 'Select an Index';var tChooseAFund = 'Choose a fund';var tChooseAnIndex = 'Choose an index';var tChooseASector = 'Choose a sector';var tResults = 'Results';var tMonthOption = '24:24 Months,18:18 Months,12:12 Months,9:9 Months,6:6 Months,3:3 Months,1:1 month';var tYearOption = '60:5 Years,36:3 Years,12:1 year';var tOR = 'OR';var tSelectPortfolio = 'Select a Portfolio';var tFunds = 'funds';var tFound = 'found';var tAddthisunitBasket = 'Add this unit to basket';var tRemovethisunitbasket = 'Remove this unit from basket';var tNovalueinsave = 'No Value in Save';var tMandatory = 'You must enter values for mandatory (*) fields.';var tLogindesc = 'Sorry, you must be logged in to use this feature';var tsplChar = 'Special Characters not allowed in password';var tNotMatch = 'New Password and Confirm Password doesnot match';var taddbasket = 'add to basket';var tSearchAlert = 'Value should not be empty and should be more than four letters';var tShowing = 'Showing';var tFunds = 'funds';var tFund = 'fund';var tUnits = 'units';var tUnit = 'units';var tOF = 'of';var tLogin = 'Login';var tRegister = 'Register';var tcomment = 'Please enter your comment';var tInvalidEmailID = 'Invalid E-mailID';var tInvalidEmailIDDesc1 = 'Please Enter your Email ID ';var tLock = 'Lock';var tAllSectors = 'All Sectors';var tAllManagers = 'All Managers';var tAllDomiciles = 'All Domiciles';var tAddBasketNew = 'basket';var tAddToNew = 'add to';var tRemoveFromNew = 'remove from';</script>
-        <script type="text/javascript" src="http://davu072c1j2c0.cloudfront.net/v6.0.5633.4382/JS__AJAXHANDLERS/js/ResourceHandler.axd"></script>
+        <script type="text/javascript" src="http://davu072c1j2c0.cloudfront.net/v6.0.5743.5095/JS__AJAXHANDLERS/js/ResourceHandler.axd"></script>
+
 	
 
-    <link href="http://davu072c1j2c0.cloudfront.net/v6.0.5633.4382/PrintCSS/css/ResourceHandler.axd" rel="stylesheet" type="text/css" media="print">
+    <link href="http://davu072c1j2c0.cloudfront.net/v6.0.5743.5095/PrintCSS/css/ResourceHandler.axd" rel="stylesheet" type="text/css" media="print">
     
     <!--[if lt IE 8]>
-        <link href="http://davu072c1j2c0.cloudfront.net/css/TNUK/IEPrintStyle.css?v=v6.0.5633.4382" rel="stylesheet" type="text/css" media="print"  />
+        <link href="http://davu072c1j2c0.cloudfront.net/css/TNUK/IEPrintStyle.css?v=v6.0.5743.5095" rel="stylesheet" type="text/css" media="print"  />
     <![endif]-->	
     
-    <link href="http://davu072c1j2c0.cloudfront.net/favicon.ico?v=v6.0.5633.4382" rel="icon" type="image/x-icon">
-    <link href="http://davu072c1j2c0.cloudfront.net/favicon.ico?v=v6.0.5633.4382" rel="shortcut icon" type="image/x-icon">
+    <link href="http://davu072c1j2c0.cloudfront.net/favicon.ico?v=v6.0.5743.5095" rel="icon" type="image/x-icon">
+    <link href="http://davu072c1j2c0.cloudfront.net/favicon.ico?v=v6.0.5743.5095" rel="shortcut icon" type="image/x-icon">
     <link rel="alternate" type="application/rss+xml" title="FE Trustnet (RSS 2.0)" href="http://davu072c1j2c0.cloudfront.net/Tools/RSS/Feed.aspx">	
     
     <script type="text/javascript">
@@ -52,6 +54,17 @@
     </script>
 </head>
 <body itemscope="" itemtype="http://schema.org/WebPage">
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-P2VJLH"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>    (function (w, d, s, l, i) {
+        w[l] = w[l] || []; w[l].push({ 'gtm.start':
+new Date().getTime(), event: 'gtm.js'
+        }); var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+'//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-P2VJLH');</script>
+<!-- End Google Tag Manager -->
 
 <div class="wrapper_centre js_page_wrapper">
 
@@ -84,7 +97,7 @@
     var OAS_version;
     var investorType = GetMappedInvestorType('popup');
     var OAS_sitepage = 'www.trustnet.com/Education/PrivacyPolicy.aspx';
-    var OAS_query = '?investor_type=' + investorType;
+    var OAS_query = '?investor_type=' + investorType.toLowerCase();
     OAS_query += "&email=&screen_height=" +screen.availWidth;
     var adQuery = decodeURIComponent("");
     adQuery = adQuery.replace("univ=O", "univ=U");
@@ -92,6 +105,11 @@
     var OAS_listpos = 'Top,Top1,Top2,Left,Top3,Position1,TopRight';
     if (screen.width < 1280 || getQueryValue('print') == 'true') {
         OAS_listpos = OAS_listpos.replace(',TopRight', '');
+    }
+    if (jQuery('div.divArticleContent').width() > 425) {
+        OAS_listpos = OAS_listpos.replace(',Position1', '');
+        jQuery('#adPos_Position1').remove();
+        jQuery('.advertisement:first').remove();
     }
     if (screen.width < 1280 && location.href.indexOf("PortfolioHome.aspx") > 0) {
         OAS_listpos = OAS_listpos.replace(',Position1', '');
@@ -143,6 +161,7 @@
     var isbasketPopupHide = false;
     var basketPopupHideCnt = 0;
     var BasketAllGFFundObj = [];
+    var newUserType='0';
     //--><!]]></script>
   
 <div class="header-content">
@@ -164,7 +183,7 @@
                 <li><a href="/Help/Help.aspx" title="Help"><span class="icon_help"></span></a></li>
                 <li><a href="/Help/ContactUs.aspx" title="Contact Us"><span class="icon_mail"></span></a></li>
                 
-                                    <li class="login"><a onclick="javascript:ShowLoginPopup('LoginPopupPanel')" title="Login"><span class="icon_login"></span>Login</a>
+                                    <li class="login"><a onclick="javascript:ShowLoginPopup('LoginPopupPanel');GAMenuTrack('PRF-LGN');" title="Login"><span class="icon_login"></span>Login</a>
                 
                 
             </li></ul>
@@ -184,346 +203,362 @@
  </div>
  <div id="TopPosDiv" style="display:block; height:0px; width:190px; padding:0px; margin :0px; float :left;"></div>
   
-  <div class="displayNone">
-<div id="AccordionContainer" class="AccordionContainer">
-
+<div class="displayNone">
+ <div id="AccordionContainer" class="AccordionContainer">
   <div id="runAccordionDiv" onclick="runAccordion(1);">
     <div id="AccordionTitle" class="AccordionTitle" onselectstart="return false;">    
-  <div id="Accordion1Content" class="AccordionContent">
-    <a id="AccConProfAnchor" href="javascript:SetNewTopPopUpInvType('adviser');" title="Professional Investor Edition">&nbsp;Professional Investor Edition<img src="http://davu072c1j2c0.cloudfront.net/images/arrow_yellowRight.png" alt="ar" title="Professional Investor Edition"></a>
-    <a id="AccConPrivAnchor" href="javascript:SetNewTopPopUpInvType('investor');" title="Private Investor Edition">&nbsp;Private Investor Edition<img src="http://davu072c1j2c0.cloudfront.net/images/arrow_yellowRight.png" alt="ar" title="Private Investor Edition"></a>
+      <div id="Accordion1Content" class="AccordionContent">
+        <a id="AccConProfAnchor" href="javascript:SetNewTopPopUpInvType('adviser');" title="Professional Investor Edition">&nbsp;Professional Investor Edition<img src="http://davu072c1j2c0.cloudfront.net/images/arrow_yellowRight.png" alt="ar" title="Professional Investor Edition"></a>
+        <a id="AccConPrivAnchor" href="javascript:SetNewTopPopUpInvType('investor');" title="Private Investor Edition">&nbsp;Private Investor Edition<img src="http://davu072c1j2c0.cloudfront.net/images/arrow_yellowRight.png" alt="ar" title="Private Investor Edition"></a>
+      </div>
+      <div class="bottomAnchor"> 
+        <a id="AccordionClose" style="display:none; width :206px;" onclick="javascript:ShowNewInv();">
+        Choose an Edition
+        </a>
+        <a id="AccordionFirstTime">First time? Choose an Edition</a>
+      </div>
+    </div>
   </div>
-  <div class="bottomAnchor"> 
-  <a id="AccordionClose" style="display:none; width :206px;" onclick="javascript:ShowNewInv();">
-  Choose an Edition
- </a>
-  <a id="AccordionFirstTime">First time? Choose an Edition</a>
- 
-  </div>
-</div>
-</div>
-  </div>
-  <div id="AccordionGreenContainer" class="AccordionContainer">
-  <div id="AccordionGreenTitle" class="AccordionGreenTitle" onselectstart="return false;">
-  <div id="AccordionGreenContent" class="AccordionGreenContent">
-   <a id="PrivateAnchor">Private Investor Edition  </a>
-   <a class="changeAnchor" href="javascript:ShowHideAccordionInvestorTop('Change',true); HideNewInv();"><img alt="Priv" src="http://davu072c1j2c0.cloudfront.net/images/but_Change.png" title="change"></a>  
-  </div>
-  
+ </div>
+ <div id="AccordionGreenContainer" class="AccordionContainer">
+   <div id="AccordionGreenTitle" class="AccordionGreenTitle" onselectstart="return false;">
+    <div id="AccordionGreenContent" class="AccordionGreenContent">
+      <a id="PrivateAnchor">Private Investor Edition  </a>
+      <a class="changeAnchor" href="javascript:ShowHideAccordionInvestorTop('Change',true); HideNewInv();"><img alt="Priv" src="http://davu072c1j2c0.cloudfront.net/images/but_Change.png" title="change"></a>  
+    </div>
+   </div> 
  </div> 
- </div> 
-
  <div id="AccordionBlueContainer" class="AccordionContainer">
   <div id="AccordionBlueTitle" class="AccordionBlueTitle" onselectstart="return false;">
-  <div id="AccordionBlueContent" class="AccordionBlueContent">
-  <a id="ProfessionalAnchor">Professional Investor Edition</a>
-   <a class="changeAnchor" href="javascript:ShowHideAccordionInvestorTop('Change',true); HideNewInv();"><img alt="Priv" src="http://davu072c1j2c0.cloudfront.net/images/but_Change.png" title="change"></a>
-  </div>
- 
- </div> 
+    <div id="AccordionBlueContent" class="AccordionBlueContent">
+      <a id="ProfessionalAnchor">Professional Investor Edition</a>
+      <a class="changeAnchor" href="javascript:ShowHideAccordionInvestorTop('Change',true); HideNewInv();"><img alt="Priv" src="http://davu072c1j2c0.cloudfront.net/images/but_Change.png" title="change"></a>
+    </div>
+  </div> 
  </div>
- </div>
+</div>
+
 <!-- user type -->
 <input type="hidden" id="invtype" name="invtype" value="">
 <iframe id="investorSelectorIFrame" src="" frameborder="0" style="height: 0px; z-index: 200000;" scrolling="no"></iframe>
-<div id="InvestorSelector">
-</div>
+  <div id="InvestorSelector">
+  </div>
 
 <div class="wholeCover" id="wholeCover" style="left :0px; top :0px;"></div>
-<div class="idPanel" id="idPannel" style="font-size: 0.95em;">
-<p><img width="300" height="41" title="To continue using FE Trustnet please choose an edition:" alt="To continue using FE Trustnet please choose an edition:" src="http://davu072c1j2c0.cloudfront.net/images/continue.png"></p>
-<p class="buttonFP"><a title="Finance Professional" href="javascript:ProfCheck();"></a></p>
-<p class="buttonPI"><a title="Private Investor" href="javascript:PrivCheck();"></a></p>
-<div id="ckContent" style="width:340px;border-bottom: 1px dotted #4e4437;height:110px;">
-This site uses cookies.  Some of the cookies are essential for parts of the site to operate and have already been set.  
-You may delete and block all cookies from this site, but if you do, parts of the site may not work.  To find out more 
-about cookies on the website and how to delete cookies, see our <a href="/Education/PrivacyPolicy.aspx">Privacy and Cookie Policy</a>.
-<br><br>
-<input type="checkbox" id="ChkCookie" name="ChkCookie" checked="checked" value="" style="font-weight:bold;margin-left:55px;"><strong>I accept the FE Trustnet cookie policy</strong><br><br>
-</div>
-<div class="moreInfo">For more information <a title="For more information Click here" class="info" href="/help/popup.aspx">Click here</a></div>
+
+<div id="LoginNewPopupPanel" class="LoginNewPopupPanel" style="top:111px;left:432px;">
+ <div class="content1 loginPannel checkbox">
+   <div id="logiPopUpcheck">
+    <p style="font-size:15px;"><strong>To continue using this website, please tell us a <br> little about yourself:</strong></p>
+    <p><input class="checkbox" type="checkbox" id="Checkbox_1" name="I am a financial advisor" checked="checked" value="Adviser" style="font-weight:bold;font-size:12px;"><label for="Checkbox_1"> I am a financial adviser</label></p>
+    <p><input class="checkbox" type="checkbox" id="Checkbox_2" name="Discretionary fund manager/Multimanager" value="Discretionary" style="font-weight:bold;font-size:12px;"><label for="Checkbox_2"> I am a discretionary fund manager / multimanager</label></p>
+    <p><input class="checkbox" type="checkbox" id="Checkbox_3" name="Financial Para planner" value="Paraplanner" style="font-weight:bold;font-size:12px;"><label for="Checkbox_3"> I am a financial paraplanner</label></p>
+    <p><input class="checkbox" type="checkbox" id="Checkbox_4" name="Finance Professional" value="MarketPro" style="font-weight:bold;font-size:12px;"><label for="Checkbox_4"> I work in financial services</label></p>
+    <p><input class="checkbox" type="checkbox" id="Checkbox_5" name="Private Investor" value="Investor" style="font-weight:bold;font-size:12px;"><label for="Checkbox_5"> I am a private investor</label></p>
+   </div>
+ <div id="Div1" style="width:355px;height:113px; font-size:11px;">
+   This site uses cookies.  Some of the cookies are essential for parts of the site to operate and have already been set.  
+   You may delete and block all cookies from this site, but if you do, parts of the site may not work.  To find out more 
+   about cookies on the website and how to delete cookies, see our <a href="/Education/PrivacyPolicy.aspx">Privacy and Cookie Policy</a>.
+   <br><br>
+  <input type="checkbox" id="ChkCookie" name="ChkCookie" checked="checked" value="" style="font-weight:bold;margin-left:55px;"><strong> I accept the FE Trustnet cookie policy</strong><br><br>
+ </div>
+ <div class="spaceBottom_margin" id="investorCheck">
+  <a class="go alignLeft">Continue</a>
+ </div>
+<div class="moreInfo" style="font-size:11px;">For more information <a title="For more information Click here" class="info" href="/help/popup.aspx">Click here</a></div>
+ </div>
 </div>
 
-<script type="text/javascript"><!--//--><![CDATA[//><!--
+<script type="text/javascript"><!--    //--><![CDATA[//><!--
     InitInvestorSelector("")
-//--><!]]>
-
+    //--><!]]>
+    newUserType = '0';
 </script>
+
 <script type="text/javascript">
-
-var univCookie=false;
-
+ var univCookie=false;
+ jQuery("input[type='checkbox']").change(function() {
+    jQuery(this).closest("#logiPopUpcheck").find("input[type='checkbox']").not(this).prop("checked", false);
+    jQuery(this).prop("checked", true);
+ });
+ jQuery('#investorCheck').on('click', function () {
+    var values = []
+    jQuery('.checkbox:checked').each(function () {
+        var e = jQuery(this);
+        values.push(e.val());
+ });
+ if(jQuery("#ChkCookie").length!=0 && jQuery("#ChkCookie:checked").length == 0)
+  {
+     alert("The user must accept cookie policy to proceed");
+     return;      
+  }
+ if (values!=null && values!='') {
+   var user_type= values[0];
+    SetNewTopPopUpInvType(user_type);
+    SetCookie('NewuserPopUp','1',365);
+   var paramArray;
+    if (registeredUserId != '' && newUserType != '1')
+        {
+        paramArray = ['userid', registeredUserId, 'userType', values];
+        var param = JOSONParameter(paramArray);
+        AjaxCall('/Webservices/JqueryTest.asmx', 'POST', 'application/json', 'UpdatePopupCookiePolicy', param, true, CallBack);  
+        }
+  }
+  else {
+        alert("The user must select usertype to proceed");
+        return; 
+       }
+  });
 </script>
 
 
  <div class="navi-content">
  
     	<ul class="top-navi" id="ulMainNavNew">
-        	<li><a id="Investments" href="/">Investments</a>
+        	<li><a id="Investments" href="/" onclick="javascript:GAMenuTrack('INV-M01');">Investments</a>
             	<ul class="sub-menu investments">
 
                      
 
                                         <li><a>IA Unit Trusts &amp; OEICs<span class="icon_arrow"></span></a>
                     	<ul class="child-menu">
-                        	         <li><a href="/investment-funds/ima-unit-trusts-oeics/">IA Unit Trusts &amp; OEICs Home</a></li>
-                                    <li><a href="/Investments/Perf.aspx?univ=O">Prices &amp; Performance</a></li>	
-                                    <li><a href="/Investments/MultiManagerMixedAsset.aspx?univ=O">Multi-manager &amp; Mixed Asset</a></li>	
+                        	         <li><a onclick="javascript:GAMenuTrack('INV-SS01');" href="/IMAUTOEICs.aspx">IA Unit Trusts &amp; OEICs Home</a></li>
+                                    <li><a onclick="javascript:GAMenuTrack('INV-SS02');" href="/Investments/Perf.aspx?univ=O">Prices &amp; Performance</a></li>	
+                                    <li><a onclick="javascript:GAMenuTrack('INV-SS03');" href="/Investments/MultiManagerMixedAsset.aspx?univ=O">Multi-manager &amp; Mixed Asset</a></li>	
                                     
-                                    <li><a href="/special-report/investing-in-uk-equities/" onclick="_gaq.push(['_trackEvent', 'Home Screen', 'Investment Menu', 'Special Reports']);">Special Reports</a></li>
-                                    
-                                    <li><a href="/ratings/?univ=O">IA UT&amp;OEIC Ratings</a></li>        
-                                    <li><a href="/Investments/FundsList.aspx?univ=O">A-Z Fund Factsheets</a></li>
-                                    <li><a href="/Investments/GroupsList.aspx?univ=O">A-Z Group Factsheets</a></li> 
-                                    <li><a href="/Investments/SectorPerf.aspx?univ=O">A-Z Sectors</a></li> 
-                                    <li><a href="/learn/learnaboutinvesting/Investing-in-a-fund.html">Funds Guide</a></li>
-                                    <li><a href="/Investments/MostPopularFundList.aspx?univ=O">Most viewed funds</a></li> 
-					                <li><a href="/Investments/MostPopularGroupList.aspx?univ=O">Most viewed groups</a></li>			
+                                    <li><a onclick="javascript:GAMenuTrack('INV-SS05');" href="/ratings/?univ=O">IA UT&amp;OEIC Ratings</a></li>        
+                                    <li><a onclick="javascript:GAMenuTrack('INV-SS06');" href="/Investments/FundsList.aspx?univ=O">A-Z Fund Factsheets</a></li>
+                                    <li><a onclick="javascript:GAMenuTrack('INV-SS07');" href="/Investments/GroupsList.aspx?univ=O">A-Z Group Factsheets</a></li> 
+                                    <li><a onclick="javascript:GAMenuTrack('INV-SS08');" href="/Investments/SectorPerf.aspx?univ=O">A-Z Sectors</a></li> 
+                                    <li><a onclick="javascript:GAMenuTrack('INV-SS09');" href="/learn/learnaboutinvesting/Investing-in-a-fund.html">Funds Guide</a></li>
+                                    <li><a onclick="javascript:GAMenuTrack('INV-SS10');" href="/Investments/MostPopularFundList.aspx?univ=O">Most viewed funds</a></li> 
+					                <li><a onclick="javascript:GAMenuTrack('INV-SS11');" href="/Investments/MostPopularGroupList.aspx?univ=O">Most viewed groups</a></li>			
                         </ul>
                     </li>
                     
 
                 	<li><a>Equities<span class="icon_arrow"></span></a>
                         <ul class="child-menu">
-                                    <li><a href="/investments/equities/">Equities Home</a></li>
-                                    <li><a href="/Investments/EquityPerfList.aspx">Prices &amp; Performance</a></li>
-                                    <li><a href="/Investments/EquityList.aspx">A-Z Equity Factsheets</a></li> 
-                                    <li><a href="/Investments/LatestAnnouncements.aspx">Latest announcements</a></li>
+                                    <li><a onclick="javascript:GAMenuTrack('IEF-SS01');" href="/equities/">Equities Home</a></li>
+                                    <li><a onclick="javascript:GAMenuTrack('IEF-SS02');" href="/Investments/EquityPerfList.aspx">Prices &amp; Performance</a></li>
+                                    <li><a onclick="javascript:GAMenuTrack('IEF-SS03');" href="/Investments/EquityList.aspx">A-Z Equity Factsheets</a></li> 
+                                    <li><a onclick="javascript:GAMenuTrack('IEF-SS04');" href="/Investments/LatestAnnouncements.aspx">Latest announcements</a></li>
                         </ul>
                     </li>
                 	<li><a>Investments Trusts<span class="icon_arrow"></span></a>
                         <ul class="child-menu">
-                                    <li><a href="/investments/investment-trusts/ ">Investment Trusts Home</a></li>
-                                    <li><a href="/Investments/Perf.aspx?univ=T">Prices &amp; Performance</a></li>
-                                    <li><a href="/ratings/?univ=T">Investment Trust Ratings</a></li>
-                                    <li><a href="/Investments/FundsList.aspx?univ=T">A-Z Investment Trust Factsheets</a></li>
-                                    <li><a href="/Investments/GroupsList.aspx?univ=T">A-Z Group Factsheets</a></li>
-                                    <li><a href="/Investments/Warrants.aspx?univ=T">A-Z Warrants</a></li>
-                                    <li><a href="/Investments/SectorPerf.aspx?univ=T">A-Z Sectors</a></li>
-                                    <li><a href="/Investments/SplitCapitalAnalytics.aspx?univ=T">Split Capital Analytics</a></li>
-                                    <li><a href="/learn/learnaboutinvesting/Investment-trusts.html">Investment Trust Guide</a></li>
-                                    <li><a href="/Investments/MostPopularFundList.aspx?univ=T">Most viewed investment trusts</a></li>
-                                    <li><a href="/Investments/MostPopularGroupList.aspx?univ=T">Most viewed groups</a></li>              
+                                    <li><a onclick="javascript:GAMenuTrack('ITR-SS01');" href="/investments/investment-trusts/">Investment Trusts Home</a></li>
+                                    <li><a onclick="javascript:GAMenuTrack('ITR-SS02');" href="/Investments/Perf.aspx?univ=T">Prices &amp; Performance</a></li>
+                                    <li><a onclick="javascript:GAMenuTrack('ITR-SS03');" href="/ratings/?univ=T">Investment Trust Ratings</a></li>
+                                    <li><a onclick="javascript:GAMenuTrack('ITR-SS04');" href="/Investments/FundsList.aspx?univ=T">A-Z Investment Trust Factsheets</a></li>
+                                    <li><a onclick="javascript:GAMenuTrack('ITR-SS05');" href="/Investments/GroupsList.aspx?univ=T">A-Z Group Factsheets</a></li>
+                                    <li><a onclick="javascript:GAMenuTrack('ITR-SS06');" href="/Investments/Warrants.aspx?univ=T">A-Z Warrants</a></li>
+                                    <li><a onclick="javascript:GAMenuTrack('ITR-SS07');" href="/Investments/SectorPerf.aspx?univ=T">A-Z Sectors</a></li>
+                                    <li><a onclick="javascript:GAMenuTrack('ITR-SS08');" href="/Investments/SplitCapitalAnalytics.aspx?univ=T">Split Capital Analytics</a></li>
+                                    <li><a onclick="javascript:GAMenuTrack('ITR-SS09');" href="/learn/learnaboutinvesting/Investment-trusts.html">Investment Trust Guide</a></li>
+                                    <li><a onclick="javascript:GAMenuTrack('ITR-SS10');" href="/Investments/MostPopularFundList.aspx?univ=T">Most viewed investment trusts</a></li>
+                                    <li><a onclick="javascript:GAMenuTrack('ITR-SS11');" href="/Investments/MostPopularGroupList.aspx?univ=T">Most viewed groups</a></li>              
                         </ul>
                     </li>
                 	<li><a>Pensions<span class="icon_arrow"></span></a>
                           <ul class="child-menu">
-                                    <li><a href="/investment-funds/pension/">Pensions Home</a></li>
-                                    <li><a href="/Investments/Perf.aspx?univ=P">Prices &amp; Performance</a></li>
-                                    <li><a href="/ratings/?univ=P">Pension Fund Ratings</a></li>
-                                    <li><a href="/Investments/FundsList.aspx?univ=P">A-Z Pension Fund Factsheets</a></li>
-                                    <li><a href="/Investments/LPGroupsList.aspx?univ=P">A-Z Group Factsheets</a></li>
-                                    <li><a href="/Investments/LPProductsList.aspx?univ=P">A-Z Pension Product Factsheets</a></li>                                        
-					                <li><a href="/Investments/SectorPerf.aspx?univ=P">A-Z Sectors</a></li>
-					                <li><a href="/Education/Glossaries/Pension.aspx">Pensions glossary</a></li>
-					                <li><a href="/Investments/MostPopularFundList.aspx?univ=P">Most viewed funds</a></li>
-                                    <li><a href="/Investments/MostPopularGroupList.aspx?univ=P">Most viewed groups</a></li>         
+                                    <li><a onclick="javascript:GAMenuTrack('IPN-SS01');" href="/investment-funds/pension/">Pensions Home</a></li>
+                                    <li><a onclick="javascript:GAMenuTrack('IPN-SS02');" href="/Investments/Perf.aspx?univ=P">Prices &amp; Performance</a></li>
+                                    <li><a onclick="javascript:GAMenuTrack('IPN-SS03');" href="/ratings/?univ=P">Pension Fund Ratings</a></li>
+                                    <li><a onclick="javascript:GAMenuTrack('IPN-SS04');" href="/Investments/FundsList.aspx?univ=P">A-Z Pension Fund Factsheets</a></li>
+                                    <li><a onclick="javascript:GAMenuTrack('IPN-SS05');" href="/Investments/LPGroupsList.aspx?univ=P">A-Z Group Factsheets</a></li>
+                                    <li><a onclick="javascript:GAMenuTrack('IPN-SS06');" href="/Investments/LPProductsList.aspx?univ=P">A-Z Pension Product Factsheets</a></li>                                        
+					                <li><a onclick="javascript:GAMenuTrack('IPN-SS07');" href="/Investments/SectorPerf.aspx?univ=P">A-Z Sectors</a></li>
+					                <li><a onclick="javascript:GAMenuTrack('IPN-SS08');" href="/Education/Glossaries/Pension.aspx">Pensions glossary</a></li>
+					                <li><a onclick="javascript:GAMenuTrack('IPN-SS09');" href="/Investments/MostPopularFundList.aspx?univ=P">Most viewed funds</a></li>
+                                    <li><a onclick="javascript:GAMenuTrack('IPN-SS10');" href="/Investments/MostPopularGroupList.aspx?univ=P">Most viewed groups</a></li>         
                           </ul>
                     </li>
                 	<li><a>Life<span class="icon_arrow"></span></a>
                      <ul class="child-menu">
-                             <li><a href="/investment-funds/life-insurance/">Life Home</a></li>
-                            <li><a href="/Investments/Perf.aspx?univ=N">Prices &amp; Performance</a></li>
-                            <li><a href="/ratings/?univ=N">A-Z Life Fund Ratings</a></li>
-                            <li><a href="/Investments/FundsList.aspx?univ=N">A-Z Life Fund Factsheets</a></li>
-                            <li><a href="/Investments/LPGroupsList.aspx?univ=N">A-Z Life Group Factsheets</a></li>
-                            <li><a href="/Investments/LPProductsList.aspx?univ=N">A-Z Life Product Factsheets</a></li>                                      
-                            <li><a href="/Investments/SectorPerf.aspx?univ=N">A-Z Sectors</a></li>
-                            <li><a href="/Education/Glossaries/Insurance.aspx">Life insurance glossary</a></li>
-                            <li><a href="/Investments/MostPopularFundList.aspx?univ=N">Most viewed funds</a></li>
-                            <li><a href="/Investments/MostPopularGroupList.aspx?univ=N">Most viewed groups</a></li>      
+                             <li><a onclick="javascript:GAMenuTrack('ILF-SS01');" href="/investment-funds/life-insurance/">Life Home</a></li>
+                            <li><a onclick="javascript:GAMenuTrack('ILF-SS02');" href="/Investments/Perf.aspx?univ=N">Prices &amp; Performance</a></li>
+                            <li><a onclick="javascript:GAMenuTrack('ILF-SS03');" href="/ratings/?univ=N">A-Z Life Fund Ratings</a></li>
+                            <li><a onclick="javascript:GAMenuTrack('ILF-SS04');" href="/Investments/FundsList.aspx?univ=N">A-Z Life Fund Factsheets</a></li>
+                            <li><a onclick="javascript:GAMenuTrack('ILF-SS05');" href="/Investments/LPGroupsList.aspx?univ=N">A-Z Life Group Factsheets</a></li>
+                            <li><a onclick="javascript:GAMenuTrack('ILF-SS06');" href="/Investments/LPProductsList.aspx?univ=N">A-Z Life Product Factsheets</a></li>                                      
+                            <li><a onclick="javascript:GAMenuTrack('ILF-SS07');" href="/Investments/SectorPerf.aspx?univ=N">A-Z Sectors</a></li>
+                            <li><a onclick="javascript:GAMenuTrack('ILF-SS08');" href="/Education/Glossaries/Insurance.aspx">Life insurance glossary</a></li>
+                            <li><a onclick="javascript:GAMenuTrack('ILF-SS09');" href="/Investments/MostPopularFundList.aspx?univ=N">Most viewed funds</a></li>
+                            <li><a onclick="javascript:GAMenuTrack('ILF-SS10');" href="/Investments/MostPopularGroupList.aspx?univ=N">Most viewed groups</a></li>      
                           </ul>
                     </li>
                 	<li><a>Offshore Funds<span class="icon_arrow"></span></a>
                      <ul class="child-menu">
-                                 <li><a href="/investment-funds/offshore/">Offshore Funds Home</a></li>
-                                 <li><a href="/Investments/Perf.aspx?univ=B">Prices &amp; Performance</a></li>
-                                    <li><a href="/ratings/?univ=B">Offshore Fund Ratings</a></li>
-                                    <li><a href="/Investments/FundsList.aspx?univ=B">A-Z Offshore Fund Factsheets</a></li>
-                                    <li><a href="/Investments/GroupsList.aspx?univ=B">A-Z Group Factsheets</a></li>                   
-                                    <li><a href="/Investments/SectorPerf.aspx?univ=B">A-Z Sectors</a></li>
-                                    <li><a href="/learn/learnaboutinvesting/Onshore-and-offshore---what%E2%80%99s-the-difference.html">Offshore Funds Guide</a></li>
-                                    <li><a href="/Investments/MostPopularFundList.aspx?univ=B">Most viewed funds</a></li>
-                                    <li><a href="/Investments/MostPopularGroupList.aspx?univ=B">Most viewed groups</a></li>       
+                                 <li><a onclick="javascript:GAMenuTrack('IOF-SS01');" href="/investment-funds/offshore/">Offshore Funds Home</a></li>
+                                 <li><a onclick="javascript:GAMenuTrack('IOF-SS02');" href="/Investments/Perf.aspx?univ=B">Prices &amp; Performance</a></li>
+                                    <li><a onclick="javascript:GAMenuTrack('IOF-SS03');" href="/ratings/?univ=B">Offshore Fund Ratings</a></li>
+                                    <li><a onclick="javascript:GAMenuTrack('IOF-SS04');" href="/Investments/FundsList.aspx?univ=B">A-Z Offshore Fund Factsheets</a></li>
+                                    <li><a onclick="javascript:GAMenuTrack('IOF-SS05');" href="/Investments/GroupsList.aspx?univ=B">A-Z Group Factsheets</a></li>                   
+                                    <li><a onclick="javascript:GAMenuTrack('IOF-SS06');" href="/Investments/SectorPerf.aspx?univ=B">A-Z Sectors</a></li>
+                                    <li><a onclick="javascript:GAMenuTrack('IOF-SS07');" href="/learn/learnaboutinvesting/Onshore-and-offshore---what%E2%80%99s-the-difference.html">Offshore Funds Guide</a></li>
+                                    <li><a onclick="javascript:GAMenuTrack('IOF-SS08');" href="/Investments/MostPopularFundList.aspx?univ=B">Most viewed funds</a></li>
+                                    <li><a onclick="javascript:GAMenuTrack('IOF-SS09');" href="/Investments/MostPopularGroupList.aspx?univ=B">Most viewed groups</a></li>       
                           </ul>
                     </li>
                 	<li><a>ETFs<span class="icon_arrow"></span></a>
                      <ul class="child-menu">
-                         <li><a href="/investment-funds/exchange-traded-funds/">ETFs Home</a></li>
-                            <li><a href="/Investments/Perf.aspx?univ=E">ETF Prices &amp; Performance</a></li>
-                            <li><a href="/ratings/?univ=E">ETF Fund Ratings</a></li>
-                            <li><a href="/Investments/FundsList.aspx?univ=E">A-Z ETF Factsheets</a></li>
-                            <li><a href="/Investments/GroupsList.aspx?univ=E">A-Z Group Factsheets</a></li>
-                            <li><a href="/Investments/SectorPerf.aspx?univ=E">A-Z Sectors</a></li>
-                            <li><a href="/learn/learnaboutinvesting/Exchange-Traded-Funds-(ETFs).html">ETFs Guide</a></li>
-                            <li><a href="/Investments/MostPopularFundList.aspx?univ=E">Most viewed funds</a></li>
-                            <li><a href="/Investments/MostPopularGroupList.aspx?univ=E">Most viewed groups</a></li>            
+                         <li><a onclick="javascript:GAMenuTrack('IET-SS01');" href="/investment-funds/exchange-traded-funds/">ETFs Home</a></li>
+                            <li><a onclick="javascript:GAMenuTrack('IET-SS02');" href="/Investments/Perf.aspx?univ=E">ETF Prices &amp; Performance</a></li>
+                            <li><a onclick="javascript:GAMenuTrack('IET-SS03');" href="/ratings/?univ=E">ETF Fund Ratings</a></li>
+                            <li><a onclick="javascript:GAMenuTrack('IET-SS04');" href="/Investments/FundsList.aspx?univ=E">A-Z ETF Factsheets</a></li>
+                            <li><a onclick="javascript:GAMenuTrack('IET-SS05');" href="/Investments/GroupsList.aspx?univ=E">A-Z Group Factsheets</a></li>
+                            <li><a onclick="javascript:GAMenuTrack('IET-SS06');" href="/Investments/SectorPerf.aspx?univ=E">A-Z Sectors</a></li>
+                            <li><a onclick="javascript:GAMenuTrack('IET-SS07');" href="/learn/learnaboutinvesting/Exchange-Traded-Funds-(ETFs).html">ETFs Guide</a></li>
+                            <li><a onclick="javascript:GAMenuTrack('IET-SS08');" href="/Investments/MostPopularFundList.aspx?univ=E">Most viewed funds</a></li>
+                            <li><a onclick="javascript:GAMenuTrack('IET-SS09');" href="/Investments/MostPopularGroupList.aspx?univ=E">Most viewed groups</a></li>            
                           </ul>
                     </li>
                 	<li><a>VCTs<span class="icon_arrow"></span></a>
                      <ul class="child-menu">
-                         <li><a href="/investments/venture-capital-trusts/">VCTs Home</a></li>
-                            <li><a href="/Investments/VCTPerf.aspx">VCT Prices &amp; Performance</a></li>
-                            <li><a href="/Investments/VCTFundsList.aspx">A-Z VCT Factsheets</a></li>
-                            <li><a href="/Education/VCT.aspx">VCTs Guide</a></li>                    
-                            <li><a href="/Investments/MostPopularFundList.aspx?univ=VCT">Most viewed funds</a></li>
-                            <li><a href="/Investments/MostPopularGroupList.aspx?univ=VCT">Most viewed groups</a></li>		     
+                         <li><a onclick="javascript:GAMenuTrack('IVC-SS01');" href="/investments/venture-capital-trusts/">VCTs Home</a></li>
+                            <li><a onclick="javascript:GAMenuTrack('IVC-SS02');" href="/Investments/VCTPerf.aspx">VCT Prices &amp; Performance</a></li>
+                            <li><a onclick="javascript:GAMenuTrack('IVC-SS03');" href="/Investments/VCTFundsList.aspx">A-Z VCT Factsheets</a></li>
+                            <li><a onclick="javascript:GAMenuTrack('IVC-SS04');" href="/Education/VCT.aspx">VCTs Guide</a></li>                    
+                            <li><a onclick="javascript:GAMenuTrack('IVC-SS05');" href="/Investments/MostPopularFundList.aspx?univ=VCT">Most viewed funds</a></li>
+                            <li><a onclick="javascript:GAMenuTrack('IVC-SS06');" href="/Investments/MostPopularGroupList.aspx?univ=VCT">Most viewed groups</a></li>		     
                           </ul>
                     </li>
                         
                 </ul>
             </li>
-            <li><a id="Managers" href="/Managers/">Fund Managers</a>
+            <li><a id="Managers" onclick="javascript:GAMenuTrack('FM-M01');" href="/Managers/">Fund Managers</a>
                 <ul class="sub-menu fund_managers">
-                    <li><a href="/Managers/">Fund Managers Home</a></li>
-                    <li><a href="/Managers/AlphaManagers.aspx">Alpha managers</a></li>
-                    <li><a href="/Managers/ManagerPerf.aspx">League table</a> </li>
-                    <li><a href="/Managers/ManagersList.aspx">A-Z manager factsheets</a> </li>
+                    <li><a onclick="javascript:GAMenuTrack('FM-S01');" href="/Managers/">Fund Managers Home</a></li>
+                    <li><a onclick="javascript:GAMenuTrack('FM-S02');" href="/Managers/AlphaManagers.aspx">Alpha managers</a></li>
+                    <li><a onclick="javascript:GAMenuTrack('FM-S03');" href="/Managers/ManagerPerf.aspx">League table</a> </li>
+                    <li><a onclick="javascript:GAMenuTrack('FM-S04');" href="/Managers/ManagersList.aspx">A-Z manager factsheets</a> </li>
                 </ul>
             </li>
-            <li><a id="News" href="/News/">News &amp; Research</a>
+            <li><a id="News" onclick="javascript:GAMenuTrack('NAR-M01');" href="/News/">News &amp; Research</a>
                 <ul class="sub-menu news_research">
-                    <li><a href="/News/">News &amp; Research Home</a></li>
-                    <li><a href="/News/Research.aspx?type=research">News Archive</a></li>
+                    <li><a onclick="javascript:GAMenuTrack('NAR-S01');" href="/News/">News &amp; Research Home</a></li>
+                    <li><a onclick="javascript:GAMenuTrack('NAR-S02');" href="/News/Research.aspx?type=research">News Archive</a></li>
                     <li><a>Education guides<span class="icon_arrow"></span></a>
                         <ul class="child-menu">
-                            <li><a href="/learn/learnaboutinvesting.aspx">Education guides home</a></li>
-                            <li><a href="/learn/learnaboutinvesting/Emerging-markets.html">Emerging Market</a>
+                            <li><a onclick="javascript:GAMenuTrack('NAR-SS01');" href="/learn/learnaboutinvesting.aspx">Education guides home</a></li>
+                            <li><a onclick="javascript:GAMenuTrack('NAR-SS02');" href="/learn/learnaboutinvesting/Emerging-markets.html">Emerging Market</a>
                             </li>
-                            <li><a href="/learn/learnaboutinvesting/Exchange-Traded-Funds-(ETFs).html">ETFs</a></li>
-                            <li><a href="/learn/learnaboutinvesting/Investing-in-a-fund.html">Unit Trust &amp; OEIC</a>
+                            <li><a onclick="javascript:GAMenuTrack('NAR-SS03');" href="/learn/learnaboutinvesting/Exchange-Traded-Funds-(ETFs).html">ETFs</a></li>
+                            <li><a onclick="javascript:GAMenuTrack('NAR-SS04');" href="/learn/learnaboutinvesting/Investing-in-a-fund.html">Unit Trust &amp; OEIC</a>
                             </li>
-                            <li><a href="/learn/learnaboutinvesting/Investment-trusts.html">Investment trust</a>
+                            <li><a onclick="javascript:GAMenuTrack('NAR-SS05');" href="/learn/learnaboutinvesting/Investment-trusts.html">Investment trust</a>
                             </li>
-                            <li><a href="/learn/learnaboutinvesting/Onshore-and-offshore---what%E2%80%99s-the-difference.html">
+                            <li><a onclick="javascript:GAMenuTrack('NAR-SS06');" href="/learn/learnaboutinvesting/Onshore-and-offshore---what%E2%80%99s-the-difference.html">
                                 Offshore funds</a> </li>
-                            <li><a href="/learn/learnaboutinvesting/What-is-an-ISA%3F.html">ISAs</a> </li>
+                            <li><a onclick="javascript:GAMenuTrack('NAR-SS07');" href="/learn/learnaboutinvesting/What-is-an-ISA%3F.html">ISAs</a> </li>
                         </ul>
                     </li>
-                    <li><a href="/news/videosarchive.aspx">FE Trustnet Videos</a> </li>
-                    <li><a href="/news/video.aspx">Bright-talk Videos</a> </li>
-                    <li><a>Brochures<span class="icon_arrow"></span></a>
-                        <ul class="child-menu">
-                            <li><a rel="nofollow" href="http://www.dianomioffers.co.uk/partner/trustnet/brochures.epl">
-                                Brochures Home</a></li>
-                            <li><a rel="nofollow" href="/Education/Brochures.aspx?brochure=alt">Alternative investments</a></li>
-                            <li><a rel="nofollow" href="/Education/Brochures.aspx?brochure=it">Investment trust
-                                brochures</a></li>
-                            <li><a rel="nofollow" href="/Education/Brochures.aspx?brochure=isa">ISA brochures</a></li>
-                           
-                            <li><a rel="nofollow" href="/Education/Brochures.aspx?brochure=iht">Inheritance tax</a></li>
-                            <li><a rel="nofollow" href="/Education/Brochures.aspx?brochure=online">Online trading</a></li>
-                            <li><a rel="nofollow" href="/Education/Brochures.aspx?brochure=overseas">Overseas properties</a></li>
-                            <li><a rel="nofollow" href="/Education/Brochures.aspx?brochure=children">Saving for
-                                children</a></li>
-                            <li><a rel="nofollow" href="/Education/Brochures.aspx?brochure=retire">Saving for retirement</a></li>
-                            <li><a rel="nofollow" href="/Education/Brochures.aspx?brochure=plans">Savings plans</a></li>
-                            <li><a rel="nofollow" href="/Education/Brochures.aspx?brochure=vct">VCTs</a></li>
-                            <li><a rel="nofollow" href="/Education/Brochures.aspx?brochure=market">World market
-                                reports</a></li>
-                        </ul>
-                    </li>
+                    <li><a onclick="javascript:GAMenuTrack('NAR-S03');" href="/news/videosarchive.aspx">FE Trustnet Videos</a> </li>
+                    <li><a onclick="javascript:GAMenuTrack('NAR-S04');" href="/news/video.aspx">Bright-talk Videos</a> </li>
+                 
                 </ul>
             </li>
-            <li><a id="Learning" href="/learn/learnaboutinvesting.aspx">Learning</a>
+            <li><a id="Learning" onclick="javascript:GAMenuTrack('EDU-M01');" href="/learn/learnaboutinvesting.aspx">Learning</a>
                 <ul class="sub-menu learning">
-                    <li><a href="/learn/learnaboutinvesting.aspx">Learn about investing</a></li>
+                    <li><a onclick="javascript:GAMenuTrack('EDU-S01');" href="/learn/learnaboutinvesting.aspx">Learn about investing</a></li>
                     <li><a>Investment basics<span class="icon_arrow"></span></a>
                         <ul class="child-menu">
-                            <li><a href="/learn/learnaboutinvesting/Pensions.html">Pensions</a></li>
-                            <li><a href="/learn/learnaboutinvesting/Investing-in-a-fund.html">Investing in a fund</a></li>
-                            <li><a href="/learn/learnaboutinvesting/Investment-trusts.html">Investment trusts</a></li>
-                            <li><a href="/learn/learnaboutinvesting/Exchange-Traded-Funds-(ETFs).html">Exchange
+                            <li><a onclick="javascript:GAMenuTrack('EDU-SS01');" href="/learn/learnaboutinvesting/Pensions.html">Pensions</a></li>
+                            <li><a onclick="javascript:GAMenuTrack('EDU-SS02');" href="/learn/learnaboutinvesting/Investing-in-a-fund.html">Investing in a fund</a></li>
+                            <li><a onclick="javascript:GAMenuTrack('EDU-SS03');" href="/learn/learnaboutinvesting/Investment-trusts.html">Investment trusts</a></li>
+                            <li><a onclick="javascript:GAMenuTrack('EDU-SS04');" href="/learn/learnaboutinvesting/Exchange-Traded-Funds-(ETFs).html">Exchange
                                 Traded Funds (ETFs)</a></li>
-                            <li><a href="/learn/learnaboutinvesting/Passive-funds-and-trackers.html">Passive funds
+                            <li><a onclick="javascript:GAMenuTrack('EDU-SS05');" href="/learn/learnaboutinvesting/Passive-funds-and-trackers.html">Passive funds
                                 and trackers</a></li>
-                            <li><a href="/learn/learnaboutinvesting/What-is-an-ISA%3F.html">What is an ISA?</a></li>
+                            <li><a onclick="javascript:GAMenuTrack('EDU-SS06');" href="/learn/learnaboutinvesting/What-is-an-ISA%3F.html">What is an ISA?</a></li>
                         </ul>
                     </li>
                     <li><a>What to invest in?<span class="icon_arrow"></span></a>
                         <ul class="child-menu">
-                            <li><a href="/learn/learnaboutinvesting/Bonds.html">Bonds</a></li>
-                            <li><a href="/learn/learnaboutinvesting/Equities.html">Equities</a></li>
-                            <li><a href="/learn/learnaboutinvesting/Property.html">Property</a></li>
-                            <li><a href="/learn/learnaboutinvesting/Commodities.html">Commodities</a></li>
+                            <li><a onclick="javascript:GAMenuTrack('EDU-SS07');" href="/learn/learnaboutinvesting/Bonds.html">Bonds</a></li>
+                            <li><a onclick="javascript:GAMenuTrack('EDU-SS08');" href="/learn/learnaboutinvesting/Equities.html">Equities</a></li>
+                            <li><a onclick="javascript:GAMenuTrack('EDU-SS09');" href="/learn/learnaboutinvesting/Property.html">Property</a></li>
+                            <li><a onclick="javascript:GAMenuTrack('EDU-SS10');" href="/learn/learnaboutinvesting/Commodities.html">Commodities</a></li>
                         </ul>
                     </li>
                     <li><a>Where to invest?<span class="icon_arrow"></span></a>
                         <ul class="child-menu">
-                            <li><a href="/learn/learnaboutinvesting/UK.html">UK</a></li>
-                            <li><a href="/learn/learnaboutinvesting/US.html">US</a></li>
-                            <li><a href="/learn/learnaboutinvesting/Europe.html">Europe</a></li>
-                            <li><a href="/learn/learnaboutinvesting/Emerging-markets.html">Emerging markets</a></li>
-                            <li><a href="/learn/learnaboutinvesting/Asia.html">Asia</a></li>
+                            <li><a onclick="javascript:GAMenuTrack('EDU-SS11');" href="/learn/learnaboutinvesting/UK.html">UK</a></li>
+                            <li><a onclick="javascript:GAMenuTrack('EDU-SS12');" href="/learn/learnaboutinvesting/US.html">US</a></li>
+                            <li><a onclick="javascript:GAMenuTrack('EDU-SS13');" href="/learn/learnaboutinvesting/Europe.html">Europe</a></li>
+                            <li><a onclick="javascript:GAMenuTrack('EDU-SS14');" href="/learn/learnaboutinvesting/Emerging-markets.html">Emerging markets</a></li>
+                            <li><a onclick="javascript:GAMenuTrack('EDU-SS15');" href="/learn/learnaboutinvesting/Asia.html">Asia</a></li>
                         </ul>
                     </li>
                     <li><a>How to invest?<span class="icon_arrow"></span></a>
                         <ul class="child-menu">
-                            <li><a href="/learn/learnaboutinvesting/Setting-objectives-for-your-portfolio.html">
+                            <li><a onclick="javascript:GAMenuTrack('EDU-SS16');" href="/learn/learnaboutinvesting/Setting-objectives-for-your-portfolio.html">
                                 Setting objectives for your portfolio</a></li>
-                            <li><a href="/learn/learnaboutinvesting/Asset-allocation---the-basics.html">Asset allocation
+                            <li><a onclick="javascript:GAMenuTrack('EDU-SS17');" href="/learn/learnaboutinvesting/Asset-allocation---the-basics.html">Asset allocation
                                 - the basics</a></li>
-                            <li><a href="/learn/learnaboutinvesting/Measuring-performance.html">Measuring performance</a></li>
-                            <li><a href="/learn/learnaboutinvesting/Onshore-and-offshore---what’s-the-difference.html">
+                            <li><a onclick="javascript:GAMenuTrack('EDU-SS18');" href="/learn/learnaboutinvesting/Measuring-performance.html">Measuring performance</a></li>
+                            <li><a onclick="javascript:GAMenuTrack('EDU-SS19');" href="/learn/learnaboutinvesting/Onshore-and-offshore---what’s-the-difference.html">
                                 Onshore and offshore - what’s the difference</a></li>
                         </ul>
                     </li>
                     <li><a>Fund ratings<span class="icon_arrow"></span></a>
                         <ul class="child-menu">
-                            <li><a href="/learn/learnaboutinvesting/fe-ratings.html">About FE Ratings</a></li>
-                            <li><a href="/learn/learnaboutinvesting/FE-Crown-Fund-Ratings.html">FE Crown Fund Ratings</a></li>
-                            <li><a href="/learn/learnaboutinvesting/fe-passive-fund-ratings.html">FE Passive Fund Ratings</a></li>
-                            <li><a href="/learn/learnaboutinvesting/FE-Alpha-Manager-Ratings.html">FE Alpha Manager
+                            <li><a onclick="javascript:GAMenuTrack('EDU-SS20');" href="/learn/learnaboutinvesting/fe-ratings.html">About FE Ratings</a></li>
+                            <li><a onclick="javascript:GAMenuTrack('EDU-SS21');" href="/learn/learnaboutinvesting/FE-Crown-Fund-Ratings.html">FE Crown Fund Ratings</a></li>
+                            <li><a onclick="javascript:GAMenuTrack('EDU-SS22');" href="/learn/learnaboutinvesting/fe-passive-fund-ratings.html">FE Passive Fund Ratings</a></li>
+                            <li><a onclick="javascript:GAMenuTrack('EDU-SS23');" href="/learn/learnaboutinvesting/FE-Alpha-Manager-Ratings.html">FE Alpha Manager
                                 Ratings</a></li>
-                            <li><a href="/learn/learnaboutinvesting/FE-Risk-Scores.html">FE Risk Scores</a></li>
-                            <li><a href="/learn/learnaboutinvesting/The-Adviser-Fund-Index.html">The Adviser Fund
+                            <li><a onclick="javascript:GAMenuTrack('EDU-SS24');" href="/learn/learnaboutinvesting/FE-Risk-Scores.html">FE Risk Scores</a></li>
+                            <li><a onclick="javascript:GAMenuTrack('EDU-SS25');" href="/learn/learnaboutinvesting/The-Adviser-Fund-Index.html">The Adviser Fund
                                 Index</a></li>
                         </ul>
                     </li>
                 </ul>
             </li>
-            <li><a id="Portfolio" href="/Tools/Portfolio/PortfolioHome.aspx">Portfolio</a>
+            <li><a id="Portfolio" onclick="javascript:GAMenuTrack('PFL-M01');" href="/Tools/Portfolio/PortfolioHome.aspx">Portfolio</a>
                 <ul class="sub-menu portfolio">
-                    <li><a href="/Tools/Portfolio/PortfolioHome.aspx">Portfolio Home</a></li>
-                    <li><a href="/Tools/Portfolio/Watchlist.aspx">Watchlist</a></li>
-                    <li><a href="/Tools/Portfolio/Alerts.aspx">Alerts</a></li>
+                    <li><a onclick="javascript:GAMenuTrack('PFL-S01');" href="/Tools/Portfolio/PortfolioHome.aspx">Portfolio Home</a></li>
+                    <li><a onclick="javascript:GAMenuTrack('PFL-S02');" href="/Tools/Portfolio/Watchlist.aspx">Watchlist</a></li>
+                    <li><a onclick="javascript:GAMenuTrack('PFL-S03');" href="/Tools/Portfolio/Alerts.aspx">Alerts</a></li>
                 </ul>
             </li>
-            <li><a id="Tools" class="lastNav" href="/Tools/">Tools</a>
+            <li><a id="Tools" class="lastNav" onclick="javascript:GAMenuTrack('TLS-M01');" href="/Tools/">Tools</a>
                 <ul class="sub-menu tools">
-                    <li><a href="/Tools/">Home</a></li>
+                    <li><a onclick="javascript:GAMenuTrack('TLS-S01');" href="/Tools/">Home</a></li>
                     <li><a>Fundswire<span class="icon_arrow"></span></a>
                         <ul class="child-menu">
-                            <li><a href="/Fundswire/">Fundswire Home</a></li>
-                            <li><a href="/Tools/Portfolio/Alerts.aspx">Manage my alerts</a></li>
+                            <li><a onclick="javascript:GAMenuTrack('TLS-SS01');" href="/Fundswire/">Fundswire Home</a></li>
+                            <li><a onclick="javascript:GAMenuTrack('TLS-SS02');" href="/Tools/Portfolio/Alerts.aspx">Manage my alerts</a></li>
                         </ul>
                     </li>
-                    <li><a href="/Tools/Charting.aspx?typeCode=NUKX,NB:AFIA,NB:AFIB,NB:AFIC">Charting</a></li>
-                     <li><a href="/Tools/FindIFA.aspx">Find an IFA</a></li> 
-                    <li><a href="/Tools/PensionCalculator/Default.aspx">Pension Calculator</a></li>
+                    <li><a onclick="javascript:GAMenuTrack('TLS-S02');" href="/Tools/Charting.aspx?typeCode=NUKX,NB:AFIA,NB:AFIB,NB:AFIC">Charting</a></li>
+                     <li><a onclick="javascript:GAMenuTrack('TLS-S04');" href="/Tools/FindIFA.aspx">Find an IFA</a></li> 
+                    <li><a onclick="javascript:GAMenuTrack('TLS-S03');" href="/Tools/PensionCalculator/Default.aspx">Pension Calculator</a></li>
                     <li><a>IFA tools<span class="icon_arrow"></span></a>
                         <ul class="child-menu">
-                            <li><a href="/Tools/Tools.aspx">IFA tools home</a></li>
-                            <li><a href="/Tools/AdviserFundIndex.aspx">FE AFI</a></li>
+                            <li><a onclick="javascript:GAMenuTrack('TLS-SS03');" href="/Tools/Tools.aspx">IFA tools home</a></li>
+                            <li><a onclick="javascript:GAMenuTrack('TLS-SS04');" href="/Tools/AdviserFundIndex.aspx">FE AFI</a></li>
                              
                         </ul>
                     </li>
                 </ul>
             </li>
-            <li><a id="Passive" href="/passive-funds/">Passive Funds<span class="passiveNew">New</span></a>
+            <li><a id="Passive" onclick="javascript:GAMenuTrack('PSV-M01');" href="/passive-funds/">Passive Funds<span class="passiveNew">New</span></a>
                 <ul class="sub-menu passivefunds">
-                    <li><a href="/passive-funds/">Passive Funds Homepage</a></li>
+                    <li><a onclick="javascript:GAMenuTrack('PSV-S01');" href="/passive-funds/">Passive Funds Homepage</a></li>
                     <li><a>Sectors<span class="icon_arrow"></span></a>
                         <ul class="child-menu">
-                            <li><a href="/passive-funds/uk-equities.html">UK Equities</a></li>
-                            <li><a href="/passive-funds/north-american-equities.html">North American Equities</a></li>
-                            <li><a href="/passive-funds/european-equities.html">European Equities</a></li>
-                            <li><a href="/passive-funds/japanese-equities.html">Japanese Equities</a></li>
-                            <li><a href="/passive-funds/emerging-market-equities.html">Emerging Market Equities</a></li>
-                            <li><a href="/passive-funds/uk-gilts.html">UK Gilts</a></li>
-                            <li><a href="/passive-funds/property.html">Property</a></li>
-                            <li><a href="/passive-funds/sterling-corporate-bonds.html">Sterling Corporate Bonds</a></li>
-                            <li><a href="/passive-funds/index-linked-gilts.html">Index-Linked Gilts</a></li>
+                            <li><a onclick="javascript:GAMenuTrack('PSV-SS01');" href="/passive-funds/uk-equities.html">UK Equities</a></li>
+                            <li><a onclick="javascript:GAMenuTrack('PSV-SS02');" href="/passive-funds/north-american-equities.html">North American Equities</a></li>
+                            <li><a onclick="javascript:GAMenuTrack('PSV-SS03');" href="/passive-funds/european-equities.html">European Equities</a></li>
+                            <li><a onclick="javascript:GAMenuTrack('PSV-SS04');" href="/passive-funds/japanese-equities.html">Japanese Equities</a></li>
+                            <li><a onclick="javascript:GAMenuTrack('PSV-SS05');" href="/passive-funds/emerging-market-equities.html">Emerging Market Equities</a></li>
+                            <li><a onclick="javascript:GAMenuTrack('PSV-SS06');" href="/passive-funds/uk-gilts.html">UK Gilts</a></li>
+                            <li><a onclick="javascript:GAMenuTrack('PSV-SS07');" href="/passive-funds/property.html">Property</a></li>
+                            <li><a onclick="javascript:GAMenuTrack('PSV-SS08');" href="/passive-funds/sterling-corporate-bonds.html">Sterling Corporate Bonds</a></li>
+                            <li><a onclick="javascript:GAMenuTrack('PSV-SS09');" href="/passive-funds/index-linked-gilts.html">Index-Linked Gilts</a></li>
                         </ul>
                     </li>
                 </ul>
@@ -585,6 +620,13 @@ var univCookie=false;
 	var isDontShowForHK=false
      jQuery(document).ready(function () {
             
+     if(jQuery('div.divArticleContent').width() > 425)
+     {
+      OAS_listpos = OAS_listpos.replace(',Position1', '');
+      jQuery('#adPos_Position1').remove();
+        jQuery('.advertisement:first').remove();
+     }
+      
      if (screen.width < 1280 && location.href.indexOf("PortfolioHome.aspx") > 0) {
         jQuery('#adPos_Position2').css('visibility', 'visible');
         jQuery('.advertisement:last').css('visibility', 'visible');
@@ -598,11 +640,7 @@ var univCookie=false;
 
     }
         });
-	</script>	
-		<noscript>
-		<!-- Encoded url -->
-		<div><img style="width: 1px; height: 1px" alt="*" src="%2fWeblogs%2fTNLog.aspx%3ffut%3d%2fhttp%3a%2f%2fwww.trustnet.com%2fEducation%2fTNUK%2fPrivacyPolicy.aspx" /></div>
-	</noscript>
+	</script>			
 
  <div style="left :0px; top :0px;" id="wholeCoverLogin" class="displayNone"></div>
     
@@ -653,13 +691,11 @@ var univCookie=false;
     <label for="txtUCPass" class="red displayNone">*</label>
     <select class="loginfield" name="selURCType" id="selURCType" onfocus="javascript:FocusSelectField(this.id)" onblur="javascript:CheckSelectField(this.id,'')">
         <option selected="selected" value="">Choose a User Type</option>
-      <option value="Investor with financial adviser or broker">Investor with financial adviser or broker</option>
-      <option value="Investor without financial adviser or broker">Investor without financial adviser or broker</option>
-      <option value="Discretionary fund manager">Discretionary fund manager</option>
-      <option value="Financial Adviser">Financial adviser</option>
-      <option value="Financial services professional">Financial services professional</option>
-      <option value="Fund manager">Fund manager</option>
-      <option value="Journalist/Media professional">Journalist/Media professional</option>
+      <option value="Adviser">I am a financial adviser</option>
+        <option value="Discretionary">I am a discretionary fund manager / multimanager</option>
+      <option value="Paraplanner">I am a financial paraplanner</option>
+      <option value="MarketPro">I work in financial services</option>
+      <option value="Investor">I am a private investor</option>
         </select>
         <label for="selURCType" class="red displayNone">*</label>
         <label class="checkBox"><input type="checkbox" value="true" name="chkURAccept" id="chkURAccept"> <a href="/Education/TermsOfUse.aspx" target="_blank">I accept your terms of use</a></label>
@@ -717,8 +753,7 @@ var univCookie=false;
  
 <script type="text/javascript" src="http://davu072c1j2c0.cloudfront.net/ajaxpro/FinancialExpress.EmailComponent.EmailCreator,FinancialExpress.EmailComponent.ashx"></script> 
 
-<div id="leftColumn" style="margin-top:16px;">
-	
+    <div id="leftColumn" style="margin-top:16px;">
     <div>
 	
 	<!--<div class="topheader">
@@ -963,21 +998,29 @@ var univCookie=false;
 
   <div class="newPoll">
     <h5>Poll</h5>
-    <p><b>Has the recent bond sell-off made you more or less likely to add to your fixed income exposure?</b></p>
+    <p><b>What do you see as the main reason for holding a global equity income fund? </b></p>
         <div id="BeforePoll" class="displayBlock">
         <table cellspacing="0" cellpadding="0" border="0" class="poll">
       <tbody>
             <tr>
-        <td class="min" style="width:10px;"><input type="radio" value="692148" id="rd692148" name="btnRadio"></td>
-        <td><b>More likely</b></td>
+        <td class="min" style="width:10px;"><input type="radio" value="652129" id="rd652129" name="btnRadio"></td>
+        <td><b>The sector has an abundance of good managers </b></td>
       </tr>
             <tr>
-        <td class="min" style="width:10px;"><input type="radio" value="692149" id="rd692149" name="btnRadio"></td>
-        <td><b>No change</b></td>
+        <td class="min" style="width:10px;"><input type="radio" value="652130" id="rd652130" name="btnRadio"></td>
+        <td><b>They diversify my income stream away from the UK </b></td>
       </tr>
             <tr>
-        <td class="min" style="width:10px;"><input type="radio" value="692150" id="rd692150" name="btnRadio"></td>
-        <td><b>Less likely</b></td>
+        <td class="min" style="width:10px;"><input type="radio" value="652131" id="rd652131" name="btnRadio"></td>
+        <td><b>They diversify my total return potential away from the UK </b></td>
+      </tr>
+            <tr>
+        <td class="min" style="width:10px;"><input type="radio" value="652132" id="rd652132" name="btnRadio"></td>
+        <td><b>They are cost effective </b></td>
+      </tr>
+            <tr>
+        <td class="min" style="width:10px;"><input type="radio" value="652133" id="rd652133" name="btnRadio"></td>
+        <td><b>I won’t hold global equity income funds</b></td>
       </tr>
       
     </tbody></table>
@@ -996,13 +1039,14 @@ var univCookie=false;
 
 <input type="hidden" id="hidWideWidth" value="90">
 <script type="text/javascript">
-    var QuestionId='692055';   
+    var QuestionId='652049';   
     var pollEnable=1;
 </script>  
 <div style="clear:both;">&nbsp;</div> 
 	<div class="clear">
 	</div>
-         <div id="navLeft" class="navLeft">
+          
+    <div id="navLeft" style="height:202px" class="navLeft">
 		
 		
 
@@ -1018,13 +1062,16 @@ var univCookie=false;
 			</a>
 		
 	</div>
+    
+       
      
+    
 	<input type="hidden" id="logeduserName" name="logeduserName" value="">
 	<script type="text/javascript">
     <!--
 		//Onload set the Shortlisted Items.
 		GetShortlistedItems();
-		SetActiveCurrency('');
+		SetActiveCurrency('GBP');
 		if (!$("Scope")) {
 			document.write("<input type='hidden' name='scope' id='scope'/>");
 		}
@@ -1064,12 +1111,12 @@ var univCookie=false;
 			
 			<td id="tdDomicileDD" class="qstdTwoStyle">
 				<select id="qsDomicileDD" name="qsDomicileDD" onchange="SelectTopOnDD(this);" class="qsOptTwoStyle">		 
-					<option value="" selected="selected">All Geographies</option><option value="AFRI">Africa</option><option value="ASIA">Asia</option><option value="APAC">Asia Pacific</option><option value="APEJ">Asia Pacific Ex Japan</option><option value="AUS">Australia</option><option value="BRA">Brazil</option><option value="BRIC">Brazil, Russia, India and China</option><option value="CHN">China</option><option value="EAST">Eastern Europe</option><option value="EMEA">Eastern Europe Middle East and Africa</option><option value="EURO">Europe</option><option value="EUXU">Europe Ex UK</option><option value="EU">European Economic Community</option><option value="EURZ">Eurozone</option><option value="FARE">Far East</option><option value="FRA">France</option><option value="DEU">Germany</option><option value="GLOB">Global</option><option value="HKG">Hong Kong</option><option value="IND">India</option><option value="JPN">Japan</option><option value="LTNA">Latin America</option><option value="MIDE">Middle East</option><option value="NAMR">North America</option><option value="KOR">Republic Of Korea</option><option value="RUS">Russian Federation</option><option value="SASI">South East Asia</option><option value="TUR">Turkey</option><option value="GBR">United Kingdom</option><option value="USA">United States</option>
+					<option value="" selected="selected">All Geographies</option><option value="AFRI">Africa</option><option value="ASIA">Asia</option><option value="APAC">Asia Pacific</option><option value="APEJ">Asia Pacific Ex Japan</option><option value="AUS">Australia</option><option value="BRA">Brazil</option><option value="BRIC">Brazil, Russia, India and China</option><option value="CEAS">Central Asia</option><option value="CHN">China</option><option value="EAST">Eastern Europe</option><option value="EMEA">Eastern Europe Middle East and Africa</option><option value="EURO">Europe</option><option value="EUXU">Europe Ex UK</option><option value="EU">European Economic Community</option><option value="EURZ">Eurozone</option><option value="FARE">Far East</option><option value="FRA">France</option><option value="DEU">Germany</option><option value="GLOB">Global</option><option value="GRCH">Greater China</option><option value="HKG">Hong Kong</option><option value="IND">India</option><option value="JPN">Japan</option><option value="LTNA">Latin America</option><option value="MENA">MENA</option><option value="MIDE">Middle East</option><option value="NAMR">North America</option><option value="KOR">Republic Of Korea</option><option value="RUS">Russian Federation</option><option value="SASI">South East Asia</option><option value="CHE">Switzerland</option><option value="TUR">Turkey</option><option value="GBR">United Kingdom</option><option value="USA">United States</option>
 				</select>
 			</td>			  
 			<td id="tdManagerDD" style="text-align:left; vertical-align:middle;">
 				<select id="qsManagerDD" name="qsManagerDD" class="qsOptThreeStyle">
-					<option value="" selected="selected">All Managers</option><option value="CFIM">7IM Investment Funds</option><option value="ABTR">Aberdeen Fund Managers Limited</option><option value="ABGL">Aberdeen Global Services S.A.</option><option value="SWAB">Aberdeen Investment Funds</option><option value="ABER">Aberforth Unit Trust Mgrs Ltd</option><option value="ACFM">Acorn Fund Management</option><option value="ATAM">Alliance Trust Investments</option><option value="AKAG">Allianz Global Investors GmbH</option><option value="KLEI">Allianz Global Invtrs GmbH(UK)</option><option value="ALUM">Allium Capital</option><option value="AMGL">Amati Global Investors Limited</option><option value="ANPE">Anpero Capital Limited</option><option value="ARCT">Architas Multi-Manager Ltd</option><option value="ARDE">Ardevora</option><option value="AGCP">Argonaut Capital Partners</option><option value="ARMS">Armstrong Investment Managers</option><option value="ARTE">Artemis Fund Managers</option><option value="AVIN">Asset Value Investors</option><option value="ACLL">Aubrey Capital Management Ltd</option><option value="CULX">Aviva Investors Luxembourg SA</option><option value="NORW">Aviva Investors UK Fd Serv Ltd</option><option value="AXA">AXA IM UK</option><option value="BAIL">Baillie Gifford</option><option value="BRWL">Barclays</option><option value="BAFM">Baring Asset Management Limite</option><option value="BII">Baring Intl Fund Mgr (Ire) Ltd</option><option value="BRIG">Barings International Group</option><option value="BARM">Barmac Asset Management</option><option value="MERC">BlackRock</option><option value="MERI">BlackRock (Luxembourg) S.A.</option><option value="BLAR">BlackRock Invest Mgrs UK Ltd</option><option value="BLBY">BlueBay Asset Management</option><option value="MELL">BNY Mellon Investment Manageme</option><option value="DEXI">Candriam</option><option value="CITF">Capita Financial Managers</option><option value="CAIF">Capital Group</option><option value="CARM">Carmignac Gestion</option><option value="CCAL">Carvetian Capital Mgt Ltd</option><option value="CAVE">Cavendish Asset Management</option><option value="CFCL">CF Canada Life Investments</option><option value="CFEA">CF Eclectica Asset Management</option><option value="CFHM">CF Heartwood Investment Manage</option><option value="JMFC">CF JM Finn Investment</option><option value="CFKB">CF Kleinwort Benson Funds</option><option value="PRUD">CF Prudential</option><option value="RIMG">CF Ruffer Investment Mgmt Ltd</option><option value="CHCP">Charlemagne Capital</option><option value="CHIU">Church House Investment Mgmt</option><option value="CIFI">City Financial Inv Company Ltd</option><option value="CLER">Clerical Medical Invest Group</option><option value="CLOS">Close Brothers AM</option><option value="COME">Commerz Funds Solutions S.A.</option><option value="CONS">Consistent Unit Tst Mgt Co Ltd</option><option value="CORN">Cornelian Asset Managers</option><option value="COUR">COURTIERS Investment Funds</option><option value="COUO">Coutts Group</option><option value="DIME">Dimensional Fund Advisors</option><option value="DISC">Discretionary Unit Fund Mgrs L</option><option value="DCWL">Dodge &amp; Cox WorldwideFunds Plc</option><option value="DPIC">Doherty Pn&amp;Inv Consultancy Ltd</option><option value="DOMI">Dominion Fund Management Ltd</option><option value="DLLP">Downing LLP</option><option value="DUND">Dundas Partners LLP</option><option value="ALLC">Ecclesiastical Investment Mgmt</option><option value="EDPS">Edinburgh Partners (IRL)</option><option value="EPIM">Epworth Investment Management</option><option value="FCFM">F&amp;C Fund Management</option><option value="TMRV">F&amp;C Fund Management (IRL)</option><option value="FAMI">Family Investment Management</option><option value="FIDL">Fidelity (FIL Inv Mgt (Luxembo</option><option value="FISU">Fidelity(FIL Invt Svcs UK Ltd)</option><option value="CFST">First State Investments UK Ltd</option><option value="FFAP">Fleming Family &amp; Partners</option><option value="TEMG">Franklin Temp Intnl Serv SARL</option><option value="FRUK">Franklin Templeton Funds (UK)</option><option value="IFDS">Fund Partners Ltd</option><option value="FUNS">Fundsmith</option><option value="GAM">GAM Fund Management Ltd</option><option value="WOIS">GAM Star (Lux)</option><option value="GAMS">GAM Sterling Management Ltd</option><option value="GARW">Garraway Capital Management LL</option><option value="SGUT">GLG Partners</option><option value="LEHM">GLG Partners LP</option><option value="GOLD">Goldman Sachs</option><option value="GUNN">Guinness Asset Management Ltd</option><option value="SVGM">GVQ Investment Management</option><option value="HARG">Hargreaves Lansdown Fund Mgmt</option><option value="HXEQ">HBOS Investment Fd Mgrs Ltd</option><option value="HEND">Henderson Global Investors Ltd</option><option value="HENM">Henderson Management SA</option><option value="HIML">Hermes Investment Management</option><option value="TRII">Host Capital Limited</option><option value="HSBC">HSBC Gbl Asset Mgt (HSBC Inv)</option><option value="HSLX">HSBC Investment Funds (Lux) SA</option><option value="IMPA">IFSL</option><option value="BRIT">Ignis Asset Management</option><option value="IGFS">Ignis Global Funds SICAV</option><option value="INGE">Ingenious</option><option value="BNFL">Insight (BNY Mellon)</option><option value="INSI">Insight Investment Management</option><option value="IGAM">Invesco Global Asset Mgmt Ltd</option><option value="IVMA">Invesco Management S.A.</option><option value="INVE">Invesco Perpetual Fund Mgrs</option><option value="INVT">Investec Asset Management Luxe</option><option value="GUIN">Investec Fund Managers (UK)</option><option value="SING">IWI Fund Management Ltd</option><option value="JAME">James Hambro and Partners LLP</option><option value="JANW">Janus Capital Funds</option><option value="JOHC">JO Hambro Capital Management</option><option value="FLEG">JP Morgan Asset Management</option><option value="SAVE">JP Morgan Asset Management UK</option><option value="JPIF">JP Morgan Investment Funds</option><option value="JPLF">JP Morgan Liquidity Fund</option><option value="JUPB">Jupiter Asset Management</option><option value="JUPI">Jupiter Unit Trust Mgrs Ltd</option><option value="KAME">Kames Capital</option><option value="KAML">Kennox Asset Management Ltd</option><option value="LAZA">Lazard Fund Managers</option><option value="LEGA">Legal &amp; General UT Mgr Ltd</option><option value="LEGM">Legg Mason Funds ICVC</option><option value="LGMF">Legg Mason Global Funds Plc</option><option value="LITR">Lindsell Train</option><option value="RIVE">Liontrust Fund Partners LLP</option><option value="LAMP">Liontrust Global Funds plc</option><option value="LBVC">Livingbridge VC LLP</option><option value="LOIN">Lombard Odier</option><option value="MAG">M&amp;G UK</option><option value="MAJE">Majedie Asset Management</option><option value="MNK">Manek Investment Management</option><option value="MARG">Margetts Fund Management</option><option value="MARU">Marks &amp; Spencer UT Managers</option><option value="MARL">Marlborough Fund Managers</option><option value="MART">Martin Currie Fund Mgmt Ltd</option><option value="MCGF">Martin Currie Global Funds</option><option value="MTWA">Matthews Asia</option><option value="MAFC">Mayfair Capital Inv Management</option><option value="MW">McInroy &amp; Wood Portfolios Ltd</option><option value="DALT">Melchior Investment Funds</option><option value="MMFM">MFM</option><option value="MFSM">MFS Meridian Funds</option><option value="MAES">Mirabaud Asset Management (Eur</option><option value="MITO">Miton Asset Management</option><option value="PSIG">Miton Trust Managers Limited</option><option value="MTIM">Momentum Global Investment Mgt</option><option value="MNES">Montanaro Eurpn Smaller Co Plc</option><option value="MPFG">Montello Pvt Fin Grl Ptnrs Ltd</option><option value="MDWI">Morgan Stanley Invest Mgmt UK</option><option value="LARE">Muzinich &amp; Co</option><option value="IXIS">Natixis Global Asset Mgmt S.A.</option><option value="NWOI">NatWest Investment Funds</option><option value="NPIM">Neptune Investment Management</option><option value="NEUB">Neuberger Berman Europe Ltd</option><option value="NEWC">New Capital Fund Management</option><option value="NEWT">Newton &amp; BNY Mellon Asset Mgmt</option><option value="NFM">NFU Mutual Unit Managers Ltd</option><option value="OCTP">Octopus Investments</option><option value="CFOD">Odey Asset Management</option><option value="OMAP">Old Mutl Glbl Investors(AP)Ltd</option><option value="OMGI">Old Mutl Glbl Investors(UK)Ltd</option><option value="OILF">Omnis Investments Ltd</option><option value="OPML">Optimum Investment Management</option><option value="ORIS">Orbis</option><option value="ORIM">Oriel Asset Management LLP</option><option value="HAIM">PFS Hawksmoor Open End Invt Cm</option><option value="PFSL">Phoenix Fund Services (UK) Ltd</option><option value="PCTT">Pictet Asset Management (Europ</option><option value="PIMC">PIMCO Global Advisors(IRL) Ltd</option><option value="PINL">Pioneer Investments</option><option value="POLC">Polar Capital</option><option value="PRIA">Premier Asset Management</option><option value="GEM">Premier Portfolio Managers Ltd</option><option value="PRII">Principal Global Investors</option><option value="QAML">Querns Asset Managers LLP</option><option value="LAUR">Rathbone Unit Trust Mgmt Ltd</option><option value="RBSC">RBS Collective Invst Fds Ltd</option><option value="RRMR">River &amp; Mercantile Asset Mgmt</option><option value="CIS">RLUM (CIS) Ltd</option><option value="RBOS">Royal Bank of Scotland</option><option value="ROYB">Royal Bk of Scotland Coll Inv</option><option value="ROYM">Royal London Asset Mgmt (IRL)</option><option value="ROYU">Royal London Unit Tst Mgrs Ltd</option><option value="MPCI">RWC</option><option value="SMIT">S&amp;W Fund Administration Ltd</option><option value="SALT">Saltus Partners LLP</option><option value="SAUT">Sand Aire Limited</option><option value="FOUR">Sanlam Four Investments UK Ltd</option><option value="SANL">Sanlam Universal Funds plc</option><option value="ABBN">Santander Asset Mgmt UK Ltd</option><option value="SACN">Saracen Fund Managers</option><option value="ELY">Sarasin Investment Funds Ltd</option><option value="SCHM">Schroder Investment Management</option><option value="SCHS">Schroder Investmt Mgt(LUX)S.A.</option><option value="SCHR">Schroder UT Managers</option><option value="SCOF">Scottish Friendly Assurance</option><option value="SMBK">Scottish Mutual Invest Mgmt</option><option value="SCOW">Scottish Wid UT Mgr Limited</option><option value="SWCH">Scottish Widows Sh Cl HIFML</option><option value="CFMT">Seneca Investment Managers Ltd</option><option value="SHRE">Sharefunds</option><option value="SKAG">SKAGEN</option><option value="SFAL">Smartfund Administration Ltd</option><option value="SWIF">Smith &amp; Williamson Invest Mgmt</option><option value="SMTS">SMT Fund Services (UK) Limited</option><option value="PFSS">Somerset Capital Management</option><option value="SOVE">Sovereign Unit Trust Mgrs Ltd</option><option value="SSGU">SSGA UK</option><option value="STJ">St. Jamess Place UT Group Ltd</option><option value="STLA">Standard Life Investments</option><option value="STLS">Standard Life Investments GS</option><option value="STLM">Standard Life Trust Management</option><option value="STLW">Standard Life Wealth</option><option value="SVMA">SVM Asset Management Ltd</option><option value="BQSY">SYZ Asset Management (Luxembou</option><option value="TBAI">T. Bailey Fund Managers Ltd</option><option value="TBML">T. Bailey Fund Mgrs Ltd (ACD)</option><option value="TROW">T. Rowe Price</option><option value="T140">The 140 Investment Managers</option><option value="9THS">Thesis Unit Trust Mgmt Ltd</option><option value="THR">Threadneedle Inv Services Ltd</option><option value="PART">THS Partners</option><option value="TIBU">Tiburon Partners</option><option value="TIME">TIME Investments</option><option value="TMHE">TM Hearthstone</option><option value="TROY">Troy Asset Management Ltd</option><option value="TUFM">TU Fund Managers</option><option value="PFST">TwentyFour Asset Management</option><option value="UBSA">UBS Global Asset Mgmt Funds Lt</option><option value="UNCN">Unicorn Asset Management</option><option value="VALC">Valu-Trac Investment Managemen</option><option value="VANG">Vanguard Investment Series</option><option value="VNUK">Vanguard Investments UK Ltd</option><option value="VERA">Veritas Asset Mgmt (UK) Ltd</option><option value="VIRG">Virgin Money Unit Tst Mgr Ltd</option><option value="WALK">Walker Crips Stockbrokers Limi</option><option value="JOHI">Waverton Investment Management</option><option value="WAYF">WAY Fund Managers</option><option value="WESL">Wesleyan Unit Trust Mgrs Ltd</option><option value="WITO">Winton Capital Management Ltd</option><option value="WISE">Wise Investments</option><option value="FORD">Woodford Investment Management</option>
+					<option value="" selected="selected">All Managers</option><option value="CFIM">7IM Investment Funds</option><option value="ABTR">Aberdeen Fund Managers Limited</option><option value="ABGL">Aberdeen Global Services S.A.</option><option value="SWAB">Aberdeen Investment Funds</option><option value="ABER">Aberforth Unit Trust Mgrs Ltd</option><option value="ACFM">Acorn Fund Management</option><option value="ATAM">Alliance Trust Investments</option><option value="AKAG">Allianz Global Investors GmbH</option><option value="KLEI">Allianz Global Invtrs GmbH(UK)</option><option value="ALUM">Allium Capital</option><option value="AMGL">Amati Global Investors Limited</option><option value="ANPE">Anpero Capital Limited</option><option value="ARCT">Architas Multi-Manager Ltd</option><option value="ARDE">Ardevora</option><option value="AGCP">Argonaut Capital Partners</option><option value="ARTE">Artemis Fund Managers Limited</option><option value="AVIN">Asset Value Investors</option><option value="ACLL">Aubrey Capital Management Ltd</option><option value="CULX">Aviva Investors Luxembourg SA</option><option value="NORW">Aviva Investors UK Fd Serv Ltd</option><option value="AXA">AXA IM UK</option><option value="BAIL">Baillie Gifford</option><option value="BRWL">Barclays</option><option value="BAFM">Baring Asset Management Limite</option><option value="BII">Baring Intl Fund Mgr (Ire) Ltd</option><option value="BRIG">Barings International Group</option><option value="BARM">Barmac Asset Management</option><option value="MERC">BlackRock</option><option value="MERI">BlackRock (Luxembourg) S.A.</option><option value="BRAL">BlackRock Advisors(UK) Limited</option><option value="BLAR">BlackRock Invest Mgrs UK Ltd</option><option value="BLBY">BlueBay Asset Management</option><option value="MELL">BNY Mellon Investment Manageme</option><option value="DEXI">Candriam</option><option value="CITF">Capita Financial Managers</option><option value="CARM">Carmignac Gestion</option><option value="CCAL">Carvetian Capital Mgt Ltd</option><option value="CAVE">Cavendish Asset Management</option><option value="CFCL">CF Canada Life Investments</option><option value="CFEA">CF Eclectica Asset Management</option><option value="CFHM">CF Heartwood Investment Manage</option><option value="PRUD">CF Prudential</option><option value="RIMG">CF Ruffer Investment Mgmt Ltd</option><option value="CHCP">Charlemagne Capital</option><option value="CHIU">Church House Investment Mgmt</option><option value="CIFI">City Financial Inv Company Ltd</option><option value="CLER">Clerical Medical Invest Group</option><option value="CLOS">Close Brothers AM</option><option value="COME">Commerz Funds Solutions S.A.</option><option value="CONS">Consistent Unit Tst Mgt Co Ltd</option><option value="CORN">Cornelian Asset Managers</option><option value="COUR">COURTIERS Investment Funds</option><option value="COUO">Coutts Group</option><option value="CRUX">Crux Asset Management Limited</option><option value="DIME">Dimensional Fund Advisors</option><option value="DISC">Discretionary Unit Fund Mgrs L</option><option value="DCWL">Dodge &amp; Cox WorldwideFunds Plc</option><option value="DPIC">Doherty Pn&amp;Inv Consultancy Ltd</option><option value="DOMI">Dominion Fund Management Ltd</option><option value="DLLP">Downing LLP</option><option value="DUND">Dundas Partners LLP</option><option value="ALLC">EdenTree Investment Management</option><option value="EFGL">EFG Asset Management (UK) Limi</option><option value="FCFM">F&amp;C (BMO Global Asset Manageme</option><option value="TMRV">F&amp;C IRL (BMO Global Asset Mana</option><option value="FCAI">F&amp;C Lux (BMO Global Asset Mana</option><option value="FAMI">Family Investment Management</option><option value="FIDL">Fidelity (FIL Inv Mgt (Luxembo</option><option value="FISU">Fidelity(FIL Invt Svcs UK Ltd)</option><option value="CFST">First State Investments UK Ltd</option><option value="TEMG">Franklin Temp Intnl Serv SARL</option><option value="FRUK">Franklin Templeton Funds (UK)</option><option value="IFDS">Fund Partners Ltd</option><option value="FUNS">Fundsmith</option><option value="GAM">GAM Fund Management Ltd</option><option value="WOIS">GAM Star (Lux)</option><option value="GAMS">GAM Sterling Management Ltd</option><option value="GARW">Garraway Capital Management LL</option><option value="SGUT">GLG Partners</option><option value="LEHM">GLG Partners LP</option><option value="GOLD">Goldman Sachs</option><option value="GUNN">Guinness Asset Management Ltd</option><option value="SVGM">GVQ Investment Management</option><option value="HARG">Hargreaves Lansdown Fund Mgmt</option><option value="HXEQ">HBOS Investment Fd Mgrs Ltd</option><option value="HEND">Henderson Global Investors Ltd</option><option value="HENM">Henderson Management SA</option><option value="HIML">Hermes Investment Management</option><option value="TRII">Host Capital Limited</option><option value="HSBC">HSBC Gbl Asset Mgt (HSBC Inv)</option><option value="HSLX">HSBC Investment Funds (Lux) SA</option><option value="IMPA">IFSL</option><option value="IGFS">Ignis Global Funds SICAV</option><option value="INGE">Ingenious</option><option value="BNFL">Insight (BNY Mellon)</option><option value="INSI">Insight Investment Management</option><option value="IGAM">Invesco Global Asset Mgmt Ltd</option><option value="IVMA">Invesco Management S.A.</option><option value="INVE">Invesco Perpetual Fund Mgrs</option><option value="INVT">Investec Asset Management Luxe</option><option value="GUIN">Investec Fund Managers (UK)</option><option value="SING">IWI Fund Management Ltd</option><option value="JAME">James Hambro and Partners LLP</option><option value="JANW">Janus Capital Funds</option><option value="JOHC">JO Hambro Capital Management</option><option value="SAVE">JP Morgan Asset Management UK</option><option value="FLEG">JPMorgan Asset Mgmt (Europe) S</option><option value="JUPB">Jupiter Asset Management</option><option value="JUPI">Jupiter Unit Trust Mgrs Ltd</option><option value="KAME">Kames Capital</option><option value="KAML">Kennox Asset Management Ltd</option><option value="LAZA">Lazard Fund Managers</option><option value="LEGA">Legal &amp; General UT Mgr Ltd</option><option value="LEGM">Legg Mason Funds ICVC</option><option value="LGMF">Legg Mason Global Funds Plc</option><option value="LITR">Lindsell Train</option><option value="RIVE">Liontrust Fund Partners LLP</option><option value="LBVC">Livingbridge VC LLP</option><option value="LOIN">Lombard Odier</option><option value="MAG">M&amp;G UK</option><option value="MAJE">Majedie Asset Management</option><option value="MNK">Manek Investment Management</option><option value="MARG">Margetts Fund Management</option><option value="MARU">Marks &amp; Spencer UT Managers</option><option value="MARL">Marlborough Fund Managers</option><option value="MCGF">Martin Currie Global Funds</option><option value="MTWA">Matthews Asia</option><option value="MAFC">Mayfair Capital Inv Management</option><option value="MW">McInroy &amp; Wood Portfolios Ltd</option><option value="DALN">Melchior Selected Trust</option><option value="MMFM">MFM</option><option value="MFSM">MFS Meridian Funds</option><option value="MAES">Mirabaud Asset Management (Eur</option><option value="MRAS">Mirae Asset Global Investments</option><option value="MITO">Miton Asset Management</option><option value="PSIG">Miton Trust Managers Limited</option><option value="MTIM">Momentum Global Investment Mgt</option><option value="MNES">Montanaro Eurpn Smaller Co Plc</option><option value="MPFG">Montello Pvt Fin Grl Ptnrs Ltd</option><option value="MDWI">Morgan Stanley Invest Mgmt UK</option><option value="IXIS">Natixis Global Asset Mgmt S.A.</option><option value="NWOI">NatWest Investment Funds</option><option value="NPIM">Neptune Investment Management</option><option value="NEUB">Neuberger Berman Europe Ltd</option><option value="NEWC">New Capital Fund Management</option><option value="NEWT">Newton &amp; BNY Mellon Asset Mgmt</option><option value="NFM">NFU Mutual Unit Managers Ltd</option><option value="OCTP">Octopus Investments</option><option value="CFOD">Odey Asset Management</option><option value="ODEY">Odey Asset Mgt</option><option value="OMGI">Old Mutl Glbl Investors(UK)Ltd</option><option value="OILF">Omnis Investments Ltd</option><option value="OPML">Optimum Investment Management</option><option value="ORIS">Orbis</option><option value="ORIM">Oriel Asset Management LLP</option><option value="HAIM">PFS Hawksmoor Open End Invt Cm</option><option value="PFSL">Phoenix Fund Services (UK) Ltd</option><option value="PCTT">Pictet Asset Management (Europ</option><option value="PIMC">PIMCO Global Advisors(IRL) Ltd</option><option value="PINL">Pioneer Investments</option><option value="POLC">Polar Capital</option><option value="PRIA">Premier Asset Management</option><option value="GEM">Premier Portfolio Managers Ltd</option><option value="PRII">Principal Global Investors</option><option value="LAUR">Rathbone Unit Trust Mgmt Ltd</option><option value="RBSC">RBS Collective Invst Fds Ltd</option><option value="RRMR">River &amp; Mercantile Asset Mgmt</option><option value="CIS">RLUM (CIS) Ltd</option><option value="RBOS">Royal Bank of Scotland</option><option value="ROYB">Royal Bk of Scotland Coll Inv</option><option value="ROYM">Royal London Asset Mgmt (IRL)</option><option value="ROYU">Royal London Unit Tst Mgrs Ltd</option><option value="MPCI">RWC</option><option value="SMIT">S&amp;W Fund Administration Ltd</option><option value="SALT">Saltus Partners LLP</option><option value="SAUT">Sand Aire Limited</option><option value="FOUR">Sanlam Four Investments UK Ltd</option><option value="SANL">Sanlam Universal Funds plc</option><option value="ABBN">Santander Asset Mgmt UK Ltd</option><option value="SACN">Saracen Fund Managers</option><option value="SIRF">Sarasin Funds Mgt(Ireland)Ltd</option><option value="ELY">Sarasin Investment Funds Ltd</option><option value="SCHS">Schroder Investmt Mgt(LUX)S.A.</option><option value="SCHR">Schroder UT Managers</option><option value="SCOF">Scottish Friendly Assurance</option><option value="SMBK">Scottish Mutual Invest Mgmt</option><option value="SCOW">Scottish Wid UT Mgr Limited</option><option value="SWCH">Scottish Widows Sh Cl HIFML</option><option value="CFMT">Seneca Investment Managers Ltd</option><option value="SHRE">Sharefunds</option><option value="SKAG">SKAGEN</option><option value="SFAL">Smartfund Administration Ltd</option><option value="SWIF">Smith &amp; Williamson Invest Mgmt</option><option value="SMTS">SMT Fund Services (UK) Limited</option><option value="PFSS">Somerset Capital Management</option><option value="SOVE">Sovereign Unit Trust Mgrs Ltd</option><option value="SSGU">SSGA UK</option><option value="STJ">St. Jamess Place UT Group Ltd</option><option value="STLA">Standard Life Investments</option><option value="STLS">Standard Life Investments GS</option><option value="STLM">Standard Life Trust Management</option><option value="STLW">Standard Life Wealth</option><option value="FFAP">Stonehage Fleming Investment M</option><option value="SVMA">SVM Asset Management Ltd</option><option value="BQSY">SYZ Asset Management (Luxembou</option><option value="TBAI">T. Bailey Asset Management Ltd</option><option value="TBML">T. Bailey Fund Srvs Ltd (ACD)</option><option value="TROW">T. Rowe Price</option><option value="T140">The 140 Investment Managers</option><option value="9THS">Thesis Unit Trust Mgmt Ltd</option><option value="THR">Threadneedle Inv Services Ltd</option><option value="PART">THS Partners</option><option value="TIBU">Tiburon Partners</option><option value="TIME">TIME Investments</option><option value="TMHE">TM Hearthstone</option><option value="TROY">Troy Asset Management Ltd</option><option value="TRUE">True Potential Investments</option><option value="TUFM">TU Fund Managers</option><option value="PFST">TwentyFour Asset Management</option><option value="TFGI">TwentyFour Global Inv Fds PLC</option><option value="UBSA">UBS Global Asset Mgmt Funds Lt</option><option value="UNCN">Unicorn Asset Management</option><option value="VALC">Valu-Trac Investment Managemen</option><option value="VANG">Vanguard Investment Series</option><option value="VNUK">Vanguard Investments UK Ltd</option><option value="VERA">Veritas Asset Mgmt LLP</option><option value="VIRG">Virgin Money Unit Tst Mgr Ltd</option><option value="WALK">Walker Crips Stockbrokers Limi</option><option value="JOHI">Waverton Investment Management</option><option value="WAYF">WAY Fund Managers</option><option value="WESL">Wesleyan Unit Trust Mgrs Ltd</option><option value="WITO">Winton Capital Management Ltd</option><option value="WISE">Wise Investments</option><option value="FORD">Woodford Investment Management</option><option value="ZIFI">Zurich Investment Services (UK</option>
 				</select>
 			</td>
             	<td style="width:300px;padding-left:5px;" rowspan="3">
@@ -1082,12 +1129,12 @@ var univCookie=false;
 		<tr style="height:50%; padding:5px 0px 7px 0px;">		
 			<td id="tdAssetClassDD" class="qstdOneStyle">
 				<select id="qsAssetClassDD" name="qsAssetClassDD" class="qsOptOneStyle" onchange="SelectTopOnDD(this);">
-					<option value="A:" selected="selected">All Fund Focuses</option><option value="A:CMDY">Commodity/Energy</option><option value="A:EQUI">Equity</option><option value="A:FXIN">Fixed Interest</option><option value="A:HEDG">Hedge</option><option value="A:MXAS">Mixed Asset</option><option value="A:CURR">Money Market</option><option value="A:PROP">Property</option><option value="A:STRC">Structured Products</option><option value="0"></option><option value="I:">All Investment Focuses</option><option value="I:NONE">*None</option><option value="I:AGRI">Agriculture</option><option value="I:ALTE">Alternative Energy</option><option value="I:ASSB">Asset Backed</option><option value="I:BIOT">Biotech</option><option value="I:CHAR">Charity</option><option value="I:COAL">Coal</option><option value="I:CONS">Consumer Goods &amp; services</option><option value="I:CONV">Convertibles</option><option value="I:CORP">Corporate</option><option value="I:ENGY">Energy</option><option value="I:ETHL">Ethical/Sustainable</option><option value="I:FNCL">Financial</option><option value="I:GAS">Gas</option><option value="I:GOLD">Gold</option><option value="I:GOVT">Government</option><option value="I:HLTH">Health</option><option value="I:HOSP">Hospitals</option><option value="I:HOTL">Hotels</option><option value="I:IDXL">Index Linked</option><option value="I:INDS">Industrial</option><option value="I:INDM">Industrial Metals</option><option value="I:INFR">Infrastructure</option><option value="I:MXED">Mixed</option><option value="I:MORG">Mortgage</option><option value="I:NATR">Natural</option><option value="I:OFFC">Offices</option><option value="I:OIL">Oil</option><option value="I:PRMT">Precious Metals</option><option value="I:PVTE">Private Equity</option><option value="I:RESD">Residential</option><option value="I:RETL">Retail</option><option value="I:CIVP">Risk targeted multi-asset solution</option><option value="I:SECS">Securitization</option><option value="I:SPRA">Supranational</option><option value="I:TECH">Tech, Media &amp; Telecommunications</option><option value="I:VOLY">Volatility</option><option value="I:WHSE">Warehouse</option>
+					<option value="A:" selected="selected">All Fund Focuses</option><option value="A:CMDY">Commodity/Energy</option><option value="A:EQUI">Equity</option><option value="A:FXIN">Fixed Interest</option><option value="A:HEDG">Hedge</option><option value="A:MXAS">Mixed Asset</option><option value="A:CURR">Money Market</option><option value="A:PROP">Property</option><option value="A:STRC">Structured Products</option><option value="0"></option><option value="I:">All Investment Focuses</option><option value="I:NONE">*None</option><option value="I:AGRI">Agriculture</option><option value="I:ALTE">Alternative Energy</option><option value="I:ASSB">Asset Backed</option><option value="I:BIOT">Biotech</option><option value="I:CHAR">Charity</option><option value="I:CONS">Consumer Goods &amp; services</option><option value="I:CONV">Convertibles</option><option value="I:CORP">Corporate</option><option value="I:ENGY">Energy</option><option value="I:ETHL">Ethical/Sustainable</option><option value="I:FNCL">Financial</option><option value="I:GOLD">Gold</option><option value="I:GOVT">Government</option><option value="I:HLTH">Health</option><option value="I:HINC">High Income</option><option value="I:HOSP">Hospitals</option><option value="I:IDXL">Index Linked</option><option value="I:INDS">Industrial</option><option value="I:INTC">Information Technology</option><option value="I:INFR">Infrastructure</option><option value="I:LCUR">Local Currency</option><option value="I:MXED">Mixed</option><option value="I:NATR">Natural</option><option value="I:OFFC">Offices</option><option value="I:OIL">Oil</option><option value="I:PRMT">Precious Metals</option><option value="I:PREF">Preference</option><option value="I:PVTE">Private Equity</option><option value="I:RESD">Residential</option><option value="I:RETL">Retail</option><option value="I:CIVP">Risk targeted multi-asset solution</option><option value="I:SPRA">Supranational</option><option value="I:TECH">Tech, Media &amp; Telecommunications</option><option value="I:TELE">Telecommunications</option><option value="I:WHSE">Warehouse</option>
 				</select>			
 			</td>			
 			<td id="tdSectorsDD" class="qstdTwoStyle">
 				<select id="qsSectorsDD" name="qsSectorsDD" class="qsOptTwoStyle">
-					<option value="" selected="selected">All Sectors</option><option value="O:FEEXJAP">IA Asia Pacific Excluding Japan</option><option value="O:FEINCJAP">IA Asia Pacific Including Japan</option><option value="O:GRTCHN">IA China/Greater China</option><option value="O:EUREXUK">IA Europe Excluding UK</option><option value="O:EURINCUK">IA Europe Including UK</option><option value="O:EURSMCOS">IA European Smaller Companies</option><option value="O:ACTMAN">IA Flexible Investment</option><option value="O:GLBLGRTH">IA Global</option><option value="O:GLBLBND">IA Global Bonds</option><option value="O:GEB">IA Global Emerging Market Bond</option><option value="O:GLBLEMER">IA Global Emerging Markets</option><option value="O:GEI">IA Global Equity Income</option><option value="O:JAPAN">IA Japan</option><option value="O:JAPSMCOS">IA Japanese Smaller Companies</option><option value="O:DM">IA Mixed Investment 0%-35% Shrs</option><option value="O:CAUTIOUS">IA Mixed Investment 20%-60% Shrs</option><option value="O:BALMAN">IA Mixed Investment 40%-85% Shrs</option><option value="O:MONMKT">IA Money Market</option><option value="O:NRTHAM">IA North America</option><option value="O:NASMCOS">IA North American Smaller Companies</option><option value="O:PENSION">IA Personal Pensions</option><option value="O:PROPERTY">IA Property</option><option value="O:PROTECT">IA Protected</option><option value="O:MST">IA Short Term Money Market</option><option value="O:SPECIAL">IA Specialist</option><option value="O:STERCOR">IA Sterling Corporate Bond</option><option value="O:STERHYD">IA Sterling High Yield</option><option value="O:STERSRT">IA Sterling Strategic Bond</option><option value="O:IMAABR">IA Targeted Absolute Return</option><option value="O:TECHNOL">IA Technology &amp; Telecoms</option><option value="O:UKALL">IA UK All Companies</option><option value="O:UKEQBNIN">IA UK Equity &amp; Bond Income</option><option value="O:UKEQINC">IA UK Equity Income</option><option value="O:UKGILT">IA UK Gilts</option><option value="O:UKINDLNK">IA UK Index - Linked Gilts</option><option value="O:UKSMALL">IA UK Smaller Companies</option><option value="O:UNCLAS">IA Unclassified</option><option value="O:XXX">Not yet assigned</option>
+					<option value="" selected="selected">All Sectors</option><option value="O:FEEXJAP">IA Asia Pacific Excluding Japan</option><option value="O:FEINCJAP">IA Asia Pacific Including Japan</option><option value="O:GRTCHN">IA China/Greater China</option><option value="O:EUREXUK">IA Europe Excluding UK</option><option value="O:EURINCUK">IA Europe Including UK</option><option value="O:EURSMCOS">IA European Smaller Companies</option><option value="O:ACTMAN">IA Flexible Investment</option><option value="O:GLBLGRTH">IA Global</option><option value="O:GLBLBND">IA Global Bonds</option><option value="O:GLBLEMER">IA Global Emerging Markets</option><option value="O:GEI">IA Global Equity Income</option><option value="O:GEB">IA IA Global Emerging Market Bond</option><option value="O:JAPAN">IA Japan</option><option value="O:JAPSMCOS">IA Japanese Smaller Companies</option><option value="O:DM">IA Mixed Investment 0%-35% Shares</option><option value="O:CAUTIOUS">IA Mixed Investment 20%-60% Shares</option><option value="O:BALMAN">IA Mixed Investment 40%-85% Shares</option><option value="O:MONMKT">IA Money Market</option><option value="O:NRTHAM">IA North America</option><option value="O:NASMCOS">IA North American Smaller Companies</option><option value="O:PENSION">IA Personal Pensions</option><option value="O:PROPERTY">IA Property</option><option value="O:PROTECT">IA Protected</option><option value="O:MST">IA Short Term Money Market</option><option value="O:SPECIAL">IA Specialist</option><option value="O:STERCOR">IA Sterling Corporate Bond</option><option value="O:STERHYD">IA Sterling High Yield</option><option value="O:STERSRT">IA Sterling Strategic Bond</option><option value="O:IMAABR">IA Targeted Absolute Return</option><option value="O:TECHNOL">IA Technology &amp; Telecoms</option><option value="O:UKALL">IA UK All Companies</option><option value="O:UKEQBNIN">IA UK Equity &amp; Bond Income</option><option value="O:UKEQINC">IA UK Equity Income</option><option value="O:UKGILT">IA UK Gilts</option><option value="O:UKINDLNK">IA UK Index - Linked Gilts</option><option value="O:UKSMALL">IA UK Smaller Companies</option><option value="O:UNCLAS">IA Unclassified</option><option value="O:XXX">Not yet assigned</option>
 				</select>
 			</td>	
 			<td id="tdUnitsDD" style="text-align:right; vertical-align: middle;">
@@ -1239,38 +1286,38 @@ function passsivehide() {
 		</div>
 		<div class="header">
 			<h1>
-				<a href="/News/Research.aspx?type=research">More Research: June</a>
+				<a href="/News/Research.aspx?type=research">More Research: October</a>
 			</h1>
 		</div>			
 		<div class="content">
 		<table border="0" cellpadding="1" cellspacing="1">					
 				<tbody><tr>
 					<td><img alt="alter" src="http://davu072c1j2c0.cloudfront.net/images/bgArrowLeft.gif"></td>
-					<td><a href="/News/609013/top-performing-equity-income-funds-with-the-lowest-correlation-to-woodford/">Top performing equity income funds with the lowest correlation to Woodford</a></td>						
+					<td><a href="/News/629579/investors-should-stick-with-developed-markets-says-rathbones-chillingworth/">Investors should stick with developed markets, says Rathbones’ Chillingworth</a></td>						
 					</tr><tr>
 					<td><img alt="alter" src="http://davu072c1j2c0.cloudfront.net/images/bgArrowLeft.gif"></td>
-					<td><a href="/News/609007/how-to-maximise-income-in-todays-environment/">How to maximise income in today’s environment</a></td>						
+					<td><a href="/News/629578/taylor-the-oil-price-will-stay-below-$50-for-decades/">Taylor: The oil price will stay below $50 for decades  </a></td>						
 					</tr><tr>
 					<td><img alt="alter" src="http://davu072c1j2c0.cloudfront.net/images/bgArrowLeft.gif"></td>
-					<td><a href="/News/609010/canaccord-genuity-the-three-major-risks-that-have-us-worried/">Canaccord Genuity: The three major risks that have us worried </a></td>						
+					<td><a href="/News/629568/jp-morgan-alternative-strategies-are-now-needed-to-keep-portfolios-safe/">JP Morgan: Alternative strategies are now needed to keep portfolios safe </a></td>						
 					</tr><tr>
 					<td><img alt="alter" src="http://davu072c1j2c0.cloudfront.net/images/bgArrowLeft.gif"></td>
-					<td><a href="/News/608996/new-julie-dean-fund-record-lloyds-fine-and-warning-on-eu-regulation-your-fund-news-digest/">New Julie Dean fund, record Lloyds fine and warning on EU regulation: Your fund news digest</a></td>						
+					<td><a href="/News/629566/the-three-questions-investors-should-ask-in-the-middle-of-a-geopolitical-shock/">The three questions investors should ask in the middle of a geopolitical shock</a></td>						
 					</tr><tr>
 					<td><img alt="alter" src="http://davu072c1j2c0.cloudfront.net/images/bgArrowLeft.gif"></td>
-					<td><a href="/News/609006/a-year-of-woodford-income-in-pictures-and-a-shambles--our-best-stories-of-the-week/">A year of Woodford, income in pictures and a shambles – Our best stories of the week</a></td>						
+					<td><a href="/News/629511/fund-managers-love-it-but-should-income-investors-be-looking-to-buy-lloyds/">Fund managers love it but should income investors be looking to buy Lloyds?</a></td>						
 					</tr><tr>
 					<td><img alt="alter" src="http://davu072c1j2c0.cloudfront.net/images/bgArrowLeft.gif"></td>
-					<td><a href="/News/608998/weekly-share-tip-roundup-lloyds-on-hold-johnson-matthey-exhausted/">Weekly share-tip roundup: Lloyds on hold, Johnson Matthey exhausted</a></td>						
+					<td><a href="/News/629480/advisers-doubt-whether-traditional-stock-and-bond-portfolios-will-meet-client-aims/">Advisers doubt whether traditional stock and bond portfolios will meet client aims</a></td>						
 					</tr><tr>
 					<td><img alt="alter" src="http://davu072c1j2c0.cloudfront.net/images/bgArrowLeft.gif"></td>
-					<td><a href="/News/608997/five-high-conviction-uk-growth-funds-shooting-the-lights-out/">Five high conviction UK growth funds shooting the lights out</a></td>						
+					<td><a href="/News/629406/scott-mckenzie-why-my-income-fund-is-snapping-up-small-caps/">Scott McKenzie: Why my income fund is snapping up small-caps</a></td>						
 					</tr><tr>
 					<td><img alt="alter" src="http://davu072c1j2c0.cloudfront.net/images/bgArrowLeft.gif"></td>
-					<td><a href="/News/608994/how-much-should-investors-fear-a-greek-default/">How much should investors fear a Greek default? </a></td>						
+					<td><a href="/News/629432/why-ian-spreadbury-hasnt-changed-his-investment-tactics-for-20-years/">Why Ian Spreadbury hasn’t changed his investment tactics for 20 years</a></td>						
 					</tr><tr>
 					<td><img alt="alter" src="http://davu072c1j2c0.cloudfront.net/images/bgArrowLeft.gif"></td>
-					<td><a href="/News/608948/dfms-three-favourite-truly-active-investment-trusts/">DFMs' three favourite truly active investment trusts </a></td>						
+					<td><a href="/News/629426/watch-should-income-investors-be-worried-about-shell-and-bp/">WATCH: Should income investors be worried about Shell and BP?</a></td>						
 					</tr>   								
 			</tbody></table> 
 		<p align="right">
@@ -1359,7 +1406,7 @@ function passsivehide() {
 						     <img alt="alter" src="http://davu072c1j2c0.cloudfront.net/images/bgArrowLeft.gif" />
 						 </td>
 						  <td>
-						    <a href="/News/DisplayStory.aspx?id=604173">RBC appoints global head of client coverage</a>
+						    <a href="/News/DisplayStory.aspx?id=626131">Barclays' co-head of global product origination departs</a>
 						  </td>						
 					 </tr> 
 					<tr>
@@ -1367,7 +1414,7 @@ function passsivehide() {
 						     <img alt="alter" src="http://davu072c1j2c0.cloudfront.net/images/bgArrowLeft.gif" />
 						 </td>
 						  <td>
-						    <a href="/News/DisplayStory.aspx?id=602077">Income in retirement - let's keep it sensible</a>
+						    <a href="/News/DisplayStory.aspx?id=625715">Investec structured products sales head to join Old Mutual</a>
 						  </td>						
 					 </tr> 
 					<tr>
@@ -1375,7 +1422,7 @@ function passsivehide() {
 						     <img alt="alter" src="http://davu072c1j2c0.cloudfront.net/images/bgArrowLeft.gif" />
 						 </td>
 						  <td>
-						    <a href="/News/DisplayStory.aspx?id=599922">Nomura makes changes at the top as Cottle steps down</a>
+						    <a href="/News/DisplayStory.aspx?id=625406">Deutsche Bank regroups GEDS and structuring divisions</a>
 						  </td>						
 					 </tr> 
 					<tr>
@@ -1383,7 +1430,7 @@ function passsivehide() {
 						     <img alt="alter" src="http://davu072c1j2c0.cloudfront.net/images/bgArrowLeft.gif" />
 						 </td>
 						  <td>
-						    <a href="/News/DisplayStory.aspx?id=598867">UK regulator fines Merrill Lynch -ú13m for transaction reporting failures</a>
+						    <a href="/News/DisplayStory.aspx?id=610554">Barclays appoints head of fund products</a>
 						  </td>						
 					 </tr> 
 					<tr>
@@ -1391,7 +1438,7 @@ function passsivehide() {
 						     <img alt="alter" src="http://davu072c1j2c0.cloudfront.net/images/bgArrowLeft.gif" />
 						 </td>
 						  <td>
-						    <a href="/News/DisplayStory.aspx?id=597779">Baml adds to structured equity</a>
+						    <a href="/News/DisplayStory.aspx?id=609743">SG tweaks global FIC and UK distribution</a>
 						  </td>						
 					 </tr>   												
 			</table> 		
@@ -1412,6 +1459,9 @@ function passsivehide() {
         </div>
 
 	    
+<div style="margin-left:10px">
+Data provided by FE. Care has been taken to ensure that the information is correct, but FE neither warrants, represents nor guarantees the contents of information, nor does it accept any responsibility for errors, inaccuracies, omissions or any inconsistencies herein. Past performance does not predict future performance, it should not be the main or sole reason for making an investment decision. The value of investments and any income from them can fall as well as rise.
+</div>
 <div class="footer-content">
 
             <ul class="utility-navi">
@@ -1472,9 +1522,9 @@ function passsivehide() {
                 <li><a href="/Investments/VCTPerf.aspx">Venture capital trusts</a></li>
             </ul>
             <div class="cols last">
-            <h5>Stay connected with FE trustnet</h5>
+            <h5>Stay connected with FE Trustnet</h5>
             <ul class="social_icons row-wrap">
-                <li><a rel="me" class="icon_twitter js_hits" title="Twitter" href="https://twitter.com/Trustnet" target="_blank"></a></li>
+                <li><a rel="me" class="icon_twitter js_hits" title="Twitter" href="https://twitter.com/FEtrustnet" target="_blank"></a></li>
                 <li><a rel="me" class="icon_youtube js_hits" title="Youtube" href="http://www.youtube.com/TrustnetUK" target="_blank"></a></li>
                 <li><a rel="me" class="icon_rss js_hits" title="RSS" href="http://feeds.trustnet.com/trustnet" target="_blank"></a></li>
                 <li><a rel="me" class="icon_linkedin js_hits" title="Linkedin" href="https://www.linkedin.com/company/trustnet-uk" target="_blank"></a></li>
@@ -1539,7 +1589,7 @@ function passsivehide() {
 
     LogDBServerExecTime = parseInt(LogDBServerExecTime) + parseInt(FNewsDBServerExecTime);
 
-    var qryParams = 'fut=http%3a%2f%2fwww.trustnet.com%2fEducation%2fTNUK%2fPrivacyPolicy.aspx&c=&rut=&bw=' + screen.width + '&bh=' + screen.height + '&bt=' + navigator.appName + '&bc=' + screen.colorDepth + '&uid=&pl=' + userLanguage + "&u=&f=&s=&m=&t=&ai=&as=&cu=&rc=&rf=&se=281&dbse=" + LogDBServerExecTime + "&pc=&uty=" + invType;
+    var qryParams = 'fut=http%3a%2f%2fwww.trustnet.com%2fEducation%2fTNUK%2fPrivacyPolicy.aspx&c=GBP&rut=&bw=' + screen.width + '&bh=' + screen.height + '&bt=' + navigator.appName + '&bc=' + screen.colorDepth + '&uid=&pl=' + userLanguage + "&u=&f=&s=&m=&t=&ai=&as=&cu=&rc=&rf=&se=375&dbse=" + LogDBServerExecTime + "&pc=&uty=" + invType;
     jQuery.ajax
     ({
         type: "POST",
@@ -1719,7 +1769,7 @@ function passsivehide() {
     <script type="text/javascript">
         var _gaq = _gaq || [];
         _gaq.push(['_setAccount', 'UA-8896360-1']);
-        _gaq.push(['_setCustomVar', 1, 'User_type', GetCookie('invtype'), 1]);
+        _gaq.push(['_setCustomVar', 1, 'User_type', GetCookie('invtype').toLowerCase(), 1]);
         _gaq.push(['_setDomainName', '.trustnet.com']);
          
         _gaq.push(['_setSiteSpeedSampleRate', 100]);
@@ -1742,16 +1792,6 @@ function passsivehide() {
     </script>
     <!-- ClickTale end of Bottom part -->
 </div>
-<!-- Start of Async HubSpot Analytics Code --> 
-  <script type="text/javascript">
-      (function (d, s, i, r) {
-          if (d.getElementById(i)) { return; }
-          var n = d.createElement(s), e = d.getElementsByTagName(s)[0];
-          n.id = i; n.src = '//js.hs-analytics.net/analytics/' + (Math.ceil(new Date() / r) * r) + '/445778.js';
-          e.parentNode.insertBefore(n, e);
-      })(document, "script", "hs-analytics", 300000); 
-  </script> 
-<!-- End of Async HubSpot Analytics Code --> 
 
 
 
