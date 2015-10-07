@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sisley.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607072628id_/http%3A//www.sisley.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sisley.com privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007135932id_/http%3A//www.sisley.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Sisley | Sisley 2014
 
