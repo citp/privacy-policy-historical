@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beefcakehunter.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607062406id_/http%3A//beefcakehunter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beefcakehunter.com privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007030301id_/http%3A//beefcakehunter.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Beef Cake Hunter
+# Privacy Policy - Beef Cake Hunter
 
 Children (in many legal jurisdictions, persons under the age of 18, and in others, under the age of 21 – consult your local laws) are not eligible to use this site, and we ask that children not visit this site, not use this site in any way, not register for any access to material on this site, not remain on this site if this site has been accessed by any other person, not browse within this site or submit any personal information to us. By using this site, you (“user” or “you”) warrant that you are an “adult” in your legal jurisdiction and that you are otherwise authorized under the laws of your jurisdiction to access and use this site.
 
@@ -35,8 +35,6 @@ GEE has methods and policies in place to protect the confidentiality of personal
 
 Www.BeefCakeHunter.com uses “cookies” to assist you with making your online experience more individualized. A “cookie” is a small text file that is placed on the hard disk of your computer by a web-page server and contains non-personally identifying information about you. Cookies identify only the user’s computer and cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. Cookies are used for convenience and to save you time when you next visit our website. The purpose of a cookie is to tell the web server that you have accessed a specific page on our website, so that when you visit the site again, your experience can be personalized. You have the ability to accept or decline **cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to set your computer to accept cookies from our website, you may also choose to be logged into the site automatically. If you choose to decline cookies, you may not be able fully to experience the interactive features of our website, and you may experience technical problems receiving current information from us.**
 
- **
-
 ## LINKS
 
 GEE’s website may contain links to other sites that are covered by their own privacy policies. We are not and cannot be responsible for the privacy practices of such other sites, and we encourage our users to be aware of this fact when they leave our site. We recommend that our users read the privacy statements of each and every website that collects Personally Identifying Information.
@@ -50,5 +48,3 @@ If you do not agree with these terms, do not provide any personal information to
 ## NOTICE TO CALIFORNIA RESIDENTS
 
 Under California, USA law, California residents have the right to request in writing from businesses with whom they have an established business relationship, (1) a list of the categories of information, such as name, address, e-mail address, and the type of services provided to the customer, that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties’ direct marketing purposes, and (2) the names and addresses of all such third parties. To request the above information, please write to us with a reference to “California Disclosure Information” at: __info@beefcakehunter.com____________________________.
-
-**
