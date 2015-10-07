@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starbucks.ca privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315214053id_/http%3A//www.starbucks.ca/about-us/company-information/online-policies/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starbucks.ca privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007025855id_/http%3A//www.starbucks.ca/about-us/company-information/online-policies/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Starbucks Coffee Company
 
