@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pipex.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607182331id_/http%3A//www.talktalkbusiness.co.uk/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pipex.com privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007031703id_/http%3A//www.talktalkbusiness.co.uk/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TalkTalk Business
 
@@ -16,7 +16,7 @@ We are committed to protecting and preserving your information, being transparen
 
 ### SCOPE
 
-This policy applies to anyone who buys or uses any of the services provided by the TalkTalk group and its companies, which includes the brands TalkTalk, TalkTalk Business, and Blinkbox.
+This policy applies to anyone who uses the websites of, or who buys or uses any of the services provided by, the TalkTalk group and its companies, which includes the brands TalkTalk, TalkTalk Business, and Blinkbox. 
 
 When we refer to “we” or “our” or “TalkTalk” we are referring to TalkTalk Telecom Group Plc and its subsidiaries, (including TalkTalk Communications Limited and TalkTalk Telecom Limited), or any of them, as the context requires.
 
