@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the theiapolis.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316031339id_/http%3A//www.theiapolis.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theiapolis.com privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007160501id_/http%3A//www.theiapolis.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy -Theiapolis
 
 Theiapolis respects privacy of Internet Users and does not collect personally identifying information without the Internet User's permission.
 
-However you should know that third parties may be placing and reading cookies on your browser, or using web beacons to collect information, in the course of ads being served.
+However you should know that third parties may be placing and reading cookies on your browser, or using web beacons to collect information, in the course of ads being served. (see: Cookies)
 
 This policy applies to the web site <http://www.theiapolis.com/> ("Theiapolis") and all its sub-domains. The full text of our privacy is available on the Web at: <http://www.theiapolis.com/privacy.html>.
 
@@ -76,12 +76,6 @@ To participate in the Theiapolis Community, you have to provide a valid e-mail a
   
 
 
-  * _Your Date of Birth:_  
-When you register at Theiapolis, you have to provide your REAL Date of Birth. Your year of birth/age won't be shown, but by registering you certify the accuracy of this information. 
-
-  
-
-
   * _Your IP address:_  
 Each time you perform an action (posting a message, uploading an image, etc.) your IP address will be recorded. You must understand that Theiapolis can use this information to block your access in the case of bad behaviour, fraudulent activity, or anything else violating the Terms of usage described at: [http://www.theiapolis.com/terms.html](https://web.archive.org/terms.html). We would like to insist on the fact that you endorse the entire responsibility concerning the material (text, data, image, etc.) you post at Theiapolis. If any of your actions results in illegal or reprehensible activity, we may have to communicate your IP address to the appropriate authorities. 
 
@@ -97,12 +91,14 @@ HTTP cookies, or more commonly referred to as Web cookies, tracking cookies or j
 
 Theiapolis makes use of cookies to store a given number of information such as session tracking for logged members.
 
-We use cookies to ensure that we give you the best experience on our website. If you continue without changing your settings, we'll assume that you are happy to receive all cookies from this website. If you would like to change your preferences you may do so by following the instructions [here](http://www.aboutcookies.org/Default.aspx?page=1)
+Like most websites, our pages embed codes from third-party service providers to ensure you get the best experience on our website. You should know that these third parties might use cookies to offer content and ads tailored to your interests as well as social media features.
+
+If you continue without changing your settings, we'll assume that you are happy to receive all cookies from this website. **If you would like to change your preferences you may do so by following the instructions[here](http://www.aboutcookies.org/Default.aspx?page=1)**
 
   
 
 
-## Third-Party Advertisers
+**Third-Party Advertisers**
 
 Theiapolis includes third-party advertising and links to other websites. We do not provide any personally identifiable customer information to these advertisers or third-party websites.
 
@@ -114,6 +110,17 @@ Google's use of the [DART cookie](http://www.doubleclick.com/privacy/faq.aspx) e
 
 Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
+**Facebook, Twitter and other Social Networks**
+
+Theiapolis.com embeds social media features such as the "Like" (Facebook) and "Tweet" (Twitter) buttons.
+
+To do so these Social Networks are providing a code to add to our pages. We do not control this code ourself and we do not have any access to that information, nor can we control how those networks use it.
+
+As a result, you should know these Social Networks might know that you are viewing this website, if you use their services. Please refer to their privacy policy for more information.
+
+  
+
+
   
 
 
@@ -123,7 +130,7 @@ Here are common questions and answers regarding our privacy policy.
 
 **What information does Theiapolis collect from you?**
 
-  * You can visit Theiapolis and use many of our services without having to tell us who you are or reveal any personally identifiable information to us. It is only when using certain Theiapolis services, or participating in the Theiapolis Community, that you will be asked to provide us with personally identifiable information (e-mail address, date of birth, etc.)
+  * You can visit Theiapolis and use many of our services without having to tell us who you are or reveal any personally identifiable information to us. It is only when using certain Theiapolis services, or participating in the Theiapolis Community, that you will be asked to provide us with personally identifiable information (e-mail address)
 
   
 
@@ -138,7 +145,7 @@ Here are common questions and answers regarding our privacy policy.
   
 
 
-  * When using some particular services of Theiapolis you may be requested to supply personal information, such as your email address. For example, to participate in the Theiapolis Community you have to provide a user name (which can be a nickname), a valid email address and your Date of Birth. 
+  * When using some particular services of Theiapolis you may be requested to supply personal information, such as your email address. For example, to participate in the Theiapolis Community you have to provide a user name (which can be a nickname), and a valid email address.
 
 
 
