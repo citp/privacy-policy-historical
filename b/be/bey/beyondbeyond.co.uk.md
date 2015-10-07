@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beyondbeyond.co.uk privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620065709id_/http%3A//beyondbeyond.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyondbeyond.co.uk privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008013253id_/http%3A//beyondbeyond.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Beyond Beyond ™ Wedding Blog - UK Wedding Blog & Wedding Magazine| International Wedding Blog | Free iPad Wedding Magazine | Photography, Style, Design & Inspiration
 
