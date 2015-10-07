@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the famo.us privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618064544id_/http%3A//www.famo.us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the famo.us privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007025804id_/http%3A//famo.us/privacy-policy) for the most accurate reproduction.*
 
 # famo.us
 
 The effective date of this Privacy Policy is April 9, 2014.
 
-We know that your information is important, and we want you to know that it is important to us as well. We have prepared this privacy policy (the “Privacy Policy”) to clearly inform you of our policies and procedures regarding all of your information including what data we collect about you, how we collect it and our use and disclosure of that information. In addition, the Privacy Policy informs you of our policies regarding children under eighteen years of age, your options regarding your information and how to contact us if you have any questions.
+We know that your information is important, and we want you to know that it is important to us as well. We have prepared this privacy policy (the â€œPrivacy Policyâ€) to clearly inform you of our policies and procedures regarding all of your information including what data we collect about you, how we collect it and our use and disclosure of that information. In addition, the Privacy Policy informs you of our policies regarding children under eighteen years of age, your options regarding your information and how to contact us if you have any questions.
 
-By using our web site (the “Site”), participating in our services (collectively with the Site, the “Services”), or by providing Famo.us with your information, you consent to the collection, transfer, storage, and processing of information as set forth in this Privacy Policy. Famo.us will take all steps reasonably necessary to ensure that your data is treated securely in accordance with this Privacy Policy. We may change this Privacy Policy by posting a new version on the Site. By using the Site after the date of such change, you represent and warrant that you have read, understand, and agree to be bound by all terms of the Privacy Policy then in effect.
+By using our web site (the â€œSiteâ€), participating in our services (collectively with the Site, the â€œServicesâ€), or by providing Famo.us with your information, you consent to the collection, transfer, storage, and processing of information as set forth in this Privacy Policy. Famo.us will take all steps reasonably necessary to ensure that your data is treated securely in accordance with this Privacy Policy. We may change this Privacy Policy by posting a new version on the Site. By using the Site after the date of such change, you represent and warrant that you have read, understand, and agree to be bound by all terms of the Privacy Policy then in effect.
 
-Unless otherwise defined in the Privacy Policy, terms defined and used in the Famo.us Terms of Service, accessible at [http://famo.us/terms/](https://web.archive.org/terms/) (the “Terms”), shall have same meaning in this Privacy Policy. Famous Industries, Inc. is the corporate name for Famo.us. In this Privacy Policy, when the words “Famo.us”, “famo.us”, “our”, “us” or “we” are used, they shall refer to Famous Industries, Inc., and when the words “you”, “your”, or “User” are used, they refer to you.
+Unless otherwise defined in the Privacy Policy, terms defined and used in the Famo.us Terms of Service, accessible at [http://famo.us/terms/](https://web.archive.org/terms/) (the â€œTermsâ€), shall have same meaning in this Privacy Policy. Famous Industries, Inc. is the corporate name for Famo.us. In this Privacy Policy, when the words â€œFamo.usâ€, â€œfamo.usâ€, â€œourâ€, â€œusâ€ or â€œweâ€ are used, they shall refer to Famous Industries, Inc., and when the words â€œyouâ€, â€œyourâ€, or â€œUserâ€ are used, they refer to you.
 
 * * *
 
@@ -20,21 +20,21 @@ We only collect information that is relevant to the purpose of providing you wit
 
 * * *
 
-**Registration Data** – This is the data you enter when you register for the Services.
+**Registration Data** â€“ This is the data you enter when you register for the Services.
 
 * * *
 
-**How we collect Registration Data.** We collect information about you when you register for the Services on this site or otherwise or complete forms for optional programs or surveys (“Registration Data”). Registration Data may include, but is not limited to, your name, email address, gender, age, physical address, and phone number. You can choose not to provide us with this information. However, some of our features rely on this information and your experience of the Services may be affected by omitting this information. In addition, we (or our third-party credit card or payment processor on our behalf) will collect Registration Data including your credit card number or account information when you subscribe to and pay for the Services.
+**How we collect Registration Data.** We collect information about you when you register for the Services on this site or otherwise or complete forms for optional programs or surveys (â€œRegistration Dataâ€). Registration Data may include, but is not limited to, your name, email address, gender, age, physical address, and phone number. You can choose not to provide us with this information. However, some of our features rely on this information and your experience of the Services may be affected by omitting this information. In addition, we (or our third-party credit card or payment processor on our behalf) will collect Registration Data including your credit card number or account information when you subscribe to and pay for the Services.
 
 **How we use Registration Data.** We use this information to identify Users of the Site and Services and to improve the Site and Services. We keep Registration Data related to your account in a database for future reference, as needed.
 
 * * *
 
-**Credentials** – This information identifies you as a real person, with a real name and a real way to contact you.
+**Credentials** â€“ This information identifies you as a real person, with a real name and a real way to contact you.
 
 * * *
 
-**How we collect Credentials.** We collect information about you when you register for or log into the Services by logging into an account that you have with third parties, including social networking services (“SNS”) including, but not limited to Google, Github, Facebook, and Twitter. When you sign up for the Services for the first time by using an SNS sign-in, we collect the credentials about you that you make available in your privacy settings within that SNS.
+**How we collect Credentials.** We collect information about you when you register for or log into the Services by logging into an account that you have with third parties, including social networking services (â€œSNSâ€) including, but not limited to Google, Github, Facebook, and Twitter. When you sign up for the Services for the first time by using an SNS sign-in, we collect the credentials about you that you make available in your privacy settings within that SNS.
 
 **How we use Credentials.** When you register for the Services using an SNS sign-in, we use your credentials to identify you and to build out your account. When you log into the Services through an SNS, we use those credentials to log you into your account on the Services.
 
@@ -42,11 +42,11 @@ We only collect information that is relevant to the purpose of providing you wit
 
 * * *
 
-**User Generated Data** – This data is generated by you during your use of the Services.
+**User Generated Data** â€“ This data is generated by you during your use of the Services.
 
 * * *
 
-**How we collect User Generated Data.** If you register for the Services, we track “User Generated Data,” such as the specific Famo.us services you use, your progress through our tutorial offerings, and commands and actions executed in the Services. How we use User Generated Data. We track User Generated Data for two purposes:
+**How we collect User Generated Data.** If you register for the Services, we track â€œUser Generated Data,â€ such as the specific Famo.us services you use, your progress through our tutorial offerings, and commands and actions executed in the Services. How we use User Generated Data. We track User Generated Data for two purposes:
 
   1. **Aggregate Analysis** \- in aggregate, to increase performance, to discover bugs, to increase User efficiency and to enhance the overall experience for all Users in the system.
   2.  **Personalization** \- at the User level, to provide a personalized experience of the Services for each User.
@@ -55,17 +55,17 @@ We only collect information that is relevant to the purpose of providing you wit
 
 * * *
 
-**Logged Data** – Logged data is collected by our servers about connections, devices and network conditions while a User is connected to the Service.
+**Logged Data** â€“ Logged data is collected by our servers about connections, devices and network conditions while a User is connected to the Service.
 
 * * *
 
-**How we collect Log Data.** We collect and store certain types of system log data whenever you interact with the Service, including search terms, pages viewed, the IP address, (with more information on how we use your IP address below in the “IP Addresses” section), the browser brand and version, what device is being used and the operating system of the device.
+**How we collect Log Data.** We collect and store certain types of system log data whenever you interact with the Service, including search terms, pages viewed, the IP address, (with more information on how we use your IP address below in the â€œIP Addressesâ€ section), the browser brand and version, what device is being used and the operating system of the device.
 
 **How we use Logged Data.** We collect logged data to better understand which devices are using the Service and their performance levels in order to continually optimize our software and Services to provide the most efficient and stable service to Users.
 
 * * *
 
-**Cookies** – Cookies are small files stored on your device with information that comes from us.
+**Cookies** â€“ Cookies are small files stored on your device with information that comes from us.
 
 * * *
 
@@ -73,7 +73,7 @@ We only collect information that is relevant to the purpose of providing you wit
 
 **How cookies are used.** The main purpose of utilizing cookies is to provide a customized experience or a more efficient experience each time you visit the Services. We use two types of cookies: Persistent Cookies and Session Cookies.
 
-**Persistent Cookies** – These are cookies that persist after you have logged out of the Services. We use Persistent Cookies to maintain information between logged in sessions.
+**Persistent Cookies** â€“ These are cookies that persist after you have logged out of the Services. We use Persistent Cookies to maintain information between logged in sessions.
 
 **Session Cookies** \- These are cookies that only exist during a logged in session. We use Session Cookies to use information about a specific session to enhance User experience.
 
@@ -95,7 +95,7 @@ We only collect information that is relevant to the purpose of providing you wit
 
 * * *
 
-**Personally Identifiable Information** – Personally Identifiable Information is information that can be used to specifically identify, contact or locate a single person or can be used in conjunction with other sources to uniquely identify a single individual. The Services contain your Personally Identifiable Information. If you choose to provide Famo.us with your information, you consent to the transfer and storage of that information on our servers.
+**Personally Identifiable Information** â€“ Personally Identifiable Information is information that can be used to specifically identify, contact or locate a single person or can be used in conjunction with other sources to uniquely identify a single individual. The Services contain your Personally Identifiable Information. If you choose to provide Famo.us with your information, you consent to the transfer and storage of that information on our servers.
 
 **Your User Content.** This is private by default, although you may have the ability to share it publicly.
 
@@ -105,13 +105,13 @@ We only collect information that is relevant to the purpose of providing you wit
 
 * * *
 
-**Aggregated Non-Personally Identifiable Data** – We may share aggregated, non-personally identifiable information to outside third parties to facilitate the Services, to provide you with a better experience, to improve the quality and value of the Services, to analyze and understand how the Services are used and for sales and marketing purposes.
+**Aggregated Non-Personally Identifiable Data** â€“ We may share aggregated, non-personally identifiable information to outside third parties to facilitate the Services, to provide you with a better experience, to improve the quality and value of the Services, to analyze and understand how the Services are used and for sales and marketing purposes.
 
-**Business Transfers or Change of Control** – Famo.us reserves the right to transfer, sell and/or distribute all information collected through the Services to an affiliate, subsidiary, or third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or part of our business, assets or stock. We will use our best efforts to ensure that the new entity follows this Privacy Policy with respect to your Personally Identifiable Information, as and to the extent required by applicable law.
+**Business Transfers or Change of Control** â€“ Famo.us reserves the right to transfer, sell and/or distribute all information collected through the Services to an affiliate, subsidiary, or third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or part of our business, assets or stock. We will use our best efforts to ensure that the new entity follows this Privacy Policy with respect to your Personally Identifiable Information, as and to the extent required by applicable law.
 
-**“Do Not Track Requests”** – We do not track or respond to browser “do not track” requests.
+**â€œDo Not Track Requestsâ€** â€“ We do not track or respond to browser â€œdo not trackâ€ requests.
 
-**Distributed Apps** – If you elect to distribute applications using the Services, your applications may be provided through platforms or contain links to sites operated by third parties whose policies regarding the handling of information may differ from ours. For example, you may be able to distribute your application through platforms such as the Google Play store, the Apple App store, the Kindle app store, and others. While we endeavor to associate with reputable companies, Famo.us cannot be responsible for the information handling practices of these other websites and platforms. These websites and platforms have separate and independent privacy statements, notices and terms of use, which we recommend you read carefully.
+**Distributed Apps** â€“ If you elect to distribute applications using the Services, your applications may be provided through platforms or contain links to sites operated by third parties whose policies regarding the handling of information may differ from ours. For example, you may be able to distribute your application through platforms such as the Google Play store, the Apple App store, the Kindle app store, and others. While we endeavor to associate with reputable companies, Famo.us cannot be responsible for the information handling practices of these other websites and platforms. These websites and platforms have separate and independent privacy statements, notices and terms of use, which we recommend you read carefully.
 
 * * *
 
@@ -119,31 +119,31 @@ We only collect information that is relevant to the purpose of providing you wit
 
 * * *
 
-**Registration Content** – You may change your account content at any time by visiting the settings section of the Services.
+**Registration Content** â€“ You may change your account content at any time by visiting the settings section of the Services.
 
-**User Content** – User Content is content that you collect, import, sync or post into your Famo.us account. By default, User Content cannot be seen by any Users other than you, until you share that content through one or more Famo.us Apps that you create or you specifically choose a piece of content and share it.
+**User Content** â€“ User Content is content that you collect, import, sync or post into your Famo.us account. By default, User Content cannot be seen by any Users other than you, until you share that content through one or more Famo.us Apps that you create or you specifically choose a piece of content and share it.
 
-**Famo.us Apps** – You share your User Content by creating and sharing applications that contain various pieces of User Content that you select. The default setting for all apps upon creation is private. That is, only you can see the content you have placed in that app. The only way that another user can see an application that you create is if you share it with them.
+**Famo.us Apps** â€“ You share your User Content by creating and sharing applications that contain various pieces of User Content that you select. The default setting for all apps upon creation is private. That is, only you can see the content you have placed in that app. The only way that another user can see an application that you create is if you share it with them.
 
-**Cookies** – If at any time you decide that you do not want us to track you with cookies, you may set your settings in your browser to stop accepting cookies. By doing so, you may not be able to use all portions of the Services.
+**Cookies** â€“ If at any time you decide that you do not want us to track you with cookies, you may set your settings in your browser to stop accepting cookies. By doing so, you may not be able to use all portions of the Services.
 
-**Email** – If you no longer want to receive email communications from Famo.us, or you want to change your email settings, you may do so by going into the settings section of the Services.
+**Email** â€“ If you no longer want to receive email communications from Famo.us, or you want to change your email settings, you may do so by going into the settings section of the Services.
 
-**Disconnecting your SNS connection** – If you registered or logged in through a SNS and wish to disconnect that credential service from Famo.us you may do so at any time by going into the settings section of the Services.
+**Disconnecting your SNS connection** â€“ If you registered or logged in through a SNS and wish to disconnect that credential service from Famo.us you may do so at any time by going into the settings section of the Services.
 
 * * *
 
 ### Information storage and protection
 
-**Passwords** – Each User has an account and password which is controlled by the User. Users may change their password at any time. In order to maintain your password protection, do not give your password to anyone. If you share a computer, you should sign out of your Famo.us account and close the browser window before someone else logs on. This will help protect your information entered on public terminals from disclosure to third parties. If you think that your password has been stolen, please contact Famo.us immediately.
+**Passwords** â€“ Each User has an account and password which is controlled by the User. Users may change their password at any time. In order to maintain your password protection, do not give your password to anyone. If you share a computer, you should sign out of your Famo.us account and close the browser window before someone else logs on. This will help protect your information entered on public terminals from disclosure to third parties. If you think that your password has been stolen, please contact Famo.us immediately.
 
-**Information Security** – Famo.us utilizes commercially reasonable safeguards, including encrypting communications and using time-based access tokens, and relies on commercially reasonable standards of practice to ensure that we safeguard information to the best of our ability. However, we cannot guarantee that our efforts will prevent information retrieval methods that we cannot predict. Therefore, we cannot guarantee that your information will not be accessed, altered, destroyed or disclosed to unauthorized parties, and you use our Site and Services at your own risk.
+**Information Security** â€“ Famo.us utilizes commercially reasonable safeguards, including encrypting communications and using time-based access tokens, and relies on commercially reasonable standards of practice to ensure that we safeguard information to the best of our ability. However, we cannot guarantee that our efforts will prevent information retrieval methods that we cannot predict. Therefore, we cannot guarantee that your information will not be accessed, altered, destroyed or disclosed to unauthorized parties, and you use our Site and Services at your own risk.
 
-**Information Retention**. To preserve the integrity of our databases, standard procedure calls for us to retain information submitted by Users for an indefinite length of time. Famo.us understands your submissions as consent to store all your information in one place for this indefinite length of time, if we so wish. If required by law, as is the case to comply with the Children’s Online Privacy Protection Act (COPPA), we will nullify User Content by erasing it from our database. We will also respond to written User requests to nullify account information. If you wish to make such a request, which requires that we verify your identity, or if you have any questions regarding this Privacy Policy, contact Famo.us at contact@famo.us or using the Contact Information as provided below. Also, by using this Site, you do hereby represent and warrant that you understand and agree that all information submitted by you to Famo.us becomes the property of Famo.us and may be used in the sole discretion of Famo.us in accordance with this Privacy Policy and the Terms.
+**Information Retention**. To preserve the integrity of our databases, standard procedure calls for us to retain information submitted by Users for an indefinite length of time. Famo.us understands your submissions as consent to store all your information in one place for this indefinite length of time, if we so wish. If required by law, as is the case to comply with the Childrenâ€™s Online Privacy Protection Act (COPPA), we will nullify User Content by erasing it from our database. We will also respond to written User requests to nullify account information. If you wish to make such a request, which requires that we verify your identity, or if you have any questions regarding this Privacy Policy, contact Famo.us at contact@famo.us or using the Contact Information as provided below. Also, by using this Site, you do hereby represent and warrant that you understand and agree that all information submitted by you to Famo.us becomes the property of Famo.us and may be used in the sole discretion of Famo.us in accordance with this Privacy Policy and the Terms.
 
-**Notification of Compromised Service** – If at any time, your account or other accounts are compromised, Famo.us will make any legally required disclosures in a reasonable time to you via the email account that you provided us on your account.
+**Notification of Compromised Service** â€“ If at any time, your account or other accounts are compromised, Famo.us will make any legally required disclosures in a reasonable time to you via the email account that you provided us on your account.
 
-**No Control over Third Party Web sites** – Famo.us may contain links to other web sites. We are of course not responsible for the privacy practices of other web sites. We encourage our Users to be aware when they leave our Site to read the privacy statements of each and every web site that collects Personally Identifiable Information. This Privacy Policy applies solely to information collected by Famo.us.
+**No Control over Third Party Web sites** â€“ Famo.us may contain links to other web sites. We are of course not responsible for the privacy practices of other web sites. We encourage our Users to be aware when they leave our Site to read the privacy statements of each and every web site that collects Personally Identifiable Information. This Privacy Policy applies solely to information collected by Famo.us.
 
 * * *
 
@@ -151,7 +151,7 @@ We only collect information that is relevant to the purpose of providing you wit
 
 * * *
 
-Famo.us does not solicit our Services to children under the age of 13. We do not knowingly accept or track Users, registrations or any information from children under 13. If at any time, we become aware that a child under 13 has provided us with Personally Identifiable Information without the consent of that child’s parent or guardian we will immediately remove that information completely from the Services. Further if, anyone becomes aware of such a situation, we have set up a separate email Services from our customer service department that receives priority ahead of other requests. That email is contact@famo.us.
+Famo.us does not solicit our Services to children under the age of 13. We do not knowingly accept or track Users, registrations or any information from children under 13. If at any time, we become aware that a child under 13 has provided us with Personally Identifiable Information without the consent of that childâ€™s parent or guardian we will immediately remove that information completely from the Services. Further if, anyone becomes aware of such a situation, we have set up a separate email Services from our customer service department that receives priority ahead of other requests. That email is contact@famo.us.
 
 * * *
 
