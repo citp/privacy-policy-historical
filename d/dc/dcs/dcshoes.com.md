@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dcshoes.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612214039id_/http%3A//www.dcshoes.com/customer-service-safety-security-and-privacy-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dcshoes.com privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008015614id_/http%3A//www.dcshoes.com/customer-service-safety-security-and-privacy-privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - DC Shoes
+# Privacy Policy | DC Shoes
 
 ## Safety, Security & Privacy
 
