@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the osn.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622203105id_/http%3A//www.osn.com/en/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osn.com privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007083708id_/http%3A//www.osn.com/en/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
