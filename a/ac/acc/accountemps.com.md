@@ -1,20 +1,17 @@
-> *The following text is extracted and transformed from the accountemps.com privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409201417id_/http%3A//www.roberthalf.com/accountemps/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accountemps.com privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008010922id_/http%3A//www.roberthalf.com/accountemps/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Accountemps
 
-Privacy Policy  
-  
-Welcome to **www.accountemps.com** (the "Site"). This website privacy policy ("Policy") describes how Robert Half International Inc. and its subsidiaries ("We", "we", or "RHI") may use and disclose personally identifiable information that we may collect about you through the Site ("Personal Information").
+Welcome to **[www.roberthalf.com/accountemps](http://www.roberthalf.com/accountemps)** (the "Site"). This website privacy policy ("Policy") describes how Robert Half International Inc. and its subsidiaries ("We", "we", or "RHI") may use and disclose personally identifiable information that we may collect about you through the Site ("Personal Information").
 
 **Collections and Uses of Personal Information**  
 When you use or register with the Site, we may ask for certain Personal Information. The categories of Personal Information we may request include your name and contact information (email, address and phone number). Depending on the nature of your inquiry or activities on the Site, we may also ask for your job search criteria and preferences, your employment experience, educational history, your skills, references information, background information, and other information contained in your resume, and any login ID and password created by you. For candidates who have previously been registered with or worked for RHI, such persons may enter, at their discretion, their social security number or employee ID to facilitate the registration process. The Site also utilizes cookies to track your online activities, including, but not limited to, registration, submissions, and information requests. After your successful registration with the Site, you will be able to access, review and change your Personal Information provided by you through the Review Profile feature of the Site.
 
 We use Personal Information and other data collected through the Site to register you with the Site, to provide you with information regarding employment opportunities and career-related information, and to otherwise provide you with requested information or services. We may also from time to time use your Personal Information to send you automated email messages or marketing materials regarding our services, including employment information. You may opt out of receiving such marketing email messages by sending a message to the email address below.
 
-**Disclosures of Personal Information**  
+**Disclosures of Personal Information**
 
-
-As described in Section 4 of the Terms of Use, RHI may disclose Personal Information to third parties. The disclosure to third parties would occur in the following circumstances:
+As described in Section 4 of the [Terms of Use](https://web.archive.org/accountemps/TermsofUse), RHI may disclose Personal Information to third parties. The disclosure to third parties would occur in the following circumstances:
 
   * We will disclose information to our clients where necessary and appropriate in connection with the provision of staffing services.
   * We may disclose information to companies and individuals we employ to perform business functions and services on our behalf. Such functions may include, for example, hosting our Web servers, analyzing data, providing legal, accounting and marketing services.
@@ -23,7 +20,7 @@ As described in Section 4 of the Terms of Use, RHI may disclose Personal Informa
 
 
 **Revisions to the Policy**  
-If we change this privacy policy we will post any updates here for your review. If we change material terms in this Policy, we will provide notice of the revised policy for 30 days on the home page at **www.accountemps.com** with a link back to this page.
+If we change this privacy policy we will post any updates here for your review. If we change material terms in this Policy, we will provide notice of the revised policy for 30 days on the home page at **[www.roberthalf.com/accountemps](http://www.roberthalf.com/accountemps)** with a link back to this page.
 
 This Policy is effective as of July 1, 2004. If you have any questions about our website privacy policies, please contact us at:
 
