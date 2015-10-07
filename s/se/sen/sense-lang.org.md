@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sense-lang.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074153id_/http%3A//www.sense-lang.org/teachers/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sense-lang.org privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007140519id_/http%3A//www.sense-lang.org/teachers/Privacy_Policy.html) for the most accurate reproduction.*
 
 # TERMS OF USE
 
@@ -39,6 +39,10 @@ A cookie is a very small text document, which often includes an anonymous unique
 How Do We Use Information We Collect from Cookies?
 
 As you use our Web site, the site uses its cookies to differentiate you from other users. In some cases, we also use cookies to prevent you from seeing unnecessary advertisements or requiring you to log in more than is necessary for security. Cookies, in conjunction with our Web server's log files, allow us to calculate the aggregate number of people visiting our Web site and which parts of the site are most popular. This helps us gather feedback in order to constantly improve our Web site and better serve our customers. Cookies do not allow us to gather any personal information about you and we do not generally store any personal information that you provided to us in your cookies.
+
+Google products and cookies
+
+As you use our Web site, the site uses its cookies to differentiate you from other We are using google products which uses cookies. You can find more information about those cokkies under: <http://www.google.com/intl/iw/policies/privacy/partners/>
 
 Notice of New Services and Changes
 
