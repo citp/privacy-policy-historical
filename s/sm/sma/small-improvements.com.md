@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the small-improvements.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322031322id_/https%3A//www.small-improvements.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the small-improvements.com privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007154952id_/https%3A//www.small-improvements.com/privacy) for the most accurate reproduction.*
 
 # Small Improvements - Privacy Policy
 
