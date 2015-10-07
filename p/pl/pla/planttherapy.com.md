@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planttherapy.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629073129id_/http%3A//www.planttherapy.com/index.php%3Fmain_page%3Dpage%26id%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planttherapy.com privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007062409id_/http%3A//www.planttherapy.com/index.php%3Fmain_page%3Dpage%26id%3D6) for the most accurate reproduction.*
 
 # Privacy Policy : Pure Essential Oils | Aromatherapy Nebulizers | Oil Diffusers
 
