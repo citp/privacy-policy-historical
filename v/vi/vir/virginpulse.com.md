@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the virginpulse.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318025218id_/http%3A//www.virginpulse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginpulse.com privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007025903id_/http%3A//www.virginpulse.com/privacy-policy) for the most accurate reproduction.*
 
-# Virgin Pulse
+# Privacy Policy - Virgin Pulse
 
-Virgin Pulse ("Virgin Pulse") is committed to protecting your privacy. This Privacy Policy explains what we can and cannot do with the information we collect about you and what steps you can take to protect that information.
+Virgin Pulse (“Virgin Pulse”) is committed to protecting your privacy. This Privacy Policy explains what we can and cannot do with the information we collect about you and what steps you can take to protect that information.
 
-To enable us to provide quality service to our members, we need to keep personal information about you, including information about your health, fitness and related activities, your email address, and your credit card number ("Personal Information"). This information will be collected through the Virgin Pulse measurement stations as well as information you provide through our Web site. In addition, we will collect non-personal information related to your use of our Web site through the Internet (e.g., cookies).
+To enable us to provide quality service to our members, we need to keep personal information about you, including information about your health, fitness and related activities, your email address, and your credit card number (“Personal Information”). This information will be collected through the Virgin Pulse measurement stations as well as information you provide through our Web site. In addition, we will collect non-personal information related to your use of our Web site through the Internet (e.g., cookies).
 
 If you are a member, the Personal Information we collect will be used to track your fitness progress, determine your points for the reward program, as well as to provide you with information that you may find helpful. Virgin Pulse staff may also access your Personal Information to contact you regarding your participation in a Virgin Pulse program.
 
 You will have access to some of your Personal Information on the measurement stations and all your Personal Information via our Web site. If any of your Personal Information is inaccurate or outdated, you can correct it at any time on the Web site.
 
-Virgin Pulse will de-identify your information and disclose it in combination with others' information in such a way that no one could trace the information back to you directly (i.e. anonymous, aggregated data). This anonymous, aggregated data may be shared with other organizations for research purposes. You are welcome to request the names of such organizations from us.
+Virgin Pulse will de-identify your information and disclose it in combination with others’ information in such a way that no one could trace the information back to you directly (i.e. anonymous, aggregated data). This anonymous, aggregated data may be shared with other organizations for research purposes. You are welcome to request the names of such organizations from us.
 
-If you became a member of Virgin Pulse through your employer's participation in one of our programs, then we will supply your employer with the same anonymous, aggregated data mentioned above. Your employer will not be able to trace such information directly back to your identity. Your employer may use this information to provide additional benefits, programs and services.
+If you became a member of Virgin Pulse through your employer’s participation in one of our programs, then we will supply your employer with the same anonymous, aggregated data mentioned above. Your employer will not be able to trace such information directly back to your identity. Your employer may use this information to provide additional benefits, programs and services.
 
 Your Personal Information will not be sold, divulged, or made available to any third party without your permission except as set forth in this policy or when Virgin Pulse has a legal duty to make the information available to a legally authorized party. However, we may distribute such information to our partners, affiliates and subsidiaries so that we may better serve your needs. Such information collaboration with third parties includes these limited circumstances:
 
