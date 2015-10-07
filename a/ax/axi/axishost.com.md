@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the axishost.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407181308id_/http%3A//axishost.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axishost.com privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008011620id_/http%3A//axishost.com/privacy.php) for the most accurate reproduction.*
 
 # AxisHost - Fully Managed Shared Hosting
 
