@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the splice.com privacy policy that was archived on 2014-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141003081745id_/http%3A//spliceproduction.s3.amazonaws.com/legal/Splice-BasicPrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splice.com privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007121345id_/http%3A//spliceproduction.s3.amazonaws.com/legal/Splice-BasicPrivacyPolicy.html) for the most accurate reproduction.*
 
 # 
 
 **Privacy Policy**
 
-Effective Date: **October 9, 2013**
+Effective Date: **January 19, 2015**
 
-Last Updated Date: **October 9, 2013**
+Last Updated Date: **January 19, 2015**
 
 This Privacy Policy is incorporated by reference into the Distributed Creation Inc. d/b/a Splice _[Terms of Use](http://spliceproduction.s3.amazonaws.com/legal/Splice-TermsofUse.html) _.  
 
@@ -38,6 +38,8 @@ We collect Personal Information when you: 
 We also collect information, such as anonymous usage statistics, by using cookies, server logs, and other similar technology as you use the Service.
 
 **Personal Information Collection.**   You must register to use the Service.  To register, you may need to provide Personal Information, such as your email address.  You may also create a username and password and provide other optional information, such as a picture and the digital audio platforms you prefer.
+
+**Making Payments.**   When you make payments through the Service, you may need to provide Personal Information to our third-party service providers, such as your credit card number.
 
 **Customer Support.**   We may collect Personal Information through your communications with our customer-support team.  
 
@@ -78,6 +80,8 @@ We may share your information:
 We do not rent, sell, or share Personal Information about you with other people or nonaffiliated companies for their direct marketing purposes, unless we have your permission.
 
 **We Use Vendors and Service Providers.**   We may share any information we receive with vendors and service providers retained in connection with the provision of the Service.
+
+**We Resell Premium Add-Ons from Third Parties.**   We may share information, including Personal Information, with third party developers whose Premium Add-Ons we resell on the Service. We provide this Personal Information so that the developers can register you as a user of such Premium Add-Ons. We may also provide Personal Information to these third parties for other purposes if you opt-in by checking the box presented to you on the Service. Lastly, we may allow third party developers to send you updates to Premium Add-Ons you obtain through the Service automatically.
 
 **Displaying to Other Users.**   The content you post to the Service may be displayed on the Service.  Other users of the Service may be able to see some information about you.  We are not responsible for privacy practices of the other users who will view and use the posted information.
 
