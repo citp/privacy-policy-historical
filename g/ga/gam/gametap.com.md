@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gametap.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607170902id_/http%3A//www.gametap.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gametap.com privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007062242id_/http%3A//www.gametap.com/privacy-policy.html) for the most accurate reproduction.*
 
 # GameTap.com - Play Premium Games Online Now or Download Games to Own - PC Games, Arcade Games and Console Games
 
