@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cylance.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607140443id_/http%3A//www.cylance.com/company/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cylance.com privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007161540id_/http%3A//www.cylance.com/company/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy | Cylance
 
@@ -56,7 +56,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 **Children's Online Privacy Protection Act Compliance**
 
-We are in compliance with the requirements of COPPA (Children's Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our Site, products and Services are all directed to people who are at least 13 years old or older and we do not knowingly collect or solicit information from, market to or accept services from children. If you become aware that your child has provided us with personal information without your consent, please contact us at [privacy@cylance.com](mailto:privacy@cylance.com). If we become aware that a child under 13 has provided us with personal information, we take steps to remove such information and terminate the child’s account.
+We are in compliance with the requirements of COPPA (Children's Online Privacy Protection Act). We do not collect any information from anyone under 13 years of age. Our Site, products and Services are all directed to people who are at least 13 years old or older and we do not knowingly collect or solicit information from, market to or accept services from children. If you become aware that your child has provided us with personal information without your consent, please contact us at [privacy@cylance.com](mailto:privacy@cylance.com). If we become aware that a child under 13 has provided us with personal information, we take steps to remove such information and terminate the child’s account.
 
 **Terms and Conditions For Site Usage**
 
@@ -85,7 +85,6 @@ If you are a California resident, California Civil Code Section 1798.83 permits 
 If there are any questions regarding this Policy you may contact us using the information below:
 
 [www.cylance.com](https://web.archive.org/)  
-46 Discovery, Suite #200  
-Irvine, CA 92618  
-USA  
-[info@cylance.com](mailto:info@cylance.com)
+18201 Von Karman, Suite 700  
+Irvine, CA 92612.   
+USA [info@cylance.com](mailto:info@cylance.com)
