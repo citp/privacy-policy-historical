@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mangalyrics.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629195143id_/http%3A//www.mangalyrics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mangalyrics.com privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007140040id_/http%3A//www.mangalyrics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MangaLyrics
 
