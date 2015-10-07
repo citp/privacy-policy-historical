@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theoutnet.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608121339id_/http%3A//www.theoutnet.com/en-US/Help/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theoutnet.com privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007063233id_/https%3A//www.theoutnet.com/en-US/Help/PrivacyPolicy) for the most accurate reproduction.*
 
-# Help | THE OUTNET
+# Help | US | THE OUTNET
 
 THE OUTNET ("THE OUTNET", "we", "our", "us") is a division of the NET-A-PORTER GROUP LTD and its subsidiary companies (the "NET-A-PORTER GROUP"). We respect the privacy rights of its online visitors ("you", "your", "yours") and recognize the importance of protecting the information collected about them. We provide this statement (the "Privacy Policy") to help you to understand what we may do with any personal information that we obtain from you. This Privacy Policy guides how we collect, store and use the information that you provide us with. As part of our commitment to your privacy rights and security, our website has been certified by Cybertrust.
 
