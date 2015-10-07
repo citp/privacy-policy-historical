@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nordfx.com privacy policy that was archived on 2015-04-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150405012424id_/http%3A//nordfx.com/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nordfx.com privacy policy that was archived on 2015-10-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151007024340id_/http%3A//nordfx.com/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -225,25 +225,17 @@ function fde_hide_l_lists()
 	<a href="http://nordfx.com/affiliate_program.html">Affiliate program</a>
 	
 	<div class="menu_right"></div>
-			
-			
-		<div class="separator"></div>
 
-	<a href="http://nordfx.com/vps.html">VPS</a>
+
+	<div class="separator"></div>
+
+	<a href="http://nordfx.com/edu.html">Education</a>
 	
 	<div class="menu_right"></div>
 
-	
-			
-	<div class="separator"></div>
 
-	<a href="http://nordfx.com/do/monitoring/">Monitoring</a>
-	
-	<div class="menu_right"></div>
-	
-	
-	
-	<div class="separator"></div>
+
+<div class="separator"></div>
 
 	<a href="http://nordfx.com/do/support/">Support</a>
 	
@@ -351,7 +343,7 @@ check_login_values_1();
 
 
 <div class="breadcrumbs">
-		<a href="http://nordfx.com/" target="_top">NordFX</a>&nbsp;»&nbsp;		<a href="http://nordfx.com/privacy_policy.html" target="_top">Privacy policy</a>	</div>
+		<a href="http://nordfx.com/" target="_top">NordFX</a>&nbsp;»&nbsp;		<a href="http://nordfx.com/privacy_policy.html" target="_top">Privacy Policy</a>	</div>
 
 
 
@@ -410,11 +402,11 @@ check_login_values_1();
 				</nobr>
 				<div style="padding-top:3px;">
 						<span>
-		<a href="http://nordfx.com/legal_documentation.html">Client agreement</a> &nbsp; 
+		<a href="http://nordfx.com/legal_documentation.html">Client Agreement</a> &nbsp; 
 		<a href="http://nordfx.com/risks_disclaimer.html">Risks Disclaimer</a> &nbsp; 
 		<a href="http://nordfx.com/legal_disclaimer.html">Legal Disclaimer</a> &nbsp; 
-		<a href="http://nordfx.com/privacy_policy.html" class="footer_selected">Privacy policy</a> &nbsp; 
-		<a href="http://nordfx.com/aml_policy.html">AML policy</a> &nbsp; 
+		<a href="http://nordfx.com/privacy_policy.html" class="footer_selected">Privacy Policy</a> &nbsp; 
+		<a href="http://nordfx.com/aml_policy.html">AML Policy</a> &nbsp; 
 		<a href="http://nordfx.com/do/support/">Complaints</a>
 	</span>
 
@@ -427,6 +419,31 @@ check_login_values_1();
 
 <br>
 <br>
+
+<!-- jarrattpopup -->
+<div class="jarratt_busy_layer" style="z-index: 9999; position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; background-color: rgb(0, 0, 0); opacity: 0.5;"></div>
+<div class="jarrattpopup" style="position: absolute; top: 109px; left: 233px;"><iframe src="/jarratt_promo/index_1.html" width="900" height="550" hspace="0" vspace="0" marginheight="0" marginwidth="0" scrolling="no" frameborder="0" allowtransparency="true"></iframe></div>
+<script>
+jQuery.fn.center = function () {
+    this.css("position","absolute");
+    this.css("top", Math.max(0, (($(window).height() - $(this).outerHeight()) / 2) + 
+                                                $(window).scrollTop()) + "px");
+    this.css("left", Math.max(0, (($(window).width() - $(this).outerWidth()) / 2) + 
+                                                $(window).scrollLeft()) + "px");
+    return this;
+}
+$('.jarrattpopup').center();
+$('.jarrattpopup').fadeIn('slow');
+$('.jarratt_busy_layer').fadeIn('slow');
+function killjarratt()
+{
+	var date = new Date(new Date().getTime() + 60 * 60 * 24 * 90 * 1000);
+	document.cookie = "jarratt_is_killed=1;path=/;domain=.nordfx.com;expires=" + date.toUTCString();
+	$('.jarratt_busy_layer').fadeOut('slow');
+	$('.jarrattpopup').fadeOut('slow');
+}
+</script>
+<!-- /jarrattpopup -->
 
 
 </div></body></html>
