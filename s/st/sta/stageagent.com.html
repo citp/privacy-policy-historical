@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the stageagent.com privacy policy that was archived on 2015-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608223759id_/http%3A//stageagent.com/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stageagent.com privacy policy that was archived on 2015-10-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151007171148id_/http%3A//stageagent.com/pages/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" style=""><!--<![endif]--><head>
     <meta charset="utf-8">
@@ -46,7 +46,7 @@
         <script src="//cdnjs.cloudflare.com/ajax/libs/lodash.js/2.4.1/lodash.compat.min.js"> </script>
 
         <script language="javascript">
-            window.serverSideData = {"siteMeta":{"openGraphTitle":"Privacy Policy"},"hasSiteMeta":true,"isAuthenticated":false,"user":{"hasHeadShot":false,"theaterRoles":[],"isPerformer":false,"isFan":false,"isStaff":false,"fancount":0,"fannedShowsIds":[],"fannedAuthorsIds":[],"fannedOrganizationsIds":[],"totalCollectedPoints":0,"isJustAfan":false,"isJustAStaff":false}};
+            window.serverSideData = {"siteMeta":{"openGraphTitle":"Privacy Policy"},"hasSiteMeta":true,"isAuthenticated":false,"user":{"hasHeadShot":false,"theaterRoles":[],"isPerformer":false,"isFan":false,"isStaff":false,"fancount":0,"fannedShowsIds":[],"fannedAuthorsIds":[],"fannedOrganizationsIds":[],"bookmarkedItemIds":[],"totalCollectedPoints":0,"isJustAfan":false,"isJustAStaff":false},"domain":"http://stageagent.com/"};
             window.userIsAuthenticated = false;
         </script>
 
@@ -90,21 +90,75 @@
         <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
     <![endif]-->
     <header>
+            <div class="join-banner" style=""> <span>Access expert-written guides and theatre resources.</span> <a href="/signup" class="btn btn-sm join-banner-btn" style="">Join Today!</a> <span>It's Free!</span></div>
+
+
         <div class="stageagent-header container no-padding">
-            <div class="col-md-3 no-padding">
+            <div class="col-md-2 no-padding header-logo">
                 <a href="/">
-                    <img src="/public/assets/img/sa-logo-header-lg.png" class="img-responsive">
+                    <img style="padding-top: 0px; margin-top: 0px; margin-bottom: 0px;" class="img-responsive hidden" src="/public/assets/img/sa-logo-header-lg.png">
+                    <img style="" class="img-responsive" src="/public/assets/img/logo.png">
                 </a>
             </div>
-            <div class="col-md-9 text-right">
-                    <h4>
-        <a href="/signin" class="btn pull-right btn-signin">SIGN IN</a>
-        <a href="/signup" class="pull-right btn btn-signup">SIGN UP</a>
-    </h4>
+
+            <div class="col-md-10 no-padding stageagent-header-cont">
+                <div class="col-md-8 col-sm-5 no-padding tagline">
+                <h4 style="">The leading resource for theatre artists</h4></div>
+                <ul class="nav navbar-nav navbar-right" style="padding-top:7px; margin-right: 0px;">
+                    <li class="search-box" ng-controller="HeaderSearchCtrl as vm">
+                        <autocomplete ng-model="vm.searchStr" data="vm.options" on-type="vm.updateOptions" on-select="vm.optionSelected" attr-input-class="form-control" attr-placeholder="Search for..."></autocomplete>
+                    </li>
+                </ul>
+                </div>
+                
 
 
+        </div>
+        <div id="nav" role="navigation" class="navbar navbar-default">
+            <div class="container">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#SA-nav">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a href="/" class="navbar-brand">
+                            <img class="img-responsive" src="/public/assets/img/logo.png">
 
-                <div>
+                    </a>
+                </div>
+
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div id="SA-nav" class="collapse navbar-collapse">
+                    <div style="height: auto;" class="">
+                        <ul class="nav navbar-nav header-nav">
+                        	<li class="scroll-logo"><a style="padding-top: 3px; padding-bottom: 0px; padding-right: 0px;" href="/"><img src="/public/assets/img/favicon.png" style="max-height: 25px"></a></li>
+                            <li id="nav-shows"><a href="/shows">Show Guides</a></li>
+                            <li id="nav-monologues"><a href="/monologues">Monologues</a></li>
+                            <li id="nav-songs"><a href="/audition-songs">Songs</a></li>
+                            <li id="nav-characters"><a href="/characters">PartFinder</a></li>
+                            <li id="nav-talent"><a href="/talent">Talent</a></li>
+                            <li id="nav-companies"><a href="/theatre-companies">Arts Companies</a></li>
+                            <li id="nav-auditions"><a href="/auditions">Auditions</a></li>
+                            <li id="nav-performances"><a href="/performances">Ticket Discounts</a></li>
+                            <li id="nav-blog"><a href="http://blog.stageagent.com">Blog</a></li>
+                        </ul>
+                            <ul class="nav navbar-nav navbar-right" style="">
+        <li><a href="/signin">Login</a></li>
+        <li><a href="/signup" style="background: #35b3d5; text-shadow: 0px 1px 1px black; border-radius: 4px">Sign Up</a></li>
+    </ul>
+
+
+                        
+
+                    </div><!-- /.navbar-collapse -->
+                </div><!-- /.container-fluid -->
+            </div>
+        </div>
+        <div class="header-home-ad row no-margin">
+            <div class="col-md-12">
                 <div class="home-leaderboard">
                     <script type="text/javascript">
     googletag.cmd.push(function () {
@@ -131,47 +185,6 @@
     </script>
 </div>
                 </div>
-                </div>
-            </div>
-
-        </div>
-        <div id="nav" role="navigation" class="navbar navbar-default">
-            <div class="container">
-                <!-- Brand and toggle get grouped for better mobile display -->
-                <div class="navbar-header">
-                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#SA-nav">
-                        <span class="sr-only">Toggle navigation</span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                    <a href="/" class="navbar-brand">
-                            <img class="img-responsive" src="/public/assets/img/logo.png">
-
-                    </a>
-                </div>
-
-                <!-- Collect the nav links, forms, and other content for toggling -->
-                <div id="SA-nav" class="collapse navbar-collapse">
-                    <div style="height: auto;" class="">
-                        <ul class="nav navbar-nav header-nav">
-                            <li id="nav-home"><a href="/" style="font-size: 18px"><i class="fa fa-home"></i></a></li>
-                            <li id="nav-shows"><a href="/shows">Shows</a></li>
-                            <li id="nav-monologues"><a href="/monologues">Monologues</a></li>
-                            <li id="nav-songs"><a href="/audition-songs">Songs</a></li>
-                            <li id="nav-talent"><a href="/talent">Talent</a></li>
-                            <li id="nav-auditions"><a href="/auditions">Auditions</a></li>
-                            <li id="nav-performances"><a href="/performances">Tickets</a></li>
-                            <li id="nav-blog"><a href="http://blog.stageagent.com">Blog</a></li>
-                        </ul>
-                        <ul class="nav navbar-nav navbar-right" style="padding-top:7px">
-                            <li class="search-box" ng-controller="HeaderSearchCtrl as vm">
-                                <autocomplete ng-model="vm.searchStr" data="vm.options" on-type="vm.updateOptions" on-select="vm.optionSelected" attr-input-class="form-control" attr-placeholder="Search for..."></autocomplete>
-                            </li>
-                        </ul>
-
-                    </div><!-- /.navbar-collapse -->
-                </div><!-- /.container-fluid -->
             </div>
         </div>
     </header>
@@ -290,26 +303,21 @@ If you have any questions, concerns or inquiries about our Privacy Policy, or ou
     <!-- /container -->
     <div class="footer">
         <div class="container">
-            <ul class="nav">
-                <li><a href="/theatre-companies">Companies</a></li>
-                <li><a href="/characters">Characters</a></li>
+            <ul class="nav">               
                 <li><a href="/pages/terms">Terms</a></li>
                 <li><a href="/pages/privacy">Privacy</a></li>
                 <li><a href="/pages/contributors">Contributors</a></li>
                 <li><a href="/pages/feeds/">Feeds</a></li>
                 <li><a href="/pages/about">About Us</a></li>
-                <li><a href="/pages/faq">Faq</a></li>
+                <li><a href="/pages/faq">FAQ</a></li>
                 <li><a href="/pages/contact">Contact</a></li>
 
             </ul>
-            <div class="col-xs-12 text-center" style="margin-top: -15px">
-            	<!-- Go to www.addthis.com/dashboard to customize your tools -->
-<div class="addthis_horizontal_follow_toolbox"></div>
-            </div>
-            <ul class="nav hidden" style="padding-bottom: 0px;">
+            <ul class="nav" style="padding-bottom: 0px;">
                 <li style="width:15px; padding: 0 5px 0 0; font-size:16px"><a style="padding-top: 0px; padding-bottom: 0px;" href="http://facebook.com/stageagentcom" target="_blank"><i class="fa fa-facebook"></i></a></li>
                 <li style="width:15px; font-size:16px;padding: 0 5px 0 0;"> <a style="padding-top: 0px; padding-bottom: 0px;" href="http://twitter.com/stageagent" target="_blank"><i class="fa fa-twitter"></i></a></li>
                 <li style="width:15px; font-size:16px;padding: 0 5px 0 0;"> <a style="padding-top: 0px; padding-bottom: 0px;" href="https://plus.google.com/+stageagent" rel="publisher" target="_blank"><i class="fa fa-google-plus"></i></a></li>
+                <li style="width:15px; font-size:16px;padding: 0 5px 0 0;"> <a style="padding-top: 0px; padding-bottom: 0px;" href="https://www.youtube.com/channel/UCu-jyDapQ2KrNWV2ibQjgSQ" rel="publisher" target="_blank"><i class="fa fa-youtube-play"></i></a></li>
                 <li style="width:15px; font-size:16px;padding: 0 5px 0 0;"> <a style="padding-top: 0px; padding-bottom: 0px;" href="/pages/feeds"><i class="fa fa-rss"></i></a></li>
             </ul>
             <div class="text-center col-xs-12 copyright-info"><span class="text-center">© StageAgent.com. All Rights Reserved.</span></div>
@@ -348,6 +356,7 @@ If you have any questions, concerns or inquiries about our Privacy Policy, or ou
     <script src="/public/scripts/app/common/googleplaces/autocomplete.js"></script>
     <script src="/public/scripts/app/common/pagination/dirPagination.js"></script>
     <script src="/public/scripts/app/common/fanning/saFanning.js"></script>
+    <script src="/public/scripts/app/common/bookmarking/saBookmarking.js"></script>
     <script src="/public/scripts/app/common/datipicker/saDateTimePicker.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-moment/0.8.3/angular-moment.min.js"></script>
 
