@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the axa.co.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607015707id_/http%3A//www.axa.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axa.co.uk privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007120012id_/http%3A//www.axa.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AXA UK
 
