@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the skilljar.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607154917id_/http%3A//www.skilljar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skilljar.com privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007213323id_/http%3A//www.skilljar.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Skilljar
 
 ## Privacy Policy
 
-Last Updated: February 23, 2015
+Last Updated: September 8, 2015
 
-Welcome to the website www.skilljar.com (part of the “Site,” as defined in the Membership and Use Agreement) of Everpath Inc. dba Skilljar (“we”, “us” or “our”). This Privacy Policy applies to the Site and Services (as defined in the Membership and Use Agreement) and describes the information that we collect on the Site and how we use it, how we protect it and the choices you can make about your information with respect to users.
+Welcome to the website www.skilljar.com (part of the “Site,” as defined in the Membership and Use Agreement) of Skilljar Inc. (“we”, “us” or “our”). This Privacy Policy applies to the Site and Services (as defined in the Membership and Use Agreement) and describes the information that we collect on the Site and how we use it, how we protect it and the choices you can make about your information with respect to users.
 
 The terms of this Privacy Policy apply to all users of the Site. If you do not agree with the terms of this Privacy Policy or the Terms (as defined in the Membership and Use Agreement), you should immediately stop using or visiting the Site.
 
@@ -113,4 +113,4 @@ Please also feel free to contact us at legal@skilljar.com if you have any questi
 
 ### Your California Privacy Rights
 
-Section 1798.83 of the California Civil Code permits California residents to request from a business, with whom the California resident has an established business relationship, certain information about the types of personal information the business has shared with third parties for those third parties’ direct marketing purposes and the names and addresses of the third parties with whom the business has shared such information during the immediately preceding calendar year. You may make one request each year by emailing us at legal@skilljar.com or writing us at Everpath Inc., 206 1st Ave S. #220, Seattle, WA 98104.
+Section 1798.83 of the California Civil Code permits California residents to request from a business, with whom the California resident has an established business relationship, certain information about the types of personal information the business has shared with third parties for those third parties’ direct marketing purposes and the names and addresses of the third parties with whom the business has shared such information during the immediately preceding calendar year. You may make one request each year by emailing us at legal@skilljar.com or writing us at Skilljar Inc., 206 1st Ave S. #220, Seattle, WA 98104.
