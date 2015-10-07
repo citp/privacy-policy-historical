@@ -1,123 +1,177 @@
-> *The following text is extracted and transformed from the mbs.edu privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410030308id_/http%3A//mbs.edu/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbs.edu privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007232134id_/https%3A//mbs.edu/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy - MBS
 
-​Melbourne Business School ("MBS" or the School") respects the privacy of all individuals, and is bound by ten National Privacy Principles.
+Melbourne Business School Limited (80 007 268 233) ( **MBS** ) acknowledges and respects the privacy of individuals. This Policy explains how we collect, use, disclose, retain and manage your personal and sensitive information ( **Information** ) in the course of our business. MBS is committed to complying with the Privacy Act and the 13 Australian Privacy Principles in the Privacy Act 1988 (Cth) ( **Privacy Act** ) and the Health Records Act and 11 Health Privacy Principles in the Health Records Act 2001 (Vic) ( **Health Records Act** ).
 
-The School collects, receives, maintains and handles information of a personal nature concerning its award course students, non-award short course students, potential students, alumni, donors, faculty and general staff, its trust members, visiting faculty, exchange students, guest speakers, residential guests and its research subjects, in accordance with the requirements of the ten National Privacy Principles in the Commonwealth Privacy Amendment (Private Sector) Act 2000.
+You are not obligated to provide your Information to us, however, if you do not provide us with the Information we require, or where Information provided is inaccurate or irrelevant, we may not be able to engage with you or may be limited in our ability to engage with you and provide you access to our services.
 
- MBS’s obligations to protect the privacy of personal information
+We reserve the right to make changes or updates to this policy from time to time. Should we do so, we will update the policy on our Websites accordingly.  Consequently, please check our websites regularly to stay informed of any updates.Your continued engagement with MBS, including your use of the MBS Websites (e.g. mbs.edu or mteliza.mbs.edu), or the provision of further information to us after this policy has been revised, constitutes your acceptance of the revised policy and you consent to us collecting, holding, using, disclosing and managing your Information in the way described in this Privacy Policy or permitted under the Privacy Act.
 
-These ten principles govern our personal information handling processes and procedures, covering collection, consent arrangements, confidentiality, storage and security, access and alteration, use and disclosure of personal and sensitive information. A summary of our obligations in relation to the personal information which we hold in our collections therefore includes the following:
+If you do not agree with the practices described in this Privacy Policy, please do not provide us with your Information or interact with our Website.
 
-  * we only collect personal information that is necessary for our functions or activities
+## 
 
-  * we collect personal information lawfully and fairly
+Collection of your Information
 
-  * we collect personal information directly from an individual if it is reasonable and practicable to do so
+### Personal Information 
 
-  * we obtain consent to collect sensitive information unless specified exemptions apply. 
+Personal information is information or an opinion about an identified, or reasonably identifiable, individual.
 
+  MBS engages with various individuals, including but not limited to students, potential students, participants, alumni, donors, faculty and general staff, its trust members, visiting faculty, exchange students, guest speakers, residential guests and its research subjects.
 
+During the provision of MBS’ services, the types of information that MBS collect will depend on the service requested by you. We will, in most cases, collect personal information directly from you through written and verbal communication. This includes when you submit job application, admission or other forms, participate in surveys, feedback, interviews and questionnaires, visit our Websites, enter into a competition or promotion or otherwise provide us with personal information in person or via telephone, email, fax, post or other means. Generally, the kinds of personal information MBS collects include: 
 
+  * contact and identification details (e.g. name, addresses, email address and phone number);
+  * gender and date of birth;
+  * banking and payment details (e.g. credit card details, tax file numbers);
+  * information about your academic and educational results, details and history;
+  * information about your employment and vocational details and history (e.g. experiences, qualifications, skills, awards, remuneration, financial information, references, professional associations, career aspirations and employment availability);
+  * any results of relevant tests in which you participate, including but not limited to online testing carried out on MBS’s behalf;
+  * information relevant to any training programs you undertake while participating in MBS programs or courses; or
+  * other information relevant in the circumstances.
 
-At the time we collect personal information or as soon as practicable afterwards, we take reasonable steps to make an individual aware of:
+  
+MBS collects your personal information in various ways, including when you: 
 
-  * the purposes for which the information is collected
+  * visit our Websites (including any application managed by us);
+  * interact with our advertisements;
+  * apply for or participate in an MBS course or program;
+  * apply for or participate in the employment process;
+  * register for alumni services;
+  * interact or follow our social media pages/profiles;
+  * enter into a competition or promotion through any medium;
+  * participate in a survey  or other market research activities; or
+  * request information from us or submit any feedback or query.
 
-  * that s/he can gain access to the information
+  
+There may be other occasions when we collect your personal information from other sources such as education providers, government departments, internet service providers, employers, publicly maintained records, including records publicly available through social media, or other third parties. Generally, we will only collect your personal information from sources other than you if it is unreasonable or impracticable to collect your personal information from you, or if those sources are authorised to do so.
 
-  * the fact that we do not disclose the information to anyone outside the School
+### Sensitive Information
 
-  * the departments within the School which use the information
+Sensitive information is information about your racial or ethnic origin, political opinions, membership of a political association, religious beliefs or affiliations, philosophical beliefs, membership of a professional/trade association or trade union, sexual preferences or practices, criminal record, and health or genetic information. We will not collect sensitive information unless you have consented or the collection is required under law or for the establishment, exercise or defence of a legal or equitable claim.
 
-  * the consequences of not providing the required information.  
+  MBS collects certain health information including details of an individual’s allergies, dietary requirements, medical conditions and medical history in order to ensure the safety and wellbeing of all MBS students and staff. 
 
+### Passive Information
 
+Each time you visit our Websites, our server passively collects certain information using various technologies such as cookies, internet tags, web beacons, and navigational data collection methods (log files, server logs, clickstream).  
+This passive information is collected for statistical and marketing purposes, and to help us improve our services. This information can include the type of browser and system you are using, whether you have interacted with any advertisements or links, the address of our websites you have come from and move to after your visit, the date and time of your visit and your server’s Internet Protocol (IP) address.
 
+You can set your browser to accept or reject all cookies, or to notify you whenever cookies are offered so that you can decide each time whether to accept them.
 
+Should you reject all cookies, your ability to use our Websites may be limited as certain features may not function correctly.
 
-We take reasonable steps to ensure the individual is made aware of the factors noted above even if we have collected their personal information from someone else.
+### Advertising cookies
 
-We only use personal information for the primary purpose of collection, or for specific secondary reasons directly related to the primary reason for collection and within the individual’s reasonable expectations, or when we have consent. We do not disclose either by discussion or record any of our collections of personal information to any other organisation.  
+MBS also uses advertising cookies to collect anonymous data, including visitor demographics and interests, as part of our implementation of the following Google Analytics Advertising Features: Remarketing with Google Analytics, DoubleClick Platform integrations and Google Analytics Demographics and Interest Reporting.
 
+We and our third party vendors, such as Google, use first party cookies (such as the Google Analytics cookie) or other first party identifiers, and third party cookies (such as the DoubleClick cookie) or other third party identifiers together to optimise and serve advertisements to you across the internet on the Google Display Network and to analyse your interaction with advertisements.
 
-We take reasonable steps to ensure the personal information we collect, use or disclose is accurate, complete and up-to-date.  
+Information on how to opt-out of the use of your information by **DoubleClick** can be found at <http://www.google.com/ads/preferences/?hl=en> and how to opt-out of Google Analytics at <https://tools.google.com/dlpage/gaoptout>. 
 
+## 
 
-We take reasonable steps to protect the personal information we hold from misuse and loss and from unauthorised access, modification or disclosure. We take reasonable steps to destroy or permanently de-identify personal information if we no longer need it for any purpose for which we may use or disclose the information.  
- 
+Use and Disclosure of Your Information
 
-We are open about our privacy policies and practices. We therefore have a document that is readily available to anyone who asks for it and which you are currently reading, which sets out our main policies on the way we manage personal information.
+###   
+Use
 
- If an individual asks, we take reasonable steps to let them know, generally, what sort of personal information we hold, what purposes we hold it for and how we collect, use and disclose that information.
+We use your Information for the purposes for which it was provided to us, other related purposes and as permitted or required by law.  Our primary purposes for collecting, holding, and using your personal information are for research, administration and education, and for other purposes for which you have specifically provided consent. Such purposes include, but are not limited to, the following: 
 
-If an individual asks, we give access to the personal information we hold about them unless particular circumstances apply that limit the extent to which we can give access.  
- 
+  * assessing your application (i.e. for admission or employment etc.);
+  * confirming your identity and establish next of kin (for emergencies);
+  * communicating with you;
+  * administering and facilitating the progression of an MBS course, from enquiry, application, registration, selection and admission through to completion, career/educational progression and alumni status;
+  * charging course (and other) fees, offer financial support (grants, scholarships etc.) and pay wages;
+  * managing the recruitment and ongoing management of executive education associates and programs;
+  * creating and inform you of alumni events;
+  * providing career support services;
+  * conducting research investigations;
+  * collecting information relating to quality and compliance issues;
+  * satisfying any statutory legal obligations;
+  * informing you of future activities or events and to facilitate improvements to the services provided to you; and
+  * any other purposes where consent has been provided. 
 
-We only adopt, use or disclose a Commonwealth Government identifier if particular circumstances apply that allow us to do so.
+For any of the above purposes we may contact you by electronic or other means.
 
- With some exceptions, we only transfer personal information overseas if the country has privacy laws similar to the National Privacy Principles.
+Personal information you provide is considered a company asset and may be included among transferred assets if we merge, combine or divest part of our business unless prohibited from doing so by law.
 
- 
+Our primary purpose for collecting, holding and using your health information is to ensure your health and safety during your employment at MBS, participation in an MBS course or other program, or use of MBS’ facilities.
 
-Purposes for which MBS collects personal information​ 
+### Disclosure
 
-The School’s primary purpose for collecting personal information is to administer and facilitate the progress of an award and non-award course student from enquiry, to application, selection and admission through to completion, graduation, career progression and alumni status; and to conduct research investigations.
+We disclose your Information for the same purposes for which we collect it. That is, generally, we will only disclose your personal information for a purpose related to research, education and administration, if we have obtained your consent, or otherwise as set out in this Policy. This may include disclosing your personal information to: 
 
-We collect and store information so that we can process enrolments or enquiries, inform you of future activities or events and improve the service we provide to you. The only organisations that may use this information are Melbourne Business School and the data service providers we engage from time to time. You may choose not to provide certain details, as is your right, but as a result we may not be able to process your enrolment or enquiry, or complete the process for which we were collecting the information.
+  * MBS’s insurers and professional advisors;
+  * MBS’s contractors and suppliers, including IT contractors and database designers;
+  * any other third parties engaged to perform functions or activities on our behalf, including direct marketing;
+  * any other entity, with your consent, or to whom disclosure is required or authorised by law;
+  * any other third parties engaged to perform administrative or other services.
 
-Within this broad organisational purpose, each department and research centre has its own specific, related purpose for collecting the personal information that is necessary for it to carry out its functions and activities.  
-For example, MBS's Career Centre division collects personal information, such as name, gender, date of birth, electronic, postal and telephone contact details, education, work experience, career aspirations, general interests and availability for employment, about students who are nearing completion of their degree and have requested that their resumes be placed online for job search purposes as participants in the School's online job posting system.
+We may also disclosure your health information to third parties including health service providers to ensure your health and safety during your employment at MBS, participation in an MBS Course or use of MBS’ facilities.
 
-   
-What information MBS collects and how
+This disclosure is done on a confidential basis or otherwise in accordance with law. You should note that third parties may collect, hold, use and disclose your Information in accordance with their own privacy policies and procedures and these may be different from our own.
 
- The School typically collects all personal information directly from the individuals with whom it interacts, via hard copy documents such as application forms, and various electronic forms.The kind of personal information collected varies according to the functions and activities of the department and the academic discipline of the research centre collecting and using the information. This could include one or more of the following: name, postal address, email address, telephone number, date-of-birth, credit card number for payment of services, vocational and employment details and history, and academic or educational history. Additionally, it could include sensitive information such as membership of professional bodies, academic results, Graduate Management Admissions Test results, remuneration, thesis examiner reports, personal references, extra curricular activities, nationality, country of birth, country of permanent residence/citizenship, and languages spoken; or, research specific sensitive and non sensitive personal information from or about human subjects, obtained via interviews, surveys, observations of behaviour, questionnaires, audio/video taping, administering tests or by using archival data in which individuals are identifiable.
+### Overseas Disclosure
 
-This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see Privacy Policy for Information Collected by the ClickTale Web Analytics Service. We are using the information collected by ClickTale service to better understand people's usage of our site and to continually improve their experience of our websites. You can choose to disable the Service at <http://www.clicktale.net/disable.html>.
+We may disclose Information to overseas recipients for the same purposes for which we collect it. That is, for the purposes of research, administration, health and safety and education. Such disclosures are generally made to other universities or educational organisations around the world for the purpose of hosting our students as part of a student exchange or study abroad program. These recipients are located in People's Republic of China, United States of America, New Zealand & Canada but may also be located in other countries. Our contracts with these parties generally include an obligation for them to comply with an applicable law or binding scheme which effectively upholds principles for fair handling of the information that are suitably similar to the Australian Privacy Principles and the Health Privacy Principles.
 
-Personal information is stored securely 
+We will take all reasonable steps necessary to ensure transferred Information is kept secure as required by applicable data privacy laws. However, you acknowledge that, by agreeing to the disclosure of your Information to these entities outside of Australia, we will no longer be required to take reasonable steps to ensure the overseas recipient's compliance with the Australian privacy law in relation to your Information and we will not be liable to you for any breach of the Australian privacy law by these overseas recipients and, on this basis, you consent to such transfer, processing, storage and/or disclosure.
 
-Within the School, the greatest quantity of personal information is typically held in electronic data bases or hard copy document form, but information may also sometimes be contained in other record formats such as photographs or videotapes.
+In circumstances where the provision of your Information to an overseas recipient may be deemed use rather than disclosure, we will instead comply with our use policy as outlined above. 
 
-As a general rule, we treat personal information as confidential and sensitive personal information as highly confidential. The security measures which MBS has in place to protect the personal information it holds from misuse and loss, or unauthorised access, modification and disclosure, and its procedures for the disposal and retention of personal information are in accordance with this security classification system.
+### Direct Marketing
 
-Only authorised users can access the School’s personal information collections and access is only for approved purposes. The School also utilises physical security measures for hard copy paper and electronic holdings of information, and maintains computer and network security devices and systems.​
+We may collect, hold, use and disclose your personal information in order to inform you of products and services that may be of interest to you. In the event you do not wish to receive such communications, you can opt-out by contacting us via the contact details set out below or through any opt-out mechanism contained in a marketing communication to you.
 
- Access to personal information
+### Security
 
-The Dean and Director on + 61 3 9349 8125 or the appropriate Department Head within the School, by telephoning reception on + 61 3 9349 8100. All calls will be directed to the relevant office.
+MBS stores and holds Information electronically and/or in hard copy. We will take reasonable steps to store and hold Information in a secure and restricted manner and to protect Information from misuse, loss and unauthorised access, modification or disclosure. Access to your Information is limited to those individuals who require such access in order to perform their duties and responsibilities.  Any Information held by a third party storage provider is done so under a contractual obligation of confidentiality and non-disclosure.
 
-MBS provides the individual with access to the personal information it holds about that individual, upon request. Requests for access to personal information should be directed to:
+While the Websites have secure password protections in place, you should be vigilant and note that there are inherent risks associated with transmitting Information via the internet. This means we cannot guarantee that data transmission will be 100% secure or safe from attack from unauthorised intruders and no data protection or security measure is completely secure, particularly in relation to online transmissions.  You must take care to ensure you protect your Information (for example, by protecting your usernames and passwords) and you must notify us as soon as possible after you become aware of any security breaches.
 
-Alternatively, access can be arranged by completing the relevant electronic form “Request For Access to Personal Information”.
+Your Information, where not stored electronically, is stored in our secure office premises with restricted access or with an offsite secure storage facility. If we no longer require the use of your Information, we will take reasonable steps to destroy or permanently de-identify it.
 
-The School will respond to a request for access as soon as practicable, and, in any case, all requests will be dealt with within a maximum of 14 days, provided that granting access is straightforward. If granting access is complicated, the time taken to respond to a request may take up to 30 days.
+### Access and Accuracy of Your Information
 
-Trans border data flows
+We will take reasonable steps to ensure that the Information we collect is accurate, up to date and complete.
 
- The School transfers personal information about students to equivalent institutions in foreign countries, with the express consent of the individual. For example, for students who come from an equivalent institution in a foreign country to attend an exchange program at MBS, transcripts of the students academic results while studying at MBS, including their name and contact details, are sent to the students “home” institution. Similarly, for MBS students going on an exchange program to an equivalent institution in a foreign country, MBS transfers transcripts of the student’s academic results, their name and contact details, and resumes if requested by the student, to the institution at which they will be an exchange student.
+You have a right to access, and request the correction of, any of your Information at any time. You may also request that we delete your Information at any time. Any such requests should be made directly by contacting us at the details set out below. MBS will grant access to the extent required or authorised by the Privacy Act or other law and take steps reasonable in the circumstances to correct Information where necessary and appropriate. There may be circumstances in which we cannot provide you with access. We will advise you of the reasons if we deny you access.
 
- MBS also transfers personal information to individuals in a foreign country when international students, who have applied to study at MBS and have been accepted, are sent confirmation of enrolment documents, which form an important component of the students visa arrangements.
+### Third Party Links
 
-Privacy complaints
+The Websites may contain links to other websites of third parties. A link to a third party website is not an endorsement of the accuracy or trustworthiness of that website or its content and any information collected by such websites will be subject to that website's privacy policy. We cannot and do not assume any responsibility for the privacy or security practices of any other websites that you may be able to access through our Websites.  
 
-MBS has implemented a complaints handling process so that anyone who has a complaint about a possible breach of privacy in the way their personal information has been handled during its collection, use, storage or disposal, can have that complaint dealt with. Anyone with a complaint should contact the person or department at MBS that they have been dealing with, or the Directors Office, in order to make arrangements for lodging their complaint. A complaint must be made in writing, preferably by using the School’s Form for “Lodging a Complaint About the Handling of Personal Information”.
+Our Websites and/or any electronic methods of communication, including without limitation social media, may be accessible through or contain connections to areas where you may be able to publicly post information, communicate with others, review products and submit media content.  Prior to posting in these areas please read our Terms and Conditions and this Privacy Policy set out on our Websites carefully.  All the information you post may be accessible to anyone with Internet access and any Information you include in your posting may be read, collected and used by others. 
 
-The School can be contacted in the following ways
+### 
 
- Melbourne Business School    
-200 Leicester Street, Carlton   
-Victoria, 3053  
-Tel: +61 3 9349 8100 (for direction to the relevant staff person or department)
+Consent
 
-We acknowledge receipt of complaints within 48 hours providing we have current and relevant contact details, and we try to resolve every complaint as soon as practicable but within 14 days, providing the complaint and its resolution is relatively straightforward. If the complaint and its resolution are not straightforward we contact the person lodging the complaint and provide them with an estimate of how long we will need to resolve the complaint, which can be from 30 days up to a maximum of 60 days. If anyone is not satisfied with the response they receive from our internal complaints process or we cannot resolve the complaint, or, where a reasonable time (usually 60 days) for a reply from us has passed, the individual has the option of taking his or her complaint to the Office of the Federal Privacy Commissioner which will conciliate the complaint. (Privacy Hotline 1300 363 992; [www.privacy.gov.au](http://www.privacy.gov.au/) )
+You consent to us, our agents, contractors, authorised employees and any related party collecting, holding, using, disclosing and managing your Information in accordance with this Privacy Policy for the purposes contemplated herein.
 
-For further information on MBS’s privacy policies and procedures
+### How to stop receiving communication from us
 
-In addition to the document you are currently reading, Melbourne Business School has developed and documented a manual of its Privacy Policies and Procedures for the management and handling of personal information, based on the ten national Privacy Principles enacted in the Commonwealth privacy legislation that applies to private sector organizations throughout Australia.
+To stop receiving email correspondence from us, simply click on the link to unsubscribe.
 
-You may view our detailed Privacy Policies and Procedures document at our offices at 200 Leicester, Carlton, Victoria, or telephone + 61 3 9349 8100.
+To stop receiving the SMS service reply to any SMS with the word "STOP".
 
-MBS has also prepared a Website Privacy Policy Statement dealing with privacy issues and the application of the ten National Privacy Principles to our website, information technology and the internet. You may view our Website Privacy Policy.
+To remove your details from any of our marketing and communication databases simply email the **Privacy Officer** at [privacy@mbs.edu](mailto:privacy@mbs.edu)
+
+### 
+
+How to contact us
+
+MBS has appointed a Privacy Officer to be the first point of contact for all privacy related matters and to assist in ensuring our compliance with our privacy obligations.
+
+If you have any queries or wish to make a complaint about a breach of this policy, the Privacy Act or Health Records Act, you can contact or lodge a complaint to The Privacy Officer using the contact details below.  You will need to provide sufficient details regarding your complaint as well as any supporting evidence and/or information. 
+
+The Privacy Offer will respond to your query or if a complaint has been made investigate your complaint and determine the steps that we will undertake to resolve your complaint.  We will contact you if we require any additional information from you and will notify you in writing (which includes electronic communication via email or fax) of the relevant determination.  If you are not satisfied with the determination, you can contact us to discuss your concerns or complain to the **Australian Privacy Commissioner** via [www.oaic.gov.au](http://www.oaic.gov.au/). 
+
+### Privacy Officer
+
+Privacy Officer [privacy@mbs.edu](mailto:privacy@mbs.edu)  
+200 Leicester Street  
+Carlton VIC 3053  
+ABN: 80 007 268 233
