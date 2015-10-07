@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livelinkcafe.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608095059id_/http%3A//livelinkcafe.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livelinkcafe.com privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007173507id_/http%3A//livelinkcafe.com/privacy.php) for the most accurate reproduction.*
 
 # LiveLinkCafe.com - NO Email Safelist Advertising | Unique Link Surfing Safelist
 
@@ -12,7 +12,7 @@
   
 ---|---  
   
-Members: [ **6682** ]  
+Members: [ **7029** ]  
   
 * * *  
   
