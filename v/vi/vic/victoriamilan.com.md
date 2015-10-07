@@ -1,6 +1,40 @@
-> *The following text is extracted and transformed from the victoriamilan.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407120915id_/http%3A//www.victoriamilan.com/info_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the victoriamilan.com privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007074345id_/http%3A//www.victoriamilan.com/info_privacy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+Here is why you are safe with us
+
+  * We are SSL enabled and sensitive data is always encrypted on Victoria Milan
+  * Our off-site servers are Monitored 24/7
+  * We never store any credit card information
+  * We never store your real name or address
+  * Unique safety features
+
+
+
+Unique safety features
+
+  * Panic Button
+  * Anonymous image blur
+  * Auto-Logout
+  * Complete Anonymity
+  * [Read more](http://www.victoriamilan.com/how_it_works) on privacy features
+
+
+
+The Department of Defense (DoD) Cloud Security Model (CSM) provides a formalized assessment and authorization process for cloud service providers (CSPs) to gain a DoD Provisional Authorization, which can subsequently be leveraged by DoD customers.
+
+<https://aws.amazon.com/federal/>
+
+In order to provide end-to-end security and end-to-end privacy, AWS builds services in accordance with customer mandates, security best practices, provides appropriate security features in those services, and documents how to use those features. The AWS cloud infrastructure has been designed and managed in alignment with regulations, standards, and best-practices.
+
+<https://aws.amazon.com/security/>
+
+* * *
+
+Should you have any concerns do not hesitate to contact our expert [support team](http://www.victoriamilan.com/form_contact?rv=2). 
+
+* * *
 
 ## Management of users' personal information
 
