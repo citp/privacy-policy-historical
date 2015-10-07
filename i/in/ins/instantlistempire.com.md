@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the instantlistempire.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608024922id_/http%3A//instantlistempire.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantlistempire.com privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007064439id_/http%3A//www.instantlistempire.com/privacy.php) for the most accurate reproduction.*
 
 # Free Online Advertising and List Building
 
-[](http://www.instantlistempire.com/bannerclick.php?id=827)  
+[](http://www.instantlistempire.com/bannerclick2.php?id=20)  
 
 
 Instant List Empire Privacy Policy
