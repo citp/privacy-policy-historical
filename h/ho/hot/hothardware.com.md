@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hothardware.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627204749id_/http%3A//hothardware.com/pages/privacyterms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hothardware.com privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007083518id_/http%3A//hothardware.com/pages/privacyterms) for the most accurate reproduction.*
 
-# Privacy, Terms, Conditions and Copyright
+# Privacy, Terms, Conditions and Copyright | HotHardware
 
 **Privacy, Terms, Conditions and Copyright Policy of HotHardware.com, LLC.  
 **   
