@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the verychic.com privacy policy that was archived on 2015-05-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150505151543id_/http%3A//www.verychic.com/en/confidentiality.cms) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the verychic.com privacy policy that was archived on 2015-10-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151007033530id_/http%3A//www.verychic.com/en/confidentiality.cms) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="jsEnable"><head>
     <title>VeryChic - Exceptional hotels. Exclusive offers - Privacy Policy</title>
@@ -28,6 +28,7 @@
   <link href="/shared-cs/verychic-catalog2/css/ui-lightness/jquery-ui-1.10.4.custom.css" rel="stylesheet" type="text/css">
   <link href="/shared-cs/verychic-catalog2/css/normalize.css" rel="stylesheet" type="text/css">
   <link href="/shared-cs/verychic-catalog2/css/common.css" rel="stylesheet" type="text/css">
+  <link href="/shared-cs/verychic-catalog2/css/checkbox-custom.css" rel="stylesheet" type="text/css">
     <link href="/shared-cs/verychic-catalog2/css/en/common.css" rel="stylesheet" type="text/css">
   <!--[if lte IE 8]>
     <link href="/shared-cs/verychic-catalog2/css/ie8.css" rel="stylesheet" type="text/css" />
@@ -92,17 +93,17 @@
                 <a href="mailto:contact@verychic.com">contact@verychic.com</a>
             </div>
             <p>or by calling our Customer Services :</p>
-            <div class="tel-infos france">From France : <strong>+442033265476</strong><span class="tel-price">(0,15€/min)</span></div>
+            <div class="tel-infos france">From France : <strong>+442033265476</strong><span class="tel-price">(Local call charges may apply)</span></div>
             <div class="tel-infos foreign"><span class="countryLabel">Internationaly on</span> : <strong>+442033265476</strong><span class="tel-price"></span></div>
             <p>Follow us on our social networks :</p>
             <ul>
-                <li><a href="http://twitter.com/VeryChichotels" class="twitter" target="_blank">Twitter</a></li>
-                <li><a href="http://www.facebook.com/VeryChichotels" class="facebook" target="_blank">Facebook</a></li>
-                <li><a href="http://pinterest.com/VeryChic/" class="pinterest" target="_blank">Pinterest</a></li>
+                <li><a href="https://twitter.com/VeryChichotels" class="twitter" target="_blank">Twitter</a></li>
+                <li><a href="https://www.facebook.com/VeryChichotels" class="facebook" target="_blank">Facebook</a></li>
+                <li><a href="https://pinterest.com/VeryChic/" class="pinterest" target="_blank">Pinterest</a></li>
             </ul>
             <div class="clearBlocks"><!-- don't remove --></div>
             <p>Download our free app :</p>
-            <a href="http://cloud.tracknrank.com/link/CYXoUDm" target="_blank" class="app-store">Available on the App Store</a>
+            <a href="https://cloud.tracknrank.com/link/CYXoUDm" target="_blank" class="app-store">Available on the App Store</a>
         </div>
             <div class="language-block hidden">
                 <span class="arrow-top"> </span>
@@ -118,11 +119,14 @@
             </div>
         <a href="home.cms" class="content-logo"><div class="logo">VERYCHIC - Exclusive Offers in Outstanding Hotels</div></a>
         <div class="sponsorship">
-            <label for="">Invite your friends</label>
-            <input id="sponsorship-inp" autocorrect="off" type="text" name="" alt="" class="" value="Email address">
-            <div class="content-icon">
-                <span class="icon--send"> </span>
-            </div>
+            <label>
+              <a class="img-menu" href="https://alerts.verychic.com/">
+Manage my alerts              </a>
+            </label>
+          <input id="sponsorship-inp" autocorrect="off" type="text" name="" alt="" class="" value="Invite your friends">
+          <div class="content-icon">
+              <span class="icon--send"> </span>
+          </div>
         </div>
         <div id="box_friendMail_content" class="sponsorship-block hidden" data-label="Email address">
             <form id="friendMailHeader" class="friend-mail-form validate" data-error-msg="This email address is invalid" action="#" method="post">
@@ -153,7 +157,7 @@
             <span class="arrow-top"> </span>
             <h3>My account</h3>
             <a href="account.cms">My details</a>
-            <a href="bookings.cms">My bookings</a>
+            <a href="boBookings.cms">My bookings</a>
             <a href="disconnect.cms">Log out</a>
         </div>
         <div class="clearBlocks"><!-- don't remove --></div>
@@ -162,12 +166,19 @@
     <div class="menu-block">
         <div id="headerTabs" class="wrap-1">
             <ul class="clearfix">
-                <li><a href="#" data-url="home.cms">All offers</a></li>
-                <li><a href="#" data-url="serp.cms?type=HOTEL">Hotels</a></li>
-                <li><a href="#" data-url="serp.cms?type=APPT">Apartments</a></li>
-                <li><a href="#" data-url="serp.cms?type=EXTREM">Can't wait?</a></li>
-                <li class="menu-map"><a href="#" data-url="map.cms" class="map">View map</a></li>
-                <li class="menu-event"><a class="img-menu" href="http://alerts.verychic.com/"><img src="http://static-verychic-ng.orchestra-platform.com/Image/header/217x70xheader_alerts.png.pagespeed.ic.e053a1342baa83fc8302c520168ebfb3.png" alt=""></a></li>
+                <li class="orx menu-pop">
+                  <div data-url="home.cms" class="menu-link ">
+All offers                    <span class="arrow-orx"></span></div>
+                    <div class="submenu-orx hidden">
+                    
+                    <a href="#" data-url="serp.cms?type=HOTEL">Hotels</a>
+                    <a href="#" data-url="serp.cms?type=APPT">Apartments</a>
+                    <a href="#" data-url="serp.cms?type=EXTREM">Can't wait?</a>
+                  </div>
+                </li>
+                <li class="orx search"><input id="searchEngine" class="typeahead lastChild" type="text" placeholder=" " data-currency="" data-hashtag="" data-lang="" data-email=""></li>
+                <li class="orx menu-map"><a href="#" data-url="map.cms" class="map">View map</a></li>
+                <li class="orx menu-event"><a class="img-menu" href="http://alerts.verychic.com/"><img src="https://static-verychic-ng.orchestra-platform.com/Image/header/217x70xheader_alerts.png.pagespeed.ic.e053a1342baa83fc8302c520168ebfb3.png" alt=""></a></li>
             </ul>
         </div>
         <div class="clearBlocks"><!-- don't remove --></div>
@@ -252,8 +263,6 @@
         </div>
       </div>
       <div class="clearBlocks"><!-- don't remove --></div>
-
-      <div class="clearBlocks"></div>
     <!-- LOGIN BLOCK -->
     <!-- END LOGIN BLOCK -->
 
@@ -264,17 +273,24 @@
                 <ul class="">
                     <li><a href="home.cms">Home</a></li>
                     <li><a href="information.cms">About us</a></li>
-                    <li><a href="javascript:void(0)" onclick="javascript:window.open('http://www.facebook.com/VeryChic?sk=app_223288297702859', 'Carrières')">Careers</a></li>
                 </ul>
             </div>
             <div class="column contact">
                 <ul>
                     <li class="title"><div class="inner-list">Contact us</div></li>
-                    <li class="tel"><div class="inner-list"><span>Call us on</span> <strong>+442033265476</strong><br><span class="msg">(Monday to Friday from 9am to 8pm and on Saturday from 10am to 6pm. Calls cost: 0,15€/min)</span></div></li>
+                    <li class="tel">
+                      <div class="inner-list">
+                        <span>Call us on</span>
+                        <strong>+442033265476</strong>
+                        <br>
+                              <span class="msg-eur">(Monday to Friday from 9am to 8pm and on Saturday from 10am to 6pm. Local call charges may apply)</span>
+                              <span class="msg">(Monday to Friday from 9am to 8pm and on Saturday from 10am to 6pm)</span>
+                      </div>
+                    </li>
                     <li class="send"><div class="inner-list"><a href="mailto:contact@verychic.com">contact@verychic.com</a></div></li>
-                    <li class="pinterest"><div class="inner-list"><a href="http://pinterest.com/VeryChic/" target="_blank">www.pinterest.com/VeryChic</a></div></li>
-                    <li class="facebook"><div class="inner-list"><a href="http://www.facebook.com/VeryChichotels" target="_blank">www.facebook.com/VeryChichotels</a></div></li>
-                    <li class="twitter"><div class="inner-list"><a href="http://twitter.com/VeryChichotels" target="_blank">www.twitter.com/VeryChichotels</a></div></li>
+                    <li class="pinterest"><div class="inner-list"><a href="https://pinterest.com/VeryChic/" target="_blank">www.pinterest.com/VeryChic</a></div></li>
+                    <li class="facebook"><div class="inner-list"><a href="https://www.facebook.com/VeryChichotels" target="_blank">www.facebook.com/VeryChichotels</a></div></li>
+                    <li class="twitter"><div class="inner-list"><a href="https://twitter.com/VeryChichotels" target="_blank">www.twitter.com/VeryChichotels</a></div></li>
                 </ul>
             </div>
             <div class="column">
@@ -300,6 +316,12 @@
     <div class="overlay-full hidden"> </div>
     <div class="overlay-black hidden"> </div>
     <div class="overlay-login hidden"> </div>
+    <div class="overlay-popin hidden"> </div>
+    <div class="popin-soon-inscription hidden">
+      <div class="close"></div>
+      <strong>Your subscription to this offer has been registered</strong>
+      <p>You will be notified by email when this offer begins</p>
+    </div>
 <div class="language-popin popin hidden">
   <p>Dans quelle langue souhaitez-vous naviguer sur VeryChic ?</p><p>
   </p><p>In which language would you like to view VeryChic?</p>
@@ -309,13 +331,32 @@
   </ul>
 </div>
   </div>
+
 <script type="text/javascript" src="/shared-ts/verychic-catalog2/js/concatBasic.min.js"></script>
     <script type="text/javascript" src="/shared-ts/verychic-catalog2/js/concatOther.min.js"></script>
 
 
+<script type="text/javascript">
+function getCountdownFormat(countData, saleType) {
+  var untilType = new Date(countData);
+  var time = untilType.getTime() - (new Date).getTime();
+  var hours = time / 3600000;
+  var dateFormat = "dhms";
+  if (saleType == "upcoming" || saleType == "upcomingMap") {
+    dateFormat = "ds";
+    if (hours < 24) {
+      dateFormat = "h";
+    }
+  } else if (hours < 48) {
+    dateFormat = "hms";
+  }
+  return dateFormat;
+}
+</script>
 
 
-  <script type="text/javascript" src="/shared-ts/verychic-catalog2/js/uglifyLoginAndFBConnect.min.js"></script>
+
+  <script type="text/javascript" src="/shared-ts/verychic-catalog2/js/uglifyLogin.min.js"></script>
 
 
 
@@ -363,12 +404,14 @@
 
 <script type="text/javascript">
     var currencyList = ["eur","gbp"];
-    var euroRate = JSON.parse('{"eur" : "1", "gbp" : "0,73824"}');
+    var euroRate = JSON.parse('{"eur" : "1", "gbp" : "0,73736"}');
 
     var currencySymbol = JSON.parse('{"eur" : "€","gbp" : "£"}');
 </script>
 
 <script type="text/javascript" id="cookiebanner" src="//verychic.me/static/js/cookiebanner.js" data-lang="en"></script>
+
+
 <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-24965972-1']);
@@ -388,39 +431,40 @@
 <!-- TRACKING TV -->
 
 
-  <!-- Google Code for Inscrits non acheteurs Remarketing List -->
-  <script type="text/javascript">
-    /* <![CDATA[ */
-    var google_conversion_id = 1020466432;
-    var google_conversion_language = "en";
-    var google_conversion_format = "3";
-    var google_conversion_color = "ffffff";
-    var google_conversion_label = "7cNaCOD01QIQgKrM5gM";
-    var google_conversion_value = 0;
-    /* ]]> */
-  </script>
-  <script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js">
-  </script>
-  <noscript>
-    <div style="display:inline;">
+<!-- Google Code for Inscrits non acheteurs Remarketing List -->
+<script type="text/javascript">
+  /* <![CDATA[ */
+  var google_conversion_id = 1020466432;
+  var google_conversion_language = "en";
+  var google_conversion_format = "3";
+  var google_conversion_color = "ffffff";
+  var google_conversion_label = "7cNaCOD01QIQgKrM5gM";
+  var google_conversion_value = 0;
+  /* ]]> */
+</script>
+<script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+  <div style="display:inline;">
     <img id="googleTrack" height="1" width="1" style="border-style:none;" alt="" src=""/>
-    </div>
-  </noscript>
+  </div>
+</noscript>
 
-  <!-- Google Tag Manager -->
+<!-- Google Tag Manager -->
+
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NZRRGD"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-NZRRGD');</script>
 <!-- End Google Tag Manager -->
 <script type="text/javascript">
-    var contactNumbers = {"countryContacts":{"AT":{"productNumber":"+4312675948","productNumberPrice":"On request, call +4312675948","countryLabel":"From Austria","errorPrice":"","errorSchedule":"Monday to Friday from 9am to 8pm and on Saturday from 10am to 6pm","errorNumber":"+4312675948","footerSchedule":"(Monday to Friday from 9am to 8pm and on Saturday from 10am to 6pm)","productPrice":"","header":"+4312675948"},"SE":{"productNumber":"+46840308780","productNumberPrice":"On request, call +46840308780","countryLabel":"From Sweden","errorPrice":"","errorSchedule":"Monday to Friday from 9am to 8pm and on Saturday from 10am to 6pm","errorNumber":"+46840308780","footerSchedule":"(Monday to Friday from 9am to 8pm and on Saturday from 10am to 6pm)","productPrice":"","header":"+46840308780"},"XX":{"footerSchedule":"(Monday to Friday from 9am to 8pm and on Saturday from 10am to 6pm)","header":"+442033265476"},"GB":{"productNumber":"+442033265476","productNumberPrice":"On request, call +442033265476","countryLabel":"From United Kingdom","errorPrice":"","errorSchedule":"Monday to Friday from 8am to 7pm and on Saturday from 9am to 5pm","errorNumber":"+442033265476","footerSchedule":"(Monday to Friday from 8am to 7pm and on Saturday from 9am to 5pm)","productPrice":"","header":"+442033265476"},"UK":{"productNumber":"+442033265476","productNumberPrice":"On request, call +442033265476","countryLabel":"From United Kingdom","errorPrice":"","errorSchedule":"Monday to Friday from 8am to 7pm and on Saturday from 9am to 5pm","errorNumber":"+442033265476","footerSchedule":"(Monday to Friday from 8am to 7pm and on Saturday from 9am to 5pm)","productPrice":"","header":"+442033265476"},"IT":{"productNumber":"+390689970066","productNumberPrice":"On request, call +390689970066","countryLabel":"From Italie","errorPrice":"","errorSchedule":"Monday to Friday from 9am to 8pm and on Saturday from 10am to 6pm","errorNumber":"+390689970066","footerSchedule":"(Monday to Friday from 9am to 8pm and on Saturday from 10am to 6pm)","productPrice":"","header":"+390689970066"},"NO":{"productNumber":"+4721999772","productNumberPrice":"On request, call +4721999772","countryLabel":"From Norway","errorPrice":"","errorSchedule":"Monday to Friday from 9am to 8pm and on Saturday from 10am to 6pm","errorNumber":"+4721999772","footerSchedule":"(Monday to Friday from 9am to 8pm and on Saturday from 10am to 6pm)","productPrice":"","header":"+4721999772"},"size":14,"FR":{"productNumber":"+ 33 1 70 95 85 85","productNumberPrice":"On request, call + 33 1 70 95 85 85","countryLabel":"From France","errorPrice":"0,15\u20ac/min","errorSchedule":"Monday to Friday from 9am to 8pm and on Saturday from 10am to 6pm","errorNumber":"+ 33 1 70 95 85 85","footerSchedule":"(Monday to Friday from 9am to 8pm and on Saturday from 10am to 6pm. Calls cost: 0,15\u20ac/min)","productPrice":"(0,15\u20ac/mn)","header":"+ 33 1 70 95 85 85"},"CH":{"productNumber":"+41215750002","productNumberPrice":"On request, call +41215750002","countryLabel":"From Switzerland","errorPrice":"","errorSchedule":"Monday to Friday from 9am to 8pm and on Saturday from 10am to 6pm","errorNumber":"+41215750002","footerSchedule":"(Monday to Friday from 9am to 8pm and on Saturday from 10am to 6pm)","productPrice":"","header":"+41215750002"},"ES":{"productNumber":"+34911366109","productNumberPrice":"On request, call +34911366109","countryLabel":"From Spain","errorPrice":"","errorSchedule":"Monday to Friday from 9am to 8pm and on Saturday from 10am to 6pm","errorNumber":"+34911366109","footerSchedule":"(Monday to Friday from 9am to 8pm and on Saturday from 10am to 6pm)","productPrice":"","header":"+34911366109"},"NL":{"productNumber":"+31202623731","productNumberPrice":"On request, call +31202623731","countryLabel":"From Netherlands","errorPrice":"","errorSchedule":"Monday to Friday from 9am to 8pm and on Saturday from 10am to 6pm","errorNumber":"+31202623731","footerSchedule":"(Monday to Friday from 9am to 8pm and on Saturday from 10am to 6pm)","productPrice":"","header":"+31202623731"},"BE":{"productNumber":"+3228087125","productNumberPrice":"On request, call +3228087125","countryLabel":"From Belgium","errorPrice":"","errorSchedule":"Monday to Friday from 9am to 8pm and on Saturday from 10am to 6pm","errorNumber":"+3228087125","footerSchedule":"(Monday to Friday from 9am to 8pm and on Saturday from 10am to 6pm)","productPrice":"","header":"+3228087125"},"DE":{"productNumber":"+496994189328","productNumberPrice":"On request, call +496994189328","countryLabel":"From Germany","errorPrice":"","errorSchedule":"Monday to Friday from 9am to 8pm and on Saturday from 10am to 6pm","errorNumber":"+496994189328","footerSchedule":"(Monday to Friday from 9am to 8pm and on Saturday from 10am to 6pm)","productPrice":"","header":"+496994189328"},"DK":{"productNumber":"+4578791033","productNumberPrice":"On request, call +4578791033","countryLabel":"From Denmark","errorPrice":"","errorSchedule":"Monday to Friday from 9am to 8pm and on Saturday from 10am to 6pm","errorNumber":"+4578791033","footerSchedule":"(Monday to Friday from 9am to 8pm and on Saturday from 10am to 6pm)","productPrice":"","header":"+4578791033"}}};
+    var contactNumbers = {"countryContacts":{"AT":{"productNumber":"+4312675948","productNumberPrice":"On request, call +4312675948","countryLabel":"From Austria","errorPrice":"","errorSchedule":"Monday to Friday from 9am to 8pm and on Saturday from 10am to 6pm","errorNumber":"+4312675948","footerSchedule":"(Monday to Friday from 9am to 8pm and on Saturday from 10am to 6pm)","productPrice":"","header":"+4312675948"},"SE":{"productNumber":"+46840308780","productNumberPrice":"On request, call +46840308780","countryLabel":"From Sweden","errorPrice":"","errorSchedule":"Monday to Friday from 9am to 8pm and on Saturday from 10am to 6pm","errorNumber":"+46840308780","footerSchedule":"(Monday to Friday from 9am to 8pm and on Saturday from 10am to 6pm)","productPrice":"","header":"+46840308780"},"XX":{"footerSchedule":"(Monday to Friday from 9am to 8pm and on Saturday from 10am to 6pm)","header":"+442033265476"},"GB":{"productNumber":"+442033265476","productNumberPrice":"On request, call +442033265476","countryLabel":"From United Kingdom","errorPrice":"","errorSchedule":"Monday to Friday from 8am to 7pm and on Saturday from 9am to 5pm","errorNumber":"+442033265476","footerSchedule":"(Monday to Friday from 8am to 7pm and on Saturday from 9am to 5pm)","productPrice":"","header":"+442033265476"},"UK":{"productNumber":"+442033265476","productNumberPrice":"On request, call +442033265476","countryLabel":"From United Kingdom","errorPrice":"","errorSchedule":"Monday to Friday from 8am to 7pm and on Saturday from 9am to 5pm","errorNumber":"+442033265476","footerSchedule":"(Monday to Friday from 8am to 7pm and on Saturday from 9am to 5pm)","productPrice":"","header":"+442033265476"},"IT":{"productNumber":"+390689970066","productNumberPrice":"On request, call +390689970066","countryLabel":"From Italie","errorPrice":"","errorSchedule":"Monday to Friday from 9am to 8pm and on Saturday from 10am to 6pm","errorNumber":"+390689970066","footerSchedule":"(Monday to Friday from 9am to 8pm and on Saturday from 10am to 6pm)","productPrice":"","header":"+390689970066"},"NO":{"productNumber":"+4721999772","productNumberPrice":"On request, call +4721999772","countryLabel":"From Norway","errorPrice":"","errorSchedule":"Monday to Friday from 9am to 8pm and on Saturday from 10am to 6pm","errorNumber":"+4721999772","footerSchedule":"(Monday to Friday from 9am to 8pm and on Saturday from 10am to 6pm)","productPrice":"","header":"+4721999772"},"size":14,"FR":{"productNumber":"+ 33 1 70 95 85 85","productNumberPrice":"On request, call + 33 1 70 95 85 85","countryLabel":"From France","errorPrice":"Local call charges may apply","errorSchedule":"Monday to Friday from 9am to 8pm and on Saturday from 10am to 6pm","errorNumber":"+ 33 1 70 95 85 85","footerSchedule":"(Monday to Friday from 9am to 8pm and on Saturday from 10am to 6pm. Local call charges may apply","productPrice":"(Local call charges may apply)","header":"+ 33 1 70 95 85 85"},"CH":{"productNumber":"+41215750002","productNumberPrice":"On request, call +41215750002","countryLabel":"From Switzerland","errorPrice":"","errorSchedule":"Monday to Friday from 9am to 8pm and on Saturday from 10am to 6pm","errorNumber":"+41215750002","footerSchedule":"(Monday to Friday from 9am to 8pm and on Saturday from 10am to 6pm)","productPrice":"","header":"+41215750002"},"ES":{"productNumber":"+34911366109","productNumberPrice":"On request, call +34911366109","countryLabel":"From Spain","errorPrice":"","errorSchedule":"Monday to Friday from 9am to 8pm and on Saturday from 10am to 6pm","errorNumber":"+34911366109","footerSchedule":"(Monday to Friday from 9am to 8pm and on Saturday from 10am to 6pm)","productPrice":"","header":"+34911366109"},"NL":{"productNumber":"+31202623731","productNumberPrice":"On request, call +31202623731","countryLabel":"From Netherlands","errorPrice":"","errorSchedule":"Monday to Friday from 9am to 8pm and on Saturday from 10am to 6pm","errorNumber":"+31202623731","footerSchedule":"(Monday to Friday from 9am to 8pm and on Saturday from 10am to 6pm)","productPrice":"","header":"+31202623731"},"BE":{"productNumber":"+3228087125","productNumberPrice":"On request, call +3228087125","countryLabel":"From Belgium","errorPrice":"","errorSchedule":"Monday to Friday from 9am to 8pm and on Saturday from 10am to 6pm","errorNumber":"+3228087125","footerSchedule":"(Monday to Friday from 9am to 8pm and on Saturday from 10am to 6pm)","productPrice":"","header":"+3228087125"},"DE":{"productNumber":"+496994189328","productNumberPrice":"On request, call +496994189328","countryLabel":"From Germany","errorPrice":"","errorSchedule":"Monday to Friday from 9am to 8pm and on Saturday from 10am to 6pm","errorNumber":"+496994189328","footerSchedule":"(Monday to Friday from 9am to 8pm and on Saturday from 10am to 6pm)","productPrice":"","header":"+496994189328"},"DK":{"productNumber":"+4578791033","productNumberPrice":"On request, call +4578791033","countryLabel":"From Denmark","errorPrice":"","errorSchedule":"Monday to Friday from 9am to 8pm and on Saturday from 10am to 6pm","errorNumber":"+4578791033","footerSchedule":"(Monday to Friday from 9am to 8pm and on Saturday from 10am to 6pm)","productPrice":"","header":"+4578791033"}}};
 </script>
   
 
-<!-- verychic - hotelCachemire: SCRIPT DE GENERATION LANCE LE 2015-05-05 A 17:03:20 -->
-<!-- CACHEMIRE 1430838200 -->
+<!-- verychic - hotelCachemire: SCRIPT DE GENERATION LANCE LE 2015-10-07 A 05:20:01 -->
+<!-- CACHEMIRE 1444188001 -->
 </body></html>
