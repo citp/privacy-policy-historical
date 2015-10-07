@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fair.org privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627150904id_/http%3A//fair.org/about-fair/fair-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fair.org privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007054014id_/http%3A//fair.org/about-fair/fair-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — FAIR
 
@@ -45,5 +45,3 @@ For your convenience, here is the Do Not Call Registry link to stop receiving un
 **https://www.donotcall.gov/Opt-Out Policy**
 
 We always offer you every possible opportunity to opt out of providing personal information. In cases where personal information is needed, e.g. web-based financial transactions, we will keep this information confidential.
-
-[](http://www.printfriendly.com/print?url=http%3A%2F%2Ffair.org%2Fabout-fair%2Ffair-privacy-policy%2F)
