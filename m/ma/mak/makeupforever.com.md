@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makeupforever.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504123828id_/http%3A//www.makeupforever.com/int/en-int/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makeupforever.com privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008183351id_/http%3A//www.makeupforever.com/int/en-int/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – MAKE UP FOR EVER
 
@@ -132,3 +132,5 @@ MAKE UP FOR EVER reserves the right to change or update this Privacy Policy, or 
 ##  Contact Us
 
 If you have any questions or comments regarding our privacy practices, you may contact us at unregister@makeupforever.fr.
+
+Last Update March 2015 
