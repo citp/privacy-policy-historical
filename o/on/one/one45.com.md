@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the one45.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629123423id_/http%3A//www.one45.com/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the one45.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009003641id_/http%3A//www.one45.com/privacy-policies) for the most accurate reproduction.*
 
 # Privacy Policies | one45 software
 
