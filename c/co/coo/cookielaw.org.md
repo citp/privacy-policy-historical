@@ -1,42 +1,34 @@
-> *The following text is extracted and transformed from the cookielaw.org privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609045054id_/http%3A//www.cookielaw.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookielaw.org privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008141154id_/http%3A//www.cookielaw.org/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | The Cookie Collective
 
-We are committed to protecting and respecting your privacy. The aim of this page is to explain how we may gather and use information about you through your use of this website and other software developed by us.  All use of such information is governed by the principles and practices set out in this statement.  
+We are committed to protecting your information and respecting your privacy rights. The aim of this page is to explain how we may gather and use information about you through your interactions with us, including use of this website and other software developed by us.  All use of such information is governed by the principles and practices set out in this statement.  
 
 
 **Key Points:**
 
-  * Any personal information you give us via forms on the site is treated as confidential and never shared with any third parties except data processors acting on our behalf to provide our services, or where required by law.
+  * Any personal information you give us via forms on the site is treated as confidential and only used to provide our services or communicate with you about them.
+  * We only share your information with third parties acting on our behalf to provide our services, or where required by law.
   * By sending us information via a form on this site, you consent to our use of this information as explained on this page.
   * Your use of this site implies consent for the setting of cookies, unless you change your privacy preferences. For more information on the cookies we use see: [How We Use Cookies](https://web.archive.org/how-we-use-cookies/ "How We Use Cookies")
-  * Any web usage statistics we collect, like which pages on the site are most visited, are anonymous.
 
 
 
-**Last Update** : 06 Nov. 2014
+**Last Update** : 18 Aug. 2014
 
 Who We Are
 
-The Cookie Collective is a trading name of [Governor Technology](http://www.governor.co.uk/ "Governor Technology"). For the purpose of the Data Protection Act 1998 (the Act), the data controller is Governor Technology Ltd of 133 Creek Road, London, SE3 8BU, United Kingdom.
+**Optanon** is a registered trademark of [Governor Technology](http://www.governor.co.uk/ "Governor Technology"). For the purpose of the Data Protection Act 1998 (the Act), the data controller is Governor Technology Ltd of 133 Creek Road, London, SE3 8BU, United Kingdom.
 
 Information we may collect from you 
 
 We may collect and process the following data about you:
 
-  * Information that you provide by filling in forms on this site. This includes information provided at the time of registering to use our services, posting material or requesting further services.
-  * If you contact us, we may keep a record of that correspondence.
+  * Contact details that you provide by filling in forms on this site. This includes information provided at the time of registering to use our services, posting material or requesting further services.
+  * If you contact us, we will keep a record of our correspondence.
   * Details of transactions you carry out through our site and of the fulfilment of your orders.
 
 
-
-Where we store your personal data
-
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for one of our suppliers.
-
-By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
-
-Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
 Uses made of the information
 
@@ -80,6 +72,14 @@ The data consists of the names of cookies and their other attributes, along with
 The sole purpose of the plug-in is to source data about cookies to inform our research.  Statistics and other intelligence garnered from analysis of this data are published freely on [Cookiepedia](http://cookiepedia.co.uk/ "Cookiepedia - all about cookies").
 
 Prior to this plug-in there were two Cookie Collector plug-ins, for Firefox and Chrome available.  Data collection from these plug-ins is no longer taking place.
+
+Where we store your personal data
+
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for one of our suppliers.
+
+By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+
+Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
 Disclosure of your information
 
