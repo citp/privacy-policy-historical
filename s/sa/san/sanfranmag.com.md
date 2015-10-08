@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sanfranmag.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503075517id_/http%3A//www.modernluxury.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanfranmag.com privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008041853id_/http%3A//www.modernluxury.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Modern Luxury
 
