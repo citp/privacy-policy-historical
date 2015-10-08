@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourfuture.org privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609101221id_/http%3A//ourfuture.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourfuture.org privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008030614id_/http%3A//ourfuture.org/privacy) for the most accurate reproduction.*
 
 # Privacy
 
