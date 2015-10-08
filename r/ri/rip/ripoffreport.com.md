@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ripoffreport.com privacy policy that was archived on 2014-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141020103454id_/http%3A//www.ripoffreport.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ripoffreport.com privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008041709id_/http%3A//www.ripoffreport.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Ripoff Report | Scams, reviews, complaints, lawsuits and frauds. File a report, post your review. Consumers educating consumers.
 
@@ -107,10 +107,10 @@ Tempe, AZ 85280 USA
 
 Email ALL of the Following:
 
-[legal@ripoffreport.com](mailto:legal@ripoffreport.com), [support@ripoffreport.com](mailto:support@ripoffreport.com) and [mcs@jaburgwilk.com](mailto:mcs@jaburgwilk.com) with the Subject Box Titled “RIPOFF REPORT – PRIVACY POLICY” 
+[legal@ripoffreport.com](mailto:legal@ripoffreport.com) and [support@ripoffreport.com](mailto:support@ripoffreport.com) with the Subject Box Titled “RIPOFF REPORT – PRIVACY POLICY” 
 
 Telephone number: 
 
 602-359-4357 
 
-Effective as of May 13, 2013. 
+Effective as of September 25, 2015.
