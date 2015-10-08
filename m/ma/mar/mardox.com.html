@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mardox.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607184737id_/http%3A//mardox.com/index.php%3Fcontent%3Dpublic/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mardox.com privacy policy that was archived on 2015-10-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151008131102id_/https%3A//mardox.com/index.php%3Fcontent%3Dpublic/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="EN" lang="EN" dir="ltr"><head profile="http://gmpg.org/xfn/11">
 
@@ -8,7 +8,190 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta http-equiv="imagetoolbar" content="no">
 
-<link rel="stylesheet" href="http://mardox.com/styles/layout.css" type="text/css">
+<link rel="stylesheet" href="https://mardox.com/styles/layout.css" type="text/css">
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="https://mardox.com/styles/dddropdownpanel.css">
+
+
+
+<script type="text/javascript" src="https://mardox.com/scripts/dddropdownpanel.js">
+
+/***********************************************
+* DD Drop Down Panel- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for this script and 100s more
+***********************************************/
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style style="text/css">
+
+.lcdstyle{ /*Example CSS to create LCD countdown look*/
+color:black;
+font: bold 18px MS Sans Serif;
+padding: 3px;
+}
+
+.lcdstyle sup{ /*Example CSS to create LCD countdown look*/
+font-size: 80%
+}
+
+</style>
+
+<script type="text/javascript">
+
+/***********************************************
+* Dynamic Countdown script- © Dynamic Drive (http://www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit http://www.dynamicdrive.com/ for this script and 100s more.
+***********************************************/
+
+function cdtime(container, targetdate){
+if (!document.getElementById || !document.getElementById(container)) return
+this.container=document.getElementById(container)
+this.currentTime=new Date()
+this.targetdate=new Date(targetdate)
+this.timesup=false
+this.updateTime()
+}
+
+cdtime.prototype.updateTime=function(){
+var thisobj=this
+this.currentTime.setSeconds(this.currentTime.getSeconds()+1)
+setTimeout(function(){thisobj.updateTime()}, 1000) //update time every second
+}
+
+cdtime.prototype.displaycountdown=function(baseunit, functionref){
+this.baseunit=baseunit
+this.formatresults=functionref
+this.showresults()
+}
+
+cdtime.prototype.showresults=function(){
+var thisobj=this
+
+
+var timediff=(this.targetdate-this.currentTime)/1000 //difference btw target date and current date, in seconds
+if (timediff<0){ //if time is up
+this.timesup=true
+this.container.innerHTML=this.formatresults()
+return
+}
+var oneMinute=60 //minute unit in seconds
+var oneHour=60*60 //hour unit in seconds
+var oneDay=60*60*24 //day unit in seconds
+var dayfield=Math.floor(timediff/oneDay)
+var hourfield=Math.floor((timediff-dayfield*oneDay)/oneHour)
+var minutefield=Math.floor((timediff-dayfield*oneDay-hourfield*oneHour)/oneMinute)
+var secondfield=Math.floor((timediff-dayfield*oneDay-hourfield*oneHour-minutefield*oneMinute))
+if (this.baseunit=="hours"){ //if base unit is hours, set "hourfield" to be topmost level
+hourfield=dayfield*24+hourfield
+dayfield="n/a"
+}
+else if (this.baseunit=="minutes"){ //if base unit is minutes, set "minutefield" to be topmost level
+minutefield=dayfield*24*60+hourfield*60+minutefield
+dayfield=hourfield="n/a"
+}
+else if (this.baseunit=="seconds"){ //if base unit is seconds, set "secondfield" to be topmost level
+var secondfield=timediff
+dayfield=hourfield=minutefield="n/a"
+}
+this.container.innerHTML=this.formatresults(dayfield, hourfield, minutefield, secondfield)
+setTimeout(function(){thisobj.showresults()}, 1000) //update results every second
+}
+
+/////CUSTOM FORMAT OUTPUT FUNCTIONS BELOW//////////////////////////////
+
+//Create your own custom format function to pass into cdtime.displaycountdown()
+//Use arguments[0] to access "Days" left
+//Use arguments[1] to access "Hours" left
+//Use arguments[2] to access "Minutes" left
+//Use arguments[3] to access "Seconds" left
+
+//The values of these arguments may change depending on the "baseunit" parameter of cdtime.displaycountdown()
+//For example, if "baseunit" is set to "hours", arguments[0] becomes meaningless and contains "n/a"
+//For example, if "baseunit" is set to "minutes", arguments[0] and arguments[1] become meaningless etc
+
+
+function formatresults(){
+if (this.timesup==false){//if target date/time not yet met
+
+var displaystring="Membership Prices Increase in<br>"+arguments[0]+" days "+arguments[1]+" hours "+arguments[2]+" minutes "+arguments[3]+" seconds"
+}
+else{ //else if target date/time met
+var displaystring=""
+}
+return displaystring
+}
+
+function formatresults2(){
+if (this.timesup==false){ //if target date/time not yet met
+var displaystring="<span class='lcdstyle'>"+arguments[0]+" <sup>days</sup> "+arguments[1]+" <sup>hours</sup> "+arguments[2]+" <sup>minutes</sup> "+arguments[3]+" <sup>seconds</sup></span><br>left until Membership Price Increase."
+}
+else{ //else if target date/time met
+var displaystring="" //Don't display any text
+alert("Christmas is here!") //Instead, perform a custom alert
+}
+return displaystring
+}
+
+</script>
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="https://mardox.com/scripts/dropdowncontent.js">
+
+/***********************************************
+* Drop Down/ Overlapping Content- © Dynamic Drive (www.dynamicdrive.com)
+* This notice must stay intact for legal use.
+* Visit http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+</script>
+
+
+
+<link rel="stylesheet" href="https://mardox.com/scripts/dropzone/dist/dropzone.css">
+
+<script src="https://mardox.com/scripts/dropzone/dropzone.js"></script>
+
+<script type="text/javascript">
+Dropzone.options.myAwesomeDropzone = {
+      init: function() {
+            this.on("queuecomplete", function(file, messageOrDataFromServer, myEvent) {
+                  window.setTimeout(function() { window.location.href = "https://mardox.com/index.php?content=members/services/activedoxtools&toolname=dropzone&command=HOME"; }, 3000);
+            });      
+      }
+}; 
+</script>
+
+
+
 
 </head>
 <body id="top">
@@ -16,10 +199,11 @@
 <div class="wrapper col1">
   <div id="header">
     <div id="logo">
-     	<a href="http://mardox.com/"><img src="http://mardox.com/images/logo.png" border="0" alt="Mardox logo"></a>
+     	<a href="https://mardox.com/"><img src="https://mardox.com/images/logo2015-membersarea.png" border="0" width="400" height="100" alt="Mardox logo"></a>
     </div>
     <div id="login">
-	<center><a href="index.php?content=access/signup&amp;refid=SUV2-1000000001-12345">Register</a> - <a href="index.php?content=access/signin">Sign In</a></center>
+	<center><a href="https://mardox.com/index.php?content=access/signup&amp;refid=SUV2-1000000001-12345&amp;tag=">Register</a> - <a href="https://mardox.com/index.php?content=access/signin">Sign In</a></center>
+		
     </div>
 
     <br class="clear">
@@ -29,70 +213,43 @@
 
 <div class="wrapper col2">
   <div id="topbar">
-    <div id="topnav">
+
+<div id="topnav">
       <ul>
-        <li class="active"><a href="#">Home</a>
-          <ul>
-            <li><a href="http://mardox.com/index.php?content=access/signup&amp;refid=SUV2-1000000001-12345">Register for FREE</a></li>
-            <li><a href="http://mardox.com/index.php?content=access/signin">Sign In</a></li>
-            <li><a href="#"></a></li>
-            <li><a href="http://mardox.com/index.php?content=public/aboutus">About Mardox</a></li>
-            <li><a href="http://mardox.com/index.php?content=public/contactus">Contact Mardox</a></li>
-            <li><a href="http://blog.mardox.com">Our Blog</a></li>
-
-            <li><a href="http://helpdesk.mardox.com">The Help Desk</a></li>
-
-            <li><a href="#"></a></li>
-            <li><a href="http://mardox.com/index.php?content=public/memberships">Membership Benefits</a></li>
-            <li><a href="http://mardox.com/index.php?content=public/privacypolicy">Our Privacy Policy</a></li>
-            <li><a href="http://mardox.com/index.php?content=public/tos">Terms of Service</a></li>
-            <li><a href="http://mardox.com/index.php?content=public/antispam">Anti Spam Policy</a></li>
-          </ul>
-	</li>
-        <li><a href="#">Services</a>
-          <ul>
-            <li><a href="http://caveman-web.com">CaveMan-Web.com</a></li>
-            <li><a href="http://NelsonBuck.com">NelsonBuck.com</a></li>
-            <li><a href="http://OpenSubmit.net">OpenSubmit.net</a></li>
-          </ul>
-	</li>
-        <li><a href="#">Resources</a>
-          <ul>
-            <li><a href="http://mardox.com/index.php?content=members/resources/autosurfs">Auto Surfs</a></li>
-            <li><a href="http://mardox.com/index.php?content=members/resources/manualsurfs">Manual Surfs</a></li>
-            <li><a href="http://mardox.com/index.php?content=members/resources/trafficexchanges">Traffic Exchanges</a></li>
-            <li><a href="http://mardox.com/index.php?content=members/resources/safelists">Safe Email Lists</a></li>
-            <li><a href="http://mardox.com/index.php?content=members/resources/bannerrotations">Banner Rotations</a></li>
-            <li><a href="http://mardox.com/index.php?content=members/resources/freeleads">Free Leads</a></li>
-            <li><a href="http://mardox.com/index.php?content=members/resources/urlpings">URL Ping Services</a></li>
-          </ul>
-	</li>
-        <li><a href="http://mardox.com/index.php?content=access/signup&amp;refid=SUV2-1000000001-12345">Register</a></li>
-        <li><a href="http://mardox.com/index.php?content=access/signin">Sign in</a></li>
-
-
+        <li class="active"><a href="https://mardox.com/">Home</a></li>
+        <li class="pass"><a href="https://mardox.com/index.php?content=members/services/home">Services</a></li>
+        <li class="pass"><a href="https://mardox.com/index.php?content=members/resources/home">Resources</a></li>
+        <li class="pass"><a href="https://mardox.com/index.php?content=access/signup&amp;refid=SUV2-1000000001-12345&amp;tag=">Register</a></li>
+        <li class="pass"><a href="https://mardox.com/index.php?content=access/signin">Sign in</a></li>
         <li class="last"><a href="http://helpdesk.mardox.com">Help Desk</a></li>
       </ul>
     </div>
+
+
     <div id="search">
-      <form action="http://mardox.com/index.php?content=search" method="post">
+      <form action="https://mardox.com/index.php?content=public/search" method="post">
         <fieldset>
           <legend>Site Search</legend>
-          <input type="text" value="Search Our Website…" onfocus="this.value=(this.value=='Search Our Website…')? '' : this.value ;">
+          <input type="text" name="keywords" value="Search Our Website…" onfocus="this.value=(this.value=='Search Our Website…')? '' : this.value ;">
           <input type="submit" name="go" id="go" value="Search">
         </fieldset>
       </form>
     </div>
     <br class="clear">
   </div>
-</div>
 
+
+</div>
 
 
 
 <div class="wrapper col5">
   <div id="container">
-    <div id="content">
+    <div id="contentfullwidth">
+
+
+
+
 	<div id="fullcontent">
 
 		<div id="fullbox">
@@ -201,80 +358,21 @@ For more information about the collection of your personal information, any of t
 			<div class="post">
 				<h2 class="title">Other Retated Documents</h2>
 				<div class="entry">
-					<a href="http://mardox.com/index.php?content=public/aboutus">About us</a> <br>
-					<a href="http://mardox.com/index.php?content=public/contactus">Contact us</a> <br>
-					<a href="http://mardox.com/index.php?content=public/memberships">Memberships</a> <br>
-					<a href="http://mardox.com/index.php?content=public/privacypolicy">Our Privacy Policy</a> <br>
-					<a href="http://mardox.com/index.php?content=public/tos">Terms of Service</a> <br>
-					<a href="http://mardox.com/index.php?content=public/antispam">Anti Spam Policy</a><br>
+					<a href="https://mardox.com/index.php?content=public/aboutus">About us</a> <br>
+					<a href="https://mardox.com/index.php?content=public/contactus">Contact us</a> <br>
+					<a href="https://mardox.com/index.php?content=public/memberships">Memberships</a> <br>
+					<a href="https://mardox.com/index.php?content=public/privacypolicy">Our Privacy Policy</a> <br>
+					<a href="https://mardox.com/index.php?content=public/tos">Terms of Service</a> <br>
+					<a href="https://mardox.com/index.php?content=public/antispam">Anti Spam Policy</a><br>
 				</div>
 			</div>
 		</div>
 
 	</div>
     </div>
-    <div id="column">
 
 
 
-
-
-      <div class="subnav">
-        <h2>Related Content</h2>
-        <ul>
-          <li><a href="http://mardox.com/index.php?content=public/aboutus">About Mardox</a></li>
-          <li><a href="http://mardox.com/index.php?content=public/contactus">Contact Mardox</a></li>
-          <li><a href="http://mardox.com/index.php?content=public/contactus">Follow Us</a>
-            <ul>
-              <li><a href="https://www.facebook.com/pages/Mardox-Corp/110813388946486">FaceBook</a></li>
-              <li><a href="https://twitter.com/mardox1">Twitter</a></li>
-              <li><a href="https://www.youtube.com/user/mardoxtube">Youtube</a></li>
-              <li><a href="https://plus.google.com/113246126511278626290/posts">Google+</a></li>
-              <li><a href="http://blog.mardox.com">Our Blog</a></li>
-            </ul>
-          </li>
-          <li><a href="http://mardox.com/index.php?content=public/memberships">Memberships</a>
-            <ul>
-              <li><a href="http://mardox.com/index.php?content=access/signin">Sign In</a></li>
-              <li><a href="http://mardox.com/index.php?content=access/signup&amp;refid=SUV2-1000000001-12345">Register</a></li>
-              <li><a href="#">Benefits</a>
-                <ul>
-                  <li><a href="#">Free Memberships</a></li>
-                  <li><a href="#">Paid Memberships</a></li>
-                  <li><a href="#">Affiliates program</a></li>
-                  <li><a href="#">Payouts</a></li>
-                </ul>
-              </li>
-            </ul>
-          </li>
-          <li><a href="#">Legal Stuff</a>
-            <ul>
-              <li><a href="http://mardox.com/index.php?content=public/privacypolicy">Our Privacy Policy</a></li>
-              <li><a href="http://mardox.com/index.php?content=public/tos">Terms of Service(TOS)</a></li>
-              <li><a href="http://mardox.com/index.php?content=public/antispam">Anti Spam Policy</a></li>
-
-	    </ul>	
-	  </li>
-
-        </ul>
-      </div>
-
-
-
-      <div class="holder">
-        <h2>Free and New</h2>
-        <ul id="latestnews">
-          <li> <img class="imgl" src="http://mardox.com/images/Ilovefreestuff.jpg" alt="We have lots of free stuff">
-            <p><strong><a href="#">Free Stuff</a></strong></p>
-            <p>We have all the free stuff you want. Find great web master tools and services that won't empty your pockets.</p>
-          </li>
-          <li class="last"> <img class="imgl" src="http://mardox.com/images/newstuff.jpg" alt="Whats New">
-            <p><strong><a href="#">New Stuff</a></strong></p>
-            <p>We are always adding new products, services and cool stuff to our web site. But you need to be a member.</p>
-          </li>
-        </ul>
-      </div>
-    </div>
     <br class="clear">
   </div>
 </div>
@@ -298,11 +396,12 @@ For more information about the collection of your personal information, any of t
 
 
 
+
     <div class="footbox">
       <h2>Support</h2>
       <ul>
         <li><a href="http://helpdesk.mardox.com">The Help Desk</a></li>
-        <li class="last"><a href="http://blog.mardox.com">Official Mardox Blog</a></li>
+        <li class="last"><a href="http://mardoxplus.blogspot.ca">Official Mardox Blog</a></li>
       </ul>
     </div>
 
@@ -311,14 +410,12 @@ For more information about the collection of your personal information, any of t
     <div class="footbox">
       <h2>Navigation</h2>
       <ul>
-            <li><a href="http://mardox.com/index.php?content=access/signup&amp;refid=SUV2-1000000001-12345">Register for FREE</a></li>
-            <li><a href="http://mardox.com/index.php?content=access/signin">Sign In</a></li>
-            <li><a href="http://mardox.com/index.php?content=public/aboutus">About Mardox</a></li>
-            <li><a href="http://mardox.com/index.php?content=public/contactus">Contact Mardox</a></li>
-            <li><a href="http://mardox.com/index.php?content=public/memberships">Membership Benefits</a></li>
-            <li><a href="http://mardox.com/index.php?content=public/privacypolicy">Our Privacy Policy</a></li>
-            <li><a href="http://mardox.com/index.php?content=public/tos">Terms of Service</a></li>
-	    <li class="last"><a href="http://mardox.com/index.php?content=public/antispam">Anti Spam Policy</a></li>
+            <li><a href="https://mardox.com/index.php?content=access/signout">Sign Out</a></li>
+            <li><a href="https://mardox.com/index.php?content=public/aboutus">About Mardox</a></li>
+            <li><a href="https://mardox.com/index.php?content=public/contactus">Contact Mardox</a></li>
+            <li><a href="https://mardox.com/index.php?content=public/privacypolicy">Our Privacy Policy</a></li>
+            <li><a href="https://mardox.com/index.php?content=public/tos">Terms of Service</a></li>
+	    <li class="last"><a href="https://mardox.com/index.php?content=public/antispam">Anti Spam Policy</a></li>
       </ul>
     </div>
 
@@ -346,7 +443,10 @@ For more information about the collection of your personal information, any of t
     <p class="fl_left">Copyright © 2005 - 2015, All Rights Reserved - <a href="mardox.com">mardox.com</a></p>
 
     <p class="fl_right">Need Help? <a href="http://helpdesk.mardox.com/" target="_blank" title="Mardox Help Desk">Click Here</a></p>
+
+
     <br class="clear">
+
   </div>
 </div>
 
