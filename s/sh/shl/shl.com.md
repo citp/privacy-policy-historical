@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shl.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629121013id_/http%3A//ceb.shl.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shl.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009003251id_/http%3A//www.cebglobal.com/shl/us/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SHL Talent Measurement
 
@@ -118,7 +118,7 @@ You may also contact us in writing to inform us if you do not wish to receive an
 If you wish to exercise any of the above rights, please contact us using the contact details specified below. However, if you wish to unsubscribe from e-mail marketing communications that we send you, you can most easily do this by clicking on the unsubscribe link at the bottom of any e-mail newsletter we have sent to you.
 
   
-In addition, you can request to access your information as mentioned above by printing and completing a [Subject Access Request Form ](http://www.shl.com/assets/SHL_Subject_Access_Request_Form.pdf) and sending it back to us.  The purpose of this form is to ensure that you give us all the necessary information to enable us to comply with your request.  You do not have to use this form, but if you do not, we encourage you to ensure that all the required information on this form is provided.
+In addition, you can request to access your information as mentioned above by printing and completing a [Subject Access Request Form ](https://web.archive.org/shl/assets/SHL_Subject_Access_Request_Form.pdf) and sending it back to us.  The purpose of this form is to ensure that you give us all the necessary information to enable us to comply with your request.  You do not have to use this form, but if you do not, we encourage you to ensure that all the required information on this form is provided.
 
 ###  Changes to this Privacy Policy
 
