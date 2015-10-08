@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arrl.org privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408004041id_/http%3A//www.arrl.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arrl.org privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008082843id_/http%3A//www.arrl.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
