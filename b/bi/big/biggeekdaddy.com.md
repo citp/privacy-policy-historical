@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the biggeekdaddy.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626155012id_/http%3A//biggeekdaddy.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biggeekdaddy.com privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008231241id_/http%3A//biggeekdaddy.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 What information do I collect?
 
 I collect information from you when you subscribe to my newsletter. When subscribing to my newsletter you will be   
-asked to enter your first name and e-mail address.
+asked to enter your e-mail address.
 
 You may, however, visit this site anonymously.
 
@@ -24,7 +24,7 @@ sites on the Internet.
 
 * Users may opt out of the use of the DART cookie by visiting the
 
-[Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+[ Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 * Google, also uses third-party advertising companies to serve ads on my site. You can find a complete list of
 
