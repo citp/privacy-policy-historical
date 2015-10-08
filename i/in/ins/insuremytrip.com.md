@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the insuremytrip.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626104636id_/http%3A//www.insuremytrip.com/about/privacy-security-legal.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insuremytrip.com privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008165226id_/http%3A//www.insuremytrip.com/about/privacy-security-legal.html) for the most accurate reproduction.*
 
-# Our Privacy, Security, and Legal Policies - InsureMyTrip
+# InsureMyTrip Privacy, Security and Legal Policies
 
 ### Introduction
 
@@ -27,7 +27,7 @@ The IMT web sites collect the following information only if you choose to provid
   * For a travel policy, on behalf of the insurance carriers, we collect from you and disclose to them the following information: 
     * Name, mailing address, telephone number(s), Email Address, trip deposit date, tour operator, airline and/or cruise line and trip departure hour.
     * Credit Card Information.
-  * For user accounts:
+  * For user accounts: 
     * Name, email address, and password.
 
 
@@ -56,7 +56,7 @@ IMT uses Secure Socket Layer encryption (SSL) to protect the privacy of your inf
 
 IMT does not control the privacy practices of the companies which we represent; however, all the companies use the information you provide for the purpose of issuing an accurate insurance policy. Quote information is not shared with any of the insurance companies. It is your choice whether to provide personal information to IMT. If you choose to give us the personal information, refer to this privacy statement for an understanding of how that information will be collected, used and/or disclosed or distributed.
 
-You are entitled to access the personal information which we have gathered about you and to request corrections of that information. In order to do so, please direct your request to [customercare@insuremytrip.com](mailto:customercare@insuremytrip.com) and describe your request or correction.
+You are entitled to access the personal information which we have gathered about you and to request corrections of that information. In order to do so, please direct your request to [customercare @ insuremytrip.com](mailto:customercare@insuremytrip.com) and describe your request or correction.
 
 Please refer to the privacy policy statements of the individual insurance companies for their use of your personal information.
 
@@ -68,29 +68,27 @@ This privacy policy statement was last updated on July 24, 2013.
 
 When you trust us with your personal information, you can be sure that we're managing that trust responsibly. We closely follow industry standards and best practices to ensure that the security of our data won't be compromised.
 
-## User Security
+### User Security
 
 InsureMyTrip uses Secure Socket Layer encryption (SSL) to protect the privacy of your information. Encryption is a way of scrambling a message or a piece of data so that only a person who has the decryption key can view it. By encrypting your personal information, we're able to make sure no unauthorized persons can see what you've shared with us.
 
-## Physical Security
+### Physical Security
 
 Our data center is monitored 24/7/365. We use digital surveillance equipment to maintain efficient monitoring, and store all customer data exclusively on servers located within the United States.
 
-## Availability
+### Availability
 
 Our servers have redundant internal and external power supplies. By implementing backup power for our servers, we're able to make sure that data isn't lost due to power service issues in severe weather or other unforeseen circumstances.
 
-## Network Security
+### Network Security
 
 Network firewalls are used to restrict traffic and access to sensitive information. We also use intrusion detection systems, which prevent access to our data from outside intruders.
 
-## Storage Security
+### Storage Security
 
 All data is stored on servers located in the United States. We run backups throughout the day and use an offsite storage system for backup. We also encrypt all information in our backup systems to prevent data from being viewed by unauthorized persons.
 
-If you have any questions about our security policies or what we do to protect you, send us a message at [security@insuremytrip.com](mailto:security@insuremytrip.com) .
-
-"This plan provides insurance coverage that only applies during the covered trip. You may have coverage from other sources that provides you with similar benefits but may be subject to different restrictions depending upon your other coverages. You may wish to compare the terms of this policy with your existing life, health, home, and automobile insurance policies. If you have any questions about your current coverage, call your insurer or insurance agent or broker." California Insurance Code Section 1754
+If you have any questions about our security policies or what we do to protect you, send us a message at [security @ insuremytrip.com](mailto:security@insuremytrip.com).
 
 ### Trademark and Copyright Ownership
 
