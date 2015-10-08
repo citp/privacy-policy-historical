@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nysenate.gov privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626115220id_/http%3A//nysenate.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nysenate.gov privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008080927id_/http%3A//www.nysenate.gov/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | New York State Senate
+# Privacy Policy | NY State Senate
 
 **NYSenate.gov Websites Privacy Policy**
 
-The New York State Senate (the “Senate”) is committed to protecting your privacy and security as you use our NYSenate.gov websites (hereinafter referred to individually as “Senate Website” and collectively as “Senate Websites”). For purposes herein, the term Senate Website includes any website operated by the Senate and/or any website created and/or operated by a New York State Senator in his or her official capacity. Accordingly, all Senate Websites are subject to the provisions of the privacy policy as outlined herein (the “Privacy Policy”). If you have questions or comments about the Privacy Policy, please use the contact form located at < [http://www.NYSenate.gov/contact](http://www.nysenate.gov/contact "http://www.NYSenate.gov/contact") >.
+The New York State Senate (the “Senate”) is committed to protecting your privacy and security as you use our NYSenate.gov websites (hereinafter referred to individually as “Senate Website” and collectively as “Senate Websites”). For purposes herein, the term Senate Website includes any website operated by the Senate and/or any website created and/or operated by a New York State Senator in his or her official capacity. Accordingly, all Senate Websites are subject to the provisions of the privacy policy as outlined herein (the “Privacy Policy”). If you have questions or comments about the Privacy Policy, please use the contact form located at < [http://www.NYSenate.gov/contact](http://www.nysenate.gov/contact) >.
 
 Please note that although Senate Websites may offer links to other websites of interest, the Senate disclaims any responsibility for their content, accuracy or services, and cannot vouch for their information practices. Once a link takes a user outside of the Senate Website, the user is subject to the terms and conditions of such site.
 
