@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 4sync.com privacy policy that was archived on 2015-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608055627id_/https%3A//en.4sync.com/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 4sync.com privacy policy that was archived on 2015-10-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151008051849id_/https%3A//en.4sync.com/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <title>4Sync - Privacy</title>
@@ -7,7 +7,7 @@
   <meta name="Description" content="4Sync is an amazing application that links all of your computers together. It's the easiest way to backup and sync your files. The 4Sync is an app that tracks changes in the folder on your computer and syncs any changes to the web account.">
   <meta name="Keywords" content="online storage, storage, file sharing, share files online, share files, awesome, cloud storage, online backup, cross platform, sync, sharing, mac, windows, os x, linux, backup, collaboration, file versioning, online collaboration, collaboration tools.">
     <meta name="google-site-verification" content="G3X9XGLItUG5ZMFXEQdOb13KR2X2fRI5WvcxVas0Tr0">
-  <link rel="stylesheet" type="text/css" href="http://static.4sync.com/css/common_n.4min.css?ver=797677037">
+  <link rel="stylesheet" type="text/css" href="http://static.4sync.com/css/common_n.4min.css?ver=4012198318">
 <link rel="stylesheet" type="text/css" href="http://static.4sync.com/css/ui/elements.4min.css?ver=2994477320">
 <link rel="stylesheet" type="text/css" href="http://static.4sync.com/auth-popup.4min.css?ver=1613217610">
 <link rel="stylesheet" type="text/css" href="http://static.4sync.com/css/themes/account/icons.4min.css?ver=1055588315">
@@ -38,16 +38,16 @@
   Config.isRTLLanguage = false;
   Config.currentLanguage = 'en';
   Config.isReplaceSearchNameForSeo = false;
-  Config.revisionNum = 48961;
+  Config.revisionNum = 50654;
   Config.syncDomain = 'https://www.4sync.com/';
-  Config.cdDomain = '//dc587.4sync.com/';
+  Config.cdDomain = '//dc683.4sync.com/';
   Config.mailPatterrn = new RegExp("^[_A-Za-z0-9-]+(?:\\.[_A-Za-z0-9-]+)*@[A-Za-z0-9-]+(?:\\.[A-Za-z0-9-]+)+$");
   Config.isMobile = false;
   Config.isIpad = false;
   Config.is4Sync = true;
   Config.isUserLoggedIn = false;
   Config.jsMixpanelProjectToken = 'ca223bf836d3cf717ca2b823f6feab01';
-  Config.epomHost = 'www.adshost1.com';
+  Config.epomHost = 'forshrd.com';
   Config.detectAd = {
     allowedUri: '/empty.js',
     blockedUri: '/show_ad_',
@@ -88,9 +88,7 @@
 <script type="text/javascript" src="http://static.4sync.com/js/header.4min.js?ver=300176007"></script>
 <script type="text/javascript" src="http://static.4sync.com/js/purchaseStats.4min.js?ver=2455068936"></script>
 <script type="text/javascript" src="http://static.4sync.com/js/login_fnc.4min.js?ver=1858177710"></script>
-<script type="text/javascript" src="http://static.4sync.com/js/authScripts.4min.js?ver=3629251199"></script>
-<script type="text/javascript" src="http://static.4sync.com/js/plugins/webtoolkit.base64.4min.js?ver=328333924"></script>
-<script type="text/javascript" src="http://static.4sync.com/js/ajaxSuggestions.4min.js?ver=769630040"></script>
+<script type="text/javascript" src="http://static.4sync.com/js/authScripts.4min.js?ver=3335188125"></script>
 <script type="text/javascript" src="http://static.4sync.com/js/play.4min.js?ver=174540430"></script>
 <script type="text/javascript" src="http://static.4sync.com/js/tips.4min.js?ver=1053751440"></script>
 <script type="text/javascript" src="http://static.4sync.com/js/cookie.4min.js?ver=355701517"></script>
@@ -98,7 +96,7 @@
 <script type="text/javascript" src="http://static.4sync.com/js/adlogger_tracker.4min.js?ver=803098674"></script>
 <script type="text/javascript" src="http://static.4sync.com/js/plugins/jquery.jsonWithError.4min.js?ver=2371165281"></script>
 <script type="text/javascript" src="http://static.4sync.com/js/smallPlugins.4min.js?ver=3810824795"></script>
-<script type="text/javascript" src="http://static.4sync.com/js/utils.4min.js?ver=3257037972"></script>
+<script type="text/javascript" src="http://static.4sync.com/js/utils.4min.js?ver=2869814089"></script>
 <script type="text/javascript" src="http://static.4sync.com/js/Events.4min.js?ver=1840410357"></script>
 <script type="text/javascript" src="http://static.4sync.com/js/plugins/jquery.placeholder.patch.4min.js?ver=1679520602"></script>
 <script type="text/javascript" src="http://static.4sync.com/js/plugins/jquery.cookie.4min.js?ver=1439298453"></script>
@@ -112,7 +110,7 @@
 <script type="text/javascript" src="http://static.4sync.com/js/plugins/jquery.clipboard/jquery.clipboard.4min.js?ver=1320405867"></script>
 <script type="text/javascript">
     function sendVerificationLetter(){
-        $.get('http://www.4sync.com/account/sendEmailVerification.jsp?callback=?&globSysLang=en', {ajax: 'true'} ,function(data){
+        $.get('http://www.4sync.com/account/sendEmailVerification.jsp?globSysLang=en&callback=?', {ajax: 'true'} ,function(data) {
             var msg;
             if (data.ok) {
                 msg = data.verificationMailSentMsg;
@@ -129,9 +127,10 @@
     OpenWindow = window.open(url,windowname,'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=600,left=50,top=50');
     OpenWindow.focus();
   }
-  function reportAbuse() {
+  function reportAbuse(alink) {
     var windowname="abuse";
-    var url="/web/abuse?abuseType=1&link=" + " ";
+    var link =  (alink !== undefined) ? "&aLink=" + alink : + " ";
+    var url="/web/abuse?abuseType=1" + link;
     OpenWindow = window.open(url,windowname,'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=650,left=50,top=50');
     OpenWindow.focus();
   }
@@ -162,15 +161,15 @@
 <link rel="alternate" hreflang="x-default" href="http://www.4sync.com/privacy.jsp"><meta property="fb:app_id" content="135370629892931">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="4Sync">
-<meta property="og:image" content="http://static.4sync.com/4sync.com/images/social/general.png?ver=451852167">
-  <link rel="image_src" href="http://static.4sync.com/4sync.com/images/social/general.png?ver=451852167">
+<meta property="og:image" content="http://static.4sync.com/4sync.com/images/social/general.png?ver=4015069363">
+  <link rel="image_src" href="http://static.4sync.com/4sync.com/images/social/general.png?ver=4015069363">
 </head>
 <body class="site4sync notPremiumUser pagePrivacy">
 <div id="fstickcontainer">
   <div id="fstickcontent">
 <div id="container">
     <link rel="stylesheet" type="text/css" href="http://static.4sync.com/4sync.com/css/header.4min.css?ver=1338008776">
-<link rel="stylesheet" type="text/css" href="http://static.4sync.com/4sync.com/css/general.4min.css?ver=78327304">
+<link rel="stylesheet" type="text/css" href="http://static.4sync.com/4sync.com/css/general.4min.css?ver=4246859684">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800" type="text/css">
 <script type="text/javascript" src="http://static.4sync.com/4sync.com/js/login.4min.js?ver=2077979180"></script>
 <!--[if IE 7]>
@@ -251,7 +250,7 @@
   <div class="bluePopupButton marginT15 confirmPopupBlueButton round4 floatRight gaClick jsConfirmOk">Ok</div>
   <div class="clear"></div>
 </div><link rel="stylesheet" type="text/css" href="http://static.4sync.com/css/notifyBlock.4min.css?ver=3311273642">
-<script type="text/javascript" src="http://static.4sync.com/js/notifyBlock.4min.js?ver=2404650191"></script>
+<script type="text/javascript" src="http://static.4sync.com/js/notifyBlock.4min.js?ver=685623771"></script>
 <div id="notify-wrapper" class="notify-wrapper lucida" style="display: none">
   <span class="notify">
     <span class="notify-msg"></span>
@@ -396,14 +395,6 @@
     on this Site prior to the change becoming effective. We encourage you to review this Policy from time-to-time
     to make sure that you understand how any personally identifiable information you provide to us or collected
     about you will be used.</p>
-  <p>4Sync Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and
-    practices have been reviewed by TRUSTe for compliance with <a target="_blank" href="http://www.truste.com/privacy-program-requirements/">TRUSTe's program requirements</a>
-    including transparency, accountability and choice regarding the collection and use of your personal information.
-    TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and
-    organizations globally through its leading privacy trustmark and innovative trust solutions. If you have
-    questions or complaints regarding our privacy policy or practices, please contact our <a href="/web/helpCenter">support</a> or contact us at 2670 Leavenworth, San Francisco, California. If you are not satisfied with our response you can contact
-    <a target="_blank" href="https://feedback-form.truste.com/watchdog/request">TRUSTe here</a>. The TRUSTe
-    certification does not cover information that may be collected through software downloaded from the site.</p>
   <h2>What Is Personal Information?</h2>
   <p>As used in this Policy, the term "personally identifiable information" means information that specifically
     identifies an individual (such as a name, user name or e-mail address), or information about that individual
@@ -565,12 +556,6 @@
   <p>If you have any questions about this Policy, please contact our <a href="/web/helpCenter">support</a>
     or contact us via postal mail at <a target="_blank" href="http://www.4sync.com">4sync.com</a>, 2670 Leavenworth St., Ste. #E, San Francisco, CA 94109.</p>
   <br>
-  <div id="2d3f2654-f077-4de9-9db0-39eb9a13cb9b" align="center">
-    <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/New-It-Solutions-LTD-/asc?rid=2d3f2654-f077-4de9-9db0-39eb9a13cb9b"></script>
-<a href="//privacy.truste.com/privacy-seal/New-It-Solutions-LTD-/validation?rid=02b5d674-662b-4fff-8284-cb08d1345af4" title="TRUSTe online privacy certification" target="_blank">
-      <img style="border: none" src="//privacy-policy.truste.com/privacy-seal/New-It-Solutions-LTD-/seal?rid=02b5d674-662b-4fff-8284-cb08d1345af4" alt="TRUSTe online privacy certification">
-    </a>
-  </div>
 </div><img src="http://static.4sync.com/4sync.com/images/vignette.png?ver=1426981441" width="499" height="48">
 		    <div class="clearfix"></div>
         <script type="text/javascript" src="http://static.4sync.com/4sync.com/js/downloadAppButton.4min.js?ver=2629657116"></script>
@@ -647,8 +632,7 @@
                 <li class="heading">Company</li>
                 <li><a href="/about.jsp">About Us</a></li>
                 <li><a href="/testimonials.jsp">Testimonials</a></li>
-                <li><a href="http://blog.4sync.com/" target="_blank">4Sync Blog</a>
-                </li>
+                <li><a href="http://blog.4sync.com/" target="_blank">4Sync Blog</a></li>
                 <li><a href="/terms.jsp">Terms</a></li>
                 <li><a href="/privacy.jsp">Privacy</a></li>
                 <li><a href="/dmca.jsp">DMCA</a></li>
@@ -673,7 +657,7 @@
         <div class="clear"></div>
         <div id="copyright">
           <span>
-               Copyright <span title="dc564, rev=48961">©</span> 4Sync Inc. All Rights Reserved </span>
+               Copyright <span title="dc564, rev=50654">©</span> 4Sync Inc. All Rights Reserved </span>
 
           <div class="langboxabs"><span>•</span>
     <b class="light-blue f11">English</b>
@@ -743,7 +727,7 @@
 <script type="text/javascript">
      document.write("<img src='//www.jscount.com/a/229/cd04dbf4/z?ref="+
     escape(document.referrer)+"&url="+escape(document.URL)+"&rand="+Math.random()+"' width=1 height=1 alt='' style='display:none'>")
-</script><img src="//www.jscount.com/a/229/cd04dbf4/z?ref=&amp;url=https%3A//web.archive.org/web/20150608055627id_/http%3A//www.4sync.com/privacy.jsp&amp;rand=0.5949087205871004" width="1" height="1" alt="" style="display:none">
+</script><img src="//www.jscount.com/a/229/cd04dbf4/z?ref=&amp;url=https%3A//web.archive.org/web/20151008051849id_/http%3A//www.4sync.com/privacy.jsp&amp;rand=0.683662716199066" width="1" height="1" alt="" style="display:none">
 <!--jscount-->
 
 <!-- Start of google-analytics -->
@@ -766,7 +750,7 @@ escape(document.referrer)+((typeof(screen)=="undefined")?"":
 screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
 ";"+Math.random()+
 "' width=1 height=1 alt='' style='display:none'>")//-->
-</script><img src="//counter.yadro.ru/hit?r;s800*600*24;uhttps%3A//web.archive.org/web/20150608055627id_/http%3A//www.4sync.com/privacy.jsp;0.17802526004105745" width="1" height="1" alt="" style="display:none">
+</script><img src="//counter.yadro.ru/hit?r;s800*600*24;uhttps%3A//web.archive.org/web/20151008051849id_/http%3A//www.4sync.com/privacy.jsp;0.0929067247032862" width="1" height="1" alt="" style="display:none">
 <!--/LiveInternet-->
 
 <!-- Yandex.Metrika counter -->
