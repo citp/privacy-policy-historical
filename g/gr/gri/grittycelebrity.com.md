@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grittycelebrity.com privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526184856id_/http%3A//grittycelebrity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grittycelebrity.com privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008165625id_/http%3A//grittycelebrity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
