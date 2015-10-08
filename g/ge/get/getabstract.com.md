@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getabstract.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627141238id_/http%3A//www.getabstract.com/en/pages/jsp/PrivacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getabstract.com privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008072343id_/http%3A//www.getabstract.com/en/pages/jsp/PrivacyPolicy.jsp) for the most accurate reproduction.*
 
 # getAbstract
 
