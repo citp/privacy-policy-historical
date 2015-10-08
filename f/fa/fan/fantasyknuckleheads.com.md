@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantasyknuckleheads.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611021713id_/http%3A//fantasyknuckleheads.com/subscribe/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasyknuckleheads.com privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008091908id_/http%3A//fantasyknuckleheads.com/subscribe/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -57,8 +57,8 @@ FantasyKnuckleheads.com may amend this Privacy Policy from time to time, at its 
 
 Conditions of Use
 
-If you decide to visit FantasyKnuckleheads.com website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law.
+If you decide to visit FantasyKnuckleheads.com website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of Mississippi state law.
 
 Effective Date of this Privacy Policy
 
-This Privacy Policy is effective as of 2/12/2010 and last updated 8/19/2013.
+This Privacy Policy is effective as of 2/12/2010 and last updated 8/19/2015.
