@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pv-tech.org privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627173807id_/http%3A//www.pv-tech.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pv-tech.org privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008205404id_/http%3A//www.pv-tech.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | PV-Tech
 
