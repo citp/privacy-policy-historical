@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rollapp.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317184126id_/https%3A//www.rollapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rollapp.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009015758id_/https%3A//www.rollapp.com/privacy) for the most accurate reproduction.*
 
-# rollApp - Privacy Policy
+# rollApp - Run Desktop Applications Online - Privacy Policy
 
 rollApp is committed to protecting your privacy when you visit our web-sites [www.rollApp.com](https://www.rollapp.com/) or [rollMyFile.com](https://rollmyfile.com/) and use our online or other services ("Services"). In this policy we explain how and why we collect your information, what we do with it and what controls you have over our use of it.
 
