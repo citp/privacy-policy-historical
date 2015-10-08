@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hee.nhs.uk privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609020254id_/http%3A//hee.nhs.uk/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hee.nhs.uk privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008033417id_/http%3A//hee.nhs.uk/privacy-and-cookies) for the most accurate reproduction.*
 
 # Health Education England » Privacy and cookies
 
