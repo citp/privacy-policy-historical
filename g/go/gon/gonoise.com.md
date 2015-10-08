@@ -1,100 +1,106 @@
-> *The following text is extracted and transformed from the gonoise.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gonoise.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009014401id_/http%3A//gonoise.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+Gonoise.com and its affiliates respect your privacy. This Privacy Policy provides succinctly the manner your data is collected and used by Gonoise.com. You are advised to please read the Privacy Policy carefully. By accessing the services provided by Gonoise.com you agree to the collection and use of your data by Gonoise.com in the manner provided in this Privacy Policy.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+### We want you to
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+  * Feel comfortable using our desktop websites, mobile sites and mobile applications.
+  * Feel secure submitting information to us.
+  * Contact us with your questions or concerns about privacy on this site.
+  * Know that by using our sites/interface you are consenting to the collection of certain data.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-**Information Collection and Use**
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+### What information is, or may be, collected from you?
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+We will automatically receive and collect certain anonymous information in standard usage logs through our Web server, including computer-identification information obtained from "cookies," sent to your browser from a web server cookie stored on your hard drive an IP address, assigned to the computer which you use the domain server through which you access our service the type of computer you're using the type of web browser you're using
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+### We may collect the following personally identifiable information about you and not limited to on our website and mobile sites and mobile applications :
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+  * Name including first and last name.
+  * Primary email address.
+  * Alternate email address.
+  * Mobile phone number and contact details.
+  * ZIP/Postal code.
+  * Financial information (like account or credit card numbers); and
+  * Opinions of features on our websites.
+  * Other information as per our registration process.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+### We may also collect the following information:
 
-**Security**
+  * About the pages you visit/access.
+  * The links you click on our site.
+  * The number of times you access the page.
+  * The number of times you have shopped on our website, mobile site, or mobile applications (apps).
+  * You can terminate your account at any time. However, your information may remain stored in archive on our servers even after the deletion or the termination of your account.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
 
-**Updating Your Information**
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+### Who collects the information?
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+We will collect anonymous traffic information from you when you visit our site/applications (apps). We will collect personally identifiable information about you only as part of a voluntary registration process, on-line survey, or contest or any combination thereof. Our advertisers may collect anonymous traffic information from their own assigned cookies to your browser. The sites/applications contain links to other Web sites/applications. We are not responsible for the privacy practices of such Websites/applications which we do not own, manage or control.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+We use your personal information to:
 
-      iii.      You may call us at: (480) 505-8800
+  * Help us provide personalized features
+  * Tailor our sites, applications to your interest
+  * To get in touch with you when necessary
+  * To provide the services requested by you
+  * To preserve social history as governed by existing law or policy
 
-       iv.      You may fax us at: (480) 505-8844
 
-**Sending Emails**
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+### We use contact information internally to:
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+  * Direct our efforts for product improvement
+  * Contact you as a survey respondent
+  * Notify you if you win any contest; and
+  * Send you promotional materials from our contest sponsors or advertisers.
 
-**Compliance with Laws and Law Enforcement**
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-**Third Party Service Providers**
+### Generally, we use anonymous traffic information to:
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+  * Remind us of who you are in order to deliver to you a better and more personalized service from product offering, advertising and editorial perspectives;
+  * Recognize your access privileges to our Websites, mobile sites and/ or Applications
+  * Track your entries in some of our promotions, sweepstakes and contests to indicate a player's progress through the promotion and to track entries, submissions, and status in prize drawings
+  * Make sure that you don't see the same ad repeatedly
+  * Help diagnose problems with our server
+  * Administer our websites/applications, track your session so that we can understand better how people use our sites/apps/ interfaces.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-**Supplementation of Information**
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+### With whom will your information be shared?
 
-**Contests/Surveys**
+  * We will not use your financial information for any purpose other than to complete a transaction with you.
+  * We do not rent, sell or share your personal information and we will not disclose any of your personally identifiable information to third parties unless:
+  * We have your permission
+  * To provide products or services you've requested
+  * To help investigate, prevent or take action regarding unlawful and illegal activities, suspected fraud, potential threat to the safety or security of any person, violations of Gonoise.com's terms of use or to defend against legal claims
+  * Special circumstances such as compliance with subpoenas, court orders, requests/order, notices from legal authorities or law enforcement agencies requiring such disclosure.
+  * We share your information with advertisers on an aggregate basis only.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-**Tell-A-Friend**
+### What choices are available to you regarding collection, use and distribution of your information?
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+You may change your interests at any time and may opt-in or opt-out of any marketing / promotional / newsletters mailings. Gonoise.com reserves the right to send you certain service related communication, considered to be a part of your Gonoise.com account without offering you the facility to opt-out. You may update your information and change your account settings at any time.
 
-**What Happens to my Personal Information if I Opt Out?**
+Upon request, we will remove/block your personally identifiable information from our database, thereby cancelling your registration. However, your information may remain stored in archive on our servers even after the deletion or the termination of your account.
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+If we plan to use your personally identifiable information for any commercial purposes, we will notify you at the time we collect that information and allow you to opt-out of having your information used for those purposes.
 
-**Transfer of Data Abroad**
+###  What security procedures are in place to protect information from loss, misuse or alteration?
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+  * To protect against the loss, misuse and alteration of the information under our control, we have in place appropriate physical, electronic and managerial procedures. For example, our servers are accessible only to authorized personnel and that your information is shared with respective personnel on need to know basis to complete the transaction and to provide the services requested by you.
+  * Although we will endeavor to safeguard the confidentiality of your personally identifiable information, transmissions made by means of the Internet or telecom or other network/s cannot be made absolutely secure. By using Gonoise.com, you agree that we will have no liability for disclosure of your information due to errors in transmission or unauthorized acts of third parties.
 
-**Changes in Our Practices**
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+### Policy updates
 
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+We reserve the right to change or update this policy at any time by placing a prominent notice on our site. Such changes shall be effective immediately upon posting to this site.
