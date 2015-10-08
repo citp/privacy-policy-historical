@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mardox.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607184737id_/http%3A//mardox.com/index.php%3Fcontent%3Dpublic/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mardox.com privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008131102id_/https%3A//mardox.com/index.php%3Fcontent%3Dpublic/privacypolicy) for the most accurate reproduction.*
 
 # Mardox Main Page
 
