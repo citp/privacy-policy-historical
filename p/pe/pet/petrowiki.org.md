@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petrowiki.org privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316121840id_/http%3A//petrowiki.org/PetroWiki%253APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petrowiki.org privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008114248id_/http%3A//petrowiki.org/PetroWiki%253APrivacy_policy) for the most accurate reproduction.*
 
 # PetroWiki:Privacy policy -
 
