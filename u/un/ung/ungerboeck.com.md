@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ungerboeck.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608065533id_/http%3A//ungerboeck.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ungerboeck.com privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008061522id_/http%3A//ungerboeck.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Ungerboeck Software International
+# Privacy Policy | Ungerboeck Software
 
 **Effective Date: April 25, 2013**
 
