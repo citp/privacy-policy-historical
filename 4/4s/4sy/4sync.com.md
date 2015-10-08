@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4sync.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608055627id_/https%3A//en.4sync.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4sync.com privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008051849id_/https%3A//en.4sync.com/privacy.jsp) for the most accurate reproduction.*
 
 # 4Sync - Privacy
 
@@ -8,8 +8,6 @@ Last Revised: March 7, 2013
 This privacy policy (" **Policy** ") explains how personally identifiable information is collected, used and disclosed by 4Sync Inc. (" **4Sync** ", " **we** " or " **us** ") with respect to your access and use of 4Sync's online file storage and sharing service located at [www.4sync.com](http://www.4sync.com/), (the " **Service** ") and our mobile applications 4Sync Mobile ("Apps" or "App"), so you can make an informed decision about using the Service.
 
 We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on this Policy the date it was last updated. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to review this Policy from time-to-time to make sure that you understand how any personally identifiable information you provide to us or collected about you will be used.
-
-4Sync Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact our [support](https://web.archive.org/web/helpCenter) or contact us at 2670 Leavenworth, San Francisco, California. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). The TRUSTe certification does not cover information that may be collected through software downloaded from the site.
 
 ## What Is Personal Information?
 
@@ -107,4 +105,5 @@ You may "opt out" of receiving marketing or promotional emails from us by follow
 
 If you have any questions about this Policy, please contact our [support](https://web.archive.org/web/helpCenter) or contact us via postal mail at [4sync.com](http://www.4sync.com/), 2670 Leavenworth St., Ste. #E, San Francisco, CA 94109.
 
-[ ](https://privacy.truste.com/privacy-seal/New-It-Solutions-LTD-/validation?rid=02b5d674-662b-4fff-8284-cb08d1345af4 "TRUSTe online privacy certification")
+  
+
