@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pleaseignore.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318200630id_/https%3A//forum.pleaseignore.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pleaseignore.com privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008145711id_/https%3A//forum.pleaseignore.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Test Forums Please Ignore
 
