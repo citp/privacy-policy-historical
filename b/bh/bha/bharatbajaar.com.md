@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bharatbajaar.com privacy policy that was archived on 2015-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150522011653id_/http%3A//bharatbajaar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bharatbajaar.com privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008134314id_/http%3A//www.bharatbajaar.com/privacy-policy) for the most accurate reproduction.*
 
 # Bharat Bajaar. Privacy Policy
 
