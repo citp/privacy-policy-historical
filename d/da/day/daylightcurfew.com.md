@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the daylightcurfew.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609220925id_/http%3A//www.daylightcurfew.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daylightcurfew.com privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008220919id_/http%3A//www.daylightcurfew.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Daylight Curfew
 
-We respect your privacy and do not sell any of your information to third parties. 
+We respect your privacy and do not sell any of your information to third parties.
 
 **What information do we collect?**
 
-We collect information from you when you register on our site, place an order or subscribe to our newsletter. 
+We collect information from you when you register on our site, place an order or subscribe to our newsletter.  If you choose to opt in.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
@@ -25,8 +25,7 @@ Any of the information we collect from you may be used in one of the following w
 
 ; To process transactions
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
-
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.   
 ; To send periodic emails
 
 The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
@@ -67,7 +66,7 @@ This online privacy policy applies only to information collected through our web
 
  **Your Consent**
 
-By using our site, you consent to our [web site privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our [privacy policy](http://www.freeprivacypolicy.com/).
 
  **Changes to our Privacy Policy**
 
