@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldsciencefestival.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504090823id_/http%3A//www.worldsciencefestival.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldsciencefestival.com privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008163938id_/http%3A//www.worldsciencefestival.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - World Science Festival
 
