@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astrogems.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608002414id_/http%3A//www.astrogems.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrogems.com privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008025848id_/http%3A//www.astrogems.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Astrogems Privacy Policy
 
@@ -23,7 +23,7 @@ What About "Cookies"?
 "Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Our cookies do not contain any personally identifying information or credit card numbers, but they do enable us to provide features such as 1-Click shopping and to store items in your shopping cart between visits. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that. Even without a cookie, you can still use most of the features in our store, including placing items in your shopping cart and purchasing them. 
 
 Will Astrogems Disclose the Information it Collects to Outside Parties?   
-Astrogems does not sell, trade, or rent your personal information to others. We may choose to do so in the future with trustworthy third parties, but you can tell us not to by sending a blank e-mail message to info@astrogems.com. (If you use more than one e-mail address to shop with us, send this message from each e-mail account you use.) Also, Astrogems may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personally identifying information. 
+Astrogems does not sell, trade, or rent your personal information to others. We may choose to do so in the future with trustworthy third parties, but you can tell us not to by sending a blank e-mail message to askastrogems@gmail.com. (If you use more than one e-mail address to shop with us, send this message from each e-mail account you use.) Also, Astrogems may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personally identifying information. 
 
 In Summary   
 We are committed to protecting your privacy. We use the information we collect on the site to make shopping at Astrogems possible and to enhance your overall shopping experience. We do not sell, trade, or rent your personal information to others. We may choose to do so in the future with trustworthy third parties, but you can tell us not to by sending us an e-mail message.
@@ -32,4 +32,4 @@ Your Consent
 By using our Web site, you consent to the collection and use of this information by Astrogems. If we decide to change our privacy policy, we will post those changes on this page, so you are always aware of what information we collect, how we use it and under what circumstances we disclose it. 
 
 Tell Us What You Think  
-Astrogems welcomes your questions and comments about privacy. Please e-mail us at [info@astrogems.com](mailto:askastrogems@gmail.com).
+Astrogems welcomes your questions and comments about privacy. Please e-mail us at [askastrogems@gmail.com](mailto:askastrogems@gmail.com).
