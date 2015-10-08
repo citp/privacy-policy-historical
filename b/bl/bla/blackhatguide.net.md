@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackhatguide.net privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507080740id_/http%3A//www.blackhatguide.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackhatguide.net privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009004848id_/http%3A//www.blackhatguide.net/privacypolicy.html) for the most accurate reproduction.*
 
 # BlackHatGuide - BlackhatGuide Privacy Policy
 
