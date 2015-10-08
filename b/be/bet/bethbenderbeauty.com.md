@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bethbenderbeauty.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608051920id_/http%3A//bethbenderbeauty.com/legal%3F___store%3Ddefault) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bethbenderbeauty.com privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008154641id_/http%3A//bethbenderbeauty.com/legal%3F___store%3Ddefault) for the most accurate reproduction.*
 
 # Privacy Policy and Legal Disclaimer
 
@@ -57,6 +57,10 @@ The only personal information our bethbenderbeauty.com cookie can contain is inf
 As stated above, you must enable your Web browser to permit cookies to be accepted for bethbenderbeauty.com to function correctly. If you are concerned about information contained in your bethbenderbeauty.com cookie, you may delete the file(s) at the end of each browser session. View your browser's help file for more information on cookies.
 
 Click-stream data is information that describes the page-by-page paths you take as you browse through our websites. Using cookies, we may track and store this information to help us positively customize your shopping experience. We may use click-stream data in the aggregate to provide improved services to groups of shoppers who behave similarly. We may also use it on an individual basis to improve your specific shopping experience.
+
+**RETURNS**  & **REFUNDS**
+
+We do not accept returns or refunds on any **beth bender beauty**  products once they have been shipped. This includes **PayPal** as well. Especially our custom blended products that are made to order. If your product should arrive damaged, we will replace them free of charge but a shipping fee equivalent to the original price of shipment from purchase and a $2.00 restocking fee per item will apply (we require photos from the customer of their items as well as the packaging). You will have 30 days from the date delivered to return any damaged shadows or product, and 14 days from the date of delivery to file a claim for missing items. Any sale items or promotional items purchased online are final sales. 
 
 **Communications From bethbenderbeauty.com and Other Companies:**
 
