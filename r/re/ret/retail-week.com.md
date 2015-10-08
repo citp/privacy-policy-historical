@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retail-week.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627041453id_/http%3A//www.retail-week.com/section1.aspx%3FnavCode%3D326) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retail-week.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009002013id_/http%3A//www.retail-week.com/section1.aspx%3FnavCode%3D326) for the most accurate reproduction.*
 
 # Privacy Policy | Retail Week
 
