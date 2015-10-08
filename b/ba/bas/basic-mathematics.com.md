@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the basic-mathematics.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316212647id_/http%3A//www.basic-mathematics.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basic-mathematics.com privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008063308id_/http%3A//www.basic-mathematics.com/privacy-policy.html) for the most accurate reproduction.*
 
 # www.basic-mathematics.com's Privacy Policy
 
@@ -61,46 +61,4 @@ If you do not agree to basic-mathematics.com Privacy Policy as posted here on th
 
 Your use of this site indicates acceptance of this privacy policy. 
 
-* * *
-
-[](http://www.copyscape.com/)   
-
-
-[Whole numbers](http://www.basic-mathematics.com/whole-numbers.html)
-    Learn how to add, subtract, multiply, divide, find place value, and round whole numbers.
-[Basic mathematics disclaimer](http://www.basic-mathematics.com/basic-mathematics-disclaimer.html)
-    Basic mathematics disclaimer page
-[Basic Math](http://www.basic-mathematics.com/basic-math.html)
-    If you want to learn basic math, you have come to the right place.
-[Exponents](http://www.basic-mathematics.com/exponents.html)
-    To learn a great deal about exponents and their properties
-[Integers](http://www.basic-mathematics.com/integers.html)
-    This lessons presents integers on a number line .
-[Pythagorean theorem](http://www.basic-mathematics.com/pythagorean-theorem.html)
-    Learn everything you need to know about the pythagorean theorem right here.
-[Math websites](http://www.basic-mathematics.com/math-websites.html)
-    Great math websites to satisfy all of your educational needs in mathematics.
-[Number Theory](http://www.basic-mathematics.com/number-theory.html)
-    My website will teach you the basic of number theory. Factors,multiples, prime and composite numbers....
-[Basic math site search](http://www.basic-mathematics.com/basic-math-site-search.html)
-    Search this site or the web to find anything your about basic math..
-[Help with basic math](http://www.basic-mathematics.com/help-with-basic-math.html)
-    Need help with basic math? Do you have math anxiety? Visit my website
-[Percents](http://www.basic-mathematics.com/percents.html)
-    Learn about the mathematics involved in working with percents
-[Ratio and Proportion](http://www.basic-mathematics.com/ratio-and-proportion.html)
-    A solid and real life introduction to ratio and proportion
-[Basic math word problems](http://www.basic-mathematics.com/basic-math-word-problems.html)
-    Learn about a wide variety of real life basic math word problems
-[Graphing](http://www.basic-mathematics.com/graphing.html)
-    graphing equalities, inequalities, and solutions of equalities and inequalities.
-[Straightedge and compass](http://www.basic-mathematics.com/straightedge-and-compass.html)
-    Learn a variety of constructions using only straightedge and compass.
-[Common geometry formulas](http://www.basic-mathematics.com/common-geometry-formulas.html)
-    This lesson provides the common geometry formulas of some basic geometry figures such as rectangle, rhombus, circle, ...
-[Basic mathematics games](http://www.basic-mathematics.com/basic-mathematics-games.html)
-    A variety of basic mathematics games that will really help you sharpen your basic mathematics skills with unlimited practices.
-[Basic mathematics worksheets](http://www.basic-mathematics.com/basic-mathematics-worksheets.html)
-    A great source of good basic mathematics worksheets readily available to print for free. Some worksheets come with answers
-[Sequences and patterns](http://www.basic-mathematics.com/sequences-and-patterns.html)
-    Learn sequences and patterns. The topic is introduced with a crystal clear yet challenging lesson
+[](http://www.copyscape.com/)
