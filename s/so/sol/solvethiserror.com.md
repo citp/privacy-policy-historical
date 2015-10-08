@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solvethiserror.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607172546id_/http%3A//www.solvethiserror.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solvethiserror.com privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008050924id_/http%3A//www.solvethiserror.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - SolveThisError.com
 
