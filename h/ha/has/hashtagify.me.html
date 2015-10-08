@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hashtagify.me privacy policy that was archived on 2015-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150628003756id_/http%3A//hashtagify.me/explorer/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hashtagify.me privacy policy that was archived on 2015-10-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151008205313id_/http%3A//hashtagify.me/explorer/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html itemscope="" itemtype="http://schema.org/Website"><!--prefix="og: http://ogp.me/ns#"--><head>
   <meta charset="UTF-8">
@@ -23,7 +23,7 @@
 
   <script type="text/javascript" src="//www.google.com/jsapi"></script>
 
-  <link href="http://d2bsn9sp5cxln0.cloudfront.net/assets/application-02db026f64228a943e9420264825a35e.css" media="screen" rel="stylesheet" type="text/css">
+  <link href="http://d2bsn9sp5cxln0.cloudfront.net/assets/application-1d9709190d7f883a0de4ffa7c004b940.css" media="screen" rel="stylesheet" type="text/css">
 
   <link href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.8/themes/smoothness/jquery-ui.css" media="screen" rel="stylesheet" type="text/css">
 
@@ -32,12 +32,12 @@
   <script src="/assets/hashtagify/arbor-main.js"></script>
 
 
-  <script src="http://d2bsn9sp5cxln0.cloudfront.net/assets/hashtagify/hashtagify-main-14888cbc3b37b84c84c36cfe744017ba.js" type="text/javascript"></script>
+  <script src="http://d2bsn9sp5cxln0.cloudfront.net/assets/hashtagify/hashtagify-main-66c22325200fb3f8af112d8660f22bc1.js" type="text/javascript"></script>
 
   <script src="http://d2bsn9sp5cxln0.cloudfront.net/assets/select2/select2.min-40b83282aa5eaee1c3fd1f8ac9030a91.js" type="text/javascript"></script>
 
   <meta content="authenticity_token" name="csrf-param">
-<meta content="ZUztIGlc/XkwWGIrDiFwrrWOea5fc9wjlr8zDy5D+L0=" name="csrf-token">
+<meta content="n5vCdDeJiDudt6vaPM1431VjkzfHCzYd6dtpFdYEWVY=" name="csrf-token">
 
   <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
 
@@ -115,10 +115,10 @@
       <!--<h3></h3>-->
 
       <ul>
-          <li><a href="javascript:" onclick="g_app.signUp(null, null, 'Sign Up Free to Manage Your Hashtags', function(){window.location.href='/explorer/my_hashtags'})"><i class="ui_icon_empty"></i>&nbsp; My Hashtags</a></li>
+          <li><a href="javascript:" onclick="g_app.signUp(null, null, 'Sign Up Free to Manage Your Hashtags', function(){Hashtagify.log('goal','free_signup_from_header_menu_my_hashtags_completed');window.location.href='/explorer/my_hashtags'})"><i class="ui_icon_empty"></i>&nbsp; My Hashtags</a></li>
         <li><a href="/" class="js_menu_find_hashtag"><i class="ui_icon_empty"></i>&nbsp; Find Hashtags</a></li>
         <li><a href="/popular"><i class="ui_icon_empty"></i>&nbsp; Popular Hashtags</a></li>
-          <li><a href="javascript:" onclick="g_app.signUp(null, null, 'Sign Up Free to Manage Your Definition', function(){window.location.href='/my/definitions'})"><i class="ui_icon_empty"></i>&nbsp; My Definitions</a></li>
+          <li><a href="javascript:" onclick="g_app.signUp(null, null, 'Sign Up Free to Manage Your Definition', function(){Hashtagify.log('goal','free_signup_from_header_menu_my_definitions_completed');window.location.href='/my/definitions'})"><i class="ui_icon_empty"></i>&nbsp; My Definitions</a></li>
 
           <li><a href="/explorer/presentation_daily_inspiration?source=hashtagify_menu"><i class="ui_icon_cafe"></i>&nbsp; My Daily Suggestions <span class="hashtagify_menu_pro">pro</span></a></li>
           <li><a href="/explorer/presentation_hashtags_lab?source=hashtagify_menu"><i class="ui_icon_hashtag_analysis"></i>&nbsp; Hashtags Lab <span class="hashtagify_menu_pro">pro</span></a></li>
@@ -245,7 +245,7 @@
 
 <script type="text/javascript" charset="utf-8">
 
-  var g_header_menu_pro_link_style = {"anchor_class":"pro_text","remove_element":"span.hashtagify_menu_pro"};
+  var g_header_menu_pro_link_style = {"anchor_class":"","remove_element":""};
 
   $(function(){
     // apply header menu pro link style test
@@ -253,7 +253,7 @@
       $('#header ' + g_header_menu_pro_link_style.remove_element).parent().addClass(g_header_menu_pro_link_style.anchor_class);
     }
     if (g_header_menu_pro_link_style.remove_element.length > 0) {
-      $('#header ' + g_header_menu_pro_link_style.remove_element).remove();
+      $('#header ' + g_header_menu_pro_link_style.remove_element).hide();
     }
 
     var delay;
@@ -399,11 +399,17 @@
 </script>
 
     <div class="stickied_panel stickied_panel_bottom">
+      <div id="assistance_bar" class="assistance_bar"></div>
     </div>
 
     <script type="text/javascript" charset="utf-8">
-      var g_assistance_bar, g_course;
+      var g_assistance_bar, g_course, g_assistance_bar_split_test, g_assistance_bar_map_test;
       $(function(){
+
+        g_assistance_bar_split_test = {"style":"","help_icon_style":"icon-question"};
+
+        g_assistance_bar_map_test = {"show":true};
+
         g_assistance_bar = new AssistanceBarWidget($('#assistance_bar'), false, null, {});
       });
     </script>
@@ -567,7 +573,7 @@
 
   <script type="text/javascript" charset="utf-8">
 
-    g_referer = 'http://hashtagify.me/hashtag/%E5%BE%A1%E5%B6%BD%E5%B1%B1%E5%99%B4%E7%81%AB';
+    g_referer = 'javascript:history.back()';
     g_share_twitter_opt   = {};
     g_share_facebook_opt  = {};
     g_share_pinterest_opt = {};
