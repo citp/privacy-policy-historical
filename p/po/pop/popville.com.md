@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popville.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325025449id_/http%3A//www.popville.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popville.com privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008050138id_/http%3A//www.popville.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PoPville
 
