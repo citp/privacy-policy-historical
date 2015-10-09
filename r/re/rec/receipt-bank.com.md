@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the receipt-bank.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316230341id_/http%3A//www.receipt-bank.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the receipt-bank.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009122240id_/http%3A//www.receipt-bank.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Receipt Bank
 
@@ -30,12 +30,6 @@ Collecting personal information allows Receipt Bank to offer a more customized, 
   * Traffic data
 
 
-
-#### Information in your Receipt Bank account
-
-Your personal data on Receipt Bank is protected by an email address and password login. You are responsible for keeping your password secret, and should be careful to log out of your account after you have finished any given session, especially if you are using a public computer. The security of your personal information is important to us. When you enter sensitive information (such as your name, mailing address, or credit card information) on our registration forms, we encrypt that information using secure socket layer technology (SSL). 
-
-Only employees that need to access personal information (such as customer service representatives) will have access to personal information. Receipt Bank keeps all employees informed and reminded of privacy and security practices. 
 
 #### How your information is secured
 
