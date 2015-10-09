@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amway.in privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609235849id_/http%3A//www.amway.in/shop/content/pagebuilder.aspx/amway-support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amway.in privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009221247id_/http%3A//www.amway.in/shop/content/pagebuilder.aspx/amway-support/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
