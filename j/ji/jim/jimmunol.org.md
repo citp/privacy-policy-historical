@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jimmunol.org privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509034244id_/http%3A//www.jimmunol.org/site/misc/privacypolicy.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jimmunol.org privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009220957id_/http%3A//www.jimmunol.org/site/misc/privacypolicy.xhtml) for the most accurate reproduction.*
 
 # The JI -- Privacy Policy
 
