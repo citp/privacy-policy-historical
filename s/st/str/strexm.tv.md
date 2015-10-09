@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strexm.tv privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608202036id_/http%3A//strexm.tv/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strexm.tv privacy policy that was archived on 2015-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151010002341id_/http%3A//strexm.tv/legal/privacy) for the most accurate reproduction.*
 
 # Strexm - Privacy Policy
 
