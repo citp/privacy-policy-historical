@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the niter.co privacy policy that was archived on 2015-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150403185127id_/http%3A//niter.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niter.co privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009131133id_/http%3A//niter.co/privacy) for the most accurate reproduction.*
 
 # Niter TV | Watch Movies Online for Free HD
 
