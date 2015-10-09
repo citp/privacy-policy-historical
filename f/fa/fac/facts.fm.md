@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the facts.fm privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074657id_/http%3A//www.facts.fm/index.php%3Fpage_id%3D146) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facts.fm privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009192908id_/http%3A//www.facts.fm/index.php%3Fpage_id%3D146) for the most accurate reproduction.*
 
 # Privacy Policy for Facts.FM
 
