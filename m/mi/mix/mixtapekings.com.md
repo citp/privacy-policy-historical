@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the mixtapekings.com privacy policy that was archived on 2015-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150215143438id_/http%3A//www.mixtapekings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixtapekings.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009205131id_/http%3A//www.mixtapekings.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - mixtapekings.com
 
 Mixtapekings.com is committed to protecting your privacy. This Mixtapekings.com Privacy Policy (the “Policy”) applies to all information we learn about or obtain from you when you visit the Mixtapekings.com website (the “Site”). By visiting or accessing the Site, you accept the provisions of this Policy and the provisions of our [Terms of Use](https://web.archive.org/terms-conditions/ "Terms & Conditions").
 
-**Changes**  
+ **Changes**  
 We may modify the provisions of this Policy from time to time. Such changes are effective immediately upon posting to the Site, or such other period as required by applicable law. Please check the Policy regularly for such changes, but in any event your continued access or use of the Site constitutes your acceptance of the provisions of the then-current Policy. The Policy as revised applies to all information gathered or obtained about you at any time.
 
-**What Personal Information Do We Collect?**  
+ **What Personal Information Do We Collect?**  
 Information You Give Us: We receive and store any information you enter on the Site, for example when you register or create an account, purchase products, provide feedback about the Site or provide in any other manner, including personal information such as your name or email address. Of course, you can choose not to provide such information, but then you might not be able to access or use portions of the Site. We may, but are not obligated to, retain the content of any e-mails you send or information or data you provide by other means.
 
 Automated Collection. We automatically receive and store certain types of information whenever you visit the Site, such as the name of the domain and host from which you access the Internet, the IP address of the computer you are using and the browser and operating system you are using; the date and time you access the Site, and the Internet address of the website from which you linked to the Site. We use “cookies” to automatically gather some of this information. A cookie is a small text file that the Site system sends to your computer to collect information about your activities on the Site. The cookie transmits this information back to the Site each time your browser requests a page from the Site, and the information is stored to help facilitate your use of the Site the next time you visit. If you do not want to receive cookies from the Site, you can set your browser to not accept cookies, but then you may not be able to access or use certain portions of the Site.
 
 You may request that we delete or modify your personally identifiable information, such as your name or e-mail address in accordance with our Correct/Update Procedure.
 
-**How Do We Use Information?**  
+ **How Do We Use Information?**  
 We use the information you provide and we collect to:
 
   * Administer, maintain and improve the Site and its operation;
@@ -28,7 +28,7 @@ We use the information you provide and we collect to:
 
 
 
-**To Whom Do We Disclose Information?**  
+ **To Whom Do We Disclose Information?**  
 We do not share your personally identifiable information with third parties, except described below:
 
   * With third parties that perform functions on our behalf, such as processing payments, analyzing data or maintaining and operating the Site and its contents. We do not allow such third parties to use your information for other purposes;
@@ -54,18 +54,18 @@ New York, NY 10033
 
 We reserve the right to verify the identity of any person making such a request; provided that we shall have no liability whatsoever resulting from false or erroneous requests. Personal information collected and transferred to back-up or archival storage may be retained indefinitely. We may also retain any information necessary for our business records and as required under applicable law.
 
-**Links**  
+ **Links**  
 The Site may contain links to other websites, provided for the convenience of our visitors. The Site also carries advertisements for third parties. We make no representations whatsoever regarding such other websites. Mixtapekings has no control over such other websites or the products and services offered by or through sites accessed through links on the Site, including advertisements, even those with which we may have an affiliation. If you decide to access third party sites linked through the Site, including through advertisements, you do so at your own risk. You should review the privacy policies of other websites carefully before providing any information. We are not responsible for the privacy policies or procedures or the content of any other website. No endorsement of third party products, services or information is expressed or implied by any information, material, advertisement or content referred to or included on, or linked from or to the Site.
 
-**Security**  
+ **Security**  
 The Site has reasonable security measures in place to protect against the loss, misuse or alteration of information under our control. While we strive to protect your personal information, we cannot ensure and do not warrant the security of any information or data. Communication via the Internet is not failsafe, and there is always a possibility that data may be lost, or intercepted by unauthorized parties, during transmission or after receipt. You agree that we shall have no liability whatsoever in connection with any lost or intercepted data.
 
 It is your responsibility to keep any password, such as an account password, strictly confidential. Do not share your password with anyone. If you share a computer with anyone, you should always log out of your account before leaving the computer.
 
-**Children**  
+ **Children**  
 The Site is not directed at children under the age of 13. We comply with the Children’s Online Privacy Protection Act and do not knowingly permit submission of personal information by anyone we know to be under 13 years of age.
 
-**Conditions of Use**  
+ **Conditions of Use**  
 Your access and use of the Site is subject to this Policy and the Terms of Use including limitations on damages, arbitration and the applicability of the law of the State of Washington.
 
 Contacting Mixtapekings.com  
