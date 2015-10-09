@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the chargemap.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609014607id_/http%3A//chargemap.com/infos/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chargemap.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009042019id_/http%3A//chargemap.com/infos/legal) for the most accurate reproduction.*
 
 # ChargeMap Privacy policies
 
-[Home page](http://chargemap.com/ "Charging stations for electric vehicles") / [Support](http://chargemap.com/infos/chargemap) / [Legal information](http://chargemap.com/infos/legal)
+[Home page](https://chargemap.com/ "Charging stations for electric vehicles") / [Support](https://chargemap.com/infos/chargemap) / [Legal information](https://chargemap.com/infos/legal)
 
 ## Legal information
 
-Site publisher: The website ChargeMap.com is the property of: [SAABRE SARL](http://www.saabre.com/ "edition de sites web"), 104 rue de Hochfelden 67200 STRASBOURG FRANCE. 
+Site publisher: The website ChargeMap.com is the property of: CHARGEMAP SAS, 104 rue de Hochfelden 67200 STRASBOURG FRANCE. 
 
-SAABRE SARL, Publication director: Yoann NUSSMBAUMER  
-Site designed by: SAABRE SARL  
+CHARGEMAP SAS, Publication director: Yoann NUSSMBAUMER  
+Site designed by: CHARGEMAP SAS  
 Website host: Celeonet SARL, 55 rue Boissonade 75014 PARIS, FRANCE, which has the following phone number : +33 (0)1 40 64 01 32
 
 ## French Data Protection Act
