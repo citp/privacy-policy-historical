@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mybabyclothes.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423043017id_/http%3A//www.youratlantahomesearch.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybabyclothes.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009142315id_/http%3A//www.youratlantahomesearch.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy for The Sanders Team
 
-This privacy policy sets out how “The Sanders Team” uses and protects any information that you give “The Sanders Team” when you use this website. “The Sanders Team” is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. “The Sanders Team” may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 23/4/2015
+This privacy policy sets out how “The Sanders Team” uses and protects any information that you give “The Sanders Team” when you use this website. “The Sanders Team” is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. “The Sanders Team” may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 09/10/2015
 
 **For Everyone, Especially Our Canadian Friends:**  
 (CASL) If you wish to register on this website you are giving expressed consent for us to email, call and text message you. If you do not wish for this type of communication please do not register. 
@@ -46,13 +46,12 @@ Our website may contain links to enable you to visit other websites of interest 
 
 ### About The Sanders Team
 
-  
-El equipo de Sanders de Keller Williams Realty Partners es uno de los equipos de mayor crecimiento en el mercado de Atlanta. Nuestro compromiso con la excelencia y el servicio es inigualable. Nuestro objetivo es aprovechar la tecnología de vanguardia, personal profesional y atento, y el servicio al cliente excepcional a ser el equipo de propiedades inmobiliarias superior en el área de Atlanta. Nuestras avanzadas estrategias de marketing de medios digitales nos permiten maximizar la exposición de Internet para vender casas rápido y por el mejor precio. Nuestro equipo siempre aspira a ser los mejores agentes de bienes raíces en el área de Atlanta y Metro-Atlanta. El equipo de Sanders se especializa en el mercado de bienes raíces Metro-Atlanta Georgia, incluyendo Woodstock, Canton, Roswell, Alpharetta, Milton, Marietta, Atlanta, Cumming, Kennesaw, Acworth, Austell, Ball Ground, Dallas, Duluth, Hiram, Holly Springs, Johns Creek, Mableton, Powder Springs, Sandy Springs, Smyrna, Union City, Waleska, y negro.   
+The Sanders Team of Keller Williams Realty Partners is one of the fastest growing teams in the Atlanta market. Our commitment to excellence and service is unmatched. It is our goal to leverage leading edge technology, professional and responsive staff, and exceptional customer service to be the top real estate team in the Atlanta area. Our advanced digital media marketing strategies enable us to maximize internet exposure to sell homes fast and for top dollar. Our team always aspires to be the best real estate agents in the Atlanta and Metro-Atlanta area. The Sanders Team specializes in the Metro-Atlanta Georgia real estate market, including Woodstock, Canton, Roswell, Alpharetta, Milton, Marietta, Atlanta, Cumming, Kennesaw, Acworth, Austell, Ball Ground, Dallas, Duluth, Hiram, Holly Springs, Johns Creek, Mableton, Powder Springs, Sandy Springs, Smyrna, Union City, Waleska, and White.  
 
 
 ### Testimonials
 
-"Michelle did an excellent job as my realtor when I was looking to purchase a home.She was very professional, knowledgeable, efficient, and organized. I always felt like I was receiving top quality service when working with Michelle. I highly recommend Michelle if you are considering purchasing a home."
+"I offer the unique perspective of working extensively with The Sanders Team as a Lending partner for their clients. I can tell you with all sincerity........Michelle, Greg, Tess, and the whole team are just amazing. Since I work with them behind the scenes on their transactions, I have the "inside scoop" and can tell any prospective client that they are TRULY the utmost Professionals. Their experience, knowledge, work ethic, and care/dedication to their clients IS the reality and I know this first-hand from the side that Buyers/Sellers don't typically see, as opposed to some Realtors who may show good "salesmanship" in person, but don't truly prove it with how they operate behind the scenes. The Team has their processes down and does not miss any details, and nothing slips through the cracks. Most importantly to me, they have a great understanding of the needs/requirements on the financing side as well. As we all know, the vast majority of all homebuyers don't have 100% cash and need a mortgage to buy their home, and obviously NO transactions would ever close without a successful mortgage process. Thus, it's crucial - - as a lender - - to work with Realtors that are equally responsive and dedicated to providing all needs for the mortgage side of the process so that the transaction can be a success, and this is also something The Sanders Team is excellent about. It makes our job as lenders so much easier, which means the financing side of the process also goes all-the-smoother for their clients. Aside from everything above, everyone on the team is extremely personable, easy to get along with, trustworthy, and family-oriented. So I HIGHLY endorse the Team for any needs at all, whether you are a Buyer, Seller, or BOTH!"
 
 ### Saved Properties
 
@@ -62,7 +61,9 @@ This is a list of your favorite properties. We will email you if a property is r
 
 ### Register / Login
 
-New & returning visitors please enter your information to login. [(Privacy Policy)](https://web.archive.org/privacy.php)
+New & returning visitors please enter your information to login.
+
+By clicking 'register' you are agreeing to our [terms of use](https://web.archive.org/terms.php) & giving us expressed written consent to contact you.
 
 ### Questions? Comments? Complaints?
 
@@ -71,7 +72,7 @@ This message will go directly to the head of our team.
 ### Location & Address
 
 The Sanders Team  
-220 Heritage Walk  
+110 Village Trail, Suite 114  
 Woodstock, GA  
 __678-929-5283  
 __678-426-8770
