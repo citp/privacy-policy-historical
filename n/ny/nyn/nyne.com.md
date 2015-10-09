@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nyne.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612084721id_/http%3A//nyne.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyne.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009213616id_/http%3A//www.nyne.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Nyne Multimedia
 
