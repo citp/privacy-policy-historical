@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dll-files.com privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601102553id_/http%3A//www.dll-files.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dll-files.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009124338id_/http%3A//www.dll-files.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy - DLL-files.com
 
 This is the web site of **www.dll-files.com**.
 
-To see the different ways to contact us, [see our About Us section](https://web.archive.org/web/20150601102553id_/http%3A//www.dll-files.com/about.php).
+To see the different ways to contact us, [see our About Us section](https://web.archive.org/web/20151009124338id_/http%3A//www.dll-files.com/about.php).
 
 For each visitor to our Web site, our Web server automatically recognizes and logs such information that your browser sends whenever you make a request form our servers, such as your browser type, Internet Protocol address, browser language, cookie information and date/time of request. We may compile information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations as well as email address and payment information related to a purchase from our web service.
 
@@ -12,9 +12,14 @@ We do not save individual IP addresses or other personally identifiable informat
 
 With respect to cookies:
 
-When you visit our website, we or our service providers may set cookies for webpage optimization and webpage statistics, usage involves analysis of traffic patterns, user trends and behavior. As with all other cookies this means we can identify which browser is visiting us, but no other personally identifiable information, to provide an optimal site experience for our users.
+When you visit our website, we or our service providers and partners may set cookies for webpage optimization, statistics and personalisation, usage of such data may include analysis of traffic pattern, user trends and behavior in aggregate, non-personally identifiable form.
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information such as web cookies (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options about not having this information used for this purpose, [click here](http://www.networkadvertising.org/).
+As with all other cookies this means we can identify which browser is visiting us, but not who is using that browser or any other personally identifiable information.
+
+We use Third party advertisers, such as Google, to analyse traffic and serve ads when you visit our website. These companies may use information and set web cookies about your visits to our and other websites in order to provide ads about goods and services of interest to you.
+
+You may learn more about [Google's Privacy Policy here](http://www.google.com/intl/en/policies/privacy/partners/)  
+If you would like more information about cookie setting and ad serving and would like to know your options about not having this information used for this purpose, [click here](http://www.networkadvertising.org/).
 
 With respect to e-mail addresses:
 
