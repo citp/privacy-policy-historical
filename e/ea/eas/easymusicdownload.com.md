@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easymusicdownload.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609234916id_/http%3A//easymusicdownload.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easymusicdownload.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009222747id_/http%3A//easymusicdownload.com/privacy.asp) for the most accurate reproduction.*
 
 # None
 
