@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the divatress.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610102712id_/http%3A//www.divatress.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divatress.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009142524id_/http%3A//www.divatress.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
