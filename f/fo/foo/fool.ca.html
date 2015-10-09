@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the fool.ca privacy policy that was archived on 2015-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150625084739id_/https%3A//www.fool.ca/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fool.ca privacy policy that was archived on 2015-10-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151009103625id_/http%3A//www.fool.ca/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en-US"><!--<![endif]--><head>
-    <link rel="shortcut icon" href="http://yw553ftvhw1iqegz29fycoyw.wpengine.netdna-cdn.com/wp-content/themes/freesite-theme/favicon.ico">
+    <link rel="shortcut icon" href="https://www.fool.ca/wp-content/themes/freesite-theme/favicon.ico">
     
     <meta charset="UTF-8">
     <link rel="profile" href="http://gmpg.org/xfn/11">
@@ -16,15 +16,111 @@
     <!-- do not remove this comment -->
 
     
-<!-- All in One SEO Pack 2.2.6.2 by Michael Torbert of Semper Fi Web Design[781,834] -->
+<!-- All in One SEO Pack 2.2.6.2 by Michael Torbert of Semper Fi Web Design[782,835] -->
 <meta name="description" itemprop="description" content="The Motley Fool Canada, ULC, (“The Motley Fool”) takes the issue of privacy very seriously and is committed to protecting and respecting your privacy. This">
 
-<link rel="canonical" href="http://www.fool.ca/privacy-policy/">
+<link rel="canonical" href="https://www.fool.ca/privacy-policy/">
 <!-- /all in one seo pack -->
 		<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WNT2RH"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.fool.ca\/wp-includes\/js\/wp-emoji-release.min.js"}};
-			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://www.fool.ca/wp-includes/js/wp-emoji-release.min.js" type="text/javascript"></script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"wpemoji":"https:\/\/www.fool.ca\/wp-includes\/js\/wp-emoji.js","twemoji":"https:\/\/www.fool.ca\/wp-includes\/js\/twemoji.js"}};
+			( function( window, document, settings ) {
+	var src, ready;
+
+	/**
+	 * Detect if the browser supports rendering emoji or flag emoji. Flag emoji are a single glyph
+	 * made of two characters, so some browsers (notably, Firefox OS X) don't support them.
+	 *
+	 * @since 4.2.0
+	 *
+	 * @param type {String} Whether to test for support of "simple" or "flag" emoji.
+	 * @return {Boolean} True if the browser can render emoji, false if it cannot.
+	 */
+	function browserSupportsEmoji( type ) {
+		var canvas = document.createElement( 'canvas' ),
+			context = canvas.getContext && canvas.getContext( '2d' );
+
+		if ( ! context || ! context.fillText ) {
+			return false;
+		}
+
+		/*
+		 * Chrome on OS X added native emoji rendering in M41. Unfortunately,
+		 * it doesn't work when the font is bolder than 500 weight. So, we
+		 * check for bold rendering support to avoid invisible emoji in Chrome.
+		 */
+		context.textBaseline = 'top';
+		context.font = '600 32px Arial';
+
+		if ( type === 'flag' ) {
+			/*
+			 * This works because the image will be one of three things:
+			 * - Two empty squares, if the browser doesn't render emoji
+			 * - Two squares with 'G' and 'B' in them, if the browser doesn't render flag emoji
+			 * - The British flag
+			 *
+			 * The first two will encode to small images (1-2KB data URLs), the third will encode
+			 * to a larger image (4-5KB data URL).
+			 */
+			context.fillText( String.fromCharCode( 55356, 56812, 55356, 56807 ), 0, 0 );
+			return canvas.toDataURL().length > 3000;
+		} else {
+			/*
+			 * This creates a smiling emoji, and checks to see if there is any image data in the
+			 * center pixel. In browsers that don't support emoji, the character will be rendered
+			 * as an empty square, so the center pixel will be blank.
+			 */
+			context.fillText( String.fromCharCode( 55357, 56835 ), 0, 0 );
+			return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
+		}
+	}
+
+	function addScript( src ) {
+		var script = document.createElement( 'script' );
+
+		script.src = src;
+		script.type = 'text/javascript';
+		document.getElementsByTagName( 'head' )[0].appendChild( script );
+	}
+
+	settings.supports = {
+		simple: browserSupportsEmoji( 'simple' ),
+		flag:   browserSupportsEmoji( 'flag' )
+	};
+
+	settings.DOMReady = false;
+	settings.readyCallback = function() {
+		settings.DOMReady = true;
+	};
+
+	if ( ! settings.supports.simple || ! settings.supports.flag ) {
+		ready = function() {
+			settings.readyCallback();
+		};
+
+		if ( document.addEventListener ) {
+			document.addEventListener( 'DOMContentLoaded', ready, false );
+			window.addEventListener( 'load', ready, false );
+		} else {
+			window.attachEvent( 'onload', ready );
+			document.attachEvent( 'onreadystatechange', function() {
+				if ( 'complete' === document.readyState ) {
+					settings.readyCallback();
+				}
+			} );
+		}
+
+		src = settings.source || {};
+
+		if ( src.concatemoji ) {
+			addScript( src.concatemoji );
+		} else if ( src.wpemoji && src.twemoji ) {
+			addScript( src.twemoji );
+			addScript( src.wpemoji );
+		}
+	}
+
+} )( window, document, window._wpemojiSettings );
+		</script><script src="https://www.fool.ca/wp-includes/js/twemoji.js" type="text/javascript"></script><script src="https://www.fool.ca/wp-includes/js/wp-emoji.js" type="text/javascript"></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -39,11 +135,11 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="contact-form-7-css" href="http://yw553ftvhw1iqegz29fycoyw.wpengine.netdna-cdn.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.8.1" type="text/css" media="all">
-<link rel="stylesheet" id="normalize-css" href="http://s.canada.foolcdn.com/vendor/bower-asset/foundation/css/normalize.css?ver=e8edff8202fb" type="text/css" media="all">
-<link rel="stylesheet" id="foundation-styles-css" href="http://s.canada.foolcdn.com/vendor/bower-asset/foundation/css/foundation.min.css?ver=e8edff8202fb" type="text/css" media="all">
-<link rel="stylesheet" id="parent-style-css" href="http://yw553ftvhw1iqegz29fycoyw.wpengine.netdna-cdn.com/wp-content/themes/freesite-theme/style.css?ver=e8edff8202fb" type="text/css" media="all">
-<link rel="stylesheet" id="child-style-css" href="http://yw553ftvhw1iqegz29fycoyw.wpengine.netdna-cdn.com/wp-content/themes/foolcamf-theme/style.css?ver=e8edff8202fb" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="https://www.fool.ca/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.8.1" type="text/css" media="all">
+<link rel="stylesheet" id="normalize-css" href="https://d1f4mw0udaotel.cloudfront.net/vendor/bower-asset/foundation/css/normalize.css?ver=c403f1de4b7c" type="text/css" media="all">
+<link rel="stylesheet" id="foundation-styles-css" href="https://d1f4mw0udaotel.cloudfront.net/vendor/bower-asset/foundation/css/foundation.min.css?ver=c403f1de4b7c" type="text/css" media="all">
+<link rel="stylesheet" id="parent-style-css" href="https://www.fool.ca/wp-content/themes/freesite-theme/style.css?ver=c403f1de4b7c" type="text/css" media="all">
+<link rel="stylesheet" id="child-style-css" href="https://www.fool.ca/wp-content/themes/foolcamf-theme/style.css?ver=c403f1de4b7c" type="text/css" media="all">
 <script type="text/javascript">
 				var _wdsb_data = {
 					"min_width": 1200,
@@ -58,21 +154,21 @@ img.emoji {
 				};
 			</script><script type="text/javascript">
 /* <![CDATA[ */
-var MyAjax = {"ajaxurl":"http:\/\/www.fool.ca\/wp-admin\/admin-ajax.php","hoaAjaxUrl":"https:\/\/secure.vindicia.com\/vws.html"};
+var MyAjax = {"ajaxurl":"https:\/\/www.fool.ca\/wp-admin\/admin-ajax.php","hoaAjaxUrl":"https:\/\/secure.vindicia.com\/vws.html"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://j.canada.foolcdn.com/vendor/bower-asset/foundation/js/vendor/modernizr.js?ver=e8edff8202fb"></script>
-<script type="text/javascript" src="http://j.canada.foolcdn.com/vendor/bower-asset/jquery/dist/jquery.min.js?ver=e8edff8202fb"></script>
-<script type="text/javascript" src="http://j.canada.foolcdn.com/wp-content/common-javascript/responsive-tables.js?ver=e8edff8202fb"></script>
-<script type="text/javascript" src="http://j.canada.foolcdn.com/vendor/bower-asset/jquery.cookie/jquery.cookie.js?ver=e8edff8202fb"></script>
-<script type="text/javascript" src="http://j.canada.foolcdn.com/wp-content/common-javascript/Jquery/jquery-url.js?ver=e8edff8202fb"></script>
+<script type="text/javascript" src="https://d1ivfslc5atlci.cloudfront.net/vendor/bower-asset/foundation/js/vendor/modernizr.js?ver=c403f1de4b7c"></script>
+<script type="text/javascript" src="https://d1ivfslc5atlci.cloudfront.net/vendor/bower-asset/jquery/dist/jquery.min.js?ver=c403f1de4b7c"></script>
+<script type="text/javascript" src="https://d1ivfslc5atlci.cloudfront.net/wp-content/common-javascript/responsive-tables.js?ver=c403f1de4b7c"></script>
+<script type="text/javascript" src="https://d1ivfslc5atlci.cloudfront.net/vendor/bower-asset/jquery.cookie/jquery.cookie.js?ver=c403f1de4b7c"></script>
+<script type="text/javascript" src="https://d1ivfslc5atlci.cloudfront.net/wp-content/common-javascript/Jquery/jquery-url.js?ver=c403f1de4b7c"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var SiteInfo = {"envhost":"http:\/\/www.fool.ca","domain":".fool.ca","brandCode":"camf","appId":"174829003346","memberSupportEmail":"MEMBERSUPPORT_EMAIL"};
+var SiteInfo = {"envhost":"https:\/\/www.fool.ca","domain":".fool.ca","brandCode":"camf","appId":"174829003346","memberSupportEmail":"MEMBERSUPPORT_EMAIL"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://j.canada.foolcdn.com/wp-content/common-javascript/Fool/Base.js?ver=e8edff8202fb"></script>
-<script type="text/javascript" src="http://j.canada.foolcdn.com/wp-content/themes/foolcamf-theme/javascript/Theme.js?ver=e8edff8202fb"></script>
+<script type="text/javascript" src="https://d1ivfslc5atlci.cloudfront.net/wp-content/common-javascript/Fool/Base.js?ver=c403f1de4b7c"></script>
+<script type="text/javascript" src="https://d1ivfslc5atlci.cloudfront.net/wp-content/themes/foolcamf-theme/javascript/Theme.js?ver=c403f1de4b7c"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var platform = "html5-priority";
@@ -81,13 +177,13 @@ var callback = "receiveOoyalaEvent";
 /* ]]> */
 </script>
 <script type="text/javascript" src="//player.ooyala.com/v3/ZDU4ODAzNWE2Y2Q3MWQxOTFlNjYwNTQx"></script>
-<script type="text/javascript" src="http://j.canada.foolcdn.com/vendor/bower-asset/foundation/js/foundation.min.js?ver=e8edff8202fb"></script>
-<script type="text/javascript" src="http://j.canada.foolcdn.com/wp-content/common-javascript/Fool/UserInfoWorker.js?ver=e8edff8202fb"></script>
-<script type="text/javascript" src="http://j.canada.foolcdn.com/vendor/bower-asset/angular/angular.min.js?ver=e8edff8202fb"></script>
-<script type="text/javascript" src="http://j.canada.foolcdn.com/vendor/bower-asset/angular-resource/angular-resource.min.js?ver=e8edff8202fb"></script>
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.fool.ca/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.fool.ca/wp-includes/wlwmanifest.xml"> 
-<link rel="shortlink" href="http://www.fool.ca/?p=533">
+<script type="text/javascript" src="https://d1ivfslc5atlci.cloudfront.net/vendor/bower-asset/foundation/js/foundation.min.js?ver=c403f1de4b7c"></script>
+<script type="text/javascript" src="https://d1ivfslc5atlci.cloudfront.net/wp-content/common-javascript/Fool/UserInfoWorker.js?ver=c403f1de4b7c"></script>
+<script type="text/javascript" src="https://d1ivfslc5atlci.cloudfront.net/vendor/bower-asset/angular/angular.min.js?ver=c403f1de4b7c"></script>
+<script type="text/javascript" src="https://d1ivfslc5atlci.cloudfront.net/vendor/bower-asset/angular-resource/angular-resource.min.js?ver=c403f1de4b7c"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.fool.ca/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.fool.ca/wp-includes/wlwmanifest.xml"> 
+<link rel="shortlink" href="https://www.fool.ca/?p=533">
 <link href="https://plus.google.com/109845075744528484168" rel="publisher">    <script>
         dataLayer = [];
 
@@ -123,7 +219,19 @@ var callback = "receiveOoyalaEvent";
 
     </script>
 
-       
+    
+    <!--
+    Facebook Open Graph meta tags which may or may not be useful.
+    This might get comment moderation working for instance as suggested here
+    http://stackoverflow.com/questions/9120814/comments-plugin-moderation-tool-not-working
+    If useful, move to a plugin and get the picture from the article.
+    -->
+    <meta property="og:url" content="/privacy-policy/">
+    <meta property="og:title" content=" » Privacy Policy">
+    <meta property="og:image" content="http://g.foolcdn.com/art/fool15/bg/fool-logo.png">
+    <meta property="og:description" content="Investors helping investors">
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="The Motley Fool">
 </head>
 
 <body class="page page-id-533 page-template-default">
@@ -137,7 +245,19 @@ var callback = "receiveOoyalaEvent";
 })(window,document,'script','dataLayer','GTM-WNT2RH');</script>
 <!-- End Google Tag Manager -->
 
-<div id="fb-root"></div>
+<!-- Google Tag Manager -->
+<noscript><iframe src="https://www.google-analytics.com/gtm/ns?id=GTM-NTVB5K"
+style="display:none;visibility:hidden" height="0" width="0"></iframe>
+</noscript><script>(function(p,a,l,i,n,d,r,o,m,e){r={id:'GTM-NTVB5K',l:'dataLayer',m:'sync'};
+if(!r.gac){o=/;((__utma=)|([^;=]+=GAX?\d+.))[^;]/g;m=l.cookie.replace(
+/^|(; +)/g,';').match(o);if(m)r.gac=m.sort().join('').substring(1)};e=
+'https://www.google-analytics.com/gtm/js?';r.m=='sync'||(p['event']='gtm.js');
+for(d in r)if(r.hasOwnProperty(d))e+=n(d)+'='+n(r[d])+'&';a[r.l]=a[r.l]||[];
+a[r.l].push(p);if(r.m=='sync'){l.write('<'+i+' src="'+e+'"><\/'+i+'>');}else{
+j=l.createElement(i);j.async=!0;j.src=e;f=l.getElementsByTagName(i)[0];
+f.parentNode.insertBefore(j,f);}})({'gtm.start':1new Date()},window,document,
+'script',encodeURIComponent);</script>
+<!-- End Google Tag Manager -->
 
 <header class="global-page-top">
     <div id="tophat">
@@ -145,7 +265,7 @@ var callback = "receiveOoyalaEvent";
             <nav data-topbar="">
                 <section class="top-bar-section">
                     <ul id="site-nav" class="left">
-                        <li class="countryIcon topIcon has-dropdown"><a class="select" href="http://www.fool.ca/">Fool Canada</a><ul class="dropdown"><li class="countryIcon countryCAIcon show-for-medium-down"><a href="http://www.fool.ca">Fool Canada</a></li><li class="countryIcon countryAUIcon"><a href="http://www.fool.com.au">Fool Australia</a></li><li class="countryIcon countryDEIcon"><a href="http://www.fool.de">Fool Deutschland</a></li><li class="countryIcon countrySGIcon"><a href="http://www.fool.sg">Fool Singapore</a></li><li class="countryIcon countryGBIcon"><a href="http://www.fool.co.uk">Fool UK</a></li><li class="countryIcon countryUSIcon"><a href="http://www.fool.com">Fool US</a></li></ul></li>                    </ul>
+                        <li class="country-icon topIcon has-dropdown"><a class="select" href="http://www.fool.ca/">Fool Canada</a><ul class="dropdown"><li class="country-icon countryCAIcon show-for-medium-down"><a href="http://www.fool.ca">Fool Canada</a></li><li class="country-icon countryAUIcon"><a href="http://www.fool.com.au">Fool Australia</a></li><li class="country-icon countryDEIcon"><a href="http://www.fool.de">Fool Deutschland</a></li><li class="country-icon countrySGIcon"><a href="http://www.fool.sg">Fool Singapore</a></li><li class="country-icon countryGBIcon"><a href="http://www.fool.co.uk">Fool UK</a></li><li class="country-icon countryUSIcon"><a href="http://www.fool.com">Fool US</a></li></ul></li>                    </ul>
                                         <p class="right">
                         <span class="medLtGray">Welcome Fool</span>
                         <a href="https://www.fool.ca/wp-login.php">Log in</a>                    </p>  
@@ -159,14 +279,14 @@ var callback = "receiveOoyalaEvent";
 <div id="main-header">
     <div class="row">
         <div class="small-12 medium-8 large-8 columns">
-            <a href="http://www.fool.ca/" title="The Motley Fool Canada" rel="home">
-                <img class="site-logo" src="http://g.canada.foolcdn.com/wp-content/common-images/TMFLogo_CAMF.png" alt="The Motley Fool">
+            <a href="https://www.fool.ca/" title="The Motley Fool Canada" rel="home">
+                <img class="site-logo" src="https://www.fool.ca/wp-content/common-images/TMFLogo_CAMF.svg" alt="The Motley Fool">
             </a>
         </div>
         <div class="hide-for-small">
             <div class="row" id="search">
     <div class="small-12 medium-4 large-4 columns">
-    	<form method="get" id="searchform" action="http://www.fool.ca/"> 
+    	<form method="get" id="searchform" action="https://www.fool.ca/"> 
     		<input type="text" name="s" id="s" placeholder="Enter Keywords">
     		<button type="submit" class="small radius" name="submit" id="searchSubmit">Search</button>
     	</form> 
@@ -175,27 +295,28 @@ var callback = "receiveOoyalaEvent";
         </div>
     </div>
     <!--End of row-->
-    <div class="row">
-        <div id="main-menu" class="large-12 columns">
-            <nav class="top-bar" data-topbar="" data-options="mobile_show_parent_link: true;">
-                <ul class="title-area">
-                    <li class="name"></li> <!-- required or mobile menu link disappears -->
-                    <li class="toggle-topbar menu-icon"><a href="#">Menu</a></li>
-                </ul>
-                <section class="top-bar-section">
-                    <!-- Right Nav Section -->
-                    <ul id="menu-main-menu" class="left nav-bar"><li id="menu-item-21" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-dropdown has-dropdown menu-item-21"><a href="/">Home</a>
+    <div id="top-nav">
+        <div class="row">
+            <div id="main-menu" class="large-12 columns">
+                <nav class="top-bar" data-topbar="" data-options="mobile_show_parent_link: true;">
+                    <ul class="title-area">
+                        <li class="name"></li> <!-- required or mobile menu link disappears -->
+                        <li class="toggle-topbar menu-icon"><a href="#">Menu</a></li>
+                    </ul>
+                    <section class="top-bar-section">
+                        <!-- Right Nav Section -->
+                        <ul id="menu-main-menu" class="left nav-bar"><li id="menu-item-21" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-dropdown has-dropdown menu-item-21"><a href="/">Home</a>
 <ul class="dropdown">
-	<li id="menu-item-520" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-520"><a href="http://www.fool.ca/about-us/">About Us</a></li>
+	<li id="menu-item-520" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-520"><a href="https://www.fool.ca/about-us/">About Us</a></li>
 </ul>
 </li>
-<li id="menu-item-697" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-697"><a href="http://www.fool.ca/recent-headlines/">Recent Headlines</a></li>
-<li id="menu-item-515" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-515"><a href="http://www.fool.ca/13-steps-to-financial-freedom/">How To Invest</a></li>
-<li id="menu-item-511" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has-dropdown has-dropdown menu-item-511"><a href="http://www.fool.ca/your-money/">Your Money</a>
+<li id="menu-item-697" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-697"><a href="https://www.fool.ca/recent-headlines/">Recent Headlines</a></li>
+<li id="menu-item-515" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-515"><a href="https://www.fool.ca/13-steps-to-financial-freedom/">How To Invest</a></li>
+<li id="menu-item-511" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has-dropdown has-dropdown menu-item-511"><a href="https://www.fool.ca/your-money/">Your Money</a>
 <ul class="dropdown">
-	<li id="menu-item-512" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-512"><a title="How-To Guides" href="http://www.fool.ca/your-money/how-to-guides/">How-To Guides</a></li>
-	<li id="menu-item-513" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-513"><a href="http://www.fool.ca/your-money/get-it-done/">Get It Done</a></li>
-	<li id="menu-item-514" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-514"><a href="http://www.fool.ca/your-money/60-second-guides/">60-Second Guides</a></li>
+	<li id="menu-item-512" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-512"><a title="How-To Guides" href="https://www.fool.ca/your-money/how-to-guides/">How-To Guides</a></li>
+	<li id="menu-item-513" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-513"><a href="https://www.fool.ca/your-money/get-it-done/">Get It Done</a></li>
+	<li id="menu-item-514" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-514"><a href="https://www.fool.ca/your-money/60-second-guides/">60-Second Guides</a></li>
 </ul>
 </li>
 <li id="menu-item-4534" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-dropdown has-dropdown menu-item-4534"><a title="Stock Advisor Canada" href="/stock-advisor/">Stock Advisor Canada</a>
@@ -209,19 +330,19 @@ var callback = "receiveOoyalaEvent";
 	<li id="menu-item-34218" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34218"><a href="/pro/">Login</a></li>
 </ul>
 </li>
-</ul>                    <div class="show-for-small">
-                        <div class="row" id="search">
+</ul>                        <div class="show-for-small">
+                            <div class="row" id="search">
     <div class="small-12 medium-4 large-4 columns">
-    	<form method="get" id="searchform" action="http://www.fool.ca/"> 
+    	<form method="get" id="searchform" action="https://www.fool.ca/"> 
     		<input type="text" name="s" id="s" placeholder="Enter Keywords">
     		<button type="submit" class="small radius" name="submit" id="searchSubmit">Search</button>
     	</form> 
     </div>
 </div>              
-                    </div>
-                </section>
-            </nav>
-
+                        </div>
+                    </section>
+                </nav>
+            </div>
         </div>
     </div>
 </div>
@@ -337,6 +458,8 @@ var callback = "receiveOoyalaEvent";
 <li><a href="http://www.fool.ca/category/tech-stocks/">Tech Stocks</a></li>
 <li><a href="http://www.fool.ca/category/metals-and-mining/">Metals &amp; Mining Stocks</a></li>
 </ul></div>
+		</section><section class="sidebar">			<div class="textwidget"></div>
+		</section><section class="sidebar">			<div class="textwidget"><a href="https://www.5iresearch.ca/research-reports" target="_blank"><img src="http://f.canada.foolcdn.com/wp-content/uploads/2015/09/5iAd.png" width="336"></a></div>
 		</section><section class="sidebar"><h6>Fools On Facebook</h6>			<div class="textwidget"><div style="text-align:center; padding-bottom:10px;">
 <div class="fb-like-box" data-href="http://www.facebook.com/MotleyFoolCanada" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="false"></div>
 </div></div>
@@ -346,13 +469,13 @@ var callback = "receiveOoyalaEvent";
 
     <div>
                 <a target="_blank" href="https://twitter.com/TheMotleyFoolCA">
-            <img alt="The Motley Fool on Twitter" src="http://g.canada.foolcdn.com/wp-content/common-images/icon-twitter.png">
+            <img alt="The Motley Fool on Twitter" src="https://d2zrxgygpkobc.cloudfront.net/wp-content/common-images/icon-twitter.png">
         </a>
                         <a target="_blank" href="https://www.facebook.com/MotleyFoolCanada">
-            <img alt="The Motley Fool on Facebook" src="http://g.canada.foolcdn.com/wp-content/common-images/icon-facebook.png">
+            <img alt="The Motley Fool on Facebook" src="https://d2zrxgygpkobc.cloudfront.net/wp-content/common-images/icon-facebook.png">
         </a>
                         <a href="/feed">
-            <img alt="The Motley Fool RSS Feed" src="http://g.canada.foolcdn.com/wp-content/common-images/icon-rss.png">
+            <img alt="The Motley Fool RSS Feed" src="https://d2zrxgygpkobc.cloudfront.net/wp-content/common-images/icon-rss.png">
         </a>
             </div>
 </div>
@@ -366,31 +489,30 @@ var callback = "receiveOoyalaEvent";
     <footer class="clearfix">
         <div class="menu-bottomnav-container"><ul id="menu-bottomnav" class="menu"><li id="menu-item-29" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29"><a href="/">Home</a></li>
 <li id="menu-item-4824" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4824"><a href="/stock-advisor/">Stock Advisor</a></li>
-<li id="menu-item-698" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-698"><a href="http://www.fool.ca/recent-headlines/">Recent Headlines</a></li>
-<li id="menu-item-699" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-699"><a href="http://www.fool.ca/13-steps-to-financial-freedom/">How To Invest</a></li>
-<li id="menu-item-700" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-700"><a href="http://www.fool.ca/your-money/">Your Money</a></li>
-<li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="http://www.fool.ca/about-us/">About Us</a></li>
-<li id="menu-item-617" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-617"><a href="http://www.fool.ca/terms-of-service/">Terms of Service</a></li>
-<li id="menu-item-4315" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-533 current_page_item menu-item-4315"><a href="http://www.fool.ca/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-698" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-698"><a href="https://www.fool.ca/recent-headlines/">Recent Headlines</a></li>
+<li id="menu-item-699" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-699"><a href="https://www.fool.ca/13-steps-to-financial-freedom/">How To Invest</a></li>
+<li id="menu-item-700" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-700"><a href="https://www.fool.ca/your-money/">Your Money</a></li>
+<li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="https://www.fool.ca/about-us/">About Us</a></li>
+<li id="menu-item-617" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-617"><a href="https://www.fool.ca/terms-of-service/">Terms of Service</a></li>
+<li id="menu-item-4315" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-533 current_page_item menu-item-4315"><a href="https://www.fool.ca/privacy-policy/">Privacy Policy</a></li>
 </ul></div>			<div class="textwidget"><p style="margin-top:20px; color:#efefef;" class="tac"><span>©  2015 The Motley Fool Canada, ULC. All rights reserved.</span></p>
 
-<div id="fn-serverinfo">localhost 15 queries in 0.151 seconds</div></div>
+<div id="fn-serverinfo">localhost 21 queries in 0.357 seconds</div></div>
 		    </footer>
     <!-- End Footer -->
-    <a href="https://plus.google.com/109845075744528484168" rel="publisher"></a><link rel="stylesheet" id="fool-order-css-css" href="http://s.canada.foolcdn.com/wp-content/themes/foolcamf-theme/stylesheets/generated/order.css?ver=e8edff8202fb" type="text/css" media="all">
-<link rel="stylesheet" id="fool-ecapwidget-css-css" href="http://s.canada.foolcdn.com/wp-content/themes/foolcamf-theme/stylesheets/generated/ecap-widgets.css?ver=e8edff8202fb" type="text/css" media="all">
-<script type="text/javascript" src="http://yw553ftvhw1iqegz29fycoyw.wpengine.netdna-cdn.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.50.0-2014.02.05"></script>
+    <a href="https://plus.google.com/109845075744528484168" rel="publisher"></a><link rel="stylesheet" id="fool-ecapwidget-css-css" href="https://d1f4mw0udaotel.cloudfront.net/wp-content/themes/foolcamf-theme/stylesheets/generated/ecap-widgets.css?ver=c403f1de4b7c" type="text/css" media="all">
+<script type="text/javascript" src="https://www.fool.ca/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.50.0-2014.02.05"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var _wpcf7 = {"loaderUrl":"http:\/\/www.fool.ca\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
+var _wpcf7 = {"loaderUrl":"https:\/\/www.fool.ca\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://yw553ftvhw1iqegz29fycoyw.wpengine.netdna-cdn.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.8.1"></script>
-<script type="text/javascript" src="http://j.canada.foolcdn.com/wp-content/common-javascript/facebook.js?ver=e8edff8202fb"></script>
-<script type="text/javascript" src="http://j.canada.foolcdn.com/wp-content/common-javascript/Jquery/jquery.creditCardValidator.js?ver=e8edff8202fb"></script>
-<script type="text/javascript" src="http://j.canada.foolcdn.com/wp-content/common-javascript/Fool/Validation.js?ver=e8edff8202fb"></script>
-<script type="text/javascript" src="http://j.canada.foolcdn.com/wp-content/common-javascript/Fool/CreditCardUpdate.js?ver=e8edff8202fb"></script>
-<script type="text/javascript" src="http://j.canada.foolcdn.com/wp-content/common-javascript/Fool/Ecap.js?ver=e8edff8202fb"></script>
+<script type="text/javascript" src="https://www.fool.ca/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.8.1"></script>
+<script type="text/javascript" src="https://d1ivfslc5atlci.cloudfront.net/wp-content/common-javascript/facebook.js?ver=c403f1de4b7c"></script>
+<script type="text/javascript" src="https://d1ivfslc5atlci.cloudfront.net/wp-content/common-javascript/Jquery/jquery.creditCardValidator.js?ver=c403f1de4b7c"></script>
+<script type="text/javascript" src="https://d1ivfslc5atlci.cloudfront.net/wp-content/common-javascript/Fool/Validation.js?ver=c403f1de4b7c"></script>
+<script type="text/javascript" src="https://d1ivfslc5atlci.cloudfront.net/wp-content/common-javascript/Fool/Commerce.js?ver=c403f1de4b7c"></script>
+<script type="text/javascript" src="https://d1ivfslc5atlci.cloudfront.net/wp-content/common-javascript/Fool/Ecap.js?ver=c403f1de4b7c"></script>
    
     <script>
     (function($) {
