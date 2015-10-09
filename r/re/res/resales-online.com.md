@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the resales-online.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408085303id_/http%3A//resales-online.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resales-online.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009121716id_/http%3A//resales-online.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Resales Online | Real Estate Software | CRM Software | Rental Software | Spain
+# Real Estate Software | CRM Software | Manage your property for sale | Resales-online.com
 
 This privacy policy sets out how ReSales Andalucia SL uses and protects any information that you give ReSales Andalucia SL when you use this website.
 
