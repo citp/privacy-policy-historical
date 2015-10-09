@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xtargeting.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610161734id_/http%3A//www.xtargeting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtargeting.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009064348id_/http%3A//www.xtargeting.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Local Business Advertising Online at Xtargeting.com
 
