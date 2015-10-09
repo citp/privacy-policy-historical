@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the no1reviews.com privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427003855id_/http%3A//www.no1reviews.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the no1reviews.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009114411id_/http%3A//www.no1reviews.com/Privacy-Policy.html) for the most accurate reproduction.*
 
-# No1Reviews.com Privacy Policy
+# No1Reviews.com: Privacy Policy
 
 At No1Reviews.com, we take your privacy seriously. We will never sell or disseminate any personal information about you or your business. 
 
@@ -10,10 +10,6 @@ Information Collected
 
 No1Reviews.com will not collect any personal identifiable information from you unless you voluntarily submit such information, e.g. by signing up to our newsletter.
 
-|   |   
-  
----|---|---  
-  
 In common with many other websites, No1Reviews.com does collect non-personally identifiable information for use in generating statistical data in order to help us market our recommended products more effectively.
 
 Our Newsletter
@@ -50,3 +46,5 @@ By continuing to read and use this website, you signify your acceptance of our P
 How to Contact Us 
 
 Please use the Contact Us link at the bottom of this page to contact us. 
+
+Sponsored Listings
