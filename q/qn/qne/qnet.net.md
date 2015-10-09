@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qnet.net privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429073818id_/http%3A//www.qnet.net/en/footer/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qnet.net privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009140015id_/http%3A//www.qnet.net/en/footer/privacy_policy) for the most accurate reproduction.*
 
 # QNet.net – Privacy Policy
 
@@ -77,12 +77,10 @@ Technologies such as: cookies, beacons, tags, and scripts are used by QNET as we
 Flash LSOs**
 
   
-Third parties, with whom we partner to provide certain features on our site or to display advertising based upon your web browsing activity, use LSOs to collect and store information.
+Third parties, with whom we partner to provide certain features on our site or to display advertising based upon your web browsing activity, use LSOs such as HTML 5 or Flash to collect and store information.
 
-  
-Various browsers may offer their own management tools for removing HTML 5 LSOs. 
+Various browsers may offer their own management tools for removing HTML 5 LSOs. To manage Flash LSOs please click here: <http://macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
 
-  
 We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests.  If you wish to not have this information used for the purpose of service you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) . Please note this does not opt you out of being served ads.  You will continue to receive generic ads,
 
 **  
