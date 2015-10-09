@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the segment.io privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009232727id_/https%3A//segment.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the segment.io privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009062526id_/https%3A//segment.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Segment
 
@@ -12,13 +12,13 @@ Segment commits to strong, secure and transparent privacy practices. Our Privacy
 
 We have kept this simple for your understanding, but if you’re not familiar with terms like “cookies”, “IP addresses” or “API”, then feel free to [email us](mailto:legal@segment.com)! Your privacy is really important to us, so whether you’re new to Segment or a long-time user, please take the time to get to know our practices.
 
-Effective as of September 19, 2014
+Effective as of July 16, 2015
 
-Segment, Inc. (“Segment”, “we”, “us”, “our”) provides this “Privacy Policy” to inform our users of our policies and procedures regarding the collection, use and disclosure of personally identifiable information that we receive when they visit and use the [www.segment.com](http://segment.com/) site and any websites owned by Segment (collectively, the “Sites”), and when they use any of Segment’s services. For ease of reading in this Privacy Policy, the Sites and our services are collectively referred to as the “Service(s).” This Privacy Policy applies only to information that you provide to us when you use the Sites or Service.
+Segment.io, Inc. (“Segment”, “we”, “us”, “our”) provides this “Privacy Policy” to inform our users of our policies and procedures regarding the collection, use and disclosure of personally identifiable information that we receive when they visit and use the [www.segment.com](http://segment.com/) site and any websites owned by Segment (collectively, the “Sites”), and when they use any of Segment’s services. For ease of reading in this Privacy Policy, the Sites and our services are collectively referred to as the “Service(s).” This Privacy Policy applies only to information that you provide to us when you use the Sites or Service.
 
 ## Segment’s Service and Client User Data __
 
-Commercial users of our Service (“Clients”) may use our Service to collect information from you and about your use of their website, application or service (“Client User Data”). Client User Data may include, without limitation, information about the identity of Client users (such as name, postal address, e-mail address, IP address and phone number), as well as information about the pages that users visit and the features that they use, and the actions that they take while using the Client’s website, service or application. The Segment Service allows Clients the ability to pass Client User Data into Segment’s Service, and, at each Client’s direction, out from Segment into a variety of third-party tools. Segment may also store this data at the instruction of our Client. Segment does not inspect the Client User Data that it collects, and collects such information automatically under the direction of its Clients when providing our Service.
+Customers of our Service (“Clients”) may use our Service to collect information from their users and about their use of the Client’s website, application or service, and third-party applications and services available in connection with such websites, services and applications (“Client User Data”). Client User Data may include, without limitation, information about the identity of Client users (such as name, postal address, e-mail address, IP address and phone number), as well as information about the pages that users visit and the features that they use, and the actions that they take while using the Client’s website, service or application. The Segment Service allows Clients the ability to pass Client User Data into Segment’s Service, and, at each Client’s direction, out from Segment into a variety of third-party applications and services, and from one application or service to another. Segment may also store this data at the instruction of our Client. Segment is not responsible for inspecting the Client User Data that it collects, and collects Client User Data automatically under the direction of its Clients when providing our Service.
 
 Each of our Clients has its own policies regarding the collection and use of your information. This Privacy Policy does not apply to websites, applications, or services that display or link to different privacy statements. This Privacy Policy also does not apply to Client User Data. We recommend that you review the policies of our Clients through whom your information may be collected and submitted to us. We are not responsible for our Clients’ privacy policies or actions with respect to Client User Data. The use of Client User Data provided by our Clients in connection with our Services is subject to the written agreement between Segment and Client.
 
@@ -38,11 +38,11 @@ Like many websites, we collect certain information through the use of “cookies
 
 We may employ and/or our third party tracking utility company may employ software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our Site by informing us what content is effective. These gifs (or other tracking technology) may be included in or associated with e-mails or other communications that you receive from us (or our partners) in order to help us track your response and interests and to deliver you relevant content and services. We may tie information gathered by clear gifs or other tracking technology to PII.
 
-Our servers may automatically record certain information about how a person uses our Site (we refer to this information as “Log Data”), including both account holders and non-account holders. Log Data may include information such as a user’s Internet Protocol (IP) address, device and browser type, operating system, the pages or features of our Site to which a user browsed and the time spent on those pages or features, the frequency with which the Site is used by a user, search terms, the links on our Site that a user clicked on or used, and other statistics. We use this information to administer the Service and we analyze (and may engage third parties to analyze) this information to improve and enhance the Service by expanding its features and functionality and tailoring it to our users’ needs and preferences. 
+Our servers may automatically record certain information about how a person uses our Site (we refer to this information as “Log Data”), including both account holders and non-account holders. Log Data may include information such as a user’s Internet Protocol (IP) address, device and browser type, operating system, the pages or features of our Site to which a user browsed and the time spent on those pages or features, the frequency with which the Site is used by a user, search terms, the links on our Site that a user clicked on or used, and other statistics. We use this information to administer the Service and we analyze (and may engage third parties to analyze) this information to improve and enhance the Service by expanding its features and functionality and tailoring it to our users’ needs and preferences.
 
 ## Behavioral Targeting / Re-targeting __
 
-We may partner with a third party ad network to either display advertising on our Site or to manage our advertising on other sites. Our ad network partner may use cookies and Web beacons to collect non-personally identifiable information about your activities on our Site and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by [clicking here](https://web.archive.org/web/20141009232730id_/https://segment.com/docs/legal/privacy/preferences.truste.com). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+We may partner with a third party ad network to either display advertising on our Site or to manage our advertising on other sites. Our ad network partner may use cookies and Web beacons to collect non-personally identifiable information about your activities on our Site and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by [clicking here](https://preferences.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
 ## Purchase Information __
 
@@ -68,13 +68,13 @@ Segment may collect and analyze non-PII information about the performance of its
 
 ## Disclosure to Third Parties __
 
-We do not share or sell the Personally Identifying Information that you provide us with other organizations without your express consent. Under this Privacy Policy you hereby consent to sharing under the following circumstances: 
+We do not share or sell the Personally Identifying Information that you provide us with other organizations without your express consent. Under this Privacy Policy you hereby consent to sharing under the following circumstances:
 
-**Service Providers**. We may employ third party companies and individuals to administer and provide the Service on our behalf, (including, without limitation, bill and credit card payment processing, maintenance, administration, support, hosting and database management services). These third parties may have access to your PII only to perform these tasks on our behalf in accordance with this Privacy Policy and are obligated not to disclose or use it for any other purpose. 
+ **Service Providers**. We may employ third party companies and individuals to administer and provide the Service on our behalf, (including, without limitation, bill and credit card payment processing, maintenance, administration, support, hosting and database management services). These third parties may have access to your PII only to perform these tasks on our behalf in accordance with this Privacy Policy and are obligated not to disclose or use it for any other purpose.
 
-**Compliance with Laws and Law Enforcement; Protection and Safety.** Segment may disclose information about you to government or law enforcement officials or private parties as required by law, and disclose and use such information as we believe reasonably necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the safety of the public or any person, or to prevent or stop any activity we may consider to be, or to pose a risk of being, illegal, unethical, unauthorized or harmful. 
+ **Compliance with Laws and Law Enforcement; Protection and Safety.** Segment may disclose information about you to government or law enforcement officials or private parties as required by law, and disclose and use such information as we believe reasonably necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the safety of the public or any person, or to prevent or stop any activity we may consider to be, or to pose a risk of being, illegal, unethical, unauthorized or harmful.
 
-**Business Transfers.** Segment may sell, transfer or otherwise share some or all of its business or assets, including your personal information, in connection with a business deal (or potential business deal) such as a merger, consolidation, acquisition, reorganization or sale of assets or in the event of bankruptcy, in which case we will require the recipient to honor this Privacy Policy. You acknowledge that such transfers may occur and that any acquirer or successor of Segment or its assets may continue to use your personal information as set forth in this Privacy Policy. You will be notified via email and/or a prominent notice on our Site or Service of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+ **Business Transfers.** Segment may sell, transfer or otherwise share some or all of its business or assets, including your personal information, in connection with a business deal (or potential business deal) such as a merger, consolidation, acquisition, reorganization or sale of assets or in the event of bankruptcy, in which case we will require the recipient to honor this Privacy Policy. You acknowledge that such transfers may occur and that any acquirer or successor of Segment or its assets may continue to use your personal information as set forth in this Privacy Policy. You will be notified via email and/or a prominent notice on our Site or Service of any change in ownership or resulting change in uses of your personal information, as well as any choices you may have regarding your personal information.
 
 ## Changing or Deleting Your Information __
 
@@ -84,7 +84,7 @@ Access to Data Controlled by our Clients Segment has no direct relationship with
 
 ## Changes to Privacy Policy __
 
-We reserve the right to modify this Privacy Policy at any time. We encourage you to periodically review this page for the latest information on our privacy practices. If we make material changes to this Privacy Policy you will be notified via e-mail (if you have an account where we have your contact information) or otherwise in some manner through the Service that we deem reasonably likely to reach you (which may include posting on our Site – for example on this page or on our blog).
+We reserve the right to modify this Privacy Policy at any time. We encourage you to periodically review this page for the latest information on our privacy practices. If we make material changes to this Privacy Policy you will be notified via e-mail (if you have an account where we have your contact information) or otherwise in some manner through the Service that we deem reasonably likely to reach you (which may include posting a new privacy policy on our Site – or a specific announcement on this page or on our blog).
 
 Any modifications to this Privacy Policy will be effective upon our posting of the new terms and/or upon implementation of the new changes on the Service (or as otherwise indicated at the time of posting). In all cases, your continued use of the Service or Site after the posting of any modified Privacy Policy indicates your acceptance of the terms of the modified Privacy Policy.
 
@@ -108,13 +108,13 @@ We may make available on our Site, or link to, certain opportunities for our mem
 
 Segment complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Segment has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>
 
-In compliance with the US-EU and US-Swiss Safe Harbor Principles, Segment commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Segment. 
+In compliance with the US-EU and US-Swiss Safe Harbor Principles, Segment commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Segment.
 
 Please feel free to [email us](mailto:legal@segment.com). Or contact us by mail:
 
-Segment Inc.  
-42 Minna St, 2nd Floor   
-San Francisco, CA 94105 USA  
+Segment.io, Inc.  
+101 15th St  
+San Francisco, CA 94103 USA  
 Attention: Privacy Officer
 
 Segment has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Segment, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
@@ -123,11 +123,11 @@ Segment has further committed to refer unresolved privacy complaints under the U
 
 If you have any questions or concerns at all about our Privacy Policy, please feel free to [email us](mailto:legal@segment.com)!
 
-Of if you are feeling old fashioned, use snail mail:
+Or if you are feeling old fashioned, use snail mail:
 
-Segment Inc.   
-42 Minna St, 2nd Floor   
-San Francisco, CA 94105 USA  
+Segment.io, Inc.  
+101 15th St  
+San Francisco, CA 94103 USA  
 Attention: Privacy Officer
 
 * * *
