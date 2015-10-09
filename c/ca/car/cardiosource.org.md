@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardiosource.org privacy policy that was archived on 2015-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150204223225id_/http%3A//www.cardiosource.org/Footer-Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardiosource.org privacy policy that was archived on 2015-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151010004535id_/http%3A//www.acc.org/footer-pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - American College of Cardiology
 
@@ -6,7 +6,7 @@ This Site ("Site") is owned and operated by the American College of Cardiology F
 
 ## Cookies
 
-Like most websites, this Site collects information regarding your use of the Site through the use of cookies. Cookies are anonymous, unique alphanumeric identifiers sent to your browser from a website's computers and stored on your computer. The type of information we collect as a result of a cookie being stored on your computer includes the Internet protocol (IP) address used to connect your computer to the Internet; computer and connection information such as browser type and version, operating system, and platform; click stream data, including date and time, cookie number and content you viewed or searched for on the Site.
+Like most websites, this Site collects information regarding your use of the Site through the use of cookies. Cookies are anonymous, unique alphanumeric identifiers sent to your browser from a website's computers and stored on your computer. The type of information we collect as a result of a cookie being stored on your computer includes the Internet Protocol (IP) address used to connect your computer to the Internet; computer and connection information such as browser type and version, operating system, and platform; click stream data, including date and time, cookie number and content you viewed or searched for on the Site.
 
 We collect and use, and may from time to time supply third parties with, non-personally identifiable information as anonymous, aggregated user data for the purposes of site usage analysis, quality control and improving the Site. We use temporary "session" cookies to maintain information we need to have in order for you to view articles and browse from page to page. We use "persistent" cookies to give you a more personalized browsing experience and to help you navigate the Site more efficiently. In all cases in which cookies are used, the cookie will not collect personally identifiable information except with your explicit permission. You can prevent your browser from accepting new cookies, have the browser notify you when you receive a new cookie, or disable cookies altogether by accessing your browser's preferences menu. If you choose to disable cookies altogether, you can use the Site but may not be able to login to the Site with a personal User Name and Password or make use of the advanced personalization features of the Site.
 
@@ -46,6 +46,22 @@ We contract with third-party advertisers who post advertisements on the Site, wh
 
 We recognize that your privacy is important to you, and therefore we endeavor to keep your Personal Information confidential. The Personal information about each user is stored on servers that are behind a firewall and physically housed within a secure data center. Furthermore, our internal practices help protect your privacy by limiting employee access to and use of Personal Information. However, we do not represent, warrant, or guarantee that your personal information will be protected against unauthorized access, loss, misuse, or alterations, and do not accept any liability for the security of the Personal Information submitted to us nor for your or third parties' use or misuse of Personal Information.
 
+## Use of Google Universal Analytics
+
+We use Google Universal (GUA) for tracking and reporting Site activity. GUA collects information such as how often users visit the Site, what pages they visit on the Site, and what other sites they used prior to coming to the Site. This allows us to better understand our users and to optimize their digital experience. We use the Google User ID features to associate data from the different devices and multiple sessions of users and we may stitch together session data from unauthenticated user visits with authenticated user visits to give us a more accurate count of our Site users in order to improve Site usage data. We use data from the Google Display Network with GUA for demographic and interest reports to better understand and serve our audience. We may connect GUA data with data from our registered user database to understand the usage and needs of our registered users. Google prohibits the transmission of personally identifiable information to GUA, and we will not transmit any such information to GUA.
+
+You have choices
+
+  * For more information about how Google collects and processes data when you visit websites or use apps that use Google technologies, please see: “How Google uses data when you use our partners' sites or apps”, (located at [ ](http://%20www.google.com/policies/privacy/partners)[www.google.com/policies/privacy/partners](http://www.google.com/policies/privacy/partners))
+  * If you wish to opt-out of having your data used by Google Analytics, you may download and install on all your browsers the, Google Analytics Opt-Out Browser Add-on developed by Google for this purpose. 
+  * If you would like to opt-out of having information being collected during your visits to this or other sites, such as the information gathered by the Google Display Network, you may opt-out at [OPT OUT FROM ONLINE BEHAVIORAL ADVERTISING (BETA)](http://www.aboutads.info/choices), sponsored by the [Digital Advertising Alliance's (DAA)](http://www.aboutads.info/associations) as part for their [Self-Regulatory Program for Online Behavioral Advertising](http://www.aboutads.info/).
+
+
+
+## WebTrends
+
+WebTrends tracks and analyzes personally identifiable usage and volume statistical information from visitors and members on Site. All data collected by WebTrends on our behalf is owned and used by the ACCF.
+
 ## About This Privacy Policy
 
 The foregoing is the current privacy policy of the Site. We reserve the right to change this policy at any time without notice. Any changes to this policy will be posted on this webpage. Our policy does not create a contract or any legal rights.
@@ -63,7 +79,7 @@ Resource Center
 2400 N Street, NW  
 Washington, DC 20037  
 Telephone (Toll free in US/Canada): (800) 253-4636 x5603  
-Telephone (outside of US/Canada): (301) 897-5400 x5603  
+Telephone (outside of US/Canada): (202) 375-6000 x5603  
 [resource@acc.org](mailto:resource@acc.org)
 
 If at any time you believe that we have not adhered to this privacy policy or you have a complaint regarding the way your Personal Information is being handled, please contact the ACCF Resource Center. Disputes under this privacy policy will be resolved by the ACCF Resource Center, which will use reasonable efforts to promptly investigate and, if necessary, to correct any problem.
