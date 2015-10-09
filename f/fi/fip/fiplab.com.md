@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fiplab.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317185237id_/https%3A//fiplab.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiplab.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009062606id_/https%3A//fiplab.com/privacy) for the most accurate reproduction.*
 
 # FIPLAB - Privacy Policy
 
@@ -13,10 +13,10 @@ FIPLAB Ltd may change this policy from time to time by updating this page. You s
 We may collect the following information:
 
   * name (if you provide it to us)
-  * contact email address (should you decide to sign up for your newsletter or setup a NotesTab cloud syncing account)
+  * contact email address (should you decide to sign up for your newsletter or setup a MiniNote cloud syncing account)
   * computer IP address
   * other information relevant to our applications such as **anonymous** usage statistics
-  * data you provide in the use of our applications and services (e.g. if you use our NotesTab cloud syncing service, we will hold the note data you provide on our secure cloud servers)
+  * data you provide in the use of our applications and services (e.g. if you use our MiniNote cloud syncing service, we will hold the note data you provide on our secure cloud servers)
 
 
 
