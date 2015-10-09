@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the greenbiz.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623205530id_/http%3A//www.greenbiz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenbiz.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009205016id_/https%3A//www.greenbiz.com/privacy-policy) for the most accurate reproduction.*
 
 # GreenBiz Group Privacy Policy | GreenBiz
 
-_Effective April 26, 2011_
+_Effective August 5, 2015_
 
 We built GreenBiz ([http://greenbiz.com](http://greenbiz.com/), or “GreenBiz” or the “Website” or the “Site”) to help share news, information, and opinion on green business practices. This Privacy Policy (the “Policy”) is designed to help you understand how we collect and use personal information, and how we handle privacy issues.
 
@@ -48,7 +48,7 @@ This Website contains links to other sites that are not owned or controlled by G
 
 ## Changing or Removing Information
 
-Access and control over most personal information on GreenBiz is readily available through the profile editing tools. You may modify or delete any of your profile information at any time by logging into your account. Information will be updated as soon as our technology allows. Individuals who wish to deactivate their GreenBiz account may do so on the Account page. Removed information may persist in backup copies for a reasonable period of time but will not be generally available. You can also request GreenBiz remove your account, by sending an email to [information@greenerworldmedia.com](mailto:information@greenerworldmedia.com).
+Access and control over most personal information on GreenBiz is readily available through the profile editing tools. You may modify or delete any of your profile information at any time by logging into your account. Information will be updated as soon as our technology allows. Individuals who wish to deactivate their GreenBiz account may do so on the Account page. Removed information may persist in backup copies for a reasonable period of time but will not be generally available. You can also request GreenBiz remove your account, by sending an email to [info@greenbiz.com](mailto:info@greenbiz.com).
 
 ## Security
 
@@ -56,4 +56,4 @@ GreenBiz takes appropriate precautions to protect our users’ information. Your
 
 ## How to Contact Us
 
-Should you have any questions or concerns about the security on our Website or these privacy policies, please email us at [privacy@GreenBiz.com](mailto:privacy@GreenBiz.com) or contact us at the following address: Attention: Client Services, GreenBiz Group, 350 Frank H. Ogawa Plaza, Suite 800, Oakland, CA, 94612.
+Should you have any questions or concerns about the security on our Website or these privacy policies, please email us at [info@greenbiz.com](mailto:info@greenbiz.com) or contact us at the following address: Attention: Client Services, GreenBiz Group, 350 Frank H. Ogawa Plaza, Suite 800, Oakland, CA, 94612.
