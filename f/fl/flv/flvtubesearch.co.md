@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flvtubesearch.co privacy policy that was archived on 2014-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141118065600id_/http%3A//flvtubesearch.co%3Ftmp%3Dtoolbar_flvtube_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flvtubesearch.co privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009185627id_/http%3A//flvtubesearch.co%3Ftmp%3Dtoolbar_flvtube_privacy) for the most accurate reproduction.*
 
 # flvtubesearch.co - Privacy Policy
 
