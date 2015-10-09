@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minecraft-server.net privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609225352id_/http%3A//minecraft-server.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minecraft-server.net privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009030646id_/http%3A//minecraft-server.net/privacy) for the most accurate reproduction.*
 
 # Refund and Privacy Policies | Minecraft Server List
 
@@ -32,6 +32,6 @@ The full extent of the personal data we hold on you is displayed in the Administ
 
 ### Our details
 
-The contact details of our Data Protection Compliance Officer are: Ryan Herman support@minecraft-server.net
+The contact details of our Data Protection Compliance Officer are: Ryan Herman support@minecraft-server.net 
 
 If you have any enquiry or concern about our Privacy Policy, or the way we are handling your personal data, please contact us at the address above.
