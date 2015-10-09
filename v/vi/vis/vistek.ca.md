@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vistek.ca privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318104154id_/https%3A//www.vistek.ca/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vistek.ca privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009095646id_/https%3A//www.vistek.ca/about/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy and Statement - Vistek Camera Store - Toronto, Calgary Canada
 
