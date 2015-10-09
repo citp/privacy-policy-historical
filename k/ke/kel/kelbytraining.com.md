@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kelbytraining.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610003106id_/http%3A//kelbyone.com/privacypledge) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kelbytraining.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009223421id_/http%3A//kelbyone.com/privacypledge) for the most accurate reproduction.*
 
 # Privacy Pledge - KelbyOne
 
@@ -90,7 +90,9 @@ If you have any questions about our Privacy Policy, please contact us using the 
 
 By accessing or using the Site, You agree to be bound by all of the Terms of this Privacy Policy as posted at the time of Your access or use. We reserve the right to contact Users of the Site regarding changes to the Terms and Conditions generally, this Privacy Policy specifically, or any other policies or agreements relevant to the Site’s Users. If You have any questions about this Policy, You may telephone, email, or write to:
 
-KelbyOne, LLCATTN: Privacy Policy Administrator333 Douglas Road EastOldsmar, FL – 34677  
+KelbyOne, LLCATTN: Privacy Policy Administrator  
+118 Douglas Road East  
+Oldsmar, FL – 34677  
 Tel. 813.749.4000 x152
 
 [privacy@kelbymediagroup.com](mailto:privacy@kelbymediagroup.com)
