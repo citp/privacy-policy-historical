@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the mindtools.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319220604id_/http%3A//www.mindtools.com/policies/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindtools.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009201053id_/https%3A//www.mindtools.com/policies/PrivacyPolicy.htm) for the most accurate reproduction.*
 
-# Privacy Policy
-
-* * *
+# Mind Tools Privacy Policy
 
 Mind Tools Ltd (Company Number 04829074) ("We") are committed to protecting and respecting your privacy.
 
-This policy (together with our [Terms of Use](https://web.archive.org/web/20150319220604id_/http%3A//www.mindtools.com/policies/TermsofUse.htm)) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By using a log-in for or visiting the www.mindtools.com Website (the “Website”) you are accepting and consenting to the practices described in this policy.
+This policy (together with our [Terms of Use](https://web.archive.org/policies/TermsofUse.htm)) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By using a log-in for or visiting the www.mindtools.com Website (the “Website”) you are accepting and consenting to the practices described in this policy.
 
-For the purpose of the Data Protection Act 1998 (the “Act”), the data controller is Mind Tools Ltd of 2nd Floor, 145-157 St John Street, London, EC1V 4PY. 
+For the purpose of the Data Protection Act 1998 (the “Act”), the data controller is Mind Tools Ltd of 3rd Floor, The News Building, London Bridge Street, London SE1 9SG, United Kingdom. 
 
 ## Information We May Collect From You
 
@@ -54,7 +52,7 @@ We use information held about you in the following ways:
 
 ## Disclosure of Your Information
 
-The data you enter is needed to provide a good service to you on the Mind Tools website. We will treat your information with complete respect and will not disclose it to any third party, other than to parties such as credit card processors involved directly in providing a high quality service to you.
+The data you enter is needed to provide a good service to you on the Mind Tools website. We will treat your information with complete respect and will not disclose it to any third party, other than to parties such as credit card processors involved directly in providing a high quality service to you. We use a third party supplier, CaptainUp.com, for gamification of learning. You can read Captain Up's privacy policy [here](https://captainup.com/legal/privacy-policy/).
 
 In rare cases, we may also disclose personal information to third parties:
 
@@ -73,7 +71,7 @@ Unfortunately, the transmission of information via the internet is not completel
 
 ## Your Rights
 
-You have the right to ask us not to process your personal data for marketing purposes. You can also exercise the right at any time by contacting us at [customer.helpdesk@mindtools.com](mailto:customer.helpdesk@mindtools.com).
+You have the right to ask us not to process your personal data for marketing purposes. You can also exercise the right at any time by contacting us at [customer.helpdesk@mindtools.com](mailto:customerhelpdesk@mindtools.com).
 
 Our site may, from time to time, contain links to and from other websites. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
@@ -87,8 +85,4 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 ## Contact
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to Mind Tools Ltd, 2nd Floor, 145-157 St John Street, London, EC1V 4PY, telephone +44 20 7788 7978 or [customer.helpdesk@mindtools.com](mailto:customer.helpdesk@mindtools.com). (Due to time zone differences, it may take up to 24 hours for us to respond to you).
-
-* * *
-
-Return to the top of the page
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to Mind Tools Ltd, 3rd Floor, The News Building, London Bridge Street, London SE1 9SG, UK, telephone +44 20 7788 7978 or [customer.helpdesk@mindtools.com](mailto:customer.helpdesk@mindtools.com). (Due to time zone differences, it may take up to 24 hours for us to respond to you).
