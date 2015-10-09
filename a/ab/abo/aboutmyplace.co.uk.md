@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the aboutmyplace.co.uk privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627181859id_/http%3A//www.rightmove.co.uk/this-site/terms-of-use-and-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aboutmyplace.co.uk privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009062558id_/http%3A//www.rightmove.co.uk/this-site/terms-of-use-and-privacy-policy.html) for the most accurate reproduction.*
 
 # Terms of use and privacy policy
 
 ### Who we are
 
-We are Rightmove Group Limited (company number 03997679) and our address is Turnberry House, 30 Caldecotte Lake Drive, Caldecotte, Milton Keynes, MK7 8LE (referred to as "we" or "us" or "our"). We are the providers of the website [www.rightmove.co.uk](https://web.archive.org/) (referred to as the "Site"). Our VAT number is GB 745 8441 10. We are notified as a data controller with the Information Commissioner's Office with registration number Z4726900.
+We are Rightmove Group Limited (company number 03997679) and our address is Turnberry House, 30 Caldecotte Lake Drive, Caldecotte, Milton Keynes, MK7 8LE (referred to as "we" or "us" or "our"). We are the providers of the website [www.rightmove.co.uk](https://web.archive.org/) (referred to as the "Site"). Our VAT number is 918501823. We are notified as a data controller with the Information Commissioner's Office with registration number Z4726900.
 
 We provide this Site to subscribing estate agents, letting agents, new homes developers and overseas property owners to display properties they are marketing. We are not estate agents ourselves.
 
