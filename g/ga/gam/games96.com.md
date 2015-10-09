@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the games96.com privacy policy that was archived on 2014-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140420010355id_/http%3A//www.games96.com/page/2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the games96.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009103234id_/http%3A//www.newgames.net/page/2.html) for the most accurate reproduction.*
 
-# Free Online Games at Games 96 - Privacy Policy
+# Free Online Games at NewGames.net - Privacy Policy
 
 **Privacy Policy for FreeGames.NET**
 
