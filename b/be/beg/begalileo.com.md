@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the begalileo.com privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122001430id_/http%3A//www.begalileo.com/user/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the begalileo.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009224156id_/http%3A//www.begalileo.com/user/privacy_policy) for the most accurate reproduction.*
 
 # beGalileo|Online Adaptive Learning Platform| Maths practice worksheets
 
