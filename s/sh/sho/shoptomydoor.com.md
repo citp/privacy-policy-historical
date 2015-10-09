@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoptomydoor.com privacy policy that was archived on 2015-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150522012540id_/http%3A//www.shoptomydoor.com/Terms_of_Use_-and-_Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoptomydoor.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009103751id_/http%3A//www.shoptomydoor.com/Terms_of_Use_-and-_Privacy_Policy.html) for the most accurate reproduction.*
 
 # Shoptomydoor - Shop US, UK and China Merchants globally.
 
