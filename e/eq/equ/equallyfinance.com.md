@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the equallyfinance.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622033338id_/http%3A//equallyfinance.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equallyfinance.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009041343id_/http%3A//equallyfinance.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | EquallyFinance
 
