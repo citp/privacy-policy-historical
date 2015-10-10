@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the miaminewtimes.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609014200id_/http%3A//www.miaminewtimes.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miaminewtimes.com privacy policy that was archived on 2015-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151010100551id_/http%3A//www.miaminewtimes.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Miami News and Events | Miami New Times
+# Privacy Policy | Miami News, Food, Culture and Events | Miami New Times
 
 ### Miami New Times, LLC
 
@@ -90,4 +90,4 @@ If your personally identifiable information changes, you may correct and/or upda
 
 ### More Questions? 
 
-If you have any questions about this privacy policy, please e-mail them to [privacyadministrator@voicemediagroup.com](mailto:privacyadministrator@voicemediagroup.com), and be sure to indicate the specific site you are visiting and the nature of your question or concern.
+If you have any questions about this privacy policy, please e-mail them to [privacyadministrator@miaminewtimes.com](mailto:privacyadministrator@miaminewtimes.com), and be sure to indicate the specific site you are visiting and the nature of your question or concern.
