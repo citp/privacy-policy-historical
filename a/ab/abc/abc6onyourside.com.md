@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abc6onyourside.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611015103id_/http%3A//abc6onyourside.com/station/features/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abc6onyourside.com privacy policy that was archived on 2015-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151010113442id_/http%3A//www.abc6onyourside.com/station/features/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement for www.abc6onyourside.com - WSYX - ABC6 - Breaking News, Weather, and Traffic - Columbus, Ohio
 
