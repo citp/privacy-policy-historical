@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freecampsites.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607200306id_/http%3A//freecampsites.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecampsites.net privacy policy that was archived on 2015-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151010101147id_/http%3A//freecampsites.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Freecampsites.net
 
@@ -13,7 +13,7 @@ Your email address is NEVER seen by a third party. You will receive emails when 
 At this time, we do not send out mailings to our users. If we ever do, you will have the ability to opt out.
 
 **Cookies**  
-Your Internet browser has the in-built facility for storing small text files – “cookies” – that hold information which allows a website to recognize your account. We use cookies to save your preferences and login information, and provide personalized functionality. You can reject cookies by changing your browser settings, but be aware that this will disable some of the functionality on the Hostgator’s website. More information about cookies can be found at <http://en.wikipedia.org/wiki/HTTP_cookie>.
+Your Internet browser has the in-built facility for storing small text files – “cookies” – that hold information which allows a website to recognize your account. We use cookies to save your preferences and login information, and provide personalized functionality. You can reject cookies by changing your browser settings, but be aware that this will disable some of the functionality on the website. More information about cookies can be found at <http://en.wikipedia.org/wiki/HTTP_cookie>.
 
 **Your Account**  
 You are free to change your account information at any time. If desired, you can also close your account with us at anytime. Once the account is closed, all identifying information that you entered into your profile will be removed from our servers. The campsites and comment will remain but will be placed under the administrator’s account.
