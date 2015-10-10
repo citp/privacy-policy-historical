@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wetandpissy.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611200437id_/http%3A//www.wetandpissy.com/misc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wetandpissy.com privacy policy that was archived on 2015-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151010111845id_/http%3A//www.wetandpissy.com/misc/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Wetandpissy.com
 
-Members Access Models: **538**    |    Scenes: **1079**    |    Videos: **1069**    |    Hours: **373h 33' 25''**    |    Pics: **129136** Videos and Photos of Girls Pissing
+Members Access Models: **573**    |    Scenes: **1142**    |    Videos: **1093**    |    Hours: **393h 28' 10''**    |    Pics: **137353** Videos and Photos of Girls Pissing
 
 To protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
 
