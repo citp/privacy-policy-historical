@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fabulesslyfrugal.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624105322id_/http%3A//fabulesslyfrugal.com/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabulesslyfrugal.com privacy policy that was archived on 2015-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151010120543id_/http%3A//fabulesslyfrugal.com/Privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fabulessly Frugal
 
