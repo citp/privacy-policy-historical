@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waytostay.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316163142id_/https%3A//www.waytostay.com/lightboxes/privacy-policy/language/en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waytostay.com privacy policy that was archived on 2015-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151010194712id_/https%3A//www.waytostay.com/lightboxes/privacy-policy/language/en) for the most accurate reproduction.*
 
 # 
 
