@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eminenceimmigration.com privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418061133id_/http%3A//www.eminenceimmigration.com/html/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eminenceimmigration.com privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011002435id_/http%3A//www.eminenceimmigration.com/privacy-policy) for the most accurate reproduction.*
 
-# Eminence - Immigration and Visa Consultants USA,UK,Canada,Australia and Denmark
+# Privacy Policy – Eminence Immigration Visa Consultants Hyderabad
 
 Eminence Immigration is committed towards ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
