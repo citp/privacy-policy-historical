@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the news18.com privacy policy that was archived on 2015-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150627170718id_/http%3A//www.news18.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the news18.com privacy policy that was archived on 2015-10-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151010120249id_/http%3A//www.news18.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" style="margin:0 !important;"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -196,7 +196,7 @@ function socialPopup(network, url,title) {
 				</script>
 
 				<script type="text/javascript">
-				googletag.cmd.push(function() { googletag.defineSlot('/1039154/News18/News18_Ros/News18_Ros_728x90', [728,90], 'News18/News18_Ros/News18_Ros_728x90').addService(googletag.pubads()); googletag.defineSlot('/1039154/News18/News18_Ros/News18_Ros_160x600', [160,600], 'News18/News18_Ros/News18_Ros_160x600').addService(googletag.pubads()); googletag.defineSlot('/1039154/News18/News18_Ros/News18_Ros_300x250', [300,250], 'News18/News18_Ros/News18_Ros_300x250').addService(googletag.pubads()); googletag.defineSlot('/1039154/News18/News18_ClickTracker/News18_ImpessionTracker_MagicBricks_', [1,1], 'News18/News18_ClickTracker/News18_ImpessionTracker_MagicBricks_').addService(googletag.pubads()); googletag.defineSlot('/1039154/News18/News18_Ros/News18_ROS_180x220', [289,36], 'News18/News18_Ros/News18_ROS_180x220').addService(googletag.pubads()); 
+				googletag.cmd.push(function() { googletag.defineSlot('/1039154/News18/News18_Default/News18_Default_160x600', [160,600], 'News18/News18_Default/News18_Default_160x600').addService(googletag.pubads()); googletag.defineSlot('/1039154/News18/News18_Default/News18_Default_728x90', [728,90], 'News18/News18_Default/News18_Default_728x90').addService(googletag.pubads()); googletag.defineSlot('/1039154/News18/News18_Default/News18_Default_300x250', [300,250], 'News18/News18_Default/News18_Default_300x250').addService(googletag.pubads()); 
 				googletag.pubads().enableSingleRequest();
 				googletag.enableServices();
 				});
@@ -206,6 +206,7 @@ function socialPopup(network, url,title) {
 <style>
 .ele{background-color: #ffd800;height: 20px !important;margin-top: 7px;padding: 2px 9px 4px !important;}
 .ele a {color: #000 !important;}
+.etv_logos{ vertical-align:middle; margin-right:5px!important;}
 </style>
  
 <script>
@@ -588,7 +589,7 @@ $(function() {
 		// Recent Visited Data Display IN Recent Visited Section.
 		var recentVistedAllData = recentVisitedCookies[userIpAddress];
 		//recentVistedAllData.reverse();
-		if(recentVistedAllData){
+		if(typeof recentVistedAllData!='undefined' || recentVistedAllData){
 			var addRecentHtml = '';
 			$.each(recentVistedAllData, function(i, v) {
 				if(i<=9){
@@ -610,24 +611,27 @@ $(function() {
 		
 		if(setRecentVisited==false){
 			var recentObj={};
-			var arrayOfRecentCookies = [];							
-			$.each(recentVisitedCookies[userIpAddress], function(i, v) {									
-				recentObj= {'name':v.name, 'link':v.link};
-				arrayOfRecentCookies.push(recentObj);
-			});
-			//console.log('Previous Cookie Datas=>'+arrayOfRecentCookies);
-			if(recentVisitedCityName){
-				var pushArray = {'name':recentVisitedCityName, 'link':recentVisitedCityLink};
-				arrayOfRecentCookies.push(pushArray);
+			var arrayOfRecentCookies = [];
+			if(typeof recentVisitedCookies[userIpAddress]!='undefined' || recentVisitedCookies[userIpAddress]){
+				$.each(recentVisitedCookies[userIpAddress], function(i, v) {									
+					recentObj= {'name':v.name, 'link':v.link};
+					arrayOfRecentCookies.push(recentObj);
+				});
+				//console.log('Previous Cookie Datas=>'+arrayOfRecentCookies);
+				if(recentVisitedCityName){
+					var pushArray = {'name':recentVisitedCityName, 'link':recentVisitedCityLink};
+					arrayOfRecentCookies.push(pushArray);
+				}
+				//console.log('All Selected Fav Cookie Data=>'+arrayOfRecentCookies);
+				//cookieData.push(pushArray);
+				
+				var cookeRecentDataAll = {
+					'172.18.9.2':arrayOfRecentCookies
+				}
+				//console.log('IP Based Cookies=>'+ JSON.stringify(cookeRecentDataAll));
+				setCookie( 'recentVisited', JSON.stringify(cookeRecentDataAll), 1);
 			}
-			//console.log('All Selected Fav Cookie Data=>'+arrayOfRecentCookies);
-			//cookieData.push(pushArray);
 			
-			var cookeRecentDataAll = {
-				'172.18.9.2':arrayOfRecentCookies
-			}
-			//console.log('IP Based Cookies=>'+ JSON.stringify(cookeRecentDataAll));
-			setCookie( 'recentVisited', JSON.stringify(cookeRecentDataAll), 1);
 		}
 	}else{
 		if(recentVisitedCityName){
@@ -795,33 +799,7 @@ var appendSidebarTag = function() {
 	getSidebarTag();		
 };
 appendSidebarTag();
-var appendLiveScoreTab = function() {
-	var getLiveScore = function() {
-		var livescore_json_path = 'http://www.news18.com/json/scorecard_settings.json';
-		$.ajax({
-			 type: 'GET',
-			 url: livescore_json_path,
-			 dataType:'json',
-			 cache: false,
-			 success: function(data) {
-				var html = '';
-				if( $.isArray(data) ) {
-					  $.each(data, function(i, item) {
-						 if(item && item.Status == 1) {
-							html += '<a href="'+ item.weburl +'">#'+item.weburl_text+'</a>';	
-						 }
-					  });
-					  if(html !='') {
-						$("#livescore_tags").append(html);
-					  }
-					  
-				}                 	
-			 }
-		});
-	};
-	getLiveScore();			
-};
-appendLiveScoreTab();
+
 var appendLiveTweetsTab = function(){
 	var getLiveTweetsTag = function() {
 		var location_id = Get_Cookie('location_id');
@@ -864,10 +842,10 @@ appendLiveTweetsTab();
                 </script>
 </div>
 
-<figure class="ph_top_banner">
-			 <div id="News18/News18_Ros/News18_Ros_728x90">
+<figure class="ph_top_banner" style="width:728px; height:92px; margin:0 auto; border-bottom:none;">
+			 <div id="News18/News18_Default/News18_Default_728x90">
 				<script type="text/javascript">
-					googletag.cmd.push(function() { googletag.display('News18/News18_Ros/News18_Ros_728x90'); });
+					googletag.cmd.push(function() { googletag.display('News18/News18_Default/News18_Default_728x90'); });
 				</script>
 			</div></figure><div class="hdr">
 <!--header -->
@@ -878,7 +856,7 @@ appendLiveTweetsTab();
 		    	<a href="http://www.news18.com/?pg=home" class="left_icons news18_logo"></a>
         <a href="http://www.news18.com/?pg=home" class="left_icons etv_logo"></a>
 		        <h6 class="update_time">Updated 
-			10:37 PM Jun 27, 2015		</h6>
+			05:32 PM Oct 10, 2015		</h6>
     </aside>
     
     <aside class="state_name ttu fleft">	
@@ -892,9 +870,10 @@ appendLiveTweetsTab();
         <aside class="fright tp_hrbox">
 		    	<div class="change_language fleft" id="topChangeLanguage"><a href="#">Language <span class="change_larrow left_icons"></span></a>
         	<div class="ch_dd" id="topChangeLanguageBox">
-            	<a target="_blank" href="http://hindi.news18.com/" data-language="Hindi">hindi</a>
-				<a target="_blank" href="http://gujarati.news18.com/?pg=home" data-language="gujarati">Gujarati</a>
-                <a href="#" data-language="English">english</a>
+            	<a target="_blank" href="http://hindi.news18.com/?pg=home" data-language="Hindi"><img src="http://static.news18.com/pix/web/lang-hindi-bg.png"></a>
+				<a target="_blank" href="http://gujarati.news18.com/?pg=home" data-language="Gujarati"><img src="http://static.news18.com/pix/web/lang-gujrati-bg.png"></a>
+				<a target="_blank" href="http://urdu.news18.com/?pg=home" data-language="Urdu"><img src="http://static.news18.com/pix/web/lang-urdu-bg-new.png"></a>
+                <a href="#" data-language="English"><img src="http://static.news18.com/pix/web/lang-english.png"></a>
             </div>
         </div>
 			        <div class="state_weather fleft"></div>        <div class="fleft ph_share_box"><a title="Follow us on Facebook" target="_blank" href="https://www.facebook.com/news18india" class="left_icons tp_ficon"></a> <a title="Follow us on Twitter" target="_blank" href="https://twitter.com/newseighteen" class="left_icons tp_ticon"></a>
@@ -906,30 +885,7 @@ appendLiveTweetsTab();
 	<section id="hader_nav" class="max_box">
 				
 		<ul class="clearfix bb_non">
-			<li>
-				<h2 class="clearfix">MY FAVORITES <span class="fright"></span></h2>
-				<div id="myFavoritesStateCity"></div>
-				<a href="#" class="add_fvr" id="addToFavorites">+ Add to FAVORITES</a>
-			</li>
-			
-			<li>
-				<h2>RECENTLY VISITED</h2>
-				<span id="recentVisitedSection"></span>				
-			</li>
-			
-			<li>
-				<h2>FIND YOUR Location</h2>
-				<div class="find_city">
-					<input type="text" value="" id="autocomplete-ajax" placeholder="Find your Location by state or city name"> <a href="#" class="left_icons hsearch_icon"></a>
-					<!--<input type="text" name="country" id="autocomplete-ajax-x" disabled="disabled" style="color: #CCC; position: absolute; background: transparent; z-index: 1;"/>-->
-					<input type="hidden" value="" id="hiddenStateCityValue">
-				</div>
-				<!--<div id="selction-ajax"></div>-->
-				<a href="http://www.news18.com/select-state/" class="bls_txt" id="browseLocation"><span class="left_icons gsearch_icon"></span> Browse Location by state or city name</a>
-			</li>
-		</ul>
-	
-		<ul class="clearfix bt_non">
+		
 			<li class="clearfix">
 				<h2>Nation</h2>
 				<a href="http://www.news18.com/"><span class="left_icons sto_icon"></span>News18 Nationwide</a>
@@ -953,14 +909,44 @@ appendLiveTweetsTab();
 			
 			<li>
 				<h2>State <span class="sethomepaged">Set home page as default page</span></h2>
-								<div><a href="http://www.news18.com/select-state/uttar-pradesh" data-id="7" data-slug="uttar-pradesh"><span class="left_icons map_location ps_non"></span><span>Uttar Pradesh</span></a><span class="act setDefaultState" slug="uttar-pradesh"><img src="http://static.news18.com/pix/web/dim-top-state.jpg" id="setDefualt_uttar-pradesh" class="set_defautl_state" title="Set Default State"></span></div><div><a href="http://www.news18.com/select-state/bihar" data-id="495" data-slug="bihar"><span class="left_icons map_location ps_non"></span><span>Bihar</span></a><span class="act setDefaultState" slug="bihar"><img src="http://static.news18.com/pix/web/dim-top-state.jpg" id="setDefualt_bihar" class="set_defautl_state" title="Set Default State"></span></div><div><a href="http://www.news18.com/select-state/madhya-pradesh" data-id="660" data-slug="madhya-pradesh"><span class="left_icons map_location ps_non"></span><span>Madhya Pradesh</span></a><span class="act setDefaultState" slug="madhya-pradesh"><img src="http://static.news18.com/pix/web/dim-top-state.jpg" id="setDefualt_madhya-pradesh" class="set_defautl_state" title="Set Default State"></span></div><div><a href="http://www.news18.com/select-state/rajasthan" data-id="397" data-slug="rajasthan"><span class="left_icons map_location ps_non"></span><span>Rajasthan</span></a><span class="act setDefaultState" slug="rajasthan"><img src="http://static.news18.com/pix/web/dim-top-state.jpg" id="setDefualt_rajasthan" class="set_defautl_state" title="Set Default State"></span></div><div><a href="http://www.news18.com/select-state/haryana" data-id="605" data-slug="haryana"><span class="left_icons map_location ps_non"></span><span>Haryana</span></a><span class="act setDefaultState" slug="haryana"><img src="http://static.news18.com/pix/web/dim-top-state.jpg" id="setDefualt_haryana" class="set_defautl_state" title="Set Default State"></span></div><div><a href="http://www.news18.com/select-state/chhattisgarh" data-id="1373" data-slug="chhattisgarh"><span class="left_icons map_location ps_non"></span><span>Chhattisgarh</span></a><span class="act setDefaultState" slug="chhattisgarh"><img src="http://static.news18.com/pix/web/dim-top-state.jpg" id="setDefualt_chhattisgarh" class="set_defautl_state" title="Set Default State"></span></div><div><a href="http://www.news18.com/select-state/jharkhand" data-id="531" data-slug="jharkhand"><span class="left_icons map_location ps_non"></span><span>Jharkhand</span></a><span class="act setDefaultState" slug="jharkhand"><img src="http://static.news18.com/pix/web/dim-top-state.jpg" id="setDefualt_jharkhand" class="set_defautl_state" title="Set Default State"></span></div><div><a href="http://www.news18.com/select-state/uttarakhand" data-id="399" data-slug="uttarakhand"><span class="left_icons map_location ps_non"></span><span>Uttarakhand</span></a><span class="act setDefaultState" slug="uttarakhand"><img src="http://static.news18.com/pix/web/dim-top-state.jpg" id="setDefualt_uttarakhand" class="set_defautl_state" title="Set Default State"></span></div>				
+								<div><a href="http://www.news18.com/uttar-pradesh" data-id="7" data-slug="uttar-pradesh"><span class="left_icons map_location ps_non"></span><span>Uttar Pradesh</span></a><span class="act setDefaultState" slug="uttar-pradesh"><img src="http://static.news18.com/pix/web/dim-top-state.jpg" id="setDefualt_uttar-pradesh" class="set_defautl_state" title="Set Default State"></span></div><div><a href="http://www.news18.com/bihar" data-id="495" data-slug="bihar"><span class="left_icons map_location ps_non"></span><span>Bihar</span></a><span class="act setDefaultState" slug="bihar"><img src="http://static.news18.com/pix/web/dim-top-state.jpg" id="setDefualt_bihar" class="set_defautl_state" title="Set Default State"></span></div><div><a href="http://www.news18.com/madhya-pradesh" data-id="660" data-slug="madhya-pradesh"><span class="left_icons map_location ps_non"></span><span>Madhya Pradesh</span></a><span class="act setDefaultState" slug="madhya-pradesh"><img src="http://static.news18.com/pix/web/dim-top-state.jpg" id="setDefualt_madhya-pradesh" class="set_defautl_state" title="Set Default State"></span></div><div><a href="http://www.news18.com/rajasthan" data-id="397" data-slug="rajasthan"><span class="left_icons map_location ps_non"></span><span>Rajasthan</span></a><span class="act setDefaultState" slug="rajasthan"><img src="http://static.news18.com/pix/web/dim-top-state.jpg" id="setDefualt_rajasthan" class="set_defautl_state" title="Set Default State"></span></div><div><a href="http://www.news18.com/haryana" data-id="605" data-slug="haryana"><span class="left_icons map_location ps_non"></span><span>Haryana</span></a><span class="act setDefaultState" slug="haryana"><img src="http://static.news18.com/pix/web/dim-top-state.jpg" id="setDefualt_haryana" class="set_defautl_state" title="Set Default State"></span></div><div><a href="http://www.news18.com/chhattisgarh" data-id="1373" data-slug="chhattisgarh"><span class="left_icons map_location ps_non"></span><span>Chhattisgarh</span></a><span class="act setDefaultState" slug="chhattisgarh"><img src="http://static.news18.com/pix/web/dim-top-state.jpg" id="setDefualt_chhattisgarh" class="set_defautl_state" title="Set Default State"></span></div><div><a href="http://www.news18.com/jharkhand" data-id="531" data-slug="jharkhand"><span class="left_icons map_location ps_non"></span><span>Jharkhand</span></a><span class="act setDefaultState" slug="jharkhand"><img src="http://static.news18.com/pix/web/dim-top-state.jpg" id="setDefualt_jharkhand" class="set_defautl_state" title="Set Default State"></span></div><div><a href="http://www.news18.com/uttarakhand" data-id="399" data-slug="uttarakhand"><span class="left_icons map_location ps_non"></span><span>Uttarakhand</span></a><span class="act setDefaultState" slug="uttarakhand"><img src="http://static.news18.com/pix/web/dim-top-state.jpg" id="setDefualt_uttarakhand" class="set_defautl_state" title="Set Default State"></span></div>				
 			</li>
 			
+			<li>
+				<h2>FIND YOUR Location</h2>
+				<div class="find_city">
+					<input type="text" value="" id="autocomplete-ajax" placeholder="Find your Location by state or city name"> <a href="#" class="left_icons hsearch_icon"></a>
+					<!--<input type="text" name="country" id="autocomplete-ajax-x" disabled="disabled" style="color: #CCC; position: absolute; background: transparent; z-index: 1;"/>-->
+					<input type="hidden" value="" id="hiddenStateCityValue">
+				</div>
+				<!--<div id="selction-ajax"></div>-->
+				<a href="http://www.news18.com/select-state/" class="bls_txt" id="browseLocation"><span class="left_icons gsearch_icon"></span> Browse Location by state or city name</a>
+			</li>
 			<li>
 				<h2><a href="#" id="browseLocationShow">Browse All Locations Within</a></h2>
 				<div id="browseDisplayBox" class="browse_city_loc" style="display:none;">
 								</div>
 			</li>
+			
+		</ul>
+	
+		<ul class="clearfix bt_non">
+		
+		
+		<li>
+				<h2 class="clearfix">MY FAVORITES <span class="fright"></span></h2>
+				<div id="myFavoritesStateCity"></div>
+				<a href="#" class="add_fvr" id="addToFavorites">+ Add to FAVORITES</a>
+			</li>
+			
+			<li>
+				<h2>RECENTLY VISITED</h2>
+				<span id="recentVisitedSection"></span>				
+			</li>
+			
+		
+			
+			
 		</ul>
 	</section>
 <!--dropdown nav -->    
@@ -985,14 +971,7 @@ appendLiveTweetsTab();
 	<ul id="main_nav" class="fle">
 			  
 		<li class=""><a href="http://www.news18.com/latest/nation">Nation</a></li><li class=""><a href="http://www.news18.com/latest/politics">Politics</a></li><li class=""><a href="http://www.news18.com/latest/cricket">Cricket</a></li><li class=""><a href="http://www.news18.com/latest/movies">Movies</a></li><li class=""><a href="http://www.news18.com/latest/sports">Sports</a></li><li class=""><a href="http://www.news18.com/latest/tech">Tech</a></li><li class=""><a href="http://www.news18.com/latest/business">Business</a></li><li class=""><a href="http://www.news18.com/tv-schedule/">TV Schedule</a></li>		<a class="blue_tab" target="_blank" href="http://pubads.g.doubleclick.net/gampad/clk?id=206313244&amp;iu=/1039154/News18/News18_ClickTracker/News18_ClickTracker_Magicbricks">Property</a>
-					<div style="height:1px; float:right;">
-
-			 <div id="News18/News18_ClickTracker/News18_ImpessionTracker_MagicBricks_">
-				<script type="text/javascript">
-					googletag.cmd.push(function() { googletag.display('News18/News18_ClickTracker/News18_ImpessionTracker_MagicBricks_'); });
-				</script>
-			</div>			</div>
-				</ul>
+			</ul>
 	
 </div>
 
@@ -1274,6 +1253,36 @@ loadBreakingPatti.getData = function() {
 
 
 </script>
+<script>
+// Function For Share Url Counter:
+function share_count_url(shareUrl, fbClass, twitClass, linkClass){	
+	var API_URL = "http://cdn.api.twitter.com/1/urls/count.json";
+	var uri=shareUrl;
+	var url= encodeURIComponent(uri);
+   // Get count and set it as the inner HTML of .count for twitter
+	$.getJSON(API_URL + "?callback=?&url=" + url, function(data) {
+		   $("."+twitClass).html(data.count);
+	});
+   //alert("https://graph.facebook.com/?callback=?&id=" + url);
+   // Get count and set it as the inner HTML of .count for facebook shares
+   $.getJSON("https://graph.facebook.com/?callback=?&id=" + url, function(data1) {
+				  
+		if(data1.shares)
+		{
+			  $("."+fbClass).html(data1.shares);
+		}
+		else
+		{
+			  $("."+fbClass).html('0');
+		}
+   });
+   // Get count and set it as the inner HTML of .count for G+ count
+
+	$.getJSON("http://www.linkedin.com/countserv/count/share?url=&format=jsonp&callback=?", function(data) {
+		$("."+linkClass).html(data.count);
+	});
+}
+</script>
 <!-----WORLD CUP BANNERS HERE------>
 <style>	
 	.WCbanner {
@@ -1320,12 +1329,20 @@ loadBreakingPatti.getData = function() {
 	.wc_panasonic {position: relative;  top: -2px;  left: -2px;}
 </style>
 <section class="WCbanner">
+<div style="text-align: center;padding-top: 5px;" id="frd"><a href="http://www.ibnlive.com/cricketnext/series/india-vs-south-africa-2015.html" target="_blank"><img src="http://static.ibnlive.in.com/pix/ibnhome/ibn_revamp/Ind-vs-SA-1000x50.jpg" alt="India Vs South Africa"></a></div>
 <!--<div class="wc_banner clearfix">
 <a href="http://www.ibnlive.com/cricketnext/series/bangladesh-vs-india-2015.html" target="_blank"><img src="http://static.news18.com/pix/web/indBan_topbanner.jpg"></a>
 <a href="http://pubads.g.doubleclick.net/gampad/clk?id=214075084&amp;iu=/1039154/Ibnlive/IBN_ClickTracker/IBN_Tracker_Budget" target="_blank"><img src="http://static.ibnlive.in.com/pix/ibnhome/newibnlive/1000x50-2-final.jpg" style="left:-5px; position:relative;"></a>
 <a target="_blank" href="http://pubads.g.doubleclick.net/gampad/clk?id=212754604&amp;iu=/1039154/Ibnlive/IBN_ClickTracker/IBN_Tracker_Budget"><img style="left:-5px; position:relative;" src="http://static.news18.com/pix/web/1000x50-3-final.jpg"></a>
 </div>-->
-
+<!--<div style="text-align: center;padding-top: 5px;">
+<a href="http://www.ibnlive.com/ganesh-chaturthi-2015/" target="_blank"><img src="http://static.ibnlive.in.com/pix/ibnhome/ibn_revamp/elections/images/Ganesh-1000x52-gif.gif" usemap="#Map">
+<map name="Map">
+  <area shape="rect" coords="747,0,1002,52" href="http://pubads.g.doubleclick.net/gampad/clk?id=291869644&iu=/1039154/Ibnlive/IBN_ClickTracker/IBN_Tracker_Budget" target="_blank">
+</map></a>	
+        
+</div>
+-->
 </section>
 <!-----END WORLD CUP BANNERS ------><section id="mid" class="clearfix max_box">
 <ul id="flot_box">
@@ -1371,26 +1388,26 @@ loadBreakingPatti.getData = function() {
     	<aside id="vlbox" class="fleft">
         <h3 class="stitle_txt">LATEST</h3>
         	<ul id="sidebar_posts">
-            				<li><h6 class="tim_stp"> 2 hours ago </h6><a data-postid="547809" data-type="news" href="http://www.news18.com/latest/news/colombia-striker-jackson-martinez-to-join-atletico-madrid-547809.html">Colombia striker Jackson Martinez to join Atletico Madrid</a></li>        		
-    				<li><h6 class="tim_stp"> 3 hours ago </h6><a data-postid="547808" data-type="news" href="http://www.news18.com/latest/news/we-put-on-our-best-performance-against-colombia-messi-547808.html">We put on our best performance against Colombia: Messi</a></li>        		
-    				<li><h6 class="tim_stp"> 3 hours ago </h6><a data-postid="547806" data-type="news" href="http://www.news18.com/latest/news/no-rift-between-ms-dhoni-and-virat-kohli-mohammed-shami-547806.html">No rift between MS Dhoni and Virat Kohli: Mohammed Shami</a></li>        		
-    				<li><h6 class="tim_stp"> 4 hours ago </h6><a data-postid="547805" data-type="news" href="http://www.news18.com/latest/news/lalit-modi-alleges-suresh-raina-dwayne-bravo-ravindra-jadeja-involved-in-ipl-betting-547805.html">Lalit Modi alleges Suresh Raina, Dwayne Bravo, Ravindra Jadeja involved in IPL betting</a></li>        		
-    				<li><h6 class="tim_stp"> 4 hours ago </h6><a data-postid="547804" data-type="news" href="http://www.news18.com/latest/news/batting-great-kumar-sangakkara-to-retire-during-india-series-in-august-547804.html">Batting great Kumar Sangakkara to retire during India series in August</a></li>        		
-    				<li><h6 class="tim_stp"> 4 hours ago </h6><a data-postid="547807" data-type="news" href="http://www.news18.com/latest/news/steven-smith-lets-his-bat-do-the-talking-with-century-against-kent-547807.html">Steven Smith lets his 'bat do the talking' with century against Kent</a></li>        		
-    				<li><h6 class="tim_stp"> 4 hours ago </h6><a data-postid="547803" data-type="news" href="http://www.news18.com/latest/news/2nd-test-shehzad-ali-lead-pakistan-to-1712-against-sri-lanka-on-day-3-547803.html">2nd Test: Shehzad, Ali lead Pakistan to 171/2 against Sri Lanka on Day 3</a></li>        		
-    				<li><h6 class="tim_stp"> 5 hours ago </h6><a data-postid="547802" data-type="news" href="http://www.news18.com/latest/news/india-squad-for-zimbabwe-tour-to-be-selected-on-june-29-547802.html">India squad for Zimbabwe tour to be selected on June 29</a></li>        		
-    				<li><h6 class="tim_stp"> 5 hours ago </h6><a data-postid="547801" data-type="news" href="http://www.news18.com/latest/news/mohammed-shami-reveals-his-knee-swelling-got-worse-during-world-cup-547801.html">Mohammed Shami reveals his knee swelling got worse during World Cup</a></li>        		
-    				<li><h6 class="tim_stp"> 6 hours ago </h6><a data-postid="547799" data-type="news" href="http://www.news18.com/latest/news/carlos-tevez-to-join-boca-juniors-from-juventus-547799.html">Carlos Tevez to join Boca Juniors from Juventus</a></li>        		
-    				<li><h6 class="tim_stp"> 6 hours ago </h6><a data-postid="547800" data-type="news" href="http://www.news18.com/latest/news/mizoram-cricket-association-seeks-affiliation-from-bcci-547800.html">Mizoram Cricket Association seeks affiliation from BCCI</a></li>        		
-    				<li><h6 class="tim_stp"> 7 hours ago </h6><a data-postid="547798" data-type="news" href="http://www.news18.com/latest/news/india-women-take-on-new-zealand-in-a-five-match-odi-series-547798.html">India Women take on New Zealand in a five-match ODI series</a></li>        		
-    				<li><h6 class="tim_stp"> 9 hours ago </h6><a data-postid="547795" data-type="news" href="http://www.news18.com/latest/news/copa-america-argentina-were-much-better-admits-colombia-coach-547795.html">Copa America: Argentina were much better, admits Colombia coach </a></li>        		
-    				<li><h6 class="tim_stp"> 9 hours ago </h6><a data-postid="547796" data-type="news" href="http://www.news18.com/latest/news/mca-still-in-the-dark-about-ipl-whistle-blowers-identity-547796.html">MCA still in the dark about IPL whistle-blower's identity</a></li>        		
-    				<li><h6 class="tim_stp"> 10 hours ago </h6><a data-postid="547797" data-type="news" href="http://www.news18.com/latest/news/no-regrets-in-chosing-australia-over-england-steven-smith-547797.html">No regrets in chosing Australia over England: Steven Smith</a></li>        		
-    				<li><h6 class="tim_stp"> 11 hours ago </h6><a data-postid="547794" data-type="news" href="http://www.news18.com/latest/news/uruguay-complain-over-jara-cavani-finger-incident-547794.html">Uruguay complain over Jara-Cavani finger incident</a></li>        		
-    				<li><h6 class="tim_stp"> 11 hours ago </h6><a data-postid="547793" data-type="news" href="http://www.news18.com/latest/news/2015-ashes-triumph-would-be-pinnacle-for-alastair-cook-547793.html">2015 Ashes triumph would be pinnacle for Alastair Cook</a></li>        		
-    				<li><h6 class="tim_stp"> 12 hours ago </h6><a data-postid="547792" data-type="news" href="http://www.news18.com/latest/news/pakistan-send-rahat-ali-babar-azam-as-replacements-to-sri-lanka-547792.html">Pakistan send Rahat Ali, Babar Azam as replacements to Sri Lanka</a></li>        		
-    				<li><h6 class="tim_stp"> 12 hours ago </h6><a data-postid="547791" data-type="news" href="http://www.news18.com/latest/news/copa-america-a-dramatic-shootout-sees-argentina-through-to-semis-547791.html">Copa America: A dramatic shootout sees Argentina through to semis</a></li>        		
-    				<li><h6 class="tim_stp"> 12 hours ago </h6><a data-postid="547790" data-type="news" href="http://www.news18.com/latest/news/brazil-coach-dunga-apologizes-for-racism-controversy-547790.html">Brazil coach Dunga apologizes for racism controversy</a></li>        		
+            				<li><h6 class="tim_stp"> 54 minutes ago </h6><a data-postid="550619" data-type="news" href="http://www.news18.com/latest/news/harbhajan-singh-invites-pm-narendra-modi-to-his-wedding-550619.html">Harbhajan Singh invites PM Narendra Modi to his wedding</a></li>        		
+    				<li><h6 class="tim_stp"> 1 hour ago </h6><a data-postid="550618" data-type="news" href="http://www.news18.com/latest/news/tough-to-play-ajinkya-rahane-in-current-scenario-ms-dhoni-550618.html">Tough to play Ajinkya Rahane in current scenario: MS Dhoni</a></li>        		
+    				<li><h6 class="tim_stp"> 2 hours ago </h6><a data-postid="550617" data-type="news" href="http://www.news18.com/latest/news/1st-odi-time-india-get-in-the-groove-against-south-africa-550617.html">1st ODI: Time India get in the groove against South Africa</a></li>        		
+    				<li><h6 class="tim_stp"> 3 hours ago </h6><a data-postid="550616" data-type="news" href="http://www.news18.com/latest/news/pakistans-tribal-badlands-cricket-team-conjure-historic-success-at-premier-first-class-tournament-550616.html">Pakistan's tribal badlands cricket team conjure historic success at premier first-class tournament</a></li>        		
+    				<li><h6 class="tim_stp"> 4 hours ago </h6><a data-postid="550615" data-type="news" href="http://www.news18.com/latest/news/it-would-be-challenging-to-maintain-momentum-against-india-says-ab-de-villiers-550615.html">It would be challenging to maintain momentum against India, says AB de Villiers</a></li>        		
+    				<li><h6 class="tim_stp"> 5 hours ago </h6><a data-postid="550614" data-type="news" href="http://www.news18.com/latest/news/shreyas-iyer-slams-third-fastest-double-ton-in-ranji-trophy-history-550614.html">Shreyas Iyer slams third-fastest double ton in Ranji Trophy history</a></li>        		
+    				<li><h6 class="tim_stp"> 5 hours ago </h6><a data-postid="550613" data-type="news" href="http://www.news18.com/latest/news/indias-no-2-position-in-odi-rankings-on-the-line-against-south-africa-550613.html">India's No 2 position in ODI rankings on the line against South Africa</a></li>        		
+    				<li><h6 class="tim_stp"> 7 hours ago </h6><a data-postid="550612" data-type="news" href="http://www.news18.com/latest/news/ms-dhoni-the-captain-and-player-under-scrutiny-550612.html">MS Dhoni the captain and player under scrutiny</a></li>        		
+    				<li><h6 class="tim_stp"> 9 hours ago </h6><a data-postid="550610" data-type="news" href="http://www.news18.com/latest/news/rain-fiasco-wakes-up-sleeping-cab-ahead-of-2016-world-t20-final-550610.html">Rain fiasco wakes up sleeping CAB ahead of 2016 World T20 final</a></li>        		
+    				<li><h6 class="tim_stp"> 10 hours ago </h6><a data-postid="550611" data-type="news" href="http://www.news18.com/latest/news/ranji-trophy-2015-16-live-updates-round-2-day-3-550611.html">Ranji Trophy 2015-16 Live Updates: Round 2, Day 3</a></li>        		
+    				<li><h6 class="tim_stp"> 18 hours ago </h6><a data-postid="550609" data-type="news" href="http://www.news18.com/latest/news/india-south-africa-teams-arrive-in-kanpur-for-1st-odi-550609.html">India, South Africa teams arrive in Kanpur for 1st ODI</a></li>        		
+    				<li><h6 class="tim_stp"> 20 hours ago </h6><a data-postid="550608" data-type="news" href="http://www.news18.com/latest/news/1st-odi-ervine-raza-take-zimbabwe-to-a-two-wicket-win-over-ireland-550608.html">1st ODI: Ervine, Raza take Zimbabwe to a two-wicket win over Ireland</a></li>        		
+    				<li><h6 class="tim_stp"> 21 hours ago </h6><a data-postid="550604" data-type="news" href="http://www.news18.com/latest/news/englands-james-taylor-ian-bell-gear-up-with-fifties-against-pakistan-550604.html">England's James Taylor, Ian Bell gear up with fifties against Pakistan</a></li>        		
+    				<li><h6 class="tim_stp"> 22 hours ago </h6><a data-postid="550602" data-type="news" href="http://www.news18.com/latest/news/ranji-trophy-group-b-iyer-tare-guide-mumbai-to-huge-lead-over-punjab-550602.html">Ranji Trophy, Group B: Iyer, Tare guide Mumbai to huge lead over Punjab</a></li>        		
+    				<li><h6 class="tim_stp"> 22 hours ago </h6><a data-postid="550601" data-type="news" href="http://www.news18.com/latest/news/bcci-to-talk-to-pepsi-on-sponsorship-issue-550601.html">BCCI to talk to Pepsi on sponsorship issue</a></li>        		
+    				<li><h6 class="tim_stp"> 22 hours ago </h6><a data-postid="550600" data-type="news" href="http://www.news18.com/latest/news/ajit-agarkar-questions-dhonis-place-in-team-india-550600.html">Ajit Agarkar questions Dhoni's place in Team India</a></li>        		
+    				<li><h6 class="tim_stp"> 23 hours ago </h6><a data-postid="550599" data-type="news" href="http://www.news18.com/latest/news/ranji-trophy-group-a-podder-keeps-odisha-in-hunt-ishant-gambhir-keep-delhi-ahead-550599.html">Ranji Trophy, Group A: Podder keeps Odisha in hunt; Ishant, Gambhir keep Delhi ahead</a></li>        		
+    				<li><h6 class="tim_stp"> 23 hours ago </h6><a data-postid="550597" data-type="news" href="http://www.news18.com/latest/news/ranji-trophy-group-c-jadeja-stars-as-saurashtra-beat-jharkhand-by-8-wickets-clinch-6-points-550597.html">Ranji Trophy, Group C: Jadeja stars as Saurashtra beat Jharkhand by 8 wickets, clinch 6 points</a></li>        		
+    				<li><h6 class="tim_stp"> 23 hours ago </h6><a data-postid="550596" data-type="news" href="http://www.news18.com/latest/news/sri-lanka-opt-for-youth-against-west-indies-550596.html">Sri Lanka opt for youth against West Indies</a></li>        		
+    				<li><h6 class="tim_stp"> 23 hours ago </h6><a data-postid="550598" data-type="news" href="http://www.news18.com/latest/news/dew-wont-play-a-big-role-at-low-and-slow-green-park-550598.html">Dew won't play a big role at 'low and slow' Green Park</a></li>        		
     	            </ul>
         </aside>
         <!--cricket -->
@@ -1410,7 +1427,43 @@ loadBreakingPatti.getData = function() {
 <p>The following is what we normally collect about you to help us provide you with our services, where we can: • Personal attributes, name, address, gender, date of birth, email, telephone number, and service details; • Information on how you use our website, including details of your domain name and Internet Protocol address, operating system, browser, cookies, time spent on a page or content, and the route you took to navigate through the pages; • Other data, from time to time, to help us provide you with improved products and services.</p>
 <p>If you choose not to provide us with certain information we may not be able to provide you with a particular service. Web18 also automatically receives and records information on our server logs from your browser including your IP address, Web18! cookie information and the page you requested.</p>
 <p>In addition, when you use Web18's services, you may make some of your personal information public. If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return and Web18 will not be responsible for the use or misuse of such information. The main uses of your personal information are to verify your identity; to help provide our services; to administer those services; to enable us to review and improve our service to provide access to certain areas of the website; to personalise your visit to our site; to run competitions and games and to assist with advertising and other revenue generation functions. The information we collect is also used to notify visitors about events, changes and other information about this web site. The information we collect is never shared with other organizations for commercial or other purposes. This information may be used for marketing (where you have agreed to this) and for market research purposes, including internal demographic studies, to provide, optimise and personalise our services and to send you newsletters and information (where you have agreed to this) about our products and services. We may use information about you to create a picture of your interests. This will allow us to understand our customers and visitors better, so we can make our services and marketing more relevant. Information that we use in this way may include: (i) information about your use of this and other Web18 Sites; (ii) household classification data, (iii) your responses to communications from us; (iv) your interaction with other parts of the Web18 Group; (v) information you provide when you register on a Site; (vi) customer surveys; (vii) information provided by other companies, where you gave them permission to share this information. We may use a variety of technical methods such as cookies and web beacons to collate this information (see the section below on "Use of Cookies" for further information).</p>
-<p><b>Information Sharing and Disclosure</b> Web18 will NOT disclose personally identifiable information about you to third parties except in the following situations:</p>
+<p><b>Information Sharing and Disclosure</b> Web18 will NOT disclose personally identifiable information about you to third parties except in the following situations:
+• We have your consent to share the information;
+• We need to share your information to provide the product or service you have requested;
+• We need to share the information with certain service partners in order to respond to your comments or to resolve service issues. (Unless we tell you differently, these partners have no independent right to use this information except to respond to your comments or to resolve the service issues.); 
+• We respond to requests from any Indian or foreign government, security, defence, revenue, regulatory or other authority, agency or officer; 
+• We respond to subpoenas, court orders or legal proceedings; 
+• When required by law that such action is necessary to protect and defend the rights of property News18 and its sub domains.
+• When applicable law or regulation requires disclosure of information to protect the safety or security of users of our Sites;
+• We find that your actions on our web sites violate the Web18 Terms of Service or any of our usage guidelines for specific products or services;
+• If we sell the business of some of the Web18 group of companies to another organisation or merge with other businesses. In this case, the buyer will only be able to use your information as set out in this Privacy Policy; 
+• If we use third party processors to administer and process your personal information for the purposes notified in the Privacy Policy, e.g. for hosting activities related to the use of our Sites or services; or
+• We may need to share details with third parties (such as auditors or legal advisors) to obtain advice. Any such processing will be governed by an agreement in the form required by law, preserving any statutory data protection rights.
+We may share your information with other members of the Web18 Group. As used in this Privacy Policy the Web18 Group includes Web18 Holdings Limited, Cayman Islands and all of its subsidiary and affiliated entities, including companies such as those branded under Network18 labels . In this Privacy Policy "we", "us", "our" and "ourselves" means any member of this Group.</p>
+<p>People we may disclose your personal information will include:
+Who has access to the information at Web18?
+• Members of Web18 ;
+• Members of Web18 ;
+• our related companies;
+• advertisers and content partners, either in an aggregate form eg. “5,000 users clicked on a banner ad”;
+• Credit-reporting and fraud-checking agencies;
+• our professional advisers, including our accountants, auditors and lawyers;
+• other telecommunication and information service providers;
+• by disclosing individual records such as IP addresses as may be required by law; or
+• government and regulatory authorities and other organisations, as required or authorised by law. We will ensure that these people only use such information to perform the above functions, and that they have adequate procedures in place to deal with your data securely. Some of these people may be based outside India.</p>
+<p>Use of information for marketing
+In line with any permission you give us, we may send you direct marketing about our own, or carefully selected third parties' goods and services and disclose your information to other organisations that may send direct marketing to you. You can change your marketing preferences if you are registered with us. In addition, you can unsubscribe from email communications via unsubscribe links provided in communications sent to you.</p>
+<p>Link from or to Other Sites
+As a means of providing useful resources to our users, News18 provides links to other web sites. We try to carefully choose web sites that we believe are useful and meet our high standards. However, because web sites can change so quickly, we do not guarantee the standards of any website links we provide nor do we imply endorsement. News18 is not responsible for the data and privacy policies, content or security of other websites that are linked to our site. You should be aware that when you are on our Sites you could be directed to other sites where the personal information collected is outside of our control. The privacy policy of the new site will govern the information obtained from you on that site.</p>
+<p>Cookies
+We collect information through technology to make our Sites and other content or services which we make available to you more interesting and useful to you. For instance, when you come to one of our Sites via your computer or other media device, we may combine your visitor session information or other information collected through cookies, web beacons and other technical methods with personally identifiable information in order to understand and improve your online experiences and to determine what products, promotions and services you prefer or are likely to be of interest to you. Cookies are pieces of information that a Site sends to your computer or other media device while you are viewing or interacting with the Site. We use cookies for a variety of purposes including tracking usage on our Sites in order to- enhance our guests' experience on our Sites and to learn more about your preferences and interests Web beacons are small pieces of data that are embedded in images on the pages of Sites. We also use these technical methods to analyse the traffic patterns on our Sites, such as the frequency with which our users visit various parts of our Sites.
+Web18 ensures that all information collected and accessed by Web18 through the access of these cookies will be maintained in accordance with this Privacy Policy. Web18 allows other companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies. Advertisers or other companies do not have access to Web18's cookies.</p>
+<p>Security
+We take various precautions to keep your personal information secure from unauthorized access and will store your personal information for so long as it is necessary to provide you our services or for archive purposes. You are responsible for keeping your User ID and password secure and you should not disclose them to anyone.</p>
+<p>Notification of Changes
+Web18 may amend this Privacy Policy from time to time and we will post the latest version on this and all our other Sites. If we ever wish to use your personal information in a way which is incompatible with the information in this Privacy Policy, we will only do so with your consent.</p>
+<p>Acceptance of Privacy Policy
+Your right to access this website is conditional upon your full acceptance of this Privacy Policy and by accessing the Sites you signify your consent that we store and process your personal data in accordance with this Privacy Policy.</p>
 <p>&nbsp;</p>
 </article>
 </div>
@@ -1517,7 +1570,7 @@ $(document).ready(function(){
 	// Get Live Match :- 
 	var interval = 1000 * 10;	
 	/*var getLiveScore = function() {
-		var match_id = 'bain06102015178477';
+		var match_id = '';
 		var livescore_ajax_path = 'http://www.news18.com/live-score-widgets.php?match_id=' +match_id;
 		$.ajax({
 			 type: 'GET',
@@ -1624,7 +1677,12 @@ try{
 			//alert(team1+" VS "+team2+" ("+matchtype+")");
 			var flscorelink = 'http://www.news18.com/scorecard/full/'+ftname1.toLowerCase().replace(/\s+/g, '')+'-'+ftname2.toLowerCase().replace(/\s+/g, '')+'/'+matchid+'.html';
 			var lvmstr = '<h4>'+team1+' vs '+team2+'</h4><div class="lp_lnow" onclick="location.href=\''+flscorelink+'\'">';
-
+			
+			// FOR Live Score Card Link Add On HAS TAGS:
+			var hasTagSidebar = '<a href="'+ flscorelink +'">#Live: '+team1+' vs '+team2+'</a>';
+			$("#livescore_tags").html(hasTagSidebar);
+			//End For HAS TAGs
+			
 			var pretm = 0;
 			
 			for(var k=0;k<total_inning;k++){
@@ -1791,9 +1849,9 @@ $(document).ready(function(){
 <aside class="fright " id="right">
 
 <figure class="vspacer20 ct_text" id="stickyPosition">
-			 <div id="News18/News18_Ros/News18_Ros_160x600">
+			 <div id="News18/News18_Default/News18_Default_160x600">
 				<script type="text/javascript">
-					googletag.cmd.push(function() { googletag.display('News18/News18_Ros/News18_Ros_160x600'); });
+					googletag.cmd.push(function() { googletag.display('News18/News18_Default/News18_Default_160x600'); });
 				</script>
 			</div></figure>
      
@@ -1890,6 +1948,7 @@ $(window).on("load", function(){
                 <a href="http://www.news18.com/sitemap">Sitemap</a>
 				<a href="http://hindi.news18.com" target="_blank">News18 Hindi</a>
 				<a href="http://gujarati.news18.com" target="_blank">News18 Gujarati</a>
+				<a href="http://urdu.news18.com" target="_blank">News18 Urdu</a>
 				
             </div>
             
@@ -2045,6 +2104,6 @@ if(next.length>0&&prev.length>0){
 
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
-Page Caching using memcached
+Page Caching using apc
 
- Served from: www.news18.com @ 2015-06-27 22:37:19 by W3 Total Cache --></body></html>
+ Served from: www.news18.com @ 2015-10-10 17:32:51 by W3 Total Cache --></body></html>
