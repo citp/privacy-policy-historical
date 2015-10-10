@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamekiller.net privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611102847id_/http%3A//www.gamekiller.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamekiller.net privacy policy that was archived on 2015-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151010085313id_/http%3A//www.gamekiller.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - GameKiller - Bringing The Pain To Each And Every Game
 
@@ -56,7 +56,7 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 **Childrens Online Privacy Protection Act Compliance**
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act) and require that all members of this forum be aged at least 13 years or older, unless given the express permission of a parent via an email to mymapleblaze@gmail.com.
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act) and require that all members of this forum be aged at least 13 years or older, unless given the express permission of a parent via an email to mymapleblaze@gmail.com. 
 
 **Online Privacy Policy Only**
 
