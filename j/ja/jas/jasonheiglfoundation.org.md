@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jasonheiglfoundation.org privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611125633id_/http%3A//jasonheiglfoundation.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jasonheiglfoundation.org privacy policy that was archived on 2015-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151010150326id_/http%3A//jasonheiglfoundation.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Jason Debus Heigl Foundation
 
@@ -6,7 +6,7 @@
 
 The Jason Debus Heigl Foundation, a 501(c)3 non-profit organization ("Jason Debus Heigl Foundation", "JDHF", "we" or "us"), which has adopted a set of Privacy Terms (the "Terms"). The Jason Debus Heigl Foundation has implemented those terms in this privacy policy (the "Privacy Policy"), which describes how we collect, use and share personal information ( "PI") we obtain online from and about individuals located in the U.S.:
 
-The Jason Debus Heigl Foundation’s web site ([http://jasonheiglfoundation.org](http://jasonheiglfoundation.org/)) and all other related web sites owned or controlled by us (collectively or individually the "Site") are general audience web sites, and we do not knowingly collect PI from children under 13 years of age.
+The Jason Debus Heigl Foundation’s web site ([http://jasonheigl.foundation](http://jasonheigl.foundation/)) and all other related web sites owned or controlled by us (collectively or individually the "Site") are general audience web sites, and we do not knowingly collect PI from children under 13 years of age.
 
 Our Privacy Policy applies to "Visitors," which means that you simply browse the Site and to "volunteer, adoption, or fostering candidates" ("Candidate" or "you") which means that you have registered with the Jason Debus Heigl Foundation. The term "User" refers to a Visitor or Candidate. By using our Site, you signify your agreement with all the terms of this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use our Site.
 
@@ -36,4 +36,4 @@ Third party advertisements displayed on our Site may also contain cookies set by
 
 You can program your computer to warn you each time a cookie is being sent or to refuse cookies completely. However, without cookies you may not have access to certain features on our Site.
 
-Pages: 1 [2](http://jasonheiglfoundation.org/privacy-policy/2/) [3](http://jasonheiglfoundation.org/privacy-policy/3/)
+Pages: 1 [2](http://jasonheigl.foundation/privacy-policy/2/) [3](http://jasonheigl.foundation/privacy-policy/3/)
