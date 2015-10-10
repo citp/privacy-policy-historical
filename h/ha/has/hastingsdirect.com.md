@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hastingsdirect.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614064718id_/http%3A//www.hastingsdirect.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hastingsdirect.com privacy policy that was archived on 2015-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151010180904id_/http%3A//www.hastingsdirect.com/privacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Hastings Direct
 
 ### Who are we
 
-Hastings essential and Hastings Direct are trading names of Hastings Insurance Services Limited, which has its registered office at Conquest House, Collington Avenue, Bexhill-on-Sea, East Sussex TN393LW.
+Hastings Essential and Hastings Direct are trading names of Hastings Insurance Services Limited, which has its registered office at Conquest House, Collington Avenue, Bexhill-on-Sea, East Sussex TN393LW.
 
 ### Definitions
 
@@ -222,9 +222,28 @@ In addition, in order to prevent and detect fraud we may at any time:
   * share personal information about you with other insurers or financial institutions.
   * pass on your personal information to the operator of any database or register used to check new information provided against existing information held to prevent fraudulent claims, including the Claims and Underwriting Exchange Register, and the Insurance Hunter Database (a central insurance and claims checking system), which may result in your details being shared with other insurers.
   * check your personal information with fraud prevention agencies (please note that where you have provided us with false or inaccurate information and we suspect fraud, we will record this and pass this information on to fraud prevention agencies).
+  * pass your details to fraud prevention agencies to prevent fraud and money laundering if false or inaccurate information is provided and fraud is identified.
   * in respect of motor insurance, pass your personal information on to the Motor Insurance Anti-Fraud and Theft register (please see below for further information on this register).
 
 
+
+Further details explaining how the information held by fraud prevention agencies may be used:
+
+  * Law enforcement agencies may access and use this information.
+  * We and other organisations may also access and use this information to prevent fraud and money laundering, for example, when: 
+    * Checking details on applications for credit and credit related or other facilities
+    * Managing credit and credit related accounts or facilities
+    * Recovering debt
+    * Checking details on proposals and claims for all types of insurance
+    * Checking details of job applicants and employees
+  * Please contact us if you want to receive details of the relevant fraud prevention agencies. You may contact us either by phone on 0844 800 3844 (Customer Service Helpline), by using the [online form](http://www.hastingsdirect.com/contactus.html) or by emailing Customerrelations@hastingsdirect.com
+  * We and other organisations may access and use from other countries the information recorded by fraud prevention agencies.
+
+
+
+### An alternative credit option may be available for policies underwritten by Aviva
+
+The finance option shown to you is arranged by Hastings Direct and is the cheapest available to you from us. An alternative credit option may be available for policies underwritten by Aviva. Please email us at [alternativecredit@hastingsdirect.com](mailto:alternativecredit@hastingsdirect.com) for further information.
 
 ### Motor insurance anti-fraud and theft register ('Register')
 
