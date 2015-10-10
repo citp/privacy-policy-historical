@@ -1,27 +1,28 @@
-> *The following text is extracted and transformed from the libgig.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608103730id_/http%3A//www.libgig.com/%3Fpage_id%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libgig.com privacy policy that was archived on 2015-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151010020131id_/http%3A//www.libgig.com/%3Fpage_id%3D6) for the most accurate reproduction.*
 
-# Privacy - LIBGIG
-
-## Privacy
+# Privacy Policy - LIBGIG
 
 At LibGig, the privacy and confidentiality of user information is important. We are committed to maintaining the privacy and security of your user information. We may update this policy from time to time, so please check here frequently. LibGig will not disclose identifiable user information to any third party without consent.
 
-LibGig is committed to safeguarding your privacy while visiting the LibGig website, namely, [www.libgig.com](http://www.libgig.com/ "www.libgig.com") (hereinafter all identified URLs are collectively referred to as the “site”). Our goal is to provide you with an Internet experience that delivers the information, resources and services that are most relevant to you. To achieve this goal, part of the operation of the site includes the gathering of certain types of information about site users. Because we understand that your privacy is important, we wish to explain the types of information we gather and the way in which we use it. This Privacy Policy applies to the site.
+LibGig is committed to safeguarding your privacy while visiting the LibGig website, namely, [www.libgig.com](http://www.libgig.com/) (hereinafter all identified URLs are collectively referred to as the “site”). Our goal is to provide you with an Internet experience that delivers the information, resources and services that are most relevant to you. To achieve this goal, part of the operation of the site includes the gathering of certain types of information about site users. Because we understand that your privacy is important, we wish to explain the types of information we gather and the way in which we use it. This Privacy Policy applies to the site.
 
 This Privacy Policy covers two types of information gathered at the site, personal and aggregated. The term “personal information” refers to data you voluntarily provide in connection with use of the site that identifies you and/or the company on whose behalf you are accessing and using the site. Personal information includes, e.g., data submitted in connection with our services, such as your name, e-mail address, phone number, company affiliation, physical address and/or certain other personal information.
 
 The term “aggregated data” refers to general information regarding visitors and users of the site that relates to use of the site, e.g., traffic patterns, number of visits to certain pages, visits from other web sites or to third-party web sites linked to the site, use of particular services and interest in services, information or features of the site or other parties made available through or found at the site.
 
-**What information is collected about you? How do we use it?**  
+**What information is collected about you? How do we use it?**
+
 We take the utmost care to ensure that the personal information we obtain from you is not used in a way that you may be unaware of or not agreeable to. You may wish to submit an information request about LibGig, participate in any of our promotions, contests or surveys, or subscribe to our e-mail lists. In response, we may ask for information such as your name, email or postal address. In the event you opt to provide us with this information, we will only use it for the purpose specified by you at the bottom of the information gathering form.
 
 Information collected on the site may be used to:
 
-– Register you as a job applicant  
-– Enter your email in our promotions or sweepstakes  
-– Send marketing communications or surveys to you  
-– Respond to your questions or suggestions  
-– Improve the quality of your visit to the site
+  * Register you as a job applicant
+  * Enter your email in our promotions or sweepstakes
+  * Send marketing communications or surveys to you
+  * Respond to your questions or suggestions
+  * Improve the quality of your visit to the site
+
+
 
 All forms will provide an opt-out button to allow you to choose not to participate in LibGig lists and future online marketing. In deciding whether or not to join such lists, please note that they are only used for LibGig purposes or in joint promotions with a LibGig partner. We do not sell, rent or share any of your personal information with any other party including any third-party joint promoters, nor use it for unapproved commercial purposes. You may request to be removed from our lists at any time. All emails distributed to our lists will contain easy, online access to unsubscribe.
 
@@ -47,10 +48,12 @@ LibGig is interested in improving the site and may develop and offer new feature
 
 **Exceptions to the Privacy Policy**
 
-LibGig has two exceptions to these limits on use of personal information:  
-1\. LibGig may monitor and, when we believe in good faith that disclosure is required, disclose information to protect the security, property, assets and/or rights of LibGig from unauthorized use, or misuse, of the site or anything found at the site.
+LibGig has two exceptions to these limits on use of personal information:
 
-2\. LibGig may disclose information when required by law; however, only to the extent necessary and in a manner that seeks to maintain the privacy of the individual.
+  1. LibGig may monitor and, when we believe in good faith that disclosure is required, disclose information to protect the security, property, assets and/or rights of LibGig from unauthorized use, or misuse, of the site or anything found at the site.
+  2. LibGig may disclose information when required by law; however, only to the extent necessary and in a manner that seeks to maintain the privacy of the individual.
+
+
 
 **Use of Cookies**
 
