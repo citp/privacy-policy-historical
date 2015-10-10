@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sinrex.com privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620192755id_/https%3A//www.sinrex.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sinrex.com privacy policy that was archived on 2015-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151010052223id_/https%3A//www.sinrex.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -61,7 +61,7 @@ If you have any questions about this privacy statement, the practices of this si
 
 As a visitor of **Sinrex.com** and consumer of **Sinrex** products,you must accept the terms and agreements of our Terms of Service and Privacy Policy.
 
-[](https://web.archive.org/web/20150620192755id_/https%3A//www.sinrex.com/products.php)
+[](https://web.archive.org/web/20151010052223id_/https%3A//www.sinrex.com/products.php)
 
   
 
