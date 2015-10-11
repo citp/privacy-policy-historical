@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokemmo.eu privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508180319id_/https%3A//pokemmo.eu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokemmo.eu privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011110301id_/https%3A//pokemmo.eu/privacy) for the most accurate reproduction.*
 
 # PokeMMO - Privacy
 
