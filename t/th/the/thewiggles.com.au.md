@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the thewiggles.com.au privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614184639id_/http%3A//www.thewiggles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewiggles.com.au privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011155128id_/http%3A//www.thewiggles.com.au/privacy-policy) for the most accurate reproduction.*
 
 # The Wiggles
 
 ## Privacy Policy
 
-Parents: By agreeing to this Privacy Policy, you consent to the use of your childs personal information in accordance with this Privacy Policy.
+Parents: By agreeing to this Privacy Policy, you consent to the use of your child’s personal information in accordance with this Privacy Policy.
 
 1\. GENERAL
 
-This Privacy Policy applies to the network of websites operated and controlled by The Wiggles Pty Limited (we or us), being the websites for The Wiggles, Wiggle Time, The Wiggles Shop and any other websites we may establish and control from time to time (the Wiggles Websites)
+This Privacy Policy applies to the network of websites operated and controlled by The Wiggles Pty Limited (‘we’ or ‘us’), being the websites for ‘The Wiggles’, ‘Wiggle Time’, ‘The Wiggles Shop’ and any other websites we may establish and control from time to time (‘the Wiggles Websites’)
 
 2\. DISCLOSURE
 
@@ -38,7 +38,7 @@ Our primary concern is to protect the interests of the children who are our audi
 
 4\. MAILING LISTS
 
-When you register to access or become a member of a Wiggles Website, you may be prompted for your email address. You will be informed when you register that by submitting your email address, you consent to receiving communications by email from time to time. We maintain a mailing list for the purpose of communicating updates and other information on the Wiggles and our products to members of the mailing list. If you wish to unsubscribe from such mailing lists, you may unsubscribe at any time by clicking on the unsubscribe button which appears at the bottom of our emails to you. We will not use your email address for any other purpose (including adding it to any third party mailing list) without your express approval.
+When you register to access or become a member of a Wiggles Website, you may be prompted for your email address. You will be informed when you register that by submitting your email address, you consent to receiving communications by email from time to time. We maintain a mailing list for the purpose of communicating updates and other information on the Wiggles and our products to members of the mailing list. If you wish to unsubscribe from such mailing lists, you may unsubscribe at any time by clicking on the ‘unsubscribe’ button which appears at the bottom of our emails to you. We will not use your email address for any other purpose (including adding it to any third party mailing list) without your express approval.
 
 5\. COOKIES
 
@@ -64,4 +64,4 @@ Despite the foregoing, we will not be held responsible for the consequences of u
 
 9\. CHANGES TO OUR PRIVACY POLICY AND COMPLAINTS
 
-If we amend our Privacy Policy, we will post the changes here. If you have any questions about this Privacy Policy or complaints, or would like to request that your or your childs personal information be deleted from our records, please contact us.
+If we amend our Privacy Policy, we will post the changes here. If you have any questions about this Privacy Policy or complaints, or would like to request that your or your child’s personal information be deleted from our records, please contact us.
