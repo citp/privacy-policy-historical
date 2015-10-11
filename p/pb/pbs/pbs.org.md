@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pbs.org privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626111128id_/http%3A//www.pbs.org/about/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pbs.org privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011152009id_/http%3A//www.pbs.org/about/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Terms and Conditions : PBS
 
