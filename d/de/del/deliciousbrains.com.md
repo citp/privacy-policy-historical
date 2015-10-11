@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deliciousbrains.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315060319id_/https%3A//deliciousbrains.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deliciousbrains.com privacy policy that was archived on 2015-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151012005022id_/https%3A//deliciousbrains.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Delicious Brains
 
@@ -146,7 +146,7 @@ These provisions set out specific details about how we handle your Collected Dat
 Delicious Brains Inc.  
 Attention: Brad Touesnard, President  
 Suite 200-252, 14 Court Street, Truro, NS, Canada B2N 3H7  
-(902) 209-8751 
++1 (902) 702-6633 
 
   25. This Privacy Policy is effective as of 2012-01-19 (the " **Effective Date** "). 
 
