@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tigerclaw.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321184015id_/https%3A//www.tigerclaw.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigerclaw.com privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011022419id_/https%3A//www.tigerclaw.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
 # Tiger Claw » Customer Service :: Martial Arts Supplies, Uniforms, Sparring Gear, and More
 
@@ -45,20 +45,5 @@ By adjusting your browser settings, you can be warned each time a cookie is bein
 
 **Your consent  
 **By using our site, you consent to our privacy policy
-
-## 
-
-[](https://www.tigerclaw.com/blog/wp-content/uploads/2015/01/GGM-Masters-Seminar-791x1024.jpg)
-
-## Featuring the Founder of Shaolin Kenpo  
-Great Grandmaster Ralph Castro  
-Saturday, March 28, 2015  
-12:00pm-2:30pm
-
-### Shaolin Kenpo Martial Arts,  
-69 Washington St., Daly City, CA 94014  
-Seminar Info: 650-274-7714
-
-[Read a list of all events](https://www.tigerclaw.com/events-martial-arts-pg-7.html "Events")
 
 [](https://www.positivessl.com/)
