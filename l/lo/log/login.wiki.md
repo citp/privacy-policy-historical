@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the login.wiki privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602220147id_/http%3A//login.wiki/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the login.wiki privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011230914id_/http%3A//login.wiki/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
