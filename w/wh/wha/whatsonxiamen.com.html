@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the whatsonxiamen.com privacy policy that was archived on 2015-05-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150520114545id_/http%3A//www.whatsonxiamen.com/policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the whatsonxiamen.com privacy policy that was archived on 2015-10-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151012004731id_/http%3A//www.whatsonxiamen.com/policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US"><head>
 	<title>Policy -- what's on xiamen</title>
@@ -68,9 +68,8 @@
             });
         </script>
 		<div id="bignav">
-        	<div id="login">
-				                <a href="/signin.php">Login</a> | <a href="/register.html">Register</a>
-                            </div>	
+        	<div id="login" style="width:92px"></div>
+			<script language="javascript">$.get('/nav_user_area.php',function(data){$("#bignav #login").html(data)});</script>
 			<ul id="firstnav">	
                 <li class="deep">
                 	<a href="/" id="homess">Home</a>
@@ -124,7 +123,7 @@
                         </li>
                     </ul>
                 </li>
-                <li class="lastli">
+                <li>
                 	<a href="/china-trade-invest.php" id="businessss">Xiamen Business &amp; Trade</a>
                 	<ul id="businessnavss" style="position:absolute;margin:0;height:30px;display:none;margin-left:6px;">
                     	<li style="float:left;font-size:12px;font-weight:bold;height:20px;margin-left:0px;border:0px;margin-right:0px;">
@@ -138,6 +137,12 @@
                         </li>
                     </ul>
                 </li>
+                
+                <li class="lastli">
+                	<a href="http://woxmobile.com" target="_blank">WOX Mobile</a>
+                	
+                </li>
+
             </ul>
             <div id="share">
             <!-- AddThis Button BEGIN
