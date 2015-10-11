@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startivi.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317034915id_/http%3A//www.startivi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startivi.com privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011155720id_/http%3A//www.startivi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
