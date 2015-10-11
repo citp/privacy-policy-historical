@@ -1,80 +1,150 @@
-> *The following text is extracted and transformed from the freshershome.com privacy policy that was archived on 2014-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141215195748id_/http%3A//www.freshershome.com/jobs/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshershome.com privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011095214id_/http%3A//www.freshershome.com/jobs/privacy.php) for the most accurate reproduction.*
 
-# Freshershome.com - Privacy Policy!
+# Privacy Policy: Freshershome.com
 
-## Privacy Policy
-
-  
 Freshershome.com, is committed to safeguarding your privacy online. We will use our best efforts to ensure that the information you submit to us remains **private**. Please read the following policy to understand how your personal information will be treated. This policy may change from time to time so please check back periodically. 
 
-**Access**
+This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-A Job Seeker is entitled to access to his/her own personal data kept with FreshersHome.com and may edit or amend such personal data at any time. 
+ **What personal information do we collect from the people that visit our blog, website or app?** When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, phone number, resume or other details to help you with your experience. 
 
-Retention of Personal Details Subject to legal requirements, the personal data of the Job Seeker will be retained by FreshersHome.com after deactivation of the Service until the Job Seeker formally requests FreshersHome.com to erase his/her own personal data from FreshersHome.com's database.
+**When do we collect information?**
 
-The Job Seeker can delete his or her own personal data at any time via the Resume profile section of our website. 
+We collect information from you when you register on our site or enter information on our site. 
 
-**Information Collection and Use**
+**How do we use your information?**
 
-_Registration_ \-- A user must register in order to utilize the job search and candidate matching service. During registration, a user is required to provide certain categories of information, such as name, address, college information, e-mail address and password. In addition, a user may choose to provide other categories of information, such as career objectives, prior work history, job related skills and other job search related information. Freshershome.com encourages its users to provide all of these fields of information so that users may maximize the effectiveness of the job search and candidate matching services. 
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways: 
 
-_Gathering Information to Enhance Service_ \-- In addition to the information that you actively provide to Freshershome.com by methods such as completing the registration form, Freshershome.com collects information about how you interact with our site. Freshershome.com collects passive information for purposes such as testing and improving a user's experience at the site and the compilation of broad aggregate demographic data and related usage information for internal purposes and for disclosure to third parties such as advertisers and content partners. The types of passive information collected by this site include, without limitation, your IP address, which type of browser you are using, where you go on our site, and how long you stay on any part of our site. Passive information does not identify you to Freshershome.com by name, and Freshershome.com does not link your IP address to your personally identifiable information. 
+      **•** To personalize user's experience and to allow us to deliver the type of content and product offerings in which you are most interested.
 
-_Referring a Friend_ \-- You can choose to let a friend know about Freshershome.com through our Refer a Friend program. If you choose to use the Refer a Friend program, we will ask you for your friend's name and e-mail address and Freshershome.com will send your friend an e-mail inviting him or her to visit Freshershome.com to learn more about our services. Freshershome.com does not store your friend's contact information. 
+      **•** To improve our website in order to better serve you.
 
-_Optional Information_ \-- At various other points during your visit to Freshershome.com, you may be asked to provide information about yourself. For example, you may indicate that you wish to participate in a partner company sponsored contest. At this point your information would become the property of both Freshershome.com and the partner co-sponsoring the contest. In instances such as this, Freshershome.com is not responsible for the information that the partner company receives. Participation in surveys or contests or the use of other services that require the input of additional information is completely voluntary on your part, and you have the choice about whether to disclose the information necessary to use these features of our site. 
+      **•** To allow us to better service you in responding to your customer service requests.
 
-**Use of Information**
+      **•** To send periodic emails regarding your order or other products and services.
 
-The information that you supply to Freshershome.com enables us to provide job search and candidate matching services, to the Employers, Recruiters, and consultants. In addition, Freshershome.com uses your information in order to customize our site to your interests and enhance your overall experience at our site. Along with this we gather other important information and keep the data to outself to Improve our quality of service, Advertisements, site layout design and other structural materials. 
+ **How do we protect visitor information?**  
+We do not use vulnerability scanning and/or scanning to PCI standards.
 
-_Online Application for a Job_ \-- When applying for a job on Freshershome.com, you respond directly to the employer and this is considered confidential information. Under NO circumstances does Freshershome.com publicize your confidential response to any particular company. It is totally upto you to allow employers to view your personal information [ **Blocked Fields** ] 
+We use regular Malware Scanning.  
+We do not use an SSL certificate
 
-_Contacting by E-Mail / News letter Service_ \-- Freshershome.com may use your contact information periodically in order to send you e-mail regarding updates at the Freshershome.com site. The frequency of these messages will vary depending upon your profile. In addition, we may send you free informational newsletters or notices relating to topics that may be of special interest to you, including job opportunities and job advice. Finally, if you specifically provide Freshershome.com with permission at the time of registration, you may also receive commercial e-mails. Out of respect for the privacy of our users, we present the option to opt-out of receiving many of the newsletters and/or commercial e-mails whenever Freshershome.com sends such messages. However certain communications from Freshershome.com such as service announcements, administrative messages and the Weekly Newsletter are considered part of Freshershome.com membership and you may not opt out of receiving them. E-mail messages from third parties are not governed by the opt-out provisions of this Privacy Policy, but all such third parties are strongly encouraged to include opt-out procedures in their messages to you. 
+      **•** We only provide articles and information, we never ask for personal or private information like email addresses, or credit card numbers.
 
-**Transfer of Data**
+ **Do we use 'cookies'?** Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
-Freshershome.com does not **rent, sell, or share personal information** about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
+**We use cookies to:**
 
-  * We provide the information to trusted Employers, Who inturn use this information for setting up interviews, walk-ins, off campus drives, No Personal Information is shared unless you allow them to view the currently blocked items. 
-  * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
+      **•** Help remember and process the items in the shopping cart.
 
-**Your Ability to Edit Your Account Information and Preferences**
+      **•** Keep track of advertisements.
 
-  * You can edit your Freshershome.com Account Information, including your marketing preferences, at any time. 
-  * New categories of communication may be added to the Subscriptions page from time to time. Users who visit this page can opt out of receiving future communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive.
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.
 
-**Security**
+If you disable cookies off, some features will be disabled It won't affect the users experience that make your site experience more efficient and some of our services will not function properly. 
 
-  * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
-  * We have physical, electronic, and procedural safeguards to protect personal information about you. 
-  * Your Freshershome.com account Information is password-protected.
+However, you can still place orders .
 
+ **Third Party Disclosure**
 
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
 
-**We At FreshersHome.com,** we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit FreshersHome.com, and how we safeguard your information. We never sell your personal information to third parties.
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-**Log Files**  
-As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site. 
+ **Third party links** :Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-**Cookies and Web Beacons**
+ **Google**
 
-  * Google, as a third party vendor, uses cookies to serve ads on FreshersHome.com Website. 
-  * Google's use of the DART cookie enables it to serve ads to FreshersHome.com users based on their visit to your sites and other sites on the Internet. 
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en  
+We use Google AdSense Advertising on our website.
 
   
-We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums. 
+Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-We also use third party advertisements on FreshersHome.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing Bangalore real estate ads to someone in Bangalore, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+  
+**We have implemented the following:**
 
-You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+      **•** Remarketing with Google AdSense
 
-**Other Provisions**
+We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website. 
 
- _Acceptance of Terms/Changes to Privacy Policy_ \-- Your use of this site [FreshersHome.com] indicates an acceptance of the terms of the **Privacy Policy**. Freshershome.com reserves the right to update or amend this Privacy Policy at any time. 
+**Opting out:**  
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
 
-**Contacting the FreshersHome.com**
+ **California Online Privacy Protection Act**
 
-If you have any questions about this Privacy Statement, the practices of our site, or your dealings with our site, please [Contact Us](http://www.freshershome.com/jobs/contact-us.php "Contact us").
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. - See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+
+  
+**According to CalOPPA we agree to the following: webmaster@freshershome.com**
+
+Users can visit our site anonymously
+
+Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.
+
+Our Privacy Policy link includes the word 'Privacy', and can be easily be found on the page specified above.
+
+  
+Users will be notified of any privacy policy changes:
+
+      **•** On our Privacy Policy Page
+
+Users are able to change their personal information:
+
+      **•** By logging in to their account
+
+  
+**How does our site handle do not track signals?**
+
+We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+
+**Does our site allow third party behavioral tracking?**
+
+It's also important to note that we do not allow third party behavioral tracking
+
+ **COPPA (Children Online Privacy Protection Act)** When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.We market to 
+
+We do not collect information from children under 13
+
+children under 13.No 
+
+**In order to remove your child's information please contact the following personnel:**
+
+**We adhere to the following COPPA tenants:**
+
+      **•** Parents can review, delete, manage or refuse with whom their child's information is shared through contacting us directly.
+
+or contacting us directly. **Fair Information Practices**
+
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.  
+ 
+
+**In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
+
+We will notify the users via in site notification
+
+      **•** Within 7 business days
+
+  
+We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
+
+ **CAN SPAM Act** The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+
+ **We collect your email address in order to:**
+
+      **•** Send information, respond to inquiries, and/or other requests or questions.
+
+**To be in accordance with CANSPAM we agree to the following:**
+
+      **•** NOT use false, or misleading subjects or email addresses
+
+      **•** Allow users to unsubscribe by using the link at the bottom of each email
+
+**If at any time you would like to unsubscribe from receiving future emails, you can**
+
+      **•** Follow the instructions at the bottom of each email.
+
+and we will promptly remove you from **ALL** correspondence.
+
+Please contact webmaster@freshershome.com for further details. 
