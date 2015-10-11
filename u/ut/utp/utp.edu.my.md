@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utp.edu.my privacy policy that was archived on 2015-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150213021105id_/http%3A//www.utp.edu.my/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D1339%26Itemid%3D3194) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utp.edu.my privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011072513id_/http%3A//www.utp.edu.my/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D1339%26Itemid%3D3194) for the most accurate reproduction.*
 
 # Privacy Notice
 
