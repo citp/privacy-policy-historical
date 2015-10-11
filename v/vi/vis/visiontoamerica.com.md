@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visiontoamerica.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609200432id_/http%3A//visiontoamerica.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visiontoamerica.com privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011063601id_/http%3A//visiontoamerica.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Vision to America
 
