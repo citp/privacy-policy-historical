@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the philips.co.uk privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613055704id_/http%3A//www.philips.co.uk/privacynotice/index.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philips.co.uk privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011205514id_/http%3A//www.philips.co.uk/privacynotice/index.page) for the most accurate reproduction.*
 
 # Philips Privacy Notice
 
@@ -180,4 +180,10 @@ The new Privacy Notice will be effective upon posting. If you do not agree to th
 
 ### How to contact us
 
-Contact us at [privacy@philips.com](mailto:privacy@philips.com) or surf to our [contact page](http://www.support.philips.com/support/contact/contact_page.jsp?userLanguage=en&userCountry=gb).
+Contact us at [privacy@philips.com](mailto:privacy@philips.com). Please note that this email address is strictly for privacy related queries.  
+
+
+General customer service questions will not be answered if sent to this email address. If your question is not related to privacy, please submit it through our contact page here.
+
+<http://www.philips.co.uk/c-w/support-home/support-contact-page.html>  
+
