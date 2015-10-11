@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the mediaocean.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511230953id_/http%3A//www.mediaocean.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediaocean.com privacy policy that was archived on 2015-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151012015917id_/http%3A//www.mediaocean.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mediaocean
 
-(Effective as of February 1, 2014)
+(Effective as of June 15, 2015)
 
-This privacy policy explains how we (Mediaocean) will use Personal Information that we collect from you, or that you provide. For definitions, please see the bottom of this page.
+This privacy policy explains how we (Mediaocean) will use Personal Information that we collect from you, or that you provide. For definitions, please see the bottom of this page. We recognize and respect your privacy rights with regard to Personal Information.
 
-We recognize and respect your privacy rights with regard to Personal Information. As part of our compliance with European Union privacy laws, we participate in the International Safe Harbor Program established by the United States and the European Union (see <http://export.gov/safeharbor/>) for the purpose of regulating the transfer of Personal Information from Europe to the United States. We comply with the US-EU Safe Harbor Framework as set out by the US Department of Commerce.
-
-With respect to Personal Information that is collected, stored or used by our clients, we act only as a Data Processor. Our sole function is to provide technical support to run the systems on our mainframe and servers for the benefit of our clients. The client company is the Data Controller and is responsible for data protection obligations pertaining to its notification, collection, accuracy, and timely disposal. The client company is also responsible for arrangements to enable you to access your own Personal Information, subject to confirmation of identification, and for authorizing disclosure to Third Parties.  Mediaocean’s responsibilities for this data are limited to making provisions for the security, availability and integrity of data on our systems.
-
-In accordance with the provisions of Safe Harbor’s FAQ 10 – Article 17 contracts, we have entered into a contract with each of our clients that defines their ownership of all data which their employees enter into our systems. Under the terms of each contract, we’re obliged to process the data only in accordance with instructions from the client. Thus, we’re not required to apply the Safe Harbor principles to this information because the Data Controller remains responsible for it vis-à-vis each individual in accordance with EU provisions.
+With respect to Personal Information that is collected, stored or used by our clients, we act only as a Data Processor. Our sole function is to provide technical support to run the systems on our mainframe and servers for the benefit of our clients. The client company is the Data Controller and is responsible for data protection obligations pertaining to its notification, collection, accuracy, and timely disposal. The client company is also responsible for arrangements to enable you to access your own Personal Information, subject to confirmation of identification, and for authorizing disclosure to Third Parties. Mediaocean’s responsibilities for this data are limited to making provisions for the security, availability and integrity of data on our systems and to processing personal data solely in accordance with the instructions of our clients.
 
 Acting as a Data Controller, we may collect and process the following information about you:
 
@@ -36,7 +32,11 @@ We use your Personal Information in the following ways:
 
 To minimize the risk of unauthorized access to your information, we may use some of your information to authenticate you when using our website or when you contact us by telephone.
 
-We do not pass on your data to third parties and will notify you if this changes.
+The Mediaocean Support site runs on a cloud-based software solution operated by Zendesk at Tier III, SSAE-16, or ISO 27001 compliant data centers which may be located in the United States of America. The regulations around data privacy in the US are different from those of the EU and may not provide for an adequate level of data protection as it is provided within the EU. However, companies within the US can sign up to the US-EU Safe Harbor framework to ensure that data pertaining to EU citizens is correctly protected in line with EU regulations. Zendesk is certified to this US- EU Safe Harbor framework. Mediaocean shares your name, email address and company information with Zendesk for the purpose of operating the site, and it is used strictly for the purposes described above. For more information, please see Zendesk’s [privacy policy](https://www.zendesk.com/company/privacy/) and [information security policy.](https://www.zendesk.com/product/features/zendesk-security/)
+
+Mediaocean also uses Salesforce to manage key contact information of the types and for the purposes described above. Salesforce provides a cloud-based software solution at top-tier data center which also may be located in the United States. Salesforce is certified to the US- EU Safe Harbor framework and to the TRUSTe privacy seal. For more information please see Salesforce’s [privacy policy](http://www.salesforce.com/company/privacy/full_privacy.jsp) and [information security policy.](http://trust.salesforce.com/trust/learn?tab=learn&title=Salesforce%20Trust%20-%20Learn)
+
+We may share your personal data with our parent company Mediaocean which is situated in the United States of America. Other than that, we do not pass on your data to any other third parties and will notify you if this changes.
 
 If you have any concerns or queries about how Mediaocean stores or uses your data, please contact your support team.
 
@@ -49,13 +49,17 @@ We use cookies as follows:
 
 
 
-We also use Google Analytics cookies to collect traffic data which tells us how our site is being used.  If you would prefer to switch off the use of Google Analytics cookies, please use the [Google utility](https://tools.google.com/dlpage/gaoptout) cookie to opt-out of Google Analytics across all websites.
+We also use Google Analytics cookies to collect traffic data which tells us how our site is being used. The information generated by these cookies is usually sent to a Google server in the USA, where it is stored. However, because IP anonymisation is activated on this website, your IP address is first abbreviated by Google within the Member States of the European Union or in other Contracting States of the Agreement on the European Economic Area. Only in exceptional cases is the full IP address sent to a Google server in the USA and shortened there. On behalf of the operator of this website, Google will use this information to evaluate your use of the website, to compile reports on website activities, and to provide the website operator with additional services connected with website and Internet use. The IP address transmitted by your browser in connection with Google Analytics is not collated with other data by Google. You can prevent the cookies from being stored by setting your browser software accordingly. However, please note that you may not then be able to make full use of all the website's functions. Furthermore, you also have the option of preventing transmission of the data created by the cookie, relating to your use of the website (including your IP address) to Google, and its processing by Google. To do this, you need to download and install the browser plug-in available at the following link (<http://tools.google.com/dlpage/gaoptout?hl=en>).
 
 We do not use third-party cookies on our web sites.
 
 The use of cookies by our partners, affiliates and service providers is not covered by our privacy statement. We do not have access or control over these cookies
 
-We handle Personal Information in accordance with the seven Safe Harbor Privacy Principles (Notice, Choice, Onward Transfer, Security, Data Integrity, Access, and Enforcement). You can find a full statement of these principles, summarized below, on the Safe Harbor website of the U.S. Dept. of Commerce at <http://export.gov/safeharbor/eu/eg_main_018476.asp>.
+You have the right to opt-out of any use of your personal data for marketing purposes by contacting us. You may also demand access to, deletion or correction of the personal data we hold about.
+
+This section explains the data protection requirements under the Safe Harbor framework (see <http://export.gov/safeharbor/>) that our parent company Mediaocean in the United States participates in. These principles apply to the processing of your personal information by our parent company, e.g. if your personal data is shared with Mediaocean United States.
+
+We (Mediaocean United States) will handle Personal Information in accordance with the seven Safe Harbor Privacy Principles (Notice, Choice, Onward Transfer, Security, Data Integrity, Access, and Enforcement). You can find a full statement of these principles, summarized below, on the Safe Harbor website of the U.S. Dept. of Commerce at <http://export.gov/safeharbor/eu/eg_main_018476.asp>. These seven Principles are:
 
 ## 1\. Notice
 
@@ -77,7 +81,8 @@ As a matter of routine business, we don’t disclose Personal Information to Thi
 
 ## 3\. Onward transfer
 
-We may disclose your Personal Information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries.  
+We may disclose your Personal Information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries.
+
 We may also disclose your Personal Information to Third Parties if we’re under a duty to disclose or share your Personal Information in order to comply with any legal obligation, or in order to enforce or apply our terms of use and other agreements; or to protect our rights, property, or safety, or those of our customers or others.
 
 Before making disclosure to a Third Party, we’ll first apply the Notice and Choice principles as described above. Unless the disclosure is legally required (such as tax reporting or responding to a judicial subpoena), we also ensure that the Third Party is obliged (by law, contract, or its own Safe Harbor certification) to provide at least the same level of privacy protection as is required by these principles. Where we contract with Third Parties to process Personal Information on our behalf, our policy is to contractually oblige the Third Parties to maintain the confidentiality and security of Personal Information they receive; to act upon it only in accordance with the instructions they receive from us and/or the client company; and to handle the information strictly in accordance with these principles.
