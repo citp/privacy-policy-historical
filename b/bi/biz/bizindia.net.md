@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bizindia.net privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316155446id_/http%3A//www.bizindia.net/%3Fpage_id%3D375) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizindia.net privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011155439id_/http%3A//www.bizindia.net/privacy-policy) for the most accurate reproduction.*
 
 # BizIndiaPrivacy Policy » BizIndia
 
-[](https://www.derbyappliances.com/)**BIZ INDIA Privacy Policy Highlights**
+**BIZ INDIA Privacy Policy Highlights**
 
 Last Updated on August 09, 2010
 
@@ -54,4 +54,4 @@ We employ measures designed to protect the security of your personal identifying
 
 How To Contact Us
 
-For any questions or comments regarding our information or security practices, you may contact us through the “Contact Us” form. or by mail at our current mailing address.
+For any questions or comments regarding our information or security practices, you may contact us through the “Contact Us” form. or by mail at our current mailing address.[](https://www.derbyappliances.com/)
