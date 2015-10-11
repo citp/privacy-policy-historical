@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the better-coupons.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609040700id_/http%3A//www.better-coupons.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the better-coupons.com privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011111348id_/http%3A//www.better-coupons.com/privacy-policy) for the most accurate reproduction.*
 
 # Better Coupons | Coupon codes, promo codes & discounts that work! | Better-Coupons.com
 
