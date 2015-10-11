@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the seolite.eu privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408105008id_/http%3A//seolite.eu/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seolite.eu privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011032329id_/http%3A//www.seolite.eu/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy policy |
 
-**MediaArte.NET privacy policy**
+**lokoz.com privacy policy**
 
-This privacy policy sets out how MediaArte.NET uses and protects any information that you give MediaArte.NET when you use this website.
+This privacy policy sets out how lokoz.com uses and protects any information that you give lokoz.com when you use this website.
 
-MediaArte.NET is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+lokoz.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-MediaArte.NET may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from October 2nd, 2013.
+lokoz.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from October 2nd, 2013.
 
 **What we collect**
 
