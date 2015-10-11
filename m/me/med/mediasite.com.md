@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediasite.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613032716id_/http%3A//www.sonicfoundry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediasite.com privacy policy that was archived on 2015-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151012002436id_/http%3A//www.sonicfoundry.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Sonic Foundry
 
