@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloud10beauty.com privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019111532id_/http%3A//www.cloud10beauty.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloud10beauty.com privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011143849id_/http%3A//www.cloud10beauty.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -100,4 +100,4 @@ This website contains links to other sites that are not controlled by Cloud Ten 
 Any changes to this Website Privacy Policy will be posted on this page and, where appropriate, notified to you by email. You should visit this page periodically to review any changes to the privacy policy. 
 
 **Contact Us**  
-If you have any questions or suggestions regarding our privacy policy, please contact us via our [contact us](https://web.archive.org/web/20141019111532id_/http%3A//www.cloud10beauty.com/getintouch) page.
+If you have any questions or suggestions regarding our privacy policy, please contact us via our [contact us](https://web.archive.org/web/20151011143849id_/http%3A//www.cloud10beauty.com/getintouch) page.
