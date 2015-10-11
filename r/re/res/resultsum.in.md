@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the resultsum.in privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602043446id_/http%3A//www.resultsum.in/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resultsum.in privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011071622id_/http%3A//www.resultsum.in/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy of Resultsum.in
+# Privacy Policy | Resultsum.In - Current Results 2016 Admit Card | Jobs | Date Sheet
 
 **Privacy Policy**
 
