@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dietdirect.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618045618id_/http%3A//www.dietdirect.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dietdirect.com privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011055243id_/http%3A//www.dietdirect.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -110,4 +110,5 @@ dietDirect
 3200 Corporate Drive, Suite B  
 Wilmington, NC 28405
 
-Last Updated: January 30, 2015
+The Diet Direct Privacy Policy last updated on August 18, 2015  
+
