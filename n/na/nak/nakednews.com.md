@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nakednews.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429052616id_/http%3A//www.nakednews.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nakednews.com privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011134640id_/http%3A//www.nakednews.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Naked News
 
