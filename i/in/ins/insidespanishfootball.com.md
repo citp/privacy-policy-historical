@@ -1,135 +1,101 @@
-> *The following text is extracted and transformed from the insidespanishfootball.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628020725id_/http%3A//www.insidespanishfootball.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidespanishfootball.com privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011024941id_/http%3A//www.insidespanishfootball.com/about/privacy-policy) for the most accurate reproduction.*
 
-# insidespanishfootball.com | Privacy Policy
+# Privacy Policy - Inside Spanish Football Inside Spanish Football
 
-**What information do we collect?**
+Inside Spanish Football Limited (“We”) are committed to protecting and respecting your privacy.
 
-We collect information from you when you register on our site or subscribe to our newsletter. 
+This policy (together with our [terms of use ](http://www.insidespanishfootball.com/about/terms-conditions/ "Terms & Conditions")and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is Inside Spanish Football, based in the USA.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+Our nominated representative for the purpose of the Act is Thomas Conn.
 
- **DoubleClick DART Cookie**
+INFORMATION WE MAY COLLECT FROM YOU
 
-.:: Google, as a third party vendor, uses cookies to serve ads on insidespanishfootball.com.  
-.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to insidespanishfootball.com and other sites on the Internet.   
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://google.com/privacy_ads.html 
+We may collect and process the following data about you:
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
-Google Adsense   
-Commission Junction   
-Widget Bucks   
-Adbrite   
-Clickbank   
-Epic / Azoogle   
-Chitika   
-Linkshare   
-Amazon   
-Kontera   
-Advertising.com   
-CPAStorm   
-Burst   
-Valueclick   
-InfoLinks   
-Vibrant Media   
-24/7 Real Media   
-Tribal Fusion   
-Casale   
-Tremor Media   
-Adify   
+* Information that you provide by filling in forms on our site www.insidespanishfootball.com (our site). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information [when you enter a competition or promotion sponsored by Inside Spanish Football, when you report a problem with our site.
 
+* If you contact us, we may keep a record of that correspondence.
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on insidespanishfootball.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+* We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
+* Details of transactions you carry out through our site and of the fulfilment of your orders.
 
-insidespanishfootball.com has no access to or control over these cookies that are used by third-party advertisers. 
+* Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. insidespanishfootball.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+IP ADDRESSES
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here http://www.networkadvertising.org/managing/opt_out.asp
+We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users’ browsing actions and patterns, and does not identify any individual.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+COOKIES
 
-**What do we use your information for?**
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and
 
-Any of the information we collect from you may be used in one of the following ways: 
+also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see our [Cookie policy.](http://www.insidespanishfootball.com/about/cookie-policy/ "Cookie Policy")
 
-\- To personalize your experience  
-(your information helps us to better respond to your individual needs)
+WHERE WE STORE YOUR PERSONAL DATA
 
-\- To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
-\- To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
-\- To process transactions
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+USES MADE OF THE INFORMATION
 
-\- To administer a contest, promotion, survey or other site feature
+We use information held about you in the following ways:
 
-\- To share with our third party marketing partners so they may send you offers for goods and services which you may find of interest
+* To ensure that content from our site is presented in the most effective manner for you and for your computer.
 
-\- To send periodic emails
+* To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.
 
-> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, advertisements etc. The email address you provide to subscribe to a newsletter, receive information or enter to win a prize may be used to send you information and updates, relevant content and advertisements.
+* To carry out our obligations arising from any contracts entered into between you and us.
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+* To allow you to participate in interactive features of our service, when you choose to do so.
 
- **How do we protect your information?**
+* To notify you about changes to our service.
 
-We implement a variety of security measures to maintain the safety of your personal information when you access your personal information. 
+We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by post or telephone.
 
-**Do we use cookies?**
+If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this.
 
-We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data (the [order form OR registration form]).
 
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service.
+[We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in SW1). We may make use of the personal data we have collected from you to enable us to comply with our advertisers’ wishes by displaying their advertisement to that target audience.]
 
- **Do we disclose any information to outside parties?**
+DISCLOSURE OF YOUR INFORMATION
 
-Other than described in this privacy policy, we do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, third party marketers, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
+We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
 
-**Third party links**
+We may disclose your personal information to third parties:
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+* In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
 
- **California Online Privacy Protection Act Compliance**
+* If Inside Spanish Football Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+* If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use or [terms and condition](http://www.insidespanishfootball.com/about/terms-conditions/ "Terms & Conditions")s of supply and other agreements; or to protect the rights, property, or safety of Inside Spanish Football, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
- **Childrens Online Privacy Protection Act Compliance**
+YOUR RIGHTS
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at info@insidespanishfootball.com.
 
- **Online Privacy Policy Only**
+Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
-This online privacy policy applies only to information collected through our website and not to information collected offline. 
+ACCESS TO INFORMATION
 
-**Your Consent**
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
-By using our site, you consent to our web site privacy policy. 
+CHANGES TO OUR PRIVACY POLICY
 
-**Changes to our Privacy Policy**
+Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
 
-If we decide to change our privacy policy, we will post those changes on this page. 
+CONTACT US
 
-**Contacting Us**
+**Email:**  info@insidespanishfootball.com.
 
-If there are any questions regarding this privacy policy or you wish to unsubscribe from our site and services you may contact us using the information below or by writing to us at:
+**USA Tel:**  +1 206 327 3570 (Tom Conn)
 
-2885 Sanford Ave  
-SW #19781  
-Grandville, MI 49418  
-USA 
-
-insidespanishfootball.com 
-
-Email:  
-contact@insidespanishfootball.com  
-
+**Postal Address:**  20021 · 12th Ave NE · Poulsbo · WA · 98370 · USA
