@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the millsandboon.co.uk privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612071016id_/http%3A//www.millsandboon.co.uk/Content/ContentPage/12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millsandboon.co.uk privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011064628id_/http%3A//www.millsandboon.co.uk/np/Content/ContentPage/12) for the most accurate reproduction.*
 
 # Romance, fiction books and ebooks from Mills & Boon
 
-Harlequin (UK) Ltd and www.millsandboon.co.uk are totally committed to the very highest level of customer service and this includes protecting your privacy and treating your personal information with the utmost confidentiality. We use the information we collect about you to process orders and to provide an individual and personalised experience and shopping area for you at www.millsandboon.co.uk.
+HarperCollins Publishers Ltd and www.millsandboon.co.uk are totally committed to the very highest level of customer service and this includes protecting your privacy and treating your personal information with the utmost confidentiality. We use the information we collect about you to process orders and to provide an individual and personalised experience and shopping area for you at www.millsandboon.co.uk.
 
 ## Information we collect and why?
 
@@ -18,7 +18,7 @@ Harlequin (UK) Ltd and www.millsandboon.co.uk are totally committed to the very 
 
 \- We may also use the information we collect to occasionally notify you about important functionality changes to the Web site, new services and special offers that we think you'll find useful.
 
-If you would rather not receive this information, please send an e-mail to customer.relations@hqnuk.co.uk
+If you would rather not receive this information, please send an e-mail to [csmillsandboon@harpercollins.co.uk](mailto:%20csmillsandboon@harpercollins.co.uk)
 
 ## What do we do to protect your information?
 
@@ -35,11 +35,11 @@ Most browsers automatically accept cookies, but you can usually change your brow
 
 As a customer of Mills & Boon, you can receive our free email messages and get exclusive, tailored product offers and deals based on your preferences, browsing behaviour and the purchases you make from Mills & Boon.
 
-If you do not wish to receive these emails you have the option to opt out at any time by clicking on the unsubscribe link found at the bottom of our emails and/or send a blank e-mail message to customer.relations@hqnuk.co.uk or dataman@hqnuk.co.uk to change your preferences. Remember to change your preferences for each of the e-mail accounts you have given us.
+If you do not wish to receive these emails you have the option to opt out at any time by clicking on the unsubscribe link found at the bottom of our emails and/or send an e-mail message to [csmillsandboon@harpercollins.co.uk](mailto:%20csmillsandboon@harpercollins.co.uk) to change your preferences. Remember to change your preferences for each of the e-mail accounts you have given us.
 
 ## Will we disclose the information we collect to outside parties?
 
-www.millsandboon.co.uk may choose to sell, trade or rent your personal information to trustworthy third parties, but should you wish us not to do so then send a blank e-mail message to customer.relations@hqnuk.co.uk or dataman@hqnuk.co.uk . (If you use more than one e-mail address to access us, send this message from each e-mail account you use.) Also, we may provide aggregate statistics about our customers, sales, traffic patterns and related site information to reputable third-party vendors, but these statistics will not include any personal identifying information.
+www.millsandboon.co.uk may choose to sell, trade or rent your personal information to trustworthy third parties, but should you wish us not to do so then send an e-mail message to [csmillsandboon@harpercollins.co.uk](mailto:%20csmillsandboon@harpercollins.co.uk) or dataman@hqnuk.co.uk . (If you use more than one e-mail address to access us, send this message from each e-mail account you use.) Also, we may provide aggregate statistics about our customers, sales, traffic patterns and related site information to reputable third-party vendors, but these statistics will not include any personal identifying information.
 
 ## In Summary
 
@@ -51,24 +51,23 @@ By using our site, you consent to the collection and use of this information by 
 
 ## Our Company Details:
 
-Harlequin (UK) Limited
+Harper Collins Publishers Ltd
 
 Registered office:
 
-Eton House  
-18-24 Paradise Road  
-Richmond  
-Surrey.  
-TW9 1SR  
-United Kingdom  
-Registered in England No. 100449
+Westerhill Road
 
-Phone:  
-Non-UK residents: +44 20 8288 2800  
-UK residents only: 020 8288 2800
+Bishopbriggs
 
-Fax:  
-Non-UK residents: +44 20 8288 2898  
-UK residents only: 020 8288 2898
+Glasgow
 
-Vat. Reg. Nos. GB 232433496
+G64 2QT
+
+Registered Number: SC027389
+
+Phone:
+
+Non-UK residents: +44 844 844 1351  
+UK residents only: 0844 844 1351
+
+ROI: 01 278 2062
