@@ -1,67 +1,92 @@
-> *The following text is extracted and transformed from the society3.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315225403id_/http%3A//www.society3.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the society3.com privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011134153id_/http%3A//www.society3.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Society3
 
 ## The essence of our Privacy Policy
 
-**1) US-EU Safe Harbor Framework support  
-**Society3 is supporting and in compliance with the [US-EU Safe Harbor Framework](http://export.gov/safeharbor/index.asp "Link to the official site at export.gov").
+Society3 wants you to understand how we use, protect and share information gathered while using our website and/or applications we offer.
 
-**2) Information disclosure**  
+**1) Information disclosure**  
 We will NOT sell or otherwise distribute any of your personal information to any third party without your specific and individual approval.
 
-**3) Data visibility control**  
+**2) Data visibility control**  
 You are in control of the visibility of your personal contact information (email, phone numbers, IM etc.).
 
-**4) Data ownership**  
-You own your personal information and have the right to export and transfer it to any place you wish including any other network.
+**3) Data ownership**  
+With the main purpose of using Society3 applications being to share information, you agree that the process of information you shared cannot be completely revoked. As such you agree that we never delete your data or account in the interest of users who are connected with you. However you have the right to delete all data you entered into the system yourself.
 
-**5) Meta data usage**  
+**4) Meta data usage**  
 We reserve the right to use so called “meta data” from activities on our system. Meta data never include any personal information such as name, email address or IP address.
 
-**6) Security**  
+**5) Security**  
 We use secure login encryption and we do encrypt all passwords stored on Society3. Our team will never ask you for a password and is not able to decrypt or retrieve passwords for you.
 
 ## The Privacy Policy
 
-**General Statement**  
-While visiting our general web site Society3.com or appearoo.com, we do not collect or require any personal information. If you are using our services such as any of our online applications, we do require users to register and ask you to provide personal and business profile information. The nature of all Society3 social media applications is to publicly share social presence information. However it is up to you to define the level of exposure of your personal information and who shall have access to that information. By default no email addresses or birthday personal is exposed to anybody, yet your name and photo as well as title or company relationship is publicly visible.
+This Privacy Policy describes the practices implemented on the Society3 Platform (or the “platform”) including applications such as Society3 FundersMart, Society3 Buzz and other applications that maybe added by Society3 (“Society3”, the “Company”, “us” or “we”).  Through your use of the Platform, you agree to the terms of this Privacy Policy.  If you do not agree to the terms of this Privacy Policy, please cease use of the Society3 Platform immediately.  The terms of this policy are subject to all applicable law.
 
-**Support of the Respect Trust Framework**  
-This Privacy Policy incorporates by reference the Respect Trust Framework listed with the [Open Identity Exchange](http://openidentityexchange.org/trust-frameworks/respect-trust-framework) The purpose of the Respect Trust Framework is to define a simple set of principles and rules to which all Members of a digital trust network agree so that they may share identity and personal data with greater confidence that it will be protected and only used as authorized. Society3 and all Members of the Respect Network agree to operate under the Respect Trust Framework.
+**Collection of Data**
 
-**Collecting Personal Information**  
-Society3 may collect certain personal information from you when you use our services. You have the choice to answer or decline almost any of the information except your first name, last name, your personal email address and your business email address. Your name will be used to introduce you to others or be identified in your network of business people you selected to collaborate with. Your personal email address is exclusively used to access the Society3 system and/or request a lost password. Unless you explicitly provide that email address to others it is not available for contacting you by anybody within Society3. Your business email address is used to send you introductions or allow other users who you invited or confirmed their invitation to contact you. None of your email addresses is available to any other user, than the one you have a confirmed relationship or confirmed alliance with.
+New users, whether they be individuals or representatives of corporations, to the Platform are asked to register with Society3, which registration requests both personally identifying information and non-identifying information.  This data is accessible only through a confidential password and screen name that you select.  From the registration, we store data including your user name, email address and IP Addresses. We also may collect your browser type, operating system type, domain name, access times and referring website address.  Society3 is committed to maintaining the confidentiality of the personal identifying information that the Company solicits.
 
-**Data we store**  
-We store registration data including your user name, email address and IP Addresses. We collect data from a variety of activities and transactions, mainly to develop your social capital value report. We store all the information you provide about yourself, as a representative of your company and data you provide for business activities. We also store all connections you create, networks you develop and activities you perform with those networks. Any improper collection or misuse of information provided on Society3 applications is considered a violation of Society3 terms of services and should be brought to our attention.
+We may also collect and store data from specific requests from you, for things such as signing up for an email newsletter (which you may opt out of) or other online information service we may offer, answering a survey, or contacting us.  Surveys are conducted strictly for internal profiling purposes and only keep track of anonymous demographic data (e.g., your age, usage of the Society3 website, favorite features).  Our website contains links through which an online user can email us. We collect personal information contained in the email for the purpose of responding to a user’s questions and/or comments.
 
-**Usage of Cookies**  
-We are using so called “cookies”, small information bits to store application relevant information in your browser. Using the application requires that the use of cookies is enabled. You can review the content of the cookie data at any time in your browser. We do not store email addresses or passwords in cookies.
+Additionally, we collect data from a variety of activities and transactions once you begin using the Platform, mainly to develop your social capital value report.  We also store all connections you create with other users, networks you develop and activities you perform on those networks. Any improper collection or misuse of information provided on Society3 applications is considered a violation of Society3 terms of services and should be brought to our attention.
 
-**Personal Information Disclosure**  
-We will not sell or otherwise distribute any of your personal information to any third party without your specific and individual approval. At this stage there is no plan or reason to ever even ask you for such approval. Society3 and all application users of our services usually use applications to build, maintain and grow their business relationships and therefore we provide your personal information to those contacts you contact or agree to be connected with. If you reject a connection request, your personal contact will not be exposed, forwarded or otherwise available to such or any other user.  
-As you upload your personal contacts to Society3 applications, you decide which of such contacts you want to invite into your network on a contact by contact basis. The contacts you select to invite will be contacted by Society3 or appearoo to join your network. You may choose not to invite selected contacts for whatever reason. Those not invited contacts are considered “loose” contacts and neither invited nor contacted by Society3. But those contacts may also exist in other connections within Society3 applications and therefore be invited by others or contacted by Society3 through other sources.  
-An active user in Society3 has the option to provide visibility to his or her personal contact information only to their confirmed contacts and alliances (default) or only to their contacts but to alliances or to everybody within Society3. Names, picture and general business relationship information including company name, public company contact information and the users business profile is available to every Society3 user. Every user has the option to add additional information to their contacts (Personal notes). That information is only visible to that particular user, not to the contact or anybody else.
+You are in control of the visibility of your personal contact information (email, phone numbers, IM etc.).  You have the right to delete all data you entered into the system yourself.  However, given that the main purpose of Society3 applications is to share information, you agree that the process of information you shared cannot be completely revoked. As such you agree that we never delete your data or account in the interest of users who are connected with you. Sharing data is considered not revocable except through blocking a user. That user may however still maintain personal notes relating to the connection that are stored in records related to that connection.  As personal connections may be shared by a person with their employer for the purpose of building investor lists or portfolio management, such contacts will become part of the company’s data. ** **
 
-**Sharing your information with third parties**  
-We DO NOT share any of your personal information, in particular email address or age with third parties.
+**Use of Cookies or Other Methods to Collect Information**
 
-**You sharing information with third parties**  
-You are prohibited to share any of your information in Society3 with any third party for whatever reason. You are further prohibited to share your account access information with any other person that may access your account for marketing or any other purpose, other than technically servicing your account.
+We may collect some information about you by using data collection technology, and it may not be readily apparent to you when data is being collected.  For instance, when you come to our website, your IP address is collected so that we know where to send information you are requesting.  An IP address is a number that is used by computers on the network to identify your computer every time you log on to the Internet.  A “cookie” is a small file or record-keeping device that websites often store on a user’s computer. (You can disable cookies or set your browser to alert you when cookies are being sent to your computer.)  This information may be used to improve the quality of our service and website.  Society3 utilizes cookies, such that use of Society3 products requires that the user enables cookies in her browser.  We do not store email addresses or passwords in cookies.  However, we may combine this information with personally identifiable information to identify a user in order to enforce compliance with our Terms of Use or to protect our service, website or other users of Society3’s website.
 
-**Links inside Society3**  
-Society3 provides ways for users or user organizations to expose links to their websites or links to documents and other sites. We request users to not use those links to point to any unlawful or any politically incorrect or socially not appropriate sites or documents. While we undertake our best effort to maintain a high level of ethics, we cannot guarantee that inappropriate links will exist.
+No matter what method we use to collect information and no matter how we use that information, we will only collect the information deemed reasonably necessary to fulfill your online requests and our legitimate business objectives.
 
-**Data Ownership**  
-users own their personal data and have the right to alter, export or delete that information at any time. As data get provided to confirmed connections, the user has the ability to decide whether such data can be exported by their connections and used for other purposes like address books or others networks etc. As personal connections may be shared by a person with their employer for the purpose of lead development, such contacts will become part of the company’s data.  
-Corporate users (companies) own their business data such as business opportunities, company profiles or employee lists. As such data get shared with confirmed partners or alliances, the company agrees that such shared data can be used by its alliance in any way or shape or based on contractual regulations outside Society3. Any process of sharing cannot be reversed, other than by regulations outside Society3.
+**Use of Gathered Data**
 
-**Social Graph Ownership**  
-Our definition of “Social Graph”: The social graphs are relationship maps describing the connection points between entities (organizations or individuals) and their respective activities between such relationships. Activities between connections may be tracked and aggregated to develop reports such as the Social Capital Value. Society3 invented a series of rules, algorithms and processes to calculate values and provide corresponding reports. Those rules, processes and algorithms as well as the resulting data are owned by Society3. Each user has the right to use and communicate their own results in any way they wish. However users are prohibited to export or otherwise distribute the underlying data that may contain references to other user (companies or individuals).
+Society3 may use your name and logo to identify you as a user of Society3 on the Society3 website and in promotional and corporate materials.   Further, Society3 may issue a press release identifying you as a user and explaining your intended use of Society3 and the benefits you expect to receive.
 
-**Access Security**  
-Society3 is committed to protect our user’s privacy. No Society3 employee will ever ask you for your password. Passwords are highly encrypted and we do not provide any way to decrypt such passwords. If a password gets lost you will need to request a new password. We will not use your personal email address in any way, other than sending you a lost password. We also do not provide your personal email address to any of your connections, unless you decide to do so. All communication is performed using your business email address.
+From time to time, we may post on our website job openings at Society3 and provide an email address to which interested applicants can submit their resume.  Although we can assure you that any personal information contained in a resume will be used solely for its intended purpose (i.e., to evaluate the applicant’s qualifications), such information is not subject to this privacy policy.
 
-**Privacy Policy Changes**  
-Society3 reserves the right to introduce changes to this privacy policy with 30 days notice. Any change of our privacy policy will give users the right to immediately cancel their contract with full reimbursement of pre paid subscription for the remainder of the subscription period and to remove all their information from the system.
+Additionally, Society3 uses the data it collects to perform background checks on its participants in order to ensure that the highest quality professionals participate on Society3’s platform.
+
+**Use of Aggregate Data**
+
+Society3 reserves the right to generate and store aggregations of data from large pools of users (also known as “meta data”).  Such meta data does not contain personally identifiable information, such as name, email address or IP address.  Society3 uses this aggregate data to generate useful, comparative analytics and thereby improve Company services.    We may publish the analytics publicly, and share them with the users of Company services.  Further, Society3 reserves the right to target users using this aggregate data for purposes of advertisement within the Company platform.
+
+An example of meta data that Society3 generates is Social Graphs.  Social Graphs are relationship maps describing the connection points between entities (organizations or individuals) and their respective activities between such relationships. Activities between connections may be tracked and aggregated to develop reports such as the Social Capital Value. Society3 invented a series of rules, algorithms and processes to calculate values and provide corresponding reports. Those rules, processes and algorithms as well as the resulting data are owned by Society3. Each user has the right to use and communicate their own results in any way they wish. However users are prohibited from exporting or otherwise distributing the underlying data that may contain references to other user (companies or individuals). By using Company services, you agree to the collection, usage and storing of meta data.
+
+**Sharing and Selling of Personally Identifiable Information**
+
+We will not sell or otherwise distribute any of your personal information, including email address or age, to any third party without your specific and individual approval.  Society3 may share your personally identifiable data as set forth below.
+
+On the Platform, your name will be used to introduce you to others or be identified in your network of business people you selected to collaborate with. Your personal email address is exclusively used to access the Society3 system and/or request a lost password. Unless you explicitly provide that email address to others it is not available for contacting you by anybody within Society3.  Your business email address is used to send you introductions or allow other users who you invited or confirmed their invitation to contact you. None of your email addresses are available to any other user, than the one you have a confirmed relationship or confirmed alliance with.  Society3 provides your personal information to those users whom you contact or agree to be connected with.  If you reject a connection request from another user, your personally identifiable information will not be exposed, forwarded or otherwise available to such or any other user.  Names, profile picture and general business relationship information, including company name, public company contact information and the users business profile is available to every Society3 user.
+
+From time to time, we may employ and share your personal information with vendors who use it solely to provide support for the internal operations of our website (e.g., technical support and network delivery).  This personal information is not sold to these entities.  They will not use your personally identifiable information for any other purpose, and have agreed to maintain the confidentiality, security, and integrity of the personal information they obtain from us.
+
+Society3 reserves the right to share your personally identifiable information with our parent or affiliated companies.  Further, Society3 may sell, transfer or otherwise disclose user information, including personally identifiable information, in connection with a corporate merger, consolidation, the sale of substantially all assets, or other fundamental corporate change. We may disclose your personal information in the good faith belief that we are required to do so by law or to comply with legal processes, respond to any claims or protect the rights, property, or personal safety of Society3 staff or the public.
+
+As a user you are prohibited from sharing any of your Society3 information with any third party for whatever reason.  You are further prohibited to share your account access information with any other person that may access your account for marketing or any other purpose, other than technically servicing your account. Users within the Society3 network are the only intended users of all data they can access.
+
+**Third Party Advertisements and Content**
+
+When you are using the Society3 website, certain content, including advertisements, may be created or hosted by a third party.  Such third parties may place cookies and/or use web beacons, which may be used to identify some of your preferences or to recognize you if you have previously had contact with them.  We do not control the use of such technology by third parties, the information they collect, or how they use such information.  Society3 does not disclose your personally identifiable information to third parties serving ads or other content on our website.
+
+**Links to Third Party Websites**
+
+You should be aware that while you are on a website operated by us, you may be directed to links to other websites.  For example, Society3 provides ways for users or user organizations to expose links to their websites or links to documents and other sites. The privacy policies of these other websites are beyond our control and we take no responsibility for their practices.  Because we cannot guarantee that the privacy policies of these websites meet our high standards, we recommend that you read the privacy policy of the website to which you link before you submit any personal information.  We request that our users not use those links to point to any unlawful or any politically incorrect or socially not appropriate sites or documents.  While we undertake our best effort to maintain a high level of ethics, we cannot guarantee that inappropriate links will exist.
+
+**Privacy Rights for Users Outside the United States**
+
+Society3 makes an effort to protect the personally identifiable information of all users of its website.  We attempt to comply with local data protection and consumer rights laws to the extent they may apply to Society3’s services.  If you are uncertain whether this privacy policy conflicts with the applicable local privacy laws where you are located, you should not submit your personally identifiable information to Society3.      If you are located within the European Union, you should be aware that your personally identifiable information will be transferred to the United States of America, the laws of which may be deemed by the European Union to have inadequate data protection.  If you are located in a country outside the United States of America and voluntarily submit personally identifiable information to us, you thereby consent to the general use of such information as provided in this privacy policy and to the transfer of that information to, and/or storage of that information in, the United States of America.
+
+**Changes in the Society3 Privacy Policy**
+
+We reserve the right to make changes to this privacy policy at any time.  If we change our privacy policy, we will post those changes on our website so that you and other users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.  You should also check back from time to time to ensure you are aware of any changes.  Any change of our privacy policy will give users the right to immediately cancel their contract with full reimbursement of pre-paid subscription for the remainder of the subscription period and to remove all personal identifiable information from the system. Your continued use of this website or applications will signify your acceptance of these changes. Should you have any questions please contact us any way we offer on our website or send us an email to privacy@society3.com.
+
+**Security**
+
+Society3 is committed to protect its user’s privacy.  We use secure login encryption and we encrypt all passwords stored on Society3.  No Society3 employee will ever ask a user for their password, nor is any Society3 employee capable of decrypting or retrieving passwords for you.  If a password gets lost you will need to request a new password. We will not use your personal email address in any way, other than sending you a lost password. We also do not provide your personal email address to any of your connections, unless you decide to do so.  All communication is performed using your business email address.
+
+The Internet is not a 100% secure medium. Although we use reasonable efforts to protect information, the potential of somebody breaching our security measures does exist.   By using this website, you signify your assent to the Society3 Privacy Policy.  If you do not agree to this privacy policy, please do not use this website or applications.
+
+This Society3 Privacy Policy was updated September 15, 2015.
