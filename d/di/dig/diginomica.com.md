@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the diginomica.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625203219id_/http%3A//diginomica.com/about/diginomicas-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diginomica.com privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011055507id_/http%3A//diginomica.com/about/diginomicas-privacy-policy) for the most accurate reproduction.*
 
-# Terms and privacy | diginomica
+# Terms and privacy - diginomica
 
 Welcome to our website. If you continue to browse and use this website you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our privacy policy govern diginomica.com Ltd’s relationship with you in relation to this website.
 
@@ -67,3 +67,5 @@ You should check the third party websites for more information about these.
 If you wish to restrict or block the cookies which are set by us, you can do this through your browser settings. The Help function within your browser should tell you how. For information on how to do this on the browser of your mobile phone you will need to refer to your handset manual.
 
 **Please be aware that restricting cookies will have an impact on the functionality of this website and the quality of your user experience.**
+
+**Update, April 28, 2015** : Diginomica has enabled Google’s advertising features. This is consistent with how we utilize cookies on diginomica.com, and therefore the above options to disabling cookies also apply to Google advertising. Google’s advertising features and policies [are detailed here](https://support.google.com/analytics/answer/2700409/?hl=en&utm_id=ad&authuser=3). We are committed to operating in compliance with Google’s privacy policies. Google also provides a browser extension which [provides the ability to opt-out of Google Analytics](https://tools.google.com/dlpage/gaoptout/) as a web visitor. The standard disclaimers about how disabling cookies may affect your user experience still apply. 
