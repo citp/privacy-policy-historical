@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infosecinstitute.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607131646id_/http%3A//www.infosecinstitute.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infosecinstitute.com privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011070434id_/http%3A//www.infosecinstitute.com/privacy-policy.html) for the most accurate reproduction.*
 
 # InfoSec Institute Privacy Policy
 
