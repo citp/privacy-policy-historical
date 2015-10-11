@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the captcha.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610043042id_/http%3A//captcha.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the captcha.com privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011073925id_/https%3A//captcha.com/privacy.html) for the most accurate reproduction.*
 
 # captcha.com Privacy Policy | captcha.com
 
@@ -23,9 +23,3 @@ We do our best to maintain the accuracy of personal information you supply to us
 We are committed to privacy and will only use the information you provide us as you request. Mistakes are possible; miscommunication is possible. If you have any comments or questions regarding our privacy policy, please contact us at [**webmaster@captcha.com**](mailto:webmaster@captcha.com). We will address any issue to the best of our abilities. 
 
 Thank you for your support of these policies and of Captcha, Inc. 
-
-### Subscribe
-
-  * BotDetect™ CAPTCHA New Version Releases ([RSS](http://captcha.com/feeds/botdetect_captcha_release_notes.rss "Subscribe to the BotDetect CAPTCHA New Version Releases RSS Feed"), [Atom](http://captcha.com/feeds/botdetect_captcha_release_notes.atom "Subscribe to the BotDetect CAPTCHA New Version Releases Atom Feed"))
-
-
