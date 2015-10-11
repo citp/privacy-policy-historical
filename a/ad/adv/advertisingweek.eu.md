@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advertisingweek.eu privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608154132id_/http%3A//advertisingweek.eu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advertisingweek.eu privacy policy that was archived on 2015-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151012000526id_/http%3A//advertisingweek.eu/privacy) for the most accurate reproduction.*
 
 # Advertising Week Europe 2015 – London [ 23 - 27 March ] / Privacy Policy
 
