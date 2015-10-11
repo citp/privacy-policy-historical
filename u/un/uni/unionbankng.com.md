@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unionbankng.com privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410033732id_/http%3A//www.unionbankng.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D207%26Itemid%3D427) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unionbankng.com privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011063515id_/http%3A//www.unionbankng.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -53,7 +53,5 @@ You may have the right under data protection legislation on payment of a fee to 
 In providing your telephone, facsimile number, postal and e-mail address or similar details, you agree that **Union Bank** of Nigeria Plc may contact you by these methods to keep you informed about **Union Bank** products and services or for any other reason. If you prefer not to be kept informed of **union Bank** products and services, please contact **Union Bank** of Nigeria Plc by E-mail.
 
 Union Bank of Nigeria Plc reserves the right to amend its prevailing Data Protection and Privacy Statement at any time and will place any such amendments on this website. This Data Protection and Privacy Statement is not intended to, nor does it, create any contractual rights whatsoever or any other legal rights, nor does it create any obligations on **Union Bank** of Nigeria Plc in respect of any other party or on behalf of any party.
-
-{/mooblock}
 
 Copyright © **Union Bank** of Nigeria Plc 2013. All Rights Reserved.
