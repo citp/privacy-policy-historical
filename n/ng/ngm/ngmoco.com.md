@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ngmoco.com privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428150019id_/http%3A//app.mobage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ngmoco.com privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011023039id_/http%3A//app.mobage.com/privacy) for the most accurate reproduction.*
 
 # DeNA | Privacy Policy
 
@@ -38,7 +38,7 @@ Your Personal Information may be used, for instance:
 
 · To allow us to keep you posted regarding our latest Service announcements, software updates, and upcoming events; 
 
-· To send important notices, such as communications about your purchases and changes to our [Terms of Use](https://web.archive.org/web/20150423055054id_/http://legal.denagames.com/terms), this Privacy Policy, or other Service-specific policies. Because this information is important to your interactions with DeNA West, you may not opt out of receiving these communications; and 
+· To send important notices, such as communications about your purchases and changes to our [Terms of Use](https://web.archive.org/web/20150820064726id_/http://legal.denagames.com/terms), this Privacy Policy, or other Service-specific policies. Because this information is important to your interactions with DeNA West, you may not opt out of receiving these communications; and 
 
 · To audit and analyze data to improve our Services and customer communications. 
 
@@ -46,7 +46,7 @@ Your Personal Information may be used, for instance:
 
 In connection with DeNA West Users accessing our Services, we may collect Personal Information which might include your email address, as well as information on mobile device type, mobile carrier, a mobile device identifier (" **Device ID** "), Internet Protocol (" **IP** ") address and geo location, as applicable. We may use a Device ID to make it possible to authenticate and understand your use of our Services, or any third-party application utilizing our Services (“ **Third Party Mobile Application** ”) that you may choose to access through our Services. 
 
-Related to this information collection, our Services may serve ads that contain links to other mobile applications, and we may utilize a Device ID to track clicks or other ad fulfillment metrics. Our use of a Device ID does not enable us to identify you personally, and we do not store this information in connection with your DeNA West Account (see [Terms of Use](https://web.archive.org/web/20150423055054id_/http://legal.denagames.com/terms)) information. 
+Related to this information collection, our Services may serve ads that contain links to other mobile applications, and we may utilize a Device ID to track clicks or other ad fulfillment metrics. Our use of a Device ID does not enable us to identify you personally, and we do not store this information in connection with your DeNA West Account (see [Terms of Use](https://web.archive.org/web/20150820064726id_/http://legal.denagames.com/terms)) information. 
 
 If you are a third-party publisher, you can register to develop Third Party Mobile Applications via our Sites (on registration, each a “ **Third Party Publisher** ”). In connection with registration as a Third Party Publisher, we may collect your name, mailing address, email address and telephone number and other information relevant to the Developer Portal and publication of Third Party Mobile Applications, including bank account and taxation information for vendor registration. We collect this Personal Information to ensure that we are able to contact you and for purposes of operation of the Developer Portal and publication of your Third Party Mobile Applications. 
 
@@ -114,7 +114,7 @@ Under another special set of circumstances, for example, in connection with a me
 
 **Our Policy Toward Children**
 
-Except only for Limited Plus Account (see [Terms of Use](https://web.archive.org/web/20150423055054id_/http://legal.denagames.com/terms)) access, our Services are not intended for children under the age of 13 ("children") and we do not knowingly collect any Personal Information from children. If we discover that we have inadvertently collected Personal Information from children, we will take all reasonable measures to erase such information from our systems and records as soon as possible. 
+Except only for Limited Plus Account (see [Terms of Use](https://web.archive.org/web/20150820064726id_/http://legal.denagames.com/terms)) access, our Services are not intended for children under the age of 13 ("children") and we do not knowingly collect any Personal Information from children. If we discover that we have inadvertently collected Personal Information from children, we will take all reasonable measures to erase such information from our systems and records as soon as possible. 
 
 **Location-Based Services**
 
