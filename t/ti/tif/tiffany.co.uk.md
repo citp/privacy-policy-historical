@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tiffany.co.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607173507id_/http%3A//www.tiffany.co.uk/Service/policy_vis.aspx%3FisMenu%3D1%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiffany.co.uk privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011023841id_/http%3A//www.tiffany.co.uk/Service/policy_vis.aspx%3FisMenu%3D1%26) for the most accurate reproduction.*
 
-# Tiffany & Co. | Privacy Policy
+# Privacy Policy | Tiffany & Co.
 
 Please [click here](https://web.archive.org/Shared/PDFs/Affiliates/Affiliates_US.pdf) to access the list of Tiffany & Co. retail affiliates, as referenced in the Global Privacy Policy. 
 
