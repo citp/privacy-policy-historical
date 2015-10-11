@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameskip.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617054259id_/https%3A//gameskip.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameskip.com privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011092624id_/https%3A//gameskip.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy For All Services Provided By GameSkip.com
 
