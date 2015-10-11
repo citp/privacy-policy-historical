@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the akaqa.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317041200id_/http%3A//www.akaqa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akaqa.com privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011150806id_/http%3A//www.akaqa.com/privacy) for the most accurate reproduction.*
 
 # akaQA - also known as questions & answers
 
