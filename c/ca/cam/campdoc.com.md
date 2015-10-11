@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the campdoc.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508063246id_/http%3A//www.campdoc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campdoc.com privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011024117id_/http%3A//www.campdoc.com/privacy) for the most accurate reproduction.*
 
-# CampDoc.com : Privacy Policy
+# Privacy Policy - CampDoc.com
 
-This Privacy Policy provides our policies and procedures for collecting, using, and disclosing your information. Users can access the CampDoc.com service (the “ ** **Service** “) through our website www.campdoc.com, applications on Devices, through APIs, and through third-parties. A “** **Device** ” is any computer used to access the CampDoc.com Service, including without limitation a desktop, laptop, mobile phone, tablet, or other consumer electronic device. This Privacy Policy governs your access of the CampDoc.com Service, regardless of how you access it, and by using our Services you consent to the collection, transfer, processing, storage, disclosure and other uses described in this Privacy Policy. All of the different forms of data, content, and information described below are collectively referred to as “information.”
+This Privacy Policy provides our policies and procedures for collecting, using, and disclosing your information. Users can access the CampDoc.com service (the “ ** **Service**** “) through our website www.campdoc.com, applications on Devices, through APIs, and through third-parties. A “ **Device** ” is any computer used to access the CampDoc.com Service, including without limitation a desktop, laptop, mobile phone, tablet, or other consumer electronic device. This Privacy Policy governs your access of the CampDoc.com Service, regardless of how you access it, and by using our Services you consent to the collection, transfer, processing, storage, disclosure and other uses described in this Privacy Policy. All of the different forms of data, content, and information described below are collectively referred to as “information.”
 
 #### The Information We Collect And Store
 
@@ -22,15 +22,13 @@ This Privacy Policy provides our policies and procedures for collecting, using, 
 
 #### Information Sharing and Disclosure
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. 
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.
 
 **Service Providers, Business Partners and Others**. We may use certain trusted third party companies and individuals to help us provide, analyze, and improve the Service (including but not limited to data storage, maintenance services, database management, web analytics, payment processing, and improvement of the Service’s features). These third parties may have access to your information only for purposes of performing these tasks on our behalf and under obligations similar to those in this Privacy Policy.
 
-**Compliance with Laws and Law Enforcement Requests; Protection of Rights**. We may disclose to parties outside CampDoc.com, information and files stored in your CampDoc.com and information about you that we collect when we have a good faith belief that disclosure is reasonably necessary to (a) comply with a law, regulation or compulsory legal request; (b) protect the safety of any person from death or serious bodily injury; (c) prevent fraud or abuse of CampDoc.com or its users; or (d) to protect the property rights of CampDoc.com. 
+**Compliance with Laws and Law Enforcement Requests; Protection of Rights**. We may disclose to parties outside CampDoc.com, information and files stored in your CampDoc.com and information about you that we collect when we have a good faith belief that disclosure is reasonably necessary to (a) comply with a law, regulation or compulsory legal request; (b) protect the safety of any person from death or serious bodily injury; (c) prevent fraud or abuse of CampDoc.com or its users; or (d) to protect the property rights of CampDoc.com. **Business Transfers**. If we are involved in a merger, acquisition, or sale of all or a portion of our assets, your information may be transferred as part of that transaction, but we will notify you (for example, via email and/or a prominent notice on our website) of any change in control or use of your Personal Information or Files, or if either become subject to a different Privacy Policy. We will also notify you of choices you may have regarding the information.
 
-**Business Transfers**. If we are involved in a merger, acquisition, or sale of all or a portion of our assets, your information may be transferred as part of that transaction, but we will notify you (for example, via email and/or a prominent notice on our website) of any change in control or use of your Personal Information or Files, or if either become subject to a different Privacy Policy. We will also notify you of choices you may have regarding the information.
-
-**Non-private or Non-Personal Information**. We may disclose your non-private, aggregated, or otherwise non-personal information, such as usage statistics of our Service. 
+**Non-private or Non-Personal Information**. We may disclose your non-private, aggregated, or otherwise non-personal information, such as usage statistics of our Service.
 
 #### HIPAA
 
@@ -38,7 +36,7 @@ Unlike a doctor or health plan, CampDoc.com is not regulated by the Health Insur
 
 Although CampDoc.com is not covered by HIPAA, we are committed to user privacy and have in place strict data security policies and measures, and ensure that users control access to their information. We let users know what information we collect when they use CampDoc.com, how we use it, and how we keep it safe. Users choose who views or adds information to their profile, and they can revoke access at any time.
 
-If you have any questions about how the CampDoc.com data confidentiality practices compare to those mandated by HIPAA, you can view our [HIPAA](https://web.archive.org/hipaa) information.
+If you have any questions about how the CampDoc.com data confidentiality practices compare to those mandated by HIPAA, you can view our [HIPAA](http://www.campdoc.com/hipaa)information.
 
 #### Changing or Deleting Your Information
 
@@ -50,13 +48,13 @@ We will retain your information for as long as your account is active or as need
 
 #### Information Sharing and Disclosure
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. 
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.
 
 #### Security
 
 The security of your information is important to us. When you enter sensitive information on our forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
-We follow generally accepted standards to protect the information submitted to us, both during transmission and once we receive it. If you have any questions about security on our website, you can view our [Security Policy](https://web.archive.org/security) or contact us at security@campdoc.com.
+We follow generally accepted standards to protect the information submitted to us, both during transmission and once we receive it. If you have any questions about security on our website, you can view our [Security Policy](http://www.campdoc.com/security) or contact us at security@campdoc.com.
 
 #### Changes to our Privacy Policy
 
