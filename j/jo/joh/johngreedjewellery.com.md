@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the johngreedjewellery.com privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620235350id_/http%3A//www.johngreedjewellery.com/privacy-policy-i4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johngreedjewellery.com privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011201933id_/http%3A//www.johngreedjewellery.com/privacy-policy-i4) for the most accurate reproduction.*
 
 # Privacy Policy
 
