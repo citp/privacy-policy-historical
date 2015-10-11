@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freeboh.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429165450id_/https%3A//www.freeboh.com/s/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeboh.com privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011035209id_/http%3A//www.freeboh.com/s/pp) for the most accurate reproduction.*
 
-# Freeboh-Shift-based jobs. Works for me!
+# Freeboh-Shift-based jobs in Singapore. Works for me!
 
 At Freeboh, we understand that your privacy is important and we endeavour to protect your personal information. As used in this Privacy Policy, “personal information” means information such as: your name; mailing address; email address; telephone number; your location or other personal information that may be supplied by you or collected about you as required by us. We hope that this Policy helps you to understand how we handle and use any personal data after collection. 
 
