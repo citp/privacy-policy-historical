@@ -1,51 +1,56 @@
-> *The following text is extracted and transformed from the arcai.com privacy policy that was archived on 2007-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071009115114id_/http%3A//www.arcai.com/modules/AMS/article.php%3Fstoryid%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcai.com privacy policy that was archived on 2015-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151012002718id_/http%3A//www.arcai.com/privacy-policy.html) for the most accurate reproduction.*
 
-# arcai.com's NetCut Software - KnowledgeBase - NetCut Relate Topic - Arcai.com Privacy policy
+# privacy policy
 
-Site information Privacy policy 
+arcai.com privacy policy
 
-This site collects user data in the form of web server logs.
+arcai.com respects and protects the privacy of individuals who use our services. Individually identifyable information about you is not willfully disclosed to any third party without first receiving your permission, as explained in this privacy policy ("Privacy Policy").
 
-This information includes a user's source IP address (as witnessed by the web server), 
+Anonymous Browsing
 
-any information automatically sent by their browser (user agent, referrer, accept languages, accept encodings, , referer links, etc), and record of what resources on this site were requested. 
+The vast majority of content on our sites does not require any sort of login and can be browsed anonymously. Of course, your IP address will be disclosed unless you use a proxy.
 
-This information is periodicly reviewed to compound these nifty little things called 'statistics', whereby we derive cool numbers that we can impress our friends with. 
+Cookies
 
-We also use these logs to determine usage, surfing, and mating habits of visitors.
+We may sometimes use cookies to better understand our user base and to improve the quality of our service. For example, we might someday use cookies to allow persistant logins.
 
-While this information is not sold, it may be provided to someone who provides us a justified reason for needing the information (or threatens some form of legal repercussion against us). 
+Security- and privacy-conscious people often disable cookies in their browser. We encourage people to do this. On Netscape 4.X, the option is available in the Edit -> Preferences -> Advanced menu. Other browsers offer similar options.
 
-Note, however, that we also log particular information from kiddies who decide it would be fun to try to discover security vulnerabilities or circumvent existing access control mechanisms on this server.
+Security
 
-Any information collected from an individual during the act of an attempted intrusion or precursor activies is fair game to appear in the Honeynet Project's reports, 
+We recognize that privacy policies are ineffective if someone can break into the web and database servers and proceed to abuse the information. We constantly monitor public and private security lists (including these) to stay abreast of the latest security holes. Our software is designed with security as the #1 priority and our network is architected to maximise resilience to attacks.
 
-or a full disclosure list (aka, we will hork and redistribute any 0day used against us). 
+Mailing lists
 
-Copyright policy Various information and items on this site carry copyrights of their respective owners (which may not be Arcai.com affiliated).
+We run several mailing lists such as Nmap-hackers and Nmap-dev. These are opt-in lists: you will only receive mail on them if you explicity sign up.  
+Sign up email verification letters are sent to insure that one user cannot subscribe other people to the lists without their permission. Users can unsubscribe from the lists at any time using instructions sent when they subscribe and in the headers of each message.
 
-Known copyrights are indicated were possible. 
+Links to other sites
 
-If you have a question concerning copyrights or reproduction of material, contact [root@arcai.com.](mailto:root@arcai.com.)
+This site contains links to other sites which are developed by people over whom we exercise no control. We are not responsible for the privacy practices or the content of such sites.
 
-Cookie usage
+Public Forums
 
-Contrary to the media's belief, cookies are not all evil. They serve a very useful purpose by providing persistant data. 
+This site makes chat rooms, forums, mailing lists, message boards, and/or news newsgroups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
-Design policy The design follows a general 'design policy' rule of thumb:
+Mail disclosure
 
-Why use Flashy-applets or active-shocking-plugins when you have all of HTML to do what you need.
+Mail sent to us may occasionally be posted to the site or forwarded to other people (depending on the nature of the email). If you want to clarify that a certain email you send should be kept private, please say so in the email. We may post legal threats whether you want us to or not.
 
-There are still monks in Tibetan monasteries deep in the mountains who are unable to get DSL and are stuck on 56K dialups;
+Traffic Data Each time a visitor comes to our Web sites, our servers -- like most on the Web -- collect some basic technical information, including, for example, the visitor's domain name/IP address, referral data, and user-agent information. We also count, track and aggregate the visitor's activity into our analysis of general traffic flows at our sites (e.g. tracking where traffic comes from, how traffic flows within our sites, etc.). To these ends, we may merge information about visitors and visits into group data, which may then be shared on an aggregated basis with our advertisers; but we will not disclose your individual identity or personally identifiable data without your permission. When we do present aggregated information to outside companies, no one will be able to identify you or contact you.
 
-thus graphics must be small. 
+Support requests and fingerprint submissions
 
-Something should 'rollover' only if it recently died. Hopefully everything is accessible within three clicks, to reduce potential carpal tunnel.
+If you send us your IP address in a support request or fingerprint submission regarding our software, we may probe that address (including a port scan and OS detection) in order to answer your question or make use of the fingerprint submission. If you do not wish to have a machine probed, please say so or do not include the IP/hostname in the inforamtion you send us.
 
-Simple text can be sexy too, if next to a picture of a sexy female. 
+Surveys and other information requests
 
-A rainbow of intermixed colors should be left for psychodelic hallucinations. 
+We may occasionally post surveys and other forms requesting information. We will not share personally identifiable information from these forms unless we say otherwise on the survey/form. We may share aggregate data about the answers. For example, here are the results of one of our surveys.
 
-The arcai.com logo is cool, and therefore must be contained somewhere on the page.
+Your consent and changes to the privacy policy
 
-All of these rules are negotiable during situations when a firearm to our head is involved. 
+By using our web sites, you consent to the collection and use of your information as we have outlined in this policy. We may decide to change this Privacy Policy from time to time. When we do, we will post those changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it.
+
+Contacting arcai.com
+
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact our privacy coordinator at [admin@arcai.com](mailto:admin@arcai.com)
