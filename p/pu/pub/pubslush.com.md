@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pubslush.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607184632id_/http%3A//pubslush.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pubslush.com privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011212003id_/http%3A//pubslush.com/privacy) for the most accurate reproduction.*
 
 # Pubslush
 
