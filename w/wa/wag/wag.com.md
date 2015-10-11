@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wag.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607140323id_/http%3A//www.wag.com/privacypolicy.qs) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wag.com privacy policy that was archived on 2015-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151012004251id_/http%3A//www.wag.com/legal/privacypolicy) for the most accurate reproduction.*
 
 # Legal: Wag.com
 
