@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbot.com privacy policy that was archived on 2014-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141109063500id_/http%3A//www.cmegroup.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbot.com privacy policy that was archived on 2015-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151013000520id_/http%3A//www.cmegroup.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Exchange Privacy Policy
 
@@ -104,4 +104,4 @@ As part of our normal operations and in order to better serve your particular ne
 
 If you have any questions or comments regarding this Policy, or wish to communicate to the Exchange your desire to opt out of receiving communications from the Exchange or others as described in this Policy, please contact us via [Privacy@cmegroup.com](mailto:Privacy@cmegroup.com).
 
-© 2014 CME Group. All rights reserved.
+© 2015 CME Group. All rights reserved.
