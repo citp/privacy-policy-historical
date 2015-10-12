@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jtplaza.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701205217id_/https%3A//www.jtplaza.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jtplaza.com privacy policy that was archived on 2015-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151012110544id_/https%3A//www.jtplaza.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -76,5 +76,5 @@ Email [ceo@jtplaza.com](mailto:ceo@jtplaza.com?Subject=Privacy%20Policy)
 
 Questions?
 
-Questions regarding this statement should be directed to the following address: [cs@jtplaza.com](mailto:cs@jtplaza.com?Subject=Privacy%20Policy)  
+Questions regarding this statement should be directed to the following address: [care@jtplaza.com](mailto:care@jtplaza.com?Subject=Privacy%20Policy)  
 This document was last updated on December 21, 2013
