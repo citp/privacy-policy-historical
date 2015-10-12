@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the perfectorigins.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625013949id_/http%3A//www.perfectorigins.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectorigins.com privacy policy that was archived on 2015-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151013000912id_/http%3A//perfectorigins.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Perfect Origins :: About Us
 
 ## Privacy Policy
+
+[](http://secure.trust-guard.com/privacy/10235)
 
 Effective Date: May, 2014
 
