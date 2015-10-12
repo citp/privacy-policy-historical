@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homesnap.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614043955id_/http%3A//www.homesnap.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homesnap.com privacy policy that was archived on 2015-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151013011700id_/http%3A//www.homesnap.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy :: Homesnap
 
