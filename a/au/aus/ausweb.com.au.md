@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ausweb.com.au privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320012450id_/https%3A//my.ausweb.com.au/knowledgebase/12/AUSWEB-Privacy-Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ausweb.com.au privacy policy that was archived on 2015-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151012084417id_/https%3A//my.ausweb.com.au/knowledgebase/12/AUSWEB-Privacy-Statement.html) for the most accurate reproduction.*
 
-# AUSWEB Privacy Statement - Knowledgebase - AUSWEB Web Hosting
+# AUSWEB Privacy Statement - Knowledgebase - AUSWEB
 
 [Portal Home](https://my.ausweb.com.au/index.php) > [Knowledgebase](https://my.ausweb.com.au/knowledgebase.php) > [Legals](https://my.ausweb.com.au/knowledgebase/3/Legals) > [AUSWEB Privacy Statement](https://my.ausweb.com.au/knowledgebase/12/AUSWEB-Privacy-Statement.html)
 
