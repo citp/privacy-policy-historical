@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iodine.com privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514185158id_/http%3A//www.iodine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iodine.com privacy policy that was archived on 2015-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151012064704id_/http%3A//www.iodine.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Iodine.com
 
@@ -34,13 +34,21 @@ Information you give us when you use Iodine might include:
 
 
 
-We collect and store the information you choose to submit on Iodine.
+For example, if you create an Iodine Account, we’ll collect certain information that can be used to identify you, such as your name, email address and phone number. If you create an Iodine Account using your login credentials from one of your SNS Accounts, we’ll be able to access and collect your name and email address and other personally identifying information that your privacy settings on the SNS Account permit us to access.
+
+If you provide it to us, we may also collect other information that is not considered personally identifying information because it cannot be used by itself to identify you, such as your gender, age or date of birth.
+
+We collect and store the information you choose to submit on Iodine. Certain information is required to create an Iodine Account.
 
 #### Information we collect automatically
 
-Like most websites, we automatically collect certain information about how visitors use our services. We do this with automated data collection tools such as [server logs](http://en.wikipedia.org/wiki/Server_log), [analytics](http://en.wikipedia.org/wiki/Web_analytics), [cookies](http://en.wikipedia.org/wiki/HTTP_cookie), and [web beacons](http://en.wikipedia.org/wiki/Web_beacon).
+Like most websites and apps, we automatically collect certain information about how visitors use our services. We do this with automated data collection tools such as [server logs](http://en.wikipedia.org/wiki/Server_log), [analytics](http://en.wikipedia.org/wiki/Web_analytics), [cookies](http://en.wikipedia.org/wiki/HTTP_cookie), and [web beacons](http://en.wikipedia.org/wiki/Web_beacon).
 
-For example, our server logs store your [IP address](http://en.wikipedia.org/wiki/IP_address), browser type, operating system, and the pages you visited on Iodine. Here’s another example: we put a cookie (a marker) on your browser so our website knows that you already completed a survey about a drug and doesn’t ask you to do it again. Cookies are stored on your hard drive. On the other hand, web beacons are usually embedded on webpages or in e-mails. Like server logs, web beacons can also tell us what pages you visited on Iodine.
+Through the Site: For example, when you use the Site, our server logs store your [IP address](http://en.wikipedia.org/wiki/IP_address), browser type, operating system, and the pages you visited on Iodine. Here’s another example: we put a cookie (a marker) on your browser so our website knows that you already completed a survey about a drug and doesn’t ask you to do it again. Cookies are stored on your hard drive. On the other hand, web beacons are usually embedded on webpages or in e-mails. Like server logs, web beacons can also tell us what pages you visited on the Site.
+
+Through the Iodine Apps: When you use an Iodine App, we collect certain information that your mobile device sends when you use the Iodine App, like a device identifier, user settings and the operating system of your device, as well as information about your use of Iodine.
+
+Location Information: We may also collect and store information about your location by converting your IP address into a rough geo-location or by accessing your mobile device’s GPS coordinates or coarse location if you enable location services on your device. If you do not want us to collect location information, you may disable that feature on your mobile device.
 
 Some third-party service providers that we engage (including third-party analytics service providers) may also use their own automated data collection tools, including placing their own cookies on your hard drive. Note that this Privacy Policy does not apply to these third parties.
 
@@ -51,7 +59,7 @@ Also, we automatically collect standard information about how visitors use our s
 We use the information we collect in order to:
 
   * Understand how people use our services
-  * Make our website more secure
+  * Make our Site and the Iodine more secure
   * Provide you with our services
   * Communicate with you
   * Customize your experience
@@ -93,9 +101,9 @@ Shared Data may include:
 
 Your User Submissions are shared with everyone because you post them publicly on Iodine.
 
-We also share Shared Data with trusted third parties (including academic and commercial organizations, collaborators, and customers) for specific purposes, such as medical research. We refer to these trusted third parties as our “Partners.” You can opt out of sharing your Shared Data with our Partners.
+We also share Shared Data with trusted third parties (including academic and commercial organizations, collaborators, and customers) for specific purposes, such as medical research. We refer to these trusted third parties as our “Partners.” You can opt out of sharing your Shared Data with our Partners, but only if you submit that Shared Data via the Site. You cannot opt-out of sharing your Shared Data with our Partners if you submit that Shared Data via an Iodine App.
 
-Because you don’t log in to Iodine, your opt-out is not associated with a particular login or user account. Therefore, if you opt out, we’ll track your opt-out choice by placing a cookie on your device that will tell us that you have opted out. If you delete the Iodine cookie from your device, please remember that you’ll have to opt out again on Iodine to opt out of sharing any new Shared Data that you submit after deleting the cookie. You can scroll over the [Iodine shared data icon] when you’re on Iodine to check your opt-out status.
+Even if you have an Iodine Account, your opt-out is not associated with a particular login or user account. Therefore, if you opt out via the Site, we’ll track your opt-out choice by placing a cookie on your device that will tell us that you have opted out. If you delete the Iodine cookie from your device, please remember that you’ll have to opt out again on Iodine to opt out of sharing any new Shared Data that you submit after deleting the cookie. You can hover over the [] on the Site to check your opt-out status.
 
 While using Iodine, you might share multiple pieces of real-life information that could identify you, if combined. It’s also possible to include personally identifying information in free-text fields; this information will still be treated as Shared Data, so be careful. It’s your choice whether to provide Shared Data and what to include when you post publicly.
 
@@ -136,7 +144,7 @@ We may share information (including Private Data) with government, law enforceme
 
 
 
-We might share information if we think it’s required by law or to protect Iodine and our users—for example, to investigate if someone tries to hack our site.
+We might share information if we think it’s required by law or to protect Iodine and our users—for example, to investigate if someone tries to hack our site or any Iodine app.
 
 #### In the event of a business transition
 
@@ -169,11 +177,13 @@ Data security is a priority for us. We use SSL encryption.
 
 ### Modifying your information
 
-Please note that in general, once submitted, your User Content can’t be deleted. In particular, your User Submissions can’t be deleted and will continue to appear on Iodine. This is because we can’t always verify the source of User Content because you don’t log in to submit it, so it’s not associated with a particular user account.
+Please note that in general, once submitted, your User Content can’t be deleted. In particular, your User Submissions can’t be deleted and will continue to appear on Iodine.
 
-If you want to remove some of your User Content from Iodine, please email us at [privacy@iodine.com](mailto:privacy@iodine.com). We may request further information from you to verify that you are the user who submitted the User Content in question. We’ll consider your request on an individual basis, and we may (but are not obligated to) take steps to delete your User Content. Even if we take steps to delete specific User Content at your request, some of your User Content may remain in archived/backup copies for our records or as otherwise required by law. We’re not responsible or liable for the removal or deletion of (or the failure to remove or delete) any of your User Content.
+If you have an Iodine Account, you may be able to modify or remove certain User Content that you submitted via your Iodine Account.
 
-In general, we can’t delete User Content because we don’t know who submitted it. We’ll consider removal requests, but we’re not obligated to remove User Content.
+If you don’t have an Iodine Account, and you want to remove some of your User Content from Iodine, please email us at [privacy@iodine.com](mailto:privacy@iodine.com). We may request further information from you to verify that you are the user who submitted the User Content in question. We’ll consider your request on an individual basis, and we may (but are not obligated to) take steps to delete your User Content. Even you delete or we take steps at your request to delete specific User Content, some of your User Content may remain in archived/backup copies for our records or as otherwise required by law, and as we indicated above, your User Content will continue to exist on the Services. We’re not responsible or liable for the removal or deletion of (or the failure to remove or delete) any of your User Content.
+
+In general, we can’t delete User Content. If you have an Iodine Account, you may be able to modify some User Content. We’ll consider removal requests, but we’re not obligated to remove User Content.
 
 You can choose to unsubscribe from any email from Iodine via the link provided in the email.
 
