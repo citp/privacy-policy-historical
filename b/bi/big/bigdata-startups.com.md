@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the bigdata-startups.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407065713id_/https%3A//datafloq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigdata-startups.com privacy policy that was archived on 2015-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151012154349id_/https%3A//datafloq.com/privacy) for the most accurate reproduction.*
 
 # Datafloq - Privacy Policy
 
 At Datafloq.com ("Datafloq") we appreciate your readership and support and place a high value on your personal privacy. We respect the personal nature of the information you provide us on our website and faithfully recognize the importance of protecting this information. In adopting this privacy policy (this "Privacy Policy"), our intent is to balance our legitimate business interests in collecting and using your personal information with your reasonable expectations of privacy.
 
-**When does Datafloq collect my personal information?**
+ **When does Datafloq collect my personal information?**
 
 You may provide personal information to Datafloq by entering and submitting your data in any of the forms on the website. At no time will you be required to share any personal information to gain complete access to our site. Datafloq is an open community but email addresses and names are requested to participate in some of our member-only features.
 
 In addition to basic contact information, our analytics trackers may also collect other information. This may include the operating system you are working on, the Internet browser you are using, and the screen resolution of your computer.
 
-**How does Datafloq use my personal information?**
+ **How does Datafloq use my personal information?**
 
 Depending on the portion of our site that you have subscribed to or interacted with, we may use your information in a number of ways.
 
@@ -32,7 +32,7 @@ Non-personally identifiable information (such as stated above) may be shared in 
 
 Third parties and websites that have links on our site may also collect or use information about you. This Privacy Policy does not cover the information practices of other companies.
 
-**Datafloq Comment Policy**
+ **Datafloq Comment Policy**
 
 We never censor comments based on political or ideological point of view or of a critical nature. We reserve the right to delete those comments that are off-topic, "spammy" in nature, abusive, use excessive foul language, or include ad hominem attacks.
 
@@ -58,7 +58,7 @@ VII.                **Quality:**  We encourage you to take respon
 
 Although we have a hands-on approach to community engagement, we do sometimes miss problem commenters or trolls. We appreciate your efforts and help to keep the Datafloq community environment inviting, insightful and constructive.
 
-**How you can contact us**
+ **How you can contact us**
 
 If you have questions about either this Privacy Policy please email us using our [feedback form](https://web.archive.org/contact/).
 
