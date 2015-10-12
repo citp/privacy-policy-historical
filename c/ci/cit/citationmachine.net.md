@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citationmachine.net privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510054719id_/http%3A//www.citationmachine.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citationmachine.net privacy policy that was archived on 2015-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151012221439id_/http%3A//www.citationmachine.net/privacy) for the most accurate reproduction.*
 
 # Citation Machine: Format & Generate Citations – APA, MLA, & Chicago
 
@@ -12,6 +12,10 @@ In compliance with the Children's Online Privacy Protection Act of 1998 (COPPA),
 
 Citation Machine collects user registration upon sign up. Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
 
+### Acknowledgements
+
+Citation Machine uses its own formatting technology to format APA, MLA, and Chicago styles. Other styles are formatted with the [Citation Style Language](http://citationstyles.org/) , which is licensed by the CC-BY-SA license. 
+
 ### Advertising
 
 Citation Machine serves advertising, and our ad partners may use non-personally identifiable information (not including your name, address, email address, or telephone number) about your visit in order to provide advertisements on our sites about goods and services that may be of interest to you. If you would like more information about the practices of some of these third party advertising companies and learn which of these companies allow you to opt-out of this type of information collection, please click [here](http://www.networkadvertising.org/choices/). To opt out of interest based ads served by Google, you can visit the [Google advertising opt-out page](http://google.com/settings/ads).
@@ -22,6 +26,6 @@ Although Citation Machine has a strict privacy policy, all interactions with the
 
 ### Contact Us
 
-We welcome your questions and feedback about our privacy policy or anything else related to Citation Machine. You may [contact us here](mailto:support@citationmachine.freshdesk.com?subject=privacy-policy).
+We welcome your questions and feedback about our privacy policy or anything else related to Citation Machine. You may [contact us here](http://support.citationmachine.net/).
 
 These policies are subject to change, so please make sure to check back periodically.
