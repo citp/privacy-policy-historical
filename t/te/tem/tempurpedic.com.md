@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tempurpedic.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426061217id_/http%3A//www.tempurpedic.com/customer-service/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tempurpedic.com privacy policy that was archived on 2015-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151012050733id_/http%3A//www.tempurpedic.com/customer-service/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy policy | Tempur-Pedic
 
@@ -80,15 +80,15 @@ After you give us your personal information, you can access and check, add, chan
 
 ### Adding your name to our lists
 
-If you haven’t ordered from us, but want to receive catalogs or e-mails from us, you can add your name to our mailing lists. You can receive printed catalogs, e-mails, or both. We use our mailing lists to send notice of new products and special offers. Add your name to our lists [here](http://tempurpedic.shopvisible.com/customer-service/contact-preferences.asp).
+If you haven’t ordered from us, but want to receive catalogs or e-mails from us, you can add your name to our mailing lists. You can receive printed catalogs, e-mails, or both. We use our mailing lists to send notice of new products and special offers. Add your name to our lists [here](https://web.archive.org/customer-service/contact-preferences.asp).
 
 ### Removing your name from our lists
 
-If you decide you don’t want to receive mailings from us, you can remove your name from our mailing lists. You can stop receiving printed mailings, e-mails, or both. Remove your name from our lists [here](http://tempurpedic.shopvisible.com/customer-service/contact-preferences.asp).
+If you decide you don’t want to receive mailings from us, you can remove your name from our mailing lists. You can stop receiving printed mailings, e-mails, or both. Remove your name from our lists [here](https://web.archive.org/customer-service/contact-preferences.asp).
 
 ### Changing the information we have on file
 
-If your personal information changes (like when you move), you can change the information we have on file for you.Change your personal information [here](http://tempurpedic.shopvisible.com/customer-service/contact-preferences.asp).
+If your personal information changes (like when you move), you can change the information we have on file for you.Change your personal information [here](https://web.archive.org/customer-service/contact-preferences.asp).
 
 ### Accessing your personal information
 
