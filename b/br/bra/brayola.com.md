@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brayola.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624232059id_/http%3A//brayola.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brayola.com privacy policy that was archived on 2015-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151012201712id_/http%3A//brayola.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
