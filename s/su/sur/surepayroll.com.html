@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the surepayroll.com privacy policy that was archived on 2015-04-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150403031018id_/http%3A//www.surepayroll.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the surepayroll.com privacy policy that was archived on 2015-10-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151012222819id_/http%3A//www.surepayroll.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US"><head><script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script type="text/javascript" async="" src="https://secure.adnxs.com/seg?t=1&amp;add=296852" id="nowspots-retargeting"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//static.woopra.com/js/w.js"></script><script>
   try 
@@ -33,10 +33,14 @@
 			idle_timeout: 1800000
 		});
 
-		woopra.trackForm('Request Quote', 'quotesform1', {
+		woopra.call("trackForm", "Request Quote", "#quotesform1", {
+		    
+		});
+
+		/*woopra.trackForm('Request Quote', 'quotesform1', {
 		});
 		woopra.trackForm('Request Quote', 'payrollForm', {
-		});
+		});*/
 
 		if (window.location.pathname.indexOf('/query') == 0) {
 			woopra.track('search', {
@@ -106,6 +110,11 @@
 	<!--[if IE 9]> 
 	    <link rel="stylesheet" href="/skins/surepayroll/widget.ie9.css" />
 	<![endif]-->
+    
+
+    <!-- Disabled scroll for June 2015 release
+    -->
+
     
 
     <script type="text/javascript">
