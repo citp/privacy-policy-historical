@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artsclub.tv privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622132840id_/http%3A//www.artsclub.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artsclub.tv privacy policy that was archived on 2015-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151012222600id_/http%3A//www.artsclub.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » ArtsClub
 
