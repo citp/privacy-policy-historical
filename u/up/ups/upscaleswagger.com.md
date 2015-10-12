@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upscaleswagger.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507121328id_/http%3A//www.upscaleswagger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upscaleswagger.com privacy policy that was archived on 2015-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151012085348id_/http%3A//www.upscaleswagger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
