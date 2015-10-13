@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the classicfm.com privacy policy that was archived on 2015-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150629180932id_/http%3A//www.classicfm.com/about-classic-fm/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the classicfm.com privacy policy that was archived on 2015-10-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151013040037id_/http%3A//www.classicfm.com/about-classic-fm/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
 	    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -24,7 +24,7 @@
 		
 	
 		
-		<link rel="stylesheet" href="http://classic.gcstatic.com/d/classicfm.com/css/combined/classic-minified__996e110a.css" media="screen" type="text/css">
+		<link rel="stylesheet" href="http://classic.gcstatic.com/d/classicfm.com/css/combined/classic-minified__fd36b29c.css" media="screen" type="text/css">
 		
 	
 		
@@ -40,7 +40,7 @@
 		<!--[if !IE]><!-->
 	
 		
-		<script type="text/javascript" src="http://classic.gcstatic.com/d/classicfm.com/js/combined/classic-minified__abbff7cf.js"></script>
+		<script type="text/javascript" src="http://classic.gcstatic.com/d/classicfm.com/js/combined/classic-minified__1a80c6e8.js"></script>
 		
 	
 		<!--<![endif]-->
@@ -50,7 +50,7 @@
 	<!--[if lte IE 6]>
 	
 		
-		<script type="text/javascript" src="http://classic.gcstatic.com/d/classicfm.com/js/combined/classic-ie-lte7-minified__99834f9f.js"></script>
+		<script type="text/javascript" src="http://classic.gcstatic.com/d/classicfm.com/js/combined/classic-ie-lte7-minified__fa5f9dd2.js"></script>
 		
 	<![endif]-->
 	
@@ -59,7 +59,7 @@
 	<!--[if IE 7]>
 	
 		
-		<script type="text/javascript" src="http://classic.gcstatic.com/d/classicfm.com/js/combined/classic-ie-minified__cac74308.js"></script>
+		<script type="text/javascript" src="http://classic.gcstatic.com/d/classicfm.com/js/combined/classic-ie-minified__752d5ffb.js"></script>
 		
 	<![endif]-->
 	
@@ -68,7 +68,7 @@
 	<!--[if IE 8]>
 	
 		
-		<script type="text/javascript" src="http://classic.gcstatic.com/d/classicfm.com/js/combined/classic-ie-minified__cac74308.js"></script>
+		<script type="text/javascript" src="http://classic.gcstatic.com/d/classicfm.com/js/combined/classic-ie-minified__752d5ffb.js"></script>
 		
 	<![endif]-->
 	
@@ -77,7 +77,7 @@
 	<!--[if gte IE 9]>
 	
 		
-		<script type="text/javascript" src="http://classic.gcstatic.com/d/classicfm.com/js/combined/classic-minified__abbff7cf.js"></script>
+		<script type="text/javascript" src="http://classic.gcstatic.com/d/classicfm.com/js/combined/classic-minified__1a80c6e8.js"></script>
 		
 	<![endif]-->
 	
@@ -100,9 +100,9 @@
 		
 			<meta name="twitter:description" content="Any information you provide about yourself to Classic FM will only be used in accordance with our Privacy Policy Statement. Read all about it here. ">
 		
-			<meta name="twitter:image:src" content="http://assets2.classicfm.com/2008/34/private-door-1219674179-hero-promo-0.jpg">
+			<meta name="twitter:image:src" content="http://assets1.classicfm.com/2008/34/private-door-1219674179-article-1.jpg">
 		
-			<meta name="twitter:image:width" content="298">
+			<meta name="twitter:image:width" content="618">
 		
 			<meta name="twitter:image:height" content="298">
 		
@@ -118,13 +118,15 @@
 		
 			<meta content="Classic FM" property="og:site_name">
 		
-			<meta content="http://assets2.classicfm.com/2008/34/private-door-1219674179-hero-promo-0.jpg" property="og:image">
+			<meta content="http://assets1.classicfm.com/2008/34/private-door-1219674179-article-1.jpg" property="og:image">
 		
 			<meta content="551351399,682460280" property="fb:admins">
 		
 			<meta property="fb:app_id" content="357357177653391">
 		
 			<meta content="6569469259" property="fb:page_id">
+		
+			<meta content="about-classic-fm, privacy-policy" name="sailthru.tags">
 		
 
 		
@@ -200,7 +202,7 @@
 //    get the urlencoded string to pass in the streaming request
 //    first build_streaming_params is a fallback in case the second one contains a syntax error
 gusto.build_streaming_params = function() {
-    return encodeURIComponent('amsparams=' + "playerid:UKRP;skey:1435597773;");
+    return encodeURIComponent('amsparams=' + "playerid:UKRP;skey:1444705236;");
 };
 //    this comes from app settings for ukrp
 gusto.streaming_params_cookie_name = 'ukrp_streamparams';
@@ -244,14 +246,21 @@ gusto.build_streaming_params = function() {
     var params = [];
     
         try {
-            params.push('amsparams=' + stitch('', "playerid:UKRP;skey:1435597773;"));
+            params.push('amsparams=' + stitch('', "playerid:UKRP;skey:1444705236;"));
         } catch(e) {
             param_error('amsparams');
         }
         
     
         try {
-            params.push('awparams=' + stitch('', "p0:" + gusto.udb_user.grid + ";p1:" + gusto.udb_user.gender + ";p2:" + gusto.udb_user.age_segment + ";"));
+            params.push('listenerid=' + stitch('', adswizzListenerId));
+        } catch(e) {
+            param_error('listenerid');
+        }
+        
+    
+        try {
+            params.push('awparams=' + stitch('|', "kxsegs:" , Krux.segments , ";"));
         } catch(e) {
             param_error('awparams');
         }
@@ -265,6 +274,43 @@ gusto.build_streaming_params = function() {
 	</head>
 	<body class="js">
 
+		<!-- START krux interchange tag -->
+<script type="text/javascript">
+// code for retrieving the Krux user id and segments from either local storage or a cookie
+window.Krux || ((Krux = function() {Krux.q.push(arguments);}).q = []);
+
+(function() {
+	function retrieveKruxValue(key) {
+		var ret = "";
+		// check for value in local storage
+		if (window.localStorage) {
+			ret = window.localStorage.getItem(key);
+		} 
+		if (ret != undefined && ret != "") {
+			return ret;
+		}
+		// check for value in cookie
+		if (navigator.cookieEnabled) {
+			ret = document.cookie.match(key + '=([^;]*)');
+			ret = (ret && unescape(ret[1])) || "";
+		} 
+		return ret;
+	}
+	var kruxUserId = "";
+	// there are two possible variables that hold the krux user id - try them both
+	kruxUserId = retrieveKruxValue('kxuser');
+	if (kruxUserId == undefined || kruxUserId == "") {
+		kruxUserId = retrieveKruxValue('kxkuid');
+	}
+	Krux.user = kruxUserId;
+	Krux.segments = retrieveKruxValue('kxsegs') && retrieveKruxValue('kxsegs').split(',') || [];
+	
+})();
+
+// used in _ad_tech.html
+window.krux_adtech_param = ';kvkrx=' + window.Krux.segments.join(":");
+</script>
+<!-- END krux interchange tag -->
 		
 
 
@@ -366,14 +412,14 @@ if (navigator.appVersion.indexOf('MSIE 6') === -1) document.body.className = ((d
 		
         
 <p class="first">
-	<a class="chevron" href="http://www.classicfm.com/radio/shows/classic-fm-drive">
-		<span class="on_now">On now</span> <span class="show_name"> Classic FM Drive with John Brunning</span>
+	<a class="chevron" href="http://www.classicfm.com/radio/shows/nick-bailey">
+		<span class="on_now">On now</span> <span class="show_name"> Nick Bailey</span>
 	</a>
 </p>
 <p class="second">
 
 	
-		<a href="http://www.classicfm.com/radio/presenters/john-brunning/contact-john-brunning">Email the show</a>
+		<a href="http://www.classicfm.com/radio/shows/nick-bailey/contact-nick-bailey">Email the show</a>
 	
 
 	
@@ -558,10 +604,19 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
     <!--
     
     if (window.adgroupid == undefined) {window.adgroupid = parseInt(Math.random() * 1000);}
-    document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|3323837|0|3466|ADTECH;loc=100;target=_blank;key=None_article+None+article+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+
+    var local_krux_adtech_param = '';
+    if(window.krux_adtech_param) {
+        local_krux_adtech_param = window.krux_adtech_param;
+    } else if(parent.window.krux_adtech_param) {
+        local_krux_adtech_param = parent.window.krux_adtech_param;
+    }
+
+    document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|3323837|0|3466|ADTECH;loc=100'+ local_krux_adtech_param +';target=_blank;key=None_article+None+article+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+
     
     -->
-    </script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|3323837|0|3466|ADTECH;loc=100;target=_blank;key=None_article+None+article+key4;grp=896;misc=1580462738130"></script>
+    </script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|3323837|0|3466|ADTECH;loc=100;kvkrx=;target=_blank;key=None_article+None+article+key4;grp=107;misc=1580462737972"></script>
     <noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|3323837|0|3466|ADTECH;loc=300;key=None_article+None+article+key4;"><img src="http://adserver.adtech.de/adserv|3.0|646|3323837|0||ADTECH;loc=300;key=None_article+None+article+key4;" width="1" height="1" alt=""></a></p></noscript>
     
 
@@ -585,10 +640,19 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
     <!--
     
     if (window.adgroupid == undefined) {window.adgroupid = parseInt(Math.random() * 1000);}
-    document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2048350|0|454|ADTECH;loc=100;target=_blank;key=None_article+None+article+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+
+    var local_krux_adtech_param = '';
+    if(window.krux_adtech_param) {
+        local_krux_adtech_param = window.krux_adtech_param;
+    } else if(parent.window.krux_adtech_param) {
+        local_krux_adtech_param = parent.window.krux_adtech_param;
+    }
+
+    document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2048350|0|454|ADTECH;loc=100'+ local_krux_adtech_param +';target=_blank;key=None_article+None+article+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+
     
     -->
-    </script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2048350|0|454|ADTECH;loc=100;target=_blank;key=None_article+None+article+key4;grp=896;misc=1580462738131"></script>
+    </script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2048350|0|454|ADTECH;loc=100;kvkrx=;target=_blank;key=None_article+None+article+key4;grp=107;misc=1580462737975"></script>
     <noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|2048350|0|454|ADTECH;loc=300;key=None_article+None+article+key4;"><img src="http://adserver.adtech.de/adserv|3.0|646|2048350|0||ADTECH;loc=300;key=None_article+None+article+key4;" width="1" height="1" alt=""></a></p></noscript>
     
 
@@ -894,10 +958,10 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 		<ul>
 			
             
-			<li class="first nowplaying odd">
+			<li class="first odd">
 				<p class="track">
 					
-						<a href="/composers/schubert/music/impromptu-no-3-g-flat/">Impromptu in Gb major D.899 No.3 Opus 90</a>
+						Trumpet Concerto No.1 in D major (1)
 					
                     <span class="track_artist">
                         
@@ -907,7 +971,7 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 
 
     
-        <a class="first" href="/composers/schubert/">Franz Schubert</a>
+        <a class="first" href="None">Johann Melchior Molter</a>
     
 
                         
@@ -915,15 +979,15 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
                     </span>
 				</p>
 				<p class="time"><a href="">
-                Now
+                04:53
                 </a></p>
-				<p class="download"><a href="http://itunes.apple.com/gb/album/4-impromptus-d.-899-no.-3/id370067004?i=370067184&amp;uo=4&amp;at=10lwHC&amp;ct=ClassicFM_Miscellaneous"><span>iTunes</span></a></p>
+				
 			</li>
 		
 			<li class="">
 				<p class="track">
 					
-						<a href="/composers/mascagni/music/cavalleria-rusticana/">Cavalleria Rusticana - Intermezzo</a>
+						<a href="/composers/beethoven/music/moonlight-sonata-no-14-c-sharp-mi/">Piano Sonata No.14 in C# minor Opus 27 (1)</a>
 					
                     <span class="track_artist">
                         
@@ -933,7 +997,7 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 
 
     
-        <a class="first" href="/composers/mascagni/">Pietro Mascagni</a>
+        <a class="first" href="/composers/beethoven/">Ludwig Van Beethoven</a>
     
 
                         
@@ -941,15 +1005,15 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
                     </span>
 				</p>
 				<p class="time"><a href="">
-                19:03
+                04:49
                 </a></p>
-				<p class="download"><a href="http://itunes.apple.com/gb/album/cavalleria-rusticana-intermezzo/id414694138?i=414694258&amp;uo=4&amp;at=10lwHC&amp;ct=ClassicFM_Miscellaneous"><span>iTunes</span></a></p>
+				<p class="download"><a href="https://itunes.apple.com/gb/album/piano-sonata-no.-14-quasi/id158708041?i=158708107&amp;uo=4&amp;at=10lwHC&amp;ct=ClassicFM_Miscellaneous"><span>iTunes</span></a></p>
 			</li>
 		
 			<li class="odd">
 				<p class="track">
 					
-						Symphony No.4 in F minor Opus 36 (4)
+						American Suite in A major (1)
 					
                     <span class="track_artist">
                         
@@ -959,7 +1023,7 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 
 
     
-        <a class="first" href="/composers/tchaikovsky/">Peter Ilich Tchaikovsky</a>
+        <a class="first" href="/composers/dvorak/">Antonin Dvorak</a>
     
 
                         
@@ -967,9 +1031,9 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
                     </span>
 				</p>
 				<p class="time"><a href="">
-                18:47
+                04:44
                 </a></p>
-				<p class="download"><a href="https://itunes.apple.com/gb/album/symphony-no.-4-in-f-minor/id553906752?i=553906904&amp;uo=4&amp;at=10lwHC&amp;ct=ClassicFM_Miscellaneous"><span>iTunes</span></a></p>
+				<p class="download"><a href="http://itunes.apple.com/gb/album/suite-in-minor-op.-98b-b-190/id381566500?i=381566888&amp;uo=4&amp;at=10lwHC&amp;ct=ClassicFM_Miscellaneous"><span>iTunes</span></a></p>
 			</li>
 		
 		</ul>
@@ -985,10 +1049,19 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
     <!--
     
     if (window.adgroupid == undefined) {window.adgroupid = parseInt(Math.random() * 1000);}
-    document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2048353|0|170|ADTECH;loc=100;target=_blank;key=None_article+None+article+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+
+    var local_krux_adtech_param = '';
+    if(window.krux_adtech_param) {
+        local_krux_adtech_param = window.krux_adtech_param;
+    } else if(parent.window.krux_adtech_param) {
+        local_krux_adtech_param = parent.window.krux_adtech_param;
+    }
+
+    document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2048353|0|170|ADTECH;loc=100'+ local_krux_adtech_param +';target=_blank;key=None_article+None+article+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+
     
     -->
-    </script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2048353|0|170|ADTECH;loc=100;target=_blank;key=None_article+None+article+key4;grp=896;misc=1580462738147"></script>
+    </script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2048353|0|170|ADTECH;loc=100;kvkrx=;target=_blank;key=None_article+None+article+key4;grp=107;misc=1580462738008"></script>
     <noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|2048353|0|170|ADTECH;loc=300;key=None_article+None+article+key4;"><img src="http://adserver.adtech.de/adserv|3.0|646|2048353|0||ADTECH;loc=300;key=None_article+None+article+key4;" width="1" height="1" alt=""></a></p></noscript>
     
 
@@ -1035,26 +1108,26 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 <!--[if lte IE 7]><div><![endif]-->
 
 
-<article class="grid_1 first_row cycle_start  has_video">
+<article class="grid_1 first_row cycle_start  ">
 
 	<h3>
 	    
-        <a href="/instruments/piano/prepare-steinway-tchaikovsky-competition/" class="">
+        <a href="/music-news/latest-news/reddit-concert-story/" class="">
 	    
 	    
 
      
-        <img src="http://assets2.classicfm.com/2015/25/steinway-tchaikovsky-competition-1435387563-small-pod-0.jpg" alt="Steinway Tchaikovsky Competition" height="138" width="138">
+        <img src="http://assets7.classicfm.com/2015/41/reddit-concert-death-story-1444648913-small-pod-0.jpg" alt="reddit concert death story" height="138" width="138">
     
 
 	<span class="headline">
 		
 		    
-              <em class="has_video">Watch</em>
+              
             
         
         
-		How do you prepare a Steinway for one of the most important piano competitions in the world? </span>
+		Bowing out with Beethoven: read this incredible and heartbreaking concert story</span>
 
     
 	    
@@ -1078,26 +1151,26 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 
 
 
-<article class="grid_1 first_row cycle_end  has_video">
+<article class="grid_1 first_row cycle_end  has_audio">
 
 	<h3>
 	    
-        <a href="/composers/tchaikovsky/tour-house-peter-donohoe-piano/" class="">
+        <a href="/artists/luciano-pavarotti/news/luciano-pavarotti/" class="">
 	    
 	    
 
      
-        <img src="http://assets4.classicfm.com/2015/25/tchaikovskys-house-5-1435346410-small-pod-0.jpg" alt="Tchaikovsky's house" height="138" width="138">
+        <img src="http://assets1.classicfm.com/2013/35/john-brunning-and-pavarotti-1378461602-small-pod-0.jpg" alt="John Brunning and Pavarotti" height="138" width="138">
     
 
 	<span class="headline">
 		
 		    
-              <em class="has_video">Watch</em>
+              <em class="has_audio">Listen</em>
             
         
         
-		We took a tour round Tchaikovsky’s house and heard a world-famous pianist perform on the composer’s piano</span>
+		An afternoon with Pavarotti: listen to John Brunning’s (extremely rare) interview with the legend</span>
 
     
 	    
@@ -1129,12 +1202,12 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 
 	<h3>
 	    
-        <a href="/composers/haydn/album-reviews/haydn-mozart-horn-concertosfelix-klieser/" class="">
+        <a href="/discover/music/southbank-centre-london-bees-knees/" class="">
 	    
 	    
 
      
-        <img src="http://assets1.classicfm.com/2015/25/haydn-mozart-horn-concertos-felix-klieser-1435146101-small-pod-0.jpg" alt="Haydn Mozart Horn Concertos Felix Klieser" height="138" width="138">
+        <img src="http://assets8.classicfm.com/2014/48/london-philharmonic-orchestra-7-1417541666-small-pod-1.jpg" alt="LPO and Vladimir Jurowski" height="138" width="138">
     
 
 	<span class="headline">
@@ -1144,7 +1217,7 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
             
         
         
-		Felix Klieser plays French horn with his toes - and he's just released an uplifting second album</span>
+		Why London’s Southbank Centre is absolutely the bee’s knees</span>
 
     
 	    
@@ -1172,12 +1245,12 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 
 	<h3>
 	    
-        <a href="/discover/album-reviews/lu-siqing-the-butterfly-lovers-violin-concerto/" class="">
+        <a href="/composers/vivaldi/album-reviews/seasons-kerenza-peacock-trafalgar-sinfonia/" class="">
 	    
 	    
 
      
-        <img src="http://assets3.classicfm.com/2015/25/butterfly-lovers-lu-siqing-1435144906-small-pod-0.jpg" alt="Butterfly Lovers Lu Siqing Violin Concerto" height="138" width="138">
+        <img src="http://assets1.classicfm.com/2015/40/seasons-kerenza-peacock-1444318940-small-pod-0.png" alt="Seasons Kerenza Peacock" height="138" width="138">
     
 
 	<span class="headline">
@@ -1187,7 +1260,7 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
             
         
         
-		Lu Siqing: The Butterfly Lovers Violin Concerto</span>
+		Seasons - Kerenza Peacock/Trafalgar Sinfonia</span>
 
     
 	    
@@ -1237,26 +1310,28 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 <!--[if lte IE 7]><div><![endif]-->
 
 
-<article class="grid_1 first_row cycle_start  ">
+<article class="grid_1 gallery first_row cycle_start  ">
 
 	<h3>
 	    
-        <a href="/instruments/ten-best-brass-players/" class="">
+        <a href="/discover/music/orchestra-guide/" class="">
 	    
 	    
 
      
-        <img src="http://assets2.classicfm.com/2009/11/french-horn-1237396748-small-pod-0.jpg" alt="French Horn" height="138" width="138">
+        <img src="http://assets2.classicfm.com/2015/39/parpy-tree-trunk-1443707646-small-pod-0.jpg" alt="A normal person's guide to the orchestra" height="138" width="138">
     
 
 	<span class="headline">
 		
 		    
               
+                <em class="gallery">Picture Gallery</em>
+              
             
         
         
-		Are these the ten best brass players ever?</span>
+		A normal person's guide to the orchestra</span>
 
     
 	    
@@ -1280,26 +1355,26 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 
 
 
-<article class="grid_1 last first_row cycle_end  ">
+<article class="grid_1 last first_row cycle_end  has_video">
 
 	<h3>
 	    
-        <a href="/discover/music/worst-things-clarinet/" class="">
+        <a href="/instruments/how-to-play-triangle/" class="">
 	    
 	    
 
      
-        <img src="http://assets9.classicfm.com/2015/19/worst-things-clarinet-1431705842-small-pod-0.jpg" alt="worst things clarinet" height="138" width="138">
+        <img src="http://assets3.classicfm.com/2015/38/how-to-play-the-triangle-1443014594-small-pod-0.jpg" alt="How to play the triangle" height="138" width="138">
     
 
 	<span class="headline">
 		
 		    
-              
+              <em class="has_video">Watch</em>
             
         
         
-		The 10 worst things about playing the clarinet</span>
+		How to play the triangle - a masterclass with the RLPO's percussion leader</span>
 
     
 	    
@@ -1353,12 +1428,12 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 
 	<h3>
 	    
-        <a href="/artists/vienna-philharmonic/music/summer-night-concert-schonbrunn-2015/" class="">
+        <a href="/composers/beethoven/album-reviews/symphony-5-london-philharmonic-tennstedt/" class="">
 	    
 	    
 
      
-        <img src="http://assets2.classicfm.com/2015/24/vienna-philharmonic-summer-nights-concert-2015-1434626133-small-pod-0.png" alt="Vienna Philharmonic Summer Night's Concert 2015" height="138" width="138">
+        <img src="http://assets7.classicfm.com/2015/40/beethoven-symphony-5-tennstedt-1444321575-small-pod-0.png" alt="Beethoven LPO Tennstedt Symphony 5" height="138" width="138">
     
 
 	<span class="headline">
@@ -1368,7 +1443,7 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
             
         
         
-		Vienna Philharmonic: Summer Night Concert Schönbrunn 2015</span>
+		Beethoven: Symphony No.5 - London Philharmonic/Tennstedt</span>
 
     
 	    
@@ -1396,12 +1471,12 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 
 	<h3>
 	    
-        <a href="/composers/dvorak/album-review/symphonies-bournemouth-serebrier/" class="">
+        <a href="/composers/haydn/album-reviews/symphonies-52-53-59-northern-sinfonia/" class="">
 	    
 	    
 
      
-        <img src="http://assets4.classicfm.com/2015/23/dvorak-symphonies-serebrier-1433861112-small-pod-0.jpg" alt="Dvorak Symphonies Serebrier" height="138" width="138">
+        <img src="http://assets3.classicfm.com/2015/39/haydn-symphonies-royal-northern-sinfonia-1443779109-small-pod-0.png" alt="Haydn Symphonies Royal Northern Sinfonia" height="138" width="138">
     
 
 	<span class="headline">
@@ -1411,7 +1486,7 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
             
         
         
-		Dvořák: Symphonies - Bournemouth Symphony Orchestra/Serebrier</span>
+		Haydn: Symphonies Nos. 52, 53 and 59 - Royal Northern Sinfonia/Rebecca Miller</span>
 
     
 	    
@@ -1518,7 +1593,7 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 	    
 
      
-        <img src="http://assets8.classicfm.com/2012/33/classic-fm-app-1345218568-small-pod-0.jpg" alt="Classic FM app" height="138" width="138">
+        <img src="http://assets8.classicfm.com/2013/24/classic-fm-android-app---beethoven--1371575890-small-pod-0.png" alt="classic-fm-android-app---beethoven-" height="138" width="138">
     
 
 	<span class="headline">
@@ -1565,7 +1640,7 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 	    
 
      
-        <img src="http://assets7.classicfm.com/2013/11/android-mobile-1363816406-small-pod-0.jpg" alt="Android Mobile" height="138" width="138">
+        <img src="http://assets6.classicfm.com/2013/11/classic-fm-android-app---beethoven-1363815074-small-pod-0.png" alt="Classic FM Android app" height="138" width="138">
     
 
 	<span class="headline">
@@ -1870,9 +1945,14 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 	<a href="/pictures/">All Picture Galleries</a>
 </li>
 			
-			<li class="last">
+			<li>
 
 	<a href="/instruments/">Musical Instruments</a>
+</li>
+			
+			<li class="last">
+
+	<a href="http://www.classicfm.com/hall-of-fame/">Best Classical Music</a>
 </li>
 			
 		</ul>
@@ -2007,10 +2087,19 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
     <!--
     
     if (window.adgroupid == undefined) {window.adgroupid = parseInt(Math.random() * 1000);}
-    document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2048349|0|225|ADTECH;loc=100;target=_blank;key=None_article+None+article+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+
+    var local_krux_adtech_param = '';
+    if(window.krux_adtech_param) {
+        local_krux_adtech_param = window.krux_adtech_param;
+    } else if(parent.window.krux_adtech_param) {
+        local_krux_adtech_param = parent.window.krux_adtech_param;
+    }
+
+    document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2048349|0|225|ADTECH;loc=100'+ local_krux_adtech_param +';target=_blank;key=None_article+None+article+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+
     
     -->
-    </script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2048349|0|225|ADTECH;loc=100;target=_blank;key=None_article+None+article+key4;grp=896;misc=1580462738188"></script>
+    </script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2048349|0|225|ADTECH;loc=100;kvkrx=;target=_blank;key=None_article+None+article+key4;grp=107;misc=1580462738047"></script>
     <noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|2048349|0|225|ADTECH;loc=300;key=None_article+None+article+key4;"><img src="http://adserver.adtech.de/adserv|3.0|646|2048349|0||ADTECH;loc=300;key=None_article+None+article+key4;" width="1" height="1" alt=""></a></p></noscript>
     
 </div>
@@ -2026,10 +2115,19 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
     <!--
     
     if (window.adgroupid == undefined) {window.adgroupid = parseInt(Math.random() * 1000);}
-    document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|204835|0|16|ADTECH;loc=100;target=_blank;key=None_article+None+article+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+
+    var local_krux_adtech_param = '';
+    if(window.krux_adtech_param) {
+        local_krux_adtech_param = window.krux_adtech_param;
+    } else if(parent.window.krux_adtech_param) {
+        local_krux_adtech_param = parent.window.krux_adtech_param;
+    }
+
+    document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|204835|0|16|ADTECH;loc=100'+ local_krux_adtech_param +';target=_blank;key=None_article+None+article+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+
     
     -->
-    </script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|204835|0|16|ADTECH;loc=100;target=_blank;key=None_article+None+article+key4;grp=896;misc=1580462738191"></script>
+    </script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|204835|0|16|ADTECH;loc=100;kvkrx=;target=_blank;key=None_article+None+article+key4;grp=107;misc=1580462738054"></script>
     <noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|204835|0|16|ADTECH;loc=300;key=None_article+None+article+key4;"><img src="http://adserver.adtech.de/adserv|3.0|646|204835|0||ADTECH;loc=300;key=None_article+None+article+key4;" width="1" height="1" alt=""></a></p></noscript>
     
 </div>
@@ -2057,9 +2155,32 @@ var s_account="GlobalRClassicFM";
 <script type="text/javascript" src="http://classic.gcstatic.com/gusto/c/js/sctl.js?ver=333"></script>
 
 
-<script language="JavaScript" type="text/javascript"><!--
-/* You may give each page an identifying name, server, and channel on
-the next lines. */
+<script language="JavaScript" type="text/javascript">
+<!--
+
+    var events = [];
+    var last_logged_in_state = sessionStorage.last_logged_in_state || "not_signed_in";
+    var current_logged_in_state = gusto.udb_user.grid ? "signed_in" : "not_signed_in";
+    var registration_context = "";
+
+    if(last_logged_in_state != current_logged_in_state) {
+        var login_or_out = (current_logged_in_state == 'signed_in') ? "event9" : "event10";
+        events.push(login_or_out);
+        if(current_logged_in_state == 'signed_in') {
+            var action = (gusto.tracking_registration_done) ? "register" : "sign_in";
+            registration_context  = (sessionStorage.registration_context || 'CLS:unknown:') + action;
+        }
+        sessionStorage.registration_context = "";
+    };
+
+    if(gusto.tracking_login_form_displayed && gusto.tracking_registration_form_displayed) {
+        // the only place you can register, that isn't the register page, is a competition
+        // there may be other places in the future
+        sessionStorage.registration_context = 'CLS:competition:';
+    }
+
+    /* You may give each page an identifying name, server, and channel on
+    the next lines. */
     s.pageName="CLS/CLSS/about classic fm/privacy policy";
     s.prefix="CLS/CLSS";
     s.channel="CLS";
@@ -2081,9 +2202,9 @@ the next lines. */
     s.prop15="";
     s.prop16="";
     s.prop17="";
-    s.prop18="";
+    s.prop18=current_logged_in_state;
     s.prop19="";
-    s.prop20="";
+    s.prop20=registration_context;
     s.prop21="";
     s.prop22="";
     s.prop23="v3";
@@ -2092,7 +2213,7 @@ the next lines. */
     s.prop26="";
     s.prop27="";
     s.prop45="";
-    s.prop46= (gusto && (gusto.udb_user)) ? gusto.udb_user.grid : "";
+    s.prop46= (gusto && (gusto.udb_user.grid)) ? gusto.udb_user.grid : "not_signed_in";
     s.products="646-2048353;646-2048350;646-3323837;646-2048349;646-204835";
     /* Conversion Variables */
     s.campaign="";
@@ -2114,9 +2235,9 @@ the next lines. */
     s.eVar15="";
     s.eVar16="";
     s.eVar17="";
-    s.eVar18="";
+    s.eVar18=current_logged_in_state;
     s.eVar19="";
-    s.eVar20="";
+    s.eVar20=registration_context;
     s.eVar21="";
     s.eVar22="";
     s.eVar23="";
@@ -2124,11 +2245,24 @@ the next lines. */
     s.eVar25="";
     s.eVar45="";
     s.eVar46="";
+    s.eVar50=(gusto && (gusto.udb_user.grid)) ? gusto.udb_user.grid : "not_signed_in";
     /* Hierarchy Variables */
     s.hier1="article, 663";
     s.hier2="CLS/CLSS/about classic fm/privacy policy";
     /* Stream Tracking Variables */
     s.Media.autotrack=true;
+
+
+    if(gusto.tracking_login_form_displayed) {
+        events.push("event11");
+    }
+    if(gusto.tracking_registration_done) {
+        events.push("event3");
+    }
+
+    // if you see event2 while debugging, that's a page view event
+    s.events = events.join(",")
+    sessionStorage.last_logged_in_state = s.prop18;
 
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 var s_code=s.t();if(s_code)document.write(s_code);//--></script>
