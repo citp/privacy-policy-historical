@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the algonquincollege.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613235602id_/http%3A//www.algonquincollege.com/directives/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the algonquincollege.com privacy policy that was archived on 2015-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151013084720id_/http%3A//www.algonquincollege.com/directives/privacy) for the most accurate reproduction.*
 
 # Corporate Directives » Algonquin College Privacy Statement
 
