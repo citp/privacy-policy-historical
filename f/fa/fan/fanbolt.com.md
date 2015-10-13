@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fanbolt.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630002249id_/http%3A//www.fanbolt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanbolt.com privacy policy that was archived on 2015-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151013134617id_/http%3A//www.fanbolt.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**FanBolt’s Commitment to Privacy:**
+## FanBolt’s Commitment to Privacy:
 
 FanBolt respects its users’ rights to privacy and will never disclose any personal information about its users to any third parties. Any information provided to FanBolt by its users will be held strictly by FanBolt. FanBolt does reserve the right to send email to it’s users at any time about topics pertaining to the site itself, network sites, or the shows that FanBolt hosts message boards for. If you wish not to receive these emails, then please turn off the accept email from admins option in your profile.
 
