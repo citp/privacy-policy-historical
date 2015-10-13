@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socrative.com privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519163639id_/http%3A//socrative.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socrative.com privacy policy that was archived on 2015-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151013041413id_/http%3A//www.socrative.com/privacy.php) for the most accurate reproduction.*
 
 # Socrative
 
@@ -6,9 +6,9 @@ Please note that the site, app and services are in beta release and, thus, their
 
 Socrative ("Socrative") values your privacy. At Socrative we provide educational software that teachers can use for quick polling, pre-made quizzes, and open response activities. We offer real-time questioning in order to provide teachers with visualizations of student understanding. Questions are also auto-graded and teachers can use our services to track student progress and grades. In this Privacy Policy ("Policy"), we describe how we collect, use, and disclose information that we obtain about visitors to our website www.socrative.com (the "Site"), users of our mobile application (the "App"), and users of the services available through our Site and App (collectively, the "Services").
 
-By visiting the Site, using or downloading the App, or using any of our Services, you agree that your personal information will be handled as described in this Policy. Your use of our Site, App, or Services, and any dispute over privacy, is subject to this Policy and our Terms of Service (http://www.socrative.com/terms), including its applicable limitations on damages and the resolution of disputes. The Terms of Service are incorporated by reference into this Policy.
+By visiting the Site, using or downloading the App, or using any of our Services, you agree that your personal information will be handled as described in this Policy. Your use of our Site, App, or Services, and any dispute over privacy, is subject to this Policy and our Terms of Service ([http://www.socrative.com/terms.php](https://web.archive.org/web/20151013041413id_/http%3A//www.socrative.com/terms.php)), including its applicable limitations on damages and the resolution of disputes. The Terms of Service are incorporated by reference into this Policy.
 
-If you are a parent or teacher of a child under thirteen years old, please click here (http://www.socrative.com/COPPA-policy) to review our COPPA Privacy Policy, which contains important information for parents about how we collect, use, and disclose the personal information we collect from children under thirteen years old.
+If you are a parent or teacher of a child under thirteen years old, please click here ([http://www.socrative.com/COPPA-policy.php](https://web.archive.org/web/20151013041413id_/http%3A//www.socrative.com/COPPA-policy.php)) to review our COPPA Privacy Policy, which contains important information for parents about how we collect, use, and disclose the personal information we collect from children under thirteen years old.
 
 #### What Information Do We Collect About You and Why?
 
@@ -92,4 +92,4 @@ If you have questions about the privacy aspects of our Services or would like to
 
 #### Changes to This Policy
 
-This Policy is current as of the Effective Date set forth above. We may change this Policy from time to time, so please be sure to check back periodically. We will post any changes to this Policy on our Site, at [(http://www.socrative.com/privacy.php)](https://web.archive.org/privacy.php). If we make any changes to this Policy that materially affect our practices with regard to the personal information we have previously collected from you, we will endeavor to provide you with notice in advance of such change by highlighting the change on our Site.
+This Policy is current as of the Effective Date set forth above. We may change this Policy from time to time, so please be sure to check back periodically. We will post any changes to this Policy on our Site, at [(http://www.socrative.com/privacy.php)](https://web.archive.org/web/20151013041413id_/http%3A//www.socrative.com/privacy.php). If we make any changes to this Policy that materially affect our practices with regard to the personal information we have previously collected from you, we will endeavor to provide you with notice in advance of such change by highlighting the change on our Site.
