@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peehunters.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506124518id_/http%3A//peehunters.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peehunters.com privacy policy that was archived on 2015-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151013075207id_/http%3A//www.peehunters.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
