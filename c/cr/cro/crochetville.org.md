@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the crochetville.org privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629171432id_/http%3A//www.crochetville.com/community/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crochetville.org privacy policy that was archived on 2015-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151013050016id_/http%3A//www.crochetville.com/community/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Crochetville
 
-**PRIVACY POLICY EFFECTIVE 11/20/09**
+**PRIVACY POLICY EFFECTIVE 12/21/14**
 
 Your personal privacy is very important to us at Crochetville. We do not sell, rent, give, or otherwise divulge your personally-identifiable information (PII) to other parties outside of Crochetville administrative staff. Please read our privacy policy for more information on how we use and protect your personal information. We want you to have a clear understanding of our privacy policy.
 
@@ -16,11 +16,25 @@ When you register an account with Crochetville, you are first required to enter 
 
 Once you have registered an account, you may choose (at your own discretion) to enter other personal information in your profile that can be viewed by other Crochetville members. (Only registered members can view another member's profile information.)
 
-Crochetville's vBulletin forum software also uses cookies to help personalize your forum experience by keeping track of which messages you have read, your Private Messages, threads to which you have subscribed, and so on. We also use cookies to enable you to enter your password only once during a session (if you click the "Remember Me" button when logging in).
+Crochetville's Invision Power Services forum software also uses cookies to help personalize your forum experience by keeping track of which messages you have read, your Private Messages, threads to which you have subscribed, and so on. We also use cookies to enable you to enter your password only once during a session (if you click the "Remember Me" button when logging in).
 
 Personal information stored on your computer cannot be collected via cookies. However, personal information you may have provided to this site may be tied to cookies.
 
 Crochetville respects your privacy and will not share your personally identifiable information collected at this site with third parties except for the following limited circumstances: (1) you have given us your consent to share the information; (2) we need to seek the assistance of the abuse department at your ISP [any IP address you've used to connect to Crochetville] to stop disruptions you are causing to our forum, (3) in response to subpoenas, court orders, or legal process including in the event of a complaint or legal action arising from any message posted by you; and (4) we believe the health or well-being of you or another member is threatened.
+
+**Crochetville Order Processing**
+
+To comply with Regulation (EU) No 1042/2013, Crochetville may now collect the following personal data when you place an order with us: 1) full name, 2) billing address, 3) phone number, 4) email address, and 5) VAT number. This information is used solely for the purposes of order processing, invoicing, and tax law compliance. Crochetville may need to share this information with US and EU tax authorities when preparing and documenting VAT returns as required by law. Your information will not be shared with anyone else nor used for any other purpose.
+
+Independent designers make their patterns available for sale in our digital pattern store. When you make a purchase, our software makes available to each designer a record the date you purchased their pattern and your Crochetville member name.
+
+**MaxMind**
+
+Crochetville utilizes the MaxMind service to comply with Regulation (EU) No 1042/2013 regarding VAT for sales of digital services. MaxMind is a participant in US-EU and US-Swizerland Safe Harbor programs. You can read [MaxMind's Privacy Poicy here](https://www.maxmind.com/en/privacy_policy).
+
+**Paypal**
+
+Crochetville uses Paypal to process all online payments. You can read [Paypal's Privacy Policy here](https://www.paypal.com/us/webapps/mpp/ua/privacy-full).
 
 **Google Advertising Cookie and Privacy Policy**
 
