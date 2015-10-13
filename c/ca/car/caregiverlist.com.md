@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caregiverlist.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612230218id_/http%3A//www.caregiverlist.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caregiverlist.com privacy policy that was archived on 2015-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151013021914id_/http%3A//www.caregiverlist.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - CaregiverList.com
 
