@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insiderperks.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614084057id_/http%3A//www.insiderperks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insiderperks.com privacy policy that was archived on 2015-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151013180902id_/http%3A//www.insiderperks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Insider Perks
 
