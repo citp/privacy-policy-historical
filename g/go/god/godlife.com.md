@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the godlife.com privacy policy that was archived on 2015-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150405012036id_/http%3A//www.godlife.com/en/privacy%3Fv%3D14279602434439419) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godlife.com privacy policy that was archived on 2015-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151013023035id_/http%3A//godlife.com/en/privacy%3Fv%3D14445787489693338) for the most accurate reproduction.*
 
 # God Loves You! | GodLife
 
@@ -8,7 +8,7 @@ Please know that we are committed to protecting and appropriately handling the p
 
 #### 1\. Using this Site.
 
-Please read our [Terms of Use](https://web.archive.org/en/terms?v=14279602434439419) to find out more about the requirements for using this Site.
+Please read our [Terms of Use](https://web.archive.org/en/terms?v=14445787489693338) to find out more about the requirements for using this Site.
 
 #### 2\. Collection and Use of Information.
 
@@ -48,7 +48,7 @@ The Site may offer different options for accessing, changing and modifying infor
 
 #### 11\. Contacting Our Organization
 
-A link named [Contact Us](https://web.archive.org/en/form/connect?v=14279602434439419) may be provided on pages of Our Site. Please click on this link to send an e-mail to Our Organization’s support staff and we will work to ensure your query is answered or passed on to the appropriate person in a timely manner. You can also contact Our Organization about general information of our Site at: [Global Media Outreach](https://www.globalmediaoutreach.com/). 
+A link named [Contact Us](https://web.archive.org/en/form/connect?v=14445787489693338) may be provided on pages of Our Site. Please click on this link to send an e-mail to Our Organization’s support staff and we will work to ensure your query is answered or passed on to the appropriate person in a timely manner. You can also contact Our Organization about general information of our Site at: [Global Media Outreach](https://www.globalmediaoutreach.com/). 
 
 #### 12\. Your California Privacy Rights
 
