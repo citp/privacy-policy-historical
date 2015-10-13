@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the odgirl.com privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419071107id_/http%3A//www.odgirl.com/PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odgirl.com privacy policy that was archived on 2015-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151013185803id_/http%3A//www.odgirl.com/PrivacyStatement) for the most accurate reproduction.*
 
-# Privacy Statement - Adult Costume, Clothing, Bikini Lingerie, Swimwear Bikini, Club Wear, Dress, Exotic Dance Wear, High Heels, Skirt, Thong, Shorts, Panty Wear
+# Privacy Statement - Sexy Costumes, Sexy Halloween Costumes, Party Costumes, Adult Customes, Fantasy Costumes, Lingerie
 
 This privacy policy is effective as of January 1st, 2004.
 
