@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visible.com privacy policy that was archived on 2015-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150402235703id_/http%3A//www.visible.com/PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visible.com privacy policy that was archived on 2015-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151013194009id_/http%3A//www.visible.com/PrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # Visible Systems Corporation Privacy Policy What information do we collect?
 
