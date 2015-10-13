@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roberthalf.be privacy policy that was archived on 2015-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150422214039id_/http%3A//www.roberthalf.be/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roberthalf.be privacy policy that was archived on 2015-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151013180016id_/http%3A//www.roberthalf.be/privacy) for the most accurate reproduction.*
 
 # Privacy statement | Robert Half
 
