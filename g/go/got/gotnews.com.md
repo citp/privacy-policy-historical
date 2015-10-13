@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotnews.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628012131id_/http%3A//gotnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotnews.com privacy policy that was archived on 2015-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151013211704id_/http%3A//gotnews.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - GotNews
 
