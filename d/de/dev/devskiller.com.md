@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the devskiller.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511043443id_/http%3A//devskiller.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devskiller.com privacy policy that was archived on 2015-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151013185043id_/http%3A//devskiller.com/privacy-policy) for the most accurate reproduction.*
 
-# DevSKiller.com - Automated online programming skills assessment
+# Privacy policy - DevSKiller - Automated online programming skills assessment
 
-This Privacy Policy governs the manner in which DevSKiller.com collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.devskiller.com](http://www.devskiller.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by DevSKiller.com.
+This Privacy Policy governs the manner in which DevSKiller.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the[http://www.devskiller.com](http://www.devskiller.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by DevSKiller.com.
 
 **Personal identification information**
 
@@ -14,20 +14,20 @@ We may collect non-personal identification information about Users whenever they
 
 **Web browser cookies**
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
 **How we use collected information**
 
 DevSKiller.com may collect and use Users personal information for the following purposes:
 
-  * _\- To improve customer service_  
+  * _– To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _\- To improve our Site_  
+  * _– To improve our Site_  
 We may use feedback you provide to improve our products and services.
-  * _\- To run a promotion, contest, survey or other Site feature_  
+  * _– To run a promotion, contest, survey or other Site feature_  
 To send Users information they agreed to receive about topics we think will be of interest to them.
-  * _\- To send periodic emails_  
-We may use the email address to respond to their inquiries, questions, and/or other requests. 
+  * _– To send periodic emails_  
+We may use the email address to respond to their inquiries, questions, and/or other requests.
 
 
 
