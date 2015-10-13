@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 3d-car-shows.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316215332id_/https%3A//3d-car-shows.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3d-car-shows.com privacy policy that was archived on 2015-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151013111847id_/https%3A//3d-car-shows.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy 3D Car Shows
 
-This Privacy Policy governs the manner in which 3D Car Shows collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://3d-car-shows.com](https://3d-car-shows.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by 3D Car Shows.
+This Privacy Policy governs the manner in which 3D Car Shows collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://3d-car-shows.com](https://3d-car-shows.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by 3D Car Shows.
 
 ## Personal identification information
 
@@ -63,7 +63,7 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at
 
-<http://www.google.com/privacy_ads.html>
+<http://www.google.com/policies/technologies/ads/>
 
 ## Compliance with children’s online privacy protection act
 
@@ -81,13 +81,13 @@ By using this Site, you signify your acceptance of this policy and [terms of ser
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-  *   * 44 Beverley Drive South, Constantia Kloof, Johannesburg, South Africa, 1709.
+  *   * 11 Scafell Road, Floracliffe, Johannesburg, South Africa, 1709.
 
-  * Tel:  +27.114755905
+  * Tel: +27.0105954691
 
-  * Tel:  +27.729722724
+  * Tel: +27.722347513
   * Email:[ webmaster@3d-car-shows.com](mailto:webmaster@3d-car-shows.com)
 
 
 
-This document was last updated on May 03, 2014
+This document was last updated on August 8, 2015
