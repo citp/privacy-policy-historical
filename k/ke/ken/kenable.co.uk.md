@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kenable.co.uk privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506053925id_/http%3A//www.kenable.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kenable.co.uk privacy policy that was archived on 2015-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151013180238id_/http%3A//www.kenable.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement for kenable.co.uk
 
@@ -33,7 +33,7 @@ Thank you for shopping at kenable Ltd.
 ---  
    
 [](http://validator.w3.org/check?uri=referer)  
-  Wednesday 06 May, 2015    
+  Tuesday 13 October, 2015    
 ---  
 :::: 
 
