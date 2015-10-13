@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecriticalslidesociety.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615003031id_/http%3A//www.thecriticalslidesociety.com/static_page%3Fid%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecriticalslidesociety.com privacy policy that was archived on 2015-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151013181853id_/http%3A//www.thecriticalslidesociety.com/static_page%3Fid%3D3) for the most accurate reproduction.*
 
 # TCSS
 
