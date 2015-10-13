@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surfsafely.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607033908id_/http%3A//www.surfsafely.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfsafely.com privacy policy that was archived on 2015-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151013034846id_/http%3A//www.surfsafely.com/privacy.html) for the most accurate reproduction.*
 
 # privacy - %
 
@@ -41,3 +41,9 @@ Mechanisms are provided on the Child Safety-Net Forum and Lecture Schedule pages
 Activity to this site is monitored closely and recorded. Suspicious or illegal activity has been and will continue to be reported to the appropriate authorities.
 
 For additional information, disclaimer of warranties and limitation of liability, please see our **Terms Of Use**.
+
+#### Incoming search terms:
+
+  * privacy-%
+
+
