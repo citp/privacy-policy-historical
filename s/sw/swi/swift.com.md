@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swift.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611084015id_/http%3A//www.swift.com/about_swift/legal/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swift.com privacy policy that was archived on 2015-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151013103314id_/http%3A//www.swift.com/about_swift/legal/privacy_statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -110,7 +110,7 @@ Upon registration to certain services (such as SWIFT Index), we will send you by
 
 ### Data Security
 
-We are committed to protect your personal data against accidental or unlawful destruction, accidental loss, alteration, and unauthorised disclosure or access. 
+We are committed to protect your personal data against accidental or unlawful destruction, accidental loss, alteration, and unauthorised disclosure or access. Therefore, we monitor and record the traffic, both incoming and outgoing, in order to preserve the security, integrity and availability of our infrastructure. These data are kept for up to one year. 
 
 Please be aware that we cannot ensure the security of your data on your computer or during transmission over the Internet. In this regard, we advise you to take every possible precaution to protect personal data stored on your computer and transiting on the Internet. 
 
