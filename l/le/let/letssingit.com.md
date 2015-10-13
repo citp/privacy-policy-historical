@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letssingit.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626121250id_/http%3A//www.letssingit.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letssingit.com privacy policy that was archived on 2015-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151013080757id_/http%3A//www.letssingit.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ Privacy has become a major concern on the Internet. LetsSingIt knows that you ca
 
 ## Personal Information
 
-LetsSingIt does not require you to disclose personal information anywhere on the site. However, LetsSingIt offers additional features which require you to fill out forms requiring your personal information. We ask for your name, email address, city, country and birth date. The email address is used to send you a registration confirmation including activation link to active your account. The other personal details are used for display on your profile. 
+LetsSingIt does not require you to disclose personal information anywhere on the site. However, LetsSingIt offers additional features which require you to fill out forms requiring your personal information. We ask for your email address to send you a registration confirmation. 
 
 LetsSingIt makes chatrooms and forums available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
 
