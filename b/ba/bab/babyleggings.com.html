@@ -1,0 +1,846 @@
+<!--The following is the downloaded HTML source of the babyleggings.com privacy policy that was archived on 2015-10-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151014230926id_/http%3A//www.babyleggings.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class=""><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="//connect.facebook.net/en_US/all.js#appId=780564391986189&amp;xfbml=1" id="fbjssdk"></script><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/api/js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwcPWFVTGwcDUVZWAgk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===f.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=u.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:f,features:{}};u.addEventListener?(u.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(u.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
+<title>BabyLeggings.com - Baby Leggings, Leg Warmers and Arm Warmers - The perfect accessory to any baby ensemble!</title>
+<meta name="keywords" content="baby leggings, baby leg warmers, baby gear, baby socks, baby leggings for boy, baby leggings for girl, leg warmers for boy, leg warmers for girl">
+<meta name="description" content="Baby Leggings manufactures the highest quality leg warmers for infants and toddlers -- providing the perfect accessory to any baby ensemble. Accentuate your child's bubbly personality 
+  with any of our 77 fresh prints made from the perfect blend of cotton, polyester, and spandex.">
+<meta name="p:domain_verify" content="e600eb33a33e0a77b8e453a014d44f26">
+<meta name="google-site-verification" content="alK0Z1Q2Y6sBDDbixaCA8xD49pKo0GTXeOnHg43PhKo">
+<link rel="alternate" hreflang="es" href="http://es.babyleggings.com/">
+<link rel="alternate" hreflang="fr" href="http://fr.babyleggings.com/">
+<link rel="alternate" hreflang="en" href="http://www.babyleggings.com/">
+<link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.babyleggings.com/privacy-policy">
+<link rel="stylesheet" type="text/css" href="/shared/css/styles.css">
+<link rel="stylesheet" type="text/css" href="/shared/css/forms_standard.css">
+<link rel="stylesheet" type="text/css" href="/layouts/home_page/css/layout2.css">
+<link rel="stylesheet" type="text/css" href="/modules/content/social_gallery/css/jquery.fancybox.css" media="screen">
+<link rel="stylesheet" type="text/css" href="/layouts/home_page/css/shadowbox.css">
+<link rel="stylesheet" type="text/css" href="/layouts/home_page/css/shuttercovers.css">
+<script data-cfasync="false" src="/shared/js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="/js/jquery.lazyload.min.js"></script>
+<script data-cfasync="false" type="text/javascript" src="/modules/content/social_gallery/js/jquery.fancybox.js"></script>
+<script type="text/javascript" src="/shared/layouts/home_page/js/shuttercovers.jquery.js"></script>
+<script type="text/javascript" data-cfasync="false" src="/layouts/home_page/js/shadowbox.js"></script>
+ 
+<script data-cfasync="false" src="/shared/js/imagesloaded.pkgd.min.js"></script>
+<script data-cfasync="false" src="/shared/js/masonry.pkgd.min.js"></script>
+<script type="text/javascript" data-cfasync="false">
+		Shadowbox.init();
+	</script>
+<script data-cfasync="false" type="text/javascript" src="//use.typekit.net/loy8cty.js"></script>
+<script data-cfasync="false">try{Typekit.load();}catch(e){}</script>
+<script type="text/javascript">
+  	$(document).ready(function(){
+      	$("img.lazy").lazyload({
+            skip_invisible : false,
+    				failure_limit : 26
+        });
+    });
+  </script>
+<style type="text/css"><!--
+  
+		#content { width:996px; }
+  	#language {
+    	height:36px;
+      line-height:36px;
+      float:left;
+      color:#fff;
+      background:#76787B;
+      text-align:center;
+      padding:0;
+      list-style-type:none;
+      font-size:11px;
+      margin:0;
+    } #language a {
+    	color:#fff;
+      text-decoration:none;
+    } #language > li {
+      border-right:1px solid #000;
+    	float:left;
+      width:100px;
+      padding:0 15px;
+      position:relative;
+    } #language li ul {
+    	display:none;
+    } #language li ul li a {
+    	color:#fff;
+    } #language li:hover ul {
+    	position:absolute;
+    	display:block;
+      left:0;
+      top:35px;
+      border:1px solid #000;
+      width:160px;
+      padding:0;
+      background:#76787B;
+      list-style-type:none;
+      color:#fff;
+      text-align:left;
+    } #language li:hover ul li {
+      padding:0 15px;
+    } #language li:hover ul li a {
+      color:#fff;
+    } #language li:hover ul li:hover {
+    	background:#eee;
+    }	#language li:hover ul li:hover a {
+      color:#000;
+      display:block;
+      height:36px;
+      width:160px;
+    }
+    #language > #currency > ul > li {
+    	width:50px;
+      margin:4px;
+      height:22px;
+      background:#eee;
+      border:1px solid #000;
+      color:#000;
+      display:block;
+      padding:0 10px;
+      font-size:10px;
+      white-space:nowrap;
+      line-height:22px;
+      text-align:center;
+      float:left;
+      cursor:pointer;
+    } #currency > ul li:hover {
+    	background:#fff  !important;
+    } .telephone {
+    	padding:2px;
+    	padding-left:24px;
+      background:url('/shared/images/phone-icon-blk.png') no-repeat left center;
+      font-size:12px;
+      padding-right:10px;
+      color:#000;
+      margin:2px;
+      line-height:24px;
+      text-decoration:none !important;
+    }
+  --></style>
+<style type="text/css">.fancybox-margin{margin-right:0px;}</style></head>
+<body class="lang-en">
+<script>
+(function(w, d, s) {
+  function go(){
+    var js, fjs = d.getElementsByTagName(s)[0], load = function(url, id) {
+	  if (d.getElementById(id)) {return;}
+	  js = d.createElement(s); js.src = url; js.id = id;
+	  fjs.parentNode.insertBefore(js, fjs);
+	};
+    load('//connect.facebook.net/en_US/all.js#appId=780564391986189&xfbml=1', 'fbjssdk');
+  }
+  if (w.addEventListener) { w.addEventListener("load", go, false); }
+  else if (w.attachEvent) { w.attachEvent("onload",go); }
+}(window, document, 'script'));
+</script>
+<script type="text/javascript">
+ document.write(unescape("%3Cscript src='"
+  + ((document.location.protocol == "https:") ? "https:" : "http:")
+  + "//p.bm23.com/bta.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://p.bm23.com/bta.js" type="text/javascript"></script>
+<script type="text/javascript">
+ var bta = new __bta('auhwidxsjlwsmxkhcftafddertmhbci');
+ bta.setHost("app.bronto.com");
+</script>
+<div id="fb-root"></div>
+<div itemscope="" itemtype="http://schema.org/Product">
+<meta class="product_name" itemprop="name" content="Baby Leggings">
+<div itemprop="aggregateRating" itemscope="" itemtype="http://schema.org/AggregateRating">
+<meta content="0" itemprop="ratingValue">
+<meta content="0" itemprop="reviewCount">
+<meta content="5" itemprop="bestRating">
+<meta content="1" itemprop="worstRating">
+</div>
+</div>
+<div id="top_header">
+<div id="top_header-content">
+<div id="header-fb_like">
+<div class="fb-like" data-href="http://www.facebook.com/babyleggingsllc" data-send="true" data-layout="button_count" data-width="80" data-show-faces="false" data-font="verdana" style="float:right;margin-top:-13px;"></div>
+</div>
+<ul id="language">
+<li style="border-left:1px solid #000;width:115px;"><a href="#">Language&nbsp;(EN)&nbsp;&nbsp;&nbsp;▼</a>
+<ul>
+<li style="border-bottom:1px solid #000;"><a href="https://www.babyleggings.com/privacy-policy">(EN) English (US)</a></li>
+<li style="border-bottom:1px solid #000;"><a href="https://es.babyleggings.com/privacy-policy">(ES) Español</a></li>
+<li><a href="https://fr.babyleggings.com/privacy-policy">(FR) Français</a></li>
+</ul>
+</li>
+<li id="currency" style="width:80px;"><a href="#">MX$ MXN&nbsp;▼</a>
+<ul>
+<span style="padding-left:5px;">Select Currency</span>
+<li onclick="self.location.href='/null.php/cart/set-currency?currency=usd'; return false;">$ USD</li>
+<li onclick="self.location.href='/null.php/cart/set-currency?currency=eur'; return false;">€ EUR</li>
+<li onclick="self.location.href='/null.php/cart/set-currency?currency=gbp'; return false;">£ GBP</li>
+<li onclick="self.location.href='/null.php/cart/set-currency?currency=cad'; return false;">CA$ CAD</li>
+<li onclick="self.location.href='/null.php/cart/set-currency?currency=aud'; return false;">AU$ AUD</li>
+<li onclick="self.location.href='/null.php/cart/set-currency?currency=mxn'; return false;">MX$ MXN</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="page">
+<div style="clear:both;"></div>
+<div id="content-wrapper">
+<div id="header">
+<a href="javascript://" class="telephone" onclick="clickCall(18017537363,18446110728);" style="float:right;margin-top:135px;">Toll Free: +1-844-611-0728</a>
+<a href="/" id="logo"></a>
+</div>
+<div id="nav">
+<ul class="menu">
+<li><a href="/">Home</a></li>
+<li>|</li>
+<li><a href="/cart" id="cart_btn">Shop Now</a></li>
+<li>|</li>
+<li><a href="/about-baby-leggings">About Baby Leggings</a></li>
+<li>|</li>
+<li><a href="/buy-wholesale">Buy Wholesale</a></li>
+<li>|</li>
+<li><a href="/store_locator/browse">Store Locator</a></li>
+<li>|</li>
+<li><a href="/content/contact-us">Contact US</a></li>
+</ul>
+</div>
+<div id="content"><style>#ppBody{font-size:11pt;width:100%;margin:0 auto;text-align:justify;}#ppHeader{font-family:verdana;font-size:21pt;width:100%;margin:0 auto;}.ppConsistencies{display:none;}.innerText{margin:15px;}</style>
+<div id="ppHeader">
+Privacy Policy
+</div>
+<div id="ppBody">
+<div class="ppConsistencies">
+<div class="col-2">
+<div class="quick-links text-center">
+Information Collection
+</div>
+</div>
+<div class="col-2">
+<div class="quick-links text-center">
+Information Usage
+</div>
+</div>
+<div class="col-2">
+<div class="quick-links text-center">
+Information Protection
+</div>
+</div>
+<div class="col-2">
+<div class="quick-links text-center">
+Cookie Usage
+</div>
+</div>
+<div class="col-2">
+<div class="quick-links text-center">
+3rd Party Disclosure
+</div>
+</div>
+<div class="col-2">
+<div class="quick-links text-center">
+3rd Party Links
+</div>
+</div>
+<div class="col-2"></div>
+</div>
+<div style="clear:both;height:10px;"></div>
+<div class="ppConsistencies">
+<div class="col-2">
+<div class="col-12 quick-links2 gen-text-center">
+Google AdSense
+</div>
+</div>
+<div class="col-2">
+<div class="col-12 quick-links2 gen-text-center">
+Fair Information Practices
+<div class="col-8 gen-text-left gen-xs-text-center" style="font-size:12px;position:relative;left:20px;">
+Fair information<br>
+Practices
+</div>
+</div>
+</div>
+<div class="col-2">
+<div class="col-12 quick-links2 gen-text-center coppa-pad">
+COPPA
+</div>
+</div>
+<div class="col-2">
+<div class="col-12 quick-links2 quick4 gen-text-center caloppa-pad">
+CalOPPA
+</div>
+</div>
+<div class="col-2">
+<div class="quick-links2 gen-text-center">
+Our Contact Information<br>
+</div>
+</div>
+</div>
+<div style="clear:both;height:10px;"></div>
+<div class="innerText">
+This privacy policy has been compiled to better serve those who are
+concerned with how their 'Personally identifiable information' (PII) is
+being used online. PII, as used in US privacy law and information security,
+is information that can be used on its own or with other information to
+identify, contact, or locate a single person, or to identify an individual
+in context. Please read our privacy policy carefully to get a clear
+understanding of how we collect, use, protect or otherwise handle your
+Personally Identifiable Information in accordance with our website.<br>
+</div><span id="infoCo"></span><br>
+<div class="grayText">
+<strong>What personal information do we collect from the people that visit
+our website?</strong>
+</div><br>
+<div class="innerText">
+When ordering or registering on our site, as appropriate, you may be asked
+to enter your name, email address, mailing address, phone number, credit
+card information or other details to help you with your experience.
+</div><br>
+<div class="grayText">
+<strong>When do we collect information?</strong>
+</div><br>
+<div class="innerText">
+We collect information from you when you place an order, subscribe to a
+newsletter, respond to a survey, fill out a form or enter information on
+our site.
+</div><br>
+<span id="infoUs"></span><br>
+<div class="grayText">
+<strong>How do we use your information?</strong>
+</div><br>
+<div class="innerText">
+We may use the information we collect from you when you register, make a
+purchase, sign up for our newsletter, respond to a survey or marketing
+communication, surf the website, or use certain other site features in the
+following ways:<br>
+<br>
+</div>
+<div class="innerText">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> To personalize
+user's experience and to allow us to deliver the type of content and
+product offerings in which you are most interested.
+</div>
+<div class="innerText">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> To allow us to
+better service you in responding to your customer service requests.
+</div>
+<div class="innerText">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> To administer a
+contest, promotion, survey or other site feature.
+</div>
+<div class="innerText">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> To quickly process
+your transactions.
+</div>
+<div class="innerText">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> To send periodic
+emails regarding your order or other products and services.
+</div><span id="infoPro"></span><br>
+<div class="grayText">
+<strong>How do we protect visitor information?</strong>
+</div><br>
+<div class="innerText">
+Our website is scanned on a regular basis for security holes and known
+vulnerabilities in order to make your visit to our site as safe as
+possible.<br>
+<br>
+</div>
+<div class="innerText">
+We use regular Malware Scanning.<br>
+<br>
+</div>
+<div class="innerText">
+Your personal information is contained behind secured networks and is only
+accessible by a limited number of persons who have special access rights to
+such systems, and are required to keep the information confidential. In
+addition, all sensitive/credit information you supply is encrypted via
+Secure Socket Layer (SSL) technology.
+</div><br>
+<div class="innerText">
+We implement a variety of security measures when a user places an order
+enters, submits, or accesses their information to maintain the safety of
+your personal information.
+</div><br>
+<div class="innerText">
+All transactions are processed through a gateway provider and are not
+stored or processed on our servers.
+</div><span id="coUs"></span><br>
+<div class="grayText">
+<strong>Do we use 'cookies'?</strong>
+</div><br>
+<div class="innerText">
+We do not use cookies for tracking purposes
+</div>
+<div class="innerText">
+<br>
+You can choose to have your computer warn you each time a cookie is being
+sent, or you can choose to turn off all cookies. You do this through your
+browser (like Internet Explorer) settings. Each browser is a little
+different, so look at your browser's Help menu to learn the correct way to
+modify your cookies.<br>
+</div><br>
+<div class="innerText">
+If you disable cookies off, some features will be disabled that make your
+site experience more efficient and some of our services will not function
+properly.
+</div><br>
+<div class="innerText">
+However, you can still place orders .
+</div><br>
+<span id="trDi"></span><br>
+<div class="grayText">
+<strong>Third Party Disclosure</strong>
+</div><br>
+<div class="innerText">
+<strong>Do we disclose the information we collect to Third
+Parties?</strong>
+</div>
+<div class="innerText">
+We MAY sell, trade, or otherwise transfer to outside parties your name,
+address, city, town.
+<div class="innerText">
+<br>
+<strong>We engage in this practice because:</strong>
+</div>
+<div class="innerText">
+This makes it possible for us to provide our products and services at
+extremely low rates for our customers.
+</div>
+</div><br>
+<span id="trLi"></span><br>
+<div class="grayText">
+<strong>Third party links</strong>
+</div><br>
+<div class="innerText">
+Occasionally, at our discretion, we may include or offer third party
+products or services on our website. These third party sites have separate
+and independent privacy policies. We therefore have no responsibility or
+liability for the content and activities of these linked sites.
+Nonetheless, we seek to protect the integrity of our site and welcome any
+feedback about these sites.
+</div><span id="gooAd"></span><br>
+<div class="blueText">
+<strong>Google</strong>
+</div><br>
+<div class="innerText">
+Google's advertising requirements can be summed up by Google's Advertising
+Principles. They are put in place to provide a positive experience for
+users. https://support.google.com/adwordspolicy/answer/1316548?hl=en<br>
+<br>
+</div>
+<div class="innerText">
+We have not enabled Google AdSense on our site but we may do so in the
+future.
+</div><span id="calOppa"></span><br>
+<div class="blueText">
+<strong>California Online Privacy Protection Act</strong>
+</div><br>
+<div class="innerText">
+CalOPPA is the first state law in the nation to require commercial websites
+and online services to post a privacy policy. The law's reach stretches
+well beyond California to require a person or company in the United States
+(and conceivably the world) that operates websites collecting personally
+identifiable information from California consumers to post a conspicuous
+privacy policy on its website stating exactly the information being
+collected and those individuals with whom it is being shared, and to comply
+with this policy. - See more at:
+http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf<br>
+</div>
+<div class="innerText">
+<br>
+<strong>According to CalOPPA we agree to the following:</strong>
+</div>
+<div class="innerText">
+Users can visit our site anonymously
+</div>
+<div class="innerText">
+Once this privacy policy is created, we will add a link to it on our home
+page, or as a minimum on the first significant page after entering our
+website.
+</div>
+<div class="innerText">
+Our Privacy Policy link includes the word 'Privacy', and can be easily be
+found on the page specified above.
+</div>
+<div class="innerText">
+<br>
+Users will be notified of any privacy policy changes:
+</div>
+<div class="innerText">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> On our Privacy
+Policy Page
+</div>
+<div class="innerText">
+Users are able to change their personal information:
+</div>
+<div class="innerText">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> By emailing us
+</div>
+<div class="innerText">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> By chatting with us
+or sending us a ticket
+</div>
+<div class="innerText">
+<br>
+<strong>How does our site handle do not track signals?</strong>
+</div>
+<div class="innerText">
+We honor do not track signals and do not track, plant cookies, or use
+advertising when a Do Not Track (DNT) browser mechanism is in place.
+</div>
+<div class="innerText">
+<br>
+<strong>Does our site allow third party behavioral tracking?</strong>
+</div>
+<div class="innerText">
+It's also important to note that we allow third party behavioral tracking
+</div><span id="coppAct"></span><br>
+<div class="blueText">
+<strong>COPPA (Children Online Privacy Protection Act)</strong>
+</div><br>
+<div class="innerText">
+When it comes to the collection of personal information from children under
+13, the Children's Online Privacy Protection Act (COPPA) puts parents in
+control. The Federal Trade Commission, the nation's consumer protection
+agency, enforces the COPPA Rule, which spells out what operators of
+websites and online services must do to protect children's privacy and
+safety online.<br>
+<br>
+</div>
+<div class="innerText">
+We do not specifically market to children under 13.
+</div><span id="ftcFip"></span><br>
+<div class="blueText">
+<strong>Fair Information Practices</strong>
+</div><br>
+<div class="innerText">
+The Fair Information Practices Principles form the backbone of privacy law
+in the United States and the concepts they include have played a
+significant role in the development of data protection laws around the
+globe. Understanding the Fair Information Practice Principles and how they
+should be implemented is critical to comply with the various privacy laws
+that protect personal information.<br>
+<br>
+</div>
+<div class="innerText">
+<strong>In order to be in line with Fair Information Practices we will take
+the following responsive action, should a data breach occur:</strong>
+</div>
+<div class="innerText">
+We will notify the users via email
+</div>
+<div class="innerText">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> Within 7 business
+days
+</div>
+<div class="innerText">
+We will notify the users via in site notification
+</div>
+<div class="innerText">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>•</strong> Within 7 business
+days
+</div>
+<div class="innerText">
+<br>
+We also agree to the individual redress principle, which requires that
+individuals have a right to pursue legally enforceable rights against data
+collectors and processors who fail to adhere to the law. This principle
+requires not only that individuals have enforceable rights against data
+users, but also that individuals have recourse to courts or a government
+agency to investigate and/or prosecute non-compliance by data processors.
+</div><span id="canSpam"></span><br>
+<div class="blueText">
+<strong>CAN SPAM Act</strong>
+</div><br>
+<div class="innerText">
+The CAN-SPAM Act is a law that sets the rules for commercial email,
+establishes requirements for commercial messages, gives recipients the
+right to have emails stopped from being sent to them, and spells out tough
+penalties for violations.<br>
+<br>
+</div>
+<div class="innerText">
+<br>
+<strong>To be in accordance with CANSPAM we agree to the
+following:</strong>
+</div>
+<div class="innerText">
+If at any time you would like to unsubscribe from receiving future emails,
+you can email us at service@motherslounge.com and we will promptly remove
+you from <strong>ALL</strong> correspondence.
+</div>
+</div><br>
+<span id="ourCon"></span><br>
+<div class="blueText">
+<strong>Contacting Us</strong>
+</div><br>
+<div class="innerText">
+If there are any questions regarding this privacy policy you may contact us
+using the information below.<br>
+<br>
+</div>
+<div class="innerText">
+363 W Industrial Dr<br>
+Pleasant Grove, UT 84062<br>
+United States<br>
+service@motherslounge.com<br>
++1-844-611-0606
+</div>
+<div class="innerText">
+<br>
+Last Edited on 2015-08-11
+</div>
+</div>
+</div>
+</div>
+<style type="text/css">#footer{background:#ffffff none repeat scroll center top;margin-top:35px;padding-top:4px;}#footer_left{float:left;padding:10px;width:615px;}#footer_right{float:left;padding:10px;width:343px;}.footer-column{float:left;margin-left:5px;width:200px;}.footer-column-headline{float:left;font-size:102%;font-weight:100!important;margin-left:0;width:249px;}#footer .footer-nav{list-style-type:none;margin:0;padding:0;}#footer .footer-nav a{font-size:12px;color:#4e4e50;}#mail-form-social-area{background:transparent none repeat scroll 0 0;margin-top:13px;width:377px;}.mail_btn{background-color:transparent;background-image:url("/shared/layouts/home_page/images/sign-up-btn.png")!important;background-position:0 0;border:0 none;height:34px;margin:0;padding:0;width:94px;}.fb_icon,.pin_icon,.you_icon,.inst_icon{background-image:url('/shared/layouts/home_page/images/global_sprite_sheet.png');}#socialicons ul li{float:left;}#socialicons ul li a:hover{text-decoration:none;}#socialicons ul li:first-child{margin-left:83px;}#socialicons ul li{float:left;}ul.social-logos li{display:inline;margin:10px;}#socialicons{height:auto!important;}.fb_icon{background-position:-74px -10px;width:32px;height:32px;}.pin_icon{background-position:-137px -10px;width:32px;height:32px;}.you_icon{background-position:-106px -9px;width:32px;height:32px;}.inst_icon{background-position:-170px -10px;width:32px;height:32px;}</style>
+<div id="footer" style="margin:20px 0 0px;">
+<div id="footer-container">
+<div class="pixel-line-footer" style="width:988px;margin:auto;"></div>
+<div id="footer_left">
+<div class="footer-column">
+<div class="footer-column-headline"><p style="color:#2e2117;font-size:12px;">Site Map</p></div>
+<ul class="footer-nav">
+<li><a href="/">Home</a></li>
+<li><a href="/cart">Shop Now</a></li>
+<li><a href="/about-baby-leggings">About Baby Leggings</a></li>
+<li><a href="/buy-wholesale">Buy Wholesale</a></li>
+<li><a href="/store_locator/browse">Store Locator</a></li>
+<li><a href="/content/contact-us">Contact Us</a></li>
+<li><a href="/refund-policy">Refund/Return Policy</a></li>
+<li><a href="/terms-of-use">Terms of Service</a></li>
+<li><a href="/privacy-policy">Privacy Policy</a></li>
+</ul>
+</div>
+<div class="footer-column">
+<div class="footer-column-headline"><p style="color:#2e2117;font-size:12px;">Our Sister Sites</p></div>
+<ul class="footer-nav">
+<li><a href="http://www.babsybooks.com/">Baby Board Books</a> </li>
+<li><a href="http://www.bellybuttonband.com/">Maternity Bands</a> </li>
+<li><a href="http://www.babiesfirstbooks.com/">Baby Books</a> </li>
+<li><a href="http://www.breastpads.com/">Washable Breast Pads</a> </li>
+<li><a href="http://www.carseatcanopy.com/">Carseat Canopies</a> </li>
+<li><a href="http://www.hothips.com/">Pant Extenders</a> </li>
+<li><a href="http://www.hotslings.com/">Baby Carriers</a> </li>
+<li><a href="http://www.littlefans.com/">Little Fans</a> </li>
+<li><a href="http://www.milkbands.com/">Breastfeeding Bracelets</a> </li>
+<li><a href="http://www.nursingpillow.com/">Nursing Pillows</a> </li>
+<li><a href="http://www.pregnancypillow.com/">Pregnancy Pillow</a> </li>
+<li><a href="http://www.rufflebuns.com/">Ruffled Buns</a> </li>
+<li><a href="http://www.sevenslings.com/">Baby Carriers</a> </li>
+<li><a href="http://www.uddercovers.com/">Nursing Covers</a> </li>
+</ul>
+</div>
+<div class="footer-column">
+<div class="footer-column-headline" style="float:left;"><p style="color:#2e2117;font-size:12px;">Affiliate Program</p></div>
+<a href="https://www.motherslounge.com/become_affiliate" style="float:left;"><img src="/layouts/home_page/images/ml-affiliate-logo.png" alt="Affiliate Program"></a>
+</div>
+<div style="clear:both">&nbsp;</div>
+<div>
+ <table border="0" cellpadding="10" cellspacing="0" style="width:20%;float:left;"><tbody><tr><td align="center"><a href="https://www.paypal.com/webapps/mpp/paypal-popup" title="How PayPal Works" onclick="javascript:window.open('https://www.paypal.com/webapps/mpp/paypal-popup','WIPaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=1060, height=700'); return false;"><img src="https://www.paypalobjects.com/webstatic/mktg/logo/bdg_secured_by_pp_2line.png" border="0" alt="Secured by PayPal"></a><div style="text-align:center"><a href="https://www.paypal.com/webapps/mpp/how-paypal-works"><font size="2" face="Arial" color="#0079CD"><b>How PayPal Works</b></font></a></div></td></tr></tbody></table> 
+<div id="BfourB_logo" style="auto;float:left;"><a href="http://www.bestforbabes.org/">&nbsp;</a></div>
+</div>
+</div>
+<div id="footer_right">
+<div id="mail-list-top">
+<p style="font-size:15px;">Join Our Mailing List For Baby Leggings<span style="font-size:11px;position:relative;top:-6px;">®</span> News, Product Updates and Special Offers!</p>
+</div>
+<div id="mail-form-social-area">
+<div id="joinmailinglist" style="float:left;clear:both;">
+<form action="/optin" method="post" id="newsletter">
+<input type="text" name="email" value="" placeholder="Enter your email address…" style="float:left;width:245px; height:30px;border:1px solid #000;">
+<input type="submit" class=" mail_btn" value="" name="add" style="float:left;">
+</form>
+<div style="clear:both;height:1px;">&nbsp;</div>
+</div>
+<div style="clear:both;height:1px;">&nbsp;</div>
+<div id="socialicons" style="width:100%;">
+<p style="font-weight:100;text-align:center;float:left;width:337px;margin:0;">GET TO KNOW US</p>
+<ul class="social-logos" style="float:left;width:337px;text-align:center;padding:0;margin:auto;">
+<li><a href="http://www.facebook.com/babyleggingsllc"><div class="fb_icon">&nbsp;</div></a></li>
+<li><a href="http://www.pinterest.com/babyleggings/"><div class="pin_icon">&nbsp;</div></a></li>
+<li><a href="http://www.youtube.com/channel/UCJCX4Nm9dq5Z4kvWtl8eiLg"><div class="you_icon"></div></a></li>
+<li><a href="http://instagram.com/babyleggings"><div class="inst_icon">&nbsp;</div></a></li>
+</ul>
+<div style="clear:both;height:1px;">&nbsp;</div>
+</div>
+<div style="clear:both;height:1px;">&nbsp;</div>
+</div>
+<div style="clear:both;height:1px;">&nbsp;</div>
+<a href="https://instagram.com/babyleggings"><img src="/resources/en/bl-joininstagram-banner-en.jpg" style="margin:auto;" alt=""></a>
+</div>
+<div style="clear:both;">&nbsp;</div>
+<div class="pixel-line-footer"></div>
+<div id="legal" style="margin:0px 0;">©2015Baby Leggings<span style="font-size:11px;position:relative;top:-3px;">®</span>, LLC is distributed by <a href="http://www.motherslounge.com/">Mother's Lounge LLC</a>. ALL RIGHTS RESERVED </div>
+<div class="pixel-line-footer"></div>
+</div>
+<script data-cfasync="false">
+    function clickCall(to,from){
+    	$('.alert-overlay').fadeIn();
+    	$('#call_from').val(from);
+      $('#call_to').val(to);
+      $('.alert-overlay').click(function(e) { 
+         if( e.target !== this ) 
+             return;
+         $(this).fadeOut();
+      });
+    }
+    
+    function callAjaxForm(form){
+    	$('#call-me-text').html('<p style="text-align:center;font-size:10px;">Calling...</p>');
+      $.ajax({ 
+        type: "POST",
+        url: "https://www1.motherslounge.com/null.php/click-to-call/call",
+        data: $(form).serialize(),
+        complete: function(data){
+          $('.alert-overlay').fadeOut();
+        }
+    	});
+    }
+    $('#trackpixel').load(function(){
+    	$('#trackpixel').remove();
+    });
+  </script>
+<div style="display:none;background-image:url('/layouts/admin/images/stimy_frames/fade.png');position: fixed;top: 0px;left: 0px;z-index: 200;width: 100%;height: 100%;" class="alert-overlay">
+<div style="position:fixed;left:50%;top:50%;width:260px;height:160px;padding:20px;background:#fff;color:#000;border:1px solid #c2c2c2; margin-left:-150px;margin-top:-100px;border-radius:15px;">
+<form action="#" method="post" onsubmit="callAjaxForm('#call-me'); return false;" id="call-me">
+<h3 style="font-weight:normal;font-size:16px;margin:3px;">Enter Your Number</h3>
+<div>
+<input type="text" name="call" value="" style="width:85%;border:1px solid #c2c2c2; height:25px; line-height:25px;">
+<div id="call-me-text">
+<a href="#" class="call-me" onclick="callAjaxForm('#call-me'); return false;"></a>
+</div>
+</div>
+<input type="hidden" name="from" id="call_from" value="">
+<input type="hidden" name="to" id="call_to" value="">
+<div style="clear:both;"></div>
+<div style="text-align:center;margin:3px;font-size:11px;margin-top:20px;"><div style="display:inline;"><div id="us_flag">&nbsp;</div></div>&nbsp;US&nbsp;&amp;&nbsp;<span id="can_flag">&nbsp;</span>&nbsp;Canada numbers only</div>
+<div style="text-align:center;margin:2px;font-size:11px;">
+Monday - Thursday 7:30am - 3:00pm
+</div>
+</form>
+</div>
+</div>
+<style type="text/css">.call-me{background-image:url('/shared/layouts/home_page/images/global_sprite_sheet.png');background-position:-10px -89px;width:84px;height:27px;display:block;margin:8px auto;}.call-me:hover{background-position:-10px -116px;}#us_flag{background-image:url('/shared/layouts/home_page/images/global_sprite_sheet.png');background-position:-10px -10px;width:19px;height:12px;display:inline-block;}#can_flag{background-image:url('/shared/layouts/home_page/images/global_sprite_sheet.png');background-position:-31px -10px;width:19px;height:12px;display:inline-block;}</style>
+ 
+<img src="/null.php/track/pixel?1444864166" alt="" id="trackpixel">
+<script data-cfasync="false" src="//js.pusher.com/2.2/pusher.min.js" type="text/javascript"></script>
+<script data-cfasync="false" type="text/javascript" src="/shared/js/emoticons.js"></script>
+<link rel="stylesheet" type="text/css" href="/shared/css/emoticons.css">
+<script data-cfasync="false" src="/shared/js/ml-chat.js?v4" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="/shared/css/ml-chat.css">
+<script type="text/javascript" data-cfasync="false">
+/* e = message b = ok/yes c = no/cancel d = header f = input */
+function message(e, b, c, d, f) {
+    var winW = $(window).width();
+    var winH = $(window).height();
+    var offsetW = ((winW /2) - ($("#alert").width()) / 2);
+    var offsetH = ((winH /2) - ($("#alert").height()) /2);
+    //alert(offsetW + " " + offsetH);
+    if (typeof (d) === "undefined") {
+        d = '';
+    }
+    $("#overlaydialog").css({'display':'block','height': winH });
+    $("#alert").fadeIn();
+    $("#alert").fadeIn();
+    $("#alert").css({'top': offsetH,'left': offsetW, 'position': 'fixed'});
+    $("#alert .question").html(nl2br(e));
+    $("#alert h1 span").html(d);
+    $("#alert .error").html('');
+    $("#close_btn").bind("click");
+    $("#close_btn").unbind("click");
+    $("#alert #a_ok").bind("click");
+    $("#alert #a_ok").unbind("click");
+    $("#alert #a_cancel").bind("click");
+    $("#alert #a_cancel").unbind("click");
+    if (e.indexOf("?") !== -1 && typeof (c) !== 'undefined' &&  typeof (f) === 'undefined') {
+        $("#alert #a_ok").html('<span class="ok_btn">yes</span>');
+        $("#alert #a_cancel").html('<span class="cancel_btn">no</span>');
+    } else {
+        $("#alert #a_ok").html('<span class="ok_btn">ok</span>');
+        $("#alert #a_cancel").html('<span class="cancel_btn">cancel</span>');
+    }
+    if (typeof (b) !== "undefined") {
+        if(b === false) {
+            $("#alert #a_ok").css("display", "none");
+             $("#close_btn").click(function(){
+                 $("#overlaydialog").fadeOut();
+                $("#alert").fadeOut();
+             });
+        } else {
+            $("#alert #a_ok").css("display", "block");
+            $("#alert #a_ok").click(b);
+            $("#close_btn").click(b);
+        }
+    } else {
+        $("#alert #a_ok").click(function () {
+            $("#overlaydialog").css({'display':'none','height': '0px' });
+            $("#alert").fadeOut();
+        });
+    }
+    if (typeof (c) !== "undefined") {
+        $("#alert #a_cancel").css("display", "block");
+        $("#alert #a_cancel").click(c);
+    } else {
+        $("#alert #a_cancel").css("display", "none");
+    }
+    if(typeof (f) !== "undefined"){
+        $('#dialoginput').css({'display':'inline'});
+        $("#alert #a_ok").click(f);
+    } else {
+        $('#dialoginput').css({'display':'none'});
+
+    }  
+}
+function nl2br(str, is_xhtml) {
+  var breakTag = (is_xhtml || typeof is_xhtml === 'undefined') ? '<br ' + '/>' : '<br>'; // Adjust comment to avoid issue on phpjs.org display
+
+  return (str + '')
+    .replace(/([^>\r\n]?)(\r\n|\n\r|\r|\n)/g, '$1' + breakTag + '$2');
+}
+
+</script>
+<style type="text/css">#overlaydialog{display:none;opacity:.8;position:fixed;top:0px;left:0px;background:#000;width:100%;z-index:10;}.window h1 a{width:14px;height:10px;position:absolute;right:10px;top:7px;background:#fff;}.window h1 a:hover{background-position:0 -10px;}.window{position:absolute;background:#2b2926 repeat-x;z-index:9999;display:none;}.window h1{font-family:Myriad Pro;position:absolute;height:30px;width:87%;background-color:#616161;line-height:25px;text-align:left;color:#fff;font-size:18px;font-weight:lighter;padding:0 10px;border-radius:6px;-webkit-border-radius:6px;-moz-border-radius:6px;margin:auto;}.window h1 span{position:relative;top:5px;}#confirm_top{height:30px;width:93%;padding:13px;background:#fff;border-radius:6px 6px 0 0;-webkit-border-radius:6px 6px 0 0;-moz-border-radius:6px 6px 0 0;}div.window.confirm{width:300px;}div.window.confirm div.question{font-size:12px;color:#3c3c3c;min-height:30px;overflow:hidden;padding:20px;}div.window.confirm div.buttons{text-align:center;background:#fff;width:100%;height:56px;border-radius:0 0 6px 6px;-webkit-border-radius:0 0 6px 6px;-moz-border-radius:0 0 6px 6px;}div.window.confirm div.buttons .button{text-align:center;background:#000;}div.window.confirm div.buttons .button:hover{background-color:#338F39;}div.window.confirm div.buttons a.button{display:block;vertical-align:middle;float:right;margin:4px 16px 0 0;color:#fff;cursor:pointer;border-radius:6px;-webkit-border-radius:6px;-moz-border-radius:6px;height:30px;margin:13px;width:85px;}div.window.confirm div.buttons a:hover.button{text-decoration:none;}#alert{min-height:105px;width:366px;display:none;background:#F1F1F1;-webkit-border-radius:6px;-moz-border-radius:6px;border-radius:6px;box-shadow:-3px 13px 13px 0px rgba(100,100,100,100,0.1);-webkit-box-shadow:-3px 13px 13px 0px rgba(100,100,100,100,0.1);-moz-box-shadow:-3px 13px 13px 0px rgba(100,100,100,100,0.1);}.buttons{height:56px;width:100%;position:relative;top:10px;}.ok_btn{display:block;margin-top:4px;}.cancel_btn{display:block;margin-top:4px;}#a_ok{background-color:#5ab062;}#a_cancel{background-color:#fe6062;}#close_btn{background-image:url('/shared/layouts/home_page/images/global_sprite_sheet.png');background-position:-54px -7px;width:17px;height:17px;float:right;margin-top:6px;cursor:pointer;}#dialoginput{display:block;margin:0 0 0 20px;}</style>
+<div id="overlaydialog"></div>
+<div id="alert" class="window confirm">
+<div id="confirm_top">
+<h1><span>Message Box</span><div id="close_btn">&nbsp;</div></h1>
+</div>
+<div class="question">This is a question</div>
+<form action="/dialogbox/dialogbox" method="post">
+<input name="dialoginput" id="dialoginput" type="text">
+</form>
+<div class="buttons">
+<a class="button" id="a_ok"><span class="ok_btn">Ok</span></a>
+<a class="button" id="a_cancel"><span class="cancel_btn">Cancel</span></a>
+</div>
+</div>
+<!--[if lt IE 8]>
+    <style type="text/css">
+      #newsletter .buttonStyle {
+        float:right;
+        display:inline-block;
+        position:absolute;
+      }
+    </style>
+    <![endif]-->
+</div>
+ 
+<script type="text/javascript">
+  var gts = gts || [];
+
+  gts.push(["id", "519343"]);
+  gts.push(["badge_position", "BOTTOM_RIGHT"]);
+  gts.push(["locale", "en_US"]);
+
+  (function() {
+    var gts = document.createElement("script");
+    gts.type = "text/javascript";
+    gts.async = true;
+    gts.src = "https://www.googlecommerce.com/trustedstores/api/js";
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(gts, s);
+  })();
+</script>
+ 
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"91a5fee09e","applicationID":"4357458","transactionName":"NlEBZENYD0EFAkBZCQ8bIEVCTQ5fSxFGWRAAVxodQVYNWwcY","queueTime":0,"applicationTime":12,"atts":"GhYCEgtCHE8=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
+
+<a id="livechat-leftbutton" href="#" onclick="return chat_Begin(); return false;"></a><div id="sb-container"><div id="sb-overlay"></div><div id="sb-wrapper"><div id="sb-title"><div id="sb-title-inner"></div></div><div id="sb-wrapper-inner"><div id="sb-body"><div id="sb-body-inner"></div><div id="sb-loading"><div id="sb-loading-inner"><span>loading</span></div></div></div></div><div id="sb-info"><div id="sb-info-inner"><div id="sb-counter"></div><div id="sb-nav"><a id="sb-nav-close" title="Close" onclick="Shadowbox.close()"></a><a id="sb-nav-next" title="Next" onclick="Shadowbox.next()"></a><a id="sb-nav-play" title="Play" onclick="Shadowbox.play()"></a><a id="sb-nav-pause" title="Pause" onclick="Shadowbox.pause()"></a><a id="sb-nav-previous" title="Previous" onclick="Shadowbox.previous()"></a></div></div></div></div></div></body></html>
