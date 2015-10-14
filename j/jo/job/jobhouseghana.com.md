@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobhouseghana.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616010132id_/http%3A//jobhouseghana.com/aboutus/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobhouseghana.com privacy policy that was archived on 2015-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151015004814id_/http%3A//jobhouseghana.com/aboutus/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - JobHouse Ghana
 
