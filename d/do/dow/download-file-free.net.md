@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the download-file-free.net privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611135715id_/http%3A//www.download-file-free.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the download-file-free.net privacy policy that was archived on 2015-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151014121825id_/http%3A//download-file-free.net/privacy) for the most accurate reproduction.*
 
 # Download File Free
 
