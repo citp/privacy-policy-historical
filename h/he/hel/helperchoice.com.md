@@ -1,42 +1,33 @@
-> *The following text is extracted and transformed from the helperchoice.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615002306id_/http%3A//www.helperchoice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helperchoice.com privacy policy that was archived on 2015-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151014083714id_/http%3A//www.helperchoice.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | HelperChoice
 
-This Privacy Policy covers the collection, usage, and disclosure of information that may be collected by helperchoice.com anytime you interact with us, such as when you make inquiries. Our Privacy Policy covers both privacy and confidentiality measures taken with our clients and any direct end-user. Our customer’s privacy is a priority at HelperChoice, and we are committed to protecting all parties who use our services.  Please read further to learn more about our practices, including (a) what type of information is collected, (b) how the information is used and to whom we disclose the information, and (c) how we maintain security with shared information.
+At HelperChoice we care about your privacy. All our decisions are made with our members’ best interest at heart. We have drafted our policy as clearly as possible so you know what is going on with respect to your privacy on HelperChoice. 
 
-## (a) What type of information is collected
+**Introduction**  
+HelperChoice aims to connect the employers and domestic helpers globally to allow them to find the right match efficiently. Our registered members can upload their profiles, contact others for hiring and employment opportunities. Helper profiles and employer ads are visible to unregistered visitors, but they have no access to personal information. Helpers can contact employers only through HelperChoice’s online messaging system. Premium employers can see the domestic helpers phone number if domestic helpers have shared this information on their profile. The interest of the members are central to our business ethics. 
 
-We collect your information because it helps us deliver a superior level of customer service. Information is collected from our clients and end users, which may include the below subjects.
+Maintaining your trust is important to us. Our members’ privacy is a priority at HelperChoice, and we are committed to protecting all parties who use our services.  We do not share any data with third parties. Please read further to learn more about our practices, including (a) what type of information is collected, (b) how the information is used and to whom we disclose the information, and (c) how we maintain security with shared information.
 
-  * Personal Information including phone numbers, address, email addresses
-  * Other information which may include such privacy of an individual
-  * Inquiry message content
+This Privacy Policy applies to helperchoice.com and other products and services we render. Our Privacy Policy covers both privacy and confidentiality measures taken with our clients and any direct end-user. We may modify this Policy in the future, but will inform you if we do, so that you can review the changes before you continue to use HelperChoice. Open or continuing your account means that you consent to our Privacy Policy.
 
+ **(a) What information we collect**  
+We collect your information to offer you an efficient, personalized and effective experience when searching for a domestic helper or employer. When you create a profile or an advertisement on HelperChoice, you must provide your name, email address, a mobile number, a password and agree to our Terms & Conditions. You may provide additional information to help you find the right helper or employer. You understand that by creating an account, we and others will be potentially able to identify you by your HelperChoice profile or advertisement. 
 
+When you contact our customer support services, we may have to access your profile, advertisement and other contributions to HelperChoice and collect the information we need to categorize your question, respond to it and, if applicable, investigate any breach of our User Agreement or this Privacy Policy. We will also use this information to examine trends, investigate potential problems and to personalize our support. No information we collect is used for third party advertising. 
 
-Note that HelperChoice only obtain information necessary for the purpose of superior service and sales of products.
+HelperChoice is an innovative online platform and we are always working to improve our services. This means we may introduce new features, some of which may lead us to collect new information to optimize our offerings. If we need to collect more personal information, we will modify this Privacy Policy. 
 
-## (b) How the information is used, and who we disclose the information to
+  **(b) How we use your personal information and who we disclose the information**  
+You agree that the information you provide on your profile can be seen by others and used by us as described in this Policy. Information can be obtained by HelperChoice support staff and representatives through your voluntary submission of information through our website, by email, phone or direct meeting. We gather information to better understand your needs and requests only, and do not disclose, sell, or market any information to a third party. 
 
-Information can be obtained by phone, direct meetings, email, and submitting information through our website, which is gathered by our representatives and support staff. HelperChoice takes your privacy and confidentiality seriously.  We gather information to better understand your needs and requests only, and do not disclose, sell, or market any information to a third party.
+We communicate with you through email, notices on our direct messaging platform, and other means including mobile text messages and instant messaging apps to successfully communicate with all our members worldwide. These communications can include: welcome message, information about how to optimize the use of our services, new features, membership related queries, newsletters, messages received in your HelperChoice inbox and so on.  
 
-Process for documents and information received:
+We use the information and content provided by you and other members to conduct research for development and improvement of our services so as to provide all HelperChoice members with a better experience. We also customize your experience so for example when you indicate you are looking for domestic helpers in Hong Kong, you are automatically redirected to our Hong Kong website. 
 
-  * Receive or collect information from members 
-  * Maintain information under tight security within our database
-  * Communicate information to relevant representatives of HelperChoice
-  * Follow up on requests/inquiries with members
+It may be possible that we need to disclose personal information, profile information, job ads or information about your activities at the HelperChoice website when required by law, subpoena or other legal processes globally. We will only do this if we have good faith that disclosure is reasonably necessary to investigate, prevent or take action against suspected or actual illegal activities (such as scamming, and online abuse) or to assist government enforcement agencies. We exercise the right to protect the rights and safety of HelperChoice, our members and others. 
 
+**(c) How we maintain security**  
+HelperChoice takes precautions including technical, administrative, and physical measures to safeguard your information against loss, theft, misuse, unauthorized access, disclosure, alteration, and destruction. Access to our database is limited to HelperChoice only, and we take all reasonable measures to ensure that your information is correct and securely maintained. We communicate these guidelines to all employees and strictly enforce privacy safeguards within our company. To protect any data stored on our servers, we regularly check and monitor our system for possible vulnerabilities and attacks. However, since the internet is not always secure, we cannot ensure or warrant the security of any information that you submit to us. We expect you to protect the security of login information so that others cannot access your account. We strongly advise you to be careful with confidential information and to never pay anyone through our website. If we suspect anyone of online abuse or scamming we will delete their accounts. 
 
-
-## (c) How we maintain security
-
-HelperChoice takes precautions including technical, administrative, and physical measures to safeguard your information against loss, theft, misuse, unauthorized access, disclosure, alteration, and destruction. Access to our database is limited to HelperChoice only, and we take all reasonable measures to ensure the information is correct and securely maintained. We communicate these guidelines to all employees and strictly enforce privacy safeguards within our company.
-
-**Amendments to this Privacy Policy**
-
-HelperChoice may update its Privacy Policy periodically.  Please check this notice regularly for any amendments or updates.
-
-**Privacy Policy Questions**
-
-If you have questions or concerns about this policy or our data processing, please contact us at: [info@helperchoice.com](http://www.helperchoice.com/contact.php?La=E) We will respond to your inquiry within 30 days.
+HelperChoice may amend its Privacy Policy periodically. If you have questions or concerns about this policy or our data processing, please contact us. We will respond to your inquiry as soon as we have investigated your concern. 
