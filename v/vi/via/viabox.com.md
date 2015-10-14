@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the viabox.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331152333id_/https%3A//www.viabox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viabox.com privacy policy that was archived on 2015-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151015010026id_/https%3A//www.viabox.com/privacy.php) for the most accurate reproduction.*
 
-# Viabox : The Global Leader in Package Forwarding
+# Viabox: #1 Leader in Package Forwarding | Free USA Address
 
 At Viabox we are dedicated to safeguarding and preserving your privacy when visiting our site or communicating electronically with us.   
 This Privacy Policy, together with our terms of use, provides an explanation as to what happens to any personal data that you provide to us, or that we collect from you.  
@@ -57,7 +57,7 @@ Where applicable, we may disclose your personal information to third parties:
 You may find links to third party websites on our website. These websites should have their own privacy policies which you should check. We do not accept any responsibility or liability for their policies whatsoever as we have no control over them.
 
 As you would expect of us, we will take all reasonable measures to ensure that the personal information you provide through our website is held and managed securely. However, there is not a lot that you can do to help keep your personal information safe – not just on our website, but whenever you provide information online.  
-Here are some simple ways you can improve the security of you information:
+Here are some simple ways you can improve the security of your information:
 
   * Use a secure browser
   * Encryption is the process through which sensitive information is scrambled before it is transmitted so that it remains private even if it is intercepted. 128-bit versions support it.
