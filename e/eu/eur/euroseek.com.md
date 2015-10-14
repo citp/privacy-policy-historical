@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the euroseek.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318234140id_/http%3A//www.euroseek.com/content/18) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the euroseek.com privacy policy that was archived on 2015-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151015015653id_/http%3A//www.euroseek.com/content/18) for the most accurate reproduction.*
 
 # Euroseek.com - Trusted Web Directory Since 1996
 
