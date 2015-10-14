@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hookedgamers.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630054934id_/http%3A//www.hookedgamers.com/contact/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hookedgamers.com privacy policy that was archived on 2015-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151014222120id_/http%3A//www.hookedgamers.com/contact/privacy.php) for the most accurate reproduction.*
 
-# Welcome to the frontline of PC gaming - Hooked Gamers
+# Privacy | Hooked Gamers
 
 This privacy policy sets out how Hooked Gamers uses and protects any information that you give us when you use this website. Hooked Gamers is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
