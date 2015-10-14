@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cupidplc.com privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414234538id_/http%3A//castlestreetinvestments.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cupidplc.com privacy policy that was archived on 2015-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151014213408id_/http%3A//castlestreetinvestments.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Castle Street Investments
 
@@ -50,7 +50,8 @@ We may also provide information about you to other users of the Site as reasonab
 
 ## Marketing
 
-We would like to send you information about goods and services offered by us and selected third parties that we think may be of interest to you. For that, the email address or mobile phone number you have provided can be used. You can also ask us to not to use your personal information, or to pass your details on to third parties for marketing purposes, by e-mailing us at: [unsubscribe@castlestreetinvestments.com](mailto:unsubscribe@castlestreetinvestments.com)
+We would like to send you information about goods and services offered by us and selected third parties that we think may be of interest to you. For that, the email address or mobile phone number you have provided can be used. You can also ask us to not to use your personal information, or to pass your details on to third parties for marketing purposes, by e-mailing us at:   
+[info@castlestreetinvestments.com](mailto:unsubscribe@castlestreetinvestments.com)
 
 ## Cookies
 
