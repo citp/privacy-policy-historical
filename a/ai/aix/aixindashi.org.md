@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aixindashi.org privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630171035id_/http%3A//aixindashi.org/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aixindashi.org privacy policy that was archived on 2015-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151014184938id_/http%3A//aixindashi.org/static/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AixinDashi.org - PR 4 DoFollow Social Bookmarking Site
 
