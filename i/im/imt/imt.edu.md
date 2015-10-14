@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imt.edu privacy policy that was archived on 2015-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150219185314id_/http%3A//125.19.35.234/DownloadFiles/PrivacyPolicyIMT.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imt.edu privacy policy that was archived on 2015-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151014062525id_/http%3A//125.19.35.234/DownloadFiles/PrivacyPolicyIMT.pdf) for the most accurate reproduction.*
 
 # 
 
