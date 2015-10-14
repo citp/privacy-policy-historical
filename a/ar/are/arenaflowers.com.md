@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arenaflowers.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315013936id_/http%3A//www.arenaflowers.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arenaflowers.com privacy policy that was archived on 2015-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151015003843id_/http%3A//www.arenaflowers.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,9 +25,9 @@
 
 11\. We use cookies on this website in a number of ways including the checkout process so the page remembers the product(s) you have chosen. We also use cookies to help tailor your shopping experience to your needs whilst also making your visit to our website more efficient. This is done by collecting certain pieces of personal data about you in a small data file known as a cookie and stored on your computer / internet device. Please note that this is a very common practice with websites and that a cookie cannot harm your computer in any way. The data we store does NOT contain transactional information such as credit card details and is also encrypted.
 
-It is important to understand that you will not be able to order from our website if you do not accept the cookie we place on your computer. To make sure you can accept cookies, you can check your browser settings [here](http://www.arenaflowers.com/privacy_policy/browser_settings). 
+It is important to understand that you will not be able to order from our website if you do not accept the cookie we place on your computer. To make sure you can accept cookies, you can check your browser settings. 
 
-Arena Flowers considers the settings you have selected in your browser as your consent for us to issue you with cookies. If however you decide you do not want to order from us and also want to turn off the ability to accept cookies you can find details on how cookies are enabled on your browser by clicking [here](http://www.arenaflowers.com/privacy_policy/browser_settings). By doing this you will still be able to browse our website and contact our customer service team in order to place the order on: 0800 0350 581 (Free) International: +44 (0)20 8993 5400 or via email on [customer @ arenaflowers.com](mailto:customer@arenaflowers.com)
+Arena Flowers considers the settings you have selected in your browser as your consent for us to issue you with cookies. If however you decide you do not want to order from us and also want to turn off the ability to accept cookies you can find details on how cookies are enabled on your browser by checking the help catergory of your browser. By doing this you will still be able to browse our website and contact our customer service team in order to place the order on: 0800 0350 581 (Free) International: +44 (0)20 8993 5400 or via email on [customer @ arenaflowers.com](mailto:customer@arenaflowers.com)
 
 For more information regarding cookies and how the affect you please visit this site: http://www.youronlinechoices.com 
 
