@@ -1,26 +1,24 @@
-> *The following text is extracted and transformed from the edrugsearch.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322053326id_/https%3A//www.edrugsearch.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edrugsearch.com privacy policy that was archived on 2015-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151014180216id_/https%3A//edrugsearch.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-TRUSTe Certified Privacy
+# Privacy Policy - eDrugSearch
 
 eDrugSearch.com is firmly committed to respecting the privacy of individuals. Please read the following to learn more about our privacy policy.
 
 ## What This Privacy Policy Covers
 
-This policy covers how eDrugSearch.com treats personal information that eDrugSearch.com collects and receives, including information related to your past use of eDrugSearch.com services. Personal information is information about you that is personally identifiable like your name, gender, email address, zip code and that is not otherwise publicly available. 
+This policy covers how eDrugSearch.com treats personal information that eDrugSearch.com collects and receives, including information related to your past use of eDrugSearch.com services. Personal information is information about you that is personally identifiable like your name, gender, email address, zip code and that is not otherwise publicly available.
 
 This policy does not apply to the practices of companies that eDrugSearch.com does not own or control, or to people that eDrugSearch.com does not employ or manage.
 
-eDrugSearch.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at info@edrugsearch.com.If you are not satisfied with our response you can contact TRUSTe here. 
+eDrugSearch.com has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at info@edrugsearch.com.If you are not satisfied with our response you can contact TRUSTe here.
 
 ## Information Collection and Use
 
-### General 
+### General
 
 eDrugSearch.com collects personal information when you register with eDrugSearch.com, when you use eDrugSearch.com services, when you visit eDrugSearch.com pages.
 
-When you register we ask for information such as your name, gender, email address, zip code, etc... Once you register with eDrugSearch.com and sign in to our services, you are not anonymous to us.
+When you register we ask for information such as your name, gender, email address, zip code, etc… Once you register with eDrugSearch.com and sign in to our services, you are not anonymous to us.
 
 eDrugSearch.com automatically receives and records information on our server logs from your browser, including your IP, and the page you request.
 
@@ -38,20 +36,20 @@ We may use cookies, for example, to keep track of your preferences and profile i
 
 The use of cookies (session ID and persistent) by our partners, affiliates, tracking utility company, service providers, etc… is covered by our privacy policy. We do have access or control over these cookies. Our pharmacy partners, affiliates, tracking utility company, service providers use session ID cookies to make it easier for you to navigate our site, in order for you to use the shopping cart, etc.
 
-Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do [not] tie the information gathered to our Customers' or Users' personal information. 
+Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do [not] tie the information gathered to our Customers’ or Users’ personal information.
 
 Information Sharing and Disclosure
 
-eDrugSearch.com does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
+eDrugSearch.com does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you’ve requested, when we have your permission, or under the following circumstances:
 
   * We provide the information to trusted partners who work on behalf of or with eDrugSearch.com under confidentiality agreements. These companies may use your personal information to help eDrugSearch.com communicate with you about offers from eDrugSearch.com and our marketing partners. However, these companies do not have any independent right to share this information. These companies are authorized to use your personal information only as necessary to provide these services to us.
   * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims;
-  * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of eDrugSearch.com's terms of service, or as otherwise required by law.
+  * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of eDrugSearch.com’s terms of service, or as otherwise required by law.
   * eDrugSearch.com does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad.
 
 
 
-Your Ability to Edit and Delete Your Account Information and Preferences 
+Your Ability to Edit and Delete Your Account Information and Preferences
 
  General
 
@@ -124,19 +122,21 @@ We use this information to notify contest winners, award prizes, _to monitor sit
 We may use a third party service provider to conduct these surveys or contests; that company is prohibited from using our users’ personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
 Here is our physical mailing address:  
-P.O. Box 1068  
-Spring Branch, Texas 78070  
+607 E. Blanco #398  
+Boerne, Texas 78006  
 (210) 789-2973
 
-Message Board Rules and Regulations
+Community Rules and Regulations
 
 To participate in the eDrugSearch.com community, we ask that you follow these requirements:
 
-*  Anyone under the age of 18 must leave this site  
-*  No commercial solicitation or affiliate links  
-*  No discussion of ongoing or planned criminal activity  
-*  No offending, off-topic, cross-posted, misinforming, or insignificant postings  
-*  Pharmacies, please introduce yourselves in the New Sources forum
+  * Anyone under the age of 18 must leave this site
+  * No commercial solicitation or affiliate links
+  * No discussion of ongoing or planned criminal activity
+  * No offending, off-topic, cross-posted, misinforming, or insignificant postings
+  * Online pharmacies, please introduce yourselves in the community forum
+
+
 
 The eDrugSearch.com community is moderated daily by Cary Byrd, the owner of this site, as well as by other employees of eDrugSearch.com whom he designates. Neither Byrd nor any employee of eDrugSearch.com is a medical professional, and our Web site does not provide medical or healthcare advice, diagnosis or treatment.
 
