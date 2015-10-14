@@ -1,469 +1,201 @@
-<!--The following is the downloaded HTML source of the nortonpro.com privacy policy that was archived on 2014-09-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140922011129id_/http%3A//www.nortonpro.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nortonpro.com privacy policy that was archived on 2015-10-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151014231028id_/http%3A//www.nortonsecuritybackup.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><!--<![endif]--><head>
-    <title>NortonPro.com</title>
-
-    <!-- Meta -->
-    <meta charset="utf-8"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwQEVVRWGwIIV1dSBgI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){try{u?u-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(c){try{r("ierr",[c,(new Date).getTime(),!0])}catch(d){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(c){"stack"in c&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,c="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,d=e(c);if(d&&(r.rxSize=d),this.sameOrigin){var f=t.getResponseHeader("X-NewRelic-App-Data");f&&(n.cat=f.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,c=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var c=e(o);c&&(r.txSize=c)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var d=0;u>d;d++)n.addEventListener(s[d],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+c(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+c(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===f.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,c="addEventListener",d="attachEvent",f=(""+location).split("?")[0],p=e.exports={offset:i(),origin:f,features:[]};u[c]?(u[c]("DOMContentLoaded",o,!1),s[c]("load",n,!1)):(u[d]("onreadystatechange",r),s[d]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),c=this,d=r&&r(a,c)||{}}catch(f){i([f,"",[a,c,s],d])}o(e+"start",[a,c,s],d);try{return n=t.apply(c,a)}catch(p){throw o(e+"err",[a,c,p],d),p}finally{o(e+"end",[a,c,n],d)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,c="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,c?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
-
-    <!-- CSS Global Compulsory-->
-    <link rel="stylesheet" href="//dxsnpbgh2m4o6.cloudfront.net/cdn/v2/plugins/bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" href="//dxsnpbgh2m4o6.cloudfront.net/cdn/v2/css/style.css">
-    <link rel="stylesheet" href="//dxsnpbgh2m4o6.cloudfront.net/cdn/v2/css/headers/header1.css">
-    <link rel="stylesheet" href="//dxsnpbgh2m4o6.cloudfront.net/cdn/v2/plugins/bootstrap/css/bootstrap-responsive.min.css">
-    <link rel="stylesheet" href="//dxsnpbgh2m4o6.cloudfront.net/cdn/v2/css/style_responsive.min.css">
-    <!-- CSS Implementing Plugins -->
-<!--    <link rel="stylesheet" href="/assets/plugins/font-awesome/css/font-awesome.css">-->
-    <link rel="stylesheet" href="//dxsnpbgh2m4o6.cloudfront.net/cdn/v2/css/font-awesome/css/font-awesome.min.css">
-    <!-- CSS Theme -->
-    <link rel="stylesheet" href="//dxsnpbgh2m4o6.cloudfront.net/cdn/v2/css/themes/default.min.css" id="style_color">
-    <style>
-        /*Override of the green theme*/
-        .headline h3, .headline h4 {
-            border-bottom: 2px solid #FFD347;
-        }
-        .pricing-content li i {
-            color: #FFD347;
-        }
-        blockquote:hover {
-            border-left-color: #FFD347;
-        }
-        .price {
-            position: relative;
-            border-radius: 3px;
-            margin-bottom: 15px;
-            box-shadow: 0 0 5px #eee;
-        }
-        .footer a, .copyright a, .footer a:hover, .copyright a:hover {
-            color: #FFD347;
-        }
-        .alert-info {
-            border: 1px solid;
-            border-radius: 20px !important;
-        }
-        .navbar .btn-navbar:hover {
-            background: #E7BF40;
-        }
-        .navbar .btn-navbar {
-            background: #FFD347;
-        }
-        .navbar .nav > li > a:focus, .navbar .nav > li > a:hover {
-            color: #E7BF40;
-            border-bottom: solid 2px #E7BF40;
-        }
-        .navbar .nav > .active > a, .navbar .nav > .active > a:focus, .navbar .nav > .active > a:hover {
-            color: #E7BF40;
-            border-bottom: solid 2px #E7BF40;
-        }
-        .header {
-            padding-bottom: 8px;
-        }
-        .purchase span {
-            color: #000;
-        }
-        .timg{
-            width:70px;
-            margin:8px;
-        }
-        .productdd{
-            width:70%;
-            font-size:17px;
-        }
-        .number{
-            float:left;
-            margin-right:5px;
-        }
-        .breadcrumbs {
-            background: none;
-        }
-        .yellowbg{
-            background-color: #FFD347;
-        }
-        .alert, .alert h4 {
-            border: 0px solid;
-            border-radius: 20px !important;
-            color: #DBB26C;
-        }
-        ul.unstyled li, ol.unstyled li {
-            margin-bottom:5px;
-        }
-        input[disabled], select[disabled], textarea[disabled], input[readonly], select[readonly], textarea[readonly] {
-            color: #AAA;
-        }
-        .breadcrumbs h1 {
-            color: #000000;
-        }
-        .pricing-head h3 {
-            background: #FFD347;
-            text-shadow: 0 1px 0 #32a20f;
-            border-bottom: solid 1px #E7BF40;
-            color: #000000;
-        }
-        .btn-large {
-            font-size: 30px;
-            font-weight: bold;
-            padding: 20px 0;
-            margin-top: -8px;
-        }
-        .bg-light {
-            background: #FFD347;
-            text-align: center;
-            margin-bottom:15px;
-        }
-        .pricing-head h4 {
-            color: #ccc;
-            background: #333;
-            border-bottom: solid 1px #f5f9e7;
-            text-shadow: none;
-        }
-        .no-space-pricing .price-active .pricing-head h4, .no-space-pricing .pricing:hover .pricing-head h4 {
-            color: #FFF;
-        }
-        i.style-switcher-btn {
-            background: #E20000;
-            top: 55px;
-            left:0;
-            width: 18px;
-        }
-        i.style-switcher-btn:hover {
-            background: #F00;
-        }
-        .style-switcher {
-            top: 42px;
-            width: 290px;
-            background-image:url(//dxsnpbgh2m4o6.cloudfront.net/cdn/v2/img/bg-alert.jpg);
-            background-color:#eb5e06;
-            left:0;
-        }
-        .style-switcher .theme-heading {
-            font-size: 20px;
-        }
-        p.date {
-            float: left;
-            padding: 14px 10px 20px 6px;
-            width: 141px;
-            background-image: url(//dxsnpbgh2m4o6.cloudfront.net/cdn/v2/img/alert.png);
-            background-position: 0 10px;
-            height: 53px;
-            background-repeat: no-repeat;
-        }
-        .margin-top-50{
-            margin-top:50px;
-        }
-        
-        /* Animations */
-        @-webkit-keyframes pulse {
-            0%   {
-                -webkit-box-shadow: 0px 0px 20px rgba(0,0,0,0.75);
-                -moz-box-shadow: 0px 0px 20px rgba(0,0,0,0.75);
-                box-shadow: 0px 0px 20px rgba(0,0,0,0.75);
-            }
-            50%  {
-                -webkit-box-shadow: 0px 0px 5px rgba(0,0,0,0.95);;
-                -moz-box-shadow: 0px 0px 5px rgba(0,0,0,0.95);
-                box-shadow: 0px 0px 5px rgba(0,0,0,0.95);
-            }
-            100%   {
-                -webkit-box-shadow: 0px 0px 20px rgba(0,0,0,0.75);
-                -moz-box-shadow: 0px 0px 20px rgba(0,0,0,0.75);
-                box-shadow: 0px 0px 20px rgba(0,0,0,0.75);
-            }
-        }
-        @-moz-keyframes pulse {
-            0%   {
-                -webkit-box-shadow: 0px 0px 20px rgba(0,0,0,0.75);
-                -moz-box-shadow: 0px 0px 20px rgba(0,0,0,0.75);
-                box-shadow: 0px 0px 20px rgba(0,0,0,0.75);
-            }
-            50%  {
-                -webkit-box-shadow: 0px 0px 5px rgba(0,0,0,0.95);;
-                -moz-box-shadow: 0px 0px 5px rgba(0,0,0,0.95);
-                box-shadow: 0px 0px 5px rgba(0,0,0,0.95);
-            }
-            100%   {
-                -webkit-box-shadow: 0px 0px 20px rgba(0,0,0,0.75);
-                -moz-box-shadow: 0px 0px 20px rgba(0,0,0,0.75);
-                box-shadow: 0px 0px 20px rgba(0,0,0,0.75);
-            }
-        }
-        @-ms-keyframes pulse {
-            0%   {
-                -webkit-box-shadow: 0px 0px 20px rgba(0,0,0,0.75);
-                -moz-box-shadow: 0px 0px 20px rgba(0,0,0,0.75);
-                box-shadow: 0px 0px 20px rgba(0,0,0,0.75); 
-            }
-            50%  { 
-                -webkit-box-shadow: 0px 0px 5px rgba(0,0,0,0.95);;
-                -moz-box-shadow: 0px 0px 5px rgba(0,0,0,0.95);
-                box-shadow: 0px 0px 5px rgba(0,0,0,0.95); 
-            }
-            100%   { 
-                -webkit-box-shadow: 0px 0px 20px rgba(0,0,0,0.75);
-                -moz-box-shadow: 0px 0px 20px rgba(0,0,0,0.75);
-                box-shadow: 0px 0px 20px rgba(0,0,0,0.75); 
-            }
-        }
-    </style>
-    <script type="text/javascript" src="//dxsnpbgh2m4o6.cloudfront.net/cdn/v2/js/jquery-1.8.2.min.js" style=""></script>
-<!-- BEGIN TeamSalesAgent chat agent code -->
-<!--<script type="text/JavaScript">-->
-<!--CampaignID='';-->
-<!--ChatLinkInfo='';-->
-<!--TSAchatMode='std';-->
-<!--TSAchatMode='ho';-->
-<!--TSAchatMode='hybrid';-->
-<!--function tsa_load() {-->
-<!--    var tsascript = document.createElement('script');-->
-<!--    tsascript.type = "text/javascript";-->
-<!--    tsascript.src = "//chat.teamsalesagent.com/tsa/sd.aspx?siteid=1210";-->
-<!--    document.getElementsByTagName('head')[0].appendChild(tsascript);-->
-<!--}-->
-<!--if (window.attachEvent && !window.WebSocket){-->
-<!--    setTimeout(tsa_load, 1);-->
-<!--} else if (window.addEventListener) {-->
-<!--    window.addEventListener("load", tsa_load, false);-->
-<!--}-->
-<!--</script>-->
-<!-- END TeamSalesAgent chat agent code V4.09 -->
+<!DOCTYPE html><html><head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+            <title>Norton Security Backup  –  Privacy Policy</title>
+    <link rel="shortcut icon" href="http://www.nortonsecuritybackup.com/wp-content/themes/SearchlightTheme/favicon.ico?v=1.0.0">
+    <link rel="stylesheet" type="text/css" href="http://cdn3.nortonsecuritybackup.com/wp-content/themes/SearchlightTheme/style.css">
+    <link rel="stylesheet" type="text/css" href="http://cdn3.nortonsecuritybackup.com/wp-content/themes/SearchlightTheme/css/custom.css">
+    <!--[if lte IE 9]>
+    <link rel="stylesheet" type="text/css" href="http://www.nortonsecuritybackup.com/wp-content/themes/SearchlightTheme/css/ie.css"><![endif]-->
+    		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.nortonsecuritybackup.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://www.nortonsecuritybackup.com/wp-includes/js/wp-emoji-release.min.js?ver=4.2.2" type="text/javascript"></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="mpce-bootstrap-grid-css" href="http://cdn3.nortonsecuritybackup.com/wp-content/plugins/motopress-content-editor/bootstrap/bootstrap-grid.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="mpce-theme-css" href="http://cdn3.nortonsecuritybackup.com/wp-content/plugins/motopress-content-editor/includes/css/theme.css" type="text/css" media="all">
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.min.js?ver=4.2.2"></script>
+<script type="text/javascript" src="//www.google.com/jsapi?ver=1.4.8"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var motopressGoogleChartsPHPData = {"motopressCE":"0"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://cdn3.nortonsecuritybackup.com/wp-content/plugins/motopress-content-editor/includes/js/mp-google-charts.js"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.nortonsecuritybackup.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.nortonsecuritybackup.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.2.2">
+<link rel="canonical" href="http://www.nortonsecuritybackup.com/privacy-policy/">
+<link rel="shortlink" href="http://www.nortonsecuritybackup.com/?p=36">
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url('http://dev.nortonsecuritybackup.com:8888/wp-content/uploads/2014/09/pattern.png'); background-repeat: repeat; background-position: top left; background-attachment: scroll; }
+</style>
 </head>
+      <body class="responsive">
 
-<body>
-<!--=== Header ===-->
-<div class="header">
-    <div class="container">
-        <!-- Logo -->
-<div class="row-fluid" style="
-margin-top: 20px;
-">
+<div class="main-wrapper">
+    <div class="mobile-menu-box">
+        <div class="menu-mobile-menu-container"><ul id="menu-mobile-menu" class="menu"><li id="menu-item-343" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343"><a href="http://www.nortonsecuritybackup.com/">Home</a></li>
+<li id="menu-item-344" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344"><a href="http://www.nortonsecuritybackup.com/compare-norton-products/">Compare Norton Products</a></li>
+<li id="menu-item-345" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-345"><a href="http://www.nortonsecuritybackup.com/norton-security-deluxe/">Norton Security Deluxe</a></li>
+<li id="menu-item-346" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-346"><a href="http://www.nortonsecuritybackup.com/norton-security-premium/">Norton Security Premium</a></li>
+</ul></div>    </div>
+    <!-- #site-header -->
+    <div class="header">
+        <div class="header-left">
 <div class="logo">
-            <a href="/"><img src="//dxsnpbgh2m4o6.cloudfront.net/cdn/v2/img/logo.jpg" width="159" height="64" style="margin-top:15px;" alt=" Norton AntiVirus - Internet Security"></a>
-        </div>
-<ul class="loginbar pull-right">
-<li><i class="icon-globe"></i><a>Countries<i class="icon-sort-up"></i></a>
-<ul class="nav-list">
-<!--<li><a href="/au">AU</a></li>
-<li><a href="/ca">CA</a></li>
-<li><a href="/gb">GB</a></li>
-<li><a href="/nz">NZ</a></li>-->
-<li><a href="/us">US</a></li>
+<a title="Norton Security Backup" href=" http://www.nortonsecuritybackup.com ">
+<img alt="Norton Security Backup" src="http://cdn3.nortonsecuritybackup.com/wp-content/themes/SearchlightTheme/images/logo.png" width="145" height="50">
+</a>
+    <img src="http://cdn3.nortonsecuritybackup.com/wp-content/uploads/2015/07/Norton-Authorized-Partner-logo.jpg" alt="Norton Authorized Partner" class="partner-seal" height="auto" width="120">
+
+</div>
+</div>
+
+<div class="header-right">
+<div class="dropdown-wrapper" id="international-dropdown">
+<div class="clickable-countries"><img class="globe" src="http://cdn3.nortonsecuritybackup.com/wp-content/uploads/2014/10/globe.png">
+<div class="clickable-countries-title">Countries</div>
+</div>
+<span class="countries-dropdown">
+<a href="/australia/">Australia</a><hr>
+<a href="/belgie-dutch">België</a><hr>
+<a href="/brasil">Brasil</a><hr>
+<a href="/canada-english">Canada</a><hr>
+<a href="/danmark">Danmark</a><hr>
+<a href="/deutschland">Deutschland</a><hr>
+<a href="/espana">España</a><hr>
+<a href="/france">France</a><hr>
+<a href="/ireland">Ireland</a><hr>
+    <a href="/italia">Italia</a><hr>
+<!--<a href="/luxembourg">Luxembourg</a>-->
+<a href="/mexico">México</a><hr>
+<a href="/nederland">Nederland</a><hr>
+<a href="/new-zealand">New Zealand</a><hr>
+<a href="/norge">Norge</a><hr>
+<a href="/osterreich">Österreich</a><hr>
+<a href="/portugal">Portugal</a><hr>
+<a href="/schweiz">Schweiz</a><hr>
+<a href="/suomi">Suomi</a><hr>
+<a href="/sverige">Sverige</a><hr>
+<a href="/united-kingdom">United Kingdom</a><hr>
+<a style="border-bottom: 1px solid #CCC;" href="/compare-norton-products">United States</a>
+</span>
+</div>
+<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="http://www.nortonsecuritybackup.com/">Home</a></li>
+<li id="menu-item-55" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-55"><a href="#">Products »</a>
+<ul class="sub-menu">
+	<li id="menu-item-22" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="http://www.nortonsecuritybackup.com/norton-security-deluxe/">Norton Security Deluxe</a></li>
+	<li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="http://www.nortonsecuritybackup.com/norton-security-premium/">Norton Security Premium</a></li>
 </ul>
 </li>
-</ul>
-</div><!-- /logo -->
-                                    
-        <!-- Menu -->       
-        <div class="navbar">                                
-            <div class="navbar-inner">                                  
-                <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </a><!-- /nav-collapse -->                                  
-                <div class="nav-collapse collapse">                                     
-                    <ul class="nav top-2">
-                        <li>
-                            <a href="/">Product Finder
-                            </a>
-                        </li>
-                        <li>
-                            <a href="/na.php">Norton Antivirus
-                            </a>
-                        </li>
-                        <li>
-                            <a href="/n360.php">Norton 360
-                            </a>
-                        </li>
-                        <li>
-                            <a href="/n360md.php">Norton 360 MD
-                            </a>                    
-                        </li>
-                        <li>
-                            <a href="/about-us.php">About Us
-                            </a>                      
-                        </li>
-                    </ul>
-                </div><!-- /nav-collapse -->                                
-            </div><!-- /navbar-inner -->
-        </div><!-- /navbar -->                          
-    </div><!-- /container -->               
-</div><!--/header -->      
-<!--=== End Header ===-->
-<!--=== Content Part ===-->
-<div class="container">
-	<!-- Information Blokcs -->
-	<div class="row-fluid margin-bottom-20">
-    	<div class="span12">
-        	<div class="headline"><h3>Privacy Policy</h3></div>
-            
-            <div class="row-fluid">
-            	<div class="span12">
-                	<p>Thank you for visiting Norton-Pro.com (hereinafter referred to  as   "the Site") and reviewing our Privacy Policy, effective April 2, 2012.   Please read the following policy to understand how personal information    that you provide through the Site will be collected and used. Please   note that  we review our privacy practices from time to time, and that   our practices are  subject to change. We ask that you bookmark and   periodically review this page  to ensure continuing familiarity with the   most current version of our Privacy  Policy. All amended terms shall be   automatically effective after they are  posted on the Site. &nbsp;&nbsp;Your use   of this  Site after any such changes have been posted constitutes your   agreement to  those changes.</p>
-                    <p> By visiting the Site, you agree to be bound by the terms and   conditions  of this Privacy Policy. If you do not agree with the terms   of this Privacy  Policy, please do not use or access the Site.</p>
-                    <p> This Site is not intended for visitors that are under eighteen   (18)  years of age.&nbsp;&nbsp; We do not knowingly  solicit or collect   information from individuals under the age of eighteen (18)  years old.</p>
-                </div>
-            </div>
-            
-            <div class="row-fluid">
-            	<div class="span12">
-                	<h4>What Personally Identifiable Information does the  Site collect?</h4>
-                    <p>The Site collects information when you complete and submit any form or    otherwise transmit any information to us through your access to and   use of the  Site.&nbsp; This information may include,  without limitation,   your name, email address and whether you wish to join our  mailing list.   Additionally, we save browsing and data log information linked to  your   usage of the Site. &nbsp;This information  may be linked to personally   identifiable information we have collected about  you.</p>
-                </div>
-            </div>
-            
-            <div class="row-fluid">
-            	<div class="span12">
-                	<h4>What are "cookies" and how does the Site  use them?</h4>
-                    <p>The Site  may use data collection devices such as "cookies" to  store,   and sometimes track, information about you and your browsing experience    through the Site. A cookie is a small file containing a small amount   of data  that is sent to your browser from a web server and placed on   your computer's  hard drive to assist us in providing our services. All   pages on the Site where  you are prompted to login or that are   customizable may require that you accept  cookies. Our cookies are only   read by the server that placed them and are  unable to execute any code   or virus. </p>
-                    <p> More specifically, we may use cookies to:<br>
-                        (1) Remind us of who you are when you access your account   information and/or  use the service in order to deliver to you a more   personalized service;<br>
-                        (2) Measure your visiting patterns in the aggregate. Aggregate data   (data  gathered across all user accounts) may be gathered in a   non-personally  identifiable form to build higher quality online   services by performing  statistical analyses of the collective   characteristics and behavior of our  visitors, such as how long and how   often users view certain pages;<br>
-                        (3) Determine your clickstream to the Site;<br>
-                        (4) Better personalize the content that you and other users will see on the  Site;<br>
-                        (5) Collect IP addresses and log-in information for system administration;<br>
-                        (6) Automatically share some information with Google Analytics   and/or other  analytics programs to analyze a broad range of   information. However, the  analytics are exclusively for our internal   use to better manage the website  experience for our visitors and   evaluate advertising strategies and tactics;  and <br>
-                        (7) Other purposes to assist us in delivering the highest quality   service  possible. You are always free to decline our cookies if your   browser permits.</p>
-                </div>
-            </div>
-            
-            <div class="row-fluid">
-            	<div class="span12">
-                	<h4>How does the Site use my information?</h4>
-                    <p>The Site uses your information to provide you the products or   services you  requested as well as other communications from   trynortonantivirus.com, such as  transactional and promotional email   communications. We also may use your  personal information to resolve   disputes, troubleshoot problems, respond to your  inquiries, detect and   protect against error, fraud, or other criminal activity,  enforce our   Terms of Use, and for any other such purposes that we deem  appropriate.</p>
-                    <p> This Site may display the  advertisements and/or links to   Norton Antivirus and/or other independent third parties   ("advertisers").&nbsp; We do not provide your personally  identifiable   information to those advertisers.&nbsp;  However, if you independently   interact with those advertisers after  using our Site, those advertisers   may collect personally identifiable information  about you subject to   the terms of their own privacy policies, which you should review.</p>
-                </div>
-            </div>
-            
-            <div class="row-fluid">
-            	<div class="span12">
-                	<h4>With whom does the Site share my information?</h4>
-                    <p>In addition to any other information sharing or disclosure practices    described in this Privacy Policy, we may share your personal and   non-personal  information with third party contractors or service   providers who assist us  with the preparation and mailing of our   business and marketing communications,  and with order processing and   fulfillment functions. For example, we may  disclose your email address   to email fulfillment contractors to send you emails  from us.&nbsp;</p>
-                    <p> We  may share some or all of your personal information with our   subsidiaries and  affiliates, joint ventures, or other companies under a   common control  (collectively, "affiliates"), in which case we will   require these affiliates to  honor this Privacy Policy.&nbsp; If our  Company   or our assets are acquired by another company, that company will    possess the personal information collected by us and it will assume the   rights  and obligations regarding your personal information as described   in this  Privacy Policy.</p>
-                    <p>We  may disclose personal information if required to do so by law   or to comply with  valid legal process (such as a search warrant,   subpoena or court order), to  protect the company's rights or property   (including without limitation in the  event of a transfer of control of   company or substantially all of its assets),  or during emergencies when   safety is at risk. </p>
-                </div>
-            </div>
-            
-            <div class="row-fluid">
-            	<div class="span12">
-                	<h4>What security precautions are in place to protect  the loss, misuse, or alteration of my information?</h4>
-                    <p>Whenever the Site handles your personal information, we take steps   to ensure  that your information is treated securely and in accordance   with the relevant  Terms of Use and this Privacy Policy. Your   information is stored on our servers  located in the United States. We   use procedural and mechanical safeguards to  protect your personal   information against loss or theft as well as unauthorized  access and   disclosure to protect your privacy, including encryption.    Unfortunately, however, no data transmission over the Internet can be   guaranteed  to be 100% secure. We cannot, therefore, warrant or ensure   the security if any  information you transmit to us or from our online   products or services, and you  do so at your own risk. Once we receive   your transmission, we make our best  effort to ensure its security on   our systems.</p>
-                    <p> If you choose to share your personal information with Norton   Antivirus and/or other third parties,  you are responsible for all   actions they take with your personal information, and therefore you    should review that third party's privacy policy.</p>
-                </div>
-            </div>
-            
-            <div class="row-fluid">
-            	<div class="span12">
-                	<h4>Additional Information</h4>
-                    <p>This Policy and the relevant Terms of Use are the sole authorized   statements of  Norton-Pro.com's practices with respect to the online   collection of  personally identifiable information and the usage of such   information. Any  summaries of this Privacy Policy generated by third   party software or otherwise  shall have no legal effect, are in no way   binding upon Norton-Pro.com,  shall not be relied upon in substitute for   this Privacy Policy, and neither  supersede nor modify this Privacy   Policy.</p>
-                </div>
-            </div>
-            
-        </div><!--// span12 -->
-    </div>
-</div><!--/container-->		
-<!-- End Content Part -->
-<!--=== Footer ===-->
+<li id="menu-item-20" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20"><a href="http://www.nortonsecuritybackup.com/compare-norton-products/">Compare</a></li>
+</ul></div>
+<div class="mobile-menu">
+<div class="menu-line"></div>
+<div class="menu-line"></div>
+<div class="menu-line"></div>
+</div>
+</div>    </div>
+    <!-- #site-header-ends -->
+    <!-- #page-content -->
+    <div class="page-content">
+
+<div id="main-content" class="main-content">
+
+<div class="text-page">
+<h1> Privacy Policy</h1>
+<p>Thank you for visiting NortonSecurityBackup.com (hereinafter referred to as “the Site”) and reviewing our Privacy Policy, effective April 2, 2012. Please read the following policy to understand how personal information that you provide through the Site will be collected and used. Please note that we review our privacy practices from time to time, and that our practices are subject to change. We ask that you bookmark and periodically review this page to ensure continuing familiarity with the most current version of our Privacy Policy. All amended terms shall be automatically effective after they are posted on the Site.   Your use of this Site after any such changes have been posted constitutes your agreement to those changes.</p>
+<p>By visiting the Site, you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree with the terms of this Privacy Policy, please do not use or access the Site.</p>
+<p>This Site is not intended for visitors that are under eighteen (18) years of age.   We do not knowingly solicit or collect information from individuals under the age of eighteen (18) years old.</p>
+<p><b>What Personally Identifiable Information does the Site collect?</b><br>
+The Site collects information when you complete and submit any form or otherwise transmit any information to us through your access to and use of the Site.  This information may include, without limitation, your name, email address and whether you wish to join our mailing list. Additionally, we save browsing and data log information linked to your usage of the Site.  This information may be linked to personally identifiable information we have collected about you.</p>
+<p><b>What are “cookies” and how does the Site use them?</b><br>
+The Site may use data collection devices such as “cookies” to store, and sometimes track, information about you and your browsing experience through the Site. A cookie is a small file containing a small amount of data that is sent to your browser from a web server and placed on your computer’s hard drive to assist us in providing our services. All pages on the Site where you are prompted to login or that are customizable may require that you accept cookies. Our cookies are only read by the server that placed them and are unable to execute any code or virus. </p>
+<p>
+More specifically, we may use cookies to:<br>
+(1) Remind us of who you are when you access your account information and/or use the service in order to deliver to you a more personalized service;<br>
+(2) Measure your visiting patterns in the aggregate. Aggregate data (data gathered across all user accounts) may be gathered in a non-personally identifiable form to build higher quality online services by performing statistical analyses of the collective characteristics and behavior of our visitors, such as how long and how often users view certain pages;<br>
+(3) Determine your clickstream to the Site;<br>
+(4) Better personalize the content that you and other users will see on the Site;<br>
+(5) Collect IP addresses and log-in information for system administration;<br>
+(6) Automatically share some information with Google Analytics and/or other analytics programs to analyze a broad range of information. However, the analytics are exclusively for our internal use to better manage the website experience for our visitors and evaluate advertising strategies and tactics; and<br>
+(7) Other purposes to assist us in delivering the highest quality service possible. You are always free to decline our cookies if your browser permits.
+</p>
+<p><b>How does the Site use my information?</b><br>
+The Site uses your information to provide you the products or services you requested as well as other communications from trynortonantivirus.com, such as transactional and promotional email communications. We also may use your personal information to resolve disputes, troubleshoot problems, respond to your inquiries, detect and protect against error, fraud, or other criminal activity, enforce our Terms of Use, and for any other such purposes that we deem appropriate.</p>
+<p>This Site may display the advertisements and/or links to Norton Antivirus and/or other independent third parties (“advertisers”).  We do not provide your personally identifiable information to those advertisers.  However, if you independently interact with those advertisers after using our Site, those advertisers may collect personally identifiable information about you subject to the terms of their own privacy policies, which you should review.</p>
+<p><b>With whom does the Site share my information?</b><br>
+In addition to any other information sharing or disclosure practices described in this Privacy Policy, we may share your personal and non-personal information with third party contractors or service providers who assist us with the preparation and mailing of our business and marketing communications, and with order processing and fulfillment functions. For example, we may disclose your email address to email fulfillment contractors to send you emails from us. </p>
+<p>We may share some or all of your personal information with our subsidiaries and affiliates, joint ventures, or other companies under a common control (collectively, “affiliates”), in which case we will require these affiliates to honor this Privacy Policy.  If our Company or our assets are acquired by another company, that company will possess the personal information collected by us and it will assume the rights and obligations regarding your personal information as described in this Privacy Policy.</p>
+<p>We may disclose personal information if required to do so by law or to comply with valid legal process (such as a search warrant, subpoena or court order), to protect the company’s rights or property (including without limitation in the event of a transfer of control of company or substantially all of its assets), or during emergencies when safety is at risk. </p>
+<p><b>What security precautions are in place to protect the loss, misuse, or alteration of my information?</b><br>
+Whenever the Site handles your personal information, we take steps to ensure that your information is treated securely and in accordance with the relevant Terms of Use and this Privacy Policy. Your information is stored on our servers located in the United States. We use procedural and mechanical safeguards to protect your personal information against loss or theft as well as unauthorized access and disclosure to protect your privacy, including encryption. Unfortunately, however, no data transmission over the Internet can be guaranteed to be 100% secure. We cannot, therefore, warrant or ensure the security if any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems.</p>
+<p>If you choose to share your personal information with Norton Antivirus and/or other third parties, you are responsible for all actions they take with your personal information, and therefore you should review that third party’s privacy policy.</p>
+<p><b>Additional Information</b><br>
+This Policy and the relevant Terms of Use are the sole authorized statements of NortonSecurityBackup.com’s practices with respect to the online collection of personally identifiable information and the usage of such information. Any summaries of this Privacy Policy generated by third party software or otherwise shall have no legal effect, are in no way binding upon NortonSecurityBackup.com, shall not be relied upon in substitute for this Privacy Policy, and neither supersede nor modify this Privacy Policy.</p>
+</div>
+
+</div>
+
+</div>
+<!-- #page-content-end -->
+<!-- #site-footer -->
 <div class="footer">
-	<div class="container">
-		<div class="row-fluid">
-			<div class="span4">
-                <!-- About -->
-		        <div class="headline"><h3>About</h3></div>	
-				<p class="margin-bottom-25">Founded in 2008, NortonPro.com aims to provide only the best quality products and services online. As such, we are proud to be a registered Worldwide Partner of Symantec.</p>
-			</div><!--/span4-->
-            
-                <div class="span4">
-                <!-- Stay Connected -->
-		        <div class="headline"><h3>Stay Connected</h3></div>
-                    <ul class="social-icons span12">
-                    <li><a href="https://www.facebook.com/pages/Nortonprocom/589280157781812" data-original-title="Facebook" class="social_facebook"></a></li>
-                    <li><a href="https://plus.google.com/u/0/114418353538947339800/posts" data-original-title="Goole Plus" class="social_googleplus"></a></li>
-                    </ul>
-                </div><!--/span4-->
+<div class="center seals" id="more-text">
+<div class="icons-box">
+<div class="seal-box"><img src="http://cdn3.nortonsecuritybackup.com/wp-content/uploads/2014/10/money-back-guarantee.png" alt="Money Back Guaranteed for norton products" class="wp-image-1052" height="auto" width="120"></div>
 
-            <div class="span4">
-	            <!-- Monthly Newsletter -->
-		        <div class="headline"><h3>Contact Us</h3></div>
-                <address>
-					NortonPro.com <br>
-					2443 Fillmore St. #380-3644 <br>
-					San Francisco CA 94115<br>
-				 
-                </address>
-			</div><!--/span4-->
-		</div><!--/row-fluid-->	
-	</div><!--/container-->	
-</div><!--/footer-->	
-<!--=== End Footer ===-->
+<div class="norton-seal seal-box"><table width="135" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose Symantec SSL for secure e-commerce and confidential communications.">
+<tbody><tr>
+<td width="135" align="center" valign="top"><script type="text/javascript" src="https://seal.websecurity.norton.com/getseal?host_name=www.nortonsecuritybackup.com&amp;size=M&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script></td>
+</tr>
+</tbody></table>
+</div>
 
-<!--=== Copyright ===-->
-<div class="copyright">
-	<div class="container">
-		<div class="row-fluid">
-			<div class="span12" style="text-align:center; padding:4px 0 0 0">		
-             <p><a href="privacy.php">Privacy Policy</a> | <a href="tos.php">Terms of Service</a></p>
-            <p style="margin-bottom:0">2014 © NortonPro.com. ALL Rights Reserved. </p>
-            <p>Symantec, the Symantec Logo, and Norton are trademarks or registered trademarks of Symantec Corporation. All other trademarks are the property of their respective owners.</p>
-            
-           
-			</div>
-		</div><!--/row-fluid-->
-	</div><!--/container-->	
-</div><!--/copyright-->	
-<!--=== End Copyright ===-->
+<!-- McAfee Secure Trustmark for www.nortonsecuritybackup.com -->
+<div class="seal-box"><a target="_blank" href="https://www.mcafeesecure.com/verify?host=www.nortonsecuritybackup.com"><img class="mfes-trustmark mfes-trustmark-hover" border="0" src="//cdn.ywxi.net/meter/www.nortonsecuritybackup.com/101.gif" width="125" height="55" title="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a></div>
+<!-- End McAfee Secure Trustmark -->
+</div>
+</div>
 
 
-<!-- JS Global Compulsory -->
-<script type="text/javascript" src="//dxsnpbgh2m4o6.cloudfront.net/cdn/v2/js/modernizr.custom.js"></script>		
-<script type="text/javascript" src="//dxsnpbgh2m4o6.cloudfront.net/cdn/v2/plugins/bootstrap/js/bootstrap.min.js"></script>	
-<!-- JS Implementing Plugins -->           
-<!--<script type="text/javascript" src="//dxsnpbgh2m4o6.cloudfront.net/cdn/v2/plugins/flexslider/jquery.flexslider-min.js"></script>
-<script type="text/javascript" src="//dxsnpbgh2m4o6.cloudfront.net/cdn/v2/plugins/parallax-slider/js/modernizr.js"></script>
-<script type="text/javascript" src="//dxsnpbgh2m4o6.cloudfront.net/cdn/v2/plugins/parallax-slider/js/jquery.cslider.js"></script>-->
-<script type="text/javascript" src="//dxsnpbgh2m4o6.cloudfront.net/cdn/v2/plugins/back-to-top.js"></script>
-<!-- JS Page Level -->           
-<script type="text/javascript" src="//dxsnpbgh2m4o6.cloudfront.net/cdn/v2/js/app.js"></script>
-<script type="text/javascript" src="//dxsnpbgh2m4o6.cloudfront.net/cdn/v2/js/pages/index.js"></script>
+<div class="footer-top">
+<div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40"><a href="http://www.nortonsecuritybackup.com/about-us/">About Us</a></li>
+<li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-36 current_page_item menu-item-39"><a href="http://www.nortonsecuritybackup.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-42" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42"><a href="http://www.nortonsecuritybackup.com/terms-of-use/">Terms of Use</a></li>
+</ul></div></div>
+
+
+<div class="footer-bottom">
+<p class="rights"> © 2015  Nortonsecuritybackup.com. All Rights Reserved.<br>If you wish to opt-out of advertising emails for NortonSecurityBackup.com, please <a href="http://www.trackshort.com/oo/oo.php?sid=1219&amp;agentid=">Click Here To Unsubscribe</a><br>
+Symantec, the Symantec Logo, and Norton are trademarks or registered trademarks of Symantec Corporation. All other trademarks are the property of their respective owners.</p>
+</div>
+</div>
+<!-- #site-footer-end -->
+</div>
+<!--Main Wrapper Close-->
+<script type="text/javascript" src="http://cdn3.nortonsecuritybackup.com/wp-content/themes/SearchlightTheme/functions.js"></script>
+<script type="text/javascript" src="http://cdn3.nortonsecuritybackup.com/wp-content/themes/SearchlightTheme/js/custom.js"></script>
+<script type="text/javascript" src="http://api.lazysauce.com/3/jsapi.php"></script>
 <script type="text/javascript">
-    jQuery(document).ready(function() {
-      	App.init();
-    });
-	
-	function validateContactFrm()
-	{
-		if (document.cntfrm.name.value.trim() =='')
-		{
-			alert("Please enter your name.");
-			document.cntfrm.name.focus();
-			return false
-		}
-		else if (document.cntfrm.email.value.trim() =='')
-		{
-			alert("Please enter your email.");
-			document.cntfrm.email.focus();
-			return false
-		}
-		else if(!(/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(document.getElementById('email').value)))
-		{
-			alert("Please enter valid email address.");
-			document.getElementById('email').focus();
-			return false;
-		}
-		else if (document.cntfrm.msg.value.trim() =='')
-		{
-			alert("Please enter your message.");
-			document.cntfrm.msg.focus();
-			return false
-		}
-	}
+lazysauce_hit({hv:"14",ao:"Privacy Policy",av:"14",lo:""});
 </script>
-<!--[if lt IE 9]>
-    <script src="//dxsnpbgh2m4o6.cloudfront.net/cdn/v2/js/respond.js"></script>
-<![endif]-->
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"f26c188e73","applicationID":"1836013","transactionName":"NVBXMBAAWEpRAk0LCwwaYBYLTkZLWRdYAR1MRV0U","queueTime":0,"applicationTime":20,"ttGuid":"","agentToken":"","atts":"GRdURlgaS0Q=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-412.min.js"}</script>
-	
-<script src="https://js-agent.newrelic.com/nr-412.min.js"></script></body></html>
+
+</body></html>
