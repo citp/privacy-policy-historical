@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homesite.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315014426id_/https%3A//homesite.com/privacy-policy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homesite.com privacy policy that was archived on 2015-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151014212108id_/https%3A//homesite.com/privacy-policy/index.htm) for the most accurate reproduction.*
 
 # Homesite - Home Insurance
 
@@ -100,6 +100,10 @@ Binghamton, NY 13902-9953
 If we agree to comply with your request, we will notify you within thirty (30) business days of receiving your request. We will then furnish the amended information to any person you designate, who may have received the information within the past two (2) years, as well as to any person or organization who either supplied us with the information or to whom we disclosed it.
 
 If we are unable to comply with your request, we will notify you within thirty (30) business days of receiving your written request with the reasons for our decision. If you disagree with the reasons for our decision, you have the right to file a concise statement of what you think is correct, relevant or fair information. Your statement will be filed with the disputed information and will be furnished to any person, insurance institution, agent or insurance support organization who either supplied us with information or to whom we disclosed it. Your statement will also be furnished to anyone reviewing the disputed information.
+
+**Fraud Warning**
+
+Any person who, with intent to defraud or knowing that he is facilitating a fraud against an insurer, submits an application or files a claim containing a false or deceptive statement is guilty of insurance fraud.
 
 **Alabama Only**
 
