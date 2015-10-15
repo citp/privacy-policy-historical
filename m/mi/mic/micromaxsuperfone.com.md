@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the micromaxsuperfone.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230042802id_/http%3A//www.micromaxinfo.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micromaxsuperfone.com privacy policy that was archived on 2015-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151015181958id_/http%3A//www.micromaxinfo.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Micromax - Nothing like Anything
+# Micromax - Nothing like Anything, Micromax Mobiles
 
 Micromax respects your privacy and recognizes the need to protect the personally identifiable information (any information by which you can be identified, such as name, address, and telephone number) you share with us. We would like to assure you that we follow appropriate standards when it comes to protecting your privacy on our web sites. 
 
