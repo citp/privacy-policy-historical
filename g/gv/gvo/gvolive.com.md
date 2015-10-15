@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gvolive.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226060147id_/http%3A//www.meetcheap.com/legal/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gvolive.com privacy policy that was archived on 2015-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151015184858id_/http%3A//www.meetcheap.com/legal/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
