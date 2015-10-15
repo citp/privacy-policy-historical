@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topnonprofits.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314223629id_/http%3A//topnonprofits.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topnonprofits.com privacy policy that was archived on 2015-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151015185446id_/https%3A//topnonprofits.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Top Nonprofits
 
@@ -11,7 +11,7 @@ _**Your privacy is critically important to us. At Top Nonprofits we have a few f
 
 
 
-Below is our privacy policy which incorporates these goals:[](http://creativecommons.org/licenses/by-sa/2.5/) (Note, we’ve decided to make this privacy policy available under a  **Creative Commons Sharealike**  license, which means you’re more than welcome to steal it and repurpose it for your own use, just make sure to replace references to us with ones to you, and if you want we’d appreciate a link somewhere on your site to [TopNonprofits.com](http://topnonprofits.com/) and [Automattic.com](http://automattic.com/) (whose similarly licensed privacy policy was used to build this one).
+Below is our privacy policy which incorporates these goals:[](http://creativecommons.org/licenses/by-sa/2.5/) (Note, we’ve decided to make this privacy policy available under a  **Creative Commons Sharealike**  license, which means you’re more than welcome to steal it and repurpose it for your own use, just make sure to replace references to us with ones to you, and if you want we’d appreciate a link somewhere on your site to [TopNonprofits.com](https://topnonprofits.com/) and [Automattic.com](http://automattic.com/) (whose similarly licensed privacy policy was used to build this one).
 
 If you have questions about deleting or correcting your personal data please contact our [support team](mailto:craig@topnonprofits.com).
 
