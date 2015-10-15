@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realclearpolitics.com privacy policy that was archived on 2015-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150122053402id_/http%3A//www.realclearpolitics.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realclearpolitics.com privacy policy that was archived on 2015-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151015185341id_/http%3A//www.realclearpolitics.com/privacy.html) for the most accurate reproduction.*
 
 # RealClearPolitics - Privacy Policy
 
@@ -33,7 +33,7 @@ Many companies offer programs that help you to visit websites anonymously. While
 
 ### What About Cookies?
 
-Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. RealClearPolitics cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or email address is. 
+Cookies are alphanumeric identifiers that we transfer to your computerâ€™s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. RealClearPolitics cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or email address is. 
 
 The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of RealClearPolitics's most attractive features. 
 
