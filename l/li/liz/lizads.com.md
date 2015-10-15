@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lizads.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617064248id_/http%3A//lizads.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lizads.com privacy policy that was archived on 2015-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151015234008id_/http%3A//lizads.com/privacy) for the most accurate reproduction.*
 
 # Lizads.com - Privacy Policy
 
