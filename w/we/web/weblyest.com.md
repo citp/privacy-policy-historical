@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weblyest.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611032423id_/http%3A//www.weblyest.com/pages/content/8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weblyest.com privacy policy that was archived on 2015-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151015183816id_/http%3A//www.weblyest.com/pages/content/8) for the most accurate reproduction.*
 
 # Weblyest - Privacy Policy
 
@@ -150,5 +150,4 @@ or
 
 **West Hollywood, CA 90069**
 
-  
 [](http://www.espressogossip.com/ "www.espressogossip.com") [](http://www.funlyest.com/ "www.funlyest.com")
