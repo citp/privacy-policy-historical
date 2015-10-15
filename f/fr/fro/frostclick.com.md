@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the frostclick.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617221451id_/http%3A//www.frostclick.com/wp/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frostclick.com privacy policy that was archived on 2015-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151015165614id_/http%3A//www.frostclick.com/wp/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Download Privacy Policy | FrostClick.com | Discover The Best Free Downloads Online
-
-## Privacy Policy
 
 FrostClick is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of the website www.frostclick.com. This policy may change from time to time so please check back periodically.
 
