@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soap.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610000431id_/http%3A//www.soap.com/privacypolicy.qs) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soap.com privacy policy that was archived on 2015-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151015031336id_/http%3A//www.soap.com/legal/privacypolicy) for the most accurate reproduction.*
 
 # Legal: Soap.com
 
