@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the freeflys.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423141657id_/http%3A//www.freeflys.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeflys.com privacy policy that was archived on 2015-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151015042258id_/http%3A//www.freeflys.com/privacy) for the most accurate reproduction.*
 
 # Freeflys - Privacy
-
-**PRIVACY POLICY**
 
 **Effective Date January 15, 2007**
 
@@ -97,3 +95,19 @@ Freeflys or its successors and assigns may amend the terms and conditions of the
 If you are not in agreement with the terms of this Policy, please unsubscribe from the Freeflys email list, please [click here](http://www.freeflys.com/unsub.php) or write to us at Freeflys, 303 Ray Street, Pleasanton, CA 94566 and request to be removed.
 
 If you feel that Freeflys is not abiding by its posted privacy policy, write us at Freeflys, 303 Ray Street, Pleasanton, CA 94566.
+
+**Urban Decay, Bath & Body Works, Yankee Candles, Rachael Ray Giveaway Rules**
+
+You must be at least 18-years-old and a resident of the continental United States, including Alaska and Hawaii, to enter. No purchase necessary to enter or win. Contest runs from September 23, 2015 at 12:00 a.m. PST to December 31, 2015 at 11:59 p.m. PST. The winners for each of the 4 prizes will be chosen January 12, 2016 and notified via email. The winners will have 7 days to claim their prize, and must do so by replying to the email they receive from Freeflys. The Giveaway Terms/Rules are subject to change at any time without notice. Prizes are subject to change at any time without notice. Prizes: (1) Urban Decay naked vault, (1) Rachael Ray 10 piece porcelain cook set, (1) set of 4 large Yankee candles, (1) set of Bath Body Works products.
+
+NO PURCHASE IS NECESSARY TO ENTER OR WIN. A PURCHASE WILL NOT INCREASE YOUR CHANCES OF WINNING. ALL FEDERAL, STATE, LOCAL, AND MUNICIPAL LAWS AND REGULATIONS APPLY. VOID WHERE PROHIBITED. Participation constitutes entrant's full and unconditional agreement to and acceptance of these Official Rules. Sweepstakes is sponsored by Freeflys, 303 Ray Street, Pleasanton, CA 94566 (the "Sponsors"), who is solely responsible for all aspects of this Sweepstakes.
+
+Eligibility: Sweepstakes is open to all legal residents of the United States and District of Columbia who are 13 years of age or older as of the beginning of the Sweepstakes. Employees, officers, and directors (including immediate family members and members of the same household) of the Sponsors are not eligible to participate. All federal, state and local laws and regulations apply. Void where prohibited.
+
+All prizes are subject to availability; in the event a certain prize is unavailable the winner will be sent a gift card for the same value as the prize. Prizes are not exchangeable and have no redeemable cash value; all will be shipped within 4 weeks of being claimed.
+
+Special Conditions: If for any reason in the opinion of Freeflys, in its sole discretion, the Sweepstakes is not capable of running as planned or if the administration, security, fairness, integrity, or proper conduct of the Sweepstakes is corrupted or adversely affected, including by reason of infection by computer virus, bugs, tampering, unauthorized intervention, fraud, technical failure, or any other causes beyond its control, Freeflys reserves the right to cancel, terminate, modify or suspend the Sweepstakes, including cancelling any method of entry, and selecting a winner from previously received eligible entries.
+
+This Promotion is in no way sponsored, endorsed or administered by, or associated with the brands mentioned. You understand that you are providing your information to Freeflys and not to the brands.
+
+Most offers, Samples, Coupons are not distributed by Freeflys and we are not responsible if such Offers are no longer available, change, if you do not receive the Offers, if you do not qualify for the Offers, or if any other issues arise. The third-party product names, logos, brands, and trademarks shown on this website are the property of their respective owners. These companies are not affiliated with Freeflys. These third parties do not sponsor or endorse this website, its content or services.
