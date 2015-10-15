@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casualclub.jp privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609002155id_/http%3A//www.casualclub.jp/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casualclub.jp privacy policy that was archived on 2015-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151015060350id_/http%3A//www.casualclub.jp/info/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -56,3 +56,16 @@ Members and/or users are banned from publishing or broadcasting content that may
 The user hereby agrees and warrants that the above contents, including personal pictures, are posted by the user and the user is the exclusive author of the content, including photos and profile, and that the use of such content by us does not infringe the rights of any third party.
 
 Casual Club undertakes no obligation to publish content submitted by you or anyone else. Although we do not examine and we can not review every message and photograph or other material posted or sent by users of the Service and we are not responsible for the content of these messages or materials, we reserve the right, but assume no obligation, except as required by applicable law, to monitor, delete, move or edit messages, photographs or any of the material above, including, without limitation, announcements, profiles, public publications, photographs and messages which, in our sole discretion, we believe to violate these Terms or any guidelines applicable to the content, or are deemed otherwise unacceptable. The user is the solely responsible for the content of profiles, publications, public, photographs and any other material that the user uploads to the Service or for the users of the Service. We do not guarantee the accuracy of information provided by other users of the Service, or assume any responsibility to carry out checks to that effect.
+
+The site uses cookies to identify you as a user of this Site, to remember your favorite language and to facilitate the surfing on the Site. It is possible to deactivate the cookies in your own Internet browser, but if you do so, some parts of the Site won't work correctly.
+
+To learn more about the cookies, including flash cookies and local storage technologies, we suggest you to visit the following sites:
+
+  * [www.allaboutcookies.org](http://www.allaboutcookies.org/)
+  * [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
+  * <http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html>
+  * [www.google.co.uk/goodtoknow/data-on-the-web/cookies](http://www.google.co.uk/goodtoknow/data-on-the-web/cookies)
+
+
+
+The site uses Google Analytics to gather data on who visits the website. This information is used to draft a report and improve the site itself. The cookies, gather in an anonymous way, some type of data such as the number of visits, origins of the visitors and the visited pages. For further information regarding the Google privacy Policy please check <http://www.google.com/intl/en/policies/>
