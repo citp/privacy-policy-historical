@@ -1,37 +1,38 @@
-> *The following text is extracted and transformed from the udk.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207155515id_/http%3A//epicgames.com/privacynotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the udk.com privacy policy that was archived on 2015-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151015025610id_/http%3A//epicgames.com/privacynotice) for the most accurate reproduction.*
 
 # Epic Games Privacy Notice | Epic Games
 
-Last updated on April 5, 2012
+Last updated on March 19, 2014
 
-Epic Games and its corporate subsidiaries and affiliates (Chair Entertainment, People Can Fly, Epic Games Korea, and Epic Games Japan) (collectively, “Epic”) respect your concerns about privacy. We want our users to understand the types of information we collect, how we use that information, how we secure it, and whether we share it. Please contact us if you have any questions about our privacy practices. When you use our websites, games and applications, you agree to our collection, use, disclosure, and transfer of information as described in this Notice, so please review it carefully and ask us questions if you have any.
+Epic Games and its corporate subsidiaries and affiliates (Epic Games International, S.à r.l., Chair Entertainment, Epic Games Poland, Epic MegaGames UK Ltd, Epic Games Korea, and Epic Games Japan) (collectively, “Epic”) respect your concerns about privacy. We want our users to understand the types of information we collect, how we use that information, how we secure it, and whether we share it. Please contact us if you have any questions about our privacy practices. When you use our websites, games and applications, you agree to our collection, use, disclosure, and transfer of information as described in this Notice, so please review it carefully and ask us questions if you have any.
 
 ## Our Collection and Use of Information
 
-We generally collect or receive information in three ways: (1) you voluntarily provide information to us, such as by signing up for email alerts, (2) we collect information automatically, such as through the use of cookies, and (3) other parties, such as social networks, may provide information to us. Each of these methods is described in more detail below.
+We generally collect or receive information in three ways: (1) you voluntarily provide information to us, such as by signing up for email alerts or creating an account, (2) we collect information automatically, such as through the use of cookies, and (3) other parties, such as social networks, may provide information to us. Each of these methods is described in more detail below.
 
 **(1) Information You Voluntarily Choose to Provide**
 
-You may choose to provide your personal information to us when you use our websites, games, or applications. Because we change our offerings and features from time to time, the options you have to provide us with information also may change. The following are some examples of situations in which you may choose to provide information to us:
+You may choose to provide your personal information to us when you use our websites, games, or applications, although some of our website, games, and applications require you to provide personal information in order to use some or all of its features. Because we change our offerings and features from time to time, the options you have to provide us with information also may change. The following are some examples of situations in which you may provide information to us when you:
 
-  * When you decide to register with our websites, such as our forums or blogs, to participate in the discussions or features available there; 
-  * When you choose to download one of our commercial products, such as one of our game development tools; 
-  * When you create an online account; 
-  * When you choose to use a social feature of our games or applications (described further in the section of this Notice titled “When You Use Social Features of Our Games and Applications”); 
-  * When you purchase something from us or otherwise engage in a transaction with us; 
-  * When you decide to enter online competitions or register for or participate in special events; 
-  * When you enter contests or sweepstakes, participate in any of our promotions, or accept any prizes from us; 
-  * When you choose to sign up for email alerts or subscribe to receive other information from us; 
-  * When you voluntarily complete a survey; 
-  * When you use a mobile device, such as a phone, to play our games or use our applications; 
-  * When you contact us for any reason, such as by email, including for technical support or customer service; 
-  * When you use our websites, online services, software, or applications. 
+  * Register with our websites, such as our forums or blogs, to participate in the discussions or features available there;
+  * Download one of our commercial products, such as a game or one of our game development tools;
+  * Create an account;
+  * Subscribe to license a game engine or other content;
+  * Use a social feature of our games or applications (described further in the section of this Notice titled “When You Use Social Features of Our Games and Applications”); 
+  * Purchase something from us or otherwise engage in a transaction with us; 
+  * Enter online competitions or register for or participate in special events; 
+  * Enter contests or sweepstakes, participate in any of our promotions, or accept any prizes from us; 
+  * Sign up for email alerts or subscribe to receive other information from us; 
+  * Complete a survey; 
+  * Use a mobile device, such as a phone, to play our games or use our applications; 
+  * Contact us for any reason, such as by email, including for technical support or customer service; 
+  * Use our websites, online services, software, or applications.
 
 
 
-The personal information we collect from you will vary depending on the services you are using, the sites you are visiting, and how you access those services and websites. The information you provide to us may include your name, your user ID, and your email address(es). Sometimes we ask for your phone number (which may include mobile phone number), your postal address (often postal or zip code only), your date of birth, and your gender. For example, we may ask for your phone number so we can contact you if you win a prize in one of our contests or promotions and your date of birth so we can verify that you are old enough to participate in our contests and promotions.
+The personal information we collect from you will vary depending on the services you are using, the sites you are visiting, and how you access those services and websites. The information you provide to us may include your name, your user ID, and your email address(es). If you choose to make a purchase, we will collect payment card information such as your card’s payment account number and expiration date. Sometimes we ask for your phone number (which may include mobile phone number), your postal address (often postal or zip code only), your date of birth, and your gender. For example, we may ask for your phone number so we can contact you if you win a prize in one of our contests or promotions and your date of birth so we can verify that you are old enough to participate in our contests and promotions.
 
-In all of these situations, we will ask you to provide the information to us, but you may choose not to do so. We try to ask for only the information we genuinely need to provide you with the services, features, or communications you are requesting, and if you prefer not to share that information with us, we may not be able to fulfill your request.
+In all of these situations, we will ask you to provide the information to us, but you may choose not to do so. We try to ask for only the information we genuinely need to provide you with the services, features, or communications you are requesting. In some cases, if you decide not to provide the information we have requested we may not be able to fulfill your request.
 
 Some additional examples of why we ask for your information include:
 
@@ -49,11 +50,20 @@ You may also choose to apply for a job through some of our websites. In cases wh
 
 We collect some information automatically when you visit our sites or use our games and applications. Usually, this information does not identify you specifically as an individual. If a combination of information that we collect does identify you as an individual, we will treat the combined information as personal information. We typically aggregate the data that we collect automatically and use it in statistical form to determine trends among groups of users, rather than using it to identify individuals.
 
-The type of information that we automatically collect may vary, but generally includes technical information about your computer, device, hardware, or software you use to access the Internet, such as Internet Protocol (“IP”) address, Unique Device Identifier, MAC address, or other transactional or identifier information for your device (such as device make and model, information about device operating systems and browsers, or other device or system related specifications). The information we collect may also include usage information and statistics about your interaction with our websites, games, and applications. That information may include the URLs of our websites that users have visited, URLs of referring and exiting pages, page views, time spent on a page, number of clicks, platform type, and other information about how you used our websites, games, and applications. Usage information also includes information about the application you used or the game you played, how long you used or played such application or game and when, the application or game features that you used, your gamer tag or other user identification, your game play or usage statistics, and other information related to your application use or game play.
+The type of information that we automatically collect may vary, but generally includes:
 
-In cases where you use a mobile device to access our sites or use our games and applications, we will receive information about the location of your device. In some cases, even if you are not using a mobile device, information about your general location may be discernable from your device’s IP address or the URLs we receive. If you access or use our sites or services with your phone, we may receive your phone number. Please note that if ads or other features on our site are provided by third parties, those third parties may also use automated means of data collection that are subject to those third parties’ privacy notices and policies.
+  * Technical information about your computer, device, hardware, or software you use to access the Internet or our services, such as Internet Protocol (“IP”) address, a device identifier, MAC address, or other transactional or identifier information for your device (such as device make and model, information about device operating systems and browsers, or other device or system related specifications);
+  * Usage information and statistics about your interaction with our websites, games, and applications, which may include the URLs of our websites that users have visited, URLs of referring and exiting pages, page views, time spent on a page, number of clicks, platform type, the application you used or the game you played, how long you used or played it and when, the application or game features that you used, and other usage statistics; 
+  * Your gamer tag or other user identification provided in connection with your application use or game play;
+  * The location of your device in cases where you use a mobile device to access our sites or use our games and applications. Your general location also may be discernible from your device’s IP address or the URLs we receive.
 
-We use information we automatically collect to understand our users as a group, sometimes based on group traits, such as demographics, in order to determine their preferences. As a result, we can develop and deliver new or modified offerings, improved with our users’ preferences in mind. As described below, we may also use such information to provide a more personalized user experience and to facilitate advertising. The following are some of the types of automated data collection that may occur when you use our sites, games, or applications:
+
+
+Please note that if certain features on our site are provided by third parties, those third parties may also use automated means of data collection and may record information about your use of our site or others’ sites over time. These features are subject to those third parties’ privacy notices and policies.
+
+We use information we automatically collect to understand our users as a group, sometimes based on group traits, such as demographics, in order to determine their preferences. As a result, we can develop and deliver new or modified offerings, improved with our users’ preferences in mind. As described below, we may also use such information to provide a more personalized user experience and to facilitate advertising. Some web browsers have incorporated “do not track” features. Most of these features, when turned on, send a signal or preference to the websites you visit indicating that you do not wish to be tracked. Our sites and online services do not currently respond to browser do not track signals.
+
+The following are some of the types of automated data collection that may occur when you use our sites, games, or applications:
 
 _Web Browsers_
 
@@ -71,7 +81,7 @@ We may use “web beacons” (also known as Internet tags, pixel tags, tracking 
 
 **(3) Information We Receive from Others**
 
-In some cases, other parties provide us with information about you, or allow us to collect information about you. We generally collect or receive information from other parties in three ways: (1) you use our games or applications at a site that is not controlled by us, such as a social network, (2) you choose to use a social feature of our games or applications, and (3) you purchase one of our games or applications from another party. In some cases, we are not able to control the amount or type of information that other parties, like social networks, make available to us. In those cases, we use only the data that we genuinely need to provide the types of services we think our users want and expect. Although we cannot control your privacy settings at those sites or how those other parties protect your privacy, once we receive information about you through those sites, we will treat it as described in this Notice.
+In some cases, other parties provide us with information about you, or allow us to collect information about you. We generally collect or receive information from other parties in three ways: (1) you use our games or applications at a site that is not controlled by us, such as a social network, (2) you choose to use a social feature of our games or applications, and (3) you purchase one of our games or applications from another party. In some cases, we are not able to control the amount or type of information that other parties like social networks, make available to us. In those cases, we use only the data that we need to provide the types of services we think our users want and expect. Although we cannot control your privacy settings at those sites or how those other parties protect your privacy, once we receive information about you through those sites, we will treat it as described in this Notice.
 
 ## When You Use Our Games and Applications at Third Party Sites
 
@@ -79,9 +89,9 @@ When you use any Epic game, application, or feature at a site not controlled by 
 
 ## When You Use Social Features of Our Games and Applications
 
-When you choose to use a social feature of our games and applications, you allow Epic to receive information about you from social networks. Our social features promote and facilitate interaction among players, such as by allowing you and your friends to work together to meet a shared challenge presented by our game or application. You may be able to use these features to find out if your friends are actively playing the game and using the feature, to find out if they used it in the past, and to invite them to join with you to meet a game challenge. In order to protect your friends’ privacy, we will only show you this information if they previously opted in to use the same social feature you are using.
+When you choose to use a social feature of our games and applications, you allow Epic to receive information about you from social networks. Our social features promote and facilitate interaction among players, such as by allowing you and your friends to work together to meet a shared challenge presented by our game or application. You may be able to use these features to find out if your friends are actively playing the game and using the feature, to find out if they used it in the past, and to invite them to join with you to meet a game challenge.
 
-If you choose (opt in) to use one of our social features, you may be asked to log into a social network, such as Facebook, through our game or application. The social network then provides Epic with the following information:
+If you choose (opt in) to use one of our social features, you may be asked to log into a social network, such as Facebook, through our game or application. The social network may then provide Epic with information such as the following:
 
   * Your social network user ID; 
   * Your profile picture or its URL (if available); 
@@ -89,9 +99,9 @@ If you choose (opt in) to use one of our social features, you may be asked to lo
 
 
 
-We link this data to a user ID that Epic assigns to you. When a social network sends us the user IDs and profile pictures of your friends, we check to see which of your friends also have chosen to use the same Epic social feature you selected. If your friends have not chosen to use our social features, we do not retain their user IDs or other information about them. If your friends have opted in to use the same social feature you selected, then we link that information to you so that you can enjoy Epic’s social features with those friends. We will update the list of friends linked to your user ID each time you log back into our social feature.
+We link this data to a user ID that Epic assigns to you. When a social network sends us the user IDs and profile pictures of your friends, we check to see which of your friends also have chosen to use the same Epic social feature you selected. If your friends have opted in to use the same social feature you selected, then we link that information to you so that you can enjoy Epic’s social features with those friends. We will update the list of friends linked to your user ID each time you log back into our social feature.
 
-While using an Epic social feature, you may be able to see your friends’ profile pictures and their most recent use of the feature. Similarly, when your friends are using the feature, they may be able to see your profile picture and your most recent use of the feature. You may be able to invite your friends to join you in a social feature, such as by posting a message to your Facebook wall. You are never required to use Epic’s social features in order to play our games or use our applications. Further, if you have previously engaged in an Epic social feature, that feature will permit you to decline to participate in the future, deleting the data Epic stores regarding your participation with that feature.
+While using an Epic social feature, you may be able to see your friends’ profile pictures and their most recent use of the feature. Similarly, when your friends are using the feature, they may be able to see your profile picture and your most recent use of the feature. You may be able to invite your friends to join you in a social feature, such as by posting a message to your Facebook wall. You are never required to use Epic’s social features in order to play our games or use our applications. Further, if you have previously engaged in an Epic social feature, that feature will permit you to decline to participate in the future, deleting the personal data Epic stores regarding your participation with that feature.
 
 ## When You Buy Our Games and Applications from Other Parties
 
@@ -100,6 +110,8 @@ We may also receive information about you from the organizations that sell our a
 We may use the information that we receive from others to understand our users and to help us develop, deliver, and improve our offerings. We may also use it to provide a more personalized user experience and to manage advertising. In some cases, we may use this information to contact you, provide you with technical support or customer service, and to enforce our licenses, agreements, and terms of use.
 
 ## Information We Share
+
+We may share, or provide you with opportunities to share, information about you with other users of our websites, games and applications. For example, if you have a game engine subscription, information about your subscription level and status may be visible to others, such as the date you first subscribed or the date you terminated your subscription. We also provide services that allow our users to communicate with Epic and each other, in which case personal information may be shared and account IDs may be displayed.
 
 We may share personal information we collect within our family of companies and with our trusted business partners. We also will share information with service providers that perform services on our behalf. These partners and service providers are not authorized by us to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements. We also may share certain limited information, such as device identifiers, with advertisers and other marketing partners for purposes of gauging the effectiveness of advertising and other marketing strategies.
 
@@ -133,6 +145,8 @@ We may provide links to other sites, games, or applications for your convenience
 
 Epic does not direct its websites, games, or applications to children (usually considered to be under the age of 13, depending on the jurisdiction where you reside). We also do not intentionally collect personal information from children through our websites, games, or applications. If you are the parent or guardian of a child and you believe that we have inadvertently received personal information about that child, please contact us as described in the How to Contact Us section of this Notice and we will delete the information from our records.
 
+If you are under the age of 18 and have an account for our websites, mobile apps, games, or other online services, you may request that we remove certain content that you provided, such as deleting or editing comments you have posted. You also may ask us to assist you in removing or anonymizing content you have posted by contacting us as described in the How to Contact us section of this Notice. Please be aware that taking these steps may not ensure complete or comprehensive removal of the content or information posted on the our sites, online services, applications or games. We also may not be able to remove content you post if applicable law requires us to maintain the posting or if another party has re-posted the content to a site, app, game or other online service that we do not own or control.
+
 ## Transfers of Information
 
 As part of our international operations, we may transfer information about you to any jurisdiction where we do business. Even if those jurisdictions do not have the same privacy laws as the jurisdiction where you reside, we will treat your information as subject to the protections described in this Notice. When you use our websites, games, or applications, you agree that we may transfer information about you as described in this Notice.
@@ -143,4 +157,4 @@ This Notice may be updated periodically to reflect changes in our personal infor
 
 ## How to Contact Us
 
-If you have any questions or comments about this Notice or if you would like us to update, amend, or request deletion of the information we have about you or your preferences, please [contact our privacy team](mailto:privacy@epicgames.com) or at Epic Games, 620 Crossroads Boulevard, Cary, North Carolina, 27518, USA, attn: Privacy Team.
+If you have any questions or comments about this Notice or if you would like us to update, amend, or request deletion of the information we have about you or your preferences, please [contact our privacy team](mailto:privacy@epicgames.com) or at Epic Games, Box 254, 2474 Walnut Street, Cary, NC 27518, USA, attn: Privacy Team.
