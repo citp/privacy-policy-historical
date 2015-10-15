@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the careerbless.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607135642id_/http%3A//www.careerbless.com/policies/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the careerbless.com privacy policy that was archived on 2015-10-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151015030237id_/http%3A//www.careerbless.com/policies/privacypolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -22,10 +22,15 @@
 
 <link href="/css/thrColLiqHdr.css" rel="stylesheet" type="text/css">
 <link href="/css/menu.css" rel="stylesheet" type="text/css">
+
 <!--[if lte IE 7]><style>.content{width:59%}.contentWL{width:75%}.navigationBar{width:96%}</style><![endif]-->
-<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js" type="text/javascript"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-migrate/1.1.1/jquery-migrate.min.js" type="text/javascript"></script>
 <script src="/plugins/HtmlBox/htmlbox.min.js" type="text/javascript"></script>
+
+	
+	<link href="/css/msgboard.css" rel="stylesheet" type="text/css">
+	<script src="/js/msgboard/msgboard.js" type="text/javascript"></script>
 
 <script type="text/javascript">
 if (window.top !== window.self) window.top.location.replace(window.self.location.href); //iframe blocker
@@ -38,51 +43,38 @@ var jqxhr; var contextPath = "http://www.careerbless.com";
 var glPageLoadTime = false; var cusMsgCase="";
 
 //session Check -- begin
-//alert(gSpUsId);alert(gUsN);alert(LType);
 
-//If session is already available, just set the display
 $(document).ready(function(){
-	if(gSpUsId != "")
-	{
-		if($.isFunction(window.signedInMb))
-		{
-			signedInMb(LType);
-		}
-	}
+	if(gSpUsId != ""){if($.isFunction(window.signedInMb)){signedInMb(LType);}}
 });
-//session Check -- end
-function clearSessionVariables()
-{
-	gUsN = "";  gSpUsId  = "";  isL = false;  LType = "";  gFirstName  = "";  gMiddleName  = "";  gLastName  = "";
-	gGender = "";  gUserLink = ""; access_token=""; accessCode="";
-}
+
+$(window).load(function() {			
+(function(d, s, id) {var js, fjs = d.getElementsByTagName(s)[0];if (d.getElementById(id)) return; js = d.createElement(s); js.id = id;js.async=true; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));
+
+(function() {var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true; po.src = 'https://apis.google.com/js/plusone.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);})();
+
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+});
+
+function clearSessionVariables(){gUsN = "";  gSpUsId  = "";  isL = false;  LType = "";  gFirstName  = "";  gMiddleName  = "";  gLastName  = "";	gGender = "";  gUserLink = ""; access_token=""; accessCode="";}
 
 <!-- js for google analytics- begin-->
-  var _gaq = _gaq || [];
+var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-32177057-1']);
   _gaq.push(['_trackPageview']);
   (function() {
-
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+})();
+<!-- js for google analytics end-->		
 </script>
-<!-- js for google analytics end-->
 
-<!-- js for facebook like - begin-->
+<!-- js for facebook begin-->
 <div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;js.async=true;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-<!-- js for facebook like - end-->
+<!-- js for facebook end-->
 
 <script src="/js/login/soclogin.min.js" type="text/javascript"></script>
-<!--google login end -->
 
 <div class="header">
 
@@ -92,23 +84,18 @@ function clearSessionVariables()
 
 <div style="float:right;height:76px;box-sizing:border-box;width:auto;margin-right:20%;">
 
-<div class="fb-like" style="float:left;margin-right:15px;padding-top:24px;" data-href="http://www.facebook.com/careerbless" data-send="true" data-layout="button_count" data-width="450" data-show-faces="false" data-font="verdana"></div>
+<div class="fb-like" style="float:left;margin-right:15px;padding-top:24px;max-width:135px;" data-href="http://www.facebook.com/careerbless" data-send="true" data-layout="button_count" data-width="450" data-show-faces="false" data-font="verdana"></div>
 
 <div style="float:left;margin-right:15px;padding-top:24px;">
 <a href="https://twitter.com/careerbless" class="twitter-follow-button" data-show-count="false">Follow @careerbless</a>
 </div>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-
 <div style="float:left;margin-right:15px;width:80px;padding-top:24px;"><a href="https://twitter.com/share" class="twitter-share-button">Tweet</a></div>
 
 <div style="float:left;padding-top:22px;"><div class="g-plusone"></div></div>
-<script type="text/javascript">
-  (function() {
-    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-    po.src = 'https://apis.google.com/js/plusone.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-  })();
-</script>
+
+<div style="float:left;padding-top:24px;"><a href="/search.php"><img src="/images/action/search.png" title="search careerbless.com"></a></div>
+
+
 </div>
 
 </div>
@@ -125,10 +112,10 @@ function clearSessionVariables()
 
 </div>
 
-<div class="navigationBar"><a class="noul" id="top">&nbsp;</a>
-<a class="navlink01" href="/index.php">Home</a> &gt; Privacy Policy
+<div class="navigationBar"><a class="noul" id="top">&nbsp;</a><span class="navbc">
+<a class="linkstyle1" href="/index.php">Home</a> &gt; Privacy Policy</span>
 <!--ads-->
-<div style="border-top:1px solid #CCC; min-height:90px;clear:both;margin-top:10px;padding-top:1px;"><div style="margin-left:18%;">
+<div style="border-top:1px solid #CCC; min-height:90px;clear:both;margin-top:21px;padding:4px 0px;"><div style="margin-left:18%;">
 <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Leaderboard 1 (728 x 90) -->
 <ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-2240527549297031" data-ad-slot="3821776365"></ins>
