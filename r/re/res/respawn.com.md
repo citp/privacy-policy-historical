@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the respawn.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315070153id_/http%3A//www.respawn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the respawn.com privacy policy that was archived on 2015-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151015064239id_/http%3A//www.respawn.com/privacy-policy) for the most accurate reproduction.*
 
 # Respawn Entertainment | Privacy Policy
 
