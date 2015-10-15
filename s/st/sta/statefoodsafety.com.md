@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statefoodsafety.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612090624id_/http%3A//www.statefoodsafety.com/privacy/website-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statefoodsafety.com privacy policy that was archived on 2015-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151015193956id_/http%3A//www.statefoodsafety.com/Privacy/websitePolicy) for the most accurate reproduction.*
 
 # StateFoodSafety.com | Privacy Center | Website Policy
 
@@ -10,4 +10,4 @@ StateFoodSafety.com limits access to personal information about you to employees
 
 StateFoodSafety.com has physical, electronic and procedural safeguards that comply with federal regulations to protect personal information about you.
 
-If you have any further questions regarding our privacy policy or practices, contact our [customer service department](https://web.archive.org/support.php).
+If you have any further questions regarding our privacy policy or practices, contact our [customer service department](https://www.statefoodsafety.com/support.php).
