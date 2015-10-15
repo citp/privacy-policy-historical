@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the submitexpress.com privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526175641id_/http%3A//www.submitexpress.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submitexpress.com privacy policy that was archived on 2015-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151015182810id_/http%3A//www.submitexpress.com/policy.html) for the most accurate reproduction.*
 
 # Submit Express - Privacy Policy
 
