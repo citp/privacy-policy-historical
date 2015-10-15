@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the happymassage.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315002554id_/http%3A//www.happymassage.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happymassage.com privacy policy that was archived on 2015-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151015203301id_/http%3A//www.happymassage.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-﻿
 
 We are committed to protecting and respecting your privacy. This privacy policy is about the way we use the personal information of users. If you use any of our services, this privacy policy applies to you. This policy is effective on 22 May 2013. The policy explains: 
 
