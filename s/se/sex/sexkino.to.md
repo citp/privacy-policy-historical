@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sexkino.to privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615015209id_/http%3A//sexkino.to/movies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexkino.to privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016015346id_/http%3A//sexkino.to/movies/privacy) for the most accurate reproduction.*
 
-# Sexkino.to - Kostenlose Pornos,JAV uncensored porn,porn movies online - Sexkino.to
+# Sexkino.to - Kostenlose Pornos - Sexkino.to
 
 **What information do we collect?**
 
