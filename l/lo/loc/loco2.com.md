@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loco2.com privacy policy that was archived on 2015-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150331111952id_/https%3A//loco2.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loco2.com privacy policy that was archived on 2015-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151015193442id_/https%3A//loco2.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Loco2
 
@@ -43,7 +43,7 @@ You may refuse to accept cookies by activating the setting on your browser which
 
 The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the fulfilment of your order, and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
-All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology and relevant details passed over a secure connection to Sagepay, who process card payments made through the site. Loco2 never stores customer financial information.
+All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology and relevant details passed over a secure connection to Braintree, who process card payments made through the site. Loco2 never stores customer financial information.
 
 Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone. All passwords you provide to us are encrypted when stored on our servers.
 
