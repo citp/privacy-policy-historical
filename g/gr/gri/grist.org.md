@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grist.org privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629085221id_/http%3A//grist.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grist.org privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016005353id_/http%3A//grist.org/about/privacy) for the most accurate reproduction.*
 
 # Privacy | Grist
 
