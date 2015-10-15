@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the national-accident-helpline.co.uk privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608025611id_/http%3A//www.national-accident-helpline.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the national-accident-helpline.co.uk privacy policy that was archived on 2015-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151015134634id_/http%3A//www.national-accident-helpline.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
-# National Accident Helpline | Privacy Policy
+# Privacy Policy | National Accident Helpline
 
 ### National Accident Helpline Limited ("NAH" or "we" or "us" or "our") are committed to protecting and respecting your privacy.
 
