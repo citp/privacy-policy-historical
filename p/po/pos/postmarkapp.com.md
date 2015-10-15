@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postmarkapp.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318005811id_/https%3A//postmarkapp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postmarkapp.com privacy policy that was archived on 2015-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151015170907id_/https%3A//postmarkapp.com/privacy-policy) for the most accurate reproduction.*
 
 # Postmark Privacy Policy
 
@@ -125,7 +125,7 @@ Postmark and the Website may contain links to websites and services provided by 
 
 ## California Privacy Rights
 
-California’s “Shine the Light” law permits residents of California to request certain details about what personal information a company shares with third parties for the third parties’ direct marketing purposes. The request can be made once a calendar year and includes information only from the prior calendar year (e.g. requests made in 2013 will receive information regarding 2012). Wildbit does not share your information with third parties for the third parties’ own and independent direct marketing purposes unless we receive your permission. To obtain this information, please write to us at 20 N. 3rd Street, Unit 701, Philadelphia, PA 19106 or email [support@postmarkapp.com](mailto:support@postmarkapp.com) with “Request for California Privacy Information” in the subject line.
+California’s “Shine the Light” law permits residents of California to request certain details about what personal information a company shares with third parties for the third parties’ direct marketing purposes. The request can be made once a calendar year and includes information only from the prior calendar year (e.g. requests made in 2013 will receive information regarding 2012). Wildbit does not share your information with third parties for the third parties’ own and independent direct marketing purposes unless we receive your permission. To obtain this information, please write to us at 225 Chestnut Street, Philadelphia, PA 19106 or email [support@postmarkapp.com](mailto:support@postmarkapp.com) with “Request for California Privacy Information” in the subject line.
 
 ## International Users
 
@@ -145,4 +145,4 @@ We may occasionally update this Privacy Policy. If we do, we will update the “
 
 ## Privacy Questions / Feedback
 
-Users with questions about this Privacy Policy may contact Wildbit at [support@postmarkapp.com](mailto:support@postmarkapp.com) or 20 N. 3rd Street, Unit 701, Philadelphia, PA 19106.
+Users with questions about this Privacy Policy may contact Wildbit at [support@postmarkapp.com](mailto:support@postmarkapp.com) or 225 Chestnut Street, Philadelphia, PA 19106.
