@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the escort-ads.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516073204id_/http%3A//www.escort-ads.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escort-ads.com privacy policy that was archived on 2015-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151015073310id_/http%3A//escort-ads.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ESCORT-ADS.COM - Worldwide Escort Directory
 
