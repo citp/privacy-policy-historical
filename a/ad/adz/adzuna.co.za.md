@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adzuna.co.za privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608010305id_/http%3A//www.adzuna.co.za/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adzuna.co.za privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016204817id_/http%3A//www.adzuna.co.za/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -18,7 +18,7 @@ We use this information to make your job search experience better. For example, 
 
 ## Marketing
 
-From time to time we may share your information with third parties that we use to help us process data or who have directly relevant products and services that we believe may be of interest to you. If you would prefer not to be contacted by any third parties you can request this at any time by sending us a message using our [online contact form.](http://www.adzuna.co.za/contact-us.html)
+From time to time we may share your information with third parties that we use to help us process data or who have directly relevant products and services that we believe may be of interest to you. If you would prefer not to be contacted by any third parties you can request this at any time by sending us a message using our [online contact form.](https://www.adzuna.co.za/contact-us.html)
 
 ## How we safeguard your data
 
@@ -51,7 +51,7 @@ We keep our privacy policy under regular review and we will place any updates on
 
 ## How to contact us
 
-You can get in touch with us via our [online contact form](http://www.adzuna.co.za/contact-us.html), or alternatively you can write to us at our registered office:
+You can get in touch with us via our [online contact form](https://www.adzuna.co.za/contact-us.html), or alternatively you can write to us at our registered office:
 
 > Adhunter Limited,  
 > Second Floor, Alexander House,  
