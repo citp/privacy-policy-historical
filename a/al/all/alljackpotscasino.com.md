@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alljackpotscasino.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630121105id_/http%3A//www.alljackpotscasino.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alljackpotscasino.com privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016185458id_/http%3A//www.alljackpotscasino.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | All Jackpots Online Casino | English
+# All Jackpots Online Casino | Privacy Policy
 
 PRIVACY POLICY DIGIMEDIA. (“WE, US, OR “OUR) OPERATES THE ALL JACKPOTS CASINO AND ALL JACKPOTS MOBILE CASINO (INDIVDIUALLY, A "CASINO"; COLLECTIVELY, THE "CASINOS"). AND IS COMMITTED TO RESPECTING YOUR PRIVACY AND TO COMPLY WITH ALL APPLICABLE DATA PROTECTION AND PRIVACY LAWS. THIS PRIVACY STATEMENT DESCRIBES THE INFORMATION PRIVACY PRACTICES FOR THE CASINOS. WE HAVE POSTED THIS PRIVACY STATEMENT TO HELP YOU UNDERSTAND HOW WE COLLECT, USE AND SAFEGUARD YOUR INFORMATION. YOU SHOULD READ THIS PRIVACY STATEMENT IN CONJUNCTION WITH THE GENERAL TERMS AND CONDITIONS FOR ALL JACKPOTS CASINO AND ALL JACKPOTS MOBILE CASINO, WHICH CAN BE ACCESSED BY CLICKING [HERE](https://web.archive.org/terms.html)
 
