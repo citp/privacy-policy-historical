@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dobbies.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607124554id_/http%3A//www.dobbies.com/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dobbies.com privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016125250id_/https%3A//www.dobbies.com/privacy-and-cookies) for the most accurate reproduction.*
 
-# Dobbies - Inspiring Gardeners since 1865
+# Inspiring Gardeners since 1865 - Dobbies Garden Centres
 
 **Privacy and Cookies Policy**
 
