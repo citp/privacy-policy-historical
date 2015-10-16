@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pixels.com privacy policy that was archived on 2015-03-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150314233456id_/http%3A//pixels.com/termsofuse.html%3Fdocument%3Dprivacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pixels.com privacy policy that was archived on 2015-10-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151016173248id_/http%3A//pixels.com/termsofuse.html%3Fdocument%3Dprivacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 		<title>Terms of Use - Pixels.com</title>
@@ -99,12 +99,13 @@
 	#headercontainerdiv
 	{
 		min-width: 100%; 
-		background-color: #202328;
+		background-color: #FFFFFF;
 		/* background-image: url('https://fineartamerica.com/BackgroundTextureGray.gif'); */
-		/* background-image: url('https://fineartamerica.com/images/BackgroundTextureDiscussions.jpg'); */
+		background-image: url('https://fineartamerica.com/images/HeaderTextureLightGray.jpg');
 		background-image: none;
 		background-repeat: repeat;
 		background-size: auto;
+		background-color: #F5F5F5;
 		line-height: 0px;
 		text-align: center;
 	}	
@@ -113,18 +114,19 @@
 	{
 		min-width: 100%; 
 		height: 30px; 
-		margin-bottom: 15px; 
-		background-color: #282D32;
-		border-top: 1px solid #191919;
-		border-top: none;
-		border-bottom: none;
+		margin-bottom: 15px;
+		background-color: #FEFEFE;
+		border-top: 1px solid #DDDDDD;
+		border-bottom: 1px solid #DDDDDD;
+		padding-top: 2px;
+		padding-bottom: 2px;
 		box-shadow: none;
 		text-align: center;
 	}
 	
 	.navigationmenu > li > a
 	{
-		display: block;
+		display: inline-block;
 		overflow: hidden;
 		height: 20px;
 		margin: 0px;
@@ -134,31 +136,50 @@
 		padding-left: 15px;
 		padding-right: 15px;
 		background-color: none;
-		color: #DDDDDD;
+		color: #444444;
 		text-align: center;
 		text-decoration: none;
-		font-family: arial;
+		font-family: oswald, arial;
 		font-size: 10pt;
 		font-weight: normal;
-		letter-spacing: 0px;
+		letter-spacing: 0.5px;
 		text-shadow: none;
 		background-image: none;
 		background-position: top left;
 		background-repeat: repeat-y;
-		opacity: 0.95;
-		transition: background-color 0.250s;
-		border-left: 1px solid #444444;
+		opacity: 1.00;
+		transition: background-color 0s;
+		border-left: 1px solid #E9E9E9;
 		line-height: 100%;
+		vertical-align: middle;
+		/*text-transform: lowercase;*/
+	}
+
+	.navigationmenudelete > li::before
+	{
+		content: "|";
+		display: inline-block;
+		width: 0px;
+		font-size: 10pt;
+		font-family: oswald, arial;
+		overflow: hidden;
+		border-left: 1px solid #E5E5E5;
+		vertical-align: middle;
+	}
+	
+	#mtopshop > a
+	{
+		border-left: none;
 	}
 
 	.navigationmenuright > li:first-child > a
 	{
-		border-left: 1px solid #444444;
+		border-left: 1px solid #DDDDDD;
 	}
 	
 	.navigationmenuright > li:last-child > a
 	{
-		border-left: 1px solid #444444;
+		border-left: 1px solid #DDDDDD;
 	}
 
 	.navigationmenu > li:hover > a
@@ -167,6 +188,10 @@
 		background-color: #374353;
 		opacity: 1.0;
 		text-shadow: none;
+		margin-top: -2px;
+		padding-top: 9px;
+		padding-bottom: 5px;
+		transition: background-color 0.250s;
 	}	
 	
 	#headersearchtextboxdiv
@@ -176,9 +201,10 @@
 	
 	.headerlargenavigationlinks
 	{
-		font-size: 14pt !important;
-		color: #DDDDDD !important;
-		text-shadow: 2px 2px 4px #292929 !important;
+		font-size: 16pt !important;
+		color: #444444 !important;
+		text-shadow: none !important;
+		letter-spacing: 0.5px !important;
 	}
 	
 	.headerlargenavigationlinks:hover
@@ -186,8 +212,25 @@
 		padding-top: 7px;
 		padding-bottom: 5px;
 		border-bottom: 2px solid #666666;
-		color: #222222;
+		color: #222222 !important;
 		box-shadow: none;
+	}
+
+	.navigationmenudropdown
+	{
+		top: 33px;
+		border: 1px solid #DDDDDD;
+		border-top: none;
+	}
+	
+	#mtopthreelines > a > div
+	{
+		background-color: #444444 !important;
+	}
+	
+	#mtopthreelines:hover > a > div
+	{
+		background-color: #FFFFFF !important;
 	}	
 
 </style>
@@ -197,10 +240,10 @@
 
 	<div class="container">
 	
-		<div id="header" style="padding-top: 20px; padding-bottom: 15px;">
+		<div id="header" style="padding-top: 15px; padding-bottom: 12px;">
 			
-			<div id="headerlogodivnew">
-<a href="http://pixels.com" style="font-family: oswald, arial; font-size: 18pt; color: #FFFFFF; text-decoration: none; text-shadow: 2px 2px 4px #292929;">PIXELS.COM</a>
+			<div id="headerlogodivnew" style="margin-top: -10px;">
+<a href="http://pixels.com" style="font-family: oswald, arial; font-size: 24pt; color: #000000; text-decoration: none; text-shadow: none; letter-spacing: 0.5px;">pixels<span style="color: #4A8FCA;">.</span>com</a>
 </div>
 <script type="text/javascript">
 var _gaq = _gaq || [];
@@ -214,21 +257,21 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 </script>
 <div id="headerextraspacedivnew">
 <div style="display: inline-block; width: 140px; text-align: center; vertical-align: middle; padding-top: 0px; line-height: 100%;">
-<p style="float: left; width: 100%; padding-top: 2px; font-size: 8pt; font-family: arial; line-height: normal; overflow: hidden; color: #AAAAAA; text-transform: none;"><a href="http://pixels.com/moneybackguarantee.html" style="font-size: inherit; font-family: inherit; color: inherit; text-decoration: none;">Satisfaction Guarantee</a></p>
+<p style="float: left; width: 100%; padding-top: 2px; font-size: 8pt; font-family: arial; line-height: normal; overflow: hidden; color: #222222; text-transform: none;"><a href="http://pixels.com/moneybackguarantee.html" style="font-size: inherit; font-family: inherit; color: inherit; text-decoration: none;">Satisfaction Guarantee</a></p>
 <div style="float: left; width: 100%; text-align: center; overflow: hidden; font-size: 11pt;">
-<p style="display: inline-block; padding-top: 0px; font-size: 11pt; font-family: oswald, arial; font-weight: normal; color: #DDDDDD; vertical-align: middle;">877-807-5901</p>
+<p style="display: inline-block; padding-top: 0px; font-size: 11pt; font-family: oswald, arial; font-weight: normal; color: #222222; vertical-align: middle;">877-807-5901</p>
 </div>
 </div>
 </div>
 <div id="headersearchdivnew"><div style="position: relative; width: 100%;">
 <form name="searchformartworkheader" method="post" action="http://pixels.com/art/all/all/all">
-<div id="headersearchtextboxdiv" style="display: inline-block; position: relative; width: 230px; height: 30px; overflow: hidden; margin-top: 0px; background-color: #FFFFFF; border: none; border-radius: 2px; border-top-left-radius: 0px; border-bottom-left-radius: 0px; box-shadow: 2px 2px 5px #292929;">
-<div class="searchtypeoptionsheader" onclick="javascript: showsearchtypeoptionsheader();" style="float: left; width: 80px; height: 100%; background-color: #282D32; border-right: none; text-align: center; cursor: pointer; cursor: hand;">
-<p style="display: inline-block; padding-top: 7px; font: 8pt arial; color: #999999; vertical-align: top;"><a href="javascript: showsearchtypeoptionsheader();" style="font: 8pt arial; color: #DDDDDD; text-decoration: none;">Keyword</a></p>
-<img src="https://fineartamerica.com/images/ArrowDownCustomDropDownWhite.png" style="display: inline-block; padding-left: 2px; padding-top: 11px; vertical-align: top;">
+<div id="headersearchtextboxdiv" style="display: inline-block; position: relative; width: 230px; height: 30px; overflow: hidden; margin-top: 0px; background-color: #FFFFFF; border: 1px solid #CCCCCC; border-radius: 2px; border-top-left-radius: 0px; border-bottom-left-radius: 0px;">
+<div class="searchtypeoptionsheader" onclick="javascript: showsearchtypeoptionsheader();" style="float: left; width: 80px; height: 100%; background-color: #FCFCFC; border-right: 1px solid #DDDDDD; text-align: center; cursor: pointer; cursor: hand;">
+<p style="display: inline-block; padding-top: 7px; font: 8pt arial; color: #999999; vertical-align: top;"><a href="javascript: showsearchtypeoptionsheader();" style="font: 8pt arial; color: #444444; text-decoration: none;">Keyword</a></p>
+<div class="arrowdown" style="margin-left: 2px; margin-top: 11px; border-top: 5px solid #222222;"></div>
 </div>
 <input type="textbox" id="searchtagheader" name="searchtag" style="float: left; width: 102px; padding-top: 7px; padding-bottom: 8px; padding-left: 10px; background-color: #FFFFFF; border: none; box-shadow: none; outline: none; font: 9pt arial; color: #000000;" value="" placeholder="Search">
-<div style="float: right; width: 30px; height: 100%; border-left: 1px solid #999999; text-align: center;">
+<div style="float: right; width: 30px; height: 100%; border-left: 1px solid #DDDDDD; border-left: none; text-align: center; background-color: #FCFCFC; background-color: #FFFFFF;">
 <a href="javascript: document.searchformartworkheader.submit();"><img src="https://fineartamerica.com/LogoSearchMagnifyingGlass.png" style="float: left; max-width: 18px; max-height: 18px; padding-left: 5px; padding-top: 5px; border: none;"></a>
 </div>
 </div>
@@ -251,12 +294,12 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 <a class="headerlargenavigationlinks" onmouseover="mclose()" href="http://pixels.com/create-art-online.html">CREATE</a>
 </div>
 <div id="headersearchicondivnew">
-<a href="javascript: showsmartphonesearch();"><img src="https://fineartamerica.com/images/IconSearchTransparent.png" style="border: none;"></a>
+<a href="javascript: showsmartphonesearch();"><img src="https://fineartamerica.com/LogoSearchMagnifyingGlass.png" style="max-width: 20px; max-height: 20px; border: none;"></a>
 </div>
 <div id="headershoppingcartdivnew" style="padding: 0px; margin: 0px;">
 <div>
-<a href="http://pixels.com/shoppingcart.html"><img src="https://fineartamerica.com/delete-cart.png" style="max-width: 25px; max-height: 25px; border: none; margin-top: -2px; vertical-align: middle;"></a>
-<p><a href="http://pixels.com/shoppingcart.html" style="color: #DDDDDD; font-family: oswald, arial; font-size: 14pt; font-weight: normal; letter-spacing: 0px; text-shadow: 2px 2px 4px #AAAAAA; text-shadow: none;">CART</a></p>
+<a href="http://pixels.com/shoppingcart.html"><img src="https://fineartamerica.com/images/IconShoppingCart2015.png" style="max-width: 25px; max-height: 25px; border: none; margin-top: -2px; vertical-align: middle;"></a>
+<p><a href="http://pixels.com/shoppingcart.html" style="color: #444444; font-family: oswald, arial; font-size: 16pt; font-weight: normal; letter-spacing: 0px; text-shadow: none;">CART</a></p>
 </div>
 <div id="currencydivselect" style="width: 100%; padding-top: 5px; display: none; position: relative; z-index: 10;">
 <select id="currencyid" name="currencyid" onchange="javascript: window.location = &quot;http://pixels.com/termsofuse.html?document=privacypolicy&amp;currencyid=&quot; + document.getElementById(&quot;currencyid&quot;).value;" style="float: right; width: 70px; margin-top: 0px; margin-right: 0px; font: 8pt arial; color: #666666; border: 1px solid #AAAAAA; border-radius: 4px;">
@@ -282,7 +325,457 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 
 
 </div>
-<div id="headernavigationcontainerdiv">	
+<script type="text/javascript">
+
+	function toggleMobileNavigationDiv()
+	{
+		var containers = document.getElementsByClassName('container');
+		
+		if(document.getElementById('mobileNavigationDiv').style.display != 'inline-block')
+		{
+			var body = document.body;
+			var html = document.documentElement;
+
+			var height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
+			height = height + 'px';
+		
+			for(var i = 0; i < containers.length; i++)
+			{
+				//containers[i].className = 'container containeroffset';
+				containers[i].style.marginLeft = '290px';
+			}		
+			
+			document.getElementById('mobileNavigationDiv').style.display = 'inline-block';
+			document.getElementById('mobileNavigationDiv').style.width = '275px';
+			document.getElementById('mobileNavigationDiv').style.height = height;
+			
+			document.getElementById('mobileNavigationBackgroundDiv').style.display = 'inline-block';
+			document.getElementById('mobileNavigationBackgroundDiv').style.width = '100%';
+			document.getElementById('mobileNavigationBackgroundDiv').style.height = '100%';
+			
+			
+			showMobileMenu('mobileNavigationMenuMain');
+		}
+		else
+		{
+			for(var i = 0; i < containers.length; i++)
+			{
+				//containers[i].className = 'container';
+				containers[i].style.marginLeft = 'auto';
+			}		
+			
+			document.getElementById('mobileNavigationDiv').style.width = '0px';
+			document.getElementById('mobileNavigationDiv').style.display = 'none';
+			document.getElementById('mobileNavigationBackgroundDiv').style.width = '0%';
+			document.getElementById('mobileNavigationBackgroundDiv').style.display = 'none';		
+		}
+	}
+	
+	
+	function showMobileMenu(menuId)
+	{
+
+		var menus = document.getElementsByClassName('mobileNavigationListContainer');
+		
+		for(var i = 0; i < menus.length; i++)
+		{
+			if(menus[i].id == menuId)
+			{
+				menus[i].style.display = 'inline-block';
+			}
+			else
+			{
+				menus[i].style.display = 'none';
+			}
+		}
+	
+	}
+	
+	function toggleMobileSubMenu(menuId)
+	{
+		if(document.getElementById(menuId).style.display != 'inline-block')
+		{
+			var menus = document.getElementsByClassName('mobileNavigationMenuSubList');
+			
+			for(var i = 0; i < menus.length; i++)
+			{
+				menus[i].style.display = 'none';
+			}		
+
+			document.getElementById(menuId).style.display = 'inline-block';
+		}
+		else
+		{
+			document.getElementById(menuId).style.display = 'none';
+		}
+	}
+
+</script>
+<style>
+
+	#mobileNavigationDiv
+	{
+		display: none;
+		position: absolute;
+		z-index: 10001;
+		left: 0px;
+		top: 0px;
+		width: 100px;
+		height: 0%;
+		min-height: 500px;
+		background-color: #FFFFFF;
+		border-right: 1px solid #444444;
+		transition: width 0.125s;
+		text-align: center;
+	}
+	
+	#mobileNavigationBackgroundDiv
+	{
+		display: none;
+		position: fixed;
+		z-index: 10000;
+		left: 0px;
+		top: 0px;
+		width: 0%;
+		height: 0%;
+		background-color: rgba(0,0,0,0.50);
+	}
+	
+	#mobileNavigationInnerDiv
+	{
+		display: inline-block;
+		width: 90%;
+		margin-top: 5px;
+		position: relative;
+	}	
+
+	.mobileNavigationListContainer
+	{
+		position: absolute;
+		top: 0px;
+		left: 0px;
+		width: 100%;
+		display: none;
+		transition: all 0.5s ease-in-out;
+	}
+	
+	.mobileNavigationMenuTopList
+	{
+		width: 100%;
+	}
+	
+	.mobileNavigationMenuTopList > li
+	{
+		display: inline-block;
+		width: 100%;
+		border-top: 1px solid #CCCCCC;
+		font-size: 14pt;
+		font-family: oswald, arial;
+		color: #444444;
+		list-style: none;
+		text-align: left;
+	}
+	
+	.mobileNavigationMenuTopList > li:last-child
+	{
+		border-bottom: 1px solid #CCCCCC;
+	}
+
+	.mobileNavigationMenuTopList > li a, .mobileNavigationMenuTopList > li a:link, .mobileNavigationMenuTopList > li a:active, .mobileNavigationMenuTopList > li a:visited, .mobileNavigationMenuTopList > li a:hover
+	{
+		display: inline-block;
+		width: 100%;
+		padding-top: 5px;
+		padding-bottom: 5px;		
+		font-size: inherit;
+		font-family: inherit;
+		color: inherit;
+	}
+	
+	.mobileNavigationMenuSubList
+	{
+		display: none;
+		width: 100%;
+		padding-top: 0px;
+		padding-bottom: 15px;
+	}
+	
+	.mobileNavigationMenuSubList > li
+	{
+		display: inline-block;
+		width: 100%;
+		border: none;
+		font-size: 10pt;
+		font-family: oswald, arial;
+		color: #666666;
+		list-style: none;
+		text-align: left;	
+	}
+	
+	.mobileNavigationMenuSubList > li:last-child
+	{
+		border-bottom: none;
+	}
+
+	.mobileNavigationMenuSubList > li > a
+	{
+		display: inline-block;
+		width: 100%;
+		font-size: inherit;
+		font-family: inherit;
+		color: inherit;
+		padding-left: 0px;
+	}
+	
+	.mobileNavigationLinkDownArrow
+	{
+		background-image: url('/images/iconDownArrowMobileNavigation.jpg');
+		background-size: auto 35%;
+		background-position: 100% center;
+		background-repeat: no-repeat;	
+	}	
+	
+	.mobileNavigationLinkRightArrow
+	{
+		background-image: url('/images/iconRightArrowMobileNavigation.jpg');
+		background-size: auto 50%;
+		background-position: 100% center;
+		background-repeat: no-repeat;	
+	}
+	
+	.mobileNavigationLinkLeftArrow, .mobileNavigationLinkLeftArrow:link, .mobileNavigationLinkLeftArrow:active, .mobileNavigationLinkLeftArrow:visited, .mobileNavigationLinkLeftArrow:hover
+	{
+		float: left;
+		font-size: 12pt;
+		font-family: oswald, arial;
+		color: #6666666;
+		margin-top: 5px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+		padding-left: 25px;
+		background-image: url('/images/iconLeftArrowMobileNavigation.jpg');
+		background-size: auto 70%;
+		background-position: 0% center;
+		background-repeat: no-repeat;	
+	}	
+	
+	.mobileNavigationBackDiv
+	{
+		display: inline-block;
+		width: 100%;
+		height: 25px;
+		padding-bottom: 15px;
+		overflow: hidden;
+	}
+	
+	.mobileNavigationBackDiv img
+	{
+		float: right;
+		padding-top: 10px;
+	}
+		
+</style>
+<div id="headernavigationcontainerdiv">
+
+	<div id="mobileNavigationBackgroundDiv" onclick="javascript: toggleMobileNavigationDiv();">
+		&nbsp;
+	</div>
+
+	<div id="mobileNavigationDiv">
+			
+		<div id="mobileNavigationInnerDiv">
+		
+			<div id="mobileNavigationMenuMain" class="mobileNavigationListContainer" style="display: inline-block;">
+				
+				<div class="mobileNavigationBackDiv">
+					<a class="mobileNavigationLinkLeftArrow" href="http://pixels.com/index.html" style="padding-left: 0px; padding-right: 25px; font-size: 14pt; background-image: none; color: #444444;">Home</a>
+					<a href="javascript: toggleMobileNavigationDiv();"><img src="/XClearSearch.jpg"></a>
+				</div>				
+				
+				<ul class="mobileNavigationMenuTopList">
+					<li><a class="mobileNavigationLinkRightArrow" href="javascript: showMobileMenu('mobileNavigationMenuShop');">Shop</a></li>
+					<li><a href="http://pixels.com/sell-art-online.html">Sell</a></li>
+					<li><a href="http://pixels.com/create-art-online.html">Create</a></li>
+					<li style="display: none;"><a class="mobileNavigationLinkRightArrow" href="javascript: showMobileMenu('mobileNavigationMenuTour');">Tour</a></li>
+					<li><a class="mobileNavigationLinkRightArrow" href="javascript: showMobileMenu('mobileNavigationMenuCommunity');">Community</a></li>
+					<li style="border-bottom: 1px solid #CCCCCC;"><a class="mobileNavigationLinkRightArrow" href="javascript: showMobileMenu('mobileNavigationMenuAbout');">About</a></li>
+					<li style="margin-top: 40px; border-top: 1px solid #CCCCCC;"><a href="http://pixels.com/registrationartiststep1.php">Join</a></li>
+					<li><a class="mobileNavigationLinkRightArrow" href="javascript: showMobileMenu('mobileNavigationMenuLogin');">Sign In</a></li>
+				</ul>
+				
+			</div>
+			
+			<div id="mobileNavigationMenuShop" class="mobileNavigationListContainer">
+			
+				<div class="mobileNavigationBackDiv">
+					<a class="mobileNavigationLinkLeftArrow" href="javascript: showMobileMenu('mobileNavigationMenuMain');">Back</a>
+					<a href="javascript: toggleMobileNavigationDiv();"><img src="/XClearSearch.jpg"></a>
+				</div>			
+			
+				<ul class="mobileNavigationMenuTopList">
+					<li>
+						<a href="http://pixels.com/art/all/all/all">All Products</a>
+					</li>						
+				
+					<li>
+						<a class="mobileNavigationLinkDownArrow" href="javascript: toggleMobileSubMenu('mobileNavigationSubMenuShopArt');">Wall Art</a>
+						
+						<ul id="mobileNavigationSubMenuShopArt" class="mobileNavigationMenuSubList">
+							<li><a href="http://pixels.com/art/all/all/canvas+prints">Canvas Prints</a></li>
+							<li><a href="http://pixels.com/art/all/all/framed+prints">Framed Prints</a></li>
+							<li><a href="http://pixels.com/art/all/all/metal+prints">Metal Prints</a></li>
+							<li><a href="http://pixels.com/art/all/all/acrylic+prints">Acrylic Prints</a></li>
+							<li><a href="http://pixels.com/art/all/all/prints">Prints</a></li>
+							<li><a href="http://pixels.com/art/all/all/posters">Posters</a></li>
+						</ul>
+					
+					</li>
+					<li>
+						<a class="mobileNavigationLinkDownArrow" href="javascript: toggleMobileSubMenu('mobileNavigationSubMenuShopHomeDecor');">Home Decor</a>
+						
+						<ul id="mobileNavigationSubMenuShopHomeDecor" class="mobileNavigationMenuSubList">
+							<li><a href="http://pixels.com/art/all/all/throw+pillows">Throw Pillows</a></li>
+							<li><a href="http://pixels.com/art/all/all/duvet+covers">Duvet Covers</a></li>
+							<li><a href="http://pixels.com/art/all/all/shower+curtains">Shower Curtains</a></li>
+						</ul>
+						
+					</li>
+					
+					<li>
+						<a class="mobileNavigationLinkDownArrow" href="javascript: toggleMobileSubMenu('mobileNavigationSubMenuShopiPhoneCases');">iPhone Cases</a>
+					
+						<ul id="mobileNavigationSubMenuShopiPhoneCases" class="mobileNavigationMenuSubList">
+							<li><a href="http://pixels.com/art/all/all/iphone+cases">iPhone Cases</a></li>
+							<li><a href="http://pixels.com/art/all/all/iphone+6splus+cases">iPhone 6s Plus Cases</a></li>
+							<li><a href="http://pixels.com/art/all/all/iphone+6s+cases">iPhone 6s Cases</a></li>
+							<li><a href="http://pixels.com/art/all/all/iphone+6plus+cases">iPhone 6 Plus Cases</a></li>
+							<li><a href="http://pixels.com/art/all/all/iphone+6+cases">iPhone 6Cases</a></li>
+							<li><a href="http://pixels.com/art/all/all/iphone+5+cases">iPhone 5/5s Cases</a></li>
+							<li><a href="http://pixels.com/art/all/all/iphone+5c+cases">iPhone 5c Cases</a></li>
+							<li><a href="http://pixels.com/art/all/all/iphone+4+cases">iPhone 4/4s Cases</a></li>
+						</ul>
+						
+					</li>
+					
+					<li>
+						<a class="mobileNavigationLinkDownArrow" href="javascript: toggleMobileSubMenu('mobileNavigationSubMenuShopGalaxyCases');">Galaxy Cases</a>
+					
+						<ul id="mobileNavigationSubMenuShopGalaxyCases" class="mobileNavigationMenuSubList">
+							<li><a href="http://pixels.com/art/all/all/galaxy+cases">Galaxy Cases</a></li>
+							<li><a href="http://pixels.com/art/all/all/galaxy+s6+cases">Galaxy S6 Cases</a></li>
+							<li><a href="http://pixels.com/art/all/all/galaxy+s5+cases">Galaxy S5 Cases</a></li>
+							<li><a href="http://pixels.com/art/all/all/galaxy+s4+cases">Galaxy S4 Cases</a></li>
+						</ul>
+						
+					</li>					
+					
+					<li>
+						<a class="mobileNavigationLinkDownArrow" href="javascript: toggleMobileSubMenu('mobileNavigationSubMenuShopMensApparel');">Mens's Apparel</a>					
+					
+						<ul id="mobileNavigationSubMenuShopMensApparel" class="mobileNavigationMenuSubList">
+							<li><a href="http://pixels.com/art/all/all/tshirts">T-Shirts</a></li>
+							<li><a href="http://pixels.com/art/all/all/premium+tshirts">Premium T-Shirts</a></li>
+							<li><a href="http://pixels.com/art/all/all/slim+fit+tshirts">Slim Fit T-Shirts</a></li>
+							<li><a href="http://pixels.com/art/all/all/vneck+tshirts">V-Neck T-Shirts</a></li>
+							<li><a href="http://pixels.com/art/all/all/long+sleeve+tshirts">Long Sleeve T-Shirts</a></li>
+							<li><a href="http://pixels.com/art/all/all/ringer+tshirts">Baseball T-Shirts</a></li>
+							<li><a href="http://pixels.com/art/all/all/tank+tops">Tank Tops</a></li>
+							<li><a href="http://pixels.com/art/all/all/sweatshirts">Hooded Sweatshirts</a></li>
+							<li><a href="http://pixels.com/art/all/all/tote+bags">Tote Bags</a></li>
+						</ul>					
+					
+					</li>
+					
+					<li>
+						<a class="mobileNavigationLinkDownArrow" href="javascript: toggleMobileSubMenu('mobileNavigationSubMenuShopWomensApparel');">Women's Apparel</a>					
+					
+						<ul id="mobileNavigationSubMenuShopWomensApparel" class="mobileNavigationMenuSubList">
+							<li><a href="http://pixels.com/art/all/all/womens+tshirts">T-Shirts</a></li>
+							<li><a href="http://pixels.com/art/all/all/junior+tshirts">Junior T-Shirts</a></li>
+							<li><a href="http://pixels.com/art/all/all/junior+vneck+tshirts">V-Neck T-Shirts</a></li>
+							<li><a href="http://pixels.com/art/all/all/slim+fit+tshirts">Slim Fit T-Shirts</a></li>
+							<li><a href="http://pixels.com/art/all/all/long+sleeve+tshirts">Long Sleeve T-Shirts</a></li>
+							<li><a href="http://pixels.com/art/all/all/tank+tops">Tank Tops</a></li>
+							<li><a href="http://pixels.com/art/all/all/sweatshirts">Hooded Sweatshirts</a></li>
+							<li><a href="http://pixels.com/art/all/all/tote+bags">Tote Bags</a></li>
+						</ul>					
+					
+					</li>
+
+					<li>
+						<a class="mobileNavigationLinkDownArrow" href="javascript: toggleMobileSubMenu('mobileNavigationSubMenuShopChildApparel');">Toddlers &amp; Babies</a>					
+					
+						<ul id="mobileNavigationSubMenuShopChildApparel" class="mobileNavigationMenuSubList">
+							<li><a href="http://pixels.com/art/all/all/youth+tshirts">Youth T-Shirts</a></li>
+							<li><a href="http://pixels.com/art/all/all/toddler+tshirts">Toddler T-Shirts</a></li>
+							<li><a href="http://pixels.com/art/all/all/baby+onesies">Baby Onesies</a></li>
+						</ul>					
+					
+					</li>					
+					
+					<li><a href="http://pixels.com/art/all/all/greeting+cards">Greeting Cards</a></li>
+					<li><a href="http://pixels.com/art/all/all/tote+bags">Tote Bags</a></li>
+				</ul>
+				
+			</div>			
+			
+				
+			<div id="mobileNavigationMenuCommunity" class="mobileNavigationListContainer">
+				
+				<div class="mobileNavigationBackDiv">
+					<a class="mobileNavigationLinkLeftArrow" href="javascript: showMobileMenu('mobileNavigationMenuMain');">Back</a>
+					<a href="javascript: toggleMobileNavigationDiv();"><img src="/XClearSearch.jpg"></a>
+				</div>			
+				
+				<ul class="mobileNavigationMenuTopList">
+					<li><a href="http://pixels.com/artistdirectory.html">Meet the Members</a></li>
+					<li><a href="http://pixels.com/discussions.html">Discussions</a></li>
+					<li><a href="http://pixels.com/groups.html">Groups</a></li>
+					<li><a href="http://pixels.com/contests.html">Contests</a></li>
+					<li><a href="http://pixels.com/upcomingevents.html">Events</a></li>
+					<li><a href="http://pixels.com/onlinemembers.html">Who's Online</a></li>
+					<li><a href="http://pixels.com/registrationartiststep1.php">Join</a></li>
+				</ul>
+				
+			</div>
+
+			<div id="mobileNavigationMenuLogin" class="mobileNavigationListContainer">
+				
+				<div class="mobileNavigationBackDiv">
+					<a class="mobileNavigationLinkLeftArrow" href="javascript: showMobileMenu('mobileNavigationMenuMain');">Back</a>
+					<a href="javascript: toggleMobileNavigationDiv();"><img src="/XClearSearch.jpg"></a>
+				</div>			
+				
+				<ul class="mobileNavigationMenuTopList">
+					<li><a href="http://pixels.com/loginartist.php">Artists</a></li>
+					<li><a href="http://pixels.com/logingallery.php">Galleries</a></li>
+					<li><a href="http://pixels.com/logincollector.php">Buyers</a></li>
+				</ul>
+				
+			</div>			
+			
+			<div id="mobileNavigationMenuAbout" class="mobileNavigationListContainer">
+				
+				<div class="mobileNavigationBackDiv">
+					<a class="mobileNavigationLinkLeftArrow" href="javascript: showMobileMenu('mobileNavigationMenuMain');">Back</a>
+					<a href="javascript: toggleMobileNavigationDiv();"><img src="/XClearSearch.jpg"></a>
+				</div>			
+				
+				<ul class="mobileNavigationMenuTopList">
+					<li><a href="http://pixels.com/aboutthissite.html">About Us</a></li>
+					<li><a href="http://pixels.com/contactus.html">Contact Us</a></li>
+					<li><a href="http://pixels.com/iphone-app.html?autoplay=true">iOS App</a></li>
+					<li><a href="http://pixels.com/android-phone-app.html?autoplay=true">Android App</a></li>
+					<li><a href="http://pixels.com/videos.html?videotype=tvcommercials">TV Commercials</a></li>
+					<li><a href="http://pixels.com/videos.html?videotype=radiocommercials">Radio Commercials</a></li>
+					<li><a href="http://pixels.com/moneybackguarantee.html">Satisfaction Guarantee</a></li>
+				</ul>
+				
+			</div>			
+			
+		</div>
+		
+	</div>
 	
 	<div class="container">
 	
@@ -292,7 +785,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 			<div id="headernavigationmenuleftdiv">
 <ul class="navigationmenu">
 <li id="mtopthreelines">
-<a href="http://pixels.com/index.html" onmouseover="javascript: mpreopen2('mthreelines2','mtopthreelines');" onmouseout="javascript: mclosetime();" style="display: block; width: 30px;">
+<a href="javascript: toggleMobileNavigationDiv();" style="display: block; width: 30px;">
 <div style="float: left; width: 100%; height: 3px; padding: 0px; overflow: hidden; margin-bottom: 3px; background-color: #FFFFFF; border-radius: 0px;">
 &nbsp;
 </div>
@@ -303,60 +796,6 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 &nbsp;
 </div>
 </a>
-<div class="navigationmenudropdown" id="mthreelines2" onmouseover="mcancelclosetime();" onmouseout="mclosetime();">
-<div style="float: left; width: 100%; padding-top: 0px; text-align: justify;">
-<div class="headernavigationmenutextdiv">
-<div>
-<p><a href="http://pixels.com/art/all/all/all">Shop</a></p>
-<p style="display: none;"><a href="http://pixels.com/art/all/all/all">Shop</a></p>
-</div>	
-<ul class="headernavigationmenutextlist">
-<li><a href="http://pixels.com/art/all/all/canvas+prints">Canvas Prints</a></li>
-<li><a href="http://pixels.com/art/all/all/framed+prints">Framed Prints</a></li>
-<li><a href="http://pixels.com/art/all/all/metal+prints">Metal Prints</a></li>
-<li><a href="http://pixels.com/art/all/all/acrylic+prints">Acrylic Prints</a></li>
-<li><a href="http://pixels.com/art/all/all/prints">Standard Prints</a></li>
-<li><a href="http://pixels.com/art/all/all/posters">Posters</a></li>
-<li><a href="http://pixels.com/art/all/all/iphone+6plus+cases">iPhone Cases</a></li>
-<li><a href="http://pixels.com/art/all/all/galaxy+s5+cases">Galaxy S5 Cases</a></li>
-</ul>
-</div>
-<div class="headernavigationmenutextdiv">
-<div>
-<p><a href="http://pixels.com/discussions.html">Community</a></p>
-</div>
-<ul class="headernavigationmenutextlist">
-<li><a href="http://pixels.com/discussions.html">Discussions</a></li>
-<li><a href="http://pixels.com/artistdirectory.html">Members</a></li>
-<li><a href="http://pixels.com/groups.html">Groups</a></li>
-<li><a href="http://pixels.com/contests.html">Contests</a></li>
-<li><a href="http://pixels.com/upcomingevents.html">Events</a></li>
-<li><a href="http://pixels.com/pressreleasedirectory.html">News</a></li>
-<li><a href="http://pixels.com/blogs.html">Blogs</a></li>
-<li><a href="http://pixels.com/chat.html">Chat</a></li>
-<li><a href="http://pixels.com/activity.html">Activity</a></li>
-<li><a href="http://pixels.com/onlinemembers.html">Who's Online</a></li>
-</ul>
-</div>
-<div class="headernavigationmenutextdiv">
-<div>
-<p><a href="http://pixels.com/aboutthissite.html">About</a></p>
-</div>
-<ul class="headernavigationmenutextlist">
-<li><a href="http://pixels.com/aboutthissite.html">About Pixels.com</a></li>
-<li><a href="http://pixels.com/announcements.html">Announcements</a></li>
-<li><a href="http://pixels.com/membershipplans.html">Membership Plans</a></li>
-<li><a href="http://pixels.com/openanaccount.html">Join</a></li>
-<li><a href="http://pixels.com/contactus.html?tab=faq">FAQ</a></li>
-<li><a href="http://pixels.com/giftcertificates.html">Gift Certificates</a></li>
-<li><a href="http://pixels.com/ordersamplekit.html">Sample Kits</a></li>
-</ul>
-</div>
-<div style="display: inline-block; width: 100%;">
-&nbsp;
-</div>
-</div>
-</div>
 </li>
 <li id="mtopshop">
 <a href="http://pixels.com/art/all/all/all?sort=featured" onmouseover="javascript: mpreopen2('mshop2','mtopshop');" onmouseout="javascript: mclosetime();">Shop<img src="https://fineartamerica.com/HeaderNavigationArrowDown.png" style="display: none;"></a>
@@ -381,18 +820,18 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 											
 											<div class="headerproductdiv">
 												<div>
-													<a href="http://pixels.com/art/all/all/canvas+prints"><img src="https://fineartamerica.com/images/HeaderIconCanvasPrints.jpg" style="padding-left: 5px;"></a>
+													<a href="http://pixels.com/art/all/all/canvas+prints"><img src="https://fineartamerica.com/images/HeaderIconCanvasPrints.jpg" style="padding-left: 5px;" alt="Canvas Prints" title="Canvas Prints"></a>
 												</div>
 											
 												<div style="float: left; width: 100%;">
-													<p><a href="http://pixels.com/http://pixels.com/art/all/all/canvas+prints">Canvas Prints</a></p>
+													<p><a href="http://pixels.com/art/all/all/canvas+prints">Canvas Prints</a></p>
 												</div>	
 											
 											</div>								
 											
 											<div class="headerproductdiv headerproductdivshadow">
 												<div>
-													<a href="http://pixels.com/art/all/all/framed+prints"><img src="https://fineartamerica.com/images/HeaderIconFramedPrints.jpg"></a>
+													<a href="http://pixels.com/art/all/all/framed+prints"><img src="https://fineartamerica.com/images/HeaderIconFramedPrints.jpg" alt="Framed Prints" title="Framed Prints"></a>
 												</div>
 											
 												<div style="float: left; width: 100%;">
@@ -403,7 +842,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 										
 											<div class="headerproductdiv">
 												<div>
-													<a href="http://pixels.com/art/all/all/metal+prints"><img src="https://fineartamerica.com/images/HeaderIconMetalPrints.jpg"></a>
+													<a href="http://pixels.com/art/all/all/metal+prints"><img src="https://fineartamerica.com/images/HeaderIconMetalPrints.jpg" alt="Metal Prints" title="Metal Prints"></a>
 												</div>
 											
 												<div style="float: left; width: 100%;">
@@ -414,7 +853,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 
 											<div class="headerproductdiv">
 												<div>
-													<a href="http://pixels.com/art/all/all/acrylic+prints"><img src="https://fineartamerica.com/images/HeaderIconAcrylicPrints.jpg" style="padding-top: 3px;"></a>
+													<a href="http://pixels.com/art/all/all/acrylic+prints"><img src="https://fineartamerica.com/images/HeaderIconAcrylicPrints.jpg" style="padding-top: 3px;" alt="Acrylic Prints" title="Acrylic Prints"></a>
 												</div>
 											
 												<div style="float: left; width: 100%;">
@@ -425,18 +864,18 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 
 											<div class="headerproductdiv headerproductdivshadow">
 												<div>
-													<a href="http://pixels.com/art/all/all/prints"><img src="https://fineartamerica.com/images/HeaderIconPrints.jpg" style="border: 1px solid #999999;"></a>
+													<a href="http://pixels.com/art/all/all/prints"><img src="https://fineartamerica.com/images/HeaderIconPrints.jpg" style="border: 1px solid #999999;" alt="Prints" title="Prints"></a>
 												</div>
 											
 												<div style="float: left; width: 100%;">
-													<p><a href="http://pixels.com/art/all/all/prints">Standard Prints</a></p>
+													<p><a href="http://pixels.com/art/all/all/prints">Art Prints</a></p>
 												</div>	
 											
 											</div>
 											
 											<div class="headerproductdiv headerproductdivshadow">
 												<div>
-													<a href="http://pixels.com/art/all/all/posters"><img src="https://fineartamerica.com/images/HeaderIconPosters.jpg" style="border: 1px solid #666666;"></a>
+													<a href="http://pixels.com/art/all/all/posters"><img src="https://fineartamerica.com/images/HeaderIconPosters.jpg" style="border: 1px solid #666666;" alt="Posters" title="Posters"></a>
 												</div>
 											
 												<div style="float: left; width: 100%;">
@@ -447,7 +886,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 											
 											<div class="headerproductdiv">
 												<div>
-													<a href="http://pixels.com/art/all/all/greeting+cards"><img src="https://fineartamerica.com/images/HeaderIconGreetingCards.jpg" style="padding-left: 5px;"></a>
+													<a href="http://pixels.com/art/all/all/greeting+cards"><img src="https://fineartamerica.com/images/HeaderIconGreetingCards.jpg" style="padding-left: 5px;" alt="Greeting Cards" title="Greeting Cards"></a>
 												</div>
 											
 												<div style="float: left; width: 100%;">
@@ -458,7 +897,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 											
 											<div class="headerproductdiv">
 												<div>
-													<a href="http://pixels.com/art/all/all/throw+pillows"><img src="https://fineartamerica.com/images/HeaderIconThrowPillows.jpg" style="padding-left: 5px;"></a>
+													<a href="http://pixels.com/art/all/all/throw+pillows"><img src="https://fineartamerica.com/images/HeaderIconThrowPillows.jpg" style="padding-left: 5px;" alt="Throw Pillows" title="Throw Pillows"></a>
 												</div>
 											
 												<div style="float: left; width: 100%;">
@@ -469,7 +908,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 
 											<div class="headerproductdiv">
 												<div>
-													<a href="http://pixels.com/art/all/all/duvet+covers"><img src="https://fineartamerica.com/images/HeaderIconDuvetCovers.jpg" style="padding-left: 5px;"></a>
+													<a href="http://pixels.com/art/all/all/duvet+covers"><img src="https://fineartamerica.com/images/HeaderIconDuvetCovers.jpg" style="padding-left: 5px;" alt="Duvet Covers" title="Duvet Covers"></a>
 												</div>
 											
 												<div style="float: left; width: 100%;">
@@ -478,11 +917,58 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 											
 											</div>												
 											
-																						
+											<div class="headerproductdiv">
+												<div>
+													<a href="http://pixels.com/art/all/all/shower+curtains"><img src="https://fineartamerica.com/images/HeaderIconShowerCurtains.jpg" style="padding-left: 0px;" alt="Shower Curtains" title="Shower Curtains"></a>
+												</div>
+											
+												<div style="float: left; width: 100%;">
+													<p><a href="http://pixels.com/art/all/all/shower+curtains">Shower Curtains</a></p>
+												</div>	
+											
+											</div>											
 											
 											<div class="headerproductdiv">
 												<div>
-													<a href="http://pixels.com/art/all/all/iphone+cases"><img src="https://fineartamerica.com/images/HeaderIconIPhoneCases.jpg" style="padding-top: 5px;"></a>
+													<a href="http://pixels.com/art/all/all/tote+bags"><img src="https://fineartamerica.com/images/HeaderIconToteBags.jpg" style="padding-left: 0px;" alt="Tote Bags" title="Tote Bags"></a>
+												</div>
+											
+												<div style="float: left; width: 100%;">
+													<p><a href="http://pixels.com/art/all/all/tote+bags">Tote Bags</a></p>
+												</div>	
+											
+											</div>											
+											
+																								
+														<div class="headerproductdiv">
+															
+															<div>
+																<a href="http://pixels.com/art/all/all/tshirts"><img src="https://fineartamerica.com/images/HeaderIconMensClothing.jpg" alt="T-Shirts" title="T-Shirts"></a>
+															</div>
+														
+															<div style="float: left; width: 100%;">
+																<p><a href="http://pixels.com/art/all/all/tshirts">Men's T-Shirts</a></p>
+															</div>	
+														
+														</div>												
+
+														<div class="headerproductdiv">
+															
+															<div>
+																<a href="http://pixels.com/art/all/all/womens+tshirts"><img src="https://fineartamerica.com/images/HeaderIconWomensClothing.jpg" alt="Women's T-Shirts" title="Women's T-Shirts"></a>
+															</div>
+														
+															<div style="float: left; width: 100%;">
+																<p><a href="http://pixels.com/art/all/all/womens+tshirts">Women's T-Shirts</a></p>
+															</div>	
+														
+														</div>														
+													
+																								
+											
+											<div class="headerproductdiv">
+												<div>
+													<a href="http://pixels.com/art/all/all/iphone+cases"><img src="https://fineartamerica.com/images/HeaderIconIPhoneCases.jpg" style="padding-top: 5px;" alt="iPhone Cases" title="iPhone Cases"></a>
 												</div>
 											
 												<div style="float: left; width: 100%;">
@@ -493,7 +979,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 											
 											<div class="headerproductdiv">
 												<div>
-													<a href="http://pixels.com/art/all/all/galaxy+s5+cases"><img src="https://fineartamerica.com/images/HeaderIconGalaxyCases.jpg" style="padding-top: 5px;"></a>
+													<a href="http://pixels.com/art/all/all/galaxy+s5+cases"><img src="https://fineartamerica.com/images/HeaderIconGalaxyCases.jpg" style="padding-top: 5px;" alt="Galaxy Cases" title="Galaxy Cases"></a>
 												</div>
 											
 												<div style="float: left; width: 100%;">
@@ -504,7 +990,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 
 											<div class="headerproductdiv headerproductdivshadow">
 												<div>
-													<a href="http://pixels.com/art/paintings/all/all"><img src="https://fineartamerica.com/images/HeaderIconPaintings.jpg" style="border: 1px solid #666666;"></a>
+													<a href="http://pixels.com/art/paintings/all/all"><img src="https://fineartamerica.com/images/HeaderIconPaintings.jpg" style="border: 1px solid #666666;" alt="Paintings" title="Paintings"></a>
 												</div>
 											
 												<div style="float: left; width: 100%;">
@@ -515,7 +1001,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 											
 											<div class="headerproductdiv headerproductdivshadow">
 												<div>
-													<a href="http://pixels.com/art/photographs/all/all"><img src="https://fineartamerica.com/images/HeaderIconPhotographs.jpg" style="border: 1px solid #666666;"></a>
+													<a href="http://pixels.com/art/photographs/all/all"><img src="https://fineartamerica.com/images/HeaderIconPhotographs.jpg" style="border: 1px solid #666666;" alt="Photos" title="Photos"></a>
 												</div>
 											
 												<div style="float: left; width: 100%;">
@@ -526,7 +1012,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 											
 											<div class="headerproductdiv headerproductdivshadow">
 												<div>
-													<a href="http://pixels.com/art/digital+art/all/all"><img src="https://fineartamerica.com/images/HeaderIconDigitalArt.jpg" style="border: 1px solid #666666;"></a>
+													<a href="http://pixels.com/art/digital+art/all/all"><img src="https://fineartamerica.com/images/HeaderIconDigitalArt.jpg" style="border: 1px solid #666666;" alt="Digital Art" title="Digital Art"></a>
 												</div>
 											
 												<div style="float: left; width: 100%;">
@@ -537,7 +1023,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 
 											<div class="headerproductdiv headerproductdivshadow">
 												<div>
-													<a href="http://pixels.com/art/drawings/all/all"><img src="https://fineartamerica.com/images/HeaderIconDrawings.jpg" style="border: 1px solid #666666;"></a>
+													<a href="http://pixels.com/art/drawings/all/all"><img src="https://fineartamerica.com/images/HeaderIconDrawings.jpg" style="border: 1px solid #666666;" alt="Drawings" title="Drawings"></a>
 												</div>
 											
 												<div style="float: left; width: 100%;">
@@ -548,7 +1034,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 											
 											<div class="headerproductdiv headerproductdivshadow">
 												<div>
-													<a href="http://pixels.com/art/mixed+media/all/all"><img src="https://fineartamerica.com/images/HeaderIconMixedMedia.jpg" style="border: 1px solid #666666;"></a>
+													<a href="http://pixels.com/art/mixed+media/all/all"><img src="https://fineartamerica.com/images/HeaderIconMixedMedia.jpg" style="border: 1px solid #666666;" alt="Mixed Media" title="Mixed Media"></a>
 												</div>
 											
 												<div style="float: left; width: 100%;">
@@ -559,7 +1045,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 
 											<div class="headerproductdiv">
 												<div>
-													<a href="http://pixels.com/art/all/all/originals"><img src="https://fineartamerica.com/images/HeaderIconOriginals.jpg"></a>
+													<a href="http://pixels.com/art/all/all/originals"><img src="https://fineartamerica.com/images/HeaderIconOriginals.jpg" alt="Original Art" title="Original Art"></a>
 												</div>
 											
 												<div style="float: left; width: 100%;">
@@ -570,7 +1056,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 																			
 											<div class="headerproductdiv">
 												<div>
-													<a href="http://pixels.com/giftcertificates.html"><img src="https://fineartamerica.com/images/HeaderIconGiftCards.jpg"></a>
+													<a href="http://pixels.com/giftcertificates.html"><img src="https://fineartamerica.com/images/HeaderIconGiftCards.jpg" alt="Gift Cards" title="Gift Cards"></a>
 												</div>
 											
 												<div style="float: left; width: 100%;">
@@ -581,7 +1067,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 											
 											<div class="headerproductdiv">
 												<div>
-													<a href="http://pixels.com/samplekits.html"><img src="https://fineartamerica.com/images/HeaderIconSampleKits.jpg"></a>
+													<a href="http://pixels.com/samplekits.html"><img src="https://fineartamerica.com/images/HeaderIconSampleKits.jpg" alt="Sample Kits" title="Sample Kits"></a>
 												</div>
 											
 												<div style="float: left; width: 100%;">
@@ -592,7 +1078,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 											
 											<div class="headerproductdiv">
 												<div>
-													<a href="http://pixels.com/art/all/all/special+promotions"><img src="https://fineartamerica.com/images/HeaderIconLimitedTimePromotions.jpg"></a>
+													<a href="http://pixels.com/art/all/all/special+promotions"><img src="https://fineartamerica.com/images/HeaderIconLimitedTimePromotions.jpg" alt="Limited Time" title="Limited Time"></a>
 												</div>
 											
 												<div style="float: left; width: 100%;">
@@ -604,7 +1090,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 											<div class="headerproductdiv headerproductdivshadow">
 												
 												<div>
-													<a href="http://pixels.com/create-art-online.html"><img src="https://fineartamerica.com/images/HeaderIconCreateYourOwn.jpg" style="border: 1px solid #666666;"></a>
+													<a href="http://pixels.com/create-art-online.html"><img src="https://fineartamerica.com/images/HeaderIconCreateYourOwn.jpg" style="border: 1px solid #666666;" alt="Create Your Own Products" title="Create Your Own Products"></a>
 												</div>
 											
 												<div style="float: left; width: 100%;">
@@ -638,7 +1124,6 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 												<li><a href="http://pixels.com/artworktags.html">Popular Keywords</a></li>
 												<li><a href="http://pixels.com/newartwork.html">Today's Uploads</a></li>
 												<li><a href="http://pixels.com/newcomments.html">Today's Comments</a></li>
-												<li><a href="http://pixels.com/artworkbycolor.html">Colors</a></li>												
 
 											</ul>
 										
@@ -700,8 +1185,8 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 
 										<div class="headernavigationmenutextdiv">
 <div>
-<p><a href="http://pixels.com/collections.html?grouptype=featured&amp;clearsearch=true">Collections</a></p>
-<p><a href="http://pixels.com/collections.html?grouptype=featured&amp;clearsearch=true">View All</a></p>
+<p><a href="http://pixels.com/collections/all/all/all">Collections</a></p>
+<p><a href="http://pixels.com/collections/all/all/all">View All</a></p>
 </div>
 <ul class="headernavigationmenutextlist">
 <li><a href="http://pixels.com/art/all/all/all/college+town">College Town</a></li>
@@ -715,7 +1200,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 <li><a href="http://pixels.com/art/all/all/all/science+collection">Science Collection</a></li>
 <li><a href="http://pixels.com/art/all/all/all/steampunk">Steampunk</a></li>
 <li><a href="http://pixels.com/art/all/all/all/stocktrek+images">Stocktrek Images</a></li>
-<li><a href="http://pixels.com/collections.html">More...</a></li>
+<li><a href="http://pixels.com/collections/all/all/all">More...</a></li>
 </ul>
 </div>
 	
@@ -765,7 +1250,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 											<li><a href="http://pixels.com/art/all/all/framed+prints">Framed Prints</a></li>							
 											<li><a href="http://pixels.com/art/all/all/metal+prints">Metal Prints</a></li>
 											<li><a href="http://pixels.com/art/all/all/acrylic+prints">Acrylic Prints</a></li>
-											<li><a href="http://pixels.com/art/all/all/prints">Standard Prints</a></li>		
+											<li><a href="http://pixels.com/art/all/all/prints">Art Prints</a></li>		
 											<li><a href="http://pixels.com/art/all/all/posters">Posters</a></li>											
 											<li><a href="http://pixels.com/art/all/all/all">View All</a></li>
 											
@@ -782,7 +1267,8 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 										</div>		
 
 										<ul class="headernavigationmenutextlist">
-										
+											
+											<li><a href="http://pixels.com/art/all/all/iphone+cases">iPhone Cases</a></li>
 											<li><a href="http://pixels.com/art/all/all/iphone+6plus+cases">iPhone 6 Plus Cases</a></li>
 											<li><a href="http://pixels.com/art/all/all/iphone+6+cases">iPhone 6 Cases</a></li>							
 											<li><a href="http://pixels.com/art/all/all/iphone+5s+cases">iPhone 5S Cases</a></li>
@@ -790,6 +1276,8 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 											<li><a href="http://pixels.com/art/all/all/iphone+5+cases">iPhone 5 Cases</a></li>		
 											<li><a href="http://pixels.com/art/all/all/iphone+4s+cases">iPhone 4S Cases</a></li>											
 											<li><a href="http://pixels.com/art/all/all/iphone+4s+cases">iPhone 4 Cases</a></li>
+											<li><a href="http://pixels.com/art/all/all/galaxy+cases">Galaxy Cases</a></li>
+											<li><a href="http://pixels.com/art/all/all/galaxy+s6+cases">Galaxy S6 Cases</a></li>
 											<li><a href="http://pixels.com/art/all/all/galaxy+s5+cases">Galaxy S5 Cases</a></li>
 											<li><a href="http://pixels.com/art/all/all/galaxy+s4+cases">Galaxy S4 Cases</a></li>											
 											
@@ -809,13 +1297,73 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 										
 											<li><a href="http://pixels.com/art/all/all/throw+pillows">Throw Pillows</a></li>
 											<li><a href="http://pixels.com/art/all/all/duvet+covers">Duvet Covers</a></li>
+											<li><a href="http://pixels.com/art/all/all/shower+curtains">Shower Curtains</a></li>
 											
 										</ul>												
 									
 									</div>
 									
 									
-																		
+																				
+											<!-- Men's Clothing -->
+											<div class="headernavigationmenutextdiv">		
+												
+												<div>
+													<p><a href="http://pixels.com/art/all/all/tshirts">Men's Apparel</a></p>
+													<p style="display: none;"><a href="http://pixels.com/art/all/all/tshirts">View All</a></p>
+												</div>		
+
+												<ul class="headernavigationmenutextlist">
+												
+													<li><a href="http://pixels.com/art/all/all/tshirts">T-Shirts</a></li>
+													<li><a href="http://pixels.com/art/all/all/slim+fit+tshirts">Slim Fit T-Shirts</a></li>
+													<li><a href="http://pixels.com/art/all/all/vneck+tshirts">V-Neck T-Shirts</a></li>
+													<li><a href="http://pixels.com/art/all/all/long+sleeve+tshirts">Long Sleeve T-Shirts</a></li>
+													<li><a href="http://pixels.com/art/all/all/sweatshirts">Sweatshirts / Hoodies</a></li>
+													
+												</ul>												
+											
+											</div>
+
+
+											<!-- Women's Clothing -->
+											<div class="headernavigationmenutextdiv">		
+												
+												<div>
+													<p><a href="http://pixels.com/art/all/all/womens+tshirts">Women's Apparel</a></p>
+													<p style="display: none;"><a href="http://pixels.com/art/all/all/womens+tshirts">View All</a></p>
+												</div>		
+
+												<ul class="headernavigationmenutextlist">
+												
+													<li><a href="http://pixels.com/art/all/all/womens+tshirts">Women's T-Shirts</a></li>
+													<li><a href="http://pixels.com/art/all/all/junior+vneck+tshirts">Women's V-Neck T-Shirts</a></li>
+													<li><a href="http://pixels.com/art/all/all/junior+tshirts">Junior T-Shirts</a></li>
+													
+												</ul>												
+											
+											</div>
+
+
+											<!-- Youth Clothing -->
+											<div class="headernavigationmenutextdiv">		
+												
+												<div>
+													<p><a href="http://pixels.com/art/all/all/youth+tshirts">Youth Apparel</a></p>
+												</div>		
+
+												<ul class="headernavigationmenutextlist">
+												
+													<li><a href="http://pixels.com/art/all/all/youth+tshirts">Youth T-Shirts</a></li>
+													<li><a href="http://pixels.com/art/all/all/toddler+tshirts">Toddler T-Shirts</a></li>
+													<li><a href="http://pixels.com/art/all/all/baby+onesies">Baby Onesies</a></li>
+													
+												</ul>												
+											
+											</div>											
+											
+											
+																				
 
 									<!-- Greeting Cards -->
 									<div class="headernavigationmenutextdiv">		
@@ -833,6 +1381,23 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 									
 									</div>
 
+									
+									<!-- Greeting Cards -->
+									<div class="headernavigationmenutextdiv">		
+										
+										<div>
+											<p><a href="http://pixels.com/art/all/all/tote+bags">Bags</a></p>
+											<p style="display: none;"><a href="http://pixels.com/art/all/all/tote+bags">View All</a></p>
+										</div>		
+
+										<ul class="headernavigationmenutextlist">
+										
+											<li><a href="http://pixels.com/art/all/all/tote+bags">Tote Bags</a></li>
+											
+										</ul>												
+									
+									</div>									
+									
 
 									<!-- Miscellaneous -->
 									<div class="headernavigationmenutextdiv">		
@@ -863,7 +1428,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 							
 							</li>
 <li id="mtopcollections">
-<a href="http://pixels.com/collections.html?grouptype=featured" onmouseover="javascript: mpreopen2('mcollections2','mtopcollections');" onmouseout="javascript: mclosetime();">Collections</a>
+<a href="http://pixels.com/collections/all/all/all" onmouseover="javascript: mpreopen2('mcollections2','mtopcollections');" onmouseout="javascript: mclosetime();">Collections</a>
 								
 								<!-- Collections -->
 								<div class="navigationmenudropdown" id="mcollections2" onmouseover="mcancelclosetime();" onmouseout="mclosetime();" style="padding-bottom: 0px;">
@@ -876,19 +1441,19 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 											<div class="headernavigationmenutextdiv">		
 												
 												<div>
-													<p><a href="http://pixels.com/collections.html?grouptype=rooms&amp;clearsearch=true">Rooms</a></p>
+													<p><a href="http://pixels.com/collections/all/all/rooms">Rooms</a></p>
 												</div>										
 										
 												<ul class="headernavigationmenutextlist">
 												
-													<li><a href="http://pixels.com/collections.html?grouptype=rooms&amp;url=living+room">Living Room</a></li>
-													<li><a href="http://pixels.com/collections.html?grouptype=rooms&amp;url=kitchen">Kitchen</a></li>
-													<li><a href="http://pixels.com/collections.html?grouptype=rooms&amp;url=master+bedroom">Master Bedroom</a></li>
-													<li><a href="http://pixels.com/collections.html?grouptype=rooms&amp;url=home+theater">Home Theater</a></li>
-													<li><a href="http://pixels.com/collections.html?grouptype=rooms&amp;url=boys+room">Boy's Bedroom</a></li>
-													<li><a href="http://pixels.com/collections.html?grouptype=rooms&amp;url=girls+room">Girl's Bedroom</a></li>
-													<li><a href="http://pixels.com/collections.html?grouptype=rooms&amp;url=babys+room">Nursery / Baby's Room</a></li>												
-													<li><a href="http://pixels.com/collections.html?grouptype=rooms&amp;clearsearch=true">View All</a></li>
+													<li><a href="http://pixels.com/collections/all/all/rooms/living+room">Living Room</a></li>
+													<li><a href="http://pixels.com/collections/all/all/rooms/kitchen">Kitchen</a></li>
+													<li><a href="http://pixels.com/collections/all/all/rooms/master+bedroom">Master Bedroom</a></li>
+													<li><a href="http://pixels.com/collections/all/all/rooms/home+theater">Home Theater</a></li>
+													<li><a href="http://pixels.com/collections/all/all/rooms/boys+room">Boy's Bedroom</a></li>
+													<li><a href="http://pixels.com/collections/all/all/rooms/girls+room">Girl's Bedroom</a></li>
+													<li><a href="http://pixels.com/collections/all/all/rooms/babys+room">Nursery / Baby's Room</a></li>												
+													<li><a href="http://pixels.com/collections/all/all/rooms">View All</a></li>
 													
 												</ul>
 
@@ -899,19 +1464,19 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 											<div class="headernavigationmenutextdiv">		
 												
 												<div>
-													<p><a href="http://pixels.com/collections.html?grouptype=housestyles&amp;clearsearch=true">House Styles</a></p>
+													<p><a href="http://pixels.com/collections/all/all/housestyles">House Styles</a></p>
 												</div>										
 										
 												<ul class="headernavigationmenutextlist">
 												
-													<li><a href="http://pixels.com/collections.html?grouptype=housestyles&amp;url=beach">Beach House</a></li>
-													<li><a href="http://pixels.com/collections.html?grouptype=housestyles&amp;url=contemporary">Contemporary</a></li>
-													<li><a href="http://pixels.com/collections.html?grouptype=housestyles&amp;url=modern">Modern</a></li>
-													<li><a href="http://pixels.com/collections.html?grouptype=housestyles&amp;url=cabin">Rustic Cabin</a></li>
-													<li><a href="http://pixels.com/collections.html?grouptype=housestyles&amp;url=southwest">Southwest</a></li>
-													<li><a href="http://pixels.com/collections.html?grouptype=housestyles&amp;url=bachelor+pad">Bachelor Pad</a></li>
-													<li><a href="http://pixels.com/collections.html?grouptype=housestyles&amp;url=big+city">City Condo / Apartment</a></li>
-													<li><a href="http://pixels.com/collections.html?grouptype=housestyles&amp;clearsearch=true">View All</a></li>
+													<li><a href="http://pixels.com/collections/all/all/housestyles/beach">Beach House</a></li>
+													<li><a href="http://pixels.com/collections/all/all/housestyles/contemporary">Contemporary</a></li>
+													<li><a href="http://pixels.com/collections/all/all/housestyles/modern">Modern</a></li>
+													<li><a href="http://pixels.com/collections/all/all/housestyles/cabin">Rustic Cabin</a></li>
+													<li><a href="http://pixels.com/collections/all/all/housestyles/southwest">Southwest</a></li>
+													<li><a href="http://pixels.com/collections/all/all/housestyles/bachelor+pad">Bachelor Pad</a></li>
+													<li><a href="http://pixels.com/collections/all/all/housestyles/big+city">City Condo / Apartment</a></li>
+													<li><a href="http://pixels.com/collections/all/all/housestyles">View All</a></li>
 													
 												</ul>
 
@@ -921,19 +1486,19 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 											<div class="headernavigationmenutextdiv">		
 												
 												<div>
-													<p><a href="http://pixels.com/collections.html?grouptype=hobbiesinterests&amp;clearsearch=true">Hobbies &amp; Interests</a></p>
+													<p><a href="http://pixels.com/collections/all/all/hobbiesinterests">Hobbies &amp; Interests</a></p>
 												</div>										
 										
 												<ul class="headernavigationmenutextlist">
 												
-													<li><a href="http://pixels.com/collections.html?grouptype=hobbiesinterests&amp;url=animal+lover">Animal Lover</a></li>
-													<li><a href="http://pixels.com/collections.html?grouptype=hobbiesinterests&amp;url=car+enthusiast">Car Enthusiast</a></li>
-													<li><a href="http://pixels.com/collections.html?grouptype=hobbiesinterests&amp;url=comic+book+collector">Comic Book Collector</a></li>
-													<li><a href="http://pixels.com/collections.html?grouptype=hobbiesinterests&amp;url=craft+beer+drinker">Beer Connoisseur</a></li>
-													<li><a href="http://pixels.com/collections.html?grouptype=hobbiesinterests&amp;url=movie+buff">Movie Buff</a></li>
-													<li><a href="http://pixels.com/collections.html?grouptype=hobbiesinterests&amp;url=music+lover">Music Lover</a></li>
-													<li><a href="http://pixels.com/collections.html?grouptype=hobbiesinterests&amp;url=wine+drinker">Wine Drinker</a></li>
-													<li><a href="http://pixels.com/collections.html?grouptype=hobbiesinterests&amp;clearsearch=true">View All</a></li>
+													<li><a href="http://pixels.com/collections/all/all/hobbiesinterests/animal+lover">Animal Lover</a></li>
+													<li><a href="http://pixels.com/collections/all/all/hobbiesinterests/car+enthusiast">Car Enthusiast</a></li>
+													<li><a href="http://pixels.com/collections/all/all/hobbiesinterests/comic+book+collector">Comic Book Collector</a></li>
+													<li><a href="http://pixels.com/collections/all/all/hobbiesinterests/craft+beer+drinker">Beer Connoisseur</a></li>
+													<li><a href="http://pixels.com/collections/all/all/hobbiesinterests/url=movie+buff">Movie Buff</a></li>
+													<li><a href="http://pixels.com/collections/all/all/hobbiesinterests/url=music+lover">Music Lover</a></li>
+													<li><a href="http://pixels.com/collections/all/all/hobbiesinterests/url=wine+drinker">Wine Drinker</a></li>
+													<li><a href="http://pixels.com/collections/all/all/hobbiesinterests">View All</a></li>
 													
 												</ul>
 
@@ -943,19 +1508,19 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 											<div class="headernavigationmenutextdiv">		
 												
 												<div>
-													<p><a href="http://pixels.com/collections.html?grouptype=jobsprofessions&amp;clearsearch=true">Professions</a></p>
+													<p><a href="http://pixels.com/collections/all/all/jobsprofessions">Professions</a></p>
 												</div>										
 										
 												<ul class="headernavigationmenutextlist">
 												
-													<li><a href="http://pixels.com/collections.html?grouptype=jobsprofessions&amp;url=architect">Architect</a></li>
-													<li><a href="http://pixels.com/collections.html?grouptype=jobsprofessions&amp;url=artist">Artist</a></li>
-													<li><a href="http://pixels.com/collections.html?grouptype=jobsprofessions&amp;url=1-chef">Chef</a></li>
-													<li><a href="http://pixels.com/collections.html?grouptype=jobsprofessions&amp;url=graphic+designer">Graphic Designer</a></li>
-													<li><a href="http://pixels.com/collections.html?grouptype=jobsprofessions&amp;url=mechanic">Mechanic</a></li>
-													<li><a href="http://pixels.com/collections.html?grouptype=jobsprofessions&amp;url=scientist">Scientist</a></li>
-													<li><a href="http://pixels.com/collections.html?grouptype=jobsprofessions&amp;url=teacher">Teacher</a></li>
-													<li><a href="http://pixels.com/collections.html?grouptype=jobsprofessions&amp;clearsearch=true">View All</a></li>
+													<li><a href="http://pixels.com/collections/all/all/jobsprofessions/architect">Architect</a></li>
+													<li><a href="http://pixels.com/collections/all/all/jobsprofessions/artist">Artist</a></li>
+													<li><a href="http://pixels.com/collections/all/all/jobsprofessions/1-chef">Chef</a></li>
+													<li><a href="http://pixels.com/collections/all/all/jobsprofessions/graphic+designer">Graphic Designer</a></li>
+													<li><a href="http://pixels.com/collections/all/all/jobsprofessions/mechanic">Mechanic</a></li>
+													<li><a href="http://pixels.com/collections/all/all/jobsprofessions/scientist">Scientist</a></li>
+													<li><a href="http://pixels.com/collections/all/all/jobsprofessions/teacher">Teacher</a></li>
+													<li><a href="http://pixels.com/collections/all/all/jobsprofessions">View All</a></li>
 													
 												</ul>
 
@@ -966,19 +1531,19 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 											<div class="headernavigationmenutextdiv">		
 												
 												<div>
-													<p><a href="http://pixels.com/collections.html?grouptype=holidaysoccasions&amp;clearsearch=true">Holidays &amp; Occasions</a></p>
+													<p><a href="http://pixels.com/collections/all/all/holidaysoccasions">Holidays &amp; Occasions</a></p>
 												</div>										
 										
 												<ul class="headernavigationmenutextlist">
 												
-													<li><a href="http://pixels.com/collections.html?grouptype=holidaysoccasions&amp;url=birthday">Birthday</a></li>
-													<li><a href="http://pixels.com/collections.html?grouptype=holidaysoccasions&amp;url=christmas">Christmas</a></li>
-													<li><a href="http://pixels.com/collections.html?grouptype=holidaysoccasions&amp;url=easter">Easter</a></li>
-													<li><a href="http://pixels.com/collections.html?grouptype=holidaysoccasions&amp;url=halloween">Halloween</a></li>
-													<li><a href="http://pixels.com/collections.html?grouptype=holidaysoccasions&amp;url=independence+day">Independence Day</a></li>
-													<li><a href="http://pixels.com/collections.html?grouptype=holidaysoccasions&amp;url=thanksgiving">Thanksgiving</a></li>
-													<li><a href="http://pixels.com/collections.html?grouptype=holidaysoccasions&amp;url=valentines+day">Valentine's Day</a></li>
-													<li><a href="http://pixels.com/collections.html?grouptype=holidaysoccasions&amp;clearsearch=true">View All</a></li>
+													<li><a href="http://pixels.com/collections/all/all/holidaysoccasions/birthday">Birthday</a></li>
+													<li><a href="http://pixels.com/collections/all/all/holidaysoccasions/christmas">Christmas</a></li>
+													<li><a href="http://pixels.com/collections/all/all/holidaysoccasions/easter">Easter</a></li>
+													<li><a href="http://pixels.com/collections/all/all/holidaysoccasions/halloween">Halloween</a></li>
+													<li><a href="http://pixels.com/collections/all/all/holidaysoccasions/independence+day">Independence Day</a></li>
+													<li><a href="http://pixels.com/collections/all/all/holidaysoccasions/thanksgiving">Thanksgiving</a></li>
+													<li><a href="http://pixels.com/collections/all/all/holidaysoccasions/valentines+day">Valentine's Day</a></li>
+													<li><a href="http://pixels.com/collections/all/all/holidaysoccasions">View All</a></li>
 													
 												</ul>										
 										
@@ -994,7 +1559,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 									
 											<div style="display: inline-block; width: 100%; padding-bottom: 10px; text-align: center;">
 
-												<a href="http://pixels.com/collections.html?grouptype=featured&amp;clearsearch=true" style="display: inline-block; padding-top: 10px; font: 9pt arial; text-decoration: underline;">View All Collections</a>
+												<a href="http://pixels.com/collections/all/all/all" style="display: inline-block; padding-top: 10px; font: 9pt arial; text-decoration: underline;">View All Collections</a>
 											
 											</div>
 									
@@ -1005,7 +1570,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 												
 																	
 												
-												<form id="headercollectionssearchform" name="headercollectionssearchform" style="float: left; width: 100%; height: 100%;" method="post" action="http://pixels.com/collections.html?grouptype=featured">
+												<form id="headercollectionssearchform" name="headercollectionssearchform" style="float: left; width: 100%; height: 100%;" method="post" action="http://pixels.com/collections/all/all/all">
 												
 													<input type="textbox" id="headersearch02" name="keywordsearchcollectiongroups" onclick="javascript: userenteringkeyword();" style="float: left; width: 200px; padding-top: 7px; padding-bottom: 8px; padding-left: 10px; background-color: #FFFFFF; border: none; box-shadow: none; outline: none; font: 9pt arial; color: #000000;" placeholder="Search Collections">
 													
@@ -1340,7 +1905,9 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 											</div>
 											
 											<ul class="headernavigationmenutextlist">
+												<li><a href="http://pixels.com/iphone-app.html?autoplay=true">iPhone App</a></li>
 												<li><a href="http://pixels.com/app?autoplay=true">iPad App</a></li>
+												<li><a href="http://pixels.com/android-phone-app.html?autoplay=true">Android App</a></li>
 												<li><a href="http://pixels.com/apidocumentation.html">API</a></li>
 											</ul>
 
@@ -1399,7 +1966,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 </div>
 			
 			
-			<div id="mshop" onmouseover="mcancelclosetime();" onmouseout="mclosetime();" style="position: absolute; left: 0px; z-index: 2000; width: 100%; margin-top: 1px; visibility: hidden;">
+			<div id="mshop" onmouseover="mcancelclosetime();" onmouseout="mclosetime();" style="position: absolute; left: 0px; z-index: 2000; width: 100%; margin-top: -2px; visibility: hidden;">
 
 				<div id="headerarrow" style="position: absolute; z-index: 5000; top: -24px; width: 47px; height: 24px; overflow: hidden;"><img src="https://fineartamerica.com/HeaderVerticalArrowAccentTransparent.png" style="float: left; border: none;"></div>
 				<div style="position: absolute; z-index: 4999; top: 0px; padding: 25px; margin-top: -1px; background-color: #FAFAFA; border: 1px solid #999999; border-radius: 0px; border-top-left-radius: 0px; border-top-right-radius: 0px; box-shadow: 0px 5px 25px -15px #EEEEEE; background-color: #FFFFFF;">
@@ -1420,18 +1987,18 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 								
 								<div class="headerproductdiv">
 									<div>
-										<a href="http://pixels.com/art/all/all/canvas+prints"><img src="https://fineartamerica.com/images/HeaderIconCanvasPrints.jpg" style="padding-left: 5px;"></a>
+										<a href="http://pixels.com/art/all/all/canvas+prints"><img src="https://fineartamerica.com/images/HeaderIconCanvasPrints.jpg" style="padding-left: 5px;" alt="Canvas Prints" title="Canvas Prints"></a>
 									</div>
 								
 									<div style="float: left; width: 100%;">
-										<p><a href="http://pixels.com/http://pixels.com/art/all/all/canvas+prints">Canvas Prints</a></p>
+										<p><a href="http://pixels.com/art/all/all/canvas+prints">Canvas Prints</a></p>
 									</div>	
 								
 								</div>								
 								
 								<div class="headerproductdiv headerproductdivshadow">
 									<div>
-										<a href="http://pixels.com/art/all/all/framed+prints"><img src="https://fineartamerica.com/images/HeaderIconFramedPrints.jpg"></a>
+										<a href="http://pixels.com/art/all/all/framed+prints"><img src="https://fineartamerica.com/images/HeaderIconFramedPrints.jpg" alt="Framed Prints" title="Framed Prints"></a>
 									</div>
 								
 									<div style="float: left; width: 100%;">
@@ -1442,7 +2009,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 							
 								<div class="headerproductdiv">
 									<div>
-										<a href="http://pixels.com/art/all/all/metal+prints"><img src="https://fineartamerica.com/images/HeaderIconMetalPrints.jpg"></a>
+										<a href="http://pixels.com/art/all/all/metal+prints"><img src="https://fineartamerica.com/images/HeaderIconMetalPrints.jpg" alt="Metal Prints" title="Metal Prints"></a>
 									</div>
 								
 									<div style="float: left; width: 100%;">
@@ -1453,7 +2020,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 
 								<div class="headerproductdiv">
 									<div>
-										<a href="http://pixels.com/art/all/all/acrylic+prints"><img src="https://fineartamerica.com/images/HeaderIconAcrylicPrints.jpg" style="padding-top: 3px;"></a>
+										<a href="http://pixels.com/art/all/all/acrylic+prints"><img src="https://fineartamerica.com/images/HeaderIconAcrylicPrints.jpg" style="padding-top: 3px;" alt="Acrylic Prints" title="Acrylic Prints"></a>
 									</div>
 								
 									<div style="float: left; width: 100%;">
@@ -1464,18 +2031,18 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 
 								<div class="headerproductdiv headerproductdivshadow">
 									<div>
-										<a href="http://pixels.com/art/all/all/prints"><img src="https://fineartamerica.com/images/HeaderIconPrints.jpg" style="border: 1px solid #999999;"></a>
+										<a href="http://pixels.com/art/all/all/prints"><img src="https://fineartamerica.com/images/HeaderIconPrints.jpg" style="border: 1px solid #999999;" alt="Prints" title="Prints"></a>
 									</div>
 								
 									<div style="float: left; width: 100%;">
-										<p><a href="http://pixels.com/art/all/all/prints">Standard Prints</a></p>
+										<p><a href="http://pixels.com/art/all/all/prints">Art Prints</a></p>
 									</div>	
 								
 								</div>
 								
 								<div class="headerproductdiv headerproductdivshadow">
 									<div>
-										<a href="http://pixels.com/art/all/all/posters"><img src="https://fineartamerica.com/images/HeaderIconPosters.jpg" style="border: 1px solid #666666;"></a>
+										<a href="http://pixels.com/art/all/all/posters"><img src="https://fineartamerica.com/images/HeaderIconPosters.jpg" style="border: 1px solid #666666;" alt="Posters" title="Posters"></a>
 									</div>
 								
 									<div style="float: left; width: 100%;">
@@ -1486,7 +2053,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 								
 								<div class="headerproductdiv">
 									<div>
-										<a href="http://pixels.com/art/all/all/greeting+cards"><img src="https://fineartamerica.com/images/HeaderIconGreetingCards.jpg" style="padding-left: 5px;"></a>
+										<a href="http://pixels.com/art/all/all/greeting+cards"><img src="https://fineartamerica.com/images/HeaderIconGreetingCards.jpg" style="padding-left: 5px;" alt="Greeting Cards" title="Greeting Cards"></a>
 									</div>
 								
 									<div style="float: left; width: 100%;">
@@ -1497,7 +2064,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 								
 								<div class="headerproductdiv">
 									<div>
-										<a href="http://pixels.com/art/all/all/throw+pillows"><img src="https://fineartamerica.com/images/HeaderIconThrowPillows.jpg" style="padding-left: 5px;"></a>
+										<a href="http://pixels.com/art/all/all/throw+pillows"><img src="https://fineartamerica.com/images/HeaderIconThrowPillows.jpg" style="padding-left: 5px;" alt="Throw Pillows" title="Throw Pillows"></a>
 									</div>
 								
 									<div style="float: left; width: 100%;">
@@ -1508,22 +2075,68 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 
 								<div class="headerproductdiv">
 									<div>
-										<a href="http://pixels.com/art/all/all/duvet+covers"><img src="https://fineartamerica.com/images/HeaderIconDuvetCovers.jpg" style="padding-left: 5px;"></a>
+										<a href="http://pixels.com/art/all/all/duvet+covers"><img src="https://fineartamerica.com/images/HeaderIconDuvetCovers.jpg" style="padding-left: 5px;" alt="Duvet Covers" title="Duvet Covers"></a>
 									</div>
 								
 									<div style="float: left; width: 100%;">
 										<p><a href="http://pixels.com/art/all/all/duvet+covers">Duvet Covers</a></p>
 									</div>	
 								
-								</div>								
-								
+								</div>
 
-																
+								<div class="headerproductdiv">
+									<div>
+										<a href="http://pixels.com/art/all/all/shower+curtains"><img src="https://fineartamerica.com/images/HeaderIconShowerCurtains.jpg" style="padding-left: 0px;" alt="Shower Curtains" title="Shower Curtains"></a>
+									</div>
+								
+									<div style="float: left; width: 100%;">
+										<p><a href="http://pixels.com/art/all/all/shower+curtains">Shower Curtains</a></p>
+									</div>	
+								
+								</div>								
+
+								<div class="headerproductdiv">
+									<div>
+										<a href="http://pixels.com/art/all/all/tote+bags"><img src="https://fineartamerica.com/images/HeaderIconToteBags.jpg" style="padding-left: 0px;" alt="Tote Bags" title="Tote Bags"></a>
+									</div>
+								
+									<div style="float: left; width: 100%;">
+										<p><a href="http://pixels.com/art/all/all/tote+bags">Tote Bags</a></p>
+									</div>	
+								
+								</div>								
+
+																		
+											<div class="headerproductdiv">
+												
+												<div>
+													<a href="http://pixels.com/art/all/all/tshirts"><img src="https://fineartamerica.com/images/HeaderIconMensClothing.jpg" alt="T-Shirts" title="T-Shirts"></a>
+												</div>
+											
+												<div style="float: left; width: 100%;">
+													<p><a href="http://pixels.com/art/all/all/tshirts">Men's T-Shirts</a></p>
+												</div>	
+											
+											</div>
+
+											<div class="headerproductdiv">
+												
+												<div>
+													<a href="http://pixels.com/art/all/all/womens+tshirts"><img src="https://fineartamerica.com/images/HeaderIconWomensClothing.jpg" alt="Women's T-Shirts" title="Women's T-Shirts"></a>
+												</div>
+											
+												<div style="float: left; width: 100%;">
+													<p><a href="http://pixels.com/art/all/all/womens+tshirts">Women's T-Shirts</a></p>
+												</div>	
+											
+											</div>											
+										
+																		
 								
 								
 								<div class="headerproductdiv">
 									<div>
-										<a href="http://pixels.com/art/all/all/iphone+cases"><img src="https://fineartamerica.com/images/HeaderIconIPhoneCases.jpg" style="padding-top: 5px;"></a>
+										<a href="http://pixels.com/art/all/all/iphone+cases"><img src="https://fineartamerica.com/images/HeaderIconIPhoneCases.jpg" style="padding-top: 5px;" alt="iPhone Cases" title="iPhone Cases"></a>
 									</div>
 								
 									<div style="float: left; width: 100%;">
@@ -1534,7 +2147,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 								
 								<div class="headerproductdiv">
 									<div>
-										<a href="http://pixels.com/art/all/all/galaxy+s5+cases"><img src="https://fineartamerica.com/images/HeaderIconGalaxyCases.jpg" style="padding-top: 5px;"></a>
+										<a href="http://pixels.com/art/all/all/galaxy+s5+cases"><img src="https://fineartamerica.com/images/HeaderIconGalaxyCases.jpg" style="padding-top: 5px;" alt="Galaxy Cases" title="Galaxy Cases"></a>
 									</div>
 								
 									<div style="float: left; width: 100%;">
@@ -1545,7 +2158,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 
 								<div class="headerproductdiv headerproductdivshadow">
 									<div>
-										<a href="http://pixels.com/art/paintings/all/all"><img src="https://fineartamerica.com/images/HeaderIconPaintings.jpg" style="border: 1px solid #666666;"></a>
+										<a href="http://pixels.com/art/paintings/all/all"><img src="https://fineartamerica.com/images/HeaderIconPaintings.jpg" style="border: 1px solid #666666;" alt="Paintings" title="Paintings"></a>
 									</div>
 								
 									<div style="float: left; width: 100%;">
@@ -1556,7 +2169,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 								
 								<div class="headerproductdiv headerproductdivshadow">
 									<div>
-										<a href="http://pixels.com/art/photographs/all/all"><img src="https://fineartamerica.com/images/HeaderIconPhotographs.jpg" style="border: 1px solid #666666;"></a>
+										<a href="http://pixels.com/art/photographs/all/all"><img src="https://fineartamerica.com/images/HeaderIconPhotographs.jpg" style="border: 1px solid #666666;" alt="Photos" title="Photos"></a>
 									</div>
 								
 									<div style="float: left; width: 100%;">
@@ -1567,7 +2180,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 								
 								<div class="headerproductdiv headerproductdivshadow">
 									<div>
-										<a href="http://pixels.com/art/digital+art/all/all"><img src="https://fineartamerica.com/images/HeaderIconDigitalArt.jpg" style="border: 1px solid #666666;"></a>
+										<a href="http://pixels.com/art/digital+art/all/all"><img src="https://fineartamerica.com/images/HeaderIconDigitalArt.jpg" style="border: 1px solid #666666;" alt="Digital Art" title="Digital Art"></a>
 									</div>
 								
 									<div style="float: left; width: 100%;">
@@ -1578,7 +2191,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 
 								<div class="headerproductdiv headerproductdivshadow">
 									<div>
-										<a href="http://pixels.com/art/drawings/all/all"><img src="https://fineartamerica.com/images/HeaderIconDrawings.jpg" style="border: 1px solid #666666;"></a>
+										<a href="http://pixels.com/art/drawings/all/all"><img src="https://fineartamerica.com/images/HeaderIconDrawings.jpg" style="border: 1px solid #666666;" alt="Drawings" title="Drawings"></a>
 									</div>
 								
 									<div style="float: left; width: 100%;">
@@ -1589,7 +2202,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 								
 								<div class="headerproductdiv headerproductdivshadow">
 									<div>
-										<a href="http://pixels.com/art/mixed+media/all/all"><img src="https://fineartamerica.com/images/HeaderIconMixedMedia.jpg" style="border: 1px solid #666666;"></a>
+										<a href="http://pixels.com/art/mixed+media/all/all"><img src="https://fineartamerica.com/images/HeaderIconMixedMedia.jpg" style="border: 1px solid #666666;" alt="Mixed Media" title="Mixed Media"></a>
 									</div>
 								
 									<div style="float: left; width: 100%;">
@@ -1600,7 +2213,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 
 								<div class="headerproductdiv">
 									<div>
-										<a href="http://pixels.com/art/all/all/originals"><img src="https://fineartamerica.com/images/HeaderIconOriginals.jpg"></a>
+										<a href="http://pixels.com/art/all/all/originals"><img src="https://fineartamerica.com/images/HeaderIconOriginals.jpg" alt="Original Artwork" title="Original Artwork"></a>
 									</div>
 								
 									<div style="float: left; width: 100%;">
@@ -1611,7 +2224,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 																
 								<div class="headerproductdiv">
 									<div>
-										<a href="http://pixels.com/giftcertificates.html"><img src="https://fineartamerica.com/images/HeaderIconGiftCards.jpg"></a>
+										<a href="http://pixels.com/giftcertificates.html"><img src="https://fineartamerica.com/images/HeaderIconGiftCards.jpg" alt="Gift Cards" title="Gift Cards"></a>
 									</div>
 								
 									<div style="float: left; width: 100%;">
@@ -1622,7 +2235,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 								
 								<div class="headerproductdiv">
 									<div>
-										<a href="http://pixels.com/samplekits.html"><img src="https://fineartamerica.com/images/HeaderIconSampleKits.jpg"></a>
+										<a href="http://pixels.com/samplekits.html"><img src="https://fineartamerica.com/images/HeaderIconSampleKits.jpg" alt="Sample Kits" title="Sample Kits"></a>
 									</div>
 								
 									<div style="float: left; width: 100%;">
@@ -1633,7 +2246,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 								
 								<div class="headerproductdiv">
 									<div>
-										<a href="http://pixels.com/art/all/all/special+promotions"><img src="https://fineartamerica.com/images/HeaderIconLimitedTimePromotions.jpg"></a>
+										<a href="http://pixels.com/art/all/all/special+promotions"><img src="https://fineartamerica.com/images/HeaderIconLimitedTimePromotions.jpg" alt="Limited Time" title="Limited Time"></a>
 									</div>
 								
 									<div style="float: left; width: 100%;">
@@ -1645,7 +2258,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 								<div class="headerproductdiv headerproductdivshadow">
 									
 									<div>
-										<a href="http://pixels.com/create-art-online.html"><img src="https://fineartamerica.com/images/HeaderIconCreateYourOwn.jpg" style="border: 1px solid #666666;"></a>
+										<a href="http://pixels.com/create-art-online.html"><img src="https://fineartamerica.com/images/HeaderIconCreateYourOwn.jpg" style="border: 1px solid #666666;" alt="Create Your Own Products" title="Create Your Own Products"></a>
 									</div>
 								
 									<div style="float: left; width: 100%;">
@@ -1679,7 +2292,6 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 									<li><a href="http://pixels.com/artworktags.html">Popular Keywords</a></li>
 									<li><a href="http://pixels.com/newartwork.html">Today's Uploads</a></li>
 									<li><a href="http://pixels.com/newcomments.html">Today's Comments</a></li>
-									<li><a href="http://pixels.com/artworkbycolor.html">Colors</a></li>												
 
 								</ul>
 							
@@ -1783,7 +2395,8 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 	</div>
 
 </div>	
-				
+
+					
 
 			<div id="maindiv" style="display: inline-block; width: 920px; margin: auto; margin-top: 25px; overflow: hidden; text-align: left;">
 
