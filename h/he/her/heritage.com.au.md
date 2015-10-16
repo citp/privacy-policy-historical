@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heritage.com.au privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230083740id_/http%3A//www.heritage.com.au/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heritage.com.au privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016132246id_/https%3A//www.heritage.com.au/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -167,7 +167,7 @@ You may also obtain further information about privacy (including general privacy
 
 ## How will your complaint be handled?
 
-While Heritage resolves as many complaints as possible at Branch or Contact Centre level, complaints regarding privacy are referred directly to Heritage's Privacy Officer. The matter will be investigated by the branch or area involved in the complaint and the Member Relations Manager, and the outcome of which is communicated to the Privacy Officer.
+While Heritage resolves as many complaints as possible at Branch or Contact Centre level, complaints regarding privacy are referred directly to Heritage's Privacy Officer. The matter will be investigated by the branch or area involved in the complaint and the Customer Relations Manager, and the outcome of which is communicated to the Privacy Officer.
 
 Staff receiving the complaint may be the contact point with the customer and can assure the customer that Heritage has a process to deal with privacy issues. The complaint will be acknowledged within 5 days of receipt, although we will seek to acknowledge the complaint sooner. The complaint will be investigated and if it cannot be resolved within 21 days, Heritage will inform the customer of the progress to date and let them know how long we expect it will take. Unless there are exceptional circumstances involved in the resolution process, the investigation will be completed within 45 days of receiving the complaint. 
 
@@ -177,9 +177,9 @@ If we are unable to resolve your complaint to your satisfaction within 45 days, 
 
 Our external dispute resolution service is: 
 
-Financial Ombudsman Service (FOS) GPO Box 3 Melbourne, Victoria, 3001 Ph: 1300 78 08 08 Fax: 03 9613 6399 Website: www.fos.org.au Email: [info@fos.org.au](mailto:info@fos.org.au)
+Financial Ombudsman Service (FOS) GPO Box 3 Melbourne, Victoria, 3001 Ph: 1800 367 287 Fax: 03 9613 6399 Website: www.fos.org.au Email: [info@fos.org.au](mailto:info@fos.org.au)
 
-## General Approach
+## General Approach 
 
 Your personal information privacy is important to Heritage. Heritage respects your right to be aware of who has information about you, what they are doing with it and why, and who else they are sharing it with. Heritage has adopted a privacy compliance culture that cements this relationship with you. Its foundation is the _Privacy Act 1988_.
 
