@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exava.com privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526105226id_/http%3A//www.exava.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exava.com privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016030235id_/http%3A//www.exava.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Exava.com Online Shopping
 
