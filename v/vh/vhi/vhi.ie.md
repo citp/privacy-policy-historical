@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vhi.ie privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314231921id_/https%3A//www.vhi.ie/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vhi.ie privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016232957id_/https%3A//www.vhi.ie/privacy-policy) for the most accurate reproduction.*
 
 # VHI Privacy Policy
 
@@ -40,7 +40,7 @@ Clinical audit is a clinically led quality improvement process that seeks to imp
 You have the right, subject to certain exemptions, to obtain a copy of any personal data which we hold about you (for which we may charge you a small fee) and to have inaccuracies in the information corrected. If you wish to avail of any of these rights, please write to the 
 
 **Data Protection Officer  
-Vhi Healthcare  
+Vhi  
 Vhi House  
 20 Lower Abbey Street  
 Dublin 1**
@@ -58,7 +58,7 @@ We may update this Data Protection Statement from time to time, the latest copy 
 If you have any queries regarding your data, please write to the
 
 **Data Protection Officer  
-Vhi Healthcare  
+Vhi  
 Vhi House  
 20 Lower Abbey Street  
 Dublin 1**
@@ -116,7 +116,7 @@ If you visit our site to browse, read or download we automatically collect and s
 You have the right, subject to certain exemptions, to obtain a copy of any personal data which we hold about you (for which we may charge you a small fee) and to have inaccuracies in the information corrected. If you wish to avail of any of these rights, please write to the 
 
 **Data Protection Officer  
-Vhi Healthcare  
+Vhi  
 Vhi House  
 20 Lower Abbey Street  
 Dublin 1**
@@ -134,7 +134,7 @@ We may update this Data Protection Statement from time to time. By continuing to
 If you have any queries regarding your data, please write to the
 
 **Data Protection Officer  
-Vhi Healthcare  
+Vhi  
 Vhi House  
 20 Lower Abbey Street  
 Dublin 1**
