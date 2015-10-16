@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the graphicmail.com privacy policy that was archived on 2015-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150523015624id_/http%3A//graphicmail.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphicmail.com privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016083828id_/http%3A//graphicmail.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bulk Email Software | GraphicMail
+
+## GraphicMail Email Marketing Privacy Policy
 
 **Effective Date:    02 February 2015**
 
