@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ecstuning.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120131040id_/http%3A//www.ecstuning.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecstuning.com privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016131950id_/https%3A//www.ecstuning.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # ECStuning.com
 
 ## What information do we collect?
 
-We collect information from you when you register on our site, place an order, subscribe to our newsletter or Giveaway. When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
+We collect information from you when you register on our site, place an order, subscribe to our newsletter or Giveaway. When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously. We may also obtain information from other sources and combine that with information we collect through our Sites. For example, we may have access to your Facebook username, first name, last name and email address.
 
 ## What do we use your information for?
 
@@ -22,11 +22,15 @@ Note: If at any time you would like to unsubscribe from receiving future emails,
 
 ## How do we protect your information?
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our payment gateway providers database only to be accessible by those authorized with special access rights to such systems.
+ECS Tuning uses a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access personal information. We offer the use of a secure server. All supplied sensitive/payment information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our payment gateway providers database. At this point the only data that is stored is the unique payment token which is an encrypted set of alphanumeric characters which is only accessible by those authorized with special access rights to such systems. This unique token is stored on ECS system and is only valid when used from the ECS System. Physical credit card data is never stored in our system.
+
+ECS Tuning offers the opportunity to store payment information in the account page on the website. This payment information is secured according to the information above. Stored payment data will only be active until the expiration date specified, or until the authorization expires. ECS Tuning will reauthorize stored payment methods every 11 months in order to keep the authorization active. Stored payment information will be deactivated if we are unable to reauthorize after three attempts.
 
 ## Do we use cookies?
 
-Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. We use cookies to help us remember and process the items in your shopping cart.
+Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. We use cookies to help us remember and process the items in your shopping cart, and to provide a superior shopping experience
+
+In addition, these cookies are used by third party partners of ECS Tuning in order to manage our advertising on other third party web sites. These third party partners will use cookies to gather information related to your activities on our website and other browsing history in order to provide advertising material based on your browsing activities and interests.
 
 **Cookies must be enabled within your web browser settings to place an order.**
 
@@ -38,7 +42,7 @@ Yes. JavaScript is a standard coding language that is often used to add interact
 
 ## Do we disclose any information to outside parties?
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third party partners who assist us in operating our website, conducting our business, providing promotional or advertising activities, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
 ## California Online Privacy Protection Act Compliance
 
@@ -54,15 +58,19 @@ This online privacy policy applies only to information collected through our web
 
 ## Terms of Use
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Terms of Use](http://www.ecstuning.com/TermsOfUse/)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Terms of Use](https://www.ecstuning.com/TermsOfUse/)
 
 ## Your Consent
 
 By using our site, you consent to our websites privacy policy.
 
+## Social Sharing Features
+
+The Sites may offer social sharing features and other integrated tools (such as the Facebook "Like" or "Share" buttons), which let you share actions you take on our website with other media sources. The use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.
+
 ## Changes to our Privacy Policy
 
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. This policy was last modified on 01/13/2014 
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. This policy was last modified on 04/03/2015 
 
 ## Contact Us
 
