@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamezasia.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625091902id_/http%3A//www.gamezasia.com/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamezasia.com privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016030253id_/http%3A//www.gamezasia.com/privacy/index.htm) for the most accurate reproduction.*
 
 # Privacy Policy | gamezasia.com
 
