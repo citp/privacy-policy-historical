@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fullstory.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314234003id_/https%3A//www.fullstory.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullstory.com privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016150838id_/https%3A//www.fullstory.com/legal/privacy) for the most accurate reproduction.*
 
 # Terms of Service | FullStory
 
@@ -16,7 +16,7 @@ That is why we require all websites that use FullStory (including this one) to c
 
 Getting a few definitions out of the way should help you understand this policy.
 
-> When we say "we," "us," "our" and "FullStory," we're referring to Monetology, LLC d.b.a. FullStory, a State of Delaware limited liability company. We may also use "FullStory" to refer to the script and services we provide to our customers. Which meaning we're using should be clear from the context. 
+> When we say "we," "us," "our" and "FullStory," we're referring to FullStory, Inc., a State of Delaware limited liability company. We may also use "FullStory" to refer to the script and services we provide to our customers. Which meaning we're using should be clear from the context. 
 
 > "FullStory customer" or "customer" refers to a website owner who signs up with FullStory. We make it clear when information in this Privacy Policy applies only to FullStory customers. In those sections, we will use "you" and "your" to refer to a website owner who has signed up with FullStory. 
 
@@ -100,7 +100,7 @@ We store and process information about you on computers in the United States. Pr
 
 #### U.S.-EU Safe Harbor
 
-Monetology LLC (d/b/a FullStory) complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Monetology LLC (d/b/a FullStory) has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Monetology LLC (d/b/a FullStory)'s certification, please visit <http://www.export.gov/safeharbor/>
+FullStory, Inc. complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. FullStory, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view FullStory, Inc.'s certification, please visit <http://www.export.gov/safeharbor/>
 
 In compliance with the US-EU and US-Swiss Safe Harbor Principles, FullStory commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact FullStory at:
 
@@ -127,4 +127,4 @@ Our site is intended for a general audience and we do not knowingly collect pers
 
 We may amend this Privacy Policy from time to time. When there are changes to this Privacy Policy, we will update this page. The date on the bottom will always indicate when we last made changes. If you are a visitor to this site and disagree with the Privacy Policy, you should leave the Site and cancel your agreement with FullStory. 
 
-Last Modified on October 8, 2014 
+Last Modified on May 7, 2015 
