@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itags.org privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506101420id_/http%3A//todaysummary.com/app/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itags.org privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016041245id_/http%3A//www.todaysummary.com/app/about/privacy) for the most accurate reproduction.*
 
 # privacy statement
 
@@ -54,4 +54,26 @@ A Guide may assist users of the Site and the Services. In **www.todaysummary.com
 
 When you use the Site, a cookie may be sent to your browser. A cookie is a small text file sent by a website's computer system that is stored on your computer's hard drive. Cookies are a commonly used technology on the Web, and they are used in **www.todaysummary.com** 's search functionality. You are always free to set your browser to decline cookies, and you can delete cookies from your computer. However, disabling cookies may adversely affect your ability to use the Site or the Services. See your browser's "Help" file for more details on cookies.
 
-**www.todaysummary.com** uses third party advertisers who serve ads and collect information on the Site. These companies may use information (not including your name, address, email address, or telephone n
+**www.todaysummary.com** uses third party advertisers who serve ads and collect information on the Site. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements on the Site, other websites and other forms of media about goods and services of interest to you. These third party advertisers may also use cookies on this Site. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit http://www.networkadvertising.org/managing/opt_out.asp.
+
+The Site and the Services may contain windows or hyperlinks which provide access to other websites not affiliated with **www.todaysummary.com**. Your use of an external website or any informational content found on an external website is subject to and governed by the terms and guidelines of said external website. **www.todaysummary.com** does not make any representations or warranties concerning, and will not in any way liable for, any informational content, products, services, software, or other materials available on an external website, even if one or more pages of the external website are framed within a page of the Site. **www.todaysummary.com** is not responsible for the privacy practices of any external website. For your protection, please refer to the privacy policies of the respective external websites.
+
+**Access from Outside the United States**
+
+**www.todaysummary.com** stores and processes information in the United States of America. The data protection and privacy laws the United States may not be as protective as those in other countries, including, in particular, those in the European Union. By use of the Site and the Services, you expressly consent to the transfer of any information you provide to **www.todaysummary.com** for use in accordance with this Privacy Policy.
+
+****www.todaysummary.com** 's Commitment to Data Security**
+
+To improve data security and restrict access to your personal and business information, **www.todaysummary.com** has put in place certain physical, electronic, and managerial procedures to safeguard the information **www.todaysummary.com** collects via the Site. **www.todaysummary.com** does not, however, guarantee that information collected via the Site is or will be completely secure from misappropriation by hackers or from other dishonest or criminal activities, or in the event of a failure of computer hardware, software, or a telecommunications network.
+
+**Compromise of Personal Information**
+
+In the event that Personal Information is compromised as a result of a known or suspected breach of security, we will promptly notify those persons whose Personal Information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law.
+
+**Notification Procedures**
+
+It is **www.todaysummary.com** 's policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to our users via e-mail notice, written or hard copy notice, or through conspicuous posting of such notice on our web site, as determined by us in our sole discretion. Notwithstanding the foregoing, we reserve the right to determine the form and means of providing notifications to our web site users.
+
+Deletion or Modification of Personal Information
+
+If you ever wish to access your Personal Information, or to have your Personal Information deleted, updated, changed or modified, you may contact **www.todaysummary.com** by e-mail at the addresses indicated below:  **question_911@foxmail.com**
