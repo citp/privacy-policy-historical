@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filipinaheart.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628002949id_/http%3A//www.filipinocupid.com/en/general/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filipinaheart.com privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016174434id_/http%3A//www.filipinocupid.com/en/general/privacystatement) for the most accurate reproduction.*
 
 # Privacy Statement | FilipinoCupid.com
 
