@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yuneec.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618060812id_/http%3A//store.yuneec.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yuneec.com privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016223642id_/http%3A//store.yuneec.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -74,7 +74,7 @@ CUSTOMER_AUTH | An indicator if you are currently logged into the store.
 CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
 CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
 EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
-FRONTEND | You sesssion ID on the server.  
+FRONTEND | You session ID on the server.  
 GUEST-VIEW | Allows guests to edit their orders.  
 LAST_CATEGORY | The last category you visited.  
 LAST_PRODUCT | The most recent product you have viewed.  
@@ -91,4 +91,4 @@ VIEWED_PRODUCT_IDS | The products that you have recently viewed.
 WISHLIST | An encrypted list of products added to your Wishlist.  
 WISHLIST_CNT | The number of items in your Wishlist.  
   
-Copyright © 2014 YUNEEC All Rights Reserved.
+Copyright © 2015 YUNEEC All Rights Reserved.
