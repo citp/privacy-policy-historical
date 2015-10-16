@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imfdb.org privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217112437id_/http%3A//www.imfdb.org/wiki/Privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imfdb.org privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016130132id_/http%3A//www.imfdb.org/wiki/Privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy - Internet Movie Firearms Database - Guns in Movies, TV and Video Games
 
