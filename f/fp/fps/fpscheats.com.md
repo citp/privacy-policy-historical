@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fpscheats.com privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409153057id_/http%3A//www.fpscheats.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fpscheats.com privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016203112id_/http%3A//www.fpscheats.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FPSCheats.com
 
