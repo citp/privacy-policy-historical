@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fooda.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322180841id_/http%3A//www.fooda.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fooda.com privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016162633id_/https%3A//www.fooda.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fooda
 
-## **Fooda Privacy Policy**
+## Fooda Privacy Policy
 
 **Fooda.com Privacy Policy**  
 _Your privacy is important to us. Please read the following to learn more._
@@ -80,6 +80,7 @@ Under the law of certain states, including California Civil Code § 1798.83, you
 
 Fooda.com  
 c/o Privacy Policy  
-600 West Chicago Ave. #775  
+363 W. Erie St  
+#500 West  
 Chicago, IL 60654  
-info@foodaselect.com
+info@fooda.com
