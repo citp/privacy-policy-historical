@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rally.io privacy policy that was archived on 2015-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150221191616id_/http%3A//www.rally.io/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rally.io privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016022550id_/http%3A//www.rally.io/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Rally
 
