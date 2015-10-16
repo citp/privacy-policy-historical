@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the openweathermap.org privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509111859id_/http%3A//openweathermap.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openweathermap.org privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016075843id_/http%3A//openweathermap.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
-###  1\. Introduction 
+### 1\. Introduction
 
 1.1 We are committed to safeguarding the privacy of our website visitors; in this policy we explain how we will treat your personal information. 
 
@@ -14,7 +14,7 @@
 
   * information about your computer and about your visits to and use of this website including your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views and website navigation paths; 
   * information that you provide to us when registering with our website including your email address; 
-  * information that you provide when completing your profile on our website including your name, profile pictures, gender, date of birth, relationship status, interests and hobbies, educational details and employment details; 
+  * information that you provide when completing your profile on our website including your name, profile pictures, gender, date of birth; 
   * information that you provide to us for the purpose of subscribing to our email notifications and/or newsletters including your name and email address; 
   * information that you provide to us when using the services on our website, or that is generated in the course of the use of those services including the timing, frequency and pattern of service use; 
   * information relating to any purchases you make of our goods / services / goods and/or services or any other transactions that you enter into through our website including your name, address, telephone number and email address; 
@@ -130,14 +130,9 @@
 
 ###  9\. Your rights 
 
-9.1 You may instruct us to provide you with any personal information we hold about you; provision of such information will be subject to: 
+9.1 We may withhold personal information that you request to the extent permitted and required by law for the period of 6 months since original submission. 
 
-  * the payment of a fee; and 
-  * the supply of appropriate evidence of your identity for this purpose, we will usually accept a photocopy of your passport certified by a solicitor or bank plus an original copy of a utility bill showing your current address. 
-
-
-
-9.2 We may withhold personal information that you request to the extent permitted by law. 
+9.2 After the 6 months since original submission you may, free of charge, request us to delete any information we hold about you. 
 
 9.3 You may instruct us at any time not to process your personal information for marketing purposes. 
 
