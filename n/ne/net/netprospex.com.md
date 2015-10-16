@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netprospex.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624025814id_/https%3A//www.netprospex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netprospex.com privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016160321id_/http%3A//www.netprospex.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NetProspex
 
