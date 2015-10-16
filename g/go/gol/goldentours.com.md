@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldentours.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503121151id_/http%3A//www.goldentours.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldentours.com privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016103425id_/http%3A//www.goldentours.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Golden Tours
 
