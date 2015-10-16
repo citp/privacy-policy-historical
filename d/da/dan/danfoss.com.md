@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the danfoss.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630003216id_/http%3A//www.danfoss.com/terms/privacy/%3Fref%3D17179879870) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the danfoss.com privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016131158id_/http%3A//www.danfoss.com/terms/privacy/%3Fref%3D17179879870) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -29,7 +29,7 @@ Danfoss does not share cookie data - or related user behaviour - with any third 
 
 The cookies currently in use by Danfoss on this website:
 
-Webtrends and Google analytics:| Tracking how a visitor move around and make use of the website – but not intrusive for the visitors’ privacy   
+Webtrends, Google Analytics and Pardot:| Tracking how a visitor move around and make use of the website – but not intrusive for the visitors’ privacy   
 ---|---  
 ASP.Net Session Cookie:| Functionality purpose  
 ASP.Net Profile Cookie:| Functionality purpose (My Product List)  
@@ -41,6 +41,7 @@ acceptcookies | Store if user accepts use of cookies 
 cookieoptin | Store if cookie disclaimer banner should be shown   
 WLTOPTOUT | Set if user optsout of Webtrends   
 ga-disable-{id} | Set if user optsout of Google Analytics   
+pi_opt_in| Set if the user opts-in to Pardot  
   
 If you want to make use of Danfoss Internet and cannot accept the use of these cookies, we will ask you to deactivate the use of cookies within your browser settings. 
 
