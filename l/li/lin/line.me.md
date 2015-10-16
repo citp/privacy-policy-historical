@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the line.me privacy policy that was archived on 2015-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150522221124id_/http%3A//terms.line.me/line_rules/%3Flang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the line.me privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016164841id_/http%3A//terms.line.me/line_rules/%3Flang%3Den) for the most accurate reproduction.*
 
 # LINE Privacy Policy
 
