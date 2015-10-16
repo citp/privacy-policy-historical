@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chase.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610041112id_/https%3A//www.chase.com/resources/consumer-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chase.com privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016061103id_/https%3A//www.chase.com/resources/consumer-privacy) for the most accurate reproduction.*
 
 # Chase Online Security Center | Online Privacy Policy
 
