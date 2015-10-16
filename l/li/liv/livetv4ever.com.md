@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the livetv4ever.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626030439id_/http%3A//www.livetv4ever.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livetv4ever.com privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016043559id_/http%3A//www.livetv4ever.com/privacy.php) for the most accurate reproduction.*
 
-# LiveTv4Ever.com - Watch High Quality Sports Streaming | Juventus vs Barcelona | M.Cotto vs D.Geale | Boetsch vs Henderson
+# LiveTv4Ever.com - Watch High Quality Sports Streaming | Rugby World Cup : Argentina vs Namibia | Italy vs Romania | France vs Ireland | USA vs Japan
 
 **General**
 
@@ -17,5 +17,3 @@ D. Subscriptions to electronic newsletters: If you choose to receive electronic 
 E. Aggregate information about web site visitors: We create aggregate reports of visitors to our web sites in order to measure the performance of our web sites. These reports do not contain any Personal Data about visitors to our web sites. 
 
 F. Links to other web sites: When you visit our web sites, you will find many opportunities to link to web sites of Third Parties. When you click through to these sites, LiveTv4Ever's Privacy Policy no longer applies. We recommend that you read the privacy policy for any Third Party web sites. 
-
-Back to top
