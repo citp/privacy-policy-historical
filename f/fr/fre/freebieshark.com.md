@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freebieshark.com privacy policy that was archived on 2015-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150417015816id_/http%3A//www.freebieshark.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freebieshark.com privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016101546id_/http%3A//www.freebieshark.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — FreebieShark.com
 
