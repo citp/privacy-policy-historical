@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the hitachigst.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617002339id_/http%3A//www.hgst.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitachigst.com privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016141855id_/http%3A//www.hgst.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | HGST Storage
+# Privacy | HGST
 
 ## HGST Online Privacy Policy
 
-This Privacy Policy sets out how HGST, Inc. and its affiliates and divisions, including G-Tech, LLC ("G-Tech") (collectively “HGST”, "we". "us", "ours") collect and process information about you when you visit our websites, including [hgst.com](http://www.hgst.com/ "HGST.com"), [g-technology.com](http://www.g-technology.com/ "g-technology") and [touropro.com](http://www.touropro.com/ "Touro") ("Websites"), including what type of information we collect and track, how we use it, and with whom we share it. 
+This Privacy Policy sets out how HGST, Inc. and its affiliates and divisions (collectively “HGST”, "we". "us", "ours") collect and process information about you when you visit our websites, including [hgst.com](http://www.hgst.com/ "HGST.com") ("Websites"), including what type of information we collect and track, how we use it, and with whom we share it. 
 
 Your privacy is important to us. By using our Websites you acknowledge that you have read and understood this Privacy Policy and agree to the processing of your personal information by HGST as set out in this Privacy Policy. We will only process your personal information as set out in this Privacy Policy. 
 
 **Information about how we use cookies are related technologies is set out in our Cookie Policy. To find out how we use cookies and related technologies, including your rights to accept or refuse cookies, please[click here](http://www.hgst.com/cookies "HGST Cookie Policy").**
 
-##  What Personal Information We Collect and How We Use It
+###  What Personal Information We Collect and How We Use It
 
 In general, you can visit our Websites without telling us who you are and without giving us any personal information. There are times, however, when we or our partners may need information from you, for instance in order to perform a transaction. In particular, we may collect and process the following information (including Personal Information) about you:
 
@@ -47,7 +47,7 @@ In general, you can visit our Websites without telling us who you are and withou
 
 If you give us personal information about somebody else, such as a spouse or work colleague, we will assume that you have their permission to do so. You are responsible for obtaining this permission from other people whose personal information you provide to us.
 
-## How we Share and Disclose Your Personal Information
+### How we Share and Disclose Your Personal Information
 
 We may share your personal information with others, to fulfill your requests and orders, for instance with other parts of HGST, our order fulfillment reseller, business partners, financial institutions, shipping companies, and postal or government authorities (for example, Customs authorities) involved in fulfillment. 
 
@@ -65,33 +65,33 @@ In certain circumstances, we may disclose your personal information to 3rd parti
 
 Finally, circumstances may arise where, whether for strategic or other business reasons, HGST decides to sell, buy, merge or otherwise reorganize businesses in some countries. Such a transaction may involve the disclosure of personal information to prospective or actual purchasers, or receiving it from sellers. We will seek appropriate protection for personal information disclosed in these types of transactions.
 
-##  How to Opt In or Opt Out from Direct Marketing
+###  How to Opt In or Opt Out from Direct Marketing
 
 We may use the information you give us on certain HGST Websites for direct marketing purposes to provide product and service requests, offers, updates, newsletters, events, or promotional communications. However, such marketing will be sent in accordance with applicable law, and any marketing preferences you have expressed. We will offer you an opportunity to either opt in to or opt out of such use. There are a few ways to opt in to or opt out of the use of your personal information for direct marketing purposes. For example, at the point of collection of your personal information you may be informed of an opportunity to receive certain communications and be given a choice to opt in or opt out, for instance by providing your personal information and checking or unchecking an opt-in or opt-out box.
 
-## Do Not Track
+### Do Not Track
 
 Some Internet browsers include the ability to transmit “Do Not Track” signals. Since uniform standards for “Do Not Track” signals have not been adopted, HGST websites do not process or respond to “Do Not Track” signals. To learn more about “Do Not Track”, please visit “[All About Do Not Track](http://www.allaboutdnt.com/)".
 
-## Cookies, Web Beacons and Other Technologies
+### Cookies, Web Beacons and Other Technologies
 
 Our Websites use cookies and similar technologies, like web beacons, for analytics, functionality and targeted advertising purposes. For more information about the cookies we use, including how to exercise choices with regard to our use of cookies, please visit our [Cookie Policy](http://www.hgst.com/cookies "HGST Cookie Policy"). 
 
-## Personalized URL Link
+### Personalized URL Link
 
 On occasion, we may personalize and customize Websites for certain visitors. If you visit one of these Websites, you may find it customized with references to products and/or services that we believe may be of interest to you, based on your previous interactions with HGST and information you have provided to us. While you are visiting these Websites, we may collect information about your visit to better tailor the Website to your interests. An invitation to visit one of these Websites is usually presented as a personalized URL in an e-mail, a notice on a Website registration page, or as a response to you logging on to a certain Website. If you choose to visit one of these Websites, you are agreeing to let us collect information about your visits and also to associate this information with other information about you and your relationship with us. If you do not wish your information to be used in this way, do not accept the invitation to visit these sites.
 
-## Information Security and Quality
+### Information Security and Quality
 
 We apply appropriate security measures and processes to protect your personal information, and maintain its security and quality. All information you provide to us is stored on our secure servers. We use encryption when transmitting certain sensitive information and any payment transactions will be encrypted [using SSL technology]. Where you have a password which enables you to access certain parts of our Websites, you are responsible for keeping this password secure and confidential. We ask you not to share your password with anyone. 
 
 Unfortunately, the transmission of information via the Internet is not completely secure. Although we will do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Websites at all times. Once we have received your personal information we will use strict procedures and security features to try to prevent unauthorized access, disclosure, alteration or loss.
 
-##  Notification of Changes
+###  Notification of Changes
 
 This Privacy Policy was last updated on 10/01/2014. A notice will be posted on our Websites' home pages for 30 days whenever this Privacy Policy is changed in a material way. By continuing to use our Websites you confirm your continuing acceptance of this Privacy Policy. 
 
-## Access, Correction and Deletion
+### Access, Correction and Deletion
 
 If you wish to obtain a copy of particular personal information that you provided to HGST, or if you become aware that the personal information we hold about you is incorrect and you would like us to correct it, contact us at the address at the end of this Privacy Policy.
 
@@ -99,28 +99,28 @@ Before we are able to provide you with any personal information or correct any i
 
 You can access the personal information in your online account and correct, amend, or delete information that is inaccurate. You may delete your online account altogether, if you wish. Please note that we may retain some personal information in our records even after you delete your online account.
 
-## How Long We Keep Your Personal Information For
+### How Long We Keep Your Personal Information For
 
 The periods for which we retain your information depend on the purpose for which we collected it and we use it. We will not retain your personal information for longer than is necessary for our business purposes or for legal requirements. We may retain some information for a few years after you have closed your account with us, for instance if this is necessary to meet our legal obligations.
 
-##  Our Worldwide Practices
+###  Our Worldwide Practices
 
 HGST is a global organization, with affiliated legal entities, business processes, management structures, and technical systems that cross borders.
 
 Our privacy practices are designed to provide protection for your personal information all over the world. We may share your personal information among HGST affiliates globally and transfer it to our business partners based in various countries in the world where we do business. Some countries may provide less legal protection than others for your personal information. When we transfer your personal information internationally we will take reasonable steps to ensure that your personal information is treated securely, lawfully and in the manner we describe here.
 
-## Service Quality Monitoring
+### Service Quality Monitoring
 
 Certain web transactions may also involve you calling us or our calling you. Please be aware that it is HGST general practice to monitor and in some cases record such calls for staff training or quality assurance purposes.
 
-## Links to Non-HGST Websites
+### Links to Non-HGST Websites
 
 HGST Websites may contain links to other websites. HGST is not responsible for the privacy practices or the content of those other websites, and we encourage you to carefully read the privacy policies of these websites to find out how they use your personal information.
 
-## Questions about this Privacy Policy
+### Questions about this Privacy Policy
 
 This Website is maintained by HGST. If you have a question about this Privacy Policy or our handling of your information, you can contact HGST in the following manner: please contact us at [privacy@hgst.com](mailto:privacy@hgst.com).
 
 Please use the Back button on your browser or close this window to return to the page where you were. 
 
-Effective date 10/01/2014.
+Effective date 10/15/2015.
