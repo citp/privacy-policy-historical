@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the workabroad.ph privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524190757id_/http%3A//www.workabroad.ph/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workabroad.ph privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016142349id_/http%3A//www.workabroad.ph/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Work Abroad
 
 **WORKABROAD.PH** has created this privacy policy to ensure all users of the site's dedication to their privacy. **WORKABROAD.PH** collects and uses personal information submitted by registered jobseekers to assist them in finding the right job abroad by making the said information available to registered agencies licensed by the POEA. 
 
-Upon registration, the personal information submitted by jobseekers will be stored in the site's databank. A jobseeker may revise or edit his/her personal information and choose to make his/her résumé searchable by recruitment agencies or inactive (unsearchable). Jobseekers can also choose to remove their résumés from WORKABROAD.PH at any time. 
+Upon registration, the personal information submitted by jobseekers will be stored in the site's databank. A jobseeker may revise or edit his/her personal information and choose to make his/her r�sum� searchable by recruitment agencies or inactive (unsearchable). Jobseekers can also choose to remove their r�sum�s from WORKABROAD.PH at any time. 
 
 **WORKABROAD.PH** ensures that the personal information submitted by **registered jobseekers** will be kept strictly confidential and will only be made available to **registered recruitment agencies** upon the formers' consent.
 
@@ -12,7 +12,7 @@ Upon registration, the personal information submitted by jobseekers will be stor
 At [www.workabroad.ph](http://www.workabroad.ph/index.php), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by [www.workabroad.ph](http://www.workabroad.ph/index.php) and how it is used. 
 
 **Log Files**  
-Like many other Web sites, [www.workabroad.ph](http://www.workabroad.ph/index.php) makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+Like many other Web sites, [www.workabroad.ph](http://www.workabroad.ph/index.php) makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user�s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
 **Cookies and Web Beacons**  
 [www.workabroad.ph](http://www.workabroad.ph/index.php) does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
