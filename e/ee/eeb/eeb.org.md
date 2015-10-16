@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eeb.org privacy policy that was archived on 2015-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150222034313id_/http%3A//www.eeb.org/index.cfm/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eeb.org privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016175717id_/http%3A//www.eeb.org/index.cfm/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - EEB
 
