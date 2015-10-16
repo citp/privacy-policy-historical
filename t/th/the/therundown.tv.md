@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the therundown.tv privacy policy that was archived on 2015-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150501230410id_/http%3A//www.therundown.tv/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therundown.tv privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016092148id_/http%3A//www.therundown.tv/support/privacy) for the most accurate reproduction.*
 
 # Your Privacy on The Rundown
 
