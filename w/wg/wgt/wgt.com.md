@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wgt.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504231008id_/https%3A//www.wgt.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wgt.com privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016210751id_/https%3A//www.wgt.com/privacy.aspx) for the most accurate reproduction.*
 
 # World Golf Tour - Free Online Golf Game - Privacy Policy
 
@@ -62,6 +62,10 @@ When legally required or at WGT's discretion, WGT will cooperate with law enforc
 
 We will not sell your personally identifiable information to any company or organization except we may transfer your personally identifiable information to a successor entity upon a merger, consolidation or other corporate reorganization in which WGT participates or to a purchaser of all or substantially all of WGT's assets to which this Site relates.
 
+### Advertising
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](https://www.networkadvertising.org/managing/opt_out.asp).
+
 ### Offer Walls
 
 WGT games or their purchase pages may display an "offer wall" that is hosted by an offer wall provider. The offer wall allows third party advertisers to provide virtual currency to users in exchange for interacting with an advertisement or for completing a marketing offer that may include signing up for an account with one of those advertisers. These are not offers made by WGT. These offers may be displayed to you based on certain technical information, such as your geographic area or anonymous demographic information. After clicking on one of these advertisements, you will no longer be on a site hosted by WGT or partnering SNS. To properly credit user accounts and to prevent fraud, a unique identifier, in some cases your user ID number, will be shared with the offer wall provider. This identifier is used to ensure proper crediting of your account, prevent fraud or duplicate offers and to resolve any customer service inquiries that may arise. Once you complete an offer, you will then return to a WGT website or game.
@@ -76,6 +80,6 @@ If you have any questions regarding this Privacy Policy please contact us via em
 
 Our computer systems are currently based in the United States, so your personal data will be processed by us in the U.S. where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union. If you create a user account with the Site as a visitor from outside the United States, by using the Site you agree to this Privacy Policy and you consent to the transfer of all such information to the United States, which may not offer an equivalent level of protection of that required in the European Union or certain other countries, and to the processing of that information as described in this Privacy Policy.
 
-This Privacy Policy was last updated: December 15, 2011
+This Privacy Policy was last updated: July 14, 2015
 
 This Privacy Policy is effective as of: August 17, 2008
