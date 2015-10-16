@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the overcomingbias.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628195513id_/http%3A//www.overcomingbias.com/contact/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overcomingbias.com privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016104540id_/http%3A//www.overcomingbias.com/contact/privacy-policy) for the most accurate reproduction.*
 
 # Overcoming Bias : Privacy Policy
 
