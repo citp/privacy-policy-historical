@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ghanandwom.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615015951id_/http%3A//www.ghanandwom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghanandwom.com privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016020824id_/http%3A//www.ghanandwom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GhanaNdwom.com
 
