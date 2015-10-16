@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bristol.gov.uk privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618085223id_/http%3A//www.bristol.gov.uk/page/council-and-democracy/privacy-statement-what-we-do-your-personal-data) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bristol.gov.uk privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016034916id_/http%3A//www.bristol.gov.uk/page/council-and-democracy/privacy-statement-what-we-do-your-personal-data) for the most accurate reproduction.*
 
 # Privacy statement: what we do with your personal data | Bristol City Council
 
@@ -35,10 +35,10 @@ We collect your personal details when you fill in a form on our websites or send
 
 
 
-4\. We may also give your data to the Audit Commission and other bodies so they can use it to match against computer records held by other public bodies.
+4\. We may also give your data to the Cabinet Office and other bodies so they can use it to match against computer records held by other public bodies.
 
   * This data is usually your personal information. Data matching allows them to spot potentially fraudulent claims and payments.
-  * Find out about the [Audit Commission, National Fraud Initiative and other data matching initiatives](https://web.archive.org/page/council-and-democracy/data-matching).
+  * Find out about the [National Fraud Initiative and other data matching initiatives](https://web.archive.org/page/council-and-democracy/fraud-prevention-and-detection).
 
 
 
@@ -65,7 +65,7 @@ If you've already opted out then you don't need to request again.
 
 ## Why the privacy statement has changed
 
-Information about why the privacy statement has changed in our [frequently asked questions (pdf, 282 KB)(opens new window)](http://www.bristol.gov.uk/sites/default/files/documents/homepage/privacy/privacy-notice-frequently-asked-questions_v1.02.pdf).
+Information about why the privacy statement has changed in our [frequently asked questions (pdf, 282 KB)(opens new window)](http://www.bristol.gov.uk/sites/default/files/documents/homepage/privacy/privacy-notice-frequently-asked-questions_v1.02_0.pdf).
 
 ## Web statistics
 
