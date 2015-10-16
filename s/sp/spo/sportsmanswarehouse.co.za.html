@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sportsmanswarehouse.co.za privacy policy that was archived on 2015-03-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150322015347id_/http%3A//www.sportsmanswarehouse.co.za/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sportsmanswarehouse.co.za privacy policy that was archived on 2015-10-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151016170930id_/http%3A//www.sportsmanswarehouse.co.za/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 <title>Privacy Policy</title>
@@ -32,7 +32,7 @@
 
 
 <link href="/skins/basic/customer/css/ui/jqueryui.css" rel="stylesheet" type="text/css">
-<link href="/skins/basic/customer/styles.css?v=20150312" rel="stylesheet" type="text/css">
+<link href="/skins/basic/customer/styles.css?v=20150803" rel="stylesheet" type="text/css">
 <link href="/skins/basic/customer/print.css" rel="stylesheet" media="print" type="text/css">
 <link href="/skins/basic/customer/dropdown.css" rel="stylesheet" type="text/css">
 <!--[if lte IE 7]>
@@ -44,7 +44,7 @@
 <!--[if IE 9 ]>
     <link href="/skins/basic/customer/styles_ie9.css" rel="stylesheet" type="text/css" />
 <![endif]-->
-<link href="/skins/basic/customer/style.css?v=20150312" rel="stylesheet" type="text/css">
+<link href="/skins/basic/customer/style.css?v=20150803" rel="stylesheet" type="text/css">
 
 
 <link href="/skins/basic/customer/addons/wg_search/css/wg_search.css" media="all" rel="stylesheet" type="text/css">
@@ -278,7 +278,7 @@ function fill(thisValue) {
 	$('#inputString').val(thisValue);
 	setTimeout("$('#suggestions').hide();", 200);
 }
-</script><script src="https://ssl.google-analytics.com/ga.js" async="true"></script><style type="text/css">.cm-noscript {display:none}</style></head><body><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div><div id="DynPreviewPlace"></div>            
+</script><script src="https://ssl.google-analytics.com/ga.js" async="true"></script></head><body><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div><div id="DynPreviewPlace"></div>            
 
 
 
@@ -568,7 +568,16 @@ function lookup_custom(param){
 		<div class="free-delivery" style=" width: 160px;"><a href="#charges" rel="prettyPhoto" style="color:#fff;font-size: 10px; width: 165px;float: left; line-height: 16px;">Free Delivery on Certain Orders</a> <span><a href="#charges" rel="prettyPhoto" style="color:#7AC8FF; float: left;">View our delivery charges</a> </span></div>
 
 		
-				<div id="charges" style="display:none;">
+				<!-- Hack to keep lightbox style for multiple links on the same template page. -->
+		
+		<style>
+		#pp_full_res,
+		.pp_inline {
+			height: 100% !important;
+		}
+		</style>
+		
+		<div id="charges" style="display:none;">
 			<div class="lightbox_header">
 				<div class="lightbox_heading">
 					OUR DELIVERY RATES
@@ -576,7 +585,7 @@ function lookup_custom(param){
 			</div>
 			<div class="lightbox_body">
 				<div class="lightbox_body_container">
-					<p>Please find our delivery rates below.<br><br><strong>Delivery charges are calculated per item. We deliver within South African borders only.</strong></p>
+					<p>Please find our delivery rates below.<br><br><strong>Delivery charges are calculated per order. We deliver within South African borders only.</strong></p>
 					<table border="0" class="province_table" cellpadding="5" cellspacing="0">
 						<tbody><tr>
 							<th></th><th colspan="2" class="n-active">Normal size</th><th colspan="2" class="o-active">Large</th><th colspan="2" class="vo-active msc-active">Extra Large</th><th colspan="2">Bicycles</th>
@@ -591,7 +600,12 @@ function lookup_custom(param){
 							<td>Below R800</td><td class="n-active">R50</td><td class="n-active">R150</td><td class="o-active">R200</td><td class="o-active">R300</td><td class="vo-active msc-active">R300</td><td class="vo-active msc-active">R400</td><td>R250</td>
 						</tr>
 					</tbody></table>
-					<p>Please note that these charges are not applicable to products delivered by our <strong>Moresport Service Centre</strong>. These products include treadmills and gym equipment and will be <strong>delivered and installed free of charge</strong> to customers in select areas.</p>
+					<p style="margin-bottom: 0px;">
+						Please Note: These charges are not applicable to products delivered by our Moresport Service Centre. These products include treadmills and gym equipment and will be delivered and installed free of charge to customers in select areas.
+					</p>
+					<p>
+						Additional Note: 'Next Day Delivery' is subject to stock availability and only applies to items accordingly identified. Orders placed on a Friday will be delivered on the following Monday. In the case of a mixed basket, our standard delivery policy of 3-5 working days will apply.
+					</p>
 				</div>
 			</div>
 		</div>
@@ -729,13 +743,18 @@ function lookup_custom(param){
 																														 									<ul>
 										<h4><a href="/men/activewear/">Activewear</a></h4>
 																						<li>
+												<a href="/men/activewear/jackets-and-sweaters/"> Jackets &amp; Sweaters</a>
+											</li>
+																					<li>
 												<a href="/men/activewear/tops-3/"> Tees &amp; Tanks</a>
 											</li>
 																					<li>
 												<a href="/men/activewear/shorts-1/"> Shorts</a>
 											</li>
-																															<li class="nav-more"><a title="More Categories In Activewear" href="/men/activewear/">More Activewear</a></li>
-																				</ul>
+																					<li>
+												<a href="/men/activewear/sweatpants/"> Sweat Pants</a>
+											</li>
+																													</ul>
 																														 									<ul>
 										<h4><a href="/men/swimwear/">Swimwear</a></h4>
 																						<li>
@@ -746,15 +765,6 @@ function lookup_custom(param){
 											</li>
 																					<li>
 												<a href="/men/swimwear/towels-2/"> Towels</a>
-											</li>
-																													</ul>
-																														 									<ul>
-										<h4><a href="/men/gymwear/">Gymwear</a></h4>
-																						<li>
-												<a href="/men/gymwear/tops-4/"> Performance Sleeveless Tees</a>
-											</li>
-																					<li>
-												<a href="/men/gymwear/shorts-2/"> Shorts</a>
 											</li>
 																													</ul>
 																														 									<ul>
@@ -994,6 +1004,9 @@ function lookup_custom(param){
 												<a href="/footwear/men-1/leisure-13/"> Leisure</a>
 											</li>
 																					<li>
+												<a href="/footwear/men-1/walking-2/"> Walking</a>
+											</li>
+																					<li>
 												<a href="/footwear/men-1/running-3/"> Running</a>
 											</li>
 																					<li>
@@ -1028,6 +1041,9 @@ function lookup_custom(param){
 																														 									<ul>
 										<h4><a href="/footwear/women-1/">Women</a></h4>
 																						<li>
+												<a href="/footwear/women-1/walking-3/"> Walking</a>
+											</li>
+																					<li>
 												<a href="/footwear/women-1/running-4/"> Running</a>
 											</li>
 																					<li>
@@ -1531,6 +1547,15 @@ function lookup_custom(param){
 											</li>
 																													</ul>
 																														 									<ul>
+										<h4><a href="/supporters-gear/springbok/">Springbok</a></h4>
+																						<li>
+												<a href="/supporters-gear/springbok/accessories-34/"> Accessories</a>
+											</li>
+																					<li>
+												<a href="/supporters-gear/springbok/jerseys-1/"> Jerseys</a>
+											</li>
+																													</ul>
+																														 									<ul>
 										<h4><a href="/supporters-gear/super-15/">Super 15</a></h4>
 																						<li>
 												<a href="/supporters-gear/super-15/accessories-32/"> Accessories</a>
@@ -1543,15 +1568,6 @@ function lookup_custom(param){
 										<h4><a href="/supporters-gear/epl/">Football</a></h4>
 																						<li>
 												<a href="/supporters-gear/epl/jerseys-2/"> Jerseys</a>
-											</li>
-																													</ul>
-																														 									<ul>
-										<h4><a href="/supporters-gear/springbok/">Springbok</a></h4>
-																						<li>
-												<a href="/supporters-gear/springbok/accessories-34/"> Accessories</a>
-											</li>
-																					<li>
-												<a href="/supporters-gear/springbok/jerseys-1/"> Jerseys</a>
 											</li>
 																													</ul>
 																								</div>
@@ -1614,6 +1630,9 @@ function lookup_custom(param){
 																														 									<ul>
 										<h4><a href="/outdoors/underwater/">Snorkeling</a></h4>
 																						<li>
+												<a href="/outdoors/underwater/accessories-42/"> Accessories</a>
+											</li>
+																					<li>
 												<a href="/outdoors/underwater/fins/"> Fins</a>
 											</li>
 																					<li>
@@ -1873,14 +1892,14 @@ function lookup_custom(param){
     <a class="brand-heading" href="/index.php?dispatch=sw.brands">Browse by Brand</a>
     <div class="footer-brands-slider">
         <img src="/skins/basic/customer/images/left_arrow.jpg" alt="" class="footer_arrow" id="left-arrow" style="display: block;">
-        <div class="caroufredsel_wrapper" style="display: block; text-align: start; float: left; position: relative; top: auto; right: auto; bottom: auto; left: auto; z-index: auto; width: 939px; height: 70px; margin: 0px; overflow: hidden;"><div class="footer_slider_box" style="text-align: left; float: none; position: absolute; top: 0px; right: auto; bottom: auto; left: 2px; margin: 0px; width: 18517px; height: 70px; z-index: auto;">
+        <div class="caroufredsel_wrapper" style="display: block; text-align: start; float: left; position: relative; top: auto; right: auto; bottom: auto; left: auto; z-index: auto; width: 939px; height: 70px; margin: 0px; overflow: hidden;"><div class="footer_slider_box" style="text-align: left; float: none; position: absolute; top: 0px; right: auto; bottom: auto; left: 2px; margin: 0px; width: 18891px; height: 70px; z-index: auto;">
             
-            <a href="/index.php?dispatch=sw.brand&amp;brand_id=1409" class="footer_zingo" style="margin-right: 20px;"></a>
+            
 			<a href="/index.php?dispatch=sw.brand&amp;brand_id=518" class="footer_gopro" style="margin-right: 20px;"></a>
             <a href="/index.php?dispatch=sw.brand&amp;brand_id=12" class="footer_first-ascent" style="margin-right: 20px;"></a>
             <a href="/index.php?dispatch=sw.brand&amp;brand_id=741" class="footer_cape-storm" style="margin-right: 20px;"></a>
-            <a href="/index.php?dispatch=sw.brand&amp;brand_id=200" class="footer_garmin" style="margin-right: 22px;"></a>
-            <a href="/index.php?dispatch=sw.brand&amp;brand_id=1" class="footer_nike" style="margin-right: 20px;"></a>
+            <a href="/index.php?dispatch=sw.brand&amp;brand_id=200" class="footer_garmin" style="margin-right: 20px;"></a>
+            <a href="/index.php?dispatch=sw.brand&amp;brand_id=1" class="footer_nike" style="margin-right: 22px;"></a>
             <a href="/index.php?dispatch=sw.brand&amp;brand_id=2" class="footer_adidas" style="margin-right: 20px;"></a>
 
             <a href="/index.php?dispatch=sw.brand&amp;brand_id=6" class="footer_asics" style="margin-right: 20px;"></a>
@@ -1924,7 +1943,8 @@ function lookup_custom(param){
 
             <a href="/index.php?dispatch=sw.brand&amp;brand_id=1072" class="footer_2xu" style="margin-right: 20px;"></a>
             <a href="/index.php?dispatch=sw.brand&amp;brand_id=1113" class="footer_orca" style="margin-right: 20px;"></a>
-        <a href="/index.php?dispatch=sw.brand&amp;brand_id=30" class="footer_salomon" style="margin-right: 22px;"></a></div></div>
+            <a href="/index.php?dispatch=sw.brand&amp;brand_id=1394" class="footer_lycan" style="margin-right: 20px;"></a>
+        <a href="/index.php?dispatch=sw.brand&amp;brand_id=30" class="footer_salomon" style="margin-right: 20px;"></a><a href="/index.php?dispatch=sw.brand&amp;brand_id=1409" class="footer_zingo" style="margin-right: 22px;"></a></div></div>
         <img src="/skins/basic/customer/images/right_arrow.jpg" alt="" class="footer_arrow" id="right-arrow" style="display: block;">
     </div>
 <div class="footer_contant_box">
@@ -2042,7 +2062,7 @@ function lookup_custom(param){
 	<a href="http://www.mastercard.com/za/" target="_blank" title="Master Card"><img src="/skins/basic/customer/images/mastercard-icon.png" alt="Master Card" class="mastercard-icon" border="0"></a>
 	<a href="http://www.vcs.co.za/" target="_blank" title="Virtual Card Services"><img src="/skins/basic/customer/images/vcssecure-icon.png" alt="Virtual Card Services" class="vcssecure-icon" border="0"></a>
 	<a href="https://www.payfast.co.za/" target="_blank" title="Instant EFT"><img src="/skins/basic/customer/images/instant-eft-icon.png" alt="Instant EFT" class="instant-eft-icon" border="0"></a>
-    <a href="/vitality.html" target="_blank" title="HealthyGear"><img src="/skins/basic/customer/images/vitality_healthy-gear.png" alt="Visa" class="healtyGear-icon" border="0"></a>
+    <a href="/vitality.html" target="_blank" title="healtyGear"><img src="/skins/basic/customer/images/vitality_healthy-gear.png" alt="Visa" class="healtyGear-icon" border="0"></a>
     <a href="http://www.sportsmanswarehouse.co.za/discovery-miles.html" target="_blank" title="Discovery Miles"><img src="/skins/basic/customer/images/discovery-miles-icon.png" alt="Discovery Miles" class="discovery-miles-icon" border="0"></a>
     <img src="/skins/basic/customer/images/3dsecure-icon.png" alt="MultiCards" class="secure" border="0">
     <img src="/skins/basic/customer/images/thawte_logo.png" alt="Thawte - Checkout Secured" class="thawte" border="0">
@@ -2208,6 +2228,13 @@ function lookup_custom(param){
 </div>
 
 <script type="text/javascript" src="/skins/basic/customer/survey.js"></script>
+
+
+<!--############### START POPUP COMPETITION ##############-->
+
+
+<!--############### END POPUP COMPETITION ##############-->
+
 
 
 
