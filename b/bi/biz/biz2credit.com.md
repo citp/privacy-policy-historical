@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the biz2credit.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608040654id_/http%3A//www.biz2credit.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biz2credit.com privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018000548id_/http%3A//www.biz2credit.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Biz2credit
+# Privacy Policy - Biz2Credit
 
 X
 
 Follow us on [](https://www.facebook.com/biz2credit "Facebook") [](https://twitter.com/biz2credit "Twitter") [](http://www.linkedin.com/company/265111 "Linkedin") [](http://pinterest.com/biz2credit/ "Pinterest") [](https://plus.google.com/u/0/105166506749988064220/posts "Google +") [](http://feeds.feedburner.com/biz2credit/RPVH "RSS feed") [](https://www.youtube.com/user/Biz2credit "YouTube")
 
-[](http://pinterest.com/pin/create/button/)
+[](https://pinterest.com/pin/create/button/)
 
-[](http://www.biz2credit.com/ "Biz2Credit")
+[](https://www.biz2credit.com/ "Biz2Credit")
 
 CALL TOLL FREE800-200-5678
 
@@ -45,7 +45,7 @@ This Policy will describe:
 
   * Information you provide. We may collect and store any information you enter on our website during registration, applications or provide to us in some other manner. This includes identifying information such as your name, home or mailing address, email address, and telephone number); information about your business or prospective business; your financial information (such as your income, assets, or debts), or other personal information. We may also periodically obtain both personal and non-personal information about you from business partners, contractors and other third parties.
   * Information we may request. Examples of information that we may request and/or receive about you include credit reports, information about your business and additional demographic information. However, Biz2Credit will not request or access any credit bureau reports or other credit information in connection with a business loan, merchant cash advance or other financing product (collectively, " **loan** " or " **business loan** ") or furnish such information to any bank, provider of merchant cash advances or other financing products or other lender (collectively, " **lenders** ") without your prior written consent.
-  * DocVaultTM. Customers also have the ability to store and access other documents and information on DocVault, Biz2Credit's information management system. These documents are protected by Biz2Credit's web security system and only the user has password-protected access. No third party has access to these documents, and Biz2Credit will only access content stored in DocVault for site maintenance and technical support purposes. Biz2Credit reserves the right to remove any content that contains a virus or other malicious code, or that otherwise violates any term of this Privacy Policy or _**[Terms of Service](http://www.biz2credit.com/terms-of-use.html).**_
+  * DocVaultTM. Customers also have the ability to store and access other documents and information on DocVault, Biz2Credit's information management system. These documents are protected by Biz2Credit's web security system and only the user has password-protected access. No third party has access to these documents, and Biz2Credit will only access content stored in DocVault for site maintenance and technical support purposes. Biz2Credit reserves the right to remove any content that contains a virus or other malicious code, or that otherwise violates any term of this Privacy Policy or _**[Terms of Service](https://www.biz2credit.com/terms-of-use.html).**_
 
 
   * _Other business tools._ Biz2Credit offers other proprietary business tools to our customers, including BizAnalyzer®, the Small Business Lending IndexTM, dynamic Dashboard and Financial Calculator. All information input by our customers into these business tools are protected by Biz2Credit's web security system and only the user has password-protected access to any Business Tool where they can input information. No third party has access to any such information input into our business tools, other than Biz2Credit for site maintenance and technical support purposes. Information you provide to us in connection with business loans is furnished to lenders, but only with your prior written approval.
