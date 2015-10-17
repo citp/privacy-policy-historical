@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the razoo.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614041857id_/http%3A//www.razoo.com/p/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the razoo.com privacy policy that was archived on 2015-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151017050353id_/https%3A//www.razoo.com/p/privacy_policy) for the most accurate reproduction.*
 
 # The Razoo.com Privacy Policy - Razoo
 
@@ -64,7 +64,7 @@ Any changes or updates to this Privacy Policy will be posted on our Website, wit
 
 If you have questions or concerns about this Privacy Policy, our privacy practices, or your dealings with us, please contact us by writing to:
 
-Bo Lotinsky, Razoo Global Corporation  
+Bryce Melvin, Razoo Global Corporation  
 Attn: Online Privacy Coordinator  
 Address: 1020 19th Street, NW, Suite 800, Washington, DC 20036  
 Telephone number: 1-866-437-1952  
