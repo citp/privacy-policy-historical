@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the mtvi.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629092620id_/http%3A//www.mtv.com/sitewide/legal/privacy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtvi.com privacy policy that was archived on 2015-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151017152504id_/http%3A//www.mtv.com/sitewide/legal/privacy.jhtml) for the most accurate reproduction.*
 
 # MTV Sitewide - Legal
 
-**Last Modified:** December 02, 2011 
+**Last Modified:** December 19, 2014  
+Click here to learn about the most recent significant updates.
 
 This is the privacy policy (" _Privacy Policy_ ") for mtv.com (" _Site_ ," " _we_ ," " _us_ ," or " _our_ "), an Internet website offered in cooperation with the MTV television channel or programming service (" _MTV Channel_ "). The MTV Channel and the Site (together, "MTV") are provided by Viacom Media Networks (" _VMN_ "), a division of Viacom International Inc. (together, VMN and Viacom International Inc., the " _Parent Companies_ "). 
 
@@ -67,9 +68,9 @@ We use Tracking Technologies to help tailor our content, allow users to move bet
 
 By visiting the Site, whether as a registered user or otherwise, you acknowledge, understand and hereby agree that you are giving us your consent to track your activities and your use of the Site through these Tracking Technologies and that we may use Tracking Technologies in the emails we send to you. 
 
-This Site may additionally use a variety of third party advertising networks, data exchanges, traffic measurement service providers, marketing analytics service providers and other third parties (collectively, "Third Party Advertising Service Providers") to, for example, serve advertisements on the Site, facilitate targeting of advertisements and/or measure and analyze advertising effectiveness and/or traffic on the Site ("Targeting Services"). These Third Party Advertising Service Providers may enable us to display advertisements based on your visits to the Site and other websites you have visited. Targeting Services enable us to, among other things, help deliver advertisements or other content to you for products and services that you might be interested in, to prevent you from seeing the same advertisements too many times and to conduct research regarding the usefulness of certain advertisements to you. 
+This Site may additionally use a variety of third party advertising networks, data exchanges, traffic measurement service providers, marketing analytics service providers and other third parties (collectively, "Third Party Advertising Service Providers") to, for example, serve advertisements on the Site, facilitate targeting of advertisements and/or measure and analyze advertising effectiveness and/or traffic on the Site ("Targeting Services"). These Third Party Advertising Service Providers may enable us to display advertisements based on your visits to the Site and other websites you have visited. Targeting Services enable us to, among other things, help deliver advertisements or other content to you for products and services that you might be interested in, to prevent you from seeing the same advertisements too many times and to conduct research regarding the usefulness of certain advertisements to you. See Section 4(b)(i) for more information on this Site’s use of Nielsen’s proprietary measurement software to collect and use video viewing metrics and other information. 
 
-These Third Party Advertising Service Providers do not have access to Tracking Technologies set by the Site except to the extent necessary to provide services to the Site. The Third Party Advertising Service Providers, as well as Advertisers, may themselves set and access their own Tracking Technologies on your Device if you choose to have Tracking Technologies enabled in your browser (or, for Flash cookies, if you have not removed them) and/or they may otherwise have access to Other Information about you. 
+These Third Party Advertising Service Providers do not have access to Tracking Technologies set by the Site except to the extent necessary to provide services to the Site. The Third Party Advertising Service Providers, as well as Advertisers and other third parties, may themselves set and access their own Tracking Technologies on your Device if you choose to have Tracking Technologies enabled in your browser (or, for Flash cookies, if you have not removed them) and/or they may otherwise collect or have access to Information about you and your online activities over time and across different websites when you use the Site. 
 
 **c. Use of Information.**
 
@@ -153,6 +154,8 @@ As set forth in this Privacy Policy, we may share Information with our Parent Co
 
   * We also may from time to time permit other Third Party Advertising Service Providers and Advertisers to collect Other Information on the Site. Some of these Third Party Advertising Service Providers and Advertisers may participate in the [Network Advertising Initiative's Opt-Out Tool](http://www.networkadvertising.org/managing/opt_out.asp) and/or the [Self-Regulatory Program for Online Behavioral Advertising](http://www.aboutads.info/choices/). Please click on the links to these tools to learn more about your choices. 
 
+  * Nielsen Measurement: The player on this website and/or this app may feature Nielsen’s proprietary measurement software which will collect and use certain video viewing metrics and other information, in accordance with Nielsen’s digital measurement privacy policy. For more information about Nielsen’s measurement software, see <http://www.nielsen.com/digitalprivacy> and see the “Choices” section of that digital measurement privacy policy to learn about your choices with respect to Nielsen’s measurement, including your opt-out options if you do not wish to participate in such measurement and the scope of any opt-out options. FOR APPS: To exercise choice regarding Nielsen's measurement on apps and for more information on the scope of such choices, see "About Nielsen Measurement and Your Choices" Note that the "About Nielsen Measurement and Your Choices" link is only available and effective from apps and not websites. 
+
   * Please note the following with respect to opting out:
 
     * **The opt-out tools discussed above are "cookie based."** This means that the tools rely on cookies to remember your choices with respect to the use of your information by the parties that offer you those choices. If you delete Tracking Technologies using the controls in your Web browser (a process described below) after opting out, you may have to opt out again to re-establish your opt-out preferences. 
@@ -180,6 +183,10 @@ This Site is committed to complying with the Self-Regulatory Principles for Onli
 Some Device manufacturers may preset their browsers to block Tracking Technologies from websites other than those you visit directly and, if so, certain services or advertisements may not work for such Devices. Further, if you delete, reject, disable or turn off Tracking Technologies, you may not have access to certain features of the Site and some of our other services may not function properly. 
 
 **iii. Flash Cookies.** Please note that deleting, rejecting, disabling or turning off Tracking Technologies set by Third Party Advertising Service Providers and Advertisers and set by this Site through the above options will not remove Flash cookies. For more information about Flash cookies and how to remove them from your computer, please visit [http://kb2.adobe.com/cps/526/52697ee8.html4](http://kb2.adobe.com/cps/526/52697ee8.html). 
+
+**iv. Do-Not-Track Signals and Similar Mechanisms.** Some web browsers may transmit "do-not-track" signals to the websites with which the browser communicates. Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them. There currently is disagreement, including among participants in the leading Internet standards-setting organization, concerning what, if anything, websites should do when they receive such signals. 
+
+We currently do not take action in response to these signals, but, if and when a final standard is established and accepted, we may reassess how to respond to these signals. Instead, as described above, please see the link to the Self-Regulatory Principles for Online Behavioral Advertising program that we follow that offers you choice regarding Information collected for online behavioral advertising purposes and the browser cookie controls and other mechanisms described in Sections 4(b)(i), (ii) and (iii). 
 
 ## 5\. Wireless Marketing Services and Associated Promotional Opportunities. 
 
@@ -240,6 +247,8 @@ A user may cancel one or more services via his or her wireless device at any tim
 
 Generally, you may review, update or delete certain Information collected by the Site by clicking "Account" on the homepage to sign in to your Site account with your User ID to change, update or deactivate your Personal Information. However, Personal Information that is necessary to check eligibility, such as date of birth or age, cannot be deleted, but may be modified with sufficient verification of the correct information. We will allow you to change the password portion of your User ID, as well as certain other Information you have given us in order to keep your information current, but once you select a user name you will not be able to change that user name provided to us during registration and which is associated with your User ID. 
 
+See Section 9 of the Terms of Use for how registered users of this Site who are California residents and are under 18 years of age may request removal of content or Information in Postings. 
+
 You may also exercise certain privacy settings options by, if you are a registered user of the Site and logged into the Site, clicking "Profile" or your display name at the top of the Site, selecting "Edit Profile" or "Manage Account" and selecting the "Privacy" tab. 
 
 Certain Information collected for certain entries into Promotions are subject to corporate and regulatory recordkeeping requirements and will not be deleted upon the user's request, unless the entrant is a child under the age of 13 years old. 
@@ -283,3 +292,5 @@ Further, if you use any of the Communities features and functions made available
 **d. Other:** Please review our [Terms of Use Agreement](https://web.archive.org/sitewide/legal/terms.jhtml) which governs your use of the Site. Any terms that are not defined in this Privacy Policy shall have the meaning given in the Terms of Use Agreement. 
 
 This Privacy Policy was last modified on the date indicated above and is effective immediately. 
+
+Copyright © 2014 Viacom Media Networks, a division of Viacom International Inc. - All Rights Reserved
