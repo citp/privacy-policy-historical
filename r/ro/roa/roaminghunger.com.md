@@ -1,115 +1,105 @@
-> *The following text is extracted and transformed from the roaminghunger.com privacy policy that was archived on 2015-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150421050417id_/http%3A//roaminghunger.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roaminghunger.com privacy policy that was archived on 2015-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151017101939id_/http%3A//roaminghunger.com/pages/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Roaming Hunger
 
-Roaming Hunger is an online service that provides recommendations for mobile food vendors and restaurants. Our Web site is owned and operated by Roaming Hunger Inc.
+**Last Updated: September 16, 2015**
 
-We understand that providing information online involves a great deal of trust on your part. We take this trust very seriously, and make it a high priority to ensure the security and confidentiality of the personal information you provide to us. Before submitting your personal information to our Web site, please read this Policy carefully to learn about our privacy practices. By visiting Roaming Hunger’s Web site, [www.roaminghunger.com](http://www.roaminghunger.com/), you are accepting the practices described herein.
+This Privacy Policy explains how information about you is collected, used and disclosed by Roaming Hunger, Inc. (" **Company"** ). This Privacy Policy applies to information we collect when you use our websites, mobile applications and other online products and services that link to this Privacy Policy (collectively, the " **Services** ") or when you otherwise interact with us. 
 
-## What information we collect from you
+We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you a notification). We encourage you to review the Privacy Policy whenever you access the Services or otherwise interact with us to stay informed about our information practices and the ways you can help protect your privacy. 
 
-**In General.**
+## Collection of Information
 
-We receive and store any information you enter on our Web site or give us in any other way. This includes information that can identify you ("personal information"), including your first and last name, telephone number, postal and e-mail addresses, user name and password. We may also request information about your travel plans, style, and preferences, including meal requests, seat selection, frequent flyer/hotel/car rental program information, and flight class, luggage, and ticketing options. You can choose not to provide information to us, but in general some information about you is required in order for you to enjoy the benefits of being a registered member. For example, only registered members are able to post travel reviews, participate in discussion forums, e-mail Roaming Hunger content to themselves and others, access members-only newsletters and travel planning content, and enter surveys, contests, or sweepstakes. In addition, some information is also required in order for you to ask us a question or initiate other transactions on our site.
+_Information You Provide to Us_
 
-**Information About Others.**
+We collect information you provide directly to us. For example, we collect information when you create an account, participate in any interactive features of the Services, fill out a form, participate in a contest or promotion, make a purchase, apply for a job, communicate with us via third party social media sites, request customer support or otherwise communicate with us. The types of information we may collect include your name, email address, postal address, phone number, fax number, financial information (including credit or debit card number, expiration date and security code) and any other information you choose to provide. 
 
-You will have the opportunity to provide contact information for other people through our Web site. You should obtain the consent of other individuals prior to providing Roaming Hunger with their personal information.
+_Information We Collect Automatically When You Use the Services_
 
-**Information from Other Sources.**
+When you access or use our Services, we automatically collect information about you, including:
 
-We also may periodically obtain both personal and non-personal information about you from affiliated entities, business partners and other independent third-party sources and add it to other information about you. For example, if you visit Roaming Hunger by “clicking-through” from a site operated by one of our business partners, and you have registered with that partner, then information about you that you have provided to that partner may be shared with us. Examples of other information we may receive include contact information and demographic information. As another example, if you access third party services, such as social media services, through our Web site, we may collect information such as your user name, password, and other information made available to us through those services.
-
-**Automatic Information.**
-
-We automatically collect some information about your computer when you visit Roaming Hunger. For example, we will collect session data, including your IP address, Web browser software, and referring Web site. We also may collect information about your online activity, such as content viewed and pages visited. One of our goals in collecting this automatic information is to help us understand the interests of our users and customize your user experience.
-
-**Cookies and Other Web Technologies.**
-
-Cookies are small data text files and can be stored on your computer’s hard drive (if your Web browser permits). roaminghunger.com and its affiliated websites use cookies for the following general purposes:
-
-  * To help us recognize your browser as a previous visitor and save and remember any preferences that may have been set while your browser was visiting our site. For example, if you register on our site, we may use cookies to remember your registration information, so you do not need to log into our site each time you visit. We also may record your password in a cookie, if you checked the box entitled "Save this password for automatic sign-in." Please note that member IDs, passwords, and any other account-related data included in such cookies are encrypted for security purposes.
-  * To help us customize the content, website experience,and advertisements provided to you on our websites and on other websites across the Internet. For example, when you access a web page, a cookie is automatically set by us, our service providers, or our partners to recognize your browser as you navigate on the Internet and to present you with information and advertising based on your apparent interests. See Display of Advertising/Your Choices for more information about our online advertising practices and your choices.
-  * To help measure and research the effectiveness of website features and offerings, advertisements, and e-mail communications (by determining which e-mails you open and act upon).
+  * **Log Information:** We collect log information about your use of the Services, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to our Services. 
+  * **Device Information:** We collect information about the computer or mobile device you use to access our Services, as provided to us by your computer or mobile device in standard web interactions, including the hardware model, operating system and version, unique device identifiers and mobile network information. 
+  * **Location Information:** We may collect information about your location of your device when you affirmatively provide it to us following our request for such information. For more details, please see "Your Choices" below. 
+  * **Information Collected by Cookies and Other Tracking Technologies:** We and our service providers use various technologies to collect information, including cookies and web beacons. Cookies are small data files stored in your computer’s or device’s memory that help us improve our Services and your experience, see which areas and features of our Services are popular and count visits. Web beacons are electronic images that may be used in our Services or emails and help deliver cookies, count visits and understand usage and campaign effectiveness. For more information about cookies, and how to disable them, please see "Your Choices" below. 
 
 
 
-The Help portion of the toolbar on most browsers should tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable most types of cookies. Please note that if you refuse to accept cookies, you may not be able to access many of the travel tools offered on our sites.
+_Information We Collect From Other Sources_
 
-## How we use your information
+We may also obtain information from other sources and combine that with information we collect through our Services. For example, if you create or log into your account through a social media site, we will have access to certain information from that site, such as your name, friend lists and account information, in accordance with the authorization procedures determined by such social media site. Additionally, if you are a vendor, we may use information from your social media sites to populate our food truck maps. 
 
-Roaming Hunger uses the information we collect about you for the following general purposes: for registration and to manage your account, including to facilitate your access to and use of our site; to communicate with you in general, including to provide information about Roaming Hunger and invitations from the Roaming Hunger community; to enable us to publish your reviews, forum posts, and other content to the Roaming Hunger community; to respond to your questions and comments; to measure interest in and improve our products, services, and Web site; to notify you about special offers and products or services available from us or our partners that may be of interest to you; to otherwise customize your experience with Roaming Hunger; to solicit information from you, including through surveys; to resolve disputes or troubleshoot problems; to prevent potentially prohibited or illegal activities; to enforce our Terms of Use; and as otherwise described to you at the point of collection.
+## Use of Information
 
-If you have signed up as the owner or manager of a vacation rental, or listed your vacation rental property in our Destination Resources section, we will send you e-mail messages at the email address you provide to us.
+We may use information about you for various purposes, including to:
 
-Please review "Your choices with respect to the collection and use of your information" below.
-
-## With whom we share your information
-
-Roaming Hunger may share your information with the following entities:
-
-  * _Third-party vendors_ who provide services or functions on our behalf, including business analytics, customer service, marketing, distribution of surveys or sweepstakes programs, and fraud prevention. We may also authorize third-party vendors to collect information on our behalf, including as necessary to operate features of our website or to facilitate the delivery of online advertising tailored to your interests. Third-party vendors have access to and may collect information only as needed to perform their functions and are not permitted to share or use the information for any other purpose.
-  * _Business partners_ with whom we may offer products or services in conjunction. You can tell when a third party is involved in a product or service you have requested because their name will appear either with ours or separately. If you choose to access these optional services, we may share information about you, including your personal information, with those partners. Please note that we do not control the privacy practices of these third-party business partners.
-  * _Social Media Services_. You can choose to access certain third party social media Web sites and services through our site (such as Facebook). When you do so, you are sharing information with those sites, and the information you share will be governed by their privacy policies. You may also be able to modify your privacy settings with these third party social media web sites.
-
-
-
-We also may share your information:
-
-  * In response to subpoenas, court orders, or other legal process; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases we reserve the right to raise or waive any legal objection or right available to us.
-  * When we believe it is necessaryto investigate, prevent, or take action regarding illegal or suspected illegal activities; to protect and defend the rights, property, or safety of Roaming Hunger, our customers, or others; and in connection with our Terms of Service and other agreements.
-  * In connection with a corporate transaction, such as a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy.
+  * Provide, maintain and improve our Services;
+  * Provide and deliver the products and services you request, process transactions and send you related information, including confirmations and invoices, 
+  * Send you technical notices, updates, security alerts and support and administrative messages;
+  * Respond to your comments, questions and requests and provide customer service;
+  * Communicate with you about products, services, offers, promotions, rewards, and events offered by Company and others, and provide news and information we think will be of interest to you; 
+  * Monitor and analyze trends, usage and activities in connection with our Services; 
+  * Detect, investigate and prevent fraudulent transactions and other illegal activities and protect the rights and property of Company and others; 
+  * Personalize and improve the Services and provide advertisements, content or features that match user profiles or interests; 
+  * Facilitate contests, sweepstakes and promotions and process and deliver entries and rewards;
+  * Link or combine with information we get from others to help understand your needs and provide you with better service; and 
+  * Carry out any other purpose for which the information was collected.
 
 
 
-If you choose to create a profile on Roaming Hunger, certain information in your profile will be publicly viewable and identifiable via your screen name. You will have the ability to view your profile as members of the public will see it. Additionally, if you choose to participate in our member-to-member communications programs, other Roaming Hunger members may contact you by using Roaming Hunger as an intermediary; however, Roaming Hunger will not share your email address with any other members nor display it any public manner. All Roaming Hunger members have the option to turn off the member-to-member communication features at any time.
+Company is based in the United States and the information we collect is governed by U.S. law. By accessing or using the Services or otherwise providing information to us, you consent to the processing and transfer of information in and to the U.S. and other countries, where you may not have the same rights as you do under local law. Where this is the case, we will take appropriate measures to protect information about you in accordance with this Privacy Policy. 
 
-Other than as set out above, you will be notified when personal information about you will be shared with third parties, and you will have an opportunity to choose not to have us share such information.
+## Sharing of Information
 
-We also may share aggregate or anonymous information with third parties, including advertisers and investors. For example, we may tell our advertisers the number of visitors our Web site receives or the most popular hotels and vacation destinations. This information does not contain any personal information and is used to develop content and services we hope you will find of interest.
+We may share information about you as follows or as otherwise described in this Privacy Policy:
 
-## How you can access your information
-
-We take reasonable steps to ensure that your information is relevant to its intended use, accurate, and complete. You can access and update your contact information by visiting the [Member Profile](https://web.archive.org/MemberProfile) page on the Roaming Hunger Web site. You can close your Roaming Hunger account by contacting us at the email address listed below. We will send you an e-mail to confirm your request. Please note that after you close an account, you will not be able to sign in or access any of your personal information. However, you can open a new account at any time. Please also note that we may retain certain information associated with your account in our archives, including for analytical purposes as well as for recordkeeping integrity.
-
-**Your choices with respect to the collection and use of your information**
-
-  * As discussed above, you can choose not to provide us with any information, although it may be needed to take advantage of certain features offered on Roaming Hunger.
-  * You also can add or update information and close your account as described above.
-  * As a registered Roaming Hunger member, you can modify your e-mail subscription choices at any time on the Member Profile page. Whether registered as a Roaming Hunger member or not, you also will be given the opportunity to unsubscribe from promotional messages in any such e-mail we send. Please note that we reserve the right to send you other communications, including service announcements, administrative messages, and surveys relating either to your Roaming Hunger account, without offering you the opportunity to opt out of receiving them.
-  * Email Communications.roaminghunger.com wants to make it easy for you to take advantage of travel-related opportunities on our Web site. One way we do this is by sending you e-mail messages that contain information about your apparent travel-related interests. For example, if you search for a flight to New York, or New York hotels or reviews on roaminghunger.com, we may send you an email message reminding you about special airfare or hotel offers in New York. Similarly, if you receive an email about New York travel and demonstrate an interest in New York hotels, flights, or local travel reviews by affirmatively clicking on a link about New York hotels in the email, you may receive an email about New York hotel or flight offers. We believe these email messages will provide you with useful information about travel-related special offers available through our sites. Please note that you will have the opportunity to choose not to receive these email messages in any such email we send.
-  * The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Please note that if you refuse to accept cookies from Roaming Hunger, you will not be able to access portions of our site.
+  * With vendors, consultants and other service providers who need access to such information to carry out work on our behalf; 
+  * In response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law, regulation or legal process; 
+  * If we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property and safety of Company or others; 
+  * In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business by another company; 
+  * Between and among Company and its current and future parents, affiliates, subsidiaries and other companies under common control and ownership; and 
+  * With your consent or at your direction.
 
 
 
-## How we protect your information
+We may also share aggregated or de-identified information, which cannot reasonably be used to identify you.
 
-We want you to feel confident about using Roaming Hunger, and we are committed to protecting the information we collect. While no Web site can guarantee security, we have implemented appropriate administrative, technical, and physical security procedures to help protect the personal information you provide to us. For example, only authorized employees are permitted to access personal information, and they only may do so for permitted business functions. In addition, we use encryption when transmitting your personal information between your system and ours, and we employ firewalls and intrusion detection systems to help prevent unauthorized persons from gaining access to your information.
+## Security
 
-## Children's privacy
+Company takes reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction. 
 
-Roaming Hunger is a general audience site and does not offer services directed to children. Should an individual whom we know to be a child under age 13 send personal information to us, we will delete or destroy such information as soon as reasonably possible.
+## Social Sharing Features
 
-## External links
+The Services may offer social sharing features and other integrated tools (such as the Facebook "Like" button), which let you share actions you take on our Services with other media, and vice versa. Your use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features. 
 
-If any part of the Roaming Hunger Web site links you to other Web sites, those external Web sites do not operate under this Privacy Policy. We recommend that you examine the privacy statements posted on those other Web sites to understand their procedures for collecting, using, and disclosing personal information.
+## Advertising and Analytics Services Provided by Others
 
-## Visiting our Web sites from outside the United States
+We may allow others to provide analytics services and serve advertisements on our behalf across the Internet and in applications. These entities may use cookies, web beacons, device identifiers and other technologies to collect information about your use of the Services and other websites and applications, including your IP address, web browser, mobile network information, pages viewed, time spent on pages or in apps, links clicked and conversion information. This information may be used by Company and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites and better understand your online activity. For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit [www.aboutads.info/choices](https://web.archive.org/web/20151017101939id_/http://roaminghunger.com/pages/privacy_policy/www.aboutads.info/choices). 
 
-If you are visiting our Web site from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country, but please be assured that Roaming Hunger does take steps pursuant to laws in the United States to ensure that your privacy is protected. By using our services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this Policy.
+We may also work with third party social platforms, such as Facebook, to serve ads to you as part of a customized campaign, unless you notify us that you prefer not to have information about you used in this way by following the instructions provided by Facebook or such applicable third party social platform. 
 
-## Your California privacy rights
+## Your Choices
 
-California Civil Code Section 1798.83 permits California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please email [membersupport@roaminghunger.com](mailto:membersupport@roaminghunger.com).
+_Account Information_
 
-## Changes to this Privacy Policy
+You may update, correct or delete information about you at any time by logging into your online account, emailing us at [support@roaminghunger.com](https://web.archive.org/web/20151017101939id_/http://roaminghunger.com/pages/privacy_policy/support@roaminghunger.com) or calling us at 800-568-9370. If you wish to delete or deactivate your account, please email us at support@roaminghunger.com but note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of information about you for a certain period of time. 
 
-Roaming Hunger may update this Privacy Policy in the future. We will notify our members about material changes to this Privacy Policy by either sending a notice to the e-mail address you provided to us or by placing a prominent notice on our Web site.
+_Location Information_
 
-## How you can contact us
+From time to time, we may ask for your location in order to provide you with information about food trucks that may be near to you. If you provide this information, we will collect it and provide you with information about such food trucks. If you choose not to provide your location information, we will not be able to provide you with this information. 
 
-If you have questions about this Privacy Policy, please contact us at:
+_Cookies_
 
-Email: [membersupport@roaminghunger.com](mailto:membersupport@roaminghunger.com)
+Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Removing or rejecting browser cookies does not necessarily affect third party flash cookies used in connection with our Services. To delete or disable flash cookies please visit <http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html> for more information. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services. 
 
-This Privacy Policy is effective as of June 24, 2010
+_Promotional Communications_
+
+You may opt out of receiving promotional emails or text messages from Company by following the instructions in those emails or text messages or by emailing us at support@roaminghunger.com. If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing business relations. 
+
+_Mobile Push Notifications/Alerts_
+
+With your consent, we may send promotional and non-promotional push notifications or alerts to your mobile device. You can deactivate these messages at any time by changing the notification settings on your mobile device. 
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at: 8228 W Sunset Blvd, Suite B, West Hollywood, CA 90046, by phone at 800-568-9370 or by email at [support@roaminghunger.com](https://web.archive.org/web/20151017101939id_/http://roaminghunger.com/pages/privacy_policy/support@roaminghunger.com). 
