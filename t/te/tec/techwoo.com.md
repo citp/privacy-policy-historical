@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techwoo.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528064550id_/http%3A//buxup.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techwoo.com privacy policy that was archived on 2015-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151017045440id_/http%3A//buxup.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # BuxUp | Privacy Policy
 
