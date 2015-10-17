@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobal.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622160634id_/https%3A//www.mobal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobal.com privacy policy that was archived on 2015-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151017151436id_/https%3A//www.mobal.com/privacy) for the most accurate reproduction.*
 
 # Mobal | Privacy Information
 
