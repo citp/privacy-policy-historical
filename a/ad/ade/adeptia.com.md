@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adeptia.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316192334id_/https%3A//www.adeptia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adeptia.com privacy policy that was archived on 2015-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151017234648id_/https%3A//adeptia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Adeptia
 
