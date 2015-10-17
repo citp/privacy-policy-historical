@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chatham.edu privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610012126id_/http%3A//www.chatham.edu/about/legal/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatham.edu privacy policy that was archived on 2015-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151017074436id_/http%3A//www.chatham.edu/about/legal/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy | Chatham University, Pittsburgh, PA
 
