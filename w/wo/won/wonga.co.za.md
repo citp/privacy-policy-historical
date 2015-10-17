@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wonga.co.za privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318223022id_/https%3A//www.wonga.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wonga.co.za privacy policy that was archived on 2015-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151017075018id_/https%3A//www.wonga.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Wonga.co.za Official site - Fast little loans
 
