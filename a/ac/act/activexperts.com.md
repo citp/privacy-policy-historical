@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activexperts.com privacy policy that was archived on 2015-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150224184432id_/http%3A//www.activexperts.com/activexperts/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activexperts.com privacy policy that was archived on 2015-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151017210319id_/http%3A//activexperts.com/activexperts/privacypolicy) for the most accurate reproduction.*
 
 # ActiveXperts Privacy Policy
 
