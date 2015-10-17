@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the educanon.com privacy policy that was archived on 2015-05-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150508084441id_/http%3A//www.educanon.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the educanon.com privacy policy that was archived on 2015-10-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151017143913id_/https%3A//www.educanon.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
-    <script type="text/javascript" async="" src="//widget.uservoice.com/apWCQwoLM4UCHPU1RfAg.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><title>eduCanon</title>
+<!DOCTYPE html><html lang="en"><head>
+    <script type="text/javascript" async="" src="//widget.uservoice.com/apWCQwoLM4UCHPU1RfAg.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-M9KW84"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script src="//cdn.optimizely.com/js/3172500654.js"></script>
+    <title>eduCanon</title>
     
     <meta name="title" content="eduCanon">
     <meta property="og:image" content="//educanon.com/static/img/dachshundorange200.jpg">
@@ -24,29 +25,17 @@
     <meta name="twitter:image:src" content="http://blog.educanon.com/themes/pure/images/marquee.jpg">
     <link rel="apple-touch-icon" href="/static/img/dachshund_256.png">
     <link rel="shortcut icon" href="/static/img/favicon.ico">
-    <link rel="stylesheet" href="/static/css/app.css?v=1.536">
     <meta name="google-site-verification" content="OKcD6O4asirVYPSEUU-5JqVBKJb6fyVTMIwfRavjd_8">
-    
+          <link rel="stylesheet" href="/static/css/app.css?v=1.552">
+        
   </head>
-  <body><div class="pace pace-active" data-progress-text="44%" data-progress="44"><div class="pace-progress" style="width: 44.6848%;">
+  <body><div class="pace pace-active" data-progress-text="47%" data-progress="47"><div class="pace-progress" style="width: 47.0416%;">
   <div class="pace-progress-inner"></div>
 </div>
 <div class="pace-activity"></div></div>
      
       <script>
-        var _gaq = _gaq || [];
-        var pluginUrl = 
-         '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
-        _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
-        _gaq.push(['_setAccount', 'UA-42920959-1']);
-        _gaq.push(['_trackPageview']);
-
-        (function() {
-          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
-
+        var ouruser_id, ouruser_type, ouruser_active, ouruser_new, ouruser_grade, ouruser_role, ouruser_school,ouruser_license,ouruser_subject;
         window.onerror = function(){
           "use strict";
             var errors = Array.prototype.slice.apply(arguments);
@@ -59,45 +48,33 @@
           var line_string   = isNaN(error_line) ? "" : " (line: " + error_line + "";    
           var column_string = isNaN(error_column) ? "" : ", column: " + error_column + ")";
           var error_event = "[" + error_message + "][" + error_url +  line_string + column_string + "]";
+          //error_event += ouruser_type + " " + ouruser_id;
 
-          if (typeof FromPHP != "undefined" && FromPHP != null) {
-            if (typeof FromPHP.student != "undefined" && FromPHP.student != null) error_event += "Sid=" + FromPHP.student.id;
-            else if (typeof FromPHP.user != "undefined" && FromPHP.user != null) error_event += "Tid=" + FromPHP.user.id;
-            else if (typeof FromPHP.teacher != "undefined" && FromPHP.teacher != null) error_event += "Tid=" + FromPHP.teacher.id;
-            else {
-              //do nothing
-            }
-          }
-
-          if (typeof(_gaq) != "undefined") {
-             _gaq.push(['_trackEvent', 'JSv=1.536', 'JS errors', error_event, null, true]);
-          } else if(typeof(ga) != "undefined") {
-             ga('send', 'event' , 'JSv=1.536', 'JS errors', error_event);
-          } else {
-            // do nothing
+          if (typeof(dataLayer) != "undefined") {
+            dataLayer.push({'event': 'on-js-error','error-output': error_event + " v=1.552" });
           }
             return errors; //make true to hide errors
         }
-      </script> 
+      </script>
     
-    <div id="container">
-      <nav id="header">
-        <a href="/index" class="web-app"><h1 class="logo">eduCanon</h1></a> 
-        <a href="/tutorial" class="web-app"><img class="logo" src="/static/img/dachshundlogo.png" alt="Flipped classroom"></a>
-        <div id="nav">
-          <ul class="header-links">
-                          <li class="Login">
-                <a href="/login" class="web-app Login " id="link-0">Login</a>
-                          </li><li class="Signup">
-                <a href="/signup" class="web-app Signup " id="link-1">Signup</a>
-                          </li><li class="Browse">
-                <a href="/curriculum/browse" class="web-app Browse " id="link-2">Browse</a>
-                          </li><li class="Blog">
-                <a href="http://blog.educanon.com" class="web-app Blog " id="link-3">Blog</a>
-                      </li></ul>
-        </div>
-      </nav>
-      <div id="body">
+        <div id="container">
+              <nav id="header">
+          <a href="/index" class="web-app"><h1 class="logo">eduCanon</h1></a>
+          <a href="/dash" class="web-app"><img class="logo" width="60" height="33" src="/static/img/dachshundlogo.png" alt="Flipped classroom dog logo"></a>
+          <div id="nav">
+            <ul class="header-links">
+                              <li class="Login">
+                  <a href="/login" class="web-app Login " id="link-0">Login</a>
+                              </li><li class="Signup">
+                  <a href="/signup" class="web-app Signup " id="link-1">Signup</a>
+                              </li><li class="Browse">
+                  <a href="/curriculum/browse" class="web-app Browse " id="link-2">Browse</a>
+                              </li><li class="Blog">
+                  <a href="http://blog.educanon.com" class="web-app Blog " id="link-3">Blog</a>
+                          </li></ul>
+          </div>
+        </nav>
+            <div id="body">
         
 <div class="terms">
 <p><b>Last Updated:</b>  June 1, 2013</p>
@@ -157,8 +134,8 @@
               <li><a href="https://twitter.com/educanon123" class="twitter-follow-button" data-show-count="false">
                 Follow @educanon123</a>
               </li>
-              <li><a href="https://plus.google.com/109276200118506871555" rel="publisher"><img src="/static/img/google-plus-icon.png" style="vertical-align:middle; height:2em;"></a></li>
-              <li><div style="margin-top:5px; position:absolute; display:inline;"><a href="//www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.educanon.com%2F&amp;media=http%3A%2F%2Feducanon.com%2Fstatic%2Fimg%2Fdachshundorange200.jpg&amp;description=Build%20formative%20assessments%20right%20on%20top%20of%20any%20YouTube%2C%20Vimeo%2C%20or%20TeacherTube%20video" data-pin-do="buttonPin" data-pin-config="none" style="margin-top:1em!important;"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_gray_20.png"></a></div>
+              <li><a href="https://plus.google.com/109276200118506871555" rel="publisher"><img src="/static/img/google-plus-icon.png" style="vertical-align:middle; height:2em;" alt="google sso"></a></li>
+              <li><div style="margin-top:5px; position:absolute; display:inline;"><a href="//www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.educanon.com%2F&amp;media=http%3A%2F%2Feducanon.com%2Fstatic%2Fimg%2Fdachshundorange200.jpg&amp;description=Build%20formative%20assessments%20right%20on%20top%20of%20any%20YouTube%2C%20Vimeo%2C%20or%20TeacherTube%20video" data-pin-do="buttonPin" data-pin-config="none" style="margin-top:1em!important;"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_gray_20.png" alt="pinterest"></a></div>
               </li>
             </ul>
           </nav>
@@ -168,50 +145,168 @@
           !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
           
         </script>
-          
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" crossorigin=""></script>
-    <script type="text/javascript" src="/min/b=static/js&amp;f=underscore.js,backbone.js,deep-model.js,styling.js,magnific-popup.js,date.format.js?v=1.536"></script>
-    <script>
+          </div>
+    
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" crossorigin="anonymous"></script>
+    <script>window.jQuery || document.write('<script src="/static/js/jquery.1.10.2.min.js">\x3C/script>')</script><script src="/static/js/jquery.1.10.2.min.js"></script>
+    <script src="/static/js/moment.js"></script>
+    <script type="text/javascript" src="/min/b=static/js&amp;f=underscore.js,backbone.js,deep-model.js,styling.js,magnific-popup.js,date.format.js?v=1.552"></script>
+        <script>
       Backbone.emulateJSON = true;
-      window.FromPHP = JSON.parse("null");
+      try {
+        window.FromPHP = JSON.parse("null");
+      } catch(e) {
+        //console.log(JSON.stringify(e));
+      }  
       window.api_prefix = "/api/1.0";
     </script>
+    <script type="text/javascript">
+  
+    var ouruser_id = "",
+        ouruser_type = "none",
+        ouruser_new = false,
+        ouruser_subject = "",
+        ouruser_grade = "",
+        ouruser_role = "",
+        ouruser_school = "",
+        ouruser_school_id = "",
+        ouruser_premium = false,
+        ouruser_premium_date = false,
+        ouruser_students = "",
+        ouruser_email = "",
+        ouruser_name = "",
+        ouruser_signup = "",
+        ouruser_lessons = "",
+        ouruser_phone = "",
+        ouruser_questions = "";
+
+    if (typeof FromPHP != "undefined" && FromPHP != null) {
+      if (typeof FromPHP.student != "undefined" && FromPHP.student != null) {
+        ouruser_type = "student";
+        ouruser_id = FromPHP.student.id;
+      } else if (typeof FromPHP.user == "object") {
+        ouruser_id = FromPHP.user.id;
+        ouruser_type = "teacher";
+        ouruser_grade = FromPHP.user.grade_default;
+        ouruser_subject = FromPHP.user.subject_default;
+        ouruser_role = FromPHP.user.role;
+        ouruser_school = FromPHP.user.school_name;
+        ouruser_school_id = FromPHP.user.school_id;
+        ouruser_email = FromPHP.user.email;
+        ouruser_name = FromPHP.user.student_name;
+        ouruser_phone = FromPHP.user.school_zip;
+        ouruser_signup = new Date(FromPHP.user.timestamp).getTime() / 1000;
+        if (FromPHP.user.last_login.slice(-1) == ";") ouruser_new = "new_user";
+      } else if (typeof FromPHP.teacher == "object") {
+        ouruser_id = FromPHP.teacher.id;
+        ouruser_type = "teacher";
+        ouruser_grade = FromPHP.teacher.grade_default;
+        ouruser_subject = FromPHP.teacher.subject_default;
+        ouruser_role = FromPHP.teacher.role;
+        ouruser_school = FromPHP.teacher.school_name;
+        ouruser_school_id = FromPHP.teacher.school_id;
+        ouruser_email = FromPHP.teacher.email;
+        ouruser_name = FromPHP.teacher.student_name;
+        ouruser_phone = FromPHP.teacher.school_zip;
+        ouruser_signup = new Date(FromPHP.teacher.timestamp).getTime() / 1000;
+        if (FromPHP.teacher.last_login.slice(-1) == ";") ouruser_new = "new_user";
+        if (FromPHP.active_students) ouruser_students = FromPHP.active_students;
+      }
+      if (typeof FromPHP.features != "undefined" && FromPHP.features[0] != null) {
+        ouruser_premium_date = new Date(FromPHP.features[0].timstamp).getTime() / 1000;
+        ouruser_premium = true;
+      }
+      if (typeof FromPHP.dataLayer == "object") {
+        ouruser_lessons = FromPHP.dataLayer.lessons;
+        ouruser_questions = FromPHP.dataLayer.questions;
+      }
+    }
+    dataLayer = [{
+      'ouruser_id': ouruser_id,
+      'ouruser_type': ouruser_type,
+      'ouruser_new': ouruser_new,
+      'ouruser_subject': ouruser_subject,
+      'ouruser_grade': ouruser_grade,
+      'ouruser_role': ouruser_role,
+      'ouruser_school': ouruser_school,
+      'ouruser_school_id': ouruser_school_id,
+      'ouruser_premium': ouruser_premium,
+      'ouruser_premium_date': ouruser_premium_date,
+      'ouruser_students': ouruser_students,
+      'ouruser_email': ouruser_email,
+      'ouruser_name': ouruser_name,
+      'ouruser_signup': ouruser_signup,
+      'ouruser_lessons': ouruser_lessons,
+      'ouruser_questions': ouruser_questions,
+      'ouruser_phone': ouruser_phone
+    }];
+  
+</script>
+          
+      <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-M9KW84" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-M9KW84');</script>
     
-    <script>(function(){var uv=document.createElement('script');uv.type='text/javascript';uv.async=true;uv.src='//widget.uservoice.com/apWCQwoLM4UCHPU1RfAg.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(uv,s)})()</script>
-    <script>
-    
-      UserVoice = window.UserVoice || [];
-      UserVoice.push(['set', {accent_color: '#ff9900', trigger_color: 'white', trigger_background_color: '#ff9900'}]);
-      UserVoice.push(['identify', {}]);
-      UserVoice.push(['addTrigger', { mode: 'contact', trigger_position: 'bottom-right' }]);
-      UserVoice.push(['autoprompt', {}]);
-    
-    </script>
-    
+          
+      <script async="" type="text/javascript">
+        UserVoice=window.UserVoice||[];(function(){var uv=document.createElement('script');uv.type='text/javascript';uv.async=true;uv.src='//widget.uservoice.com/apWCQwoLM4UCHPU1RfAg.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(uv,s)})();
+
+        UserVoice.push(['set', {
+          accent_color: '#ff9900',
+          trigger_color: 'white',
+          trigger_background_color: '#ff9900'
+        }]);
+        //UserVoice.push(['identify', {}]);
+        try {
+          UserVoice.push(['identify', {
+            //email:      'john.doe@example.com', // User’s email address
+            name:       "name: "+ouruser_name, // User’s real name
+            //created_at: 1364406966, // Unix timestamp for the date the user signed up
+            id:         "id: "+ouruser_id, // Optional: Unique id of the user (if set, this should not change)
+            type:       ouruser_type+" & role:"+ouruser_role+" & school_id:"+ouruser_school_id+" & premium:"+ouruser_premium+" "+ouruser_email, // Optional: segment your users by type
+            account: {
+              id:           "signup: "+ouruser_signup, // Optional: associate multiple users with a single account
+              name:         "phone: "+ouruser_phone, // Account name
+              //created_at:   ouruser_signup, // Unix timestamp for the date the account was created
+              //monthly_rate: ouruser_phone, // Decimal; monthly rate of the account
+              //ltv:          ouruser_school_id, // Decimal; lifetime value of the account
+              plan:         "L: "+ouruser_lessons+"; Q: "+ouruser_questions // Plan name for the account
+            }
+          }]);
+        } catch(e) {
+          UserVoice.push(['identify', {}]);
+        } 
+        UserVoice.push(['addTrigger', {mode: 'satisfaction', trigger_position: 'bottom-right' }]);
+        UserVoice.push(['autoprompt', {}]);
+      
+      </script>
+        
 <script>
 $("#site-footer").css("position", "fixed");
 </script>
 
+    <script type="text/javascript" src="/static/js/parsley.min.js"></script>
     <script src="/static/js/pace.min.js"></script>
     <script type="text/javascript">
-    
-      //Blocking things on edmodo
-      var edmodo = FromPHP ? 
-        (FromPHP.user ? (FromPHP.user.edmodoSesh) : 
-          (FromPHP.student ? FromPHP.student.edmodoSesh : 
-            (FromPHP.teacher ? FromPHP.teacher.edmodoSesh : false))) : false;
-      if(edmodo === true){
-        $(".Premium").css("display", "none"); //removing premium link
-        $(".premium-feature-promo").css("display", "none"); //Remove premium prompt signup
-      }
-      if(location.search.match(/cn=(.)/)) {
-        var campaign = location.search.match(/cn=(.)/)[1];
-        $.post( "/set_session/"+campaign, function (datum) {
-          //setting campaign type
-        });
-      }
-    
+      
+        //Blocking things on edmodo
+        var edmodo = FromPHP ? 
+          (FromPHP.user ? (FromPHP.user.edmodoSesh) : 
+            (FromPHP.student ? FromPHP.student.edmodoSesh : 
+              (FromPHP.teacher ? FromPHP.teacher.edmodoSesh : false))) : false;
+        if(edmodo === true){
+          $(".Premium").css("display", "none"); //removing premium link
+          $(".premium-feature-promo").css("display", "none"); //Remove premium prompt signup
+        }
+        if(location.search.match(/cn=(.)/)) {
+          var campaign = location.search.match(/cn=(.)/)[1];
+          $.post( "/set_session/"+campaign, function (datum) {
+            //setting campaign type
+          });
+        }
+      
+      $(document).ready(function() {
+              });
     </script>
-  <script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-2.newrelic.com","923bbb1839","2423311","YQYAYUVTW0dSWxIKVlhMN0deHVxaV10eTUleEw==",0,66,new Date().getTime(),"","","","",""]);</script>
+  
 
-</div><script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
+</body></html>
