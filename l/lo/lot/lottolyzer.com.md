@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lottolyzer.com privacy policy that was archived on 2015-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150331141724id_/http%3A//en.lottolyzer.com/privacy-policy/hong-kong/mark-six) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lottolyzer.com privacy policy that was archived on 2015-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151017042157id_/http%3A//en.lottolyzer.com/privacy-policy/united-states/mega-millions) for the most accurate reproduction.*
 
-# 六合彩 Mark Six Hong Kong - Privacy Policy
+# Mega Millions United States - Privacy Policy
 
 ####  Privacy Policy 
 
