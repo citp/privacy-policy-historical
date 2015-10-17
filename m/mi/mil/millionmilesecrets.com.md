@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the millionmilesecrets.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627210607id_/https%3A//millionmilesecrets.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millionmilesecrets.com privacy policy that was archived on 2015-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151017231908id_/http%3A//millionmilesecrets.com/privacy.html) for the most accurate reproduction.*
 
 # MillionMileSecrets › Terms of Use
 
