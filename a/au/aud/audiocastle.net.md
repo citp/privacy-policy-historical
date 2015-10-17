@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audiocastle.net privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502152439id_/http%3A//www.audiocastle.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiocastle.net privacy policy that was archived on 2015-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151017145536id_/http%3A//www.audiocastle.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -29,7 +29,7 @@ PRIVACY POLICY 
 
 (EFFECTIVE AS OF December 20, 2012) 
 
-This Privacy Policy is effective as of January 30, 2012, for AudioCastle Media, Inc. and its subsidiaries ("AudioCastle ", "we", "us" or "our"). It applies to the United States operations for the AudioCastle ® internet radio service (the "Service") that we offer through our website located at www.audiocastle.net , supported mobile devices, consumer electronics devices, devices connected to or installed in an automobile, automotive sound systems and other mechanisms. 
+This Privacy Policy is effective as of January 30, 2012, for AudioCastle Media, Inc. and its subsidiaries ("AudioCastle ", "we", "us" or "our"). It applies to the United States operations for the AudioCastle ® internet radio service (the "Service") that we offer through our website located at [www.audiocastle.net](http://www.audiocastle.net/) , supported mobile devices, consumer electronics devices, devices connected to or installed in an automobile, automotive sound systems and other mechanisms. 
 
 We will continue to evaluate this Privacy Policy against new technologies, business practices, and our listeners' needs, and may make changes to the Privacy Policy accordingly. Please check this page periodically for updates. If we make any material changes to this Privacy Policy, we will post the updated Privacy Policy here and notify you by email or by means of a notice on our website. 
 
@@ -82,3 +82,7 @@ Service partners: When you access the Service through a service partner, we may 
 Information about your computer or device: We may also collect information about the computer, mobile or other devices you use to access and listen to the Service. For example, our servers receive and record information about your computer and browser, including potentially your IP address, browser type, and other software or hardware information. If you access the Service from a mobile or other device, we may collect a unique device identifier assigned to that device or other transactional information for that device. 
 
 • Tracking technology: We use what are commonly called "cookies," a small data string our server writes to your hard drive, and other tracking technology to help us manage and track your interaction with AudioCastle Services. These technologies collect non-personally identifiable..
+
+ _How we use cookies?_
+
+A cookie is a small piece of text sent to your browser by a website you visit. It helps the website to remember information about your visit, like your preferred language and other settings. That can make your next visit easier and the site more useful to you. Cookies play an important role. Without them, using the web would be a much more frustrating experience. We use cookies for many purposes. We use them, for example, to remember your safe search preferences, to make the ads you see more relevant to you, to count how many visitors we receive to a page, to help you sign up for our services and to protect your data.
