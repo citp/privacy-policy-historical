@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technotraits.com privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019132047id_/http%3A//www.technotraits.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technotraits.com privacy policy that was archived on 2015-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151017174931id_/http%3A//www.technotraits.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Technotraits.com
 
