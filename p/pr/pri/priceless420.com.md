@@ -1,23 +1,15 @@
-> *The following text is extracted and transformed from the priceless420.com privacy policy that was archived on 2012-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120120195837id_/http%3A//priceless420.com/Priceless-Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the priceless420.com privacy policy that was archived on 2015-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151017205518id_/http%3A//torrent.st/privacy) for the most accurate reproduction.*
 
-# PRICELESS
+# Privacy Download Movies, Music, Mp3, Games, Tv, XXX Porno - Torrent.st
 
-  
-| 
+**Your Privacy**  
+We respect your privacy and we are committed to protect it. We don't sell, share, and show your personal information without your prior permission or written consent or unless required by law. We never collect any information about you except those specifically provided by you or limited information that the browser made available when you visited our site, for example, the IP address while you are on the site, visiting time, the link clicked, the browser type, and cookies.
 
-**  Do you have some priceless pics that you would like to share?  
-Send them to [webslave@priceless](mailto:webslave@priceless.bla-bla.com)** **Would you like to be notified of new Priceless Pics?  
-**Sign up** ** ******** **in the Listbot button to the left!** ****
+**Third Party Websites**  
+We cooperate with third-party companies even when you visit our site. We need these companies to provide us with some site audience and visits details, and they may see and use information about your visits. It bears no relation to your personal data, such as your name, email address or telephone number.
 
-**** You can also receive "Daily Ha-ha's" World Famous Joke & Cool Link newsletter, The freshest and funniest humor on the Web!** **
+**Third Party Cookies**  
+We use cookies to store your choices and preferences.
 
-** Privacy Policy**
-
-Priceless has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site: priceless.bla-bla.com.
-
-We respect your privacy! Any and all information collected at this site will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. Any information you give to priceless.bla-bla.com will be held with the utmost care and will not be used in ways that you have not consented to. If you have any questions, please don't hesitate to let us know.
-
-This site contains links to other sites. priceless.bla-bla.com is not responsible for the privacy practices or the content of such Web sites.
-
-|     
----|---|---
+**Privacy Policy Changes**  
+We have all rights to change, alter or modify our privacy policy at any time without prior notice. We will immediately post changes on this page and let you get acquainted with them.
