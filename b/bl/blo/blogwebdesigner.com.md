@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogwebdesigner.com privacy policy that was archived on 2014-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140926073919id_/http%3A//www.blogwebdesigner.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogwebdesigner.com privacy policy that was archived on 2015-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151017074052id_/http%3A//www.blogwebdesigner.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Blog Web Designer
 
