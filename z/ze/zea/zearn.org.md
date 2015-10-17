@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the zearn.org privacy policy that was archived on 2015-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150327120211id_/https%3A//www.zearn.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zearn.org privacy policy that was archived on 2015-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151017055152id_/https%3A//www.zearn.org/privacy) for the most accurate reproduction.*
 
 # Zearn
+
+[](https://web.archive.org/demo)
 
 Zearn, Inc. (“Zearn,” “we,” “us,” and “our”) WILL NOT sell, trade, or assign any unaggregated, personally-identifiable personal information that it collects to third parties outside of Zearn. If Zearn shares any such information with a third party, it will be in accordance with the terms of this privacy policy and for the limited purposes that we discuss below. If you have any questions, concerns or comments regarding this privacy policy, you may contact us at the email and address posted at the end of this policy statement. We are committed to addressing your privacy or security questions or concerns. 
 
@@ -72,5 +74,5 @@ Zearn, Inc.
 261 West 35th Street  
 15th floor  
 New York, NY 10001  
-[tel: (212) 967-6071](https://web.archive.org/web/20150327120211id_/https%3A//www.zearn.org/2129676071)  
+[tel: (212) 967-6071](https://web.archive.org/web/20151017055152id_/https%3A//www.zearn.org/2129676071)  
 Or email us at: [support@zearn.org](mailto:support@zearn.org)
