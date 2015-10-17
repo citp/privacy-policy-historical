@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotgames14.com privacy policy that was archived on 2015-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150421055718id_/http%3A//www.webgame14.com/page/1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotgames14.com privacy policy that was archived on 2015-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151017104125id_/http%3A//www.webgame14.com/page/1.html) for the most accurate reproduction.*
 
 # Web Game 14 - Privacy Policy
 
