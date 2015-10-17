@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the pcx.com.ph privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315003358id_/http%3A//pcx.com.ph/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcx.com.ph privacy policy that was archived on 2015-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151017045036id_/http%3A//pcx.com.ph/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy
+
+  *     * The requested page could not be found
+    * The requested page could not be found
+
+
 
 This privacy policy sets out how PC Express uses and protects any information that you give PC Express when you use this website. PC Express is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. PC Express may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
