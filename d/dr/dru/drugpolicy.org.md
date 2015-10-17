@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the drugpolicy.org privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619143836id_/http%3A//www.drugpolicy.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugpolicy.org privacy policy that was archived on 2015-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151017095724id_/http%3A//www.drugpolicy.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Drug Policy Alliance
 
 We are committed to protecting your privacy. To make your experience at our Website more convenient, we gather information from you. We maintain the privacy of your information using security technologies and adhere to policies that prevent unauthorized use of your personal information.
 
-_This privacy policy was revised May 17, 2012._
+_This privacy policy was revised July 23, 2015._
 
 ##  **What personal information do we collect, and how is it used?**
 
@@ -27,6 +27,10 @@ We keep confidential any personal information entered during registration, thoug
 ##  **Use of Cookies**
 
 Cookies are pieces of information that are stored on your computer and are used for record keeping purposes. We use cookies to make visiting and using our website easier. Cookies can help us see which parts of our website are the most or least popular and provide us direction to improve our customer's online experience.
+
+Drug Policy Alliance is dedicated to providing privacy on the Internet.  In addition to developing our privacy policy, we have provided you the opportunity to opt out of future 3rd party advertising cookies.  
+
+Drug Policy Alliance allows third parties to place cookies on our site for advertising purposes. This Online Privacy Statement does not cover the collection methods or use of the information collected by these vendors. These vendors have their own privacy policies and may be members of the [Network Advertising Initiative](http://www.networkadvertising.org/) ("NAI"). To remove yourself from some or all NAI member advertising programs, please visit the [NAI Opt-Out Page](http://www.networkadvertising.org/managing/opt_out.asp) and follow the relevant instructions. Please note that if you delete, block, or otherwise restrict cookies, or if you use a different computer or Internet browser, you may need to renew your opt-out choice.
 
 ##  **Privacy Policy Changes**
 
