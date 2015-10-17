@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sosonlinebackup.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317145232id_/http%3A//www.infrascale.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sosonlinebackup.com privacy policy that was archived on 2015-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151017112749id_/http%3A//www.infrascale.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Cloud Data Protection | SaaS Solutions from Infrascale
 
