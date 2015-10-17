@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the thefashion.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616114904id_/http%3A//thefashion.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefashion.com privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018001656id_/http%3A//thefashion.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-  * [About Us](https://web.archive.org/about)
-  * [Privacy Policy](https://web.archive.org/privacy)
-  * [Contact Us](https://web.archive.org/contact)
   * [FAQ](https://web.archive.org/faq)
-  * [Terms of Service](https://web.archive.org/terms-of-service)
   * [Careers](https://web.archive.org/careers)
   * [Press & Media](https://web.archive.org/press)
+  * [Privacy Policy](https://web.archive.org/privacy)
+  * [About Us](https://web.archive.org/about)
+  * [Terms of Service](https://web.archive.org/terms-of-service)
+  * [Contact Us](https://web.archive.org/contact)
 
 
 
