@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biosagentplus.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314234029id_/http%3A//www.biosagentplus.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biosagentplus.com privacy policy that was archived on 2015-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151017144954id_/http%3A//biosagentplus.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
