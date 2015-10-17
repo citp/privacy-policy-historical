@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neotel.co.za privacy policy that was archived on 2015-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150212022437id_/http%3A//neotel.co.za/wps/portal/%21ut/p/a1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOIDAgxMPDzdDbwtnC1NDRydDVxDHM29DC0CzIAKIoEKDHAARwNC-sP1o8BKTPydTTycgg28Dcx9gfqCjU0N_N28jA0MDaEK8FhRkBthkOmoqAgA0Et_3Q%21%21/dl5/d5/L2dJQSEvUUt3QS80SmlFL1o2XzRPQzRIQlMwS0c1MDgwQVNKSTUzSkoyU0E2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neotel.co.za privacy policy that was archived on 2015-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151017122600id_/http%3A//www.neotel.co.za/wps/portal/%21ut/p/a0/04_Sj9CPykssy0xPLMnMz0vMAfGjzOJN_J1NPJyCDbzdTQ0sDByDvTxNjb28jIIdzfQLsh0VAR6jcTU%21) for the most accurate reproduction.*
 
 # None
 
