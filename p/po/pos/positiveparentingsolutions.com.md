@@ -1,67 +1,59 @@
-> *The following text is extracted and transformed from the positiveparentingsolutions.com privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603034745id_/http%3A//www.positiveparentingsolutions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the positiveparentingsolutions.com privacy policy that was archived on 2015-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151017130920id_/http%3A//www.positiveparentingsolutions.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Positive Parenting Solutions
 
-## What information do we collect?
+Last updated: October 12, 2015
 
-We collect information from you when you register on our site, place an order, subscribe to our newsletter, register for a webinar, respond to a survey or fill out a form.
+Welcome to positiveparentingsolutions.com (the “ **Site** ”). At Positive Parenting Solutions, we are committed to respecting your privacy and to protecting any information you provide to us. Accordingly, our Privacy Policy is designed to assist you in understanding how we collect, use, and disclose the personal information you provide us and to assist you in making informed decisions when using the Site or otherwise interacting with us
 
-When ordering or registering on our site, as appropriate, you will be asked to enter your: name, e-mail address and/or credit card information. You may, however, visit our site anonymously.
+The Privacy Policy is a part of, and subject to, the Site’s Terms and Conditions. The Privacy Policy and the Terms and Conditions are legally binding on all users of the Site. Please be sure to read this entire Privacy Policy and our Terms and Conditions carefully before using or submitting information to the Site or otherwise providing us with your personal information.
 
-Like most websites, we use cookies and/or web beacons to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the ‘do we use cookies?’ section below for information about cookies and how we use them.
+By accessing or using the Site, you consent to the terms of this Privacy Policy and the Terms and Conditions. If you do not consent to the collection, use, and disclosure of your personal information in accordance with this Privacy Policy, do not use our services, access the Site, or provide us with any information.
 
-## What do we use your information for?
+## Collection of Personal Information
 
-Any of the information we collect from you may be used in one of the following ways:
+In order to enhance users’ experiences when visiting the Site, we collect the following types of information as users browse the Site: 
 
-  * To personalize your experience (your information helps us to better respond to your individual needs)
-  * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
-  * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
-  * To process transactions – Your information, whether public or private, will NOT be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased service requested.
-  * To send periodic emails – The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc. Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+  * **Personal Information**. We collect personally identifiable information you provide to us (“ **Personal Information** ”). For example, we collect your name, and email address when you create a purchase account, subscribe to our newsletter, register for a webinar, or respond to a survey. If you place an order via the Site, we will also collect your mailing address and credit card information. Some Personal Information is necessary for us to be able to respond to your inquiry; other information is optional. 
+  * **Anonymous Information**. As you navigate through the Site, we may collect and store anonymous information (“ **Anonymous Information** ”) about you using various technologies such as cookies, Internet tags, advertising pixels, and navigational data. Your browser automatically transmits some of this information to us, such as the URL of the website you just visited, the browser version your computer is operating, the date and time you visited, the pages you visited on the Site, and your IP address, and we may store that information. “Cookies” are tiny alphanumeric identifiers that are stored on your computer and allow us to adjust the Site to meet your personal browsing preferences. If your browser is set to refuse cookies, you may not have access to all areas or features of the Site. 
 
 
 
-## How do we protect your information?
+## Use of Your Information
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information.
+_Anonymous Information_. We may aggregate, evaluate, and use Anonymous Information to improve the Site and our business, and we may provide it to third parties. We may use cookies, IP addresses, or other Anonymous Information to analyze trends, administer the Site, track customer site navigation, gather broad demographic information, and make the Site better for you.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment Gateway provider’s database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+_Personal Information_. Gathering Personal Information about our users allows us to serve you better. We will never use your Personal Information in a way that is prohibited by applicable law. Here are some ways in which we might use your Personal Information:
 
-After a transaction, your private information ( including credit cards) will not be stored on our servers.
+  * **Our Business Purposes**. We may use your Personal Information for our everyday business purposes, such as to process your orders, provide services to you, to communicate information and updates to you, and to update our profile about you.
+  * **Service Providers**. From time to time, we may employ companies and individuals to perform certain services on our behalf (such as conducting audits, performing legal services, processing credit card payments, or providing customer service). These third-party service providers may have access to Personal Information, but only to the extent required to perform their assigned roles, and they may not use your Personal Information for any other reason.
+  * **Ownership Transfer**. We may transfer any information, including your Personal Information, in the event of a transfer of ownership, assets, securities, or bankruptcy involving us and in connection with business transactions such as buying or selling subsidiaries or engaging in joint ventures with third parties; provided, however, that we will use reasonable efforts to direct the transferee to use any transferred information, including your Personal Information, in a manner that is consistent with this Privacy Policy.
+  * **Compliance with Law**. We may release Personal Information about you if we believe such a release is necessary to comply with the law or in response to a subpoena or other legal process.
 
-## Do we use cookies?
 
-Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+## Protection of Your Information
 
-We do NOT sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+To prevent unauthorized access to, maintain data accuracy, and ensure the correct use of information, we have put in place commercially reasonable physical, electronic, and managerial procedures to safeguard and secure the information we collect online. However, no security system is perfect, and we cannot guarantee that information you provide to us over the Internet will remain private. We also cannot guarantee that information you transmit to us over the Internet will not be intercepted. 
 
-## California Online Privacy Protection Act Compliance
+## Use of Site by Children
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+The Site is not intended for children under the age of 13. We will not knowingly collect personally identifiable information via the Site from visitors in this age group and will take prompt steps to delete any such personally identifiable information.
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by clicking on “Account” and editing their profile.
+## Changes to this Privacy Policy
 
-## Children’s Online Privacy Protection Act Compliance
+The Internet is constantly changing, as is the nature of our Internet business operations, so we will likely need to change this Privacy Policy from time to time. You should check this Privacy Policy frequently to review the latest version of the Privacy Policy. Our posting an amended version of the Privacy Policy on the Site will serve as notice to you of that amendment.
 
-We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+## Tracking
 
-## Online Privacy Policy Only
+At this time, the Site does not respond to web browser “do not track” signals. We may add this functionality in the future, and if we do, we will update this Privacy Policy to let you know. For now, third parties may collect personally identifiable information about your online activities over time and across different websites when you use our Site.
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+## For California Users Only
 
-## Terms and Conditions
+California Civil Code Section 1798.83 requires certain businesses to disclose, upon a written request, (i) a list of the kinds of personal information that the business has disclosed to third parties for direct marketing purposes during the preceding calendar year, and (ii) the names and addresses of all of the third parties that received personal information from the business for direct marketing purposes during the preceding calendar year. Businesses must respond to such requests within 30 days, but they are only obligated to respond to one request from a customer in a calendar year.
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+If you live in California, you may request this disclosure by sending an e-mail request to [info@PositiveParentingSolutions.com](mailto:info@PositiveParentingSolutions.com). listing your name, address, and e-mail address. You must also specifically indicate the nature of your request by including the following language or language substantially similar to it: “I request that you send me your third-party information sharing disclosures as required by California Civil Code Section 1798.83.” Alternatively, you may mail your request to the following address: Parenting Solutions, Inc., 1132 Weeping Glen Court, Raleigh, NC 27614.
 
-## Your Consent
+## How to Contact Us
 
-By using our site, you consent to our website’s privacy policy.
-
-## Changes to our Privacy Policy
-
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
-
-This policy was last modified on April 19, 2013
+If you have any questions, requests, or concerns related to this Privacy Policy, please email us at [info@PositiveParentingSolutions.com](mailto:info@PositiveParentingSolutions.com).
