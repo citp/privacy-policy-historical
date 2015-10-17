@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hairsprayandhighheels.net privacy policy that was archived on 2015-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150412002105id_/http%3A//www.hairsprayandhighheels.net/pr-friendly/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hairsprayandhighheels.net privacy policy that was archived on 2015-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151017203419id_/http%3A//www.hairsprayandhighheels.net/pr-friendly/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Hairspray and Highheels
 
@@ -82,7 +82,8 @@ This policy is powered by Free Privacy Policy and Rhino Support [help desk softw
 
   
 [](http://www.bloglovin.com/en/blog/4816487)[](mailto:angela.peters6@gmail.com)[](http://www.facebook.com/hairsprayandhighheels)[](https://plus.google.com/u/0/112521443754709902347/posts?rel=author)[](http://instagram.com/angejim)[](http://www.pinterest.com/angejim0531)[](http://feeds.feedburner.com/HairsprayAndHighHeelsaJerseyGirlsGuideToBeauty)[](http://www.twitter.com/angejim0531)  
-[](http://mad.ly/signups/107225/join)
+[](http://mad.ly/signups/107225/join)  
+
 
 The following two tabs change content below.
 
