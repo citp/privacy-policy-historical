@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superjeweler.com privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419105205id_/http%3A//www.superjeweler.com/cp/index/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superjeweler.com privacy policy that was archived on 2015-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151017174246id_/http%3A//www.superjeweler.com/cp/index/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | SuperJeweler.com
 
