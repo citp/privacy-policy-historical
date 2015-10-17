@@ -1,32 +1,29 @@
-> *The following text is extracted and transformed from the readers.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122082543id_/http%3A//www.readers.com/first_place_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readers.com privacy policy that was archived on 2015-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151017052949id_/http%3A//www.readers.com/privacypolicy1.html) for the most accurate reproduction.*
 
-# None
+# Privacy Policy | Readers.com
 
-Welcome to this First Place Internet, Inc. ("First Place") site. This policy describes the information collected on this site and how it may be used and/or shared. 
+* * *
 
-Regarding IP Addresses. First Place and/or third parties use your IP address to identify you, gather broad demographic information, help diagnose problems with our server, and to administer our site. 
+We value and respect the privacy of our customers. We do not sell or rent the information you provide to us online to third parties. However, we do share your information with third parties under certain circumstances, primarily for order fulfillments.
 
-Regarding Cookies. First Place and/or third parties may be placing or reading "cookies" on your internet browser. Cookies are bits of text transferred to your computer hard drive through your browser. They allow First Place and/or third party systems to recognize your browser, remember your information and link your activities to you. Should you block or disable these cookies, this site may not work and/or appear as intended. Nevertheless, if you want to take these steps, you can do so by following instructions related to your browser. Cookies collect types of information such as the following: 
+The Site ("Readers.com") is owned and operated by One Click Internet Ventures, LLC. We have created this privacy policy to demonstrate our firm commitment to protecting your personal information and informing you about how we handle it. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy. Each time you visit the Site or provide us with information, by doing so you are accepting the practices described in this privacy policy at that time.
 
-  * Site traffic (for example: the domain name and host from which you access the internet and the internet address of the site from which you came to ours),
-  * Statistics (for example: the date and time you access our site, the keywords and/or links clicked, and the pages you visit),
-  * IP information (for example: your computer's IP address, information about the operating system, platform and web browser type/version you utilize),
-  * Demographic information & other non-personally identifiable information about you,
-  * Advertisement information, and/or
-  * Information to fight fraud or misuse.
+### Collection of Data
 
+This site does not sell or rent personally identifying information. This site does not disclose personally identifying information to anyone that is not authorized to do so. This site uses anonymous user data to create and report the browsing, purchasing and/or lead form completion activities of anonymous users.
 
+This site reserves the right to release information on Internet Users if compelled to do so by proper judicial or governmental authorities. Disclosure shall be limited to only those we are compelled to disclose to. At present, all information processing occurs in the United States.
 
-Regarding Personally Identifiable Information. Some First Place sites may collect personally identifiable information when you choose to provide it through a contact form, registration form or when purchasing a service or product. This type of information may include your name, addresses, email addresses, phone numbers, and financial information. This information is used to contact you in reference to an inquiry, to manage and/or promote our relationship with you. 
+This Site uses cookies to keep track of session IDs. A cookie is a small piece of information stored by a web server on your computer's hard drive. Any cookie in use by our server is temporary and will be removed when the user logs out or is timed-out by the server. Additionally, we record IP addresses to analyze trends and administer the site. An IP address is a number that is automatically assigned to your computer by your Internet Service Provider when you connect to the Internet. IP addresses are NOT linked to any personally identifiable information.
 
-Regarding Sensitive Information. Some First Place sites may, as part of your purchase of a product or service, collect sensitive information, such as your credit card number. In such case, sensitive information will be encrypted and protected with SSL, the current industry standard encryption protocol. You will know you are on such an SSL page when you see a picture of a closed lock at the bottom or top of some Web browsers. Another way to tell if you are on a secure page is to look at the address or URL of the page. (Look in the address box or right-click on the page and select "Properties".) These secure SSL encrypted pages have URLs that start with https:// instead of http://.
+### Information Other Websites Collect From You
 
-Regarding Information Collected by Third Parties. This site may consist of third-party advertising, links to other sites, and/or content from third parties. First Place may share non-personally identifiable (for example: demographic) information to facilitate the delivery of relevant content and/or advertisements. Third party sites, businesses, advertisers, or advertising entities working on their behalf, sometimes use technology to deliver the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons, and other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and identification of advertisers that provide an opt-out mechanism, please visit the following: <http://www.networkadvertising.org/managing/opt_out.asp>
+On the Site, we place links to other Websites operated by other parties. Some of these other Websites contain our brand names and trademarks and other intellectual property that we own; others do not. When you click on these links and visit these other Websites, regardless of whether or not they contain our brand names, trademarks and other intellectual property, you need to be aware that we do not control these other Websites or these other Websites' business practices, and that this privacy policy does not apply to these other Websites. Consequently, the operators of these other Websites may collect different kinds of information about you, and may use and disclose that information in different ways than we would if it were collected on the Site. We encourage you to review their privacy policies and remind you that we will not be responsible for their actions.
 
-Regarding ownership and transfer of information. All information collected on this site is considered to be an asset of First Place and as such may be shared and/or transferred as described in this policy and/or as part of an acquisition (or contemplated acquisition) of First Place and/or this site.
+### Updating this Policy
 
-Regarding changes to this policy. First Place may alter this policy from time to time, so you are encouraged to review the policy periodically. 
+We will revise or update this Policy as it deems appropriate, including for example, if our practices change, as we change existing or add new services, as we develop better ways to inform you of products we think will be of interest, or if the law so requires. You should refer back to this page often for the latest information and the effective date of any changes.
 
-Legal Disclaimer. First Place may disclose personal information when required by law or in the good faith belief that such action is necessary in order to conform to the edicts of the law, or to comply with a legal process served on our Web site.
+### Contact Us
 
-If you have further questions, send an email to [administrator@FirstPlace.com](mailto:administrator@firstplace.com). 
+We are committed to the policies set forth in this Policy. If you have any questions, comments or concerns about this Policy, please [contact us](http://www.readers.com/help.php?section=contactus&mode=update). 
