@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brandmovers.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607140346id_/http%3A//www.brandmovers.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandmovers.net privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018000016id_/http%3A//www.brandmovers.com/legal/privacy) for the most accurate reproduction.*
 
 # Digital Engagement | Brandmovers | The Engagement Marketers.
 
@@ -38,4 +38,4 @@ Privacy Coordinator
 Brandmovers  
 590 Means Street  
 Suite 250  
-Atlanta, GA 303018
+Atlanta, GA 30318
