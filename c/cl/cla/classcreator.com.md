@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the classcreator.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624235245id_/http%3A//www.classcreator.com/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classcreator.com privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018235543id_/http%3A//www.classcreator.com/privacy-policy.cfm) for the most accurate reproduction.*
 
 # Class Creator Privacy Policy
 
-**Last modified: November 30, 2012 ([view archived versions](https://web.archive.org/web/20150624235245id_/http%3A//www.classcreator.com/privacy-policy-archive.cfm))**
+**Last modified: November 30, 2012 ([view archived versions](https://web.archive.org/web/20151018235543id_/http%3A//www.classcreator.com/privacy-policy-archive.cfm))**
 
 Our Privacy Policy explains:
 
@@ -12,18 +12,18 @@ Our Privacy Policy explains:
 
 
 
-We've tried to keep it as simple as possible, but if you're not familiar with terms like cookies, IP addresses and browsers, then read about these [key terms](https://web.archive.org/web/20150624235245id_/http%3A//www.classcreator.com/privacy-policy-terms.cfm) first.
+We've tried to keep it as simple as possible, but if you're not familiar with terms like cookies, IP addresses and browsers, then read about these [key terms](https://web.archive.org/web/20151018235543id_/http%3A//www.classcreator.com/privacy-policy-terms.cfm) first.
 
 ## Information We Collect
 
 We collect information in two ways:
 
   * **Information you give us when creating a website, or when joining an existing website.** When you do either of these, we'll ask for personal information, like your name, email address, telephone number and date of birth. We'll then create a Member Profile, which may include your name and photo. The part of your profile containing your email address, physical address, and phone numbers is not visible to anyone except the administrators of the website. The rest of the profile information you supply including birth date is only visible to other persons who are logged into the same website. The only exception to this is City of Residence, which may be seen by a non-logged in viewer in the Where We Live feature. You can override the sharing limitations, but the default settings are the most protective of your privacy. 
-  * **Information we get from your use of our services ([server logs](https://web.archive.org/web/20150624235245id_/http%3A//www.classcreator.com/privacy-policy-terms.cfm)). We may collect information about the services that you use and how you use them, like when you visit the website, and details of your activity on each page. This information includes:**
+  * **Information we get from your use of our services ([server logs](https://web.archive.org/web/20151018235543id_/http%3A//www.classcreator.com/privacy-policy-terms.cfm)). We may collect information about the services that you use and how you use them, like when you visit the website, and details of your activity on each page. This information includes:**
     * your hardware model, operating system version, and web browser version.
-    * the [Internet protocol address](https://web.archive.org/web/20150624235245id_/http%3A//www.classcreator.com/privacy-policy-terms.cfm) from which you are connecting to the internet.
+    * the [Internet protocol address](https://web.archive.org/web/20151018235543id_/http%3A//www.classcreator.com/privacy-policy-terms.cfm) from which you are connecting to the internet.
     * event information such as browser type, browser language, the date and time of your request and referral URL.
-    * [cookies](https://web.archive.org/web/20150624235245id_/http%3A//www.classcreator.com/privacy-policy-terms.cfm) that may uniquely identify your browser and/or collect and store information necessary to provide the services you are using.
+    * [cookies](https://web.archive.org/web/20151018235543id_/http%3A//www.classcreator.com/privacy-policy-terms.cfm) that may uniquely identify your browser and/or collect and store information necessary to provide the services you are using.
 
 
 
@@ -54,7 +54,7 @@ We may share personal information with companies, organizations or individuals i
 
 
 
-We may share aggregated, [non-personally identifiable information](https://web.archive.org/web/20150624235245id_/http%3A//www.classcreator.com/privacy-policy-terms.cfm) publicly. For example, we may share information publicly to show trends about the general use of our services.
+We may share aggregated, [non-personally identifiable information](https://web.archive.org/web/20151018235543id_/http%3A//www.classcreator.com/privacy-policy-terms.cfm) publicly. For example, we may share information publicly to show trends about the general use of our services.
 
 If we are involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy.
 
@@ -68,6 +68,20 @@ We work hard to protect our systems and our users from unauthorized access to or
   * You can elect to block the public and search engines from accessing information you add to your personal Profile page. All logged in fellow site members can see all information you add to your personal Profile page. In rare cases a site member may join under false pretenses and claim to be somebody they are not (i.e. an imposter). Class Creator provides Class Administrators tools to combat this such as a New Member Verification feature. Class Creator does not require the use of the Verification feature nor can we assure proper use of the Verification feature when it is enabled. Therefore in rare cases a member can pose as somebody they are not. If you use this site you acknowledge the possibility of somebody joining the site under an assumed or false identity. Because of this infrequent but real possibility you should not post personal information or photos on your Profile page you do not want non members to see even if you have blocked search engines and the public from accessing your Profile information.
 
 
+
+## Advertising placed on Free (ads) sites:
+
+### The DoubleClick cookie
+
+The [DoubleClick cookie](https://support.google.com/adsense/answer/2839090) is used by Google in the ads served on the websites of its partners, such as websites displaying AdSense ads or participating in Google certified ad networks. When users visit a partner's website and either view or click on an ad, a cookie may be dropped on that end user's browser.
+
+  * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.
+  * Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+  * Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). (Alternatively, you can direct users to opt out of a third-party vendor's use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).)
+
+
+
+If you have not [opted out of third-party ad serving](https://www.google.com/support/dfp_sb/bin/answer.py?hl=en&answer=94152), the cookies of other [third-party vendors or ad networks](https://www.google.com/support/dfp_sb/bin/answer.py?answer=94149) may also be used to serve ads to you on your site. 
 
 ## Enforcement
 
@@ -85,5 +99,5 @@ If you have questions or concerns about this Privacy Policy, our privacy practic
 
 Class Creator  
 2500 Packard St.  
-Suite 202  
+Suite 202B  
 Ann Arbor, MI 48104
