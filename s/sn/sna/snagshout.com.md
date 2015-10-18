@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the snagshout.com privacy policy that was archived on 2015-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150525180558id_/http%3A//www.snagshout.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snagshout.com privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018205459id_/http%3A//www.snagshout.com/privacy) for the most accurate reproduction.*
 
-# Snagshout | Snag Products, Write Reviews
+# Snagshout | Privacy Policy
 
 Welcome to Snagshout.com. This Privacy Policy is provided to inform you of our policies and practices regarding the collection, use, and disclosure of information about you. 
 
