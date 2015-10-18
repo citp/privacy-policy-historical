@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the web-experiment.info privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318083428id_/https%3A//web-experiment.info/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web-experiment.info privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018061136id_/https%3A//web-experiment.info/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[**Premium Magento Templates, Magento Themes**](https://web-experiment.info/ "Premium Magento Templates, Magento Themes")
 
 This privacy policy sets out how WebExperiment.info uses and protects any information that you give WebExperiment.info when you use this website. WebExperiment.info is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. WebExperiment.info may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
 
