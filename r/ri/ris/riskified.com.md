@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riskified.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320040026id_/http%3A//www.riskified.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riskified.com privacy policy that was archived on 2015-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151019000139id_/http%3A//www.riskified.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Riskified eCommerce Fraud Prevention Solution
 
@@ -6,7 +6,7 @@ Last updated: Jan 1st 2013
 
 Riskified Ltd. ("Riskified" "we", "our" or "us") has created a technology platform (the "Platform") and provides related services via the Platform (the "Service") that our customers, which are typically online merchants, use to prevent fraudulent and other transactions of risk. The Platform is designed to enable these customers through the use of information which we collect and analyze to help prevent fraudulent transactions. 
 
-We respect the privacy of Internet users in general and wish to set forth in this Privacy Policy ("Policy") Riskified's practices in connection with the collection and use of information. Please note that this Policy applies only to Riskified and does not state the use practices or policies of our customers, of the websites on which are Platform is used, or of other third parties. 
+We respect the privacy of Internet users in general and wish to set forth in this Privacy Policy ("Policy") Riskified's practices in connection with the collection and use of information. Please note that this Policy applies only to Riskified and does not state the use practices or policies of our customers, of the websites on which our Platform is used, or of other third parties. 
 
 This policy does not apply to the practices of companies that Riskified does not own or control or to people it does not employ or manage. 
 
@@ -26,7 +26,7 @@ The information that we collect is used in order to analyze and provide our cust
 
 Riskified may use information for the use and development of its Platform and Services and for providing the Services to customers, including by third parties that provide services to Riskified for these purposes. Riskified does not sell, distribute or disclose personally identifiable information or information on individual users or customers. 
 
-Riskified may disclose information if it reasonably believe that it is legally required to do so or in order to investigate, prevent, or take action regarding suspected or actual prohibited activities, including but not limited to, fraud and situations involving potential threats to the physical safety of any person. Riskified may share aggregated data derived from the Platform, including, for example, statistics about Platform activity. Finally, Riskified may transfer information to a successor entity in connection with a corporate merger, consolidation, sale of assets, reorganization, or other corporate change. 
+Riskified may disclose information if it reasonably believes that it is legally required to do so or in order to investigate, prevent, or take action regarding suspected or actual prohibited activities, including but not limited to, fraud and situations involving potential threats to the physical safety of any person. Riskified may share aggregated data derived from the Platform, including, for example, statistics about Platform activity. Finally, Riskified may transfer information to a successor entity in connection with a corporate merger, consolidation, sale of assets, reorganization, or other corporate change. 
 
 ## Data storage and security
 
