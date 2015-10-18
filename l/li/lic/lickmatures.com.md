@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lickmatures.com privacy policy that was archived on 2015-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150228230313id_/http%3A//www.lickmatures.com/Privacy%2520Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lickmatures.com privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018212451id_/http%3A//www.lickmatures.com/Privacy%2520Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
