@@ -1,16 +1,15 @@
-> *The following text is extracted and transformed from the outandaboutlive.co.uk privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613170347id_/http%3A//www.outandaboutlive.co.uk/Information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outandaboutlive.co.uk privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018111755id_/https%3A//www.outandaboutlive.co.uk/information/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Out and About Live
 
 #### 
 
-####  The Maltings, West Street, Bourne, Lincs. PE10 9PH
+**The Maltings, West Street, Bourne, Lincs. PE10  9PH**
 
-####  Tel:+44 (0)1778 391000 • Fax: +44 (0)1778 421706
+**Tel:+44 (0)1778 391000 • Fax: +44 (0)1778 421706**
 
-**PRIVACY POLICY**
-
-**Last Updated: 10th May 2012**
+  
+_**Last Updated: 8th July 2015.**_
 
 Warners Group Publications Plc ("We") are committed to protecting and respecting your privacy.
 
@@ -127,6 +126,14 @@ If you do not want us to use your data in this way, or to pass your details on t
 4.6
 
 [We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in SW1). We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.]
+
+4.7
+
+We are using ADTECH technology, a service provided by ADTECH GmbH, for ad delivery. We and ADTECH use cookies (text files placed on your computer) to help with collecting information about your visits to this and other websites which may be used in order to provide advertisements about goods and services of interest to you. The information stored in the cookie is used to reference information for standard reporting purposes such as delivered advertising campaigns or banners on websites that are using ADTECH as their ad serving system. Cookie and IP address information of a request to the ADTECH ad serving system is always transferred to the responding data centers in the United States or within the European Union, but only the cookie information of the requested ad domain is stored within the standard records. IP address information is obfuscated after being used to identify attributes associated with the IP address such as location (country, city) or bandwidth. The obfuscating of the IP address leads to anonymisation of the data. Upon specific request of a customer, ADTECH provides a special functionality to store IP address information to identify fraudulent activities such as automated click generation systems. You have the option not to participate in ADTECH’s analysis by opting out of the use of ADTECH cookies, by selecting the appropriate setting on your browser or setting an ADTECH opt-out cookie provided on the following page <http://www.adtech.com/en/service/cookies.html>. Further information about ADTECH’s technology is available under <http://privacy.aol.com/>. By using this website you consent to the processing of data about you by ADTECH as described herein.
+
+4.7.1
+
+ADTECH is in compliance with Children’s Online Privacy Protection Act of 1998 (COPPA) and amendments thereto.  Customer represents and warrants that: (i) it shall designate Target Site(s) as having children’s or non-children’s content as well as designating if it knowingly collects any personal information from children under the age of thirteen; and (ii) it shall promptly notify ADTECH in the event that either its content or its policy on data collection changes. 
 
 We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
 
