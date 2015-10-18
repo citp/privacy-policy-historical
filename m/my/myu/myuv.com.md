@@ -1,93 +1,87 @@
-> *The following text is extracted and transformed from the myuv.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031024955id_/http%3A//myuv.com/legal.html%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myuv.com privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018172546id_/https%3A//www.myuv.com/en/us/privacy) for the most accurate reproduction.*
 
-# myuv.com
+# Home | UltraViolet
 
-### Privacy Policy
+UltraViolet™ Privacy Policy
 
-**Effective Date: 05/10/2012**
+Effective Date: 12-Mar-2015
 
-Aftermarket, Inc. ("us," "we," or "Aftermarket") is committed to respecting the privacy rights of its users of or visitors to the domain, sub-domains, and affiliated domains of www. Aftermarket.com (collectively, the "Site") and/or utilizing Aftermarket's domain marketplace services (the "Services"). We created this Aftermarket Privacy Policy ("Privacy Policy") to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices and the protection of privacy. This Privacy Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy. 
+UltraViolet is operated by the Digital Entertainment Content Ecosystem (DECE) LLC, a Delaware limited liability company located in the United States. You may contact us by mail at 1807 Santa Rita Road, Suite D235, Pleasanton, CA 94566 USA or by email at legal@decellc.com.
 
-Aftermarket, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through the Site and does not cover information that may be collected behind the log in on our website. 
+We provide a cloud-based, digital video rights locker, which is a centralized repository that stores data about the rights for video content that you have obtained and enables you to manage these rights by signing up for an UltraViolet Library. We are a consortium whose members include content providers, retailers, and other companies that participate in the UltraViolet system. Companies that participate in the UltraViolet system enter into a license agreement with us and are referred to as “Participating Services” in this Privacy Policy. 
 
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [support@aftermarket.com](mailto:support@aftermarket.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
+We are committed to protecting your privacy and the safety of your information. This Privacy Policy sets forth our policies and practices for handling your information in connection with the UltraViolet website, the UltraViolet service, and any other website or online service that we operate and that links to this Privacy Policy (the “Services”). Your use of the Services is governed by this Privacy Policy, and you consent to our use of your information consistent with this Privacy Policy.
 
-Aftermarket complies with the U.S. - E.U. Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the from European Union member countries. Aftermarket has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Aftermarket's certification, please visit <http://www.export.gov/safeharbor/>
+We may collect the following kinds of information when you use the Services:
 
-#### Section 1. Information Collection Practices.
+Information you provide directly to us. For certain activities, such as when you sign-up or contact us directly, we may ask you to provide some or all of the following types of information:
 
-Section 1.1. Types of Information Collected. 
+  * Contact information, such as full name and email address;
+  * Username and password;
+  * Demographic information, such as gender and country;
+  * When you provide a redemption code for content, rights information related to that code, such as the code itself, title information, and retailer information;
+  * Reason for the contact; and
+  * Other information you provide to us.
 
-a. Traffic Data Collected. As is true of most web sites, we automatically track and collect the following categories of information when you visit our Site and store it in log files: (1) IP addresses; (2) web servers; (3) types of computers accessing the Site; and (4) types of web browsers used to access the Site (collectively "Traffic Data"). Traffic Data is anonymous information that does not personally identify you but is helpful for marketing purposes or for improving your experience on the Site. 
 
-b. Personal Information Collected. In order for you to access aspects of the Site or Service, we require you to obtain a user account and provide us with certain information that personally identifies you ("Personal Information"). Personal Information includes the following categories of information: (1) Contact Data (such as your name, mailing address, and e-mail address) and (2) Financial Data (such as your bank account, tax ID and/or credit card number). If you communicate with us by e-mail, any information provided in such communication may be collected as Personal Information. 
 
-c. Data Supplementation. If you participate in Aftermarket's domain monetization program (the "Program") , we will ask you for tax documentation such as Form W-9, Form W-8 or a Certification of No US Activities. This information is necessary for us to issue you potentially required 1099s in connection with the income you make through the Program. 
+Information we obtain from your use of the Services. We may collect certain information automatically when you use our Services, such as rights information (including, for example, movie or TV show title information, retailer information, and purchase date), your Internet protocol (IP) address, device identifiers, browser type, operating system, software and settings information, resolution, Internet service provider, webpages that you visit before and after using the Services, search terms, the date and time of your visit, information about the links you click and pages you view within the Services, and other standard server log information. 
 
-Section 1.2. Uses of Information Collected. 
+We may use cookies, pixel tags, and similar technologies to automatically collect this information. To learn more about our use of cookies, please read our [Cookie Policy](https://web.archive.org/en/us/cookie-policy). **By using the Services, you consent to our use of cookies and similar technologies.**
 
-a. Company Use of the Information. We use Contact Data to contact you when necessary, facilitate contact and negotiations between you and other Aftermarket users or to send you information about our company or our services. We use your Financial Data to verify your qualifications to participate in certain aspects of services and to facilitate domain purchases and sales. 
+Some web browsers may transmit "do-not-track" signals to websites with which the user communicates, although web browsers incorporate and activate this functionality in different ways, and it is not always clear whether users intend for these signals to be transmitted. There currently is disagreement among the leading Internet standards-setting organizations concerning what, if anything, websites should do when they receive such signals. Consequently, we may not take action in response to these signals.
 
-b. Sharing of Personal Information. We share certain categories of information we collect from you in the ways described in this Privacy Policy. We share your Contact Data and Financial Data with Aftermarket's parent company, Thought Convergence, Inc., and Thought Convergence, Inc.'s wholly owned subsidiaries. Thought Convergence, Inc. and its wholly owned subsidiaries shall uphold the same standards of security and confidentiality that we have promised to you in this Privacy Policy, and they will use your Contact Data and other Personal Information to carry out their specific business obligations to Aftermarket, send you information about their company and their services, and when necessary to have your user accounts with the various companies interact. We maintain a procedure for you to review and request changes to your Personal Information; this procedure is described in Section 2.1, below. 
+Information we obtain from other sources. We may receive information about you from other sources. For example, when you grant a Participating Service, such as a retailer, access to your UltraViolet Library, we may receive information about you from the Participating Service. If you access third-party social media services, such as Facebook, Google, or Twitter, through the Services to login to the Services or to share information about your experience on the Services with others, we may collect information from these third-party services.
 
-c. Exceptional disclosure of information. Except as otherwise provided in this Privacy Policy, we will keep your Personal Information private and will not share it with third parties, unless such disclosure is necessary to: (a) as required by law, such as to comply with a subpoena, or similar legal process; (b) protect our rights or property, protect your safety or the safety of others, investigate fraud, or respond to a government request; (c) if Aftermarket is involved in a merger, acquisition, or sale of all or a portion of its assets, or (d) enforce the Aftermarket User Agreement. 
+We use and combine the information we collect to:
 
-d. Service Providers. We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us. 
+  * Fulfill your requests for products, services, and information;
+  * Communicate with you about the Services and products and services of our partners, including through promotional and marketing e-mails, mailings, and notifications;
+  * Analyze your use of the Services to understand and improve the Services;
+  * Store your user preferences and customize the content you see when you use the Services;
+  * Prevent potentially prohibited or illegal activities and otherwise in accordance with our [Terms of Use](https://web.archive.org/en/us/terms); and
+  * For any other purposes disclosed to you at the time we collect your information or pursuant to your consent.
 
-e. User Choice Regarding Collection, Use, and Distribution of Personal Information. You may choose not to provide us with any Personal Information. In such an event, you can still access and use much of the Site; however you will not be able to access and use those aspects of the Site and/or Services that require your Personal Information. 
 
-Section 1.3. Tracking Technologies / Cookies 
 
-a. Cookies. A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. 
+We are committed to maintaining your trust, and we want you to understand when and with whom we may share the information we collect.
 
-We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. 
+  * Participating Services in the United States and Elsewhere. When you or an authorized user of your UltraViolet Library grants a Participating Service access to your UltraViolet Library or you enter a code to redeem access to content through a Participating Service, we may share your information (such as which rights have been obtained for your UltraViolet Library and what content is being requested) with Participating Services in the ordinary course of business, including to fulfill your orders and process your requests (such as to display movies and TV shows to you and other users having access to your UltraViolet Library). For example, if you give a specific retailer access to your UltraViolet Library, we allow that retailer to get information about the movies and TV shows that you have rights to so it can process your requests to access your UltraViolet Library and download or stream content through that retailer’s service.
+  * Other third-party services. If you access or use third-party services, such as Facebook, Google, or Twitter, to sign in to the Services or Participating Services or to otherwise share information about your use of the Services or Participating Services, these third-party services may be able to collect information about you, including information about your activity on the Services or Participating Services, and such information may be provided to your connections on the third-party services, in accordance with their own privacy policies and any user controls they may offer. 
+  * Other users of your UltraViolet Library. If, consistent with the Terms of Use, you permit other users to access your UltraViolet Library, each user may be able to see certain information about you and other users of the Library, such as the movies and TV shows in the Library, which user obtained them, where they were obtained, and users’ viewing activity. Other users may have the ability to delete you and other Library users and add additional users to the Library.
+  * Our vendors and service providers. We may share your information with our third-party vendors and service providers who help us provide and improve the Services, including, for example, email deployment, marketing, and data processing.
+  * Business transfers. We may share your information in connection with a corporate transaction or business transfer, such as an acquisition, merger, sale, reorganization, consolidation, liquidation or sale of assets resulting in another party’s acquisition of all or elements of the Services, or in the unlikely event of bankruptcy.
+  * Legal purposes. We may disclose information to respond to subpoenas, court orders, legal process, law enforcement requests, legal claims or government inquiries, and to protect and defend our rights, interests, property, safety, and security, and that of the Services, users, or the public. 
+  * Aggregated or de-identified information. After removing your name and any other information that personally identifies you, we may share aggregated or de-identified information with Participating Services so that they can measure and analyze usage and performance of the Services. These Participating Services are prohibited from re-identifying or otherwise combining this information with other data. 
+  * With your consent. We may share information for any other purposes disclosed to you at the time we collect the information or pursuant to your consent. For example, if you consent to allow Participating Services to send you promotional or marketing messages, those Participating Services may use the information they obtain from us for such purposes. 
 
-We set a persistent cookie to store your passwords, so you don't have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. 
 
-If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited. 
 
-b. Web Beacons. We employ a software technology called clear gifs (a.k.a. Web Beacons), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information. 
+**By** **consenting to this Privacy Policy, you consent** **to the sharing of information as described above.**
 
-c. 3rd Party Tracking. The use of cookies by our service providers is not covered by our privacy policy. We do not have access or control over these cookies. Our service providers use session ID cookies to provide us with web analytics data, which we use to continually improve the Site. 
+We use reasonable administrative, technical, and physical measures to help safeguard information from loss, theft, misuse and unauthorized access, disclosure, alteration, and destruction and other unauthorized data processing. No data storage system or transmission of data over the Internet or any other public network, however, can be guaranteed to be 100% secure. 
 
-Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our Customers' or Users' personally identifiable information. 
+You may change your settings (such as changing your password, removing users, or closing your UltraViolet Library) by visiting [myuv.com](https://www.myuv.com/). You also may unlink Participating Services and change other settings by accessing the “Linked Services” section of [myuv.com](https://www.myuv.com/). 
 
-#### Section 2. Confidentiality and Security of Personal Information.
+You have the right to ask us not to use your personal information for direct marketing purposes. When we send you commercial emails, we include an unsubscribe method (usually found at the bottom of the email) that you may use to opt out of receiving future commercial messages. You also may opt out of receiving commercial emails by contacting legal@decellc.com. 
 
-The security of your personal information is important to us. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). 
+You may access and correct inaccuracies in the personal information we have collected about you by using the UltraViolet Library settings provided on [myuv.com](https://www.myuv.com/) or emailing us at legal@decellc.com. We will use reasonable efforts to supply or correct personal information about you that we maintain. As permitted by law, we may charge a nominal fee for information requests and require you to establish your identity before providing you access to the requested information. 
 
-We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at support@aftermarket.com. 
+We take reasonable steps to ensure that we retain information about you only for so long as is necessary for the purpose for which it was collected, or as required under any contract or by applicable law.
 
-Section 2.1. User Ability to Access, Update, and Correct Personal Information. 
+The Services are intended for a general audience and do not knowingly collect personal information from children. 
 
-a. Information Access. If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove, or ask to have it removed by making the change in your user account setting page, by emailing our Customer Support at [support@aftermarket.com](mailto:support@aftermarket.com) or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within 30 days. 
+The Services may contain links to content or services maintained by third parties that we do not control. We are not responsible for the privacy practices of these third parties, and we recommend that you read their privacy policies.
 
-b. Data Retention. We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+Residents of the U.S. State of California may request a list of all third parties to which we have disclosed certain information during the preceding year for the third parties' direct marketing purposes. If you are a California resident and want such a list, please contact us. For all requests, you must put the statement "Your California Privacy Rights" in the body of your request, as well as your name, street address, city, state, and zip code. Please note that we will not accept requests via the telephone, mail, or by facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.
 
-c. Opt-Out Preferences. If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us at [support@aftermarket.com](mailto:support@aftermarket.com). 
+Information collected through the Service may be stored and processed in the United States or any other country in which we or our service providers maintain facilities. We may transfer information that we collect about you, including personal information, across borders and from your country or jurisdiction to other countries or jurisdictions. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction. By using the Services and providing us with information directly or indirectly, you consent to the transfer of information to the U.S. or to any other country in which we or our service providers maintain facilities for processing in accordance with this Privacy Policy. We will take reasonable steps to ensure that your personal information is protected.
 
-Section 2.2. Lost or Stolen Information. 
+We may update this Privacy Policy from time to time. When we update the Privacy Policy, we will revise the “Effective Date” above and post the new Privacy Policy on the Services. We recommend that you review the Privacy Policy each time you visit the Services to stay informed of our privacy practices.
 
-You must promptly notify us if your username or password is lost, stolen, or used without permission. In such an event, we will remove that username or password from your account and update our records accordingly. 
+If you have any questions about this Privacy Policy or our practices, please contact us by email at legal@decellc.com.
 
-Section 2.3. Third Party Links and Technologies. 
-
-a. Links to 3rd party sites. Our Site includes links to other Web sites whose privacy practices may differ from those of Aftermarket. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit. 
-
-b. Facebook Connect. You can log in to our site using sign-in services such as Facebook Connect. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network. 
-
-c. Widgets and Applets. Our Web site includes Social Media Features, such as the Facebook Like button, the Share this button and interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
-
-#### Section 3. Updates and Changes to the Policy.
-
-We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
-
-#### Section 4. Contact information
-
-Aftermarket.com   
-11300 W. Olympic Blvd.   
-9th Floor   
-Los Angeles, CA 90064   
-Phone | 310.909.7909   
-Fax | 310.231.3373   
-Premium Membership Fax | 1.800.783.4011 
+Digital Entertainment Content Ecosystem (DECE) LLC  
+1807 Santa Rita Road  
+Suite D235  
+Pleasanton, CA 94566 USA
