@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dayoftheshirt.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625231414id_/https%3A//dayoftheshirt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dayoftheshirt.com privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018235202id_/http%3A//dayoftheshirt.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Day of the Shirt
 
