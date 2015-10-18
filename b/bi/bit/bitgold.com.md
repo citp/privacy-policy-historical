@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bitgold.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319140950id_/https%3A//www.bitgold.com/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitgold.com privacy policy that was archived on 2015-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151019001649id_/https%3A//www.bitgold.com/privacy-and-security) for the most accurate reproduction.*
 
-# BitGold | Privacy & Security
+# Privacy & Security | BitGold
 
 ## PRIVACY POLICY
 
-1.1 We always want our policies to be clear and easy to understand — so this Privacy Policy offers a simple breakdown of how we handle your personal information in connection with the BitGold Site and the BitGold Services, as those terms are defined in our Customer Agreement. Our Privacy Policy is incorporated into our Customer Agreement, so if you see a capitalized term here such as "BitGold Account", it takes the meaning described in the Customer Agreement. By using the BitGold Site, by applying for a BitGold Account, or by using a BitGold Account, you are consenting to this Privacy Policy.
+1.1 We always want our policies to be clear and easy to understand - so this Privacy Policy offers a simple breakdown of how we handle your personal information in connection with the BitGold Site and the BitGold Services, as those terms are defined in our Customer Agreement. Our Privacy Policy is incorporated into our Customer Agreement, so if you see a capitalized term here such as "BitGold Account", it takes the meaning described in the Customer Agreement. By using the BitGold Site, by applying for a BitGold Account, or by using a BitGold Account, you are consenting to this Privacy Policy.
 
 1.2 This Privacy Policy went into effect on **February 6, 2015**. If you have any questions or comments about how we treat your personal information, please let us know by contacting Support at support@bitgold.com
 
@@ -50,7 +50,7 @@
   *  **(c)** Processing transactions in your BitGold Account, helping you submit your Bitcoin transaction request for confirmation to the Verification Network, and communicating with recognized counterparties, bullion-dealers, bullion-banks, and Vault Operators in respect of your BitGold Account;
   *  **(d)** Administering your BitGold Account, understanding your needs as a customer, and monitoring your satisfaction with the BitGold Services;
   *  **(e)** Contacting you about the status of the BitGold Services (for example, to inform you of changes to or the termination of particular BitGold Services, or to respond to a question, comment or complaint);
-  *  **(f)** Complying with legal requirements, including those imposed by laws, regulations, court orders, and regulatory guidelines, policies and procedures, in the countries in which we operate, including tax and “know your client” obligations, requirements applicable to BitGold as a Money Services Business (MSB), international electronic funds transfer obligations, or reporting obligations;
+  *  **(f)** Complying with legal requirements, including those imposed by laws, regulations, court orders, and regulatory guidelines, policies and procedures, in the countries in which we operate, including tax, "know your client" and Anti-Money Laundering obligations, requirements applicable to BitGold as a Dealer in Precious Metals, international electronic funds transfer obligations, or reporting obligations;
   *  **(g)** Detection of suspicious transactions, including transactions involving fraud, money laundering or terrorist financing activities;
   *  **(h)** Managing invoicing, accounting and information security services related to our transactions with you;
   *  **(i)** Protecting against harm to the rights, property or safety of BitGold, its customers, employees, service providers, or the public;
@@ -75,7 +75,7 @@
 
 6.1 Communications between you and BitGold may be conducted by mail or by telephone, fax, online, text message, or by other electronic means. Any instructions that you give to us in any such manner will have the same legal effect as if you gave them to us in original written form. You agree that all telephone calls and electronic communications may be recorded and kept by us as a record of your instructions. You also agree that we may contact you electronically in response to a request, inquiry, or complaint, as otherwise solicited by you, or as permitted or required by law.
 
-6.2 We may also communicate with you from time to time electronically about news, promotions, special offers and other information from BitGold, regarding either BitGold or its selected partners. You may unsubscribe from these kinds of messages at any time by visiting bitgold.com/settings. We are not responsible for any additional information you provide directly to these partners, and we encourage you to become familiar with their privacy and security practices and policies before disclosing information to them.
+6.2 We may also communicate with you from time to time electronically about news, promotions, special offers and other information from BitGold, regarding either BitGold or its selected partners. If you wish to unsubscribe to marketing emails from BitGold please contact support@bitgold.com. We will strive to honour your request as soon as possible, and in any event within the next 10 business days. Please note, however, that this request will apply only to marketing emails and not to certain account-based information emails which will continue to be sent to account holders. We are not responsible for any additional information you provide directly to these partners, and we encourage you to become familiar with their privacy and security practices and policies before disclosing information to them.
 
 ## COOKIES AND OTHER WEB-BASED IDENTIFICATION OR TRACKING TECHNOLOGIES
 
