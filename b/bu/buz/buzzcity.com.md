@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the buzzcity.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613004744id_/http%3A//www.buzzcity.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzcity.com privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018023808id_/https%3A//www.buzzcity.com/privacy_policy) for the most accurate reproduction.*
 
 # BuzzCity - Mobile Internet Advertising
 
-By continuing to use this site, you consent the use of cookies on your device or browser as described in our [Cookie Policy](https://web.archive.org/web/20150613004744id_/http%3A//www.buzzcity.com/cookie_policy) unless you have disabled them. You can change your cookie settings at any time but most parts of our site will not work without them. 
+By continuing to use this site, you consent the use of cookies on your device or browser as described in our [Cookie Policy](https://www.buzzcity.com/cookie_policy) unless you have disabled them. You can change your cookie settings at any time but most parts of our site will not work without them. 
 
 This privacy statement (“Privacy Policy”) explains how information is collected, shared and utilized by BuzzCity (“BuzzCity”, or “we”, “us”, “our”), BuzzCity subsidiaries and affiliated companies. This Privacy Policy applies to the BuzzCity website at [buzzcity.com](http://www.buzzcity.com/) and other online services operated by BuzzCity. If you have any concerns about privacy on the site, please send an email to [dpo@buzzcity.com](mailto:dpo@buzzcity.com) and we will try to address it.
 
@@ -14,7 +14,7 @@ Our Privacy Policy explains:
 
 
 
-At BuzzCity, we keep it as simple as possible, but if you are not familiar with terms such as cookies, IP address, pixel tags and browsers, then read about these [Key Terms](https://web.archive.org/web/20150613004744id_/http%3A//www.buzzcity.com/keyterms).
+At BuzzCity, we keep it as simple as possible, but if you are not familiar with terms such as cookies, IP address, pixel tags and browsers, then read about these [Key Terms](https://www.buzzcity.com/keyterms).
 
 ### Information collected by BuzzCity
 
@@ -23,7 +23,7 @@ We receive and store personal information that you choose to enter on our site, 
 BuzzCity collect the following types of information:
 
 **_Information given by you to BuzzCity_**
-    * When you sign up for a new [BuzzCity Account](https://web.archive.org/web/20150613004744id_/http%3A//www.buzzcity.com/keyterms#buzzcity_account) or when you register for any of our services, we collect personal information about you that may include your name, address, email address and telephone number.
+    * When you sign up for a new [BuzzCity Account](https://www.buzzcity.com/keyterms#buzzcity_account) or when you register for any of our services, we collect personal information about you that may include your name, address, email address and telephone number.
     * We may combine the information that you submit on our site with information about you with a better experience and improve overall BuzzCity services.
     * In addition, if you voluntarily complete a detailed publisher or advertiser profile, we collect personal information about you as part of that profile. This information may include your name, address, birthday and contact information, as well as general information about your organisation or business, where applicable.
 **_Information that BuzzCity automatically collect_**
@@ -32,15 +32,15 @@ We may collect information about the services that you use and how you use them,
 
     * **Device information**
 
-We may collect device-specific information, such as your hardware model, operating system version, [unique device identifiers](https://web.archive.org/web/20150613004744id_/http%3A//www.buzzcity.com/keyterms#unique_dev_ident), and mobile network information including phone number.
+We may collect device-specific information, such as your hardware model, operating system version, [unique device identifiers](https://www.buzzcity.com/keyterms#unique_dev_ident), and mobile network information including phone number.
 
     * **Log information**
 
-When you use our services or view content provided by BuzzCity, we may collect and store certain information in [server logs](https://web.archive.org/web/20150613004744id_/http%3A//www.buzzcity.com/keyterms#server_log). This may include:
+When you use our services or view content provided by BuzzCity, we may collect and store certain information in [server logs](https://www.buzzcity.com/keyterms#server_log). This may include:
 
       * Details of how you used our service, such as your search queries.
-      * BuzzCity utilizes [cookies](https://web.archive.org/web/20150613004744id_/http%3A//www.buzzcity.com/keyterms#cookie) to automatically collect information about visitors to our site. The [cookies](https://web.archive.org/web/20150613004744id_/http%3A//www.buzzcity.com/keyterms#cookie) from our site do not collect personal information. However, we may combine information collected through certain cookies we issue in our site with other personal information that you provided to us on the site.
-      * We may collect information using [pixel tags](https://web.archive.org/web/20150613004744id_/http%3A//www.buzzcity.com/keyterms#pixel_tag). Pixel tags may be used to deliver [cookies](https://web.archive.org/web/20150613004744id_/http%3A//www.buzzcity.com/keyterms#cookie), count visits, and understand the usage and activity on the site and to tell if an electronic mail has been opened and acted upon.
+      * BuzzCity utilizes [cookies](https://www.buzzcity.com/keyterms#cookie) to automatically collect information about visitors to our site. The [cookies](https://www.buzzcity.com/keyterms#cookie) from our site do not collect personal information. However, we may combine information collected through certain cookies we issue in our site with other personal information that you provided to us on the site.
+      * We may collect information using [pixel tags](https://www.buzzcity.com/keyterms#pixel_tag). Pixel tags may be used to deliver [cookies](https://www.buzzcity.com/keyterms#cookie), count visits, and understand the usage and activity on the site and to tell if an electronic mail has been opened and acted upon.
       * We automatically receive and store other types of informationwhenever you interact with us. For example, we will track the typeof web browser you are using, where you pages which you link from the site. 
     * **Local Storage**
       * We may collect and store information, including personal information, locally on your device using technologies such as, but not limited to, browser web storage (including HTML5) and application data caches.
@@ -105,7 +105,7 @@ Our Privacy Policy does not apply to services offered by other companies, or ind
 
 ### Enforcement
 
-We regularly review our compliance with our Privacy Policy. We also adhere to self-regulatory frameworks. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly. For more details, you may refer to our [Personal Data Protection Notice](https://web.archive.org/web/20150613004744id_/http%3A//www.buzzcity.com/personal_data_protection_notice).
+We regularly review our compliance with our Privacy Policy. We also adhere to self-regulatory frameworks. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly. For more details, you may refer to our [Personal Data Protection Notice](https://www.buzzcity.com/personal_data_protection_notice).
 
 ### Changes
 
