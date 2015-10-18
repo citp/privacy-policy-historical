@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the mbtrading.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429114309id_/http%3A//www.mbtrading.com/disclaimerPP.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbtrading.com privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018182626id_/http%3A//www.mbtrading.com/disclaimerPP.aspx) for the most accurate reproduction.*
 
-# MB Trading - Disclaimer PP
+# MB Trading
+
+### **DISCLAIMERS:** Privacy Policy
+
+* * *
 
 Please read this carefully because it provides information about the privacy policy of MB Trading and MB Trading Futures, Inc., (collectively referred to as "we," "us," and "our" throughout this policy), which are affiliates under common control. This privacy policy concerns personal information about current and former clients, which are collectively referred to as “you” and “your”.
 
@@ -91,7 +95,7 @@ To opt-out of a sharing arrangement, you can:
 
   * Contact our Client Services Department at (866) 628-3001;
   * Login to the secured client area of our website, and send a ticket to our Client Services team to “Opt-Out of Disclosure”;
-  * Send an e-mail through the secured client area of our website to [optout@mbtrading.com](https://web.archive.org/web/20150429114309id_/http%3A//www.mbtrading.com/optout@mbtrading.com) with the words "Opt-Out of Disclosure" in the subject line and your MBT account number in the body copy; or
+  * Send an e-mail through the secured client area of our website to [optout@mbtrading.com](https://web.archive.org/web/20151018182626id_/http%3A//www.mbtrading.com/optout@mbtrading.com) with the words "Opt-Out of Disclosure" in the subject line and your MBT account number in the body copy; or
   * mail a letter to us indicating your desire to Opt-Out of Disclosure and your MBT account number.
 
 
