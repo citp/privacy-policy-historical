@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the websitebuilder.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316163911id_/https%3A//www.websitebuilder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitebuilder.com privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018212501id_/https%3A//www.websitebuilder.com/privacy) for the most accurate reproduction.*
 
-# Privacy - WebsiteBuilder
-
-### By creating an account, you agree to our Privacy Policy
+# Privacy Policy for WebsiteBuilder.com - Privacy - WebsiteBuilder
 
 **Updated and Effective as of August 1, 2014**
 
