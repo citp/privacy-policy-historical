@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the freefileviewer.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429071418id_/http%3A//www.bitberry.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freefileviewer.com privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018152417id_/http%3A//www.bitberry.com/privacy.html) for the most accurate reproduction.*
 
 # Bitberry Software Privacy Policy
 
-Updated February 21st, 2012
+Updated July 5, 2015
 
-Bitberry Software is committed to protecting your privacy. You can visit most pages on our Site without giving us any information about yourself. This privacy statement explains data collection and use practices of our Sites. By accessing bitberry.com, bitberry.dk, bitzipper.com, bitzipper.dk, compressionlibs.com, finalmediaplayer.com, finaltorrent.com, finalvideodownloader.com, freefileconverter.com, freefileviewer.com, freeyoutubetomp3converter.org or updatepatrol.com, (the "Sites"), you are consenting to the information collection and use practices described in this privacy statement. 
+Bitberry Software is committed to protecting your privacy. You can visit most pages on our Site without giving us any information about yourself. This privacy statement explains data collection and use practices of our Sites. By accessing bitberry.com, bitberry.dk, bitzipper.com, bitzipper.dk, compressionlibs.com, finalmediaplayer.com, finaltorrent.com, finalvideodownloader.com, freefileconverter.com, freefileviewer.com, freeyoutubetomp3converter.org, photohandler.com or updatepatrol.com, (the "Sites"), you are consenting to the information collection and use practices described in this privacy statement. 
 
 ### Collection of personal information
 
@@ -52,7 +52,4 @@ Our Sites are general audience sites and do not knowingly collect any personal i
 
 ### Enforcement of this Privacy Statement
 
-If you have questions regarding this statement, you should [contact us using this form](http://www.bitberry.com/contact.html) or by postal mail at Bitberry Software, Bysoestraede 2B st, DK-4300 Holbaek, Denmark.
-
-  
-
+If you have questions regarding this statement, you should [contact us using this form](https://web.archive.org/web/20151018152417id_/http%3A//www.bitberry.com/index.html#contact) or by postal mail at Bitberry Software, Blomsterhaven 42, DK-4300 Holbaek, Denmark.
