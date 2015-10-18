@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the garnierusa.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612234724id_/http%3A//www.garnierusa.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garnierusa.com privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018115813id_/http%3A//www.garnierusa.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Garnier
 
