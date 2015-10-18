@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seatmaestro.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619204125id_/http%3A//www.seatmaestro.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seatmaestro.com privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018090504id_/http%3A//www.seatmaestro.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
