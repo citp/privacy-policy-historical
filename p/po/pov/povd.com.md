@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the povd.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325030443id_/http%3A//povd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the povd.com privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018054715id_/http%3A//povd.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
