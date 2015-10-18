@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthy.net privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624105221id_/http%3A//www.healthy.net/members/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthy.net privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018022659id_/http%3A//www.healthy.net/members/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Natural and alternative health and wellness mega-site
 
@@ -27,18 +27,14 @@ HealthWorld Online uses a secure server for any ordering and credit card informa
   
 | 
 
-Simply Well
-
-| [Lighten Up with Humor, Play, and Pleasure](https://web.archive.org/scr/Column.aspx?Id=485)  
----  
-The process of becoming healthier can be presented as such serious business that you lose much of the humor and joy of living that characterize wellbeing. Many books about health are filled with... [ more](https://web.archive.org/scr/Column.aspx?Id=485)  
-  
 Vegan Global Fusion
 
-[Tofu Aioli](https://web.archive.org/scr/Column.aspx?Id=1070)  
+| [Roasted Asparagus: Spring has Sprung](https://web.archive.org/scr/Column.aspx?Id=1177)  
 ---  
-This is the vegan version of the French garlic mayonnaise often served with seafood, but great with roasted potatoes, artichokes, greens, and greens beans. Early harvest garlic is much milder than garlic... [ more](https://web.archive.org/scr/Column.aspx?Id=1070)  
+The asparagus is starting to come up and I am ready. My favorite way to eat asparagus is to snap it off and eat it raw, grazing in the garden. My next favorite way it to roast it. Roasting does an... [ more](https://web.archive.org/scr/Column.aspx?Id=1177)  
   
 Popular & Featured Events
+
+Error Reading Event Calendar 
 
 [ ](http://www.healthy.net/prgm/HealthyAd.aspx?Ad=1145)
