@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxpro.co.uk privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424110752id_/http%3A//www.fxpro.co.uk/documents/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxpro.co.uk privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018123158id_/http%3A//www.fxpro.co.uk/documents/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Documents | FxPro
 
