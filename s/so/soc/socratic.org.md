@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socratic.org privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630054935id_/http%3A//socratic.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socratic.org privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018060636id_/http%3A//socratic.org/privacy) for the most accurate reproduction.*
 
 # Socratic
 
