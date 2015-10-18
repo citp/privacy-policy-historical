@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skillfeed.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319015951id_/https%3A//www.skillfeed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skillfeed.com privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018120242id_/https%3A//www.skillfeed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Skillfeed
 
@@ -10,7 +10,7 @@ All Personal Information that we collect and maintain will be subject to this Pr
 
 ### 2\. ENTITIES COLLECTING PERSONAL INFORMATION
 
-Personal Information on this Site is collected by Skillfeed and its telephone number is 1-800-870-5479. 
+Personal Information on this Site is collected by Skillfeed and its telephone number is 1-646-454-4293. 
 
 ### 3\. UPDATING YOUR PERSONAL INFORMATION AND PRIVACY PREFERENCES
 
@@ -106,7 +106,7 @@ We do not intend to solicit or collect Personal Information from anyone under th
 
 ### 14\. PRIVACY COMPLAINTS
 
-Skillfeed takes its users’ privacy concerns seriously. If you believe that Skillfeed has not complied with this Privacy Policy with respect to your Personal Information, please contact us at 1-800-870-5479, or by email to support@skillfeed.com. In your correspondence, please describe in as much detail as possible the ways in which you believe that the Skillfeed Privacy Policy has not been complied with. 
+Skillfeed takes its users’ privacy concerns seriously. If you believe that Skillfeed has not complied with this Privacy Policy with respect to your Personal Information, please contact us at 1-646-454-4293, or by email to support@skillfeed.com. In your correspondence, please describe in as much detail as possible the ways in which you believe that the Skillfeed Privacy Policy has not been complied with. 
 
 If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at [support@skillfeed.com](mailto:support@skillfeed.com). 
 
