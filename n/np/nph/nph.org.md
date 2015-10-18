@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nph.org privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316212444id_/https%3A//www.nph.org/ws/contact/privacy.php%3Flang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nph.org privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018083514id_/https%3A//www.nph.org/ws/contact/privacy.php%3Flang%3Den) for the most accurate reproduction.*
 
 # NPH International - Privacy Statement
 
@@ -133,15 +133,12 @@ If you have any questions about this Privacy Policy or the NPH Site, you may con
 
 * * *
 
-  
-« back
-
 |  | 
 
+| Sponsor a Child  
+---  
+Donate  
   
-Father Wasson surrounded by his pequeños  
-(NPH Mexico - 1981)
-
   
-  
----|---|---
+Rosalia and Ruth on the first day of school.  
+(NPH Guatemala - 2010)
