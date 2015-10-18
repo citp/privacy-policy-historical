@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordimpress.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318140239id_/https%3A//wordimpress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordimpress.com privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018215929id_/https%3A//wordimpress.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WordImpress
 
@@ -14,7 +14,7 @@ WordImpress also collects potentially personally-identifying information like In
 
 ### Gathering of Personally-Identifying Information
 
-Certain visitors to WordImpress’ websites choose to interact with WordImpress in ways that require WordImpress to gather personally-identifying information. The amount and type of information that WordImpress gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [wordimpress.com](http://wordimpress.com/) to provide a username and email address. Those who engage in transactions with WordImpress are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, WordImpress collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with WordImpress. WordImpress does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Certain visitors to WordImpress’ websites choose to interact with WordImpress in ways that require WordImpress to gather personally-identifying information. The amount and type of information that WordImpress gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [wordimpress.com](https://wordimpress.com/) to provide a username and email address. Those who engage in transactions with WordImpress are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, WordImpress collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with WordImpress. WordImpress does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 ### Aggregated Statistics
 
