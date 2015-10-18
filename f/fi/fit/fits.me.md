@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fits.me privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619042736id_/http%3A//www.fits.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fits.me privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018163143id_/http%3A//www.fits.me/privacy-policy) for the most accurate reproduction.*
 
 # Fits.me | Virtual Fitting Room » Privacy policy
 
