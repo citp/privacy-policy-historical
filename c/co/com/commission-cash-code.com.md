@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commission-cash-code.com privacy policy that was archived on 2014-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140723131046id_/http%3A//commission-cash-code.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commission-cash-code.com privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018195555id_/http%3A//www.commission-cash-code.com/privacy.cfm) for the most accurate reproduction.*
 
 # 
 
