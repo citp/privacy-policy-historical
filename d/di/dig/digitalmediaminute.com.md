@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalmediaminute.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509234739id_/http%3A//www.digitalmediaminute.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalmediaminute.com privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018050923id_/http%3A//www.digitalmediaminute.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Digital Media Minute
 
@@ -25,7 +25,4 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 
 Thanks for visiting [Digital Media Minute](http://www.digitalmediaminute.com/)
 
-AdSense Privacy Policy Provided by [JenSense](https://web.archive.org/web/20150509234739id_/http%3A//www.digitalmediaminute.com/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D)
-
-  *   *   *   *   *   * 
-
+AdSense Privacy Policy Provided by [JenSense](https://web.archive.org/web/20151018050923id_/http%3A//www.digitalmediaminute.com/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D)
