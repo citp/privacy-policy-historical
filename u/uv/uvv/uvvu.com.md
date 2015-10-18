@@ -1,97 +1,87 @@
-> *The following text is extracted and transformed from the uvvu.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215183925id_/https%3A//www.uvvu.com/en/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uvvu.com privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018172546id_/https%3A//www.myuv.com/en/us/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | UltraViolet
+# Home | UltraViolet
 
-This Privacy Policy concerns the UltraViolet website ([www.uvvu.com](https://web.archive.org/en/us)) (the " **Website** "), which is controlled and operated by Digital Entertainment Content Ecosystem (DECE) LLC (" **DECE** " or " **us** ").  DECE is a limited liability company organized in Delaware, USA (company number 4536477).
+UltraViolet™ Privacy Policy
 
-The Website is primarily designed to provide you with information about the digital entertainment service DECE offers (the "Service").  If you choose to use the Service, the separate [UltraViolet Service Privacy Policy](https://my.uvvu.com/ssp/public/privacyStatementPage.jsf), rather than this Website Privacy Policy, will apply to all aspects of your use of the Service.
+Effective Date: 12-Mar-2015
 
-By using the Website, you are agreeing to the terms of this Privacy Policy, including as they may be amended from time to time. Your use of the Website therefore constitutes your consent to DECE's collection, storage, processing, use and disclosure of your personal information  as described herein.
+UltraViolet is operated by the Digital Entertainment Content Ecosystem (DECE) LLC, a Delaware limited liability company located in the United States. You may contact us by mail at 1807 Santa Rita Road, Suite D235, Pleasanton, CA 94566 USA or by email at legal@decellc.com.
 
-As the Website is updated and expanded, our Privacy Policy may change, so please review the posted Privacy Policy from time to time. DECE will notify you about material changes in the way we treat personal information by placing a notice on the Website or by sending you an email (if you have provided us your email address).
+We provide a cloud-based, digital video rights locker, which is a centralized repository that stores data about the rights for video content that you have obtained and enables you to manage these rights by signing up for an UltraViolet Library. We are a consortium whose members include content providers, retailers, and other companies that participate in the UltraViolet system. Companies that participate in the UltraViolet system enter into a license agreement with us and are referred to as “Participating Services” in this Privacy Policy. 
 
-This Privacy Policy is incorporated into and is part of the [Website Terms of Use](https://web.archive.org/en/us/terms-of-use), which governs your use of the Website in general.  Capitalized terms not otherwise defined herein have the meanings set forth in the Website Terms of Use.  Unless otherwise stated, the singular includes the plural and vice versa, reference to a person includes a legal person (such as a company) as well as a natural person, and the words "include", "including", "in particular", "for example", "such as" or similar shall be construed as illustrative and without limitation.
+We are committed to protecting your privacy and the safety of your information. This Privacy Policy sets forth our policies and practices for handling your information in connection with the UltraViolet website, the UltraViolet service, and any other website or online service that we operate and that links to this Privacy Policy (the “Services”). Your use of the Services is governed by this Privacy Policy, and you consent to our use of your information consistent with this Privacy Policy.
 
-**_Purpose and Scope of this Policy_**
+We may collect the following kinds of information when you use the Services:
 
-This Privacy Policy is intended to inform users of the Website about the information that is collected from them through the Website, how that information is used, and with whom DECE may share such information.  This Privacy Policy is separate from the UltraViolet Service Privacy Policy, which governs personal information processed in connection with the UltraViolet Service.  This Privacy Policy does not apply to your use of the UltraViolet Service.. 
+Information you provide directly to us. For certain activities, such as when you sign-up or contact us directly, we may ask you to provide some or all of the following types of information:
 
-**_Collection of Information through the Website_**
+  * Contact information, such as full name and email address;
+  * Username and password;
+  * Demographic information, such as gender and country;
+  * When you provide a redemption code for content, rights information related to that code, such as the code itself, title information, and retailer information;
+  * Reason for the contact; and
+  * Other information you provide to us.
 
-Any personal information provided to or gathered by us from the Website is controlled by DECE.
 
-**_User-Provided Information_**
 
-We will collect certain personal information from you through this Website if you want us to send you more information about the UltraViolet Service.  Specifically, in order for us to send you updates on new functionalities or other information about the Service, you will need to register through the Website, which involves providing your first and last name, email address, and if you wish, your company affiliation (if any).  We can then send you email updates about the Service.
+Information we obtain from your use of the Services. We may collect certain information automatically when you use our Services, such as rights information (including, for example, movie or TV show title information, retailer information, and purchase date), your Internet protocol (IP) address, device identifiers, browser type, operating system, software and settings information, resolution, Internet service provider, webpages that you visit before and after using the Services, search terms, the date and time of your visit, information about the links you click and pages you view within the Services, and other standard server log information. 
 
-In addition, we may collect personal information from you if you choose to send it us in other ways, such as if you contact DECE via the "Contact Us" page of the Website.  For example, you might provide your name and/or email address in sending a message through the "message" box on the "Contact Us" page. 
+We may use cookies, pixel tags, and similar technologies to automatically collect this information. To learn more about our use of cookies, please read our [Cookie Policy](https://web.archive.org/en/us/cookie-policy). **By using the Services, you consent to our use of cookies and similar technologies.**
 
-**_Information Automatically Collected_**
+Some web browsers may transmit "do-not-track" signals to websites with which the user communicates, although web browsers incorporate and activate this functionality in different ways, and it is not always clear whether users intend for these signals to be transmitted. There currently is disagreement among the leading Internet standards-setting organizations concerning what, if anything, websites should do when they receive such signals. Consequently, we may not take action in response to these signals.
 
-When you use the Website, certain information is automatically received and collected relating to that use. For example, DECE may use cookies, clear Graphic Interchanges Format files, known as “GIFs” (also known as "web beacons," or "pixel tags"), or similar technologies to collect information about you and your use of the Website. 
+Information we obtain from other sources. We may receive information about you from other sources. For example, when you grant a Participating Service, such as a retailer, access to your UltraViolet Library, we may receive information about you from the Participating Service. If you access third-party social media services, such as Facebook, Google, or Twitter, through the Services to login to the Services or to share information about your experience on the Services with others, we may collect information from these third-party services.
 
-Cookies are small data files that are sent to your browser or related software from a web server and stored on your computer or device. We use cookies to make the Website work, or work more efficiently, by tracking and storing your user preferences while using the Website as well as technical information about your use of the Website. Cookies are not harmful to your computer or device.
+We use and combine the information we collect to:
 
-This Website uses site analytics cookies from third party service provides, including Google (Google Analytics). These cookies are used to collect information about how visitors use our Website (for example, the number of visitors to the Website, where visitors have come to the Website from and the pages they visited) which we use to help improve it. These cookies collect information in an anonymous form.
+  * Fulfill your requests for products, services, and information;
+  * Communicate with you about the Services and products and services of our partners, including through promotional and marketing e-mails, mailings, and notifications;
+  * Analyze your use of the Services to understand and improve the Services;
+  * Store your user preferences and customize the content you see when you use the Services;
+  * Prevent potentially prohibited or illegal activities and otherwise in accordance with our [Terms of Use](https://web.archive.org/en/us/terms); and
+  * For any other purposes disclosed to you at the time we collect your information or pursuant to your consent.
 
-Web browsers are typically set to accept cookies automatically. Most web browsers can be set to inform you when a cookie has been sent to you and provide you with the opportunity to refuse that cookie, or you can disable cookies entirely.  However, refusing a cookie, or disabling them entirely, may in some cases preclude you from using, or negatively affect the display or function of, the Website or certain areas or features of the Website.  To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit <http://www.allaboutcookies.org/>.  DECE may also use clear GIFs or similar technologies to enable DECE to know whether you have visited a particular web page, viewed content or received a message.  A clear GIF is typically a one-pixel, transparent image (although it can be a visible image as well), located on a web page or in an email or other type of content or message, which is retrieved from a remote site on the Internet enabling the verification of an individual's viewing or receipt of a web page, content or message. 
 
-You cannot opt out or refuse clear GIFs.  However, where they are used in conjunction with cookies (for example, to gain an understanding of how you navigate through and process the content contained in the Website) they can be made ineffective by either opting out of cookies or by changing the cookie settings in your browser (see above). Please note that we do not tie clear GIFs to personally identifiable information.
 
-DECE automatically collects data about your Internet address when you use the Website. This information, known as an Internet Protocol address or IP address, is a number that is automatically assigned to your computer or device by your Internet service provider or carrier whenever you are online.  If you access the Website from a mobile or other device, your unique device identifier assigned to that device or other transactional information for that device may also be collected.
+We are committed to maintaining your trust, and we want you to understand when and with whom we may share the information we collect.
 
-All of these technologies are designed to improve and personalize your experience using the Website. **By using the Website, you understand that we will obtain certain information about your use of the Website and you consent to the use of the tracking technologies as described above.**
+  * Participating Services in the United States and Elsewhere. When you or an authorized user of your UltraViolet Library grants a Participating Service access to your UltraViolet Library or you enter a code to redeem access to content through a Participating Service, we may share your information (such as which rights have been obtained for your UltraViolet Library and what content is being requested) with Participating Services in the ordinary course of business, including to fulfill your orders and process your requests (such as to display movies and TV shows to you and other users having access to your UltraViolet Library). For example, if you give a specific retailer access to your UltraViolet Library, we allow that retailer to get information about the movies and TV shows that you have rights to so it can process your requests to access your UltraViolet Library and download or stream content through that retailer’s service.
+  * Other third-party services. If you access or use third-party services, such as Facebook, Google, or Twitter, to sign in to the Services or Participating Services or to otherwise share information about your use of the Services or Participating Services, these third-party services may be able to collect information about you, including information about your activity on the Services or Participating Services, and such information may be provided to your connections on the third-party services, in accordance with their own privacy policies and any user controls they may offer. 
+  * Other users of your UltraViolet Library. If, consistent with the Terms of Use, you permit other users to access your UltraViolet Library, each user may be able to see certain information about you and other users of the Library, such as the movies and TV shows in the Library, which user obtained them, where they were obtained, and users’ viewing activity. Other users may have the ability to delete you and other Library users and add additional users to the Library.
+  * Our vendors and service providers. We may share your information with our third-party vendors and service providers who help us provide and improve the Services, including, for example, email deployment, marketing, and data processing.
+  * Business transfers. We may share your information in connection with a corporate transaction or business transfer, such as an acquisition, merger, sale, reorganization, consolidation, liquidation or sale of assets resulting in another party’s acquisition of all or elements of the Services, or in the unlikely event of bankruptcy.
+  * Legal purposes. We may disclose information to respond to subpoenas, court orders, legal process, law enforcement requests, legal claims or government inquiries, and to protect and defend our rights, interests, property, safety, and security, and that of the Services, users, or the public. 
+  * Aggregated or de-identified information. After removing your name and any other information that personally identifies you, we may share aggregated or de-identified information with Participating Services so that they can measure and analyze usage and performance of the Services. These Participating Services are prohibited from re-identifying or otherwise combining this information with other data. 
+  * With your consent. We may share information for any other purposes disclosed to you at the time we collect the information or pursuant to your consent. For example, if you consent to allow Participating Services to send you promotional or marketing messages, those Participating Services may use the information they obtain from us for such purposes. 
 
-**_Use of Personal Information_**
 
-DECE may use your personal information and Website usage information collected as described above to provide you with information, customer service, send you notices regarding the UltraViolet Service (for example, in the form of email messages or  mailings) and otherwise to respond to your requests.  DECE may also use this information for recordkeeping purposes within DECE.  DECE may match information collected from you through different means or at different times, including both personal information and Website usage information, with information obtained from other sources, including third parties.
 
-DECE may also use personal information to analyze individual user behavior as a measure of interest in, and use of, the Website and of the UltraViolet Service, both on an individual basis and in the aggregate.
+**By** **consenting to this Privacy Policy, you consent** **to the sharing of information as described above.**
 
-**_Sharing of Personal Information_**
+We use reasonable administrative, technical, and physical measures to help safeguard information from loss, theft, misuse and unauthorized access, disclosure, alteration, and destruction and other unauthorized data processing. No data storage system or transmission of data over the Internet or any other public network, however, can be guaranteed to be 100% secure. 
 
-**_Third Party Service Providers_**
+You may change your settings (such as changing your password, removing users, or closing your UltraViolet Library) by visiting [myuv.com](https://www.myuv.com/). You also may unlink Participating Services and change other settings by accessing the “Linked Services” section of [myuv.com](https://www.myuv.com/). 
 
-In order to improve the Website and to provide you with updates and information about the Service, we may share your personal information with certain third-party service providers.  For example, we may share general usage information with service providers who assist us with Website  development or help us operate the Website, as well as service providers who may assist us in sending you materials on new functionalities of the Service. These service providers perform services on our behalf and work under contract on our behalf. They do not have the right to use personal information we provide to them in any way that is not authorised by us. They are contractually obligated to use such information only as necessary to assist us and to maintain the confidentiality and security of such information.
+You have the right to ask us not to use your personal information for direct marketing purposes. When we send you commercial emails, we include an unsubscribe method (usually found at the bottom of the email) that you may use to opt out of receiving future commercial messages. You also may opt out of receiving commercial emails by contacting legal@decellc.com. 
 
-**By using the Website, you are consenting to the sharing of information with third-party service providers as described above.**  
+You may access and correct inaccuracies in the personal information we have collected about you by using the UltraViolet Library settings provided on [myuv.com](https://www.myuv.com/) or emailing us at legal@decellc.com. We will use reasonable efforts to supply or correct personal information about you that we maintain. As permitted by law, we may charge a nominal fee for information requests and require you to establish your identity before providing you access to the requested information. 
 
-**_Legal Obligations and Record Retention_**
+We take reasonable steps to ensure that we retain information about you only for so long as is necessary for the purpose for which it was collected, or as required under any contract or by applicable law.
 
-DECE may disclose your personal information and Website usage information to law enforcement and other government authorities, and to other third parties when compelled to do so by such government authorities or as otherwise required or permitted by law, including in response to court orders and subpoenas.  DECE also may disclose your personal information and other information when DECE has reason to believe that someone is causing or threatening to cause injury to or interference with DECE's rights or property, the operation of the Website, individual users, or anyone else that could be harmed by such activities; as well as to protect against fraud.
+The Services are intended for a general audience and do not knowingly collect personal information from children. 
 
-DECE reserves the right to retain personal information and Website usage information for recordkeeping, legal and operational purposes.
+The Services may contain links to content or services maintained by third parties that we do not control. We are not responsible for the privacy practices of these third parties, and we recommend that you read their privacy policies.
 
-**_Business Transfers_**
+Residents of the U.S. State of California may request a list of all third parties to which we have disclosed certain information during the preceding year for the third parties' direct marketing purposes. If you are a California resident and want such a list, please contact us. For all requests, you must put the statement "Your California Privacy Rights" in the body of your request, as well as your name, street address, city, state, and zip code. Please note that we will not accept requests via the telephone, mail, or by facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.
 
-In the event that DECE undergoes an acquisition, merger, sale, reorganization, consolidation or liquidation or sale of assets resulting in another party's acquisition of all or elements of the UltraViolet Service, your personal information and your Website usage information may be among the transferred assets and may be disclosed as required to the relevant entities and advisors involved in the acquisition, merger, sale, reorganization, consolidation or liquidation. 
+Information collected through the Service may be stored and processed in the United States or any other country in which we or our service providers maintain facilities. We may transfer information that we collect about you, including personal information, across borders and from your country or jurisdiction to other countries or jurisdictions. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction. By using the Services and providing us with information directly or indirectly, you consent to the transfer of information to the U.S. or to any other country in which we or our service providers maintain facilities for processing in accordance with this Privacy Policy. We will take reasonable steps to ensure that your personal information is protected.
 
-**_Access and Updates to Personal Information_**
+We may update this Privacy Policy from time to time. When we update the Privacy Policy, we will revise the “Effective Date” above and post the new Privacy Policy on the Services. We recommend that you review the Privacy Policy each time you visit the Services to stay informed of our privacy practices.
 
-You may access the personal information we have collected about you through the Website, and ask us to delete, correct or update any inaccurate information, by emailing us at _[customercare@uvvu.com](mailto:customercare@uvvu.com)_. Following a request from you, we will use reasonable efforts to supply a copy of the personal information about you on our files and correct, update or delete any inaccurate or incomplete information.
+If you have any questions about this Privacy Policy or our practices, please contact us by email at legal@decellc.com.
 
-**_Privacy of Children_**
-
-The Website is not directed at minors and we do not knowingly collect from or maintain any personal information regarding persons under the age of 13. DECE is committed to complying with all applicable laws and regulations concerning the processing of personal data relating to children. If you are a parent or guardian who believes your child has submitted personal information or other information to DECE, please contact [privacypolicy@decellc.com](mailto:privacypolicy@decellc.com).
-
-**_Security_**
-
-DECE endeavors to protect the security and integrity of personal information collected via the Website.  However, due to the inherent nature of the Internet as an open global communications vehicle, DECE cannot guarantee that any information, whether during transmission through the Internet, while stored on DECE's system, or otherwise in DECE's care, will be absolutely safe from intrusion by others, such as hackers.  This includes information provided to DECE by email or through the "Contact Us" feature on the Website.  In sending information in these ways, you should be aware that your transmission might not be secure while it is in transit, and that a third party could possibly view the information in transit.
-
-**_Transfers of Information_**
-
-When you use the Website, your personal information will be processed in the United States.  The data protection and other privacy laws of the United States may not afford the same level of protection as the laws of certain other countries, such as the member nations of the European Union.  **By providing personal information to DECE, directly or indirectly though the Website or otherwise from outside the United States, you expressly consent to the transfer of your information to the United States**.  DECE will take reasonable steps to ensure that your personal information is protected.
-
-**_Linked Services_**
-
-Our provision of a link to any other website or location is for your convenience and does not signify our endorsement of such other website or location or its contents. DECE does not control the websites, applications or other services that are operated by these third parties and is not responsible for the information and privacy practices of these websites, applications or other services. This Privacy Policy does not address the information practices of those websites, applications or other services.  Thus, for example, once you leave the Website via a link or enable a third party service or click on an advertisement, you should check the privacy policy of the applicable third party service. 
-
-**_Marketing Emails_**
-
-Where you have requested to receive email updates from us, DECE may periodically send you emails that promote or otherwise contain information relating to the use of the Website and/or UltraViolet Service. When you receive emails from us, you may indicate a preference to "opt out" of, and thus to stop receiving further emails from us by following the "unsubscribe" instructions provided in the email(s) you received.
-
-**_Contacting DECE_**
-
-If you have any questions or comments regarding DECE's privacy practices, you may contact DECE by email at [privacypolicy@decellc.com](mailto:privacypolicy@decellc.com).
-
-**Effective Date:  November 14, 2013**
+Digital Entertainment Content Ecosystem (DECE) LLC  
+1807 Santa Rita Road  
+Suite D235  
+Pleasanton, CA 94566 USA
