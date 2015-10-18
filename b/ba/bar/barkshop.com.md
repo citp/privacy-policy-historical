@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barkshop.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320120431id_/https%3A//www.barkshop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barkshop.com privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018120832id_/https%3A//barkshop.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | BarkShop
 
