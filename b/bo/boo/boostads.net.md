@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boostads.net privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430163404id_/http%3A//boostads.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boostads.net privacy policy that was archived on 2015-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151019004819id_/http%3A//boostads.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BoostAds - 100% Monetization Platform
 
