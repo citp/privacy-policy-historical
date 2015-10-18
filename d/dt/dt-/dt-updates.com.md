@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dt-updates.com privacy policy that was archived on 2015-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150413235655id_/http%3A//www.daemon-tools.cc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dt-updates.com privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018110738id_/http%3A//www.daemon-tools.cc/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - DAEMON-Tools.cc - DAEMON-Tools.cc
 
