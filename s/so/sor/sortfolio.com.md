@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sortfolio.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508235428id_/http%3A//sortfolio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sortfolio.com privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018205216id_/http%3A//www.sortfolio.com/privacy) for the most accurate reproduction.*
 
 # Sortfolio: Privacy policy
 
@@ -13,7 +13,7 @@ We collect the e-mail addresses of those who communicate with us via e-mail, agg
 
 ### Information Gathering and Usage
 
-  * When you register for Sortfolio we ask for information such as your name, company name, email address, billing address, credit card information. Members who sign up for the free account are not required to enter a credit card. 
+  * When you register for Sortfolio we ask for information such as your name, company name, email address, billing address, payment information. Members who sign up for the free account are not required to enter a payment information. 
   * Sortfolio uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research. 
 
 
