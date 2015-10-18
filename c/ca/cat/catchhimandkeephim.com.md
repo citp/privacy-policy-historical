@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catchhimandkeephim.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316162151id_/http%3A//www.catchhimandkeephim.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catchhimandkeephim.com privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018114425id_/http%3A//www.catchhimandkeephim.com/privacy/index.html%3Fs%3D81804) for the most accurate reproduction.*
 
 # Catch Him & Keep Him | Your Privacy
 
@@ -34,7 +34,7 @@ There is no central “opt out” place that we are aware of. There are efforts 
 
 Regardless of the state of privacy as a whole, you can avoid us finding out extra demographic information about you by doing the following:
 
-1\. email us using our [ contact page](https://web.archive.org/web/20150316162151id_/http%3A//www.catchhimandkeephim.com/contact.html)
+1\. email us using our [ contact page](https://web.archive.org/web/20151018114425id_/http%3A//www.catchhimandkeephim.com/contact.html?s=81804)
 
 2\. in the subject line write: “Privacy - opt out of demographic information”
 
@@ -74,15 +74,15 @@ Clear GIFs can "work with" existing cookies on a computer if they are both from 
 
 Your email information (email address, first name) is stored at the list server that delivers Catch Him & Keep Him newsletters. Your information can only be accessed by those who help manage those lists in order to deliver e-mail to those who would like to receive Catch Him & Keep Him's newsletters.
 
-All of the newsletters that are sent to you by Catch Him & Keep Him include an unsubscribe link in them. You can remove yourself at any time from our newsletters by [unsubscribing here](https://web.archive.org/web/20150316162151id_/http%3A//www.catchhimandkeephim.com/help/unsubscribe.html).
+All of the newsletters that are sent to you by Catch Him & Keep Him include an unsubscribe link in them. You can remove yourself at any time from our newsletters by [unsubscribing here](https://web.archive.org/web/20151018114425id_/http%3A//www.catchhimandkeephim.com/help/unsubscribe.html?s=81804).
 
-If you have purchased any of my programs, you will continue to receive mailings related to your purchase. If you are an affiliate partner, then you will continue to receive mailings related to our affiliate program. If you would like to be removed from any of these mailings, please [contact my support team](https://web.archive.org/web/20150316162151id_/http%3A//www.catchhimandkeephim.com/contact.html) and they can assist you.
+If you have purchased any of my programs, you will continue to receive mailings related to your purchase. If you are an affiliate partner, then you will continue to receive mailings related to our affiliate program. If you would like to be removed from any of these mailings, please [contact my support team](https://web.archive.org/web/20151018114425id_/http%3A//www.catchhimandkeephim.com/contact.html?s=81804) and they can assist you.
 
 ## Disclaimer
 
 This policy may be changed at any time at Catch Him & Keep Him's discretion. If we should update this policy, we will post the updates to this page on our Website. This policy was revised September 19, 2011.
 
-If you have any questions or concerns regarding our privacy policy please send us your question by [going here](https://web.archive.org/web/20150316162151id_/http%3A//www.catchhimandkeephim.com/contact.html). You may also send a letter to:
+If you have any questions or concerns regarding our privacy policy please send us your question by [going here](https://web.archive.org/web/20151018114425id_/http%3A//www.catchhimandkeephim.com/contact.html?s=81804). You may also send a letter to:
 
 Amare Inc  
 Attn: "Catch Him & Keep Him" Support Team  
