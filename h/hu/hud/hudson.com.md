@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hudson.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065350id_/http%3A//hudson.com/home/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hudson.com privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018233905id_/http%3A//us.hudson.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - US | Hudson
 
 ## 1.    WHO WE ARE
 
@@ -14,7 +14,7 @@ We operate a number of websites globally (Websites) which contain basic informat
 
 ## 3.    INFORMATION ABOUT VISITORS TO OUR WEBSITES
 
-We gather general information about the use of our Websites, such as which areas users visit most frequently and which services users access the most. We only use aggregated data when analyzing usage patterns of our website and which cannot identify individual visitors to our Websites. This information helps us determine what is most beneficial for our users and how we can continually create a better overall online experience. We may share this general information within Hudson and also with our business partners so that they too may understand how our Websites are used.  Please see our [cookie policy](https://web.archive.org/cookiepolicy.aspx) on our Websites for more information.
+We gather general information about the use of our Websites, such as which areas users visit most frequently and which services users access the most. We only use aggregated data when analyzing usage patterns of our website and which cannot identify individual visitors to our Websites. This information helps us determine what is most beneficial for our users and how we can continually create a better overall online experience. We may share this general information within Hudson and also with our business partners so that they too may understand how our Websites are used.  Please see our [cookie policy](https://web.archive.org/cookiepolicy) on our Websites for more information.
 
 ## 4.    COLLECTION OF YOUR PERSONAL INFORMATION
 
@@ -89,7 +89,7 @@ Our Websites may include links to external websites operated by other organisati
 
 ## 8.    COOKIES
 
-Read Hudson's cookie policy and how we use cookies [here](https://web.archive.org/cookiepolicy.aspx).
+Read Hudson's cookie policy and how we use cookies [here](https://web.archive.org/cookiepolicy).
 
 ## 9.    RETENTION
 
