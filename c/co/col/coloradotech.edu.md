@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coloradotech.edu privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620041213id_/http%3A//www.coloradotech.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coloradotech.edu privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018143232id_/http%3A//www.coloradotech.edu/privacy) for the most accurate reproduction.*
 
 # Colorado Technical University - CTU
 
