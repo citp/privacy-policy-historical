@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the placestakeover.com privacy policy that was archived on 2015-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150225130958id_/http%3A//placestakeover.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the placestakeover.com privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018040703id_/http%3A//placestakeover.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PLACES TAKEOVER
 
