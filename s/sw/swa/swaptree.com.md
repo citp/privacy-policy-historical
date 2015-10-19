@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the swaptree.com privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326074412id_/http%3A//support.swap.com/hc/en-us/articles/203331185-Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swaptree.com privacy policy that was archived on 2015-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151019032244id_/http%3A//support.swap.com/hc/en-us/articles/203331185-Privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy – Swap.com Support
 
-LAST UPDATED: 23 August, 2012
+LAST UPDATED: 7 May, 2015
 
 ## NETCYCLER INC. / SWAP.COM PRIVACY POLICY
 
 ### I. Introduction
 
-Netcycler, Inc. (“we, “us) is committed to protecting and respecting your privacy. This Privacy Policy (together with our [terms of use](https://web.archive.org/entries/21819031) and any other documents referred to in it) applies to netcycler.com (the “Service”) and sets out the basis on which any personal data we collect from you, or that you provide to us, will be handled by us. In this Privacy Policy, the term “personal data” means information that relates to an identified or identifiable natural person. This Privacy Policy tells you about the ways in which we protect your privacy and personal data we process about you.
+Netcycler, Inc. (“we, “us) is committed to protecting and respecting your privacy. This Privacy Policy (together with our [terms of use](https://web.archive.org/entries/21819031) and any other documents referred to in it) applies to swap.com (the “Service”) and sets out the basis on which any personal data we collect from you, or that you provide to us, will be handled by us. In this Privacy Policy, the term “personal data” means information that relates to an identified or identifiable natural person. This Privacy Policy tells you about the ways in which we protect your privacy and personal data we process about you.
 
 We wish to remind you that this Privacy Policy applies to personal data that we process when you use the Service. It does not apply to any links to third parties’ websites and/or services, such as third-party applications, that you may encounter when you use the Service. We encourage you to carefully familiarize yourself with privacy policies applicable to any websites and/or services operated by third parties. Please be aware that we are not responsible for the privacy practices of any third parties.
 
