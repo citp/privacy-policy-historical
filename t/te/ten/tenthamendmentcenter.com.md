@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tenthamendmentcenter.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607211805id_/http%3A//tenthamendmentcenter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tenthamendmentcenter.com privacy policy that was archived on 2015-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151019075114id_/http%3A//tenthamendmentcenter.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Tenth Amendment Center
 
