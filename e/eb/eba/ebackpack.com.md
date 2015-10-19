@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ebackpack.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628094042id_/https%3A//www.ebackpack.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebackpack.com privacy policy that was archived on 2015-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151019103959id_/https%3A//www.ebackpack.com/privacy) for the most accurate reproduction.*
 
-# eBackpack » Privacy Policy
+# Privacy Policy | eBackpack
 
 ## eBackpack, Inc. Privacy Policy
 
@@ -37,4 +37,4 @@ eBackpack may disclose personally identifiable information under special circums
 eBackpack may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your eBackpack primary account holder account or by placing a prominent notice on our site.
 
 **QUESTIONS**  
-Any questions about this Privacy Policy should be addressed to support at eBackpack dot com or by mail at: eBackpack, Inc. 2931 Ridge Road Ste 101-109, Rockwall, TX 75032 
+Any questions about this Privacy Policy should be addressed to support at eBackpack dot com or by mail at: eBackpack, Inc. 2931 Ridge Road Ste 101-109, Rockwall, TX 75032
