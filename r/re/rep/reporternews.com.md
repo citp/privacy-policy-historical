@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reporternews.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615093140id_/http%3A//www.reporternews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reporternews.com privacy policy that was archived on 2015-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151019023434id_/http%3A//www.reporternews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & User Agreement Information &amp; News from Abilene Reporter-News (Abilene, TX)
 
