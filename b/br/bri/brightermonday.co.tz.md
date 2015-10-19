@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightermonday.co.tz privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616230128id_/http%3A//www.brightermonday.co.tz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightermonday.co.tz privacy policy that was archived on 2015-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151019065444id_/https%3A//www.brightermonday.co.tz/privacy-policy) for the most accurate reproduction.*
 
 # | BrighterMonday
 
