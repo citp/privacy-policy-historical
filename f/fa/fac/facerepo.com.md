@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the facerepo.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628212023id_/http%3A//facerepo.com/app/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facerepo.com privacy policy that was archived on 2015-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151019054853id_/http%3A//facerepo.com/app/privacy) for the most accurate reproduction.*
 
 # Privacy | FaceRepo
 
