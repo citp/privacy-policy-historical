@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caryaudio.com privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414193011id_/http%3A//www.caryaudio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caryaudio.com privacy policy that was archived on 2015-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151019102934id_/http%3A//www.caryaudio.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cary Audio
 
