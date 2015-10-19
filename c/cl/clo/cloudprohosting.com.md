@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the cloudprohosting.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921121034id_/http%3A//www.cloudprohosting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudprohosting.com privacy policy that was archived on 2015-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151019040648id_/http%3A//cloudprohosting.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Cloud Based Web Hosting by Cloud Pro Hosting - 99.9% Uptime Web Hosting
 
 ## 1\. Introduction
 
-Welcome to the Cloud Pro Hosting website, owned and controlled by Mudlark Investments Ltd, a company registered in and governed by the laws of Cyprus whose registered address is 11 Timis, 3rd Floor, Office 302, Latsia Nicosia P.C. 2220 Cyprus. 
+Welcome to the Cloud Pro Hosting website, a company registered in and governed by the laws of the United States. 
 
-Protecting your privacy is a serious matter and doing so is very important to cloudprohosting.com (also hereinafter referred to as ?Cloud Pro Hosting?, "we", "us" or "our"). No personal information will be shared with any third parties without the customer?s permission. Please read this Privacy Policy statement (the "Policy") to learn more about our Policy.
+Protecting your privacy is a serious matter and doing so is very important to cloudprohosting.com (also hereinafter referred to as "Cloud Pro Hosting", "we", "us" or "our"). No personal information will be shared with any third parties without the customer"s permission. Please read this Privacy Policy statement (the "Policy") to learn more about our Policy.
 
 This Policy applies to information collected on the Cloud Pro Hosting web site, applications and services (the "Service") and covers our treatment of personally identifiable information/data ("Personal Information") and other data that we gather when you are accessing our Service.
 
@@ -21,10 +21,6 @@ The Personal Information you provide is used for such purposes as allowing you t
 ## 3\. Information Collected Automatically by Cloud Pro Hosting
 
 When you use the Service, Cloud Pro Hosting automatically receives and records information on our server logs from your browser or mobile platform, including your location, IP address, cookie information, and the page you requested. We treat this data as non-personal information, except where we are required to do otherwise under applicable law. Cloud Pro Hosting only uses this data in aggregate form.
-
-## Cookies
-
-Please refer to our Cookie Policy.
 
 ## Log Files
 
@@ -54,11 +50,11 @@ Any Personal Information or content that you voluntarily disclose or upload to p
 
 ## Information shared with Partners and Affiliates
 
-We may provide information in aggregate form to our partners and affiliates about how our users, collectively, use our Service, so that they may also understand how often people use their services and our Service. We may use for promotional/sales purposes or for any other purposes that we consider appropriate your correspondence with us or content submitted by you for publication on our Service, whether it be via email, postings on our website and mobile device software applications, or via feedback (for instance members/users? polls). Our use of such materials/contents/information/data is compliant with the restrictions on disclosure of Personal Information set forth herein. 
+We may provide information in aggregate form to our partners and affiliates about how our users, collectively, use our Service, so that they may also understand how often people use their services and our Service. We may use for promotional/sales purposes or for any other purposes that we consider appropriate your correspondence with us or content submitted by you for publication on our Service, whether it be via email, postings on our website and mobile device software applications, or via feedback (for instance members/users" polls). Our use of such materials/contents/information/data is compliant with the restrictions on disclosure of Personal Information set forth herein. 
 
 ## Information shared with Agents
 
-We employ/hire other companies and/or individuals (?Agents?) to perform tasks on our behalf and we need to share your information with them to provide the Service to you. Our agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us, and they provide a comparable level of protection for your Personal Information. 
+We employ/hire other companies and/or individuals ("Agents") to perform tasks on our behalf and we need to share your information with them to provide the Service to you. Our agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us, and they provide a comparable level of protection for your Personal Information. 
 
 ## Required disclosures
 
