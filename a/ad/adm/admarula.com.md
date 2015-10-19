@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the admarula.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611150219id_/http%3A//www.admarula.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admarula.com privacy policy that was archived on 2015-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151019122831id_/http%3A//www.admarula.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | AdMarula
+# Privacy Policy | Admarula
 
 ### Privacy Policy
 
-All references to “the Company””, “we”, “us” and “our” in these terms and conditions are deemed to refer to AdMarula (Proprietary) Limited, registration number 2011/009369/07, a limited liability company incorporated in the Republic of South Africa and having its registered address at 5th Floor, Suite 507, 4 Loop Street, Cape Town, 8000.  
-All references to “you” and “your” are deemed to refer to any user and/or visitor of www.admarula.com (“ **Website** “).  
+All references to “the Company””, “we”, “us” and “our” in these terms and conditions are deemed to refer to AdMarula (Proprietary) Limited, registration number 2011/009369/07, a limited liability company incorporated in the Republic of South Africa and having its registered address at The Studios, 5th Floor, 4 Loop Street, Cape Town, 8001. All references to “you” and “your” are deemed to refer to any user and/or visitor of www.admarula.com (“ **Website** “).  
 We respect your privacy. Should you decide to make use of our Website, the only personal information that we will require of you is the following:  
 1.1 your name and surname; and  
 1.2 your email address.  
