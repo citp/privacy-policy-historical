@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rview.com privacy policy that was archived on 2015-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150405131137id_/https%3A//content.rview.com/en/policy/personal-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rview.com privacy policy that was archived on 2015-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151019030337id_/https%3A//content.rview.com/en/policy/personal-policy) for the most accurate reproduction.*
 
 # RemoteView | Smart remote control RemoteView
 
