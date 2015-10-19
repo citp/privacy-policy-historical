@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the medhunters.com privacy policy that was archived on 2015-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150311075519id_/http%3A//www.medhunters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medhunters.com privacy policy that was archived on 2015-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151019054402id_/http%3A//careerbrochure.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Effective Date: February 24, 2015
 
-At **MedHunters.com** , we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you visit the site, and how we safeguard your information. We will never sell your personal information to third parties.
+At **CareerBrochure.com** , we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you visit the site, and how we safeguard your information. We will never sell your personal information to third parties.
 
-INTRODUCTION. **MedHunters** (“us,” “we,” or “Company”) is committed to respecting the privacy rights of its customers, visitors, and other users of the Company Website (“the Site”). We created this website Privacy Policy (“Privacy Policy”) to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices and the protection of privacy. This Privacy Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy.
+INTRODUCTION. **CareerBrochure**  (“us,” “we,” or “Company”) is committed to respecting the privacy rights of its customers, visitors, and other users of the Company Website (“the Site”). We created this website Privacy Policy (“Privacy Policy”) to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices and the protection of privacy. This Privacy Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy.
 
 INFORMATION COLLECTION PRACTICES
 
