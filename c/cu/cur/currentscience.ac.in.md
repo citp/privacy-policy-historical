@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the currentscience.ac.in privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627085654id_/http%3A//www.currentscience.ac.in/php/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the currentscience.ac.in privacy policy that was archived on 2015-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151020071036id_/http%3A//www.currentscience.ac.in/php/policy.php) for the most accurate reproduction.*
 
 # Current Science - Privacy Policy
 
 Guest Editorial
 
-Indian science and higher education: the way forward  
-Krishna N. Ganesh
+One hundred years of general relativity: summary, status and prospects  
+T. Padmanabhan
 
-During the last decade, India made a choice to move from a service-based economy to a knowledge-based society, which necessitated requirements of a large skill force. This led to...
+The general theory of relativity, published by Einstein in 1915, has received innumerable accolades, of which my personal favourite is the sentence which occurs in volume...
 
-[...read more](https://web.archive.org/web/20150627085654id_/http%3A//www.currentscience.ac.in/php/Volumes/108/12/2135.pdf)
+[...read more](https://web.archive.org/web/20151020071036id_/http%3A//www.currentscience.ac.in/php/Volumes/109/07/1215.pdf)
 
 Privacy Policy
 
