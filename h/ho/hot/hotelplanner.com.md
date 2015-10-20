@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelplanner.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317072123id_/http%3A//www.hotelplanner.com/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelplanner.com privacy policy that was archived on 2015-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151020221312id_/https%3A//www.hotelplanner.com/Privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - Hotel Planner always protects your privacy when you book your reunion, conference, or any group event.
 
@@ -41,6 +41,10 @@ We send the user site and service announcement updates. Members are not able to 
 Correcting/Updating Personal Information
 
 If a user's personally identifiable information changes (such as zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update, or remove that user's personal data.
+
+Third-Party Ads
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, you can visit www.networkadvertising.org/managing/opt_out.asp
 
 Notification of Changes
 
