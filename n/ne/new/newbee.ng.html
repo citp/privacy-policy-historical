@@ -1,0 +1,1474 @@
+<!--The following is the downloaded HTML source of the newbee.ng privacy policy that was archived on 2015-10-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151020023358id_/http%3A//www.newbee.ng/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+
+<meta name="viewport" content="initial-scale=1.0, width=device-width">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5MJ7C8"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XAMBWVZRGwsGV1VRAAA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:26,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:12,4:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:24,2:25,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:24,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script>
+<title>Baby Care Products Online Store | Privacy Policy | Newbee.ng</title>
+<meta name="description" content="Newbee is the stress-free, convenient place to do your shopping so you can focus on what matters - your family. ">
+<meta name="keywords" content="Pampers, Huggies , Purell, Germ-X, CORE, Simply Right , Boots, Chicco , Cow &amp; Gate, Baby Magic , Enfagrow, Nuby, Skip Hop , Heinz, Tommee Tippee , Gerber, Thrive Signature, SMA, Assured , Happy Baby, Dr. Brown’s , Punch &amp; Judy, Persil, Diapers, Baby Clothing, Bottles, Baby Food, Baby Formula, Toys , Baby Feeding , Children’s Clothing, Bath, Baby Care
+">
+<meta name="robots" content="INDEX,FOLLOW">
+<link rel="icon" href="http://media.newbee.ng/favicon/default/favicon-194x194.png" type="image/x-icon">
+<link rel="shortcut icon" href="http://media.newbee.ng/favicon/default/favicon-194x194.png" type="image/x-icon">
+
+    <link rel="apple-touch-icon" sizes="57x57" href="http://skin.newbee.ng/frontend/newbee/default/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="http://skin.newbee.ng/frontend/newbee/default/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="http://skin.newbee.ng/frontend/newbee/default/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="http://skin.newbee.ng/frontend/newbee/default/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="http://skin.newbee.ng/frontend/newbee/default/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="http://skin.newbee.ng/frontend/newbee/default/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="http://skin.newbee.ng/frontend/newbee/default/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="http://skin.newbee.ng/frontend/newbee/default/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="http://skin.newbee.ng/frontend/newbee/default/apple-touch-icon-180x180.png">
+    <link rel="icon" type="image/png" href="http://skin.newbee.ng/frontend/newbee/default/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="http://skin.newbee.ng/frontend/newbee/default/android-chrome-192x192.png" sizes="192x192">
+    <link rel="icon" type="image/png" href="http://skin.newbee.ng/frontend/newbee/default/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="http://skin.newbee.ng/frontend/newbee/default/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="http://skin.newbee.ng/frontend/newbee/default/manifest.json">
+    <meta name="msapplication-TileColor" content="color:#3885A7;">
+    <meta name="msapplication-TileImage" content="http://skin.newbee.ng/frontend/newbee/default/mstile-144x144.png">
+
+             <meta property="og:title" content="Baby Care Products Online Store | Privacy Policy | Newbee.ng">
+     <meta property="og:type" content="article">
+     <meta property="og:description" content="Newbee is the stress-free, convenient place to do your shopping so you can focus on what matters - your family. ">
+
+        <meta property="og:url" content="http://www.newbee.ng/privacy-policy">
+    <meta property="og:site_name" content="Newbee.ng">
+    
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script><script type="text/javascript">var $j = jQuery.noConflict();</script><script type="text/javascript" src="http://js.newbee.ng/prototype/prototype.js"></script>
+<script type="text/javascript" src="http://js.newbee.ng/lib/jquery/noconflict.js"></script>
+<script type="text/javascript" src="http://js.newbee.ng/lib/ccard.js"></script>
+<script type="text/javascript" src="http://js.newbee.ng/prototype/validation.js"></script>
+<script type="text/javascript" src="http://js.newbee.ng/scriptaculous/builder.js"></script>
+<script type="text/javascript" src="http://js.newbee.ng/scriptaculous/effects.js"></script>
+<script type="text/javascript" src="http://js.newbee.ng/scriptaculous/dragdrop.js"></script>
+<script type="text/javascript" src="http://js.newbee.ng/scriptaculous/controls.js"></script>
+<script type="text/javascript" src="http://js.newbee.ng/scriptaculous/slider.js"></script>
+<script type="text/javascript" src="http://js.newbee.ng/varien/js.js"></script>
+<script type="text/javascript" src="http://js.newbee.ng/varien/form.js"></script>
+<script type="text/javascript" src="http://js.newbee.ng/mage/translate.js"></script>
+<script type="text/javascript" src="http://js.newbee.ng/mage/cookies.js"></script>
+<script type="text/javascript" src="http://js.newbee.ng/ebizmarts/magemonkey/campaignCatcher.js"></script>
+<script type="text/javascript" src="http://js.newbee.ng/lookatitude/citymanager/field.js"></script>
+<script type="text/javascript" src="http://js.newbee.ng/prototype/validation_email.js"></script>
+<script type="text/javascript" src="http://js.newbee.ng/jquery/plugins/BootstrapPrototypeConflict.js"></script>
+<script type="text/javascript" src="http://skin.newbee.ng/frontend/rwd/default/js/lib/enquire.js"></script>
+<script type="text/javascript" src="http://skin.newbee.ng/frontend/rwd/default/js/app.js"></script>
+<script type="text/javascript" src="http://skin.newbee.ng/frontend/rwd/default/js/lib/imagesloaded.js"></script>
+<link href="http://www.newbee.ng/rss/catalog/new/store_id/1/" title="New Products" rel="alternate" type="application/rss+xml">
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+<script type="text/javascript">//<![CDATA[
+        var Translator = new Translate([]);
+        //]]></script>
+
+
+
+        <link rel="stylesheet" type="text/css" href="http://skin.newbee.ng/frontend/newbee/default/css/template.min.css?rel=867b7028dd" media="all">
+    
+
+                    <!-- Google Tag Manager -->
+                    
+                    <!-- End Google Tag Manager -->
+
+                
+</head>
+<!--[if IE 7 ]><body class="ie7  cms-page-view cms-privacy-policy"><![endif]-->
+<!--[if IE 8 ]><body class="ie8  cms-page-view cms-privacy-policy"><![endif]-->
+<!--[if !(IE)]><body class=" cms-page-view cms-privacy-policy"><![endif]-->
+<body class=" cms-page-view cms-privacy-policy">
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5MJ7C8"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5MJ7C8');</script>
+<!-- End Google Tag Manager -->
+
+<div class="wrapper">
+        <noscript>
+        <div class="global-site-notice noscript">
+            <div class="notice-inner">
+                <p>
+                    <strong>JavaScript seems to be disabled in your browser.</strong><br />
+                    You must have JavaScript enabled in your browser to utilize the functionality of this website.                </p>
+            </div>
+        </div>
+    </noscript>
+    <div class="page">
+        
+<header id="header">
+    <!-- block_header_seller_promise - start -->
+    <div class="seller_promise_block"> 
+<div class="container"> 
+<div class="row"> 
+<div class="hidden-xs col-sm-8 left_block"><i class="fa fa-truck fa-flip-horizontal"></i> Delivery in: Lagos <i class="fa fa-thumbs-up"></i> Best Deals <i class="fa fa-lock"></i> Pay on Delivery: Cash or POS</div>  
+<div class="col-xs-12 col-sm-4 right_block">
+<small class="visible-xs left_block mbl"><i class="fa fa-truck fa-flip-horizontal"></i> Delivery in: Lagos</small>
+Need Help?  <a href="tel:08039012333" style="font-size: 16px; font-weight: bold;"> 0803 901 BEEE (0803 901 2333) </a>
+</div> 
+</div> 
+</div>
+ </div>    <!-- block_header_seller_promise - end -->
+    <div class="container ptm">
+        <div class="row row-eq-height">
+            <div class="col-xs-5 col-sm-4 col-md-3">
+                <a href="http://www.newbee.ng/home" title="Newbee.ng">
+                    <img class="pvm img-responsive" src="http://skin.newbee.ng/frontend/newbee/default/images/logo.png" alt="Newbee.ng">
+                </a>
+            </div>
+            <div class="col-sm-5 col-md-6 col-md-offset-1 search-form">
+                <div class="sidebar-search-form hidden-xs">
+    <div class="overlay"></div>
+    <form id="search_mini_form" name="search_mini_form" action="http://www.newbee.ng/catalogsearch/result/" method="get">
+        <div class="input-group">
+            <input type="text" id="search" name="q" value="" class="form-control" placeholder="Search entire store here...">
+      <span class="input-group-btn">
+        <button class="btn btn-primary" type="submit">
+            <i class="fa fa-search"></i>
+            GO        </button>
+      </span>
+        </div>
+        <div id="search_autocomplete" class="search-autocomplete"></div>
+    </form>
+
+    <script type="text/javascript">
+        //<![CDATA[
+        var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Search entire store here...');
+        searchForm.initAutocomplete('http://www.newbee.ng/catalogsearch/ajax/suggest/', 'search_autocomplete');
+        //]]>
+    </script>
+</div>            </div>
+            <div class="col-xs-7 col-sm-3 col-md-2 topButtons">
+                <ul class="list-unstyled list-inline pull-right">
+                    <li class="mobile-search-btn hidden-sm hidden-md hidden-lg">
+                        <button type="button" class="btn btn-default btn-circle visible-xs prelative"></button>
+                    </li>
+                    <li class="mobile-myaccount-btn">
+                        <button type="button" class="btn btn-default btn-circle prelative"></button>
+                        <div class="hidden-xs ellipsis">
+                            SIGN IN                        </div>
+                    </li>
+                    <li class="mobile-cart-btn">
+                        <button type="button" class="btn btn-default btn-circle prelative">
+                                                    </button>
+                        <div class="hidden-xs">CART</div>
+                    </li>
+                </ul>
+                <div class="background_cover"></div>
+            </div>
+                    </div>
+    </div>
+
+    
+
+<nav class="navbar yamm navbar-default bb bt hidden-md hidden-lg">
+    <div class="container">
+        <ul class="nav navbar-nav">
+            <li><a class="mobile-menu-btn" href="#"><i class="fa fa-bars menu-icon"></i>Shop by Category <i class="fa fa-caret-right"></i></a></li>
+        </ul>
+    </div>
+</nav>
+<nav class="navbar yamm navbar-default bb bt hidden-xs hidden-sm">
+    <div class="container">
+        <div id="navbar-collapse-1" class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li class="dropdown yamm-fw ">
+                                    
+                                    <a href="http://www.newbee.ng/diapering" class="dropdown-toggle">
+                                        Diapering                                    </a>
+
+                                                                                    <ul class="dropdown-menu">
+                                                    <li>
+                                                        <div class="yamm-content">
+
+                                                            <div class="yamm-columns
+                                                                    mm-col3">
+                                                                                                                                                                                                        <ul class="list-unstyled">
+                                                                            <li class="cat-title">
+                                                                                <p>Diapering</p>
+                                                                            </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/diapering/diapering/diapers">
+                                                                                        Diapers                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/diapering/diapering/wipes">
+                                                                                        Wipes                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/diapering/diapering/diaper-bags">
+                                                                                        Diaper Bags                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/diapering/diapering/creams-ointments">
+                                                                                        Creams, Ointments &amp; Powders                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/diapering/diapering/potty-training">
+                                                                                        Potty Training                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/diapering/diapering/all-diapering">
+                                                                                        All Diapering                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                    </ul>
+
+                                                                                                                                                                                                            <ul class="list-unstyled">
+                                                                            <li class="cat-title">
+                                                                                <p>Popular Brands</p>
+                                                                            </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/diapering/popular-brands/huggies">
+                                                                                        Huggies                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/diapering/popular-brands/pampers">
+                                                                                        Pampers                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/diapering/popular-brands/chicco">
+                                                                                        Chicco                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/diapering/popular-brands/johnson-johnson">
+                                                                                        Johnson &amp; Johnson                                                                                     </a>
+                                                                                </li>
+                                                                                                                                                    </ul>
+
+                                                                                                                                                                                                                                                                        <img src="http://media.newbee.ng/wysiwyg/Menu-assets/menu-diapering.jpg" alt="Diapering" width="100%" height="auto" style="border: 1px solid #8c8c8c;">                                                                
+                                                            </div>
+                                                                                                                    </div>
+                                                    </li>
+                                                </ul>
+                                            
+                                                                            </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <li class="dropdown yamm-fw ">
+                                    
+                                    <a href="http://www.newbee.ng/feeding" class="dropdown-toggle">
+                                        Feeding                                    </a>
+
+                                                                                    <ul class="dropdown-menu">
+                                                    <li>
+                                                        <div class="yamm-content">
+
+                                                            <div class="yamm-columns
+                                                                    mm-col4">
+                                                                                                                                                                                                        <ul class="list-unstyled">
+                                                                            <li class="cat-title">
+                                                                                <p>Formula &amp; Baby Food</p>
+                                                                            </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/feeding/formula-baby-food/formula">
+                                                                                        Formula                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/feeding/formula-baby-food/baby-food">
+                                                                                        Baby Food                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/feeding/formula-baby-food/toddler-food">
+                                                                                        Toddler Food                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/feeding/formula-baby-food/all-formula-baby-food">
+                                                                                        All Formula &amp; Baby Food                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                    </ul>
+
+                                                                                                                                                                                                            <ul class="list-unstyled">
+                                                                            <li class="cat-title">
+                                                                                <p>Feeding &amp; Nursing</p>
+                                                                            </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/feeding/feeding-nursing/sippys-cups">
+                                                                                        Sippys &amp; Cups                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/feeding/feeding-nursing/bottles-nipples">
+                                                                                        Bottles &amp; Nipples                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/feeding/feeding-nursing/dishes-utensils">
+                                                                                        Dishes &amp; Utensils                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/feeding/feeding-nursing/breastfeeding">
+                                                                                        Breastfeeding                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/feeding/feeding-nursing/pacifiers-teethers">
+                                                                                        Pacifiers &amp; Teethers                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/feeding/feeding-nursing/bibs-burp-cloths">
+                                                                                        Bibs &amp; Burp Cloths                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/feeding/feeding-nursing/all-feeding-nursing">
+                                                                                        All Feeding &amp; Nursing                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                    </ul>
+
+                                                                                                                                                                                                            <ul class="list-unstyled">
+                                                                            <li class="cat-title">
+                                                                                <p>Popular Brands</p>
+                                                                            </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/feeding/popular-brands/nestle">
+                                                                                        Nestle                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/feeding/popular-brands/sma">
+                                                                                        SMA                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/feeding/popular-brands/cow-gate">
+                                                                                        Cow &amp; Gate                                                                                     </a>
+                                                                                </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/feeding/popular-brands/enfagrow">
+                                                                                        Enfagrow                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/feeding/popular-brands/heinz">
+                                                                                        Heinz                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/feeding/popular-brands/chicco">
+                                                                                        Chicco                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/feeding/popular-brands/core">
+                                                                                        CORE                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/feeding/popular-brands/tommee-tippee">
+                                                                                        Tommee Tippee                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/feeding/popular-brands/munchkin">
+                                                                                        Munchkin                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/feeding/popular-brands/nuby">
+                                                                                        Nuby                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/feeding/popular-brands/phillips-avent">
+                                                                                        Phillips Avent                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/feeding/popular-brands/similac">
+                                                                                        Similac                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/feeding/popular-brands/nan">
+                                                                                        NAN                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                    </ul>
+
+                                                                                                                                                                                                                                                                        <img src="http://media.newbee.ng/wysiwyg/Menu-assets/menu-feeding.jpg" alt="Feeding" width="100%" height="auto" style="border: 1px solid #8c8c8c;">
+                                                                
+                                                            </div>
+                                                                                                                    </div>
+                                                    </li>
+                                                </ul>
+                                            
+                                                                            </li>
+                                                                                                                                                                                                                                                                                <li class="dropdown yamm-fw ">
+                                    
+                                    <a href="http://www.newbee.ng/gear" class="dropdown-toggle">
+                                        Gear                                    </a>
+
+                                                                                    <ul class="dropdown-menu">
+                                                    <li>
+                                                        <div class="yamm-content">
+
+                                                            <div class="yamm-columns
+                                                                    mm-col3">
+                                                                                                                                                                                                        <ul class="list-unstyled">
+                                                                            <li class="cat-title">
+                                                                                <p>Gear</p>
+                                                                            </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/gear/gear/car-seats">
+                                                                                        Car Seats                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/gear/gear/diaper-bags">
+                                                                                        Diaper Bags                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/gear/gear/portable-beds-playards">
+                                                                                        Portable Beds &amp; Playards                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/gear/gear/all-gear">
+                                                                                        All Gear                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                    </ul>
+
+                                                                                                                                                                                                            <ul class="list-unstyled">
+                                                                            <li class="cat-title">
+                                                                                <p>Popular Brands</p>
+                                                                            </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/gear/popular-brands/skip-hop">
+                                                                                        Skip Hop                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/gear/popular-brands/fisher-price">
+                                                                                        Fisher Price                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                    </ul>
+
+                                                                                                                                                                                                                                                                        <img src="http://media.newbee.ng/wysiwyg/Menu-assets/menu-gear.jpg" alt="Gear" width="100%" height="auto" style="border: 1px solid #8c8c8c;">                                                                
+                                                            </div>
+                                                                                                                    </div>
+                                                    </li>
+                                                </ul>
+                                            
+                                                                            </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li class="dropdown yamm-fw ">
+                                    
+                                    <a href="http://www.newbee.ng/bath-baby-care" class="dropdown-toggle">
+                                        Bath &amp; Baby Care                                    </a>
+
+                                                                                    <ul class="dropdown-menu">
+                                                    <li>
+                                                        <div class="yamm-content">
+
+                                                            <div class="yamm-columns
+                                                                    mm-col4">
+                                                                                                                                                                                                        <ul class="list-unstyled">
+                                                                            <li class="cat-title">
+                                                                                <p>Bath &amp; Skin Care</p>
+                                                                            </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/bath-baby-care/bath-skin-care/body-hair-care">
+                                                                                        Body &amp; Hair Care                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/bath-baby-care/bath-skin-care/creams-ointments-powders">
+                                                                                        Creams, Ointments &amp; Powders                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/bath-baby-care/bath-skin-care/hand-soaps-sanitizers">
+                                                                                        Hand Soaps &amp; Sanitizers                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/bath-baby-care/bath-skin-care/wash-cloths-towels">
+                                                                                        Wash cloths &amp; Towels                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/bath-baby-care/bath-skin-care/essentials-for-mom">
+                                                                                        Essentials for Moms                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/bath-baby-care/bath-skin-care/all-bath-skin-care">
+                                                                                        All Bath &amp; Skin Care                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                    </ul>
+
+                                                                                                                                                                                                            <ul class="list-unstyled">
+                                                                            <li class="cat-title">
+                                                                                <p>Health &amp; Safety</p>
+                                                                            </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/bath-baby-care/health-safety/home-laundry-cleaners">
+                                                                                        Home &amp; Laundry Cleaners                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/bath-baby-care/health-safety/all-health-safety">
+                                                                                        All Health &amp; Safety                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                    </ul>
+
+                                                                                                                                                                                                            <ul class="list-unstyled">
+                                                                            <li class="cat-title">
+                                                                                <p>Popular Brands</p>
+                                                                            </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/bath-baby-care/popular-brands/johnson-johnson">
+                                                                                        Johnson &amp; Johnson                                                                                     </a>
+                                                                                </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/bath-baby-care/popular-brands/chicco">
+                                                                                        Chicco                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/bath-baby-care/popular-brands/boots">
+                                                                                        Boots                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/bath-baby-care/popular-brands/aveeno">
+                                                                                        Aveeno                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                    </ul>
+
+                                                                                                                                                                                                                                                                        <img src="http://media.newbee.ng/wysiwyg/Menu-assets/menu-bath.jpg" alt="Bath" &="" baby="" care"="" width="100%" height="auto" style="border: 1px solid #8c8c8c;">                                                                
+                                                            </div>
+                                                                                                                    </div>
+                                                    </li>
+                                                </ul>
+                                            
+                                                                            </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                        <li class="dropdown yamm-fw ">
+                                    
+                                    <a href="http://www.newbee.ng/fashion" class="dropdown-toggle">
+                                        Fashion                                    </a>
+
+                                                                                    <ul class="dropdown-menu">
+                                                    <li>
+                                                        <div class="yamm-content">
+
+                                                            <div class="yamm-columns
+                                                                    mm-col3">
+                                                                                                                                                                                                        <ul class="list-unstyled">
+                                                                            <li class="cat-title">
+                                                                                <p>Baby Clothing &amp; Shoes</p>
+                                                                            </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/fashion/baby-clothing-shoes/accessories">
+                                                                                        Accessories                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/fashion/baby-clothing-shoes/all-clothing-shoes">
+                                                                                        All Clothing &amp; Shoes                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                    </ul>
+
+                                                                                                                                                                                                            <ul class="list-unstyled">
+                                                                            <li class="cat-title">
+                                                                                <p>Popular Brands</p>
+                                                                            </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/fashion/popular-brands/little-me">
+                                                                                        Little Me                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                    </ul>
+
+                                                                                                                                                                                                                                                                        <img src="http://media.newbee.ng/wysiwyg/Menu-assets/menu-fashion.jpg" alt="Fashion" width="100%" height="auto" style="border: 1px solid #8c8c8c;">                                                                
+                                                            </div>
+                                                                                                                    </div>
+                                                    </li>
+                                                </ul>
+                                            
+                                                                            </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                <li class="dropdown yamm-fw ">
+                                    
+                                    <a href="http://www.newbee.ng/toys-books" class="dropdown-toggle">
+                                        Toys &amp; Books                                    </a>
+
+                                                                                    <ul class="dropdown-menu">
+                                                    <li>
+                                                        <div class="yamm-content">
+
+                                                            <div class="yamm-columns
+                                                                    mm-col3">
+                                                                                                                                                                                                        <ul class="list-unstyled">
+                                                                            <li class="cat-title">
+                                                                                <p>Toys &amp; Books</p>
+                                                                            </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/toys-books/toys-books/grasping-toys-rattles-teethers">
+                                                                                        Grasping Toys, Rattles &amp; Teethers                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/toys-books/toys-books/all-toys-books">
+                                                                                        All Toys &amp; Books                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                    </ul>
+
+                                                                                                                                                                                                            <ul class="list-unstyled">
+                                                                            <li class="cat-title">
+                                                                                <p>Shop By</p>
+                                                                            </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/toys-books/shop-by/baby-toys-ages-0-2">
+                                                                                        Baby Toys (Ages 0-2)                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                    </ul>
+
+                                                                                                                                                                                                            <ul class="list-unstyled">
+                                                                            <li class="cat-title">
+                                                                                <p>Popular Brands</p>
+                                                                            </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/toys-books/popular-brands/tommee-tippee">
+                                                                                        Tommee Tippee                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                    </ul>
+
+                                                                                                                                                                                                                                                                        <img src="http://media.newbee.ng/wysiwyg/Menu-assets/menu-toys.jpg" alt="Toys &amp; Books" width="100%" height="auto" style="border: 1px solid #8c8c8c;">                                                                
+                                                            </div>
+                                                                                                                    </div>
+                                                    </li>
+                                                </ul>
+                                            
+                                                                            </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <li class="dropdown yamm-fw ">
+                                    
+                                    <a href="http://www.newbee.ng/nursery" class="dropdown-toggle">
+                                        Nursery                                    </a>
+
+                                                                                    <ul class="dropdown-menu">
+                                                    <li>
+                                                        <div class="yamm-content">
+
+                                                            <div class="yamm-columns
+                                                                    mm-col3">
+                                                                                                                                                                                                        <ul class="list-unstyled">
+                                                                            <li class="cat-title">
+                                                                                <p>Nursery</p>
+                                                                            </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/nursery/nursery/furniture">
+                                                                                        Furniture                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/nursery/nursery/bedding">
+                                                                                        Bedding                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/nursery/nursery/swaddling-blankets">
+                                                                                        Swaddling &amp; Blankets                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/nursery/nursery/all-nursery">
+                                                                                        All Nursery                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                    </ul>
+
+                                                                                                                                                                                                            <ul class="list-unstyled">
+                                                                            <li class="cat-title">
+                                                                                <p>Popular Brands</p>
+                                                                            </li>
+                                                                                                                                                            <li>
+                                                                                    <a href="http://www.newbee.ng/nursery/popular-brands/baby-essentials">
+                                                                                        Baby Essentials                                                                                    </a>
+                                                                                </li>
+                                                                                                                                                    </ul>
+
+                                                                                                                                                                                                                                                                        <img src="http://media.newbee.ng/wysiwyg/Menu-assets/menu-nursery.jpg" alt="Nursery" width="100%" height="auto" style="border: 1px solid #8c8c8c;">                                                                
+                                                            </div>
+                                                                                                                    </div>
+                                                    </li>
+                                                </ul>
+                                            
+                                                                            </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <li class="dropdown yamm-fw ">
+                                    
+                                    <a href="http://www.newbee.ng/all-brands.html" class="dropdown-toggle">
+                                        All Brands                                    </a>
+
+                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li class="dropdown yamm-fw ">
+                                    
+                                    <a href="http://www.newbee.ng/bundles-and-sets" class="dropdown-toggle">
+                                        Bundles and Sets                                    </a>
+
+                                    
+                                                                            </li>
+                                                                                                                                <li class="dropdown yamm-fw ">
+                                    
+                                    <a href="http://www.newbee.ng/newbee-of-the-month" class="dropdown-toggle">
+                                        Newbee of the Month                                    </a>
+
+                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </ul>
+        </div>
+    </div>
+</nav>
+
+<div id="dl-menu" class="dl-menuwrapper">
+    <ul class="dl-menu hidden-md hidden-lg">
+        <li>
+            <a href="#" class="main-title">Shop by Category</a>
+        </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li>
+                            <a href="#">
+                                Diapering                            </a>
+                                                            <ul class="dl-submenu">
+                                                                                <li>
+                                                <a href="#">Diapering</a>
+                                                <ul class="dl-submenu">
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/diapering/diapering/diapers">
+                                                                Diapers                                                            </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/diapering/diapering/wipes">
+                                                                Wipes                                                            </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/diapering/diapering/diaper-bags">
+                                                                Diaper Bags                                                            </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/diapering/diapering/creams-ointments">
+                                                                Creams, Ointments &amp; Powders                                                            </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/diapering/diapering/potty-training">
+                                                                Potty Training                                                            </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/diapering/diapering/all-diapering">
+                                                                All Diapering                                                            </a>
+                                                        </li>
+                                                                                                    </ul>
+                                            </li>
+                                                                                                                        <li>
+                                                <a href="#">Popular Brands</a>
+                                                <ul class="dl-submenu">
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/diapering/popular-brands/huggies">
+                                                                Huggies                                                            </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/diapering/popular-brands/pampers">
+                                                                Pampers                                                            </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/diapering/popular-brands/chicco">
+                                                                Chicco                                                            </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/diapering/popular-brands/johnson-johnson">
+                                                                Johnson &amp; Johnson                                                             </a>
+                                                        </li>
+                                                                                                    </ul>
+                                            </li>
+                                                                                                            </ul>
+                                                    </li>
+                                                                                                                                                                                                                                                                                                                                        <li>
+                            <a href="#">
+                                Feeding                            </a>
+                                                            <ul class="dl-submenu">
+                                                                                <li>
+                                                <a href="#">Formula &amp; Baby Food</a>
+                                                <ul class="dl-submenu">
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/feeding/formula-baby-food/formula">
+                                                                Formula                                                            </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/feeding/formula-baby-food/baby-food">
+                                                                Baby Food                                                            </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/feeding/formula-baby-food/toddler-food">
+                                                                Toddler Food                                                            </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/feeding/formula-baby-food/all-formula-baby-food">
+                                                                All Formula &amp; Baby Food                                                            </a>
+                                                        </li>
+                                                                                                    </ul>
+                                            </li>
+                                                                                                                        <li>
+                                                <a href="#">Feeding &amp; Nursing</a>
+                                                <ul class="dl-submenu">
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/feeding/feeding-nursing/sippys-cups">
+                                                                Sippys &amp; Cups                                                            </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/feeding/feeding-nursing/bottles-nipples">
+                                                                Bottles &amp; Nipples                                                            </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/feeding/feeding-nursing/dishes-utensils">
+                                                                Dishes &amp; Utensils                                                            </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/feeding/feeding-nursing/breastfeeding">
+                                                                Breastfeeding                                                            </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/feeding/feeding-nursing/pacifiers-teethers">
+                                                                Pacifiers &amp; Teethers                                                            </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/feeding/feeding-nursing/bibs-burp-cloths">
+                                                                Bibs &amp; Burp Cloths                                                            </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/feeding/feeding-nursing/all-feeding-nursing">
+                                                                All Feeding &amp; Nursing                                                            </a>
+                                                        </li>
+                                                                                                    </ul>
+                                            </li>
+                                                                                                                        <li>
+                                                <a href="#">Popular Brands</a>
+                                                <ul class="dl-submenu">
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/feeding/popular-brands/nestle">
+                                                                Nestle                                                            </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/feeding/popular-brands/sma">
+                                                                SMA                                                            </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/feeding/popular-brands/cow-gate">
+                                                                Cow &amp; Gate                                                             </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/feeding/popular-brands/enfagrow">
+                                                                Enfagrow                                                            </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/feeding/popular-brands/heinz">
+                                                                Heinz                                                            </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/feeding/popular-brands/chicco">
+                                                                Chicco                                                            </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/feeding/popular-brands/core">
+                                                                CORE                                                            </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/feeding/popular-brands/tommee-tippee">
+                                                                Tommee Tippee                                                            </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/feeding/popular-brands/munchkin">
+                                                                Munchkin                                                            </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/feeding/popular-brands/nuby">
+                                                                Nuby                                                            </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/feeding/popular-brands/phillips-avent">
+                                                                Phillips Avent                                                            </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/feeding/popular-brands/similac">
+                                                                Similac                                                            </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/feeding/popular-brands/nan">
+                                                                NAN                                                            </a>
+                                                        </li>
+                                                                                                    </ul>
+                                            </li>
+                                                                                                            </ul>
+                                                    </li>
+                                                                                                                                                                                        <li>
+                            <a href="#">
+                                Gear                            </a>
+                                                            <ul class="dl-submenu">
+                                                                                <li>
+                                                <a href="#">Gear</a>
+                                                <ul class="dl-submenu">
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/gear/gear/car-seats">
+                                                                Car Seats                                                            </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/gear/gear/diaper-bags">
+                                                                Diaper Bags                                                            </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/gear/gear/portable-beds-playards">
+                                                                Portable Beds &amp; Playards                                                            </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/gear/gear/all-gear">
+                                                                All Gear                                                            </a>
+                                                        </li>
+                                                                                                    </ul>
+                                            </li>
+                                                                                                                        <li>
+                                                <a href="#">Popular Brands</a>
+                                                <ul class="dl-submenu">
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/gear/popular-brands/skip-hop">
+                                                                Skip Hop                                                            </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/gear/popular-brands/fisher-price">
+                                                                Fisher Price                                                            </a>
+                                                        </li>
+                                                                                                    </ul>
+                                            </li>
+                                                                                                            </ul>
+                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                        <li>
+                            <a href="#">
+                                Bath &amp; Baby Care                            </a>
+                                                            <ul class="dl-submenu">
+                                                                                <li>
+                                                <a href="#">Bath &amp; Skin Care</a>
+                                                <ul class="dl-submenu">
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/bath-baby-care/bath-skin-care/body-hair-care">
+                                                                Body &amp; Hair Care                                                            </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/bath-baby-care/bath-skin-care/creams-ointments-powders">
+                                                                Creams, Ointments &amp; Powders                                                            </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/bath-baby-care/bath-skin-care/hand-soaps-sanitizers">
+                                                                Hand Soaps &amp; Sanitizers                                                            </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/bath-baby-care/bath-skin-care/wash-cloths-towels">
+                                                                Wash cloths &amp; Towels                                                            </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/bath-baby-care/bath-skin-care/essentials-for-mom">
+                                                                Essentials for Moms                                                            </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/bath-baby-care/bath-skin-care/all-bath-skin-care">
+                                                                All Bath &amp; Skin Care                                                            </a>
+                                                        </li>
+                                                                                                    </ul>
+                                            </li>
+                                                                                                                        <li>
+                                                <a href="#">Health &amp; Safety</a>
+                                                <ul class="dl-submenu">
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/bath-baby-care/health-safety/home-laundry-cleaners">
+                                                                Home &amp; Laundry Cleaners                                                            </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/bath-baby-care/health-safety/all-health-safety">
+                                                                All Health &amp; Safety                                                            </a>
+                                                        </li>
+                                                                                                    </ul>
+                                            </li>
+                                                                                                                        <li>
+                                                <a href="#">Popular Brands</a>
+                                                <ul class="dl-submenu">
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/bath-baby-care/popular-brands/johnson-johnson">
+                                                                Johnson &amp; Johnson                                                             </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/bath-baby-care/popular-brands/chicco">
+                                                                Chicco                                                            </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/bath-baby-care/popular-brands/boots">
+                                                                Boots                                                            </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/bath-baby-care/popular-brands/aveeno">
+                                                                Aveeno                                                            </a>
+                                                        </li>
+                                                                                                    </ul>
+                                            </li>
+                                                                                                            </ul>
+                                                    </li>
+                                                                                                                                                                                                                                                                                                        <li>
+                            <a href="#">
+                                Fashion                            </a>
+                                                            <ul class="dl-submenu">
+                                                                                <li>
+                                                <a href="#">Baby Clothing &amp; Shoes</a>
+                                                <ul class="dl-submenu">
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/fashion/baby-clothing-shoes/accessories">
+                                                                Accessories                                                            </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/fashion/baby-clothing-shoes/all-clothing-shoes">
+                                                                All Clothing &amp; Shoes                                                            </a>
+                                                        </li>
+                                                                                                    </ul>
+                                            </li>
+                                                                                                                        <li>
+                                                <a href="#">Popular Brands</a>
+                                                <ul class="dl-submenu">
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/fashion/popular-brands/little-me">
+                                                                Little Me                                                            </a>
+                                                        </li>
+                                                                                                    </ul>
+                                            </li>
+                                                                                                            </ul>
+                                                    </li>
+                                                                                                                                                                                                                                                                                        <li>
+                            <a href="#">
+                                Toys &amp; Books                            </a>
+                                                            <ul class="dl-submenu">
+                                                                                <li>
+                                                <a href="#">Toys &amp; Books</a>
+                                                <ul class="dl-submenu">
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/toys-books/toys-books/grasping-toys-rattles-teethers">
+                                                                Grasping Toys, Rattles &amp; Teethers                                                            </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/toys-books/toys-books/all-toys-books">
+                                                                All Toys &amp; Books                                                            </a>
+                                                        </li>
+                                                                                                    </ul>
+                                            </li>
+                                                                                                                        <li>
+                                                <a href="#">Shop By</a>
+                                                <ul class="dl-submenu">
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/toys-books/shop-by/baby-toys-ages-0-2">
+                                                                Baby Toys (Ages 0-2)                                                            </a>
+                                                        </li>
+                                                                                                    </ul>
+                                            </li>
+                                                                                                                        <li>
+                                                <a href="#">Popular Brands</a>
+                                                <ul class="dl-submenu">
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/toys-books/popular-brands/tommee-tippee">
+                                                                Tommee Tippee                                                            </a>
+                                                        </li>
+                                                                                                    </ul>
+                                            </li>
+                                                                                                            </ul>
+                                                    </li>
+                                                                                                                                                                                                                                                                                                                                        <li>
+                            <a href="#">
+                                Nursery                            </a>
+                                                            <ul class="dl-submenu">
+                                                                                <li>
+                                                <a href="#">Nursery</a>
+                                                <ul class="dl-submenu">
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/nursery/nursery/furniture">
+                                                                Furniture                                                            </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/nursery/nursery/bedding">
+                                                                Bedding                                                            </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/nursery/nursery/swaddling-blankets">
+                                                                Swaddling &amp; Blankets                                                            </a>
+                                                        </li>
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/nursery/nursery/all-nursery">
+                                                                All Nursery                                                            </a>
+                                                        </li>
+                                                                                                    </ul>
+                                            </li>
+                                                                                                                        <li>
+                                                <a href="#">Popular Brands</a>
+                                                <ul class="dl-submenu">
+                                                                                                            <li>
+                                                            <a href="http://www.newbee.ng/nursery/popular-brands/baby-essentials">
+                                                                Baby Essentials                                                            </a>
+                                                        </li>
+                                                                                                    </ul>
+                                            </li>
+                                                                                                            </ul>
+                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li>
+                            <a href="all-brands.html">
+                                All Brands                            </a>
+                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li>
+                            <a href="#">
+                                Bundles and Sets                            </a>
+                                                    </li>
+                                                                                        <li>
+                            <a href="newbee-of-the-month">
+                                Newbee of the Month                            </a>
+                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </ul>
+</div>
+</header>
+
+
+
+
+        <div class="breadcrumbs container-fluid">
+	<div class="container">
+        <div class="row">
+
+                        <ul class="col-xs-12 list-inline mvs">
+                                    <li class="home prn">
+                                                    <a href="http://www.newbee.ng/home" title="Go to Home Page">Home</a>
+                                                                            <span class="mls prn"><i class="fa fa-angle-right fa-fw"></i></span>
+                                            </li>
+                                    <li class="cms_page prn">
+                                                    <strong class="pln">Privacy Policy</strong>
+                                                                    </li>
+                            </ul>
+                    </div>
+    </div>
+</div>
+        <div class="main-container col1-layout">
+            <div class="main container">
+                                <div class="col-main grid-full in-col1">
+                                        
+<div id="header-cart" class="block block-cart skip-content hidden">
+    
+<div id="minicart-error-message" class="minicart-message"></div>
+<div id="minicart-success-message" class="minicart-message"></div>
+
+<div class="minicart-wrapper">
+
+                    <p class="empty mtl mbl">You have no items in your shopping cart.</p>
+
+    </div>
+</div>
+    <div class="page-title">
+        <h1>Privacy Policy</h1>
+    </div>
+<div class="std"><div class="row mvl">
+            <div class="col-sm-4">
+                    <div class="list-group">
+                            <a href="#data" class="list-group-item">Data that we collect</a>
+                            <a href="#cookies" class="list-group-item">Cookies</a>
+                            <a href="#security" class="list-group-item">Security</a>
+                            <a href="#rights" class="list-group-item">Your rights</a>
+                    </div>
+            </div>
+
+            <div class="col-sm-8">
+                <p>
+Thank you for accessing the Newbee.ng website ("Site") operated by Perseus Concepts Limited. We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy.
+<br><br>
+This Privacy Policy explains how we collect, use and (under certain conditions) disclose your personal information. This Privacy Policy also explains the steps we have taken to secure your personal information. Finally, this Privacy Policy explains your options regarding the collection, use and disclosure of your personal information. By visiting the Site directly or through another site, you accept the practices described in this Policy.
+<br><br>
+Data protection is a matter of trust and your privacy is important to us. We shall therefore only use your name and other information which relates to you in the manner set out in this Privacy Policy. We will only collect information where it is necessary for us to do so and we will only collect information if it is relevant to our dealings with you.
+<br><br>
+We will only keep your information for as long as we are either required to by law or as is relevant for the purposes for which it was collected. You can visit the Site and browse without having to provide personal details. During your visit to the Site you remain anonymous and at no time can we identify you unless you have an account on the Site and log on with your user name and password.
+                </p>
+
+                <h2 id="data">
+                    1. Data that we collect
+                </h2>
+
+                <p>
+                We may collect various pieces of information if you seek to place an order for a product with us on the Site. We collect, store and process your data for processing your purchase on the Site and any possible later claims, and to provide you with our services. We may collect personal information including, but not limited to, your title, name, gender, date of birth, email address, postal address, delivery address (if different), telephone number, mobile number, fax number, payment details, payment card details or bank account details.
+                </p>
+
+                <p>
+                We will use the information you provide to enable us to process your orders and to provide you with the services and information offered through our website and which you request. Further, we will use the information you provide to administer your account with us; verify and carry out financial transactions in relation to payments you make online; audit the downloading of data from our website; improve the layout and/or content of the pages of our website and customize them for users; identify visitors on our website; carry out research on our users' demographics; send you information we think you may find useful or which you have requested from us, including information about our products and services, provided you have indicated that you have not objected to being contacted for these purposes. Subject to obtaining your consent we may contact you by email with details of other products and services.
+                </p>
+
+                <p>
+                If you prefer not to receive any marketing communications from us, you can opt out at any time. We may pass your name and address on to a third party in order to make delivery of the product to you (for example to our courier or supplier).
+                </p>
+
+                <p>
+                Payments that you make through the Site will be processed by our payment agents. You must only submit to us or our Agent or the Site information which is accurate and not misleading and you must keep it up to date and inform us of changes.
+                </p>
+
+                <p>
+                Your actual order details may be stored with us but for security reasons cannot be retrieved directly by us. However, you may access this information by logging into your account on the Site. Here you can view the details of your orders that have been completed, those which are open and those which are shortly to be dispatched and administer your address details, bank details and any newsletter to which you may have subscribed. You undertake to treat the personal access data confidentially and not make it available to unauthorized third parties. We cannot assume any liability for misuse of passwords unless this misuse is our fault.
+                </p>
+
+                <h3>
+                    Other uses of your Personal Information
+                </h3>
+
+                <p>
+                We may use your personal information for opinion and market research. Your details are anonymous and will only be used for statistical purposes. You can choose to opt out of this at any time. Any answers to surveys or opinion polls we may ask you to complete will not be forwarded on to third parties. Disclosing your email address is only necessary if you would like to take part in competitions. We save the answers to our surveys separately from your email address.
+                </p>
+
+                <p>
+                We may also send you other information about us, the Site, our other websites, our products, sales promotions, our newsletters, anything relating to other companies in our group or our business partners. If you would prefer not to receive any of this additional information as detailed in this paragraph (or any part of it) please click the 'unsubscribe' link in any email that we send to you. Within 7 working days (days which are neither (i) a Saturday nor Sunday, nor (ii) a public holiday anywhere in Nigeria) of receipt of your instruction we will cease to send you information as requested. If your instruction is unclear we will contact you for clarification.
+                </p>
+
+                <p>
+                We may further anonymize data about users of the Site generally and use it for various purposes, including ascertaining the general location of the users and usage of certain aspects of the Site or a link contained in an email to those registered to receive them, and supplying that anonymized data to third parties such as publishers. However, that anonymized data will not be capable of identifying you personally.
+                </p>
+
+                <h3>
+                    Competitions
+                </h3>
+
+                <p>
+                For any competition we use the data to notify winners and advertise our offers. You can find more details where applicable in our participation terms for the respective competition.
+                </p>
+
+                <h3>
+                    Third Parties and Links
+                </h3>
+
+                <p>
+                We may pass your details to other companies in our group. We may also pass your details to our agents and subcontractors to help us with any of our uses of your data set out in our Privacy Policy. For example, we may use third parties to assist us with delivering products to you, to help us to collect payments from you, to analyze data and to provide us with marketing or customer service assistance. 
+                </p>
+
+                <p>
+                We may exchange information with third parties for the purposes of fraud protection and credit risk reduction. We may transfer our databases containing your personal information if we sell our business or part of it. Other than as set out in this Privacy Policy, we shall NOT sell or disclose your personal data to third parties without obtaining your prior consent unless this is necessary for the purposes set out in this Privacy Policy or unless we are required to do so by law. The Site may contain advertising of third parties and links to other sites or frames of other sites. Please be aware that we are not responsible for the privacy practices or content of those third parties or other sites, nor for any third party to whom we transfer your data in accordance with our Privacy Policy.
+                </p>
+
+                <h2 id="cookies">
+                    2. Cookies
+                </h2>
+
+                <p>
+                The acceptance of cookies is not a requirement for visiting the Site. <br>
+However we would like to point out that the use of the 'basket' functionality on the Site and ordering is only possible with the activation of cookies. Cookies are tiny text files which identify your computer to our server as a unique user when you visit certain pages on the Site and they are stored by your Internet browser on your computer's hard drive. Cookies can be used to recognize your Internet Protocol address, saving you time while you are on, or want to enter, the Site. We only use cookies for your convenience in using the Site (for example to remember who you are when you want to amend your shopping cart without having to re-enter your email address) and not for obtaining or using any other information about you (for example targeted advertising). Your browser can be set to not accept cookies, but this would restrict your use of the Site. Please accept our assurance that our use of cookies does not contain any personal or private details and are free from viruses. If you want to find out more information about cookies, go to <a href="http://www.allaboutcookies.org/" target="_blank" title="All About Cookies">www.allaboutcookies.org</a> or to find out about removing them from your browser, go to <a href="http://www.allaboutcookies.org/manage-cookies/" target="_blank" title="All About Cookies - Manage Cookies">www.allaboutcookies.org/manage-cookies/</a>. 
+                </p>
+
+                <p>
+                This website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses cookies, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. 
+                </p>
+
+                <p>
+                Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
+                </p>
+
+                <h2 id="security">
+                   3. Security
+                </h2>
+
+                <p>
+                We have in place appropriate technical and security measures to prevent unauthorized or unlawful access to or accidental loss of or destruction or damage to your information. When we collect data through the Site, we collect your personal details on a secure server. We use firewalls on our servers. When we collect payment card details electronically, we use encryption by using Secure Socket Layer (SSL) coding. While we are unable to guarantee 100% security, this makes it hard for a hacker to decrypt your details.
+                </p>
+
+                <p>
+                You are strongly recommended not to send full credit or debit card details in unencrypted electronic communications with us. We maintain physical, electronic and procedural safeguards in connection with the collection, storage and disclosure of your information. Our security procedures mean that we may occasionally request proof of identity before we disclose personal information to you. You are responsible for protecting against unauthorized access to your password and to your computer.
+                </p>
+
+                <h2 id="rights">
+                   4. Your rights
+                </h2>
+
+                <p>
+                If you are concerned about your data you have the right to request access to the personal data which we may hold or process about you. You have the right to require us to correct any inaccuracies in your data free of charge. At any stage you also have the right to ask us to stop using your personal data for direct marketing purposes.
+                </p>
+            </div>
+        </div></div>    <div class="block block-account hidden">
+        <div class="overlay"></div>
+        <form action="http://www.newbee.ng/customer/account/loginPost/" method="post" id="mini-login-form">
+            <input name="form_key" type="hidden" value="bSWAOO1qL9x7keQg">
+            <div class="registered-users bc bb pbm">
+                <div class="content">
+                    <h5 class="mtn">Already a Customer? <strong>Sign In!</strong></h5>
+                    <ul class="form-list">
+                        <li>
+                            <label for="email" class="required">E-mail<em>*</em>
+                            </label>
+
+                            <div class="input-box">
+                                <input type="text" name="login[username]" value="" id="email" class="input-text required-entry validate-email" title="E-mail">
+                            </div>
+                        </li>
+                        <li>
+                            <label for="pass" class="required">Password<em>*</em></label>
+
+                            <div class="input-box">
+                                <input type="password" name="login[password]" class="input-text required-entry validate-password" id="pass" title="Password">
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="buttons-set mtl clearfix">
+                    <p class="required text-dark-gray"><small>* Required Fields</small></p>
+                    <a href="http://www.newbee.ng/customer/account/forgotpassword/" class="pull-left mts">
+                        Forgot Your Password?                    </a>
+                    <button type="submit" class="button pull-right" title="Login" name="send" id="send2">
+                        <span><span><i class="fa fa-lock"></i> Login</span></span>
+                    </button>
+                </div>
+            </div>
+        </form>
+        <div class="text-center mtm">New to Newbee?            <a href="http://www.newbee.ng/customer/account/create/">CREATE AN ACCOUNT</a>
+        </div>
+        <script type="text/javascript">
+            //<![CDATA[
+            var dataForm = new VarienForm('mini-login-form', false);
+            //]]>
+        </script>
+    </div>
+                </div>
+                <div class="postscript in-col1"></div>            </div>
+        	        	            </div>
+        </div>
+        
+<div class="footer-container container-fluid">
+    <div class="container footer-top-border ptl">
+        <div class="row">
+            <div class="col-xs-12 col-sm-6 col-md-3 col-md-push-9">
+                <!-- block_footer_right - start -->
+                <div class="pam text-center footer_right_block">
+     <div><img class="logo" src="http://skin.newbee.ng/frontend/newbee/default/images/logo.png" alt="Newbee" onerror="this.src='http://skin.newbee.ng/frontend/newbee/default/images/logo.png'; this.onerror=null;"></div>
+     <h4 class="text-blue">Put Family First</h4>
+     <div class="mal"><div class="mal"><p class="bc bt"></p></div></div>
+     <h5>Victoria Island, Lagos, Nigeria</h5>
+     <div class="mal"><a href="http://www.ace.ng" target="_blank"><img class="ace_logo" src="http://skin.newbee.ng/frontend/newbee/default/images/ace-logo.png" alt="ACE Africa Courier Express"></a></div>
+</div>                <!-- block_footer_right - end -->
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-5 col-md-pull-3 ptl">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <!-- block_footer_contacts - start -->
+                        <div class="contacts-header text-blue text-uppercase">
+    <span><strong>Need Help?</strong> Contact us!</span>
+</div>
+<div class="mtm mbs">We're here for you, weekdays 8am - 6pm</div>
+<div class="phone text-gray-dark"><strong> <a href="tel:08039012333"> 0803 901 BEEE (0803 901 2333)</a> · <a href="mail:info@newbee.ng">info@newbee.ng</a></strong> </div>                        <!-- block_footer_contacts - end -->
+                    </div>
+                    <div class="col-xs-12 mtm">
+                        
+<div id="subscribe-form" class="clearer">
+    <form action="http://www.newbee.ng/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
+        <div>
+            <div class="form-subscribe-header text-uppercase mtl mbm">
+                <span for="newsletter">Sign up for <strong>great deals</strong>!</span>
+            </div>
+            <div class="input-group">
+                <input type="text" name="email" id="newsletter" placeholder="Enter your email address" class="form-control required-entry validate-email validate-no-html-tags">
+                  <span class="input-group-btn">
+                    <button class="btn btn-primary" type="submit">Subscribe</button>
+                  </span>
+            </div>
+        </div>
+    </form>
+</div>
+<div class="mtm">You can subscribe at any time. Your data is safe with us.</div>
+
+<script type="text/javascript">
+    //<![CDATA[
+    var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
+    Event.on('subscribe-form', 'click', function() {
+        // fall back to plain hiding if cannot fade
+        var hide = self.Effect && Effect.Fade || Element.hide;
+        this.select('.validation-advice').each(hide);
+        // this = form being watched
+        if ($$('.validation-advice')[0] != undefined) {
+            $$('.validation-advice')[0].remove();
+        }
+    });
+
+    //]]>
+</script>
+                    </div>
+                    <div class="col-xs-12 mtl">
+                        <!-- block_footer_social_links - start -->
+                            <div class="social-links mbl">
+    <span><a href="https://twitter.com/newbeedotng" target="_blank"><i class="fa fa-twitter"></i></a></span>
+    <span><a href="https://facebook.com/newbeedotng" target="_blank"><i class="fa fa-facebook"></i></a></span>
+    <span><a href="https://www.linkedin.com/company/newbee-ng" target="_blank"><i class="fa fa-linkedin"></i></a></span>
+    <span><a href="https://instagram.com/newbeedotng" target="_blank"><i class="fa fa-instagram"></i></a></span>
+    <span><a href="https://plus.google.com/+NewbeeNgBabyCare" target="_blank"><i class="fa fa-google-plus"></i></a></span>
+</div>                        <!-- block_footer_social_links - end -->
+                    </div>
+
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-8 col-sm-offset-2 col-md-offset-0 col-md-4 col-md-pull-3 pbl ptl">
+                <div class="clearfix"></div>
+                <div class="col-xs-12 col-sm-6 footer_link_list">
+                    <!-- block_footer_links_left - start -->
+                              <div class="block-footer">
+		<a href="#blockleft1" data-toggle="collapse" class="collapse_title collapsed"><p>About Newbee</p></a>
+		<ul id="blockleft1" class="list-unstyled collapse">
+                	<li><a href="/about-us">About Us</a></li>
+			<li><a href="/contacts">Contact Us</a></li>
+		</ul>
+	  </div>
+          <div class="block-footer">
+		<a href="#blockleft2" data-toggle="collapse" class="collapse_title collapsed"><p>Customer Support</p></a>
+		<ul id="blockleft2" class="list-unstyled collapse">
+			<li><a href="/faq">FAQ</a></li>
+			<li><a href="/terms-and-conditions">Terms and Conditions</a></li>
+			<li><a href="/privacy-policy">Privacy Policy</a></li>
+		</ul>
+	</div>
+	<div class="block-footer">
+		<a href="#blockleft3" data-toggle="collapse" class="collapse_title collapsed"><p>Your Account</p></a>
+		<ul id="blockleft3" class="list-unstyled collapse">
+			<li><a href="http://www.newbee.ng/customer/account/login/">Sign In</a></li>
+			<li><a href="http://www.newbee.ng/sales/order/history/">Order History</a></li>
+			<li><a href="http://www.newbee.ng/wishlist/">Wishlist</a></li>
+			<li><a href="http://www.newbee.ng/newsletter/manage/">Newsletter Preferences</a></li>
+		</ul>
+	</div>                    <!-- block_footer_links_left - end -->
+                </div>
+                <div class="col-xs-12 col-sm-6 footer_link_list">
+                    <!-- block_footer_links_right - start -->
+                              <div class="block-footer">
+		<a href="#blockright1" data-toggle="collapse" class="collapse_title collapsed"><p>Shop By Age</p></a>
+		<ul id="blockright1" class="list-unstyled collapse">
+                	<li><a href="/catalogsearch/advanced/result/?age_range%5B%5D=137">Mommy</a></li>
+                	<li><a href="/catalogsearch/advanced/result/?age_range%5B%5D=66">Preemie</a></li>
+                	<li><a href="/catalogsearch/advanced/result/?age_range%5B%5D=65">Newborn</a></li>
+                	<li><a href="/catalogsearch/advanced/result/?age_range%5B%5D=64">1 - 3 months</a></li>
+                	<li><a href="/catalogsearch/advanced/result/?age_range%5B%5D=63">3 - 6 months</a></li>
+                	<li><a href="/catalogsearch/advanced/result/?age_range%5B%5D=62">6 - 12 months</a></li>
+                	<li><a href="/catalogsearch/advanced/result/?age_range%5B%5D=61">1 - 3 years</a></li>
+                	<li><a href="/catalogsearch/advanced/result/?age_range%5B%5D=60">3 - 6 years</a></li>
+                	<li><a href="/catalogsearch/advanced/result/?age_range%5B%5D=138">6 years and +</a></li>
+		</ul>
+	  </div>
+          <!--<div class="block-footer">
+		<a href="#blockright2" data-toggle="collapse" class="collapse_title collapsed"><p>Shop By Gender</p></a>
+		<ul  id="blockright2"  class="list-unstyled collapse">
+                	<li><a href="#">Girls</a></li>
+			<li><a href="#">Boys</a></li>
+		</ul>
+	</div>-->
+
+                    <!-- block_footer_links_right - end -->
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <button type="button" title="To top" class="btn btn-default" id="scroll-to-top" onclick="window.scrollTo(0, 0);">
+        <a href="#top"><i class="fa fa-arrow-up"></i></a>
+    </button>
+
+</div>
+<div class="footer-container footer-rights container-fluid">
+    <div class="container footer-top-border ptl">
+        <div class="row">
+                <div class="col-xs-12 col-md-6 image_block">
+      <!--<img src="http://media.newbee.ng/wysiwyg/webpay_logo.png" alt="" />-->
+</div>
+<div class="col-xs-12 col-md-6 rights_block">
+   © Newbee 2015. All rights reserved.<br><br>
+</div>        </div>
+    </div>
+</div>
+    
+
+<script>
+    var ratingStarsIds = null;
+    var jcarousels = null;
+</script>
+
+    <script type="text/javascript" src="http://www.newbee.ng/js/bootstrap/bootstrap.min.js"></script>
+    <script type="text/javascript" src="http://www.newbee.ng/js/modernizr/modernizr.custom.67048.js"></script>
+    <script type="text/javascript" src="http://www.newbee.ng/js/jquery/plugins/truncate/jquery.truncate.min.js"></script>
+    <script type="text/javascript" src="http://www.newbee.ng/js/jquery/plugins/raty-fa/jquery.raty-fa.js"></script>
+    <script type="text/javascript" src="http://www.newbee.ng/js/jquery/plugins/toogle-sidebar/jquery.toogle-sidebar.js"></script>
+    <script type="text/javascript" src="http://www.newbee.ng/js/jquery/plugins/bootstrap-tabcollapse/bootstrap-tabcollapse.js"></script>
+    <script type="text/javascript" src="http://www.newbee.ng/js/jquery/plugins/lazyloadxt/jquery.lazyloadxt.js"></script>
+    <script type="text/javascript" src="http://www.newbee.ng/js/jquery/plugins/mcustom-scrollbar/jquery.mCustomScrollbar.min.js"></script>
+    <script type="text/javascript" src="http://www.newbee.ng/js/jquery/plugins/jquery.jcarousel.min.js"></script>
+    <script type="text/javascript" src="http://www.newbee.ng/js/jquery/plugins/multilevelmenu/jquery.dlmenu.js"></script>
+    <script type="text/javascript" src="http://skin.newbee.ng/frontend/newbee/default/js/footer-general.js"></script>
+    <script type="text/javascript" src="http://skin.newbee.ng/frontend/newbee/default/js/footer-jcarousel.js"></script>
+    <script type="text/javascript" src="http://skin.newbee.ng/frontend/newbee/default/js/footer-catalog.js"></script>
+    <script type="text/javascript" src="http://skin.newbee.ng/frontend/newbee/default/js/footer-pdp.js"></script>
+
+
+
+        
+
+    </div>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"895c28d731","applicationID":"8634371","transactionName":"NVdUbEdYXxZSBRdaCQwdd1tBUF4LHAUOQEkSU1FdGk9YAEQ=","queueTime":0,"applicationTime":415,"atts":"GRBXGg9CTBg=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-768.min.js"}</script>
+
+</body></html>
