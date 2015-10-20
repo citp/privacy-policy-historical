@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dressupcraze.com privacy policy that was archived on 2014-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140919072909id_/http%3A//www.dressupcraze.com/page/privacy-policy-2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dressupcraze.com privacy policy that was archived on 2015-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151020025331id_/http%3A//www.dressupcraze.com/page/privacy-policy-2.html) for the most accurate reproduction.*
 
 # Privacy Policy - Dressup Craze
 
