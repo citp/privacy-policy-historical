@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suitsupply.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325231924id_/http%3A//us.suitsupply.com/privacy/content-terms-and-conditions-privacy%2Cen_US%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suitsupply.com privacy policy that was archived on 2015-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151020231253id_/http%3A//us.suitsupply.com/en_US/content-terms-and-conditions-privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Suitsupply Online Shop
 
@@ -14,7 +14,7 @@ You can sign up for our Suitsupply Newsletter by submitting your e-mail address 
 
 ### Third Parties
 
-Suitsupply will not disclose your details to any third party companies besides companies involved in the payment and fulfillment of your order. We may disclose your information to any relevant regulatory body when there is a legal obligation to do so. We may offer links to other websites. If you follow a link to any of these websites, please note that these websites will have their own privacy policies. We do not accept any responsibility or liability for these websites.
+Suitsupply will not disclose your details to any third party companies besides companies involved in the payment and fulfillment of your order. We may disclose your information to any relevant regulatory body when there is a legal obligation to do so. We may offer links to other websites. If you follow a link to any of these websites, please note that these websites will have their own privacy policies. Suitsupply is not responsible for these tertiary websites.
 
 ### Notification of Changes
 
@@ -30,7 +30,7 @@ Payment details are entered in the system of our payment partner secured system 
 
 ### Controlling your information
 
-You can login to your personal account with your e-mail address and password to view or change your personal information or view your order(s). Please send an e-mail to support@suitsupply.com if you want us to remove your personal data from our database.
+You can login to your personal account with your e-mail address and password to view or change your personal information or view your order(s). Please send an e-mail to service@suitsupply.com if you want us to remove your personal data from our database.
 
 ### Cookies and pixel tags
 
@@ -38,6 +38,6 @@ Suitsupply receives and records information from your browser when you use the S
 
 ### Contact us
 
-Please contact us at support@suitsupply.com if you have any additional questions on how we use your personal information.
+Please contact us at service@suitsupply.com if you have any additional questions on how we use your personal information.
 
-Date: 26 june 2013
+Date: 26 June 2013
