@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nobroker.in privacy policy that was archived on 2015-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150628173333id_/http%3A//www.nobroker.in/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nobroker.in privacy policy that was archived on 2015-10-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151020043634id_/http%3A//www.nobroker.in/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <link rel="canonical" href="http://www.nobroker.in/privacy">
@@ -23,7 +23,7 @@
 <meta name="p:domain_verify" content="e5c74d79345e920627558faecd28fae5">
 <title>Broker free Apartments, shared accommodation, pg, houses for rent. NoBroker helps in renting apartment without broker</title>
 <meta name="description" content="Looking to rent a property without broker? This is your stop. Searching for a apartment, shared accommodation in and around a neighbourhood? NoBroker provides verified properties with 100% guarantee that you don't end up taking to a broker. Try it out now!">
-<meta name="viewport" content="width=device-width,initial-scale=1X">
+<meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="X-UA-Compatible" content="IE=edge,chrome=1">
 <link rel="stylesheet" href="//d3snwcirvb4r88.cloudfront.net/static/css/bootstrap.min.css">
 <link rel="stylesheet" href="//d3snwcirvb4r88.cloudfront.net/static/css/jquery.datetimepicker.css">
@@ -36,6 +36,7 @@
 <link rel="stylesheet" href="//d3snwcirvb4r88.cloudfront.net/static/css/prettyCheckable.css">
 <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css">
 <style>
+`
 @media all {
 .hideInfbApp {
 display : inherit;
@@ -50,9 +51,12 @@ display : none;
 <link rel="stylesheet" href="//d3snwcirvb4r88.cloudfront.net/static/css/datepicker3.css">
 <link rel="stylesheet" href="//d3snwcirvb4r88.cloudfront.net/static/css/lib-min.css">
 <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/3.2.1/css/font-awesome.min.css">
-<link rel="stylesheet" href="//d3snwcirvb4r88.cloudfront.net/static/css/style.min.49.css">
+<link rel="stylesheet" href="//d3snwcirvb4r88.cloudfront.net/static/css/style_sass.min1444988344573.css">
 <link rel="stylesheet" href="//d3snwcirvb4r88.cloudfront.net/static/css/jquery.reject.css">
 <script async="" charset="utf-8" type="text/javascript" src="//v2.zopim.com/?2V47LvBFAs9piNYSuGqSgWG1djwPFtMP"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="//d3snwcirvb4r88.cloudfront.net/static/lib/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdn.socket.io/socket.io-1.2.0.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
+<script> var NB_CDN_URL = '//d3snwcirvb4r88.cloudfront.net'; </script>
 <!--google analytics-->
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -67,7 +71,7 @@ ga('send', 'pageview');
 </head>
 <body>
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCwy2ETEJXPynpNXJggwjzsHxFcG3Il34o&amp;v=3.exp&amp;sensor=false&amp;libraries=places"></script>
-<nav class="navbar navbar-fixed-top navbar-custom navbar-border nav-shadow" role="navigation">
+<nav class="navbar navbar-fixed-top navbar-custom navbar-border nav-shadow" role="navigation" style="position:fixed">
 <div class="navbar-header">
 <button type="button" style="" class="navbar-toggle" data-toggle="collapse" data-target="#main-nav">
 <span class="sr-only">Toggle navigation</span>
@@ -77,7 +81,8 @@ ga('send', 'pageview');
 <span class="logo-text">No</span>
 <span class="logo-text2">Broker</span>
 </a-->
-<a class="navbar-brand-custom" href="/"><img src="/static/img/logos/nb_logo_trans.png" height="50px"></a>
+<a class="navbar-brand-custom" href="/"><img src="//d3snwcirvb4r88.cloudfront.net/static/img/logos/nb_logo_trans.png" height="50px"></a>
+<!--<a href="/careers" target="_blank" style="vertical-align:super;font-weight:500;font-size:0.8em;text-decoration: none;text-shadow: 0 1px 0 #fff;padding: 5px 5px;color: #fd3753;">We're Hiring</a>-->
 <!-- where do need flat input-->
 <!--div class=" " style="display:inline-block;margin-left:5pxborder: 0px;
 font-size: 1.2em;
@@ -91,7 +96,7 @@ vertical-align: text-top;">
 </select>
 </div-->
 <div class="dropdown hidden" style="display: inline;vertical-align: text-top;font-size: 0.9em;margin:10px;font-weight: bold;background-color: rgba(48,113,169,.85);padding: 5px;border-radius: 3px;color: white;">
-<a href="#" id="citySelector" style="color:white" data-toggle="dropdown" data-city="mumbai"> Mumbai <span class="caret"></span></a>
+<a href="#" id="citySelector" style="color:white" data-toggle="dropdown" data-city="pune"> Pune <span class="caret"></span></a>
 <ul class="dropdown-menu" role="menu" style="top: 0px;left: -10 px;" aria-labelledby="citySelector">
 <li style="padding: 0px;"><a href="/mumbai/rent">Mumbai</a></li>
 <li style="padding: 0px;"><a href="/bangalore/rent">Bangalore</a></li>
@@ -100,53 +105,26 @@ vertical-align: text-top;">
 </ul>
 </div>
 <div class="has-feedback hidden-xs hidden-md hidden" style="display:inline-block;padding-left:0px;">
-<input type="text" id="locationHeader" required="" class="input-sm" style="border: 1px solid #ccc;width:100%;padding:0px;padding-left:10px;padding-right: 30px" placeholder="Where in Mumbai?" name="locality" oninvalid="setCustomValidity('Pick a area where you need the property')" onchange="try{setCustomValidity('')}catch(e){}" data-provide="typeahead" data-items="8" data-source="">
+<input type="text" id="locationHeader" required="" class="input-sm" style="border: 1px solid #ccc;width:100%;padding:0px;padding-left:10px;padding-right: 30px" placeholder="Where in Pune?" name="locality" oninvalid="setCustomValidity('Pick a area where you need the property')" onchange="try{setCustomValidity('')}catch(e){}" data-provide="typeahead" data-items="8" data-source="">
 <span class="icon icon-search form-control-feedback" style="top:-2px"> </span>
 </div>
 </div>
 <div class="collapse navbar-collapse" id="main-nav">
-<div class="profile-info-mobile pull-right visible-xs">
-<div class="dropdown" style="display:inline ">
-<a href="#" id="userProfileDD" data-toggle="dropdown"> <img src="//d3snwcirvb4r88.cloudfront.net/static/img/no-user.jpg" class="userimage">
-<span class="caret"></span></a>
-<ul class="dropdown-menu hideInfbApp" role="menu" style="top: 31px;left: 0px;" aria-labelledby="userProfileDD">
-<li style="padding: 3px;">&nbsp; Abhilash</li>
-<li><a href="/profile?tab=shortlist">Shortlisted<span id="shortListCountSpan" class=" badge" data-action="shortlistCount">14</span></a></li>
-<li><a href="/profile">Profile</a></li>
-<li><a href="/profile?tab=shortlist">Your Shortlists</a></li>
-<li><a href="/profile?tab=contacts">Owners you Contacted</a></li>
-<li><a href="/profile?tab=listings">Your Properties</a></li>
-<li><a href="/profile?tab=enquiries">Interest in your Properties</a></li>
-<li role="presentation" class="divider"></li>
-<li><a href="/signout">Sign Out</a></li>
-</ul>
-</div>
-</div>
-<a class="hideInfbApp btn btn-warning btn-sm navbar-btn navbar-right tooltips btn-nbprimary" style="font-size:14px;text-transform:capitalize" data-toggle="popover" data-placement="bottom" data-original-title="Owners! Click here if you wish to list your apartment or shared accommodation on rent." href="/property/new">Post Your Property <i class="icon icon-question-sign"></i> </a>
-<div class="profile-info pull-right hidden-xs">
-<a href="/profile?tab=shortlist" class="btn btn-primary btn-grey btn-sm">Shortlisted <span id="shortListCountSpan" class=" badge" data-action="shortlistCount">14</span></a>
-<div class="dropdown" style="display:inline">
-<a href="#" id="userProfileDD" data-toggle="dropdown"> <img src="//d3snwcirvb4r88.cloudfront.net/static/img/no-user.jpg" class="userimage"> Abhilash <span class="caret"></span></a>
-<ul class="dropdown-menu" role="menu" style="top: 31px;left: 0px;" aria-labelledby="userProfileDD">
-<li><a href="/profile">Profile</a></li>
-<li><a href="/profile?tab=shortlist">Shortlists</a></li>
-<li><a href="/profile?tab=contacts">Owners Contacted</a></li>
-<li role="presentation" class="divider"></li>
-<li><a href="/profile?tab=listings">Your Properties</a></li>
-<li><a href="/profile?tab=enquiries">Interests Shown</a></li>
-<li role="presentation" class="divider"></li>
-<li><a href="/signout">Sign Out</a></li>
-</ul>
-</div>
-</div>
+<a class="hideInfbApp btn btn-warning btn-sm navbar-btn navbar-right tooltips btn-nbprimary" style="font-size:14px;text-transform:capitalize" data-toggle="modal" data-target="#postYourPropertyModal" data-placement="bottom" data-original-title="Owners! Click here if you wish to list your apartment on rent/sale." href="#">Post Your Property <i class="icon icon-question-sign"></i> </a>
+<!-- Post Your Property Modal -->
+<div class="hideInfbApp">
 <div class="btn-group btn-group-sm pull-right " style="margin:15px 0 0 15px">
-<a href="https://play.google.com/store/apps/details?id=com.nobroker.app" target="_blank" style="font-weight:500;text-decoration: none;text-shadow: 0 1px 0 #fff;margin:0 15px;color: #fd3753;border:1px solid #fd3753;padding: 5px; border-radius: 4px;">
+<!--a href="/careers" style="font-weight:500;text-decoration: none;text-shadow: 0 1px 0 #fff;padding: 5px 5px;color: #fd3753;">We're Hiring</a-->
+<a href="https://play.google.com/store/apps/details?id=com.nobroker.app&amp;referrer=utm_source%3Dnobroker%26utm_medium%3Dwebsite" target="_blank" class="nb-hollow-primary" style="">
 Download App
 </a>
 <h3 class="nb-contactnumber">
 <img src="//d3snwcirvb4r88.cloudfront.net/static/img/customer_care.png" width="20px" height="20px">
 0-92417-00000
 </h3>
+<a href="#" style="font-weight:500;text-decoration: none;text-shadow: 0 1px 0 #fff;padding: 5px 5px;color: #5a5a5a;" data-toggle="modal" data-target="#dosignin">Log in</a>
+<a href="#" style="font-weight:500;text-decoration: none;text-shadow: 0 1px 0 #fff;padding: 5px 5px;color: #5a5a5a;" data-toggle="modal" data-target="#dosignup">Sign up</a>
+</div>
 </div>
 </div>
 <div class="alert alert-danger fade alert-dismissable" id="alertDiv" style="display:none;margin:50px auto 20px">
@@ -157,23 +135,27 @@ Download App
 <div class="row navbar-default nav-subtab" id="navSubTab" style="display:none">
 <div class="container" id="subTabContainer">
 <div class="row ">
-<div class="col-sm-3" id="searchBinHeader">
-<a id="resetFilter" style="float:left;margin-left:15px;" onclick="resetFilters();return false;" name="resetTab" href="#" class="btn btn-tab-switcher hidden-xs"><i class="icon icon-refresh"></i>&nbsp; Reset filters</a>
-</div>
-<div class="col-sm-6" id="tabHeader" data-toggle="buttons">
-<div class="input-group" style="width:300px;margin-left:15px">
-<input type="text" id="locationGoogle" class="form-control" placeholder="Search by Locality or Landmark" autocomplete="off" tabindex="1">
+<div class="col-sm-5" id="tabHeader" data-toggle="buttons" style="padding-top: 7px;padding-left: 14px;padding-right: -4px;">
+<div class="input-group">
+<input type="text" id="locationGoogle" class="form-control" placeholder="Search by Locality or Landmark" autocomplete="off" tabindex="1" onclick="$('#SearchSavedDetail').hide(); ">
+<span style=" position: relative;float: right; top: -28px; right: 10px;height: 0;" data-tooltip-skin="tooltipDark" id="searchSaved" onclick="$('#SearchSavedDetail').toggle(); "></span>
 <button type="submit" style="display:none" id="hiddenLocCheckForm">submit</button>
-<span class="input-group-addon" id="searchButton" data-launch="subHeader" style="background:#fd3753;cursor:pointer"><i id="searchIcon" class="icon icon-search icon-x white"> </i></span>
-</div>
+<span class="input-group-addon" id="searchButton" data-launch="subHeader" style="background:#fd3753;cursor:pointer;position: relative;z-index: 1;"><i id="searchIcon" class="icon icon-search icon-x white"> </i></span>
+<ul id="SearchSavedDetail" class="dropdown-menu" style=" position: absolute; position: absolute;left: 0px;top: 33px;border-right-width: 1px;border-bottom-width: 1px;border-left-width: 1px;width: 91.5%;display: none;background-color: white;list-style-type: none;"></ul></div>
+
 <a style="display:none;" class="show-hide-filter tooltips btn btn-less-padding" data-toggle="tooltip" title="" data-placement="right">
 <i class="icon icon-filter"></i> Filters
 </a>
 </div>
-<div class="col-sm-3" style="text-align:right">
-<div class="btn-group">
-<a id="mapView" style="margin-right: 0px; " name="resultTab" href="#panel-map" class="btn btn-tab-switcher result-switcher " data-toggle="tab"><i class="icon icon-large icon-map-marker"></i><span>&nbsp; Map View <span style="color:#FD3753;font-size:0.75em;vertical-align:super">New!</span></span> </a>
-<a id="listView" name="resultTab" href="#panel-list" class="btn btn-tab-switcher result-switcher selected" data-toggle="tab"><i class="icon icon-list-ul"></i>&nbsp; List View</a>
+<div class="col-sm-1" onclick="$('#dosignin').modal('show')" data-isloggedin="false" data-email="" data-name="" data-phone="" data-userid="">
+<a href="#" class="btn btn-tab-switcher hidden-xs" style=" position: relative;top: 6px;left: -7px;">Save Search</a>
+</div>
+<div class="col-sm-3 ">
+</div>
+<div class="col-sm-3" style="text-align:right;margin-top:4px;position:relative;">
+<div class="map-list-switch">
+<a id="listView" name="resultTab" href="#panel-list" class="left btn btn-md btn-default result-switcher btn-list selected" data-toggle="tab"> List </a>
+<a id="mapView" style="" name="resultTab" href="#panel-map" class="right btn btn-md btn-default result-switcher btn-map " data-toggle="tab"> Map </a>
 </div>
 </div>
 </div>
@@ -189,38 +171,17 @@ Download App
 <div class="busy"></div>
 </div>
 <!-- phone verification div popup-->
-<input type="hidden" id="isULIN" value="true">
-<input type="hidden" id="isULINPing" value="true">
+<input type="hidden" id="isULIN" value="false">
+<input type="hidden" id="isULINPing" value="false">
 <input type="hidden" id="isMobile" value="false">
-<input type="hidden" id="nbrc" value="mumbai">
+<input type="hidden" id="nbrc" value="pune">
+<input type="hidden" id="nbpt" value="RENT">
 <input type="hidden" id="cdnUrl" value="//d3snwcirvb4r88.cloudfront.net">
 <input type="hidden" id="nbPlace" value="">
 <input type="hidden" id="lat_lng" value="">
 <input type="hidden" id="latitude" value="">
 <input type="hidden" id="longitude" value="">
 <input type="hidden" id="locality" value="">
-<div class="modal fade" data-backdrop="static" data-keyboard="false" id="phoneVerification">
-<div class="modal-dialog" style="width:400px">
-<div class="modal-content">
-<div class="modal-header modal-nobroker-header">
-<!--button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button-->
-<h4 class="modal-title">Provide your Mobile Number</h4>
-</div>
-<div class="modal-body">
-<h5>Please provide your mobile number.<strong> Our executive will verify it and activate your account</strong></h5>
-<form class="form-horizontal" role="form" accept-charset="UTF-8" action="#" id="phone_ver" method="post">
-<div class="control-group">
-<input type="tel" pattern="[0-9]{10}" name="userPhone" id="verPhone" class="form-control input-md" required="" data-original="" placeholder="Please enter 10 digit mobile number" oninvalid="setCustomValidity('Please enter 10 digit mobile number')" onchange="try{setCustomValidity('')}catch(e){}" value="">
-</div>
-<button type="submit" style="display:none" id="hiddenVerSubmit">submit</button>
-<button href="" onclick="verifyPhone(); return false;" data-count="0" class="btn btn-primary btn-block btn-large large padded-btn-block" id="phVerLink">Save &amp; Continue</button>
-</form>
-<div id="verificationMessage"></div>
-<div id="verificationMessageExtra"></div>
-</div>
-</div><!-- /.modal-content -->
-</div><!-- /.modal-dialog -->
-</div><!-- /.modal -->
 <!-- sign up modal -->
 <div class="modal signup fade" id="dosignup" data-backdrop="static" data-keyboard="false">
 <div class="modal-dialog">
@@ -561,7 +522,118 @@ $('#dosignup').on('show.bs.modal', function() {
 $('#newAccountName').val($('#listerName').val());
 $('#newAccountPhone').val($('#listerPhone').val());
 })
-</script>
+</script><div class="modal fade sendChatMessage" id="sendChatMessage" data-backdrop="static" data-keyboard="true" tabindex="-1">
+<div class="modal-dialog">
+<div class="modal-content flat-style">
+<div class="modal-header chat-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+<div class="nb-chat-header-icon"></div>
+<h4 class="modal-title chatTitle" id="chatTitle">Send message to owner</h4>
+</div><!-- /.modal-header -->
+<div class="modal-body conversation-holder">
+<div class="chat-negotiation">
+<span class="chat-negtext">Negotiation Amount</span>
+<span class="chat-negamount"></span>
+<span class="chat-negstatus"></span>
+<a href="#" data-action="discardNeg" class="btn btn-negbtn discardbtn hideBtn">Discard</a>
+</div>
+<div class="nb-conversations-wrap">
+<div class="nb-empty-conversations-illus"></div>
+<center><span class="nb-empty-conversations-text">Say Hello to the owner!!</span></center>
+</div>
+<div class="modal-emptytext hide">
+<div class="chat-options">
+<div class="chat-option">
+<input type="radio" data-action="onChatOptionSelected" id="negotiate" name="chat-option" value="chat-negotiate-option" class="negRadio">
+<label for="negotiate" class="negRadioLabel">Negotiate rent</label>
+</div>
+<div class="chat-option">
+<input type="radio" data-action="onChatOptionSelected" name="chat-option" id="schedule" value="chat-schedule-option" class="negRadio">
+<label for="schedule" class="negRadioLabel">Schedule a visit</label>
+</div>
+<div class="chat-option">
+<input type="radio" data-action="onChatOptionSelected" name="chat-option" id="custom" value="chat-custom-option" class="negRadio">
+<label for="custom" class="negRadioLabel">Custom Message</label>
+</div>
+<div class="chat-negotiate-option chat-feature-option hide">
+<h4 class="chat-options-subheader">Negotiate Rent</h4>
+<div class="chat-option">
+<label for="negAmount" class="negRadioLabel">Rent Amount:</label>
+<input type="number" id="negAmount" step="100" name="negAmount" value="0">
+<button type="button" class="btn btn-primary sendMsgBtn1" data-action="sendNegChatMessage">Send</button>
+</div>
+</div>
+<div class="chat-schedule-option chat-feature-option hide">
+<h4 class="chat-options-subheader">Schedule a visit on : </h4>
+<div class="chat-option">
+<label for="negDate" class="negRadioLabel">Date:</label>
+<input id="negDate" name="negDate" type="date">
+<label for="negTime" class="negRadioLabel">Time:</label>
+<input id="negTime" name="negTime" type="time">
+<button type="button" class="btn btn-primary sendMsgBtn1" data-action="sendSchedChatMessage">Send</button>
+</div>
+</div>
+</div>
+</div>
+</div><!-- /.modal-body -->
+<div class="modal-footer">
+<textarea name="chatcontent" placeholder="Type a message" id="chatContent" class="chatContent">Hi, I'm interested in your property and would like to take a look at it. When is it a good time to come and look at the property?
+</textarea>
+<div class="chat-negotiate hide" data-action="onNegotiateClick">
+<span class="icon-stack" data-action="onNegotiateClick">
+<i class="icon-circle icon-stack-base" data-action="onNegotiateClick"></i>
+<i class="icon-rupee icon-light" data-action="onNegotiateClick"></i>
+</span>
+<span class="chat-negotiate-text" data-action="onNegotiateClick">Negotiate</span>
+</div>
+<button type="button" class="btn btn-primary sendMsgBtn" data-action="sendChatMessage">Send</button>
+</div>
+</div><!-- /.modal-content -->
+</div><!-- /.modal-dialog -->
+</div><!-- /.modal --><div class="modal fade sendChatMessage" id="messageInboxModal" data-backdrop="static" data-keyboard="true" tabindex="-1 ">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+<h4 class="modal-title">Messages</h4>
+</div><!-- /.modal-header -->
+<div class="modal-body" role="tablist">
+<ul class="nav nav-tabs">
+<li class="presentation"><a href="#owners" aria-controls="owners" role="tab" data-toggle="tab">Tenants who contacted you</a></li>
+<li class="presentation"><a href="#tenants" aria-controls="tenants" role="tab" data-toggle="tab">Owners you contacted</a></li>
+</ul>
+<div class="tab-content">
+<div role="tabpanel" class="tab-pane active" id="owners">
+<div class="row">
+<div class="col-md-5 usersCol">
+<div class="users-list owners">
+</div>
+</div>
+<div class="col-md-7">
+<div class="conversation-holder owners"></div>
+<textarea class="reply-holder"></textarea>
+<button class="replyBtn" data-action="replyChatMsg">Reply</button>
+</div>
+</div>
+</div>
+<div role="tabpanel" class="tab-pane" id="tenants">
+<div class="row">
+<div class="col-md-5">
+<div class="users-list tenants">
+</div>
+</div>
+<div class="col-md-7">
+<div class="conversation-holder tenants"></div>
+<textarea class="reply-holder"></textarea>
+<button class="replyBtn" data-action="replyChatMsg">Reply</button>
+</div>
+</div>
+</div>
+</div>
+</div><!-- /.modal-body -->
+</div><!-- /.modal-content -->
+</div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
 <div class="container" id="privacy">
 <div class="row listing-container-row" style="padding:10px;background-color:white">
 <h2>Privacy Policy</h2>
@@ -648,10 +720,11 @@ Your account is password protected. We use industry standard measures to protect
 </div><!-- /.modal-dialog -->
 </div>
 <!-- download app -->
-<div class="modal fade " id="mobileApp">
-<div class="modal-dialog mobile-app-launch">
-<div class="modal-content mobile-app-launch-content">
+<!--<div class="modal fade" id="mobileApp" data-keyboard="true" tabindex="-1">
+<div class="modal-dialog mobile-app-launch" >
+<div class="modal-content mobile-app-launch-content" >
 <div class="modal-body">
+<a onclick="modalhidefunction()" style="cursor:pointer"><span class="icon icon-remove-sign pull-right icon-2x" style="color:white" aria-hidden="true"></span></a>
 <div class="row">
 <div class="col-sm-7">
 <h3>ELIMINATE BROKERS ON THE GO</h3>
@@ -660,30 +733,531 @@ Your account is password protected. We use industry standard measures to protect
 <li> Search Properties Near You </li>
 <li> Search Properties by locality or landmark</li>
 <li> List property in 5 simple steps</li>
-</ul>
-<center>
-<a href="https://play.google.com/store/apps/details?id=com.nobroker.app">
-<img alt="Get it on Google Play" src="https://developer.android.com/images/brand/en_generic_rgb_wo_60.png">
-</a>
-</center>
 <div class="row space-top">
-<div class="form-group">
-<center id="appDownloadContent">
+<a data-action = "googlePlayLink" data-target="" target="_blank" href="https://play.google.com/store/apps/details?id=com.nobroker.app">
+<img alt="Get it on Google Play" height="100px" width="100px"
+src="//d3snwcirvb4r88.cloudfront.net/static/img/en_generic_rgb_wo_60.png" />
+</a>
+<div class="form-group pad-top">
+<div id="appDownloadContent">
 <p id="appMobileError" style="display:none;">Please enter valid mobile number</p>
-<input type="phone" id="appMobileNumber" required="" class="input-sm inputMobileNumber" placeholder="Enter Mobile Number">
-<a href="" onclick="sendAppDownloadLink(); return false;" class="btn btn-default btn-sm" id="appDownloadSMS">Download Now</a>
-</center>
+<input type="phone" id="appMobileNumber" required class="input-sm inputMobileNumber" placeholder="Enter Mobile Number">
+<a href="" onclick="sendAppDownloadLink(); return false;"
+class="btn btn-default btn-sm" id="appDownloadSMS">Download Now</a>
 </div>
 </div>
+</div>
+</ul>
 </div>
 <div class="col-sm-5">
-<img src="//d3snwcirvb4r88.cloudfront.net/static/img/image_desk.png">
+<img src="//d3snwcirvb4r88.cloudfront.net/static/img/image_desk.png" />
 </div>
 </div>
 </div>
-</div><!-- /.modal-content -->
-</div><!-- /.modal-dialog -->
-</div><!-- /.modal -->
+</div>
+</div>
+</div> -->
+<!-- payment popup -->
+<div id="paymentModal" class="modal fade" tabindex="-1">
+<div class="modal-dialog" style="width:1100px !important">
+<!-- Modal content-->
+<div class="modal-content">
+<div class="modal-header paymentModalHeader">
+<button type="button" class="close closeButton" data-dismiss="modal">×</button>
+</div>
+<div class="modal-body">
+<div class="homepage-caption-container">
+<div>
+<div class="homepage-caption-header modal-header-circle header-text">
+<span class="header-content">
+NoBroker Home Plans
+</span>
+</div>
+</div>
+</div>
+<div class="row paymentModalRow">
+<div class="col-lg-4 col-md-4 col-sm-6 basicPlan paymentPlanColumns onHoverCss">
+<div class="columnHeaderBasic">
+<p>Basic <span class="pull-right planCost">Free</span></p>
+</div>
+<div class="planContentPadding">
+<center class="imageForPlan">
+<img height="70px" src="//d3snwcirvb4r88.cloudfront.net/static/img/paymentModal/basic.png">
+</center>
+<div class="planContent">
+<div class="basicPlanRow1">
+<div class="row">
+<div class="col-lg-7 col-md-7 col-sm-7">
+<p class="pad-left-10">Owner Contacts</p>
+</div>
+<div class="col-lg-5">
+<p>upto 9</p>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-7 col-md-7 col-sm-7">
+<p class="pad-left-10">New Property Alerts</p>
+</div>
+<div class="col-lg-5">
+<p>Weekly</p>
+</div>
+</div>
+</div>
+<div class="basicPlanRow2">
+<div class="row">
+<div class="col-lg-7 col-md-7 col-sm-7">
+<a href="/rental-agreement" class="pad-left-10">Online Rental Agreement</a>
+</div>
+<div class="col-lg-5">
+<p>0% OFF</p>
+</div>
+</div>
+</div>
+</div>
+<div class="planButtonRow text-center">
+<button id="basicPlanButton" data-plan="TENANT_BASIC" class="planButton btn">Subscribe</button>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-4 col-sm-6 freedomPlan paymentPlanColumns onHoverCss">
+<div class="columnHeaderFreedom">
+<p>Freedom <span class="pull-right planCost"><span class="icon icon-rupee rupeeIcon" aria-hidden="true"></span>999</span></p>
+</div>
+<div class="planContentPadding">
+<center class="imageForPlan">
+<img height="70px" src="//d3snwcirvb4r88.cloudfront.net/static/img/paymentModal/freedom.png">
+</center>
+<div class="planContent">
+<div class="basicPlanRow1">
+<div class="row">
+<div class="col-lg-7 col-md-7 col-sm-7">
+<p class="pad-left-10">Owner Contacts</p>
+</div>
+<div class="col-lg-5">
+<p>upto 25</p>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-7 col-md-7 col-sm-7">
+<p class="pad-left-10">New Property Alerts</p>
+</div>
+<div class="col-lg-5">
+<p>Daily</p>
+</div>
+</div>
+</div>
+<div class="freePlanRow2">
+<div class="row">
+<div class="col-lg-7 col-md-7 col-sm-7">
+<a href="/rental-agreement" class="pad-left-10">Online Rental Agreement</a>
+</div>
+<div class="col-lg-5">
+<p>25% OFF</p>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-7 col-md-7 col-sm-7">
+<p class="pad-left-10">Personalised Recommendations</p>
+</div>
+<div class="col-lg-5">
+<p><span class="icon icon-ok okIcon" aria-hidden="true"></span></p>
+</div>
+</div>
+</div>
+</div>
+<div class="planButtonRow text-center">
+<button id="freePlanButton" data-plan="TENANT_POWER" class="planButton btn">Subscribe <span class="pull-right planCost"></span></button>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-4 col-sm-6 relaxPlan paymentPlanColumns onHoverCss">
+<div class="columnHeaderRelax">
+<p>Relax <span class="pull-right planCost"><span class="icon icon-rupee rupeeIcon" aria-hidden="true"></span>1999</span></p>
+</div>
+<div class="planContentPadding">
+<center class="imageForPlan">
+<img height="70px" src="//d3snwcirvb4r88.cloudfront.net/static/img/paymentModal/relax.png">
+</center>
+<div class="rmimagediv"><img class="rmimage" height="40px" src="/static/img/paymentModal/rm.png"></div>
+<div class="planContent">
+<div class="basicPlanRow1">
+<div class="row">
+<div class="col-lg-7 col-md-7 col-sm-7">
+<p class="pad-left-10">Owner Contacts</p>
+</div>
+<div class="col-lg-5">
+<p>upto 50</p>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-7 col-md-7 col-sm-7">
+<p class="pad-left-10">New Property Alerts</p>
+</div>
+<div class="col-lg-5">
+<p>Instant</p>
+</div>
+</div>
+</div>
+<div class="freePlanRow2">
+<div class="row">
+<div class="col-lg-7 col-md-7 col-sm-7">
+<a href="/rental-agreement" class="pad-left-10">Online Rental Agreement</a>
+</div>
+<div class="col-lg-5">
+<p>50% OFF</p>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-7 col-md-7 col-sm-7">
+<p class="pad-left-10">Personalised Recommendations</p>
+</div>
+<div class="col-lg-5">
+<p><span class="icon icon-ok okIcon" aria-hidden="true"></span></p>
+</div>
+</div>
+</div>
+<div class="relaxPlanRow3">
+<div class="row">
+<div class="col-lg-7 col-md-7 col-sm-7">
+<p class="pad-left-10"><b>Personal Assistant</b></p>
+</div>
+<div class="col-lg-5 tooltipCol">
+<div id="tooltipPopup">
+<div class="tooltipPopup">
+<div class="tooltipHeader">
+<p class="tooltipHeaderContent">
+<img src="//d3snwcirvb4r88.cloudfront.net/static/img/paymentModal/rm.png" class="tooltipHeaderImage" height="50px">
+<span class="pull-right tooltipHeaderText">Personal Assistant</span></p>
+</div>
+<div class="tooltipContent">
+<ul>
+<li>
+<p>Provides city level expertise</p>
+</li>
+<li>
+<p>Contacts owners and schedules appointments</p>
+</li>
+<li>
+<p>Negotiates on your behalf</p>
+</li>
+<li>
+<p>Organised online rental agreement</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<p><span class="icon icon-ok okIcon" aria-hidden="true"></span>
+<span class="infoIcon pull-right"><img src="//d3snwcirvb4r88.cloudfront.net/static/img/paymentModal/infoicon.png"></span></p>
+</div>
+</div>
+</div>
+</div>
+<div class="planButtonRow text-center">
+<button id="relaxPlanButton" data-plan="TENANT_RELAX" class="planButton btn">Subscribe </button>
+</div>
+</div>
+</div>
+</div>
+<div class="terms text-center">
+<p> For assistance call us at : <span class="icon phone phoneNumber">+91-70223-22371</span>
+.<sup class="validity">*</sup>All Plans are Valid for 3 months period, terms and conditions apply</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- payment popup -->
+<!-- paymentSuccess popup -->
+<div id="paymentSuccessModal" class="modal fade" tabindex="-1">
+<div class="modal-dialog" style="width:1100px !important">
+<!-- Modal content-->
+<div class="modal-content">
+<div class="modal-header paymentModalHeader">
+<button type="button" class="close closeButton" data-dismiss="modal">×</button>
+</div>
+<div class="modal-body">
+<div class="homepage-caption-container">
+<div>
+<div class="homepage-caption-header modal-header-circle header-text">
+<span class="header-content">
+Your Plan
+</span>
+</div>
+</div>
+</div>
+<div class="row paymentModalRow">
+<div class="col-lg-4 col-md-4 col-sm-6 basicPlan paymentSuccessPlanColumns">
+<div class="columnHeaderBasic">
+<p>Basic <span class="pull-right planCost">Free</span></p>
+</div>
+<div class="planContentPadding">
+<center class="imageForPlan">
+<img height="70px" src="//d3snwcirvb4r88.cloudfront.net/static/img/paymentModal/basic.png">
+</center>
+<div class="planContent">
+<div class="basicPlanRow1">
+<div class="row">
+<div class="col-lg-7 col-md-7 col-sm-7">
+<p class="pad-left-10">Owner Contacts</p>
+</div>
+<div class="col-lg-5">
+<p>up to 9</p>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-7 col-md-7 col-sm-7">
+<p class="pad-left-10">New Property Alerts</p>
+</div>
+<div class="col-lg-5">
+<p>Weekly</p>
+</div>
+</div>
+</div>
+<div class="basicPlanRow2">
+<div class="row">
+<div class="col-lg-7 col-md-7 col-sm-7">
+<p class="pad-left-10">Online rental agreement</p>
+</div>
+<div class="col-lg-5">
+<p>0% OFF</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="successPlanButtonRow text-center">
+<button id="basicPlanButton" data-plan="TENANT_FREEDOM" class="planButton btn">Your Plan Expires in <span id="planExpires">15 Days </span></button>
+</div>
+</div>
+<div class="col-lg-4 col-md-4 col-sm-6 freedomPlan paymentSuccessPlanColumns hide">
+<div class="columnHeaderFreedom">
+<p>Freedom <span class="pull-right planCost"><span class="icon icon-rupee rupeeIcon" aria-hidden="true"></span>999</span></p>
+</div>
+<div class="planContentPadding">
+<center class="imageForPlan">
+<img height="70px" src="//d3snwcirvb4r88.cloudfront.net/static/img/paymentModal/freedom.png">
+</center>
+<div class="planContent">
+<div class="basicPlanRow1">
+<div class="row">
+<div class="col-lg-7 col-md-7 col-sm-7">
+<p class="pad-left-10">Owner Contacts</p>
+</div>
+<div class="col-lg-5">
+<p>up to 25</p>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-7 col-md-7 col-sm-7">
+<p class="pad-left-10">New Property Alerts</p>
+</div>
+<div class="col-lg-5">
+<p>DAILY</p>
+</div>
+</div>
+</div>
+<div class="freePlanRow2">
+<div class="row">
+<div class="col-lg-7 col-md-7 col-sm-7">
+<a href="/rental-agreement" class="pad-left-10">Online Rental Agreement</a>
+</div>
+<div class="col-lg-5">
+<p>25% off</p>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-7 col-md-7 col-sm-7">
+<p class="pad-left-10">Personalised Recommendations</p>
+</div>
+<div class="col-lg-5">
+<p><span class="icon icon-ok okIcon" aria-hidden="true"></span></p>
+</div>
+</div>
+</div>
+</div>
+<div class="successPlanButtonRow text-center">
+<button id="basicPlanButton" data-plan="TENANT_FREEDOM" class="planButton btn">Your Plan <span id="isExpired">Expires in</span> <span id="planExpires">15 Days </span></button>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-4 col-sm-6 relaxPlan paymentSuccessPlanColumns hide">
+<div class="columnHeaderRelax">
+<p>Relax <span class="pull-right planCost"><span class="icon icon-rupee rupeeIcon" aria-hidden="true"></span>1999</span></p>
+</div>
+<div class="planContentPadding">
+<center class="imageForPlan">
+<img height="70px" src="//d3snwcirvb4r88.cloudfront.net/static/img/paymentModal/relax.png">
+</center>
+<div class="rmimagediv"><img class="rmimage" height="40px" src="/static/img/paymentModal/rm.png"></div>
+<div class="planContent">
+<div class="basicPlanRow1">
+<div class="row">
+<div class="col-lg-7 col-md-7 col-sm-7">
+<p class="pad-left-10">Owner Contacts</p>
+</div>
+<div class="col-lg-5">
+<p>up to 50</p>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-7 col-md-7 col-sm-7">
+<p class="pad-left-10">New Property Alerts</p>
+</div>
+<div class="col-lg-5">
+<p>INSTANT</p>
+</div>
+</div>
+</div>
+<div class="freePlanRow2">
+<div class="row">
+<div class="col-lg-7 col-md-7 col-sm-7">
+<a href="/rental-agreement" class="pad-left-10">Online Rental Agreement</a>
+</div>
+<div class="col-lg-5">
+<p>50% off</p>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-7 col-md-7 col-sm-7">
+<p class="pad-left-10">Personalised Recommendations</p>
+</div>
+<div class="col-lg-5">
+<p><span class="icon icon-ok okIcon" aria-hidden="true"></span></p>
+</div>
+</div>
+</div>
+<div class="relaxPlanRow3">
+<div class="row">
+<div class="col-lg-7 col-md-7 col-sm-7">
+<p class="pad-left-10">Personal Assistant</p>
+</div>
+<div class="col-lg-5 tooltipCol">
+<div id="tooltipPopup">
+<div class="tooltipPopup">
+<div class="tooltipHeader">
+<p class="tooltipHeaderContent">
+<img src="//d3snwcirvb4r88.cloudfront.net/static/img/paymentModal/rm.png" class="tooltipHeaderImage" height="50px">
+<span class="pull-right tooltipHeaderText">Personal Assistant</span></p>
+</div>
+<div class="tooltipContent">
+<ul>
+<li>
+<p>Provides city level expertise</p>
+</li>
+<li>
+<p>Contacts owners and schedules appointments</p>
+</li>
+<li>
+<p>Negotiates on your behalf</p>
+</li>
+<li>
+<p>Organised online rental agreement</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<p><span class="icon icon-ok okIcon" aria-hidden="true"></span>
+<span class="infoIcon pull-right"><img src="//d3snwcirvb4r88.cloudfront.net/static/img/paymentModal/infoicon.png"></span></p>
+</div>
+</div>
+</div>
+</div>
+<div class="successPlanButtonRow text-center">
+<button id="basicPlanButton" data-plan="TENANT_FREEDOM" class="planButton btn">Your Plan Expires in <span id="planExpires">15 Days </span></button>
+</div>
+</div>
+</div>
+<div class="col-lg-8 col-md-8 col-sm-12" id="successBox">
+<div class="successBox">
+<center class="successicon">
+<img class="successiconImage" src="/static/img/paymentModal/success_icon.png">
+</center>
+<span class="successText">
+<h4 id="paymentPlanStatus">Congrats!</h4>
+<p id="planSuccessMessage"></p>
+</span>
+</div>
+</div>
+<div class="col-lg-8 col-md-8 col-sm-12">
+<div class="planSummary" id="planSummary">
+<h2>Summary</h2>
+<table class="table table-striped" id="summaryTable">
+<tbody id="jsonPlanContent">
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+<div class="terms text-center">
+<p> For assistance call us at : <span class="icon phone phoneNumber">+91-70223-22371</span>
+. <sup class="validity">*</sup>All Plans are Valid for 3 months period, terms and conditions apply</p>
+</div>
+</div>
+</div>
+</div>
+<!-- payment popup -->
+<!--post your requirement modal-->
+<div id="postYourPropertyModal" class="modal fade" tabindex="-1">
+<div class="modal-dialog" style="width:800px !important">
+<!-- Modal content-->
+<div class="modal-content postPropertyModalMargin">
+<div class="modal-header postPropertyModalHeader">
+<button type="button" class="close closeButton" data-dismiss="modal">×</button>
+<h4 class="modal-title "><img class="image" height="40px" src="//d3snwcirvb4r88.cloudfront.net/static/img/postPropertyModal/post_property_modal_header.png">Post Your Property</h4>
+</div>
+<div class="modal-body">
+<div class="homepage-caption-container">
+<div>
+<div class="homepage-caption-header modal-header-circle header-text">
+<span class="header-content">
+Rent and Sell your property easily and without involving agent and paying any hefty brokerage
+</span>
+</div>
+</div>
+</div>
+<center><img src="//d3snwcirvb4r88.cloudfront.net/static/img/postPropertyModal/post_property_modal_bg.png"></center>
+<div class="row postRequirementModalRow">
+<div class="col-lg-6">
+<center>
+<img src="//d3snwcirvb4r88.cloudfront.net/static/img/postPropertyModal/rent.png">
+</center>
+</div>
+<div class="col-lg-6">
+<center>
+<img src="//d3snwcirvb4r88.cloudfront.net/static/img/postPropertyModal/sale.png">
+</center>
+</div>
+<div class="col-lg-6 postRequirementModalRent">
+<p class="text-center body-text">Click below to post your property for rent</p>
+<div class="text-center">
+<div class="col-lg-1"></div>
+<div class="col-lg-10">
+<a href="/property/new">
+<button class="btn btn-block postPropertyAnchorRent">Post your Property</button>
+</a>
+</div>
+</div>
+</div>
+<div class="col-lg-6 postRequirementModalBuy">
+<p class="text-center body-text">Give a missed call on the below number to list your property for sale</p>
+<div class="text-center">
+<div class="col-lg-1"></div>
+<div class="col-lg-10">
+<a href="#">
+<button class="btn btn-block postPropertyAnchorBuy"><i class="icon-phone"></i> &nbsp; 72080-04530</button>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- modal end -->
 <footer class="nb-footer" style="margin-top:0px" ;="">
 <div class="row">
 <div class="col-md-6">
@@ -707,7 +1281,7 @@ and we'll send you email notification with properties matching your requirements
 <a data-bypass="true" href="/about/about-us" target="_blank">About Us</a>
 </li>
 <li>
-<a data-bypass="true" href="/about/careers" target="_blank">Jobs</a>
+<a data-bypass="true" href="/careers" target="_blank">Careers</a>
 </li>
 <li>
 <a data-bypass="true" href="http://www.nobroker.in/blog" target="_blank">Blog</a>
@@ -719,10 +1293,16 @@ and we'll send you email notification with properties matching your requirements
 <a data-bypass="true" href="/privacy" target="_blank">Privacy Policy</a>
 </li>
 <li>
-<a data-bypass="true" href="/about/faq" target="_blank">FAQ</a>
+<a data-bypass="true" href="/rental-agreement" target="_blank">Rental Agreement</a>
 </li>
 <li>
 <a data-bypass="true" href="/testimonials" target="_blank">Testimonials</a>
+</li>
+<li>
+<a data-bypass="true" href="/sitemap" target="_blank">SiteMap</a>
+</li>
+<li>
+<a data-bypass="true" href="/about/faq" target="_blank">FAQ</a>
 </li>
 </ul>
 </div>
@@ -743,6 +1323,9 @@ and we'll send you email notification with properties matching your requirements
 </li>
 <li>
 <a data-bypass="true" href="https://www.crunchbase.com/organization/nobroker" target="_blank">Crunchbase</a>
+</li>
+<li>
+<a data-bypass="true" href="/media" target="_blank">Media</a>
 </li>
 </ul>
 </div>
@@ -766,24 +1349,179 @@ and we'll send you email notification with properties matching your requirements
 </li>
 <div style="margin-top: 2px;">
 <a target="_blank" href="https://play.google.com/store/apps/details?id=com.nobroker.app">
-<img alt="Get it on Google Play" src="https://developer.android.com/images/brand/en_generic_rgb_wo_45.png">
+<img alt="Get it on Google Play" src="//d3snwcirvb4r88.cloudfront.net/static/img/en_generic_rgb_wo_45.png">
 </a>
 </div>
 </ul></div>
 </div>
 </div>
 </div>
+<div class="footer-divider">
+<div class="row sitemap-footer-bg" id="sitemap-footer">
+<div class="sitemap-footer-padding">
+<ul class="nav nav-tabs sitemap-footer-tabs-row">
+<li class="active col-md-3 col-lg-3"><a data-target="#flat" data-toggle="tab" class="text-center sitemap-footer-tabs">FLATS</a></li>
+<li class="col-md-3 col-lg-3"><a data-target="#pg" data-toggle="tab" class="text-center sitemap-footer-tabs">ROOMS &amp; PG</a></li>
+<li class="col-md-3 col-lg-3"><a data-target="#buy" data-toggle="tab" class="text-center sitemap-footer-tabs">Flats for Sale</a></li>
+</ul>
+</div>
+<div class="col-md-1 col-lg-1"></div>
+<div class="col-md-10 col-lg-10 col-xs-12 col-sm-12 sitemap-footer-content-tab">
+<div class="tab-content">
+<div class="tab-pane fade in active" id="flat">
+<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+<h3><a class=" sitemap-footer-header" href="http://www.nobroker.in/property/rent/bangalore/Bengaluru/?&amp;nbPlace=ChIJbU60yXAWrjsR4E9-UejD3_g&amp;lat_lng=12.9715987,77.59456269999998&amp;sharedAccomodation=0&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Flats in Bangalore">Flats in Bangalore</a></h3>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/bangalore/Koramangala/?&amp;nbPlace=ChIJLfyY2E4UrjsRVq4AjI7zgRY&amp;lat_lng=12.9279232,77.6271078&amp;sharedAccomodation=0&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Flats for rent in Koramangla"> Flats for rent in Koramangla</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/bangalore/HSR%20Layout/?&amp;nbPlace=ChIJzW7cv5EUrjsRecj7OYRxMvI&amp;lat_lng=12.9081357,77.64760799999999&amp;sharedAccomodation=0&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Flats for rent in HSR Layout"> Flats for rent in HSR Layout</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/bangalore/Marathahalli/?&amp;nbPlace=ChIJVwkdVbQTrjsRGUkefteUeFk&amp;lat_lng=12.9591722,77.69741899999997&amp;sharedAccomodation=0&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Flats for rent in Marathahalli"> Flats for rent in Marathahalli</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/bangalore/Indiranagar/?&amp;nbPlace=ChIJkQN3GKQWrjsRNhBQJrhGD7U&amp;lat_lng=12.9718915,77.6411545&amp;sharedAccomodation=0&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Flats for rent in Indira Nagar"> Flats for rent in Indira Nagar</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/bangalore/Bellandur/?&amp;nbPlace=ChIJL-k0LnUTrjsRrmqYb6Y0ssI&amp;lat_lng=12.9287597,77.6749863&amp;sharedAccomodation=0&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Flats for rent in Bellandur"> Flats for rent in Bellandur</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/bangalore/Chandra%20Layout/?&amp;nbPlace=ChIJIdFn43k-rjsRaNKMszvIlMU&amp;lat_lng=12.9589673,77.5268306&amp;sharedAccomodation=0&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Flats for rent in Chandra Layout"> Flats for rent in Chandra Layout</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/bangalore/J.%20P.%20Nagar/?&amp;nbPlace=ChIJK6dJcw0VrjsRRj3d4aE-0PM&amp;lat_lng=12.910491,77.5857168&amp;sharedAccomodation=0&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Flats for rent in J. P. Nagar"> Flats for rent in J. P. Nagar</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/bangalore/BTM%20Layout/?&amp;nbPlace=ChIJMTCpkfwUrjsRP9zLdiXmr_A&amp;lat_lng=12.9165757,77.6101163&amp;sharedAccomodation=0&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Flats for rent in BTM Layout"> Flats for rent in BTM Layout</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/bangalore/Jayanagar/?&amp;nbPlace=ChIJ2ddlZ5gVrjsRh1BOAaf-ors&amp;lat_lng=12.9250074,77.59380280000005&amp;sharedAccomodation=0&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Flats for rent in Jayanagar"> Flats for rent in Jayanagar</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/bangalore/Whitefield/?&amp;nbPlace=ChIJg_wNXfMRrjsR-RUB2BKlzzA&amp;lat_lng=12.9697999,77.74994670000001&amp;sharedAccomodation=0&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Flats for rent in Whitefield"> Flats for rent in Whitefield</a></p>
+</div>
+<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+<h3><a class="sitemap-footer-header" href="http://www.nobroker.in/property/rent/mumbai/Mumbai/?&amp;nbPlace=ChIJwe1EZjDG5zsRaYxkjY_tpF0&amp;lat_lng=19.0759837,72.87765590000004&amp;sharedAccomodation=0&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Flats in Mumbai"> Flats in Mumbai</a></h3>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/mumbai/Andheri%20West/?&amp;nbPlace=ChIJ3ZHYthi25zsRMtExx1eo-JE&amp;lat_lng=19.1363246,72.82766&amp;sharedAccomodation=0&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Flats for rent in Andheri West"> Flats for rent in Andheri West</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/mumbai/Malad%20West/?&amp;nbPlace=ChIJ5ajjT5G25zsR1LlNnBBk8nM&amp;lat_lng=19.1827551,72.84015390000002&amp;sharedAccomodation=0&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Flats for rent in Malad West"> Flats for rent in Malad West</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/mumbai/Andheri%20East/?&amp;nbPlace=ChIJMbHfQRu25zsRMazdY3UpaKY&amp;lat_lng=19.1154908,72.87269519999995&amp;sharedAccomodation=0&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Flats for rent in Andheri East"> Flats for rent in Andheri East</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/mumbai/Powai/?&amp;nbPlace=ChIJQ3sdHAjI5zsRZuOLS8UA8bo&amp;lat_lng=19.1196773,72.90508090000003&amp;sharedAccomodation=0&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Flats for rent in Powai"> Flats for rent in Powai</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/mumbai/Thane%20West/?&amp;nbPlace=ChIJ640aCBK55zsRifpsEySY2uM&amp;lat_lng=19.2266605,72.98383660000002&amp;sharedAccomodation=0&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Flats for rent in Thane West"> Flats for rent in Thane West</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/mumbai/Dombivli/?&amp;nbPlace=ChIJB4ct946V5zsRCAsobrlqv4Q&amp;lat_lng=19.2094006,73.0939483&amp;sharedAccomodation=0&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Flats for rent in Dombivli"> Flats for rent in Dombivli</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/mumbai/Mira%20Road%20East/?&amp;nbPlace=ChIJiyn3jEWw5zsRISvf6TnYjkY&amp;lat_lng=19.2871393,72.8688419&amp;sharedAccomodation=0&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Flats for rent in Mira Road East"> Flats for rent in Mira Road East</a></p>
+<p><a></a><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/mumbai/Kharghar/?&amp;nbPlace=ChIJgwvjUxrC5zsR1wl3aJ-yZqc&amp;lat_lng=19.0473216,73.06990459999997&amp;sharedAccomodation=0&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Flats for rent in Kharghar"> Flats for rent in Kharghar</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/mumbai/Navi%20Mumbai/?&amp;nbPlace=ChIJrRMfuPC55zsRafiFEWj3Ejw&amp;lat_lng=19.0330488,73.02966249999997&amp;sharedAccomodation=0&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Flats for rent in Navi Mumbai"> Flats for rent in Navi Mumbai</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/mumbai/Bandra%20West/?&amp;nbPlace=ChIJe9L4I-HI5zsReGojmrSWeUM&amp;lat_lng=19.0606917,72.83624970000005&amp;sharedAccomodation=0&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Flats for rent in Bandra West"> Flats for rent in Bandra West</a></p>
+</div>
+<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+<h3><a class="sitemap-footer-header" href="http://www.nobroker.in/property/rent/chennai/Chennai/?&amp;nbPlace=ChIJYTN9T-plUjoRM9RjaAunYW4&amp;lat_lng=13.0597049,80.2252278&amp;sharedAccomodation=0&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Flats in Chennai">Flats in Chennai</a></h3>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/chennai/Velachery/?&amp;nbPlace=ChIJO1oG8p9dUjoRzDhAYBVQQ2Y&amp;lat_lng=12.975971,80.22120919999998&amp;sharedAccomodation=0&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Flats for rent in Velachery"> Flats for rent in Velachery</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/chennai/Madipakkam/?&amp;nbPlace=ChIJwb06RuldUjoRPZaCWAeCHwc&amp;lat_lng=12.9653632,80.2016539&amp;sharedAccomodation=0&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Flats for rent in Madipakkam"> Flats for rent in Madipakkam</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/chennai/Chromepet/?&amp;nbPlace=ChIJgV_3zrFfUjoRgPqg6u9vleI&amp;lat_lng=12.9531946,80.14160079999999&amp;sharedAccomodation=0&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Flats for rent in Chromepet"> Flats for rent in Chromepet</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/chennai/Medavakkam/?&amp;nbPlace=ChIJAQyxKhxcUjoRnLji64v-M48&amp;lat_lng=12.9171427,80.19234890000007&amp;sharedAccomodation=0&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Flats for rent in Medavakkam"> Flats for rent in Medavakkam</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/chennai/Porur/?&amp;nbPlace=ChIJUY9IkBthUjoRdDAzOzWhZZY&amp;lat_lng=13.03478,80.15585999999996&amp;sharedAccomodation=0&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Flats for rent in Porur"> Flats for rent in Porur</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/chennai/Pallikaranai/?&amp;nbPlace=ChIJ2f8U_UxcUjoRC2DoKAcFTTs&amp;lat_lng=12.9378968,80.21390789999998&amp;sharedAccomodation=0&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Flats for rent in Pallikaranai"> Flats for rent in Pallikaranai</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/chennai/Urapakkam/?&amp;nbPlace=ChIJp4BxTUH2UjoRgcHiqUV9W_0&amp;lat_lng=12.8626759,80.06931650000001&amp;sharedAccomodation=0&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Flats for rent in Urapakkam"> Flats for rent in Urapakkam</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/chennai/Ambattur/?&amp;nbPlace=ChIJP3tImrpjUjoRlmIg9QA_kh4&amp;lat_lng=13.1143167,80.14805509999997&amp;sharedAccomodation=0&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Flats for rent in Ambattur"> Flats for rent in Ambattur</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/chennai/Okkiyam%20Thuraipakkam/?&amp;nbPlace=ChIJUQId3vtcUjoRcJI8igea_co&amp;lat_lng=12.9416037,80.23620959999994&amp;sharedAccomodation=0&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title=" Flats for rent in Okkiyam Thuraipakkam"> Flats for rent in Okkiyam Thuraipakkam</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/chennai/Thiruvanmiyur/?&amp;nbPlace=ChIJb_w7m1tdUjoRqgv5aXb5WWk&amp;lat_lng=12.9830269,80.2594001&amp;sharedAccomodation=0&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Flats for rent in Thiruvanmiyur"> Flats for rent in Thiruvanmiyur</a></p>
+</div>
+<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+<h3><a class="sitemap-footer-header" href="http://www.nobroker.in/property/rent/pune/Pune/?&amp;nbPlace=ChIJARFGZy6_wjsRQ-Oenb9DjYI&amp;lat_lng=18.5204303,73.85674369999992&amp;sharedAccomodation=0&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Flats in Pune"> Flats in Pune</a></h3>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/pune/Hadapsar/?&amp;nbPlace=ChIJ6arxgf_pwjsRU4usVTU0YCU&amp;lat_lng=18.5089197,73.9260261&amp;sharedAccomodation=0&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Flats for rent in Hadapsar"> Flats for rent in Hadapsar</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/pune/Kharadi/?&amp;nbPlace=ChIJlaSLKMPDwjsRSgBjOmEz6Dg&amp;lat_lng=18.5549543,73.944788&amp;sharedAccomodation=0&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Flats for rent in Kharadi"> Flats for rent in Kharadi</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/pune/Baner/?&amp;nbPlace=ChIJy9Nd8M--wjsRfat_-5cSkaE&amp;lat_lng=18.5596581,73.7799374&amp;sharedAccomodation=0&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Flats for rent in Baner"> Flats for rent in Baner</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/pune/Kothrud/?&amp;nbPlace=ChIJnYSvMre_wjsR8ET-s0iLB9Q&amp;lat_lng=18.5073985,73.80765040000006&amp;sharedAccomodation=0&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Flats for rent in Kothrud"> Flats for rent in Kothrud</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/pune/Wagholi/?&amp;nbPlace=ChIJd_jen4HDwjsR4Es1X5g-GdQ&amp;lat_lng=18.579305,73.98234530000002&amp;sharedAccomodation=0&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Flats for rent in Wagholi"> Flats for rent in Wagholi</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/pune/Wakad/?&amp;nbPlace=ChIJ7RtXr3q5wjsRc2anpWs0Zww&amp;lat_lng=18.5989428,73.76527149999993&amp;sharedAccomodation=0&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Flats for rent in Wakad"> Flats for rent in Wakad</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/pune/Wadgaon%20Sheri/?&amp;nbPlace=ChIJWwEUBG_BwjsRnf-bZzHNozk&amp;lat_lng=18.5527193,73.92081699999994&amp;sharedAccomodation=0&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Flats for rent in Wadgaon"> Flats for rent in Wadgaon</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/pune/Ambegaon%20Budruk/?&amp;nbPlace=ChIJ331MxDqVwjsRUQuTkGuqf3M&amp;lat_lng=18.4488541,73.84176490000004&amp;sharedAccomodation=0&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Flats for rent in Ambegaon Budruk"> Flats for rent in Ambegaon Budruk</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/pune/Aundh/?&amp;nbPlace=ChIJzUFgOki_wjsRLTrf2X7gaNk&amp;lat_lng=18.558007,73.80752009999992&amp;sharedAccomodation=0&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Flats for rent in Aundh"> Flats for rent in Aundh</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/pune/Pimple%20Saudagar/?&amp;nbPlace=ChIJr13ZDRu5wjsReJmgljduy6Y&amp;lat_lng=18.5934685,73.79291119999993&amp;sharedAccomodation=0&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Flats for rent in Pimple Saudagar"> Flats for rent in Pimple Saudagar</a></p>
+</div>
+</div>
+<div class="tab-pane fade" id="pg">
+<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+<h3><a class=" sitemap-footer-header" href="http://www.nobroker.in/property/rent/bangalore/Bengaluru/?&amp;nbPlace=ChIJbU60yXAWrjsR4E9-UejD3_g&amp;lat_lng=12.9715987,77.59456269999998&amp;sharedAccomodation=1&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Rooms &amp; PG in Bangalore">Rooms &amp; PG in Bangalore</a></h3>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/bangalore/Koramangala/?&amp;nbPlace=ChIJLfyY2E4UrjsRVq4AjI7zgRY&amp;lat_lng=12.9279232,77.6271078&amp;sharedAccomodation=1&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Rooms &amp; PG for rent in Koramangla"> Rooms &amp; PG for rent in Koramangla</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/bangalore/Marathahalli/?&amp;nbPlace=ChIJVwkdVbQTrjsRGUkefteUeFk&amp;lat_lng=12.9591722,77.69741899999997&amp;sharedAccomodation=1&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Rooms &amp; PG for rent in Marathahalli"> Rooms &amp; PG for rent in Marathahalli</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/bangalore/HSR%20Layout/?&amp;nbPlace=ChIJzW7cv5EUrjsRecj7OYRxMvI&amp;lat_lng=12.9081357,77.64760799999999&amp;sharedAccomodation=1&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Rooms &amp; PG for rent in HSR Layout"> Rooms &amp; PG for rent in HSR Layout</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/bangalore/Whitefield/?&amp;nbPlace=ChIJg_wNXfMRrjsR-RUB2BKlzzA&amp;lat_lng=12.9697999,77.74994670000001&amp;sharedAccomodation=1&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Rooms &amp; PG for rent in Whitefield"> Rooms &amp; PG for rent in Whitefield</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/bangalore/Indiranagar/?&amp;nbPlace=ChIJkQN3GKQWrjsRNhBQJrhGD7U&amp;lat_lng=12.9718915,77.6411545&amp;sharedAccomodation=1&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Rooms &amp; PG for rent in Indira Nagar"> Rooms &amp; PG for rent in Indira Nagar</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/bangalore/Bellandur/?&amp;nbPlace=ChIJL-k0LnUTrjsRrmqYb6Y0ssI&amp;lat_lng=12.9287597,77.6749863&amp;sharedAccomodation=1&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Rooms &amp; PG for rent in Bellandur"> Rooms &amp; PG for rent in Bellandur</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/bangalore/Chandra%20Layout/?&amp;nbPlace=ChIJIdFn43k-rjsRaNKMszvIlMU&amp;lat_lng=12.9589673,77.5268306&amp;sharedAccomodation=1&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Rooms &amp; PG for rent in Chandra Layout"> Rooms &amp; PG for rent in Chandra Layout</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/bangalore/J.%20P.%20Nagar/?&amp;nbPlace=ChIJK6dJcw0VrjsRRj3d4aE-0PM&amp;lat_lng=12.910491,77.5857168&amp;sharedAccomodation=1&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Rooms &amp; PG for rent in J. P. Nagar"> Rooms &amp; PG for rent in J. P. Nagar</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/bangalore/BTM%20Layout/?&amp;nbPlace=ChIJMTCpkfwUrjsRP9zLdiXmr_A&amp;lat_lng=12.9165757,77.6101163&amp;sharedAccomodation=1&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Rooms &amp; PG for rent in BTM Layout"> Rooms &amp; PG for rent in BTM Layout</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/bangalore/Jayanagar/?&amp;nbPlace=ChIJ2ddlZ5gVrjsRh1BOAaf-ors&amp;lat_lng=12.9250074,77.59380280000005&amp;sharedAccomodation=1&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Rooms &amp; PG for rent in Jayanagar"> Rooms &amp; PG for rent in Jayanagar</a></p>
+</div>
+<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+<h3><a class="sitemap-footer-header" href="http://www.nobroker.in/property/rent/mumbai/Mumbai/?&amp;nbPlace=ChIJwe1EZjDG5zsRaYxkjY_tpF0&amp;lat_lng=19.0759837,72.87765590000004&amp;sharedAccomodation=1&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Rooms &amp; PG in Mumbai"> Rooms &amp; PG in Mumbai</a></h3>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/mumbai/Andheri%20West/?&amp;nbPlace=ChIJ3ZHYthi25zsRMtExx1eo-JE&amp;lat_lng=19.1363246,72.82766&amp;sharedAccomodation=1&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Rooms &amp; PG for rent in Andheri West"> Rooms &amp; PG for rent in Andheri West</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/mumbai/Andheri%20East/?&amp;nbPlace=ChIJMbHfQRu25zsRMazdY3UpaKY&amp;lat_lng=19.1154908,72.87269519999995&amp;sharedAccomodation=1&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Rooms &amp; PG for rent in Andheri East"> Rooms &amp; PG for rent in Andheri East</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/mumbai/Malad%20West/?&amp;nbPlace=ChIJ5ajjT5G25zsR1LlNnBBk8nM&amp;lat_lng=19.1827551,72.84015390000002&amp;sharedAccomodation=1&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Rooms &amp; PG for rent in Malad West"> Rooms &amp; PG for rent in Malad West</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/mumbai/Navi%20Mumbai/?&amp;nbPlace=ChIJrRMfuPC55zsRafiFEWj3Ejw&amp;lat_lng=19.0330488,73.02966249999997&amp;sharedAccomodation=1&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Rooms &amp; PG for rent in Navi Mumbai"> Rooms &amp; PG for rent in Navi Mumbai</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/mumbai/Powai/?&amp;nbPlace=ChIJQ3sdHAjI5zsRZuOLS8UA8bo&amp;lat_lng=19.1196773,72.90508090000003&amp;sharedAccomodation=1&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Rooms &amp; PG for rent in Powai"> Rooms &amp; PG for rent in Powai</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/mumbai/Thane%20West/?&amp;nbPlace=ChIJ640aCBK55zsRifpsEySY2uM&amp;lat_lng=19.2266605,72.98383660000002&amp;sharedAccomodation=1&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Rooms &amp; PG for rent in Thane West"> Rooms &amp; PG for rent in Thane West</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/mumbai/Mira%20Road%20East/?&amp;nbPlace=ChIJiyn3jEWw5zsRISvf6TnYjkY&amp;lat_lng=19.2871393,72.8688419&amp;sharedAccomodation=1&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Rooms &amp; PG for rent in Mira Road East"> Rooms &amp; PG for rent in Mira Road East</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/mumbai/Kharghar/?&amp;nbPlace=ChIJgwvjUxrC5zsR1wl3aJ-yZqc&amp;lat_lng=19.0473216,73.06990459999997&amp;sharedAccomodation=1&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Rooms &amp; PG for rent in Kharghar"> Rooms &amp; PG for rent in Kharghar</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/mumbai/Kandivali%20East/?&amp;nbPlace=ChIJiVccSjy35zsRw4EfvasM5JY&amp;lat_lng=19.2114533,72.87372170000003&amp;sharedAccomodation=1&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Rooms &amp; PG for rent in Kandivali East"> Rooms &amp; PG for rent in Kandivali East</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/mumbai/Bandra%20West/?&amp;nbPlace=ChIJe9L4I-HI5zsReGojmrSWeUM&amp;lat_lng=19.0606917,72.83624970000005&amp;sharedAccomodation=1&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Rooms &amp; PG for rent in Bandra West"> Rooms &amp; PG for rent in Bandra West</a></p>
+</div>
+<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+<h3><a class="sitemap-footer-header" href="http://www.nobroker.in/property/rent/chennai/Chennai/?&amp;nbPlace=ChIJYTN9T-plUjoRM9RjaAunYW4&amp;lat_lng=13.0597049,80.2252278&amp;sharedAccomodation=1&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Rooms &amp; PG in Chennai">Rooms &amp; PG in Chennai</a></h3>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/chennai/Velachery/?&amp;nbPlace=ChIJO1oG8p9dUjoRzDhAYBVQQ2Y&amp;lat_lng=12.975971,80.22120919999998&amp;&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Rooms &amp; PG for rent in Velachery"> Rooms &amp; PG for rent in Velachery</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/chennai/Madipakkam/?&amp;nbPlace=ChIJwb06RuldUjoRPZaCWAeCHwc&amp;lat_lng=12.9653632,80.2016539&amp;&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Rooms &amp; PG for rent in Madipakkam"> Rooms &amp; PG for rent in Madipakkam</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/chennai/Chromepet/?&amp;nbPlace=ChIJgV_3zrFfUjoRgPqg6u9vleI&amp;lat_lng=12.9531946,80.14160079999999&amp;&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Rooms &amp; PG for rent in Chromepet"> Rooms &amp; PG for rent in Chromepet</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/chennai/Medavakkam/?&amp;nbPlace=ChIJAQyxKhxcUjoRnLji64v-M48&amp;lat_lng=12.9171427,80.19234890000007&amp;&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Rooms &amp; PG for rent in Medavakkam"> Rooms &amp; PG for rent in Medavakkam</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/chennai/Choolaimedu/?&amp;nbPlace=ChIJXTSqYo5mUjoR7_SCOsHSl3g&amp;lat_lng=13.0614526,80.2236617&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Rooms &amp; PG for rent in Choolaimedu"> Rooms &amp; PG for rent in Choolaimedu</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/chennai/Porur/?&amp;nbPlace=ChIJUY9IkBthUjoRdDAzOzWhZZY&amp;lat_lng=13.03478,80.15585999999996&amp;&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Rooms &amp; PG for rent in Porur"> Rooms &amp; PG for rent in Porur</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/chennai/Pallikaranai/?&amp;nbPlace=ChIJ2f8U_UxcUjoRC2DoKAcFTTs&amp;lat_lng=12.9378968,80.21390789999998&amp;&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Rooms &amp; PG for rent in Pallikaranai"> Rooms &amp; PG for rent in Pallikaranai</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/chennai/Urapakkam/?&amp;nbPlace=ChIJp4BxTUH2UjoRgcHiqUV9W_0&amp;lat_lng=12.8626759,80.06931650000001&amp;&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Rooms &amp; PG for rent in Urapakkam"> Rooms &amp; PG for rent in Urapakkam</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/chennai/Valasaravakkam/?&amp;nbPlace=ChIJK3pd7jBhUjoRIHfG6TzlIi4&amp;lat_lng=13.0484718,80.17749019999997&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Rooms &amp; PG for rent in Valasaravakkam"> Rooms &amp; PG for rent in Valasaravakkam</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/chennai/Thiruvanmiyur/?&amp;nbPlace=ChIJb_w7m1tdUjoRqgv5aXb5WWk&amp;lat_lng=12.9830269,80.2594001&amp;&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Rooms &amp; PG for rent in Thiruvanmiyur"> Rooms &amp; PG for rent in Thiruvanmiyur</a></p>
+</div>
+<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+<h3><a class="sitemap-footer-header" href="http://www.nobroker.in/property/rent/pune/Pune/?&amp;nbPlace=ChIJARFGZy6_wjsRQ-Oenb9DjYI&amp;lat_lng=18.5204303,73.85674369999992&amp;sharedAccomodation=1&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Rooms &amp; PG in Pune"> Rooms &amp; PG in Pune</a></h3>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/pune/Hadapsar/?&amp;nbPlace=ChIJ6arxgf_pwjsRU4usVTU0YCU&amp;lat_lng=18.5089197,73.9260261&amp;sharedAccomodation=1&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Rooms &amp; PG for rent in Hadapsar"> Rooms &amp; PG for rent in Hadapsar</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/pune/Kharadi/?&amp;nbPlace=ChIJlaSLKMPDwjsRSgBjOmEz6Dg&amp;lat_lng=18.5549543,73.944788&amp;sharedAccomodation=1&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Rooms &amp; PG for rent in Kharadi"> Rooms &amp; PG for rent in Kharadi</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/pune/Baner/?&amp;nbPlace=ChIJy9Nd8M--wjsRfat_-5cSkaE&amp;lat_lng=18.5596581,73.7799374&amp;sharedAccomodation=1&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Rooms &amp; PG for rent in Baner"> Rooms &amp; PG for rent in Baner</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/pune/Kothrud/?&amp;nbPlace=ChIJnYSvMre_wjsR8ET-s0iLB9Q&amp;lat_lng=18.5073985,73.80765040000006&amp;sharedAccomodation=1&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Rooms &amp; PG for rent in Kothrud"> Rooms &amp; PG for rent in Kothrud</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/pune/Hinjawadi/?&amp;nbPlace=ChIJ7xsESMC7wjsR5d7Dw1rrydA&amp;lat_lng=18.597059,73.71882329999994&amp;sharedAccomodation=1&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Rooms &amp; PG for rent in Hinjawadi"> Rooms &amp; PG for rent in Hinjawadi</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/pune/Wakad/?&amp;nbPlace=ChIJ7RtXr3q5wjsRc2anpWs0Zww&amp;lat_lng=18.5989428,73.76527149999993&amp;sharedAccomodation=1&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Rooms &amp; PG for rent in Wakad"> Rooms &amp; PG for rent in Wakad</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/pune/Wadgaon%20Sheri/?&amp;nbPlace=ChIJWwEUBG_BwjsRnf-bZzHNozk&amp;lat_lng=18.5527193,73.92081699999994&amp;sharedAccomodation=1&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Rooms &amp; PG for rent in Wadgaon"> Rooms &amp; PG for rent in Wadgaon</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/pune/Aundh/?&amp;nbPlace=ChIJzUFgOki_wjsRLTrf2X7gaNk&amp;lat_lng=18.558007,73.80752009999992&amp;sharedAccomodation=1&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Rooms &amp; PG for rent in Aundh"> Rooms &amp; PG for rent in Aundh</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/pune/Pimple%20Saudagar/?&amp;nbPlace=ChIJr13ZDRu5wjsReJmgljduy6Y&amp;lat_lng=18.5934685,73.79291119999993&amp;sharedAccomodation=1&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Rooms &amp; PG for rent in Pimple Saudagar"> Rooms &amp; PG for rent in Pimple Saudagar</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/rent/pune/Bavdhan/?&amp;nbPlace=ChIJ00XTt16-wjsRh5cRhDydEPA&amp;lat_lng=18.5156035,73.78190510000002&amp;sharedAccomodation=1&amp;orderBy=nbRank,desc&amp;radius=1" target="_blank" title="Rooms &amp; PG for rent in Bavdhan"> Rooms &amp; PG for rent in Bavdhan</a></p>
+</div>
+</div>
+<div class="tab-pane fade" id="buy">
+<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+<h3><a class=" sitemap-footer-header" href="http://www.nobroker.in/property/sale/bangalore/Bengaluru/?&amp;nbPlace=ChIJbU60yXAWrjsR4E9-UejD3_g&amp;lat_lng=12.9715987,77.59456269999998&amp;radius=1" target="_blank" title="Flats for Sale in Bangalore">Flats for Sale in Bangalore</a></h3>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/sale/bangalore/Koramangala/?&amp;nbPlace=ChIJLfyY2E4UrjsRVq4AjI7zgRY&amp;lat_lng=12.9279232,77.6271078&amp;radius=1" target="_blank" title="Flats for Sale in Koramangla"> Flats for Sale in Koramangla</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/sale/bangalore/Marathahalli/?&amp;nbPlace=ChIJVwkdVbQTrjsRGUkefteUeFk&amp;lat_lng=12.9591722,77.69741899999997&amp;radius=1" target="_blank" title="Flats for Sale in Marathahalli"> Flats for Sale in Marathahalli</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/sale/bangalore/HSR%20Layout/?&amp;nbPlace=ChIJzW7cv5EUrjsRecj7OYRxMvI&amp;lat_lng=12.9081357,77.64760799999999&amp;radius=1" target="_blank" title="Flats for Sale in HSR Layout"> Flats for Sale in HSR Layout</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/sale/bangalore/Whitefield/?&amp;nbPlace=ChIJg_wNXfMRrjsR-RUB2BKlzzA&amp;lat_lng=12.9697999,77.74994670000001&amp;radius=1" target="_blank" title="Flats for Sale in Whitefield"> Flats for Sale in Whitefield</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/sale/bangalore/Indiranagar/?&amp;nbPlace=ChIJkQN3GKQWrjsRNhBQJrhGD7U&amp;lat_lng=12.9718915,77.6411545&amp;radius=1" target="_blank" title="Flats for Sale in Indira Nagar"> Flats for Sale in Indira Nagar</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/sale/bangalore/Bellandur/?&amp;nbPlace=ChIJL-k0LnUTrjsRrmqYb6Y0ssI&amp;lat_lng=12.9287597,77.6749863&amp;radius=1" target="_blank" title="Flats for Sale in Bellandur"> Flats for Sale in Bellandur</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/sale/bangalore/Chandra%20Layout/?&amp;nbPlace=ChIJIdFn43k-rjsRaNKMszvIlMU&amp;lat_lng=12.9589673,77.5268306&amp;radius=1" target="_blank" title="Flats for Sale in Chandra Layout"> Flats for Sale in Chandra Layout</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/sale/bangalore/J.%20P.%20Nagar/?&amp;nbPlace=ChIJK6dJcw0VrjsRRj3d4aE-0PM&amp;lat_lng=12.910491,77.5857168&amp;radius=1" target="_blank" title="Flats for Sale in J. P. Nagar"> Flats for Sale in J. P. Nagar</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/sale/bangalore/BTM%20Layout/?&amp;nbPlace=ChIJMTCpkfwUrjsRP9zLdiXmr_A&amp;lat_lng=12.9165757,77.6101163&amp;radius=1" target="_blank" title="Flats for Sale in BTM Layout"> Flats for Sale in BTM Layout</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/sale/bangalore/Jayanagar/?&amp;nbPlace=ChIJ2ddlZ5gVrjsRh1BOAaf-ors&amp;lat_lng=12.9250074,77.59380280000005&amp;radius=1" target="_blank" title="Flats for Sale in Jayanagar"> Flats for Sale in Jayanagar</a></p>
+</div>
+<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+<h3><a class="sitemap-footer-header" href="http://www.nobroker.in/property/sale/mumbai/Mumbai/?&amp;nbPlace=ChIJwe1EZjDG5zsRaYxkjY_tpF0&amp;lat_lng=19.0759837,72.87765590000004&amp;radius=1" target="_blank" title="Flats for Sale in Mumbai"> Flats for Sale in Mumbai</a></h3>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/sale/mumbai/Andheri%20West/?&amp;nbPlace=ChIJ3ZHYthi25zsRMtExx1eo-JE&amp;lat_lng=19.1363246,72.82766&amp;radius=1" target="_blank" title="Flats for Sale in Andheri West"> Flats for Sale in Andheri West</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/sale/mumbai/Andheri%20East/?&amp;nbPlace=ChIJMbHfQRu25zsRMazdY3UpaKY&amp;lat_lng=19.1154908,72.87269519999995&amp;radius=1" target="_blank" title="Flats for Sale in Andheri East"> Flats for Sale in Andheri East</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/sale/mumbai/Malad%20West/?&amp;nbPlace=ChIJ5ajjT5G25zsR1LlNnBBk8nM&amp;lat_lng=19.1827551,72.84015390000002&amp;radius=1" target="_blank" title="Flats for Sale in Malad West"> Flats for Sale in Malad West</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/sale/mumbai/Navi%20Mumbai/?&amp;nbPlace=ChIJrRMfuPC55zsRafiFEWj3Ejw&amp;lat_lng=19.0330488,73.02966249999997&amp;radius=1" target="_blank" title="Flats for Sale in Navi Mumbai"> Flats for Sale in Navi Mumbai</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/sale/mumbai/Powai/?&amp;nbPlace=ChIJQ3sdHAjI5zsRZuOLS8UA8bo&amp;lat_lng=19.1196773,72.90508090000003&amp;radius=1" target="_blank" title="Flats for Sale in Powai"> Flats for Sale in Powai</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/sale/mumbai/Thane%20West/?&amp;nbPlace=ChIJ640aCBK55zsRifpsEySY2uM&amp;lat_lng=19.2266605,72.98383660000002&amp;radius=1" target="_blank" title="Flats for Sale in Thane West"> Flats for Sale in Thane West</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/sale/mumbai/Mira%20Road%20East/?&amp;nbPlace=ChIJiyn3jEWw5zsRISvf6TnYjkY&amp;lat_lng=19.2871393,72.8688419&amp;radius=1" target="_blank" title="Flats for Sale in Mira Road East"> Flats for Sale in Mira Road East</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/sale/mumbai/Kharghar/?&amp;nbPlace=ChIJgwvjUxrC5zsR1wl3aJ-yZqc&amp;lat_lng=19.0473216,73.06990459999997&amp;radius=1" target="_blank" title="Flats for Sale in Kharghar"> Flats for Sale in Kharghar</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/sale/mumbai/Kandivali%20East/?&amp;nbPlace=ChIJiVccSjy35zsRw4EfvasM5JY&amp;lat_lng=19.2114533,72.87372170000003&amp;radius=1" target="_blank" title="Flats for Sale in Kandivali East"> Flats for Sale in Kandivali East</a></p>
+<p><a class="sitemap-footer-content" href="http://www.nobroker.in/property/sale/mumbai/Bandra%20West/?&amp;nbPlace=ChIJe9L4I-HI5zsReGojmrSWeUM&amp;lat_lng=19.0606917,72.83624970000005&amp;radius=1" target="_blank" title="Flats for Sale in Bandra West"> Flats for Sale in Bandra West</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-1 col-lg-1"></div>
 <div class="row">
 <div class="col-md-offset-4 col-md-4" style="border-top:1px solid grey;padding:7px 0;color:white;">
 <center>© 2013-15 NoBroker.in
 </center></div>
 </div>
+</div>
+</div>
 </footer>
 <script type="text/javascript" src="//d3snwcirvb4r88.cloudfront.net/static/lib/lib-min1.js"></script>
 <script type="text/javascript" src="//d3snwcirvb4r88.cloudfront.net/static/lib/polyfiller.js"></script>
-<script type="text/javascript" src="//d3snwcirvb4r88.cloudfront.net/static/lib/util-min43.js"></script>
-<script type="text/javascript" src="//d3snwcirvb4r88.cloudfront.net/static/lib/nobrokerloader-min33.js"></script>
-<script type="text/javascript" src="//d3snwcirvb4r88.cloudfront.net/static/lib/google-events-min10.js"></script>
+<!--<script type="text/javascript" src="//d3snwcirvb4r88.cloudfront.net/static/lib/util.js"></script>
+-->
+<script type="text/javascript" src="//d3snwcirvb4r88.cloudfront.net/static/lib/util-main.min1445245679110.js"></script>
+<script type="text/javascript" src="//d3snwcirvb4r88.cloudfront.net/static/lib/nobroker-loader.min1444659348268.js"></script>
+<script type="text/javascript" src="//d3snwcirvb4r88.cloudfront.net/static/lib/google-events.min1444153890485.js"></script>
 <script type="text/javascript" src="//d3snwcirvb4r88.cloudfront.net/static/lib/jReject-min.js"></script>
 <!-- footer starts-->
 <!-- if requested page is authorized, show login-->
@@ -795,6 +1533,7 @@ $('.tooltips').tooltip();
 function sendAppDownloadLink(){
 $('#appMobileError').hide();
 if(validatePhoneNumber()){
+ga('send', 'event', 'AndroidApp', 'click' , 'Download now button on download app modal ' + $('#appMobileNumber').val());
 $.post('/sendAppSMS?mobile='+$('#appMobileNumber').val());
 $('#appDownloadContent').text('Please follow the link on sms to download the app');
 }else{
@@ -849,13 +1588,9 @@ mode: 'contact', // contact, smartvote, or satisfaction
 menu_enabled: false, // Defaults to false for custom triggers, embedded widgets, autoprompts, and the show method
 }]);
 </script-->
-<!--script async>
-UserVoice.push(['identify', {
-email: '43hi.me@gmail.com',
-name:'Abhilash'
-}]);
-</script-->
 <script type="text/javascript">
+var loggedinUserId = "";
+//Initialize socket
 function validatePhoneNumber() {
 var phoneNumber = $('#appMobileNumber').val(),
 phoneNumRegex = /^\d{10}$/;
@@ -875,6 +1610,10 @@ if(!(targetEl.parents("div[class='wrapper-demo']").length)) {
 $('#nbCitySelector').removeClass('active')
 $('#nbBHKSelector').removeClass('active')
 }
+});
+$("#messageInbox").on("click",function(){
+// window.location.href = "";
+// onInboxClick($(this).data('userid'));
 });
 $('.headerSocial').on('click', function () {
 //add event
@@ -913,14 +1652,9 @@ return unescape(y)
 }
 return null
 }
-$(function(){
-var cookie = getCookie('mobile-banner');
-if(cookie){
-}else{
-setCookie('mobile-banner', true, 1);
-$('#mobileApp').modal('show');
+function modalhidefunction(){
+$('#mobileApp').modal('hide');
 }
-});
 </script>
 <!--google remarketing tag-->
 <script type="text/javascript">
@@ -945,5 +1679,16 @@ var google_remarketing_only = true;
 </div>
 </noscript>
 <!--uv int ends-->
+<script type="text/javascript" src="//d3snwcirvb4r88.cloudfront.net/static/lib/timeago-min.js"></script>
+<script type="text/javascript">
+$('#phone_ver').bind("keyup keypress", function(e) {
+var code = e.keyCode || e.which;
+if (code == 13) {
+e.preventDefault();
+//call our method
+verifyPhone();
+}
+});
+</script>
 
 </body></html>
