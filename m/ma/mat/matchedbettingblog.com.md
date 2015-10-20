@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the matchedbettingblog.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321131018id_/http%3A//matchedbettingblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matchedbettingblog.com privacy policy that was archived on 2015-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151020125837id_/http%3A//matchedbettingblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Matched Betting Blog
 
