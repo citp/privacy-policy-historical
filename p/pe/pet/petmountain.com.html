@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the petmountain.com privacy policy that was archived on 2015-05-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150506222404id_/http%3A//www.petmountain.com/content/4/secure-shopping-privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the petmountain.com privacy policy that was archived on 2015-10-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151020202450id_/http%3A//www.petmountain.com/content/4/secure-shopping-privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
 <title>
@@ -25,7 +25,7 @@
 <link rel="canonical" href="http://www.petmountain.com/content/4/secure-shopping-privacy.html">
 
 
-    <script type="text/javascript" async="" src="https://vmss.boldchat.com/aid/7371496673391179132/bc.vms4/vms.js"></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/gtmp_compiled.js"></script><script type="text/javascript" async="" src="https://cc.chango.com/static/o.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="https://d3m83gvgzupli.cloudfront.net/webEvent/cywevent.js?servicecode=AD45921755" type="text/javascript"></script>
+    <script type="text/javascript" async="" src="https://vmss.boldchat.com/aid/7371496673391179132/bc.vms4/vms.js"></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/gtmp_compiled.js"></script><script src="https://s.yimg.com/wi/ytc.js" async=""></script><script src="//bat.bing.com/bat.js" async=""></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://d3m83gvgzupli.cloudfront.net/webEvent/cywevent.js?servicecode=AD45921755" type="text/javascript"></script>
 
 	<script type="text/javascript" src="http://www.petmountain.com/Public/Scripts/jquery-1.10.2.min.js"></script>
 	<script type="text/javascript" src="http://www.petmountain.com/Public/Scripts/jquery-migrate-1.2.1.min.js"></script>
@@ -37,6 +37,19 @@ jQuery.noConflict();
 <script src="http://www.petmountain.com/Scripts/Shop.js" type="text/javascript"></script>
     <script src="http://www.petmountain.com/Public/Scripts/jquery.lazyload.js" type="text/javascript"></script>
 
+
+
+
+<script type="text/javascript">
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-2918923-1');
+ga('send', 'pageview');
+</script>
 
 <script type="text/javascript">
 function IncludeJavaScript(jsFile, onLoadCallback) {
@@ -63,141 +76,13 @@ $j(document).ready(function() {
 		effect: 'fadeIn',
 		placeholder: "http://www.petmountain.com/Public/Images/white.gif"
 	});
-});
-</script>
-
-<script type="text/javascript">
-function set_fade_timer(){
-	t = setTimeout("disable_subscribe_pop()", 15000);
-}
-
-function disable_subscribe_pop(){
-	$j("#resp_div_signup").fadeOut("slow");
-	$j("#backgroundDiv").fadeOut("slow");
-	$j("#resp_div_signup").fadeOut("slow");
-	$j("#email_address_24").val("");
-	$j("#resp_div_signup").css("background", "#FFFFFF");
-	if(typeof t != "undefined"){
-		clearTimeout(t);
-	}
-}
-
-function enable_subscribe_pop(){
-	var windowHeight = document.documentElement.clientHeight;
-	var windowWidth = document.documentElement.clientWidth;
-	$j("#resp_div_signup").html($j("#resp_div_process_pop").html());
-	$j("#resp_div_signup").fadeIn("slow");
-	$j("#backgroundDiv").css({"height": windowHeight});
-	$j("#backgroundDiv").css({"width": windowWidth});
-	$j("#backgroundDiv").fadeIn("slow");
-}
-
-function checksubscription(){
-	var email_address = document.getElementById("email_address_24").value;
-	var email_signup = document.getElementById("email_signup_24").value;
-		
-    var re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
-    var emailValid = re.test(email_address);
-	if (window.XMLHttpRequest){
-		xmlhttp_subscribe =new XMLHttpRequest();
-	}
-	else{
-		xmlhttp_subscribe = new ActiveXObject("Microsoft.XMLHTTP");
-	}
-	
-	xmlhttp_subscribe.onreadystatechange=function(){
-		if(xmlhttp_subscribe.readyState==4 && xmlhttp_subscribe.status==200){
-			var resp_div = document.getElementById("resp_div_signup");
-			resp_div.innerHTML = xmlhttp_subscribe.responseText;
-			set_fade_timer();
-		}
-	}
-	
-	xmlhttp_subscribe.open("POST","http://www.petmountain.com/Shop/EmailNotification/Confirmation.php",true);
-	xmlhttp_subscribe.setRequestHeader("Content-type","application/x-www-form-urlencoded");
-	xmlhttp_subscribe.send("email_signup="+email_signup+"&address="+email_address);
-    if (typeof(resx) !== "undefined" && emailValid && typeof(certonaResx) !== "undefined" && ("".length <= 0) ){
-		document.cookie = 'resxemail=; expires=Thu, 01 Jan 1970 00:00:01 GMT; Path=/;';
-    	document.cookie="resxemail="+email_address+"; expires" + "1432247044; path=" + "";
-        resx.customerid = email_address;
-        certonaResx.run();
-    } 		
-	enable_subscribe_pop();	
-}
-</script>
-
-<script type="text/javascript">
-$j(document).ready(function() {
-	var searchInputs = document.getElementsByName('s');
-	for (var i = 0; i < searchInputs.length; ++i) {
-		if ( (!searchInputs[i].placeholder) && !($j(searchInputs[i]).hasClass('no-mod-gcs')) ) {
-			if (searchInputs[i].getAttribute('placeholder')) {
-				searchInputs[i].placeholder = searchInputs[i].getAttribute('placeholder');
-			} else {
-				searchInputs[i].placeholder = searchInputs[i].value;
-			}
-		}
-		if ( (supportsInputPlaceholder) && !($j(searchInputs[i]).hasClass('no-mod-gcs')) ) {
-			searchInputs[i].value = '';
-		}
-		searchInputs[i].onclick = function(){};
-		setInputPlaceholderFallback(searchInputs[i]);
-		var form = searchInputs[i].form;
-		if (!form.action.match(/search/))
-			continue;
-		searchInputs[i].setAttribute('autocomplete', 'off');
-		searchInputs[i].setAttribute('spellcheck', 'false');
-				form.action = form.action.replace('search', 'searchx');
-	}
-});
-</script>
-
-<script type="text/javascript">
-var gcsLoadCallback = function() {
-	$j(document).ready(function() {
-		var cse_id = '006787088747114277952:hmjq3gmjkqc';
-		var searchInputs = document.getElementsByName('s');
-		var formCount = 0;
-		for (var i = 0; i < searchInputs.length; ++i) {
-			var form = searchInputs[i].form;
-			if (!form.action.match(/searchx/))
-				continue;
-			if (!form.id.length) {
-				form.id = 'searchForm'+formCount;
-				formCount++;
-			}
-			google.search.CustomSearchControl.attachAutoCompletion(
-				cse_id,
-				searchInputs[i],
-				form.id
-			);
-		}
-	});
-};
-IncludeJavaScript("http://www.google.com/jsapi?autoload=%7B%22modules%22%3A%5B%7B%22name%22%3A%22search%22%2C%22version%22%3A1%2C%22callback%22%3A%22gcsLoadCallback%22%7D%5D%7D");
-</script><script type="text/javascript" async="" src="http://www.google.com/jsapi?autoload=%7B%22modules%22%3A%5B%7B%22name%22%3A%22search%22%2C%22version%22%3A1%2C%22callback%22%3A%22gcsLoadCallback%22%7D%5D%7D"></script>
-
-<style type="text/css">
-.gsc-completion-container{z-index:10000005}
-</style>
-
-
-    <script type="text/javascript">
-      var _gaq = _gaq || [];
-      _gaq.push(['_setAccount', 'UA-2918923-1']);
-      _gaq.push(['_trackPageview']);
-
-     (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-      })();
-
+    });
 </script>
 
 
 
 
+<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"4047069"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=4047069&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript><script type="application/javascript">(function(w,d,t,r,u){w[u]=w[u]||[];w[u].push({'projectId':'10001901453009','properties':{'pixelId':'35327'}});var s=d.createElement(t);s.src=r;s.async=true;s.onload=s.onreadystatechange=function(){var y,rs=this.readyState,c=w[u];if(rs&&rs!="complete"&&rs!="loaded"){return}try{y=YAHOO.ywa.I13N.fireBeacon;w[u]=[];w[u].push=function(p){y([p])};y(c)}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr)})(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");</script>
 
 
 <meta name="p:domain_verify" content="ae1c79f2992a5919ba9f9e1389b22699">
@@ -205,8 +90,8 @@ IncludeJavaScript("http://www.google.com/jsapi?autoload=%7B%22modules%22%3A%5B%7
 <script type="text/javascript" src="/store_image/site/jquery.mmenu.4.2.1.min.js"></script><link href="/Public/Scripts/fancybox/jquery.fancybox-1.3.4.css" rel="stylesheet" type="text/css">
 <script type="text/javascript">
 IncludeJavaScript("/Public/Scripts/fancybox/fancybox.2.1.5/jquery.fancybox.pack.js",function() {
-	jQuery(document).ready(function() {
-		jQuery(".reviewM").fancybox({
+	$j(document).ready(function() {
+		$j(".reviewM").fancybox({
 			'padding'	: '0',
 			'centerOnScroll'	:'true',
 			'height'			:'600',
@@ -262,80 +147,19 @@ $j('.reviewM').fancybox({
 <div class="header_marea1">
 <ul class="menu_header1">
     <li style="display:none" id="customer_message"></li>
-        <li class="header_nav_view_shopping_cart" id="header_li156"><a href="https://www.petmountain.com/cart" class="content_tab"><span>View Shopping Cart</span></a></li>
+        <li class="header_nav_shopping_cart" id="header_li156"><a href="https://www.petmountain.com/cart" class="content_tab"><span>Shopping Cart</span></a></li>
             <li class="header_nav_1_888_373_8686" id="header_li153"><a href="http://www.petmountain.com/contact" class="content_tab"><span>1-888-373-8686</span></a></li>
             <li class="header_nav_contact_us" id="header_li8"><a href="http://www.petmountain.com/content/8/contact-us.html" class="content_tab"><span>Contact Us</span></a></li>
             <li class="header_nav_wish_list" id="header_li63"><a href="http://www.petmountain.com/wishlist" class="content_tab"><span>Wish List</span></a></li>
-            <li class="header_nav_order_status last_item" id="header_li38"><a href="https://www.petmountain.com/order-status" class="content_tab"><span>Order Status</span></a></li>
+            <li class="header_nav_order_status" id="header_li38"><a href="https://www.petmountain.com/order-status" class="content_tab"><span>Order Status</span></a></li>
+            <li class="header_nav_coupons last_item" id="header_li189"><a href="http://www.petmountain.com/content/169/10-off-email-sign-up.html" class="content_tab"><span>Coupons</span></a></li>
         </ul></div><div class="header_marea2"><ul class="menu_header2">    <li class="cart" id="header_li68"><div id="shopping_cart_area"><a href="http://www.petmountain.com/cart" id="shop_cart_link" class="content_tab"><span>Shopping Cart</span></a></div></li>
     
 </ul>
 </div>
 </form>
 <script type="text/javascript">MemberMessage();</script>
-<style>
-#welcomeMPM2 {width:640px; padding:20px; color:#000; text-align:center;}
-#welcomeMPM2 .blue {color:#23a2db; font-weight:bold;}
-.welcome-offer {display:table; margin:0 auto; padding:5px 10px; color:#fff; font-size:250%; font-weight:bold; background:#000;}
-.welcome-direct {font-size:200%;}
-.welcome-10 {font-size:1000%; font-weight:bold;}
-.welcome-why {font-size:120%;}
-#welcomeMPM2 form {width:640px; margin:20px auto;}
-#welcomeMPM2 .Putter {height:70px; background:#f0f0f0; border:1px solid #666; box-shadow:inset 0 5px 10px 0 rgba(175,175,175,.75)}
-#welcomeMPM2 .Put.PutEMAIL {width:100%; height:70px; margin:0; padding:0; font-size:36px; line-height:70px; text-align:center; background:none; border:none;}
-#welcomeMPM2 button {width:100%; height:88px; margin:10px 0 0; padding:0; color:#fff; font-size:56px; line-height:88px; text-align:center; cursor:pointer; background:#23a2db; border:none;}
-#welcomeMPM2 button .black {color:#000;}
-.welcome-no {font-size:200%; font-style:italic; text-decoration:underline;}
-.welcome-deet {margin:5px 0 0; font-size:85%;}
 
-@media (max-width:767px) {
-#welcomeMPM2 {width:256px; padding:10px;}
-.welcome-offer {font-size:140%;}
-.welcome-direct {font-size:110%;}
-.welcome-10 {font-size:400%;}
-#welcomeMPM2 form {width:240px;}
-#welcomeMPM2 .Putter {height:40px;}
-#welcomeMPM2 .Put.PutEMAIL {height:40px; font-size:14px; line-height:40px;}
-#welcomeMPM2 button {height:40px; font-size:18px; line-height:40px;}
-.welcome-no {font-size:150%;}
-.welcome-deet {display:none;}
-}
-</style>
-
-<script>
-function welcomeSignup(){
-	$j('#email_address_24').val($j('#email_address_24_welcome').val());
-	$j('.fancybox-close').click();
-	$j('#email_signup_24').click();
-}
-</script>
-
-<div class="tc_ghost">
-
-<a id="welcometrigPM2" href="#welcomeMPM2">Welcome to PetMountain!</a>
-
-<div id="welcomeMPM2">
-	<div class="welcome-offer">NEW CUSTOMER OFFER</div>
-	<div class="welcome-direct"><span class="blue">---- </span> enter email below to get <span class="blue"> ----</span></div>
-	<div class="welcome-10">10% OFF</div>
-	<div class="welcome-why">your next purchase <span class="blue">+</span> access to exclusive deals <span class="blue">+</span> fun pet tips down the road</div>
-	<form name="confirmation_welcome" id="confirmWelcome">
-		<div class="Putter">
-			<input id="email_address_24_welcome" type="email" name="address" placeholder="ENTER EMAIL HERE" value="" class="Put PutEMAIL" onkeypress="javascript:if(event.keyCode == 13 || event.which == 13) {document.getElementById('email_signup_24_welcome').click(); return false;}">
-		</div>
-		<input class="tc_ghost Submit SubmitEMAIL" type="submit" name="go" value="Go">
-		<button type="button" onclick="welcomeSignup();" name="bootonpop" id="email_signup_24_welcome">
-			GET MY <b>10% OFF <span class="black">&gt;</span></b>
-		</button>
-		<input id="em-pop-sub" name="email_signup" value="Go" type="hidden">
-	</form>
-	<div class="welcome-no">
-		<a href="#" onclick="jQuery.fancybox.close(); return false;">No Thanks, my pet is spoiled enough.</a>
-	</div>
-	<div class="welcome-deet">*Get 10% off your 1st purchase - max discount $10. This offer is valid for first-time email subscribers only and expires at the end of the month. To take advantage of this offer, enter your email address before closing this window to receive your 10% off coupon code in your inbox. Cannot be combined with other codes.</div>
-</div>
-
-</div>
 </div>
 </div>
 <div id="header_banners">        <div id="header_banner1" class="">
@@ -389,7 +213,7 @@ function refreshCategory() {
 				$j(this).find('.pricing').clone().appendTo('.feed_td');
 				$j(this).find('.rating_set').clone().appendTo('.feed_td');
 				//special treats
-				if ($j(this).find('.product-tag-name-add-to-cart-for-price').length) {
+				if ($j(this).find('.product-tag-name-add-to-cart-for-price').length && !$j(this).find('.brand_name a span').html() == 'Hikari') {
 					$j('.feed_td').addClass('special-price');
 				}
 				//
@@ -482,21 +306,9 @@ var WRInitTime=(new Date()).getTime();
         	<div class="caption"></div></div></div><div class="tc_ghost"><div><div>
 
 <div class="the-category-banner">
-	<img class="tc_rsp" src="/content/2015BANNER.gif" border="0" width="700" height="100">
+	<img class="tc_rsp" src="/content/060815BANNER.gif" border="0" width="700" height="100">
 </div></div>        </div>
                 <div id="header_banner4" class="">
-        	<div class="caption"><script type="text/javascript">
-    var __cho__ = {"pid":3776,"puid2":"[PUID]"};
-    (function() {
-        var c = document.createElement('script');
-        c.type = 'text/javascript';
-        c.async = true;
-        c.src = document.location.protocol + '//cc.chango.com/static/o.js';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(c, s);
-    })();
-</script></div>        </div>
-                <div id="header_banner5" class="">
         	<div class="caption"></div></div></div>
 <div class="tc_ghost"><div><div>
 
@@ -523,8 +335,8 @@ var WRInitTime=(new Date()).getTime();
 </style>
 
 <div class="shippingBar no-checkout">
-	<h3><a href="/content/37/shipping-rates.html">FREE SHIPPING</a></h3>
-	<p><a href="/content/37/shipping-rates.html">on orders $75+</a></p>
+	<h3><a href="/content/37/shipping-policy.html">FREE SHIPPING</a></h3>
+	<p><a href="/content/37/shipping-policy.html">on orders $75+</a></p>
 </div>
 
 
@@ -533,13 +345,15 @@ var WRInitTime=(new Date()).getTime();
 		<li><a href="/home">Home</a></li>
 		<li><a href="/Shop/Customer/Login?Page=Shop/Customer/Account">My Account</a></li>
 		<li><a href="/contact">Contact Us</a></li>
+		<li><a href="/content/169/10-off-email-sign-up.html">Coupons</a></li>
+		<li><a href="/content/184/refer-a-friend-get-10-.html">Refer A Friend, Get $10</a></li>
 	</ul>
 </nav></div>        </div>
         </div>
 	<div class="tab_area">
 	<div id="tabs">
 	<ul style="width:px" id="meu" class="clearfix">
-	<li id="tab-id-13" class="shop_tab"><a href="http://www.petmountain.com/category/13/1/dog.html" class="shop_tab"><span>DOG</span></a><div id="tab_container_13"><ul id="tab_content_13"><li id="tab-id-1424"><a href="http://www.petmountain.com/category/1424/1/new-dog-puppy-store.html"><span>New Dog &amp; Puppy Store</span></a></li><li id="tab-id-29"><a href="http://www.petmountain.com/category/29/1/dog-treats.html"><span>Dog Treats</span></a></li><li id="tab-id-28"><a href="http://www.petmountain.com/category/28/1/dog-housetraining-aids.html"><span>Dog Housetraining Aids</span></a></li><li id="tab-id-373"><a href="http://www.petmountain.com/category/373/1/dog-training.html"><span>Dog Training</span></a></li><li id="tab-id-33"><a href="http://www.petmountain.com/category/33/1/dog-toys.html"><span>Dog Toys</span></a></li><li id="tab-id-15"><a href="http://www.petmountain.com/category/15/1/dog-grooming.html"><span>Dog Grooming</span></a></li><li id="tab-id-41"><a href="http://www.petmountain.com/category/41/1/dog-beds.html"><span>Dog Beds</span></a></li><li id="tab-id-26"><a href="http://www.petmountain.com/category/26/1/dog-crates-pens-kennels-carriers.html"><span>Dog Crates, Pens, Kennels &amp; Carriers</span></a></li><li id="tab-id-1284"><a href="http://www.petmountain.com/category/1284/1/dog-gift-box.html"><span>Dog Gift Box</span></a></li><li id="tab-id-221"><a href="http://www.petmountain.com/category/221/1/dog-health-care.html"><span>Dog Health Care</span></a></li><li id="tab-id-56"><a href="http://www.petmountain.com/category/56/1/dog-apparel.html"><span>Dog Apparel</span></a></li><li id="tab-id-548"><a href="http://www.petmountain.com/category/548/1/dog-feeders-waterers.html"><span>Dog Feeders &amp; Waterers</span></a></li><li id="tab-id-712"><a href="http://www.petmountain.com/category/712/1/dog-gates.html"><span>Dog Gates</span></a></li><li id="tab-id-214"><a href="http://www.petmountain.com/category/214/1/dog-stain-odor-control.html"><span>Dog Stain &amp; Odor Control</span></a></li><li id="tab-id-502"><a href="http://www.petmountain.com/category/502/1/dog-doors-accessories.html"><span>Dog Doors &amp; Accessories</span></a></li><li id="tab-id-569"><a href="http://www.petmountain.com/category/569/1/dog-flea-tick.html"><span>Dog Flea &amp; Tick</span></a></li><li id="tab-id-222"><a href="http://www.petmountain.com/category/222/1/dog-poop-cleaning-supplies.html"><span>Dog Poop Cleaning Supplies</span></a></li><li id="tab-id-740"><a href="http://www.petmountain.com/category/740/1/dog-leads-leashes.html"><span>Dog Leads &amp; Leashes</span></a></li><li id="tab-id-31"><a href="http://www.petmountain.com/category/31/1/dog-feeding-accessories.html"><span>Dog Feeding Accessories</span></a></li><li id="tab-id-54"><a href="http://www.petmountain.com/category/54/1/dog-collars.html"><span>Dog Collars</span></a></li><li id="tab-id-35"><a href="http://www.petmountain.com/category/35/1/dog-travel-gear.html"><span>Dog Travel Gear</span></a></li><li id="tab-id-53"><a href="http://www.petmountain.com/category/53/1/dog-houses.html"><span>Dog Houses</span></a></li><li id="tab-id-208"><a href="http://www.petmountain.com/category/208/1/dog-tie-out-stakes.html"><span>Dog Tie-Out Stakes</span></a></li><li id="tab-id-1231"><a href="http://www.petmountain.com/category/1231/1/puppy-supply-center.html"><span>Puppy Supply Center</span></a></li><li id="tab-id-391"><a href="http://www.petmountain.com/category/391/1/dog-id-tags.html"><span>Dog ID Tags</span></a></li><li id="tab-id-231"><a href="http://www.petmountain.com/category/231/1/dog-books.html"><span>Dog Books</span></a></li><li id="tab-id-520"><a href="http://www.petmountain.com/category/520/1/organic-dog-supplies.html"><span>Organic Dog Supplies</span></a></li><li id="tab-id-58"><a href="http://www.petmountain.com/category/58/1/dog-harnesses.html"><span>Dog Harnesses</span></a></li><li id="tab-id-207"><a href="http://www.petmountain.com/category/207/1/dog-muzzles.html"><span>Dog Muzzles</span></a></li><li id="tab-id-1336"><a href="http://www.petmountain.com/category/1336/1/dog-water-safety.html"><span>Dog Water Safety</span></a></li></ul>
+	<li id="tab-id-13" class="shop_tab"><a href="http://www.petmountain.com/category/13/1/dog.html" class="shop_tab"><span>DOG</span></a><div id="tab_container_13"><ul id="tab_content_13"><li id="tab-id-1424"><a href="http://www.petmountain.com/category/1424/1/new-dog-puppy-store.html"><span>New Dog &amp; Puppy Store</span></a></li><li id="tab-id-29"><a href="http://www.petmountain.com/category/29/1/dog-treats.html"><span>Dog Treats</span></a></li><li id="tab-id-28"><a href="http://www.petmountain.com/category/28/1/dog-housetraining-aids.html"><span>Dog Housetraining Aids</span></a></li><li id="tab-id-373"><a href="http://www.petmountain.com/category/373/1/dog-training.html"><span>Dog Training</span></a></li><li id="tab-id-33"><a href="http://www.petmountain.com/category/33/1/dog-toys.html"><span>Dog Toys</span></a></li><li id="tab-id-15"><a href="http://www.petmountain.com/category/15/1/dog-grooming.html"><span>Dog Grooming</span></a></li><li id="tab-id-41"><a href="http://www.petmountain.com/category/41/1/dog-beds.html"><span>Dog Beds</span></a></li><li id="tab-id-26"><a href="http://www.petmountain.com/category/26/1/dog-crates-pens-kennels-carriers.html"><span>Dog Crates, Pens, Kennels &amp; Carriers</span></a></li><li id="tab-id-221"><a href="http://www.petmountain.com/category/221/1/dog-health-care.html"><span>Dog Health Care</span></a></li><li id="tab-id-56"><a href="http://www.petmountain.com/category/56/1/dog-apparel.html"><span>Dog Apparel</span></a></li><li id="tab-id-548"><a href="http://www.petmountain.com/category/548/1/dog-feeders-waterers.html"><span>Dog Feeders &amp; Waterers</span></a></li><li id="tab-id-712"><a href="http://www.petmountain.com/category/712/1/dog-gates.html"><span>Dog Gates</span></a></li><li id="tab-id-214"><a href="http://www.petmountain.com/category/214/1/dog-stain-odor-control.html"><span>Dog Stain &amp; Odor Control</span></a></li><li id="tab-id-502"><a href="http://www.petmountain.com/category/502/1/dog-doors-accessories.html"><span>Dog Doors &amp; Accessories</span></a></li><li id="tab-id-569"><a href="http://www.petmountain.com/category/569/1/dog-flea-tick.html"><span>Dog Flea &amp; Tick</span></a></li><li id="tab-id-222"><a href="http://www.petmountain.com/category/222/1/dog-poop-cleaning-supplies.html"><span>Dog Poop Cleaning Supplies</span></a></li><li id="tab-id-740"><a href="http://www.petmountain.com/category/740/1/dog-leads-leashes.html"><span>Dog Leads &amp; Leashes</span></a></li><li id="tab-id-31"><a href="http://www.petmountain.com/category/31/1/dog-feeding-accessories.html"><span>Dog Feeding Accessories</span></a></li><li id="tab-id-54"><a href="http://www.petmountain.com/category/54/1/dog-collars.html"><span>Dog Collars</span></a></li><li id="tab-id-35"><a href="http://www.petmountain.com/category/35/1/dog-travel-gear.html"><span>Dog Travel Gear</span></a></li><li id="tab-id-53"><a href="http://www.petmountain.com/category/53/1/dog-houses.html"><span>Dog Houses</span></a></li><li id="tab-id-208"><a href="http://www.petmountain.com/category/208/1/dog-tie-out-stakes.html"><span>Dog Tie-Out Stakes</span></a></li><li id="tab-id-1231"><a href="http://www.petmountain.com/category/1231/1/puppy-supply-center.html"><span>Puppy Supply Center</span></a></li><li id="tab-id-391"><a href="http://www.petmountain.com/category/391/1/dog-id-tags.html"><span>Dog ID Tags</span></a></li><li id="tab-id-231"><a href="http://www.petmountain.com/category/231/1/dog-books.html"><span>Dog Books</span></a></li><li id="tab-id-520"><a href="http://www.petmountain.com/category/520/1/organic-dog-supplies.html"><span>Organic Dog Supplies</span></a></li><li id="tab-id-58"><a href="http://www.petmountain.com/category/58/1/dog-harnesses.html"><span>Dog Harnesses</span></a></li><li id="tab-id-207"><a href="http://www.petmountain.com/category/207/1/dog-muzzles.html"><span>Dog Muzzles</span></a></li><li id="tab-id-1336"><a href="http://www.petmountain.com/category/1336/1/dog-water-safety.html"><span>Dog Water Safety</span></a></li></ul>
 </div>
 </li><li id="tab-id-8" class="shop_tab"><a href="http://www.petmountain.com/category/8/1/cat.html" class="shop_tab"><span>CAT</span></a><div id="tab_container_8"><ul id="tab_content_8"><li id="tab-id-242"><a href="http://www.petmountain.com/category/242/1/cat-litter-center.html"><span>Cat Litter Center</span></a></li><li id="tab-id-487"><a href="http://www.petmountain.com/category/487/1/cat-furniture.html"><span>Cat Furniture</span></a></li><li id="tab-id-243"><a href="http://www.petmountain.com/category/243/1/cat-beds.html"><span>Cat Beds</span></a></li><li id="tab-id-162"><a href="http://www.petmountain.com/category/162/1/cat-toys.html"><span>Cat Toys</span></a></li><li id="tab-id-752"><a href="http://www.petmountain.com/category/752/1/cat-feeding-accessories.html"><span>Cat Feeding Accessories</span></a></li><li id="tab-id-570"><a href="http://www.petmountain.com/category/570/1/cat-flea-tick.html"><span>Cat Flea &amp; Tick</span></a></li><li id="tab-id-215"><a href="http://www.petmountain.com/category/215/1/stain-odor-control-for-cats.html"><span>Stain &amp; Odor Control for Cats</span></a></li><li id="tab-id-223"><a href="http://www.petmountain.com/category/223/1/cat-health-care.html"><span>Cat Health Care</span></a></li><li id="tab-id-134"><a href="http://www.petmountain.com/category/134/1/cat-treats-catnip.html"><span>Cat Treats &amp; Catnip</span></a></li><li id="tab-id-52"><a href="http://www.petmountain.com/category/52/1/cat-scratchers.html"><span>Cat Scratchers</span></a></li><li id="tab-id-233"><a href="http://www.petmountain.com/category/233/1/kitten-food-cat-supplements.html"><span>Kitten Food &amp; Cat Supplements</span></a></li><li id="tab-id-485"><a href="http://www.petmountain.com/category/485/1/cat-doors.html"><span>Cat Doors</span></a></li><li id="tab-id-19"><a href="http://www.petmountain.com/category/19/1/cat-grooming.html"><span>Cat Grooming</span></a></li><li id="tab-id-57"><a href="http://www.petmountain.com/category/57/1/cat-collars.html"><span>Cat Collars</span></a></li><li id="tab-id-232"><a href="http://www.petmountain.com/category/232/1/cat-training-repellent.html"><span>Cat Training &amp; Repellent</span></a></li><li id="tab-id-244"><a href="http://www.petmountain.com/category/244/1/cat-carriers-kennels.html"><span>Cat Carriers &amp; Kennels</span></a></li><li id="tab-id-765"><a href="http://www.petmountain.com/category/765/1/cat-harnesses.html"><span>Cat Harnesses</span></a></li><li id="tab-id-766"><a href="http://www.petmountain.com/category/766/1/cat-id-tags.html"><span>Cat ID Tags</span></a></li><li id="tab-id-234"><a href="http://www.petmountain.com/category/234/1/cat-feeders-waterers.html"><span>Cat Feeders &amp; Waterers</span></a></li><li id="tab-id-519"><a href="http://www.petmountain.com/category/519/1/organic-cat-supplies.html"><span>Organic Cat Supplies</span></a></li><li id="tab-id-9"><a href="http://www.petmountain.com/category/9/1/cat-travel-gear.html"><span>Cat Travel Gear</span></a></li></ul>
 </div>
@@ -557,7 +371,7 @@ var WRInitTime=(new Date()).getTime();
 </div>
 </li><li id="tab-id-1339" class="shop_tab"><a href="http://www.petmountain.com/category/1339/1/bulk.html" class="shop_tab"><span>BULK</span></a><div id="tab_container_1339"><ul id="tab_content_1339"><li id="tab-id-1345"><a href="http://www.petmountain.com/category/1345/1/bulk-aquarium-supplies.html"><span>Bulk Aquarium Supplies</span></a></li><li id="tab-id-1355"><a href="http://www.petmountain.com/category/1355/1/bulk-bird-supplies.html"><span>Bulk Bird Supplies</span></a></li><li id="tab-id-1343"><a href="http://www.petmountain.com/category/1343/1/bulk-cat-supplies.html"><span>Bulk Cat Supplies</span></a></li><li id="tab-id-1342"><a href="http://www.petmountain.com/category/1342/1/bulk-dog-supplies.html"><span>Bulk Dog Supplies</span></a></li><li id="tab-id-1348"><a href="http://www.petmountain.com/category/1348/1/bulk-pond-supplies.html"><span>Bulk Pond Supplies</span></a></li><li id="tab-id-1351"><a href="http://www.petmountain.com/category/1351/1/bulk-reptile-supplies.html"><span>Bulk Reptile Supplies</span></a></li><li id="tab-id-1352"><a href="http://www.petmountain.com/category/1352/1/bulk-small-pet-supplies.html"><span>Bulk Small Pet Supplies</span></a></li></ul>
 </div>
-</li><li id="tab-id-1099" class="shop_tab"><a href="http://www.petmountain.com//brands" class="shop_tab"><span>BRAND</span></a></li><li id="tab-id-1083" class="shop_tab"><a href="http://www.petmountain.com/category/1083/1/sale.html" class="shop_tab"><span>SALE</span></a><div id="tab_container_1083"><ul id="tab_content_1083"><li id="tab-id-1382"><a href="http://www.petmountain.com/category/1382/1/top-rated-pet-supplies.html"><span>Top Rated Pet Supplies</span></a></li><li id="tab-id-1406"><a href="http://www.petmountain.com/category/1406/1/clearance-pet-supplies.html"><span>Clearance Pet Supplies</span></a></li><li id="tab-id-1086"><a href="http://www.petmountain.com/category/1086/1/dog-supplies-sale.html"><span>Dog Supplies Sale</span></a></li><li id="tab-id-1089"><a href="http://www.petmountain.com/category/1089/1/cat-supplies-sale.html"><span>Cat Supplies Sale</span></a></li><li id="tab-id-1090"><a href="http://www.petmountain.com/category/1090/1/aquarium-supplies-sale.html"><span>Aquarium Supplies Sale</span></a></li><li id="tab-id-1092"><a href="http://www.petmountain.com/category/1092/1/pond-supplies-sale.html"><span>Pond Supplies Sale</span></a></li><li id="tab-id-1093"><a href="http://www.petmountain.com/category/1093/1/reptile-supplies-sale.html"><span>Reptile Supplies Sale</span></a></li><li id="tab-id-1095"><a href="http://www.petmountain.com/category/1095/1/small-pet-supplies-sale.html"><span>Small Pet Supplies Sale</span></a></li><li id="tab-id-1098"><a href="http://www.petmountain.com/category/1098/1/bird-supplies-sale.html"><span>Bird Supplies Sale</span></a></li></ul>
+</li><li id="tab-id-1099" class="shop_tab"><a href="http://www.petmountain.com//brands" class="shop_tab"><span>BRAND</span></a></li><li id="tab-id-1083" class="shop_tab"><a href="http://www.petmountain.com/category/1083/1/sale.html" class="shop_tab"><span>SALE</span></a><div id="tab_container_1083"><ul id="tab_content_1083"><li id="tab-id-1406"><a href="http://www.petmountain.com/category/1406/1/clearance-pet-supplies.html"><span>Clearance Pet Supplies</span></a></li><li id="tab-id-1382"><a href="http://www.petmountain.com/category/1382/1/top-rated-pet-supplies.html"><span>Top Rated Pet Supplies</span></a></li><li id="tab-id-1462"><a href="http://www.petmountain.com/category/1462/1/secret-price-pet-supplies.html"><span>Secret Price Pet Supplies</span></a></li><li id="tab-id-1086"><a href="http://www.petmountain.com/category/1086/1/dog-supplies-sale.html"><span>Dog Supplies Sale</span></a></li><li id="tab-id-1089"><a href="http://www.petmountain.com/category/1089/1/cat-supplies-sale.html"><span>Cat Supplies Sale</span></a></li><li id="tab-id-1090"><a href="http://www.petmountain.com/category/1090/1/aquarium-supplies-sale.html"><span>Aquarium Supplies Sale</span></a></li><li id="tab-id-1092"><a href="http://www.petmountain.com/category/1092/1/pond-supplies-sale.html"><span>Pond Supplies Sale</span></a></li><li id="tab-id-1093"><a href="http://www.petmountain.com/category/1093/1/reptile-supplies-sale.html"><span>Reptile Supplies Sale</span></a></li><li id="tab-id-1095"><a href="http://www.petmountain.com/category/1095/1/small-pet-supplies-sale.html"><span>Small Pet Supplies Sale</span></a></li><li id="tab-id-1098"><a href="http://www.petmountain.com/category/1098/1/bird-supplies-sale.html"><span>Bird Supplies Sale</span></a></li></ul>
 </div>
 </li>
 	</ul>
@@ -567,48 +381,7 @@ var WRInitTime=(new Date()).getTime();
 <script src="http://www.petmountain.com/Public/Scripts/jquery-watermark/jquery.watermark.min.js"></script>
 
 <div id="adminmenu" style="display:none"></div>
-<style type="text/css">
-#adminmenu {display:none;
-    background:#DAC6C6;
-    border-bottom:1px solid #666;
-    margin-left:auto;
-    margin-right:auto;
-    width:100%;
-    position:fixed;
-    top:0;
-    left:0;
-    z-index:100099999;
-}
-div#meua {
-    float:none;
-    top:0px;
-    background:#DAC6C6;
-    padding:0 0 0 0;
-    margin:1px;
-    width:1020px;
-        margin-left:auto;
-        margin-right:auto;
-    height:21px;
-    list-style:none;
-    font-size:11px;
-    font-family:tahoma,verdana;
-    z-index:1001000;
-}
-div#meua p {
-    color: #333;
-    font-size: 11px;
-    padding: 3px 0 0 0;
-}
-div#meua img.spinner {
-    width: 13px;
-    height: 13px;
-    vertical-align: bottom;
-    padding-right: 5px;
-}
-</style>
-<style type="text/css" media="print">
-#adminmenu { display:none !important; }
-</style>
+
 <script type="text/javascript">
 $j(document).ready(function () {
    $j('.field_category_image_product_id').onFocus = null;
@@ -618,15 +391,11 @@ $j(document).ready(function () {
 
 });
 
-
-
 if (document.cookie.indexOf('GuestStateAdmin=') != -1) {
 	$j(document.body).css({
-		position: 'relative',
-		'background-position': 'center 2em',
 		'margin-top': '22px'
 	});
-	$j('#adminmenu').append('<div id="meua"><p><img class="spinner" src="http://www.petmountain.com/Public/Images/spinner.gif">Loading admin menu...</p></ul>')
+	$j('#adminmenu').append('<div id="meua"><p><img class="spinner" src="http://www.petmountain.com/Public/Images/spinner.gif">Loading admin menu...</p></div>')
 	$j('#adminmenu').show();
 	$j.ajax({
 		url: ajaxFormatUrl('_adminmenu'),
@@ -635,25 +404,19 @@ if (document.cookie.indexOf('GuestStateAdmin=') != -1) {
 		complete: function(jqxhr) {
 			if (jqxhr && jqxhr.status == 200) {
 								$j('#adminmenu').css({top:'-1000px'}).html(jqxhr.responseText).css({top:'0'});
-								$j('#adminmenu').css({position:'fixed'});
+								$j('#adminmenu').css({position:'fixed',top:'0'});
 				$j(document).trigger('AdminMenu.ready');
 			} else {
 				$j('#adminmenu').hide();
 			}
 		}
 	});
-
-
-
 }
+
 var customerrefhovering=false;
 
-
 </script>
-<!-- CURRENT DB tc_petmountain  -->
-
-	
-<script language="javascript">
+<!-- CURRENT DB tc_petmountain --><script language="javascript">
 QuickCart_checkQuckCart();
 </script>
 <div id="sub">
@@ -661,7 +424,7 @@ QuickCart_checkQuckCart();
 <style>
 .global-banner{display:none;margin:0 auto 10px;padding:10px;color:#333;text-align:center;background:#f5faff;background:url(/content/flake_bg2.gif) center 50% repeat-x; background:#daf5ff;border:1px solid #ccc;border-bottom:2px solid #ccc;}.global-banner .emph{font-weight:bold;}
 </style>
-<div class="global-banner no-checkout">New Customers, enjoy <span class="emph">10% Off</span> max discount $10 with code: <span class="emph">HAPPY</span></div><div id="trail">
+<div class="global-banner no-checkout">Up to <span class="emph">70% OFF</span> sitewide + <span class="emph">FREE SHIPPING</span> on orders $75+</div><div id="trail">
     <ul>
         <li><a href="http://www.petmountain.com/">Home</a></li>
                 <li>Secure Shopping &amp; Privacy</li>
@@ -676,7 +439,7 @@ QuickCart_checkQuckCart();
         
 
     
-    <p></p><p align="justify" style="text-align: left;"><strong>Privacy Policy</strong><br>At Pet Mountain, we are committed to protecting the privacy of our customers, which is why we do not sell, rent, or loan any personal identifiable information regarding our customers to any third party.<br><br><strong>100% Secure Checkout</strong><br> At Pet Mountain, you have the choice to use our 100% Secure Checkout, PayPal or Amazon Payments. We accept all major credit cards Visa, Master Card, American Express and Discover card.</p>
+    <div class="tc-content-case clearfix"><p align="justify" style="text-align: left;"><strong>Privacy Policy</strong><br>At Pet Mountain, we are committed to protecting the privacy of our customers, which is why we do not sell, rent, or loan any personal identifiable information regarding our customers to any third party.<br><br><strong>100% Secure Checkout</strong><br> At Pet Mountain, you have the choice to use our 100% Secure Checkout, PayPal or Amazon Payments. We accept all major credit cards Visa, Master Card, American Express and Discover card.</p>
 <p style="text-align: left;">&nbsp;</p>
 <p style="text-align: left;"><strong>What Information We Collect</strong> <br> In order to process your order efficiently, we collect the following information: name, billing address, shipping address, e-mail address, phone number, and credit card number ("Personal Information") when you place an order with us.  This information is used solely by Pet Mountain and is stored in a secure environment.  Under certain circumstances we do also collect the user's IP address, but only when we suspect that credit card fraud may have occurred.  We also periodically conduct surveys of visitors to our Web site.  This helps us better understand what our customers would like to see from us.  We use this information for internal marketing research purposes.  We may contact a visitor who responded to a survey for more information, but only if that visitor has told us that they don't mind being contacted.</p>
 <p style="text-align: left;">&nbsp;</p>
@@ -689,7 +452,7 @@ QuickCart_checkQuckCart();
 <p style="text-align: left;">&nbsp;</p>
 <p style="text-align: left;"><strong>Use of Cookies</strong> <br> We use cookies to provide our customers with streamlined ordering and other useful features.  Cookies are pieces of information that are stored by your browser on your computer's hard drive.  Cookies make Web surfing easier for you by saving your customer identification information while you're at our site.  The use of cookies has become an industry standard used by most major Web sites.  Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that.  Please continue to review our privacy policy from time to time so that you are aware of our current policy with respect to cookies.</p>
 <p style="text-align: left;">&nbsp;</p>
-<p style="text-align: left;"><strong>Your Acceptance of these Terms</strong> <br> By using our Web site, you agree to accept the Pet Mountain privacy policy.  Make sure you read this policy carefully, because if you do choose to use our Web site, you automatically agree to this policy.  If you do not agree to this policy, please do not use our Web site.  We reserve the right, at our discretion, to change, modify, add, or remove</p><br><br><p></p>
+<p style="text-align: left;"><strong>Your Acceptance of these Terms</strong> <br> By using our Web site, you agree to accept the Pet Mountain privacy policy.  Make sure you read this policy carefully, because if you do choose to use our Web site, you automatically agree to this policy.  If you do not agree to this policy, please do not use our Web site.  We reserve the right, at our discretion, to change, modify, add, or remove</p></div>
     
         
         </div>
@@ -699,7 +462,75 @@ QuickCart_checkQuckCart();
 </div>
 
 <div id="footer">
-<script type="text/javascript">
+<style>
+#welcomeMPM2 {width:640px; padding:20px; color:#000; text-align:center;}
+#welcomeMPM2 .blue {color:#23a2db; font-weight:bold;}
+.welcome-offer {display:table; margin:0 auto; padding:5px 10px; color:#fff; font-size:250%; font-weight:bold; background:#000;}
+.welcome-direct {font-size:200%;}
+.welcome-10 {font-size:1000%; font-weight:bold;}
+.welcome-why {font-size:120%;}
+#welcomeMPM2 form {width:640px; margin:20px auto;}
+#welcomeMPM2 .Putter {height:70px; background:#f0f0f0; border:1px solid #666; box-shadow:inset 0 5px 10px 0 rgba(175,175,175,.75)}
+#welcomeMPM2 .Put.PutEMAIL {width:100%; height:70px; margin:0; padding:0; font-size:36px; line-height:70px; text-align:center; background:none; border:none;}
+#welcomeMPM2 button {width:100%; height:88px; margin:10px 0 0; padding:0; color:#fff; font-size:56px; line-height:88px; text-align:center; cursor:pointer; background:#23a2db; border:none;}
+#welcomeMPM2 button .black {color:#000;}
+.welcome-no {font-size:200%; font-style:italic; text-decoration:underline;}
+.welcome-deet {margin:5px 0 0; font-size:85%;}
+
+#welcometrigPM2 {position:fixed; bottom:0; right:0; padding:0 10px; color:#fff; font-weight:bold; line-height:32px; text-decoration:none; background:#00aeef;}
+
+@media (max-width:767px) {
+#welcomeMPM2 {width:256px; padding:10px;}
+.welcome-offer {font-size:140%;}
+.welcome-direct {font-size:110%;}
+.welcome-10 {font-size:400%;}
+#welcomeMPM2 form {width:240px;}
+#welcomeMPM2 .Putter {height:40px;}
+#welcomeMPM2 .Put.PutEMAIL {height:40px; font-size:14px; line-height:40px;}
+#welcomeMPM2 button {height:40px; font-size:18px; line-height:40px;}
+.welcome-no {font-size:150%;}
+.welcome-deet {display:none;}
+
+#welcometrigPM2 {display:none;}
+}
+</style>
+
+<a id="welcometrigPM2" href="#welcomeMPM2">CLICK TO GET 10% OFF</a>
+
+<script>
+function welcomeSignup(){
+	$j('#email_address_24').val($j('#email_address_24_welcome').val());
+	$j('.fancybox-close').click();
+	$j('#email_signup_24').click();
+}
+
+$j('#welcometrigPM2').appendTo('#sub');
+</script>
+
+<div class="tc_ghost">
+
+<div id="welcomeMPM2">
+	<div class="welcome-offer">NEW CUSTOMER OFFER</div>
+	<div class="welcome-direct"><span class="blue">---- </span> enter email below to get <span class="blue"> ----</span></div>
+	<div class="welcome-10">10% OFF</div>
+	<div class="welcome-why">your next purchase <span class="blue">+</span> access to exclusive deals <span class="blue">+</span> fun pet tips down the road</div>
+	<form name="confirmation_welcome" id="confirmWelcome">
+		<div class="Putter">
+			<input id="email_address_24_welcome" type="email" name="address" placeholder="ENTER EMAIL HERE" value="" class="Put PutEMAIL" onkeypress="javascript:if(event.keyCode == 13 || event.which == 13) {document.getElementById('email_signup_24_welcome').click(); return false;}">
+		</div>
+		<input class="tc_ghost Submit SubmitEMAIL" type="submit" name="go" value="Go">
+		<button type="button" onclick="welcomeSignup();" name="bootonpop" id="email_signup_24_welcome">
+			GET MY <b>10% OFF <span class="black">&gt;</span></b>
+		</button>
+		<input id="em-pop-sub" name="email_signup" value="Go" type="hidden">
+	</form>
+	<div class="welcome-no">
+		<a href="#" onclick="jQuery.fancybox.close(); return false;">No Thanks, my pet is spoiled enough.</a>
+	</div>
+	<div class="welcome-deet">*Get 10% off your 1st purchase - max discount $10. This offer is valid for first-time email subscribers only and expires at the end of the month. To take advantage of this offer, enter your email address before closing this window to receive your 10% off coupon code in your inbox. Cannot be combined with other codes.</div>
+</div>
+
+</div><script type="text/javascript">
 adroll_adv_id = "KWTGRBPPVVBKPLRM55NJLZ";
 adroll_pix_id = "3GAQDVFUK5DRRCVXI2L3JS";
 (function () {
@@ -728,7 +559,7 @@ window.onload = function(){
             <td class="banner "></td></tr></tbody></table></div></div></div>
 
 
-<script>
+<script type="text/javascript">
 $j(window).scroll(function(){
 	if( $j(window).scrollTop() > 300 ) {
 			$j('.to-the-top.tc_ghost').removeClass('tc_ghost');
@@ -737,12 +568,11 @@ $j(window).scroll(function(){
 			$j('.to-the-top').fadeOut();
 	}
 });
-</script>
-
-<script>
+//
+//
 if ($j('.fcol1').length) {
-	$j('.FP .name').html('<span>TOP PET SUPPLIES »</span>');
-	$j('.CustomerReviews .name').html('<span>CUSTOMER REVIEWS »</span>');
+	$j('.FP .name').html('<span>TRENDING PET SUPPLIES »</span>');
+	$j('.CustomerReviews .name').html('<span>POPULAR CUSTOMER REVIEWS »</span>');
 	//
 	IncludeJavaScript("/content/jquery_rotator.js",function(){
 		$j('.rotes').jshowoff();
@@ -787,7 +617,7 @@ if ($j('.fcol1').length) {
 						<td class="cel cel3">
 							<div class="seci">
 								<h3 class="clearfix">
-									<a href="/content/37/shipping-rates.html">
+									<a href="/content/187/low-price-guarantee.html">
 										<span class="icon"></span>
 										<span class="title">Low Price Guarantee</span>
 									</a>
@@ -858,8 +688,9 @@ if ($j('.fcol1').length) {
 					<li><a href="/returns">60-Day Returns</a></li>
 					<li><a href="/content/6/help.html">Help &amp; FAQ's</a></li>
 					<li><a href="/content/4/secure-shopping-privacy.html">Privacy &amp; Security</a></li>
-					<li><a href="/content/37/shipping-rates.html">Low Price Guarantee</a></li>
+					<li><a href="/content/187/low-price-guarantee.html">Low Price Guarantee</a></li>
 					<li><a href="/content/130/customer-satisfaction-guarantee.html">Happy Guarantee</a></li>
+                                        <li><a href="/content/184/refer-a-friend-get-10-.html">Refer A Friend, Get $10!</a></li>
 					<li><a target="_blank" href="http://member.impactradius.com/campaign-campaign-info/PetMountaincom-Pet-Supplies.brand?io=JVQw9mWJnq7%2FE5lZZVqdiAFtxqLmHbaCJdDdKvsdDUQnM3QdWvrVfU94SpUPlNTR">Affiliate Program</a></li>
 				</ul>
 			</div>
@@ -872,26 +703,17 @@ if ($j('.fcol1').length) {
 					<li><a href="/content/126/email-preferences.html">Email Preferences</a></li>
 					<li><a href="/returns">Easy Returns</a></li>
 					<li><a href="http://www.petmountain.com/contact">Contact Us</a></li>
+					<li><a href="http://www.petmountain.com/content/170/get-10-off-.html">Get 10% Off!</a></li>
+					<li><a href="http://www.petmountain.com/content/169/10-off-email-sign-up.html">Coupons</a></li>
 				</ul>
 			</div>
 			<div class="sec sec4">
-				<div class="foot-stella">
-					<a class="stella-seal"></a>
-					<a href="http://profile.stellaservice.com/petmountain.com" title="Pet Mountain Stella Service" target="_blank"><img src="http://www.petmountain.com/content/Stella-Service-Seal.png" style="border: 0;" alt="Pet Mountain Stella Service"></a>
-				</div>
+				<div class="foot-stella"></div>
 				<div class="foot-bbb">
 					<a href="http://www.bbb.org/san-diego/business-reviews/pet-supplies-and-foods-retail/pet-mountain-in-san-diego-ca-171990342/#bbbonlineclick" title="Pet Mountain BBB Business Review" target="_blank"><img src="//seal-sandiego.bbb.org/seals/blue-seal-200-42-pet-mountain-171990342.png" style="border: 0;" alt="Pet Mountain BBB Business Review"></a>
 				</div>
 				<div class="soc-fb">
 					<iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FPetMountain&amp;width=295&amp;height=72&amp;colorscheme=light&amp;show_faces=false&amp;header=false&amp;stream=false&amp;show_border=false&amp;appId=280587388635434" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:295px; height:72px;" allowtransparency="true"></iframe>
-				</div>
-				<div class="foot-social">
-					<ul class="clearfix">
-						<li class="soc soc-in"><a target="_blank" href="http://instagram.com/petmountain"><span>Instagram</span></a></li>
-						<li class="soc soc-pi"><a target="_blank" href="http://www.pinterest.com/petmountain/"><span>Pinterest</span></a></li>
-						<li class="soc soc-go"><a target="_blank" href="http://plus.google.com/+Petmountaindotcom/posts"><span>Google+</span></a></li>
-						<li class="soc soc-tw"><a target="_blank" href="http://twitter.com/PetMountain"><span>Twitter</span></a></li>
-					</ul>
 				</div>
 			</div>
 		</div>
@@ -969,6 +791,17 @@ $j('.form_Order_cart_order label').css('display','inline-block').css('width','13
 $j('.form_Order_cart_order .form_row').css('padding','0');
 </script>
 
+<script>
+$PollGTS = setInterval(function(){
+	if ($j('#gts-c').length) {
+		$j('#gts-c img').attr('src','//www.petmountain.com/content/GTS.gif');
+		$j('#gts-c').appendTo('.foot-stella');
+		$j('.gtss-w').appendTo('.foot-stella');
+		clearInterval($PollGTS);
+	}
+},1000);
+</script>
+
 <div id="resp_div_signup"></div>
 
 <div class="tc_ghost"><div><div><table><tbody><tr><td></td>
@@ -1006,7 +839,7 @@ document.write(unescape("%3Cscript%20src='"+
   var gts = gts || [];
 
   gts.push([ 'id', '6264244']);
-  gts.push([ 'google_base_offer_id', '']);
+  gts.push([ 'google_base_offer_id', '16010']);
   gts.push([ 'google_base_subaccount_id', '6264244']);
   
   (function() {
@@ -1053,7 +886,7 @@ $j(window).load(function() {
 </script>
 
 
-<!-- Generated on May 6, 2015, 3:24:04 pm -->
+<!-- Generated on October 20, 2015, 1:24:50 pm -->
 <!-- Server web4 -->
 
 
