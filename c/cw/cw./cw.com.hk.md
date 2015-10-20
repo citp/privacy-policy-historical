@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cw.com.hk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607134612id_/http%3A//edm.enterpriseinnovation.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cw.com.hk privacy policy that was archived on 2015-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151020033756id_/http%3A//edm.enterpriseinnovation.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Questex Asia
 
