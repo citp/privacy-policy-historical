@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upmchealthplan.com privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414010358id_/http%3A//www.upmchealthplan.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upmchealthplan.com privacy policy that was archived on 2015-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151020234130id_/http%3A//www.upmchealthplan.com/privacy.aspx) for the most accurate reproduction.*
 
 # UPMC Health Plan | Affordable Health Care for Individuals & Families
 
@@ -85,6 +85,8 @@ Specific inquiries about this statement regarding HIPAA readiness and compliance
 ### UPMC _for Kids_ (Children's Health Insurance Program)
 
   * [Notice of Privacy Practices](http://www.upmchealthplan.com/pdf/2014_CHIP_NOPP.pdf)
+  * [Personal Representative Designation Form](http://www.upmchealthplan.com/docs/inf/CHIP_PersonalRepDesignation.pdf)
+  * [Member Authorization to Use/Disclose PHI](http://www.upmchealthplan.com/docs/inf/CHIP_MemberPHIauth.pdf)
 
 
 
