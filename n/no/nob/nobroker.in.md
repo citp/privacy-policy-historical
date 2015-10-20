@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nobroker.in privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628173333id_/http%3A//www.nobroker.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nobroker.in privacy policy that was archived on 2015-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151020043634id_/http%3A//www.nobroker.in/privacy) for the most accurate reproduction.*
 
 # Broker free Apartments, shared accommodation, pg, houses for rent. NoBroker helps in renting apartment without broker
 
