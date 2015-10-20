@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creditdonkey.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502142433id_/http%3A//www.creditdonkey.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditdonkey.com privacy policy that was archived on 2015-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151020111301id_/http%3A//www.creditdonkey.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - CreditDonkey
 
@@ -7,11 +7,11 @@
 | Compare |   
 | 
 
-  * [Credit Card Offers](http://www.creditdonkey.com/best-credit-cards.html)
-  * [Student Credit Cards](http://www.creditdonkey.com/student/)
-  * [Business Credit Cards](http://www.creditdonkey.com/business/)
-  * [Low Interest Credit Cards](http://www.creditdonkey.com/low-interest.html)
-  * [Balance Transfer](http://www.creditdonkey.com/balance-transfers.html)
+  * [Credit Card Offers](https://www.creditdonkey.com/best-credit-cards.html)
+  * [Online Stock Brokers](https://www.creditdonkey.com/stock-trading/)
+  * [Business Credit Cards](https://www.creditdonkey.com/business/)
+  * [Low Interest Credit Cards](https://www.creditdonkey.com/low-interest.html)
+  * [Balance Transfer](https://www.creditdonkey.com/balance-transfers.html)
 
 |   
 | |   
@@ -21,10 +21,10 @@
 | Rewards |   
 | 
 
-  * [Cash Back Credit Cards](http://www.creditdonkey.com/cash-back/)
-  * [Gas Credit Cards](http://www.creditdonkey.com/gas/)
-  * [Airline Credit Cards](http://www.creditdonkey.com/airline-miles/)
-  * [Travel Credit Cards](http://www.creditdonkey.com/travel/)
+  * [Cash Back Credit Cards](https://www.creditdonkey.com/cash-back/)
+  * [Airline Credit Cards](https://www.creditdonkey.com/airline-miles/)
+  * [Travel Credit Cards](https://www.creditdonkey.com/travel/)
+  * [Gas Credit Cards](https://www.creditdonkey.com/gas/)
 
 |   
 | |   
@@ -34,9 +34,9 @@
 | Introductory Offers |   
 | 
 
-  * [Credit Card Deals](http://www.creditdonkey.com/credit-card-deals.html)
-  * [Credit Card Rewards](http://www.creditdonkey.com/credit-card-rewards.html)
-  * [0% Balance Transfer](http://www.creditdonkey.com/0-balance-transfers.html)
+  * [Credit Card Deals](https://www.creditdonkey.com/credit-card-deals.html)
+  * [Credit Card Rewards](https://www.creditdonkey.com/credit-card-rewards.html)
+  * [0% Balance Transfer](https://www.creditdonkey.com/0-balance-transfers.html)
 
 |   
 | |   
@@ -46,9 +46,9 @@
 | Resources |   
 | 
 
-  * [Hot Deals](http://www.creditdonkey.com/deals.html)
-  * [Money Tips](http://www.creditdonkey.com/tip.html)
-  * [Reviews and Ratings](http://www.creditdonkey.com/review.html)
+  * [Deals and Coupons](https://www.creditdonkey.com/deals.html)
+  * [Reviews and Ratings](https://www.creditdonkey.com/review.html)
+  * [Money Tips](https://www.creditdonkey.com/tip.html)
   * [Like us on Facebook](https://www.facebook.com/CreditDonkey)
   * [Follow us on Twitter](https://twitter.com/CreditDonkey)
   * [Subscribe via RSS](http://feeds.creditdonkey.com/CreditDonkey)
