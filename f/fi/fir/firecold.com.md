@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firecold.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316100738id_/http%3A//www.firecold.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firecold.com privacy policy that was archived on 2015-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151020181335id_/http%3A//www.firecold.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
