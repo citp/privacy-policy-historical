@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the readnaturally.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423125316id_/http%3A//www.readnaturally.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readnaturally.com privacy policy that was archived on 2015-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151020045438id_/http%3A//www.readnaturally.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy :: Read Naturally, Inc.
 
 ## Read Naturally Privacy Policy
+
+_Note: This is the privacy policy pertaining to **[ReadNaturally.com](http://www.readnaturally.com/)**. For the Read Live Privacy and Security Policy, Please click **[here](http://www.readnaturally.com/knowledgebase/documents-and-resources/29/391)**._
 
 Read Naturally, Inc. considers the privacy and security of visitors to our web site to be extremely important. We have developed this privacy policy to communicate our commitment that we will keep any information we obtain private and secure. Read Naturally is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in any manner other than that which is disclosed in this policy. Please note that Read Naturally does collect certain information from our users at several different points on our website. If you have any questions about this privacy policy, or other parts to our web site, we can be reached via e-mail at **[info@readnaturally.com](mailto:info@readnaturally.com)** , or you can call us toll-free at 800.788.4085. Read Naturally reserves the right to revise this privacy policy at any time. Changes to this privacy policy will be posted at this location.
 
