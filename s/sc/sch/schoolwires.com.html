@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the schoolwires.com privacy policy that was archived on 2015-04-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150408025315id_/http%3A//www.schoolwires.com/domain/90) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the schoolwires.com privacy policy that was archived on 2015-10-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151020132426id_/http%3A//www.schoolwires.com/domain/90) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd"><html lang="en"><head>
     <title>Privacy policy / Privacy policy</title>
@@ -15,7 +15,7 @@
     
     <!-- Begin swuc.GlobalJS -->
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580517000000/273815.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
- staticURL = "http://www.schoolwires.com/Static/V2_10_01/";
+ staticURL = "http://www.schoolwires.com/Static/V2_11_01/";
  SessionTimeout = "0";
 </script>
 <!-- End swuc.GlobalJS -->
@@ -23,17 +23,17 @@
     
     <!-- Stylesheets -->
 
-    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_10_01/App_Themes/SW/jquery.jgrowl.css">
-    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_10_01//site/assets/styles/system.css">
-    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_10_01//site/assets/styles/apps.css">
-    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_10_01/App_Themes/SW/jQueryUI.css">
+    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_11_01/App_Themes/SW/jquery.jgrowl.css">
+    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_11_01//site/assets/styles/system.css">
+    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_11_01//site/assets/styles/apps.css">
+    <link rel="Stylesheet" type="text/css" href="http://www.schoolwires.com/Static/V2_11_01/App_Themes/SW/jQueryUI.css">
     
     
     <!-- Scripts -->
     
 
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
-    <script src="http://www.schoolwires.com/Static/V2_10_01/GlobalAssets/Scripts/min/jquery-migrate-1.2.1.js" type="text/javascript"></script>
+    <script src="http://www.schoolwires.com/Static/V2_11_01/GlobalAssets/Scripts/min/jquery-migrate-1.2.1.js" type="text/javascript"></script>
 
     <script src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js" type="text/javascript"></script>
 
@@ -171,7 +171,7 @@
         bindMyStartBarLinks(myaccountlinks);
  
         function bindMyStartBarLinks(links) {
-            $(links).keydown(function(e){
+            $(links).keydown(function(e) {
                 e.stopPropagation();
 
                 if (e.keyCode == 38) { //key up
@@ -179,7 +179,7 @@
 
                     // This is the first item
                     if ($(this).parent('li').prev('li').length == 0) {
-                        if ($(this).parents('ul').parents('.sw-mystart-nav').length > 0){
+                        if ($(this).parents('ul').parents('.sw-mystart-nav').length > 0) {
                             $(this).parents('ul').parents('.sw-mystart-nav').focus();
                         } else {
                             $(this).parents('ul').prev('.sw-mystart-nav').focus();
@@ -191,14 +191,13 @@
                     e.preventDefault();
                     
                     if ($(this).parent('li').next('li').length == 0) {
-                        if ($(this).parents('ul').parents('.sw-mystart-nav').length > 0){
+                        if ($(this).parents('ul').parents('.sw-mystart-nav').length > 0) {
                             $(this).parents('ul').parents('.sw-mystart-nav').focus();
                         } else {
                             $(this).parents('ul').prev('.sw-mystart-nav').focus();
                         }
                     } else {
-                        //alert($(this).parent('li').next('li').find('a').first());
-                        $(this).parent('li').next('li').find('a').first().attr('tabIndex',0);
+                        $(this).parent('li').next('li').find('a').first().attr('tabIndex', 0);
                         $(this).parent('li').next('li').find('a').first().focus();
                     }
                 } else if (e.keyCode == 27 || e.keyCode == 37) { // escape key or key left
@@ -211,7 +210,7 @@
                     var found = false;
 
                     $(this).parent('div').nextAll('li').find('a').each(function() {
-                        if ($(this).text().substring(0,1).toLowerCase() == keyCodeMap[e.keyCode]) {
+                        if ($(this).text().substring(0, 1).toLowerCase() == keyCodeMap[e.keyCode]) {
                             $(this).focus();
                             found = true;
                             return false;
@@ -220,7 +219,7 @@
                    
                     if (!found) {
                         $(this).parent('div').prevAll('li').find('a').each(function() {
-                            if ($(this).text().substring(0,1).toLowerCase() == keyCodeMap[e.keyCode]) {
+                            if ($(this).text().substring(0, 1).toLowerCase() == keyCodeMap[e.keyCode]) {
                                 $(this).focus();
                                 return false;
                             }
@@ -238,7 +237,12 @@
             }
         });
 
-        $(document).click(function() { 
+        /*$(document).click(function() { 
+            hideMyStartBarMenu();
+        });*/
+
+        // try to capture as many custom MyStart bars as possible
+        $('.sw-mystart-button').find('a').focus(function() {
             hideMyStartBarMenu();
         });
        
@@ -254,18 +258,21 @@
             hideMyStartBarMenu();
         });
 
-        $('#ui-btn-sitemanager').focus(function () {
+        $('#ui-btn-sitemanager').focus(function() {
             hideMyStartBarMenu();
         });
 
-        $('#ui-btn-myview').focus(function () {
+        $('#ui-btn-myview').focus(function() {
             hideMyStartBarMenu();
         });
- 
-        function hideMyStartBarMenu() {
-            $('.sw-dropdown').attr('aria-hidden', 'true').css('display', 'none').find('a').attr('tabIndex', -1);
-            $('#sw-mystart-account').removeClass("clicked-state");
-        }
+
+        $('#ui-btn-signin').focus(function() {
+            hideMyStartBarMenu();
+        });
+
+        $('#ui-btn-register').focus(function() {
+            hideMyStartBarMenu();
+        });
 
         // button click events
         $('div.sw-mystart-button.home a').keydown(function(e) {
@@ -326,6 +333,11 @@
         });
     });
 
+    function hideMyStartBarMenu() {
+        $('.sw-dropdown').attr('aria-hidden', 'true').css('display', 'none').find('a').attr('tabIndex', -1);
+        $('#sw-mystart-account').removeClass("clicked-state");
+    }
+
     // ADA CHANNEL NAV
     $(document).ready(function() {
         var settings = {
@@ -333,9 +345,9 @@
         };
 
         // Add ARIA role to menubar and menu items
-        $('#channel-navigation').attr('role', 'menubar').find('li').attr('role', 'menuitem');
+        $('[id="channel-navigation"]').attr('role', 'menubar').find('li').attr('role', 'menuitem');
 
-        var top_level_links = $('#channel-navigation').find('> li > a');
+        var top_level_links = $('[id="channel-navigation"]').find('> li > a');
 
         // Set tabIndex to -1 so that top_level_links can't receive focus until menu is open
         $(top_level_links).next('ul').attr({ 'aria-hidden': 'true', 'role': 'menu' }).find('a').attr('tabIndex', -1);
@@ -460,22 +472,29 @@
         });
 
         function hideChannelMenu() {
-            $('.' + settings.menuHoverClass).attr('aria-hidden', 'true').removeClass(settings.menuHoverClass).find('ul').css('display', 'none').find('a').attr('tabIndex', -1);
+            $('li.sw-channel-item.' + settings.menuHoverClass).attr('aria-hidden', 'true').removeClass(settings.menuHoverClass).find('ul').css('display', 'none').find('a').attr('tabIndex', -1);
         }
 
         // Hide menu if click or focus occurs outside of navigation
-        $('#channel-navigation').find('a').last().keydown(function(e) {
+        $('[id="channel-navigation"]').find('a').last().keydown(function (e) {
             if (e.keyCode == 9) {
                 // If the user tabs out of the navigation hide all menus
                 hideChannelMenu();
             }
         });
 
-        $(document).click(function() {
-            hideChannelMenu();
+        $('[id="channel-navigation"]').find('a').first().keydown(function (e) {
+            if (e.keyCode == 9) {
+                // hide open MyStart Bar menus
+                hideMyStartBarMenu();
+            }
         });
 
-        $('#channel-navigation').click(function(e) {
+        /*$(document).click(function() {
+            hideChannelMenu();
+        });*/
+
+        $('[id="channel-navigation"]').click(function (e) {
             e.stopPropagation();
         });
     });
@@ -4385,7 +4404,7 @@ ga('send', 'pageview');
 <!-- End Schoolwires Traffic Code -->  
  
     
-<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script></head>
+</head>
 <body>
 
     <!-- ADA Skip Nav -->
@@ -4401,7 +4420,7 @@ ga('send', 'pageview');
 <style type="text/css">
 	/* SPECIAL MODE BAR */
 	div.sw-special-mode-bar {
-		background: #FBC243 url('http://www.schoolwires.com/Static/V2_10_01//GlobalAssets/Images/special-mode-bar-background.png') no-repeat;
+		background: #FBC243 url('http://www.schoolwires.com/Static/V2_11_01//GlobalAssets/Images/special-mode-bar-background.png') no-repeat;
 		height: 30px;
 		text-align: left;
 		font-size: 12px;
@@ -4461,8 +4480,8 @@ ga('send', 'pageview');
 </span></a></div>
 </div>
 <div id="sw-mystart-right">
-<div class="sw-mystart-button signin"><a href="http://www.schoolwires.com/site/Default.aspx?PageType=7&amp;SiteID=4&amp;IgnoreRedirect=true" title="Sign in to your website."><span>Sign In</span></a></div>
-<div class="sw-mystart-button register"><a href="http://www.schoolwires.com/site/Default.aspx?PageType=10&amp;SiteID=4" title="Register for this site."><span>Register</span></a></div>
+<div id="ui-btn-signin" class="sw-mystart-button signin"><a href="http://www.schoolwires.com/site/Default.aspx?PageType=7&amp;SiteID=4&amp;IgnoreRedirect=true" title="Sign in to your website."><span>Sign In</span></a></div>
+<div id="ui-btn-register" class="sw-mystart-button register"><a href="http://www.schoolwires.com/site/Default.aspx?PageType=10&amp;SiteID=4" title="Register for this site."><span>Register</span></a></div>
 <div id="sw-mystart-search" class="sw-mystart-nav">
 <script type="text/javascript">
 $(document).ready(function() {
@@ -4476,7 +4495,7 @@ window.location.href="http://www.schoolwires.com/site/Default.aspx?PageType=6&Si
 }
 </script>
 <input id="sw-search-input" type="text" title="Type the word to search for and click Search." placeholder="Search this Site...">
-<a tabindex="0" id="sw-search-button" onclick="SWGoToSearchResultsPageswsearchinput();"><span><img src="http://www.schoolwires.com/Static/V2_10_01//globalassets/images/sw-mystart-search.png" alt="Search"></span></a>
+<a tabindex="0" id="sw-search-button" onclick="SWGoToSearchResultsPageswsearchinput();"><span><img src="http://www.schoolwires.com/Static/V2_11_01//globalassets/images/sw-mystart-search.png" alt="Search"></span></a>
 </div>
 <div class="clear"></div>
 </div>
@@ -4486,7 +4505,7 @@ window.location.href="http://www.schoolwires.com/site/Default.aspx?PageType=6&Si
 <div id="gb-page" class="sp">
 	<div id="gb-content-outer">
 		<div id="gb-content" class="ui-clear">
-			<!-- Start Centricity Content Area --><a name="sw-maincontent"></a><div id="sw-content-layout-wrapper" class="ui-sp ui-print"><a name="sw-maincontent"></a><div id="sw-content-layout1"><a name="sw-maincontent"></a><div id="sw-content-container1" class="ui-column-one region"><a name="sw-maincontent"><div id="pmi-1648">
+			<!-- Start Centricity Content Area --><a id="sw-maincontent" name="sw-maincontent"></a><div id="sw-content-layout-wrapper" class="ui-sp ui-print"><div id="sw-content-layout1"><div id="sw-content-container1" class="ui-column-one region"><div id="pmi-1648">
 
 
 
@@ -4621,11 +4640,11 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 </div>
 
 </div></div>
-</a><div id="pmi-1722"><a name="sw-maincontent">
+<div id="pmi-1722">
 
 
 
-</a><div id="sw-module-14840"><a name="sw-maincontent">
+<div id="sw-module-14840">
     <script type="text/javascript">
         $(document).ready(function() {
             var DomainID = '90';
@@ -4643,8 +4662,8 @@ function LoadTaggedData(container, MIID, PMI, tag) {
     <script type="text/javascript">$(document).ready(function() {CheckScript('ModuleView');CheckScript('Mustache');
  });</script>
     
-    </a><div id="module-content-1484"><a name="sw-maincontent">
-</a><div class="ui-widget app flexpage hide-overflow"><a name="sw-maincontent">
+    <div id="module-content-1484">
+<div class="ui-widget app flexpage hide-overflow">
 	<canvas class="canvas-arrow-bottom" width="180" height="27"></canvas>
     <div class="canvas-arrow-border"></div>
     <div class="app-id hidden">#module-content-1484 .ui-widget.app</div>
@@ -4652,8 +4671,8 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 		
 	</div>
 	
-	</a><div class="ui-widget-detail"><a name="sw-maincontent">
-</a><div class="ui-article"><a name="sw-maincontent"><span><h3>Legal</h3><a href="http://www.schoolwires.com/privacy">Privacy policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;</span></a><a href="http://www.schoolwires.com/terms">Terms of use</a></div> 
+	<div class="ui-widget-detail">
+<div class="ui-article"><span><h3>Legal</h3><a href="http://www.schoolwires.com/privacy">Privacy policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.schoolwires.com/terms">Terms of use</a></span></div> 
 <div class="clear"></div>
 </div>
 	<div class="ui-widget-footer">
@@ -5008,7 +5027,7 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 <ul class="sw-channel-dropdown">
 <li class=""><a href="/domain/79"><span>About us</span></a></li>
 <li class=""><a href="/domain/97"><span>Partners</span></a></li>
-<li class=""><a href="/domain/91"><span>Careers</span></a></li>
+<li class=""><a href="http://www.blackboard.com/about-us/careers/open-positions/professional-opportunities.aspx"><span>Careers</span></a></li>
 </ul>
 </li><li class="sw-channel-item active">
 <a href="/domain/89">
@@ -5094,13 +5113,13 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 <div id="sw-footer-links">
 <ul>
 <li><a title="Click to email the primary contact" href="mailto:rob.madgwick@schoolwires.com">Questions or Feedback?</a> | </li>
-<li><a href="http://www.schoolwires.com/privacy" target="_blank">Schoolwires Privacy Policy (Updated)</a> | </li>
+<li><a href="http://www.schoolwires.com/privacy" target="_blank">Blackboard Schoolwires Privacy Policy (Updated)</a> | </li>
 <li><a href="http://www.schoolwires.com/terms" target="_blank">Terms of Use</a></li>
 </ul>
 </div>
-<div id="sw-footer-copyright">Copyright © 2002-2015 Schoolwires, Inc. All rights reserved.</div>
-<div id="sw-footer-logo"><a href="http://www.schoolwires.com" title="This site is powered by Schoolwires Centricity2.">
-<img src="http://www.schoolwires.com/Static/V2_10_01//GlobalAssets/Images/sw-footer-logo.png" alt="Powered by Schoolwires Centricity2 logo">
+<div id="sw-footer-copyright">Copyright © 2002-2015 Blackboard, Inc. All rights reserved.</div>
+<div id="sw-footer-logo"><a href="http://www.schoolwires.com" title="This site is powered by Schoolwires.">
+<img src="http://www.schoolwires.com/Static/V2_11_01//GlobalAssets/Images/sw-footer-logo.png" alt="Powered by Schoolwires logo">
 </a></div>
 </div>
 </div>
@@ -5108,7 +5127,7 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 <!-- END - STANDARD FOOTER -->
 <script type="text/javascript">
    $(document).ready(function(){
-      var beaconURL='http://analytics.schoolwires.com/analytics.asmx/Insert?AccountNumber=46N0TcY8aaqpNwzcY55gRw%3d%3d&SessionID=2bdd5a3a-3417-4e2a-a2f9-3862847f6423&SiteID=4&ChannelID=53&SectionID=90&PageID=345&HitDate=4%2f7%2f2015+10%3a53%3a15+PM&Browser=Unknown+0.0&OS=Unknown&IPAddress=204.236.235.245';
+      var beaconURL='http://analytics.schoolwires.com/analytics.asmx/Insert?AccountNumber=46N0TcY8aaqpNwzcY55gRw%3d%3d&SessionID=b4b97439-ac65-4ed2-ad35-a7a7dd5288a7&SiteID=4&ChannelID=53&SectionID=90&PageID=345&HitDate=10%2f20%2f2015+9%3a24%3a26+AM&Browser=Unknown+0.0&OS=Unknown&IPAddress=204.236.235.245';
       try {
          $.getJSON(beaconURL + '&jsonp=?', function(myData) {});
       } catch(err) { 
@@ -5543,24 +5562,24 @@ function LoadTaggedData(container, MIID, PMI, tag) {
 </script>
     
     <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.1/jquery-ui.min.js" type="text/javascript"></script>
-    <script src="http://www.schoolwires.com/Static/V2_10_01/GlobalAssets/Scripts/min/SW-UI.min.js" type="text/javascript"></script>
-    <script src="http://www.schoolwires.com/Static/V2_10_01/GlobalAssets/Scripts/Initialize.js" type="text/javascript"></script>
-    <script src="http://www.schoolwires.com/Static/V2_10_01/GlobalAssets/Scripts/min/swfobject.min.js" type="text/javascript"></script>
-    <script src="http://www.schoolwires.com/Static/V2_10_01/GlobalAssets/Scripts/min/jquery.ajaxupload.min.js" type="text/javascript"></script> 
+    <script src="http://www.schoolwires.com/Static/V2_11_01/GlobalAssets/Scripts/min/SW-UI.min.js" type="text/javascript"></script>
+    <script src="http://www.schoolwires.com/Static/V2_11_01/GlobalAssets/Scripts/Initialize.js" type="text/javascript"></script>
+    <script src="http://www.schoolwires.com/Static/V2_11_01/GlobalAssets/Scripts/min/swfobject.min.js" type="text/javascript"></script>
+    <script src="http://www.schoolwires.com/Static/V2_11_01/GlobalAssets/Scripts/min/jquery.ajaxupload.min.js" type="text/javascript"></script> 
 
 <!-- Begin swuc.CheckScript -->
-  <script type="text/javascript" src="http://www.schoolwires.com/Static/V2_10_01/GlobalAssets/Scripts/ThirdParty/json2.js"></script>
-  <script type="text/javascript" src="http://www.schoolwires.com/Static/V2_10_01/GlobalAssets/Scripts/CheckScript.js"></script>
+  <script type="text/javascript" src="http://www.schoolwires.com/Static/V2_11_01/GlobalAssets/Scripts/ThirdParty/json2.js"></script>
+  <script type="text/javascript" src="http://www.schoolwires.com/Static/V2_11_01/GlobalAssets/Scripts/CheckScript.js"></script>
 <!-- End swuc.CheckScript -->
 
 
-<!-- Server Load Time (01): 0.1093652 Seconds -->
+<!-- Server Load Time (02): 0.1093764 Seconds -->
 
 
 
 <!-- off-canvas menu enabled-->
 
 
-<script type="text/javascript"> if (!NREUMQ.f) {NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script"); e.type="text/javascript"; e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" + "js-agent.newrelic.com/nr-100.js"; document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","bam.nr-data.net","e84461d315","246869","Z1MEZEtSVkoFBxIKX14ZJ2NpHEtQEAFJB1VWVxNcTR1ZShQc",0,109,new Date().getTime(),"4561889A1794EA90","","","",""]);</script>
 
-<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
+
+</body></html>
