@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the m4maths.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611010606id_/http%3A//www.m4maths.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the m4maths.com privacy policy that was archived on 2015-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151020165356id_/http%3A//www.m4maths.com/privacy.php) for the most accurate reproduction.*
 
 # M4maths Privacy policy
 
@@ -35,7 +35,9 @@ We will take appropriate steps to protect the information you share with us from
 
 ## COOKIES
 
-Some parts of our site use cookies in order to provide you a better experience of the site. For example, your scores in the online activities in any given session are stored in a cookie. For registered members, cookies allow us to provide you a customized experience. 
+Third party vendors, including Google, media.net and other ad networks use cookies to serve ads based on a user's prior visits to your website. Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet. Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting Ads Settings. You can also check http://www.aboutads.info/ on how to opt out of third-party vendor’s use of cookies for interest-based advertising 
+
+We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners. For more information on how Google uses data when you use our partner’ sites or apps, visit this link: http://www.google.com/intl/en/policies/privacy/partners/ 
 
 ## SHARING OF PERSONAL INFORMATION
 
@@ -50,5 +52,17 @@ We use IP addresses to analyze trends, administer the site, track user's movemen
 **M4MATHS** contains links to other sites. Please be aware that M4MATHS.com is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 
 By using this site, you signify your assent to the **M4MATHS** Privacy Policy. If you do not agree to this policy, please do not use our site. Your continued use of the **M4MATHS** Web Site following the posting of changes to these terms will mean you accept those changes. 
+
+##  Advertising and 3rd party ads
+
+Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.  
+Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.  
+Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting Ads Settings. (Alternatively, you can direct users to opt out of a third-party vendor's use of cookies for interest based advertising by visiting aboutads.info.)  
+If you have not opted out of third-party ad serving, the cookies of other third-party vendors or ad networks may also be used to serve ads on your site, and should be disclosed in your privacy policy as well in the following manner.
+
+Notify your site visitors of the third-party vendors and ad networks serving ads on your site.  
+Provide links to the appropriate vendor and ad network websites.  
+Inform your users that they may visit those websites to opt out of the use of cookies for interest-based advertising (if the vendor or ad network offers this capability). Alternatively, you can direct users to opt out of some third-party vendor's use of cookies for interest-based advertising by visiting aboutads.info.  
+Because publisher sites and laws across countries vary, we're unable to suggest specific privacy policy language. However, you may wish to review resources such as the Network Advertising Initiative for guidance on drafting a privacy policy.
 
 **Thank you for your support of these policies and of M4MATHS.com.**
