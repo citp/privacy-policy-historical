@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chemaxon.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609034327id_/http%3A//www.chemaxon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chemaxon.com privacy policy that was archived on 2015-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151020055053id_/http%3A//www.chemaxon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « ChemAxon – cheminformatics platforms and desktop applications
 
@@ -62,7 +62,7 @@ We may change this Privacy Policy from time to time, so it is advisable to revie
 
 ### Contact Information
 
-If you have questions about our handling of personal information, you may write to us at [info@ChemAxon.com](mailto:info@ChemAxon.com) or at the addresses below. 
+If you have questions about our handling of personal information, you may write to us at [info@chemaxon.com](mailto:info@ChemAxon.com) or at the addresses below. 
 
 ### Corporate Identity
 
