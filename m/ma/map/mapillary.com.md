@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the mapillary.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217155726id_/http%3A//www.mapillary.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapillary.com privacy policy that was archived on 2015-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151020060856id_/http%3A//www.mapillary.com/privacy.html) for the most accurate reproduction.*
 
 # Mapillary | Privacy Policy
 
-##  Mapillary Privacy Policy 
-
-We respect your right to privacy and will only process your personal information in accordance with applicable data protection and privacy laws. 
+We respect your right to privacy and will only process your personal information in accordance with applicable data protection and privacy laws.
 
 In this Privacy Policy, "we," "us," "its" and "our" refer to Mapillary AB ("Mapillary"), organized under the laws of Sweden. Please read carefully this Privacy Policy ("Policy") relating to your use of Mapillary applications, services and websites.
 
@@ -18,13 +16,13 @@ It may be possible for you to browse certain parts of the Website without tellin
 
 **B. Information Collected**
 
-We collect information about you in various ways when you use our Service and as set forth in the Terms of Use. Some of this information may be Personal Data about you. As used in this Policy, "Personal Data" means any information (either alone or in combination with other information we hold) that specifically identifies you as an individual, such as your name, address and physical location, account numbers, email addresses, or telephone numbers. 
+We collect information about you in various ways when you use our Service and as set forth in the Terms of Use. Some of this information may be Personal Data about you. As used in this Policy, "Personal Data" means any information (either alone or in combination with other information we hold) that specifically identifies you as an individual, such as your name, address and physical location, account numbers, email addresses, or telephone numbers.
 
 As well as Personal Data, we also collect some information that is not personally identifying, including aggregate information, which is data we collect about use of the Service or about a group or category of users from which it is not possible to identify you (“Nonpersonal Data”; together with Personal Data, collectively "Information"). 
 
 _Personal Data_
 
-When you register for an account, and in the course of your use of the Service, we collect the following Personal Data: your log-in information (username and password), email address, any profile or biographical information you elect to provide, any personally identifying information to the extent revealed in your Content (as that term is defined in the Mapillary Terms of Use), and, if applicable, financial information, including credit card and/or bank account numbers, that you provide to us in exchange for your commercial use of the Service as agreed in writing separately between us. 
+When you register for an account, and in the course of your use of the Service, we collect the following Personal Data: your log-in information (username and password), email address, any profile or biographical information you elect to provide, any personally identifying information to the extent revealed in your Content (as that term is defined in the Mapillary Terms of Use), and, if applicable, financial information, including credit card and/or bank account numbers, that you provide to us in exchange for your commercial use of the Service as agreed in writing separately between us.
 
 _Nonpersonal Data_
 
@@ -38,10 +36,7 @@ The Service may utilize "cookies", which are small text files placed on your com
 ---|---|---|---|---|---|---|---|---  
 _ga |   | Site analytics |   | 2 years |   | [Google](http://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage) |   | Analytical  
   
-Explanation:  
-Functional - these cookies are necessary for the Website to function properly.  
-Analytical - these cookies allow us to understand how visitors use our Website, so we can measure and improve how the Website works.  
-Duration - cookies may be session-only, in which they expire at the end of each browser session, or may expire at a certain date. 
+Explanation: Functional - these cookies are necessary for the Website to function properly. Analytical - these cookies allow us to understand how visitors use our Website, so we can measure and improve how the Website works. Duration - cookies may be session-only, in which they expire at the end of each browser session, or may expire at a certain date.
 
 _Do Not Track Disclosure_
 
@@ -81,7 +76,7 @@ We do not disclose, sell or rent your Personal Data to third parties for their m
 
 (iv) under written obligations of confidentiality, in connection with or during negotiation of any a merger, financing, acquisition, or dissolution, transaction, or proceeding involving sale, transfer, divestiture, or disclosure of all or a portion of our business or assets to another company.
 
-We may also share and disclose Nonpersonal Data. 
+We may also share and disclose Nonpersonal Data.
 
 **E. No Guarantee of Security**
 
@@ -117,5 +112,4 @@ Once you make a public posting, you may not be able to change or remove it. If y
 
 If you have any questions about this Policy, please contact us at _hello@mapillary.com_.
 
-===  
-(v1, Effective Date: Oct 8, 2013)
+=== (v1, Effective Date: Oct 8, 2013)
