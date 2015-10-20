@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gwcu.org privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319124623id_/https%3A//www.gwcu.org/compliance/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gwcu.org privacy policy that was archived on 2015-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151020120657id_/https%3A//www.gwcu.org/compliance/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Terms, Conditions, and Disclosures - Goldenwest Credit Union
 
