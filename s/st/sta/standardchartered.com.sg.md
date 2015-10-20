@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the standardchartered.com.sg privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322025940id_/https%3A//www.sc.com/sg/privacy.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standardchartered.com.sg privacy policy that was archived on 2015-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151020175451id_/https%3A//www.sc.com/sg/privacy.html%23privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Standard Chartered Bank (Singapore) Limited
-
-﻿
 
     Privacy Statement
     Privacy Statement (Corporate Clients)
@@ -79,12 +77,10 @@ You have the right to request a copy of the personal data processed in relation 
 Personal Banking |  1800 747 7000 (24-hour)  
 (65) 6747 7000 (24-hour) if calling from overseas   
 ---|---  
-Preferred Banking |  1800 535 3522 (24-hour)  
-(65) 6535 3522 (24-hour) if calling from overseas   
 Priority Banking |  1800 846 8000 (24-hour)  
 (65) 6846 8000 (24-hour) if calling from overseas   
 Private Banking |  Please contact your Relationship Manager   
-SME Banking |  1800 743 3000 (Mon to Fri - 9:00am to 6:00pm)  
+Business Banking |  1800 743 3000 (Mon to Fri - 9:00am to 6:00pm)  
 (65) 6743 3000 (Mon to Fri - 9:00am to 6:00pm) if calling from overseas   
   
 **By Mail:**
@@ -273,7 +269,7 @@ Please ensure you also read the Terms and Conditions applicable to these product
       2. **Marketing**
 
 We generally do not use Your Information collected on this Website for marketing purposes but if you apply for products and services on the Website, Your Information may be used to inform you about other related products and services of SCB Group that may be of interest.  
-If you do not wish to be contacted in this way please register via our online form [here](https://forms.online.standardchartered.com/public_website/singapore/do_not_call/).
+If you do not wish to be contacted in this way please call our 24-hour Phone Banking team.
 
       3. **Disclosing Your Information**
 
