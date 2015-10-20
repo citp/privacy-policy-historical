@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nutrisystem.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607135348id_/http%3A//www.nutrisystem.com/jsps_hmr/privacy/index.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutrisystem.com privacy policy that was archived on 2015-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151020023311id_/http%3A//www.nutrisystem.com/jsps_hmr/privacy/index.jsp) for the most accurate reproduction.*
 
 # Nutrisystem.com Privacy Policy
 
@@ -16,7 +16,7 @@ When you place an order on our Site, we collect your name, e-mail address, maili
 
 Our Handheld Products also collect information about your usage of the Application (such as the dates you last synced with the Internet or the dates you last used certain features). When you sync your device with the Website, we store some of this information. 
 
-If you do not want to receive additional promotions from us, please let us know by emailing us at [optout@nutrisystem.com](mailto:optout@nutrisystem.com) or by clicking [here](http://www.nutrisystem.com/jsps_hmr/unsubscribe/updateSubscription.jsp). If you opt-out of promotional or newsletter emails from Nutrisystem, we may continue to send you certain transactional communications, such as service announcements and administrative messages relating to Nutrisystem, that are necessary to our relationship with you.
+If you do not want to receive additional promotions from us, please let us know by emailing us at [optout@nutrisystem.com](mailto:optout@nutrisystem.com) or by clicking [here](http://www.nutrisystem.com/jsps_hmr/unsubscribe/enterEmail.jsp). If you opt-out of promotional or newsletter emails from Nutrisystem, we may continue to send you certain transactional communications, such as service announcements and administrative messages relating to Nutrisystem, that are necessary to our relationship with you.
 
 **Health and Age Information**
 
@@ -72,7 +72,7 @@ Nutrisystem shares your information (other than payment information) with third-
 
 Nutrisystem may also provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors. 
 
-In addition, from time to time, we may make customer e-mail addresses and postal addresses available to other reputable business associates whose products or services might be of value to you. If you do not want us to share your information with other companies or organizations, please let us know by emailing us at [optout@nutrisystem.com](mailto:optout@nutrisystem.com) or by clicking [here](http://www.nutrisystem.com/jsps_hmr/unsubscribe/updateSubscription.jsp). If you opt-out of promotional or newsletter emails from Nutrisystem, we may continue to send you certain communications such as service announcements and administrative messages, relating to Nutrisystem that are necessary to our relationship with you.
+In addition, from time to time, we may make customer e-mail addresses and postal addresses available to other reputable business associates whose products or services might be of value to you. If you do not want us to share your information with other companies or organizations, please let us know by emailing us at [optout@nutrisystem.com](mailto:optout@nutrisystem.com) or by clicking [here](http://www.nutrisystem.com/jsps_hmr/unsubscribe/enterEmail.jsp). If you opt-out of promotional or newsletter emails from Nutrisystem, we may continue to send you certain communications such as service announcements and administrative messages, relating to Nutrisystem that are necessary to our relationship with you.
 
 In addition to what we have described above, Nutrisystem may also disclose your personal information to third parties in certain limited circumstances, as follows (1) as necessary if we believe that there has been a violation of our site Terms and Conditions, of the law, of our rights or of any third party; (2) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law; and (3) if you have given permission for us to share your account information with other members of your household. 
 
@@ -102,11 +102,11 @@ California’s “Shine the Light” law, Civil Code section 1798.83, requires c
 
 By using our web site, telephone consultation, or mailing in requests for information you consent to the collection and use of your information by Nutrisystem. We may make non-significant changes to our Privacy Policy that in general will not affect our use of your Personally Identifiable Information at any time by posting the amended terms on this site. All amended terms automatically take effect 30 days after they are posted.
 
-If at some point in the future, there is a material change to our information usage practices that affect your personally identifiable information, we will notify you by e-mail. At the time of this message, you will be able to opt-out of the new information usage by sending a message to the following e-mail: [opt-out@nutrisystem.com](mailto:opt-out@nutrisystem.com) or by clicking [here](http://www.nutrisystem.com/jsps_hmr/unsubscribe/updateSubscription.jsp). We may also make non-significant changes to our Privacy Policy that generally will not affect our use of your personally identifiable information. If you do not agree to the terms of this Privacy Policy, you should not use our Website. You should check this posted Privacy Policy for changes. 
+If at some point in the future, there is a material change to our information usage practices that affect your personally identifiable information, we will notify you by e-mail. At the time of this message, you will be able to opt-out of the new information usage by sending a message to the following e-mail: [opt-out@nutrisystem.com](mailto:opt-out@nutrisystem.com) or by clicking [here](http://www.nutrisystem.com/jsps_hmr/unsubscribe/enterEmail.jsp). We may also make non-significant changes to our Privacy Policy that generally will not affect our use of your personally identifiable information. If you do not agree to the terms of this Privacy Policy, you should not use our Website. You should check this posted Privacy Policy for changes. 
 
 **Newsletter**
 
-If a user wishes to subscribe to our newsletter, we ask only for an individual’s e-mail address. Out of respect for our users’ privacy we provide a way to opt-out of these communications. Click [here](http://www.nutrisystem.com/jsps_hmr/unsubscribe/updateSubscription.jsp) to unsubscribe to the nutrisystem.com newsletter. 
+If a user wishes to subscribe to our newsletter, we ask only for an individual’s e-mail address. Out of respect for our users’ privacy we provide a way to opt-out of these communications. Click [here](http://www.nutrisystem.com/jsps_hmr/unsubscribe/enterEmail.jsp) to unsubscribe to the nutrisystem.com newsletter. 
 
 **Corrections/Updates**
 
