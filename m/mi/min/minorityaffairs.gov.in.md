@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minorityaffairs.gov.in privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608083508id_/http%3A//www.minorityaffairs.gov.in/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minorityaffairs.gov.in privacy policy that was archived on 2015-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151020154033id_/http%3A//minorityaffairs.gov.in/pp) for the most accurate reproduction.*
 
 # Privacy Policy |
 
