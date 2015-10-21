@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the voguewigs.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426182150id_/http%3A//www.voguewigs.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voguewigs.com privacy policy that was archived on 2015-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151021041351id_/http%3A//www.voguewigs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Privacy Policy**  
-Your privacy is important. We respect that.  
-Voguewigs.com has created this privacy statement in order to demonstrate our firm commitment to privacy. Voguewigs does not ever share your information with other companies or advertisers without your explicit permission. Your privacy is your right and we respect that. The following discloses the information gathering and dissemination practices for this Web site: http://www.voguewigs.com 
+Your privacy is important. We respect that.
+
+Voguewigs.com has created this privacy statement in order to demonstrate our firm commitment to privacy. Voguewigs does not ever share your information with other companies or advertisers without your explicit permission. Your privacy is your right and we respect that. The following discloses the information gathering and dissemination practices for this Web site: http://www.voguewigs.com
 
 **Information Automatically Logged**
 
@@ -52,6 +52,6 @@ You can send email to questions@voguewigs.com You can visit the following URL: w
 **Contacting the Web Site**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
 
-Third-Party Web Beacons: We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com). 
+Third-Party Web Beacons: We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com).
 
-We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/). 
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
