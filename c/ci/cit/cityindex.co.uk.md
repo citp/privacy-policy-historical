@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cityindex.co.uk privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512155131id_/http%3A//www.cityindex.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityindex.co.uk privacy policy that was archived on 2015-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151021033158id_/http%3A//www.cityindex.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Spread Betting | CFD Trading | CFDs | City Index
 
-**City Index Limited (“we”, “us”, “our”) is subject to data protection legislation in the UK. We are therefore committed to protecting your privacy and maintaining the security of any personal information that we receive from you. If our Privacy Policy changes, we will place an updated version on this page.**
+**GAIN Capital UK Ltd (“we”, “us”, “our”) is subject to data protection legislation in the UK. We are therefore committed to protecting your privacy and maintaining the security of any personal information that we receive from you. If our Privacy Policy changes, we will place an updated version on this page.**
 
 The purpose of this policy is to explain to you what personal information we collect and how we and our associated companies may use it. The way in which information about you is held and used is also described in section D of our General Terms.
 
@@ -30,4 +30,4 @@ The data that we collect from you may be transferred to, and stored at, a destin
 
 **Using cookies** We use a technology known as “cookies” as part of a normal business procedure to track patterns of behaviour of visitors to our site. A cookie is an element of data that our website sends to your browser which is then stored on your system. We may store any information collected about you in this way which can be used to identify you when you visit our site in future, unless you change your browser settings to switch off cookies. If you want to know how to do this please look at the help menu on your browser. Information on deleting or controlling cookies is available at [www.AboutCookies.org](http://www.aboutcookies.org/). However, you may not be able to use all the interactive features of our site if cookies are disabled. Find out more about [Cookies](http://www.cityindex.co.uk/cookies.aspx "Cookies").
 
-If you have any questions about privacy, please contact our Compliance department at City Index Limited, Park House, 16 Finsbury Circus, London, EC2M 7EB.
+If you have any questions about privacy, please contact our Compliance department at Park House, 16 Finsbury Circus, London, EC2M 7EB.
