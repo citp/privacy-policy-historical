@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gosugamers.net privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504101245id_/http%3A//www.gosugamers.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gosugamers.net privacy policy that was archived on 2015-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151021080459id_/http%3A//www.gosugamers.net/privacy) for the most accurate reproduction.*
 
 # Privacy | GosuGamers
 
@@ -8,7 +8,7 @@ We collect information from you when you register on our site. When ordering or 
 
 **COOKIE POLICY**
 
-You can read about GosuGamers.net cookie policy [here.](http://www.gosugamers.net/395-cookie-policy)
+You can read the cookie policy valid for Gosugamers.net and Gosucup.com [here.](http://www.gosugamers.net/395-cookie-policy)
 
 **WHAT DO WE USE YOUR INFORMATION FOR?**
 
@@ -25,14 +25,6 @@ Any of the information we collect from you may be used in one of the following w
 **HOW DO WE PROTECT YOUR INFORMATION?**
 
 We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.  
- 
-
-**DO WE USE COOKIES?**
-
-Yes _(Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser [if you allow]  that enables the sites or service providers systems to recognize your browser and capture and remember certain information)_  
-We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
-
-In case you want to opt-out from getting tracked with cookies, please go to <http://www.networkadvertising.org/managing/opt_out.asp> _._  
  
 
 **DO WE DISCLOSE ANY INFORMATION TO OUTSIDE PARTIES?**
