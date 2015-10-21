@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yumeating.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622090645id_/http%3A//yumeating.com/legal-privacy-disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yumeating.com privacy policy that was archived on 2015-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151021041419id_/http%3A//yumeating.com/legal-privacy-disclosure) for the most accurate reproduction.*
 
 # Legal - YUM eating
 
@@ -48,7 +48,7 @@ Other Third Party ad servers or ad networks may also use cookies to track users 
 
 Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. We may use advertising service vendors to help present advertisements on the website. These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith.
 
-Currently YUMeating runs advertising from Mode Media, Delish Network (backfill to Mode) and Gourmet Ads.
+Currently YUMeating runs advertising from Mode Media, Svorn and Adsense (backfill to Mode) and Gourmet Ads.
 
 For information about opting out of Gourmet Ads and ad serving partners please visit <http://www.gourmetads.com/about/privacy-policy>.
 
@@ -137,5 +137,3 @@ Although I have done taxes professionally, even I make mistakes.
 Thank You,
 
 Chrystal Mahan
-
-YUM eating / Self Employed Writer
