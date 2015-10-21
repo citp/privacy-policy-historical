@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the castrol.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624013231id_/http%3A//www.castrol.com/content/castrol-country/en/home/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the castrol.com privacy policy that was archived on 2015-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151021040820id_/http%3A//www.castrol.com/content/castrol-country/en/home/privacy-statement.html) for the most accurate reproduction.*
 
-# Privacy Statement | Castrol United Kingdom | Privacy Notice | Castrol Global Home
+# Privacy Notice | Castrol Global Home
 
 ## Information about our Organisation and Website 
     
     
     Castrol respects your privacy and is committed to protecting it. We provide this Privacy Statement to inform you of our privacy practices and how your personal information is used and protected by Castrol. This website is governed by the laws of England. The courts of England shall have exclusive jurisdiction over any dispute arising out of your use of this website. 
     
-    The castrol.com/uk website is owned by Castrol Limited, Wakefield House, Pipers Way, Swindon SN3 1RE, United Kingdom. Registered in the UK: 149435
+    The castrol.com/uk website is owned by Castrol Limited, Castrol Technology Centre, Whitchurch Hill, Pangbourne, Berkshire, RG8 7QR. Registered in the UK: 149435
     
 
 ### Collection and Use of Personal Information
@@ -73,7 +73,7 @@
 ### Questions About Your Personal Information
     
     
-    If you have any questions relating to this privacy statement or the personal information we hold about you please contact us by email at [lubesmarketing@castrol.com](mailto:lubesmarketing@castrol.com) or by post at the following address:Digital Marketing, Castrol UK Ltd, Wakefield House, Pipers Way, Swindon SN3 1RE.
+    If you have any questions relating to this privacy statement or the personal information we hold about you please contact us by email at [lubesmarketing@castrol.com](mailto:lubesmarketing@castrol.com) or by post at the following address:Digital Marketing, Castrol UK Ltd, Castrol Technology Centre, Whitchurch Hill, Pangbourne, Berkshire, RG8 7QR.
 
 ### Changes to this Privacy Statement
     
