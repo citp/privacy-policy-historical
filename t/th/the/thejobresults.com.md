@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thejobresults.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630171202id_/http%3A//www.thejobresults.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thejobresults.com privacy policy that was archived on 2015-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151021203518id_/http%3A//www.thejobresults.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
