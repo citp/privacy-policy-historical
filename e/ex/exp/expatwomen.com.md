@@ -1,39 +1,52 @@
-> *The following text is extracted and transformed from the expatwomen.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625142657id_/http%3A//www.expatwomen.com/expat-women-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expatwomen.com privacy policy that was archived on 2015-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151021062745id_/http%3A//www.expatwoman.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Expat Women - Privacy
+# Privacy Policy
 
-This site is owned and operated by Expat Women Enterprises Pty Ltd. We give full respect to your privacy and confidential contact information. This statement explains our policies and practices regarding the use and disclosure of your personal information by Expat Women Enterprises Pty Ltd. Please note that, Expat Women Enterprises Pty Ltd reviews and updates this Privacy Policy from time to time as needed without notice. Therefore, you should review the terms of this policy periodically to make sure that you are aware of how Expat Women Enterprises Pty Ltd collects and uses personal information. By using our web site, you consent to the collection and use of your personal information by Expat Women Enterprises Pty Ltd as explained below.   
+[ ](http://www.expatwoman.com/ "ExpatWoman")
+
+[](http://www.expatwoman.com/restaurants/default.aspx)  
 
 
-1\. Personal Information
+In order for the website to provide a safe and useful service, it is important for ExpatWoman.com to collect, use, and share personal information.
 
-You may visit www.expatwomen.com anonymously as often as you like without providing any personally identifying information (such as your name, address or e-mail address). Expat Women Enterprises Pty Ltd does not collect personally identifying information from you except when you specifically provide it, and Expat Women Enterprises Pty Ltd endeavours to protect the information it receives. You will come across places where Expat Women Enterprises Pty Ltd will ask you to voluntarily provide us with information about yourself (for example, when you sign up for our newsletter, submit a story, make a comment on a story, submit a bloglink, submit a city experience, or other such requests). All of these activities are purely voluntary; if you do not wish to reveal your personal information, you are free simply to ignore these sections of our site. If you decide to participate, we will not use your personal information for any purpose other than expressed below and you hereby grant us your authorization to us to proceed accordingly.
+    * **Collection.** Information posted on ExpatWoman.com is publicly available. Our servers are located in the UK and the UAE, therefore, if you choose to provide us with personal information, you are consenting to the transfer and storage of that information on our servers. We collect and store the following personal information: 
+      * email address and demographic information;
+      * computer sign-on data, statistics on page views, traffic to and from ExpatWoman.com and response to advertisements;
+      * other information, including users' IP address and standard web log information.
+    * **Use.** We use users' personal information to: 
+      * provide our services
+      * resolve disputes, collect fees, and troubleshoot problems;
+      * manage the forum in accordance with the rules set out on joining;
+      * encourage safe trading;
+      * review collective data to better understand our customers’ interests as part of the process of continually improving our services;
+      * inform readers about features, services, competitions and events;
+      * communicate marketing and promotional offers to you;
+      * do other things for users as described when we collect the information.
+    * **Security.** We use lots of tools (encryption, passwords, physical security) to protect your personal information against unauthorized access and disclosure.
+    * **Disclosure.** We never sell or rent users' personal information to third parties for their marketing purposes.
+    * **Market Research.** We may use cumulative data to conduct our own market research and through the site, mails to members and threads on the forum, may from time to time appeal for voluntary contributions of a more qualitative nature. We never sell or rent users’ personal information to third party media companies.
+    * **Legal Matters.** If you violate the laws of the United Arab Emirates and/or the terms of use of this site you forfeit your privacy rights over your personal information. We may disclose personal information to respond to legal requirements, enforce our policies, respond to claims that a posting or other content violates other's rights, or protect anyone's rights, property, or safety.
+    * **ExpatWoman Membership.** It is not necessary to join our site to read our feature articles, forum posts, property listings, avail of a discount offered or post a classified ad. ExpatWoman.com readers who choose to sign up for our mailing list agree to receive a weekly mail from ExpatWoman highlighting latest news, offers and events, as well as occasional marketing communications about consumer goods and services on behalf of our third party advertising partners. Site members are also able to post and reply to messages on the busy ExpatWoman forum boards, and to enter our monthly competitions.
+    * **Data Collection.** You may not use our site, forum or communication tools to harvest addresses, send spam or otherwise breach our Terms of Use or Privacy Policy. We may automatically scan and manually filter email messages sent via our communication tools for malicious activity or prohibited content. If you use our tools to send content to a friend, we don't permanently store your friends' addresses or use or disclose them for marketing purposes. In addition, it is unacceptable to disclose the contact information of others through ExpatWoman.com. To report spam from other users, please _[Admin@ExpatWoman.com](mailto:Admin@ExpatWoman.com)_ a member of our Admin team.
 
-If Expat Women Enterprises Pty Ltd asks for your personal information on bulletin boards or comment submission (or similar sections of the site), it is simply so that other people reading a string of comments will be able to determine which comments come from the same person. You may, therefore, provide a nickname or alias, if you prefer, so that your identity is not disclosed. You should be aware that if you do voluntarily disclose personal information (e.g. user name, e-mail address) on the bulletin boards, that information can be collected and used by others and may result in unsolicited messages from other posters or parties. If you choose to participate anonymously, you should remember that you are still legally liable for the material you post, including claims of libel, invasion of privacy and copyright infringement.
 
-Some of the main areas Expat Women Enterprises Pty Ltd asks for your personal information include when you submit a story, city experience or a bloglink. Once you have submitted your information via our online submission form or via email, you have agreed to let us reveal some personal information on our web site (including first name, nationality, current country, countries lived in, biography, languages spoken and a photo. Any other personal information provided may be used by Expat Women Enterprises Pty Ltd to communicate with you regarding winning a prize (your email address, mailing address information) etc. 
 
-2\. Use of Personal information
+**Online Purchase Privacy Policy**
 
-We will use your personal information solely for purpose of designing a web site that’s content is suitable to your needs. 
+  * Personal details required to make a purchase are your name, contact email, contact phone number.
+  * All credit/ debit card details or information will not be stored, sold, shared, rented or leased to any third parties.
+  * All personally identifiable information will NOT be stored, sold, shared, rented or leased to any third parties.
 
-Expat Women Enterprises Pty Ltd does track user traffic patterns throughout our site. However, we do not correlate this information with data about individual users. We do break down overall usage statistics according to a user's domain name, browser type, and MIME type by reading this information from the browser string (information contained in every user's browser). We use tracking information to determine which areas of our sites users like and do not like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you.
 
-3\. Disclosure of Personal information
 
-Expat Women Enterprises Pty Ltd will not knowingly give away, rent, or sell any information to third parties regarding your name, e-mail address, or other information you send us through inquiries, submissions, or subscriptions.
+**Secure Socket Layer (SSL)**
 
-4\. Accuracy and Security
+  * ExpatWoman.com uses SSL (Secure Socket Layer) encryption when transmitting certain kinds of information, such as financial services information or payment information. An icon resembling a padlock is displayed on the bottom of most browsers window during SSL transactions that involve credit cards and other forms of payment. Any time ExpatWoman.com asks you for a credit card number on ExpatWoman.com for payment or for verification purposes, it will be SSL encrypted.
 
-The accuracy and security of the personal information is important to Expat Women Enterprises Pty Ltd. Currently, you may request updates to your personal information retained by Expat Women Enterprises Pty Ltd. If you email us to correct your personal information, we will attempt to correct such inaccuracies in a timely manner. If you have previously provided us with your details, we will try to accommodate your request, but cannot promise that it will happen immediately. Please allow 1-4 weeks for updates to be made. Expat Women Enterprises Pty Ltd is concerned with the security of your Personal information and is committed to taking reasonable steps to protect it from unauthorized access and use of that personal information. __  
-5\. External Links
 
-Expat Women Enterprises Pty Ltd web site provides links to other third party web sites. Even if the third party is affiliated with Expat Women Enterprises Pty Ltd through a business partnership or otherwise, Expat Women Enterprises Pty Ltd is not responsible for the privacy policies or practices or the content of such external links. These links are provided to you for convenience purposes only and you access them at your own risk. 
 
-6\. Terms of Use
+**Event Photography**
 
-Please also see our Terms and Conditions, which describes the restrictions, disclaimers, indemnification and limitation of liability governing the use of the entire Expat Women Enterprises Pty Ltd web site. 
+  * All our events are public events and as such your photograph may be taken and used on the website or social media belonging to this website. Official photographers are clearly identifiable and if you do not wish to have your photo taken please inform them. If they have already taken a photo you can ask them to delete it from their camera. If a photograph of yourself ever appears on our website or social media and you wish for it to be removed please email [admin@expatwoman.com](mailto:admin@expatwoman.com) and it will be dealt with promptly. We will remove anything of this nature from our website at any time and for anyone. Attendance at any of our public events implies permission is granted for your photo to be taken and acceptance of these terms and conditions.
 
-7\. General
 
-If you have questions regarding our Privacy Statement, please email: contactus at expatwomen dotcom
