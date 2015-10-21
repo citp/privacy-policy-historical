@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the njoyn.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506221011id_/http%3A//njoyn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the njoyn.com privacy policy that was archived on 2015-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151021023056id_/http%3A//njoyn.com/privacy-policy) for the most accurate reproduction.*
 
 # Njoyn: Privacy Policy
 
