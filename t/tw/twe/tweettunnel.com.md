@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tweettunnel.com privacy policy that was archived on 2015-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150405023520id_/http%3A//tweettunnel.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweettunnel.com privacy policy that was archived on 2015-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151021082009id_/http%3A//tweettunnel.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -29,17 +29,13 @@ We use cookies to understand and save your preferences for future visits.
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
- **California Online Privacy Protection Act Compliance**
-
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
-
  **Online Privacy Policy Only**
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
  **Your Consent**
 
-By using our site, you consent to our [websites privacy policy](https://web.archive.org/web/20150405023520id_/http%3A//tweettunnel.com/privacy.php).
+By using our site, you consent to our [websites privacy policy](https://web.archive.org/web/20151021082009id_/http%3A//tweettunnel.com/privacy.php).
 
  **Changes to our Privacy Policy**
 
