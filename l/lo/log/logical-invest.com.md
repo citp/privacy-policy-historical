@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logical-invest.com privacy policy that was archived on 2015-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150415010144id_/http%3A//www.logical-invest.com%3Fpage_id%3D11657) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logical-invest.com privacy policy that was archived on 2015-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151021084614id_/http%3A//www.logical-invest.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
