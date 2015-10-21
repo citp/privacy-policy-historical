@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestfunapp.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408072931id_/http%3A//bestfunapp.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestfunapp.com privacy policy that was archived on 2015-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151021033834id_/http%3A//bestfunapp.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy - Best Fun Apps on Facebook
 
@@ -63,4 +63,4 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 If you have any questions regarding privacy policy or queries please contact us via email at info@mygoldengoa.com
 
-##### **Last Updated: 2nd June 2013**
+##### **Last Updated: 2nd June 2014**
