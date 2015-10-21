@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the happybidday.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629122129id_/http%3A//www.happybidday.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happybidday.com privacy policy that was archived on 2015-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151021163801id_/http%3A//www.happybidday.com/privacy.php) for the most accurate reproduction.*
 
 # Welcome To HappyBidDay
 
