@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xpcodecpack.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623061734id_/http%3A//www.xpcodecpack.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xpcodecpack.com privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022014116id_/http%3A//www.xpcodecpack.com/privacy) for the most accurate reproduction.*
 
-# Download X Codec Pack 2.7.2 – With Windows 8 support! » Privacy
+# Download X Codec Pack 2.7.4 – With Windows 8 support! » Privacy
 
 ## Privacy
 
