@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allnewepisodes.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314230045id_/http%3A//allnewepisodes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allnewepisodes.com privacy policy that was archived on 2015-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151021103627id_/http%3A//allnewepisodes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -79,7 +79,7 @@ Enforcement
 
 **
 
-AllNewEpisodes.com regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or AllNewEpisodes.com' treatment of personal information by contacting us through support@AllNewEpisodes.com.
+AllNewEpisodes.com regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or AllNewEpisodes.com' treatment of personal information by contacting us through support@AllNewEpisodes.com. 
 
 When we receive formal written complaints at this address, it is AllNewEpisodes.com' policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities to resolve any complaints regarding the transfer of personal data that cannot be resolved between AllNewEpisodes.com and an individual.
 
