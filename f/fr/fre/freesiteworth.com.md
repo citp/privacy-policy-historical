@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freesiteworth.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502191940id_/http%3A//www.freesiteworth.com/website-worth/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freesiteworth.com privacy policy that was archived on 2015-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151021101807id_/http%3A//www.freesiteworth.com/website-worth/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
