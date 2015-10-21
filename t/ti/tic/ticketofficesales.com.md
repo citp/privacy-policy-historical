@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticketofficesales.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318050408id_/http%3A//www.ticketofficesales.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketofficesales.com privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022005612id_/http%3A//www.ticketofficesales.com/privacy.aspx) for the most accurate reproduction.*
 
 # Ticket Office Sales Privacy Policy
 
@@ -29,8 +29,7 @@ misuse, or alteration of your information
 
 
 **Types of Information That May Be Collected**  
-The personally identifiable information we collect is used to facilitate delivery of products and/or services to our customers. In the process of providing these products and/or services, we require our customers to provide certain personally identifiable information. Specific details may include, but is not limited to the following and may be subject to change:  
-
+The personally identifiable information we collect is used to facilitate delivery of products and/or services to our customers. In the process of providing these products and/or services, we require our customers to provide certain personally identifiable information. Specific details may include, but is not limited to the following and may be subject to change:
 
   * In the case of contests, promotions, and/or newsletter registrations: We require all users and/or customers wishing to participate in any of our contests, drawings, sweepstakes, promotions, or newsletters to complete a Participant Registration Form. During this registration process we generate and collect certain personally identifiable information.
   * The personally identifiable information that may be collected from our customers in completion of a registration form: Customer's first name, last name, zip code, phone number, age and email address. Winners of contests, drawings, sweepstakes, and/or promotions will be required to provide additional personally identifiable information such as a shipping address and telephone number.
