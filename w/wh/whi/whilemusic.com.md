@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whilemusic.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506103001id_/http%3A//whilemusic.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whilemusic.com privacy policy that was archived on 2015-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151021033237id_/http%3A//www.whilemusic.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # While Music - Privacy Policy Free Mp3 Songs| Download Free Mp3 Songs| Listen Music Online
 
