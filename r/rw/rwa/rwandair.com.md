@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rwandair.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511172657id_/http%3A//rwandair.com/%3Farticle118) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rwandair.com privacy policy that was archived on 2015-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151021081222id_/http%3A//www.rwandair.com/%3Farticle118) for the most accurate reproduction.*
 
 # Rwandair - Fly our Dream to the Heart of Africa.
 
