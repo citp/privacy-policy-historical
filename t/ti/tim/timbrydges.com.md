@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the timbrydges.com privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419195516id_/http%3A//timbrydges.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timbrydges.com privacy policy that was archived on 2015-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151021022905id_/http%3A//timbrydges.com/privacy-policy) for the most accurate reproduction.*
 
-# AdSense Privacy Policy
+# AdSense Privacy Policy | timbrydges.com
 
 **timbrydges.com** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://cybec.com/what-is-a-privacy-policy/) to learn more about privacy policies in general.
 
