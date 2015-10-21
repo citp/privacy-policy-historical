@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ncm.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608053600id_/https%3A//www.ncm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncm.com privacy policy that was archived on 2015-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151021074558id_/http%3A//www.ncm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NCM Cinema Advertising and Media Networks - National CineMedia
 
-**_Policy Version Date: May 8, 2015_**
+**_Policy Version Date: June 16, 2015_**
 
 **NCM Privacy Policy**
 
@@ -39,10 +39,10 @@ We may automatically collect personally identifiable information from you when y
   * Income information; 
   * Financial information, such as account or credit card numbers; 
   * Mobile phone number, mobile carrier's name, unique identifier for a mobile device and the date, time and content of mobile communications with NCM; 
-  * GPS, Bluetooth or other location-based or geo-positioning information; 
+  * GPS, Bluetooth or other location-based or geo-positioning information, including your presence within participating theatres and retail locations; 
   * User-specific and aggregate information on areas of the Sites accessed; 
   * Username and password information for each Site; and 
-  * Other information volunteered by You, such as information provided through responses, registrations, reviews, comments, emails, postings, photographs, messages, the interfacing with social networking sites (such as a profile photo, birthday and status), or other electronic submissions and communications sent by you to NCM or the Sites. 
+  * Other information volunteered by you, such as information provided through responses, registrations, reviews, comments, emails, postings, photographs, messages, the interfacing with social networking sites (such as a profile photo, birthday and status), or other electronic submissions and communications sent by you to NCM or the Sites. 
 
 
 
@@ -53,6 +53,13 @@ The personally identifiable information that NCM collects from users of the Site
 We may also share certain personally identifiable information we collect through the Sites with third party companies so that they may offer products and services to users of our Sites that we believe will be of interest to those users.  We may also share certain personally identifiable information with third party advertisement serving companies to better target the advertising and other content displayed on the Sites and provide pertinent offers we think may be of interest to our users.  In addition, third party advertisers may receive certain personally identifiable information about you if you click on advertisements displayed on the Sites (and clicking on any advertisement displayed on the Sites will be considered your consent to “opt in” for this transfer). 
 
 The Sites have features that allow you to store and share your information or content with others.  The Sites may include features and functions that allow you to post and share content, messages and reviews to forums, message boards, chat rooms or bulletin boards.  We may record and store archives of these communications and content on our servers.  You acknowledge and consent to the recording and storage of such communications and content.  If you choose to provide personally identifiable information through use of these features, that information may be available to a wider community and individuals reading this information may use it or disclose it to other individuals or entities without our control and without your knowledge.  We recommend that you think carefully about sharing this type of information, including through forums, message boards, chat rooms or bulletin boards.
+
+  
+**Movie Night Out Mobile Application.**
+
+ 
+
+If you use our Movie Night Out mobile application on a mobile device and your settings allow it, we may collect information about your location within participating theatres and retail locations through your mobile device's Bluetooth, Wi-Fi or similar capabilities based on the detection of signals from nearby proximity beacons and Wi-Fi networks.  We will only gather these kinds of location information if you agree to share them with us by opting-in within the Movie Night Out mobile application (either during your initial login or later) and by enabling these capabilities on your mobile device.  Once you have opted-in to receive offers and information and consented to our use of location information, the Movie Night Out mobile application will continue to collect location information (even if it is running in the background) until you opt-out , log-off or use your phone's or other device's setting to disable your mobile device's applicable geolocation, GPS, Bluetooth or similar capabilities for the application. Please see the “Choice and Opt-out” section below for more information on how to limit the location information that we may collect from your mobile device.
 
   
 **Personal Profiles.**
@@ -94,9 +101,11 @@ We provide you the opportunity to 'opt-out' of having your personally identifiab
 
 If you do not want us to use information that we collect or that you provide to us to deliver advertisements according to our advertisers' target-audience preferences, you can opt-out by emailing us as set forth below. In addition, if you would prefer that we not share your personally identifiable information with third parties for the third parties’ direct marketing purposes, you may opt-out of having your personally identifiable information shared with third parties for the third parties’ direct marketing purposes.
 
-All opt-out requests can be made by emailing us at: customerservice@ncm.com or writing us at Attn:  Customer Service, 9110 E. Nichols Ave #200, Centennial, CO 80112.
+All opt-out requests can be made by emailing us at: [unsubscribe@ncm.com](mailto:unsubscribe@ncm.com) or writing us at Attn:  Customer Service, 9110 E. Nichols Ave #200, Centennial, CO 80112.
 
 We allow third-party companies to serve ads and/or collect certain information when you visit our Sites. These companies may use personally or non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to the Sites and other web sites or applications in order to provide advertisements about goods and services likely to be of greater interest to you.  We do not control third parties’ collection or use of your information to serve interest-based advertising.  To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit the [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp), a coalition of online advertising networks that provides an opportunity for consumers to opt-out of targeted advertising by member companies.  It should be noted that opting out does not mean you will not see advertisements online, but these advertisements will not be targeted based on your online user interest profile.
+
+If you access any of our Sites through a mobile device, you may adjust the settings on your mobile device to allow or prevent the sharing of location information. For example, you can disable “Location” (or “Location Services” on iOS-based devices) on your mobile device to prevent sharing your location information with NCM, or only disable “Bluetooth” to prevent the sharing of information collected via nearby Bluetooth proximity beacons. Please note that if you disable the sharing of location information, you may be unable to access some features of our Sites that are designed for mobile devices.
 
   
 **Children.**
@@ -127,7 +136,7 @@ Most browsers will allow you to erase cookies from your computer hard drive, blo
   
 **Access, Review, Update.**
 
-The users of the Sites should email us at [customerservice@ncm.com](mailto:customerservice@ncm.com) to review, delete/deactivate and update the personal information that was previously provided to us.
+The users of the Sites should email us at [unsubscribe@ncm.com](mailto:unsubscribe@ncm.com) to review, delete/deactivate and update the personal information that was previously provided to us.
 
   
 **Other Web Sites; Links; Widgets.**
@@ -178,7 +187,7 @@ In order to enhance your experience on the Sites, NCM may retrieve and collect i
   
 **Location Serving.**
 
-As part of the services offered by the Sites, we may display a map via the Bing Maps API or Google Maps API. [Click here](http://www.microsoft.com/privacystatement/en-us/bingandmsn/default.aspx) to view Microsoft's Privacy Policy and [click here](http://www.google.com/privacy.html) to view Google’s Privacy Policy.  If you allow a mobile Site to get your location, we will collect, depending on the capabilities of your mobile device, information about the wifi routers closest to you, cell ids of cell towers, closest to you and the strength of your wifi or cell signal.  While we use this information to return an estimated location, location data may not be accurate.
+As part of the services offered by the Sites, we may display a map via the Bing Maps API or Google Maps API. [Click here](http://www.microsoft.com/privacystatement/en-us/bingandmsn/default.aspx) to view Microsoft's Privacy Policy and [click here](http://www.google.com/privacy.html) to view Google’s Privacy Policy.  If you allow a mobile Site to get your location, we may collect, depending on the capabilities of your mobile device, information about the Wi-Fi routers closest to you, cell ids of cell towers closest to you and the strength of your Wi-Fi or cell signal.  While we use this information to return an estimated location, location data may not be accurate. Please see the “Choice and Opt-out” section above for more information on how to limit the location information that we may collect from your mobile device.
 
   
 **International Users.**
@@ -188,7 +197,7 @@ If you are located outside of the United States, please note that the Sites are 
   
 **Notification of Changes.  **
 
-If we decide to change this Policy, we will either notify users by way of an e-mail or post material changes on the Sites so our users are aware of what information we collect, how we use it, and if we disclose it.  Unless we seek and receive your consent, we will use information in accordance with the Policy under which the information was last collected. Users may prevent their information from being used for purposes other than those for which it was originally collected by emailing us at [customerservice@ncm.com](mailto:customerservice@ncm.com).
+If we decide to change this Policy, we will either notify users by way of an e-mail or post material changes on the Sites so our users are aware of what information we collect, how we use it, and if we disclose it.  Unless we seek and receive your consent, we will use information in accordance with the Policy under which the information was last collected. Users may prevent their information from being used for purposes other than those for which it was originally collected by emailing us at [unsubscribe@ncm.com](mailto:unsubscribe@ncm.com).
 
   
 **Security.**
