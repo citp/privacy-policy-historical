@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lighthousecinema.ie privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627100347id_/http%3A//www.lighthousecinema.ie/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lighthousecinema.ie privacy policy that was archived on 2015-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151021094818id_/http%3A//www.lighthousecinema.ie/privacy.php) for the most accurate reproduction.*
 
 # Light House Cinema - PAGETITLE
 
@@ -115,6 +115,18 @@ You may disable cookies using your browser's settings. Please consult your brows
 To try and bring you offers that are of interest to you, Light House Cinema or its service providers place ads on our webpages. As a result of your visit to our site, or by clicking on these ads, we may collect passive information such as your domain type, your IP address and clickstream information.
 
 On our Website we store subscriber and password information in a secure manner not accessible to Web browsers, behind password protection, or off-line. We endeavor to use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our website.
+
+#### Lighthouse Mobile App
+
+This policy is only valid if you obtained and installed the app via an official distribution channel. These are the Google Play Store for Android, the Apple App Store for iOS, the Microsoft Store for Windows Phone, and the Amazon App Store for Fire. If you installed the app for anywhere else, then it is not genuine. Please remove and install from an official vendor.
+
+The app includes Google analytics which is turned on by default. This is simply used for statistical reasons to help improve our app, and understand what our users are interacting with. No identifying information about the user is sent to us, and is all controlled using the Google Analytics frameworks.
+
+There is an easy to find option within the app which will opt you out of the Analytics system, this option persists as long as the app is installed. Reinstallation will reset this. However can be opted out again.
+
+Some limited personal data can be stored by the app at the choice of the user, such as email address and phone number. These can be cleared at ease from the settings screen. The app in no way stores, or persists sensitive information, such as card details. None of these details are sent to any other app, or system within the device itself, and cannot be access externally from any other app.
+
+The app can request your GPS location when using the map feature to find directions to the cinema/site. This is controlled by the operating system and not our actual app. This data is not stored in anyway.
 
 #### Your Consent
 
