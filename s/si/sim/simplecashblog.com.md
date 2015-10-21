@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplecashblog.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602020011id_/http%3A//imsimple.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplecashblog.com privacy policy that was archived on 2015-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151021042343id_/http%3A//imsimple.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Make Money Online With Internet Marketing
 
@@ -84,3 +84,6 @@ P.O. Box 304
 Owego, NY 13827  
 USA  
 rhodesbrothers@gmail.com
+
+  *   *   *   *   *   * 
+
