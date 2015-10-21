@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the papyrusonline.com privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418005202id_/http%3A//www.papyrusonline.com/customer-services/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papyrusonline.com privacy policy that was archived on 2015-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151021042507id_/http%3A//www.papyrusonline.com/customer-services/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security
 
-Updated and effective as of April 6, 2015.
+Updated and effective as of June 3, 2015.
 
 **Thank you for visiting the Papyrus online store.** Papyrus takes your privacy seriously and is committed to safeguarding your privacy online. Because we do gather certain types of information from visitors to our website, we have developed a privacy policy to help our visitors understand the terms and conditions surrounding the collection and use of information. This policy only applies to visitors accessing our website (papyrusonline.com) from the United States and Canada, and does not apply to data that may be collected offline or in our stores. By visiting our website you are accepting the practices described in this policy. If you do not agree with these terms, do not use or visit the website.
 
@@ -21,13 +21,13 @@ Updated and effective as of April 6, 2015.
 
 #### Information Collected
 
-Generally, you may visit the Papyrus website without revealing personal information about yourself other than an anonymous persistent identifier assigned by our website or by authorized third party services. We or our authorized third party service providers may also collect anonymous information including the type of device used to browse our website, the operating system, browser type or IP address, as well as behavioral usage data. This information enables us to improve our website, tailor our advertising for better relevance, and helps us discover any issues people may have in using our website.
+Generally, you may visit the Papyrus website without revealing personal information about yourself other than an anonymous persistent identifier assigned by our website or by authorized third-party services. We or our authorized third-party service providers may also collect anonymous information including the type of device used to browse our website, the operating system, browser type or IP address, as well as behavioral usage data. This information enables us to improve our website, tailor our advertising for better relevance, and helps us discover any issues people may have in using our website.
 
 During the process of making an online purchase, we ask for your name, email address, phone number, mailing address and your credit card information to complete your order. In some cases, we may use this information to further assist your ordering experience by reminding you of products that were left in your shopping bag or requesting feedback on purchased items. In addition, you may be able to submit information such as your name and/or e-mail address through various forms, including, contact forms and e-mail list sign-ups.
 
 #### Use of Cookies & Similar Technologies
 
-Papyrus and third party vendors may use a browser feature known as a "cookie." Cookies are small text files placed on your computer that allow Papyrus to provide you with the basic functionality of an online store, such as saving the contents of your shopping cart or recognizing your log-in status between browsing sessions. Cookies and similar technologies may also be used by Papyrus and authorized third party vendors to collect information so that we may tailor our advertising or enhance your shopping experience according to your interests. We may not control those tracking technologies and we are not responsible for them. However, you understand that when you use our website you may potentially encounter third party tracking technologies and accept that our statements under this Privacy Policy do not apply to the tracking technologies or practices of such third parties. Papyrus may also use cookies, pixel tags or similar technologies from authorized third party services to collect anonymous browsing behavior for the purpose of analyzing visitor activity and using this data to improve our visitors' website experiences. Cookies are not used to store sensitive personal information.
+Papyrus and third-party vendors may use a browser feature known as a "cookie." Cookies are small text files placed on your computer that allow Papyrus to provide you with the basic functionality of an online store, such as saving the contents of your shopping cart or recognizing your log-in status between browsing sessions. Cookies and similar technologies may also be used by Papyrus and authorized third-party vendors, including Google, to collect non-personally identifiable information so that we may tailor our advertising or enhance your shopping experience according to your interests. We may use the following features to facilitate such interest-based advertising: Remarketing with Google Analytics, Google Display Network Impression Reporting, Google Analytics Demographics and Interest Reporting, and other integrated Google services. We may not control those tracking technologies and we are not responsible for them. However, you understand that when you use our website you may potentially encounter third-party tracking technologies and accept that our statements under this Privacy Policy do not apply to the tracking technologies or practices of such third parties. Papyrus may also use cookies, pixel tags or similar technologies from authorized third-party services to collect anonymous browsing behavior for the purpose of analyzing visitor activity and using this data to improve our visitors' website experiences. Cookies are not used to store sensitive personal information.
 
 It is possible to disable cookie functionality in your web browser, but we recommend against this as it will be detrimental to experiencing proper website functionality.
 
@@ -41,7 +41,7 @@ Some web browsers allow you to request that websites and advertisers not track y
 
 You can visit papyrusonline.com without telling us who you are or providing us with any personal information. However, during the course of browsing and shopping on the Papyrus website it is possible for you to create a customer account that will allow you to save addresses, item customizations, shopping cart contents, your order history and other personal information that would help make your shopping experience easier. If you ever need to edit your saved personal information, you may log into your customer account and edit your personal information at your own convenience. If you require assistance editing or deleting your personal information, you may contact Customer Service through our Contact Form. If so, we will make good faith efforts to make requested changes in our then active databases as soon as reasonably practicable (but we may retain prior information as business records).
 
-#### How we Communicate with You
+#### How We Communicate with You
 
 Papyrus may send communications to you on the basis of the information you provide to us through email or postal mail. You may always specifically request not to be contacted (see Opt-Out Procedures below).
 
@@ -55,9 +55,9 @@ The Network Advertising Initiative provides an opt-out tool for the purpose of o
 
 Papyrus may use personally identifiable information to provide information and services to you and to allow Papyrus to (i) respond to questions and comments; (ii) analyze and monitor your use of the website and the service; (iii) promote, operate and support Papyrus products and services, including to send you newsletters and periodic promotional materials; (iv) develop a knowledge base regarding its users; (v) process orders; (vi) improve the services and website; (vii) use for internal business purposes; and (viii) for purposes disclosed at the time you provide your personal information.
 
-Papyrus may share relevant personal information that we have collected with third party vendors in order for them to carry out work on our behalf, such as deploying marketing emails, payment processing or serving targeted advertisements. Third party vendors are required to hold your personal information in confidentiality, although aggregated or anonymized data may be utilized by third party vendors for their own usage with our consent.
+Papyrus may share relevant personal information that we have collected with third-party vendors in order for them to carry out work on our behalf, such as deploying marketing emails, payment processing or serving targeted advertisements. Third-party vendors are required to hold your personal information in confidentiality, although aggregated or anonymized data may be utilized by third-party vendors for their own usage with our consent.
 
-If you direct any of your information, including personally identifiable information, to be shared with third parties, such as social media sites, third party mobile applications, and similar services, Papyrus will have no control over these third party uses of your information.
+If you direct any of your information, including personally identifiable information, to be shared with third parties, such as social media sites, third-party mobile applications, and similar services, Papyrus will have no control over these third-party uses of your information.
 
 Papyrus may disclose specific personal information based on a good-faith belief that such disclosure is necessary to comply with or conform to the law (subpoenas, warrants) or that such disclosure is necessary to protect the users of the website or the public or to otherwise enforce our rights.
 
@@ -67,7 +67,7 @@ Further, in the event Papyrus sells or transfers a particular portion of its bus
 
 Papyrusonline.com is a general audience website and is not intended for children under the age of 13, and we will not knowingly collect personal information from children under the age of 13. Children under the age of 13 should obtain parental consent before accessing this website.
 
-#### Links to Third Party Sites
+#### Links to Third-Party Sites
 
 The Papyrus website may contain links to other websites, however please be aware that our Privacy Policy does not apply to websites other than papyrusonline.com. Papyrus is not responsible for the privacy practices or content of other websites. To help ensure your privacy, Papyrus recommends that you review the privacy policy of any website you visit.
 
