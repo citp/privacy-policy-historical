@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ibakatv.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504051906id_/http%3A//ibakatv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibakatv.com privacy policy that was archived on 2015-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151021053842id_/http%3A//ibakatv.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Number One Online Movie Platform for Latest Nollywood & Ghanaian Movies
+# About iBAKATV | Number One Online Movie Platform for Latest Nollywood and Ghanaian Movies
 
 iBAKATV Privacy and cookies
 
@@ -48,7 +48,7 @@ We may disclose your PII as required by law, such as to comply with a subpoena o
 
 
 
-Users can modify or change their password, and e-mail address by through their “My Profile” settings. Also, Users can modify, change or delete their personal information anytime by emailing us at [support@ibakatv.com ](mailto:support@ibakatv.com%C2%A0)or calling us on +234-81-601-32338.
+Users can modify or change their password, and e-mail address by through their “My Profile” settings. Also, Users can modify, change or delete their personal information anytime by emailing us at [support@ibakatv.com ](mailto:support@ibakatv.com%C2%A0)or calling us on +234-81-601-32338+234-81-601-32338.
 
 Users can access the information held on them on the Site by emailing us at [support@ibakatv.com ](mailto:support@ibakatv.com%C2%A0). The Company makes a nominal charge of $ 7, to cover administration costs.
 
@@ -56,7 +56,7 @@ Users can access the information held on them on the Site by emailing us at [sup
 
 
 
-Users may opt out of receiving communications from us by following directions in our e-mail to “unsubscribe” from our mailing list, or by sending an e-mail request to [support@ibakatv.com ](mailto:support@ibakatv.com%C2%A0)or calling us on +234-81-601-32338. Users also have choices with respect to cookies, as described above. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies some parts of our Site may not work properly in your case. You may opt out of interest based advertising from third party advertising agencies here <http://www.networkadvertising.org/optout_nonppii.asp>[ ](http://www.networkadvertising.org/optout_nonppii.asp).
+Users may opt out of receiving communications from us by following directions in our e-mail to “unsubscribe” from our mailing list, or by sending an e-mail request to [support@ibakatv.com ](mailto:support@ibakatv.com%C2%A0)or calling us on +234-81-601-32338+234-81-601-32338. Users also have choices with respect to cookies, as described above. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies some parts of our Site may not work properly in your case. You may opt out of interest based advertising from third party advertising agencies here <http://www.networkadvertising.org/optout_nonppii.asp>[ ](http://www.networkadvertising.org/optout_nonppii.asp).
 
   1. **Other websites and links**
 
@@ -102,7 +102,7 @@ If you have any questions concerning this Privacy Policy please contact us at [s
 IBAKA ENTERTAINMENT LIMITED [IEL]  
 CORPORATE OFFICE  
 3605 3rd Avenue South, Minneapolis MN, 55409  
-p: 540-40I-BAKA  
+p: 540-40I-BAKA540-40I-BAKA  
 Operational Office  
 689a, Jacob Nwakolo Close, Off Odujinrin Avenue, Omole Phase 2, Lagos State, Nigeria.  
-p:+234-81-601-32338
+p:+234-81-601-32338+234-81-601-32338
