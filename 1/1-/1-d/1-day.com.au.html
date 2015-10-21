@@ -1,16 +1,8 @@
-<!--The following is the downloaded HTML source of the 1-day.com.au privacy policy that was archived on 2015-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608040948id_/http%3A//www.1-day.com.au/content/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 1-day.com.au privacy policy that was archived on 2015-10-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151021060333id_/https%3A//www.1-day.com.au/content/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"> 
-
-
-
-
-
-
-
-
 
 
 
@@ -88,12 +80,12 @@
 
 
  
-<link href="/docs/themes/new_general.css?v=a771650740a74b59a893" rel="stylesheet" type="text/css">
-<link href="/docs/themes/colorbox.css?v=a771650740a74b59a893" rel="stylesheet" type="text/css">
+<link href="/docs/themes/new_general.css?v=5ad6be59b8a24169a76f" rel="stylesheet" type="text/css">
+<link href="/docs/themes/colorbox.css?v=5ad6be59b8a24169a76f" rel="stylesheet" type="text/css">
 
 
 
-<link href="/docs/themes/master.css?v=a771650740a74b59a893" rel="stylesheet" type="text/css">
+<link href="/docs/themes/master.css?v=5ad6be59b8a24169a76f" rel="stylesheet" type="text/css">
 
 
 
@@ -108,13 +100,6 @@
 
 
   
-
-
-
-
-
-
-
 
 
 <!-- <script type='text/javascript' src='/docs/scripts/tracking_sidetab.js'></script> -->
@@ -178,24 +163,10 @@ GA_googleFetchAds();
 <script src="/docs/scripts/dumpymcfly.min.js" type="text/javascript"></script>
 
 
+
 <script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=25256185"></script></head>
 
-<body onload="initial()" class="day2 DisplayCmsContent ">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<body class="day4 DisplayCmsContent ">
 
 
 
@@ -216,27 +187,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
+
 <div class="main_holder">
   
 
-
-
-
-
-
-
-
-
   <div class="header">
     
-
-
-
-
-
-
-
-
 
 
 <div id="menu">
@@ -244,14 +200,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<ul id="nav">
 		<li id="home-nav"><a href="/" title="Back to the deals"><strong>Home</strong><br>Back to the deals</a></li>
 		<li id="account-nav" class="">
-
-
-
-
-
-
-
-
 
 
 <a href="/orderlist.do" title="Login or Register"><strong>Login</strong><br>or Register</a>
@@ -265,28 +213,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
-
-
-
-
-
-
-
-
 <div id="clock"></div>
 <script type="text/javascript">
 jQuery(function ($) {
-	$('#clock').countdown(78613069);
+	$('#clock').countdown(68187858);
 });
 </script>
-
-
-
-
-
-
-
-
 
 
 
@@ -303,12 +235,86 @@ jQuery(function ($) {
     
 
 
+	<form id="fb_loginForm" method="post">
+		<input id="fb_loginForm_redirectUrl" type="hidden" name="redirectUrl">
+		<input type="hidden" value="send" name="formAction">
+	</form>
+	<div id="fb-root"></div>
+	<script type="text/javascript" src="https://connect.facebook.net/en_US/all.js"></script>
+	<script type="text/javascript">
+	  var fb_login_postUrl = '';
+	  var fb_login_redirectUrl = '';
+		
+	  FB.init({
+		appId: '145784258816635',
+		status: true,
+		cookie: true,
+		xfbml: true,
+		oauth: true
+	  });
+	  
+	  function faceBookLogin(postUrl, redirectUrl) {
+		fb_login_postUrl = postUrl;
+		fb_login_redirectUrl = redirectUrl;
+		try{
+			showFaceBookLoginPopupDiv();
+		} catch (err){
+		}
+		
+		FB.login(function (response) {
+		  if (response.authResponse) {
+			jointFaceBook(fb_login_postUrl, fb_login_redirectUrl);
+		  } else {
+			alert('Please login your facebook account or grant permission');
+			// user is not logged in
+		  }
+		}, { scope: 'email', auth_type: 'rerequest'});
+		/*
+		FB.getLoginStatus(function (response) {
+		  if (response.status === 'connected') {
+			jointFaceBook(fb_login_postUrl, fb_login_redirectUrl);
+			return;
+		  } else {
+			faceBookOpenPopup();
+		  }
+		});
+		*/
+	  }
+
+	  function jointFaceBook(postUrl, redirectUrl) {
+		if (redirectUrl == null || redirectUrl == ''){
+			redirectUrl = '/' + window.location.pathname;
+		}
+		jQuery('#fb_loginForm').attr('action', postUrl);
+		jQuery('#fb_loginForm_redirectUrl').attr('value', redirectUrl);
+		jQuery('#fb_loginForm').submit();
+	  }
+
+	  function faceBookOpenPopup() {
+		try{
+			showFaceBookLoginPopupDiv();
+		} catch (err){
+		}
+		FB.login(function (response) {
+		  if (response.authResponse) {
+			jointFaceBook(fb_login_postUrl, fb_login_redirectUrl);
+		  } else {
+			alert('Please login your facebook account or grant permission');
+			// user is not logged in
+		  }
+		}, { scope: 'email', auth_type: 'rerequest'});
+	  }
+	</script>
 
 
 
 
 
+	
 
+	
+
+		<a onclick="javascript: faceBookLogin('https://www.1-day.com.au/oneday/login.do', '');" class="facebook_connect_login_button">Login</a>
 
 
 
@@ -365,6 +371,7 @@ ul.three-slot li .price, ul.three-slot li .save, .emailSignup1, #signup-submit{c
 GA_googleFillSlot("1-day_NZ_TOP_STRIP_850x35");
 </script></div>
 <!-- 1-day NZ TOP STRIP BANNER -->
+
   </div>
   <div class="main_body day_colour">
     <div class="content_inner">
@@ -384,21 +391,6 @@ GA_googleFillSlot("1-day_NZ_TOP_STRIP_850x35");
             </td>
             <td width="700" id="container_main">
               
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -463,6 +455,7 @@ Your credit card details do not get processed or transmitted through or via 1-da
 <p>If you have any questions about our privacy policies or any other matter, please <a href="/contactUs.do">contact us</a>.</p>
 
 <p>1-day is a member of the <a href="http://www.torpedo7.co.nz/torpedo7/contactUs.do">Torpedo7</a> group of companies.</p>
+
             </td>
             <td id="container_right">
             </td>
@@ -482,23 +475,8 @@ Your credit card details do not get processed or transmitted through or via 1-da
     </div>
     
 
-
-
-
-
-
-
-
-
 <div class="content_footer">
   
-
-
-
-
-
-
-
 
 
 <div id="footer">
@@ -561,14 +539,8 @@ Your credit card details do not get processed or transmitted through or via 1-da
 
 
 
+
 </div>
-
-
-
-
-
-
-
 
 
 
@@ -576,19 +548,18 @@ Your credit card details do not get processed or transmitted through or via 1-da
 <!-- BEGIN LivePerson Monitor. --><script type="text/javascript">
         window.lpTag=window.lpTag||{};if(typeof window.lpTag._tagCount==='undefined'){window.lpTag={site:'25256185',section:lpTag.section||'',autoStart:lpTag.autoStart===false?false:true,ovr:lpTag.ovr||{},_v:'1.5.1',_tagCount:1,protocol:location.protocol,events:{bind:function(app,ev,fn){lpTag.defer(function(){lpTag.events.bind(app,ev,fn)},0)},trigger:function(app,ev,json){lpTag.defer(function(){lpTag.events.trigger(app,ev,json)},1)}},defer:function(fn,fnType){if(fnType==0){this._defB=this._defB||[];this._defB.push(fn)}else if(fnType==1){this._defT=this._defT||[];this._defT.push(fn)}else{this._defL=this._defL||[];this._defL.push(fn)}},load:function(src,chr,id){var t=this;setTimeout(function(){t._load(src,chr,id)},0)},_load:function(src,chr,id){var url=src;if(!src){url=this.protocol+'//'+((this.ovr&&this.ovr.domain)?this.ovr.domain:'lptag.liveperson.net')+'/tag/tag.js?site='+this.site}var s=document.createElement('script');s.setAttribute('charset',chr?chr:'UTF-8');if(id){s.setAttribute('id',id)}s.setAttribute('src',url);document.getElementsByTagName('head').item(0).appendChild(s)},init:function(){this._timing=this._timing||{};this._timing.start=(new Date()).getTime();var that=this;if(window.attachEvent){window.attachEvent('onload',function(){that._domReady('domReady')})}else{window.addEventListener('DOMContentLoaded',function(){that._domReady('contReady')},false);window.addEventListener('load',function(){that._domReady('domReady')},false)}if(typeof(window._lptStop)=='undefined'){this.load()}},start:function(){this.autoStart=true},_domReady:function(n){if(!this.isDom){this.isDom=true;this.events.trigger('LPT','DOM_READY',{t:n})}this._timing[n]=(new Date()).getTime()},vars:lpTag.vars||[],dbs:lpTag.dbs||[],ctn:lpTag.ctn||[],sdes:lpTag.sdes||[],ev:lpTag.ev||[]};lpTag.init()}else{window.lpTag._tagCount+=1}
     </script><!-- END LivePerson Monitor. -->
+<!--[if lte IE 9]>
+<script src="/docs/scripts/jquery.placeholder.min.js" type="text/javascript"></script>
+<script>
+$('input, textarea').placeholder();
+</script>
+<![endif]-->
+
 
 
 
   </div>
   
-
-
-
-
-
-
-
-
 
 
 
@@ -648,21 +619,15 @@ Your credit card details do not get processed or transmitted through or via 1-da
                
                
                
-                 <li class="catalogue outlet">
-
-
-
-
-
-
-
+                 
 
 
 <!-- To hide a tab, just add hidden to a class -->
-</li><li><a href="/" class="sidetab sidetab-daily-deals">Daily Deals</a></li>
+<li><a href="/" class="sidetab sidetab-daily-deals">Daily Deals</a></li>
 <!--<li><a href="/onsale/wine1306/p/" class="sidetab sidetab-bottle">Bottle</a></li>-->
 <li><a href="/purchaseVoucher.do" class="sidetab sidetab-vouchers">Vouchers</a></li>
 <li><a href="/past-deals/" class="hidden sidetab sidetab-past-deals">Past Deals</a></li>
+
                
                
                
@@ -671,12 +636,6 @@ Your credit card details do not get processed or transmitted through or via 1-da
             
         
 		
-
-
-
-
-
-
 
 
 
@@ -705,9 +664,9 @@ $(document).ready(function() {
 </script>
 
 </div>
-<script type="text/javascript" src="/docs/scripts/dwr_ajax.js?v=a771650740a74b59a893"></script>
-<script type="text/javascript" src="/docs/scripts/jquery.colorbox.js?v=a771650740a74b59a893"></script>
-<script src="/assets/scripts/main.js?v=a771650740a74b59a893" type="text/javascript"></script>
+<script type="text/javascript" src="/docs/scripts/dwr_ajax.js?v=5ad6be59b8a24169a76f"></script>
+<script type="text/javascript" src="/docs/scripts/jquery.colorbox.js?v=5ad6be59b8a24169a76f"></script>
+<script src="/assets/scripts/main.js?v=5ad6be59b8a24169a76f" type="text/javascript"></script>
 
 
 
@@ -720,13 +679,6 @@ $(document).ready(function() {
 		}
 	});
 </script>
-
-
-
-
-
-
-
 
 
 
@@ -747,14 +699,8 @@ var google_remarketing_only = true;
 </noscript>
 
 
+
   
-
-
-
-
-
-
-
 
 
 <script type="text/javascript">
@@ -764,6 +710,7 @@ jQuery(function($){if($.browser.msie&&$.browser.version.indexOf('7')==0){$('.hom
 
 <div id="vegas-layer" style="display:none">
 	<img src="/images/vegas.png"></div>
+
 
 
 
