@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the footylatest.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315022939id_/http%3A//footylatest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footylatest.com privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022182253id_/http%3A//footylatest.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | footylatest.com
+# Privacy Policy | footylatest.com
 
 **What information do we collect?**
 
@@ -57,5 +57,3 @@ By using our site, you consent to our websites privacy policy.
 If we decide to change our privacy policy, we will post those changes on this page.
 
 http://footylatest.com/privacy
-
-[](http://www.twitter.com/footylatest)
