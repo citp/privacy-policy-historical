@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hudforeclosed.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610015637id_/http%3A//www.hudforeclosed.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hudforeclosed.com privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022143009id_/http%3A//www.hudforeclosed.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Foreclosures, HUD Homes, Foreclosure Auctions, Preforeclosures. HUDforeclosed.com
 
