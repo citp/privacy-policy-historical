@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whitegfs.com privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515234647id_/http%3A//www.pornstar.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitegfs.com privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022041250id_/http%3A//www.pornstar.com/privacy.html%3F) for the most accurate reproduction.*
 
-# Pornstar.com live camsPrivacy Policy
+# Pornstar.com live cams Privacy Policy
 
 [Home](http://www.pornstar.com/) / Privacy Policy
 
