@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silveroakcasino.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623234252id_/http%3A//www.silveroakcasino.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silveroakcasino.com privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022231227id_/https%3A//www.silveroakcasino.com/privacy-policy) for the most accurate reproduction.*
 
 # Silver Oak Casino Privacy Policy | Online Casino Games
 
