@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the broadbandgenie.co.uk privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609025558id_/https%3A//www.broadbandgenie.co.uk/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadbandgenie.co.uk privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023015906id_/https%3A//www.broadbandgenie.co.uk/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Broadband Genie
 
 ###  Personal data, email policy and cookies
 
-#####  _Updated January 27, 2015_
+#####  _Updated July 31st 2015_
 
-Broadband Genie is committed to respecting the privacy of its visitors. We do not collect any personal data when you visit the site, or vote in polls, and you can access and browse our website without disclosing any personal data. We use cookies which collect anonymous information about the pages visited to allow us to monitor the performance of the website.
+Broadband Genie is committed to respecting the privacy of its visitors. We do not collect any personal data when you visit the site and you can access and browse our website without disclosing any personal data. We use cookies which collect anonymous information about the pages visited to allow us to monitor the performance of the website.
 
 If you use our availability checker, Broadband Genie will use your postcode and telephone number to perform a broadband availability check on your line. We do not store your telephone number. We may store your postcode and availability or speed results and other non-personal data for the purpose of building up a national picture of broadband speeds and availability. We may disclose this data to other organisations for similar research purposes; never for sales purposes.
 
