@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scripps.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614190044id_/http%3A//www.scripps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scripps.com privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022035446id_/http%3A//www.scripps.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The E.W. Scripps Company
 
@@ -79,4 +79,4 @@ We will respond to your request and, if applicable and appropriate, make the req
 
 K. SOLE STATEMENT 
 
-This Privacy Policy is the sole statement of our privacy policy with respect to our Services, and no summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post a new or revised Privacy Policy on the Services.
+This Privacy Policy is the sole statement of our privacy policy with respect to our Services, and no summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post a new or revised Privacy Policy on the Services..
