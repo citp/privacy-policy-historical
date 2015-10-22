@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the effectiveinboundmarketing.com privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409063016id_/http%3A//effectiveinboundmarketing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the effectiveinboundmarketing.com privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022081427id_/http%3A//effectiveinboundmarketing.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Content Marketing Company
+# Privacy Policy | EIM
 
 This policy covers how we use your personal information. We take your privacy seriously and will take all measures to protect your personal information.
 
