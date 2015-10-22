@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the gear-up.me privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615104252id_/http%3A//gear-up.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gear-up.me privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022115547id_/http%3A//gear-up.me/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Gear-up.me - Gear-up.me
+# Privacy Policy - Gear-up.me
 
 **Business Privacy Policy**
 
-This privacy policy sets out how Gear-Up.me uses and protects any information that you give us when you use this website.
+This privacy policy sets out how [Gear-Up.me](http://gear-up.me/ "Computer Components and Accessories in UAE") uses and protects any information that you give us when you use this website.
 
-Gear-Up.me is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, you can be assured that it will only be used in accordance with this privacy statement.
+[Gear-Up.me](http://gear-up.me/ "Computer Components and Accessories in UAE") is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, you can be assured that it will only be used in accordance with this privacy statement.
 
 Gear-Up.me may change this policy from time to time by updating this page. You should check this page from periodically to ensure that you are satisfied with any changes. This policy is effective from 1.10.2012.
 
