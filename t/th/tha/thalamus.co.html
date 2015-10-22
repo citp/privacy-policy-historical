@@ -1,13 +1,2419 @@
-<!--The following is the downloaded HTML source of the thalamus.co privacy policy that was archived on 2015-04-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150424102209id_/http%3A//www.thalamus.co/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thalamus.co privacy policy that was archived on 2015-10-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151022133114id_/http%3A//www.thalamus.co/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="csstransforms csstransforms3d csstransitions"><head>
+<!DOCTYPE html><html><head>
 <meta charset="utf-8">
 <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
-<title>Digital and Mobile Advertising Company Capabilities, Pricing, Contacts, Traffic, Reviews, Data, Creatives, and Marketing Collateral - Thalamus</title>
-<meta content="Digital and Mobile Advertising Company Capabilities, Pricing, Contacts, Reviews, Traffic &amp; Marketing Collateral for Ad Networks, Demand Side Platforms, Publishers, Websites, Blogs, and Social Networks." name="description">
-<link href="http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic" rel="stylesheet" type="text/css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="/assets/mixpanel/mixpanel-2.2.min-95bfeff5cf4c8d6c0e626a331baa5e44.js"></script><script>
+<title>Thalamus Privacy Policy</title>
+<meta content="We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy" name="description">
+<meta content="" name="keywords">
+<meta content="http://www.thalamus.co/assets/thalamus_logo_large.png" property="og:image">
+<meta content="The Largest Crowdsourced Database of Ad Vendor Data in the World" property="og:title">
+<meta content="Thalamus" property="og:site_name">
+<meta content="http://www.thalamus.co" property="og:url">
+<meta content="With over 50,000 ad partners and counting, Thalamus houses the most comprehensive dataset of ad partner capabilities, contacts, marketing collateral, ad specs, network data, and marketer reviews for vendors across the globe. Media buying teams representing 90% of the AdAge top digital agencies list, as well as global brands, use Thalamus to source, evaluate, and connect with participating ad partners to meet their digital advertising goals." property="og:description">
+<meta content="798A530313361DB95906F7473D244ECA" name="msvalidate.01">
+<meta content="78d04e2c55e9aeee" name="yandex-verification">
+
+<!-- NETWORK DATA -->
+  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="network-data-form-template" type="text/template">
+    <section class="network-data-form">
+  <form class='network-data-edit-form form-network-data-<%= model.adPartnerId %>'>
+    <input class="btn btn-success signup-trigger-modal-link button-save" type="submit" value="Save" />
+    <span class="loader-container">
+      <img src="/assets/loading.gif" />
+    </span>
+    <div class="error-message" style="display: none;">
+      <p>Values should be less than or equal to 100%</p>
+      <span></span>
+    </div>
+    <div class="error-data" style="display: none">
+      <p>Values should be less than or equal to 100%</p>
+    </div>
+     <ul class="list-forms">
+      <li>
+        <fieldset class="glob-custom online-display">
+          <legend><strong>Online Display</strong></legend>
+          <ul>
+            <li class="text-input">
+              <input type="text" pattern="^\d+$|^([1-9]\d{0,2}(,\d{3}){0,3})$|^([1-9]\d?(,\d{3}){4})$" class="form-control input-allow-commas" id="tot-uniques-display-<%= model.adPartnerId %>" placeholder="eg. 100,000,000" name='network_data[display_total_monthly_uniques]' value="<%= model.display_total_monthly_uniques  %>"/>
+              <label for="tot-uniques-display-<%= model.adPartnerId %>">Total monthly uniques</label>
+            </li>
+            <li class="text-input">
+              <input type="text" pattern="^\d+$|^([1-9]\d{0,2}(,\d{3}){0,3})$|^([1-9]\d?(,\d{3}){4})$" class="form-control input-allow-commas" name='network_data[display_total_high_impact_monthly_impressions]' value='<%= model.display_total_high_impact_monthly_impressions %>' id="tot-impact-display-<%= model.adPartnerId %>" placeholder="eg. 300,000,000" />
+              <label for="tot-impact-display-<%= model.adPartnerId %>">Total high-impact monthly impressions</label>
+            </li>
+            <li class="text-input">
+              <input type="text" pattern="^\d+$|^([1-9]\d{0,2}(,\d{3}){0,3})$|^([1-9]\d?(,\d{3}){4})$" class="form-control input-allow-commas" name='network_data[display_total_monthly_impressions]' value='<%= model.display_total_monthly_impressions %>' id="tot-mo-display-<%= model.adPartnerId %>" placeholder="eg. 1,000,000,000" />
+              <label for="tot-mo-display-<%= model.adPartnerId %>">Total monthly impressions</label>
+            </li>
+          </ul>
+        </fieldset>
+        <fieldset class="glob-custom online-video-form">
+          <legend><strong>Online Video</strong></legend>
+          <ul>
+            <li class="text-input">
+              <input type="text" pattern="^\d+$|^([1-9]\d{0,2}(,\d{3}){0,3})$|^([1-9]\d?(,\d{3}){4})$" class="form-control input-allow-commas" name='network_data[video_total_monthly_unique_viewers]' value="<%= model.video_total_monthly_unique_viewers  %>" id="tot-uniques-video-<%= model.adPartnerId %>" placeholder="eg. 40,000,000" />
+              <label for="tot-uniques-video-<%= model.adPartnerId %>">Total monthly unique viewers</label>
+            </li>
+            <li class="text-input">
+              <input type="text" pattern="^\d+$|^([1-9]\d{0,2}(,\d{3}){0,3})$|^([1-9]\d?(,\d{3}){4})$" class="form-control input-allow-commas" name='network_data[video_total_monthly_video_views]' value='<%= model.video_total_monthly_video_views %>' id="tot-impact-video-<%= model.adPartnerId %>" placeholder="eg. 500,000,000" />
+              <label for="tot-impact-video-<%= model.adPartnerId %>">Total monthly video views</label>
+            </li>
+            <li class="text-input">
+              <input type="text" pattern="^\d+$|^([1-9]\d{0,2}(,\d{3}){0,3})$|^([1-9]\d?(,\d{3}){4})$" class="form-control input-allow-commas" name='network_data[video_total_pre_roll_monthly_video_views]' value='<%= model.video_total_pre_roll_monthly_video_views %>' id="tot-mo-video-<%= model.adPartnerId %>" placeholder="eg. 100,000,000" />
+              <label for="tot-mo-video-<%= model.adPartnerId %>">Total pre-roll monthly video views</label>
+            </li>
+            <li class="text-input">
+              <input type="text" pattern="^\d+$|^([1-9]\d{0,2}(,\d{3}){0,3})$|^([1-9]\d?(,\d{3}){4})$" class="form-control input-allow-commas" name='network_data[video_total_in_banner_monthly_video_views]' value='<%= model.video_total_in_banner_monthly_video_views %>' id="tot-inbanner-mo-video-<%= model.adPartnerId %>" placeholder="eg. 200,000,000" />
+              <label for="tot-inbanner-mo-video-<%= model.adPartnerId %>">Total in-banner monthly video views</label>
+            </li>
+            <li class="slide-input in-stream-in-banner-slide-input">
+            <span class="first-item">
+              In-Stream<br/>
+              <span class="value in_stream" id="in_stream-<%= model.adPartnerId %>-value"><%= (model.video_in_stream_in_banner_relation.in_stream || '50') %>%</span>
+            </span>
+            <span class="second-item">
+              In-Banner<br/>
+              <span class="value in_banner" id="in_banner-<%= model.adPartnerId %>-value"><%= (model.video_in_stream_in_banner_relation.in_banner || '50') %>%</span>
+            </span>
+              <div id="in_stream_in_banner_relation-<%= model.adPartnerId %>"></div>
+              <input type="hidden" id="in_stream-<%= model.adPartnerId %>" name="network_data[video_in_stream_in_banner_relation][in_stream]" value="<%= model.video_in_stream_in_banner_relation.in_stream %>">
+              <input type="hidden" id="in_banner-<%= model.adPartnerId %>" name="network_data[video_in_stream_in_banner_relation][in_banner]" value="<%= model.video_in_stream_in_banner_relation.in_banner %>">
+
+            <li class="glob-custom">
+              <h3>YouTube Data</h3>
+              <ul>
+                <li class="text-input">
+                  <input type="text" pattern="^\d+$|^([1-9]\d{0,2}(,\d{3}){0,3})$|^([1-9]\d?(,\d{3}){4})$" class="form-control input-allow-commas" name='network_data[video_total_subscribers]' value='<%= model.video_total_subscribers %>' id="tot-subscribers-video-<%= model.adPartnerId %>" placeholder="eg. 20,000,000" />
+                  <label for="tot-subscribers-video-<%= model.adPartnerId %>">Total subscribers</label>
+                </li>
+                <li class="text-input">
+                  <input type="text" pattern="^\d+$|^([1-9]\d{0,2}(,\d{3}){0,3})$|^([1-9]\d?(,\d{3}){4})$" class="form-control input-allow-commas" name='network_data[video_total_video_views]' value='<%= model.video_total_video_views %>' id="tot-views-video-<%= model.adPartnerId %>" placeholder="eg. 200,000,000" />
+                  <label for="tot-views-video-<%= model.adPartnerId %>">Total video views</label>
+                </li>
+                <li class="text-input">
+                  <input type="text" pattern="^\d+$|^([1-9]\d{0,2}(,\d{3}){0,3})$|^([1-9]\d?(,\d{3}){4})$" class="form-control input-allow-commas" name='network_data[video_monthly_video_views]' value='<%= model.video_monthly_video_views %>' id="mo-views-video-<%= model.adPartnerId %>" placeholder="eg. 10,000,000" />
+                  <label for="mo-views-video-<%= model.adPartnerId %>">Monthly video views</label>
+                </li>
+                <li class="text-input">
+                  <input type="text" pattern="^\d+$|^([1-9]\d{0,2}(,\d{3}){0,3})$|^([1-9]\d?(,\d{3}){4})$" class="form-control input-allow-commas" name='network_data[video_number_of_channels]' value='<%= model.video_number_of_channels %>' id="chan-net-partners-video-<%= model.adPartnerId %>" placeholder="eg. 1,000" />
+                  <label for="chan-net-partners-video-<%= model.adPartnerId %>"># of  channels /network partners</label>
+                </li>
+              </ul>
+            </li>
+            <li class="text-input top-stars">
+              <h3>
+                <label for="top-stars-talent-video-<%= model.adPartnerId %>">Top Stars / Talent <span>(Multi-Channel Networks)</span></label>
+              </h3>
+              <input type="text" name='network_data[video_top_stars_talent]' value='<%- model.video_top_stars_talent %>' id="top-stars-talent-video-<%= model.adPartnerId %>" placeholder="eg. PewPewDie, JennaMarbles, Smosh" />
+            </li>
+          </ul>
+        </fieldset>
+      </li>
+
+      <li>
+        <fieldset class="glob-custom mobile-form">
+          <legend><strong>Mobile</strong></legend>
+          <ul>
+            <li class="text-input">
+              <input type="text" pattern="^\d+$|^([1-9]\d{0,2}(,\d{3}){0,3})$|^([1-9]\d?(,\d{3}){4})$" class="form-control input-allow-commas" name='network_data[mobile_total_monthly_uniques]' value='<%= model.mobile_total_monthly_uniques %>' id="tot-uniques-mobile-<%= model.adPartnerId %>" placeholder="eg. 50,000,000" />
+              <label for="tot-uniques-mobile-<%= model.adPartnerId %>">Total monthly uniques</label>
+            </li>
+            <li class="text-input">
+              <input type="text" pattern="^\d+$|^([1-9]\d{0,2}(,\d{3}){0,3})$|^([1-9]\d?(,\d{3}){4})$" class="form-control input-allow-commas" name='network_data[mobile_monthly_interstitial_impressions]' value='<%= model.mobile_monthly_interstitial_impressions %>' id="tot-impact-mobile-<%= model.adPartnerId %>" placeholder="eg. 100,000,000" />
+              <label for="tot-impact-mobile-<%= model.adPartnerId %>">Total monthly interstitial impressions</label>
+            </li>
+            <li class="text-input">
+              <input type="text" pattern="^\d+$|^([1-9]\d{0,2}(,\d{3}){0,3})$|^([1-9]\d?(,\d{3}){4})$" class="form-control input-allow-commas" name='network_data[mobile_monthly_overall_impressions]' value='<%= model.mobile_monthly_overall_impressions %>' id="tot-mo-mobile-<%= model.adPartnerId %>" placeholder="eg. 300,000,000" />
+              <label for="tot-mo-mobile-<%= model.adPartnerId %>">Total monthly overall impressions</label>
+            </li>
+
+            <li class="slide-input ios-android-slide-input">
+              <span class="first-item">
+                iOS<br/>
+                <span class="value ios" id="ios-<%= model.adPartnerId %>-value"><%= (model.mobile_ios_android_relation.ios || '50') %>%</span>
+              </span>
+              <span class="second-item">
+                Android<br/>
+                <span class="value android" id="android-<%= model.adPartnerId %>-value"><%= (model.mobile_ios_android_relation.android || '50') %>%</span>
+              </span>
+
+              <div id="ios_android_relation-<%= model.adPartnerId %>"></div>
+              <input type="hidden" id="ios-<%= model.adPartnerId %>" name="network_data[mobile_ios_android_relation][ios]" value="<%= model.mobile_ios_android_relation.ios %>">
+              <input type="hidden" id="android-<%= model.adPartnerId %>" name="network_data[mobile_ios_android_relation][android]" value="<%= model.mobile_ios_android_relation.android %>">
+            </li>
+
+            <li class="slide-input in-app-mobile-web-slide-input">
+              <span class="first-item">
+                In-App<br/>
+                <span class="value in_app" id="in_app-<%= model.adPartnerId %>-value" ><%= (model.mobile_in_app_mobile_web_relation.in_app || '50') %>%</span>
+              </span>
+
+              <span class="second-item">
+                MobileWeb<br/>
+                <span class="value mobile_web" id="mobile_web-<%= model.adPartnerId %>-value"><%= (model.mobile_in_app_mobile_web_relation.mobile_web || '50') %>%</span>
+              </span>
+
+              <div id="in_app_mobile_web_relation-<%= model.adPartnerId %>"></div>
+              <input type="hidden" id="in_app-<%= model.adPartnerId %>" name="network_data[mobile_in_app_mobile_web_relation][in_app]" value="<%= model.mobile_in_app_mobile_web_relation.in_app %>">
+              <input type="hidden" id="mobile_web-<%= model.adPartnerId %>" name="network_data[mobile_in_app_mobile_web_relation][mobile_web]" value="<%= model.mobile_in_app_mobile_web_relation.mobile_web %>">
+            </li>
+
+
+            <li class="slide-input phone-tablet-slide-input">
+              <span class="first-item">
+                Phone<br/>
+                <span class="value phone" id="phone-<%= model.adPartnerId %>-value" ><%= ((model.mobile_phone_tablet_relation && model.mobile_phone_tablet_relation.phone) || '50') %>%</span>
+              </span>
+
+              <span class="second-item">
+                Tablet<br/>
+                <span class="value tablet" id="tablet-<%= model.adPartnerId %>-value"><%= ((model.mobile_phone_tablet_relation && model.mobile_phone_tablet_relation.tablet) || '50') %>%</span>
+              </span>
+
+              <div id="mobile_phone_tablet_relation-<%= model.adPartnerId %>"></div>
+              <input type="hidden" id="phone-<%= model.adPartnerId %>" name="network_data[mobile_phone_tablet_relation][phone]" value="<%= model.mobile_phone_tablet_relation && model.mobile_phone_tablet_relation.phone %>">
+              <input type="hidden" id="tablet-<%= model.adPartnerId %>" name="network_data[mobile_phone_tablet_relation][tablet]" value="<%= model.mobile_phone_tablet_relation && model.mobile_phone_tablet_relation.tablet %>">
+            </li>
+
+            <li class="text-input margin-set">
+              <input type="text" pattern="^\d+$|^([1-9]\d{0,2}(,\d{3}){0,3})$|^([1-9]\d?(,\d{3}){4})$" class="form-control input-allow-commas" name="network_data[total_monthly_mobile_video_views]" value="<%= model.total_monthly_mobile_video_views%>" id="mo-video-views-mobile-<%= model.adPartnerId %>" placeholder="eg. 30,000,000" />
+              <label for="mo-video-views-mobile-<%= model.adPartnerId %>">Total monthly mobile video views</label>
+            </li>
+            <li class="mobile-apps-list">
+              <h3>Owned Mobile Apps</h3>
+              <ul>
+                <li>
+                  <h4>iPhone</h4>
+                  <ul class="mobile-apps">
+                    <li class="text-input">
+                      <label for="app-iphone">App</label>
+                      <input type="number" min="1" max="10000000000000" name="network_data[mobile_apps_iphone][downloads_count]" value="<%= model.mobile_apps_iphone.downloads_count%>" id="app-iphone-<%= model.adPartnerId %>" />
+                    </li>
+                    <li class="text-input value-au">
+                      <input type="number" min="1" max="10000000000000" name="network_data[mobile_apps_iphone][active_users_count]" value="<%= model.mobile_apps_iphone.active_users_count%>" />
+                    </li>
+                    <li class="select-au">
+                      <select name="network_data[mobile_apps_iphone][active_users_select]" class="gb-set-selectors" data-placeholder>
+                        <% if(model.mobile_apps_iphone.active_users_select == 'dau') { %>
+                        <option value=" " selected>&nbsp;</option>
+                        <option value="dau" selected>DAU</option>
+                        <option value="mau">MAU</option>
+                        <% } else if(model.mobile_apps_iphone.active_users_select == 'mau') { %>
+                        <option value=" " selected>&nbsp;</option>
+                        <option value="dau">DAU</option>
+                        <option value="mau" selected >MAU</option>
+                        <% } else { %>
+                        <option value=" " selected>&nbsp;</option>
+                        <option value="dau">DAU</option>
+                        <option value="mau">MAU</option>
+                        <% } %>
+                      </select>
+                    </li>
+                    <li class="text-input mo-pv">
+                      <label for="mo-pv-iphone-<%= model.adPartnerId %>">Monthly PV</label>
+                      <input type="number" min="1" max="10000000000000" name="network_data[mobile_apps_iphone][monthly_pv]" value="<%= model.mobile_apps_iphone.monthly_pv%>" id="mo-pv-iphone-<%= model.adPartnerId %>" />
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  <h4>iPad</h4>
+                  <ul class="mobile-apps">
+                    <li class="text-input">
+                      <label for="app-ipod-<%= model.adPartnerId %>">App</label>
+                      <input type="number" min="1" max="10000000000000" name="network_data[mobile_apps_ipad][downloads_count]" value="<%= model.mobile_apps_ipad.downloads_count%>" id="app-ipod-<%= model.adPartnerId %>" />
+                    </li>
+                    <li class="text-input value-au">
+                      <input type="number" min="1" max="10000000000000" name="network_data[mobile_apps_ipad][active_users_count]" value="<%= model.mobile_apps_ipad.active_users_count%>" />
+                    </li>
+                    <li class="select-au">
+                      <select name="network_data[mobile_apps_ipad][active_users_select]" class="gb-set-selectors" data-placeholder>
+                        <% if(model.mobile_apps_ipad.active_users_select == 'dau') { %>
+                        <option value=" " selected>&nbsp;</option>
+                        <option value="dau" selected>DAU</option>
+                        <option value="mau">MAU</option>
+                        <% } else if(model.mobile_apps_ipad.active_users_select == 'mau') { %>
+                        <option value=" " selected>&nbsp;</option>
+                        <option value="dau">DAU</option>
+                        <option value="mau" selected >MAU</option>
+                        <% } else { %>
+                        <option value=" " selected>&nbsp;</option>
+                        <option value="dau">DAU</option>
+                        <option value="mau">MAU</option>
+                        <% } %>
+                      </select>
+                    </li>
+                    <li class="text-input mo-pv">
+                      <label for="mo-pv-ipad-<%= model.adPartnerId %>">Monthly PV</label>
+                      <input type="number" min="1" max="10000000000000" name='network_data[mobile_apps_ipad][monthly_pv]' value="<%= model.mobile_apps_ipad.monthly_pv %>" id="mo-pv-ipad-<%= model.adPartnerId %>" />
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  <h4>Android</h4>
+                  <ul class="mobile-apps">
+                    <li class="text-input">
+                      <label for="app-android-<%= model.adPartnerId %>">App</label>
+                      <input type="number" min="1" max="10000000000000" name="network_data[mobile_apps_android][downloads_count]" value="<%= model.mobile_apps_android.downloads_count%>" id="app-android-<%= model.adPartnerId %>" />
+                    </li>
+                    <li class="text-input value-au">
+                      <input type="number" min="1" max="10000000000000" name="network_data[mobile_apps_android][active_users_count]" value="<%= model.mobile_apps_android.active_users_count%>" />
+                    </li>
+                    <li class="select-au">
+                      <select name="network_data[mobile_apps_android][active_users_select]" class="gb-set-selectors" data-placeholder>
+                        <% if(model.mobile_apps_android.active_users_select == 'dau') { %>
+                        <option value=" " selected>&nbsp;</option>
+                        <option value="dau" selected>DAU</option>
+                        <option value="mau">MAU</option>
+                        <% } else if(model.mobile_apps_android.active_users_select == 'mau') { %>
+                        <option value=" " selected>&nbsp;</option>
+                        <option value="dau">DAU</option>
+                        <option value="mau" selected >MAU</option>
+                        <% } else { %>
+                        <option value=" " selected>&nbsp;</option>
+                        <option value="dau">DAU</option>
+                        <option value="mau">MAU</option>
+                        <% } %>
+                      </select>
+                    </li>
+                    <li class="text-input mo-pv">
+                      <label for="mo-pv-android-<%= model.adPartnerId %>">Monthly PV</label>
+                      <input type="number" min="1" max="10000000000000" name='network_data[mobile_apps_android][monthly_pv]' value="<%= model.mobile_apps_android.monthly_pv %>" id="mo-pv-android-<%= model.adPartnerId %>">
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </fieldset>
+        <fieldset class="glob-custom email-soc-form">
+          <legend><strong>E-mail / Social</strong></legend>
+          <ul>
+            <li class="text-input">
+              <i class="pull-left icon-envelope"></i>
+              <input type="text" pattern="^\d+$|^([1-9]\d{0,2}(,\d{3}){0,3})$|^([1-9]\d?(,\d{3}){4})$" class="form-control input-allow-commas" name="network_data[email_subscribers]" value="<%= model.email_subscribers %>" id="email-subsc-<%= model.adPartnerId %>" placeholder="eg. 100,000" />
+              <label for="email-subsc-<%= model.adPartnerId %>">Email Subscribers</label>
+            </li>
+            <li class="text-input">
+              <i class="pull-left icon-facebook-sign"></i>
+              <input type="text" pattern="^\d+$|^([1-9]\d{0,2}(,\d{3}){0,3})$|^([1-9]\d?(,\d{3}){4})$" class="form-control input-allow-commas" name="network_data[social_facebook_fans]" value="<%= model.social_facebook_fans %>" id="facebook-soc-<%= model.adPartnerId %>" placeholder="eg. 50,000" />
+              <label for="facebook-soc-<%= model.adPartnerId %>">Facebook Fans</label>
+            </li>
+            <li class="text-input">
+              <i class="pull-left icon-twitter-sign"></i>
+              <input type="text" pattern="^\d+$|^([1-9]\d{0,2}(,\d{3}){0,3})$|^([1-9]\d?(,\d{3}){4})$" class="form-control input-allow-commas" name="network_data[social_twitter_followers]" value="<%= model.social_twitter_followers %>" id="twitter-soc-<%= model.adPartnerId %>" placeholder="eg. 20,000" />
+              <label for="twitter-soc-<%= model.adPartnerId %>">Twitter Followers</label>
+            </li>
+            <li class="text-input">
+              <i class="pull-left icon-instagram"></i>
+              <input type="text" pattern="^\d+$|^([1-9]\d{0,2}(,\d{3}){0,3})$|^([1-9]\d?(,\d{3}){4})$" class="form-control input-allow-commas" name="network_data[social_instagram_followers]" value="<%= model.social_instagram_followers %>" id="instagram-soc-<%= model.adPartnerId %>" placeholder="eg. 10,000" />
+              <label for="instagram-soc-<%= model.adPartnerId %>">Instagram Followers</label>
+            </li>
+            <li class="text-input">
+              <i class="pull-left icon-pinterest-sign"></i>
+              <input type="text" pattern="^\d+$|^([1-9]\d{0,2}(,\d{3}){0,3})$|^([1-9]\d?(,\d{3}){4})$" class="form-control input-allow-commas" name="network_data[social_pinterest_followers]" value="<%= model.social_pinterest_followers %>" id="pinterest-soc-<%= model.adPartnerId %>" placeholder="eg. 15,000" />
+              <label for="pinterest-soc-<%= model.adPartnerId %>">Pinterest Followers</label>
+            </li>
+            <li class="text-input">
+              <i class="pull-left icon-tumblr-sign"></i>
+              <input type="text" pattern="^\d+$|^([1-9]\d{0,2}(,\d{3}){0,3})$|^([1-9]\d?(,\d{3}){4})$" class="form-control input-allow-commas" name="network_data[social_tumblr_followers]" value="<%= model.social_tumblr_followers %>" id="pinterest-soc-<%= model.adPartnerId %>" placeholder="eg. 5,000" />
+              <label for="tumblr-soc-<%= model.adPartnerId %>">Tumblr Followers</label>
+            </li>
+          </ul>
+        </fieldset>
+      </li>
+
+      <li>
+        <fieldset class="glob-custom demos-form">
+          <legend><strong>Demos</strong></legend>
+          <ul>
+            <li class="slide-input male-female-slide-input">
+              <h3>Gender</h3>
+
+                <span class="first-item">
+                  Male<br/>
+                  <span class="value male" id="male-<%= model.adPartnerId %>-value" ><%= model.demos_gender.male || '50' %>%</span>
+                </span>
+                <span class="second-item">
+                  Female<br/>
+                  <span class="value female" id="female-<%= model.adPartnerId %>-value" ><%= model.demos_gender.female || '50' %>%</span>
+                </span>
+              <div id="gender-<%= model.adPartnerId %>"></div>
+              <input type="hidden" id="male-<%= model.adPartnerId %>" name="network_data[demos_gender][male]" value="<%= model.demos_gender.male %>">
+              <input type="hidden" id="female-<%= model.adPartnerId %>" name="network_data[demos_gender][female]" value="<%= model.demos_gender.female %>">
+            </li>
+            <li>
+              <h3>Age</h3>
+              <ul class="demos-form-list demos-age">
+                <% _.each(formElements.ageSelects, function(formData) { %>
+                <li>
+                  <% if(model.demos_age_bracket[formData.name] !== '0' && model.demos_age_bracket[formData.name] !== undefined) {%>
+                  <% changedClassFlag = 'data-changed' %>
+                  <% }else{ %>
+                  <% changedClassFlag = '' %>
+                  <% } %>
+
+                  <label for="<%= formData.id %>-<%= model.adPartnerId %>"><%= formData.labelText %></label>
+                  <select name="network_data[demos_age_bracket][<%= formData.name %>]:number" id="<%= formData.id %>-<%= model.adPartnerId %>" class="gb-set-selectors demos-form-age <%= changedClassFlag %>" data-placeholder>
+                    <% if(model.demos_age_bracket[formData.name] !== undefined) {%>
+                    <option value="<%= model.demos_age_bracket[formData.name]%>" selected="selected">
+                      <%= model.demos_age_bracket[formData.name] %>%
+                    </option>
+                    <% } %>
+                  </select>
+                </li>
+                <% }) %>
+              </ul>
+            </li>
+            <li>
+              <h3>Income</h3>
+              <ul class="demos-form-list demos-income">
+                <% _.each(formElements.incomeSelects, function(formData) { %>
+                <li>
+                  <% if(model.demos_income[formData.name] !== '0' && model.demos_income[formData.name] !== undefined) {%>
+                  <% changedClassFlag = 'data-changed' %>
+                  <% }else{ %>
+                  <% changedClassFlag = '' %>
+                  <% } %>
+
+                  <label for="<%= formData.id %>-<%= model.adPartnerId %>"><%= formData.labelText %></label>
+                  <select name="network_data[demos_income][<%= formData.name %>]:number" id="<%= formData.id %>-<%= model.adPartnerId %>" class="gb-set-selectors demos-form-age <%= changedClassFlag %>" data-placeholder >
+                    <% if(model.demos_income[formData.name] !== undefined) {%>
+                    <option value="<%= model.demos_income[formData.name] %>" selected="selected">
+                      <%= model.demos_income[formData.name] %>%
+                    </option>
+                    <% } %>
+                  </select>
+                </li>
+                <% }) %>
+              </ul>
+            </li>
+            <li>
+              <h3>Education</h3>
+              <ul class="demos-form-list demos-education">
+                <% _.each(formElements.educationSelects, function(formData) { %>
+                <li>
+                  <% if(model.demos_education[formData.name] !== '0' && model.demos_education[formData.name] !== undefined) {%>
+                  <% changedClassFlag = 'data-changed' %>
+                  <% }else{ %>
+                  <% changedClassFlag = '' %>
+                  <% } %>
+
+                  <label for="<%= formData.id %>-<%= model.adPartnerId %>"><%= formData.labelText %></label>
+                  <select name="network_data[demos_education][<%= formData.name %>]:number" id="<%= formData.id %>-<%= model.adPartnerId %>" class="gb-set-selectors demos-form-age <%= changedClassFlag %>" data-placeholder>
+                    <% if(model.demos_education[formData.name] !== undefined) {%>
+                    <option value="<%= model.demos_education[formData.name] %>" selected="selected">
+                      <%= model.demos_education[formData.name] %>%
+                    </option>
+                    <% } %>
+                  </select>
+                </li>
+                <% }) %>
+              </ul>
+            </li>
+          </ul>
+        </fieldset>
+      </li>
+
+      <li>
+        <fieldset class="glob-custom geo-breakdown">
+          <legend><strong>Geography Breakdown</strong></legend>
+
+          <h3 class="country-title">Country</h3>
+          <h3 class="breakdown-title">% Breakdown</h3>
+          <ul class="country-list breakdowns-list">
+            <% _.each(model.geography, function(geography, index) { %>
+            <% countryData = {data: geography.country, value: formElements.countryByCode[geography.country.toUpperCase()]} %>
+            <%= _.template(newBreakdownTpl, {newIndex: index, countryData: countryData}) %>
+            <% }) %>
+          </ul>
+          <div class="add-country">
+            <select class="gb-set-selectors country-selector new-country" data-placeholder>
+              <option value=" " selected>Select Country</option>
+                <option value="AF">Afghanistan</option>
+                <option value="AX">Aland Islands</option>
+                <option value="AL">Albania</option>
+                <option value="DZ">Algeria</option>
+                <option value="AS">American Samoa</option>
+                <option value="AD">Andorra</option>
+                <option value="AO">Angola</option>
+                <option value="AI">Anguilla</option>
+                <option value="AQ">Antarctica</option>
+                <option value="AG">Antigua and Barbuda</option>
+                <option value="AR">Argentina</option>
+                <option value="AM">Armenia</option>
+                <option value="AW">Aruba</option>
+                <option value="AU">Australia</option>
+                <option value="AT">Austria</option>
+                <option value="AZ">Azerbaijan</option>
+                <option value="BS">Bahamas</option>
+                <option value="BH">Bahrain</option>
+                <option value="BD">Bangladesh</option>
+                <option value="BB">Barbados</option>
+                <option value="BY">Belarus</option>
+                <option value="BE">Belgium</option>
+                <option value="BZ">Belize</option>
+                <option value="BJ">Benin</option>
+                <option value="BM">Bermuda</option>
+                <option value="BT">Bhutan</option>
+                <option value="BO">Bolivia</option>
+                <option value="BQ">Bonaire, Sint Eustatius and Saba</option>
+                <option value="BA">Bosnia and Herzegovina</option>
+                <option value="BW">Botswana</option>
+                <option value="BV">Bouvet Island</option>
+                <option value="BR">Brazil</option>
+                <option value="IO">British Indian Ocean Territory</option>
+                <option value="VG">British Virgin Islands</option>
+                <option value="BN">Brunei Darussalam</option>
+                <option value="BG">Bulgaria</option>
+                <option value="BF">Burkina Faso</option>
+                <option value="BI">Burundi</option>
+                <option value="KH">Cambodia</option>
+                <option value="CM">Cameroon</option>
+                <option value="CA">Canada</option>
+                <option value="CV">Cape Verde</option>
+                <option value="KY">Cayman Islands</option>
+                <option value="CF">Central African Republic</option>
+                <option value="TD">Chad</option>
+                <option value="CL">Chile</option>
+                <option value="CN">China</option>
+                <option value="CX">Christmas Island</option>
+                <option value="CC">Cocos Islands</option>
+                <option value="CO">Colombia</option>
+                <option value="KM">Comoros</option>
+                <option value="CK">Cook Islands</option>
+                <option value="CR">Costa Rica</option>
+                <option value="CI">Cote d&#x27;Ivoire</option>
+                <option value="HR">Croatia</option>
+                <option value="CU">Cuba</option>
+                <option value="CW">Curacao</option>
+                <option value="CY">Cyprus</option>
+                <option value="CZ">Czech Republic</option>
+                <option value="CD">Democratic Republic of the Congo</option>
+                <option value="DK">Denmark</option>
+                <option value="DJ">Djibouti</option>
+                <option value="DM">Dominica</option>
+                <option value="DO">Dominican Republic</option>
+                <option value="EC">Ecuador</option>
+                <option value="EG">Egypt</option>
+                <option value="SV">El Salvador</option>
+                <option value="GQ">Equatorial Guinea</option>
+                <option value="ER">Eritrea</option>
+                <option value="EE">Estonia</option>
+                <option value="ET">Ethiopia</option>
+                <option value="FK">Falkland Islands</option>
+                <option value="FO">Faroe Islands</option>
+                <option value="FJ">Fiji</option>
+                <option value="FI">Finland</option>
+                <option value="FR">France</option>
+                <option value="GF">French Guiana</option>
+                <option value="PF">French Polynesia</option>
+                <option value="TF">French Southern Territories</option>
+                <option value="GA">Gabon</option>
+                <option value="GM">Gambia</option>
+                <option value="GE">Georgia</option>
+                <option value="DE">Germany</option>
+                <option value="GH">Ghana</option>
+                <option value="GI">Gibraltar</option>
+                <option value="GR">Greece</option>
+                <option value="GL">Greenland</option>
+                <option value="GD">Grenada</option>
+                <option value="GP">Guadeloupe</option>
+                <option value="GU">Guam</option>
+                <option value="GT">Guatemala</option>
+                <option value="GG">Guernsey</option>
+                <option value="GN">Guinea</option>
+                <option value="GW">Guinea-Bissau</option>
+                <option value="GY">Guyana</option>
+                <option value="HT">Haiti</option>
+                <option value="HM">Heard Island and McDonald Islands</option>
+                <option value="HN">Honduras</option>
+                <option value="HK">Hong Kong</option>
+                <option value="HU">Hungary</option>
+                <option value="IS">Iceland</option>
+                <option value="IN">India</option>
+                <option value="ID">Indonesia</option>
+                <option value="IR">Iran</option>
+                <option value="IQ">Iraq</option>
+                <option value="IE">Ireland</option>
+                <option value="IM">Isle of Man</option>
+                <option value="IL">Israel</option>
+                <option value="IT">Italy</option>
+                <option value="JM">Jamaica</option>
+                <option value="JP">Japan</option>
+                <option value="JE">Jersey</option>
+                <option value="JO">Jordan</option>
+                <option value="KZ">Kazakhstan</option>
+                <option value="KE">Kenya</option>
+                <option value="KI">Kiribati</option>
+                <option value="KW">Kuwait</option>
+                <option value="KG">Kyrgyzstan</option>
+                <option value="LA">Laos</option>
+                <option value="LV">Latvia</option>
+                <option value="LB">Lebanon</option>
+                <option value="LS">Lesotho</option>
+                <option value="LR">Liberia</option>
+                <option value="LY">Libya</option>
+                <option value="LI">Liechtenstein</option>
+                <option value="LT">Lithuania</option>
+                <option value="LU">Luxembourg</option>
+                <option value="MO">Macao</option>
+                <option value="MK">Macedonia</option>
+                <option value="MG">Madagascar</option>
+                <option value="MW">Malawi</option>
+                <option value="MY">Malaysia</option>
+                <option value="MV">Maldives</option>
+                <option value="ML">Mali</option>
+                <option value="MT">Malta</option>
+                <option value="MH">Marshall Islands</option>
+                <option value="MQ">Martinique</option>
+                <option value="MR">Mauritania</option>
+                <option value="MU">Mauritius</option>
+                <option value="YT">Mayotte</option>
+                <option value="MX">Mexico</option>
+                <option value="FM">Micronesia</option>
+                <option value="MD">Moldova</option>
+                <option value="MC">Monaco</option>
+                <option value="MN">Mongolia</option>
+                <option value="ME">Montenegro</option>
+                <option value="MS">Montserrat</option>
+                <option value="MA">Morocco</option>
+                <option value="MZ">Mozambique</option>
+                <option value="MM">Myanmar</option>
+                <option value="NA">Namibia</option>
+                <option value="NR">Nauru</option>
+                <option value="NP">Nepal</option>
+                <option value="NL">Netherlands</option>
+                <option value="NC">New Caledonia</option>
+                <option value="NZ">New Zealand</option>
+                <option value="NI">Nicaragua</option>
+                <option value="NE">Niger</option>
+                <option value="NG">Nigeria</option>
+                <option value="NU">Niue</option>
+                <option value="NF">Norfolk Island</option>
+                <option value="KP">North Korea</option>
+                <option value="MP">Northern Mariana Islands</option>
+                <option value="NO">Norway</option>
+                <option value="OM">Oman</option>
+                <option value="PK">Pakistan</option>
+                <option value="PW">Palau</option>
+                <option value="PS">Palestine</option>
+                <option value="PA">Panama</option>
+                <option value="PG">Papua New Guinea</option>
+                <option value="PY">Paraguay</option>
+                <option value="PE">Peru</option>
+                <option value="PH">Philippines</option>
+                <option value="PN">Pitcairn</option>
+                <option value="PL">Poland</option>
+                <option value="PT">Portugal</option>
+                <option value="PR">Puerto Rico</option>
+                <option value="QA">Qatar</option>
+                <option value="CG">Republic of the Congo</option>
+                <option value="RE">Reunion</option>
+                <option value="RO">Romania</option>
+                <option value="RU">Russian Federation</option>
+                <option value="RW">Rwanda</option>
+                <option value="BL">Saint Barthelemy</option>
+                <option value="SH">Saint Helena</option>
+                <option value="KN">Saint Kitts and Nevis</option>
+                <option value="LC">Saint Lucia</option>
+                <option value="MF">Saint Martin</option>
+                <option value="PM">Saint Pierre and Miquelon</option>
+                <option value="VC">Saint Vincent and the Grenadines</option>
+                <option value="WS">Samoa</option>
+                <option value="SM">San Marino</option>
+                <option value="ST">Sao Tome and Principe</option>
+                <option value="SA">Saudi Arabia</option>
+                <option value="SN">Senegal</option>
+                <option value="RS">Serbia</option>
+                <option value="SC">Seychelles</option>
+                <option value="SL">Sierra Leone</option>
+                <option value="SG">Singapore</option>
+                <option value="SX">Sint Maarten</option>
+                <option value="SK">Slovakia</option>
+                <option value="SI">Slovenia</option>
+                <option value="SB">Solomon Islands</option>
+                <option value="SO">Somalia</option>
+                <option value="ZA">South Africa</option>
+                <option value="GS">South Georgia and the South Sandwich Islands</option>
+                <option value="KR">South Korea</option>
+                <option value="SS">South Sudan</option>
+                <option value="ES">Spain</option>
+                <option value="LK">Sri Lanka</option>
+                <option value="SD">Sudan</option>
+                <option value="SR">Suriname</option>
+                <option value="SJ">Svalbard and Jan Mayen</option>
+                <option value="SZ">Swaziland</option>
+                <option value="SE">Sweden</option>
+                <option value="CH">Switzerland</option>
+                <option value="SY">Syrian Arab Republic</option>
+                <option value="TW">Taiwan</option>
+                <option value="TJ">Tajikistan</option>
+                <option value="TZ">Tanzania</option>
+                <option value="TH">Thailand</option>
+                <option value="TL">Timor-Leste</option>
+                <option value="TG">Togo</option>
+                <option value="TK">Tokelau</option>
+                <option value="TO">Tonga</option>
+                <option value="TT">Trinidad and Tobago</option>
+                <option value="TN">Tunisia</option>
+                <option value="TR">Turkey</option>
+                <option value="TM">Turkmenistan</option>
+                <option value="TC">Turks and Caicos Islands</option>
+                <option value="TV">Tuvalu</option>
+                <option value="VI">U.S. Virgin Islands</option>
+                <option value="UG">Uganda</option>
+                <option value="UA">Ukraine</option>
+                <option value="AE">United Arab Emirates</option>
+                <option value="GB">United Kingdom</option>
+                <option value="US">United States</option>
+                <option value="UM">United States Minor Outlying Islands</option>
+                <option value="UY">Uruguay</option>
+                <option value="UZ">Uzbekistan</option>
+                <option value="VU">Vanuatu</option>
+                <option value="VA">Vatican</option>
+                <option value="VE">Venezuela</option>
+                <option value="VN">Viet Nam</option>
+                <option value="WF">Wallis and Futuna</option>
+                <option value="EH">Western Sahara</option>
+                <option value="YE">Yemen</option>
+                <option value="ZM">Zambia</option>
+                <option value="ZW">Zimbabwe</option>
+            </select>
+          </div>
+        </fieldset>
+      </li>
+    </ul>
+  </form>
+</section>
+
+  </script>
+
+  <script id="new-country-breakdown-template" type="text/template">
+    <li class="single-country">
+  <input type="hidden" name="network_data[geography][<%= newIndex %>][country]" value="<%= countryData.data %>" />
+  <span class="country"><%= countryData.value %></span>
+
+  <select name="network_data[geography][<%= newIndex %>][breakdown]:number" class="gb-set-selectors breakdown-selector data-changed" data-placeholder>
+  <option value="&#160;">&#160;</option>
+      <option value="0">0%</option>
+      <option value="1">1%</option>
+      <option value="2">2%</option>
+      <option value="3">3%</option>
+      <option value="4">4%</option>
+      <option value="5">5%</option>
+      <option value="6">6%</option>
+      <option value="7">7%</option>
+      <option value="8">8%</option>
+      <option value="9">9%</option>
+      <option value="10">10%</option>
+      <option value="11">11%</option>
+      <option value="12">12%</option>
+      <option value="13">13%</option>
+      <option value="14">14%</option>
+      <option value="15">15%</option>
+      <option value="16">16%</option>
+      <option value="17">17%</option>
+      <option value="18">18%</option>
+      <option value="19">19%</option>
+      <option value="20">20%</option>
+      <option value="21">21%</option>
+      <option value="22">22%</option>
+      <option value="23">23%</option>
+      <option value="24">24%</option>
+      <option value="25">25%</option>
+      <option value="26">26%</option>
+      <option value="27">27%</option>
+      <option value="28">28%</option>
+      <option value="29">29%</option>
+      <option value="30">30%</option>
+      <option value="31">31%</option>
+      <option value="32">32%</option>
+      <option value="33">33%</option>
+      <option value="34">34%</option>
+      <option value="35">35%</option>
+      <option value="36">36%</option>
+      <option value="37">37%</option>
+      <option value="38">38%</option>
+      <option value="39">39%</option>
+      <option value="40">40%</option>
+      <option value="41">41%</option>
+      <option value="42">42%</option>
+      <option value="43">43%</option>
+      <option value="44">44%</option>
+      <option value="45">45%</option>
+      <option value="46">46%</option>
+      <option value="47">47%</option>
+      <option value="48">48%</option>
+      <option value="49">49%</option>
+      <option value="50">50%</option>
+      <option value="51">51%</option>
+      <option value="52">52%</option>
+      <option value="53">53%</option>
+      <option value="54">54%</option>
+      <option value="55">55%</option>
+      <option value="56">56%</option>
+      <option value="57">57%</option>
+      <option value="58">58%</option>
+      <option value="59">59%</option>
+      <option value="60">60%</option>
+      <option value="61">61%</option>
+      <option value="62">62%</option>
+      <option value="63">63%</option>
+      <option value="64">64%</option>
+      <option value="65">65%</option>
+      <option value="66">66%</option>
+      <option value="67">67%</option>
+      <option value="68">68%</option>
+      <option value="69">69%</option>
+      <option value="70">70%</option>
+      <option value="71">71%</option>
+      <option value="72">72%</option>
+      <option value="73">73%</option>
+      <option value="74">74%</option>
+      <option value="75">75%</option>
+      <option value="76">76%</option>
+      <option value="77">77%</option>
+      <option value="78">78%</option>
+      <option value="79">79%</option>
+      <option value="80">80%</option>
+      <option value="81">81%</option>
+      <option value="82">82%</option>
+      <option value="83">83%</option>
+      <option value="84">84%</option>
+      <option value="85">85%</option>
+      <option value="86">86%</option>
+      <option value="87">87%</option>
+      <option value="88">88%</option>
+      <option value="89">89%</option>
+      <option value="90">90%</option>
+      <option value="91">91%</option>
+      <option value="92">92%</option>
+      <option value="93">93%</option>
+      <option value="94">94%</option>
+      <option value="95">95%</option>
+      <option value="96">96%</option>
+      <option value="97">97%</option>
+      <option value="98">98%</option>
+      <option value="99">99%</option>
+      <option value="100">100%</option>
+  </select>
+  <span class="del-country" data-index="<%= newIndex %>"></span>
+</li>
+  </script>
+
+  <script id="empty-network-data-template" type="text/template">
+    <section class="no-information">
+    <input class="btn button-edit" type="button" value="Edit Data" />
+    <img src="/assets/er.jpg" alt="" />
+</section>
+
+  </script>
+
+  <script id="network-data-template" type="text/template">
+    <section class="network-data-info">
+  <input class="btn button-edit" type="button" value="Edit Data" />
+  <span class="loader-container">
+    <img src="/assets/loading.gif" />
+  </span>
+  <ul>
+    <li>
+      <% if(!jQuery.isEmptyObject(displayData)) { %>
+        <article class="glob-custom online-display-info">
+          <h2>Online Display</h2>
+          <canvas class="display-canvas" width="130px" height="122px"></canvas>
+          <ul>
+            <% _.each(sortObjectByVals(displayData), function(val, key) { %>
+              <% if(parseInt(val) !== 0 && !isNaN(parseInt(val))) { %>
+                <li>
+                  <span><%= numberAbbreviate(val.toString(), 2) %></span>
+                  <p><%= key.replace(/_/g, ' ').replace(/^[a-z]/,function(m){ return m.toUpperCase() }) %></p>
+                </li>
+              <% } %>
+            <% }) %>
+          </ul>
+        </article>
+      <% } %>
+
+      <% if(!jQuery.isEmptyObject(videoData)) { %>
+        <article class="glob-custom online-video-info">
+          <h2>Online Video</h2>
+          <% if(dataSetPresent(videoData, [ 'total_monthly_unique_viewers',
+                                                'total_monthly_video_views',
+                                                'total_pre_roll_monthly_video_views',
+                                                'total_in_banner_monthly_video_views' ])) { %>
+
+            <canvas class="video-canvas" width="130px" height="122px"></canvas>
+          <% } %>
+          <ul>
+            <% _.each(sortObjectByVals(videoData, ['total_monthly_unique_viewers',
+                                                      'total_monthly_video_views',
+                                                      'total_pre_roll_monthly_video_views',
+                                                      'total_in_banner_monthly_video_views']), function(val, key) { %>
+              <% if(parseInt(val) !== 0 && !isNaN(parseInt(val))) { %>
+                <li>
+                  <span><%= numberAbbreviate(val.toString(), 2) %></span>
+                  <p><%= key.replace(/_/g, ' ').replace(/^[a-z]/,function(m){ return m.toUpperCase() }) %></p>
+                </li>
+              <% } %>
+            <% }) %>
+          </ul>
+          <div style="clear: both;"></div>
+          <% if(model.video_in_stream_in_banner_relation && !isNaN(parseInt(model.video_in_stream_in_banner_relation.in_stream))) { %>
+            <div class="progress-panel">
+                <p class="first-item">
+                  In-Stream
+                  <span><%= model.video_in_stream_in_banner_relation.in_stream %>%</span>
+                </p>
+                <p class="second-item">
+                  In-Banner
+                  <span><%= model.video_in_stream_in_banner_relation.in_banner %>%</span>
+                </p>
+            </div>
+            <div class="progress">
+              <div class="bar" style="width: <%=model.video_in_stream_in_banner_relation.in_stream%>%;"></div>
+            </div>
+          <% } %>
+          <% if(dataSetPresent(videoData, ['total_subscribers',
+                                              'total_video_views',
+                                              'monthly_video_views',
+                                              'number_of_channels',
+                                              'top_stars_talent'])) { %>
+
+            <h3>
+              <i class="pull-left icon-youtube-sign"></i>YouTube Data
+            </h3>
+          <% } %>
+          <ul class="youtube-data">
+            <% if(parseInt(model.video_total_subscribers) !== 0 && !isNaN(parseInt(model.video_total_subscribers))) { %>
+              <li>
+                <span><%= numberAbbreviate(model.video_total_subscribers.toString(), 2) %></span>
+                <p>Total subscribers</p>
+              </li>
+            <% } %>
+            <% if(parseInt(model.video_total_video_views) !== 0 && !isNaN(parseInt(model.video_total_video_views))) { %>
+              <li>
+                <span><%= numberAbbreviate(model.video_total_video_views.toString(), 2) %></span>
+                <p>Total video views</p>
+              </li>
+            <% } %>
+            <% if(parseInt(model.video_monthly_video_views) !== 0 && !isNaN(parseInt(model.video_monthly_video_views))) { %>
+              <li>
+                <span><%= numberAbbreviate(model.video_monthly_video_views.toString(), 2) %></span>
+                <p>Monthly video views</p>
+              </li>
+            <% } %>
+            <% if(parseInt(model.video_number_of_channels) !== 0 && !isNaN(parseInt(model.video_number_of_channels))) { %>
+              <li>
+                <span><%= numberAbbreviate(model.video_number_of_channels.toString(), 2) %></span>
+                <p>Channels / Network partners</p>
+              </li>
+            <% } %>
+          </ul>
+          <% if( !(_.isEmpty(model.video_top_stars_talent)) ) { %>
+            <dl class="top-stars">
+              <dt>Top Stars / Talent:</dt>
+              <dd><%= model.video_top_stars_talent %></dd>
+            </dl>
+          <% } %>
+        </article>
+      <% } %>
+    </li>
+
+    <li>
+      <% if(!jQuery.isEmptyObject(mobileData)) { %>
+        <article class="glob-custom mobile-info">
+          <h2>Mobile</h2>
+          <% if(dataSetPresent(mobileData, [ 'mobile_total_monthly_uniques',
+                                                'mobile_monthly_interstitial_impressions',
+                                                'mobile_monthly_overall_impressions' ])) { %>
+
+            <canvas class="mobile-canvas" id="mobile-canvas" width="130px" height="122px"></canvas>
+          <% } %>
+
+          <ul class="value-list">
+            <% _.each(sortObjectByVals(mobileData,['mobile_total_monthly_uniques',
+                                                      'mobile_monthly_interstitial_impressions',
+                                                     'mobile_monthly_overall_impressions']), function(val, key) { %>
+              <% if(parseInt(val) > 0) { %>
+                <li>
+                  <span><%= numberAbbreviate(val.toString(), 2) %></span>
+                  <p><%= key.replace(/_/g, ' ').replace(/^[a-z]/,function(m){ return m.toUpperCase() }) %></p>
+                </li>
+              <% } %>
+            <% }) %>
+          </ul>
+          <% if(model.mobile_ios_android_relation && !isNaN(parseInt(model.mobile_ios_android_relation.ios))) { %>
+            <div class="progress-panel">
+                <p class="first-item">
+                  iOS
+                  <span><%= model.mobile_ios_android_relation.ios %>%</span>
+                </p>
+                <p class="second-item">
+                  Android
+                  <span><%= model.mobile_ios_android_relation.android %>%</span>
+                </p>
+                <div class="progress mobile-os">
+                  <div class="bar" style="width: <%=model.mobile_ios_android_relation.ios%>%;"></div>
+                </div>
+            </div>
+          <% } %>
+          <% if(model.mobile_in_app_mobile_web_relation && !isNaN(parseInt(model.mobile_in_app_mobile_web_relation.in_app))) { %>
+            <div class="progress-panel">
+              <p class="first-item">
+                In-App
+                <span><%= model.mobile_in_app_mobile_web_relation.in_app %>%</span>
+              </p>
+              <p class="second-item">
+                MobileWeb
+                <span><%= model.mobile_in_app_mobile_web_relation.mobile_web %>%</span>
+              </p>
+              <div class="progress app-mweb">
+                <div class="bar" style="width: <%=model.mobile_in_app_mobile_web_relation.in_app%>%;"></div>
+              </div>
+            </div>
+          <% } %>
+
+
+          <% if(model.mobile_phone_tablet_relation && !isNaN(parseInt(model.mobile_phone_tablet_relation.phone))) { %>
+            <div class="progress-panel">
+              <p class="first-item">
+                Phone
+                <span><%= model.mobile_phone_tablet_relation.phone %>%</span>
+              </p>
+              <p class="second-item">
+                Tablet
+                <span><%= model.mobile_phone_tablet_relation.tablet %>%</span>
+              </p>
+              <div class="progress phone-tablet">
+                <div class="bar" style="width: <%=model.mobile_phone_tablet_relation.phone%>%;"></div>
+              </div>
+            </div>
+          <% } %>
+
+          <% if(parseInt(model.total_monthly_mobile_video_views) > 0) { %>
+            <p class="mob-vid-views">
+              <span><%= numberAbbreviate(model.total_monthly_mobile_video_views.toString(), 2) %></span>
+              Total monthly mobile video views
+            </p>
+          <% } %>
+
+          <% if(mobileBlockPresent(model.mobile_apps_iphone) || mobileBlockPresent(model.mobile_apps_ipad) || mobileBlockPresent(model.mobile_apps_android)) { %>
+            <h3>Owned Mobile Apps</h3>
+          <% } %>
+          <% if(mobileBlockPresent(model.mobile_apps_iphone)) { %>
+            <h4>iPhone</h4>
+            <ul class="mobile-apps-info">
+              <% if(parseInt(model.mobile_apps_iphone.downloads_count) > 0) { %>
+                <li class="mo-apps">
+                  <p>App</p>
+                  <span><%= numberAbbreviate(model.mobile_apps_iphone.downloads_count.toString(), 2) %></span>
+                </li>
+              <% } %>
+              <% if(parseInt(model.mobile_apps_iphone.active_users_count) > 0) { %>
+                <li class="value-au">
+                  <p><%= model.mobile_apps_iphone.active_users_select.toUpperCase() %></p>
+                  <span><%= numberAbbreviate(model.mobile_apps_iphone.active_users_count.toString(), 2) %></span>
+                </li>
+              <% } %>
+              <% if(parseInt(model.mobile_apps_iphone.monthly_pv) > 0) { %>
+                <li class="mo-pv">
+                  <p>Monthly PV</p>
+                  <span><%= numberAbbreviate(model.mobile_apps_iphone.monthly_pv.toString(), 2) %></span>
+                </li>
+              <% } %>
+            </ul>
+          <% } %>
+          <% if(mobileBlockPresent(model.mobile_apps_ipad)) { %>
+            <h4>iPad</h4>
+            <ul class="mobile-apps-info">
+              <% if(parseInt(model.mobile_apps_ipad.downloads_count) > 0) { %>
+                <li class="mo-apps">
+                  <p>App</p>
+                  <span><%= numberAbbreviate(model.mobile_apps_ipad.downloads_count.toString(), 2) %></span>
+                </li>
+              <% } %>
+              <% if(parseInt(model.mobile_apps_ipad.active_users_count) > 0) { %>
+                <li class="value-au">
+                  <p><%= model.mobile_apps_ipad.active_users_select.toUpperCase() %></p>
+                  <span><%= numberAbbreviate(model.mobile_apps_ipad.active_users_count.toString(), 2) %></span>
+                </li>
+              <% } %>
+              <% if(parseInt(model.mobile_apps_ipad.monthly_pv) > 0) { %>
+                <li class="mo-pv">
+                  <p>Monthly PV</p>
+                  <span><%= numberAbbreviate(model.mobile_apps_ipad.monthly_pv.toString(), 2) %></span>
+                </li>
+              <% } %>
+            </ul>
+          <% } %>
+          <% if(mobileBlockPresent(model.mobile_apps_android)) { %>
+            <h4>Android</h4>
+            <ul class="mobile-apps-info">
+              <% if(parseInt(model.mobile_apps_android.downloads_count) > 0) { %>
+                <li class="mo-apps">
+                  <p>App</p>
+                  <span><%= numberAbbreviate(model.mobile_apps_android.downloads_count.toString(), 2) %></span>
+                </li>
+              <% } %>
+              <% if(parseInt(model.mobile_apps_android.active_users_count) > 0) { %>
+                <li class="value-au">
+                  <p><%= model.mobile_apps_android.active_users_select.toUpperCase() %></p>
+                  <span><%= numberAbbreviate(model.mobile_apps_android.active_users_count.toString(), 2) %></span>
+                </li>
+              <% } %>
+              <% if(parseInt(model.mobile_apps_android.monthly_pv) > 0) { %>
+                <li class="mo-pv">
+                  <p>Monthly PV</p>
+                  <span><%= numberAbbreviate(model.mobile_apps_android.monthly_pv.toString(), 2) %></span>
+                </li>
+              <% } %>
+            </ul>
+          <% } %>
+        </article>
+      <% } %>
+      <% if(!jQuery.isEmptyObject(socialData) || !jQuery.isEmptyObject(emailData)) { %>
+        <article class="glob-custom email-soc-info">
+          <h2>E-mail / Social</h2>
+          <ul>
+            <% if(!jQuery.isEmptyObject(emailData)) { %>
+              <li>
+                <i class="pull-left icon-envelope"></i>
+                <span class="data-info"><%= numberAbbreviate(model.email_subscribers.toString(), 2) %></span>
+                <p>Email Subscribers</p>
+              </li>
+            <% } %>
+            <% if(parseInt(model.social_facebook_fans) > 0) { %>
+              <li>
+                <i class="pull-left icon-facebook-sign"></i>
+                <span class="data-info"><%= numberAbbreviate(model.social_facebook_fans.toString(), 2) %></span>
+                <p>Facebook Fans</p>
+              </li>
+            <% } %>
+            <% if(parseInt(model.social_twitter_followers) > 0) { %>
+              <li>
+                <i class="pull-left icon-twitter-sign"></i>
+                <span class="data-info"><%= numberAbbreviate(model.social_twitter_followers.toString(), 2) %></span>
+                <p>Twitter Followers</p>
+              </li>
+            <% } %>
+            <% if(parseInt(model.social_instagram_followers) > 0) { %>
+              <li>
+                <i class="pull-left icon-instagram"></i>
+                <span class="data-info"><%= numberAbbreviate(model.social_instagram_followers.toString(), 2) %></span>
+                <p>Instagram Followers</p>
+              </li>
+            <% } %>
+            <% if(parseInt(model.social_pinterest_followers) > 0) { %>
+              <li>
+                <i class="pull-left icon-pinterest-sign"></i>
+                <span class="data-info"><%= numberAbbreviate(model.social_pinterest_followers.toString(), 2) %></span>
+                <p>Pinterest Followers</p>
+              </li>
+            <% } %>
+
+            <% if(parseInt(model.social_tumblr_followers) > 0) { %>
+              <li>
+                <i class="pull-left icon-tumblr-sign"></i>
+                <span class="data-info"><%= numberAbbreviate(model.social_tumblr_followers.toString(), 2) %></span>
+                <p>Tumblr Followers</p>
+              </li>
+            <% } %>
+          </ul>
+        </article>
+      <% } %>
+    </li>
+
+    <li>
+      <% if(!jQuery.isEmptyObject(demosData)) { %>
+        <article class="glob-custom demos-form-info">
+          <h2>Demos</h2>
+          <% if(model.demos_gender && !isNaN(parseInt(model.demos_gender.male))) { %>
+            <h3><span class="icon-title icon-sex"></span>Gender</h3>
+            <p class="first-item">
+              Male
+              <span><%= model.demos_gender.male %>%</span>
+            </p>
+            <p class="second-item">
+              Female
+              <span><%= model.demos_gender.female %>%</span>
+            </p>
+            <div class="progress sex-info">
+              <div class="bar" style="width: <%=model.demos_gender.male%>%;"></div>
+            </div>
+          <% } %>
+          <% if(percentageFilled(model.demos_age_bracket)) { %>
+            <h3><span class="icon-title icon-age"></span>Age</h3>
+            <div id="canvas-holder" class="age-graphic">
+            <canvas class="chart-area" width="120" height="120"/>
+          <% } %>
+        </div>
+        <% if(percentageFilled(model.demos_age_bracket)) { %>
+          <ul>
+            <% if (model.demos_age_bracket) { %>
+              <% if(parseInt(model.demos_age_bracket.less_than_18) > 0) { %>
+              <li>
+                <p><span class="for-18"></span>&#60;18</p>
+                <span><%= model.demos_age_bracket.less_than_18 %>%</span>
+              </li>
+              <% } %>
+              <% if(parseInt(model.demos_age_bracket.between_18_24) > 0) { %>
+              <li>
+                <p><span class="for-18-24"></span>18 - 24</p>
+                <span><%= model.demos_age_bracket.between_18_24 %>%</span>
+              </li>
+              <% } %>
+              <% if(parseInt(model.demos_age_bracket.between_25_34) > 0) { %>
+              <li>
+                <p><span class="for-25-34"></span>25 - 34</p>
+                <span><%= model.demos_age_bracket.between_25_34 %>%</span>
+              </li>
+              <% } %>
+              <% if(parseInt(model.demos_age_bracket.between_35_44) > 0) { %>
+              <li>
+                <p><span class="for-35-44"></span>35 - 44</p>
+                <span><%= model.demos_age_bracket.between_35_44 %>%</span>
+              </li>
+              <% } %>
+              <% if(parseInt(model.demos_age_bracket.between_45_54) > 0) { %>
+              <li>
+                <p><span class="for-45-54"></span>45 - 54</p>
+                <span><%= model.demos_age_bracket.between_45_54 %>%</span>
+              </li>
+              <% } %>
+              <% if(parseInt(model.demos_age_bracket.between_55_64) > 0) { %>
+              <li>
+                <p><span class="for-55-64"></span>55 - 64</p>
+                <span><%= model.demos_age_bracket.between_55_64 %>%</span>
+              </li>
+              <% } %>
+              <% if(parseInt(model.demos_age_bracket.more_than_65) > 0) { %>
+              <li>
+                <p><span class="for-65"></span>65+</p>
+                <span><%= model.demos_age_bracket.more_than_65 %>%</span>
+              </li>
+              <% } %>
+            <% } %>
+          </ul>
+          <% } %>
+          <% if(percentageFilled(model.demos_income)) { %>
+            <h3><span class="icon-title icon-income"></span>Income</h3>
+            <dl class="demos-info">
+              <% if(parseInt(model.demos_income.between_0_50) > 0) { %>
+                <dt>$0 - 50k</dt>
+                <dd>
+                  <div class="progress">
+                    <div class="bar for-0-50" style="width: <%= model.demos_income.between_0_50 %>%;">
+                      <span><%= model.demos_income.between_0_50 %>%</span>
+                    </div>
+                  </div>
+                </dd>
+              <% } %>
+              <% if(parseInt(model.demos_income.between_50_100) > 0) { %>
+                <dt>$50 - 100k</dt>
+                <dd>
+                  <div class="progress">
+                    <div class="bar for-50-100" style="width: <%= model.demos_income.between_50_100 %>%;">
+                      <span><%= model.demos_income.between_50_100 %>%</span>
+                    </div>
+                  </div>
+                </dd>
+              <% } %>
+              <% if(parseInt(model.demos_income.between_100_150) > 0) { %>
+                <dt>$100 - 150k</dt>
+                <dd>
+                  <div class="progress">
+                    <div class="bar for-100-150" style="width: <%= model.demos_income.between_100_150 %>%;">
+                      <span><%= model.demos_income.between_100_150 %>%</span>
+                    </div>
+                  </div>
+                </dd>
+              <% } %>
+              <% if(parseInt(model.demos_income.more_than_150) > 0) { %>
+                <dt>$150k+</dt>
+                <dd>
+                  <div class="progress">
+                    <div class="bar for-150" style="width: <%= model.demos_income.more_than_150 %>%;">
+                      <span><%= model.demos_income.more_than_150 %>%</span>
+                    </div>
+                  </div>
+                </dd>
+              <% } %>
+            </dl>
+          <% } %>
+          <% if(percentageFilled(model.demos_education)) { %>
+            <h3><span class="icon-title icon-education"></span>Education</h3>
+            <dl class="demos-info">
+              <% if(parseInt(model.demos_education.no_college) > 0) { %>
+                <dt>No College</dt>
+                <dd>
+                  <div class="progress">
+                    <div class="bar no-college" style="width: <%= model.demos_education.no_college %>%;">
+                      <span><%= model.demos_education.no_college %>%</span>
+                    </div>
+                  </div>
+                </dd>
+              <% } %>
+              <% if(parseInt(model.demos_education.college) > 0) { %>
+                <dt>College</dt>
+                <dd>
+                  <div class="progress">
+                    <div class="bar college" style="width: <%= model.demos_education.college %>%;">
+                      <span><%= model.demos_education.college %>%</span>
+                    </div>
+                  </div>
+                </dd>
+              <% } %>
+              <% if(parseInt(model.demos_education.grad_school) > 0) { %>
+                <dt>Grad School</dt>
+                <dd>
+                  <div class="progress">
+                    <div class="bar grad-school" style="width: <%= model.demos_education.grad_school %>%;">
+                      <span><%= model.demos_education.grad_school %>%</span>
+                    </div>
+                  </div>
+                </dd>
+              <% } %>
+            </dl>
+          <% } %>
+        </article>
+      <% } %>
+    </li>
+
+    <li>
+      <% if(!jQuery.isEmptyObject(geographyData)) { %>
+        <article class="glob-custom geo-breakdown">
+          <h2>Geography Breakdown</h2>
+          <ul>
+            <% var maxVisibleCountries = 12; %>
+            <% _.each(geographyData, function(data, i) { %>
+              <li class="<%= i >= maxVisibleCountries ? 'hidden' : '' %>" >
+                <img src="/assets/flags/<%= data.country.toLowerCase() %>.png" onError="this.onerror=null;this.src='/assets/flags/flag_error.png';" alt="<%= data.country %>" />
+                <p><%= countryByCode[data.country.toUpperCase()] %></p>
+                <span><%= data.breakdown == 0 ? '' : data.breakdown + '%' %></span>
+              </li>
+            <% }) %>
+          </ul>
+          <% if (geographyData.length > maxVisibleCountries) { %>
+            <a class="show-more">more...</a>
+          <% } %>
+        </article>
+      <% } %>
+    </li>
+  </ul>
+</section>
+
+  </script>
+
+  <!-- UA DATA -->
+  <script id="ua-data-view" type="text/template">
+    <section class="ua-data-info <%= uaData.publishers_breakdown ? '' : 'without-mobile' %>">
+  <div class="edit-container">
+    <input class="btn button-edit" type="button" value="Edit Data" />
+    <span class="loader-container">
+      <img src="/assets/loading.gif" />
+    </span>
+  </div>
+
+<% if (uaData.publishers_breakdown) { %>
+  <section class="mobile-ua-info">
+    <h2>User Acquisition</h2>
+    <% if(uaData.publishers_breakdown && !jQuery.isEmptyObject(uaData.publishers_breakdown)) { %>
+      <h3>Publisher Breakout</h3>
+      <div class="graphic-breakout" id="canvas-holder" style="width:115px">
+        <canvas class="chart-area" width="115" height="115"></canvas>
+      </div>
+      <ul class="graphic-breakout-value">
+        <% _.each(uaData.publishers_breakdown, function(data) { %>
+          <li>
+            <p><span class="color-publisher-item <%= data.category.toLowerCase().replace(/ | & |\//, '-') %>"></span><span class="publisher-category"><%= data.category %></span></p>
+            <span><%= data.breakdown %>%</span>
+          </li>
+        <% }) %>
+      </ul>
+    <% } %>
+    <% if(uaData.incent && uaData.incent.incent) { %>
+      <div class="progress-panel">
+        <p class="first-item">Incent<span><%= uaData.incent.incent %>%</span></p>
+        <p class="second-item">Non-<br/>Incent <span><%= uaData.incent.non_incent %>%</span></p>
+        <div class="progress incent">
+          <div class="bar" style="width: <%= uaData.incent.incent %>%;"></div>
+        </div>
+      </div>
+    <% } %>
+    <% if(uaData.device_tracking && uaData.device_tracking.device_tracking) { %>
+      <div class="progress-panel">
+        <p class="first-item">Device ID <br/>Tracking<span><%= uaData.device_tracking.device_tracking %>%</span></p>
+        <p class="second-item">Finger <br/>printing<span><%= uaData.device_tracking.fingerprint %>%</span></p>
+        <div class="progress device-id">
+          <div class="bar" style="width: <%= uaData.device_tracking.device_tracking %>%;"></div>
+        </div>
+      </div>
+    <% } %>
+    <ul class="input-text-info">
+      <% if(uaData.non_incent_daily_app_installs) { %>
+        <li>
+          <span><%= uaData.non_incent_daily_app_installs %></span>
+          <p>est. max daily app installs per app non-incent</p>
+        </li>
+      <% } %>
+      <% if(uaData.incent_daily_app_installs) { %>
+        <li>
+          <span><%= uaData.incent_daily_app_installs %></span>
+          <p>est. max daily app installs per app incent</p>
+        </li>
+      <% } %>
+      <% if(uaData.category_genre_specialization) { %>
+        <li>
+          <span class="custom-set">Category/genre<br /> specialization:</span>
+          <p><%= uaData.category_genre_specialization %></p>
+        </li>
+      <% } %>
+      <% if(uaData.geo_specialization) { %>
+        <li>
+          <span class="custom-set">Geo-specialization:</span>
+          <p><%= uaData.geo_specialization %></p>
+        </li>
+      <% } %>
+    </ul>
+    <dl class="checkbox-info">
+      <% dashboard_reporting = helpers.boolAsWord(uaData.dashboard_reporting) %>
+      <dt class="check-<%= dashboard_reporting.toLowerCase() %>"><%= dashboard_reporting %></dt>
+      <dd>Dashboard Reporting</dd>
+      <% reporting_api = helpers.boolAsWord(uaData.reporting_api) %>
+      <dt class="check-<%= reporting_api.toLowerCase() %>"><%= reporting_api %></dt>
+      <dd>Reporting API</dd>
+      <% support_post_install_events = helpers.boolAsWord(uaData.support_post_install_events) %>
+      <dt class="check-<%= support_post_install_events.toLowerCase() %>"><%= support_post_install_events %></dt>
+      <dd>Support Post-Install Events</dd>
+      <% support_post_install_revenue_passback = helpers.boolAsWord(uaData.support_post_install_revenue_passback) %>
+      <dt class="check-<%= support_post_install_revenue_passback.toLowerCase() %>"><%= support_post_install_revenue_passback %></dt>
+      <dd>Support Post-Install Revenue Passback</dd>
+      <% can_create_assets = helpers.boolAsWord(uaData.can_create_assets) %>
+      <dt class="check-<%= can_create_assets.toLowerCase() %>"><%= can_create_assets %></dt>
+      <dd>Can create Assets?</dd>
+      <% sub_source_publisher_transparency = helpers.boolAsWord(uaData.sub_source_publisher_transparency) %>
+      <dt class="check-<%= sub_source_publisher_transparency.toLowerCase() %>"><%= sub_source_publisher_transparency %></dt>
+      <dd>Sub-Source/Publisher Transparency</dd>
+    </dl>
+
+    <% if(uaData.direct_exclusive) { %>
+      <div class="clear-wrap">
+        <p class="from-inventory">
+          Exclusive Inventory from Direct Publisher Relationships:
+        </p>
+        <p class="from-inventory-value">
+          <%= uaData.direct_exclusive %>%
+        </p>
+      </div>
+    <% } %>
+
+  </section>
+<% } %>
+
+
+  <section class="country-data-info">
+    <% if(uaData.available_categories_ios.length > 0) { %>
+      <section class="ios-country-info">
+        <h2>iOS Country Data</h2>
+        <p class="usd-numbers">*All numbers in USD</p>
+        <select class="percent-graf ios-data-selector" data-placeholder>
+          <% selectedCategory = uaData.available_categories_ios[0] %>
+          <% _.each(uaData.available_categories_ios, function(category, index) { %>
+            <% if(selectedCategory == category) {ensureSelected = 'selected'}else{ensureSelected = ''} %>
+            <option <%= ensureSelected %> value="<%= category %>"><%= category %></option>
+          <% }) %>
+        </select>
+
+        <h3>
+          <input type="hidden" name="device" class='ios' value="iPhone" />
+          <span class="device-type active" data-os='ios'>iPhone</span> / <span class="device-type" data-os='ios'>iPad</span>
+        </h3>
+        <table>
+          <thead>
+            <tr>
+              <th class="country-col"><span>Country</span></th>
+              <th class="inst-noninc-col">est. daily installs non-incent/daily impression volume</th>
+              <th class="avg-price-noninc-col">avg price <BR/> non-incent</th>
+              <th class="avg-ctr-noninc-col">non-incent avg CTR</th>
+              <th class="avg-cvr-noninc-col">non-incent avg CVR</th>
+              <th class="daily-ins-inc-col">est. daily installs incent</th>
+              <th class="avg-cpi-inc-col">avg CPI<br/> incent</th>
+              <th class="mo-mob-video-col">est daily installs/ <br />monthly mobile <br />completed video <br />views</th>
+              <th class="mo-video-avg-price-col">mobile video<br/> avg price</th>
+              <th class="mob-avg-ctr-col">mobile <br/>video avg CTR</th>
+              <th class="mob-avg-cvr-col">mobile video avg CVR</th>
+            </tr>
+          </thead>
+          <tbody>
+          </tbody>
+        </table>
+      </section>
+    <% } %>
+
+    <% if(uaData.available_categories_android.length > 0) { %>
+      <section class="android-country-info">
+        <h2>Android Country Data</h2>
+        <p class="usd-numbers">*All numbers in USD</p>
+        <select class="percent-graf android-data-selector" data-placeholder>
+          <% selectedCategory = uaData.available_categories_android[0] %>
+          <% _.each(uaData.available_categories_android, function(category, index) { %>
+            <% if(selectedCategory == category) {ensureSelected = 'selected'}else{ensureSelected = ''} %>
+            <option <%= ensureSelected %> value="<%= category %>"><%= category %></option>
+          <% }) %>
+        </select>
+        <h3>
+          <input type="hidden" name="device" class="android" value="Phone" />
+          <span class="device-type active" data-os="android">Android Phone</span> / <span class="device-type" data-os="android">Android Tablet</span>
+        </h3>
+        <table>
+          <thead>
+            <tr>
+              <th class="country-col">Country</th>
+              <th class="inst-noninc-col">est. daily installs non-incent/daily impression volume</th>
+              <th class="avg-price-noninc-col">avg price <BR/> non-incent</th>
+              <th class="avg-ctr-noninc-col">non-incent avg CTR</th>
+              <th class="avg-cvr-noninc-col">non-incent avg CVR</th>
+              <th class="daily-ins-inc-col">est. daily installs incent</th>
+              <th class="avg-cpi-inc-col">avg CPI<br/> incent</th>
+              <th class="mo-mob-video-col">est daily installs/ <br />monthly mobile <br />completed video <br />views</th>
+              <th class="mo-video-avg-price-col">mobile video<br/> avg price</th>
+              <th class="mob-avg-ctr-col">mobile <br/>video avg CTR</th>
+              <th class="mob-avg-cvr-col">mobile video avg CVR</th>
+            </tr>
+          </thead>
+          <tbody>
+          </tbody>
+        </table>
+      </section>
+    <% } %>
+  </section>
+</section>
+
+  </script>
+
+  <script id="ua-data-form" type="text/template">
+    <section class="ua-data-form">
+  <div class="edit-container">
+    <input class="btn btn-success view-data" type="button" value="View Live Data" />
+    <span class="loader-container">
+      <img src="/assets/loading.gif" />
+    </span>
+    <div class="error-data" style="display: none">
+      <p>Values should be less than or equal to 100%</p>
+      <span></span>
+    </div>
+
+  </div>
+  <section class="mobile-ua">
+    <form class="mobile-ua-form">
+      <fieldset>
+        <legend><strong>Mobile User Acquisition</strong></legend>
+        <div class="alert alert-error error-message" style="display: none;">
+          <button type="button" class="close" data-dismiss="alert">×</button>
+          Publisher Breakout sum must be 100% or less.
+        </div>
+        <h3>Publisher Breakout</h3>
+        <input class="btn btn-primary pull-right button-save save-ua-data" type="submit" value="Save" />
+        <ul class="mobile-ua-list">
+          <li>
+            <ul class="pub-breakout-list">
+              <% _.each(uaData.publishers_breakdown, function(publisher, index) { %>
+                <%= _.template($("#ua-data-publisher-category").html(), {publisher: publisher, index: index}) %>
+              <% }) %>
+            </ul>
+            <ul class="select-list">
+              <li>
+                <select class="value-graf new-category" data-placeholder>
+                  <option value="Select new">Select new</option>
+                  <% _.each(helpers.publisherCategories, function(category, index) { %>
+                    <option value="<%= category %>"><%= category %></option>
+                  <% })  %>
+                </select>
+              </li>
+            </ul>
+          </li>
+
+          <li class="slide-incent">
+            <span class="first-item">
+              Incent<br/>
+              <span class="value incent"><%=  uaData.incent ? uaData.incent.incent || 50 : 50 %>%</span>
+            </span>
+            <input type="hidden" name="ua_data[incent][incent]" class="incent" value="<%= uaData.incent ? uaData.incent.incent : ''%>" />
+            <div class="incent-slider slider"></div>
+            <input type="hidden" name="ua_data[incent][non_incent]" class="non_incent" value="<%= uaData.incent ? uaData.incent.non_incent : '' %>" />
+            <span class="second-item">
+              Non-Incent<br/>
+              <span class="value non_incent"><%= uaData.incent ? uaData.incent.non_incent || 50 : 50 %>%</span>
+            </span>
+          </li>
+          
+          <li class="slide-tracking">
+            <span class="first-item">
+              Device ID Tracking<br/>
+              <span class="value device_tracking"><%= uaData.device_tracking ? uaData.device_tracking.device_tracking || 50 : 50 %>%</span>
+            </span>
+            <input type="hidden" name="ua_data[device_tracking][device_tracking]" class="device_tracking" value="<%= uaData.device_tracking ? uaData.device_tracking.device_tracking : '' %>">
+            <div class="tracking-slider slider"></div>
+            <input type="hidden" name="ua_data[device_tracking][fingerprint]" class="fingerprint" value="<%= uaData.device_tracking ? uaData.device_tracking.fingerprint : '' %>">
+            <span class="second-item">
+              Finger printing<br/>
+              <span class="value fingerprint"><%= uaData.device_tracking ? uaData.device_tracking.fingerprint || 50 : 50 %>%</span>
+            </span>
+          </li>
+          <li class="global-inp-text  daily-non-incent">
+            <input type="number" class="error form-control" id="<%= 'nincent-'+uaData.adPartnerId %>" name="ua_data[non_incent_daily_app_installs]" value="<%= uaData.non_incent_daily_app_installs %>" placeholder="eg. 5,000" />
+            <label for="<%= 'nincent-'+uaData.adPartnerId %>">est. max daily app installs per app non-incent</label>
+          </li>
+          <li class="global-inp-text  daily-incent">
+            <input type="number" class="form-control" id="<%= 'incent-'+uaData.adPartnerId %>" name="ua_data[incent_daily_app_installs]" value="<%= uaData.incent_daily_app_installs %>" placeholder="eg. 7,000" />
+            <label for="<%= 'incent-'+uaData.adPartnerId %>">est. max daily app installs per app incent</label>
+          </li>
+          <li class="global-inp-text  cat-genre-spec">
+            <input type="text" class="form-control" id="<%= 'spec-'+uaData.adPartnerId %>" name="ua_data[category_genre_specialization]" value="<%= uaData.category_genre_specialization %>" placeholder="eg. Casual Games, Social Casino Games, etc" />
+            <label for="<%= 'spec-'+uaData.adPartnerId %>">Category/genre specialization</label>
+          </li>
+          <li class="global-inp-text geo-spec">
+            <input type="text" class="form-control" id="<%= 'geo-'+uaData.adPartnerId %>" name="ua_data[geo_specialization]" value="<%= uaData.geo_specialization %>" placeholder="eg. Korea, Malaysia" />
+            <label for="<%= 'geo-'+uaData.adPartnerId %>">Geo-specialization </label>
+          </li>
+          <li class="checkbox-list">
+            <ul>
+              <li>
+                <%= helpers.checkboxTag(uaData, 'dashboard_reporting', uaData.dashboard_reporting) %>
+                <label for="<%= 'dashboard_reporting-'+uaData.adPartnerId %>">Dashboard Reporting</label>
+              </li>
+              <li>
+                <%= helpers.checkboxTag(uaData, 'reporting_api', uaData.reporting_api) %>
+                <label for="<%= 'reporting_api-'+uaData.adPartnerId %>">Reporting API</label>
+              </li>
+              <li>
+                <%= helpers.checkboxTag(uaData, 'support_post_install_events', uaData.support_post_install_events) %>
+                <label for="<%= 'support_post_install_events-'+uaData.adPartnerId %>">Support Post-Install Events</label>
+              </li>
+              <li>
+                <%= helpers.checkboxTag(uaData, 'support_post_install_revenue_passback', uaData.support_post_install_revenue_passback) %>
+                <label for="<%= 'support_post_install_revenue_passback-'+uaData.adPartnerId %>">Support Post-Install Revenue Passback</label>
+              </li>
+              <li>
+                <%= helpers.checkboxTag(uaData, 'can_create_assets', uaData.can_create_assets) %>
+                <label for="<%= 'can_create_assets-'+uaData.adPartnerId %>">Can create Assets?</label>
+              </li>
+              <li>
+                <%= helpers.checkboxTag(uaData, 'sub_source_publisher_transparency', uaData.sub_source_publisher_transparency) %>
+                <label for="<%= 'sub_source_publisher_transparency-'+uaData.adPartnerId %>">Sub-Source/Publisher Transparency</label>
+              </li>
+            </ul>
+          </li>
+          <li class="inventory-ratio">
+           <span class="first-item">0%</span>
+            <input type="hidden" name="ua_data[direct_exclusive]" class="exclusive_inventory" value="<%= uaData.direct_exclusive ? uaData.direct_exclusive : ''%>">
+            <div class="relationships-slider"></div>
+            <input type="hidden" class="direct_publisher" value="<%= uaData.direct_exclusive ? (100 - uaData.direct_exclusive) : ''%>">
+            <span class="second-item">100%</span>
+            <p>
+              <span class="value exclusive_inventory"><%= (uaData.direct_exclusive ? uaData.direct_exclusive || 50 : 50) %>%</span>
+               Exclusive Inventory from Direct Publisher Relationships
+            </p>
+          </li>
+        </ul>
+      </fieldset>
+    </form>
+  </section>
+  <section class="country-data">
+    <section class="ios-country-data">
+      <form method="get">
+        <fieldset>
+          <legend><strong>iOS Country Data</strong></legend>
+          <div class="alert alert-error hidden">
+            <button type="button" class="close" data-dismiss="alert">×</button>
+            Please fill in all required fields.
+          </div>
+          <ul>
+            <li class="settings-form">
+              <select name="casino-games" class="percent-graf ios-category-selector" data-placeholder>
+                <% var deviceCategories = helpers.countryDataCategories('ios', null, deviceNameMatcher) %>
+                <% var selectedCategory = deviceCategories[0] %>
+                <% _.each(deviceCategories, function(category, index) { %>
+                  <% if(selectedCategory == category) {ensureSelected = 'selected'}else{ensureSelected = ''} %>
+                  <option <%= ensureSelected %> value="<%= category %>"><%= category %></option>
+                <% }) %>
+              </select>
+              <p>*All numbers in USD</p>                                    
+              <input class="btn btn-primary button-save save-country-data-ios" type="button" value="Save" />
+            </li>
+            <li class="copy-data-form">
+              <label for="copy-form-ios">Copy data from</label>
+              <select name="copy-form" class="percent-graf copy-category-ios" data-placeholder>
+                <option value=" ">Select Category</option>
+                <% _.each(helpers.countryDataCategories('ios', uaData.available_categories_ios, deviceNameMatcher), function(category, index) { %>
+                  <option value="<%= category %>"><%= category %></option>
+                <% }) %>
+              </select>
+            </li>
+            <li class="table-form">
+              <table>
+                <thead>
+                  <tr>
+                    <th class="country-col">Country</th>
+                    <th class="inst-noninc-col">est. daily installs non-incent/daily impression volume</th>
+                    <th class="avg-price-noninc-col">avg price <BR/> non-incent</th>
+                    <th class="avg-ctr-noninc-col">non-incent avg CTR</th>
+                    <th class="avg-cvr-noninc-col">non-incent avg CVR</th>
+                    <th class="daily-ins-inc-col">est. daily installs incent</th>
+                    <th class="avg-cpi-inc-col">avg CPI<br/> incent</th>
+                    <th class="mo-mob-video-col">est daily installs/monthly mobile completed video views</th>
+                    <th class="mo-video-avg-price-col">mobile video<br/> avg price</th>
+                    <th class="mob-avg-ctr-col">mobile <br/>video avg CTR</th>
+                    <th class="mob-avg-cvr-col">mobile video avg CVR</th>
+                    <th class="del-col"></th>
+                  </tr>                                            
+                </thead>
+                <tbody data-table-info>
+                  <%= _.template($('#country-data-table-form').html(), {
+                    countryData: [], os_type: 'ios', device: 'iPhone', helpers: helpers
+                  }) %>
+                </tbody>
+                <tfoot class="hidden" data-table-load>
+                    <tr>
+                      <td colspan="12"><div class="review-loader-container"><i class="icon-spinner icon-spin infinite-scroll-loader"></i></div></td>
+                    </tr>
+                </tfoot>
+              </table>
+            </li>
+          </ul>
+        </fieldset>
+      </form>
+    </section>
+  
+    <section class="android-country-data">
+      <form method="get">
+        <fieldset>
+          <legend><strong>Android Country Data</strong></legend>
+          <div class="alert alert-error hidden">
+            <button type="button" class="close" data-dismiss="alert">×</button>
+            Please fill in all required fields.
+          </div>
+          <ul>
+            <li class="settings-form">
+              <select name="casino-games" class="percent-graf android-category-selector" data-placeholder>
+                <% deviceCategories = helpers.countryDataCategories('android', null, deviceNameMatcher) %>
+                <% selectedCategory = deviceCategories[0] %>
+                <% _.each(deviceCategories, function(category, index) { %>
+                  <% if(selectedCategory == category) {ensureSelected = 'selected'}else{ensureSelected = ''} %>
+                  <option <%= ensureSelected %> value="<%= category %>"><%= category %></option>
+                <% }) %>
+              </select>
+              <p>*All numbers in USD</p>                                    
+              <input class="btn btn-primary button-save save-country-data-android" type="button" value="Save" />
+            </li>
+            <li class="copy-data-form">
+              <label for="copy-form-android">Copy data from</label>
+              <select name="copy-form" class="percent-graf copy-category-android" data-placeholder>
+                <option value=" ">Select Category</option>
+                <% _.each(helpers.countryDataCategories('android', uaData.available_categories_android, deviceNameMatcher), function(category, index) { %>
+                  <option value="<%= category %>"><%= category %></option>
+                <% }) %>
+              </select>
+            </li>
+            <li class="table-form">
+              <table>
+                <thead>
+                  <tr>
+                    <th class="country-col">Country</th>
+                    <th class="inst-noninc-col">est. daily installs non-incent/daily impression volume</th>
+                    <th class="avg-price-noninc-col">avg price <BR/> non-incent</th>
+                    <th class="avg-ctr-noninc-col">non-incent avg CTR</th>
+                    <th class="avg-cvr-noninc-col">non-incent avg CVR</th>
+                    <th class="daily-ins-inc-col">est. daily installs incent</th>
+                    <th class="avg-cpi-inc-col">avg CPI<br/> incent</th>
+                    <th class="mo-mob-video-col">est daily installs/monthly mobile completed video views</th>
+                    <th class="mo-video-avg-price-col">mobile video<br/> avg price</th>
+                    <th class="mob-avg-ctr-col">mobile <br/>video avg CTR</th>
+                    <th class="mob-avg-cvr-col">mobile video avg CVR</th>
+                    <th class="del-col"></th>
+                  </tr>                                            
+                </thead>
+                <tbody data-table-info>
+                  <%= _.template($('#country-data-table-form').html(), {
+                    countryData: [],
+                    os_type: 'android',
+                    device: 'Phone',
+                    helpers: helpers
+                  }) %>
+                </tbody>
+                <tfoot class="hidden" data-table-load>
+                    <tr>
+                      <td colspan="12"><div class="review-loader-container"><i class="icon-spinner icon-spin infinite-scroll-loader"></i></div></td>
+                    </tr>
+                </tfoot>
+
+              </table>
+            </li>
+          </ul>
+        </fieldset>
+      </form>
+    </section>
+  </section>
+</section>
+  </script>
+
+  <script id="ua-data-publisher-category" type="text/template">
+    <li>
+  <span class="name-publisher"><%= publisher.category %></span>
+  <input name="ua_data[publishers_breakdown][<%= index %>][category]" value="<%= publisher.category %>" type="hidden" />
+  <select name="ua_data[publishers_breakdown][<%= index %>][breakdown]" class="percent-graf data-changed" data-placeholder>
+      <option value="0">0%</option>
+      <option value="1">1%</option>
+      <option value="2">2%</option>
+      <option value="3">3%</option>
+      <option value="4">4%</option>
+      <option value="5">5%</option>
+      <option value="6">6%</option>
+      <option value="7">7%</option>
+      <option value="8">8%</option>
+      <option value="9">9%</option>
+      <option value="10">10%</option>
+      <option value="11">11%</option>
+      <option value="12">12%</option>
+      <option value="13">13%</option>
+      <option value="14">14%</option>
+      <option value="15">15%</option>
+      <option value="16">16%</option>
+      <option value="17">17%</option>
+      <option value="18">18%</option>
+      <option value="19">19%</option>
+      <option value="20">20%</option>
+      <option value="21">21%</option>
+      <option value="22">22%</option>
+      <option value="23">23%</option>
+      <option value="24">24%</option>
+      <option value="25">25%</option>
+      <option value="26">26%</option>
+      <option value="27">27%</option>
+      <option value="28">28%</option>
+      <option value="29">29%</option>
+      <option value="30">30%</option>
+      <option value="31">31%</option>
+      <option value="32">32%</option>
+      <option value="33">33%</option>
+      <option value="34">34%</option>
+      <option value="35">35%</option>
+      <option value="36">36%</option>
+      <option value="37">37%</option>
+      <option value="38">38%</option>
+      <option value="39">39%</option>
+      <option value="40">40%</option>
+      <option value="41">41%</option>
+      <option value="42">42%</option>
+      <option value="43">43%</option>
+      <option value="44">44%</option>
+      <option value="45">45%</option>
+      <option value="46">46%</option>
+      <option value="47">47%</option>
+      <option value="48">48%</option>
+      <option value="49">49%</option>
+      <option value="50">50%</option>
+      <option value="51">51%</option>
+      <option value="52">52%</option>
+      <option value="53">53%</option>
+      <option value="54">54%</option>
+      <option value="55">55%</option>
+      <option value="56">56%</option>
+      <option value="57">57%</option>
+      <option value="58">58%</option>
+      <option value="59">59%</option>
+      <option value="60">60%</option>
+      <option value="61">61%</option>
+      <option value="62">62%</option>
+      <option value="63">63%</option>
+      <option value="64">64%</option>
+      <option value="65">65%</option>
+      <option value="66">66%</option>
+      <option value="67">67%</option>
+      <option value="68">68%</option>
+      <option value="69">69%</option>
+      <option value="70">70%</option>
+      <option value="71">71%</option>
+      <option value="72">72%</option>
+      <option value="73">73%</option>
+      <option value="74">74%</option>
+      <option value="75">75%</option>
+      <option value="76">76%</option>
+      <option value="77">77%</option>
+      <option value="78">78%</option>
+      <option value="79">79%</option>
+      <option value="80">80%</option>
+      <option value="81">81%</option>
+      <option value="82">82%</option>
+      <option value="83">83%</option>
+      <option value="84">84%</option>
+      <option value="85">85%</option>
+      <option value="86">86%</option>
+      <option value="87">87%</option>
+      <option value="88">88%</option>
+      <option value="89">89%</option>
+      <option value="90">90%</option>
+      <option value="91">91%</option>
+      <option value="92">92%</option>
+      <option value="93">93%</option>
+      <option value="94">94%</option>
+      <option value="95">95%</option>
+      <option value="96">96%</option>
+      <option value="97">97%</option>
+      <option value="98">98%</option>
+      <option value="99">99%</option>
+      <option value="100">100%</option>
+  </select>
+  <span class="del-country"></span>
+</li>
+  </script>
+
+  <script id="ua-country-data-row" type="text/template">
+    <tr class="<%= rowClass %>">
+  <td class="right-border sel-country-td">
+    <% if(showCountry) { %>
+      <%= helpers.countryByCode[value.country] %>
+    <% } %>
+  </td>
+  <td>
+    <span class="margin-left"><%- value.daily_installs_non_incent %></span>
+  </td>
+  <td>
+    <span>$<%- value.avg_price_non_incent %> <%- value.avg_price_type %></span>
+  </td>
+  <td>
+    <span class="margin-left percent"><%- value.non_incent_avg_CTR %>%</span>
+  </td>
+  <td class="right-border percent">
+    <span><%- value.non_incent_avg_CVR %>%</span>
+  </td>
+  <td>
+    <span class="margin-left"><%- value.daily_installs_incent %></span>
+  </td>
+  <td class="right-border">
+    <span>$<%- value.avg_CPI_incent %> CPI</span>
+  </td>
+  <td>
+    <span class="margin-left"><%- value.monthly_mobile_completed_video_views %></span>
+  </td>
+  <td>
+    <span>$<%- value.mobile_video_avg_price %> <%- value.mobile_avg_price_type %></span>
+  </td>
+  <td>
+    <span class="percent"><%- value.mobile_video_avg_CTR %>%</span>
+  </td>
+  <td>
+    <span class="percent"><%- value.mobile_video_avg_CVR %>%</span>
+  </td>
+  <td class="del-row"><input type="button" name="del-row" value="del-row" class="delete-record" data-id="" data-tempId="<%= value.tempId %>" data-osType="<%= value.os_type %>" /></td>
+</tr>
+  </script>
+
+  <script id="ua-data-empty" type="text/template">
+    <section class="no-information">
+    <input class="btn button-edit" type="button" value="Edit" />
+    <span class="loader-container">
+      <img src="/assets/loading.gif" />
+    </span>
+    <img src="/assets/ua_data/empty.jpg" alt="" />
+</section>
+  </script>
+
+  <script id="country-data-table-form" type="text/template">
+    <tr class="empty-row"><td colspan="12"></td></tr>
+<% currentCountry = '' %>
+<% rowClass = 'gray-bg' %>
+<% _.each(countryData, function(value) { %>
+
+  <% countryChanged = (value.get('country') !== currentCountry) %>
+
+  <% if(countryChanged && currentCountry !== '') { %>
+
+    <%= _.template($('#country-data-new-row').html(), {
+      os_type: os_type,
+      device: device,
+      currentCountry: currentCountry,
+      rowClass: rowClass,
+      showCountry: false} ) %>
+  <% } %>
+
+  <% if(countryChanged) { %>
+    <% rowClass = helpers.resetRowClass(rowClass) %>
+    <% currentCountry = value.get('country') %>
+  <% } %>
+
+
+  <tr class="saving-row select-country <%= rowClass %>">
+    <td class="right-border sel-country-td">
+      <% if(countryChanged) { %>
+        <%= helpers.countryByCode[currentCountry] %>
+      <% } %>
+    </td>
+    <td><span class="margin-left"><%- value.get('daily_installs_non_incent') %></span></td>
+    <td><span>$<%- value.get('avg_price_non_incent') %> <%- value.get('avg_price_type') %></span></td>
+    <td><span class="padding-left"><%- value.get('non_incent_avg_CTR') %>%</span></td>
+    <td class="right-border"><span><%- value.get('non_incent_avg_CVR') %>%</span></td>
+    <td><span class="margin-left"><%- value.get('daily_installs_incent') %></span></td>
+    <td class="right-border"><span>$<%- value.get('avg_CPI_incent') %></span></td>
+    <td><span class="margin-left"><%- value.get('monthly_mobile_completed_video_views') %></span></td>
+    <td><span>$<%- value.get('mobile_video_avg_price') %> <span class="test"> <%- value.get('mobile_avg_price_type') %></span></span></td>
+    <td><span><%- value.get('mobile_video_avg_CTR') %>%</span></td>
+    <td><span><%- value.get('mobile_video_avg_CVR') %>%</span></td>
+    <td class="del-row">
+      <input type="button" name="del-row" value="del-row" class="delete-record" data-id="<%= value.id %>" data-tempId="<%= value.tempId %>" data-osType="<%= os_type %>" />
+    </td>
+  </tr>
+<% }) %>
+
+<% if(countryData.length > 0) { %>
+      <%= _.template($('#country-data-new-row').html(), {
+      os_type: os_type,
+      device: device,
+      currentCountry: currentCountry,
+      rowClass: rowClass,
+      showCountry: false} ) %>
+<% } %>
+
+<% rowClass = helpers.resetRowClass(rowClass) %>
+  <tr class="empty-row <%= rowClass %>"><td class="right-border"></td><td></td><td></td><td></td><td class="right-border"></td><td></td><td class="right-border"></td><td></td><td></td><td></td><td></td></tr>
+<tr class="add-new-row <%= rowClass %>">
+  <td class="right-border sel-country-td">
+    <select name="select-country" class="percent-graf add-new-country" data-placeholder data-type="<%= os_type %>" data-device="<%= device %>">
+      <option value="Select Country">Select Country</option>
+        <option value="AF">Afghanistan</option>
+        <option value="AX">Aland Islands</option>
+        <option value="AL">Albania</option>
+        <option value="DZ">Algeria</option>
+        <option value="AS">American Samoa</option>
+        <option value="AD">Andorra</option>
+        <option value="AO">Angola</option>
+        <option value="AI">Anguilla</option>
+        <option value="AQ">Antarctica</option>
+        <option value="AG">Antigua and Barbuda</option>
+        <option value="AR">Argentina</option>
+        <option value="AM">Armenia</option>
+        <option value="AW">Aruba</option>
+        <option value="AU">Australia</option>
+        <option value="AT">Austria</option>
+        <option value="AZ">Azerbaijan</option>
+        <option value="BS">Bahamas</option>
+        <option value="BH">Bahrain</option>
+        <option value="BD">Bangladesh</option>
+        <option value="BB">Barbados</option>
+        <option value="BY">Belarus</option>
+        <option value="BE">Belgium</option>
+        <option value="BZ">Belize</option>
+        <option value="BJ">Benin</option>
+        <option value="BM">Bermuda</option>
+        <option value="BT">Bhutan</option>
+        <option value="BO">Bolivia</option>
+        <option value="BQ">Bonaire, Sint Eustatius and Saba</option>
+        <option value="BA">Bosnia and Herzegovina</option>
+        <option value="BW">Botswana</option>
+        <option value="BV">Bouvet Island</option>
+        <option value="BR">Brazil</option>
+        <option value="IO">British Indian Ocean Territory</option>
+        <option value="VG">British Virgin Islands</option>
+        <option value="BN">Brunei Darussalam</option>
+        <option value="BG">Bulgaria</option>
+        <option value="BF">Burkina Faso</option>
+        <option value="BI">Burundi</option>
+        <option value="KH">Cambodia</option>
+        <option value="CM">Cameroon</option>
+        <option value="CA">Canada</option>
+        <option value="CV">Cape Verde</option>
+        <option value="KY">Cayman Islands</option>
+        <option value="CF">Central African Republic</option>
+        <option value="TD">Chad</option>
+        <option value="CL">Chile</option>
+        <option value="CN">China</option>
+        <option value="CX">Christmas Island</option>
+        <option value="CC">Cocos Islands</option>
+        <option value="CO">Colombia</option>
+        <option value="KM">Comoros</option>
+        <option value="CK">Cook Islands</option>
+        <option value="CR">Costa Rica</option>
+        <option value="CI">Cote d&#x27;Ivoire</option>
+        <option value="HR">Croatia</option>
+        <option value="CU">Cuba</option>
+        <option value="CW">Curacao</option>
+        <option value="CY">Cyprus</option>
+        <option value="CZ">Czech Republic</option>
+        <option value="CD">Democratic Republic of the Congo</option>
+        <option value="DK">Denmark</option>
+        <option value="DJ">Djibouti</option>
+        <option value="DM">Dominica</option>
+        <option value="DO">Dominican Republic</option>
+        <option value="EC">Ecuador</option>
+        <option value="EG">Egypt</option>
+        <option value="SV">El Salvador</option>
+        <option value="GQ">Equatorial Guinea</option>
+        <option value="ER">Eritrea</option>
+        <option value="EE">Estonia</option>
+        <option value="ET">Ethiopia</option>
+        <option value="FK">Falkland Islands</option>
+        <option value="FO">Faroe Islands</option>
+        <option value="FJ">Fiji</option>
+        <option value="FI">Finland</option>
+        <option value="FR">France</option>
+        <option value="GF">French Guiana</option>
+        <option value="PF">French Polynesia</option>
+        <option value="TF">French Southern Territories</option>
+        <option value="GA">Gabon</option>
+        <option value="GM">Gambia</option>
+        <option value="GE">Georgia</option>
+        <option value="DE">Germany</option>
+        <option value="GH">Ghana</option>
+        <option value="GI">Gibraltar</option>
+        <option value="GR">Greece</option>
+        <option value="GL">Greenland</option>
+        <option value="GD">Grenada</option>
+        <option value="GP">Guadeloupe</option>
+        <option value="GU">Guam</option>
+        <option value="GT">Guatemala</option>
+        <option value="GG">Guernsey</option>
+        <option value="GN">Guinea</option>
+        <option value="GW">Guinea-Bissau</option>
+        <option value="GY">Guyana</option>
+        <option value="HT">Haiti</option>
+        <option value="HM">Heard Island and McDonald Islands</option>
+        <option value="HN">Honduras</option>
+        <option value="HK">Hong Kong</option>
+        <option value="HU">Hungary</option>
+        <option value="IS">Iceland</option>
+        <option value="IN">India</option>
+        <option value="ID">Indonesia</option>
+        <option value="IR">Iran</option>
+        <option value="IQ">Iraq</option>
+        <option value="IE">Ireland</option>
+        <option value="IM">Isle of Man</option>
+        <option value="IL">Israel</option>
+        <option value="IT">Italy</option>
+        <option value="JM">Jamaica</option>
+        <option value="JP">Japan</option>
+        <option value="JE">Jersey</option>
+        <option value="JO">Jordan</option>
+        <option value="KZ">Kazakhstan</option>
+        <option value="KE">Kenya</option>
+        <option value="KI">Kiribati</option>
+        <option value="KW">Kuwait</option>
+        <option value="KG">Kyrgyzstan</option>
+        <option value="LA">Laos</option>
+        <option value="LV">Latvia</option>
+        <option value="LB">Lebanon</option>
+        <option value="LS">Lesotho</option>
+        <option value="LR">Liberia</option>
+        <option value="LY">Libya</option>
+        <option value="LI">Liechtenstein</option>
+        <option value="LT">Lithuania</option>
+        <option value="LU">Luxembourg</option>
+        <option value="MO">Macao</option>
+        <option value="MK">Macedonia</option>
+        <option value="MG">Madagascar</option>
+        <option value="MW">Malawi</option>
+        <option value="MY">Malaysia</option>
+        <option value="MV">Maldives</option>
+        <option value="ML">Mali</option>
+        <option value="MT">Malta</option>
+        <option value="MH">Marshall Islands</option>
+        <option value="MQ">Martinique</option>
+        <option value="MR">Mauritania</option>
+        <option value="MU">Mauritius</option>
+        <option value="YT">Mayotte</option>
+        <option value="MX">Mexico</option>
+        <option value="FM">Micronesia</option>
+        <option value="MD">Moldova</option>
+        <option value="MC">Monaco</option>
+        <option value="MN">Mongolia</option>
+        <option value="ME">Montenegro</option>
+        <option value="MS">Montserrat</option>
+        <option value="MA">Morocco</option>
+        <option value="MZ">Mozambique</option>
+        <option value="MM">Myanmar</option>
+        <option value="NA">Namibia</option>
+        <option value="NR">Nauru</option>
+        <option value="NP">Nepal</option>
+        <option value="NL">Netherlands</option>
+        <option value="NC">New Caledonia</option>
+        <option value="NZ">New Zealand</option>
+        <option value="NI">Nicaragua</option>
+        <option value="NE">Niger</option>
+        <option value="NG">Nigeria</option>
+        <option value="NU">Niue</option>
+        <option value="NF">Norfolk Island</option>
+        <option value="KP">North Korea</option>
+        <option value="MP">Northern Mariana Islands</option>
+        <option value="NO">Norway</option>
+        <option value="OM">Oman</option>
+        <option value="PK">Pakistan</option>
+        <option value="PW">Palau</option>
+        <option value="PS">Palestine</option>
+        <option value="PA">Panama</option>
+        <option value="PG">Papua New Guinea</option>
+        <option value="PY">Paraguay</option>
+        <option value="PE">Peru</option>
+        <option value="PH">Philippines</option>
+        <option value="PN">Pitcairn</option>
+        <option value="PL">Poland</option>
+        <option value="PT">Portugal</option>
+        <option value="PR">Puerto Rico</option>
+        <option value="QA">Qatar</option>
+        <option value="CG">Republic of the Congo</option>
+        <option value="RE">Reunion</option>
+        <option value="RO">Romania</option>
+        <option value="RU">Russian Federation</option>
+        <option value="RW">Rwanda</option>
+        <option value="BL">Saint Barthelemy</option>
+        <option value="SH">Saint Helena</option>
+        <option value="KN">Saint Kitts and Nevis</option>
+        <option value="LC">Saint Lucia</option>
+        <option value="MF">Saint Martin</option>
+        <option value="PM">Saint Pierre and Miquelon</option>
+        <option value="VC">Saint Vincent and the Grenadines</option>
+        <option value="WS">Samoa</option>
+        <option value="SM">San Marino</option>
+        <option value="ST">Sao Tome and Principe</option>
+        <option value="SA">Saudi Arabia</option>
+        <option value="SN">Senegal</option>
+        <option value="RS">Serbia</option>
+        <option value="SC">Seychelles</option>
+        <option value="SL">Sierra Leone</option>
+        <option value="SG">Singapore</option>
+        <option value="SX">Sint Maarten</option>
+        <option value="SK">Slovakia</option>
+        <option value="SI">Slovenia</option>
+        <option value="SB">Solomon Islands</option>
+        <option value="SO">Somalia</option>
+        <option value="ZA">South Africa</option>
+        <option value="GS">South Georgia and the South Sandwich Islands</option>
+        <option value="KR">South Korea</option>
+        <option value="SS">South Sudan</option>
+        <option value="ES">Spain</option>
+        <option value="LK">Sri Lanka</option>
+        <option value="SD">Sudan</option>
+        <option value="SR">Suriname</option>
+        <option value="SJ">Svalbard and Jan Mayen</option>
+        <option value="SZ">Swaziland</option>
+        <option value="SE">Sweden</option>
+        <option value="CH">Switzerland</option>
+        <option value="SY">Syrian Arab Republic</option>
+        <option value="TW">Taiwan</option>
+        <option value="TJ">Tajikistan</option>
+        <option value="TZ">Tanzania</option>
+        <option value="TH">Thailand</option>
+        <option value="TL">Timor-Leste</option>
+        <option value="TG">Togo</option>
+        <option value="TK">Tokelau</option>
+        <option value="TO">Tonga</option>
+        <option value="TT">Trinidad and Tobago</option>
+        <option value="TN">Tunisia</option>
+        <option value="TR">Turkey</option>
+        <option value="TM">Turkmenistan</option>
+        <option value="TC">Turks and Caicos Islands</option>
+        <option value="TV">Tuvalu</option>
+        <option value="VI">U.S. Virgin Islands</option>
+        <option value="UG">Uganda</option>
+        <option value="UA">Ukraine</option>
+        <option value="AE">United Arab Emirates</option>
+        <option value="GB">United Kingdom</option>
+        <option value="US">United States</option>
+        <option value="UM">United States Minor Outlying Islands</option>
+        <option value="UY">Uruguay</option>
+        <option value="UZ">Uzbekistan</option>
+        <option value="VU">Vanuatu</option>
+        <option value="VA">Vatican</option>
+        <option value="VE">Venezuela</option>
+        <option value="VN">Viet Nam</option>
+        <option value="WF">Wallis and Futuna</option>
+        <option value="EH">Western Sahara</option>
+        <option value="YE">Yemen</option>
+        <option value="ZM">Zambia</option>
+        <option value="ZW">Zimbabwe</option>
+    </select>
+  </td>
+  <td colspan="4" class="right-border"></td>
+  <td></td>
+  <td class="right-border"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class="<%= rowClass %> empty-row"><td colspan="12"></td></tr>
+
+  </script>
+
+  <script id="country-data-new-row" type="text/template">
+    <tr class="select-country  <%= rowClass %>">
+  <td class="right-border sel-country-td">
+    <input type="hidden" name="os_type" value="<%= os_type %>">
+    <input type="hidden" name="device" value="<%= device %>">
+    <input type="hidden" name="country" value="<%= currentCountry %>">
+    <% if(showCountry) { %>
+      <%= helpers.countryByCode[currentCountry] %>
+    <% } %>
+  </td>
+  <td class="inst-noninc-form">
+    <!--<input type="number" min="0" step="0.001" name="daily_installs_non_incent" />-->
+    <input type="text" name="daily_installs_non_incent" />
+  </td>
+  <td class="select-td select-in-tables">
+    <!--<input type="number" min="0" step="0.001" name="avg_price_non_incent" />-->
+    <input type="text" name="avg_price_non_incent" />
+    <span class="drop-down-arrow-first"></span>
+    <select name="avg_price_type" class="percent-graf select-in-tables-first" data-placeholder>
+      <option value="CPI">CPI</option>
+      <option value="CPA">CPA</option>
+      <option value="CPE">CPE</option>
+      <option value="CPC">CPC</option>
+      <option value="CPM">CPM</option>
+    </select>
+  </td>
+  <td class="avg-ctr-noninc-form">
+    <!--<input type="number" min="0" step="0.001" name="non_incent_avg_CTR" class="percent"/>-->
+    <input type="text" name="non_incent_avg_CTR" class="percent"/>
+    <span>%</span>
+  </td>
+  <td class="avg-cvr-noninc-form">
+    <!--<input type="number" min="0" step="0.001" name="non_incent_avg_CVR" class="percent"/>-->
+    <input type="text" name="non_incent_avg_CVR" class="percent"/>
+    <span>%</span>
+  </td>
+  <td class="daily-ins-inc-form">
+    <!--<input type="number" min="0" step="0.001" name="daily_installs_incent" />-->
+    <input type="text" name="daily_installs_incent" />
+  </td>
+  <td class="avg-cpi-inc-form">
+    <!--<input type="number" min="0" step="0.001" name="avg_CPI_incent" />-->
+    <input type="text" name="avg_CPI_incent" />
+    <span>CPI</span>
+  </td>
+  <td class="mo-mob-video-form">
+    <!--<input type="number" min="0" step="0.001" name="monthly_mobile_completed_video_views" />-->
+    <input type="text" name="monthly_mobile_completed_video_views" />
+  </td>
+  <td class="select-td mobile-video ">
+    <!--<input type="number" min="0" step="0.001" name="mobile_video_avg_price" />-->
+    <input type="text" name="mobile_video_avg_price" />
+    <span class="drop-down-arrow"></span>
+    <select name="mobile_avg_price_type" class="percent-graf select-in-tables-sec" data-placeholder>
+      <option value="CPI">CPI</option>
+      <option value="CPA">CPA</option>
+      <option value="CPE">CPE</option>
+      <option value="CPV">CPV</option>
+      <option value="CPCV">CPCV</option>
+      <option value="CPC">CPC</option>
+      <option value="CPM">CPM</option>
+    </select> 
+
+  </td>
+  <td class="mob-avg-ctr-form">
+    <!--<input type="number" min="0" step="0.001" name="mobile_video_avg_CTR" class="percent"/>-->
+    <input type="text" name="mobile_video_avg_CTR" class="percent"/>
+    <span>%</span>
+  </td>
+  <td class="mob-avg-cvr-form">
+    <!--<input type="number" min="0" step="0.001" name="mobile_video_avg_CVR" class="percent"/>-->
+    <input type="text" name="mobile_video_avg_CVR" class="percent"/>
+    <span>%</span>
+  </td>
+  <td class="add-record">
+    <input type="button" name="add-row" value="add-row" />
+  </td>
+</tr>
+<tr class="add-new-row  <%= rowClass %>">
+  <td class="right-border"></td>
+  <td colspan="4" class="right-border">
+    <input type="button" name="add-row" class="add-row" value="+ Add row / CPI Supply Curve" />
+  </td>
+  <td></td>
+  <td class="right-border"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr class="empty-row <%= rowClass %>"><td class="right-border"></td><td></td><td></td><td></td><td class="right-border"></td><td></td><td class="right-border"></td><td></td><td></td><td></td><td></td><td></td></tr>
+  </script>
+
+  <script id="country-data-table" type="text/template">
+    <tr class="empty-row"><td colspan="11"></td></tr>
+<% currentCountry = '' %>
+<% rowClass = 'gray-bg' %>
+<% _.each(countryData, function(data) { %>
+  <% countryChanged = (data.get('country') !== currentCountry) %>
+  <% if(countryChanged) { rowClass = helpers.resetRowClass(rowClass); currentCountry = data.get('country') } %>
+
+  <tr class="<%= rowClass %>">
+    <td class="right-border country-name">
+      <% if(countryChanged) { %>
+        <img src="/assets/flags/<%= currentCountry.toLowerCase() %>.png" onError="this.onerror=null;this.src='/assets/flags/flag_error.png';" alt="<%= helpers.countryByCode[currentCountry] %>" />
+        <%= helpers.countryByCode[currentCountry] %>
+      <% } %>
+    </td>
+    <td><span><%- data.get('daily_installs_non_incent') %></span></td>
+    <td><span>$<%- data.get('avg_price_non_incent') %> <%- data.get('avg_price_type') %></span></td>
+    <td><span><%- data.get('non_incent_avg_CTR') %>%</span></td>
+    <td class="right-border"><span><%- data.get('non_incent_avg_CVR') %>%</span></td>
+    <td><span><%- data.get('daily_installs_incent') %></span></td>
+    <td class="right-border"><span>$<%= data.get('avg_CPI_incent') %> CPI</span></td>
+    <td><span><%- data.get('monthly_mobile_completed_video_views') %></span></td>
+    <td><span>$<%- data.get('mobile_video_avg_price') %> <%- data.get('mobile_avg_price_type') %></span></td>
+    <td><span><%- data.get('mobile_video_avg_CTR') %>%</span></td>
+    <td><span><%- data.get('mobile_video_avg_CVR') %>%</span></td>
+  </tr>
+
+  <tr class="empty-row <%= rowClass %>"><td class="right-border"></td><td></td><td></td><td></td><td class="right-border"></td><td></td><td class="right-border"></td><td></td><td></td><td></td><td></td></tr>
+<% }) %>
+
+<tr class="empty-row"><td colspan="11"></td></tr>
+  </script>
+
+  <script id="user-menu-tpl" type="text/template">
+    <li class="kudos-navbar">
+  <span class="lighting"></span>
+  <span class="kudos-text"><%= user.garrett_kudos_received %> Kudos!</span>
+</li>
+<li class="js-show-hide show-hide hidden-view">
+  <a href="#" onclick="return false;" id="discussion_dropdown">Discussion
+    <!--<span class="badge discussion-forum-activity-count" style="display:none"></span> -->
+  </a>
+  <!-- %span.forum-post 0 -->
+  <ul class="dropdown">
+       %>
+
+    <li>
+      <a href="http://blog.thalamus.co" target="_blank">Thalamus Blog</a>
+    </li>
+    <li>
+      <a href="/contributors" target="_blank">Top Contributors</a>
+    </li>
+  </ul>
+</li>
+<li>
+  <a href="#" onclick="return false;">
+    <span class="arrow-down"></span>
+    <%= user.username %>
+  </a>
+  <ul class="dropdown">
+    <li>
+      <a href="/users/<%= user.username %>" target="_blank">Edit profile</a>
+      <span class="arrow-up"></span>
+    </li>
+    <li>
+      <a href="/logout">Logout</a>
+    </li>
+  </ul>
+</li>
+
+  </script>
+
+
+<script>
   window.isMobileDevice = false
   window.currentAccount = null || {};
   window.currentUser = null;
@@ -15,14 +2421,14 @@
   window.partiallyLoggedIn = window.currentUser && !window.loggedIn;
   window.loggedOut = !(window.loggedIn || window.partiallyLoggedIn);
   window.reviewNeedUpdate = new Event('update');
+  if (window.currentUser) {
+    window.last_new_post_count_query_date = window.currentUser.forem_next_new_posts_count_query_date;
+  }
 </script>
-<link href="/assets/application-4032b164297f3d70758c0067ad8fe336.css" media="all" rel="stylesheet" type="text/css">
-<style>
-
-</style>
-<script src="/assets/application-c0fada18b6132551863e8660e2a249dd.js" type="text/javascript"></script>
+<link href="http://d3ny630x53xdwa.cloudfront.net/assets/application-09d53d0d2eabd3586ecf3e696bd4c0ef.css" media="all" rel="stylesheet" type="text/css">
+<script src="http://d3ny630x53xdwa.cloudfront.net/assets/application-2e8ba51a050a32390d97e7d1bb52e86e.js" type="text/javascript"></script>
 <meta content="authenticity_token" name="csrf-param">
-<meta content="7qljRNK6tWYYGf3f4kFBrO3yB5v1SIhkuJ/bzA3Ej4Q=" name="csrf-token">
+<meta content="Z2wwDCUxvyZTukpeL97YO1KmCo/iWcTN67FviYB8VWY=" name="csrf-token">
 <script type="text/javascript">
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount','UA-40786645-2']);
@@ -156,73 +2562,75 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
   window.dispatcher = _.clone(Backbone.Events);
   
   $(document).ready(function(e) {
+    loadCSS('//vjs.zencdn.net/4.12/video-js.css');
   
+    // Detecting when the Thalamus Browser tab is active/inactive
+    document.addEventListener('visibilitychange', function(e) {
+      if (document.hidden) {
+        dispatcher.trigger('tab-hidden');
+      } else {
+        dispatcher.trigger('tab-visible');
+      }
+    });
   
     var path = document.location.pathname,
         contactsFormView = new Thalamus.Views.ContactForm();
-    //if(path === "/contributors" || path === "/privacy" || path === "/terms"){
+  
     if (path != '/') { // every path except :root (aka 'landing page')
       $('.show-hide').removeClass('hidden-view');
     }
-    if(window.isMobileDevice){
+  
+    if (window.isMobileDevice) {
       $('.navbar-inner').css({
         'padding-left' : 0
       })
     }
-    if(path.match(/\/ad_partners\//) || window.hideLanding || window.isMobileDevice){
+  
+    if (path.match(/\/ad_partners\//) || window.hideLanding || window.isMobileDevice) {
       $('.js-wrapper').hide();
-      //if(path.match(/\/s\//)){
-      //$('.footer').show();
-      //}
     }
   
-      if(path.match(/\/users/) || path.match(/\/ad_partners/)){
-        $('.footer').hide();
-        $('.main-wrapper').addClass('footer-hidden');
-      }
-    if($('.redirect-form').length > 0){
+    if (path.match(/\/users/) || path.match(/\/ad_partners/)) {
+      $('.footer').hide();
+      $('.main-wrapper').addClass('footer-hidden');
+    }
+  
+    if ($('.redirect-form').length > 0) {
       $('.go-search-partner').on('click', searchRedirect);
       $('.redirect-form').on('submit', searchRedirect);
     }
-    if(!$('.footer').length){
-      $('.main-wrapper').addClass('footer-hidden')
+  
+    if (!$('.footer').length) {
+      $('.main-wrapper').addClass('footer-hidden');
     }
+  
     ZeroClipboard.setDefaults( { moviePath: '/assets/zeroclipboard/ZeroClipboard.swf' } );
   
     var signupLoginModal;
     $('.signup-trigger-modal-link').click(function(e) {
       e.preventDefault();
-            if (window.isMobileDevice){
-                $('.message-to-signup').removeClass('transparent').removeClass('hidden');
-                return;
-            }
+      if (window.isMobileDevice) {
+        $('.message-to-signup').removeClass('transparent').removeClass('hidden');
+        return;
+      }
   
       if (!window.loggedIn && !window.partiallyLoggedIn) {
         signupLoginModal = new Thalamus.Views.SignupLoginComponent({
           mode: 'signup'
         });
+  
         $('#signup-login-modal-container').empty().append(signupLoginModal.render().$el);
         signupLoginModal.show();
-  
-      }
-      else{
-        //Thalamus.readyToAddPartner = true;
-        //discover._hideElementsOnSearchAdd();
-        //$('.padding-to-better-view').removeClass('hidden-view');
-        //discover._showNewPartnerForm();
-        //$('#search-input').focus();
-        //$('.js-show-hide').removeClass('hidden-view');
-        //$('.discover-component-container').removeClass('padding-to-better-view');
-        //alert('You are already logged in!');
       }
     });
   
     $('.login-trigger-modal-link').click(function(e) {
       e.preventDefault();
-            if (window.isMobileDevice){
-                $('.message-to-signup').removeClass('transparent').removeClass('hidden');
-                return;
-            }
+  
+      if (window.isMobileDevice){
+        $('.message-to-signup').removeClass('transparent').removeClass('hidden');
+        return;
+      }
   
       if (!window.loggedIn && !window.partiallyLoggedIn) {
         signupLoginModal = new Thalamus.Views.SignupLoginComponent({
@@ -230,8 +2638,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
         });
         $('#signup-login-modal-container').empty().append(signupLoginModal.render().$el);
         signupLoginModal.show();
-      }
-      else{
+      } else {
         alert('You are already logged in!');
       }
     });
@@ -239,7 +2646,6 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
     dispatcher.on('loggedIn', function(user) {
       mixpanel.identify(user.email);
     });
-  
   
     dispatcher.on('informDispatcherOfLogin', function(user) {
       var path = document.location.pathname;
@@ -249,67 +2655,143 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
         return window.location = window.location.protocol + "//" + user.account_sd + "." + domain;
       }
   
-      $('.user-settings').show();
-      $('.user-settings .welcome-navbar-name').html('<span class="user-name">'+user.name+'</span>');
-      $('.welcome-navbar-logout').html('<a href="/logout">Logout</a>');
+      $('.nav-custom').html(_.template($('#user-menu-tpl').html(), {user: user}));
+      $('#discussion_dropdown').bind({
+        mouseenter: function(e) {
+         // Hover event handler
+         $('#discussion_dropdown .discussion-forum-activity-count').hide();
+  
+         if (window.currentUser) {
+           $.ajax({
+              url: "/new_posts_counter",
+              type: 'POST',
+              data: {date: window.last_new_post_count_query_date }
+           });
+          }
+        }
+      });
   
       $('footer .login-trigger-modal-link').parent().html('<a href="/logout">Logout</a>');
       $('footer .signup-trigger-modal-link').parent().hide();
       $('.template-message .signup-trigger-modal-link').hide();
       $('.message-to-signup').hide();
-      //$('.discover-component-container').removeClass('hidden-view');
       $('.discover-component-container').removeClass('hidden-view').removeClass('padding-to-better-view');
       $('.zero-data-state-container').removeClass('hidden-view');
       $('.section-welcome').addClass('section-welcome-hidden');
-      //.css({
-      //  "height" : '0',
-      //  "min-height" : 0
-      //});
-      $('.headline-wrapper').hide();
-      $('.js-navbar').hide();
-      $('.js-wrapper').hide();
+      $('.headline-wrapper').remove();
+      $('.js-navbar').remove();
+      $('.js-wrapper').remove();
       $('.show-hide').removeClass('hidden-view').show();
       $('.main-wrapper').addClass('footer-hidden');
       $('.section-welcome').css({'padding-bottom' : '10px'});
+  
       window.currentUser = user;
       window.partiallyLoggedIn = true;
       window.loggedIn = user.id && user.account_id;
       window.loggedOut = false;
   
+      window.last_new_post_count_query_date = user.forem_next_new_posts_count_query_date;
+      getNewPostsSinceLastQuery();
+      dispatcher.on('tab-visible', getNewPostsSinceLastQuery);
+      dispatcher.on('tab-hidden', function() {
+        if (window.newPostsSinceLastQueryTimeout) {
+          clearTimeout(window.newPostsSinceLastQueryTimeout);
+        }
+      });
   
-      //$('window').on('update', function(e){
-      //  console.log('logged in');
-      //});
-      //window.addEventListener('update', function (e) {console.log('logged in')}, false);
-      //$('window').trigger(window.reviewNeedUpdate);
       window.dispatchEvent(window.reviewNeedUpdate);
       this.trigger('loggedIn', user);
-      if(path.match(/\/ad_partners\//) || path.match(/\/reviews/)){
-          if(window.loggedIn || window.partiallyLoggedIn){
-            $('.footer').hide();
-          }
+  
+      if (path.match(/\/ad_partners\//) || path.match(/\/reviews/)) {
+        if (window.loggedIn || window.partiallyLoggedIn) {
+          $('.footer').hide();
+        }
         return;
       }
+  
       discover._resetAdPartners(discover.adPartners, discover.$('.ad-partners-container'));
     });
+  
     function searchRedirect(event){
+      event.preventDefault();
   
-        event.preventDefault();
+      var searchValue = _.escape($('.go-to-search').val()),
+          queryString = window.location.origin + '?hide_landing=1&search=' + searchValue ;
   
-        var searchValue = _.escape($('.go-to-search').val()),
-            queryString = window.location.origin + '?hide_landing=1&search=' + searchValue ;
-  
-        window.location.replace(queryString);
-        //window.location.replace = "/";
-        //window.location.search = '?hide_landing=1&search=' + searchValue ;
-  
+      window.location.href = queryString;
     }
   });
-  Thalamus.Models.AdPartner = Thalamus.Models.AdPartner.extend({prettyNames: {"about":"About","company_name":"Company Name","channel":"Channel","parent_company_name":"Parent Company Name","logo":"Logo","website":"Website","link_to_media_kit":"Link to Media Kit / Ratecard / Ad Specs","link_to_ad_gallery":"Link to Ad Gallery / Creative Showcase","minimum_spend":"Minimum Spend","self_managed_service":"Self-Service / Managed Service","locations":"Location","ad_categories":"Categories","category":"Type","specific_category":"Headline","specialization":"Specialization","performance_branding":"Performance / Branding","owned_and_operated_properties":"Owned / Operated Properties","publishers":"Publisher List / Inventory Partners","targeting":"Targeting","key_differentiator":"Key Differentiator","pricing_models":"Pricing Model","linkedin_id":"Linkedin URL","industries":"Industries","mobile_platforms":"Platforms Supported","mobile_app_brand":"App/Game or Brand Centric","mobile_support_video":"Support Mobile Video","mobile_support_rich_media":"Support Mobile Rich Media (Including Interstitials \u0026 Expandables)","mobile_support_incentivized_traffic":"Support Incentivized Traffic ","mobile_support_tablet":"Has Tablet Offering","mobile_support_high_impact":"Support Publisher High-Impact","mobile_ad_features":"Ad Features / Call-to-Actions","mobile_install_tracking":"Mobile Install Tracking Partners","requires_sdk_integration":"Requires SDK Integration","dis_vid_data_partners":"Data Partners","dis_vid_ad_verification_partners":"Ad Verification / Brand Safety Partners","dis_vid_measurement_partners":"Brand / Campaign Measurement Partners","approved_third_party_ad_serving":"Approved 3rd Party Ad Serving / Rich Media Vendors","dis_vid_proprietary_inventory":"Access to Non-RTB / Proprietary Inventory","dis_vid_support_brand_integration":"Support Brand Integrations, Native Executions, Editorial Sponsorships","dis_vid_support_high_impact_executions":"Support High-Impact Executions (Takeovers, Billboards, Overlays, Sliders, Skins)","dis_support_creative_optimization":"Support Creative Optimization","dis_support_rich_media":"Support Rich Media (Expandable \u0026 Non-Expandable)","vid_support_pre_roll":"Support Pre-Roll","vid_support_mid_roll":"Support Mid-Roll","vid_support_post_roll":"Support Post-Roll","vid_support_in_banner_video":"Support In-Banner Video","vid_support_companion_ad":"Support Video Companion Ad","vid_support_custom_video_executions":"Support Custom Video Executions / Video Overlays"} });
+  
+  Thalamus.Models.AdPartner = Thalamus.Models.AdPartner.extend({prettyNames: {"about":"About","company_name":"Company Name","channel":"Channel","parent_company_name":"Parent Company Name","logo":"Logo","website":"Website","link_to_media_kit":"Link to Media Kit / Ratecard / Ad Specs","link_to_ad_gallery":"Link to Ad Gallery / Creative Showcase","minimum_spend":"Minimum Spend","self_managed_service":"Self-Service / Managed Service","locations":"Location","ad_categories":"Categories","category":"Type","specific_category":"Headline","performance_branding":"Performance / Branding","owned_and_operated_properties":"Owned / Operated Properties","publishers":"Publisher List / Inventory Partners","targeting":"Targeting","key_differentiator":"Key Differentiator","pricing_models":"Pricing Model","linkedin_id":"Linkedin URL","twitter_url":"Twitter URL","industries":"Industries","mobile_platforms":"Platforms Supported","mobile_app_brand":"App / Game or Brand Centric","mobile_support_video":"Support Mobile Video","mobile_support_rich_media":"Support Mobile Rich Media (Including Interstitials \u0026 Expandables)","mobile_support_incentivized_traffic":"Support Incentivized Traffic ","mobile_support_tablet":"Has Tablet Offering","mobile_support_high_impact":"Support Mobile Native Executions","mobile_ad_features":"Ad Features / Call-to-Actions","mobile_install_tracking":"Mobile Install Tracking Partners","requires_sdk_integration":"Requires SDK Integration","dis_vid_data_partners":"Data Partners","dis_vid_ad_verification_partners":"Ad Verification / Brand Safety Partners","dis_vid_measurement_partners":"Brand / Campaign Measurement Partners","approved_third_party_ad_serving":"Approved 3rd Party Ad Serving / Rich Media Vendors","dis_vid_proprietary_inventory":"Access to Non-RTB / Proprietary Inventory","dis_vid_support_brand_integration":"Support Brand Integrations, Sponsorships, Native Executions","dis_vid_support_high_impact_executions":"Support High-Impact Executions (Takeovers, Billboards, Overlays, Sliders, Skins)","dis_support_creative_optimization":"Support Creative Optimization","dis_support_rich_media":"Support Rich Media (Expandable \u0026 Non-Expandable)","vid_support_pre_roll":"Support Pre-Roll","vid_support_mid_roll":"Support Mid-Roll","vid_support_post_roll":"Support Post-Roll","vid_support_in_banner_video":"Support In-Banner Video","vid_support_companion_ad":"Support Video Companion Ad","vid_support_custom_video_executions":"Support Custom Video Executions / Video Overlays"} });
+  
+  function getNewPostsSinceLastQuery() {
+    if ((window.loggedIn || window.partiallyLoggedIn) && $('#discussion_dropdown .discussion-forum-activity-count').length) {
+      $.ajax({
+        url: "/new_posts_counter",
+        type: 'GET',
+        data: {date: window.last_new_post_count_query_date },
+        success: function(res) {
+  
+          window.last_new_post_count_query_date = res['this_visit'];
+  
+          var count = res['new_posts_count'];
+          var total = res['total_new_posts'];
+  
+          if (window.new_posts_since_last_visit == null) {
+             window.new_posts_since_last_visit = count;
+          } else {
+            window.new_posts_since_last_visit += count;
+          }
+  
+          var $badge = $('#discussion_dropdown .discussion-forum-activity-count');
+          $badge.removeClass('text');
+          $badge.addClass('numbers');
+  
+          var $forumBadge = $('#discussion_dropdown_forum .forum-post');
+  
+          if (total > 0) {
+            $forumBadge.html(total <= 999 ? total : '999+');
+            $forumBadge.show();
+          } else {
+            $forumBadge.hide();
+          }
+  
+          if (count > 0) {
+            $badge.html(window.new_posts_since_last_visit <= 999 ? window.new_posts_since_last_visit : '999+');
+            $badge.show();
+          } else {
+            if ($badge.html() == 'New!') {
+              $badge.html('');
+            }
+          }
+        }
+      });
+  
+      window.newPostsSinceLastQueryTimeout = setTimeout(getNewPostsSinceLastQuery, 60000);
+    }
+  }
+  
+  $(document).ready(function() {
+    if (window.currentUser) {
+      getNewPostsSinceLastQuery();
+      dispatcher.on('tab-visible', getNewPostsSinceLastQuery);
+      dispatcher.on('tab-hidden', function() {
+        if (window.newPostsSinceLastQueryTimeout) {
+          clearTimeout(window.newPostsSinceLastQueryTimeout);
+        }
+      });
+    } else {
+      var $badge = $('#discussion_dropdown .discussion-forum-activity-count');
+      $badge.html('New!');
+      $badge.removeClass('numbers');
+      $badge.addClass('text');
+      $badge.show();
+    }
+  });
 </script>
 
 </head>
-<body class="classy" style="">
+<body class="classy">
 
 <div class="main-wrapper">
 
@@ -320,7 +2802,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 <!-- /.container -->
 <div class="nav-collapse collapse user-settings">
 <a class="brand" href="/">
-<img alt="Thalamus_logo_green" src="/assets/thalamus_logo_green-2a1368a8ee65c84e769e06dab2212bb9.png">
+<img alt="Thalamus" src="http://d3ny630x53xdwa.cloudfront.net/assets/thalamus_logo_green-e038cf8ec3cecb9781cd94a007262fd9.png">
 </a>
 <ul class="nav nav-custom">
 <li class="welcome-navbar-logout pull-right">
@@ -429,12 +2911,15 @@ info [at]
 </div>
 </section>
 
+
 <div class="container">
 <ul class="alerts-list use-theme-fonts unstyled">
 <li class="check-email-block">
 <div class="alert text-center check-email-message transparent hidden">
 <button class="close" data-dismiss="alert" type="button">×</button>
-Please check your email to complete your registration process.
+Please check your email to complete the registration process.
+<br>
+If you do not see the confirmation email, please check your spam folder.
 </div>
 </li>
 <li class="check-email-block">
@@ -447,6 +2932,12 @@ Thank you for your review
 <div class="alert text-center thank-for-review-large transparent hidden">
 <button class="close" data-dismiss="alert" type="button">×</button>
 Thanks for your review. It will be posted once it has been verified by a Thalamus moderator.
+</div>
+</li>
+<li class="check-email-block">
+<div class="alert text-center email-invitations-sent transparent hidden">
+<button class="close" data-dismiss="alert" type="button">×</button>
+Thanks for sharing Thalamus. You have been awarded Kudos!
 </div>
 </li>
 <li>
@@ -471,7 +2962,7 @@ to write ad partner reviews, or to edit capabilities and key contacts.
 <div class="row">
 <div class="span12">
 <a class="logo-footer" href="/">
-<img alt="Thalamus_logo_white" src="/assets/thalamus_logo_white-02dd028517ddb685de2f718e3b10de5e.png">
+<img alt="Thalamus_logo_white" src="http://d3ny630x53xdwa.cloudfront.net/assets/thalamus_logo_white-49395a6e18b26ffa6e724f65662ea248.png">
 </a>
 <ul class="unstyled inline mar-t10">
 <li>
