@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the families.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607070932id_/http%3A//www.families.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the families.com privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023001723id_/http%3A//www.families.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Families.com
 
 ## Your personal information is safe
 
