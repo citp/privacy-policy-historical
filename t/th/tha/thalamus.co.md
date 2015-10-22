@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thalamus.co privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424102209id_/http%3A//www.thalamus.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thalamus.co privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022133114id_/http%3A//www.thalamus.co/privacy) for the most accurate reproduction.*
 
-# Digital and Mobile Advertising Company Capabilities, Pricing, Contacts, Traffic, Reviews, Data, Creatives, and Marketing Collateral - Thalamus
+# Thalamus Privacy Policy
 
 Thalamus, Inc (“us”, “we”, “our” or the “Service”) operates [http://www.thalamus.co/](https://web.archive.org/) (the “Site”). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of this site. 
 
@@ -108,11 +108,14 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 Thalamus, Inc 2060 Sutter St #406 San Francisco, CA 94115 info [at] [thalamus.co](http://www.thalamus.co/)
 
-  * Please check your email to complete your registration process. 
+  * Please check your email to complete the registration process.   
+If you do not see the confirmation email, please check your spam folder. 
 
   * Thank you for your review 
 
   * Thanks for your review. It will be posted once it has been verified by a Thalamus moderator. 
+
+  * Thanks for sharing Thalamus. You have been awarded Kudos! 
 
   * Sign Up to write ad partner reviews, or to edit capabilities and key contacts. 
 
