@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theiraqidinar.com privacy policy that was archived on 2015-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150412000018id_/http%3A//theiraqidinar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theiraqidinar.com privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022213919id_/http%3A//theiraqidinar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dinar Daddy's Tidbits
 
