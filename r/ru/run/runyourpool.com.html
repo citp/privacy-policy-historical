@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the runyourpool.com privacy policy that was archived on 2015-04-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150419054434id_/https%3A//www.runyourpool.com/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the runyourpool.com privacy policy that was archived on 2015-10-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151022184729id_/https%3A//www.runyourpool.com/privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 		<meta charset="utf-8">
@@ -41,6 +41,8 @@
 			border-color: #d8d8d8;
 			color:#666;
 		}
+
+		#liLogin {display:none;}
 		
 		.form-control {height:inherit;padding:4px 6px;}
 
@@ -65,6 +67,8 @@
 		.navbar .nav > li.col-lg-1, .navbar .nav > li.col-lg-2 {padding:0px;}
 		.navbar .nav > li > a {color:#ffffff;text-shadow:none;background-image:url(//www.runyourpool.com/images/header_v2/navSeparator.jpg);background-repeat:no-repeat;font-size:13px;padding-top:5px;padding-bottom:7px;}
 		.navbar .nav > li > a:hover {background-color:#494641;color:#ffffff;}
+		
+		li.dropdown > ul.dropdown-menu > li.i a {padding-left:30px;}
 		
 		.nav>li>a:hover, .nav>li>a:focus {background-color:inherit;}
 		.dropdown-menu>li>a:hover, .dropdown-menu>li>a:focus {background-color:#ccc;}
@@ -152,32 +156,74 @@
 			.width18 {width:100%;}
 			.navbar {min-width:291px;}
 			
-			.navbar .nav > li {text-align:left;}
+			.navbar .nav > li {text-align:left;background-image:none;border-bottom:solid 1px #666; background-color:#333;}
+			.navbar .nav li.disabled {margin-left:-10px;}
+			.navbar .nav > li > a {color:#ddd !important;font-size:14px !important;padding-top:8px;padding-bottom:9px;}
 			
+			.navbar .nav > li:first-child {padding-top:4px;}
+			.navbar .nav > li > a:hover,.navbar .nav > li.open > a {background-color:#dddddd; color:#333 !important;}
+
+			.navbar .nav .caret {
+			  border-top-color: #ddd !important;
+			  border-bottom-color: #ddd !important;
+			}
+			.navbar .nav > li > a:hover .caret,.navbar .nav li.open .caret {
+			  border-top-color: #333 !important;
+			  border-bottom-color: #333 !important;
+			}
+
+			.dropdown .dropdown-menu>li>a { color:#ddd; }
+			.dropdown .dropdown-menu>li>a:hover { color:#333; }
+
+			#liLogin {display:block;}
+			.loggedIn {color:#ddd;}
+
+			.logoContainer {margin-bottom:10px;padding:0px;float:left; text-align: left;min-width: 100px;}
+			.logoContainer img {max-width:100%;}
+			.logoContainer.col-lg-5 {width:70% !important; }
+			.menuContainer {width:30%; float:left; text-align: right;}
+			.navRowExtended {background-image: none;}
+			.navbar-collapse.in {margin-top:0;}
+			.navbar .nav {box-shadow: 0px 5px 5px -5px #888888;}
+
+		
+			.navbar .nav.navbar-toggle li {border-bottom:solid 0px #ccc;}
+			.navbar .nav.navbar-toggle li:first-child {padding-top:0px;}
+			.navbar .nav.navbar-toggle li a {color:#ffffff !important;font-size:12px !important;}
+			.navbar .nav.navbar-toggle li a:hover {background-color: #494641;}
+			.navbar .nav.navbar-toggle .caret {border-top-color: #ffffff !important;border-bottom-color: #ffffff !important;}
+			.navbar .nav.navbar-toggle {box-shadow: none;}
+			.navbar .nav > li > ul > li {padding-left:35px;}
+
 			.nav > li >a {padding:10px 15px;}
 			.nav-collapse.navbar-responsive-collapse.in {background-color:#999999;}
 			.nav-collapse.navbar-responsive-collapse.in .nav > li > a {background-image:none;border-bottom:solid 1px #cccccc;border-radius: 0px;font-size:13px;}
+			.navbar-collapse {margin-right:0px !important;}
+			.navbar-collapse .nav > li > a {padding-left:30px;}
+
+			.navbar-btn {height:20px;}
 		}
 
 		@media (max-width: 700px) {
 			.logoContainer img {max-width:120%;}
 			.loginContainer .input-medium {width:48%;}
 			.loginContainer form {min-width:250px;}
+			.nofificationsListItem {color:#ddd;}
 		}
 		
 		@media (max-width: 550px) {
-			.headerRow {padding-bottom:0px;padding-top:5px;background-image:none;padding-left:10px;padding-right:10px;}
-			.logoContainer {margin-bottom:10px;padding:0px;min-width:271px;text-align:center;}
+			.headerRow {padding-bottom:0px;padding-top:5px;padding-left:10px;padding-right:10px;background-image:none !important; height:70px;}
 			.logoContainer img {max-width:100%;}
-			.logoContainer.col-lg-5 {width:100% !important; }
-					
+
+			
+
 			.loginContainer {text-align:center;width:100%;background-color:#1f5f3b;padding:0px;min-width:271px;float:left;}
 			.loginContainer a {color:#999;}
 			.loginContainer .input-medium {width:47%;}
 			.loginContainer .input-medium[type="text"] {float:left;}
 			.loginContainer .input-medium[type="password"] {float:right;}
 			.loginContainer form {float:none;margin:auto;margin-bottom:15px;padding-top:15px;padding-bottom:10px;padding-left:10px;padding-right:10px;border:solid 1px #fff;border-radius: 10px;background-color:#eee;min-width:271px;max-width:317px;color:#666666;}
-			.loginContainer .credentialsContainer {float:none;margin:auto;margin-bottom:15px;padding-top:15px;padding-bottom:15px;padding-left:10px;padding-right:10px;border:solid 1px #fff;border-radius: 10px;background-color:#eee;min-width:210px;max-width:317px;color:#666666;}
+			.loginContainer .credentialsContainer {float:none;margin:auto;margin-bottom:15px;padding-top:5px;padding-bottom:5px;padding-left:10px;padding-right:10px;border:solid 1px #fff;border-radius: 10px;background-color:#eee;min-width:210px;max-width:317px;color:#666666;}
 			.loginContainer .pull-right {float:none !important;}
 			.loginContainer .pull-right.credentials {float:none !important;clear:none;padding-bottom:4px;color:#666666;}
 			.loginContainer .credentialsContainer a {color:#666666;}
@@ -188,24 +234,30 @@
 		
 		@media (max-width: 380px) {
 			.navbar .nav > li > a {font-size:12px;}
+			.headerRow {height: 50px;}
+			
+			
 			.navbar-toggle .nav > li > a {font-size:11px;padding:15px 15px;}
-			.navbar-collapse .nav > li > a {font-size:13px;padding-left:30px;}
+			/*.navbar-collapse .nav > li > a {font-size:13px;padding-left:30px;}*/
 			.navbar .navbar-collapse {max-height: 1000px;}
-			.dropdown-menu > li {border-bottom:solid 1px #ccc;}
+			/*.dropdown-menu > li {border-bottom:solid 1px #ccc;}*/
 			.dropdown-menu > li:last-child {border-bottom:solid 0px #ccc;}
 			.dropdown-menu .divider {display:none;}
 			.nav>li>a {padding-left:10px;padding-right:10px;}
 		}
 		
 		@media (max-width: 340px) {
+			
+			.logoContainer img {max-width:100%;}
+			
 			.navbar .nav > li > a {font-size:12px;}
 			.navbar-toggle .nav > li > a {font-size:11px;padding:10px 10px;}
-			.navbar-collapse .nav > li > a {font-size:11px;padding-left:30px;}
-			.dropdown-menu > li {border-bottom:solid 1px #ccc;}
+			/*.navbar-collapse .nav > li > a {font-size:11px;padding-left:30px;}
+			.dropdown-menu > li {border-bottom:solid 1px #ccc;}*/
 			.dropdown-menu > li:last-child {border-bottom:solid 0px #ccc;}
 			.navbar .navbar-collapse {max-height:  1000px;}
 			.dropdown-menu .divider {display:none;}
-			.nav>li>a {padding-left:8px;padding-right:8px;}
+			.nav>li>a {padding-left:8px;padding-right:8px;padding-top:5px;}
 		}
 		
 		
@@ -223,9 +275,20 @@
 	<div class="headerRowExtended">
 		<div class="container">
 			<div class="headerRow">
-				<div class="logoContainer col-lg-5"><a href="https://www.runyourpool.com"><img src="//www.runyourpool.com/images/header_v3/fullLogo.png" class="logo" alt="RunYourPool.com"></a></div>
-				
-				<div class="loginContainer col-lg-5 col-lg-offset-2">
+				<div class="logoContainer col-lg-5">
+					<a href="https://www.runyourpool.com"><img src="//www.runyourpool.com/images/header_v3/fullLogo.png" class="logo" alt="RunYourPool.com"></a>
+				</div>
+				<div class="menuContainer">
+					 <ul class="nav navbar-nav navbar-toggle">
+					  <li class="dropdown" style="float:right;">
+					  		<a href="javascript:;" data-toggle="collapse" data-target="#navbar-collapse-1" class="navbar-toggle collapsed" style="font: normal normal normal 22px/1 FontAwesome; color:#ccc;">
+				                <i class="fa fa-reorder"></i>
+				            </a>
+					   </li>
+			  		</ul>
+				</div>
+
+				<div class="loginContainer col-lg-5 col-lg-offset-2 hidden-xs">
 					
 					<form class="form-inline pull-right" action="/login_process.cfm" method="post" name="frmLogin">
 					  <input name="username" id="username" class="form-control input-medium" type="text" placeholder="Username" data-toggle="tooltip" title="Username">
@@ -239,7 +302,7 @@
 			</div>
 		</div>
 	</div>
-
+	
 	
 
 <div class="navRowExtended">
@@ -249,21 +312,19 @@
 		
 		   <div class="container">
 				
-			  <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
-			  <ul class="nav navbar-nav navbar-toggle">
-				  <li><a href="/start_pool/">Start a New Pool</a></li>
-				  <li><a href="/join.cfm">Join an Existing Pool</a></li>
-				  <li class="dropdown">
-						<a href="#" data-toggle="collapse" data-target="#navbar-collapse-1">More <b class="caret"></b></a>
-				   </li>
-			  </ul>
+			  
 		 
 			  <!-- Everything you want hidden at 940px or less, place within here -->
 			  <div class="navbar-collapse collapse" id="navbar-collapse-1">
 				<ul class="nav navbar-nav">
+				  <li id="liLogin" style="text-align:center;" class="text-center">
+	
+	<div class="text-center"><a href="/login.cfm" class="btn btn-default btn-sm" style="width:100px;margin:10px 0 10px 0;">Log in</a></div>
+	
+</li>
 				  <li class="width7"><a href="/">Home</a></li>
 				  <li class="width16"><a href="/start_pool/">Start a New Pool</a></li>
-				  <li class="width18"><a href="/join.cfm">Join an Existing Pool</a></li>
+				  <li class="width18"><a href="/join/">Join an Existing Pool</a></li>
 				  <li class="dropdown width13">
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Pool Types <b class="caret"></b></a>
 						<ul class="dropdown-menu">
@@ -288,7 +349,7 @@
 						<li><a href="http://www.runyourpool.com/blog/">More Posts...</a></li>
 					</ul>
 				  </li>
-				  <li class="width15"><a href="/branding.cfm">Brand Your Pool</a></li>
+				  <li class="width15"><a href="/branding.cfm">Pool Branding</a></li>
 				  <li class="width7"><a href="/faqs.cfm">FAQs</a></li>
 				  <li class="width12"><a href="/contact.cfm">Contact Us</a></li>
 				</ul>
@@ -299,7 +360,7 @@
 	
 	</div>
 </div>
-
+	
 	<div class="contentRowExtended">
 		<div class="container">
 			<div class="row">
@@ -348,21 +409,14 @@ If you have any questions about this privacy statement or wish to update any of 
 	
 	<script>
 	$(document).ready(function() {
-		try {
-		$('#username').tooltip(
-		{
-			placement: "bottom",
-			trigger: "hover",
-		});
-		$('#password').tooltip({
-			placement: "bottom",
-			trigger: "hover"
-		});
-		}
-		catch(e){}
+	   $(".nav li.disabled a").click(function() {
+	     return false;
+	   });
 	});
 	</script>
+
 	
+
 	<!--[if lt IE 10]>
 		<script src="/bootstrap3.2.0/js/placeholder-enhanced.min.js"></script>
 	<![endif]-->
