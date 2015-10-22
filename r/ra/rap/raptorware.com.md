@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raptorware.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607052837id_/http%3A//www.raptortech.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raptorware.com privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023011848id_/http%3A//www.raptorware.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Raptor Technologies LLC - Privacy Policy
 
