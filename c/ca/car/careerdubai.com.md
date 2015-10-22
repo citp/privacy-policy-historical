@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerdubai.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055617id_/http%3A//careerdubai.net/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerdubai.com privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022055243id_/http%3A//careerdubai.net/Privacy.aspx) for the most accurate reproduction.*
 
 # CareerDubai.net Dubai, Jobs in Dubai, career in Dubai, DUBAI JOBS, JOBS IN UAE
 
