@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinterest.co.uk privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231030159id_/https%3A//www.pinterest.com/_/_/about/privacy/plain.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinterest.co.uk privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022214045id_/https%3A//www.pinterest.com/_/_/about/privacy/plain.html) for the most accurate reproduction.*
 
 # Privacy Policy | About Pinterest
 
@@ -10,7 +10,7 @@ We collect information in a few different ways:
 
  **1\. When you give it to us or give us permission to obtain it**
 
-When you sign up for or use our products, you voluntarily give us certain information. This can include your name, profile photo, Pins, comments, likes, email address you used to sign up, and any other information you provide us. If you’re using Pinterest on your mobile device, you can also choose to provide us with location data.
+When you sign up for or use our products, you voluntarily give us certain information. This can include your name, profile photo, Pins, comments, likes, email address you used to sign up, and any other information you provide us. If you’re using Pinterest on your mobile device, you can also choose to provide us with location data. And if you choose to buy something on Pinterest, you provide us with payment information, contact information (ex., address and phone number), and what you purchased. If you buy something for someone else on Pinterest, you’d also provide us with their shipping details and contact information.
 
 You also may give us permission to access your information in other services. For example, you may link your Facebook or Twitter account to Pinterest, which allows us to obtain information from those accounts (like your friends or contacts). The information we get from those services often depends on your settings or their privacy policies, so be sure to check what those are.
 
@@ -32,23 +32,25 @@ Sometimes our partners may let us collect information when you use their service
 
   * Some websites or apps use Pinterest features like our “Pin it” button. If so, we may collect log information (described above) from those sites or apps.  
  
-  * Online advertisers typically share information with the websites or apps where they run ads to measure and/or improve those ads. We also receive this information, which may include information like whether clicks on ads led to purchases or a list of criteria to use in targeting ads. To learn more about the types of information advertisers may share with us, [please see our Help Center](http://help.pinterest.com/articles/advertiser-sharing).
+  * Online advertisers typically share information with the websites or apps where they run ads to measure and/or improve those ads. We also receive this information, which may include information like whether clicks on ads led to purchases or a list of criteria to use in targeting ads.
 
 
+
+To learn more about the types of information advertisers may share with us, [please see our Help Center](https://help.pinterest.com/articles/personalization-and-data).
 
 ## How do we use the information we collect?
 
 We use the information we collect to provide our products to you and make them better, develop new products, and protect Pinterest and our users. For example, we may log how often people use two different versions of a product, which can help us understand which version is better.
 
+If you make a purchase on Pinterest, we’ll save your payment information and contact information so that you can use them the next time you want to buy something on Pinterest.
+
 We also use the information we collect to offer you customized content, including:
 
-  * Suggesting Pins or boards you might like. For example, if you’ve indicated that you’re interested in cooking or visited recipe websites that has Pinterest features, we may suggest food-related Pins, boards, or people that we think you might like.  
+  * Suggesting Pins or boards you might like. For example, if you’ve indicated that you’re interested in cooking or visited recipe websites that have Pinterest features, we may suggest food-related Pins, boards, or people that we think you might like.  
  
-  * Showing you ads you might be interested in.
+  * Showing you ads you might be interested in. For example, if you purchased a camping tent on Pinterest, we may show you ads for other outdoorsy products. 
 
 
-
-[Learn more](http://help.pinterest.com/articles/personalization-and-data-other-websites) about how we use information from outside of Pinterest to customize your Pinterest experience.
 
 We also use the information we collect to:
 
@@ -74,6 +76,8 @@ Our goal is to give you simple and meaningful choices over your information. If 
  
   * Choose whether Pinterest will be customized for you using information from off-Pinterest websites or apps. If you have a Pinterest account and want to control how your off-Pinterest data is used to tailor your experience, you can visit your [account settings](https://pinterest.com/settings/) and update your preferences. If you don’t have a Pinterest account, or don’t want us to customize Pinterest for you when you’re signed out, you can opt out [here](http://help.pinterest.com/articles/personalization-and-data-other-websites).  
  
+  * Choose whether your purchases on Pinterest will be used to customize recommendations and ads for you. You can view and manage your purchase history by going to “Order history” in your [account settings](https://www.pinterest.com/settings), and if you hide a purchase from your history, we won’t use it to customize Pinterest for you.  
+ 
   * Also, we support the Do Not Track browser setting, and you can [learn more](http://help.pinterest.com/articles/we-support-do-not-track) about how it affects our collection and use of off-Pinterest data.  
  
   * Close your account at any time. When you close your account, we’ll deactivate it and remove your pins and boards from Pinterest. We may retain archived copies of your information as required by law or for legitimate business purposes (including to help address fraud and spam).
@@ -98,9 +102,12 @@ Pinterest is a tool people use to find their inspirations, make them a reality, 
 
   * When we have your consent. This includes sharing information with other services (like Facebook or Twitter) when you’ve chosen to link to your Pinterest account to those services or publish your activity on Pinterest to them. For example, you can choose to publish your Pins to Facebook or Twitter.  
  
-  * We may employ third party companies or individuals to process personal information on our behalf based on our instructions and in compliance with this Privacy Policy. For example, we may share data with a security consultant to help us get better at identifying spam or with our accountants to make sure we’re keeping the books right. In addition, some of the information we request may be collected by third party providers on our behalf. For more information about the providers we use, please [see our Help Center](http://help.pinterest.com/articles/third-party-analytics-providers-pinterest-uses).  
+  * When you buy something on Pinterest using your credit card, we share your credit card information, contact information, and other information about the transaction with the merchant you’re buying from. The merchants treat this information just as if you had made a purchase from their website directly, which means their privacy policies and marketing policies apply to the information we share with them. 
+    * If you buy something on Pinterest using Apple Pay, your credit card number is not shared with the merchant, but contact and transaction information is still shared.  
  
-  * Online advertisers typically use third party companies to audit the delivery and performance of their ads on websites and apps. We also allow these companies to collect this information on Pinterest. To learn more, please [see our Help Center](http://help.pinterest.com/articles/third-party-analytics-providers-pinterest-uses).  
+  * Online advertisers typically use third party companies to audit the delivery and performance of their ads on websites and apps. We also allow these companies to collect this information on Pinterest. To learn more, please [see our Help Center](http://help.pinterest.com/articles/third-party-analytics-providers-pinterest-uses).  
+ 
+  * We may employ third party companies or individuals to process personal information on our behalf based on our instructions and in compliance with this Privacy Policy. For example, we share credit card information with the payment companies we use to store your payment information. Or, we may share data with a security consultant to help us get better at identifying spam. In addition, some of the information we request may be collected by third party providers on our behalf. For more information about the providers we use, please [see our Help Center](https://help.pinterest.com/articles/third-party-analytics-providers-pinterest-uses).  
  
   * If we believe that disclosure is reasonably necessary to comply with a law, regulation or legal request; to protect the safety, rights, or property of the public, any person, or Pinterest; or to detect, prevent, or otherwise address fraud, security or technical issues.  
  
@@ -118,4 +125,4 @@ Pinterest is not directed to children under 13. If you learn that your minor chi
 
 We may change this policy from time to time, and if we do we’ll post any changes on this page. If you continue to use Pinterest after those changes are in effect, you agree to the revised policy. If the changes are significant, we may provide more prominent notice or get your consent as required by law.
 
-_Effective: October 19, 2014_
+_Effective: June 28, 2015_
