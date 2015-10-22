@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newinti.edu.my privacy policy that was archived on 2014-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140424070906id_/http%3A//newinti.edu.my/main/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newinti.edu.my privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022072029id_/http%3A//newinti.edu.my/main/main/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | INTI International University
+# Privacy Policy - INTI International University & CollegesINTI International University & Colleges
 
 The **INTI** Education Group recognises that data protection and privacy are important issues, particularly with regard to the World Wide Web; consequently we take your personal privacy very seriously. The Privacy Policy gives an overview of what information is collected when you access our website and how certain information might be used.
 
@@ -26,7 +26,7 @@ Where Web Forms are utilised on the site, users are usually required to supply s
 
 **Data Protection**
 
-The information you provide to the **INTI** Education Group will be processed in accordance with the provisions of the Data Protection Act (1998) and any other relevant legislation. This data may be used to provide you with further information about relevant services. It may be held on a mailing list or database for this purpose, unless you object (by notifying the University in writing); and it may also be passed on to a third party (a ‘data processor’) with whom the University has formally contracted to process your data for this purpose, subject to the safeguards concerning privacy and security of data set out in the Act. 
+The information you provide to the **INTI** Education Group will be processed in accordance with the provisions of the Data Protection Act 2010 and any other relevant legislation. This data may be used to provide you with further information about relevant services. It may be held on a mailing list or database for this purpose, unless you object (by notifying the University in writing); and it may also be passed on to a third party with your consent, with whom the University has formally contracted to process your data for this purpose, subject to the safeguards concerning privacy and security of data set out in the Act. 
 
 * * *
 
