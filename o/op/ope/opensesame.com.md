@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the opensesame.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629055441id_/https%3A//www.opensesame.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opensesame.com privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022025812id_/https%3A//www.opensesame.com/privacy) for the most accurate reproduction.*
 
-# Learn OpenSesame's e Learning Policy for Privacy
+# OpenSesame Values Your Privacy | OpenSesame
 
 This Privacy Policy (this “Policy”) describes how OpenSesame Inc. (“OpenSesame”), treats information collected from you at the OpenSesame web site (http://www.opensesame.com) (the “Site”) and how it uses and discloses such information. By accessing the Site, you consent to the collection, use and disclosure of your information in accordance with the terms of this Policy.  If you do not wish your information to be collected, used or disclosed in the manners described in this Policy, please do not access the Site or make use of OpenSesame’s training services and related goods. 
 
