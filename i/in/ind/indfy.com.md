@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the indfy.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506040851id_/http%3A//www.indfy.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indfy.com privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022170230id_/http%3A//www.indfy.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[](http://www.indfy.com/)
 
 By accessing http://www.indfy.com ("this Website"), you ("the User") are giving your consent to our processing of your information as set forth in this Privacy Policy now and as amended by this Website from time to time.
 
