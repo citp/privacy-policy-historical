@@ -1,36 +1,53 @@
-> *The following text is extracted and transformed from the elitemoviepass.com privacy policy that was archived on 2013-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130130153346id_/http%3A//elitemoviepass.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitemoviepass.com privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022041250id_/http%3A//www.pornstar.com/privacy.html%3F) for the most accurate reproduction.*
 
-# Elite Movie Pass - 1000's Of High Quality XXX Porn DVD's
+# Pornstar.com live cams Privacy Policy
 
-Your privacy is important to us. **No personal information will be shared with any third parties without the customer’s permission** To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+[Home](http://www.pornstar.com/) / Privacy Policy
 
-The Information We Collect: we collect email addresses on the signup page for the use of sending emails to our customers with special offers as well as their username/password and country if they signup to one of our sites.
+By using our sites, you signify your agreement to the privacy policies described herein. If you do not agree with our privacy policies, please do not use our site or service. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages or we will email you at our discretion.
 
-Customers credit card details are NEVER stored on our servers, this data is collected and processed through our billing gateway Netbilling.com. Netbilling.com is specially tasked and authorized to collect & process customer credit cards and are authorized to keep such customer data. We do collect the customers username, password, country & email address but this is only temporary for use in cascading billing. The customers username & password, country & email address is only stored on a permanent basis at our secured servers if the customer decides to join one of our sites with his credit card.
+pornstar.com respects and safeguards the privacy of every individual who visits our website. This Privacy Statement is a formal document that outlines the information which may be collected about you while you use pornstar.com, and how that information may be used. This Statement will also instruct you on what to do if you do not want your personal information collected or shared when you visit the pornstar.com website.
 
-This notice applies to all information collected or submitted on our company websites. On some pages, you can order products/subscriptions, make requests, and register to receive materials. The types of personal information collected at these pages are: 
+pornstar.com will not collect any personal identifying information about you (including, but not limited to, your name, address, telephone number, email address, Social Security number, bank account or credit card information, or any combination of data that could be used to identify you, such as birth date, zip code, and gender) unless you provide it to us voluntarily.
 
-  * Name:
-  * Address:
-  * Email address:
-  * Phone number:
+If you do not want your personal identifying information collected, please do not submit it to us. If you have already submitted this information and would like for us to remove it from our records, please contact us at the email address listed at the bottom of this Statement. We will use reasonable efforts to delete your information from our existing files.
+
+When you do provide us with personal identifying information, such information will be gathered solely by pornstar.com, and is for use solely by pornstar.com and trusted partners. At any point where personal identifying information is requested, any information that is optional to provide, rather than mandatory, will be clearly marked as such. We may use personal identifying information in the following ways, unless stated otherwise: we may store and process that information to better understand your needs and how we can improve our products and services; and we may use that information to contact you. Financial information that is collected is used to check the users' qualifications for registration and to bill the user for products and services.
+
+pornstar.com may utilize electronic newsletters to reach all or a subset of all registered users, using the email address collected. Users may remove themselves from such mailing lists at any time by following the instructions that shall be sent as part of any of such mailings.
+
+pornstar.com may request personal identifying information on specific pages that allow users to contact pornstar.com. Such information is being collected to assist us in solving a specific issue addressed by the user and/or to allow us to contact the user with an appropriate response.
+
+There are a limited number of situations where we may disclose your personal information to others without first receiving your consent: (1) when legally ordered to do so by a lawful subpoena or court order, (2) if you violate or breach an agreement with us, (3) if we believe conduct by you will harm the property or rights of pornstar.com or those of pornstar.com customers or chat hosts, (4) under exigent circumstances to protect the physical safety of pornstar.com, its employees, users or the general public, (5) in connection with the sale of all or substantially all of our company’s assets or the sale of an entire web site or business division or (6) in order to validate credit card numbers for charging for fee services.
+
+Your browser offers so-called "cookies," which – if you allow their use – store small amounts of data on your computer about your visit to our site. Cookies assist us in tracking which of our features you like best. And when you re-visit our sites, cookies can enable us to customize our content according to your preferences. However, cookies tell us nothing about you personally unless you specifically give us additional information.
+
+Cookies used on the website by category:
+
+  * Strictly necessary cookies - These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website.
+  * Performance cookies - These cookies collect anonymous information on the pages visited. By using our site, you agree that we can place these types of cookies on your device. These cookies collect information about how visitors use a website, for instance which pages visitors go to most often. These cookies don't collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how a website works.
+  * Functionality cookies - These cookies remember choices you make to improve your experience. By using our site, you agree that we can place these types of cookies on your device. These cookies allow the website to remember choices you make and provide enhanced, more personal features. The information these cookies collect may be anonymized and they cannot track your browsing activity on other websites.
+  * Advertising cookies - These cookies are used to deliver advertisements more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operator’s permission. They remember that you have visited a website and this information is shared with other organizations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organization.
 
 
 
-**The Way We Use Information:**  
-We use the infomation for processing the customers signup via check or credit card to our site, we collect email addresses for future special offers to be sent to customer as well as to send the customer his/her username & password after signup process is approved. The customers name, address, phone & other details are used to cascade between billing processors to help the customer signup to our site, if the customer does not signup to any of our processors or checking processors/web900. Then the customers data except for email address is deleted.
+You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. However, note that if you reject some or all cookies, your experience at our sites and on other sites throughout the World Wide Web may not be complete. Some sites require cookies to function, such as those with e-commerce features. In addition, if you do not allow cookies, you will not be able to take advantage of personalized content delivery offered by us or other Internet sites.
 
-**Our Commitment To Data Security:**  
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+This site makes chat rooms available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. If you disclose your email address in a chat room or forum, you may receive unsolicited email or "spam". We cannot safeguard the privacy of any such information you choose to disclose online in this manner and you must do so carefully and at your own risk.
 
-**How You Can Access Or Correct Your Information:**  
-You can access all your personally identifiable information that we collect online and maintain by [description of the company access procedure]. We use this procedure to better safeguard your information.
+Because we care about the safety and privacy of children online, we comply with the Children’s Online Privacy Act of 1998 (COPA). COPA and its accompanying FTC regulation established United States federal law that protects the privacy of children using the Internet. pornstar.com does not knowingly collect contact or personal information from persons under 18. Our sites are not intended to solicit information of any kind from persons under 18, and we have designed our sites to block our knowing acceptance of information from persons under 18 wherever age related information is requested.
 
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
+Members areas of pornstar.com may contain content considered offensive to some, and are inaccessible to individuals under the age of 18 via a standard credit card wall, as advocated by the Communications Decency Act. It is possible that by fraud or deception we may receive information given to us or pertaining to minors under the age of 18. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers. If you want to notify us of our receipt of information by minors, please do so by emailing us at [support@webcamassist.com](https://web.archive.org/contactsupport.php?).
 
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
+pornstar.com does not send unsolicited email to anyone who has requested we do not contact them. Any newsletters that we send are only sent to those who are active members of the site. To stop receiving email or newsletters from pornstar.com, either follow the instructions on the email or newsletter itself or send a request to be unsubscribed to [Support](https://web.archive.org/contactsupport.php?).
 
-**How To Contact Us:**  
-Should you have other questions or concerns about these privacy policies, please send us an email at [[support@elitemoviepass.com](mailto:support@elitemoviepass.com)].
+pornstar.com also does not condone spam by affiliates or chat hosts advertising our site. Spam by our affiliates is prohibited by our Acceptable Use Policy. Some trusted partners may email a member to present special offers to our members. Further, according to our published policy, if pornstar.com becomes aware that a customer or affiliate is in violation of the law or this Acceptable Use Policy, pornstar.com reserves the right to impose disciplinary action in its sole discretion. Our disciplinary action may include: removal from our servers of files that violate our Acceptable Use Policy, the expulsion of the customer from the pornstar.com program, termination of pornstar.com services, and forfeiture of all commissions.
 
-To view the privacy policy of our Gateway credit card processing company : Netbilling.com please visit : <http://www.netbilling.com/privacy.php>
+If you have any questions about this Privacy Policy, please contact our customer service department at [support@webcamassist.com](https://web.archive.org/contactsupport.php?) and provide us with your name, your pornstar.com login name, and any information you feel is important.
+
+The address for correspondence by post is
+
+ICF Technology, Inc.  
+PO Box 21508  
+Seattle, WA 98111  
+USA
