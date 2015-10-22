@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the keyhole.co privacy policy that was archived on 2015-04-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150404075437id_/http%3A//keyhole.co/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the keyhole.co privacy policy that was archived on 2015-10-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151022231922id_/http%3A//keyhole.co/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8"><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
 		<title>Hashtag Tracking for Twitter, Facebook and Instagram - Keyhole</title>
 	<meta name="keywords" content="hashtag tracking and analytics, content marketing, social media monitoring, historical tweets">
     <meta name="description" content="Keyhole is a real-time hashtag tracker for Twitter, Facebook and Instagram. It's visual dashboard is simple, beautiful and shareable!">
@@ -14,8 +15,7 @@
 	<meta name="og:url" content="http://keyhole.co">
 	<meta name="og:description" content="Keyhole is a real-time hashtag tracker for Twitter, Facebook and Instagram. It's visual dashboard is simple, beautiful and shareable!">
 	<link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
-    <link href="/bootstrap/css/bootstrap.css" rel="stylesheet">
-	<link href="/css/keyhole.css?1426793601" rel="stylesheet">
+	<link href="/css/keyhole.css?1443257891" rel="stylesheet">
     <style type="text/css">
       body {padding-bottom: 0px;}
       .sidebar-nav {padding: 9px 0;}
@@ -26,20 +26,31 @@
     <!--[if lt IE 9]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-	<script type="text/javascript" async="" src="https://apis.google.com/js/platform.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+	<script type="text/javascript" async="" src="https://apis.google.com/js/platform.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+		if (top.location != self.location && self.location.href.indexOf('preview') == -1) {
+			top.location = self.location.href
+		}
+	</script>
+    <link href="/bootstrap/css/bootstrap.css" rel="stylesheet">
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	<script src="/bootstrap/js/bootstrap.min.js"></script>
+
 	<script type="text/javascript" src="/js/jquery/ui/jquery-ui-1.8.21.custom.min.js"></script>
     <link rel="stylesheet" type="text/css" href="/js/jquery/ui/jquery-ui-1.8.21.custom.css">
+
+    
 	<script src="/bootstrap/js/bootstrap-tooltip.js"></script>
 	<script src="/bootstrap/js/bootstrap-popover.js"></script>
-	<script src="/bootstrap/js/bootstrap.min.js"></script>
 	<script src="/js/cookie.js"></script>
 	<script>var _kmq = _kmq || null;</script>
 	<script>var mixpanel = mixpanel || null;</script>
+	<script>var _cio = _cio || null;</script>
 	<script>var hj = hj || null;</script>
+
+
   </head>
   <body>
-
-	
 
 <style>
 .minimenu {position:relative; top:0px; z-index:9900;}
@@ -76,14 +87,39 @@
 				<div id="signin-dropdown" class="rndbottomx" style="display:none;">
 					
 
+
+<div id="userlogin" style="width:80px;margin-top:2px; ">
+	<fieldset id="signin_menu" style="display:block; border: 1px solid #669933;">
+    		<!-- <br /><center><b>or</b></center> -->
+		<div id="signinx" style="display:block;">
+	  		<form id="signin" method="post" action="/users/login" accept-charset="utf-8"><div style="display:none;"><input type="hidden" name="_method" value="POST"></div>
+				<input type="hidden" name="data[fromURL]" value="/myaccounts">
+			<p><label>Email</label>
+				<input name="data[User][username]" type="text" maxlength="50" id="UserUsername" tabindex="1" style="color:black;">
+			</p>
+			<p>
+			<label>Password</label>
+				<input type="password" name="data[User][password]" id="UserPassword" tabindex="2" style="color:black;">
+			</p>
+			<p class="remember">
+				<input id="signin_submit" value="Sign in" type="submit" tabindex="3">
+				<span style="float:right;padding-top:8px;" class="forgot"><a href="/users/recover_password" style="text-decoration:underline;">Forgot password?</a> </span>
+			</p>
+			</form>
+		</div>
+
+
+  </fieldset>
+</div>
+
 <script type="text/javascript">
         $(document).ready(function() {
-            $(".signin").click(function(e) {          
+            $(".signin").click(function(e) {
 				e.preventDefault();
                 $("fieldset#signin_menu").toggle();
 				$(".signin").toggleClass("menu-open");
             });
-			
+
 			$('#visibli_account').click(function(e) {
 				$('#signinx').fadeIn();
 				$("#UserUsername").focus();
@@ -105,31 +141,6 @@
 		    }
 		});
 </script>
-<div id="userlogin" style="width:182px;margin-top:2px; ">
-	<fieldset id="signin_menu" style="display:block; border: 1px solid #669933;">
-    		<!-- <br /><center><b>or</b></center> -->
-		<div id="signinx" style="display:block;">
-	  		<form id="signin" method="post" action="/users/login" accept-charset="utf-8"><div style="display:none;"><input type="hidden" name="_method" value="POST"></div>
-				<input type="hidden" name="data[fromURL]" value="/myaccounts">
-			<p><label>Email</label>
-				<input name="data[User][username]" type="text" maxlength="50" id="UserUsername" tabindex="1">
-			</p>
-			<p>
-			<label>Password</label>
-				<input type="password" name="data[User][password]" id="UserPassword" tabindex="2">
-			</p>
-			<p class="remember">
-				<input id="signin_submit" value="Sign in" type="submit" tabindex="3">
-				<span style="float:right;padding-top:8px;" class="forgot"><a href="/users/recover" style="text-decoration:underline;">Forgot password?</a> </span>
-			</p>
-			</form>
-		</div>
-		
-	    
-  </fieldset>
-</div>
-
- 
 				</div>
 			</div>
 				<div id="nav-menu" style="">
@@ -385,7 +396,7 @@ info@keyhole.co</p>
 	Tweet about how you're using Keyhole, and we'll extend your trial to 7 days. Enter your message below (including the #trykeyhole hashtag) and click the Share button:<br><br>
 	<form style="text-align:right;">
 	  <fieldset>
-	    <textarea id="share_text_extend" rows="3" cols="20" style="width:560px;" placeholder="hello">I'm using @Keyholeco for real-time hashtag #analytics. Tried it yet? http://keyhole.co/r/?utm_campaign=trykeyhole #trykeyhole</textarea>
+	    <textarea id="share_text_extend" rows="3" cols="20" style="width:560px;" placeholder="hello">Great tool for hashtag #analytics: http://keyhole.co/r/?utm_source=twitter&amp;utm_medium=ext&amp;utm_campaign=trykeyhole -- Using the @keyholeco free trial now. Have you? #trykeyhole</textarea>
 	    <br>
 		<button id="send_twitter_extend" class="btn"><img src="/img/twitter-bird-callout.png" height="14" alt="Spread the word">&nbsp;Share on Twitter</button>
 	  </fieldset>
@@ -414,4 +425,4 @@ if (!extend_trial_hide) {
 </script>  
 
 
-<!-- 0.1422s --></body></html>
+<!-- 0.0723s --></body></html>
