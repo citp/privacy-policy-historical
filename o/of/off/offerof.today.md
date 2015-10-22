@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offerof.today privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317232826id_/http%3A//bingo.offerof.today/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offerof.today privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022235312id_/http%3A//bingo.offerof.today/about-us/privacy-policy) for the most accurate reproduction.*
 
 # offerof.today Privacy policy
 
