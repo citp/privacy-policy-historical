@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the state-election.info privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608010121id_/http%3A//politicks.org/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state-election.info privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022133330id_/http%3A//politicks.org/Privacy-Policy) for the most accurate reproduction.*
 
 # Presidential Election | Privacy Policy
 
