@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myurldab.com privacy policy that was archived on 2015-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150130150911id_/http%3A//www.myurldab.net/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myurldab.com privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022070416id_/http%3A//urlarena.com/privacy_policy.html) for the most accurate reproduction.*
 
-# :: URLDAB - Helps you with amazing surveys ::
+# Privacy Policy
 
 ## Personal Data collected for the following purposes and using the following services:
 
