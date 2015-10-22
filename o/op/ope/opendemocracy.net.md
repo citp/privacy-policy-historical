@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opendemocracy.net privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627132237id_/https%3A//opendemocracy.net/about/about_od_privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opendemocracy.net privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022054520id_/https%3A//www.opendemocracy.net/about/about_od_privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Legal | openDemocracy
 
@@ -65,6 +65,6 @@ We are a UK company bound by English law, and we are registered under and operat
 
 **Unsubscribe, data removal and data modification policies**
 
-openDemocracy allows users to opt-out of receiving communications from us and to modify or remove their information from our system any time. To do so, send an email to [theo.edwards@opendemocracy.net](mailto:theo.edwards@opendemocracy.net) with instructions. 
+openDemocracy allows users to opt-out of receiving communications from us and to modify or remove their information from our system any time. To do so, send an email to [info@opendemocracy.net](mailto:info@opendemocracy.net) with instructions. 
 
-More questions? Please direct them to [theo.edwards@opendemocracy.net](mailto:theo.edwards@opendemocracy.net)
+More questions? Please direct them to [info@opendemocracy.net](mailto:info@opendemocracy.net)
