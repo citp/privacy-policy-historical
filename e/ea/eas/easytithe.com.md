@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the easytithe.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626092836id_/http%3A//www.easytithe.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easytithe.com privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022221309id_/http%3A//easytithe.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy - Online Giving For The Church - Accept Online Donations with Easy Tithe
-
-## Privacy Policy
+# Privacy Policy | easyTithe
 
 **_Document Last Modified:_ June 5, 2013**
 
