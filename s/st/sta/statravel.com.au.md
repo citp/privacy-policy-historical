@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statravel.com.au privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630152826id_/http%3A//www.statravel.com.au/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statravel.com.au privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022092434id_/http%3A//www.statravel.com.au/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy policy of STA Travel Australia and New Zealand | STA Travel | Privacy policy
 
@@ -10,8 +10,7 @@ Promotions that run on our site may be sponsored by companies other than STA Tra
 
 When completing an on line job application for a Branch Sales Manager or Travel Adviser, it requires you to complete mandatory fields and provide personal information. STA Travel recognises that the personal information related to your application is highly personal and sensitive. The information will be only used for this purpose. STA Travel may pass your application onto a third party Recruitment Company for initial interviewing. Applications are kept on file for a period of six months.
 
-When you visit the STA Travel web site, we may collect and store information about your visit on an anonymous, aggregate basis. This information may include the time and length of your visit, the pages you looked at on our site and the site you visited just before coming to ours. We may also record the name of your Internet service provider. We only use this information only to measure site activity and to develop ideas for improving our site.  
-
+When you visit the STA Travel web site, we may collect and store information about your visit on an anonymous, aggregate basis. This information may include the time and length of your visit, the pages you looked at on our site and the site you visited just before coming to ours. We may also record the name of your Internet service provider. We only use this information only to measure site activity and to develop ideas for improving our site.
 
 ## Who is collecting your information
 
@@ -25,9 +24,8 @@ STA Travel may also disclose the personal information that we collect about you 
 
 We may also disclose your personal information if required by law or otherwise permitted by the Privacy Act 1988 (Cth) ( **Privacy Act** ) or other relevant laws in Australia which relate to the protection of personal information, including any future amendments to those laws ( **Privacy Laws** ). To avoid doubt, we may disclose your personal information if permitted by the National Privacy Principles under the Privacy Act and any amendments to them (including if they are replaced by the Australian Privacy Principles).
 
-We may also transfer your personal information to persons outside of Australia in accordance with this privacy policy (including by contacting overseas airlines, tour companies, car hire agencies, hotels or insurance providers) if your travel arrangements involve overseas travel. In this case, we may transfer your personal information to relevant persons based or operating in the country/countries in which you are travelling or planning to travel. We may also transfer your personal information to our ultimate parent company (Diethelm Keller Ltd) in Switzerland in accordance with this privacy policy.   
-
+We may also transfer your personal information to persons outside of Australia in accordance with this privacy policy (including by contacting overseas airlines, tour companies, car hire agencies, hotels or insurance providers) if your travel arrangements involve overseas travel. In this case, we may transfer your personal information to relevant persons based or operating in the country/countries in which you are travelling or planning to travel. We may also transfer your personal information to our ultimate parent company (Diethelm Keller Ltd) in Switzerland in accordance with this privacy policy. 
 
 ## Email subscription opt in and opt out
 
-If you would like to receive news about the latest deals; events and competitions we welcome you to sign-up to our emails. Use this [sign up form ](https://web.archive.org/newsletter.htm)and note that the only mandatory information required is your name, email address and postcode. 
+If you would like to receive news about the latest deals; events and competitions we welcome you to sign-up to our emails. Use this [sign up form ](https://web.archive.org/web/20151022092434id_/http%3A//www.statravel.com.au/,DanaInfo=getscmsprod.bluee.net+/newsletter.htm)and note that the only mandatory information required is your name, email address and postcode. 
