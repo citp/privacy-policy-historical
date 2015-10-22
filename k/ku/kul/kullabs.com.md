@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kullabs.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622185624id_/http%3A//www.kullabs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kullabs.com privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022032515id_/http%3A//www.kullabs.com/privacy) for the most accurate reproduction.*
 
 # Kullabs Smart School... The new era of education. Learn, Share and contribute to create a new educational Network. | Kullabs.com
 
