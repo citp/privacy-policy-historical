@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlymarketingjobs.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609092109id_/http%3A//www.onlymarketingjobs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlymarketingjobs.com privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023003702id_/http%3A//www.onlymarketingjobs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,6 +7,8 @@ This is a statement of the data protection policy adopted by  **Edge Global Med
 The policy is subject to regular review to reflect, for example, changes to legislation or to the structure or policies of EGMG. All staff are expected to apply the policy and to seek advice when required.
 
 **Edge Global Media Group**  needs to collect and use certain types of information about people with whom it deals in order to operate. These include current, past and prospective individuals within the regulated community, EGMG’s own employees, suppliers and others with whom EGMG conducts business. In addition, EGMG may occasionally be required by law to collect and use certain types of information to comply with the requirements of government departments. This personal information must be dealt with properly however it is collected, recorded and used – whether on paper, electronically, or other means - and there are safeguards to ensure this in the Data Protection Act 1998.
+
+Google Analytics is used on all Edge Global Media websites which will result in collecting data from our users. However, you can opt out from the collection of their data by installing a browser add-on from the following link: <https://tools.google.com/dlpage/gaoptout>. For browsers which cannot install a plugin you prevent further data collection by clicking here: Click here to opt-out of Google Analytics.
 
 We regard the lawful and correct treatment of personal information by EGMG as important to the achievement of our objectives and to the success of our operations, and to maintaining confidence between those with whom we deal and ourselves. We therefore need to ensure that our organisation treats personal information lawfully and correctly. To this end, we fully endorse and adhere to the Principles of data protection, as set out in the Data Protection Act 1998.
 
