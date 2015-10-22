@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kawapaper.com privacy policy that was archived on 2015-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150411021351id_/http%3A//www.kawapaper.com/policy-en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kawapaper.com privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022022301id_/http%3A//www.kawapaper.com/policy-en.html) for the most accurate reproduction.*
 
 # Privacy Policy - www.kawapaper.com
 
