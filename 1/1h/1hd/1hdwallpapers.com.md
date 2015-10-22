@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the 1hdwallpapers.com privacy policy that was archived on 2015-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150201172201id_/http%3A//1hdwallpapers.com/content/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1hdwallpapers.com privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022071625id_/http%3A//www.hdwallpapers.im/content/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy - HD Wallpapers
 
-The owners and operators of http://1hdwallpapers.com take your online privacy seriously. This document outlines the types of information collected by our servers and provides links to the privacy policies of our third-party advertising partners.
+The owners and operators of http://www.hdwallpapers.im take your online privacy seriously. This document outlines the types of information collected by our servers and provides links to the privacy policies of our third-party advertising partners.
 
   
 
 
 ### User Accounts
 
-Membership is an optional part of the http://1hdwallpapers.com web site. No user account is required in order to browse or download the content we provide. However, creating an account enables extra features such as (but not limited to) the ability to submit content.
+Membership is an optional part of the http://www.hdwallpapers.im web site. No user account is required in order to browse or download the content we provide. However, creating an account enables extra features such as (but not limited to) the ability to submit content.
 
 By creating an account, you are volunteering certain information about yourself that will be stored on our servers. This data includes at a minimum a username, password, and valid email address. Your user profile information is public and may appear on our web site, with the exception of your email address and password.
 
@@ -29,21 +29,21 @@ We make a reasonable attempt to monitor for cases where users post personally id
 
 ### Server Logs
 
-Like most web sites, http://1hdwallpapers.com logs web, database, and other server-software usage and access information. This information may include your internet protocol (IP) address, which in many cases can be translated to an affiliation (such as your work, school, or internet service provider), or a geographical location. We only use this information for debugging purposes and for aggregating into anonymous usage and traffic statistics.
+Like most web sites, http://www.hdwallpapers.im logs web, database, and other server-software usage and access information. This information may include your internet protocol (IP) address, which in many cases can be translated to an affiliation (such as your work, school, or internet service provider), or a geographical location. We only use this information for debugging purposes and for aggregating into anonymous usage and traffic statistics.
 
   
 
 
 ### Cookies
 
-While browsing http://1hdwallpapers.com, a small number of text files referred to as "cookies" are created on your local file system by your web browser at the request of our servers. These files allow us to personalize the browsing experience for both registered and non-registered users. You are free to delete them at any time, or configure your browser not to create them. However, we do not guarantee that every feature of http://1hdwallpapers.com will function as expected without cookies enabled.
+While browsing http://www.hdwallpapers.im, a small number of text files referred to as "cookies" are created on your local file system by your web browser at the request of our servers. These files allow us to personalize the browsing experience for both registered and non-registered users. You are free to delete them at any time, or configure your browser not to create them. However, we do not guarantee that every feature of http://www.hdwallpapers.im will function as expected without cookies enabled.
 
   
 
 
 ### Third-Party Advertisers
 
-http://1hdwallpapers.com serves ads provided by a range of third-party advertising networks. The practices of our advertising partners are not directly covered by http://1hdwallpapers.com privacy policy. We recommend that you read their policies. For your convenience we provide a list our advertising partners below. Unfortunately we cannot guarantee it is always comprehensive and up to date.
+http://www.hdwallpapers.im serves ads provided by a range of third-party advertising networks. The practices of our advertising partners are not directly covered by http://www.hdwallpapers.im privacy policy. We recommend that you read their policies. For your convenience we provide a list our advertising partners below. Unfortunately we cannot guarantee it is always comprehensive and up to date.
 
 > [\- Google AdSense](https://www.google.com/adsense/)
 
@@ -52,14 +52,14 @@ http://1hdwallpapers.com serves ads provided by a range of third-party advertisi
 
 ### Sharing/Selling of Data
 
-http://1hdwallpapers.com does NOT share or sell personally identifiable data to third parties such as direct marketers. We respect your privacy.
+http://www.hdwallpapers.im does NOT share or sell personally identifiable data to third parties such as direct marketers. We respect your privacy.
 
   
 
 
 ### Account Cancellation
 
-Upon request, your http://1hdwallpapers.com account can be canceled. Your user profile will no longer appear on the web site and your submissions will no longer be listed publicly for download. Any comments you have posted will still appear, but will not be linked to your profile. After cancellation, you will be not be available for log-in.
+Upon request, your http://www.hdwallpapers.im account can be canceled. Your user profile will no longer appear on the web site and your submissions will no longer be listed publicly for download. Any comments you have posted will still appear, but will not be linked to your profile. After cancellation, you will be not be available for log-in.
 
   
 
