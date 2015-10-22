@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobizill.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623062654id_/http%3A//www.mobizill.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobizill.com privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022071749id_/http%3A//www.mobizill.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Mobizill - Free Content For Your Mobile.
 
