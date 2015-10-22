@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the starbucks.in privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409022816id_/http%3A//www.starbucks.in/about-us/company-information/online-policies/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starbucks.in privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022165113id_/http%3A//www.starbucks.in/about-us/company-information/online-policies/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Starbucks Coffee Company
 
-Last updated 18 September 2012.
+Last updated 5 August 2015.
 
-This website is owned and operated by Tata Starbucks Limited which is an authorized licensee of Tata Global Beverages Limited (“TGBL”) and Starbucks Coffee Company. This Privacy Policy ("Policy") describes how Tata Starbucks Limited and its subsidiaries and affiliated companies (collectively referred to as the "Company") collects, uses and discloses personal information of customers through our websites and online services and other websites and online services that link to this policy (collectively, the “Sites”), through our programs and in our physical stores ("Services"). This Policy does not apply to websites and services that display or link to different privacy statements. Websites and services co-branded with other partners may display or link to a joint privacy statement or separate privacy statements of our partners in addition to our Policy.
+This website is owned and operated by Tata Starbucks Private Limited (formerly known as "Tata Starbucks Limited") which is an authorized licensee of Tata Global Beverages Limited (“TGBL”) and Starbucks Coffee Company. This Privacy Policy ("Policy") describes how Tata Starbucks Private Limited and its subsidiaries and affiliated companies (collectively referred to as the "Company") collects, uses and discloses personal information of customers through our websites and online services and other websites and online services that link to this policy (collectively, the “Sites”), through our programs and in our physical stores ("Services"). This Policy does not apply to websites and services that display or link to different privacy statements. Websites and services co-branded with other partners may display or link to a joint privacy statement or separate privacy statements of our partners in addition to our Policy.
 
 ### What Type of Information Does the Company Collect?
 
@@ -98,7 +98,7 @@ We welcome your questions, comments and concerns about privacy.
 
 Our Customer Relations can be contacted by phone at + 91 22 6529 6888, via email at [CustomerCare@tatastarbucks.com](mailto:CustomerCare@tatastarbucks.com), or by postal mail to: 
 
-Tata Starbucks Ltd.   
+Tata Starbucks Private Limited   
 Customer Care   
 1002(B), 10th Floor, Tower 2  
 Indiabulls Finance Center  
@@ -108,7 +108,7 @@ Mumbai - 400013
 
 In case of any grievances you can contact: 
 
-Tata Starbucks Ltd.   
+Tata Starbucks Private Limited   
 Customer Care   
 1002(B), 10th Floor, Tower 2  
 Indiabulls Finance Center  
