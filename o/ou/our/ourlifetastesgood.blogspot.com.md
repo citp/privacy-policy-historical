@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourlifetastesgood.blogspot.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407112210id_/http%3A//ourlifetastesgood.blogspot.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourlifetastesgood.blogspot.com privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022225721id_/http%3A//www.ourlifetastesgood.blogspot.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Life Tastes Good: Privacy Policy
 
