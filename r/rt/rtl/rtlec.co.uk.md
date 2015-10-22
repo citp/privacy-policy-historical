@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rtlec.co.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607175745id_/http%3A//rtlec.co.uk/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rtlec.co.uk privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022205820id_/http%3A//rtlec.co.uk/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | RTLEC
 
