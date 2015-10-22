@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the affinityclick.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314225932id_/http%3A//hushed.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affinityclick.com privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022231201id_/http%3A//hushed.com/about-us/privacy) for the most accurate reproduction.*
 
-# Hushed – Disposable and Temporary Phone numbers
+# Privacy | Hushed – Disposable and Temporary Phone numbers
 
 * * *
 
-Affinityclick Inc. (“Affinityclick”) operates several websites including affinityclick.com, Hushed.com. It is AffinityClick’s policy to respect your privacy regarding any information we may collect while operating our websites.
+Affinityclick Inc. (“Affinityclick”) operates several websites including affinityclick.com, Hushed.com. It is AffinityClick’s policy to respect your privacy regarding any information we may collect while operating our websites. 
 
 ### Website Visitors Hushed.com
 
