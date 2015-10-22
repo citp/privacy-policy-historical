@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tlvmedia.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065123id_/http%3A//www.tlvmedia.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tlvmedia.com privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022072004id_/http%3A//www.tlvmedia.com/privacy.php) for the most accurate reproduction.*
 
 # TLVMedia | Privacy
 
