@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the globalismedia.com privacy policy that was archived on 2015-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150528025338id_/http%3A//www.globalismedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalismedia.com privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022091716id_/http%3A//www.globalismedia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Globalis Media Inc.
+# Privacy Policy | Globalis Media | Cost-efficient online marketing solutions
 
 Ver. 12/1/2012
 
