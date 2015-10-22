@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ebaymainstreet.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616003028id_/http%3A//www.ebaymainstreet.com/privacy-and-cookie-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebaymainstreet.com privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022231056id_/http%3A//www.ebaymainstreet.com/privacy-and-cookie-notice) for the most accurate reproduction.*
 
-# Privacy and Cookie Notice | eBay Inc. Main Street
+# Privacy and Cookie Notice | eBay Main Street
 
 This notice was last updated January 31, 2014.
 
