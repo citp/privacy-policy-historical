@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourhormones.info privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609232626id_/http%3A//www.endocrinology.org/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourhormones.info privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024005805id_/http%3A//www.endocrinology.org/site/privacy.html) for the most accurate reproduction.*
 
 # Society for Endocrinology | Disclaimer
 
@@ -74,8 +74,29 @@ Unfortunately, no data transmission over the internet or any wireless network ca
 
 ### Cookies
 
-The Society’s website uses temporary cookies for initialising a session during any login process, but for your protection, they are removed from your machine when you leave our site. You do have the right to refuse or delete cookies; please refer to the instructions for your file management software to delete existing cookies or to your browser manufacturer's instructions to stop cookies being stored on your computer in the future. However, by deleting or disabling cookies you may not be able to access certain areas or features of the site.
+When you visit the Society for Endocrinology website, The Society for Endocrinology sends your computer a small file called a cookie, which we can access when you visit our site in future. The Society for Endocrinology collect this information to help our website run smoothly, and to analyse general trends in the way our users interact with the website (such as the most popular content) so that we can ensure the website meets the demands of our users.
 
+To analyse our cookie data, The Society for Endocrinology use a third party service provided by Google Inc called Google Analytics. Google Analytics does not associate your anonymous cookie data with any other identifiable data that Google may hold about you.
+
+Further details on cookies, and how to de-activate them, can be found at [www.aboutcookies.org](http://www.aboutcookies.org/).
+
+#### Cookies that might be used on this site
+
+Cookie | Purpose  
+---|---  
+__gads | Targeting/Advertising  
+__utma | Performance  
+__utmb | Performance  
+__utmc | Performance  
+__utmt | Performance  
+__utmz | Performance  
+.ASPXAUTH | User authentication  
+cb-enabled | Cookie preference  
+km_ni | Social media integration  
+.doubleclick.net | Targeting/Advertising  
+_atuvc | Social media integration  
+_atuvs | Social media integration  
+  
 ### Members’ security precautions 
 
 Your account information and profile are password-protected so that you are the only member who has access to this information. 
