@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the growershouse.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323003953id_/http%3A//growershouse.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the growershouse.com privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023053031id_/http%3A//growershouse.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -71,4 +71,12 @@ You may request details of personal information which we hold about you under th
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. 
 
-GrowersHouse.com uses Google AdWords for Conversion Tracking. No personal information is ever shared with Google, only that a purchase was made.
+GrowersHouse.com uses Google AdWords for Conversion Tracking. No personal information is ever shared with Google, only that a purchase was made. 
+
+**International Shipping Powered by**
+
+We have partnered with Bongo International to service our international customers.
+
+Checkout by clicking the “Outside the U.S.?” button or at checkout, choose your international destination from the country drop down menu. Once you click the button or select your country and attempt to checkout, you will be automatically transferred to [Bongo's Secure International Checkout](http://www.bongous.com/) page where you will be provided with international shipping costs as well as duties and taxes for your shipment.
+
+Upon completion of your order, Bongo will charge your credit card for the entire purchase. We will ship the goods to Bongo's Global Distribution Facility where Bongo will process the order and transport the goods to your international address. There are no additional fees or registration processes with this service.
