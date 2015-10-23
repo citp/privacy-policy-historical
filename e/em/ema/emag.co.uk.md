@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the emag.co.uk privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702180414id_/https%3A//emag.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emag.co.uk privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023082353id_/http%3A//emag.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Emag.co.ukEmag.co.uk
+# Privacy Policy - Entertainment News Magazine
 
 We take your privacy very seriously, and we are committed to maintaining the trust of our users. This Privacy Policy will help you understand what types of personal information we collect about you, and how we use it.
 
