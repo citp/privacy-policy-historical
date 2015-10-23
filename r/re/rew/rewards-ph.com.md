@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rewards-ph.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625111506id_/http%3A//www.rewards-ph.com/cgi-bin/global.pl%3Ftodo%3Dshow_page%26ident%3Ddatenschutz%26wingame_pk%3D41%26freetest_pk%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rewards-ph.com privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024000619id_/http%3A//www.rewards-ph.com/cgi-bin/global.pl%3Ftodo%3Dshow_page%26ident%3Ddatenschutz%26wingame_pk%3D41%26freetest_pk%3D1) for the most accurate reproduction.*
 
 # PRIVACY POLICY & DATA PROTECTION
 
@@ -8,9 +8,11 @@ This Privacy Policy is designed to assist you in understanding how we collect an
 
 ## 2\. What information do we collect?
 
-  * When you visit our website, you may be providing us with two types of information: 
-    * personal information you knowingly choose to disclose to us, e.g., your name, email addresses and mobile phone number which you provide to us during the registration process for the Skill Game; and
-    * website use information collected on an aggregate basis as you and others browse our website.
+When you visit our website, you may be providing us with two types of information:
+
+  * Personal information you knowingly choose to disclose to us, e.g., your name, email addresses and mobile phone number which you provide to us during the registration process for the Skill Game; and
+  * Website use information collected on an aggregate basis as you and others browse our website.
+  * We collect information about the pages you view, and the links you click, including advertisements, through common internet technologies such as cookies and web beacons, and your IP-address, which is a number that is automatically assigned to your computer when you use the Internet.
 
 
 
@@ -18,10 +20,10 @@ This Privacy Policy is designed to assist you in understanding how we collect an
 
 The personal information we collect from you may be used in one of the following ways:
 
-  * To promote and market products or services offered by us, our sponsors and our clients; e.g. online retail, financial products, media, communications products, consumer goods, market research, consulting services, sms services, entertainment.
+  * To promote and market products or services offered by us, our partners and our clients; e.g. online retail, financial products, media, communications products, consumer goods, market research, consulting services, sms services, entertainment.
   * To improve on our website;
   * To enable us to send periodic emails and/or newsletters, and to contact you via any media pertaining to updates and information on products or services offered by us, our sponsors and our clients;
-  * To enable our sponsors to contact you directly via any media, on their products and services; and
+  * To enable our partners to contact you directly via any media, on their products and services; and
   * To transfer, sell or assign such information to any entity to which we divest all or a portion of our business, or to such of our clients as we deem appropriate.
 
 
