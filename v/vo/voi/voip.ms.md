@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voip.ms privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316045733id_/https%3A//www.voip.ms/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voip.ms privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023145356id_/https%3A//voip.ms/privacy.php) for the most accurate reproduction.*
 
 # Voip.ms :: A-Z Termination | Privacy policy
 
