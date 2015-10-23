@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kanarygifts.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619215818id_/http%3A//kanarygifts.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kanarygifts.com privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023054350id_/http%3A//kanarygifts.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Most Trusted Online Luxury Store in Middle East
 
@@ -26,7 +26,7 @@ The information that you provide is also useful to :
 
 Depending on your consent to obtain information, we may contact you through email or phone with all the details and you always have the right to opt out any time of your selection.
 
-### **Third Parties**
+#### **Third Parties**
 
 We may also pass your name, phone and address to a third party to deliver the product to you (for instance to the courier company). Apart from this as mentioned in this Privacy Policy, we shall not reveal or sell your personal information to any third parties without your consent unless and until this is required for the purposes stated in this. Please understand that we are not accountable for the content or practices of those third parties, nor for any third party to whom we pass your information in their alignment with our Privacy Policy.
 
@@ -36,7 +36,7 @@ Your actual order details may be stored with us but for security reasons can be 
 
 You undertake to treat the personal access data confidentially and not make it available to unauthorized third parties. We cannot assume any liability for misuse of passwords unless this misuse is our fault.
 
-### **Cookies**
+#### **Cookies**
 
 We use cookies for your convenience. Cookies are small text files with which our server identifies your computer as a user when you browse through certain pages on the website.
 
@@ -44,7 +44,7 @@ Your internet browser stores these files on your hard drive, and we recognize th
 
 The preferred currency and website language are some of the details that our cookies track. We also store cookies with the purpose of mapping your interests with your geographical location, hence to be able to present a wide array of relevant options, which will make your shopping experience memorable. Acceptance of cookies is not a requirement to visit the website. However making an order is possible without the activation of cookies.
 
-### **Payment Security**
+#### **Payment Security**
 
 When our clients are interested to buy and register in our website, we collect their name, address, and phone information for shipping purpose only. We save their email address information to send the periodical newsletter if the customer is interested. We never save or have access to their payment information as they process through highly protected SSL gateways. We never share our client's information with any other third party organization.
 
