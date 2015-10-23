@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the indgovtjobs.in privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325214301id_/http%3A//www.indgovtjobs.in/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indgovtjobs.in privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023071756id_/http%3A//www.indgovtjobs.in/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+###  [Privacy Policy](http://www.indgovtjobs.in/p/privacy-policy.html)
 
 **We collect but do not link personal and activity data.**
 
@@ -29,8 +31,28 @@ Ad companies may use and collect anonymous data about your interests to customiz
 
 **You can ask privacy questions.**
 
-If you have any questions or concerns about our privacy policies, please contact us: [dineshktl@gmail.com ](mailto:dineshktl@gmail.com)
+If you have any questions or concerns about our privacy policies, please contact us: [admin@indgovtjobs.in](mailto:admin@indgovtjobs.in)
 
 **We take steps to protect personal information**
 
 We take reasonable steps to secure your personally identifiable information against unauthorized access or disclosure. We encrypt transmission of data on pages where you provide payment information. However, no security or encryption method can be guaranteed to protect information from hackers or human error. Information we collect may be stored or processed on computers located in any country where we do business. 
+
+  
+
+
+## Popular Govt Jobs this Week
+
+  * Indian National candidates / Students, who have holding 10th and 12th Qualification get Government Jobs recent recruitment notification. 10t...
+
+  * Railway Recruitment Boards (RRBs) offers Railway Jobs 2015-2016 List published in this page. RRBs calls eligible Indian Citizens through Emp...
+
+  * Indian Citizens who are looking for Latest Banking Jobs in Government public sector (Nationalized) banks, Govt undertaking Banks, Scheduled ...
+
+  * Engineering Graduates, who pursing final year or recently completed engineering degree holders get your discipline wise suitable Government ...
+
+  * Government Public Sector Unit (PSU) Navaratna Companies looking fresh and experienced Diploma Holders in various engineering fields: Electri...
+
+
+
+
+[ ](https://www.blogger.com/rearrange?blogID=7242213784467625673&widgetType=PopularPosts&widgetId=PopularPosts1&action=editWidget&sectionId=main "Edit")
