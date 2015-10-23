@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roceteer.com privacy policy that was archived on 2015-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150403014221id_/http%3A//www.roceteer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roceteer.com privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023043834id_/https%3A//roceteer.com/privacy) for the most accurate reproduction.*
 
 # ROCeteer - Privacy Policy
 
