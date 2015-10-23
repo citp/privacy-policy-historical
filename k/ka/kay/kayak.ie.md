@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kayak.ie privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612202208id_/http%3A//www.kayak.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kayak.ie privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023115324id_/https%3A//www.kayak.ie/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – KAYAK
 
@@ -6,7 +6,7 @@ _Effective as of May 14th, 2014_
 
 Information on Cookies
 
-This policy describes KAYAK’s practices regarding personally identifiable information and data (“personal information”). This policy applies to our websites, mobile applications, email and text messages, and social media accounts (the “Platforms”). When you use the Platforms, you agree to the terms in this policy.
+This policy describes KAYAK’s practices regarding personally identifiable information and data (“personal information”). This policy applies to our websites, mobile applications, email and text messages, and social media accounts (the “Platforms”). When you use the Platforms, you agree to the terms in this policy. 
 
 ### The categories of Personal Information we collect
 
