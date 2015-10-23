@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nxgx.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319093000id_/http%3A//www.nxgx.com/Info/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nxgx.com privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023075624id_/http%3A//www.nxgx.com/Info/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -37,6 +37,8 @@ We also use Your information for the obvious purpose of providing Your User prof
   10. How to Access or Modify Your Information 
     1. We may offer our Members the opportunity to access or modify information provided during registration. To access or modify such information, please refer to Your account settings page or the profile editing page.
   11. Where to Direct Questions About Our Privacy Policy 
-    1. If You have any questions about this Privacy Policy or the practices described herein, You may contact Us at support@nxgx.com.
+
+You may send your Notice of Claimed Infringement either to e-mail support@nxgx.com
+
 
 
