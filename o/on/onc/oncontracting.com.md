@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oncontracting.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321011514id_/http%3A//www.oncontracting.com/pg/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oncontracting.com privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023071641id_/http%3A//www.oncontracting.com/pg/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | OnContracting
+# 
 
 **PRIVACY POLICY**
 
@@ -18,7 +18,7 @@ The types of Personal Information collected may include your full name, website 
 
 In addition to the Personal Information mentioned, we may ask you to provide certain other information such as general demographic information, including age, gender, ZIP code, preferences, and interests.  The information we gather from our users enables us to personalize and improve the OnContracting Service.   
 
-We may receive and store any information you enter on the Website or provide to us in any other way.  The Personal Information you provide may be used for providing attribution to comments you post, to operate and improve the Website, and to better deliver the OnContracting Service.  
+We may receive and store any information you enter on the Website or provide to us in any other way.  The Personal Information you provide may be used to operate and improve the Website, and to better deliver the OnContracting Service.  
 
 If you do not want us to collect your personal information, please do not provide it to us.
 
