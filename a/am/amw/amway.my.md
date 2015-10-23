@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amway.my privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609235739id_/http%3A//www.amway.my/amway-support/policies-and-terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amway.my privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023060801id_/http%3A//www.amway.my/amway-support/policies-and-terms/privacy-policy) for the most accurate reproduction.*
 
 # AMWAY (MALAYSIA) SDN BHD PRIVACY POLICY
 
