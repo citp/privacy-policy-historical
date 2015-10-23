@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the footballguys.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407001821id_/http%3A//footballguys.com/fbgprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footballguys.com privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023122940id_/http%3A//footballguys.com/fbgprivacy.php) for the most accurate reproduction.*
 
-# Money Back Guarantee
+# Footballguys Privacy Policy
 
-Last Updated: 8/15/2009
+Last Updated: 4/20/2015
 
 Footballguys.com is dedicated to providing all the fantasy football information that you need to DOMINATE YOUR LEAGUE. We're constantly working on new features and tools to keep you, our subscribers, better informed. We also realize that privacy is a very important issue to our site visitors and subscribers. This Privacy Policy details what type of information we collect on our visitors and how it is used.
 
@@ -66,7 +66,7 @@ We collect the Personally Identifying Information listed below:
 
 **Email updates**
 
-  * Footballguys.com does not send unsolicited mail. We send news updates during the offseason to people who subscribe to our offseason mailing list. During the season, we send selected content and breaking news updates to our subscribers by email. If you do not wish to receive these messages, you can unsubscribe from the mailing list by clicking on the unsubscribe link in the email, by visiting [this page](http://www.footballguys.com/dailyemailunsubscribe.php), or by sending an email to [subscription@footballguys.com](mailto:subscription@footballguys.com?subject=Email%20Unsubscribe).
+  * Footballguys.com does not send unsolicited mail. We send news updates during the offseason to people who subscribe to our offseason mailing list. During the season, we send selected content and breaking news updates to our subscribers by email. If you do not wish to receive these messages, you can unsubscribe from the mailing list by clicking on the unsubscribe link in the email, by visiting [this page](http://www.footballguys.com/unsubscribe.php), or by sending an email to [subscription@footballguys.com](mailto:subscription@footballguys.com?subject=Email%20Unsubscribe).
   * We do not share the membership list of our mailing lists with anyone.
 
 
@@ -85,7 +85,7 @@ We collect the Personally Identifying Information listed below:
 
 **Privacy Policy Archive**
 
-  * [ Effective date: 3/21/2009](https://web.archive.org/web/20150407001821id_/http%3A//footballguys.com/fbgprivacy03212009.php)
+  * [ Effective date: 3/21/2009](https://web.archive.org/web/20151023122940id_/http%3A//footballguys.com/fbgprivacy03212009.php)
 
 
 
