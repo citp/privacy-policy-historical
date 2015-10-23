@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialmoms.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317063850id_/http%3A//www.socialmoms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialmoms.com privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023185611id_/http%3A//www.socialmoms.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SocialMoms Network - Where Influential Women Connect
 
