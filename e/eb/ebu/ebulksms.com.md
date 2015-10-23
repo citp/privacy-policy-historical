@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the ebulksms.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617184726id_/http%3A//www.ebulksms.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebulksms.com privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024005905id_/http%3A//www.ebulksms.com/pages/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy - Best Bulk SMS Platform in Nigeria
 
-EbulkSMS is committed to protecting the privacy and security of our customers and will like to certify that our users are fully informed about the way information is collected and used. The following sets forth the policies for the collection and use of personally identifiable information by EbulkSMS.
+Ebulk SMS is committed to protecting the privacy and security of our customers and will like to certify that our users are fully informed about the way information is collected and used. The following sets forth the policies for the collection and use of personally identifiable information by Ebulk SMS.
 
-EbulkSMS will not sell out your personal information for any reason, as we understand the need for your privacy
+Ebulk SMS will not sell out your personal information for any reason, as we understand the need for your privacy
 
-EbulkSMS may use certain non-affiliated third parties as service providers, and may share non-public personal information with them in order to fulfil the services requested. While we carefully select trusted and reputable third-party companies with which to partner, EbulkSMS is not responsible for the privacy practices of third-party partners or the privacy policies or content of third-party partner sites.
+Ebulk SMS may use certain non-affiliated third parties as service providers, and may share non-public personal information with them in order to fulfil the services requested. While we carefully select trusted and reputable third-party companies with which to partner, Ebulk SMS is not responsible for the privacy practices of third-party partners or the privacy policies or content of third-party partner sites.
 
   
 
