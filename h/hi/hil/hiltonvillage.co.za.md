@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hiltonvillage.co.za privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610093104id_/http%3A//www.hiltonvillage.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiltonvillage.co.za privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023045146id_/http%3A//hiltonvillage.co.za/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Hilton Village
+# Privacy Policy - HiltonVillage.co.za | HiltonVillage.co.za
 
 **What information do we collect?**  
 We collect information from you when you register on our site, (this enables you to place an advert on the notice board and submit an image to the gallery) or fill out the contact form.
