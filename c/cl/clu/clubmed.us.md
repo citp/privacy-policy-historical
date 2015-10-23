@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clubmed.us privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315031527id_/http%3A//www.clubmed.us/cm/privacy-policy_p-115-l-US-pa-CONFIDENTIALITE_115US-ac-ad.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubmed.us privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023062514id_/http%3A//www.clubmed.us/cm/privacy-policy_p-115-l-US-pa-CONFIDENTIALITE_115US-ac-ad.html) for the most accurate reproduction.*
 
-# 
+# Privacy Policies | ClubMed.us
 
 Club Méditerranée Group (“Club Med”) attaches great importance to protecting your personal data and closely ensuring compliance with protective provisions relating to privacy and processing personal data.
 
