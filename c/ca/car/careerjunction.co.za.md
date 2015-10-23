@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerjunction.co.za privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627175640id_/http%3A//www.careerjunction.co.za/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerjunction.co.za privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023153926id_/http%3A//www.careerjunction.co.za/content/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -80,7 +80,7 @@ Personal Details, including:
 
   * Full Name 
   * Date Of Birth 
-  * ID Number (Optional) 
+  * ID Number 
   * Affirmative Action CareerSeeker (African/Coloured/Indian/Disabled/Female) 
   * Phone Number 
   * Additional Phone Number (optional) 
