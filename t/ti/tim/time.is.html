@@ -1,0 +1,390 @@
+<!--The following is the downloaded HTML source of the time.is privacy policy that was archived on 2015-10-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151023084202id_/http%3A//time.is/terms_of_use%23privacy_policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>Terms of use / Privacy policy - Time.is</title>
+<script>
+var updint=1000,U="undefined",N=null,E=true,F=!E,O="object",S="string",D=document,A=0,fc={a:0},bfc=1,uT="Time.is ",sT,tD,pY=lY=10,cY=syncn=rsy=0,ztrans=1446357600000,newzo=-300,ss={"1023":"&uarr; 07:28AM &darr; 06:20PM (10h 52m)","1024":"&uarr; 07:29AM &darr; 06:19PM (10h 49m)"},destT=0,yrp="",csup=1,czo=0,rqT=0,syncT=0,syncquota=10,earliest_syncT=0,xR=1,syncm='',syncdt='',adH=110,mZ=64,ltr=1,ticks=0,state={chosen_loc:0,current_page:"Terms of use"};
+function _tD(M){sT=M;tD=new Date().getTime()-M-Math.round(lY/2);cY=lY-pY;if(cY<10)cY=10}
+_tD(1445589721559)
+function gob(e){if(typeof e==O)return e;if(D.getElementById)return D.getElementById(e);return eval(e)}
+function bluritem(e){e=gob(e);e.className=e.className.replace('focused','blr');bfc=1}
+function focusitem(e){bfc=0;e=gob(e);e.className=e.className.replace('blr','focused');e.className=e.className.replace('submitted','focused')}
+function mouseover(e){e.className=e.className.replace('mout','hovered')}
+function mouseout(e){e.className=e.className.replace('hovered','mout')}
+function setfocus(g){if(typeof fc[g]==U)fc[g]=1;else fc[g]++
+if(fc['a']!=0&&fc['a']!=g)losefocus(fc['a'])
+fc['a']=g;gob(g).className=gob(g).className.replace('hide','show');bfc=0}
+function losefocus(g){if(fc['a']!=g)fc[g]=0;else{fc[g]--;if(fc[g]<1){fc['a']=0;fc[g]=0;gob(g).className=gob(g).className.replace('show','hide');bfc=1}}}
+dmode=0
+function setcookie(n,v){var x=new Date();x.setDate(x.getDate()+365);D.cookie=n+'='+encodeURIComponent(v)+'; expires='+x.toGMTString()+'; path=/'
+if(D.cookie.length<1)csup=0}
+function httpSync(){
+nextSyncT=0
+array_name='main'
+xR=N
+gob('syncH').innerHTML=p_syncing;gob('syncDtl').innerHTML='&nbsp;';gob('msgs').className=gob('msgs').className.replace('hdn','vsbl')
+if(window.XMLHttpRequest)xR=new XMLHttpRequest()
+else if(window.ActiveXObject)xR=new ActiveXObject("Microsoft.XMLHTTP")
+if(xR!=N){
+rqT=new Date()
+czo=-rqT.getTimezoneOffset()
+xR.onreadystatechange=s_C
+xR.open('get','/t/?'+l+'.'+syncn+'.'+lY+'.'+tD+'.'+rsy+'p.'+czo+'.'+locs[array_name][conf['h']][1]+'.'+rqT.getTime()+'.'+sT+'.'+yrp,E)
+xR.send(N)
+yrp=''
+}else xR='N/A'
+}
+var Y=['','']
+function s_C(){
+var o,dots='...',sym=Y[0],syd=Y[1]
+if(xR.readyState==4){
+if(xR.status==200){
+var rpT=new Date(),n=rpT-rqT,r=xR.responseText.split("\n")
+sT=r[1]
+var prevST=syncT
+syncT=new Date()
+syncT.setTime(syncT.getTime()-tD)
+if(syncn===0||rsy||n<lY){if(r[0].length==13)r.unshift('ok');if(r.length<7||r[0]!=='ok'){
+if(r[0].substr(0,6)=='error:')p_failm=r[0].substr(6)
+else gob('msgs').className='w90 pulldowncv nonet'
+hideTO=setTimeout('sync_cleanup(0)',4000)
+}else{p_failm=p_fail
+if(rsy&&(syncT-prevST<60000)){syncquota--
+if(syncquota<0)earliest_syncT=new Date(syncT.getTime()+120000)
+}else if(earliest_syncT==0)syncquota=10
+}
+rsy=0
+lY=n
+_tD(r[1])
+
+Y=T_I.initClock()
+sym=Y[0]
+syd=Y[1]
+}
+nextSyncT=new Date()
+nextSyncT.setTime(nextSyncT.getTime()-tD+3600000)
+if(49<cY&&syncn<2){for(var i=0;i<syncn;i++)dots+='.'
+sym=p_syncing+dots
+syd=''
+syncn++
+httpSync()}
+else{o=gob('front_loc');if(o)o.style.visibility='visible'
+;o=gob('socbuttons');if(o)o.style.visibility='inherit'
+}
+if(syd=='')syd='&nbsp;'
+spdays={}
+for(i=5;i<r.length-1;i++)spdays[r[i].substr(0,4)]=r[i].substr(4,r[i].length)
+if(zone_id!=='UTC'){// zone_offset=r[2];zone_id=r[3]
+}
+}else{sym=p_conn_failed
+syd=xR.statusText
+if(syd!='')syd=' ('+syd+')'
+if(!A){if(xR.statusText!="")sym+=syd
+syd='<a href="javascript:T_I.check_again()">'+p_try_again+'</a>'
+}
+}
+gob('syncH').innerHTML=sym
+gob('syncDtl').innerHTML=syd
+setmsgH(0)
+}}
+function sg(q,sd){
+T_I.set_susdiv(sd);o=gob(sd)
+if((N!==q.match(/^Location \d+ \(optional\)$/))||q=='Enter location'||q=='Automatic')return ''
+q=q.replace(/ +$/,'').replace(/^ +/, '')
+if(q.length<4)q=q.toLowerCase()
+var n=sd.replace('susdiv','')
+if((typeof complocurls!=U)&&(typeof complocurls[n]!=U)&&(complocurls[n][0]==q))return ''
+if(typeof prevq[sd]!==U&&q==prevq[sd]||q==e_loc){o.className=o.className.replace('hide','show')
+return ''}
+if(q.length<1){o.innerHTML='';chosen_sus[sd]=0;prevq[sd]=q;current_q[sd]=q;return ''}
+prevq[sd]=q
+if(sus[q]){T_I.populate_sus(sd,q,1);return ''}
+var xh=N,xhp=[]
+if(window.XMLHttpRequest)xh=new XMLHttpRequest()
+else if(window.ActiveXObject)xh=new ActiveXObject('Microsoft.XMLHTTP')
+if(xh!=N){rqT=new Date()
+xh.onreadystatechange=function(){if(xh.readyState==4)if(xh.status==200){
+var xr=xh.responseText.split("\n"),st=xr.shift(),q1=xr.shift()
+for(var i in xr){
+if(i==='indexOf')break
+xr[i]=xr[i].split('	')
+}
+sus[q1]=xr
+if(typeof prevsustime[xhp['sd']]==U||prevsustime[xhp['sd']]<xhp['t']){prevsustime[xhp['sd']]=xhp['t'];T_I.populate_sus(xhp['sd'],xhp['q'],1)}}}
+xhp['sd']=sd
+xhp['t']=new Date()
+if(q=='.')q='.a'
+if(q=='..')q='.,'
+xhp['q']=q
+xh.open("get",'/s/'+l+'/'+q.length+'/'+encodeURIComponent(q.replace(/ /g,'_'))+'?'+xhp['t'].getTime(),E)
+xh.send(N)
+}else xh='N/A'
+}
+function arrows(sd,e){var k=e.which||e.keyCode
+if(k==40)T_I.cycle_sus(sd,1)
+else if(k==38)T_I.cycle_sus(sd,-1)
+else if(k==9||k==13)T_I.take_chosen(sd,k)
+else return E
+return F}
+function togglesimple(x){var g='',c=bod.className
+if(x!==0&&c.indexOf('simplify')!=-1){dmode=0;bod.className=c.replace('simplify','showall');x=1}
+else if(x!==1&&c.indexOf('showall')!=-1){dmode=1;bod.className=c.replace('showall','simplify');x=0;g='none'}else x=''
+if(x!==''){var gp=gob("___plusone_0");if(gp!=N)gp.style.display=g
+setsizes(1);T_I.tick('',0)}}var kacs={h:"/",j:"/just/Ashburn",s:"js:tl_a()",C:"/calendar"},kdown={k0:0,k17:0,k18:0}
+handle_keys=function(ev){
+if(!bfc)return E
+var e=ev||event
+var key=e.which||e.keyCode
+for(var k in kdown){
+if(k==='indexOf')break
+if(kdown[k]!=0){var d=new Date;if(kdown[k]<d.getUTCSeconds()-10)kdown[k]=0
+else return E}
+}
+if(typeof kacs[String.fromCharCode(key)]===S){
+var u=kacs[String.fromCharCode(key)]
+if(u.substr(0,3)=="js:")eval(u.substr(3))
+else {if(u.substr(0,5)=="http:")open(u,"_blank")
+else location=u
+}
+return F
+}
+if((96<key&&key<123)||(64<key&&key<91))t_search(1)
+return E
+}
+handle_arrow_keys=function(ev){
+if(fc["a"]==1)return E
+var e=ev||event
+var k=e.which||e.keyCode
+if(k==27){toggle_menu(0);t_search(0);return F}
+if(k==0||(15<k&&k<19)||k==91||k==93||k==224){var d=new Date;kdown["k"+k]=d.getUTCSeconds()}
+if(bfc&&36<k&&k<41&&typeof kacs[k]===S){
+var u=kacs[k]
+if(u.substr(0,3)=="js:")eval(u.substr(3))
+else location=u
+return F
+}
+return E
+}
+handle_keys_up=function(ev){
+var e=ev||event
+var k=e.which||e.keyCode
+if(k==0||(15<k&&k<19)||k==91||k==93||k==224)kdown["k"+k]=0
+}
+function toggle_more(){
+var t=gob('top'),cn='less'
+if(t.className=='less')cn='more'
+t.className=cn
+set_mw()
+}
+D.onkeypress=this.handle_keys
+D.onkeydown=this.handle_arrow_keys
+D.onkeyup=this.handle_keys_up
+</script>
+<meta name="description" content="Terms of use / Privacy policy">
+<meta property="og:image" content="http://static.time.is/img/shareable/time_is_110111.png"><meta name="viewport" content="user-scalable=0, initial-scale=1, maximum-scale=1, minimum-scale=1, target-densitydpi=device-dpi, width=device-width">
+<link rel="image_src" href="http://static.time.is/screenshots/Time.is_11.11.11_700x525.png"><link rel="icon" type="image/png" href="http://static.time.is/favicon.ico">
+<link rel="search" type="application/opensearchdescription+xml" title="Time.is" href="http://static.time.is/opensearch.xml">
+<style>
+*{margin:0;padding:0;border:0;outline:0}
+div,h1,h2,h3,label{clear:both}
+div,img,form{float:left}
+body{background:#fff}
+span a,.nw{white-space:nowrap}
+body,select,input,textarea{font:18px/26px 'Times New Roman',Times,FreeSerif,serif;color:#333;letter-spacing:2px}
+#twd,#twd1{font-family:'Times New Roman',Times,FreeSerif,serif}
+.divider{color:#ccc}
+.lsp{float:right;color:#333}
+.lsp ul{list-style:none;text-align:right}
+a:link,a:visited{color:#333;text-decoration:none;border-bottom:1px solid #ccc}
+
+h1,h2,#dd{font-size:36px;line-height:40px;font-weight:normal;letter-spacing:1px}
+.w90{margin-left:5%;width:90%}
+#c{padding-bottom:40px}
+#msgdiv{float:left;position:relative;z-index:8}
+div#msgs h1{margin-right:30px;float:left}
+.lg a:link,.lg a:visited{background:#c35;float:left;display:block;color:#fff;border:0;padding:20px;font:26px/20px 'Arial Black',Verdana-Bold,'HelveticaNeue-CondensedBlack','Avenir-Black','Arial-BoldMT',Arial,sans-serif;font-weight:900;letter-spacing:2px}
+.lg{z-index:9;position:relative}
+#pl{display:none}
+#clock0 div{font-weight:bold;cursor:pointer;clear:none;color:#000;white-space:nowrap}
+#twd{letter-spacing:0}
+
+#top{width:90%;margin:0 5%}
+#clock0_bg{width:100%}
+#clock0,#pL,#lC,#dd,#daydiv{text-align:right}
+#pL a:link,#pL a:visited,#pL1 a,#lC,#daydiv,#daydiv1{color:#333}
+
+#pL,#pL1{margin-bottom:20px}
+#favswindow{position:relative;xxheight:71px;width:100%}
+#favslider{width:2000px;position:absolute;right:0}
+#favs{width:100%;list-style:none;margin:0 0 10px 0;padding:0;float:right}
+#favs span{color:#999}
+.tbx div{clear:none;float:left;text-align:left;white-space:nowrap;font-size:18px;line-height:22px;font-style:normal;font-weight:normal;letter-spacing:2px}
+.tbx a{display:block;margin:0 0 10px 10px;padding:10px 20px;border:1px solid #eee;background:#eee;text-decoration:none}
+.txtin,.dateinput{background:#eee;border:1px solid #ddd;width:138px;padding:10px;color:#333}
+.mout{border-color:#eee}
+</style><link rel="stylesheet" href="http://static.time.is/t2.css?1"><script src="http://static.time.is/t9.js?2"></script>
+</head>
+<body id="bdy" onload="in_s()" class="factspage showall times bw "><div id="top">
+<div class="lg"><h2><a href="http://time.is/" target="_top" title="Time.is">Time.is</a></h2></div>
+<div class="icon-nav tr">
+<a href="#nav" onclick="return toggle_menu(1)" title="menu">
+<div style="margin-top:2px;width:100%;border-top:5px solid #aaa;padding:3px 0 2px 0;border-bottom:5px solid #aaa;margin-bottom:5px"></div>
+<div style="width:100%;border-top:5px solid #aaa;padding:2px 0;margin-bottom:4px"></div>
+</a>
+</div>
+<script>
+function t_search(x){
+var qb=gob('qbox'),qi=gob('q'),w=600
+if(x){
+scrollTo(0,0)
+qi.focus()
+if(ww<915)w=ww*.9-80
+if(qi.value.indexOf('')!=-1)qi.value=qi.value.replace('','');setfocus('susdiv');sg(qi.value,'susdiv');focusitem(qi);if(dmode)bod.className=bod.className.replace('simplify','showall');gob('qbox').className='fcs'
+}else{
+qi.blur()
+w=100
+if(ww<915)w=100
+if(ww<641||state.current_page=='Unix time')w=0
+if(qi.value==='')qi.value='';losefocus('susdiv');bluritem(qi);if(dmode)bod.className=bod.className.replace('showall','simplify');gob('qbox').className=''
+}
+qi.style.width=w+'px'
+}
+</script>
+<form id="qbox" class="tr" action="/" method="get" autocomplete="off" accept-charset="UTF-8" onsubmit="return T_I.submit(gob('q').value)">
+<input type="text" id="q" name="q" value="" tabindex="1" maxlength="100" accesskey="3" class="txtin blr mout" onfocus="t_search(1)" onblur="t_search(0)" onmouseover="mouseover(this)" onmouseout="mouseout(this)" onkeydown="arrows('susdiv',event)" onkeyup="sg(this.value,'susdiv')">
+<div id="susdiv" class="susdiv" onmouseover="setfocus('susdiv')" onmouseout="losefocus('susdiv')"></div>
+</form>
+</div>
+<div id="cvwr" class="w90"><h1>Terms of use</h1><p>Time.is is made for humans. Automatic refresh and any usage from within scripts and apps is forbidden. If you need time synchronization for your app, please <a href="/contact">contact us about our API</a>.</p><h1 id="privacy_policy">Privacy policy</h1><p>Time.is collects information about visitors for statistical purposes. Only technical information is collected, no personal information.</p><p>Third parties may be placing and reading cookies in your browser, or using web beacons to collect information as a result of ad serving on Time.is.</p><div class="noprint tr faded" style="position:relative;float:left;;margin-left:-10px;">
+<div id="socbuttons" class="off" style="height:32px;margin-left:10px;"></div><div id="social_div" class="hide"></div>
+<div class="noprint tr" style="font-size:14px;float:left;margin:0 10px 10px 10px">Share this page!</div></div><div class="rad" style="float:left"><div id="ad_1" style="width:728px;height:90px">
+<noscript><iframe id="ad_1_9f6e36e4b5" name="ad_19f6e36e4b5" src="http://ax-d.pixfuture.net/w/1.0/afr?auid=538090345&cb=2933" frameborder="0" scrolling="no" width="728" height="90"><a href="http://ax-d.pixfuture.net/w/1.0/rc?cs=9f6e36e4b5&cb=2933" ><img src="http://ax-d.pixfuture.net/w/1.0/ai?auid=538090345&cs=9f6e36e4b5&cb=2933" border="0" alt=""></a></iframe></noscript></div>
+<script>
+var OX_ads=OX_ads||[]
+OX_ads.push({
+slot_id:"ad_1",
+auid:"538090345"
+})
+</script>
+<script src="http://ax-d.pixfuture.net/w/1.0/jstag"></script></div></div><div id="time_section" class="w1"><div id="msgs" class="tr w90 hide"><div id="msgdiv"><div id="syncH" style="float:left" class="hide">&nbsp;</div></div><div id="syncDtl" class="w1 hide">&nbsp;</div></div><div id="clock0_bg" class="factspage" ondblclick="t_s()"><div class="w90" style="width:95%">
+<div id="clock0" style="font-size:100px;line-height:83px"><div id="twd">04:42:01<span id="ampm" style="font-size:21px;line-height:21px">AM</span></div></div></div></div><noscript><h2 class="w90 error">The clock will update automatically if you turn on JavaScript in your browser.</h2></noscript><div id="dd" class="w90 tr" onclick="location='/calendar'" title="Click for calendar">Friday, October 23, 2015</div><div id="daydiv" class="w90 tr"><a href="http://www.moleday.org/">Mole Day</a></div><div id="lC" class="w90 tr"><span id="locw">Sun: <span id="sun" class="nw">↑ 07:28AM ↓ 06:20PM (10h 52m)</span></span><div class="lsp w90 tr"></div></div>
+</div>
+<script>
+bod=gob('bdy')
+var l='en',conf={d:'%l, %F %j, %Y',t:'h:i:sA',f:'t',c:'2',o:'',z:'1',a:'1',b:'51ea29.4e4185.28571f.2d99db.80265.1bb85e.1c3b23',w:'1',v:'20151023',h:0,i:'',Z:'1',m:'',u:''},locs={"favs":[],"main":[['4744870','161','Ashburn','Ashburn, Virginia, United States','Ashburn','39.04372','-77.48749','43,511','90']]},zones={'161':['America/New_York','EDT',[-240,1446357600,-300]]},
+susdest="/"
+zone_id="America/New_York"
+zone_offset=-240
+zone_code='161'
+p_time_diff="The difference from Time.is was %t (±%D). "
+p_time_diff_short="Diff: %t (±%D) "
+p_failh="The synchronization was unsuccessful. "
+p_fail="High accuracy could not be achieved because your connection or computer is slow or busy. "
+p_syncing="Synchronizing"
+p_conn_failed="Unable to connect with server."
+p_try_again="Try again?"
+p_no_match="No match"
+p_no_au="Sorry, sound requires a recent version of Firefox, Opera or Safari!"
+p_no_cookie_support="error_no_cookie_support"
+p_td="Today"
+e_loc="Enter location"
+
+days=["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"]
+daysh=["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]
+daysI=["S","M","T","W","T","F","S"]
+months=["January","February","March","April","May","June","July","August","September","October","November","December"]
+monthsh=["Jan.","Feb.","Mar.","Apr.","May","June","July","Aug.","Sept.","Oct.","Nov.","Dec."]
+p_exactt="Your time is exact!"
+p_t_is="The exact current time is:"
+p_w="week "
+p_wn="week %n"
+p_d="day"
+p_ds=" days"
+p_h=" hour"
+p_hs=" hours"
+p_m=" minute"
+p_ms=" minutes"
+p_s=" second"
+p_ss=" seconds"
+p_ss_short=" s"
+p_ur_late="Your clock is %t behind."
+p_ur_early="Your clock is %t ahead."
+p_acc="Accuracy of synchronization was ±%t."
+p_acc_short="Sync accuracy: ±%t"
+p_last_s="Last synchronization: %t"
+p_last_s_short="Last sync: %t"
+p_dec_sym="."
+p_and=" and "
+p_time_remaining="Time remaining: %t"
+p_time_since="Time since then: %t"
+
+p_now='now'
+p_yesterday='yesterday'
+p_tomorrow='tomorrow'
+p_today='today'
+p_in_n='in %n'
+p_ago='%n ago'
+p_In_x_days='In %n %days'
+p_x_days_ago='%n %days ago'
+p_x_days_before='[%n %days before] %other_date'
+p_x_days_after='[%n %days after] %other_date'
+
+p_today_date='[Today]: %d'
+units=[p_ss,p_ms,p_hs,p_ds],units_sing=[p_s,p_m,p_h,' '+p_d]
+
+p_enter_loc='Enter location'
+
+p_default_time_format='h:i:sA'
+p_date_formats=['%l, %F %j, %Y',
+'%l %d/%m/%y',
+'%l %d/%m/%y, %W',
+'%Y-%m-%d']
+
+
+spdays={'1023':'<a target="_blank" href="http://www.moleday.org/">Mole Day</a>','1024':'<a target="_blank" href="http://www.un.org/en/events/unday/">United Nations Day</a>'}
+bgim=""
+noctp=1;adheight=0;show_big_clock=0;beginning_of_time()
+onresize=function(){setsizes(2)}
+</script>
+<div id="menupositioner" class="tr">
+<div id="close-menu" class="close-btn" onclick="toggle_menu(0)">×</div>
+
+<nav id="nav">
+<div>
+<h3 style="letter-spacing:1px"><a href="/" class="logo">Time.is</a> <span class="slogan"><span>- </span>exact time for any time zone</span></h3>
+
+<div id="menulinks"><ul><li><a href="/">Exact time now</a></li><li><a href="/compare">Time here&amp;there</a></li><li><a href="/time_zones">Time zones</a></li><li><a href="/just">Just time</a></li><li><a href="/calendar">Calendar</a></li><li id="aub"><a href="javascript:tl_a()">Sound</a></li><li><a href="/customize">Customize</a></li></ul><ul><li><a href="/apps">Apps</a></li><li><a href="/widgets">Widgets</a></li><li><a href="/time_zone_news">Time zone news</a></li><li><a href="/mailing_list">Newsletter</a></li></ul><ul><li><a href="/UTC">UTC</a></li><li><a href="/Unix_time_now">Unix clock</a></li><li><a href="/Unix_time_converter">Unix time converter</a></li></ul><ul><li><a href="/about">About</a></li><li><a href="/contact">Contact</a></li></ul>
+</div>
+</div>
+
+<div id="follow_app">
+<div id="follow"><div>Follow us</div>
+<a href="https://www.facebook.com/exact.time.is" target="_blank" style="background:url('http://static.time.is/img/social_icons5.png') 224px 32px" onmouseover="Zpos(this,224,0)" onmouseout="Zpos(this,224,32)" title="Follow Time.is on Facebook">Facebook</a>
+<a href="https://twitter.com/Time_is" target="_blank" style="background:url('http://static.time.is/img/social_icons5.png') 192px 32px" onmouseover="Zpos(this,192,0)" onmouseout="Zpos(this,192,32)" title="Follow Time.is on Twitter">Twitter</a>
+<a href="https://plus.google.com/+timeis/posts" target="_blank" style="background:url('http://static.time.is/img/social_icons5.png') 160px 32px" onmouseover="Zpos(this,160,0)" onmouseout="Zpos(this,160,32)" title="Follow Time.is on Google+">Google+</a>
+</div>
+<div id="appbadge"><a href="https://itunes.apple.com/app/time.is-exact-time-for-any/id857189816?l=nb&amp;ls=1&amp;mt=8"><img src="http://static.time.is/img/Download_on_the_App_Store_Badge_US-UK_135x40.png" alt="Download on the App Store"></a></div>
+</div>
+
+<div class="action_buttons" style="margin-left:10px;font-style:italic;font-size:24px;line-height:30px">
+<a href="/contact?subject=What+more">What more do you want? :)</a>
+</div>
+</nav>
+
+<footer id="footer">
+<nav><ul class="hzlist" style="padding-bottom:0"><li class="first"><a href="/advertise">Advertise</a></li><li class="chosen last"><a href="/terms_of_use">Terms of use</a></li><li><a href="/terms_of_use#privacy_policy">Privacy policy</a></li></ul></nav>
+<div>Time.is displays exact, official atomic clock time for any time zone (more than 7 million locations) in 44 languages.<br>
+Automated access is prohibited. 
+Support for cookies and JavaScript is required.
+<br>
+Copyright © 2009-2015 <a href="http://digitz.no/">Digitz.no</a>.
+<span class="nw">All rights reserved.</span>
+</div>
+
+
+</footer>
+</div><script></script><script>
+var lang='en_US',glang='en',tweet='Time for Ashburn: ',like_url='/terms_of_use'
+function in_s(){init_s('right','http://time.is/terms_of_use','http%3A%2F%2Ftime.is%2Fterms_of_use','http%3A%2F%2Fstatic.time.is%2Fscreenshots%2FTime.is_11.11.11_700x525.png','Exact+time+for+any+place+on+earth%3A+http%3A%2F%2Ftime.is%2F','terms_of_use',' data-colorscheme="dark"','loading...','Your name','Your email address<br>(will not be shared)','Receiver\'s name','Receiver\'s e-mail address','Send message')}
+</script>
+</body></html>
