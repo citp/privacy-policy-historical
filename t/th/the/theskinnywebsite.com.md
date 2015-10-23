@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theskinnywebsite.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617011312id_/http%3A//theskinnywebsite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theskinnywebsite.com privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024002710id_/http%3A//theskinnywebsite.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Skinny Website
 
