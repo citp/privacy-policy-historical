@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forex-megadroid.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623152339id_/http%3A//forex-megadroid.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forex-megadroid.com privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023045222id_/http%3A//www.forex-megadroid.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Forex Megadroid
 
