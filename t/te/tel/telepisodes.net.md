@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telepisodes.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607201834id_/http%3A//www.telepisodes.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telepisodes.net privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023065052id_/http%3A//www.telepisodes.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Today - Telepisodes
 
