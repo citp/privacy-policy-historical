@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oshkosh.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626040707id_/http%3A//www.oshkosh.com/privacy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oshkosh.com privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023052217id_/http%3A//www.oshkosh.com/privacy/privacy-policy.html) for the most accurate reproduction.*
 
 # Carters.com | OshKoshBgosh.com Privacy Policy
 
