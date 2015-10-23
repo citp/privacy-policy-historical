@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sentral.com.au privacy policy that was archived on 2015-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150422042306id_/http%3A//www.sentral.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sentral.com.au privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023081045id_/http%3A//www.sentral.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
