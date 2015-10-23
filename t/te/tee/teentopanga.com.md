@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teentopanga.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407073458id_/http%3A//teentopanga.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teentopanga.com privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023073443id_/http%3A//teentopanga.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
