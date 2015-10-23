@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the layer.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315000119id_/https%3A//layer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the layer.com privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023091821id_/https%3A//layer.com/privacy) for the most accurate reproduction.*
 
 # Layer - Privacy
 
-Layer, Inc. (“Layer”) knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy practices (“Privacy Policy”). By using the Layer services, or visiting the Layer website at www.layer.com (collectively, the “Services”), you accept the practices outlined in this Privacy Policy. 
+Layer, Inc. (“Layer”) knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy practices (“Privacy Policy”). By using the Layer services, or visiting the Layer website at www.layer.com (collectively, the “Services”), you accept the practices outlined in this Privacy Policy.
 
 Layer complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Layer has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Layer’s certification, please visit [export.gov/safeharbor](http://export.gov/safeharbor/) or see our Safe Harbor Notice at [layer.com/safeharbor](https://layer.com/safeharbor).
 
@@ -14,9 +14,9 @@ This Privacy Policy covers Layer’s treatment of information that Layer gathers
 
 When you express an interest in obtaining additional information about the Services or registering to use the Services, Layer may collect certain contact information from you, such as name, organization name, address, email address, and phone number (collectively, "Contact Information"). When registering for the Services, you may be required to provide additional information that may include a credit card number or other banking or payment information ("Billing Information").
 
-As you navigate the Layer website, Layer may also collect information through the use of commonly-used information-gathering tools, such as cookies and Web beacons (“Site Information”). Site Information includes standard information from your Web browser (such as browser type and browser language), your Internet Protocol (“IP”) address, and the actions you take on the Site (such as the Web pages viewed and the links clicked). Your browser may offer you a “Do Not Track” option, which allows you to signal to operators of websites and web applications and services (including behavioral advertising services) that you do not wish such operators to track certain of your online activities over time and/or across different websites. Our Services do not support Do Not Track requests at this time, which means that we collect information about your online activity both while you are using the Services and after you leave our Services. 
+As you navigate the Layer website, Layer may also collect information through the use of commonly-used information-gathering tools, such as cookies and Web beacons (“Site Information”). Site Information includes standard information from your Web browser (such as browser type and browser language), your Internet Protocol (“IP”) address, and the actions you take on the Site (such as the Web pages viewed and the links clicked). Your browser may offer you a “Do Not Track” option, which allows you to signal to operators of websites and web applications and services (including behavioral advertising services) that you do not wish such operators to track certain of your online activities over time and/or across different websites. Our Services do not support Do Not Track requests at this time, which means that we collect information about your online activity both while you are using the Services and after you leave our Services.
 
-In connection with your use of the Services, Layer may collect information that is created or provided by you for such purposes (collectively, "Service Information"). This may include but is not limited to: (a) personal data, such as information you provide about other people such as contact information, phone number, email address, first and last names, and (b) usage data, such as messaging history, transaction dates, and read receipts. 
+In connection with your use of the Services, Layer may collect information that is created or provided by you for such purposes (collectively, "Service Information"). This may include but is not limited to: (a) personal data, such as information you provide about other people such as contact information, phone number, email address, first and last names, and (b) usage data, such as messaging history, transaction dates, and read receipts.
 
 Service Information may include information that is “Personally Identifiable Data,” meaning data which directly, or used in conjunction with other provided information, enables the identification of a specific individual.
 
@@ -32,9 +32,9 @@ We endeavor to protect the privacy of your account and other Personal Informatio
 
 ## How does layer use information?
 
-Layer only uses Site Information internally to monitor, further develop, and improve the Services. 
+Layer only uses Site Information internally to monitor, further develop, and improve the Services.
 
-Layer uses a third party credit card processing provider to manage credit card and ACH processing. This service provider is not permitted to store, retain, or use billing information except for the sole purpose of credit card processing and ACH on our behalf, and is subject to confidentiality obligations restricting the disclosure of information collected to other third parties. 
+Layer uses a third party credit card processing provider to manage credit card and ACH processing. This service provider is not permitted to store, retain, or use billing information except for the sole purpose of credit card processing and ACH on our behalf, and is subject to confidentiality obligations restricting the disclosure of information collected to other third parties.
 
 Layer uses Data to perform the services requested. For example, if you fill out a “Contact Me” Web form, Layer will use the information provided to contact you about your interest in the Services. You may opt-out of those communications by following the email opt-out instructions contained in each email.
 
@@ -54,11 +54,11 @@ _Business Transfers_ : In some cases, we may choose to buy or sell assets. In th
 
 _Protection of Layer and Others_ : We may release Data when we believe in good faith that release is necessary to comply with the law; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Layer, our employees, our users, or others. Law enforcement officials who believe that notification would jeopardize an investigation should obtain an appropriate court order or other appropriate process establishing that notice is prohibited. If your data request draws attention to an ongoing violation of our Services Agreement, we will take action to prevent further abuse, including actions that may notify the user that we are aware of their misconduct.
 
-_With Your Consent_ : Except as set forth above, you will be notified when your Data may be shared with third parties, and will be able to prevent the sharing of this information. 
+_With Your Consent_ : Except as set forth above, you will be notified when your Data may be shared with third parties, and will be able to prevent the sharing of this information.
 
 ## Conditions of use
 
-If you decide to access or use the Services, any possible dispute over privacy is subject to this Privacy Policy and our Services Agreement, including limitations on damages, arbitration of disputes, and application of California state law. 
+If you decide to access or use the Services, any possible dispute over privacy is subject to this Privacy Policy and our Services Agreement, including limitations on damages, arbitration of disputes, and application of California state law.
 
 ## Children
 
@@ -66,7 +66,7 @@ The Children’s Online Privacy Protection Act (“COPPA”) requires that onlin
 
 ## Corrections to information
 
-You may contact us in order to correct, amend or delete Contact Information or Billing Information you provided that is inaccurate. You may request such changes to your account by sending an e-mail to privacy@layer.com. 
+You may contact us in order to correct, amend or delete Contact Information or Billing Information you provided that is inaccurate. You may request such changes to your account by sending an e-mail to privacy@layer.com.
 
 ## Changes to this Privacy Policy
 
@@ -80,4 +80,4 @@ Effective Date: August 7, 2014
 
 Updated: October 10, 2014
 
-Layer, Inc. 470 Alabama Street, San Francisco CA 94110
+Layer, Inc. 650 Townsend Street, Suite 480, San Francisco, CA 94103
