@@ -1,24 +1,26 @@
-> *The following text is extracted and transformed from the mobooka.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625115845id_/http%3A//mobooka.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobooka.com privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023073018id_/http%3A//mobooka.com/privacy) for the most accurate reproduction.*
 
-# Performance Affiliate and Publisher Network - Internet Marketing - Mobooka
+# Privacy Policy | Performance Affiliate and Publisher Network - Internet Marketing - Mobooka
+
+## Privacy Policy of Mobooka, LLC
 
 Including all Related Websites Owned or Registered to Mobooka, LLC
 
-## Agreement to Access the Site:
+### Agreement to Access the Site:
 
 Mobooka, LLC, ("MOBOOKA"), a Florida Limited Liability Company is committed to protecting your privacy. This Privacy Policy explains the data collection and use practices of MOBOOKA and all related websites owned or registered to MOBOOKA. It does not apply to any third party websites, applications, products or services for which MOBOOKA is not responsible.
 
 By accessing this site, you are consenting to the information collection and use practices described in this policy as well as the Acceptable Use Policy and the site's Publisher Terms and Conditions and Advertiser Terms and Conditions. IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, THE ACCEPTABLE USE POLICY OR THE TERMS AND CONDITIONS PROVIDED ON THIS SITE, PLEASE DO NOT PROVIDE ANY INFORMATION TO MOBOOKA OR USE ANY OF THE SERVICES OR PRODUCTS OFFERED OR PROVIDED ON ANY OF THE WEBSITES REFERRED TO IN THIS PRIVACY POLICY.
 
-## Changes to Privacy Policy:
+### Changes to Privacy Policy:
 
 This Privacy Policy changes from time to time and changes are effective upon posting. It is your sole responsibility to periodically review this policy for updates and you are solely responsible to be aware of any changes to this and all posted policies on this website. MOBOOKA does not provide notices of any changes in any manner other than by posting the changes at this website.
 
-## Information Collection, Use, and Dissemination practices:
+### Information Collection, Use, and Dissemination practices:
 
 This policy applies to MOBOOKA's collection, use, storage and disclosure of information by MOBOOKA on its, (a) websites, including all its divisions, subsidiaries and related companies (collectively, the "Websites"), (b) on various third party websites, and (c) to MOBOOKA's other information collection, including the purchase of customer lists from third parties, or the use of customer lists from third parties. MOBOOKA is not responsible for the information collection or privacy practices of third party websites or applications.
 
-## 1\. Collection of Information.
+### 1\. Collection of Information.
 
 ### 1.1. User Direct Information:
 
@@ -48,7 +50,7 @@ MOBOOKA will never knowingly collect any personal information about children und
 
 MOBOOKA may, in certain instances, collect credit card numbers and related information when an individual places an order from MOBOOKA. When the credit card information is submitted to MOBOOKA , such information is encrypted and is protected with SSL encryption software. MOBOOKA will use the credit card information for purposes of processing and completing the purchase transaction, and the credit card information will be disclosed to third parties only as necessary to complete the purchase transaction.
 
-## 2\. Use of Individual Information.
+### 2\. Use of Individual Information.
 
 The following section describes how MOBOOKA uses personal information. The uses described in these sections may change at any time. MOBOOKA may also broaden its use of your personal information. MOBOOKA may also use your personal information to provide commercial promotional offers to individuals or entities through, among other things, email advertising, telephone marketing, direct mail marketing, banner advertising and package stuffers.
 
@@ -68,7 +70,7 @@ MOBOOKA uses your information to make and improve profiles of you and to track y
 
 MOBOOKA stores your information in a database on MOBOOKA s servers. Our servers have security measures (such as a firewall) in place to protect against the loss, misuse, and alteration of the information under MOBOOKA 's control. Notwithstanding such measures, MOBOOKA cannot guarantee that its security measures will prevent MOBOOKA computers from being illegally accessed, and your information from being stolen or altered.
 
-## 3\. Use of Personal Information.
+### 3\. Use of Personal Information.
 
 ### 3.1. Sale or Transfer to Third Parties:
 
@@ -100,7 +102,7 @@ You have access to your personal information collected. You may correct, amend, 
 
 MOBOOKA may also give advertising clients and email services providers' access to your email address to verify the origin of the personal information collected. 
 
-## 4\. Privacy Practices of Third Parties.
+### 4\. Privacy Practices of Third Parties.
 
 ### 4.1. Advertiser cookies and web beacons:
 
@@ -110,7 +112,7 @@ Advertising agencies, advertising networks, and other companies who place advert
 
 The websites and email messages sometimes contain hypertext links to the websites of third parties. MOBOOKA is not responsible for the privacy practices or the content of such other websites. Linked websites may contain links to websites maintained by third parties. Such links are provided for your convenience and reference only. MOBOOKA does not operate or control in any respect any information, software, products or services available on such third party websites. The inclusion of a link to a website does not imply any endorsement of the services or the site, its contents, or its sponsoring organization.
 
-## 5\. Unsubscribe Procedures.
+### 5\. Unsubscribe Procedures.
 
 If you wish to discontinue receiving email messages from MOBOOKA, you may:
 
@@ -125,4 +127,4 @@ MOBOOKA
 Suite 2010  
 Ocoee, FL 34761 
 
-For more information about protecting your privacy, you may wish to visit: [www.ftc.gov](http://www.ftc.gov/).
+For more information about protecting your privacy, you may wish to visit: [www.ftc.gov](http://mobooka.com/web/20140625115845/http://www.ftc.gov/).
