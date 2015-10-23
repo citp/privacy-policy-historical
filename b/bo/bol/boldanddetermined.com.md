@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the boldanddetermined.com privacy policy that was archived on 2015-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150412141131id_/http%3A//boldanddetermined.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boldanddetermined.com privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023020556id_/http%3A//boldanddetermined.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Bold and Determined
 
 ## What information do we collect?
 
