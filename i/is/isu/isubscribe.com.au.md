@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the isubscribe.com.au privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317042721id_/https%3A//www.isubscribe.com.au/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isubscribe.com.au privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023070250id_/https%3A//www.isubscribe.com.au/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy :: iSUBSCRiBE.com.au
 
 iSUBSCRiBE Pty Ltd is committed to protecting and maintaining your privacy. As part of normal daily operations we may collect your information. The following Privacy Policy describes the type of information iSUBSCRiBE may collect and what may happen to that information. iSUBSCRiBE may modify this Privacy Policy at any time.
 
-Any questions regarding this policy or enquiries regarding privacy should be sent to iSUBSCRiBE Pty Ltd Suite 17, 13 Hickson Road, Dawes Point NSW Australia 2000
+Any questions regarding this policy or enquiries regarding privacy should be sent to iSUBSCRiBE Pty Ltd Suite 405, 35 Lime Street, Sydney NSW Australia 2000
 
 **What type of information is collected by iSUBSCRiBE?**
 
@@ -55,4 +55,4 @@ If you think we have breached the Privacy Act or other applicable privacy laws, 
 
 **How to contact iSUBSCRiBE**
 
-If you would like to make an access request or wish to provide feedback about this policy, please contact iSUBSCRiBE by writing to the General Manager iSUBSCRiBE Pty Ltd, Suite 17, 13 Hickson Road, Dawes Point NSW Australia 2000 or via e-mail [privacy@isubscribe.com.au](mailto:privacy@isubscribe.com.au?subject=iSUBSCRiBE%20Privacy%20Policy)
+If you would like to make an access request or wish to provide feedback about this policy, please contact iSUBSCRiBE by writing to the General Manager iSUBSCRiBE Pty Ltd, Suite 405, 35 Lime Street, Sydney NSW Australia 2000 or via e-mail [privacy@isubscribe.com.au](mailto:privacy@isubscribe.com.au?subject=iSUBSCRiBE%20Privacy%20Policy)
