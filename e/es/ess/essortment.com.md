@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the essortment.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511054853id_/http%3A//www.essortment.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essortment.com privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023034104id_/http%3A//www.essortment.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Essortment
 
