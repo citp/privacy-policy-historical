@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the mbs.ac.uk privacy policy that was archived on 2014-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141105062806id_/http%3A//www.mbs.ac.uk/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbs.ac.uk privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023122119id_/http%3A//www.mbs.ac.uk/help/privacy) for the most accurate reproduction.*
 
-# Our privacy policy and what it means when using our site | MBS
+# Our privacy policy and what it means when using our site | Alliance MBS
 
 ###   
 How we use your information
 
-This privacy notice tells you what to expect when Manchester Business School collects personal information. It applies to information we collect about:
+This privacy notice tells you what to expect when Alliance Manchester Business School collects personal information. It applies to information we collect about:
 
   * Visitors to our websites 
   * Visitors who use our services, e.g. who subscribe to our newsletter or request a brochure from us.
@@ -24,9 +24,9 @@ The search engine on our website is designed to be as powerful and easy to use a
 
 ### Complaints or queries
 
-MBS tries to meet the highest standards when collecting and using personal information. For this reason, we take any complaints we receive about this very seriously. We encourage people to bring it to our attention if they think that our collection or use of information is unfair, misleading or inappropriate. We would also welcome any suggestions for improving our procedures.
+Alliance MBS tries to meet the highest standards when collecting and using personal information. For this reason, we take any complaints we receive about this very seriously. We encourage people to bring it to our attention if they think that our collection or use of information is unfair, misleading or inappropriate. We would also welcome any suggestions for improving our procedures.
 
-This privacy notice was drafted with brevity and clarity in mind. It does not provide exhaustive detail of all aspects of MBS's collection and use of personal information. However, we are happy to provide any additional information or explanation needed. Any requests for this should be sent to the address below.
+This privacy notice was drafted with brevity and clarity in mind. It does not provide exhaustive detail of all aspects of Alliance MBS's collection and use of personal information. However, we are happy to provide any additional information or explanation needed. Any requests for this should be sent to the address below.
 
 ### Links to other websites
 
@@ -37,7 +37,7 @@ This privacy notice does not cover the links within this site linking to other w
 Requests for information about our policies can be emailed to The University of Manchester or by writing to:
 
 Data Guardian  
-Manchester Business School  
+Alliance Manchester Business School  
 Booth Street West  
 Manchester  
 M15 6PB, UK
@@ -46,9 +46,9 @@ M15 6PB, UK
 
 By using this web site, you are agreeing to comply and be bound by the following terms of service and use. Please review the following terms in their entirety and ensure their comprehension before using and viewing this web site.
 
-The terms "us", "we", "our", or "owners" refers to Manchester Business School and administrative operators of the web sites using the mbs.ac.uk domain. "You" refers to the user or viewer of these web sites.
+The terms "us", "we", "our", or "owners" refers to Alliance Manchester Business School and administrative operators of the web sites using the mbs.ac.uk domain. "You" refers to the user or viewer of these web sites.
 
-Manchester Business School (MBS) is a school within the Faculty of Humanities, which is a faculty of The University of Manchester. We are a Royal Charter corporation registered in England and Wales under number RC000797 and an exempt charity with our registered office at Oxford Road, Manchester, M13 9PL.   
+Alliance Manchester Business School (Alliance MBS) is a school within the Faculty of Humanities, which is a faculty of The University of Manchester. We are a Royal Charter corporation registered in England and Wales under number RC000797 and an exempt charity with our registered office at Oxford Road, Manchester, M13 9PL.   
 Our VAT number is GB 849 7389 56.
 
-One of our departments within MBS is responsible for international higher education and as such is registered as Manchester Business School WorldWide Limited, Company No. 04666867. This is also registered in England and Wales at Oxford Road, Manchester, M13 9PL. This department is also referred to as our Global MBA programme. 
+One of our departments within Alliance MBS is responsible for international higher education and as such is registered as Alliance Manchester Business School WorldWide Limited, Company No. 04666867. This is also registered in England and Wales at Oxford Road, Manchester, M13 9PL. This department is also referred to as our Global MBA programme. 
