@@ -1,9 +1,77 @@
-> *The following text is extracted and transformed from the squishycash.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144822id_/http%3A//squishycash.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squishycash.com privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024091959id_/http%3A//squishycash.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Squishy Cash - privacy_policy
 
+You do not have any stats because you have either not logged in or have not registered yet.
+
+[](https://web.archive.org/members/register.php)
+
+or
+
+[](https://web.archive.org/members/login.php)
+
+##  ↓ Earn ↓ 
+
+### Squishy Offers
+
+[](https://web.archive.org/members/signupPTS.php)
+
+[](https://web.archive.org/members/signupPTS.php?cid=-2)
+
+[](https://web.archive.org/members/signupPTS.php?cid=460)
+
+[](https://web.archive.org/members/signupPTS.php?cid=527)
+
+[](https://web.archive.org/members/signupPTS.php?cid=56)
+
+[](https://web.archive.org/members/signupPTS.php?cid=48)
+
+### Clicks
+
+[](https://web.archive.org/members/signupPTS.php?cid=528)
+
+[](https://web.archive.org/members/clickPTC.php)
+
+### Offer Walls
+
+[](https://web.archive.org/paymentwall)
+
+[](https://web.archive.org/adworkmedia)
+
+[](https://web.archive.org/offertoro)
+
+[](https://web.archive.org/trialpay)
+
+[](https://web.archive.org/radiumone)
+
+[](https://web.archive.org/superrewards)
+
+[](https://web.archive.org/wallads)
+
+[](https://web.archive.org/matomy)
+
+### Survey Wall
+
+[](https://web.archive.org/surveyswall)
+
+### Radio
+
+[](https://web.archive.org/RadioLoyalty)
+
+##  ↓ Redeem ↓ 
+
+### Cash
+
+[](http://squishycash.com/members/withdraw.php)
+
+### Prizes
+
+[](http://squishycash.com/members/points/index.php)
+
+| 
+
   
-[](http://squishycash.com/banner/bannerClick.php?bid=209)  
+[](http://squishycash.com/banner/bannerClick.php?bid=69)  
 [Advertise Here](https://web.archive.org/banner/index.php)
 
 Privacy Policy
@@ -25,3 +93,155 @@ We will not sell, disclose or lease our member's personal information to any oth
 
 Changes to this Policy  
 Please note this Privacy Policy will change from time to time. We expect most such changes to be minor, but there may be changes that are more significant. Regardless, members will be informed of all changes via a message to their squishycash.com inbox.
+
+| 
+
+[](https://web.archive.org/forumpaymentproofs)
+
+[](https://web.archive.org/HowitWorks)
+
+You must be logged in to post messages.
+
+[](https://web.archive.org/slots)
+
+-10/23 Congrats to the winners of Thursday's promotions!
+
+  
+
+
+-10/23 Earn $3, Win $1 on Friday!
+
+  
+
+
+-10/22 Congrats to the winners of Wednesday's promotions!
+
+  
+
+
+-10/22 The 1-Day Offer Walls Completion Contest for Thursday!
+
+  
+
+
+-10/21 Congrats to the winners of Tuesday's Daily Cash Earnings Bonus!
+
+  
+
+
+-10/21 The Survey Promotion for Wednesday!
+
+  
+
+
+-10/20 Congrats to the winners of Monday's promotions!
+
+  
+
+
+-10/20 Earn $5, Win $2 on Tuesday!
+
+  
+
+
+-10/19 Congrats to the winners of Sunday's promotions!
+
+  
+
+
+-10/19 Do 5 Surveys, Win $1 on Monday!
+
+  
+
+
+##  ↓ Advertise ↓ 
+
+[](https://web.archive.org/members/buyPTC.php)  
+[](https://web.archive.org/banner/index.php)  
+[](https://web.archive.org/members/statsPTC.php) [](https://web.archive.org/members/statsBanner.php)
+
+[SaySoForGood (US, CA, AU, UK, DE, FR, ES, IT, MX, JP, CN, BR, AR) - Complete a survey. You can do...](http://squishycash.com/members/signupPTS.php?search=15635&by=ptsID)
+
+  
+
+
+[SaySoForGood (US, CA, AU, UK, DE, FR, ES, IT, MX, JP, CN, BR, AR) - Complete a survey. You can do...](http://squishycash.com/members/signupPTS.php?search=15635&by=ptsID)
+
+  
+  
+  
+  
+  
+  
+  
+
+
+[SaySoForGood (US, CA, AU, UK, DE, FR, ES, IT, MX, JP, CN, BR, AR) - Complete a survey. You can do...](http://squishycash.com/members/signupPTS.php?search=15635&by=ptsID)
+
+  
+
+
+[SaySoForGood (US, CA, AU, UK, DE, FR, ES, IT, MX, JP, CN, BR, AR) - Complete a survey. You can do...](http://squishycash.com/members/signupPTS.php?search=15635&by=ptsID)
+
+  
+
+
+[SaySoForGood (US, CA, AU, UK, DE, FR, ES, IT, MX, JP, CN, BR, AR) - Complete a survey. You can do...](http://squishycash.com/members/signupPTS.php?search=15635&by=ptsID)
+
+  
+
+
+[SaySoForGood (US, CA, AU, UK, DE, FR, ES, IT, MX, JP, CN, BR, AR) - Complete a survey. You can do...](http://squishycash.com/members/signupPTS.php?search=15635&by=ptsID)
+
+  
+
+
+[SaySoForGood (US, CA, AU, UK, DE, FR, ES, IT, MX, JP, CN, BR, AR) - Complete a survey. You can do...](http://squishycash.com/members/signupPTS.php?search=15635&by=ptsID)
+
+  
+  
+  
+  
+  
+  
+  
+
+
+[SaySoForGood (US, CA, AU, UK, DE, FR, ES, IT, MX, JP, CN, BR, AR) - Complete a survey. You can do...](http://squishycash.com/members/signupPTS.php?search=15635&by=ptsID)
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+  
+[](https://web.archive.org/members/ticket.php)  
+  
+---|---|---
