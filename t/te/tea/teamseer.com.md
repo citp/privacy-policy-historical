@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teamseer.com privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409014819id_/http%3A//www.teamseer.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamseer.com privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024063826id_/http%3A//www.teamseer.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# TeamSeer - Award-Winning Holiday & Absence Management
+# aCloud TeamSeer privacy policy
 
 **By using this website you accept the terms of this privacy statement, the copyright statement and the terms and conditions on this website.**
 
