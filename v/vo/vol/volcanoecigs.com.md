@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the volcanoecigs.com privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419201548id_/http%3A//www.volcanoecigs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volcanoecigs.com privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024222533id_/http%3A//www.volcanoecigs.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - VOLCANO e-Cigs
+
+## Privacy Policy
 
 Volcanoecigs.com understands that your privacy while using our Site is important, especially when conducting business or providing sensitive personal information. This Notice will govern our Privacy Policy for users of this Site, whether or not a transaction of any sort is conducted while visiting.
 
@@ -26,7 +28,13 @@ All of our employees and partners are familiar with our security policy and prac
 
 ### Are Children Allowed to Use Volcanoecigs.com?
 
-No! Our products are only sold to adult smokers, 18 years or older. Volcanoecigs.com does not intentionally collect or solicit personal information from or about children or anyone under the age of 18. If we discover we have received any information from an individual under the age of 18 and in violation of this Policy, we will delete that information immediately. If you believe Volcanoecigs.com has any information from or about anyone under the age of 18, please [contact us](http://www.volcanoecigs.com/index.php/contacts%3Econtact%20us%3C/a%3E.%3C/p%3E%20%20%3Ch3%3EConditions%20of%20Use,%20Notices,%20and%20Revisions%20%3C/h3%3E%20%3Cp%3EIf%20you%20choose%20to%20visit%20Volcanoecigs.com,%20your%20visit%20and%20any%20dispute%20over%20privacy%20is%20subject%20to%20this%20Notice%20and%20our%20Conditions%20of%20Use,%20including%20limitations%20on%20damages,%20arbitration%20of%20disputes,%20and%20application%20of%20the%20laws%20of%20the%20State%20of%20Hawaii.%20If%20you%20have%20any%20concern%20about%20privacy%20at%20Volcanoecigs.com,%20please%20%3Ca%20href=) with a thorough description, and we will try to resolve it.
+No! Our products are only sold to adult smokers, 18 years or older. Volcanoecigs.com does not intentionally collect or solicit personal information from or about children or anyone under the age of 18. If we discover we have received any information from an individual under the age of 18 and in violation of this Policy, we will delete that information immediately. If you believe Volcanoecigs.com has any information from or about anyone under the age of 18, please contact us
+
+. 
+
+### Conditions of Use, Notices, and Revisions 
+
+If you choose to visit Volcanoecigs.com, your visit and any dispute over privacy is subject to this Notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the laws of the State of Hawaii. If you have any concern about privacy at Volcanoecigs.com, please contact us with a thorough description, and we will try to resolve it.
 
 ### Privacy Policy Changes
 
