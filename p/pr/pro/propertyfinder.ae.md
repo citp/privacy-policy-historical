@@ -1,16 +1,8 @@
-> *The following text is extracted and transformed from the propertyfinder.ae privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318215311id_/https%3A//www.propertyfinder.ae/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyfinder.ae privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024054636id_/https%3A//www.propertyfinder.ae/en/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | propertyfinder.ae
 
-  * Buy
-  * Rent
-  * Commercial
-  * [New projectsnew](http://newprojects.propertyfinder.ae/)
-  * Agents
-
-
-
-Dubai Sports City
+Al Quoz 
 
 **Our commitment to you**
 
