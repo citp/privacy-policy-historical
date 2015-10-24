@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cloudability.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325051149id_/https%3A//cloudability.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudability.com privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024165420id_/http%3A//www.cloudability.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Cloudability
-
-This Privacy Policy describes how we collect, use, disclose, transfer and store your information at Cloudability.
 
 ## Collection and Use of Personal Information
 
