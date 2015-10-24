@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petcha.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607233049id_/http%3A//petcha.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petcha.com privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024084057id_/http%3A//petcha.com/privacy_policy) for the most accurate reproduction.*
 
 # Petcha
 
