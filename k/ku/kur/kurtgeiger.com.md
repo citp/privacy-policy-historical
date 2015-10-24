@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kurtgeiger.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621205535id_/http%3A//www.kurtgeiger.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kurtgeiger.com privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024051624id_/http%3A//www.kurtgeiger.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Cookies & Privacy | Kurt Geiger
 
@@ -14,6 +14,7 @@ Kurt Geiger Limited ("we" and "us") is committed to protecting your privacy. Thi
   * Processing your payment.
   * Maintaining information as a reference tool or general resource.
   * Carrying out market research campaigns.
+  * Additionally we use this information to contact you via email, post, SMS and phone.
 
 
 
@@ -49,22 +50,39 @@ First party cookies are displayed in the below table.
 
 Cookie name | Cookie expiry | Cookie purpose  
 ---|---|---  
-KG_USER_LOCATION | Browser closed | With the launch of our American Kurt Geiger website ([us.kurtgeiger.com](http://us.kurtgeiger.com/)), this cookie helps to remember where in the world a user is visiting our website from. If a customer would prefer to shop from our American website, the cookie remembers that as well.  
-nowelcomepopup | 24 hours | With the launch of our Kurt Geiger Welcome program. This cookie is used to determine whether a visitor had been displayed with the welcome program popup windows previously.  
+nowelcomepopup | 47 Years | With the launch of our Kurt Geiger Welcome program. This cookie is used to determine whether a visitor had been displayed with the welcome program popup windows previously.  
 CATEGORY_INFO | Browser closed | When browsing any of our product listing pages, this cookie remembers what filtering was applied on previous page views, to enhance the browsing experience.  
 VIEWED_PRODUCT_IDS | Browser closed | This cookie remembers what products were viewed by the customer on previous page views, to enhance the browsing experience  
-CART | 24 hours | A unique id that is associated with a customer's shopping bag is kept in this cookie. This is basically so that our website has got access to this information at all times throughout a customer's visit.  
-CUSTOMER | 24 hours | Once a user is logged in, this cookie remembers a unique id associated with that customer's session, so that the website has got access to it at all times throughout the customer's visit.  
-CUSTOMER_INFO | 24 hours | Once a user is logged in, this cookie remembers a unique id associated with that customer's group that they have been placed in, so that the website has got access to it at all times throughout the customer's visit.  
+CART | 1 hour | A unique id that is associated with a customer's shopping bag is kept in this cookie. This is basically so that our website has got access to this information at all times throughout a customer's visit.  
+persistent_shopping_cart | Browser closed | This cookie remembers what products were added into your shopping basket, to enhance the browsing experience  
+CUSTOMER | 1 hour | Once a user is logged in, this cookie remembers a unique id associated with that customer's session, so that the website has got access to it at all times throughout the customer's visit.  
+CUSTOMER_INFO | 1 hour | Once a user is logged in, this cookie remembers a unique id associated with that customer's group that they have been placed in, so that the website has got access to it at all times throughout the customer's visit.  
+CUSTOMER_AUTH | 1 hour | This cookie remembers your login details to keep you logged in when returning to the site, to enhance the browsing experience  
 WISHLIST | 1 hour | This cookie remembers a unique id associated with a customer's wishlist, if the customer had created a wishlist during a particular visit. This is so that the website has got access to it at all times throughout the customer's visit.  
 WISHLIST_CNT | 1 hour | This cookie remembers a unique id associated with the amount of items in a customer's wishlist, if the customer had created a wishlist during a particular visit. This is so that the website has got access to it at all times throughout the customer's visit.  
-frontend | 24 hours | This cookie contains a unique id relating to a customer's session on our website. This allows the website to provide continuity between customer visits.  
-kurtgeiger_affiliate_ls | 2 years | When a customer visits our website from our Linkshare affiliate network, this cookie is used to identify which affiliate the customer found our website through.  
-kurtgeiger_affiliate_cj | 1 month | When a customer visits our website from our Commission Junction affiliate network, this cookie is used to identify which affiliate the customer found our website through.  
-__utma | 2 years | This cookie is used to enable the functionality provided by Google Analytics. This software allows us to analyse visitor information.  
-__utmb | 30 minutes | This cookie is used to enable the functionality provided by Google Analytics. This software allows us to analyse visitor information.  
-__utmc | Browser closed | This cookie is used to enable the functionality provided by Google Analytics. This software allows us to analyse visitor information.  
-__utmz | 6 months | This cookie is used to enable the functionality provided by Google Analytics. This software allows us to analyse visitor information.  
+frontend | 1 hour | This cookie contains a unique id relating to a customer's session on our website. This allows the website to provide continuity between customer visits.  
+COUNTRY_BANNER_HIDE | Browser closed | This cookie determines if you have already closed the sites switcher banner.  
+is_returning | 5 years | This cookie is used to remember if the customer has visited the site before and will note you as a returning visitor or new visitor.  
+CACHED_FRONT_FORM_KEY | Browser closed | This cookie ensures onsite forms are not submitted by someone outside of the website.  
+LAST_CATEGORY | Browser closed | This cookie is used to store the customers last visited category and notes the category id which was last viewed.  
+COUNTRY | 5 years | This cookie remembers which country the customer has selected from country selector to ensure the customer has an optimum shopping experience.  
+mp__utma | 2 years | This cookie is used to enable the functionality provided by Google Analytics. This software allows us to analyse visitor information.  
+mp__utmb | 30 minutes | This cookie is used to enable the functionality provided by Google Analytics. This software allows us to analyse visitor information.  
+mp__utmc | Browser closed | This cookie is used to enable the functionality provided by Google Analytics. This software allows us to analyse visitor information.  
+mp__utmz | 1 month | This cookie is used to enable the functionality provided by Google Analytics. This software allows us to analyse visitor information.  
+_ga | 2 years | This cookie is used to enable the functionality provided by Google Analytics. This software allows us to analyse visitor information  
+_gali | 1 minute | This cookie is used to enable the functionality provided by Google Analytics. This software allows us to analyse visitor information  
+_gat | 10 minutes | This cookie is used to enable the functionality provided by Google Analytics. This software allows us to analyse visitor informations  
+_gat_rollup | 10 minutes | This cookie is used to enable the functionality provided by Google Analytics. This software allows us to analyse visitor information  
+vee24.testCookie | Browser closed | This cookie is used to enable the online chat functionality and allows us to analyse the use of online chat.  
+v24s_kurtgeiger | Browser closed | This cookie is used to enable the online chat functionality and allows us to analyse the use of online chat  
+v24u_kurtgeiger | 10 years | This cookie is used to enable the online chat functionality and allows us to analyse the use of online chat  
+vee24.autoNudgeRules | Browser closed | This cookie is used to enable the online chat functionality and allows us to analyse the use of online chat  
+vee24.nudgeReceived.timeout | Browser closed | This cookie is used to enable the online chat functionality and allows us to analyse the use of online chat  
+vee24.nudgeReceived.timestamp | Browser closed | This cookie is used to enable the online chat functionality and allows us to analyse the use of online chat  
+vee24.numberOfNudgesShown | Browser closed | This cookie is used to enable the online chat functionality and allows us to analyse the use of online chat  
+vee24.testCookie | Browser closed | This cookie is used to enable the online chat functionality and allows us to analyse the use of online chat  
+vee24.userIsActive | Browser closed | This cookie is used to enable the online chat functionality and allows us to analyse the use of online chat  
   
 Third party cookies are displayed in the below table.
 
