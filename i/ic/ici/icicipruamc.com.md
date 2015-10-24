@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icicipruamc.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321111315id_/https%3A//www.icicipruamc.com/download/ICICI_Prudential_Privacy_Policy_July2014.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icicipruamc.com privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024031613id_/https%3A//www.icicipruamc.com/download/ICICI_Prudential_Privacy_Policy_July2014.pdf) for the most accurate reproduction.*
 
 # 
 
