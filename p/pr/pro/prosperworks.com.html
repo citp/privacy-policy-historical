@@ -1,17 +1,24 @@
-<!--The following is the downloaded HTML source of the prosperworks.com privacy policy that was archived on 2014-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140629225456id_/https%3A//www.prosperworks.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the prosperworks.com privacy policy that was archived on 2015-10-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151024084303id_/https%3A//www.prosperworks.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"c905f1d259","applicationID":"3784770","transactionName":"cAsKRUZaX1UGSx9YV1QFCG5QWlBMDlxeQEEcFBZYQlRQQA==","queueTime":24,"applicationTime":60,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js","extra":""}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQMHVF9TGwAHXFVVAAE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
-  <title>ProsperWorks</title>
+<script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://cdn.heapanalytics.com/js/heap-2075706212.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"512f134839","applicationID":"8638681","transactionName":"dFkPRRRdXQ5dQk5bBlBXDW4CXVIXVVUPQxAYRhNYEFNSGw==","queueTime":5,"applicationTime":17,"agent":"js-agent.newrelic.com/nr-768.min.js"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):void(r.q&&(r.q[e]||(r.q[e]=[]),r.q[e].push(n)))}var r=e("ee").create();n.exports=t,t.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=window,f=u.document;e(2);var s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
+  <script src="//cdn.optimizely.com/js/1518680074.js"></script>
 
+    <title>ProsperWorks</title>
+
+  <meta name="description" content="ProsperWorks is easy-to-use customer relationship management for small business. Capture your contacts and sales leads direct from Gmail with our simple CRM.">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="keywords" content="crm, sales, google apps, customer relationship management, sales pipeline, sales software, crm software, google apps crm">
   <link href="//fonts.googleapis.com/css?family=Open+Sans:100,200,300,400,500,600,700,800" rel="stylesheet" type="text/css">
-  <link href="//d3jas8421cca9z.cloudfront.net/assets/application-96350d46df2ed738e2c0ae6b27ec8248.css" media="all" rel="stylesheet" type="text/css">
-  <link href="//d3jas8421cca9z.cloudfront.net/assets/public-ff214544f7a5dc0fcacc05574477c036.css" media="all" rel="stylesheet" type="text/css">
-  <script src="//d3jas8421cca9z.cloudfront.net/assets/public-5fa3b0e8f2e48df5a20d0d18583e9ab8.js" type="text/javascript"></script>
+  <link href="//fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700,800" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.4.1/slick.css">
+  <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.4.1/slick-theme.css">
+  <link href="//d1oki86yop2pmf.cloudfront.net/assets/public_v2-de9c3beddf47c6c710f8a9de7b7b3dd5.css" media="all" rel="stylesheet" type="text/css">
+  <script src="//d1oki86yop2pmf.cloudfront.net/assets/public-864e9951ee4e5ab12fdd6491a7ca008e.js" type="text/javascript"></script>
   <meta content="authenticity_token" name="csrf-param">
-<meta content="R7Fi+ANmAp2eBj3fAxlR6QTxEB1DXMpOxu5e15gDTSU=" name="csrf-token">
+<meta content="8NN1vbJiBxhWi5vlrqEWoo6JxmjS9ih2gkm8B0JRCWs=" name="csrf-token">
   <!-- start Mixpanel --><script type="text/javascript">(function(f,b){if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");
 for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElement("script");a.type="text/javascript";a.async=!0;a.src="//cdn.mxpnl.com/libs/mixpanel-2.2.min.js";e=f.getElementsByTagName("script")[0];e.parentNode.insertBefore(a,e)}})(document,window.mixpanel||[]);
 mixpanel.init("da7187f1863d552dd80819befb41f922");</script><!-- end Mixpanel -->
@@ -29,47 +36,69 @@ ga('create', 'UA-47255589-1', 'www.prosperworks.com');  // Replace with your pro
 ga('send', 'pageview');
 </script>
 
+  <script type="text/javascript">
+  window.heap=window.heap||[],heap.load=function(t,e){window.heap.appid=t,window.heap.config=e;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src=("https:"===document.location.protocol?"https:":"http:")+"//cdn.heapanalytics.com/js/heap-"+t+".js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(a,n);for(var o=function(t){return function(){heap.push([t].concat(Array.prototype.slice.call(arguments,0)))}},p=["clearEventProperties","identify","setEventProperties","track","unsetEventProperty"],c=0;c<p.length;c++)heap[p[c]]=o(p[c])};
+  heap.load("2075706212");
+</script>
+
 <script type="text/javascript" async="" src="//cdn.mouseflow.com/projects/f1e6c873-1240-4cc5-a298-f8cab8b3bcd8.js"></script></head>
 
-<body id="public_layout">
+<body id="public_layout" class="with_header">
   
   <div class="layout_wrapper">
-    <div class="public_header">
-  <div class="public_content_container header_content">
-
-    <!-- Links To Entities START -->
-    <div class="public_header_main">
-      <a href="/" class="public_nav_logo"><img alt="Prosperworks_hires" src="//d3jas8421cca9z.cloudfront.net/assets/public/PROSPERWORKS_HIRES-fbb9de9aba503e9f6b6011a4abbef898.png"></a>
-      <a href="/home" class="public_nav_link ">Home</a>
-      <a href="/about" class="public_nav_link ">About Us</a>
-      <a href="http://www.prosperworks.com/blog" class="public_nav_link">Blog</a>
+      <div class="container pub_site_nav">
+  <div class="row gutters">
+    <div class="col span_8 nav_links">
+      <i class="md-menu"></i>
+      <a href="/" class="public_nav_logo web-logo"><img alt="Logo-icon-60px" src="//d1oki86yop2pmf.cloudfront.net/assets/public/logos/logo-icon-60px-ccb4c586c953f67ddd818d784de1b763.png"></a>
+      <a href="/" class="public_nav_logo mobile-logo"><img alt="Prosperworks_hires" src="//d1oki86yop2pmf.cloudfront.net/assets/public/PROSPERWORKS_HIRES-9f73d52950110853f2aec3aff61a4410.png"></a>
+      <div class="nav_links_toggle">
+        <a href="/features" class="features_link public_nav_link ">Features</a>
+        <a href="/pricing" class="pricing_link public_nav_link ">Pricing</a>
+        <a href="/customers" class="customers_link public_nav_link ">Customers</a>
+        <a href="https://app.prosperworks.com/users/sign_in" class="public_nav_link hidden_desktop visible_tablet" id="header_login_button">Login</a>
+        <a href="https://app.prosperworks.com/users/sign_up" class="public_nav_link hidden_desktop visible_tablet" id="header_signup_button">Free Trial</a>
+      </div>
     </div>
-    <div class="public_header_right">
-      <a href="/users/sign_in" class="basic_button big_button login_button" id="header_login_button">Login</a>
-      <a href="/users/sign_up" class="primary_button big_button" id="header_signup_button">Sign Up</a>
+    <div class="col span_4 login">
+      <a href="https://app.prosperworks.com/users/sign_in" class="btn ripple btn-blank-primary hidden_tablet header_login_button" id="header_login_button">Login</a>
+      <a href="https://app.prosperworks.com/users/sign_up" class="btn btn-primary hidden_tablet header_signup_button" id="header_signup_button">Free&nbsp;Trial</a>
     </div>
-    <div class="clear"></div>
   </div>
 </div>
 
-<div class="clear"></div>
 <script type="text/javascript">
   $(function() {
       mixpanel.track_links('#header_signup_button', 'Click', { page: 'legal_documents::privacy', object: 'signup_nav', hack: '::signup_nav' });
-      mixpanel.track_links('#header_login_button',  'Click', { page: 'legal_documents::privacy', object: 'login',      hack: '::login' });
       });
-</script>
-<!-- NAV END -->
 
+
+  $('.md-menu').click(function () {
+    $(".nav_links_toggle").toggleClass('nav_links_toggle_open');
+  });
+
+  //for entire page fadein
+  // $(document).ready(function(){
+  //     $('#layout_wrapper_id').fadeIn(800);
+  // });
+</script>
+
+<!-- NAV END -->
 	  <style>
   .legal * {
     font-size: 14px;
-    font-family: 'Open Sans', sans-serif;
     line-height: 21px;
   }
 
   strong {
     font-weight: 600;
+  }
+
+  .section_header {
+    display:block;
+    color: #57585a;
+    font-weight: 600; 
+    margin-top: 40px;
   }
 
   .huge_spacer {
@@ -88,96 +117,213 @@ ga('send', 'pageview');
     margin-bottom: 14px;
     color: #57585a;
   }
+
+  ul * {
+    color: #57585a;
+  }
 </style>
 
 
-<div class="container_16">
-  <div class="grid_16">
-    <div class="huge_spacer"></div>
-    <div class="section">
+<div class="container terms_container">
+  <div class="row">
+    <div class="col span_12">
       <div class="header_bar"><div class="header">Privacy Policy</div></div>
-      <div class="spacer"></div>
     </div>
   </div>
-  <div class="clear"></div>
   <div class="grid_16 legal">
-    <!-- START PAGE -->
-<p>
-     <strong>
-     ProsperWorks, Inc.<br>
-     Date of Last Revision: April 30, 2014
-     </strong>
-</p>
 
-<p><strong>Our Policy:</strong></p>
-<p>Welcome to the web site (the <strong>“Site”</strong>) of ProsperWorks, Inc. (“ProsperWorks”, “we”, “us” and/or “our”). This Site is operated by ProsperWorks and has been created to provide information about our company and our customer relationship management services and related technologies and related services (together with the Site, the <strong>“Services”</strong>) to our Service visitors (“you”, “your”). This Privacy Policy sets forth ProsperWorks’ policy with respect to information including personally identifiable data (<strong>“Personal Data”</strong>) and other information that is collected from visitors to the Site and Services.</p>
+    <p>
+      <strong>
+      ProsperWorks, Inc.<br>
+      Date of Last Revision: September 23, 2015
+      </strong>
+    </p>
 
-<p><strong>Information We Collect:</strong></p>
-<p>When you interact with us through the Services, we may collect Personal Data and other information from you, as further described below:</p>
-<p><strong>Personal Data That You Provide Through the Services:</strong> We collect Personal Data from you when you voluntarily provide such information, such as when you contact us with inquiries, respond to one of our surveys, register for access to the Services or use certain Services. Wherever ProsperWorks collects Personal Data we make an effort to provide a link to this Privacy Policy. </p>
-<p><strong>By voluntarily providing us with Personal Data, you are consenting to our use of it in accordance with this Privacy Policy. If you provide Personal Data to the Services, you acknowledge and agree that such Personal Data may be transferred from your current location to the offices and servers of ProsperWorks and the authorized third parties referred to herein located in the United States. </strong></p>
+    <!-- START DOC -->
 
-<p><strong>Other Information:</strong></p>
-<p><strong>Non-Identifiable Data:</strong> When you interact with ProsperWorks through the Services, we receive and store certain personally non-identifiable information. Such information, which is collected passively using various technologies, cannot presently be used to specifically identify you. ProsperWorks may store such information itself or such information may be included in databases owned and maintained by ProsperWorks affiliates, agents or service providers. The Services may use such information and pool it with other information to track, for example, the total number of visitors to our Site, the number of visitors to each page of our Site, and the domain names of our visitors' Internet service providers. It is important to note that no Personal Data is available or used in this process.  </p>
-<p>  In operating the Services, we may use a technology called "cookies." A cookie is a piece of information that the computer that hosts our Services gives to your browser when you access the Services. Our cookies help provide additional functionality to the Services and help us analyze Services usage more accurately. For instance, our Services may set a cookie on your browser that allows you to access the Services without needing to remember and then enter a password more than once during a visit to the Services. In all cases in which we use cookies, we will not collect Personal Data except with your permission. On most web browsers, you will find a “help” section on the toolbar. Please refer to this section for information on how to receive notification when you are receiving a new cookie and how to turn cookies off. We recommend that you leave cookies turned on because they allow you to take advantage of some of the Service features. </p>
-<p><strong>Aggregated Personal Data:</strong> In an ongoing effort to better understand and serve the users of the Services, ProsperWorks often conducts research on its customer demographics, interests and behavior based on the Personal Data and other information provided to us. This research may be compiled and analyzed on an aggregate basis, and ProsperWorks may share this aggregate data with its affiliates, agents and business partners. This aggregate information does not identify you personally. ProsperWorks may also disclose aggregated user statistics in order to describe our services to current and prospective business partners, and to other third parties for other lawful purposes.</p>
+    <div class="section_header">Our Policy:</div>
+    <p>Welcome to the web site (the “Site”) of ProsperWorks, Inc. (“ProsperWorks”, “we”, “us” and/or “our”). This Site is operated by ProsperWorks and has been created to provide information about our company and our customer relationship management services and related technologies and related services (together with the Site, the “Services”) to our Service visitors (“you”, “your”). This Privacy Policy sets forth ProsperWorks’ policy with respect to information including personally identifiable data (“Personal Data”) and other information that is collected from visitors to the Site and Services.  Your access to and use of the Services is subject to the ProsperWork’s Terms of Service at https://www.prosperworks.com/terms.  By providing us with Personal Data, you are consenting to our use of it in accordance with this Privacy Policy.</p> 
+    <div class="section_header">1.  Information We Collect:</div>
+    <ul>
+      <li>
+        <p><strong>Personal Data That You Provide Through the Services:</strong><br>
+        We collect Personal Data from you when you voluntarily provide such information to us.  You may provide us with Personal Data when you:</p>
+        <ul>
+          <li>Create accounts for Services,</li>
+          <li>Register for offers,</li>
+          <li>Provide billing and payment information,</li>
+          <li>Elect to receive marketing communications,</li>
+          <li>Complete a survey,</li>
+          <li>Receive customer support,</li>
+          <li>Purchase, download, or register to use the Services, or</li>
+          <li>Apply for a job.</li>
+        </ul>
+      </li> 
+      <li>
+        <p><strong>Information We Collect Through the Services</strong><br>
+          The Services that you purchase or register to use may connect and transmit system, application, or product data to ProsperWorks. This data may include, but is not limited to, operating system, system model, and IP address.</p>
+        <p>Furthermore, in the course of using the Services, you or someone else in your organization may provide us with information about your systems infrastructure and access to your systems infrastructure. In addition, ProsperWorks may discover this information by analyzing additional parts your systems infrastructure that you did not explicitly input into the product.</p>
+        <p>When you use the Services, we collect information about the pages you visit. Some web pages use cookies, web beacons and similar technologies to automatically collect information from you.  When you visit the Site, we may send one or more cookies (small text files containing a string of characters) to your computer to uniquely identify your browser. We may use “web beacons” (electronic images also known as pixel tags or clear gifs) to recognize a cookie on your computer when you view or act upon a web page, an advertisement that we’ve placed on a third-party web page or an email we’ve sent.  For a list of the cookies used by our Site, please review the cookie information at the end of, or linked from, this Privacy Policy.  We will use reasonable efforts to update the cookie list from time to time.</p>
+        <p>These cookies, web beacons and similar technologies enable us to collect certain types of information about your visit to our Site and use of the Services such as:</p>
+        <ul>
+          <li>Internet Protocol Address;</li>
+          <li>Browser type;</li>
+          <li>Browser language;</li>
+          <li>Operating system;</li>
+          <li>Referring site (site you visited before coming to the Site);</li>
+          <li>Date and time of visit;</li>
+          <li>URL of pages visited; and</li>
+          <li>Other browsing behavior, such as white papers downloaded.</li>
+        </ul>
+        <p>We may link this information to Personal Information to provide better service to you and to improve our product and services offerings. Most browsers allow you to remove and block cookies and web beacons. Please note that if you choose to erase or block cookies, you will need to re-enter your user ID and password to access certain parts of the Site. You may also notice that you will be served only generic information not tailored to your specific interests. In addition, if you block cookies, you may not be able to use certain Services features or take full advantage of the Services.</p>
+        <p>Many Internet browsers allow users to send a “Do Not Track” signal to websites they visit.  Currently, there is no consensus on the meaning of “Do Not Track” or similar signals, and the Services have no mechanism to respond to such a signal.</p>
+        <p></p>
+      </li>
+      <li>
+        <p><strong>Information We Collect From Other Sources</strong>
+          </p><p>We sometimes obtain information from other sources, such as mergers and acquisitions, data brokers, or commercial lists, and merge this with information we have previously collected.</p>
+          <p>If you give us Personal Data on behalf of someone else (or someone else gives us Personal Data on your behalf), the person providing the Personal Data must have consent to do so from the person whose information is being provided to ProsperWorks.  Some ProsperWorks events, websites or services may be co-branded and offered in conjunction with another company. For example, ProsperWorks might co-sponsor a webinar in conjunction with one of its partners and allow you to register for such webinar through the Site. If you provide Personal Data in these cases, both ProsperWorks and the other company(ies) may receive the information collected and use the information according to each company’s privacy policy and agreement with you.</p>
+        <p></p>
+      </li>
+    </ul>
+     
+    <div class="section_header">2.  How We Use Information We Collect</div>
+    <p>We use Personal Data to conduct business, provide information and support for products and services, better understand your needs and interests, refine and develop our business, improve services, personalize communications and ensure a quality experience for users of the Services. For example, we may use your information to:</p>
+    <ul>
+      <li>Communicate, interact and build our relationship with you;</li>
+      <li>Contact you with relevant promotions and information about ProsperWorks and affiliated third-parties;</li>
+      <li>Process, fulfill and follow up on transactions and requests for products, services, support, training and information;</li>
+      <li>Send you reminders about the expiration of your subscriptions (trial or paid) for Services;</li>
+      <li>Create and maintain an account and register Services;</li>
+      <li>Bill and accept payment from you for Services;</li>
+      <li>Engage in market research;</li>
+      <li>Measure, analyze and improve our products and services, the effectiveness of our Site or Services, and our advertising and marketing;</li>
+      <li>Notify you about updates to our blogs; </li>
+      <li>Monitor your use of the Services; </li>
+      <li>Tell you when updates and new product versions are available;</li>
+      <li>Personalize content and advertising;</li>
+      <li>Help identify and communicate offers of products, programs and services that may be of interest to you;</li>
+      <li>Send “refer-a-friend” email on your behalf with your consent;</li>
+      <li>Consider your employment application;</li>
+      <li>Comply with legal requirements; </li>
+      <li>Enforce our terms of service, and prevent fraud and other prohibited or illegal actives;</li>
+      <li>Provide agreed upon diagnostic, monitoring and management services; or</li>
+      <li>Better communicate with you.</li>
+    </ul>
+    <div class="section_header">3.  How We Share and Disclose Personal Data</div>
+    <p>We may share or disclose your Personal Data as follows:</p>
+    <ul>
+      <li>To corporate subsidiaries we own or control to support their business and marketing processes;</li>
+      <li>To our service providers and suppliers, who are acting and using your information on our behalf;</li>
+      <li>Based on a good faith belief that such disclosure is necessary to protect the rights or safety of any person or entity;</li>
+      <li>Based on a good-faith belief that disclosure is necessary to respond to judicial process, valid government inquiry, or is otherwise required by law;</li>
+      <li>In the event that ProsperWorks or any of its assets are acquired, your information may be transferred with the company or the asset;</li>
+      <li>To other third-parties for purposes to which you have allowed or consented; or</li>
+      <li>When posted by you or an authorized third-party to our wikis, forums, blogs, message boards, chat rooms and other social networking environments.</li>
+    </ul>
+    <p>In an ongoing effort to better understand and serve the users of the Services, ProsperWorks often conducts research on its customer demographics, interests and behavior based on the Personal Data and other information provided to us. This research may be compiled and analyzed on an aggregate basis, and ProsperWorks may share this aggregate data with its affiliates, agents and business partners. This aggregate information does not identify you personally. ProsperWorks may also disclose aggregated user statistics in order to describe our services to current and prospective business partners, and to other third parties for other lawful purposes.</p>
+    
+    <div class="section_header">4.  Your Choices Regarding Your Personal Data</div>
+    <p>To keep your Personal Data accurate, current, and complete, please contact us as specified below. We will take reasonable steps to update or correct Personal Data in our possession that you have previously submitted via the Services. </p>
+    <p>Please also feel free to contact us if you have any questions about ProsperWorks’ Privacy Policy or the information practices of the Services.</p>
+    <p>You may contact us as follows: <a href="mailto:support@prosperworks.com">support@prosperworks.com</a>.</p>
+    
+    <div class="section_header">5.  Children’s Privacy</div>
+    <p>Use of the Services is only available to individuals who are of legal age to contract in their applicable jurisdiction. The Services are not directed to children under 13 years of age. If our policy changes, we will obtain consent from a parent or guardian before we knowingly collect data from anyone under the age of 13.</p>
 
-<p><strong>Our Use of Your Personal Data and Other Information:</strong></p>
-<p>ProsperWorks uses the Personal Data you provide in a manner that is consistent with this Privacy Policy. If you provide Personal Data for a certain reason, we may use the Personal Data in connection with the reason for which it was provided. For instance, if you contact us by email, we will use the Personal Data you provide to answer your question or resolve your problem. Also, if you provide Personal Data in order to obtain access to the Services, we will use your Personal Data to provide you with access to such services and to monitor your use of such services. ProsperWorks and its subsidiaries and affiliates (the “ProsperWorks Related Companies”) may also use your Personal Data and other personally non-identifiable information collected through the Services to help us improve the content and functionality of the Services, to better understand our users and to improve the Services. ProsperWorks and its affiliates may use this information to contact you in the future to tell you about services we believe will be of interest to you. If we do so, each marketing communication we send you will contain instructions permitting you to "opt-out" of receiving future marketing communications.  In addition, if at any time you wish not to receive any future marketing communications or you wish to have your name deleted from our mailing lists, please contact us as indicated below.  </p>
-<p>If ProsperWorks intends on using any Personal Data in any manner that is not consistent with this Privacy Policy, you will be informed of such anticipated use prior to or at the time at which the Personal Data is collected.</p>
+    <div class="section_header">6.  Links to Other Web Sites:</div>
+    <p>This Privacy Policy applies only to the Services. The Services may contain links to other web sites not operated or controlled by ProsperWorks (the “Third Party Sites”). The policies and procedures we described here do not apply to the Third Party Sites. The links from the Services do not imply that ProsperWorks endorses or has reviewed the Third Party Sites. We suggest contacting those sites directly for information on their privacy policies.</p>
+    
+    <div class="section_header">7.  Security</div>
+    <p>You acknowledge and agree that no Internet or email transmission is ever fully secure or error free. You agree to take special care in deciding what information you send to us via email. </p>
+    
+    <div class="section_header">8.  Changes to ProsperWorks’ Privacy Policy</div>
+    <p>The Services and our business may change from time to time. As a result, at times it may be necessary for ProsperWorks to make changes to this Privacy Policy. ProsperWorks reserves the right to update or modify this Privacy Policy at any time and from time to time without prior notice. Please review this policy periodically, and especially before you provide any Personal Data. This Privacy Policy was last updated on the date indicated above. Your continued use of the Services after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy.</p>
 
-<p><strong>Our Disclosure of Your Personal Data and Other Information:</strong></p>
-<p>ProsperWorks is not in the business of selling your information. We consider this information to be a vital part of our relationship with you. There are, however, certain circumstances in which we may share your Personal Data with certain third parties without further notice to you, as set forth below: </p>
-<p><strong>Business Transfers:</strong> As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets.  </p>
-<p><strong>Related Companies:</strong> We may also share your Personal Data with our Related Companies for purposes consistent with this Privacy Policy. </p>
-<p><strong>Agents, Consultants and Related Third Parties:</strong> ProsperWorks, like many businesses, sometimes hires other companies to perform certain business-related functions. Examples of such functions include mailing information, maintaining databases and processing payments. When we employ another entity to perform a function of this nature, we only provide them with the information that they need to perform their specific function. </p>
-<p><strong>Legal Requirements:</strong> ProsperWorks may disclose your Personal Data if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights or property of ProsperWorks, (iii) act in urgent circumstances to protect the personal safety of users of the Services or the public, or (iv) protect against legal liability. </p>
 
-<p><strong>Your Choices:</strong></p>
-<p>You can visit the Site without providing any Personal Data. If you choose not to provide any Personal Data, you may not be able to use certain Services. </p>
-
-<p><strong>Exclusions:</strong></p>
-<p>This Privacy Policy does not apply to any Personal Data collected by ProsperWorks other than Personal Data collected through the Services. This Privacy Policy shall not apply to any unsolicited information you provide to ProsperWorks through the Services or through any other means. This includes, but is not limited to, information posted to any public areas of the Services, such as forums, any ideas for new products or modifications to existing products, and other unsolicited submissions (collectively, “Unsolicited Information”). All Unsolicited Information shall be deemed to be non-confidential and ProsperWorks shall be free to reproduce, use, disclose, and distribute such Unsolicited Information to others without limitation or attribution.</p>
-
-<p><strong>Children:</strong></p>
-<p>ProsperWorks does not knowingly collect Personal Data from children under the age of 13. If you are under the age of 13, please do not submit any Personal Data through the Services. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data on the Services without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Data to ProsperWorks through the Services, please contact us, and we will endeavor to delete that information from our databases.</p>
-
-<p><strong>Links to Other Web Sites:</strong></p>
-<p>This Privacy Policy applies only to the Services. The Services may contain links to other web sites not operated or controlled by ProsperWorks (the “Third Party Sites”). The policies and procedures we described here do not apply to the Third Party Sites. The links from the Services do not imply that ProsperWorks endorses or has reviewed the Third Party Sites. We suggest contacting those sites directly for information on their privacy policies. </p>
-
-<p><strong>Security:</strong></p>
-<p>ProsperWorks takes reasonable steps to protect the Personal Data provided via the Services from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet or email transmission is ever fully secure or error free. In particular, email sent to or from the Services may not be secure. Therefore, you should take special care in deciding what information you send to us via email. Please keep this in mind when disclosing any Personal Data to ProsperWorks via the Internet. </p>
-
-<p><strong>Other Terms and Conditions:</strong></p>
-<p>Your access to and use of the Services is subject to the Terms of Service at <a href="https://www.prosperworks.com/terms">https://www.prosperworks.com/terms</a>.</p>
-
-<p><strong>Changes to ProsperWorks’ Privacy Policy:</strong></p>
-<p>The Services and our business may change from time to time. As a result, at times it may be necessary for ProsperWorks to make changes to this Privacy Policy. ProsperWorks reserves the right to update or modify this Privacy Policy at any time and from time to time without prior notice. Please review this policy periodically, and especially before you provide any Personal Data. This Privacy Policy was last updated on the date indicated above. Your continued use of the Services after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy. </p>
-
-<p><strong>Access to Information; Contacting ProsperWorks:</strong></p>
-<p>To keep your Personal Data accurate, current, and complete, please contact us as specified below. We will take reasonable steps to update or correct Personal Data in our possession that you have previously submitted via the Services. </p>
-<p>Please also feel free to contact us if you have any questions about ProsperWorks’ Privacy Policy or the information practices of the Services.</p>
-
-<p>You may contact us as follows: <a href="mailto:support@prosperworks.com">support@prosperworks.com</a>.</p>
-    <!-- END PAGE -->
+    <!-- END DOC -->
   </div>
   <div class="clear"></div>
   <div class="huge_spacer"></div>
 </div>
 
-      <div class="public_footer">
-  <a href="/about" class="public_footer_link">About Us</a>
-  <a href="http://www.prosperworks.com/blog" class="public_footer_link">Blog</a>
-  <a href="/jobs" class="public_footer_link">Careers</a>
-  <a href="/tos" class="public_footer_link">Legal</a>
-  <a href="/about#contact_section" class="public_footer_link">Contact Us</a>
-  <a class="public_footer_icon" target="_blank" href="https://www.facebook.com/ProsperWorks">  <i class="icon-facebook-squared"></i></a>
-  <a class="public_footer_icon" target="_blank" href="https://www.twitter.com/prosperworks">   <i class="icon-twitter-squared"></i></a>
-  <a class="public_footer_icon" target="_blank" href="http://www.linkedin.com/company/3495032"><i class="icon-linkedin-squared"></i></a>
+      <div class="container public_footer">
+    <div class="row gutters">
+        <div class="col span_6">
+            <img alt="Google-partner-non-retina" class="partner left" src="//d1oki86yop2pmf.cloudfront.net/assets/public/landing/marketing/google-partner-non-retina-301595a0b93de0f6b573df19cca2f6e3.png">
+        </div>
+        <div class="col span_3 footer_links">
+            <div class="footer_link_header">
+                About ProsperWorks
+            </div>
+            <div class="footer_link_div">
+                <a href="/about" class="public_footer_link ">About</a>
+            </div>
+            <div class="footer_link_div">
+                <a href="https://jobs.lever.co/prosperworks" class="public_footer_link " target="_blank">Join Us</a>
+            </div>
+            <div class="footer_link_div">
+                <a href="http://www.prosperworks.com/blog" class="public_footer_link ">Blog</a>
+            </div>
+            <div class="footer_link_div">
+                <a href="/partners" class="public_footer_link ">Reseller Program</a>
+            </div>
+            <div class="footer_link_div">
+                <a href="/webinars" class="public_footer_link ">Webinars</a>
+            </div>
+            <div class="footer_link_div">
+                <a href="/tos" class="public_footer_link ">Legal</a>
+            </div>
+            <div class="footer_link_div">
+                <a href="/privacy" class="public_footer_link ">Privacy</a>
+            </div>
+
+            <div class="footer_link_header">
+                Support
+            </div>
+            <div class="footer_link_div">
+              <a href="https://prosperworks.zendesk.com/hc/en-us" class="public_footer_link " target="_blank">Support</a>
+            </div>
+                <div class="footer_link_div">
+            <a href="/contact" class="public_footer_link ">Contact Us</a>
+            </div>
+        </div>
+        <div class="col span_3 footer_links">
+            <div class="footer_link_header">
+                Products
+            </div>
+            <div class="footer_link_div">
+                <a href="/features" class="public_footer_link ">Features</a>
+            </div>
+            <div class="footer_link_div">
+                <a href="/mobile" class="public_footer_link ">Mobile Apps</a>
+            </div>
+            <div class="footer_link_div">
+                <a href="https://chrome.google.com/webstore/detail/crm-for-gmail/hpfmedbkgaakgagknibnonpkimkibkla" class="public_footer_link " target="_blank">Chrome Extension</a>
+            </div>
+            <div class="footer_link_header">
+                Social
+            </div>
+            <div class="footer_link_div">
+                <a target="_blank" href="https://plus.google.com/103594665195397142807/posts" class="public_footer_link">Google+</a>
+            </div>
+            <div class="footer_link_div">
+                <a target="_blank" href="http://www.linkedin.com/company/3495032" class="public_footer_link">LinkedIn</a>
+            </div>
+            <div class="footer_link_div">
+                <a target="_blank" href="https://www.twitter.com/prosperworks" class="public_footer_link">Twitter</a>
+            </div>
+            <div class="footer_link_div">
+                <a target="_blank" href="https://www.facebook.com/ProsperWorks" class="public_footer_link">Facebook</a>
+            </div>
+        </div>
+    </div>
 </div>
 
   </div>
 
+  <script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.4.1/slick.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.0/js/materialize.min.js"></script>
   <script type="text/javascript">
   var _mfq = _mfq || [];
   (function () {
@@ -187,6 +333,29 @@ ga('send', 'pageview');
   })();
 </script>
 
+  <script>(function() {
+var _fbq = window._fbq || (window._fbq = []);
+if (!_fbq.loaded) {
+var fbds = document.createElement('script');
+fbds.async = true;
+fbds.src = '//connect.facebook.net/en_US/fbds.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(fbds, s);
+_fbq.loaded = true;
+}
+_fbq.push(['addPixelId', '1430639513902553']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1430639513902553&amp;ev=PixelInitialized" /></noscript>
+
+  <script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
+<script type="text/javascript">twttr.conversion.trackPid('l6p6o', { tw_sale_amount: 0, tw_order_quantity: 0 });</script>
+<noscript>
+  <img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=l6p6o&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
+  <img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=l6p6o&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
+</noscript>
 
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+</body></html>
