@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the phoenixnewtimes.com privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409002938id_/http%3A//www.phoenixnewtimes.com/about/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phoenixnewtimes.com privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024165244id_/http%3A//www.phoenixnewtimes.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Phoenix Privacy Policy
+# Privacy Policy | Phoenix News and Events | Phoenix New Times
 
 ### Phoenix New Times, LLC
 
@@ -86,8 +86,8 @@ We use reasonable efforts to protect your personally identifiable information fr
 
 ### Updates and Changes to Your Information.
 
-If your personally identifiable information changes, you may correct and/or update it by sending us an email at [community@phoenixnewtimes.com](mailto:community@phoenixnewtimes.com). You may also view, correct and/or update your personally identifiable information by accessing your profile on the Site. 
+If your personally identifiable information changes, you may correct and/or update it by sending us [an email](https://web.archive.org/about/contact?category=community). You may also view, correct and/or update your personally identifiable information by accessing your profile on the Site. 
 
 ### More Questions? 
 
-If you have any questions about this privacy policy, please e-mail them to [privacyadministrator@voicemediagroup.com](mailto:privacyadministrator@voicemediagroup.com), and be sure to indicate the specific site you are visiting and the nature of your question or concern.
+If you have any questions about this privacy policy, please e-mail them to [privacyadministrator@phoenixnewtimes.com](mailto:privacyadministrator@phoenixnewtimes.com), and be sure to indicate the specific site you are visiting and the nature of your question or concern.
