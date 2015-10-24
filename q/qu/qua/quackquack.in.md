@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quackquack.in privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430052535id_/http%3A//www.quackquack.in/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quackquack.in privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024162907id_/http%3A//www.quackquack.in/privacypolicy.php) for the most accurate reproduction.*
 
 # QuackQuack.in - Online Dating Site Privacy Policy Notice
 
