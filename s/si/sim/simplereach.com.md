@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplereach.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504111324id_/http%3A//www.simplereach.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplereach.com privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024131337id_/http%3A//www.simplereach.com/privacy) for the most accurate reproduction.*
 
 # SimpleReach | Privacy Policy
 
@@ -9,7 +9,7 @@ The SimpleReach website (the “Site”) located at [http://www.simplereach.com]
 Here's what we collect from you when you use a Service:
 
   * User-Provided Information: When you, as a publisher, purchase or register for use of a Service on your website, we ask you to provide certain information, such as your website URL, including information that is considered "personally identifiable information” (that is, information that would allow us to directly identify you, such as your name, e-mail address, mailing address, and telephone number).
-  * "Automatically Collected" Information: When you, as an end user, visit a site that uses a Service, we may automatically record certain information about your use of the publisher site from your web browser, such as your IP address, time spent on pages, clicks on links and recommendations, the pages with which such recommendations are associated, the locations from which such clicks are made, and other traffic data to provide statistical information to publishers about their site content and usage and recommendations of related content to users. [Will you collect different or more information for the Intelligence than for the Slide? Will you use methods other than cookies to collect this information?]
+  * "Automatically Collected" Information: When you, as an end user, visit a site that uses a Service, we may automatically record certain information about your use of the publisher site from your web browser, such as your IP address, time spent on pages, clicks on links and recommendations, the pages with which such recommendations are associated, the locations from which such clicks are made, and other traffic data to provide statistical information to publishers about their site content and usage and recommendations of related content to users.
   * "Cookies" Information: One form of "automatically collected" information we record is information stored by "cookies " When you use a Service, we may send one or more cookies to your computer. We use both "session" and "persistent" cookies to collect, store, and sometimes track various types of information. A session cookie is one that disappears after you close your browser. While a persistent cookie remains after you close your browser (and may be used by your browser when you later return to the Service), persistent cookies generally can be removed. You can review the appropriate "Help" file in your Web browser or your mobile device to learn the proper way to modify your cookie settings. 
 
 
@@ -69,10 +69,10 @@ By using this Site and/or any of the SimpleReach Services, you agree to this Pri
 If you have any questions, comments, or concerns about this Privacy Policy, please contact us at:
 
   * SimpleReach
-  * 158 W. 27th Street, Floor 11
-  * New York, NY 10010
+  * 158 W. 27th Street, Floor 6
+  * New York, NY 10001
   * [info@simplereach.com](mailto:info@simplereach.com)
 
 
 
-Last updated: 01/05/15 
+Last updated: 09/15/15 
