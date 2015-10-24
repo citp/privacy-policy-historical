@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psychologicallyunemployable.net privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315053840id_/http%3A//psychologicallyunemployable.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychologicallyunemployable.net privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024070940id_/http%3A//psychologicallyunemployable.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Psychologically Unemployable
 
@@ -46,5 +46,3 @@ This Website is not intended for visitors that are minors or under eighteen (18)
 
 **CHANGES AND AMENDMENTS & NOTIFICATION OF CHANGES**  
 http://psychologicallyunemployable.net/ reserves the right to change or update this Privacy Policy at any time by posting a clear and conspicuous notice on the Website explaining that we are changing our Privacy Policy. All Privacy Policy changes will take effect immediately upon their posting on the Website. Please check the Website periodically for any changes. Your continued use of the Website and/or acceptance of our e-mail communications following the posting of changes to this Privacy Policy will constitute your acceptance of any and all changes.
-
-### Social Media Comments
