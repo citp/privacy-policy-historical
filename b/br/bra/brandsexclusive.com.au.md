@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brandsexclusive.com.au privacy policy that was archived on 2015-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150411084854id_/https%3A//brandsexclusive.com.au/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandsexclusive.com.au privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024051452id_/https%3A//brandsexclusive.com.au/info/privacy-policy) for the most accurate reproduction.*
 
 # Brands Exclusive - Privacy Policy
 
@@ -18,7 +18,7 @@ Personal Information is any information that identifies you, would enable someon
 
 While you are not required to submit any information to our Website, if you do not provide the requested information, you may not be able to access or use some of the features and functions of our Websites and we may not be able to provide you with certain services.
 
-Brands Exclusive uses your Personal Information to complete transactions, respond to your questions and requests, deliver the products and services you purchased or requested, and notify you of upcoming sales events and promotions, updates, or special offers that we think may interest you.
+Brands Exclusive uses your Personal Information to complete transactions, respond to your questions and requests, deliver the products and services you purchased or requested (Please note that this may include providing your Personal Information to third parties to enable the delivery of products and services which you purchased or requested or for related Brands Exclusive marketing purposes) and to notify you of upcoming sales events and promotions, updates, or special offers that we think may interest you.
 
 Brands Exclusive does not intentionally gather data from or about children. Minors are not permitted to participate in Brands Exclusive Sales.
 
