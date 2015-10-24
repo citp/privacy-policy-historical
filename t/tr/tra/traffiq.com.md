@@ -1,75 +1,102 @@
-> *The following text is extracted and transformed from the traffiq.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215171815id_/http%3A//www.traffiq.com/traffiq-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traffiq.com privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024032208id_/http%3A//www.theberrycompany.com/privacy) for the most accurate reproduction.*
 
-# TRAFFIQ Privacy Policy | Traffiq
+# Privacy | The Berry Company
 
-**TRAFFIQ Privacy Policy**  
-We take your privacy seriously. Because in certain circumstances we gather certain types of information about our users, we want to help you understand the terms and conditions surrounding the collection and use of that information. This privacy statement discloses the types of information we gather, how we use it, and how to correct or change it. These privacy practices apply to the TRAFFIQ.com website that you were viewing when you clicked through to this policy, which is operated directly by us.
+The Berry Company, LLC (to gether with its subsidiaries and affiliates, “Berry,” “we,” “us” or “our”) respects the privacy of its customers and the visitors and users of its website. This Privacy Policy is intended to inform you of our policies and practices regarding the collection, use and disclosure of any Personal Information or Personal Health Information (as those terms are defined below) we obtain about you based upon your use of our website, products or services. Your privacy is important to us, and we pay close attention to the use and sharing of Personal Information and Personal Health Information.
 
-**What information does TRAFFIQ collect?**  
-Our primary goal in collecting personal information is to provide you with the best and most useful content and services. Several of the services and features that we offer on our websites require you to provide us with information as a condition of usage. These include access to subscription-only areas, the ability to post opinions or other content, participation in sweepstakes or contests, participation in message boards, and use of our Services (as defined in our Terms of Use) in general.  
-We collect personally identifiable information, such as your name, email address, postal address, phone number and credit card information when you provide it to us. From time to time, when you provide it to us, we may also collect other sensitive information such as your job title, gender, username and password. We may also receive information about you from other sources and add it to the information you provided to us.  
-For purposes of clarity, TRAFFIQ does not collect any personal information through the advertising that is bought and sold on the TRAFFIQ Marketplace and this privacy statement applies only to the TRAFFIQ.com website.  
-Once you register with a TRAFFIQ website you are no longer anonymous to us.  
-What is TRAFFIQ’s practice regarding cookies?  
-Your Internet browser has a feature called cookies, which stores small amounts of data on your computer about your visit to any of our websites. You do not need to have cookies turned on to visit TRAFFIQ.com, although active participation in certain areas of our websites may require cookies. Cookies alone tell us nothing about who you are unless you specifically give us personally identifiable information, in which case we use the information to enhance the Services in the ways described below. By adjusting your settings on your browser, you may elect not to allow cookies to be collected. TRAFFIQ cookies are identified by the name TQID.  
-We also use technologies, including electronic images known as “beacons”–sometimes called “transparent GIFs or clear GIFs”–that allow us to track general user-traffic patterns. We also automatically receive and record information from our servers and from your browser, including your IP address, the time of your visit to pages on our site, and information about pages you visited. Unless you have registered for one of our products or services, the information we gather through the use of tracking technologies cannot be matched with any personally identifiable information about you.  
-We use cookies and tracking technologies in a variety of ways, including without limitation:  
-• Keeping count of return visits to our website or our publishers’ or advertisers’ or partners’ websites;  
-• Accumulating and reporting anonymous, aggregate (data collected in mass), statistical information on website and Service usage, including Transactional Data (as defined in Section 11 of our Terms of Use);  
-• Determining which features our overall user population likes best;  
-• Saving your password so you don’t have to re-enter it each time you visit our websites;  
-• Displaying the most appropriate advertising and/or content based on your interests.  
-We allow other companies that are presenting advertisements on our websites and, sometimes, in our newsletters to use tracking technology on your computer. We do not give any personally identifiable information to them as part of this relationship. Unless you visit the website of these companies and provide them with personally identifiable information about yourself, these tracking technologies tell those advertisers nothing about who you are. Our advertisers’ use of tracking technology is subject to their own privacy policies.
+#### Information We Collect
 
-   
-**How does TRAFFIQ use the information?**  
-We use the information we gather for four general purposes:  
-• To customize the advertising and the content you see;  
-• To enhance the user experience at TRAFFIQ.com and related and affiliated websites. We use tracking information to determine how well each page and each feature of the Services performs overall based on aggregate user demographics and traffic patterns to those pages and related features. This helps us continue to build a better service for you;  
-• To fulfill your requests for certain products and services, and enabling you to participate in paid services, polls, contests, and message boards;  
-• To send you information you agreed to receive about topics we think will be of interest to you.
+In providing our products and services to you, we may collect the following types of information:
 
-   
-**How does TRAFFIQ share the information?**  
-Personally identifiable information  
-We will make your personally identifiable information available to other companies or people when:  
-• You have elected to allow us to share that information at the time that you registered with us or provided us the information, or through a subsequent affirmative election through our website.  
-• You volunteer information or create a public profile in the course of your participation in our community features such as forums, user opinions and reviews, chat rooms, or other forms of public communication and interaction.  
-• You use co-branded services (i.e., websites or services that we offer to you in connection with a partner, who is identified on the site). When you use a co-branded service within TRAFFIQ.com and related and affiliated websites, you grant us permission to pass your registration information back to that service partner. Their use of your information is subject to their applicable privacy policies.  
-• We hire third-party vendors to provide specialized services such as customer support; email message deployment; suppression, merge and de-duplication services; data processing; and special products or services that you have requested. These companies are only allowed to use the information in order to help us fulfill our services to you. We do not provide your information to these companies for their own, permanent use.  
-• You unsubscribe for a mailing that we send to you on behalf of a third party. We may share your removal instruction with the third party so that it may be added to that person’s list of people to whom they may not send emails.  
-• You are the winner of a contest or a sweepstakes that is co-sponsored with a third party and that third party needs your information in order to manage the prize fulfillment process.  
-• When required by law, such as when we respond to subpoenas, court orders, or legal process.  
-• We believe that your actions violate applicable laws, TRAFFIQ’s Terms of Use, or any usage guidelines for specific products or services, or threaten the rights, property, or safety of our company, our users, or others.
+  * “Personal Information,” or information about you that is personally identifiable to you, such as your name, address, e-mail address, phone number and other non-public information that is associated with the foregoing. For certain services, we also collect credit card or payment account information.
+  * “Personal Health Information,” or health-related information about you (such as weight, blood pressure or glucose levels, lab results, medications and health history) that you give us or that we receive from third parties
 
-   
-**Aggregate information**  
-We aggregate personally identifiable information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for marketing, promotional, and other purposes. We do not disclose to these entities any information that could be used to identify you personally. We also aggregate Transactional Data and use it for the purposes set forth in the Terms of Use. We do not disclose this information in any manner that could be used to identify you personally.  
-Business transfers  
-We are always seeking to improve the TRAFFIQ.com website, the Services and our business. In accomplishing these objectives, we may buy or sell a company, or one or more of the companies in our corporate family may merge with or be acquired by another company. If we sell a business, we may transfer some or all of your information as a part of the sale in order that the service being provided to you may continue or for other business purposes.
 
-**What are my options?**  
-Users who would rather not provide any of the user data requested by our registration process do not need to register with us. You can still view much of the content and use many of the services offered by our websites without registering.  
-We also give users the following options:  
-• Opting not to receive our electronic newsletters or those of third parties when registering. Users who opt in may remove themselves from mailing lists at any time through the subscription-management pages or by following the instructions at the end of the e-mail they received from us;  
-• Opting not to provide certain personal information when registering for at TRAFFIQ.com, provided, however, that you may not be able to use some of our Services without providing us with certain information.
 
-**How can I review and update my personally identifiable information?**  
-You can review, correct, or change the information collected during the registration process. The instructions for doing this can be found in our member-services areas. Users may change information at any time and as often as necessary. Users who are experiencing problems with our Services or who have questions about how our Services work can contact us using e-mail addresses at the bottom of this page.
+We act as a service provider to our customers and may process and store on behalf of our customers Personal Information and/or Personal Health Information that our customers collect about third parties (or about you). We do not own that Personal Information or Personal Health Information.
 
-   
-**How will I know if the privacy policy is changed?**  
-Any modifications to our privacy practices will be reflected first within this area of our network of websites. If there is a material change in our privacy practices, we will indicate on our websites that our privacy practices have changed and provide a link to the new privacy statement. If we are going to be using the information collected from users in a manner materially different from that stated at the time of collection, we will send affected users written notice of the change by e-mail.
+You are responsible for ensuring the accuracy of the Personal Information and Personal Health Information that we collect from you. Inaccurate information will affect the use and effectiveness of our products and services and our ability to contact you.
 
-   
-**Privacy of children**  
-Neither TRAFFIQ.com nor any of the websites within our network is directed to children under the age of 13. We operate our network of websites in compliance with the Children’s Online Privacy Protection Act and do not permit registration by, and will not knowingly collect or use personally identifiable information from, anyone under 13 years of age. This requirement is clearly posted during the registration process.
+Our servers may automatically collect information, such as Internet Protocol (IP) addresses, browser type, pages visited, access times, duration of visit, referring URL, platform, links accessed, timestamp and exit page information (“Automated Information”) with respect to each visitor to websites, whether or not such visitor is a logged-on user.
 
-**Questions, Comments**  
-Questions regarding this privacy statement or any other aspects of our network of websites should be sent to our corporate offices at:  
-_**462 Seventh Avenue**_  
-_**21st Floor**_  
-_**New York, NY 10018**_  
-_**Attention: General Counsel**_  
-We read every message submitted and try to reply promptly to everyone. We may also file your comments to improve the site, or review and discard the information.  
-Users who are experiencing problems with our services or who have questions about how our Services work can contact usat info@traffiq.com or at 212-792-2294.
+We may receive Personal Information or Personal Health Information about you from other sources, such as telephone or telefax. We may add this information to the information we have already collected about you in order to improve our products and services.
+
+#### User Consent
+
+By visiting our website or using our products or services, you agree to the terms of this Privacy Policy.
+
+You expressly consent to the use and processing of your Personal Information and Personal Health Information according to this Privacy Policy. Personal Information and Personal Health Information may be processed by us or our vendors or other third parties in the country where it was collected as well as other countries where laws regarding processing of Personal Information and Personal Health Information may be less stringent.
+
+#### How We Use and Disclose Information
+
+In general, we use information collected, including Personal Information and Personal Health Information, to provide our products and services, to respond to requests that you make, to process transactions and to enable us to serve you more effectively. We do not use or disclose your Personal Information and Personal Health Information except as described in this Privacy Policy or as required by law.
+
+You control who can access your Personal Health Information. If you choose to, you can share your information with others. We will not sell, rent, or share your Personal Information or Personal Health Information without your explicit consent, except in the limited situations described below. We may access and/or disclose your Personal Information and Personal Health Information if we believe such action is necessary to: (a) comply with the law or legal process served on us; (b) protect and defend our rights or property (including the enforcement of agreements between you and us); or (c) act in urgent circumstances to protect the personal safety and welfare of our customers or members of the public.
+
+We may also use the Personal Information and Personal Health Information that we obtain from you or from other sources for the following purposes:
+
+  * **To Provide and Improve Our Website, Products and Services**  
+We use the information that you provide for such purposes as responding to your requests, improving our website, products and services, and communicating with you. We may combine your information with information that we collect from other companies (such as demographic data) to improve and personalize services. We may collect information for auditing, research and analysis in order to maintain, protect and improve our website, products and services.
+  * **To Track Site Traffic Information**  
+As you navigate our website, we may collect certain passive information, including your IP address, browser type and operating system. We may also use cookies and navigational data such as Uniform Resource Locators (URL) to gather information regarding the date and time of your visit and the solutions and information for which you searched and viewed. This type of information is collected to make our solutions and services more useful to you. In addition, we may use non-business IP addresses and other Automated Information collected to track aggregate information regarding website traffic. We do not collect any Personal Information or Personal Health Information via a user’s non-business IP address. One of the uses for which this data may be gathered is for statistical purposes so that we may analyze trends and performance over time.
+  * **To Transfer Information for Legal Purposes**  
+We may need to disclose certain information to comply with a legal requirement (such as a law, regulation, court order, subpoena or search warrant) in the course of a legal proceeding or in response to a law enforcement agency request. If there is a change of control of The Berry Company, LLC (whether by merger, sale or otherwise), or a sale or transfer of our assets, Personal Information or Personal Health Information could be sold or transferred as part of that transaction and your Personal Information or Personal Health Information could be used by the purchaser or other recipient of such information.
+  * **For Data Aggregation**  
+We may disclose aggregated, non-personal data generated from our website, products and services to third parties. Depending on the circumstances, we may or may not charge third parties for this aggregated, non-personal data. You grant us the right to accept payment or other remuneration for such data. We require parties with whom we share aggregated, non-personal data to agree that they will not attempt to make this information personally identifiable.
+  * **For Use With Third Parties**  
+We may hire third parties to provide services on our behalf, such as developing websites and answering customer service and billing questions. We will give those third parties only the Personal Information or Personal Health Information they need to deliver the service for which they have been hired. We may also share your Personal Information and Personal Health Information with vendors or other third parties in order for them to provide you with offers that we think you will find valuable. We will require such third parties to maintain the confidentiality of any information we provide. 
+
+To drive traffic to your website and to make your website easier to find, we will disclose keywords about your business, your business name, general and specific descriptions about your business, information about your location, and information about your products and services to third-party services and to the general public.
+
+We may also use third parties to maintain and store your Personal Information to process any payment you make to us. Generally, these third parties are required not to use your Personal Information other than to provide the services requested by us.
+
+  * **For Use By Subsidiaries and Affiliates**  
+We have subsidiaries and other companies under a common control (collectively, “affiliates”). We may share some or all of your Personal Information and Personal Health Information with these affiliates, in which case we will require them to honor this Privacy Policy.
+
+
+
+#### Sharing Your Information
+
+If you grant access to your Personal Information or Personal Health Information to other individuals, websites or health care professionals, these other individuals, websites or health care professionals will be able to access your information and store a copy of it. Any copies of your information will be governed by that individual’s, website’s or health care professional’s privacy policy. Others may be able to view your information from such copies. We are not responsible for the use of your information by others to whom you grant access to such information.
+
+#### Protecting the Confidentiality and Security of Information
+
+We are committed to protecting the security of your information. We have adopted commercially reasonable security measures consistent with industry practice that are designed to assist in protecting against the loss, misuse and alteration of your Personal Information and Personal Health Information which is under our control. As you know, no security system or system of transmitting data over the Internet can be guaranteed to be 100% secure. Accordingly, you should not expect that any information provided to us or to any third party will always remain private.
+
+#### How to Unsubscribe
+
+Should you decide to stop receiving e-mail communications or newsletters from us, you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the e-mail. If at any time you wish to unsubscribe from any communications from us, you may do so by contacting us at [donot.contact@theberrycompany.com](mailto:donot.contact@theberrycompany.com). Despite your indicated e-mail preferences, we may send you e-mail regarding updates to legal notices applicable to the account you created with us. From time to time, we may contact you by telephone to offer you products or services which we believe may be valuable to you. Should you prefer not to receive such calls, please advise the representative who contacts you or contact customer care.
+
+#### Privacy of Minors
+
+We are committed to protecting the privacy of minors. Our services are not designed or intended to attract people under the age of 18. We do not collect Personal Information from any person we actually know is under the age of 18.
+
+#### Links to Other Sites
+
+Our provision of a link to any other website or location is for your convenience and does not signify our endorsement of such other website or location or its contents. We have no control over, do not review, and cannot be responsible for these outside websites or their content. Please be aware that the terms of our Privacy Policy do not apply to these outside websites.
+
+#### Contact Us
+
+Should you have any questions or concerns regarding this Privacy Policy, please contact us as follows:
+
+The Berry Company, LLC  
+Attention: Legal Department â€“ Privacy Policy Administration  
+Corporate Headquarters  
+160 Inverness Drive West  
+Englewood, CO 80112  
+303.867.1600  
+[legal@theberrycompany.com](mailto:legal@theberrycompany.com)
+
+#### Privacy Policy Updates
+
+We may revise this Privacy Policy at any time, in our sole discretion, by posting an amended Privacy Statement on our website. Any changes that we make to this Privacy Policy will be effective immediately upon posting. You should check this page periodically for changes to the Privacy Policy. If you object to any such changes, you must cease using our website, products and services. Continued use of our website, products or services following notice of any such changes shall indicate your acknowledgment of such changes and agreement to be bound by the terms and conditions of such changes.
+
+#### Notice for California Users
+
+Under California Civil Code Section 1789.3, California website users are entitled to the following specific consumer rights notice:
+
+The Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs may be contacted by email at [dca@dca.ca.gov](mailto:dca@dca.ca.gov), in writing at Department of Consumer Affairs, Consumer Information Division, 1625 North Market Blvd., Suite N 112, Sacramento, CA 95834, or by telephone at (916) 445-1254 or (800) 952-5210.
+
+#### Additional Rights
+
+You may have other privacy protections under applicable state laws. To the extent these laws apply, we will comply with them when we share information about you.
