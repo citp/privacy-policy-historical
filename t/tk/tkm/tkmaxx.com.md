@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tkmaxx.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423074148id_/http%3A//www.tkmaxx.com/privacy-and-cookie-policy/page/privacynotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tkmaxx.com privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024091741id_/http%3A//www.tkmaxx.com/privacy-and-cookie-policy/page/privacynotice) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy - TK Maxx
 
-**Last updated: 12th November 2014**
+**Last updated: 14th August 2015**
 
 Whenever you shop or interact with us, you may share personal information with us. This Privacy and Cookie Policy (referred to in this document as the “Policy”) sets out how we collect this information and what we do to make sure it is safe in our hands. TK Maxx and HomeSense are trading names of TJX UK, a company incorporated and registered in England and Wales with company registration number 03094828 and registered address at 50 Clarendon Road, Watford WD17 1TX. For the purposes of the Data Protection Act 1998, TJX UK is the data controller of any personal information you provide to us.
 
@@ -13,25 +13,21 @@ If you have any questions or concerns about the Policy or about the security of 
 
 ## When do we collect personal information? __
 
-  * Your name and address so we can make sure an online order reaches you. 
-  * Your email address so we can set up an online account for you, send you important information relating to your order and send you marketing emails if you ask us to ([click here](http://www.tkmaxx.com/page/privacynotice#mailinglist) to see how you can request marketing emails or ask us not to send them). 
-  * Your card details so we can take payment or make a refund whether online or in store ([click here](http://www.tkmaxx.com/customer-service/faqs/page/faqs#payment4) to see how we protect financial information). 
-  * Your telephone number so we can contact you if there is a problem with delivery. 
-  * Your IP address so we can, where you have consented, use appropriate cookies to enhance your visits to our website ([click here](http://www.tkmaxx.com/page/privacynotice#cookies) to see how we use Cookies). 
-  * Your signature and other appropriate information when you bring a return to our store to acknowledge receipt of the refund and help us guard against theft and fraud. 
-  * Other personal details such as date of birth, gender and shopping habits appropriate to a specific promotion or competition. 
-  * Footage of you that is captured on CCTV when you are on our premises. We use CCTV for the purposes of health and safety and for the prevention and detection of crime. 
-  * Your contact details if you enter a competition. Your signature and other appropriate information when you bring a return to our store to acknowledge receipt of the refund and help us guard against theft and fraud. 
-  * Your name, contact details and card details upon purchase of a product online to validate this information against third party databases for purposes of fraud prevention.
-  * Your marketing preferences, when you have agreed to join our mailing list, so that we (and our joint marketing partners) can provide you with TK Maxx or HomeSense marketing communications online or via email or text message, or so we can ensure that you stop receiving such marketing communications.
-  * Your image and any personal information that you include in content that you contribute to the website (such as comments, photos and videos) as well as the name of the social media account from which you contribute that information.  We use this information to display your content on the website and on our social media pages and to contact you about using your content other than on the website.  We may from time to time, include this information in our adverts and other marketing campaigns but will obtain your consent before doing so.
+  * When you use our website to view or buy products, e vouchers or gift cards
+  * When you go into our stores and are captured on the CCTV which we use for the purposes of health and safety for the prevention and detection of crime
+  * When you buy products in our stores
+  * When you return something
+  * When you apply for a job
+  * When you enter a promotion or competition
+  * When you take part in customer research
+  * When you contact us with a comment, question or complaint or respond to a message that we send to you
+  * When you agree to go on our mailing list
+  * When you contribute content about yourself to our website, whether by direct upload, posting such content to one of our social media pages or by using a hashtag or other identifier that we use to integrate social media content with our website
 
-
-  * 
 
 
 **Note**  
-If you are 16 or under you may browse our website but you may not register with us or make a purchase. We do not knowingly collect personal information from any person under the age of 16 and all our promotions have a minimum age of at least 16. Our stores may ask for proof of age if an item with an age restriction is purchased and it is unclear to the associate that you are over the applicable age.
+If you are 16 or under you may browse our website but you may not register with us. We do not knowingly collect personal information from any person under the age of 16 and all our promotions have a minimum age of at least 16. Our stores may ask for proof of age if an item with an age restriction is purchased and it is unclear to the associate that you are over the applicable age. 
 
 ## What information do we collect about you and how do we use it? __
 
