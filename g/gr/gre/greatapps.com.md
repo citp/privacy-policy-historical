@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the greatapps.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144330id_/http%3A//greatapps.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatapps.com privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024192508id_/http%3A//greatapps.com/privacy_policy) for the most accurate reproduction.*
 
-# GreatApps.com | Great Apps | Apps | Market your app | App Discovery | App Marketing | iOS | iPhone | iPad | Android | Windows | Google Play | BlackBerry
+# GreatApps.com | Great Apps | Market your app
 
 Thank you for visiting the GreatApps.com Web site (hereinafter “the Site” or “GreatApps.com”) and reviewing our Privacy Policy, effective October 4, 2011. We take your privacy very seriously and are committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you use GreatApps.com. 
 
