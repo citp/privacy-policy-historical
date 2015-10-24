@@ -1,80 +1,102 @@
-> *The following text is extracted and transformed from the prosperworks.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629225456id_/https%3A//www.prosperworks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prosperworks.com privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024084303id_/https%3A//www.prosperworks.com/privacy) for the most accurate reproduction.*
 
 # ProsperWorks
 
 **ProsperWorks, Inc.  
-Date of Last Revision: April 30, 2014 **
+Date of Last Revision: September 23, 2015 **
 
-**Our Policy:**
+Welcome to the web site (the “Site”) of ProsperWorks, Inc. (“ProsperWorks”, “we”, “us” and/or “our”). This Site is operated by ProsperWorks and has been created to provide information about our company and our customer relationship management services and related technologies and related services (together with the Site, the “Services”) to our Service visitors (“you”, “your”). This Privacy Policy sets forth ProsperWorks’ policy with respect to information including personally identifiable data (“Personal Data”) and other information that is collected from visitors to the Site and Services. Your access to and use of the Services is subject to the ProsperWork’s Terms of Service at https://www.prosperworks.com/terms. By providing us with Personal Data, you are consenting to our use of it in accordance with this Privacy Policy.
 
-Welcome to the web site (the **“Site”** ) of ProsperWorks, Inc. (“ProsperWorks”, “we”, “us” and/or “our”). This Site is operated by ProsperWorks and has been created to provide information about our company and our customer relationship management services and related technologies and related services (together with the Site, the **“Services”** ) to our Service visitors (“you”, “your”). This Privacy Policy sets forth ProsperWorks’ policy with respect to information including personally identifiable data ( **“Personal Data”** ) and other information that is collected from visitors to the Site and Services.
+  * **Personal Data That You Provide Through the Services:**  
+We collect Personal Data from you when you voluntarily provide such information to us. You may provide us with Personal Data when you:
 
-**Information We Collect:**
+    * Create accounts for Services,
+    * Register for offers,
+    * Provide billing and payment information,
+    * Elect to receive marketing communications,
+    * Complete a survey,
+    * Receive customer support,
+    * Purchase, download, or register to use the Services, or
+    * Apply for a job.
+  * **Information We Collect Through the Services**  
+The Services that you purchase or register to use may connect and transmit system, application, or product data to ProsperWorks. This data may include, but is not limited to, operating system, system model, and IP address.
 
-When you interact with us through the Services, we may collect Personal Data and other information from you, as further described below:
+Furthermore, in the course of using the Services, you or someone else in your organization may provide us with information about your systems infrastructure and access to your systems infrastructure. In addition, ProsperWorks may discover this information by analyzing additional parts your systems infrastructure that you did not explicitly input into the product.
 
-**Personal Data That You Provide Through the Services:** We collect Personal Data from you when you voluntarily provide such information, such as when you contact us with inquiries, respond to one of our surveys, register for access to the Services or use certain Services. Wherever ProsperWorks collects Personal Data we make an effort to provide a link to this Privacy Policy. 
+When you use the Services, we collect information about the pages you visit. Some web pages use cookies, web beacons and similar technologies to automatically collect information from you. When you visit the Site, we may send one or more cookies (small text files containing a string of characters) to your computer to uniquely identify your browser. We may use “web beacons” (electronic images also known as pixel tags or clear gifs) to recognize a cookie on your computer when you view or act upon a web page, an advertisement that we’ve placed on a third-party web page or an email we’ve sent. For a list of the cookies used by our Site, please review the cookie information at the end of, or linked from, this Privacy Policy. We will use reasonable efforts to update the cookie list from time to time.
 
-**By voluntarily providing us with Personal Data, you are consenting to our use of it in accordance with this Privacy Policy. If you provide Personal Data to the Services, you acknowledge and agree that such Personal Data may be transferred from your current location to the offices and servers of ProsperWorks and the authorized third parties referred to herein located in the United States.**
+These cookies, web beacons and similar technologies enable us to collect certain types of information about your visit to our Site and use of the Services such as:
 
-**Other Information:**
+    * Internet Protocol Address;
+    * Browser type;
+    * Browser language;
+    * Operating system;
+    * Referring site (site you visited before coming to the Site);
+    * Date and time of visit;
+    * URL of pages visited; and
+    * Other browsing behavior, such as white papers downloaded.
 
-**Non-Identifiable Data:** When you interact with ProsperWorks through the Services, we receive and store certain personally non-identifiable information. Such information, which is collected passively using various technologies, cannot presently be used to specifically identify you. ProsperWorks may store such information itself or such information may be included in databases owned and maintained by ProsperWorks affiliates, agents or service providers. The Services may use such information and pool it with other information to track, for example, the total number of visitors to our Site, the number of visitors to each page of our Site, and the domain names of our visitors' Internet service providers. It is important to note that no Personal Data is available or used in this process. 
+We may link this information to Personal Information to provide better service to you and to improve our product and services offerings. Most browsers allow you to remove and block cookies and web beacons. Please note that if you choose to erase or block cookies, you will need to re-enter your user ID and password to access certain parts of the Site. You may also notice that you will be served only generic information not tailored to your specific interests. In addition, if you block cookies, you may not be able to use certain Services features or take full advantage of the Services.
 
-In operating the Services, we may use a technology called "cookies." A cookie is a piece of information that the computer that hosts our Services gives to your browser when you access the Services. Our cookies help provide additional functionality to the Services and help us analyze Services usage more accurately. For instance, our Services may set a cookie on your browser that allows you to access the Services without needing to remember and then enter a password more than once during a visit to the Services. In all cases in which we use cookies, we will not collect Personal Data except with your permission. On most web browsers, you will find a “help” section on the toolbar. Please refer to this section for information on how to receive notification when you are receiving a new cookie and how to turn cookies off. We recommend that you leave cookies turned on because they allow you to take advantage of some of the Service features. 
+Many Internet browsers allow users to send a “Do Not Track” signal to websites they visit. Currently, there is no consensus on the meaning of “Do Not Track” or similar signals, and the Services have no mechanism to respond to such a signal.
 
-**Aggregated Personal Data:** In an ongoing effort to better understand and serve the users of the Services, ProsperWorks often conducts research on its customer demographics, interests and behavior based on the Personal Data and other information provided to us. This research may be compiled and analyzed on an aggregate basis, and ProsperWorks may share this aggregate data with its affiliates, agents and business partners. This aggregate information does not identify you personally. ProsperWorks may also disclose aggregated user statistics in order to describe our services to current and prospective business partners, and to other third parties for other lawful purposes.
+  * **Information We Collect From Other Sources**
 
-**Our Use of Your Personal Data and Other Information:**
+We sometimes obtain information from other sources, such as mergers and acquisitions, data brokers, or commercial lists, and merge this with information we have previously collected.
 
-ProsperWorks uses the Personal Data you provide in a manner that is consistent with this Privacy Policy. If you provide Personal Data for a certain reason, we may use the Personal Data in connection with the reason for which it was provided. For instance, if you contact us by email, we will use the Personal Data you provide to answer your question or resolve your problem. Also, if you provide Personal Data in order to obtain access to the Services, we will use your Personal Data to provide you with access to such services and to monitor your use of such services. ProsperWorks and its subsidiaries and affiliates (the “ProsperWorks Related Companies”) may also use your Personal Data and other personally non-identifiable information collected through the Services to help us improve the content and functionality of the Services, to better understand our users and to improve the Services. ProsperWorks and its affiliates may use this information to contact you in the future to tell you about services we believe will be of interest to you. If we do so, each marketing communication we send you will contain instructions permitting you to "opt-out" of receiving future marketing communications. In addition, if at any time you wish not to receive any future marketing communications or you wish to have your name deleted from our mailing lists, please contact us as indicated below. 
+If you give us Personal Data on behalf of someone else (or someone else gives us Personal Data on your behalf), the person providing the Personal Data must have consent to do so from the person whose information is being provided to ProsperWorks. Some ProsperWorks events, websites or services may be co-branded and offered in conjunction with another company. For example, ProsperWorks might co-sponsor a webinar in conjunction with one of its partners and allow you to register for such webinar through the Site. If you provide Personal Data in these cases, both ProsperWorks and the other company(ies) may receive the information collected and use the information according to each company’s privacy policy and agreement with you.
 
-If ProsperWorks intends on using any Personal Data in any manner that is not consistent with this Privacy Policy, you will be informed of such anticipated use prior to or at the time at which the Personal Data is collected.
 
-**Our Disclosure of Your Personal Data and Other Information:**
 
-ProsperWorks is not in the business of selling your information. We consider this information to be a vital part of our relationship with you. There are, however, certain circumstances in which we may share your Personal Data with certain third parties without further notice to you, as set forth below: 
 
-**Business Transfers:** As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets. 
+We use Personal Data to conduct business, provide information and support for products and services, better understand your needs and interests, refine and develop our business, improve services, personalize communications and ensure a quality experience for users of the Services. For example, we may use your information to:
 
-**Related Companies:** We may also share your Personal Data with our Related Companies for purposes consistent with this Privacy Policy. 
+  * Communicate, interact and build our relationship with you;
+  * Contact you with relevant promotions and information about ProsperWorks and affiliated third-parties;
+  * Process, fulfill and follow up on transactions and requests for products, services, support, training and information;
+  * Send you reminders about the expiration of your subscriptions (trial or paid) for Services;
+  * Create and maintain an account and register Services;
+  * Bill and accept payment from you for Services;
+  * Engage in market research;
+  * Measure, analyze and improve our products and services, the effectiveness of our Site or Services, and our advertising and marketing;
+  * Notify you about updates to our blogs; 
+  * Monitor your use of the Services; 
+  * Tell you when updates and new product versions are available;
+  * Personalize content and advertising;
+  * Help identify and communicate offers of products, programs and services that may be of interest to you;
+  * Send “refer-a-friend” email on your behalf with your consent;
+  * Consider your employment application;
+  * Comply with legal requirements; 
+  * Enforce our terms of service, and prevent fraud and other prohibited or illegal actives;
+  * Provide agreed upon diagnostic, monitoring and management services; or
+  * Better communicate with you.
 
-**Agents, Consultants and Related Third Parties:** ProsperWorks, like many businesses, sometimes hires other companies to perform certain business-related functions. Examples of such functions include mailing information, maintaining databases and processing payments. When we employ another entity to perform a function of this nature, we only provide them with the information that they need to perform their specific function. 
 
-**Legal Requirements:** ProsperWorks may disclose your Personal Data if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights or property of ProsperWorks, (iii) act in urgent circumstances to protect the personal safety of users of the Services or the public, or (iv) protect against legal liability. 
 
-**Your Choices:**
+We may share or disclose your Personal Data as follows:
 
-You can visit the Site without providing any Personal Data. If you choose not to provide any Personal Data, you may not be able to use certain Services. 
+  * To corporate subsidiaries we own or control to support their business and marketing processes;
+  * To our service providers and suppliers, who are acting and using your information on our behalf;
+  * Based on a good faith belief that such disclosure is necessary to protect the rights or safety of any person or entity;
+  * Based on a good-faith belief that disclosure is necessary to respond to judicial process, valid government inquiry, or is otherwise required by law;
+  * In the event that ProsperWorks or any of its assets are acquired, your information may be transferred with the company or the asset;
+  * To other third-parties for purposes to which you have allowed or consented; or
+  * When posted by you or an authorized third-party to our wikis, forums, blogs, message boards, chat rooms and other social networking environments.
 
-**Exclusions:**
 
-This Privacy Policy does not apply to any Personal Data collected by ProsperWorks other than Personal Data collected through the Services. This Privacy Policy shall not apply to any unsolicited information you provide to ProsperWorks through the Services or through any other means. This includes, but is not limited to, information posted to any public areas of the Services, such as forums, any ideas for new products or modifications to existing products, and other unsolicited submissions (collectively, “Unsolicited Information”). All Unsolicited Information shall be deemed to be non-confidential and ProsperWorks shall be free to reproduce, use, disclose, and distribute such Unsolicited Information to others without limitation or attribution.
 
-**Children:**
-
-ProsperWorks does not knowingly collect Personal Data from children under the age of 13. If you are under the age of 13, please do not submit any Personal Data through the Services. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data on the Services without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Data to ProsperWorks through the Services, please contact us, and we will endeavor to delete that information from our databases.
-
-**Links to Other Web Sites:**
-
-This Privacy Policy applies only to the Services. The Services may contain links to other web sites not operated or controlled by ProsperWorks (the “Third Party Sites”). The policies and procedures we described here do not apply to the Third Party Sites. The links from the Services do not imply that ProsperWorks endorses or has reviewed the Third Party Sites. We suggest contacting those sites directly for information on their privacy policies. 
-
-**Security:**
-
-ProsperWorks takes reasonable steps to protect the Personal Data provided via the Services from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet or email transmission is ever fully secure or error free. In particular, email sent to or from the Services may not be secure. Therefore, you should take special care in deciding what information you send to us via email. Please keep this in mind when disclosing any Personal Data to ProsperWorks via the Internet. 
-
-**Other Terms and Conditions:**
-
-Your access to and use of the Services is subject to the Terms of Service at <https://www.prosperworks.com/terms>.
-
-**Changes to ProsperWorks’ Privacy Policy:**
-
-The Services and our business may change from time to time. As a result, at times it may be necessary for ProsperWorks to make changes to this Privacy Policy. ProsperWorks reserves the right to update or modify this Privacy Policy at any time and from time to time without prior notice. Please review this policy periodically, and especially before you provide any Personal Data. This Privacy Policy was last updated on the date indicated above. Your continued use of the Services after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy. 
-
-**Access to Information; Contacting ProsperWorks:**
+In an ongoing effort to better understand and serve the users of the Services, ProsperWorks often conducts research on its customer demographics, interests and behavior based on the Personal Data and other information provided to us. This research may be compiled and analyzed on an aggregate basis, and ProsperWorks may share this aggregate data with its affiliates, agents and business partners. This aggregate information does not identify you personally. ProsperWorks may also disclose aggregated user statistics in order to describe our services to current and prospective business partners, and to other third parties for other lawful purposes.
 
 To keep your Personal Data accurate, current, and complete, please contact us as specified below. We will take reasonable steps to update or correct Personal Data in our possession that you have previously submitted via the Services. 
 
 Please also feel free to contact us if you have any questions about ProsperWorks’ Privacy Policy or the information practices of the Services.
 
 You may contact us as follows: [support@prosperworks.com](mailto:support@prosperworks.com).
+
+Use of the Services is only available to individuals who are of legal age to contract in their applicable jurisdiction. The Services are not directed to children under 13 years of age. If our policy changes, we will obtain consent from a parent or guardian before we knowingly collect data from anyone under the age of 13.
+
+This Privacy Policy applies only to the Services. The Services may contain links to other web sites not operated or controlled by ProsperWorks (the “Third Party Sites”). The policies and procedures we described here do not apply to the Third Party Sites. The links from the Services do not imply that ProsperWorks endorses or has reviewed the Third Party Sites. We suggest contacting those sites directly for information on their privacy policies.
+
+You acknowledge and agree that no Internet or email transmission is ever fully secure or error free. You agree to take special care in deciding what information you send to us via email. 
+
+The Services and our business may change from time to time. As a result, at times it may be necessary for ProsperWorks to make changes to this Privacy Policy. ProsperWorks reserves the right to update or modify this Privacy Policy at any time and from time to time without prior notice. Please review this policy periodically, and especially before you provide any Personal Data. This Privacy Policy was last updated on the date indicated above. Your continued use of the Services after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy.
