@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the crisistextline.org privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524032851id_/http%3A//www.crisistextline.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crisistextline.org privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024164435id_/http%3A//www.crisistextline.org/privacy) for the most accurate reproduction.*
 
 # Crisis Text Line | Crisis Text Line
 
-Last Updated: Jan 23, 2015, 12:10 pm EST
+Last Updated: August 3, 2015, 5:32 pm EST
 
 **IF YOU ARE IN DANGER OR NEED EMERGENCY HELP, CALL 911 OR YOUR LOCAL AUTHORITIES.**
 
@@ -127,6 +127,10 @@ Below are examples of non-Personally Identifiable Information that we collect an
 
 At times we may make certain Personally Identifiable Information available to strategic partners that work with us.
 
+### Police and EMS
+
+It’s our goal to support you in staying safe and healthy and to do so in the least invasive way possible (read: we don’t want to intrude in your life!). If a crisis counselor identifies imminent harm to yourself or someone else (you have the desire, plan, and means) or suspects abuse or neglect, they let you know they’re concerned about your safety. At this point, they might ask you where you are or what your name is. They’ll continue to work to support you, and if they feel like you might not be able to keep yourself safe, they may contact local police or EMS. We’re not here to tell on you, or rat you out, but we are here to do our best to support you in staying healthy and safe.
+
 ### PARTICIPATING CRISIS CENTERS; Crisis Counselors
 
 We operate CTL in conjunction with participating crisis centers and their subcontractors (“CCs”) and volunteer and staff crisis counselors (“Crisis Counselors”). The CCs provide staff and/or Crisis Counselors to help you and supervisors to help monitor CTL activity. Any information, including Personally Identifiable Information, that you share with CTL may be viewed by CTL staff, CCs, or Crisis Counselors for quality control and to better assist you with your crisis.
@@ -174,9 +178,9 @@ One suggestion: you might want to delete CTL conversations from your phone. You 
 
 ## ACCESS/CHANGES TO PERSONALLY IDENTIFIABLE INFORMATION
 
-You may request that we delete your Personally Identifiable Information, such as last name, physical address, zip code, phone number, and texts/message transcripts by emailing info@crisistextline.org.
+You may request that we delete your Personally Identifiable Information, such as last name, physical address, zip code, phone number, and texts/message transcripts by texting in the keyword LOOFAH to 741-741, after which you will be prompted to confirm your request.
 
-We will make our best efforts to process deletion requests promptly, but may decline to process requests that are unreasonably repetitive, require unreasonable technical effort, jeopardize the privacy of you or others, are otherwise impractical, or which would conflict with applicable laws.
+We will make reasonable efforts to process deletion requests promptly, but may decline to process requests that are unreasonably repetitive, require unreasonable technical effort, jeopardize the privacy of you or others, are otherwise impractical, or which would conflict with applicable laws or an ongoing law enforcement matter.
 
 ## GOVERNING LAW; INTERNATIONAL USERS
 
