@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redirectyourcarbs.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607162536id_/http%3A//redirectyourcarbs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redirectyourcarbs.com privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024053746id_/http%3A//redirectyourcarbs.com/privacy) for the most accurate reproduction.*
 
 # RedirectYourCarbs.com - Privacy Policy
 
