@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the encompass.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408095402id_/http%3A//www.encompass.com/staticpages/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the encompass.com privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024061747id_/http%3A//www.encompass.com/staticpages/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ Encompassparts.com is committed to the protection of the privacy of its customer
 
 We do not sell our customer lists or customer information to third parties.
 
-To continuously assess the value of our on-line shopping experience, we may track the way customers use our site; however, this information is analyzed only as a whole and not at the individual level. We employ Google tracking technology within the shopping cart strictly to analyze sales volume. No personal information is being recorded or used in any way.
+To continuously assess the value of our on-line shopping experience, we may track the way customers use our site; however, this information is analyzed only as a whole and not at the individual level.
 
  **Children's Online Policy**  
 Encompass Parts is committed to the preservation of online privacy for all of its web site visitors, including children. Consistent with the Children's Online Privacy Protection Act, we will not knowingly collect any personally identifiable information from children under the age of 13. Encompassparts.com sells products intended for purchase by adults. If you make a purchase on Encompassparts.com, you are representing that you are an adult. If you are a child under the age of 13, you must ask your parent or guardian to assist you in using Encompassparts.com.
