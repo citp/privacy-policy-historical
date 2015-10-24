@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playappsworld.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624194238id_/http%3A//playappsworld.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playappsworld.com privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024154931id_/http%3A//playappsworld.com/privacy_policy.php) for the most accurate reproduction.*
 
 # 
 
