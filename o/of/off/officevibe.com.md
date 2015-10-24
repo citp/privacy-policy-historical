@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the officevibe.com privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404002930id_/http%3A//www.officevibe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officevibe.com privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024094001id_/https%3A//www.officevibe.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -54,7 +54,7 @@ You can change or delete any optional information in your account settings. Any 
 
 We understand that many consumers are concerned about security on the Internet. The security of the information that you provide to us is also very important to us. To prevent unauthorized disclosure, maintain data accuracy and ensure the correct use of information, we have in place reasonable physical, electronic and managerial procedures to safeguard and secure any information we collect online. Our payment systems vendor uses Secure Sockets Layer (SSL), an advanced encryption protocol, to scramble credit card information that you enter so that it cannot be read as it is transmitted across the Internet. SSL is the recognized industry standard worldwide for such sensitive transactions, enhancing safety when you shop with a credit card on the web. It is important for you to protect against unauthorized access to your password and to your computer.
 
-When using a shared computer, be sure to sign off and do not opt to stay logged in to Officevibe.com. Should you realize that you accidentally allowed a third party to access your account, you must let us know immediately, as you may be held liable for their actions in your name. [Contact us here](http://www.officevibe.com/support).
+When using a shared computer, be sure to sign off and do not opt to stay logged in to Officevibe.com. Should you realize that you accidentally allowed a third party to access your account, you must let us know immediately, as you may be held liable for their actions in your name. [Contact us here](https://www.officevibe.com/support).
 
 In the event that our security system is breached, we will attempt to notify you as soon as possible.
 
@@ -68,12 +68,12 @@ Third party advertisers may collect certain information that is available to the
 
 If a company’s Officevibe network is integrated with the “Yammer” social-enterprise network platform (for either Facegame or Officevibe Platform), Yammer’s API will be used in order to post within the company’s Yammer network, add/integrate users within Officevibe, and will appear on the Yammer activity feed. If you have any specific requests with the use of Yammer’s API for the use of Facegame or the Officevibe Platform, please contact Yammer at the link provided: <https://about.yammer.com/success/activate/need-help/>
 
-For more information on Yammer’s API limitations, read the literature on their dev site: <https://developer.yammer.com/restapi/>
+For more information on Yammer’s API limitations, read the literature on their dev site: <https://developer.yammer.com/docs>
 
 #### Use of Intercom Services:
 
-We use third-party analytics services to help understand your usage of our services. In particular, we provide a limited amount of your information (such as your email address and sign-up date) to Intercom, Inc. (“Intercom”) and utilize Intercom to collect data for analytics purposes when you visit our website or use our product. Intercom analyzes your use of our website and/or product and tracks our relationship so that we can improve our service to you. We may also use Intercom as a medium for communications, either through email, or through messages within our product(s). As part of our service agreements, Intercom collects publicly available contact and social information related to you, such as your email address, gender, company, job title, photos, website URLs, social network handles and physical addresses, to enhance your user experience. For more information on the privacy practices of Intercom, please visit <http://docs.intercom.io/privacy>. Intercom’s services are governed by Intercom’s terms of use which can be found at <http://docs.intercom.io/terms>. If you would like to opt out of having this information collected by or submitted to Intercom, please [contact us](http://www.officevibe.com/support).
+We use third-party analytics services to help understand your usage of our services. In particular, we provide a limited amount of your information (such as your email address and sign-up date) to Intercom, Inc. (“Intercom”) and utilize Intercom to collect data for analytics purposes when you visit our website or use our product. Intercom analyzes your use of our website and/or product and tracks our relationship so that we can improve our service to you. We may also use Intercom as a medium for communications, either through email, or through messages within our product(s). As part of our service agreements, Intercom collects publicly available contact and social information related to you, such as your email address, gender, company, job title, photos, website URLs, social network handles and physical addresses, to enhance your user experience. For more information on the privacy practices of Intercom, please visit <http://docs.intercom.io/privacy>. Intercom’s services are governed by Intercom’s terms of use which can be found at <http://docs.intercom.io/terms>. If you would like to opt out of having this information collected by or submitted to Intercom, please [contact us](https://www.officevibe.com/support).
 
 ## Questions?
 
-If you have any questions regarding this Privacy Statement, the practices of Officevibe.com, or your dealings on our web site, please [contact us](http://www.officevibe.com/support).
+If you have any questions regarding this Privacy Statement, the practices of Officevibe.com, or your dealings on our web site, please [contact us](https://www.officevibe.com/support).
