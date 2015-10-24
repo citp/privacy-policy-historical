@@ -1,317 +1,268 @@
-> *The following text is extracted and transformed from the personalcapital.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702093302id_/https%3A//www.personalcapital.com/static/content/docs/Personal_Capital_Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personalcapital.com privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024095549id_/https%3A//www.personalcapital.com/content/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | Personal Capital Corporation
 
-                                                    !
-                                                               221/@5B1 October 1, 2013
-            Personal Capital Privacy & Security Policy
-Personal Capital is committed to the protection of your privacy. We understand keeping your
-information secure and confidential is critical to earning and keeping your trust.
-              We NEVER rent, sell or trade your personal information to anyone. Ever.
-This Privacy & Security Policy establishes the specific policies and procedures we use to collect,
-utilize, and disclose user and/or client information provided to us through the use of our web sites,
-applications or other communications with representatives of Personal Capital Corporation, or our
-wholly-owned subsidiaries, Personal Capital Technology Corporation and Personal Capital
-Advisors Corporation (collectively, “Personal Capital” or “we” or “us”). Together with our Terms of
-Use, this Privacy & Security Policy governs your use of our services.
-How to Use this Policy
-This policy explains, in plain English, how Personal Capital gathers and uses your information in the
-context of each of Personal Capital’s service offerings, including use of our financial dashboard, our
-delivery of advisor financial consultations, and delivery of our wealth management solution. In
-particular, we describe how your personally identifiable information is shared and/or disclosed, how
-we collect and use other non-personal information and how we address other privacy and security
-matters – such as our overall security practices, deletion of your information upon request and
-opting-out of marketing communications. Lastly, we describe methods for contacting Personal
-Capital if you have privacy or security questions, comments or feedback.
-Collecting, Using & Sharing Information
-How We Collect & Use Your Personal Information
-“Personal Information” is your personally identifiable information such as your name, email or
-mailing address, phone number, account credentials or account numbers that we gather from our
-web sites, mobile applications, or through communications with representatives of Personal
-Capital.
-The types of information we collect depend on which of our services you choose to use. The
-following are examples of Personal Information we collect at various stages of our client
-relationships, each of which is based on your explicit election to register or enroll in our services,
-whether using our web, mobile or tablet-based service.
-For Personal Capital Dashboard Software Users
-V100113
-                                  Copyright © Personal Capital Corporation 2013 All Rights Reserved.
+##### Last updated on September 15, 2015
 
+Personal Capital is committed to the protection of your privacy. We understand keeping your information secure and confidential is critical to earning and keeping your trust.
 
-                                                    !
-This section of the policy is only relevant to you if you have registered with Personal Capital
-Technology Corporation’s dashboard software.
-Personal Information We Collect
-       Upon registration for Personal Capital Technology Corporation Dashboard Software
-           o Your name
-           o Your email address
-           o Your phone number
-           o Other optional information you may provide, such as your age, investable assets and
-              risk tolerance
-       Upon Account Aggregation (Add 3rd Party Accounts)
-           o 3rd Party account information you link to our service
-           o Account login credentials for your accounts you link to our service
-           o Account security and/or challenge questions for your accounts
-       Upon submission of Customer Support or Service Requests
-           o Your email address
-           o Your phone number
-How We May Use Your Personal Information
-       To allow you to Register with Personal Capital Technology Corporation, including:
-           • Creating a Personal Capital user account to use our dashboard service;
-           • Authenticating your device to access our services;
-           • Communicating to you about updated features or maintenance activities related to
-              providing you with our services.
-       To allow you to Add Accounts (aggregate 3rd party data), including:
-           • Securely gathering account balances, transactions and holdings from your financial
-              institutions;
-           • Displaying personalized dashboards and financial visualizations for you;
-           • Providing you with contextual and relevant observations and insights;
-       To provide you with Customer Support or Service:
-           • Responding to and resolving your inquiries and requests via email or by phone.
-       To optimize systems and performance, provide comparisons and anonymous analysis:
-           • Monitoring system performance for optimization
-           • Providing you comparisons of your financial situation (e.g., investment risks &
-              returns, financial ratios) relative to aggregated user data to better understand your
-              financial situation. Your personal Information is always made anonymous to
-              remove any personal identifying information and never shared with anyone outside
-              of your explicit permission to share it with your personal financial advisor.
-V100113
-                                 Copyright © Personal Capital Corporation 2013 All Rights Reserved.
+We _**_NEVER_**_ rent, sell or trade your personal information to anyone. Ever.
+
+This Privacy & Security Statement describes the specific policies and procedures we use to collect, utilize, and disclose and share with others user, consultation recipient, and/or client information provided to us through our marketing partners; the use of our web sites and applications; and other communications with representatives of Personal Capital Corporation and our wholly-owned subsidiaries. We refer to Personal Capital Technology Corporation and Personal Capital Advisors Corporation collectively as **“Personal Capital”** or **“we”** or **“us”**. We refer to those who visit our website and those who use our web and mobile applications collectively as “users”. Together with our [Terms of Use](https://web.archive.org/terms-of-use), this Privacy & Security Statement governs your use of our services.
+
+### How to Use this Statement
+
+This Statement explains, in plain English, how Personal Capital gathers and uses your information in the context of each of Personal Capital’s service offerings, including use of our financial dashboard, our delivery of advisor financial consultations, and delivery of our wealth management solution. In particular, we describe how your personally identifiable information is shared and/or disclosed, how we collect and use other non-personal information and how we address other privacy and security matters – such as our overall security practices, deletion of your information upon request and opting-out of marketing communications. Lastly, we describe methods for contacting Personal Capital if you have privacy or security questions, comments or feedback.
+
+### How We Collect & Use Your Personal Information
+
+“Personal Information” is your personally identifiable information such as your name, email or mailing address, phone number, account credentials, account numbers and any other identifier that we gather from our web sites, mobile applications, or through communications with representatives of Personal Capital.
+
+The types of information we collect depend on which of our services you choose to use. The following are the types of Personal Information we collect at various stages of our relationship with you:
+
+Except as set forth in this Privacy & Security Statement, we don’t share your Personal Information with anyone. We do not share your Personal Information for third party promotional use. And we will NEVER sell, rent or trade your Personal Information.
+
+#### When You Visit Our Website
+
+When you visit our website, we may place a cookie on your computer so that our system can recognize you when you make a return visit. That cookie tells us your IP address and the type of browser you are using. These are the only types of information we collect when you visit our website but do not register or download our dashboard.
+
+#### For Personal Capital Dashboard Software Users (“Dashboard Users”)
+
+This section of the Statement is only relevant to you if you have registered with Personal Capital Technology Corporation’s dashboard software.
+
+##### Personal Information We Collect
+
+When you register for Personal Capital Technology Corporation’s dashboard service, we collect
+
+  * Your name
+  * Your email address
+  * Your phone number
+  * Other optional information you may provide, such as your age, investable assets and risk tolerance.
 
 
-                                                   !
-            •  Publishing trends and analysis for our user base (e.g., America's balance sheet,
-               geographical financial patterns). Personal Information is always made anonymous
-               to remove any personal identifying information and never rented, sold or traded
-               with anyone.
-For Personal Capital Consultation Recipients
-This section of the policy is relevant to you only if you have enrolled in Personal Capital
-Technology Corporation’s dashboard service and if you elected to receive a personalized financial
-consultation from a licensed financial advisor employed by Personal Capital Advisors Corporation.
-Personal Information We Collect (in addition to information you provided as a Dashboard User)
-       Upon your request for a Financial Consultation
-            o Your personal profile information (e.g, your name, your age)
-            o Your financial goals
-            o Your investment objectives
-            o Employment and income information about your household
-            o Retirement planning information about your household
-            o Other information you share about your spouse/partner and/or beneficiaries
-       How We May Use Your Personal Information
-       To provide you with a Personalized Financial Consultation, including:
-            • Informing you about existing risks and opportunities within your current
-               investment portfolio;
-            • Providing you with customized investment insights.
-For Personal Capital Investment Management Services Clients
-This section of the policy is relevant to you only if you have enrolled for our Wealth Management
-service, provided by Personal Capital Advisors Corporation.
-Personal Information We Collect
-       Upon your enrollment in our Wealth Management Service
-            o Your name
-            o Your mailing address
-            o Your employment information
-            o Your income information
-            o Your investment objectives
-            o Your tax data, such as tax bracket and security cost basis
-           o Your beneficiaries
-           o Your other personal profile information
-V100113
-                                  Copyright © Personal Capital Corporation 2013 All Rights Reserved.
+
+When you register, and at times thereafter, we may present questions that ask you to submit demographic and other information. Responding to these surveys is completely optional. If you do respond by sending us other information, we collect that information and will retain it indefinitely.
+
+When you use our dashboard software to aggregate your banking and other accounts, we collect
+
+  * Account login credentials (including user names and passwords) for the accounts you link to our service
+  * Account security and/or challenge questions for those accounts
+  * Other information from those accounts that you link to our service (including account balances, transactions and holdings)
 
 
-                                                    !
-        Upon submission of Customer Support or Service Requests
-            o Your email address
-            o Your phone number
-How We May Use Your Personal Information
-        To establish a Wealth Management relationship with you, including:
-            • Establishing a discretionary investment management relationship with you, only
-                upon your explicit request;
-            • Opening an account, on your behalf, with an independent securities brokerage
-                trading and clearing custodian account or banking institution;
-            • Providing you with account statements, trade confirmations, tax information and
-                other notifications related to the Wealth Management service;
-            • Providing the independent broker or banking institution with ongoing information
-                required to provide continuing services to you;
-            • Creating and continuously managing your investment portfolio strategy, aligned
-                with your investment objectives, tax data and personal preferences.
-        To provide you with customer support or service:
-            • Responding to and resolving your inquiries and requests via email or by phone.
-How Your Personal Information Is Shared
-Except as set forth in this Privacy & Security Policy, we don’t share Personal Information. We do
-not share your personal information for third party promotional use. And we will NEVER sell, rent
-or trade your personal information.
-For All Personal Capital Clients
-We may share your Personal Information:
+
+##### How We Use Your Personal Information
+
+To allow you to register with Personal Capital Technology Corporation, including:
+
+  * Creating a Personal Capital user account to use our dashboard service;
+  * Authenticating your device to access our services;
+  * Communicating to you about updated features or maintenance activities related to providing you with our services.
+
+
+
+To allow you to Add Accounts (aggregate 3rd party data), including:
+
+  * Securely gathering account balances, transactions and holdings from your financial institutions;
+  * Displaying personalized dashboards and financial visualizations for you;
+  * Providing you with contextual and relevant observations and insights;
+
+
+
+To provide you with Customer Support or Service Offerings:
+
+  * Responding to and resolving your inquiries and requests via email or by phone.
+  * Offering you our other services, including free financial consultation services and our personal wealth management solutions.
+
+
+
+To optimize systems and performance, provide comparisons and anonymous analysis:
+
+  * Monitoring system performance and data accuracy for optimization and user experience.
+  * Providing you comparisons of your financial situation (e.g., investment risks & returns, financial ratios) relative to aggregated user data to better understand your financial situation.
+  * Personalizing your user experience with Personal Capital.
+  * Publishing trends and analysis for our user base (e.g., America's balance sheet, geographical financial patterns).
+
+
+
+When we include your data as part of our trends and analysis information, we always remove all personally identifiable information from that data first, so your information is aggregated with all others on an anonymous basis.
+
+We may use certain third party service providers to help us provide you with some of the services mentioned in this Privacy & Security Statement. In doing so, we may provide your data (including your personally identifiable information) to those third party service providers, each of whom are required under contract with us to safeguard the personal information and to use it only to provide services to us. Per our contracts, only after these providers have removed all personalized information may some of them be contractually allowed to rent, sell or otherwise make commercial use of the data.
+
+#### For Personal Capital Consultation Recipients
+
+This section of the Statement is relevant to you only if you have elected to receive a personalized financial consultation from a licensed financial advisor employed by Personal Capital Advisors Corporation.
+
+##### Personal Information We Collect
+
+Upon your request for a Financial Consultation, we ask you to provide
+
+  * Your financial goals
+  * Your investment objectives
+  * Employment and income information about your household
+  * Retirement planning information about your household
+  * Other information you elect to share with us about your spouse/partner and/or beneficiaries
+
+
+
+##### How We Use Your Personal Information
+
+To provide you with a Personalized Financial Consultation, including:
+
+  * Informing you about existing risks and opportunities within your current investment portfolio;
+  * Providing you with customized investment insights.
+  * Personalizing your user experience with Personal Capital.
+
+
+
+#### For Personal Capital Wealth Management Services Clients
+
+This section of the Statement is relevant to you only if you have enrolled for our Wealth Management service, provided by Personal Capital Advisors Corporation.
+
+##### Personal Information We Collect
+
+Upon enrollment in our Wealth Management Service, you will be asked to review and agree to a number of written agreements and statements. Once you have completed the enrollment process, we will collect
+
+  * Your mailing address
+  * Your tax data, such as tax bracket and security cost basis
+  * information about your beneficiaries
+  * The account login information for your bank and investment accounts
+  * Your investment objectives
+  * Your other personal profile information
+
+
+
+##### How We Use Your Personal Information
+
+To establish a Wealth Management relationship with you, including:
+
+  * Establishing a discretionary investment management relationship with you, only upon your explicit request;
+  * Opening an account, on your behalf, with an independent securities brokerage trading and clearing custodian account or banking institution;
+  * Providing you with account statements, trade confirmations, tax information and other notifications related to the Wealth Management service;
+  * Providing the independent broker or banking institution with ongoing information required to provide continuing services to you;
+  * Creating and continuously managing your investment portfolio strategy, aligned with your investment objectives, tax data and personal preferences.
+  * Personalizing your user experience with Personal Capital.
+
+
+
+#### For All Personal Capital Users and Clients
+
+##### With Whom We Share Your Personal Information
+
+Except as set forth in this Privacy & Security Statement, we don’t share your Personal Information with anyone. We do not share your Personal Information for third party promotional use. And we will _**_NEVER_**_ sell, rent or trade your Personal Information.
+
+##### We may share your Personal Information:
+
 To conduct everyday business
-    • To run our everyday business, such as encrypted transmission of your account credentials
-        to 3rd party financial institutions where you hold accounts to gather and maintain your
-        account balances, transactions and holdings used to provide our services. (Read more about
-        our secure handling of your credentials);
-    • To interact with our wholly-owned subsidiaries (entities under Personal Capital’s direct
-        ownership or control) for everyday business purposes, such as sharing information about
-        your experiences or transactions, to provide financial insights and advice. This sharing is
-        limited specifically to Personal Capital Technology Corporation and Personal Capital
-        Advisors Corporation.
-To market to you
-    • To conduct our own marketing of our products and services to you;
-    • To market financial solutions we jointly provide with other companies in a manner that
-        does not involve sharing your information with any other company.
-V100113
-                                  Copyright © Personal Capital Corporation 2013 All Rights Reserved.
+
+  * If you have registered to use our dashboard to aggregate your banking and other financial accounts, we will transmit your account credentials to those 3rd party institutions where you hold accounts to gather and maintain your account balances, transactions and holdings used to provide our services. (Read more about our [secure handling of your credentials](https://support.personalcapital.com/forums/20752336-top-customer-security-questions)); 
+  * We will share your Personal Information with our wholly-owned subsidiaries (i.e., Personal Capital Technology Corporation and Personal Capital Advisors Corporation) for everyday business purposes, such as sharing information about your experiences or transactions, to provide financial insights and advice and improving your user experience...
 
 
-                                                    !
-To maintain our regulatory compliance responsibilities
-   • To abide by the laws, regulations and rules by which we are governed.
-Other Inform ation W e Collect From You
-Other Information is any information we gather that is not Personal Information:
-   • Browser information
-   • Information through cookies, pixels tags
-How W e Collect and Use Your Other Inform ation
-We collect and utilize Other Information to optimize, secure and simplify your experience with us.
-Your Other Information is not disclosed or shared outside of Personal Capital.
-For All Personal Capital Users and Clients
-   •    Your Browser
-        Certain information is collected by most browsers, such as your “user agent string”, to help
-        us determine your computing device type, operating system version and Internet browser
-        type and version. We use this information to ensure that our web sites function properly
-        and for security purposes.
-   •    Your Cookies (Text and Flash)
-        Cookies are pieces of information stored directly on the computing device you are using.
-        Cookies we use do not contain or capture unencrypted Personal Information. Cookies allow
-        us to collect information such as your browser type, Adobe® Flash® version, time spent on
-        our web sites and which of our pages you visited. We use the information for security
-        purposes, to facilitate navigation, to display information more effectively, to personalize
-        your experience and to recognize authorized devices to allow your use of our services. We
-        also gather statistical information about web site usage in order to continually improve the
-        design and functionality and to assist us with resolving technical support questions.
-        Additionally, we use cookies to track the effectiveness of our advertising campaigns and to
-        collect aggregate data on web page viewing and mobile app usage. Additionally, we use
-        cookies on our web sites and the sites on which we advertise to track advertising
-        performance and to collect aggregate data on web page viewing. Cookies are not used to
-        collect or disseminate any personal information. You can manage the placement of cookies
-        on your computer through the features found in most Internet browsers. You can also
-        delete cookies that have already been placed on your computer. Consult the "Help" function
-        of your browser to explore your options.
-   •    Pixels Tags
-        Pixel Tags are typically deployed as 1x1 pixel images (GIFs), used to track your access to web
-        site pages, and within and HTML-formatted email messages. We use pixel tags to measure
-        the effectiveness of our communications, the success of our marketing campaigns, compile
-        statistics about usage and response rates, and to assist us in resolving client questions about
-        the use of our services.
-V100113
-                                   Copyright © Personal Capital Corporation 2013 All Rights Reserved.
+
+To comply with the laws, regulations and rules by which we are governed.
+
+We may share your name and email address, and the name and email address of those you refer to us, with the referral fulfillment partners we retain as our third party referral program administrators.
+
+Information that we share with others when you enroll in our Wealth Management Services is disclosed in documents we will present to you during the enrollment process.
+
+Other Information We Collect From You
+
+  * Browser information
+  * Information through cookies, pixels tags
 
 
-                                                     !
-    •   Your IP Address
-        Your IP Address is a number assigned to the device that you are using by your Internet
-        Service Provider. An IP Address is identified and logged whenever you visit our web sites or
-        applications, along with the page(s) that were visited. We use IP Addresses, individually and
-        collectively, for purposes such as calculating usage levels, helping diagnose technical
-        problems and supporting our web sites and applications. Additionally, we use your IP
-        Address to assist in fraud detection and authentication to better protect your security
-Additional Privacy & Security Information
-For All Personal Capital Clients
-Security
-To protect Personal Information from unauthorized access and use, we use security measures that
-comply with relevant laws and regulations. Beyond this Privacy & Security Policy, we provide
-additional security resources for your review:
-    •   Personal Capital Safety & Security
-    •   Information Security Overview
-    •   Security Protections
-    •   Top Customer Security Questions
-Updating your Personally Identifiable Information
-The credibility and relevance of our services depend on your providing us with complete, accurate
-and up-to-date information about yourself and your accounts, both now and in the future. By
-providing us with your e-mail address, you agree to receive all required notices electronically, to
-that e-mail address. It is your responsibility to notify us if your email address has changed.
-Email Marketing Opt-out
-When we communicate our own marketing offers to you, these communications are CAN-SPAM
-compliant, including the ability for you to opt-out of marketing communications.
-Deletion/Retention of Personally Identifiable Information
-When you request to be removed from our systems, we remove all your Personally Identifiable
-information to the extent possible by law or regulation. For instance, all your login credentials for
-other accounts are removed from our systems in all cases. However, the extent of historical
-transactional data (e.g., payments made through Universal Checkbook) and wealth management
-services data (e.g., communications, advice and account activity) is retained and archived. Some of
-our services are subject to regulatory requirements that dictate the information we must retain
-about you and for how long.
-V100113
-                                   Copyright © Personal Capital Corporation 2013 All Rights Reserved.
+
+### How We Collect and Use Your Other Information
+
+We collect and utilize Other Information to optimize, secure and simplify your experience with us. Your Other Information is not disclosed or shared outside of Personal Capital.
+
+#### For All Personal Capital Users and Clients
+
+  
+
+  * **Your Browser or Device**  
+Certain information is collected by most browsers or applications, such as your “user agent string”, to help us determine your computing device type, operating system version and Internet browser type and version. We use this information to ensure that our web sites function properly and for security purposes.
+  
+
+  * **Your Cookies**  
+Cookies are pieces of information stored directly on the computing device you are using. Cookies we use do not contain or capture Personal Information. Cookies allow us to collect information such as your browser type, time spent on our web sites and which of our pages you visited. We use the information for security purposes, to facilitate navigation, to display information more effectively, to personalize your experience and to recognize authorized devices to secure your use of our services. We also gather statistical information about web site usage in order to continually improve the design and functionality and to assist us with resolving technical support questions. Additionally, we use cookies on our web sites and the sites on which we advertise to track advertising performance and to collect aggregate data on web page viewing and mobile app usage. Cookies may be connected to third-party companies or websites. The privacy practices of the companies placing such cookies are governed by the privacy policies of such third-party companies or websites. As an example, Google Analytics measures the performance of advertisements by placing cookies on your computer when you click on an advertisement. When you visit the website which you clicked on, you will have cookies placed on your computer. As a result, we and Google will be able to tell that you saw the ad delivered by Google. The privacy practices pertaining to these cookies are governed by our Privacy Statement and Google’s Privacy Policy. Cookies are not used to collect or disseminate any Personal Information. You can manage the placement of cookies on your computer through the features found in most Internet browsers. You can also delete cookies that have already been placed on your computer. Consult the "Help" function of your browser to explore your options.
+  
+
+  * **Pixels Tags**  
+Personal Capital deploys Pixel Tags as 1x1 pixel images (GIFs), used to track your access to web site pages, and HTML-formatted email messages. We use pixel tags to measure the effectiveness of our communications, the success of our marketing campaigns, compile statistics about usage and response rates, and to assist us in resolving client questions about the use of our services.
+  
+
+  * **Your IP Address**  
+Your IP Address is a number assigned to the device that you are using by your Internet Service Provider. An IP Address is identified and logged whenever you visit our web sites or applications, along with the page(s) that were visited. We use IP Addresses, individually and collectively, for purposes such as calculating usage levels, helping diagnose technical problems and supporting our web sites and applications. Additionally, we use your IP Address to assist in fraud detection and authentication to better protect your security.
 
 
-                                                   !
-You may visit the troubleshooting section of our support web site for instructions on how to delete
-your Personal Capital account.
-Alternatively, you may request your Personal Capital account to be deleted by our support
-department by emailing support@personalcapital.com from the email address associated with your
-Personal Capital account, indicating “CANCEL” in the subject line of the message. After confirming
-you are the account owner we will remove Personally Identifiable information from our records
-and will only continue to retain such information as required by law.
-Advertising
+
+### Additional Privacy & Security Information
+
+#### For All Personal Capital Users and Clients
+
+To protect Personal Information from unauthorized access and use, we use security measures that comply with relevant laws and regulations. Beyond this Privacy & Security Statement, we provide additional security measures, such as:
+
+**Bank Level Security** : Personal Capital is powered using technologies and practices that many banks and other financial institutions use to protect customer information, such as SSL encryption for data in transit and AES encryption for sensitive data at rest. After initial account aggregation, we do not store your financial institution credentials in our systems or in our applications. Our dashboard account aggregation service is provided by an industry-leading third-party account aggregation service. (See “With Whom We Share Your Personal Information” above.) That service employs comprehensive financial data security standards and is subject to ongoing multi-agency financial institution regulatory examinations. 
+
+**Device Authentication:** When you register for our dashboard app, we recognize your device for enhanced security. If access to your dashboard account is attempted from another device, you will be notified by phone or email and access will not be granted unless you authorize the new device. Also, you may remove lost devices from your authorized device list to continuously protect from unauthorized access to your dashboard account.
+
+**No Money Movement:** While using the dashboard app, you can only view financial account balances and transactions. You cannot transfer money between accounts, authorize spending or move money, safeguarding you from unauthorized money transfers from your financial accounts.
+
+**Account Monitoring:** Our dashboard app allows you to monitor all your transactions for accounts linked to our dashboard, providing you with a comprehensive view of all account activities.
+
+##### Reviewing and Updating your Personally Identifiable Information
+
+You can view and update the profile and account information we collect for you by going to the “settings” function in our website and in our app. The credibility and relevance of our services depend on your providing us with complete, accurate and up-to-date information about yourself and your accounts, both now and in the future.
+
+##### Email Marketing Opt-out
+
+When we communicate our own marketing offers to you, these communications are CAN-SPAM compliant, including the ability for you to opt-out of marketing communications.
+
+##### Deletion/Retention of Personally Identifiable Information
+
+Unless you request otherwise, we will retain the Personal Information we collect from you indefinitely.
+
+Personal Capital, as a registered investment advisor, must comply with certain legal and regulatory requirements pertaining to record retention. We will respond to any requests we receive asking that we delete Personal Information that we possess from those who use our services, downloaded our dashboard or registered and established a user profile. However, we will not delete information that we are required to retain in order to comply with applicable laws and regulations.
+
+#### How to Request Deletion of the Personal Information We Collect.
+
+You may visit the troubleshooting section of our support web site for instructions on <a href="https://support.personalcapital.com/entries/21051288-how-do-i-cancel-my-personal-capital-account" ,="" target="_blank">how to delete your Personal Capital account.
+
+Alternatively, you may request your Personal Capital account be deleted by our support department by emailing [support@personalcapital.com](mailto:support@personalcapital.com) from the email address associated with your Personal Capital account, indicating “CANCEL” in the subject line of the message. After confirming you are the account owner we will remove Personal Information from our records and will only continue to retain such information as required by law.
+
+#### Personal Capital’s Statement Regarding “Do Not Track” Signals
+
+Most browsers can be set to send signals to third party websites requesting them not to track the user’s activities. At this time, Personal Capital does not respond to “do not track” signals. Consequently, Personal Capital, its third party service providers such as Google Analytics, and other third party websites and online services may indeed track and collect Personal Information about your online activities over time while navigating to, from and on our website and our mobile app and across those third party websites and online services, notwithstanding any “do not track” signals we may receive.
+
+#### Advertising
+
 We do not allow 3rd party advertising on our web site or applications.
-Referral Program
-Personal Capital manages a referral program, whereby its users may refer our services to new users,
-such as friends and family members, in exchange for rewards. Participation in our referral
-program is only upon voluntary election by our clients and/or users. By participating, you will
-provide information (e.g., name and email address) about the person to whom you refer our service,
-as well as your personal information (e.g., name and email address), with our referral program
-administrator, Extole, Inc. All such personal information will be collected, processed and used in
-accordance with their terms & conditions and their privacy policy, which are disclosed upon
-referral program enrollment for your review and acceptance.
-Social Media
-Personal Capital may integrate authentication or social experiences on social media platforms such
-as Facebook®, Twitter®, Google Circles and LinkedIn® that enable login or online sharing and
-collaboration among users who have registered to use such social media platforms. Any content
-you post, such as pictures, information, opinions, or any Personal Information that you make
-available to other participants on these social platforms, is subject to the Terms of Use and Privacy
-Policies of those platforms. Please refer to them to better understand your rights and obligations
-with regard to such content.
-Protecting Children’s Privacy Online
-Personal Capital is not directed to individuals under the age of thirteen (13), and we request that
-these individuals do not provide Personal Information through our web sites or applications. We do
-not knowingly collect information from children under 13 without parental consent. For more
-information about the Children’s Online Privacy Protection Act (COPPA), visit the Federal Trade
-Commission website.
-Modifications to our Privacy & Security Policy
-This Privacy & Security Policy may periodically change. If we make a change to this Privacy Policy
-that we believe materially reduces your rights, we will send you a notice by email and post these
-changes prominently on our web sites.
-For California Residents
-Personal Capital must comply with California Financial Information Privacy Act (SB1) if the firm
-does business with California consumers. California state law requires financial institutions to
-obtain your consent prior to sharing information about you with non-affiliated third parties.
-V100113
-                                  Copyright © Personal Capital Corporation 2013 All Rights Reserved.
 
+#### Social Media
 
-                                                  !
-Except as permitted by law, or upon your express written consent, we will not share information
-we collect about you with non-affiliated third parties while you are a resident of California.
-For Vermont Residents
-We will not share your personal information with non-affiliates, except for our everyday business
-and marketing purposes, unless you agree to such sharing on a separate form that we will send you.
-Also, we will not share information about your creditworthiness with affiliates unless you agree to
-such sharing. You do not have to contact us to implement these limits on our sharing. We may
-share information about your transactions and experiences with affiliates for their everyday
-business purposes and to market to you, but you can stop them from using your information for
-marketing by calling us at the toll-free number below.
-For Nevada Residents
-Nevada law requires that we provide you with the following contact information: Bureau of
-Consumer Protection, Office of the Nevada Attorney General, 555 E. Washington St., Suite 3900, Las
-Vegas, NV 89101; Phone number- 702.486.3132; email: BCPINFO@ag.state.nv.us.
-Privacy & Security Questions, Comments or Feedback?
+Personal Capital may integrate authentication or social experiences on social media platforms such as Facebook®, Twitter®, Google Circles and LinkedIn® that enable login or online sharing and collaboration among users who have registered to use such social media platforms. Any content you post, such as pictures, information, opinions, or any Personal Information that you make available to other participants on these social platforms, is subject to the terms of use and privacy policies of those platforms. Please refer to them to better understand your rights and obligations with regard to such content.
+
+#### Protecting Children’s Privacy Online
+
+Personal Capital is not directed to individuals under the age of thirteen (13), and those children should not provide Personal Information through our web sites or applications. We do not knowingly collect information from children under 13 without parental consent. For more information about the Children’s Online Privacy Protection Act (COPPA), visit the Federal Trade Commission [website](https://www.ftc.gov/).
+
+#### Modifications to our Privacy & Security Statement
+
+We change our privacy practices from time to time as the need arises. When we do, we will revise this Privacy & Security Statement and we will post the revised document on our website at [https://www.personalcapital.com/privacy-policy](https://web.archive.org/privacy-policy).
+
+### Privacy & Security Questions, Comments or Feedback?
+
 Please contact us.
-Attention: Privacy & Security
-Personal Capital Corporation and Personal Capital Technology Corporation
-726 Main Street
-Redwood City, CA 94063
-Personal Capital Advisors Corporation
-500 Howard Street, Suite 400
-San Francisco, CA 94105
+
+Attention: Privacy & Security  
+Personal Capital Corporation and its wholly owned subsidiaries  
+726 Main Street  
+Redwood City, CA 94063 
+
 Call toll-free 855-855-8005
-Visit www.personalcapital.com
-Email us at support@personalcapital.com
-V100113
-                                 Copyright © Personal Capital Corporation 2013 All Rights Reserved.
+
+Visit [www.personalcapital.com](https://www.personalcapital.com/)
+
+Email us at [support@personalcapital.com](mailto:support@personalcapital.com)
