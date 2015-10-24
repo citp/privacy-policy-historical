@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the absoluterights.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315020442id_/http%3A//absoluterights.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the absoluterights.com privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024093714id_/http%3A//absoluterights.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Absolute Rights
 
