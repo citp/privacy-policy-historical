@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pakistan.web.pk privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502154038id_/http%3A//www.pakistan.web.pk/help/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakistan.web.pk privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024074013id_/http%3A//www.pakistan.web.pk/help/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pakistan Social Web
 
@@ -17,7 +17,7 @@ To personalize your experience (your information helps us to better respond to y
 
 ### Do we use cookies?
 
-    Yes. This page explains how this site uses cookies.: [Cookie Usage](https://web.archive.org/web/20150502154038id_/http%3A//www.pakistan.web.pk/help/help/cookies)
+    Yes. This page explains how this site uses cookies.: [Cookie Usage](https://web.archive.org/web/20151024074013id_/http://www.pakistan.web.pk/help/policy/help/cookies)
 
 ### Do we disclose any information to outside parties?
 
@@ -29,7 +29,7 @@ To personalize your experience (your information helps us to better respond to y
 
 ### Terms and Conditions
 
-    Please visit our Terms of Service and Rules section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Terms of Service and Rules](https://web.archive.org/web/20150502154038id_/http%3A//www.pakistan.web.pk/help/help/terms) page.
+    Please visit our Terms of Service and Rules section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Terms of Service and Rules](https://web.archive.org/web/20151024074013id_/http://www.pakistan.web.pk/help/policy/help/terms) page.
 
 ### Changes to our Privacy Policy
 
@@ -37,7 +37,7 @@ To personalize your experience (your information helps us to better respond to y
 
 ### Contacting Us
 
-    If there are any questions regarding this privacy policy you may [Contact Us by Clicking Here](https://web.archive.org/web/20150502154038id_/http%3A//www.pakistan.web.pk/help/misc/contact).
+    If there are any questions regarding this privacy policy you may [Contact Us by Clicking Here](https://web.archive.org/web/20151024074013id_/http://www.pakistan.web.pk/help/policy/misc/contact).
 
 Pakistan Social Web
 http://www.pakistan.web.pk
