@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nathalielussier.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314221624id_/http%3A//nathalielussier.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nathalielussier.com privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024035458id_/http%3A//nathalielussier.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Nathalie Lussier
 
