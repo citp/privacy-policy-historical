@@ -1,10 +1,9 @@
-<!--The following is the downloaded HTML source of the mobilemoxie.com privacy policy that was archived on 2015-04-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150406053219id_/http%3A//www.mobilemoxie.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mobilemoxie.com privacy policy that was archived on 2015-10-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151024063812id_/http%3A//www.mobilemoxie.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta charset="UTF-8">
-<title>MobileMoxie - Mobile Marketing and SEO Consulting and Free Tools</title>
-<meta name="description" content="Review your mobile marketing campaigns with MobileMoxie's free tool set, mobile marketing blog, twitter archive, mobile marketing example database and blog posts!">
+<title>Privacy Policy for the MobileMoxie Mobile Marketing Tools</title>
 <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
 <!-- Bootstrap --><!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries --><!-- WARNING: Respond.js doesn't work if you view the page via file:// --><!--[if lt IE 9]>
 <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
@@ -13,7 +12,8 @@
 <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700italic,400,700,600">
 <link rel="stylesheet" href="http://www.mobilemoxie.com/includes/css/multiplex/7/style.css">
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script><script type="text/javascript" src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script><script type="text/javascript" src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script><meta name="description" content="Please read our privacy policy to get a clear understanding of how we collect, use, protect or otherwise handle personally identifiable information.">
+<link rel="canonical" href="https://www.mobilemoxie.com/privacy/">
 </head>
 <body>
 <header class="navbar-wrapper" id="site-header" role="banner"><nav class="navbar navbar-default" role="navigation"><div class="container primary-nav">
@@ -63,10 +63,11 @@
                                     <div class="form-group">
                                     	<input name="password" id="floating_login__password" type="password" placeholder="Password" class="form-control">
 </div>
-                                    <input type="submit" id="btnLogin" class="btn btn-default" value="Login">
+                                    <input type="button" id="btnForgot" class="btn btn-sm" value="Forgot Password">&nbsp;<input type="submit" id="btnLogin" class="btn btn-default" value="Login">
 </form>
                             </div>
                         </li>
+                        
                         
                     </ul>
 <ul class="nav navbar-nav navbar-bottom">
@@ -75,7 +76,9 @@
                             <div class="dropdown-menu">
                                 <div class="container">
                                     <div class="dropdown-content">
-                                        <a href="/tools/seo_markup_validator">Social Markup Validator</a> <a href="/tools/seo_search_simulator">Search Simulator</a>
+                                        <a href="/tools/seo_markup_validator">Social Markup Validator</a>
+                                        <a href="/tools/seo_search_simulator">Search Simulator</a>
+                                        <a href="/tools/deep_linking_validator">Deep Linking Markup Validator</a>
                                     </div>
                                 </div>
                             </div>
@@ -85,7 +88,9 @@
                             <div class="dropdown-menu">
                                 <div class="container">
                                     <div class="dropdown-content">
-                                        <a href="/tools/site_analysis">Site Analyzer</a> <a href="/tools/redirection_script_generator">Redirect Generator</a> <a href="/tools/mobile_handset_emulator">Device Emulator</a>
+                                        <a href="/tools/site_analysis">Site Analyzer</a>
+                                        <a href="/tools/redirection_script_generator">Redirect Generator</a>
+                                        <a href="/tools/mobile_handset_emulator">Device Emulator</a>
                                     </div>
                                 </div>
                             </div>
@@ -95,15 +100,27 @@
                             <div class="dropdown-menu">
                                 <div class="container">
                                     <div class="dropdown-content">
-                                        <a href="/tools/marketing_news">Mobile Marketing News Archive</a>
+                                        <a href="/tools/marketing_gallery">Mobile Marketing Gallery</a>
+                                    	<a href="/tools/marketing_news">Mobile Marketing News Archive</a>
                                     </div>
                                 </div>
                             </div>
                         </li>
                         <li><a href="/tools/">Explore</a></li>
                         <li><a href="/consulting/">Consulting</a></li>
-                        <li><a href="/about/">About</a></li>
-                        
+                        <li class="dropdown navbar-fullwidth about-moxie">
+                            <a href="/" data-toggle="dropdown" class="dropdown-toggle" title="About MobileMoxie">About</a>
+                            <div class="dropdown-menu">
+                                <div class="container">
+                                    <div class="dropdown-content">
+                                        <a href="/about/">About MobileMoxie</a>
+                                        <a href="/team/">Our Team</a>
+                                        <a href="/contact/">Contact Us</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li><a href="/blog">Blog</a></li>
                     </ul>
 </div>   
             </div>
@@ -242,26 +259,26 @@
     	<h2 class="blue">Questions?</h2>
         <p>Looking for mobile SEO help or have a specific question for MobileMoxie? Send us a message!</p>
         <div id="contact__div">
-	        <form role="form" id="contact_form">
-	        	<div class="row">
-	            	<div class="col-md-6">
-	                     <div class="form-group">
-	                        <input type="text" class="form-control" id="contact__name" name="contact__name" placeholder="Name">
+            <form role="form" action="/" method="post" id="contact_form">
+            	<div class="row">
+                	<div class="col-md-6">
+                         <div class="form-group">
+                            <input name="contact__name" type="text" class="form-control" id="contact__name" placeholder="Name">
 </div>
-	                    <div class="form-group">
-	                        <input type="email" class="form-control" id="contact__email" name="contact__email" placeholder="Email">
+                        <div class="form-group">
+                            <input name="contact__email" type="email" class="form-control" id="contact__email" placeholder="Email">
 </div>
-	            	</div>
-	                <div class="col-md-6">
-	                	<div class="form-group">
-	                    	<textarea class="form-control" id="contact__message" name="contact__message" placeholder="Message"></textarea>
+                	</div>
+                    <div class="col-md-6">
+                    	<div class="form-group">
+                        	<textarea name="contact__message" class="form-control" id="contact__message" placeholder="Message"></textarea>
 </div>
-	   
-	                </div>
-				</div>    
-	            <button type="submit" class="btn btn-primary">Submit</button>            
-			</form>
-		</div>
+       
+                    </div>
+    			</div>    
+                <input type="submit" id="contact__submit" class="btn btn-primary" value="Submit">
+</form>
+        </div>
     </div>
 </div>
 
@@ -276,7 +293,7 @@
         </ul>
 <p>Copyright © 2015 MobileMoxie.com. All rights reserved.</p>
     </div>
-</footer><script type="text/javascript" src="http://www.mobilemoxie.com/templates/multiplex/js/7/listeners.js"></script><script type="text/javascript" src="http://www.mobilemoxie.com/templates/multiplex/js/7/contact.js"></script>
+</footer><script type="text/javascript" src="http://www.mobilemoxie.com/templates/multiplex/js/7/listeners.js"></script>
 
 
 </body></html>
