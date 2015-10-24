@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpp.edu privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608121451id_/http%3A//www.cpp.edu/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpp.edu privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024033734id_/http%3A//www.cpp.edu/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy
 
@@ -46,4 +46,4 @@ Electronically collected personal information is exempt from requests made pursu
 
 ## Records requests
 
-[Official agent for records requests.](http://www.csupomona.edu/~rms/public_record_access.htm)
+[Official agent for records requests.](http://www.cpp.edu/~rms/public_record_access.htm)
