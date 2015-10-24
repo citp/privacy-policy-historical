@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialadstool.com privacy policy that was archived on 2015-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150412045637id_/http%3A//www.socialadstool.com/wp-content/uploads/Privacy-and-Security-Policy-SAT.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialadstool.com privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024120513id_/http%3A//www.socialadstool.com/wp-content/uploads/Privacy-and-Security-Policy-SAT.pdf) for the most accurate reproduction.*
 
 # PRIVACY & SECURITY POLICY G
 
