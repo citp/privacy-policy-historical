@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mapme.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625005632id_/http%3A//www.mapme.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapme.com privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024193017id_/http%3A//mapme.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Mapme
 
