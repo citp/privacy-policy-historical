@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rewardsnetwork.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423180909id_/http%3A//www.rewardsnetwork.com/business-solutions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rewardsnetwork.com privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024093230id_/http%3A//www.rewardsnetwork.com/business-solutions/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Rewards Network
+# Privacy Policy - Rewards Network
 
 We respect your privacy and want you to know how we collect and share personally identifiable information about you and sensitive information about your business. We prepared this privacy policy to describe to you how we collect and share your personally identifiable information and sensitive information about your business. Please read this privacy policy so that you understand how we use Personal Information, Business Information and Program Data in operating our business and providing services to you.
 
