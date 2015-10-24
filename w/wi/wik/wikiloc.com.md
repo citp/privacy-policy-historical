@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wikiloc.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626000955id_/http%3A//www.wikiloc.com/wikiloc/privacy.html%3Fv1.0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikiloc.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025004259id_/http%3A//www.wikiloc.com/wikiloc/privacy.html%3Fv1.0) for the most accurate reproduction.*
 
 # Privacy policy - Wikiloc
 
 [← back to wikiloc](http://www.wikiloc.com/) [](http://www.wikiloc.com/)
 
-_July 2011_
+_September 2015_
 
 The website available at [http://www.wikiloc.com](http://www.wikiloc.com/), including any of its subdomains or sections (the " **Website** ") and any of the mobile applications (" **Applications** ") published by Wikiloc Outdoor, S.L. (" **Wikiloc** ") are operated by Wikiloc. 
 
@@ -76,6 +76,8 @@ The way the Services work implies that part of the information provided by the u
 Additionally, users can mark the trails that they upload to the Services as "public" or "private". By default, trails are marked as public and are available to other users. During the uploading process or at any time afterwards users will be able to modify this attribute for each of their trails by editing the trail properties. 
 
 Any user publishing within the Website or the Applications personal information of third parties guarantees that he/she has previously obtained such third parties’ consent. 
+
+Users can also invite others to visualize their location and current trail on a map. The User will be notified when someone has accepted the invitation to follow their trail and will have the ability to stop sharing this information at anytime. Wikiloc does not assume any liability in relation to the risks associated with allowing others access to the User’s location. Wikiloc does not assume any liability in relation to the processing of users’ personal data by third parties’ platforms through which the user shares the invitation. 
 
 Public trails and certain information related to them are shared with Google Inc. and Google group companies, and may be displayed through the Google Earth viewer. Wikiloc does not assume any liability in relation to the processing of users’ personal data by Google. 
 
