@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goformative.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325001534id_/http%3A//goformative.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goformative.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026004009id_/http%3A//goformative.com/privacy) for the most accurate reproduction.*
 
 # Formative
 
@@ -86,5 +86,5 @@ We reserve the right to change the privacy policy at our sole discretion. Format
 Please contact Formative with any questions or comments about this Privacy Policy, your personal information, our third-party disclosure practices, or your consent choices by email at [privacy@goformative.com](mailto:privacy@goformative.com) or by mail at: 
 
 Formative   
-1158 26th Street # 161  
-Santa Monica, CA 90403.
+1031 W Manchester Blvd, Unit 7  
+Inglewood, CA 90301.
