@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the practicalclinicalskills.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315032305id_/http%3A//practicalclinicalskills.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the practicalclinicalskills.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025191141id_/http%3A//www.practicalclinicalskills.com/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Page
 
 This Privacy Policy governs the collection and use of certain information we obtain in the course of your using this website.  You may access the Practical Clinical Skills (www.practicalclinicalskills.com) website without disclosing any Personal Data. However, you will be required to disclose Personal Data in order to access certain website services. We will take commercially reasonable steps to maintain the security and privacy of all personal information you may submit to us in the course of using the Practical Clinical Skills Website. 
 
