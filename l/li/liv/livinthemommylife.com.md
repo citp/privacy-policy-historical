@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livinthemommylife.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618032915id_/http%3A//livinthemommylife.com/%3Fpage_id%3D650) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livinthemommylife.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025142910id_/http%3A//livinthemommylife.com/%3Fpage_id%3D650) for the most accurate reproduction.*
 
 # Privacy Policy | Livin' the Mommy Life
 
