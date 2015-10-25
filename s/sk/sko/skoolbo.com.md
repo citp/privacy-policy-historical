@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skoolbo.com privacy policy that was archived on 2015-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150402073550id_/http%3A//www.skoolbo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skoolbo.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025063819id_/http%3A//skoolbo.com/privacy) for the most accurate reproduction.*
 
 # Skoolbo | Privacy Policy
 
