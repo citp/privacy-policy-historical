@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the icecreamapps.com privacy policy that was archived on 2015-04-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150414030029id_/http%3A//icecreamapps.com/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the icecreamapps.com privacy policy that was archived on 2015-10-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151025190006id_/http%3A//icecreamapps.com/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>    
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">    
@@ -29,7 +29,7 @@ Privacy Policy - Icecream Apps
     <link rel="stylesheet" href="/inc/style.css">  
 
       
-<script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/platform.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://code.jquery.com/jquery-1.11.0.min.js"></script>    
+<script id="twitter-wjs" async="" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/platform.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://code.jquery.com/jquery-1.11.0.min.js"></script>    
 
     <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=yes">     
 <script>if ($(window).width() < 600) { $('meta[name=viewport]').attr('content','initial-scale=0.54, maximum-scale=0.54, user-scalable=no'); }</script>
@@ -75,7 +75,7 @@ Privacy Policy - Icecream Apps
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-52741989-1', 'auto');
+  ga('create', 'UA-67055185-1', 'auto'); 
   ga('send', 'pageview');
 
 </script>
@@ -90,6 +90,7 @@ Privacy Policy - Icecream Apps
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
   js = d.createElement(s); js.id = id;
+  js.async=true;
   js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
@@ -112,7 +113,7 @@ Privacy Policy - Icecream Apps
 <br><br>
 
 <a href="https://twitter.com/share" class="twitter-share-button" data-count="vertical">Tweet</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.async=true;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
 
 
@@ -124,7 +125,7 @@ Privacy Policy - Icecream Apps
 <div class="header clearfix">
 <div class="inner">
 <div class="logo">
-<a href="/"><img src="/images/logo.png" alt="Icecream Apps: free &amp; tasty software"></a>
+<a href="/"><img src="/images/logo.png" alt="Icecream Apps: free &amp; tasty software" width="145" height="48"></a>
 </div>
 <div class="slogan">
 Free &amp; Tasty Software!
@@ -132,22 +133,28 @@ Free &amp; Tasty Software!
 
 <div class="language">
 <ul id="languagemenu">
-<li><a onclick="return false" href=""><img class="lm-icon" src="/images/en.png">ENGLISH</a>
+<li><a onclick="return false" href=""><span class="lm-icon"><div id="flen"></div></span>ENGLISH</a>
 <ul>
 <li>
 <div class="lm-list">
 
-<a href="/privacypolicy.html"><img src="/images/en.png">ENGLISH</a>
-<a class="disabled_lang"><img src="/images/es.png">ESPAÑOL</a>
-<a class="disabled_lang"><img src="/images/de.png">DEUTSCH</a>
-<a class="disabled_lang"><img src="/images/jp.png">日本語</a>
+<a href="/privacypolicy.html"><span class="lm-icon"><div id="flen"></div></span>ENGLISH</a>
+<a class="disabled_lang"><span class="lm-icon"><div id="fles"></div></span>ESPAÑOL</a>
+<a class="disabled_lang"><span class="lm-icon"><div id="flde"></div></span>DEUTSCH</a>
+<a class="disabled_lang"><span class="lm-icon"><div id="fljp"></div></span>日本語</a>
 
 </div>
 <div class="lm-list">
-<a class="disabled_lang"><img src="/images/pt.png">PORTUGUÊS</a>
-<a class="disabled_lang"><img src="/images/it.png">ITALIANO</a>
-<a class="disabled_lang"><img src="/images/fr.png">FRANÇAIS</a>
-<a class="disabled_lang"><img src="/images/ru.png">РУССКИЙ</a>
+<a class="disabled_lang"><span class="lm-icon"><div id="flpt"></div></span>PORTUGUÊS</a>
+<a class="disabled_lang"><span class="lm-icon"><div id="flit"></div></span>ITALIANO</a>
+<a class="disabled_lang"><span class="lm-icon"><div id="flfr"></div></span>FRANÇAIS</a>
+<a class="disabled_lang"><span class="lm-icon"><div id="flru"></div></span>РУССКИЙ</a>
+<a class="disabled_lang"><span class="lm-icon"><div id="flno"></div></span>NORSK</a>
+<a class="disabled_lang"><span class="lm-icon"><div id="flse"></div></span>SVENSKA</a>
+<a class="disabled_lang"><span class="lm-icon"><div id="fldk"></div></span>DANSK</a>
+<a class="disabled_lang"><span class="lm-icon"><div id="flnl"></div></span>NEDERLANDS</a>
+<a class="disabled_lang"><span class="lm-icon"><div id="fltr"></div></span>TÜRKÇE</a>
+
 </div>
 </li>
 </ul>
@@ -170,7 +177,7 @@ Free &amp; Tasty Software!
 <div class="cm-bpunkt">
 <a href="/PDF-Converter/">
 <div class="cm-icon">
-<img src="/images/pcbigicon.png">
+<div id="pcbigicon"></div>
 </div>
 
 <div class="cm-caption">PDF Converter</div>
@@ -183,13 +190,13 @@ Convert PDF documents or convert other files to PDF format</a>
 
 <li>
 <div class="cm-bpunkt">
-<a href="/Media-Converter/">
+<a href="/Screen-Recorder/">
 <div class="cm-icon">
-<img src="/images/mcbigicon">
+<div id="srbigicon"></div>
 </div>
 
-<div class="cm-caption">Media Converter</div>
-Video and audio converter. Supports all media formats</a>
+<div class="cm-caption">Screen Recorder</div>
+Capture screen as a screenshot or video file</a>
 </div>
 
 </li>
@@ -200,7 +207,7 @@ Video and audio converter. Supports all media formats</a>
 <div class="cm-bpunkt">
 <a href="/Ebook-Reader/">
 <div class="cm-icon">
-<img src="/images/brbigicon.png">
+<div id="brbigicon"></div>
 </div>
 
 <div class="cm-caption">Ebook Reader</div>
@@ -215,41 +222,11 @@ Lets you read your favorite books in Epub, FB2 and other formats</a>
 <div class="cm-bpunkt">
 <a href="/PDF-Split-and-Merge/">
 <div class="cm-icon">
-<img src="/images/psmbigicon.png">
+<div id="psmbigicon"></div>
 </div>
 
-<div class="cm-caption">PDF Split&amp;Merge</div>
+<div class="cm-caption">PDF Split &amp; Merge</div>
 Split and/or merge PDF files without limits</a>
-</div>
-
-</li>
-
-
-
-<li>
-<div class="cm-bpunkt">
-<a href="/Screen-Recorder/">
-<div class="cm-icon">
-<img src="/images/srbigicon.png">
-</div>
-
-<div class="cm-caption">Screen Recorder</div>
-Capture screen as a screenshot or video file</a>
-</div>
-
-</li>
-
-
-
-<li>
-<div class="cm-bpunkt">
-<a href="/Image-Resizer/">
-<div class="cm-icon">
-<img src="/images/irbigicon.png">
-</div>
-
-<div class="cm-caption">Image Resizer</div>
-Resize multiple images of different formats (JPG, BMP, PNG, etc.)</a>
 </div>
 
 </li>
@@ -260,7 +237,7 @@ Resize multiple images of different formats (JPG, BMP, PNG, etc.)</a>
 <div class="cm-bpunkt">
 <a href="/Slideshow-Maker/">
 <div class="cm-icon">
-<img src="/images/smbigicon.png">
+<div id="smbigicon"></div>
 </div>
 
 <div class="cm-caption">Slideshow Maker</div>
@@ -271,26 +248,43 @@ Make a nice slideshow or a simple presentation quickly</a>
 
 
 
+<li>
+<div class="cm-bpunkt">
+<a href="/Image-Resizer/">
+<div class="cm-icon">
+<div id="irbigicon"></div>
+</div>
+
+<div class="cm-caption">Image Resizer</div>
+Resize multiple images of different formats (JPG, BMP, PNG, etc.)</a>
+</div>
+
+</li>
+
+
+
+
 </ul>
 </li>
 
 
 <li><a href="/about.html">Who we are</a>
 <ul>
-<li><a href="/about.html"><img class="cm-micon" src="/images/headmenuicons7.png"><span>About Icecream Apps</span></a></li>
-<li><a href="/pressroom.html"><img class="cm-micon" src="/images/headmenuicons8.png"><span>Press Room</span></a></li>
-<li><a href="/partnership.html"><img class="cm-micon" src="/images/headmenuicons9.png"><span>PartnerShip</span></a></li>
-<li><a href="/contact.html"><img class="cm-micon" src="/images/headmenuicons10.png"><span>Contact</span></a></li>
+<li><a href="/about.html"><div id="headmenuicons7"></div><span>About Icecream Apps</span></a></li>
+<li><a href="/pressroom.html"><div id="headmenuicons8"></div><span>Press Room</span></a></li>
+<li><a href="/partnership.html"><div id="headmenuicons9"></div><span>PartnerShip</span></a></li>
+<li><a href="/contact.html"><div id="headmenuicons10"></div><span>Contact</span></a></li>
 </ul>
 
 </li>
 <li><a href="/Manuals/">Help Center</a>
 <ul>
-<li><a href="/Manuals/"><img class="cm-micon" src="/images/headmenuicons1.png"><span>Manuals</span></a></li>
-<li><a href="/Howtos/"><img class="cm-micon" src="/images/headmenuicons2.png"><span>How-Tos</span></a></li>
-<li><a href="/support.html"><img class="cm-micon" src="/images/headmenuicons3.png"><span>Contact Support</span></a></li>
-<li><a href="/bugreport.html"><img class="cm-micon" src="/images/headmenuicons4.png"><span>Bug Report</span></a></li>
-<li><a href="/testimonials.html"><img class="cm-micon" src="/images/headmenuicons6.png"><span>Testimonials</span></a></li>
+<li><a href="/Manuals/"><div id="headmenuicons1"></div><span>Manuals</span></a></li>
+<li><a href="/Howtos/"><div id="headmenuicons2"></div><span>How-Tos</span></a></li>
+<li><a href="/activation.html"><div id="headmenuicons12"></div><span>Activation</span></a></li>
+<li><a href="/support.html"><div id="headmenuicons3"></div><span>Contact Support</span></a></li>
+<li><a href="/bugreport.html"><div id="headmenuicons4"></div><span>Bug Report</span></a></li>
+<li><a href="/testimonials.html"><div id="headmenuicons6"></div><span>Testimonials</span></a></li>
 </ul>
 </li>
 
@@ -304,7 +298,7 @@ Make a nice slideshow or a simple presentation quickly</a>
 -->
 <li style="margin-left: 20px;
 margin-right: 20px;">
-<a class="head-social" href="#"><img src="/images/head-social-1.png"><img src="/images/head-social-2.png"><img src="/images/head-social-4.png"></a>
+<a class="head-social" href="#"><div id="headsocfb"></div><div id="headsoctw"></div><div id="headsocgp"></div><div id="headsocrs"></div></a>
 <ul>
 <li>
 <div class="head-social-row">
@@ -316,12 +310,12 @@ margin-right: 20px;">
 <div class="fb-like" data-href="http://www.facebook.com/icecreamapps" data-width="100px" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
 </div>
 </li>
-<!--<li>
-<div class='head-social-row'>
+<li>
+<div class="head-social-row">
 
-<div class="g-follow" style='display:block;' data-annotation="bubble" data-height="20" data-href="https://plus.google.com/112481457517184805392" data-rel="publisher"></div>
+<div class="g-follow" style="display:block;" data-annotation="bubble" data-height="20" data-href="https://plus.google.com/+Icecreamapps" data-rel="publisher"></div>
 </div>
-</li>-->
+</li>
 <li>
 <div class="head-social-row">
 <a class="twitter-follow-button" data-dnt="true" data-show-count="true" data-show-screen-name="false" href="https://twitter.com/icecreamapps">Follow @icecreamapps</a>
@@ -336,7 +330,7 @@ margin-right: 20px;">
 -->
 <li>
 <a href="http://icecreamapps.com/pressroom/rss.html">
-<img class="cm-micon" src="/images/headmenuicons11.png"><span>RSS</span>
+<div id="headmenuicons11"></div><span>RSS</span>
 
 </a>
 
@@ -368,7 +362,7 @@ margin-right: 20px;">
 <div class="cm-bpunkt">
 <a href="/PDF-Converter/">
 <div class="cm-icon">
-<img src="/images/pcbigicon.png">
+<div id="pcbigicon"></div>
 </div>
 
 <div class="cm-caption">PDF Converter</div>
@@ -381,12 +375,12 @@ margin-right: 20px;">
 
 <li>
 <div class="cm-bpunkt">
-<a href="/Media-Converter/">
+<a href="/Screen-Recorder/">
 <div class="cm-icon">
-<img src="/images/mcbigicon">
+<div id="srbigicon"></div>
 </div>
 
-<div class="cm-caption">Media Converter</div>
+<div class="cm-caption">Screen Recorder</div>
 </a>
 </div>
 
@@ -398,7 +392,7 @@ margin-right: 20px;">
 <div class="cm-bpunkt">
 <a href="/Ebook-Reader/">
 <div class="cm-icon">
-<img src="/images/brbigicon.png">
+<div id="brbigicon"></div>
 </div>
 
 <div class="cm-caption">Ebook Reader</div>
@@ -413,40 +407,10 @@ margin-right: 20px;">
 <div class="cm-bpunkt">
 <a href="/PDF-Split-and-Merge/">
 <div class="cm-icon">
-<img src="/images/psmbigicon.png">
+<div id="psmbigicon"></div>
 </div>
 
-<div class="cm-caption">PDF Split&amp;Merge</div>
-</a>
-</div>
-
-</li>
-
-
-
-<li>
-<div class="cm-bpunkt">
-<a href="/Screen-Recorder/">
-<div class="cm-icon">
-<img src="/images/srbigicon.png">
-</div>
-
-<div class="cm-caption">Screen Recorder</div>
-</a>
-</div>
-
-</li>
-
-
-
-<li>
-<div class="cm-bpunkt">
-<a href="/Image-Resizer/">
-<div class="cm-icon">
-<img src="/images/irbigicon.png">
-</div>
-
-<div class="cm-caption">Image Resizer</div>
+<div class="cm-caption">PDF Split &amp; Merge</div>
 </a>
 </div>
 
@@ -458,7 +422,7 @@ margin-right: 20px;">
 <div class="cm-bpunkt">
 <a href="/Slideshow-Maker/">
 <div class="cm-icon">
-<img src="/images/smbigicon.png">
+<div id="smbigicon"></div>
 </div>
 
 <div class="cm-caption">Slideshow Maker</div>
@@ -469,21 +433,37 @@ margin-right: 20px;">
 
 
 
+<li>
+<div class="cm-bpunkt">
+<a href="/Image-Resizer/">
+<div class="cm-icon">
+<div id="irbigicon"></div>
+</div>
+
+<div class="cm-caption">Image Resizer</div>
+</a>
+</div>
+
+</li>
+
+
+
+
 </ul>
 
 
 <ul>
-<li><a href="/about.html"><img class="cm-micon" src="/images/headmenuicons7.png"><span>About Icecream Apps</span></a></li>
-<li><a href="/pressroom.html"><img class="cm-micon" src="/images/headmenuicons8.png"><span>Press Room</span></a></li>
-<li><a href="/partnership.html"><img class="cm-micon" src="/images/headmenuicons9.png"><span>PartnerShip</span></a></li>
-<li><a href="/contact.html"><img class="cm-micon" src="/images/headmenuicons10.png"><span>Contact</span></a></li>
+<li><a href="/about.html"><div id="headmenuicons7"></div><span>About Icecream Apps</span></a></li>
+<li><a href="/pressroom.html"><div id="headmenuicons8"></div><span>Press Room</span></a></li>
+<li><a href="/partnership.html"><div id="headmenuicons9"></div><span>PartnerShip</span></a></li>
+<li><a href="/contact.html"><div id="headmenuicons10"></div><span>Contact</span></a></li>
 </ul>
 <ul>
-<li><a href="/Manuals/"><img class="cm-micon" src="/images/headmenuicons1.png"><span>Manuals</span></a></li>
-<li><a href="/Howtos/"><img class="cm-micon" src="/images/headmenuicons2.png"><span>How-Tos</span></a></li>
-<li><a href="/support.html"><img class="cm-micon" src="/images/headmenuicons3.png"><span>Contact Support</span></a></li>
-<li><a href="/bugreport.html"><img class="cm-micon" src="/images/headmenuicons4.png"><span>Bug Report</span></a></li>
-<li><a href="/testimonials.html"><img class="cm-micon" src="/images/headmenuicons6.png"><span>Testimonials</span></a></li>
+<li><a href="/Manuals/"><div id="headmenuicons1"></div><span>Manuals</span></a></li>
+<li><a href="/Howtos/"><div id="headmenuicons2"></div><span>How-Tos</span></a></li>
+<li><a href="/support.html"><div id="headmenuicons3"></div><span>Contact Support</span></a></li>
+<li><a href="/bugreport.html"><div id="headmenuicons4"></div><span>Bug Report</span></a></li>
+<li><a href="/testimonials.html"><div id="headmenuicons6"></div><span>Testimonials</span></a></li>
 </ul>
 
 <ul>
@@ -576,14 +556,13 @@ While visiting IceCream Apps website you can notice links to other websites. We 
 <div class="f-col">
 <h2>Products</h2>
 <ul>
-<li><a href="/PDF-Converter/"> <img src="/images/pcicon.png">PDF Converter</a></li>
-<li><a href="/Media-Converter/"> <img src="/images/mcicon.png">Media Converter</a></li>
-<li><a href="/Ebook-Reader/"> <img src="/images/bricon.png">Ebook Reader</a></li>
-<li><a href="/PDF-Split-and-Merge/"> <img src="/images/psmicon.png">PDF Split&amp;Merge</a></li>
-<li><a href="/Screen-Recorder/"> <img src="/images/sricon.png">Screen Recorder</a></li>
-<li><a href="/Image-Resizer/"> <img src="/images/iricon.png">Image Resizer</a></li>
-<li><a href="/Slideshow-Maker/"> <img src="/images/ssicon.png">Slideshow Maker</a></li>
-</ul>
+		<li><a href="/PDF-Converter/"> <div id="pcicon"></div>PDF Converter</a></li>
+				<li><a href="/Screen-Recorder/"> <div id="sricon"></div>Screen Recorder</a></li>
+				<li><a href="/Ebook-Reader/"> <div id="bricon"></div>Ebook Reader</a></li>
+				<li><a href="/PDF-Split-and-Merge/"> <div id="psmicon"></div>PDF Split &amp; Merge</a></li>
+				<li><a href="/Slideshow-Maker/"> <div id="smicon"></div>Slideshow Maker</a></li>
+				<li><a href="/Image-Resizer/"> <div id="iricon"></div>Image Resizer</a></li>
+		</ul>
 </div>
 
 <div class="f-col">
@@ -629,7 +608,7 @@ While visiting IceCream Apps website you can notice links to other websites. We 
 </div>
 
 
-<img src="/images/winlogo.png">
+<div id="footwinlogo"></div>
 
 </div>
 
@@ -641,17 +620,17 @@ While visiting IceCream Apps website you can notice links to other websites. We 
 
 
 <div class="footlogo">
-<a href="/"><img src="/images/footlogo.png" alt="Icecream Apps: free software"></a>
+<a href="/"><img src="/images/footlogo.png" alt="Icecream Apps: free software" width="116" height="40"></a>
 
 </div>
 
 <div class="copy">
-© 2014, Icecream Apps. All right reserved</div>
+© 2014-2015, Icecream Apps. All right reserved</div>
 
 <div class="foot-social">
-<a href="http://www.facebook.com/icecreamapps"><img src="/images/foot-social3.png" alt="Facebook"></a>
-<a href="http://www.twitter.com/icecreamapps"><img src="/images/foot-social2.png" alt="Twitter"></a>
-<!--<a href='https://plus.google.com/+Icecreamapps/posts'><img src='/images/foot-social4.png' alt='Google Plus'></a>-->
+<a href="http://www.facebook.com/icecreamapps"><div id="footsocfb"></div></a>
+<a href="http://www.twitter.com/icecreamapps"><div id="footsoctw"></div></a>
+<a href="https://plus.google.com/+Icecreamapps"><div id="footsocgp"></div></a>
 </div>
 
 <div class="sf-menu">
