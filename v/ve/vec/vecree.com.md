@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vecree.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315233817id_/https%3A//vecree.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vecree.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025102133id_/http%3A//vecree.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Vecree.com
 
@@ -7,9 +7,9 @@ Vecree understands how important your privacy is to you and we want to insure th
 ### Information we collect
 
    
-**1\. Personal Information –** If you place an inquiry at www.vecree.com we may collect certain personal information from you including your name, address, telephone number, email address. This information is considered personally identifiable. This information is protected by the use secure web server and is protected by other internal systems that we have in effect.
+ **1\. Personal Information –** If you place an inquiry at www.vecree.com we may collect certain personal information from you including your name, address, telephone number, email address. This information is considered personally identifiable. This information is protected by the use secure web server and is protected by other internal systems that we have in effect.
 
-**2\. Non-Personal Information –** Like most other websites, www.vecree.com uses cookies to collect certain information. Cookies do not contain information that can identify you, though it may be combined with your personal information. This information will be used only in aggregate. This information allows us make your experience on our website valuable to you and to improve your overall surfing experience. We may also use information to provide us with additional ways to market our services.
+ **2\. Non-Personal Information –** Like most other websites, www.vecree.com uses cookies to collect certain information. Cookies do not contain information that can identify you, though it may be combined with your personal information. This information will be used only in aggregate. This information allows us make your experience on our website valuable to you and to improve your overall surfing experience. We may also use information to provide us with additional ways to market our services.
 
 ### Disclosing your information
 
@@ -19,7 +19,7 @@ There are only extreme cases when we will disclose your personal information. Th
 ### Mailing Lists
 
    
-**Email Lists –** We set up an email list for the convenience of our visitors. This email list often provides you with advanced notification regarding new services, sales offers, and other news from Vecree.com. Email addresses will not be shared with anyone outside of the staff of Vecree.
+ **Email Lists –** We set up an email list for the convenience of our visitors. This email list often provides you with advanced notification regarding new services, sales offers, and other news from Vecree.com. Email addresses will not be shared with anyone outside of the staff of Vecree.
 
 If you are on the Vecree’s, email list and wish to be removed from it you may do so by emailing us at contact@vecree.com. We will remove you as quickly as possible. We ask you to bear with us as this may require a reset of our server. You may receive one or more additional emails before you are removed from the list.
 
