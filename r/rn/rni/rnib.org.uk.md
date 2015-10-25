@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rnib.org.uk privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407124622id_/http%3A//www.rnib.org.uk/about-rnib/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rnib.org.uk privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025235433id_/http%3A//www.rnib.org.uk/about-rnib/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | RNIB | Supporting people with sight loss
 
@@ -30,7 +30,7 @@ We collect personal information when you ask about our activities, register with
 
 We use your personal information to give you the information, services, or products you ask for. We can also use your information for administrative purposes, to let you know about changes and, if you agree, as part of our fundraising activities. We sometimes also share your information with our service providers, trading companies, and associated organisations (who work with us to get the information you ask for). 
 
-RNIB is responsible for collecting your personal information. Any information we collect is stored and processed in the UK. Your personal information is not shared with third parties or used in any other way (other than described in this policy or as required by law) unless you agree. 
+RNIB is responsible for collecting your personal information. Your personal information is not shared with third parties or used in any other way (other than described in this policy or as required by law) unless you agree. 
 
 Where indicated - usually by a tick box asking for your permission - we use your personal information to create a profile of your interests and preferences. This information is not shared with other organisations. 
 
