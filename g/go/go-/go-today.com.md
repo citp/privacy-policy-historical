@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the go-today.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502144606id_/http%3A//www.go-today.com/security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go-today.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025050617id_/http%3A//www.go-today.com/security.aspx) for the most accurate reproduction.*
 
 # Go-today Vacation Packages & Travel Deals Security
 
@@ -43,7 +43,7 @@ We use secure SSL (Secure Sockets Layer) encryption to protect data that is sent
 
 ## Conditions of Use, Notices, and Revisions 
 
-We reserve the right to change this Privacy Policy at any time to respond to changes in the law or in our business practices. All users of this website agree to this Privacy Policy and are bound by it. If you would like to comment on any aspect of this Privacy Policy, please [email us](https://web.archive.org/web/20150502144606id_/http%3A//www.go-today.com/go-today-help.aspx).
+We reserve the right to change this Privacy Policy at any time to respond to changes in the law or in our business practices. All users of this website agree to this Privacy Policy and are bound by it. If you would like to comment on any aspect of this Privacy Policy, please [email us](https://web.archive.org/web/20151025050617id_/http%3A//www.go-today.com/go-today-help.aspx).
 
   
 
