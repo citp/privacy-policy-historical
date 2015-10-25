@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animelab.com privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326215633id_/https%3A//www.animelab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animelab.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026002828id_/https%3A//www.animelab.com/privacy-policy) for the most accurate reproduction.*
 
 # AnimeLab - Privacy Policy
 
