@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 9hoho.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611083935id_/http%3A//www.999gag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 9hoho.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025093346id_/http%3A//999gag.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - 999gag.com
 
