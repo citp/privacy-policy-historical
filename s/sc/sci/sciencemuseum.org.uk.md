@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sciencemuseum.org.uk privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630093203id_/http%3A//www.sciencemuseum.org.uk/about_us/contact_us/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencemuseum.org.uk privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025102422id_/http%3A//www.sciencemuseum.org.uk/about_us/contact_us/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy and cookies - About us - Science Museum
 
@@ -65,7 +65,9 @@ Some are used to help our websites function properly. These are generally ‘ses
 
 We also use other types of cookies to gather information about how people are using our websites so that we can make them better, easier to use and more efficient. These are stored on your computer at the end of your visit to the website.
 
-For example, some of our cookies send non-personal information to Google Analytics, a service we use to gather information about how often pages are visited, how people get to them and how long they are viewed for. They do not reveal your identity to us, but give us an overall picture of how many people are using our websites and how they do so. Cookies from Qualaroo, who provide the survey we use so visitors can tell us what they want from our site, stop you from seeing the survey more than once. This helps us to improve our websites and to deliver better and more relevant content. 
+For example, some of our cookies send non-personal information to Google Analytics, a service we use to gather information about how often pages are visited, how people get to them and how long they are viewed for. They do not reveal your identity to us, but give us an overall picture of how many people are using our websites and how they do so.Cookies from Qualaroo, who provide the survey we use so visitors can tell us what they want from our site, stop you from seeing the survey more than once. This helps us to improve our websites and to deliver better and more relevant content. 
+
+You can opt out of Google Analytics without affecting how you visit our site – for more information on opting out of being tracked by Google Analytics across all websites you use, visit this [Google page](http://tools.google.com/dlpage/gaoptout). The analytics we have implemented are based on Google Analytics Demographics and Interest Reporting, which helps us identify trends in the usage of our website. These may be published in reports for internal use. Visitors can opt-out of this feature using [Ads Settings](https://www.google.com/settings/u/0/ads/authenticated). 
 
 We also use accessibility cookies to store information about your preferences, such as text size, and cookies that allow you to bookmark pages on social media sites using your own accounts. 
 
