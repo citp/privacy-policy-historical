@@ -1,49 +1,78 @@
-> *The following text is extracted and transformed from the eatfresh.com privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204112221id_/http%3A//www.liveinfitness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatfresh.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025112608id_/http%3A//eatfresh.com/privacy-policy) for the most accurate reproduction.*
 
-# Live In Fitness Camp – Weight Loss Boot Camp – Fat Camp by Live In Fitness, Enterprise
+# Eatfresh
 
-Privacy Notice
+PRIVACY POLICY 
 
-This privacy notice applies solely to information collected by this web site. It will notify you of the following:
+### EFFECTIVE AS OF JULY 27TH, 2015
 
-  * What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
-  * What choices are available to you regarding the use of your data.
-  * The security procedures in place to protect the misuse of your information.
-  * How you can correct any inaccuracies in the information.
+We at Ubiquitous Foods Pvt Ltd (“Eatfresh.com,” “we,” “us,” or “our”) have created this privacy policy because we know that you care about how information you provide to us is used and shared. This Privacy Policy relates to the information collection and use practices of Eatfresh.com in connection with our online services (the “Services”), which are made available to you through our website http://www.eatfresh.com (the “Website”).
+
+By visiting our Website and/or using our Services, you are agreeing to the terms of this Privacy Policy and the accompanying Terms of Use.
+
+#### The Information We Collect
+
+1.Personal Information
+
+When you sign up to become a member, order a gift subscription, enter a contest, promotion, or contest, or sign up to receive our material and/or newsletters, you will be required to provide us with personal information about yourself (collectively, the “Personal Information”). Such Personal Information for Subscribers may include your name, e-mail address, mailing address, and phone number. We do not collect any Personal Information from you when you use the Services unless you provide us with the Personal Information voluntarily.
+
+2\. Billing Information
+
+When you sign up to become a Plan holder or order a gift plan, you will be required to provide certain information in addition to the Personal Information noted above. Such information may include a debit card number, credit card number, and similar information (collectively, the “Billing Information”). All transactions are processed by our third-party payment vendors. We do not collect, store, or maintain any Billing Information. Instead, it is collected and processed through these third-party vendors pursuant to the terms and conditions of their privacy policies and terms of use.
+
+3\. Other Information
+
+In addition to the Personal Information and the Billing Information noted above that you voluntarily provide to us, we may collect additional information (collectively, the “Other Information”). Such Other Information may include:
+
+a.From Your Activity. Information that we automatically collect when you use the Services, such as your IP addresses, browser type and language, referring and exit pages and URLs, date and time, amount of time spent on particular pages, what sections of the Website you visit, order information, and similar information concerning your use of the Services.
+
+b. From Cookies. Information that we collect using “cookie” technology. Cookies are small packets of data that a website stores on your computer’s hard drive so that your computer will “remember” information about your visit. We use cookies to help us collect Other Information and to enhance your experience using the Services. If you do not want the Platform to place a cookie on your hard drive or mobile device, you may be able to turn that feature off on your computer or mobile device. Please consult your Internet browser’s documentation for information on how to do this. However, if you decide not to accept cookies from us, the Services may not function properly.
+
+c. From You. Additional information about yourself that you voluntarily provide to us, such as your hobbies, personal interests, household income range, number of children, gender, demographic information, and product and service preferences. 
+
+d. From Other Sources. Information that we collect or receive from other sources.
+
+##### The Information Collected by or Through Third-Party Advertising Companies
+
+We may share Other Information about your activity on the Platform with third parties for the purpose of tailoring, analyzing, managing, reporting, and optimizing advertising you see on the Platform and elsewhere. These third parties may use cookies, pixel tags (also called web beacons or clear gifs), and/or other technologies to collect such Other Information for such purposes. Pixel tags enable us, and these third-party advertisers, to recognize a browser’s cookie when a browser visits the site on which the pixel tag is located in order to learn which advertisement brings a user to a given site.
+
+##### Accessing and Modifying Personal Information and Communication Preferences
+
+If you have registered for the Services, you may access, review, and make changes to your Personal Information and Billing Information by following the instructions found on the Platform. In addition, you may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of any Eatfresh.com marketing email. Plan holders cannot opt out of receiving transactional e-mails related to their account. We will use commercially reasonable efforts to process such requests in a timely manner. You should be aware, however, that it is not always possible to completely remove or modify information in our subscription databases
+
+##### How We Use and Share the Information 
+
+We use the Personal Information, the Billing Information, and the Other Information to process transactions; provide you the Services; solicit your feedback; inform you about our products, services, upcoming events, recipes, and special promotions and those of our third-party marketing partners; administer and process contests, promotions, and sweepstakes; and improve our Services to you. Also, we may share Personal Information, the Billing Information, and/or Other Information as described below.
+
+· 
+
+We employ other companies and individuals to perform functions on our behalf. Examples include food services, delivery services, marketing assistance, information technology support, and customer service. These other companies will have access to the Personal Information, the Billing Information, and the Other Information only as necessary to perform their functions and to In order to administer our contests, promotions, and sweepstakes, we may share your Personal Information and Other Information with our third-party promotional and marketing 
+
+· 
+
+In an ongoing effort to better understand our users and our Services, we might analyze the Other Information in aggregate form in order to operate, maintain, manage, and improve the Services. This aggregate information does not identify you personally. We may share this aggregate data with our affiliates, agents, and business partners. We may also disclose aggregated user statistics in order to describe our products and Services to current and prospective business partners and to other third parties for other lawful purposes.
+
+  * As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution, or similar event, the Personal Information, the Billing Information, and the Other Information may be part of the transferred assets. 
+  *   * To the extent permitted by law, we may also disclose Personal Information, the Billing Information, and the Other Information when required by law, court order, or other government or law enforcement authority or regulatory agency, or whenever we believe that disclosing the such Information is necessary or advisable, for example, to protect the rights, property, or safety of Eatfresh.com or others.
 
 
 
-Information Collection, Use, and Sharing  
- _How this information is transferred to a third party:_
+##### How We Protect Your Information
 
- _We are the sole owners of the information collected on this site._
+We take commercially reasonable steps to protect the Personal Information, the Billing Information, and the Other Information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. Please understand, however, that no security system is impenetrable. We cannot guarantee the security of our databases, nor can we guarantee that the information you supply will not be intercepted while being transmitted to and from us over the Internet. In particular, e-mail sent to or from the Platform may not be secure, and you should therefore take special care in deciding what information you send to us via e-mail. 
 
-We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
+##### Important Notice to Non-India Residents
 
-_How is this information used by the company :_ We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to process your claim).  
-Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
+The Platform and the Services are operated in India. If you are located outside of India, please be aware that any information you provide to us will be transferred to India. By using the Services and/or providing us with any information, you consent to this transfer. 
 
-Your Access to and Control Over Information  
- _Opt out statement & modify/delete statement:_ You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website:
+##### Children
 
-  * See what data we have about you, if any.
-  * Change/correct any data we have about you.
-  * Have us delete any data we have about you.
-  * Express any concern you have about our use of your data.
+We do not knowingly collect Personal Information from children under the age of 15 through the Services. If you are under 15, please do not give us any Personal Information. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children to never provide Personal Information through the Services without their permission. If you have reason to believe that a child under the age of 15 has provided Personal Information to us, please contact us, and we will endeavour to delete that information from our databases.
 
+##### External Websites 
 
+The Platform may contain links to third-party websites. Eatfresh.com has no control over the privacy practices or the content of any of our business partners, advertisers, sponsors, or other websites to which we provide links. As such, we are not responsible for the content or the privacy policies of those third-party websites. You should check the applicable third-party privacy policy and terms of use when visiting any other websites.
 
-If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone or you can e-mail us through our website’s home page.
+##### Changes to This Privacy Policy 
 
-* * *
-
-* * *
-
-  
-
-
-THE LIVE IN FITNESS  
-
-WAY OF LIFE
-
-THE DIFFERENCE IS IN THE DETAILS
+This Privacy Policy is effective as of the date stated at the top of this Privacy Policy. We may change this Privacy Policy from time to time, and will post any changes on the Platform as soon as they go into effect. By accessing the Platform or using the Services after we make any such changes to this Privacy Policy, you are deemed to have accepted such changes. Please refer back to this Privacy Policy on a regular basis.
