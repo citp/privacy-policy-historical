@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psychz.net privacy policy that was archived on 2014-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141022180047id_/https%3A//www.psychz.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychz.net privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026001134id_/https%3A//www.psychz.net/privacy.html) for the most accurate reproduction.*
 
 # Psychz Networks
 
@@ -14,18 +14,18 @@ We will not disclose or distribute your information to or with any third-parties
 
 Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address) and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders and information about our company to our customers. The customer's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to check the users' qualifications and bill the user for products and services.
 
-**Public Forums**
+#### Public Forums
 
 This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
-**Security**
+#### Security
 
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. We have excellent anti-hacking software in place that was either purchased from third-parties and or programmed by our in-house developers. There is hardly any risk of information being compromised or accessed by any unauthorized parties.
 
-**Choice/Opt-Out**
+#### Choice/Opt-Out
 
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. You can send email to [**sales@psychz.net**](mailto:sales@psychz.net)
+Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. You can send email to [sales@psychz.net](mailto:sales@psychz.net)
 
-**Correct/Update**
+#### Correct/Update
 
-This site gives users the following options for changing and modifying information previously provided. **Email :**[ **sales@psychz.net**](mailto:sales@psychz.net)
+This site gives users the following options for changing and modifying information previously provided. **Email** : [sales@psychz.net](mailto:sales@psychz.net)
