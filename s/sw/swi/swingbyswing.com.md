@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swingbyswing.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509033311id_/https%3A//golf.swingbyswing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swingbyswing.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025190903id_/https%3A//golf.swingbyswing.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Swing by Swing Golf
 
