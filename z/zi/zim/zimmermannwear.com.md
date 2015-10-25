@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the zimmermannwear.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607062549id_/http%3A//www.zimmermannwear.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zimmermannwear.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025122236id_/http%3A//www.zimmermannwear.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-Zimmermann Wear Pty Ltd and its related companies ( **Zimmermann, we, us, our** ) understands that your privacy is important and ensures that your personal information is handled in accordance with the _Privacy Act 1988_ (Cth) ( **Privacy Act** ).  This Privacy Policy explains how we manage personal information and the ways in which you may contact us about personal information we hold about you.
+Zimmermann Wear Pty Ltd (ABN: 13062643609) and its related companies ( **Zimmermann, we, us, our** ) understands that your privacy is important and ensures that your personal information is handled in accordance with the _Privacy Act 1988_ (Cth) ( **Privacy Act** ).  This Privacy Policy explains how we manage personal information and the ways in which you may contact us about personal information we hold about you.
 
 ### Purposes for handling personal information
 
