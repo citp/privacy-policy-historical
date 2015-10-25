@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domino.com privacy policy that was archived on 2015-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150523000554id_/http%3A//domino.com/about%2520us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domino.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025062459id_/http%3A//domino.com/about%2520us/privacy) for the most accurate reproduction.*
 
 # domino
 
@@ -73,7 +73,7 @@ C.   **IMPORTANT:**  MISREPRESENTATIONS MADE IN A NOTICE CLAIMING THAT CONTEN
 
 D.   **Copyright Agent:**
 
-Lauren Saul
+Lori Cocchia
 
 |   
 ---|---  
@@ -94,7 +94,7 @@ Westport, CT 06880
 
 | 
 
-E-mail: [lsaul@domino.com](mailto:copyright@sabinfirm.com)  
+E-mail: [copyright@domino.com](mailto:copyright@domino.com)  
   
 E.   **Note: Only copyright complaints should be sent to agent. No other communications will be accepted or responded to.**
 
