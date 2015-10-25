@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the peopleverified.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608075109id_/http%3A//peopleverified.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peopleverified.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025105331id_/http%3A//www.peopleverified.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy PeopleVerified.com
 
-## Effective Date: July 7, 2014
+## Effective Date: October 7, 2015
 
 This privacy policy applies to PeopleVerified.com, owned and operated by Segmentic Ltd. This privacy policy describes how Segmentic Ltd. collects and uses the personal information you provide on our website, www.peopleverified.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.   
-You can learn more about how we protect your privacy and how to manage your information in our databases through the [PeopleVerified Privacy Education Center.](https://web.archive.org/web/20150608075109id_/http://www.peopleverified.com/privacy/privacy-center)
+You can learn more about how we protect your privacy and how to manage your information in our databases through the [PeopleVerified Privacy Education Center.](https://web.archive.org/web/20151025105331id_/http%3A//www.peopleverified.com/privacy-center)
 
 ## TRUSTe
 
-Segmentic Ltd. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@peopleverified.com](mailto:privacy@peopleverified.com).If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). The TRUSTe program covers only information that is collected through this Web site:www.peopleverified.com, and does not cover information that may be collected through software downloaded from the site. 
+Segmentic Ltd. has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this website: www.peopleverified.com and does not cover information that may be collected through software downloaded from the website. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at [https://feedback-form.truste.com/watchdog/request.](https://feedback-form.truste.com/watchdog/request)
 
 [ ](https://privacy.truste.com/privacy-seal/Segmentic-Ltd-/validation?rid=4b0c0554-2019-492b-ba8c-9128b27519b9 "TRUSTe online privacy certification")
 
@@ -22,7 +22,8 @@ Segmentic Ltd. has been awarded TRUSTe's Privacy Seal signifying that this priva
 Registration Information  
 Billing Information  
 Additional Information  
-Technical and Analytic Information
+Technical and Analytic Information  
+Collection of 3rd party Personal Information
 
 #### How do we collect information about you?
 
@@ -40,7 +41,7 @@ Disclaimer
 
 #### When do we share your information?
 
-With Your Consent Within the Segmentic Family of Products  
+With Your Consent Within the Segmentic Ltd. Family of Products  
 To Provide Certain Services  
 Public, Anonymous and Aggregated Data  
 Business Transfers  
@@ -65,7 +66,7 @@ Children’s Online Privacy Protection Act
 
 ## What does this privacy policy cover?
 
-This policy covers how PeopleVerified.com treats personal information that we collect and receive from you, including information related to your use of our website, products, and services. This policy does not apply to the practices of companies that we do not own or control, or to people that we do not employ or manage. Unless noted otherwise, this privacy policy does not apply to any information in our people search databases, which is covered separately under our [Opt-Out Policy.](https://web.archive.org/web/20150608075109id_/http://www.peopleverified.com/privacy/opt-out-policy)   
+This policy covers how PeopleVerified.com treats personal information that we collect and receive from you, including information related to your use of our website, products, and services. This policy does not apply to the practices of companies that we do not own or control, or to people that we do not employ or manage. Unless noted otherwise, this privacy policy does not apply to any information in our people search databases, which is covered separately under our [Opt-Out Policy.](https://web.archive.org/web/20151025105331id_/http%3A//www.peopleverified.com/opt-out-policy)   
 Our website also includes links to other websites whose privacy practices may differ from those of Segmentic Ltd. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any website you visit. 
 
 ## What information do we collect?
@@ -121,11 +122,15 @@ We automatically collect technical and analytic information from both registered
 
 
 
+### Collection of 3rd party Personal Information
+
+You may also provide personal information about other people, such as their name, date of birth and gender. This information is only used for the sole purpose of completing your request or for whatever reason it may have been provided.
+
 ## How do we collect information about you?
 
 ### Services You Authorize
 
-When you give us authorization to access an account you have on a third-party service such as Facebook or LinkedIn, we use a protocol called OAuth to access your information. We will never ask you to give us your password for a third-party service. 
+When you give us authorization to access an account you have on a third-party service such as Facebook or LinkedIn. We will never ask you to give us your password for a third-party service. 
 
 ### Social Media Widgets
 
@@ -135,15 +140,15 @@ Our website includes social media features, such as the Facebook Like button and
 
 We use several methods to collect technical and analytics data, including the following: 
 
-  * Cookies. We may set and access our cookies on your computer. PeopleVerified.com uses both session cookies and persistent cookies. A session cookie expires when you close your browser. We use session cookies to make it easier for you to navigate the site and log in to your account. A persistent cookie remains on your hard drive for an extended period of time. We use persistent cookies to track usage of our site to improve your experience, and to remember your preferences. You can remove persistent cookies by following directions provided in your Internet browser’s “help” directory. [Learn more about cookies](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer). You may disable cookies in your browser settings, but your ability to use some areas of our site will be limited.
+  * Technologies such as: cookies, beacons, tags and scripts are used by Segmentic Ltd. Inflection.com, Inc. and our affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-  * Third-Party Cookies. The use of cookies by our partners, affiliates, and service providers is not covered by our privacy policy. We do not have access or control over these cookies. Our partners, affiliates, and service providers use session and persistent cookies to make it easier for you to navigate our site, monitor site usage and performance, and provide targeted ads. 
+  * We use cookies for our shopping cart, to remember users’ settings (e.g. language preference), for authentication, and for analyzing site usage. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. 
 
-  * Web Beacons. Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our Customers’ or Users’ personally identifiable information. 
+  * As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality. 
 
-  * Flash Cookies. We use Flash cookies (also known as local storage objects or LSOs) to store content information and preferences. Third parties, with whom we partner to provide certain features on our site, prevent fraud, or to display advertising based upon your Web browsing activity, may use LSOs to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please[click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). 
+  * We partner with a third party to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads. 
 
-  * Log Data. Your browser automatically sends certain data that is recorded by our servers every time you interact with this website, including your IP address, browser type, operating system, the referring web page, pages visited, location, your mobile carrier, device and application IDs, and search terms. 
+  * We use Local Storage, such as HTML5, to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity also use HTML 5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. 
 
 
 
@@ -159,7 +164,7 @@ We use the information you give us to:
   * Conduct research to improve the quality of our products and services
   * Send you information related to your account, including confirmations, invoices, security alerts, updates, confirmations, and support and administrative messages
   * Protect our users against fraud and abuse
-  * Communicate with you about new products and services offered by Segmentic and our selected partners
+  * Communicate with you about new products and services offered by Segmentic Ltd. and our selected partners
 
 
 
@@ -185,15 +190,15 @@ While we use acceptable industry-standard practices to protect your information,
 
 ## When do we share your information?
 
-We do not share, rent, or sell your information except in the limited circumstances described below: 
+We will share your personal information with third parties only in the ways that are described in this privacy policy or except in the limited circumstances described below: 
 
 ### With Your Consent
 
 We will share your information when you give us permission; for example, when you use a third-party web client to access your account, or when you give us permission to make information public. 
 
-### Within the Segmentic Family of Products
+### Within the Segmentic Ltd. Family of Products
 
-Other Segmentic products may use your information, but only in ways that are consistent with this Privacy Policy. 
+Other Segmentic Ltd. products may use your information, but only in ways that are consistent with this Privacy Policy. 
 
 ### To Provide Certain Services
 
@@ -205,7 +210,7 @@ We may share or disclose information that is non-private, anonymously aggregated
 
 ### Business Transfers
 
-In the event that Segmentic is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction. The obligations of this Privacy Policy will continue to apply to the new entity after the sale or transfer. 
+In the event that Segmentic Ltd. is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction. The obligations of this Privacy Policy will continue to apply to the new entity after the sale or transfer. 
 
 ### Fraud and Abuse Prevention
 
@@ -216,7 +221,7 @@ When we detect suspected fraud or abuse, we may share information associated wit
 
 We may preserve or share your information in the following circumstances: 
 
-  * When required by law, regulation, or legal request such as a warrant or subpoena
+  * When required by law, regulation, or legal request such as a warrant or subpoena or bankruptcy proceedings
   * When we believe it is reasonably necessary in urgent situations to protect the well-being or safety of any individual
   * To address fraud, security, or technical issues
   * To protect Segmentic’s rights or property
