@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the couponbug.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627143900id_/http%3A//www.couponsinc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponbug.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025211741id_/http%3A//www.coupons.com/corporate/privacy-policy) for the most accurate reproduction.*
 
-# Coupons.com Incorporated | Privacy Policy - Coupons.com Incorporated
+# Privacy Policy - Coupons.com Incorporated
+
+Close
+
+Our current Privacy Policy is below.  On November 11, 2015, we will be updating this policy.  Please review the updated [Privacy Policy](http://www.coupons.com/corporate/privacy-policy-preview/).  By continuing to use our Sites on or after November 11, 2015, you are agreeing to the updated [Privacy Policy](http://www.coupons.com/corporate/privacy-policy-preview/).
+
+* * *
 
 Effective from November 3, 2014.
 
@@ -26,72 +32,91 @@ There may be other occasions not specifically identified in this Privacy Policy 
 
 From time to time, we may sponsor sweepstakes, contests, other promotions or surveys.  Personally identifiable information may be required as a condition of participation for purposes of verifying entrants’ identities, notifying winners and fulfilling prizes.  We will not use or disclose any such information beyond the particular sweepstakes, contest, or other promotion in which you are participating unless we receive your consent to do so. If we engage a third party to assist us in administering a promotion or fulfilling prizes, this information will be disclosed to that third party.
 
-All comments or materials submitted by you to Coupons through the Sites, including without limitation, feedback, testimonials, images, reviews, questions, comments, ideas, or suggestions (collectively, “Feedback”) shall be received and treated by Coupons in accordance with our [Terms of Use](http://www.couponsinc.com/terms-of-use/ "Terms of Use").
+All comments or materials submitted by you to Coupons through the Sites, including without limitation, feedback, testimonials, images, reviews, questions, comments, ideas, or suggestions (collectively, “Feedback”) shall be received and treated by Coupons in accordance with our [Terms of Use](http://www.coupons.com/corporate/terms-of-use/ "Terms of Use").
 
 **(b)  Information We Collect As You Access and Use Our Services**
 
 When you use the Sites, open one of our emails, or interact with our products, promotions, and services on our Affiliates’ sites, we may use technology (including web beacons and cookies, pixel tags, unique device IDs, user IDs, and log files) to automatically collect information including:
 
-  * Coupon activity (such as requesting, printing, and saving to an account or a linked payment card);
-  * Application activity (such as searches performed and features accessed);
-  * Web browser type and other device attributes;
-  * The website that referred you;
-  * The web pages you viewed;
-  * Your IP address;
-  * The advertisements you viewed and clicked;
-  * The dates and times that you visited or used the Sites;
-  * Location information; and
-  * Advertising identifier associated with your mobile device.
+• Coupon activity (such as requesting, printing, and saving to an account or a linked payment card);
 
+• Application activity (such as searches performed and features accessed);
 
+• Web browser type and other device attributes;
 
-**_Device Information._**   When you visit our Sites or download and install our coupon printing software, or one of our toolbars on your computer or other device, we may collect and store information about that device that helps us manage our products and services, deliver a more customized experience for you, and detect and prevent coupon fraud. A device identifier remains associated with your computer even after uninstalling the coupon printer software. This identifier is used primarily to prevent coupon fraud and does not collect personally identifiable information.  Instructions on uninstalling the Coupons.com toolbar and our coupon printer software are available at this website:  <http://www.couponsinc.com/corp/source/u_uninstall.asp>.  Instructions on uninstalling the CouponChad toolbar is available at this website: <http://www.couponchad.com/toolbar/info/index_infopage.html>.  
+• The website that referred you;
+
+• The web pages you viewed;
+
+• Your IP address;
+
+• The advertisements you viewed and clicked;
+
+• The dates and times that you visited or used the Sites;
+
+• Location information; and
+
+• Advertising identifier associated with your mobile device.
+
+**Device Information _._**   When you visit our Sites or download and install our coupon printing software, or one of our toolbars on your computer or other device, we may collect and store information about that device that helps us manage our products and services, deliver a more customized experience for you, and detect and prevent coupon fraud. A device identifier remains associated with your computer even after uninstalling the coupon printer software. This identifier is used primarily to prevent coupon fraud and does not collect personally identifiable information.  Instructions on uninstalling the Coupons.com toolbar and our coupon printer software are available at this website:  <http://www.couponsinc.com/corp/source/u_uninstall.asp>.  Instructions on uninstalling the CouponChad toolbar is available at this website: <http://www.couponchad.com/toolbar/info/index_infopage.html>.  
 **_ _**
 
-**_Cookies._** _ _  When you visit a Site, we may store one or more cookies or other similar information (i.e., a string of alphanumeric characters or small text file that includes information regarding a coupon that you identified, data for a recipe or menu item that you selected, or other information that relates to your use of our Sites) on your device.  We use both session cookies and persistent cookies.  A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Sites.  These persistent cookies can be removed, but each web browser is a little different.  Please review your browser’s Help menu to learn how to modify your cookies setup and how to manage your cookies.  Our Sites may also use web beacons (also known as clear gifs or pixel tags), which are tiny graphics with a unique identifier that are placed in the code of a webpage.
+**Cookies.** _ _  When you visit a Site, we may store one or more cookies or other similar information (i.e., a string of alphanumeric characters or small text file that includes information regarding a coupon that you identified, data for a recipe or menu item that you selected, or other information that relates to your use of our Sites) on your device.  We use both session cookies and persistent cookies.  A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Sites.  These persistent cookies can be removed, but each web browser is a little different.  Please review your browser’s Help menu to learn how to modify your cookies setup and how to manage your cookies.  Our Sites may also use web beacons (also known as clear gifs or pixel tags), which are tiny graphics with a unique identifier that are placed in the code of a webpage.
 
-**_ _**  
-**_Log files._** _ _ As is true of most web sites, we gather certain information automatically and store it in log files.  This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.  We may use this information, alone or in combination with other information, to manage and operate our products and services, to offer you more personalized content and advertising, and for the other purposes described in Section 4 below.
+**_ _** **Log files _._** _ _ As is true of most web sites, we gather certain information automatically and store it in log files.  This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.  We may use this information, alone or in combination with other information, to manage and operate our products and services, to offer you more personalized content and advertising, and for the other purposes described in Section 4 below.
 
-**_Analytics._** _ _  We may use tracking and analytics tools to better understand who is using our Sites and how they are using them. These tools may use cookies and page tags to collect information such as time of visit, pages visited, time spent on each page of the website, IP address, and type of operating system used. One of the analytics tools we may use is Google Analytics.  You can learn how to opt-out of Google Analytics tracking software at this website: <http://tools.google.com/dlpage/gaoptout>.
+**Analytics.** _ _  We may use tracking and analytics tools to better understand who is using our Sites and how they are using them. These tools may use cookies and page tags to collect information such as time of visit, pages visited, time spent on each page of the website, IP address, and type of operating system used. One of the analytics tools we may use is Google Analytics.  You can learn how to opt-out of Google Analytics tracking software at this website: <http://tools.google.com/dlpage/gaoptout>.
 
-**_Mobile Analytics._**   We use mobile analytics software to allow us to better understand the usage and performance of our mobile software on your phone. This software may record information such as how often you use the application, the events that occur within the application, usage, performance data, and where the application was downloaded from. We may link the information collected by the analytics software to either an account identifier, or a device advertising identifier.  
-** **  
-**(c) Information From Other Sources**  
+**Mobile Analytics _._**   We use mobile analytics software to allow us to better understand the usage and performance of our mobile software on your phone. This software may record information such as how often you use the application, the events that occur within the application, usage, performance data, and where the application was downloaded from. We may link the information collected by the analytics software to either an account identifier, or a device advertising identifier.
+
+** ** **(c) Information From Other Sources**  
 If you participate in certain programs or services on our Site or with our Affiliates, we may receive information from our Affiliates about you, including personally identifiable information, and your purchases when you shop off our Sites. We may combine information, including personally identifiable information, that we have about you with information we obtain from our trusted partners.  We may use the information provided by these partners alone or in combination with our existing information to administer the program or service, to offer you more personalized content and advertising, and for the other purposes described in Section 4 below.
 
 **(d) Information You Provide About a Third Party**
 
-If you choose to use our referral service to tell someone else about our Sites, we will ask you for that person’s name and email address.  We will use the information you provide to automatically send to that person an email inviting him or her to the Sites you recommended. We do not share this email with any third party.  They may contact us at <http://www.couponsinc.com/contact-us/> to request that we remove this information from our database.
+If you choose to use our referral service to tell someone else about our Sites, we will ask you for that person’s name and email address.  We will use the information you provide to automatically send to that person an email inviting him or her to the Sites you recommended. We do not share this email with any third party.  They may contact us at <http://www.coupons.com/corporate/contact-us/> to request that we remove this information from our database.
 
 **(e) Information From Use Of Our Mobile Applications**
 
 In addition to other information described above, when you download or use one of our mobile applications, or access the Sites through a mobile device, we may receive information about your location and your mobile device, including your operating system, device type, and device advertising identifier.  You may decline to provide location information at any time using your mobile device’s system settings.  Please consult your mobile device’s instruction manual for additional information about controlling system and application settings.
 
-**_Push Notifications._**   We may send you push notifications from time-to-time in order to provide information about content that may be of interest to you. If you no longer wish to receive these types of communications, you may turn them off at the device level. To ensure you receive proper notifications, we will need to collect certain information about your device such as operating system and user identification information.
+**Push Notifications _._**   We may send you push notifications from time-to-time in order to provide information about content that may be of interest to you. If you no longer wish to receive these types of communications, you may turn them off at the device level. To ensure you receive proper notifications, we will need to collect certain information about your device such as operating system and user identification information.
 
 **4\. How We Use Your Information**
 
 We may use information that we collect from your use of the Sites, any information you provide when you register with us, and information provided to us by third parties as follows:
 
-  * Operate, maintain, deliver, and communicate with you about the coupons, advertisements, content, and promotional offerings found on and off our Sites;
-  * Process and record coupon requesting and redemption activity;
-  * Manage and store shopping lists;
-  * Monitor the effectiveness of marketing campaigns;
-  * Aggregate usage metrics (such as total number of visitors to the Sites and pages viewed, application usage and downloads, and interaction with advertisements);
-  * Understand usage trends and preferences;
-  * Improve the way the Sites work and look;
-  * Improve our marketing and promotional efforts;
-  * Provide you with a personalized experience on and off the Sites (such as recognizing your system so that you will not have to re-enter information during your current or future visit to the Sites) by using information internally, sharing information with our Affiliates, or using information from our Affiliates;
-  * Provide you with custom, personalized coupon promotions and advertisements on and off our Sites;
-  * Create new features and functionality;
-  * Anonymize and aggregate information for different purposes, such as website traffic flow analysis, market analysis, and to deliver relevant advertising and information, e.g., based on click stream data;
-  * For non-marketing or administrative purposes (such as customer service purposes);
-  * Combine information you provide or we obtain through use of the Sites with other information, including information obtained from third parties;
-  * Share information as described in this Privacy Policy; and
-  * Use the device information to provide targeted ads to you based on your use of the Sites (e.g., based on your printing and redemption activity).
+• Operate, maintain, deliver, and communicate with you about the coupons, advertisements, content, and promotional offerings found on and off our Sites;
 
+• Process and record coupon requesting and redemption activity;
 
+• Manage and store shopping lists;
+
+• Monitor the effectiveness of marketing campaigns;
+
+• Aggregate usage metrics (such as total number of visitors to the Sites and pages viewed, application usage and downloads, and interaction with advertisements);
+
+• Understand usage trends and preferences;
+
+• Improve the way the Sites work and look;
+
+• Improve our marketing and promotional efforts;
+
+• Provide you with a personalized experience on and off the Sites (such as recognizing your system so that you will not have to re-enter information during your current or future visit to the Sites) by using information internally, sharing information with our Affiliates, or using information from our Affiliates;
+
+• Provide you with custom, personalized coupon promotions and advertisements on and off our Sites;
+
+• Create new features and functionality;
+
+• Anonymize and aggregate information for different purposes, such as website traffic flow analysis, market analysis, and to deliver relevant advertising and information, e.g., based on click stream data;
+
+• For non-marketing or administrative purposes (such as customer service purposes);
+
+• Combine information you provide or we obtain through use of the Sites with other information, including information obtained from third parties;
+
+• Share information as described in this Privacy Policy; and
+
+• Use the device information to provide targeted ads to you based on your use of the Sites (e.g., based on your printing and redemption activity).
 
 We retain all information we collect about you for the period necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required or permitted by law.
 
@@ -113,7 +138,7 @@ In addition, we may aggregate non-personally identifiable information and share 
 
 We also may share non-personally identifiable information with third-party ad servers, ad networks, and data exchanges (“Ad Partners”) so that they can tailor advertisements to your apparent interests and deliver those advertisements to you while you are either on our Sites or on Affiliate or third-party websites. For example, if you print pet food coupons, then an Ad Partner may conclude that you have a pet and display a pet care supply advertisement instead of a random advertisement. In addition, Ad Partners themselves use tracking technologies (such as cookies, pixels, and beacons) to collect information about your browsing behavior on our Sites and across different third party sites which they may match with information they have previously collected (including personally identifiable information you have provided to them). However, we do not share personally identifiable information with Ad Partners, and we do not permit Ad Partners to collect personally identifiable information about you on our Sites.
 
-For information about how to opt out of receiving behavioral advertisements from either Coupons.com or advertising partners please visit this website: <http://www.couponsinc.com/privacy-opt-out/>.
+For information about how to opt out of receiving behavioral advertisements from either Coupons.com or advertising partners please visit this website: [http://www.couponsinc.com/privacy-opt-out/](http://www.coupons.com/corporate/privacy-opt-out "Privacy Opt-out").
 
 **(c)  Exceptions**
 
@@ -125,11 +150,11 @@ In the event that we are acquired by or merged with a third-party entity, we res
 
 **6\. Your Choices**
 
-If you registered a Coupons.com account with us, you may modify, correct, or delete your personally identifiable information and preferences at any time by logging into your Coupons.com account or by contacting us at the following website: [www.couponsinc.com/contact-us/](http://www.couponsinc.com/contact-us/ "Contact Us"). We will respond to you within 30 days from the date you contact us. If there is personally identifiable information that you or us cannot fully delete upon your request, we would be happy to discuss with you and explore available options.
+If you registered a Coupons.com account with us, you may modify, correct, or delete your personally identifiable information and preferences at any time by logging into your Coupons.com account or by contacting us at the following website: <http://www.coupons.com/corporate/contact-us/>. We will respond to you within 30 days from the date you contact us. If there is personally identifiable information that you or us cannot fully delete upon your request, we would be happy to discuss with you and explore available options.
 
-You can opt-out of weekly coupon email alerts and other emails by following the instructions included in our emails to you, or by contacting us at the following website: [www.couponsinc.com/contact-us/](http://www.couponsinc.com/contact-us/ "Contact Us"). In addition, you can change your preferences for certain Coupons.com emails in your Coupons.com account.
+You can opt-out of weekly coupon email alerts and other emails by following the instructions included in our emails to you, or by contacting us at the following website: <http://www.coupons.com/corporate/contact-us/>. In addition, you can change your preferences for certain Coupons.com emails in your Coupons.com account.
 
-California Do Not Track Disclosure: Because at this time, there is no general agreement on how companies should interpret Do Not Track signals, we do not currently respond to Do Not Track signals, whether a signal is received on a computer or on a mobile device. However, we offer you choices about how we use the information we collect through online tracking. For information about how to opt out of receiving behavioral advertisements from us please visit this website: <http://www.couponsinc.com/privacy-opt-out/>.
+California Do Not Track Disclosure: Because at this time, there is no general agreement on how companies should interpret Do Not Track signals, we do not currently respond to Do Not Track signals, whether a signal is received on a computer or on a mobile device. However, we offer you choices about how we use the information we collect through online tracking. For information about how to opt out of receiving behavioral advertisements from us please visit this website: [http://www.couponsinc.com/privacy-opt-out/](http://www.coupons.com/corporate/privacy-opt-out "Privacy Opt-out").
 
 Our vendors and other third parties may track your online activities and collect information for use in providing content and advertising tailored to your interests. Using this tool, developed by the Digital Advertising Alliance, you can opt-out of “online behavioral” or “interest-based” advertising from participating companies: <http://www.aboutads.info/choices>.
 
@@ -141,13 +166,13 @@ You may be given the opportunity to register with us via third party accounts su
 
 **8\. Community Forum/Blogs; User Generated Content**
 
-We may ourselves manage and operate a blog, discussion board or other public forum, or otherwise permit registered users to post comments, photos, video and other user-generated content to areas within the Sites (collectively, “Community Forum”), or use a third party hosted and managed site, for general matters of interest regarding our coupons and Sites or special programs we offer. The use of any Community Forum feature (such as posting user -generated content) on our Sites is subject to our [Terms of Use](http://www.couponsinc.com/terms-of-use/ "Terms of Use") , and the use of a Community Forum on a third party site will be subject to that third-party site’s forum rules.
+We may ourselves manage and operate a blog, discussion board or other public forum, or otherwise permit registered users to post comments, photos, video and other user-generated content to areas within the Sites (collectively, “Community Forum”), or use a third party hosted and managed site, for general matters of interest regarding our coupons and Sites or special programs we offer. The use of any Community Forum feature (such as posting user -generated content) on our Sites is subject to our [Terms of Use](http://www.coupons.com/corporate/terms-of-use/ "Terms of Use") , and the use of a Community Forum on a third party site will be subject to that third-party site’s forum rules.
 
 If you choose to post user-generated content, your name and any photo submitted in the registration process will be publicly displayed as your Coupons account profile, along with your user-generated content (or derivative works thereof); your Coupons profile may also link to your public profile from a third party account if you registered with us through Facebook or other such service. Please take special note that your Coupons profile and any user-generated content that you post, including any personally identifiable information, are intended for public consumption, will be publicly accessible and will not be considered confidential. We may display this information on our Sites, share it with Affiliates, and further distribute it through third party sites and services. Our users may share this information as well. This Privacy Policy does not apply to the user-generated content and personally identifiable information you post to a Community Forum, and we are not responsible for any use of information you post to a Community Forum, whether hosted by us or an Affiliate.
 
-To request removal of your personally identifiable information from our Community Forums, please contact us at this website: <http://www.couponsinc.com/contact-us/>. In some cases, we may not be able to remove your personally identifiable information, in which case we will let you know if we are unable to do so and why.
+To request removal of your personally identifiable information from our Community Forums, [please contact us at this website](http://www.coupons.com/corporate/contact-us/).  In some cases, we may not be able to remove your personally identifiable information, in which case we will let you know if we are unable to do so and why.
 
-**9\. Our Commitment to Data Security**
+**9\. Our Commitment to Data Securit** **y**
 
 The Sites may use various physical, electronic, and administrative procedures to safeguard the confidentiality of your personally identifiable information. Additional security measures, such as Secure Sockets Layer (“SSL”) or other technology, will be used if you engage in financial transactions on our Sites. However, as no security measures are perfect or impenetrable, we cannot guarantee the security of any information you transmit to us.
 
@@ -168,11 +193,13 @@ Coupons.com Incorporated
 Mountain View, CA 94043  
 Attn: Privacy
 
-For customer service or technical questions, please submit a request using our online form at [www.couponsinc.com/contact-us/](http://www.couponsinc.com/contact-us/ "Contact Us").
+For customer service or technical questions, please submit a request using our online form at <http://www.coupons.com/corporate/contact-us/>
 
 **13\. TRUSTe Privacy Program**
 
 Coupons.com Incorporated has received TRUSTe’s Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.
+
+[](https://privacy.truste.com/privacy-seal/Coupons-com-Incorporated/validation?rid=dd1a41e3-a892-4153-9c0d-133d2b4843db "TRUSTe Privacy Certification")
 
 The TRUSTe program covers only information that is collected through these Web sites, www.coupons.com, www.couponbug.com, www.couponsinc.com, www.couponsuzy.com, www.kitchme.com, www.couponsforchange.com, www.groceryiq.com, www.couponsavingsclub.com, www.couponchad.com, www.definitivedeals.com and does not cover information that may be collected through mobile applications.
 
