@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arfitech.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408222507id_/http%3A//arfitech.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arfitech.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025023159id_/http%3A//arfitech.com/policy.php) for the most accurate reproduction.*
 
 # ArfiTech Privacy Policy
 
