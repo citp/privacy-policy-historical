@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seatwave.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509030750id_/http%3A//www.seatwave.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seatwave.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025155051id_/http%3A//www.seatwave.com/about-us/en-gb/privacy-policy.htm) for the most accurate reproduction.*
 
 # Seatwave - Privacy policy
 
@@ -6,7 +6,7 @@ This Privacy Policy was last updated on 27 April 2011 and is effective as of tha
 
 Seatwave Limited ("Seatwave", "we", "us" or "our") respects the privacy of every individual who visits this www.seatwave.com web site (the "Site"). This Privacy Policy governs the way in which we use and disclose any personal information (the "Personal Information" that you provide to us or we collect from you). Personal Information includes any information that identifies you or another individual personally, such as your name, address or email address.
 
-If you have questions or concerns regarding this Privacy Policy, you should first contact our privacy commissioner at [privacy@seatwave.com](mailto:privacy@seatwave.com) or call 02070828283.
+If you have questions or concerns regarding this Privacy Policy, you should first contact our privacy commissioner at [privacy@seatwave.com](mailto:privacy@seatwave.com) .
 
 ### Information that we collect
 
@@ -55,7 +55,7 @@ We want to provide you with the best possible service so calls to Seatwave may b
 
 We will use your name and email address to send our newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe.
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication, by emailing us at [privacy@seatwave.com](mailto:privacy@seatwave.com) or by writing to us at Seatwave Limited, 6th Floor, 120 Moorgate, London, EC2M 6UR.
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication, by emailing us at [privacy@seatwave.com](mailto:privacy@seatwave.com) or by writing to us at Seatwave Limited, Registered Office Address: 2nd Floor, Regent Arcade House, 19-25 Argyll Street, London W1F 7TS, United Kingdom. Registered in England and Wales No: 5843832.
 
 If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, or deactivate it by emailing our Customer Support at [privacy@seatwave.com](mailto:privacy@seatwave.com) or by contacting us by postal mail at the contact information listed above.
 
@@ -111,7 +111,7 @@ Your Personal Information may be transferred to, stored and processed on our ser
 
 ### Accessing and changing personal information
 
-You have the right to request a copy of the Personal Information that Seatwave holds on you and to have any errors in that information corrected. We charge £10.00 for such requests. (Please contact us to arrange payment) Please address your request to our customer service team at [support@seatwave.com](mailto:support@seatwave.com).
+You have the right to request a copy of the Personal Information that Seatwave holds on you and to have any errors in that information corrected. We charge £10.00 for such requests. (Please contact us to arrange payment) Please address your request to our customer service team at <http://www.seatwave.com/help> .
 
 You can access and change your account information in My Account. As a buyer in My Account, you can change your delivery name, delivery address and telephone number by transaction. As a seller, you are able to change your payment method. As a buyer or seller, you are able to change your account password.
 
