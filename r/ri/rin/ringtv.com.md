@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ringtv.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628210330id_/http%3A//ringtv.craveonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ringtv.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025182507id_/http%3A//ringtv.craveonline.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Ring TV
 
