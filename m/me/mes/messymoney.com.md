@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the messymoney.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626110642id_/http%3A//messymoney.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the messymoney.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025093049id_/http%3A//messymoney.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Messy Money
+# Privacy Policy -
 
 Messy Money takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://cybec.com/what-is-a-privacy-policy/) to learn more about privacy policies in general.
 
