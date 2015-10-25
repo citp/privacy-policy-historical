@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ratesupermarket.ca privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601043120id_/http%3A//www.ratesupermarket.ca/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratesupermarket.ca privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025095050id_/https%3A//www.ratesupermarket.ca/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | RateSupermarket.ca
+# Privacy Policy
 
 ## Our Privacy Pledge
 
