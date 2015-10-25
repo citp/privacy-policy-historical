@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the augusoft.net privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611155337id_/http%3A//www.augusoft.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the augusoft.net privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025070148id_/http%3A//www.augusoft.net/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Augusoft
+# Privacy | Augusoft
 
 At times Augusoft sites contain areas where we require you to enter your contact information. This personal, identifiable information is collected and maintained in our CRM system.
 
