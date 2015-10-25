@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the onelook.com privacy policy that was archived on 2015-03-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315002856id_/http%3A//www.onelook.com/about.shtml%23privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the onelook.com privacy policy that was archived on 2015-10-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151025163617id_/http%3A//www.onelook.com/about.shtml%23privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<script src="https://ajax.googleapis.com/ajax/libs/prototype/1.7.2.0/prototype.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/scriptaculous/1.9.0/scriptaculous.js?load=effects,controls"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 <link rel="stylesheet" type="text/css" href="ol.css?2">
+<link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/themes/smoothness/jquery-ui.css">
 <link rel="search" type="application/opensearchdescription+xml" href="http://www.onelook.com/osdf.xml" title="OneLook Dictionary Search">
 <title>OneLook Dictionary Search</title>
 <meta name="verify-v1" content="sB0hHHVrwGNsQx2rlf03XszL/j2wus02u/deZpkKddw=">
@@ -207,12 +207,14 @@ Please note:  There are <b><a href="/?c=nopopups&amp;loc=2">no popup advertiseme
 <center><table border="1" cellpadding="10" cellspacing="1" bgcolor="#FFFFFF" bordercolor="#000000" bordercolordark="#FFFFFF" bordercolorlight="#C0C0C0" width="100%"><tbody><tr><td>
 
 
+
 Got a suggestion, question, or bug report?  Please fill out the form below!<br>
 
 <br>
 
 <center>
 <form name="form1" method="POST" action="/">
+
 My message is a:&nbsp;&nbsp;<select name="commenttype">
 <option value="nosel">Select one (required!)
 </option><option value="bug">Bug report
@@ -225,10 +227,11 @@ My message is a:&nbsp;&nbsp;<select name="commenttype">
 <br><font size="2">(Adding a dictionary to OneLook?  <a href="/?c=add-dictionary-guidelines">Read our guidelines</a> first.)</font>
 
 <br><br>
+
 <textarea name="lime" cols="40" rows="10" wrap="virtual">
 
 </textarea><br><br>
-My email address is (required only if you want a reply): &nbsp;&nbsp;
+Email address (required only if you want a reply): &nbsp;&nbsp;
 <input size="20" maxlength="120" name="email" value=""><br><br>
 <input type="submit" value="   Click here to submit your message to us  ">
 <input type="hidden" name="c" value="about">
@@ -245,6 +248,41 @@ Please <A HREF=/?c=nopopups&loc=3>click here</A> for more info.)</center>
 <br><br>
 
 </center></a></td></tr></tbody></table>
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js"></script>
+<script>
+$(function() {
+    last_req = "";
+    $( "#olinput" ).autocomplete({
+      minLength: 3,
+	  delay: 100,
+	  select: function(event, ui) { 
+	  $('<input>').attr({
+	    type: 'hidden',
+		name: 'loc',
+		value: 'home_ac_' + last_req
+		}).appendTo('#olform');
+	  $( "#olinput" ).val(ui.item.value);
+	  $( "#olform" ).submit();
+	},
+	  source: function( request, response ) {
+	  if (!/[*][:]/.test(request.term)) {
+	    $.ajax({
+	      dataType: "json",
+		  type : 'Get',
+		  url: 'http://api.datamuse.com/sug?v=ol_gte3&k=ol_home&s=' + encodeURIComponent(request.term.replace(/[:].*/,'')),
+		  success: function(data) {
+		  response( $.map( data, function(item) { return item["word"]; }))
+		    },
+		  });
+	    last_req = request.term;
+	  }
+	}
+      });
+  });
+   $(function() {
+	init();
+      });
+</script>
 
 
 </center></center></body></html>
