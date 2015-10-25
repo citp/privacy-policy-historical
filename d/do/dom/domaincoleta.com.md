@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domaincoleta.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608041309id_/http%3A//domainsigma.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domaincoleta.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025190747id_/http%3A//domainsigma.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DomainSigma
 
@@ -14,8 +14,31 @@ We may collect personal identification information from Users in a variety of wa
 **Non-personal identification information**  
 We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-**Web browser cookies**  
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+### Cookies
+
+To make this site work properly, we sometimes place small data files called cookies on your device. Most big websites do this too. 
+
+**What are cookies?**
+
+A cookie is a small text file that a website saves on your computer or mobile device when you visit the site. It enables the website to remember your actions and preferences (such as login, language, font size and other display preferences) over a period of time, so you don’t have to keep re-entering them whenever you come back to the site or browse from one page to another. 
+
+**How do we use cookies?**
+
+A number of our pages use cookies to: 
+
+  * Help remember and process the items in the shopping cart.
+  * Understand and save user's preferences for future visits.
+  * Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf. 
+
+
+
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.
+
+**Google**
+
+**If users disable cookies in their browser:**
+
+If you disable cookies off, some features will be disabled It will turn off some of the features that make your site experience more efficient and some of our services will not function properly. 
 
 **How we use collected information**  
 Domainsigma may collect and use Users personal information for the following purposes:
@@ -58,4 +81,4 @@ If you have any questions about this Privacy Policy, the practices of this site,
 [Domainsigma](http://domainsigma.com/)  
 [http://domainsigma.com](http://domainsigma.com/)
 
-This document was last updated on March 2, 2014
+This document was last updated on September 20, 2015
