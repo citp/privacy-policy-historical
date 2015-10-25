@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rock.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513005558id_/http%3A//www.rock.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rock.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025103004id_/http%3A//www.rock.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ We collect information from you when you register on our site, place an order, s
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, billing address, phone number, or credit card information. 
 
-Various third party vendors use cookies to serve targeted ads on sites you visit after visiting Rock.com, including potentially ads from Rock.com. Some of our third party vendors allow you to opt out of receiving such ads. For more information, please visit http://www.networkadvertising.org/choices/#completed
+Various third party vendors use cookies to serve targeted ads on sites you visit after visiting Rock.com, including potentially ads from Rock.com. Some of our third party vendors allow you to opt out of receiving such ads. For more information, please visit http://www.networkadvertising.org/choices/#completed. Addtionally, we utilize various services to identify you when you return to the site so that we may customize your on site experience and subsequently continue to market to you when you leave the site with banner ads on other sites and emails based on your activity while on the site.
 
 Further, we have enabled Google Analytics to collect information about the nature of our users experience while visiting Rock.com including but not limited to Google Analytics Demographics and Interest Reporting. This will enable us to continually improve the services we provide to our customers. However, to opt out of Google Analytics, visit https://tools.google.com/dlpage/gaoptout/ 
 
@@ -26,7 +26,7 @@ Any of the information we collect from you may be used in one of the following w
 
 • To send periodic emails 
 
-The email address you provide for order processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc. 
+The email address you enter into our shopping cart may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc. Further, if you enter your email address to receive any discounts or promotions, you will receive occasional company news, updates, promotions, related product or service information, etc. 
 
 • To administer a contest, promotion, survey or other site feature 
 
