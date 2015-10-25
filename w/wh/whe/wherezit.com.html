@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wherezit.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607200501id_/http%3A//www.wherezit.com/faq/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wherezit.com privacy policy that was archived on 2015-10-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151025100101id_/http%3A//www.wherezit.com/faq/privacypolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>Wherezit.com - Privacy Policy</title>
@@ -7,7 +7,78 @@
 <script language="JavaScript" type="text/javascript" src="/js/menu.js"></script>
 <script language="JavaScript" type="text/javascript" src="/js/menuData.js"></script>
 </head>
-<body>
+<body onload="document.getElementById('lightbox').style.display='block';document.getElementById('fadebox').style.display='block';">
+<div id="lightbox" class="lb_white_content" style="display: block;">
+	<p class="center"><span class="head3">Welcome to <span class="wz">WherezIt.com</span></span><br>
+    <span class="head4"><span class="wz">WherezIt.com</span> is <span class="wzyellow">Your
+	Source for Local Information.</span><br>
+	Please tell us where you are, to get started.</span></p>
+
+    <p>Enter an address below.  You can enter any portion of an address and we'll 
+		try to figure it out. (examples 12 S Main St, Waterbury, VT 05676 or 
+		Waterbury VT or 05676)</p>
+
+    <form name="change_location" action="/change_location.php" method="post">
+    <input type="hidden" name="opt" value="lightbox">
+    <input type="hidden" name="submitted" value="Y">
+    <p></p><table cellspacing="0">
+    <tbody><tr><th>Location</th>
+        <td><input type="text" name="location" value="Waterbury, VT 05676" size="40"></td>
+    </tr>
+    <tr><th>Distance:</th>
+        <td><input type="text" name="distance" value="25" size="3"> miles
+            around your location.</td>
+    </tr>
+    </tbody></table><p></p>
+    </form>
+		
+		<p><span class="wz">WherezIt.com</span> is currently located in Central Vermont, 
+		so if you pick a location outside that area you won't find much.  We are growing.
+		If you leave the boxes blank, you will be centered on Waterbury Vermont.</p>
+		<p class="center"><span class="head4">Please enjoy using <span class="wz">WherezIt.com</span></span></p>
+
+		<div align="center"><p>
+			<a onmouseover="document.ContinueBtn.src='http://img.wherezit.com/images/ButContinueD.gif';" onmouseout="document.ContinueBtn.src='http://img.wherezit.com/images/ButContinueU.gif';" href="javascript:checkForm();"><img name="ContinueBtn" src="http://img.wherezit.com/images/ButContinueU.gif" height="22" width="69" border="0"></a>
+		</p></div>
+</div>
+
+<script language="JavaScript">
+document.change_location.location.focus();
+function checkForm() {
+    var form = document.change_location;
+
+    // Hide the lightbox
+    document.getElementById('lightbox').style.display='none';
+    document.getElementById('fadebox').style.display='none';
+
+    // Trim form values
+    form.location.value = form.location.value.replace(/^\s+|\s+$/g,"");
+    form.distance.value = form.distance.value.replace(/^\s+|\s+$/g,"");
+
+    // If the user went with the default, just close
+    // lightbox and let them view the page.
+    if (form.location.value == 'Waterbury, VT 05676') {
+        return;
+    }
+
+    // Submit the form if it has been filled out correctly.
+    // Otherwise, just continue and let the user read the
+    // page.
+    if (form.location.value == "") {
+        // empty location
+        return;
+    }
+    var regExp = /^[\d\.]+$/;
+    if (!regExp.test(form.distance.value)) {
+        // Bad distance
+        return;
+    }
+
+    // Data looks Ok, submit
+    form.submit();
+}
+</script>
+<div id="fadebox" class="lb_black_overlay" style="display: block;"></div>
 <div id="dropDown0" class="dropdown"></div>
 <div id="dropDown1" class="dropdown"></div>
 <div id="dropDown2" class="dropdown"></div>
@@ -253,17 +324,17 @@ keep prior versions of this Privacy Policy in an archive for your review.</p>
 
 
 </td><td class="ad_td">
-<a href="/listing_show.php?lid=879714&amp;aid=101"><div class="adblock">Visit Complete Automotive Repair Service, LLC (C.A.R.S) today!</div></a>
+<a href="/listing_show.php?lid=218428&amp;aid=102"><div class="adblock">Visit Bob's Painting &amp; Roofing today!</div></a>
 <hr color="#500078" noshade="" size="1" width="66%">
-<div class="adblock2"><a href="/listing_show.php?lid=287916&amp;aid=35"><img src="http://photo.wherezit.com/images/user/03/96/39660.jpg" height="125" width="125" border="0" alt=""></a></div>
-<hr color="#500078" noshade="" size="1" width="66%">
-<div class="adblock2"><a href="/listing_show.php?lid=269107&amp;aid=36"><img src="http://photo.wherezit.com/images/user/04/01/40179.jpg" height="125" width="125" border="0" alt=""></a></div>
-<hr color="#500078" noshade="" size="1" width="66%">
-<div class="adblock2"><a href="/listing_show.php?lid=224024&amp;aid=8"><img src="http://photo.wherezit.com/images/user/01/56/15635.jpg" height="125" width="125" border="0" alt=""></a></div>
+<div class="adblock2"><a href="/listing_show.php?lid=224834&amp;aid=87"><img src="http://photo.wherezit.com/images/user/39/94/399489.jpg" height="125" width="125" border="0" alt=""></a></div>
 <hr color="#500078" noshade="" size="1" width="66%">
 <div class="adblock2"><a href="/listing_show.php?lid=216527&amp;aid=13"><img src="http://photo.wherezit.com/images/user/01/56/15640.jpg" height="125" width="125" border="0" alt=""></a></div>
 <hr color="#500078" noshade="" size="1" width="66%">
-<div class="adblock2"><a href="/listing_show.php?lid=228666&amp;aid=66"><img src="http://photo.wherezit.com/images/user/04/35/43550.jpg" height="125" width="125" border="0" alt=""></a></div>
+<div class="adblock2"><a href="/listing_show.php?lid=218991&amp;aid=55"><img src="http://photo.wherezit.com/images/user/04/27/42751.jpg" height="125" width="125" border="0" alt=""></a></div>
+<hr color="#500078" noshade="" size="1" width="66%">
+<div class="adblock2"><a href="/listing_show.php?lid=224836&amp;aid=16"><img src="http://photo.wherezit.com/images/user/01/56/15642.jpg" height="125" width="125" border="0" alt=""></a></div>
+<hr color="#500078" noshade="" size="1" width="66%">
+<div class="adblock2"><a href="/listing_show.php?lid=224023&amp;aid=10"><img src="http://photo.wherezit.com/images/user/01/56/15637.jpg" height="125" width="125" border="0" alt=""></a></div>
 <hr color="#500078" noshade="" size="1" width="66%">
 <p><a href="/listing_upgrade.php">Want to see your ad here?</a></p>
 </td></tr>
@@ -285,8 +356,8 @@ keep prior versions of this Privacy Policy in an archive for your review.</p>
 </td></tr>
 <tr><td colspan="2"><div align="center">
 © 2015 WherezIt.com
-<p class="gray_text">Page generated in: 0.182 seconds
-<br>Query Count: 15 Query Time: 0.006
+<p class="gray_text">Page generated in: 0.209 seconds
+<br>Query Count: 15 Query Time: 0.015
 </p>
 
 </div>
