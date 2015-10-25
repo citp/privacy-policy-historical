@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigml.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319062421id_/https%3A//bigml.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigml.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025223746id_/https%3A//bigml.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | BigML.com
 
@@ -14,7 +14,7 @@ This Privacy Policy (the “BigML Privacy Policy”) governs the BigML web site 
 
 This Privacy Policy describes our policies and procedures regarding the collection, use and disclosure of personally identifiable information made available by users of the BigML Services. 
 
-The use of the BigML Services is governed by the Terms of Service ("Terms of Services") available at <https://bigml.com/tos>. 
+The use of the BigML Services is governed by the Terms of Service ("Terms of Services") available at [https://bigml.com/tos](https://web.archive.org/tos). 
 
 ## A. The Information BigML Collects and Stores
 
@@ -22,7 +22,7 @@ We may collect and store the following information when running the BigML Servic
 
   1. **Information You Provide**
     * When you register an account, BigML collects some personally identifiable information, including but not limited to: name, email address, username, password, country, and any and all other information that you share with us. We receive and store any information you enter through the Service or give us in any other way.
-    * You may review, update, correct or delete the Personal Information provided in your registration at <https://bigml.com/account>.
+    * You may review, update, correct or delete the Personal Information provided in your registration at [https://bigml.com/account](https://web.archive.org/account).
   2. **Cookies**
     * Cookies are necessary to use BigML.com.
     * A cookie is an alphanumeric identifier in the form of a text file that is inserted and stored by your Web browser on your computer’s hard drive.
@@ -60,7 +60,7 @@ BigML will get access and use meta level data generated during the creation of y
     * When you request us to delete your BigML Account, your data will be permanently expunged from our primary production servers and further access to your account will not be possible. We will also promptly delete your email address from our third party newsletter provider and any payment information from our servers and our payment processor provider.
     * Please note, however, that there might be latency in deleting information from our servers and backed-up versions might still exist immediately after deletion. After a reasonable period of time your Data will be permanently deleted from all our backup servers.
     * Portions of your data, consisting of aggregate or anonymous data derived from your use of the BigML Services, may remain on our production servers indefinitely.
-    * If you wish to cancel your account or request that we no longer use your information to provide you services, you may delete your account at <https://bigml.com/account>. We may retain and use your personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. Consistent with these requirements, we will delete your information quickly upon request.
+    * If you wish to cancel your account or request that we no longer use your information to provide you services, you may delete your account at [https://bigml.com/account](https://web.archive.org/account). We may retain and use your personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. Consistent with these requirements, we will delete your information quickly upon request.
   9. **Forums & Other Interactive Services**
 
 The BigML Services may include a bulletin board, blog or chat room ("Interactive Areas"). If you use an Interactive Area, you should be aware that these areas are open to the public and any personal information you post or provide at registration may be viewable by others. BigML is not responsible for personal information you submit in connection with the Interactive Areas, nor is BigML responsible for how others might use that information, including to send you unsolicited messages. Interactive Area postings may be retained indefinitely. These Interactive Areas may be hosted by BigML or by one of our third party service providers on BigML’s behalf. 
