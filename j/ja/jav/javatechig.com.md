@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the javatechig.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315005809id_/http%3A//javatechig.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the javatechig.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025173123id_/http%3A//javatechig.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | JavaTechig
+# Privacy Policy | Java Techig
 
 We take our readers privacy seriously! We are committed to protecting the privacy and accuracy of confidential information to the extent possible. Please read the following privacy policy statement to learn about our information gathering and dissemination practices.
 
