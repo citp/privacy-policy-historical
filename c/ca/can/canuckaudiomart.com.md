@@ -1,12 +1,17 @@
-> *The following text is extracted and transformed from the canuckaudiomart.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608050507id_/http%3A//www.canuckaudiomart.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canuckaudiomart.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025132237id_/http%3A//www.canuckaudiomart.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Canuck Audio Mart
 
+[ ](https://web.archive.org/partnerlink/aHR0cHM6Ly9wdWJhZHMuZy5kb3VibGVjbGljay5uZXQvZ2FtcGFkL2p1bXA/aXU9LzEwMTU1MDUvQ0FNXzYtMV8yMzB4NjAmc3o9MjMweDYwJmM9NTQ2MzQ=)
+
+|   
+---|---  
+  
 Welcome to CAM, a classifieds site for used audio, hifi and stereo. It is completely **free** for hobbyists to post classifieds here. [Register today](http://www.canuckaudiomart.com/register.php) and start selling your audio gear!
 
 ## Canuck Audio Mart's Privacy Policy
 
-We here at Canuck Audio Mart and its Operators, Canuck AudioMart Inc. recognize that the relationship with our visitors is one of our most valuable assets. We therefore understand and respect the need for protecting your privacy in order to establish trust and to maintain the integrity of our company. The following is the Privacy Policy for Canuck Audio Mart (www.canuckaudiomart, "we" or "us") on the purpose, intent, use, and protection of the information you (the user of the site) provide. 
+We here at Canuck Audio Mart and its Operators, Canuck Digital Media Inc. recognize that the relationship with our visitors is one of our most valuable assets. We therefore understand and respect the need for protecting your privacy in order to establish trust and to maintain the integrity of our company. The following is the Privacy Policy for Canuck Audio Mart (www.canuckaudiomart, "we" or "us") on the purpose, intent, use, and protection of the information you (the user of the site) provide. 
 
 Note: This policy only applies to any information disclosed while dealing directly with Canuck Audio Mart (http://www.canuckaudiomart.com/). Once you leave our web site to go to another web site, or provide information to other users of the site, we no longer assume responsibility of any information that may be collected, disclosed, and/or manipulated. 
 
@@ -26,7 +31,7 @@ By using our web site (http://www.canuckaudiomart.com/), it constitutes acceptan
 
 **_Privacy Contact Info:_**
 
-Canuck AudioMart Inc.  
+Canuck Digital Media Inc.  
 P.O. Box 27531  
 Oakridge  
 Vancouver, BC, Canada  
