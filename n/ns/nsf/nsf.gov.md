@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nsf.gov privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630144345id_/http%3A//www.nsf.gov/policies/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsf.gov privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025172147id_/http%3A//www.nsf.gov/policies/privacy.jsp) for the most accurate reproduction.*
 
 # US NSF - Privacy Policy
 
@@ -22,7 +22,7 @@ If you are visiting the NSF website to browse through our site, read pages, or d
 
 This information is used by our web content managers and developers to help us make our site more useful to visitors—to learn about the number of visitors to our site and the types of technology our visitors use. We do **not** track or record personal information about individuals and their visits. The information we collect is deleted after three years.
 
-You can opt-out of the persistent cookies on our site by disabling cookies in your web browser. Instructions for [disabling cookies in popular desktop browsers](http://www.usa.gov/optout_instructions.shtml) are provided on USA.gov. Opting-out of the persistent cookies on our site will not prevent you from accessing any of the information or services on our site. 
+You can opt-out of the persistent cookies on our site by disabling cookies in your web browser. Instructions for [disabling cookies in popular desktop browsers](https://www.usa.gov/optout-instructions/) are provided on USA.gov. Opting-out of the persistent cookies on our site will not prevent you from accessing any of the information or services on our site. 
 
 ## Collected Information 
 
