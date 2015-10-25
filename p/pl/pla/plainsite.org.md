@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plainsite.org privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624021204id_/http%3A//www.plainsite.org/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plainsite.org privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025063510id_/http%3A//www.plainsite.org/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,7 +27,7 @@ To the extent that information is publicly available and provided by the governm
 
 We cannot guarantee any particular action for any particular record ahead of time.
 
-While we at one point permitted requests for information removal via e-mail, we now ask that you use our web-based, easy-to-use [Contact Us Form](https://web.archive.org/web/20150624021204id_/http%3A//www.plainsite.org/contact/index.html) to get in touch with us about an issue you may have with information on PlainSite. Using the form helps streamline the process, as we typically many requests per day and have only a small staff to respond.
+While we at one point permitted requests for information removal via e-mail, we now ask that you use our web-based, easy-to-use [Contact Us Form](https://web.archive.org/web/20151025063510id_/http%3A//www.plainsite.org/contact/index.html) to get in touch with us about an issue you may have with information on PlainSite. Using the form helps streamline the process, as we typically many requests per day and have only a small staff to respond.
 
 If a piece of public information is harming you or someone you know, the best course of action is to attempt to have it sealed or expunged by the government agency publishing the information **first** , and **then** to get in touch with us.
 
@@ -46,7 +46,8 @@ When evaluating a given request, the following factors cause us to generally kee
   * **Novel issues of law.** A case pertaining to a new issue, such as international law or technology law, is generally of interest to the public.
   * **Major societal issues.** A case pertaining to incoming inequality, student loan debt or current events would generally be of interest to the public.
   * **Business and intellectual property issues.** While we value individual privacy, business activity before courts and government agencies almost always belongs in the public domain.
-  * **Unusual filing activity.** While we might typically suppress individual bankruptcy cases, an individual who has filed for bankruptcy ten times should not enjoy the protection of information suppression.
+  * **Multiple cases or unusual filing activity.** While we might typically suppress individual bankruptcy cases, an individual who has filed for bankruptcy ten times should not enjoy the protection of information suppression. Even two cases of any kind may make a trend apparent that would otherwise be unclear.
+  * **Litigation involving lawyers and/or law firms.** Lawyers are officers of the court and their actions are therefore especially deserving of public scrutiny.
 
 
 
@@ -64,6 +65,8 @@ We do not take the following factors into consideration at all:
   * **Personal attributes.** We're not interested in your race, ethnicity, religion, or sexual orientation, and will disregard any information you provide us along these lines.
   * **Health.** We do not give preferential treatment to individuals suffering from any particular condition or disease.
   * **Profit motive.** We do not treat non-profit organizations and their affiliates any differently than for-profit organizations.
+  * **Other web sites' actions.** We do not consider actions that other web sites have taken with regard to suppression or removal requests.
+  * **European Law.** The so-called "Right To Be Forgotten" does not apply in the United States of America.
 
 Finally, although we try to redact Social Security Numbers, bank account numbers, passport numbers, and other unique identifiers from documents where possible, we generally do not find the presence of such information to necessarily justify any other action in a given case. 
 
@@ -78,7 +81,7 @@ The information we collect from you may be used in one of the following ways:
   * **To personalize your experience.** Your information helps us to better respond to your individual needs.
   * **To improve our website.** (we continually strive to improve our website offerings based on the information and feedback we receive from you)
   * **To improve customer service.** (your information helps us to more effectively respond to your customer service requests and support needs)
-  * **To process transactions.** We charge fees for [PlainSite Pro Se](https://web.archive.org/web/20150624021204id_/http%3A//www.plainsite.org/prose/index.html) and [PlainSite Pro](https://web.archive.org/web/20150624021204id_/http%3A//www.plainsite.org/pro/index.html), which means we need to collect payment information.
+  * **To process transactions.** We charge fees for [PlainSite Pro Se](https://web.archive.org/web/20151025063510id_/http%3A//www.plainsite.org/prose/index.html) and [PlainSite Pro](https://web.archive.org/web/20151025063510id_/http%3A//www.plainsite.org/pro/index.html), which means we need to collect payment information.
 
 
 
@@ -114,8 +117,8 @@ When was this policy last updated?
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on June 13, 2014.
+This policy was last modified on October 14, 2015.
 
 How can I contact you?
 
-If there are any questions regarding this privacy policy, please [contact us](https://web.archive.org/web/20150624021204id_/http%3A//www.plainsite.org/contact/index.html).
+If there are any questions regarding this privacy policy, please [contact us](https://web.archive.org/web/20151025063510id_/http%3A//www.plainsite.org/contact/index.html).
