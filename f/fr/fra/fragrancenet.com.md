@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the fragrancenet.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319060546id_/http%3A//www.fragrancenet.com/f/net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fragrancenet.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025214249id_/http%3A//www.fragrancenet.com/help/privacy) for the most accurate reproduction.*
 
-# FragranceNet.com® Privacy Policy
-
-[ ](http://www.fragrancenet.com/)
+# Discount Perfume, Cologne & Discounted Fragrances
 
 Privacy & Safety 
 
