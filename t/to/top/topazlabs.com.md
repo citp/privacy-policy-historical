@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the topazlabs.com privacy policy that was archived on 2014-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141005005041id_/http%3A//www2.topazlabs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topazlabs.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025222115id_/https%3A//www.topazlabs.com/privacy) for the most accurate reproduction.*
 
-# Topaz Labs - Privacy Policy
+# Privacy | Topaz Labs
 
 ### What information do we collect?
 
@@ -12,30 +12,31 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 
 Any of the information we collect from you may be used in one of the following ways:
 
-\- To personalize your experience  
+– To personalize your experience  
 (your information helps us to better respond to your individual needs)
 
-\- To improve our website  
+– To improve our website  
 (we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-\- To improve customer service  
+– To improve customer service  
 (your information helps us to more effectively respond to your customer service requests and support needs)
 
-\- To process transactions  
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested. 
+– To process transactions  
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-\- To administer a contest, promotion, survey or other site feature 
+– To administer a contest, promotion, survey or other site feature
 
-\- To send periodic emails  
+– To send periodic emails
+
 The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
 
-Note: If at any time you would like to unsubscribe from receiving future emails, just click the "Manage My Subscription" link at the bottom of each newsletter.
+Note: If at any time you would like to unsubscribe from receiving future emails, just click the “Manage My Subscription” link at the bottom of each newsletter.
 
 ### How do we protect your information?
 
 We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our payment gateway provider's (Paypal) database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our payment gateway provider’s (Paypal) database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
 ### Do we use cookies?
 
@@ -63,7 +64,11 @@ This online privacy policy applies only to information collected through our web
 
 ### Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at /legal.html.
+Please also visit our [Terms and Conditions](https://web.archive.org/terms) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+
+### DMCA Policy
+
+Please also visit our [DMCA Policy](https://web.archive.org/dmca) section for our policies and reporting procedures regarding intellectual property rights and other proprietary rights of others.
 
 ### Your Consent
 
@@ -71,16 +76,15 @@ By using our site, you consent to our privacy policy.
 
 ### Changes to our Privacy Policy
 
-If we decide to change our privacy policy, we will update the Privacy Policy modification date below. 
+If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
 
 This policy was last modified on July 21, 2009.
 
 ### Contacting Us
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
+If there are any questions regarding this privacy policy you may contact us using the information below.
 
 http://www.topazlabs.com  
-5001 Spring Valley Rd  
-Suite 400 East  
-Dallas, Texas 75244  
-info@topazlabs.com 
+14285 Midway Rd., Ste. 125  
+Addison, TX 75001  
+info@topazlabs.com
