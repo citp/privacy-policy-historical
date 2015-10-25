@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the propgoluxury.com privacy policy that was archived on 2015-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150211011603id_/http%3A//www.propgo.com/PrivatePolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propgoluxury.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025141605id_/http%3A//www.propgo.com/PrivatePolicy.aspx%3Flang%3D1) for the most accurate reproduction.*
 
 # PropGO Privacy Policy
 
-Privacy Policy  
+**Chính sách bảo mật**  
 
 
 PropGO.com respects your privacy and recognizes the importance of protecting information collected from you through PropGO.com's Web site, related data, and/or related services (collectively, the "Services"). We have adopted this privacy policy. PropGO.com will comply with this policy, and applicable privacy-related law, when we gather and use information from users of the Services. 
