@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theblogpress.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408020045id_/http%3A//theblogpress.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theblogpress.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025191121id_/http%3A//webhostquiz.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | BlogPress
+# Privacy Policy - BlogPress
 
 Last Updated on 06/17/2014
 
