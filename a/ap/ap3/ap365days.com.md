@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ap365days.com privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517052834id_/http%3A//www.ap365days.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ap365days.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026073907id_/http%3A//www.ap365days.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Education updates and Technology News Health,Games, and all Updates
 
