@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the costabingo.com privacy policy that was archived on 2015-03-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150322080837id_/https%3A//www.costabingo.com/skin/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the costabingo.com privacy policy that was archived on 2015-10-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151026092958id_/https%3A//www.costabingo.com/skin/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" xmlns="//www.w3.org/1999/xhtml" xmlns:fb="//www.facebook.com/2008/fbml" xmlns:og="//opengraphprotocol.org/schema/"><!--<![endif]--><!-- Create HTML5 elements on older IE's --><!--[if lt IE 9]>
 <script type="text/javascript">
@@ -20,7 +20,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <!-- Base href -->
-        <base href="//www.costabingo.com/skin/">
+        <base href="https://www.costabingo.com/skin/">
 
         <link rel="stylesheet" href="../content/dev/styles/normalize.css">
         <link rel="stylesheet" href="../content/dev/styles/bootstrap.min.css" media="screen">
@@ -32,8 +32,7 @@
         
 
         <!-- HEAD Section Trackers -->
-        <!-- Tempy Pixel: Oct 2013 -->
-<script>(function(a){var d=document,c=d.createElement("script");c.async=!0,c.defer=!0,c.src=a,d.getElementsByTagName("head")[0].appendChild(c)})((iatDev=(window.location.href.indexOf("iatDev=1")>-1||document.cookie.indexOf("iatDev=1")>-1),"//"+(window.location.protocol=="http:"&&!iatDev?"h":"")+"j.flxpxl.com/139796.js?r="+Math.random()*1e16+"&m=992&a=139796"+(iatDev?"&d=1":"")))</script><script async="" defer="" src="//j.flxpxl.com/139796.js?r=2841093969368355.5&amp;m=992&amp;a=139796"></script>
+        
         <!-- Jquery and Modernizr Scripts -->
         <script src="../content/dev/scripts/vendor/modernizr-2.6.2.min.js"></script>  
         <script src="../content/dev/scripts/vendor/jquery-1.10.2.min.js"></script> 
@@ -41,7 +40,7 @@
         <script src="../content/dev/scripts/jquery.flash.js"></script> 
                
          
-    <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+    </head>
     <!--[if lt IE 7 ]> <body class="ie6" role="document"> <![endif]--> 
     <!--[if IE 7 ]>    <body class="ie7" role="document"> <![endif]--> 
     <!--[if IE 8 ]>    <body class="ie8" role="document"> <![endif]--> 
@@ -49,37 +48,114 @@
     <!--[if gt IE 9]>  <body role="document"> <![endif]-->
     <!--[if !IE]><!--> <body role="document"> <!--<![endif]-->
     
+        <script type="text/javascript">
+    
+    /* functions */
+    if ( typeof launchDeepLinkCashier === 'undefined' ) {
+        var launchDeepLinkCashier = function() {
+
+            if (navigator.appName.indexOf("Microsoft") != -1) {
+                wb = window.open("", "AquaPayCashier", "height=576,width=700,top=100,left=100,scrollbars=1");
+            } else {
+                wb = window.open("", "AquaPayCashier", "height=576,width=700,screenY=100,screenX=100,scrollbars=yes");
+            }
+
+            document.bingoCashierDeepLinkForm.submit();
+        }
+    }
+
+    if ( typeof launchIGByGameGroup === 'undefined' ) {
+
+        var launchIGByGameGroup = function ( gameGroupId ) {
         
+            var WINDOW_WIDTH = 500;
+            var WINDOW_HEIGHT = 300;
+        
+            var leftLocation = (screen.width - WINDOW_WIDTH) / 2;
+            var topLocation = (screen.height - WINDOW_HEIGHT) / 2;
+
+            if (igwn != null) {
+                igwn.close();
+                igwn = null;
+            }
+
+	        igwn = window.open("../members/IGLaunchPage.php?gameGroupId=" + gameGroupId,'igw', "height=" + WINDOW_HEIGHT + ",width=" + WINDOW_WIDTH + ",left=" + leftLocation + ",top=" + topLocation + ",resizable=yes,location=no,scrollbars=no,status=yes,toolbar=no,directories=no,menubar=no","true");
+
+	        try {
+
+                igwn.focus();
+
+            } catch(e) {
+        
+            }
+        }
+
+    }
+
+    if ( typeof launchClient === 'undefined' ) {
+
+        var launchClient = function ( dlid ) {
+	
+	        loc = "/skin/play.php?dlid=" + dlid + "&cache=" + ( Math.random() + '' );
+	    
+	        if (typeof playWin === 'undefined' || playWin.closed === true) {
+
+		        if (navigator.appName.indexOf("Microsoft") != -1) {
+			        h = (screen.height * 0.9) - 54 ;
+			        w = screen.width * 0.9 ;
+			        playWin = window.open(loc, "playWin", "height=" + h + ", width=" + w + ", top=1, left=1, resizable") ;
+		        }
+		        else 
+			        playWin = window.open(loc, "playWin", "height=" + (screen.height - 2) + ", width=" + (screen.width - 2) + ",screenY=1, screenX=1, resizable") ;
+	        }
+
+            try {
+
+	            playWin.focus();
+
+            } catch(e) {
+        
+            }
+
+        }
+    }
+
+	
+</script>
+
+
+
+
 <form name="CashierForm" id="CashierForm" method="post" action="https://cashier.bingosys.net/start.php" target="AquaPayCashier">
 	<input type="hidden" name="oid" value="10">
 	<input type="hidden" name="kid" value="14001">
 	<input type="hidden" name="cid" value="">
 	<input type="hidden" name="sid" value="">	
 	<input type="hidden" name="network" value="Costa">
-	<input name="playerAlias" type="hidden" value="">		
-    <input name="playerCurrency" type="hidden" value="GBP">			  
-    <input name="skinURL" type="hidden" value="https://www.costabingo.com">
-    <input name="siteID" type="hidden" value="14001">
-    <input name="networkID" type="hidden" value="14">
+	<input type="hidden" name="playerAlias" value="">		
+    <input type="hidden" name="playerCurrency" value="GBP">			  
+    <input type="hidden" name="skinURL" value="https://www.costabingo.com">
+    <input type="hidden" name="siteID" value="14001">
+    <input type="hidden" name="networkID" value="14">
 	<input type="hidden" name="playerSR" value="">
 	<input type="hidden" name="version" value="1">
 	<input type="hidden" name="oCustomerSource" value="">
 	<input type="hidden" name="lang" value="en">
-	<input type="hidden" name="oSourceAppID" value="11">	
+	<input type="hidden" name="oSourceAppID" value="11">
 </form>
 
 	
         <!--[if lt IE 9]>
                 <p class="alert alert-warning text-center">You are using an <strong>outdated</strong> browser. Please <a href="//browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
+		<div class="wrapper-2015">
 
-        <div class="wrapper">
-            
+            <div class="wrapper-mel-2015">
             <div class="container">
                 <header>
                     <div class="row">
                         <div class="col-xs-12 col-sm-6 col-md-5">
-                            <a href="//www.costabingo.com"><img src="/content/dev/images/site/logo-mel.png" class="img-responsive" alt="Costa Bingo"></a>
+                            <a href="//www.costabingo.com"><img src="/content/dev/images/site/logo-mel-2015.png" class="img-responsive" alt="Costa Bingo"></a>
                         </div>
                         <div class="col-sm-6 col-md-5 col-lg-5">
                           <div class="IEcorners hidden-xs">
@@ -154,6 +230,7 @@
                                         <ul class="dropdown-menu">		
                                             <li class="latestPromo"><a href="promotions_deposit.php">Bingo Promotions</a></li>
                                             <li><a href="sunnys_diary.php">Sunny's Diary</a></li>
+                                            <li><a href="promotions_deposit.php#mel">Mel's Corner</a></li>
                                         </ul>
                                     </li>
                                     <li class="divider-vertical"></li>
@@ -173,8 +250,8 @@
                                         </ul>
                                         
                                     </li>
-                                    <li class="divider-vertical"></li> 
-                                    <li><a class="new" href="cashino.php">Cashino</a></li>
+                                    <!--<li class="divider-vertical"></li> 
+                                    <li><a class="new" href="cashino.php">Cashino</a></li>-->
                                     <li class="divider-vertical"></li>
                                     <li><a href="diamond-club.php">Diamond Club</a></li>
                                     <li class="divider-vertical hidden-xs hidden-sm"></li>
@@ -304,19 +381,20 @@
                 </div>
                 <div class="main paymentMethods">
                      <ul class="list-inline">
-                        <li><img src="/content/dev/images/site/payment-method-01.jpg" class="img-responsive hidden-xs hidden-sm" alt="UKash"></li>
-                        <li><img src="/content/dev/images/site/payment-method-02.jpg" class="img-responsive hidden-xs hidden-sm" alt="Neteller"></li>
-                        <li><img src="/content/dev/images/site/payment-method-03.jpg" class="img-responsive hidden-xs hidden-sm" alt="Paysafe Card"></li>
-                        <li><img src="/content/dev/images/site/payment-method-04.jpg" class="img-responsive hidden-xs hidden-sm" alt="Maestro"></li>
-                        <li><img src="/content/dev/images/site/payment-method-05.jpg" class="img-responsive hidden-xs hidden-sm" alt="MasterCard"></li>
-                        <!-- <li><img src="/content/dev/images/site/payment-method-06.jpg" class="img-responsive hidden-xs hidden-sm" alt="Visa"></li> -->
-                        <li><img src="/content/dev/images/site/payment-method-07.jpg" class="img-responsive hidden-xs hidden-sm" alt="Visa Debit"></li>
-                        <li><img src="/content/dev/images/site/payment-method-08.jpg" class="img-responsive hidden-xs hidden-sm" alt="Visa Electron"></li>
-                        <li><a class="img" href="https://www.gibraltar.gov.gi/new/remote-gambling" target="blank"><img src="/content/dev/images/site/payment-method-09.jpg" class="img-responsive" alt="Remote Gaming"></a></li>
-                        <li><a class="img" href="//www.gbga.gi/" target="blank"><img src="/content/dev/images/site/payment-method-12.jpg" class="img-responsive" alt="GBGA"></a></li>
-                        <li><a class="img" href="//www.gamcare.org.uk/" target="blank"><img src="/content/dev/images/site/payment-method-10.jpg" class="img-responsive" alt="GamCare"></a></li>
-                        <li><a class="img" href="//www.costabingo.com/skin/about/responsiblegambling.php" target="blank"><img src="/content/dev/images/site/payment-method-11.jpg" class="img-responsive" alt="18+ Only"></a></li>
-                        <li><a href="https://secure.gamblingcommission.gov.uk/gccustomweb/PublicRegister/PRSearch.aspx?ExternalAccountId=39028"><img src="/content/dev/images/site/payment-method-13.jpg" class="img-responsive" alt="UK commission"></a></li> 
+                        <li><img style="height: 46px;" src="/content/dev/images/site/payment-method-01.jpg" class="img-responsive" alt="Neteller"></li>
+                        <li><img style="height: 44px;" src="/content/dev/images/site/payment-method-02.jpg" class="img-responsive" alt="Visa"></li>
+                        <li><img style="height: 46px;" src="/content/dev/images/site/payment-method-03.jpg" class="img-responsive" alt="MasterCard"></li>
+                        <li><img style="height: 46px;" src="/content/dev/images/site/payment-method-04.jpg" class="img-responsive" alt="Maestro"></li>
+                        <li><img style="height: 46px;" src="/content/dev/images/site/payment-method-05.jpg" class="img-responsive" alt="UKash"></li>
+                        <li><img style="height: 46px;" src="/content/dev/images/site/payment-method-06.jpg" class="img-responsive" alt="Paysafe Card"></li>
+                        <li><a class="img" href="https://www.gibraltar.gov.gi/new/remote-gambling" target="blank"><img style="height: 46px;" src="/content/dev/images/site/payment-method-07.jpg" class="img-responsive" alt="Remote Gaming"></a></li>
+                        <li><a class="img" href="http://www.gamcare.org.uk/" target="blank"><img style="height: 46px;" src="/content/dev/images/site/payment-method-08.jpg" class="img-responsive" alt="GamCare"></a></li>
+                        <li><a class="img" href="http://gbga.gi/" target="blank"><img style="height: 46px;" src="/content/dev/images/site/payment-method-09.jpg" class="img-responsive" alt="GBGA"></a></li>
+                        <li><a href="https://secure.gamblingcommission.gov.uk/gccustomweb/PublicRegister/PRSearch.aspx?ExternalAccountId=39028" target="blank"><img style="height: 46px;" src="/content/dev/images/site/payment-method-10.jpg" class="img-responsive" alt="UK commission"></a></li>
+                        <li><a href="http://www.gambleaware.co.uk/" target="blank"><img style="height: 46px;" src="/content/dev/images/site/payment-method-11.jpg" class="img-responsive" alt="GambleAware"></a></li>
+                        <li><a class="img" href="/skin/about/responsiblegambling.php" target="blank"><img style="height: 46px;" src="/content/dev/images/site/payment-method-12.jpg" class="img-responsive" alt="18+ Only"></a></li>  
+                        <li><a href="http://www.dragonfishtech.com/" target="blank"><img style="height: 46px;" src="/content/dev/images/site/payment-method-13.jpg" class="img-responsive" alt="Dragonfish"></a></li>                  
+                        <li><a href="https://secure.ecogra.org/certification/471b0f6e-810a-44f2-afd6-ce0d02c03013" target="_blank"><img style="height: 46px;" src="/content/dev/images/site/payment-method-14.jpg" class="img-responsive" alt="eCogra"></a></li>
                                             
                     </ul>
                 </div>
@@ -329,9 +407,9 @@
                         <li><a href="/skin/terms.php">Terms &amp; Conditions</a>|</li>
                         <li><a href="/skin/about/banking.php">Banking</a>|</li>
                         <li><a href="/skin/privacy.php">Privacy Policy</a>|</li>
-                        <li><a href="//www.ignitebingo.com" rel="nofollow">Affiliates</a>|</li>
+                        <li><a href="http://www.ignitebingo.com/" rel="nofollow">Affiliates</a>|</li>
                         <li><a href="/skin/fair-play.php">Fair Play</a>|</li>
-                        <li><a href="//blog.costabingo.com/">Costa Blog</a></li>
+                        <li><a href="http://blog.costabingo.com/">Costa Blog</a></li>
                     </ul>
                     <ul class="list-inline" style="color: #FFF;">
                         <li>Find us on:</li>
@@ -345,12 +423,12 @@
  
 <p style="color: #FFF;">As of November 1, 2014 our gambling services in the UK are operated and managed by 888 UK Limited, a company licensed and regulated by the <a href="https://secure.gamblingcommission.gov.uk/gccustomweb/PublicRegister/PRSearch.aspx?ExternalAccountId=39028">United Kingdom Gambling Commission</a>, pursuant to the UK Gambling Act <a href="https://secure.gamblingcommission.gov.uk/gccustomweb/PublicRegister/PRSearch.aspx?ExternalAccountId=39028">(License Number 000-039028-R-319297-0016)</a>.</p> 
  <p style="color: #FFF;">Our address: 601-701 Europort, Gibraltar.</p> 
- <p style="color: #FFF;">We encourage responsible gambling and support <a href="//www.gamcare.org.uk">GamCare</a>.</p>
+ <p style="color: #FFF;">We encourage responsible gambling and support <a href="http://www.gamcare.org.uk">GamCare</a>.</p>
                 </footer>
             </div>
             
         </div>
-        
+         </div> 
   	<!-- Dynamic Background -->
 			<div class="bg-bingo-ball-left-01 visible-lg" data-stellar-ratio="0.8" data-stellar-horizontal-offset="860"></div>
 	<div class="bg-bingo-ball-left-02 visible-lg" data-stellar-ratio="0.5" data-stellar-horizontal-offset="1535"></div>
@@ -374,7 +452,9 @@
         <script src="/content/dev/scripts/plugins.js"></script>
         <script src="/content/dev/scripts/main.js"></script> 
         <script src="/content/dev/scripts/custom-scripts.js"></script>  
-        
+               <script src="/content/dev/scripts/jquery.backstretch.min.js"></script>  
+		  <script>$.backstretch("/content/dev/images/background/mel-2015-bg.jpg");</script>         
+		
         <script src="../content/dev/scripts/global-new-test.js"></script>
         <!--<link href="//ajax.googleapis.com/ajax/libs/jqueryui/1/themes/smoothness/jquery-ui.css" rel="stylesheet" type="text/css" /> -->
 		<!--<script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script> -->
@@ -404,26 +484,6 @@ var pageTracker = _gat._getTracker("UA-11661706-1");
 pageTracker._trackPageview();
 } catch(err) {}</script>
 <!-- End G Tracker -->
-
-<!-- Smart Pixel - 11/10/13 -->
-<script type="text/javascript"> 
-adroll_adv_id = "6O7CUBK3HFAADAQOUULIF6"; 
-adroll_pix_id = "GCWMD7EW2BEH5CJFWQGTEF"; 
-(function () { 
-var oldonload = window.onload; 
-window.onload = function(){ 
-   __adroll_loaded=true; 
-   var scr = document.createElement("script"); 
-   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com"); 
-   scr.setAttribute('async', 'true'); 
-   scr.type = "text/javascript"; 
-   scr.src = host + "/j/roundtrip.js"; 
-   ((document.getElementsByTagName('head') || [null])[0] || 
-    document.getElementsByTagName('script')[0].parentNode).appendChild(scr); 
-   if(oldonload){oldonload()}}; 
-}()); 
-</script> 
-<!-- End Smart Pixel -->
 
 <!-- WCA remarketing tag  - 18/02/14 -->
 <script>(function(){
