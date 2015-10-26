@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brightcamel.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626140343id_/http%3A//brightcamel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightcamel.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026035924id_/http%3A//brightcamel.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Bright Camel - Bright Camel
+# Privacy Policy - Bright Camel
 
 This privacy policy sets out how BrightCamel uses and protects any information that you give us when you use this website.
 
