@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costabingo.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322080837id_/https%3A//www.costabingo.com/skin/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costabingo.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026092958id_/https%3A//www.costabingo.com/skin/privacy.php) for the most accurate reproduction.*
 
 # Costa Bingo Privacy Policy
 
