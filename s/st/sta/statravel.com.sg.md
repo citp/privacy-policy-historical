@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statravel.com.sg privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623023654id_/http%3A//www.statravel.com.sg/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statravel.com.sg privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026154329id_/http%3A//www.statravel.com.sg/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy policy | STA Travel | Privacy policy
 
