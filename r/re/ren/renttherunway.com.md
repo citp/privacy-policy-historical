@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the renttherunway.com privacy policy that was archived on 2015-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150415000759id_/http%3A//www6.renttherunway.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the renttherunway.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026174551id_/https%3A//www.renttherunway.com/privacy) for the most accurate reproduction.*
 
 # Error 415 Unsupported Media Type
 
@@ -109,7 +109,7 @@ When you provide us with your third party account credentials, to such services 
 
 If you choose to post messages in our chat rooms or other public message areas or leave feedback for other users, please note that such information is available to anyone with Internet access. We may, but are not obligated to, collect the information you post in our chat rooms or other public message areas to resolve disputes, provide customer support and troubleshoot problems as permitted by law. PLEASE BE CAREFUL WHEN DISCLOSING ANY INFORMATION IN CHAT ROOMS, DISCUSSION BOARDS AND OTHER PUBLIC POSTING AREAS. WE ARE NOT RESPONSIBLE FOR THE USE BY OTHERS OF THE INFORMATION YOU PUBLICLY DISCLOSE.
 
-If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the Website, we may collect such information into a file specific to you. We reserve the right to terminate the accounts of visitors who use these Services in a manner that is inconsistent with the [Terms and Conditions](https://web.archive.org/web/20150415000759id_/http%3A//www6.renttherunway.com/termsnconditions).
+If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the Website, we may collect such information into a file specific to you. We reserve the right to terminate the accounts of visitors who use these Services in a manner that is inconsistent with the [Terms and Conditions](https://web.archive.org/web/20151026174551id_/https%3A//www.renttherunway.com/termsnconditions).
 
 #### Communication from Us or the Website
 
