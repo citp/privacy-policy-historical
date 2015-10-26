@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aarki.com privacy policy that was archived on 2015-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150412054439id_/http%3A//corp.aarki.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aarki.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026072925id_/http%3A//corp.aarki.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Aarki
 
