@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestpricedfurniture.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627023534id_/http%3A//www.bestpricedfurniture.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestpricedfurniture.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026065801id_/http%3A//www.bestpricedfurniture.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -54,9 +54,9 @@ This Web site gives users the following options for removing their information f
 
   1. You can an send email to privacy@bestpricedfurniture.com 
   2. You can send mail to the following postal address: BestPricedFurniture.com   
-23505 Crenshaw Blvd. Suite 166   
-Torrance, CA 90505-5225 USA 
-  3. You can call the following telephone number: 310-320-1400
+2808 Oregon Court Unit L-9   
+Torrance, CA 90503 USA 
+  3. You can call the following telephone number: 800-618-2218
 
 
 
@@ -111,6 +111,6 @@ BestPricedFurniture.com has its headquarters in Torrance, California. This site 
 If you have any questions about this privacy policy, the practices of this site, or your dealings with this Web site, you can contact:
 
 Best Priced Furniture.com, Inc.  
-23505 Crenshaw Blvd. Suite 169  
-Torrance, CA 90505  
+2808 Oregon Court Unit L-9  
+Torrance, CA 90503  
 or privacy@bestpricedfurniture.com 
