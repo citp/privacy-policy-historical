@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeppttemplates.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627161018id_/http%3A//www.freeppttemplates.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeppttemplates.com privacy policy that was archived on 2015-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151027001111id_/http%3A//www.freeppttemplates.com/privacy.html) for the most accurate reproduction.*
 
 # Free PPT Templates - Privacy
 
