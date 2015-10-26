@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the shaadisaga.com privacy policy that was archived on 2015-04-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150409021056id_/http%3A//www.shaadisaga.com/privacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shaadisaga.com privacy policy that was archived on 2015-10-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151026144315id_/http%3A//www.shaadisaga.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
@@ -23,19 +23,30 @@
   <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
   <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
 <![endif]-->
-<script async="" charset="utf-8" src="//v2.zopim.com/?21u1GqSJYCZBVOVW29uoIY7uEjPRnA9D" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/js/jquery_new/jquery-1.10.2.js" type="text/javascript"></script>
+<script src="https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.en_US.R8Cb0lz1pqg.O/m=auth/exm=client,plusone,signin/rt=j/sv=1/d=1/ed=1/am=IQ/rs=AItRSTNGEYZTZwU1v43vvgR_E-ni0s1V2Q/cb=gapi.loaded_1" async=""></script><script src="https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.en_US.R8Cb0lz1pqg.O/m=client,plusone,signin/rt=j/sv=1/d=1/ed=1/am=IQ/rs=AItRSTNGEYZTZwU1v43vvgR_E-ni0s1V2Q/cb=gapi.loaded_0" async=""></script><script async="" charset="utf-8" src="//v2.zopim.com/?21u1GqSJYCZBVOVW29uoIY7uEjPRnA9D" type="text/javascript"></script><script type="text/javascript" async="" src="https://web.archive.org/web/20140208222801/https://apis.google.com/js/client:plusone.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/js/jquery_new/jquery-1.10.2.js" type="text/javascript"></script>
 <style>
     p{
         margin-top: 10px;
     }
 </style>
 </head>
-<body>
+<body style="">
 
 <div id="fb-root"></div><script type="text/javascript" src="http://connect.facebook.net/en_US/all.js"></script><script type="text/javascript">FB.init({oauth : true, appId: '567322899952405', status:true, cookie:true, xfbml:true});</script>
 <link href="/css/bootstrap_new/newModal.css" rel="stylesheet">
+<link href="/css/bootstrap_new/popup-wedding-req.css" rel="stylesheet">
 <link href="/css/validation/validationEngine.jquery.css" rel="stylesheet">
+<link rel="stylesheet" href="/css/animate/animate.delay.css">
+<link rel="stylesheet" href="/css/animate/animate.min.css">
 <style type="text/css">
+
+form label.error {
+    font:14px Tahoma,sans-serif;
+    color:#ED7476;
+    margin-left:5px;
+    display:inline;
+}
+
 .partitionSpan{
     color: #fff;
     padding: 5px;
@@ -132,12 +143,100 @@
     }
 }
 
-
 .login-user-menu-small {
     display: none;
 }
+.flash-message-container {
+    position: fixed;
+    top: -10000px;
+    right: 10px;
+    z-index: 999999999999999999;
+}
+.flash-message-container.show {
+    top: 10px;
+}
 
+.flash-message-container.show .info, .flash-message-container.show .success, .flash-message-container.show .warning, .flash-message-container.show .error {
+    margin: 10px 0px;
+    padding: 5px 10px;
+    position: relative;
+    border-radius: 4px;
+}
+.flash-message-container.show .close {
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    z-index: 1;
+    cursor: pointer;
+    color: #666;
+}
+.flash-message-container.show .info {
+    color: #00529B;
+    background-color: #BDE5F8;
+}
+.flash-message-container.show .success {
+    color: #4F8A10;
+    background-color: #DFF2BF;
+}
+.flash-message-container.show .warning {
+    color: #9F6000;
+    background-color: #FEEFB3;
+}
+.flash-message-container.show .error {
+    color: #D8000C;
+    background-color: #FFBABA;
+}
+.flash-message-container.show .info i, .flash-message-container.show .success i, .flash-message-container.show .warning i, .flash-message-container.show .error i {
+    /*margin:10px 22px;
+    font-size:2em;
+    vertical-align:middle;*/
+}
+.flash-message-container.show .info .title, .flash-message-container.show .success .title, .flash-message-container.show .warning .title, .flash-message-container.show .error .title {
+    font-weight: bold;
+}
+.select2-container .parent-element {
+    font-weight: bold;
+}
+.select2-container .child-element {
+    padding-left: 18px;
+}
 </style>
+<script type="text/javascript">
+    function removeFlassMessage(that) {
+        that.removeClass("bounceInDown");
+        that.addClass("bounceOutUp");
+        setTimeout(function() {
+            that.remove();
+        }, 750);
+    }
+    function closeFlashMessage(that) {
+        removeFlassMessage($(that).parent());
+    }
+
+    function createFlashMessage(title, message, className, ref) {
+        var msg = "<div class='"+className+" animate0 bounceInDown "+ ref + "'>" +
+                "<i class='fa fa-close close' onclick='closeFlashMessage(this);'></i>";
+        if(title != null && title != undefined && $.trim(title) != "") {
+            msg = msg + "<div class='title'>" + title + "</div>";
+        }
+        msg = msg + "<div>" + message + "</div></div>"
+        return msg;
+    }
+
+    function showFlashMessage(title, message, className) {
+        var container = $(".flash-message-container");
+        if(!container.hasClass("show")) {
+            container.removeClass("bounceInDown");
+            container.addClass("show");
+            container.addClass("bounceInDown");
+        }
+        var messageRef = setTimeout(function() {
+            removeFlassMessage($(".flash-message-container div."+messageRef));
+        }, 6000);
+        var message =  createFlashMessage(title, message, className, messageRef);
+        container.append(message);
+    }
+</script>
 <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
         (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -184,14 +283,102 @@
             $("#signup-page-header").show();
             $("#login-page-header").hide();
         }
-    }
-
+        }
 </script>
 <script src="/js/validation/jqBootstrapValidation.js" type="text/javascript"></script>
+<script src="/js/adminAppJs/jquery.validate.min.js" type="text/javascript"></script>
 <script src="/js/common/headerLogin.js" type="text/javascript"></script>
+<script src="/js/common/jaaulde-cookies.js" type="text/javascript"></script>
+<script src="/js/common/script.js" type="text/javascript"></script>
 <script type="text/javascript">
+
+    function submitContactInfoPlanningQuery(event){
+        event.stopPropagation();
+        event.preventDefault();
+        var box1 = new ajaxLoader($("#contactInfoPlanningModalBody"));
+        var dataMap = {};
+        dataMap['email']= $('#contactInfoPlanningModal #contactInfoPlanningEmail').val();
+        dataMap['phone']= $('#contactInfoPlanningModal #contactInfoPlanningPhoneQuery').val();
+        dataMap['query']=  $('#contactInfoPlanningModal #contactInfoPlanningQuery').val();
+        $.ajax({
+            url: "/vendorRegistration/saveQueryForPlanning",
+            type: 'POST',
+            data:dataMap,
+            success : function(response){
+                box1.remove();
+                var that = $("#contactInfoPlanningModalBody");
+                $(that).removeClass("popup-weeding-req").addClass("modal-body modal-area modal-content");
+                $("#contactInfoPlanningModal").css('margin-right', '0px');
+                $(that).html(response);
+            },
+            error : function(response){
+                location.reload();
+            }
+        });
+        return false;
+    }
+
+
+    $(function(){
+        jQuery.validator.addMethod('integer', function(value, element, param) {
+            return (value == "") || ((value == parseInt(value, 10)));
+        }, 'Please enter a integer value!');
+
+        $("#contactInfoPlanningForm").validate({
+            messages: {
+                phone: {
+                    required: "Phone Number is required"
+                },
+                emailId: {
+                    required: "Email is required"
+                }
+            },
+
+            rules: {
+                phone : {
+                    integer: true,
+                    maxlength:10,
+                    minlength:10
+                },
+                emailId : {
+                    required: true,
+                    email:true
+                }
+            }
+        });
+    });
+
+    function validateMyInfoForm(e) {
+        if($("#contactInfoPlanningForm").valid() == true){
+            return submitContactInfoPlanningQuery(e);
+        } else {
+            e.stopPropagation();
+            e.preventDefault();
+        }
+    }
+
     $(document).ready(function() {
+       /* Start */
+        var my_cookie = cookies.get('myCookie');
+        console.log(my_cookie);
+        if(my_cookie == null) {
+            window.setTimeout(function() {
+                $('#contactInfoPlanningModal').modal('show');
+                if (cookies.test()) {
+                    cookies.set('myCookie', 'myValue');
+                }
+            }, 3000);
+        }
+
+        /* end */
         var loginError = "";
+        if(loginError == null || loginError == undefined || $.trim(loginError) == "") {
+            var er = "";
+            if($.trim(er) == "1") {
+                loginError = "exist";
+            }
+        }
+        var userInfoModal="";
         var authenticationNeeded = "";
         if(loginError == 'true') {
             openAuthModal('login');
@@ -204,13 +391,45 @@
             openAuthModal('signup');
             $('#myModal').modal();
             $('#signUpFailMessage').show();
+        }else if(userInfoModal=='true') {
+            $('#infoModal').modal();
         } else {
             $('#loginFailMessage').hide();
             $('#signUpFailMessage').hide();
         }
     });
 </script>
+<nav class="menu" id="theMenu">
+    <div class="menu-wrap">
+        <div class="menu-close"> Close <span aria-hidden="true">×</span> </div>
+        <div class="container-fluid">
+            
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="log-sin">
+                            <a href="javascript:void(0);" onclick="openAuthModal('login'); setDestination();ga('send', 'event', 'Sidebar', 'Signup/Login', 'Login');" class="btn btn-action" data-toggle="modal" data-target="#myModal">Login</a>
+                            <a href="javascript:void(0);" onclick="openAuthModal('signup');setDestinationSignUp();ga('send', 'event', 'Sidebar', 'Signup/Login', 'SignUp');" class="btn btn-action active" data-toggle="modal" data-target="#myModal">Signup</a>
+                        </div>
+                    </div>
+                </div>
+            
+        </div>
+        <ul class="main-nav">
+            
+            <li><a href="/" onclick="ga('send', 'event', 'Sidebar', 'Home Page', 'Home');">Home</a></li>
+            <li><a href="/create-wedding-website" id="createWebsiteHeaderNew" onclick="ga('send', 'event', 'Sidebar', 'Read More', 'Wedding Website Landing Page');">Wedding Website</a></li>
+            <li><a href="/indian-wedding-app" onclick="ga('send', 'event', 'Sidebar', 'Read More', 'App Landing Page');">Wedding App</a></li>
+            <li><a href="/wedding-forum" onclick="ga('send', 'event', 'Sidebar', 'Show Forum', 'Forum Page');">Forum</a></li>
+            <li><a href="http://www.shaadisaga.com/blog" onclick="ga('send', 'event', 'Sidebar', 'Click', 'Blog Page');">Blog</a></li>
+            
+                <li> <a href="/vendorRegistration/index" onclick="ga('send', 'event', 'Sidebar', 'Vendor Registration', 'List Your Business');">List Your Business</a></li>
+            
+            
 
+        </ul>
+    </div>
+    <!-- Menu button -->
+</nav>
 <div class="top-bar">
     <div class="navbar navbar-inverse navbar-fixed-top" role="navigation" style="background: #181818">
         <div class="logo-area">
@@ -225,36 +444,63 @@
         <div class="navbar-collapse collapse">
             
             <ul class="main-nav">
-                <li><a href="/create-wedding-website" id="createWebsiteHeader">Wedding Website</a></li>
-                <li><a href="/wedding-planning">Wedding Planning</a></li>
-                
-                <li><a href="http://www.shaadisaga.com/blog">Blog</a></li>
+                <li><a href="/create-wedding-website" id="createWebsiteHeader" onclick="ga('send', 'event', 'Header', 'Home Page', 'Website Landing Page');">Wedding Website</a></li>
+                <li><a href="/indian-wedding-app" onclick="ga('send', 'event', 'Header', 'Read More', 'App Landing Page');">Wedding App</a></li>
+                <li><a href="/wedding-forum" onclick="ga('send', 'event', 'Header', 'Show Forum', 'Forum Page');">Forum</a></li>
+                <li><a href="http://www.shaadisaga.com/blog" onclick="ga('send', 'event', 'Header', 'Click', 'Blog Page');">Blog</a></li>
             
                 
-                    <li> <a href="/vendorRegistration/index">List Your Business</a></li>
+                    <li> <a href="/vendorRegistration/index" onclick="ga('send', 'event', 'Header', 'Vendor Registration', 'List Your Business');">List Your Business</a></li>
                 
                 
+
             </ul>
             
                 <img src="/images/home/logo-landing.png" class="header-img">
             
             <div class="search-area">
-                <form action="/search/search" id="searchCoupleForm">
+                <form action="/search/search" id="searchCoupleForm" style="margin:0;">
                     <input type="text" class="form-control" name="searchText" id="searchText" placeholder="Search" onkeypress="searchCouple(event);">
                     <a href="javascript:void(0);" class="search-icon" onclick="searchCouple();"><span class="glyphicon glyphicon-search">&nbsp;</span></a>
                 </form>
             </div>
             <div class="top-action-container">
                 
-                    <a href="javascript:void(0);" onclick="openAuthModal('login')" class="btn btn-login" data-toggle="modal" data-target="#myModal">Login</a>
+                    <a href="javascript:void(0);" onclick="openAuthModal('login'); setDestination();ga('send', 'event', 'Header', 'Signup/Login', 'Login');" class="btn btn-login" data-toggle="modal" data-target="#myModal">Login</a>
                     <span class="partitionSpan">OR</span>
-                    <a href="javascript:void(0);" onclick="openAuthModal('signup')" class="btn btn-signup" data-toggle="modal" data-target="#myModal">Sign Up</a>
+                    <a href="javascript:void(0);" onclick="openAuthModal('signup');setDestinationSignUp();ga('send', 'event', 'Header', 'Signup/Login', 'SignUp');" class="btn btn-signup" data-toggle="modal" data-target="#myModal">Sign Up</a>
                 
                 
             </div>
         </div>
     </div>
 </div>
+
+<div class="modal fade my-modal-banner" id="contactInfoPlanningModal">
+    <div class="modal-dialog popup-wide">
+        <div class="popup-weeding-req" id="contactInfoPlanningModalBody">
+            <a herf="javascript:void(0);" class="close close-weeding-req" data-dismiss="modal">×</a>
+            <div class="popup-weeding-head">
+                save up to Rs 50,000 on your wedding planning
+            </div>
+
+            <div class="wedding-req-f">
+                <h3>Tell us your requirement</h3>
+                <form id="contactInfoPlanningForm" novalidate="novalidate">
+                    <input type="email" name="emailId" id="contactInfoPlanningEmail" placeholder="email: " class="" required="">
+                    <input type="text" name="phone" id="contactInfoPlanningPhoneQuery" placeholder="phone:" class="" required="">
+                    <textarea name="query" id="contactInfoPlanningQuery" placeholder="requirement:"></textarea>
+                    <div class="text-center"><a href="javascript:;" class="btn" id="infoFormButton" onclick="return validateMyInfoForm(event);">Submit</a></div>
+                </form>
+            </div>
+            <p>*Terms &amp; conditions applied</p>
+        </div>
+    </div>
+</div>
+
+
+
+
 <!--Start of Zopim Live Chat Script-->
 <script type="text/javascript">
     window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
@@ -265,14 +511,47 @@
 </script>
 <!--End of Zopim Live Chat Script-->
 
-<input type="hidden" id="facebookAuthenticationUrl" name="facebookAuthenticationUrl" value="/facebookAuthentication/facebookLogin">
-<input type="hidden" id="googleAuthenticationUrl" name="googleAuthenticationUrl" value="/googleAuthentication/googleLogin">
+<script type="text/javascript">
+    function markReviewHelpful(reviewId, element) {
+        var that  = $(element);
+        var parent = that.parent();
+        that.remove();
+        $( '<img src="/images/images/loader.gif" class="waiting-icon" style="margin-left: 23px;height:23px;">' ).insertBefore( parent.find(".green-txt"));
+        jQuery.ajax({
+            url: "/vendorCommon/markReviewHelpFul",
+            data: {"reviewId" : reviewId},
+            type:'POST',
+            beforeSend: function() {
+            },
+            success : function(response) {
+                if(response == true || response == "true") {
+                    parent.find(".response-text").html("Thank you for your vote");
+                    parent.find(".user-count").html(parseInt(parent.find(".user-count").html()) + 1);
+                } else {
+                    parent.find(".response-text").html("Thanks, you've already rated this review");
+                }
+            },
+            complete: function() {
+                parent.find(".waiting-icon").remove();
+            }
+        });
+    }
+</script>
+<div class="flash-message-container"></div>
+<form action="/facebookAuthentication/facebookLogin" method="post" id="facebook-access-form">
+    <input type="hidden" id="facebookDestinationUrl" name="destinationUrl" value="">
+</form>
+<form action="/googleAuthentication/googleLogin" method="post" id="google-access-form">
+    <input type="hidden" id="googleDestinationUrl" name="destinationUrl" value="">
+    <input type="hidden" id="googleUserInfo" name="userInfo" value="">
+</form>
 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
     <div class="modal-dialog login-modal">
         <div class="modal-content">
             <div class="modal-area">
                 <div class="modal-cont">
                     <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
                         <div id="signup-header" style="display: none;">
                             Already have an account?&nbsp;<a href="javascript:;" onclick="openAuthModal('login');">Login</a> <br>
                             Are you a service provider?&nbsp;<a href="/vendorRegistration/index">Sign Up</a>
@@ -291,14 +570,14 @@
                         <div class="row">
                             <div class="col-md-5" style="padding: 0px;">
                                 <div class="m-bottom10">
-                                    <fb:login-button scope="email,publish_stream,manage_pages" onlogin="facebookLogin();" size="large">
+                                    <fb:login-button scope="email" onlogin="facebookLogin();" size="large">
                                         Connect With Facebook
                                     </fb:login-button>
                                 </div>
                                 <div class="m-bottom10">
                                     
                                         <span id="signinButton">
-                                            <span class="g-signin" data-callback="signinCallback" data-clientid="306447388886.apps.googleusercontent.com" data-cookiepolicy="single_host_origin" data-requestvisibleactions="http://schemas.google.com/AddActivity" data-scope="https://www.googleapis.com/auth/plus.login https://www.googleapis.com/auth/plus.profile.emails.read">
+                                            <div id="___signin_0" style="position: absolute; width: 450px; left: -10000px;"><iframe frameborder="0" hspace="0" marginheight="0" marginwidth="0" scrolling="no" style="position:absolute;top:-10000px;width:450px;margin:0px;border-style:none" tabindex="0" vspace="0" width="100%" id="I0_1580591709124" name="I0_1580591709124" src="https://web.archive.org/web/20140208230435/https://apis.google.com/_/widget/render/signin?usegapi=1&amp;bsv=o&amp;clientid=281975501811-hojcrj9c0ukf0038gkip013lj9vpk833.apps.googleusercontent.com&amp;cookiepolicy=single_host_origin&amp;requestvisibleactions=http%3A%2F%2Fschemas.google.com%2FAddActivity&amp;scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fplus.login%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fplus.profile.emails.read&amp;origin=https%3A%2F%2Fweb.archive.org&amp;url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20151026144315id_%2Fhttp%253A%2F%2Fwww.shaadisaga.com%2Fprivacy-policy&amp;gsrc=3p&amp;ic=1&amp;jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en_US.R8Cb0lz1pqg.O%2Fm%3D__features__%2Fam%3DIQ%2Frt%3Dj%2Fd%3D1%2Ft%3Dzcms%2Frs%3DAItRSTNGEYZTZwU1v43vvgR_E-ni0s1V2Q#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh%2Conauth%2Conload&amp;id=I0_1580591709124&amp;parent=https%3A%2F%2Fweb.archive.org&amp;pfname=&amp;rpctoken=11088647"></iframe></div><span class="g-signin" data-callback="signinCallback" data-clientid="281975501811-hojcrj9c0ukf0038gkip013lj9vpk833.apps.googleusercontent.com" data-cookiepolicy="single_host_origin" data-requestvisibleactions="http://schemas.google.com/AddActivity" data-scope="https://www.googleapis.com/auth/plus.login https://www.googleapis.com/auth/plus.profile.emails.read" data-gapiscan="true" data-onload="true" data-gapistub="true">
                                             </span>
                                         </span>
                                     
@@ -317,7 +596,8 @@
                                     <div id="loginFailMessage" class="formError" style="display: none;opacity: 0.87; position: absolute; top: -30px; left: -15px; margin-top: 0px;">
                                         <div class="formErrorContent">* Invalid Credentials.<br></div>
                                     </div>
-                                    <form class="form-horizontal" action="/j_spring_security_check" method="POST" role="form">
+                                    <form class="form-horizontal login-sign-form" action="/j_spring_security_check" method="POST" role="form">
+                                        <input type="hidden" value="" id="destination" class="samePageLogin" name="destinationUrl">
                                         <div class="form-group">
                                             <input type="email" class="form-control" id="logInEmail" placeholder="Enter Email" name="j_username" required="">
                                         </div>
@@ -339,8 +619,9 @@
                                     </form>
                                 </div>
                                 <div id="sign-up-form-content" style="display: none;">
-                                    <form class="form-horizontal" action="/home/signUp" method="POST" role="form">
+                                    <form class="form-horizontal login-sign-form" action="/home/signUp" method="POST" role="form">
                                         <div class="form-group" style="position: relative;">
+                                            <input type="hidden" value="" class="samePageSignUp" name="destinationUrl">
                                             <input type="text" id="signUpEmail" class="form-control" placeholder="Enter Email" name="email" onblur="$('#signUpFailMessage').hide()" data-validation-ajax-ajax="/home/checkEmailAvailability" required="">
                                             <div id="signUpFailMessage" class="formError" style="display: none;opacity: 0.87; position: absolute; top: 25px; left: 0px; margin-top: 0px;">
                                                 <div class="formErrorArrow formErrorArrowBottom"><div class="line1"><!-- --></div><div class="line2"><!-- --></div><div class="line3"><!-- --></div><div class="line4"><!-- --></div><div class="line5"><!-- --></div><div class="line6"><!-- --></div><div class="line7"><!-- --></div><div class="line8"><!-- --></div><div class="line9"><!-- --></div><div class="line10"><!-- --></div></div>
@@ -354,21 +635,6 @@
                                         <div class="form-group">
                                             <input type="text" minlength="10" id="signUpMobile" class="form-control" placeholder="Phone" name="mobileNumber" required="">
                                             <p class="help-block"></p>
-                                        </div>
-                                        <div class="form-group">
-                                            <select id="category" name="category" onchangei="showUserType(this.value)" onkeyupi="showUserType(this.value)" class="form-control" required="">
-                                                <option value="">What you want to do?</option>
-                                                <option value="Couple" id="couple">Create Wedding Website</option>
-                                                <option value="Invitation" id="invitation">Send Invitation</option>
-                                                
-                                            </select>
-                                        </div>
-
-                                        <div id="userType" class="form-group">
-                                            <select name="userType" id="purpose" class="form-control">
-                                                <option value="BRIDE">You are Bride</option>
-                                                <option value="GROOM">You are Groom</option>
-                                            </select>
                                         </div>
                                         <div class="form-group">
                                             <button class="btn btn-large btn-primary" type="submit">Sign Up</button>
@@ -385,72 +651,79 @@
 </div>
 
 
-<div class="modal fade" id="myModalNew" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-    <div class="modal-dialog login-modal">
-        <div class="modal-content">
-            <div class="modal-area">
-                <div class="modal-cont">
-                    <div class="modal-header">
-                        You need to Login <span class="login-required-text"></span>
-                    </div>
-                    <div class="modal-body">
-                        <div class="row">
-                            <div class="col-md-5" style="padding: 0px;">
-                                <div class="m-bottom10">
-                                    <fb:login-button scope="email,publish_stream,manage_pages" onlogin="facebookLogin();" size="large">
-                                        Connect With Facebook
-                                    </fb:login-button>
-                                </div>
-                                <div class="m-bottom10">
-                                    
-                                        <span id="signinButton">
-                                            <span class="g-signin" data-callback="signinCallback" data-clientid="306447388886.apps.googleusercontent.com" data-cookiepolicy="single_host_origin" data-requestvisibleactions="http://schemas.google.com/AddActivity" data-scope="https://www.googleapis.com/auth/plus.login https://www.googleapis.com/auth/plus.profile.emails.read">
-                                            </span>
-                                        </span>
-                                    
-                                </div>
-                                <div class="social-status">
-                                    <iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fshaadisaga&amp;width&amp;layout=standard&amp;action=like&amp;show_faces=true&amp;share=true&amp;height=80&amp;appId=623391031080231" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:80px;" allowtransparency="true"></iframe>
-                                </div>
-                            </div>
-                            <div class="col-md-2" style="text-align: center;">
-                                <div class="section-separator" style="height: 315px;">
-                                    <div class="separation-text">OR</div>
-                                </div>
-                            </div>
-                            <div class="col-md-5">
-                                <form class="form-horizontal" action="/j_spring_security_check" method="POST" role="form">
-                                    <div class="form-group">
-                                        <input type="hidden" value="" class="samePageLogin" name="redirectUrl">
-                                        <input type="email" class="form-control" id="logInEmail" placeholder="Enter Email" name="j_username" required="">
-                                    </div>
-                                    <div class="form-group">
-                                        <input type="password" id="logInPassword" class="form-control" placeholder="Password" name="j_password" required="">
-                                    </div>
-                                    <div class="form-group">
-                                        <label>
-                                            <input type="checkbox" value="remember-me" name="_spring_security_remember_me"> Remember me
-                                        </label>
-                                    </div>
-                                    <div class="form-group">
-                                        <button class="btn btn-large btn-primary" type="submit">Sign In</button>
-                                    </div>
-                                </form>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
+
+
 <script type="text/javascript">
+    var callBackForLogin = null;
+    function setCallBackToAccess(callback) {
+        callBackForLogin = callback;
+    }
+    $(function(){
+       $(".login-sign-form, #facebook-access-form, #google-access-form").on("submit", function(e) {
+           var that = $(this);
+            if(callBackForLogin != null && callBackForLogin != undefined) {
+                e.stopPropagation();
+                e.preventDefault();
+                callBackForLogin(function() {
+                    callBackForLogin = null;
+                    that.submit();
+                });
+            }
+       });
+    });
+
+    function userInfo(){
+        var box1 = new ajaxLoader($("#infoBody"));
+        var dataMap = {};
+        dataMap['userType']= $('#userType').val();
+        dataMap['weddingDate']= $('#weddingDate').val();
+        dataMap['weddingCity']= $('#weddingcity').val();
+        dataMap['phoneNumber']= $('#phoneNumber').val();
+        $.ajax({
+            url: "/home/userInfo",
+            type:'POST',
+            data:dataMap,
+            success: function(htmlString){
+                box1.remove();
+                $("#infoBody").html(htmlString);
+            },
+            error : function(htmlString){
+                location.reload();
+            }
+        });
+        return false;
+    }
+
+    function setDestination() {
+        $(".samePageLogin").val(window.location);
+        $(".samePageSignUp").val(window.location);
+        $("#facebookDestinationUrl").val(window.location);
+        $("#googleDestinationUrl").val(window.location);
+    }
+     function setAction(url) {
+         $(".samePageLogin").val(url);
+         $("#facebookDestinationUrl").val(url);
+         $("#googleDestinationUrl").val(url);
+     }
+
+    function setDestinationSignUp() {
+        $(".samePageSignUp").val(window.location);
+        $(".samePageLogin").val(window.location);
+        $("#facebookDestinationUrl").val(window.location);
+        $("#googleDestinationUrl").val(window.location);
+    }
+    function setActionSignUp(url){
+        $(".samePageSignUp").val(url);
+        $("#facebookDestinationUrl").val(url);
+        $("#googleDestinationUrl").val(url);
+    }
+
     function setPageRedirectUrl(url, text) {
         $(".samePageLogin").val(url);
         $(".login-required-text").html(text);
     }
 </script>
-<div class="container-fluid">
+<div class="container-fluid" style="margin-top: 69px;">
     <div class="row banner-area">
         <div class="col-sm-4 banner-logo"></div>
         <div class="col-sm-8" style="color:white;">
@@ -515,21 +788,30 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="col-md-3">
-                    <h4>Wedding Website</h4>
-                    <ul>
-                        <li><a href="/create-wedding-website" id="createWebsiteFooter">Wedding Website</a></li>
-                        <li><a href="/gifter/searchPage">Search Couples</a></li>
-                        <li><a href="http://demo.shaadisaga.com" title="sampleWebsite" target="_blank">See Sample Website</a></li>
-                    </ul>
+                    <div class="row">
+                        <h4>Wedding Website</h4>
+                        <ul>
+                            <li><a href="/create-wedding-website" onclick="ga('send', 'event', 'Footer', 'Read More', 'Wedding Website Landing Page');" id="createWebsiteFooter">Wedding Website</a></li>
+                            <li><a href="http://demo.shaadisaga.com" title="sampleWebsite" onclick="ga('send', 'event', 'Footer', 'Click', 'Sample Website');" target="_blank">See Sample Website</a></li>
+                        </ul>
+                    </div>
+                    <div class="row">
+                        <h4>Wedding App</h4>
+                        <ul>
+                            <li><a href="/indian-wedding-app" onclick="ga('send', 'event', 'Footer', 'Read More', 'App Landing Page');" id="appLandingFooter">Indian Wedding App</a></li>
+                            <li><a href="https://bnc.lt/sshomepage" target="_blank" onclick="ga('send', 'event', 'Home', 'App Download', 'Playstore Link');">
+                                <img src="http://d2f1b7si1yoy7p.cloudfront.net/images/ShaadiSaga2.0/google-play.png" width="130"></a></li>
+                        </ul>
+                    </div>
                 </div>
                 <div class="col-md-3">
                     <h4>Wedding Planning</h4>
                     <ul>
-                        <li><a href="/wedding-planning">Our Services</a></li>
-                        <li><a href="/makeup-artist">Makeup Artist</a></li>
-                        <li><a href="/wedding-photographers">Wedding Photographers</a></li>
-                        <li><a href="/wedding-photographers">Candid Wedding Photographers</a></li>
-                        <li><a href="/honeyMoon/index">HoneyMoon Packages</a></li>
+                        <li><a href="/makeup-artist" onclick="ga('send', 'event', 'Footer', 'Show Listing', 'Makeup Artist Listing');">Makeup Artist</a></li>
+                        <li><a href="/wedding-photographers" onclick="ga('send', 'event', 'Footer', 'Show Listing', 'Wedding Photographer Listing');">Wedding Photographers</a></li>
+                        <li><a href="/wedding-decorators" onclick="ga('send', 'event', 'Footer','Show Listing', 'Wedding Decorator Listing');">Wedding Decorators</a></li>
+                        <li><a href="/choreographers" onclick="ga('send', 'event', 'Footer', 'Show Listing', 'Choreographer Listing');">Choreographers</a></li>
+                        <li><a href="/bridal-designers" onclick="ga('send', 'event', 'Footer', 'Show Listing', 'Bridal Designer Listing');">Bridal Designers</a></li>
                     </ul>
                 </div>
 
@@ -538,16 +820,17 @@
                     <div class="row">
                         <h4>ShaadiSaga</h4>
                         <ul>
-                            <li><a href="/contactUs">Contact Us</a></li>
-                            <li><a href="/privacyPolicy">Privacy Policy</a></li>
-                            <li><a href="/terms">Terms &amp; Conditions</a></li>
+                            <li><a href="/contactus" onclick="ga('send', 'event', 'Footer', 'Click', 'Contact Us');">Contact Us</a></li>
+                            <li><a href="/privacy-policy" onclick="ga('send', 'event', 'Footer', 'Click', 'Privacy Policy');">Privacy Policy</a></li>
+                            <li><a href="/terms" onclick="ga('send', 'event', 'Footer', 'Click', 'Terms and Conditions');">Terms &amp; Conditions</a></li>
+                            <li><a href="http://www.shaadisaga.com/sitemap.xml" style="color: #000;">Sitemap</a></li>
                         </ul>
                     </div>
                     <div class="row">
                         <h4>For Vendors</h4>
                         <ul>
-                            <li><a href="/vendorRegistration/index">Register</a></li>
-                            <li><a href="/vendorRegistration/login">Log In</a></li>
+                            <li><a href="/vendorRegistration/index" onclick="ga('send', 'event', 'Footer', 'Click', 'Vendor Registration');">Register</a></li>
+                            <li><a href="/vendorRegistration/login" onclick="ga('send', 'event', 'Footer', 'Click', 'Vendor Login');">Log In</a></li>
                         </ul>
                     </div>
 
@@ -568,9 +851,9 @@
     </div>
 
 
-    <div class="copyright"> ©  Copyright 2014 <span><a href="http://www.shaadisaga.com" style="color: #bf1e2d;">Shaadisaga.com</a></span>- All Rights Reserved</div>
+    <div class="copyright"> ©  Copyright 2015 <span><a href="http://www.shaadisaga.com" style="color: #bf1e2d;">Shaadisaga.com</a></span>- All Rights Reserved</div>
 </footer>
-<script src="/js/bootstrap_new/bootstrap.js"></script>
+<script src="/js/bootstrap_new/bootstrap.js" gapi_processed="true"></script>
 
 
 </body></html>
