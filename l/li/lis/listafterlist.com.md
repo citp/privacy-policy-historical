@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the listafterlist.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626022236id_/http%3A//listafterlist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listafterlist.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026014553id_/http%3A//listafterlist.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ListAfterList
+# Privacy Policy - ListAfterList
 
 We respect your privacy. This privacy policy describes how we treat personal information when you use the Web sites, services and offerings of ListAfterList.com and our affiliated services (“LISTAFTERLIST”).
 
