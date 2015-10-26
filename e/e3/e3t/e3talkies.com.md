@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the e3talkies.com privacy policy that was archived on 2015-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150518193535id_/http%3A//e3talkies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e3talkies.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026164136id_/http%3A//e3talkies.com/privacy.html) for the most accurate reproduction.*
 
-# privacy policy
+# Privacy Policy - e3Talkies.com
 
-[WWW.E3TALKIES.COM](http://www.e3talkies.com/)  **WANTS YOU TO:**
+**WWW.E3TALKIES.COM WANTS YOU TO:**
 
-  * Feel comfortable using our web sites
-  * Feel secure submitting information to us
-  * Contact us with your questions or concerns about privacy on this site
-  * Know that by using our sites you are consenting to the collection of certain data
+  * Feel comfortable using our web sites 
+  * Feel secure submitting information to us 
+  * Contact us with your questions or concerns about privacy on this site 
+  * Know that by using our sites you are consenting to the collection of certain data 
 
 
 
@@ -15,64 +15,54 @@
 
 We may collect certain anonymous information in standard usage logs through our Web server, including: computer-identification information obtained from “cookies”, sent to your browser from a
 
-  * Web server and stored on your hard drive
-  * An IP address, assigned to the computer which you use
-  * The domain server through which you access our service
-  * The type of computer you’re using
-  * The type of web browser you’re using
+  * Web server and stored on your hard drive 
+  * An IP address, assigned to the computer which you use 
+  * The domain server through which you access our service 
+  * The type of computer you’re using 
+  * The type of web browser you’re using 
 
 
 
 We may collect the following personally identifiable information about you:
 
-  * Name
-  * Email address
-  * ZIP/Postal code
-  * Demographic profile (like your age, gender, occupation, education and durables owned)
-  * Interests (such as news, sports, travel and so on)
-  * Financial information (like account or credit card numbers)
-  * Opinions of features on our website(s).
+  * Name 
+  * Email address 
+  * ZIP/Postal code 
+  * Demographic profile (like your age, gender, occupation, education and durables owned) 
+  * Interests (such as news, sports, travel and so on) 
+  * Financial information (like account or credit card numbers) 
+  * Opinions of features on our website(s). 
 
 
 
 **WHO COLLECTS THE INFORMATION?**
 
-  * We will collect anonymous traffic information from you when you visit our site.
-  * We will collect personally identifiable information about you only as part of a voluntary registration process, on-line survey or contest.
-  * Our advertisers may collect anonymous traffic information from their own assigned cookies to your browser.
-  * The Site contains links to other Web sites. We are not responsible for the privacy practices of such Web sites.
-  * We may make chat rooms, forums, instant messenger and message boards and other services available to you. Please understand that any information that is disclosed in these areas becomes public information. We have no control over its use and you should exercise caution when disclosing your personal information to anyone.
-
-
-
-**HOW’S THE INFORMATION USED?**
-
 We use personal information to:
 
-  * Help us provide personalized features
-  * Tailor our sites to your interest
-  * Get in touch with you when necessary
+  * Help us provide personalized features 
+  * Tailor our sites to your interest 
+  * Get in touch with you when necessary 
 
 
 
 We use contact information internally to:
 
-  * Direct our efforts for product improvement
-  * Contact you as a survey respondent
-  * Notify you if you win any contest
-  * Send you promotional materials from our contest sponsors or advertisers
+  * Direct our efforts for product improvement 
+  * Contact you as a survey respondent 
+  * Notify you if you win any contest 
+  * Send you promotional materials from our contest sponsors or advertisers 
 
 
 
 Generally, we use anonymous traffic information to:
 
-  * Remind us of who you are in order to deliver to you a better and more personalized service from both an advertising and an editorial perspective
-  * Recognize your access privileges to our Web sites
-  * Track your entries in some of our promotions, sweepstakes and contests to indicate a player’s progress through the promotion and to track entries, submissions, and status in prize drawings
-  * Make sure that you don’t see the same ad repeatedly
-  * Help diagnose problems with our server
-  * Administer our Web sites
-  * Track your session so that we can understand better how people use our sites
+  * Remind us of who you are in order to deliver to you a better and more personalized service from both an advertising and an editorial perspective 
+  * Recognize your access privileges to our Web sites 
+  * Track your entries in some of our promotions, sweepstakes and contests to indicate a player’s progress through the promotion and to track entries, submissions, and status in prize drawings 
+  * Make sure that you don’t see the same ad repeatedly 
+  * Help diagnose problems with our server 
+  * Administer our Web sites 
+  * Track your session so that we can understand better how people use our sites 
 
 
 
@@ -89,7 +79,7 @@ We will not use your financial information for any purpose other than to complet
 
 **WHAT CHOICES ARE AVAILABLE TO YOU REGARDING COLLECTION, USE AND DISTRIBUTION OF YOUR INFORMATION?**
 
-Supplying personally identifiable information is entirely voluntary. You are not required to register with us in order to use our sites. However, we offer some services only to visitors who do register.
+Supplying personally identifiable information is entirely voluntary. You are not required to register with us in order to use our sites. However, we offer some services only to visitors who do register. 
 
 Upon request, we will remove your personally identifiable information from our database, thereby cancelling your registration. See contact information below.
 
@@ -113,10 +103,8 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 To correct or update any information you have provided, our sites give you the following options for changing:
 
-Send an e-mail to: info@e3media.in
+Send an e-mail to: e3talkies@gmail.com
 
 **POLICY UPDATES**
 
 We reserve the right to change or update these policies at any time upon reasonable notice, effective immediately upon posting to this site.
-
-### Comments
