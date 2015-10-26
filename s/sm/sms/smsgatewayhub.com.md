@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smsgatewayhub.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607030553id_/http%3A//www.smsgatewayhub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smsgatewayhub.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026075720id_/https%3A//www.smsgatewayhub.com/privacy-policy) for the most accurate reproduction.*
 
 # Bulk sms Policy, Bulk sms Privacy Policy, Bulk sms India
 
@@ -14,7 +14,7 @@ If you have any questions about this Privacy Policy, please feel free to contact
 Madhya Pradesh- 452001, India**  
 **Tel:** +91.731.6450666  
 **Mobile:** +919009402256  
-**Email:** [support@smsgatewayhub.com](https://web.archive.org/web/20150607030553id_/http%3A//www.smsgatewayhub.com/support@smsgatewayhub.com)
+**Email:** [support@smsgatewayhub.com](https://web.archive.org/web/20151026075720id_/https%3A//www.smsgatewayhub.com/support@smsgatewayhub.com)
 
 #### Information we collect:
 
