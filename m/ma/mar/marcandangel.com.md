@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marcandangel.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510161732id_/http%3A//www.marcandangel.com/other/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marcandangel.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026131815id_/http%3A//www.marcandangel.com/other/privacypolicy.htm) for the most accurate reproduction.*
 
 # 
 
