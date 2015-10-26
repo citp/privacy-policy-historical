@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cocksuremen.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074427id_/http%3A//www.cocksuremen.com/general/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cocksuremen.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026173757id_/http%3A//cocksuremen.com/general/privacy.php) for the most accurate reproduction.*
 
 # Cocksure Men
 
