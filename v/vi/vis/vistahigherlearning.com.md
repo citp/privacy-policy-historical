@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vistahigherlearning.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322150406id_/http%3A//vistahigherlearning.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vistahigherlearning.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026025701id_/http%3A//vistahigherlearning.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Vista Higher Learning
 
@@ -37,13 +37,11 @@ Information and materials submitted by students in connection with courses offer
 We may also use the information we collect through the VHL Site to offer or furnish additional products and services, such as training opportunities and updates, and engage in advertising and marketing activities. You may opt-out of receiving these messages. The following options are available to opt-out of receiving these messages:
 
   * Send email to online@vistahigherlearning.com 
-  * Send written correspondence to: 
+  * Send written correspondence to:
 
-Vista Higher Learning
-
-500 Boylston Street
-
-Suite 620, Boston, MA 02116
+Vista Higher Learning  
+500 Boylston Street  
+Suite 620, Boston, MA 02116 
 
   * Call (800) 248-2813
   * Fax (617) 426-5215 
@@ -90,21 +88,18 @@ If you have any questions or concerns about Vista Higher Learning’s use of non
 **Vista Higher Learning:**
 
 500 Boylston Street 
-Suite 620 
-Boston, MA 02116 
-USA 
 
+Suite 620 Boston, MA 02116 USA 
 
 **Phone:**
 
 (617) 426-4910 
-(800) 618-7375 
 
+(800) 618-7375 
 
 **Fax:**
 
 (617) 426-5215 
-
 
 **Email:**
 
