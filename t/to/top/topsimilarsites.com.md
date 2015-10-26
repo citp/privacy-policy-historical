@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topsimilarsites.com privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428183353id_/http%3A//www.topsimilarsites.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topsimilarsites.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026120302id_/http%3A//www.topsimilarsites.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Top Similar Sites
 
@@ -42,4 +42,4 @@ This policy was last modified on 20/06/2013
 
 ### Popular Tags
 
-massage emploi safari drivers hunter comic chain wiki carte islands lists prayer dynamic chemical leather reports html5 preservation mp3 facebook popular holidays sky curriculum tracking traffic pictures interactive tour microsoft houston www week manhattan kansas federal time send maintenance charles
+reports world google business current los sharing shop local mp3 warehouse india facebook play directions football black popular politics weather finance earth hip standard holidays repair train sky auto food volkswagen trading stocks newspaper interactive city home tracking mail angeles
