@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardgames.io privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623153316id_/http%3A//cardgames.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardgames.io privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026042444id_/http%3A//cardgames.io/privacy) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
