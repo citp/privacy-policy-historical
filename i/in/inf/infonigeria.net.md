@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infonigeria.net privacy policy that was archived on 2015-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150523101310id_/http%3A//www.infonigeria.ng/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infonigeria.net privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026053915id_/http%3A//www.infonigeria.ng/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Info Nigeria
 
