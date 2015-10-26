@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the arcadesimple.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629085631id_/http%3A//www.arcadesimple.com/index.php%3Fa%3Dpage%26id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadesimple.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026052415id_/http%3A//www.arcadesimple.com/index.php%3Fa%3Dpage%26id%3D2) for the most accurate reproduction.*
 
-# Privacy Policy - Free games
-
-| 
+# Privacy Policy
 
 This privacy policy covers how we treat personal information that we collect and receive. 
 
@@ -15,7 +13,7 @@ Registration is not required to enter our site.
 Like most servers, our servers automatically record the page requests made when a user visits this site. These "server logs" typically include your web request (the requested content), IP address, browser type, browser language and the date and time of your request.  
 We may use these IP addresses to help diagnose technical problems or prevent abuse of our systems or other site users. Your IP address may also be used to gather aggregate demographic data and target advertisements accordingly. 
 
-Your browser has options to accept, reject, or provide you with notice when a cookie is sent. A "cookie" is a small line of text that is stored with your web browser for record-keeping purposes and to help us provide better service to you. We may use both â€œsessionâ€ cookies and â€œpersistentâ€ cookies on this website. We will use session cookies to: keep track of you whilst you navigate the website; We will use the persistent cookies to: enable our website to recognize you when you visit. 
+Your browser has options to accept, reject, or provide you with notice when a cookie is sent. A "cookie" is a small line of text that is stored with your web browser for record-keeping purposes and to help us provide better service to you. We may use both "session" cookies and "persistent" cookies on this website. We will use session cookies to: keep track of you whilst you navigate the website; We will use the persistent cookies to: enable our website to recognize you when you visit. 
 
 We use companies to serve the advertisements on some of our pages. These companies and advertisers may place and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not ours. We may use your information or allow advertisers or companies that serve advertisements access to your information to determine which advertisements you will see. This information may include your demographic information, geographic location, what content you access on our site, how you rate various content and other information. 
 
@@ -63,7 +61,7 @@ Third parties, like Google, may collect certain types of information about visit
 
 **Flash shared objects:**
 
-Most games on this site are based on flash technology (flash games). Flash games may collect data in "shared objects" which are text-files stored on your computer. We have no control over what data flash games of third parties may collect. We are not responsible for the privacy practices of third parties flash games. You can delete stored data on your computer by this website or all websites information on your computer with Macromedias "Settings Manager" for Adobe Flash Player by visiting: 
+Some games on this site may be based on flash technology. Those games may collect data in "shared objects" which are text-files stored on your computer. We have no control over what data flash games of third parties may collect. We are not responsible for the privacy practices of third parties flash games. You can delete stored data on your computer by this website or all websites information on your computer with Macromedias "Settings Manager" for Adobe Flash Player by visiting: 
 
 [_Adobe Flash Player's "Settings Manager"_](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)
 
@@ -73,12 +71,10 @@ We may present internal links (i.e. links to our own pages) or external links (i
 
 We protect personal information against such risks as loss or theft, unauthorized access, disclosure, copying, use, modification or destruction, through appropriate security measures. 
 
-**Use of Facebook and Google Social Plugins**
+**Use of Social Plugins**
 
 The responsible entity uses social plugins ("plugins") of the social networks Facebook and Google on its website from facebook.com, which is operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, United States ("Facebook"), twitter.com, which is operated by Twitter Inc. 795 Folsom Street, Suite 600, San Francisco, CA 94107, United States ("Twitter") and google.com, which is operated by Google Inc., 1600 Amphitheatre Parkway, Mountain View, California, 94043, United States ("Google+1"). The plugins are marked with their logos: Facebook, Twitter and Google+1. If a user visits a page on this website, which contains such a plugin, the browser builds up a direct link to the Facebook, Twitter or Google servers. The contents of the plugin is from Facebook, Twitter and Google directly to the browser of the customer and integrated into this website. By integrating these plugins Facebook, Twitter and Google receive information that the customer has visited this website. If the customer is logged into Facebook, Twitter or Google, these companies can assign the visit of the website to his or her Facebook/Twitter/Google account. When the customer interacts with the plugins, for example, the "Like" button, "Tweet" button, "+1 Button" or add a comment, the corresponding information from the client's browser is sent directly to Facebook, Twitter or Google and stored there. Purpose and scope of data collection and further processing and use of data through Facebook, Twitter or Google are related to the settings of the customer to protect his privacy, refer to the privacy policies of Facebook, Twitter or Google. 
 
 **Binding Agreement**
 
-Your use of our site, including any dispute concerning privacy, is subject to this Privacy Policy. By using this site, you are accepting the practices set out in this Privacy Policy. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page.  
-  
----|---
+Your use of our site, including any dispute concerning privacy, is subject to this Privacy Policy. By using this site, you are accepting the practices set out in this Privacy Policy. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page.
