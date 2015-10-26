@@ -1,26 +1,29 @@
-> *The following text is extracted and transformed from the securedatarecovery.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510010232id_/http%3A//www.securedatarecovery.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securedatarecovery.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026152921id_/http%3A//www.securedatarecovery.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Secure Data Recovery Services
 
-[](https://privacy.truste.com/privacy-seal/Secure-Data-Recovery-Services/validation?rid=5aa367da-84fa-4d64-9ad3-fef0d54e1476 "TRUSTe European Safe Harbor certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=5aa367da-84fa-4d64-9ad3-fef0d54e1476 "TRUSTe Privacy Certification")
 
-**Effective Date: 7/25/2014**
+**Effective Date: 8/25/2015**
 
-This privacy policy applies to www.securedatarecovery.com owned and operated by Secure Data Recovery Services. This privacy policy describes how Secure Data Recovery Services collects and uses the personal information you provide on our web site: www.securedatarecovery.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+  * This privacy policy applies to www.securedatarecovery.com owned and operated by Secure Data Recovery Services. This privacy policy describes how Secure Data Recovery Services collects and uses the personal information you provide on our web site: www.securedatarecovery.com and our Services. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Secure Data Recovery Services. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+
+
+
 
 At Secure Data Recovery Services, we greatly respect our clients' privacy. We were the first data recovery provider to earn a SSAE 16 Type II certification, and over the years, we have built a strong reputation for our commitment to security and transparency. 
 
 We provide a detailed overview of our practices to help you use our website. Contact our customer service department if you have any questions regarding the terms listed below. 
 
-Secure Data Recovery Services has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe certification covers only our collection, use and disclosure of information we collect through our website: www.securedatarecovery.com and our service. The use of information collected through our service shall be limited to the purpose of providing the service for which our Client has engaged Secure Data Recovery Services.
+The TRUSTe certification covers our collection, use and disclosure of information we collect through our websites: www.securedatarecovery.com, www.securedatarecovery.ca and www.securesoftware.com and our Services. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Secure Data Recovery Services.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [**here**](https://feedback-form.truste.com/watchdog/request "Secure Data Recovery Services - TRUSTe Privacy Statement").
+In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at [**https://feedback-form.truste.com/watchdog/request**](https://feedback-form.truste.com/watchdog/request "Contact TRUSTe"). 
 
 Secure Data Recovery Services complies with the U.S.–E.U. Safe Harbor framework and the U.S.–Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Secure Data Recovery Services has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Secure Data Recovery Services’ certification, please visit [**http://www.export.gov/safeharbor/**](http://www.export.gov/safeharbor/ "Safe Harbor Program").
 
 ## Collecting and Using Personal Information
 
-Secure Data Recovery Services collects basic information for internal use. This includes but is not limited to phone numbers and addresses entered into our online evaluation form or information collected over the phone when you call our customer service department. We also collect your first and last name, email address and phone number, when you send us a request regarding our services. When you use our media services, we keep your information strictly confidential. 
+Secure Data Recovery Services collects basic information for internal use. This includes but is not limited to phone numbers and addresses entered into our online evaluation form or information collected over the phone when you call our customer service department. We also collect your first and last name, email address and phone number, when you send us a request regarding our services and credit card information to make payments for invoices. When you use our media services, we keep your information strictly confidential. 
 
 We only use your information for the primary purpose of contacting you, creating your account with us, assessing your needs and responding to your customer service requests.
 
@@ -28,7 +31,7 @@ We only use your information for the primary purpose of contacting you, creating
 
 We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell your personal information to third parties.
 
-Secure Data Recovery Services does not sell or share any personal or corporate information except for the purposes of providing requested products and services. In the event that we need to share personally identifiable information with equipment manufacturers or other third parties, we will request your permission prior to doing so. 
+Secure Data Recovery Services does not share any personal or corporate information except for the purposes of providing requested products and services. In the event that we need to share personally identifiable information with equipment manufacturers or other third parties, we will request your permission prior to doing so. 
 
 We may also use aggregated information for general purposes including but not limited to advertising, sales or mergers. This information will not include phone numbers, addresses, payment numbers or other personally identifiable data. 
 
@@ -44,7 +47,7 @@ We will retain your information for as long as your account is active or as need
 
 ## Security
 
-The security of your personal information is important to us. When you enter sensitive information (such as login credentials) on our forms, we encrypt the transmission of that information using secure socket layer technology (SSL). 
+The security of your personal information is important to us. When you enter sensitive information (such as login credentials and credit card information) on our forms, we encrypt the transmission of that information using secure socket layer technology (SSL). 
 
 We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [**legal@securedatarecovery.com**](mailto:legal@securedatarecovery.com "Email Our Legal Department").
 
@@ -56,15 +59,17 @@ Most websites use cookies in some way. Cookies are limited and do not allow us t
 
 You may also consult your browser's documentation if you do not wish to receive cookies or if you want to be notified when websites use cookies. If you turn off cookies, you may not be able to use certain functions and features of SecureDataRecovery.com. 
 
-## Third Party Tracking Technologies
+## Tracking Technologies
 
 As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We [do/ do not] link this automatically collected data to other information we collect about you.
 
 Our website also uses Google Analytics, a popular web traffic analytics tool. Google Analytics adds cookies to your computer when you visit SecureDataRecovery.com and collects information about the website traffic. See [**Google's privacy policy**](http://www.google.com/policies/privacy/ "Google privacy policy") for more information. 
 
-Technologies such as: cookies, beacons, tags and scripts are used by our third party partners (Marketing partners), affiliates, or analytics or service providers (online customer support provider). These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+Technologies such as: cookies, beacons, tags and scripts are used by us and our third party partners (Marketing partners), affiliates, or analytics or service providers (online customer support provider). These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
 We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [**here**](http://preferences-mgr.truste.com/ "Opt-out Ads for United States") (or if located in the European Union click [**here**](http://www.youronlinechoices.eu/ "Opt-out Ads for Europe")) Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+
+We use Local Storage, such as HTML5, to store content information and preferences. Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity also use Flash cookies and HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. To manage Flash cookies, please click here: [**http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html**](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html "Manage Flash Cookies")
 
 ## Limitation of Liability
 
