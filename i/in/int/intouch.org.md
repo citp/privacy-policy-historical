@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intouch.org privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627144140id_/http%3A//intouch.org/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intouch.org privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026194501id_/http%3A//www.intouch.org/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -67,7 +67,7 @@ In Touch Ministries
 PO Box 7900  
 Atlanta, GA 30357 
 
-We can also be reached via e-mail at [ContactCenter@intouch.org](mailto:contactcenter@intouch.org), or you can reach us by calling our Customer Care Center toll-free at 800.789.1473. (Hours M-F 8:00 am - 7:00 pm) 
+We can also be reached via e-mail at [partnerrelations@intouch.org](mailto:partnerrelations@intouch.org), or you can reach us by calling our Customer Care Center toll-free at 800.789.1473. (Hours M-F 8:00 am - 7:00 pm) 
 
 Please feel free at any time to request correction of any inaccuracies in your contact information and unique identifiers. You may request corrections by sending us e-mail at the above address, calling us at the above telephone number, or writing to us at the above address. 
 
