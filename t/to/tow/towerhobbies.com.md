@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the towerhobbies.com privacy policy that was archived on 2014-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140724145941id_/http%3A//towerhobbies.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the towerhobbies.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026082519id_/http%3A//towerhobbies.com/help/privacy.html) for the most accurate reproduction.*
 
 # Tower Hobbies - Privacy
 
@@ -11,7 +11,7 @@ When magazine subscriptions are purchased or free magazines are requested as a b
 We use your IP address to help diagnose problems with our server, administer our Web site and to provide security. Our site uses "cookies" to keep track of your shopping cart contents. 
 
   * Email addresses are collected only for the purpose of contacting you in the future. We WILL NOT sell or rent your email address to other companies or individuals. We may use third-party data processors to process email addresses.
-  * Whenever sensitive personal or financial information is transmitted, it is sent via a secured connection directly to our mainframe computer using secure sockets layer (SSL) technology. This is the most successfully used method of ensuring private, [secure transmission](https://web.archive.org/web/20140724145941id_/http%3A//towerhobbies.com/help/security.html) of personal information over the Internet. 
+  * Whenever sensitive personal or financial information is transmitted, it is sent via a secured connection directly to our mainframe computer using secure sockets layer (SSL) technology. This is the most successfully used method of ensuring private, [secure transmission](https://web.archive.org/web/20151026082519id_/http%3A//towerhobbies.com/help/security.html) of personal information over the Internet. 
   * We do not respond to "do not track" signals or other similar mechanisms.
   * When you use our web site, other parties may receive personal information relating to your online activities.
   * We do not collect the personal information for children under the age of 13. We are prohibited from conditioning a child's participation in an activity on the child disclosing more personal information than is reasonably necessary. In cases where we have inadvertently collected personal information of a child, the parent can always review this information, choose to have this information deleted from our records and refuse to permit further collection or use of this information.
@@ -31,11 +31,3 @@ This site gives users the following options to not receive future communications
 To protect our customers' accounts we do not accept third-party requests to modify customers' privacy preferences. Tower Hobbies respects its customers' privacy and works diligently to protect it. Material changes to Tower Hobbies' privacy policies will be posted in this Privacy Statement. 
 
 This Privacy statement became effective on 7/7/04. Updated 05/14/10. Updated 08/31/11. Updated 08/9/12. Updated 01/15/14.
-
-Tower Hobbies Has Been Serving Hobbyists Since 1971 • Call 800-637-6050 or 217-398-3636
-
-We accept the following:  [](http://www.towerhobbies.com/ordering.html#cc)
-
-Unauthorized use of any materials presented here is prohibited. Copying or reproducing any elements from this page is not permitted. All prices, descriptions and availability subject to change.
-
-###### Copyright © 1994 - 2020 Tower Hobbies All rights reserved. Do not duplicate or redistribute in any form.
