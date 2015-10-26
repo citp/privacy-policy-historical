@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the viralvideocurator.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628022151id_/http%3A//www.viralvideocurator.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralvideocurator.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026185432id_/http%3A//www.viralvideocurator.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy -
+# Privacy Policy - Viral Video Curator
 
 This privacy policy sets out how **  Web Dimensions, Inc. **uses and protects any information that you give  **Web Dimensions, Inc.**  when you use this website.
 
