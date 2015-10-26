@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the cosential.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531031502id_/http%3A//www.cosential.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosential.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026155041id_/http%3A//www.cosential.com/privacy-policy) for the most accurate reproduction.*
 
 # Cosential - Privacy Policy
 
-Our postal address is  
-207 San Jacinto Blvd  
+Our postal address is:
+
+610 West 5th Street  
+Suite 604  
 Austin, TX 78701
 
 We can be reached via e-mail at [support@cosential.com](mailto:support@cosential.com) or you can reach us by telephone at 800-505-7089
