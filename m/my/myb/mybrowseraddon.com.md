@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybrowseraddon.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611004841id_/http%3A//mybrowseraddon.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybrowseraddon.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026222223id_/http%3A//mybrowseraddon.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: mybrowseraddon.com
 
@@ -26,7 +26,23 @@ This privacy policy does not protect any information that You transmit to newsgr
 
 **3\. Cookies**
 
-MyBrowserAddon may use "cookies" - pieces of data stored on your computer tied to information about You - on the Site. This information will be in the form of a cookie or similar file and will help MyBrowserAddon enhance its web experience by saving time on the Site. With most Internet browsers, You can erase cookies from Your computer hard drive, block all cookies or receive a warning before a cookie is stored. Please refer to Your browser instructions or "help" screen to learn more about these functions.
+MyBrowserAddon may use "cookies" - very small text files that are stored on your computer when you visit some websites - on the Site. This information will be in the form of a cookie or similar file and will help MyBrowserAddon enhances its web experience by saving time on the Site. This can also make your next visit easier and the site more useful to you. In general cookies play an important role. Without them, using the web would be a much more frustrating experience. With most Internet browsers, you can easily erase cookies from Your computer's hard drive, block all cookies or receive a warning before a cookie is stored. However these may stop our website from functioning properly. Please refer to Your browser instructions or "help" screen to learn more about these functions.
+
+MyBrowserAddon may use cookies for the following reasons.
+
+a. MyBrowserAddon allows you to share pages with some social networks such as Facebook, Twitter, LinkedIn, Google Plus, Pinterest and Stumbleupon. Each of these networks has their own cookie policy. Please visit each social media website to see their cookie policies before sharing any content.
+
+b. We also use Google Forms, Google Analytics and Google AdSense‎ in MyBrowserAddon. Google uses certain cookies in order to better operate on third-party websites. Please refer to how Google uses [cookies](http://www.google.com/intl/en/policies/technologies/cookies/), how Google uses [data](http://www.google.com/intl/en/policies/privacy/partners/) when you use its partners sites or apps, how Google uses cookies in [advertising](http://www.google.com/intl/en/policies/technologies/ads/) and Google [analytics](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage) cookie usage on websites to get more info about Google's policy about cookies.
+
+c. MyBrowserAddon uses PayPal module in order to place PayPal donation button on its pages. PayPal website and its modules may use certain cookies in order to operate. Please read about PayPal policies about cookies [here](https://www.paypal.com/us/webapps/mpp/ua/privacy-full#How_We_Use_Cookies_and_Similar_Technologies).
+
+d. MyBrowserAddon uses Amazon.com services such as cloud front (CDN). Amazon has certain cookie policies regarding its services. To read more about Amazon's cookie policy please visit Amazon.com [Privacy Notice](http://www.amazon.com/gp/help/customer/display.html?nodeId=468496).
+
+e. We also use several other public CDN servers to host certain modules in MyBrowserAddon. Each of these services (listed below) may use certain cookies for different purposes. Please visit following pages to read more about each service's cookie policy.
+
+I - read [more](https://www.maxcdn.com/legal/) about MaxCDN's cookie policy.  
+II - read [more](https://www.cloudflare.com/security-policy) about CloudFlare's cookie policy.  
+
 
 **4\. Information Sharing**
 
@@ -40,10 +56,10 @@ MyBrowserAddon may disclose personal information to third parties it engages to 
 
 The Site has security measures in place to protect against the loss, misuse and alteration of the information under MyBrowserAddon's control. However, it is not possible to guarantee the security or integrity of information You disclose Online since a sufficiently powerful attack from an unauthorized third party could compromise your data.
 
-**5\. Links to Non-MyBrowserAddon Sites**
+**5\. Links to None-MyBrowserAddon Sites**
 
 The Site contains links to other sites. Please be aware that MyBrowserAddon is not responsible for the privacy practices of other sites. MyBrowserAddon encourages You to be aware when You leave the Site and to read the privacy statements of every web site that collects personally identifiable information. This privacy statement applies solely to information collected by the Site.
 
 **6\. How to Contact MyBrowserAddon**
 
-If You have any questions or suggestions regarding MyBrowserAddon's privacy policy, or if You have submitted personally identifiable information through the Site and would like access to such information or to have that information corrected, please email us.
+If You have any questions or suggestions regarding MyBrowserAddon's privacy policy, or if You have submitted personally identifiable information through the Site and would like access to such information or to have that information corrected, please fill the contact form.
