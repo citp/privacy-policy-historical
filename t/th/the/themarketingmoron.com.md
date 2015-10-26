@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themarketingmoron.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317121457id_/http%3A//www.themarketingmoron.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themarketingmoron.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026215730id_/http%3A//www.themarketingmoron.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Internet Marketing Advice, Internet Business Blog, Work From Home Blog
 
@@ -79,5 +79,3 @@ IMPORTANT: IF YOU DELETE YOUR OPT-OUT COOKIE, YOU WILL NEED TO OPT-OUT AGAIN. IF
 * If you are using Netscape 6.0+, go to “Edit” in the menu bar, click on “Preferences,” click on “Advanced,” and select the “Cookies” field. Now check either the box that says, “Warn me before accepting a cookie” or “Disable cookies.” Click on “OK.” Now go to your “Start” button, click on “Find,” click on “Files and Folders,” type “cookies.txt” into the search box that appears, and click “Find Now.” When the search results appear, drag all files listed, into the “Recycle Bin.” Now shut down and restart your Netscape. Depending on your earlier choice you will either be prompted by new cookie sets or no cookies will be set or received.* If you are using Mozilla or Safari, please go to their websites to find out how to disable cookies in those programs.
 
 So there.
-
-### **Get DAILY email updates from me and just do what I do.**
