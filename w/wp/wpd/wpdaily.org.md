@@ -1,69 +1,32 @@
-> *The following text is extracted and transformed from the wpdaily.org privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110230519id_/http%3A//www.wpdaily.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpdaily.org privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026115300id_/http%3A//www.wpdaily.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | WPDaily.ORG
 
-Wpdaily.org considers that respect of privacy on the Internet is of utmost importance. This statement presents the rules applied by Wpdaily.org for the collection and dissemination of personal information given by users on the site. They apply to all “Wpdaily.org Sites”, i.e. all sites within the “Wpdaily.org” domain.
+**Privacy Policy for www.wpdaily.org**
 
-### What information is collected by Wpdaily.org?
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at contact@wpdaily.org.
 
-### Standard use of the Site
+At www.wpdaily.org, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.wpdaily.org and how it is used.
 
-In general, you can browse the Site without telling us who you are or revealing any personal information. The only information we gather during a general navigation on the Site is the information intended for the server logs: IP (Internet Protocol) address, domain name, browser type, operating system and information such as the site from which you are connected, pages visited, and the dates and times of those visits.
+**Log Files**  
+Like many other Web sites, www.wpdaily.org makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-### Collect of Personal Information
+**Cookies and Web Beacons**  
+www.wpdaily.org does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-If you subscribe to a newsletter, log on to certain Wpdaily.org sites, request information, send any comments or if you join a discussion group or electronic mailing list, you will need to provide some personal information : name and e-mail address, for example. Such information is collected only with your permission and is stored in different databases and mailing lists belonging to Wpdaily.org. If you make a purchase over the Internet, you may be asked to provide your credit card information. These data are transferred to a secure payment online, hosted outside Wpdaily.org. Wpdaily.org does not keep credit card information.
+**DoubleClick DART Cookie**  
+.:: Google, as a third party vendor, uses cookies to serve ads on www.wpdaily.org.  
+.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.wpdaily.org and other sites on the Internet.  
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
-The registration of personal information leads to the submission of a cookie* on certain sites of Wpdaily.org. By setting this cookie, Wpdaily.org will remember your personal details at the next visit so you do not have to re-enter the same information. This helps us to improve the quality of services that we offer.
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
+Google Adsense  
+Amazon
 
-Participation in electronic discussion groups means that other participants in the group that you have chosen (including those who are not Site Administrators) will be aware of any personal information that you choose to disclose. In some open discussion groups the information is public.
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.wpdaily.org send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-### What does Wpdaily.org do with the information it collects?
+www.wpdaily.org has no access to or control over these cookies that are used by third-party advertisers.
 
-### Standard use of the Site
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.wpdaily.org’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-The information collected during the navigation in the “Wpdaily.org” area is used to analyze trends and the use of the site in order to improve its usefulness. No personal information is attached there.
-
-### Personal Information
-
-Wpdaily.org may use such information to:
-
-* Contact you – either in response to a request or a suggestion, or to send you news, documents, publications, and so on;
-
-* Confirm your entries on the site;
-
-* “Remember” your online profile and preferences;
-
-* Statistical analysis performing.
-
-What will happen if I do not want to provide personal information?
-
-Providing personal information on the Site is optional. If you do not want to deliver information of this kind, you can always surf the Site, but you will not be able to access the entire Service and its Information.
-
-Removal or modification of information
-
-You can delete or modify your personal information at any time by returning to the page where you registered them or by contacting the coordinator of the page. If the page in question does not provide any information on this subject, you can contact privacy(at)Wpdaily(dot)org for more information.
-
-If you are not the issuer of personal information that concerns you and want to have it removed, you can send your request to privacy(at)Wpdaily(dot)org
-
-### Security
-
-The personal data entrusted to the Site will not be sold or transferred to any third party. Any information provided to Wpdaily.org by users of the Site is preserved with the utmost care and maximum safety. It will be used only in the manner described in this privacy policy, or according to the special rules of visited sites or in a manner to which you have explicitly consented. Wpdaily.org uses techniques and a variety of measures to ensure the safety of information stored in its systems and protects them from loss, misuse, unauthorized access, disclosure, alteration, or destruction.
-
-All our volunteers (see “Moderators” – TOS) who have access to personal information or are associated with the processing of these data, are obliged to respect the confidentiality of every user of the Site, which covers the personal information.
-
-The Site provides links to sites outside the “Wpdaily.org” area and could not be held responsible for the privacy practices or the content located on them.
-
-### Modifications
-
-Any modification of these terms can be made at any time without prior publication or announcement.
-
-### Contact
-
-For any questions or inquiries about our privacy policy, you can contact us at privacy(at)Wpdaily(dot)org
-
-### *Cookie
-
-A cookie is a small file that a Web server sends to your browser. It is normally used to assign your computer a unique identification and securely store information: identity of the user, passwords, preferences, online profiles. It is stored on the hard drive of your computer. You can refuse to have cookies delivered by Wpdaily.org sites by changing the settings of your browser. Cookies installed in your computer can come from many Internet sites. To protect the confidentiality of data, your browser allows Web sites to access cookies they themselves have sent, not to those that others have sent.
-
-Rating: 0.0/ **10** (0 votes cast)
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
