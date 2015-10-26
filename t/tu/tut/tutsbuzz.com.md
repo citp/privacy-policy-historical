@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tutsbuzz.com privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505014607id_/http%3A//www.tutsbuzz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutsbuzz.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026040034id_/http%3A//www.tutsbuzz.com/privacy.html) for the most accurate reproduction.*
 
 # 3D, Photoshop and Programming Tutorials | TutsBuzz.com
 
@@ -24,4 +24,4 @@ This web site contains links to other sites. Please be aware that Tutsbuzz.com i
 
 Tutsbuzz.com will never, under any circumstances give away or displays your IP address. Additionally, Tutsbuzz.com will never sell or transmit e-mail addresses or any other personal identifiers to 3rd parties. Use of the registration system is optional; however it does maximize the user's experience here at the site. 
 
-If you have any questions regarding our privacy policy, please do not hesitate to [Contact Us](http://tutsbuzz.com/contact.html)! Thank you for your cooperation. 
+If you have any questions regarding our privacy policy, please do not hesitate to [Contact Us](http://www.tutsbuzz.com/contact.html)! Thank you for your cooperation. 
