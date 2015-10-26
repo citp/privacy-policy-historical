@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xaraxone.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625102209id_/http%3A//www.xaraxone.com/legal-notices/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xaraxone.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026225417id_/http%3A//www.xaraxone.com/legal-notices/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Xara Xone
 
