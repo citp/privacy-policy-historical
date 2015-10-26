@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the circanews.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627160234id_/http%3A//circanews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the circanews.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026211636id_/http%3A//circanews.com/privacy) for the most accurate reproduction.*
 
 # Circa News | Save Time. Stay Informed.
 
