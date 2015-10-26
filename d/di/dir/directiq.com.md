@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directiq.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625000316id_/http%3A//www.directiq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directiq.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026215532id_/http%3A//www.directiq.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DirectIQ
 
