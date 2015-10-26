@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apollohosting.com privacy policy that was archived on 2015-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150425133033id_/https%3A//www.apollohosting.com/legal/legal_privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apollohosting.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026055604id_/http%3A//www.apollohosting.com/legal/legal_privacy.bml) for the most accurate reproduction.*
 
 # ApolloHosting's Privacy Policy
 
@@ -46,6 +46,6 @@ To ensure you receive the information you need to manage your account and protec
 
 
 
-**This file was last modified on April 9, 2015.**
+**This file was last modified on April 30, 2015.**
 
  ****
