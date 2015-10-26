@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gametrailers.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629022238id_/http%3A//www.gametrailers.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gametrailers.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026044547id_/http%3A//www.gametrailers.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | GameTrailers
 
