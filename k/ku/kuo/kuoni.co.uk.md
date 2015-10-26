@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kuoni.co.uk privacy policy that was archived on 2015-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150525070010id_/http%3A//www.kuoni.co.uk/kuoni-for-you/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kuoni.co.uk privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026134240id_/http%3A//www.kuoni.co.uk/kuoni-for-you/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Kuoni Travel
 
@@ -41,6 +41,8 @@ We may also use your IP (Internet Protocol) address to diagnose problems with ou
 We need your credit card details so that we can collect payment for your booking.
 
 Information you supply to us will be passed to our suppliers (such as airlines, hotels, transport companies) and agents only where necessary for the purposes of booking your holiday. This may include the transfer of information outside the EEA (European Economic Area).
+
+Read More
 
 ### Will Kuoni Travel disclose any of this personal information to third parties?
 
@@ -93,6 +95,8 @@ Kuoni has good relationships with a small number of carefully selected suppliers
 
 Cookies cannot harm your computer and Kuoni will not use cookies to collect personally identifiable information about you.
 
+Read More
+
 ### How to modify your browser settings to decline cookies
 
 ### Will Kuoni Travel use the information I give for direct mailings?
@@ -124,82 +128,6 @@ If you have any questions relating to our privacy policy, or, if at any time you
 
 
 
-Tag name
-
-| 
-
-Provider
-
-| 
-
-Purpose
-
-| 
-
-Cookie
-
-| 
-
-Privacy URL  
-  
----|---|---|---|---  
-  
-E-Digital
-
-| 
-
-Invite customers to provide feedback through our opt-in online survey of their experience of www.kuoni.co.uk. The information provided is not shared with a third party. 
-
-| 
-
-ecos
-
-| 
-
-<http://www.edigitalresearch.com/static/privacy>  
-  
-Infinity Tracking
-
-| 
-
-Track calls to our personal travel consultants from the webpage that they originated from. 
-
-| 
-
-ictf_in72 ictf_master ictf_il72
-
-| 
-
-<http://www.infinity-tracking.com/privacy-policy>  
-  
-Google
-
-| 
-
-Google Analytics evaluates your activity on our website and tracks information, including the domain from which you access our site, type of browser, operating system, URLs you visited and from where and when you visited.
-
-| 
-
-_utmz _utmc _utmb _utma
-
-| 
-
-[http://www.google.co.uk/intl/en/policies/privacy](http://www.google.co.uk/intl/en/policies/privacy/)  
-  
-Tealeaf
-
-| 
-
-A tool used by Kuoni to track customers entering our booking process and ensure essential information is entered correctly.
-
-| 
-
-TLTSID TLTUID
-
-| 
-
-<http://www.tealeaf.com/company/privacy-policy.php>  
-  
 ### Functionality
 
 'Functionality' cookies are used to help you use the Kuoni website, provide services and remember settings to improve your visit.
@@ -278,6 +206,8 @@ MyPage'   mykuoni-remembered
 
 n/a  
   
+Show Cookies
+
 ### Targeting
 
 'Targeting' cookies are linked to services provided by third parties, such as 'Like' buttons and 'Share' buttons. The third party provides these services in return for recognising that you have visited our website.
@@ -416,6 +346,8 @@ datr, lu, fr
 
 [www.facebook.com/full_data_use_policy](https://www.facebook.com/full_data_use_policy)  
   
+Show Cookies
+
 ### Social media
 
 We offer a share page widget on all of our web pages for Facebook, Twitter and Google+. This allows you to easily share holidays or travel related information that you are interested in with your friends, family and social networks.
