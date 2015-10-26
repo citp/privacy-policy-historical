@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the credomen.com privacy policy that was archived on 2015-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150518140900id_/http%3A//credomen.com/online-shopping/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the credomen.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026191309id_/http%3A//www.credomen.com/online-shopping/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy | Credo Mannenmode
 
@@ -30,4 +30,4 @@ At all times, we will offer you the opportunity to unsubscribe out of any servic
 
 #### WE ONLY PROVIDE YOU WITH THE BEST
 
-Luxury Fashion For Men from all main international fashion designers, such as: Givenchy, Philipp Plein, Balmain, IRO, Dolce & Gabbana, Balenciaga, Dsquared2, Lanvin, Moncler, Saint Laurent Paris, Hugo, and many more.
+Luxury Fashion For Men from all main international fashion designers, such as: Givenchy, Philipp Plein, Valentino, Balmain, Marcelo Burlon, IRO, Dolce & Gabbana, Balenciaga, Dsquared2, Lanvin, Moncler, Saint Laurent Paris, Niel Barrett, and many more.
