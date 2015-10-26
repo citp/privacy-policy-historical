@@ -1,108 +1,109 @@
-> *The following text is extracted and transformed from the pennymacusa.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623060339id_/http%3A//www.pennymacusa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennymacusa.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026134318id_/http%3A//www.pennymacusa.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - PennyMac
 
-## Online and Financial Privacy Notice
+## PennyMac Online Privacy Notice
 
-The main goal of PennyMac* is to help you maintain and protect the ownership in your home. This notice explains how we protect and use your personal information in a safe, secure and responsible manner. What you need to know in brief:
+PennyMac Loan Services, LLC and its affiliates (collectively, "PennyMac", "we," "us," "our") is committed to protecting the privacy of our customers and visitors (collectively, “you”) when using PennyMac’s websites, mobile applications, or accounts that PennyMac operates on social media sites, and any other online interactions you may have with PennyMac.
 
-  * We do not sell customer information to third parties.
-  * We offer you products or services at a lower cost or with greater convenience by sharing limited information within PennyMac and with carefully selected business partners.
-  * We do not share customer information with affiliates except to provide existing services to you.
+### Consumer Privacy Notice
 
+We will collect, use, and share information from or about you in accordance with the PennyMac [Consumer Privacy Notice](https://web.archive.org/annual-consumer-privacy-notice.pdf) , which provides choices regarding the use and sharing of your information.
 
+### What Information Is Collected?
 
-### Agreement to Policy
+We may collect information from you via applications, forms, surveys, or other online fields, such as name, address, account numbers, social security number, email address, or telephone numbers.
 
-By using a PennyMac site you consent to this policy, including our collection and use of information about you as described below. PennyMac may update this policy from time to time and will mail notification of material changes to customers.
+We may also collect and store other information about your use of our sites and services, such as your IP address, web browser name and version, operating system, computer location, date and time of visit, and the web pages visited. Such information may be collected about how and when you use our sites.
 
-### Protecting Your Privacy Online
+### How Is This Information Used?
 
-There are a few simple things that you can do to safeguard your information on the Internet:
+We may use your information in accordance with applicable laws, such as:
 
-  * Keep your account number, username, and password safe
-  * Be sure to use a secure browser and keep your virus detection software current
-  * Never open email from an unknown source
-  * Always log out of the loan status area when you're finished
-
-
-
-### How Is My Personal Information Collected By PennyMac?
-
-We collect your personal information when you register through PennyMac registration web pages and each time you update your personal information on any web page.
-
-We may also collect your personal information when you request an interest rate quote or other information from us via a website.
-
-### Does PennyMac Use Cookies or Other Online Technologies to Collect Personal Information from Me?
-
-Some of our web sites may make use of "cookie" technology to measure site activity and to customize information to your personal tastes. A cookie is an element of data that a web site can send to your browser, which may then store the cookie on your hard drive. So when you come back to visit us again, we can tailor information to suit your individual preferences. The goal is to save you time and provide you with a more meaningful visit.
-
-Also, when you visit one of the PennyMac web sites, we may collect and store information about your visit on an anonymous, aggregate basis. We use this information only to measure site activity and to develop ideas for improving our sites. This information may include:
-
-  * Time and length of your visit
-  * Web pages you looked at on our sites
-  * The web site you visited just before coming to ours, and
-  * The name of your Internet service provider
+  * Providing customer support, processing transactions, and responding to your inquiries;
+  * Sending you important information and updates regarding sites, products and services;
+  * Delivering marketing communications that we believe may be of interest to you, including, advertisements or offers tailored to you;
+  * For business purposes, including data analysis, audits, developing and improving products and services, enhancing the site, identifying usage trends and determining the effectiveness of promotional campaigns;
+  * For risk control, fraud detection and prevention, compliance with laws and regulations, and accordance with other legal process and law enforcement requirements;
+  * For any other purposes that we may specifically disclose at the time you provide or we collect your information; and
+  * Operate, provide, improve, and maintain our sites and services and offer tailored content.
 
 
 
-We may collect this non-personally identifiable information for the following purposes:
+### Who Will Have Access To Your Information?
 
-  * To provide anonymous statistical analysis of web page traffic patterns
-  * To administer our web site and servers, and
-  * To improve our services
+Refer the PennyMac [Consumer Privacy Notice](https://web.archive.org/annual-consumer-privacy-notice.pdf) for additional details on how your information may be shared with affiliates and third parties. 
 
+### How To Access, Update, Or Correct Your Information
 
+If you wish to access, update, or correct your information, please contact us as outlined below under Contact Us. We will comply with your request within a reasonable timeframe and within the time limits established by applicable law.
 
-Your Internet browser may offer a 'Do Not Track' feature allowing you to tell us you want to opt out of tracking for some purposes. We may not separately respond to or take any action in response to a 'Do Not Track' setting in your Internet browser.
+### Cookies And Other Online Technologies
 
-### How We Obtain and Use Information
+We collect visitor information by using cookies and pixel tags. A cookie is a small piece of information that a website can send to your browser and may then be stored on your computer's hard drive. It acts as an anonymous tag that identifies your computer, but not you personally.
 
-To service and manage your loan, comply with government regulations, improve our products and services, and better understand your financial situation and needs, we collect and maintain customer and former customer data. We collect information:
+A pixel tag, also known as a clear GIF or web beacon, is an invisible tag placed on certain pages of our website but not on your computer. When you access these pages, pixel tags generate a generic notice of that visit. They usually work in conjunction with cookies, registering when a particular computer visits a particular page. If you turn off cookies the pixel tag will simply detect an anonymous website visit.
 
-  * you provide us on applications, other forms, or verbally over the phone (such as your name, email address, mailing address or other contact information, Social Security, account and phone numbers, assets, income and employment history);
-  * about your transactions with us (such as your loan balance, payment history and other account information);
-  * about your credit history from a credit reporting agency; and
-  * about you or your property from business partners and service providers (such as a property appraisal or purchase contracts).
+You may set your browser to warn you when placement of a cookie is requested, and decide whether or not to accept it. However, some of the features available on the site may not function properly if your cookies are disabled.
 
+### Google Analytics and Adobe Analytics
 
+We may use tools called “Google Analytics” or “Adobe Analytics” to collect information about use of our sites. These tools collect information such as how often users visit a site, what pages they visit, when they do so, and what other sites they used prior to coming to this site. We use the information we get from these tools only to improve this site. Google Analytics and Adobe Analytics collect only the IP address assigned to you on the date you visit this site, rather than your name or other identifying information. We do not combine the information collected through the use of these tools with personally identifiable information. Although Google Analytics and Adobe Analytics plant a permanent cookie on your web browser to identify you as a unique user the next time you visit this site, the cookie cannot be used by anyone but Google or Adobe. Google’s ability to use and share information collected by Google Analytics about your visits to this site is restricted by the [Google Analytics Terms of Service](http://www.google.com/analytics/ce/nrs/terms/us.html) and the [Google Privacy Policy](http://www.google.com/policies/privacy/ "Google Privacy Policy"). Adobe’s ability to use and share information collected by Adobe Analytics about your visits to this site is restricted by [Adobe Analytics Terms of Service](http://www.adobe.com/legal/terms.html) and the [Adobe Privacy Policy](http://www.adobe.com/privacy.html "Adobe Privacy Policy").You can prevent Google Analytics and Adobe Analytics from recognizing you on return visits to this site by disabling cookies on your browser.
 
-We only disclose this data to third parties that assist us in providing vital services to you (such as credit reporting agencies, regulators, data processing providers, loan investors, and monthly statement vendors). These service providers are contractually bound to keep the information confidential and not use it for any other purposes.
+### How Long Do We Keep Information?
 
-We do not allow third parties to directly collect your personal information from websites we maintain.
+We will retain your information for the period necessary to fulfill the purposes outlined in this Online Privacy Policy unless a longer retention period is required or permitted by law.
 
-### Your Options Under This Notice
+### "Do Not Track" Features
 
-You may limit how we share your personal information. This is called a right to "opt out". You have two options to consider:
+Your Internet browser may offer a ‘Do Not Track’ feature allowing you to tell us you want to opt out of tracking for some purposes. We may not separately respond to or take any action in response to a ‘Do Not Track’ setting in your Internet browser.
 
-  * Continue receiving product and services offers without taking any action.
-  * Opt out of information sharing. If you want to opt out, please call us toll-free at (866) 586-9210. Please have your account and billing information available when you call.
+### Linking To Other Sites
 
+We may provide links to third party sites, such as credit bureaus, service providers or merchants. If you follow links to sites not affiliated or controlled by PennyMac, you should review their privacy and security policies and other terms and conditions, as they may be different from those of our Sites. PennyMac does not guarantee and is not responsible for the privacy or security of these sites, including the accuracy, completeness, or reliability of their information.
 
+### Advertising
 
-If you opt out we will continue to share non-public personal information with our service providers (such as monthly statement vendors), and with third parties as required or permitted by law (such as credit reporting agencies).
+PennyMac uses information described in this Notice to help advertise our products and services, including prescreened offers of credit, in a variety of ways. We use such information to present tailored ads, to you, analyze the effectiveness of our ads, and determine whether you might be interested in new products or services.
 
-Notice to CA Residents: We will provide a separate short form notice describing the rights of California residents to opt out under California law, including rights to opt-out of affiliate sharing. We will only share non-public personal information as required or permitted by law.
+#### How we tailor ads:
 
-Notice to ND Residents: We will only share information with our service providers and with third parties as required or permitted by law. We may also disclose your non-public personal information with your written consent.
+Relationship based advertising: In order to help make our advertising informative and useful, we may use information about your relationship with us to help determine which advertisements or offers to present to you.
 
-Notice to VT Residents: We will not share non-public personal information with anyone except our service providers and third parties as required or permitted by law. We will share transaction and experience information (such as your loan balance and payment history) within the PennyMac family of companies.
+Online Behavioral Advertising: We use third party advertising companies to collect nonpersonally identifiable information to provide targeted display advertisements, likely to be of greater interest to you, through participating publishers and advertisers. To learn more about online behavioral advertising or to opt-out of this type of advertising, please click on the following link: [www.networkadvertising.org.](http://www.networkadvertising.org/)
 
-### How We Protect Your Information
+Please note that if you opt out, you may still receive online advertising from PennyMac. Opting out from a specific third party site means that the ads you receive will not be based on your choices or behavior.
 
-We strive to safeguard your data. We do this by:
+Direct Marketing: If you prefer we not deliver you marketing offers in email, postal mail or through telemarketing, you may manage your direct marketing by contacting us, see contact information below.
 
-  * setting policies and procedures for carefully handling your information;
-  * limiting employee access to sensitive information;
-  * protecting against unauthorized access to customer data using data encryption, authentication, and virus detection technology;
-  * requiring service providers who do business with us to comply with privacy laws;
-  * auditing company security practices;
-  * conducting background checks on all employees and providing privacy guidelines after hiring.
+Important Reminder:
 
+In order for online behavioral advertising opt outs from our Sites and on other sites to work on your device, your browser must be set to accept cookies. If you delete cookies, buy a new device, access our Site or other sites from a different device, login under a different screen name, or change web browsers, you will need to opt-out again. If your browser has scripting disabled, you do not need to opt out, as online behavioral advertising technology does not work when scripting is disabled. Please check your browser's security settings to validate whether scripting is active or disabled.
 
+### Protecting Children's Privacy Online
 
-* This privacy notice applies to PennyMac Loan Services, LLC; PNMAC Capital Management, LLC (PCM); PNMAC Mortgage Opportunity Fund Investors, LLC; Private National Mortgage Acceptance Company, LLC; and PNMAC Mortgage Co., LLC.
+Our sites and services are not intended for children under the age of thirteen (13). We do not knowingly collect personal information from children under the age of 13 without parental consent. Visit the [Federal Trade Commission](https://www.ftc.gov/news-events/media-resources/protecting-consumer-privacy/kids-privacy-coppa) website for more information about the Children's Online Privacy Protection Act (COPPA).
 
-Questions about your privacy? Call us at [(866) 586-9210](tel:1-866-586-9210)
+### What Security Measures Are Used To Protect Your Information?
 
-Effective Date of This Notice: January 21, 2014
+We take reasonable measures, including the implementation and maintenance of physical, electronic, and procedural safeguards, in an effort to assure the security, integrity and accuracy of information under our control, in accordance to applicable federal and state laws. This includes device safeguards, and secured files and buildings, as well as oversight of our third party service providers. Please note that electronic communication, particularly email, is not necessarily secure against interception.
+
+### Your Consent
+
+By using our site, you consent to this Online Privacy Policy.
+
+### Changes To This Online Privacy Policy
+
+This Online Privacy Policy is subject to change from time to time. If we make any changes, we will post the revised policy on this page with a new “Effective Date.” Any changes to this Online Privacy Policy will become effective when posted unless indicated otherwise. Your use of the site following these changes means that you accept the revised Online Privacy Policy.
+
+### Contact Us
+
+If there are any questions regarding this Online Privacy Policy, you may contact us using the information below.
+
+PennyMac Loan Services, LLC  
+Attention: Corporate Privacy  
+PO Box 788  
+Moorpark, CA 93020-9903  
+P: [(866) 601-3518](tel:1-866-601-3518)
+
+Effective Date: June 30, 2015
