@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the visitkinosaki.com privacy policy that was archived on 2015-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150621071100id_/http%3A//visitkinosaki.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the visitkinosaki.com privacy policy that was archived on 2015-10-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151026074032id_/http%3A//visitkinosaki.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -56,17 +56,6 @@
 <body id="pm-" class="pc pm-C10 second">
 		<a name="top"></a>
 			<div id="header">
-<div id="side-like-share">
-<ul>
-<li id="bubble-mrg"><img src="/img/bubble_hi.png"></li>
-<li><a class="fb-like" href="http://www.facebook.com/plugins/like.php?href=http://visitkinosaki.com/" onclick="ga('send','event','button','click','FB like');" target="_blank">
-<img src="/img/btn_like03.png">
-</a></li>
-<li><a href="http://www.facebook.com/sharer.php?u=http://visitkinosaki.com/" onclick="ga('send','event','button','click','FB share');" target="_blank">
-<img src="/img/btn_share03.png">
-</a></li>
-</ul>
-</div>
 <div class="header-inner">
 	<div id="header-top" class="clearfix">
 		<div id="logo"><h1><a href="/">Visit Kinosaki Onsen. The best onsen town in Japan, located near to Kyoto.</a></h1></div>
@@ -125,7 +114,7 @@
 				<td>Guests
 					<select id="StayNinzu">
 						<option value="1">1</option>
-						<option value="2" selected="selected">2</option>
+						<option value="2" selected="">2</option>
 						<option value="3">3</option>
 						<option value="4">4</option>
 						<option value="5">5</option>
@@ -145,14 +134,23 @@
 	$('.find-room-date').datepicker();
 	$('.find-room-date').datepicker("option", "dateFormat", 'yy/mm/dd');
 	$('.find-room-date').datepicker("option", "minDate", 0);
+
 	$('#check-in').change(function() {
+		var checkin = new Date($('#check-in').val());
 		if($('#check-out').val()==''){
-			var checkin = new Date($('#check-in').val());
 			checkin.setDate(checkin.getDate() + 1);
 			$('#check-out').val([checkin.getFullYear(), checkin.getMonth() + 1, checkin.getDate()].join('/'));
+		}else{
+			var checkout = new Date($('#check-out').val());
+			if(checkin >= checkout){
+				checkin.setDate(checkin.getDate() + 1);
+				$('#check-out').val([checkin.getFullYear(), checkin.getMonth() + 1, checkin.getDate()].join('/'));
+			}
+
 		}
 	});
 	$('#room-search-btn').click(function (){
+
 		var checkin   = $('#check-in').val();
 		var checkout  = $('#check-out').val();
 		var StayNinzu = $('#StayNinzu').val();
@@ -177,9 +175,9 @@
 						if(StayNights < 1){
 							alert('The dates entered are invalid.');
 						}else{
-							ga('send','event','button','click','concierge search');
-							var url = 'http://www.kinosaki-web.com/en/yado/?CheckIn_Month='+CheckIn_Month+'&CheckIn_Day='+CheckIn_Day+'&CheckIn_Year='+CheckIn_Year+'&StayNights='+StayNights+'&RateType=1&StayNinzu='+StayNinzu+'&StayRooms=1';
-							window.open(url, '_blank');
+						ga('send','event','button','click','inn search');
+						var url = 'http://www.kinosaki-web.com/en/yado/?CheckIn_Month='+CheckIn_Month+'&CheckIn_Day='+CheckIn_Day+'&CheckIn_Year='+CheckIn_Year+'&StayNights='+StayNights+'&RateType=1&StayNinzu='+StayNinzu+'&StayRooms=1';
+						window.open(url, '_blank');
 						}
 					}else{
 						alert('Please enter the correct check-out date.');
@@ -295,6 +293,7 @@ We reserve the right, at our discretion, to update or revise this privacy policy
 					</div>
 				</div>
 				<div id="side-navi">
+					<div id="fix_box" style="width:200px;">
 						<div class="pm-navi-list" id="pm-page-list">
 						<div id="pm-page-list-tit"></div>
 							<ul>
@@ -344,31 +343,63 @@ We reserve the right, at our discretion, to update or revise this privacy policy
 					<ul>
 						<li>
 							<a href="/hot-springs/yukata/">
-								<img src="/upimg/banner/5ed87fb6d4e8cc24e0697755500eb72d.jpg?161059" alt="How to wear a yukata">
+								<img src="/upimg/banner/5ed87fb6d4e8cc24e0697755500eb72d.jpg?164031" alt="How to wear a yukata">
 							</a>
 						</li>
 						<li>
 							<a href="/hot-springs/how-to/">
-								<img src="/upimg/banner/3bce8b98c2979f59e8cc8e457b327f9e.jpg?161059" alt="How to use a Japanese bath">
+								<img src="/upimg/banner/3bce8b98c2979f59e8cc8e457b327f9e.jpg?164031" alt="How to use a Japanese bath">
 							</a>
 						</li>
 						<li>
 							<a href="/lodging/etiquette/">
-								<img src="/upimg/banner/f58ff6ca87617abefc3eb47aabced9fb.jpg?161059" alt="Ryokan Etiquette">
+								<img src="/upimg/banner/f58ff6ca87617abefc3eb47aabced9fb.jpg?164031" alt="Ryokan Etiquette">
 							</a>
 						</li>
 						<li>
 							<a href="/dining/tips/">
-								<img src="/upimg/banner/9a10788e686b8256d0973b91520aecbd.jpg?161059" alt="Japanese dinning tips">
+								<img src="/upimg/banner/9a10788e686b8256d0973b91520aecbd.jpg?164031" alt="Japanese dinning tips">
 							</a>
 						</li>
 					</ul>
 				</div>
 				<div id="side_sp">
 					<span><img src="/qr_code/php/qr_img.php?d=http://visitkinosaki.com/privacy/&amp;t=J&amp;s=3"></span>
-				</div>			</div>
+				</div>				</div>
+			</div>
 		</div>
 	</div>
+	<script>
+	$(function(){
+		var contentHeight = $("html, body").height();
+		var windowHeight = $(window).height();
+		var target = $("#fix_box");
+		var targetHeight = target.outerHeight();
+		var targetPosition = target.position();
+		var footer = $("#footer");
+		var footerHeight = footer.outerHeight();
+		$(window).resize(function(){
+			windowHeight = $(this).height();
+		});
+		$(window).scroll(function(){
+			var scrollTop = $(this).scrollTop();
+			var visibleBottom = scrollTop + windowHeight;
+			var targetBottom = targetPosition.top + targetHeight;
+			if(visibleBottom >= targetBottom) {
+				if(footerHeight > contentHeight - visibleBottom) {
+					target.css({position:"fixed", bottom: footerHeight - (contentHeight - visibleBottom)});
+				} else {
+					target.css({position:"fixed", bottom: 0});
+				}
+			} else {
+				target.css({position:"static", bottom: "auto"});
+			}
+		});
+	});
+	</script>
+
+
+
 	<div id="footer">
 		<div id="pm-pankuzu">
 			<div class="pm-pankuzu-inner">
@@ -446,10 +477,9 @@ We reserve the right, at our discretion, to update or revise this privacy policy
 				<div class="clearfix">
 					<div id="footer-contact" class="clearfix">
 						<dl>
-							<dt class="menu-tit">Toyooka City Hall Tourism Division</dt>
-							<dd>2-4 Chuo-cho<br>
-					Toyooka, Hyogo 668-8666<br>
-					TEL: +81-796-21-9069
+							<dt class="menu-tit">Owner: Toyooka City Hall.<br>Operator: Zentan Bus Co.Ltd</dt>
+							<dd>96 Yushima, Kinosaki-cho,<br>Toyooka, Hyogo 669-6101<br>
+					TEL: +81-796-32-0013
 					<div id="contact-us"><a href="/contact/">Email Us</a></div></dd>
 						</dl>
 					</div>
@@ -477,7 +507,7 @@ We reserve the right, at our discretion, to update or revise this privacy policy
 		</div>
 		<div id="footer-sec03">
 			<div class="footer-inner">
-				Copyright © 2015. Toyooka City Hall Tourism Division, All Rights Reserved.
+				Copyright © 2015. Toyooka City Hall, All Rights Reserved.
 			</div>
 		</div>
 	</div>
