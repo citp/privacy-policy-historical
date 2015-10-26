@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fixrunner.com privacy policy that was archived on 2015-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150412104845id_/http%3A//www.fixrunner.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fixrunner.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026163548id_/http%3A//www.fixrunner.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for FixRunner.com
 
