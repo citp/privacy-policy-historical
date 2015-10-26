@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the excelr.com privacy policy that was archived on 2015-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150406012933id_/http%3A//www.excelr.com/privacy-policy/privacy-policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the excelr.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026184348id_/http%3A//www.excelr.com/privacy-policy/privacy-policy/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY/
 
