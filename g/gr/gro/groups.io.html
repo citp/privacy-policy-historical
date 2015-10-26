@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the groups.io privacy policy that was archived on 2015-03-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150321172559id_/https%3A//groups.io/static/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the groups.io privacy policy that was archived on 2015-10-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151026235521id_/https%3A//groups.io/static/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head></head><body class="fuelux"><header>
     <meta charset="utf-8">
@@ -15,7 +15,7 @@
     <script src="/bootstrap/3.2.0/js/bootstrap.min.js"></script>
 
     <link href="/font-awesome/4.1.0/css/font-awesome.css" rel="stylesheet">
-    <link href="/fonts/style.css" rel="stylesheet">
+    
     
     
     
@@ -101,6 +101,13 @@
             -o-transform: rotate(19deg);
             transform: rotate(19deg);
         }
+         .navbar .brand {
+            max-height: 40px;
+            overflow: visible;
+            padding-top: 0;
+            padding-bottom: 0;
+        }
+        .navbar a.navbar-brand {padding: 9px 15px 8px; }
     </style>
 <title>Privacy Policy</title>
 </header>
@@ -108,21 +115,21 @@
 
 
 <div class="navbar navbar-inverse" role="navigation">
-  <div class="navbar-header">
-    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-      <span class="sr-only">Toggle navigation</span>
-      <span class="icon-bar"></span>
-      <span class="icon-bar"></span>
-      <span class="icon-bar"></span>
-    </button>
-    <a class="navbar-brand" href="/"><i class="icon-groupsio"></i> GROUPS.IO</a>
-  </div>
-  <div class="collapse navbar-collapse">
-    <ul class="nav navbar-nav pull-right">
-      <li><a href="/login"><i class="fa fa-sign-in"></i> Log In</a></li>
-      <li><a href="/register"><i class="fa fa-user"></i> Sign Up</a></li>
-    </ul>
-  </div>
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a href="/" class="navbar-brand pull-left"><img src="https://groups.io/img/logo150.png" style="margin-top:-60px;margin-right:-40px;margin-left:-40px;" height="150"></a>
+    </div>
+    <div class="collapse navbar-collapse">
+      <ul class="nav navbar-nav pull-right">
+        <li><a href="https://groups.io/login"><i class="fa fa-sign-in"></i> Log In</a></li>
+        <li><a href="https://groups.io/register"><i class="fa fa-user"></i> Sign Up</a></li>
+      </ul>
+    </div>
 </div>
 
 
@@ -222,13 +229,13 @@
   <div class="collapse navbar-collapse" id="footercollapse">
     <ul class="nav navbar-nav">
       <li><a href="http://wingedpig.com/2014/09/23/introducing-groups-io/">About</a></li>
-      <li><a href="/static/transfer">Easy Group Transfer</a></li>
-      <li><a href="/static/pricing">Plans</a></li>
-      <li><a href="/org/groupsio/updates/messages?expanded=1">Updates</a></li>
+      <li><a href="https://groups.io/static/transfer">Easy Group Transfer</a></li>
+      <li><a href="https://groups.io/static/pricing">Plans</a></li>
+      <li><a href="https://groups.io/g/updates/messages?expanded=1">Updates</a></li>
       <li><a href="mailto:support@groups.io">Contact Us</a></li>
       <li><a href="https://groupsio.zendesk.com/hc">Help Center</a></li>
-      <li><a href="/static/tos">Terms</a></li>
-      <li><a href="/static/privacy">Privacy</a></li>
+      <li><a href="https://groups.io/static/tos">Terms</a></li>
+      <li><a href="https://groups.io/static/privacy">Privacy</a></li>
       <li><a href="http://twitter.com/groupsio" target="_blank"><i class="fa fa-twitter fa-lg"></i></a></li>
     </ul>
     <ul class="nav navbar-nav navbar-right">
@@ -248,29 +255,15 @@
   ga('create', 'UA-53632661-1', 'auto');
   ga('send', 'pageview');
 
-$(function(){
- 
-  $(document).on( 'scroll', function(){
- 
-    if ($(window).scrollTop() > 100) {
-      $('.scroll-top-wrapper').addClass('show');
-    } else {
-      $('.scroll-top-wrapper').removeClass('show');
-    }
-  });
-});
 
 $(function(){
- 
   $(document).on( 'scroll', function(){
- 
     if ($(window).scrollTop() > 100) {
       $('.scroll-top-wrapper').addClass('show');
     } else {
       $('.scroll-top-wrapper').removeClass('show');
     }
   });
- 
   $('.scroll-top-wrapper').on('click', scrollToTop);
 });
  
