@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the batteryjunction.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319122837id_/http%3A//www.batteryjunction.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batteryjunction.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026080536id_/http%3A//www.batteryjunction.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Batteryjunction.com | Privacy Policy
+
+## We Value your privacy!
 
 BatteryJunction.com, does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you've specifically requested, when we have your permission, or under the following circumstances:
 
