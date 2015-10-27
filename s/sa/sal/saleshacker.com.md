@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saleshacker.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322105443id_/http%3A//www.saleshacker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saleshacker.com privacy policy that was archived on 2015-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151028000047id_/http%3A//www.saleshacker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Sales Hacker
 
