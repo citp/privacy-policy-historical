@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prolimehost.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615171612id_/http%3A//www.prolimehost.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prolimehost.com privacy policy that was archived on 2015-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151027234417id_/http%3A//www.prolimehost.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Our Privacy Policy | ProlimeHost
 
