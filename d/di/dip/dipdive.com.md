@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dipdive.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630233354id_/http%3A//will.i.am/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dipdive.com privacy policy that was archived on 2015-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151027073401id_/http%3A//will.i.am/privacy-policy) for the most accurate reproduction.*
 
 # will.i.am - privacy policy
 
