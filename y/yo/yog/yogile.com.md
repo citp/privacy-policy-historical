@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yogile.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407030810id_/http%3A//www.yogile.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yogile.com privacy policy that was archived on 2015-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151027070132id_/https%3A//www.yogile.com/privacy) for the most accurate reproduction.*
 
 # Yogile - Easy photo sharing!
 
@@ -55,7 +55,7 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by contact us using the webpage available at [http://www.yogile.com/feedback](https://web.archive.org/feedback)
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by contact us using the webpage available at [https://www.yogile.com/feedback](https://web.archive.org/feedback)
 
 ### Visitors Under Age 13
 
@@ -67,7 +67,7 @@ We have taken the necessary steps to ensure that we are compliant with the CAN-S
 
 ### Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.yogile.com/terms](https://web.archive.org/terms)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [https://www.yogile.com/terms](https://web.archive.org/terms)
 
 ### Your Consent
 
@@ -81,7 +81,7 @@ This policy was last modified on **May 22, 2010**
 
 ### Contacting Us
 
-If there are any questions regarding this privacy policy you may contact us at the webpage available at [http://www.yogile.com/feedback](https://web.archive.org/feedback) to contact us.
+If there are any questions regarding this privacy policy you may contact us at the webpage available at [https://www.yogile.com/feedback](https://web.archive.org/feedback) to contact us.
 
 ### Privacy Policy Customer Pledge
 
