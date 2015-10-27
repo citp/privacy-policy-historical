@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homebusinesslabs.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619042054id_/http%3A//hangouts.homebusinesslabs.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homebusinesslabs.com privacy policy that was archived on 2015-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151027100340id_/http%3A//hangouts.homebusinesslabs.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy
 
