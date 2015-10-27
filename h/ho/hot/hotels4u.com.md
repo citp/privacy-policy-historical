@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hotels4u.com privacy policy that was archived on 2011-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110309233022id_/http%3A//www.hotels4u.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotels4u.com privacy policy that was archived on 2015-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151027055559id_/http%3A//www.hotels4u.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# 
+# Privacy and Cookies | Legal Information | Hotels4u.com
 
 Privacy Policy  
 Hotels4u.com Limited’s Privacy Policy sets out what information we collect, how we collect it, and how we use it 
@@ -41,3 +41,180 @@ We have taken all reasonable steps to have in place appropriate security measure
 
 CHANGES TO THIS POLICY   
 Any changes to this Policy will be either posted on our website, or made available on request. 
+
+Cookie Usage Policy   
+A cookie, also known as an HTTP cookie, web cookie, or browser cookie, is a piece of data stored by a website within a browser, and then subsequently sent back to the same website by the browser. Cookies were designed to be a reliable mechanism for websites to remember things that a browser had done there in the past, which can include having clicked particular buttons, logging in, or having read pages on that site months or years ago. 
+
+Cookies can be session/temporary cookies, which mean they only stay on your machine whilst you are on our site and as soon as you close your browser these cookies will be deleted, or they can be permanent cookies, which means they stay on your computer even after you leave our website until you manually remove them or your browser deletes them after a set period of time.   
+[App_LocalResources/ucPrivacyPolicy.ascx.resx](https://web.archive.org/web/20151027055559id_/http%3A//www.hotels4u.com/App_LocalResources/ucPrivacyPolicy.ascx.resx)   
+The majority of web browser settings are set for you to accept both our cookies and third party cookies. You can though adjust your browser settings to accept certain cookies, to prompt you to accept or refuse cookies each time on is sent or to reject all cookies outright. If you would like to change your browser settings you should be able to find this through the toolbar of the your web browser but we do recommend that for the best experience on our site that you set your browser to accept our own cookies and third party cookies. You are able to set your browser to reject our cookies on your machine, by configuring your browser settings, but if you do choose to do this, you will find that certain features on the site will not work correctly and may therefore affect your experience on our site. 
+
+| 
+
+Type of Cookies
+
+| 
+
+Purpose
+
+| 
+
+Name of Cookie  
+  
+---|---|---  
+|  |   
+  
+Essential Site Cookies
+
+| 
+
+These cookies are essential as they allow our website to work correctly so that you can complete your booking. These cookies expire at the end of the session.
+
+| 
+
+UserID
+
+Search Display
+
+result
+
+result0
+
+FormsAuthentication.SetAuthCookie
+
+UserName
+
+Password
+
+AccessLevel
+
+c = new HttpCookie("SearchDisplay", dr["DisplayType"].ToString());
+
+cacheRolesInCookie
+
+cookieless
+
+ASP.NET_SessionId  
+  
+Analytical Cookies
+
+| 
+
+These cookies allow us to collect information about how users are using the site in order to collect and compile anonymous aggregate information about the site. We use this information to enable us to provide you with high quality content and user experience. Some cookies expire at the end of the session and most will expire within a month. There are a few cookies that will remain on your computer for longer.
+
+| 
+
+PromotionCode
+
+Tealeaf
+
+SIVisitor
+
+_utma
+
+_utmb
+
+_utmc
+
+_utmz
+
+_wt.user-
+
+_wt.control-
+
+PAGEVIEW_END_PARAMETER
+
+JSESSIONID
+
+ACOOKIE  
+  
+Third Party Analytical Cookies
+
+| 
+
+Third party cookies help us compile anonymous, aggregate information about the parts of the site that visited the most and also to track how our advertising is performing. We use this information to enable us to provide you with high quality content and user experience and for us to see how successful our own advertising is performing elsewhere on the internet. Some of the cookies expire at the end of the session but most will remain on your computer for over a year or two.
+
+| 
+
+affiliate
+
+tduid
+
+_bcvm_vrid
+
+mc
+
+d  
+  
+Social Cookies
+
+| 
+
+Social network will use third party cookies to allow us to display social network sharing buttons on our site.
+
+| 
+
+pid
+
+guest_id
+
+k
+
+twll
+
+datr
+
+s
+
+locale
+
+csm
+
+xs
+
+lu
+
+c_user
+
+PREF
+
+NID  
+  
+  
+Hotels4u.com £1,000 Hotel Credit Prize Draw Terms and Conditions 
+
+1 By entering this Prize Draw you agree to these Terms and Conditions.
+
+2\. This Prize Draw is open to those who sign up for the first time during the entry period to receive e-mail newsletters from Hotels4u.com, except for employees of Hotels4u.com or any other Thomas Cook company, their immediate family members, or anyone else associated with this Prize Draw.
+
+3\. 3 You must be over 18 years of age to enter.
+
+4\. To enter you must provide your own e-mail address via the Newsletter sign up link on the Hotels4u.com web site. Only valid/genuine e-mail addresses will be eligible. You may only enter once. Multiple entries will be disqualified.
+
+5\. The period for entries is from 10 a.m. on Friday 27th June 2014 until 12.00 midnight on Tuesday 30th September 2014.
+
+6\. The draw will take place on Friday 17th October 2014, when one winner will be selected at random from all valid email addresses received as described above. The winner will notified via their entry email address no later than Friday 31st October 2014 and must respond to claim their prize within 14 days. If no response is received, Hotels4u.com reserve the right to re-draw a new winner.
+
+7\. There is one prize of £1,000 of credit to be used by the winner on a single hotel-only booking with Hotels4u.com. The booking can be for any number of people and any number of rooms, but the winner must be one of those who stays at the chosen hotel. The hotel must be one that is offered via the Hotels4u.com web site. 
+
+8\. If the cost of the hotel booking made is more than £1,000, the winner must pay any additional sum due at the time of booking. If the cost is less than £1,000, no credit or refund will be given. The credit can be used for a room-only booking or a bed and breakfast booking, but cannot be used to pay for any other services or extras that the winner may wish to add to their booking. The winner and their party will be responsible for all costs of travelling to/from their chosen hotel. 
+
+9\. The hotel booking made using the £1,000 of credit must be for a stay that takes place/is completed between 1st November 2014 and 31st October 2015. The booking must be made during this period also. All hotels/rooms are subject to availability at the time the booking request is made. 
+
+10\. To use the £1,000 of credit, the winner must make the hotel booking only via the prize redemption telephone number that will be supplied to them by Hotels4u.com. The credit cannot be used for a booking made in any other way, and cannot be applied retrospectively to a booking that has not been made via the prize redemption phone number. If the booking is not made before 31st October 2015, the credit will expire. The normal bookings conditions of Hotels4u.com as set out on the web site will apply, except to the extent that they are varied by these Prize Draw terms and conditions. 
+
+11\. Hotels4u.com accepts no responsibility for late entries, delayed entries or non-receipt of entries due to any reason whatsoever, including technical faults or inability to access the Internet or the Hotels4u.com web site. 
+
+12\. The winner’s full name may be posted on the Hotels4u.com Facebook and Twitter accounts, and may be used for future PR activity. 
+
+13\. The prize is not transferable or refundable, and cannot be sold on. There is no cash or other alternative to the prize, which must be taken as offered. 
+
+13\. Hotels4u.com’s decision will be final and no correspondence or discussion shall be entered into. 
+
+14\. Hotels4u.com reserves the right to substitute the prize for an alternative one of its choosing which has a value the same or greater than the original prize in the event of circumstances outside of its control. 
+
+15\. By entering the Prize Draw the winner is agreeing to receive the Hotels4u.com e-mail Newsletter. 
+
+16\. These terms and conditions shall be governed by English law and the exclusive jurisdiction of the English courts. 
+
+16\. Promoter: Hotels4u.com Ltd. Registered Office: The Thomas Cook Business Park, Coningsby Road, Peterborough, PE3 8SB. 
