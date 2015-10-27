@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unisfair.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511052918id_/http%3A//www.intercall.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unisfair.com privacy policy that was archived on 2015-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151027072923id_/http%3A//www.intercall.com/privacy.php) for the most accurate reproduction.*
 
 # InterCall Privacy Policy | Conference Call Company
 
@@ -131,6 +131,6 @@ Omaha, NE 68154
 
 ## HIPPA Privacy Notice
 
-[Download HIPPA Privacy Notice](http://www.west.com/pdfs/West_HIPAA_Privacy_Notice.pdf)
+[Download HIPPA Privacy Notice](http://www.west.com/wp-content/uploads/2015/05/HIPAA-Privacy-Notice-Updated-March-2015.pdf)
 
  
