@@ -1,115 +1,193 @@
-> *The following text is extracted and transformed from the mybusiness.com.au privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610003911id_/http%3A//www.mybusiness.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybusiness.com.au privacy policy that was archived on 2015-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151027222943id_/http%3A//www.mybusiness.com.au/privacy-policy) for the most accurate reproduction.*
 
-# CommStrat Pty Ltd Privacy Policy - My Business
+# Privacy Policy - My Business
 
-In this policy, "us", "we" or "our" means CommStrat Pty Ltd t/a Hallmark Edition Pty  (ABN 43 102 605 434) and its related bodies corporate. 
+This Privacy Policy sets out the approach which SME Media will take in relation to the treatment of Personal Information. It includes information on how SME Media collects, uses, discloses and keeps secure, individuals’ personal information. It also covers how SME Media makes the personal information it holds available for access to and correction by the individual.
 
-This policy sets out:
+This policy has been drafted having regard to SME Media’s  obligations under the Privacy Act 1988 (including the National Privacy Principles) (the Privacy Act).
 
-  * what kind of information we collect;
-  * how we collect it;
-  * why we collect it;
-  * how we use it;
-  * how we disclose it;
-  * opting in and out;
-  * management and security;
-  * how to seek access to and update your personal information; and
-  * how to contact us.
+This policy is a public document and has been prepared in light of National Privacy Principle 5, Openness.
 
+**1\. Collection**
 
+1.1 SME MEDIA will only collect Personal Information where the information is necessary for SME MEDIA to perform one or more of its functions or activities. In this context, “collect” means gather, acquire or obtain by any means, information in circumstances where the individual is identifiable or identified.
 
-We are bound by the National Privacy Principles contained in the Privacy Act 1988 (Cwth) (subject to exemptions that apply to us under that Act). 
+1.2 SME MEDIA collects Personal Information primarily to supply employees of member organisations and individuals who obtain SME MEDIA products and services directly from SME MEDIA with information and details of it’s products and services. SME MEDIA also collects and uses Personal Information for secondary purposes including:
 
-We may, from time to time, review and update this policy, including to take account of new or amended laws, new technology and/or changes to our operations. All personal information held by us will be governed by the most recently updated policy. It is your responsibility to review and check this policy. We will not actively update you on changes to this policy.
+1   provision of products and services;
 
-This policy was last updated in October 2011.
+2   accounting purposes;
 
-**What information we collect**
+3   business planning and product development.
 
-In general, the personal information we collect about you includes (but is not limited to) your name, contact details (including phone numbers and addresses), information about your occupation and possibly financial information (including your credit card information) if you make transactions through our online products.
+1.3 SME MEDIA will notify individuals (including, but not limited to, our customers) of the matters listed below at the time of collecting any Personal Information:
 
-We also collect information about you that is not personal information. For example, we may collect data relating to your activity on our websites (including IP addresses) via tracking technologies such as cookies, or we may collect information from you in response to a survey. We generally use this information to report statistics, analyse trends, administer our services, diagnose problems and target and improve the quality of our products and services. To the extent this information does not constitute personal information, the National Privacy Principles do not apply and we may use this information for any purpose and by any means whatsoever. 
+1   the main reason that we are collecting Personal Information (this reason will be the Primary Purpose);
 
-We generally advise that you do not publish or communicate personal information, or at least limit the personal information that you publish or communicate, to the public via our services, such as in our classifieds, forums or blogs ( **Non-Confidential Information** ). You acknowledge that we cannot control any third party collection or use of your Non-Confidential Information. You agree that we may use and disclose Non-Confidential Information for any purpose and by any means whatsoever.
+2   other related Uses or Disclosures that we may make of the Personal Information(Secondary Purposes);
 
-**How we collect it**
+3   our identity and how individuals can contact us, if this is not obvious;
 
-We may collect your personal information from a variety of sources, including from you, advertisers, mailing lists, recruitment agencies, contractors and business partners. 
+4   that individuals can access the Personal Information that SME MEDIA holds about them;
 
-We may collect your personal information when you request or acquire a product or service from us, register with us as a member, provide a product or service to us, complete a survey or questionnaire, enter a competition or event, contribute in a fundraising event, participate in our services (including blogs and forums) or when you communicate with us by e-mail, telephone or in writing (for example if you contact customer service to make a complaint or provide feedback). 
+5   that individuals should contact SME MEDIA (even if they are not a member or an employee of a member) if they wish to access or correct Personal Information collected by us or have any concerns in relation to Personal Information;
 
-If, at any time, you provide personal or other information about someone other than yourself, you warrant that you have that person’s consent to provide such information for the purpose specified.
+6   the organisations or types of organisations to whom we usually Disclose the Personal Information;
 
-**Why we collect it**
+7   where applicable, any law that requires the Personal Information to be collected;
 
-The primary purpose for which we collect information about you is to provide you with products and services you have requested. We also collect information about you for the purposes outlined below. 
+8   the consequences (if any) for the individual if all or part of the Personal Information is not provided to SME MEDIA.
 
-We may state a more specific purpose at the point we collect your information. 
+1.4 Where it is not practicable for SME MEDIA to notify individuals of all of the Collection Information before the collection of Personal Information, SME MEDIA will ensure that individuals are notified of the Collection Information as soon as possible after the collection. SME MEDIA will provide “post collection notification” in those circumstances where it is not practicable to notify individuals about the collection of their personal information before it is collected.
 
-If you do not provide us with the information that we request, we may not be able to provide you with our products or services. For example, if you do not register as a member of a website, you will not be able to access features or services that are reserved for members only.
+1.5 SME MEDIA will not collect Sensitive Information from individuals except with express consent from the individual and only where it is necessary for SME MEDIA to collect such information for an activity or function.
 
-**How we use it**
+1.6 SME MEDIA will not collect Personal Information secretly or in an underhanded way.
 
-In addition to the primary purpose outlined above, we may use the personal information we collect, and you consent to us using your personal information:
+1.7 SME MEDIA will take steps to ensure that individuals on purchased lists are or have been notified of the information as outlined at 1.3.
 
-  * to provide you with news and information about our products and services;
-  * to send marketing and promotional material that we believe you may be interested in. This material may relate to any of CommStrat’s businesses or a third party business which we believe may be of interest to you;
-  * for purposes necessary or incidental to the provision of goods and services to you;
-  * to personalise and customise your experiences;
-  * to manage and enhance our products and services;
-  * to communicate with you, including by email, mail or telephone;
-  * to conduct competitions or promotions on behalf of CommStrat and selected third parties;
-  * to verify your identity;
-  * to investigate any complaints about or made by you, or if we have reason to suspect that you are in breach of any of our terms and conditions or that you are or have been otherwise engaged in any unlawful activity; and/or
-  * as required or permitted by any law (including the Privacy Act).
+**2\. Use**
 
+2.1 SME MEDIA will obtain an individual’s consent for Use of non-sensitive Personal Information for Secondary Purposes at the time of collection, unless the Use is a related Secondary Purpose which would be within the relevant individual’s Reasonable Expectations.
 
+2.2 SME MEDIA Uses Personal Information primarily for the purposes listed in 1.2 above.
 
+2.3 If SME MEDIA relies on the Direct Marketing exception to Direct Market to individuals it will ensure that:
 
-**How we disclose it**
+1   individuals are clearly notified of their right to Opt Out from further Direct Marketing; and
 
-We may disclose personal information, and you consent to us disclosing your personal information, to other members of the CommStrat Group (in which case, your personal information will be collected, used, disclosed, managed and stored in accordance with this policy). 
+2   if the individual Opts Out of all Direct Marketing the Opt Out will be respected by SME MEDIA and implemented free of charge.
 
-We may also disclose personal information, and you consent to us disclosing your personal information, to third parties:
+2.4 SME MEDIA will not use Sensitive Information for Direct Marketing.
 
-  * engaged by us to perform functions or provide products and services on our behalf, such as newsagents, processing credit card information, mailouts, debt collection, marketing, research and advertising; 
-  * that are our agents, business partners or joint venture entities or partners; 
-  * that sponsor or promote any competition that we conduct or promote via our services; 
-  * authorised by you to receive information held by us; 
-  * as part of any investigation into you or your activity, for example, if we have reason to suspect that you have committed a breach of any of our terms and conditions, or have otherwise been engaged in any unlawful activity, and we reasonably believe that disclosure is necessary to the Police, any relevant authority or enforcement body, or your Internet Service Provider or network administrator; 
-  * as part of a sale (or proposed sale) of all or part of our business; and/or 
-  * as required or permitted by any law (including the Privacy Act). 
+2.5 SME MEDIA may use Personal Information to avoid an imminent threat to a person’s life or to public safety. It may also use Personal Information for reasons related to law enforcement or internal investigations into unlawful activities.
 
+2.6 SME MEDIA will not use Personal Information without taking reasonable steps to ensure that the information is accurate, complete and up to date.
 
+2.7 SME MEDIA will not attempt to match de-identified or anonymous data collected through surveys or such online devices as “cookies”, with information identifying an individual, without the consent of the relevant individual.
 
-**Opting in or out**
+**3\. Disclosure**
 
-At the point we collect information from you, whether that be for a subscription, attending an event, or purchasing a product, you “opt-in” and consent to us using or disclosing your personal information in accordance with this policy or any applicable law. For example, you have “opt-in” to receive further information or communications from our advertisers and supporters.
+3.1 SME MEDIA may Disclose Personal Information to related or unrelated third parties if consent has been obtained from the individual.
 
-You will generally be given the opportunity to “opt out” from receiving communications from us or from third parties that send communications to you in accordance with this policy. For example, you will be given the option to unsubscribe from e-newsletters and other marketing or promotional material sent by us. You may “opt out” from receiving these communications by clicking on an unsubscribe link at the end of an email.
+3.2 SME MEDIA may Disclose Personal Information to unrelated third parties to enable outsourcing of functions where that Disclosure or Use is for a related Secondary Purpose and has been notified to individuals or where such Disclosure is within the individual’s Reasonable Expectations.
 
-If you receive communications purporting to be connected with us or our services that you believe have been sent to you other than in accordance with this policy, or in breach of any law, please write to us directly.
+3.3 SME MEDIA will take reasonable steps to ensure that its contracts with third parties include requirements for third parties to comply with the Use and Disclosure requirements of the Privacy Act.
 
-**Management and security**
+3.4 In the rare event that SME MEDIA is required to disclose Personal Information to law enforcement agencies, government agencies or external advisors SME MEDIA will only do so in accordance with the Privacy Act or any other relevant Australian legislation.
 
-Other than in relation to Non-Confidential Information, we will take all reasonable steps to protect the personal information that we hold from misuse, loss, or unauthorised access, including by means of firewalls, pass word access, secure servers and encryption of credit card transactions. 
+3.5 SME MEDIA may Disclose Personal Information to avoid an imminent threat to a person’s life or to public safety.
 
-However, you acknowledge that the security of online transactions and the security of communications sent by electronic means or by post cannot be guaranteed. You provide information to us via the internet or by post at your own risk. We cannot accept responsibility for misuse or loss of, or unauthorised access to, your personal information where the security of information is not within our control. 
+3.6 If a Disclosure is not for a Primary Purpose; is not for a related Secondary Purpose; or upfront consent has not been obtained, SME MEDIA will not Disclose Personal Information otherwise than in accordance with the exceptions set out at 3.1 to 3.6 above.
 
-You acknowledge that we are not responsible for the privacy or security practices of any third party (including third parties that we are permitted to disclose your personal information to in accordance with this policy or any applicable laws). The collection and use of your information by such third party/ies may be subject to separate privacy and security policies. 
+3.7 SME MEDIA does not generally share its customer lists on a commercial basis with third parties but if it did, it would only do so if we had the appropriate consent of the individual involved.
 
-If you suspect any misuse or loss of, or unauthorised access to, your personal information, please let us know immediately.
+**4\. Information Quality**
 
-**Accessing and updating your information and how to contact us**
+4.1 SME MEDIA will review, on a regular and ongoing basis, its collection and storage practices to ascertain how improvements to accuracy can be achieved.
 
-Subject to some exceptions in the Privacy Act, you have the right to seek access to and update the personal information we hold about you. If you make an access request, we will ask you to verify your identity. We may charge a fee to cover the costs of meeting your request. 
+4.2 SME MEDIA will take steps to destroy or de-identify Personal Information after as short a time as possible and after a maximum of seven years, unless the law requires otherwise.
 
-We request that you keep your information as current as possible so that we may continue to improve our service to you. 
+**5\. Information Security**
 
-If you would like to seek access to personal information we hold about you, or if you have any questions or complaints about how we collect, use, disclose, manage or store your personal information, you can contact the department that collected your personal information in the first instance, or write to: 
+5.1 SME MEDIA requires employees and contractors to perform their duties in a manner that is consistent with SME MEDIA’ legal responsibilities in relation to privacy.
 
-**Head of Digital**  
- **Lvl 8, 574 St Kilda Rd**  
- **Melbourne VIC 3004**
+5.2 SME MEDIA will take all reasonable steps to ensure that paper and electronic records containing Personal Information are stored in facilities that are only accessible by people within SME MEDIA who have a genuine “need to know” as well as “right to know”.
+
+5.3 SME MEDIA will review, on a regular and ongoing basis, its information security practices to ascertain how ongoing responsibilities can be achieved and maintained.
+
+**6\. Access and Correction**
+
+6.1 SME MEDIA will allow its records containing Personal Information to be accessed by the individual concerned in accordance with the Privacy Act.
+
+6.2 SME MEDIA will correct its records containing Personal Information as soon as practically possible, at the request of the individual concerned in accordance with the Privacy Act.
+
+6.3 Individuals wishing to lodge a request to access and/or correct their Personal Information should do so by contacting SME MEDIA, as per the details on the back of this document.
+
+6.4 SME MEDIA will not normally charge a fee for processing an access request unless the request is complex or is resource intensive.
+
+**7\. Openness**
+
+7.1 Contact with SME MEDIA via phone or web inquiry will be the first point of contact for inquiries about privacy issues.
+
+7.2 Any formal privacy related complaints should be directed in writing to the SME MEDIA Privacy Officer Level 6 50 Carrington Street Sydney NSW 2000.
+
+7.3 SME MEDIA will endeavour to manage any privacy related complaint efficiently and in a timely manner.
+
+7.4 SME MEDIA websites will contain a prominently displayed privacy statement and will include a copy of this SME MEDIA Privacy Policy.
+
+**8\. Anonymous Transactions**
+
+8.1 SME MEDIA will not make it mandatory for visitors to its web sites to provide Personal Information unless such Personal Information is required to answer an inquiry or provide a service. SME MEDIA may however request visitors to provide Personal Information voluntarily to SME MEDIA (for example, as part of a competition or questionnaire).
+
+8.2 SME MEDIA will allow its customers to transact with it anonymously wherever that is reasonable and practicable.
+
+9\. Transferring personal information overseas
+
+9.1 SME MEDIA generally does not send information overseas.
+
+9.2 If Personal Information must be sent by SME MEDIA overseas for sound business reasons, SME MEDIA will require the overseas organisation receiving the information to provide a binding undertaking that it will handle that information in accordance with the National Privacy Principles, preferably as part of the services contract.
+
+**10\. Glossary**
+
+Collection Information means the information outlined in 1.3 notified to individuals prior to, or as soon as practical after, the collection of their Personal Information.
+
+Direct Marketing means the marketing of goods or services through means of communication including written, verbal or electronic means. The goods or services which are marketed may be those of SME MEDIA or a Related Body Corporate or those of an independent third party organisation.
+
+Disclosure generally means the release of information outside SME MEDIA, including under a contract to carry out an “outsourced function”.
+
+Health Information means:
+
+1   information or an opinion about:
+
+◦                             the health or a disability (at any time) of an individual; or
+
+◦                             an individual’s expressed wishes about the future provision of health services to him or her; or
+
+◦                             a health service provided or to be provided to an individual;that is also personal information; or
+
+2   other personal information collected to provide or in providing a health service; or
+
+3   other personal information about an individual collected in connection with the donation; or intended donation by the individual of his or her body parts or body substances.Opt Out means an individual’s expressed request not to receive further Direct Marketing.
+
+**SME MEDIA means the Association for Data-driven Marketing & Advertising.**
+
+Personal Information means information or an opinion (including information or an opinion forming part of a database), whether true or not and whether recorded in a material form or not, about an individual whose identity is apparent, or can reasonably be ascertained from the information or opinion.
+
+Primary Purpose is the dominant or fundamental reason for information being collected in a particular transaction.
+
+Reasonable Expectation means a reasonable individual’s expectation that their personal information might be Used or Disclosed for the particular purpose.
+
+Sensitive Information means:
+
+1   information or an opinion about an Individual’s:
+
+◦                             racial or ethnic origin; or
+
+◦                             membership of a political association; or
+
+◦                             religious beliefs or affiliations; or
+
+◦                             philosophical beliefs; or
+
+◦                             membership of a professional or trade association; or
+
+◦                             membership of a trade union; or
+
+◦                             sexual preferences or practices; or
+
+◦                             criminal record; that is also personal information; or
+
+2   Health Information about an individual; or
+
+Use means the handling of Personal Information within SME MEDIA.
+
+**Contacting SME MEDIA**
+
+If you require further information regarding SME MEDIA’s Privacy Policy,
+
+Telephone: 02 9037 1882
+
+Level 4, 16 Spring Street,  Sydney NSW 2000
 
 * * *
