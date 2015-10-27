@@ -1,6 +1,20 @@
-> *The following text is extracted and transformed from the themotorreport.com.au privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609201157id_/http%3A//www.themotorreport.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themotorreport.com.au privacy policy that was archived on 2015-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151027073033id_/http%3A//www.themotorreport.com.au/privacy-policy) for the most accurate reproduction.*
 
 # TMR Help
+
+[](https://web.archive.org/)
+
+  1. The Motor Report's Privacy Policy
+  2. Collection of information
+  3. Use of anonymous information
+  4. Use of personal information
+  5. Disclosure
+  6. Interacting with The Motor Report
+  7. Security
+  8. Complaints about privacy
+  9. Changes to The Motor Report's privacy policy
+
+
 
 ### 1\. The Motor Report's Privacy Policy
 
@@ -53,3 +67,6 @@ If you have any complaints relating to online privacy issues on The Motor Report
 ### 9\. Changes to The Motor Report's privacy policy
 
 If we decide to change the The Motor Report's Privacy Policy, we will post those changes here.
+
+**Please[sign up / login](https://web.archive.org/login/) to save your compare vehicles.**  
+Once you sign up / login all vehicles will be saved against your account which you can then access on any device.
