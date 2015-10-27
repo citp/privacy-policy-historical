@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easydownlines.com privacy policy that was archived on 2015-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150215065325id_/http%3A//easydownlines.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easydownlines.com privacy policy that was archived on 2015-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151027132749id_/http%3A//easydownlines.com/privacy.php) for the most accurate reproduction.*
 
 # Easy Downlines - Privacy Policy
 
@@ -9,15 +9,6 @@ This is a privacy policy for **http://EasyDownlines.com**
 Contact Information
 
 Our homepage on the Internet is located at [http://EasyDownlines.com](http://easydownlines.com/)
-
-**IM Wealth Builders Ltd.  
-25 Asprou Potamou - Villa 6  
-8560 Peyia  
-Cyprus**
-
-You may contact our support desk at [http://sjcsupport.com](http://sjcsupport.com/)  
-You may contact us by e-mail at [easydownlines@gmail.com](mailto:easydownlines@gmail.com)  
-You may contact us by phone on +357 99526811 
 
 * * *
 
