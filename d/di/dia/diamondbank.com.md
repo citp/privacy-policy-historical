@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diamondbank.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315221810id_/http%3A//www.diamondbank.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diamondbank.com privacy policy that was archived on 2015-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151027010203id_/http%3A//diamondbank.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
