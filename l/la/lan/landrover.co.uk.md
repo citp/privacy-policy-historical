@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the landrover.co.uk privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609010015id_/http%3A//www.landrover.co.uk/cookie-and-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landrover.co.uk privacy policy that was archived on 2015-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151027022736id_/http%3A//www.landrover.co.uk/cookie-and-privacy-policy.html) for the most accurate reproduction.*
 
 # Cookies and Privacy Policy - Land Rover
 
 ## PRIVACY POLICY
 
-Land Rover respects the privacy of every individual who visits its websites. Any information collected about you will be used to fulfil any service you might request, to inform you about new products and services and also to improve how we serve you. Your data will be treated in accordance with relevant European Union and local country legal provisions. Your information will not be disclosed to anyone outside of Land Rover, its affiliated or associated companies, and its dealers, agencies and licensees of any of these companies, and any other companies with which Land Rover has directly or indirectly arranged services for your benefit.   
+Land Rover respects the privacy of every individual who visits its websites. Any information collected about you will be used to fulfil any service you might request, to inform you about new products and services and also to improve how we serve you. Your data will be treated in accordance with relevant European Union and local country legal provisions. Your information will not be disclosed to anyone outside of Land Rover, its affiliated or associated companies, and its retailers, agencies and licensees of any of these companies, and any other companies with which Land Rover has directly or indirectly arranged services for your benefit.   
 
 
 Land Rover will not collect personal information about you using cookies however by enabling cookies or keeping cookies enabled, you are providing your consent to Land Rover storing cookies on your browser. Please note that disabling cookies is likely to impact website functionality and your experience of the Land Rover website.   
@@ -133,29 +133,26 @@ Here's a list of the main cookies we use, and what we use them for. You'll find 
 **Cookie Name** | **Cookie Purpose  
 **  
 ---|---  
-__utma, __utmb, __utmc ,__utmz   
-| These cookies enable the function of Google Analytics. This software helps us take and analyse visitor information such as browser usage, new visitor numbers, response to marketing activity and browsing times. That information helps us to improve the website and your experience, and to make our marketing campaigns relevant.   
+JLR_cookies   
+| Hides cookie banner once it has been closed.   
   
-JSESSIONID   
-| This cookie allows our web servers to respond to your actions on the website and browsing the website. The website wouldn't work for you without it.   
+JLR_IgniteBar   
+| So the Ignite bar knows if the items have changed from the previous page. So it can animate out any new items.   
   
-X40UI   
-| Previously used to store an accessible version of the JLR GWS websites preference- now redundant.   
+cmTPSet   
+| These cookies are used to track user interaction with the site - which pages they navigate, which links they click, etc.   
   
-Sreferrer   
-| Used to track specific campaign activities throughout a user journey for lead generation effectiveness analysis.   
+90401137_login   
+|   
   
-Campaignid   
-| Used to track specific campaign activities throughout a user journey for lead generation effectiveness analysis.   
+90401137_reset   
+|   
   
-splash-overlay   
-| Used to prevent popup reappearing for 24 hours after first showing.   
+TestSess3   
+| These cookies are used to track user interaction with the site - which pages they navigate, which links they click, etc.   
   
-fc/conf_basket, fc/non_configured_basket   
-| This cookie enables the use of the "Finance Calculator" tool on the website, and is used to remember which products you've selected to compare. - expires after 7 days.   
-  
-ASPSESSIONIDAQTDSCQT   
-| This cookie allows our web servers to respond to your actions on the website and browsing the website. The website wouldn't work for you without it.   
+gs_u_GSN-065099-V, gs_u_GSN-657216-Q   
+| Go Squared Analytics cookie, used to determine new sessions/visits. The cookie is created when the javascript library executes and no existing gs_u_GSN cookie exists. The cookie is updated every time data is sent to GoSquared.   
   
 psyma_participation   
 | Stores users preference in participation of the Psyma research survey  
@@ -185,38 +182,17 @@ Psyma
 | psyma_participation   
 | Stores users preference in participation of the Psyma research survey.   
   
-Addthis  | 
-
-di,   
-dt,   
-loc,
-
-psc,   
-uvc,   
-uid,   
-uit,   
-xtc 
-
-| These cookies are used in recording user sharing and social activity and to help publishers know approximately where people sharing information are located.   
+Addthis  | __atuvc   
+__atuvs   
+bt   
+um   
+uit   
+uid   
+loc   
+dt   
+bt2   
+di2 | These cookies are used in recording user sharing and social activity and to help publishers know approximately where people sharing information are located.   
 For more information you can visit:[www.addthis.com/](http://www.addthis.com/)  
-Atlas Solutions   
-| AA002,   
-MUID  | These cookies allow us to provide relevant information to our visitors.   
-For more information you can visit: [www.atlassolutions.com](http://www.atlassolutions.com/)  
-  
-Doubleclick
-
-| id,   
-test_cookie  | These cookies are used to measure the effectiveness of online marketing campaigns   
-For more information you can visit: [www.google.com/doubleclick](http://www.google.com/doubleclick)   
-  
-  
-Scorecardresearch   
-| UID,   
-UIDR   
-| These cookies are used for anonymous usage statistics   
-For more information you can visit:[www.scorecardresearch.com](http://www.scorecardresearch.com/)   
-  
   
 ### Web Beacons
 
