@@ -1,76 +1,51 @@
-> *The following text is extracted and transformed from the justplug.it privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927015800id_/http%3A//www.justplug.it/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justplug.it privacy policy that was archived on 2015-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151027071704id_/https%3A//justplug.it/privacy.html) for the most accurate reproduction.*
 
-# JustPlugIt | Privacy Policy
+# JustPlugIt
 
-This website (the "Site") and the services/products/software provided herein (the " **Services** "), as defined below, is made available to you by Standart LLC ("Standart"). In this Privacy Policy we explain the type of information we collect through our Site, and Services, and what we do with such information.
+1\. This Privacy Policy ("PP") applies for your ("You" or "User") use of the Site, Services (as defined in the Terms of Use available herewith) or any portion thereof and covers how the Company (as defined in the Terms of Use, "We", "Us", or "Our") treats information that it collects and receives about you via the Site, Services or any portion thereof. You are advised that certain information content software and/or services provided through the Services and/or Site are created or provided to the Company by third parties who may provide you with additional information and choices about Your privacy. The use of such information content software and/or services provided through the Services and/or Site created or provided to the Company by third parties is subject to such third parties' privacy policies. 
 
-This Privacy Policy is part of our Terms and conditions available at:
+2\. By using the Services, the Site, or any portion thereof, You agree to accept the terms of this PP. If you do not agree to the terms hereof, please do not use the website. 
 
-[Terms of service](https://web.archive.org/web/20130927015800id_/http%3A//www.justplug.it/terms.html)
+### 3\. Collection of Personally Identifiable Information: 
 
-If you choose to enter our Site and use our Services you will be bound by the terms of this Privacy Policy and our Terms and Conditions.
+the Company does not collect personally identifiable information (“PII”) except where Users voluntarily provide such information via email or via registration for certain services or newsletters. The Company does collect non-personally identifiable information (“non-PII”) such as Your IP address, domain names, referring website addresses, and some online web browsing activity to deliver more relevant advertising. 
 
-As used in this Privacy Policy, the terms: "the company", "we" and "us" refer to Standart LLC. or any successor or assign of Standart LLC.
+### 4\. Cookies: 
 
-  
+We store a small text file called a cookie on Your computer to track session data and persist Your login for Your convenience. A session cookie expires when you exit Your browser. A persistent cookie stays on Your computer until it is deleted. You can remove persistent cookies by following the directions provided in Your browser's "help" files. 
 
+Some of Our advertisers may use cookies on Our Sites or Services. We have no access or control over such cookies. This PP covers the use of cookies by Us only, and does not cover the use of cookies by any advertisers. 
 
-## Privacy and use of information
+### 5\. Data Use: 
 
-Standart' personal information practices are governed by this Privacy Policy. Please review it before making any use of our Site and Services. 
+The Company uses any non-PII collected to enable us or other third parties such as Our partners to provide you with certain content and/or information such as targeted advertisements that We or they believe may interest you, and to prepare aggregate reports that summarize activity and performance made using Our Site or Services. By the collection of data from Users, we can continually improve Our Services and Site. Non PII may be provided to other parties for advertising, marketing or other uses. 
 
-By using the Services you also agree to this privacy statement. You acknowledge that (a) we cannot ensure the security or privacy of information you provide through the Internet and your email messages, and you release us from any and all liability in connection with the use of such information by other parties; (b) we are not responsible for, and cannot control, the use by others of any information which you provide to them and you should use caution in selecting the personal information you provide to others through the service; and (c) we cannot assume any responsibility for the content of messages sent by other users of the service, and you release us from any and all liability in connection with the contents of any communications you may receive from other users. We cannot guarantee, and assume no responsibility for verifying, the accuracy of the information provided by other users of the service.
+### 6\. Release of Information: 
 
-You may be asked to provide us, during the registration process and use of the Service, with two types of information; personal information such as name, address, e-mail address and e-mails, and any other personal information, if required.
+In the event that we should go through a business transition such as a merger, acquisition, bankruptcy, or sale of all or a portion of Our assets, Your information may be among the assets transferred. 
 
-When you use the Service and/or log on to the Site, we may collect and receive your browser information, including IP address, "cookies" information [email name IP address cookie].
+We may also release Your information if we believe that such release is necessary in order to comply with applicable law, protect the safety and security of Users, protect any of Our legal rights or property, Our employees or affiliated companies or for protection against fraud. 
 
-We may provide your personal information to third parties since our Service is also supplied by third parties. Please note that these third parties may have a different privacy policy.
+### 7\. Right to Peruse Information: 
 
-As specified above, we may collect certain information about you and your web usage, which may be shared with third parties and used for advertising. NOTE: OUR SOFTWARE AND OTHER SERVICES COLLECT AND STORES INFORMATION CONCERNING YOUR ACTIVITY ON THE WEB, SUCH AS YOUR IP ADDRESS. IN SOME CASES, INFORMATION COLLECTED BY OUR SERVICES MAY BE PERSONALLY IDENTIFIABLE, AND IN SOME CASES INFORMATION (INCLUDING INFORMATION FROM OR ABOUT PAGES OF SOCIAL MEDIA WEBSITES YOU VISIT) MAY BE USED OR SHARED WITH THIRD PARTIES FOR PURPOSES OF DISPLAYING TARGETED ADVERTISEMENTS PROMOTIONAL AND MARKETING MATERIAL TO YOU.
+According to the right to peruse information under the Israeli Protection of Privacy Law, 5741-1981, every individual is entitled, whether by himself or through a proxy authorized in writing or through his/her legal guardian, to peruse information pertaining to him/her that is stored in a database. Having perused such information and having found it to be inaccurate, incomplete, unclear or out of date, such a person may contact the database owner and request to correct, amend or delete the data in question. If the database owner refuses to permit access or comply with a request to amend or delete information, the applicant may appeal to a magistrate’s court as stipulated by applicable regulations. 
 
-We may also release your information when we believe that such release is necessary in order to: (a) protect or defend any of our legal rights (including enforcement of agreements that we have interest in) or property, our affiliated companies or their employees, agents and contractors; (b) comply with applicable law, legal process or enforce our site policies. (c) Protect the safety and security of users of our Site and any of our Services or members of the public; or (d) protect against fraud or carry out our risk management procedures.
+Moreover, should the information contained in the database be used for purposes of personally soliciting you, based on Your affiliation to any population group as determined according to one or more attributes of people whose names are included in the database (“solicitation for commercial purposes”), the Protection of Privacy Law, 5741-1981, entitles you to submit a written request that such information pertaining to you be deleted from the database. In such a case, the website management will delete any information required for solicitation for commercial purposes as stated above. Please note that deleting such information might prevent you from continuing to receive services from the website. Any information required by the website management to conduct its business – including documentation of commercial and other activities performed by you on the website – will continue to be legally stored by the website management according to law, but will no longer be used to personally solicit you. If you do not receive notification that the information that the website management was requested to delete has in fact been deleted according to the provisions of this paragraph within 30 days, you will be entitled to apply to a magistrate’s court in the manner specified in the applicable regulations having the force of law, in order for the court to instruct the website management to act as stated. 
 
-  
+### 8\. Sharing with Third Parties
 
+The Company may use third-party tools or services to provide you with certain services or programs. The Company may make third party's information, content, software, services applications and/or tools available for download by you from or through the website or Services. The privacy policies of the third party provider(s) of such applications will apply to Your use of such applications. 
 
-## Unsolicited Submission Policy
+The Company may use third party service providers for the purpose of distributing to Users information, content, software, services and/or toolbar/apps or for providing the Company with operational services or data and server maintenance/optimization services. 
 
-Standart does not accept, by any means of transmission, any unsolicited submissions, in any form whatsoever including, without limitation, any marketing, advertising and/or creative suggestions, scripts, lyrics, jingles, product samples, prototypes, movies and/or games (hereinafter referred to as "Submissions"). If you elect to forward to us any such Submission, then by doing so, you acknowledge that said Submission has not been requested by us and that (1) we are not liable for any use, disclosure, or return to you of your Submission, (2) no confidential relationship is established or is to be implied in any way from our receipt of the Submission and any statement to the contrary with your Submission shall not alter this condition, (3) you understand that you will not be entitled to any compensation from us based upon your Submission, (4) the receipt of your Submission shall not constitute a waiver by us of our rights to contest the validity of any copyright, or other intellectual property rights that you may now or hereafter claim for the Submission, and (5) any previously, concurrently or subsequently submitted materials relating to this Submission shall be considered to have been submitted in accordance with these conditions.
+The Company may also share, rent, sell, or disseminate non-PII to third parties and may sometimes use Users' information to enable Our platforms or partners to deliver targeted advertisements that we or they believe will be of interest to you. 
 
-  
+We are not responsible for the privacy practices of any such third parties, and once you leave our Site or services via a link, enable a third party service, or click on an advertisement, you should check the applicable privacy policy of the third party site. 
 
+### 9\. Miscellaneous: 
 
-## Modifications
+This PP is a living document. We will modify this document as we add new features to Our Sites or Services. We reserve the right to modify this PP at any time without any notice, and if you do not agree to or cannot comply with this PP as amended, Your only remedy is to stop using the Site or Services. You are advised that if You do not terminate all use of the Services, the Site or any portion thereof you will be deemed to have accepted the PP as amended. This PP is subject to and constitutes an integral part of the Terms of Use. 
 
-Standart LLC. reserves the right to modify this Privacy Policy from time to time at its sole discretion. Such modifications shall be in full force and effect immediately upon publication. Notification of changes in this Privacy Policy will be posted on the Service/ Site (as defined in the Terms and Conditions) or sent via electronic mail, as we may determine in our sole discretion. If you do not agree to any modifications, you should terminate your use of the service/software immediately upon the publications of such change. Your continued use of the service/software now, or following the posting of notice of any changes in this Privacy Policy, will constitute a binding acceptance by you of this Privacy Policy, or any subsequent modifications.
+If you have any questions or concerns about this PP, please contact us by email at [hello@justplug.it](mailto:hello@justplug.it)
 
-  
-
-
-## Disclosure and communication
-
-We reserve the right to send electronic mail to you, for the purpose of informing you of changes or additions to the service, or of any service's related products and services. We reserve the right to disclose information about your usage of the service and demographics in forms that do not reveal your personal identity.
-
-  
-
-
-## "RSS" Feeds
-
-RSS feeds may be provided as a quick and easy way for you to distribute information from the web site or from your online account. RSS feeds are accessible through an XML-based URL that can be accessed with an RSS reader of your choice. You consent that the information in the feeds will be transferred to the location in which you enable the RSS feed. Standart will not pass any personally identifiable information in your feed. However, your use of an RSS feed may cause personally identifiable information that is associated with the RSS feed to be associated with you. You acknowledge that your use of an RSS feed and any personally identifiable information associated with it is at your sole discretion and risk.
-
-Use of the service's RSS feeds is for non-commercial, personal use and whether or not you use an RSS feed is entirely at your discretion. You may not modify the RSS feeds. If an RSS feed contains an attribution to the service, you may not remove the attribution. Standart provides no warranty regarding its RSS feeds and reserves the right to terminate or modify the feeds at any time without notice. Standart is not responsible for any loss or damage incurred by you or anyone else due to your use of an RSS feed.
-
-  
-
-
-## Language
-
-You agree that this Privacy Policy, the Site and the Service and all communications with Standart shall be in the English language.
-
-  
-
-
-## Entire Agreement
-
-You agree that this Privacy Policy and the Terms and Conditions constitute the entire agreement between you and Standart with respect to your use of this Site and the Service and supersede all previous agreements, understandings and representations relating thereto.
+Last updated: March, 2014
