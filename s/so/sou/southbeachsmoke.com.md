@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southbeachsmoke.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624192553id_/http%3A//www.southbeachsmoke.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southbeachsmoke.com privacy policy that was archived on 2015-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151027035742id_/http%3A//www.southbeachsmoke.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | South Beach Smoke
 
@@ -60,7 +60,7 @@ We may link information collected from you through various means, including info
 
 * You can add or update certain information that you send to us. When you update information, we usually keep a copy of the prior version for our records.
 
-* If you do not want to receive e-mail or other mail from us or if you wish to check your personal information, please contact us by email at service@southbeachsmoke.com
+* If you do not want to receive e-mail or other mail from us or if you wish to check your personal information, please contact us by email at service
 
 **Access to Your Personal Information.**
 
@@ -80,6 +80,6 @@ Our Privacy Policy only applies to this website. Our website contains links to s
 
 **Questions Regarding Our Privacy Policy.**
 
-If you have questions or comments regarding our privacy practices, please e-mail us at service@SouthBeachSmoke.com
+If you have questions or comments regarding our privacy practices, please e-mail us at service
 
 This policy was last updated on June 1, 2010
