@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nowwhatstudio.com privacy policy that was archived on 2015-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150331013126id_/http%3A//www.nowwhatstudio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nowwhatstudio.com privacy policy that was archived on 2015-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151027054333id_/http%3A//www.nowwhatstudio.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Now What? Studio
 
