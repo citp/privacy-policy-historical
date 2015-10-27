@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viewbix.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607070438id_/http%3A//corp.viewbix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viewbix.com privacy policy that was archived on 2015-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151027045705id_/http%3A//corp.viewbix.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Viewbix
 
