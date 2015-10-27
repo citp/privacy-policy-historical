@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audleytravel.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608001718id_/http%3A//www.audleytravel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audleytravel.com privacy policy that was archived on 2015-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151027041823id_/http%3A//www.audleytravel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Audley Travel
 
@@ -34,8 +34,6 @@ We use "cookies" to store and collect information regarding your usage of the we
 There are two types of cookies, session and persistent. Session cookies last only as long as your web browser is open. Once you close your browser, the cookie disappears. Persistent cookies store information on your computer for longer periods of time - typically up to 3 months. Audley's websites may use both types of cookies.
 
 At no time is your private information, whether stored in persistent cookies or elsewhere, shared with third parties who have no right to that information. If you do not wish to have session or persistent cookies stored on your machine, you can turn them off in your browser.
-
-[Find out more about our cookies...](http://www.audleytravel.com/privacy-policy.aspx#)
 
 ## Telephone Calls
 
