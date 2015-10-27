@@ -1,0 +1,506 @@
+<!--The following is the downloaded HTML source of the sellphones.pk privacy policy that was archived on 2015-10-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151027200435id_/http%3A//sellphones.pk/Privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+  <title>Sellphones.pk - Privacy Policy</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Sell your mobile on the go, Terms of services">
+  <meta name="keywords" content="sell your phone, post free ad, for sale, Sell mobile phones, pakistan sell and purchase, used mobile phones, used cell phones, pakistan online selling purchasing of mobiles, Used mobile phones in Pakistan, free signup, privacy policy, post your ad">
+<!--  <link rel="stylesheet" href="css/bootstrap.css">-->
+	<script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.4&amp;appId=205021766211580"></script><script>
+	var siteURL = "http://sellphones.pk/";
+	</script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script src="http://sellphones.pk/js/bootstrap.js"></script>
+<!--  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">-->
+	<link rel="stylesheet" href="http://sellphones.pk/css/bootstrap.css">
+  <link href="http://sellphones.pk/css/style.css" rel="stylesheet" media="screen">
+  <script src="http://sellphones.pk/js/bootstrap-select.js"></script>
+  <link href="http://sellphones.pk/dist/css/bootstrap-select.css" rel="stylesheet">
+  <script src="http://sellphones.pk/js/code.js"></script>
+   <script src="http://sellphones.pk/js/custom.js"></script>
+   <script src="http://sellphones.pk/js/jquery.bpopup.min.js" type="text/javascript"></script>
+<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet" type="text/css">
+  <link href="http://sellphones.pk/css/jquery.nouislider.css" rel="stylesheet">
+  <link href="http://sellphones.pk/css/slider.css" rel="stylesheet">
+  <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css">
+	<script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+    <script src="http://sellphones.pk/js/ajax.js"></script>
+    </head><body><div id="fb-root"></div>
+	<script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4&appId=205021766211580";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+    
+      
+  
+
+
+<div id="loadingDiv"><img src="http://sellphones.pk/images/loading.gif" style="opacity:1; z-index:9999"></div>
+<div class="header" style="min-width:1265px;">
+  <div class="container header" style="padding-right:30px; padding-left:30px; width:1170px;">
+  	<h1 style="float:left; margin-top:5px; margin-bottom:10px;">
+    <a href="http://sellphones.pk/"><img src="http://sellphones.pk/images/logo.png"></a></h1>
+    
+    <div style="float:left;margin-left:100px;margin-top:8px;">
+    <a href="http://sellphones.pk/post.html">
+	    <img src="http://sellphones.pk/images/luckyDraw-468x60.png" title="Monthly lucky draw">
+    </a>
+    </div>
+    <h1 class="searchTop" style="">
+    <form action="http://sellphones.pk/search.html" method="get">
+
+    <input type="text" name="model" autocomplete="off" class="form-control" id="tags2" placeholder="Samsung galaxy s6" style="float:left; width:250px; border:none;"> 
+    <input type="image" src="http://sellphones.pk/images/searchIcon.png" style="float:left; margin-top:5px;">
+   	</form>
+    </h1>
+     <div id="livesearch"></div>
+    
+    <div class="clearfix"></div>
+  </div>
+</div>
+<script>
+function showResult(str) {
+  if (str.length==0) { 
+//    document.getElementById("livesearch").innerHTML="";
+ //   document.getElementById("livesearch").style.border="0px";
+	//document.getElementById("livesearch").style.display='none';
+    return;
+  }//else document.getElementById("livesearch").style.display='block';
+  if (window.XMLHttpRequest) {
+    // code for IE7+, Firefox, Chrome, Opera, Safari
+    xmlhttp=new XMLHttpRequest();
+  } else {  // code for IE6, IE5
+    xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+  xmlhttp.onreadystatechange=function() {
+    if (xmlhttp.readyState==4 && xmlhttp.status==200 && str.length!=0) {
+      //document.getElementById("livesearch").innerHTML=xmlhttp.responseText;
+//	  $( "#livesearch" ).html = xmlhttp.responseText;
+//		array=xmlhttp.responseText;
+	  var dataF = xmlhttp.responseText;
+	  var array = dataF.replace(/"|\t/g, '');  
+	  var array = array.split(',');
+	  
+	  //alert(dataF);
+	
+$(function() {
+//	var availableTags2 = dataF
+	$( "#tags2" ).autocomplete({
+	source: array
+	});
+	});
+//      document.getElementById("livesearch").style.border="1px solid #CCC";
+//	  document.getElementById("livesearch").style.borderTop="0px";
+//	  document.getElementById("livesearch").style.display='block';
+    }
+  }
+  xmlhttp.open("GET","http://sellphones.pk/livesearch.php?model="+str,true);
+//  alert(str);
+  xmlhttp.send();
+}
+  $( "#tags2" ).keyup(function() {
+	  showResult(this.value);
+	});
+	function sendAlert(){
+	alert();	
+	}
+</script>
+<div class="container-fluid" style="min-width:1265px;">
+<nav class="navbar navbar-inverse">
+  <div class="container" style="padding-left:15px; padding-right:15px;width:1170px;">
+<!--    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" style="border:none;" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span> 
+      </button>      
+    </div>
+-->
+    <div class="collapse navbar-collapse" id="myNavbar" style="width:1138px;">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="http://sellphones.pk/">Home</a></li>
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">CITIES
+          <span class="caret"></span></a>
+          <style>
+		  #dropdown-menu ul{
+				padding-left:40px !important;  
+		  }
+		  #dropdown-menu li{
+			list-style:none;
+			width:110px;  
+			border-bottom:1px dotted #E5E5E5;
+			transition:.5s;
+			padding:2px;
+		  }
+		  #dropdown-menu li:hover	{
+				border-bottom:1px dotted #CCC;  
+				transition:.5s;
+		  }
+		  #dropdown-menu li a{
+			text-decoration:none;  
+			transition:.5s;
+			
+		  }
+		  #dropdown-menu li:hover	a{
+			font-weight:600;
+			transition:.5s;  
+		  }
+		  </style>
+          <div id="dropdown-menu" class="dropdown-menu" style="height:415px; overflow:scroll;overflow-x:hidden; background:#F8F8F8; ">
+          <ul>
+          <li style="width:100%;"><a href="http://sellphones.pk/allcities" style="margin-right:5px;">All Pakistan</a> <font size="1" color="#666" style="font-weight:normal;">List mobile ads from all cities of Pakistan</font></li>
+          </ul>
+          <ul style="float:left;">            	<li style=" "><a href="http://sellphones.pk/abbottabad">Abbottabad</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/attock">Attock</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/bahawalnagar">Bahawalnagar</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/bahawalpur">Bahawalpur</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/bannu">Bannu</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/chakwal">Chakwal</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/charsadda">Charsadda</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/dera-ghazi-khan">Dera Ghazi Khan</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/dera-ismail-khan">Dera Ismail Khan</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/faisalabad">Faisalabad</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/gawadar">Gawadar</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/gilgit">Gilgit</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/gujranwala">Gujranwala</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/gujrat">Gujrat</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/hyderabad">Hyderabad</a></li>
+			</ul><ul style="float:left;">            	<li style=" "><a href="http://sellphones.pk/islamabad">Islamabad</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/jacobabad">Jacobabad</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/jaffarabad">Jaffarabad</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/jhang">Jhang</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/karachi">Karachi</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/khairpur">Khairpur</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/khuzdar">Khuzdar</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/kohat">Kohat</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/lahore">Lahore</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/larkana">Larkana</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/lasbela">Lasbela</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/mansehra">Mansehra</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/mardan">Mardan</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/mianwali">Mianwali</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/mingora">Mingora</a></li>
+			</ul><ul style="float:left;">            	<li style=" "><a href="http://sellphones.pk/mirpur-khas">Mirpur khas</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/multan">Multan</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/nanakwara">Nanakwara</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/nasirabad">Nasirabad</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/nawabshah">Nawabshah</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/nowshera">Nowshera</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/okara">Okara</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/peshawar">Peshawar</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/qilla-abdullah">Qilla Abdullah</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/queta">Queta</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/rawalpindi">Rawalpindi</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/sahiwal">Sahiwal</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/sakardu">Sakardu</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/sargodha">Sargodha</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/sheikhupura">Sheikhupura</a></li>
+			</ul><ul style="float:left;">            	<li style=" "><a href="http://sellphones.pk/shikarpur">Shikarpur</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/sialkot">Sialkot</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/sibi">Sibi</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/sukkur">Sukkur</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/swabi">Swabi</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/talagang">Talagang</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/thatta">Thatta</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/turbat">Turbat</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/zhob">Zhob</a></li>
+			             
+          </ul></div>
+        </li>
+        
+        
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">BRANDS
+          <span class="caret"></span></a>
+          <div id="dropdown-menu" class="dropdown-menu" style="height:225px; overflow:scroll;overflow-x:hidden; background:#F8F8F8; ">
+          <ul>
+	          <li style="width:100%;"><a href="http://sellphones.pk/allcities/allbrands" style="margin-right:5px;">All Brands</a> <font size="1" color="#666" style="font-weight:normal;">List mobile ads from all brands</font></li>
+          </ul>
+          <ul style="float:left;">            	<li style=" "><a href="http://sellphones.pk/allcities/blackberry">Blackberry</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/allcities/club-mobile">Club Mobile</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/allcities/g5">G5</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/allcities/gright">Gright</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/allcities/haier">Haier</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/allcities/htc">HTC</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/allcities/huawei">Huawei</a></li>
+			</ul><ul style="float:left;">            	<li style=" "><a href="http://sellphones.pk/allcities/iphone">iPhone</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/allcities/lenevo">Lenevo</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/allcities/lg">LG</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/allcities/megagate">Megagate</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/allcities/motorolla">Motorolla</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/allcities/nokia">Nokia</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/allcities/oppo">Oppo</a></li>
+			</ul><ul style="float:left;">            	<li style=" "><a href="http://sellphones.pk/allcities/other-mobiles">Other Mobiles</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/allcities/qmobile">Qmobile</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/allcities/samsung">Samsung</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/allcities/sony">Sony</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/allcities/sony-ericcson">Sony Ericsson</a></li>
+			            	<li style=" "><a href="http://sellphones.pk/allcities/voice">Voice</a></li>
+			             <div class="clearfix"></div>
+          </ul></div>
+          
+        </li>
+        
+        	
+      </ul>
+      
+      
+              <div class="rightButtons">
+        	<a href="http://sellphones.pk/signup.html">
+              <div class="btn btn-warning" style="width:148px; margin-top:3px;">
+              <img src="http://sellphones.pk/images/register.png" style="width:14px; margin-top:-4px;"> SIGN UP
+              </div>
+          	</a>
+          
+          <div class="btn btn-success" style="width:148px; margin-top:3px;" id="login" data-toggle="modal" data-target="#loginBox">
+          <img src="http://sellphones.pk/images/login.png" style="width:15px; margin-top:-4px;"> LOGIN
+          </div>
+        </div>
+            </div>
+      </div>
+    </nav></div>
+  
+
+
+<!-- Trigger the modal with a button -->
+<!-- Modal -->
+<div id="loginBox" class="modal fade" role="dialog">
+  <div class="modal-dialog" style="width:400px;">
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">×</button>
+        <h4 class="modal-title">User Login</h4>
+      </div>
+      <form action="http://sellphones.pk/login.html" method="post">
+      <div class="modal-body">
+            <input type="text" name="email" class="form-control" placeholder="Email address" style="margin-bottom:10px;">
+            <input type="password" name="password" class="form-control" placeholder="Password">
+      </div>
+      <div class="modal-footer">
+          <div class="form-group has-feedback" style="margin-bottom:5px;">	
+            <input type="submit" value="Login" name="submit" class="btn btn-primary" style="width:100%;">
+            <span class="glyphicon glyphicon-log-in form-control-feedback" style="color:white; "></span>
+          </div>
+          <a href="http://sellphones.pk/login.html?case=forgot">
+        <div class="form-group has-feedback" style="margin-bottom:5px;">
+	    	<input type="button" class="btn btn-primary" value="Forgot Password?" style="width:100%;">
+        	<span class="glyphicon glyphicon-lock form-control-feedback" style="color:white;"></span>
+	    </div>
+        </a>
+     </div>
+      </form>
+    </div>
+  </div>
+</div><!--center area-->
+<div class="container" id="view">
+	<div style="margin-bottom:10px;">
+   		<h2>Privacy Policy</h2>
+    </div>
+   <style>
+   blockquote	{
+		font-size:14px;   
+   }
+   </style>
+   	<div id="listingArea" style="margin-top:10px; height:auto !important;">
+    	<div class="areas">
+        <b>SellPhones.PK</b> is strongly committed to protecting the privacy of consumers of its interactive products and services. Through the Internet, our primary goal is to contribute to providing a safe and secure environment for consumers and site visitors just looking for information.  
+        <hr>
+
+           
+            
+            <blockquote>
+            <b>Disclosre</b><br> 
+            We do not disclose information about your individual visits with any other company. Information such as your name, address, email address, telephone numbers, etc. are not mis used by <b>SellPhones.PK</b> or any of its partners, We do collect information from website submissions and for newsletters purposes. This information is limited to your email which is used to confirm submissions or notify of changes to listings that may affect a website within our directory. <b>SellPhones.PK</b> may share such information in response to any legal processes, such as a court order or subpoena, or in special cases such as a physical threat to you or others. Otherwise, this information is kept in secure confidentiality. 
+            </blockquote>
+            
+            
+            <blockquote>
+            <b>Information</b><br>
+
+            The purpose of storing any personal information you may provide us when you visit our site or fill out any <b>SellPhones.PK</b> forms, is to enable <b>SellPhones.PK</b> to maintain communication with you. We will not sell, share, or give this information to any other company. <b>SellPhones.PK</b> will only disclose user information to the proper authorities, when we believe in good faith that the law requires it.<hr>
+            
+            If we use cookies, it is only to help us serve you better. You may occasionally get cookies from our advertisers. <b>SellPhones.PK</b> does not control these cookies or any other applications or tracking controls from other advertisers or partners of <b>SellPhones.PK</b>.<hr>
+            
+            Remember that whenever you give out personal information on the Internet, that information can be intercepted in transit. While we strive to protect any personal information in our possession, we cannot guarantee the security of any information you disclose online and you do so at your own risk except for on our secure pages. <b>SellPhones.PK</b> will only receive credit card / Debit card information through different payment gateways over a SSL (secure encrypted) connection.<hr>
+            
+            By using this site, you agree to the <b>SellPhones.PK</b> Privacy Policy. If you do not agree to this policy, please do not use our site. Your continued use of the <b>SellPhones.PK</b> site following the posting of changes to these terms will mean you accept those changes.<hr>
+            
+            if you have any question regarding our privacy policies do not hesitate to send email us at <b>contact[at]sellphones.pk</b>
+            </blockquote>
+            
+            
+            </div>
+    </div>
+</div>
+<div class="container-fluid" id="footer" style="min-width:1265px;">
+    <div class="container" id="footer_inline" style="width:1170px;">
+         <div class="row">
+            <div class="col-sm-3" style="width:285px; float:left;">   
+                <div class="row">
+                    <div class="col-sm-10">
+                    <h3>Explore By Brands</h3>
+                    <hr>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-10">
+                    <style>
+					.popover-title	{
+						min-width:200px;	
+					}
+					</style>
+                    <ul id="list">
+                    	<li> <a href="http://sellphones.pk/allcities/allbrands">All Brands</a></li>
+                                                <li> <a href="http://sellphones.pk/allcities/nokia">Nokia</a></li>
+						                        <li> <a href="http://sellphones.pk/allcities/samsung">Samsung</a></li>
+						                        <li> <a href="http://sellphones.pk/allcities/iphone">iPhone</a></li>
+						                        <li> <a href="http://sellphones.pk/allcities/voice">Voice</a></li>
+						                        <li> <a href="http://sellphones.pk/allcities/lg">LG</a></li>
+						                        <li> <a href="http://sellphones.pk/allcities/sony">Sony</a></li>
+						                        <li> <a href="http://sellphones.pk/allcities/qmobile">Qmobile</a></li>
+						                        <li> <a href="http://sellphones.pk/allcities/g5">G5</a></li>
+						                        <li> <a href="http://sellphones.pk/allcities/huawei">Huawei</a></li>
+						 
+                        <!--<button type="button" style="float:right;" data-toggle="popover" title="More Brands" data-html="true" data-content="<ul id='list'>                     
+                                              <li> <a href='http://sellphones.pk/allcities/htc'>HTC</a></li>
+						                        <li> <a href='http://sellphones.pk/allcities/oppo'>Oppo</a></li>
+						                        <li> <a href='http://sellphones.pk/allcities/sony-ericcson'>Sony Ericsson</a></li>
+						                        <li> <a href='http://sellphones.pk/allcities/motorolla'>Motorolla</a></li>
+						                        <li> <a href='http://sellphones.pk/allcities/blackberry'>Blackberry</a></li>
+						                        <li> <a href='http://sellphones.pk/allcities/gright'>Gright</a></li>
+						                        <li> <a href='http://sellphones.pk/allcities/club-mobile'>Club Mobile</a></li>
+						                        <li> <a href='http://sellphones.pk/allcities/megagate'>Megagate</a></li>
+						                        <li> <a href='http://sellphones.pk/allcities/lenevo'>Lenevo</a></li>
+						                        <li> <a href='http://sellphones.pk/allcities/haier'>Haier</a></li>
+						                        <li> <a href='http://sellphones.pk/allcities/other-mobiles'>Other Mobiles</a></li>
+						                      
+                     </ul>  " class="btn btn-primary btn-xs" data-placement="top">more brands</button>-->
+                     </ul>
+                    </div>
+                    
+                </div>
+            </div>
+            
+            <div class="col-sm-3" style="width:285px; float:left;">   
+                <div class="row">
+                    <div class="col-sm-10">
+                    <h3>Explore By Cities</h3>
+                    <hr>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-10">
+                    <ul id="list">
+                    	<li><a href="http://sellphones.pk/allcities">All Cities</a></li>
+                        <li><a href="http://sellphones.pk/islamabad">Islamabad</a></li>
+                        <li><a href="http://sellphones.pk/rawalpindi">Rawalpindi</a></li>
+						<li><a href="http://sellphones.pk/lahore">Lahore</a></li>
+                        <li><a href="http://sellphones.pk/karachi">Karachi</a></li>
+                        <li><a href="http://sellphones.pk/faisalabad">Faisalabad</a></li>
+                        <li><a href="http://sellphones.pk/multan">Multan</a></li>
+                        <li><a href="http://sellphones.pk/peshawar">Peshawar</a></li>
+                        <li><a href="http://sellphones.pk/abbottabad">Abbottabad</a></li>
+                        <li><a href="http://sellphones.pk/attock">Attock</a></li>
+                        <!--<li data-toggle="modal" data-target="#myModal"> View All</li>-->
+                     </ul>   
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-sm-3" style="width:285px; float:left;">   
+                <div class="row">
+                    <div class="col-sm-10">
+                    <h3>Explore By Prices</h3>
+                    <hr>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-10">
+                    <ul id="list">
+                        <li> <a href="http://sellphones.pk/search.html?price_min=5000&amp;price_max=10000&amp;submit=e48a900a95c8e0a3db31da9fbad6866e">5,000 to 10,000</a></li>
+                        <li> <a href="http://sellphones.pk/search.html?price_min=15000&amp;price_max=20000&amp;submit=702cafa3bb4c9c86e4a3b6834b45aedd">15,000 to 20,000</a></li>
+                        <li> <a href="http://sellphones.pk/search.html?price_min=20000&amp;price_max=25000&amp;submit=987b75e2727ae55289abd70d3f5864e6">20,000 to 25,000</a><a></a></li><a>
+                        </a><li><a> </a><a href="http://sellphones.pk/search.html?price_min=25000&amp;price_max=30000&amp;submit=4837ba5cd49c7f03caaa423049e66daf">25,000 to 30,000</a></li>
+                        <li> <a href="http://sellphones.pk/search.html?price_min=30000&amp;price_max=35000&amp;submit=c1285fcadc52c0d3dc8813fc2c2e2b2a">30,000 to 35,000</a></li>
+                        <li> <a href="http://sellphones.pk/search.html?price_min=35000&amp;price_max=40000&amp;submit=2b346a0aa375a07f5a90a344a61416c4">35,000 to 40,000</a></li>
+                        <li> <a href="http://sellphones.pk/search.html?price_min=40000&amp;price_max=50000&amp;submit=f550e0ba9e1c4e8bb4a5ed0ac23a952d">45,000 to 50,000</a></li>
+                        <li> <a href="http://sellphones.pk/search.html?price_min=50000&amp;price_max=55000&amp;submit=5487315b1286f907165907aa8fc96619">50,000 to 55,000</a></li>
+                        <li> <a href="http://sellphones.pk/search.html?price_min=55000&amp;price_max=70000&amp;submit=077e29b11be80ab57e1a2ecabb7da330">55,000 than 70,000</a></li>
+                        <li> <a href="http://sellphones.pk/search.html?price_min=Min&amp;price_max=Max&amp;submit=fcc7fbed7c7c66964a52463e7498ad91">More than 70,000</a></li>
+                     </ul>   
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-sm-3" style="margin-top:50px; float:left;">   
+                <div class="row" style="text-align:center;">
+                    <div class="col-sm-10" id="col-sm-10" style="width:100%;">
+                        <a href="http://sellphones.pk/"><img src="http://sellphones.pk/images/logo-bottom.png" style="width:110px !important;"></a>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-17" id="col-sm-17" style="text-align:center; margin-top:25px;">
+                        <div class="container-fluid">
+                        <a href="http://facebook.com/sellphones.pk" target="facebook"><img src="http://sellphones.pk/images/fb-icon.jpg"></a>
+                        
+                        <a href="http://twitter.com/sellphonespk" target="twitter"><img src="http://sellphones.pk/images/twitter-icon.jpg">
+                        </a>
+                        <a href="https://plus.google.com/+SellphonesPkOnline" target="google"><img src="http://sellphones.pk/images/google-icon.jpg">
+                        </a>
+                        <a href="https://www.pinterest.com/sellphonespk" target="pinterest"><img src="http://sellphones.pk/images/pinterest-icon.jpg">
+                        </a>
+                        <a target="reddit" href="https://www.reddit.com/user/Sellphonespk/"><img src="http://sellphones.pk/images/reddit-icon.jpg">
+                        </a>
+                        
+                        <hr style="margin-top:5px; margin-bottom:5px;">
+                        
+                        <a href="http://sellphones.pk/luckyDraw.html">Lucky Draw</a> | 
+                        <a href="http://sellphones.pk/Privacy.html">Privacy</a> | <a href="http://sellphones.pk/About-Us.html">About Us</a> | <a href="http://sellphones.pk/Contact-Us.html">Contact Us</a>
+                        <hr style="margin-top:5px; margin-bottom:5px;">
+                        <a rel="alternate" href="http://m.sellphones.pk/Privacy.html"><span class="glyphicon glyphicon-phone"></span> Mobile version</a>
+                         </div>   
+                    </div>
+                </div>
+            </div>
+         </div>       
+    </div>
+</div>
+<a href="http://sellphones.pk/post.html">
+<div style="position:fixed; background:#F96A3F; padding:20px; font-size:18px; font-weight:600;color:white;top:40%; border-radius:0px 5px 25px 0px;">
+<img src="http://sellphones.pk/images/sellPhone.png"> SELL
+</div>
+</a>
+<script>
+$(document).ready(function(){
+    $('[data-toggle="popover"]').popover(); 
+});
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-66785674-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- Histats.com  START (hidden counter)-->
+<script type="text/javascript">document.write(unescape("%3Cscript src=%27http://s10.histats.com/js15.js%27 type=%27text/javascript%27%3E%3C/script%3E"));</script><script src="http://s10.histats.com/js15.js" type="text/javascript"></script>
+<a href="http://www.histats.com" target="_blank" title="web stats"><script type="text/javascript">
+try {Histats.start(1,3148782,4,0,0,0,"");
+Histats.track_hits();} catch(err){};
+</script></a>
+<noscript><a href="http://www.histats.com" target="_blank"><img  src="http://sstatic1.histats.com/0.gif?3148782&101" alt="web stats"border="0"></a></noscript>
+<!-- Histats.com  END  -->
+
+		
+
+</body></html>
