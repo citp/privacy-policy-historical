@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the shoptimized.net privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325081955id_/http%3A//fb.trafficfusion.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoptimized.net privacy policy that was archived on 2015-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151028183548id_/http%3A//www.shoptimized.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy — Shoptimized
 
-Privacy Policy was updated on 2014-12-09 12:39:18
+Privacy Policy was updated on 2015-04-23 3:03:18
 
 Effective: December 09, 2014
 
-The following describes the Privacy Policy for _www.trafficfusion.net._
+The following describes the Privacy Policy for _http://www.shoptimized.net_
 
-www.trafficfusion.net ("the Site") is owned and operated by Sales Funnel Conversion Ltd. is committed to protecting your personal information, being transparent about what information we collect, and giving you control over how we use it.
+www.shoptimized.net ("the Site") is owned and operated by Sales Funnel Conversion Ltd. is committed to protecting your personal information, being transparent about what information we collect, and giving you control over how we use it.
 
 For purposes of this Privacy Policy, "personal information" means information that identifies and can be used to contact a particular individual, and "non-personal information" means data in a form that does not permit direct association with any specific individual.
 
@@ -38,15 +38,15 @@ We collect information directly from you when you choose to participate in our o
 
 Information we collect when you visit our sites, use our services, or view our online advertisements:
 
-We may use cookies, web beacons, personalized retargeting and other technologies to collect non-personal information about you when you visit our site, use our services, or view online advertisements. We use these technologies to provide you a more personalized and richer consumer experience at www.trafficfusion.net. We do not store any of your personal information in cookies, web beacons or other technologies on your computer.
+We may use cookies, web beacons, personalized retargeting and other technologies to collect non-personal information about you when you visit our site, use our services, or view online advertisements. We use these technologies to provide you a more personalized and richer consumer experience at www.shoptimized.net. We do not store any of your personal information in cookies, web beacons or other technologies on your computer.
 
 Third party vendors, use cookies to serve ads based on a user's prior visits to a website. This lets companies provide you with targeted advertisements which are more relevant to you and your interests. Often called **"interest based advertising"** it is done by grouping together shared interests based upon previous web browsing activity.
 
 The Site may use other tracking tools, including web beacons. Web beacons are images on the Site (or in emails that the Site sends to you) that help us determine what parts of the Site you have visited, whether you have opened an email that we have sent to you, or otherwise to measure the effectiveness of the Site. These technical methods may involve the transmission of information directly to us or to a service provider authorized by us to collect information on our behalf.
 
-Personalized retargeting is another form of internet based advertising that enables our advertiser partners to show you ads based on your online browsing away from www.trafficfusion.net. For example, if you visited the website of an online book store you may start seeing adverts from the same book store displaying special offers or showing you the products that you were browsing when you come to www.trafficfusion.net. This allows companies to advertise to people who previously visited their website.
+Personalized retargeting is another form of internet based advertising that enables our advertiser partners to show you ads based on your online browsing away from www.shoptimized.net. For example, if you visited the website of an online book store you may start seeing adverts from the same book store displaying special offers or showing you the products that you were browsing when you come to www.shoptimized.net. This allows companies to advertise to people who previously visited their website.
 
-Although these internet based advertising technologies can track your visits around the web they do not identify who you are personally. Even if you sign in to www.trafficfusion.net, the internet based advertising data is still not linked to your personal information.
+Although these internet based advertising technologies can track your visits around the web they do not identify who you are personally. Even if you sign in to www.shoptimized.net, the internet based advertising data is still not linked to your personal information.
 
 The following are examples of information we may collect with these technologies:
 
@@ -120,9 +120,9 @@ Your Choice And Control Of Your Information
 
 1\. You have the choice to opt out of having your information used or disclosed for certain purposes.
 
-**Opting out of collection of Personal Information:** You may, of course, decline to submit any Personal Information through www.trafficfusion.net, in which case www.trafficfusion.net may not be able to provide certain services to you.
+**Opting out of collection of Personal Information:** You may, of course, decline to submit any Personal Information through www.shoptimized.net, in which case www.shoptimized.net may not be able to provide certain services to you.
 
-**Opting out of collection of Non-Personal Information:** You have the choice to delete and disable cookies, and other tracking/recording tools that collect non-personal information described above in this Privacy Policy. Note that disabling cookies on your mobile device or browser prevents www.trafficfusion.net or its business partners from tracking your browser’s activities in relation to the Service, and for use in targeted online advertising. However, doing so may also disable many of the features available through www.trafficfusion.net and therefore limit the full experience of engaging with our Service.
+**Opting out of collection of Non-Personal Information:** You have the choice to delete and disable cookies, and other tracking/recording tools that collect non-personal information described above in this Privacy Policy. Note that disabling cookies on your mobile device or browser prevents www.shoptimized.net or its business partners from tracking your browser’s activities in relation to the Service, and for use in targeted online advertising. However, doing so may also disable many of the features available through www.shoptimized.net and therefore limit the full experience of engaging with our Service.
 
 Instructions for blocking and deleting cookies are available at <http://www.allaboutcookies.org/manage-cookies/>.
 
@@ -140,7 +140,7 @@ Using this website without opting out means that you understand and agree to dat
 
 3\. You control the communications you receive from us.
 
-We only send you promotional mobile or email messages if you explicitly ask to receive these. (You opt in). You can stop receiving promotional mobile and email messages from www.trafficfusion.net by following the instructions provided in any such message you receive from www.trafficfusion.net.
+We only send you promotional mobile or email messages if you explicitly ask to receive these. (You opt in). You can stop receiving promotional mobile and email messages from www.shoptimized.net by following the instructions provided in any such message you receive from www.shoptimized.net.
 
 4\. You have the choice to request certain information about our disclosure of personal information to third parties for their direct marketing purposes.
 
@@ -176,4 +176,4 @@ _West Sussex_
 _PO21 1RS_  
 _UK_
 
-This document is Copyright © 2015, and licensed for use by the owner of this website at www.trafficfusion.net. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
+This document is Copyright © 2015, and licensed for use by the owner of this website at www.shoptimized.net. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
