@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directline.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613020416id_/https%3A//www.directline.com/legal/security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directline.com privacy policy that was archived on 2015-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151028205756id_/https%3A//www.directline.com/legal/security) for the most accurate reproduction.*
 
 # Security and Privacy - Legal - Direct Line
 
