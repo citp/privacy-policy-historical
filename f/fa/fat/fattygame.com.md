@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fattygame.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608075956id_/http%3A//www.fattygame.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fattygame.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029005001id_/http%3A//www.fattygame.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
