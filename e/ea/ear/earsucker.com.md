@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the earsucker.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615014411id_/http%3A//earsucker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earsucker.com privacy policy that was archived on 2015-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151028171847id_/http%3A//earsucker.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Earsucker
 
 **DATA COLLECTION:**
 
-The only anonymous data we collect is for statistical purposes to see how far our content is reaching. Any IP address or other identifying data is aggregated and disposed of after 30 days. Comment data is tied to your email address and/or username, but we will not expose anything personal there either unless you display it yourself. 
+The only anonymous data we collect is for statistical purposes to see how far our content is reaching. Any IP address or other identifying data is aggregated and disposed of after a short period of time. Comment data is tied to your email address and/or username, but we will not expose anything personal there either unless you display it yourself.
 
 **What information do we collect?**
 
@@ -30,6 +30,8 @@ We implement a variety of security measures to maintain the safety of your perso
 
 Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.  
 We use cookies to keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 **Do we disclose any information to outside parties?**
 
