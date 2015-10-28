@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the freezetheme.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223220042id_/http%3A//www.freezetheme.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freezetheme.com privacy policy that was archived on 2015-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151028152141id_/http%3A//www.freezetheme.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Free Download Premium Wordpress, Joomla themes plugins | FreezeTheme
 
-Welcome to FreezeTheme.com (the “Site”).We understand that privacy online is important to users of our Site, especially when conducting [business](http://www.freezetheme.com/tag/business/).This statement governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by SpaisNetwork (collectively, “Services”) (“Authorized Customers”).
+Welcome to FreezeTheme.com (the “Site”).We understand that privacy online is important to users of our Site, especially when conducting [business](http://www.freezetheme.com/business/).This statement governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by SpaisNetwork (collectively, “Services”) (“Authorized Customers”).
 
 “Personally Identifiable Information” 
 
