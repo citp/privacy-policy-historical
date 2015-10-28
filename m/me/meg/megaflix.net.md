@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megaflix.net privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315021319id_/https%3A//megaflix.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megaflix.net privacy policy that was archived on 2015-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151028093317id_/https%3A//megaflix.net/privacy-policy) for the most accurate reproduction.*
 
 # megaflix - Watch Movies Instantly Online
 
