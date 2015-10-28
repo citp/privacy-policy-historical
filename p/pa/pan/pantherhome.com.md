@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pantherhome.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628222143id_/http%3A//www.pantherhome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pantherhome.com privacy policy that was archived on 2015-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151028022003id_/http%3A//www.pantherhome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PantherHome
 
