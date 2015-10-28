@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the beanstalk-inc.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629131329id_/https%3A//www.beanstalkim.com/bsi/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beanstalk-inc.com privacy policy that was archived on 2015-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151028172410id_/https%3A//www.beanstalkim.com/bsi/privacy) for the most accurate reproduction.*
 
-# Beanstalk's Privacy Policy | Beanstalk Internet Marketing
+# Beanstalk's Privacy Policy
 
-We take your right to privacy and to protect the information you give us very seriously. While the basic rule at Beanstalk Internet Marketing is essentially, if it’s about a client – it stays at work, we feel it’s necessary to outline clearly what this means for you. 
+We take your right to privacy and to protect the information you give us very seriously. While the basic rule at Beanstalk Internet Marketing is essentially, if it’s about a client – it stays at work, we feel it’s necessary to outline clearly what this means for you.
 
 * * *
 
