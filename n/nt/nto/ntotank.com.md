@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ntotank.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607175340id_/http%3A//www.ntotank.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntotank.com privacy policy that was archived on 2015-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151028200956id_/http%3A//www.ntotank.com/privacypolicy.html) for the most accurate reproduction.*
 
 # NATIONAL TANK OUTLET 888-686-8265 Low Price Guaranteed!
 
@@ -25,7 +25,3 @@ We use third-party web beacons from Yahoo! to help analyze where visitors go and
 Contact Us
 
 PHONE: 888-686-8265
-
-TOLL FREE - 888-686-8265
-
-EMAIL - sales@ntotank.com 
