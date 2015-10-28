@@ -1,58 +1,89 @@
-> *The following text is extracted and transformed from the crystaltravel.co.uk privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428001616id_/http%3A//www.crystaltravel.co.uk/Privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crystaltravel.co.uk privacy policy that was archived on 2015-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151028155513id_/http%3A//www.crystaltravel.co.uk/Privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy policy - Holidays, travel, Cheap Holidays, discount flights, Flights
 
-The following discloses our information gathering and dissemination practices for our www.crystaltravel.co.uk website. 
+### Privacy Policy Statement
 
-Why do I need a privacy policy?
+    Crystaltravel.co.uk is an online travel portal that offers flights, hotel deals, holiday packages, car rentals, travel guides and lots more. 
 
-As a member of Moresand Ltd., we ask you to provide us with some personal information such as your name, email address and phone number. We also ask you to choose a login name and password in order to access some of our services.
+This Privacy Policy explains the way we use your given information and the steps we take to make sure that your information is secure and confidential with us. We at Crystal Travel, understand that online booking involves complete trust on your part. We accept this trust very seriously, making it a high priority service, ensuring a safe and delicate deal with you. 
 
-  * We need your e-mail address in order to send you confirmation of online bookings, customer service emails and to confirm your new member registration. During your member registration, you will have the option to receive travel offers by email - if you do not wish to continue to receive these travel offers by email. You can opt out at anytime by emailng to optout@crystaltravel.co.uk policy described below.
-  * We collect your credit card number and expiration date to order and book a flight, hotel or car rental.
-  * We would use your phone number if we need to contact you urgently (for example if you had made a mistake entering your email address.
-  * We collect and store your credit card information in our internal database. Only authorized staff have access to this information and the same is stored and protected by firewalls and intrusion detection systems to prevent any unauthorised access.
-  * We ask you where did you hear about www.crystaltravel.co.uk and we use this information to analyse the effectiveness of the various publicity campaigns.
-  * In order to use the Flight Watch service you need to provide us with your mobile telephone number. This number is only used to fulfil the Flight Watch function and is not shared with third parties.
-  * We log domain names and/or IP addresses, and browser type for our internal site traffic statistics. IP addresses, etc. are not tied to personally identifiable information.
-  * We use cookies to monitor which parts of the Site are more interesting to you.
+Crystal Travel (Reg. No. 3517) extends its protection to clients who complete the booking and payment procedure in the United Kingdom. Click on our ATOL logo to find out more information about the security and the authentication of our company and dealing. Our website is operated by the Moresand Group (registered in England and Wales under number 2114691), whose registered office is 38 Riding House Street, London W1W 7ES. The organization does all the trading under its ATOL registered name, Crystal Travel. Our website is intended for use by residents of the UK who are over 18 years of age. If you have questions or concerns regarding this statement, you should first contact: enquiry@crystaltravel.co.uk 
+
+[Categories of Your Personal Information We Collect __]()
+     When you visit any Platform, we may gather some facts from you, some of it may refer to your confidential information. Such content can consist of an IP address, search history, operating system, access time, URL and browser. 
+
+If you purchase/book a travel product via any Platform, we may require additional information from you. Such information can include your/traveller's name, telephone number, email address, passport number, credit card information, billing address, itineraries and other details. 
+
+If you register with us, we gather your email id and password, your native airport and other details. If you refer to a third-party service/platform such as Facebook to login/register, you are permitting us to use and store that particular information related to the account. 
+
+By giving us your personal information, you are declaring to us that the information is true, accurate, complete and current to your knowledge. You are also indicating to us that you have complete authority to provide it to us.
+
+[How Do we Collect Your Data? __]()
+     We collect your personal information in several different ways: 
+
+  * \- When you make a reservation, purchase something from our website or even through our customer service experts through phone, email, fax or letter.
+  * \- When you register with us, sign-up to our newsletter, register for competitions/promotions or provide any feedback and take part in surveys.
+  * \- To make Crystal Travel even more user-friendly and innovative, we use 'cookies' to collect information regarding your use of the website. 
+  * \- Calls from/to our help desk or travel extra maybe recorded or even monitored for quality control purpose as well as for staff training. The recordings will be stored till needed and then it will be deleted. Therefore, any personal information obtained from you will be treated completely within the criterion of this Privacy Policy.
 
 
+[With Whom Do We Share Your Information __]()
+     Crystaltravel.co.uk may share your information with the following entries:
 
-This site contains links to other sites that we are not partnered with, however, www.crystaltravel.co.uk is not responsible for the privacy practices or the content of such websites. Sites we partner with have the same look and feel as our crystaltravel.co.uk. They use your information only for supplying the service they offer, and may not use your personally identifiable information for anything other than the primary purpose for which the information was collected. We also send the user site and service announcements by email. Members are not able to un-subscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via email or phone 
+**Products Suppliers**   
+With airline, hotel, car hire suppliers and other activity providers who fulfil your travel reservations. We advise you to review any third-party travel supplier's privacy policy whose product is purchased by you through Crystaltravel.co.uk. You might be contacted by such suppliers to obtain further information about you and assist you with your reservations or even respond to a review that you submit. 
 
-Information gathered from competitions
+**Third Party**  
+With third-party suppliers who provide the necessary services. Such third-party vendors may collect information on our behalf as needed, but, they do not have permission to use/share the information for any other purpose. 
 
-We occasionally run competitions on our site. We may ask for personal information to contact you if necessary (with a winner's notification, for example). You will also have the choice to be added to our mailing list for future promotions and travel offers. You may opt-out at any time of receiving future mailings, see the Opt Out section below. Abbreviated customer names may be used on our competition winners page as well. 
+**Business Partners**  
+With business partners who have collaborated with us to provide a joint product or service. By providing your information to such partners, they may contact you directly through email, phone or by post. Kindly be aware that we do not control or have access regarding the privacy practices of these third-party vendors. 
 
-Job Applications
+**Other Travel Companies**  
+With companies within our corporate/travel sector as such, sharing enables us to provide you about products and services related to both leisure and business tours, that might interest you. To assure you of safety, these corporate companies follow practices that are as restrictive as those policies that are mentioned here. 
 
-There is a section of the website where you can apply for a job at jobs@crystaltravel.co.uk . We collect personal information such as name and address to contact applicants in relation to their job application. We also ask for optional demographic information, which we use for recruitment purposes only. We do not share any of the above mentioned information with anyone else. 
+**For Further Investigation and Illicit Usage**   
+Where required by law in the good faith belief, when we feel the need to further investigate, take action or even prevent any suspicious activity to defend the rights and safety of Crystal Travel. 
 
-Sharing the information our Site gathers/tracks
+[Your choices with respect to the collection and use of your information __]()
+     As mentioned above, you may choose not to provide us with your personal data, although it might be beneficial to take advantage of certain features offered by us. 
 
-The information that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. 
+When you register as a member on our website, you will be given a choice regarding the emails you want to receive from us. Crystal Travel sends updates about offers and other product services. You can modify your choices and information in the form given. 
 
-We do not sell customer names or other private profile information to third parties and have no intention of doing so in the future. Occasionally, crystaltravel.co.uk will hire a third party to act on our behalf for projects such as market research surveys and contest entry processing and will provide information to these third parties specifically for use in connection with these projects. The information we provide to such third parties is protected by a confidentiality agreement and is to be used solely for completing the specific project. 
+Please remember that we possess the right to send you other communications, including administrative messages, service announcements and surveys relating to your account and transactions. Anytime you may choose to unsubscribe from our messages/emails.
 
-Cookies
+[How we protect your information __]()
+     We require you to be 100% confident about using Crystaltravel.co.uk to process your flights, hotels and other travel bookings, and we assure you of protecting the information we gather from you. We have enforced necessary administrative, specialized, physical and technical security measures to safeguard the classified information you render to us. We trigger off the encryption when transmitting personal information that is highly sensitive (credit card details, etc.) between your system and ours, and we utilize firewalls and encroachment sensing systems to forbid unauthorized persons from gaining an approach to your information.
+[Crystal Travel's Cookie Policy __]()
+     Redefining the World of Travel' is our motto, so we strive hard to satisfy our customers and deliver a brilliant and engaging website that displays the need of today's traveller. One of the ways in which we do this, is through the excess use of cookies. 
 
-We at www.crystaltravel.co.uk are constantly researching the latest in technology to ensure that we are able to give you the most effective, informative and enjoyable experience on our site. An integral part of this is the use of permanent cookies. A cookie is a small text file that our site may send to your hard drive when you are logged on to the Crystal Travel site. When you next visit CrsytalTravel.com, our site may request the retrieval of one of these cookies, and the information received will personalise our content, offers and services to suit your individual travel preferences. 
+A cookie is a text file that is preserved in your computer/mobile, ensuring you of the best and flawless experience while visiting a website. 
 
-If you want to know when our site is using a cookie from your hard drive, you can set your browser to send you an alert. If you prefer to use our site without utilising cookies, you can set your browser to not accept them at all, however, they will make your life easier. Many websites are employing this cookie technology and cookies are never to be used to store information of a private nature, such as credit card numbers. However, we tie cookie usage to personally identifiable information on our end to provide personalised travel preferences. Also, you can be assured that the information stored in any cookies initiated by Crystal Travel cannot be accessed by any other websites. 
+The cookie allows Crystal Travel to improve the website content, speed and usage and tracking them helps us to understand the clients/visitors' choice, likes and dislikes. Once you are logged in, the site cookie immediately responds and sets the site accordingly. Our cookies make sure that the time you spent on our website is fruitful and intuitive. Without the placement of a cookie, a website is unable to retrieve your details and preferences. By allowing us to place a cookie, you do not have to remember your login name/username each time you visit. A cookie does your part of remembering such details. 
 
-www.crystaltravel.co.uk works with a third party advertising company to serve ads when you visit our website. This company may use information (not including your name, address, email address or telephone number) about your visit to this website in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
+Cookies also permit us to highlight the choicest destination you are interested in. Once the choice is indicated, we can display what's on top and what's hot in terms of destinations and deals. In simple words, we inspire you and narrow the search down. 
 
-Links
+The most crucial thing to keep in mind is this, that whilst some cookies are used to track your use of our website, they cannot be used to identify you personally or tell us who you are.
 
-This website contains links to other websites. We have partnered with some of them. Please note that when you click on one of these links, you are 'clicking' to another website. We encourage you to read the privacy statements of these linked sites as their privacy policy may differ from ours. However, our partnered sites have the same look and feel to ours, and may only use the personally identifiable information collected to fulfill services they are designated to provide. 
+[How Can You Manage Cookies? __]()
+     We hope we have built ample confidence in you regarding how cookies work and how Crystal Travel uses them to increase your browsing understanding and experience. We are aware that you may want to manage your cookies, so here are some tips: 
 
-Security
+You can manage/tackle or alter your web browser controls in order to accept or reject cookies as you please, but kindly remember, if you do decide to refuse cookies, usages and access to some areas of our website may be restricted.
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. We use Secure Socket Layers (SSL) technology to ensure the privacy of the information provided to us both in the flights booking engine and in the order forms. At no time are the customers debit/credit card details transmitted un-encrypted over the Internet. We also operate behind a firewall to ensure there is no unauthorised access to our systems. 
+[External Links and Social Plug-ins? __]()
+     If you come across any link that transfers you to other websites, those websites do not operate under this Policy. We strongly advise you to examine the privacy declaration of those websites to comprehend their dealings and procedures. The same applies, if any part of Crystaltravel.co.uk website uses social media plug-ins from Facebook or Twitter, registration, 'Like Button', 'Comments'. We provide the option to register with our website via such 'Connect Plug-in' that allows Facebook users to easily register with our site without even mentioning their data. Rather, your Facebook ID, email address will be transferred from the social media platform to us and stored well. 
+[Changes to this Privacy Policy? __]()
+     We may update this Privacy Policy in the future. We will notify you about material changes to this Privacy Policy by mailing you a notice to the email address you provide to us, or by inserting a notice on our website.
+[Visiting our website from outside the United Kingdom __]()
+     In case you visit/browse our website from outside the United Kingdom, kindly be alerted that your data may be transferred to/stored in/and processed in the UK. The preservation/protection of the data/information and other laws of the United Kingdom and other countries that your data may be transmitted to may not be as all-inclusive as those in your country, but be assured that we take all the necessary steps to guarantee that your privacy is maintained and protected. By using our features/services, you authorize and fully understand that your information could be transmitted to our facilities and other third parties with whom we share it as described in this Policy.
+[How You Can Contact Us __]()
+     If you have any question about this Privacy Policy (or travel planning and product purchase), kindly contact us at: 
 
-Changes to our Privacy Statement
+Email:- Email For General Enquiry: enquiry@crystaltravel.co.uk Information about travel plans: customercare@crystaltravel.co.uk 
 
-If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we would notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our website notifying users of the change. In some cases where we post the notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
+Call:- Get in touch with our customer care executives for your queries regarding flight tickets, hotel bookings, holiday packages, car hire, cancellation and refund by calling us at free phone: For Callers within the UK: 0800 368 0300 For Callers from outside of the UK: +44 207 612 0500 
 
-If you have questions or concerns regarding this statement, you should first contact [customercare@crystaltravel.co.uk](mailto:customercare@crystaltravel.co.uk)
+If you have any suggestion, appreciation and feedback to provide for our services and assistance, feel free to drop us a mail at: feedback@crystaltravel.co.uk 
+
+Head Office:- Address : 38 Riding House Street London W1W 7ES Telephone : +44 (0) 2076120500 Fax Number : +44 (0) 2076360667
