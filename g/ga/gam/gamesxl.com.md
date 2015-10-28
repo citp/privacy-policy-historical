@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesxl.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611103055id_/http%3A//www.gamesxl.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesxl.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029005242id_/http%3A//www.gamesxl.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Games XL .com
 
@@ -96,7 +96,7 @@ Gamesxl.com may amend this statement. It is therefore recommended to read this s
 Access and amendments to personal data
 
 You may amend and/or delete your personal data provided actively on your profile page.  
-You may at all times communicate all your questions about our privacy policy or questions regarding access and amendments to (or removal of) your personal data to Gamesxl.com. You are requested to use our [contact form](http://www.gamesxl.com/help-and-contact/contact/ "Contact form") for that purpose.
+You may at all times communicate all your questions about our privacy policy or questions regarding access and amendments to (or removal of) your personal data to Gamesxl.com. You are requested to use our [contact form](http://admeen.com/contact/?ref=http://www.gamesxl.com "Contact form") for that purpose.
 
 We have been registered with the Chamber of Commerce under number: 08154287  
 This privacy statement was updated most recently on October 25, 2011.
