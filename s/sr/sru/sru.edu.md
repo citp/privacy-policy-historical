@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sru.edu privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612185359id_/http%3A//www.sru.edu/Documents/web/sru-web-privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sru.edu privacy policy that was archived on 2015-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151028041613id_/http%3A//www.sru.edu/Documents/web/sru-web-privacy-policy.pdf) for the most accurate reproduction.*
 
 # 
 
