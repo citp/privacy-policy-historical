@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opendoorsusa.org privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628231922id_/https%3A//www.opendoorsusa.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opendoorsusa.org privacy policy that was archived on 2015-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151028033859id_/http%3A//opendoorsusa.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Open Doors USA
 
@@ -47,7 +47,7 @@ Information about the devices our visitors use to access the Internet (such as t
 
   * Dates and times of visits to our sites  
 
-  * Information on actions taken on our sites (such as page views and site navigation patterns)  
+  * Information on actions taken on our sites (such as page views, time on pages, and site navigation patterns)  
 
   * A general geographic location (such as country and city) from which a visitor accesses our websites  
 
