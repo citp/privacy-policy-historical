@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livetrucking.com privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529044349id_/http%3A//www.livetrucking.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livetrucking.com privacy policy that was archived on 2015-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151028165416id_/http%3A//www.livetrucking.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Livetrucking.com
 
