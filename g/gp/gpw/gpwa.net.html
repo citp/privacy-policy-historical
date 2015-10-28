@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gpwa.net privacy policy that was archived on 2015-04-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150423212306id_/http%3A//gpwa.net/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gpwa.net privacy policy that was archived on 2015-10-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151028144900id_/http%3A//www.gpwa.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 	
@@ -51,7 +51,7 @@
 			var username = "";
 			var userid = "";
 			var loginhtml = new String;
-			var randomnumber = 62586.27;
+			var randomnumber = 38940.13;
 			$(document).ready(function()
 						{
 							$.getJSON("/forum/gpwauser.php?rnd="+randomnumber, function(user)
@@ -80,7 +80,7 @@
 										$("#communityitems").html("<li><a rel='nofollow' href='/forum/profile.php?do=buddylist'>Contacts &amp; Friends</a></li><li><a href='/forum/group.php'>Social Groups</a></li><li><a rel='nofollow' href='/forum/album.php?u="+userid+"'>Pictures &amp; Albums</a></li><li><a href='/forum/online.php'>Who's Online</a></li><li><a rel='nofollow' href='/forum/misc.php?do=buddylist&amp;focus=1' onclick=\"window.open('/forum/misc.php?do=buddylist&amp;focus=1','buddylist','statusbar=no,menubar=no,toolbar=no,scrollbars=yes,resizable=yes,width=250,height=300'); return false;\">Open Contacts Popup</a></li><li><a href='/forum/usercp.php'>My Control Panel</a></li>");
 										$("#memberitems").html("<li><a href='/members/index.asp?sort=A' title='Member Directory'>Member Directory</a></li><li><a href='/forum/calendar.php' title='Member''s Birthdays'>Member Birthdays</a></li><li><a href='/register.asp' title='Become a Member'>Become a Member</a></li>");
 										$("#notifications").show();
-											
+										$("#subscribe").html('<a href="/members/forms/membershipprofile.asp">Subscribe</a>');
 										var url = "/forum/gpwasecurity.php?u=&s=" + escape('');
 										$.ajax({
 										type: 'GET',
@@ -112,7 +112,7 @@
 			}
 		</style>
 		<link rel="stylesheet" type="text/css" href="/inc/global.css">		
-</head>
+<script src="https://web.archive.org/static/js/analytics.js?_=1580470549464"></script></head>
 <body>
 <div id="bodyContainer">
 <div id="shb"></div>
@@ -135,11 +135,30 @@
 				<table border="0" style="width:100%;text-align:left;padding-bottom:10px">
 					<tbody><tr>
 						<td style="font-size:11px; font-family:verdana;height:15px;text-align:left;vertical-align:middle">
-							<div id="login" style="float:left;font-size:11px; font-family:verdana;height:15px;text-align:left;vertical-align:middle;">		  
-								Welcome, Guest &nbsp;[<b><a href="/login.asp?url=/privacy/index.asp">Log In</a> -or- <a href="/register.asp">Join GPWA</a></b>]
-							</div>
+							<div id="login" style="float:left;font-size:11px; font-family:verdana;height:15px;text-align:left;vertical-align:middle;">
+Welcome, Guest &nbsp;[
+
+
+
+
+<link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css">
+
+<b><a href="/save/http://www.gpwa.org/login.asp?url=/privacy/index.asp" rel="nofollow">Log In</a> -or- <a href="/save/http://www.gpwa.org/register.asp">Join GPWA</a></b>]
+
+
+
+
+<!--
+     FILE ARCHIVED ON 11:35:49 Jan 31, 2020 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 11:35:49 Jan 31, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+</div>
 							<div id="notifications" style="float:right;font-size:11px; font-family:verdana;height:15px;vertical-align:middle;display:none">
-								<a href="/forum/usercp.php">Notifications: </a> 
+								<a href="/forum/usercp.php">Notifications: 0</a> 
 							</div> 
 							<div style="clear:both"></div>
 						</td>
@@ -210,19 +229,16 @@
 					<li><a href="/register.asp" title="Become a Member">Become a Member</a></li>
 				</ul>
 			</li>
-			<li><a href="/gpwa_times/">GPWA TIMES</a>
+			<li><a href="http://www.gpwatimes.org" target="gpwatimes">GPWA TIMES</a>
 				<ul>
-					<li><a href="/gpwa_times/">Current Newsletter</a>
-					</li><li><a href="/gpwa_times/archives.asp">Newsletter Archives</a></li>
-					<li><a href="/magazine">Magazine</a></li>
+					<li><a href="http://www.gpwatimes.org/newsletter/current/" target="gpwatimes">Current Newsletter</a></li>
+					<li><a href="http://www.gpwatimes.org/magazine/issue-33/" target="gpwatimes">Current Magazine</a></li>
+					<li><a href="http://www.gpwatimes.org/newsletter/" target="gpwatimes">Newsletter Archives</a></li>	
+					<li><a href="http://www.gpwatimes.org/magazine/" target="gpwatimes">Magazine Archives</a></li>
+					<li id="subscribe"><a href="http://www.gpwatimes.org/subscribe/" target="gpwatimes">Subscribe</a></li>
 				</ul>
 			</li>
-			<!--<li><a href="http://www.gpwaconference.com" target="_blank">CONFERENCES</a>
-				<ul>
-					<li><a href="http://www.gpwaconference.com" target="_blank">GPWA Conference</a></li>
-					<li><a href="/conferences">Industry Conferences</a></li>
-				</ul>
-			</li>-->
+
 			<li><a href="/news/index.asp">NEWS</a>
 				<ul>
 					<li><a href="/news/webmasters-news.asp" title="Webmasters News">Webmasters News</a></li>
