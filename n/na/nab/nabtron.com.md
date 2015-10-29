@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nabtron.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608024644id_/http%3A//nabtron.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nabtron.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029193541id_/http%3A//nabtron.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Nabtron
+# Privacy Policy
 
 Privacy Policy for Nabtron.com
 
