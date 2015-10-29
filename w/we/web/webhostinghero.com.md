@@ -1,30 +1,65 @@
-> *The following text is extracted and transformed from the webhostinghero.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005152133id_/http%3A//www.thewebhostinghero.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhostinghero.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029015313id_/https%3A//www.webhostinghero.com/privacy) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Policy - WebHostingHero.com
 
-We can be reached via e-mail at info _at_ thewebhostinghero.com.
+## Privacy Policy
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer’s domain name, but not the e-mail address (where possible).
+This Privacy Policy governs the manner in which 7243103 CANADA INC. collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://www.webhostinghero.com/ website (“Site”). This privacy policy applies to the Site and all products and services offered by 7243103 CANADA INC.
 
-We collect the domain name and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit.
+### Personal identification information
 
-The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, used to notify consumers about updates to our Web site.
+We may collect personal identification information from Users in a variety of ways in connection with activities, services, features or resources we make available on our Site.. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-With respect to cookies: We use cookies to store visitors preferences.
+### Non-personal identification information
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
+### Web browser cookies
 
-  * http://www.google.com/privacy.html
-  * http://www.cj.com/privacy.html
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+
+### How we use collected information
+
+The only information collected is from Google Analytics. 7243103 CANADA INC. may collect and use Users personal information for the following purposes:
+
+  * **To personalize user experience**  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * **To improve our Site**  
+We may use feedback you provide to improve our products and services.
 
 
 
-Upon request we provide site visitors with access to a description of information that we maintain about them.
+### How we protect your information
 
-Consumers can access this information by e-mail us at the above address.
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information.
+Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+### Sharing your personal information
+
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+
+### Third party websites
+
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
+
+### Advertising
+
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+
+### Changes to this privacy policy
+
+7243103 CANADA INC. has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+### Your acceptance of these terms
+
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+### Contacting us
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+
+7243103 CANADA INC.  
+<https://www.webhostinghero.com/contact/>
+
+This document was last updated on March 11, 2015
