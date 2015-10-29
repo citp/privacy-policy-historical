@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the texasattorneygeneral.gov privacy policy that was archived on 2015-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150412104055id_/https%3A//www.texasattorneygeneral.gov/agency/site-policies%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texasattorneygeneral.gov privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029114853id_/https%3A//www.texasattorneygeneral.gov/agency/site-policies%23privacy) for the most accurate reproduction.*
 
 # Agency - Site Policies
 
@@ -69,7 +69,7 @@ If an intellectual property owner believes his/her rights have been infringed by
 >  P.O. Box 12548  
 >  Austin, TX 78711-2548
 > 
-> Phone: (512) 463-2050
+> Phone: (512) 936-1414
 > 
 > Email: [communications@texasattorneygeneral.gov](mailto:communications@texasattorneygeneral.gov)
 
@@ -94,15 +94,15 @@ The [Texas Department of Information Resources State Website Link Policy](http:/
 
 ## Website Link Policy
 
-The Office of the Attorney General's website complies with the [Texas Department of Information Resources State Website Link Policy](http://www2.dir.state.tx.us/pubs/Pages/weblink-privacy.aspx), which contains guidelines and information on linking to State agency websites. Our website also includes links to a variety of other public and private websites. These external sites have been selected based on the relevance of their content to assist visitors in locating additional resources and information on government, law, and other matters within the scope of the agency's duties or of general public concern. Some links to external sites are required by law to be included on our site. The Office of the Attorney General does not assume responsibility for the content of linked sites and does not endorse the content, products, services or viewpoints expressed or provided by linked sites.
+The Office of the Attorney General's website complies with the [Texas Department of Information Resources State Website Link Policy](http://publishingext.dir.texas.gov/portal/internal/resources/DocumentLibrary/State%20Website%20Linking%20and%20Privacy%20Policy.pdf), which contains guidelines and information on linking to State agency websites. Our website also includes links to a variety of other public and private websites. These external sites have been selected based on the relevance of their content to assist visitors in locating additional resources and information on government, law, and other matters within the scope of the agency's duties or of general public concern. Some links to external sites are required by law to be included on our site. The Office of the Attorney General does not assume responsibility for the content of linked sites and does not endorse the content, products, services or viewpoints expressed or provided by linked sites.
 
 ## Accessibility Policy
 
 The Office of the Attorney General is committed to making its website accessible to all users. We welcome comments and suggestions to improve the accessibility of our website. Please visit the [Electronic and Information Resources Accessibility Policy and Procedures Manual](https://web.archive.org/files/agency/accessibility_policy.pdf).
 
-If you use assistive technology and the format of any material on our website interferes with your ability to access the information, please contact our Webmaster by email at [**webmaster@texasattorneygeneral.gov**](mailto:webmaster@texasattorneygeneral.gov?subject=Regarding%20Accessibility "Webmaster").
+If you use assistive technology and the format of any material on our website interferes with your ability to access the information, please report these issues through our [contact page](https://web.archive.org/contact-form/).
 
-To enable us to respond in the most helpful way, please indicate the nature of the accessibility problem, the preferred format in which to receive the material, the Web address of the requested material, and your contact information. Every attempt will be made to resolve the problem; however, due to technological resource limitations we may be unable to address all issues. You may contact our Accessibility Coordinator by sending an email with "Regarding Accessibility" in the subject line to [**public.information@texasattorneygeneral.gov**](mailto:public.information@texasattorneygeneral.gov?subject=Regarding%20Accessibility "Accessibility%20Coordinator"), or by calling 512-475-4413.
+To enable us to respond in the most helpful way, please indicate the nature of the accessibility problem, the preferred format in which to receive the material, the Web address of the requested material, and your contact information. Every attempt will be made to resolve the problem; however, due to technological resource limitations we may be unable to address all issues.
 
 Additional information on accessibility programs in Texas is available from the Governor's Committee on People with Disabilities at [**www.governor.state.tx.us/disabilities/**](http://www.governor.state.tx.us/disabilities/).
 
