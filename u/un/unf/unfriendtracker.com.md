@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unfriendtracker.com privacy policy that was archived on 2015-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150522015436id_/http%3A//www.unfriendtracker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unfriendtracker.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029070533id_/http%3A//www.unfriendtracker.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,7 +28,7 @@ UnfriendTracker does not knowingly collect or solicit personal information from 
 
 3\. Children Under the Age of 18
 
-We recommend that minors 18 years of age or older ask their parents for permission before sending any information about themselves or their friends to anyone over the Internet. 
+We recommend that minors 18 years of age or younger ask their parents for permission before sending any information about themselves or their friends to anyone over the Internet. 
 
 4\. Use of Information Obtained by UnfriendTracker
 
