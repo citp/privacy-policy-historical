@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safetykart.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322163305id_/https%3A//www.safetykart.com/content/10-privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safetykart.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029084730id_/http%3A//www.safetykart.com/content/5-privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security - SafetyKart
 
@@ -7,10 +7,10 @@ SafetyKart.com places your privacy first and foremost. This Privacy Policy provi
 At SafetyKart.com, we are extremely proud of our commitment to protect your privacy. We value your trust and put in time and effort to earn it. Please read the following policy to understand how your personal information will be treated as you make full use of our site.
 
   * Our privacy policy is subject to change without prior notice. Please review this policy periodically and keep up-to-date with the revised policy.
-  * We hope to clearly inform that by visiting SafetyKart.com, you agree to be bound by the terms and conditions of this Privacy Policy. 
+  * We hope to clearly inform that by visiting SafetyKart.com, you agree to be bound by the terms and conditions of this Privacy Policy.
   * By mere use of the Website, you are consenting to our use and disclosure of your personal information in accordance with the Privacy Policy set.
 
-
+ 
 
 **Collection of Personal Information:**
 
@@ -36,7 +36,7 @@ We collect personally identifiable information (email address, name, phone numbe
 
  **Personally Identifiable Information:**
 
- ****We may collect the following personally identifiable information about you:
+We may collect the following personally identifiable information about you:
 
   * First and Last name.
   * Mobile phone number and contact details.
@@ -54,7 +54,7 @@ We use contact information internally to:
 
  **Use of Personal Information:**
 
- ****We may use the personal information that you provide, for the services you request. We may use your personal information to market to you and will provide the option to opt-out of them. Your personal information will be used to resolve disputes; troubleshoot problems; help promote a safe service; collect money; measure consumer interest in our products and services, inform you about online and offline offers, products, services, and updates; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our terms and conditions; and as otherwise described to you at the time of collection.
+We may use the personal information that you provide, for the services you request. We may use your personal information to market to you and will provide the option to opt-out of them. Your personal information will be used to resolve disputes; troubleshoot problems; help promote a safe service; collect money; measure consumer interest in our products and services, inform you about online and offline offers, products, services, and updates; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our terms and conditions; and as otherwise described to you at the time of collection.
 
 In our efforts to continually improve our product and service offerings, we will collect and analyse demographic and profile data about your activity on our Website.
 
@@ -72,15 +72,15 @@ We **do not** collect **any** payment card details electronically. **You are str
 
  **Consent:**
 
- ****By submitting data to us or our agent or using the Site, you consent to our use of your data in the manner set out in this Privacy Policy.
+By submitting data to us or our agent or using the Site, you consent to our use of your data in the manner set out in this Privacy Policy.
 
  **Copyright:**
 
- ****The Privacy Policy presented above is copyrighted. Use by third parties, even by way of extract, for commercial purposes is not allowed. Infringements may be subject to legal action. This Privacy Policy can change at any time to include / exclude clauses and SafetyKart.com does not bear responsibility for updating Users on the same.
+The Privacy Policy presented above is copyrighted. Use by third parties, even by way of extract, for commercial purposes is not allowed. Infringements may be subject to legal action. This Privacy Policy can change at any time to include / exclude clauses and SafetyKart.com does not bear responsibility for updating Users on the same.
 
  **User’s Consent:**
 
- ****Through the use of our Website and/ or by providing your information, you willingly consent to the collection and use of the information you disclose on the Website in accordance with the Privacy Policy, including but not limited to your consent for sharing your information as per this privacy policy.
+Through the use of our Website and/ or by providing your information, you willingly consent to the collection and use of the information you disclose on the Website in accordance with the Privacy Policy, including but not limited to your consent for sharing your information as per this privacy policy.
 
   
 If there is a change in our privacy policy, it will be posted on this page. We would suggest that you should revise it and stay aware of what information we collect, how we use it, and under what circumstances we disclose it.
