@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lateralcode.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617054643id_/http%3A//www.lateralcode.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lateralcode.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029082431id_/http%3A//www.lateralcode.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
