@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponsdowork.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624003155id_/http%3A//couponsdowork.com/coupons-do-work-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponsdowork.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029164718id_/http%3A//couponsdowork.com/coupons-do-work-privacy-policy) for the most accurate reproduction.*
 
 # Coupons Do Work : Privacy Policy
 
