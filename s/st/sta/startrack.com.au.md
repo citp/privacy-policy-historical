@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the startrack.com.au privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612091437id_/http%3A//www.startrack.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startrack.com.au privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029125955id_/https%3A//www.startrack.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Our Privacy Policy | StarTrack
 
-## PRIVACY POLICY
+##  PRIVACY POLICY
 
-### Introduction
+###  Introduction
 
 This Privacy Policy describes the personal information that may be collected by StarTrack, an entity within the Australia Post Group (‘APG’, ‘we’ or ‘us’), the choices you can make about your personal information and how we protect your information. The APG incorporates all related bodies corporate and controlled entities.
 
@@ -14,7 +14,7 @@ To meet your expectations about privacy and confidentiality Australia Post has o
 
   * Australian Privacy Principles (APPs) contained in the Privacy Act 1988
   * [Australian Direct Marketing Association (ADMA) Code of Practice](http://www.adma.com.au/comply/code-of-practice) in relation to how we market to our customers;
-  * [Privacy and secrecy requirements contained in Part 7B of the Australian Postal Corporation Act 1989](http://www.austlii.edu.au/au/legis/cth/consol_act/apca1989337/) in relation to our handling of mail and postal information; 
+  * [Privacy and secrecy requirements contained in Part 7B of the Australian Postal Corporation Act 1989](http://www.austlii.edu.au/au/legis/cth/consol_act/apca1989337/) in relation to our handling of mail and postal information;
   * [Spam Act 2003](http://www.austlii.edu.au/au/legis/cth/consol_act/sa200366/) in relation to electronic marketing;
   * [Do Not Call Register Act 2006](http://www.comlaw.gov.au/Details/C2011C00041) where we engage in telemarketing
   * [Telecommunications Industry Standard 2007](http://acma.gov.au/webwr/_assets/main/lib100844/dnc_tis_standard_2007.pdf) where we engage in telemarketing.
@@ -23,7 +23,7 @@ To meet your expectations about privacy and confidentiality Australia Post has o
 
 If you have any questions not addressed in this policy, please feel free to contact us using the methods at the end of this policy under the heading “How to contact Us”.
 
-### Your acknowledgement of our privacy policy
+###  Your acknowledgement of our privacy policy
 
 By using this website, you acknowledge that you’ve read and understood this privacy policy. Please note that this policy does not extend your rights or APG’s obligations beyond those defined in the legislation listed above.
 
@@ -33,7 +33,7 @@ This policy includes examples but is not intended to be restricted in its applic
 
 Our websites contain links to non-APG websites. We are not responsible for the privacy policies of those other websites. We recommend you review the privacy policies of each site you visit.
 
-### Collection of personal information
+###  Collection of personal information
 
 ‘Personal information’ means information we hold about you where your identity is either clear or can be reasonably determined. When you give us your personal information, it imposes a serious responsibility on us. Protecting your privacy when handling your personal information is very important to us and is fundamental to the way we serve you.
 
@@ -62,17 +62,20 @@ If you choose to not provide your personal information when requested, we may no
 
 In some cases, where it makes sense and is lawful, you can interact with us anonymously or by using a pseudonym (an alias). We will endeavour to make this option clear when it is available to you.
 
-#### Information collected
+####  Information collected
 
 As noted above, we will only collect personal information from you that’s necessary to provide the product or service or to carry out internal administrative functions, or any other personal information you submit to us. We collect different personal information depending on the product or service that you have requested. Some examples include:
 
   * Parcels - When you ship a parcel with us we will capture the details of the parcel including shipping activities (for tracking purposes), the weight and dimensions of the parcel, and the sender and receiver details. This information allows us to route the package and to respond to queries from both the sender and the receiver.
   * Identity and Document Services – Given our broad presence across Australian communities, we provide a range of identity and document services that allow our customers to apply for ID cards (e.g., KeyPass), apply for government papers, apply for passports, and witness document as well as a broad range of other services. These services, performed on behalf of other organisations and agencies often require the collection of identity details such as name, address, and proof of identity details (e.g., drivers licence, passport number). We typically pass this information to the service provider and retain a copy in case there are problems with the processing of the transaction and to meet our legal obligations. After the retention period is over, your personal information is deleted.
-  * PostBillPay – When you pay your bills at Australia Post, we only capture enough information to ensure the right bill is paid. Generally, this includes a reference number for the bill and does not include your personal information.
+  * PostBillPay – When you pay your bills at Australia Post, we only capture enough information to ensure the right bill is paid. Generally, this includes a reference number for the bill and does not include your personal information.  
+If you attempt a PostBillPay One Off payment via the MyPost Digital Mailbox, we may also collect your financial information including bank account balances, bank account payment limits, a record of your previous banking transactions and information about your internet banking sessions. Information may also be collected about how you interact with PostBillPay. We collect information in a number of ways, including: 
+    * where you provide information directly to us using PostBillPay using a computer or other device;
+    * where we receive personal information from biller with whom you deal and where you elect to use PostBillPay in respect of that biller.
   * Newsletters – We offer a number of newsletters such as Our Neighbourhood, our Brand Hub, or Promotions and Offers. We collect your name and your email address which we keep until you choose to unsubscribe from this service.
   * The Online Shop – When you register for an account with the Australia Post Online Shop, we collect basic contact details (name, address, phone, email) to simplify the checkout process for you and to allow you to sign-up to receiving related promotional offers.
   * Mail Redirection Service – When you ask us to redirect your mail, we collect your personal information including name, old and new addresses, email address and phone number. Phone is captured to allow us to contact you in the event of issues with processing your request. Email address is captured to allow us to send you a notification when the service is ending and to allow you to sign-up for promotional offers if you request them. We also use this information to notify third parties of your address change if you sign up for this service. The remaining details are captured to allow us to redirect your mail.
-  * Money Transfers – When you visit Australia Post to transfer money, we capture personal details from you to enable the transfer of funds from you to the receiver. 
+  * Money Transfers – When you visit Australia Post to transfer money, we capture personal details from you to enable the transfer of funds from you to the receiver.
   * MyPost Digital Mailbox - When you use the Digital Mailbox service, we collect: 
     * personal information such as your name, mailing address, email, notification preferences and transaction information such as your credit card;
     * usage information such as where and when you use your computer and mobile devices;
@@ -87,11 +90,11 @@ As noted above, we will only collect personal information from you that’s nece
 
 For some services, where additional clarification is required, we have provided a product privacy notice or product privacy statement. Please refer to these statements for additional privacy details for specific products.
 
-#### Unsolicited information
+####  Unsolicited information
 
 “Unsolicited” personal information is personal information about an individual that an organisation has unintentionally received. This is an uncommon occurrence for the APG, but when it does happen, we will protect your personal information with the same rigour as we treat personal information that we intended to collect. If we could not have collected this information through our normal processes, we will de-identify that information as soon as we can.
 
-### Uses and sharing 
+###  Uses and sharing
 
 We use the personal information you provide only for purposes consistent with the reason you provided it, or for a directly related purpose. We may also use your personal information where required or permitted by law. We may also use your information where you have provided us with your express or implied consent.
 
@@ -125,11 +128,11 @@ We have a strict duty to maintain the privacy of all personal information we hol
 
 
 
-#### Treatment of personal information with subsidiaries
+####  Treatment of personal information with subsidiaries
 
 APG can disclose personal information (excluding sensitive information) with subsidiaries (e.g., StarTrack, Decipha and SecurePay) as long as the purpose for sharing is related to the reason the personal information was originally collected. This excludes subsidiaries that are outside of Australia. Under these same terms, subsidiaries can share personal information with Australia Post.
 
-#### Overseas use and disclosure
+####  Overseas use and disclosure
 
 APG may transfer personal information to countries outside Australia (for example when you send correspondence overseas). We will only do so in compliance with all applicable Australian data protection and privacy laws. APG will take reasonable steps to protect personal information no matter what country it is stored in or transferred to. We have procedures and data transfer contracts as appropriate to help ensure this.
 
@@ -139,7 +142,7 @@ APG uses service providers in other countries as follows:
 
 
 
-### Direct marketing
+###  Direct marketing
 
 From time to time we may use the personal information we collect from you to identify particular APG products and services which we believe may be of interest to you. We may then contact you to let you know about these products and services and how they may benefit you. We will generally only do this with your prior consent (where practical) and we will always give you a choice to opt out of receiving such information in future.
 
@@ -155,23 +158,23 @@ Every directly addressed marketing contact sent or made by Australia Post will i
 
 Additionally, you may instruct us at any time to remove any previous consent you provided to receive marketing communications from us. Requests should be directed to the APG Privacy Contact Officer via the channels provided under ‘How to contact us’.
 
-### Accessing your personal information
+###  Accessing your personal information
 
 You have the right to request access to the personal information we hold about you. This right is subject to certain exceptions allowed by law.
 
 Australia Post will, upon your request, and subject to applicable privacy laws, provide you with access to your personal information that is held by us. However, we ask that you identify, as clearly as possible, the type (or types) of information requested. APG will deal with your request in a reasonable time - usually within 30 days.
 
-#### Exceptions
+####  Exceptions
 
 Your right to access your personal information is not absolute. In some circumstances, the law permits us to refuse your request to provide you with access to your personal information.
 
-#### Freedom of information laws
+####  Freedom of information laws
 
 In addition to privacy laws, you may have rights to access your personal information contained in certain APG documents. Details on how to apply for access to these documents are contained in the Freedom of Information Act 1982 (FOI Act).
 
 More information is available at the Office of the Australian Information Commissioner’s [freedom of information](http://www.oaic.gov.au/freedom-of-information/freedom-of-information) pages.
 
-### Updating your information
+###  Updating your information
 
 It is inevitable that some personal information which we hold will become out of date. We will take reasonable steps to ensure that the personal information which we hold remains accurate and, if you advise us of a change of details, we will amend our records accordingly.
 
@@ -179,7 +182,7 @@ Where your information has been disclosed to a third party, Australia Post will 
 
 Where we are unable to update your information, we will provide an explanation in writing as to why the information cannot be corrected.
 
-### Information security
+###  Information security
 
 Australia Post is committed to protecting and securing your personal information.
 
@@ -189,7 +192,7 @@ We limit access to personal information to individuals with a business need cons
 
 APG protects your personal information by complying with Information Security Standards, Industry Schemes and Statutory obligations. We regularly conduct targeted internal and external audits on our security systems to validate the currency of our security practices.
 
-### Website security and privacy
+###  Website security and privacy
 
 We understand that you may be concerned about the security of the personal information we collect from you online.
 
@@ -199,7 +202,7 @@ In those instances where we secure your personal information in transit to us an
 
 We employ security programs and services to monitor network traffic in order to identify attempts to breach our security.
 
-#### Information collected on this website
+####  Information collected on this website
 
 We may collect non-personal information from you such as browser type, operating system, and web pages visited to help us manage our web site.
 
@@ -216,7 +219,7 @@ Our internet server logs the following information which is provided by your bro
 
 All of this information is used by Australia Post for aggregated statistical analyses or systems administration purposes only. No attempt will be made to identify users or their browsing activities, except where required by law.
 
-#### Cookies
+####  Cookies
 
 A "cookie" is a packet of information stored on your computer that allows the Australia Post server to identify and interact more effectively with your computer.
 
@@ -227,7 +230,7 @@ Our websites use two different kinds of cookies:
 
 
 
-#### Session cookies
+####  Session cookies
 
 When you access our web site, we send you a temporary cookie that gives you a unique identification number. A different identification number is sent each time you use our website. Cookies do not identify individual users, although they do identify a user's internet browser type. When you close your browser, the cookie is deleted and no longer exists on your computer.
 
@@ -240,7 +243,7 @@ We use session cookies in the following manner:
 
 
 
-#### Persistent cookies
+####  Persistent cookies
 
 APG may also use "persistent cookies". A persistent cookie is a small piece of text stored on your computer's hard drive for a defined period of time, after which the cookie is erased. Australia Post will not collect or link to personal information through persistent cookies without your express consent.
 
@@ -255,7 +258,7 @@ We use persistent cookies as follows:
 
 Other cookies allow us to remember certain information related to prior transactions, such as package tracking numbers, or mailing or address lists, so we may pre-populate those fields for you on return visits.
 
-#### Cookie Management
+####  Cookie Management
 
 You can configure your internet browser to accept all cookies, reject all cookies or notify you when a cookie is sent. Most browsers accept cookies by default. To learn more about cookies, including how to refuse cookies on your computer, click these links:
 
@@ -266,19 +269,19 @@ You can configure your internet browser to accept all cookies, reject all cookie
 
 
 
-#### Links to other sites 
+####  Links to other sites
 
 The Australia Post site contains links to other sites. We are not responsible for the privacy practices or the content of such websites. We encourage you to read and understand the privacy policies on those websites prior to providing any information to them.
 
 Some of the content appearing on the Australia Post website may be supplied by third parties, for example, by framing third party web sites or the incorporation through "framesets" of content supplied by third party application service providers. In such cases, Australia Post will ensure that our contractual arrangements with these third parties protect your personal information in compliance with privacy laws.
 
-#### Searches
+####  Searches
 
 Search terms that you enter when using our search engine are collected, but are not associated with any other information that we collect. We use these search terms for the purpose of aggregated statistical analyses so we can ascertain what people are looking for on our website, and to improve the services that we provide.
 
 We may use external companies to provide us with detailed aggregate statistical analyses of our website traffic. At no time is any personal information made available to these companies, nor is the aggregate information ever merged with personal information such as your name, address, email address or other information you would consider sensitive or would compromise your privacy.
 
-### Loss of personal information
+###  Loss of personal information
 
 Despite our every effort to protect your personal information, there remains the possibility that a breach of our security could occur. In the event of loss of personal information Australia Post will:
 
@@ -291,7 +294,7 @@ Despite our every effort to protect your personal information, there remains the
 
 
 
-### Children's privacy
+###  Children's privacy
 
 Australia Post believes it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to participate in and monitor their online activity.
 
@@ -311,7 +314,7 @@ Australia Post will allow parents or guardians to review any personal informatio
 
 Parents/guardians may, at their discretion, revoke their consent and delete information collected from their children.
 
-### How to contact us
+###  How to contact us
 
 Australia Post is committed to working with its customers to obtain a fair resolution of any complaint or concern about privacy.
 
@@ -331,37 +334,37 @@ Melbourne Vic 3000
 
 
 
-### Changes to this Privacy Policy
+###  Changes to this Privacy Policy
 
 We will post changes to the Privacy Policy and publish the effective date when this policy is updated.
 
 Last updated: May 2015
 
-#### 2015 update
+####  2015 update
 
 The Privacy Policy was reviewed and updated in May 2015. This update was to: ensure the clarity and correctness of our privacy policy. In particular, we have added more details about the countries to which we disclose personal information. We have also clarified the role of the Australia Post Group and our subsidiaries.
 
-#### 2014 update
+####  2014 update
 
 The Privacy Policy was reviewed and updated in February 2014. This update was to: ensure compliance with revised privacy legislation. Enhancements were added about how information is collected, used and disclosed. The language throughout was updated to improve readability.
 
-#### 2011 update
+####  2011 update
 
 The Privacy Policy was reviewed and updated in July 2011. This update was to: ensure compliance with current legislation. No substantive changes were made to the Privacy Policy at this time.
 
-#### 2008 update
+####  2008 update
 
 Substantial changes were made to the Privacy Policy. This update was to: simplify the content and style to improve readability; includes more detailed information on children's privacy; disclosure of customer information under the Australian Postal Corporation Act 1989; and the examination of articles.
 
-#### 2007 update
+####  2007 update
 
 No substantive changes were made to the Privacy Statement. This update was to: clarify and simplify the content to improve readability; add information about how to manage cookies, and to indicate the addition of a children's privacy statement.
 
-#### 2001 update
+####  2001 update
 
 This was the initial publication of the Australia Post Web Privacy Statement to comply with the National Privacy Principles introduced by the Federal government on 31/12/2001.
 
-### Further information on privacy
+###  Further information on privacy
 
 You can obtain further general information about your privacy rights and Commonwealth privacy law from the Office of the Australian Information Commissioner by:
 
