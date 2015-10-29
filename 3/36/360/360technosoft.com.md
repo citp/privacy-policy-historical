@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 360technosoft.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704023724id_/http%3A//www.360technosoft.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 360technosoft.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029163434id_/http%3A//www.360technosoft.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of 360 Degree Technosoft
 
