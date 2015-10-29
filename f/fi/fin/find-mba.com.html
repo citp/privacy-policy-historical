@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the find-mba.com privacy policy that was archived on 2015-02-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150214174729id_/http%3A//find-mba.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the find-mba.com privacy policy that was archived on 2015-10-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151029040932id_/http%3A//find-mba.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="shortcut icon" href="/mba.ico">
 <title>Privacy Policy | FIND MBA</title>
-<link rel="stylesheet" href="/css/app.css?v5652">
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+<link rel="stylesheet" href="/css/app.css?v5688">
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.3&amp;appId=286068244742268"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
         (function (i, s, o, g, r, a, m) {
             i['GoogleAnalyticsObject'] = r;
             i[r] = i[r] || function () {
@@ -34,7 +34,8 @@
         // global variable
         var findmba = {
             user: {
-                logged: false            },
+                logged: false,
+                showEmailPrompt: false            },
             url: {
                 login: 'http://find-mba.com/login'
             },
@@ -57,8 +58,19 @@
             }
         };
     </script>
-<style id="fit-vids-style">.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style></head>
-<body style=""><div class="fr-window fr-window-fresco" style="display: none;"><div class="fr-bubble" style="display: none;"><div class="fr-frames fr-frames-landscape"><div class="fr-frames-move"></div></div><div class="fr-thumbnails" style="display: none;"><div class="fr-thumbnails-wrapper"><div class="fr-thumbnails-slider"><div class="fr-thumbnails-side fr-thumbnails-side-previous"><div class="fr-thumbnails-side-button"><div class="fr-thumbnails-side-button-background"></div><div class="fr-thumbnails-side-button-icon"></div></div></div><div class="fr-thumbnails-thumbs"><div class="fr-thumbnails-slide"></div></div><div class="fr-thumbnails-side fr-thumbnails-side-next"><div class="fr-thumbnails-side-button"><div class="fr-thumbnails-side-button-background"></div><div class="fr-thumbnails-side-button-icon"></div></div></div></div></div></div><div class="fr-touch-menu" style="display: none;"><div class="fr-touch-menu-wrapper"><div class="fr-touch-menu-background"></div><div class="fr-touch-button fr-touch-close"><span class="fr-touch-button-background"></span><span class="fr-touch-button-icon"></span></div></div></div><div class="fr-touch-caption" style="display: none;"><div class="fr-touch-caption-wrapper"><div class="fr-touch-caption-background"></div><div class="fr-touch-caption-info"><div class="fr-touch-caption-info-padder"><div class="fr-touch-caption-text-wrapper"><div class="fr-touch-caption-text"></div></div></div></div><div class="fr-touch-button fr-touch-caption-more"><span class="fr-touch-button-background"></span><span class="fr-touch-button-icon"></span></div></div></div></div></div><div class="fr-overlay fr-overlay-fresco" style="display: none;"><div class="fr-overlay-background"></div></div>
+</head>
+<body>
+<div id="fb-root"></div>
+<script>
+    (function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s);
+        js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3&appId=286068244742268";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
 <div class="notice-wrapper">
 <div class="container">
 <div class="row">
@@ -85,14 +97,14 @@ Notice Message
 <li><a href="http://find-mba.com/what-is-an-mba" class="mobile-nav-item">MBA Basics</a></li>
 <li><a href="/mba-rankings" class="mobile-nav-item">MBA Rankings</a></li>
 <li><a href="/lists" class="mobile-nav-item">Top 10 Lists</a></li>
-<li><a href="//board.find-mba.com/" class="mobile-nav-item">MBA Discussions</a></li>
+<li><a href="/board" class="mobile-nav-item">MBA Discussions</a></li>
 <li><a href="http://find-mba.com/activity" class="mobile-nav-item">My Schools</a></li>
 </ul>
 <ul class="list-mobile-additional">
 <li>
 <a href="/login">Login</a>
 </li>
-<li><a href="/search">Advanced Search</a></li>
+<li><a href="/search">Advanced MBA Search</a></li>
 </ul>
 </div>
 <div class="clearfix"></div>
@@ -113,7 +125,7 @@ MBA Programs Worldwide
 <input type="text" id="search-typeahead" name="keyword" placeholder="Search MBA Programs">
 <input type="submit" value="">
 </form>
-<small><a href="/search" class="search-top-advanced">Advanced Search</a></small>
+<small><a href="/search" class="search-top-advanced">Advanced MBA Search</a></small>
 </div>
 </div>
 </div>
@@ -135,7 +147,7 @@ MBA Programs Worldwide
 <a href="http://find-mba.com/lists" class="main-nav-item">Top 10 Lists</a>
 </li>
 <li>
-<a href="//board.find-mba.com/" class="main-nav-item">MBA Discussions</a>
+<a href="/board" class="main-nav-item">MBA Discussions</a>
 </li>
 <li class="last-of-menu">
 <a href="http://find-mba.com/activity" class="main-nav-item">My Schools</a>
@@ -170,56 +182,88 @@ MBA Programs Worldwide
 </div>
 </div>
 <div class="col-sm-4 acticle-sidebar">
-<div class="faq-container widget">
-<div class="faq-title h4">MBA FAQs</div>
-<div class="faq-content">
-<ul>
-<li><a href="http://find-mba.com/mba-faq/am-i-a-good-mba-candidate">… Am I a good MBA candidate?</a></li>
-<li><a href="http://find-mba.com/mba-faq/funding-your-mba">… Funding Your MBA</a></li>
-<li><a href="http://find-mba.com/mba-faq/mba-accreditation-why-is-it-important">… MBA accreditation: Why is it important?</a></li>
-<li><a href="http://find-mba.com/mba-faq/what-is-the-gmat">… What is the GMAT?</a></li>
-<li><a href="http://find-mba.com/mba-faq/where-should-i-do-my-mba">… Where should I do my MBA?</a></li>
-<li><a href="http://find-mba.com/mba-faq/why-should-i-do-an-mba">… Why should I do an MBA?</a></li>
+<div class="widget">
+<div class="h4">MBA FAQs</div>
+<ul class="list-group">
+<li class="list-group-item">
+<a href="http://find-mba.com/mba-faq/am-i-a-good-mba-candidate">
+Am I a good MBA candidate?
+</a>
+</li>
+<li class="list-group-item">
+<a href="http://find-mba.com/mba-faq/how-do-i-apply-for-an-mba">
+How do I apply for an MBA?
+</a>
+</li>
+<li class="list-group-item">
+<a href="http://find-mba.com/mba-faq/how-do-i-pay-for-my-mba">
+How do I pay for my MBA?
+</a>
+</li>
+<li class="list-group-item">
+<a href="http://find-mba.com/mba-faq/mba-accreditation-why-is-it-important">
+MBA accreditation: Why is it important?
+</a>
+</li>
+<li class="list-group-item">
+<a href="http://find-mba.com/mba-faq/what-is-the-gmat">
+What is the GMAT?
+</a>
+</li>
+<li class="list-group-item">
+<a href="http://find-mba.com/mba-faq/where-should-i-do-my-mba">
+Where should I do my MBA?
+</a>
+</li>
+<li class="list-group-item">
+<a href="http://find-mba.com/mba-faq/which-kind-of-mba-program-is-right-for-me">
+Which kind of MBA program is right for me?
+</a>
+</li>
+<li class="list-group-item">
+<a href="http://find-mba.com/mba-faq/why-should-i-do-an-mba">
+Why should I do an MBA?
+</a>
+</li>
 </ul>
-</div>
 </div>
 <div class="widget">
 <div class="teaser teaser-a hidden-xs">
-<a class="teaser-title" href="http://find-mba.com/articles/can-a-low-gpa-hurt-your-mba-admissions-chances">
-Can a Low GPA Hurt Your MBA Admissions Chances?
+<a class="teaser-title" href="http://find-mba.com/articles/part-time-and-flexible-mba-programs-in-the-new-york-area" onclick="ga('send', 'event', 'teaser', 'click','43',0, {'nonInteraction': 1});">
+Part-Time and Flexible MBA Programs in the New York Area
 </a>
-<a href="http://find-mba.com/articles/can-a-low-gpa-hurt-your-mba-admissions-chances">
-<img class="teaser-image img-responsive" src="http://find-mba.com/media/cache/teaser/uploads/media/teaser/0001/05/090793b15a34bc4059b7a2f0c937145f19638af1.png" alt="Can a Low GPA Hurt Your MBA Admissions Chances?">
+<a href="http://find-mba.com/articles/part-time-and-flexible-mba-programs-in-the-new-york-area" onclick="ga('send', 'event', 'teaser', 'click','43',0, {'nonInteraction': 1});">
+<img class="teaser-image img-responsive" alt="Part-Time and Flexible MBA Programs in the New York Area" src="http://find-mba.com/media/cache/teaser/uploads/media/teaser/0001/04/e674162559638fe2b655647ff760b18c4e002ccd.png" onload="ga('send', 'event', 'teaser', 'impression','43',0, {'nonInteraction': 1});">
 </a>
-<a href="http://find-mba.com/articles/can-a-low-gpa-hurt-your-mba-admissions-chances" class="btn btn-teaser">
+<a href="http://find-mba.com/articles/part-time-and-flexible-mba-programs-in-the-new-york-area" class="btn btn-teaser" onclick="ga('send', 'event', 'teaser', 'click','43',0, {'nonInteraction': 1});">
 Read Article </a>
 </div>
 </div>
 <div class="widget">
 <div class="h4">Top Business Schools by Speciality</div>
 <div class="list-featured-speciality auto-cloud">
-<a class="cloud-item" x-cloud-count="596" href="/lists/top-business-school-by-speciality/top-business-schools-for-a-career-in-accounting-or-taxation">Accounting</a>
-<a class="cloud-item" x-cloud-count="109" href="/lists/top-business-school-by-speciality/top-business-schools-for-a-career-in-business-analytics-and-big-data">Business Analytics and Big Data</a>
-<a class="cloud-item" x-cloud-count="73" href="/lists/top-business-school-by-speciality/top-business-schools-for-a-career-in-consulting">Consulting</a>
-<a class="cloud-item" x-cloud-count="2" href="/lists/top-business-school-by-speciality/top-business-schools-for-a-career-in-corporate-finance">Corporate Finance</a>
-<a class="cloud-item" x-cloud-count="115" href="/lists/top-business-school-by-speciality/top-business-schools-for-a-career-in-energy-and-natural-resources">Energy and Natural Resources</a>
-<a class="cloud-item" x-cloud-count="505" href="/lists/top-business-school-by-speciality/top-business-schools-for-entrepreneurs">Entrepreneurs</a>
-<a class="cloud-item" x-cloud-count="1376" href="/lists/top-business-school-by-speciality/top-business-schools-for-a-career-in-finance-or-financial-services">Finance</a>
-<a class="cloud-item" x-cloud-count="798" href="/lists/top-business-school-by-speciality/top-business-schools-for-a-career-in-healthcare-pharma-biotech">Healthcare / Pharma / Biotech</a>
-<a class="cloud-item" x-cloud-count="48" href="/lists/top-business-school-by-speciality/top-business-schools-for-a-career-in-industrial-management-and-manufacturing">Industrial Management and Manufacturing</a>
-<a class="cloud-item" x-cloud-count="26" href="/lists/top-business-school-by-speciality/top-business-schools-for-a-career-in-luxury-brand-management">Luxury Brand Management</a>
-<a class="cloud-item" x-cloud-count="1153" href="/lists/top-business-school-by-speciality/top-business-schools-for-a-career-in-marketing">Marketing</a>
-<a class="cloud-item" x-cloud-count="88" href="/lists/top-business-school-by-speciality/top-business-schools-for-a-career-in-nonprofit-management">Nonprofit Management</a>
-<a class="cloud-item" x-cloud-count="304" href="/lists/top-business-school-by-speciality/top-business-schools-for-a-career-in-operations-management">Operations Management</a>
-<a class="cloud-item" x-cloud-count="8" href="/lists/top-business-school-by-speciality/top-business-schools-for-a-career-in-private-equity">Private Equity</a>
-<a class="cloud-item" x-cloud-count="167" href="/lists/top-business-school-by-speciality/top-business-schools-for-a-career-in-public-sector-management-government">Public Sector Management / Government</a>
-<a class="cloud-item" x-cloud-count="112" href="/lists/top-business-school-by-speciality/top-business-schools-for-a-career-in-real-estate">Real Estate</a>
-<a class="cloud-item" x-cloud-count="56" href="/lists/top-business-school-by-speciality/top-business-schools-for-a-career-in-retail-and-consumer-goods">Retail and Consumer Goods</a>
-<a class="cloud-item" x-cloud-count="271" href="/lists/top-business-school-by-speciality/top-business-schools-for-a-career-in-strategy-or-business-development">Strategy</a>
-<a class="cloud-item" x-cloud-count="238" href="/lists/top-business-school-by-speciality/top-business-schools-for-a-career-in-supply-chain-management">Supply Chain Management</a>
-<a class="cloud-item" x-cloud-count="200" href="/lists/top-business-school-by-speciality/top-business-schools-for-a-career-in-sustainability-csr-social-entrepreneurship">Sustainability</a>
-<a class="cloud-item" x-cloud-count="392" href="/lists/top-business-school-by-speciality/top-business-schools-for-a-career-in-technology-or-information-technology-it">Technology</a>
-<a class="cloud-item" x-cloud-count="190" href="/lists/top-business-school-by-speciality/top-business-schools-for-a-career-in-tourism-hospitality-leisure">Tourism / Hospitality / Leisure</a>
+<a class="cloud-item" x-cloud-count="616" href="/lists/top-business-school-by-speciality/top-business-schools-for-accounting-or-taxation">Accounting</a>
+<a class="cloud-item" x-cloud-count="144" href="/lists/top-business-school-by-speciality/top-business-schools-for-business-analytics-and-big-data">Business Analytics and Big Data</a>
+<a class="cloud-item" x-cloud-count="80" href="/lists/top-business-school-by-speciality/top-business-schools-for-consulting">Consulting</a>
+<a class="cloud-item" x-cloud-count="25" href="/lists/top-business-school-by-speciality/top-business-schools-for-corporate-finance">Corporate Finance</a>
+<a class="cloud-item" x-cloud-count="121" href="/lists/top-business-school-by-speciality/top-business-schools-for-energy-and-natural-resources">Energy and Natural Resources</a>
+<a class="cloud-item" x-cloud-count="537" href="/lists/top-business-school-by-speciality/top-business-schools-for-entrepreneurs">Entrepreneurs</a>
+<a class="cloud-item" x-cloud-count="1422" href="/lists/top-business-school-by-speciality/top-business-schools-for-finance-or-financial-services">Finance</a>
+<a class="cloud-item" x-cloud-count="832" href="/lists/top-business-school-by-speciality/top-business-schools-for-healthcare-pharma-biotech">Healthcare / Pharma / Biotech</a>
+<a class="cloud-item" x-cloud-count="47" href="/lists/top-business-school-by-speciality/top-business-schools-for-industrial-management-and-manufacturing">Industrial Management and Manufacturing</a>
+<a class="cloud-item" x-cloud-count="38" href="/lists/top-business-school-by-speciality/top-business-schools-for-luxury-brand-management">Luxury Brand Management</a>
+<a class="cloud-item" x-cloud-count="1190" href="/lists/top-business-school-by-speciality/top-business-schools-for-marketing">Marketing</a>
+<a class="cloud-item" x-cloud-count="91" href="/lists/top-business-school-by-speciality/top-business-schools-for-nonprofit-management">Nonprofit Management</a>
+<a class="cloud-item" x-cloud-count="312" href="/lists/top-business-school-by-speciality/top-business-schools-for-operations-management">Operations Management</a>
+<a class="cloud-item" x-cloud-count="9" href="/lists/top-business-school-by-speciality/top-business-schools-for-private-equity">Private Equity</a>
+<a class="cloud-item" x-cloud-count="166" href="/lists/top-business-school-by-speciality/top-business-schools-for-public-sector-management-government">Public Sector Management / Government</a>
+<a class="cloud-item" x-cloud-count="115" href="/lists/top-business-school-by-speciality/top-business-schools-for-real-estate">Real Estate</a>
+<a class="cloud-item" x-cloud-count="59" href="/lists/top-business-school-by-speciality/top-business-schools-for-retail-and-consumer-goods">Retail and Consumer Goods</a>
+<a class="cloud-item" x-cloud-count="283" href="/lists/top-business-school-by-speciality/top-business-schools-for-strategy-or-business-development">Strategy</a>
+<a class="cloud-item" x-cloud-count="274" href="/lists/top-business-school-by-speciality/top-business-schools-for-supply-chain-management">Supply Chain Management</a>
+<a class="cloud-item" x-cloud-count="219" href="/lists/top-business-school-by-speciality/top-business-schools-for-sustainability-csr-social-entrepreneurship">Sustainability</a>
+<a class="cloud-item" x-cloud-count="401" href="/lists/top-business-school-by-speciality/top-business-schools-for-technology-or-information-technology-it">Technology</a>
+<a class="cloud-item" x-cloud-count="192" href="/lists/top-business-school-by-speciality/top-business-schools-for-tourism-hospitality-leisure">Tourism / Hospitality / Leisure</a>
 </div>
 </div>
 </div>
@@ -228,6 +272,9 @@ Read Article </a>
 </div>
 </div>
  
+<div class="footer-school-widget visible-xs visible-sm">
+<ul class="list-unstyled school-banners padding-top">
+</ul> </div>
 <div class="footer-wrapper row">
 <div class="col-md-12 pattern">
 <div class="row">
@@ -254,8 +301,8 @@ Read Article </a>
 <a href="/login">Login</a>
 </li>
 <li><a href="/account">My Account</a></li>
-<li><a href="//board.find-mba.com/">Board</a></li>
-<li><a href="/news">News</a></li>
+<li><a href="/board">Board</a></li>
+<li><a href="/news">MBA News</a></li>
 <li><a href="/articles">Articles</a></li>
 </ul>
 </div>
@@ -271,11 +318,16 @@ Read Article </a>
 <input type="text" name="keyword" placeholder="Search MBA Programs">
 <input class="search-button" type="submit" value="">
 </form>
+<div class="fb-page" data-href="https://www.facebook.com/FindMBA" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true" data-show-posts="false">
+<div class="fb-xfbml-parse-ignore">
+<blockquote cite="https://www.facebook.com/FindMBA"><a href="https://www.facebook.com/FindMBA">FIND MBA</a>
+</blockquote>
+</div>
+</div>
 </div> </div>
 <p class="footer-copyright">
 <small>2001–2015 Pritzwalks – FIND MBA – Master of
-Business
-Administration (MBA) Programs Worldwide
+Business Administration (MBA) Programs Worldwide
 </small>
 </p>
 </div>
@@ -284,26 +336,48 @@ Administration (MBA) Programs Worldwide
 </div>
 <div class="body-wrapper-right col-md-2 hidden-sm hidden-xs">
 <div class="right-school-widget">
-<ul class="list-unstyled" id="school-banners">
-<li>
-<iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FFindMBA&amp;width=240&amp;height=62&amp;colorscheme=light&amp;show_faces=false&amp;header=true&amp;stream=false&amp;show_border=false" frameborder="0" allowtransparency="true" style="border: medium none; height: 62px; margin-left: -10px; overflow: hidden; width: 195px;"></iframe>
-</li>
+<ul class="list-unstyled school-banners padding-top">
 </ul> </div>
 </div>
 </div>
 </div>
-<script type="text/javascript" src="/js/app.js?v490"></script>
+<script type="text/javascript" src="/js/app.js?v505"></script>
 <script src="/bundles/fosjsrouting/js/router.js"></script>
 <script src="http://find-mba.com/js/routing?callback=fos.Router.setData"></script>
 <script type="text/javascript">
+            function loadBanners() {
+                var limit, $bannersTarget;
+                if ($('.body-wrapper-right').css('display') == 'none') { // Mobile
+                    limit = 8;
+                    $bannersTarget = $(".footer-school-widget > ul");
+                } else { // Desktop/Tablet
+                    limit = Math.ceil($('.body-wrapper').height() / 165) + 1;
+                    $bannersTarget = $(".right-school-widget > ul");
+                }
+
+                $.get('/banners',
+                        {
+                                                        limit: limit
+                        },
+                        function (data) {
+                            $bannersTarget.find('li:not(:first)').remove();
+                            $bannersTarget.append(data);
+                        }
+                );
+            }
+
+            $(function () {
+                loadBanners();
+            });
+        </script>
+<script type="text/javascript">
         $(function () {
-            $.get('/banners',
-                    {
-                                                limit: Math.ceil($('.body-wrapper').height() / 165)
-                    },
-                    function (data) {
-                        $("#school-banners").append(data);
-                    });
+            // show email prompt
+            if (findmba.user.showEmailPrompt) {
+                if (confirm('Add your email address to receive notifications about new messages and posts.')) {
+                    location.href = 'http://find-mba.com/account/details/edit';
+                }
+            }
         });
     </script>
 <!--[if lte IE 7]>
@@ -321,4 +395,4 @@ Administration (MBA) Programs Worldwide
 </a>
 </noscript>
 
-<div class="fr-loading" style="display: none;"><div class="fr-loading-offset"><div class="fr-loading-background"></div><div class="fr-loading-icon"></div></div></div></body></html>
+</body></html>
