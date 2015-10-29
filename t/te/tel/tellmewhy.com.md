@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tellmewhy.com privacy policy that was archived on 2015-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150411154011id_/http%3A//tellmewhy.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tellmewhy.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029210920id_/http%3A//tellmewhy.com/privacy.php) for the most accurate reproduction.*
 
 # Tell Me Why - privacy policy
 
