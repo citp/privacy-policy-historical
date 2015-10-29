@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windows2universe.org privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628225907id_/http%3A//www.windows2universe.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windows2universe.org privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029064752id_/http%3A//www.windows2universe.org/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policies - Windows to the Universe
 
@@ -42,29 +42,33 @@ Finally, the W2U websites are hosted in the United States, and all PII will be s
 
 If you decide to purchase membership or products from our online store, we require that at the time of purchase you provide your full name (or your parent's full name, if you are a minor), your email address, and your credit card billing information including your mailing address. Your credit card number is not retained by W2U, and, instead, is collected and stored by our payment processor for the purpose of processing payments made to W2U. That information is safeguarded with appropriate security, and it will not be used for other purposes. Furthermore, our payment processor has agreed to maintain the confidentiality, security, and integrity of the personal and financial information it obtains from the W2U website, and only to use this information on our behalf. Our financial institution is bound by all applicable privacy laws relating to the provision of financial services.
 
-**5\. Security**
+**5\. Notice Regarding Online Behavioral Advertising**
+
+We allow third party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g. click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice visit the NAI at [http://www.networkadvertising.org](http://www.networkadvertising.org/). To opt-out of this type of advertising, you can visit <http://www.aboutads.info/choices>. 
+
+**6\. Security**
 
 The security of your personal information is very important. We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and use the information we collect online appropriately. When you submit sensitive information, such as your credit card number, we encrypt that information using secure socket layer technology.
 
-**6\. Access to Information**
+**7\. Access to Information**
 
 Please contact the National Earth Sciences Teachers Association if you would like to access the PII that we have collected online from you or your child, correct factual errors in such information, request to have this information deleted, or request that we no longer collect or maintain such information.
 
 Please include your email address and a telephone number where we can reach you. To protect you and your child's privacy and security, we will take reasonable steps to help verify your identity before granting you access to the personal information that we collect and maintain about you or your child.
 
-**7\. Contact Us**
+**8\. Contact Us**
 
 If you have questions, please send an e-mail to webmaster@windows2universe.org or write us:  
 National Earth Sciences Teachers Association  
-PO Box 20854  
-Boulder, CO 80308-3854
+PO Box 271654  
+Fort Collins, CO 80527
 
-**8\. Effective Date**
+**9\. Effective Date**
 
 The privacy policy set out above is effective as of October 19, 2010, and applies to all information previously obtained by the W2U websites. We reserve the right to change the privacy policy at our sole discretion, and we will inform you of any such change by posting a new privacy policy on the W2U websites along with the effective date. We will also obtain consent to uses of PII in ways that are materially different from the ones described in this Privacy Policy.
 
-[](https://web.archive.org/store/product.php?productid=291)
+[](https://web.archive.org/store/product.php?productid=70)
 
 #### Shop Windows to the Universe Science Store!
 
-Our [online store](http://www.windows2universe.org/store/home.php) includes [books](http://www.windows2universe.org/store/home.php?cat=20) on science education, ranging from [evolution](http://www.windows2universe.org/store/product.php?productid=45&cat=20&page=1), [classroom research](http://www.windows2universe.org/store/product.php?productid=46&cat=20&page=1), and the [need for science and math literacy](http://www.windows2universe.org/store/product.php?productid=67&cat=20&page=1)!
+Our [online store](http://www.windows2universe.org/store/home.php) includes fun [classroom activities](http://www.windows2universe.org/store/home.php?cat=1) for you and your students. [Issues of NESTA's quarterly journal, _The Earth Scientist_](http://www.windows2universe.org/store/home.php?cat=19) are also full of classroom activities on different topics in Earth and space science!
