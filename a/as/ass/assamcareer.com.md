@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the assamcareer.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610053145id_/http%3A//www.assamcareer.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the assamcareer.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029145517id_/http%3A//www.assamcareer.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy | AssamCareer.com :: Jobs In Assam, Guwahati and North East India
 
@@ -30,5 +30,3 @@ If you wish to disable cookies, you may do so through your individual browser op
 Google, as a third party vendor, uses cookies to serve ads on http://www.assamcareer.com/.
 
 Google’s use of the DART cookie enables it to serve ads to http://www.assamcareer.com/  ’s users based on their visit to http://www.assamcareer.com/  and other sites on the Internet.
-
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network [privacy policy](http://www.google.com/privacy_ads.html).
