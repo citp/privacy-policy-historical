@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the linkrisk.com privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410094128id_/http%3A//linkrisk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkrisk.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029053520id_/https%3A//kerboo.com/privacy) for the most accurate reproduction.*
 
-# Privacy - LinkRisk
+# Privacy - Kerboo
 
-#### Your privacy is critically important to us. At LinkRisk we have a few fundamental principles:
+#### Your privacy is critically important to us. At Kerboo we have a few fundamental principles:
 
   * We don’t ask you for personal information unless we truly need it.
   * We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
@@ -10,9 +10,9 @@
 
 
 
-—
+â€”
 
-Business Analysis Software Ltd. (“BAS”) operates several websites including LinkRisk.com. It is BAS’s policy to respect your privacy regarding any information we may collect while operating our websites.
+Business Analysis Software Ltd. (“BAS”) operates several websites including Kerboo.com. It is BAS’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
 #### Website Visitors
 
@@ -22,11 +22,11 @@ BAS also collects potentially personally-identifying information like Internet P
 
 #### Gathering of Personally-Identifying Information
 
-Certain visitors to BAS’s websites choose to interact with BAS in ways that require BAS to gather personally-identifying information. The amount and type of information that BAS gathers depends on the nature of the interaction. For example, we ask visitors who sign up for LinkRisk.com to provide a username and email address. Those who engage in transactions with BAS – by purchasing access to the link analysis tools, for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, BAS collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with BAS. BAS does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Certain visitors to BAS’s websites choose to interact with BAS in ways that require BAS to gather personally-identifying information. The amount and type of information that BAS gathers depends on the nature of the interaction. For example, we ask visitors who sign up for Kerboo.com to provide a username and email address. Those who engage in transactions with BAS – by purchasing access to the link analysis tools, for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, BAS collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with BAS. BAS does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 #### Aggregated Statistics
 
-BAS may collect statistics about the behavior of visitors to its websites. For instance, BAS may monitor the usage on LinkRisk.com. BAS may display this information publicly or provide it to others. However, BAS does not disclose personally-identifying information other than as described below.
+BAS may collect statistics about the behavior of visitors to its websites. For instance, BAS may monitor the usage on Kerboo.com. BAS may display this information publicly or provide it to others. However, BAS does not disclose personally-identifying information other than as described below.
 
 #### Protection of Certain Personally-Identifying Information
 
