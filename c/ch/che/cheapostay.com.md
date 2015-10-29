@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapostay.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317173925id_/http%3A//www.cheapostay.com/hotels/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapostay.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029080347id_/http%3A//www.cheapostay.com/hotels/privacy-policy.asp) for the most accurate reproduction.*
 
 # CheapOstay Privacy Policy
 
