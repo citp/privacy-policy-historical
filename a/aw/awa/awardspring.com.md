@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the awardspring.com privacy policy that was archived on 2015-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150225005205id_/http%3A//awardspring.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awardspring.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029201734id_/http%3A//awardspring.com/privacy) for the most accurate reproduction.*
 
-# AwardSpring | Transform Your Awarding Decisions and Processes
+# Privacy
 
 ## AwardSpring Privacy Policy
 
