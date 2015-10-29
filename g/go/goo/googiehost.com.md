@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the googiehost.com privacy policy that was archived on 2014-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140811201008id_/https%3A//googiehost.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the googiehost.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029133645id_/http%3A//googiehost.com/privacy.html) for the most accurate reproduction.*
 
-# Unlimited Free Web Hosting- Privacy Policy
+# Privacy - GoogieHost
 
-###### Please read our Privacy Policy
+## PLEASE READ OUR PRIVACY POLICY
 
 The following discloses our information gathering and dissemination practices for this Web site. We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your ISP and to gather broad demographic information. We use cookies to save your password so you don't have to re-enter it each time you visit our site and for other purposes. Contact information from the order form is used to send information about our company and promotional material from some of our partners to our customers. The customer's contact information is also used to get in touch with the visitor when necessary and shared with other companies who may want to contact our visitors. Users may opt-out of receiving future mailings. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis. We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. Some customer data is shared with the advertising companies.
 
@@ -14,8 +14,4 @@ may use third-party advertising companies to serve ads when you use our service,
 
 **PUBLIC FORUMS**
 
-This site makes chat rooms, forums, message boards, and news groups available to its users. Any information in these areas becomes public, and you should exercise caution when deciding to disclose your personal information. 
-
-###### Address:
-
-1/14 Forest Colony Vibhuti Khand Gomti Nagar Lucknow India
+This site makes chat rooms, forums, message boards, and news groups available to its users. Any information in these areas becomes public, and you should exercise caution when deciding to disclose your personal information.
