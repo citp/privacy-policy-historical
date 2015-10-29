@@ -1,0 +1,336 @@
+<!--The following is the downloaded HTML source of the universelol.com privacy policy that was archived on 2015-10-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151029050447id_/http%3A//www.universelol.com/index.php/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="language" content="en">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- blueprint CSS framework -->
+	<!--link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen, projection">
+	<link rel="stylesheet" type="text/css" href="/css/print.css" media="print"-->
+	<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen, projection">
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/css/login_css.css">
+	<link rel="stylesheet" type="text/css" href="/css/main.css">
+	<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script src="/js/jquery.min.js"></script>
+	<script type="text/javascript">var baseUrl = '';</script>	
+	<script src="//cdn.ckeditor.com/4.5.3/full/ckeditor.js"></script>
+	
+	
+    		
+	
+	<script type="text/javascript" src="/assets/32f1919a/jquery.js"></script>
+<script type="text/javascript" src="/assets/32f1919a/jui/js/jquery-ui.min.js"></script>
+<title>My Web Application - Privacy Page</title>
+</head>
+<body class="contact">
+<script>
+  function statusChangeCallback(response) {
+    console.log('statusChangeCallback');
+    console.log(response);
+    if (response.status === 'connected') {
+      testAPI();
+    } else if (response.status === 'not_authorized') {
+     console.log('not authorised');
+    } else {
+      console.log('error');
+    }
+  }
+  
+  function checkLoginState() {
+    FB.getLoginStatus(function(response) {
+      statusChangeCallback(response);
+    });
+  }
+
+  window.fbAsyncInit = function() {
+  FB.init({
+    appId      : '950889098323145',
+    cookie     : true,  
+    xfbml      : true,  
+    version    : 'v2.2' 
+  });
+  
+  /*FB.getLoginStatus(function(response) {
+    statusChangeCallback(response);
+  });*/
+
+  };
+
+  // Load the SDK asynchronously
+  (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/sdk.js";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+  
+  function testAPI() {
+    console.log('Welcome!  Fetching your information.... ');
+    FB.api('/me?fields=id,name,email,birthday,picture', function(response) {
+	  $.post( 'http://www.universelol.com/index.php/default/register', response).done(function( data ){
+		  data = $.parseJSON(data); 
+		  window.location.href = data['url'];
+		  });
+    });
+  }
+</script>
+
+<div id="page-wrapper">
+		<!-- Top Header -->
+		
+				<!-- Top Header Ends Here -->
+		<!-- Header -->
+		<style>
+
+.container {
+    margin: 0 auto;
+    max-width: 100%;
+    width: 100%;
+}
+.toggleMenu {
+    display:  none;
+    background: #666;
+    padding: 10px 15px;
+    color: #fff;
+}
+.nav {
+    list-style: none;
+     *zoom: 1;
+     /*background:#175e4c;*/
+}
+.nav:before,
+.nav:after {
+    content: " "; 
+    display: table; 
+}
+.nav:after {
+    clear: both;
+}
+.nav ul {
+    list-style: none;
+    width: 9em;
+}
+.nav a {
+    color: #fff;
+    padding: 1px 15px;
+}
+.nav li {
+    position: relative;
+}
+.nav > li {
+    float: left;
+    /* border-top: 1px solid #104336; */
+}
+.nav > li > .parent {
+    background-image: url("http://www.universelol.com/images/downArrow.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.nav > li > a {
+    display: block;
+}
+.nav li  ul {
+    position: absolute;
+    left: -9999px;
+}
+.nav > li.hover > ul {
+    left: 0;
+}
+.nav li li.hover ul {
+    left: 100%;
+    top: 0;
+}
+.nav li li a {
+    background: #55acee none repeat scroll 0 0;
+    border-top: 1px solid #5fb6f8;
+    display: block;
+    position: relative;
+    width: 130px;
+    z-index: 100;
+}
+.nav li li li a {
+    background:#249578;
+    z-index:200;
+    border-top: 1px solid #1d7a62;
+}
+
+@media screen and (max-width: 768px) {
+    .active {
+        display: block;
+    }
+    .nav > li {
+        float: none;
+    }
+    .nav > li > .parent {
+        background-position: 95% 50%;
+    }
+    .nav li li .parent {
+        background-image: url("http://www.universelol.com/images/downArrow.png");
+        background-repeat: no-repeat;
+        background-position: 95% 50%;
+    }
+    .nav ul {
+        display: block;
+        width: 100%;
+    }
+   .nav > li.hover > ul , .nav li li.hover ul {
+        position: static;
+    }
+
+}
+</style>
+
+<!-- Header -->
+<header id="header" style="position:fixed;">
+		<h1 id="logo"><a title="Universelol" href="http://www.universelol.com"><img src="http://www.universelol.com/images/logo/9820-hp.png" width="229" height="30"></a></h1>
+	<nav id="nav">
+		<ul>
+							<li class="signup_sur_"><a title="Register with us for free." class="button special signbtn signup" href="/index.php/default/signup">Sign Up</a></li>
+				<li class="login_sur_"><a title="Register with us for free." class="button signbtn" href="/index.php/default/login">Log In</a></li>
+									
+			<li>			
+				<form class="search_home_form" action="/index.php/story/search" method="post">				
+				<input class="search_home" type="text" value="" name="keyword" id="keyword">				<i class="fa fa-search" style="position: absolute; right: 2%; top: 13%;"></i>			
+				</form>			
+			</li>	
+		</ul>
+	</nav>
+</header>
+
+<div class="home_navbar_header container" style="margin-top: 67px;">
+<a class="toggleMenu" href="#">Categories</a>
+  <div class="home_nav_categories visible-lg visible-md">
+      	  <ul style="margin-bottom:0px;" class="list-inline list-unstyled nav"> 
+											<li><a href="/index.php/story/catStory/cat/MQ=="><span style="height:23px;" class="PhotographyIcon"></span> Hilarious</a></li> 
+				                									<li><a href="/index.php/story/catStory/cat/Mg=="><span style="height:23px;" class="PhotographyIcon"></span> News</a></li> 
+				                									<li><a href="/index.php/story/catStory/cat/Mw=="><span style="height:23px;" class="PhotographyIcon"></span> Funny</a></li> 
+				                									<li><a href="/index.php/story/catStory/cat/NA=="><span style="height:23px;" class="PhotographyIcon"></span> OMG</a></li> 
+				                									<li><a href="/index.php/story/catStory/cat/NQ=="><span style="height:23px;" class="PhotographyIcon"></span> Videos</a></li> 
+				                									<li><a href="/index.php/story/catStory/cat/Ng=="><span style="height:23px;" class="PhotographyIcon"></span> Bollywood</a></li> 
+				                									<li><a href="/index.php/story/catStory/cat/Nw=="><span style="height:23px;" class="PhotographyIcon"></span> Celebrities</a></li> 
+				                				                				                				                				                									<li><a href="#" id="more_lis">More</a><ul id="more_uls">
+											<li><a href="/index.php/story/catStory/cat/OA=="><span style="height:23px;" class="PhotographyIcon"></span> Humor</a></li> 
+											<li><a href="/index.php/story/catStory/cat/OQ=="><span style="height:23px;" class="PhotographyIcon"></span> Weird</a></li> 
+											<li><a href="/index.php/story/catStory/cat/MTE="><span style="height:23px;" class="PhotographyIcon"></span> Photography</a></li> 
+											<li><a href="/index.php/story/catStory/cat/MTI="><span style="height:23px;" class="PhotographyIcon"></span> Creative</a></li> 
+										</ul></li>
+				          </ul>
+		  
+</div>
+  
+  </div><!--home_navbar_header-->  
+  
+  <script>$('.fa-search').click(function(){	$('.search_home_form').submit();});</script>
+  <!--- CODE FOR THE MENU -->
+  <script>
+  var ww = document.body.clientWidth;
+
+	$(document).ready(function() {
+		$(".nav li a").each(function() {
+			if ($(this).next().length > 0) {
+				$(this).addClass("parent");
+			};
+		})
+		
+		$(".toggleMenu").click(function(e) {
+			e.preventDefault();
+			$(this).toggleClass("active");
+			$(".nav").toggle();
+		});
+		adjustMenu();
+	})
+
+	$(window).bind('resize orientationchange', function() {
+		ww = document.body.clientWidth;
+		adjustMenu();
+	});
+
+	var adjustMenu = function() {
+		if (ww < 768) {
+			$(".toggleMenu").css("display", "inline-block");
+			if (!$(".toggleMenu").hasClass("active")) {
+				$(".nav").hide();
+			} else {
+				$(".nav").show();
+			}
+			$(".nav li").unbind('mouseenter mouseleave');
+			$(".nav li a.parent").unbind('click').bind('click', function(e) {
+				// must be attached to anchor element to prevent bubbling
+				e.preventDefault();
+				$(this).parent("li").toggleClass("hover");
+			});
+		} 
+		else if (ww >= 768) {
+			$(".toggleMenu").css("display", "none");
+			$(".nav").show();
+			$(".nav li").removeClass("hover");
+			$(".nav li a").unbind('click');
+			$(".nav li").unbind('mouseenter mouseleave').bind('mouseenter mouseleave', function() {
+				// must be attached to li so that mouseleave is not triggered when hover over submenu
+				$(this).toggleClass('hover');
+			});
+		}
+	}
+
+  </script>
+  <!-- CODE ENDS HERE -->		<!-- Header -->
+			
+		<!-- Main -->
+<article id="main">
+
+    <!--header class="special container">
+            <span class="icon fa-envelope"></span>
+            <h2>Get In Touch</h2>
+            <p>Use the form below to give a piece of your mind.</p>
+    </header-->
+
+    <!-- One -->
+    <section class="wrapper style4 special container 75%">
+        <!-- Content -->
+        <div class="content">
+
+            <h2>Privacy policy</h2>
+            
+            <div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b>Introduction</b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b><br></b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b>UniverseLoL protect the non-personally-identifying information in their secured server.</b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b><br></b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b>Below our privacy policy describes how we treat with the non-persnol information which we collect when you visit our website.</b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b>Please read this notice very carefully.</b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b><br></b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b><br></b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b>Website Visitors</b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b>Like most website operators, Universelol collect the non-personal-identifying information of the sort that web browsers and servers typically make available , such as the browser type ,language prefrence,referring site and the data time of each visitors request. Universelol's purpose for collecting Non-personal-identifying information is to better understand what universelol visitors like or how they use our site.</b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b><br></b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b>Universelol also collects potentially personal indentifying information like internet protocol (IP) addresses.</b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b>Universelol doesn't use this information to identify its visitors and does not disclose such private or personal information.</b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b>Other than under the same circumstances that it uses and discloses personally-identifying information describe below.</b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b><br></b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b><br></b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b><br></b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b>Collection of Personally-Identifying Information</b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b>Many visitors or users to universelol's website choose to interact with universelol in ways that require universelol to collect Personallt-Identifying-Information. The amount and type of information That universelol collects depend on the nature of the interaction. for example, We ask user who sign up for universelol.com to provide a username and email address. In each case, Universelol collects such information only in so far as neccessary or approtiate to fullfill the purpose of the visitor's interaction with universelol.</b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b><br></b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b><br></b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b>Aggrerated Statistics</b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b>Universelol may collect the statistics about the behaviour of visitors to its websites. For instance, Universelol may monitor the most popular collections on universelol.com. Universelol may display this information publicaly or provide it to others. However, Universelol does not disclose Personally-Identification-Information other than as describe below.</b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b><br></b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b>Protection for certain persoanlly-Identifying Information</b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b>Universelol discloses potentially personally-identifying information only to those of its employees,contractors and affiliated organizations that :-</b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b><br></b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b>(i) need to know that information in order to process it on universelol’s behalf or to provide services available at universelol’s websites, and&nbsp;</b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b><br></b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b>(ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using universelol’s websites, you consent to the transfer of such information to them. In addition, in some cases we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if universelol or substantially all of its assets were acquired, or in the unlikely event that universelol goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquiror of universelol may continue to use your personal and non-personal information only as set forth in this policy. Otherwise, universelol will not rent or sell potentially personally-identifying and personally-identifying information to anyone.</b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b>&nbsp; &nbsp; Other than to its employees, contractors and affiliated organizations, as described above, universelol discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when universelol believes in good faith that disclosure is reasonably necessary to protect the property or rights of universelol, third parties or the public at large. If you are a registered user of a universelol website and have supplied your email address, universelol may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with universelol and its products. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. universelol takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.</b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b><br></b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b><br></b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b>You should also be aware that if you submit information to “chat rooms,” “forums” or “message boards” such information becomes public information, meaning that you lose any privacy rights you might have with regards to that information. Such disclosures may also increase your chances of receiving unwanted communications.</b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b><br></b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b><br></b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b>Cookies</b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b>A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Universelol uses cookies to help Universelol identify and track visitors, their usage of Universelol websites, and their website access preferences. Universelol visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Universelol’s websites, with the drawback that certain features of Universelol’s websites may not function properly without the aid of cookies.</b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b><br></b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b><br></b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b>Ads</b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b>Ads appearing on any Universelol websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy covers the use of cookies by Universelol and does not cover the use of cookies by any advertisers.</b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b><br></b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b><br></b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b>Links to Third Party Sites</b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b>This privacy policy only applies to information collected by Universelol. This privacy policy does not apply to the practices of companies that Universelol does not own or control, or employees that Universelol does not manage. A Universelol website may contain links to third party websites. Any information you provide to, or that is collected by, third-party sites may be subject to the privacy policies of those sites, if any. We encourage you to read such privacy policies of any third-party sites you visit. It is the sole responsibility of such third parties to adhere to any applicable restrictions on the disclosure of your personally-identifying information, and Universelol and its affiliates shall not be liable for wrongful use or disclosure of your personally-identifying information by any third party.</b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b><br></b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b><br></b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b>Security</b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b>All non-personally-identifying information, potentially personally-identifying and personally identifying-information described above is stored on restricted database servers.</b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b><br></b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b><br></b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b>Choice/Opt-out</b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b>If we ever send you information by email concerning new products, services or information that you did not expressly request, we will provide you with an email address by which you may request no further notices.</b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b><br></b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b><br></b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b>Address Book Data</b></span></font></div><div><font face="Arial, Verdana"><b><span style="font-size: 13.3333px;">Any external address book data (email contacts, etc.) that a user voluntarily gives universelol access to will only be used for the described feature (looking up friends, etc.), and will not be stored or&nbsp;re purposed.</span></b></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b><br></b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b><br></b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b>Privacy Policy Changes</b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b>Although most changes are likely to be minor, Universelol may change its privacy policy from time to time, and in Universelol’s sole discretion. Universelol encourages visitors to frequently check this page for any changes to its privacy policy. Your continued use of this site after any change in this privacy policy will constitute your acceptance of such change.</b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b><br></b></span></font></div><div><font face="Arial, Verdana"><span style="font-size: 13.3333px;"><b><br></b></span></font></div><div style="font-family: Arial, Verdana; font-size: 10pt; font-style: normal; font-variant: normal; font-weight: normal; line-height: normal;"><br></div></div>
+        </div>
+
+    </section>
+
+</article>		
+		<!-- Footer -->
+  <footer id="footer">
+   <div class="footer_link">
+      <div class="row">
+      <div class="6u 12u(narrower)">
+          <ul class="copyright">
+            <li>©All Right Reserved.</li>
+          </ul>
+        </div>
+      
+        <div class="6u 12u(narrower)">
+          <ul class="footer_menu">
+            <li><a href="/index.php/about-us.html" class=""><span class="label">About Us</span></a></li>
+            <li><a href="/index.php/default/contact" class=""><span class="label">Contact Us</span></a></li>
+            <li><a href="/index.php/term.html" class=""><span class="label">Term &amp; Condition</span></a></li>
+            <li><a href="/index.php/privacy.html" class=""><span class="label">Privacy Policy</span></a></li>
+          </ul>
+        </div>
+        
+      </div>
+    </div>
+  </footer>
+</div>
+
+<script src="/js/jquery.dropotron.min.js"></script>
+<script src="/js/jquery.scrolly.min.js"></script>
+<script src="/js/jquery.scrollgress.min.js"></script>
+<script src="/js/skel.min.js"></script>
+<script src="/js/util.js"></script>
+<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+<script src="/js/main.js"></script>
+
+
+</body></html>
