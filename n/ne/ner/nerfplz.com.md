@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nerfplz.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507224557id_/http%3A//www.nerfplz.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nerfplz.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029083702id_/http%3A//www.nerfplz.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# League of Legends: Privacy Policy | Nerfplz.LoL
+# League of Legends: Privacy Policy | NERFPLZ.LOL
 
 Privacy Policy for nerfplz.com
 
