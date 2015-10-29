@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jackmyers.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625125700id_/http%3A//www.jackmyers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackmyers.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029073917id_/http%3A//www.jackmyers.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Jack Myers
 
@@ -29,6 +29,10 @@ We have established procedures to ensure that every reasonable effort is made to
 
 ##  Commentary Archives
 
+[September 2015](https://web.archive.org/privacy?archive=092015)  
+[August 2015](https://web.archive.org/privacy?archive=082015)  
+[July 2015](https://web.archive.org/privacy?archive=072015)  
+[June 2015](https://web.archive.org/privacy?archive=062015)  
 [May 2015](https://web.archive.org/privacy?archive=052015)  
 [April 2015](https://web.archive.org/privacy?archive=042015)  
 [March 2015](https://web.archive.org/privacy?archive=032015)  
@@ -36,59 +40,52 @@ We have established procedures to ensure that every reasonable effort is made to
 [January 2015](https://web.archive.org/privacy?archive=012015)  
 [December 2014](https://web.archive.org/privacy?archive=122014)  
 [November 2014](https://web.archive.org/privacy?archive=112014)  
-[October 2014](https://web.archive.org/privacy?archive=102014)  
-[September 2014](https://web.archive.org/privacy?archive=092014)  
-[August 2014](https://web.archive.org/privacy?archive=082014)  
-[July 2014](https://web.archive.org/privacy?archive=072014)  
-[June 2014](https://web.archive.org/privacy?archive=062014)
+[October 2014](https://web.archive.org/privacy?archive=102014)
 
 ### [See all Archived Material](https://web.archive.org/privacy?archive=all)
 
 ## MediaVillage.com[](http://feeds.feedburner.com/MediavillageBloggerFeedForMediabizbloggersChannels?format=xml)
 
-[Capturing Your Consumers in the First 5 Seconds](https://www.mediavillage.com/article/capturing-your-consumers-in-the-first-5-seconds-222/)  
-This week, we are celebrating the endless creativity of the advertising and marketing worlds at Cannes International Festival of Creativity. We’re really excited to recognize and revisit this year’s slew of brilliant campaigns on Cannes’ international stage. There are so many great contenders -- the ads that moved people to tears, others that made them laugh and of course those that inspired them to take action.
+[Q&A: The Weather Company on Using Automation to Capture Adspend](https://www.mediavillage.com/article/qa-the-weather-company-on-using-automation-to-capture-adspend/)  
+In the first of a three-part series, Jay Sears, Senior Vice President Marketplace Development of Rubicon Project discusses how to use automation to capture advertising spend from small and medium-sized businesses with Ryan Davis of The Weather Company. The two executives appeared at a program titled “$50B Left Behind: Capturing SMB Spend” during Advertising Week New York.
 
-[Video of the Week: Jon Stewart's Quiet Expression of Outrage](https://www.mediavillage.com/article/video-of-the-week-jon-stewarts-quiet-expression-of-outrage/)  
-Jon Stewart on Thursday night opened his Comedy Central program “The Daily Show with Jon Stewart” in serious commentator mode, talking about the mass murder the night before at the Emanuel African Methodist Episcopal Church in Charleston, South Carolina.
+[Contemporary Common Keys in Advertising](https://www.mediavillage.com/article/contemporary-common-keys-in-advertising/)  
+It has been said that the US and Great Britain are two countries separated by a common language. Despite many similarities, we still misinterpret meaning and context between us while using words derived from the same source. For example if a Brit is in “rude health” it means he or she is in “very good health,” which is not apparent to us American upstarts.
 
-[Stuart Elliott: Rainbows Over Madison Avenue May Lead to Pots of Gold](https://www.mediavillage.com/article/stuart-elliott-rainbows-over-madison-avenue-may-lead-to-pots-of-gold/)  
-In their never-ending efforts to sell, sell, sell, advertisers long have found inspiration in the calendar, borrowing interest from holidays such as Valentine's Day, St. Patrick's Day, the Fourth of July, Halloween and, of course, Christmas. In recent years, reflecting the increasing diversity of the consumers they seek to reach, advertisers have added Dr. King's Birthday and Cinco de Mayo.
+[Ad Blocking? More Like Ad Blockheads](https://www.mediavillage.com/article/ad-blocking-more-like-ad-blockheads/)  
+So here's my take on ad blocking. Isn't it awful that ads for "Truth," the new movie about Dan Rather and his 2004 report about George W. Bush, were blocked by CBS, which refused to run them even though other networks did?
 
-[Elon Musk: The Edison/Tesla/Ford of the Digital Age](https://www.mediavillage.com/article/elon-musk-the-edisonteslaford-of-the-digital-age/)  
-I have been an admirer, yes, even a fan of Elon Musk ever since I first learned about Tesla Motors ten years ago. I state that because now it seems that Elon Musk is everywhere in the media -- online, magazines, a best-selling biography (which I have purchased but have yet to start) -- simply because he is out to change the world and people are finally taking notice.
+[On “The Walking Dead,” Is Glenn a Goner?](https://www.mediavillage.com/article/on-the-walking-dead-is-glenn-a-goner/)  
+Any doubts about the continued power of AMC’s “The Walking Dead” or its status as the most popular program on television had to have been eradicated this week in the aftermath of the most shocking television death since that of Will Gardner on CBS’ “The Good Wife.”
 
-[Remembering Ralph Roberts](https://www.mediavillage.com/article/remembering-ralph-roberts/)  
-Ralph Roberts was one of the good guys. Along with Bill Daniels, Bill Brazeal, J. C. Sparkman, Irving Kahn and Bill Bresnan he was always ready to lend a guiding hand to those of us who were (in the late 1960s, some years after Ralph bought his first system in Tupelo Mississippi) new to the industry. I remember Ralph with special fondness as he accepted my early long-haired, hippie journalist persona, inviting me (off the record) to join his annual dinner with his top guys, including the late Dan Aaron (who had been the selling negotiator in Tupelo) and the great Julian Brodsky, his financiers and, after a couple dinners, Brian, too. I was privileged to learn a lot that way.
+[Newspapers Grow By Delivering Value](https://www.mediavillage.com/article/newspapers-grow-by-delivering-value/)  
+The Standard Media Index (SMI) this week reported findings that really caught the attention of almost everyone in media. A service that tracks spending by 80% of all U.S. agencies, SMI reported that newspaper spend was up 18% in September and 16% for the quarter. Their research is directional as it doesn’t include all agencies and does not reflect spends made by clients direct (i.e. Macy’s) or FSI activity handled by specialty placement shops. That said, the numbers are still impressive and are frankly no surprise to us here at the NNN. We saw similar double digit percentage gains for both periods. In fact, for Q4, we are already pacing ahead of these Q3 industry growth figures. With all of the negative press that the newspaper industry has managed through over the years, the obvious question most people are asking when they read the report is: What is driving this growth, and is it sustainable?
 
-[Rehabilitating a Fragile Direct Response TV Ecosystem](https://www.mediavillage.com/article/rehabilitating-a-fragile-direct-response-tv-ecosystem/)  
-“Whenever possible, one should focus on removing fragilizing interdependencies rather than imposing additional structure and activity that will only increase the fragility of the system as a whole.” -- Nassim Taleb, Rupert Read and Yaneer Bar-yam; from the paper, Precautionary Principle*
+[If You Own a Cable Net with "Few" Viewers, You Are in Big Trouble!](https://www.mediavillage.com/article/if-you-own-a-cable-net-with-few-viewers-you-are-in-big-trouble/)  
+If you are a subscriber to a Multichannel Video Programming Distributor (MVPD) you’re going to wind up paying more for less … but subscribing to pretty much only what you want to watch if you can afford it all. (And if you are Comcast with all of those cable subs and NBCU, well, just look at both sides of all the equations to come!)
 
-[“TREotM”: The Sixties](https://www.mediavillage.com/article/treotm-the-sixties/)  
-Chapter 10, Part 4
+[Cinema Advertising: Break Through Fragmentation with a Bang](https://www.mediavillage.com/article/cinema-advertising-break-through-fragmentation-with-a-bang/)  
+Fourth quarter is always an exciting time in media. Maybe it’s from the old television model, but the season still feels ripe for a premiere. But we’ve seen that model decline, year-over-year, as an abundance of choices and consumer control have fragmented our industry along with our efforts to communicate to consumers. Fragmentation is a funny word to me because everyone sees it as a negative, and I don’t any longer. Perhaps it has something to do with our own premiere this fall, as we welcome a new CEO to Screenvision, but I’m choosing to spend my time embracing the fragmentation knowing that ultimately strong messages on the right platform at the right time will find passionate consumers. We all just have to get better at it.
 
-[The Missing Media Metric: Reach Velocity — Part 2](https://www.mediavillage.com/article/the-missing-media-metric-reach-velocity-part-2/)  
-In our last post, we discussed what makes Reach Velocity important: It is the best media metric to use in order to maximize the double-tap effect. The faster reach grows, the higher reach will be in any two-day period under the reach curve. And the higher the reach in a two-day period, the higher the reach-at-2-frequency will be in a two-day period.
+[TREotM: Monetizing the New Media Mix: Or, That’s Not So Simple](https://www.mediavillage.com/article/treotm-monetizing-the-new-media-mix-r-thats-not-so-simple/)  
+Chapter 13, Part 1
 
-[Agencies in Turmoil: Contracts, Rebates and “Dark Pools”](https://www.mediavillage.com/article/agencies-in-turmoil-contracts-and-enquiries-rebates-and-dark-pools/)  
-And so the play continues towards the endgame. With some unimaginably large percentage of US/global media spending up for review the last week brought new revelations around what is fast moving from being an arcane discussion into something close to front page news.
+[Radio Brings Profits to Hyperlocal Apps](https://www.mediavillage.com/article/radio-brings-profits-to-hyper-local-apps/)  
+Hyperlocal apps connect app users with retailers in a mutually beneficial way. For example, an app can notify you that a Dunkin Donuts is a block away offering free coffee for the next 10 minutes. The user gets free coffee. Dunkin Donuts gets valuable consumer data.
 
-[Data, Data Everywhere in the Upfront: An Overview -- Part 4](https://www.mediavillage.com/article/data-data-everywhere-in-the-upfront-an-overview-part-4/)  
-This is the fourth part of a five-part series examining the new data initiatives of major data companies. Parts 1 through 3 outlined the many data initiatives, their scalability and whether their services were gaining traction in the industry.
+[Upfront Update: Programmatic (to a Degree) Ahead for NCC](https://www.mediavillage.com/article/upfront-update-programmatic-to-a-degree-ahead-for-ncc/)  
+Late winter and spring represent primetime for the majority of companies presenting Upfront/NewFront showcases in New York City. Not so with NCC Media, the advertising sales rep firm handling local and national spot buys for multichannel distributors. NCC prefers to show off its intentions in mid-fall and did so again last Thursday.
 
-[The Context of Contextual Content](https://www.mediavillage.com/article/the-context-of-contextual-content/)  
-Content is king. We’ve all heard that over and over, right? But it’s getting to the point that content isn’t just king; it’s a benevolent dictator. There’s so much content out there now that it sometimes seems as if we serve the content rather than the content serving us.
+[Why Agencies Can’t Deliver In the Age of Disruption](https://www.mediavillage.com/article/why-agencies-cant-deliver-in-the-age-of-disruption/)  
+Disruption, like a breakout summer hit, is the song playing on every station. At the recent ANA gathering, the Masters of Marketing chorus could be heard singing in three-part harmony: Disruption of media. Disruption of business models. Disruption of agency models. Disruption of the disrupters who disrupted everything in the first place.
 
-[Outsourcing Control](https://www.mediavillage.com/article/outsourcing-control/)  
-Your smartphone may be distracting – but it can also simplify your life. This week, on Mindshare’s Culture Vulture Live (below), Jeff Malmad explores one of this year’s growing consumer trends: Outsourcing control to technology.
+[The MediaVillage Articles Club: Autumn Selections](https://www.mediavillage.com/article/the-mediavillage-articles-club-autumn-selections/)  
+Aside from the great company and pizza, one of the best things about our monthly Articles Club meetings is the way in which our discussions often veer from course and we arrive at many a tangent. From an oral history of the Kennedy family to a retelling of respective senior prom nights, we covered a lot of ground this month. Perhaps we should consider publishing a transcript. But for now, I’ve shared below our article selections from the month of October.
 
-[NetNeut for Real (Sort of)! Will Ad Blockers Stop Mobile Ad Growth?](https://www.mediavillage.com/article/netneut-for-real-sort-of-will-ad-blockers-stop-mobile-ad-growth/)  
-Well, we’re now being regulated under Title II (otherwise known as the Communications Bar Employment project). I think. But neither I, nor the Federal Confusion Commission actually knows what the rules are or will be. That really shouldn’t surprise anyone. The failed requests for a stay of the rules clearly made the case the FCC isn’t ready for prime time.
+[Advertising Effect: Breaking the (Quant) Cast](https://www.mediavillage.com/article/advertising-effect-breaking-the-quant-cast/)  
+One of my main beefs about the online adtech business is how so many people working within it are so narrow in their knowledge and their thinking about advertising. Too many seem to believe that the end point is the technology and the algorithms, and not helping ensure that each ad works as hard as it can.
 
-[Is the New Apple Music a Mess?](https://www.mediavillage.com/article/is-the-new-apple-music-a-mess/)  
-And … the new marketing muscle of your favorite movie stars.
-
-[Don’t Launch a Media Agency Review Right Now](https://www.mediavillage.com/article/dont-launch-a-media-agency-review-right-now/)  
-At the moment there are 16 media agency reviews being conducted (that we know of). That’s tens of billions of dollars in play. There is probably someone else out there that has not yet announced.
+[The Power of Audience Intimacy](https://www.mediavillage.com/article/the-power-of-audience-intimacy/)  
+The TV industry is in the midst of an adjustment period. Between the rise of digital and its impact on TV ad revenue, to streaming and “cord-cutting” alternatives, the industry has faced its fair share of challenges. As networks adjust to the new media landscape, some have embraced data as a lead navigator of this somewhat uncertain terrain. Those that have done so successfully are using this information to not only better understand the landscape, but to generate an intimate comprehension of their audience. Acquiring this knowledge is incredibly powerful and has proved a resourceful tactic as traditional television settles into the digital age.
 
 [Click Here for Membership Information](https://web.archive.org/subscription-info)
