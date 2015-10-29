@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cordial.io privacy policy that was archived on 2015-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150628015011id_/http%3A//cordial.io/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cordial.io privacy policy that was archived on 2015-10-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151029062411id_/http%3A//cordial.io/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
   <meta charset="utf-8">
@@ -9,8 +9,9 @@
 
   <link rel="alternate" type="application/rss+xml" title="Cordial.io - Experiences Delivered » Feed" href="http://cordial.io/feed/">
 <link rel="alternate" type="application/rss+xml" title="Cordial.io - Experiences Delivered » Comments Feed" href="http://cordial.io/comments/feed/">
-<link rel="stylesheet" href="http://cordial.io/wp-content/uploads/formidable/css/formidablepro.css?ver=1.07.11">
+<link rel="stylesheet" href="http://cordial.io/wp-content/uploads/formidable/css/formidablepro.css?ver=2.0.14">
 <link rel="stylesheet" href="http://cordial.io/wp-content/plugins/themovation-bootstrap-3-shortcodes/css/style.css?ver=1">
+<link rel="stylesheet" href="http://cordial.io/wp-content/plugins/easy-twitter-feed-widget/easy-twitter-feed-widget.css?ver=4.1">
 <link rel="stylesheet" href="http://cordial.io/wp-content/themes/pursuit/assets/css/glyphicons.css?ver=1">
 <link rel="stylesheet" href="http://cordial.io/wp-content/themes/pursuit/assets/css/themo_animations.css?ver=1">
 <link rel="stylesheet" href="http://cordial.io/wp-content/themes/pursuit/assets/css/bootstrap.min.css?ver=3.1.1">
@@ -25,7 +26,8 @@
 </style>
 <link rel="stylesheet" href="http://cordial.io/wp-content/themes/pursuit/assets/css/header.css?ver=1">
 <link rel="stylesheet" href="http://cordial.io/wp-content/themes/pursuit/assets/css/responsive.css?ver=1">
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-M2WDW5"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://cordial.io/wp-includes/js/jquery/jquery.js?ver=1.11.1"></script>
+<link rel="stylesheet" href="http://cordial.io/wp-content/plugins/easy-fancybox/fancybox/jquery.fancybox-1.3.7.min.css?ver=1.5.7" media="screen">
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KFXRXH"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script type="text/javascript" src="http://cordial.io/wp-includes/js/jquery/jquery.js?ver=1.11.1"></script>
 <script type="text/javascript" src="http://cordial.io/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
 <script type="text/javascript" src="http://cordial.io/wp-content/themes/pursuit/assets/js/vendor/modernizr-2.7.0.min.js?ver=2.7.0"></script>
 <script type="text/javascript" src="http://cordial.io/wp-content/themes/pursuit/assets/js/vendor/jquery.backstretch.min.js?ver=2.0.4"></script>
@@ -40,27 +42,185 @@
 <![endif]-->
 	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
 
+<!-- Easy FancyBox 1.5.7 using FancyBox 1.3.7 - RavanH (http://status301.net/wordpress-plugins/easy-fancybox/) -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var fb_timeout = null;
+var fb_opts = { 'overlayShow' : true, 'hideOnOverlayClick' : true, 'showCloseButton' : true, 'centerOnScroll' : true, 'enableEscapeButton' : true, 'autoScale' : true };
+var easy_fancybox_handler = function(){
+	/* YouTube */
+	jQuery('a.fancybox-youtube, area.fancybox-youtube, li.fancybox-youtube a:not(li.nofancybox a)').fancybox( jQuery.extend({}, fb_opts, { 'type' : 'iframe', 'width' : 640, 'height' : 360, 'titleShow' : true, 'titlePosition' : 'float', 'titleFromAlt' : true, 'onStart' : function(selectedArray, selectedIndex, selectedOpts) { selectedOpts.href = selectedArray[selectedIndex].href.replace(new RegExp('youtu.be', 'i'), 'www.youtube.com/embed').replace(new RegExp('watch\\?(.*)v=([a-z0-9\_\-]+)(&amp;|&|\\?)?(.*)', 'i'), 'embed/$2?$1$4'); var splitOn = selectedOpts.href.indexOf('?'); var urlParms = ( splitOn > -1 ) ? selectedOpts.href.substring(splitOn) : ""; selectedOpts.allowfullscreen = ( urlParms.indexOf('fs=0') > -1 ) ? false : true } }) );
+	/* Vimeo */
+	jQuery('a.fancybox-vimeo, area.fancybox-vimeo, li.fancybox-vimeo a:not(li.nofancybox a)').fancybox( jQuery.extend({}, fb_opts, { 'type' : 'iframe', 'width' : 500, 'height' : 281, 'titleShow' : true, 'titlePosition' : 'float', 'titleFromAlt' : true, 'onStart' : function(selectedArray, selectedIndex, selectedOpts) { selectedOpts.href = selectedArray[selectedIndex].href.replace(new RegExp('//(www\.)?vimeo\.com/([0-9]+)(&|\\?)?(.*)', 'i'), '//player.vimeo.com/video/$2?$4'); var splitOn = selectedOpts.href.indexOf('?'); var urlParms = ( splitOn > -1 ) ? selectedOpts.href.substring(splitOn) : ""; selectedOpts.allowfullscreen = ( urlParms.indexOf('fullscreen=0') > -1 ) ? false : true } }) );
+	/* Dailymotion */
+	jQuery('a.fancybox-dailymotion, area.fancybox-dailymotion, li.fancybox-dailymotion a:not(li.nofancybox a)').fancybox( jQuery.extend({}, fb_opts, { 'type' : 'iframe', 'width' : 560, 'height' : 315, 'titleShow' : true, 'titlePosition' : 'float', 'titleFromAlt' : true, 'onStart' : function(selectedArray, selectedIndex, selectedOpts) { selectedOpts.href = selectedArray[selectedIndex].href.replace(new RegExp('/video/(.*)', 'i'), '/embed/video/$1'); var splitOn = selectedOpts.href.indexOf('?'); var urlParms = ( splitOn > -1 ) ? selectedOpts.href.substring(splitOn) : ""; selectedOpts.allowfullscreen = ( urlParms.indexOf('fullscreen=0') > -1 ) ? false : true } }) );
+	/* Auto-click */ 
+	jQuery('#fancybox-auto').trigger('click');
+}
+/* ]]> */
+</script>
+
+	<!--[if IE 8]>            
+		<style type="text/css">
+.fancybox-ie #fancybox-bg-n{-ms-filter:'progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://cordial.io/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_n.png",sizingMethod="scale")'}
+.fancybox-ie #fancybox-bg-ne{-ms-filter:'progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://cordial.io/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_ne.png",sizingMethod="scale")'}
+.fancybox-ie #fancybox-bg-e{-ms-filter:'progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://cordial.io/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_e.png",sizingMethod="scale")'}
+.fancybox-ie #fancybox-bg-se{-ms-filter:'progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://cordial.io/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_se.png",sizingMethod="scale")'}
+.fancybox-ie #fancybox-bg-s{-ms-filter:'progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://cordial.io/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_s.png",sizingMethod="scale")'}
+.fancybox-ie #fancybox-bg-sw{-ms-filter:'progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://cordial.io/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_sw.png",sizingMethod="scale")'}
+.fancybox-ie #fancybox-bg-w{-ms-filter:'progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://cordial.io/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_w.png",sizingMethod="scale")'}
+.fancybox-ie #fancybox-bg-nw{-ms-filter:'progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://cordial.io/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_nw.png",sizingMethod="scale")'}
+		</style>
+	<![endif]-->
+
   <link rel="alternate" type="application/rss+xml" title="Cordial.io - Experiences Delivered Feed" href="http://cordial.io/feed/">
   
 	<link rel="shortcut icon" href="http://cordial.io/wp-content/uploads/2015/02/favicon2.png" type="image/png">
-<link rel="icon" href="http://cordial.io/wp-content/uploads/2015/02/favicon2.png" type="image/png">
+<link rel="icon" href="http://cordial.io/wp-content/uploads/2015/02/favicon2.png" type="image/png">                <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800" rel="stylesheet" type="text/css">
+                                <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+                
 <!-- Theme Custom CSS outfall -->
 <style>
-h1, h2, h3, h4, h5, h6{}
+body,p{font-family:'Open Sans', sans-serif ;font-size:17px ;}
+.navbar-nav{font-family:'Montserrat', sans-serif; ;font-size:15px ;}
+h1, h2, h3, h4, h5, h6{font-family:'Montserrat', sans-serif; ;}
 
 /* Custom Color CSS #2b8dd6 */
 #main-flex-slider .slides h1,.accent,.light-text .btn-ghost:hover,.light-text .googlemap a,.light-text .pricing-column.highlight .btn-ghost:hover,.light-text .pricing-column.highlight .btn-standard,.navbar .navbar-nav .dropdown-menu li a:hover,.navbar .navbar-nav .dropdown-menu li.active a,.navbar .navbar-nav .dropdown-menu li.active a:hover,.page-title h1,.panel-title i,.pricing-column.highlight .btn-ghost:hover,.pricing-column.highlight .btn-standard,.pricing-cost,.simple-cta span,.team-member-social a .soc-icon:hover,a{color:#2b8dd6}.footer .widget-title:after,.navbar .navbar-nav>li.active>a:after,.navbar .navbar-nav>li.active>a:focus:after,.navbar .navbar-nav>li.active>a:hover:after,.navbar .navbar-nav>li>a:hover:after{background-color:#2b8dd6}.accordion .accordion-btn .btn-ghost:hover,.btn-ghost:hover,.btn-standard,.circle-lrg-icon i,.circle-lrg-icon span,.light-text .pricing-table .btn-ghost:hover,.pager li>a:hover,.pager li>span:hover,.pricing-column.highlight{background-color:#2b8dd6;border-color:#2b8dd6}.accordion .accordion-btn .btn-ghost,.btn-ghost,.circle-lrg-icon i:hover,.circle-lrg-icon span:hover,.light-text .pricing-table .btn-ghost{color:#2b8dd6;border-color:#2b8dd6}.search-form input:focus,.widget select:focus,form input:focus,form select:focus,form textarea:focus{border-color:#2b8dd6!important}.circle-med-icon i,.circle-med-icon span,.frm_form_submit_style,.frm_form_submit_style:hover,.with_frm_style .frm_submit input[type=button],.with_frm_style .frm_submit input[type=button]:hover,.with_frm_style .frm_submit input[type=submit],.with_frm_style .frm_submit input[type=submit]:hover,.with_frm_style.frm_login_form input[type=submit],.with_frm_style.frm_login_form input[type=submit]:hover,form input[type=submit],form input[type=submit]:hover{background:#2b8dd6}.footer .tagcloud a:hover,.headhesive--clone .navbar-nav>li.active>a:after,.headhesive--clone .navbar-nav>li.active>a:focus:after,.headhesive--clone .navbar-nav>li.active>a:hover:after,.headhesive--clone .navbar-nav>li>a:hover:after,.search-submit,.search-submit:hover,.simple-conversion .with_frm_style input[type=submit],.simple-conversion .with_frm_style input[type=submit]:focus,.simple-conversion form input[type=submit],.simple-conversion form input[type=submit]:focus,.widget .tagcloud a:hover{background-color:#2b8dd6!important}.btn-cta{background-color:#00d148}
-header.navbar, .headhesive--clone{
-    background:#db3e22 !important;
+/* Additional CSS - Celi */
+body {background-color: #fff !important;}
+a {color: #8cd1d7 !important; text-decoration: none;}
+a:hover{text-decoration: underline;}
+.btn{text-decoration: none !important;}
+p {margin-bottom: 30px;}
+h2 {font-size: 27px;}
+h1, h2, h3 {line-height: 130%;}
+.page-title-h1{color: #515151 !important;}
+#logo { margin: 10px 0 !important;}
+.header-title-middle {font-size: 28px; font-weight: 400; line-height: 150%; display: block;}
+.with_frm_style .frm_submit input[value="Request a Demo"] {color: #333; margin: inherit auto !important; display: inline-block;}
+.with_frm_style .frm_submit input[type="submit"] {color: #333 !important;}
+.height60 {height: 60px;} 
+.partnersicons {display: block; padding-left: 150px; text-align: left;}
+.navbar.headhesive--stick .navbar-nav > li > a {font-weight: 400 !important; font-size: 13px !important; padding-top: 3px !important; padding-bottom: 3px !important;}
+.footer a .soc-icon {color: #8cd1d7;}
+.team-member-social {display: block; padding-bottom: 30px;}
+@media (max-width: 1200px){
+#homeexperiments section#themo_html_1 {background-position: 60% bottom !important;}
+#homeeffortless section#themo_html_2 .col-sm-push-6 {left: 60%;}
+#developersyoudream section#themo_html_2 .col-sm-push-6 {left: 60%;}
+#developersmorefreedom section#themo_html_3 {background-position: 60% bottom !important;}
+}
+
+@media (max-width: 991px){
+
+#developersusewhatyouhave section .backstretch img{display: none !important;}
+#developersmorefreedom section .backstretch img{display: none !important;}
+
+#homeexperiments section .backstretch img{display: none !important;}
+#homeeffortless section .backstretch img{display: none !important;}
+#developersyoudream section .backstretch img{display: none !important;}
+#developersyoudream section#themo_html_2 {background-image: URL('http://cordial.io/wp-content/uploads/2015/10/developers-mobilebg-youdreamit.jpg') !important; 
+background-position: left bottom !important; background-size:initial !important; padding-bottom: 320px;background-repeat: no-repeat !important; background-color: #fbf7f4 !important;}   
+
+#developersusewhatyouhave section#themo_html_1 {background-image: URL('http://cordial.io/wp-content/uploads/2015/10/Developer_page_Rest_APIs.jpg') !important; 
+background-position: right bottom !important; background-size:initial !important; padding-bottom: 460px;background-repeat: no-repeat !important;}
+
+#developersmorefreedom section#themo_html_3 {background-image: URL('http://cordial.io/wp-content/uploads/2015/10/developers-mobilebg-morefreedom.jpg') !important; 
+background-position: center bottom !important; background-size:initial !important; padding-bottom: 400px;background-repeat: no-repeat !important; background-color: #84cbd1 !important;}    
+
+#homeexperiments section#themo_html_1 {background-image: URL('http://cordial.io/wp-content/uploads/2015/02/home-mobilebg-experiments.jpg') !important; 
+background-position: center bottom !important; background-size:initial !important; padding-bottom: 360px;background-repeat: no-repeat !important;}
+
+#homeeffortless section#themo_html_2 {background-image: URL('http://cordial.io/wp-content/uploads/2015/02/home-mobilebg-effortless.jpg') !important; 
+background-position: left top !important; background-size:initial !important; padding-top: 400px;background-repeat: no-repeat !important; background-color: #fbf7f4 !important;}   
+
+.full-header-img {background-size: initial !important;}
+
+#homeexperiments section#themo_html_1 .col-sm-pull-5 {left: 18%;}
+#homeexperiments section#themo_html_1 .col-sm-5 {width: 70%;}
+#homeeffortless section#themo_html_2 .col-sm-push-6 {left: 18%;}
+#homeeffortless section#themo_html_2 .col-sm-5{width: 70%;}
+
+#developersusewhatyouhave section#themo_html_1 .col-sm-pull-5 {left: 18%;}
+#developersusewhatyouhave section#themo_html_1 .col-sm-5 {width: 70%;}
+#developersyoudream section#themo_html_2 .col-sm-push-6 {left: 18%;}
+#developersyoudream section#themo_html_2 .col-sm-5{width: 70%;}
+#developersmorefreedom section#themo_html_3 .col-sm-pull-5 {left: 18%;}
+#developersmorefreedom section#themo_html_3 .col-sm-5 {width: 70%;}
+
+}
+
+@media (max-width: 767px){
+.height60 {height: 5px;}
+.partnersicons {display: block; padding-left: 0px; text-align: center;}
+
+
+#developersusewhatyouhave section#themo_html_1 {background-image: URL('http://cordial.io/wp-content/uploads/2015/10/developers-mobilebg-usewhatyouhave.jpg') !important; 
+background-position: center bottom !important; background-size:contain !important; padding-bottom: 440px;background-repeat: no-repeat !important;}
+  
+#developersusewhatyouhave section#themo_html_1 {padding-bottom: 440px;}
+#developersyoudream section#themo_html_2 {background-image: URL('http://cordial.io/wp-content/uploads/2015/10/developers-mobilebg-youdreamit.jpg') !important; background-size:contain !important; }   
+#developersmorefreedom section#themo_html_3 {background-image: URL('http://cordial.io/wp-content/uploads/2015/10/developers-mobilebg-morefreedom.jpg') !important; background-size:contain !important; padding-bottom: 400px;}    
+#homeexperiments section#themo_html_1 {padding-bottom: 360px;}
+#homeeffortless section#themo_html_2 {padding-top: 400px;}   
+
+#homeexperiments section#themo_html_1 .col-sm-pull-5 {left: 0%;}
+#homeexperiments section#themo_html_1 .col-sm-5 {width: 100%;}
+#homeeffortless section#themo_html_2 .col-sm-push-6 {left: 0%;}
+#homeeffortless section#themo_html_2 .col-sm-5{width: 100%;}
+
+#developersusewhatyouhave section#themo_html_1 .col-sm-pull-5 {left: 0%;}
+#developersusewhatyouhave section#themo_html_1 .col-sm-5 {width: 100%;}
+#developersyoudream section#themo_html_2 .col-sm-push-6 {left: 0%;}
+#developersyoudream section#themo_html_2 .col-sm-5{width: 100%;}
+#developersmorefreedom section#themo_html_3 .col-sm-pull-5 {left: 0%;}
+#developersmorefreedom section#themo_html_3 .col-sm-5 {width: 100%;}
+}
+
+@media (max-width: 500px){
+  #homeexperiments section#themo_html_1 {padding-bottom: 360px;}
+  #homeeffortless section#themo_html_2 {padding-top: 440px;}
+  #developersmorefreedom section#themo_html_3 {padding-bottom: 300px;}
+  #developersusewhatyouhave section#themo_html_1 {padding-bottom: 330px;}
+}
+ 
+.circle-lrg-icon i {
+    color: #b9aba3;
+    font-size: 52px;
+    padding: 10px 48px;
+    background-color: transparent !important;
+    border: none !important;
+    -webkit-border-radius: 0em !important;
+    -moz-border-radius: 0em !important;
+    border-radius: 0em !important;
+}
+.icon-blocks h3 {
+    font-size: 19px !important;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+
+/* End = Additional CSS - Celi */
+
+
+header.navbar-static-top {background: #2c2e2e !important;  border-bottom: 3px solid #db3e21 !important;}
+[data-transparent-header='true'].banner { border-bottom: 3px solid #db3e21 !important;}
+header.navbar-static-top.headhesive--clone{
+    background: #2c2e2e !important;
 }
 .navbar .navbar-nav > li > a{
-    color:#fff;
-}
-.navbar .navbar-nav > li.active > a, .navbar .navbar-nav > li.active > a:hover, .navbar .navbar-nav > li.active > a:focus{
-    color:#fff;
+    color:#fff !important; text-transform: uppercase; text-decoration: none !important;
 }
 .navbar .navbar-nav > li > a:hover:after, .navbar .navbar-nav > li.active > a:after, .navbar .navbar-nav > li.active > a:hover:after, .navbar .navbar-nav > li.active > a:focus:after {
-    background-color: #8bd0d5;
+    background-color: #fff !important;
+}
+.navbar .navbar-nav > li:nth-child(2).active > a:after, .navbar .navbar-nav > li:nth-child(2).active > a:focus:after {
+    background-color: transparent !important;
+}
+.navbar .navbar-nav > li:nth-child(2).active > a:hover:after, .navbar .navbar-nav > li:nth-child(2).active > a:hover:focus:after {
+    background-color: #fff !important;
 }
 .navbar-default{
     border-bottom:none;
@@ -68,6 +228,111 @@ header.navbar, .headhesive--clone{
 .navbar .navbar-nav > li > a:hover {
     color:#ffffff
 }
+.dropdown-menu a {color: #000 !important;}
+
+/* Additional CSS - Celi */
+.navbar .navbar-nav { margin-bottom: 15px;}
+.navbar .navbar-nav > li.menu-get-a-demo {border: 1px solid #fff; border-radius: 5px;}
+.navbar .navbar-nav > li.menu-get-a-demo a {padding-top: 10px !important; padding-bottom: 10px !important;}
+.navbar .navbar-nav > li.menu-get-a-demo a:hover {background-color: #fcfdfd; color: #db3e21 !important;}
+.navbar .navbar-nav > li.menu-get-a-demo a.active:after, .navbar .navbar-nav > li.menu-get-a-demo a:hover:after {background-color: transparent !important;}
+
+.navbar.headhesive--stick .navbar-nav > li.menu-get-a-demo > a {font-weight: 400 !important; font-size: 12px !important; padding-top: 3px !important; padding-bottom: 3px !important;}
+.navbar.headhesive--stick #logo {margin: 0px !important;} 
+.navbar.headhesive--stick .navbar-nav > li > a:hover:after, .navbar.headhesive--stick .navbar-nav > li.active > a:after, .navbar.headhesive--stick .navbar-nav > li.active > a:hover:after, .navbar.headhesive--stick .navbar-nav > li.active > a:focus:after {
+    background-color: transparent !important;
+}
+
+
+.bubble-background {background: URL(http://cordial.io/wp-content/uploads/2015/02/home-banner-top-bubbles.png) no-repeat left top; background-size: 100% auto; min-height: 400px; width: 100%; max-width: 433px; font-size: 21px;}
+.home-bubble {float:left; max-width: 433px; width: 100%; height: auto;}
+.home-tools-box {display: inline-block; width: 60%; margin: auto auto; font-size: 22px; background: #fff URL(http://cordial.io/wp-content/uploads/2015/02/orange-border-line.gif) no-repeat center center; border: 1px solid #9a8e86; padding: 30px; border-radius: 10px; }
+.home-tools-box .module-left {display: inline-block; width: 48%; float: left;}
+.home-tools-box .module-right {display: inline-block; width: 48%; float: right;}
+.home-tools-box .percentage {font-weight: bold; font-size: 34px; display: inline-block; padding: 0px 20px 5px 20px; margin-bottom: 15px; border-bottom: 6px solid #db3e21;}
+#developers .section-header {margin-bottom: -30px !important;}
+.white-box-60 {display: inline-block; width: 60%;  margin: auto auto; font-size: 22px; background: #fff; border: 1px solid #9a8e86; padding: 30px; border-radius: 10px;}
+
+.font-normal {font-weight: 400 !important;}
+.font-bold {font-weight: 700 !important;}
+.line-height-twice {line-height: 130%;}
+.no-top-margin {margin-top: 0px;}
+.no-padding-top {padding-top: 0px;}
+.font-size-21 {font-size: 21px;}
+.home-service-block-title {font-size: 17px !important; font-weight: bold;}
+.home-service-container p {font-size: 13px !important; margin-bottom: 0px !important;line-height: 18px !important;}
+.home-service-container {text-align: center;}
+.btn-standard {color: #2c2b29 !important; background-color: #8cd1d7 !important; border-color: #8cd1d7 !important;}
+.btn-transparent-black {color: #2c2b29 !important; background-color: transparent !important; border-color: #2c2b29 !important;}
+.hs-form .hs-button {color: #2c2b29 !important; background-color: #8cd1d7 !important; border-color: #8cd1d7 !important;
+    background-image: none !important; text-shadow: none !important;
+}
+.black-border {border: 1px solid #000 !important;}
+.background-white {background-color: #fff !important; border-color: #fff !important;}
+.orange-font {color: #db3e21 !important;}
+.white-font {color: #fff !important;}
+.white-border {border-color: #fff !important;}
+.text-center {text-align: center !important;}
+.text-underline {text-decoration: underline;}
+span.text-underline {display: inline !important;}
+.home-service-content {width: 90%; display: block; margin: 0px auto;}
+.width-70percent-center {width: 70%; display: block; margin: 0px auto;}
+.width-60percent-center {width: 60%; display: block; margin: 0px auto;}
+.width-50percent-center {width: 50%; display: block; margin: 0px auto;}
+.width-70percent {width: 70%; display: block;}
+.width-80percent {width: 80%; display: block;}
+.orange-border-line {height: 5px; width: 100%; margin: 10px 0px;background-color: #db3e21; display: block;}
+.page-title.centered { padding: 60px 5%;}
+.icon-container {display: block; padding: 0px 0px 15px 0px; text-align: center;}
+
+.quote blockquote {font-size: 12px !important; font-weight: 300; line-height: 150%;font-style: normal;  color: #58595b !important;  padding: 25px 35px !important; margin-bottom: 22px; position:relative; padding:15px;  margin:1em 0 3em;  color:#000;  background:#e6f4f5;   -webkit-border-radius:10px; -moz-border-radius:10px; border-radius:10px;}
+.quote blockquote:after { content: "";position: absolute; bottom: -25px;  left: 41%; border-width: 30px 30px 0; border-style: solid; border-color: #e6f4f5 transparent;    display: block;    width: 0;}
+.quote figcaption { font-size: 14px;margin-left: 0px; color: #6d6d6d; padding-top: 20px; text-align: center;}
+.footer .widget-title {font-weight: 300 !important;font-family: "Open Sans", Helvetica, Arial, sans-serif !important;}
+.footer .textwidget p {font-weight: 300 !important; font-size: 16px!important;}
+.widget-inner li a {font-weight: 600 !important; font-size: 14px!important; color: #cbcbcb !important;}
+.container-with-middle-line {display: block; width: 100%; margin-bottom: 30px; text-align: center; background: URL(http://cordial.io/wp-content/uploads/2015/02/grey-border.png) repeat-x left center;}
+#main-flex-slider .slides p {font-size: 19px;}
+ul.partners-cordial {list-style: none; margin: 0px auto; padding: 0px; display: inline-block;}
+ul.partners-cordial li {display: inline-block; width: 30%; text-align: center; font-size: 16px; border-right: 2px solid #fff;}
+ul.partners-cordial li:last-child {border-right: none;}
+
+ul.cordial-partners {list-style: none; margin: 15px auto; padding: 0px; display: block;}
+ul.cordial-partners li {display: block; width: 100%; padding: 0px 5px 30px 30px; text-align: left; font-size: 16px; background: URL(http://cordial.io/wp-content/uploads/2015/02/arrow-right.png) no-repeat left 5px; }
+ul.cordial-partners li:last-child {border-right: none;}
+
+
+@media (max-width: 1200px){
+.navbar .navbar-nav { margin-top: 5px !important;}
+}
+
+@media (max-width: 991px){
+.partnersicons {display: block; padding-left: 0px; text-align: center;}
+.col-md-7 { margin-bottom: 50px;}
+.bubble-background {min-height: 410px; font-size: 18px;}
+.home-tools-box, .white-box-6 {width: 98%;}
+.navbar .navbar-nav { margin-top: 5px !important;}
+.width-70percent-center, .width-70percent, .width-80percent, .width-50percent-center, .width-60percent-center {width: 95%;}
+.home-service-content {width: 60%; }
+ul.partners-cordial li {width: 50%; border-right: none; padding: 20px;}
+.home-service-container p {margin-bottom: 30px !important;}
+    
+}
+
+@media (max-width: 767px){
+.bubble-background {
+    font-size: 16px;min-height: 330px;
+}
+.home-tools-box {width: 98%;  background: #fff none; background-color: #fff;}
+.home-tools-box .module-left {width: 100%; float: left; margin-bottom: 30px;}
+.home-tools-box .module-right{width: 100%; float: left;}
+ul.partners-cordial li {width: 100%; border-right: none; padding: 20px;}
+.home-service-container p {margin-bottom: 30px !important;}
+.home-service-content {width: 100%; }   
+
+}
+
+/* -END - Additiona CSS - Celi */
 .headhesive--clone .navbar-nav > li > a {
     color: #ffffff !important;
 }
@@ -84,7 +349,7 @@ header.navbar, .headhesive--clone{
     font-weight: lighter;
 }
 .with_frm_style .frm_message {
-    background: rgba(0,0,0,.2);
+    background: none;
     border: none;
 }
 
@@ -120,21 +385,69 @@ h1.slider-title span{
     display:block;
     /*font-weight:800;*/
 }
-</style>
 
-<!-- Google Analytics Tracking Code -->
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
- 
-  ga('create', 'UA-57899087-1', 'auto');
-  ga('send', 'pageview');
- 
+.page-id-221 #themo_thumbnail_slider_1_inner img {
+    width:auto;
+    margin:0px auto;
+}
+
+.simple-conversion .frm_error{
+    position:relative;
+    bottom:0px;
+}
+</style>
+<style type="text/css">
+.simple-conversion .hs_request_a_demo{
+    display: none!important;
+}
+#hubspot2 .hs-form .hs-button, #hubspot1 .hs-form .hs-button{
+background-color:#8bd0d5 !important;
+text-shadow:none !important;
+background-image:none !important;
+border:none !important;
+font-family:Open sans !important;
+}
+.hs-form.stacked label{
+font-family:Open sans;
+}
+.footer input[type=text],.footer input[type=email]{
+color:#cbcbcb !important;
+font-family:Open Sans !important;
+}
+.simple-conversion fieldset, .simple-conversion div, .simple-conversion .frm_form_field, .simple-conversion .frm_submit{
+display: block!important;
+}
+.simple-conversion form input{
+margin:0px!important;
+width:100%!important;
+}
+.simple-conversion{
+text-align:left;
+max-width: 500px!important;
+margin: 0px auto!important;
+}
+#hubspot2 .hs-form.stacked .actions{
+margin:0px!important;
+padding:0px!important;
+}
+#hubspot2 .hs-form.stacked .field div.input{
+padding-right:40px!important;
+}
+.with_frm_style .frm_message {
+    background: none;
+    border: none;
+}
+</style>
+<!-- start Mixpanel --><script type="text/javascript">(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
+for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"file:"===e.location.protocol&&"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//)?"https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js":"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f)}})(document,window.mixpanel||[]);
+mixpanel.init("d632a75554fa77426932f652f95a0ba6");</script><!-- end Mixpanel -->
+<script type="text/javascript">
+var $ =jQuery.noConflict();
+$(document).ready(function() {
+   var pageTitle = $("title").text();
+   mixpanel.track("Page view " + pageTitle);
+ });
 </script>
-    
-    
 </head>
 
 
@@ -145,14 +458,15 @@ h1.slider-title span{
 
   
 <!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-M2WDW5"
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KFXRXH"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-M2WDW5');</script>
+})(window,document,'script','dataLayer','GTM-KFXRXH');</script>
 <!-- End Google Tag Manager -->
+
 
 <header class="banner navbar navbar-default navbar-static-top" role="banner">
 	<div class="container">
@@ -171,10 +485,23 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </div>
 
     	<nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
-      	<ul id="menu-primary-navigation" class="nav navbar-nav"><li class="menu-home"><a href="http://cordial.io/">Home</a></li>
-<li class="menu-product"><a href="http://cordial.io/product/">Product</a></li>
-<li class="menu-contact"><a href="http://cordial.io/contact/">Contact</a></li>
+      	<ul id="menu-new-primary-navigation" class="nav navbar-nav"><li class="menu-home"><a href="http://cordial.io/">Home</a></li>
+<li class="menu-tools"><a href="http://cordial.io/#tools">Tools</a></li>
+<li class="menu-developers"><a href="http://cordial.io/developers/">Developers</a></li>
+<li class="dropdown menu-resources"><a class="dropdown-toggle" href="#">Resources <b class="caret"></b></a>
+<ul class="dropdown-menu">
+	<li class="menu-machine-learning"><a href="http://cordial.io/machine-learning/">Machine Learning</a></li>
+</ul>
+</li>
+<li class="dropdown menu-company"><a class="dropdown-toggle" href="#">Company <b class="caret"></b></a>
+<ul class="dropdown-menu">
+	<li class="menu-team"><a href="http://cordial.io/team/">Team</a></li>
+	<li class="menu-careers"><a href="http://cordial.io/careers/">Careers</a></li>
+</ul>
+</li>
 <li class="menu-blog"><a href="http://cordial.io/blog/cordially-yours/">Blog</a></li>
+<li class="menu-partners"><a href="http://cordial.io/partners/">Partners</a></li>
+<li class="menu-get-a-demo"><a href="http://cordial.io/get-a-demo/">Get a Demo</a></li>
 </ul>    	</nav>
 	</div>
 </header>  <div class="wrap" role="document">
@@ -248,9 +575,26 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<div class="container">
 							<div class="footer-widgets row">
               	                    <div class="footer-area-1 col-md-4 col-sm-6">
-                    <section class="widget text-1 widget_text"><div class="widget-inner"><h3 class="widget-title">About Us</h3>			<div class="textwidget"><p>Cordial was founded by veterans of the email space with over 50 years of combined experience. Cordial is the platform we all dreamed about. We're building it with focus, tenacity and talent, leveraging new technologies and progressive methodologies. We aim to serve today’s forward-looking CMOs and CTOs, shifting the marketer's focus from production to creativity.</p>
-</div>
-		</div></section>        
+                    <section class="widget widget-easy-twitter-feed-widget-kamn-2 widget-easy-twitter-feed-widget-kamn"><div class="widget-inner">		<div class="widget-easy-twitter-feed-widget-global-wrapper">
+			<div class="widget-easy-twitter-feed-widget-container">
+
+								<div class="row">
+				  <div class="col-lg-12">
+					<h3 class="widget-title"><span>Twitter Widget</span></h3>				  </div>
+				</div>
+				
+	          	<div class="widget-easy-twitter-feed-widget-row">
+		          	<div class="widget-easy-twitter-feed-widget-col">
+			          <div class="twitterwidget widget-easy-twitter-feed-widget-kamn-2">
+						<a class="twitter-timeline" width="300" height="250" href="https://twitter.com/twitterdev" data-widget-id="344713329262084096" data-screen-name="cordial_iot" data-show-replies="false" data-theme="dark" data-link-color="8bd0d5" data-border-color="" data-chrome="nofooter">Tweets by @cordial_iot</a>
+			          </div>
+	          		</div>
+          		</div>
+
+          	</div> <!-- End .widget-global-wrapper -->
+        </div>
+
+</div></section>        
 		<section class="widget themo-social-icons-1 widget_themo_social_icons"><div class="widget-inner">        		<section class="widget widget-social">
     		<div class="widget-inner">
         		                <h3 class="widget-title">Connect With Us</h3>
@@ -263,64 +607,37 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                     <div class="footer-area-2 col-md-4 col-sm-6">
                     		<section class="widget recent-posts-4 widget_recent_entries"><div class="widget-inner">		<h3 class="widget-title">Recent Posts</h3>		<ul>
 					<li>
-				<a href="http://cordial.io/blog/trigger-marketing-start-with-the-money/">Trigger Marketing: Start With The Money</a>
-							<span class="post-date">June 18, 2015</span>
+				<a href="http://cordial.io/blog/we-live-in-a-different-world-than-we-did-30-seconds-ago/">“We live in a different world than we did 30 seconds ago”</a>
+							<span class="post-date">October 26, 2015</span>
 						</li>
 					<li>
-				<a href="http://cordial.io/blog/the-me-generation/">The “Me” Generation</a>
-							<span class="post-date">June 6, 2015</span>
+				<a href="http://cordial.io/blog/minimize-regret/">Minimize Regret</a>
+							<span class="post-date">October 18, 2015</span>
 						</li>
 					<li>
-				<a href="http://cordial.io/blog/combine-email-push-and-sms-for-best-messaging/">Combine Email, Push And SMS For Best Messaging</a>
-							<span class="post-date">May 4, 2015</span>
+				<a href="http://cordial.io/blog/engaging-digital-teens/">Engaging Digital Teens</a>
+							<span class="post-date">September 4, 2015</span>
 						</li>
 					<li>
-				<a href="http://cordial.io/blog/ways-to-entertain-and-engage-readers-with-content/">Ways To Entertain And Engage Readers With Content</a>
-							<span class="post-date">May 4, 2015</span>
+				<a href="http://cordial.io/blog/interview-from-the-trenches/">Interview from the Trenches</a>
+							<span class="post-date">August 18, 2015</span>
 						</li>
 				</ul>
 		</div></section>                    </div>
                                                      <div class="footer-area-3 col-md-4 col-sm-6">
-                    <section class="widget frm_show_form-2 widget_frm_show_form"><div class="widget-inner"><div class="frm_form_widget"><h3 class="widget-title">Keep Me in the Loop</h3><div class="frm_forms with_frm_style" id="frm_form_15_container">
-<form enctype="multipart/form-data" method="post" class="frm-show-form " id="form_r876gk">
-
-
-<div class="frm_form_fields  frm_page_num_1">
-<fieldset>
-<div>
-<input type="hidden" name="frm_action" value="create">
-<input type="hidden" name="form_id" value="15">
-<input type="hidden" name="form_key" value="r876gk">
-<input type="hidden" id="frm_submit_entry_15" name="frm_submit_entry_15" value="2bc4bcb22e"><input type="hidden" name="_wp_http_referer" value="/privacy-policy/">
-<div id="frm_field_123_container" class="frm_form_field form-field  frm_none_container">
-    <label for="field_csadtm" class="frm_primary_label">Name
-        <span class="frm_required"></span>
-    </label>
-    <input type="text" id="field_csadtm" name="item_meta[123]" value="" size="20" placeholder="Name" class="auto_width">
-
-    
-    
-</div>
-<div id="frm_field_122_container" class="frm_form_field form-field  frm_required_field frm_none_container">
-    <label for="field_jm5ceq" class="frm_primary_label">Email Address
-        <span class="frm_required">*</span>
-    </label>
-    <input type="email" id="field_jm5ceq" name="item_meta[122]" value="" size="20" placeholder="Email Address" class="auto_width">
-
-    
-    
-</div>
-<input type="hidden" name="item_key" value="">
-</div>
-</fieldset>
-</div>
-<div class="frm_submit">
-
-<input type="submit" value="Subscribe">
-<img class="frm_ajax_loading" src="http://cordial.io/wp-content/plugins/formidable/images/ajax_loader.gif" alt="Sending" style="visibility:hidden;">
-
-</div></form>
-</div></div></div></section>                    </div>
+                    <section class="widget text-3 widget_text"><div class="widget-inner"><h3 class="widget-title">Keep Me In The Loop</h3>			<div class="textwidget"><div id="hubspot1"><!--[if lte IE 8]>
+<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
+<![endif]-->
+<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
+<script>
+  hbspt.forms.create({ 
+    portalId: '531582',
+    formId: '7edaf85f-00de-4e4f-a8ab-06b895b2ee51',
+    target: '#hubspot1'
+  });
+</script>
+</div></div>
+		</div></section>                    </div>
                                                      <div class="footer-area-4 col-md-4 col-sm-6">
                                         </div>
                 				</div>
@@ -338,8 +655,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
     
 <script type="text/javascript" src="http://cordial.io/wp-content/plugins/themovation-bootstrap-3-shortcodes/js/init.js?ver=1"></script>
-<script type="text/javascript" src="http://cordial.io/wp-includes/js/jquery/ui/core.min.js?ver=1.11.2"></script>
 <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false&amp;ver=1.0.3"></script>
+<script type="text/javascript" src="http://cordial.io/wp-content/plugins/easy-twitter-feed-widget/lib/js/widget-easy-twitter-feed-widget.js?ver=1.0"></script>
 <script type="text/javascript" src="http://cordial.io/wp-content/themes/pursuit/assets/js/vendor/imagesloaded.pkgd.min.js?ver=3.1.4"></script>
 <script type="text/javascript" src="http://cordial.io/wp-content/themes/pursuit/assets/js/vendor/jquery.stellar.min.js?ver=0.6.22"></script>
 <script type="text/javascript" src="http://cordial.io/wp-content/themes/pursuit/assets/js/main.js?ver=1"></script>
@@ -355,20 +672,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <script type="text/javascript" src="http://cordial.io/wp-content/themes/pursuit/assets/js/vendor/headhesive.min.js?ver=1.1.1"></script>
 <script type="text/javascript" src="http://cordial.io/wp-content/themes/pursuit/assets/js/vendor/jquery.nicescroll.min.js?ver=3.5.4"></script>
 <script type="text/javascript" src="http://cordial.io/wp-content/themes/pursuit/assets/js/vendor/retina.min.js?ver=1.3.0"></script>
-<script type="text/javascript" src="http://cordial.io/wp-content/plugins/formidable/js/jquery/jquery.placeholder.js?ver=2.0.7"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var frm_js = {"ajax_url":"http:\/\/cordial.io\/wp-admin\/admin-ajax.php","images_url":"http:\/\/cordial.io\/wp-content\/plugins\/formidable\/images","loading":"Loading\u2026","remove":"Remove","offset":"4"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://cordial.io/wp-content/plugins/formidable/js/formidable.min.js?ver=1.07.11"></script>
+<script type="text/javascript" src="http://cordial.io/wp-content/plugins/easy-fancybox/fancybox/jquery.fancybox-1.3.7.min.js?ver=1.5.7"></script>
+<script type="text/javascript" src="http://cordial.io/wp-content/plugins/easy-fancybox/jquery.easing.pack.js?ver=1.3"></script>
+<script type="text/javascript" src="http://cordial.io/wp-content/plugins/easy-fancybox/jquery.mousewheel.min.js?ver=3.1.12"></script>
 
 <script type="text/javascript">
-/*<![CDATA[*/
-jQuery(document).ready(function($){
-$(document).off('submit.formidable','.frm-show-form');$(document).on('submit.formidable','.frm-show-form',frmOnSubmit);
-});
-/*]]>*/
+jQuery(document).on('ready post-load', easy_fancybox_handler );
 </script>
 
 
