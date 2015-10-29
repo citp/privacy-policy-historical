@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mexiconewsdaily.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607072918id_/http%3A//mexiconewsdaily.com/%3Fp%3D1525) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mexiconewsdaily.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029050933id_/http%3A//mexiconewsdaily.com/mexico-news-daily-privacy-policy) for the most accurate reproduction.*
 
 # Mexico News Daily Privacy Policy
 
