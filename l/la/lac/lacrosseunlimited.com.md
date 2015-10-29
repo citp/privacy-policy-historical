@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the lacrosseunlimited.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209085744id_/http%3A//lacrosseunlimited.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lacrosseunlimited.com privacy policy that was archived on 2015-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151030005040id_/http%3A//lacrosseunlimited.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Lacrosse Unlimited Privacy Policy | Lacrosse Unlimited
-
-
-
 
 **Purpose**
 
