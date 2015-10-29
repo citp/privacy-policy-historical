@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mixmax.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316103433id_/http%3A//app.mixmax.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixmax.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029190721id_/https%3A//mixmax.com/privacy.html) for the most accurate reproduction.*
 
 # Mixmax - Privacy Policy
 
