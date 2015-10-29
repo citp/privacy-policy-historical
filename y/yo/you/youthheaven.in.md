@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the youthheaven.in privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607034040id_/http%3A//youthheaven.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youthheaven.in privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029023742id_/http%3A//youthheaven.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Youthheaven.in
+# Privacy Policy - Youthheaven.net
 
 This Privacy Policy governs the manner in which http://youthheaven.in/ collects, uses, maintains and discloses information collected from users  of the http://youthheaven.in/ website  . This privacy policy applies to the Site and all products and services offered by http://youthheaven.in/.[  
 ](http://chinesenewyear2014dragon.com/)
