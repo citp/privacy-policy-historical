@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cgc.edu.in privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529040423id_/http%3A//www.cgc.edu.in/privacy-policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cgc.edu.in privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029101315id_/http%3A//www.cgc.edu.in/privacy-policies.html) for the most accurate reproduction.*
 
 # Privacy Policies
 
