@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the primesport.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317204657id_/https%3A//www.primesport.com/navigation/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primesport.com privacy policy that was archived on 2015-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151030122413id_/https%3A//www.primesport.com/navigation/privacypolicy) for the most accurate reproduction.*
 
 # 
 
-Last Updated September 6th 2011
+PrimeSport has always been committed to maintaining the accuracy, confidentiality, and security of your personal and corporate information. We have established Privacy Principles to govern our use of customer information.
 
-PrimeSport has always been committed to maintaining the accuracy, confidentiality, and security of your personal and corporate information. We have established Privacy Principles to govern our use of customer information. 
+This Privacy Policy serves to notify you of the following policies of PrimeSport, Inc. ("we" "us" or "our"):
 
-This Privacy Policy serves to notify you of the following policies of PrimeSport, Inc. ("we" "us" or "our"): 
+Last modification date: Oct 02, 2015 
 
-WHAT INFORMATION ABOUT ME IS COLLECTED ON THE SITE?
+Expand all
 
 Depending on your use of the website or other services, we may make available from time to time various websites (together with associated and successor websites and services, the "Site"), through which we may collect two types of information: personally identifiable information and non-personally identifiable information. 
 
@@ -19,8 +19,6 @@ _Personally Identifiable Information_
 _Non-Personally Identifiable Information_
 
 : Non-personally identifiable information is information that by itself cannot be used to identify or contact you, such as demographic information (e.g., age, profession or gender). Non-personally identifiable information may also include user IP addresses, browser types, domain names, and other anonymous statistical data involving the use of the Site. 
-
-WHERE AND WHEN IS INFORMATION COLLECTED ON THE SITE (INCLUDING THROUGH USE OF COOKIES, LOG FILES AND ACTION TAGS)? 
 
 We will collect personally identifiable information from you only if you voluntarily submit the information to us. We may also receive personally identifiable information about you from third parties providing credit and debit card authorization and fraud screening services as part of your use of the Site. 
 
@@ -46,19 +44,13 @@ By using cookies and action tags together, we are able to gain valuable informat
 
 Finally, you should be aware that advertisers and other third parties may also use their own cookies, log files or action tags when you click on their advertisement or link to their websites or services on or from the Site. This Privacy Policy does not govern the use by such third-party websites or services or providers of third-party advertising. 
 
-DOES PRIMESPORT COLLECT INFORMATION FROM CHILDREN UNDER 13 YEARS OF AGE? 
-
 We are committed to protecting the privacy of children. The Site is not designed for or directed to children under the age of 13. We do not collect personally identifiable information from any person we actually know is under the age of 13. 
-
-WHAT DOES PRIMESPORT DO WITH THE INFORMATION IT COLLECTS? 
 
 In general, we use the information collected on the Site to provide the Site to you and process your transactions, to help us understand who uses the Site, to improve the Site, and to contact you for customer service and billing purposes. 
 
 We may use your information to send you a welcoming email to confirm your user name and password. If you “opt-in," we may send you electronic newsletters, contact you about the Site products, services, information and news that may be of interest to you, and provide you with targeted feedback. If you no longer desire to receive these communications, we will provide you with the option to change your preferences. In addition, if you identify yourself to us by sending us an email with questions or comments, we may use your information (including personally identifiable information) to respond to your questions or comments, and we may file your questions or comments for future reference. We may also use the information collected to send you important service announcements and updates regarding the Site or, if applicable, about your billing account status. You can choose to not receive these communications by changing your personal preferences or by contacting us at [customerservice@primesport.com.](mailto://customerservice@primesport.com)
 
 We may also use the information gathered on the Site to perform statistical analysis of user behavior or to evaluate and improve the Site. We may link some of this information to personally identifiable information for internal purposes only or to improve your experience with the Site. 
-
-WHEN DOES PRIMESPORT DISCLOSE INFORMATION TO THIRD PARTIES?
 
 Except as set forth in this Privacy Policy or as specifically authorized by you, we will not disclose any information we gather from you on the Site. 
 
@@ -74,11 +66,7 @@ Sale of Business: We reserve the right to transfer information to a third party 
 
 Affiliates: We may disclose information (including personally identifiable information) about you to our Corporate Affiliates. For purposes of this Privacy Policy, "Corporate Affiliate" means any person or entity which directly or indirectly controls, is controlled by or is under common control with PrimeSport, Inc., whether by ownership or otherwise. Any information relating to you that we provide to our Corporate Affiliates will be treated by those Corporate Affiliates in accordance with the terms of this Privacy Policy. 
 
-DOES THIS PRIVACY POLICY APPLY WHEN I LINK TO OTHER WEBSITES? 
-
 Our website may contain links to other websites not owned or operated by us (for example, if you "click" on a banner advertisement, you will likely be taken off the Site). However, please be aware that we are not responsible for the privacy practices of such third party websites. We encourage you to be aware when the Site links to other websites and to read the privacy policies or statements of each and every website. This Privacy Policy applies solely to information collected by the Site. We are not responsible for the privacy practices of such third parties and have no control over any information you choose to provide them or how they use it. 
-
-IS THE INFORMATION COLLECTED ON THE SITE SECURE? 
 
 We want your information (including personally identifiable information) to remain as secure as possible. Therefore, the Site has implemented reasonable security measures in an effort to prevent the loss, misuse or alteration of the information under our control. We use reasonable networking, server, database, and procedural mechanisms in an effort to safeguard the integrity and privacy of data. In addition, when you enter sensitive information into our forms (such as credit card numbers) we encrypt it using 128-bit secure socket layer technology (SSL). However, no method of Internet transmission or electronic storage is 100% secure. There is also some risk that others could find a way to thwart our security systems. Therefore, while we strive to use commercially reasonable means to protect your personal information, we cannot guarantee its absolute security. 
 
@@ -86,32 +74,24 @@ We also protect user information off-line. All of our users' information is rest
 
 We are committed to protecting the privacy of our users and visitors and we will continue to review and implement new technologies as necessary to maintain the security of our networks and servers. 
 
-WHAT CHOICES DO I HAVE REGARDING THE COLLECTION, DISCLOSURE AND DISTRIBUTION OF PERSONALLY IDENTIFIABLE INFORMATION? 
-
 Except as otherwise described in this Privacy Policy, we will only use personally identifiable information for the purposes described above or as otherwise disclosed at the time we request such information from you. You must "opt-in" and give us permission to use your personally identifiable information for any other purpose. For example, we may have an "opt-in" mechanism so that those who become registered users of the Site must give us permission to send them marketing materials and our electronic newsletter. 
-
-CAN I UPDATE OR REMOVE MY PERSONALLY IDENTIFIABLE INFORMATION? 
 
 You have the right to request the restriction of certain uses and disclosures of personally identifiable information as follows. You can contact us in order to (1) update or correct your personally identifiable information, (2) change your preferences with respect to communications and other information you receive from us, or (3) delete the personally identifiable information maintained about you on our systems (subject to the following paragraph). Such updates, corrections, changes and deletions will not have an effect on other information that we maintain, or information that we have provided to third-parties in accordance with this Privacy Policy prior to such update, correction, change or deletion. 
 
-To contact us in order to update, correct, opt-out of communication, or have your data erased please contact us at [privacypolicy@primesport.com](mailto:privacypolicy@primesport.com)
+To contact us in order to update, correct, opt-out of communication, or have your data erased please contact us at privacypolicy@primesport.com
 
 You should be aware that it is not technologically possible to remove every record of the information you provided from our system. The need to back-up our systems to protect information from inadvertent loss means that a copy of your personally identifiable information may exist in a non-erasable form that will be difficult or impossible for us to locate. However, after receiving your request, all personally identifiable information stored in databases we actively use and other readily searchable media will be updated, corrected, changed or deleted, as appropriate, as soon as and to the extent reasonably practicable. 
 
-HOW WILL I KNOW IF THERE ARE ANY CHANGES TO THIS PRIVACY POLICY? 
-
 You should be aware that we may revise this Privacy Policy at any time and that such revisions may result in additional uses or disclosures of your personally identifiable information. If we decide to change this Privacy Policy, we will notify you of any material changes to these Terms of Use by posting a notice on the homepage of the Site for a reasonable period of time after such changes are made, and by changing the "Last Updated" date at the top of the Privacy Policy. We may also make non-significant changes to this Privacy Policy that generally will not affect our use of your personally identifiable information. We encourage you to check this page periodically for any changes. Your continued use of the Site following the notification or posting of changes to this Privacy Policy will mean you accept those changes. 
 
-DOES THIS PRIVACY POLICY COVER HOW THIRD PARTIES DEAL WITH INFORMATION COLLECTED FROM ME? 
-
 This privacy policy does not cover how any third parties with whom we may be working deal with information that they may collect from you. Use of that information by such third parties will be governed, if at all, by their own privacy policy. For example, in connection with any co-branded promotions with third parties, we do not control and are not responsible for the use the other party may make of information that they may collect from you. 
-
-WHOM DO I CONTACT IF I HAVE ANY PRIVACY QUESTIONS? 
 
 If you have any questions or comments about this Privacy Policy or feel that we are not abiding by the terms of this Privacy Policy, please contact our Privacy Agent in any of the following ways: 
 
 By postal mail or courier: 
 
-Attn: Privacy Agent, PrimeSport, Inc.,1745 Peachtree Street NE, # F, Atlanta, Georgia,30309 
+Attn: Privacy Agent, PrimeSport, Inc., 3575 Piedmont Rd., Bldg 15 - Suite 1550, Atlanta, Georgia,30305 
 
 BY USING THE SITE, YOU SIGNIFY YOUR ACCEPTANCE OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, YOU SHOULD NOT USE THE SITE. YOUR CONTINUED USE OF THE SITE FOLLOWING THE POSTING OF CHANGES TO THIS PRIVACY POLICY WILL MEAN THAT YOU ACCEPT THOSE CHANGES. 
+
+Download the PrimeSport Privacy Policy
