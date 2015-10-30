@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the livingwellspendingless.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607150930id_/http%3A//www.livingwellspendingless.com/fine-print/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livingwellspendingless.com privacy policy that was archived on 2015-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151030061938id_/http%3A//www.livingwellspendingless.com/fine-print/privacy-policy) for the most accurate reproduction.*
 
-# privacy policy – Living Well Spending Less®
+# privacy policy - Living Well Spending Less®
 
 At [livingwellspendingless.com](http://livingwellspendingless.com/), I recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit [livingwellspendingless.com](http://livingwellspendingless.com/), and how I safeguard your information.  I never sell your personal information to third parties.
 
@@ -15,5 +15,3 @@ I also use third party advertisements on [livingwellspendingless.com](http://liv
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with my site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts.
 
 AdSense Privacy Policy Provided by [JenSense](http://www.blogger.com/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D)
-
-Affiliate links may be used in this post. Printing a coupon or ordering a product through this link may result in a commission, which helps pay for the cost of running this site and keeps the content free. [Read my full disclosure policy here](http://www.livingwellspendingless.com/fine-print/disclosure/).
