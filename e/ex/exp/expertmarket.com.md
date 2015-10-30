@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expertmarket.com privacy policy that was archived on 2015-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150520234542id_/http%3A//www2.expertmarket.com/privacy-policy/82601/3ecbb) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expertmarket.com privacy policy that was archived on 2015-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151030072253id_/http%3A//www2.expertmarket.com/privacy-policy/82601/3ecbb) for the most accurate reproduction.*
 
 # MVF Global Ltd
 
@@ -6,13 +6,13 @@
 
 ### ABOUT THIS POLICY
 
-Marketing VF Limited (" **we", "us", "our** ") is committed to respecting and protecting your personal information and privacy. We treat with the utmost care the personal information that you provide to us, or that we collect from you, through our website located at http://www.expertmarket.us/ (" **our site** "). 
+Marketing VF Limited (" **we", "us", "our** ") is committed to respecting and protecting your personal information and privacy. We treat with the utmost care the personal information that you provide to us, or that we collect from you, through our website located at http://www.expertmarket.com/ (" **our site** "). 
 
 This Privacy Policy (together with our Cookies Policy below) sets out the basis on which any personal data that you provide to us, or that we collect from you, will be used by us. 
 
-Please read this Privacy Policy (together with our Cookies Policy below) and our [Terms of Use](http://www2.expertmarket.us/terms_of_use_en_b2b_0814/79d2f/3ecbb) carefully before you use our site, or access any information or services on our site. 
+Please read this Privacy Policy (together with our Cookies Policy below) and our [Terms of Use](http://www2.expertmarket.com/terms_of_use_en_b2b_0814/79d2f/3ecbb) carefully before you use our site, or access any information or services on our site. 
 
-By accessing or using our site, you will be deemed to have accepted the terms of this Privacy Policy (together with our Cookies Policy below) and our [Terms of Use](http://www2.expertmarket.us/terms_of_use_en_b2b_0814/79d2f/3ecbb). If you do not agree to such terms, you must not use our site. 
+By accessing or using our site, you will be deemed to have accepted the terms of this Privacy Policy (together with our Cookies Policy below) and our [Terms of Use](http://www2.expertmarket.com/terms_of_use_en_b2b_0814/79d2f/3ecbb). If you do not agree to such terms, you must not use our site. 
 
 ### ABOUT US
 
@@ -84,7 +84,7 @@ We may disclose your personal information to third parties:
 
   * In the event that we sell or buy any business, assets or shares, in which case we may disclose your personal information to the prospective seller or buyer of such business, assets or shares. 
   * If we, or substantially all of our assets, are acquired by a third party, in which case personal information held by us about our site users, including you, will be one of the transferred assets. 
-  * If we are under a duty to disclose or share your personal information in order to comply with any legal obligation; or in order to enforce or apply our [Terms of Use](http://www2.expertmarket.us/terms_of_use_en_b2b_0814/79d2f/3ecbb) and other agreements; or to protect our rights, property or safety, or the rights, property or safety of our site users, customers, affiliates, suppliers or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction. 
+  * If we are under a duty to disclose or share your personal information in order to comply with any legal obligation; or in order to enforce or apply our [Terms of Use](http://www2.expertmarket.com/terms_of_use_en_b2b_0814/79d2f/3ecbb) and other agreements; or to protect our rights, property or safety, or the rights, property or safety of our site users, customers, affiliates, suppliers or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction. 
 
 
 
@@ -112,7 +112,7 @@ Any changes that we make to this Privacy Policy in the future will be posted on 
 
 ### CONTACT
 
-Questions, comments and requests regarding this Privacy Policy should be addressed to the Data Protection Officer, Marketing VF Limited, Ryland House, 24a Ryland Road, London NW5 3EH, United Kingdom, or to the Data Protection Officer at info@expertmarket.us.
+Questions, comments and requests regarding this Privacy Policy should be addressed to the Data Protection Officer, Marketing VF Limited, Ryland House, 24a Ryland Road, London NW5 3EH, United Kingdom, or to the Data Protection Officer at info@expertmarket.com.
 
 ## 
 
