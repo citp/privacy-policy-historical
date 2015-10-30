@@ -1,12 +1,17 @@
-> *The following text is extracted and transformed from the dvla-som.co.uk privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515054907id_/http%3A//dvla-som.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvla-som.co.uk privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031005920id_/http%3A//www.dvla-som.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy
 
   * [SUPER SEARCH](https://web.archive.org/search/results.html)
   * [PREFIX SEARCH](https://web.archive.org/search/prefix-number-plates.html)
   * [CURRENT SEARCH](https://web.archive.org/search/current-number-plates.html)
+  * [NI REGISTRATIONS]()
 
 
+
+These registrations are dateless and can be assigned to any appropriate vehicle registered within mainland Great Britain and Northern Ireland. Please click View for a selection of Northern Ireland (NI) registrations that can be purchased for a fixed price.
+
+[View](https://web.archive.org/nifixed/)
 
 This page explains our privacy policy and how we will use and protect any information about you that you give us when you visit this website.
 
