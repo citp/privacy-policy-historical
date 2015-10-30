@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asianplayboy.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621144321id_/http%3A//www.abcsofattraction.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asianplayboy.com privacy policy that was archived on 2015-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151030131442id_/http%3A//www.abcsofattraction.com/privacy-policy) for the most accurate reproduction.*
 
 # ABCs Of Attraction | Privacy Policy
 
