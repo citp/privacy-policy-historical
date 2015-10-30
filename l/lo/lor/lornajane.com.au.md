@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lornajane.com.au privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409155909id_/http%3A//www.lornajane.com.au/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lornajane.com.au privacy policy that was archived on 2015-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151030105858id_/http%3A//www.lornajane.com.au/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Lorna Jane
 
@@ -38,10 +38,11 @@ We collect your personal information directly from you unless it is unreasonable
   1. • through your access and use of our websites;
   2. • when you complete an application or purchase order or request product information or manuals;
   3. • if you enter a contest or sweepstake;
-  4. • if you connect with us via a social network;
-  5. • when you set up and maintain a user account;
-  6. • when you complete a customer survey or send us feedback; or
-  7. • during conversations between you and our representatives.
+  4. • if you connect to Lorna Jane Wi-Fi network;
+  5. • if you connect with us via a social network;
+  6. • when you set up and maintain a user account;
+  7. • when you complete a customer survey or send us feedback; or
+  8. • during conversations between you and our representatives.
 
 
 
