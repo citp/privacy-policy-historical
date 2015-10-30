@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spoongraphics.co.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607034721id_/http%3A//blog.spoongraphics.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spoongraphics.co.uk privacy policy that was archived on 2015-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151030043902id_/http%3A//blog.spoongraphics.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Blog.SpoonGraphics Privacy Policy
 
