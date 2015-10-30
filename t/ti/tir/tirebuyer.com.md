@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the tirebuyer.com privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424155727id_/http%3A//www.tirebuyer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tirebuyer.com privacy policy that was archived on 2015-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151030100339id_/http%3A//www.tirebuyer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TireBuyer.com
-
-#### 
-
-$40 off orders $500+: Code **[CARCARE40](http://www.tirebuyer.com/products/NewYear) **  
-Excludes Kumho, Fuzion, and Michelin.
 
 #### Effective date: September 18, 2014
 
@@ -138,11 +133,3 @@ TireBuyer.com
 601 108th Avenue NE, Suite 420
 
 Bellevue, WA 98004
-
-#### TIREBUYER CUSTOMER REVIEWS
-
-**Great**
-
-It took me forever to find tires. I looked at all of the major competitors and they all seemed to be out of stock especially close to the winter season. I finally looked at TireBuyer.com and sure enough they had my tire in stock and they were delivered in a very timely manner. **I am very satisfied with my purchase and plan on using TireBuyer for my future purchases from here on out. Thanks TireBuyer.**
-
-Reviewed by: Shubs from Ohio
