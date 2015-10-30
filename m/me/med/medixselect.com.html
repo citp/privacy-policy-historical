@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the medixselect.com privacy policy that was archived on 2015-05-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150521014724id_/http%3A//www.medixselect.com/event/page/pageCode/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the medixselect.com privacy policy that was archived on 2015-10-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151030081112id_/http%3A//www.medixselect.com/event/page/pageCode/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -361,421 +361,6 @@ outline:1px solid #fff;
 </tr>
 </tbody></table>
 <!-- END _CSS_Master Content Block -->
-<!-- BEGIN _JS_newsletterModal Content Block -->
-<table id="block._js_newslettermodal" cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
-<tbody><tr>
-<td><script type="text/javascript">
-$(document).ready(function() {
-var newsletterModalCookie = getNewsletterModalCookie('newsletterModal');
-if(!getNewsletterModalCookie('newsletterModal') ) {
-var cbOptions = {
-opacity:0.6,
-initialWidth:'0px',
-initialHeight:'0px',
-overlayClose:true,
-close:'',
-inline:true,
-href:'#footerSignUpCell'
-};
-setNewsletterModalCookie('newsletterModal', 1);
-/*
-setTimeout(function() {
-$.colorbox(cbOptions);
-}, 20000);
-}
-function setNewsletterModalCookie(name, value, exdays){
-var d = new Date();
-d.setTime(d.getTime()+(exdays*24*60*60*1000));
-var expires = "expires="+d.toGMTString();
-document.cookie = name + "=" + escape(value) + "; " + expires;
-}
-*/
-function getNewsletterModalCookie(c_name) {
-var c_value = document.cookie;
-var c_start = c_value.indexOf(" " + c_name + "=");
-if (c_start == -1) {
-c_start = c_value.indexOf(c_name + "=");
-}
-if (c_start == -1) {
-c_value = null;
-} else {
-c_start = c_value.indexOf("=", c_start) + 1;
-var c_end = c_value.indexOf(";", c_start);
-if(c_end == -1) {
-c_end = c_value.length;
-}
-c_value = unescape(c_value.substring(c_start,c_end));
-}
-return c_value;
-}
-/* START live validation compressed */
-// LiveValidation 1.3 (standalone version)
-// Copyright (c) 2007-2008 Alec Hill (www.livevalidation.com)
-// LiveValidation is licensed under the terms of the MIT License
-var LiveValidation=function(B,A){this.initialize(B,A);};LiveValidation.VERSION="1.3 standalone";LiveValidation.TEXTAREA=1;LiveValidation.TEXT=2;LiveValidation.PASSWORD=3;LiveValidation.CHECKBOX=4;LiveValidation.SELECT=5;LiveValidation.FILE=6;LiveValidation.massValidate=function(C){var D=true;for(var B=0,A=C.length;B<A;++B){var E=C[B].validate();if(D){D=E;}}return D;};LiveValidation.prototype={validClass:"LV_valid",invalidClass:"LV_invalid",messageClass:"LV_validation_message",validFieldClass:"LV_valid_field",invalidFieldClass:"LV_invalid_field",initialize:function(D,C){var A=this;if(!D){throw new Error("LiveValidation::initialize - No element reference or element id has been provided!");}this.element=D.nodeName?D:document.getElementById(D);if(!this.element){throw new Error("LiveValidation::initialize - No element with reference or id of '"+D+"' exists!");}this.validations=[];this.elementType=this.getElementType();this.form=this.element.form;var B=C||{};this.validMessage=B.validMessage||"Thankyou!";var E=B.insertAfterWhatNode||this.element;this.insertAfterWhatNode=E.nodeType?E:document.getElementById(E);this.onValid=B.onValid||function(){this.insertMessage(this.createMessageSpan());this.addFieldClass();};this.onInvalid=B.onInvalid||function(){this.insertMessage(this.createMessageSpan());this.addFieldClass();};this.onlyOnBlur=B.onlyOnBlur||false;this.wait=B.wait||0;this.onlyOnSubmit=B.onlyOnSubmit||false;if(this.form){this.formObj=LiveValidationForm.getInstance(this.form);this.formObj.addField(this);}this.oldOnFocus=this.element.onfocus||function(){};this.oldOnBlur=this.element.onblur||function(){};this.oldOnClick=this.element.onclick||function(){};this.oldOnChange=this.element.onchange||function(){};this.oldOnKeyup=this.element.onkeyup||function(){};this.element.onfocus=function(F){A.doOnFocus(F);return A.oldOnFocus.call(this,F);};if(!this.onlyOnSubmit){switch(this.elementType){case LiveValidation.CHECKBOX:this.element.onclick=function(F){A.validate();return A.oldOnClick.call(this,F);};case LiveValidation.SELECT:case LiveValidation.FILE:this.element.onchange=function(F){A.validate();return A.oldOnChange.call(this,F);};break;default:if(!this.onlyOnBlur){this.element.onkeyup=function(F){A.deferValidation();return A.oldOnKeyup.call(this,F);};}this.element.onblur=function(F){A.doOnBlur(F);return A.oldOnBlur.call(this,F);};}}},destroy:function(){if(this.formObj){this.formObj.removeField(this);this.formObj.destroy();}this.element.onfocus=this.oldOnFocus;if(!this.onlyOnSubmit){switch(this.elementType){case LiveValidation.CHECKBOX:this.element.onclick=this.oldOnClick;case LiveValidation.SELECT:case LiveValidation.FILE:this.element.onchange=this.oldOnChange;break;default:if(!this.onlyOnBlur){this.element.onkeyup=this.oldOnKeyup;}this.element.onblur=this.oldOnBlur;}}this.validations=[];this.removeMessageAndFieldClass();},add:function(A,B){this.validations.push({type:A,params:B||{}});return this;},remove:function(B,D){var E=false;for(var C=0,A=this.validations.length;C<A;C++){if(this.validations[C].type==B){if(this.validations[C].params==D){E=true;break;}}}if(E){this.validations.splice(C,1);}return this;},deferValidation:function(B){if(this.wait>=300){this.removeMessageAndFieldClass();}var A=this;if(this.timeout){clearTimeout(A.timeout);}this.timeout=setTimeout(function(){A.validate();},A.wait);},doOnBlur:function(A){this.focused=false;this.validate(A);},doOnFocus:function(A){this.focused=true;this.removeMessageAndFieldClass();},getElementType:function(){switch(true){case (this.element.nodeName.toUpperCase()=="TEXTAREA"):return LiveValidation.TEXTAREA;case (this.element.nodeName.toUpperCase()=="INPUT"&&this.element.type.toUpperCase()=="TEXT"):return LiveValidation.TEXT;case (this.element.nodeName.toUpperCase()=="INPUT"&&this.element.type.toUpperCase()=="PASSWORD"):return LiveValidation.PASSWORD;case (this.element.nodeName.toUpperCase()=="INPUT"&&this.element.type.toUpperCase()=="CHECKBOX"):return LiveValidation.CHECKBOX;case (this.element.nodeName.toUpperCase()=="INPUT"&&this.element.type.toUpperCase()=="FILE"):return LiveValidation.FILE;case (this.element.nodeName.toUpperCase()=="SELECT"):return LiveValidation.SELECT;case (this.element.nodeName.toUpperCase()=="INPUT"):throw new Error("LiveValidation::getElementType - Cannot use LiveValidation on an "+this.element.type+" input!");default:throw new Error("LiveValidation::getElementType - Element must be an input, select, or textarea!");}},doValidations:function(){this.validationFailed=false;for(var C=0,A=this.validations.length;C<A;++C){var B=this.validations[C];switch(B.type){case Validate.Presence:case Validate.Confirmation:case Validate.Acceptance:this.displayMessageWhenEmpty=true;this.validationFailed=!this.validateElement(B.type,B.params);break;default:this.validationFailed=!this.validateElement(B.type,B.params);break;}if(this.validationFailed){return false;}}this.message=this.validMessage;return true;},validateElement:function(A,C){var D=(this.elementType==LiveValidation.SELECT)?this.element.options[this.element.selectedIndex].value:this.element.value;if(A==Validate.Acceptance){if(this.elementType!=LiveValidation.CHECKBOX){throw new Error("LiveValidation::validateElement - Element to validate acceptance must be a checkbox!");}D=this.element.checked;}var E=true;try{A(D,C);}catch(B){if(B instanceof Validate.Error){if(D!==""||(D===""&&this.displayMessageWhenEmpty)){this.validationFailed=true;this.message=B.message;E=false;}}else{throw B;}}finally{return E;}},validate:function(){if(!this.element.disabled){var A=this.doValidations();if(A){this.onValid();return true;}else{this.onInvalid();return false;}}else{return true;}},enable:function(){this.element.disabled=false;return this;},disable:function(){this.element.disabled=true;this.removeMessageAndFieldClass();return this;},createMessageSpan:function(){var A=document.createElement("span");var B=document.createTextNode(this.message);A.appendChild(B);return A;},insertMessage:function(B){this.removeMessage();if((this.displayMessageWhenEmpty&&(this.elementType==LiveValidation.CHECKBOX||this.element.value==""))||this.element.value!=""){var A=this.validationFailed?this.invalidClass:this.validClass;B.className+=" "+this.messageClass+" "+A;if(this.insertAfterWhatNode.nextSibling){this.insertAfterWhatNode.parentNode.insertBefore(B,this.insertAfterWhatNode.nextSibling);}else{this.insertAfterWhatNode.parentNode.appendChild(B);}}},addFieldClass:function(){this.removeFieldClass();if(!this.validationFailed){if(this.displayMessageWhenEmpty||this.element.value!=""){if(this.element.className.indexOf(this.validFieldClass)==-1){this.element.className+=" "+this.validFieldClass;}}}else{if(this.element.className.indexOf(this.invalidFieldClass)==-1){this.element.className+=" "+this.invalidFieldClass;}}},removeMessage:function(){var A;var B=this.insertAfterWhatNode;while(B.nextSibling){if(B.nextSibling.nodeType===1){A=B.nextSibling;break;}B=B.nextSibling;}if(A&&A.className.indexOf(this.messageClass)!=-1){this.insertAfterWhatNode.parentNode.removeChild(A);}},removeFieldClass:function(){if(this.element.className.indexOf(this.invalidFieldClass)!=-1){this.element.className=this.element.className.split(this.invalidFieldClass).join("");}if(this.element.className.indexOf(this.validFieldClass)!=-1){this.element.className=this.element.className.split(this.validFieldClass).join(" ");}},removeMessageAndFieldClass:function(){this.removeMessage();this.removeFieldClass();}};var LiveValidationForm=function(A){this.initialize(A);};LiveValidationForm.instances={};LiveValidationForm.getInstance=function(A){var B=Math.random()*Math.random();if(!A.id){A.id="formId_"+B.toString().replace(/\./,"")+new Date().valueOf();}if(!LiveValidationForm.instances[A.id]){LiveValidationForm.instances[A.id]=new LiveValidationForm(A);}return LiveValidationForm.instances[A.id];};LiveValidationForm.prototype={initialize:function(B){this.name=B.id;this.element=B;this.fields=[];this.oldOnSubmit=this.element.onsubmit||function(){};var A=this;this.element.onsubmit=function(C){return(LiveValidation.massValidate(A.fields))?A.oldOnSubmit.call(this,C||window.event)!==false:false;};},addField:function(A){this.fields.push(A);},removeField:function(C){var D=[];for(var B=0,A=this.fields.length;B<A;B++){if(this.fields[B]!==C){D.push(this.fields[B]);}}this.fields=D;},destroy:function(A){if(this.fields.length!=0&&!A){return false;}this.element.onsubmit=this.oldOnSubmit;LiveValidationForm.instances[this.name]=null;return true;}};var Validate={Presence:function(B,C){var C=C||{};var A=C.failureMessage||"Can't be empty!";if(B===""||B===null||B===undefined){Validate.fail(A);}return true;},Numericality:function(J,E){var A=J;var J=Number(J);var E=E||{};var F=((E.minimum)||(E.minimum==0))?E.minimum:null;var C=((E.maximum)||(E.maximum==0))?E.maximum:null;var D=((E.is)||(E.is==0))?E.is:null;var G=E.notANumberMessage||"Must be a number!";var H=E.notAnIntegerMessage||"Must be an integer!";var I=E.wrongNumberMessage||"Must be "+D+"!";var B=E.tooLowMessage||"Must not be less than "+F+"!";var K=E.tooHighMessage||"Must not be more than "+C+"!";if(!isFinite(J)){Validate.fail(G);}if(E.onlyInteger&&(/\.0+$|\.$/.test(String(A))||J!=parseInt(J))){Validate.fail(H);}switch(true){case (D!==null):if(J!=Number(D)){Validate.fail(I);}break;case (F!==null&&C!==null):Validate.Numericality(J,{tooLowMessage:B,minimum:F});Validate.Numericality(J,{tooHighMessage:K,maximum:C});break;case (F!==null):if(J<Number(F)){Validate.fail(B);}break;case (C!==null):if(J>Number(C)){Validate.fail(K);}break;}return true;},Format:function(C,E){var C=String(C);var E=E||{};var A=E.failureMessage||"Not valid!";var B=E.pattern||/./;var D=E.negate||false;if(!D&&!B.test(C)){Validate.fail(A);}if(D&&B.test(C)){Validate.fail(A);}return true;},Email:function(B,C){var C=C||{};var A=C.failureMessage||"Must be a valid email address!";Validate.Format(B,{failureMessage:A,pattern:/^([^@\s]+)@((?:[-a-z0-9]+\.)+[a-z]{2,})$/i});return true;},Length:function(F,G){var F=String(F);var G=G||{};var E=((G.minimum)||(G.minimum==0))?G.minimum:null;var H=((G.maximum)||(G.maximum==0))?G.maximum:null;var C=((G.is)||(G.is==0))?G.is:null;var A=G.wrongLengthMessage||"Must be "+C+" characters long!";var B=G.tooShortMessage||"Must not be less than "+E+" characters long!";var D=G.tooLongMessage||"Must not be more than "+H+" characters long!";switch(true){case (C!==null):if(F.length!=Number(C)){Validate.fail(A);}break;case (E!==null&&H!==null):Validate.Length(F,{tooShortMessage:B,minimum:E});Validate.Length(F,{tooLongMessage:D,maximum:H});break;case (E!==null):if(F.length<Number(E)){Validate.fail(B);}break;case (H!==null):if(F.length>Number(H)){Validate.fail(D);}break;default:throw new Error("Validate::Length - Length(s) to validate against must be provided!");}return true;},Inclusion:function(H,F){var F=F||{};var K=F.failureMessage||"Must be included in the list!";var G=(F.caseSensitive===false)?false:true;if(F.allowNull&&H==null){return true;}if(!F.allowNull&&H==null){Validate.fail(K);}var D=F.within||[];if(!G){var A=[];for(var C=0,B=D.length;C<B;++C){var I=D[C];if(typeof I=="string"){I=I.toLowerCase();}A.push(I);}D=A;if(typeof H=="string"){H=H.toLowerCase();}}var J=false;for(var E=0,B=D.length;E<B;++E){if(D[E]==H){J=true;}if(F.partialMatch){if(H.indexOf(D[E])!=-1){J=true;}}}if((!F.negate&&!J)||(F.negate&&J)){Validate.fail(K);}return true;},Exclusion:function(A,B){var B=B||{};B.failureMessage=B.failureMessage||"Must not be included in the list!";B.negate=true;Validate.Inclusion(A,B);return true;},Confirmation:function(C,D){if(!D.match){throw new Error("Validate::Confirmation - Error validating confirmation: Id of element to match must be provided!");}var D=D||{};var B=D.failureMessage||"Does not match!";var A=D.match.nodeName?D.match:document.getElementById(D.match);if(!A){throw new Error("Validate::Confirmation - There is no reference with name of, or element with id of '"+D.match+"'!");}if(C!=A.value){Validate.fail(B);}return true;},Acceptance:function(B,C){var C=C||{};var A=C.failureMessage||"Must be accepted!";if(!B){Validate.fail(A);}return true;},Custom:function(D,E){var E=E||{};var B=E.against||function(){return true;};var A=E.args||{};var C=E.failureMessage||"Not valid!";if(!B(D,A)){Validate.fail(C);}return true;},now:function(A,D,C){if(!A){throw new Error("Validate::now - Validation function must be provided!");}var E=true;try{A(D,C||{});}catch(B){if(B instanceof Validate.Error){E=false;}else{throw B;}}finally{return E;}},fail:function(A){throw new Validate.Error(A);},Error:function(A){this.message=A;this.name="ValidationError";}};
-/* END live validation compressed */
-/* START sign up */
-$(document).ready(function() {
-// Sign Up Form Validation
-//Email Validation
-var emailSignUp = new LiveValidation('signUpEmail', { validMessage: " ", onlyOnBlur: false, wait: 700, insertAfterWhatNode: "signupEmailError",
-onInvalid: function() {
-this.insertMessage(this.createMessageSpan());
-jQuery("#signUpEmail").css('border', '1px solid #CC0000');
-},
-onValid: function() {
-jQuery("#signUpEmail").css('border', '1px solid #093');
-}
-});
-emailSignUp.add(Validate.Presence, { failureMessage: "Please enter your email address" });
-emailSignUp.add(Validate.Email, { failureMessage: "Invalid email address" });
-//Email Confirmation Validation
-var emailSignUpConfirm = new LiveValidation('signUpEmailConfirm', {validMessage: " ", onlyOnBlur: false, wait: 700, insertAfterWhatNode: "signupEmailError",
-onInvalid: function() {
-this.insertMessage(this.createMessageSpan());
-jQuery("#signUpEmailConfirm").css('border', '1px solid #093');
-},
-onValid: function() {
-jQuery("#signUpEmailConfirm").css('border', '1px solid #093');
-}
-});
-emailSignUpConfirm.add(Validate.Presence, { failureMessage: "Email addresses must match" });
-emailSignUpConfirm.add( Validate.Confirmation, {match: 'signUpEmail' } );
-// Zip Code Validation
-var zipSignUp = new LiveValidation('signUpZip', { validMessage: " ", onlyOnBlur: false, wait: 700, insertAfterWhatNode: "signupZipError",
-onInvalid: function() {
-this.insertMessage(this.createMessageSpan());
-jQuery("#signUpZip").css('border', '1px solid #CC0000');
-},
-onValid: function() {
-jQuery("#signUpZip").css('border', '1px solid #093');
-}
-});
-zipSignUp.add(Validate.Presence, { failureMessage: "Please enter your Zip Code" });
-// Sign Up Form Submission Function
-function subscribe(email, country, zip, promocode, lists, deploymentid, sendEmail) {
-var url = "http://www.newsmax.com/CmsPages/newsmax/Handlers/EmailSubscribe.ashx?email=" + email.toString() + "&country=" + country.toString() + "&zip=" + zip.toString() + "&promocode=" + promocode.toString() + "&lists=" + lists.toString() + "&did=" + deploymentid.toString() + "&wemail=" + sendEmail.toString();
-url = encodeURI(url);
-if( $.browser.msie && window.XDomainRequest){
-var xdr = new XDomainRequest();
-xdr.open("get", url );
-xdr.send();
-} else {
-jQuery.post(url);
-}
-}
-$('.signupSubmit').click(function() {
-//Check if form is valid
-if (LiveValidation.massValidate([emailSignUp, zipSignUp])) {
-//Set up Email Data
-var email = jQuery('#signUpEmail').val();
-var zip = jQuery('#signUpZip').val();
-var country = jQuery('#signupCountryDrop').val();
-var promocode = "A688-1";
-var lists = "125,3";
-var deploymentid = " ";
-var sendEmail = " ";
-// Display sending message and progress bar
-jQuery('#signupFormWrapper2').html('Sending...').css('text-align', 'center').css("padding-bottom", "10px");
-jQuery('#Progress').css('display', 'block');
-//Post Form Data
-subscribe(email, country, zip, promocode, lists, deploymentid, sendEmail);
-var thanksMessage = window.setTimeout(function() {
-// Hide Progress
-jQuery('#Progress').css('display', 'none');
-//Display Thank You
-jQuery('#signupFormWrapper2').html('Thank You!');
-}, 2000);
-setNewsletterModalCookie('newsletterModal', 1, 360);
-}
-});
-function populateCountrySelect() {
-var newOptions = {
-'United States': 'United States',
-'Afghanistan': 'Afghanistan',
-'Albania': 'Albania',
-'Algeria': 'Algeria',
-'American Samoa': 'American Samoa',
-'Andorra': 'Andorra',
-'Angola': 'Angola',
-'Anguilla': 'Anguilla',
-'Antarctica': 'Antarctica',
-'Antigua and Barbuda': 'Antigua and Barbuda',
-'Argentina': 'Argentina',
-'Armenia': 'Armenia',
-'Aruba': 'Aruba',
-'Australia': 'Australia',
-'Austria': 'Austria',
-'Azerbaijan': 'Azerbaijan',
-'Azores': 'Azores',
-'Bahamas': 'Bahamas',
-'Bahrain': 'Bahrain',
-'Bangladesh': 'Bangladesh',
-'Barbados': 'Barbados',
-'Belarus': 'Belarus',
-'Belgium': 'Belgium',
-'Belize': 'Belize',
-'Benin': 'Benin',
-'Bermuda': 'Bermuda',
-'Bhutan': 'Bhutan',
-'Bolivia': 'Bolivia',
-'Bosnia and Herzegovina': 'Bosnia and Herzegovina',
-'Botswana': 'Botswana',
-'Bouvet Island': 'Bouvet Island',
-'Brazil': 'Brazil',
-'British Indian Ocean Territory': 'British Indian Ocean Territory',
-'British Virgin Islands': 'British Virgin Islands',
-'Brunei Darussalam': 'Brunei Darussalam',
-'Bulgaria': 'Bulgaria',
-'Burkina Faso': 'Burkina Faso',
-'Burma': 'Burma',
-'Burundi': 'Burundi',
-'Cambodia': 'Cambodia',
-'Cameroon': 'Cameroon',
-'Canada': 'Canada',
-'Cape Verde': 'Cape Verde',
-'Cayman Islands': 'Cayman Islands',
-'Central African Republic': 'Central African Republic',
-'Chad': 'Chad',
-'Chile': 'Chile',
-'China': 'China',
-'Christmas Island': 'Christmas Island',
-'Cocos (Keeling) Islands': 'Cocos (Keeling) Islands',
-'Colombia': 'Colombia',
-'Comoros': 'Comoros',
-'Congo': 'Congo',
-'Cook Islands': 'Cook Islands',
-'Corsica': 'Corsica',
-'Costa Rica': 'Costa Rica',
-'Cote DIvoire (Ivory Coast)': 'Cote DIvoire (Ivory Coast)',
-'Croatia (Hrvatska)': 'Croatia (Hrvatska)',
-'Cuba': 'Cuba',
-'Cyprus': 'Cyprus',
-'Czech Republic': 'Czech Republic',
-'Czechoslovakia (former)': 'Czechoslovakia (former)',
-'Denmark': 'Denmark',
-'Djibouti': 'Djibouti',
-'Dominica': 'Dominica',
-'Dominican Republic': 'Dominican Republic',
-'East Timor': 'East Timor',
-'Ecuador': 'Ecuador',
-'Egypt': 'Egypt',
-'El Salvador': 'El Salvador',
-'England': 'England',
-'Equatorial Guinea': 'Equatorial Guinea',
-'Eritrea': 'Eritrea',
-'Estonia': 'Estonia',
-'Ethiopia': 'Ethiopia',
-'Falkland Islands (Malvinas)': 'Falkland Islands (Malvinas)',
-'Faroe Islands': 'Faroe Islands',
-'Fiji': 'Fiji',
-'Finland': 'Finland',
-'France': 'France',
-'French Guiana': 'French Guiana',
-'French Polynesia': 'French Polynesia',
-'French Southern Territories': 'French Southern Territories',
-'Gabon': 'Gabon',
-'Gambia': 'Gambia',
-'Georgia': 'Georgia',
-'Germany': 'Germany',
-'Ghana': 'Ghana',
-'Gibraltar': 'Gibraltar',
-'Great Britain and Northern Ireland': 'Great Britain and Northern Ireland',
-'Greece': 'Greece',
-'Greenland': 'Greenland',
-'Grenada': 'Grenada',
-'Guadeloupe': 'Guadeloupe',
-'Guam': 'Guam',
-'Guatemala': 'Guatemala',
-'Guinea': 'Guinea',
-'Guinea-Bissau': 'Guinea-Bissau',
-'Guinea?Bissau': 'Guinea?Bissau',
-'Guyana': 'Guyana',
-'Haiti': 'Haiti',
-'Heard and McDonald Islands': 'Heard and McDonald Islands',
-'Honduras': 'Honduras',
-'Hong Kong': 'Hong Kong',
-'Hungary': 'Hungary',
-'Iceland': 'Iceland',
-'India': 'India',
-'Indonesia': 'Indonesia',
-'Iran': 'Iran',
-'Iraq': 'Iraq',
-'Ireland': 'Ireland',
-'Israel': 'Israel',
-'Italy': 'Italy',
-'Jamaica': 'Jamaica',
-'Japan': 'Japan',
-'Jordan': 'Jordan',
-'Kazakhstan': 'Kazakhstan',
-'Kenya': 'Kenya',
-'Kiribati': 'Kiribati',
-'Korea (North)': 'Korea (North)',
-'Korea (South)': 'Korea (South)',
-'Kuwait': 'Kuwait',
-'Kyrgyzstan': 'Kyrgyzstan',
-'Laos': 'Laos',
-'Latvia': 'Latvia',
-'Lebanon': 'Lebanon',
-'Lesotho': 'Lesotho',
-'Lesotho': 'Lesotho',
-'Liberia': 'Liberia',
-'Libya': 'Libya',
-'Liechtenstein': 'Liechtenstein',
-'Lithuania': 'Lithuania',
-'Luxembourg': 'Luxembourg',
-'Macao': 'Macao',
-'Macau': 'Macau',
-'Macedonia': 'Macedonia',
-'Madagascar': 'Madagascar',
-'Madeira Islands': 'Madeira Islands',
-'Malawi': 'Malawi',
-'Malaysia': 'Malaysia',
-'Maldives': 'Maldives',
-'Mali': 'Mali',
-'Malta': 'Malta',
-'Marshall Islands': 'Marshall Islands',
-'Martinique': 'Martinique',
-'Mauritania': 'Mauritania',
-'Mauritius': 'Mauritius',
-'Mayotte': 'Mayotte',
-'Mexico': 'Mexico',
-'Micronesia': 'Micronesia',
-'Moldova': 'Moldova',
-'Monaco': 'Monaco',
-'Mongolia': 'Mongolia',
-'Montserrat': 'Montserrat',
-'Morocco': 'Morocco',
-'Mozambique': 'Mozambique',
-'Myanmar': 'Myanmar',
-'Namibia': 'Namibia',
-'Nauru': 'Nauru',
-'Nepal': 'Nepal',
-'Netherlands': 'Netherlands',
-'Netherlands Antilles': 'Netherlands Antilles',
-'Neutral Zone': 'Neutral Zone',
-'New Caledonia': 'New Caledonia',
-'New Zealand ': 'New Zealand',
-'Nicaragua': 'Nicaragua',
-'Niger': 'Niger',
-'Nigeria': 'Nigeria',
-'Niue': 'Niue',
-'Norfolk Island': 'Norfolk Island',
-'Northern Mariana Islands': 'Northern Mariana Islands',
-'Norway': 'Norway',
-'Oman': 'Oman',
-'Pakistan': 'Pakistan',
-'Palau': 'Palau',
-'Panama': 'Panama',
-'Papua New Guinea': 'Papua New Guinea',
-'Paraguay': 'Paraguay',
-'Peru': 'Peru',
-'Philippines': 'Philippines',
-'Pitcairn': 'Pitcairn',
-'Poland': 'Poland',
-'Portugal': 'Portugal',
-'Puerto Rico': 'Puerto Rico',
-'Qatar': 'Qatar',
-'Republic of': 'Republic of',
-'Reunion': 'Reunion',
-'Romania': 'Romania',
-'Russia': 'Russia',
-'Russian Federation': 'Russian Federation',
-'Rwanda': 'Rwanda',
-'Saint Helena': 'Saint Helena',
-'Saint Kitts and Nevis': 'Saint Kitts and Nevis',
-'Saint Lucia': 'Saint Lucia',
-'Saint Pierre and Miquelon': 'Saint Pierre and Miquelon',
-'Saint Vincent and the Grenadines': 'Saint Vincent and the Grenadines',
-'Samoa': 'Samoa',
-'San Marino': 'San Marino',
-'Sao Tome and Principe': 'Sao Tome and Principe',
-'Saudi Arabia': 'Saudi Arabia',
-'Senegal': 'Senegal',
-'Serbia?Monteneg (Yugoslavia)': 'Serbia?Monteneg (Yugoslavia)',
-'Seychelles': 'Seychelles',
-'Sierra Leone': 'Sierra Leone',
-'Singapore': 'Singapore',
-'Slovak Republic': 'Slovak Republic',
-'Slovenia': 'Slovenia',
-'Solomon Islands': 'Solomon Islands',
-'Somalia': 'Somalia',
-'South Africa': 'South Africa',
-'Spain': 'Spain',
-'Sri Lanka': 'Sri Lanka',
-'St. Helena': 'St. Helena',
-'St. Pierre and Miquelon': 'St. Pierre and Miquelon',
-'Sudan': 'Sudan',
-'Suriname': 'Suriname',
-'Svalbard and Jan Mayen Islands': 'Svalbard and Jan Mayen Islands',
-'Swaziland': 'Swaziland',
-'Sweden': 'Sweden',
-'Switzerland': 'Switzerland',
-'Syria': 'Syria',
-'Taiwan': 'Taiwan',
-'Tajikistan': 'Tajikistan',
-'Tanzania': 'Tanzania',
-'Thailand': 'Thailand',
-'Togo': 'Togo',
-'Tokelau': 'Tokelau',
-'Tonga': 'Tonga',
-'Trinidad and Tobago': 'Trinidad and Tobago',
-'Tristan da Cunha': 'Tristan da Cunha',
-'Tunisia': 'Tunisia',
-'Turkey': 'Turkey',
-'Turkmenistan': 'Turkmenistan',
-'Turks and Caicos Islands': 'Turks and Caicos Islands',
-'Tuvalu': 'Tuvalu',
-'Uganda': 'Uganda',
-'Ukraine': 'Ukraine',
-'United Arab Emirate': 'United Arab Emirate',
-'United Kingdom': 'United Kingdom',
-'Uruguay': 'Uruguay',
-'US Minor Outlying Islands': 'US Minor Outlying Islands',
-'Uzbekistan': 'Uzbekistan',
-'Vanuatu': 'Vanuatu',
-'Vatican City State (Holy See)': 'Vatican City State (Holy See)',
-'Venezuela': 'Venezuela',
-'Viet Nam': 'Viet Nam',
-'Virgin Islands (British)': 'Virgin Islands (British)',
-'Virgin Islands (U.S.)': 'Virgin Islands (U.S.)',
-'Wallis and Futuna Islands': 'Wallis and Futuna Islands',
-'Western Sahara': 'Western Sahara',
-'Yemen': 'Yemen',
-'Yugoslavia': 'Yugoslavia',
-'Zaire': 'Zaire',
-'Zambia': 'Zambia',
-'Zimbabwe': 'Zimbabwe'
-};
-var selectedOption = 'United States';
-// Only does one signup box. Code below does all of them.
-/*var select = $('.signupInputDrop');
-var options = select.attr('options');
-$('option', select).remove();
-$.each(newOptions, function(val, text) {
-options[options.length] = new Option(text, val);
-});
-*/
-//select.val(selectedOption);
-//-----------
-$('#signupCountryDrop').each(function() {
-var options = $(this).attr('options');
-$('option', $(this)).remove();
-$.each(newOptions, function(val, text) {
-options[options.length] = new Option(text, val);
-});
-$(this).val(selectedOption);
-});
-//----------
-}
-populateCountrySelect();
-});
-/* END sign up */
-});
-</script></td>
-</tr>
-</tbody></table>
-<!-- END _JS_newsletterModal Content Block -->
 <!-- BEGIN _JS_AutoPromo Content Block -->
 <table id="block._js_autopromo" cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
 <tbody><tr>
@@ -1343,7 +928,7 @@ background: transparent;
 <table id="block.e-mailbanner" cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
 <tbody><tr>
 <td><div class="promoBar">
-<a href="/items/products"><img alt="Medix Select Promo Codes" src="/MerchantUploads/edgeMedixSelect/Women Health Month MAY 2015 928x40.jpg" style="border-width: 0px; border-style: solid; width: 928px; height: 41px;"> </a></div>
+<a href="/items/products"><img alt="Medix Select Promo Codes" src="/MerchantUploads/edgeMedixSelect/Medix_0615_BigDeal_928x40.jpg" style="border-width: 0px; border-style: solid; width: 928px; height: 41px;"> </a></div>
 </td>
 </tr>
 </tbody></table>
@@ -1408,7 +993,8 @@ Last Update:&nbsp; 2/7/2013</p>
 <!-- BEGIN Newsletter Signup - Footer Content Block -->
 <table id="block.newslettersignup-footer" cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
 <tbody><tr>
-<td><style type="text/css">
+<td><p>
+<style type="text/css">
 #footerSignUpCell{
 background: url('/MerchantUploads/edgeMedixSelect/newsletter_signup_bg.jpg') no-repeat top center;
 width: 926px;
@@ -1504,8 +1090,8 @@ display: inline;
 margin:-7px 0 0 0;
 padding:none!important;
 filter:none!important;
-}
-</style><script type="text/javascript">
+}</style>
+<script type="text/javascript">
 /* START live validation compressed */
 // LiveValidation 1.3 (standalone version)
 // Copyright (c) 2007-2008 Alec Hill (www.livevalidation.com)
@@ -1587,85 +1173,54 @@ jQuery('#signupFormWrapper2').html('Thank You!');
 }, 2000);
 }
 });
-//function populateCountrySelect() {
-//var newOptions = {};
-//var selectedOption = 'United States';
-// Only does one signup box. Code below does all of them.
-/*var select = $('.signupInputDrop');
-var options = select.attr('options');
-$('option', select).remove();
-$.each(newOptions, function(val, text) {
-options[options.length] = new Option(text, val);
-});
-*/
-//select.val(selectedOption);
-//-----------
-/*
-$('#signupCountryDrop').each(function() {
-var options = $(this).attr('options');
-$('option', $(this)).remove();
-$.each(newOptions, function(val, text) {
-options[options.length] = new Option(text, val);
-});
-$(this).val(selectedOption);
-});
-*/
-//----------
-// }/* end populateCountrySelect() */
 });
 /* END sign up */
-</script>
+</script></p>
 <div id="footerSignUpCell">
-<!-- Email Signup Box Start --> <div id="nmSignUpContainer">
-<div id="nmSignUpTop">
-</div>
+<!-- Email Signup Box Start -->
+<div id="nmSignUpContainer">
 <div id="signupFormWrapper2">
-<div class="signupHeadMain">
-</div>
-<div class="signupError">
-<div id="signupEmailError">
-</div>
-</div>
 <div class="nmSignUpLabel">
 Email:</div>
 <div class="nmSignUpInputCont">
 <input class="nmSignUpInput" id="signUpEmail" name="signUpEmail" type="text"></div>
 <div class="clear">
-</div>
+&nbsp;</div>
 <div class="signupError" style="font-size: 0px; padding: 5px;">
-</div>
+&nbsp;</div>
 <div class="nmSignUpLabel">
 Confirm Email:</div>
 <div class="nmSignUpInputCont">
 <input class="nmSignUpInput" id="signUpEmailConfirm" name="signUpEmailConfirm" type="text"></div>
 <div class="clear">
-</div>
+&nbsp;</div>
 <div class="signupError" style="font-size: 0px; padding: 5px;">
-</div>
+&nbsp;</div>
 <div class="nmSignUpLabel">
 Country:</div>
 <div class="nmSignUpInputCont">
 <select class="nmSignUpInput" id="signupCountryDrop" name="signupCountryDrop"><option value="United States">United States</option><option value="Afghanistan">Afghanistan</option><option value="Albania">Albania</option><option value="Algeria">Algeria</option><option value="American Samoa">American Samoa</option><option value="Andorra">Andorra</option><option value="Angola">Angola</option><option value="Anguilla">Anguilla</option><option value="Antarctica">Antarctica</option><option value="Antigua and Barbuda">Antigua and Barbuda</option><option value="Argentina">Argentina</option><option value="Armenia">Armenia</option><option value="Aruba">Aruba</option><option value="Australia">Australia</option><option value="Austria">Austria</option><option value="Azerbaijan">Azerbaijan</option><option value="Azores">Azores</option><option value="Bahamas">Bahamas</option><option value="Bahrain">Bahrain</option><option value="Bangladesh">Bangladesh</option><option value="Barbados">Barbados</option><option value="Belarus">Belarus</option><option value="Belgium">Belgium</option><option value="Belize">Belize</option><option value="Benin">Benin</option><option value="Bermuda">Bermuda</option><option value="Bhutan">Bhutan</option><option value="Bolivia">Bolivia</option><option value="Bosnia and Herzegovina">Bosnia and Herzegovina</option><option value="Botswana">Botswana</option><option value="Bouvet Island">Bouvet Island</option><option value="Brazil">Brazil</option><option value="British Indian Ocean Territory">British Indian Ocean Territory</option><option value="British Virgin Islands">British Virgin Islands</option><option value="Brunei Darussalam">Brunei Darussalam</option><option value="Bulgaria">Bulgaria</option><option value="Burkina Faso">Burkina Faso</option><option value="Burma">Burma</option><option value="Burundi">Burundi</option><option value="Cambodia">Cambodia</option><option value="Cameroon">Cameroon</option><option value="Canada">Canada</option><option value="Cape Verde">Cape Verde</option><option value="Cayman Islands">Cayman Islands</option><option value="Central African Republic">Central African Republic</option><option value="Chad">Chad</option><option value="Chile">Chile</option><option value="China">China</option><option value="Christmas Island">Christmas Island</option><option value="Cocos (Keeling) Islands">Cocos (Keeling) Islands</option><option value="Colombia">Colombia</option><option value="Comoros">Comoros</option><option value="Congo">Congo</option><option value="Cook Islands">Cook Islands</option><option value="Corsica">Corsica</option><option value="Costa Rica">Costa Rica</option><option value="Cote DIvoire (Ivory Coast)">Cote DIvoire (Ivory Coast)</option><option value="Croatia (Hrvatska)">Croatia (Hrvatska)</option><option value="Cuba">Cuba</option><option value="Cyprus">Cyprus</option><option value="Czech Republic">Czech Republic</option><option value="Czechoslovakia (former)">Czechoslovakia (former)</option><option value="Denmark">Denmark</option><option value="Djibouti">Djibouti</option><option value="Dominica">Dominica</option><option value="Dominican Republic">Dominican Republic</option><option value="East Timor">East Timor</option><option value="Ecuador">Ecuador</option><option value="Egypt">Egypt</option><option value="El Salvador">El Salvador</option><option value="England">England</option><option value="Equatorial Guinea">Equatorial Guinea</option><option value="Eritrea">Eritrea</option><option value="Estonia">Estonia</option><option value="Ethiopia">Ethiopia</option><option value="Falkland Islands (Malvinas)">Falkland Islands (Malvinas)</option><option value="Faroe Islands">Faroe Islands</option><option value="Fiji">Fiji</option><option value="Finland">Finland</option><option value="France">France</option><option value="French Guiana">French Guiana</option><option value="French Polynesia">French Polynesia</option><option value="French Southern Territories">French Southern Territories</option><option value="Gabon">Gabon</option><option value="Gambia">Gambia</option><option value="Georgia">Georgia</option><option value="Germany">Germany</option><option value="Ghana">Ghana</option><option value="Gibraltar">Gibraltar</option><option value="Great Britain and Northern Ireland">Great Britain and Northern Ireland</option><option value="Greece">Greece</option><option value="Greenland">Greenland</option><option value="Grenada">Grenada</option><option value="Guadeloupe">Guadeloupe</option><option value="Guam">Guam</option><option value="Guatemala">Guatemala</option><option value="Guinea">Guinea</option><option value="Guinea-Bissau">Guinea-Bissau</option><option value="Guinea?Bissau">Guinea?Bissau</option><option value="Guyana">Guyana</option><option value="Haiti">Haiti</option><option value="Heard and McDonald Islands">Heard and McDonald Islands</option><option value="Honduras">Honduras</option><option value="Hong Kong">Hong Kong</option><option value="Hungary">Hungary</option><option value="Iceland">Iceland</option><option value="India">India</option><option value="Indonesia">Indonesia</option><option value="Iran">Iran</option><option value="Iraq">Iraq</option><option value="Ireland">Ireland</option><option value="Israel">Israel</option><option value="Italy">Italy</option><option value="Jamaica">Jamaica</option><option value="Japan">Japan</option><option value="Jordan">Jordan</option><option value="Kazakhstan">Kazakhstan</option><option value="Kenya">Kenya</option><option value="Kiribati">Kiribati</option><option value="Korea (North)">Korea (North)</option><option value="Korea (South)">Korea (South)</option><option value="Kuwait">Kuwait</option><option value="Kyrgyzstan">Kyrgyzstan</option><option value="Laos">Laos</option><option value="Latvia">Latvia</option><option value="Lebanon">Lebanon</option><option value="Lesotho">Lesotho</option><option value="Lesotho">Lesotho</option><option value="Liberia">Liberia</option><option value="Libya">Libya</option><option value="Liechtenstein">Liechtenstein</option><option value="Lithuania">Lithuania</option><option value="Luxembourg">Luxembourg</option><option value="Macao">Macao</option><option value="Macau">Macau</option><option value="Macedonia">Macedonia</option><option value="Madagascar">Madagascar</option><option value="Madeira Islands">Madeira Islands</option><option value="Malawi">Malawi</option><option value="Malaysia">Malaysia</option><option value="Maldives">Maldives</option><option value="Mali">Mali</option><option value="Malta">Malta</option><option value="Marshall Islands">Marshall Islands</option><option value="Martinique">Martinique</option><option value="Mauritania">Mauritania</option><option value="Mauritius">Mauritius</option><option value="Mayotte">Mayotte</option><option value="Mexico">Mexico</option><option value="Micronesia">Micronesia</option><option value="Moldova">Moldova</option><option value="Monaco">Monaco</option><option value="Mongolia">Mongolia</option><option value="Montserrat">Montserrat</option><option value="Morocco">Morocco</option><option value="Mozambique">Mozambique</option><option value="Myanmar">Myanmar</option><option value="Namibia">Namibia</option><option value="Nauru">Nauru</option><option value="Nepal">Nepal</option><option value="Netherlands">Netherlands</option><option value="Netherlands Antilles">Netherlands Antilles</option><option value="Neutral Zone">Neutral Zone</option><option value="New Caledonia">New Caledonia</option><option value="New Zealand ">New Zealand</option><option value="Nicaragua">Nicaragua</option><option value="Niger">Niger</option><option value="Nigeria">Nigeria</option><option value="Niue">Niue</option><option value="Norfolk Island">Norfolk Island</option><option value="Northern Mariana Islands">Northern Mariana Islands</option><option value="Norway">Norway</option><option value="Oman">Oman</option><option value="Pakistan">Pakistan</option><option value="Palau">Palau</option><option value="Panama">Panama</option><option value="Papua New Guinea">Papua New Guinea</option><option value="Paraguay">Paraguay</option><option value="Peru">Peru</option><option value="Philippines">Philippines</option><option value="Pitcairn">Pitcairn</option><option value="Poland">Poland</option><option value="Portugal">Portugal</option><option value="Puerto Rico">Puerto Rico</option><option value="Qatar">Qatar</option><option value="Republic of">Republic of</option><option value="Reunion">Reunion</option><option value="Romania">Romania</option><option value="Russia">Russia</option><option value="Russian Federation">Russian Federation</option><option value="Rwanda">Rwanda</option><option value="Saint Helena">Saint Helena</option><option value="Saint Kitts and Nevis">Saint Kitts and Nevis</option><option value="Saint Lucia">Saint Lucia</option><option value="Saint Pierre and Miquelon">Saint Pierre and Miquelon</option><option value="Saint Vincent and the Grenadines">Saint Vincent and the Grenadines</option><option value="Samoa">Samoa</option><option value="San Marino">San Marino</option><option value="Sao Tome and Principe">Sao Tome and Principe</option><option value="Saudi Arabia">Saudi Arabia</option><option value="Senegal">Senegal</option><option value="Serbia?Monteneg (Yugoslavia)">Serbia?Monteneg (Yugoslavia)</option><option value="Seychelles">Seychelles</option><option value="Sierra Leone">Sierra Leone</option><option value="Singapore">Singapore</option><option value="Slovak Republic">Slovak Republic</option><option value="Slovenia">Slovenia</option><option value="Solomon Islands">Solomon Islands</option><option value="Somalia">Somalia</option><option value="South Africa">South Africa</option><option value="Spain">Spain</option><option value="Sri Lanka">Sri Lanka</option><option value="St. Helena">St. Helena</option><option value="St. Pierre and Miquelon">St. Pierre and Miquelon</option><option value="Sudan">Sudan</option><option value="Suriname">Suriname</option><option value="Svalbard and Jan Mayen Islands">Svalbard and Jan Mayen Islands</option><option value="Swaziland">Swaziland</option><option value="Sweden">Sweden</option><option value="Switzerland">Switzerland</option><option value="Syria">Syria</option><option value="Taiwan">Taiwan</option><option value="Tajikistan">Tajikistan</option><option value="Tanzania">Tanzania</option><option value="Thailand">Thailand</option><option value="Togo">Togo</option><option value="Tokelau">Tokelau</option><option value="Tonga">Tonga</option><option value="Trinidad and Tobago">Trinidad and Tobago</option><option value="Tristan da Cunha">Tristan da Cunha</option><option value="Tunisia">Tunisia</option><option value="Turkey">Turkey</option><option value="Turkmenistan">Turkmenistan</option><option value="Turks and Caicos Islands">Turks and Caicos Islands</option><option value="Tuvalu">Tuvalu</option><option value="Uganda">Uganda</option><option value="Ukraine">Ukraine</option><option value="United Arab Emirate">United Arab Emirate</option><option value="United Kingdom">United Kingdom</option><option value="Uruguay">Uruguay</option><option value="US Minor Outlying Islands">US Minor Outlying Islands</option><option value="Uzbekistan">Uzbekistan</option><option value="Vanuatu">Vanuatu</option><option value="Vatican City State (Holy See)">Vatican City State (Holy See)</option><option value="Venezuela">Venezuela</option><option value="Viet Nam">Viet Nam</option><option value="Virgin Islands (British)">Virgin Islands (British)</option><option value="Virgin Islands (U.S.)">Virgin Islands (U.S.)</option><option value="Wallis and Futuna Islands">Wallis and Futuna Islands</option><option value="Western Sahara">Western Sahara</option><option value="Yemen">Yemen</option><option value="Yugoslavia">Yugoslavia</option><option value="Zaire">Zaire</option><option value="Zambia">Zambia</option><option value="Zimbabwe">Zimbabwe</option></select></div>
 <div class="signupError">
 <div id="signupZipError">
-</div>
+&nbsp;</div>
 </div>
 <div class="nmSignUpLabel nmSignUpLabelZip">
 Zip Code:</div>
 <div class="nmSignUpInputContSm">
 <input class="nmSignUpInputSm" id="signUpZip" name="signUpZip" type="text"> <!-- <input type="button" value="" class="signupSubmit" src="/MerchantUploads/edgeMedixSelect/signupbutton.jpg" />--><button class="signupSubmit" id="signUpSubmitBtn" type="submit"><img src="/MerchantUploads/edgeMedixSelect/signupbutton.jpg"></button>
 <div class="clear">
-</div>
+&nbsp;</div>
 </div>
 <div class="clear">
-</div>
+&nbsp;</div>
 <div id="Progress">
-</div>
+&nbsp;</div>
 </div>
 <div id="nmSignUpBottom">
-</div>
+&nbsp;</div>
 </div>
 <!-- Email Signup Box End --></div>
+<p>&nbsp;</p>
 </td>
 </tr>
 </tbody></table>
@@ -1696,7 +1251,7 @@ Zip Code:</div>
 <p>Copyright 2015 Medix Health LLC and MedixSelect.com<br>
 All rights reserved</p>
 </div>
-<p id="footer_links"><a href="/event/page/pageCode/freehealthalerts">Free Health Alerts</a> | <a href="/event/page/pageCode/customercare#returns">Returns </a>| <a href="/event/page/pageCode/customercare#shipping">Shipping</a> | <a href="http://www.medixselect.com/page/articles/">Articles</a> | <a href="/event/page/pageCode/privacy">Privacy</a> | <a href="/event/page/pageCode/terms">Terms</a> | <a href="/event/page/pageCode/contactus">Contact</a> | <a href="/event/page/pageCode/sitemap">Site Map</a></p>
+<p id="footer_links"><a href="/event/page/pageCode/freehealthalerts">Free Health Alerts</a> | <a href="/event/page/pageCode/customercare#returns">Returns </a>| <a href="/event/page/pageCode/customercare#shipping">Shipping</a> | <a href="/page/articles/">Articles</a> | <a href="/event/page/pageCode/privacy">Privacy</a> | <a href="/event/page/pageCode/terms">Terms</a> | <a href="/event/page/pageCode/contactus">Contact</a> | <a href="/event/page/pageCode/sitemap">Site Map</a></p>
 </div>
 <p>&nbsp;</p>
 </td>
@@ -1714,7 +1269,7 @@ The statements made on this website have not been evaluated by the Food and Drug
 </tbody></table>
 <!-- END Footer Disclaimer Content Block -->
 <!-- BEGIN Custom Tracking Pixel Block View -->
-<img src="http://www.medixselectdeals.com/?src=&amp;promo_code=" width="1" height="1" border="0">
+<img src="/page/secure?src=&amp;promo_code=" width="1" height="1" border="0">
 <!-- END Custom Tracking Pixel Block View -->
 <!-- BEGIN Tracking Pixel - Value Click Remarketing Content Block -->
 <table id="block.trackingpixel-valueclickremarketing" cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
