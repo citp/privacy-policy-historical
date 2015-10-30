@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the o2wifi.co.uk privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407122432id_/http%3A//www.o2wifi.co.uk/signup/terms%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the o2wifi.co.uk privacy policy that was archived on 2015-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151030014648id_/https%3A//www.o2wifi.co.uk/signup/terms%23privacy) for the most accurate reproduction.*
 
 # O2 Wifi
 
@@ -11,7 +11,7 @@ If you're already an O2 customer then these Terms are in addition to the terms o
  **O2**  
 Telefónica UK Limited, 260 Bath Road, Slough, Berkshire SL1 4DX  
 Registered in England and Wales No.1743099. Registered Office as above.  
-© Telefónica UK Limited 2011. (January 2011)
+© Telefónica UK Limited 2015.
 
 The following Policy relates to your use of our O2 Wifi Service only. It is designed to make sure we can give you a Service that is great value, fast and reliable.
 
@@ -22,7 +22,7 @@ This Policy is in addition to the Terms and Conditions for O2 Wifi and is part o
  **O2**  
 Telefónica UK Limited, 260 Bath Road, Slough, Berkshire SL1 4DX  
 Registered in England and Wales No.1743099. Registered Office as above.  
-© Telefónica UK Limited 2011. (January 2011)
+© Telefónica UK Limited 2015. (July 2015)
 
 ## Our Privacy Policy
 
