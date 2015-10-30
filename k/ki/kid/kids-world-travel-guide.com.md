@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kids-world-travel-guide.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531080543id_/http%3A//www.kids-world-travel-guide.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kids-world-travel-guide.com privacy policy that was archived on 2015-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151030220650id_/http%3A//www.kids-world-travel-guide.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Kids World Travel Guide
 
@@ -16,15 +16,27 @@ This information is collected if you request information from us, sign up to joi
 
  **Use of Cookies and Web Beacons**
 
-We may use cookies to help you personalize your online experience. Cookies are identifiers that are transferred to your computer’s hard drive through your web browser to enable our system to recognize your browser. You have the ability to accept or decline cookies by modifying settings in your browser; however, if you choose to decline cookies, you may not be able to fully experience the interactive features of the site.
+We may use cookies to help you personalize your online experience. Cookies are identifiers that are transferred to your computer’s hard drive through your web browser to enable our system to recognize your browser. 
 
-A web beacon is a transparent image file used to monitor your journey around a single website or collection of sites. They are commonly used in association with cookies to understand how visitors interact with the pages and content on the pages of a website. We use third-party advertising companies to serve ads on our website. These companies use cookies and web beacons in their ads to ascertain how many times you’ve seen an advertisement. No personally identifiable information you give us is provided to them for cookie or web beacon use, so they cannot personally identify you with that information from our website.
+The purpose of a cookie is to tell the web server that you have come to the site for the first time, or have returned to a specific page. If you personalize the site's pages, or register with any of our site's services, a cookie enables [website name] to recall your specific information on subsequent visits.
 
-Some third-party advertisements may be provided by Google, which uses the DART cookie to serve ads. This cookie enables Google to serve ads to users based on their visits to sites on the Web.  Browsers can be set to accept or reject cookies automatically, or notify you when a cookie is being requested. Privacy software can be used to override web beacons. Taking either of these actions should not cause a problem with our site, should you so choose. 
+You have the ability to accept or decline cookies by modifying settings in your browser; however, if you choose to decline cookies, you may not be able to fully experience the interactive features of the site.
+
+A web beacon is a transparent image file used to monitor your journey around a single website or collection of sites. They are commonly used in association with cookies to understand how visitors interact with the pages and content on the pages of a website. 
+
+As you browse this website, Google Analytics and advertising cookies will be placed on your computer to collect demographic and interest information, but we do not tie the cookie to any personal information that you provide to us. If you do not wish your data to be collected via Google Analytics, you may use their opt-out tool... <a href="https://tools.google.com/dlpage/gaoptout/" target="_blank">https://tools.google.com/dlpage/gaoptout/</a>.
+
+We use third-party advertising companies to serve ads on our website. These companies use cookies and web beacons in their ads to ascertain how many times you’ve seen an advertisement. No personally identifiable information you give us is provided to them for cookie or web beacon use, so they cannot personally identify you with that information from our website.
+
+Some third-party advertisements may be provided by Google, which uses the Double-Click cookie to serve ads. This cookie enables Google to serve ads to users based on their visits to sites on the Web.  
+
+You may opt out of the use of the DoubleClick cookie by visiting the <a href="http://www.google.com/policies/technologies/ads/" target="_blank">Google ad and content network privacy policy</a>.
+
+Browsers can be set to accept or reject cookies automatically, or notify you when a cookie is being requested. Privacy software can be used to override web beacons. Taking either of these actions should not cause a problem with our site, should you so choose. 
 
  **Children’s Online Privacy Protection Act**
 
-This website is directed to older children, teenagers and adults; it is not directed to children under the age of 9. We operate our site in compliance with the Children’s Online Privacy Protection Act, and will not knowingly collect or use personal information from anyone under the age of 9 years.
+This website is directed to older children, teenagers and adults; it is not directed to children under the age of 13. We operate our site in compliance with the Children’s Online Privacy Protection Act, and will not knowingly collect or use personal information from anyone under the age of 13 years.
 
  **Non-personal Information**
 
