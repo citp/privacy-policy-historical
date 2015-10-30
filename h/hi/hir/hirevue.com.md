@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hirevue.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630045427id_/http%3A//hirevue.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hirevue.com privacy policy that was archived on 2015-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151030223642id_/http%3A//hirevue.com/terms) for the most accurate reproduction.*
 
-# Privacy Policy | HireVue
+# Privacy Policy • HireVue
 
 Privacy Policy
 
@@ -30,7 +30,7 @@ HireVue complies with the U.S.- EU Safe Harbor Framework and the U.S.- Swiss Saf
 
 **When HireVue Discloses Information:** We are not in the business of selling your Personally Identifiable Information!  We do, however, disclose your Personally Identifiable Information in a variety of circumstances in the ordinary course of operating our business, such as:
 
-·     The Service is fundamentally a platform for connecting Employers with Candidates, and as such, Personally Identifiable Information provided by Candidates will be shared with the applicable Employer(s).  Automatically Collected Information collected by HireVue may also be shared with Employer(s). 
+·     The Service is fundamentally a platform for connecting Employers with Candidates, and as such, Personally Identifiable Information provided by Candidates will be shared with the applicable Employer(s).  Automatically Collected Information collected by HireVue may also be shared with Employer(s).
 
 ·     HireVue makes certain reporting tools available to users of the Service to review and select applications and opportunities, analyze and understand usage metrics with respect to such applications and opportunities.
 
@@ -46,7 +46,7 @@ HireVue complies with the U.S.- EU Safe Harbor Framework and the U.S.- Swiss Saf
 
 You may, of course, decline to share certain Personally Identifiable Information with HireVue, in which case HireVue may not be able to provide to you some of the features and functionality found on the Service.  You must contact the Employer that invited you to use the Service to update, correct, or delete your profile information or other Personally Identifiable Information you may have provided.
 
-To protect your privacy and security, we take reasonable steps to verify your identity before granting you account access.  YOU ARE RESPONSIBLE FOR MAINTAINING THE SECRECY OF YOUR UNIQUE PASSWORD AND ACCOUNT INFORMATION AT ALL TIMES. 
+To protect your privacy and security, we take reasonable steps to verify your identity before granting you account access.  YOU ARE RESPONSIBLE FOR MAINTAINING THE SECRECY OF YOUR UNIQUE PASSWORD AND ACCOUNT INFORMATION AT ALL TIMES.
 
 **Third Party Services:**
 
@@ -54,7 +54,7 @@ The Service contains references and links to Web sites and services provided by 
 
 **Data Security:**
 
-HireVue is not an information technology security service provider.  While we do employ certain limited physical, managerial, and technical safeguards designed to help improve the integrity and security of our systems and the data stored on our systems, no physical or technical system, process, transmission, or storage mechanism is completely secure or immune from outages, losses, attacks, circumvention, design or implementation flaws, and human error.  Therefore, we cannot and do not ensure or warrant that information you transmit to HireVue will not be lost or compromised, either during or after transmission. 
+HireVue is not an information technology security service provider.  While we do employ certain limited physical, managerial, and technical safeguards designed to help improve the integrity and security of our systems and the data stored on our systems, no physical or technical system, process, transmission, or storage mechanism is completely secure or immune from outages, losses, attacks, circumvention, design or implementation flaws, and human error.  Therefore, we cannot and do not ensure or warrant that information you transmit to HireVue will not be lost or compromised, either during or after transmission.
 
 If HireVue learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. HireVue may post a notice through the Service if a security breach occurs.  Depending on where you live, you may have a legal right to receive notice of a security breach in writing.  To receive a free written notice of a security breach you should notify us at privacy@HireVue.com.
 
@@ -72,11 +72,11 @@ Please revisit this page periodically to stay aware of any changes to this Priva
 
 **HireVue Contact Information:  **
 
-  To access your information, ask questions about our privacy practices, or issue a complaint, contact us at:
+To access your information, ask questions about our privacy practices, or issue a complaint, contact us at:
 
-HireVue, Inc.   
-10876 South River Front Parkway, Suite 600   
+HireVue, Inc.  
+10876 South River Front Parkway, Suite 600  
 South Jordan, Utah 84095
 
-Headquarters: 800.655.4106 Fax: 1.888.619.4053   
+Headquarters: 800.655.4106 Fax: 1.888.619.4053  
 Privacy Policy Inquiries: privacy@hirevue.com
