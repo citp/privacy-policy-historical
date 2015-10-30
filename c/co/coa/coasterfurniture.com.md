@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coasterfurniture.com privacy policy that was archived on 2015-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150501124128id_/http%3A//www.coasterfurniture.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coasterfurniture.com privacy policy that was archived on 2015-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151030235919id_/http%3A//www.coasterfurniture.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Coaster Fine Furniture - Furniture Store
 
