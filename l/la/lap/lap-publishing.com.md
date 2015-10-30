@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lap-publishing.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320161223id_/http%3A//www.lap-publishing.com/site/imprint-privacy-policy/13) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lap-publishing.com privacy policy that was archived on 2015-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151030103646id_/http%3A//www.lap-publishing.com/site/imprint-privacy-policy/13) for the most accurate reproduction.*
 
 # LAP Publishing | Imprint and Privacy Policy
 
@@ -7,11 +7,17 @@
 LAP LAMBERT Academic Publishing is a trademark of:
 
 OmniScriptum GmbH & Co. KG  
-Heinrich-Böcking-Straße 6-8  
-66121 Saarbrücken  
+Business address:  
+Bahnhofstraße 28  
+66111 Saarbrücken  
 Germany
 
-Fax: +49 681 93 81 567-9
+Think Tank:  
+Haroldstr. 14  
+40213 Düsseldorf  
+Germany
+
+Fax: +49 681 37 20 174-9
 
 Email: info[at]lap-publishing.com
 
@@ -25,12 +31,14 @@ Partner with unlimited liability/Persönlich haftende Gesellschafterin: OmniScri
 
 Register court/number: Handelsregister Amtsgericht Saarbrücken HRB 18918
 
-Managing director/Geschäftsführung: Marta Lusena (CEO)
+Managing director/Geschäftsführung: Dr. Wolfgang Philipp Müller (CEO)
 
 Dieses Impressum gilt auch für die Facebookseite <https://www.facebook.com/lappublishing>.
 
-Website created by: OmniScriptum GmbH & Co. KG, Heinrich-Böcking-Straße 6-8  
-66121 Saarbrücken, Germany
+Website created by: OmniScriptum GmbH & Co. KG,   
+Bahnhofstrasse 28  
+66111 Saarbrücken  
+Germany
 
 ## Legal notice:
 
