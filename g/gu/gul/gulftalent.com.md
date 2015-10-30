@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gulftalent.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510050623id_/http%3A//www.gulftalent.com/home/cntPrivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gulftalent.com privacy policy that was archived on 2015-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151030072126id_/http%3A//www.gulftalent.com/privacy-policy) for the most accurate reproduction.*
 
 # GulfTalent Privacy Policy
 
