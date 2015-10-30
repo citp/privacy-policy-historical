@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offspring.co.uk privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414234924id_/http%3A//www.offspring.co.uk/view/content/privacy-info-page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offspring.co.uk privacy policy that was archived on 2015-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151030184516id_/http%3A//www.offspring.co.uk/view/content/privacy-info-page) for the most accurate reproduction.*
 
 # 
 
@@ -17,15 +17,9 @@ Martha's Buildings,
 180 Old Street,  
 London EC1V 9BP
 
-  
-
-
 * * *
 
-  
-
-
-## ABOUT OFFSPRING
+#### ABOUT OFFSPRING
 
 In these terms and conditions, we, us and our, refer to Offspring part of OFFICE Limited, registered in England & Wales.
 
@@ -39,63 +33,39 @@ London EC1V 9BP
 Our company registration number is 1764341  
 Our VAT registration number is 340010335
 
-  
-
-
 * * *
 
-  
-
-
-## INFORMATION WE MAY COLLECT FROM YOU
+#### INFORMATION WE MAY COLLECT FROM YOU
 
 If you want to buy goods from us, you will have to register (this process will create your own personal account on our site).
 
-  
-
-
 * * *
 
-  
-
-
-## REGISTRATION: CREATING AN ACCOUNT
+#### REGISTRATION: CREATING AN ACCOUNT
 
 Registration involves you giving us the following personal information:
 
-  * Your title, name and address where your payment card is registered (including option to save different delivery addresses)
-  * Contact phone number and e-mail address
+Your title, name and address where your payment card is registered (including option to save different delivery addresses)
 
-
+Contact phone number and e-mail address
 
 Once you have placed your order, you will then be able to check on your order status, manage your address book and speed up the ordering process. Registration also enables you to update your email preferences.
 
-  
-
-
 * * *
 
-  
-
-
-## PLACING AN ORDER
+#### PLACING AN ORDER
 
 When you place an order with Offspring, we ask for your name, e-mail address, delivery address, contact and credit card details as well as expiry date. We keep a record of this information so that we can recognise you and fulfil any orders you place securely with Offspring. We retain details of your orders, copies of any e-mail correspondence you send us in order to maintain high standards of customer service.
 
 We may also collect the following information:
 
-  * demographic information such as preferences and interests
-  * other information relevant to customer surveys and/or offers
+demographic information such as preferences and interests
 
-  
-
+* other information relevant to customer surveys and/or offers 
 
 * * *
 
-  
-
-
-## HOW WE WILL USE YOUR DETAILS
+#### HOW WE WILL USE YOUR DETAILS
 
 We are committed to protecting your personal information and we will endeavour only to use or disclose personal information collected from you for the efficient delivery of our services to you and to work towards improving those services.
 
@@ -107,31 +77,19 @@ We may also use the information to improve our website and personalise your expe
 
 From time to time, we may also use your information to contact you for market research purposes. We may contact you by email or mail. We may use the information to customise the website according to your interests.
 
-  
-
-
 * * *
 
-  
-
-
-## UNSUBSCRIBING
+#### UNSUBSCRIBING
 
 If you change your mind and decide you do not wish to receive the Offspring newsletter. You can unsubscribe by clicking on the 'unsubscribe' link at the bottom of any emails you receive from us, or by emailing us at [help@offspring.co.uk](mailto:customerservice@offspring.co.uk).
 
-  
-
-
 * * *
 
-  
-
-
-## ABOUT COOKIES AND THE WAY WE USE THEM
+#### ABOUT COOKIES AND THE WAY WE USE THEM
 
 Please note: On receipt of the goods a signature will be required.
 
-In common with other websites, we use "cookies". Cookies are small text files which are sent to your computer and enable our website to recognise you. They are not computer programmes and are incapable of reading any material on your hard disk or disseminate viruses. They only contain such information as you have provided to us on the website. You can set up your computer so that it rejects cookies, (you will find instructions on how to do this at [www.allaboutcookies.org](https://web.archive.org/web/20150414234924id_/http%3A//www.offspring.co.uk/view/content/www.allaboutcookies.org) but in doing so, in common with other online shopping facilities, you will be unable to use the shopping facility on this site.
+In common with other websites, we use "cookies". Cookies are small text files which are sent to your computer and enable our website to recognise you. They are not computer programmes and are incapable of reading any material on your hard disk or disseminate viruses. They only contain such information as you have provided to us on the website. You can set up your computer so that it rejects cookies, (you will find instructions on how to do this at [www.allaboutcookies.org](http://allaboutcookies.org/) but in doing so, in common with other online shopping facilities, you will be unable to use the shopping facility on this site.
 
 We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We use this information for statistical analysis purposes and then the data is removed from the system.
 
@@ -141,94 +99,55 @@ Overall, cookies help us provide you with a better website, by enabling us to mo
 
 Please note: We do not use cookies to store any of your personal or financial information on your computer.
 
-  
-
-
 * * *
 
-  
-
-
-## WHERE WE STORE YOUR PERSONAL DATA
+#### WHERE WE STORE YOUR PERSONAL DATA
 
 All information that you supply us with is stored on our secured servers. Any payment details will be encrypted using SSL technology to try to prevent unauthorised access.
 
-  
-
-
 * * *
 
-  
-
-
-## SECURITY
+#### SECURITY
 
 We take security seriously and we take precautions to keep your personal information secure. We have put in place appropriate physical, electronic and managerial procedures to safeguard the information we collect. However, due to the open communication nature of the Internet, we cannot guarantee that communications between you and us, or information stored on our servers, will be free from unauthorised access by third parties.
 
-  
-
-
 * * *
 
-  
-
-
-## DATA PROTECTION
+#### DATA PROTECTION
 
 We comply with all of the applicable data protection laws in the UK. We do not share any data collected via our website with any third party partners but we may send you emails on their behalf if you opt in to receive email from third parties.
 
-  
-
-
 * * *
 
-  
-
-
-## LINKS TO THIRD PARTIES
+#### LINKS TO THIRD PARTIES
 
 We may provide links to third party websites from time to time that we believe may be of interest to you. We do not control nor vet these websites. We advise you to read the Privacy Policy applicable to each third party site you visit and we will not accept any responsibility for or liability in respect of either the contents or your use of these third party sites.
 
-  
-
-
 * * *
 
-  
-
-
-## LINKS TO OTHER WEBSITES
+#### LINKS TO OTHER WEBSITES
 
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-  
-
-
 * * *
 
-  
-
-
-## CONTROLLING YOUR PERSONAL INFORMATION
+#### CONTROLLING YOUR PERSONAL INFORMATION
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by Offspring or companies of Offspring’s careful selection for direct marketing purposes
   * if you have previously agreed to Offspring using your personal information for direct marketing purposes, you may change your mind at any time by unsubscribing via our marketing emails or emailing us at [help@offspring.co.uk](mailto:customerservice@offspring.co.uk)
   * if you have previously agreed to Offspring sharing your personal information with companies of Offspring’s careful selection for direct marketing purposes, you may change your mind at any time by emailing us at [help@offspring.co.uk](mailto:customerservice@offspring.co.uk)
-  * We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
-  * You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Data Protection Offspring, Ecommerce Team, Classic House,  
+
+
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Data Protection Offspring, Ecommerce Team, Classic House,  
 Martha's Buildings, 180 Old Street, London EC1V 9BP
-  * If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
-  
-
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
 * * *
 
-  
-
-
-## CONTACT US
-
-If you have any questions, please feel free to contact us by email at: [help@offspring.co.uk](mailto:customerservice@offspring.co.uk)
+#### CONTACT US
