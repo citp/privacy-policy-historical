@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uksmallbusinessdirectory.co.uk privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508101934id_/http%3A//www.uksmallbusinessdirectory.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uksmallbusinessdirectory.co.uk privacy policy that was archived on 2015-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151030125616id_/http%3A//www.uksmallbusinessdirectory.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # UK Small Business Directory - privacy policy
 
@@ -234,3 +234,5 @@ GL56 0LA
 and our business address is;
 
 [Contact](http://www.uksmallbusinessdirectory.co.uk/contact.asp) : [Premier](http://www.uksmallbusinessdirectory.co.uk/premier.htm) : [How To](http://www.uksmallbusinessdirectory.co.uk/how-to/) : [IT Services](http://www.uksmallbusinessdirectory.co.uk/it.htm) : [Business Services](http://www.uksmallbusinessdirectory.co.uk/business-services.htm) : [Business Insurance](http://www.uksmallbusinessdirectory.co.uk/insurance/) : [Search Engine Optimisation](http://www.uksmallbusinessdirectory.co.uk/search-engine-optimisation.htm) : [Online Marketing](http://www.uksmallbusinessdirectory.co.uk/online-marketing.htm) : [Website Design](http://www.uksmallbusinessdirectory.co.uk/website-design.htm) : [Free Online Advertising](http://www.uksmallbusinessdirectory.co.uk/advertising.html) : [Business Mobiles](http://www.uksmallbusinessdirectory.co.uk/Uksbdphones/business-mobile-phones.html) : [Full Listings](http://www.uksmallbusinessdirectory.co.uk/full_list.asp) : [Help](http://www.uksmallbusinessdirectory.co.uk/help.html)
+
+© 2015 UKSBD - UK Small Business Directory - The Online Business Directory and Business Listings Website 
