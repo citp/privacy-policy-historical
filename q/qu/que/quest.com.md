@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the quest.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318222043id_/http%3A//software.dell.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quest.com privacy policy that was archived on 2015-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151030041533id_/http%3A//software.dell.com/legal/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement | Dell Software
 
-This privacy statement is applicable to the software.dell.com website (“This Website,” “We”, “our” or “us”). This Website brings together several of Dell’s software product lines (Dell Software, Inc. (formerly known as Quest Software Inc.), Boomi, and Kace) (collectively, the “Dell Software Portfolio”) and is part of the Dell group of companies. This privacy statement does not apply to the websites of Boomi, Kace, other Dell subsidiaries, Business Partners, or to the websites any other third parties, even if links to their websites are on our website. We recommend you review the privacy statements of the other parties with which you interact.
+This privacy statement is applicable to the software.dell.com website (“This Website,” “We”, “our” or “us”). This Website brings together several of Dell’s software product lines (Dell Software, Inc. (formerly known as Quest Software Inc.), Boomi, and Kace) (collectively, the “Dell Software Portfolio”) and is part of the Dell group of companies. This privacy statement does not apply to the websites of Boomi, other Dell subsidiaries, Business Partners, or to the websites any other third parties, even if links to their websites are on our website. We recommend you review the privacy statements of the other parties with which you interact.
 
 If you would like to view our Privacy Policy by country, [please click here.](https://web.archive.org/legal/privacy-policy-by-country.aspx)
 
@@ -10,11 +10,7 @@ This privacy statement governs information we collect from you when you use Dell
 
 For purposes of this privacy statement, "Business Partners" means subcontractors, vendors or other entities with whom we have ongoing business relationships to provide products, services or information, as well as our distributors and resellers. "Personal Information" means information that can identify you, such as your name, telephone number, address, billing information and email address.
 
-This Website has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/program_requirements_website_privacy.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through our web site: [software.dell.com](http://software.dell.com/) and does not cover Personal Information collected through downloadable software.
-
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [listmaster@software.dell.com](mailto:listmaster@software.dell.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
-
-Dell Software Inc. (not including the SonicWall line of business) and Boomi comply with the U.S. – E.U. and U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from European Union member countries and Switzerland. Dell Software Inc. and Boomi have certified that they adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Dell Software Inc.’s or Boomi’s certification, please visit <http://www.export.gov/safeharbor>.
+Boomi complies with the U.S. – E.U. and U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from European Union member countries and Switzerland. Boomi have certified that they adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Boomi’s certification, please visit <http://www.export.gov/safeharbor>. TRUSTe serves as an independent third-party recourse to provide localized dispute resolution of consumer complaints about Boomi online data collection, as required for Safe Harbor compliance. Should you have any questions about Boomi’s Safe Harbor status, please contact us at [privacy@boomi.com](mailto:privacy@boomi.com). If you are not satisfied with our response, you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
  **Information We Collect**
 
@@ -103,6 +99,14 @@ For more information regarding the privacy and data collection practices of thir
 
  **Chango:** Information regarding the privacy and data collection practices for Chango is located at <http://www.chango.com/privacy/policy/>.
 
+ **Spiceworks:** Information regarding the privacy and data collection practices for Facebook is located at <http://www.spiceworks.com/privacy/>.
+
+ **AppNexus:** Information regarding the privacy and data collection practices for RocketFuel is located at <http://www.appnexus.com/privacy-policy>.
+
+ **MediaMath:** Information regarding the privacy and data collection practices for Quantcast is located at <http://www.mediamath.com/privacy-policy/>.
+
+ **The Trade Desk:** Information regarding the privacy and data collection practices for Chango is located at <http://www.thetradedesk.com/privacy-policy/>.
+
 Similarly, third parties use cookies to deliver advertising for companies other than those within the Dell Software Portfolio to you on the Internet, based on your visits to This Website and other websites, and to measure the effectiveness of those advertising campaigns. These cookies can be effective whether you are on This Website or another website.  These cookies assist the third parties in identifying the pages you view, the links and ads you click on, other actions you take on those web pages, and the website from which you came before arriving at a web page.
 
  **“Do Not Track” Signals**
@@ -143,10 +147,10 @@ This Website may contain links to third-party sites. We cannot control and are n
 
  **Effective Date and Notification of Changes to our Privacy Statement**
 
-This Privacy Statement is effective as of March 1, 2015. We reserve the right to change this Privacy Statement at any time. If we materially change this Privacy Statement, we will either notify you by email (sent to the e-mail address specified in your account) or post a prominent notice on This Website. Changes are effective as of the date we post them on the privacy statement page of This Website. We encourage you to periodically review this Privacy Statement.
+This Privacy Statement is effective as of June 16, 2015. We reserve the right to change this Privacy Statement at any time. If we materially change this Privacy Statement, we will either notify you by email (sent to the e-mail address specified in your account) or post a prominent notice on This Website. Changes are effective as of the date we post them on the privacy statement page of This Website. We encourage you to periodically review this Privacy Statement.
 
  **Contacting Dell Software Group**
 
-If you have questions or concerns regarding this Privacy Statement, please contact us at [webmaster@software.dell.com](mailto:webmaster@software.dell.com) or via postal mail at Dell Software, 5 Polaris Way, Aliso Viejo, CA 92656. If you wish to cancel your account or request that we no longer use your information to provide you services, contact us at [listmaster@software.dell.com](mailto:listmaster@software.dell.com). We will retain and use your Personal Information as necessary to comply with our legal obligations, resolve disputes, enforce our agreements, and for other necessary business purposes.
+If you have questions or concerns regarding this Privacy Statement, please contact us at [webmaster@software.dell.com](mailto:webmaster@software.dell.com) or via postal mail at Dell Software, 4 Polaris Way, Aliso Viejo, CA 92656. If you wish to cancel your account or request that we no longer use your information to provide you services, contact us at [listmaster@software.dell.com](mailto:listmaster@software.dell.com). We will retain and use your Personal Information as necessary to comply with our legal obligations, resolve disputes, enforce our agreements, and for other necessary business purposes.
 
-Page last updated: March 1, 2015
+Page last updated: June 16, 2015
