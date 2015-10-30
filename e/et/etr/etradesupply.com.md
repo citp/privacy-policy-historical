@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etradesupply.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610093151id_/http%3A//www.etradesupply.com/knowledge-base/cat/policies-terms/post/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etradesupply.com privacy policy that was archived on 2015-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151030134733id_/http%3A//www.etradesupply.com/knowledge-base/cat/policies-terms/post/privacy-policy) for the most accurate reproduction.*
 
 # Knowledge Base - Privacy Policy - ETrade Supply
 
