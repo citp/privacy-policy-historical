@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ruled.me privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629012618id_/http%3A//www.ruled.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ruled.me privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031060141id_/http%3A//www.ruled.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ruled Me
 
@@ -39,5 +39,3 @@ The information provided on this site, including text and graphics, is for infor
 Recipes and information on this site should not be used without consulting a medical professional who is experienced in the administration of the ketogenic diet. Although some recipes found on ruled.me may have been verified as “ketogenic” by qualified dietitians, they are not tailored to meet the specific nutritional requirements of all individuals. Serious harm could occur if the ketogenic diet is utilized without proper oversight from medical professionals. The ketogenic diet in any form or ratio should NEVER be started on your own without the guidance of qualified medical advice.
 
 It is your responsibility to evaluate the information and results from the tools and information we provide. If you are a health care professional, you should exercise your professional judgment in evaluating any information, and we encourage you to confirm the information contained on our website with other sources before undertaking any treatment or action based on it. If you are a consumer, you should evaluate the information together with your physician or other qualified health care professional.
-
-* * *
