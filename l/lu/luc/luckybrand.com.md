@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luckybrand.com privacy policy that was archived on 2015-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150501020145id_/http%3A//www.luckybrand.com/privacy-and-security/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luckybrand.com privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031155338id_/http%3A//www.luckybrand.com/privacy-and-security/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy and Security
 
@@ -37,6 +37,8 @@ We do not knowingly sell or ship any items ordered through this Website directly
 LUCKY'S USE AND DISCLOSURE OF COLLECTED INFORMATION
 
 Use by Lucky: We may use your PII to provide you with requested information, services or content, to contact you in connection with a promotion, or for other purposes disclosed when you provide the information. We may also contact you from time to time on behalf of one of our affiliated companies or an external business partner with information that may be of interest to you. We may also contact you regarding any problems or questions we have relating to your use of our Website, or, in our discretion, notify you of changes to our Privacy Policy, Terms of Use or other policy or terms that affect you and your use of our Website. We may also use information about our users, including PII, for internal purposes. _PII COLLECTED BY LUCKY IS, HOWEVER, NEVER SOLD TO A THIRD PARTY._
+
+We use third-party companies to help us serve targeted product recommendations. These companies may use data about you in order to provide recommendations for products and services that might be of interest to you. To learn more about this behavioral advertising practice or to opt out of this type of advertising, you can visit [networkadvertising.org](https://www.networkadvertising.org/)
 
 WITH WHOM DOES LUCKY SHARE INFORMATION?
 
