@@ -1,51 +1,46 @@
-> *The following text is extracted and transformed from the phpscriptsmall.com privacy policy that was archived on 2015-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150413013503id_/http%3A//phpscriptsmall.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpscriptsmall.com privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031213107id_/http%3A//www.phpscriptsmall.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PHP Scripts Mall
 
-PHPSCRIPTSMALL.COM respects and commits to protect your privacy. Therefore this Private Policy is made in order to make you understand that we respect and keep your Private Information.
+This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-Private Information means every information which can be used to identify someone, like name, address, email address or other contact information, whether at work or home. Generally, you can visit our web page without informing us about who you are or revealing any private information about you..
+**What personal information do we collect from the people that visit our blog, website or app?**
 
-This Private Policy organizes how PHPSCRIPTSMALL.COM is using and protecting all information form which you give to PHPSCRIPTSMALL.COM when you use this site. PHPSCRIPTSMALL.COM commits to guarantee that your privacy is protected. We ask you to give certain information which you can be identified with it when you use this site, then you can convinced that the data will be used according to this private policy only.
+When using our site, as appropriate, you may be asked to enter your name, email address or other details to help you with your experience.
 
- **Collected Information**
+**How do we use your information?**
 
-PHPSCRIPTSMALL.COM collects private information such as name, address, email, phone number, etc… appropriate with the information that our visitors inserted. We need the information to understand your needs and to improve our services qualities, like these several reasons:
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, unlock the content, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
- **Internal Note**
+  * To personalize user’s experience and to allow us to deliver the type of content and product offerings in which you are most interested
+  * To improve our website in order to better serve you.
+  * To allow us to better service you in responding to your customer service requests.
+  * To administer a contest, promotion, survey or other site feature.
+  * To send periodic emails regarding your order or other products and services.
 
-We will use the information to improve products and services.  
-We can send promotion email about new products, special offer as well as other attractive information to your attached email address.  
-Along with the time goes, we may be use the information for the needs of market research. We can contact you by email, phone, fax or letter. We can use the information to adjust the site with your interest.
 
- **Confidentiality and Security**
 
-PHPSCRIPTSMALL.COM will do maximum action according to our policy in order to avoid the lost and misuse of your private information. We keep policy firmly “No-Spam” which means we are not sell, rent or give email address to third party, without your agreement or permitted by this Private Policy.
+**Do we use ‘cookies’?**
 
- **Uncollected Information**
+Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-When you visit our site, we do not collect name, email address or other private information, except if you give them to us.  
-We do not save credit card data or payment media information which you use in doing the payment of our products, because your payment is process by third party which in this case are merchants like Bank, Credit card processor, etc…
+We use cookies to:
 
- **Purchases**
+  * Understand and save user’s preferences for future visits.
+  * Memorize the users who have unlocked access to premium content.
 
-If you do purchases from PHPSCRIPTSMALL.COM, we need name, address, email, phone number and other private information, but we do not save credit card data or payment media information that you use, because your payment will be processed by third party which in this case are merchants like Bank, Credit card processor, etc…
 
- **Third Party**
 
-Several pages in PHPSCRIPTSMALL.COM may be will include link to third party web site. This site is arranged by their own private proposal, and we are not responsible for their operation. In giving information to third party web site, suggested to you to observe private proposal from those sites before giving your private information.
+If you disable cookies off, some features will be disabled. It will affect the users experience and some of our services will not function properly.
 
- **Information Distribution**
+**Third Party Disclosure**
 
-We may share information with governmental agencies or other companies that help us to an investigation or to prevent fraud and deception. We will only disclose your personal information in state as follows:  
-(1) For the purposes or interests of any applicable law, we are required to disclose your personal information,  
-(2) In connection with the legal process is or where it will take place.  
-(3) In order to provide information on authorized institutions with the aim of prevention of irregularities, and reduce credit risk.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety.
 
- **Contact Us**
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please mail to info@phpscriptsmall.com
+**Third party links**
 
- **Changes to this Privacy Policy**
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-EGN may updates this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your account or by placing a prominent notice on our site.
+If there are any questions regarding this privacy policy you may contact us **info@phpscriptsmall.com**.
