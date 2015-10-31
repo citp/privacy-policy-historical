@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dispop.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617164654id_/https%3A//dispop.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dispop.com privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031100104id_/https%3A//dispop.com/privacyPolicy) for the most accurate reproduction.*
 
 # Dispop - Privacy Policy
 
