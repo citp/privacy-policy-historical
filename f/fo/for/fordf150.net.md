@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the fordf150.net privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206152457id_/http%3A//www.fordf150.net/misc/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fordf150.net privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031212246id_/http%3A//www.fordf150.net/misc/privacy-policy.php) for the most accurate reproduction.*
 
 # FordF150.net Privacy Policy
-
-| 
 
 NOTE: By using this site, you agree to the terms of the FordF150.net privacy policy. If you do not agree to these terms, please do not use this site.
 
@@ -17,9 +15,9 @@ NOTE: By using this site, you agree to the terms of the FordF150.net privacy pol
 
 
 Here is the information we have right now regarding your visit:  
-**IP Address:** 174.129.228.67  
+**IP Address:** 207.241.237.221  
 **Remote Hostname:**   
-**Referring Page:**
+**Referring Page:** http://www.fordf150.net/
 
 ## Information Sharing And Disclosure
 
@@ -49,17 +47,14 @@ We aren't responsible for information that may be gathered by ad networks, affil
   * Google, as a third party vendor, uses cookies to serve ads on your site.
   * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
   * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
-  * If you have questions or complaints regarding our privacy policy or use of your information, please [contact us using this form](https://web.archive.org/support/) or by mail at:  
+  * If you have questions or complaints regarding our privacy policy or use of your information, please [contact us using this form](https://web.archive.org/misc/contactus.php) or by mail at:  
 FordF150.net  
 P.O. Box 2032  
 Moose Jaw, SK S6H 7N7  
 Canada
   * Our web site links to documents located on sites maintained by other agencies and organizations. Once you access another site, you are subject to the privacy policy of that site. Privacy policies of advertising networks and partner sites: 
     * [Google privacy policy](http://www.google.com/privacypolicy.html)
-    * [AllDataDIY privacy policy](http://www.alldata.com/privacy/index.html)
-    * [CARFAX privacy policy](http://www.carfax.com/cfm/ofprivacy.cfm)
     * [Amazon.com privacy policy](http://www.amazon.com/gp/help/customer/display.html/104-4319992-5218343?ie=UTF8&nodeId=468496)
-    * [FordDirect.com privacy policy](http://www87.forddirect.fordvehicles.com/Dispatch.jsp?.CurrentState=Privacy)
 
 
 
