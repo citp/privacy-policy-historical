@@ -1,73 +1,68 @@
-> *The following text is extracted and transformed from the justaroundtown.com privacy policy that was archived on 2014-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140522175907id_/http%3A//www.justaroundtown.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justaroundtown.com privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031073708id_/http%3A//justaroundtown.com/Vehicle/Privacy.aspx) for the most accurate reproduction.*
 
-# JustAoundTown.com Privacy Policy
+# Autos by JustAroundTown.com New Cars, Used Cars - Find Cars for Sale and Reviews at JustAroundTown.com
 
-**JustAroundTown Privacy Policy**
+**JustAroundTown.com is owned and operated by Just Around Town.**
 
-This privacy policy describes how we handle your personal information. We collect, use, and share personal information to help the JustAroundTown website (“JustAroundTown ”) work and to keep it safe (details below). This policy is effective 6/29/2007. 
+This privacy notice discloses the privacy practices for [www.JustAroundTown.com](http://www.justaroundtown.com/) . This privacy notice applies solely to information collected by this web site. It will notify you of the following:
 
-  
- 
+  1. What personally identifiable information is collected from you through the web site, how it is  
+used and with whom it may be shared. 
+  2. What choices are available to you regarding the use of your data. 
+  3. The security procedures in place to protect the misuse of your information. 
+  4. How you can correct any inaccuracies in the information. 
 
- **Collection.** Information posted on JustAroundTown is obviously publicly available. Our servers are located in the United States and in the European Union. Therefore, if you choose to provide us with personal information, you are consenting to the transfer and storage of that information on our servers in the United States and Europe. We collect and store the following personal information: 
 
-  
- 
 
-·       email address, physical contact information, and (depending on the service used) sometimes financial information; 
+**Information Collection, Use, and Sharing**
 
-·       computer sign-on data, statistics on page views, traffic to and from JustAroundTownand ad data (all through cookies – you can take steps to disable the cookies on your browser although this is likely to affect your ability to use the site); 
+We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
 
-·       other information, including users IP address and standard web log information. 
+We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order.
 
-  
- 
+Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
 
- **Use.** We use users’ personal information to: 
+ **Your Access to and Control Over Information**
 
-  
- 
+You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website:
 
-·       provide our services 
+  * See what data we have about you, if any. 
+  * Change/correct any data we have about you. 
+  * Have us delete any data we have about you. 
+  * Express any concern you have about our use of your data. 
 
-·       resolve disputes, collect fees, and troubleshoot problems; 
 
-·       encourage safe trading and enforce our policies; 
 
-·       customize users’ experience, measure interest in our services, and inform users about services and updates; 
+**Security**
 
-·       communicate marketing and promotional offers to you; 
+We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline.
 
-·       do other things for users as described when we collect the information. 
+Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for "https" at the beginning of the address of the web page.
 
-  
- 
+While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
 
- **Disclosure.** We don’t sell or rent users’ personal information to third parties for their marketing purposes without users explicit consent. We may disclose personal information to respond to legal requirements, enforce our policies, respond to claims that a posting or other content violates other’s rights, or protect anyone’s rights, property, or safety. We may also share personal information with: 
+If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 973-964-5520 or via email [privacy@justaroundtown.com](mailto:pricacy@justaroundtown.com) .
 
-  
- 
+ **Registration**
 
-·       corporate affiliates who help detect and prevent potentially illegal acts and provide joint services. (Our corporate affiliates will market only to users who ask them to). 
+In order to fully use this website, a user must first complete the registration form. During registration a user is required to give certain information (such as name and email address). This information is used to contact you about the products/services on our site in which you have expressed interest. At your option, you may also provide demographic information (such as gender or age) about yourself, but it is not required.
 
-·       service providers who help with our business operations. 
+ **Orders**
 
-  
- 
+We request information from you on our order form. To buy from us, you must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill your orders. If we have trouble processing an order, we'll use this information to contact you. 
 
- **Using Information from** JustAroundTown **.** You may use personal information gathered from JustAroundTown only to follow up with another user about a specific posting, not to send spam or collect personal information from someone who hasn’t agreed to that. 
+**Cookies**
 
-  
- 
+We use "cookies" on this site. A cookie is a piece of data stored on a site visitor's hard drive to help us improve your access to our site and identify repeat visitors to our site. For instance, when we use a cookie to identify you, you would not have to log in a password more than once, thereby saving time while on our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Usage of a cookie is in no way linked to any personally identifiable information on our site. Some of our business partners may use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies.
 
- **Access, Modification, and Deletion.** You can see, modify or erase your personal information by reviewing your posting or account status page. Contact customer support ([privacy@JustAroundTown .com](mailto:privacy@justaroundtown.com) ) to review any personal information we store that is not available on JustAroundTown . There may a charge associated with such requests but these will not exceed the amounts permitted by law. We delete personal information when we no longer need it for the purposes we described earlier. We retain personal information as permitted by law to resolve disputes, enforce our policies; and prevent bad guys from coming back. 
+ **Sharing**
 
-  
- 
+We share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person. We use a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes beyond filling your order.
 
- **Security.** We use lots of tools (encryption, passwords, physical security) to protect your personal information against unauthorized access and disclosure, but as you probably know, nothing’s perfect, so we make no guarantees. 
+ **Links**
 
-  
- 
+This web site contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
 
- **General.** We may update this policy at any time, with updates taking effect when you next post or after 30 days, whichever is sooner. If we or our corporate affiliates are involved in a merger or acquisition, we may share personal information with another company, but this policy will continue to apply. Send questions about this policy to [privacy@JustAroundTown.com](mailto:privacy@justaroundtown.com). 
+ **Surveys and Contests**
+
+From time-to-time our site requests information via surveys or contests. Participation in these surveys or contests is completely voluntary and you may choose whether or not to participate and therefore disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. 
