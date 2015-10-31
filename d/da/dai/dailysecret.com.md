@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailysecret.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629003455id_/http%3A//company.dailysecret.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailysecret.com privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031134328id_/http%3A//company.dailysecret.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Daily Secret Company
 
