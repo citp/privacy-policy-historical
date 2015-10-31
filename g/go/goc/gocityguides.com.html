@@ -1,328 +1,791 @@
-<!--The following is the downloaded HTML source of the gocityguides.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607175810id_/http%3A//www.gocityguides.com/delhi/content/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gocityguides.com privacy policy that was archived on 2015-10-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151031182838id_/http%3A//www.gocityguides.com/content/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><link href="/css/style-gocity.css" rel="stylesheet" type="text/css">
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head><link rel="icon" type="image/png" href="http://www.gocityguides.com/images/favicon.png"><link rel="apple-touch-icon-precomposed" href="http://www.gocityguides.com/images/favicon.png"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"><meta name="google-site-verification" content="mSHEMbEmo4Y78KkKkHcYxfvRV14-_IhTSeq2eG3vyW4">
+     <link href="/style/styles.css" rel="stylesheet" type="text/css">
+     <link href="/style/font-family.css" rel="stylesheet" type="text/css">
+     <link href="/style/font-awesome.min.css" rel="stylesheet" type="text/css">
+     <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/js/jquery-1.11.3.min.js"></script>
 
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+     
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-    <script type="text/javascript" src="/javascript/prototype.js"></script>
-
+  ga('create', 'UA-65028871-1', 'auto');
+  ga('send', 'pageview');
+setTimeout("ga('send','event','Engaged users','More than 15 seconds')",15000);
+</script>
     
-<meta name="keywords" content="gocityguides, local city guide, events in India, music concerts, theatre drama in India, food and nightlife, restaurants, hotels, sightseeing, shopping in the city, services "><meta name="description" content="Gocityguides is your friendly city guide and provides detailed information as the city unfolds; gives details about events in the city like music concerts, dance shows, drama, theatre festivals, talks, Exhibition and sale, Restaurants, food and nightlife in the city, hotels, sightseeing places, tourist spots, shopping, service providers etc ."><title>
+<title>
 	Vasundhara Media Pvt. Ltd
 </title></head>
-<body style="background-color: #DBDBDB">
-    <form name="aspnetForm" method="post" action="privacy-policy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMjMzNzMwOTczZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUbY3RsMDAkdnJ2X2hlYWRlciRpbWdfc2VhcmNoRaCJmU71Bq3r+TpndbV/i8KMh5I=">
+<body>
+    <form name="aspnetForm" method="post" action="privacy-policy" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMjMzNzMwOTczZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUYY3RsMDAkSGVhZGVyMSRpbWdfc2VhcmNoXfyyGoIdyC+EQxIwSjz+WCjhXIrszmyH7yXueNjLg1E=">
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="E980E0F1">
-    <div class="wrapper">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAfr/gi7iqSNpBz2Nn3wfbv7CI/rSkLefiIl/cFGj/0xFPKBbmynNxpYbAz3bkdD61H6h4r3bQVM8grgT52nI2Xr8/ekMarFy5FbdYuOPl/q5y1pc5+3v9nWL1u6FVyH62AL/VKNlYehy0o7NeAen3QkFBnjDwljRlx9S7uHDlABeGS/3a6XBRPRUznbNRAUdhs=">
+    <div class="wraper">
         
 
-<script language="javascript" type="text/javascript">
+   <link href="/style/normalize.css" rel="stylesheet">
+    <link href="/style/site-icons.css" rel="stylesheet">
+    <link href="/style/mobile-style.css" rel="stylesheet">
+    <link href="/style/jquery.mobile-menu.css" rel="stylesheet">
 
-    function frm_onsubmit() {
-        if (document.getElementById("chk_category").checked == false) {
-            if (on_click() == false) {
-                
-                if (document.getElementById("dv_category_anable")) {
-                    alert("Please enter search Category");                    
-                }
-                return false;
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script type="text/ecmascript">
+        $(document).ready(function() {
+            $("#ctl00_Header1_ddlCity").change(function () {
+                eraseCookie('CityName');
+                createCookie('CityName', $('option:selected', $(this)).text(), '30');
+                eraseCookie('CityId');
+                createCookie('CityId', $(this).val(), '30');
+                eraseCookie('CCId');
+                createCookie('CCId', 1, '30');
+                 window.location.href = 'http://www.gocityguides.com' + '/' + $('option:selected', $(this)).text().toLowerCase();
+                //window.location.href = 'http://localhost' + '/' + $('option:selected', $(this)).text().toLowerCase();
+        });
+        });
+function destroy_restuarentCookies() {
+            eraseCookie('FieldIDs');
+            eraseCookie('FilterIDs');
+            eraseCookie('SortBy');
+            eraseCookie('EventCategoryIds');
+            eraseCookie('sprice');
+            eraseCookie('eprice');
+            window.location.href = '/delhi/restaurant/restaurant';
+    }
+        function createCookie(name, value, days) {
+            if (days) {
+                var date = new Date();
+                date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+                var expires = "; expires=" + date.toGMTString();
+            }
+            else var expires = "";
+            document.cookie = name + "=" + value + expires + "; path=/";
+        }
+        function eraseCookie(name) {
+            createCookie(name, "", -1);
+        }
+       
+    </script>
+
+<script>
+    $(document).ready(function () {
+        $("#srch-show-hide").click(function () {
+            $(".search_bg").toggle();
+        });
+    });
+</script>
+   
+
+<div class="header">
+   <div class="logo"><a href="http://www.gocityguides.com"> <img alt="Book City Sightseeing Tours, Restaurants, Shopping and Events – delhi" title=" Book City Sightseeing Tours, Restaurants, Shopping and Events – delhi " src="/images/logo.png" width="264" height="36"></a></div>
+    <div class="left header-c row">
+      <div class="top-nav">
+        <ul class="mnav right">
+            <li><a href="#" class="Viewsample"><span class="glyphicon"><i class="fa fa-envelope-o"></i></span> Signup</a></li>
+            <li id="ctl00_Header1_login_user"><a href="#" class="login"><span class="glyphicon"><i class="fa fa-lock"></i></span> Login</a></li>
+            <li id="ctl00_Header1_logout_user" onclick="destroy_usersession();" style="display:none"><a href="#"><span class="glyphicon"><i class="fa fa-lock"></i></span>
+                <span id="ctl00_Header1_lbl_username"></span> </a></li>
+            <li class="notcontact"><span class="glyphicon"><i class="fa fa-phone"></i></span> 011-44111144</li>
+        </ul>
+      </div>
+      <div class="row search_row" style="margin-left:47px;">
+        <div class="search left">
+             <a href="#" id="srch-show-hide"><span class="fa fa-search srch-show-hide"></span></a>
+          <div class="selectCover"> 
+     
+              <select name="ctl00$Header1$ddlCity" id="ctl00_Header1_ddlCity" class="selectScreen">
+	<option selected="selected" value="1">Delhi</option>
+	<option value="4">Pune</option>
+	<option value="5">Jaipur</option>
+	<option value="6">Udaipur</option>
+
+</select>
+            
+          </div>
+        </div>
+        <div class="search_bg left shadow">
+          
+            
+
+
+ <link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.1/themes/base/jquery-ui.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.1/jquery-ui.min.js"></script>  
+	<script type="text/javascript">
+
+	    $(function () {
+
+	        $("input:text[id*='txt_Search']").autocomplete({
+	            
+	            source: function(request, response) {
+	                $.ajax({
+	                    url: "/webservice/CategorySearch.asmx/getAllCategoryListSearch",
+	                    data: "{ 'mint_CityId':'1', 'mstr_SearchText' : '" + request.term + "'}",
+	                    dataType: "json",
+	                    type: "POST",
+	                    contentType: "application/json; charset=utf-8",
+	                    dataFilter: function(data) { return data; },
+	                    success: function (data) {
+	                       
+	                        eraseCookie('CCId');
+	                        eraseCookie('isPost');
+	                        createCookie('isPost', '0', '30');
+
+	                        response($.map(data.d, function (item) {
+	                            return {
+	                                label: item.SearchName,
+	                                val: item.Id + ',' + item.SType + ',' + item.ClientCategoryUrl + ',' + item.LocalityName + ',' + item.GroupName
+	                            }
+	                        }))
+	                    },
+	                    error: function (data) {
+	                        
+	                    }
+	                });
+	            },
+	            delay: 0,
+	            autoFocus: true,
+	            select: function (e, i) {
+	                var array = i.item.val.split(",");
+	                if (array[1]=="2") {
+	                    window.location.href = "/delhi/" + array[3].toLowerCase() + "/" + array[4].toLowerCase() + "/" + array[2];
+	                }
+	                else {
+	                    eraseCookie('CCId');
+	                    createCookie('CCId', array[0], '30');
+	                        window.location.href = "/delhi/" + array[4].toLowerCase() + "/" + array[2];
+	                }
+	               
+	            },
+	            minLength: 2
+	        });
+	    });
+	    function createCookie(name, value, days) {
+	        if (days) {
+	            var date = new Date();
+	            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+	            var expires = "; expires=" + date.toGMTString();
+	        }
+	        else var expires = "";
+	        document.cookie = name + "=" + value + expires + "; path=/";
+	    }
+	    function eraseCookie(name) {
+	        createCookie(name, "", -1);
+	    }
+	</script>
+	<script type="text/javascript" lang="javascript">
+         function on_click() 
+         {
+            if (document.getElementById("ctl00_Header1_vrv_SearchClientCategory_txt_SearchCategory")) 
+	        {
+	            if (document.getElementById("ctl00_Header1_vrv_SearchClientCategory_txt_SearchCategory").value == "" || document.getElementById("ctl00_Header1_vrv_SearchClientCategory_txt_SearchCategory").value == "Search Client/ Category [+]") 
+	            {
+	                document.getElementById("ctl00_Header1_vrv_SearchClientCategory_txt_SearchCategory").focus();	                
+	                document.getElementById("ctl00_Header1_vrv_SearchClientCategory_txt_SearchCategory").select();
+	                return false;
+	            }
             }
             else {
                 return true;
-            }
-        }   
-           
-            if (document.getElementById("chk_category").checked != false) {
-                
-                if (document.getElementById("ctl00_vrv_header_txt_category")) {
-                    if (checkBlankField(document.getElementById("ctl00_vrv_header_txt_category").value) == false) {
-                        alert("Please enter search Category");
-                        document.getElementById("ctl00_vrv_header_txt_category").focus()
-                        return false;
-                    }                     
-                }
-            }
-            return true;
-        }
-    
-        function chk_category_click()
+            }	       
+	    }
+        function on_textBoxChanges()
         {
-           if(document.getElementById("chk_category").checked != false)
-           {
-                document.getElementById("dv_category_anable").style.display = "none";
-                document.getElementById("dv_category_able").style.display = "inline";
-           } 
-           else
-           {
-                document.getElementById("dv_category_anable").style.display = "inline";
-                document.getElementById("dv_category_able").style.display = "none";
-           }
-        }
-        
-        function chk_locality_click()
-        {
-           if(document.getElementById("chk_locality").checked != false)
-           {
-                document.getElementById("dv_locality_anable").style.display = "none";
-                document.getElementById("dv_locality_able").style.display = "inline";
-           } 
-           else
-           {
-                document.getElementById("dv_locality_anable").style.display = "inline";
-                document.getElementById("dv_locality_able").style.display = "none";
-           }
-        }
-        
-        //For Category
-        
-        function RemoveCategoryTexts()
-        {
-            //alert("1");
-            //if (document.getElementById("ctl00_vrv_header_txt_category").value == "Search Category")
-            if (document.getElementById("ctl00_vrv_header_txt_category").value == "")
-            {
-                document.getElementById("ctl00_vrv_header_txt_category").value = "";     
-            }
-        }  
-            
-        function RemoveLocalityTexts()
-        {
-            //if (document.getElementById("ctl00_vrv_header_txt_locality").value == "Search Destination")
-            if (document.getElementById("ctl00_vrv_header_txt_locality").value == "")
-            {
-                document.getElementById("ctl00_vrv_header_txt_locality").value = "";     
-            }
-        }
-
-        window.onload = function() {
-            if(document.getElementById("dv_category_anable") != null)
-            {
-                document.getElementById("dv_category_anable").style.display = "inline";
-                document.getElementById("dv_category_able").style.display = "none";
-                document.getElementById("dv_locality_anable").style.display = "inline";
-                document.getElementById("dv_locality_able").style.display = "none";
-            }    
-        } 
-</script>
-
-
-<div id="header">
-    <div class="logo">
-        <a href="http://www.gocityguides.com/Delhi/default.aspx">
-            <img src="http://www.gocityguides.com/images/logo.gif" alt="gocityguides.com" title="gocityguides.com" border="0"></a>
-    </div>
-    <div class="Citys">
-        <div class="city-link">
-            <ul>
-                <span id="ctl00_vrv_header_dlist_cities" style="display:inline-block;"><span>
-                        <li class="selected"><a href="http://www.gocityguides.com/delhi/default.aspx">
-                            Delhi</a> </li>
-                    </span><span>
-                        <li class=""><a href="http://www.gocityguides.com/hyderabad/default.aspx">
-                            Hyderabad</a> </li>
-                    </span><span>
-                        <li class=""><a href="http://www.gocityguides.com/bangalore/default.aspx">
-                            Bangalore</a> </li>
-                    </span><span>
-                        <li class=""><a href="http://www.gocityguides.com/pune/default.aspx">
-                            Pune</a> </li>
-                    </span><span>
-                        <li class=""><a href="http://www.gocityguides.com/jaipur/default.aspx">
-                            Jaipur</a> </li>
-                    </span><span>
-                        <li class=""><a href="http://www.gocityguides.com/udaipur/default.aspx">
-                            Udaipur</a> </li>
-                    </span></span>
-            </ul>
-        </div>
-    </div>
-    <div id="search-panel">
-        <div class="search">
-            <div class="search-heading">
-                
-                <strong>Search:</strong> Company/ Category [ + ]
-            </div>
-            <div class="search-locality">
-                <div id="dv_category_anable" style="display: inline;">
-                    
-
-    
-	<script type="text/javascript">
-	    function on_click() {
-	        if (document.getElementById("ctl00_vrv_header_vrv_CategorySearch_txt_SearchCategory")) {
-	            if (checkBlankField(document.getElementById("ctl00_vrv_header_vrv_CategorySearch_txt_SearchCategory").value) == false) {
-	                
-	                document.getElementById("ctl00_vrv_header_vrv_CategorySearch_txt_SearchCategory").focus();
-	                return false;
+            if (document.getElementById("ctl00_Header1_vrv_SearchClientCategory_txt_SearchCategory")) 
+	        {
+	            if (document.getElementById("ctl00_Header1_vrv_SearchClientCategory_txt_SearchCategory").value == "") 
+	            {	                
+	                document.getElementById("ctl00_Header1_vrv_SearchClientCategory_txt_SearchCategory").value = "Search Client/ Category [+]";	                
 	            }
+            }
+        }
+        function on_textBoxClick()
+        {
+            if (document.getElementById("ctl00_Header1_vrv_SearchClientCategory_txt_SearchCategory")) 
+	        {
+	            if (document.getElementById("ctl00_Header1_vrv_SearchClientCategory_txt_SearchCategory").value == "Search Client/ Category [+]") 
+	            {	                
+	                document.getElementById("ctl00_Header1_vrv_SearchClientCategory_txt_SearchCategory").value = "";	               
+	            }
+            }
+        }
+	    function handle(e) {
+	        if (e.keyCode === 13) {
+	            return false;
 	        }
-	        else {
-	            return true;
-	        }
+
 	       
 	    }
-	    
-	    $(function() {
-	        $(".tb_category").autocomplete({
-	            source: function(request, response) {
-	            //debugger;//commented by vivek
-	                $.ajax({
-	                    
-	                    url: "http://www.gocityguides.com/webservice/CategorySearch.asmx/getWebSearchCategorys",
-	                    data: "{ 'mint_cityId':'1', 'mstr_CategoryName' : '" + request.term + "' }", 
-	                    dataType: "json",
-	                    type: "POST",
-	                    contentType: "application/json; charset=utf-8",
-	                    dataFilter: function(data) { return data; },
-	                    success: function(data) {
-	                    //alert(data);
-	                        
-	                            response($.map(data.d, function(item) {
-	                                return {
-	                                    value: item.ClientCategoryName
-	                                }
-	                        
-	                        }))
-	                    }//,
-	                    //error: function(XMLHttpRequest, textStatus, errorThrown) {
-	                       // alert(textStatus);
-	                   // }
-	                });
-	            },
-	            minLength: 2
-	        });
-	    });
 	</script>
-
+<style>
+ .ui-widget {
+  font-size: 12px !important;
+}
+</style>
     <div class="ui-widget">
         <label for="tbAuto"></label>
-         <input name="ctl00$vrv_header$vrv_CategorySearch$txt_SearchCategory" type="text" id="ctl00_vrv_header_vrv_CategorySearch_txt_SearchCategory" class="tb_category" style="height:15px; width:280px;">
-    </div>
-
-
-                </div>
-                <div id="dv_category_able" style="display: none;">
-                    <input name="ctl00$vrv_header$txt_category" type="text" id="ctl00_vrv_header_txt_category" onfocus="RemoveCategoryTexts()" style="height: 15px; width: 280px;">
-                </div>
-            </div>
-            <div style="width: 100%; float: left; margin: 0px; padding-top: 5px;">
-                <div style="float: left;">
-                    <input type="checkbox" name="chk_category" id="chk_category" value="1" onclick="return chk_category_click();"></div>
-                <div class="search-enable">
-                    Disable Auto Suggest</div>
-            </div>
-        </div>
-        <div class="search">
-            <div class="search-heading">
-                Which part of <strong>
-                    Delhi?</strong></div>
-            <div class="search-textbox">
-                <div id="dv_locality_anable" style="display: inline;">
-                    
-
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.1/jquery-ui.min.js"></script>
-
-<link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.1/themes/base/jquery-ui.css" rel="stylesheet" type="text/css">
-
-<script type="text/javascript">
-	    	    $(function() {
-	        $(".tb").autocomplete({
-	            source: function(request, response) {
-	            //debugger;//commented by vivek
-	                $.ajax({
-	                //url: "http://localhost/gocity/webservice/locality.asmx/getLocality",
-	                    url:"http://www.gocityguides.com/webservice/locality.asmx/getWebLocality",
-	                    data: "{ 'mint_cityId':'1', 'mstr_localitydesc' : '" + request.term + "' }", 
-	                    dataType: "json",
-	                    type: "POST",
-	                    contentType: "application/json; charset=utf-8",
-	                    dataFilter: function(data) { return data; },
-	                    success: function(data) {
-	                        //alert(data);
-	                        response($.map(data.d, function(item) {
-	                            return {
-	                                value: item.LocalityDesc
-	                            }
-	                        }))
-	                    }//,
-	                    //error: function(XMLHttpRequest, textStatus, errorThrown) {
-	                      //  alert(textStatus);
-	                    //}
-	                });
-	            },
-	            minLength: 2
-	        });
-	    });
-</script>
-
-<div class="ui-widget">
-    <label for="tbAuto">
-    </label>
-    <input name="ctl00$vrv_header$vrv_LocalitySearch$txt_Search" type="text" id="ctl00_vrv_header_vrv_LocalitySearch_txt_Search" class="tb" style="height: 15px; width: 280px;">
-</div>
-
-                </div>
-                <div id="dv_locality_able" style="display: none;">
-                    <input name="ctl00$vrv_header$txt_locality" type="text" id="ctl00_vrv_header_txt_locality" onfocus="RemoveLocalityTexts()" style="height: 15px; width: 280px;">
-                </div>
-            </div>
-            <div class="search-icon">
-                <input type="image" name="ctl00$vrv_header$img_search" id="ctl00_vrv_header_img_search" src="http://www.gocityguides.com/images/search-icon.gif" onclick="return frm_onsubmit();" border="0">
-            </div>
-            <div style="width: 100%; float: left; margin: 0px; padding-top: 5px;">
-                <div style="float: left;">
-                    <input type="checkbox" name="chk_locality" id="chk_locality" value="1" onclick="return chk_locality_click();"></div>
-                <div class="search-enable">
-                    Disable Auto Suggest</div>
-            </div>
-        </div>
-    </div>
-</div>
-
+         
+         <input name="ctl00$Header1$vrv_SearchClientCategory$txt_SearchCategory" type="text" value="Search Client/ Category [+]" id="ctl00_Header1_vrv_SearchClientCategory_txt_SearchCategory" class="left search_box" placeholder="Search Client/ Category [+]" onkeydown="return handle(event)" onclick="on_textBoxClick();" onblur="on_textBoxChanges()">
         
-<div id="menu-panel">
-    <div class="menu">
-        <ul>
-            
-            <li><a href="http://www.gocityguides.com/Delhi/default.aspx">Home</a></li>
-            
-            <li><a href="http://www.gocityguides.com/Delhi/eventlisting.aspx">Events</a></li>
-            
-            <li><a href="http://www.gocityguides.com/Delhi/food-night-life-listing.aspx">
-                Food &amp; Night Life</a></li>
-            
-            <li><a href="http://www.gocityguides.com/Delhi/shopping-services.aspx">Shopping
-                &amp; Services</a></li>
-            
-            <li><a href="http://www.gocityguides.com/Delhi/cityguidelisting.aspx">City Guide</a></li>
-            
-            <li><a href="http://www.gocityguides.com/Delhi/hotellisting.aspx">Hotels</a></li>
-            
-            <li><a href="http://www.gocityguides.com/Delhi/holidaypackage.aspx">Holiday Packages</a></li>
-            
-        </ul>
     </div>
-    <div id="login-panel">
-        <div class="login">
+
+
+             <span class="fa fa-search header-search-icon"> </span>
+            <input type="image" name="ctl00$Header1$img_search" id="ctl00_Header1_img_search" src="../images/search.png" onclick="javascript:return frm_onsubmit();" border="0" style="height:30px;  margin-top: 3px;display:none">
+        </div>
+      </div>
+    </div>
+    <div class="row contact-bg right">
+      <div class="left customercare"></div>
+      <div class="left contact-no">
+
+<a href="#" class="hint--top" data-hint="MON-SAT (10 A.M.to 6 P.M.)"><b>Concierge</b> </a>
+
+<br>
+
+
+
+        011-44111144</div>
+    </div>
+  </div>
+  <div class="nav2">
+    <ul class="abd">
+      <li><a href="#">What to <span class="sblue">DO</span></a>
+        <ul class="navcaret bluenav">
+            <li><a onclick="destroy_restuarentCookies();" href="javascript:void(0)"><span class="glyphicon fa fa-cutlery"></span>Restaurants &amp; Nightlife</a></li><li><a href="/delhi/events"><span class="glyphicon fa fa-calendar"></span>Events</a></li><li><a href="#" onclick="bindShoppingcategory(5)"><span class="glyphicon fa fa-shopping-cart"></span>Shopping</a></li><li><a href="#" onclick="bindShoppingcategory(6)"><span class="glyphicon fa fa-female"></span>Body &amp; Soul</a></li><li><a href="/delhi/shopping/museums"><span class="glyphicon fa fa-align-center"></span>Museums</a></li><li><a href="/delhi/shopping/art-galleries"><span class="glyphicon fa fa-picture-o"></span>Art Galleries</a></li>
+        </ul>
+
+      </li>
+     
+      <li><a href="#">How to <span class="green">EXPLORE</span></a>
+        <ul class="greennav navcaret">
+           <li><a href="/delhi/shopping/tourist-spots"><span class="glyphicon fa fa-car"></span>Tourist Spots in Delhi</a></li><li><a href="/delhi/tour"><span class="glyphicon fa fa-camera"></span>Tours &amp; Sightseeing</a></li><li><a href="/delhi/shopping/amusement-water-parks"><span class="glyphicon fa fa-tree"></span>Amusement Parks &amp; Entertainment</a></li><li><a href="/delhi/shopping/monuments"><span class="glyphicon fa fa-university"></span>Monuments in Delhi</a></li><li><a href="#" onclick="bindShoppingcategory(25)"><span class="glyphicon fa fa-taxi"></span>Travel Services</a></li><li><a href="/delhi/shopping/places-worship"><span class="glyphicon fa fa-tree"></span>Places of Worship in Delhi</a></li><li><a href="#" onclick="bindShoppingcategory(32)"><span class="glyphicon fa fa-trophy"></span>Sports</a></li>
+        </ul>
+      </li>
+     <li><a href="/delhi/booking">Where to <span class="pink">STAY</span></a></li>
+     <li><a href="#">Delhi&nbsp;<span class="orange">BLOG</span></a>
+        <ul class="ornknav navcaret">
+            <li><a href="/delhi/articles/restaurants"><span class="glyphicon fa fa-cutlery"></span>Delhi Food Musings</a></li><li><a href="/delhi/articles/city-guide"><span class="glyphicon fa fa-cutlery"></span>Delhi City Musings</a></li><li><a href="/delhi/articles/shoppings"><span class="glyphicon fa fa-cutlery"></span>Delhi Shopping Musings</a></li><li><a href="/delhi/articles/heritage-walks"><span class="glyphicon fa fa-cutlery"></span>Delhi Heritage Walks</a></li>
+        </ul>
+      </li>
+       <li style="display:none"><a href="#">delhi&nbsp;<span class="yellow">Helpline</span></a>
+        <ul class="yellnav navcaret">
+           <li><a href="/delhi/shopping/hospital-medical-centre"><span class="glyphicon fa fa-h-square"></span>Hospitals</a></li><li><a href="/delhi/shopping/ngos"><span class="glyphicon fa fa-users"></span>NGOs</a></li><li><a href="/delhi/shopping/police-stations"><span class="glyphicon fa fa-user-secret"></span>Police</a></li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+
+
+<span onclick="bookmarks_bind()">
+        <div id="ctl00_Header1_mstr_shortlist" class="mstr_shortlist">
+           
+            <div class="shortlist">
+                <span id="ctl00_Header1_lnk_shortlisted" style="font: 12px">
+                    SHORTLISTED VENDORS(
+                    <span id="ctl00_Header1_lbl_shortlisted">0</span>
+                    )</span>
+            </div>
+        </div>
+            </span>
+<div id="viewSampleShortlist">
+<div id="viewSampleShortlistmain">
+<div id="viewSampleShortlistdiv">
+
+
+<img alt="close" title="close" src="/images/cancle-red.png" width="29px" height="29px" class="viewSampleShortlistcancel" id="viewSampleShortlistcancel"> 
+<div class="popupinput">
+<p class="popupshortlistedheader"><span class="sitename">Shortlisted Vendors</span></p>
+
+    <div class="ViewClientDelaisDiv">
+                   
+    </div>
+
+<input id="txt_shortlistName" autocomplete="off" type="text" class="namesumit_shortlist namesumit-img" placeholder="Your Name">
+<input id="txt_shortlistEmail" autocomplete="off" type="email" class="emailsumit_shortlist emailsumit-img" placeholder="Email id">
+<input id="txt_shortlistMobile" autocomplete="off" type="text" class="mobilesumit_shortlist mobilesumit-img" placeholder="Mobile No.">
+<input id="txt_shortlistDesc" autocomplete="off" type="text" class="description_shortlist description-img" placeholder="Description">
+   
+
+</div>
+   
+      <input type="button" id="btnshortlistSubmit" onclick="smsdetails();" value="submit" class="shortlist_btn">
+
+</div></div></div>
+
+<div id="dialog-body" class="dialog-body"><div class="c-sel-cont grid_10"> 
+			<div style="background-image:url(/images/bodynsoul.jpg)" class="c-sel-bg-area">          
+				<div class="c-sel-bg-mask">
+                      <span class="closeshoppincategory" onclick="closecategory()">x</span>
+				<div class="c-sel-title">Choose your Shopping Category</div>
+				<div class="clear"></div>
+			</div>
+			<div class="clear"></div>
+		</div>
+	
+	<div class="c-sel-scroll">		
+		<div class="c-sel-area">		
+			<div class="clear"></div>
+					<div class="c-sel-con-area">
+												<div class="clear"></div>
+					</div>					
+		</div>
+		<div class="cat-key-only" id="cat-location-dd" style="display: none;">
+            <ul id="cat-location-suggestion-container"></ul>
+        </div>
+	</div>
+	
+</div>
+</div>
+
+  <div class="modals" style="display:none">      
+    </div>
+
+
+
+<div id="overlay"></div>
+    <div id="page">
+        
+      
+            <div class="mm-toggle">
+                <i class="icon-menu"></i><span class="mm-label">Menu</span>
+            </div>            
+       
+        
+    </div>
+<div id="mobile-menu">
             <ul>
+                <li>
+                    <div class="mm-search">
+                        
+                            <div class="input-group">
+                                <div class="input-group-btn">
+                                    <button class="btn btn-default" type="submit"><i class="icon-search"></i></button>
+                                </div>
+                                <input type="text" class="form-control simple" placeholder="Search ..." name="srch-term" id="srch-term">
+                                
+                            </div>
+                        
+                    </div>
+                </li>
+                <li>
+                    <div class="home">
+                     
+                        <a href="#"><i class="notcontact"></i><span class="glyphicon"><i class="fa fa-phone"></i></span> 011-44111144<strong class="back">Back</strong></a>
+                    </div>                    
+                </li>                
+                <li><a href="#">What to do</a> 
+                    <ul>
+                       <li><a onclick="destroy_restuarentCookies();" href="javascript:void(0)"><span class="glyphicon fa fa-cutlery"></span>Restaurants &amp; Nightlife</a></li><li><a href="/delhi/events"><span class="glyphicon fa fa-calendar"></span>Events</a></li><li><a href="#"><span class="glyphicon fa fa-shopping-cart"></span>Shopping</a> <ul> <li><a title="Book Stores in delhi" class="shopping_category_listing" href="/delhi/shopping/book-stores">Book Stores<div class="clear"></div></a></li> <li><a title="Boutiques  Fashion Designer Clothing in delhi" class="shopping_category_listing" href="/delhi/shopping/boutiquesfashion-designer-clothing">Boutiques  Fashion Designer Clothing<div class="clear"></div></a></li> <li><a title="Boutiques Men in delhi" class="shopping_category_listing" href="/delhi/shopping/boutiques-men">Boutiques Men<div class="clear"></div></a></li> <li><a title="Boutiques Men and Women in delhi" class="shopping_category_listing" href="/delhi/shopping/boutiques-men-women">Boutiques Men and Women<div class="clear"></div></a></li> <li><a title="Boutiques Women in delhi" class="shopping_category_listing" href="/delhi/shopping/boutiques-women">Boutiques Women<div class="clear"></div></a></li> <li><a title="Bridal Dresses on Hire in delhi" class="shopping_category_listing" href="/delhi/shopping/bridal-dresses-hire">Bridal Dresses on Hire<div class="clear"></div></a></li> <li><a title="Bridal Trousseau and Sarees in delhi" class="shopping_category_listing" href="/delhi/shopping/bridal-trousseau-sarees">Bridal Trousseau and Sarees<div class="clear"></div></a></li> <li><a title="Carpets and Rugs in delhi" class="shopping_category_listing" href="/delhi/shopping/carpets-rugs">Carpets and Rugs<div class="clear"></div></a></li> <li><a title="Footwear for Men in delhi" class="shopping_category_listing" href="/delhi/shopping/footwear-men">Footwear for Men<div class="clear"></div></a></li> <li><a title="Footwear for Women in delhi" class="shopping_category_listing" href="/delhi/shopping/footwear-women">Footwear for Women<div class="clear"></div></a></li> <li><a title="Foreign Exchange Service in delhi" class="shopping_category_listing" href="/delhi/shopping/foreign-exchange-dealrs">Foreign Exchange Service<div class="clear"></div></a></li> <li><a title="Garments Readymade  Children and Infants in delhi" class="shopping_category_listing" href="/delhi/shopping/garments-readymadechildren-infants">Garments Readymade  Children and Infants<div class="clear"></div></a></li> <li><a title="Gems and Precious Stones in delhi" class="shopping_category_listing" href="/delhi/shopping/gems-precious-stones">Gems and Precious Stones<div class="clear"></div></a></li> <li><a title="Grooms Wear and Accessories in delhi" class="shopping_category_listing" href="/delhi/shopping/grooms-wear-accessories">Grooms Wear and Accessories<div class="clear"></div></a></li> <li><a title="Handicrafts in delhi" class="shopping_category_listing" href="/delhi/shopping/handicrafts">Handicrafts<div class="clear"></div></a></li> <li><a title="Jewellery  Showrooms and Retail in delhi" class="shopping_category_listing" href="/delhi/shopping/jewelleryshowrooms-retail">Jewellery  Showrooms and Retail<div class="clear"></div></a></li> <li><a title="Lifestyle Stores in delhi" class="shopping_category_listing" href="/delhi/shopping/lifestyle-stores">Lifestyle Stores<div class="clear"></div></a></li> <li><a title="Musical Instruments  Manufacturers, Dealers and repairs in delhi" class="shopping_category_listing" href="/delhi/shopping/musical-instrumentsmanufacturers-dealers-repairs">Musical Instruments  Manufacturers, Dealers and repairs<div class="clear"></div></a></li> <li><a title="Opticians and Optical Stores in delhi" class="shopping_category_listing" href="/delhi/shopping/opticians-optical-stores">Opticians and Optical Stores<div class="clear"></div></a></li> <li><a title="Ready Made Garments  Men in delhi" class="shopping_category_listing" href="/delhi/shopping/ready-made-garmentsmen">Ready Made Garments  Men<div class="clear"></div></a></li> <li><a title="Saree  Showroom Retail and Wholesale in delhi" class="shopping_category_listing" href="/delhi/shopping/sareeshowroom-retail-wholesale">Saree  Showroom Retail and Wholesale<div class="clear"></div></a></li> <li><a title="Shawls in delhi" class="shopping_category_listing" href="/delhi/shopping/shawls">Shawls<div class="clear"></div></a></li> <li><a title="Silk Fabric Shops in delhi" class="shopping_category_listing" href="/delhi/shopping/silk-fabric-shops">Silk Fabric Shops<div class="clear"></div></a></li> <li><a title="Sleep wears and Lingerie in delhi" class="shopping_category_listing" href="/delhi/shopping/sleep-wears-lingerie">Sleep wears and Lingerie<div class="clear"></div></a></li> <li><a title="Swim Wear in delhi" class="shopping_category_listing" href="/delhi/shopping/swim-wear">Swim Wear<div class="clear"></div></a></li> <li><a title="Tailors and Outfitters  Mens in delhi" class="shopping_category_listing" href="/delhi/shopping/tailors-outfittersmens">Tailors and Outfitters  Mens<div class="clear"></div></a></li> <li><a title="Tailors and Outfitters  Women in delhi" class="shopping_category_listing" href="/delhi/shopping/tailors-outfitterswomen">Tailors and Outfitters  Women<div class="clear"></div></a></li> <li><a title="Tea retailers and whole sellers in delhi" class="shopping_category_listing" href="/delhi/shopping/tea-retailers-whole-sellers">Tea retailers and whole sellers<div class="clear"></div></a></li> <li><a title="Watch Retail Showrooms in delhi" class="shopping_category_listing" href="/delhi/shopping/watch-retail-showrooms">Watch Retail Showrooms<div class="clear"></div></a></li> <li><a title="Women Accessories in delhi" class="shopping_category_listing" href="/delhi/shopping/women-accessories">Women Accessories<div class="clear"></div></a></li></ul></li><li><a href="#"><span class="glyphicon fa fa-female"></span>Body &amp; Soul</a> <ul> <li><a title="Astrologers and Palmists in delhi" class="shopping_category_listing" href="/delhi/shopping/astrologers-palmists">Astrologers and Palmists<div class="clear"></div></a></li> <li><a title="Ayurveda Massage Centers in delhi" class="shopping_category_listing" href="/delhi/shopping/ayurveda-massage-centers">Ayurveda Massage Centers<div class="clear"></div></a></li> <li><a title="Ayurvedic Clinics in delhi" class="shopping_category_listing" href="/delhi/shopping/ayurvedic-clinics">Ayurvedic Clinics<div class="clear"></div></a></li> <li><a title="Ayurvedic Medicines and Ayurvedic Treatment Centres in delhi" class="shopping_category_listing" href="/delhi/shopping/ayurvedic-medicines-ayurvedic-treatment-centres">Ayurvedic Medicines and Ayurvedic Treatment Centres<div class="clear"></div></a></li> <li><a title="Beauty Parlours and Salons in delhi" class="shopping_category_listing" href="/delhi/shopping/beauty-parlours-salons">Beauty Parlours and Salons<div class="clear"></div></a></li> <li><a title="Cosmetologist in delhi" class="shopping_category_listing" href="/delhi/shopping/cosmetologist">Cosmetologist<div class="clear"></div></a></li> <li><a title="Dental Emergency in delhi" class="shopping_category_listing" href="/delhi/shopping/dental-emergency">Dental Emergency<div class="clear"></div></a></li> <li><a title="Infertility Clinic in delhi" class="shopping_category_listing" href="/delhi/shopping/infertility-clinic">Infertility Clinic<div class="clear"></div></a></li> <li><a title="Mehendi Artists in delhi" class="shopping_category_listing" href="/delhi/shopping/mehendi-artists">Mehendi Artists<div class="clear"></div></a></li> <li><a title="Nail Art Parlours in delhi" class="shopping_category_listing" href="/delhi/shopping/nail-art-parlours">Nail Art Parlours<div class="clear"></div></a></li> <li><a title="Slimming and health centres in delhi" class="shopping_category_listing" href="/delhi/shopping/slimming-health-centres">Slimming and health centres<div class="clear"></div></a></li> <li><a title="Spas in delhi" class="shopping_category_listing" href="/delhi/shopping/spas">Spas<div class="clear"></div></a></li> <li><a title="Yoga Classes in delhi" class="shopping_category_listing" href="/delhi/shopping/yoga-classes">Yoga Classes<div class="clear"></div></a></li></ul></li><li><a href="/delhi/shopping/museums"><span class="glyphicon fa fa-align-center"></span>Museums</a></li><li><a href="/delhi/shopping/art-galleries"><span class="glyphicon fa fa-picture-o"></span>Art Galleries</a></li>                                     
+                    </ul>
+                </li>
+                <li><a href="#">How to Explore</a>
+                    <ul>
+                        <li><a href="/delhi/shopping/tourist-spots"><span class="glyphicon fa fa-car"></span>Tourist Spots in Delhi</a></li><li><a href="/delhi/tour"><span class="glyphicon fa fa-camera"></span>Tours &amp; Sightseeing</a></li><li><a href="/delhi/shopping/amusement-water-parks"><span class="glyphicon fa fa-tree"></span>Amusement Parks &amp; Entertainment</a></li><li><a href="/delhi/shopping/monuments"><span class="glyphicon fa fa-university"></span>Monuments in Delhi</a></li><li><a href="#"><span class="glyphicon fa fa-taxi"></span>Travel Services</a> <ul> <li><a title="Bicycles On Hire in delhi" class="shopping_category_listing" href="/delhi/shopping/bicycles-hire">Bicycles On Hire<div class="clear"></div></a></li> <li><a title="Bikes On Rent in delhi" class="shopping_category_listing" href="/delhi/shopping/bikes-rent">Bikes On Rent<div class="clear"></div></a></li> <li><a title="Car Rental and Coach Rental in delhi" class="shopping_category_listing" href="/delhi/shopping/car-rental-coach-rental">Car Rental and Coach Rental<div class="clear"></div></a></li> <li><a title="Limousine on Hire in delhi" class="shopping_category_listing" href="/delhi/shopping/limousine-hire">Limousine on Hire<div class="clear"></div></a></li> <li><a title="Luxury Cars on Hire in delhi" class="shopping_category_listing" href="/delhi/shopping/luxury-cars-hire">Luxury Cars on Hire<div class="clear"></div></a></li> <li><a title="Radio Taxi in delhi" class="shopping_category_listing" href="/delhi/shopping/radio-taxi">Radio Taxi<div class="clear"></div></a></li> <li><a title="Travel Agents and Tour Operators in delhi" class="shopping_category_listing" href="/delhi/shopping/travel-agents-tour-operators">Travel Agents and Tour Operators<div class="clear"></div></a></li> <li><a title="Vintage Cars on Hire in delhi" class="shopping_category_listing" href="/delhi/shopping/vintage-cars-hire">Vintage Cars on Hire<div class="clear"></div></a></li></ul></li><li><a href="/delhi/shopping/places-worship"><span class="glyphicon fa fa-tree"></span>Places of Worship in Delhi</a></li><li><a href="#"><span class="glyphicon fa fa-trophy"></span>Sports</a> <ul> <li><a title="Archery Field in delhi" class="shopping_category_listing" href="/delhi/shopping/archery-field">Archery Field<div class="clear"></div></a></li> <li><a title="Athletic Track and Field in delhi" class="shopping_category_listing" href="/delhi/shopping/athletic-track-field">Athletic Track and Field<div class="clear"></div></a></li> <li><a title="Badminton Court in delhi" class="shopping_category_listing" href="/delhi/shopping/badminton-court">Badminton Court<div class="clear"></div></a></li> <li><a title="Basketball Court in delhi" class="shopping_category_listing" href="/delhi/shopping/basketball-court">Basketball Court<div class="clear"></div></a></li> <li><a title="Billiards And Snooker in delhi" class="shopping_category_listing" href="/delhi/shopping/billiards-snooker">Billiards And Snooker<div class="clear"></div></a></li> <li><a title="Boxing Rings in delhi" class="shopping_category_listing" href="/delhi/shopping/boxing-rings">Boxing Rings<div class="clear"></div></a></li> <li><a title="Cricket Field in delhi" class="shopping_category_listing" href="/delhi/shopping/cricket-field">Cricket Field<div class="clear"></div></a></li> <li><a title="Football Field in delhi" class="shopping_category_listing" href="/delhi/shopping/football-field">Football Field<div class="clear"></div></a></li> <li><a title="Golf Course in delhi" class="shopping_category_listing" href="/delhi/shopping/golf-course">Golf Course<div class="clear"></div></a></li> <li><a title="Hockey Field in delhi" class="shopping_category_listing" href="/delhi/shopping/hockey-field">Hockey Field<div class="clear"></div></a></li> <li><a title="Kickboxing Classes in delhi" class="shopping_category_listing" href="/delhi/shopping/kickboxing-classes">Kickboxing Classes<div class="clear"></div></a></li> <li><a title="Squash Courts in delhi" class="shopping_category_listing" href="/delhi/shopping/squash-courts">Squash Courts<div class="clear"></div></a></li> <li><a title="Swimming Pools in delhi" class="shopping_category_listing" href="/delhi/shopping/swimming-pools">Swimming Pools<div class="clear"></div></a></li> <li><a title="Table Tennis in delhi" class="shopping_category_listing" href="/delhi/shopping/table-tennis">Table Tennis<div class="clear"></div></a></li> <li><a title="Tennis Court in delhi" class="shopping_category_listing" href="/delhi/shopping/tennis-court">Tennis Court<div class="clear"></div></a></li> <li><a title="Volleyball Court in delhi" class="shopping_category_listing" href="/delhi/shopping/volleyball-court">Volleyball Court<div class="clear"></div></a></li></ul></li>  
+                    </ul>
+                </li>
+                 <li><a href="#">Delhi&nbsp;BLOG</a>
+                    <ul>
+                        <li><a href="/delhi/articles/restaurants"><span class="glyphicon fa fa-cutlery"></span>Delhi Food Musings</a></li><li><a href="/delhi/articles/city-guide"><span class="glyphicon fa fa-cutlery"></span>Delhi City Musings</a></li><li><a href="/delhi/articles/shoppings"><span class="glyphicon fa fa-cutlery"></span>Delhi Shopping Musings</a></li><li><a href="/delhi/articles/heritage-walks"><span class="glyphicon fa fa-cutlery"></span>Delhi Heritage Walks</a></li>
+                    </ul>
+                  </li>
+                <li style="display:none"><a href="#">delhi&nbsp;<span class="yellow">Helpline</span></a>
+                    <ul>
+                       <li><a href="/delhi/shopping/hospital-medical-centre"><span class="glyphicon fa fa-h-square"></span>Hospitals</a></li><li><a href="/delhi/shopping/ngos"><span class="glyphicon fa fa-users"></span>NGOs</a></li><li><a href="/delhi/shopping/police-stations"><span class="glyphicon fa fa-user-secret"></span>Police</a></li>
+                    </ul>
+                  </li>
+             <li><a href="#" class="Viewsample"><span class="glyphicon"><i class="fa fa-envelope-o"></i></span> Signup</a></li>
+            <li id="ctl00_Header1_login_user_responsive"><a href="#" class="login"><span class="glyphicon"><i class="fa fa-lock"></i></span> Login</a></li>
+            <li id="ctl00_Header1_logout_user_responsive" onclick="destroy_usersession();" style="display:none"><a href="#"><span class="glyphicon"><i class="fa fa-lock"></i></span>
+                <span id="ctl00_Header1_lbl_username_responsive"></span> </a></li>
                 
-                <li class="nobg1"><a href="http://www.gocityguides.com/siteadmin/default.aspx" title="Login" target="_blank">Login</a></li>
+                
+                
+                
                 
             </ul>
-        </div>
     </div>
-</div>
 
 
-        <div id="main-inner-panel-business">
-               
+
+
+
+<script>
+    ///*login popup start*/
+    $("document").ready(function () {
+        $(".login").click(function () {
+            $("#m1").css("display", "block");
+
+        });
+        $("#viewSamplecancel1").click(function () {
+            $(this).parent().parent().parent().hide();
+        });
+    });
+
+   // /*Forget popup start*/
+    $("document").ready(function () {
+
+        $("#viewSamplecancel2").click(function () {
+            $(this).parent().parent().parent().hide();
+        });
+    });
+
+  //  /*signup popup start*/
+    $("document").ready(function () {
+        $(".Viewsample").click(function () {
+            $("#viewSamplePopup").css("display", "block");
+        });
+        $("#viewSamplecancel").click(function () {
+            $(this).parent().parent().parent().hide();
+        });
+
+        $("#viewSampleShortlistcancel").click(function () {
+            $(this).parent().parent().parent().hide();
+        });
+    });
+
+
+
+
+    </script> 
+<script type="text/javascript">
+
+    $(document).ready(function () {
+        /*search js*/
+        $(".left.focus").focusin(function () {
+            $(".search.left.shadow").addClass("intro");
+        });
+        $(".left.focus").focusout(function () {
+            $(".search.left.shadow").removeClass("intro");
+        });
+
+
+    });
+
+    $("document").ready(function () {
+        $(".highlightsDetails").hide();
+        $(".seeDetails").click(function () {
+            $(".highlightsDetails").toggle("slow");
+        })
+
+
+    });
+
+
+
+
+   // /*header js*/
+    $(window).scroll(function () {
+        if ($(window).scrollTop() >= 104) {
+            $('.nav2').addClass('fixed-header');
+            $(".scrollup, .newlogo").show("slow");
+            $(".scrollup").click(function () { $(window).scrollTop(0) });
+        }
+        else {
+
+            $('.nav2').removeClass('fixed-header');
+            $(".scrollup, .newlogo").hide("slow");
+        }
+    });
+
+   
+
+</script>
+
+<script type="text/javascript">
+    function readCookie(name) {
+        var nameEQ = name + "=";
+        var ca = document.cookie.split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+        }
+        return null;
+    }
+    function destroy_usersession() {
+        var GEmailId = "GEmailId";
+        var GUserName = "GUserName";
+        eraseCookie('GEmailId');
+        eraseCookie('GUserName');
+        $("#Header1_login_user").css("display", "block");
+        $("#Header1_login_user_responsive").css("display", "block");
+        $("#Header1_logout_user").css("display", "none");
+        $("#Header1_logout_user_responsive").css("display", "none");
+        $("#ctl00_Header1_login_user").css("display", "block");
+        $("#ctl00_Header1_login_user_responsive").css("display", "block");
+        $("#ctl00_Header1_logout_user").css("display", "none");
+        $("#ctl00_Header1_logout_user_responsive").css("display", "none");
+    }
+
+
+    function bookmarks_bind() {
+
+        var strurl = '';
+        var value = "suraj";
+
+        $.ajax({
+            type: "POST",
+            url: strurl + "/shopping-listing.aspx/ShowShorlistedPopups",
+            data: '{value: "' + value + '"}',
+            contentType: "application/json; charset=utf-8",
+            dataType: "json",
+            success: function (data) {
+                if (data.d.length > 0) {
+                    $("#viewSampleShortlist").css("display", "block");
+
+                    var nameList = data.d;
+                    var str = "";
+                    $('.ViewClientDelaisDiv').html("");
+                    $.each(nameList, function (index, category) {
+
+
+                        str = '<div class="ViewClientlist id_' + category.bookmark_cltid + '"><span class="bookmark_clientname">' + category.bookmark_clntname + '</span>'
+                        str += '<span><img src="/images/buttin_close_gray.png" style="float:right" onclick=deleteSelectedClient(' + category.bookmark_cltid + ',"' + category.bookmark_clntname.replace(/\s/g, "_") + '","' + category.bookmark_catry + '","' + category.bookmark_adrs.replace(/\s/g, "_") + '",' + category.bookmark_catgryid + ',' + category.bookmark_ctyid + ',' + category.bookmark_loctyid + ') class="' + category.bookmark_cltid + '"></img></span> <br>'
+
+                        str += '<span class="bookmark_category">Category : ' + category.bookmark_catry + '</span><br />'
+                        str += '<span class="bookmark_add_icon"><img alt="home" src="/images/home-icon.png" class="bookmark_add_img">' + category.bookmark_adrs + '</span></div>'
+                        $('.ViewClientDelaisDiv').append(str);
+
+                    });
+                }
+                else {
+
+                    alert('Please select Vendor!');
+                    $('.ques-div').hide();
+                }
+            },
+            failure: function (response) {
+                //alert(response.d);               
+            }
+        });
+
+    }
+
+    function deleteSelectedClient(c_id, clientname, category, address, categoryid, cityid, localityid) {
+
+
+        $('.id_' + c_id).hide();
+
+        var strurl = '';
+        $('.img_' + c_id).attr('src', '/images/shortlist.png');
+
+        $('#bookmarks_' + c_id).attr('onclick', 'Bookmarks("' + category + '", "' + c_id + '", "' + clientname + '", "' + address + '", "' + categoryid + '", "' + cityid + '", "' + localityid + '")');
+
+        var value = c_id;
+        $.ajax({
+            type: "POST",
+            url: strurl + "/shopping-listing.aspx/deleteSelectedClient",
+            data: '{value: "' + value + '"}',
+            contentType: "application/json; charset=utf-8",
+            dataType: "json",
+            success: function (data) {
+
+                $('#ctl00_Header1_lbl_shortlisted').text(parseInt($('#ctl00_Header1_lbl_shortlisted').text()) - 1);
+
+                if ($('#ctl00_Header1_lbl_shortlisted').text() == '0') {
+
+                    $("#viewSampleShortlist").css("display", "none");
+
+                    $('.mstr_shortlist').hide();
+                }
+            },
+            failure: function (response) {
+                //alert(response.d);
+            }
+        });
+    }
+
+
+    function ValidateEmail(email) {
+        var expr = /^([\w-\.]+)@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.)|(([\w-]+\.)+))([a-zA-Z]{2,4}|[0-9]{1,3})(\]?)$/;
+        return expr.test(email);
+    };
+
+    function ValidateMobile(mobile) {
+        var expr = /^[0-9]{10}$/;
+        return expr.test(mobile);
+    };
+
+    function maxLength(el) {
+        if (!('maxLength' in el)) {
+            var max = el.attributes.maxLength.value;
+            el.onkeypress = function () {
+                if (this.value.length >= max) return false;
+            };
+        }
+    }
+
+    //added by suraj for bookmarks
+    function smsdetails() {
+
+        var cust_name = document.getElementById('txt_shortlistName').value;
+        var cust_mobile = document.getElementById('txt_shortlistMobile').value;
+        var cust_email = document.getElementById('txt_shortlistEmail').value;
+        var cust_description = document.getElementById('txt_shortlistDesc').value;
+
+        if (cust_name == '') {
+            alert("Please enter Username.");
+            return false;
+        }
+        if (cust_mobile == '') {
+            alert("Please enter mobile no.!");
+            return false;
+        }
+
+        if (!ValidateMobile(cust_mobile)) {
+            alert("Invalid mobile no.");
+            return false;
+        }
+
+        if (cust_email != '') {
+            if (!ValidateEmail(cust_email)) {
+                alert("Invalid email address.");
+                return false;
+            }
+        }
+
+        if (cust_description == '') {
+            alert("Please enter your query!");
+            return false;
+        }
+
+
+        var strurl = '';
+        $.ajax({
+            type: "POST",
+            url: strurl + "/shopping-listing.aspx/smsdetails",
+            data: '{cust_name: "' + cust_name + '",cust_mobile: "' + cust_mobile + '",cust_email: "' + cust_email + '",cust_description: "' + cust_description + '"}',
+            contentType: "application/json; charset=utf-8",
+            dataType: "json",
+            success: function (data) {
+                $('.mstr_shortlist').hide();
+                $("#viewSampleShortlist").css("display", "none");
+                alert('Enquiry send successfully!')
+                window.location.reload();
+                document.getElementById('txt_shortlistName').value = "";
+                document.getElementById('txt_shortlistMobile').value = "";
+                document.getElementById('txt_shortlistEmail').value = "";
+                document.getElementById('txt_shortlistDesc').value = "";
+
+
+            },
+            failure: function (response) {
+                //alert(response.d);               
+            }
+        });
+    }
+
+
+
+
+</script>
+
+
+<script type="text/javascript">
+
+    function bindShoppingcategory(id) {
+        var gr_id = parseInt(id);
+        if (gr_id == 5) {
+            $('.c-sel-bg-area').css({ 'background-image': 'url(/images/shopping.jpg)' });
+            $('.c-sel-title').text('Choose your Shopping Category');
+        }
+        else if (gr_id == 6) {
+            $('.c-sel-title').text('Choose your Body & Soul Category');
+            $('.c-sel-bg-area').css({ 'background-image': 'url(/images/bodynsoul.jpg)' });
+        }
+        else if (gr_id == 32) {
+            $('.c-sel-title').text('Choose your Sports Category');
+            $('.c-sel-bg-area').css({ 'background-image': 'url(/images/Jawaharlal_Nehru_Stadium1.jpg)' });
+        }
+        else {
+
+            $('.c-sel-title').text('Choose your Travel Services Category');
+            $('.c-sel-bg-area').css({ 'background-image': 'url(/images/Dodge-brothers-0-copy-copy.jpg)' });
+        }
+        var path = '';
+        var city = 'delhi';
+        $.ajax({
+            type: "POST",
+            url: path + "/webservice/CategorySearch.asmx/BindShoppingCategory",
+
+            data: '{"path": "' + path + '","city": "' + city + '","gr_id": "' + gr_id + '"}',
+            contentType: "application/json; charset=utf-8",
+            dataType: "json",
+            success: function (data) {
+                $('.modals').css("display", "block");
+                $('#dialog-body').css("display", "block");
+                $('.c-sel-con-area').text('');
+                $('.c-sel-con-area').append(data.d);
+
+
+
+            },
+            error: function (response) {
+                //  alert(response.responseText);
+            }
+        });
+
+    }
+
+
+    function closecategory() {
+        $('.modals').css("display", "none");
+        $('#dialog-body').css("display", "none");
+    }
+
+
+</script>
+
+ <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Organization",
+      "url": "http://www.gocityguides.com",
+      "logo": "http://www.gocityguides.com/images/logo.png"
+    }
+    </script>
+
+
+    <script src="/js/jquery.mobile-menu.min.js"></script>    
+    <script>
+
+        jQuery(document).ready(function ($) {
+            jQuery("#mobile-menu").mobileMenu({
+                MenuWidth: 250,
+                SlideSpeed: 300,
+                WindowsMaxWidth: 767,
+                PagePush: true,
+                FromLeft: false,
+                Overlay: true,
+                CollapseMenu: true,
+                ClassName: "mobile-menu"
+            });
+        });
+    </script>
+
+
+
+
+           
     <div class="business-page-heading">
-        Privacy Policy
+        <div class="category-head" style="display:none">
+            <div class="category-text restaurants">
+                Privacy Policy
+            </div>
+        </div>
+        
     </div>
-    <p><strong>Privacy Policy</strong></p>
+    <div class="container magintop-15">
+        <p><strong>Privacy Policy</strong></p>
 <p><br>
 We are committed in respecting the privacy of every person who accesses / avails our Service either though the website - gocityguides.com or WAP or SMS through Mobile phones or telephone search by calling us or any other medium through which planyourweddding.co.in may provide its service ("Service"). You may share your personal information upon you accessing / availing our Service. Your privacy is important to us and we strive to take reasonable care and protection of the information we receive from you.<br>
 The purpose of this Privacy Policy (the "Policy"), as amended from time to time, is to give you an understanding on how we intend to collect and use the information you provide to us. The Policy is subject to our changes. Upon updating the Policy, we will also revise the "Updated" date at the bottom of this Policy.<br>
@@ -359,44 +822,694 @@ To the extent that you provide us with Your Personal Information, we wish to mai
 <p><strong>Contacting Us</strong><br>
 We will address any questions, comments and concerns about our online privacy practice and policy. Please write to us at delhi@gocityguides.com</p>
 <p>Date Updated: 25th  October 2010</p>
+    </div>
 
-        </div>
         
 
+<div class="clear"></div>
+
+<!-- footer start-->
+
+     <script src="/js/login-page.js" type="text/javascript"> </script>
+ <script type="text/javascript">
+     var mstr_websitepath = "";
+     var cityid = "1";
+     $(document).ready(function () {
+
+         $.ajax({
+             type: "POST",
+             url: mstr_websitepath + "/webservice/SearchHomePageSetup.asmx/Bindlatestarticle",
+             data: '{"mstr_websitepath": "' + mstr_websitepath + '","cityid": "' + cityid + '"}',
+             contentType: "application/json; charset=utf-8",
+             dataType: "json",
+             success: function (data) {
+                 $('.latestarticledetails').append(data.d);
+
+             },
+             error: function (response) {
+
+                 // alert(response.responseText);
+             }
+         });
 
 
-<div id="footer-new">
-<div class="footer-text-new">
-        <a href="http://www.gocityguides.com/delhi/content/terms.aspx">Terms</a> 
-        <a href="http://www.gocityguides.com/delhi/content/privacy-policy.aspx">Privacy Policy</a> 
-        <a href="#">Disclaimer</a>
-        <a href="#">Advertise With Us</a> 
-        <a href="http://www.gocityguides.com/delhi/content/about-us.aspx">About Us</a> 
-        <a href="http://www.gocityguides.com/delhi/content/contact.aspx">Contact Us</a>
-        <a href="#">Feedback</a>        
-    </div>
-</div>    
+     })
+     function ValidateEmail(email) {
+         var expr = /^([\w-\.]+)@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.)|(([\w-]+\.)+))([a-zA-Z]{2,4}|[0-9]{1,3})(\]?)$/;
+         return expr.test(email);
+     };
+     function newsletter() {
+
+         var email = document.getElementById('txt_newsletter').value;
+         if (email == '') {
+             alert('Please enter emailid');
+             return false;
+         }
+         else {
+
+             if (!ValidateEmail(document.getElementById('txt_newsletter').value)) {
+                 alert("Invalid Email.");
+                 return false;
+             }
+         }
+
+         $.ajax({
+             type: "POST",
+             url: mstr_websitepath + "/webservice/SearchHomePageSetup.asmx/InserNewsletter",
+             data: '{"cityid": "' + cityid + '","email": "' + email + '"}',
+             contentType: "application/json; charset=utf-8",
+             dataType: "json",
+             success: function (data) {
+                 document.getElementById('txt_newsletter').value = "";
+                 $('.newsletter_msg').css("display", "block");
+
+             },
+             error: function (response) {
+
+                 // alert(response.responseText);
+             }
+         });
+
+     }
+     </script>
+<script>
+    function Insert_PageUrl(type) {
+        // window.location 
+        var value = window.location.href;
+        $.ajax({
+            type: "POST",
+            url: mstr_websitepath + "/webservice/Registration.asmx/ShowPageUrls",
+            data: '{value: "' + value + '"}',
+            contentType: "application/json; charset=utf-8",
+            dataType: "json",
+            success: function (data) {
+                var url_type = type;
+
+                if (url_type == "fb") {
+
+                    window.location = mstr_websitepath + "/FbManager.aspx";
+                }
+                else if (url_type == "gmail") {
+                    window.location = mstr_websitepath + "/GplusManager.aspx";
+                }
+            },
+            failure: function (response) {
+            }
+        });       
+    }
+</script>
+
+<!-- Add New Business -->
 
 
 
-<div class="footer-sub">
-    <div class="copyright">
-        All contents © copyright Vasundhara Media Pvt.Ltd. All rights reserved</div>
-      <div class="footer-logo">
-        <img src="http://www.gocityguides.com/images/footer-logo.gif" alt="Vasundhara Media Pvt.Ltd." title="Vasundhara Media Pvt.Ltd.">
-    </div>
-    <div class="designed">
-        A Product of Vasundhara Media Pvt.Ltd.
-        <br><br>
-        Designed &amp; Developed by <a href="http://www.vrvirtual.com/" target="_blank">VRVirtual.com</a>
-        Pvt Ltd.
+<script type="text/javascript">
+
+    $(function () {
+               
+        $('#btnAddNewBusiness').click(function () {
+
+            var name = $('#txt_business_name');
+            var mobile = $('#txt_business_mobile');
+            var email = $('#txt_business_email');
+            var companyname = $('#txt_business_companyname');
+            var city = $('#ddl_business_City');
+            
+            if (city.find('option:selected').val() == 0) {
+                alert('City required.');
+                $('#ddl_business_City').focus();
+                return false;
+            }
+
+            if (!name.val()) {
+                alert('Name required.');
+                $('#txt_business_name').focus();
+                return false;
+            }
+
+            if (!mobile.val()) {
+                alert('Mobile number required.');
+                $('#txt_business_mobile').focus();
+                return false;
+            }
+            else if (!ValidateMobile(mobile.val())) {
+
+                alert('Please enter valid mobile number.');
+                $('#txt_business_mobile').focus();
+                return false;
+            }
+
+            if (email.val()) {
+
+                if (!ValidateEmail(email.val())) {
+                    alert('Please enter valid email address.');
+                    $('#txt_business_email').focus();
+                    return false;
+                }
+            }
+            
+            if (!companyname.val()) {
+                alert('Company required.');
+                $('#txt_business_companyname').focus();
+                return false;
+            }
+            
+            if (name.val() && companyname.val()) {
+
+                var newbusiness = "{'city':'" + city.val() + "', 'name':'" + name.val() + "', 'mobile':'" + mobile.val() + "', 'email':'" + email.val() + "', 'companyname':'" + companyname.val() + "', 'purpose':'Add new business'}";
+                $.ajax({
+                    type: 'POST',
+                    url: 'http://www.gocityguides.com/webservice/clientsearch.asmx/AddNewBusiness',
+                    contentType: 'application/json; charset=utf-8',
+                    data: newbusiness,
+                    success: function (response) {
+
+                        if (response.d == true) {
+                            alert('Business posted successfully...');
+                            disablePopup();
+                        }
+                    },
+                    error: function (response) {
+                        alert(response.responseText);
+                    }
+                });
+            }
+            
+        });
+         
+        $('#post-your-business').click(function () {
+
+            $('.AddNewBusinessPopup').css('display', 'block');
+        });
+
+        $('.viewSamplecancel').click(function () {
+            disablePopup();
+        });
+
+        var disablePopup = function () {
+
+            $('input[type="text"][id^="txt_business"]').each(function (index, value) {
+                this.value = "";
+            });
+
+            $('#ddl_business_City').prop('selectedIndex', 0);
+            $('.AddNewBusinessPopup').hide();
+        }
+    });
+
+    function ValidateEmail(email) {
+        var expr = /^([\w-\.]+)@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.)|(([\w-]+\.)+))([a-zA-Z]{2,4}|[0-9]{1,3})(\]?)$/;
+        return expr.test(email);
+    };
+
+    function ValidateMobile(mobile) {
+        var expr = /^[0-9]{10}$/;
+        return expr.test(mobile);
+    };
+
+</script> 
+
+<div class="AddNewBusinessPopup" style="display: none;">
+    
+    <div id="ReportMain">
+        <div class="AddNewBusinessdiv">
+
+            <!--popup content start-->
+            <img src="/images/cancle-red.png" width="29px" height="29px" class="viewSamplecancel">
+            <div class="popupinput">
+                
+                <p class="popupheader" style="position: relative;">
+                    <span id="lbl_clientname" class="sitename"> Add Your Business </span>
+                    
+                </p>
+
+                <select id="ddl_business_City" class="namesumit placewsumit-img">
+	            <option value="0">--Select--</option>
+	            <option value="Delhi">Delhi</option>
+	            <option value="Hyderabad">Hyderabad</option>
+	            <option value="Pune">Pune</option>
+	            <option value="Bangalore">Bangalore</option>
+	            <option value="Jaipur">Jaipur</option>
+	            <option value="Chennai">Chennai</option>
+                <option value="UdaiPur">UdaiPur</option>
+                </select>
+
+                <input id="txt_business_name" type="text" class="namesumit namesumit-img" placeholder="Name">
+                <input id="txt_business_mobile" type="text" maxlength="10" class="namesumit mobilesumit-img" placeholder="Mobile">
+                <input id="txt_business_email" type="text" class="emailsumit emailsumit-img" placeholder="Email Address">
+                <input id="txt_business_companyname" type="text" class="emailsumit companyumit-img" placeholder="Company Name">                
+
+            </div>
+            <input type="button" id="btnAddNewBusiness" value="submit" class="signup">
+        </div>
     </div>
 </div>
 
 
+<script type="text/javascript">
 
+    $(function () {
+
+        $('#btnAdvertiseWithUs').click(function () {
+
+            var name = $('#txt_advertise_withus_name');
+            var mobile = $('#txt_advertise_withus_mobile');
+            var email = $('#txt_advertise_withus_email');
+            var companyname = $('#txt_advertise_withus_companyname');
+            var city = $('#ddl_advertise_withus_City');
+
+            if (city.find('option:selected').val() == 0) {
+                alert('City required.');
+                $('#ddl_advertise_withus_City').focus();
+                return false;
+            }
+
+            if (!name.val()) {
+                alert('Name required.');
+                $('#txt_advertise_withus_name').focus();
+                return false;
+            }
+
+            if (!mobile.val()) {
+                alert('Mobile number required.');
+                $('#txt_advertise_withus_mobile').focus();
+                return false;
+            }
+            else if (!ValidateMobile(mobile.val())) {
+
+                alert('Please enter valid mobile number.');
+                $('#txt_advertise_withus_mobile').focus();
+                return false;
+            }
+
+            if (email.val()) {
+
+                if (!ValidateEmail(email.val())) {
+                    alert('Please enter valid email address.');
+                    $('#txt_advertise_withus_email').focus();
+                    return false;
+                }
+            }
+
+            if (!companyname.val()) {
+                alert('Company required.');
+                $('#txt_advertise_withus_companyname').focus();
+                return false;
+            }
+
+            if (name.val() && companyname.val()) {
+
+                var newbusiness = "{'city':'" + city.val() + "', 'name':'" + name.val() + "', 'mobile':'" + mobile.val() + "', 'email':'" + email.val() + "', 'companyname':'" + companyname.val() + "', 'purpose':'Advertise with us'}";
+                $.ajax({
+                    type: 'POST',
+                    url: 'http://www.gocityguides.com/webservice/clientsearch.asmx/AddNewBusiness',
+                    contentType: 'application/json; charset=utf-8',
+                    data: newbusiness,
+                    success: function (response) {
+
+                        if (response.d == true) {
+                            alert('Your advertisement request has been sent successfully...');
+                            disablePopup();
+                        }
+                    },
+                    error: function (response) {
+                        alert(response.responseText);
+                    }
+                });
+            }
+
+        });
+
+        $('#advertise-with-us').click(function () {
+
+            $('.AdvertiseWithUsPopup').css('display', 'block');
+        });
+
+        $('.viewSamplecancel').click(function () {
+            disablePopup();
+        });
+
+        var disablePopup = function () {
+
+            $('input[type="text"][id^="txt_advertise_withus"]').each(function (index, value) {
+                this.value = "";
+            });
+
+            $('#ddl_advertise_withus_City').prop('selectedIndex', 0);
+            $('.AdvertiseWithUsPopup').hide();
+        }
+    });
+
+    function ValidateEmail(email) {
+        var expr = /^([\w-\.]+)@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.)|(([\w-]+\.)+))([a-zA-Z]{2,4}|[0-9]{1,3})(\]?)$/;
+        return expr.test(email);
+    };
+
+    function ValidateMobile(mobile) {
+        var expr = /^[0-9]{10}$/;
+        return expr.test(mobile);
+    };
+
+</script>
+
+<div class="AdvertiseWithUsPopup" style="display: none;">
+    
+    <div id="ReportMain">
+        <div class="AdvertiseWithUsdiv">
+
+            <!--popup content start-->
+            <img src="/images/cancle-red.png" width="29px" height="29px" class="viewSamplecancel">
+            <div class="popupinput">
+                
+                <p class="popupheader" style="position: relative;">
+                    <span id="lbl_clientname" class="sitename"> Advertise with us </span>
+                    
+                </p>
+
+                <select id="ddl_advertise_withus_City" class="namesumit placewsumit-img">
+	            <option value="0">--Select--</option>
+	            <option value="Delhi">Delhi</option>
+	            <option value="Hyderabad">Hyderabad</option>
+	            <option value="Pune">Pune</option>
+	            <option value="Bangalore">Bangalore</option>
+	            <option value="Jaipur">Jaipur</option>
+                <option value="Udaipur">Udaipur</option>
+	            <option value="Chennai">Chennai</option>
+                </select>
+
+                <input id="txt_advertise_withus_name" type="text" class="namesumit namesumit-img" placeholder="Name">
+                <input id="txt_advertise_withus_mobile" type="text" maxlength="10" class="namesumit mobilesumit-img" placeholder="Mobile">
+                <input id="txt_advertise_withus_email" type="text" class="emailsumit emailsumit-img" placeholder="Email Address">
+                <input id="txt_advertise_withus_companyname" type="text" class="emailsumit companyumit-img" placeholder="Company Name">                
+
+            </div>
+            <input type="button" id="btnAdvertiseWithUs" value="submit" class="signup">
+        </div>
     </div>
-    </form>
+</div>
+
+
+<script type="text/javascript">
+
+    $(function () {
+
+        /*-----------------------------------------------Locality-----------------------------------------------*/
+        
+        var eventCategories = new Array();
+
+        $.ajax({
+            type: 'POST',
+            url: 'http://www.gocityguides.com/webservice//categorysearch.asmx/GetCategoryForEvent',
+            contentType: "application/json; charset=utf-8",
+            data: "{}",
+            success: function (response) {
+
+                $.each(JSON.parse(response.d), function (index, value) {
+                    eventCategories.push(value.ClientCategoryName);
+                });
+            },
+            error: function (response) { alert(response.responseText); }
+        });
+        
+        //alert(eventCategories.length);
+
+        $("#txt_event_categoryname").autocomplete({
+            source: eventCategories,
+            minLength: 1,
+            open: function (event, ui) {
+                $('.ui-autocomplete > li').css({ 'font-size': '12px', 'cursor': 'pointer' });
+                $('.ui-autocomplete > ul').css('border', 'none');
+            }
+        });
+
+        /*-----------------------------------------------Locality-----------------------------------------------*/
+
+        $('#btnPostNewEvent').click(function () {
+
+            var city = $('#ddl_event_City');
+            var category = $('#txt_event_categoryname');
+            var venuename = $('#txt_event_venue_name');
+            var mobile = $('#txt_event_mobile');
+            var email = $('#txt_event_email');            
+
+            if (city.find('option:selected').val() == 0) {
+                alert('City required.');
+                $('#ddl_event_City').focus();
+                return false;
+            }
+
+            if (!venuename.val()) {
+                alert('Name required.');
+                venuename.focus();
+                return false;
+            }
+            if (!mobile.val()) {
+                alert('Mobile number required.');
+                mobile.focus();
+                return false;
+            }
+            else if (!ValidateMobile(mobile.val())) {
+
+                alert('Please enter valid mobile number.');
+                mobile.focus();
+                return false;
+            }
+
+            if (email.val()) {
+
+                if (!ValidateEmail(email.val())) {
+                    alert('Please enter valid email address.');
+                    email.focus();
+                    return false;
+                }
+            }
+
+            if (!category.val()) {
+                alert('Company required.');
+                category.focus();
+                return false;
+            }
+
+            if (venuename.val() && category.val()) {
+
+                var newbusiness = "{'city':'" + city.val() + "', 'venuename':'" + venuename.val() + "', 'venueaddress':'" + $('#txt_event_venue_address').val() + "', 'eventmobile':'" + mobile.val() + "', 'eventemail':'" + email.val() + "', 'eventcategoryname':'" + category.val() + "', 'eventshortdescription':'" + $('#txt_event_description').val() + "'}";
+                $.ajax({
+                    type: 'POST',
+                    url: 'http://www.gocityguides.com/webservice/clientsearch.asmx/PostNewEvents',
+                    contentType: 'application/json; charset=utf-8',
+                    data: newbusiness,
+                    success: function (response) {
+
+                        if (response.d == true) {
+                            alert('You event have been posted successfully. Kindly wait for approval.');
+                            disablePopup();
+                        }
+                    },
+                    error: function (response) {
+                        alert(response.responseText);
+                    }
+                });
+            }
+
+        });
+
+        $('#post-new-event').click(function () {
+
+            $('.AddNewEventPopup').css('display', 'block');
+        });
+
+        $('.viewSamplecancel').click(function () {
+            disablePopup();
+        });
+
+        var disablePopup = function () {
+
+            $('input[type="text"][id^="txt_event"]').each(function (index, value) {
+                this.value = "";
+            });
+
+            $('#ddl_event_City').prop('selectedIndex', 0);
+            $('.AddNewEventPopup').hide();
+        }
+    });
+
+    function ValidateEmail(email) {
+        var expr = /^([\w-\.]+)@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.)|(([\w-]+\.)+))([a-zA-Z]{2,4}|[0-9]{1,3})(\]?)$/;
+        return expr.test(email);
+    };
+
+    function ValidateMobile(mobile) {
+        var expr = /^[0-9]{10}$/;
+        return expr.test(mobile);
+    };
+
+</script>
+ 
+<div class="AddNewEventPopup" style="display: none;">
+    
+    <div id="ReportMain">
+        <div class="AddNewEventdiv">
+
+            <!--popup content start-->
+            <img src="/images/cancle-red.png" width="29px" height="29px" class="viewSamplecancel">
+            <div class="popupinput">
+                
+                <p class="popupheader" style="position: relative;">
+                    <span id="lbl_clientname" class="sitename"> Post Your Events </span>
+                    
+                </p>
+
+                <select id="ddl_event_City" class="namesumit placewsumit-img">
+	            <option value="0">--Select--</option>
+	            <option value="Delhi">Delhi</option>
+	            <option value="Hyderabad">Hyderabad</option>
+	            <option value="Pune">Pune</option>
+	            <option value="Bangalore">Bangalore</option>
+	            <option value="Jaipur">Jaipur</option>
+	            <option value="Chennai">Chennai</option>
+                    <option value="Udaipur">Udaipur</option>
+                </select>
+
+                <input id="txt_event_categoryname" type="text" class="emailsumit companyumit-img" placeholder="category Name">
+                <input id="txt_event_venue_name" type="text" class="namesumit namesumit-img" placeholder="Venue Name">
+                <input id="txt_event_venue_address" type="text" class="namesumit placewsumit-img" placeholder="Venue Address">
+                <input id="txt_event_mobile" type="text" maxlength="10" class="namesumit mobilesumit-img" placeholder="Contact Mobile">
+                <input id="txt_event_email" type="text" class="emailsumit emailsumit-img" placeholder="Contact Email Id">                
+                <input id="txt_event_description" type="text" class="emailsumit descriptionsumit-img" placeholder="Short Description">                
+
+            </div>
+            <input type="button" id="btnPostNewEvent" value="submit" class="signup">
+        </div>
+    </div>
+</div>
+
+ <footer class="footer-bg">
+  <div class="container">
+    <ul>
+      <li class="footer-thril-logo"></li>
+      <li> <a href="/content/about-us">About Us</a> </li>
+      <li> <a href="/content/terms">Terms</a></li>
+      <li> <a href="/content/privacy-policy">Privacy Policy</a> </li>
+       <li> <a href="/content/contact">Contact Us</a> </li>
+        <li id="advus"> <a href="javascript:void(0)" id="advertise-with-us"> Advertise with us </a> </li>
+         <li> <a href="http://www.gocityguides.com/siteadmin" target="_blank" id="a1"> Business Login </a> </li>
+      
+    </ul>
+    <ul id="gtlst">
+      <li class="contact">Get Listed</li>
+      <li> <a href="javascript:void(0)" id="post-new-event"> Add Your Event </a> </li>
+      <li> <a href="javascript:void(0)" id="post-your-business"> Add Your Business </a> </li>
+    </ul>
+    <ul class="latestarticledetails">
+      
+    </ul>
+    <ul>
+      <li class="newsletter">Newsletter</li>
+      <li>
+        <p class="font-LBG">Subscribe to our Newsletter</p>
+      </li>
+      <li>
+       
+       <span class="newsletter_msg"><span id="ctl00_Footer1_lbl_msg">Thanks for your subscription </span>
+           </span>
+      </li>
+      <li>
+        <div class="input-group">
+          <input id="txt_newsletter" class="place-txtfield form-ctrl" placeholder="Email" size="30">
+
+
+          <span class="input-group-btn">
+          <input class="btn" type="button" onclick="newsletter();" value="submit">
+          </span> </div>
+      </li>
+      <li class="social"><a target="_blank" href="https://www.facebook.com/pages/Gocityguides/146317732075371?fref=ts"><span class="glyphicon">
+          <i class="fa fa-facebook"></i></span> </a>&nbsp; <a target="_blank" href="https://twitter.com/gocityguides"><span class="glyphicon">
+              <i class="fa fa-twitter"></i></span> </a>&nbsp; <a target="_blank" href="https://plus.google.com/u/0/102271874322935310312"><span class="glyphicon">
+                  <i class="fa fa-google-plus"></i></span> </a>&nbsp; <a target="_blank" href="https://www.pinterest.com/gocityguides/"><span class="glyphicon">
+                      <i class="fa fa-pinterest-p"></i></span> </a></li>
+    </ul>
+    
+  </div><div class="container foo-btm" style="border:solid 1px solid">All contents © copyright Vasundhara Media Pvt.Ltd. All rights reserved</div>
+</footer>
+ 
+<!-- footer end-->
+</div></form>
+<div class="scrollup">
+    </div>    
+    
+<!-- signup popup start-->
+<div id="viewSamplePopup">
+<div id="viewSampleMain">
+<div id="viewSamplediv">
+
+<!--popup content start--> 
+<img alt="close" title="close" src="/images/cancle-red.png" width="29" height="29" class="viewSamplecancel" id="viewSamplecancel"> 
+<div class="popupinput">
+<p class="popupheader">Signup for <span class="sitename">gocityguide.com</span></p>
+<input id="txt_registration_name" type="text" class="namesumit namesumit-img" placeholder="Your Name">
+<input id="txt_registration_email" type="email" class="emailsumit emailsumit-img" placeholder="Email id">
+<input id="txt_registration_password" type="password" class="passwordsumit passwordsumit-img" placeholder="Password">
+<input id="txt_registration_confirmpassword" type="password" class="conpwsumit conpwsumit-img" placeholder="Confirm Password">
+</div>
+   
+      <input type="button" id="btn_registration" onclick="Registration();" value="submit" class="signup">
+
+</div></div></div>
+<!--popup content end--> 
+<!-- signup popup end-->
+
+<!-- login popup start-->
+<div id="m1">
+<div id="m2">
+<div id="m3">
+
+<!--login content start--> 
+<img alt="close" title="close" src="/images/cancle-red.png" width="29" height="29" class="viewSamplecancel1" id="viewSamplecancel1"> 
+<div class="popupinput">
+<a class="fbConatiner" onclick="Insert_PageUrl('fb')"><span class="icon fb"></span><span class="fbtext">Connect using Facebook</span></a>
+  <a class="googlConatiner" onclick="Insert_PageUrl('gmail')"><span class="icon gp"></span><span class="gptext">Connect using Google</span></a>
+  <p class="border-bottom"><span class="icon or"></span></p>
+  <p class="myAccount">My Account</p>
+
+  <input id="txt_loginEmail" type="text" placeholder="Email Address" class="emailHome">
+  <input id="txt_loginPassword" type="password" placeholder="Password" class="passwordHome">
+   
+    
+        <input type="button" id="Button2" onclick="SigninViaEmail();" value="submit" class="sbtBtn">
+    <a href="#" onclick="forgetPassword();" class="frgt">Forgot password?</a><br>
+    <a href="#" onclick="newuser();" class="NewUser">New User? Create Account</a>
+</div>
+    </div></div></div>
+
+<div id="forget_n1">
+<div id="forget_n2">
+<div id="forget_n3">
+
+<!--login content start--> 
+<img alt="close" title="close" src="/images/cancle-red.png" width="29" height="29" class="viewSamplecancel2" id="viewSamplecancel2"> 
+<div class="popupinput">
+
+  <p class="myAccount">Forget Password</p>
+
+  <input id="txt_forgetEmail" type="text" value="Email Address" name="email" class="emailHome">
+   
+  
+
+     <input type="button" id="Button1" onclick="ForgotPasswordMail();" value="submit" class="forgot">
+
+    <a href="#" onclick="LoginPopup();" class="frgt">Login</a><br>
+    <a href="#" onclick="newuser();" class="NewUser">New User? Create Account</a>
+</div>
+    </div></div></div>  
+
+
+
+
+
+
+
+    
+    
 
 
 </body></html>
