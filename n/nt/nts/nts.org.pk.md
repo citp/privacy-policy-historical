@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nts.org.pk privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527092337id_/http%3A//www.nts.org.pk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nts.org.pk privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031185506id_/http%3A//www.nts.org.pk/privacy.html) for the most accurate reproduction.*
 
-# .:NTS™:.
+# Privacy & Security | NTS
 
-NTS is committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us.
+NTS is committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information (“Personal Information”) you share with us.
 
 Personal Information means any information that may be used to identify an individual, including, but not limited to, your first and last name, your home or other physical address and an email address or other contact information, whether at work or at home.
 
