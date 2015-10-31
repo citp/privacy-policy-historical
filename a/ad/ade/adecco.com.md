@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adecco.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625000555id_/http%3A//www.adecco.com/en-US/Pages/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adecco.com privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031020706id_/http%3A//www.adecco.com/en-US/Pages/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement | Adecco Group - Better work, better life
 
