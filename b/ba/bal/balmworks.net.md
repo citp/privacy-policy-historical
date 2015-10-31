@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the balmworks.net privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216151929id_/http%3A//balmworks.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the balmworks.net privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031195322id_/http%3A//balmworks.com/policy.html) for the most accurate reproduction.*
 
 # BalmWorks.com Privacy Policy
 
