@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gsmnation.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630070811id_/http%3A//www.gsmnation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gsmnation.com privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031213950id_/http%3A//www.gsmnation.com/privacy-policy) for the most accurate reproduction.*
 
 # GSM Nation - Privacy Policy
 
