@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the raring2go.co.uk privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503195655id_/http%3A//www.raring2go.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raring2go.co.uk privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031201353id_/http%3A//www.raring2go.co.uk/privacy) for the most accurate reproduction.*
 
-# Raring2go! - Privacy
-
-## Privacy Policy
+# Privacy
 
 Your privacy is very important to us at Mojo Publishing Ltd ("Mojo Publishing Ltd", "Mojo Publishing", "Mojo", "Raring2go!", "we", "us" or "our"). Please read this Privacy Policy to learn about the ways in which we use and protect your personal information. If you have any queries concerning your personal information please contact us at info@Raring2go.co.uk.
 
