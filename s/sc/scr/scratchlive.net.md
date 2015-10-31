@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the scratchlive.net privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629184902id_/http%3A//serato.com/legal/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scratchlive.net privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031072205id_/http%3A//serato.com/legal/website-privacy-policy) for the most accurate reproduction.*
 
 # Serato Websites Privacy Policy | Serato.com
 
 #### Introduction
 
-Serato Inc Limited Partnership, "Serato", own and run several websites, namely Serato.com, [ScratchLive.net](http://scratchlive.net/) and [Whitelabel.net](http://whitelabel.net/), collectively "Serato Websites".
+Serato Inc Limited Partnership, "Serato", own and run several websites, including but not limited to Serato.com, [Seratopyro.com](http://seratopyro.com/) and [Whitelabel.net](http://whitelabel.net/), collectively "Serato Websites".
 
 Serato Websites are run on a number of servers leased by Serato and located in the USA, collectively "Serato Servers". During your use of Serato Websites, Serato collects assorted information about your specific website usage. Additionally, you may be asked to provide us with personally identifying information that enables us to provide you with website personalisation options and/or various online services. This document describes what information we collect, when we collect it, what we use the information for and to whom we may disclose it.  Serato may update this statement from time to time so you are encouraged to periodically revisit this page for the latest Serato Website Privacy Policy.
 
