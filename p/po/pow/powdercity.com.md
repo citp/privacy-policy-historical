@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powdercity.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608002110id_/http%3A//www.powdercity.com/pages/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powdercity.com privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031120936id_/http%3A//www.powdercity.com/pages/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
