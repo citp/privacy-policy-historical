@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the masterairscrew.com privacy policy that was archived on 2015-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150501164322id_/http%3A//masterairscrew.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masterairscrew.com privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031124201id_/http%3A//masterairscrew.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Windsor Propeller LLC - Privacy Policy
-
-[Home](https://web.archive.org/) > Privacy Policy
 
 | | |   
 ---|---|---  
