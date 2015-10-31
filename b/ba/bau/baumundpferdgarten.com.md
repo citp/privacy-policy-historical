@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baumundpferdgarten.com privacy policy that was archived on 2015-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150518125032id_/http%3A//www.baumundpferdgarten.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baumundpferdgarten.com privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031062336id_/http%3A//www.baumundpferdgarten.com/about/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
