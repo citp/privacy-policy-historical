@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boxopus.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317183022id_/https%3A//boxopus.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxopus.com privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031030744id_/https%3A//boxopus.com/page/privacy) for the most accurate reproduction.*
 
 # Boxopus privacy policy
 
