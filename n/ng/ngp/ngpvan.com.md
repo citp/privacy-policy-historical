@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the ngpvan.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629023106id_/http%3A//www.ngpvan.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ngpvan.com privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031021319id_/http%3A//www.ngpvan.com/content/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | NGP VAN – The Leading Technology Provider to Democratic and progressive campaigns
+# NGP VAN | The Leading Technology Provider to Democratic and progressive campaigns
 
 NGP VAN, Inc., respects the privacy of all users of our Web site, Web-based software products and related online services.  NGP VAN is committed to honoring and protecting the privacy of our clients' lists and data, as well as the personal information of their donors, supporters, volunteers, and Web site visitors.
 
 This document outlines our privacy policy and explains what we do with the information collected using our online products and services.
 
-**If you visit the NGP VAN Web site at[www.ngpvan.com:](http://www.ngpvan.com/)**
+If you visit the NGP VAN Web site at [www.ngpvan.com](http://www.ngpvan.com/?__hstc=147367592.f53a87edc88c80467c589066520b9c7e.1437505277389.1444941732226.1444951430394.13&__hssc=147367592.4.1444951430394&__hsfp=628077307) or [www.everyaction.com](http://www.everyaction.com/) and their subdomains:
 
 ### Information Collection and Use
 
@@ -24,7 +24,7 @@ Persons who supply us with their telephone numbers or e-mail addresses on-line m
 
 We will not share information with any other organization.
 
-### **If you are a client using the NGP database:**
+### If you are a client using the NGP database:
 
 Any data you enter in the software as well as any data specific to your e-mail list, volunteer sign-ups or online contributions are your property and will not be used by NGP VAN for any purpose other than in connection with the performance of the services you have purchased.
 
@@ -34,7 +34,7 @@ We may, from time to time, analyze client data and usage statistics at an aggreg
 
 NGP VAN's standard License Agreement and Standard Terms and Conditions require you to consent to NGP VAN occasionally revealing your name for the purpose of testimonial or reference, or for use in our advertising and marketing media.  To request privacy or removal of your name from our materials, please contact us using the information below.
 
-### **If you are a visitor to the Web site of an NGP VAN client:**
+### If you are a visitor to the Web site of an NGP VAN client:
 
 When you see the "Powered by NGP VAN" graphic at the bottom of a Web page, it means the organization is a client of NGP VAN and is using our services to collect and store information about donors, supporters, volunteers, and Web site visitors.
 
@@ -72,7 +72,7 @@ Persons who supply their telephone numbers or e-mail addresses on-line may recei
 
 Furthermore, while we do our best to protect your personal information, NGP VAN cannot ensure or warrant the security of any information you transmit through our service, and you do so at your own risk.  Please be careful whenever you are online.
 
-### **The following applies to everyone:**
+### The following applies to everyone:
 
 ### Security
 
@@ -104,10 +104,10 @@ NGP VAN reserves the right at any time and without notice to change this privacy
 
 If you have questions or concerns about this privacy policy, you may contact us at:
 
-**NGP VAN**  
-1101 15th St, NW Suite 500  
+NGP VAN  
+1101 15th St, NW Suite 500  
 Washington, DC 20005  
 Phone: 202-686-9330  
-E-mail: [support@ngpvan.com](mailto:support@ngpvan.com)
+E-mail: [support@ngpvan.com](http://ngpvan-com.ngpvanhost.com/mailto:support@ngpvan.com)
 
 _Last Modified - 8/21/2012_
