@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southwalesargus.co.uk privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626130049id_/http%3A//www.southwalesargus.co.uk/my/account/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southwalesargus.co.uk privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031215527id_/http%3A//www.southwalesargus.co.uk/my/account/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
