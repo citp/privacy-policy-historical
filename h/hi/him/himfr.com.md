@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the himfr.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502232202id_/http%3A//himfr.com/static/privacy_policy-269.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the himfr.com privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031065137id_/http%3A//www.himfr.com/static/privacy_policy-269.html) for the most accurate reproduction.*
 
 # Privacy Policy - Himfr.com
 
