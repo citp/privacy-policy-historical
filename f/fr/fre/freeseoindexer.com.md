@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeseoindexer.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511110257id_/https%3A//freeseoindexer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeseoindexer.com privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031125713id_/http%3A//freeseoindexer.com/privacy-policy) for the most accurate reproduction.*
 
 # Google PageRank Stats - Free SEO Indexer
 
