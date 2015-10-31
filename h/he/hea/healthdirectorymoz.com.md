@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthdirectorymoz.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616105455id_/http%3A//www.healthdirectorymoz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthdirectorymoz.com privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031092417id_/http%3A//www.healthdirectorymoz.com/privacy.php) for the most accurate reproduction.*
 
 # Health Information Directory | Medical Websites & Fitness Resources- Privacy
 
