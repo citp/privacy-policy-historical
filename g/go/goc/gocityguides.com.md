@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the gocityguides.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607175810id_/http%3A//www.gocityguides.com/delhi/content/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gocityguides.com privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031182838id_/http%3A//www.gocityguides.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Vasundhara Media Pvt. Ltd
-
-Privacy Policy 
 
 **Privacy Policy**
 
