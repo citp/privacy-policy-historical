@@ -1,26 +1,26 @@
-> *The following text is extracted and transformed from the toppickleads.com privacy policy that was archived on 2015-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150221152527id_/http%3A//www.toppickleads.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toppickleads.com privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101005312id_/http%3A//www.toppickleads.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Top Pick Leads
 
-**[Top Pick Leads](http://www.toppickleads.com/tips-for-boosting-your-sales.html)** takes your privacy seriously. [This](http://www.toppickleads.com/become-good-at-email-marketing-with-this-excellent-advice.html) privacy policy describes what [personal](http://www.toppickleads.com/dont-hold-yourself-back-new-ideas-for-personal-development.html) [information](http://www.toppickleads.com/personal-development-information-that-can-really-help-you.html) we collect and how we use it. See this [privacy policy primer](http://cybec.com/what-is-a-privacy-policy/) to [learn](http://www.toppickleads.com/read-these-tips-to-learn-more-about-stress-management.html) more about privacy policies in general.
+**[Top Pick Leads](http://www.toppickleads.com/tips-for-boosting-your-sales.html)** takes your privacy seriously. [This](http://www.toppickleads.com/become-good-at-email-marketing-with-this-excellent-advice.html) privacy policy describes what [personal](http://www.toppickleads.com/seven-personal-development-tips-for-your-success.html) [information](http://www.toppickleads.com/must-have-information-about-personal-development.html) we collect and how we use it. See this [privacy policy primer](http://cybec.com/what-is-a-privacy-policy/) to [learn](http://www.toppickleads.com/learn-how-to-use-what-you-have-been-given-for-a-better-life.html) more about privacy policies in general.
 
 ## Routine Information Collection
 
-All web servers track [basic](http://www.toppickleads.com/basic-steps-towards-fulfilling-your-true-potential.html) information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can [personally](http://www.toppickleads.com/great-ways-to-help-you-develop-personally.html) identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
+All web servers track [basic](http://www.toppickleads.com/basic-strategies-on-how-to-become-a-successful-person.html) information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can [personally](http://www.toppickleads.com/great-ways-to-help-you-develop-personally.html) identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
 
 ## Cookies and Web Beacons
 
-Where necessary, Top Pick [Leads](http://www.toppickleads.com/insurance-leads-can-help-you-with-business-growth.html) uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
+Where necessary, Top Pick [Leads](http://www.toppickleads.com/effectively-generating-and-manageing-leads-with-email-marketing-2.html) uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
 
 Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. 
 
 ## Controlling Your Privacy
 
-Note that you can [change](http://www.toppickleads.com/follow-these-fantastic-tips-to-change-your-life.html) your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms. This list of [web browser privacy management](http://cybec.com/web-browser-privacy-management/) links may also be useful.
+Note that you can [change](http://www.toppickleads.com/helping-yourself-change-to-make-your-future-hace-more-potential.html) your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms. This [list](http://www.toppickleads.com/solid-advice-on-building-a-great-email-marketing-list.html) of [web browser privacy management](http://cybec.com/web-browser-privacy-management/) links may also be useful.
 
 ## Special Note About Google Advertising
 
-Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. [These](http://www.toppickleads.com/make-positive-changes-today-by-following-these-personal-development-tips.html) cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google's cookie usage](http://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google's own privacy policies. 
+Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google's cookie usage](http://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google's own privacy policies. 
 
 ## Contact Information
 
