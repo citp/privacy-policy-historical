@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pba.com.ph privacy policy that was archived on 2015-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150406054946id_/http%3A//services.inquirer.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pba.com.ph privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031151724id_/http%3A//services.inquirer.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | INQUIRER.net Services
+# Privacy Policy - INQUIRER.net Services | INQUIRER.net Services
 
 This privacy statement discloses the privacy practices for www.inquirer.net  
 It is Inquirer.net’s continuing goal to build users’ trust and confidence in the Internet by promoting the use of fair information practices. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information and user privacy practices.
