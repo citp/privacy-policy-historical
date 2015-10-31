@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the total.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630041001id_/http%3A//www.total.com/en/cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the total.com privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031163810id_/http%3A//www.total.com/en/cookie-policy) for the most accurate reproduction.*
 
 # Cookie Policy | total.com
 
 ## Personal Data Protection Policy
 
-Welcome to the website [http://www.total.com](http://www.total.com/) (the “Website"). By connecting to the Website, you acknowledge that you have read, understood and accepted this Personal Data Protection Policy (herein after referred to as the “Policy”) without limitation or reservation along with [our General Terms and Conditions of Use](http://www.total.com/en/cookie-policy). Please note that other general terms and conditions and personal data protection policies apply to other websites of the Total group. It is recommended that you read them carefully.
+Welcome to the website [http://www.total.com]() (the “Website"). By connecting to the Website, you acknowledge that you have read, understood and accepted this Personal Data Protection Policy (herein after referred to as the “Policy”) without limitation or reservation along with [our General Terms and Conditions of Use](https://web.archive.org/en/cookie-policy). Please note that other general terms and conditions and personal data protection policies apply to other websites of the Total group. It is recommended that you read them carefully.
 
 This Policy is intended to inform you of the rights and freedoms that you can exercise with regard to our use of your personal data. It also describes the measures implemented to protect them.
 
