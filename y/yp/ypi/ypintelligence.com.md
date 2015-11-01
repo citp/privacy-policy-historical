@@ -1,92 +1,86 @@
-> *The following text is extracted and transformed from the ypintelligence.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006062213id_/http%3A//ypintelligence.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ypintelligence.com privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101113447id_/http%3A//currentaffair.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# CurrentAffair | The Latest Celebrity Gossip, Rumors & Entertainment News, Scandals & Break-Ups
 
-This privacy policy applies to your use of the ypintelligence websites located at www. ypintelligence .com, but not does apply to any third party sites that may be linked to them, or any relationships you may have with the business listed on the ypintelligence Sites.
+This policy describes how and why Online Business Services S.A. collects non-personally identifiable data from users and website visitors to http://WWW.CURRENTAFFAIR.COM, and how that data will be used. Online Business Services S.A. is committed to respecting the privacy of non-personal identifiable data gathered.
 
-The terms " **we** ", " **us** ", and " **ypintelligence** " refer to ypintelligence Inc. The terms " **you** " and " **your** " refer to you, as a user of any of the ypintelligence Sites. The term " **personal information** " means information that you provide to us which personally identifies you to be contacted or identified, such as your name, phone number, email address, and any other data that is tied to such information.
+Online Business Services S.A. s Privacy Policy is incorporated into and subject to the CurrentAffair.com Terms of Use. Each time that you access or use the Site you signify that you have read, understand, and agree to be bound by the Terms of Use, and this Privacy Policy. If you do not agree to the Terms of Use and this Privacy Policy, you must discontinue using our Services.
 
-BY USING THE upperdomain SITES, YOU AGREE TO BE BOUND BY THE TERMS OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE WITH THESE TERMS, PLEASE DO NOT USE THE upperdomain SITES.
+### Information That Is Collected 
 
-### I. Information We Collect and How We Use It
+When you provide us with contact or other information in connection with a particular activity, product or service, including your email address or telephone number, you expressly consent to our communicating with you about our products or services using the information you provided to us. You also attest that you have the legal authority over any telephone number you provide to us and can provide us with the authorization to contact you. This means we may contact you, in person or by recorded message, by e-mail, telephone and/or mobile telephone number (including use of automated dialing equipment), text (SMS) message, or any other means of communication that your wireless or other telecommunications device may be capable of receiving.
 
-We use commercially reasonable efforts to ensure that the collection of personal information is limited to that which is necessary to fulfill the purposes identified below. If we use your information in a manner different than the purpose for which it is collected, then we will ask you for your consent prior to such use.
+### Information you provide to us 
 
-_Account information._ If you create an account to take advantage of the full range of services offered on the ypintelligence Sites, we ask for and record personal information such as your name and email address. We use your email address to send you updates and news, and contact you on behalf of other users (such as other users who send you compliments, personal messages, or favorite reviews). You may choose not to receive e-mail of this type by accessing the "Account" tab on the ypintelligence Sites and updating your notification settings.
+In order to provide the Services, we collect the following types of information from you:
 
-_Submissions._ We store and may publicly display your submissions in order to provide the services that we offer. When we display your submissions, we do so together with your account name (first name and last initial). The term " **submissions** " refers to the information that you submit or post to the ypintelligence Sites for public display, such as business ratings, reviews, photos, compliments, and the information that you display as part of your account profile.
+Personally Identifiable Information (user-provided information)
 
-_Feedback._ If you contact us to provide feedback, register a complaint, or ask a question, we will record any personal information and other content that you provide in your communication so that we can effectively respond to your communication.
+Personally identifiable information is any information that may be used to identify or contact you personally, such as your name, email address, gender, birthdates, phone number, postal or other physical address. If you register for an account, then we may collect certain personally identifiable information during the registration process, including your name, email address. You may also provide personal information to us when participating in a survey or poll or when you post information via our social networking platform. Whether or not to provide this information is your choice; however, certain personally identifiable information is required to access and use some of the Services.
 
-_Personal messaging._ In order to allow you to send and receive personal messages to other registered users of the ypintelligence Sites, we record the messages that you send and receive using the ypintelligence Sites' personal messaging feature.
+Non-Personal Information/ Anonymous Data (automatically collected information which doesn’t identify the user).
 
-_Activity._ We record information relating to your use of the ypintelligence Sites, such as the searches you undertake, the pages you view, your browser type, IP address, requested URL, referring URL, and timestamp information. We use this type of information to administer the ypintelligence Sites and provide the highest possible level of service to you. We also use this information in the aggregate to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the ypintelligence Sites. You cannot be identified from this aggregate information. 
+Non-personal/anonymous data is any data or information that does not personally identify you. We obtain non-personal information about you from information that you provide to us, either separately or together with your personally identifiable information. We also automatically collect certain non-personal information from you when you use our Services and may include such information as your Internet Protocol address, your browser, recent search history, and your activity on our websites or website of our partners .
 
-_Cookies._ We send cookies to your computer in order to uniquely indentify your browser and improve the quality of our service. The term " **cookies** " refers to small pieces of information that a website sends to your computer's hard drive while you are viewing the site. We may use both session cookies (which expire once you close your browser) and persistent cookies (which stay on your computer until you delete them). Persistent cookies can be removed by following your browser help file directions. If you choose to disable cookies, some areas of the ypintelligence Sites may not work properly or at all.
+We use non-personally identifiable data collected from users and website visitors in order to:
 
-_Enforcement._ We may use the information we collect in connection with your use of the ypintelligence Sites (including your personal information) in order to investigate, enforce, and apply our Terms of Service and Privacy Policy.
-
-### II. Transfer of Information
-
-We may distribute your submissions to third parties, as permitted pursuant to our Terms of Service. The third parties may in turn publicly display or publish your submissions in connection with their own websites and media platforms. When we distribute your submissions to third parties, we typically include your account name (but not your personal information unless you include your personal information in your submissions).
-
-We may share your personal information with third parties to provide you with services that we offer through the ypintelligence Sites, conduct quality assurance testing, facilitate creation of accounts, provide technical and customer support, or provide specific services, such as synchronization of your contacts with other software applications, in accordance with your instructions. These third parties are required not to use your personal information other than to provide the services requested by you.
-
-We may share your personal information with our parent company, subsidiaries, joint ventures, or other companies under a common control (collectively, " **Affiliates** ") that we may have now or in the future, in which case we will require them to honor this Privacy Policy. If another company acquires our company or our assets, that company will possess your personal information, and will assume the rights and obligations with respect to that information as described in this Privacy Policy.
-
-We may disclose your personal information to third parties in a good faith belief that such disclosure is reasonably necessary to (a) take action regarding suspected illegal activities; (b) enforce or apply our Terms of Service and Privacy Policy; (c) comply with legal process, such as a search warrant, subpoena, statute, or court order; or (d) protect our rights, reputation, and property, or that of our users, affiliates, or the public. Please note that we are not required to question or contest the validity of any search warrant, subpoena or other similar governmental request that we receive.
-
-We may disclose information in the aggregate to third parties relating to user behavior in connection with actual or prospective business relationship with those third parties, such as advertisers and content distributors. For example, we may disclose the number of users that have been exposed to, or clicked on, advertising banners.
-
-We use third party advertising companies to serve ads when you visit the ypintelligence Sites. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
-
-### III. Others' Information
-
-You may choose to provide us with another person's e-mail address so that person may be invited to create an account on this website and become your friend. We use this information to contact and, if necessary, remind that person about the invitation. By providing us with another person's e-mail address, you represent to us that you have obtained the consent of the person concerned as regards such disclosure to us of their personal information. All invitees are provided with the option not to receive further invitations. We may disclose such information if required to do so in order to comply with legal process, as described above.
-
-### IV. Links
-
-The ypintelligence Sites may contain links to third party websites to which we have no affiliation. Except as set forth herein, we do not share your personal information with those third parties, and are not responsible for their privacy practices. We suggest you read the privacy policies on all such third party websites.
-
-### V. Controlling Your Personal Data
-
-To the extent you include personal information in your submissions (such as a photo of yourself), third parties may be able to identify you, associate you with your user account, and contact you. Third parties can also associate you with your user account using the member lookup feature on the ypintelligence Sites, but only if the third party already knows your full name and you include information in your submission that allows the third party to distinguish you from other users who might share the same full name. Please do not include information in your submissions that you expect to keep private. In addition, you can reduce the risk of being personally identified by choosing a fictitious account name, though doing so could detract from the credibility of your submissions. 
-
-Please also note that the personal messages you send or receive using the ypintelligence Sites' personal messaging feature are only private to the extent that you and the sender/recipient keep them private. For example, we do not have any control over whether a recipient of one of your personal messages publicly posts the contents of such a message.
-
-As a registered ypintelligence user, you can modify some of your personal information and your privacy preferences by accessing the "Account" section of this website. For example, you may choose not to receive e-mail solicitations from ypintelligence by accessing the "Account" tab on the ypintelligence Sites and updating your notification settings. Upon your request, ypintelligence will use commercially reasonable efforts to close your account, and cease displaying your submissions on the ypintelligence Sites; nevertheless, we may still retain your personal information in our systems. Registered users who wish to close their account should [click here](http://www.ypintelligence.com/contact?topic=support&subtopic=close).
-
-### VI. Security
-
-Your account is password protected. We use industry standard measures to protect the personal information that is stored in our database. We limit the access to your personal information to those employees and contractors who need access to perform their job function, such as our customer service personnel. If you have any questions about the security on the ypintelligence Sites, please contact us. Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that your personal information will never be disclosed in a manner that is inconsistent with this Privacy Policy.
-
-_You hereby acknowledge that ypintelligence is not responsible for any intercepted information sent via the internet, and you hereby release us from any and all claims arising out of or related to the use of intercepted information in any unauthorized manner._
-
-### VII. E-mails and Opt-out
-
-You may opt-out of receiving personal messages from specific users. In addition, you may opt-out of receiving notifications from us by changing your notification settings under the "Account" tab after you log on to a ypintelligence Site. Unregistered users who receive e-mails from us may also opt-out of receiving further e-mails by following the instructions contained in our e-mails. Despite your indicated e-mail preferences, we may send you notices of any updates to our Terms of Use or Privacy Policy.
-
-### VIII. Terms and Modifications to this Privacy Policy
-
-We may modify this Privacy Policy at any time, and we will post any new versions on this page. If we make any material changes in the way we use your personal information, we will notify you by sending an e-mail to the last e-mail address you provided to us and/or by prominently posting notice of the changes on our website. Any such changes will be effective upon the earlier of thirty (30) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting of notice of the changes on our website. These changes will be effective immediately for new users of the ypintelligence Sites. Please note that at all times you are responsible for updating your personal information to provide us with your most current e-mail address. In the event that the last e-mail you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice. In any event, changes to this Privacy Policy may affect our use of personal information that you provided us prior to our notification to you of the changes. If you do not wish to permit changes in our use of your personal information, you must notify us prior to the effective date of the changes that you wish to deactivate your account with us. Continued use of the ypintelligence Sites following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
-
-### IX. Dispute Resolution
-
-If you believe that ypintelligence has not adhered to this Privacy Policy you may write to the ypintelligence Privacy Office at the following address:
-
-ypintelligence Inc.  
-Privacy Officer  
+  1. To improve the quality and functionality of the website, enhance your experience, create new services (including customized services), change/cancel existing content and services, or for other internal and statistical purposes.
+  2. To present you relevant content, marketing materials and advertisements, by analyzing your interests from the web pages you visit and online services that you use.
+  3. To provide you with support and handle inquires.
+  4. To enforce our terms of use.
+  5. To comply with any applicable law and assist law enforcement agencies as required.
+  6. To conduct surveys and market researches.
+  7. We may use anonymous, statistical or aggregated information about the website’s use and share, publish, post, disseminate, transmit or otherwise communicate or make available such information, to suppliers, business partners, sponsors, affiliates and any other third party, at our sole discretion.
+  8. To provide you with transactional communication. We may send you notices from time to time relating to your account, your subscriptions and other products and services you have requested or in which you are currently enrolled. These may include order confirmations, renewal notices, invoices or customer service notifications.
+  9. To provide you with Email newsletters-We may send you our email newsletter(s). If you wish to unsubscribe from our email newsletter(s), simply email unsubscribe to [unsubscribe@CurrentAffair.com](mailto:unsubscribe@currentaffair.com)
+  10. To provide you with Email marketing offers, reader surveys and other promotional material.
 
 
-ypintelligence , Inc. Privacy Offer,  
-Rate It Inc. 9595 Wilshire Blvd.  
-Beverly Hills, California 90212  
-Email to: [support@ ypintelligence .com](mailto:support@ypintelligence.com)
 
-In your letter, please describe in as much detail as possible ways in which you believe the Privacy Policy has not been complied with. We will investigate your complaint promptly.
+### Information You Disclose Publicly 
 
-### X. Contacting the Website and Access to Your Personal Information
+The Site   may permit you to submit photographs, user profiles, writings, music, video, questions, comments or other content, which may include Personal Information . We or others may reproduce, publish, distribute or otherwise use this Content in any media or format (currently existing or hereafter developed). Others may have access to this Content and may have the ability to share it with third parties. Please think carefully before deciding what information you share, including Personal Information, in connection with your Personal Content. Please note that we do not control who will have access to the information that you choose to make public, and cannot ensure that parties who have access to such publicly available information will respect your privacy or keep it secure. This Privacy Policy does not apply to any information that you disclose publicly, share with others or otherwise upload onto the Site. We are not responsible for the accuracy, use or misuse of any content or information that you disclose or receive through the Site . For the full terms and conditions regarding Personal Content you submit to the Site, please review our Terms of Use. 
 
-Upon written request, subject to certain exceptions, ypintelligence will inform you of the existence, use, and disclosure of your personal information and will give you access to that information. Access requests should be sent to our Privacy Officer, using the contact information above. When requesting access to your personal information, we may request specific information from you to enable us to confirm your identity and right to access, as well as to search for and provide the personal information that we hold about you. We may charge you a fee to access your personal information to cover our costs; however, we will advise you of any fee in advance, which will be no more than any maximum fee prescribed by law.
+### Third Party Content and Links To Third Party Sites 
 
-If you have any questions about this Privacy Policy, the privacy practices of this website, or if you want to exercise any of the rights that you are given under this Privacy Policy, you can contact us using the contact information listed above.
+The Site may contain content that is supplied by a third party, and those third parties may collect Site   usage information when you browse web pages from the Site or content served to your browser. In addition, when you are on the Site you may be directed to other web sites that are operated and controlled by third parties that we do not control. We are not responsible for the privacy practices employed by any of these third parties or third party web sites. For example, if you “click” on a banner advertisement, the “click” may take you off the Site   onto a different web site. These other web sites may send their own cookies to you, independently collect data or solicit Personal Information and may or may not have their own published privacy policies. We encourage you to note when you leave our Site   and to read the privacy statements of all third party web sites before submitting any Personal Information to those sites.
+
+### Cookies , Web Beacons and Log Files 
+
+Cookies may be used on some pages of our site. Cookies are small text files placed on your hard drive that assist us in providing a more customized website experience. It is our policy to use cookies to make navigation of our website easier for visitors
+
+**_Cookies_** : When you use our Services, we may send one or more “cookies” (small data files) to your computer to uniquely identify your browser and enable us to help you log in faster and generally enhance your navigation through the Services. Cookies save you time, for example, if you personalize a web page, or navigate within the Services, a cookie recalls your specific information on subsequent visits. A cookie file can contain information such as a user ID that the website uses to track the pages you’ve visited, but the only personal information a cookie can contain is information you supply yourself. A persistent cookie remains on your computer after you close your browser so that it can be used by your browser on subsequent visits to use the Services. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. In addition to enhancing the user experience, we may use cookies to track traffic user traffic patterns. We do this to determine the usefulness and efficiency of our Services and its various pages, and to analyze traffic patterns, in order to constantly improve the Services and better serve our customers.
+
+**_Web Beacons/Pixel Tracking_** : Online Business Services S.A. may employ a common technique usually referred to as “pixel tracking” to measure the effectiveness of marketing and advertisements, as well as compile aggregate usage statistics. Pixel tracking, which may be used in connection with advertisements on other sites, on our website or in e-mail messages, involves the use of pixel tags (also known as “clear gifs,” “Web beacons” or “1-by-1 gifs”) that are not visible to the user of the site and consist of a few lines of computer coding. For example, if you visit our website from an advertisement on another site, the pixel tag will reference the cookie you received when you clicked on the advertisement. The pixel tag also may register this activity with a business partner to allow us to count the number of times or when an advertisement is accessed. This data is collected for use in our marketing and research. Personally identifiable information about you is not collected by pixel tracking, nor is any tracking information generated from the pixel tag allowed to be used for any other purpose other than to report website activity to us
+
+**_Log Files_** : Log file information is automatically reported by your browser each time you access a web page. When you use the Services, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information.
+
+If you are concerned about cookies, most browsers permit individuals to decline cookies. A user refusing cookies can still fully navigate our website.
+
+In order to properly manage our website we may anonymously log information on our systems, and identify categories of visitors by items such as domains and browser types. These statistics are used to manage the operational efficiency of our systems.
+
+### Age Limit 
+
+To use this website you must be at least 18 years of age. We never knowingly collect or maintain information at or on our website from those we actually know are under 18. If you are not 18 years of age you must obtain written consent from an adult who is at least 18 years of age before using this website.
+
+### Security 
+
+We have taken every reasonable step to safeguard and to help prevent the loss, misuse and alteration of information under our control. However, no data transmission over the Internet or electronic storage of information can be guaranteed to be 100% secure and we cannot anticipate all potential misuse of data over the Internet. Please note that we cannot ensure the security of any information you transmit to us, and your use of the Site indicates that you are willing to assume this risk.
+
+### Opt-out 
+
+To opt-out from any of our direct promotions, please email [unsubscribe@CurrentAffair.com](mailto:unsubscribe@currentaffair.com)
+
+Current Affair uses third-party online behavioral advertising technologies which include members of the Network Advertising Initiative. You can opt out of behavioral advertising from the advertising networks in the Network Advertising Initiative by [clicking here.](http://www.networkadvertising.org/choices/)
+
+### Changes to Policy 
+
+From time to time, we may revise this Privacy Policy. Therefore, it is recommended that you read it periodically. All substantial changes made to this policy will be notified on the website, at our sole discretion, and will take effect immediately.
+
+### Governing Law 
+
+This Privacy Policy is governed by and construed in accordance with the laws of Costa Rica. You agree to submit any dispute arising out of your use of this Web site to the exclusive jurisdiction of the courts of Costa Rica.
+
+### Contact us 
+
+Please direct all questions in connection with this Policy via e-mail to:  **INFO(AT)CURRENTAFFAIR(DOT)COM**.
