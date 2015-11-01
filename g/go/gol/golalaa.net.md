@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the golalaa.net privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409064304id_/http%3A//golalaa.net/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golalaa.net privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101142425id_/http%3A//golalaa.net/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
