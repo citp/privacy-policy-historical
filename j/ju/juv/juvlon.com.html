@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the juvlon.com privacy policy that was archived on 2015-03-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150316094149id_/https%3A//app3.juvlon.com/secure/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the juvlon.com privacy policy that was archived on 2015-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151101130408id_/https%3A//app3.juvlon.com/secure/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -153,6 +153,7 @@ About Niche Software</a></div>
  <li><a href="http://www.juvlon.com/who-are-we/">Who are we?</a></li>
 <li><a href="http://www.juvlon.com/our-clients/">Our Clients</a></li>
 <li><a href="http://www.juvlon.com/testimonials/">Testimonials</a></li>
+<li><a href="http://www.juvlon.com/customer-case-study">CUSTOMER CASE STUDY</a></li>
 <li><a href="http://inno-verse.com/juvlon/news/">News</a></li>
       </ul>
     </li>
@@ -260,31 +261,35 @@ Element.prototype.hasClass = function(className) {
 		</div>
 
 
-<div style="width:200px;
-height:70px;
-position:fixed;
-right:0; 
-bottom:0;    
-">
-<div id="comm100-button-232"><a href="#" onclick="Comm100API.open_chat_window(event, 232);"><img id="comm100-button-232img" src="juvlon/juvlon_chat_message.png" style="border:none;"></a></div>  
-			<script type="text/javascript">
-				var Comm100API = Comm100API || new Object;
-				Comm100API.chat_buttons = Comm100API.chat_buttons || [];
-				var comm100_chatButton = new Object;
-				comm100_chatButton.code_plan = 232;
-				comm100_chatButton.div_id = 'comm100-button-232';
-				Comm100API.chat_buttons.push(comm100_chatButton);
-				Comm100API.site_id = 48814;
-				Comm100API.main_code_plan = 232;
-				var comm100_lc = document.createElement('script');
-				comm100_lc.type = 'text/javascript';
-				comm100_lc.async = true;
-				comm100_lc.src = 'https://chatserver.comm100.com/livechat.ashx?siteId=' + Comm100API.site_id;
-				var comm100_s = document.getElementsByTagName('script')[0];
-				comm100_s.parentNode.insertBefore(comm100_lc, comm100_s);
-			</script>
-			<!--End Comm100 Live Chat Code-->
-</div>
+<script type="text/javascript">
+			    var Comm100API=Comm100API||{chat_buttons:[]};
+			    Comm100API.chat_buttons.push({code_plan:232,div_id:'comm100-button-232'});
+				Comm100API.site_id=48814;Comm100API.main_code_plan=232;
+				(function(){
+					function write_code(){ 
+						var div = document.getElementById('comm100-button-232');
+						if (div) {
+					        var lc=document.createElement('script'); 
+					        lc.type='text/javascript';lc.async=true;
+					        lc.src='https://chatserver.comm100.com/livechat.ashx?siteId='+Comm100API.site_id;
+					        var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(lc,s);
 
+		                	setTimeout(function() {
+		                		if (!Comm100API.loaded) {
+		        		            var lc1 = document.createElement('script');
+		        		            lc1.type = 'text/javascript';
+		        		            lc1.async = true;
+		        		            lc1.src = 'https://hostedmax.comm100.com/chatserver/livechat.ashx?siteId=' + Comm100API.site_id;
+		        		            var s1 = document.getElementsByTagName('script')[0];
+		        		            s1.parentNode.insertBefore(lc1, s1);
+		                		}
+		                	}, 5000)
+						} else {
+							setTimeout(write_code, 500);		
+						}
+					}
+					setTimeout(write_code, 500);
+				})();</script>
+<div id="comm100-button-232"></div>
 
 </body></html>
