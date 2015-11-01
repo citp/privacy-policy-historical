@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coorslight.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502163437id_/http%3A//pages.coorslight.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coorslight.com privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101113240id_/http%3A//www.coorslight.com/legal/privacy) for the most accurate reproduction.*
 
-# Coors Light - Privacy Policy
+# COORS BREWING COMPANY PRIVACY POLICY | Coors Light
 
 **COORS BREWING COMPANY PRIVACY POLICY**
 
@@ -196,6 +196,6 @@ If you have any questions or comments regarding this Privacy Policy, or wish to 
 Coors Brewing Company  
 Attn: Legal Department  
 250 South Wacker Drive  
-Chicago IL 60606 
+Chicago IL 60606
 
 Thanks for visiting the Coors Brewing Company Sites.
