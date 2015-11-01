@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aboutone.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624011658id_/http%3A//www.aboutone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aboutone.com privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101041503id_/http%3A//www.aboutone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AboutOne
 
