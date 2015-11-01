@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ewaydirect.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316212535id_/http%3A//www.certainsource.com/certainsource-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ewaydirect.com privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101170839id_/http%3A//www.certainsource.com/certainsource-privacy-policy) for the most accurate reproduction.*
 
-# CertainSource | Privacy Policy
+# B2C Email Marketing and New Customer Engagment - Privacy Policy | CertainSource
 
 CertainSource, an ewayDirect company places the highest level of importance on respecting the privacy of our clients and their customers. Each of our employees is dedicated to maintaining the security of client data. This privacy statement describes how your personal information is collected and used and applies to the CertainSource website, products and services.
 
