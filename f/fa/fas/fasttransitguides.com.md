@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fasttransitguides.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509160217id_/http%3A//fasttransitguides.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fasttransitguides.com privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102003737id_/http%3A//fasttransitguides.com/privacy.php) for the most accurate reproduction.*
 
 # Transit Directions & Bus Schedules - Simple to use Directions, Transit Directions and other features!
 
-[< Go Back to Get Transit Guides!](https://web.archive.org/web/20150509160217id_/http%3A//fasttransitguides.com/index.php)
+[< Go Back to Get Transit Guides!](https://web.archive.org/web/20151102003737id_/http%3A//fasttransitguides.com/index.php)
 
 **Effective January 1 2014**
 
