@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juvlon.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316094149id_/https%3A//app3.juvlon.com/secure/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juvlon.com privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101130408id_/https%3A//app3.juvlon.com/secure/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
