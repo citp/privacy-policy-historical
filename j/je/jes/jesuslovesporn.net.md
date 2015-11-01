@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jesuslovesporn.net privacy policy that was archived on 2014-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141027074916id_/http%3A//wannawatchme.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jesuslovesporn.net privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101052840id_/http%3A//wannawatchme.com/privacy.html) for the most accurate reproduction.*
 
 # WannaWatchMe - Privacy Policy
 
@@ -50,4 +50,4 @@ The address for correspondence by post is
 ICF Technology, Inc.  
 PO Box 21508  
 Seattle, WA 98111  
-USA 
+USA
