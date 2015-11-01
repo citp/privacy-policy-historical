@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the star2.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502180136id_/http%3A//www.star2.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the star2.com privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101080818id_/http%3A//www.star2.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Star2.com
 
-Star Publications (Malaysia) Berhad (Co. No. 10894-D) respects the privacy of individuals with regard to personal data and is committed to protecting the privacy of our users, and strives to provide a safe, secure user experience. This privacy policy is formulated in accordance with the Personal Data Protection Act 2010 (“Act”), which describes how your information is collected and used and your choices with respect to your Personal Data. The following discloses our information gathering and dissemination practices for this website, The Star Online.
+Star Media Group Berhad (Co. No. 10894-D) respects the privacy of individuals with regard to personal data and is committed to protecting the privacy of our users, and strives to provide a safe, secure user experience. This privacy policy is formulated in accordance with the Personal Data Protection Act 2010 (“Act”), which describes how your information is collected and used and your choices with respect to your Personal Data. The following discloses our information gathering and dissemination practices for this website, Star2.com.
 
-* ## Information collected by The Star Online
+* ## Information collected by Star2.com
 
 Our Web servers do not automatically recognise specific information about individual users on our site. In addition, our servers do not automatically record information regarding a user’s e- mail address unless the user supplies it.
 
@@ -42,7 +42,7 @@ Although the precise details of the Personal Data collected will vary according 
 
 We may disclose your Personal Data to other subsidiaries within our group. These subsidiaries will treat your Personal Data as confidential, in accordance with this Privacy Policy and with all applicable Data Protection legislation and will process such Personal Data only for the Purposes and within the terms set out herein.
 
-We are responsible for the Personal Data under our control, including Personal Data disclosed by us to a Vendor (often referred to as the data processor). “Vendor” in this Privacy Policy means in relation to Personal Data any person or entity (other than an employee of Star Publications (M) Berhad) who processes the Personal Data on behalf of us. “Processing”, in relation to Personal Data means for example obtaining, recording, holding or using the Personal Data in carrying out any operation or set of operations on the Personal Data including organisation, compilation, retrieval disclosure of the Personal Data for verification Purposes.
+We are responsible for the Personal Data under our control, including Personal Data disclosed by us to a Vendor (often referred to as the data processor). “Vendor” in this Privacy Policy means in relation to Personal Data any person or entity (other than an employee of Star Media Group Berhad) who processes the Personal Data on behalf of us. “Processing”, in relation to Personal Data means for example obtaining, recording, holding or using the Personal Data in carrying out any operation or set of operations on the Personal Data including organisation, compilation, retrieval disclosure of the Personal Data for verification Purposes.
 
 We take every measure to provide a comparable level of protection for Personal Data should the information be Processed by a Vendor.
 
@@ -94,7 +94,7 @@ This site makes information sharing, feedback, forums, and/or message boards ava
 
 * ## Job Applicants
 
-Personal Data provided in connection with an application for employment will be used to determine your suitability for a position with Star Publications (M) Berhad, MyStarJob Network Sdn Bhd or StarProperty Sdn Bhd and, if applicable, your terms of employment or engagement.
+Personal Data provided in connection with an application for employment will be used to determine your suitability for a position with Star Media Group Berhad, MyStarJob Network Sdn Bhd or StarProperty Sdn Bhd and, if applicable, your terms of employment or engagement.
 
 Your information may also be used to monitor our group’s recruitment initiatives and equal opportunities policies.
 
@@ -118,7 +118,7 @@ A username and password may be essential for you to use some sections of this We
 
 * ## Links
 
-This site contains links to other sites. The Star Online is not responsible for the privacy practices or the content of such sites. The Star Online has also established relationships with partners but such relationships are generally technical in nature, or content collaborations. If any partner has access to any information entered by users in our database, this fact shall be disclosed to the user upon initiating the registration process. Users who feel they do not wish their information to be shared by anyone other than The Star Online may then opt out of completing the registration.
+This site contains links to other sites. Star2.com is not responsible for the privacy practices or the content of such sites. Star2.com has also established relationships with partners but such relationships are generally technical in nature, or content collaborations. If any partner has access to any information entered by users in our database, this fact shall be disclosed to the user upon initiating the registration process. Users who feel they do not wish their information to be shared by anyone other than Star2.com may then opt out of completing the registration.
 
 * ## Right of Access to Personal Data
 
