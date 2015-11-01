@@ -1,16 +1,10 @@
-> *The following text is extracted and transformed from the shopperplus.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323044157id_/http%3A//privacy-policy.truste.com/verified-policy/www.123inkcartridges.ca) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopperplus.com privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101200458id_/http%3A//www.shopperplus.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for www.123inkcartridges.ca
 
 Effective on June 27, 2011 
 
-This privacy statement describes how 123inkcartridges.ca Inc. collects and uses the personal information you provide on our Web site: [www.123inkcartridges.ca ](https://www.123inkcartridges.ca/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
-
-**TRUSTe**
-
-123inkcartridges.ca Inc. is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. This Web site has agreed to have its privacy practices monitored for compliance by TRUSTe.
-
-If you have questions or concerns regarding this policy, you should first contact us at [techsupport@123inkcartridges.ca ](mailto:techsupport@123inkcartridges.ca). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+This privacy statement describes how 123inkcartridges.ca Inc. collects and uses the personal information you provide on our Web site: [www.123inkcartridges.ca ](http://www.123inkcartridges.ca/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 ## Collection and Use of Personal Information
 
