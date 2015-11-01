@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadbandchoices.co.uk privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618090941id_/http%3A//www.broadbandchoices.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadbandchoices.co.uk privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101062226id_/http%3A//www.broadbandchoices.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BroadbandChoices.co.uk
 
@@ -18,7 +18,7 @@ We may collect and process personal information about you, which you give to us 
   * your name, email address, current broadband supplier and other personal information if you register with us to access one of our tools (for example our Speedtester) or to receive our email newsletters;
   * your postcode if you perform an availability check for broadband suppliers available in your area;
   * your email address if you enter a prize draw or competition;
-  * more detailed personal information if you place an order for home phone services through our sister website homephonechoices.co.uk; and
+  * your phone number if you call certain broadband supplier or our customer services number; and
   * if you contact us (for example our Online Help Desk), we may keep a record of your email address and that correspondence and any information that you provide by filling in forms on our Website.
 
 
@@ -29,13 +29,15 @@ The provision of some of our services may also require us to store some personal
 
 We may use your personal information:
 
-  * to monitor and improve the performance of our Website and services;
+  * to monitor and improve our services;
+  * to monitor and improve the performance of our Website;
   * to carry out research and analysis of the broadband, phone or digital TV marketplace;
   * to provide you with emails and newsletters and special offers if you register with us;
   * to provide an availability check of specific broadband, home phone or TV services in your area;
   * to fulfil our obligations if you enter a prize draw or competition;
   * to process a transaction between you and a third party which you have requested;
   * to respond to an enquiry you have made;
+  * to provide you with information and advice on broadband services and suppliers;
   * to prevent fraud and defend our legal rights; and
   * as more fully detailed, below.
 
@@ -45,7 +47,11 @@ The data that we collect from you may be transferred to, and stored at, a destin
 
 ## Improving our services
 
-So that we can continually improve our Website and services, we may use your data to perform statistical analysis to help understand how people are using our services. On occasions we may ask you for feedback on your experience of using the Website. Unless otherwise stated, this information is only used internally and will not be published on the Website.
+We may use your data to perform statistical analysis to help us understand how people are using our Website and services so that we may improve them.
+
+If you have provided your consent for us to do so, we may contact you by email, online, or via the phone to ask you for feedback on your experience of using our website and services.
+
+Unless otherwise stated, this information is only used internally and will not be published on the Website.
 
 ## Research and analysis
 
