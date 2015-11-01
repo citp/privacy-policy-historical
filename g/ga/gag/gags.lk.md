@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gags.lk privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610010343id_/http%3A//gags.lk/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gags.lk privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101092422id_/http%3A//www.gags.lk/content/privacy) for the most accurate reproduction.*
 
 # Privacy | gags.lk
 
