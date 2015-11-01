@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the obsidian.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607095819id_/http%3A//www.obsidian.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the obsidian.net privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101150427id_/http%3A//www.obsidian.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -29,7 +29,7 @@ If you have any questions, comments or complaints about [www.obsidian.net](http:
 Via mail:
 
 > Obsidian Entertainment, Inc.  
->  8105 Irvine Center Drive, Suite 200  
+>  100 Spectrum Center Drive, Suite 200  
 >  Irvine, California 92618 USA
 
 Via email:
