@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veda.com.au privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615054839id_/http%3A//www.veda.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veda.com.au privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101041732id_/http%3A//www.veda.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy (Australia) | Veda
 
@@ -12,7 +12,7 @@ Much of the personal information collected and held by our business in Australia
 
 In addition Veda Advantage Information Services & Solutions Ltd (VISS) operates a credit reporting business in Australia.  This policy document also reflects VISS’ obligation under S20B(3) to have a policy relating to credit reporting information.
 
-## 2\. Who is Veda
+## 2\. Who is Veda?
 
  **Consumer Risk and Identity**
 
@@ -85,12 +85,12 @@ Generally speaking Veda collects personal information from third parties.  The 
   * Australian Financial Security Authority
   * Telstra;
   * Australia Post;
-  * Australian Electoral Commission
-  * Australian Communications and Media Authority
-  * Corporate partners of our Secure Sentinel service
-  * Market research organisations
-  * Direct marketing companies
-  * From our customers
+  * Australian Electoral Commission;
+  * Australian Communications and Media Authority;
+  * Corporate partners of our Secure Sentinel service;
+  * Market research organisations;
+  * Direct marketing companies; and
+  * From our customers.
 
 
 
@@ -108,7 +108,7 @@ In addition, there are a number of limited circumstances in which we will collec
 
 
 
-## 4\. The kinds of personal information Veda collects, uses and discloses
+## 4\. The kinds of, and purposes for which Veda collects, holds, uses and discloses personal information
 
 We collect personal information for a variety of different purposes.
 
@@ -124,7 +124,7 @@ Veda collects a range of personal information, depending upon the purpose for wh
 
 
 
-We use and/or disclose your personal information for the purposes of carrying on our various businesses and for conducting Veda’s affairs.
+We collect, hold, use and/or disclose your personal information for the purposes of carrying on our various businesses and for conducting Veda’s affairs.
 
 Generally personal information is used and disclosed for the purposes for which it was collected or a directly related secondary purpose or were you have consented to the use or disclosure.
 
@@ -140,7 +140,7 @@ Generally, before any Veda entity discloses your personal information to any thi
 
 | 
 
- **Purpose we collect, use and disclose**  
+ **Purpose for which we collect, hold, use and disclose**  
   
 ---|---|---  
   
@@ -348,7 +348,7 @@ For further information about the other purposes for which TPS uses and disclos
 
  **TenancyCheck.com.au** collects, uses and discloses your personal information including past tenant history, publicly available information, tenant evictions and terminations, irregular rent payment history to provider its tenancy services to landlords.  
   
-Veda also manage an insurance database on behalf of Insurance Reference Services, for that purpose we collect: 
+Veda also manages an insurance database on behalf of Insurance Reference Services Limited, for that purpose we collect, hold, use and disclose: 
 
   * full name
   * date of birth
@@ -363,13 +363,13 @@ Veda also manage an insurance database on behalf of Insurance Reference Services
 
 This information is used to provide insurance services to general insurers, loss assessors, loss adjusters and investigator who are members of IRS and for internal and external identity management and verification.
 
-In addition, **as a public company** listed on the Australian Stock Exchange, we collect, use and disclose your personal information as follows:
+In addition, **as a public company** listed on the Australian Stock Exchange, we collect, hold, use and disclose your personal information as follows:
 
  **Type of personal information we collect**
 
 | 
 
- **Purpose we collect, use and disclose**  
+ **Purpose for which we collect, hold, use and disclose**  
   
 ---|---  
   
@@ -382,8 +382,6 @@ If you do not provide all the information requested in the application form, Ved
 The personal information we collect may be used by Veda or its Share Registry for the purposes of processing your Application, service your needs as a Shareholder, provide facilities and services that you need or request and carry out appropriate administration, facilitate dividend payments and corporate communications (including Veda’s financial results, annual reports and other information that Veda may communicate to its shareholders) and compliance by Veda with legal and regulatory requirements.
 
 In addition, your personal information may also be provided to Veda’s agents and service providers on the basis that they deal with such information in accordance with Veda’s privacy policy.
-
- These agents and service providers may be located outside Australia in accordance with APP 8, nevertheless, your personal information may not receive the same level of protection as it does in Australia under Australian law.
 
 Your personal information may also be used to inform you about other products and services offered by Veda, which it considers may be of interest to you.
 
@@ -493,9 +491,6 @@ If you have a dispute about personal information held by Veda and covered by thi
 We will investigate and deal with your correction request or complaint in a fair, efficient and timely manner. 
 
 You can contact us at:
-
-  
-
 
  **Type of information**
 
@@ -684,11 +679,13 @@ We do not collect, hold or disclose sensitive information about you such as:
 
 
 
-## 9\. How we keep your Personal Information Secure
+## 9\. How we hold and keep your Personal Information Secure
 
 Access to your personal information held by Veda for Consumer Risk & Identity, Commercial Risk & Information Services is available by subscription only and is tracked and recorded.  Access is subject to contractual terms and conditions.  Access to other personal information is subject to your consent, or is publicly available, or is subject to contractual terms and conditions.  These include compliance with the Privacy Act and other relevant legislation.
 
-We use industry standard security and encryption to protect the personal information we hold on you.
+We may hold your personal information in paper or other physical form, but it is usually held in electronic form on our systems. To ensure your personal information is secure, we use industry standard security and encryption to protect the personal information we hold on you. Service providers may hold the information for us, such as our data centre providers which have been certified as ISO 27001 compliant. Where a service provider holds your information, we require those service providers to adhere to our approved standards of security and confidentiality to ensure the continuing protection of your personal information.
+
+Only authorised employees are granted access to your personal information. We train the employees who handle your personal information to ensure that your personal information is handled appropriately. Our procedures ensure that your personal information is only made available to employees where necessary.  We audit and monitor our employees’ access to, and handling of, personal information.
 
 ## 10\. Further information about your Privacy rights
 
