@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the flyordie.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511210735id_/http%3A//www.flyordie.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyordie.com privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101111210id_/http%3A//www.flyordie.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statment - FlyOrDie.com
 
 ## Privacy Statement
 
-[FlyOrDie](http://www.flyordie.com/) is committed to protecting your personal information when you are using FlyOrDie's services. This Privacy Policy relates to our use of any personal information you provide to us through the FlyOrDie.com websites.   
+[FlyOrDie](https://web.archive.org/web/20151101111210id_/http%3A//) is committed to protecting your personal information when you are using FlyOrDie's services. This Privacy Policy relates to our use of any personal information you provide to us through the FlyOrDie.com websites.   
 Any comments about this document, or FlyOrDie's policy, please write to: [privacy@flyordie.com](mailto:privacy@flyordie.com)
 
 Registration
@@ -23,7 +23,7 @@ Chat
 
 Chat (even private messages) is logged. FlyOrDie can use these logs as described below. Chat is also filtered. Messages that can be deemed as inappropriate might not be displayed for other players. The sender of such message will not always be notified of filtered messages. 
 
-Safeguarding Your Personal Information 
+Safeguarding Your Personal Information
 
 The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. FlyOrDie does not rent, sell, or share these personal information described above about you except when responding to court orders, legal process, or to establish or exercise our legal rights or defend against legal claims. FlyOrDie can also share personal data in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of FlyOrDie's terms of use, or as otherwise required by law. 
 
@@ -35,7 +35,7 @@ Third party advertisement
 
 We also use third party advertisements on FlyOrDie to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes or showing certain ads based on specific sites visited. You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings. However, this can affect how you are able to interact with our site as well as other websites. 
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>. 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [networkadvertising.org](http://www.networkadvertising.org/choices)
 
 Third parties, like Google, may collect certain types of information about visits to FlyOrDie's websites, including interaction with content on these sites. As always, no personally identifiable information will be collected. 
 
@@ -45,5 +45,4 @@ This web site contains links to other sites. Please be aware that FlyOrDie is no
 
 Last updated: Dec 11, 2013 
 
-Copyright © 2009 [FlyOrDie.com](http://www.flyordie.com/ "Flyordie Online Games"). All rights reserved.  
-FlyOrDie © is a registered trademark of Solware Ltd.
+Copyright © 2001-2015 FlyOrDie Free Games Online. FlyOrDie® is a registered trademark of [Solware Ltd.](http://www.solware.com/)
