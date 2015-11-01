@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sociableblog.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617050445id_/http%3A//www.sociableblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sociableblog.com privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101014949id_/http%3A//www.sociableblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SociableBlog
 
@@ -76,10 +76,8 @@ We store a small text file called a cookie on your computer to track session dat
 
 We use third-party advertising companies (i.e., Google) to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
-* Google, as a third party vendor, uses cookies to serve ads on your site.
-
-* Google’s use of the [DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
-
+* Google, as a third party vendor, uses cookies to serve ads on your site.  
+* Google’s use of the [DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
 * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)
 
 If you reject cookies you may still use the SociableBlog.com Sites.
