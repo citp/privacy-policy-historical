@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astrologyanswers.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316100430id_/http%3A//astrologyanswers.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrologyanswers.com privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101164549id_/http%3A//astrologyanswers.com/info/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Astrology Answers Astrological Horoscope Readings
 
@@ -90,5 +90,8 @@ If you have any questions or concerns about this privacy policy you may e-mail [
 170-129 Las Vegas,  
 NV 89129
 
-  
+All customer service related issues should be sent to [support@astrologyanswers.com](mailto:support@astrologyanswers.com) or you may write to us at:
 
+10040 West Cheyenne Ave  
+170-129 Las Vegas,  
+NV 89129
