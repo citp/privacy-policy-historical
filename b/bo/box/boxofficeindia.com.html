@@ -1,26 +1,26 @@
-<!--The following is the downloaded HTML source of the boxofficeindia.com privacy policy that was archived on 2015-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150627135043id_/http%3A//boxofficeindia.com/Details/pages/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the boxofficeindia.com privacy policy that was archived on 2015-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151101110505id_/http%3A//www.boxofficeindia.com/Details/pages/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="Adtomatik-tag" content="MTMxNA==">
 <title>Boxoffice</title>
- <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" type="text/javascript"></script>
+
+ <script src="https://script.crazyegg.com/pages/scripts/0027/3605.js?439027" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" type="text/javascript"></script>
 <script type="text/javascript" src="/js/jquery-ui-1.10.3.custom.min.js"></script>
 <link rel="stylesheet" type="text/css" href="/assets/css/jquery.autocomplete.css">
 <link rel="stylesheet" type="text/css" href="/assets/css/layout.css">
 <link rel="stylesheet" type="text/css" href="/assets/css/common.css">
 <link rel="stylesheet" type="text/css" href="/assets/css/style.css">
+<link rel="stylesheet" type="text/css" href="/assets/css/charts.css">
 
 	<script type="text/javascript">
     $(document).ready(function($)
     {
-	
         $('#search').autocomplete({
-		   source: function(request, response) 
+            source: function(request, response) 
             {
                 $.ajax({
-                         url: "/boxoffice/search.php",
+                         url: "http://www.boxofficeindia.com\/search_nu.php",
                          data: 
                          {
                             term: request.term,
@@ -30,20 +30,19 @@
                           success: function(data)
                           {
                               response(data);
-							 //alert(data);
                           }
                     });
             },
-            minLength: 3,
+            minLength: 2,
             select: function( event, ui )
             {
                 window.location.href = ui.item.link;
             }
         }) .data("ui-autocomplete")._renderItem = function( ul, item ) 
         {
-		     if(item.banners !='')
+            if(item.banners !='')
             {
-			 return $( "<li class='ui-menu-item' role='presentation'>" )		
+            return $( "<li class='ui-menu-item' role='presentation'>" )		
             .append( "<a href='"+item.link+"'><div style='float:left; width:30px;vertical-align:top;'><img src='" + item.banners + "' width='30' height='40'></div><div style='vertical-align:top;float:left;padding-left:5px;'>" + item.value+" <br><span style='font-size:10px; font-color:#000; font-weight:normal'>"+ item.actor_name+"</p></div></a>").appendTo( ul );
             
             }else
@@ -55,6 +54,7 @@
         };
     });
     </script>
+    <script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
 
 </head>
 <body>
@@ -64,62 +64,81 @@
 			<div id="head">
             	<a href="/Boxoffice/homepage">
             	<div class="logo">
-			<div class="date" style="margin:103px 0 0 0px; font-weight:bold; font-size:11px; color:#fff; font-weight:bold; font-family:Verdana, Geneva, sans-serif; text-align:center; text-transform:capitalize;">Saturday June 27 2015</div>        </div>
-                </a>
-               <div class="sstrip_news"><marquee><p><span style="color: rgb(255, 255, 255);"> Domestic Rankings: 1. Aamir Khan - 952 points 2. Salman Khan - 945 points 3. Shahrukh Khan - 792 points</span></p></marquee> </div>
-               <div class="ad"><script type="text/javascript"><!--
-
-google_ad_client = "pub-3758174372099805";
-
-/* 728x90, created 3/2/10 */
-
-google_ad_slot = "3073281750";
-
-google_ad_width = 728;
-
-google_ad_height = 90;
-
-//-->
-
-</script>
-
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></div>
-				<div class="follow_us">
+            	  <img src="/assets/img/boi-logo.png" width="230" style="position:relative;top:5px;left: 17px;">
+            	  <div class="ad ads" style="position:absolute; margin:-93px 0 0 265px;"></div>
+			        </div>
+              </a>
+               <div class="sstrip_news">
+                <div class="date" style="font-weight:bold; font-size:11px; font-weight:bold; font-family:Verdana, Geneva, sans-serif; text-align:center; text-transform:capitalize; margin:3px 64px 0 55px;">Sunday 01 November 2015 </div>
+                <div class="follow_us">
                     <a href="https://twitter.com/Box_Off_India" target="_blank">
                     	<img src="/assets/img/twitter.png" class="twitter">
                     </a>
-                                       	<a href="/Subdetails/sign_up"><img src="/assets/img/register.jpg" class="header_register"></a>
-                    	<!--<a href="/Subdetails/sign_up"><img src="/assets/img/suscribe.jpg" class="header_subscribe" /></a>-->
-                           			</div>
+       			</div>
+            <div class="faq-glossary" style="padding-left: 88px;margin-top: 3px;font-size: 11px;font-weight: bold;font-family: Verdana, Geneva, sans-serif;text-align: center;"><a style="font-size:11px;" href="/Details/pages/faq">FAQ</a> | <a style="font-size:11px;" href="/Details/pages/glossary">Glossary</a></div>
+              <div class="flot_right">
+                                        <div class="login">
+                            <form action="/Subdetails/dologin" method="post" name="frmAddUser1" style="float:left;">
+                                <input style="width:100px;" name="loginUname" type="text" value="Username" onblur="if(this.value == '') this.value='Username';" onfocus="if (this.value == 'Username') this.value=''">
+                                <input style="width:100px;" name="loginUpass" type="password" value="Password" onblur="if(this.value == '') this.value='Password';" onfocus="if (this.value == 'Password') this.value=''">
+                                <input type="hidden" value="loginCheck" name="process">
+                                <input type="submit" name="submit" value="Login" style="background:#136cb2; border:0; color:#fff; padding:2px 5px; height:26px; font-weight:bold; font-family:Arial, Helvetica, sans-serif;border-radius:5px;">
+                           </form>    
+                            <a class="signup" href="/Subdetails/sign_up_free">Register</a>                   
+                        </div>
+                                   
+                  
+                    
+                  </div>
+               </div>
+               <div class="ad ads" style="margin:4px 0px 4px 4px;padding-left:135px;"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- CM-BOI-728*90-AllPages -->
+<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-3758174372099805" data-ad-slot="5910798679"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+              <!-- <div class="flot_right database-box" style='width:255px; margin: 6px 4px 0 0;'>
+               		<div class="title_blue" style='background-color:#fff;border:1px solid #ccc;color:#cc3333;width:241px;'>Database Count</div>
+                    <div class="sub-heading" style='background-color:#136CB2;'>Names</div>
+                    <div class="sub-heading" style="width:73px;background-color:#136CB2;">Films</div>
+                    <div class="sub-heading" style="border:0;background-color:#136CB2;">Banners</div>
+                    <div class="border border-top-none ammount-box" style='width: 251px;'>
+                    	<div class="ammount" style='padding:10px 10px 7px 10px;'></div>
+                        <div class="ammount" style='padding:10px 10px 7px 10px;'></div>
+                        <div class="ammount" style='padding:10px 10px 7px 10px;width: 62px;'></div>
+                    </div>
+               </div>-->
         		<!-- AddThis Button BEGIN -->
         		<div class="search-bar">
               		<div class="search">
-                  		<form action="/Boxoffice/search_result" method="post" name="search">
+                  		<form action="/Boxoffice/search" method="post" name="search" id="topSearchBar">
                             <div class="search-wrap">
-                                <input name="r" id="search" type="text" class="search_input" placeholder="Click Here to Enter Search">
-               					<input type="hidden" name="type_val" id="type_val" value="All">                           
+                                <input name="r" id="search" type="text" class="search_input" value="" placeholder="Search..." required="" style="text-align:center;text-transform:uppercase;">
+               					<input type="hidden" name="type_val" id="type_val" value="All"> 
+                        <input type="hidden" name="search_yr" id="search_yr" value="0">                          
                             </div>
 							<div class="search_bar1">
                                 <select name="s" id="search_type">
                                      <option value="all">All</option>
                                       <option value="actors">Actors</option>
                                       <option value="movies">Movies</option>
-                                      <!-- <option  value="banners">Banners</option>-->
+                                       <option value="banners">Banners</option>
                                 </select>
 							</div>
-              				<input name="icon" type="image" src="/assets/img/submit.png" style="margin-left: 10px; ">
+              				<input name="icon" type="image" src="/assets/img/submit.png" style="margin-left: 10px; border-radius:0 7px 7px 0; height:30px;">
                         </form>
                     </div>
-                                             <div class="login">
-                            <form action="/Subdetails/dologin" method="post" name="frmAddUser1">
-                                <input name="loginUname" type="text" value="Username" onblur="if(this.value == '') this.value='Username';" onfocus="if (this.value == 'Username') this.value=''">
-                                <input name="loginUpass" type="password" value="Password" onblur="if(this.value == '') this.value='Password';" onfocus="if (this.value == 'Password') this.value=''">
-                                <input type="hidden" value="loginCheck" name="process">
-                                <input type="image" name="submit" value="submit" src="/assets/img/login.png">
-                           </form>                       
-                        </div>
-                                  </div>
+                    <div class="faq-glossary" style="padding-left: 25px;margin-top: 6px;font-size: 11px;font-weight: bold;font-family: Verdana, Geneva, sans-serif;text-align: center;"><a href="/Details/pages/contact_us" style="font-size: 11px;">Errors | Omissions</a></div>
+                    <div class="addthis_toolbox addthis_default_style" style="float:right; margin:5px 0 0 0;">
+                        <a class="addthis_button_preferred_1"></a>
+                        <a class="addthis_button_preferred_2"></a>
+                        <a class="addthis_button_preferred_10"></a>
+                        <a class="addthis_button_preferred_11"></a>
+                        <a class="addthis_button_compact"></a>
+                        <a class="addthis_counter addthis_bubble_style"></a>
+                    </div>
+                    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-51e7763f2b239667" async="async"></script>
+                </div>
                 
 </div>
 
@@ -129,15 +148,14 @@ google_ad_height = 90;
                     	<!-- Snippet===================================-->
                         <!-- Right ad 160x600===================================-->
                         <div class="ad rightAd">
-                           <script type="text/javascript"><!--
-google_ad_client = "pub-3758174372099805";
-/* 160x600, created 2/27/10 */
-google_ad_slot = "4520137730";
-google_ad_width = 160;
-google_ad_height = 600;
-//-->
+                           <script type="text/javascript">
+    google_ad_client = "ca-pub-3758174372099805";
+    google_ad_slot = "4520137730";
+    google_ad_width = 160;
+    google_ad_height = 600;
 </script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+<!-- 160x600, created 2/27/10 -->
+<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
                         </div>
                         <!-- Left Column===================================-->
@@ -145,9 +163,9 @@ google_ad_height = 600;
                           <div class="ad leftAd"><script src="http://tag.contextweb.com/TagPublish/getjs.aspx?action=VIEWAD&amp;cwrun=200&amp;cwadformat=160X600&amp;cwpid=513822&amp;cwwidth=160&amp;cwheight=600&amp;cwpnet=1&amp;cwtagid=52511"></script></div>
                         </div>
                         <!-- Middle Column===================================-->
-                        <div id="middleColumn" class="border news">
+                        <div id="middleColumn" class="border news" style="margin-bottom:50px;">
                                 <div class="title4">Privacy Policy </div>
-                            	<div class="block reports text">                            
+                            	<div class="block reports text" style="min-height: 400px;">                            
                             		<div style="width:100%"><right>
 <div class="text" style="width:99%;font-size:13px;">
 <p>Box Office India has created a privacy policy as it respects your privacy. We would like you to feel secure and comfortable using the website.</p>
@@ -171,17 +189,16 @@ google_ad_height = 600;
 </div>
 </right></div>
 								</div>
-                            	<div class="clearfix"></div>
                             	<div class="divider"></div>
                         </div>
                     <!-- Earning Records==================================-->
-                    <div class="clearfix">&nbsp;</div>
+                    <div class="clearfix"> <br> <br> &nbsp;</div>
         	</div>            
 			<!------------------------------- footer area start here ----------------------------------------->  
     	</div>
         <div class="clearfix">&nbsp;</div>       
     </div>
-     <div id="footer" style="margin-top:40px;">
+     <div id="footer">
      <div class="footerCnt">
            <div class="nav">
                 <a href="/Details/pages/about_us">About Us</a> | 
@@ -196,23 +213,21 @@ google_ad_height = 600;
      </div>
 </div>
 
-<script type="text/javascript">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  ga('create', 'UA-1374856-1', 'auto');
+  ga('send', 'pageview');
 
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-
-var pageTracker = _gat._getTracker("UA-1374856-1");
-
-pageTracker._initData();
-
-pageTracker._trackPageview();
-
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0027/3605.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 </script>
+
 
 
 </div>
