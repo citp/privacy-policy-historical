@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webnouvelle.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408000230id_/http%3A//www.webnouvelle.com/privacy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webnouvelle.com privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101023638id_/http%3A//www.webnouvelle.com/privacy-terms) for the most accurate reproduction.*
 
 # Privacy and Policy - Web nouvelle
 
@@ -110,7 +110,3 @@ Some apps on iOS 6 devices use Apple’s Advertising Identifier; to learn more a
 Open the Google Search app on your device  
 Press the Settings icon  
 Go to Ads Preferences
-
-Join us on Facebook
-
-Get all updates via Facebook Just Press LIKE button ! 
