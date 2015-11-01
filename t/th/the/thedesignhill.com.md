@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thedesignhill.com privacy policy that was archived on 2015-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150523112719id_/http%3A//thedesignhill.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedesignhill.com privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101122529id_/http%3A//thedesignhill.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TheDesignHill
+# Privacy Policy | The Design Hill
 
 TheDesignHill.com takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this privacy policy primer to learn more about privacy policies in general.
 
