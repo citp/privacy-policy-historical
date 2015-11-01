@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dancingbear.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630034303id_/http%3A//dancingbear.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dancingbear.com privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101015229id_/http%3A//dancingbear.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
