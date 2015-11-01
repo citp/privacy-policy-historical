@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puritan.com privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326035305id_/http%3A//www.puritan.com/house/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puritan.com privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101170842id_/http%3A//www.puritan.com/house/privacypolicy.asp) for the most accurate reproduction.*
 
 # Puritan's Pride Privacy Policy
 
@@ -12,15 +12,15 @@
   
 
 
-Last Updated: September 2013    
+Last Updated: June 2015    
 
 
 Your Privacy Rights  
-This privacy policy describes how Puritan's Pride, Inc., a wholly owned subsidiary of NBTY, Inc. (the "Company" "we". "us", "Puritan's Pride") collects and uses the personal information you provide on web sites and services which link to this privacy policy ("Services"). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. Please take a moment to review the terms of our Privacy Policy. Unless we indicate otherwise, this Privacy Policy applies only to information that we collect through the Services. It does not apply to information that we collect by other means.
+This privacy policy describes how Puritan's Pride, Inc., a wholly owned subsidiary of NBTY, Inc. (the "Company" "we", "us", "Puritan's Pride") collects and uses the personal information you provide on web sites and services which link to this privacy policy ("Services"). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. Please take a moment to review the terms of our Privacy Policy. Unless we indicate otherwise, this Privacy Policy applies only to information that we collect through the Services. It does not apply to information that we collect by other means. 
 
-Puritan's Pride, Inc., has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/program-requirements) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this website, www.puritan.com. 
+Puritan's Pride has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at [ https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request). Please [ click here](https://www.truste.com/about-TRUSTe/contact-us/) for fax and postal mail information. 
 
-If you have questions or concerns regarding this statement, you should first contact us as specified in the "Contacting Us" section of this statement. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe [ here](https://feedback-form.truste.com/watchdog/request). TRUSTe will then serve as a liaison with us to resolve your concerns. 
+The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site. 
 
 NBTY, Inc. complies with the U.S. - E.U. and U.S. - Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from European Union member countries and Switzerland. NBTY, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view NBTY, Inc.'s certification, please visit <http://www.export.gov/safeharbor>
 
@@ -29,24 +29,29 @@ We may collect personal information about you in several situations, including w
 
 The personal information we may collect includes:
 
-  * contact information, such as your name, mailing address, email address, and telephone number;
-  * financial payment information, such as credit card, debit card, and other financial payment information;
-  * certain other information you may provide to us in your communications or in connection with other products or services, including birthdate, gender, and photographs. 
+  * Contact information, such as your name, mailing address, email address, and telephone number;
+  * Financial payment information, such as credit card, debit card, and other financial payment information;
+  * Unique identifiers such as username and password;
+  * Preferences information such as product wish lists, order history, and marketing preferences;
+  * Certain other information you may provide to us in your communications or in connection with other products or services, including birthdate, gender, and photographs.
 
 
 
-Other Information We Collect About You  
-We also may collect certain information by automated means when you use our Services, including your internet protocol ("IP") address; information about your web browser software and version; if you arrived at the Services through a link from a third-party website, the uniform resource locater ("URL") of the linking page; your mobile device identifier and other information about devices you use to access the Services; and information about your activity while using the Services, such as which pages you choose to view, queries you make using our "search" function, and other information about your account usage. 
+User Data Supplementation  
+We also may collect information about you from other sources, including from social media providers and commercially available sources such as data aggregators and public databases. Please note that we may combine the various types of information we collect about you and use it as described in this Privacy Policy. 
 
-Like many companies, we may use common technologies to help track your use of our Services, recognize you when you return to the Services, or save your preferences. For example, on our websites, we store small pieces of information in cookies that help us remember you when you return to our website. We also may include web beacons in e-mail messages or newsletters to determine whether messages have been opened and to identify the IP address of the computer on which they were opened. The information we obtain in this manner helps us customize the services we offer and measure the overall effectiveness of our online content and the products and services we offer. Web beacons also allow third parties to obtain information such as the IP address of the computer that downloaded the page on which the beacon appears, the URL of the page on which the beacon appears, the time the page containing the beacon was viewed, the type of browser used to view the page, and the information in cookies set by the third party. 
+Log Files  
+We also may collect certain information by automated means when you use our Services, including your internet protocol ("IP") address; information about your web browser software and version; if you arrived at the Services through a link from a third-party website, the uniform resource locater ("URL") of the linking page; your mobile device identifier and other information about devices you use to access the Services; and information about your activity while using the Services, such as which pages you choose to view, queries you make using our "search" function, and other information about your account usage.   
+We do not link this automatically collected data to other information we collect about you. 
 
-You may be able to disable cookies by changing a setting in your web browser. Please note, however, that without cookies you may not be able to take full advantage of all the Services features. 
+Tracking Technologies  
+Like many companies, we and our third party partners, such as advertising partners, marketing partners, and service providers, use certain technologies such as cookies, beacons, tags, and scripts. These technologies are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.   
+You may be able to disable cookies by changing a setting in your web browser. Please note, however, that without cookies you may not be able to take full advantage of all the Services features.   
+We use Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. Various browsers may offer their own management tools for removing HTML5 LSOs. 
 
-We partner with a third party ad network to either display advertising on our web site or to manage our advertising on other sites. Our ad network partner uses cookies and web beacons to collect non-personally identifiable information about your activities on this and other web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out [by clicking here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
-
-Our Services include Social Media features, such as the Facebook Like button. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social Media features are either hosted by a third party or hosted directly on our Services. Your interactions with these features are governed by the privacy policy of the company providing it. 
-
-We also may collect information about you from other sources, including from social media providers and commercially available sources such as data aggregators and public databases. Please note that we may combine the various types of information we collect about you and use it as described in this Privacy Policy 
+Advertising  
+We partner with third party ad networks to either display advertising on our web site or to manage our advertising on other sites. Our ad network partners uses cookies and web beacons to collect non-personally identifiable information about your activities on this and other web sites to provide you targeted advertising based upon your interests.   
+If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [ here](mailto:https://preferences-mgr.truste.com/). You may also use TRUSTe's preferences manager located [ here](https://preferences-mgr.truste.com/). Customers from the European Union may alter their advertising preferences [here](http://www.youronlinechoices.com/uk/your-ad-choices). Please note this does not opt you out of being served advertising. You will continue to receive generic ads. 
 
 How We Use the Information We Collect About You  
 We may use the personal information we collect about you in the ways described below. 
@@ -60,17 +65,15 @@ We may use the personal information we collect about you in the ways described b
 
 
 
-Sharing Site Content With A Friend    
-You may be able to share certain content from our Services with others by asking us to forward the content. To share information, we ask for the recipient's and your name and email addresses. We will automatically send your friend a one-time email inviting him or her to visit the site. We store this information for the sole purpose of sending this one-time email and tracking the success of our referral program. We collect personal information in this way, we will use it to fulfill your request and for no other purpose. Your friend may contact us at [info@puritan.com](mailto:info@puritan.com) to request that we remove this information from our database.
-
 Information We Share    
 Our affiliates may share personal information among themselves. We will not share your personal information in ways other than as outlined in this policy. In addition, we may share personal information with other entities, including in the following circumstances:
 
   * _Service Providers._ We may share your personal information with service providers that perform certain functions or services on our behalf (such as to host websites, manage databases, perform analyses, send communications for us, process payments on our behalf, ship your orders, provide you with live chat service, or provide certain other components of websites). We do not authorize service providers to use or disclose the information, except as necessary to perform services on our behalf.
   * _Analytics._ We may allow third parties to collect information in order to provide us with analytics. For instance, the Services may use analytics tools provided by Google to help us understand how people use the Services. You can learn more about how Google collects and uses information as a part of its tools at <http://www.google.com/analytics/>.
+  * _Social Media Features and Widgets._ Our Services include Social Media features, such as the Facebook Like button. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social Media features are either hosted by a third party or hosted directly on our Services. Your interactions with these features are governed by the privacy policy of the company providing it.
   * _Legal Process._ We may disclose your personal information to respond to subpoenas, court orders, or other legal process in response to a request for cooperation from law enforcement or another government agency, and to comply with our other legal obligations.
   * _Protect our Services and Users._ We may disclose your personal information if we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual illegal activity, or violation of our Terms of Use or other contracts.
-  * _Transactions._ We may share personal information in connection with a corporate transaction, such as a sale, assignment, divestiture, merger, bankruptcy, consolidation, reorganization, liquidation, or other transfer of the business or its assets.
+  * _Transactions._ We may share personal information in connection with a corporate transaction, such as a sale, assignment, divestiture, merger, bankruptcy, consolidation, reorganization, liquidation, or other transfer of the business or its assets. We will notify you via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
   * _Other Circumstances._ As otherwise described to you at the point of collection or pursuant to your consent.
 
 
@@ -78,20 +81,24 @@ Our affiliates may share personal information among themselves. We will not shar
 Information Collected from Visitors Outside the United States  
 If you are using the Services from outside the United States and provide us with personal information, please note that your personal information will be transferred, stored and processed in the United States. The data protection laws in the United States may not be as comprehensive as those in your country of residence. **By doing business or interacting with the Company and the Services, you are consenting to the transfer of your personal information to facilities located in the United States and other facility locations selected by the Company.**
 
-We Provide You Choices  
-If you prefer not to receive unsolicited commercial email from us, please [click here](https://web.puritan.com/unsub.jsp?brandName=puritan&language=EN) or contact us at [info@puritan.com](mailto:info@puritan.com). You can subscribe to receive marketing offers or solicitations from us through email by [clicking here](https://web.archive.org/house/newsletter.asp?). Please note that these requests may take up to 10 days to be effective.
+We Provide You Choices. You can subscribe to receive marketing offers or solicitations from us through email by [ clicking here](https://www.puritan.com/house/newsletter.asp?). If you prefer not to receive marketing email from us, please [click here](https://web.puritan.com/unsub.jsp?brandName=puritan&language=EN) or contact us at [info@puritan.com](mailto:info@puritan.com). Please note that these requests may take up to 10 days to be effective.
 
-Please note that your request not to receive unsolicited commercial emails from us will not apply to messages that you request or that are not commercial in nature. For example, we may contact you concerning any purchases you have made with us even if you opt out of receiving unsolicited commercial messages. 
+Please note that your request not to receive marketing emails from us will not apply to messages that you request or that are not commercial in nature. For example, we may contact you concerning any purchases you have made with us even if you opt out of receiving marketing messages. 
 
-If you have established a user account in connection with one of our Services, you may be able to review and request changes to some information that the Company maintains about you through your account settings or by contacting us at [info@puritan.com](mailto:info@puritan.com) . We will respond to your request for access within 30 days.
+If you have established a user account in connection with one of our Services, you may be able to review and request changes to some information that the Company maintains about you through your account settings or by contacting us at [ info@puritan.com](mailto:info@puritan.com). We will respond to your request for access within 30 days. 
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [info@puritan.com](mailto:info@puritan.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [ info@puritan.com](mailto:info@puritan.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
-Third Parties  
-Our Services may provide links to websites operated by third parties for your convenience and information. All of these websites and applications operate independently from us, and we do not control their privacy practices. We encourage you to review the privacy policies of any third-party websites and applications that you use to better understand their privacy practices. 
+_Sharing Site Content With A Friend_   
+You may be able to share certain content from our Services with others by asking us to forward the content. To share information, we ask for the recipient's and your name and email addresses. We will automatically send your friend a one-time email inviting him or her to visit the site. We store this information for the sole purpose of sending this one-time email and tracking the success of our referral program. We collect personal information in this way, we will use it to fulfill your request and for no other purpose. Your friend may contact us at [ info@puritan.com](mailto:info@puritan.com) or 1-800-645-1030 to request that we remove this information from our database. to request that we remove this information from our database.
+
+_Public Forums_  
+Our Services offer a publicly accessible blog and customer reviews. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [info@puritan.com](mailto:info@puritan.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
+
+Third Party Websites Our Services may provide links to websites operated by third parties for your convenience and information. All of these websites and applications operate independently from us, and we do not control their privacy practices. We encourage you to review the privacy policies of any third-party websites and applications that you use to better understand their privacy practices. 
 
 How We Protect Personal Information  
-We maintain reasonable security procedures to help protect against loss, misuse or unauthorized access, disclosure, alteration or destruction of the information you provide through our Services.
+We maintain reasonable security procedures to help protect against loss, misuse or unauthorized access, disclosure, alteration or destruction of the information you provide through our Services. 
 
 Among other safeguards, we use Secure Sockets Layer ("SSL") technology to help protect transmissions over the internet of your payment card data. 
 
@@ -106,9 +113,10 @@ Our Services are not directed to persons under the age of 18. We do not knowingl
 Miscellaneous  
 Our Services are U.S.-based and therefore, information we collect about you may be stored, processed and accessed in the United States. By using the Services, you consent to the transfer, storage, and processing of personal information about you in the United States. 
 
-How to Contact Us If you have any questions or comments about this Privacy Policy, or if you would like us to update information we have about you or your preferences, please contact us by: 
+How to Contact Us  
+If you have any questions or comments about this Privacy Policy, or if you would like us to update information we have about you or your preferences, please contact us by: 
 
-Email: [info@puritan.com](mailto:info@puritan.com)
+Email: [privacy@puritan.com](mailto:privacy@puritan.com)
 
 Mail: Puritan's Pride, Inc   
 Legal Department   
