@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grocerycouponnetwork.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316195856id_/http%3A//www.grocerycouponnetwork.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grocerycouponnetwork.com privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101043057id_/http%3A//www.grocerycouponnetwork.com/policy.php) for the most accurate reproduction.*
 
 # Privacy Policy & Terms | Grocery Coupon Network
 
@@ -53,7 +53,9 @@ In order to provide the products or services thatyou have requested, We may disc
 **WHAT IS THE UNSUBSCRIBE PROCESS?**
 
 Grocery Coupon Network Offers:  
-We use Your email address to notify you of Program updates, special offers and promotions. You may select at any time to opt-out from receiving emailed marketing offers from us, our partners and/or affiliated companies using the "Unsubscribe" link at the bottom any future email that you receive from us. You may also unsubscribe from Grocery Coupon Network offers using postmaster@GroceryCouponNetwork.com or via postal mail at Grocery Coupon Network, 230 S Clark Suite 306, Chicago, IL 60604
+We use Your email address to notify you of Program updates, special offers and promotions. You may select at any time to opt-out from receiving emailed marketing offers from us, our partners and/or affiliated companies using the "Unsubscribe" link at the bottom any future email that you receive from us. or by following this link:  
+<http://www.grocerycouponnetwork.com/unsubscribe.php>  
+You may also unsubscribe from Grocery Coupon Network offers using [postmaster@GroceryCouponNetwork.com](mailto:postmaster@GroceryCouponNetwork.com) or via postal mail at Grocery Coupon Network, 230 S Clark Suite 306, Chicago, IL 60604
 
 Non-affiliated 3rd Parties:  
 
@@ -61,6 +63,9 @@ Non-affiliated 3rd Parties:
 If You prefer not to receive email offers from our non-affiliated third-parties, You may click the "Unsubscribe" link available on the bottom of each email that You receive from a non-affiliated third-party, and follow the instructions on the screen.
 
 Please note that suppressed contact information will not be used for any purpose other than to ensure compliance with Your opt-out request, in response to inquiries by law enforcement and to comply with any other applicable state and/or federal laws regarding Your choices for commercial email marketing, such as CAN-SPAM.
+
+You can also opt out of cookies using the Network Advertising Initiative opt-out page at this page:  
+<http://www.networkadvertising.org/choices/>
 
 **WHAT ARE COOKIES AND HOW DO WE USE THEM?**
 
@@ -90,3 +95,39 @@ If You have any questions about the practices of Grocery Coupon Network, You can
 
 Email: [privacy@GroceryCouponNetwork.com](mailto:privacy@GroceryCouponNetwork.com)  
 Phone: (312) 476-9862
+
+**Grocery Coupon Network does not under any circumstances send or support in any way the generation of unsolicited messages to any person's computer, fax machine or email address.**
+
+Grocery Coupon Network is a service that publishes coupons. Companies retain Grocery Coupon Network to assist them with the distribution of their available coupon inventory.
+
+We do not send spam and we do not distribute unwanted messages to the general public.
+
+Our Website allows for visitors to register and receive online notification when coupons are available, but this service is entirely voluntary and you would only be receiving these emails if you proactively subscribed to the service.
+
+Further, all emails sent to registrants include "unsubscribe" instructions at the bottom of the each email.
+
+If you received an unsolicited email that includes a coupon that we distributed (as evident by the word "(Grocery Coupon Network)" within the dateline of the release), **you are not being spammed by Grocery Coupon Network but rather by someone else.**
+
+Grocery Coupon Network delivers its subscribers coupons to websites and portals where the information is easily accessed by the public, including spammers who violate our copyrights by illegally copying these coupons and including it in their spam to you.
+
+**What you can do**
+
+**Unsolicited Faxes**
+
+Grocery Coupon Network does not send unsolicited faxes. If you received an unsolicited fax that includes the word "(Grocery Coupon Network)" within the document, it is because the spammer is illegally copying & pasting a legitimate coupon that we distributed for a client and included it in their fax to you.
+
+**Email SPAM**
+
+Grocery Coupon Network does not send email spam. If you received an unsolicited email that includes the word "(Grocery Coupon Network)" within the documents, it is because the spammer is illegally copying & pasting a legitimate coupon that we distributed and included it in their email to you.
+
+**Report it to the Federal Trade Commission**
+
+Send a copy of unwanted or deceptive messages to uce@ftc.gov. The FTC uses the unsolicited emails stored in this database to pursue law enforcement actions against people who send deceptive spam email. Let the FTC know if a "remove me" request is not honored. If you want to complain about a removal link that doesn't work or not being able to unsubscribe from a list, you can fill out the FTC's online complaint form. Your complaint will be added to the FTC's Consumer Sentinel database and made available to hundreds of law enforcement and consumer protection agencies. Whenever you complain about spam, it's important to include the full email header. The information in the header makes it possible for consumer protection agencies to follow up on your complaint.
+
+**Send a copy of the spam to your ISP's abuse desk**
+
+Often the email address is abuse@yourispname.com or postmaster@yourispname.com. By doing this, you can let the ISP know about the spam problem on their system and help them to stop it in the future. Make sure to include a copy of the spam, along with the full email header. At the top of the message, state that you're complaining about being spammed.
+
+**Complain to the sender's ISP**
+
+Most ISPs want to cut off spammers who abuse their system. Again, make sure to include a copy of the message and header information and state that you're complaining about spam.
