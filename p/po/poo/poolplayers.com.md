@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poolplayers.com privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517115837id_/http%3A//www.poolplayers.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poolplayers.com privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101142049id_/http%3A//www.poolplayers.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - American Poolplayers AssociationAmerican Poolplayers Association
 
@@ -38,10 +38,9 @@ If you want to change, correct, or update personally identifiable information yo
 We use commercially reasonable administrative, technical personnel and physical measures to safeguard PII and any credit card information in its possession against loss, theft and unauthorized use, disclosure or modification. Unfortunately, information transmitted on the Internet and/or stored on systems is not 100% secure. As a result, we do not ensure, warrant or guarantee the security or integrity of any information transmitted to us over the Internet or stored on our systems.
 
 **Contact Information**  
-If you have questions or concerns regarding this Website Privacy Policy, please send an email to the [Webmaster](http://www.poolplayers.com/website-feedback-form/ "Website Feedback Form").
+If you have questions or concerns regarding this Website Privacy Policy, please fill out this [form](http://www.poolplayers.com/general-information-request-form/).
 
 **How do I opt-out?**  
 From time to time we have sponsors who may want to send you an offer or information based on the information you provide through your membership application. We may share our membership information with our sponsors for these purposes. If you would prefer to be eliminated from these lists, please fill in the [opt-out form](http://www.poolplayers.com/legal/opt-out-form/ "Opt-Out Form") located on this page and click “submit”; your name will be withheld from these particular lists. Choosing to opt-out, however, does not eliminate you from the list that we may use on occasion for its own purposes.
 
-For more information regarding online privacy and cookies, please visit the Electronic Privacy information Center at <http://www.epic.org/privacy/internet/cookies/>.  
-Please direct questions and inquiries to the [Webmaster](http://www.poolplayers.com/website-feedback-form/ "Website Feedback Form").
+For more information regarding online privacy and cookies, please visit the Electronic Privacy information Center at <http://www.epic.org/privacy/internet/cookies/>.
