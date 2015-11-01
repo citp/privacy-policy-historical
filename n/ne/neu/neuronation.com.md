@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the neuronation.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624193101id_/http%3A//www.neuronation.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neuronation.com privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101170759id_/http%3A//www.neuronation.com/lp/data_privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Brain training in the gym for the head
+# | Fitness for your Brain
 
 **Status: May 2014**
 
