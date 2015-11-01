@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegecrunch.org privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617102319id_/http%3A//www.collegecrunch.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegecrunch.org privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101013622id_/http%3A//www.collegecrunch.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - College Crunch
 
