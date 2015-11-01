@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kc-mm.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627113220id_/http%3A//kc-mm.com/kc-mm-com-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kc-mm.com privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101062144id_/http%3A//kc-mm.com/kc-mm-com-privacy-policy) for the most accurate reproduction.*
 
 # KC-MM.com Privacy Policy
 
