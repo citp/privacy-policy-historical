@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the jcnlx.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218203114id_/https%3A//secure.my.jobs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jcnlx.com privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102214846id_/https%3A//secure.my.jobs/privacy) for the most accurate reproduction.*
 
 # Privacy policy for My.jobs
 
-This Privacy Policy covers the collection, use and disclosure of information collected through the My.jobs website, owned and operated by DirectEmployers Association (hereafter, “DE”, “We”, “Us”). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
+This Privacy Policy covers the collection, use and disclosure of information collected through the My.jobs website, owned and operated by DirectEmployers Association (hereafter, “DE”, “We”, “Us”). This Privacy Policy describes how DirectEmployers Association collects and uses the personal information you provide. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
 
 [ ](https://privacy.truste.com/privacy-seal/DirectEmployers-Association/validation?rid=39667ce1-6884-4b85-a86b-cd9a659f9e31 "TRUSTe online privacy certification")
 
-DirectEmployers Association has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through the My.jobs website and does not cover information that may be collected through any mobile applications, devices or third party affiliates and partners. 
+The TRUSTe program covers only information that is collected through this website http://my.jobs, and does not cover information that may be collected through software downloaded from the website. 
 
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@my.jobs](mailto:privacy@my.jobs). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
+In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at [ https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request). 
 
 ### Information Collection and Use
 
@@ -17,7 +17,7 @@ We collect the following personal information from you when you visit our websit
   * Contact information such as name, email address, mailing address, phone number
   * Company name and address
   * Unique identifiers such as user name, account number, password
-  * Resume information, such as work history, education, and military service
+  * Profile information, such as work history, education, and military service
 
 
 
@@ -38,11 +38,11 @@ We collect the following personal information from you when you visit our websit
 
 ### Information Sharing
 
-We will share your personal information with third parties only in the ways that are described in this privacy policy. These companies are authorized to use your personally identifiable information _only as necessary to provide these services to us._ We do not sell, rent or otherwise distribute your personal information to third parties. 
+We will share your personal information with third parties only in the ways that are described in this privacy policy. 
 
 ##### The My.jobs Platform
 
-We share your job search activity and resume data with employers with whom you have interacted via our services. Employers may use your job search activity and resume data to send you messages, such as job opportunities, hiring events, career fairs, and general information about their company. Employers may also export your resume data to load into career marketing, customer relationship management, and applicant tracking systems. You may opt-out or decline such sharing of information by updating your [account settings](https://secure.my.jobs/account/edit/). 
+We share your job search activity and profile data with employers with whom you have interacted via our services. Employers may use your job search activity and profile data to send you messages, such as job opportunities, hiring events, career fairs, and general information about their company. Employers may also export your profile data to load into career marketing, customer relationship management, and applicant tracking systems. You may opt-out or decline such sharing of information by updating your [account settings](https://secure.my.jobs/account/edit/). 
 
 ##### Service Providers
 
@@ -52,7 +52,7 @@ We may provide your personal information to companies that provide services to h
 
 We may also disclose your personal information:
 
-  * as required by law, such as to comply with a subpoena, or similar legal process
+  * as required by law, such as to comply with a subpoena, bankruptcy proceedings, or similar legal process
   * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request
   * if DE is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information
   * to any other third party with your prior consent to do so
@@ -83,7 +83,7 @@ We may partner with a third party ad network to either display advertising on ou
 
 ##### Local Storage Objects
 
-We may, in the future, use Local Storage Objects (LSOs) such as HTML5 or Flash to store content and preferences related to user-interface manipulation and display. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click [here:](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)
+We use Local Storage such as HTML5 to store content and preferences related to user-interface manipulation and display. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity also use HTML 5 to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. 
 
 ### Security
 
