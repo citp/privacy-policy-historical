@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the captaincalculator.com privacy policy that was archived on 2015-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150313070526id_/http%3A//captaincalculator.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the captaincalculator.com privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102201500id_/http%3A//captaincalculator.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -31,6 +31,11 @@ We may disclose information when legally compelled to do so, in other words, whe
 A Special Note About Children
 
 Children are not eligible to use our web site and services and we ask that minors (under the age of 13) do not submit any personal information to us. If you are a minor, you can use this site only in conjunction with permission and guidance from your parents or guardians.
+
+Advertising
+
+Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.  
+Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Google’s Ads Settings](http://www.google.com/ads/preferences/). (Alternatively, you can opt out of a third-party vendor’s use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).)
 
 How Do We Protect Your Information and Secure Information Transmissions?
 
