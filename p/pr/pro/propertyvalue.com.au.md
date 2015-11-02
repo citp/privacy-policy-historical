@@ -1,28 +1,23 @@
-> *The following text is extracted and transformed from the propertyvalue.com.au privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319073454id_/http%3A//www.rpdata.com/general/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyvalue.com.au privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102113824id_/http%3A//www.corelogic.com.au/general/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | CoreLogic RP Data
 
-  * [__Home](https://web.archive.org/)
-  * [ __General](https://web.archive.org/general)
-  * __Privacy Policy
+RP Data Pty Ltd trading as CoreLogic Asia Pacific ABN 67 087 759 171) and its related and associated bodies corporate ( **us, we, our, CoreLogic** ) maintain a policy of strict confidence concerning your (you, your) personal information ( **Privacy Policy** ). This Privacy Policy has been developed in accordance with the Privacy Act 1988 (Cth) ( **Privacy Act** ) and the Australian Privacy Principals ( **APPs** ) made under that Act. The Privacy Policy applies to the collection, storage, use and disclosure of your personal information by us. By accessing the following websites and platforms ( **Sites** ), you accept the terms of this Privacy Policy: 
 
-
-
-RP Data Pty Ltd (ABN 67 087 759 171) and its related and associated bodies corporate ( **us, we, our, RP Data** ) maintain a policy of strict confidence concerning your (you, your) personal information ( **Privacy Policy** ). This Privacy Policy has been developed in accordance with the Privacy Act 1988 (Cth) ( **Privacy Act** ) and the Australian Privacy Principals ( **APPs** ) made under that Act. The Privacy Policy applies to the collection, storage, use and disclosure of your personal information by us. By accessing the following websites and platforms ( **Sites** ), you accept the terms of this Privacy Policy: 
-
-  * [www.rpdata.com](http://rpdata.com/)
+  * [www.corelogic.com.au](http://corelogic.com.au/)
   * [www.myrp.com.au](http://myrp.com.au/)
+  * [www.propertyvalue.com.au](http://propertyvalue.com.au/)
   * [www.cityscopeonline.com.au](http://cityscopeonline.com.au/)
   * [vx.valex.com.au](http://vx.valex.com.au/)
-  * [evrui.rpdata.com](http://evrui.rpdata.com/)
-  * [vms.rpdata.com](http://vms.rpdata.com/)
-  * [vis.rpdata.com](http://vis.rpdata.com/)
+  * [evrui.corelogic.com.au](http://evrui.corelogic.com.au/)
+  * [vms.corelogic.com.au](http://vms.corelogic.com.au/)
+  * [vis.corelogic.com.au](http://vis.corelogic.com.au/)
 
 
 
 This Privacy Policy applies to information provided to us whether via these Sites or any other means and demonstrates our policies, procedures and practices for compliance with the APPs under the Privacy Act. 
 
-This Privacy Policy applies to RP Data and its subsidiaries and related bodies corporate, including RP Data Pty Ltd and Valuation Exchange Pty Ltd, through which we operate and market a number of separate businesses and products, including: 
+This Privacy Policy applies to CoreLogic and its subsidiaries and related bodies corporate, including RP Data Pty Ltd and Valuation Exchange Pty Ltd, through which we operate and market a number of separate businesses and products, including: 
 
   * Property Data and Analytics Services 
   * Platform and Risk Management Services 
@@ -32,7 +27,7 @@ This Privacy Policy applies to RP Data and its subsidiaries and related bodies c
 
 This Privacy Policy applies in respect of information provided to us by persons under the age of 18 years however, those persons must obtain the consent of a parent or guardian prior to using the Site and the parent or guardian will be responsible for appropriately supervising the person’s use of the Site. 
 
-If you have any further questions or if you wish to receive more information on our information practices and Privacy Policy, please contact our Privacy Officer by email at [privacy@rpdata.com](mailto:privacy@rpdata.com)
+If you have any further questions or if you wish to receive more information on our information practices and Privacy Policy, please contact our Privacy Officer by email at [privacy@corelogic.com.au](mailto:privacy@corelogic.com.au)
 
 ## 1\. Types of personal information we collect
 
@@ -95,7 +90,7 @@ We may collect personal information about you from a combination of sources incl
 
 If it is reasonable and practical to do so, we will collect personal information **_directly_** from you. This will include contact details and other information relevant to providing services to you. This may take place in a number of ways, such as: 
 
-  * when you sign up for products or services, such as My RP 
+  * when you sign up for products or services, such as MYRP 
   * order a product or service from us
   * subscribe to a newsletter
   * complete a form on our website
@@ -119,7 +114,7 @@ The majority of the information we collect about you or the properties you own w
 Third parties from whom we source other information include: 
 
   * Real estate listing portals on which you or your agent have advertised your property for sale or lease
-  * Related companies of RP Data
+  * Related companies of RP Data Pty Ltd
   * Real estate agents
   * Tenancy and strata managers
   * Financial institutions
@@ -207,7 +202,7 @@ We obtain contractual warranties from the database providers that the personal i
 
 Your personal information may be disclosed to our subscribers for the purposes of direct marketing their products and services to you. Our terms and conditions with our subscribers require that they comply with the Privacy Act and APPs in all direct marketing communications with you. 
 
-If you wish to be removed from our Marketing Direct database, please contact our Privacy Officer by email at: [privacy@rpdata.com](mailto:privacy@rpdata.com)
+If you wish to be removed from our Marketing Direct database, please contact our Privacy Officer by email at: [privacy@corelogic.com.au](mailto:privacy@corelogic.com.au)
 
 ## 4\. Direct marketing
 
@@ -267,9 +262,9 @@ Cookies also allow us to provide you with more personalised service. We use cook
 
   * determine whether you have previously accessed our websites
   * identify the pages you have accessed, your IP address and the date time and duration of your visit
-  * aid in the security of your use of our RP Data websites
+  * aid in the security of your use of our CoreLogic websites
   * aid in the log-in process
-  * facilitate administration of RP Data websites
+  * facilitate administration of CoreLogic websites
   * generate statistics about the use of our websites to continually improve our websites and customer service, and data products and identify product trends. 
 
 
@@ -308,11 +303,14 @@ If we do not adequately answer your concerns, you have the right to make a compl
 
 If you have any questions relating to this Privacy Policy or your personal information, please contact our Privacy Officer: 
 
-> By email: [privacy@rpdata.com](mailto:privacy@rpdata.com)
+> By email: [privacy@corelogic.com.au](mailto:privacy@corelogic.com.au)
 > 
 > or by mail: 
 > 
-> RP Data Pty Limited Locked Bag 5 Eagle Farm QLD 4009 Australia
+> CoreLogic  
+>  Locked Bag 5  
+>  Eagle Farm QLD 4009  
+>  Australia
 > 
 > Ph: 1300 734 318 
 
@@ -320,8 +318,8 @@ When contacting us or using our products and services, you have the option to ei
 
 ## 15\. General
 
-This policy is effective as at 30 April 2014. 
+This Privacy Policy is effective as at 12 June 2015. 
 
-RP Data may vary this Privacy Policy from time to time. RP Data will notify you of these changes by publishing them on our websites. The current version of this Privacy Policy is located at: <http://www.rpdata.com/general/privacy_policy.html>
+CoreLogic may vary this Privacy Policy from time to time. CoreLogic will notify you of these changes by publishing them on our websites. The current version of this Privacy Policy is located at: <http://www.corelogic.com.au/about-us/privacy-policy.html>
 
-RP DATA® is a registered trademark of RP Data Pty Ltd. 
+CoreLogic® is a registered trademark of CoreLogic Solutions, LLC and used under licence by RP Data Pty Ltd.
