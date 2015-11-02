@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cultbeauty.co.uk privacy policy that was archived on 2014-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140929203429id_/http%3A//www.cultbeauty.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cultbeauty.co.uk privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102065621id_/http%3A//www.cultbeauty.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Cult Beauty
 
