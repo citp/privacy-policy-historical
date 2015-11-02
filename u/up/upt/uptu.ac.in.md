@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the uptu.ac.in privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623171531id_/http%3A//www.uptu.ac.in/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uptu.ac.in privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102200631id_/http%3A//www.uptu.ac.in/privacy-policy.html) for the most accurate reproduction.*
 
-# :: Uttar Pradesh Technical University (UPTU) ::
+# :: Dr. A.P.J. Abdul Kalam Technical University, Uttar Pradesh, Lucknow ::
 
-Thanks for visiting website of Uttar Pradesh Technical University, Uttar Pradesh, and reviewing our privacy policy.  
+Thanks for visiting website of Dr. A.P.J. Abdul Kalam Technical University, Uttar Pradesh, Lucknow and reviewing our privacy policy.  
 We collect no personal information, like names or addresses, when you visit our website. If you choose to provide that information to us, it is only used to fulfill your request for information.  
 We do collect some technical information when you visit to make your visit seamless. The section below explains how we handle and collect technical information when you visit our website.  
 Information collected and stored automatically When you browse, read pages, or download information on this website, we automatically gather and store certain technical information about your visit. This information never identifies who you are. The information we collect and store about your visit is listed below:  
@@ -34,5 +34,4 @@ For site security purposes and to ensure that this service vice remains availabl
   * Except for authorised law enforcement investigations, no other attempts are made to identify individual users or their usage habits. Raw data logs are used for no other purposes and are scheduled for regular deletion.
   * Unauthorised attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Indian IT Act. 
 
-  
 
