@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinatravel.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629032828id_/http%3A//www.chinatravel.com/about-china-travel/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinatravel.com privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102035939id_/http%3A//www.chinatravel.com/about-china-travel/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Statement, Chinatravel.com User Privacy and Security Protection
 
@@ -21,7 +21,7 @@ We collect the following personal information from you:
 
 
 
-As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system. In addition, we may use website analytics tools, or other technologies, like cookies and web beacons, to collect information about your visit to the Sites, including the pages you view, the links you click and other actions taken in connection with the Sites and services. We do not link this automatically collected data to other information we collect about you. Or We may combine this automatically collected log information with other information we collect about you. We do this [to improve services we offer you, to improve marketing, analytics, or site functionality.
+As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system. In addition, we may use website analytics tools, or other technologies, like cookies and web beacons, to collect information about your visit to the Sites, including the pages you view, the links you click and other actions taken in connection with the Sites and services. We do not link this automatically collected data to other information we collect about you. 
 
 We use this information to:
 
@@ -69,7 +69,7 @@ If you reject cookies, you can still use our site, but you may enter the same in
 
 Technologies such as: cookies, beacons, tags and scripts are used by China Travel and our partners [specify type e.g. marketing partners], affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-We use cookies for _[our shopping cart, to remember users’ settings (e.g. language preference), for authentication]._ Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. 
+We use cookies for _our shopping cart, to remember users’ settings (e.g. language preference), for authentication._ Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. 
 
 ### **Flash LSOs**
 
@@ -125,5 +125,5 @@ We may update this privacy statement to reflect changes to our information pract
 ### **Contact Information**
 
 You can contact us about this privacy statement by writing or email us at the address below:  
-**Chinatravel.com, No.11 Binjiang Road, Guilin, China 541002  
+**Chinatravel.com, Building 6, Chuangyi Business Park, 70 Qilidian Road, Guilin, China 541004  
 Email: [marketing@chinatravel.com](mailto:marketing@chinatravel.com)**[](mailto:marketing@chinatravel.com)
