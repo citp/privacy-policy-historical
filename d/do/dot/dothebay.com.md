@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dothebay.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504191544id_/http%3A//dothebay.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dothebay.com privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102111605id_/http%3A//dothebay.com/privacy) for the most accurate reproduction.*
 
 # DotheBay | What to do in The Bay Area
 
@@ -81,7 +81,7 @@ Although most changes are likely to be minor unless we introduce a new service t
 
 If you feel that we are not abiding by this privacy policy, or if you have any other questions or concerns, please contact us at the following address:
 
-events@do415.com
+events@dothebay.com
 
 You should also provide a copy of your complaint, question or concern to DoStuff:
 
