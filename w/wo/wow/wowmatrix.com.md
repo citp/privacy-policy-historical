@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wowmatrix.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319173658id_/https%3A//www.wowmatrix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowmatrix.com privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102022142id_/https%3A//www.wowmatrix.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - WoW AddOns :: WowMatrix
 
@@ -6,7 +6,7 @@
 
 At Acreon Inc. we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by Acreon Inc. or its subsidiaries or affiliated companies (collectively, Acreon Inc.'s "services").
 
- **Information we collect and how we use it:**
+**Information we collect and how we use it:**
 
 We offer a number of services that do not require you to register for an account or provide any personal information to us, such as basic website and software functionality. In order to provide our full range of services, we may collect the following types of information:
 
@@ -41,7 +41,7 @@ Acreon Inc. only processes personal information for the purposes described in th
 
 Acreon Inc. processes personal information on our servers in the United States of America and in other countries. In some cases, we process personal information on a server outside your own country. We may process personal information to provide our own services. In some cases, we may process personal information on behalf of and according to the instructions of a third party, such as our advertising partners.
 
- **Choices for personal information**
+**Choices for personal information**
 
 When you sign up for a particular service that requires registration, we ask you to provide personal information. If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use.
 
@@ -49,7 +49,7 @@ If we propose to use personal information for any purposes other than those desc
 
 You can decline to submit personal information to any of our services, in which case Acreon Inc. may not be able to provide those services to you.
 
- **Information sharing**
+**Information sharing**
 
 Acreon Inc. only shares personal information with other companies or individuals outside of Acreon Inc. in the following limited circumstances:
 
@@ -68,20 +68,20 @@ We may share with third parties certain pieces of aggregated, non-personal infor
 
 Please contact us via the feedback form at our website for any additional questions about the management or use of personal data.
 
- **Information security**
+**Information security**
 
 We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
 
 We restrict access to personal information to Acreon Inc. employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
 
- **Data integrity**
+**Data integrity**
 
 Acreon Inc. processes personal information only for the purposes for which it was collected and in accordance with this Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
 
- **Accessing and updating personal information**
+**Accessing and updating personal information**
 
 When you use Acreon Inc. services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Some of our services have different procedures to access, correct or delete users' personal information. We provide the details for these procedures in the specific privacy notices or FAQs for these services.
 
- **Changes to this policy**
+**Changes to this policy**
 
 Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes).
