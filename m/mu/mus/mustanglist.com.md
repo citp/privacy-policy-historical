@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mustanglist.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619124040id_/http%3A//www.mustanglist.com/k/idx.php/15/035/article/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mustanglist.com privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102094418id_/http%3A//mustanglist.com/k/idx.php/15/035/article/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy .: MustangList.com Knowledge Base
 
