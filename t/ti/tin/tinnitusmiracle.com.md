@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tinnitusmiracle.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607200446id_/http%3A//www.tinnitusmiracle.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinnitusmiracle.com privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102041728id_/http%3A//www.tinnitusmiracle.com/privacy.html) for the most accurate reproduction.*
 
 # Tinnitus Miracle™ - Privacy
 
