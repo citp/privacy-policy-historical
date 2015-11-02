@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fresh-jobs.net privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513070343id_/http%3A//fresh-jobs.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fresh-jobs.net privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102013037id_/http%3A//fresh-jobs.net/privacy) for the most accurate reproduction.*
 
-# Fresh-Jobs.net - the newest and freshest jobs in the World
+# Fresh-Jobs.net - Jobs around the world. Find Jobs.
 
 This Privacy Policy governs the manner in which Fresh Jobs Network collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://Fresh-Jobs.net](http://fresh-jobs.net/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Fresh Jobs Network.
 
