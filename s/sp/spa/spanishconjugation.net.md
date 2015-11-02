@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spanishconjugation.net privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608112738id_/http%3A//www.spanishconjugation.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spanishconjugation.net privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102195648id_/http%3A//www.spanishconjugation.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SpanishConjugation.net
 
