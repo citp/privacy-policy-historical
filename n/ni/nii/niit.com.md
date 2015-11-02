@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the niit.com privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620063216id_/http%3A//www.niit.com/en/learning-outsourcing/policy/pages/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niit.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103003152id_/http%3A//www.niit.com/en/learning-outsourcing/policy/Pages/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
