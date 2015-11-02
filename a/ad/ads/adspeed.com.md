@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the adspeed.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602000032id_/https%3A//www.adspeed.com/Privacy-Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adspeed.com privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102011226id_/https%3A//www.adspeed.com/Privacy-Statement.html) for the most accurate reproduction.*
 
 # Ad Servers | Ad Server Software | Ad Serving Software – Privacy Statement for AdSpeed.com
 
-AdSpeed.com has created this privacy statement in order to demonstrate our commitment to protecting your privacy. The following document discloses the information gathering and dissemination practices for this website. We also have a [Privacy Statement for advertisements](https://web.archive.org/Knowledges/188/Content/Privacy_Statement_Ad_Serving.html) served by AdSpeed. 
+AdSpeed.com has created this privacy statement in order to demonstrate our commitment to protecting your privacy. The following document discloses the information gathering and dissemination practices for this website. We also have a [Privacy Statement for advertisements](https://web.archive.org/Privacy-Statement-Ad-Serving.html) served by AdSpeed. 
 
 #### Personal/Site Information
 
@@ -41,18 +41,3 @@ Our [Terms of Service](https://web.archive.org/Terms-of-Service.html) clearly st
 By registering as a member of our service, you are agreeing to accept this privacy policy. We reserve the right to modify this policy at any time prior to any notice. It is your own benefit to check for any update of the policy in case we have not yet notified our members. 
 
 If you have any questions about this privacy statement, or the practices of AdSpeed.com, please [contact us](https://web.archive.org/Helps/contact.html).
-
-## Testimonials
-
-  * > I LOVE AdSpeed. This has been terrific for my website.
-> 
-> _Mark F_  
->  Harvard Magazine
-
-  * > Thank you very much! I greatly appreciate it.
-> 
-> _Steve Ingels_  
-> 
-
-
-
