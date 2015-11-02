@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freecamstars.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616095223id_/http%3A//www.freecamstars.com/privacy.html%3FAFNO%3D1-100018-s1%257Cp2%257Ctour1%257Ck%257Ck2%257Ck3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecamstars.com privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102013657id_/http%3A//www.freecamstars.com/privacy.html%3FAFNO%3D1-100018-s1%257Cp2%257Ctour1%257Ck%257Ck2%257Ck3) for the most accurate reproduction.*
 
 # FreeCamStars - Privacy Policy
 
