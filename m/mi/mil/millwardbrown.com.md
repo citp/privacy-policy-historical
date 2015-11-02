@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the millwardbrown.com privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514161023id_/http%3A//www.millwardbrown.com/footer/privacy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millwardbrown.com privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102114040id_/http%3A//www.millwardbrown.com/footer/privacy-terms) for the most accurate reproduction.*
 
 # Privacy & Terms - ..ww.millwardbrown.com
 
@@ -49,6 +49,8 @@ We use cookies for website analytics purposes to collect information about how v
 
 We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our Site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You control how your internet browser processes and saves cookies by following directions provided in your browser’s “help” file.
 
+You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Site. If you delete your cookies, change browsers or use a different device, our cookie (or an opt-out cookie) may no longer work and you will have to re-input (or opt-out) again.
+
 We use a number of social media tools to enhance visitor interaction on our site. If you already use these platforms their cookies may be set through our website.
 
 **Web Beacons**  
@@ -60,7 +62,7 @@ We may use Web beacons in our HTML-based emails to let us know which emails have
 
 
 **Opt-Out**  
-If you no longer wish to receive email communications from Millward Brown as described above, you may opt-out by following the directions that are included in each email communication. You may also contact us at[webmaster@millwardbrown.com](mailto:webmaster@millwardbrown.com) for assistance.
+If you no longer wish to receive email communications from Millward Brown as described above, you may opt-out by following the directions that are included in each email communication. You may also contact us at [webmaster@millwardbrown.com](mailto:webmaster@millwardbrown.com) for assistance.
 
 **Security**  
 We have put in place reasonable administrative, technical, and physical safeguards to protect against unauthorized access to the information we collect. However, no security measures are 100% impenetrable and we cannot guarantee against all potential security breaches. Moreover, the transmission of information over the Internet is not inherently secure, and we are not responsible for the transmission of information over networks that we do not control. Your use of our Site demonstrates your assumption of these risks.
