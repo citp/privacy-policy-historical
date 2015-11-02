@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the eff.org privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628204559id_/https%3A//www.eff.org/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eff.org privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102161333id_/https%3A//www.eff.org/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Electronic Frontier Foundation
 
-(Note that EFF's Technology Projects, such as HTTPS Everywhere, have a different privacy policy, available [here](https://web.archive.org/web/20150628204559id_/https%3A//www.eff.org/code/privacy))
+(Note that EFF's Technology Projects, such as HTTPS Everywhere, have a different privacy policy, available [here](https://web.archive.org/web/20151102161333id_/https%3A//www.eff.org/code/privacy))
 
 The Electronic Frontier Foundation (EFF) is committed to protecting the privacy of visitors to our website, as well as our members and activists. EFF has established this Privacy Policy to explain what information we collect through our websites and how it is used.
 
@@ -112,11 +112,11 @@ _Also recently updated May 1, 2014 to reflect: 1) introduction of EFF's separate
 
   * [Oct 19 2011 - Jul 23 2012](https://www.eff.org/policy/2011/10/19)
 
-  * [Jul 24, 2012 - Apr 30, 2014](https://web.archive.org/web/20150628204559id_/https%3A//www.eff.org/policy/2012/07/24)
+  * [Jul 24, 2012 - Apr 30, 2014](https://web.archive.org/web/20151102161333id_/https%3A//www.eff.org/policy/2012/07/24)
 
-  * [Apr 31, 2014 – Jun 12, 2014](https://web.archive.org/web/20150628204559id_/https%3A//www.eff.org/policy/2014/04/31)
+  * [Apr 31, 2014 – Jun 12, 2014](https://web.archive.org/web/20151102161333id_/https%3A//www.eff.org/policy/2014/04/31)
 
-  * [Jun 13, 2014 – Apr 7, 2015](https://web.archive.org/web/20150628204559id_/https%3A//www.eff.org/policy/2014/06/13)
+  * [Jun 13, 2014 – Apr 7, 2015](https://web.archive.org/web/20151102161333id_/https%3A//www.eff.org/policy/2014/06/13)
 
 
 
