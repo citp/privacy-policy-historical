@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 121doc.co.uk privacy policy that was archived on 2015-05-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150502182139id_/http%3A//www.121doc.co.uk/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 121doc.co.uk privacy policy that was archived on 2015-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151102063651id_/http%3A//www.121doc.co.uk/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html itemscope="" itemtype="http://schema.org/WebPage" lang="en-GB"><head>
 <!-- Twitter Card data -->
@@ -31,7 +31,7 @@
 <script type="text/javascript" src="http://www.121doc.co.uk/script/common.js"></script>
 <script type="text/javascript" src="http://www.121doc.co.uk/script/jquery.jcarousel.min.js"></script>
 <script type="text/javascript" src="http://www.121doc.co.uk/script/slides.min.jquery.js"></script>
-<script async="" defer="" src="//j.flxpxl.com/182186.js?r=6949699083693279&amp;m=992&amp;a=182186"></script></head>
+<script async="" defer="" src="//j.flxpxl.com/182186.js?r=6190333608569827&amp;m=992&amp;a=182186"></script></head>
 <body>
 
 <!-- Google Tag Manager -->
@@ -46,12 +46,113 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 <div class="wrap">
+
+<script>
+$(document).ready(function(){
+
+if(navigator.appVersion.match(/MSIE [\d.]+/)){
+    var placeholderText = 'Search here...';
+    $('#dofind').val(placeholderText);
+    $('#dofind').blur(function(){
+        $(this).val() == '' ? $(this).val(placeholderText) : false;
+    });
+    $('#dofind').focus(function(){
+        $(this).val() == placeholderText ? $(this).val('') : false;
+    });
+}
+
+$('#dofind').keypress(function(e) {
+     var code = (e.keyCode ? e.keyCode : e.which);
+     if (code == 13) {
+        e.preventDefault();
+        e.stopPropagation();
+		qr=$('#dofind').val();
+		if(qr.trim()!='')
+		{
+				 window.location="doofinder_search.php?dfParam_query="+qr;
+		 
+		}
+     }
+  });
+
+});
+
+//doofinder functions *********************************
+
+function checksearch()
+{
+  srch=$('#dofind').val();
+  if(srch.replace(/^\s+|\s+$/g, '')=='')
+  {
+   $('#dofind').val('');
+   $('#dofind').focus();
+   return false;
+  }
+
+    window.location="doofinder_search.php?dfParam_query="+srch;
+  }
+
+function cmp_funct()
+{
+
+	var wt = $('.search_do_find').offset().left;
+	var owt = $('.search_do_find').outerWidth();
+	var ft= parseInt(wt,10)+parseInt(owt,10);
+	var ow = $('#doofinder').outerWidth();
+	var lft = ft-ow;
+	
+	$('#doofinder').css('left',lft+'px');
+	$('#doofinder .product').each(function(e){
+ 
+if($(this).find('a.btn_info').length==0)
+{
+	var str='<a class="btn_info" href="#"><span>Info</span></a>';
+	var lnk=$(this).find('a.link').attr('href');
+	$(this).find('a.btn_info').attr('href',lnk);
+}
+
+if($(this).find('.img_wrap').length==0)
+{
+	$(this).find('.image').wrap('<div class="img_wrap">');
+}
+
+ $(this).find('h1').next('div').remove();
+ 
+});
+
+}
+
+//end doofinder functions *********************************
+
+var doofinder_script = '//cdn.doofinder.com/media/js/doofinder-4.latest.min.js';
+(function(d,t){var f=d.createElement(t),s=d.getElementsByTagName(t)[0];f.async=1;
+    f.src=('https:'==location.protocol?'https:':'http:')+doofinder_script;
+    s.parentNode.insertBefore(f,s)}(document,'script')
+);
+if(!doofinder){var doofinder={};}
+doofinder.options = {
+  "lang": "en", 
+  "header": {}, 
+  "queryInput": "#dofind", 
+  "results": {
+  "width": 600, 
+  "defaultTemplate": "GridView"
+ }, 
+  "hashid": "ffd0d88b1320d5666d1db94210ba0ae6",
+	complete:cmp_funct,
+	captureLength:2
+  
+};
+
+</script>
+
+
 <header>
     <figure>
     	<a href="http://www.121doc.co.uk"><img src="/images/domain/121doc.png" alt="121doc - Online Clinic"></a>
    	</figure>
     <ul class="sprt">
-        <li class="phn">020 3322 1430<br><span style="font-size:12px;">Mon-Fri 08:00-21:00 &amp; Sat 10:00-17:00</span></li>
+        <li class="phn">020 3322 1430<br><span style="font-size:12px;">Lines are open Mon-Fri 08:00 -18:00</span></li>
         <li class="lvcht" id="LiveChat_1359717724">Live Chat<br><span>Click here to start chat</span></li>
         <li class="email"><a href="mailto:patient-services@121doc.co.uk">Email<br><span style="font-size:12px;">patient-services@121doc.co.uk</span></a></li>
     </ul>
@@ -81,17 +182,162 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				STIs
 				<span></span>
 			</a>
-					<a id="aid_7" class="topmenu " href="/smoking.html">
-				Stop Smoking
-				<span></span>
-			</a>
-					<a id="aid_5" class="topmenu " href="/hair-loss.html">
-				Hair Loss
-				<span></span>
-			</a>
 				<a href="/all_conditions.php" id="cat_menu" class="alcnt">All Conditions</a>
-	</nav>
-	
+	 	 <div class="search_do_find">	
+		<input type="submit" class="srchbtn" value="" onclick="return checksearch();">
+		<input name="dfParam_query" id="dofind" type="text" value="" placeholder="Search here.." class="srchfld">
+	</div>
+		</nav>
+	<div id="ajax_menu" class="prod Mmnutop DS_NO">
+														<div class="topmenu">
+															<dl>
+									<dt>
+										<a href="http://www.121doc.co.uk/impotence.html">Impotence</a>
+									</dt>
+								</dl>
+															
+															<dl>
+									<dt>
+										<a href="http://www.121doc.co.uk/contraception.html">Contraception</a>
+									</dt>
+								</dl>
+															
+															<dl>
+									<dt>
+										<a href="http://www.121doc.co.uk/weight-loss.html">Weight Loss</a>
+									</dt>
+								</dl>
+															
+															<dl>
+									<dt>
+										<a title="Asthma" href="http://www.121doc.co.uk/asthma.html">Asthma</a>
+									</dt>
+								</dl>
+															
+															<dl>
+									<dt>
+										<a href="http://www.121doc.co.uk/premature-ejaculation.html">Premature Ejaculation</a>
+									</dt>
+								</dl>
+															
+															<dl>
+									<dt>
+										<a href="http://www.121doc.co.uk/sexually-transmitted-infections.html">STIs</a>
+									</dt>
+								</dl>
+															
+													</div>
+											<div class="topmenu">
+															<dl>
+									<dt>
+										<a href="http://www.121doc.co.uk/smoking.html">Stop Smoking</a>
+									</dt>
+								</dl>
+															
+															<dl>
+									<dt>
+										<a href="http://www.121doc.co.uk/hair-loss.html">Hair Loss</a>
+									</dt>
+								</dl>
+															
+															<dl>
+									<dt>
+										<a href="http://www.121doc.co.uk/emergency-contraception.html">Emergency Contraception</a>
+									</dt>
+								</dl>
+															
+															<dl>
+									<dt>
+										<a title="Period delay" href="http://www.121doc.co.uk/period-delay.html">Period Delay</a>
+									</dt>
+								</dl>
+															
+															<dl>
+									<dt>
+										<a title="Thrush" href="http://www.121doc.co.uk/thrush.html">Thrush</a>
+									</dt>
+								</dl>
+															
+															<dl>
+									<dt>
+										<a href="http://www.121doc.co.uk/high-cholesterol.html">High Cholesterol</a>
+									</dt>
+								</dl>
+															
+													</div>
+											<div class="topmenu">
+															<dl>
+									<dt>
+										<a href="http://www.121doc.co.uk/influenza.html">Influenza</a>
+									</dt>
+								</dl>
+															
+															<dl>
+									<dt>
+										<a title="Facial Hair Removal" href="http://www.121doc.co.uk/hair-removal.html">Facial Hair Removal</a>
+									</dt>
+								</dl>
+															
+															<dl>
+									<dt>
+										<a title="Cystitis" href="http://www.121doc.co.uk/cystitis.html">Cystitis</a>
+									</dt>
+								</dl>
+															
+															<dl>
+									<dt>
+										<a title="High blood pressure" href="http://www.121doc.co.uk/high-blood-pressure.html">High blood pressure</a>
+									</dt>
+								</dl>
+															
+															<dl>
+									<dt>
+										<a title="Travel Health" href="http://www.121doc.co.uk/travel-health.html">Travel Health</a>
+									</dt>
+								</dl>
+															
+															<dl>
+									<dt>
+										<a href="http://www.121doc.co.uk/haemorrhoids.html">Haemorrhoids</a>
+									</dt>
+								</dl>
+															
+													</div>
+											<div class="topmenu" style="border-right:0px; z-index:9999;">
+															<dl>
+									<dt>
+										<a title="Diabetes" href="http://www.121doc.co.uk/diabetes.html">Diabetes</a>
+									</dt>
+								</dl>
+																																
+															<dl>
+									<dt>
+										<a href="http://www.121doc.co.uk/acne.html">Acne</a>
+									</dt>
+								</dl>
+																																
+															<dl>
+									<dt>
+										<a title="HRT" href="http://www.121doc.co.uk/hormone-replacement-therapy.html">HRT</a>
+									</dt>
+								</dl>
+																											<dl class="LivDocHom">
+											<dt>
+												<a href="http://www.121doc.co.uk/live-doctor.php">Live Doctor</a>
+											</dt>
+										</dl>
+																								
+													</div>
+					
+							<div class="Topmnubann">
+				<dl>
+					<dt>3 Easy Steps</dt>
+					<dd><p>Choose a prescription treatment for your condition</p></dd>
+					<dd><p>Complete a short, private consultation with our doctor</p></dd>
+					<dd class="Nbdr"><p>Enter your delivery address and pay online</p></dd>
+				</dl>
+			</div>
+	</div>
 			
 		<script>
 			$(document).ready( function() {
@@ -109,7 +355,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			});
 		</script>
 	 
-</header><div class="mid"><script type="text/javascript" src="http://www.121doc.co.uk/script/jcarousellite_1.0.1.js"></script>
+</header><div class="mid">
+<script type="text/javascript" src="http://www.121doc.co.uk/script/jcarousellite_1.0.1.js"></script>
 <div class="brdcrmb">
   <dl><dd class="hm"><a href="/">Home</a><span>Privacy Policy</span></dd></dl>
 </div>
@@ -122,10 +369,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
-<p align="justify">This Policy applies as between you, the User of this Web   Site and 121doc the owner and provider of this Web Site.  This Policy   applies to our use of any and all Data collected by us in relation to   your use of the Web Site and any Services or Systems therein.</p>
+<p align="justify">This Policy applies as between you, the User of this website and 121doc.  This Policy   applies to our use of any and all Data collected by us in relation to   your use of the Web Site and any Services or Systems therein.</p>
 
 <p>BY USING THIS WEBSITE AND GIVING YOUR INFORMATION TO US, YOU INDICATE YOUR CONSENT TO US, OUR GROUP AND THIRD PARTIES COLLECTING AND USING YOUR PERSONAL INFORMATION IN ACCORDANCE WITH THE TERMS SET OUT IN THIS POLICY.</p>
-<p>We may disclose your information to a third party as part of a sale or initial public offering of the assets of Hexpress Limited or any subsidiary, division or affiliate of Hexpress Limited, or as the result of a change in control of Hexpress Limited or any one of its affiliates, subsidiaries or divisions, or in preparation for any of these events. Any third party to which Hexpress Limited prepares to transfer or sell or transfers or sells Hexpress Limited’s assets will have the right to continue to use the personal and other information that you provide to us in the manner set out in the Terms and this Privacy Policy.</p>
+<p>We may disclose your information to a third party as part of a sale or initial public offering of the assets of Hexpress Healthcare Limited or any subsidiary, division or affiliate of Hexpress Healthcare Limited, or as the result of a change in control of Hexpress Healthcare Limited or any one of its affiliates, subsidiaries or divisions, or in preparation for any of these events. Any third party to which Hexpress Healthcare Limited prepares to transfer or sell or transfers or sells Hexpress Healthcare Limited's assets will have the right to continue to use the personal and other information that you provide to us in the manner set out in the Terms and this Privacy Policy.</p>
 
 <p>121doc is dedicated to   providing ease of navigation, affordability and the highest level of   security in respect of your online purchase of medications. We   understand that your health is of utmost importance and that the details   thereof should be kept confidential and held in the strictest of   confidence. In saying this we also appreciate the risks that are   associated with online purchases. In order to maintain the highest level   of security at all times our site makes use of sophisticated 128 bit   SSL security to encrypt your data.</p>
 <p>Furthermore, at 121doc we are committed to protecting and respecting   your privacy and using the best available technology to ensure your   security whilst you are on our site. We request you to register on our   site prior to using certain areas of the website. You will be asked to   enter your personal information including “sensitive personal data” as   defined under the Data Protection Act 1998 (“the Act”). All the pages   where you enter this data are secured by 128 bit SSL encryption.</p>
@@ -505,76 +752,111 @@ function PatientRegistrationStep(prod_val,prod_form)
 		location.href = "https://www.121doc.co.uk/medical_questions.php?pack_id="+pack_val 		
 }*/
 
+</script>
+<script>
+$(document).ready(function(){
+	var seo_cnt = $(".Rea_link_bx dl.boxseo dd a").length;
+	
+	if(seo_cnt > 10)
+		$(".sm").show();
+	else
+		$(".sm").hide();
+		
+	$(".Rea_link_bx dl.boxseo dd a:gt(9)").css('display','none');
+});
+
+//To Open and close more than 10 link of seo page
+function OpenMore(element){
+
+	var cd = $(element).closest("dl").attr("class");
+		
+	if($("."+cd+" dd a:gt(9)").is(":visible")){
+		$("."+cd+" dd a:gt(9)").css('display','none');
+		$("."+cd+" p a").text('Read more...');
+	}else{
+		$("."+cd+" dd a:gt(9)").css('display','');
+		$("."+cd+" p a").text('Collapse');
+	}
+}
 </script></div>
 		<div id="ajax_menu" class="prod Mmnutop" style="display:none;"></div>
 	 
-<footer><div class="ftr_rw" onclick="window.open('/how-we-work.html')"><dl class="esystp"><dd style="left:255px;">Choose a prescription treatment for your condition</dd>
-<dd style="left:500px;">Complete a short, private consultation with our doctor</dd>
-<dd style="left:785px;">Enter your delivery address and pay<br>online</dd></dl></div>
+<footer><div class="srch_flg">
+ <a href=" http://www.pharmacyregulation.org/registers/pharmacy/registrationnumber/9010082" target="_blank"><img src="/images/pharmacy.jpg" alt="Registered Pharmacy"></a>
+<div class="flg_cnt" id="flglnk" onmouseover="$('#flg').slideDown('fast')"><img class="flg-dwn-arw" alt="" src="/images/cntry-flg-dwn-arw.png"><a title="" href="javascript:;" class="flg57">English</a>
+<div class="coundrop" id="flg" style="display:none"><span><a title="Deutsch" href="http://www.121doc.de" rel="" class="flg49">Deutsch</a></span><span><a title="Dansk" href="http://www.121doc.dk" rel="" class="flg52">Dansk</a></span><span><a title="Nederlands" href="http://www.121doc.nl" rel="" class="flg53">Nederlands</a></span><span><a title="Deutsch - CH" href="http://www.121doc.ch" rel="" class="flg54">Deutsch - CH</a></span><span><a title="Français (SUI)" href="http://www.121doc.ch/fr" rel="" class="flg60">Français (SUI)</a></span><span><a title="Svenska" href="http://www.121doc.se" rel="" class="flg61">Svenska</a></span><span><a title="Polski" href="http://www.121doc.pl" rel="" class="flg63">Polski</a></span><span><a title="Norsk" href="http://www.121doc.no" rel="" class="flg92">Norsk</a></span><span><a title="Português" href="http://pt.121doc.net" rel="" class="flg56">Português</a></span></div>
+</div>
+    </div>
 
-<div class="srch_flg">
-        <div class="srch_cnt">
-			<form method="get" action="https://www.121doc.co.uk/search.php">
-			<input name="q" id="q" type="text" value="" class="srchfld">
-			<input type="submit" class="srchbtn" value=""></form>
-		</div>
-	<div class="flg_cnt" id="flglnk" onmouseover="$('#flg').slideDown('fast')"><img class="flg-dwn-arw" alt="" src="/images/cntry-flg-dwn-arw.png"><a title="" href="javascript:;" class="flg57">English</a>
-	<div class="coundrop" id="flg" style="display:none"><span><a title="Français" href="http://fr.121doc.net" class="flg47">Français</a></span><span><a title="Deutsch" href="http://www.121doc.de" class="flg49">Deutsch</a></span><span><a title="Español" href="http://es.121doc.net" class="flg50">Español</a></span><span><a title="Dansk" href="http://www.121doc.dk" class="flg52">Dansk</a></span><span><a title="Nederlands" href="http://www.121doc.nl" class="flg53">Nederlands</a></span><span><a title="Deutsch - CH" href="http://www.121doc.ch" class="flg54">Deutsch - CH</a></span><span><a title="Français (SUI)" href="http://fr.121doc.ch" class="flg60">Français (SUI)</a></span><span><a title="Deutsch - AT" href="http://www.121doc.at" class="flg59">Deutsch - AT</a></span><span><a title="Svenska" href="http://www.121doc.se" class="flg61">Svenska</a></span><span><a title="Polski" href="http://www.121doc.pl" class="flg63">Polski</a></span><span><a title="Norsk" href="http://www.121doc.no" class="flg92">Norsk</a></span><span><a title="Português" href="http://pt.121doc.net" class="flg56">Português</a></span><span><a title="Français (BE)" href="http://www.121doc.be" class="flg51">Français (BE)</a></span><span><a title="Français (LU)" href="http://www.121doc.lu" class="flg55">Français (LU)</a></span></div>
+<div class="ftr_lnk_cnt">
+
+<div class="FLbot">
+	<dl><dt>Genuine Medication</dt>
+<dd>
+<a href="/yasmin.html">Yasmin</a>
+<a href="/xenical.html">Xenical</a>
+<a href="/microgynon.html">Microgynon</a>
+<a href="/viagra.html">Viagra</a>
+<a href="/ventolin.html">Ventolin</a>
+<a href="/cialis.html">Cialis</a>
+<a href="/azithromycin.html">Azithromycin</a>
+<a href="/metformin.html">Metformin</a>
+</dd></dl>        <dl><dt>Popular Conditions</dt>
+<dd>
+<a href="/influenza.html">Influenza</a>
+<a href="/hair-removal.html">Hair Removal</a>
+<a href="/cystitis.html">Cystitis</a>
+<a href="/high-blood-pressure.html">High Blood Pressure</a>
+<a href="/travel-health.html">Travel Health</a>
+<a href="/haemorrhoids.html">Haemorrhoids</a>
+<a href="/diabetes.html">Diabetes</a>
+<a href="/acne.html">Acne</a>
+</dd></dl>        <dl><dt>121Doc information</dt>
+<dd>
+<a href="/121docinfo.html">About Us</a>
+<a href="/how-we-work.html">How We Work</a>
+<a href="/blog/">Medical Blog</a>
+<a href="http://www.121doc.co.uk/m/privacy.html?view=MobSite">Mobile Site</a>
+<a href="/affiliates.html">Affiliate Program</a>
+<a href="/deliveryinfo.html">Delivery Info</a>
+<a href="/sitemap.html">Sitemap</a>
+</dd></dl>
+    <dl><dt>Additonal information</dt>
+<dd>
+<a href="/return.html">Returns Policy</a>
+<a href="/terms.html">Terms &amp; Conditions</a>
+<a href="/legal-information.html">Legal</a>
+<a href="/privacy.html">Privacy Policy</a>
+<a href="/responsibility.html">Patient Responsibility Agreement</a>
+<a href="/faqs_all.html">FAQs</a>
+<a href="/contactus.html">Contact Us</a>
+</dd></dl>
+	
 	</div>
+
 </div>
-<div class="ftr_lnk_cnt"><style>
-dd{font-size:12px;}
-</style>
-<dl class="cstsrvc">
-        	<dt>Customer Service</dt>
-            <dd>
-				<a href="https://www.121doc.co.uk/contactus.html">Contact Us</a>
-				<a href="/deliveryinfo.html">Delivery Info</a>
-				<a href="/return.html">Returns Policy</a>
-				<a href="/privacy.html">Privacy Policy</a>
-            </dd>
-            <dd>
-            	<a href="/responsibility.html">Patient Responsibility Agreement</a>
-				<a onclick="return hs.htmlExpand (this, {objectType: 'ajax',width:300,height:280});" href="/subscribe_newsletter.php" class="">Subscribe to our Newsletter</a>
-            </dd>
-        </dl>
-<dl class="stinfo">
-    <dt>Website Information</dt>
-    <dd style="margin-left:0;">
-		<a href="/121docinfo.html">About Us</a>
-		<a href="/how-we-work.html">How We Work</a>
-		<a href="/faqs_all.html">FAQs</a>
-		<a href="/blog/">Medical Blog</a>
-        
-    </dd>
-    <dd>
-		
-		<a href="/sitemap.html">Sitemap</a>
-		<a href="/affiliates.html">Affiliate Program</a>
-		<a href="/legal-information.html">Legal</a>
-        <a href="/press-releases/">Press Releases</a>
-		
-	</dd>
-	<dd>
-		
-		<a href="/terms.html">Terms &amp; Conditions</a>
-		<a href="/press-releases/">Company News</a>
-        <a href="http://www.121doc.co.uk/m/privacy.html?view=MobSite">Mobile Site</a>
-        <a href="/cookie.html">Cookies</a>
-	</dd>
-</dl>
-        </div>
+
 <div class="secure_box">
-	<span class="p1"><img style="margin:0 5px" src="/images/other/visa.png" alt="Visa"><img style="margin:0 5px" src="/images/other/master-card.png" alt="MasterCard"><img style="margin:0 5px" src="/images/other/mastro.png" alt="Maestro"><img style="margin:0 5px" src="/images/other/american-exp.jpg" alt="American Express"><img style="margin:0 5px" src="/images/other/bank-transfer-icon.png" alt="Bank Wire Transfer"><img style="margin:0 5px" src="/images/other/postal-order.png" alt="Cheque / Postal Order"> <img src="/images/other/paypoint-securelogo.png" style="margin:0 5px" alt="Payment methods"></span><span class="sl"><a style="margin-right:10px;" target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=121doc.co.uk" rel="nofollow"><img src="//images.scanalert.com/meter/121doc.co.uk/13.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams"></a>
-<!-- GeoTrust True Site [tm] Smart Icon tag. Do not edit. -->
+	<span class="p1">
+		<img style="margin:0 5px" src="/images/other/visa.png" alt="Visa">	<img style="margin:0 5px" src="/images/other/master-card.png" alt="MasterCard">	<img style="margin:0 5px" src="/images/other/mastro.png" alt="Maestro">	<img style="margin:0 5px" src="/images/other/american-exp.jpg" alt="American Express">	<img style="margin:0 5px" src="/images/other/bank-transfer-icon.png" alt="Bank Wire Transfer">	
+	</span><span class="sl">
+	<!-- GeoTrust True Site [tm] Smart Icon tag. Do not edit. -->
 	<script type="text/javascript" src="https://smarticon.geotrust.com/si.js"></script>
-<!-- end GeoTrust Smart Icon tag --></span>
+<!-- end GeoTrust Smart Icon tag -->
+ 
+    
+    <div id="mhra-fmd-placeholder">
+	<a href="http://medicine-seller-register.mhra.gov.uk/search-registry/191" target="_blank">
+	<img src="https://pclportal.mhra.gov.uk/analytics/LogoSancoInternet_UK_B-336.png"></a>
+	</div>
+    </span>
 </div>
-<div class="copy"><a rel="nofollow" href="/copyright-warning.html" style="cursor: pointer;" class="content_link" onclick="return hs.htmlExpand(this, {  objectType: 'ajax',width:450,height:170} )"><img src="/images/copyscape_seal.png" alt="Copyscape" title="Copyscape." style="float:left; padding:6px 0 0 0;"></a>
+<div class="copy"><img src="/images/copyscape_seal.png" alt="Copyscape" title="Copyscape." style="float:left; padding:6px 0 0 0;">
 
 <span style="float:left; padding:0 0 0 14px; margin-left:14px; border-left:1px solid #CCC;"><a href="https://twitter.com/121docuk" target="_blank"><img src="/images/twit-btn.png" alt="Twitter" title=""></a></span>
 
-<span>© <script type="text/javascript">var d = new Date();document.write(d.getFullYear());</script>2020  121doc.co.uk. All rights reserved.</span></div>
+<span style="width:66%; text-align:right; line-height:normal;">Copyright © <script type="text/javascript">var d = new Date();document.write(d.getFullYear());</script>2020 www.121doc.co.uk. Services provided by Hexpress Healthcare Ltd. 144 Mitcham Road, London - SW17 9NH, UK.<br>
+All trademarks and registered marks are the properties of their respective companies.</span></div>
 <script type="text/javascript">
 $(document).ready(function() {
 
