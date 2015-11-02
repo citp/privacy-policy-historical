@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desktopwallpaperhd.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502222221id_/http%3A//www.desktopwallpaperhd.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desktopwallpaperhd.com privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102221129id_/http%3A//www.desktopwallpaperhd.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Free desktop wallpapers, 3d wallpapers, high resolution wallpapers
 
