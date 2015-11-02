@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the backcountryedge.com privacy policy that was archived on 2015-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150401053700id_/http%3A//www.backcountryedge.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backcountryedge.com privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102085841id_/https%3A//www.backcountryedge.com/privacy-policy) for the most accurate reproduction.*
 
-# Backcountry Edge Privacy Policy
+# Privacy Policy
 
 ## Information Collection & Use 
 
