@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the moneypolo.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609064750id_/http%3A//moneypolo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneypolo.com privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102043445id_/http%3A//moneypolo.com/int-en/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | International fast money and cash transfer - MoneyPolo
+# Privacy Policy – International fast money and cash transfer
 
-Faster, more affordable and equally secure, MoneyPolo is the optimal choice for anyone, regardless of income or location. Welcome to the world where you don’t need a bank for financial transfers and services!
+## Privacy Policy
 
 We are committed to safeguarding the privacy of our website visitors. Our Privacy Policy is set out below and explains how we will treat your personal information. Nothing in this Privacy Policy shall limit your statutory rights in relation to your personal data.
 
-By providing personal data to us via our website at [www.moneypolo.com](http://www.moneypolo.com/) (our **“site”** ), you consent to our processing of your data in accordance with this policy, our [Terms of Website Use](https://web.archive.org/terms-of-website-use/) and our [Cookie Policy](https://web.archive.org/cookie-policy/). If you do not agree to the terms set out in these policies, please do not continue to use our site.
+By providing personal data to us via our website at [www.moneypolo.com](http://www.moneypolo.com/) (our **“site”** ), you consent to our processing of your data in accordance with this policy, our [Terms of Website Use](https://web.archive.org/int-en/legal/terms-of-website-use/) and our [Cookie Policy](https://web.archive.org/int-en/legal/cookie-policy/). If you do not agree to the terms set out in these policies, please do not continue to use our site.
 
-Any definitions used in this Privacy Policy shall have the same meanings as provided in our [Terms of Website Use](https://web.archive.org/terms-of-website-use/).
+Any definitions used in this Privacy Policy shall have the same meanings as provided in our [Terms of Website Use](https://web.archive.org/int-en/legal/terms-of-website-use/).
 
 #### 1\. Who will hold your information?
 
@@ -24,9 +24,7 @@ Your information will be held by Mayzus Financial Services Limited, trading as M
     5. 2.1.5 respond to our direct marketing activities;
     6. 2.1.6 correspond with us by post, email or via the “Send Message” and “Send Feedback” forms on our site; or
     7. 2.1.7 report a problem with our site.
-
-If you are a corporate entity, we may also collect your registered name, registered office address, memorandum of association, articles of association, list of current shareholders, list of current directors, annual return, identification and proof of address of beneficial owners, directors and any power of attorney. 
-
+if you are a corporate entity, we may also collect your registered name, registered office address, memorandum of association, articles of association, list of current shareholders, list of current directors, annual return, identification and proof of address of beneficial owners, directors and any power of attorney. 
   2. 2.2 We may collect information about you contained in any documents you provide to us for the purposes of verifying and processing your application for an account with us.
   3. 2.3 We may collect information about your transactions and your activities when you apply for an account with us and carry out a transaction using our services. Such information may include without limitation the identity of the other party to the transaction, their location and the currency and amount of the payment.
   4. 2.4 We may receive information about you from third parties, including but not limited to credit reference agencies and other providers of public information.
@@ -39,7 +37,7 @@ If you are a corporate entity, we may also collect your registered name, registe
   8. 2.8 With regard to each of your visits to our site, we may automatically collect the following: 
     1. 2.8.1 technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform;
     2. 2.8.2 information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our site (including date and time); products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our customer service number.
-  9. 2.9 Our services are not intended for use by those under the age of 18 and we do not knowingly collect personal information from those who are under the age of 18. If you are under the age of 18, please do not apply for an account with us, provide any personal information to our site or use our site in any other way. 
+  9. 2.9 Our services are not intended for use by those under the age of 18 and we do not knowingly collect personal information from those who are under the age of 18. If you are under the age of 18, please do not apply for an account with us, provide any personal information to our site or use our site in any other way.
 
 
 
@@ -60,38 +58,47 @@ If you are a corporate entity, we may also collect your registered name, registe
   5. 3.5 Your information may be used by us for the purpose of research and statistical analysis and internal customer service monitoring.
   6. 3.6 We may disclose information about you to any of our employees, officers, agents, suppliers or sub-contractors insofar as reasonably necessary for the purposes as set out in this Privacy Policy.
   7. 3.7 We may disclose your personal data to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
-  8. 3.8 We may disclose your personal data to third parties if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or if we reasonably believe that disclosure of your personal data to third parties is necessary in order to enforce or apply our [Terms of Website Use](https://web.archive.org/terms-of-website-use/) and other agreements; or to protect our rights, property, or safety or that of our users, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection. 
+  8. 3.8 We may disclose your personal data to third parties if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or if we reasonably believe that disclosure of your personal data to third parties is necessary in order to enforce or apply our [Terms of Website Use](https://web.archive.org/int-en/legal/terms-of-website-use/) and other agreements; or to protect our rights, property, or safety or that of our users, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection. 
   9. 3.9 We are required by statute to make a disclosure to the National Crime Agency where we know or suspect that a transaction involves money laundering or terrorist financing. Where we are required to make a disclosure in relation to one of your transactions, we will not be able to inform you about the disclosure or our reasons for making it. 
   10. 3.10 We may disclose your personal data in the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets and their advisers. If our business is sold your details will be passed onto the new owners of the business.
   11. 3.11 We may employ the services of other parties for dealing with various matters in connection with our site and the services provided on our site. The providers of such services may have access to your personal data.
   12. 3.12 The period of use of the personal data supplied by you will not be longer than we deem necessary, but may be unlimited.
-The data protection legislation gives the customers the right to access the personal data that Mayzus Financial Services has about them. 
 
-Unless there is a particular reason, Mayzus Financial Services approves customer requests regarding disclosure of their information to third parties after checking that the applicant is the person concerned. Additionally, in case of inaccurate information that we know about, we will apply the necessary changes to it.
 
-If you as a customer require information or require information to be disclosed to a third party, Mayzus Financial Services is entitled to charge you a minor fee for any administrative work and costs involved in producing this information.
+
+The data protection legislation gives the customers the right to access the personal data that MoneyPolo has about them.
+
+Unless there is a particular reason, MoneyPolo approves customer requests regarding disclosure of their information to third parties after checking that the applicant is the person concerned. Additionally, in case of inaccurate information that we know about, we will apply the necessary changes to it.
+
+If you as a customer require information or require information to be disclosed to a third party, MoneyPolo is entitled to charge you a minor fee for any administrative work and costs involved in producing this information.
 
 #### 4\. Keeping information up to date and SECURE
 
-      1. 4.1 If any of the information that you have provided to us changes, for example if you change your email address or other contact details, or if you wish to close your account with us, please update your account details on our site or, alternatively, contact us using the contact details below.
-      2. 4.2 Where we have given you (or where you have chosen) a user name and password which enable you to access certain parts of our site, you are responsible for keeping your user name and password confidential. We ask you not to share this information with anyone.
+  1. 4.1 If any of the information that you have provided to us changes, for example if you change your email address or other contact details, or if you wish to close your account with us, please update your account details on our site or, alternatively, contact us using the contact details below.
+  2. 4.2 Where we have given you (or where you have chosen) a user name and password which enable you to access certain parts of our site, you are responsible for keeping your user name and password confidential. We ask you not to share this information with anyone.
+
+
 
 #### 5\. where we store your data
 
-      1. 5.1 All information you provide to us is stored on our secure servers. We have in place a level of security appropriate to the nature of the data and the harm that might result from a breach of security. Unfortunately, the transmission of information via the Internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
-      2. 5.2 The data that we collect from you may be transferred to a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing outside the EEA. We will take all steps reasonably necessary to ensure adequate security for your personal data. 
+  1. 5.1 All information you provide to us is stored on our secure servers. We have in place a level of security appropriate to the nature of the data and the harm that might result from a breach of security. Unfortunately, the transmission of information via the Internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+  2. 5.2 The data that we collect from you may be transferred to a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing outside the EEA. We will take all steps reasonably necessary to ensure adequate security for your personal data. 
+
+
 
 #### 6\. COOKIES
 
-Our website uses cookies to distinguish you from other users of our site. This helps us to provide you with a more personalised experience when you browse our website and also allows us to improve our site. By continuing to browse the site, you are agreeing to our use of cookies. For detailed information on the cookies we use and the purposes for which we use them, see our [Cookie Policy](https://web.archive.org/cookie-policy/).
+Our website uses cookies to distinguish you from other users of our site. This helps us to provide you with a more personalised experience when you browse our website and also allows us to improve our site. By continuing to browse the site, you are agreeing to our use of cookies. For detailed information on the cookies we use and the purposes for which we use them, see our [Cookie Policy](https://web.archive.org/int-en/legal/cookie-policy/).
 
 #### 7\. Your Rights
 
-      1. 7.1 You may have certain rights under the Act in relation to the information that we hold about you. These rights include the rights set out below: 
-        1. 7.1.1 You are entitled to have access to your personal data. You may request by writing to us (at the address given below), details of your information which we hold and the purposes for which it is held. We will provide this information within 40 days of your request, subject to any routine processing continuing between that time and the time of response. You may be charged a reasonable fee (as permitted by the Act) for this information.
-        2. 7.1.2 You are entitled to request that we stop using information about you for the purpose of direct marketing (i.e. the communication to you (by whatever means) of any advertising or marketing material);
-        3. 7.1.3 You are entitled to require us to ensure that no decision taken by or on behalf of us and which significantly affects you is based solely on the automated processing of your information, for the purpose of evaluating such matters as, for example, your creditworthiness, reliability or conduct; and
-        4. 7.1.4 You are entitled to require a correction of errors in the personal information held about you. If we disagree that information is inaccurate you are entitled to apply to ask the court for an order that such erroneous information be rectified, blocked, destroyed, or erased.
+  1. 7.1 You may have certain rights under the Act in relation to the information that we hold about you. These rights include the rights set out below: 
+    1. 7.1.1 You are entitled to have access to your personal data. You may request by writing to us (at the address given below), details of your information which we hold and the purposes for which it is held. We will provide this information within 40 days of your request, subject to any routine processing continuing between that time and the time of response. You may be charged a reasonable fee (as permitted by the Act) for this information.
+    2. 7.1.2 You are entitled to request that we stop using information about you for the purpose of direct marketing (i.e. the communication to you (by whatever means) of any advertising or marketing material);
+    3. 7.1.3 You are entitled to require us to ensure that no decision taken by or on behalf of us and which significantly affects you is based solely on the automated processing of your information, for the purpose of evaluating such matters as, for example, your creditworthiness, reliability or conduct; and
+    4. 7.1.4 You are entitled to require a correction of errors in the personal information held about you. If we disagree that information is inaccurate you are entitled to apply to ask the court for an order that such erroneous information be rectified, blocked, destroyed, or erased.
+
+
 
 #### 8\. THIRD-PARTY WEBSITES
 
@@ -105,18 +112,16 @@ By submitting your information you consent to the use of that information as set
 
 If you would like to contact us with any queries or comments regarding our Privacy Policy, please contact us using the contact details below:
 
-Mayzus Financial Services Limited  
-Office 14  
-500 Chiswick High Rd,  
-London  
-W4 5RG
+Mayzus Financial Services Ltd  
+869 High Road,  
+London N12 8QA, United Kingdom
 
-Tel: +44 (0)20 8956 2251  
-Fax: +44 (0)20 8397 4818
-
-Email: [info@moneypolo.com](mailto:info@moneypolo.com)
-
-Business hours: 9.00 am to 6.00 pm, Monday to Friday
+  
 
 
+ **Tel:** +44 (0) 20 354 21636   
+**Fax:** +44 (0)20 8397 4818 
 
+**Email:** hidden
+
+ **Business hours:** 9.00 am to 6.00 pm, Monday to Friday
