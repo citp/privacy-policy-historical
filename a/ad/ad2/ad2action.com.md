@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ad2action.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408052149id_/http%3A//www.ad2action.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D60%26Itemid%3D126) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ad2action.com privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102015009id_/http%3A//www.ad2action.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D60%26Itemid%3D126) for the most accurate reproduction.*
 
 # Privacy & Spamming Policy
 
