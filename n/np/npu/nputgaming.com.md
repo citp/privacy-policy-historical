@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nputgaming.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504012813id_/http%3A//nputgaming.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nputgaming.com privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102192804id_/http%3A//nputgaming.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NPUT - Video game cheats, reviews, news, wikis
 
@@ -26,4 +26,12 @@ When you do provide us with personal information, we may use that information in
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see:[http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
 
 **Who to Contact  
-**If you have submitted personal information through this website and would like that information deleted from our records, please contact us at the following e-mail address: [info@sibannacmedia.com](mailto:info@sibannacmedia.com) we will use reasonable efforts to delete your information from our existing files.
+**
+
+If you have submitted personal information through this website and would like that information deleted from our records, please contact us at the following e-mail address: solutions@sibannacmedia.com we will use reasonable efforts to delete your information from our existing files. For information about advertising email solutions@sibannacmedia.com. To contact the publisher email publisher@sibannacmedia.com, or call us at 480.420.3171.
+
+NputGaming.com  
+1313 E. Osborn STE 100  
+Phoenix, AZ 85014  
+480.420.3171  
+info@NputGaming.com
