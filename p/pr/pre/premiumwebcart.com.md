@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the premiumwebcart.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607232351id_/http%3A//www.premiumwebcart.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiumwebcart.com privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102055622id_/http%3A//www.premiumwebcart.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Premium Web Cart Inc. - Privacy Policy
 
