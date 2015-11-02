@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cookingjunior.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317062413id_/http%3A//www.cookingjunior.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookingjunior.com privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102063716id_/http%3A//www.cookingjunior.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - online cooking games for girls
 
