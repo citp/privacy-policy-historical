@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ryot.org privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629070911id_/http%3A//www.ryot.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryot.org privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102063839id_/http%3A//www.ryot.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | RYOT News
+# Privacy Policy - RYOT News
 
 **RYOT’S PRIVACY POLICY**
 
@@ -39,14 +39,14 @@ We use third party services such as Google Analytics to help analyze how users u
 
  _Personal Information_
 
-\- We will use your Personal Information to:  
-\- Administer your Account;  
-\- Provide you with Services and customer support;  
-\- Market to you our products and services (and those of third parties) that we believe may interest you;  
-\- Respond to your requests, resolve disputes and/or troubleshoot problems;  
-\- Verify your compliance with your obligations in our Terms of Use or other RYOT policies;  
-\- Improve the quality of the Site and the Services; and  
-\- Communicate with you about the Site and the Services.
+– We will use your Personal Information to:  
+– Administer your Account;  
+– Provide you with Services and customer support;  
+– Market to you our products and services (and those of third parties) that we believe may interest you;  
+– Respond to your requests, resolve disputes and/or troubleshoot problems;  
+– Verify your compliance with your obligations in our Terms of Use or other RYOT policies;  
+– Improve the quality of the Site and the Services; and  
+– Communicate with you about the Site and the Services.
 
 We may also use your Personal Information to create Anonymous Information records by excluding information that makes the information personally identifiable to you.
 
@@ -60,12 +60,12 @@ Generally, we use Anonymous Information in statistical analysis to help us analy
 
  _Personal Information_
 
-\- We may disclose certain Personal Information:  
-\- To third party vendors who help us provide the Services or the Site;  
-\- To third parties to whom you ask us to send Personal Information;  
-\- To a parent company, any subsidiaries, joint ventures, or other companies under a common control (collectively, “Affiliates”), in the event we have such Affiliates in the future, in which case we will require our Affiliates to honor this Privacy Policy;  
-\- In connection with or during negotiation of any merger, financing, acquisition or dissolution, transaction or proceeding involving sale, transfer, divestiture, or disclosure of all or a portion of our business or assets. In the event of an insolvency, bankruptcy, or receivership, Personal Information may also be transferred as a business asset. If another company acquires our company, business, or assets, that company will possess the Personal Information collected by us and will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy; or  
-\- If we believe in good faith that such disclosure is necessary to (a) resolve disputes, investigate problems, or enforce our Terms of Use; (b) comply with relevant laws or to respond to requests from law enforcement or other government officials relating to investigations or alleged illegal activity, in which case we can (and you authorize us to) disclose Personal Information without subpoenas or warrants served on us; or (c) protect and defend our rights or property or the rights and property of you or third parties.
+– We may disclose certain Personal Information:  
+– To third party vendors who help us provide the Services or the Site;  
+– To third parties to whom you ask us to send Personal Information;  
+– To a parent company, any subsidiaries, joint ventures, or other companies under a common control (collectively, “Affiliates”), in the event we have such Affiliates in the future, in which case we will require our Affiliates to honor this Privacy Policy;  
+– In connection with or during negotiation of any merger, financing, acquisition or dissolution, transaction or proceeding involving sale, transfer, divestiture, or disclosure of all or a portion of our business or assets. In the event of an insolvency, bankruptcy, or receivership, Personal Information may also be transferred as a business asset. If another company acquires our company, business, or assets, that company will possess the Personal Information collected by us and will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy; or  
+– If we believe in good faith that such disclosure is necessary to (a) resolve disputes, investigate problems, or enforce our Terms of Use; (b) comply with relevant laws or to respond to requests from law enforcement or other government officials relating to investigations or alleged illegal activity, in which case we can (and you authorize us to) disclose Personal Information without subpoenas or warrants served on us; or (c) protect and defend our rights or property or the rights and property of you or third parties.
 
 We provide functionality operated by third-parties that enables a number of public forums on the Site. Please remember that you are welcome to share as much Personal Information as you think is necessary and appropriate, but that any Personal Information and content of posts you make that appear on our Site will be made available to our third party service provider, as well as generally on our Site.
 
