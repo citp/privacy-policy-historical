@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safetyissues.com privacy policy that was archived on 2015-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150221083642id_/http%3A//thesafetychannel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safetyissues.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103004534id_/http%3A//thesafetychannel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Safety Channel
 
