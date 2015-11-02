@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telanganaroundup.net privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511163553id_/http%3A//www.telanganaroundup.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telanganaroundup.net privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102031138id_/http%3A//www.telanganaroundup.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Telangana Roundup
 
@@ -69,3 +69,6 @@ If you have any questions about this Privacy Policy, the practices of this site,
 Telangana Roundup http://www.telanganaroundup.blogspot.in/p/contact-us.html
 
 This document was last updated on July 04, 2014
+
+  
+
