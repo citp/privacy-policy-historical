@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filipinamagic.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408234405id_/http%3A//filipinamagic.com/exec/privacy-policy.jsp%3Fnats%3DMDowOjEz) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filipinamagic.com privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102022030id_/http%3A//www.filipinamagic.com/exec/privacy-policy.jsp%3Fnats%3DMDowOjEz) for the most accurate reproduction.*
 
 # Filipinamagic. The hottest Asian Cam Models and Live sex
 
