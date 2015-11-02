@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezwingame.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315012733id_/http%3A//www.ezwingame.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezwingame.com privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102174542id_/http%3A//www.ezwingame.com/privacy) for the most accurate reproduction.*
 
 # Win Free, Win Big, Free Prizes, Free Giveaway Contests
 
