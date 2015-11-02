@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insanelycheapflights.com privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601202040id_/http%3A//insanelycheapflights.com/travel/ICF/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insanelycheapflights.com privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102172918id_/http%3A//www.insanelycheapflights.com/travel/ICF/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -59,7 +59,7 @@ If you receive browser warnings when going from secure mode pages to non-SSL pag
 
 We follow accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. We urge you to take every precaution to protect you personal data when you are on the Internet. Change your passwords often, use a combination of letters and numbers, and make sure you use a secure browser.
 
-If you have any questions about security on our Site, you can send us an email or contact us [feedback@insanelycheapflights.com](mailto:feedback@insanelycheapflights.com) (845) 848 0411 
+If you have any questions about security on our Site, you can send us an email or contact us [feedback@insanelycheapflights.com](mailto:feedback@insanelycheapflights.com) (888) 525 7551 
 
 Government And Legal 
 
@@ -91,4 +91,4 @@ DBA of WK Travel, Inc.
 1050 East Flamingo Road, Suite S-302  
 Las Vegas, NV 89119  
 [feedback@insanelycheapflights.com](mailto:feedback@insanelycheapflights.com)  
-(845) 848 0411
+(888) 525 7551
