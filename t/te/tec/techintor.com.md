@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techintor.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628162914id_/http%3A//www.techintor.com/p/at-techintor.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techintor.com privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102024526id_/http%3A//www.techintor.com/p/at-techintor.html) for the most accurate reproduction.*
 
-# Privacy Policy|3G Tricks June 2015 , Free Recharge and Calling Tricks,PAYTM Coupons,Offers and Tricks
+# Privacy Policy|3G Tricks November 2015 , Free Recharge and Calling Tricks, Loot Tricks
 
 At **techintor.blogspot.com**  the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by Techintor and how it is used.  
 **Log Files**  
@@ -11,7 +11,6 @@ techintor does use cookies to store information about visitors preferences, rec
 * * *
 
 _FOLLOW US ON FACEBOOK_  
-And Get Latest Techintor.com Updates On Your Facebook Wall  
 
 
 * * *
