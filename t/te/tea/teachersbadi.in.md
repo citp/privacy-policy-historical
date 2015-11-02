@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teachersbadi.in privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616164442id_/http%3A//www.teachersbadi.in/p/this-privacy-policy-governs-manner-in.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachersbadi.in privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103002941id_/http%3A//www.teachersbadi.in/p/this-privacy-policy-governs-manner-in.html) for the most accurate reproduction.*
 
-# Privacy Policy | TeachersBadi DEECET 2015 AP TS PRC 2015
+# Privacy Policy | TeachersBadi TS AP DEECET 2015 Rank Cards
 
 **_TeachersBadi.in Website Privacy Policy_**
 
