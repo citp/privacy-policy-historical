@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hdxnxx.net privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502043624id_/http%3A//www.hdxnxx.net/page/hdxnxx_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdxnxx.net privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102055351id_/http%3A//www.hdxnxx.net/page/hdxnxx_privacy) for the most accurate reproduction.*
 
 # Privacy Policy - HD XNXX Videos
 
-## Privacy Policy | HD XNXX Porn Videos and Watch Free Porn Movies
+##  Privacy Policy
 
 #### PRIVACY POLICY
 
