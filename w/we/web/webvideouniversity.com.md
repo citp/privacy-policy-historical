@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webvideouniversity.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423142658id_/http%3A//webvideouniversity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webvideouniversity.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103005709id_/http%3A//webvideouniversity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Web Video University - Learn How To Make Videos That Make You Money
 
