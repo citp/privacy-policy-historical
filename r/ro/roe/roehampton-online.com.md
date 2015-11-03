@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the roehampton-online.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408093850id_/http%3A//www.roehampton-online.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roehampton-online.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103112307id_/http%3A//www.roehampton-online.com/privacy-policy) for the most accurate reproduction.*
 
 # Statement of Privacy
 
-View our Privacy Policy below or read our complete [Terms & Conditions](https://web.archive.org/~/media/Files/UOR/Diverse_pdfs/Roehampton_Terms_and_Conditions_2013.pdf).
+View our Privacy Policy below or read our complete [Terms & Conditions](https://web.archive.org/privacy-policy/terms-and-conditions).
 
-For additional information on our academic policies, please review our [Academic Policies](https://web.archive.org/~/media/Files/UOR/Diverse_pdfs/Roehampton_Academic_Policies_2013.pdf).
+For information about how to use our student portal, please read University of Roehampton, London [Online Student Portal Terms of Use](https://web.archive.org/privacy-policy/terms-of-use).
+
+For additional information on our academic policies, please review our [Centre for Student Success](http://success.roehampton-online.com/home).
 
 Laureate Online Education presents this Statement of Privacy to you in order to demonstrate its firm commitment to privacy. The following information discloses Laureate Online Education’s data collection, maintaining, processing and transfer practices with relation to this website [www.roehampton-online.com](http://www.roehampton-online.com/).
 
@@ -24,7 +26,7 @@ For these purposes, you further expressly permit Laureate Online Education to tr
 
 ## Personal information modification
 
-You are hereby informed that you have a right to access and correct any of your personal data held by Laureate Online Education at any time, by contacting Laureate Online Education at  Haarlerbergpark River Building, 2nd Floor Haarlerbergweg 13-23, 1101 CH Amsterdam Z.O., The Netherlands or at [support@roehampton-online.com](mailto:support@roehampton-online.com).
+You are hereby informed that you have a right to access and correct any of your personal data held by Laureate Online Education at any time, by contacting Laureate Online Education at  Haarlerbergpark River Building, 2nd Floor Haarlerbergweg 13-23, 1101 CH Amsterdam Z.O., The Netherlands or at [enquiry@roehampton-online.com](mailto:enquiry@roehampton-online.com).
 
 ## Security of personal information
 
@@ -38,7 +40,7 @@ This Statement of Privacy is governed by the laws of the Netherlands, without ef
 
 Laureate Online Education may provide you with links to other sites. Please be aware that Laureate Online Education is not responsible for the privacy practices of these sites. Laureate Online Education does not endorse them or make any representations about them or any information, services, products or materials found on them. If you decide to access any of the third party sites through links, we strongly encourage you to read their privacy statements.
 
-If you did not find what you were looking for read our complete [Terms & Conditions](https://web.archive.org/~/media/Files/UOR/Diverse_pdfs/Roehampton_Terms_and_Conditions_2013.pdf) or contact us.
+If you did not find what you were looking for read our complete [Terms & Conditions](https://web.archive.org/privacy-policy/terms-and-conditions) or contact us.
 
 ## Cookies
 
