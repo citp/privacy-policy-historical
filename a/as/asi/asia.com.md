@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the asia.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629110332id_/http%3A//www.asia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asia.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103053233id_/http%3A//www.asia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Asia Journeys to the world of asia.com. Flights, Hotels, Travel Guide and Travel Tips.
 
-World Media Group provides this privacy policy because we value your right to privacy. This policy is effective as of November 10, 2007 and governs the collection of personal information through this website on or after this date.
+World Media Group provides this privacy policy because we .Great product and good special price. [Cheap viagra with fast delivery](http://www.asia.com/journeys/shop/ciprofloxacin-for-prostate-infection/), each and every of the products available through our website has been produced using the best base materials. value your right to privacy. This policy is effective as of [accutane](http://www.schubincafe.com/2015/09/11/accutane/ "accutane") November 10, 2007 and governs the collection of personal information through this website on or after this date.
 
-This policy describes the types of information we may collect from visitors and how that information is used. Please read this policy carefully before providing us with any personal information. If you have questions about this policy, contact us.
+This policy describes the types of information we [finasteride proscar](http://www.asia.com/journeys/shop/finasteride-proscar/ "finasteride proscar") may collect from visitors and how that information is used. Please read this policy carefully before providing us with any personal information. If you have questions about [metformin without a perscription](http://www.asia.com/journeys/shop/metformin-without-a-perscription/ "metformin without a perscription") this policy, contact us.
 
 Information we collect.
 
@@ -12,7 +12,7 @@ Unregistered users
 
 You can register at some of our sites to take advantage of personalization features or to purchase travel services.
 
-If you do not register, then the information we collect from you is limited. We log your IP address in order to help diagnose problems with our server, administer our Web site and track usage statistics. Your IP address may vary each time you visit, or it may be the same. It would be extremely difficult for us to identify you through your IP address, and we make no attempt to do so. If you reached our site by clicking on a link or advertisement on another site, we may log that information. All of this information is collected and used only in the aggregate.
+If you do not register, then the information we collect from you is limited. We [prescription clomid](http://www.asia.com/journeys/shop/prescription-clomid/ "prescription clomid") log your IP address in order to help diagnose problems with our server, administer our Web site and track usage statistics. Your IP address may vary each time you visit, or it may be the same. It would be extremely difficult for us to identify you through your IP address, and we make no attempt to do so. If you reached our site by clicking on a link or advertisement on another [neurontin official website](http://www.asia.com/journeys/shop/neurontin-official-website/ "neurontin official website") site, we may log that information. All of this levitra pills information is collected and used only in the aggregate.
 
 We may place a small “cookie” file on your computer’s hard drive. A cookie may contain information that allows us to track your path through our Web site and to determine whether you have visited us before. Unless you register with us or purchase from us, the cookie contains no personally identifiable information. We may use cookies to help us understand how visitors use our site, and to help us to improve our site. You may elect not to accept cookies by changing settings in your browser.
 
