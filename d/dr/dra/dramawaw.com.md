@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dramawaw.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506035011id_/http%3A//dramawaw.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dramawaw.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103171717id_/http%3A//dramawaw.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | DramaWaw
-
-[ ](http://dramawaw.com/privacy-policy "Privacy Policy")
+# Privacy Policy - DramaWaw
 
 Your privacy is important to us. We assure you that your personal information is safe with us. Information we receive and collect upon your visit will only be used responsibly for reference purposes only.
 
