@@ -1,19 +1,50 @@
-> *The following text is extracted and transformed from the indoanime.tv privacy policy that was archived on 2014-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141114192935id_/http%3A//animeusb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indoanime.tv privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103044202id_/http%3A//indoanime.tv/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | AnimeUSB.COM
+# Privacy Policy - indoAnime
 
-Introduction 
+This privacy policy sets out how The indo Anime uses and protects any information that you give knowingly or unknowingly to The indo Anime  when you use this website. The indo Anime is committed to your privacy, any information collected is neither sold nor freely given to third parties except where stated in this privacy policy.  
+The indo Anime  may, from time to time, change this privacy policy.
 
-AnimeUSB Me is committed to protecting your privacy to allow for a safe and secure experience. This privacy policy outlines how information is collected and used. As our content and services constantly evolve we may modify this policy from time to time. 
+As a guest of this website, you should check this page to see if any changes were made. The changes were last made on June 21st, 2015 – Father’s Day.
 
-Information Collection 
+Information We Directly Collect
 
-We may collect information from you in order for you to use our services. This can include, but is not limited to your name, email address, and Internet Protocol address. Aside from your name or chosen nickname, other information will not be publicly available to others. We do not promote nor send spam thus we will not redistribute your information to any third parties. 
+*         Optional  
+**       Optional, however IP Information may give this detail away on it’s own.  
+***     Required, User can avoid giving this information by not signing up for the website.  
+****   Automatically Obtained, Can’t be opted out of.
 
-We may collect cookies from your computer depending on your preferences. Cookies are plain text files that are stored on your computer generally used to serve to your convenience for future visits. This can prevent repeatedly performing tasks such as typing in your name or email address each time by saving this information for future use. You can stop accepting cookies by configuring the settings in your browser, however, you may not be able to fully use the website features. 
+Via the Forum
 
-In addition, third party advertisements may also set and/or read cookies on your computer to collect information about users who view or interact with their advertisements. The general use of this information is for the purpose of reporting website traffic, statistics, advertisement click-throughs, and other activities on the website by using cookies, web beacons, and other monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is collected by or transferred to any party other than the Advertiser. The actions of such parties and how they use such information is subject to the particular third party’s privacy policy. 
+Time Zone Details**  
+Birthday*  
+AIM Account*  
+MSN Account*  
+ICQ Account*  
+Yahoo Account*  
+Jabber Account*  
+Skype Account*  
+Personal Website URL*  
+Gender*  
+Location**  
+Interests*  
+E-mail***  
+IP****
 
-Obligation to Children’s Privacy 
+Via the website  
+E-mail***  
+IP****
 
-We never collect or maintain information from those who we actually know are under 13 years of age. Such information will be deleted if we become aware that a child under 13 has provided us with personal information. How to Contact Us Should you have any questions or concerns regarding our privacy policies, please use the contact form provided on the website to bring to our attention your concern.
+IP Address information is automatically obtained anytime the user connects to the website, this cannot be prevented. User profiles can, on request, be deleted. We may require additional validation when a user wishes to delete their profile which will delete all other information that we collect, excluding IP Addresses and information that can be extrapolated from that IP Address.
+
+Requests to delete an account can be e-mailed to admin@indoanime.tv or requested via a message posted on the forums.
+
+Information that is collected by third parties.
+
+The indo Anime uses a chat service called “Chatango”. Their policy is located at this link.  
+The indo Anime uses an analytical service called “Google Analytics”, The Google privacy policy is located at this link.  
+The indo Anime utilizes advertising services from AdsOptimal, CPMStar, EvolveNation and PlaywireMedia. Click on the name of the advertising service to be directed to their privacy policy.  
+The indo Anime utilizes a video player known as JW Player that has analytical services. The video player’s privacy policy is located at this link.  
+The indo Anime uses a DNS and DDoS Protection service known as Cloudflare. Here is it’s privacy policy.  
+The indo Anime uses a sharing service called AddThis which allows you to share The indo Anime with your friends at the click of a button. Here is it’s privacy policy.  
+The indo Anime uses facebook. The embedded widget may indirectly collect information about your activities. Here is the facebook privacy policy.
