@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the rockettube.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314234322id_/http%3A//www.rockettube.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockettube.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103171257id_/http%3A//www.rockettube.com/privacy.php) for the most accurate reproduction.*
 
-# RocketTube.com Terms of Use and Privacy Policy
+# RocketTube - Privacy Policy Statement
+
+PRIVACY
 
 Your Personal Information is Safe We support the rights of adults to explore entertainment and sexuality on the Internet in a private and secure environment. As a visitor of RocketTube.com, you will have peace-of-mind knowing that any information you share privately with us will be kept strictly confidential. This includes, but is not limited to, your name, e-mail address, address, phone number, or personal information regarding the use of this site. If information is collected from you, the information will only be used to provide the products and services you've requested, to provide customer service, or to share news about our service offerings.
 
