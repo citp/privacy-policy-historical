@@ -1,51 +1,75 @@
-> *The following text is extracted and transformed from the driverheaven.net privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607022504id_/http%3A//www.driverheaven.net/showthread.php%3Fs%3D%26threadid%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driverheaven.net privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103171212id_/http%3A//www.hardwareheaven.com/privacy-policy) for the most accurate reproduction.*
 
-# DriverHeaven.net - Driverheaven Forum Rules
+# Privacy Policy - HardwareHeaven.comHardwareHeaven.com
 
-**Driverheaven Forum Rules**
+This privacy policy sets out how hardwareheaven.com uses and protects any information that you give hardwareheaven.com when you use this website. hardwareheaven.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. hardwareheaven.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
-CONDUCT RULES  
-Welcome to the DriverHeaven forum, I hope you will enjoy posting here and debating with some good friendly likeminded people, as in any community we need some sort of conduct guidance which will be enforced by our moderators/staff.
+### What we collect
 
-* One account per person only. if you have more than one account or know someone who has more than one -- contact me via email at [zardon@driverheaven.net](mailto:zardon@driverheaven.net) to have additional accounts removed.  
-* Forum members will obey the requests and judgments of moderators, adminstrators/staff and will respond in a polite and respectful manner.  
-* no cursing in the thread subject lines.  
-* No racial, sexual, homophobic, or any other slur targeting a minority will be tolerated. This behavior is grounds for banning.   
-* Spamming is not permitted and repeat offenses will be grounds for banning.  
-* No warez and porn allowed on any level on Driverheaven forum. No linking to offensive gore/shock related images/sites, we have young members on our forum. Warez- This also includes the posting of keys and/or activation codes for products. Posting of pictures or links/URLs, websites depicting genetilia|pornography is strictly forbidden, repeat offenses are grounds for banning. No child pornography tolerated and IPs will be reported to authorities.   
-* Offensive posts should be reported via the "report this post" option.  
-* As this is a driver related forum, no direct copying of other peoples work/code will be allowed.  
-* signatures must not exceed 10 lines or 5 lines with a maximum 400x100 pixel image, this is to ensure the forum text is easy to read.  
-* no advertising/site promotion in public forum thread on Driverheaven without permission from Zardon, this is against site policy.  
-* ALL artwork, DH logo, clan name(s) and all related content are copyright and may not be used in any form of medium (including print, web or others) without express permission of Allan "Zardon" Campbell, the site owner.
+We may collect the following information:
 
-STAFF MEMBERS AND REPORTING PROBLEMS  
-DriverHeaven strives to be a friendly and safe place for everyone, and a great part of the responsibility for such rests on the shoulders of various staff members. If there is a technical issue with the forum itself, post in the feedback forum and the Administrators will see it and take care of it in there, but don't PM the Administrators unnecessarily. They are generally tied with other site and server related issues, and it is the rest of the staff's job to handle problems without unnecessarily burdening the Administrators.
+  * name
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
-If you have a problem, or see a problem, especially one involving an infraction of the rules posted in this thread you should report this by clicking the link in the lower right hand corner of every post. This will notify all of the Moderators assigned to a particular forum of the post in question. If you prefer, you can PM any of the Moderators for the forum section that the questionable post is in. If you want to see which Moderators are in what forum section, you can refer to [this page](http://www.driverheaven.net/showgroups.php?s=). Should there be no Moderators for that particular section, or if its a problem spanning multiple sections, or something else altogether, report the post anyway, and PM one of the Super Moderators, who are listed on [this page](http://www.driverheaven.net/showgroups.php?s=). Should you have a problem with the way a certain matter was handled by a Moderator or a Super Moderator, or have a complaint of any sort about any staff member, contact the Site Manager, Veridian3. He also handles moderation problems; so don't be surprised if he takes care of a particular issue.
 
-Above all, please keep in mind that it’s the moderator team's job to keep Driverheaven a friendly and safe place for everyone, and we truly appreciate it when members help us through reporting problematic posts or other board members. Thank you for your cooperation.
 
-SITE PRIVACY STATEMENT  
-Driverheaven has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website.   
-We recognize the importance of protecting the privacy of you as a user of this Website. This Website does not collect Personal Information about you except for information that you voluntarily provide (for example, when you submit an email to us with comments about our web site or products reviewed on the web site and you do not specifically indicate that the information contained within is to be considered confidential or provide answers to a voluntary readership survey.)   
-We consider the following to be Personal Information: your name, address, phone number, date of birth, job, personal interests, credit card information, your e-mail address and data about the pages you visited on this Website, this information is confidential and will not be made available to any 3rd parties...   
-We use your IP address to help diagnose problems with our server, and to administer our Web site. We use cookies to deliver preferred content and to save your password so you don't have to re-enter it each time you visit our forum.   
-This site contains links to other sites. Driverheaven is not responsible for the privacy practices or the content of such Web sites.
+### What we do with the information we gather
 
-PUBLIC FORUMS  
-This site makes IRC, Java Chat, and forums available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-SECURITY  
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
 
-CONTACTING DRIVERHEAVEN  
-We have included for your convenience on the board a "contact us" link which will email the administrators of Driverheaven ensuring that at least one of the top line management will receive your email. As the owner of Driverheaven I am also available via [zardon@driverheaven.net](mailto:zardon@driverheaven.net) for questions about the privacy statement, the practices of this site, or your dealings with this Web site. I am also available to discuss advertising rates.
 
-__________________  
-  
-Visit [The Land of Dalacon](http://www.zardon.net/) // [Donate](http://www.driverheaven.net/display.php?page=donate)   
-All things are either sacred or profane. The former to ecclesiasts bring gain; The latter to the devil appertain.  
-[try our new forum style - MidnightHeaven](http://www.driverheaven.net/showthread.php?s=&threadid=47384)
 
-[Report this post to a moderator](https://web.archive.org/web/20040607022504id_/http%3A//www.driverheaven.net/report.php?s=f58f60e1a81d3ef806135666a2cf0dea&postid=8) | IP: [Logged](https://web.archive.org/web/20040607022504id_/http%3A//www.driverheaven.net/postings.php?s=f58f60e1a81d3ef806135666a2cf0dea&action=getip&postid=8)
+### Security
+
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+### How we use cookies
+
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+### Links to other websites
+
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+### Controlling your personal information
+
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [info@hardwareheaven.com](mail:info@hardwareheaven.com)
+
+
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to .
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+
+### Cookies
+
+Cookie Name| Cookie Category| Description| Duration  
+---|---|---|---  
+wordpress_| 2| WordPress cookie for a logged in user.| session  
+wordpress_logged_in_| 2| WordPress cookie for a logged in user| session  
+wordpress_test_| 2| WordPress cookie for a logged in user| session  
+wordpress_test_cookie| 2| WordPress test cookie| session  
+wp-settings-| 1| Wordpress also sets a few wp-settings-[UID] cookies. The number on the end is your individual user ID from the users database table. This is used to customize your view of admin interface, and possibly also the main site interface. | 1 year  
+wp-settings-time-| 2| Wordpress also sets a few wp-settings-{time}-[UID] cookies. The number on the end is your individual user ID from the users database table. This is used to customize your view of admin interface, and possibly also the main site interface. | 1 year  
+PHPSESSID| 1| To identify your unique session on the website| session  
+SESS| 1| To ensure that you are recognised when you move from page to page within the site and that any information you have entered is remembered.| session  
+__utma| 2| This cookie keeps track of the number of times a visitor has been to the site pertaining to the cookie, when their first visit was, and when their last visit occurred. Google Analytics uses the information from this cookie to calculate things like Days and Visits to purchase.| permanent  
+__utmb| 2| __utmb is a Google Analytics cookie. It takes a timestamp of the exact moment in time when a visitor enters a site.| session  
+__utmc| 2| __utmc takes a timestamp of the exact moment in time when a visitor leaves a site.| 30 mins  
+__utmz| 2| Keeps track of where the visitor came from, what search engine you used, what link you clicked on, what keyword you used, and where they were in the world when you accessed a website. This cookie is how Google Analytics knows to whom and to what source / medium / keyword to assign the credit for a Goal Conversion or an Ecommerce Transaction. | 6 months
