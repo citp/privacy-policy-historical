@@ -1,9 +1,13 @@
-> *The following text is extracted and transformed from the graphicleftovers.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315021206id_/http%3A//graphicleftovers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphicleftovers.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103143040id_/http%3A//graphicleftovers.com/privacy-policy) for the most accurate reproduction.*
 
 # Resources · GL Stock Images
 
+## Privacy Policy
+
 Your privacy is very important to us. GL Stock Images ("Administrator") adheres to the following privacy policy   
 regarding its collection, use and dissemination of personal and non-personal information collected through its website ("Site").
+
+* * *
 
 ### Collection of Non-Personal Information
 
@@ -37,4 +41,6 @@ The Site may contain links to third party sites. Since the Administrator does no
 
 ### Security
 
-Access to your information is limited to the Administrator's employees and our service providers who we believe have a justified business reason to access your information. All information is protected through password access and only to identified corporate users.
+Access to your information is limited to the Administrator's employees and our service providers who we believe have a justified business reason to access your information. All information is protected through password access and only to identified corporate users.  
+  
+---|---|---
