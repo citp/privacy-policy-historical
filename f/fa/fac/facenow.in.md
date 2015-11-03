@@ -1,15 +1,16 @@
-> *The following text is extracted and transformed from the facenow.in privacy policy that was archived on 2014-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140923115713id_/http%3A//www.facenow.in/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facenow.in privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103180903id_/http%3A//www.facenow.in/info/privacy.php) for the most accurate reproduction.*
 
-# FACENOW | Privacy Policy
+# Privacy | FACENOW - Online Test Series
+
+## **Privacy Policy**
 
 We value the trust you place in us. That's why we insist upon the highest standards for secure transactions and customer information privacy. Please read the following statement to learn about our information gathering and dissemination practices.
 
-Note :  
-Our privacy policy is subject to change at any time without notice. To make sure you are aware of any changes, please review this policy periodically.
+**Note :**
 
-By visiting this Website you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or access our Website.
-
-By mere use of the Website, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the Terms of Use.
+  * Our privacy policy is subject to change at any time without notice. To make sure you are aware of any changes, please review this policy periodically.
+  * By visiting this Website you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or access our Website.
+  * By mere use of the Website, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the Terms of Use.
 
   
 
