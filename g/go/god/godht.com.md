@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the godht.com privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409072122id_/http%3A//www.godht.com/siteinfo/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godht.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103212741id_/http%3A//www.godht.com/siteinfo/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | GoDHT
 
