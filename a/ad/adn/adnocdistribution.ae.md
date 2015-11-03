@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adnocdistribution.ae privacy policy that was archived on 2015-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150331034851id_/http%3A//adnocdistribution.ae/en/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adnocdistribution.ae privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103052422id_/http%3A//adnocdistribution.ae/en/footer/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | - ADNOC Distribution
+# Privacy policy | - - ADNOC Distribution
 
 **  
 Privacy statement**  
