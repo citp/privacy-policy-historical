@@ -1,7 +1,18 @@
-<!--The following is the downloaded HTML source of the farmigo.com privacy policy that was archived on 2015-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150610083630id_/http%3A//www.farmigo.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the farmigo.com privacy policy that was archived on 2015-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151103235618id_/http%3A//www.farmigo.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="farmigo-com" style=""><head>
+<!DOCTYPE html><html class="farmigo-com"><head><script type="text/javascript" async="" id="inspsync" src="https://cdn.inspectlet.com/inspectlet.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MR23K8"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+    window.functionsToRun = [];
+    window.runAfter = function(callback) {
+        if (window.requireFinished) {
+            callback();
+        } else {
+            window.functionsToRun.push(callback);
+        }
+    }
+</script>
+
+
     
 
 
@@ -12,29 +23,32 @@
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 
 <link type="image/x-icon" rel="shortcut icon" href="/site/common/images/favicon.png">
-<link type="text/css" rel="stylesheet" href="/site/common/css/all.css?2015-06-04-1005">
-<link href="/site/common/css/MyFontsWebfontsKit.css" type="text/css" rel="stylesheet"> 
+<link href="/site/common/css/MyFontsWebfontsKit.css" type="text/css" rel="stylesheet">
 
-<!-- Library scripts -->
-<script type="text/javascript" async="" id="inspsync" src="https://cdn.inspectlet.com/inspectlet.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MR23K8"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/site/common/js/lib/jquery-1.8.3.min.js"></script>
-<script src="/site/common/js/lib/jquery.watermark.min.js?v=3.1.4"></script>
-<script src="/site/common/js/lib/jquery.cookie.js"></script>
+
 <script src="/site/common/js/lib/log4javascript_production.js?v=1.4.3"></script>
-<script src="/site/common/js/lib/underscore-min.js?v=1.4.3"></script>
-<script src="/site/common/js/lib/backbone-min.js?v=0.9.9"></script>
-<script src="/site/common/js/lib/Modernizr.js?v=csstransforms-csstransforms3d-canvas-input"></script>
 <script src="/site/common/js/lib/fastclick.js"></script>
-<!--[if lte IE 8]><script src="/site/common/js/lib/json2.js"></script><![endif]-->
 
 
 
 
-    <meta name="viewport" content="width=993">
+    <link type="text/css" rel="stylesheet" href="/site/farmigo.com/css/main.css?2015-11-03-1928">
 
+
+
+
+
+
+
+
+    <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, width=device-width">
+
+
+<meta name="description" content="Ditch the Supermarket. Buy the best food ever from local farmers and producers you’ll love.">
 
 <!-- Facebook open graph meta tags -->
-<meta property="og:title" content="Get better, local food with friends.">
-<meta property="og:description" content="I'm organizing a local food community!  Join us to buy real food from local farms and    local artisans. First-time orders get $10 off using coupon code '10off20'.">
+<meta property="og:title" content="20% off, amazingly fresh food!">
+<meta property="og:description" content="I love Farmigo! Incredible food, direct from local farms &amp; producers. Use my code LOCAL20 for 20% off your first order.">
 <meta property="og:image" content="https://www.farmigo.com/site/common/images/fb-share.jpg">
 
 <script src="/site/common/js/namespace/namespace.js"></script>
@@ -59,9 +73,6 @@
 	Farmigo.common.data.farmKey =  null ;
 	Farmigo.common.data.supportEmail = 'help@farmigo.com';
 	Farmigo.common.data.loginUrl = 'https://www.farmigo.com/login';
-	Farmigo.common.data.shareUrl = 'http://www.farmigo.com/';
-	Farmigo.common.data.shareEmailSubject = 'New way to get fresh, locally grown food - Check it out!';
-	Farmigo.common.data.shareEmailBody = 'Hey!%0A%0AJust wanted to share Farmigo with you - a new way to get a great selection of fresh food, delivered from nearby farms every week.%0AI thought you might like this program too.%0AYou can find out more about how it works here: http://www.farmigo.com/%0A%0ACheers.';
 	Farmigo.common.useragent = {
 		ie9: false,
 		ie8: false,
@@ -94,18 +105,17 @@
 
 
 
-
 <script>
-$( function() {
+(function() {
 
-	Farmigo.enums = {"EnumSigninStatus":{"Ok":"Ok","Unauthorized":"Unauthorized","WrongEmail":"WrongEmail","WrongPassword":"WrongPassword","ChangePassword":"ChangePassword","EmailSendFailed":"EmailSendFailed","OkExistingForFarm":"OkExistingForFarm"},"SubscriptionStatus":{"NoSubscription":"NoSubscription","SubscriptionExists":"SubscriptionExists","ProcessingSubscription":"ProcessingSubscription","HoldSubscription":"HoldSubscription","SubscriptionCanceled":"SubscriptionCanceled","SplitSubscriptionMember":"SplitSubscriptionMember","WaitListSubscription":"WaitListSubscription"},"StatusCode":{"OK":"OK","FAILURE":"FAILURE","TIMEOUT":"TIMEOUT","EXHAUSTED":"EXHAUSTED"},"EnumAction":{"ThankYou":"ThankYou","LeadExists":"LeadExists","StartApply":"StartApply","OK":"OK","Failed":"Failed"},"ContactInfoType":{"BUY":"BUY","SELL":"SELL","START":"START","CAMPAIGN_START":"CAMPAIGN_START","DOMORE":"DOMORE","SETUP":"SETUP","CELEBRATE":"CELEBRATE","DEMO":"DEMO","CONTACT_US":"CONTACT_US","NOTIFY_ME":"NOTIFY_ME"},"EnumRegion":{"NY":"NY","SF":"SF"},"FlowStatus":{"Partial":"Partial","Submitted":"Submitted","MemberWithSubscription":"MemberWithSubscription"}};
+	Farmigo.enums = {"EnumSigninStatus":{"Ok":"Ok","Unauthorized":"Unauthorized","WrongEmail":"WrongEmail","WrongPassword":"WrongPassword","ChangePassword":"ChangePassword","EmailSendFailed":"EmailSendFailed","OkExistingForFarm":"OkExistingForFarm"},"SubscriptionStatus":{"NoSubscription":"NoSubscription","SubscriptionExists":"SubscriptionExists","ProcessingSubscription":"ProcessingSubscription","HoldSubscription":"HoldSubscription","SubscriptionCanceled":"SubscriptionCanceled","SplitSubscriptionMember":"SplitSubscriptionMember","WaitListSubscription":"WaitListSubscription"},"StatusCode":{"OK":"OK","FAILURE":"FAILURE","TIMEOUT":"TIMEOUT","EXHAUSTED":"EXHAUSTED"},"EnumAction":{"ThankYou":"ThankYou","LeadExists":"LeadExists","StartApply":"StartApply","OK":"OK","Failed":"Failed"},"EnumRegion":{"NY":"NY","SF":"SF","SEA":"SEA"},"FlowStatus":{"Partial":"Partial","Submitted":"Submitted","MemberWithSubscription":"MemberWithSubscription"}};
 
 	Farmigo.enums.JsonStatus = {
 		OK : 'OK',
 		FAILED : 'Failed'
 	};
 
-});
+})();
 </script>
 
 
@@ -114,41 +124,15 @@ $( function() {
 <script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyAfANpgkDJZ9xA6_PeUIy0PhJbC75OMruc&amp;sensor=false"></script>
 
 
-<script src="/site/common/js/i18n/Locale_en.js?2015-06-04-1005"></script><script src="/site/farmigo.com/js/Home-bundle.js?2015-06-04-1005"></script>
-<link type="text/css" rel="stylesheet" href="/site/farmigo.com/css/Home-bundle.css?2015-06-04-1005">
 
-<!-- Make old IE versions to support HTML5 elements (see also all.less) -->
-<!--[if lt IE 9]>
-<script>
-document.createElement('header');
-document.createElement('nav');
-document.createElement('section');
-document.createElement('article');
-document.createElement('aside');
-document.createElement('footer');
-</script>
-<![endif]-->
+
+    <script src="/site/farmigo.com/build.js?2015-11-03-1928"></script>
+
 
 <script>
-	$(function () {
-
-		// load jquery ui libs
-		Farmigo.common.loader.defferedJsLoad("/site/common/js/lib/jquery-ui-1.9.2.min.js", "jquery_ui");
-		Farmigo.common.loader.runWith("jquery_ui", null, function() {
-			Farmigo.common.loader.defferedJsLoad("/site/common/js/lib/ui/jquery.ui.selectmenu.js", "jquery_ui_selectmenu");
-			Farmigo.common.loader.defferedJsLoad("/site/common/js/lib/ui/jquery.ui.spinner.js", "jquery_ui_spinner");
-		});
-
-		// init user menu
-		Farmigo.common.view.components.userMenu = new Farmigo.common.view.components.UserMenu({
-			model: Farmigo.common.model.MemberData
-		});
-
 		
-
-        new FastClick(document.body);
-	});
 </script>
+
 <!-- Google Analytics -->
 <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -183,7 +167,7 @@ for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElemen
     else
         mixpanel.init("e560df27bfe6f87fde28c4307b30b940");
 
-    $(function () {
+    window.runAfter(function () {
 
         var MemberData = (((Farmigo || {}).common ||{}).model||{}).MemberData;
         if (MemberData){
@@ -238,24 +222,30 @@ for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElemen
 	// Create regions object to be used when client needs Region dependent information (map page, organizer page)
 	Farmigo.common.data.regions = {};
 	
+		Farmigo.common.data.regions['SEA'] = {
+			farmKey: 'ahVzfmZhcm1pZ28tY29tbXVuaXRpZXNyEQsSBEZhcm0YgICAkPLDgAkM'
+		};
+	
 		Farmigo.common.data.regions['NY'] = {
-			farmKey: 'ahBzfmZhcm1pZ28tY3NhLWhycg0LEgRGYXJtGP_7yQkM'
+			farmKey: 'ahVzfmZhcm1pZ28tY29tbXVuaXRpZXNyEQsSBEZhcm0YgICAwPP3tQsM'
 		};
 	
 		Farmigo.common.data.regions['SF'] = {
-			farmKey: 'ahBzfmZhcm1pZ28tY3NhLWhycg0LEgRGYXJtGPWbqwkM'
+			farmKey: 'ahVzfmZhcm1pZ28tY29tbXVuaXRpZXNyEQsSBEZhcm0YgICAwOnmlAoM'
 		};
 	
 
 </script>
     <script>
-        // ga for main pages
-        var ga = Farmigo.common.analytics.Common;
-        ga.handleHomeAnalytics(
-			
-				ga.Flow.PRIVACY
-			
-		);
+        window.runAfter(function() {
+            // ga for main pages
+            var ga = Farmigo.common.analytics.Common;
+            ga.handleHomeAnalytics(
+                
+                    ga.Flow.PRIVACY
+                
+            );
+        });
     </script>
     <title>Privacy | Farmigo</title>
 
@@ -278,30 +268,27 @@ for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElemen
 })(window,document,'script','dataLayer','GTM-MR23K8');</script>
 <!-- End Google Tag Manager -->
 
-
 <script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
 
 <body id="page-privacy" class="not-mobile desktop ">
-
     
-<!-- header -->
-
-	
-		
-
+        
 
 
 
 
 <div id="page"><!-- To be closed at the footer, for sticky footer -->
 	<div id="header-box">
-		<header id="header" class="sticky">
-			<div class="header-content centered">
+		<header id="header">
+			<div class="header-content centered group">
 				<a id="logo" href="/"></a>
 
-				<div class="default-content">
-					
-					    
+                
+
+                
+                
+
+                
 
 
 
@@ -314,9 +301,7 @@ for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElemen
 
 
 
-
-
-<ul id="user-menu" class="dropdown-menu">
+<ul id="user-menu" class="dropdown-menu ">
 	
 	<li id="login" class="menu menu-box">
 		<a href="https://www.farmigo.com/login?loginSource=Home">Log In</a>
@@ -337,72 +322,24 @@ for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElemen
 	</li>
 </ul>
 
-					
 
-					<nav><ul id="nav">
-                        <li>
-                            <a href="/about">About</a>
-                        </li>
-                        <li>
-                            <a href="http://help.farmigo.com" target="_blank">Help</a>
-                        </li>
-					</ul></nav>
-				</div>
-				<div class="organizer-wizard-content" style="display: none;">
-					Build My Community Marketplace
-				</div>
+                <nav>
+                    <ul id="nav">
+                        
+                            <li>
+                                <a id="about" href="/about">About</a>
+                            </li>
+                            <li>
+                                <a id="help" href="http://help.farmigo.com" target="_blank">Help</a>
+                            </li>
+                        
+                    </ul>
+                </nav>
 			</div>
 		</header>
 	</div>
 
-	
-	
-
-
-
-
-
-
-<section><div id="contact-us" style="display:none;">
-	<div class="content">
-		<form>
-			<div id="default-content">
-				<h1>Contact Us</h1>
-				<fieldset>
-					<legend>Contact Us form</legend>
-			
-					<div class="form-field">
-						<input type="text" id="email" autocorrect="off" mandatory="" form-type="email" error="Please enter a valid email" title="Email">
-					</div>
-			
-					<div class="form-field">
-						<input type="text" id="name" form-type="name" error="Please enter a valid name" title="Name (Optional)">
-					</div>
-			
-					<div class="form-field">
-						<input type="text" id="phone" form-type="phone" error="Please enter a valid phone number" title="Phone (Optional)">
-					</div>
-					
-					<div class="form-field">
-						<textarea id="description" mandatory="" error="Please enter description" title="Description"></textarea>
-					</div>
-			        <div class="buttons" style="height: 60px;">
-					    <button id="submit-button" class="big">Submit</button>
-					    <button id="cancel-button" class="big light" type="reset">Cancel</button>
-                    </div>
-				</fieldset>
-				<div id="error-message-box">
-					<span class="ex-mark-image"></span><span id="error-message-container"></span>
-				</div>
-			</div>
-			<div id="thank-you-content">
-				<img src="/site/farmigo.com/images/thank-you.png" alt="Thank You">
-				<h3>Someone from the Farmigo team will contact you soon</h3>
-				
-			</div>
-		</form>
-	</div>
-</div></section>
+    
     
 
 
@@ -453,8 +390,7 @@ for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElemen
         </div>
 
 
-
-<div id="privacy-terms" class="single-section">
+    <div id="privacy-terms" class="single-section">
 	<div class="centered">
 		<h1>
 			Privacy Policy
@@ -785,9 +721,8 @@ for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElemen
 	</div>
 </div>
 
-
-<!-- marketplace common footer -->
-
+    
+        <!-- marketplace common footer -->
 
 
 
@@ -795,7 +730,7 @@ for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElemen
 
 
 <script>
-	$(function() {
+	window.runAfter(function() {
 		var ga = Farmigo.common.analytics.Common;
 		var footerLinkTags = [ga.Flow.ABOUT, ga.Flow.CSA_SOFTWARE, ga.Flow.JOBS, ga.Flow.PRODUCER_STANDARDS, ga.Flow.PRIVACY, ga.Flow.TERMS];
 
@@ -809,6 +744,7 @@ for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElemen
 		}
 	});
 </script>
+    <div id="push-footer"></div>
 </div><!-- closes the #page div that starts at the header-->
 <footer><div id="footer">
 	<div class="bg-box">
@@ -833,8 +769,10 @@ for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElemen
 			<div class="follow-us">
 				Follow us on
 				<ul>
-					<li><a id="farmigo-facebook" class="facebook" title="Facebook" target="_blank" href="http://www.facebook.com/Farmigo"></a></li>
-					<li><a id="farmigo-twitter" class="twitter" title="Twitter" target="_blank" href="http://twitter.com/#!/farmigo"></a></li>
+					<li><a class="facebook" title="Facebook" target="_blank" href="http://www.facebook.com/Farmigo"></a></li>
+                    <li><a class="twitter" title="Twitter" target="_blank" href="http://twitter.com/#!/farmigo"></a></li>
+                    <li class="first-in-row"><a class="instagram" title="Instagram" target="_blank" href="https://instagram.com/farmigo/"></a></li>
+                    <li><a class="pinterest" title="Pinterest" target="_blank" href="https://www.pinterest.com/farmigo/"></a></li>
 				</ul>
 			</div>
 			<a class="b-corp" href="http://www.bcorporation.net/about" title="B Corp" target="_blank"></a>
@@ -843,9 +781,9 @@ for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElemen
 </div></footer>
 
 
+    
 
-
-
+    
 
 <div id="fb-root"></div>
 
