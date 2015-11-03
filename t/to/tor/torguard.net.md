@@ -1,20 +1,31 @@
-> *The following text is extracted and transformed from the torguard.net privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626025631id_/https%3A//torguard.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torguard.net privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103223117id_/http%3A//torguard.net/privacy.php) for the most accurate reproduction.*
 
-# TorGuard -
+# Privacy Policy | TorGuard
 
-## TorGuard's Privacy Policy
+## **Privacy Policy**
 
 In an effort to protect our clients' and site visitors privacy and rights, TorGuard has established a Privacy Policy which explains what information we gather on visitors and what we do with information that we gather.
 
 This Privacy Policy governs the manner in which TorGuard collects, uses, maintains and discloses information collected from users of this Web site (each, a "User").
 
+  
+
+
 ## Privacy
 
 Users' privacy is very important to TorGuard. We are committed to safeguarding the information Users entrust to TorGuard.
 
+  
+
+
 ## The Information We Collect
 
+TorGuard.net does not store or log any traffic or usage from its Virtual Private Network (VPN) or Proxy.
+
 TorGuard collects personally identifiable information from Users through online forms for ordering products and services. We may also collect information about how Users use our Web site, for example, by tracking the number of unique views received by the pages of the Web site or the domains from which Users originate. We use "cookies" to track how Users use our Web site. 
+
+  
+
 
 ## How We Use Information
 
