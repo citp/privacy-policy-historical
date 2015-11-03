@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the global-view.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617181535id_/http%3A//www.global-view.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the global-view.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103073906id_/http%3A//www.global-view.com/policy.html) for the most accurate reproduction.*
 
 # Forex Trading - Global-View.com Privacy Policy Statement For The Currency Trader
 
