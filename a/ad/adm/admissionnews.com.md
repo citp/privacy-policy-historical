@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the admissionnews.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502225930id_/http%3A//www.admissionnews.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admissionnews.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103180947id_/http%3A//www.admissionnews.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy:::Admissionnews.com
 
