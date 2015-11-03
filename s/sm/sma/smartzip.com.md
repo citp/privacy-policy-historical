@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smartzip.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506124341id_/http%3A//www.smartzip.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartzip.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103154824id_/http%3A//smartzip.com/privacy) for the most accurate reproduction.*
 
-# Predictive Marketing for Real Estate - SmartZip
+# Predictive Marketing for Real Estate | SmartZip
 
 ## Privacy Policy
 
@@ -8,7 +8,7 @@ _Last Updated on September 9, 2013_
 
  **Our Commitment to Privacy**
 
-We take your privacy seriously. Because we gather certain types of information about our users, we want to help you understand the terms and conditions surrounding the collection and use of that information. This privacy statement discloses the types of information we gather, how we use it, and how to correct or change it. These privacy practices apply to the Website located at www.smartzip.com and related SmartZip websites, pages, Facebook applications, and/or mobile applications (collectively, the "Site") that you were viewing when you clicked through to this policy, which is operated directly by us, by our partner, or by our affiliate.
+We take your privacy seriously. Because we gather certain types of information about our users, we want to help you understand the terms and conditions surrounding the collection and use of that information. This privacy statement discloses the types of information we gather, how we use it, and how to correct or change it. These privacy practices apply to the Website located at [www.smartzip.com](http://www.smartzip.com/) and related SmartZip websites, pages, Facebook applications, and/or mobile applications (collectively, the "Site") that you were viewing when you clicked through to this policy, which is operated directly by us, by our partner, or by our affiliate.
 
 The Site has been established as a resource for users to educate themselves about real estate investing, search for real estate investment properties across the United States, utilize tools to score, rate and/or rank properties, register to utilize additional tools and to receive email notifications and/or newsletters, and submit information to be distributed to third-party realtors across the country.
 
@@ -135,4 +135,4 @@ If you believe that SmartZip has not adhered to this Privacy Policy, please cont
 
  **Questions & Comments**
 
-Questions regarding this privacy statement or any other aspects of our Site should be sent to our corporate offices at 6210 Stoneridge Mall Road, Suite 100, Pleasanton, CA 94588, Attention: Legal Department. We read every message submitted and try to reply promptly. We may also file your comments to improve the Site, or review and discard the information.
+Questions regarding this privacy statement or any other aspects of our Site should be sent to our corporate offices at 4450 Rosewood Dr, Ste. 300, Pleasanton, CA 94588, Attention: Legal Department. We read every message submitted and try to reply promptly. We may also file your comments to improve the Site, or review and discard the information.
