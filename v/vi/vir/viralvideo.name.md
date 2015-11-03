@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viralvideo.name privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214235id_/http%3A//www.viralvideo.name/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralvideo.name privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103210812id_/http%3A//www.viralvideo.name/policy.php) for the most accurate reproduction.*
 
 # ViralVideo.name - You Name it, We Viralize it!!
 
