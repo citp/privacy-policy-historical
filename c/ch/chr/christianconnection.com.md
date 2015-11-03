@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christianconnection.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408155200id_/http%3A//www.christianconnection.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianconnection.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103171339id_/http%3A//www.christianconnection.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Christian Connection
 
@@ -10,9 +10,9 @@ You must not use the Website if you do not accept this Privacy Policy and/or the
 
 ##  1\. Data Protection
 
-We are registered with the Office of the Data Protection Registrar who regulates how We store and use information about you. To view our registration information, please visit the DPR Website on [www.dataprotection.gov.uk](http://www.dataprotection.gov.uk/). If you feel that We are in any way not conforming with the provisions of our registration, please contact us.
+We are registered with the Information Commissioner’s Office who regulates how We store and use information about you. To view our registration information, please visit the [Information Commissioner’s Office website](https://ico.org.uk/). If you feel that We are in any way not conforming with the provisions of our registration, please contact us.
 
-In addition, you have rights under the Data Protection Act 1998. For an overview of your rights under this Act, please see the Office of the Data Protection Registrar Website - [www.dataprotection.gov.uk](http://www.dataprotection.gov.uk/).
+In addition, you have rights under the Data Protection Act 1998. For an overview of your rights under this Act, please see [the data protection section on the GOV.UK website](https://www.gov.uk/data-protection/the-data-protection-act).
 
 ##  2\. The Information We Collect
 
