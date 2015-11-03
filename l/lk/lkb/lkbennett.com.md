@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lkbennett.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426180643id_/http%3A//www.lkbennett.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lkbennett.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103101530id_/http%3A//www.lkbennett.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LKBennett-UK
 
@@ -12,7 +12,7 @@ You can visit the Website without disclosing any personally identifiable informa
 
 We will collect, use, store or otherwise process any personal information that relates to and identifies you, including but not limited to your name, postal address, email address and any other information collected on registration with the Website and through surveys, to the extent reasonably necessary to provide the services that are available to you through our Website. We may send you, by post or email, information about our Website or other services or products, including those of carefully selected third parties which we think may be of interest to you – brochures, leaflets and catalogues displaying our products and services – and tell you of promotional offers or conduct market research.
 
-If you do not wish to receive this information please send an email to [customerservices@lkbennett.com](mailto:customerservices@lkbennett.com), call us on +44 (0)20 7637 6731 or write to us at the following address: Customer Services, L.K.Bennett, 3 Cavendish Square, London W1G 0LB. After you have registered your email address, you can also visit your account details and change your communication preferences, amend your personal preferences and opt out of receiving direct marketing material. You can also unsubscribe from further emails by using the unsubscribe facility on any promotional emails that we send you.
+If you do not wish to receive this information please send an email to [customerservices@lkbennett.com](mailto:customerservices@lkbennett.com), call us on +44 (0)20 7033 8333 or write to us at the following address: Customer Services, L.K.Bennett, Rivington House, 82 Great Eastern, London, EC2A 3JF. After you have registered your email address, you can also visit your account details and change your communication preferences, amend your personal preferences and opt out of receiving direct marketing material. You can also unsubscribe from further emails by using the unsubscribe facility on any promotional emails that we send you.
 
 ## The information we collect and how we use it
 
@@ -24,7 +24,7 @@ If you do not wish to receive this information please send an email to [customer
 
 
 
-We only hold your personal information for the purposes stated above and only for as long as necessary for these purposes. We will not hold excessive personal data. If you stop using the Website we may continue to use and disclose your personal information in accordance with this Privacy Policy (as amended from time to time) unless you ask us not to. You can request that we stop using your personal information by writing to L.K.Bennett, 3 Cavendish Square, London, W1G 0LB or emailing us on [customerservices@lkbennett.com](mailto:customerservices@lkbennett.com).
+We only hold your personal information for the purposes stated above and only for as long as necessary for these purposes. We will not hold excessive personal data. If you stop using the Website we may continue to use and disclose your personal information in accordance with this Privacy Policy (as amended from time to time) unless you ask us not to. You can request that we stop using your personal information by writing to L.K.Bennett, Rivington House, 82 Great Eastern, London, EC2A 3JF or emailing us on [customerservices@lkbennett.com](mailto:customerservices@lkbennett.com).
 
 ## Information Security
 
@@ -64,4 +64,4 @@ We are not responsible for the privacy policies and practices (including use of 
 
 ## Further information
 
-For further information from us on data protection and privacy or any requests concerning your personal information please write to L.K.Bennett, 3 Cavendish Square, London, W1G 0LB or email us on [customerservices@lkbennett.com](mailto:customerservices@lkbennett.com). You can request a copy of the details we hold about you. A statutory fee of £10 may be payable.
+For further information from us on data protection and privacy or any requests concerning your personal information please write to L.K.Bennett, Rivington House, 82 Great Eastern, London, EC2A 3JF or email us on [customerservices@lkbennett.com](mailto:customerservices@lkbennett.com). You can request a copy of the details we hold about you. A statutory fee of £10 may be payable.
