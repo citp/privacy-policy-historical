@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the deskdecode.com privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505090037id_/http%3A//www.deskdecode.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deskdecode.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103232532id_/http%3A//www.deskdecode.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - DESKDECODE.COM
+# Privacy policy | DESKDECODE.COM
 
 This privacy policy has been created to serve better for those who are concerned with how their personal information is being used by our website. At deskdecode.com we are very serious about our privacy policies. Any information provided by you including name, email address, website etc. will never be provide to anyone outside deskdecode.com
 
