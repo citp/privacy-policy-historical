@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kitchendreaming.com privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505162518id_/http%3A//kitchendreaming.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kitchendreaming.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103175240id_/http%3A//kitchendreaming.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Kitchen Dreaming
+# Privacy Policy | Kitchen Dreaming
 
 This privacy policy sets out how Kitchen Dreaming uses and protects any information that you give while using www.KitchenDreaming.com  Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
