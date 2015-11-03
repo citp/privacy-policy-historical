@@ -1,62 +1,23 @@
-> *The following text is extracted and transformed from the webpagetopdf.com privacy policy that was archived on 2015-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150223074005id_/http%3A//webpagetopdf.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webpagetopdf.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103044139id_/http%3A//webpagetopdf.com/policy) for the most accurate reproduction.*
 
-# Free Convert Webpage to PDF | Url to PDF | Website to PDF | Privacy Policy - Webpagetopdf.com
+# Privacy Policy
 
-|  | 
+WebpageToPDF.com understands the importance of privacy and is committed to protecting the privacy of your personal information. This Privacy Policy explains how WebpageToPDF.com collects and uses your personal information. 
 
-**What information do we collect?**
+**WHAT PERSONAL INFORMATION DO WE COLLECT?**
 
-We collect information from you when you fill out a form. 
+WebpageToPDF.com collects non-personally identifiable information when you visit our website (WebpageToPDF.com). This data includes your IP address, the IP address and URL of the Website that sent you to the WebpageToPDF.com main page, browser cookie and browser type. This data is automatically recorded in our server logs and is used to manage the website, track usage and improve the WebpageToPDF.com website and services. 
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or phone number. You may, however, visit our site anonymously.
+When you use WebpageToPDF.com services, all submitted information, uploaded data and result of usage will be stored on the web server for a maximum of 1 hour exclusively for your convenience. 
 
- **What do we use your information for?**
+We will not sell, rent or otherwise distribute your personal information to third parties. 
 
-Any of the information we collect from you may be used in one of the following ways: 
+**HOW DO WE USE COOKIES?**
 
-; To personalize your experience  
-(your information helps us to better respond to your individual needs)
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/index.asp).
 
-; To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+Google is one of the third-pary advertising companies used to serve ads on our site. Google's use of the DART cookie enables it to serve ads to users based on their visits to this site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
-; To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+**LINKS TO OTHER SITES**
 
-; To send periodic emails
-
-The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
-
- **How do we protect your information?**
-
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. 
-
-**Do we use cookies?**
-
-We do not use cookies.
-
- **Do we disclose any information to outside parties?**
-
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
-
- **Third party links**
-
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
- **Terms and Conditions**
-
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.webpagepdf.com/terms.php>
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page. 
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below. 
-
-http://www.webpagepdf.com/  
-webpagepdf@gmail.com
-
-|   
----|---|---
+We may provide links to other websites and products. If you choose to visit a third party website or use its products or services, please be aware that the third party's privacy policy, not this Privacy Policy, will be in effect. Please review the privacy policies of these sites in order to understand their privacy policies and data collection practices. WebpageToPDF.com is not responsible for the privacy or security practices or the content of these websites. 
