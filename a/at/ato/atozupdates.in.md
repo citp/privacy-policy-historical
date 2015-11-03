@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the atozupdates.in privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610133642id_/http%3A//atozupdates.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atozupdates.in privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103071803id_/http%3A//atozupdates.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - AtozUpdates - AtozUpdates
+# Privacy Policy - India News Today - AtoZ Updates
 
 This Privacy Policy governs the manner in which atozupdates collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://atozupdates.in](http://atozupdates.in/) website (“Site”). This privacy policy applies to the Site and all products and services offered by atozupdates.
 
