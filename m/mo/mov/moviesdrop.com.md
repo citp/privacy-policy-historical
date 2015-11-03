@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moviesdrop.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429093325id_/http%3A//slashsquare.org/network/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviesdrop.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103215625id_/http%3A//slashsquare.org/network/privacy-policy) for the most accurate reproduction.*
 
 # Slashsquare Network - Privacy Policy
 
