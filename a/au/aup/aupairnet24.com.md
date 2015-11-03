@@ -1,24 +1,12 @@
-> *The following text is extracted and transformed from the aupairnet24.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514022012id_/http%3A//www.aupairnet24.com/en/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aupairnet24.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103031515id_/http%3A//www.aupairnet24.com/en/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Guaranteed security and anonymity**  
-Aupairnet24 takes data protection seriously and we are committed to ensuring that your information on Aupairnet24.com is secure.
-
-We at Aupairnet24 make every effort to ensure the data you entrust us with is protected against unauthorized access: In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. We use technical protection measures such as SSL encryption and cascading firewalls to guarantee maximum data security. Account and credit card details are processed via an encrypted Secure Socket Layer (SSL). 
-
-**No forwarding of information**  
-The data that you entrust to Aupairnet24 is safely stored. We will not sell, exchange or otherwise use your personal information in an unauthorised manner. Your data will not be passed to other companies or organisations without your permission. By providing us with your data and using our services you are agreeing to this Privacy Policy and the rules described therein.   
-**  
-**
-
-  
 **1\. Safety and Security**  
 We are committed to the protection and security of your data. We undertake to only collect, use, disclose and store any personal information in accordance with the UK Data Protection Act of 1998 and the terms of this Privacy Policy.   
 **  
-2\. Collection of necessary data**
-
-To provide Aupairnet24.com as a service we need to collect, use, disclose and store personal information about our users. Personal information in this context means any information that can be used to specifically identify you as an individual. When joining Aupairnet24 the following information will be requested of you as a member: surname, first name, address details such as street, city and postcode, phone number, gender, email address and date of birth.
+2\. Collection of necessary data  
+** To provide Aupairnet24.com as a service we need to collect, use, disclose and store personal information about our users. Personal information in this context means any information that can be used to specifically identify you as an individual. When joining Aupairnet24 the following information will be requested of you as a member: surname, first name, address details such as street, city and postcode, phone number, gender, email address and date of birth.
 
 When you visit Aupairnet24 we collect information you've shared with us and information about your use of the site (including for example, your IP address, browser type and time of entry and exit). This information may be used, if required, for providing newsletters, recommendation pages and reviews of service providers.
 
@@ -26,8 +14,21 @@ By using our service, you understand that all profile data that you choose to ma
 
 You will be asked for your explicit consent prior to your data being used for any purpose that requires it. You may withdraw your consent at any time, and exempt future use of your personal data. 
 
-**3\. Additional data use**  
-Personal data will not be passed on to third parties unless this is required to execute the service requested. In such cases, you will have either previously provided us with your consent to do so, or the data transfer is subject to relevant statutory provisions that make it necessary. For fee-based services, any required data will be securely passed to the respective selected payment provider (PayPal, Adyen). 
+**3\. Additional data use
+
+3.1 The use of Facebook Social Plugins
+
+**The Aupairnet24 website uses social plugins of the facebook.com (or “Facebook”) social network, which is run by Facebook Inc., 1601 S California Ave, Palo Alto, CA 94304 USA. The plugins are marked with a Facebook logo or the words “Facebook social plugin”. When you access a page on our website that contains such a plugin, a direct connection with Facebook will be created via your browser. The content of the plugin will be directly transferred to your browser by Facebook and the content will be connected to the browser via the plugin. Facebook obtains the information that you have accessed the respective page of our website through the plugin connection. 
+
+If you are logged in to Facebook, then Facebook is able to associate your visit with your Facebook account. When you interact with the plugin, by clicking on a “Like” button for example, your browser will send the information in question to Facebook. Facebook saves this information. For the purpose and scope of the data collection and the further processing and use of the data by Facebook as well as the rights associated with this and the setting options to protect your privacy please refer to Facebook's privacy policies. If you would not like Facebook to collect information about you via our website, we advise you not to click the Facebook button, we also recommend that you log out of Facebook before visiting our website. The use of 
+
+**3.2 Google+ Social Plugins  
+** The Aupairnet24 website uses social plugins (“plugins”) of the plus.google.com social network, which is run by Google Inc. (“Google”), 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. The plugins are marked with a Google logo, the Google +1 logo or with the words “Google Social Plugin”. When you access a page on our website that contains such a plugin, your browser will create a direct connection with Google's servers. The content of the plugin will be directly transferred to your browser by Google and the content will be connected to the browser via the plugin. Google obtains the information that you have accessed the respective page of our website through the plugin connection. 
+
+If you are logged in to Google, then Google is able to associate your visit with your Google account. When you interact with the plugins, for example when you click on the “+1” button or leave a comment, the information in question will be directly transferred to Google and saved there. For the purpose and scope of the data collection and the further processing and use of the data by Google as well as the rights associated with this and the setting options to protect your privacy please refer to Google's privacy policies. If you would not like Google to collect information about you via our website, you will need to log out of Google before visiting our website. 
+
+**3.3  
+** Personal data will not be passed on to third parties unless this is required to execute the service requested. In such cases, you will have either previously provided us with your consent to do so, or the data transfer is subject to relevant statutory provisions that make it necessary. For fee-based services, any required data will be securely passed to the respective selected payment provider (PayPal, Adyen). 
 
 **4\. User profiles**  
 For the purposes of promotion, market research and improving our services we may publish aggregates of user profile data. Such data will be anonymised and not matched to individual profiles. Your data will only be included for such purposes when you have not made use of your legal right to exempt your personal data from this use.   
@@ -37,7 +38,7 @@ Some of our services require the use of cookies. We use cookies to optimise and 
 
 We use mostly session cookies that are not stored on your hard disk and are deleted when you exit your browser. Session cookies are used primarily for login authentication and load balancing. We also use cookies to track access to Aupairnet24.com from external advertising spaces (ZANOX AG, Netslaves GmbH, Affilinet GmbH, Belboon GmbH). These cookies do not contain personal information about you and and are generally deleted after you log into Aupairnet24.com.co.uk - otherwise, they are automatically deleted after no more than 180 days.
 
-We also use cookies from our partners to track advertisements. These unique cookies are set to track information such as how often an ad has been viewed and this information is forwarded to advertisers. The information sent is anonymised and contains no personal data.
+We also use cookies from our partners to track advertisements. These unique cookies are set to track information such as how often an ad has been viewed and this information is forwarded to advertisers. The information sent is anonymised and contains no personal data.Aupairnet24 uses different marketing strategies to inform the users about our services. In this regard we use, inter alia, search engine marketing campaigns, affiliate campaigns and remarketing campaigns. In order to control and optimize the performance of these campaigns cookies and other tracking technologies are used. In particular, remarketing enables the interest based advertising at partner networks for the users who have already demonstrated their interest in our services. The advertising materials are displayed on the basis of cookie-based analysis of users' behavior.
 
 We use "permanent cookies" to track click streams and to automatically determine whether you have, for example, already voted in a poll, responded to an advertising campaign or viewed a message so that we can avoid unneccessarily repeating information you see.
 
@@ -50,11 +51,11 @@ You have the right to correct, add or delete the recording of your personal data
 On our sites we occasionally refer to or link to cooperation partners, who themselves offer websites and web-based services. These sites will usually also have their own privacy statements. These privacy policies are not authored by us and we assume no liability for them. Please ensure that you are familiar with the applicable privacy policy before entering any personal information on a third party site.   
 **  
 8\. Information about stored data**  
-You are entitled at any time to request a copy of the personal data held by us about you. Information requests must be submitted in writing and accompanied by a copy of your passport to verify your identity. We reserve the right to apply a small administration charge to meet our costs in providing the information to you. Please submit any requests to Aupairnet24.com, Besser Betreut GmbH, Rotherstrasse 9, 10245 Berlin, Germany. 
+You are entitled at any time to request a copy of the personal data held by us about you. Information requests must be submitted in writing and accompanied by a copy of your passport to verify your identity. We reserve the right to apply a small administration charge to meet our costs in providing the information to you. Please submit any requests to Aupairnet24.com, Care.com Europe GmbH, Rotherstrasse 9, 10245 Berlin, Germany. 
 
   
 **Dated: March 2011
 
-Aupairnet24.com | Besser Betreut GmbH | Berlin | Germany | Managing Directors: Steffen Zoller, Manuel Nothelfer 
+Aupairnet24.com | Care.com Europe GmbH | Berlin | Germany | Managing Director: Steffen Zoller
 
 **
