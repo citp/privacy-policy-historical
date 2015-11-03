@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davidco.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315065714id_/http%3A//gettingthingsdone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidco.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103032723id_/http%3A//gettingthingsdone.com/privacy-policy) for the most accurate reproduction.*
 
 # Getting Things Done® | Privacy Policy
 
