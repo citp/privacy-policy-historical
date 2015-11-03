@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dexknows.com privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530054944id_/http%3A//www.dexknows.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dexknows.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103140145id_/http%3A//www.dexknows.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
