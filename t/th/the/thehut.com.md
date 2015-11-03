@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehut.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619001053id_/http%3A//www.thehut.com/privacy-policy.info) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehut.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103060902id_/http%3A//www.thehut.com/articles/privacy-policy.list) for the most accurate reproduction.*
 
 # Privacy Policy | TheHut.com
 
@@ -24,7 +24,7 @@ This website employs industry-standard SSL to provide secure credit card transac
 
 It is important for you to protect against unauthorised access to your password and to your computer. Ensure that you log out when you finish using a shared computer.
 
-In addition to the company's safeguards, your personal data is protected in the UK by the Data Protection Act (the "Act"). The Act requires us, as registered Data Controllers, amongst other things to ensure that the data we hold about you should be processed lawfully and fairly. It should be accurate, relevant and not excessive. The information should, where necessary, be kept up to date and not retained for longer than is necessary. It should be kept securely to prevent unauthorised access by other people.
+In addition to the company's safeguards, your personal data is protected in the UK by the Data Protection Act (the 'Act'). The Act requires us, as registered Data Controllers, amongst other things to ensure that the data we hold about you should be processed lawfully and fairly. It should be accurate, relevant and not excessive. The information should, where necessary, be kept up to date and not retained for longer than is necessary. It should be kept securely to prevent unauthorised access by other people.
 
 We take the risk of internet fraud very seriously. With the volume of fraudulent credit card transactions increasing, we make every effort to ensure all orders are thoroughly checked using the information already supplied. There is a possibility we may contact you to make additional security checks and we ask for your co-operation to enable us to complete them. Fraudulent transactions will not be tolerated by us and such transactions will be reported to the relevant authorities.
 
