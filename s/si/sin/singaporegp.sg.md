@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the singaporegp.sg privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628232351id_/http%3A//singaporegp.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singaporegp.sg privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103185059id_/http%3A//www.singaporegp.sg/privacy-policy) for the most accurate reproduction.*
 
 # Singapore F1 - 2015 Formula 1 Night Race - Privacy Policy - Singapore Grand Prix
 
-[](http://singaporegp.sg/)
+[](http://www.singaporegp.sg/)
 
 ### Introduction
 
