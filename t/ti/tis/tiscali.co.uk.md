@@ -1,56 +1,324 @@
-> *The following text is extracted and transformed from the tiscali.co.uk privacy policy that was archived on 2007-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071028082932id_/http%3A//www.tiscali.co.uk/aboutus/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiscali.co.uk privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103040340id_/http%3A//www.talktalk.co.uk/legal/privacy-policy) for the most accurate reproduction.*
 
-# Tiscali - Privacy Policy
+# Code of practice - privacy policy
 
-**TISCALI PRIVACY POLICY**
+The aim of this policy is to provide you with information about:
 
-We are committed to protecting your right to privacy. Any information you provide to us will be held on computers that are based in the UK. We collect information about our users in order to help continually improve the Tiscali Internet Access and Portal Services. We also use the information you provide us to enter into commercial arrangements, including the sale of advertising space, which allow the Tiscali Portal Service to remain free for all our users. We will always adhere to the Data Protection Act 1998 (UK) in relation to our use of your information and any other applicable data protection laws. This Privacy Policy relates only to our use of the information you provide us and your use of the Tiscali Portal and does not extend to your use of the Internet other than the Tiscali Portal. 
+  * What information we collect from you and why;
+  * How we use this information; and 
+  * How you can access and manage your information. 
 
-**What data do we collect from you?**
 
-We collect the personal data you provide when you register for Internet Access Services with us. We also collect any other personal data that you provide when using the Tiscali Portal, for example, to enter competitions. We also use cookie technology to monitor which areas of the Tiscali Portal you prefer. The information obtained from the cookies is not stored alongside your personal data and will only be used on an anonymous, aggregated basis. We may also hold information relating to any transactions that you enter into with us or any of our third party retail partners. We also use special software to check that when you use the Tiscali Internet Service, you are using the most up to date telephone number. This software logs your user name and the number you use to dial in whenever you use the Service. The software will automatically alter the telephone number used if it is not the most up to date number. The software will continue to log, with Tiscali, your user name and the number you use to connect to the Internet (but will not alter any dial-up number) even after you have terminated your agreement and are no longer a Tiscali member. If you do not wish the software to perform this function after leaving Tiscali then you must uninstall the dialler software by following the uninstall instructions. To get to the uninstall instructions [click here](https://web.archive.org/members/myaccount/internet/tk_uninstall.html). 
 
-**What we do with the data we collect from you?**
+We are committed to protecting and preserving your information, being transparent about what data we hold and how we use it.
 
-We may use the personal information we collect from you to build up a profile of your interests and preferences. This information may be disclosed to other Tiscali group companies and carefully selected third parties and/or used to make you aware of products or services that you may find of interest. If you do not wish to have your details passed on to carefully selected third parties or if you do not wish to receive unsolicited mailings from us please inform us by hand, post or fax in accordance with Clause 11.5 of the Terms and Conditions or via the Contact Details provided on the Tiscali Portal from time to time. 
 
-**Third Party Advertising**
 
-The advertisements appearing on the Tiscali Portal are delivered to you, on our behalf, by the web advertising agency DoubleClick. Information about your visit to the Tiscali Portal, such as the number of times you have viewed a particular advertisement (but not information about you, such as your name, address or any other personal information) is used by Doubleclick to decide which advertisements to serve to you. For more information about the use to Doubleclick put you data, please [click here](http://www.doubleclick.net/us/corporate/privacy). 
 
-In the course of serving advertisements to you, DoubleClick may also use cookie technology but will not use such cookies to collect any personally identifiable information about you. For more information about DoubleClick cookies and how to "opt-out", please [click here](http://www.doubleclick.net/us/corporate/privacy/opt-out.asp). 
+#### Scope
 
-**Private Communications**
+This policy applies to anyone who buys or uses any of the services provided by the TalkTalk group and its companies, which includes the brands TalkTalk, TalkTalk Business, and Blinkbox. 
 
-It is our policy to respect the privacy of private communications. We will not intentionally inspect the contents of private communications sent or received using the Tiscali Portal except as required or permitted to do so by law. 
+When we refer to “we” or “our” or “TalkTalk” we are referring to TalkTalk Telecom Group Plc and its subsidiaries, (including TalkTalk Communications Limited and TalkTalk Telecom Limited), or any of them, as the context requires.
 
-**Children and Tiscali**
+#### Overview
 
-We do not specifically collect information about children and believe that children should always get the consent of their parents before giving out any personal information. Where children are specifically encouraged to participate within the Tiscali Portal, they will always be advised that they should seek parental permission before they continue with the activity. We recommend that parents actively participate and where possible monitor their children's use of the Tiscali Internet Access Service and Portal. 
+We collect information about you when you buy or use any of our services including services which have transferred to us when we have bought another business, or from other organisations such as credit agencies or other organisations we use to provide services to you, for example Qube. We may share this information between us so we can provide the services you order and manage your account.
 
-**Keeping your details private**
+By using any of our services or visiting our websites you agree to our use of your information as set out in this privacy policy. This privacy policy forms part of and should be read in conjunction with the terms and conditions on our websites and any additional terms you are provided with in relation to our services. 
 
-The use of Newsgroups or Forums/Chat, either within the Tiscali Portal or on the Internet, is at your own risk. This may result in you receiving unsolicited messages from other parties who have picked up your details from such services. Further, do not forget that if you enter your details in the Tiscali Users Directory they will be generally available to all Tiscali users. 
+#### Information We Collect
 
-**Disclosure of data in accordance with law**
+**_1.        _****_Information you give us_**
 
-We may need to disclose your data to appropriate persons where required or permitted by law (for example, to law enforcement authorities in relation to the investigation of a suspected criminal offence). 
 
-**Changing contact details**
 
-You can update or amend your contact details at any time from within the Tiscali Portal. If you have any questions about the use of your personal data or if you wish to know how you can inspect or correct other personal data we may hold please contact us by hand, e-mail (by completing a form within the 'Contact Us' area of the portal), post or fax in accordance with Clause 11.4 of the Terms and Conditions or via the Contact Details provided on the Tiscali Portal. Or by calling 0906 300 6633 (calls charged at 50p per minute). 
 
-**Changes to the Policy**
+When you place an order with us for any of our services we will need certain information to process your order.  This may be information such as your name, private/business email or postal address, telephone or mobile number, date of birth, financial or credit card information to help us identify you and to provide a service to you. We may ask for other information that relates to the service you are using or ordering.
 
-We may need to amend the Privacy Policy from time to time. Any such amendment will take effect as soon as it is posted on the Tiscali Portal. You are therefore encouraged to familiarise yourself with the Privacy Policy on a regular basis. The Privacy Policy will always be easily accessible online throughout Tiscali Portal. 
+When you contact us to discuss your services using [My Account](https://myaccount.talktalk.co.uk/login/login/login?AuthState=_30eaee4747af1101a3ffe44ebb10a6debc4b5160a9:https://sso.talktalk.co.uk/saml2/idp/SSOService.php?spentityid=https%3A%2F%2Fmyaccount.talktalk.co.uk%2Flogin%2Flogin%2Flogin&RelayState=https%3A%2F%2Fmyaccount.talktalk.co.uk%2Fssosp%2Fauthenticate%2Fauthenticate%3FAPPID%3DPHP-SP1%26ReturnUrl%3Dhttps%253A%252F%252Fmyaccount.talktalk.co.uk%252Flogin%252Flogin%252Flogin%3Furl%3D%252Fhome%252Fdashboard%26logoutMode%3D&ERRCODE=) or [Contact Us](https://www.talktalk.co.uk/contactus/) (or on our online chat support) we may ask for certain information to be able to confirm your identity, check our records and answer your questions quickly and accurately.  If you complete any survey or enter any competitions we may ask for information about you, which we will make clear to you at the time and for the purpose we will be using this information.
 
-For Instructions to uninstall the Tiscali dialler - please [click here](https://web.archive.org/members/myaccount/internet/tk_uninstall.html)
 
- | [Acceptable Use Policy](https://web.archive.org/aboutus/aup.html)  
----|---  
- | [Contact Us](https://web.archive.org/aboutus/contact/)  
- | [Feedback](https://web.archive.org/aboutus/contact/)  
- | [Terms & Conditions](https://web.archive.org/aboutus/tandc/)  
- | [Privacy Policy](https://web.archive.org/aboutus/policy.html)  
- | [Investor Relations](http://www.tiscali.it/investors/en/)  
- | [Regulatory information](https://web.archive.org/aboutus/regulatory.html)
+
+
+**_2.        _****_Information we automatically collect_**
+
+
+
+
+We will automatically collect information:
+
+  * when you **use our services** , such as the amount of time you spend online, the channels and programmes you watch and record, the websites you visit, or when you make a call the number, destination and length of your call, which we need to help manage our network and for billing purposes; and 
+
+
+  * when you **visit our websites or use our mobile applications** , we may collect and process information about your usage of these by using “cookies” and other similar technologies **(see Cookies section below)** to help us make improvements to the websites and to the services we make available
+
+  * when you download or use mobile applications created by us and, where applicable, have requested or consented to location services, we may receive information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with locationbased services, such as search results, and other personalised content. Most mobile devices allow you to turn off location services. Our mobile application does not collect precise information about the location of your mobile device.
+
+
+
+**_3.        _****_Information we receive from other sources  
+_**
+
+We may receive personal information about you from third parties, such as companies contracted by us to provideservices to you, other telecommunications operators, marketing organisations, and credit reference agencies(CRA’s) or fraud prevention agencies (FPA’s) - **see Credit Check section below**
+
+#### How We Use Information
+
+The information we collect helps us to better understand what you need from us and to improve the provision of our services to you.   
+We use the information collected for example to: 
+
+  * verify your identity when you use our services or contact us; 
+
+
+  * process your enquiries, orders or applications, for example when assessing an application, we may use automated decision making systems and to provide your services; 
+
+
+  * carry out credit checks and to manage your accounts (see Credit Checks). 
+
+
+  * monitor, record, store and use any telephone, e-mail or other electronic communications with you for training purposes, so that we can check any instructions given to us and to improve the quality of our customer service, and in order to meet our legal and regulatory obligations. 
+
+
+  * where you have agreed, we will provide you with information about other TalkTalk services, offers or products which you may be interested in - **see Marketing Preferences** **section below.  
+**
+
+
+  * to tell you about changes to our websites, services or terms and conditions 
+
+
+  * carry out any marketing analysis, profiling or create statistical or testing information to help us personalise the services we offer you and to understand what our customers want.
+
+
+  * recover any monies you may owe to us for using our services.
+
+
+  * for analysis of our services with the aim of improving them.
+
+
+  * to enable you to  earn or redeem your [‘Tesco Clubcard’ loyalty points](https://support.blinkbox.com/hc/en-gb/articles/204428707-TalkTalk-FAQs) (where applicable).
+
+
+  * to prevent or detect a crime, fraud or misuse of, or damage to our network, and to investigate where we believe any of these have occurred;
+
+
+  * monitor network traffic from time to time for the purposes of backup and problem solving, for example our automated system may monitor email subjects to help with spam and malware detection.
+
+
+
+Your data may also be used for other purposes for which you give your specific permission or, in very limited circumstances, when required by law or where permitted under the terms of the Data Protection Act 1998 - sharing information.
+
+#### Credit Checks
+
+When you apply to buy products and services from us we may carry out a credit check.  This means we may need to check certain records about you, these may include:
+
+  * Our own;
+
+
+  * records at CRAs.  Information on applications for our products and services will be sent to CRAs, when CRAs receive a search from us they will place a search footprint on your credit file that may be seen by other organisations. They supply to us both public (including the electoral register) and shared credit and fraud prevention information. If you tell us about a spouse or financial associate, we will link your records together. CRA’s also link your records together, and these searches will be recorded by CRAs. We may disclose information about how you run your accounts to the CRA’s;
+
+
+  * those at FPA’s. We and other organisations may access and use from other countries the information recorded by fraud prevention agencies; or
+
+
+  * If you are a director of an organisation, we will seek confirmation, from credit reference agencies, that the residential address that you provide is the same as that shown on the restricted register of directors’ usual addresses at Companies House. 
+
+
+
+It is important that you give us accurate information.  If you give us false or inaccurate data and we suspect fraud we will record this with the FPA’s.
+
+#### Sharing Information
+
+We will only share your information with organisations outside TalkTalk:
+
+  * with your consent if we are using information for a purpose other than as set out in this Privacy Policy;
+
+
+  * involved in the running or managing of your accounts or providing services to you for us (e.g. customer support, or a courier company if you have asked us to send something to you);
+
+
+  * to help us improve the services we are providing;
+
+
+  * as part of the process of selling one or more of our businesses;
+
+
+  * as part of current or future legal proceedings;
+
+
+  * who are part of the Tesco Group for the purpose of its [‘Tesco Clubcard’ loyalty scheme](https://support.blinkbox.com/hc/en-gb/articles/204428707-TalkTalk-FAQs), where you have provided us with your Tesco Clubcard details;
+
+
+  * in response to properly made requests from law enforcement agencies for the prevention and detection of a crime, or for the purpose of safeguarding national security; or when the law requires us to, such as in response to a court order, or other lawful demand or powers contained in legislation; or
+
+
+  * in response to properly made requests from regulatory bodies such as the Information Commissioners Office and Ofcom, for example where you contact Ofcom asking them to investigate a complaint in respect of the provision of the our services to you, they may request information from us to enable them to investigate and make a decision in respect of this matter.  We will need to provide them with the relevant information we hold relating to your account. 
+
+
+
+Where we share your information with third parties they are required to follow our express instructions in respect of the use of your personal information and they must comply with the requirements of the Data Protection Act or any other relevant legislation to protect your information and keep it secure.
+
+From time to time these other people and organisations may be outside the European Economic Area in countries that do not always have the same standard of data protection laws as the UK.  However, we will have a contract in place to ensure that your information is adequately protected and we will remain bound by our obligations under the Data Protection Act 1998 (as amended from time to time) even when your personal information is processed outside Europe.
+
+#### How Long Do We Hold Your Information
+
+The time period for which we keep information varies according to what the information is used for. Unless there is a specific legal requirement for us to keep information, we will keep your information for as long as it is relevant and useful for the purpose for which it was collected (and which you agreed to).
+
+For example, when you contact us we may monitor and record your communications with us to use this information for training and quality purposes, and to meet our legal and regulatory requirements. Where we record calls, these call recordings are only held for a limited period of time before we delete them permanently.
+
+We will continue to hold information about you, if you do not become our customer, your application is declined, or even after you have closed your account or terminated your services with us.  We will only hold such information for such periods as is necessary for the purpose of dealing with enquiries, offering TalkTalk products and services you may be interested in, complying with any legal obligation and for crime and fraud prevention and detection.
+
+The law requires us to keep certain information about how you use our services for a period of 12 months. This information may be used by certain law enforcement agencies to prevent and detect crime and to protect national security; we will only disclose this information to them when we are legally required to.
+
+#### Accessing Your Information
+
+The Data Protection Act entitles you find out what information we hold about you. If you want to find out what information we hold you will need to submit a request in writing to **c/o The Data Controller, Data Protection Office, PO Box 390, Southampton SO30 9AQ** together with a cheque for £10 (to cover our costs of processing the information) made payable to:
+
+  * if you are a business customer: TalkTalk Communications Limited
+
+
+  * if you are a residential customer: TalkTalk Telecom Limited; or
+  * if you are a Blinkbox customer: Blinkbox Entertainment Limited.
+
+
+
+We may ask you to provide us with proof of your identity to make sure we are giving your information to the right person.
+
+To help us process your request you will need to provide the following information:
+
+  * account number(s);
+
+
+  * telephone number(s);
+
+
+  * address; and
+
+
+  * date and time (if requesting a call recording); 
+
+
+
+If any of your information is incorrect or your personal details have changed you can either:
+
+  * notify us in writing, and we will update your details; or
+
+
+  * update your details within the My Details section of [My Account](https://myaccount.talktalk.co.uk/login/login/login?AuthState=_30eaee4747af1101a3ffe44ebb10a6debc4b5160a9:https://sso.talktalk.co.uk/saml2/idp/SSOService.php?spentityid=https%3A%2F%2Fmyaccount.talktalk.co.uk%2Flogin%2Flogin%2Flogin&RelayState=https%3A%2F%2Fmyaccount.talktalk.co.uk%2Fssosp%2Fauthenticate%2Fauthenticate%3FAPPID%3DPHP-SP1%26ReturnUrl%3Dhttps%253A%252F%252Fmyaccount.talktalk.co.uk%252Flogin%252Flogin%252Flogin%3Furl%3D%252Fhome%252Fdashboard%26logoutMode%3D&ERRCODE=).
+
+
+
+#### Marketing Preferences
+
+Where you have agreed to us contacting you either when you joined or via your preferences on My Account, we will contact you with details of products, services and special offers that we believe you may be interested in.   If you change your mind and do not want to us to send you marketing messages you can do this in a number of ways: 
+
+  * calling our customer services on the phone number set out at [**Contact Us**](https://www.talktalk.co.uk/contactus) **.**
+
+
+  * writing to us at the contact details at [**Contact Us**](https://www.talktalk.co.uk/contactus) **.**
+
+
+  * online within the My Details section of My Account
+
+
+  * changing your cookie settings - **see Cookies section below**. 
+
+
+
+If you notify us in any of the above ways we will stop sending you marketing messages, but we will still need to send you service related messages including changes to services or terms and conditions.
+
+#### Cookies
+
+Our websites and mobile application use cookies.  Cookies collect information about your use of our website and any of our mobile applications you download, including things like your connection speed, details of your operating system, the time and duration of your visit and your IP address.  The information collected by cookies enables us to understand the use of our site, including the number of visitors we have, the pages viewed per session, time exposed to particular pages etc.  This in turn helps us to provide you with a better experience, since we can evaluate the level of interest in the content of our website and tailor it accordingly. We will not attempt to personally identify you from your IP address unless required to as a matter of law or regulation or in order to protect our or our other customers' rights.
+
+Most browsers automatically accept cookies.  You can set your browser options so that you will not receive cookies and you can also delete existing cookies from your browser.  However, you may find that some parts of the site will not function properly if you disable cookies.
+
+  * If you are a TalkTalk Telecom customer please see our Cookies Policy ****[here](http://www.talktalk.co.uk/legal/manage-cookies.html); and
+
+
+  * If you are a TalkTalk Business customer please see our Cookies Policy [here](http://www.talktalkbusiness.co.uk/cookie-policy/).
+
+
+
+#### Children and TalkTalk
+
+We do not specifically collect information about children and believe that children should always get the consent of their parents before giving out any personal information.  Where children are specifically encouraged to participate on our websites or using our services (including using our mobile service), they will be advised that they should seek parental permission before then continue to with the activity.  We recommend that parents actively participate and where possible monitor their children’s use of the internet and the website **–** **Homesafe and Worksafe** **.**
+
+#### Homesafe and Worksafe
+
+_Homesafe (TalkTalk Telecom Customers)_
+
+We will keep a record if you have activated or de-activated Homesafe. Information held after deactivation will be only for operational purposes to enable us to identify or trace a fault if required. We do not keep a record of the websites you have sought to block.
+
+_Worksafe (TalkTalk Business Customers)_ We will keep a record of the following information if you have activated Worksafe to enable it to operate in accordance with your instructions:
+
+  
+(a)                 your activation of anti-malware and web filtering;
+
+(b)                 The website categories you wish to block;
+
+(c)                 Websites you have added to you “Whitelist” and “Blacklist”.
+
+(d)                 hours of the day you wish the filters to operate.
+
+#### Protecting Your Information
+
+We take protecting your data seriously, and will do our utmost to employ appropriate organisational and technical security measures to protect your against unauthorised disclosure or processing. 
+
+Unfortunately we cannot guarantee the security of transmitting information via the internet.We have tried to create a secure and reliable website and mobile application for our users.  However, we have no responsibility or liability for the security of personal information transmitted via the internet.
+
+#### Changes To Privacy Policy
+
+Please note that this policy will be reviewed and may change from time to time.  The revised policy will be posted to this page so that you are always aware of the information we collect, how we use it and under what circumstances we disclose it.
+
+#### Contact us
+
+If you feel we have breached your privacy, want us to update your marketing preferences, or amend your information, please contact us either:
+
+**If you are a customer of TalkTalk Business**
+
+** ** In writing at:
+
+  * TalkTalk Business  
+Customer Services  
+PO Box 136  
+Birchwood  
+Warrington  
+WA3 7BH 
+
+
+
+By Phone at:
+
+  * 0800 083 3003.
+
+
+
+**If you are a customer of TalkTalk Telecom**
+
+In writing at:    
+
+  * TalkTalk Telecom Limited  
+TalkTalk Customer Relations Departmen  
+P.O. Box 346  
+Southampton  
+SO30 2PW
+
+
+
+By Phone at:
+
+  * 0870 444 1820
+
+
+
+**If you are a customer of Blinkbox**
+
+In writing at:
+
+  * Blinkbox Entertainment Limited  
+20-24 Kirkby Street  
+London  
+EC1 N 8TS 
+
+
+
