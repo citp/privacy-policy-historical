@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studyoptions.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506062641id_/http%3A//www.studyoptions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studyoptions.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103234129id_/http%3A//www.studyoptions.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Study Options
 
