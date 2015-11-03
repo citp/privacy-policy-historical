@@ -1,213 +1,56 @@
-> *The following text is extracted and transformed from the americanexpressindia.co.in privacy policy that was archived on 2011-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111029015337id_/https%3A//www.americanexpress.com/india/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanexpressindia.co.in privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103234125id_/https%3A//www.americanexpress.com/india/legal/privacy.shtml) for the most accurate reproduction.*
 
-# American Express - India - Privacy Statement
+# American Express | India Online Privacy Statement
 
-|   
----  
-| 
+If you have questions about our online privacy statement or want to make a complaint, call us at the number on the back of your Card or at the following: 
 
-Information Collection  
   
-| 
 
-**What Happens When You Are Browsing?**
 
-If you are not registered for any online service from American Express, you browse this Site anonymously. We do not collect personal information -- such as your name, address, phone number or e-mail address -- if you are only browsing this site. American Express does, however, use "cookies" to collect information about how our site is used. Information, such as the server your computer is logged onto, your browser type (for example, Netscape or Internet Explorer), and whether you responded to an American Express banner ad or e-mail is collected and tracked in aggregate and not linked to you personally. We use this information to measure response rates to banner ads and e-mail offers. If you would like to learn more about cookies, please read [About Cookies](https://web.archive.org/india/legal/privacy_cookies.shtml) for more information. 
+### Glossary
 
-**What Happens When You Give Information To Us?**
-
-**Registration for Online Products and Services**
-
-If you want to apply for or take advantage of our online products or services, we will need you to give us some personal information, including your e-mail address and account number. We only collect information about you, which we need to process your application, to service your accounts and other needs, to offer new products and services, and to satisfy legal requirements. We will also use this information for purposes such as correspondence, site registration, allowing you to check your statement or other account details online, to make a purchase, or to participate in online surveys etc. We will also share such information with our affiliates and other for the purposes described elsewhere in this Statement. 
-
-**Quality of Information**
-
-We use advanced technology, documented employee procedures and internal monitoring to help ensure that your personal information is accurate and up-to-date. In addition, we require high standards of quality from credit reporting agencies and others who provide us with information about prospective customers or other services. 
-
-[Back to Top]   
   
----  
-| 
 
-Security  
-  
-| 
 
-Before you can send confidential personal information or account information to us on an American Express Web site, we require that a "secure session" is set up using Secure Socket Layer (SSL). For further information about SSL and the safety and confidentiality of personal information transmissions over the Internet, please read our [Security Q&A](https://web.archive.org/india/legal/privacy_security.shtml).
+**Aggregated Information ** \-- data or information relating to multiple people which has been combined or aggregated. Aggregated Information includes information that we create or compile from various sources, including card transactions or certain data from Cookies and Similar Technologies. 
 
-Whenever we handle your personal information, we limit access to customer information to those who need it to do their jobs and meet our customer servicing commitment to you. We use a range of security processes to protect the confidentiality and security of your personal information. 
+**American Express (we, our, us) ** \-- the American Express Company as identified at the beginning of this online privacy statement. 
 
-[Back to Top]   
-  
----  
-| 
+**American Express Family of Companies ** \-- any affiliate and subsidiary of, and any company owned or controlled by, the American Express Company. 
 
-Information Use  
-  
-| 
+**Business Partners ** \-- any third parties with whom we conduct business and have a contractual relationship, such as a business that accepts American Express branded cards 
 
-We use your information to process your application or to provide the products and services you have requested. 
+**Co-brand Partners ** \-- businesses we partner with to offer cards featuring both brand logos. 
 
-**How We Can Customize Your Online Experience**
+**Cookies and Similar Technologies ** \-- a _cookie_ is a small data file that a website transfers to your computer's hard drive. We may place cookies when you visit our website or another company’s website where our ads appear or when you make purchases, request or personalize information, or register for certain services. If you accept the cookies used on our website, websites that are “powered by” another company on our behalf, or websites where our ads appear, you may give us access to information about your interests. We may use that information to personalize your experience. Similar technologies such as web beacons, pixels, gifs, and tags also do the same thing. We use the term Cookies and Similar Technologies in this statement to refer to all technologies that collect information in this way. 
 
-If you are a registered user of an American Express online service, we may now or at some time in the future combine information about your use of this Site and our online service with other online and offline information we have about you as an American Express customer as well as information lawfully available from other organizations. We will use this combined information to customize your online experience and present you with relevant online and offline offers and updates. We also use a "cookie" to enable our server to recognize you as a registered American Express online service user when you re-enter our site. If you would like to learn more about cookies, please read [About Cookies](https://web.archive.org/india/legal/privacy_cookies.shtml) for more information. 
+**De-identified Information ** \-- data or information used in a way that does not identify you to a third party. We often derive De-Identified Information from Personal Information/SPI. It includes information that we may collect from various sources, such as card transactions or certain data from Cookies and Similar Technologies. 
 
-**What Else Do We Do With Information We Obtain?**
+**IP Address ** \-- a number assigned to a device when connecting to the Internet. 
 
-We may also use your information to measure consumer interest in our services and inform you about other products and services. For example, if we obtain your email address we may use it to send you offers we think you might be interested in. These offers may be based on information you provided in your initial transaction with us, or in surveys, from information that may indicate purchasing preferences and lifestyle, as well as information lawfully available from other organizations. These e-mail offers come directly from American Express. 
+**Online Information ** \-- data or information collected on the American Express websites and apps as well as on websites and apps of third parties relating to topics about our business which may include Personal Information/SPI, Aggregated Information and De-Identified Information. 
 
-When we send you e-mails, we may be able to identify information about your e-mail address, such as whether you can read graphic-rich html e-mails. If your e-mail address is html-enabled, we may choose to send you graphic-rich html e-mails. 
+**Other Information ** \-- American Express internal information (for example, Card transaction data), external data that financial companies use to process applications and complete transactions, and other online and offline information we collect from or about you. 
 
-[Back to Top]   
-  
----  
-| 
+**Our Privacy Principles ** \-- For a copy of the American Express Privacy Policy, [which covers both online and other information, [click here](http://www.americanexpress.com/india/pdfs/privacy_statement.pdf). 
 
-Declining Offers by e-mail  
-  
-| 
+**Personal Information or Personal Identifiable Information” (PII) ** \-- means any information that relates to a natural person, which, either directly or indirectly, in combination with other information available or likely to be available with a body corporate, is capable of identifying such person. 
 
-**What Do I Need To Do If I Do Not Want To Receive e-mail Offers?**
+**Sensitive Personal Data or Information (SPI) ** \-- includes Personal Information that also consists of information relating to: 
 
-We hope that many customers will appreciate receiving details of these carefully designed opportunities. However, we clearly recognize the importance of providing you with choices by giving you an easy means to "Opt Out" from receiving e-mail offers. All you have to do is let us know that you do not want to receive offers by e-mail. You can do this at any time by contacting us at the following address: 
+  * Passwords
+  * Financial information such as Bank account or credit card or debit card or other payment instrument details
+  * Physical, physiological and mental health condition
+  * Sexual orientation
+  * Medical records and history
+  * Biometric information
 
-American Express Banking Corp.  
-Cyber City, Tower C, DLF Bldg no.8,  
-Sector-25, DLF City Ph II,  
-Gurgaon, Haryana-122 002,  
-India
 
-or by simply replying to the e-mail and telling us. All e-mail offers that you receive from us will let you know how to "Opt Out" from receiving further e-mail offers. 
 
-[How to Decline Email](https://www15.americanexpress.com/cust_serv/privacy/emailprivacy.jsp?country=india)
+Sensitive Personal Data or Information does not include information that is freely available or accessible in the public domain or furnished under the Right to Information Act, 2005 or any other law for the time being in force. 
 
-[Back to Top]   
-  
----  
-| 
+**Service Providers ** \-- any vendor, third party and/or company that performs business operations on our behalf, such as printing, mailing, and other communications services (email, direct mail, etc.), marketing, data processing, servicing, collections, or ad management. 
 
-Disclosure of Information Policies  
-  
-| 
+**Targeted Advertising ** \-- ads we, or our Service Providers, display on websites outside the American Express Family of Companies based on the preferences or interests inferred from data collected from a particular computer or device regarding web viewing behaviors over time and across different websites. 
 
-**Do We Share Information About You?**
-
-American Express has had a long-standing commitment to protecting personal information of our customers and prospective customers. This section explains how we share your personal information with others. 
-
-**Other American Express Companies**
-
-We may share information about you within the American Express Group of Companies so we can provide you with products and services you request and bring you information about other American Express products and services. This may involve providing your personal information to other American Express companies both inside and outside India, including the USA and Australia, for processing, servicing or marketing purposes. All American Express Companies comply with The [American Express Customer Privacy Principles](https://web.archive.org/india/legal/privacy_customerpp.shtml) and with security procedures which are similar to those described above in Security. 
-
-**Companies Who Provide Services To Us**
-
-In some cases we contract with other companies to perform services for us. Examples of this include processing applications, sending e-mail, processing orders, providing marketing support, deliveries, market research, debt collection agencies etc. We provide them only with such information about you as they need to perform their services, but we impose strict requirements of security and confidentiality on them in how they handle your personal information. Also they are not permitted to use information about you for any purpose except to perform the services we have asked them to provide. 
-
-**Our Business Partners**
-
-We may send you offers by e-mail or other direct marketing methods (i.e. mail, fax or phone) about products and services offered by our business partners. When we do this, we keep control over your information, which is not disclosed to our business partners unless you have expressly authorized us to do so or you take advantage of their offer. 
-
-**IMPORTANT NOTE: Please note that we do not give your e-mail address to our business partners.**
-
-Please keep in mind that if you take advantage of an offer from an American Express business partner and become their customer, they may independently wish to send offers to you. In this case, you will need to inform them separately if you do not wish to receive future offers from them. In all cases our goal is to deliver offers to people who we believe will find them of value. Our communications are developed and managed under strict conditions designed to safeguard the security and privacy of customer personal information. Click here if you wish to "Opt Out" of receiving offers by e-mail. 
-
-How to Decline Email
-
-**Participation in Credit Reference Schemes**
-
-Information concerning your account(s) may be provided to credit reference agency(s) as permitted by law. 
-
-**Other Disclosure of Information** In all other cases, we will not disclose your personal information unless you have been previously informed or have authorised us to so do, or if we are required to do so by law. If an order of a court or government authority requires us to disclose information about you, we will do our best to notify you of this promptly, to give you an opportunity to exercise your legal rights. The only exceptions to this policy are when the order or law prohibits us from notifying you or when there is suspicion of fraud or criminal activity. We will not use any medical information for marketing purposes. 
-
-[Back to Top]   
-  
----  
-| 
-
-How Long Do We Keep Information  
-  
-| 
-
-We will keep information for as long as it is necessary to service your account or to continue to provide products and services you have requested. We will retain information for a reasonable period if you cease to be our customer, unless the law requires us to keep it for longer. 
-
-[Back to Top]   
-  
----  
-| 
-
-Children  
-  
-| 
-
-We do not use this Site to knowingly solicit information from or market to children or young persons under the age of 18. 
-
-[Back to Top]   
-  
----  
-| 
-
-Your Rights of Access and Correction  
-  
-| 
-
-You can contact American Express at any time if you would like details of any personal information we may hold about you or if you would like us to correct it. Depending on the nature of your request, we may ask you to complete a personal data access form. In some cases, we may charge you a service fee for providing this information, but we will inform you of this at the time. 
-
-You can write to us at the following address:
-
-American Express Banking Corp.  
-Cyber City, Tower C, DLF Bldg no.8,  
-Sector-25, DLF City Ph II,  
-Gurgaon, Haryana-122 002,  
-India 
-
-[Back to Top]   
-  
----  
-| 
-
-Company Commitment to Privacy  
-  
-| 
-
-In keeping with our long-standing leadership in consumer privacy protection, American Express is actively involved with current industry initiatives to protect individual privacy rights on the Internet and in all aspects of electronic commerce. For additional information about our commitment to protecting the privacy of our customers both online and offline, please read the [American Express Customer Privacy Principles](https://web.archive.org/india/legal/privacy_customerpp.shtml). The American Express Customer Internet Privacy Statement applies these Principles to our online customers. 
-
-This Privacy Statement applies only to American Express Indian customers and Indian visitors to our website. If you are an Indian customer and have questions about this Privacy Statement, your account, or our information handling policies, you can contact us as indicated above. 
-
-[Back to Top]   
-  
----  
-| 
-
-Customer Choice – Direct Mail and Telemarketing  
-  
-| 
-
-If you do not want to receive American Express mail or telemarketing offers, if you would like information about your account, or if you have a question or concern about the way we handle your personal information, please call the customer service telephone number. 
-
-[Back to Top]   
-  
----  
-| 
-
-Linked Internet Sites  
-  
-| 
-
-You should be aware that other Internet sites to which you link from this Site may contain privacy provisions that differ from this Internet Privacy Statement 
-
-[Back to Top]   
-  
----  
-| 
-
-Changes to this Internet Privacy Statement  
-  
-| 
-
-We will use this space to note changes to our Internet Privacy Statement, to keep you fully informed about how we protect your privacy and your choices about our use of your personal information for marketing. 
-
-Date Last Revised: **11/29/01**  
-Section: Information Collection
-
-Description: This section was updated to address more specifically what information we do and do not collect, and to more fully explain the combination of online and offline information for registered users of American Express online services. 
-
-[Back to Top] 
+**Third-Party Ad-Servers ** \-- companies that provide the technology to place ads on websites (and apps) and track how ads perform. These companies may also place and access cookies on your device. The information they collect from our websites is in a form that does not identify you personally. 
