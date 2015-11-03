@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tupperware.com privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505163854id_/http%3A//www.tupperware.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tupperware.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103165302id_/http%3A//www.tupperware.com/info/privacy) for the most accurate reproduction.*
 
 # Tupperware: Help > Privacy, Security & Accessibility
 
