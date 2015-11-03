@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the education.nic.in privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629013603id_/http%3A//www.mhrd.gov.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the education.nic.in privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103054615id_/http%3A//mhrd.gov.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Government of India, Ministry of Human Resource Development
 
