@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilesreview.co.in privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409003144id_/http%3A//mobilesreview.co.in/17675) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilesreview.co.in privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103024754id_/http%3A//mobilesreview.co.in/17675-2) for the most accurate reproduction.*
 
 # All About Mobiles & Gadgets
 
