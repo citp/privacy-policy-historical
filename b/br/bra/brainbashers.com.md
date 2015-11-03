@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainbashers.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618053921id_/http%3A//www.brainbashers.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainbashers.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103084213id_/http%3A//www.brainbashers.com/privacy.asp) for the most accurate reproduction.*
 
 # BrainBashers : Privacy
 
@@ -21,7 +21,7 @@ The BrainBashers website uses Google Analytics, Google have provided a page enti
 
 The BrainBashers and BrainBashers Games websites use cookies to store various pieces of information during your visit, this might include your browser size when playing a game, or other game-state information, or a saved Sudoku, whether you've voted on the Question Of The Week, or the ability to log in to some of our features, such as the monthly contests, etc.
 
-As with most other websites, we collect and use the data contained in the server's log files. The information in the log files includes details such as your IP (internet protocol) address, the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site, etc.
+As with most other websites, we collect and use the server's logging information. This information includes details such as your IP (internet protocol) address, the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site, etc.
 
 Any information submitted to us via the feedback form may be quoted to a third party, and may also be quoted in a public forum (your name and other identifying information, including your email, will remain private). In addition, information received after an exchange of emails initiated by the feedback form may also be used in this way. Use of the feedback system indicates your permission.
 
@@ -29,7 +29,7 @@ We may also use this information to determine website user demographics or to co
 
 As part of the registration process we collect your name, email address and country. To the best of our ability this data is stored securely, however, we are not experts. Your email address will only be used to send an optional daily email and the occasional, optional, email containing news about BrainBashers or BrainBashers Games, and any emails required as part of the registration/confirmation process. You are under no obligation to enter your real name or country. When you log in, your IP address is stored.
 
-The names, countries and answers of competition entrants may be posted to the website or public newsgroups at our discretion. Search engines may then index the site and your name appear in their listings. Entry into a contest indicates your permission to use your details in this way. Entry into a contest permits us to send a limited number of emails regarding the contest and related activities, including entry confirmation, contest results and reminders. Subscription to the Daily Gubbins gives us permission to send a daily email that contains, amongst other things, a puzzle, a Sudoku, a game link, and occasional extra items of interest.
+The names, countries and answers of competition entrants may be posted to the website or public newsgroups at our discretion. Search engines may then index the site and your name appear in their listings. Entry into a contest indicates your permission to use your details in this way. Entry into a contest permits us to send a limited number of emails regarding the contest and related activities, including entry confirmation, contest results and reminders. Subscription to the Daily Puzzle Email gives us permission to send a daily email that contains, amongst other things, a puzzle, a Sudoku, a game link, and occasional extra items of interest.
 
 Any geographical information posted to us via a postcard or Christmas card may appear on the BrainBashers or BrainBashers Games website, however, this will not include your name or full address, simply your town and country.
 
@@ -37,4 +37,4 @@ The Question Of The Week is provided as an amusement and is not statistically si
 
 We never sell any of your personal information to third parties. However we will disclose any required information if legally obligated.
 
-**This privacy policy section was last updated in June 2015.**
+**This privacy policy section was last updated in October 2015.**
