@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the beingtheparent.com privacy policy that was archived on 2015-05-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150504105627id_/http%3A//www.beingtheparent.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the beingtheparent.com privacy policy that was archived on 2015-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151103043321id_/http%3A//www.beingtheparent.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><!--<![endif]--><head>
 
@@ -11,7 +11,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="pingback" href="http://www.beingtheparent.com/xmlrpc.php">
 	
+<link rel="shortcut icon" href="http://www.beingtheparent.com/wp-content/uploads/2015/06/btp-f.png">	
 
+<link rel="apple-touch-icon-precomposed" href="http://www.beingtheparent.com/wp-content/uploads/2015/06/mobile.jpg">
 	
 
 <!-- All in One SEO Pack 2.2.5.1 by Michael Torbert of Semper Fi Web Design[248,271] -->
@@ -24,17 +26,71 @@
 			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-			ga('create', 'UA-46983978-1', 'auto');
+			ga('create', 'UA-46983978-1', { 'cookieDomain': 'beingtheparent.com','allowLinker': true } );
 			
 			ga('send', 'pageview');
 			</script>
+		<script type="text/javascript">
+		function recordOutboundLink(link, category, action) {
+					ga('send', 'event', category, action);
+					if ( link.target == '_blank' ) return true;
+			setTimeout('document.location = "' + link.href + '"', 100);
+			return false;
+		}
+			/* use regular Javascript for this */
+			function getAttr(ele, attr) {
+				var result = (ele.getAttribute && ele.getAttribute(attr)) || null;
+				if( !result ) {
+					var attrs = ele.attributes;
+					var length = attrs.length;
+					for(var i = 0; i < length; i++)
+					if(attr[i].nodeName === attr) result = attr[i].nodeValue;
+				}
+				return result;
+			}
+			
+			function aiosp_addLoadEvent(func) {
+			  var oldonload = window.onload;
+			  if (typeof window.onload != 'function') {
+			    window.onload = func;
+			  } else {
+			    window.onload = function() {
+			      if (oldonload) {
+			        oldonload();
+			      }
+			      func();
+			    }
+			  }
+			}
+			
+			function aiosp_addEvent(element, evnt, funct){
+			  if (element.attachEvent)
+			   return element.attachEvent('on'+evnt, funct);
+			  else
+			   return element.addEventListener(evnt, funct, false);
+			}
+
+			aiosp_addLoadEvent(function () {
+				var links = document.getElementsByTagName('a');
+				for (var x=0; x < links.length; x++) {
+					if (typeof links[x] == 'undefined') continue;
+					aiosp_addEvent( links[x], 'onclick', function () {
+						var mydomain = new RegExp(document.domain, 'i');
+						href = getAttr(this, 'href');
+						if (href && href.toLowerCase().indexOf('http') === 0 && !mydomain.test(href)) {
+							recordOutboundLink(this, 'Outbound Links', href);
+						}
+					});
+				}
+			});
+		</script>
 <!-- /all in one seo pack -->
 <link rel="alternate" type="application/rss+xml" title="Being The Parent » Feed" href="http://www.beingtheparent.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="Being The Parent » Comments Feed" href="http://www.beingtheparent.com/comments/feed/">
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.beingtheparent.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.1"}};
-			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f;c.supports={simple:d("simple"),flag:d("flag")},c.supports.simple&&c.supports.flag||(f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://www.beingtheparent.com/wp-includes/js/wp-emoji-release.min.js?ver=4.2.1" type="text/javascript"></script>
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.beingtheparent.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.1"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://www.beingtheparent.com/wp-includes/js/wp-emoji-release.min.js?ver=4.3.1" type="text/javascript"></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -49,16 +105,22 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
+<link rel="stylesheet" id="fancybox2-group-css" href="http://www.beingtheparent.com/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/arscode-ninja-popups/fancybox2/jquery.fancybox.min.css,wp-content/plugins/arscode-ninja-popups/themes/reset.min.css,wp-content/plugins/arscode-ninja-popups/themes/theme_html/style.css,wp-content/plugins/contact-form-7/includes/css/styles.css,wp-content/plugins/formcraft3/assets/css/form.css,wp-content/plugins/formcraft3/assets/css/common-elements.css,wp-content/plugins/responsive-lightbox/assets/prettyphoto/css/prettyPhoto.css,wp-content/themes/smart-mag/style.css,wp-content/themes/smart-mag/css/responsive.css,wp-content/themes/smart-mag/css/bbpress-ext.css" type="text/css" media="all">
 <link rel="stylesheet" id="bbp-default-group-css" href="http://www.beingtheparent.com/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/bbpress/templates/default/css/bbpress.css" type="text/css" media="screen">
-<link rel="stylesheet" id="contact-form-7-group-css" href="http://www.beingtheparent.com/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/contact-form-7/includes/css/styles.css,wp-content/themes/smart-mag/style.css,wp-content/themes/smart-mag/css/responsive.css,wp-content/themes/smart-mag/css/prettyPhoto.css,wp-content/themes/smart-mag/css/bbpress-ext.css,wp-content/themes/smart-mag/css/fontawesome/css/font-awesome.min.css,wp-content/plugins/jetpack/css/jetpack.css,wp-content/plugins/acurax-social-media-widget/style.css,wp-content/plugins/profile-builder/assets/css/front.end.css" type="text/css" media="all">
 <link rel="stylesheet" id="smartmag-fonts-css" href="http://fonts.googleapis.com/css?family=Open+Sans:400,600,700|Roboto+Slab" type="text/css" media="all">
-<link rel="stylesheet" id="custom-css-css" href="http://www.beingtheparent.com/?bunyad_custom_css=1&amp;ver=4.2.1" type="text/css" media="all">
-<script type="text/javascript" src="http://www.beingtheparent.com/wp-includes/js/jquery/jquery.js?ver=1.11.2"></script>
+<link rel="stylesheet" id="smartmag-font-awesome-group-css" href="http://www.beingtheparent.com/wp-content/plugins/bwp-minify/min/?f=wp-content/themes/smart-mag/css/fontawesome/css/font-awesome.min.css,wp-content/plugins/jetpack/css/jetpack.css,wp-content/plugins/acurax-social-media-widget/style.css,wp-content/plugins/profile-builder/assets/css/front.end.css" type="text/css" media="all">
+<link rel="stylesheet" id="custom-css-css" href="http://www.beingtheparent.com/?bunyad_custom_css=1&amp;ver=4.3.1" type="text/css" media="all">
+<script type="text/javascript" src="http://www.beingtheparent.com/wp-includes/js/jquery/jquery.js?ver=1.11.3"></script>
 <script type="text/javascript" src="http://www.beingtheparent.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
-<script type="text/javascript" src="http://www.beingtheparent.com/wp-content/plugins/bwp-minify/min/?f=wp-content/themes/smart-mag/js/jquery.prettyPhoto.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var rlArgs = {"script":"prettyphoto","selector":"lightbox","custom_events":"","activeGalleries":"1","animationSpeed":"normal","slideshow":"0","slideshowDelay":"5000","slideshowAutoplay":"0","opacity":"0.75","showTitle":"1","allowResize":"1","allowExpand":"1","width":"1080","height":"720","separator":"\/","theme":"pp_default","horizontalPadding":"20","hideFlash":"0","wmode":"opaque","videoAutoplay":"0","modal":"0","deeplinking":"0","overlayGallery":"1","keyboardShortcuts":"1","social":"0"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.beingtheparent.com/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/responsive-lightbox/assets/prettyphoto/js/jquery.prettyPhoto.js,wp-content/plugins/responsive-lightbox/js/front.js"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.beingtheparent.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.beingtheparent.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.2.1">
+<meta name="generator" content="WordPress 4.3.1">
 <link rel="shortlink" href="http://www.beingtheparent.com/?p=702">
 
 
@@ -96,7 +158,7 @@ position: static;
 
 </head>
 
-<body class="page page-id-702 page-template page-template-template-login page-template-template-login-php page-builder right-sidebar boxed" style="background-color:#f1f1f1;">
+<body class="page page-id-702 page-template-default page-builder right-sidebar boxed">
 
 <div class="main-wrap">
 
@@ -207,6 +269,7 @@ position: static;
 	<li id="menu-item-822" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-93 menu-item-822"><a href="http://www.beingtheparent.com/category/the-baby-is-here/why-is-the-baby-crying/">Why is The Baby Crying?</a></li>
 	<li id="menu-item-820" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-94 menu-item-820"><a href="http://www.beingtheparent.com/category/the-baby-is-here/recovering-from-birth/">Recovering From Birth</a></li>
 	<li id="menu-item-846" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-96 menu-item-846"><a href="http://www.beingtheparent.com/category/the-baby-is-here/activities-and-fun-time/">Activities and Fun Time</a></li>
+	<li id="menu-item-11622" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-1177 menu-item-11622"><a href="http://www.beingtheparent.com/category/the-baby-is-here/women-wellness/">Women Wellness</a></li>
 </ul>
 </li>
 <li id="menu-item-6962" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-cat-6 menu-item-6962"><a href="http://www.beingtheparent.com/category/the-toddler-nest/">Toddlers</a>
@@ -262,6 +325,14 @@ position: static;
 			<article id="post-702" class="post-702 page type-page status-publish">
 
 			
+				<header class="post-header">
+
+				
+					<h1 class="main-heading">
+						Privacy Policy					</h1>
+				</header><!-- .post-header -->
+
+			
 			<div class="post-content">
 
 				<p><strong>Mykids Ventures Private Limited </strong>(“Company/Us/We/Our”) is committed to protecting your privacy and ensuring you have a positive experience on Our website, <a href="http://www.beingtheparent.com/">www.beingtheparent.com</a> (“Website/ Site”). This policy (“Policy”) outlines Our personal information handling practices for both online and offline data. If you give us personal information, We will treat it according to this Policy. By clicking “Sign Up” while registering on Our Website you (‘User/ You/ Your’) agree to be bound to the terms of this Policy and Terms of Services.</p>
@@ -286,7 +357,7 @@ position: static;
 </ul>
 <p>As a web based platform, We enable You to register for the services and create an account on Our Website. Your settings and control is completely monitored by You and We will only abide by Your settings.</p>
 <p>&nbsp;</p>
-<p>On registration You are automatically eligible for all promotional offers and newsletters published by Us. We will provide You the ability to unsubscribe to the above if You choose so. Without Your consent, We will not share or sell any personal information with third parties. Your personal information will be used as per this Policy.</p>
+<p>On registration You are automatically eligible for all promotional offers and newsletters published by Us and our partners, We will provide You the ability to unsubscribe to the above if You choose so. You may be contacted by us or our partners for promotional activities. Your personal information will be used as per this Policy.</p>
 <p>&nbsp;</p>
 <ul>
 <li><strong>Your Content:</strong></li>
@@ -322,7 +393,7 @@ position: static;
 <ul>
 <li><strong>Sharing Your information with third party service provider:</strong></li>
 </ul>
-<p>We do not share any personally identifiable information with any of Our third party service providers or merchants, unless permitted by You. Any add-on services that we provide do not capture Your personal information and is done purely anonymously. Your usage trends will be used for internal business development purposes and to better the service provided to You.</p>
+<p>We may&nbsp;share &nbsp;your information with any of Our third party service providers or merchants or partners. Any add-on services that we provide does not capture Your personal information and is done purely anonymously. Your usage trends will be used for internal business development purposes and to better the service provided to You.</p>
 <p>&nbsp;</p>
 <ul>
 <li><strong>Communication and Update</strong></li>
@@ -343,9 +414,7 @@ position: static;
 <li><strong>Other uses:</strong></li>
 </ul>
 <ul>
-<li>Providing Our Services to You, including the display of customized content and advertising;Auditing, research and analysis in order to maintain, protect and improve Our services;
-<p>Ensuring the technical functioning of Our network; and</p>
-<p>Developing new services.</p></li>
+<li>Providing Our Services to You, including the display of customized content and advertising;Auditing, research and analysis in order to maintain, protect and improve Our services;Ensuring the technical functioning of Our network; andDeveloping new services.</li>
 </ul>
 <p>&nbsp;</p>
 <ul>
@@ -385,10 +454,7 @@ position: static;
 <li><strong>Users Obligations</strong></li>
 </ul>
 <ul>
-<li>
-<p>You must, at all times, respect the terms and conditions of the then-current Policy and the Terms of Service. This includes respecting all intellectual property rights which may belong to third parties.You must not create or otherwise disseminate any information which may be deemed to be injurious, violent, offensive, racist or xenophobic or which may otherwise violate the purpose and spirit of Company and its community of Users.</p>
-<p>You must not provide information to Us and /or other Users which you believe might be injurious or detrimental to Your person, professional or social status.</p>
-</li>
+<li>You must, at all times, respect the terms and conditions of the then-current Policy and the Terms of Service. This includes respecting all intellectual property rights which may belong to third parties.You must not create or otherwise disseminate any information which may be deemed to be injurious, violent, offensive, racist or xenophobic or which may otherwise violate the purpose and spirit of Company and its community of Users.You must not provide information to Us and /or other Users which you believe might be injurious or detrimental to Your person, professional or social status.</li>
 </ul>
 <p>&nbsp;</p>
 <p>Any violation of these guidelines may lead to the restriction, suspension or termination of Your account by Us, as We take these principles seriously and consider them to be the basis on which Our Users adhere to Our Site and the services which We offer</p>
@@ -432,19 +498,19 @@ position: static;
 			
 							<li>
 				
-					<a href="http://www.beingtheparent.com/head-injuries-in-children-warning-signs-and-first-aid/"><img width="110" height="96" src="http://www.beingtheparent.com/wp-content/uploads/2015/04/Head-injury-in-children-110x96.jpg" class="attachment-post-thumbnail wp-post-image" alt="Head injury in children" title="Head Injuries In Children – Warning Signs And First Aid">					
+					<a href="http://www.beingtheparent.com/8-important-parenting-tips-for-a-single-child/"><img width="110" height="96" src="http://www.beingtheparent.com/wp-content/uploads/2015/10/Single-child-parenting-110x96.jpg" class="attachment-post-thumbnail wp-post-image" alt="Single child parenting" title="8 Important Parenting Tips For A Single Child">					
 																					
 					</a>
 					
 					<div class="content">
 					
-						<time datetime="2015-05-04T11:30:17+00:00">May 4, 2015 </time>
+						<time datetime=""> </time>
 					
-						<span class="comments"><a href="http://www.beingtheparent.com/head-injuries-in-children-warning-signs-and-first-aid/#comments"><i class="fa fa-comments-o"></i>
+						<span class="comments"><a href="http://www.beingtheparent.com/8-important-parenting-tips-for-a-single-child/#comments"><i class="fa fa-comments-o"></i>
 							0</a></span>
 					
-						<a href="http://www.beingtheparent.com/head-injuries-in-children-warning-signs-and-first-aid/" title="Head Injuries In Children – Warning Signs And First Aid">
-							Head Injuries In Children – Warning Signs And First Aid</a>
+						<a href="http://www.beingtheparent.com/8-important-parenting-tips-for-a-single-child/" title="8 Important Parenting Tips For A Single Child">
+							8 Important Parenting Tips For A Single Child</a>
 							
 																																				
 					</div>
@@ -452,19 +518,19 @@ position: static;
 				</li>
 							<li>
 				
-					<a href="http://www.beingtheparent.com/iron-deficiency-anemia-in-toddlers/"><img width="110" height="96" src="http://www.beingtheparent.com/wp-content/uploads/2015/05/Laughing-Toddler-110x96.jpg" class="attachment-post-thumbnail wp-post-image" alt="Laughing Toddler" title="Iron Deficiency Anemia In Toddlers">					
+					<a href="http://www.beingtheparent.com/how-often-do-newborns-1-3-months-need-to-be-fed/"><img width="110" height="96" src="http://www.beingtheparent.com/wp-content/uploads/2015/11/feeding-newborn-110x96.jpg" class="attachment-post-thumbnail wp-post-image" alt="feeding newborn" title="How Often Do Newborns (1-3 Months) Need To Be Fed?">					
 																					
 					</a>
 					
 					<div class="content">
 					
-						<time datetime="2015-05-03T11:30:40+00:00">May 3, 2015 </time>
+						<time datetime=""> </time>
 					
-						<span class="comments"><a href="http://www.beingtheparent.com/iron-deficiency-anemia-in-toddlers/#comments"><i class="fa fa-comments-o"></i>
+						<span class="comments"><a href="http://www.beingtheparent.com/how-often-do-newborns-1-3-months-need-to-be-fed/#comments"><i class="fa fa-comments-o"></i>
 							0</a></span>
 					
-						<a href="http://www.beingtheparent.com/iron-deficiency-anemia-in-toddlers/" title="Iron Deficiency Anemia In Toddlers">
-							Iron Deficiency Anemia In Toddlers</a>
+						<a href="http://www.beingtheparent.com/how-often-do-newborns-1-3-months-need-to-be-fed/" title="How Often Do Newborns (1-3 Months) Need To Be Fed?">
+							How Often Do Newborns (1-3 Months) Need To Be Fed?</a>
 							
 																																				
 					</div>
@@ -472,19 +538,19 @@ position: static;
 				</li>
 							<li>
 				
-					<a href="http://www.beingtheparent.com/baby-constipation-signs-causes-and-remedies/"><img width="110" height="96" src="http://www.beingtheparent.com/wp-content/uploads/2015/05/Constipated-baby-110x96.jpg" class="attachment-post-thumbnail wp-post-image" alt="Constipated baby" title="Baby Constipation – Signs, Causes, and Remedies">					
+					<a href="http://www.beingtheparent.com/effects-of-delaying-pre-school-entry/"><img width="110" height="96" src="http://www.beingtheparent.com/wp-content/uploads/2015/10/Preschool-activity-110x96.jpg" class="attachment-post-thumbnail wp-post-image" alt="Preschool activity" title="Effects Of Delaying Pre-school Entry">					
 																					
 					</a>
 					
 					<div class="content">
 					
-						<time datetime="2015-05-02T11:30:46+00:00">May 2, 2015 </time>
+						<time datetime=""> </time>
 					
-						<span class="comments"><a href="http://www.beingtheparent.com/baby-constipation-signs-causes-and-remedies/#comments"><i class="fa fa-comments-o"></i>
+						<span class="comments"><a href="http://www.beingtheparent.com/effects-of-delaying-pre-school-entry/#comments"><i class="fa fa-comments-o"></i>
 							0</a></span>
 					
-						<a href="http://www.beingtheparent.com/baby-constipation-signs-causes-and-remedies/" title="Baby Constipation – Signs, Causes, and Remedies">
-							Baby Constipation – Signs, Causes, and Remedies</a>
+						<a href="http://www.beingtheparent.com/effects-of-delaying-pre-school-entry/" title="Effects Of Delaying Pre-school Entry">
+							Effects Of Delaying Pre-school Entry</a>
 							
 																																				
 					</div>
@@ -492,19 +558,19 @@ position: static;
 				</li>
 							<li>
 				
-					<a href="http://www.beingtheparent.com/beware-my-baby-bites-biting-in-toddlers/"><img width="110" height="96" src="http://www.beingtheparent.com/wp-content/uploads/2015/04/Toddler-bites-a-friend-110x96.jpg" class="attachment-post-thumbnail wp-post-image" alt="Toddler bites a friend" title="“Beware! My Baby Bites” – Biting in Toddlers">					
+					<a href="http://www.beingtheparent.com/chicken-pox-during-pregnancy-risks-and-complications/"><img width="110" height="96" src="http://www.beingtheparent.com/wp-content/uploads/2015/10/Chicken-pox-during-pregnant-110x96.jpg" class="attachment-post-thumbnail wp-post-image" alt="Chicken pox during pregnant" title="Chicken Pox During Pregnancy – Risks And Complications">					
 																					
 					</a>
 					
 					<div class="content">
 					
-						<time datetime="2015-05-01T11:30:28+00:00">May 1, 2015 </time>
+						<time datetime=""> </time>
 					
-						<span class="comments"><a href="http://www.beingtheparent.com/beware-my-baby-bites-biting-in-toddlers/#comments"><i class="fa fa-comments-o"></i>
+						<span class="comments"><a href="http://www.beingtheparent.com/chicken-pox-during-pregnancy-risks-and-complications/#comments"><i class="fa fa-comments-o"></i>
 							0</a></span>
 					
-						<a href="http://www.beingtheparent.com/beware-my-baby-bites-biting-in-toddlers/" title="“Beware! My Baby Bites” – Biting in Toddlers">
-							“Beware! My Baby Bites” – Biting in Toddlers</a>
+						<a href="http://www.beingtheparent.com/chicken-pox-during-pregnancy-risks-and-complications/" title="Chicken Pox During Pregnancy – Risks And Complications">
+							Chicken Pox During Pregnancy – Risks And Complications</a>
 							
 																																				
 					</div>
@@ -515,252 +581,270 @@ position: static;
 			</li>
 <li id="text-19" class="widget widget_text">			<div class="textwidget"><a href="http://thekidscircle.com/?src=btp1304" target="_blank"><img src="http://www.beingtheparent.com/wp-content/uploads/2015/04/thekidscircle.jpg"></a></div>
 		</li>
-<li id="newsletterwidget-2" class="widget widget_newsletterwidget"><h3 class="widgettitle">Your Weekly Pregnancy Calendar</h3><script type="text/javascript">
-//<![CDATA[
-if (typeof newsletter_check !== "function") {
-window.newsletter_check = function (f) {
-    var re = /^([a-zA-Z0-9_\.\-\+])+\@(([a-zA-Z0-9\-]{1,})+\.)+([a-zA-Z0-9]{2,})+$/;
-    if (!re.test(f.elements["ne"].value)) {
-        alert("The email is not correct");
-        return false;
-    }
-    if (f.elements["ny"] && !f.elements["ny"].checked) {
-        alert("You must accept the privacy statement");
-        return false;
-    }
-    return true;
-}
-}
-//]]>
-
-</script>
-<style>
-.tools {
-	display: none;
-position: absolute;
-background-color: #F1F1F1;
-color: #000;
-left: 48%;
-border-width: 1px;
-border-style: groove;
-padding: 3px;
-	
-	}
-	
-	.tools:after {
-	content: '';
-height: 9px;
-width: 10px;
-left: 21%;
-top: 44%;
-position: absolute;
-background-color: #F1F1F1;
-transform: rotate(45deg);
--webkit-transform: rotate(45deg);
-margin-top: -15px;
-border-top-style: groove;
-border-left-style: groove;
-	}	
-</style>
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
-
-<!-- Latest compiled and minified CSS 
-<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">-->
-
-<!-- Optional theme 
-<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">-->
-
-<!-- Latest compiled and minified JavaScript 
-<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>-->
-<script type="text/javascript">
-          var duedate1 ;
-        $(document).ready(function () {
-		var wval;
-            $("#weekwidget li").click(function () {
-			
-                wval = $(this).index(); 
-				console.log(typeof wval);// gets text contents of clicked li
-				console.log(wval);
-				$('#weekval').text(parseInt(wval)+2);
-				$("#weekVal").val(parseInt(wval)+2);
-				
-				if (wval == 0){ wval1 = 'nd'; }
-			    else if (wval == 1){ wval1 = 'rd'; }
-				else { wval1 = 'th'; }
-                 // gets text contents of clicked li				
-				 $("#weekVal").val(parseInt(wval)+2);
-				 
-				$('#sufix').text(wval1);
-            });
-			          $("#due").change(function(){
-                      
-						   $("#duedate").val($("#due").val());
-						   
-						var duedate1 =	 $("#due").val();
-							   //$("#frmnewsletter").submit();
-						   //document.forms['frmnewsletter'].submit();
-						
-		var fullDate = new Date()
-	
-		  
-		//convert month to 2 digits
-		var twoDigitMonth = ((fullDate.getMonth().length+1) === 1)? (fullDate.getMonth()+1) : '0' + (fullDate.getMonth()+1);
-		  
-		var currentDate = fullDate.getFullYear() + "-" + twoDigitMonth + "-" + fullDate.getDate();
-		
-		
-		
-		var intervals = {
-	s : 1000,
-	m : 60000,
-	h : 3600000,
-	d : 86400000,
-	w : 604800000
-}
-		 var d1 = Date.parse(duedate1);
-	
-	var d2 = Date.parse(currentDate);
-		
-				//console.log((d1 - d2) / 604800000);
-	var diff = (d1 - d2) / 604800000; 
-	
-	
-	var x=Math.ceil(diff)  ;
-	
-	var calweek=40-x;
-	//alert(x);
-	//alert(calweek);
-	$("#weekVal").val(calweek);
-	
-		});
-        
-		$("#newsltrsubmit").click(function (e) {
-		e.preventDefault;
-		
-		 var due = $('#due').val();
-		 if(!wval){
-		if(due.length <= 1)
-		{
-		
-		$("#date .tools").fadeIn("slow");
-		
-		console.log("dd");
-		}
-		else
-		{
-		$("#date .tools").fadeOut("slow");
-		console.log("yy");
-		}
-}
-		})
-		
-		});
-		
-		
-	
-	
-
-</script>
-
-
-
-<!-- Nav tabs -->
-<section class="week-sub-gadget">
-<ul class="nav nav-tabs gadget-tab" id="weekwidget">
-  <li id="nd"><a href="#2" data-toggle="tab">2<span>nd</span></a></li>
-  <li id="rd"><a href="#3" data-toggle="tab">3<span>rd</span></a></li>
-  <li class="active"><a href="#4" data-toggle="tab">4<span>th</span></a></li>
-  <li><a href="#5" data-toggle="tab">5<span>th</span></a></li>
-  <li><a href="#6" data-toggle="tab">6<span>th</span></a></li>
-  <li><a href="#7" data-toggle="tab">7<span>th</span></a></li>
-  <li><a href="#8" data-toggle="tab">8<span>th</span></a></li>
-  <li><a href="#9" data-toggle="tab">9<span>th</span></a></li>
-  <li><a href="#10" data-toggle="tab">10<span>th</span></a></li>
-  <li><a href="#11" data-toggle="tab">11<span>th</span></a></li>
-  <li><a href="#12" data-toggle="tab">12<span>th</span></a></li>
-  <li><a href="#13" data-toggle="tab">13<span>th</span></a></li>
-  <li><a href="#14" data-toggle="tab">14<span>th</span></a></li>
-  <li><a href="#15" data-toggle="tab">15<span>th</span></a></li>
-  <li><a href="#16" data-toggle="tab">16<span>th</span></a></li>
-  <li><a href="#17" data-toggle="tab">17<span>th</span></a></li>
-  <li><a href="#18" data-toggle="tab">18<span>th</span></a></li>
-  <li><a href="#19" data-toggle="tab">19<span>th</span></a></li>
-  <li><a href="#20" data-toggle="tab">20<span>th</span></a></li>
-  <li><a href="#21" data-toggle="tab">21<span>th</span></a></li>
-  <li><a href="#22" data-toggle="tab">22<span>th</span></a></li>
-  <li><a href="#23" data-toggle="tab">23<span>th</span></a></li>
-  <li><a href="#24" data-toggle="tab">24<span>th</span></a></li>
-  <li><a href="#25" data-toggle="tab">25<span>th</span></a></li>
-  <li><a href="#26" data-toggle="tab">26<span>th</span></a></li>
-  <li><a href="#27" data-toggle="tab">27<span>th</span></a></li>
-  <li><a href="#28" data-toggle="tab">28<span>th</span></a></li>
-  <li><a href="#29" data-toggle="tab">29<span>th</span></a></li>
-  <li><a href="#30" data-toggle="tab">30<span>th</span></a></li>
-  <li><a href="#31" data-toggle="tab">31<span>th</span></a></li>
-  <li><a href="#32" data-toggle="tab">32<span>th</span></a></li>
-  <li><a href="#33" data-toggle="tab">33<span>th</span></a></li>
-  <li><a href="#34" data-toggle="tab">34<span>th</span></a></li>
-  <li><a href="#35" data-toggle="tab">35<span>th</span></a></li>
-  <li><a href="#36" data-toggle="tab">36<span>th</span></a></li>
-  <li><a href="#37" data-toggle="tab">37<span>th</span></a></li>
-  <li><a href="#38" data-toggle="tab">38<span>th</span></a></li>
-  <li><a href="#39" data-toggle="tab">39<span>th</span></a></li>
-  <li><a href="#40" data-toggle="tab">40<span>th</span></a></li>
-</ul>
-
-<!-- Tab panes -->
-<div class="tab-content gadget-content">
-  <div class="tab-pane active">
-  <h1><span id="weekval">4</span><b id="sufix">th</b></h1>
-  <h4>week</h4>
-  </div>
-  <b class="free">Choose your week or your due date </b><br>
-<div id="date">
-<br><input type="date" name="date" placeholder="" size="30" class="newsletter-datename" id="due">
-<div class="tools">Please enter your  date </div>
-</div>
-</div>
-</section>
-
-<div class="newsletter newsletter-subscription">
-<form method="post" action="http://www.beingtheparent.com/wp-content/plugins/newsletter/do/subscribe.php" onsubmit="return newsletter_check(this)" id="frmnewsletter">
-
-<span id="weeks"></span><table cellspacing="0" cellpadding="3" border="0">
-<!-- first name -->
-<tbody><tr>
-	
-	<td style="background:#f1f1f1"><input class="newsletter-firstname" type="text" name="nn" size="30" required="" placeholder="Enter your name"></td>
-</tr>
-<!-- email -->
-<tr>
-	<!--<th>Email</th>-->
-	<td align="left" style="background:#f1f1f1"><input class="newsletter-email" type="email" name="ne" size="30" required="" placeholder="Enter your Email Id"></td>
-</tr>
-
-<tr>
-	<!--<th>Week</th>-->
-	<td>
-		<input class="newsletter-profile newsletter-profile-1" type="hidden" id="weekVal" size="30" name="np1">
-	</td>
-</tr>
-
-<tr>
-	<!-- <th>Date</th>-->
-	<td>
-		<input class="newsletter-profile newsletter-profile-2" type="hidden" size="30" id="duedate" name="np2">
-	</td>
-</tr>
-
-<tr>
-	<td colspan="2" class="newsletter-td-submit" style="background:#f1f1f1">
-		<input class="newsletter-submit" type="submit" value="Subscribe NOW!! " id="newsltrsubmit"><span class="free">Free!</span>
-      
-	</td>
-</tr>
-
-</tbody></table>
-<input type="hidden" name="nr" value="widget"></form>
-</div></li>
+<li id="text-20" class="widget widget_text"><h3 class="widgettitle">YOUR WEEKLY PREGNANCY CALENDAR</h3>			<div class="textwidget"><div data-uniq="5638390f1620d" class="uniq-5638390f1620d formcraft-css form-live align-left"><div class="form-logic">[[[["field5","contains","Pregnant"]],[["show_fields","field7"]],"and"],[[["field6","contains","Parent"]],[["show_fields","field10,field13,field9,field11"]],"and"],[[["field11","equal_to","2 Children"]],[["show_fields","field15,field16,field14"]],"and"],[[["field11","equal_to","3 Children"]],[["show_fields","field15,field16,field14,field12,field8,field17"]],"and"],[[["field11","equal_to","4 Children"]],[["show_fields","field15,field16,field14,field8,field17,field12,field18,field22,field23"]],"and"],[[["field11","equal_to","5 Children"]],[["show_fields","field15,field14,field16,field12,field8,field17,field18,field22,field23,field21,field20,field19"]],"and"],[[["field6","contains_not","Parent"]],[["hide_fields","field11,field10,field13,field9,field15,field16,field14,field12,field8,field17,field18,field22,field23,field21,field20,field19"]],"and"],[[["field6","contains_not","Parent"]],[["set_value",null,"1 Child",null,"field11"]],"and"]]</div><div class="fc-pagination-cover fc-pagination-1">
+						<div class="fc-pagination" style="width: px">
+							<div class="pagination-trigger " data-index="0">
+								<span class="page-number"><span>1</span></span>
+								<span class="page-name ">Step 1</span>
+								
+							</div>
+						</div>
+					</div>
+					
+					<style scoped="scoped">
+						.formcraft-css .fc-form.fc-form-1 .form-element .submit-cover .submit-button,
+						.formcraft-css .fc-form.fc-form-1 .form-element .fileupload-cover .button-file,
+						.formcraft-css .fc-form.fc-form-1 .form-element .field-cover .button,
+						#ui-datepicker-div.fc-datepicker .ui-datepicker-header,
+						.formcraft-css .fc-form .stripe-amount-show
+						{
+							background-color: #4488ee;
+							color: #fff;
+						}
+						.formcraft-css .fc-form.fc-form-1 .form-element .slider-cover .ui-slider-range
+						{
+							background: #4488ee;
+						}
+						#ui-datepicker-div.fc-datepicker .ui-datepicker-header,
+						html .formcraft-css .fc-form .field-cover>div.full hr
+						{
+							border-color: #3b77d1;
+						}
+						#ui-datepicker-div.fc-datepicker .ui-datepicker-prev:hover,
+						#ui-datepicker-div.fc-datepicker .ui-datepicker-next:hover,
+						#ui-datepicker-div.fc-datepicker select.ui-datepicker-month:hover,
+						#ui-datepicker-div.fc-datepicker select.ui-datepicker-year:hover
+						{
+							background-color: #3b77d1;
+						}
+						.formcraft-css .fc-pagination>div.active .page-number,
+						.formcraft-css .form-cover-builder .fc-pagination>div:first-child .page-number
+						{
+							background-color: #4488ee;
+							border-color: #3b77d1;
+							color: #fff;
+						}
+						#ui-datepicker-div.fc-datepicker table.ui-datepicker-calendar th,
+						#ui-datepicker-div.fc-datepicker table.ui-datepicker-calendar td.ui-datepicker-today a,
+						.formcraft-css .fc-form.fc-form-1 .form-element .star-cover label,
+						html .formcraft-css .fc-form.label-floating .form-element .field-cover.has-focus>span,
+						.formcraft-css .fc-form.fc-form-1 .form-element .customText-cover a,
+						html .formcraft-css .fc-form .form-element .slider-cover .range-max,
+						html .formcraft-css .fc-form .form-element .slider-cover .range-min,
+						.formcraft-css .prev-next>div span:hover
+						{
+							color: #4488ee;
+						}
+						.formcraft-css .fc-form.fc-form-1 .form-element .customText-cover a:hover
+						{
+							color: #3b77d1;
+						}
+						html .formcraft-css .fc-form.label-floating .form-element .field-cover > span
+						{
+							color: #545454;
+						}
+						html .formcraft-css .fc-form.label-floating .form-element .field-cover input[type="text"],
+						html .formcraft-css .fc-form.label-floating .form-element .field-cover input[type="password"],
+						html .formcraft-css .fc-form.label-floating .form-element .field-cover input[type="tel"],
+						html .formcraft-css .fc-form.label-floating .form-element .field-cover textarea,
+						html .formcraft-css .fc-form.label-floating .form-element .field-cover select,
+						html .formcraft-css .fc-form.label-floating .form-element .field-cover .time-fields-cover
+						{
+							border-bottom-color: #545454;
+						}
+						.formcraft-css .fc-form.fc-form-1 .form-element .star-cover label .star			
+						{
+							text-shadow: 0px 1px 0px #3b77d1;
+						}
+						.formcraft-css .fc-form.fc-form-1 .form-element .slider-cover .ui-slider-range
+						{
+							box-shadow: 0px 1px 1px #3b77d1 inset;
+						}
+						.formcraft-css .fc-form.fc-form-1 .form-element .fileupload-cover .button-file,
+						.formcraft-css .fc-form.fc-form-1 .form-element .stripe-amount-show
+						{
+							border-color: #3b77d1;
+						}
+						.formcraft-css .fc-form .stripe-cover.field-cover div.stripe-amount-show::before
+						{
+							border-top-color: #3b77d1;
+						}
+						.formcraft-css .fc-form .stripe-cover.field-cover div.stripe-amount-show::after
+						{
+							border-right-color: #4488ee;
+						}
+						.formcraft-css .fc-form.fc-form-1 .form-element .stripe-amount-show,
+						.formcraft-css .fc-form.fc-form-1 .form-element .submit-cover .submit-button .text,
+						.formcraft-css .fc-form.fc-form-1 .form-element .field-cover .button
+						{
+							text-shadow: 1px 0px 3px #3b77d1;
+						}
+						.formcraft-css .fc-form.fc-form-1 input[type="checkbox"]:checked,
+						.formcraft-css .fc-form.fc-form-1 input[type="radio"]:checked
+						{
+							border-color: #4488ee;
+							background-color: #4488ee;						
+						}
+						.formcraft-css .fc-form.fc-form-1 input[type="checkbox"]:hover,
+						.formcraft-css .fc-form.fc-form-1 input[type="radio"]:hover,
+						.formcraft-css .fc-form.fc-form-1 input[type="checkbox"]:focus,
+						.formcraft-css .fc-form.fc-form-1 input[type="radio"]:focus,
+						.formcraft-css .fc-form.fc-form-1 label:hover>input[type="checkbox"],
+						.formcraft-css .fc-form.fc-form-1 label:hover>input[type="radio"]
+						{
+							border-color: #4488ee;
+						}
+						.formcraft-css .fc-form.fc-form-1 .form-element .form-element-html input[type="text"]:focus,
+						.formcraft-css .fc-form.fc-form-1 .form-element .form-element-html input[type="password"]:focus,
+						.formcraft-css .fc-form.fc-form-1 .form-element .form-element-html input[type="tel"]:focus,
+						.formcraft-css .fc-form.fc-form-1 .form-element .form-element-html input[type="color"]:focus,
+						.formcraft-css .fc-form.fc-form-1 .form-element .form-element-html input[type="date"]:focus,
+						.formcraft-css .fc-form.fc-form-1 .form-element .form-element-html input[type="datetime"]:focus,
+						.formcraft-css .fc-form.fc-form-1 .form-element .form-element-html input[type="datetime-local"]:focus,
+						.formcraft-css .fc-form.fc-form-1 .form-element .form-element-html input[type="email"]:focus,
+						.formcraft-css .fc-form.fc-form-1 .form-element .form-element-html input[type="month"]:focus,
+						.formcraft-css .fc-form.fc-form-1 .form-element .form-element-html input[type="number"]:focus,
+						.formcraft-css .fc-form.fc-form-1 .form-element .form-element-html input[type="tel"]:focus,
+						.formcraft-css .fc-form.fc-form-1 .form-element .form-element-html input[type="password"]:focus,
+						.formcraft-css .fc-form.fc-form-1 .form-element .form-element-html input[type="search"]:focus,
+						.formcraft-css .fc-form.fc-form-1 .form-element .form-element-html input[type="tel"]:focus,
+						.formcraft-css .fc-form.fc-form-1 .form-element .form-element-html input[type="text"]:focus,
+						.formcraft-css .fc-form.fc-form-1 .form-element .form-element-html input[type="time"]:focus,
+						.formcraft-css .fc-form.fc-form-1 .form-element .form-element-html input[type="url"]:focus,
+						.formcraft-css .fc-form.fc-form-1 .form-element .form-element-html input[type="week"]:focus,
+						.formcraft-css .fc-form.fc-form-1 .form-element .form-element-html textarea:focus,
+						.formcraft-css .fc-form.fc-form-1 .form-element .form-element-html select:focus
+						{
+							border-color: #4488ee;
+						}
+						.formcraft-css .fc-form.fc-form-1						{
+							font-family: inherit;
+						}
+						html .formcraft-css .fc-form.fc-form-1 .form-element input[type="text"],
+						html .formcraft-css .fc-form.fc-form-1 .form-element input[type="password"],
+						html .formcraft-css .fc-form.fc-form-1 .form-element input[type="color"],
+						html .formcraft-css .fc-form.fc-form-1 .form-element input[type="date"],
+						html .formcraft-css .fc-form.fc-form-1 .form-element input[type="datetime"],
+						html .formcraft-css .fc-form.fc-form-1 .form-element input[type="datetime-local"],
+						html .formcraft-css .fc-form.fc-form-1 .form-element input[type="email"],
+						html .formcraft-css .fc-form.fc-form-1 .form-element input[type="month"],
+						html .formcraft-css .fc-form.fc-form-1 .form-element input[type="number"],
+						html .formcraft-css .fc-form.fc-form-1 .form-element input[type="search"],
+						html .formcraft-css .fc-form.fc-form-1 .form-element input[type="tel"],
+						html .formcraft-css .fc-form.fc-form-1 .form-element input[type="tel"],
+						html .formcraft-css .fc-form.fc-form-1 .form-element input[type="time"],
+						html .formcraft-css .fc-form.fc-form-1 .form-element input[type="url"],
+						html .formcraft-css .fc-form.fc-form-1 .form-element input[type="week"],
+						html .formcraft-css .fc-form.fc-form-1 .form-element select,
+						html .formcraft-css .fc-form.fc-form-1 .form-element textarea
+						{
+							background-color: #fafafa;
+						}
+						html .formcraft-css .fc-form.fc-form-1 .form-element .error
+						{
+							background: url(http://www.beingtheparent.com/wp-content/plugins/formcraft3/views/../assets/images/backgrounds/fibre.png);
+						}
+						@media (max-width : 480px) {
+							html .dedicated-page,
+							html .dedicated-page .formcraft-css .fc-pagination > div.active
+							{
+								background: url(http://www.beingtheparent.com/wp-content/plugins/formcraft3/views/../assets/images/backgrounds/fibre.png);
+							}
+						}
+					</style>
+					<div class="form-cover">
+						<form data-thousand="" data-decimal="." data-delay="" data-id="1" class="fc-form fc-form-1 align- save-form- dont-submit-hidden- label-placeholder frame-visible spin-false remove-asterisk-false icons-hide-false field-alignment-left  " style="width: px; color: #545454; font-size: 95%; background: url(http://www.beingtheparent.com/wp-content/plugins/formcraft3/views/../assets/images/backgrounds/fibre.png)">
+							<div class="form-page form-page-0" data-index="0">
+								
+								<div class="form-page-content ng-pristine   ng-isolate-scope ">
+									<!-- ngRepeat: element in page track by element.identifier --><div class=" form-element form-element-field26 form-element-0 default-false form-element-type-heading is-required-false odd -handle options-false index-false" data-identifier="field26" data-index="0" style="width: 100%">
+										<div class="form-element-html"><div><div class="heading-cover field-cover "><div style="text-align: center; font-size: 0.9999999999999997em; padding-top: ; padding-bottom: ; color: #1e73be" class="bold-false"><span>Please provide your details here to get your weekly pregnancy  calendar in your inbox..</span></div><input data-field-id="field26" name="field26[]" value="Please provide your details here to get your weekly pregnancy  calendar in your inbox.." type="hidden"></div></div></div>
+										
+									</div><!-- end ngRepeat: element in page track by element.identifier --><div class=" even form-element form-element-field1 options-false index-false form-element-1 default-false form-element-type-oneLineText is-required-true -handle" data-identifier="field1" data-index="1" style="width: 100%">
+										<div class="form-element-html"><div><div class="oneLineText-cover field-cover "><span class="sub-label-true"><span class="main-label"><span>Name</span></span><span class="sub-label"></span></span><div><span class="error"></span><input data-original-title="" placeholder="Name" data-field-id="field1" name="field1[]" data-min-char="" data-max-char="" data-val-type="alphabets" data-regexp="" data-is-required="true" data-allow-spaces="true" class="validation-lenient" data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="focus" data-html="true" data-input-mask="" data-mask-placeholder="" type="text"><i class="icon-user"></i></div></div></div></div>
+										
+									</div><!-- end ngRepeat: element in page track by element.identifier --><div class=" form-element form-element-field2 options-false index-false form-element-2 default-false form-element-type-email is-required-true odd -handle" data-identifier="field2" data-index="2" style="width: 100%">
+										<div class="form-element-html"><div><div class="email-cover field-cover "><span class="sub-label-false"><span class="main-label"><span>Email</span></span><span class="sub-label"></span></span><div><span class="error"></span><input data-original-title="" placeholder="Email" data-field-id="field2" data-val-type="email" data-is-required="true" name="field2" class="validation-lenient" data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="focus" data-html="true" type="text"><i class="icon-mail"></i></div></div></div></div>
+										
+									</div><!-- end ngRepeat: element in page track by element.identifier --><div class=" even form-element form-element-field3 options-false index-false form-element-3 default-false form-element-type-oneLineText is-required-true -handle" data-identifier="field3" data-index="3" style="width: 100%">
+										<div class="form-element-html"><div><div class="oneLineText-cover field-cover "><span class="sub-label-true"><span class="main-label"><span>Phone No</span></span><span class="sub-label"></span></span><div><span class="error"></span><input data-original-title="" placeholder="Phone No" data-field-id="field3" name="field3[]" data-min-char="10" data-max-char="12" data-val-type="" data-regexp="" data-is-required="true" data-allow-spaces="" class="validation-lenient" data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="focus" data-html="true" data-input-mask="" data-mask-placeholder="" type="text"><i class="icon-phone"></i></div></div></div></div>
+										
+									</div><!-- end ngRepeat: element in page track by element.identifier --><div class=" form-element form-element-field4 options-false index-false form-element-4 default-false form-element-type-oneLineText is-required-true odd -handle" data-identifier="field4" data-index="4" style="width: 100%">
+										<div class="form-element-html"><div><div class="oneLineText-cover field-cover "><span class="sub-label-true"><span class="main-label"><span>Pin Code</span></span><span class="sub-label"></span></span><div><span class="error"></span><input data-original-title="" placeholder="Pin Code" data-field-id="field4" name="field4[]" data-min-char="6" data-max-char="6" data-val-type="numbers" data-regexp="" data-is-required="true" data-allow-spaces="false" class="validation-lenient" data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="focus" data-html="true" data-input-mask="" data-mask-placeholder="" type="text"><i class="icon-globe"></i></div></div></div></div>
+										
+									</div><!-- end ngRepeat: element in page track by element.identifier --><div class=" even form-element form-element-field25 options-false index-false form-element-5 default-false form-element-type-heading is-required-false -handle" data-identifier="field25" data-index="5" style="width: 100%">
+										<div class="form-element-html"><div><div class="heading-cover field-cover "><div style="text-align: center; font-size: 0.9999999999999997em; padding-top: ; padding-bottom: ; color: #1e73be" class="bold-"><span>Stage of Parenting</span></div><input data-field-id="field25" name="field25[]" value="Stage of Parenting" type="hidden"></div></div></div>
+										
+									</div><!-- end ngRepeat: element in page track by element.identifier --><div class=" form-element form-element-field5 options-false index-false form-element-6 default-false form-element-type-checkbox is-required-false odd -handle" data-identifier="field5" data-index="6" style="width: 65%">
+										<div class="form-element-html"><div><div class="images-false checkbox-cover field-cover"><span class="sub-label-false"><span class="main-label"></span><span class="sub-label"></span></span><div data-original-title="" data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="hover" data-html="true"><span class="error"></span><!-- ngRepeat: opt in element.elementDefaults.options_list_show --><label style="width:"><img><input data-field-id="field5" data-is-required="false" name="field5[]" value="Trying to Conceive" class="validation-lenient" type="radio"><span><span>Trying to Conceive</span></span></label><!-- end ngRepeat: opt in element.elementDefaults.options_list_show --><label style="width:"><img><input data-field-id="field5" data-is-required="false" name="field5[]" value="Pregnant" class="validation-lenient" type="radio"><span><span>Pregnant</span></span></label><!-- end ngRepeat: opt in element.elementDefaults.options_list_show --></div></div></div></div>
+										
+									</div><!-- end ngRepeat: element in page track by element.identifier --><div class=" even form-element form-element-field6 options-false index-false form-element-7 default-false form-element-type-checkbox is-required-false -handle" data-identifier="field6" data-index="7" style="width: 35%">
+										<div class="form-element-html"><div><div class="images- checkbox-cover field-cover"><span class="sub-label-false"><span class="main-label"></span><span class="sub-label"></span></span><div data-original-title="" data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="hover" data-html="true"><span class="error"></span><!-- ngRepeat: opt in element.elementDefaults.options_list_show --><label style="width:"><img><input data-field-id="field6" data-is-required="false" name="field6[]" value="Parent" class="validation-lenient" type="checkbox"><span><span>Parent</span></span></label><!-- end ngRepeat: opt in element.elementDefaults.options_list_show --></div></div></div></div>
+										
+									</div><!-- end ngRepeat: element in page track by element.identifier --><div class=" form-element form-element-field7 options-false index-false form-element-8 default-true form-element-type-datepicker is-required-false odd -handle" data-identifier="field7" data-index="8" style="width: 100%">
+										<div class="form-element-html"><div><div class="datepicker-cover field-cover "><span class="sub-label-false"><span class="main-label"><span>Due Date</span></span><span class="sub-label"></span></span><div><span class="error"></span><input data-original-title="" data-field-id="field7" placeholder="Due Date" class="validation-lenient   hasDatepicker  " data-is-required="false" datepicker="" data-date-format="dd/mm/yy" data-date-days="{&quot;0&quot;:true,&quot;1&quot;:true,&quot;2&quot;:true,&quot;3&quot;:true,&quot;4&quot;:true,&quot;5&quot;:true,&quot;6&quot;:true}" data-date-min="" data-date-min-alt="" data-date-max-alt="" data-date-max="" data-date-lang="en" name="field7" data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="focus" data-html="true" type="text"><i class="icon-calendar"></i></div></div></div></div>
+										
+									</div><!-- end ngRepeat: element in page track by element.identifier --><div class=" even form-element form-element-field11 options-false index-false form-element-9 default-true form-element-type-dropdown is-required-false -handle" data-identifier="field11" data-index="9" style="width: 100%">
+										<div class="form-element-html"><div><div class="dropdown-cover field-cover  "><span class="sub-label-true"><span class="main-label"><span>Children</span></span><span class="sub-label"><span>pick one!</span></span></span><div><span class="error"></span><select data-original-title="" data-is-required="false" class="validation-lenient" data-field-id="field11" name="field11" data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="hover" data-html="true"><!-- ngRepeat: opt in element.elementDefaults.options_list_show --><option class=" " value="">No of Children</option><!-- end ngRepeat: opt in element.elementDefaults.options_list_show --><option class=" " value="1 Child">1 Child</option><!-- end ngRepeat: opt in element.elementDefaults.options_list_show --><option class=" " value="2 Children">2 Children</option><!-- end ngRepeat: opt in element.elementDefaults.options_list_show --><option class=" " value="3 Children">3 Children</option><!-- end ngRepeat: opt in element.elementDefaults.options_list_show --><option class=" " value="4 Children">4 Children</option><!-- end ngRepeat: opt in element.elementDefaults.options_list_show --><option class=" " value="5 Children">5 Children</option><!-- end ngRepeat: opt in element.elementDefaults.options_list_show --></select></div></div></div></div>
+										
+									</div><!-- end ngRepeat: element in page track by element.identifier --><div class=" form-element form-element-field10 options-false index-false form-element-10 default-true form-element-type-oneLineText is-required-false odd -handle" data-identifier="field10" data-index="10" style="width: 100%">
+										<div class="form-element-html"><div><div class="oneLineText-cover field-cover "><span class="sub-label-true"><span class="main-label"><span>Child's Name</span></span><span class="sub-label"></span></span><div><span class="error"></span><input data-original-title="" placeholder="Child's Name" data-field-id="field10" name="field10[]" data-min-char="" data-max-char="" data-val-type="" data-regexp="" data-is-required="false" data-allow-spaces="" class="validation-lenient" data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="focus" data-html="true" data-input-mask="" data-mask-placeholder="" type="text"><i class="no-icon"></i></div></div></div></div>
+										
+									</div><!-- end ngRepeat: element in page track by element.identifier --><div class=" even form-element form-element-field13 options-false index-false form-element-11 default-true form-element-type-datepicker is-required-false -handle" data-identifier="field13" data-index="11" style="width: 50%">
+										<div class="form-element-html"><div><div class="datepicker-cover field-cover "><span class="sub-label-false"><span class="main-label"><span>DOB</span></span><span class="sub-label"></span></span><div><span class="error"></span><input data-original-title="" data-field-id="field13" placeholder="DOB" class="validation-lenient   hasDatepicker  " data-is-required="false" datepicker="" data-date-format="dd/mm/yy" data-date-days="{&quot;0&quot;:true,&quot;1&quot;:true,&quot;2&quot;:true,&quot;3&quot;:true,&quot;4&quot;:true,&quot;5&quot;:true,&quot;6&quot;:true}" data-date-min="" data-date-min-alt="" data-date-max-alt="" data-date-max="" data-date-lang="en" name="field13" data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="focus" data-html="true" type="text"><i class="icon-calendar"></i></div></div></div></div>
+										
+									</div><!-- end ngRepeat: element in page track by element.identifier --><div class=" form-element form-element-field9 options-false index-false form-element-12 default-true form-element-type-checkbox is-required-false odd -handle" data-identifier="field9" data-index="12" style="width: 50%">
+										<div class="form-element-html"><div><div class="images-false checkbox-cover field-cover"><span class="sub-label-false"><span class="main-label"></span><span class="sub-label"></span></span><div data-original-title="" data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="hover" data-html="true"><span class="error"></span><!-- ngRepeat: opt in element.elementDefaults.options_list_show --><label style="width:"><img><input data-field-id="field9" data-is-required="false" name="field9[]" value="Girl" class="validation-lenient" type="radio"><span><span>Girl</span></span></label><!-- end ngRepeat: opt in element.elementDefaults.options_list_show --><label style="width:"><img><input data-field-id="field9" data-is-required="false" name="field9[]" value="Boy" class="validation-lenient" type="radio"><span><span>Boy</span></span></label><!-- end ngRepeat: opt in element.elementDefaults.options_list_show --></div></div></div></div>
+										
+									</div><!-- end ngRepeat: element in page track by element.identifier --><div class=" even form-element form-element-field15 options-false index-false form-element-13 default-true form-element-type-oneLineText is-required-false -handle" data-identifier="field15" data-index="13" style="width: 100%">
+										<div class="form-element-html"><div><div class="oneLineText-cover field-cover "><span class="sub-label-true"><span class="main-label"><span>2nd Child's Name</span></span><span class="sub-label"></span></span><div><span class="error"></span><input data-original-title="" placeholder="2nd Child's Name" data-field-id="field15" name="field15[]" data-min-char="" data-max-char="" data-val-type="" data-regexp="" data-is-required="false" data-allow-spaces="" class="validation-lenient" data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="focus" data-html="true" data-input-mask="" data-mask-placeholder="" type="text"><i class="no-icon"></i></div></div></div></div>
+										
+									</div><!-- end ngRepeat: element in page track by element.identifier --><div class=" form-element form-element-field16 options-false index-false form-element-14 default-true form-element-type-datepicker is-required-false odd -handle" data-identifier="field16" data-index="14" style="width: 50%">
+										<div class="form-element-html"><div><div class="datepicker-cover field-cover "><span class="sub-label-false"><span class="main-label"><span>DOB</span></span><span class="sub-label"></span></span><div><span class="error"></span><input data-original-title="" data-field-id="field16" placeholder="DOB" class="validation-lenient   hasDatepicker  " data-is-required="false" datepicker="" data-date-format="dd/mm/yy" data-date-days="{&quot;0&quot;:true,&quot;1&quot;:true,&quot;2&quot;:true,&quot;3&quot;:true,&quot;4&quot;:true,&quot;5&quot;:true,&quot;6&quot;:true}" data-date-min="" data-date-min-alt="" data-date-max-alt="" data-date-max="" data-date-lang="en" name="field16" data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="focus" data-html="true" type="text"><i class="icon-calendar"></i></div></div></div></div>
+										
+									</div><!-- end ngRepeat: element in page track by element.identifier --><div class=" even form-element form-element-field14 options-false index-false form-element-15 default-true form-element-type-checkbox is-required-false -handle" data-identifier="field14" data-index="15" style="width: 50%">
+										<div class="form-element-html"><div><div class="images-false checkbox-cover field-cover"><span class="sub-label-false"><span class="main-label"></span><span class="sub-label"></span></span><div data-original-title="" data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="hover" data-html="true"><span class="error"></span><!-- ngRepeat: opt in element.elementDefaults.options_list_show --><label style="width:"><img><input data-field-id="field14" data-is-required="false" name="field14[]" value="Girl" class="validation-lenient" type="radio"><span><span>Girl</span></span></label><!-- end ngRepeat: opt in element.elementDefaults.options_list_show --><label style="width:"><img><input data-field-id="field14" data-is-required="false" name="field14[]" value="Boy" class="validation-lenient" type="radio"><span><span>Boy</span></span></label><!-- end ngRepeat: opt in element.elementDefaults.options_list_show --></div></div></div></div>
+										
+									</div><!-- end ngRepeat: element in page track by element.identifier --><div class=" form-element form-element-field12 options-false index-false form-element-16 default-true form-element-type-oneLineText is-required-false odd -handle" data-identifier="field12" data-index="16" style="width: 100%">
+										<div class="form-element-html"><div><div class="oneLineText-cover field-cover "><span class="sub-label-true"><span class="main-label"><span>3rd Child's Name</span></span><span class="sub-label"></span></span><div><span class="error"></span><input data-original-title="" placeholder="3rd Child's Name" data-field-id="field12" name="field12[]" data-min-char="" data-max-char="" data-val-type="" data-regexp="" data-is-required="false" data-allow-spaces="" class="validation-lenient" data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="focus" data-html="true" data-input-mask="" data-mask-placeholder="" type="text"><i class="no-icon"></i></div></div></div></div>
+										
+									</div><!-- end ngRepeat: element in page track by element.identifier --><div class=" even form-element form-element-field8 options-false index-false form-element-17 default-true form-element-type-datepicker is-required-false -handle" data-identifier="field8" data-index="17" style="width: 50%">
+										<div class="form-element-html"><div><div class="datepicker-cover field-cover "><span class="sub-label-false"><span class="main-label"><span>DOB</span></span><span class="sub-label"></span></span><div><span class="error"></span><input data-original-title="" data-field-id="field8" placeholder="DOB" class="validation-lenient   hasDatepicker  " data-is-required="false" datepicker="" data-date-format="dd/mm/yy" data-date-days="{&quot;0&quot;:true,&quot;1&quot;:true,&quot;2&quot;:true,&quot;3&quot;:true,&quot;4&quot;:true,&quot;5&quot;:true,&quot;6&quot;:true}" data-date-min="" data-date-min-alt="" data-date-max-alt="" data-date-max="" data-date-lang="en" name="field8" data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="focus" data-html="true" type="text"><i class="icon-calendar"></i></div></div></div></div>
+										
+									</div><!-- end ngRepeat: element in page track by element.identifier --><div class=" form-element form-element-field17 options-false index-false form-element-18 default-true form-element-type-checkbox is-required-false odd -handle" data-identifier="field17" data-index="18" style="width: 50%">
+										<div class="form-element-html"><div><div class="images-false checkbox-cover field-cover"><span class="sub-label-false"><span class="main-label"></span><span class="sub-label"></span></span><div data-original-title="" data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="hover" data-html="true"><span class="error"></span><!-- ngRepeat: opt in element.elementDefaults.options_list_show --><label style="width:"><img><input data-field-id="field17" data-is-required="false" name="field17[]" value="Girl" class="validation-lenient" type="radio"><span><span>Girl</span></span></label><!-- end ngRepeat: opt in element.elementDefaults.options_list_show --><label style="width:"><img><input data-field-id="field17" data-is-required="false" name="field17[]" value="Boy" class="validation-lenient" type="radio"><span><span>Boy</span></span></label><!-- end ngRepeat: opt in element.elementDefaults.options_list_show --></div></div></div></div>
+										
+									</div><!-- end ngRepeat: element in page track by element.identifier --><div class=" even form-element form-element-field18 options-false index-false form-element-19 default-true form-element-type-oneLineText is-required-false -handle" data-identifier="field18" data-index="19" style="width: 100%">
+										<div class="form-element-html"><div><div class="oneLineText-cover field-cover "><span class="sub-label-true"><span class="main-label"><span>4th Child's Name</span></span><span class="sub-label"></span></span><div><span class="error"></span><input data-original-title="" placeholder="4th Child's Name" data-field-id="field18" name="field18[]" data-min-char="" data-max-char="" data-val-type="" data-regexp="" data-is-required="false" data-allow-spaces="" class="validation-lenient" data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="focus" data-html="true" data-input-mask="" data-mask-placeholder="" type="text"><i class="no-icon"></i></div></div></div></div>
+										
+									</div><!-- end ngRepeat: element in page track by element.identifier --><div class=" form-element form-element-field22 options-false index-false form-element-20 default-true form-element-type-datepicker is-required-false odd -handle" data-identifier="field22" data-index="20" style="width: 50%">
+										<div class="form-element-html"><div><div class="datepicker-cover field-cover "><span class="sub-label-false"><span class="main-label"><span>DOB</span></span><span class="sub-label"></span></span><div><span class="error"></span><input data-original-title="" data-field-id="field22" placeholder="DOB" class="validation-lenient   hasDatepicker  " data-is-required="false" datepicker="" data-date-format="dd/mm/yy" data-date-days="{&quot;0&quot;:true,&quot;1&quot;:true,&quot;2&quot;:true,&quot;3&quot;:true,&quot;4&quot;:true,&quot;5&quot;:true,&quot;6&quot;:true}" data-date-min="" data-date-min-alt="" data-date-max-alt="" data-date-max="" data-date-lang="en" name="field22" data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="focus" data-html="true" type="text"><i class="icon-calendar"></i></div></div></div></div>
+										
+									</div><!-- end ngRepeat: element in page track by element.identifier --><div class=" even form-element form-element-field23 options-false index-false form-element-21 default-true form-element-type-checkbox is-required-false -handle" data-identifier="field23" data-index="21" style="width: 50%">
+										<div class="form-element-html"><div><div class="images-false checkbox-cover field-cover"><span class="sub-label-false"><span class="main-label"></span><span class="sub-label"></span></span><div data-original-title="" data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="hover" data-html="true"><span class="error"></span><!-- ngRepeat: opt in element.elementDefaults.options_list_show --><label style="width:"><img><input data-field-id="field23" data-is-required="false" name="field23[]" value="Girl" class="validation-lenient" type="radio"><span><span>Girl</span></span></label><!-- end ngRepeat: opt in element.elementDefaults.options_list_show --><label style="width:"><img><input data-field-id="field23" data-is-required="false" name="field23[]" value="Boy" class="validation-lenient" type="radio"><span><span>Boy</span></span></label><!-- end ngRepeat: opt in element.elementDefaults.options_list_show --></div></div></div></div>
+										
+									</div><!-- end ngRepeat: element in page track by element.identifier --><div class=" form-element form-element-field21 options-false index-false form-element-22 default-true form-element-type-oneLineText is-required-false odd -handle" data-identifier="field21" data-index="22" style="width: 100%">
+										<div class="form-element-html"><div><div class="oneLineText-cover field-cover "><span class="sub-label-true"><span class="main-label"><span>5th Child's Name</span></span><span class="sub-label"></span></span><div><span class="error"></span><input data-original-title="" placeholder="5th Child's Name" data-field-id="field21" name="field21[]" data-min-char="" data-max-char="" data-val-type="" data-regexp="" data-is-required="false" data-allow-spaces="" class="validation-lenient" data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="focus" data-html="true" data-input-mask="" data-mask-placeholder="" type="text"><i class="no-icon"></i></div></div></div></div>
+										
+									</div><!-- end ngRepeat: element in page track by element.identifier --><div class=" even form-element form-element-field20 options-false index-false form-element-23 default-true form-element-type-datepicker is-required-false -handle" data-identifier="field20" data-index="23" style="width: 50%">
+										<div class="form-element-html"><div><div class="datepicker-cover field-cover "><span class="sub-label-false"><span class="main-label"><span>DOB</span></span><span class="sub-label"></span></span><div><span class="error"></span><input data-original-title="" data-field-id="field20" placeholder="DOB" class="validation-lenient   hasDatepicker  " data-is-required="false" datepicker="" data-date-format="dd/mm/yy" data-date-days="{&quot;0&quot;:true,&quot;1&quot;:true,&quot;2&quot;:true,&quot;3&quot;:true,&quot;4&quot;:true,&quot;5&quot;:true,&quot;6&quot;:true}" data-date-min="" data-date-min-alt="" data-date-max-alt="" data-date-max="" data-date-lang="en" name="field20" data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="focus" data-html="true" type="text"><i class="icon-calendar"></i></div></div></div></div>
+										
+									</div><!-- end ngRepeat: element in page track by element.identifier --><div class=" form-element form-element-field19 options-false index-false form-element-24 default-true form-element-type-checkbox is-required-false odd -handle" data-identifier="field19" data-index="24" style="width: 50%">
+										<div class="form-element-html"><div><div class="images-false checkbox-cover field-cover"><span class="sub-label-false"><span class="main-label"></span><span class="sub-label"></span></span><div data-original-title="" data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="hover" data-html="true"><span class="error"></span><!-- ngRepeat: opt in element.elementDefaults.options_list_show --><label style="width:"><img><input data-field-id="field19" data-is-required="false" name="field19[]" value="Girl" class="validation-lenient" type="radio"><span><span>Girl</span></span></label><!-- end ngRepeat: opt in element.elementDefaults.options_list_show --><label style="width:"><img><input data-field-id="field19" data-is-required="false" name="field19[]" value="Boy" class="validation-lenient" type="radio"><span><span>Boy</span></span></label><!-- end ngRepeat: opt in element.elementDefaults.options_list_show --></div></div></div></div>
+										
+									</div><!-- end ngRepeat: element in page track by element.identifier --><div class=" even form-element form-element-field24 options-false index-false form-element-25 default-false form-element-type-submit is-required-false -handle" data-identifier="field24" data-index="25" style="width: 100%">
+										<div class="form-element-html"><div><div class="animate-false align-center wide-true submit-cover field-cover"><button type="submit" class="button submit-button"><span class="text ">SUBSCRIBE</span><span class="spin-cover"><i style="color:" class="loading-icon icon-cog animate-spin"></i></span></button></div><div class="submit-response "></div><input class="required_field " name="website" type="text"></div></div>
+										
+									</div><!-- end ngRepeat: element in page track by element.identifier -->
+								</div>
+							</div>
+						</form>
+						<div class="prev-next prev-next-1" style="width: px; color: #545454; font-size: 95%; background: url(http://www.beingtheparent.com/wp-content/plugins/formcraft3/views/../assets/images/backgrounds/fibre.png)">
+							<div><input class="ng-pristine  " type="text"><span class="inactive page-prev "><i class="icon-angle-left"></i>Previous</span></div>
+							<div><input class="ng-pristine  " type="text"><span class="page-next ">Next<i class="icon-angle-right"></i></span></div>
+						</div>
+					</div></div></div>
+		</li>
 <li id="wlwi-2" class="widget widget_wlwi"><h3 class="widgettitle">Useful Tools</h3><ul class="links_with_icons"><li class="link_with_icon"><img src="//www.beingtheparent.com/wp-content/uploads/2014/05/oc.png"><a href="http://www.beingtheparent.com/ovulation-calculator/">Ovulation Calculator</a></li><li class="link_with_icon"><img src="//www.beingtheparent.com/wp-content/uploads/2014/05/cyc.png"><a href="http://www.beingtheparent.com/chart-your-cycle">Chart Your Cycle</a></li><li class="link_with_icon"><img src="//www.beingtheparent.com/wp-content/uploads/2014/05/ddc.png"><a href="http://www.beingtheparent.com/know-your-due-date/"> Due Date Calculator</a></li><li class="link_with_icon"><img src="//www.beingtheparent.com/wp-content/uploads/2014/05/pc.png"><a href="http://www.beingtheparent.com/pregnancy-calendar">Pregnancy Calendar</a></li><li class="link_with_icon"><img src="//www.beingtheparent.com/wp-content/uploads/2014/05/pwt.png"><a href="http://www.beingtheparent.com/bmi-calculator/">  Pregnancy Weight Tracker</a></li><li class="link_with_icon"><img src="//www.beingtheparent.com/wp-content/uploads/2014/05/cybp.png"><a href="http://www.beingtheparent.com/create-your-birth-plan">Create Your Birth Plan</a></li><li class="link_with_icon"><img src="//www.beingtheparent.com/wp-content/uploads/2014/05/cgc.png"><a href="http://www.beingtheparent.com/baby-formula-requirement/">Baby Formula Requirement</a></li><li class="link_with_icon"><img src="//www.beingtheparent.com/wp-content/uploads/2014/05/bfg.png"><a href="http://www.beingtheparent.com/baby-feeding-guide/">Baby Feeding Guide</a></li><li class="link_with_icon"><img src="//www.beingtheparent.com/wp-content/uploads/2014/05/tfg.png"><a href="http://www.beingtheparent.com/toddler-feeding-guide/"> Toddler Feeding Guide</a></li><li class="link_with_icon"><img src="//www.beingtheparent.com/wp-content/uploads/2014/05/chp.png"><a href="http://www.beingtheparent.com/child-height-predictor">Child Height Predictor</a></li></ul></li>
 
 		<li id="bunyad_ads_widget-3" class="widget bunyad-ad">		
@@ -797,19 +881,19 @@ width:48px;
 			<ul class="posts-list">
 							<li>
 				
-					<a href="http://www.beingtheparent.com/make-your-child-aware-of-a-good-and-a-bad-touch/"><img width="110" height="96" src="http://www.beingtheparent.com/wp-content/uploads/2014/07/good-and-bad-touch-e1405323194996-110x96.jpg" class="attachment-post-thumbnail wp-post-image" alt="good-and-bad-touch" title="Make Your Child Aware Of A Good and A Bad Touch">					
+					<a href="http://www.beingtheparent.com/saffron-during-pregnancy-uses-benefits-and-side-effects/"><img width="110" height="96" src="http://www.beingtheparent.com/wp-content/uploads/2015/02/Saffron-and-Pregnancy-110x96.jpg" class="attachment-post-thumbnail wp-post-image" alt="Saffron and Pregnancy" title="Saffron During Pregnancy – Uses, Benefits And Side Effects">					
 																					
 					</a>
 					
 					<div class="content">
 					
-						<time datetime="2014-11-20T13:06:48+00:00">November 20, 2014 </time>
+						<time datetime=""> </time>
 					
-						<span class="comments"><a href="http://www.beingtheparent.com/make-your-child-aware-of-a-good-and-a-bad-touch/#comments"><i class="fa fa-comments-o"></i>
-							2</a></span>
+						<span class="comments"><a href="http://www.beingtheparent.com/saffron-during-pregnancy-uses-benefits-and-side-effects/#comments"><i class="fa fa-comments-o"></i>
+							6</a></span>
 					
-						<a href="http://www.beingtheparent.com/make-your-child-aware-of-a-good-and-a-bad-touch/" title="Make Your Child Aware Of A Good and A Bad Touch">
-							Make Your Child Aware Of A Good and A Bad Touch</a>
+						<a href="http://www.beingtheparent.com/saffron-during-pregnancy-uses-benefits-and-side-effects/" title="Saffron During Pregnancy – Uses, Benefits And Side Effects">
+							Saffron During Pregnancy – Uses, Benefits And Side Effects</a>
 							
 																																				
 					</div>
@@ -817,19 +901,19 @@ width:48px;
 				</li>
 							<li>
 				
-					<a href="http://www.beingtheparent.com/finding-a-good-caregiver-for-your-baby/"><img width="110" height="96" src="http://www.beingtheparent.com/wp-content/uploads/2014/07/Finding-A-Good-Caregiver-Can-Be-Difficult-But-Is-Not-Impossible-110x96.jpg" class="attachment-post-thumbnail wp-post-image" alt="Finding-a-good-caregiver" title="Finding A Good Caregiver For Your Baby">					
+					<a href="http://www.beingtheparent.com/annaprasana-ceremony-first-rice-eating-celebrations/"><img width="110" height="96" src="http://www.beingtheparent.com/wp-content/uploads/2014/11/Annaprasanna-110x96.jpg" class="attachment-post-thumbnail wp-post-image" alt="Annaprasana Ceremony" title="Annaprasana Ceremony: First Rice-Eating Celebrations">					
 																					
 					</a>
 					
 					<div class="content">
 					
-						<time datetime="2014-07-18T12:36:46+00:00">July 18, 2014 </time>
+						<time datetime=""> </time>
 					
-						<span class="comments"><a href="http://www.beingtheparent.com/finding-a-good-caregiver-for-your-baby/#comments"><i class="fa fa-comments-o"></i>
-							2</a></span>
+						<span class="comments"><a href="http://www.beingtheparent.com/annaprasana-ceremony-first-rice-eating-celebrations/#comments"><i class="fa fa-comments-o"></i>
+							3</a></span>
 					
-						<a href="http://www.beingtheparent.com/finding-a-good-caregiver-for-your-baby/" title="Finding A Good Caregiver For Your Baby">
-							Finding A Good Caregiver For Your Baby</a>
+						<a href="http://www.beingtheparent.com/annaprasana-ceremony-first-rice-eating-celebrations/" title="Annaprasana Ceremony: First Rice-Eating Celebrations">
+							Annaprasana Ceremony: First Rice-Eating Celebrations</a>
 							
 																																				
 					</div>
@@ -837,34 +921,59 @@ width:48px;
 				</li>
 							<li>
 				
-					<a href="http://www.beingtheparent.com/toddler-diseases-vaccinations/"><img width="110" height="96" src="http://www.beingtheparent.com/wp-content/uploads/2014/08/Baby-Immunization-Schedule-110x96.jpg" class="attachment-post-thumbnail wp-post-image" alt="Baby Immunization Schedule" title="Toddler Diseases &amp; Vaccinations">					
+					<a href="http://www.beingtheparent.com/top-10-home-remedies-for-treating-stretch-marks/"><img width="110" height="96" src="http://www.beingtheparent.com/wp-content/uploads/2014/11/stretch-marks-remedies-110x96.jpg" class="attachment-post-thumbnail wp-post-image" alt="stretch-marks-remedies" title="Top 10 Home Remedies For Treating Stretch Marks">					
 																					
 					</a>
 					
 					<div class="content">
 					
-						<time datetime="2015-03-13T13:00:03+00:00">March 13, 2015 </time>
+						<time datetime=""> </time>
 					
-						<span class="comments"><a href="http://www.beingtheparent.com/toddler-diseases-vaccinations/#comments"><i class="fa fa-comments-o"></i>
+						<span class="comments"><a href="http://www.beingtheparent.com/top-10-home-remedies-for-treating-stretch-marks/#comments"><i class="fa fa-comments-o"></i>
 							2</a></span>
 					
-						<a href="http://www.beingtheparent.com/toddler-diseases-vaccinations/" title="Toddler Diseases &amp; Vaccinations">
-							Toddler Diseases &amp; Vaccinations</a>
+						<a href="http://www.beingtheparent.com/top-10-home-remedies-for-treating-stretch-marks/" title="Top 10 Home Remedies For Treating Stretch Marks">
+							Top 10 Home Remedies For Treating Stretch Marks</a>
+							
+																																				
+					</div>
+				
+				</li>
+							<li>
+				
+					<a href="http://www.beingtheparent.com/baby-constipation/"><img width="110" height="96" src="http://www.beingtheparent.com/wp-content/uploads/2014/07/Infant-Constipation-110x96.jpg" class="attachment-post-thumbnail wp-post-image" alt="Infant Constipation" title="Baby Constipation">					
+																					
+					</a>
+					
+					<div class="content">
+					
+						<time datetime=""> </time>
+					
+						<span class="comments"><a href="http://www.beingtheparent.com/baby-constipation/#comments"><i class="fa fa-comments-o"></i>
+							2</a></span>
+					
+						<a href="http://www.beingtheparent.com/baby-constipation/" title="Baby Constipation">
+							Baby Constipation</a>
 							
 																																				
 					</div>
 				
 				</li>
 						</ul>
+			<br>
+			
+			<a href="http://www.beingtheparent.com/our-panel-of-contributors/" style=""><h3 style="background-color: #161F28; padding-left: 10px;" class="widgettitle">Know Our Contributors</h3></a>
+			
+			
 			
 			</li>		
-		<li class="widget col-4 widget_recent_comments"><h3 class="widgettitle">Recent Comments</h3><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link">Viren</span> on <a href="http://www.beingtheparent.com/posture-postulations-for-kids-make-the-right-choice/#comment-3379">Posture-Postulations For Kids- Make The Right Choice</a></li><li class="recentcomments"><span class="comment-author-link">joshua swaet</span> on <a href="http://www.beingtheparent.com/negative-effects-of-watching-violent-cartoons-on-kids/#comment-3370">Negative Effects Of Watching Violent Cartoons On Kids</a></li><li class="recentcomments"><span class="comment-author-link"><a href="http://www.astroshine.org/" rel="external nofollow" class="url">AstroShine</a></span> on <a href="http://www.beingtheparent.com/annaprasana-ceremony-first-rice-eating-celebrations/#comment-3313">Annaprasana Ceremony: First Rice-Eating Celebrations</a></li><li class="recentcomments"><span class="comment-author-link">Admin</span> on <a href="http://www.beingtheparent.com/unplanned-pregnancy-and-its-effects/#comment-3198">Unplanned Pregnancy And Its Effects</a></li><li class="recentcomments"><span class="comment-author-link">Admin</span> on <a href="http://www.beingtheparent.com/toddler-diseases-vaccinations/#comment-3197">Toddler Diseases &amp; Vaccinations</a></li></ul></li>
+		<li class="widget col-4 widget_recent_comments"><h3 class="widgettitle">Recent Comments</h3><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link">Yasmeen Begum</span> on <a href="http://www.beingtheparent.com/top-15-home-remedies-for-treating-skin-pigmentation-in-pregnancy/#comment-12473">Top 15 Home Remedies For Treating Skin Pigmentation In Pregnancy</a></li><li class="recentcomments"><span class="comment-author-link">Lisa Hill</span> on <a href="http://www.beingtheparent.com/top-10-home-remedies-for-treating-stretch-marks/#comment-11276">Top 10 Home Remedies For Treating Stretch Marks</a></li><li class="recentcomments"><span class="comment-author-link">Susila Raman</span> on <a href="http://www.beingtheparent.com/5-ways-to-keep-your-pre-schoolers-active/#comment-11172">5 Ways To Keep Your Pre-schoolers Active</a></li><li class="recentcomments"><span class="comment-author-link">Susila</span> on <a href="http://www.beingtheparent.com/10-ways-to-make-your-child-eat-fruits/#comment-10420">10 Ways To Make Your Child Eat Fruits</a></li><li class="recentcomments"><span class="comment-author-link">alakesh ojah</span> on <a href="http://www.beingtheparent.com/10-yoga-poses-that-every-pregnant-woman-should-know/#comment-10185">10 Yoga Poses Every Pregnant Woman Should Know</a></li></ul></li>
 		<li class="widget col-4 bunyad-about">			<h3 class="widgettitle">About</h3>		
 			<div class="about-widget">
 			
 						
-			<p>At beingtheparent.com, our goal is to guide you to a Happy Pregnancy and Effective Parenting. In our endeavor of simplifying pregnancy and parenting, we are a step by step guide and by your side at just a click.</p>
-<p>Get information on pregnancy, infant and child care; parenting advice and helpful tips on raising children. Subscribe to our newsletters and get weekly updates to track your baby’s development. </p>
+			<p>At beingtheparent.com, our goal is to guide you to a Happy Pregnancy and Effective Parenting. In our endeavor of simplifying pregnancy and parenting, we are a step by step guide and by your side at just a click. Get information on pregnancy, infant and child care; parenting advice and helpful tips on raising children. Subscribe to our newsletters and get weekly updates to track your baby's development. </p>
+<p>This website is a venture of Mykids Ventures Private Limited and with the aim of being your most trusted Indian parenting website, we offer you advice from experts such as doctors, health professionals and fellow parents.</p>
 			
 			</div>
 		
@@ -895,7 +1004,9 @@ width:48px;
 	</footer>
 	
 </div> <!-- .main-wrap -->
-
+<style>
+.col-4, .column.one-third { width: 31.9% !important;  }
+</style>
 <!-- Modal -->
 <div class="modal hide fade login-modal" id="login-modal" tabindex="-1" role="dialog" aria-labelledby="login-modal-label" aria-hidden="true">
 	<div class="modal-dialog">
@@ -931,9 +1042,9 @@ width:48px;
 							 <!-- OneAll.com / Social Login for WordPress / v4.6 -->
 <div class="oneall_social_login">
  <div class="oneall_social_login_label" style="margin-bottom: 3px;"><label>Connect with:</label></div>
- <div class="oneall_social_login_providers" id="oneall_social_login_providers_9720214"></div>
+ <div class="oneall_social_login_providers" id="oneall_social_login_providers_9499768"></div>
  <script type="text/javascript">
-  oneall.api.plugins.social_login.build('oneall_social_login_providers_9720214', {
+  oneall.api.plugins.social_login.build('oneall_social_login_providers_9499768', {
    'providers': ['facebook','google'], 
    'callback_uri': (window.location.href + ((window.location.href.split('?')[1] ? '&amp;' : '?') + 'oa_social_login_source=login')), 
    'css_theme_uri': 'http://public.oneallcdn.com/css/api/socialize/themes/wordpress/default.css' 
@@ -945,7 +1056,7 @@ width:48px;
 							
 		<input type="hidden" name="user-cookie" value="1">
 
-		<input type="hidden" id="bbp_redirect_to" name="redirect_to" value="http://www.beingtheparent.com/privacy-policy/"><input type="hidden" id="_wpnonce" name="_wpnonce" value="fcbff64163"><input type="hidden" name="_wp_http_referer" value="/privacy-policy/">	
+		<input type="hidden" id="bbp_redirect_to" name="redirect_to" value="http://www.beingtheparent.com/privacy-policy/"><input type="hidden" id="_wpnonce" name="_wpnonce" value="9c18ae65c2"><input type="hidden" name="_wp_http_referer" value="/privacy-policy/">	
 						</div>
 	
 					</fieldset>
@@ -1016,18 +1127,7 @@ width:48px;
 							<span class="password-msg">A password will be e-mailed to you.</span>
 	
 	
-							 <!-- OneAll.com / Social Login for WordPress / v4.6 -->
-<div class="oneall_social_login">
- <div class="oneall_social_login_label" style="margin-bottom: 3px;"><label>Connect with:</label></div>
- <div class="oneall_social_login_providers" id="oneall_social_login_providers_2463992"></div>
- <script type="text/javascript">
-  oneall.api.plugins.social_login.build('oneall_social_login_providers_2463992', {
-   'providers': ['facebook','google'], 
-   'callback_uri': (window.location.href + ((window.location.href.split('?')[1] ? '&amp;' : '?') + 'oa_social_login_source=registration')), 
-   'css_theme_uri': 'http://public.oneallcdn.com/css/api/socialize/themes/wordpress/default.css' 
-  });
- </script>
-</div>	
+								
 							<button type="submit" name="wp-submit" id="wp-submit" tabindex="3" class="button submit user-submit">Register</button>	
 						</div>
 	
@@ -1039,7 +1139,382 @@ width:48px;
 		
 		
 	</div>
-</div><script type="text/javascript">
+</div>		<script>
+		    var snp_f = [];
+		</script>
+		<div class="snp-root">
+			<input type="hidden" id="snp_popup" value="">
+			<input type="hidden" id="snp_popup_id" value="">
+			<input type="hidden" id="snp_popup_theme" value="">
+			<input type="hidden" id="snp_exithref" value="">
+			<input type="hidden" id="snp_exittarget" value="">
+				<div id="snppopup-welcome" class="snp-pop-11573 snppopup"><input type="hidden" class="snp_open" value="load"><input type="hidden" class="snp_open_after" value="5"><input type="hidden" class="snp_open_inactivity" value="8"><input type="hidden" class="snp_open_scroll" value="10"><input type="hidden" class="snp_optin_redirect_url" value=""><input type="hidden" class="snp_show_cb_button" value="yes"><input type="hidden" class="snp_popup_id" value="11573"><input type="hidden" class="snp_popup_theme" value="theme_html"><input type="hidden" class="snp_overlay" value="default"><input type="hidden" class="snp_cookie_conversion" value="30"><input type="hidden" class="snp_cookie_close" value="-1"><div class="snp-fb snp-theme-html">
+	<div class="snp-content">
+		<div class="snp-content-inner">	
+<style>
+@media screen and (max-width: 700px) {
+  .desktop-left {
+    visibility: hidden;
+    
+    display: none;
+  }
+}
+@media screen and (min-width: 700px) {
+  .desktop-left {
+   
+    width: 35%;
+    display: block;
+  }
+}
+@media screen and (min-width: 700px) {
+  .desktop-right {
+   width: 65%;
+  }
+}
+@media screen and (max-width: 700px) {
+  .desktop-right {
+   width: 100%;
+  }
+}
+</style>
+
+			<div style="height: 440px; overflow: hidden;">
+<div style="float: left; " class="desktop-left"><img src="http://www.beingtheparent.com/wp-content/uploads/2015/10/btp-subscribe.jpg" alt="btp-subscribe" width="" height="100%"></div>
+<div style="float: left;" class="desktop-right">
+<div id="form-div" style="overflow-y: auto; height: 430px;"><div data-uniq="5638390f29f26" class="uniq-5638390f29f26 formcraft-css form-live align-left"><div class="form-logic">[[[["field5","contains","Pregnant"]],[["show_fields","field7"]],"and"],[[["field6","contains","Parent"]],[["show_fields","field10,field13,field9,field11"]],"and"],[[["field11","equal_to","2 Children"]],[["show_fields","field15,field16,field14"]],"and"],[[["field11","equal_to","3 Children"]],[["show_fields","field15,field16,field14,field12,field8,field17"]],"and"],[[["field11","equal_to","4 Children"]],[["show_fields","field15,field16,field14,field8,field17,field12,field18,field22,field23"]],"and"],[[["field11","equal_to","5 Children"]],[["show_fields","field15,field14,field16,field12,field8,field17,field18,field22,field23,field21,field20,field19"]],"and"],[[["field6","contains_not","Parent"]],[["hide_fields","field11,field10,field13,field9,field15,field16,field14,field12,field8,field17,field18,field22,field23,field21,field20,field19"]],"and"],[[["field6","contains_not","Parent"]],[["set_value",null,"1 Child",null,"field11"]],"and"]]</div><div class="fc-pagination-cover fc-pagination-1">
+						<div class="fc-pagination" style="width: px">
+							<div class="pagination-trigger " data-index="0">
+								<span class="page-number"><span>1</span></span>
+								<span class="page-name ">Step 1</span>
+								
+							</div>
+						</div>
+					</div>
+					
+					<style scoped="scoped">
+						.formcraft-css .fc-form.fc-form-1 .form-element .submit-cover .submit-button,
+						.formcraft-css .fc-form.fc-form-1 .form-element .fileupload-cover .button-file,
+						.formcraft-css .fc-form.fc-form-1 .form-element .field-cover .button,
+						#ui-datepicker-div.fc-datepicker .ui-datepicker-header,
+						.formcraft-css .fc-form .stripe-amount-show
+						{
+							background-color: #4488ee;
+							color: #fff;
+						}
+						.formcraft-css .fc-form.fc-form-1 .form-element .slider-cover .ui-slider-range
+						{
+							background: #4488ee;
+						}
+						#ui-datepicker-div.fc-datepicker .ui-datepicker-header,
+						html .formcraft-css .fc-form .field-cover>div.full hr
+						{
+							border-color: #3b77d1;
+						}
+						#ui-datepicker-div.fc-datepicker .ui-datepicker-prev:hover,
+						#ui-datepicker-div.fc-datepicker .ui-datepicker-next:hover,
+						#ui-datepicker-div.fc-datepicker select.ui-datepicker-month:hover,
+						#ui-datepicker-div.fc-datepicker select.ui-datepicker-year:hover
+						{
+							background-color: #3b77d1;
+						}
+						.formcraft-css .fc-pagination>div.active .page-number,
+						.formcraft-css .form-cover-builder .fc-pagination>div:first-child .page-number
+						{
+							background-color: #4488ee;
+							border-color: #3b77d1;
+							color: #fff;
+						}
+						#ui-datepicker-div.fc-datepicker table.ui-datepicker-calendar th,
+						#ui-datepicker-div.fc-datepicker table.ui-datepicker-calendar td.ui-datepicker-today a,
+						.formcraft-css .fc-form.fc-form-1 .form-element .star-cover label,
+						html .formcraft-css .fc-form.label-floating .form-element .field-cover.has-focus>span,
+						.formcraft-css .fc-form.fc-form-1 .form-element .customText-cover a,
+						html .formcraft-css .fc-form .form-element .slider-cover .range-max,
+						html .formcraft-css .fc-form .form-element .slider-cover .range-min,
+						.formcraft-css .prev-next>div span:hover
+						{
+							color: #4488ee;
+						}
+						.formcraft-css .fc-form.fc-form-1 .form-element .customText-cover a:hover
+						{
+							color: #3b77d1;
+						}
+						html .formcraft-css .fc-form.label-floating .form-element .field-cover > span
+						{
+							color: #545454;
+						}
+						html .formcraft-css .fc-form.label-floating .form-element .field-cover input[type="text"],
+						html .formcraft-css .fc-form.label-floating .form-element .field-cover input[type="password"],
+						html .formcraft-css .fc-form.label-floating .form-element .field-cover input[type="tel"],
+						html .formcraft-css .fc-form.label-floating .form-element .field-cover textarea,
+						html .formcraft-css .fc-form.label-floating .form-element .field-cover select,
+						html .formcraft-css .fc-form.label-floating .form-element .field-cover .time-fields-cover
+						{
+							border-bottom-color: #545454;
+						}
+						.formcraft-css .fc-form.fc-form-1 .form-element .star-cover label .star			
+						{
+							text-shadow: 0px 1px 0px #3b77d1;
+						}
+						.formcraft-css .fc-form.fc-form-1 .form-element .slider-cover .ui-slider-range
+						{
+							box-shadow: 0px 1px 1px #3b77d1 inset;
+						}
+						.formcraft-css .fc-form.fc-form-1 .form-element .fileupload-cover .button-file,
+						.formcraft-css .fc-form.fc-form-1 .form-element .stripe-amount-show
+						{
+							border-color: #3b77d1;
+						}
+						.formcraft-css .fc-form .stripe-cover.field-cover div.stripe-amount-show::before
+						{
+							border-top-color: #3b77d1;
+						}
+						.formcraft-css .fc-form .stripe-cover.field-cover div.stripe-amount-show::after
+						{
+							border-right-color: #4488ee;
+						}
+						.formcraft-css .fc-form.fc-form-1 .form-element .stripe-amount-show,
+						.formcraft-css .fc-form.fc-form-1 .form-element .submit-cover .submit-button .text,
+						.formcraft-css .fc-form.fc-form-1 .form-element .field-cover .button
+						{
+							text-shadow: 1px 0px 3px #3b77d1;
+						}
+						.formcraft-css .fc-form.fc-form-1 input[type="checkbox"]:checked,
+						.formcraft-css .fc-form.fc-form-1 input[type="radio"]:checked
+						{
+							border-color: #4488ee;
+							background-color: #4488ee;						
+						}
+						.formcraft-css .fc-form.fc-form-1 input[type="checkbox"]:hover,
+						.formcraft-css .fc-form.fc-form-1 input[type="radio"]:hover,
+						.formcraft-css .fc-form.fc-form-1 input[type="checkbox"]:focus,
+						.formcraft-css .fc-form.fc-form-1 input[type="radio"]:focus,
+						.formcraft-css .fc-form.fc-form-1 label:hover>input[type="checkbox"],
+						.formcraft-css .fc-form.fc-form-1 label:hover>input[type="radio"]
+						{
+							border-color: #4488ee;
+						}
+						.formcraft-css .fc-form.fc-form-1 .form-element .form-element-html input[type="text"]:focus,
+						.formcraft-css .fc-form.fc-form-1 .form-element .form-element-html input[type="password"]:focus,
+						.formcraft-css .fc-form.fc-form-1 .form-element .form-element-html input[type="tel"]:focus,
+						.formcraft-css .fc-form.fc-form-1 .form-element .form-element-html input[type="color"]:focus,
+						.formcraft-css .fc-form.fc-form-1 .form-element .form-element-html input[type="date"]:focus,
+						.formcraft-css .fc-form.fc-form-1 .form-element .form-element-html input[type="datetime"]:focus,
+						.formcraft-css .fc-form.fc-form-1 .form-element .form-element-html input[type="datetime-local"]:focus,
+						.formcraft-css .fc-form.fc-form-1 .form-element .form-element-html input[type="email"]:focus,
+						.formcraft-css .fc-form.fc-form-1 .form-element .form-element-html input[type="month"]:focus,
+						.formcraft-css .fc-form.fc-form-1 .form-element .form-element-html input[type="number"]:focus,
+						.formcraft-css .fc-form.fc-form-1 .form-element .form-element-html input[type="tel"]:focus,
+						.formcraft-css .fc-form.fc-form-1 .form-element .form-element-html input[type="password"]:focus,
+						.formcraft-css .fc-form.fc-form-1 .form-element .form-element-html input[type="search"]:focus,
+						.formcraft-css .fc-form.fc-form-1 .form-element .form-element-html input[type="tel"]:focus,
+						.formcraft-css .fc-form.fc-form-1 .form-element .form-element-html input[type="text"]:focus,
+						.formcraft-css .fc-form.fc-form-1 .form-element .form-element-html input[type="time"]:focus,
+						.formcraft-css .fc-form.fc-form-1 .form-element .form-element-html input[type="url"]:focus,
+						.formcraft-css .fc-form.fc-form-1 .form-element .form-element-html input[type="week"]:focus,
+						.formcraft-css .fc-form.fc-form-1 .form-element .form-element-html textarea:focus,
+						.formcraft-css .fc-form.fc-form-1 .form-element .form-element-html select:focus
+						{
+							border-color: #4488ee;
+						}
+						.formcraft-css .fc-form.fc-form-1						{
+							font-family: inherit;
+						}
+						html .formcraft-css .fc-form.fc-form-1 .form-element input[type="text"],
+						html .formcraft-css .fc-form.fc-form-1 .form-element input[type="password"],
+						html .formcraft-css .fc-form.fc-form-1 .form-element input[type="color"],
+						html .formcraft-css .fc-form.fc-form-1 .form-element input[type="date"],
+						html .formcraft-css .fc-form.fc-form-1 .form-element input[type="datetime"],
+						html .formcraft-css .fc-form.fc-form-1 .form-element input[type="datetime-local"],
+						html .formcraft-css .fc-form.fc-form-1 .form-element input[type="email"],
+						html .formcraft-css .fc-form.fc-form-1 .form-element input[type="month"],
+						html .formcraft-css .fc-form.fc-form-1 .form-element input[type="number"],
+						html .formcraft-css .fc-form.fc-form-1 .form-element input[type="search"],
+						html .formcraft-css .fc-form.fc-form-1 .form-element input[type="tel"],
+						html .formcraft-css .fc-form.fc-form-1 .form-element input[type="tel"],
+						html .formcraft-css .fc-form.fc-form-1 .form-element input[type="time"],
+						html .formcraft-css .fc-form.fc-form-1 .form-element input[type="url"],
+						html .formcraft-css .fc-form.fc-form-1 .form-element input[type="week"],
+						html .formcraft-css .fc-form.fc-form-1 .form-element select,
+						html .formcraft-css .fc-form.fc-form-1 .form-element textarea
+						{
+							background-color: #fafafa;
+						}
+						html .formcraft-css .fc-form.fc-form-1 .form-element .error
+						{
+							background: url(http://www.beingtheparent.com/wp-content/plugins/formcraft3/views/../assets/images/backgrounds/fibre.png);
+						}
+						@media (max-width : 480px) {
+							html .dedicated-page,
+							html .dedicated-page .formcraft-css .fc-pagination > div.active
+							{
+								background: url(http://www.beingtheparent.com/wp-content/plugins/formcraft3/views/../assets/images/backgrounds/fibre.png);
+							}
+						}
+					</style>
+					<div class="form-cover">
+						<form data-thousand="" data-decimal="." data-delay="" data-id="1" class="fc-form fc-form-1 align- save-form- dont-submit-hidden- label-placeholder frame-visible spin-false remove-asterisk-false icons-hide-false field-alignment-left  " style="width: px; color: #545454; font-size: 95%; background: url(http://www.beingtheparent.com/wp-content/plugins/formcraft3/views/../assets/images/backgrounds/fibre.png)">
+							<div class="form-page form-page-0" data-index="0">
+								
+								<div class="form-page-content ng-pristine   ng-isolate-scope ">
+									<!-- ngRepeat: element in page track by element.identifier --><div class=" form-element form-element-field26 form-element-0 default-false form-element-type-heading is-required-false odd -handle options-false index-false" data-identifier="field26" data-index="0" style="width: 100%">
+										<div class="form-element-html"><div><div class="heading-cover field-cover "><div style="text-align: center; font-size: 0.9999999999999997em; padding-top: ; padding-bottom: ; color: #1e73be" class="bold-false"><span>Please provide your details here to get your weekly pregnancy  calendar in your inbox..</span></div><input data-field-id="field26" name="field26[]" value="Please provide your details here to get your weekly pregnancy  calendar in your inbox.." type="hidden"></div></div></div>
+										
+									</div><!-- end ngRepeat: element in page track by element.identifier --><div class=" even form-element form-element-field1 options-false index-false form-element-1 default-false form-element-type-oneLineText is-required-true -handle" data-identifier="field1" data-index="1" style="width: 100%">
+										<div class="form-element-html"><div><div class="oneLineText-cover field-cover "><span class="sub-label-true"><span class="main-label"><span>Name</span></span><span class="sub-label"></span></span><div><span class="error"></span><input data-original-title="" placeholder="Name" data-field-id="field1" name="field1[]" data-min-char="" data-max-char="" data-val-type="alphabets" data-regexp="" data-is-required="true" data-allow-spaces="true" class="validation-lenient" data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="focus" data-html="true" data-input-mask="" data-mask-placeholder="" type="text"><i class="icon-user"></i></div></div></div></div>
+										
+									</div><!-- end ngRepeat: element in page track by element.identifier --><div class=" form-element form-element-field2 options-false index-false form-element-2 default-false form-element-type-email is-required-true odd -handle" data-identifier="field2" data-index="2" style="width: 100%">
+										<div class="form-element-html"><div><div class="email-cover field-cover "><span class="sub-label-false"><span class="main-label"><span>Email</span></span><span class="sub-label"></span></span><div><span class="error"></span><input data-original-title="" placeholder="Email" data-field-id="field2" data-val-type="email" data-is-required="true" name="field2" class="validation-lenient" data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="focus" data-html="true" type="text"><i class="icon-mail"></i></div></div></div></div>
+										
+									</div><!-- end ngRepeat: element in page track by element.identifier --><div class=" even form-element form-element-field3 options-false index-false form-element-3 default-false form-element-type-oneLineText is-required-true -handle" data-identifier="field3" data-index="3" style="width: 100%">
+										<div class="form-element-html"><div><div class="oneLineText-cover field-cover "><span class="sub-label-true"><span class="main-label"><span>Phone No</span></span><span class="sub-label"></span></span><div><span class="error"></span><input data-original-title="" placeholder="Phone No" data-field-id="field3" name="field3[]" data-min-char="10" data-max-char="12" data-val-type="" data-regexp="" data-is-required="true" data-allow-spaces="" class="validation-lenient" data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="focus" data-html="true" data-input-mask="" data-mask-placeholder="" type="text"><i class="icon-phone"></i></div></div></div></div>
+										
+									</div><!-- end ngRepeat: element in page track by element.identifier --><div class=" form-element form-element-field4 options-false index-false form-element-4 default-false form-element-type-oneLineText is-required-true odd -handle" data-identifier="field4" data-index="4" style="width: 100%">
+										<div class="form-element-html"><div><div class="oneLineText-cover field-cover "><span class="sub-label-true"><span class="main-label"><span>Pin Code</span></span><span class="sub-label"></span></span><div><span class="error"></span><input data-original-title="" placeholder="Pin Code" data-field-id="field4" name="field4[]" data-min-char="6" data-max-char="6" data-val-type="numbers" data-regexp="" data-is-required="true" data-allow-spaces="false" class="validation-lenient" data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="focus" data-html="true" data-input-mask="" data-mask-placeholder="" type="text"><i class="icon-globe"></i></div></div></div></div>
+										
+									</div><!-- end ngRepeat: element in page track by element.identifier --><div class=" even form-element form-element-field25 options-false index-false form-element-5 default-false form-element-type-heading is-required-false -handle" data-identifier="field25" data-index="5" style="width: 100%">
+										<div class="form-element-html"><div><div class="heading-cover field-cover "><div style="text-align: center; font-size: 0.9999999999999997em; padding-top: ; padding-bottom: ; color: #1e73be" class="bold-"><span>Stage of Parenting</span></div><input data-field-id="field25" name="field25[]" value="Stage of Parenting" type="hidden"></div></div></div>
+										
+									</div><!-- end ngRepeat: element in page track by element.identifier --><div class=" form-element form-element-field5 options-false index-false form-element-6 default-false form-element-type-checkbox is-required-false odd -handle" data-identifier="field5" data-index="6" style="width: 65%">
+										<div class="form-element-html"><div><div class="images-false checkbox-cover field-cover"><span class="sub-label-false"><span class="main-label"></span><span class="sub-label"></span></span><div data-original-title="" data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="hover" data-html="true"><span class="error"></span><!-- ngRepeat: opt in element.elementDefaults.options_list_show --><label style="width:"><img><input data-field-id="field5" data-is-required="false" name="field5[]" value="Trying to Conceive" class="validation-lenient" type="radio"><span><span>Trying to Conceive</span></span></label><!-- end ngRepeat: opt in element.elementDefaults.options_list_show --><label style="width:"><img><input data-field-id="field5" data-is-required="false" name="field5[]" value="Pregnant" class="validation-lenient" type="radio"><span><span>Pregnant</span></span></label><!-- end ngRepeat: opt in element.elementDefaults.options_list_show --></div></div></div></div>
+										
+									</div><!-- end ngRepeat: element in page track by element.identifier --><div class=" even form-element form-element-field6 options-false index-false form-element-7 default-false form-element-type-checkbox is-required-false -handle" data-identifier="field6" data-index="7" style="width: 35%">
+										<div class="form-element-html"><div><div class="images- checkbox-cover field-cover"><span class="sub-label-false"><span class="main-label"></span><span class="sub-label"></span></span><div data-original-title="" data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="hover" data-html="true"><span class="error"></span><!-- ngRepeat: opt in element.elementDefaults.options_list_show --><label style="width:"><img><input data-field-id="field6" data-is-required="false" name="field6[]" value="Parent" class="validation-lenient" type="checkbox"><span><span>Parent</span></span></label><!-- end ngRepeat: opt in element.elementDefaults.options_list_show --></div></div></div></div>
+										
+									</div><!-- end ngRepeat: element in page track by element.identifier --><div class=" form-element form-element-field7 options-false index-false form-element-8 default-true form-element-type-datepicker is-required-false odd -handle" data-identifier="field7" data-index="8" style="width: 100%">
+										<div class="form-element-html"><div><div class="datepicker-cover field-cover "><span class="sub-label-false"><span class="main-label"><span>Due Date</span></span><span class="sub-label"></span></span><div><span class="error"></span><input data-original-title="" data-field-id="field7" placeholder="Due Date" class="validation-lenient   hasDatepicker  " data-is-required="false" datepicker="" data-date-format="dd/mm/yy" data-date-days="{&quot;0&quot;:true,&quot;1&quot;:true,&quot;2&quot;:true,&quot;3&quot;:true,&quot;4&quot;:true,&quot;5&quot;:true,&quot;6&quot;:true}" data-date-min="" data-date-min-alt="" data-date-max-alt="" data-date-max="" data-date-lang="en" name="field7" data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="focus" data-html="true" type="text"><i class="icon-calendar"></i></div></div></div></div>
+										
+									</div><!-- end ngRepeat: element in page track by element.identifier --><div class=" even form-element form-element-field11 options-false index-false form-element-9 default-true form-element-type-dropdown is-required-false -handle" data-identifier="field11" data-index="9" style="width: 100%">
+										<div class="form-element-html"><div><div class="dropdown-cover field-cover  "><span class="sub-label-true"><span class="main-label"><span>Children</span></span><span class="sub-label"><span>pick one!</span></span></span><div><span class="error"></span><select data-original-title="" data-is-required="false" class="validation-lenient" data-field-id="field11" name="field11" data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="hover" data-html="true"><!-- ngRepeat: opt in element.elementDefaults.options_list_show --><option class=" " value="">No of Children</option><!-- end ngRepeat: opt in element.elementDefaults.options_list_show --><option class=" " value="1 Child">1 Child</option><!-- end ngRepeat: opt in element.elementDefaults.options_list_show --><option class=" " value="2 Children">2 Children</option><!-- end ngRepeat: opt in element.elementDefaults.options_list_show --><option class=" " value="3 Children">3 Children</option><!-- end ngRepeat: opt in element.elementDefaults.options_list_show --><option class=" " value="4 Children">4 Children</option><!-- end ngRepeat: opt in element.elementDefaults.options_list_show --><option class=" " value="5 Children">5 Children</option><!-- end ngRepeat: opt in element.elementDefaults.options_list_show --></select></div></div></div></div>
+										
+									</div><!-- end ngRepeat: element in page track by element.identifier --><div class=" form-element form-element-field10 options-false index-false form-element-10 default-true form-element-type-oneLineText is-required-false odd -handle" data-identifier="field10" data-index="10" style="width: 100%">
+										<div class="form-element-html"><div><div class="oneLineText-cover field-cover "><span class="sub-label-true"><span class="main-label"><span>Child's Name</span></span><span class="sub-label"></span></span><div><span class="error"></span><input data-original-title="" placeholder="Child's Name" data-field-id="field10" name="field10[]" data-min-char="" data-max-char="" data-val-type="" data-regexp="" data-is-required="false" data-allow-spaces="" class="validation-lenient" data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="focus" data-html="true" data-input-mask="" data-mask-placeholder="" type="text"><i class="no-icon"></i></div></div></div></div>
+										
+									</div><!-- end ngRepeat: element in page track by element.identifier --><div class=" even form-element form-element-field13 options-false index-false form-element-11 default-true form-element-type-datepicker is-required-false -handle" data-identifier="field13" data-index="11" style="width: 50%">
+										<div class="form-element-html"><div><div class="datepicker-cover field-cover "><span class="sub-label-false"><span class="main-label"><span>DOB</span></span><span class="sub-label"></span></span><div><span class="error"></span><input data-original-title="" data-field-id="field13" placeholder="DOB" class="validation-lenient   hasDatepicker  " data-is-required="false" datepicker="" data-date-format="dd/mm/yy" data-date-days="{&quot;0&quot;:true,&quot;1&quot;:true,&quot;2&quot;:true,&quot;3&quot;:true,&quot;4&quot;:true,&quot;5&quot;:true,&quot;6&quot;:true}" data-date-min="" data-date-min-alt="" data-date-max-alt="" data-date-max="" data-date-lang="en" name="field13" data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="focus" data-html="true" type="text"><i class="icon-calendar"></i></div></div></div></div>
+										
+									</div><!-- end ngRepeat: element in page track by element.identifier --><div class=" form-element form-element-field9 options-false index-false form-element-12 default-true form-element-type-checkbox is-required-false odd -handle" data-identifier="field9" data-index="12" style="width: 50%">
+										<div class="form-element-html"><div><div class="images-false checkbox-cover field-cover"><span class="sub-label-false"><span class="main-label"></span><span class="sub-label"></span></span><div data-original-title="" data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="hover" data-html="true"><span class="error"></span><!-- ngRepeat: opt in element.elementDefaults.options_list_show --><label style="width:"><img><input data-field-id="field9" data-is-required="false" name="field9[]" value="Girl" class="validation-lenient" type="radio"><span><span>Girl</span></span></label><!-- end ngRepeat: opt in element.elementDefaults.options_list_show --><label style="width:"><img><input data-field-id="field9" data-is-required="false" name="field9[]" value="Boy" class="validation-lenient" type="radio"><span><span>Boy</span></span></label><!-- end ngRepeat: opt in element.elementDefaults.options_list_show --></div></div></div></div>
+										
+									</div><!-- end ngRepeat: element in page track by element.identifier --><div class=" even form-element form-element-field15 options-false index-false form-element-13 default-true form-element-type-oneLineText is-required-false -handle" data-identifier="field15" data-index="13" style="width: 100%">
+										<div class="form-element-html"><div><div class="oneLineText-cover field-cover "><span class="sub-label-true"><span class="main-label"><span>2nd Child's Name</span></span><span class="sub-label"></span></span><div><span class="error"></span><input data-original-title="" placeholder="2nd Child's Name" data-field-id="field15" name="field15[]" data-min-char="" data-max-char="" data-val-type="" data-regexp="" data-is-required="false" data-allow-spaces="" class="validation-lenient" data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="focus" data-html="true" data-input-mask="" data-mask-placeholder="" type="text"><i class="no-icon"></i></div></div></div></div>
+										
+									</div><!-- end ngRepeat: element in page track by element.identifier --><div class=" form-element form-element-field16 options-false index-false form-element-14 default-true form-element-type-datepicker is-required-false odd -handle" data-identifier="field16" data-index="14" style="width: 50%">
+										<div class="form-element-html"><div><div class="datepicker-cover field-cover "><span class="sub-label-false"><span class="main-label"><span>DOB</span></span><span class="sub-label"></span></span><div><span class="error"></span><input data-original-title="" data-field-id="field16" placeholder="DOB" class="validation-lenient   hasDatepicker  " data-is-required="false" datepicker="" data-date-format="dd/mm/yy" data-date-days="{&quot;0&quot;:true,&quot;1&quot;:true,&quot;2&quot;:true,&quot;3&quot;:true,&quot;4&quot;:true,&quot;5&quot;:true,&quot;6&quot;:true}" data-date-min="" data-date-min-alt="" data-date-max-alt="" data-date-max="" data-date-lang="en" name="field16" data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="focus" data-html="true" type="text"><i class="icon-calendar"></i></div></div></div></div>
+										
+									</div><!-- end ngRepeat: element in page track by element.identifier --><div class=" even form-element form-element-field14 options-false index-false form-element-15 default-true form-element-type-checkbox is-required-false -handle" data-identifier="field14" data-index="15" style="width: 50%">
+										<div class="form-element-html"><div><div class="images-false checkbox-cover field-cover"><span class="sub-label-false"><span class="main-label"></span><span class="sub-label"></span></span><div data-original-title="" data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="hover" data-html="true"><span class="error"></span><!-- ngRepeat: opt in element.elementDefaults.options_list_show --><label style="width:"><img><input data-field-id="field14" data-is-required="false" name="field14[]" value="Girl" class="validation-lenient" type="radio"><span><span>Girl</span></span></label><!-- end ngRepeat: opt in element.elementDefaults.options_list_show --><label style="width:"><img><input data-field-id="field14" data-is-required="false" name="field14[]" value="Boy" class="validation-lenient" type="radio"><span><span>Boy</span></span></label><!-- end ngRepeat: opt in element.elementDefaults.options_list_show --></div></div></div></div>
+										
+									</div><!-- end ngRepeat: element in page track by element.identifier --><div class=" form-element form-element-field12 options-false index-false form-element-16 default-true form-element-type-oneLineText is-required-false odd -handle" data-identifier="field12" data-index="16" style="width: 100%">
+										<div class="form-element-html"><div><div class="oneLineText-cover field-cover "><span class="sub-label-true"><span class="main-label"><span>3rd Child's Name</span></span><span class="sub-label"></span></span><div><span class="error"></span><input data-original-title="" placeholder="3rd Child's Name" data-field-id="field12" name="field12[]" data-min-char="" data-max-char="" data-val-type="" data-regexp="" data-is-required="false" data-allow-spaces="" class="validation-lenient" data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="focus" data-html="true" data-input-mask="" data-mask-placeholder="" type="text"><i class="no-icon"></i></div></div></div></div>
+										
+									</div><!-- end ngRepeat: element in page track by element.identifier --><div class=" even form-element form-element-field8 options-false index-false form-element-17 default-true form-element-type-datepicker is-required-false -handle" data-identifier="field8" data-index="17" style="width: 50%">
+										<div class="form-element-html"><div><div class="datepicker-cover field-cover "><span class="sub-label-false"><span class="main-label"><span>DOB</span></span><span class="sub-label"></span></span><div><span class="error"></span><input data-original-title="" data-field-id="field8" placeholder="DOB" class="validation-lenient   hasDatepicker  " data-is-required="false" datepicker="" data-date-format="dd/mm/yy" data-date-days="{&quot;0&quot;:true,&quot;1&quot;:true,&quot;2&quot;:true,&quot;3&quot;:true,&quot;4&quot;:true,&quot;5&quot;:true,&quot;6&quot;:true}" data-date-min="" data-date-min-alt="" data-date-max-alt="" data-date-max="" data-date-lang="en" name="field8" data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="focus" data-html="true" type="text"><i class="icon-calendar"></i></div></div></div></div>
+										
+									</div><!-- end ngRepeat: element in page track by element.identifier --><div class=" form-element form-element-field17 options-false index-false form-element-18 default-true form-element-type-checkbox is-required-false odd -handle" data-identifier="field17" data-index="18" style="width: 50%">
+										<div class="form-element-html"><div><div class="images-false checkbox-cover field-cover"><span class="sub-label-false"><span class="main-label"></span><span class="sub-label"></span></span><div data-original-title="" data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="hover" data-html="true"><span class="error"></span><!-- ngRepeat: opt in element.elementDefaults.options_list_show --><label style="width:"><img><input data-field-id="field17" data-is-required="false" name="field17[]" value="Girl" class="validation-lenient" type="radio"><span><span>Girl</span></span></label><!-- end ngRepeat: opt in element.elementDefaults.options_list_show --><label style="width:"><img><input data-field-id="field17" data-is-required="false" name="field17[]" value="Boy" class="validation-lenient" type="radio"><span><span>Boy</span></span></label><!-- end ngRepeat: opt in element.elementDefaults.options_list_show --></div></div></div></div>
+										
+									</div><!-- end ngRepeat: element in page track by element.identifier --><div class=" even form-element form-element-field18 options-false index-false form-element-19 default-true form-element-type-oneLineText is-required-false -handle" data-identifier="field18" data-index="19" style="width: 100%">
+										<div class="form-element-html"><div><div class="oneLineText-cover field-cover "><span class="sub-label-true"><span class="main-label"><span>4th Child's Name</span></span><span class="sub-label"></span></span><div><span class="error"></span><input data-original-title="" placeholder="4th Child's Name" data-field-id="field18" name="field18[]" data-min-char="" data-max-char="" data-val-type="" data-regexp="" data-is-required="false" data-allow-spaces="" class="validation-lenient" data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="focus" data-html="true" data-input-mask="" data-mask-placeholder="" type="text"><i class="no-icon"></i></div></div></div></div>
+										
+									</div><!-- end ngRepeat: element in page track by element.identifier --><div class=" form-element form-element-field22 options-false index-false form-element-20 default-true form-element-type-datepicker is-required-false odd -handle" data-identifier="field22" data-index="20" style="width: 50%">
+										<div class="form-element-html"><div><div class="datepicker-cover field-cover "><span class="sub-label-false"><span class="main-label"><span>DOB</span></span><span class="sub-label"></span></span><div><span class="error"></span><input data-original-title="" data-field-id="field22" placeholder="DOB" class="validation-lenient   hasDatepicker  " data-is-required="false" datepicker="" data-date-format="dd/mm/yy" data-date-days="{&quot;0&quot;:true,&quot;1&quot;:true,&quot;2&quot;:true,&quot;3&quot;:true,&quot;4&quot;:true,&quot;5&quot;:true,&quot;6&quot;:true}" data-date-min="" data-date-min-alt="" data-date-max-alt="" data-date-max="" data-date-lang="en" name="field22" data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="focus" data-html="true" type="text"><i class="icon-calendar"></i></div></div></div></div>
+										
+									</div><!-- end ngRepeat: element in page track by element.identifier --><div class=" even form-element form-element-field23 options-false index-false form-element-21 default-true form-element-type-checkbox is-required-false -handle" data-identifier="field23" data-index="21" style="width: 50%">
+										<div class="form-element-html"><div><div class="images-false checkbox-cover field-cover"><span class="sub-label-false"><span class="main-label"></span><span class="sub-label"></span></span><div data-original-title="" data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="hover" data-html="true"><span class="error"></span><!-- ngRepeat: opt in element.elementDefaults.options_list_show --><label style="width:"><img><input data-field-id="field23" data-is-required="false" name="field23[]" value="Girl" class="validation-lenient" type="radio"><span><span>Girl</span></span></label><!-- end ngRepeat: opt in element.elementDefaults.options_list_show --><label style="width:"><img><input data-field-id="field23" data-is-required="false" name="field23[]" value="Boy" class="validation-lenient" type="radio"><span><span>Boy</span></span></label><!-- end ngRepeat: opt in element.elementDefaults.options_list_show --></div></div></div></div>
+										
+									</div><!-- end ngRepeat: element in page track by element.identifier --><div class=" form-element form-element-field21 options-false index-false form-element-22 default-true form-element-type-oneLineText is-required-false odd -handle" data-identifier="field21" data-index="22" style="width: 100%">
+										<div class="form-element-html"><div><div class="oneLineText-cover field-cover "><span class="sub-label-true"><span class="main-label"><span>5th Child's Name</span></span><span class="sub-label"></span></span><div><span class="error"></span><input data-original-title="" placeholder="5th Child's Name" data-field-id="field21" name="field21[]" data-min-char="" data-max-char="" data-val-type="" data-regexp="" data-is-required="false" data-allow-spaces="" class="validation-lenient" data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="focus" data-html="true" data-input-mask="" data-mask-placeholder="" type="text"><i class="no-icon"></i></div></div></div></div>
+										
+									</div><!-- end ngRepeat: element in page track by element.identifier --><div class=" even form-element form-element-field20 options-false index-false form-element-23 default-true form-element-type-datepicker is-required-false -handle" data-identifier="field20" data-index="23" style="width: 50%">
+										<div class="form-element-html"><div><div class="datepicker-cover field-cover "><span class="sub-label-false"><span class="main-label"><span>DOB</span></span><span class="sub-label"></span></span><div><span class="error"></span><input data-original-title="" data-field-id="field20" placeholder="DOB" class="validation-lenient   hasDatepicker  " data-is-required="false" datepicker="" data-date-format="dd/mm/yy" data-date-days="{&quot;0&quot;:true,&quot;1&quot;:true,&quot;2&quot;:true,&quot;3&quot;:true,&quot;4&quot;:true,&quot;5&quot;:true,&quot;6&quot;:true}" data-date-min="" data-date-min-alt="" data-date-max-alt="" data-date-max="" data-date-lang="en" name="field20" data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="focus" data-html="true" type="text"><i class="icon-calendar"></i></div></div></div></div>
+										
+									</div><!-- end ngRepeat: element in page track by element.identifier --><div class=" form-element form-element-field19 options-false index-false form-element-24 default-true form-element-type-checkbox is-required-false odd -handle" data-identifier="field19" data-index="24" style="width: 50%">
+										<div class="form-element-html"><div><div class="images-false checkbox-cover field-cover"><span class="sub-label-false"><span class="main-label"></span><span class="sub-label"></span></span><div data-original-title="" data-placement="right" data-toggle="tooltip" tooltip="" data-trigger="hover" data-html="true"><span class="error"></span><!-- ngRepeat: opt in element.elementDefaults.options_list_show --><label style="width:"><img><input data-field-id="field19" data-is-required="false" name="field19[]" value="Girl" class="validation-lenient" type="radio"><span><span>Girl</span></span></label><!-- end ngRepeat: opt in element.elementDefaults.options_list_show --><label style="width:"><img><input data-field-id="field19" data-is-required="false" name="field19[]" value="Boy" class="validation-lenient" type="radio"><span><span>Boy</span></span></label><!-- end ngRepeat: opt in element.elementDefaults.options_list_show --></div></div></div></div>
+										
+									</div><!-- end ngRepeat: element in page track by element.identifier --><div class=" even form-element form-element-field24 options-false index-false form-element-25 default-false form-element-type-submit is-required-false -handle" data-identifier="field24" data-index="25" style="width: 100%">
+										<div class="form-element-html"><div><div class="animate-false align-center wide-true submit-cover field-cover"><button type="submit" class="button submit-button"><span class="text ">SUBSCRIBE</span><span class="spin-cover"><i style="color:" class="loading-icon icon-cog animate-spin"></i></span></button></div><div class="submit-response "></div><input class="required_field " name="website" type="text"></div></div>
+										
+									</div><!-- end ngRepeat: element in page track by element.identifier -->
+								</div>
+							</div>
+						</form>
+						<div class="prev-next prev-next-1" style="width: px; color: #545454; font-size: 95%; background: url(http://www.beingtheparent.com/wp-content/plugins/formcraft3/views/../assets/images/backgrounds/fibre.png)">
+							<div><input class="ng-pristine  " type="text"><span class="inactive page-prev "><i class="icon-angle-left"></i>Previous</span></div>
+							<div><input class="ng-pristine  " type="text"><span class="page-next ">Next<i class="icon-angle-right"></i></span></div>
+						</div>
+					</div></div></div>
+<div id="reached" style="margin-top: 10px;"></div>
+</div>
+</div>
+        </div>
+	</div>
+	</div>
+<style>.snp-pop-11573 .snp-theme-html { max-width: 680px;}.snp-pop-11573 .snp-theme-html { height: 450px;}</style></div>		</div>
+		<script>
+			var snp_timer;
+			var snp_timer_o;
+			var snp_ajax_url= 'http://www.beingtheparent.com/wp-admin/admin-ajax.php';
+			var snp_ignore_cookies = false;
+			var snp_is_interal_link;
+			var snp_enable_analytics_events = false;var snp_enable_mobile = true;			jQuery(document).ready(function(){
+				jQuery('[placeholder]').placeholder();				jQuery(".snp_nothanks, .snp_closelink, .snp-close-link").click(function(){
+					snp_close();
+					return false;
+				});
+				jQuery(".snp_subscribeform").submit(function(){
+					return snp_onsubmit(jQuery(this));
+				});
+												var snp_open=jQuery('#snppopup-welcome .snp_open').val();
+								var snp_open_after=jQuery('#snppopup-welcome .snp_open_after').val();
+								var snp_open_inactivity=jQuery('#snppopup-welcome .snp_open_inactivity').val();
+								var snp_open_scroll=jQuery('#snppopup-welcome .snp_open_scroll').val();
+								var snp_op_welcome = false;
+								if(snp_open=='inactivity')
+								{
+								    var snp_idletime=0;
+								    function snp_timerIncrement()
+								    {
+									snp_idletime++;
+									if (snp_idletime > snp_open_inactivity)
+									{
+									    window.clearTimeout(snp_idleInterval);
+									    snp_open_popup('','','snppopup-welcome','welcome');
+									}
+								    }
+								    var snp_idleInterval = setInterval(snp_timerIncrement, 1000);
+								    jQuery(this).mousemove(function (e) {
+									snp_idletime = 0;
+								    });
+								    jQuery(this).keypress(function (e) {
+									snp_idletime = 0;
+								    });
+								}
+								else if(snp_open=='scroll')
+								{
+								    jQuery(window).scroll(function() {
+									var h = jQuery(document).height()-jQuery(window).height();
+									var sp = jQuery(window).scrollTop();
+									var p = parseInt(sp/h*100);
+									if(p>=snp_open_scroll &&  snp_op_welcome == false){
+									    snp_open_popup('','','snppopup-welcome','welcome'); snp_op_welcome = true;
+									}
+								     });
+								}
+								else
+								{
+								    if(snp_open_after)
+								    {
+									    snp_timer_o=setTimeout("snp_open_popup('','','snppopup-welcome','welcome');",snp_open_after*1000);	
+								    }
+								    else
+								    {
+									    snp_open_popup('','','snppopup-welcome','welcome');
+								    }
+								}
+								});	
+					</script>
+		<script type="text/javascript">
 /* <![CDATA[ */
 var _wpcf7 = {"loaderUrl":"http:\/\/www.beingtheparent.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
 /* ]]> */
@@ -1049,11 +1524,24 @@ var _wpcf7 = {"loaderUrl":"http:\/\/www.beingtheparent.com\/wp-content\/plugins\
 var Bunyad = {"ajaxurl":"http:\/\/www.beingtheparent.com\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.beingtheparent.com/wp-content/plugins/bwp-minify/min/?f=wp-includes/js/comment-reply.min.js,wp-content/plugins/bbpress/templates/default/js/editor.js,wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js,wp-content/plugins/contact-form-7/includes/js/scripts.js,wp-content/themes/smart-mag/js/bunyad-theme.js,wp-content/themes/smart-mag/js/jquery.flexslider-min.js"></script>
-<script type="text/javascript" src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201519"></script>
+<script type="text/javascript" src="http://www.beingtheparent.com/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/arscode-ninja-popups/js/jquery.ck.min.js,wp-content/plugins/arscode-ninja-popups/fancybox2/jquery.fancybox.min.js,wp-content/plugins/arscode-ninja-popups/js/jquery.placeholder.js,wp-content/plugins/arscode-ninja-popups/js/ninjapopups.min.js,wp-includes/js/comment-reply.min.js,wp-content/plugins/bbpress/templates/default/js/editor.js,wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js,wp-content/plugins/contact-form-7/includes/js/scripts.js,wp-content/themes/smart-mag/js/bunyad-theme.js,wp-content/themes/smart-mag/js/jquery.flexslider-min.js"></script>
+<script type="text/javascript" src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201545"></script>
 <script type="text/javascript" src="http://beingtheparent.api.oneall.com/socialize/library.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var FC = {"ajaxurl":"http:\/\/www.beingtheparent.com\/wp-admin\/admin-ajax.php","validation":{"is_required":"Required","is_invalid":"Invalid","min_char":"Min [x] characters required","max_char":"Max [x] characters allowed","min_files":"Min [x] file(s) required","max_files":"Max [x] file(s) allowed","allow_email":"Invalid Email","allow_url":"Invalid URL","allow_regexp":"Invalid Expression","allow_alphabets":"Only alphabets","allow_numbers":"Only numbers","allow_alphanumeric":"Should be alphanumeric","failed":"Please correct the errors and try again","success":"Thanks for subscribing with us!"},"datepickerLang":"http:\/\/www.beingtheparent.com\/wp-content\/plugins\/formcraft3\/assets\/js\/datepicker-lang\/"};
+var FC = {"ajaxurl":"http:\/\/www.beingtheparent.com\/wp-admin\/admin-ajax.php","validation":{"is_required":"Required","is_invalid":"Invalid","min_char":"Min [x] characters required","max_char":"Max [x] characters allowed","min_files":"Min [x] file(s) required","max_files":"Max [x] file(s) allowed","allow_email":"Invalid Email","allow_url":"Invalid URL","allow_regexp":"Invalid Expression","allow_alphabets":"Only alphabets","allow_numbers":"Only numbers","allow_alphanumeric":"Should be alphanumeric","failed":"Please correct the errors and try again","success":"Thanks for subscribing with us!"},"datepickerLang":"http:\/\/www.beingtheparent.com\/wp-content\/plugins\/formcraft3\/assets\/js\/datepicker-lang\/"};
+/* ]]> */
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var FC_f = {"ajaxurl":"http:\/\/www.beingtheparent.com\/wp-admin\/admin-ajax.php"};
+var FC_f = {"ajaxurl":"http:\/\/www.beingtheparent.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.beingtheparent.com/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/formcraft3/assets/js/tooltip.min.js,wp-includes/js/jquery/ui/core.min.js,wp-includes/js/jquery/ui/datepicker.min.js,wp-includes/js/jquery/ui/widget.min.js,wp-includes/js/jquery/ui/mouse.min.js,wp-includes/js/jquery/ui/slider.min.js,wp-content/plugins/formcraft3/assets/js/form.js,wp-content/plugins/formcraft3/assets/js/autosize.js,wp-content/plugins/formcraft3/assets/js/jquery.fileupload.js"></script>
 
-	<script src="http://stats.wp.com/e-201519.js" type="text/javascript"></script>
+	<script src="http://stats.wp.com/e-201545.js" type="text/javascript"></script>
 	<script type="text/javascript">
 	st_go({v:'ext',j:'1:3.3.3',blog:'83794428',post:'702',tz:'5.5'});
 	var load_cmc = function(){linktracker_init(83794428,702,2);};
