@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediaclassified.ca privacy policy that was archived on 2015-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150214204346id_/http%3A//mediaclassified.ca%3FContentID%3D8b1b0fb7-2519-4ddf-aaaa-b1a8de9c5a1b) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediaclassified.ca privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103154658id_/http%3A//www.mediaclassified.ca%3FContentID%3D8b1b0fb7-2519-4ddf-aaaa-b1a8de9c5a1b) for the most accurate reproduction.*
 
 # Media Classified | Free Publications – Print – Web | Distribution Solutions
 
@@ -11,7 +11,11 @@ Media Classified Corporation and its associates (collectively “Media Classifie
 
 ##  What is personal information?
 
-“Personal information” is personally identifiable information such as your name, residential address, and email address, and includes information about your service subscriptions and usage, credit information, billing records, service, and recorded complaints. Personal information is collected by Media Classified only when you specifically and knowingly choose to provide it us, such as when you subscribe to a Media Classified publication, enter a Media Classified promotion, or choose to receive information, products, or services from Media Classified. We may also receive personal information from our business partners and other third parties, provided that such third parties confirm to us that they have obtained your consent to the disclosure of your personal information. Publicly available information, such as a public directory listing of your name, address, telephone number and electronic address, is not considered personal information.
+“Personal information” is personally identifiable information such as your name, residential address, e-mail address, and telephone numbers, and includes information about your service subscriptions and usage, credit information, billing records, service, and recorded complaints. Personal information is collected by Media Classified only when you specifically and knowingly choose to provide it to us, such as when you subscribe to a Media Classified publication, enter a Media Classified promotion, attend a trade or consumer show, or choose to receive information, products, or services from Media Classified. We may also receive personal information from our business partners and other third parties, provided that such third parties confirm to us that they have obtained your consent to the disclosure of your personal information. Publicly available information, such as a public directory listing of your name, address, telephone number and electronic address, is not considered personal information.
+
+If you enter a Media Classified Corporation affiliated contest or promotion, we may use your personal contact information to administer the contest or promotion, including contacting, announcing and promoting the prize winners. Our contest rules may also require us to contact you with promotions and other information about Media Classified’s products. We will indicate a way for you to opt out of being contacted. Some of our contests and promotions may include co-sponsors who have their own privacy policies. In such cases, Media Classified will make its best effort to indicate in the contest rules and/or entry forms that you personal information is being shared with these co-sponsors.
+
+If you do not wish to receive any further marketing offers, you may opt-out at any time by following the opt-out procedure outlined below.
 
   
 
