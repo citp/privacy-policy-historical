@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youjizzlive.net privacy policy that was archived on 2015-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150120011353id_/http%3A//www.youjizzlive.net/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youjizzlive.net privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103024138id_/http%3A//www.youjizzlive.net/privacy.html%3F) for the most accurate reproduction.*
 
 # YouJizzLive.net - Privacy Policy
 
@@ -50,4 +50,4 @@ The address for correspondence by post is
 ICF Technology, Inc.  
 PO Box 21508  
 Seattle, WA 98111  
-USA 
+USA
