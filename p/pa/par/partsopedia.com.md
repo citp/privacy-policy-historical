@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partsopedia.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511142557id_/http%3A//partsopedia.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partsopedia.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103081403id_/http%3A//partsopedia.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Notice : Partsopedia, Aftermarket Harley Davidson Products
 
