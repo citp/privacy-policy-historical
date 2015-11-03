@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forexcoin.org privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527095156id_/http%3A//verio.com/about/legal/privacy%3Futm_source%3DParkedpages%26utm_medium%3Dveriosites%26utm_campaign%3DParked1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexcoin.org privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103062145id_/http%3A//verio.com/about/legal/privacy%3Futm_source%3DParkedpages%26utm_medium%3Dveriosites%26utm_campaign%3DParked1) for the most accurate reproduction.*
 
 # Verio Privacy Policy
 
@@ -6,10 +6,14 @@
 
 * * *
 
-Verio Inc.  
-Effective: December 30, 2013 
+**As of May 26, 2015, _Endurance International Group_ acquired the non-Cloud(n) retail Verio business and consenting viaVerio Channel Partners and assumed the privacy policy for these accounts. If you are a non-Cloud(n) retail Verio customer or a viaVerio Channel Partner, look for more information in your inbox over the next few months. If you have any questions, please email us at [transition@verio-inc.com](mailto:transition@verio-inc.com).**
 
-We, Verio Inc. (“Verio”), value the business of our customers and are committed to protecting any data that we collect regarding our customers. By using Verio’s websites and/or purchasing Verio’s products and services (the “Services”), you (either a visitor to a Verio corporate website or a Customer) agree to the use of the data that we collect in accordance with this Privacy Policy. This Privacy Policy may be updated from time to time, at Verio’s sole discretion. Verio will provide you a notice of material changes to this Privacy Policy (e.g., material changes to the way Verio uses or discloses your Personal Information) by disclosing this amendment on its homepage and providing electronic notice of such changes on your Control Panel or BackRoom or to the email address we have on file. Your continued use of this website or the Services following your receipt of notice of material changes constitutes your agreement with any changes or modifications that Verio may make. 
+Verio, a business unit of NTT America, Inc.  
+Effective: April 1, 2015
+
+As of April 1, 2015, Verio Inc. has merged with its parent company, NTT America, Inc. The following Privacy Policy applies to all “Verio” products and services.
+
+We, Verio, a business unit of NTT America, Inc., (“Verio”), value the business of our customers and are committed to protecting any data that we collect regarding our customers. By using Verio’s websites and/or purchasing Verio’s products and services (the “Services”), you (either a visitor to a Verio corporate website or a Customer) agree to the use of the data that we collect in accordance with this Privacy Policy. This Privacy Policy may be updated from time to time, at Verio’s sole discretion. Verio will provide you a notice of material changes to this Privacy Policy (e.g., material changes to the way Verio uses or discloses your Personal Information) by disclosing this amendment on its homepage and providing electronic notice of such changes on your Control Panel or BackRoom or to the email address we have on file. Your continued use of this website or the Services following your receipt of notice of material changes constitutes your agreement with any changes or modifications that Verio may make. 
 
 This Privacy Policy applies only to Verio’s treatment of data collected online, and does not apply to any offline data collection practices or to the data collection practices of any third parties, Verio customers, or any entities affiliated with Verio. 
 
@@ -74,7 +78,7 @@ Verio disclaims any intention to censor, edit or engage in ongoing review or sur
 
 Questions, comments, or complaints regarding Privacy Policy and data collection and processing practices can be mailed or emailed to: 
 
-> VERIO INC.  
+> VERIO, a business unit of NTT America, Inc.  
 >  Attention: Legal Department  
 >  5050 Conference Way North  
 >  Boca Raton, FL 33431  
