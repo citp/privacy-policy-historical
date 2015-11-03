@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iiht.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407115238id_/http%3A//www.iiht.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iiht.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103171017id_/http%3A//www.iiht.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy, Indian Institute of Hardware Technology Limited | IIHT, Best IT Training Institutes
 
 ### Privacy Policy
 
@@ -45,13 +45,13 @@ Our website may contain links to other websites of interest. However, once you h
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * whenever you are asked to fill in a form on the website, you can choose not to fill the form.
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [](mailto:%3Cscript%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy86295%20=%20'info'%20+%20'@';%20addy86295%20=%20addy86295%20+%20'iiht'%20+%20'.'%20+%20'com';%20document.write\('%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy86295%20+%20'\\'%3E'\);%20document.write\(addy86295\);%20document.write\('%3C\\/a%3E'\);%20//--%3E\\n%20%3C/script%3E%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3Cspan%20style=\\'display:%20none;\\'%3E'\);%20//--%3E%20%3C/script%3EThis%20email%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it.%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3C/'\);%20document.write\('span%3E'\);%20//--%3E%20%3C/script%3E)[info@iiht.com](mailto:info@iiht.com)
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [info@iiht.com](mailto:info@iiht.com)
   * We will not sell, distribute or lease your personal information to third parties, unless, we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting, if you tell us that you wish this to happen.
   * If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
 
 
-### Website disclaimer 
+### Website disclaimer
 
 The information contained in this website is for general information purposes only. The information is provided by Indian Institute of Hardware Technology Limited and while we endeavor to keep the information up to date and correct. We make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the website or the information, products, services, or related graphics contained on the website for any purpose. Any reliance you place on such information is therefore strictly at your own risk.
 
@@ -71,7 +71,7 @@ Cookies are small digital signature files that are stored by your web browser th
 
 Google, as a third party vendor, uses cookies to serve ads.
 
-Google's use of the DART cookie enables it to serve ads to visitors based on their visit to sites they visit on the Internet.
+Google’s use of the DART cookie enables it to serve ads to visitors based on their visit to sites they visit on the Internet.
 
 Website visitors may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
@@ -79,7 +79,7 @@ Website visitors may opt out of the use of the DART cookie by visiting the Googl
 
 15, 4th Floor, Sri Lakashmi Complex.  
 St. Marks Road,  
-Bangalore - 560 001.  
+Bangalore – 560 001.  
 INDIA.
 
-Email: [](mailto:%3Cscript%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy63609%20=%20'info'%20+%20'@';%20addy63609%20=%20addy63609%20+%20'iiht'%20+%20'.'%20+%20'com';%20document.write\('%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy63609%20+%20'\\'%3E'\);%20document.write\(addy63609\);%20document.write\('%3C\\/a%3E'\);%20//--%3E\\n%20%3C/script%3E%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3Cspan%20style=\\'display:%20none;\\'%3E'\);%20//--%3E%20%3C/script%3EThis%20email%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it.%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3C/'\);%20document.write\('span%3E'\);%20//--%3E%20%3C/script%3E)[info@iiht.com](mailto:info@iiht.com)
+Email: [info@iiht.com](mailto:info@iiht.com)
