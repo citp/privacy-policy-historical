@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wgu.edu privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607114212id_/http%3A//www.wgu.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wgu.edu privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104001422id_/http%3A//www.wgu.edu/privacy) for the most accurate reproduction.*
 
 # WGU's Privacy Policy
 
