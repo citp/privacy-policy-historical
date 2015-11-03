@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beingtheparent.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504105627id_/http%3A//www.beingtheparent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beingtheparent.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103043321id_/http%3A//www.beingtheparent.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Being The Parent
 
@@ -30,7 +30,7 @@ We collect Your personal information in the following ways when You register to 
 
 As a web based platform, We enable You to register for the services and create an account on Our Website. Your settings and control is completely monitored by You and We will only abide by Your settings.
 
-On registration You are automatically eligible for all promotional offers and newsletters published by Us. We will provide You the ability to unsubscribe to the above if You choose so. Without Your consent, We will not share or sell any personal information with third parties. Your personal information will be used as per this Policy.
+On registration You are automatically eligible for all promotional offers and newsletters published by Us and our partners, We will provide You the ability to unsubscribe to the above if You choose so. You may be contacted by us or our partners for promotional activities. Your personal information will be used as per this Policy.
 
   * **Your Content:**
 
@@ -74,7 +74,7 @@ We will not share Your personally identifiable information with other parties ex
 
 
 
-We do not share any personally identifiable information with any of Our third party service providers or merchants, unless permitted by You. Any add-on services that we provide do not capture Your personal information and is done purely anonymously. Your usage trends will be used for internal business development purposes and to better the service provided to You.
+We may share  your information with any of Our third party service providers or merchants or partners. Any add-on services that we provide does not capture Your personal information and is done purely anonymously. Your usage trends will be used for internal business development purposes and to better the service provided to You.
 
   * **Communication and Update**
 
@@ -97,12 +97,7 @@ We may also disclose Your personal and other information You provide, to another
   * **Other uses:**
 
 
-  * Providing Our Services to You, including the display of customized content and advertising;Auditing, research and analysis in order to maintain, protect and improve Our services; 
-
-Ensuring the technical functioning of Our network; and
-
-Developing new services.
-
+  * Providing Our Services to You, including the display of customized content and advertising;Auditing, research and analysis in order to maintain, protect and improve Our services;Ensuring the technical functioning of Our network; andDeveloping new services.
 
 
   * **Disclosure of non-personally identifiable information:**
@@ -149,10 +144,7 @@ We take appropriate security measures to protect against unauthorized access to 
   * **Users Obligations**
 
 
-  * You must, at all times, respect the terms and conditions of the then-current Policy and the Terms of Service. This includes respecting all intellectual property rights which may belong to third parties.You must not create or otherwise disseminate any information which may be deemed to be injurious, violent, offensive, racist or xenophobic or which may otherwise violate the purpose and spirit of Company and its community of Users.
-
-You must not provide information to Us and /or other Users which you believe might be injurious or detrimental to Your person, professional or social status.
-
+  * You must, at all times, respect the terms and conditions of the then-current Policy and the Terms of Service. This includes respecting all intellectual property rights which may belong to third parties.You must not create or otherwise disseminate any information which may be deemed to be injurious, violent, offensive, racist or xenophobic or which may otherwise violate the purpose and spirit of Company and its community of Users.You must not provide information to Us and /or other Users which you believe might be injurious or detrimental to Your person, professional or social status.
 
 
 
