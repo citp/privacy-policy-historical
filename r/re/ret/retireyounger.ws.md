@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retireyounger.ws privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504033431id_/http%3A//retireyounger.ws/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retireyounger.ws privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103031957id_/http%3A//retireyounger.ws/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
