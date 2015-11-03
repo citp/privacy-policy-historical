@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the impulsetoday.com privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428114732id_/http%3A//impulsetoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the impulsetoday.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103164340id_/http%3A//www.impulsetoday.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Impulse Today
 
