@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the bostonscientific.com privacy policy that was archived on 2015-03-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150323132340id_/http%3A//www.bostonscientific.com/en-US/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bostonscientific.com privacy policy that was archived on 2015-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151103225657id_/http%3A//www.bostonscientific.com/en-US/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" style="height: 768px; margin-left: 0px;"><!--<![endif]--><head>
+<!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths  ext-strict" style=""><!--<![endif]--><head>
 
 
     <meta charset="utf-8">
@@ -21,45 +21,32 @@
 
         var disClaimerParent="";
         var session= sessionStorage.getItem(disClaimerParent);
-        var qString="null";       
+        var qString="null"; 
         var strHash = window.location.hash;
         var reffer = document.referrer; 
-
         if(session==null){
             if(disClaimerParent!=''){            
-                 if(qString == "null")
+                 if((qString !="null") && (strHash.length>0) )
                  	{
-	                
-	      	        	 if (strHash.length > 0) 
-	                         { 
-	                        window.location.href = '/.html?disclaim=/en-US/privacy-policy.html'+strHash+'';	      
-	                         }
-	                	 else
-	                         {                            
-                                window.location.href = '/.html?disclaim=/en-US/privacy-policy.html&value='+reffer;                             
-	                         }
+                      window.location.href = '/.html?disclaim=/en-US/privacy-policy.html?null'+strHash+'';
+                    }
+                else if(qString !== "null")
+	                {  
+                      window.location.href = '/.html?disclaim=/en-US/privacy-policy.html?null';                             
 	                }
-	     	 else
-	                        {	                      
-	                     window.location.href = '/.html?disclaim=/en-US/privacy-policy.html?null';	      
-	                        }
-            		}
-   }
-                
-     </script> 
-
+                else if (strHash.length > 0)
+                     {
+                      window.location.href = '/.html?disclaim=/en-US/privacy-policy.html'+strHash+'';
+                     }
+                else if(qString == "null" && strHash.length==0)
+                {				
+                  window.location.href = '/.html?disclaim=/en-US/privacy-policy.html&value='+reffer;
+		        }
+             	}
+		}                
+     </script>
     
-<!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5224NF"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-5224NF');</script>
-<!-- End Google Tag Manager -->
 
-<script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
 <script type="text/javascript" src="/etc/clientlibs/granite/jquery.js"></script><script type="text/javascript" src="/etc/clientlibs/granite/utils.js"></script><script type="text/javascript" src="/etc/clientlibs/granite/jquery/granite.js"></script><script type="text/javascript" src="/etc/clientlibs/foundation/jquery.js"></script><script type="text/javascript" src="/etc/clientlibs/foundation/shared.js"></script><script type="text/javascript" src="/libs/cq/personalization/clientlib/kernel.js"></script><script type="text/javascript" src="/etc/designs/gwc/clientlib/kernel.js"></script><script>
 
 var store = CQ_Analytics.StoreRegistry.getStore("pagedata");
@@ -96,7 +83,7 @@ else{
 
 
 var visitor=store.getProperty("visitorType",true);
-</script><script type="text/javascript" src="/foresee/foresee-surveydef.js"></script></head>
+</script><link type="text/css" rel="stylesheet" href="/libs/cq/ui/widgets/themes/default.css"><link type="text/css" rel="stylesheet" href="/libs/cq/searchpromote/widgets/themes/default.css"><link type="text/css" rel="stylesheet" href="/etc/clientlibs/foundation/searchpromote/themes/default.css"><link type="text/css" rel="stylesheet" href="/libs/cq/analytics/widgets/themes/default.css"></head>
   
 
 
@@ -126,7 +113,7 @@ var visitor=store.getProperty("visitorType",true);
 
    			 
 			
-				<body data-tracking="{event: 'pageView', values: {visitorType:visitor,channel:channelValue,businessperVisit:'',campaign:'',region:'en-US'}, componentPath: 'gwc/components/page/display/fullwidthContentPage'}" data-twttr-rendered="true">
+				<body data-tracking="{event: 'pageView', values: {visitorType:visitor,channel:channelValue,businessperVisit:'',campaign:'',region:'en-US'}, componentPath: 'gwc/components/page/display/fullwidthContentPage'}" class="   ext-webkit ext-safari ext-safari4 ext-linux">
 			
 
 <script type="text/javascript" src="/etc/clientlibs/granite/underscore.js"></script>
@@ -209,6 +196,54 @@ var visitor=store.getProperty("visitorType",true);
 		
 		<!-- COMPONENT END: logo -->
 		<div class="mobile-drawer-container">
+		
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<!-- COMPONENT START : COM061 Pop-up -->
+    <div id="externalUrlPopup" class="external-site-popup-container">
+        <div class="container main">
+            <div class="logo-container">
+                <!-- COMPONENT: responsive-image -->
+                <img class="img img-responsive js-image-responsive js-disclaimer-logo logo" alt="" src="/content/dam/BostonScientific Testing/boston-scientific-logo-no-tag.png" data-xssrc="/content/dam/BostonScientific Testing/boston-scientific-logo-no-tag.png" data-hdxssrc="/content/dam/BostonScientific Testing/boston-scientific-logo-no-tag.png" data-smsrc="/content/dam/BostonScientific Testing/boston-scientific-logo-no-tag.png" data-hdsmsrc="/content/dam/BostonScientific Testing/boston-scientific-logo-no-tag.png" data-mdsrc="/content/dam/BostonScientific Testing/boston-scientific-logo-no-tag.png" data-hdmdsrc="/content/dam/BostonScientific Testing/boston-scientific-logo-no-tag.png">
+                <!-- COMPONENT END: responsive-image -->
+            </div>
+            <div id="popup-container" class="popup-container">
+                <h4>
+                    Notice
+                </h4>
+                <p>
+                    </p><p>You are leaving bostonscientific.com. Boston Scientific is not responsible for the accuracy of the content on third-party sites. Would you like to continue?</p>
+
+                <p></p>
+
+            </div>
+        </div>
+        <div class="button-container">
+            <p class="hyperlink-button-center">
+                <a class="popup-back-btn cq-link-as-cta" id="btnPopupClose" href="#">No</a>
+                    <a class="popup-continue-btn cq-link-as-cta" id="btnPopupContinue" href="#">Yes </a>
+            </p>
+        </div>
+    </div>
+    <a id="externalUrlCheck" href="#externalUrlPopup"></a>
+    <input type="hidden" id="includeDomainNames" name="includeDomainNames" value="http://www.voicesforpfd.org">
+    <input type="hidden" id="isNewWindow" name="isNewWindow" value="true">
+    <!-- COMPONENT END : COM061 Pop-up -->
+
+
 			
 
 
@@ -232,11 +267,60 @@ var visitor=store.getProperty("visitorType",true);
 	var $JQ14 = jQuery.noConflict();
 </script>
 
+<script type="text/javascript" src="/etc/clientlibs/granite/clientlibrarymanager.js"></script>
+<script type="text/javascript">
+GraniteClientLibraryManager.write([{"p":"/libs/cq/ui/rte.js","c":["extjs","ie6"]},{"p":"/libs/cq/ui/widgets.js","c":["extjs","ie6"]},{"p":"/libs/cq/searchpromote/widgets.js","c":["extjs","ie6"]},{"p":"/apps/gwc/widgets.js","c":[]},{"p":"/libs/cq/ui/widgets/themes/default.css","c":["extjs","ie6"]},{"p":"/libs/cq/ui/widgets/themes/default.js","c":["extjs","ie6"]},{"p":"/libs/cq/searchpromote/widgets/themes/default.css","c":[]},{"p":"/etc/clientlibs/foundation/searchpromote/themes/default.css","c":[]},{"p":"/libs/cq/analytics/widgets/themes/default.css","c":["extjs","ie6"]}],false);
+</script><script src="/libs/cq/ui/rte.js" type="text/javascript"></script>
+<script src="/libs/cq/ui/widgets.js" type="text/javascript"></script>
+<script src="/libs/cq/searchpromote/widgets.js" type="text/javascript"></script>
+<script src="/apps/gwc/widgets.js" type="text/javascript"></script>
+<script src="/libs/cq/ui/widgets/themes/default.js" type="text/javascript"></script>
+
+
+  
+
 	<script type="text/javascript">
+	
+	/*---fetch dynamic  accountno ----*/      
+
+       	var currentPagePath = "/content/gwc/en-US/privacy-policy";
+        var cpp = currentPagePath.split("/");
+       	var localePath = "/"+cpp[1]+"/"+cpp[2]+"/"+cpp[3];
+
+
+
+        var localeJcr =  CQ.Util.eval(localePath+'/jcr:content.json');
+
+        var spPath = "/etc/cloudservices/search-promote";
+
+
+        var cloudService = localeJcr['cq:cloudserviceconfigs'];
+
+
+        if($.isArray(cloudService)) {
+            for (i = 0; i < cloudService.length; i++) { 
+            	if(cloudService[i].indexOf("search-promote") !=-1){
+					spPath = cloudService[i];
+              	 }
+           	 	}            
+           	 } else {
+                if(cloudService.indexOf("search-promote") !=-1){            
+                           spPath = cloudService;
+               }
+            }
+
+
+
+      	var cloudServiceNode =  CQ.Util.eval(spPath+'/jcr:content.json');
+
+		var accountNo = cloudServiceNode["accountno"];
+        var searchDomainurl = "//"+accountNo+".guided.ss-omtrdc.net";
+
+/*--- END fetch dynamic  accountno ----*/   
 		// Define AdobeAjax Settings
 		var ax = {
-			account: 'sp10050b5b',
-			searchDomain: '//sp10050b5b.guided.ss-omtrdc.net',
+			account: accountNo,
+			searchDomain: searchDomainurl,
 			inputElement: "input#q",
 			inputFormElement: "form#search_form",
 			delay: 100,
@@ -261,11 +345,10 @@ var visitor=store.getProperty("visitorType",true);
 		});
 	</script>
 
-<link rel="stylesheet" href="/etc/clientlibs/foundation/searchpromote/themes/default.css" type="text/css">
 
 
 
-<form id="search-form" class="search-box" method="GET" action="/en-US/search.html" autocomplete="off">
+<form id="search-form" class="search-box" method="GET" action="/en-US/search.html">
 	<div class="search-label">
 		<input placeholder="Search" id="q" type="text" accesskey="s" name="q" value="">
 		<button><i class="search-icon fa fa-lg fa-search"></i></button>
@@ -322,48 +405,36 @@ var visitor=store.getProperty("visitorType",true);
 			
 
 				
-				
-					<nav class="sub-nav ">
+
+					<nav class="sub-nav with-feature">
+
+
 						<section class="links">
 							<a href="/en-US/medical-specialties.html" class="clearfix">All Medical Specialties</a>
 							<hr>
-
 							
-
 								<ul>
 									
-
 										<li><a href="/en-US/medical-specialties/electrophysiology.html">Electrophysiology </a>
 										</li>
 
 									
-
 										<li><a href="/en-US/medical-specialties/female-pelvic-medicine.html">Female Pelvic Medicine</a>
 										</li>
 
 									
-
 										<li><a href="/en-US/medical-specialties/gastroenterology.html">Gastroenterology </a>
 										</li>
 
 									
-
-								</ul>
-							
-
-								<ul>
-									
-
 										<li><a href="/en-US/medical-specialties/interventional-cardiology.html">Interventional Cardiology</a>
 										</li>
 
 									
-
 										<li><a href="/en-US/medical-specialties/interventional-radiology.html">Interventional Radiology</a>
 										</li>
 
 									
-
 										<li><a href="/en-US/medical-specialties/neurological-surgery.html">Neurological Surgery</a>
 										</li>
 
@@ -371,36 +442,24 @@ var visitor=store.getProperty("visitorType",true);
 
 								</ul>
 							
-
 								<ul>
 									
-
 										<li><a href="/en-US/medical-specialties/orthopedic-surgery.html">Orthopedic Surgery</a>
 										</li>
 
 									
-
 										<li><a href="/en-US/medical-specialties/pain-medicine.html">Pain Medicine</a>
 										</li>
 
 									
-
 										<li><a href="/en-US/medical-specialties/pulmonology.html">Pulmonology </a>
 										</li>
 
 									
-
-								</ul>
-							
-
-								<ul>
-									
-
 										<li><a href="/en-US/medical-specialties/urology.html">Urology</a>
 										</li>
 
 									
-
 										<li><a href="/en-US/medical-specialties/vascular-surgery.html">Vascular Surgery </a>
 										</li>
 
@@ -410,9 +469,18 @@ var visitor=store.getProperty("visitorType",true);
 							
 
 
-
 						</section>
+						<figure class="feature">
+							<img class="feature-img" data-hdmdsrc="/content/dam/bostonscientific/corporate/careers/careers_customer_service_220_220.image.440.0.jpg" data-hdsmsrc="/content/dam/bostonscientific/corporate/careers/careers_customer_service_220_220.image.260.0.jpg" data-mdsrc="/content/dam/bostonscientific/corporate/careers/careers_customer_service_220_220.image.220.0.jpg" data-smsrc="/content/dam/bostonscientific/corporate/careers/careers_customer_service_220_220.image.130.0.jpg" data-hdxssrc="/content/dam/bostonscientific/corporate/careers/careers_customer_service_220_220.image.0.0.jpg" data-xssrc="/content/dam/bostonscientific/corporate/careers/careers_customer_service_220_220.image.0.0.jpg" src="/content/dam/bostonscientific/corporate/careers/careers_customer_service_220_220.image.220.0.jpg">	
+							<h1>Customer Support</h1>
+							<p>Do you have a question? We can help.</p>
+							<a href="http://www.bostonscientific.com/en-US/customer-service.html">Access Support Resources</a>
+						</figure>
+
+
+
 					</nav>
+				
 				
 			
 
@@ -498,7 +566,12 @@ var visitor=store.getProperty("visitorType",true);
 
 									
 
-										<li><a href="/en-US/health-conditions/heart-attack.html">Heart Attack</a>
+										<li><a href="/en-US/health-conditions/deep-vein-thrombosis.html">Deep Vein Thrombosis</a>
+										</li>
+
+									
+
+										<li><a href="/en-US/health-conditions/enteral-feeding.html">Enteral Feeding</a>
 										</li>
 
 									
@@ -507,6 +580,11 @@ var visitor=store.getProperty("visitorType",true);
 							
 
 								<ul>
+									
+
+										<li><a href="/en-US/health-conditions/heart-attack.html">Heart Attack</a>
+										</li>
+
 									
 
 										<li><a href="/en-US/health-conditions/heart-failure.html">Heart Failure</a>
@@ -524,7 +602,7 @@ var visitor=store.getProperty("visitorType",true);
 
 									
 
-										<li><a href="/en-US/health-conditions/peripheral-artery-disease.html">Peripheral Artery Disease</a>
+										<li><a href="/en-US/health-conditions/pancreatic-cancer.html">Pancreatic Cancer</a>
 										</li>
 
 									
@@ -535,7 +613,7 @@ var visitor=store.getProperty("visitorType",true);
 								<ul>
 									
 
-										<li><a href="/en-US/health-conditions/prevent-colorectal-cancer.html">Prevent Colorectal Cancer</a>
+										<li><a href="/en-US/health-conditions/peripheral-artery-disease.html">Peripheral Artery Disease</a>
 										</li>
 
 									
@@ -617,6 +695,11 @@ var visitor=store.getProperty("visitorType",true);
 									
 
 										<li><a href="/en-US/products/antiretropulsion.html">Antiretropulsion</a>
+										</li>
+
+									
+
+										<li><a href="/en-US/products/artificial-urinary-sphincter.html">Artificial Urinary Sphincter</a>
 										</li>
 
 									
@@ -747,6 +830,11 @@ var visitor=store.getProperty("visitorType",true);
 
 									
 
+										<li><a href="/en-US/products/enteral-access-feeding-tubes.html">Enteral Access &amp; Feeding Tubes</a>
+										</li>
+
+									
+
 								</ul>
 							
 
@@ -813,6 +901,11 @@ var visitor=store.getProperty("visitorType",true);
 
 									
 
+										<li><a href="/en-US/products/penile-prosthesis.html">Penile Prosthesis</a>
+										</li>
+
+									
+
 										<li><a href="/en-US/products/plaque-modification.html">Plaque Modification </a>
 										</li>
 
@@ -845,6 +938,11 @@ var visitor=store.getProperty("visitorType",true);
 									
 
 										<li><a href="/en-US/products/mid-urethral-slings.html">Slings: Mid-Urethral</a>
+										</li>
+
+									
+
+										<li><a href="/en-US/products/slings--suburethral.html">Slings: Suburethral</a>
 										</li>
 
 									
@@ -894,6 +992,11 @@ var visitor=store.getProperty("visitorType",true);
 
 									
 
+										<li><a href="/en-US/products/transcatheter-heart-valve.html">Transcatheter Heart Valve</a>
+										</li>
+
+									
+
 								</ul>
 							
 
@@ -929,85 +1032,65 @@ var visitor=store.getProperty("visitorType",true);
 			
 
 				
-				
-					<nav class="sub-nav ">
+
+					<nav class="sub-nav with-feature">
+
+
 						<section class="links">
 							<a href="/en-US/reimbursement.html" class="clearfix">Reimbursement Overview</a>
 							<hr>
-
 							
-
 								<ul>
 									
+										<li><a href="/en-US/reimbursement/ccode-finder.html">C-code Finder</a>
+										</li>
 
+									
 										<li><a href="/en-US/reimbursement/gastroenterology.html">Gastroenterology</a>
 										</li>
 
 									
-
 										<li><a href="/en-US/reimbursement/ICD10.html">ICD-10 Resources</a>
 										</li>
 
 									
-
 										<li><a href="/en-US/reimbursement/interventional-cardiology.html">Interventional Cardiology</a>
 										</li>
 
 									
-
-								</ul>
-							
-
-								<ul>
-									
-
 										<li><a href="/en-US/reimbursement/neuromodulation.html">Neuromodulation</a>
 										</li>
 
 									
-
 										<li><a href="/en-US/reimbursement/peripheral-interventions.html">Peripheral Interventions</a>
 										</li>
 
 									
 
+								</ul>
+							
+								<ul>
+									
 										<li><a href="/en-US/reimbursement/pulmonology.html">Pulmonology</a>
 										</li>
 
 									
-
-								</ul>
-							
-
-								<ul>
-									
-
 										<li><a href="/en-US/reimbursement/rhythm-management.html">Rhythm Management</a>
 										</li>
 
 									
-
-										<li><a href="/en-US/reimbursement/urology.html">Urology</a>
+										<li><a href="/en-US/reimbursement/urology.html">Urology and Pelvic Health</a>
 										</li>
 
 									
-
 										<li><a href="/en-US/reimbursement/WATCHMAN.html">WATCHMAN™ LAAC Device</a>
 										</li>
 
 									
-
-								</ul>
-							
-
-								<ul>
-									
-
 										<li><a href="/en-US/reimbursement/reim_webinars.html">Webinars</a>
 										</li>
 
 									
-
 										<li><a href="/en-US/reimbursement/women-s-health.html">Women's Health</a>
 										</li>
 
@@ -1017,9 +1100,18 @@ var visitor=store.getProperty("visitorType",true);
 							
 
 
-
 						</section>
+						<figure class="feature">
+							<img class="feature-img" data-hdmdsrc="/content/dam/bostonscientific/corporate/careers/careers_customer_service_220_220.image.440.0.jpg" data-hdsmsrc="/content/dam/bostonscientific/corporate/careers/careers_customer_service_220_220.image.260.0.jpg" data-mdsrc="/content/dam/bostonscientific/corporate/careers/careers_customer_service_220_220.image.220.0.jpg" data-smsrc="/content/dam/bostonscientific/corporate/careers/careers_customer_service_220_220.image.130.0.jpg" data-hdxssrc="/content/dam/bostonscientific/corporate/careers/careers_customer_service_220_220.image.0.0.jpg" data-xssrc="/content/dam/bostonscientific/corporate/careers/careers_customer_service_220_220.image.0.0.jpg" src="/content/dam/bostonscientific/corporate/careers/careers_customer_service_220_220.image.220.0.jpg">	
+							<h1>Customer Support</h1>
+							<p>Do you have a question? We can help.</p>
+							<a href="http://www.bostonscientific.com/en-US/customer-service.html">Access Support Resources</a>
+						</figure>
+
+
+
 					</nav>
+				
 				
 			
 
@@ -1090,9 +1182,9 @@ var visitor=store.getProperty("visitorType",true);
 
 		
 			
-				<li class="top-sub-nav-exists"><a href="/en-US/about-us.html">About Us</a>
+				<li><a href="/en-US/about-us.html">About Us</a>
 					
-						<ul class="utility-sub-nav" style="min-width: 137px;">
+						<ul class="utility-sub-nav">
 							<li><a href="/en-US/about-us.html">About Us</a></li>
 							
 								<li><a href="/en-US/about-us/core-businesses.html">Core Businesses</a></li>
@@ -1142,14 +1234,14 @@ var visitor=store.getProperty("visitorType",true);
 
 		
 			
-				<li class="top-sub-nav-exists"><a href="/en-US/corporate-citizenship.html">Corporate Citizenship</a>
+				<li><a href="/en-US/corporate-citizenship.html">Corporate Citizenship</a>
 					
-						<ul class="utility-sub-nav" style="min-width: 206px;">
+						<ul class="utility-sub-nav">
 							<li><a href="/en-US/corporate-citizenship.html">Corporate Citizenship</a></li>
 							
 								<li><a href="/en-US/corporate-citizenship/community-involvement.html">Community Involvement </a></li>
 							
-								<li><a href="/en-US/corporate-citizenship/environment-and-sustainability.html">Environment &amp; Sustainability</a></li>
+								<li><a href="/en-US/corporate-citizenship/environment-and-sustainability.html">Sustainability</a></li>
 							
 								<li><a href="/en-US/corporate-citizenship/giving.html">Giving</a></li>
 							
@@ -1168,7 +1260,7 @@ var visitor=store.getProperty("visitorType",true);
                                                                      <li><a href="/en-US/corporate-citizenship/community-involvement.html">Community Involvement </a>
                                                                      </li>
                                                                      
-                                                                     <li><a href="/en-US/corporate-citizenship/environment-and-sustainability.html">Environment &amp; Sustainability</a>
+                                                                     <li><a href="/en-US/corporate-citizenship/environment-and-sustainability.html">Sustainability</a>
                                                                      </li>
                                                                      
                                                                      <li><a href="/en-US/corporate-citizenship/giving.html">Giving</a>
@@ -1194,12 +1286,12 @@ var visitor=store.getProperty("visitorType",true);
 
 		
 			
-				<li class="top-sub-nav-exists"><a href="http://news.bostonscientific.com">News</a>
+				<li><a href="http://news.bostonscientific.com">News</a>
 					 
-						<ul class="utility-sub-nav" style="min-width: 117px;">
+						<ul class="utility-sub-nav">
 							<li><a href="http://news.bostonscientific.com">All News</a></li>
 							
-								<li><a href="http://news.bostonscientific.com/press-releases">News Releases</a></li>
+								<li><a href="http://news.bostonscientific.com/news-releases">News Releases</a></li>
 							
 								<li><a href="http://news.bostonscientific.com/image-gallery">Image Gallery</a></li>
 							
@@ -1207,7 +1299,7 @@ var visitor=store.getProperty("visitorType",true);
 							
 								<li><a href="http://news.bostonscientific.com/online-news-kits">Online News Kits</a></li>
 							
-								<li><a href="http://news.bostonscientific.com/contact-us">Contact Us</a></li>
+								<li><a href="http://news.bostonscientific.com/media-contacts">Media Contacts</a></li>
 							
 						</ul>
 												<nav class="sub-nav utility-inner-links">
@@ -1217,7 +1309,7 @@ var visitor=store.getProperty("visitorType",true);
                                     <a href="http://news.bostonscientific.com">All News</a>
                                                                      </li>
                                                                      
-                                                                     <li><a href="http://news.bostonscientific.com/press-releases">News Releases</a>
+                                                                     <li><a href="http://news.bostonscientific.com/news-releases">News Releases</a>
                                                                      </li>
                                                                      
                                                                      <li><a href="http://news.bostonscientific.com/image-gallery">Image Gallery</a>
@@ -1229,7 +1321,7 @@ var visitor=store.getProperty("visitorType",true);
                                                                      <li><a href="http://news.bostonscientific.com/online-news-kits">Online News Kits</a>
                                                                      </li>
                                                                      
-                                                                     <li><a href="http://news.bostonscientific.com/contact-us">Contact Us</a>
+                                                                     <li><a href="http://news.bostonscientific.com/media-contacts">Media Contacts</a>
                                                                      </li>
                                                                      
 
@@ -1246,9 +1338,9 @@ var visitor=store.getProperty("visitorType",true);
 
 		
 			
-				<li class="top-sub-nav-exists"><a href="/en-US/careers.html">Careers</a>
+				<li><a href="/en-US/careers.html">Careers</a>
 					
-						<ul class="utility-sub-nav" style="min-width: 130px;">
+						<ul class="utility-sub-nav">
 							<li><a href="/en-US/careers.html">Careers</a></li>
 							
 								<li><a href="/en-US/careers/working-here.html">Working Here</a></li>
@@ -1298,9 +1390,9 @@ var visitor=store.getProperty("visitorType",true);
 
 		
 			
-				<li class="top-sub-nav-exists"><a href="http://phx.corporate-ir.net/phoenix.zhtml?c=62272&amp;p=irol-irhome">Investors</a>
+				<li><a href="http://phx.corporate-ir.net/phoenix.zhtml?c=62272&amp;p=irol-irhome">Investors</a>
 					 
-						<ul class="utility-sub-nav" style="min-width: 138px;">
+						<ul class="utility-sub-nav">
 							<li><a href="http://phx.corporate-ir.net/phoenix.zhtml?c=62272&amp;p=irol-irhome">Investor Relations</a></li>
 							
 								<li><a href="http://phx.corporate-ir.net/phoenix.zhtml?c=62272&amp;p=irol-govhighlights">Corporate Governance</a></li>
@@ -1384,6 +1476,10 @@ var visitor=store.getProperty("visitorType",true);
 
 													<!-- COMPONENT: country-selector-item -->
 
+													
+
+														<li class="country-item"><a class="country-link" href="http://www.bostonscientific.com/pt-BR/home.html"> <img class="country-icon img" src="/content/dam/bostonscientific/corporate/Flags/brazil.gif" alt="Text"> <span class="country-name">Brazil</span>
+														</a></li>
 													
 
 														<li class="country-item"><a class="country-link" href="http://www.bostonscientific.cn/"> <img class="country-icon img" src="/content/dam/bostonscientific/corporate/Flags/china.gif" alt="Text"> <span class="country-name">China</span>
@@ -1526,7 +1622,8 @@ function before(dialog){
 <div class="sidebar-enlarge-print hidden-sm hidden-xs">
 
 	<a class="enlarge" href="#">
-		<i class="enlarge-small">A</i>
+	
+		<i class="enlarge-small current-text">A</i>
 		<i>A</i>
 		<span>
 		
@@ -3328,49 +3425,7 @@ Saint Paul, MN 55112 (USA)</p>
     
     <div class="container js-country-selector-footer-wrap">	
         
-    <div class="country-selector js-country-selector col-xs-12 js-country-selector-footer">
-											<div class="selected-country js-selected-country col-xs-12">
-												<a class="selected-country-link js-selected-country-link" href="#"> <img class="selected-country-icon img" src="/etc/designs/gwc/csslibs/img/icons/icon-nav-map.png" alt="United States of America"> <span class="selected-country-name">USA</span>
-													<i class="fa fa-chevron-down"></i>
-												</a>
-											</div>
-
-											
-												<ul class="country-list js-country-list">
-
-													<!-- COMPONENT: country-selector-item -->
-
-													
-
-														<li class="country-item"><a class="country-link" href="http://www.bostonscientific.cn/"> <img class="country-icon img" src="/content/dam/bostonscientific/corporate/Flags/china.gif" alt="Text"> <span class="country-name">China</span>
-														</a></li>
-													
-
-														<li class="country-item"><a class="country-link" href="http://www.bostonscientific-international.com/"> <img class="country-icon img" src="/content/dam/bostonscientific/corporate/Flags/eu.jpg" alt="Text"> <span class="country-name">Europe</span>
-														</a></li>
-													
-
-														<li class="country-item"><a class="country-link" href="http://www.bostonscientific.com/en-IN/home.html"> <img class="country-icon img" src="/content/dam/bostonscientific/corporate/Flags/india.gif" alt="Text"> <span class="country-name">India</span>
-														</a></li>
-													
-
-														<li class="country-item"><a class="country-link" href="http://www.bostonscientific.com/jp-JP/home.html"> <img class="country-icon img" src="/content/dam/bostonscientific/corporate/Flags/japan.gif" alt="Text"> <span class="country-name">Japan</span>
-														</a></li>
-													
-
-														<li class="country-item"><a class="country-link" href="http://www.bostonscientific.com/kr-KR/home.html"> <img class="country-icon img" src="/content/dam/bostonscientific/corporate/Flags/korea.gif" alt="Text"> <span class="country-name">Korea</span>
-														</a></li>
-													
-
-														<li class="country-item"><a class="country-link" href="http://www.bostonscientific.com/en-US/home.html"> <img class="country-icon img" src="/content/dam/bostonscientific/corporate/Flags/usa.gif" alt="Text"> <span class="country-name">United States</span>
-														</a></li>
-													
-													<!-- COMPONENT END: country-selector-item -->
-													<!-- COMPONENT END: country-selector-item -->
-												</ul>
-											
-
-										</div></div>
+    </div>
     <div class="footer-bar">
         <div class="container">
             <div class="footer-social-wrap">
@@ -3388,10 +3443,18 @@ Saint Paul, MN 55112 (USA)</p>
                 	<div class="social-media-links">
                     	<div class="social-icons">
                         	<span class="social-media-text">Follow Us</span>
+                        	
                         	<a class="social-icon-link" href="https://twitter.com/bostonsci"><i class="fa fa-twitter"></i></a>
+                        	
+                        	
                        	 	<a class="social-icon-link" href="https://www.facebook.com/BostonScientific"><i class="fa fa-facebook"></i></a>
+                       	 	
+                       	 	
                         	<a class="social-icon-link" href="http://www.linkedin.com/company/boston-scientific"><i class="fa fa-linkedin"></i></a>
+                        	
+                        	
                         	<a class="social-icon-link" href="http://phx.corporate-ir.net/corporate.rss?c=62272&amp;Rule=Cat=news~subcat=ALL"><i class="fa fa-rss"></i></a>
+                        	
                     	</div>
                 	</div>
                 
@@ -3434,7 +3497,15 @@ Saint Paul, MN 55112 (USA)</p>
                 </div>
             
              
-	                     
+	                     <!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5224NF"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5224NF');</script>
+<!-- End Google Tag Manager -->
             
         </div>
         <div class="footer-copyright">©2015 Boston Scientific Corporation or its affiliates. All rights reserved. </div>
@@ -3479,7 +3550,7 @@ Saint Paul, MN 55112 (USA)</p>
 <script type="text/javascript" src="/etc/clientlibs/foundation/sitecatalyst/plugins.js"></script>
 <script type="text/javascript">
 <!--
-CQ_Analytics.Sitecatalyst.frameworkComponents = ['gwc/components/content/results','gwc/components/content/homepageCarousel','gwc/components/content/mediaTile','gwc/components/content/travelwithyourdevice','gwc/components/page/display/localePage','gwc/components/content/hyperlink','gwc/components/content/productHeader','gwc/components/content/deviceLookUp','gwc/components/content/promotionalBlock','gwc/components/content/search','gwc/components/content/newsFeed','gwc/components/content/digitalAssetList','gwc/components/page/display/productDetailPage'];
+CQ_Analytics.Sitecatalyst.frameworkComponents = ['gwc/components/content/results','gwc/components/content/homepageCarousel','gwc/components/content/mediaTile','gwc/components/content/travelwithyourdevice','gwc/components/page/display/localePage','gwc/components/content/hyperlink','gwc/components/content/cCodeFinder','gwc/components/content/productHeader','gwc/components/content/deviceLookUp','gwc/components/content/promotionalBlock','gwc/components/content/search','gwc/components/content/newsFeed','gwc/components/content/digitalAssetList','gwc/components/page/display/productDetailPage'];
 /**
  * Sets SiteCatalyst variables accordingly to mapped components. If <code>options</code> 
  * object is provided only variables matching the options.componentPath are set.
@@ -3505,6 +3576,11 @@ CQ_Analytics.Sitecatalyst.updateEvars = function(options) {
 	this.frameworkMappings.push({scVar:"channel",cqVar:"eventdata.channel",resourceType:"gwc/components/page/display/localePage"});
 	this.frameworkMappings.push({scVar:"event21",cqVar:"eventdata.events.trackExternal",resourceType:"gwc/components/content/hyperlink"});
 	this.frameworkMappings.push({scVar:"eVar12",cqVar:"eventdata.externalLinks",resourceType:"gwc/components/content/hyperlink"});
+	this.frameworkMappings.push({scVar:"eVar35",cqVar:"eventdata.CodeProductCategory",resourceType:"gwc/components/content/cCodeFinder"});
+	this.frameworkMappings.push({scVar:"eVar36",cqVar:"eventdata.CodeSearchTerm",resourceType:"gwc/components/content/cCodeFinder"});
+	this.frameworkMappings.push({scVar:"eVar37",cqVar:"eventdata.CodePageDownload",resourceType:"gwc/components/content/cCodeFinder"});
+	this.frameworkMappings.push({scVar:"event44",cqVar:"eventdata.events.C-CodeSearchDownloads",resourceType:"gwc/components/content/cCodeFinder"});
+	this.frameworkMappings.push({scVar:"event43",cqVar:"eventdata.events.C-CodeSearchClick",resourceType:"gwc/components/content/cCodeFinder"});
 	this.frameworkMappings.push({scVar:"event14",cqVar:"eventdata.events.videoConversion",resourceType:"gwc/components/content/productHeader"});
 	this.frameworkMappings.push({scVar:"eVar10",cqVar:"eventdata.videoName",resourceType:"gwc/components/content/productHeader"});
 	this.frameworkMappings.push({scVar:"prop10",cqVar:"eventdata.videoName",resourceType:"gwc/components/content/productHeader"});
@@ -3562,7 +3638,7 @@ CQ_Analytics.CCM.addListener("storesinitialize", function(e) {
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
 //-->
 </script>
-<noscript><img src="http://bostonscientificcorporation.112.2o7.net/b/ss/bscbostonscientific-com,bscprodglobal/1/H.25--NS/1427114369779?cdp=2&amp;gn=content%3Agwc%3Aen-US%3Aprivacy-policy" height="1" width="1" border="0" alt=""/></noscript>
+<noscript><img src="http://bostonscientificcorporation.112.2o7.net/b/ss/bscprodglobal,bscbostonscientific-com/1/H.25--NS/1446591419470?cdp=2&amp;gn=content%3Agwc%3Aen-US%3Aprivacy-policy" height="1" width="1" border="0" alt=""/></noscript>
 <span data-tracking="{event:'pageView', values:{}, componentPath:'foundation/components/page'}"></span>
 
 
