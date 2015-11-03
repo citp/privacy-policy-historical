@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the notoriousspinks.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607235102id_/http%3A//www.notoriousspinks.com/advertise/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notoriousspinks.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103090113id_/http%3A//www.notoriousspinks.com/advertise/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – Notorious Spinks Talks
 
 At Notorious Spinks Talks your privacy comes first.  This notice is inform you of our online privacy practices so that you can make choices about how your information is handled.
 
