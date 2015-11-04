@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the true-blood.net privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619125910id_/http%3A//true-blood.net/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the true-blood.net privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104082418id_/http%3A//true-blood.net/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | True-Blood.net - The Authority on all things True Blood
 
