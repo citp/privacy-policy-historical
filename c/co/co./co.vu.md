@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the co.vu privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407164514id_/http%3A//codotvu.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the co.vu privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104024908id_/http%3A//codotvu.com/privacy) for the most accurate reproduction.*
 
-# .co.vu Free Domain Name & Free DNS
+# codotvu.com
+
+[ ](http://codotvu.com/)
+
+### Privacy Statement
+
+* * *
 
 Your privacy is critically important to us. At co.vu we have a few fundamental principles:
 
@@ -26,7 +32,7 @@ co.vu also collects potentially personally-identifying information like Internet
 
 #### Gathering of Personally-Identifying Information
 
-Certain visitors to co.vu's websites choose to interact with co.vu in ways that require co.vu to gather personally-identifying information. The amount and type of information that co.vu gathers depends on the nature of the interaction. For example, we ask visitors who sign up to provide a username and email address. Those who engage in transactions with co.vu are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, co.vu collects such information only in so far as is necessary or appropriate to fulfill the purpose of the visitor's interaction with co.vu. co.vu does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Certain visitors to co.vu's websites choose to interact with co.vu in ways that require co.vu to gather personally-identifying information. The amount and type of information that co.vu gathers depends on the nature of the interaction. For example, we ask visitors who sign up to provide a username and email address. Those who engage in transactions with co.vu are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, co.vu collects such information only in so far as is necessary or appropriate to fulfill the purpose of the visitor's interaction with co.vu. Co.vu does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
   
 
@@ -61,3 +67,31 @@ If co.vu, or substantially all of its assets, were acquired, or in the unlikely 
 #### Privacy Policy Changes
 
 Although most changes are likely to be minor, co.vu may change its Privacy Policy from time to time, and in co.vu's sole discretion. co.vu encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+
+###  __
+
+Login to your account to register this domain
+
+### Sign In
+
+Your username or password was incorrect.
+
+Use Your Email To Login
+
+Your username or password was incorrect.
+
+Not a registered user. [Sign Up](http://codotvu.com/#)
+
+###  __
+
+Create an account to register this domain
+
+### Create An Account
+
+Use Your Email To Login
+
+Not a registered user. [Login](http://codotvu.com/#)
+
+### Forgot your password?
+
+Please enter your email address below and we will send you an email with a link to reset your password.
