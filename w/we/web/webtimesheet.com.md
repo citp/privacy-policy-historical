@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webtimesheet.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319225151id_/http%3A//www.replicon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webtimesheet.com privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104114100id_/http%3A//www.replicon.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Replicon
+# Privacy Policy
 
 ("Replicon" or "we", "us", "our", etc.)   
 GENERAL PRIVACY POLICY
