@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the executivesearchdefined.com privacy policy that was archived on 2015-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150208222842id_/http%3A//executivesearchdefined.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the executivesearchdefined.com privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104010942id_/http%3A//executivesearchdefined.com/privacy_policy.php) for the most accurate reproduction.*
 
 # ExecutiveSearchDefined: Disclaimer
 
@@ -25,13 +25,15 @@ Any of the information we collect from you may be used in one of the following w
 
 The email address you provide may be used to send you job information, respond to inquiries, and/or other requests or questions.
 
+To stop receiving our emails, please click the link found at the bottom of each email.
+
 **How do we protect your information?**
 
 We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. 
 
 **Do we use cookies?**
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
 We use cookies to keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
@@ -57,11 +59,11 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.executivesearchdefined.com/disclaimer.php](https://web.archive.org/web/20150208222842id_/http%3A//executivesearchdefined.com/disclaimer.php)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.executivesearchdefined.com/disclaimer.php](https://web.archive.org/web/20151104010942id_/http%3A//executivesearchdefined.com/disclaimer.php)
 
 **Your Consent**
 
-By using our site, you consent to our [websites privacy policy](http://www.executivesearchdefined.com/).
+By using our site, you consent to our [websites privacy policy](http://www.executivesearchdefined.com/). Executivesearchdefined.com is owned by Locker Leisure Limited located at 923 Finchley Road, London, NW11 7PE.
 
 **Changes to our Privacy Policy**
 
