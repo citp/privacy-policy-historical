@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webparx.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602183903id_/http%3A//www.webparx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webparx.com privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105004848id_/http%3A//www.webparx.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Webparx.com
 
 **We are concerned seriously about the privacy of our users.** Please read this Privacy Policy to know more about how we treat individually identifiable details and information. We bestow this Privacy Policy as you have the right to know what knowledge and information we garner, how it is preserved and utilized, and under which circumstances it may be revealed. If you have suggestions, comments, questions, or any concerns about our Privacy Policy, kindly contact us via email at  **contact@avantplex.com**  or in write to us at: Privacy Director, AVANTPLEX Media
 
