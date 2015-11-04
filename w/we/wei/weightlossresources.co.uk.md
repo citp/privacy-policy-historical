@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the weightlossresources.co.uk privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610002024id_/http%3A//www.weightlossresources.co.uk/logout/info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weightlossresources.co.uk privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104102549id_/http%3A//www.weightlossresources.co.uk/logout/info/privacy.htm) for the most accurate reproduction.*
 
-# Privacy and Security
+# Privacy and Security - Weight Loss Resources
 
 ### Updated 04.03.2011
 
@@ -112,3 +112,5 @@ Weight Loss Resources may set and access Cookies on your computer.
 Weight Loss Resources reserves the right to change this Privacy Policy as we may deem necessary from time to time or as may be required by law. Any changes will be immediately posted on the Web Site and you are deemed to have accepted the terms of the Policy on your first use of the Web Site following the alterations.
 
 © Simply-docs - TR.WEB.TC.18 Website Privacy Policy
+
+[](http://www.weightlossresources.co.uk/weight_loss/little-black-dress-diet.htm)
