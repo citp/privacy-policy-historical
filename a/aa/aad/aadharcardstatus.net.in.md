@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aadharcardstatus.net.in privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611161055id_/http%3A//www.aadharcardstatus.net.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aadharcardstatus.net.in privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104130956id_/http%3A//www.aadharcardstatus.net.in/privacy) for the most accurate reproduction.*
 
 # Aadhar Card Status » Privacy & Disclaimer
 
