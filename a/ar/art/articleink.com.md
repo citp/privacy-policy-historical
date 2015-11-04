@@ -1,33 +1,29 @@
-> *The following text is extracted and transformed from the articleink.com privacy policy that was archived on 2011-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110924001518id_/http%3A//www.articleink.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleink.com privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105001807id_/http%3A//www.articleink.com/privacy-policy) for the most accurate reproduction.*
 
-# Article Directory | Privacy Policy - Article Ink
+# Privacy Policy | Articleink.Com
 
-This is the website of Article Ink. Our goal is to offer you a personal and interactive experience at our website that takes use of the different forms of Internet technology available. To take full advantage of our site's features, we may require that you give different forms of information about yourself. Never will the information you provide to our website be given or sold for use by an unauthorized third party.
+**articleink.Com** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://cybec.com/what-is-a-privacy-policy/) to learn more about privacy policies in general.
 
-We can be reached through our contact form at: <http://www.articleink.com/contact/>
+## Routine Information Collection
 
-Upon registration to our website, we will collect your provided name and e-mail address and any other information that you choose to provide. We will collect the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, and the e-mail addresses of those who make postings to our chat areas.
+All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
 
-The information we collect is used for internal review and is then discarded, used to improve the content of our website, used to customize the content and/or layout of our website for each individual visitor, used to notify consumers about updates to our website, and used by us to contact consumers for marketing purposes.
+## Cookies and Web Beacons
 
-With respect to cookies: we use cookies to store visitors preferences, record user-specific information on what pages users access or visit, customize website content based on visitors' browser type or other information that the visitor sends. You may disable cookies through your browser, but in doing so, you may limit yourself to what you can and cannot access on our website.
+Where necessary, articleink.Com uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
 
-If you do not want to receive e-mail from us in the future, please select to unsubscribe from our site newletters in your account settings.
+Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. 
 
-With respect to Ad Servers: to try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our website. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
+## Controlling Your Privacy
 
-http://www.google.com/privacypolicy.html  
-http://www.kontera.com/privacy.aspx
+Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms. This list of [web browser privacy management](http://cybec.com/web-browser-privacy-management/) links may also be useful.
 
-Upon request, we provide site visitors with access to contact information that we maintain about them and a description of information that we maintain about them.
+## Special Note About Google Advertising
 
-We offer visitors the ability to have inaccuracies corrected in their contact information. Users can have this information corrected by editing their registered account profile.
+Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google's cookie usage](http://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google's own privacy policies. 
 
-We do not knowingly collect or solicit information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe we have any information from or about anyone under 13, please contact us through the link listed above.
+## Contact Information
 
-We reserve the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
+Concerns or questions about this privacy policy can be directed to admin@articleink.com for further clarification.
 
-If you feel that this site is not following its stated information policy, you may contact us through the link listed above.
-
-  
-
+This privacy policy was generated by the [Privacy Policy for WordPress](http://cybec.com/privacy-policy-plugin-for-wordpress/) plugin.
