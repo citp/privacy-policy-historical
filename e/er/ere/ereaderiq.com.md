@@ -1,8 +1,16 @@
-> *The following text is extracted and transformed from the ereaderiq.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316214805id_/http%3A//www.ereaderiq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ereaderiq.com privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104013051id_/http%3A//www.ereaderiq.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | eReaderIQ
 
-Updated: 2013-04-18
+If you are having trouble finding our menu or filters, click on the green menu icon __at the top-left of the page.
+
+If you do not see the icon, and there is no menu on the left side of the page, please let me know using the "Contact Us" link in the footer of any page.
+
+Please include the type of device you are on (desktop, tablet or phone), the make and model, and which web browser you are using.
+
+Thank you for using eReaderIQ!
+
+_Updated: 2015-01-15_
 
 ### Consent
 
@@ -10,7 +18,7 @@ By accessing eReaderIQ ("eReaderIQ", "Website", "we", "our"), you are consenting
 
 ### Information We Collect
 
-eReaderIQ can be used freely and anonymously by anyone. We do however require that you provide some personal information for some of our services including, but not limited to, our daily email newsletter. Should you choose to join one of our subscription based services, you may be asked to enter some or all of the following: your name, your email address, your preferred book genres. Should we offer any paid services, payments will be administered through PayPal, and users will be bound by PayPal's Privacy Policy and Terms of Service.
+eReaderIQ can be used freely and anonymously by anyone. We do however require that you provide some personal information for some of our services including, but not limited to, our daily email newsletter and book alerts. Should you choose to join one of our subscription based services, you may be asked to enter some or all of the following: your name, your email address, your preferred book genres. Should we offer any paid services, payments will be administered through PayPal. Users will be bound by PayPal's Privacy Policy and Terms of Service.
 
 ### How We Use Information We Collect
 
@@ -30,7 +38,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 ### Affiliate Disclosure
 
-Some of the links posted on eReaderIQ are “affiliate links.” This means if you click on a link and purchase an item, we may receive an affiliate commission. Clicking on these links does not affect the price you pay for an item.
+Some of the links posted on eReaderIQ are "affiliate links." This means if you click on a link and purchase an item, we may receive an affiliate commission. Clicking on these links does not affect the price you pay for an item.
 
 ### Privacy Policy Modifications
 
@@ -38,4 +46,4 @@ eReaderIQ may revise our Privacy Policy at any time without notice. By using our
 
 ### Terms of Service
 
-Visit our Terms of Service page to view the terms and limitations governing our Website. [Click here to view our terms](https://web.archive.org/terms/).
+Visit our Terms of Service page to view the terms and limitations governing our Website. [Click here to view our terms](http://www.ereaderiq.com/terms/).
