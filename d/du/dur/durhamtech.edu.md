@@ -1,21 +1,19 @@
-> *The following text is extracted and transformed from the durhamtech.edu privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610085738id_/http%3A//www.durhamtech.edu/html/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the durhamtech.edu privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104151150id_/http%3A//www.durhamtech.edu/privacy.htm) for the most accurate reproduction.*
 
-# Durham Technical Community College Web Site Privacy Policy
+# Privacy Policy for the Durham Tech Website
 
-Privacy Policy 
-
-The Durham Tech web site does not track, collect, or distribute personal information about visitors.
+The Durham Tech website does not track, collect, or distribute personal information about visitors.
 
 The Durham Tech web server automatically records general information on all users who browse the content of our site. The data collection includes: 
 
-  * Your IP address. This information does not result in the identification of your personal email address or other personal information. 
+  * Your IP address. This information does not result in the identification of your personal email address or other personal information.
   * The Internet domain for your Internet Service Provider. 
-  * The type and version of the browser you are using to access our site (such as Firefox, Chrome, or Internet Explorer). 
-  * The type and version of the operating system you use (such as Macintosh or Windows). 
-  * The address of the previous site you were visiting. 
-  * The pages you visit on the Durham Tech website. 
+  * The type and version of the browser you are using to access our website (such as Firefox, Chrome, Safari, or Internet Explorer).
+  * The type and version of the operating system you use (such as Macintosh, Windows, or mobile). 
+  * The address of the previous website you were visiting.
+  * The pages you visit on the Durham Tech website.
   * The date, time, and length of time of your visit. 
 
 
 
-This information is analyzed to help us improve the site's organization, performance, and usefulness and to target Durham Tech advertising. This information is only examined in the aggregate, not at the individual level. We never sell or rent information to any third parties under any circumstances. 
+This information is analyzed to help us improve the website's organization, performance, and usefulness and to target Durham Tech advertising. This information is only examined in the aggregate, not at the individual level. We never sell or rent information to any third parties under any circumstances. 
