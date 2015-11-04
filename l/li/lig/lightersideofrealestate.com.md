@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lightersideofrealestate.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513020937id_/http%3A//lightersideofrealestate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightersideofrealestate.com privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104223637id_/http%3A//lightersideofrealestate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Lighter Side of Real Estate
 
