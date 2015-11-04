@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swire.com.sg privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507074835id_/http%3A//swire.com.sg/Home/Data-protection-and-privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swire.com.sg privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104222142id_/http%3A//swire.com.sg/Home/Data-protection-and-privacy-statement.aspx) for the most accurate reproduction.*
 
 # Swire Pacific Offshore - DATA PROTECTION AND PRIVACY STATEMENT
 
