@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sugardaddie.com privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526045621id_/http%3A//sugardaddie.com/Home/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sugardaddie.com privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104110513id_/http%3A//sugardaddie.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for Sugar Daddy and Sugar Babe online dating personals
 
