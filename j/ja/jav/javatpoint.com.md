@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the javatpoint.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316191438id_/http%3A//www.javatpoint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the javatpoint.com privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105005958id_/http%3A//www.javatpoint.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - javatpoint
 
@@ -120,4 +120,4 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us [Click to Contact Us](https://web.archive.org/web/20150316191438id_/http%3A//www.javatpoint.com/contact-us). 
+If there are any questions regarding this privacy policy you may contact us [Click to Contact Us](https://web.archive.org/web/20151105005958id_/http%3A//www.javatpoint.com/contact-us). 
