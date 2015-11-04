@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the guildportal.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625074349id_/http%3A//www.guildportal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guildportal.com privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104124440id_/http%3A//www.guildportal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GuildPortal | WoW, SW:ToR, GW 2, LOTRO, Rift | Guild Hosting
+
+NOTICE GuildPortal will be going offline (permanently) by the end of the month. 
 
 ## Information Collection
 
