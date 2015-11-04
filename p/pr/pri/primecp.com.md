@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the primecp.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629003926id_/http%3A//www.primecp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primecp.com privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104234554id_/http%3A//www.primecp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Prime Publishing LLC
 
