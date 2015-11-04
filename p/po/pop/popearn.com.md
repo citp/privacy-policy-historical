@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the popearn.com privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409023641id_/http%3A//popearn.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popearn.com privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105000335id_/http%3A//popearn.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Advertiser - Pop Earn
+# Privacy Policy - Pop Earn
 
-This privacy policy covers all of PopMyAds.com. It does not, however, apply to entities that PopMyAds.com does not own or control. By using or accessing PopMyAds.com, you agree to our privacy policy as provided herein. 
+This privacy policy covers all of PopEarn.com. It does not, however, apply to entities that PopEarn.com does not own or control. By using or accessing PopEarn.com, you agree to our privacy policy as provided herein. 
 
-PopMyAds.com is committed to protecting your privacy. Any information collected, including registration information such as name, email addresses and mailing address, are submitted voluntarily at the visitor’s will. PopMyAds.com does not and will not share any personal information with any third parties unless required by governmental law. 
+PopEarn.com is committed to protecting your privacy. Any information collected, including registration information such as name, email addresses and mailing address, are submitted voluntarily at the visitor’s will. PopEarn.com does not and will not share any personal information with any third parties unless required by governmental law. 
 
 **Cookies:  **
 
-All browsers offer “Cookies” and if you permit their use, they will store small amounts of data on your computer about your visit to the site that placed the Cookie. PopMyAds.com may use Cookies to store your password so that you do not have to re-enter it each time you visit our site. However, PopMyAds.com will not use Cookies to identify, monitor or track any personally identifiable information; have Cookies that contain any personally identifiable information about you; or merge or associate our Cookie information with any other visitor’s confidential and identifiable data obtained by us or from third parties. You have the right to choose whether to accept all Cookies, to be notified when a Cookie is set or to reject all Cookies. However, please note that if you reject some or all Cookies, your experience at our site may not be complete. In addition, if you disable Cookies, you will not be eligible to take advantage of personalized content delivery offered by us. 
+All browsers offer “Cookies” and if you permit their use, they will store small amounts of data on your computer about your visit to the site that placed the Cookie. PopEarn.com may use Cookies to store your password so that you do not have to re-enter it each time you visit our site. However, PopEarn.com will not use Cookies to identify, monitor or track any personally identifiable information; have Cookies that contain any personally identifiable information about you; or merge or associate our Cookie information with any other visitor’s confidential and identifiable data obtained by us or from third parties. You have the right to choose whether to accept all Cookies, to be notified when a Cookie is set or to reject all Cookies. However, please note that if you reject some or all Cookies, your experience at our site may not be complete. In addition, if you disable Cookies, you will not be eligible to take advantage of personalized content delivery offered by us. 
 
 **Third party cookies at our site:  **
 
@@ -20,4 +20,4 @@ Our site’s registration form requires users to provide contact information, su
 
 **External links:  **
 
-This site contains links to other sites. PopMyAds.com is not responsible for the privacy practices or content of the websites you visit once you have left our site. We only link to general audience sites but cannot be responsible for any redirection or content changes over which we have no control.
+This site contains links to other sites. PopEarn.com is not responsible for the privacy practices or content of the websites you visit once you have left our site. We only link to general audience sites but cannot be responsible for any redirection or content changes over which we have no control.
