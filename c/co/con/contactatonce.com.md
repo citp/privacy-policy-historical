@@ -1,24 +1,25 @@
-> *The following text is extracted and transformed from the contactatonce.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602001053id_/http%3A//www.contactatonce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contactatonce.com privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104231916id_/http%3A//www.contactatonce.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy for Contact At Once!
+# Contact At Once! Privacy Policy
 
-### **Effective Date: 01-April-2013**
+### **Effective Date: 05-August-2015**
 
-This Privacy Policy covers the collection, use and disclosure of information Contact At Once!, LLC (Contact At Once!, we, us, our) obtains through its Web sites, located at www.contactatonce.com, www.autodealerchat.com, www.apartmentchat.com, www.chatforrealestate.com, www.dealerchatblog.com and www.apartmentchatblog.com.
+This Privacy Policy covers the collection, use and disclosure of information Contact At Once!, LLC (Contact At Once!, we, us, our) obtains through its Web sites, located at [www.contactatonce.com](http://www.contactatonce.com/). It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information.
 
-Contact At Once! has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy-program-requirements/), including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site.
+The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
 
-TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us via one of the methods listed below. If you are not satisfied with our response, you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
+Contact At Once! complies with the U.S. – E.U. Safe Harbor Framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from European Union member countries and Switzerland. Contact At Once! has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Contact At Once!’s certification, please visit <http://www.export.gov/safeharbor/>.
 
-Contact At Once! complies with the U.S. – E.U. Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the from European Union member countries. To learn more about the Safe Harbor program, and to view Contact At Once!’s certification, please visit [http://www.export.gov/safeharbor/](http://export.gov/safeharbor/).
+Consumers, Merchants and Site Providers logging in to the Contact At Once! website chat service and portals are subject to different privacy agreements, information use agreements and acceptable use policies that are posted on those sites. If you submit personal information to any of those sites, your information is governed by the privacy policies located on those sites.
 
-Consumers, Merchants and Site Providers logging in to the Contact At Once! website chat service and portals are subject to different privacy agreements, information use agreements and acceptable use policies that are posted on those sites. If you submit personal information to any of those sites, your information is governed by the privacy statements located on those sites.
+[](https://privacy.truste.com/privacy-seal/ContactAtOnce!-LLC/validation?rid=a10d40b5-b498-40c5-971c-a83365656776 "TRUSTe Privacy Certification")
 
-[](http://privacy.truste.com/privacy-seal/ContactAtOnce!-LLC/validation?rid=f3017c78-9026-4a91-b794-8e7ee517bde9 "TRUSTe European Safe Harbor certification")
+  
+
 
 ### **Information We Collect**
 
-Your privacy is very important to us, and we have the highest respect for the confidentiality of your personal information. The information we receive depends on what you do while visiting our site. We will not obtain personally identifying information about you unless you choose to provide it. If you are browsing our site anonymously, we will automatically collect some non-identifying statistical information to help us measure which pages of our Web site are visited and how long visitors use the site. This information includes things such as your IP address, the time and date, pages entered and time spent on individual pages. Your IP address is not linked to anything personally identifiable.
+Your privacy is very important to us, and we have the highest respect for the confidentiality of your personal information. The information we receive depends on what you do while visiting our site. We will not obtain personally identifying information about you unless you choose to provide it. If you are browsing our site anonymously, we will automatically collect some non-identifying statistical information to help us measure which pages of our Web site are visited and how long visitors use the site. This information includes things such as your IP address, the time and date, pages entered and time spent on individual pages. This information is not linked to anything personally identifiable.
 
 While visiting our site, you are not required to submit any personal information to us. However, if you inquire about our services or request more information from us, we may collect contact information, such as name, email address, mailing address, phone number or information about your business, such as company name, company size and business type.
 
@@ -32,33 +33,23 @@ Most customers tell us they appreciate receiving our news and promotions; howeve
 
 Also, we partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)) Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
-### **Cookies and Other Technologies**
+### **Tracking Technologies**
 
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser and makes it easier for you to navigate our site. A persistent cookie allows us to monitor your interaction with our site and remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.
+We, Contact At Once!, and our partners [specify type e.g. marketing partners], affiliates, or analytics or service providers [specify type e.g. online customer support provider, etc], use technologies such as cookies, beacons, tags, and scripts, to analyze trends, administer the website, tracking users’ movements around the website, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual and aggregated basis.
 
-If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited. We do/do not link the information we store in cookies to any personally identifiable information you submit while on our site.
+We use cookies for [our shopping cart, to remember users’ settings (e.g. language preference), for authentication]. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our website, but your ability to use some features or areas of our website may be limited.
 
-– Web Beacons / Gifs
-
-Our third-party web analytics partners employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs) that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. The information gathered by clear gifs is not tied to our customers’ personally identifiable information.
-
-– Flash LSOs
-
-We use local shared objects, also known as Flash cookies, to store your preferences such as volume control or other video player settings. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies, click here:
-
-<http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118>
-
-The use of cookies and web beacons by our partners is not covered by our privacy statement. We do not have access to or control over these technologies.
+We use Local Storage, such as HTML5, to store your preferences such as volume control or other video player settings. Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity also use local storage, such as Flash cookies or HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. To learn how to manage privacy and storage settings for Flash cookies, click here:<http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
 
 ### **Disclosure of Information**
 
-We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
+We will share your personal information with third parties only in the ways that are described in this privacy policy. 
 
 We may provide your personal information to companies that provide services to help us with our business activities, such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.
 
 We may also disclose your personal information:
 
-  * as required by law, such as to comply with a subpoena, or similar legal process,
+  * as required by law, such as to comply with a subpoena or similar legal process,
   * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
   * if Contact At Once! is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
   * to any other third party with your prior consent to do so.
@@ -67,13 +58,13 @@ We may also disclose your personal information:
 
 ### **Data Security**
 
-To help protect your confidentiality, Contact At Once! employs generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
+To help protect your confidentiality, Contact At Once! employs generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about the security of your personal information, you can contact us at [privacy@contactatonce.com](mailto:privacy@contactatonce.com)
 
 The Contact At Once! Web site contains links to other Web sites. We have no responsibility or control over linked Web sites and their privacy policies or the way they collect and control your personal information. We encourage you to learn about the privacy practices of any Web site before providing personally identifying information.
 
 ### **Blog**
 
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [privacy@contactatonce.com](mailto:privacy@contactatonce.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [privacy@contactatonce.com](mailto:privacy@contactatonce.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 ### **Testimonials**
 
@@ -85,7 +76,7 @@ Our Web site includes Social Media Features, such as the Facebook Like button an
 
 ### **Access to Information**
 
-If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove, ask to have it removed from a public forum, directory or testimonial on our site by contacting us via one of the methods listed below. We will respond to your request to access within 30 days.
+If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove, ask to have it removed from a public forum, directory or testimonial on our site by contacting us via one of the methods listed below. We will respond to your request to access within a reasonable timeframe.
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -95,22 +86,29 @@ In summary, we believe strongly in respecting your privacy and your wishes about
 
 ### **Contact Us**
 
-If you have any comments or questions about this privacy policy or your personal information, please contact us at [privacy@contactatonce.com](mailto:privacy@contactatonce.com).
+If you have any comments or questions about this privacy policy or your personal information, please contact us at [privacy@contactatonce.com](mailto:privacy@contactatonce.com).
 
-Corporate Address
+**Corporate Address**
 
 Contact At Once!, LLC  
 11675 Great Oaks Way  
 Suite 350  
 Alpharetta, GA 30022  
-Tel: +1-866-358-3880  
-Fax: +1-770-206-2282
+Tel: +1-678-648-6961  
+Fax: +1-770-206-2282 
 
-UK
+**UK**
 
 Coveham House  
 Downside Bridge Road  
 Cobham  
 Surrey KT113EP  
 Tel: +44-(0)-330-808-0201  
-Fax: +44-(0)1372-386615
+Fax: +44-(0)1372-386615 
+
+**Australia**
+
+Melbourne  
+Level 3 80 Dorcas St.  
+South Melbourne VIC AUS 3205  
+Tel: +61-429-792-638 
