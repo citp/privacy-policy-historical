@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the webinarjam.com privacy policy that was archived on 2014-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140207235022id_/http%3A//webinarjam.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webinarjam.com privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104233505id_/http%3A//www.webinarjam.com/welcome/privacypolicy.html) for the most accurate reproduction.*
 
 # WebinarJam | Privacy Policy
-
-Privacy Policy
 
 This privacy policy sets out how WebinarJam uses and protects any information that you give WebinarJam when you use this website.
 
@@ -14,7 +12,7 @@ WebinarJam may change this policy from time to time by updating this page. You s
 
 We may collect the following information:
 
-  * name, surname and contact information including email address 
+  * name, surname and contact information including email address and, optionally, phone number. 
 
 
 
@@ -24,14 +22,14 @@ We require this information to understand your needs and provide you with a bett
 
   * Internal record keeping. 
   * We may use the information to improve our products and services. 
-  * We may periodically send promotional emails **** about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
+  * We may periodically send promotional emailsabout new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
   * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests. 
 
 
 
 **Security**
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, **** we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure,we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
 
 **How we use cookies**
 
