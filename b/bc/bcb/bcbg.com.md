@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bcbg.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623052926id_/http%3A//www.bcbg.com/BCBGMAXAZRIA-Privacy-Policy/cs-privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcbg.com privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104074649id_/http%3A//www.bcbg.com/en/cs-privacy-policy.html) for the most accurate reproduction.*
 
-# BCBGMAXAZRIA Privacy Policy
+# Privacy & Security
 
 BCBG Max Azria Group, LLC. ("BCBG") is committed to respecting your privacy and recognizes your need to protect personal information that you share with us on our websites. Our goal is to adhere to the principles set forth in this Privacy Policy, which complies with applicable laws and regulatory standards.
 
