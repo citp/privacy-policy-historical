@@ -1,0 +1,411 @@
+<!--The following is the downloaded HTML source of the fairsearches.com privacy policy that was archived on 2015-11-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151104232555id_/http%3A//www.fairsearches.com/privacy-policy.do) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+<title>privacy-policy</title>
+<meta name="description" content="privacy-policy.">
+<meta name="keywords" content="privacy-policy">
+<link href="http://www.fairsearches.com/css/style.css" rel="stylesheet" type="text/css" media="all">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="icon" href="/favicon.ico?v=2" type="image/x-icon">
+<link rel="shortcut icon" href="/favicon.ico?v=2" type="image/x-icon">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link rel="stylesheet" href="http://www.fairsearches.com/css/responsiveslides.css" type="text/css">
+<link rel="stylesheet" href="http://www.fairsearches.com/css/main.css" type="text/css">
+<link rel="stylesheet" type="text/css" href="http://www.fairsearches.com/css/lightbox.css" media="screen">  
+<meta name="google-site-verification" content="ynEWx-B3RMgDqZBJpmVcRvtU8piIVKytxMwWwOjlnDo">
+<meta name="p:domain_verify" content="d0e36df27639b1c5237b80f7ad8dfc73">
+<meta name="msvalidate.01" content="2D4E4F625AA21C6DD4240D8735C6106B">
+<meta name="revisit-after" content="1 day">
+<link rel="stylesheet" href="http://www.fairsearches.com/css/bootstrap.min.css">
+<link rel="stylesheet" href="http://www.fairsearches.com/css/font-awesome/css/font-awesome.min.css" type="text/css">
+<link rel="stylesheet" href="http://www.fairsearches.com/css/simple-line-icons.min.css" type="text/css">
+<style type="text/css">
+.bgwhite{background:#FFF;}
+.page-bar{background:#FFF;}
+.header_search_Div input {
+    border-bottom-left-radius: 0px;
+    border-top-left-radius: 0px;
+}
+</style>
+<link rel="stylesheet" type="text/css" href="http://www.fairsearches.com/includes/component.css">
+<link rel="stylesheet" href="http://www.fairsearches.com/js/jquery-ui.css" type="text/css">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://www.fairsearches.com/js/jquery-1.9.1.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://www.fairsearches.com/js/jquery.min.js"></script>	
+<script type="text/javascript">
+$(document).ready(function() {
+    $("#ftmenu li a").click(function() {
+
+        $("#ajax-contents").empty().append("<div id='loading' class='text-center'><img src='http://www.fairsearches.com/\images/loading.gif' alt='Loading' /></div>");
+        $("#ftmenu li a").removeClass('current');
+        $(this).addClass('current');
+
+        $.ajax({ url: this.href, success: function(html) {
+            $("#ajax-contents").empty().append(html);
+            }
+	});
+	return false;
+    });
+	 $("#ajax-contents").empty().append("<div id='loading' class='text-center'><img src='http://www.fairsearches.com/\images/loading.gif' alt='Loading' /></div>");
+	$.ajax({ url: 'ft_about.php', success: function(html) { 
+            $("#ajax-contents").empty().append(html);
+	} 
+    });
+
+});
+</script>
+<script> 
+$(document).ready(function(){
+  $("#flip").click(function(){
+    $("#panel").slideToggle("slow");
+  });
+});
+</script>
+
+<style>
+.ui-autocomplete-loading {
+background: white url('http://www.fairsearches.com/images/textarea-bl.png') right center no-repeat;
+}
+</style>
+<script type="text/javascript">
+$(function() {
+function split( val ) {
+return val.split( /,\s*/ );
+}
+function extractLast( term ) {
+return split( term ).pop();
+}
+$( "#birds" )
+// don't navigate away from the field on tab when selecting an item
+.bind( "keydown", function( event ) {
+if ( event.keyCode === $.ui.keyCode.TAB &&
+$( this ).data( "ui-autocomplete" ).menu.active ) {
+event.preventDefault();
+}
+})
+.autocomplete({
+source: function( request, response ) {
+$.getJSON( "http://www.fairsearches.com/livesearch.php", {
+term: extractLast( request.term )
+}, response );
+},
+search: function() {
+// custom minLength
+var term = extractLast( this.value );
+if ( term.length < 2 ) {
+return false;
+}
+},
+focus: function() {
+// prevent value inserted on focus
+return false;
+},
+select: function( event, ui ) {
+var terms = split( this.value );
+// remove the current input
+terms.pop();
+// add the selected item
+terms.push( ui.item.value );
+// add placeholder to get the comma-and-space at the end
+terms.push( "" );
+this.value = terms.join( "" );
+return false;
+}
+});
+});
+function showUser(str) {
+    if (str == "") {
+        document.getElementById("txtHint").innerHTML = "";
+        return;
+    } else { 
+        if (window.XMLHttpRequest) {
+            // code for IE7+, Firefox, Chrome, Opera, Safari
+            xmlhttp = new XMLHttpRequest();
+        } else {
+            // code for IE6, IE5
+            xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+        }
+        xmlhttp.onreadystatechange = function() {
+            if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+                document.getElementById("txtHint").innerHTML = xmlhttp.responseText;
+            }
+        }
+        xmlhttp.open("GET","data.php?q="+str,true);
+        xmlhttp.send();
+    }
+}
+function getlocation(str) {
+    if (str == "") {
+        document.getElementById("txtlocation").innerHTML = "";
+        return;
+    } else { 
+        if (window.XMLHttpRequest) {
+            // code for IE7+, Firefox, Chrome, Opera, Safari
+            xmlhttp = new XMLHttpRequest();
+        } else {
+            // code for IE6, IE5
+            xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+        }
+        xmlhttp.onreadystatechange = function() {
+            if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+                document.getElementById("txtlocation").innerHTML = xmlhttp.responseText;
+            }
+        }
+        xmlhttp.open("GET","getlocation.php?q="+str,true);
+        xmlhttp.send();
+    }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "url": "http://www.fairsearches.com",
+  "logo": "http://www.fairsearches.com/images/logo.png",
+   "contactPoint" : [
+    { "@type" : "ContactPoint",
+      "telephone" : "+91-8750299299",
+      "contactType" : "customer service"
+    } ],
+"sameAs" : [ "https://www.facebook.com/fairsearches",
+    "https://twitter.com/fairsearches",
+    "https://plus.google.com/+Fairsearches",
+    "https://in.linkedin.com/in/fairsearches"]
+}
+</script>
+<style type="text/css">
+.header_search_Div .class-style.disp_p_none{display:none;} 
+.header_search_Div input.width_87{width:72%;}
+</style>
+</head>
+<body>
+<div class="header" id="header">
+	<div class="fs_topheader_fx">
+	<div class="fs_header_fxmenu">
+        <ul>
+         <li><a href="http://www.fairsearches.com/" title="Create Free Listing" class="pdl0">Home</a></li>
+         <li><a href="http://www.fairsearches.com/Free-Listing.do" title="Create Free Listing">Free Listing</a></li> 
+         <li><a href="http://video.fairsearches.com/" title="Video">Video</a></li>
+         <li><a href="http://search.fairsearches.com/" title="Web search" class="br0">Web search</a></li>  
+         <li class="flright"><a title="Contact us" href="" class="pdr0">+91 - 8750299299</a></li>
+        </ul>
+	</div> 
+</div>
+  <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+  <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+  <script>
+  $(function() {
+    $( "#skills" ).autocomplete({
+      source: 'http://www.fairsearches.com/search.php'
+    });
+  });
+  </script>
+<div class="wrap">
+		<div class="header-top">
+			<div class="logo fxnone">				
+				<a href="/"><img src="http://www.fairsearches.com/images/logo.png" alt="logo"></a>               
+			</div>
+            
+            <div class="header_search_Div margin-lef fxnone">
+            	<div class="mySearchDiv">
+                  <form name="searchForm" action="http://www.fairsearches.com/searchlist.php" onsubmit="return CheckDataSearch(document.searchForm);" method="post" id="hdr_frm" class="ng-pristine ng-valid">
+                	<div class="class-style disp_p_none">
+                    <div class="ui-widget">
+                    <input type="text" name="city" id="skills" onfocus="if(this.value=='')this.value=''" onblur="if(this.value=='')this.value=''" value="" onchange="javascript: submit()">
+                    </div>
+          </div>
+          
+            <input type="text" class="width_87 ng-pristine ng-valid" value="What are you looking for?" onfocus="if(this.value=='What are you looking for?')this.value=''" onblur="if(this.value=='')this.value='What are you looking for?'" placeholder="What are you looking for?" name="category" id="birds" required="required">
+            <input type="submit" value="Search">
+            <input type="submit" name="websearch" value="Web Search" class="websearch">
+       </form>
+            </div>
+   			</div>
+            <div class="purchase_section">
+     			<div class="contactDiv">                
+                                 	<h1 class="conatctNo" onclick="location.href='http://www.fairsearches.com/Free-Listing.do'" title="Free Listing" style="line-height: inherit;">List Your Business</h1>
+                                    </div>
+			</div>
+                         <div class="login_registration">
+            	<div class="sb-toggle-left navbar-left">
+                    <div class="navicon-line"></div>
+                    <div class="navicon-line"></div>
+                    <div class="navicon-line"></div>
+				</div>                
+                <div class="sign_in" onclick="location.href='http://www.fairsearches.com/login.do'"><p>Login</p></div>             
+                <div class="registration" onclick="location.href='http://www.fairsearches.com/signup.do'"><p>Sign Up</p></div>                
+                <div class="freeListing lrleftm10" onclick="location.href='http://www.fairsearches.com/Free-Listing.do'"><p>Free Listing</p></div>                <div class="sb-toggle-right navbar-right">
+                    <div class="navicon-line"></div>
+                    <div class="navicon-line"></div>
+                    <div class="navicon-line"></div>
+				</div>
+				<div style="clear:both"></div>
+            </div>
+			            <div class="clear"></div>
+		</div>
+	</div>   	
+	</div>
+<div class="wrap">
+	<div class="main" style="background:#ececec">
+		<div class="about-top">
+			<div class="cont1 span_2_of_a about_desc">
+				       <h1 style=" margin-bottom:10px;">Privacy Policy</h1>
+		    			 <div class="image group">
+							<div class="grid span_2_of_1">								
+                            <p><b>Fairsearches.com</b> is a private registered company collaborated with "Personal Information", established with the objective of online information service, promotion and marketing and trading of various products and services.</p>
+								<p><b>Fairsearches.com</b> provides free information to our user. While using this site your submitted personal details such as name, address, contact info etc are only for the purpose of providing you relevant &amp; necessary information and to communicate with you for further assistance and better services. We know some of you may not like to share your identity/personal information with everyone so we respect privacy issue and assure here that your data is safe and secure with us and we don't share it with other organizations. Your information is recorded with us only for internal business purposes and fulfilling your requirement quickly.  Personal Information will be safe from data assembler sites, only Fairsearches listed subscriber and advertisers will be allowed to access it for providing the services to the user and may call you on the basis of your enquiry.</p>
+							<p>We treat the Personal Information as the most sensitive data and keep it at highly protected place. There are some privacy term and pass codes process to validate the users identity before allowing them to excess, if any modification they require. </p>
+                                <p>Anyone can contact us through our Contact Us page. We are assuring you to protect your privacy and information. Fairsearches privacy policy clarifies that our service is safe and secure and by using this site you are agree that we can collect, retain and use such data in accordance with our privacy policy. We take acknowledgment also before any registration so you may deny it if you don't want to provide such information but it may interrupt the registration process and abstain you from availing the overall services except those customers who have signed the related contract with us.</p>
+							<p>We are faithful to all the customers. The Personal Information is only for customizing your search, providing fast and better service, and to reach you for the assistance.</p>
+							<h2>Only in certain circumstances we may share Personal Information:- </h2>
+							<p>
+                            </p><ul>
+                                	<li>1. If the user allow us or we are obligated by law (including court order) to do so.  </li>
+                                	<li>2. If you find any dissatisfaction and illegal infringement from our site or if you find that we are not following the stated privacy policy, or if you have any questions or concerns regarding the same, please contact us, at the following address –.</li>
+                                </ul>
+                            <p></p>
+                            <p>	
+                            </p><h3>Managing Director</h3>
+								<div style="font-size:13px;line-height:21px; margin-top:5px;">
+                                <b>Asmita Baghel</b><br>
+                                Contact No.- 0120-2491031<br>
+                                <a href="mailto:help@fairsearches.com" style="font-weight:700">help@fairsearches.com</a><br>
+                                A-10B, 2nd Floor, Deepak Vihar, <br>Labour Chowk, Opp Sec-57, <br>Noida (U.P.) - 201301, India
+                                </div>                                
+							<p></p>
+							</div>
+		   				</div>
+			</div>
+            <div style="clear:both"></div>	
+	</div>
+</div>
+</div>
+<div style="clear:both"></div>	<script type="text/javascript" src="http://www.fairsearches.com/js/bootstrap-hover-dropdown.min.js"></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-60498768-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<div class="footer">		
+	  	<div class="md-overlay"></div>
+    	<div class="footer-top">
+        	<div class="wrap">
+            <div class="width-fs">
+            	<div class="column_1">
+					<div class="footer_column">
+						<div class="footer-heading"><i class="fa fa-search"></i> Popular Category</div>
+						<ul>
+                        	<li><a href="http://www.fairsearches.com/repairs.html">Repairs</a></li>
+                            <li><a href="http://www.fairsearches.com/computer.html">Computer</a></li>
+                            <li><a href="http://www.fairsearches.com/clothes.html">Clothes</a></li>
+                            <li><a href="http://www.fairsearches.com/education.html">Education</a></li>
+                            <li><a href="http://www.fairsearches.com/electronics.html">Electronics</a></li>
+                        </ul>
+                        <ul>
+                            <li><a href="http://www.fairsearches.com/doctors.html">Doctors</a></li>
+                            <li><a href="http://www.fairsearches.com/only-hire.html">Only Hire</a></li>
+                            <li><a href="http://www.fairsearches.com/travels.html">Travels</a></li>
+                            <li><a href="http://www.fairsearches.com/real-estate.html">Real Estate</a></li>
+                            <li><a href="http://www.fairsearches.com/fitness.html">Fitness</a></li>
+                        </ul>
+                        <ul>
+                        	<li><a href="http://www.fairsearches.com/gifts.html">Gifts</a></li>
+                            <li><a href="http://www.fairsearches.com/wedding.html">Wedding</a></li>
+                            <li><a href="http://www.fairsearches.com/restaurants.html">Restaurants</a></li>
+                            <li><a href="http://www.fairsearches.com/furniture.html">Furniture</a></li>
+                            <li><a href="http://www.fairsearches.com/other-services.html">Other Services</a></li>
+                        </ul>					
+                       
+					</div>
+				</div>
+                <div class="column_2">
+					<div class="footer_column">
+						<div class="footer-heading"><i class="fa fa-link"></i> Quik Links</div>
+						<ul>
+							<li><a href="http://cms.fairsearches.com/" target="_parent">About Us</a></li>
+							<li><a href="http://hiring.fairsearches.com" target="_parent">We're hiring!</a></li>
+							<li><a href="http://www.fairsearches.com/Free-Listing.do" target="_parent">Free Listing</a></li>
+						</ul>
+						<ul>
+							<li><a href="http://www.fairsearches.com/advertisement.php" class="bottom_link">Advertise</a></li>
+							<li><a href="http://www.fairsearches.com/copyright-policy.do" target="_parent">Copyright Policy</a></li>
+                            <li><a href="http://www.fairsearches.com/getonline.do" target="_parent">Businesses Help</a></li>
+                             <li><a href="http://www.fairsearches.com/feed-back.do" target="_parent" title="Feed Back">Feed Back</a></li>
+						</ul>
+						<ul>
+							<li><a href="http://www.fairsearches.com/job-career.php" target="_parent">Job Career</a></li>
+							<li><a href="http://www.fairsearches.com/faq.do" title="faq" target="_parent">FAQ</a></li>
+                            <li><a href="http://www.fairsearches.com/customercare.php" target="_parent">Customer Care</a></li>
+							<li><a target="_blank" href="http://www.fairsearches.com/testimonials.php">Testimonials</a></li>
+						</ul>
+					</div>
+				</div>
+                <div class="column_2">
+               	<div class="footer_column">
+						<div class="footer-heading"><i class="fa fa-user"></i> Contact Us</div>
+						<div class="contact_with_no">
+                        	<div class="contact_name">Contact No. :</div>
+                            <div class="contact_no">+91-8750299299 </div>
+                        </div>
+                        <div class="contact_with_email">
+                        	<div class="contact_name">E-mail :</div>
+                            <div class="contact_no">admin@fairsearches.com</div>
+                        </div>
+                        
+                        <div class="contact_with_social">
+                        	<div class="contact_name">Follow Us </div>
+                            <div class="contact_no_i">
+                            <a href="https://www.facebook.com/fairsearches"><i class="fa fa-facebook fb"></i></a>
+                            <a href="https://twitter.com/fairsearches"><i class="fa fa-twitter tw"></i></a>
+                            <a href="https://plus.google.com/+Fairsearches"><i class="fa fa-google-plus gp"></i></a>
+                            <a href="https://in.linkedin.com/in/fairsearches"><i class="fa fa-linkedin ln"></i></a>
+                            <a href="#"><i class="fa fa-youtube yt"></i></a>
+                            </div>
+                        </div>
+                        
+					</div>
+				</div>
+                
+                <div class="clear"></div>
+            </div>
+                        </div>   
+        </div>
+        <div style="clear:both"></div>
+			<div class="wrap">
+			<div class="copy-right">
+             <p class="">© 2015 fairsearches.com All Rights Reserved.</p>
+              <ul>
+                <li><a href="http://www.fairsearches.com/infringement-policy.do" title="Infringement">Infringement</a></li>                
+                <li><a title="Terms of Use" href="http://www.fairsearches.com/terms-of-use">Terms of Use</a></li>
+                <li><a title="Privacy Policy" href="http://www.fairsearches.com/privacy-policy.do" class="border-right-none">Privacy Policy</a></li>            
+               <!-- <li class="images">
+                	<a target="_blank" href="https://www.facebook.com/fairsearches" title="Facebook"> <img src="http://www.fairsearches.com/images/facebook-icon.png" alt="facebook" /></a>
+                    <a target="_blank" href="https://twitter.com/fairsearches" title="Twitter"><img src="http://www.fairsearches.com/images/twitter-icon.png" alt="twitter" /> </a>                    
+                     <a target="_blank" href="https://plus.google.com/+Fairsearches" title="Google Plus"><img src="http://www.fairsearches.com/images/google-plus-icon.png" alt="Google Plus" /> </a>
+                     <a target="_blank" href="https://in.linkedin.com/in/fairsearches" title="Linkedin"><img src="http://www.fairsearches.com/images/linkedin-icon.png" alt="Linkedin" /> </a>
+                </li>-->
+             </ul>           
+		    </div>
+            <div class="contactsDiv">
+				<div class="contactsDivInner">
+					<a href="#" class="floatleft"> <span class="phone"></span> +91-8750299299</a>
+                    <a href="mailto:admin@fairsearches.com" class="floatright">
+						<span class="email"></span> admin@fairsearches.com	</a>
+					<span class="clr"></span>
+				</div>
+			</div>
+		</div>
+	</div>
+ <script src="http://www.fairsearches.com/includes/classie.js"></script>
+ <script src="http://www.fairsearches.com/includes/modalEffects.js"></script>    
+ <script type="text/javascript" src="http://www.fairsearches.com/js/nagging-menu.js" charset="utf-8"></script>       
+    <script type="text/javascript" src="http://www.fairsearches.com/js/script.js"></script>
+
+
+
+</body></html>
