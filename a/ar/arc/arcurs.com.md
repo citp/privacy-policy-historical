@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcurs.com privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410130935id_/http%3A//arcurs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcurs.com privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104044242id_/http%3A//arcurs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Yuri Arcurs
 
