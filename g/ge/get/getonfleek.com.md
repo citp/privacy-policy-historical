@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the getonfleek.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507040859id_/http%3A//getonfleek.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getonfleek.com privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104210517id_/http%3A//www.getonfleek.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Get On Fleek
+# Privacy Policy | Getonfleek
 
 \----
 
@@ -24,7 +24,7 @@ How do I withdraw my consent?
 
 If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at info@getonfleek.com or mailing us at:
 
-Attn: GetonFleek, 121 Wisconsin Ave, Ste 101, Whitefish, Montana 59937
+Attn: GetonFleek, 37 N. Orange Ave, Suite 200, Orlando, FL 32801
 
 SECTION 3 - DISCLOSURE
 
@@ -96,10 +96,16 @@ We reserve the right to modify this privacy policy at any time, so please review
 
 If our store is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.
 
+SECTION 10 - DMCA TAKEDOWN REQUESTS AND LEGAL INFORMATION
+
+It is to our knowledge that we do not source, manufacture or sell any products that infringe on copyright information or digital material covered through the Digital Millennium Copyright Act.  If you are the copyright owner or have consent to act on behalf of the copyright owner for any material(s) and/or product(s) in our store that are infringing, please contact us immediately.  We will evaluate every request as they are filed and act accordingly.  You may contact us at info@getonfleek.com
+
+By doing any form of business, including purchases, DMCA requests and any and all other legal action taken by or against us, shall be done so in the courts of Orlando, Florida.
+
 QUESTIONS AND CONTACT INFORMATION
 
 If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at 
 
 info@getonfleek.com or mailing us at:
 
-Attn: GetonFleek, 121 Wisconsin Ave, Ste 101, Whitefish, Montana 59937
+Attn: GetonFleek, 37 N Orange Ave, Suite 200, Orlando, FL 32801
