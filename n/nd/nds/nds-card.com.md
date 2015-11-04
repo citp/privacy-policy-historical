@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nds-card.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611132353id_/http%3A//www.nds-card.com/shippingReturns.asp%3FsortID%3D480) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nds-card.com privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105004218id_/http%3A//www.nds-card.com/shippingReturns.asp%3FsortID%3D480) for the most accurate reproduction.*
 
 # Privacy Policy--nds-card.com
 
@@ -45,7 +45,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.nds-card.com/](https://web.archive.org/web/20150611132353id_/)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.nds-card.com/](https://web.archive.org/web/20151105004218id_/)
 
  **Your Consent**
 
@@ -60,5 +60,5 @@ This policy was last modified on
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-Website:[http://www.nds-card.com/](https://web.archive.org/web/20150611132353id_/)  
+Website:[http://www.nds-card.com/](https://web.archive.org/web/20151105004218id_/)  
 Email:[customerservice@nds-card.com](http://customerservice@nds-card.com/)
