@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motifake.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623154955id_/http%3A//www.motifake.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motifake.com privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104235748id_/http%3A//www.motifake.com/privacy.php) for the most accurate reproduction.*
 
 # None
 
