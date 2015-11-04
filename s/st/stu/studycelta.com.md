@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the studycelta.com privacy policy that was archived on 2014-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140827115724id_/http%3A//www.studycelta.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studycelta.com privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104154709id_/http%3A//www.studycelta.com/our-privacy-policy/ele-profesor-de-espanol/privacy-policy) for the most accurate reproduction.*
 
-# What information do we collect? - studycelta.com
+# Our Privacy Policy | StudyCELTA
 
 **What information do we collect?**
 
@@ -18,9 +18,9 @@ To improve our website
 To improve customer service  
 (your information helps us to more effectively respond to your customer service requests and support needs)
 
-**Do we use cookies?**
+ **Do we use cookies?**
 
-We do not use cookies.
+StudyCELTA uses cookies to improve your user experience and for some of our interactive features to work. Your information is not shared with 3rd parties.
 
  **Do we disclose any information to outside parties?**
 
@@ -49,11 +49,3 @@ This policy was last modified on 28 October 2013
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 http://www.studycelta.com
-
-[ ](mailto:%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'mailto:';%20var%20suffix%20=%20'';%20var%20attribs%20=%20'';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy70035%20=%20'info'%20+%20'@';%20addy70035%20=%20addy70035%20+%20'studycelta'%20+%20'.'%20+%20'com';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20addy70035%20+%20suffix%20+%20'\\''%20+%20attribs%20+%20'%3E'%20\);%20document.write\(%20addy70035%20\);%20document.write\(%20'%3C\\/a%3E'%20\);%20//--%3E%20%3C/script%3E%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=\\'display:%20none;\\'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E "StudyCELTA")[info@studycelta.com](mailto:info@studycelta.com)
-
-**Administrative Head Office**
-
-Calle Joaquín Morales y Torres 6 2C  
-Seville 41003  
-Spain
