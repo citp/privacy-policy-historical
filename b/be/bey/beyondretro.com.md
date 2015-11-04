@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beyondretro.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608045457id_/http%3A//www.beyondretro.com/en/help/privicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyondretro.com privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104013722id_/http%3A//www.beyondretro.com/en/help/privacy) for the most accurate reproduction.*
 
-# Vintage privicy | Beyond Retro
+# Vintage privacy | Beyond Retro
 
 ## Privacy
 
