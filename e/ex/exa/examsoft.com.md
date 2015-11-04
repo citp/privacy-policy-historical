@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the examsoft.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628011613id_/http%3A//learn.examsoft.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the examsoft.com privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105002159id_/http%3A//learn.examsoft.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ExamSoft
 
