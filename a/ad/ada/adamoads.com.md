@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the adamoads.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511103446id_/http%3A//www.adamoads.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adamoads.com privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104215942id_/http%3A//www.adamoads.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Welcome to ADAMO Advertising
+# Welcome to ADAMO
 
-Please read following document before using the site or submitting any personal information to Adamo Advertising.
+Please read following document before using the site or submitting any personal information to ADAMO.
 
 By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted on this. We are encouraging you to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
 
@@ -10,7 +10,7 @@ Note: the privacy practices set forth in this privacy policy are for this web si
 
 #### Collection of Information
 
-Adamo Advertising collects personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our users. This information is used to fulfill specific requests and services through our ad network.
+ADAMO collects personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our users. This information is used to fulfill specific requests and services through our ad network.
 
 #### Cookie/Tracking Technology
 
@@ -26,8 +26,8 @@ We will ensure that information about you is accurate and up to date when we col
 
 #### Commitment to Data Security
 
-Your personally identifiable information is important to us and that's why it's kept secure. Only authorized Adamo Advertising employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information.
+Your personally identifiable information is important to us and that's why it's kept secure. Only authorized ADAMO employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information.
 
 If you have any questions, concerns, or comments about our privacy policy you may contact us through our [contact page](https://web.archive.org/contact.php).
 
-We reserve the right to make changes to this policy. Any changes to this policy will be posted on Adamo Advertising Privacy Policy page.
+We reserve the right to make changes to this policy. Any changes to this policy will be posted on ADAMO Privacy Policy page.
