@@ -1,30 +1,36 @@
-> *The following text is extracted and transformed from the passkey.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607030212id_/http%3A//www.passkey.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the passkey.com privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104154012id_/http%3A//www.passkey.com/legal/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - Lanyon
-
-## Lanyon Privacy Policy Highlights
+# Lanyon - Privacy Policy
 
 **_Effective date: 10 October 2014_**
 
 This page summarizes the key highlights from our Privacy Policy. For more information, read our full Privacy Policy below:
 
-**Personal i** **dentifiable** **information collected  **
+##### **Personal identifiable  information collected **
 
 We collect information:
 
   * When you register to become a Lanyon user (“User”), such as your name, e-mail, employer, country, and a password
+
   * When you view and interact with Lanyon solutions, web pages, features, and functionality, including Lanyon mobile applications, software and platform technology (like third party applications)
-  * When you interact with third party services available through Lanyon like surveys, polls or other third party research undertaken with your consent
+
+  * When you interact with third party services available through Lanyon like surveys, polls or other third party research undertaken with your consent  
+ 
 
 
 
-**Uses of personal information  **
+
+##### **Uses of personal information  **
 
 We use the information you provide to:
 
   * Enable you to access the relevant pages, sections, and applications within the Lanyon tools
+
   * Administer your account with us and customize the service we provide to you
-  * Send you service or promotional communications through email and notices on the Lanyon website
+
+  * Send you service or promotional communications through email and notices on the Lanyon website  
+ 
+
 
 
 
@@ -32,56 +38,68 @@ We do not sell, rent, or otherwise provide personally identifiable information t
 
 Please note that in order to fulfill your requests for paid services (e.g., Lanyon Marketing Services), we share your payment information with our payment processor
 
-**Your Information Choices  **
+##### **Your Information Choices  **
 
 You can:
 
   * Review or edit your personal information through your User Profile, including name, address and contact information
+
   * Manage and update your password used for accessing Lanyon services and applications
 
+  * Opt-out from receiving email communications or text messages from us at any time by emailing us at privacy@lanyon.com or by replying with the word “UNSUBSCRIBE”.  
+ 
 
-  * Opt-out from receiving email communications or text messages from us at any time by emailing us at privacy@lanyon.com or by replying with the word “UNSUBSCRIBE”.
 
 
 
-**Your obligations to other Users.  **
+##### **Your obligations to other Users.  **
 
   * Certain features of the Lanyon system enable you to communicate with other Lanyon contacts. This information is to facilitate the interaction between users in their use of Lanyon services and solutions
-  * Do not abuse this access by sending spam or irrelevant marketing information to other contacts
+
+  * Do not abuse this access by sending spam or irrelevant marketing information to other contacts  
+ 
 
 
 
-**Important information  **
 
-  * Lanyon Corp participates in the U.S.-EU Safe Harbor Privacy Framework and the U.S.-Swiss Safe Harbor Framework as administered by the United States Department of Commerce as a data controller, and is currently self-certifying our privacy practices as consistent with the Safe Harbor Privacy: Notice, Choice, Onward Transfer, Access and Accuracy, Security, Data Integrity and Enforcement. As part of our participation in the Safe HarborFrameworks, please note that by becoming a User, you have given us your express and informed consent to transfer the data that you provide to us to the United States and to process it in the United States
-  * If Users have questions or concerns regarding this Privacy Policy, including the Safe HarborFrameworks, you should first contact Lanyon by emailing us at privacy@lanyon.com. If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you may raise your complaint with Lanyon’s CTO – jim.mitchell@lanyon.com
-  * Notice of all changes that materially affect ways in which your personal information may be used or shared will be posted in updates to our Privacy Policy.
+##### **Important information  **
+
+  * Lanyon Corp participates in the U.S.-EU Safe Harbor ~~  Privacy~~ Framework and the U.S.-Swiss Safe Harbor Framework as administered by the United States Department of Commerce as a data controller, and is currently self-certifying our privacy practices as consistent with the Safe Harbor Privacy: Notice, Choice, Onward Transfer, Access and Accuracy, Security, Data Integrity and Enforcement. As part of our participation in the Safe HarborFrameworks, please note that by becoming a User, you have given us your express and informed consent to transfer the data that you provide to us to the United States and to process it in the United States
+
+  * If Users have questions or concerns regarding this Privacy Policy, including the Safe HarborFrameworks, you should first contact Lanyon by emailing us at privacy@lanyon.com. If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you may raise your complaint with Lanyon’s privacy officer – jim.baker@lanyon.com
+
+  * Notice of all changes that materially affect ways in which your personal information may be used or shared will be posted in updates to our Privacy Policy.  
+ 
 
 
 
-**Security  **
+
+##### **Security  **
 
   * Personal information you provide will be secured in accordance with industry standards and technology. Since the internet is not a 100% secure environment, we cannot ensure or warrant the security of any information you transmit to Lanyon. There is no guarantee that information may not be accessed, copied, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards
-  * You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications at all times
+
+  * You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications at all times  
+ 
 
 
 
-**How to contact us  **
 
-If you have questions or comments please send them to us at:
+##### **How to contact us  **
 
+If you have questions or comments please send them to us at:  
 Lanyon Solutions Inc.  
 717 North Harwood St.  
 Dallas, TX 75201  
-USA _ _
+USA   
+**Or email:  **privacy@lanyon.com  
+ 
 
-**Or email:** privacy@lanyon.com
+## **Lanyon Privacy Policy**
 
-## Lanyon Privacy Policy
+**_Effective date: 10 October 2014_  **  
+ 
 
-**_Effective date: 10 October 2014_** _ _
-
-**Introduction:  **
+##### **Introduction:  **
 
 The mission of Lanyon Solutions, Inc. (“Lanyon”, “we”, “us”, “our”) is to connect Buyers and Suppliers together in an on-line marketplace to facilitate the communication of content and the contracting of rates. This privacy policy covers information collected through our Web sites www.lanyon.com, www.passkey.com, www.regonline.com (Our “Sites”), Our Passkey GroupMAX Platform, our Lanyon Travel Supply and Demand Service Platforms and the Starcite Suite of Services (Our “Service Platforms”) (collectively the “Services”). The use of information collected through our services shall be limited to the purpose of providing the service for which the Client has engaged Lanyon.
 
@@ -93,9 +111,9 @@ Lanyon has received TRUSTe’s Privacy Seal signifying that this privacy policy 
 
 Here are the three main types of information on Lanyon:
 
-_Information about yourself that you share._ This is the information that Lanyon customers see about you. This includes your name and contact details, including the hotel, corporation or other business entity you are associated to in the marketplace. **You have control over this content, and you can update information at any time.  **
+_Information about yourself that you share.  _This is the information that Lanyon customers see about you. This includes your name and contact details, including the hotel, corporation or other business entity you are associated to in the marketplace.  **You have control over this content, and you can update information at any time.  **
 
-_Communication._ We help you communicate with other Lanyon marketplace users using built-in email mechanisms. This email communication is one-to-one and is based on standard notifications which are generated from the Lanyon systems. They do not require you to respond to these emails and share any additional information, and are primarily emails notifying you to log in to Lanyon to perform some action(s). **You decide upon the action you wish to take upon receiving these notifications.  **
+_Communication.  _We help you communicate with other Lanyon marketplace users using built-in email mechanisms. This email communication is one-to-one and is based on standard notifications which are generated from the Lanyon systems. They do not require you to respond to these emails and share any additional information, and are primarily emails notifying you to log in to Lanyon to perform some action(s).  **You decide upon the action you wish to take upon receiving these notifications.  **
 
 Newsletters. If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may unsubscribe by following the instructions located at the bottom of each communication.
 
@@ -103,28 +121,41 @@ Service-related announcements. We will send you strictly service-related announc
 
 Customer Service. Based upon the personal information you provide us, we will send you a welcoming email to verify your username and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account.
 
-_Private activity._ We also provide tools that you use during the course of solicitation, negotiation, and content distribution. We encourage you to only use the built-in notifications for any communication in the marketplace and to not use the contact information for any private means.
+_Private activity.  _We also provide tools that you use during the course of solicitation, negotiation, and content distribution. We encourage you to only use the built-in notifications for any communication in the marketplace and to not use the contact information for any private means.
 
-**Please read this policy** and send us questions, concerns and suggestions to privacy@lanyon.com
+**Please read this policy  **and send us questions, concerns and suggestions to privacy@lanyon.com
 
-**What Lanyon’s Privacy Policy Covers:  **
+##### **What Lanyon’s Privacy Policy Covers:  **
 
   1. Information collected by Lanyon.
+
   2. How Lanyon uses your information.
+
   3. Your information choices.
+
   4. Your obligations as a User.
+
   5. Important information regarding service eligibility and Lanyon’s Safe Harbor certification.
+
   6. Security.
+
   7. Tracking Technologies.
+
   8. IP Addresses.
+
   9. Certain Disclosures.
+
   10. Information Related to Data Collected for our Clients.
+
   11. Links to Other Sites.
-  12. How to contact us.
+
+  12. How to contact us.  
+ 
 
 
 
-**1\. Information Collected  **
+
+##### **1\. Information Collected  **
 
 The mission of Lanyon is to connect Buyers and Suppliers together in an on-line marketplace to facilitate the communication of content and the contracting of rates. To achieve this mission, Lanyon makes features and functionality available through our websites, including our mobile and other applications, developer platform, and other information provided as part of the Lanyon services (“Services”) to enable hotels, hotel chains, airlines, car rental companies and other hospitality industry suppliers to interact with hospitality buyers such as corporations, travel management companies, agencies, and consortia. By joining Lanyon, you voluntarily and willingly provide Lanyon Corporation, a company headquartered in Irving, Texas, USA, certain information, including some limited personally identifiable information, which we collect in order to provide the Services. If you have any hesitation about providing information to us and/or having your information displayed on the Lanyon website or otherwise used in any manner permitted in this Privacy Policy and the User Agreement, you should contact us immediately at privacy@lanyon.com.
 
@@ -162,11 +193,11 @@ _E. Using Third Party Services and Visiting Third Party Sites  _
 
 In some cases we receive information when you login to a web site or application provided by your company. In those instances where you login to a company web site or application, if your company has elected to set up an automatic sign-in to Lanyon, your User ID and password may be automatically sent to Lanyon to login simultaneously to a Lanyon web site or application. If you are unsure when this occurs or if you have any concerns on this process please contact your company administrator or the Lanyon support or account management teams. Lanyon will only use “login” information to give access to an authorized Lanyon web site / application and in some cases to personalize the Lanyon-provided functionality.
 
-_F. Advertising and Web Beacons  _
+  _F. Advertising and Web Beacons  _
 
 We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking here (link to TRUSTe opt-out: http://preferences.truste.com/ ). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
-_G._ Information We Collect Automatically. As true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser types, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do not link this automatically collected data with other information we collect about you.
+_G.  _Information We Collect Automatically. As true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser types, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do not link this automatically collected data with other information we collect about you.
 
 _H. Data Retention  _
 
@@ -174,21 +205,31 @@ Lanyon will retain your information for so long as your account is active or as 
 
 We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce this Agreement.
 
-**2\. Uses of personal information  **
+##### **2\. Uses of personal information  **
 
 _A. Consent to Lanyon Processing Information about You  _
 
-The information you provide to Lanyon such as name, business telephone number, and email address may reveal, or allow others to identify, your nationality, gender, or location. By providing information to us for the purposes of creating your User ID or adding any additional details to your Lanyon profile, you are expressly and voluntarily accepting the terms and conditions of this Privacy Policy. Supplying information to Lanyon, including any information deemed “sensitive” by applicable law, is entirely voluntary on your part. You have the right to withdraw your consent to Lanyon’s collection and processing of your information at any time, in accordance with the terms of this Privacy Policy by contacting us at privacy@lanyon.com but please note that your withdrawal of consent will not be retroactive from the point that this request is received and processed.  
+The information you provide to Lanyon such as name, business telephone number, and email address may reveal, or allow others to identify, your nationality, gender, or location. By providing information to us for the purposes of creating your User ID or adding any additional details to your Lanyon profile, you are expressly and voluntarily accepting the terms and conditions of this Privacy Policy. Supplying information to Lanyon, including any information deemed “sensitive” by applicable law, is entirely voluntary on your part. You have the right to withdraw your consent to Lanyon’s collection and processing of your information at any time, in accordance with the terms of this Privacy Policy by contacting us at privacy@lanyon.com but please note that your withdrawal of consent will not be retroactive from the point that this request is received and processed.
+
 We use this information:
 
   * To provide our Services to you, to communicate with you about your use of the Services and for other customer service purposes;
+
   * To provide information that you have requested to receive from us in response to your opt-in requests, such as through email, notices posted on the Lanyon websites, messages to your Lanyon message center or through other means available through the service, including some cases, mobile text messages;
+
   * To provide our Services at the request of our Clients;
+
   * To administer Events;
+
   * To improve our Sites and Services by providing personalized experiences, location customization, personalized help, and instructions;
+
   * For marketing and advertising purposes; for example, we may use your information to display targeted advertisements to you on our Sites to assist us in advertising our Services on third party websites;
+
   * To send you email, follow-up questions about your Event or your participation in an Event, news and newsletters, promotions, and/or invitations to visit the Site;
-  * To better understand how users access and use our Sites and Services, both on an aggregated and individualized basis, and for other research purposes.
+
+  * To better understand how users access and use our Sites and Services, both on an aggregated and individualized basis, and for other research purposes.  
+ 
+
 
 
 
@@ -220,7 +261,7 @@ _E. Compliance with Legal Process  _
 
 It is possible that we may need to disclose personal information, profile information and/or information about your activities as a Lanyon User when required by law such as to comply with subpoena or other legal process, or if Lanyon has a good faith belief that disclosure is necessary to (a) protect our rights, protect your safety or the safety of others, investigate fraud, prevent or take action regarding suspected or actual illegal activities or to assist government enforcement agencies; (b) to enforce a user agreement or license, to investigate and defend ourselves against any third party claims or allegations, or to protect the security or integrity of our site; and/or (c) to exercise or protect the rights, property or personal safety of Lanyon, our Users, employees, or others.
 
-**3\. Your Information Choices  **
+##### **3\. Your Information Choices  **
 
 _A. Accessing and Changing Your User ID Information  _
 
@@ -228,20 +269,26 @@ You can review, delete inaccuracies or update the personal information you provi
 
 If you wish to request removal of your personal information from our testimonials or community forums, please contact us at privacy@lanyon.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-**4\. Your Obligations  **
+##### **4\. Your Obligations  **
 
 As a User, you have certain obligations to other Users. Some of these obligations are imposed by applicable law and regulations, and others have become commonplace in on-line platforms such as the Lanyon marketplace:
 
   * You must, at all times, abide by the terms and conditions of the then-current Privacy Policy. This includes respecting all intellectual property rights that may belong to third parties (such as trademarks or photographs)
+
   * You must not download or otherwise disseminate any information that may be deemed to be injurious, violent, offensive, racist or xenophobic, or which may otherwise violate the purpose and spirit of Lanyon and its marketplace
+
   * You must not provide to Lanyon and/or other Users information that you believe might be injurious or detrimental to your person or to your professional or social status
-  * You must keep your username and password confidential and not share it with others
+
+  * You must keep your username and password confidential and not share it with others  
+ 
 
 
 
-Any violation of these guidelines may lead to the restriction, suspension or termination of your services at the sole discretion of Lanyon
 
-**5\. Important information  **
+Any violation of these guidelines may lead to the restriction, suspension or termination of your services at the sole discretion of Lanyon  
+ 
+
+##### **5\. Important information  **
 
 _Safe Harbor  _
 
@@ -251,17 +298,18 @@ Please note that by becoming a User, you have given us your express and informed
 
 If Users have questions or concerns regarding this Privacy Policy, including the Safe Harbor Privacy Framework, you should first contact Lanyon at privacy@lanyon.com. If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you may raise your complaint by emailing Lanyon’s Security and Compliance Manager at jim.baker@lanyon.com, by fax at +1-866-840-9987, or mail at Lanyon, Inc., 717 North Harwood St. Dallas, TX 75201, USA
 
-_Changes to this Privacy Policy  _
+    _Changes to this Privacy Policy  _
 
 We may update this Privacy Policy at any time, with or without advance notice. In the event there are material changes made in the way we treat your personally identifiable information, or in the Privacy Policy document itself, we will display a notice on the Lanyon website or send you an email, so that you may review the changed terms prior to the change becoming effective and continuing to use the Lanyon services. Unless stated otherwise, our current Privacy Policy applies to all information that Lanyon has about you and your services.
 
 Using the Lanyon Services after a notice of changes has been sent to you or published on our site shall constitute consent to the changed terms or practices.
 
-**6\. Security  **
+##### **6\. Security  **
 
-In order to help secure your personal information, access to your data on Lanyon is password-protected, and sensitive data such as credit card number is protected by SSL encryption when it is exchanged between systems. To protect any data you store on our servers, Lanyon also regularly audits its system for possible vulnerabilities and attacks, and we use a tier-one secured-access data center. However, since the internet is not a 100% secure environment, we cannot ensure or warrant the security of any information you transmit to Lanyon. There is no guarantee that information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. It is your responsibility to protect the security of your login information. Please note that emails, instant messaging, and similar means of communication with other Users of Lanyon are not encrypted, and we strongly advise you not to communicate any confidential information through these means.
+In order to help secure your personal information, access to your data on Lanyon is password-protected, and sensitive data such as credit card number is protected by SSL encryption when it is exchanged between systems. To protect any data you store on our servers, Lanyon also regularly audits its system for possible vulnerabilities and attacks, and we use a tier-one secured-access data center. However, since the internet is not a 100% secure environment, we cannot ensure or warrant the security of any information you transmit to Lanyon. There is no guarantee that information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. It is your responsibility to protect the security of your login information. Please note that emails, instant messaging, and similar means of communication with other Users of Lanyon are not encrypted, and we strongly advise you not to communicate any confidential information through these means.  
+ 
 
-**7.** **Tracking Technologies**
+##### **7.**   **Tracking Technologies**
 
 Technologies such as: cookies, beacons, tags, and scripts are used by Lanyon and our partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
@@ -271,17 +319,18 @@ We use Local Storage Objects (LSOs) such as HTML 5 to store content information 
 
 We partner with a third party to either display advertising on our Web sites or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about our activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here. http://preferences-mgr.truste.com Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
-**8.** **IP Addresses**
+##### **8.**   **IP Addresses**
 
 When you visit Lanyon’s Websites, the Company collects your Internet Protocol (“IP”) addresses to track and aggregate non-personally identifiable information. For example, Lanyon uses IP addresses to monitor the regions from which Customers and Visitors navigate the Company’s Web sites, and what browsers they might be using. Additional information such as browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data may also be collected. We do not think this automatically collected data to other information we collect about you.
 
 Because the Company uses the Service to maintain data about Lanyon Customers, this information is secured in the same manner as described above for Customer Data.
 
-**9.** **Certain Disclosures**
+##### **9.**   **Certain Disclosures**
 
-We may provide non-personally-identifiable information to our contractors for the purpose of providing and maintaining our services. We require that these parties agree to use such information solely for this purpose, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.
+We may provide non-personally-identifiable information to our contractors for the purpose of providing and maintaining our services. We require that these parties agree to use such information solely for this purpose, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.  
+ 
 
-**10.** **Information Related to Data Collected for our Clients**
+##### **10.**   **Information Related to Data Collected for our Clients**
 
 Lanyon collects information under the direction of our Clients, and has no direct relationship with the individuals whose personal data we process. If you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the Client that you interact with directly. We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our Clients.
 
@@ -291,11 +340,12 @@ An individual who seeks access, or who seeks to correct, amend, or delete inaccu
 
 We will retain personal data we process on behalf of our Clients for as long as needed to provide services to our Client. Lanyon will retain and use this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-**11.** **Links to Other Sites  **
+##### **11.**   **Links to Other Sites  **
 
-We are not responsible for the privacy policies of any sites that are linked to from the Site or any site that you use to access the Site. You should consult the respective privacy policies associated with these sites for more information on their practices and for instructions on how to opt-out of certain practices. Our privacy policy does not apply to, and we cannot control the activities of, such other web sites.
+We are not responsible for the privacy policies of any sites that are linked to from the Site or any site that you use to access the Site. You should consult the respective privacy policies associated with these sites for more information on their practices and for instructions on how to opt-out of certain practices. Our privacy policy does not apply to, and we cannot control the activities of, such other web sites.  
+ 
 
-**12\. How to contact us  **
+##### **12\. How to contact us  **
 
 If you have questions or comments about this Privacy Policy, please contact us at privacy@lanyon.com or contact us via your account manager or the Lanyon support and account management teams at:
 
@@ -308,4 +358,4 @@ Alternatively, if you have questions or comments please send them to us at:
 Lanyon Solutions Inc.  
 717 North Harwood St.  
 Dallas, TX 75201  
-USA _ _
+USA 
