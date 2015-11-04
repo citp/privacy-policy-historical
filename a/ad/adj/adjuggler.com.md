@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adjuggler.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408034752id_/http%3A//adjuggler.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adjuggler.com privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104045305id_/http%3A//www.adjuggler.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Ad Juggler - Ad Serving & Management
 
