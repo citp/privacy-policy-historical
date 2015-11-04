@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mensinfinity.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608000611id_/http%3A//www.mensinfinity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mensinfinity.com privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104013859id_/http%3A//www.mensinfinity.com/privacy-policy) for the most accurate reproduction.*
 
 # MensInfinity – Privacy Policy
 
