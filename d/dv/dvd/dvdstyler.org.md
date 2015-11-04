@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dvdstyler.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607111937id_/http%3A//www.dvdstyler.org/en/component/content/article%3Fid%3D91) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvdstyler.org privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104013832id_/http%3A//www.dvdstyler.org/en/%3Fid%3D91) for the most accurate reproduction.*
 
-# DVDStyler - DVDStyler
+# DVDStyler - Privacy Policy
 
 This privacy policy sets out how Thüring IT-Consulting uses and protects any information that you give Thüring IT-Consulting when you use this website.
 
