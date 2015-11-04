@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the newsreview.com privacy policy that was archived on 2015-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608001112id_/http%3A//www.newsreview.com/sacramento/ViewPage%3Foid%3D39096) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the newsreview.com privacy policy that was archived on 2015-11-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151104204023id_/http%3A//www.newsreview.com/sacramento/ViewPage%3Foid%3D39096) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 		<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.3"></script><script type="text/javascript">
@@ -112,7 +112,7 @@
 		function getCalendar(SpotOid) {
 			
 			
-			var params = { "AdminOid": "2572", "ScriptAlias": "sacramento", "OidToBlock": CalOidToBlock, "SpotToBlock": SpotOid, "PublicKey": "1433722276", "hash": "1e5d837afddcd98f623457c7798e52f7" };
+			var params = { "AdminOid": "2572", "ScriptAlias": "sacramento", "OidToBlock": CalOidToBlock, "SpotToBlock": SpotOid, "PublicKey": "1447158853", "hash": "687a538a3530e40d7ae7d7a44fa9e189" };
 			dynLib.runMacro("getCalendar", params, function (response) { document.getElementById('CalendarContent').innerHTML = response["output"]; CalOidToBlock = response["oid"]; });
 		}  
 		
@@ -129,7 +129,7 @@
 				if (readCookie('login')) {
 					
 					
-					var params = { "login": readCookie('login'), "PublicKey": "1433722276", "hash": "5f439e3d03c567d0056a9e2d2ed24cf9" } ;
+					var params = { "login": readCookie('login'), "PublicKey": "1447158853", "hash": "82e607e81691e0fe5e662feb4b8e93a7" } ;
 					passwordLib.runMacro("getHandle", params, function (response) { 
 						if (document.getElementById('loginForm') !== null) { 
 							if (response["status"] == 1) {
@@ -193,7 +193,7 @@
 
 					
 					      
-					var params = { "loginUserName": user, "loginPassword": pass, "PublicKey": "1433722276", "hash": "0aadd7441241f599bcb2e8d9fe737fb6" };
+					var params = { "loginUserName": user, "loginPassword": pass, "PublicKey": "1447158853", "hash": "34cdffa894cec36d341e2bfb73303fe3" };
 					passwordLib.runMacro("authenticate", params, 
 						function (response) { 
 							verifyLogin(response["auth"],response["user"],response["Cookie"],response["Handle"],response["status"]); 
@@ -216,7 +216,7 @@
 					eraseCookie('login');
 					createCookie('login',user + ':' + Cookie,1);
 					createCookie('auth',auth,1);
-					location.replace('/sacramento/local/MyNR?reload=dd7eef1c9542eb682878cd03708100c1');
+					location.replace('/sacramento/local/MyNR?reload=b6ee57f15881dcf1d2020aaecdc6a389');
 				} else {
 					alert("The password you entered doesn't match the password on file for the username you entered.  Please try again.");
 				}
