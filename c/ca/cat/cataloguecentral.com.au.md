@@ -1,15 +1,8 @@
-> *The following text is extracted and transformed from the cataloguecentral.com.au privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622041606id_/http%3A//www.cataloguecentral.com.au/Pages/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cataloguecentral.com.au privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104154014id_/http%3A//www.cataloguecentral.com.au/Pages/Privacy) for the most accurate reproduction.*
 
-# Catalogue Central's Privacy Policy
+# Catalogue Central
 
-  1. [Home](https://web.archive.org/)
-  2. Privacy Policy
-
-
-
-## Privacy Policy
-
-iNC Network Australia Pty Ltd trading as iNC Digital Media and Catalogue Central Pty Limited and their related businesses (iNC, our, us, we) respect your right to privacy.
+Catalogue Central Pty Limited trading as iNC Digital Media and their related businesses (iNC, our, us, we) respect your right to privacy.
 
 We are sensitive to the concerns that our clients, customers and online users may have with regard to the confidentiality, security and use of their personal information. iNC is committed to the protection of your personal information and would like to reassure you of our position on this matter. iNC has developed this Privacy Policy in line with the ‘Australian Privacy Principles’ (APPs) as established under the Privacy Act 1988 (Cth).
 
