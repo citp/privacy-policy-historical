@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the adforum.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630062830id_/http%3A//www.adforum.com/pages/help/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adforum.com privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105094922id_/http%3A//www.adforum.com/pages/help/Privacy_Policy.html) for the most accurate reproduction.*
 
 # AdForum Privacy Policy
 
-### [Other Privacy Issues](https://web.archive.org/web/20150630062830id_/http%3A//www.adforum.com/pages/help/Privacy_Policy.html?#18)
+### [Other Privacy Issues](https://web.archive.org/web/20151105094922id_/http%3A//www.adforum.com/pages/help/Privacy_Policy.html?#18)
 
 **WHAT INFORMATION WE COLLECT AND WHY**
 
