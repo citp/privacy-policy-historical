@@ -1,0 +1,61 @@
+> *The following text is extracted and transformed from the skiibo.com privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105063438id_/http%3A//skiibo.com/info.php%3Fpage%3Dpriv_policy%26lang%3Ddefault) for the most accurate reproduction.*
+
+# Privacy Policy
+
+[](http://www.skiibo.com/)   
+**Privacy Statement,  
+Effective Date: 7/28/2015**
+
+This statement discloses the information gathering process and the privacy and dissemination practices for the Web site. Our site is an Internet singles portal designed to provide an easy way to meet other singles on the Internet. Members create a profile and are then paired with a number of other members based on their pre-selected dating criteria. 
+
+Our site is a membership-based service that collects credit card numbers, addresses, and bank information only from those who choose to sign up as paid members. Any visitors may choose to browse the Site, search the profiles and/or view any articles by signing up for a free trial membership. 
+
+Registration form requires users to provide contact information such as an email address and demographic information (such as zip code, age, or income leve Our site also occasionally runs contests and conducts online surveys that ask visitors for contact information such as name and email address and demographic information such as zip code, age, or income level. 
+
+Our site contains links to other web sites and Our site is not responsible for the privacy practices or the content of such sites. 
+
+**Private, Public and Aggregate Information obtained by Our site**
+
+PRIVATE INFORMATION is any information that allows others to contact a user other than through Our site or allows the collection of information about the user other than what is displayed on the site. Private information is gathered from free trial members and regular members. This information includes, but is not limited to: email address, first name, last name, credit card number, and address. 
+
+PUBLIC INFORMATION is personal information that may be displayed on the site, such as gender, age and height, but cannot be linked to a particular user. Public information is personal information such as gender, age, ethnic background, appearance, and more. This information is meant to be seen by members and visitors to the site but cannot be used to identify a specific member by name, address, or other profile information. Members can post images of themselves but no identifying information is allowed to be posted with that image. Please note that images posted can be used by Our site in ads or press releases about our service. People attending Our site events can be included in photos and images taken of such events and used in ads or press releases about our service. Posting images or attending Our site events constitutes agreement with the fair use of the images involved. 
+
+AGGREGATE This is information we collect that is not personally identifiable, such as browser type and IP address. This information is gathered from all visitors to the site. 
+
+**Use of Information Obtained by Our site**
+
+PRIVATE INFORMATION: We use email addresses submitted by members when forwarding anonymous emails. Responders' email addresses are not disclosed to the original sender nor is any other personally identifiable information. We may use a user's email or street address to send news regarding our site or offers we feel appropriate to our members but the user may choose not to receive email of this type by indicating upon joining up to not receive such mail or later at any time through our unsubscribe methods or by modifying their account information. Any sharing of email or street addresses with third party marketers is done only with the permission of the user by giving consent on signup or by changing their email setting preferences at a later date. Your preferences can be changed by logging onto your account, going to the "My Account" setting at the top of the page and choosing "settings". To remove yourself regarding postal third party offers, please write to the company address at the bottom of this document. 
+
+Email and street addresses may also be used in private correspondence with the user for customer service issues. Financial information that is collected is used to bill the user for services. Our site utilizes a third party service provider for credit card processing to facilitate the user's transaction and the service provider does not use personal information provided by the site for its own promotional purposes. All other private information submitted by the user is confidential and will not be disclosed except as required by law or to protect members of Our site. All private information can be updated or deleted by the user at any time. 
+
+We also use personal information in connection with newsletters, information, offers and other promotional materials sent to you for Our site's or third parties' goods or services. We attempt to have offers sent to you that are of value to you, such as discounts, exclusive offers or special event information. The Site provides you with options to decline to receive communications from Our site (other than those contained in Operational Communications). Some of these options may only be for a certain category of communications; others may be more general. 
+
+To operate the Site, including processing your transactions and supporting your activities on the Site, we may share your personal information with our agents, representatives, contractors and service providers so they can provide us with support services such as authorization of credit card transactions, email origination, receipt or support services, customer relationship management services, order fulfillment and sweepstakes and promotional fulfillment. We require these entities not to use your information for any other purpose. By purchasing, or registering or making reservations for, products or services offered or sponsored by third parties on the Site, or electing to receive communications (such as emails or magazine subscriptions) or electing to participate in contests, sweepstakes or other programs (such as discount or rewards programs), offered or sponsored by third parties on the Site, you consent to our providing your personal information to those third parties. Those third parties may use your personal information in accordance with their own privacy policies. You will need to contact those third parties to instruct them directly regarding your preferences for the use of your personal information by them. Additionally, you agree that we may use and disclose all such information so submitted to such third parties in the same manner in which we are entitled to use and disclose any other information you submit to us. 
+
+Any third party with whom we are allowed to share your personal information is authorized to use your personal information in accordance with our contractual arrangements with such third parties and in accordance with their own privacy policies, over which we have no control, and you agree that we are not responsible or liable for any of their actions or omissions. Those who contact you will need to be instructed directly by you regarding your preferences for the use of your personal information by them. 
+
+Your personal information or financial information may be passed on to a third party in the event of a transfer of ownership or assets of Our site, or a bankruptcy. We may also disclose personal information or financial information when we determine that such disclosure is necessary to comply with applicable law, to cooperate with law enforcement or to protect the interests or safety of Our site or other visitors to the Site. We also may disclose your personal information or financial information to our subsidiary and parent companies and businesses, and other affiliated legal entities and businesses with whom we are under common corporate control. Whenever personal information or financial information is disclosed under this paragraph, we may also disclose your demographic information along with it, on a non-anonymous basis. All of our parent, subsidiary and affiliated legal entities and businesses that receive your personal information, financial information, or non-anonymous demographic information from us will comply with the terms of this privacy policy with respect to their use and disclosure of such information. 
+
+PUBLIC INFORMATION: Public information supplied by the user is intended to be viewed by registrants and subscribers to the site. This information is used by registrants and subscribers for searching and matching purposes. 
+
+AGGREGATE: We use your server, IP address, and browser-type related information in the general administration of our website. It is not personally identifiable information and is not released to third parties. 
+
+Email-A-Friend: If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Our site does not store this information. 
+
+**Chat Rooms, Bulletin Boards, and Forums**
+
+Our site makes chat rooms available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information online. 
+
+**Use of Cookies**
+
+We currently use cookies in our Chat areas and for our own advertising purposes. We use third-party advertising technology to serve ads when you visit our Web site and sites upon which we advertise. This technology uses information about your visits to this Web site and the sites upon which we advertise, (not including your name, address, or other personal information), to serve our ads to you. In the course of serving our advertisements to you, a unique third-party cookie may be placed or recognized on your browser. In addition, we use web beacons, provided by our ad serving partner, to help manage our online advertising. These web beacons enable our ad server to recognize a browser's cookie when a browser visits this site and to learn which banner ads bring users to our Web site. The information we collect and share through this technology is not personally identifiable. 
+
+**Change/Delete**
+
+Our site gives trial members and paid members an option for modifying or removing their information from our database. Your privacy is one of our highest priorities. The security of your personal information is important to us. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). [To learn more about SSL, follow this link http://www.webopedia.com/TERM/S/SSL.html ] 
+
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
+
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site. 
+
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage. 
