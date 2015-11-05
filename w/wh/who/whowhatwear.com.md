@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whowhatwear.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317140640id_/http%3A//www.whowhatwear.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whowhatwear.com privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105144724id_/http%3A//www.whowhatwear.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | WhoWhatWear.com
+# Privacy Policy | WhoWhatWear
 
 **_PRIVACY POLICY_**
 
@@ -8,7 +8,7 @@ Effective Date: This Privacy Policy was last revised on August 5, 2014.
 
 **_Introduction_**
 
-Welcome!  You have arrived at a web site that is provided by Clique Media, Inc. (“ **Clique** ” or “ **we** ,” “ **our** ” or “ **us** ”).  This “ **Privacy Policy** ” governs your use of [www.whowhatwear.com](http://www.whowhatwear.com/), [www.domainehome.com](http://www.domainehome.com/) and [www.byrdie.com](http://www.byrdie.com/) (including, without limitation, both mobile and online versions of our web sites, and also applies to your use of all features, applications, content, downloads and other services that we make available through these web sites and/or that post a link to this Privacy Policy (collectively, referred to herein as the “ **Site** ”), regardless of how you access or use the Site, whether via personal computers, mobile devices or otherwise.  This Privacy Policy does not apply to our data collection activities offline or otherwise outside of our Service (unless otherwise stated below).
+Welcome!  You have arrived at a web site that is provided by Clique Media, Inc. (“ **Clique** ” or “ **we** ,” “ **our** ” or “ **us** ”).  This “ **Privacy Policy** ” governs your use of [www.whowhatwear.com](http://www.whowhatwear.com/), [www.mydomaine.com](http://www.mydomaine.com/ "www.domainehome.com") and [www.byrdie.com](http://www.byrdie.com/) (including, without limitation, both mobile and online versions of our web sites, and also applies to your use of all features, applications, content, downloads and other services that we make available through these web sites and/or that post a link to this Privacy Policy (collectively, referred to herein as the “ **Site** ”), regardless of how you access or use the Site, whether via personal computers, mobile devices or otherwise.  This Privacy Policy does not apply to our data collection activities offline or otherwise outside of our Service (unless otherwise stated below).
 
 **To the extent we provide you notice on our Site of different or additional privacy policies or practices ( _e.g._ , at the point of our collection), those additional terms shall govern such data collection and use.**
 
