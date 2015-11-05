@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winemarket.com.au privacy policy that was archived on 2015-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150331123129id_/http%3A//www.winemarket.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winemarket.com.au privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105020148id_/http%3A//www.winemarket.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Woolworth Group Privacy Policy - WineMarket
 
