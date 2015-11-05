@@ -1,94 +1,113 @@
-> *The following text is extracted and transformed from the fxstat.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612032916id_/http%3A//www.fxstat.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxstat.com privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105185650id_/http%3A//www.fxstat.com/terms/PRIVACY_POLICY.pdf) for the most accurate reproduction.*
 
-# Privacy Policy | FXSTAT
+# PRIVACY POLICY
 
-#### Introduction
-
-The Internet is an amazing tool. It has the power to change the way we live, and we're starting to see that potential today. With only a few mouse-clicks, you can follow the news, look up facts, buy goods and services, and communicate with others from around the world. It's important to FXSTAT to help our customers retain their privacy when they take advantage of all the Internet has to offer. 
-
-Fxstat Group Inc. ("Fxstat", "we" or "us") thoroughly desires to protect the privacy of its visitors and members in Fxstat's social forex trader network at www.fxstat.com (the "Site"). 
-
-We believe your business is no one else's. Your privacy is important to you and to us. So we'll protect the information you share with us. To protect your privacy, FXSTAT follows different principles in accordance with worldwide practices for customer privacy and data protection. 
-
-  * We won't sell or give away, mail address, phone number, email address or any other information to anyone.
-  * We'll use state-of-the-art security measures to protect your information from unauthorized users.
-
-
-
-#### Protecting private information
-
-The fxstat "Privacy Policy" is intended to bring into your notice our safe and secure information management system. We openly share all our information management practices with our members. We specifically mention the types of information that we gather. The purpose of gathering the information and way we protect it are also shared with the customers. You use this site after accepting the Fxstat Privacy Policy and the Terms of Use. Fxstat's terms and conditions are hereby incorporated by reference. <http://www.fxstat.com/terms>. Fxstat's employees and third-party service providers are not given any kind of access to customers' private data, except as mentioned in this Privacy Policy, the website sercive agreement/Terms of Use, or as otherwise disclosed to you. 
-
-#### How we gather and use the information
-
-We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. Generally, this information is requested when you create a Registration ID on the site or when you download free software, enter a contest, order email newsletters or join a limited-access premium site. We use your Personal Information for four primary purposes: 
-
-  * To make the site easier for you to use by not having to enter information more than once.
-  * To help you quickly find software, services or information.
-  * To help us create content most relevant to you.
-  * To alert you to product upgrades, special offers, updated information and other new services from FXSTAT.
-
-
-
-#### Cookies and Aggregate Data
-
-We may gather aggregate data known as "web log information", which may include information about the web browser, and operating system you use, or the web pages you visit, etc. We may also use cookies when you visit our Site. When you visit Fxstat, our web server will automatically gather and recognize some "non-personal information", such as the date and time of your visit, the web pages you visited, the referrer website you came from, the type of internet browser and operating system you are using, and your internet service provider's domain name and address. Our web server or cookies do not gather any personal information such as your name or email address. We do not attempt to identify any of our users. The Aggregate and Statistical Data we collect just helps us design and improve our Site, identify useful and popular features, and fulfill other managerial purposes. Cookies are discussed in detail below. 
-
-### WHAT WE DO WITH THE INFORMATION YOU SHARE
-
-When you join us, you provide us with your contact information, including name and email address. We use this information to send you updates about your system, questionnaires to measure your satisfaction with our service and announcements about new and exciting services that we offer. 
-
-FXSTAT will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on FXSTAT or the site; (b) protect and defend the rights or property of FXSTAT and its family of Websites, and, (c) act in urgent circumstances to protect the personal safety of users of FXSTAT, its Websites, or the public. 
-
-#### Information regarding Transactions and holdings amounts
-
-Personally Identifiable Information that we collect may also be associated with the forex transactions you execute. Information regarding holding amounts and transactions is used for various calculation and normalization purposes. We do not share this with other members of Fxstat unless you chose to have a public account. 
-
-#### Levels of information sharing
-
-You can control access to your personal information by choosing levels of information sharing. You are given the opportunity to decide how much information you want to share with members or other parties. 
-
-  1. Publicly available information — this is the lowest level. Anyone visiting Fxstat can access the information tagged at this level. 
-  2. Registered community — this information is not publicly available and only the members of Fxstat community can access the Information that is tagged at this level.
-  3. My Trade Network — Information tagged at this level can only be accessed by members of your trading team, whom you have explicitly authorized to have access to such information.
-  4. Private information — Information tagged at this level can only be seen by you.
+                                         PRIVACY POLICY
+This website is operated by Fx Stat Ltd ("FxStat, we, us, or our"). It is our policy to respect the
+confidentiality of information and the privacy of individuals. We are also bound by principles
+contained in the Data Protection Act 1998 and the EU e-Privacy Directive.
+This Privacy Policy Statement outlines how we manage and protect the personal information
+you give us and hold about our customers ("The Policy"). By visiting our website and using our
+services your agreement to this Policy is implied.
+This Policy will be reviewed from time to time to take account of changes to our operations or
+practices and, further, to make sure it remains appropriate to any changes in law, technology
+and the business environment. You should check this page from time to time to ensure that you
+are happy with any changes. Any information held will be governed by our most current Policy.
+INFORMATION WE MAY COLLECT FROM YOU
+We may collect and process the following data about you:
+• Information that you provide by filling in forms on our website www.fxstat.com ("Website"). This
+includes information provided at the time of registering to use our Website, subscribing to our
+service, posting material or requesting further services. We may also ask you for information
+when you report a problem with our Website.
+• If you contact us, we may keep a record of that correspondence.
+• We may also ask you to complete surveys that we use for research purposes, although you do
+not have to respond to them.
+• Details of transactions you carry out through our Website(s) and of the fulfilment of your
+orders.
+• Your historic trading track-record, and information about any trades from the point you start
+reporting them to us.
+• Details of your visits to our Website including, but not limited to, traffic data, location data,
+weblogs and other communication data, whether this is required for our own billing purposes or
+otherwise and the resources that you access.
+• Your contributions to us and/or to the Website.
 
 
+IP ADDRESSES
+We may collect information about your computer, including where available your IP address,
+operating system and browser type, for system administration and to report aggregate
+information to our advertisers. This is statistical data about our users' browsing actions and
+patterns, and does not identify any individual.
+HOW WE USE COOKIES
+Our Website uses cookies to distinguish you from other users of our website. This helps us to
+provide you with a good experience when you browse our website and also allows us to improve
+our Website. For further information, please see our Cookie Policy.
+WHERE WE STORE YOUR PERSONAL DATA
+All information you provide to us is stored on secure servers within the European Economic
+Area, or with providers that comply with the US-EU Safe Harbor Framework, as set forth by the
+U.S. Department of Commerce. Any payment transactions will be encrypted using SSL
+technology. Where we have given you (or where you have chosen) a password, which enables
+you to access certain parts of our Website, you are responsible for keeping this password
+confidential. We ask you not to share a password with anyone.
+Unfortunately, the transmission of information via the Internet is not completely secure. Although
+we will do our best to protect your personal data, we cannot guarantee the security of your data
+transmitted to our Website; any transmission is at your own risk. Once we have received your
+information, we will use strict procedures and security features to try to prevent unauthorised
+access.
+USES MADE OF THE INFORMATION
+We use information held about you in the following ways:
+• To ensure that content from our Website is presented in the most effective manner for you and
+for your computer.
+• To provide you with information, products or services that you request from us, or which we
+feel may interest you, where you have consented to be contacted for such purposes.
+• To carry out our obligations arising from any contracts entered into between you and us.
+• To allow you to participate in interactive features of our service, when you choose to do so.
+• To notify you about changes to our service.
 
-### ACCESS
 
-We will provide you with the means to ensure that your personal information is correct and current. You may review and update this information at any time at the Visitor Center. There, you can: 
+We may also use your data, or permit selected third parties to use your data, to provide you with
+information about goods and services which may be of interest to you and we or they may
+contact you about these by email.
+If you are an existing customer, we will only contact you by e-mail with information about our
+services similar to those which were the subject of a previous sale to you.
+If you do not want us to use your data in this way, or to pass your details on to third parties for
+marketing purposes, please tick the relevant box situated on the form on which we collect your
+data (the registration form).
+DISCLOSURE OF YOUR INFORMATION
+We may disclose your personal information to any member of our group, which means our
+subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of
+the UK Companies Act 2006.
+We may disclose your personal information to third parties:
+• In the event that we sell or buy any business or assets, in which case we may disclose your
+personal data to the prospective seller or buyer of such business or assets.
+• If FxStat or substantially all of its assets are acquired by a third party, in which case personal
+data held by it about its customers will be one of the transferred assets.
+• If we are under a duty to disclose or share your personal data in order to comply with any legal
+obligation, or in order to enforce or apply our Terms & Conditions and other agreements; or to
+protect the rights, property, or safety of FxStat, our customers, or others. This includes
+exchanging information with other companies and organisations for the purposes of fraud
+protection and credit risk reduction.
+YOUR RIGHTS
+You have the right to ask us not to process your personal data for marketing purposes. We will
+usually inform you (before collecting your data) if we intend to use your data for such purposes
+or if we intend to disclose your information to any third party for such purposes. You can
+exercise your right to prevent such processing by checking certain boxes on the forms we use to
+collect your data. You can also exercise the right at any time by contacting us at
+info@fxstat.com.
+Our Website may, from time to time, contain links to and from the websites of our partner
+networks, advertisers and affiliates. If you follow a link to any of these websites, please note that
 
-  * View and edit personal information you have already given us.
-  * Tell us whether you want us to send you marketing information, or whether you want third parties to send you their offers by postal mail.
-  * Sign up for electronic newsletters about our services and products.
-  * Register. Once you register, you will have access to the setting area where you can create th above settings.
-  * Wherever you go on www.FXSTAT.com, your information such as name email etc stays with you unless you share it with others via Widgets, Email, Profile, Answer and Ask Section.
 
-
-
-We do not store credit card details nor do we share customer details with any 3rd parties 
-
-#### Non-Personally Identifiable Data
-
-Information that is not personally identifiable would be used without any obligation to you. For instance non-personally identifiable information could be your answers to online surveys, comments, recommendations, ideas and suggestions are considered as non-confidential, and we can freely disclose and use such information for any purpose and through any means. 
-
-#### Use of Cookies
-
-We may issue cookies and store them on your computer or other technology in order to provide you quality service, improve your experience of visiting our Site, and to retain information regarding certain user attributes. A cookie can be defined as "a small amount of data that is issued to your web browser from a web server and stored on your computer's hard drive". 
-
-#### Why we use "cookie" technology?
-
-We use cookies to collect general information about our users. The information gathered through cookies is non-personally identifiable, and is used in statistical and market research programs. you are given the option to save cookies in order to set up a link between your personal computer and Fxstat. It helps us to customize the site for you and present the information of your interest to you. Cookies also help us authenticate you. The link between your computer and our site enables you to log in without providing your password again and again. You are not asked for the same routine information every time you visit our site. You can modify your browser preferences regarding cookies. You can accept or reject all cookies, or can opt for a notification when a cookie is set. Go to your browser's "Help" section to learn more about cookies. 
-
-### NOTICE TO PARENTS
-
-Parents or guardians: we want to help you guard your children's privacy. We encourage you to talk to your children about safe and responsible use of their Personal Information while using the Internet. 
-
-#### Links to Other Sites
-
-Fxstat may at times offer links to other websites from websites within the Fxstat domain. We do not control these external websites and have no control over their content, thus we cannot be held accountable for any of their actions or incidents where they may collect any information. You may open any of these sites either through clicking on a banner advertisement provided on our sites as part of our co-branding activities, or simply by clicking a link on Fxstat web pages. You should know that this Privacy Policy only applies to use of Fxstat and it does not cover your use of these external sites. If you give any personal information to any of such sites, they will process or collect your personal identifiable information according to their own rules and regulations. Every site treats privacy, security, data collection, and distribution in a different way. This is, however, recommended that you should review their privacy policies before using such linked sites. The linked sites may store their own cookies on your computer or collect data and other personal information. Always be careful while visiting an external site. 
-
-#### Changes to Policy
-
-These policies may, at anytime be revised, updated and posted on our website. Your continued use of this Site shows that you accept and approve of all revisions. You should, therefore, regularly visit this page to review the changes in the privacy policy if there are any. If for some reason you believe FXSTAT has not adhered to these principles, please notify us by email at privacy@fxstat.com, and we will do our best to determine and correct the problem promptly. Be certain the words Privacy Policy are in the Subject line. 
+these websites have their own privacy policies and that we do not accept any responsibility or
+liability for these policies. Please check these policies before you submit any personal data to
+these websites.
+ACCESS TO INFORMATION
+The Act gives you the right to access information held about you. Your right of access can be
+exercised in accordance with the Act. Any access request may be subject to a fee of $15 to
+meet our costs in providing you with details of the information we hold about you.
+CHANGES TO OUR PRIVACY POLICY
+Any changes we may make to our privacy policy in the future will be posted on this page and,
+where appropriate, notified to you by e-mail.
+CONTACT
+Questions, comments and requests regarding this privacy policy are welcomed and should be
+addressed to info@fxstat.com
+Authorised and regulated by the Financial Conduct Authority. FCA Register Number: 537787
