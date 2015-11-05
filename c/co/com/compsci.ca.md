@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compsci.ca privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615071013id_/http%3A//compsci.ca/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compsci.ca privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105040013id_/http%3A//compsci.ca/Privacy.html) for the most accurate reproduction.*
 
 # 
 
