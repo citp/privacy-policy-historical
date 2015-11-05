@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manualsonline.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503064911id_/http%3A//www.manualsonline.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manualsonline.com privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105215752id_/http%3A//www.manualsonline.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | ManualsOnline.com
 
