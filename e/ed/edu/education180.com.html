@@ -1,41 +1,110 @@
-<!--The following is the downloaded HTML source of the education180.com privacy policy that was archived on 2013-08-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130811053119id_/http%3A//www.education180.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the education180.com privacy policy that was archived on 2015-11-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151105134612id_/http%3A//www.education180.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" lang="en" xml:lang="en"><head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>
-	Privacy Policy - Education180 : Colleges, Universities &amp; Degrees 
-	</title>
+<!DOCTYPE html><html class=" js flexbox flexboxlegacy canvas geolocation websqldatabase websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent sessionstorage applicationcache" lang="en" style=""><!--<![endif]--><head>
+	<meta charset="utf-8">
 
+	<title>Privacy Policy | Education180</title>
+	
+    <!-- for Mobile Devices... https://developer.mozilla.org/en/Mobile/Viewport_meta_tag/ -->
+	<meta name="viewport" content="width=device-width; initial-scale=1.0"><link rel="stylesheet" href="/wp-content/themes/EDU180Theme/css/blueprint/screen.css">
+   <!--[if lt IE 8]><link rel="stylesheet" href="/wp-content/themes/EDU180Theme/css/blueprint/ie.css"><![endif]--> 
    
-  <!--new_header.tpl.php-->
+   <link rel="stylesheet" href="/wp-content/themes/EDU180Theme/style.css">
+   	
+	<link rel="alternate" type="application/rss+xml" title="Education180 Feed" href="http://www.education180.com/feed/">
+
+	<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WCJLK7"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script src="/wp-content/themes/EDU180Theme/js/libs/modernizr.custom.2.6.2.js"></script>
+	
+<!-- wp_head() -->
+	
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.4.22 - http://yoast.com/wordpress/seo/ -->
+<meta name="description" content="Privacy Policy Education180.com understands that you are concerned about how your information is used and shared. This notice explains our privacy policy a">
+<link rel="canonical" href="http://www.education180.com/privacy-policy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy - Education180">
+<meta property="og:description" content="Privacy Policy Education180.com understands that you are concerned about how your information is used and shared. This notice explains our privacy policy a">
+<meta property="og:url" content="http://www.education180.com/privacy-policy/">
+<meta property="og:site_name" content="Education180">
+<meta property="article:published_time" content="2013-08-01T17:24:58+00:00">
+<meta property="article:modified_time" content="2014-03-12T16:29:08+00:00">
+<!-- / Yoast WordPress SEO plugin. -->
+
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.9.1.min.js?ver=1.9.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var scriptData = {"ajaxurl":"http:\/\/www.education180.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.education180.com/plugins/EDU180Plugin/js/schoolFinderWidget.js?ver=3.7.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var contextFormData = {"concentration":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.education180.com/plugins/EDU180Plugin/js/contextConcentrationHelper.js?ver=3.7.1"></script>
+<script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.0/jquery.validate.min.js?ver=3.7.1"></script>
+<meta name="robots" content="noindex,nofollow">
+<link rel="canonical" href="http://www.education180.com/privacy-policy/">
+<!-- /wp_head() -->
+
+	<script src="/wp-content/themes/EDU180Theme/js/scripts.js"></script>
+
+  <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+<script>
+  $(document).ready(function(){
+
+  	$( ".accordion" ).accordion({heightStyle:'content'});
+  	$(window).scroll(function(event) {
+	windowHeight = $(this).height();
+	scrollPos = $(this).scrollTop();
+	currBottomPos = windowHeight + scrollPos;
+	socialOrgPos = $('#content').outerHeight();
+	if(currBottomPos > socialOrgPos){
+		$('#sticker').css('position','relative');
+	}else{
+		$('#sticker').css({position:'fixed',bottom:'0'})
+		}
+
+	});
+	$('.college_dir_nav li a[href="#dir_A"], .subnav .dir_subnav[href^="#dir_"] ,.search_page_subnav a:first-child').toggleClass('curr_ul');
+
+	$('.college_dir_nav li a, .dir_subnav, .dir_subnav, .search_block_nav').on('click', function(e){
+		e.preventDefault();
+		$('.az_dir ul.current, .college_cont.current, .archive .current').toggleClass('current');
+		$('.college_dir_nav li a.curr_ul, .dir_subnav.curr_ul, .search_block_nav.curr_ul').toggleClass('curr_ul');
+		$(this).toggleClass('curr_ul');
+		var list = $(this).attr('href');
+		console.log(typeof(list));
+		$(list).toggleClass('current');
+		var parent = $(list).parent();
+		$(parent).toggleClass('current');
+    if($(this).hasClass('dir_subnav')) {
+      var chr = $(this).attr('href').match(/\d{1,2}_([A-Z])/)[1];
+      $('ul.college_dir_nav a[href$="dir_'+chr+'"]').toggleClass('curr_ul');
+    }
+
+	});
+  });
+</script>
 
 
-
-
-         
+	
     
-   <link href="/yaml/core/slim_base.css" rel="stylesheet" type="text/css">
-<link href="/yaml/screen/forms.css" rel="stylesheet" type="text/css">
-<link href="/yaml/screen/content_default.css" rel="stylesheet" type="text/css">
-<link href="/yaml/navigation/nav_shinybuttons.css" rel="stylesheet" type="text/css">
-	<link rel="stylesheet" href="/sites/all/themes/zen/tabs.css" type="text/css"> 
+
+    
+  <link rel="shortcut icon" href="/assets/favicon.ico"> <!-- 16 x 16 -->
+<link rel="apple-touch-icon" href="/assets/apple-touch-icon-iphone.png"><!-- 57 x 57 -->
+<link rel="apple-touch-icon" sizes="72x72" href="/assets/apple-touch-icon-ipad.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/assets/apple-touch-icon-iphone4.png">
 
 
 
-    <link rel="stylesheet" href="/sites/all/themes/zen/zen_edu2010/blueprint/screen.css" type="text/css" media="screen, projection">
-    <link rel="stylesheet" href="/sites/all/themes/zen/zen_edu2010/blueprint/print.css" type="text/css" media="print">
-	<link rel="stylesheet" href="/jump/dev/drupal/temp_styles.css" type="text/css" media="screen, projection">  
-    <link rel="SHORTCUT ICON" href="/sites/all/themes/zen/zen_edu2010/favicon.ico">
-    
-   <script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
-    <script type="text/javascript" src="/sites/all/themes/zen/zen_edu2010/js/jquery.cycle.all.latest.js"></script>
-    <script type="text/javascript" src="/jump/cms/cmsfiles/jquery.expander.js"></script>
-    
-    
-              
-    
-    <script src="/sites/all/themes/zen/zen_edu2010/loopedslider.js" type="text/javascript" charset="utf-8"></script>
+<!-- head includes directly from education180 drupal site -->
+    <script type="text/javascript" src="http://www.education180.com/sites/all/themes/zen/zen_edu2010/js/jquery.cycle.all.latest.js"></script>
+    <script type="text/javascript" src="http://www.education180.com/jump/cms/cmsfiles/jquery.expander.js"></script>
+    <script src="http://www.education180.com/sites/all/themes/zen/zen_edu2010/loopedslider.js" type="text/javascript" charset="utf-8"></script>
     
 <script type="text/javascript">
 
@@ -98,156 +167,85 @@ function onAosChange(form) {
 	}
 }
 
-</script>
-
-
-<script>
-$(document).ready(function() {
-  var opts = {collapseTimer: 4000};
-
-  $.each(['beforeExpand', 'afterExpand', 'onCollapse'], function(i, callback) {
-    opts[callback] = function(byUser) {
-      var by, msg = '<div class="success">' + callback;
-
-      if (callback == 'onCollapse') {
-        msg += ' (' + (byUser ? 'user' : 'timer') + ')';
-      }
-      msg += '</div>';
-
-      $(this).parent().parent().append(msg)
-    }
-  });
-
-
-
-  $('div.expander').expander({
-    slicePoint: 350,
-    widow: 2,
-    expandSpeed: 0,
-    userCollapseText: '[^]'
-  });
-
-
-});
-</script>
-
-<style>
-.containerz {
-    cursor: pointer;
-    float: left;
-    height: 295px;
-    overflow: hidden;
-    position: relative;
-    width: 590px;
-}
-.slidez { position:absolute; top:84px; left:0; }
-.slidez div { position:absolute; top:0; width:600px; display:none; }
-
-.slidez { position:absolute; top:84px; left:0; }
-.slidez div { position:absolute; top:0; width:600px; display:none; }
-
-#caja, #caja2 {
-display: none;
-}
-#mostrar, #mostrar2 {
-display:block;
-}
-
-</style>
-
-
-
- 
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-253874-7']);
-  _gaq.push(['_setDomainName', 'education180.com']);
-  _gaq.push(['_setAllowHash', 'false']);
-  _gaq.push(['_trackPageview']);
-  _gaq.push(['_trackPageLoadTime']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-
-<!-- Standard EDU BFG Pixel -->
-
-<script type="text/javascript">
-var _trc_c = 'c,campaign';
-var _trc_s = 's,source';
-var _trc_trhost = "bfg01.com";
-var _trc_js = (("https:" == document.location.protocol) ?
-"https://" : "http://") + _trc_trhost + '/apps/tr_crt/js/trcrt_cn.js';
-document.write("<sc"+"ript type='text/javascript' src='" +
-_trc_js + "'></"+"script>");
-</script><script type="text/javascript" src="https://bfg01.com/apps/tr_crt/js/trcrt_cn.js"></script>
-
-
- 
-</head>
-
-
-<body class="not-front not-logged-in node-type-about no-sidebars page-privacy-policy section-privacy-policy">
-
-
-<a name="top"></a>
-
+</script>    
     
-<div id="header">
-	<div class="container">
-		<div id="logo" class="span-7">
-        	<a href="/"><img src="/sites/all/themes/zen/zen_edu2010/images/edu180_logo.png"></a>
-        </div>
-        
-		<div class="span-17 last">
-			<div id="searchbox" class="prepend-9 span-8 last">
-	    	<form action="/privacy-policy" accept-charset="UTF-8" method="post" id="search-theme-form">
-<div><!-- search-theme-form.tpl.php -->
+<!-- end head includes directly from education180 drupal site -->
+<script language="JavaScript" type="text/javascript">
+var cta_article = "aos=&ss=&cp=&th=&rm=&css=edu180bold&version=bcstracktest";
 
-<input type="text" maxlength="128" name="search_theme_form_keys" id="edit-search_theme_form_keys" size="25" value="" title="Enter the terms you wish to search for." class="form-text"> &nbsp;&nbsp;
+function getsupport ( link )
+{
+  document.supportform.supporttype.value = link ;
+  document.supportform.submit() ;
+}
+</script>
+</head><body id="notIE" class="page page-id-8628 page-template page-template-page-subpages-php privacy-policy"><form name="supportform" method="post" action="/sites/all/themes/zen/zen_edu2010/cta_article.php">
 
-<input type="submit" name="op" value="Search">
+<input type="hidden" name="supporttype" value="aos=&amp;ss=&amp;cp=&amp;th=&amp;rm=&amp;css=edu180bold&amp;version=bcstracktest">
 
-<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form">
+</form>
 
-<input type="hidden" name="form_token" id="a-unique-id" value="f0b6a46a47e77ece3ed15b6abc0b4e38">
-</div></form>
-			</div>
-		</div>
-        
-		<br>
 
+
+
+ 
+<!--[if !IE]><!--><!--<![endif]-->
+<!--[if gt IE 8]><!-->  <!--<![endif]--> 
+<!--[if IE 8]><body id="ie8" class="page page-id-8628 page-template page-template-page-subpages-php privacy-policy"><![endif]-->
+<!--[if IE 7]><body id="ie7" class="page page-id-8628 page-template page-template-page-subpages-php privacy-policy"><![endif]-->
+<!--[if IE 6]><body id="ie6" class="page page-id-8628 page-template page-template-page-subpages-php privacy-policy"><![endif]-->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 	
-        <div id="hnav" class="prepend-2 span-15b last">
-            <ul>
-                <li><a href="/articles/all">Articles</a></li>
-                <li><a href="/programs/online-degrees">Online Degrees</a></li>
-                <li><a href="/programs/campus-degrees">Campus Degrees</a></li>
-                <li><a href="/certificates/online-and-campus">Certificates</a></li>
-                <li><a href="/college-directory">College Directory</a></li>
-                <li class="litem"><a href="/careers">Career Center</a></li>
-            </ul>
-        </div>
-	</div> 
- </div>
-   <!--page-node.tpl.php-->
 
-      <!--node-about.tpl.php-->
-<div id="content">
-
-<div class="container">
-<a name="top"></a>
-<div id="listing" class="span-15">
-<div class="breadcrumb"><a href="/">Home</a>&gt;<a href="/subjects">Privacy Policy</a></div>  
+		<header role="banner" id="header">
+			
+            <div class="container">
+            	<a id="logo" href="http://www.education180.com/"></a>
+            	<div class="searchbox cf">
+            	<aside id="search-2" class="widget widget_search"><form role="search" method="get" id="searchform" action="http://www.education180.com/">
+<div class="cf">
+<input type="text" value="Search..." onclick="if(this.value=='Search...'){this.value=''}" onblur="if(this.value==''){this.value='Search...'}" name="s" id="s">
+	<input type="submit" id="searchsubmit" value="Search" class="button">
+</div>
+</form></aside>				</div>
 
 
-<div id="article">
- <h1>Privacy Policy</h1>
+				<nav id="nav-main" role="navigation">
+					<ul id="menu-primary-navigation" class="cf menu"><li id="menu-item-7317" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7317"><a href="/articles/">Articles</a></li>
+<li id="menu-item-7322" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7322"><a href="/career-center/">Career Center</a></li>
+<li id="menu-item-7318" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7318"><a href="/format/online-degrees">Online Degrees</a></li>
+<li id="menu-item-7319" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7319"><a href="/format/campus-degrees">Campus Degrees</a></li>
+<li id="menu-item-7320" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7320"><a href="/level/certificate/">Certificates</a></li>
+<li id="menu-item-7321" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7321"><a href="/college-directory/">College Directory</a></li>
+</ul>				</nav>
+
+
+                				
+			</div>
+		</header>
+
+
+
+	<div id="content">	
+		<div class="container ">
+
+
+			<section id="main" role="main">
+				
+	
+					<!-- Begin Page or Post Content -->
+					<article>
+	
+    
+							    <div class="entry-content">
+	 <h1>Privacy Policy</h1>
 <p>
 Education180.com understands that you are concerned about how your information is used and shared. This notice explains our privacy policy and how your information may or may not be used by our site. 
 </p>
@@ -261,8 +259,9 @@ Information we gather on our site helps us enhance the experience that future vi
 <ul>
 	<li>
 	<h4>Information You Give Us</h4>
-	<p>
-	On our site, you will find a variety of forms. Each form pertains to a particular school or educational institution. Each form may collect information such as Name, Phone number, email address, postal address, gender, and age. Not all forms require all the information. You can choose not to provide the information, but you may not be able to complete the process of requesting information from that school. We use the information you provide to inform the schools of your interest and the best way of getting in contact with you. You may be contacted via phone, sms, postal mail or email by a representative of the school. You may request information from more than one school, which means you may be contacted by each school. We may sell your information to other partner companies if your request for information is rejected by a school. In this case a partner may contact you with other educational offers. If you opt into the newsletter, you may receive other info from our site or our partners. This is not a required question to complete the form. 
+	<p>We collect information from you when you use our site, navigate around our site, register on our site, subscribe to our newsletter, respond to survey, or fill out a form.</p>
+
+	<p>On our site, you will find a variety of forms. Each form pertains to a particular school or educational institution. Each form may collect information such as Name, Phone number, email address, postal address, gender, and age. Not all forms require all the information. You can choose not to provide the information, but you may not be able to complete the process of requesting information from that school. We use the information you provide to inform the schools of your interest and the best way of getting in contact with you. You may be contacted via phone, sms, postal mail or email by a representative of the school. You may request information from more than one school, which means you may be contacted by each school. We may sell your information to other partner companies if your request for information is rejected by a school. In this case a partner may contact you with other educational offers. If you opt into the newsletter, you may receive other info from our site or our partners. This is not a required question to complete the form. 
 	</p>
 	<p>
 	We also want you to know that we do at times send the information to third party validation services to ensure all of the information is accurate and true. This helps us ensure that the schools which you are requesting information from have the most accurate way of getting in contact with you. 
@@ -271,7 +270,7 @@ Information we gather on our site helps us enhance the experience that future vi
 	<li>
 	<h4>Automatic Information</h4>
 	<p>
-	We receive and store certain types of information when you interact with our site. Our site uses "cookies" like many other sites. This helps us determine what browser you are using and how to best present the information to you. Some automatic information examples are: browser type, operating system, IP address, and date and time of information request. You can disable cookies in your web browser, however this may affect the experience you have on our site, since you may not be able to see all of the features. The cookies we set do have an expiration date and will automatically be disabled after the expiration date. 
+	We receive and store certain types of information when you interact with our site. Our site uses “cookies” like many other sites. This helps us determine what browser you are using and how to best present the information to you. Some automatic information examples are: browser type, operating system, IP address, and date and time of information request. You can disable cookies in your web browser, however this may affect the experience you have on our site, since you may not be able to see all of the features. The cookies we set do have an expiration date and will automatically be disabled after the expiration date. 
 	</p>
 	</li>
 	<li>
@@ -286,6 +285,7 @@ Information we gather on our site helps us enhance the experience that future vi
 Information about our customers is very important to us. We do reserve the right to sell the information to other parties. If you wish to be removed from being contacted by our partners, <span class="spamspan">simply email us at <span class="u">contactus</span>@<span class="d">education180.com</span>.
 </span>
 </p>
+<p>We also use this information to provide targeted advertisements.</p>
 <p>
 Our relationships and contracts with the schools prohibit us from contacting you directly without your expressed consent. 
 </p>
@@ -319,6 +319,19 @@ We are committed to helping you resolve your dilemma as quickly as possible.
 This email box is checked during business working days only. We are committed to resolving any issues in a timely manner. 
 </span>
 </p>
+<h3>Do we use cookies?</h3>
+<p>Yes. Cookies are small files that sites and service providers may transfer to your computer’s hard drive through your Web browser. They enable the site and service provider systems to recognize your browser and capture and remember certain information. You can turn off cookies in your settings at any time.</p>
+
+<p>We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.</p><p>
+
+</p><p>We may use Cookies to provide a targeted advertising experience on and off our site.</p>
+
+<h3>Multi-site Advertising</h3>
+<p>We have online Behavorial Advertising on our Site.</p>
+
+<p>Advertisers and advertising networks use tracking technologies to collect information about users’ computers or mobile devices and their online activities (for example, web pages visited and searches made) as well as general geographic location and use that information to display targeted ads to users. We sometimes allow these ad companies to collect such information when you use our sites and apps to enable them to display targeted ads to you on and off our Site.</p>
+
+<p>Many ad companies are members of the Network Advertising Initiative. NAI members allow users to opt out of being tracked by cookies. To opt out of cookie tracking by NAI members, you may visit <a href="http://www.networkadvertising.org/">http://www.networkadvertising.org/</a> and click on the “Consumer Opt-out” button. Companies may also be members of the Digital Advertising Alliance (“DAA”) and to opt out of cookie tracking by DAA members, you may visit <a href="http://www.aboutads.info/choices/">http://www.aboutads.info/choices/</a>.</p>
 <h3>Conditions of Use</h3>
 <p>
 By using and accessing Education180.com you are agreeing to the Online Privacy Policy set forth. As our business changes and grows, we may change the privacy policy. Any changes will be posted on our site. Please check back often for any updates.
@@ -326,3105 +339,237 @@ By using and accessing Education180.com you are agreeing to the Online Privacy P
 <p>
 Sincerely,
 </p>
-<p>
-&nbsp;
-</p>
 <h3>The Education180.com Team</h3>
-</div>
-
-	</div> 
-
-
-
-
-
-
-	<div id="sidebar" class="span-9a last">
-
-    <!-- lead_form.php -->
-
-		
-
-		<div id="matchschools_form">
-	  <div class="form_bg">
-		<div class="form_container">
-		
-		<h2>Find Schools and Programs</h2>
-
-		<form name="form_lead" action="/FindYourDegree/matchSchools" method="GET">
-		
-		<div id="aos" class="select_list">
-
-			<div class="form_label">What type of career are you interested in pursuing?<span>*</span></div>
-			<select name="aos" onchange="onAosChange(document.form_lead)">
-			
-			<option value="">Select One </option>
-			<option value="business">Business</option>
-			<option value="criminal">Criminal Justice</option>
-			<option value="culinary">Culinary Arts</option>
-
-			<option value="design">Design</option>
-			<option value="education">Education/Teaching</option>
-			<option value="general">General Studies</option>
-			<option value="healthcare">Healthcare</option>
-			<option value="information">Information Technology</option>
-			<option value="legal">Legal</option>
-			<option value="trade">Trade</option>
-			</select>
-		</div>
-		
-		
-		<div id="ageRange" class="select_list">
-			<div class="form_label">What is your age?<span>*</span></div>
-			<select name="ageRange">
-			<option value="">Select One </option>
-
-			<option value="21">21-22</option>
-			<option value="23" selected="">23-24</option> 
-			<option value="25">25-30</option> 
-			<option value="31">31-35</option>
-			<option value="36">36-40</option>
-			<option value="41">41-50</option>
-			<option value="51">51-60</option>
-
-			<option value="61">61+</option>
-			</select>
-		</div>
-		
-		<div id="zip" class="input_text">
-			<div class="form_label">Zip Code:<span>*</span></div>
-			<input type="text" size="10" name="postalCode" value="">
-		</div>      
-
-					<!-- pick up s c k from the $_COOKIE["urlVars"] -->				
-                  <!-- pick up s c k from $_COOKIE -->				
-    <input name="s" type="hidden" value="ORG">
-    <input name="c" type="hidden" value="optional">
-    <input name="k" type="hidden" value="">
-
-
-    <input name="ss" type="hidden" value="">
-    <input name="cp" type="hidden" value="">
-    <input name="th" type="hidden" value="">
-
-                        <!-- pick up tp1 tp2 tp3 rm spp form the $_COOKIE["urlVars"] -->
-
-    <input name="tp1" type="hidden" value="">
-    <input name="tp2" type="hidden" value="">
-    <input name="tp3" type="hidden" value="">				
-    <input name="rm" type="hidden" value="">				
-    <input name="spp" type="hidden" value="">
-    <input name="css" type="hidden" value="edu180bold">		
-    <input name="version" type="hidden" value="bcstracktest">
-		
-		<div id="search_find_schools">
-			<input name="search" type="submit" value="Find Schools">
-		</div>
-		
-	</form>
-	
-	  </div>
-	</div>
-
-		<div id="protectbadge">
-			<span style="float:left; padding: 0px 15px 0px 5px;"><img src="/sites/all/themes/zen/zen_edu2010/images/protshield.png"></span>
-			<p>Education180 Values Your Personal Information<br><a href="/privacy-policy">Learn More - Read Privacy Policy</a></p>
-		</div>
-</div>
-	</div>
- </div> 
-</div>   
-   
-<!--footer.tpl.php-->
-<style type="text/css">
-<!-- temp_styles.text -->
-/* 
-gray #3d3d3d;
-darkblue #0c3447;
-orange #DC5F17;
-*/
-
-#article div div img {
-padding-bottom: 25px;
-}
-
-#article h2 {
-    color: #0C3447;
-    line-height: 36px;
-    margin-bottom: 10px;
-    text-decoration: none;
-}
-
-body {
-text-align: left !important;
-}
-
-body#list_directory .breadcrumb, body.section-articles .breadcrumb, body.page-college-directory .breadcrumb,  body#career_center .breadcrumb, body#tiertwo .breadcrumb,  body#mprogram .breadcrumb {
-margin-bottom: 15px;
-}
-
-body#home #splashcontent {
-margin-bottom: 20px;
-}
-
-dl {
-    margin: 0 0 5px;
-}
-
-hr {
-    background: none repeat scroll 0 0 #595959;
-    clear: both;
-    color: #595959;
-    float: none;
-    height: 2px;
-    margin: 1.45em 0;
-    padding: 0;
-    width: 100%;
-}
-
-p {
-    color: #6D6D6D;
-    font-size: 16px;
-    line-height: 26px;
-}
-
-/* footer */
-
-#ft2 {
-    background-color: #02242D;
-    border-top: 8px solid #3D3D3D;
-}
-
-#ft2 .finfo a {
-text-decoration: none;
-}
-
-#ft2 h3 {
-color: #FFF;
-font-weight: light;
-}
-
-.page_margins {
-    background: none repeat scroll 0 0 transparent;
-    margin: 0 auto;
-    max-width: 90em;
-    min-width: 740px;
-    padding: 0;
-    width: auto;
-}
-
-.page {
-    background: none repeat scroll 0 0 transparent;
-    border: 0 none;
-    overflow: hidden;
-    padding: 25px 60px 12px;
-}
-
-#threecol .block {
-margin-bottom: 25px;
-}
-
-#threecol ul {
-padding: 0px 0px 0px 0px;
-margin: 0px 0px 0px 0px;
-display: inline-block;
-}
-
-#threecol ul li {
-    float: left;
-    font-size: 11px;
-    line-height: 18px;
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    width: 50%;
-}
-
-#threecol ul li a {
-color: #FFFFFF;
-}
-
-#threecol ul li a:hover {
-color: #DC5F17
-}
-
-#d-footer {
-display: none;
-}
-
-#ft2 .subcolumns {
-border-bottom: 0px;
-}
-
-#ft2 #copyright {
-    border-top: 1px solid #3D3D3D;
-    padding-top: 45px;
-}
-
-#ft2 #copyright p {
-    color: #FFFFFF;
-    float: right;
-    font-size: 11px;
-    margin-bottom: 5px;
-    margin-top: -30px;
-}
-
-#ft2 #copyright p a {
-    float: left;
-    margin-right: 10px;
-}
-
-#ft2 #copyright p a img {
-margin-left: 15px;
-}
-
-#ft2 #copyright a {
-    color: #3D8FA2;
-    font-size: 11px;
-    margin-top: -10px;
-}
-
-#ft2 #disclaimer {
-position: relative;
-}
-
-#ft2 #disclaimer p {
-    border-right: 1px solid #3D3D3D;
-    color: #9D9D9D;
-    font-size: 11px;
-    line-height: 15px;
-    padding: 5px 0 15px 0;
-    position: absolute;
-    top: -55px;
-    width: 450px;
-    height: 10px;
-}
-
-.right {
-float: right;
-}
-
-.left {
-float: left;
-}
-
-.right span {
-    display: inline-block;
-    margin-left: 15px;
-    padding-top: 25px;
-}
-
-.cppic img {
-    display: inline-block;
-    float: left;
-    margin: 0 10px 0 0;
-}
-
-.cptext, .cptext p {
-color: #fff;
-}
-
-.cptext h3 {
-font-size: 12px;
-}
-
-.cptext p {
-    font-size: 12px;
-    line-height: 21px;
-    overflow: hidden;
-}
-
-
-/* End footer */
-
-
-body {
-font-family: arial, helvetica, lucida grand, sans serif;
-font-size: 12px;
-color: #3d3d3d;
-font-weight: 100;
-}
-
-
-.span-8a {
-    float: left;
-    margin-left: 0;
-    margin-top: 15px;
-    padding-left: 25px;
-    width: 335px;
-}
-
-.container2 {
-    margin: 0 auto;
-    width: 958px;
-}
-
-.container3 {
-    margin: 0 auto;
-    width: 955px;
-}
-
-.breadcrumb {
-    display: inline-block;
-    margin-top: 10px;
-    margin-left: -5px;
-    margin-bottom: 25px;
-}
-
-.breadcrumb a {
-    color: #7F7F7F;
-    margin: 0 5px;
-}
-
-.breadcrumb a:hover {
-color: #DC5F17;
-}
-
-#header {
-    background: url("/sites/all/themes/zen/zen_edu2010/images/header_bg.jpg") no-repeat scroll 0 0 #02242D;
-    height: 122px;
-    padding: 0 24px;
-}
-
-img#headerimg {
-padding-bottom: 25px;
-}
-
-h1, h2, h3, h4, h5, h6 {
-font-family: georgia, times new roman, serif;
-color: #3d3d3d;
-}
-
-h1 {
-    font-size: 36px;
-    margin-bottom: 20px;
-}
-
-h2 {
-    font-size: 24px;
-    line-height: 28px;
-    margin-bottom: 10px;
-}
-
-h3 {
-    margin-bottom: 10px;
-    font-size: 17px;
-}
-
-#faidguide #listing h2 {
-border-top: 1px dotted #3d3d3d;
-padding-top: 10px;
-}
-
-a {
-color: #0C3447;
-}
-
-a:hover {
-color: #DC5F17;
-}
-
-#logo {
-padding-top: 25px;
-}
-
-#hnav ul {
-    display: inline-block;
-    margin: 0;
-    padding: 0 0 0 65px;
-}
-
-#hnav ul li {
-    display: block;
-    float: left;
-    margin: 0;
-    padding: 0 27px 0 0;
-}
-
-#hnav ul li a {
-color: white;
-text-decoration: none;
-}
-
-#hnav ul li a:hover  {
-color: #DC5F17;
-padding-bottom: 5px;
-border-bottom: 3px solid #DC5F17;
-}
-
-#hnav ul li.litem {
-    margin-right: 0;
-    padding-right: 0;
-    width: 85px;
-}
-
-#searchbox {
-
-}
-
-#searchbox form div {
-    background: url("/jump/cms/cmsimages/CSS/edu180d/searchbox_bg2.png") no-repeat scroll 0 5px transparent;
-    height: 36px;
-    margin: 15px 0 10px;
-    padding-left: 35px;
-    padding-top: 3px;
-    position: relative;
-    width: 200px;
-}
-
-#searchbox form div input[type="text"], #searchbox form div input[type="password"] {
-    background: none repeat scroll 0 0 transparent;
-    border: 0 none transparent;
-    display: inline-block;
-    margin: 0.55em 0;
-    width: 189px;
-}
-
-/*
-#searchbox form input#edit-search_theme_form_keys {
-    background: url("/jump/cms/cmsimages/CSS/edu180d/searchbox_bg2.png") no-repeat scroll 0 5px transparent;
-    border: 1px solid red;
-    height: 36px;
-}
-*/
-
-#searchbox form input[type="submit"] {
-    background: url("/jump/cms/cmsimages/CSS/edu180d/search_btn.png") no-repeat scroll 0 6px transparent;
-    border: medium none;
-    cursor: pointer;
-    font-size: 0;
-    height: 36px;
-    margin-top: 0;
-    position: absolute;
-    right: -73px;
-    text-indent: -9999em;
-    top: -1px;
-    width: 76px;
-}
-
-input[type="text"], input[type="password"], input.text, input.title, textarea, select {
-/*    display: inline-block; */
-    margin: 0.5em 0;
-}
-
-#searchbox form input[type="submit"]:hover {
-    background-position: 0 -30px;
-}
-
-label#searchlabel {
-    color: white;
-    padding: 0 25px 0 15px;
-}
-
-
-/* Splash */
-
-#splashcontent, #splashform {
-    margin-top: -12px;
-}
-#splashcontent {
-    background: url("/sites/all/themes/zen/zen_edu2010/images/splashshadow.png") no-repeat scroll 0 0 transparent;
-    height: 344px;
-    padding-right: 10px;
-    position: relative;
-}
-
-#copyoverlay {
-    background: url("/sites/all/themes/zen/zen_edu2010/images/splashcopy.png") no-repeat scroll 0 0 transparent;
-    height: 66px;
-    left: -16px;
-    padding: 16px 10px 0 6px;
-    position: absolute;
-    top: 245px;
-    width: 560px;
-}
-
-#copyoverlay a {
-text-decoration: none;
-}
-
-#copyoverlay p {
-    font-size: 12px;
-    line-height: 18px;
-    margin: 0 0 0;
-}
-
-#copyoverlay h1 {
-    color: #DC5F17;
-    font-size: 18px;
-    font-weight: bold;
-    line-height: 1;
-    margin-bottom: 2px;
-    margin-top: 0;
-}
-
-#splashimg {
-    padding: 1px 0 0 2px;
-}
-
-.span-9a { 
-    position: relative;
-    float: left;
-    margin-left: 10px;
-    margin-top: 10px;
-    width: 340px;
-}
-
-.span-15a {
-    width: 590px;
-    float: left;
-/*     margin-right: 5px; */
-}
-
-#splashform {
-    background: url("/sites/all/themes/zen/zen_edu2010/images/form_bg.png") no-repeat scroll 0 0 transparent;
-    color: white;
-    float: left;
-    height: 348px;
-    margin-left: -5px;
-    position: relative;
-    width: 356px;
-}
-
-#splashform label {
-font-size: 14px;
-}
-
-#splashform ul {
-    border-bottom: 1px solid #4D1717;
-    height: 170px;
-    margin: 0;
-    padding: 10px 0;
-    position: relative;
-/*    width: 335px; */
-}
-
-#splashform ul li {
-    background: url("/sites/all/themes/zen/zen_edu2010/images/org_arrow.gif") no-repeat scroll 15px 5px transparent;
-    height: 53px;
-    list-style-type: none;
-    margin: 0;
-    padding: 0 0 10px 30px;
-    display: block;
-}
-
-#splashform ul li select {
-   width: 87%
-}
-
-#qform {
-    margin: 0 6px;
-    padding-top: 90px;
-    width: 340px;
-}
-
-#qformhead {
-    background: url("/sites/all/themes/zen/zen_edu2010/images/form_label.png") no-repeat scroll 0 0 transparent;
-    color: white;
-    font-family: georgia;
-    font-size: 30px;
-    height: 85px;
-    left: -23px;
-    padding: 4px 0 0 25px;
-    position: absolute;
-    top: 10px;
-    width: 391px;
-}
-
-input#qformzip {
-    font-size: 14px;
-    padding: 3px 0 3px 3px;
-    width: 175px;
-}
-
-input#qformbutton {
-    color: #F49100;
-    font-size: 1px;
-}
-
-#qformbutton {
-    background: url("/sites/all/themes/zen/zen_edu2010/images/form_button.gif") repeat scroll 0 0 transparent;
-    border: 0 none;
-    height: 42px;
-    left: 90px;
-    position: absolute;
-    text-indent: -9999em;
-    top: 135px;
-    width: 177px;
-}
-
-#qformbutton:hover {
-background-position: 0 -42px;
-}
-
-#protcopy {
-    background: url("/sites/all/themes/zen/zen_edu2010/images/protectshield.png") no-repeat scroll 45px 0 transparent;
-    font-size: 10px;
-    margin: 10px 0 0;
-    padding: 0 0 15px 85px;
-}
-
-#protcopy a {
-color: white;
-}
-
-
-/* content */
-
-#programhelp {
-background: url(/sites/all/themes/zen/zen_edu2010/images/dash.gif) repeat-x bottom;
-display: inline-block;
-}
-
-ul#switches {
-padding: 0px 0px 0px 0px;
-margin: 0px 0px 0px 0px;
-}
-
-ul#switches li {
-list-style-type: none;
-}
-
-#sidebar {
-font-size: 12px;
-position: relative;
-}
-
-#sidebar .sidebox {
-background-color: white;
-}
-
-.sidebox, #loopedSlider #slides  {
-    border: 1px solid #E3E7E1;
-    padding: 10px 5px 15px 15px;
-}
-
-#sidebar h1 {
-margin-bottom: 15px;
-}
-
-#sidelogobottom {
-    background: url("/sites/all/themes/zen/zen_edu2010/images/schoolshadow.gif") no-repeat scroll center bottom transparent;
-    height: 24px;
-    margin-top: -4px;
-}
-
-#sidelogo {
-position: absolute;
-top: -35px;
-}
-#sidelogoinner {
-    background-color: white;
-    padding: 10px 20px 4px;
-}
-
-#mprogram #matchschools_form {
-    padding-top: 155px;
-}
-
-#matchschools_form {
-    padding-top: 15px;
-}
-
-#matchschools_form form {
-padding-top: 16px;
-}
-
-
-#matchschools_form input, .form-item input {
-padding: 2px;
-}
-
-#matchschools_form .form_label {
-background: url(/sites/all/themes/zen/zen_edu2010/images/arrbullet.png) 0 5px no-repeat;
-padding-left: 20px;
-color: white;
-}
-
-#matchschools_form #search_find_schools {
-    padding: 0 0 0 49px;
-}
-
-#search_find_schools input {
-background: url(/sites/all/themes/zen/zen_edu2010/dlfiles/qformbutton.png) no-repeat transparent;
-border: 0px;
-font-size: 1px;
-color: orange;
-height:42px;
-width: 176px;
-cursor: pointer;
-}
-
-.node-type-school #search_find_schools input, .node-type-program #search_find_schools input {
-background: url(/sites/all/themes/zen/zen_edu2010/dlfiles/qform_getinfobtn.png) no-repeat transparent;
-border: 0px;
-font-size: 1px;
-color: orange;
-height:42px;
-width: 176px;
-cursor: pointer;
-}
-
-#matchschools_form input, #matchschools_form select {
-    margin: 2px 0 10px 20px;
-}
-
-#matchschools_form h2, #articles #matchschools_form h2 {
-    background: url("http://www.education180.com/jump/cms/cmsimages/EDU180/drupal/innerformbg_5.png") repeat-x scroll center bottom transparent;
-    color: white;
-    font-family: arial,helvetica,sans serif;
-    height: 77px;
-    margin-right: 8px;
-}
-
-#matchschools_form .form_label {
-background: url(/sites/all/themes/zen/zen_edu2010/images/arrbullet.png) 0 5px no-repeat;
-padding-left: 20px;
-color: white;
-}
-
-#search_find_schools input {
-background: url(/sites/all/themes/zen/zen_edu2010/images/qformbutton.png) no-repeat transparent;
-border: 0px;
-font-size: 1px;
-color: orange;
-height:42px;
-width: 176px;
-cursor: pointer;
-}
-
-
-
-
-
-
-#matchschoolscontent_form {
-    margin-top: 20px;
-}
-
-#matchschoolscontent_form div {
-padding-bottom: 2px;
-}
-
-#listing #matchschoolscontent_form .form_bg .form_container form input[type="text"] {
-    font-size: 13px;
-    padding: 1px;
-    width: 150px;
-}
-
-#matchschoolscontent_form h2 {
-    background: url("http://www.education180.com/sites/all/themes/zen/zen_edu2010/images/qformline.gif") repeat-x scroll center bottom transparent;
-    color: white;
-    font-family: arial,helvetica,sans serif;
-    margin-bottom: 5px;
-    margin-right: 10px;
-    padding-top: 15px;
-}
-
-#matchschoolscontent_form .form_bg {
-    background-color: #0098C4;
-    padding-left: 15px;
-}
-
-
-#matchschools_form .form_bg {
-    background: url("http://education180.com/sites/all/themes/zen/zen_edu2010/images/qformbg.gif") no-repeat scroll 0 0 transparent;
-    height: 342px;
-    margin-bottom: 15px;
-    padding-left: 15px;
-}
-
-#matchschoolscontent_form .form_label {
-    background: url("/sites/all/themes/zen/zen_edu2010/images/arrbullet.png") no-repeat scroll 0 13px transparent;
-    color: white;
-    padding-bottom: 5px;
-    padding-left: 20px;
-}
-
-#matchschoolscontent_form #search_find_schools {
-    float: right;
-    margin-right: 15px;
-}
-
-#matchschoolscontent_form #search_find_schools input {
-    background: url("http://www.education180.com/sites/all/themes/zen/zen_edu2010/images/contentformbtn.png") no-repeat scroll 0 0 transparent;
-    border: 0 none;
-    color: orange;
-    cursor: pointer;
-    font-size: 1px;
-    height: 33px;
-    width: 76px;
-}
-
-#matchschoolscontent_form span {
-padding: 0px 10px;
-}
-
-
-
-#carticlelinks, #moreschoollinks {
-border-top: 2px solid #69888f;
-border-bottom: 1px solid #69888f;
-display: inline-block;
-padding: 10px 0px 15px;
-margin-bottom: 15px;
-}
-
-#carticlelinks ul {
-padding: 0px 0px 0px 0px;
-font-size: 12px;
-margin: 0px 0px 0px 0px;
-}
-
-#programlista #listing #carticlelinks ul li, #carticlelinks .span-7 ul li  {
-    border-top: 0 none;
-    display: inline;
-    list-style-type: none;
-    margin-bottom: 10px;
-    padding: 0;
-}
-
-#carticlelinks ul li a {
-text-decoration: none;
-display: block;
-}
-
-#carticlelinks h2 {
-margin-bottom: 5px;
-}
-
-.box {
-    background: none repeat scroll 0 0 transparent;
-    margin-bottom: 0;
-    padding: 1.5em 1.5em 1.5em 0;
-    position: relative;
-}
-
-.box h2 {
-    font-size: 36px;
-    position: absolute;
-    top: -35px;
-}
-
-.section-search #listing {
-position: relative;
-}
-
-.section-search #search-form {
-    margin-top: 50px;
-}
-
-.section-search .content .search-results {
-    margin-top: 85px;
-}
-
-.section-search #search-form .form-item {
-    float: left;
-    z-index: 2147483647;
-}
-
-.section-search #search-form label {
-    clear: both;
-    color: #6D6D6D;
-    display: block;
-    font-size: 10px;
-    left: 0;
-    margin: 0;
-    position: relative;
-    text-transform: uppercase;
-    top: 0; 
-}
-
-.section-search #search-form .form-item label{
-padding-top: 20px;
-border-top: 1px solid #E3E7E1;
-}
-
-.section-search #search-form .container-inline {
-    border-bottom: 1px solid #E3E7E1;
-    display: inline-block;
-    padding-bottom: 20px;
-}
-
-.section-search #search-form input#edit-submit {
-    float: left;
-    margin-left: 10px;
-    margin-top: 3px;
-}
-
-.section-search #search-form .form-item input#edit-keys {
-width: 500px;
-}
-
-.form-item {
-position: relative;
-}
-
-.form-item label {
-    color: #3A3A3A;
-    left: 5px;
-    position: absolute;
-    top: 8px;
-}
-
-.cl {
-clear:both;
-}
-
-.sh {
-height:29em;
-}
-
-#ff {
-bottom: 0px;
-width: 100%;
-}
-
-#ft1 {
-    background: none repeat scroll 0 0 transparent;
-    height: 40px;
-}
-
-#ft1a {
-    background-color: white;
-    border-color: lightgray;
-    border-style: solid;
-    border-width: 3px 1px 1px;
-    display: inline-block;
-    width: 587px;
-}
-
-#ft2 {
-    height: auto;
-    margin-top: 25px;
-    padding: 1em 0;
-}
-
-#co {
-    height: auto !important;
-    margin-bottom: -29em;
-    min-height: 100%;
-}
-
-#backtop {
-    border-right: 1px solid lightgray;
-    float: left;
-    height: 100%;
-    margin-right: 10px;
-    padding: 12px 5px;
-    width: 75px;
-}
-
-#backtop a {
-    background: url("/sites/all/themes/zen/zen_edu2010/dlfiles/backtop.gif") no-repeat scroll 0 2px transparent;
-    font-size: 8px;
-    padding-left: 15px;
-    text-decoration: none;
-    text-transform: uppercase;
-}
-
-#foottitle {
-    float: left;
-    font-family: Georgia,serif;
-    font-size: 13px;
-    padding-top: 2px;
-    width: 305px;
-}
-
-#ftag {
-    font-family: Arial,helvetica,sans-serif;
-    font-size: 8px;
-    line-height: 6px;
-    margin-top: 5px;
-    text-transform: uppercase;
-}
-
-#flikes span {
-    display: inline-block;
-    float: left;
-    margin: 0 auto;
-    padding: 6px 0 6px 5px;
-    width: 80px;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#protectbadge {
-    background-image: url("http://education180.com//sites/all/themes/zen/zen_edu2010/images/protbg.gif");
-    background-repeat: no-repeat;
-    color: #3D3D3D;
-    font-size: 10px;
-    padding: 14px 0 2px 20px;
-    margin-bottom: 10px;
-}
-
-#protectbadge a {
-color: #DC5F17;
-}
-
-#protectbadge p {
-    font-size: 11px;
-    line-height: 15px;
-}
-
-#articles #featuredschools img {
-padding-bottom: 2px;
-}
-
-#featuredschools .field-logo-fid {
-    display: inline;
-    width: 150px;
-}
-
-#programsnippet {
-background-color: #eff1ee;
-}
-
-#programsnippet p {
-font-size: 12px;
-line-height: 21px;
-margin-bottom: 0px;
-}
-
-#programsnippet p strong {
-text-transform: uppercase;
-}
-
-#programarticlelist ul li .artdate {
-font-size: 14px;
-font-family: arial, helvetica, sans-serif;
-font-weight: bold;
-text-transform: uppercase;
-}
-
-#programarticlelist ul li {
-display: inline-block;
-}
-
-#careerart, #popularrart {
-margin-bottom: 20px;
-}
-
-#sidebar ul, #careerart ul, #popularrart ul, #concenlist ul {
-padding: 0px 0px 0px 0px;
-margin: 0px 0px 0px 0px;
-}
-
-#sidebar ul li, #careerart ul li, #popularrart ul li, #concenlist ul li, #plistinga #sidebar .item-list ul li, #plistinga #careerart .item-list ul li, #plistinga #popularrart .item-list ul li, #plistinga #concenlist .item-list ul li, #articlelist .item-list ul li  {
-    border-bottom: 1px solid #A8B9C5;
-    list-style-type: none;
-    margin-right: 10px;
-    padding: 7px 0 3px;
-    width: 100%;
-}
-
-#plisting span.inactive {
-border: none;
-}
-
-#sidebar .view-State-directory ul {
-    display: inline-block;
-    margin-bottom: 15px;
-}
-
-#sidebar .view-State-directory ul li {
-    border-bottom: 1px solid #A8B9C5;
-    list-style-type: none;
-    margin-right: 10px;
-    padding: 7px 0 3px;
-    width: 46%;
-    float: left;
-}
-
-#sidebar ul li a, #careerart ul li a, #popularrart ul li a, #concenlist ul li a, 
-#plistinga #sidebar ul li a, #plistinga #careerart ul li a, #plistinga #popularrart ul li a, #plistinga #concenlist ul li a  {
-    text-decoration: none;
-}
-
-#popularrart ul li, #careerart ul li {
-display: inline-block;
-}
-
-#sidebar ul li a {
-color: #0c3447;
-text-decoration: none;
-}
-
-#sidebar ul li a:hover {
-color: #DC5F17;
-}
-
-#schlist {
-    background: url("/sites/all/themes/zen/zen_edu2010/images/dash.gif") repeat-x scroll center bottom transparent;
-/*    display: inline-block; */
-    margin-bottom: 20px;
-    font-size: 11px;
-}
-
-#schlist h1 {
-margin-top: 25px;
-}
-
-#careerart {
-display: inline-block;
-}
-
-.progblock {
-padding-bottom: 25px;
-}
-
-.progblock h3 a {
-    color: #0C3447;
-    text-decoration: none;
-    cursor: default;
-}
-
-.progblock h3 a:hover, #schlist ul li h3 a:hover, #degreelist ul h3 a:hover {
-color:  #DC5F17;
-}
-
-.progblock ul {
-    margin: 0;
-    padding: 3px 0 0;
-    width: 125px;
-}
-
-.progblock li {
-    border-bottom: 1px solid #EAEAEA;
-    list-style-type: none;
-    margin-bottom: 3px;
-}
-
-.progblock li a {
-color: #3d3d3d;
-font-size: 12px;
-text-decoration: none;
-}
-
-.progblock li a:hover {
-color: #DC5F17;
-}
-
-.progblock span {
-float: left;
-}
-
-.progblock img {
-padding-right: 10px;
-}
-
-.progblock h3 {
-    cursor: default;
-    font-size: 14px;
-    font-weight: bold;
-    margin-bottom: 5px;
-}
-
-#slides span.swapsource {
-    border-top: 1px solid lightgray;
-    display: block;
-    padding-top: 10px;
-}
-
-.progswap, .progswap2 {
-/*    background: url("/sites/all/themes/zen/zen_edu2010/images/didyouknowbg.jpg") no-repeat scroll top right transparent; 
-    padding-left: 10px;
-    padding-top: 5px;
-*/
-    display: block;
-    height: 280px;
-    position: relative;
-    width: auto;
-}
-
-.progswap2 {
-/*    background: url("/sites/all/themes/zen/zen_edu2010/images/didyouknowbg.jpg") no-repeat scroll top right transparent;
-*/
-}
-
-.progswap h2, .progswap2 h2 {
- /*   background: url("/sites/all/themes/zen/zen_edu2010/images/didyouknow.png") no-repeat scroll 0 0 transparent;
-     padding-top: 45px;
-*/
-    font-size: 21px;
-}
-
-.progswap ul, .progswap2 ul {
-padding-left: 25px;
-margin-bottom: 0px;
-}
-
-.progswap ul li, .progswap2 ul li {
-    font-size: 14px;
-    line-height: 18px;
-    margin-bottom: 10px;
-}
-
-#slides .dyk {
-font-size: 10px;
-color: red;
-font-weight: bold;
-text-transform: uppercase;
-display: inline;
-font-family: arial, sans-serif;
-line-height: 10px;
-}
-
-.swapsource p {
-    color: #8B8B8B;
-    font-size: 9px;
-    line-height: 15px;
-    margin: 0 auto 5px;
-    width: 300px;
-}
-
-.swapsource a {
-    color: #8B8B8B;
-	}
-	
-#first_slide h2 {
-    font-size: 48px;
-    line-height: 50px;
-    margin: 0 auto 15px;
-    padding-top: 35px;
-    width: 230px;
-}
-
-#first_slide ul {
-    margin: 0;
-    padding: 0 0 0 20px;
-}
-
-#first_slide ul li {
-list-style-type: none;
-font-size: 12px;
-}
-
-#schlogo {
-}
-
-#schlogo img {
-padding: 0px 0px 0px 0px;
-width: 100%;
-}
-
-#schlist ul {
-    margin: 0;
-    padding: 0;
-}
-
-#schlist ul li {
-    background-image: url("/sites/all/themes/zen/zen_edu2010/images/bordbottom.gif");
-    background-position: center bottom;
-    background-repeat: repeat-x;
-    display: inline-block;
-    list-style-type: none;
-    margin-bottom: 7px;
-}
-
-#schlist ul li h3 a {
-color: #0f3946;
-font-size: 17px;
-margin-bottom: 10px;
-text-decoration: none;
-}
-
-#schlist ul li a {
-color: #DC5F17;
-}
-
-#schlist ul li a:hover {
-color: #0f3946;
-}
-
-#schlist p {
-	font-size: 12px;
-	line-height: 18px;
-}
-
-#degreelist ul {
-padding: 0px 0px 25px 0px;
-margin: 0px 0px 0px 0px;
-}
-
-#degreelist ul li {
-float: left;
-width: 33%;
-list-style-type: none;
-}
-
-#degreelist ul li ul {
-
-}
-
-#degreelist ul li ul li {
-float: none;
-width: auto;
-}
-
-#degreelist ul li ul li a {
-font-size: 11px;
-color: #0c3447;
-}
-
-#degreelist ul li ul li a:hover {
-color: #DC5F17;
-}
-
-#degreelist ul h3 a {
-text-decoration: none;
-color: #0c3447;
-}
-
-.articleimg {
-    background: url("/sites/all/themes/zen/zen_edu2010/images/artpicbg.gif") no-repeat scroll 0 0 transparent;
-    height: 92px;
-    padding: 10px;
-    width: 296px;
-    margin: 0px 0px 10px -5px;
-}
-
-.artdate {
-font-family: georgia, times new roman, serif;
-font-weight: bold;
-}
-
-#degreelist ul li ul li a.org {
-color: #DC5F17;
-}
-
-#degreelist ul li ul li a.org:hover {
-color: #0c3447;
-}
-
-/* SWAPPER */
-
-#slides div {
-  display: none;
-}
-
-#slides div.active {
-  display: block;
-}
-
-#loopedSlider {
-    display: inline-block;
-    margin-bottom: 20px;
-    position: relative;
-}
-
-a.previous {
-    left: 235px;
-    position: absolute;
-    top: 300px;
-}
-
-a#mostrar2 {
-padding: 5px 0px 5px 235px;
-}
-
-.prepend-1a {
-padding-left: 20px;
-}
-
-.fleft {
-float: left;
-padding: 0px 15px 0px 0px;
-}
-
-.fright {
-float: right;
-padding: 0px 0px 0px 15px;
-}
-
-/* Expander */
-.listexpand .expandhead {
-    background: url("/sites/all/themes/zen/zen_edu2010/images/expandheaderbg.gif") no-repeat scroll 0 0 transparent;
-    margin-bottom: 1px;
-    padding: 10px 0 3px 15px;
-    position: relative;
-}
-
-.expandheadimg {
-    position: absolute;
-    right: 10px;
-    top: -10px;
-}
-
-
-.section-certificates .expandheadimg {
-    top: -30px;
-}
-
-.section-certificates .listexpand .expandhead {
-    margin-top: 55px;
-}
-
-.expandhead h2 {
-    margin-bottom: 0;
-}
-
-.expandhead p {
-    color: #3D3D3D;
-    font-size: 11px;
-    line-height: 25px;
-    margin-bottom: 0;
-}
-
-#lope2 {
-    margin-bottom: 25px;
-    margin-top: 50px;
-}
-
-.listexpand h3.acc_trigger, .listexpand h3.acc_trigger2 {
-    background: url("/sites/all/themes/zen/zen_edu2010/images/expandtitlebg.gif") repeat scroll 0 0 transparent;
-    display: block;
-    font-family: arial,helvetica,sans-serif;
-    font-size: 14px;
-    font-weight: bold;
-    height: 26px;
-    line-height: 26px;
-    margin-bottom: 4px;
-    padding-left: 25px;
-    text-transform: uppercase;
-    width: 565px;
-}
-
-.listexpand h3.acc_trigger a, .listexpand h3.acc_trigger2 a {
-    text-decoration: none;
-    color: #3d3d3d;
-}
-
-.listexpand h3.acc_trigger:hover, .listexpand h3.acc_trigger2:hover {
-background-position: 0 -26px;
-}
-
-.listexpand h3.active {
-    background-position: 0 26px;
-}
-
-.listexpand h3.active:hover {
-background-position: 0 26px;
-}
-
-.block, .item-list {
-display: inline-block;
-width: 100%;
-}
-
-.block ul, .listexpand .item-list ul {
-    display: inline-block;
-    margin: 0;
-    padding: 0 0 25px 25px;
-    width: 100%;
-}
-
-.listexpand .item-list ul {
-width: 565px;
-}
-
-.block ul li, .listexpand .item-list ul li {
-    float: left;
-    font-size: 11px;
-    list-style-type: none;
-    padding: 5px 0 0;
-    width: 33%;
-}
-
-.block ul li a, .listexpand .item-list ul li a {
-text-decoration: none;
-}
-
-#searchresults {
-background-color: #0C3447;
-color: white;
-font-size: 14px;
-margin-bottom: 0;
-padding: 2px 0 2px 15px;
-}
-
-#searchresults strong.org {
-color: #f18200;
-}
-
-#programlista .search-group ul li#fsubject {
-display: none;
-}
-
-.view-content-Subjects-directory-education .item-list ul {
-padding: 0px 0px 0px 0px;
-margin: 0px 0px 0px 0px;
-}
-
-.view-content-Subjects-directory-education .item-list ul li {
-    border-top: 1px solid #EAEAEA;
-    display: inline-block;
-    list-style-type: none;
-    padding: 25px 0;
-    width: 100%;
-}
-
-#article h3 {
-    font-family: arial;
-    font-weight: bold;
-    line-height: 24px;
-    margin-bottom: 5px;
-    margin-top: 5px;
-    color: #3D3D3D;
-}
-
-#article div#career-image div img {
-padding-bottom: 0px;
-}
-
-/* .cite {
-	font-size: 10px;
-	border: 2px solid #595959;
-    margin: 1.45em 0;
-    padding: 0;
-}
-*/
-
-.cite {
-    border: 0 none;
-    font-size: 10pt;
-    margin: 0;
-    padding: 0;
-}
-
-#citations p {
-    font-size: 12px;
-    line-height: 18px;
-}
-
-strong.ulhead {
-    color: #3d3d3d;
-    margin-left: -45px;
-    text-transform: uppercase;
-}
-
-ul.aul {
-    font-size: 16px;
-    padding: 0 0 5px 45px;
-}
-
-ul.aul li {
-    margin: 5px 0;
-}
-
-/* Program Listing Filter */
-
-.search-group {
-    background-color: #E4E7E2;
-    margin-bottom: 15px;
-    padding: 5px 15px 10px;
-}
-
-.search-group p {
-    color: #3D3D3D;
-    font-size: 18px;
-    font-weight: bold;
-    margin: 0 0 5px;
-}
-
-.search-group ul {
-padding: 0px 0px 0px 0px;
-margin: 0px 0px 0px 0px;
-}
-
-.search-group ul li {
-    float: left;
-    font-size: 75%;
-    line-height: 20px;
-    list-style-type: none;
-    width: 24%;
-}
-
-.search-group ul li input {
-    background-color: #787878;
-    border-color: -moz-use-text-color black black -moz-use-text-color;
-    border-style: none solid solid none;
-    border-width: 0 1px 1px 0;
-    color: white;
-    font-size: 12px;
-    font-weight: bold;
-    margin-left: 25px;
-    margin-top: -1px;
-    padding: 2px 16px;
-    cursor: pointer;
-}
-
-.search-group ul li label {
-display: none;
-}
-
-.search-group ul li input:hover, .page-college-directory .search-group ul li input:hover  {
-background-color: #949494;
-}
-
-.search-group ul li input:focus {
-background-color: #505050;
-}
-
-.search-group label {
-font-size: 10px;
-font-weight: normal;
-padding: 0px 0px 0px 0px;
-margin: 0px 0px 0px 0px;
-line-height: 10px;
-}
-
-.search-group select {
-    margin: 0 0;
-    width: 125px;
-    font-size: 12px;
-}
-
-/* Start Pagination CSS */
-
-.pager, #plisting a.paginate  {
-    font-weight: bold;
-    margin: 5px 0;
-    text-align: right;
-}
-
-.pager-list a, #plisting a.paginate  {
-color: #6e6e6e;
-text-decoration: none;
-}
-
-.pager-list strong, #plisting a.current {
-    background-color: #787878;
-    border: 1px solid #787878;
-    color: white;
-    padding: 3px 7px;
-}
-
-#plisting a.paginate, #plisting a.current {
-font-size: 1em;
-}
-
-.pager .pager-first, .pager .pager-last, .pager .pager-next, .pager .pager-previous, .pager-list a, #plisting a.paginate  {
-padding: 3px 7px;
-margin: 0px 1px;
-border: 1px solid transparent;
-}
-
-.pager a.pager-first:hover, .pager a.pager-last:hover, .pager a.pager-next:hover, .pager .pager-previous:hover, .pager-list a:hover, .page-college-directory .pager-next:hover, #plisting a.paginate:hover {
-border: 1px solid #787878;
-background-color: transparent;
-}
-
-
-a.pager-last {
-display: none;
-}
-
-.pager a.pagerbutton  {
-text-decoration: none;
-color: white;
-}
-
-#pagerfirst, #pagerlast {
-display: none;
-}
-
-
-
-/* Start listing */
-
-#plisting hr {
-display: none;
-}
-
-#listing .view .view-content .span-5 {
-padding-right: 40px;
-width: 110px;
-margin-right: 10px;
-}
-
-#plisting h3 a, #cdirectory .pager_table h4 a, .view-content-State-directory #plisting #title-1 h4 a, .school-container a h3, #listing .view-content b a {
-    color: #0C3447;
-    font-size: 18px;
-    font-weight: bold;
-    margin-bottom: 10px;
-    text-decoration: underline;
-}
-
-.page-college-directory-finder br {
-display: none;
-}
-
-.page-college-directory-finder ul.school-container .append-1 {
-position: absolute;
-}
-
-.page-college-directory-finder .school-container a h3 {
-padding-left: 160px;
-}
-
-#listing .view-content {
-    margin-bottom: 25px;
-    overflow: hidden;
-}
-
-#listing .view-content hr {
-    background: none repeat scroll 0 0 #EAEAEA;
-    clear: both;
-    color: #EAEAEA;
-    display: inline-block;
-    float: none;
-    height: 1px;
-    margin: 35px 0 25px;
-    width: 100%;
-}
-
-#listing .view-content b a {
-    font-family: georgia,times new roman,serif;
-}
-
-#plisting a h3:hover {
- color: #DC5F17;
-}
-
-.page-college-directory-finder .school-container h4, .page-college-directory-finder ul.school-container br {
-display: none;
-}
-
-.page-college-directory-finder #plisting ul.school-container {
-    border-top: 1px dotted #EAEAEA;
-    display: inline-block;
-    margin: 25px 0 0;
-    padding: 25px 0 0;
-}
-
-#plisting .span-5 a img, .subcl a img, .page-college-directory-finder ul.school-container .span-3 a img {
-width: 120px !important;
-height: 60px !important;
-}
-
-ul li #title-1 h3, .page-college-directory-finder .program-list li.program-container {
-    border-bottom: 1px dotted #D4D7D2;
-    border-top: 0 none;
-    display: inline-block;
-    font-size: 10px;
-    margin-bottom: 5px;
-    padding-bottom: 5px;
-    width: 100%;
-}
-
-#listing #title-2 {
-    border-bottom: 1px dotted #D4D7D2;
-    border-top: 0 none;
-    font-size: 10px;
-    margin-bottom: 5px;
-    padding-bottom: 0px;
-    float: right;
-    width: 430px;
-}
-
-
-ul.school-container .program-list li.program-container {
-    margin: 0px 0px 5px 0px;
-    padding: 0px 0px 5px 0px;
-}
-
-.page-college-directory-finder li.program-container a {
-text-decoration: none;
-}
-
-ul li #title-1 h3 a, #listing #title-2 a {
-    font-family: arial;
-    font-size: 11px;
-    font-weight: normal;
-    margin-bottom: 10px;
-    margin-top: -5px;
-    text-decoration: none;
-}
-
-ul li #plisting #title-1 a {
-    text-decoration: none;
-    color; #0C3447;
-}
-
-ul li #plisting #title-1 a:hover {
-    color: #DC5F17;
-}
-
-#plisting h5 {
-display: none;
-}
-
-#plisting a.plistrmore {
-    background-image: url("/sites/all/themes/zen/zen_edu2010/images/barrbullet.png");
-    background-position: 325px 5px;
-    background-repeat: no-repeat;
-    font-size: 12px;
-    font-weight: bold;
-    margin-top: 10px;
-    text-transform: uppercase;
-}
-
-#plisting p {
-font-size: 14px;
-line-height: 21px;
-margin-bottom: 10px;
-border-bottom: 1px solid #d3d3d3;
-padding-bottom: 15px;
-}
-
-#plisting ul, #cdirectory .pager_table {
-    display: inline-block;
-    margin: 0px 0px 0px 0px;
-    padding: 25px 0px;
-    border-top: 1px solid #EAEAEA;
-}
-
-#plisting ul li, #section-state #plisting ul li {
-    display: inline-block;
-    list-style-type: none;
-    padding: 0px 0px;
-    width: 100%;
-}
-
-#plisting ul li.psuedo-drupal-generated {
-padding: 0px 0px;
-display: inline-block;
-}
-
-#plisting ul li ul.school-container li {
-    display: inline;
-    width: 100%;
-    list-style-type: none;
-    padding: 0px 0px 0px 0px;
-}
-
-#plisting .view-content-State-directory ul li {
-border-top: 1px solid #EAEAEA;
-list-style-type: none;
-}
-
-#plisting .view-content-State-directory ul li.program-container {
-border-top: 0px transparent;
-}
-
-#plisting ul li p a {
-display: block;
-}
-
-.plistreqbtn {
-    background-color: #DC5F17;
-    background-image: url("/sites/all/themes/zen/zen_edu2010/images/reqarrow.png");
-    background-position: 105px 5px;
-    background-repeat: no-repeat;
-    border-bottom: 1px solid #9C3E08;
-    border-right: 1px solid #9C3E08;
-    cursor: pointer;
-    padding: 2px 5px;
-    width: 109px;
-}
-
-.plistreqbtn:hover {
-background-color: #e78d00;
-}
-
-.plistreqbtn a {
-color: white;
-text-decoration: none;
-font-size: 10px;
-}
-
-.page-college-directory-finder #plisting .school-container li {
-width: 100%; 
-padding: 0px 0px 0px 0px;
-}
-
-.page-college-directory-finder .school-container .program-list li br, #plisting ul li ul li br {
-display: none;
-}
-
-.school-container .span-3 a.plistlogo img, .pager_table .subcl a img, #listing .view .view-content .span-5 a img {width: 120px !important; height: 60px !important;}
-
-#plisting .span-10 {
-padding-left: 10px;
-width: 380px;
-}
-
-#plistrelate ul li {
-    border-bottom: 1px solid #EAEAEA;
-    border-top: 0 none;
-    font-size: 10px;
-    padding: 2px 0;
-    width: 100%;
-}
-
-#plistrelate strong {
-    background-image: url("/sites/all/themes/zen/zen_edu2010/images/darrow.png");
-    background-repeat: no-repeat;
-    background-position: 0 2px;
-    display: inline-block;
-    font-size: 11px;
-    margin-bottom: 5px;
-    padding-left: 20px;
-    cursor: pointer;
-}
-
-#plistrelate strong:hover {
-color: #DC5F17;
-}
-
-#plistrelate ul li a {
-text-decoration: none;
-}
-
-/* Quick Browse box */
-
-#article #qbrowse {
-    border: 1px solid #797979;
-    font-size: 14px;
-    margin: 6px 15px 0 0;
-    width: 180px;
-}
-
-#article #qbrowse strong {
-    background-color: #797979;
-    color: white;
-    display: block;
-    font-size: 14px;
-    margin-bottom: 0;
-    margin-left: 0;
-    padding: 2px 15px;
-    width: auto;
-}
-
-#mprogram #article #qbrowse ul {
-    margin: 0;
-    padding: 10px 15px;
-}
-
-#article #qbrowse ul li {
-list-style-type: none;
-margin-bottom: 3px;
-line-height: normal;
-}
-
-#article #qbrowse ul li a {
-text-decoration: none;
-}
-
-/* mprogram specific */
-
-#mprogram #qformhead {
-    background: url("/jump/cms/cmsimages/EDU180/drupal/innerformbg_4.png") no-repeat scroll 0 0 transparent;
-    color: white;
-    font-family: georgia;
-    font-size: 30px;
-    height: 85px;
-    left: 0px;
-    padding: 0 0 6px 10px;
-    position: absolute;
-    top: 155px;
-    width: 407px;
-}
-
-#mprogram #matchschools_form h2 {
-    background: none repeat scroll 0 0 transparent;
-    text-indent: -9999em;
-}
-
-#mprogram #topblock {
-background: url(/sites/all/themes/zen/zen_edu2010/images/qformline.gif) repeat-x bottom;
-margin-bottom: 5px;
-margin-right: 15px;
-}
-
-#mprogram #topblock span {
-    color: white;
-    display: inline-block;
-    font-size: 14px;
-    font-weight: bold;
-    line-height: 20px;
-    margin-bottom: 10px;
-    margin-left: 20px;
-    text-transform: uppercase;
-}
-
-#mprogram #matchschools_form .form_bg {
-    background: url("http://education180.com/sites/all/themes/zen/zen_edu2010/images/qformbg.gif") no-repeat scroll 0 0 transparent;
-    height: 277px;
-    margin-bottom: 15px;
-    padding-left: 15px;
-    padding-top: 65px;
-}
-
-#matchschools_form .form_bg {
-    background: url("http://education180.com//sites/all/themes/zen/zen_edu2010/images/qformbg.gif") no-repeat scroll 0 0 transparent;
-    margin-bottom: 15px;
-    padding-left: 15px;
-}
-
-#sinfo {
-    background-color: #F7F7F7;
-    border: 1px solid #F0F0F0;
-    padding: 10px 15px;
-}
-
-#sinfo h4 {
-    color: #043D49;
-    font-family: arial,helvetica,sans serif;
-    font-size: 14px;
-    font-weight: bold;
-    margin-bottom: 5px;
-    margin-top: -10px;
-    text-transform: uppercase;
-}
-
-#sinfo p {
-    font-size: 12px;
-    line-height: 18px;
-    margin-bottom: 0px;
-    margin-top: 5px;
-}
-
-#sinfo ul, ol {
-    margin: 0 1.5em 1.5em 0;
-    padding-left: 3.333em;
-}
-
-#sinfo ul li {
-font-size: 12px;
-list-style-type: disc;
-border: none;
-padding: 10px 0 0;
-}
-
-#moreschoollinks ul {
-padding: 0px 0px 0px 0px;
-margin: 0px 0px 0px 0px;
-}
-
-#moreschoollinks ul li {
-    border-bottom: 1px solid #A8B9C5;
-    list-style-type: none;
-    padding: 3px 0;
-}
-
-#moreschoollinks ul li a {
-display: inline-block;
-text-decoration: none;
-}
-
-#moreschoollinks ul li a .span-5 {
-font-size: 12px;
-font-weight: bold;
-text-transform: uppercase;
-}
-
-.section-articles #listing ul, body#list_directory #listing ul {
-padding: 0px 0px 0px 0px;
-margin: 0px 0px 0px 0px;
-}
-
-.section-articles #listing ul li, body#list_directory #listing ul li {
-    display: inline-block;
-    list-style-type: none;
-
-}
-
-.section-articles #listing ul li p, body#list_directory #listing ul li p {
-font-size: 12px;
-line-height: 16px;
-margin-bottom: 25px;
-}
-
-.section-articles #listing ul li h3, , body#list_directory #listing ul li h3 {
-font-family: arial, helvetica, sans serif;
-font-size: 18px;
-margin-bottom: 5px;
-}
-
-.section-articles #listing ul li h3 a {
-
-}
-
-.page-college-directory .school-title h3, .page-college-directory .cta-find-schools {
-    font-family: arial,helvetica,sans-serif;
-    font-size: 14px;
-    line-height: 20px;
-    margin-top: 10px;
-    font-weight: bold;
-}
-
-.page-college-directory .school-title h3 a {
-text-decoration: none;
-color: #3d3d3d;
-}
-
-.page-college-directory .cta-find-schools {
-    background: url("/sites/all/themes/zen/zen_edu2010/images/reqarrow.png") no-repeat scroll 115px 7px #DC5F17;
-    border-bottom: 1px solid #9C3E08;
-    border-right: 1px solid #9C3E08;
-    color: white;
-    font-size: 12px;
-    margin-left: 12px;
-    margin-top: 10px;
-    padding: 0 15px 0 0;
-    text-align: center;
-    cursor: pointer;
-}
-
-.page-college-directory .cta-find-schools:hover {
-background-color: #e78d00;
-}
-
-.page-college-directory .search-group {
-margin-bottom: 15px;
-}
-
-.page-college-directory .pager_table {
-    border-bottom: 1px solid white;
-    padding: 5px 0;
-}
-
-#cdirectory br {
-display: none;
-}
-
-.page-college-directory .apager, #cdirectory .apager {
-    padding: 10px 0;
-    text-transform: uppercase;
-}
-
-.pager_table subcolumns {
-
-}
-
-.page-college-directory .pager-next, .page-college-directory .pager-current {
-    font-size: 13px;
-    padding: 1px 5px;
-}
-
-.page-college-directory .pager-next:hover { 
-    background-color: #787878;
-    color: white;
-    padding: 1px 5px;
-}
-
-.page-college-directory #sidebar .search-group ul {
-    display: inline-block;
-    padding: 0 0 15px;
-}
-
-.page-college-directory #sidebar .search-group ul li {
-display: inline-block;
-width: 46%;
-}
-
-.page-college-directory #sidebar .search-group {
-    background-color: transparent;
-
-}
-
-.page-college-directory #subdirectory {
-overflow: hidden;
-}
-
-.page-college-directory .subject-group {
-    border-bottom: 1px solid #B7B7B7;
-    clear: left;
-    overflow: hidden;
-    padding: 10px 0;
-}
-
-
-
-.page-college-directory .subject-group-content span a {
-    display: inline-block;
-    font-size: 12px;
-    font-weight: bold;
-    padding-bottom: 10px;
-    text-transform: uppercase;
-}
-
-.page-college-directory .item-list ul {
-padding: 0px 0px 0px 0px;
-margin: 0px 0px 0px 0px;
-}
-
-.page-college-directory .item-list ul li {
-display: inline-block;
-width: 25%;
-}
-
-.page-college-directory .search-group select, .search-group select {
-    font-size: 10px;
-    margin: 0;
-    width: 110px;
-}
-
-.page-college-directory #find-school-form ul li {
-    font-size: 60%;
-}
-
-
-.page-college-directory #find-school-form ul li, .search-group ul li {
-    float: left;
-    line-height: 20px;
-    list-style-type: none;
-    width: 20%;
-}
-
-.page-college-directory #find-school-form ul li#fclassroom, .page-college-directory #find-school-form ul li#flevel, .page-college-directory #find-school-form ul li#fsubject, .page-college-directory #find-school-form ul li#fconcen {
-    width: 21%;
-}
-
-.page-college-directory .search-group ul li input {
-    background-color: #787878;
-    border-color: -moz-use-text-color black black -moz-use-text-color;
-    border-style: none solid solid none;
-    border-width: 0 1px 1px 0;
-    color: white;
-    font-size: 10px;
-    font-weight: bold;
-    margin-left: 5px;
-    margin-top: -1px;
-    padding: 2px 5px;
-    cursor: pointer;
-}
-
-.page-college-directory #matchschools_form {
-padding-top: 0px;
-}
-
-.artimg {
-padding-right: 15px;
-margin-top: 10px;
-}
-
-.page-college-directory .view-data-logo span a img {
-height: 60px;
-width: 120px;
-}
-#title-2
-{
-width: 390px;
-float: right;
-} 
-
-#headsnip img#headerimg {
-padding-bottom: 0px;
-}
-
-#headsnip {
-    color: #4C4C4C;
-    font-size: 16px;
-    font-weight: bold;
-    margin-bottom: 15px;
-    padding: 0 0 6px;
-}
-
-#headsnip a {
-text-decoration: none;
-}
-
-#article h1 {
-line-height: 36px;
-}
-
-#article h3.field-label-top {
-    color: #4C4C4C;
-    font-family: arial;
-    font-size: 10px;
-    font-weight: bold;
-    margin-bottom: 10px;
-    text-decoration: none;
-    text-transform: uppercase;
-}
-
-#article h2.question {
-    background: url("/sites/all/themes/zen/zen_edu2010/images/q_qa.gif") no-repeat scroll 0 0 transparent;
-    color: #6D6D6D;
-    font-family: georgia;
-    font-size: 21px;
-    font-weight: normal;
-    line-height: 1;
-    margin: 0 0 20px 0;
-    padding: 10px 0 5px 55px;
-    text-decoration: none;
-}
-
-#article p.answer {
-    background: url("/sites/all/themes/zen/zen_edu2010/images/a_qa.gif") no-repeat scroll 0 5px transparent;
-    margin-bottom: 25px;
-    padding: 0 0 5px 55px;
-}
-
-#article p.answer a, #article p.answer_plain a {
-text-decoration: none;
-}
-
-#article p.answer_plain{
-    margin-bottom: 25px;
-    padding: 0 0 5px 55px;
-}
-
-.node-type-career #article ul, #node-type-career #article ol {
-    color: #6D6D6D;
-    font-size: 16px;
-    margin: 0 0 15px;
-    padding: 0 0 5px 85px;
-}
-
-.node-type-article #article ul, .node-type-article #article ol {
-    color: #6D6D6D;
-    font-size: 16px;
-    margin: 0 0 15px;
-    padding: 0 0 5px 45px;
-}
-
-#career-desc ul, #employ-stat ul, #education ul, #first-step ul, #career-desc ol, #employ-stat ol, #education ol, #first-step ol,  {
-    color: #6D6D6D;
-    font-size: 16px;
-    margin: -15px 0 15px;
-    padding: 0 0 5px 95px;
-}
-
-
-
-#article ul li, #article ol li {
-    line-height: 24px;
-    margin-bottom: 10px;
-}
-
-#article ul h4, #article ol h4 {
-    color: #D78F66;
-    font-family: arial, verdana, sans serif;
-    font-size: 16px;
-    font-weight: bold;
-    line-height: 1.25;
-    margin-bottom: 0;
-}
-
-#mprogram #article {
-padding-right: 40px;
-}
-
-#content #article {
-padding-right: 0px;
-}
-
-#mprogram #article ul, #mprogram #article ol {
-    padding-top: 10px;
-    margin: 0 1.5em 1.5em 0;
-    padding-left: 3.333em;
-    color: #6D6D6D;
-    font-size: 16px;
-    line-height: normal;
-}
-
-#mprogram #article ul li, #mprogram #article 0l li {
-}
-
-#article a.careercta {
-/* display: none; */
-    border-bottom: 1px dotted lightgray;
-    color: #DC5F17;
-    display: inline-block;
-    font-family: georgia;
-    font-size: 18px;
-    padding-bottom: 10px;
-}
-
-#article a.careercta:hover {
-color: #0c3447;
-}
-
-
-#article .qfaq {
-    display: inline-block;
-    font-size: 18px;
-    font-weight: bold;
-    margin-bottom: 25px;
-    padding: 0;
-}
-
-
-#qfaq h5 {
-color: #DC5F17;
-font-size: 21px;
-margin-bottom: 0px;
-}
-
-#article #qfaq ul {
-    border-top: 3px solid #0C3447;
-    clear: left;
-    display: inline-block;
-    margin: 0;
-    padding: 0;
-}
-
-#qfaq ul li {
-    display: inline-block;
-    float: left;
-    font-size: 12px;
-    list-style-type: none;
-    margin-right: 0pxpx;
-    padding: 7px 0;
-}
-
-#qfaq ul li.last {
-margin-right: 0px;
-}
-
-#qfaq ul li.last a {
-border-right: 0px;
-}
-
-
-#qfaq ul li a {
-    border-right: 1px dotted lightgray;
-    font-size: 11px;
-    padding: 5px 12px;
-    text-decoration: underline;
-    text-transform: uppercase;
-}
-
-sup {
-    color: #8B8B8B;
-    font-size: 10px;
-}
-
-.search-reesults .title {
-font-size: 14px;
-}
-
-.search-results dd p {
-    font-size: 12px;
-    line-height: 16px;
-    margin-bottom: 5px;
-    margin-left: -19px;
-    width: 570px;
-/*    overflow: hidden; */
-word-break:break-all;
-}
-
-.search-results .search-info {
-color: #DC5F17;
-margin-bottom: 15px;
-font-size: 10px;
-}
-
-.search-results .search-info a {
-color: #DC5F17;
-}
-
-.search-reesults .search-info a {
-color: #0c3447;
-}
-
-.containerz {
-    cursor: default !important;
-    float: left;
-    height: 295px;
-    overflow: hidden;
-    position: relative;
-    width: 590px;
-}
-
-.containerz h1 {
-margin-top: 15px;
-}
-
-.msg_head img {
-    cursor: pointer;
-    padding: 0 0 15px 240px !important;
-}
-
-.finfo a {
-    color: #3d8fa2;
-    font-size: 10px;
-    margin-left: 60px;
-}
-
-#user-operations {
-background-color: #fffdce;
-}
-
-#user-operations fieldset legend {
-background-color: yellow;
-font-size: 18px;
-}
-
-
-
-.relativity_removable .relativity_remove_program {
-background-color: yellow;
-text-transform: uppercase;
-}
-
-.relativity_removable .relativity_remove_program:hover {
-background-color: orange;
-}
-
-#user-operations .relativity_removable {
-margin-bottom: 10px;
-}
-
-#node-6242 h1 {
-padding-top: 35px;
-}
-
-#node-6242 ul#fourohfour {
-padding-bottom: 250px;
-}
-
-span.h4 {
-    color: #D78F66;
-    font-family: arial,verdana,sans serif;
-    font-size: 16px;
-    font-weight: bold;
-    line-height: 1.25;
-    margin-bottom: 0;
-}
-
-#article h2.question {
-    background: url("http://www.education180.com/sites/all/themes/zen/zen_edu2010/images/q_qa.gif") no-repeat scroll 0 0 transparent;
-}
-
-#article p.answer {
-background: url("http://www.education180.com/sites/all/themes/zen/zen_edu2010/images/a_qa.gif") no-repeat scroll 0 0 transparent;
-}
-
-.node-type-article #glossary ul, .node-type-article #glossary ul h4 {
-    font-size: 100%;
-    margin: 0px 0px 0px 0px;
-    padding: 0px 0px 0px 0px;
-}
-
-.node-type-article #glossary ul li {
-list-style-type: none;
-margin-bottom: 10px;
-}
-
-
-
-
-
-
-
-
-/* financial aid styles */
-
-.faidprograms {
-    border-top: 3px solid #6D6D6D;
-    margin-bottom: 45px;
-}
-
-.faidprograms, #loandeferment { 
-clear: both;
-}
-
-.faidprograms div, #loandeferment div { 
-margin-right: 0px;
-}
- 
-.node-type-article #loandeferment ul {
-padding: 0px 0px 0px 0px;
-margin: 0px 0px 1.5em 0px;
-clear: both;
-}
-
-.node-type-article .faidprograms ul {
-padding: 0px 0px 0px 0px;
-margin: 0px 0px 0px 0px;
-}
-
-.node-type-article .faidprograms ul li {
-    font-size: 10px;
-    line-height: 13px;
-    list-style-type: none;
-    margin: 0px;
-}
-
-.node-type-article #loandeferment ul li {
-    background-color: white;
-    font-size: 14px;
-    height: auto;
-    line-height: 19px;
-    list-style-type: none;
-    margin: 1px;
-}
-
-
-.node-type-article .faidprograms ul li ul, .node-type-article #loandeferment ul li ul {
-list-style: disc outside none;
-}
-
-.node-type-article .faidprograms ul li ul {
-    margin-bottom: 0px;
-    padding-bottom: 0;
-}
-
-.node-type-article .faidprograms ul li ul li ul {
-margin-bottom: 0px;
-}
-
-.node-type-article .faidprograms ul li ul li, .node-type-article #loandeferment ul li ul li {
-    display: block;
-    font-size: 12px;
-    height: auto;
-    line-height: 15px;
-    list-style: disc outside none;
-    margin: 0 0 7px;
-    padding: 0 0 0 10px;
-    border-bottom: 1px solid lightgray;
-}
-
-ul.chart li {
-    border-bottom: 1px solid lightgray;
-    display: block;
-    font-size: 12px;
-    height: auto;
-    line-height: 15px;
-    list-style: disc outside none;
-    margin: 0 0 7px;
-    padding: 0 0 0 0px;
-}
-
-ul.chart li span {
-    display: inline-block;
-    padding: 10px;
-    width: 90%;
-}
-
-
-.node-type-article .faidprograms ul li ul li {
-    background-color: white;
-    margin-bottom: 1px;
-    padding: 10px;
-}
-
-.node-type-article .faidprograms ul li ul li ul li {
-    background: url("/cmsimages/temp/smallbullet.gif") no-repeat scroll 0 6px transparent;
-    border-bottom: 0 none;
-    padding-bottom: 10px;
-    padding-left: 10px;
-    padding-top: 0;
-}
-
-.node-type-article #loandeferment ul li strong, .node-type-article .faidprograms ul li strong {
-    display: inline;
-    font-weight: bold;
-    text-transform: uppercase;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    color: #3D3D3D;
-}
-
-.faidprograms, #loandeferment {
-    clear: both;
-    display: inline-block;
-}
-
-.push-25 {
-/* padding-right: 25px; */
-}
-
-.label15 {
-/* padding-right: 15px; */
-text-transform: uppercase;
-font-weight: bold;
-text-align: right;
-}
-
-.label15 h2 {
-    font-size: 18px;
-    font-weight: normal;
-    line-height: 23px;
-    margin-bottom: 0;
-    text-transform: none;
-}
-
-
-
-
-.node-type-article .faidprograms ul li ul li.btmbord {
-    border-bottom: 1px solid transparent;
-}
-
-.node-type-article .faidprograms ul li ul li.fheadlabel, .node-type-article .faidprograms ul li.fheadlabel {
-background-color: #0C3447;
-}
-
-.node-type-article .faidprograms ul li ul li.fheadlabel h2, .node-type-article .faidprograms ul li.fheadlabel h2 {
-color: white;
-font-size:18px;
-line-height: 20px;
-}
-
-h2.questiona {
-    background: url("/cmsimages/temp/q_qa2.gif") no-repeat scroll 0 8px transparent;
-    color: #6D6D6D;
-    font-family: georgia;
-    font-size: 15px;
-    font-weight: normal;
-    line-height: 1;
-    margin: 0 0 5px;
-    padding: 10px 0 10px 35px;
-    text-decoration: none;
-}
-
-p.answera { 
-    background: url(/cmsimages/temp/a_qa2.gif) no-repeat 0 0px transparent;
-    font-size: 12px;
-    line-height: 18px;
-    margin-bottom: 15px;
-    padding-left: 35px;
-}
-
-.sideboxa {
-    border: 1px solid #E3E7E1;
-    margin-bottom: 15px;
-    padding: 10px 5px 0px 15px;
-}
-
-.pullout {
-    border-bottom: 3px solid #0C3447;
-    border-top: 9px solid #0C3447;
-    float: right;
-    font-size: 13px;
-    line-height: 21px;
-    margin-left: 25px;
-    margin-top: 8px;
-    padding: 10px 5px;
-    width: 140px;
-}
-
-a.terms {
-color: #DC5F17;
-text-decoration: none;
-border-bottom: 1px dotted #DC5F17;
-}
-
-.sideboxa a.careercta {
-    border-top: 1px dotted lightgray;
-    color: #DC5F17;
-    display: inline-block;
-    font-family: georgia;
-    font-size: 16px;
-    padding-top: 10px;
-    padding-left: 35px;
-    border-bottom: 0px solid transparent;
-    padding-bottom: 0px;
-}
-
-.node-type-article #articlelist .item-list ul, .node-type-article #articlelist .item-list ul li {
-padding: 0px 0px 0px 0px;
-margin: 0px 0px 0px 0px;
-}
-
-.node-type-article #articlelist .item-list ul li a {
-    color: #0C3447;
-    font-size: 12px;
-    text-decoration: none;
-}
-
-.node-type-article #articlelist .item-list ul li a:hover {
-color: #DC5F17;
-}
-
-
-#articlelist h2 strong {
-	display: inline-block;
-	font-weight: bold;
-	margin-bottom: 0px;
-	margin-left: 0px;
-}
-
-#featuredschools img {
-padding-top:2px;
-padding-bottom: 2px;
-padding-left: 2px;
-padding-right: 0px;
-width: 150px;
-}
-
-.short_description p {
-margin-bottom: 0px;
-}
-
-.faidprograms ul.ct1 li {
-height: 55px;
-}
-
-.faidprograms ul.ct2 li {
-height: 32px;
-}
-
-.faidprograms ul.ct3 li {
-height: 50px;
-}
-
-.faidprograms ul.ct4 li {
-height: 78px;
-}
-
-.faidprograms ul.ct5 li {
-height: 36px;
-}
-
-.faidprograms ul.ct6 li {
-height: 44px;
-}
-
-.faidprograms ul.ct7 li {
-height: 50px;
-}
-
-.faidprograms ul.ct8 li {
-height: 95px;
-}
-
-.node-type-article .faidprograms ul.ct1 li, .node-type-article .faidprograms ul.ct2 li, .node-type-article .faidprograms ul.ct3 li, .node-type-article .faidprograms ul.ct4 li, .node-type-article .faidprograms ul.ct5 li, .node-type-article .faidprograms ul.ct6 li, .node-type-article .faidprograms ul.ct7 li, .node-type-article .faidprograms ul.ct8 li {
-    border-bottom: 0 solid transparent;
-    border-right: 1px solid lightgray;
-    margin-bottom: 0;
-}
-
-.faidprograms .span-6a {
-width: 220px;
-float: left;
-}
-
-.faidprograms .fnote {
-background-color: #f7f7f7;
-padding: 15px;
-font-size: 12px;
-margin-bottom: 25px;
-}
-
-.faidprograms .fnote strong {
-margin-top: 0px;
-margin-left: 0px;
-margin-right: 0px;
-margin-bottom: 0px;
-padding-top: 0px; 
-padding-right:0px;
-padding-left: 0px;
-padding-bottom: 0px;
-}
-
-b {
-font-weight: bold;
-}
-
-#glossary h4 {
-    color: #D78F66;
-    font-family: arial,verdana,sans serif;
-    font-size: 14px;
-    font-weight: bold;
-    line-height: 1.25;
-    margin-bottom: 10px;
-    margin-top: -15px;
-}
-
-
-</style>
-
-    <script type="text/javascript" async="" src="/sites/all/themes/zen/zen_edu2010/dlfiles/0241.js"></script> <!-- crazyegg -->
-    <!--<script type="text/javascript" src="/sites/all/themes/zen/zen_edu2010/dlfiles/jquery.js"></script>-->
-    <script type="text/javascript" src="/sites/all/themes/zen/zen_edu2010/dlfiles/html5.js"></script>
-    
-<section id="ff" style="position: fixed; bottom: 0pt; height: 40px;">
-<footer id="ft1">
-	<div class="container">
-		<div id="ft1a">
-		<div id="backtop"><a href="#top">Back to Top</a></div>
-		<div id="foottitle">
-			<div id="ftag">Currently Reading</div>
-			Privacy Policy		</div>
-			<div id="flikes">
-				<span>
-                 <!-- +1 button -->
-                 <g:plusone href="http://www.education180.com/privacy-policy" size="medium"></g:plusone>
-				</span>
-				<span>
-				<iframe src="http://www.facebook.com/plugins/like.php?app_id=264826636863506&amp;href=http://www.education180.com/privacy-policy&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=true&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:21px;" allowtransparency="true"></iframe>
-		        </span>
-		    </div>
-		</div>
-	</div>
-</footer>
-
-<footer id="ft2">
-	<div class="page_margins">
-	<div class="page">
-
-
-	<div id="threecol" class="subcolumns">
-		
-<!--- left column --->
-		<div class="c33l">
-			<div class="subcl">
-				<div class="block flinks">
-					<h3 class="footheads">Popular Career Paths</h3>
-					<ul>
-					    <li><a href="/career-spotlight-social-worker">Social Worker</a></li>
-						<li><a href="/career-spotlight-police-officer">Police Officer</a></li>
-						<li><a href="/career-spotlight-women-s-health-nurse-practitioner">Nurse Practitioner</a></li>
-						<li><a href="/career-spotlight-accountant">Accountant</a></li>
-						<li><a href="/career-spotlight-graphic-designer">Graphic Designer</a></li>
-						<li><a href="/career-spotlight-video-game-designer">Game Designer</a></li>
-						<li><a href="/career-spotlight-medical-biller-medical-coder">Medical Biller</a></li>
-						<li><a href="/career-spotlight-restaurant-or-culinary-manager">Culinary Manager</a></li>
-				</ul>
-				</div>
-				<div class="block flinks">
-					<h3 class="footheads">Featured Schools</h3>
-					<ul>
-					    <li><a href="/argosy-university-online-programs">Argosy University </a></li>
-						<li><a href="/everest-university-online">Everest University </a></li>
-						<li><a href="/south-university">South University</a></li>
-						<li><a href="/colorado-technical-university">Colorado Tech University</a></li>
-						<li><a href="/university-phoenix-online">University of Phoenix</a></li>
-						<li><a href="/kaplan-university">Kaplan University</a></li>
-						<li><a href="/grand-canyon-university-online">Grand Canyon University</a></li>
-						<li><a href="/art-institute-online">AIU</a></li>
-						<li><a href="/south-university">South University</a></li>
-					</ul>
-				</div>
-			</div>
-		</div>
-<!--- end left column --->
-
-
-<!--- center column --->
-		<div class="c33l">
-			<div class="subc">
-				<div class="block finfo">
-					<img alt="" src="/sites/all/themes/zen/zen_edu2010/images/salary-chart.png">
-                    <a id="footcite" href="http://nces.ed.gov/fastfacts/display.asp?id=31" target="_blank">National Center for Education Statistics</a>
-				</div>
-				<div class="block links">
-					<h3 class="footheads">Degrees By Level</h3>
-					<ul>
-						<li><a href="/college-directory/finder?optone=Allc&amp;opttwo=Associate&amp;optthree=Alls&amp;optfour=&amp;page=1&amp;ipp=25">Associates Degree</a></li>
-						<li><a href="/college-directory/finder?optone=Allc&amp;opttwo=Bachelor&amp;optthree=Alls&amp;optfour=&amp;page=1&amp;ipp=25">Bachelors Degree</a></li>
-						<li><a href="/college-directory/finder?optone=Allc&amp;opttwo=Master&amp;optthree=Alls&amp;optfour=&amp;page=1&amp;ipp=25">Masters Degree</a></li>
-						<li><a href="/college-directory/finder?optone=Allc&amp;opttwo=Master&amp;optthree=Business&amp;optfour=Business%20Administration&amp;page=1&amp;ipp=25">MBA Degree</a></li>
-						<li><a href="/college-directory/finder?optone=Allc&amp;opttwo=PhD&amp;optthree=Alls&amp;optfour=&amp;page=1&amp;ipp=25">Doctorate Degree</a></li>
-					</ul>
-				</div>
-			</div>
-		</div>
-<!--- end center column --->
-
-<!--- right column --->
-		<div class="c33r">
-			<div class="subcr">
-				<div class="block finfo">
-					<a href="/career-spotlight-social-worker "><h3 class="footheads">Career Spotlight</h3></a>
-						<div class="cpcopy">
-						   <div class="cppic">
-								
-								<img src="/sites/all/themes/zen/zen_edu2010/images/psychl_knowtn_footer.gif">
-								
-							</div>
-							<div class="cptext">
-								<strong>Launch Your Career in Social Work!</strong>
-<p>Social Workers help people get their lives back on-track. Earn your degree in Social Work today and make a meaningful difference, tomorrow!</p>
-							</div>
-						</div>
-				</div>
-				<div class="block links">
-					<h3 class="footheads">Featured Degrees</h3>
-					<ul>
-						<li><a href="/FindYourDegree/matchSchools?areaOfStudy=business&amp;postalCode=&amp;s=ORG&amp;c=optional&amp;k=&amp;schoolSeq=drupal_businessSD&amp;css=edu180bold&amp;version=bcstracktest&amp;cp=&amp;search=Find+Schools+Now">Business</a></li>
-						<li><a href="/FindYourDegree/matchSchools?areaOfStudy=criminal&amp;postalCode=&amp;s=ORG&amp;c=optional&amp;k=&amp;schoolSeq=drupal_cjSD&amp;css=edu180bold&amp;version=bcstracktest&amp;cp=&amp;search=Find+Schools+Now">Criminal Justice</a></li>
-						<li><a href="/FindYourDegree/matchSchools?areaOfStudy=culinary&amp;postalCode=&amp;s=ORG&amp;c=optional&amp;k=&amp;schoolSeq=drupal_culinarySD&amp;css=edu180bold&amp;version=bcstracktest&amp;cp=&amp;search=Find+Schools+Now">Culinary Arts</a></li>
-						<li><a href="/FindYourDegree/matchSchools?areaOfStudy=design&amp;postalCode=&amp;s=ORG&amp;c=optional&amp;k=&amp;schoolSeq=drupal_designSD&amp;css=edu180bold&amp;version=bcstracktest&amp;cp=&amp;search=Find+Schools+Now">Design</a></li>
-						<li><a href="/FindYourDegree/matchSchools?areaOfStudy=education&amp;postalCode=&amp;s=ORG&amp;c=optional&amp;k=&amp;schoolSeq=drupal_eduSD&amp;css=edu180bold&amp;version=bcstracktest&amp;cp=&amp;search=Find+Schools+Now">Education Training</a></li>
-						<li><a href="/FindYourDegree/matchSchools?areaOfStudy=general&amp;postalCode=&amp;s=ORG&amp;c=optional&amp;k=&amp;schoolSeq=drupal_genstudiesSD&amp;css=edu180bold&amp;version=bcstracktest&amp;cp=&amp;search=Find+Schools+Now">General Studies</a></li>
-						<li><a href="/FindYourDegree/matchSchools?areaOfStudy=healthcare&amp;postalCode=&amp;s=ORG&amp;c=optional&amp;k=&amp;schoolSeq=drupal_healthcareSD&amp;css=edu180bold&amp;version=bcstracktest&amp;cp=&amp;search=Find+Schools+Now">Healthcare</a></li>
-						<li><a href="/FindYourDegree/matchSchools?areaOfStudy=information&amp;postalCode=&amp;s=ORG&amp;c=optional&amp;k=&amp;schoolSeq=drupal_infotechSD&amp;css=edu180bold&amp;version=bcstracktest&amp;cp=&amp;search=Find+Schools+Now">Information Technology</a></li>
-						<li><a href="/FindYourDegree/matchSchools?areaOfStudy=legal&amp;postalCode=&amp;s=ORG&amp;c=optional&amp;k=&amp;schoolSeq=drupal_legalSD&amp;css=edu180bold&amp;version=bcstracktest&amp;cp=&amp;search=Find+Schools+Now">Legal</a></li>
-						<li><a href="/FindYourDegree/matchSchools?areaOfStudy=trades&amp;postalCode=&amp;s=ORG&amp;c=optional&amp;k=&amp;schoolSeq=drupal_tradesSD&amp;css=edu180bold&amp;version=bcstracktest&amp;cp=&amp;search=Find+Schools+Now">Trades</a></li>
-					</ul>
-				</div>
-			</div>
-		</div>
-<!--- end right column --->
-
-	</div>
-
-<div id="copyright">
-<p><a href="/"><img src="/sites/all/themes/zen/zen_edu2010/images/edulogo.png"></a></p>
-<p>© Education180.com. All Rights Reserved.</p>
-
-<a href="/about-us" target="blank">About Us</a> | 
-<a href="/contact-us" target="blank">Contact Us</a> | 
-<a href="/privacy-policy" target="blank">Privacy Policy</a> |
-
-<a href="/affiliates" target="blank">Affiliates</a> 
-
-
-</div>
-
-<div id="disclaimer">
-<p>Degree completion times, licensures and certifications may vary by school and program. 
-<br>
-Contact schools directly for details regarding qualifications and accreditations.</p>
-</div> 
-
-<div id="d-footer">
-        
-        
-		All Materials @ 2013 Education 180
-		
-<ul class="menu">
-<li class="leaf"><a href="/about-us">About Us</a></li>
-<li class="leaf"><a href="/contact-us">Contact Us</a></li>
-<li class="leaf"><a href="/affiliate-program">Affiliate Program</a></li>
-<li class="leaf"><a href="/privacy-policy" class="active">Privacy Policy</a></li>
-
-</ul>
-		
-
-
-    
-    		
-
-
-    
     </div>
+	
 
-	</div> <!--- end YAML page margins --->
+
+			</article>
+               
+
+            		 </section><!-- /#main -->
+             
+			<aside id="sidebar" role="complementary">
+				<!-- div class="container" -->
+					
+    <div id="matchschools_form">
+	    <div class="form_bg">
+		    <div class="form_container">
+		      <h2></h2>
+	        <form name="form_lead" action="http://www.education180.com/FindYourDegree/matchSchools" id="contextualFormWidget" method="GET">
+		        <h3></h3>
+	          <div id="aos" class="select_list">
+		          <div class="form_label">
+                What type of career are you interested in pursuing?
+                <span>*</span>
+              </div>
+		          <select name="aos">
+                <option value="">Select One</option>
+<option value="arts%2C+design+%26amp%3B+media">Arts, Design &amp; Media</option>
+<option value="business">Business</option>
+<option value="criminal+justice">Criminal Justice</option>
+<option value="culinary+arts">Culinary Arts</option>
+<option value="education+and+teaching">Education and Teaching</option>
+<option value="general+studies">General Studies</option>
+<option value="healthcare">Healthcare</option>
+<option value="information+technology">Information Technology</option>
+<option value="legal">Legal</option>
+<option value="liberal+arts">Liberal Arts</option>
+<option value="nursing">Nursing</option>
+<option value="psychology">Psychology</option>
+<option value="trades">Trades</option>		          </select>
+	          </div>
+	          <div id="ageRange" class="select_list">
+		          <div class="form_label">What is your age?<span>*</span></div>
+		          <select name="ageRange">
+		            <option value="21">21-22</option>
+		            <option value="23" selected="">23-24</option>
+            	  <option value="25">25-30</option>
+            		<option value="31">31-35</option>
+            	  <option value="36">36-40</option>
+            		<option value="41">41-50</option>
+            		<option value="51">51-60</option>
+		            <option value="61">61+</option>
+		          </select>
+	          </div>
+	          <div id="zip" class="input_text">
+		          <div class="form_label">Zip Code:<span>*</span></div>
+		          <input type="text" size="10" name="postalCode" value="">
+	          </div>
+            <div style="display:none;">               <input id="leadid_token" name="leadid_token" type="hidden" value="">
+              <script id="LeadiDscript_campaign" type="text/javascript" async="" src="https://d1tprjo2w7krrh.cloudfront.net/campaign/4f26f6a3-3c34-4f72-8f23-40960ad2a685.js"></script><script id="LeadiDscript" type="text/javascript">(function() { var s = document.createElement('script'); s.id = 'LeadiDscript_campaign'; s.type = 'text/javascript'; s.async = true; s.src = (document.location.protocol + '//d1tprjo2w7krrh.cloudfront.net/campaign/4f26f6a3-3c34-4f72-8f23-40960ad2a685.js'); var LeadiDscript = document.getElementById('LeadiDscript'); LeadiDscript.parentNode.insertBefore(s, LeadiDscript); })();</script>
+            </div>
+            	          
+            <div id="search_find_schools">
+		          <input name="search" type="submit" value="Find Schools">
+	          </div>
+            <input type="hidden" name="domain" value="www.education180.com">
+<input type="hidden" name="v" value="bcstracktest">
+<input type="hidden" name="css" value="edu180bold">
+<input type="hidden" name="spp" value="">
+<input type="hidden" name="rm" value="">
+          </form>
+        </div>
+      </div>
+    </div>
+  <aside id="text-8" class="widget widget_text">			<div class="textwidget"><div id="protectbadge">
+			<span style="float:left; padding: 0px 15px 0px 5px;"><img src="http://www.education180.com/sites/all/themes/zen/zen_edu2010/images/protshield.png"></span>
+			<p>Education180 Values Your Personal Information<br><a href="/privacy-policy">Learn More - Read Privacy Policy</a></p>
+		</div></div>
+		</aside>          
+             <div class="sb_articles"> <h2><strong>Career</strong> Articles</h2>
+			<div class="articleimg"><img src="http://www.education180.com/sites/all/themes/zen/zen_edu2010/images/article_2.jpg"></div>        
+                
+                
+                
+                
+                
+                
+        	<div class="recent-custom-posts-widget">
+     	    <ul>
+	                
+
+                        <li><a href="http://www.education180.com/careers/ultrasound-technician/">Ultrasound Technician</a></li>
+				                
+
+                        <li><a href="http://www.education180.com/careers/radiology-x-ray-technician/">Radiology / X-Ray Technician</a></li>
+				                
+
+                        <li><a href="http://www.education180.com/careers/visual-communications/">Visual Communications</a></li>
+				                
+
+                        <li><a href="http://www.education180.com/careers/womens-health-nurse-practitioner/">Women’s Health Nurse Practitioner</a></li>
+				                
+
+                        <li><a href="http://www.education180.com/careers/web-designer/">Web Designer</a></li>
+						</ul>
+    </div>
+	          
+           </div>
+                        
+                 
+            <div class="sb_articles">  <h2>Education <strong>Hot</strong> Topics</h2> <div class="articleimg"><img src="http://www.education180.com/sites/all/themes/zen/zen_edu2010/images/article_4.jpg"></div>        
+                
+                
+        	<div class="recent-custom-posts-widget">
+     	    <ul>
+	                
+
+                        <li><a href="http://www.education180.com/2013/8-tips-to-help-simplify-fafsa/">8 Tips To Help Simplify FAFSA</a></li>
+				                
+
+                        <li><a href="http://www.education180.com/2013/commonly-asked-fafsa-questions/">Commonly Asked FAFSA Questions</a></li>
+				                
+
+                        <li><a href="http://www.education180.com/2013/choose-the-right-online-college/">Choose The Right Online College</a></li>
+				                
+
+                        <li><a href="http://www.education180.com/2013/maintaining-an-important-balance/">Maintaining An Important Balance</a></li>
+				                
+
+                        <li><a href="http://www.education180.com/2013/6-job-interview-mistakes-to-avoid/">6 Job Interview Mistakes To Avoid</a></li>
+						</ul>
+    </div>
+	         
+        </div>
+                
+			
+		   </aside><!-- /#sidebar -->
+</div><!-- /container -->
+	</div><!-- /#content -->
+            
+	
+<footer id="content-info" role="contentinfo" class="cf">
+	<div class="container">
+		<div>
+		<div class="popular">
+			<h3>Popular Career Paths</h3>
+			<ul id="menu-popular-career-paths" class="menu"><li id="menu-item-8416" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8416"><a href="/careers/social-worker">Social Worker</a></li>
+<li id="menu-item-8417" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8417"><a href="/careers/womens-health-nurse-practitioner">Nurse Practitioner</a></li>
+<li id="menu-item-8418" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8418"><a href="/careers/graphic-designer">Graphic Designer</a></li>
+<li id="menu-item-8419" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8419"><a href="/careers/medical-biller">Medical Biller</a></li>
+<li id="menu-item-8420" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8420"><a href="/careers/police-officer">Police Officer</a></li>
+<li id="menu-item-8421" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8421"><a href="/careers/accountant">Accountant</a></li>
+<li id="menu-item-8422" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8422"><a href="/careers/video-game-designer">Game Designer</a></li>
+<li id="menu-item-8423" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8423"><a href="/careers/culinary-manager">Culinary Manager</a></li>
+</ul></div>
+		<div class="featured_schools">
+			<h3>Featured Schools</h3>
+			<ul id="menu-featured-schools" class="menu"><li id="menu-item-8424" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8424"><a href="/school/argosy-university-online-programs">Argosy University</a></li>
+<li id="menu-item-8425" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8425"><a href="/school/south-university">South University</a></li>
+<li id="menu-item-8426" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8426"><a href="/school/university-of-phoenix">University of Phoenix</a></li>
+<li id="menu-item-8427" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8427"><a href="/school/grand-canyon-university-online">Grand Canyon University</a></li>
+<li id="menu-item-8428" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8428"><a href="/school/everest-university-online">Everest University</a></li>
+<li id="menu-item-8429" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8429"><a href="/school/colorado-technical-university">Colorado Tech University</a></li>
+<li id="menu-item-8430" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8430"><a href="/school/kaplan-university">Kaplan University</a></li>
+<li id="menu-item-8431" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8431"><a href="/school/american-intercontinental-university-online">AIU</a></li>
+</ul></div>
+		</div>
+		<div>
+		<div class="salary">
+			<img src="/assets/salary-chart.png" alt="Salary Chart">
+			<span><a href="http://www.bls.gov/emp/ep_chart_001.htm">Bureau of Labor Statistics, Education Pays</a></span>
+		</div>
+		<div class="level">
+			<h3>Degrees By Level</h3>
+			<ul id="menu-degrees-by-level" class="menu"><li id="menu-item-8434" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8434"><a href="/level/associate">Associates Degree</a></li>
+<li id="menu-item-8435" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8435"><a href="/level/bachelor/">Bachelors Degree</a></li>
+<li id="menu-item-8436" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8436"><a href="/level/master/">Masters Degree</a></li>
+<li id="menu-item-8437" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8437"><a href="/programs/full-time-mba/">MBA Degree</a></li>
+<li id="menu-item-8438" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8438"><a href="/level/phd">Doctorate Degree</a></li>
+</ul></div>
+		</div>
+		<div>
+		<div class="spotlight">
+			<h3>Career Spotlight</h3>
+			<img src="/assets/psychl_knowtn_footer.gif" alt="Career Spotlight">
+	  		<p><strong>Launch Your Career in Social Work!</strong>
+Social Workers help people get their lives back on-track. Earn your degree in Social Work today and make a meaningful difference, tomorrow!</p>
+		</div>
+		<div class="featured_degrees">
+			<h3>Featured Degrees</h3>
+			<ul id="menu-featured-degrees" class="menu"><li id="menu-item-8439" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8439"><a href="/study/business-programs/">Business</a></li>
+<li id="menu-item-8440" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8440"><a href="/study/culinary-arts/">Culinary Arts</a></li>
+<li id="menu-item-8441" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8441"><a href="/study/education-and-teaching/">Education and Teaching</a></li>
+<li id="menu-item-8442" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8442"><a href="/study/healthcare/">Healthcare</a></li>
+<li id="menu-item-8443" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8443"><a href="/study/legal/">Legal</a></li>
+<li id="menu-item-8444" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8444"><a href="/study/criminal-justice/">Criminal Justice</a></li>
+<li id="menu-item-8445" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8445"><a href="/study/design/">Design</a></li>
+<li id="menu-item-8446" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8446"><a href="/study/general-studies/">General Studies</a></li>
+<li id="menu-item-8447" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8447"><a href="/study/information-technology/">Information Technology</a></li>
+<li id="menu-item-8448" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8448"><a href="/study/trades/">Trades</a></li>
+</ul></div>
+		</div>
+		<div class="sub">
+			<div class="left">
+				<span>
+					Degree completion times, licensure, and certifications may vary by school and program.
+Contact schools directly for details regarding qualifications and accreditation.
+				</span>
+				<nav>
+					<ul>
+						<li><a href="/about-us/">About Us</a></li>
+						<li><a href="/contact-us/">Contact Us</a></li>
+						<li><a href="/privacy-policy/">Privacy Policy</a></li>
+						<li><a href="/affiliates/">Affiliates</a></li>
+					</ul>
+				</nav>
+			</div>
+			<div class="right">
+				<img src="/assets/logo.png" alt="Education180 Logo">
+				<span>© Education180.com. All Rights Reserved.</span>
+			</div>
+		</div>
 	</div>
-</footer><!--- end footer#ft2 --->
-</section><!--- end footer section container --->
+	<!-- /container -->
+</footer><!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WCJLK7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WCJLK7');</script>
+<!-- End Google Tag Manager -->
 
-<script src="/sites/all/themes/zen/zen_edu2010/dlfiles/ffedu.js"></script>
-<!--  Place this tag after the last plusone tag -->
-<script type="text/javascript">
-  (function() {
-    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-    po.src = 'https://apis.google.com/js/plusone.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-  })();
-</script>
-
- 
-  
-  
 </body></html>
