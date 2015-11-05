@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoworldnews.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602071304id_/http%3A//www.autoworldnews.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoworldnews.com privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105041358id_/http%3A//www.autoworldnews.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Auto World News
 
