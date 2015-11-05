@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nabble.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407005750id_/http%3A//www.nabble.com/PrivacyPolicy.jtp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nabble.com privacy policy that was archived on 2015-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151106005906id_/http%3A//www.nabble.com/PrivacyPolicy.jtp) for the most accurate reproduction.*
 
-# Nabble - Privacy Policy
+# Nabble • Privacy Policy
 
 This Privacy Policy specifies the manner in which Nabble collects, stores, uses, and discloses information about visitors. By using Nabble, you understand and accept the most recent version of this policy, which will be periodically updated. This document was last updated on April 03, 2015. 
 
