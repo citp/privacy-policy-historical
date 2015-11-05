@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the aliengearholsters.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608045516id_/http%3A//aliengearholsters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aliengearholsters.com privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105081722id_/http%3A//aliengearholsters.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+
+
 
 Your privacy is very important to us. Accordingly, we have developed this Privacy Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy: 
 
@@ -20,4 +23,4 @@ You can set preferences for how Google advertises to you using the [Google Ad P
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
 
-[ ](http://aliengearholsters.com/holsters/alien-gear-products.html/)
+[ ](http://aliengearholsters.com/alien-gear-cloak-tuck-3-0-iwb-holster-inside-the-waistband.html/)
