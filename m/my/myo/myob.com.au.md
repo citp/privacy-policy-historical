@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myob.com.au privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626065850id_/http%3A//myob.com.au/pages/privacy-policy-1258090884370) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myob.com.au privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105040743id_/http%3A//myob.com.au/pages/privacy-policy-1258090884370) for the most accurate reproduction.*
 
 # MYOB Privacy Policy
 
@@ -14,9 +14,23 @@ If you work for us, you can contact our human resources team for more informatio
 
 In this Policy, we use the terms, " **we** ", " **us** ", " **our** " or " **MYOB** " to refer to MYOB Australia Pty Ltd and its related companies.
 
+  1. What is personal information?
+  2. The kinds of personal information we may collect from you
+  3. How we collect your personal information
+  4. How we use your personal information
+  5. Accessing our websites and how we use de-identified information
+  6. Holding your personal information and keeping it safe
+  7. Your right to access and correct your personal information
+  8. Questions, concerns and complaints
+  9. Changes to this Privacy Policy
+
+
+
 **1.             ****What is personal information?**
 
 Personal information means information or an opinion that identifies you, or could reasonably identify you as an individual, whether the information or opinion is true or not.
+
+Top of Page 
 
 **2.         ****The kinds of personal information we may collect from you**
 
@@ -25,6 +39,8 @@ Personal information means information or an opinion that identifies you, or cou
 2.2     The personal information that we collect about you includes your name, postal and street address, email address, telephone number, gender, age, profession/role, place of work, information relating to the complaints you've made to us and various personal preferences. We also collect your payment information, such as your credit card or direct debit information and ABN, when you purchase a product or service from us. If you're a bank feeds user, we'll collect your account details so that you and your other authorised recipients can recieve transaction information from your nominated accounts. 
 
 2.3     Some personal information is considered 'sensitive information' under the Privacy Act. Sensitive information can include your membership of a professional or trade association (e.g. CPA status), which we might collect from you in certain situations. We'll only collect sensitive information about you if you give the information to us yourself, or otherwise consent to us having it. 
+
+Top of Page 
 
 **3.         How we collect your personal information**
 
@@ -73,6 +89,9 @@ Personal information means information or an opinion that identifies you, or cou
 (b)     that is publicly available from sources such as social media websites; and
 
 (c)     from third parties that provide us with marketing leads.
+
+  
+Top of Page 
 
 **4.         How we use your personal information**
 
@@ -156,6 +175,8 @@ Aggregated data is data that is effectively anonymous - it doesn't contain any i
 
 (c)    We'll also disclose your personal information if we are required by law or permitted by the Privacy Act to do so.
 
+Top of Page 
+
 **5.             Accessing our websites and how we use de-identified information**
 
 5.1     Our websites contain many useful services, and we’re constantly making changes and improvements to provide you with an even better website experience and to help make your business life easier.
@@ -167,6 +188,8 @@ Aggregated data is data that is effectively anonymous - it doesn't contain any i
 5.4     We use Internet Protocol (IP) addresses to analyse trends, administer our websites, track your navigation among MYOB web pages and gather broad information for aggregate use. Our web servers may also send a small data file known as a "cookie" to your internet browser or hard drive. We use cookies to track your onsite behaviour to ensure transaction pages, such as "shopping cart" interactions and support pages, work correctly. We also use cookies to personalise and improve your experience with us. Most cookies don't collect personal information and only contain coded information that can't be used by third parties to access your confidential information. Most web browsers allow you to adjust settings to erase cookies, disallow cookies, or receive a warning before a cookie is set. Please note that some parts of our websites may not function fully if you disallow cookies.
 
 5.5     In some cases we or third parties may use cookies and other technologies such as web beacons and JavaScript on our websites in connection with online services like banner advertising, website analytics and surveys. These technologies enable information to be collected about your use of our websites (including your computer’s IP address), which may be stored in the United States, Singapore, New Zealand or other countries. The information collected by these technologies give us and third party collectors the ability to deliver customised advertising content, measure advertising effectiveness, evaluate the use of our websites and other websites and provide other services relating to website activity and internet usage. We and third parties may also transfer collected information to others if required by law, or where those other parties process the information on our behalf. The services we may use from time to time include Google Analytics, Google AdSense, DoubleClick, Yahoo, Adobe, Bing, Kenshoo and Microsoft.
+
+Top of Page 
 
 **6.             Holding your personal information and keeping it safe**
 
@@ -186,6 +209,8 @@ Aggregated data is data that is effectively anonymous - it doesn't contain any i
 
 6.6     We're also committed to protecting your information offline. All of your personal and business information, not just personal information and sensitive information, is subject to access controls.
 
+Top of Page 
+
 **7.             Your right to access and correct your personal information **
 
 7.1     Subject to any exceptions in the Privacy Act, if you've provided us with personal information, you have a right to request to access or correct it. You can contact us with your request by using the contact details at the bottom of this Policy.
@@ -196,6 +221,8 @@ Aggregated data is data that is effectively anonymous - it doesn't contain any i
 
 7.4     In some circumstances we might not be able to give you access to the personal information that you have requested, or we may refuse to correct your personal information. In either of these situations, we'll let you know the reasons for our decision in writing. If we don't allow you to access or correct your personal information, and you don't agree with our decision, you can make a complaint by following the process outlined in section 8.  
 
+Top of Page 
+
 **8.             Questions, concerns and complaints**
 
 8.1     If you want to make a complaint about a breach of your privacy by us, you can contact us using the contact details at the bottom of this Policy. All complaints will be investigated by an appropriately qualified MYOB representative. We'll try to resolve your complaint as quickly as possible, and in any event within 30 days of hearing from you. If your complaint takes longer to resolve, we'll keep you informed of our progress with the investigation. We'll let you know the outcome of your investigation, including how we intend to resolve your complaint and what, if any, corrective measures will be put in place.
@@ -204,14 +231,28 @@ Aggregated data is data that is effectively anonymous - it doesn't contain any i
 
 8.3     If you aren't satisfied with our handling or resolution of your complaint, you can lodge a complaint with the Office of the Australian Information Commissioner ("OAIC"). For more information please visit the [ OAIC website](http://www.oaic.gov.au/privacy/making-a-privacy-complaint).
 
+Top of Page 
+
 **9.             Changes to this Privacy Policy**
 
 9.1      We may make changes to this Policy from time to time. Please check our website regularly for any updates to this Policy. You can also get a copy of the most current version of this Policy by either emailing or writing to the Privacy Officer using the contact details set out below.
 
 9.2      By continuing to use our website and otherwise deal with us, you accept this Policy as it applies from time to time. 
 
+Top of Page 
+
 ####  **Contacting Us**
 
 **AUSTRALIA**
 
-**Last updated:** 11 March 2015
+**Email:** [privacy_officer@myob.com.au ](mailto:privacy_officer@myob.com.au)
+
+**Post:**  
+Privacy Officer  
+MYOB Group  
+PO Box 371  
+Blackburn VIC 3130
+
+For general sales, billing and product support enquiries please call 1300 793 130
+
+**Last updated:** 21 August 2015
