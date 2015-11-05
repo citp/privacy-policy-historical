@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wenhaircare.com privacy policy that was archived on 2015-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150422220913id_/http%3A//www.wen.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wenhaircare.com privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105012901id_/http%3A//www.wen.com/privacy-policy.html) for the most accurate reproduction.*
 
 # WEN® Hair Care Privacy Policy | WEN®
 
