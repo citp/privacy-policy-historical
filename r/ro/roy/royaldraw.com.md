@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royaldraw.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407073809id_/http%3A//www.royaldraw.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royaldraw.com privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105033711id_/http%3A//www.royaldraw.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Daily Draws, Coupons, Contests and more! | RoyalDraw.com
 
@@ -10,7 +10,7 @@
 
 Privacy Policy 
 
-_Last updated February 12, 2014_
+_Last updated September 4, 2015_
 
 This Privacy Policy discloses the privacy practices in effect for the Royal Draw (http://www.royaldraw.com) website (referred to as the "Site"). Consumer Smart Media Inc. (referred to as "us", "we", or "CSM") is the provider and operator of the Site and all its contents. Please read the following to learn what information we collect from you (referred to as "you" or "User") and how we use that information. We are committed to protecting your privacy online. If you have any questions concerning this privacy policy please email us. 
 
@@ -67,17 +67,17 @@ Third-Party Advertising Companies may be employed by Royal Draw to provision ads
 
 We may also use Third-Party Service Providers to track and analyze non-personally identifying usage and volume statistical information from our Users to administer our Site, and to continuously improve its quality. We may publish this statistical information for promotional purposes, or to represent audience for advertisers. None of this statistical information constitutes Personally Identifying Information, and it is used and published only as general representative summaries of the activities of our Users. This statistical information and data is owned and used by Consumer Smart Media Inc., and is collected on our behalf. 
 
-  * **Updating information** Royal Draw believes that you should have the ability to access and edit your provided and stored Personally Identifying Information. We encourage you to promptly update your Personally Identifying Information if it changes. At any time you may manually change any of your Personally Identifying Information by logging into your account, or you can send Royal Draw an email request to [info@royalcoupon.com](mailto:info@royalcoupon.com), or a written request to: 
+  * **Updating information** Royal Draw believes that you should have the ability to access and edit your provided and stored Personally Identifying Information. We encourage you to promptly update your Personally Identifying Information if it changes. At any time you may manually change any of your Personally Identifying Information by logging into your account, or you can send Royal Draw an email request to [info@royaldraw.com](mailto:info@royalcoupon.com), or a written request to: 
 
 Consumer Smart Media Inc.   
-160 Confederation Parkway,   
-Vaughan, Ontario, L4K 4T8. 
+300 Supertest Rd., Unit 4,   
+Toronto, ON, M3J 2M2. 
 
 Please include your current account name, address, email address, and the new information you would like us to update for you. 
 
 As demonstrated above, you always have a choice in whether or not to provide Personally Identifying Information, and whether or not to provide Non-Personally Identifying Information by choosing whether or not to access our Site. 
 
-  * **Administrative and Promotional emails** Royal Draw may send you emails that relate to your activity on our Site and/or contain account and transaction information (referred to as "Administrative Emails"), as well as emails with information and updates on our products and promotional offers (referred to as "Promotional Emails"). Promotional Emails advertise our products and services, including exclusive offers, and/or the products and services of our Advertisers and Partners. If you wish to opt out of receiving our Promotional Emails, please unsubscribe by emailing us at [info@royalcoupon.com](mailto:info@royalcoupon.com), or by clicking the "Unsubscribe" link found at the bottom of all our Promotional Emails. When contacting us by email or in writing, please include your name and the email address you use to subscribe to our mailing list. 
+  * **Administrative and Promotional emails** Royal Draw may send you emails that relate to your activity on our Site and/or contain account and transaction information (referred to as "Administrative Emails"), as well as emails with information and updates on our products and promotional offers (referred to as "Promotional Emails"). Promotional Emails advertise our products and services, including exclusive offers, and/or the products and services of our Advertisers and Partners. If you wish to opt out of receiving our Promotional Emails, please unsubscribe by emailing us at [info@royaldraw.com](mailto:info@royalcoupon.com), or by clicking the "Unsubscribe" link found at the bottom of all our Promotional Emails. When contacting us by email or in writing, please include your name and the email address you use to subscribe to our mailing list. 
   * **Information security** We at Royal Draw take the security of our User information very seriously, and numerous safeguards are in place to protect Personally Identifying Information. Access to your Personally Identifying Information on our Site requires a User to provide an encrypted password. We suggest you do not share your password with anyone. In addition to password protection, your Personally Identifying Information survives on a secure server that only select personnel and contractors can access. We encrypt certain sensitive information, such as credit card information, using Secure Socket Layer ("SSL") technology in order to ensure your Personally Identifying Information is safe when being transmitted to us. 
 
 No data transmission over the Internet or any wireless network can be 100% guaranteed secure. While we employ industry-quality security measures to protect all data, and try to partner ourselves only with companies that employ the same quality of security, we cannot guarantee the security of any information transmitted to or from our Site, and are not responsible for the actions of any third parties that might receive such information. 
@@ -103,7 +103,7 @@ Areas may exist on our Site where Users can publicly post information about them
 
 **Consumer Smart Media Inc. Headquarters Address**   
 Consumer Smart Media Inc.   
-160 Confederation Parkway   
-Vaughan, Ontario, L4K 4T8   
-Email: [info@royalcoupon.com](mailto:info@royalcoupon.com).   
-Fax: (905) 760-0094 
+300 Supertest Rd., Unit 4,   
+Toronto, ON, M3J 2M2   
+Email: [info@royaldraw.com](mailto:info@royalcoupon.com).   
+Fax: 416-667-0044 
