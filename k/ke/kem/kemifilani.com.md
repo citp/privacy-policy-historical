@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kemifilani.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511051313id_/http%3A//www.kemifilani.com/p/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kemifilani.com privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105025646id_/http%3A//www.kemifilani.com/p/privacy.html) for the most accurate reproduction.*
 
 # It's Kemi Filani's blog...: Privacy |
 
