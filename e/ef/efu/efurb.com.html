@@ -1,0 +1,658 @@
+<!--The following is the downloaded HTML source of the efurb.com privacy policy that was archived on 2015-11-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151105171925id_/http%3A//www.efurb.com/privacy-policy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" class=" js csstransforms3d" style=""><head id="ctl00_Head1"><title>
+	
+</title><link rel="icon" href="/favicon.ico" type="image/x-icon"><link href="/assets/css/reset.css" rel="stylesheet"><link href="/assets/css/MyFontsWebfontsKit.css" rel="stylesheet"><link href="/assets/css/main.css?b=199" rel="stylesheet"><link href="/assets/css/banner.css" rel="stylesheet"><link href="/assets/css/dropkick.css" rel="stylesheet"><link href="/assets/css/component.css" rel="stylesheet"><link href="/assets/css/jquery.bxslider.css?b=1603" rel="stylesheet"><link href="/assets/css/responsive.css" rel="stylesheet"><link href="/assets/css/checkout-responsive.css" rel="stylesheet">
+    <!--[if IE]><script src="/assets/jscript/html5.js"></script><![endif]-->
+    <script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/api/js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://8c0b561bb3c52b9b3863-ccf7ce78c5f163454f7093fb5a9bfcfc.ssl.cf2.rackcdn.com/gate.js"></script><script src="/assets/jscript/jquery-1.11.1.min.js"></script>
+    <script src="/assets/jscript/jquery-contained-sticky-scroll.js"></script>
+    <script src="/assets/jscript/modernizr.custom.js"></script>
+    <script src="/assets/jscript/jquery.dropkick-1.0.0.js"></script>
+    <script src="/assets/jscript/jquery.bxslider.js"></script>
+    <script src="/assets/jscript/jquery.hoverIntent.minified.js"></script>
+    <script src="/assets/jscript/easyResponsiveTabs.js"></script>
+    <script src="/assets/jscript/function.js"></script>
+    <script src="/assets/jscript/fitvids.js"></script>
+    <style type="text/css">
+        iframe[name='google_conversion_frame'] {
+            height: 0 !important;
+            width: 0 !important;
+            line-height: 0 !important;
+            font-size: 0 !important;
+            margin-top: -13px;
+            float: left;
+        }
+    </style>
+    <script>
+        $(document).ready(function () {
+            $('#srch_mob').keypress(function (e) {
+                var code = (e.keyCode ? e.keyCode : e.which);
+                if ((code == 13) || (code == 10)) {
+                    jQuery(this).blur();
+                    var msg = $('#srch_mob').val();
+                    window.parent.location.href = "/search-result.html?srch=" + msg;
+
+                    return true;
+                }
+            });
+        });
+
+
+        function AddToCart(CatalogItemID, Quantity) {
+            $.ajax({
+                type: "POST",
+                url: "/common_methods.aspx/AddtoCart",
+                data: '{catalog_item_id: "' + CatalogItemID + '", qty: "' + Quantity + '" }',
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                success: OnSuccess,
+                failure: function (response) {
+                    //alert(response.d);
+                },
+                complete: function (data) {
+                    window.location.href = "/cart.aspx"
+                }
+            });
+
+        }
+        function RemoveFromCart(CartID) {
+            //  if (confirm("Are you sure remove?")) {
+            $.ajax({
+                type: "POST",
+                url: "/cart.aspx/DeleteCart",
+                data: '{id: "' + CartID + '" }',
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                success: OnSuccess,
+                failure: function (response) {
+                    //alert(response.d);
+                },
+                complete: function (data) {
+                    window.location.reload(1);
+                }
+            });
+        }
+        //  }
+
+        function RemoveTempCart(CatalogItemID) {
+            //   if (confirm("Are you sure remove?")) {
+            $.ajax({
+                type: "POST",
+                url: "/cart.aspx/DeleteTempCart",
+                data: '{id: "' + CatalogItemID + '" }',
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                success: OnSuccess,
+                failure: function (response) {
+                    //alert(response.d);
+                },
+                complete: function (data) {
+                    window.location.reload(1);
+                }
+            });
+        }
+        // }
+
+        function AddSaveForLater(CartLineItemID, CatalogItemID) {
+            // if (confirm("Are you this item save for later?")) {
+            $.ajax({
+                type: "POST",
+                url: "/cart.aspx/AddSaveForLater",
+                data: '{CartLineItemID: "' + CartLineItemID + '", CatalogItemID: "' + CatalogItemID + '" }',
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                success: OnSuccess,
+                failure: function (response) {
+                    //alert(response.d);
+                },
+                complete: function (data) {
+                    window.location.reload(1);
+                }
+            });
+        }
+        //  }
+
+        function AddTempSaveForLater(CatalogItemID, Qty) {
+            //    if (confirm("Are you this item save for later?")) {
+            $.ajax({
+                type: "POST",
+                url: "/cart.aspx/AddTempSaveForLater",
+                data: '{CatalogItemID: "' + CatalogItemID + '", Qty: "' + Qty + '" }',
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                success: OnSuccess,
+                failure: function (response) {
+                    //alert(response.d);
+                },
+                complete: function (data) {
+                    window.location.reload(1);
+                }
+            });
+        }
+        // }
+
+        function UpdateCartQty(_dd_id, catalog_item_id, cart_id) {
+            var e = document.getElementById(_dd_id);
+            var QtyVal = e.options[e.selectedIndex].text;
+            $.ajax({
+                type: "POST",
+                url: "/cart.aspx/UpdateCartQty",
+                data: '{CatalogItemId: "' + catalog_item_id + '", CartId: "' + cart_id + '", Qty: "' + QtyVal + '"}',
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                success: OnSuccess,
+                failure: function (response) {
+                    //alert(response.d);
+                },
+                complete: function (data) {
+                    //alert("Cart Item has been updated.")
+                    window.location.reload(1);
+                }
+            });
+            return false;
+        }
+
+        function UpdateTempCartQty(_dd_id, catalog_item_id) {
+            var e = document.getElementById(_dd_id);
+            var QtyVal = e.options[e.selectedIndex].text;
+
+            $.ajax({
+                type: "POST",
+                url: "/cart.aspx/UpdateTempCartQty",
+                data: '{CatalogItemId: "' + catalog_item_id + '", Qty: "' + QtyVal + '"}',
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                success: OnSuccess,
+                failure: function (response) {
+                    //alert(response.d);
+                },
+                complete: function (data) {
+                    //alert("Cart Item has been updated.")
+                    window.location.reload(1);
+                }
+            });
+        }
+        function MoveCart(CatalogItemID) {
+            //   if (confirm("Are you sure move this item to cart ?")) {
+            $.ajax({
+                type: "POST",
+                url: "cart.aspx/MoveCart",
+                data: '{id: "' + CatalogItemID + '" }',
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                success: OnSuccess,
+                failure: function (response) {
+                    //alert(response.d);
+                },
+                complete: function (data) {
+                    window.location.reload(1);
+                }
+            });
+        }
+        //  }
+
+        function TempMoveCart(CatalogItemID) {
+            // if (confirm("Are you sure move this item to cart ?")) {
+            $.ajax({
+                type: "POST",
+                url: "cart.aspx/TempMoveCart",
+                data: '{id: "' + CatalogItemID + '" }',
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                success: OnSuccess,
+                failure: function (response) {
+                    //alert(response.d);
+                },
+                complete: function (data) {
+                    window.location.reload(1);
+                }
+            });
+        }
+        // }
+
+        function OnSuccess(response) {
+            //alert(response.d);
+        }
+    </script>
+    <script src="/assets/jscript/jquery-ui.js"></script>
+    
+
+
+    
+
+    <script type="text/javascript">
+        if (typeof ROIStorage === 'undefined') {
+            (function (d, b, c, f) { d[b] = {}; d[b].windowName = d.name; d[b].GoogleAnalyticsObject = c; d[b].q = []; d[c] = function () { d[b].q.push(arguments) }; d[c].q = d[c].q || []; d[b].roiq = []; d[b].analyticsJsNotLoaded = true; d[c].q.push([function () { d[b].realGa = d[c]; d[b].analyticsJsNotLoaded = false; d[c] = function () { if (typeof arguments[0] === "function") { d[b].realGa(arguments) } else { d[b].q.push(arguments) } }; d[b].roiq.push = function () { d[b].realGa.apply(d, arguments) }; for (f = 0; f < d[b].roiq.length; f += 1) { d[b].realGa.call(d, d[b].roiq[f]) } }]) })(window, "ROIStorage", "ga");
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://8c0b561bb3c52b9b3863-ccf7ce78c5f163454f7093fb5a9bfcfc.ssl.cf2.rackcdn.com/gate.js' : 'http://44453012edc798bdaece-ccf7ce78c5f163454f7093fb5a9bfcfc.r56.cf2.rackcdn.com/gate.js');
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(ga, s);
+            })();
+        }
+    </script>
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-64196263-1', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+    
+<meta name="keywords" content=""><meta name="description" content=""><meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, target-densityDpi=device-dpi, user-scalable=0"><meta http-equiv="Content-Language" content="en-us"><meta name="robots" content="index,follow"><style id="fit-vids-style">.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style></head>
+<body style="">
+    <form name="aspnetForm" method="post" action="http://www.efurb.com/prvcy_policy.aspx" id="aspnetForm" class="form-main-outr">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWCGYPZBYEZg8WAh4HVmlzaWJsZWhkAgEPFgIfAGhkAgEPFgIeBmFjdGlvbgUmaHR0cDovL3d3dy5lZnVyYi5jb20vcHJ2Y3lfcG9saWN5LmFzcHgWBgIKDw8WAh4EVGV4dAUIc2Vzc2lvbjpkZAIODxYCHwIFWjwhLS08Yj5Gcm9tIENhY2hlOi0gPC9iPiZuYnNwOyZuYnNwO0RhdGU6IDExLzUvMjAxNSAxMToxOToyMSBBTSZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOy0tPmQCEA8WAh8CBY4FPCEtLSBGYWNlYm9vayBQaXhlbCBDb2RlIC0tPjxzY3JpcHQ+IWZ1bmN0aW9uKGYsYixlLHYsbix0LHMpe2lmKGYuZmJxKXJldHVybjtuPWYuZmJxPWZ1bmN0aW9uKCl7bi5jYWxsTWV0aG9kP24uY2FsbE1ldGhvZC5hcHBseShuLGFyZ3VtZW50cyk6bi5xdWV1ZS5wdXNoKGFyZ3VtZW50cyl9O2lmKCFmLl9mYnEpZi5fZmJxPW47bi5wdXNoPW47bi5sb2FkZWQ9ITA7bi52ZXJzaW9uPScyLjAnO24ucXVldWU9W107dD1iLmNyZWF0ZUVsZW1lbnQoZSk7dC5hc3luYz0hMDt0LnNyYz12O3M9Yi5nZXRFbGVtZW50c0J5VGFnTmFtZShlKVswXTtzLnBhcmVudE5vZGUuaW5zZXJ0QmVmb3JlKHQscyl9KHdpbmRvdyxkb2N1bWVudCwnc2NyaXB0JywnLy9jb25uZWN0LmZhY2Vib29rLm5ldC9lbl9VUy9mYmV2ZW50cy5qcycpO2ZicSgnaW5pdCcsICcxNjYwNTI3NDI3NTU5NzY1Jyk7ZmJxKCd0cmFjaycsICJWaWV3Q29udGVudCIpOzwvc2NyaXB0Pjxub3NjcmlwdD48aW1nIGhlaWdodD0iMSIgd2lkdGg9IjEiIHN0eWxlPSJkaXNwbGF5Om5vbmUic3JjID0gImh0dHBzOi8vd3d3LmZhY2Vib29rLmNvbS90cj9pZD0xNjYwNTI3NDI3NTU5NzY1JmV2PVBhZ2VWaWV3Jm5vc2NyaXB0PTEiLz48L25vc2NyaXB0PjwhLS0gRW5kIEZhY2Vib29rIFBpeGVsIENvZGUgLS0+ZAICDxYCHwIFgQE8c2NyaXB0IHR5cGU9J3RleHQvamF2YXNjcmlwdCc+dmFyIGdvb2dsZV90YWdfcGFyYW1zID0geyBlY29tbV9wcm9kaWQ6ICcnLGVjb21tX3BhZ2V0eXBlOiAnb3RoZXInLGVjb21tX3RvdGFsdmFsdWU6ICcnfTs8L3NjcmlwdD5kAgMPFgIfAgWkAzxzY3JpcHQgdHlwZT0ndGV4dC9qYXZhc2NyaXB0Jz52YXIgZ3RzID0gZ3RzIHx8IFtdOyBndHMucHVzaChbImlkIiwgIjcwNDkwMyJdKTtndHMucHVzaChbImJhZGdlX3Bvc2l0aW9uIiwgIkJPVFRPTV9SSUdIVCJdKTtndHMucHVzaChbImxvY2FsZSIsICJlbl9VUyJdKTsoZnVuY3Rpb24gKCkge3ZhciBndHMgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCJzY3JpcHQiKTtndHMudHlwZSA9ICJ0ZXh0L2phdmFzY3JpcHQiO2d0cy5hc3luYyA9IHRydWU7Z3RzLnNyYyA9ICJodHRwczovL3d3dy5nb29nbGVjb21tZXJjZS5jb20vdHJ1c3RlZHN0b3Jlcy9hcGkvanMiO3ZhciBzID0gZG9jdW1lbnQuZ2V0RWxlbWVudHNCeVRhZ05hbWUoInNjcmlwdCIpWzBdO3MucGFyZW50Tm9kZS5pbnNlcnRCZWZvcmUoZ3RzLCBzKTt9KSgpOzwvc2NyaXB0PmRk1OdGEX4ShXHRMOSErZukNKQBzJ8azlEZruz3b2dKgt8=">
+
+
+<script src="/ScriptResource.axd?d=HinrlX4chWwW6wq3XvqJNwXgE4TXHev_ZCJuwosFK887JL-HSj2Atx7apj8W1og3gJLMKEGY-LBl8INSPoxSaMZO_Brk-ESlKAzQpxYWQ2YA6BDju8zoN0YE8oncUCg62W75xIinFVXr4fM2txSYuV0Ey50qm4AO6P5mfGdZrZj7IqJ47BaFXL6AqN-oeTWx0&amp;t=7b689585" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="C162FC5D">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAY/LXgII1aZ8jIumB2KI+idj5xrIvLFVGyha87gZDe0vZl/xvwsGLJqgmwjoMVzVkFM5RwglrSVqLMoMHRNloIaqgOZ7+0xtwU2Rhn4QbYlgYg6zakxxRlFQtxpBqpfWSrnFalkup/cibTlSSed2RR3mAP8N+6BqPEWSYRfzMOrrg==">
+        
+
+
+        <div class="container">
+
+
+
+            <div class="mp-pusher" id="mp-pusher">
+                <div id="mp-menu" class="mp-menu mp-cover">
+                    <div class="mp-level noSelect" data-level="1" style="height: 0px;">
+                        <ul><li class="icon icon-arrow-left icons"><a href="http://www.efurb.com/popup/login.aspx" class="icon icon-wall hideblue popup-trigger">Login/Register</a></li>
+                        <li class="icon icon-arrow-left"><a class="icon icon-wall" href="/product-listing/Electronics.html" title="Electronics">Electronics</a><div class="mp-level" data-level="2" style="height: 0px;"><h2 class="icon icon-world nav-title mp-back">BACK TO MAIN MENU</h2><ul class="sub-menu-mob"><li class="icon brands"><a href="/product-listing/Electronics.html" title="Electronics">All ELECTRONICS</a></li><li class="icon brands"><a href="/Listing/Electronics/Office.html">Office</a></li><li class="icon"><a href="/product-listing/Electronics/Projectors.html">Projectors</a></li><li class="icon"><a href="/product-listing/Electronics/Barcode-Scanners.html">Barcode Scanners</a></li><li class="icon"><a href="/product-listing/Electronics/Printers.html">Printers</a></li><li class="icon"><a href="/product-listing/Electronics/VoIP-Phone-Service.html">VoIP Phone Service</a></li><li class="icon"><a href="/product-listing/Electronics/VOIP-Phones.html">VOIP Phones</a></li><li class="icon brands"><a href="/Listing/Electronics/Car-Electronics---GPS.html">Car Electronics &amp; GPS</a></li><li class="icon"><a href="/product-listing/Electronics/GPS-Devices.html">GPS Devices</a></li><li class="icon"><a href="/product-listing/Electronics/Bluetooth-Speakerphones.html">Bluetooth Speakerphones</a></li><li class="icon"><a href="/product-listing/Electronics/Car-Video.html">Car Video</a></li><li class="icon brands"><a href="/Listing/Electronics/Wearable-Tech.html">Wearable Tech</a></li><li class="icon"><a href="/product-listing/Electronics/Smart-Watches.html">Smart Watches</a></li><li class="icon"><a href="/product-listing/Electronics/Fitness-Trackers.html">Fitness Trackers</a></li><li class="icon brands"><a href="/Listing/Electronics/Security---Surveillance.html">Security &amp; Surveillance</a></li><li class="icon"><a href="/product-listing/Electronics/Baby-Monitors.html">Baby Monitors</a></li><li class="icon"><a href="/product-listing/Electronics/Wireless-IP-Cameras.html">Wireless IP Cameras</a></li><li class="icon brands"><a href="/Listing/Electronics/Toys--Hobbies.html">Toys &amp; Hobbies</a></li><li class="icon"><a href="/product-listing/Electronics/Drones.html">Drones</a></li><li class="icon"><a href="/product-listing/Electronics/3D-Printing.html">3D Printing</a></li><li class="icon brands"><a href="/Listing/Electronics/Electronics-Accessories.html">Electronics Accessories</a></li><li class="icon"><a href="/product-listing/Electronics/Powerstrips.html">Powerstrips</a></li><li class="icon"><a href="/product-listing/Electronics/Cords-Cables.html">Cords &amp; Cables</a></li></ul></div></li><li class="icon icon-arrow-left"><a class="icon icon-wall" href="/product-listing/Home-Kitchen.html" title="Home &amp; Kitchen">Home &amp; Kitchen</a><div class="mp-level" data-level="2" style="height: 0px;"><h2 class="icon icon-world nav-title mp-back">BACK TO MAIN MENU</h2><ul class="sub-menu-mob"><li class="icon brands"><a href="/product-listing/Home-Kitchen.html" title="Home &amp; Kitchen">All HOME &amp; KITCHEN</a></li><li class="icon brands"><a href="/Listing/Home-Kitchen/Kitchen-Appliances.html">Kitchen Appliances</a></li><li class="icon"><a href="/product-listing/Home-Kitchen/Blenders.html">Blenders</a></li><li class="icon"><a href="/product-listing/Home-Kitchen/Countertop-Cooking.html">Countertop Cooking</a></li><li class="icon"><a href="/product-listing/Home-Kitchen/Electric-Mixers.html">Electric Mixers</a></li><li class="icon"><a href="/product-listing/Home-Kitchen/Food-Processors.html">Food Processors</a></li><li class="icon"><a href="/product-listing/Home-Kitchen/Toasters.html">Toasters</a></li><li class="icon"><a href="/product-listing/Home-Kitchen/Coffee-Makers.html">Coffee Makers</a></li><li class="icon"><a href="/product-listing/Home-Kitchen/Juicers.html">Juicers</a></li><li class="icon"><a href="/product-listing/Home-Kitchen/Kitchen-Gadgets.html">Kitchen Gadgets</a></li><li class="icon"><a href="/product-listing/Home-Kitchen/Microwaves.html">Microwaves</a></li><li class="icon"><a href="/product-listing/Home-Kitchen/Slow-Cookers.html">Slow Cookers</a></li><li class="icon"><a href="/product-listing/Home-Kitchen/Wine-Coolers.html">Wine Coolers</a></li><li class="icon"><a href="/product-listing/Home-Kitchen/Ice-Makers.html">Ice Makers</a></li><li class="icon brands"><a href="/Listing/Home-Kitchen/Floor---Carpet-Care.html">Floor &amp; Carpet Care</a></li><li class="icon"><a href="/product-listing/Home-Kitchen/Vacuums.html">Vacuums</a></li><li class="icon"><a href="/product-listing/Home-Kitchen/Robotic-Vacuums.html">Robotic Vacuums</a></li><li class="icon"><a href="/product-listing/Home-Kitchen/Handheld-Vacuums.html">Handheld Vacuums</a></li><li class="icon"><a href="/product-listing/Home-Kitchen/Carpet-Cleaners.html">Carpet Cleaners</a></li><li class="icon"><a href="/product-listing/Home-Kitchen/Steam-Mops.html">Steam Mops</a></li><li class="icon"><a href="/product-listing/Home-Kitchen/Portable-Steamers.html">Portable Steamers</a></li><li class="icon brands"><a href="/Listing/Home-Kitchen/Heating--Cooling.html">Heating &amp; Cooling</a></li><li class="icon"><a href="/product-listing/Home-Kitchen/Humidifiers.html">Humidifiers</a></li><li class="icon"><a href="/product-listing/Home-Kitchen/Dehumidifiers.html">Dehumidifiers</a></li><li class="icon"><a href="/product-listing/Home-Kitchen/Heaters.html">Heaters</a></li><li class="icon brands"><a href="/Listing/Home-Kitchen/Garment-Care.html">Garment Care</a></li><li class="icon"><a href="/product-listing/Home-Kitchen/Garment-Steamers.html">Garment Steamers</a></li><li class="icon"><a href="/product-listing/Home-Kitchen/Irons.html">Irons</a></li><li class="icon brands"><a href="/Listing/Home-Kitchen/Power-Tools.html">Power Tools</a></li><li class="icon"><a href="/product-listing/Home-Kitchen/Power-Tool-Accessories.html">Power Tool Accessories</a></li><li class="icon"><a href="/product-listing/Home-Kitchen/Power-Drills.html">Power Drills</a></li><li class="icon brands"><a href="/Listing/Home-Kitchen/Lighting.html">Lighting</a></li><li class="icon"><a href="/product-listing/Home-Kitchen/Outdoor-Lighting.html">Outdoor Lighting</a></li><li class="icon"><a href="/product-listing/Home-Kitchen/Flashlights.html">Flashlights</a></li><li class="icon brands"><a href="/Listing/Home-Kitchen/Lawn-Care.html">Lawn Care</a></li><li class="icon"><a href="/product-listing/Home-Kitchen/Edgers-Trimmers.html">Edgers &amp; Trimmers</a></li><li class="icon brands"><a href="/Listing/Home-Kitchen/Home-Phones.html">Home Phones</a></li><li class="icon"><a href="/product-listing/Home-Kitchen/Cordless-Phones.html">Cordless Phones</a></li><li class="icon brands"><a href="/Listing/Home-Kitchen/SMART-Home-Products.html">SMART Home Products</a></li><li class="icon"><a href="/product-listing/Home-Kitchen/Home-Automation.html">Home Automation</a></li></ul></div></li><li class="icon icon-arrow-left"><a class="icon icon-wall" href="/product-listing/Computers-Tablets.html" title="Computers &amp; Tablets">Computers &amp; Tablets</a><div class="mp-level" data-level="2" style="height: 0px;"><h2 class="icon icon-world nav-title mp-back">BACK TO MAIN MENU</h2><ul class="sub-menu-mob"><li class="icon brands"><a href="/product-listing/Computers-Tablets.html" title="Computers &amp; Tablets">All COMPUTERS &amp; TABLETS</a></li><li class="icon brands"><a href="/Listing/Computers-Tablets/Laptops---Desktops.html">Laptops &amp; Desktops</a></li><li class="icon"><a href="/product-listing/Computers-Tablets/Laptops-.html">Laptops </a></li><li class="icon"><a href="/product-listing/Computers-Tablets/Netbooks.html">Netbooks</a></li><li class="icon"><a href="/product-listing/Computers-Tablets/Servers.html">Servers</a></li><li class="icon"><a href="/product-listing/Computers-Tablets/Desktops.html">Desktops</a></li><li class="icon"><a href="/product-listing/Computers-Tablets/All-in-Ones.html">All-in-Ones</a></li><li class="icon brands"><a href="/Listing/Computers-Tablets/Computer-Accessories.html">Computer Accessories</a></li><li class="icon"><a href="/product-listing/Computers-Tablets/Monitors.html">Monitors</a></li><li class="icon"><a href="/product-listing/Computers-Tablets/3D-Printers.html">3D Printers</a></li><li class="icon"><a href="/product-listing/Computers-Tablets/Webcams.html">Webcams</a></li><li class="icon"><a href="/product-listing/Computers-Tablets/Scanners.html">Scanners</a></li><li class="icon"><a href="/product-listing/Computers-Tablets/Speakers.html">Speakers</a></li><li class="icon"><a href="/product-listing/Computers-Tablets/USB-Mics.html">USB Mics</a></li><li class="icon"><a href="/product-listing/Computers-Tablets/Printers.html">Printers</a></li><li class="icon"><a href="/product-listing/Computers-Tablets/Headsets.html">Headsets</a></li><li class="icon"><a href="/product-listing/Computers-Tablets/Touchpads.html">Touchpads</a></li><li class="icon"><a href="/product-listing/Computers-Tablets/Keyboards.html">Keyboards</a></li><li class="icon"><a href="/product-listing/Computers-Tablets/Mice.html">Mice</a></li><li class="icon"><a href="/product-listing/Computers-Tablets/Optical-Drives.html">Optical Drives</a></li><li class="icon brands"><a href="/Listing/Computers-Tablets/Hard-Drives---Storage.html">Hard Drives &amp; Storage</a></li><li class="icon"><a href="/product-listing/Computers-Tablets/External-Hard-Drives-.html">External Hard Drives </a></li><li class="icon"><a href="/product-listing/Computers-Tablets/Internal-Hard-Drives.html">Internal Hard Drives</a></li><li class="icon brands"><a href="/Listing/Computers-Tablets/Tablets---iPads.html">Tablets &amp; iPads</a></li><li class="icon"><a href="/product-listing/Computers-Tablets/Tablet-Accessories.html">Tablet Accessories</a></li><li class="icon"><a href="/product-listing/Computers-Tablets/E-Readers.html">E-Readers</a></li><li class="icon"><a href="/product-listing/Computers-Tablets/Tablets.html">Tablets</a></li><li class="icon brands"><a href="/Listing/Computers-Tablets/Networking.html">Networking</a></li><li class="icon"><a href="/product-listing/Computers-Tablets/Network-Switches.html">Network Switches</a></li><li class="icon"><a href="/product-listing/Computers-Tablets/Routers.html">Routers</a></li><li class="icon"><a href="/product-listing/Computers-Tablets/Wi-Fi-Hotspots.html">Wi-Fi Hotspots</a></li><li class="icon"><a href="/product-listing/Computers-Tablets/Range-Extenders.html">Range Extenders</a></li><li class="icon"><a href="/product-listing/Computers-Tablets/Network-Adaptors.html">Network Adaptors</a></li></ul></div></li><li class="icon icon-arrow-left"><a class="icon icon-wall" href="/product-listing/Camera-Video.html" title="Camera &amp; Video">Camera &amp; Video</a><div class="mp-level" data-level="2" style="height: 0px;"><h2 class="icon icon-world nav-title mp-back">BACK TO MAIN MENU</h2><ul class="sub-menu-mob"><li class="icon brands"><a href="/product-listing/Camera-Video.html" title="Camera &amp; Video">All CAMERA &amp; VIDEO</a></li><li class="icon brands"><a href="/Listing/Camera-Video/Cameras.html">Cameras</a></li><li class="icon"><a href="/product-listing/Camera-Video/Point-Shoot-Cameras.html">Point &amp; Shoot Cameras</a></li><li class="icon"><a href="/product-listing/Camera-Video/Mirrorless-Cameras.html">Mirrorless Cameras</a></li><li class="icon"><a href="/product-listing/Camera-Video/DSLR-Cameras.html">DSLR Cameras</a></li><li class="icon"><a href="/product-listing/Camera-Video/Camcorders.html">Camcorders</a></li><li class="icon"><a href="/product-listing/Camera-Video/Action-Cameras.html">Action Cameras</a></li><li class="icon"><a href="/product-listing/Camera-Video/Webcams.html">Webcams</a></li></ul></div></li><li class="icon icon-arrow-left"><a class="icon icon-wall" href="/product-listing/TV-Entertainment.html" title="TV &amp; Entertainment">TV &amp; Entertainment</a><div class="mp-level" data-level="2" style="height: 0px;"><h2 class="icon icon-world nav-title mp-back">BACK TO MAIN MENU</h2><ul class="sub-menu-mob"><li class="icon brands"><a href="/product-listing/TV-Entertainment.html" title="TV &amp; Entertainment">All TV &amp; ENTERTAINMENT</a></li><li class="icon brands"><a href="/Listing/TV-Entertainment/Televisions.html">Televisions</a></li><li class="icon"><a href="/product-listing/TV-Entertainment/HDTVs.html">HDTVs</a></li><li class="icon"><a href="/product-listing/TV-Entertainment/Projectors.html">Projectors</a></li><li class="icon"><a href="/product-listing/TV-Entertainment/Universal-Remotes.html">Universal Remotes</a></li><li class="icon brands"><a href="/Listing/TV-Entertainment/Home-Audio.html">Home Audio</a></li><li class="icon"><a href="/product-listing/TV-Entertainment/Soundbars.html">Soundbars</a></li><li class="icon"><a href="/product-listing/TV-Entertainment/Speakers.html">Speakers</a></li><li class="icon"><a href="/product-listing/TV-Entertainment/Receivers-AV-Products.html">Receivers &amp; AV Products</a></li><li class="icon"><a href="/product-listing/TV-Entertainment/Home-Theater-Systems.html">Home Theater Systems</a></li><li class="icon"><a href="/product-listing/TV-Entertainment/Subwoofers.html">Subwoofers</a></li><li class="icon brands"><a href="/Listing/TV-Entertainment/Entertainment.html">Entertainment</a></li><li class="icon"><a href="/product-listing/TV-Entertainment/DVD-Players.html">DVD Players</a></li><li class="icon"><a href="/product-listing/TV-Entertainment/Blu-ray-Players.html">Blu-ray Players</a></li><li class="icon brands"><a href="/Listing/TV-Entertainment/Cord-Cutting.html">Cord-Cutting</a></li><li class="icon"><a href="/product-listing/TV-Entertainment/Streaming-Media-Players.html">Streaming Media Players</a></li><li class="icon"><a href="/product-listing/TV-Entertainment/TV-Antennas.html">TV Antennas</a></li></ul></div></li><li class="icon icon-arrow-left"><a class="icon icon-wall" href="/product-listing/Cell-Phones.html" title="Cell Phones">Cell Phones</a><div class="mp-level" data-level="2" style="height: 0px;"><h2 class="icon icon-world nav-title mp-back">BACK TO MAIN MENU</h2><ul class="sub-menu-mob"><li class="icon brands"><a href="/product-listing/Cell-Phones.html" title="Cell Phones">All CELL PHONES</a></li><li class="icon brands"><a href="/Listing/Cell-Phones/Cell-Phones.html">Cell Phones</a></li><li class="icon"><a href="/product-listing/Cell-Phones/No-Contract-Phones.html">No-Contract Phones</a></li><li class="icon"><a href="/product-listing/Cell-Phones/Unlocked-Phones.html">Unlocked Phones</a></li><li class="icon brands"><a href="/Listing/Cell-Phones/Cell-Phone-Accessories.html">Cell Phone Accessories</a></li><li class="icon"><a href="/product-listing/Cell-Phones/Bluetooth-Headsets.html">Bluetooth Headsets</a></li><li class="icon"><a href="/product-listing/Cell-Phones/Cell-Phone-Cases.html">Cell Phone Cases</a></li><li class="icon"><a href="/product-listing/Cell-Phones/Smart-Watches.html">Smart Watches</a></li><li class="icon"><a href="/product-listing/Cell-Phones/Mobile-Hotspots.html">Mobile Hotspots</a></li><li class="icon"><a href="/product-listing/Cell-Phones/Bluetooth-Speakerphones.html">Bluetooth Speakerphones</a></li><li class="icon"><a href="/product-listing/Cell-Phones/Charging-Stations.html">Charging Stations</a></li></ul></div></li><li class="icon icon-arrow-left"><a class="icon icon-wall" href="/product-listing/Personal-Audio.html" title="Personal Audio">Personal Audio</a><div class="mp-level" data-level="2" style="height: 0px;"><h2 class="icon icon-world nav-title mp-back">BACK TO MAIN MENU</h2><ul class="sub-menu-mob"><li class="icon brands"><a href="/product-listing/Personal-Audio.html" title="Personal Audio">All PERSONAL AUDIO</a></li><li class="icon brands"><a href="/Listing/Personal-Audio/Personal-Audio.html">Personal Audio</a></li><li class="icon"><a href="/product-listing/Personal-Audio/MP3-Players.html">MP3 Players</a></li><li class="icon"><a href="/product-listing/Personal-Audio/Bluetooth-Speakers.html">Bluetooth Speakers</a></li><li class="icon"><a href="/product-listing/Personal-Audio/Headphones.html">Headphones</a></li><li class="icon"><a href="/product-listing/Personal-Audio/Sound-Systems.html">Sound Systems</a></li></ul></div></li><li class="icon icon-arrow-left"><a class="icon icon-wall" href="/product-listing/Gaming.html" title="Gaming">Gaming</a><div class="mp-level" data-level="2" style="height: 0px;"><h2 class="icon icon-world nav-title mp-back">BACK TO MAIN MENU</h2><ul class="sub-menu-mob"><li class="icon brands"><a href="/product-listing/Gaming.html" title="Gaming">All GAMING</a></li><li class="icon brands"><a href="/Listing/Gaming/Video-Games.html">Video Games</a></li><li class="icon"><a href="/product-listing/Gaming/Gaming-Consoles.html">Gaming Consoles</a></li><li class="icon brands"><a href="/Listing/Gaming/Gaming-Accessories.html">Gaming Accessories</a></li><li class="icon"><a href="/product-listing/Gaming/Gaming-Headsets.html">Gaming Headsets</a></li><li class="icon"><a href="/product-listing/Gaming/Gaming-Keyboards.html">Gaming Keyboards</a></li><li class="icon"><a href="/product-listing/Gaming/Gaming-Mice.html">Gaming Mice</a></li><li class="icon"><a href="/product-listing/Gaming/Keypads.html">Keypads</a></li><li class="icon"><a href="/product-listing/Gaming/Controllers-Joysticks.html">Controllers &amp; Joysticks</a></li></ul></div></li>
+                        <li class="icn-hide"><a href="http://www.efurb.com/contact-us.html" class="icon icon-wall popup-trigger">Contact Us / FAQ</a></li><li class="icn-hide"><a href="http://www.efurb.com/about-us.html" class="icon icon-wall popup-trigger">About eFurb</a></li></ul>
+                    </div>
+                </div>
+                <div class="scroller">
+                    <!-- mobile cart dropdown -->
+                    
+                    <!-- end mobile cart dropdown -->
+                    <section class="topBar gap">
+
+                        <a href="" class="watchVideo" data-video-source="W5es4eG5WgM">
+                            <span class="floatL svg-wtsnew">What is New</span></a>
+                        
+                        
+
+                        <ul>
+                            <li class="phn">855.953.3872</li>
+                            <li class="mail"><a class="popup-trigger" href="http://www.efurb.com/popup/questions-or-comments.aspx">Email Us</a></li>
+                        </ul>
+                        <p>
+                            <span>
+                                <a class="popup-trigger freShpng" href="http://www.efurb.com/popup/free-shipping.html">Free Shipping and Free Returns</a></span><span>
+                                    <a class="popup-trigger oneYearWrty" href="http://www.efurb.com/popup/one-year-warranty.html">1-Year Warranty</a></span>
+                        </p>
+                    </section>
+                    <header class="gap">
+                        <p class="nav-click"><a href="javascript:void(0);" id="trigger" class="menu-trigger">Open/Close Menu</a></p>
+
+                        <div class="logo">
+                            <a href="http://www.efurb.com/">efurb</a>
+                        </div>
+
+                        <section class="allDropdown" style="width: 848px;">
+
+                            
+
+  <script type="text/javascript">
+      function search_Mob() {
+          // look for window.event in case event isn't passed in
+
+          var srmval = $("#srch_mob").val().trim();
+          if (srmval != '') {
+              $('#ctl00_department_menu_hid_srval').val(srmval);
+              $('#ctl00_department_menu_btnSearch').click();
+
+          }
+          return false;
+      }
+
+      function searchKeyPressMob(e) {
+          // look for window.event in case event isn't passed in
+
+          if (typeof e == 'undefined' && window.event) { e = window.event; }
+          if (e.keyCode == 13) {
+
+              var srmval = $("#srch_mob").val().trim();
+
+              if (srmval != '') {
+
+                  $('#ctl00_department_menu_hid_srval').val(srmval);
+                  $('#ctl00_department_menu_btnSearch').click();
+
+              }
+          }
+          return false;
+      }
+
+      function search_Click() {
+          var srval = $("#txtSearch").val().trim();
+          if (srval != 'What are you looking for?') {
+              var drval = $('#normal_select').val();
+              $('#ctl00_department_menu_hid_drval').val(drval);
+              $('#ctl00_department_menu_hid_srval').val(srval);
+              $('#ctl00_department_menu_btnSearch').click();
+          }
+          return false;
+      }
+
+      function searchKeyPress(e) {
+          // look for window.event in case event isn't passed in
+          if (typeof e == 'undefined' && window.event) { e = window.event; }
+
+          if (e.keyCode == 13) {
+
+              var srval = $("#txtSearch").val().trim();
+
+              if (srval != '') {
+
+                  var drval = $('#normal_select').val();
+                  $('#ctl00_department_menu_hid_drval').val(drval);
+                  $('#ctl00_department_menu_hid_srval').val(srval);
+                  $('#ctl00_department_menu_btnSearch').click();
+
+              }
+
+          }
+          return false;
+      }
+      </script>
+<button title="Search" onclick="return search_Click();">Search</button>
+                            <div id="ctl00_department_menu_pnl_top_search">
+	
+<div class="allField">
+    
+    <div class="dk-select " id="dk0-normal_select"><div class="dk-selected" tabindex="0" id="dk0-combobox" aria-live="assertive" aria-owns="dk0-listbox" role="combobox">All</div><ul class="dk-select-options" id="dk0-listbox" role="listbox" aria-expanded="false"><li class="dk-option  dk-option-selected" data-value="0" role="option" aria-selected="true" id="dk0-0">All</li><li class="dk-option " data-value="Electronics" role="option" aria-selected="false" id="dk0-Electronics">Electronics</li><li class="dk-option " data-value="Home-Kitchen" role="option" aria-selected="false" id="dk0-Home-Kitchen">Home &amp; Kitchen</li><li class="dk-option " data-value="Computers-Tablets" role="option" aria-selected="false" id="dk0-Computers-Tablets">Computers &amp; Tablets</li><li class="dk-option " data-value="Camera-Video" role="option" aria-selected="false" id="dk0-Camera-Video">Camera &amp; Video</li><li class="dk-option " data-value="TV-Entertainment" role="option" aria-selected="false" id="dk0-TV-Entertainment">TV &amp; Entertainment</li><li class="dk-option " data-value="Cell-Phones" role="option" aria-selected="false" id="dk0-Cell-Phones">Cell Phones</li><li class="dk-option " data-value="Personal-Audio" role="option" aria-selected="false" id="dk0-Personal-Audio">Personal Audio</li><li class="dk-option " data-value="Gaming" role="option" aria-selected="false" id="dk0-Gaming">Gaming</li></ul></div><select id="normal_select" name="normal_select" data-dkcacheid="0">
+        <option value="0">All</option><option value="Electronics">Electronics</option><option value="Home-Kitchen">Home &amp; Kitchen</option><option value="Computers-Tablets">Computers &amp; Tablets</option><option value="Camera-Video">Camera &amp; Video</option><option value="TV-Entertainment">TV &amp; Entertainment</option><option value="Cell-Phones">Cell Phones</option><option value="Personal-Audio">Personal Audio</option><option value="Gaming">Gaming</option>
+    </select>
+</div>
+<div class="inputSearch">
+                                    <input type="hidden" name="ctl00$department_menu$hid_drval" id="ctl00_department_menu_hid_drval" value="0">
+                                    <input type="hidden" name="ctl00$department_menu$hid_srval" id="ctl00_department_menu_hid_srval">
+                                    <input type="text" id="txtSearch" value="What are you looking for?" onblur="if(this.value == '') {this.value = 'What are you looking for?';}" onfocus="if (this.value == 'What are you looking for?') {this.value = '';}" onkeypress="searchKeyPress(event);" class="ui-autocomplete-input" autocomplete="off">
+                                    <input type="button" name="ctl00$department_menu$btnSearch" value="" onclick="javascript:__doPostBack('ctl00$department_menu$btnSearch','')" id="ctl00_department_menu_btnSearch" style="display: none">
+                                </div>
+                            
+</div>
+
+
+                        </section>
+
+                        <section class="head-dropdown">
+                            <div class="searchMob">
+                                <a href="javascript:void(0);">Search
+                                </a>
+                            </div>
+                            <div class="mobsearch-expand">
+                                <div class="mobsearch-expand-in">
+                                    <input type="text" placeholder="Search" id="srch_mob" class="ui-autocomplete-input" autocomplete="off">
+                                    <button onclick="return search_Mob();">Search</button><a href="javascript:void(0);">CANCEL</a>
+                                </div>
+                            </div>
+                            <div class="loginLink">
+                                <a href="http://www.efurb.com/popup/login.aspx" class="login-drop popup-trigger">Login/Register</a>
+                            </div>
+
+                            <span class="checkoutIcn-outr">
+                                <div class="checkoutIcn" onclick="window.parent.location.href=&quot;http://www.efurb.com/cart.aspx&quot;"></div><div class="checkoutListing "><div class="checkoutListing-in"><br><br><center><b>Your Cart is Empty</b></center></div></div>
+                            </span>
+                        </section>
+                    </header>
+                    <nav><ul><li class="hDisplay drop-menu"><a href="/product-listing/Electronics.html" title="Electronics">Electronics</a><ul class="subNav"><li><ul class="nav-col"><li><a title="Office" href="/Listing/Electronics/Office.html">Office</a></li><li><a title="Projectors" href="/product-listing/Electronics/Projectors.html">Projectors</a></li><li><a title="Barcode Scanners" href="/product-listing/Electronics/Barcode-Scanners.html">Barcode Scanners</a></li><li><a title="Printers" href="/product-listing/Electronics/Printers.html">Printers</a></li><li><a title="VoIP Phone Service" href="/product-listing/Electronics/VoIP-Phone-Service.html">VoIP Phone Service</a></li><li><a title="VOIP Phones" href="/product-listing/Electronics/VOIP-Phones.html">VOIP Phones</a></li></ul><ul class="nav-col"><li><a title="Car Electronics &amp; GPS" href="/Listing/Electronics/Car-Electronics---GPS.html">Car Electronics &amp; GPS</a></li><li><a title="GPS Devices" href="/product-listing/Electronics/GPS-Devices.html">GPS Devices</a></li><li><a title="Bluetooth Speakerphones" href="/product-listing/Electronics/Bluetooth-Speakerphones.html">Bluetooth Speakerphones</a></li><li><a title="Car Video" href="/product-listing/Electronics/Car-Video.html">Car Video</a></li></ul><ul class="nav-col"><li><a title="Wearable Tech" href="/Listing/Electronics/Wearable-Tech.html">Wearable Tech</a></li><li><a title="Smart Watches" href="/product-listing/Electronics/Smart-Watches.html">Smart Watches</a></li><li><a title="Fitness Trackers" href="/product-listing/Electronics/Fitness-Trackers.html">Fitness Trackers</a></li></ul><div class="clear"></div><ul class="nav-col"><li><a title="Security &amp; Surveillance" href="/Listing/Electronics/Security---Surveillance.html">Security &amp; Surveillance</a></li><li><a title="Baby Monitors" href="/product-listing/Electronics/Baby-Monitors.html">Baby Monitors</a></li><li><a title="Wireless IP Cameras" href="/product-listing/Electronics/Wireless-IP-Cameras.html">Wireless IP Cameras</a></li></ul><ul class="nav-col"><li><a title="Toys &amp; Hobbies" href="/Listing/Electronics/Toys--Hobbies.html">Toys &amp; Hobbies</a></li><li><a title="Drones" href="/product-listing/Electronics/Drones.html">Drones</a></li><li><a title="3D Printing" href="/product-listing/Electronics/3D-Printing.html">3D Printing</a></li></ul><ul class="nav-col"><li><a title="Electronics Accessories" href="/Listing/Electronics/Electronics-Accessories.html">Electronics Accessories</a></li><li><a title="Powerstrips" href="/product-listing/Electronics/Powerstrips.html">Powerstrips</a></li><li><a title="Cords &amp; Cables" href="/product-listing/Electronics/Cords-Cables.html">Cords &amp; Cables</a></li></ul><div class="clear"></div></li></ul></li><li class="hDisplay drop-menu"><a href="/product-listing/Home-Kitchen.html" title="Home &amp; Kitchen">Home &amp; Kitchen</a><ul class="subNav"><li><ul class="nav-col"><li><a title="Kitchen Appliances" href="/Listing/Home-Kitchen/Kitchen-Appliances.html">Kitchen Appliances</a></li><li><a title="Blenders" href="/product-listing/Home-Kitchen/Blenders.html">Blenders</a></li><li><a title="Countertop Cooking" href="/product-listing/Home-Kitchen/Countertop-Cooking.html">Countertop Cooking</a></li><li><a title="Electric Mixers" href="/product-listing/Home-Kitchen/Electric-Mixers.html">Electric Mixers</a></li><li><a title="Food Processors" href="/product-listing/Home-Kitchen/Food-Processors.html">Food Processors</a></li><li><a title="Toasters" href="/product-listing/Home-Kitchen/Toasters.html">Toasters</a></li><li><a title="Coffee Makers" href="/product-listing/Home-Kitchen/Coffee-Makers.html">Coffee Makers</a></li><li><a title="Juicers" href="/product-listing/Home-Kitchen/Juicers.html">Juicers</a></li><li><a title="Kitchen Gadgets" href="/product-listing/Home-Kitchen/Kitchen-Gadgets.html">Kitchen Gadgets</a></li><li><a title="Microwaves" href="/product-listing/Home-Kitchen/Microwaves.html">Microwaves</a></li><li><a title="Slow Cookers" href="/product-listing/Home-Kitchen/Slow-Cookers.html">Slow Cookers</a></li><li><a title="Wine Coolers" href="/product-listing/Home-Kitchen/Wine-Coolers.html">Wine Coolers</a></li><li><a title="Ice Makers" href="/product-listing/Home-Kitchen/Ice-Makers.html">Ice Makers</a></li></ul><ul class="nav-col"><li><a title="Floor &amp; Carpet Care" href="/Listing/Home-Kitchen/Floor---Carpet-Care.html">Floor &amp; Carpet Care</a></li><li><a title="Vacuums" href="/product-listing/Home-Kitchen/Vacuums.html">Vacuums</a></li><li><a title="Robotic Vacuums" href="/product-listing/Home-Kitchen/Robotic-Vacuums.html">Robotic Vacuums</a></li><li><a title="Handheld Vacuums" href="/product-listing/Home-Kitchen/Handheld-Vacuums.html">Handheld Vacuums</a></li><li><a title="Carpet Cleaners" href="/product-listing/Home-Kitchen/Carpet-Cleaners.html">Carpet Cleaners</a></li><li><a title="Steam Mops" href="/product-listing/Home-Kitchen/Steam-Mops.html">Steam Mops</a></li><li><a title="Portable Steamers" href="/product-listing/Home-Kitchen/Portable-Steamers.html">Portable Steamers</a></li></ul><ul class="nav-col"><li><a title="Heating &amp; Cooling" href="/Listing/Home-Kitchen/Heating--Cooling.html">Heating &amp; Cooling</a></li><li><a title="Humidifiers" href="/product-listing/Home-Kitchen/Humidifiers.html">Humidifiers</a></li><li><a title="Dehumidifiers" href="/product-listing/Home-Kitchen/Dehumidifiers.html">Dehumidifiers</a></li><li><a title="Heaters" href="/product-listing/Home-Kitchen/Heaters.html">Heaters</a></li></ul><div class="clear"></div><ul class="nav-col"><li><a title="Garment Care" href="/Listing/Home-Kitchen/Garment-Care.html">Garment Care</a></li><li><a title="Garment Steamers" href="/product-listing/Home-Kitchen/Garment-Steamers.html">Garment Steamers</a></li><li><a title="Irons" href="/product-listing/Home-Kitchen/Irons.html">Irons</a></li></ul><ul class="nav-col"><li><a title="Power Tools" href="/Listing/Home-Kitchen/Power-Tools.html">Power Tools</a></li><li><a title="Power Tool Accessories" href="/product-listing/Home-Kitchen/Power-Tool-Accessories.html">Power Tool Accessories</a></li><li><a title="Power Drills" href="/product-listing/Home-Kitchen/Power-Drills.html">Power Drills</a></li></ul><ul class="nav-col"><li><a title="Lighting" href="/Listing/Home-Kitchen/Lighting.html">Lighting</a></li><li><a title="Outdoor Lighting" href="/product-listing/Home-Kitchen/Outdoor-Lighting.html">Outdoor Lighting</a></li><li><a title="Flashlights" href="/product-listing/Home-Kitchen/Flashlights.html">Flashlights</a></li></ul><div class="clear"></div><ul class="nav-col"><li><a title="Lawn Care" href="/Listing/Home-Kitchen/Lawn-Care.html">Lawn Care</a></li><li><a title="Edgers &amp; Trimmers" href="/product-listing/Home-Kitchen/Edgers-Trimmers.html">Edgers &amp; Trimmers</a></li></ul><ul class="nav-col"><li><a title="Home Phones" href="/Listing/Home-Kitchen/Home-Phones.html">Home Phones</a></li><li><a title="Cordless Phones" href="/product-listing/Home-Kitchen/Cordless-Phones.html">Cordless Phones</a></li></ul><ul class="nav-col"><li><a title="SMART Home Products" href="/Listing/Home-Kitchen/SMART-Home-Products.html">SMART Home Products</a></li><li><a title="Home Automation" href="/product-listing/Home-Kitchen/Home-Automation.html">Home Automation</a></li></ul><div class="clear"></div></li></ul></li><li class="hDisplay drop-menu"><a href="/product-listing/Computers-Tablets.html" title="Computers &amp; Tablets">Computers &amp; Tablets</a><ul class="subNav"><li><ul class="nav-col"><li><a title="Laptops &amp; Desktops" href="/Listing/Computers-Tablets/Laptops---Desktops.html">Laptops &amp; Desktops</a></li><li><a title="Laptops " href="/product-listing/Computers-Tablets/Laptops-.html">Laptops </a></li><li><a title="Netbooks" href="/product-listing/Computers-Tablets/Netbooks.html">Netbooks</a></li><li><a title="Servers" href="/product-listing/Computers-Tablets/Servers.html">Servers</a></li><li><a title="Desktops" href="/product-listing/Computers-Tablets/Desktops.html">Desktops</a></li><li><a title="All-in-Ones" href="/product-listing/Computers-Tablets/All-in-Ones.html">All-in-Ones</a></li></ul><ul class="nav-col"><li><a title="Computer Accessories" href="/Listing/Computers-Tablets/Computer-Accessories.html">Computer Accessories</a></li><li><a title="Monitors" href="/product-listing/Computers-Tablets/Monitors.html">Monitors</a></li><li><a title="3D Printers" href="/product-listing/Computers-Tablets/3D-Printers.html">3D Printers</a></li><li><a title="Webcams" href="/product-listing/Computers-Tablets/Webcams.html">Webcams</a></li><li><a title="Scanners" href="/product-listing/Computers-Tablets/Scanners.html">Scanners</a></li><li><a title="Speakers" href="/product-listing/Computers-Tablets/Speakers.html">Speakers</a></li><li><a title="USB Mics" href="/product-listing/Computers-Tablets/USB-Mics.html">USB Mics</a></li><li><a title="Printers" href="/product-listing/Computers-Tablets/Printers.html">Printers</a></li><li><a title="Headsets" href="/product-listing/Computers-Tablets/Headsets.html">Headsets</a></li><li><a title="Touchpads" href="/product-listing/Computers-Tablets/Touchpads.html">Touchpads</a></li><li><a title="Keyboards" href="/product-listing/Computers-Tablets/Keyboards.html">Keyboards</a></li><li><a title="Mice" href="/product-listing/Computers-Tablets/Mice.html">Mice</a></li><li><a title="Optical Drives" href="/product-listing/Computers-Tablets/Optical-Drives.html">Optical Drives</a></li></ul><ul class="nav-col"><li><a title="Hard Drives &amp; Storage" href="/Listing/Computers-Tablets/Hard-Drives---Storage.html">Hard Drives &amp; Storage</a></li><li><a title="External Hard Drives " href="/product-listing/Computers-Tablets/External-Hard-Drives-.html">External Hard Drives </a></li><li><a title="Internal Hard Drives" href="/product-listing/Computers-Tablets/Internal-Hard-Drives.html">Internal Hard Drives</a></li></ul><div class="clear"></div><ul class="nav-col"><li><a title="Tablets &amp; iPads" href="/Listing/Computers-Tablets/Tablets---iPads.html">Tablets &amp; iPads</a></li><li><a title="Tablet Accessories" href="/product-listing/Computers-Tablets/Tablet-Accessories.html">Tablet Accessories</a></li><li><a title="E-Readers" href="/product-listing/Computers-Tablets/E-Readers.html">E-Readers</a></li><li><a title="Tablets" href="/product-listing/Computers-Tablets/Tablets.html">Tablets</a></li></ul><ul class="nav-col"><li><a title="Networking" href="/Listing/Computers-Tablets/Networking.html">Networking</a></li><li><a title="Network Switches" href="/product-listing/Computers-Tablets/Network-Switches.html">Network Switches</a></li><li><a title="Routers" href="/product-listing/Computers-Tablets/Routers.html">Routers</a></li><li><a title="Wi-Fi Hotspots" href="/product-listing/Computers-Tablets/Wi-Fi-Hotspots.html">Wi-Fi Hotspots</a></li><li><a title="Range Extenders" href="/product-listing/Computers-Tablets/Range-Extenders.html">Range Extenders</a></li><li><a title="Network Adaptors" href="/product-listing/Computers-Tablets/Network-Adaptors.html">Network Adaptors</a></li></ul></li></ul></li><li class="hDisplay-electronics drop-menu"><a href="/product-listing/Camera-Video.html" title="Camera &amp; Video">Camera &amp; Video</a><ul class="electronics-nav subNav"><li><ul class="nav-col"><li><a title="Cameras" href="/Listing/Camera-Video/Cameras.html">Cameras</a></li><li><a title="Point &amp; Shoot Cameras" href="/product-listing/Camera-Video/Point-Shoot-Cameras.html">Point &amp; Shoot Cameras</a></li><li><a title="Mirrorless Cameras" href="/product-listing/Camera-Video/Mirrorless-Cameras.html">Mirrorless Cameras</a></li><li><a title="DSLR Cameras" href="/product-listing/Camera-Video/DSLR-Cameras.html">DSLR Cameras</a></li><li><a title="Camcorders" href="/product-listing/Camera-Video/Camcorders.html">Camcorders</a></li><li><a title="Action Cameras" href="/product-listing/Camera-Video/Action-Cameras.html">Action Cameras</a></li><li><a title="Webcams" href="/product-listing/Camera-Video/Webcams.html">Webcams</a></li></ul></li></ul></li><li class="hDisplay nav-set-two drop-menu drop-menu"><a href="/product-listing/TV-Entertainment.html" title="TV &amp; Entertainment">TV &amp; Entertainment</a><ul class="subNav"><li><ul class="nav-col"><li><a title="Televisions" href="/Listing/TV-Entertainment/Televisions.html">Televisions</a></li><li><a title="HDTVs" href="/product-listing/TV-Entertainment/HDTVs.html">HDTVs</a></li><li><a title="Projectors" href="/product-listing/TV-Entertainment/Projectors.html">Projectors</a></li><li><a title="Universal Remotes" href="/product-listing/TV-Entertainment/Universal-Remotes.html">Universal Remotes</a></li></ul><ul class="nav-col"><li><a title="Home Audio" href="/Listing/TV-Entertainment/Home-Audio.html">Home Audio</a></li><li><a title="Soundbars" href="/product-listing/TV-Entertainment/Soundbars.html">Soundbars</a></li><li><a title="Speakers" href="/product-listing/TV-Entertainment/Speakers.html">Speakers</a></li><li><a title="Receivers &amp; AV Products" href="/product-listing/TV-Entertainment/Receivers-AV-Products.html">Receivers &amp; AV Products</a></li><li><a title="Home Theater Systems" href="/product-listing/TV-Entertainment/Home-Theater-Systems.html">Home Theater Systems</a></li><li><a title="Subwoofers" href="/product-listing/TV-Entertainment/Subwoofers.html">Subwoofers</a></li></ul><div class="clear"></div><ul class="nav-col"><li><a title="Entertainment" href="/Listing/TV-Entertainment/Entertainment.html">Entertainment</a></li><li><a title="DVD Players" href="/product-listing/TV-Entertainment/DVD-Players.html">DVD Players</a></li><li><a title="Blu-ray Players" href="/product-listing/TV-Entertainment/Blu-ray-Players.html">Blu-ray Players</a></li></ul><ul class="nav-col"><li><a title="Cord-Cutting" href="/Listing/TV-Entertainment/Cord-Cutting.html">Cord-Cutting</a></li><li><a title="Streaming Media Players" href="/product-listing/TV-Entertainment/Streaming-Media-Players.html">Streaming Media Players</a></li><li><a title="TV Antennas" href="/product-listing/TV-Entertainment/TV-Antennas.html">TV Antennas</a></li></ul><div class="clear"></div></li></ul></li><li class="hDisplay-electronics drop-menu"><a href="/product-listing/Cell-Phones.html" title="Cell Phones">Cell Phones</a><ul class="electronics-nav subNav"><li><ul class="nav-col"><li><a title="Cell Phones" href="/Listing/Cell-Phones/Cell-Phones.html">Cell Phones</a></li><li><a title="No-Contract Phones" href="/product-listing/Cell-Phones/No-Contract-Phones.html">No-Contract Phones</a></li><li><a title="Unlocked Phones" href="/product-listing/Cell-Phones/Unlocked-Phones.html">Unlocked Phones</a></li></ul><ul class="nav-col"><li><a title="Cell Phone Accessories" href="/Listing/Cell-Phones/Cell-Phone-Accessories.html">Cell Phone Accessories</a></li><li><a title="Bluetooth Headsets" href="/product-listing/Cell-Phones/Bluetooth-Headsets.html">Bluetooth Headsets</a></li><li><a title="Cell Phone Cases" href="/product-listing/Cell-Phones/Cell-Phone-Cases.html">Cell Phone Cases</a></li><li><a title="Smart Watches" href="/product-listing/Cell-Phones/Smart-Watches.html">Smart Watches</a></li><li><a title="Mobile Hotspots" href="/product-listing/Cell-Phones/Mobile-Hotspots.html">Mobile Hotspots</a></li><li><a title="Bluetooth Speakerphones" href="/product-listing/Cell-Phones/Bluetooth-Speakerphones.html">Bluetooth Speakerphones</a></li><li><a title="Charging Stations" href="/product-listing/Cell-Phones/Charging-Stations.html">Charging Stations</a></li></ul></li></ul></li><li class="hDisplay-electronics drop-menu"><a href="/product-listing/Personal-Audio.html" title="Personal Audio">Personal Audio</a><ul class="electronics-nav subNav"><li><ul class="nav-col"><li><a title="Personal Audio" href="/Listing/Personal-Audio/Personal-Audio.html">Personal Audio</a></li><li><a title="MP3 Players" href="/product-listing/Personal-Audio/MP3-Players.html">MP3 Players</a></li><li><a title="Bluetooth Speakers" href="/product-listing/Personal-Audio/Bluetooth-Speakers.html">Bluetooth Speakers</a></li><li><a title="Headphones" href="/product-listing/Personal-Audio/Headphones.html">Headphones</a></li><li><a title="Sound Systems" href="/product-listing/Personal-Audio/Sound-Systems.html">Sound Systems</a></li></ul></li></ul></li><li class="hDisplay-electronics drop-menu"><a href="/product-listing/Gaming.html" title="Gaming">Gaming</a><ul class="electronics-nav subNav"><li><ul class="nav-col"><li><a title="Video Games" href="/Listing/Gaming/Video-Games.html">Video Games</a></li><li><a title="Gaming Consoles" href="/product-listing/Gaming/Gaming-Consoles.html">Gaming Consoles</a></li></ul><ul class="nav-col"><li><a title="Gaming Accessories" href="/Listing/Gaming/Gaming-Accessories.html">Gaming Accessories</a></li><li><a title="Gaming Headsets" href="/product-listing/Gaming/Gaming-Headsets.html">Gaming Headsets</a></li><li><a title="Gaming Keyboards" href="/product-listing/Gaming/Gaming-Keyboards.html">Gaming Keyboards</a></li><li><a title="Gaming Mice" href="/product-listing/Gaming/Gaming-Mice.html">Gaming Mice</a></li><li><a title="Keypads" href="/product-listing/Gaming/Keypads.html">Keypads</a></li><li><a title="Controllers &amp; Joysticks" href="/product-listing/Gaming/Controllers-Joysticks.html">Controllers &amp; Joysticks</a></li></ul></li></ul></li></ul></nav>
+
+                    <a href="http://www.efurb.com/popup/confirmation.aspx?i=signup" class="popup-trigger" title="Ask a Question" id="popSignupConfirm" style="display: none;">Confirmation</a>
+                    <div class="full bg1">
+                        
+    <div class="full bg1">
+        <div class="terms-main">
+            <h1>Privacy Policy</h1>
+           
+            <p>Equipped LLC, a New York corporation doing business as efurb (the "<b>Company</b>", "<b>we</b>", "<b>our</b>") respects your privacy. This policy explains the privacy practices for our website, efurb.com (the "<b>Website</b>") and the ancillary services we offer through it, as more specifically set forth in the Terms (collectively, the "<b>Services</b>"). It describes the ways your personal information is collected and used. This policy is incorporated by reference to the Website's Terms of Use ("<b>Terms</b>").</p>
+            <p>You are not legally required to provide us your personal information (as described below). It is up to your volition and consent. We do, however, require it in order to allow you to use our Services in full.</p>
+
+            
+            <h2><u>Children's Privacy</u></h2>
+            <p>We do not intentionally or knowingly collect personal information regarding children who are under 13 years of age.</p>
+            
+              <h2><u>Personal information that you provide</u></h2>
+            <p><u>Registration details.</u> To register as a user and create a User Account, you will be asked to provide your e-mail address and to choose a username and password. You may add additional details or modify your User Account settings, at any time.</p>
+            <p><u>Third party platforms.</u>You may choose to post certain content from the Website on your Facebook Timeline, share it with your Facebook friends, Tweet it on Twitter or email it to others though your e-mail account. Your use of such third party platforms and the platforms’ use of the content you post, share or email through them, are governed by their respective terms of use and privacy policy, not this Policy.</p>
+            
+            <p><u>Contacting us</u></p>
+            <p>To contact us via e-mail, phone or our online form, we require that you provide us with personal information, such as your name and contact details, or your user name, if you are a registered user.</p>
+            <p>You must provide complete, accurate and correct details. If you do not provide the required information, or provide false, incorrect, or outdated information, we may not be able to process your request or inquiry or contact you. We may also require additional personal information from you, to verify your account and identity.</p>
+
+            
+            <p><u>Checkout information</u></p>
+            <p>During checkout, you will be asked to provide your full name, mobile phone number and your full shipping address (note that we only ship to US addresses, as set forth in the Terms).</p>
+            <p>Payment (other than in the case of redeeming efurb Loyalty Credits or Product Credits, as set forth in the Terms) is made by processing your payment information through Braintree, our payment gateway service provider, or PayPal. You will be asked to provide your payment method and billing information. Payment and billing information you provide through PayPal or Braintree is not stored on our servers.</p>
+            <p><u>Product Info.</u> When you seek our Services, you will be required to provide your username, your order number, basic information concerning the product you purchased, and additional information that our staff may reasonably ask for (the "<b>Product Info</b>").</p>
+            <p>Keep in mind that the Product Info may contain, or be indicative of, your personal information, depending on the particulars of the Product Info. Such Product Info is not treated as private or confidential and you should not have any expectation of privacy with respect to it.</p>
+            <p>BECAUSE THE PRODUCT INFO YOU PROVIDE US WITH MAY HAVE TO DO WITH THE PRIVACY OF OTHERS, YOU MUST LAWFULLY OBTAIN THE CONSENT OF ALL INDIVIDUALS, AND OF THE PARENTS OR LEGAL GUARDIANS OF ALL MINORS WITH WHICH THE PRODUCT INFO MAY BE ASSOCIATED. YOU ARE SOLELY RESPONSIBLE FOR ANY PRODUCT INFO OR CONTENT THAT YOU PROVIDE.</p>
+
+
+            <h2><u>Personal information that we collect</u></h2>
+            <p>Using Google Analytics, we collect information that pertains to your activities on the Website, such as the information or content that you viewed, your session durations, the web pages you accessed, the Internet Protocol (IP) address through which you accessed Website and the general location of the device you used to access the Website.</p>
+
+            <h2><u>Use of Information</u></h2>
+            <p>We use the personal information outlined in this policy, for the following purposes:</p>
+            <ul style="list-style:square">
+                <li>To facilitate the access to and use of the Website and the Services, and to manage their operational and administrative aspects;</li>
+                <li>To promote and market our refurbished products, the Website and our Services, and to send you information, promotional or marketing newsletters regarding our refurbished products, the Website and our Services;</li>
+                <li>To develop and improve our products and services as a whole;</li>
+                <li>To handle complaints and contact you when we believe it to be necessary, either directly or through others on our behalf, including by phone or e-mail messages;</li>
+                <li>To enforce the Terms and this Policy, and prevent misuse;</li>
+                <li>To comply with any applicable law and assist law enforcement agencies and competent authorities, when we have a good faith belief that our cooperation with them meets the applicable legal standards; and</li>
+                <li>Take any action in any case of a dispute involving you, with respect to the Website or the Services.</li>
+            </ul>
+
+            <h2><u>Newsletters</u></h2>
+            <p>We only send newsletters to registered users and all newsletters we send contain an “unsubscribe” link.</p>
+
+
+            <h2><u>Sharing collected Information</u></h2>
+            <p>We share personal information outlined in this policy, with others, in the following instances:</p>
+            <ul style="list-style-type:square;">
+                <li>With our service providers, such as ROI Revolution, RJMetrics and Google Analytics, in order to operate, maintain and enhance the Website and the Services;</li>
+                <li>If you have breached the Terms, abused your rights to use the Website or the Services, or violated any applicable law. Your information may be shared with competent authorities and with any third party, as may be required;</li>
+                <li>With third parties to whom we believe that we are required by law to disclose your information; </li>
+                <li>With attorneys, courts and relevant third parties, in any case of dispute or legal proceeding of any kind involving you with respect to the Website or the Services;</li>
+                <li>If the operation of the Website or the Services is organized within a different framework, or through another legal structure or entity (such as due to a merger or acquisition), provided that those entities agree to be bound by the provisions of this Policy, with reasonably necessary changes taken into consideration; and</li>
+                <li>We may share personal information with our corporate group entities (companies that we control, control us, or are under common control with us – whether directly or indirectly), but their use of such information must comply with the Policy.</li>
+            </ul>
+
+            <p>In any case other than above, your personal information will only be shared with others if you provide your explicit prior consent.</p>
+
+            <h2><u>Cookies</u></h2>
+            <p>We and our third party service providers, such as Google Analytics and Google AdWords, may use cookies on the Website. Cookies are small text files that are placed on your device through your web browser when you visit a website. They are unique to your user account or your browser. Each cookie expires after a certain period of time depending on what we use it for.</p>
+            <p>These cookies are used for various purposes, such as collection of statistical information regarding use of the Website; adjusting the Website to your personal preferences; improving marketing campaign performance; and serving behaviorally targeted ads.</p>
+            <p>You can manually disable cookies at any time – check your browser’s ‘Help’ to find out how. However, bear in mind that disabling cookies may cause difficulties in using the Website, or certain features in it.</p>
+
+            <h2><u>Accessing, correcting or deleting personal information</u></h2>
+            <p>Subject to the Terms, you may change your basic user information, such as your username, password, e-mail address, shipping address and billing info, at any time, by accessing the Settings tab on the Website.</p>
+            <p>You may unsubscribe to our newsletter or our marketing e-mails by clicking the “unsubscribe” link that appears on the bottom of every such mail.</p>
+            <p>You may ask to review the personal information about you that is stored in our systems, or have us update, correct or delete it, subject to applicable law. If you wish to exercise this right, simply contact us via email: care@efurb.com.</p>
+
+            <h2><u>Data anonymization</u></h2>
+            <p>From time to time, we may anonymize (de-identify) personal information we have collected, so that it can neither personally identify you nor be associated with your device. We may use the de-identified information in any way, including by selling, or making it available, to any other third party.</p>
+
+            <h2><u>Third parties and tracking</u></h2>
+            <p>The following disclosures are made pursuant to the California Online Privacy Protection Act:</p>
+
+            <ul style="list-style-type:disc;">
+                <li>When you use our Service, other parties, such as Google, may collect personally identifiable information about your online activities over time and across different websites.</li>
+                <li>We do not respond to signals or mechanisms that provide consumers the ability to exercise choice regarding the collection of personally identifiable information about their online activities over time and across third-party services.</li>
+            </ul>
+
+            <h2><u>Transfer of data outside your territory</u></h2>
+            <p>We may store and process the personal information in the United States and in other various locations throughout the globe, including through cloud service. You hereby provide your express and unambiguous consent to such cross-border transfer of your personal information.</p>
+
+            <h2><u>Data retention</u></h2>
+            <p>We may delete your personal information from our systems once we deem it is no longer necessary for our business needs.</p>
+
+            <h2><u>Data security</u></h2>
+            <p>We use SSL (Secure Socket Layer) to secure your personal information while it is transmitted from your device to our servers. However, this measure does not provide absolute information security. Therefore, it is not guaranteed and you cannot reasonably expect that the service and its related databases will be immune from any wrongdoings, malfunctions, unauthorized interceptions or access, or any other kinds of abuse and misuse.</p>
+
+            <h2><u>Changes to this Privacy Policy</u></h2>
+            <p>We may change this Policy from time to time and will notify you of such changes by posting them on the Website or by some other means of notification. Substantial changes will take effect 30 days after we provide notice. Other changes will take effect 7 days after we provide notice. However, if the Policy is amended to comply with legal requirements, the amendments will become effective immediately upon their initial posting, or as required. Your continued use of the Services after the effective date of the amended privacy policy constitutes your consent to the amended policy. The most up-to-date policy will always be accessible on Website.</p>
+            <p>In any event, we will seek your explicit consent if we wish to have substantial changes to the Policy apply to personal information we collected before those changes.</p>
+
+            <h2><u>Contact us</u></h2>
+            <p>You may send us requests, questions and comments to terms@efurb.com.</p>
+            <p>Last updated: August 25, 2015</p>
+
+
+           
+        </div>
+    </div>
+
+                    </div>
+                    
+                    
+
+<footer class="foot-wrnty" id="footer">
+
+    <div class="innerFooter postionR">
+
+        <div class="rgtFoot">
+            <h3>
+                <img src="/assets/images/efurb-foot.png" alt="CS">
+            </h3>
+            <p>Guaranteed to blow your mind.</p>
+            <ul>
+                <li class="yrWrant"><a class="popup-trigger" href="/popup/one-year-warranty.html">efurb 1-Year Warranty</a>
+                    <p>
+                        
+                                           A 1-year Warranty is included for free with every product on efurb. Yup, we're confident in our refurbs.
+                    </p>
+                </li>
+                <li class="freeSr"><a class="popup-trigger" href="/popup/free-shipping.html">Free Shipping Both Ways</a>
+                    <p>
+                        
+                                            Fast &amp; Free Shipping on all orders. Not completely satisfied? No problem! Send it back for free within 30 Days. We've got it all covered.
+                    </p>
+                </li>
+                <li class="techS"><a href="/popup/efurb-experts.html" class="popup-trigger">Lifetime Tech Support</a>
+                    <p>
+                        
+                                            Real support from the efurb Experts comes standard with every purchase. No extra charges. No Upsells. 100% Free. 
+                    </p>
+                </li>
+            </ul>
+            <!-- /rgtFoot -->
+        </div>
+        <div class="lftFoot">
+            <h3><strong>Connect with us</strong></h3>
+            <ul class="socialShare">
+                <li class="fIcn"><a href="https://www.facebook.com/pages/efurb/1518343758413344" title="Facebook" class="facebook" target="_blank">Facebook</a></li>
+                <li class="tIcn"><a href="https://twitter.com/efurbexperts" title="Twitter" class="twitter" target="_blank">Twitter</a></li>
+                <li class="yIcn"><a href="https://www.youtube.com/channel/UCIssatmPLY3DPyysSQy_hoQ/feed" title="Yout Tube" class="youTube" target="_blank">Yout Tube</a></li>
+            </ul>
+            <h3><strong></strong></h3>
+            <small><a href="/about-us.html">Learn more about efurb</a></small>
+            <ul class="footNav">
+                
+                <li><a href="/contact-us.html" title="FAQ &amp; Contact Info">FAQ &amp; Contact Info</a></li>
+                <li><a href="/terms-of-use.html" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
+
+                <li><a href="/privacy-policy.html" title="Privacy Policy">Privacy Policy</a></li>
+
+                <li><a href="/popup/questions-or-comments.aspx?i=faq&amp;c=4" class="popup-trigger" title="Careers">Careers</a></li>
+
+            </ul>
+
+            <p>© efurb 2015. All Rights Reserved.</p>
+            <!-- /lftFoot -->
+        </div>
+    </div>
+</footer>
+
+
+                </div>
+            </div>
+        </div>
+        <div class="video-container">
+            <div class="video-bg" style="z-index: 50; display: none; position: fixed; top: 0; left: 0; height: 100%; width: 100%; background: rgba(0,0,0,.8);"></div>
+            <div class="video-wrap" style="z-index: 100;">
+                <span class="close-video"></span>
+                <div class="fluid-width-video-wrapper" style="padding-top: 56.25%;"><iframe id="youtube-video_hme" style="margin: 0 auto;" src="" frameborder="0" allowfullscreen=""></iframe></div>
+            </div>
+        </div>
+
+        <input type="hidden" name="ctl00$hdnPopup" id="ctl00_hdnPopup" value="0">
+        <input type="hidden" name="ctl00$hdnScreenWidth" id="ctl00_hdnScreenWidth" value="0">
+        <!--<b>From Cache:- </b>&nbsp;&nbsp;Date: 11/5/2015 11:19:21 AM&nbsp;&nbsp;&nbsp;&nbsp;-->
+        <!--<b>From Substitution:- </b>&nbsp;&nbsp;Date: 11/5/2015 11:19:21 AM -- Sessionid: -->
+         <!-- Facebook Pixel Code --><script>!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','//connect.facebook.net/en_US/fbevents.js');fbq('init', '1660527427559765');fbq('track', "ViewContent");</script><noscript><img height="1" width="1" style="display:none"src = "https://www.facebook.com/tr?id=1660527427559765&ev=PageView&noscript=1"/></noscript><!-- End Facebook Pixel Code -->   
+    </form>
+
+    <script src="/assets/jscript/classie.js"></script>
+    <script src="/assets/jscript/mlpushmenu.js"></script>
+    <script src="/assets/jscript/popup-trigger.js"></script>
+
+    <script type="text/javascript">
+
+        new mlPushMenu(document.getElementById('mp-menu'), document.getElementById('trigger'), { direction: 'ltr', type: 'cover', fullCollapse: true });
+        $(document).ready(function () {
+            var a = document.getElementById('ctl00_hdnPopup');
+
+            if (a.value == "signupConfirm") {
+                $("#popSignupConfirm").trigger('click');
+            }
+        });
+
+
+
+
+        $(document).ready(function () {
+            try {
+                $("#normal_select").dropkick({
+                    mobile: true
+                });
+                $(".customfield").fancyfields();
+            }
+            catch (e) {
+                //$("#normal_select,.customfield").fancyfields();
+            }
+        });
+
+    </script>
+
+    <script type="text/javascript">var google_tag_params = { ecomm_prodid: '',ecomm_pagetype: 'other',ecomm_totalvalue: ''};</script>
+    <!-- Google Code for Remarketing Tag -->
+    <!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+    <script type="text/javascript">
+        /* <![CDATA[ */
+        var google_conversion_id = 945105971;
+        var google_custom_params = window.google_tag_params;
+        var google_remarketing_only = true;
+        /* ]]> */
+    </script>
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+    </script>
+    <noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/945105971/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+    <!-- BEGIN: Google Trusted Stores -->
+    <script type="text/javascript">var gts = gts || []; gts.push(["id", "704903"]);gts.push(["badge_position", "BOTTOM_RIGHT"]);gts.push(["locale", "en_US"]);(function () {var gts = document.createElement("script");gts.type = "text/javascript";gts.async = true;gts.src = "https://www.googlecommerce.com/trustedstores/api/js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(gts, s);})();</script>
+    <!-- END: Google Trusted Stores -->
+
+
+<ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content" id="ui-id-1" tabindex="0" style="display: none;"></ul><span role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></span><ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content" id="ui-id-2" tabindex="0" style="display: none;"></ul><span role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></span></body></html>
