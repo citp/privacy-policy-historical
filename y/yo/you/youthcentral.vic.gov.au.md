@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youthcentral.vic.gov.au privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628131106id_/http%3A//www.youthcentral.vic.gov.au/know-your-rights/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youthcentral.vic.gov.au privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105042114id_/http%3A//www.youthcentral.vic.gov.au/know-your-rights/privacy) for the most accurate reproduction.*
 
 # Privacy Laws | What Are Privacy Laws? - Youth Central
 
