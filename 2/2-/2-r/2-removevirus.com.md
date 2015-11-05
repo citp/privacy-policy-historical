@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2-removevirus.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607161743id_/http%3A//www.2-removevirus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2-removevirus.com privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105011851id_/http%3A//www.2-removevirus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 2 Remove Virus
 
