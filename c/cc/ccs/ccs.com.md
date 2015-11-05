@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ccs.com privacy policy that was archived on 2015-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150520013945id_/http%3A//shop.ccs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccs.com privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105010654id_/http%3A//shop.ccs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
