@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fundable.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610014531id_/http%3A//www.fundable.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fundable.com privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105130145id_/http%3A//www.fundable.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fundable
 
