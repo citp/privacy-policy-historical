@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fantasticfurniture.com.au privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626022324id_/http%3A//www.fantasticfurniture.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasticfurniture.com.au privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105080925id_/http%3A//www.fantasticfurniture.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Fantastic Furniture - Best Value Furniture & Bedding
+# Privacy Policy | Fantastic Furniture - Australia's Best Value Furniture & Bedding
 
 ## **Privacy Policy**
 
