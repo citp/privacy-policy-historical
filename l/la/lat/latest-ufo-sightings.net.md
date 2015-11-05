@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the latest-ufo-sightings.net privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316164733id_/http%3A//www.latest-ufo-sightings.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latest-ufo-sightings.net privacy policy that was archived on 2015-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151106000510id_/http%3A//www.latest-ufo-sightings.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Latest UFO Sightings
+# Privacy Policy | Latest UFO sightings
 
 **Privacy Policy for www.latest-ufo-sightings.net**  
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@latest-ufo-sightings.net.  
