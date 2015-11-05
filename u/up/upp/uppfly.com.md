@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uppfly.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230213532id_/http%3A//www.seopower.in/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uppfly.com privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105062234id_/http%3A//www.seopower.in/privacy_policy.php) for the most accurate reproduction.*
 
 # Seopower Privacy Policy – Point to Mark While Submitting Bookmarking
 
