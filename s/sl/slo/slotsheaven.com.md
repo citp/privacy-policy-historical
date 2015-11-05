@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slotsheaven.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607022855id_/http%3A//www.slotsheaven.com/about/security-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slotsheaven.com privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105030103id_/http%3A//www.slotsheaven.com/about/security-privacy.html) for the most accurate reproduction.*
 
 # Security & Privacy | Slots Heaven
 
