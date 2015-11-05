@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the games.co.uk privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609092316id_/http%3A//www.games.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the games.co.uk privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105023657id_/http%3A//www.games.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Games - Free Online Games
 
