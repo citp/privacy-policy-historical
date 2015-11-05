@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the oecd-ilibrary.org privacy policy that was archived on 2015-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150626120358id_/http%3A//www.oecd-ilibrary.org/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the oecd-ilibrary.org privacy policy that was archived on 2015-11-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151105142716id_/http%3A//www.oecd-ilibrary.org/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -11,7 +11,7 @@
 <meta name="DC.title" content="Privacy Policy">
 <meta name="DC.type" scheme="DCMIType" content="Text">
 <link rel="stylesheet" href="/css/oecd/jquery-ui.css" type="text/css" media="screen">
-<script type="text/javascript" src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NLVM63"></script><script type="text/javascript" src="//code.jquery.com/jquery-1.11.1.min.js"></script>
 <script type="text/javascript" src="/js/oecd/jquery.browser.min.js"></script>
 <script src="//code.jquery.com/ui/1.9.2/jquery-ui.min.js" type="text/javascript"></script>
 <script src="/js/oecd/metastore-tools-popup.js" type="text/javascript"></script>
@@ -32,8 +32,13 @@
 <script src="/js/oecd/behaviours/search.js" language="javascript" type="text/javascript"></script>
 <script src="/js/oecd/behaviours/titleListDropDown.js" language="javascript" type="text/javascript"></script>
 <link rel="shortcut icon" href="/images/oecd/oecd.ico">
+<script async="" defer="" src="//survey.g.doubleclick.net/async_survey?site=lmrkonxcdrutj5zxub3fotkupa"></script>
 </head>
 <body>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NLVM63" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-NLVM63');</script>
+<!-- End Google Tag Manager -->
 <!-- /WEB-INF/jsp/editorial/display_content.jsp -->
 <!-- /about/privacy --> 
 <!-- itemwebId -->
@@ -42,13 +47,13 @@
 <div class="left">
 <div class="main">
 <div id="logo">
-<a href="/;jsessionid=22c3262c0r3t8.x-oecd-live-02" class="plain" title="OECD iLibrary" rel=""><span title="OECD iLibrary"><img src="/images/oecd/normal_page_logo_2010.gif" alt="OECD iLibrary"></span></a>
+<a href="/" class="plain" title="OECD iLibrary" rel=""><span title="OECD iLibrary"><img src="/images/oecd/normal_page_logo_2010.gif" alt="OECD iLibrary"></span></a>
 </div>
 <div class="nav">
 <ul id="global-navigation-list-igo" class="bobby-inline">
 <li></li>
 </ul>
-<form id="global-search-form" method="get" action="/search;jsessionid=22c3262c0r3t8.x-oecd-live-02" class="search-form">
+<form id="global-search-form" method="get" action="/search" class="search-form">
 <input type="hidden" name="option1" value="titleAbstract">
 <input type="hidden" name="option2" value="">
 <input type="hidden" name="value2" value="">
@@ -111,8 +116,8 @@ if ($("#imprintid").val()){
 publisher = $("#imprintid").val();
 publisher = publisher.substring(publisher.indexOf('/content/') + 1);
 }
-$.get("/search/statslogwrapper;jsessionid=22c3262c0r3t8.x-oecd-live-02",{searchterm: searchTerm, publisherids:publisher},function(contents){
-$.post("/statslogredirect;jsessionid=22c3262c0r3t8.x-oecd-live-02",{statsLogContents:contents},function(){
+$.get("/search/statslogwrapper",{searchterm: searchTerm, publisherids:publisher},function(contents){
+$.post("/statslogredirect",{statsLogContents:contents},function(){
 $(t).submit();
 })
 }); 
@@ -131,68 +136,60 @@ return false;
 </script>
 </div>
 <div id="extra-search-links">
-<div id="global-search-advanced-search-link"><a href="/search/advanced;jsessionid=22c3262c0r3t8.x-oecd-live-02">Advanced Search</a></div>
+<div id="global-search-advanced-search-link"><a href="/search/advanced">Advanced Search</a></div>
 <div id="global-search-tips">
-<a href="/search/tips;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Search Tips" rel=""><span title="Search Tips">Search Tips</span></a></div>
+<a href="/search/tips" title="Search Tips" rel=""><span title="Search Tips">Search Tips</span></a></div>
 </div>
 </form>
 </div>
 <div id="right-content">
 <div id="translation-link">
-<a href="/languagechanger;jsessionid=22c3262c0r3t8.x-oecd-live-02?site=jp" title="日本語でこのページを表示する" rel=""><span title="日本語でこのページを表示する">日本語</span></a>
-<a href="/languagechanger;jsessionid=22c3262c0r3t8.x-oecd-live-02?site=fr" title="Voir cette page en Français" rel=""><span title="Voir cette page en Français">Français</span></a>
+<a href="/languagechanger?site=jp" title="日本語でこのページを表示する" rel=""><span title="日本語でこのページを表示する">日本語</span></a>
+<a href="/languagechanger?site=fr" title="Voir cette page en Français" rel=""><span title="Voir cette page en Français">Français</span></a>
 </div>
 <div id="identities">
 </div>
 </div>
 <ul id="personal-links-list" class="bobby-inline">
 <li>
-<a href="/marked-list;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="My Marked List" rel=""><span title="My Marked List">My Marked List</span></a></li>	
+<a href="/marked-list" title="My Marked List" rel=""><span title="My Marked List">My Marked List</span></a></li>
 <li class="bullet">•</li>
 <li>
-<a href="/session/sign-in;jsessionid=22c3262c0r3t8.x-oecd-live-02?signInTarget=%2fabout%2fprivacy" title="Login" rel=""><span title="Login">Login</span></a>
+<a href="/session/sign-in?signInTarget=%2fabout%2fprivacy" title="Login" rel=""><span title="Login">Login</span></a>
 </li>
 </ul>
 <ul id="help-links-list" class="bobby-inline">
-<li>
-<a href="/about/about;jsessionid=22c3262c0r3t8.x-oecd-live-02">About</a>
-</li> 
+<li> 
+<a href="/about/about">About</a>
+</li>
 <li class="bullet">•</li>
-<li>
-<a href="/contact;jsessionid=22c3262c0r3t8.x-oecd-live-02">Contact Us</a> 
+<li> 
+<a href="/contact">Contact Us</a>
 </li>
 <li class="bullet">•</li>
 <li>
 <a href="http://www.oecd.org/oecddirect/" title="Alerts" rel=""><span title="Alerts">Alerts</span></a>
 </li>
 <li class="bullet">•</li>
-<li>
-<a href="/userguide/about;jsessionid=22c3262c0r3t8.x-oecd-live-02">Help</a>
+<li> 
+<a href="/userguide/about">Help</a>
 </li>
 <li class="bullet">&nbsp;</li>
-<li>
-<a href="http://www.facebook.com/OECDPublications" class="socialicon">
+<li><a href="http://www.facebook.com/OECDPublications" class="socialicon"> 
 <img src="/images/oecd/facebook.png" alt="Visit us on Facebook" title="Visit us on Facebook">
-</a>
-</li>
+</a></li>
 <li class="bullet">&nbsp;</li>
-<li>
-<a href="http://www.youtube.com/oecdilibrary" class="socialicon">
+<li><a href="http://www.youtube.com/oecdilibrary" class="socialicon"> 
 <img src="/images/oecd/youtube.png" alt="Visit us on YouTube" title="Visit us on YouTube">
-</a>
-</li>
+</a></li>
 <li class="bullet">&nbsp;</li>
-<li>
-<a href="http://www.linkedin.com/groups/OECD-Publications-4645871" class="socialicon">
+<li><a href="http://www.linkedin.com/groups/OECD-Publications-4645871" class="socialicon"> 
 <img src="/images/oecd/flickr.png" alt="Visit us on Linked In" title="Visit us on Linked In">
-</a>
-</li>
+</a></li>
 <li class="bullet">&nbsp;</li>
-<li>
-<a href="https://twitter.com/OECD_Pubs" class="socialicon">
+<li><a href="https://twitter.com/OECD_Pubs" class="socialicon"> 
 <img src="/images/oecd/twitter.png" alt="Follow us on Twitter" title="Follow us on Twitter">
-</a>
-</li>
+</a></li>
 </ul>
 <script type="text/javascript" charset="utf-8">
 $(".breadcrumb.final").each(function(){$(this).attr("title",$(this).text())})
@@ -209,31 +206,31 @@ $("#breadcrumbs").ellipsis();
 <!-- navigation object : Topics List -->
 <div id="li_container1" class="li_container">
 <ul class="li_cont1">
-<li class="li_col1"><a href="/agriculture;jsessionid=22c3262c0r3t8.x-oecd-live-02">Agriculture and Food</a></li>
-<li class="li_col1"><a href="/development;jsessionid=22c3262c0r3t8.x-oecd-live-02">Development</a></li>
-<li class="li_col1"><a href="/economics;jsessionid=22c3262c0r3t8.x-oecd-live-02">Economics</a></li>
-<li class="li_col1"><a href="/education;jsessionid=22c3262c0r3t8.x-oecd-live-02">Education</a></li>
+<li class="li_col1"><a href="/agriculture">Agriculture and Food</a></li>
+<li class="li_col1"><a href="/development">Development</a></li>
+<li class="li_col1"><a href="/economics">Economics</a></li>
+<li class="li_col1"><a href="/education">Education</a></li>
 </ul>
 <ul class="li_cont2">
-<li class="li_col2"><a href="/employment;jsessionid=22c3262c0r3t8.x-oecd-live-02">Employment</a></li>
-<li class="li_col2"><a href="/energy;jsessionid=22c3262c0r3t8.x-oecd-live-02">Energy</a></li>
-<li class="li_col2"><a href="/environment;jsessionid=22c3262c0r3t8.x-oecd-live-02">Environment</a></li>
-<li class="li_col2"><a href="/finance;jsessionid=22c3262c0r3t8.x-oecd-live-02">Finance and Investment</a></li>
+<li class="li_col2"><a href="/employment">Employment</a></li>
+<li class="li_col2"><a href="/energy">Energy</a></li>
+<li class="li_col2"><a href="/environment">Environment</a></li>
+<li class="li_col2"><a href="/finance">Finance and Investment</a></li>
 </ul>
 <ul class="li_cont3">
-<li class="li_col3"><a href="/governance;jsessionid=22c3262c0r3t8.x-oecd-live-02">Governance</a></li>
-<li class="li_col3"><a href="/industry;jsessionid=22c3262c0r3t8.x-oecd-live-02">Industry and Services</a></li>
-<li class="li_col3"><a href="/nuclear;jsessionid=22c3262c0r3t8.x-oecd-live-02">Nuclear Energy</a></li>
-<li class="li_col3"><a href="/science;jsessionid=22c3262c0r3t8.x-oecd-live-02">Science and Technology</a></li>
+<li class="li_col3"><a href="/governance">Governance</a></li>
+<li class="li_col3"><a href="/industry">Industry and Services</a></li>
+<li class="li_col3"><a href="/nuclear">Nuclear Energy</a></li>
+<li class="li_col3"><a href="/science">Science and Technology</a></li>
 </ul>
 <ul class="li_cont4">
-<li class="li_col4"><a href="/socialissues;jsessionid=22c3262c0r3t8.x-oecd-live-02">Social Issues/Migration/Health</a></li>
-<li class="li_col4"><a href="/taxation;jsessionid=22c3262c0r3t8.x-oecd-live-02">Taxation</a></li>
-<li class="li_col4"><a href="/trade;jsessionid=22c3262c0r3t8.x-oecd-live-02">Trade</a></li>
-<li class="li_col4"><a href="/transport;jsessionid=22c3262c0r3t8.x-oecd-live-02">Transport</a></li>
+<li class="li_col4"><a href="/socialissues">Social Issues/Migration/Health</a></li>
+<li class="li_col4"><a href="/taxation">Taxation</a></li>
+<li class="li_col4"><a href="/trade">Trade</a></li>
+<li class="li_col4"><a href="/transport">Transport</a></li>
 </ul>
 <ul class="li_cont5">
-<li class="li_col5"><a href="/regions;jsessionid=22c3262c0r3t8.x-oecd-live-02">Urban, Rural and Regional Development</a></li>
+<li class="li_col5"><a href="/regions">Urban, Rural and Regional Development</a></li>
 </ul>
 <div style="clear:both; overflow:hidden; height:0px;"></div>
 </div>
@@ -258,68 +255,68 @@ $("#breadcrumbs").ellipsis();
 <div class="pane">
 <div id="countryli_container1" class="li_container js-noReorder" data-collength="11.0">
 <ul class="li_cont1">
-<li class="li_col1"><a href="/afghanistan;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Afghanistan"><span>Afghanistan</span></a></li>
-<li class="li_col1"><a href="/albania;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Albania"><span>Albania</span></a></li>
-<li class="li_col1"><a href="/algeria;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Algeria"><span>Algeria</span></a></li>
-<li class="li_col1"><a href="/americansamoa;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="American Samoa"><span>American Samoa</span></a></li>
-<li class="li_col1"><a href="/andorra;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Andorra"><span>Andorra</span></a></li>
-<li class="li_col1"><a href="/angola;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Angola"><span>Angola</span></a></li>
-<li class="li_col1"><a href="/anguilla;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Anguilla"><span>Anguilla</span></a></li>
-<li class="li_col1"><a href="/antiguaandbarbuda;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Antigua and Barbuda"><span>Antigua and Barbuda</span></a></li>
-<li class="li_col1"><a href="/argentina;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Argentina"><span>Argentina</span></a></li>
-<li class="li_col1"><a href="/armenia;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Armenia"><span>Armenia</span></a></li>
-<li class="li_col1"><a href="/aruba;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Aruba"><span>Aruba</span></a></li>
+<li class="li_col1"><a href="/afghanistan" title="Afghanistan"><span>Afghanistan</span></a></li>
+<li class="li_col1"><a href="/albania" title="Albania"><span>Albania</span></a></li>
+<li class="li_col1"><a href="/algeria" title="Algeria"><span>Algeria</span></a></li>
+<li class="li_col1"><a href="/americansamoa" title="American Samoa"><span>American Samoa</span></a></li>
+<li class="li_col1"><a href="/andorra" title="Andorra"><span>Andorra</span></a></li>
+<li class="li_col1"><a href="/angola" title="Angola"><span>Angola</span></a></li>
+<li class="li_col1"><a href="/anguilla" title="Anguilla"><span>Anguilla</span></a></li>
+<li class="li_col1"><a href="/antiguaandbarbuda" title="Antigua and Barbuda"><span>Antigua and Barbuda</span></a></li>
+<li class="li_col1"><a href="/argentina" title="Argentina"><span>Argentina</span></a></li>
+<li class="li_col1"><a href="/armenia" title="Armenia"><span>Armenia</span></a></li>
+<li class="li_col1"><a href="/aruba" title="Aruba"><span>Aruba</span></a></li>
 </ul>
 <ul class="li_cont2">
-<li class="li_col2"><a href="/australia;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Australia"><span>Australia</span></a></li>
-<li class="li_col2"><a href="/austria;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Austria"><span>Austria</span></a></li>
-<li class="li_col2"><a href="/azerbaijan;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Azerbaijan"><span>Azerbaijan</span></a></li>
-<li class="li_col2"><a href="/bahamas;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Bahamas"><span>Bahamas</span></a></li>
-<li class="li_col2"><a href="/bahrain;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Bahrain"><span>Bahrain</span></a></li>
-<li class="li_col2"><a href="/balticstates;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Baltic States"><span>Baltic States</span></a></li>
-<li class="li_col2"><a href="/bangladesh;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Bangladesh"><span>Bangladesh</span></a></li>
-<li class="li_col2"><a href="/barbados;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Barbados"><span>Barbados</span></a></li>
-<li class="li_col2"><a href="/belarus;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Belarus"><span>Belarus</span></a></li>
-<li class="li_col2"><a href="/belgium;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Belgium"><span>Belgium</span></a></li>
-<li class="li_col2"><a href="/belize;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Belize"><span>Belize</span></a></li>
+<li class="li_col2"><a href="/australia" title="Australia"><span>Australia</span></a></li>
+<li class="li_col2"><a href="/austria" title="Austria"><span>Austria</span></a></li>
+<li class="li_col2"><a href="/azerbaijan" title="Azerbaijan"><span>Azerbaijan</span></a></li>
+<li class="li_col2"><a href="/bahamas" title="Bahamas"><span>Bahamas</span></a></li>
+<li class="li_col2"><a href="/bahrain" title="Bahrain"><span>Bahrain</span></a></li>
+<li class="li_col2"><a href="/balticstates" title="Baltic States"><span>Baltic States</span></a></li>
+<li class="li_col2"><a href="/bangladesh" title="Bangladesh"><span>Bangladesh</span></a></li>
+<li class="li_col2"><a href="/barbados" title="Barbados"><span>Barbados</span></a></li>
+<li class="li_col2"><a href="/belarus" title="Belarus"><span>Belarus</span></a></li>
+<li class="li_col2"><a href="/belgium" title="Belgium"><span>Belgium</span></a></li>
+<li class="li_col2"><a href="/belize" title="Belize"><span>Belize</span></a></li>
 </ul>
 <ul class="li_cont3">
-<li class="li_col3"><a href="/benin;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Benin"><span>Benin</span></a></li>
-<li class="li_col3"><a href="/bermuda;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Bermuda"><span>Bermuda</span></a></li>
-<li class="li_col3"><a href="/bhutan;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Bhutan"><span>Bhutan</span></a></li>
-<li class="li_col3"><a href="/bolivia;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Bolivia"><span>Bolivia</span></a></li>
-<li class="li_col3"><a href="/bosniaandherzegovina;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Bosnia and Herzegovina"><span>Bosnia and Herzegovina</span></a></li>
-<li class="li_col3"><a href="/botswana;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Botswana"><span>Botswana</span></a></li>
-<li class="li_col3"><a href="/brazil;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Brazil"><span>Brazil</span></a></li>
-<li class="li_col3"><a href="/bruneidarussalam;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Brunei Darussalam"><span>Brunei Darussalam</span></a></li>
-<li class="li_col3"><a href="/bulgaria;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Bulgaria"><span>Bulgaria</span></a></li>
-<li class="li_col3"><a href="/burkinafaso;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Burkina Faso"><span>Burkina Faso</span></a></li>
-<li class="li_col3"><a href="/burundi;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Burundi"><span>Burundi</span></a></li>
+<li class="li_col3"><a href="/benin" title="Benin"><span>Benin</span></a></li>
+<li class="li_col3"><a href="/bermuda" title="Bermuda"><span>Bermuda</span></a></li>
+<li class="li_col3"><a href="/bhutan" title="Bhutan"><span>Bhutan</span></a></li>
+<li class="li_col3"><a href="/bolivia" title="Bolivia"><span>Bolivia</span></a></li>
+<li class="li_col3"><a href="/bosniaandherzegovina" title="Bosnia and Herzegovina"><span>Bosnia and Herzegovina</span></a></li>
+<li class="li_col3"><a href="/botswana" title="Botswana"><span>Botswana</span></a></li>
+<li class="li_col3"><a href="/brazil" title="Brazil"><span>Brazil</span></a></li>
+<li class="li_col3"><a href="/bruneidarussalam" title="Brunei Darussalam"><span>Brunei Darussalam</span></a></li>
+<li class="li_col3"><a href="/bulgaria" title="Bulgaria"><span>Bulgaria</span></a></li>
+<li class="li_col3"><a href="/burkinafaso" title="Burkina Faso"><span>Burkina Faso</span></a></li>
+<li class="li_col3"><a href="/burundi" title="Burundi"><span>Burundi</span></a></li>
 </ul>
 <ul class="li_cont4">
-<li class="li_col4"><a href="/cambodia;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Cambodia"><span>Cambodia</span></a></li>
-<li class="li_col4"><a href="/cameroon;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Cameroon"><span>Cameroon</span></a></li>
-<li class="li_col4"><a href="/canada;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Canada"><span>Canada</span></a></li>
-<li class="li_col4"><a href="/capeverde;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Cape Verde"><span>Cape Verde</span></a></li>
-<li class="li_col4"><a href="/caymanislands;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Cayman Islands"><span>Cayman Islands</span></a></li>
-<li class="li_col4"><a href="/centralafricanrepublic;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Central African Republic"><span>Central African Republic</span></a></li>
-<li class="li_col4"><a href="/chad;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Chad"><span>Chad</span></a></li>
-<li class="li_col4"><a href="/chile;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Chile"><span>Chile</span></a></li>
-<li class="li_col4"><a href="/china;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="China, People’s Republic"><span>China, People’s Republic</span></a></li>
-<li class="li_col4"><a href="/taiwanprovinceofchina;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Chinese Taipei"><span>Chinese Taipei</span></a></li>
-<li class="li_col4"><a href="/colombia;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Colombia"><span>Colombia</span></a></li>
+<li class="li_col4"><a href="/cambodia" title="Cambodia"><span>Cambodia</span></a></li>
+<li class="li_col4"><a href="/cameroon" title="Cameroon"><span>Cameroon</span></a></li>
+<li class="li_col4"><a href="/canada" title="Canada"><span>Canada</span></a></li>
+<li class="li_col4"><a href="/capeverde" title="Cape Verde"><span>Cape Verde</span></a></li>
+<li class="li_col4"><a href="/caymanislands" title="Cayman Islands"><span>Cayman Islands</span></a></li>
+<li class="li_col4"><a href="/centralafricanrepublic" title="Central African Republic"><span>Central African Republic</span></a></li>
+<li class="li_col4"><a href="/chad" title="Chad"><span>Chad</span></a></li>
+<li class="li_col4"><a href="/chile" title="Chile"><span>Chile</span></a></li>
+<li class="li_col4"><a href="/china" title="China, People’s Republic"><span>China, People’s Republic</span></a></li>
+<li class="li_col4"><a href="/taiwanprovinceofchina" title="Chinese Taipei"><span>Chinese Taipei</span></a></li>
+<li class="li_col4"><a href="/colombia" title="Colombia"><span>Colombia</span></a></li>
 </ul>
 <ul class="li_cont5">
-<li class="li_col5"><a href="/comoros;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Comoros"><span>Comoros</span></a></li>
-<li class="li_col5"><a href="/congo;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Congo"><span>Congo</span></a></li>
-<li class="li_col5"><a href="/congothedemocraticrepublicofthe;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Congo, the Democratic Republic of the"><span>Congo, the Democratic Republic of the</span></a></li>
-<li class="li_col5"><a href="/cookislands;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Cook Islands"><span>Cook Islands</span></a></li>
-<li class="li_col5"><a href="/costarica;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Costa Rica"><span>Costa Rica</span></a></li>
-<li class="li_col5"><a href="/cotedivoire;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Cote d'Ivoire"><span>Cote d'Ivoire</span></a></li>
-<li class="li_col5"><a href="/croatia;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Croatia"><span>Croatia</span></a></li>
-<li class="li_col5"><a href="/cuba;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Cuba"><span>Cuba</span></a></li>
-<li class="li_col5"><a href="/cyprus;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Cyprus"><span>Cyprus</span></a></li>
-<li class="li_col5"><a href="/czecrepublic;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Czech Republic"><span>Czech Republic</span></a></li>
+<li class="li_col5"><a href="/comoros" title="Comoros"><span>Comoros</span></a></li>
+<li class="li_col5"><a href="/congo" title="Congo"><span>Congo</span></a></li>
+<li class="li_col5"><a href="/congothedemocraticrepublicofthe" title="Congo, the Democratic Republic of the"><span>Congo, the Democratic Republic of the</span></a></li>
+<li class="li_col5"><a href="/cookislands" title="Cook Islands"><span>Cook Islands</span></a></li>
+<li class="li_col5"><a href="/costarica" title="Costa Rica"><span>Costa Rica</span></a></li>
+<li class="li_col5"><a href="/cotedivoire" title="Cote d'Ivoire"><span>Cote d'Ivoire</span></a></li>
+<li class="li_col5"><a href="/croatia" title="Croatia"><span>Croatia</span></a></li>
+<li class="li_col5"><a href="/cuba" title="Cuba"><span>Cuba</span></a></li>
+<li class="li_col5"><a href="/cyprus" title="Cyprus"><span>Cyprus</span></a></li>
+<li class="li_col5"><a href="/czecrepublic" title="Czech Republic"><span>Czech Republic</span></a></li>
 </ul>
 <div class="hidden sortCountrylistContainer"></div>
 </div>
@@ -328,59 +325,59 @@ $("#breadcrumbs").ellipsis();
 <div class="pane">
 <div id="countryli_container2" class="li_container js-noReorder" data-collength="9.0">
 <ul class="li_cont1">
-<li class="li_col1"><a href="/denmark;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Denmark"><span>Denmark</span></a></li>
-<li class="li_col1"><a href="/djibouti;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Djibouti"><span>Djibouti</span></a></li>
-<li class="li_col1"><a href="/dominica;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Dominica"><span>Dominica</span></a></li>
-<li class="li_col1"><a href="/dominicanrepublic;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Dominican Republic"><span>Dominican Republic</span></a></li>
-<li class="li_col1"><a href="/ecuador;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Ecuador"><span>Ecuador</span></a></li>
-<li class="li_col1"><a href="/egypt;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Egypt"><span>Egypt</span></a></li>
-<li class="li_col1"><a href="/elsalvador;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="El Salvador"><span>El Salvador</span></a></li>
-<li class="li_col1"><a href="/equatorialguinea;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Equatorial Guinea"><span>Equatorial Guinea</span></a></li>
-<li class="li_col1"><a href="/eritrea;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Eritrea"><span>Eritrea</span></a></li>
+<li class="li_col1"><a href="/denmark" title="Denmark"><span>Denmark</span></a></li>
+<li class="li_col1"><a href="/djibouti" title="Djibouti"><span>Djibouti</span></a></li>
+<li class="li_col1"><a href="/dominica" title="Dominica"><span>Dominica</span></a></li>
+<li class="li_col1"><a href="/dominicanrepublic" title="Dominican Republic"><span>Dominican Republic</span></a></li>
+<li class="li_col1"><a href="/ecuador" title="Ecuador"><span>Ecuador</span></a></li>
+<li class="li_col1"><a href="/egypt" title="Egypt"><span>Egypt</span></a></li>
+<li class="li_col1"><a href="/elsalvador" title="El Salvador"><span>El Salvador</span></a></li>
+<li class="li_col1"><a href="/equatorialguinea" title="Equatorial Guinea"><span>Equatorial Guinea</span></a></li>
+<li class="li_col1"><a href="/eritrea" title="Eritrea"><span>Eritrea</span></a></li>
 </ul>
 <ul class="li_cont2">
-<li class="li_col2"><a href="/estonia;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Estonia"><span>Estonia</span></a></li>
-<li class="li_col2"><a href="/ethiopia;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Ethiopia"><span>Ethiopia</span></a></li>
-<li class="li_col2"><a href="/euroarea;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Euro Area"><span>Euro Area</span></a></li>
-<li class="li_col2"><a href="/eu;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="European Union"><span>European Union</span></a></li>
-<li class="li_col2"><a href="/faroeislands;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Faroe Islands"><span>Faroe Islands</span></a></li>
-<li class="li_col2"><a href="/fiji;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Fiji"><span>Fiji</span></a></li>
-<li class="li_col2"><a href="/finland;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Finland"><span>Finland</span></a></li>
-<li class="li_col2"><a href="/macedoniatheformeryugoslavrepublicof;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Former Yugoslav Republic of Macedonia (FYROM)"><span>Former Yugoslav Republic of Macedonia (FYROM)</span></a></li>
-<li class="li_col2"><a href="/france;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="France"><span>France</span></a></li>
+<li class="li_col2"><a href="/estonia" title="Estonia"><span>Estonia</span></a></li>
+<li class="li_col2"><a href="/ethiopia" title="Ethiopia"><span>Ethiopia</span></a></li>
+<li class="li_col2"><a href="/euroarea" title="Euro Area"><span>Euro Area</span></a></li>
+<li class="li_col2"><a href="/eu" title="European Union"><span>European Union</span></a></li>
+<li class="li_col2"><a href="/faroeislands" title="Faroe Islands"><span>Faroe Islands</span></a></li>
+<li class="li_col2"><a href="/fiji" title="Fiji"><span>Fiji</span></a></li>
+<li class="li_col2"><a href="/finland" title="Finland"><span>Finland</span></a></li>
+<li class="li_col2"><a href="/macedoniatheformeryugoslavrepublicof" title="Former Yugoslav Republic of Macedonia (FYROM)"><span>Former Yugoslav Republic of Macedonia (FYROM)</span></a></li>
+<li class="li_col2"><a href="/france" title="France"><span>France</span></a></li>
 </ul>
 <ul class="li_cont3">
-<li class="li_col3"><a href="/gabon;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Gabon"><span>Gabon</span></a></li>
-<li class="li_col3"><a href="/gambia;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Gambia"><span>Gambia</span></a></li>
-<li class="li_col3"><a href="/georgia;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Georgia"><span>Georgia</span></a></li>
-<li class="li_col3"><a href="/germany;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Germany"><span>Germany</span></a></li>
-<li class="li_col3"><a href="/ghana;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Ghana"><span>Ghana</span></a></li>
-<li class="li_col3"><a href="/gibraltar;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Gibraltar"><span>Gibraltar</span></a></li>
-<li class="li_col3"><a href="/greece;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Greece"><span>Greece</span></a></li>
-<li class="li_col3"><a href="/greenland;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Greenland"><span>Greenland</span></a></li>
-<li class="li_col3"><a href="/grenada;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Grenada"><span>Grenada</span></a></li>
+<li class="li_col3"><a href="/gabon" title="Gabon"><span>Gabon</span></a></li>
+<li class="li_col3"><a href="/gambia" title="Gambia"><span>Gambia</span></a></li>
+<li class="li_col3"><a href="/georgia" title="Georgia"><span>Georgia</span></a></li>
+<li class="li_col3"><a href="/germany" title="Germany"><span>Germany</span></a></li>
+<li class="li_col3"><a href="/ghana" title="Ghana"><span>Ghana</span></a></li>
+<li class="li_col3"><a href="/gibraltar" title="Gibraltar"><span>Gibraltar</span></a></li>
+<li class="li_col3"><a href="/greece" title="Greece"><span>Greece</span></a></li>
+<li class="li_col3"><a href="/greenland" title="Greenland"><span>Greenland</span></a></li>
+<li class="li_col3"><a href="/grenada" title="Grenada"><span>Grenada</span></a></li>
 </ul>
 <ul class="li_cont4">
-<li class="li_col4"><a href="/guam;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Guam"><span>Guam</span></a></li>
-<li class="li_col4"><a href="/guatemala;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Guatemala"><span>Guatemala</span></a></li>
-<li class="li_col4"><a href="/guinea;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Guinea"><span>Guinea</span></a></li>
-<li class="li_col4"><a href="/guineabissau;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Guinea-Bissau"><span>Guinea-Bissau</span></a></li>
-<li class="li_col4"><a href="/guyana;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Guyana"><span>Guyana</span></a></li>
-<li class="li_col4"><a href="/haiti;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Haiti"><span>Haiti</span></a></li>
-<li class="li_col4"><a href="/honduras;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Honduras"><span>Honduras</span></a></li>
-<li class="li_col4"><a href="/hongkong;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Hong Kong, China"><span>Hong Kong, China</span></a></li>
-<li class="li_col4"><a href="/hungary;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Hungary"><span>Hungary</span></a></li>
+<li class="li_col4"><a href="/guam" title="Guam"><span>Guam</span></a></li>
+<li class="li_col4"><a href="/guatemala" title="Guatemala"><span>Guatemala</span></a></li>
+<li class="li_col4"><a href="/guinea" title="Guinea"><span>Guinea</span></a></li>
+<li class="li_col4"><a href="/guineabissau" title="Guinea-Bissau"><span>Guinea-Bissau</span></a></li>
+<li class="li_col4"><a href="/guyana" title="Guyana"><span>Guyana</span></a></li>
+<li class="li_col4"><a href="/haiti" title="Haiti"><span>Haiti</span></a></li>
+<li class="li_col4"><a href="/honduras" title="Honduras"><span>Honduras</span></a></li>
+<li class="li_col4"><a href="/hongkong" title="Hong Kong, China"><span>Hong Kong, China</span></a></li>
+<li class="li_col4"><a href="/hungary" title="Hungary"><span>Hungary</span></a></li>
 </ul>
 <ul class="li_cont5">
-<li class="li_col5"><a href="/iceland;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Iceland"><span>Iceland</span></a></li>
-<li class="li_col5"><a href="/india;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="India"><span>India</span></a></li>
-<li class="li_col5"><a href="/indonesia;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Indonesia"><span>Indonesia</span></a></li>
-<li class="li_col5"><a href="/iranislamicrepublicof;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Iran, Islamic Republic of"><span>Iran, Islamic Republic of</span></a></li>
-<li class="li_col5"><a href="/iraq;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Iraq"><span>Iraq</span></a></li>
-<li class="li_col5"><a href="/ireland;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Ireland"><span>Ireland</span></a></li>
-<li class="li_col5"><a href="/content/country/im;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Isle of Man"><span>Isle of Man</span></a></li>
-<li class="li_col5"><a href="/israel;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Israel"><span>Israel</span></a></li>
-<li class="li_col5"><a href="/italy;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Italy"><span>Italy</span></a></li>
+<li class="li_col5"><a href="/iceland" title="Iceland"><span>Iceland</span></a></li>
+<li class="li_col5"><a href="/india" title="India"><span>India</span></a></li>
+<li class="li_col5"><a href="/indonesia" title="Indonesia"><span>Indonesia</span></a></li>
+<li class="li_col5"><a href="/iranislamicrepublicof" title="Iran, Islamic Republic of"><span>Iran, Islamic Republic of</span></a></li>
+<li class="li_col5"><a href="/iraq" title="Iraq"><span>Iraq</span></a></li>
+<li class="li_col5"><a href="/ireland" title="Ireland"><span>Ireland</span></a></li>
+<li class="li_col5"><a href="/content/country/im" title="Isle of Man"><span>Isle of Man</span></a></li>
+<li class="li_col5"><a href="/israel" title="Israel"><span>Israel</span></a></li>
+<li class="li_col5"><a href="/italy" title="Italy"><span>Italy</span></a></li>
 </ul>
 <div class="hidden sortCountrylistContainer"></div>
 </div>
@@ -389,53 +386,53 @@ $("#breadcrumbs").ellipsis();
 <div class="pane">
 <div id="countryli_container3" class="li_container js-noReorder" data-collength="8.0">
 <ul class="li_cont1">
-<li class="li_col1"><a href="/jamaica;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Jamaica"><span>Jamaica</span></a></li>
-<li class="li_col1"><a href="/japan;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Japan"><span>Japan</span></a></li>
-<li class="li_col1"><a href="/content/country/je;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Jersey"><span>Jersey</span></a></li>
-<li class="li_col1"><a href="/jordan;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Jordan"><span>Jordan</span></a></li>
-<li class="li_col1"><a href="/kazakhstan;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Kazakhstan"><span>Kazakhstan</span></a></li>
-<li class="li_col1"><a href="/kenya;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Kenya"><span>Kenya</span></a></li>
-<li class="li_col1"><a href="/kiribati;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Kiribati"><span>Kiribati</span></a></li>
-<li class="li_col1"><a href="/Kkorearepublicof;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Korea, Republic of"><span>Korea, Republic of</span></a></li>
+<li class="li_col1"><a href="/jamaica" title="Jamaica"><span>Jamaica</span></a></li>
+<li class="li_col1"><a href="/japan" title="Japan"><span>Japan</span></a></li>
+<li class="li_col1"><a href="/content/country/je" title="Jersey"><span>Jersey</span></a></li>
+<li class="li_col1"><a href="/jordan" title="Jordan"><span>Jordan</span></a></li>
+<li class="li_col1"><a href="/kazakhstan" title="Kazakhstan"><span>Kazakhstan</span></a></li>
+<li class="li_col1"><a href="/kenya" title="Kenya"><span>Kenya</span></a></li>
+<li class="li_col1"><a href="/kiribati" title="Kiribati"><span>Kiribati</span></a></li>
+<li class="li_col1"><a href="/Kkorearepublicof" title="Korea, Republic of"><span>Korea, Republic of</span></a></li>
 </ul>
 <ul class="li_cont2">
-<li class="li_col2"><a href="/kuwait;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Kuwait"><span>Kuwait</span></a></li>
-<li class="li_col2"><a href="/kyrgyzstan;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Kyrgyzstan"><span>Kyrgyzstan</span></a></li>
-<li class="li_col2"><a href="/laopeoplesdemocraticrepublic;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Lao People's Democratic Republic"><span>Lao People's Democratic Republic</span></a></li>
-<li class="li_col2"><a href="/latvia;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Latvia"><span>Latvia</span></a></li>
-<li class="li_col2"><a href="/lebanon;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Lebanon"><span>Lebanon</span></a></li>
-<li class="li_col2"><a href="/lesotho;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Lesotho"><span>Lesotho</span></a></li>
-<li class="li_col2"><a href="/liberia;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Liberia"><span>Liberia</span></a></li>
-<li class="li_col2"><a href="/libyanarabjamahiriya;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Libya"><span>Libya</span></a></li>
+<li class="li_col2"><a href="/kuwait" title="Kuwait"><span>Kuwait</span></a></li>
+<li class="li_col2"><a href="/kyrgyzstan" title="Kyrgyzstan"><span>Kyrgyzstan</span></a></li>
+<li class="li_col2"><a href="/laopeoplesdemocraticrepublic" title="Lao People's Democratic Republic"><span>Lao People's Democratic Republic</span></a></li>
+<li class="li_col2"><a href="/latvia" title="Latvia"><span>Latvia</span></a></li>
+<li class="li_col2"><a href="/lebanon" title="Lebanon"><span>Lebanon</span></a></li>
+<li class="li_col2"><a href="/lesotho" title="Lesotho"><span>Lesotho</span></a></li>
+<li class="li_col2"><a href="/liberia" title="Liberia"><span>Liberia</span></a></li>
+<li class="li_col2"><a href="/libyanarabjamahiriya" title="Libya"><span>Libya</span></a></li>
 </ul>
 <ul class="li_cont3">
-<li class="li_col3"><a href="/liechtenstein;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Liechtenstein"><span>Liechtenstein</span></a></li>
-<li class="li_col3"><a href="/lithuania;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Lithuania"><span>Lithuania</span></a></li>
-<li class="li_col3"><a href="/luxembourg;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Luxembourg"><span>Luxembourg</span></a></li>
-<li class="li_col3"><a href="/macao;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Macau, China"><span>Macau, China</span></a></li>
-<li class="li_col3"><a href="/madagascar;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Madagascar"><span>Madagascar</span></a></li>
-<li class="li_col3"><a href="/malawi;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Malawi"><span>Malawi</span></a></li>
-<li class="li_col3"><a href="/malaysia;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Malaysia"><span>Malaysia</span></a></li>
-<li class="li_col3"><a href="/maldives;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Maldives"><span>Maldives</span></a></li>
+<li class="li_col3"><a href="/liechtenstein" title="Liechtenstein"><span>Liechtenstein</span></a></li>
+<li class="li_col3"><a href="/lithuania" title="Lithuania"><span>Lithuania</span></a></li>
+<li class="li_col3"><a href="/luxembourg" title="Luxembourg"><span>Luxembourg</span></a></li>
+<li class="li_col3"><a href="/macao" title="Macau, China"><span>Macau, China</span></a></li>
+<li class="li_col3"><a href="/madagascar" title="Madagascar"><span>Madagascar</span></a></li>
+<li class="li_col3"><a href="/malawi" title="Malawi"><span>Malawi</span></a></li>
+<li class="li_col3"><a href="/malaysia" title="Malaysia"><span>Malaysia</span></a></li>
+<li class="li_col3"><a href="/maldives" title="Maldives"><span>Maldives</span></a></li>
 </ul>
 <ul class="li_cont4">
-<li class="li_col4"><a href="/mali;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Mali"><span>Mali</span></a></li>
-<li class="li_col4"><a href="/malta;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Malta"><span>Malta</span></a></li>
-<li class="li_col4"><a href="/marshallislands;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Marshall Islands"><span>Marshall Islands</span></a></li>
-<li class="li_col4"><a href="/mauritania;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Mauritania"><span>Mauritania</span></a></li>
-<li class="li_col4"><a href="/mauritius;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Mauritius"><span>Mauritius</span></a></li>
-<li class="li_col4"><a href="/mexico;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Mexico"><span>Mexico</span></a></li>
-<li class="li_col4"><a href="/micronesiafederatedstatesof;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Micronesia, Federated States of"><span>Micronesia, Federated States of</span></a></li>
-<li class="li_col4"><a href="/moldovarepublicof;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Moldova, Republic of"><span>Moldova, Republic of</span></a></li>
+<li class="li_col4"><a href="/mali" title="Mali"><span>Mali</span></a></li>
+<li class="li_col4"><a href="/malta" title="Malta"><span>Malta</span></a></li>
+<li class="li_col4"><a href="/marshallislands" title="Marshall Islands"><span>Marshall Islands</span></a></li>
+<li class="li_col4"><a href="/mauritania" title="Mauritania"><span>Mauritania</span></a></li>
+<li class="li_col4"><a href="/mauritius" title="Mauritius"><span>Mauritius</span></a></li>
+<li class="li_col4"><a href="/mexico" title="Mexico"><span>Mexico</span></a></li>
+<li class="li_col4"><a href="/micronesiafederatedstatesof" title="Micronesia, Federated States of"><span>Micronesia, Federated States of</span></a></li>
+<li class="li_col4"><a href="/moldovarepublicof" title="Moldova, Republic of"><span>Moldova, Republic of</span></a></li>
 </ul>
 <ul class="li_cont5">
-<li class="li_col5"><a href="/monaco;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Monaco"><span>Monaco</span></a></li>
-<li class="li_col5"><a href="/mongolia;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Mongolia"><span>Mongolia</span></a></li>
-<li class="li_col5"><a href="/montenegro;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Montenegro"><span>Montenegro</span></a></li>
-<li class="li_col5"><a href="/montserrat;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Montserrat"><span>Montserrat</span></a></li>
-<li class="li_col5"><a href="/morocco;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Morocco"><span>Morocco</span></a></li>
-<li class="li_col5"><a href="/mozambique;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Mozambique"><span>Mozambique</span></a></li>
-<li class="li_col5"><a href="/myanmar;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Myanmar"><span>Myanmar</span></a></li>
+<li class="li_col5"><a href="/monaco" title="Monaco"><span>Monaco</span></a></li>
+<li class="li_col5"><a href="/mongolia" title="Mongolia"><span>Mongolia</span></a></li>
+<li class="li_col5"><a href="/montenegro" title="Montenegro"><span>Montenegro</span></a></li>
+<li class="li_col5"><a href="/montserrat" title="Montserrat"><span>Montserrat</span></a></li>
+<li class="li_col5"><a href="/morocco" title="Morocco"><span>Morocco</span></a></li>
+<li class="li_col5"><a href="/mozambique" title="Mozambique"><span>Mozambique</span></a></li>
+<li class="li_col5"><a href="/myanmar" title="Myanmar"><span>Myanmar</span></a></li>
 </ul>
 <div class="hidden sortCountrylistContainer"></div>
 </div>
@@ -444,40 +441,40 @@ $("#breadcrumbs").ellipsis();
 <div class="pane">
 <div id="countryli_container4" class="li_container js-noReorder" data-collength="6.0">
 <ul class="li_cont1">
-<li class="li_col1"><a href="/namibia;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Namibia"><span>Namibia</span></a></li>
-<li class="li_col1"><a href="/nauru;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Nauru"><span>Nauru</span></a></li>
-<li class="li_col1"><a href="/nepal;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Nepal"><span>Nepal</span></a></li>
-<li class="li_col1"><a href="/netherlands;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Netherlands"><span>Netherlands</span></a></li>
-<li class="li_col1"><a href="/newzealand;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="New Zealand"><span>New Zealand</span></a></li>
-<li class="li_col1"><a href="/nicaragua;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Nicaragua"><span>Nicaragua</span></a></li>
+<li class="li_col1"><a href="/namibia" title="Namibia"><span>Namibia</span></a></li>
+<li class="li_col1"><a href="/nauru" title="Nauru"><span>Nauru</span></a></li>
+<li class="li_col1"><a href="/nepal" title="Nepal"><span>Nepal</span></a></li>
+<li class="li_col1"><a href="/netherlands" title="Netherlands"><span>Netherlands</span></a></li>
+<li class="li_col1"><a href="/newzealand" title="New Zealand"><span>New Zealand</span></a></li>
+<li class="li_col1"><a href="/nicaragua" title="Nicaragua"><span>Nicaragua</span></a></li>
 </ul>
 <ul class="li_cont2">
-<li class="li_col2"><a href="/niger;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Niger"><span>Niger</span></a></li>
-<li class="li_col2"><a href="/nigeria;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Nigeria"><span>Nigeria</span></a></li>
-<li class="li_col2"><a href="/niue;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Niue"><span>Niue</span></a></li>
-<li class="li_col2"><a href="/norway;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Norway"><span>Norway</span></a></li>
-<li class="li_col2"><a href="/oman;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Oman"><span>Oman</span></a></li>
-<li class="li_col2"><a href="/pakistan;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Pakistan"><span>Pakistan</span></a></li>
+<li class="li_col2"><a href="/niger" title="Niger"><span>Niger</span></a></li>
+<li class="li_col2"><a href="/nigeria" title="Nigeria"><span>Nigeria</span></a></li>
+<li class="li_col2"><a href="/niue" title="Niue"><span>Niue</span></a></li>
+<li class="li_col2"><a href="/norway" title="Norway"><span>Norway</span></a></li>
+<li class="li_col2"><a href="/oman" title="Oman"><span>Oman</span></a></li>
+<li class="li_col2"><a href="/pakistan" title="Pakistan"><span>Pakistan</span></a></li>
 </ul>
 <ul class="li_cont3">
-<li class="li_col3"><a href="/palau;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Palau"><span>Palau</span></a></li>
-<li class="li_col3"><a href="/palestinianterritoryoccupied;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Palestinian Authority"><span>Palestinian Authority</span></a></li>
-<li class="li_col3"><a href="/panama;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Panama"><span>Panama</span></a></li>
-<li class="li_col3"><a href="/papuanewguinea;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Papua New Guinea"><span>Papua New Guinea</span></a></li>
-<li class="li_col3"><a href="/paraguay;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Paraguay"><span>Paraguay</span></a></li>
-<li class="li_col3"><a href="/peru;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Peru"><span>Peru</span></a></li>
+<li class="li_col3"><a href="/palau" title="Palau"><span>Palau</span></a></li>
+<li class="li_col3"><a href="/palestinianterritoryoccupied" title="Palestinian Authority"><span>Palestinian Authority</span></a></li>
+<li class="li_col3"><a href="/panama" title="Panama"><span>Panama</span></a></li>
+<li class="li_col3"><a href="/papuanewguinea" title="Papua New Guinea"><span>Papua New Guinea</span></a></li>
+<li class="li_col3"><a href="/paraguay" title="Paraguay"><span>Paraguay</span></a></li>
+<li class="li_col3"><a href="/peru" title="Peru"><span>Peru</span></a></li>
 </ul>
 <ul class="li_cont4">
-<li class="li_col4"><a href="/philippines;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Philippines"><span>Philippines</span></a></li>
-<li class="li_col4"><a href="/poland;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Poland"><span>Poland</span></a></li>
-<li class="li_col4"><a href="/portugal;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Portugal"><span>Portugal</span></a></li>
-<li class="li_col4"><a href="/puertorico;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Puerto Rico"><span>Puerto Rico</span></a></li>
-<li class="li_col4"><a href="/qatar;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Qatar"><span>Qatar</span></a></li>
-<li class="li_col4"><a href="/romania;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Romania"><span>Romania</span></a></li>
+<li class="li_col4"><a href="/philippines" title="Philippines"><span>Philippines</span></a></li>
+<li class="li_col4"><a href="/poland" title="Poland"><span>Poland</span></a></li>
+<li class="li_col4"><a href="/portugal" title="Portugal"><span>Portugal</span></a></li>
+<li class="li_col4"><a href="/puertorico" title="Puerto Rico"><span>Puerto Rico</span></a></li>
+<li class="li_col4"><a href="/qatar" title="Qatar"><span>Qatar</span></a></li>
+<li class="li_col4"><a href="/romania" title="Romania"><span>Romania</span></a></li>
 </ul>
 <ul class="li_cont5">
-<li class="li_col5"><a href="/russianfederation;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Russian Federation"><span>Russian Federation</span></a></li>
-<li class="li_col5"><a href="/rwanda;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Rwanda"><span>Rwanda</span></a></li>
+<li class="li_col5"><a href="/russianfederation" title="Russian Federation"><span>Russian Federation</span></a></li>
+<li class="li_col5"><a href="/rwanda" title="Rwanda"><span>Rwanda</span></a></li>
 </ul>
 <div class="hidden sortCountrylistContainer"></div>
 </div>
@@ -486,52 +483,52 @@ $("#breadcrumbs").ellipsis();
 <div class="pane">
 <div id="countryli_container5" class="li_container js-noReorder" data-collength="8.0">
 <ul class="li_cont1">
-<li class="li_col1"><a href="/saintkittsandnevis;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Saint Kitts and Nevis"><span>Saint Kitts and Nevis</span></a></li>
-<li class="li_col1"><a href="/saintlucia;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Saint Lucia"><span>Saint Lucia</span></a></li>
-<li class="li_col1"><a href="/saintvincentandthegrenadines;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Saint Vincent and the Grenadines"><span>Saint Vincent and the Grenadines</span></a></li>
-<li class="li_col1"><a href="/samoa;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Samoa"><span>Samoa</span></a></li>
-<li class="li_col1"><a href="/sanmarino;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="San Marino"><span>San Marino</span></a></li>
-<li class="li_col1"><a href="/saotomeandprincipe;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Sao Tome and Principe"><span>Sao Tome and Principe</span></a></li>
-<li class="li_col1"><a href="/saudiarabia;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Saudi Arabia"><span>Saudi Arabia</span></a></li>
-<li class="li_col1"><a href="/senegal;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Senegal"><span>Senegal</span></a></li>
+<li class="li_col1"><a href="/saintkittsandnevis" title="Saint Kitts and Nevis"><span>Saint Kitts and Nevis</span></a></li>
+<li class="li_col1"><a href="/saintlucia" title="Saint Lucia"><span>Saint Lucia</span></a></li>
+<li class="li_col1"><a href="/saintvincentandthegrenadines" title="Saint Vincent and the Grenadines"><span>Saint Vincent and the Grenadines</span></a></li>
+<li class="li_col1"><a href="/samoa" title="Samoa"><span>Samoa</span></a></li>
+<li class="li_col1"><a href="/sanmarino" title="San Marino"><span>San Marino</span></a></li>
+<li class="li_col1"><a href="/saotomeandprincipe" title="Sao Tome and Principe"><span>Sao Tome and Principe</span></a></li>
+<li class="li_col1"><a href="/saudiarabia" title="Saudi Arabia"><span>Saudi Arabia</span></a></li>
+<li class="li_col1"><a href="/senegal" title="Senegal"><span>Senegal</span></a></li>
 </ul>
 <ul class="li_cont2">
-<li class="li_col2"><a href="/serbia;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Serbia"><span>Serbia</span></a></li>
-<li class="li_col2"><a href="/seychelles;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Seychelles"><span>Seychelles</span></a></li>
-<li class="li_col2"><a href="/sierraleone;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Sierra Leone"><span>Sierra Leone</span></a></li>
-<li class="li_col2"><a href="/singapore;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Singapore"><span>Singapore</span></a></li>
-<li class="li_col2"><a href="/slovakia;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Slovak Republic"><span>Slovak Republic</span></a></li>
-<li class="li_col2"><a href="/slovenia;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Slovenia"><span>Slovenia</span></a></li>
-<li class="li_col2"><a href="/solomonislands;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Solomon Islands"><span>Solomon Islands</span></a></li>
-<li class="li_col2"><a href="/somalia;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Somalia"><span>Somalia</span></a></li>
+<li class="li_col2"><a href="/serbia" title="Serbia"><span>Serbia</span></a></li>
+<li class="li_col2"><a href="/seychelles" title="Seychelles"><span>Seychelles</span></a></li>
+<li class="li_col2"><a href="/sierraleone" title="Sierra Leone"><span>Sierra Leone</span></a></li>
+<li class="li_col2"><a href="/singapore" title="Singapore"><span>Singapore</span></a></li>
+<li class="li_col2"><a href="/slovakia" title="Slovak Republic"><span>Slovak Republic</span></a></li>
+<li class="li_col2"><a href="/slovenia" title="Slovenia"><span>Slovenia</span></a></li>
+<li class="li_col2"><a href="/solomonislands" title="Solomon Islands"><span>Solomon Islands</span></a></li>
+<li class="li_col2"><a href="/somalia" title="Somalia"><span>Somalia</span></a></li>
 </ul>
 <ul class="li_cont3">
-<li class="li_col3"><a href="/southafrica;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="South Africa"><span>South Africa</span></a></li>
-<li class="li_col3"><a href="/content/country/ss;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="South Sudan"><span>South Sudan</span></a></li>
-<li class="li_col3"><a href="/spain;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Spain"><span>Spain</span></a></li>
-<li class="li_col3"><a href="/srilanka;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Sri Lanka"><span>Sri Lanka</span></a></li>
-<li class="li_col3"><a href="/sudan;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Sudan"><span>Sudan</span></a></li>
-<li class="li_col3"><a href="/suriname;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Suriname"><span>Suriname</span></a></li>
-<li class="li_col3"><a href="/swaziland;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Swaziland"><span>Swaziland</span></a></li>
-<li class="li_col3"><a href="/sweden;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Sweden"><span>Sweden</span></a></li>
+<li class="li_col3"><a href="/southafrica" title="South Africa"><span>South Africa</span></a></li>
+<li class="li_col3"><a href="/content/country/ss" title="South Sudan"><span>South Sudan</span></a></li>
+<li class="li_col3"><a href="/spain" title="Spain"><span>Spain</span></a></li>
+<li class="li_col3"><a href="/srilanka" title="Sri Lanka"><span>Sri Lanka</span></a></li>
+<li class="li_col3"><a href="/sudan" title="Sudan"><span>Sudan</span></a></li>
+<li class="li_col3"><a href="/suriname" title="Suriname"><span>Suriname</span></a></li>
+<li class="li_col3"><a href="/swaziland" title="Swaziland"><span>Swaziland</span></a></li>
+<li class="li_col3"><a href="/sweden" title="Sweden"><span>Sweden</span></a></li>
 </ul>
 <ul class="li_cont4">
-<li class="li_col4"><a href="/switzerland;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Switzerland"><span>Switzerland</span></a></li>
-<li class="li_col4"><a href="/syriaarabrepublic;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Syrian Arab Republic"><span>Syrian Arab Republic</span></a></li>
-<li class="li_col4"><a href="/tajikistan;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Tajikistan"><span>Tajikistan</span></a></li>
-<li class="li_col4"><a href="/tanzaniaunitedrepublicof;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Tanzania, United Republic of"><span>Tanzania, United Republic of</span></a></li>
-<li class="li_col4"><a href="/thailand;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Thailand"><span>Thailand</span></a></li>
-<li class="li_col4"><a href="/timorleste;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Timor-Leste"><span>Timor-Leste</span></a></li>
-<li class="li_col4"><a href="/togo;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Togo"><span>Togo</span></a></li>
-<li class="li_col4"><a href="/tonga;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Tonga"><span>Tonga</span></a></li>
+<li class="li_col4"><a href="/switzerland" title="Switzerland"><span>Switzerland</span></a></li>
+<li class="li_col4"><a href="/syriaarabrepublic" title="Syrian Arab Republic"><span>Syrian Arab Republic</span></a></li>
+<li class="li_col4"><a href="/tajikistan" title="Tajikistan"><span>Tajikistan</span></a></li>
+<li class="li_col4"><a href="/tanzaniaunitedrepublicof" title="Tanzania, United Republic of"><span>Tanzania, United Republic of</span></a></li>
+<li class="li_col4"><a href="/thailand" title="Thailand"><span>Thailand</span></a></li>
+<li class="li_col4"><a href="/timorleste" title="Timor-Leste"><span>Timor-Leste</span></a></li>
+<li class="li_col4"><a href="/togo" title="Togo"><span>Togo</span></a></li>
+<li class="li_col4"><a href="/tonga" title="Tonga"><span>Tonga</span></a></li>
 </ul>
 <ul class="li_cont5">
-<li class="li_col5"><a href="/trinidadandtobago;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Trinidad and Tobago"><span>Trinidad and Tobago</span></a></li>
-<li class="li_col5"><a href="/tunisia;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Tunisia"><span>Tunisia</span></a></li>
-<li class="li_col5"><a href="/turkey;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Turkey"><span>Turkey</span></a></li>
-<li class="li_col5"><a href="/turkmenistan;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Turkmenistan"><span>Turkmenistan</span></a></li>
-<li class="li_col5"><a href="/turksandcaicosislands;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Turks and Caicos Islands"><span>Turks and Caicos Islands</span></a></li>
-<li class="li_col5"><a href="/tuvalu;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Tuvalu"><span>Tuvalu</span></a></li>
+<li class="li_col5"><a href="/trinidadandtobago" title="Trinidad and Tobago"><span>Trinidad and Tobago</span></a></li>
+<li class="li_col5"><a href="/tunisia" title="Tunisia"><span>Tunisia</span></a></li>
+<li class="li_col5"><a href="/turkey" title="Turkey"><span>Turkey</span></a></li>
+<li class="li_col5"><a href="/turkmenistan" title="Turkmenistan"><span>Turkmenistan</span></a></li>
+<li class="li_col5"><a href="/turksandcaicosislands" title="Turks and Caicos Islands"><span>Turks and Caicos Islands</span></a></li>
+<li class="li_col5"><a href="/tuvalu" title="Tuvalu"><span>Tuvalu</span></a></li>
 </ul>
 <div class="hidden sortCountrylistContainer"></div>
 </div>
@@ -540,28 +537,28 @@ $("#breadcrumbs").ellipsis();
 <div class="pane">
 <div id="countryli_container6" class="li_container js-noReorder" data-collength="3.0">
 <ul class="li_cont1">
-<li class="li_col1"><a href="/uganda;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Uganda"><span>Uganda</span></a></li>
-<li class="li_col1"><a href="/ukraine;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Ukraine"><span>Ukraine</span></a></li>
-<li class="li_col1"><a href="/unitedarabemirates;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="United Arab Emirates"><span>United Arab Emirates</span></a></li>
+<li class="li_col1"><a href="/uganda" title="Uganda"><span>Uganda</span></a></li>
+<li class="li_col1"><a href="/ukraine" title="Ukraine"><span>Ukraine</span></a></li>
+<li class="li_col1"><a href="/unitedarabemirates" title="United Arab Emirates"><span>United Arab Emirates</span></a></li>
 </ul>
 <ul class="li_cont2">
-<li class="li_col2"><a href="/unitedkingdom;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="United Kingdom"><span>United Kingdom</span></a></li>
-<li class="li_col2"><a href="/unitedstates;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="United States"><span>United States</span></a></li>
-<li class="li_col2"><a href="/uruguay;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Uruguay"><span>Uruguay</span></a></li>
+<li class="li_col2"><a href="/unitedkingdom" title="United Kingdom"><span>United Kingdom</span></a></li>
+<li class="li_col2"><a href="/unitedstates" title="United States"><span>United States</span></a></li>
+<li class="li_col2"><a href="/uruguay" title="Uruguay"><span>Uruguay</span></a></li>
 </ul>
 <ul class="li_cont3">
-<li class="li_col3"><a href="/uzbekistan;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Uzbekistan"><span>Uzbekistan</span></a></li>
-<li class="li_col3"><a href="/vanuatu;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Vanuatu"><span>Vanuatu</span></a></li>
-<li class="li_col3"><a href="/venezuela;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Venezuela"><span>Venezuela</span></a></li>
+<li class="li_col3"><a href="/uzbekistan" title="Uzbekistan"><span>Uzbekistan</span></a></li>
+<li class="li_col3"><a href="/vanuatu" title="Vanuatu"><span>Vanuatu</span></a></li>
+<li class="li_col3"><a href="/venezuela" title="Venezuela"><span>Venezuela</span></a></li>
 </ul>
 <ul class="li_cont4">
-<li class="li_col4"><a href="/vietnam;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Viet Nam"><span>Viet Nam</span></a></li>
-<li class="li_col4"><a href="/content/country/vg;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Virgin Islands, British"><span>Virgin Islands, British</span></a></li>
-<li class="li_col4"><a href="/yemen;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Yemen"><span>Yemen</span></a></li>
+<li class="li_col4"><a href="/vietnam" title="Viet Nam"><span>Viet Nam</span></a></li>
+<li class="li_col4"><a href="/content/country/vg" title="Virgin Islands, British"><span>Virgin Islands, British</span></a></li>
+<li class="li_col4"><a href="/yemen" title="Yemen"><span>Yemen</span></a></li>
 </ul>
 <ul class="li_cont5">
-<li class="li_col5"><a href="/zambia;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Zambia"><span>Zambia</span></a></li>
-<li class="li_col5"><a href="/zimbabwe;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Zimbabwe"><span>Zimbabwe</span></a></li>
+<li class="li_col5"><a href="/zambia" title="Zambia"><span>Zambia</span></a></li>
+<li class="li_col5"><a href="/zimbabwe" title="Zimbabwe"><span>Zimbabwe</span></a></li>
 </ul>
 <div class="hidden sortCountrylistContainer"></div>
 </div>
@@ -574,7 +571,7 @@ $("#breadcrumbs").ellipsis();
 <li class="navItem nav3"><a href="#" title="Browse by Theme &amp; Country" class="hasPanel"><span>Browse by</span> Theme &amp; Country</a>
 <!-- start of Theme&Country list -->
 <div id="themeCountryList" class="mainPane clearfix">
-<form action="/search;jsessionid=22c3262c0r3t8.x-oecd-live-02" id="themeandcountryform">
+<form action="/search" id="themeandcountryform">
 <input type="hidden" value="en" name="site">
 <input type="hidden" value="fullText" name="option1">
 <input type="hidden" value="*" name="value1">
@@ -630,39 +627,39 @@ $("#breadcrumbs").ellipsis();
 all</span></h3>
 </li>
 <input type="hidden" value="theme" name="option16">
-<li class="li_col1"><input type="checkbox" value="/content/subject/30" name="value16" id="themeitem1" data-url="/agriculture;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<li class="li_col1"><input type="checkbox" value="/content/subject/30" name="value16" id="themeitem1" data-url="/agriculture">
 <label class="langThemeTitle" for="themeitem1">Agriculture and Food</label></li>
-<li class="li_col1"><input type="checkbox" value="/content/subject/40" name="value16" id="themeitem2" data-url="/development;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<li class="li_col1"><input type="checkbox" value="/content/subject/40" name="value16" id="themeitem2" data-url="/development">
 <label class="langThemeTitle" for="themeitem2">Development</label></li>
-<li class="li_col1"><input type="checkbox" value="/content/subject/79" name="value16" id="themeitem3" data-url="/economics;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<li class="li_col1"><input type="checkbox" value="/content/subject/79" name="value16" id="themeitem3" data-url="/economics">
 <label class="langThemeTitle" for="themeitem3">Economics</label></li>
-<li class="li_col1"><input type="checkbox" value="/content/subject/31" name="value16" id="themeitem4" data-url="/education;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<li class="li_col1"><input type="checkbox" value="/content/subject/31" name="value16" id="themeitem4" data-url="/education">
 <label class="langThemeTitle" for="themeitem4">Education</label></li>
-<li class="li_col1"><input type="checkbox" value="/content/subject/33" name="value16" id="themeitem5" data-url="/employment;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<li class="li_col1"><input type="checkbox" value="/content/subject/33" name="value16" id="themeitem5" data-url="/employment">
 <label class="langThemeTitle" for="themeitem5">Employment</label></li>
-<li class="li_col1"><input type="checkbox" value="/content/subject/34" name="value16" id="themeitem6" data-url="/energy;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<li class="li_col1"><input type="checkbox" value="/content/subject/34" name="value16" id="themeitem6" data-url="/energy">
 <label class="langThemeTitle" for="themeitem6">Energy</label></li>
-<li class="li_col1"><input type="checkbox" value="/content/subject/36" name="value16" id="themeitem7" data-url="/environment;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<li class="li_col1"><input type="checkbox" value="/content/subject/36" name="value16" id="themeitem7" data-url="/environment">
 <label class="langThemeTitle" for="themeitem7">Environment</label></li>
-<li class="li_col1"><input type="checkbox" value="/content/subject/37" name="value16" id="themeitem8" data-url="/finance;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<li class="li_col1"><input type="checkbox" value="/content/subject/37" name="value16" id="themeitem8" data-url="/finance">
 <label class="langThemeTitle" for="themeitem8">Finance and Investment</label></li>
-<li class="li_col1"><input type="checkbox" value="/content/subject/39" name="value16" id="themeitem9" data-url="/governance;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<li class="li_col1"><input type="checkbox" value="/content/subject/39" name="value16" id="themeitem9" data-url="/governance">
 <label class="langThemeTitle" for="themeitem9">Governance</label></li>
-<li class="li_col1"><input type="checkbox" value="/content/subject/77" name="value16" id="themeitem10" data-url="/industry;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<li class="li_col1"><input type="checkbox" value="/content/subject/77" name="value16" id="themeitem10" data-url="/industry">
 <label class="langThemeTitle" for="themeitem10">Industry and Services</label></li>
-<li class="li_col1"><input type="checkbox" value="/content/subject/41" name="value16" id="themeitem11" data-url="/nuclear;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<li class="li_col1"><input type="checkbox" value="/content/subject/41" name="value16" id="themeitem11" data-url="/nuclear">
 <label class="langThemeTitle" for="themeitem11">Nuclear Energy</label></li>
-<li class="li_col1"><input type="checkbox" value="/content/subject/42" name="value16" id="themeitem12" data-url="/science;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<li class="li_col1"><input type="checkbox" value="/content/subject/42" name="value16" id="themeitem12" data-url="/science">
 <label class="langThemeTitle" for="themeitem12">Science and Technology</label></li>
-<li class="li_col1"><input type="checkbox" value="/content/subject/43" name="value16" id="themeitem13" data-url="/socialissues;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<li class="li_col1"><input type="checkbox" value="/content/subject/43" name="value16" id="themeitem13" data-url="/socialissues">
 <label class="langThemeTitle" for="themeitem13">Social Issues/Migration/Health</label></li>
-<li class="li_col1"><input type="checkbox" value="/content/subject/45" name="value16" id="themeitem14" data-url="/taxation;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<li class="li_col1"><input type="checkbox" value="/content/subject/45" name="value16" id="themeitem14" data-url="/taxation">
 <label class="langThemeTitle" for="themeitem14">Taxation</label></li>
-<li class="li_col1"><input type="checkbox" value="/content/subject/78" name="value16" id="themeitem15" data-url="/trade;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<li class="li_col1"><input type="checkbox" value="/content/subject/78" name="value16" id="themeitem15" data-url="/trade">
 <label class="langThemeTitle" for="themeitem15">Trade</label></li>
-<li class="li_col1"><input type="checkbox" value="/content/subject/48" name="value16" id="themeitem16" data-url="/transport;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<li class="li_col1"><input type="checkbox" value="/content/subject/48" name="value16" id="themeitem16" data-url="/transport">
 <label class="langThemeTitle" for="themeitem16">Transport</label></li>
-<li class="li_col1"><input type="checkbox" value="/content/subject/46" name="value16" id="themeitem17" data-url="/regions;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<li class="li_col1"><input type="checkbox" value="/content/subject/46" name="value16" id="themeitem17" data-url="/regions">
 <label class="langThemeTitle" for="themeitem17">Urban, Rural and Regional Development</label></li>
 </ul>
 <ul class="li_cont2">
@@ -675,652 +672,652 @@ all</span></h3>
 <div>
 <input type="hidden" value="country" name="option17">
 <li class="li_col1">
-<input type="checkbox" value="af" name="value17" id="countryitem1" data-url="/afghanistan;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="af" name="value17" id="countryitem1" data-url="/afghanistan">
 <label class="langCountryTitle" for="countryitem1">Afghanistan</label></li>
 <li class="li_col1">
-<input type="checkbox" value="al" name="value17" id="countryitem2" data-url="/albania;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="al" name="value17" id="countryitem2" data-url="/albania">
 <label class="langCountryTitle" for="countryitem2">Albania</label></li>
 <li class="li_col1">
-<input type="checkbox" value="dz" name="value17" id="countryitem3" data-url="/algeria;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="dz" name="value17" id="countryitem3" data-url="/algeria">
 <label class="langCountryTitle" for="countryitem3">Algeria</label></li>
 <li class="li_col1">
-<input type="checkbox" value="as" name="value17" id="countryitem4" data-url="/americansamoa;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="as" name="value17" id="countryitem4" data-url="/americansamoa">
 <label class="langCountryTitle" for="countryitem4">American Samoa</label></li>
 <li class="li_col1">
-<input type="checkbox" value="ad" name="value17" id="countryitem5" data-url="/andorra;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="ad" name="value17" id="countryitem5" data-url="/andorra">
 <label class="langCountryTitle" for="countryitem5">Andorra</label></li>
 <li class="li_col1">
-<input type="checkbox" value="ao" name="value17" id="countryitem6" data-url="/angola;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="ao" name="value17" id="countryitem6" data-url="/angola">
 <label class="langCountryTitle" for="countryitem6">Angola</label></li>
 <li class="li_col1">
-<input type="checkbox" value="ai" name="value17" id="countryitem7" data-url="/anguilla;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="ai" name="value17" id="countryitem7" data-url="/anguilla">
 <label class="langCountryTitle" for="countryitem7">Anguilla</label></li>
 <li class="li_col1">
-<input type="checkbox" value="ag" name="value17" id="countryitem8" data-url="/antiguaandbarbuda;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="ag" name="value17" id="countryitem8" data-url="/antiguaandbarbuda">
 <label class="langCountryTitle" for="countryitem8">Antigua and Barbuda</label></li>
 <li class="li_col1">
-<input type="checkbox" value="ar" name="value17" id="countryitem9" data-url="/argentina;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="ar" name="value17" id="countryitem9" data-url="/argentina">
 <label class="langCountryTitle" for="countryitem9">Argentina</label></li>
 <li class="li_col1">
-<input type="checkbox" value="am" name="value17" id="countryitem10" data-url="/armenia;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="am" name="value17" id="countryitem10" data-url="/armenia">
 <label class="langCountryTitle" for="countryitem10">Armenia</label></li>
 <li class="li_col1">
-<input type="checkbox" value="aw" name="value17" id="countryitem11" data-url="/aruba;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="aw" name="value17" id="countryitem11" data-url="/aruba">
 <label class="langCountryTitle" for="countryitem11">Aruba</label></li>
 <li class="li_col1">
-<input type="checkbox" value="au" name="value17" id="countryitem12" data-url="/australia;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="au" name="value17" id="countryitem12" data-url="/australia">
 <label class="langCountryTitle" for="countryitem12">Australia</label></li>
 <li class="li_col1">
-<input type="checkbox" value="at" name="value17" id="countryitem13" data-url="/austria;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="at" name="value17" id="countryitem13" data-url="/austria">
 <label class="langCountryTitle" for="countryitem13">Austria</label></li>
 <li class="li_col1">
-<input type="checkbox" value="az" name="value17" id="countryitem14" data-url="/azerbaijan;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="az" name="value17" id="countryitem14" data-url="/azerbaijan">
 <label class="langCountryTitle" for="countryitem14">Azerbaijan</label></li>
 <li class="li_col1">
-<input type="checkbox" value="bs" name="value17" id="countryitem15" data-url="/bahamas;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="bs" name="value17" id="countryitem15" data-url="/bahamas">
 <label class="langCountryTitle" for="countryitem15">Bahamas</label></li>
 <li class="li_col1">
-<input type="checkbox" value="bh" name="value17" id="countryitem16" data-url="/bahrain;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="bh" name="value17" id="countryitem16" data-url="/bahrain">
 <label class="langCountryTitle" for="countryitem16">Bahrain</label></li>
 <li class="li_col1">
-<input type="checkbox" value="bst" name="value17" id="countryitem17" data-url="/balticstates;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="bst" name="value17" id="countryitem17" data-url="/balticstates">
 <label class="langCountryTitle" for="countryitem17">Baltic States</label></li>
 <li class="li_col1">
-<input type="checkbox" value="bd" name="value17" id="countryitem18" data-url="/bangladesh;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="bd" name="value17" id="countryitem18" data-url="/bangladesh">
 <label class="langCountryTitle" for="countryitem18">Bangladesh</label></li>
 <li class="li_col1">
-<input type="checkbox" value="bb" name="value17" id="countryitem19" data-url="/barbados;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="bb" name="value17" id="countryitem19" data-url="/barbados">
 <label class="langCountryTitle" for="countryitem19">Barbados</label></li>
 <li class="li_col1">
-<input type="checkbox" value="by" name="value17" id="countryitem20" data-url="/belarus;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="by" name="value17" id="countryitem20" data-url="/belarus">
 <label class="langCountryTitle" for="countryitem20">Belarus</label></li>
 <li class="li_col1">
-<input type="checkbox" value="be" name="value17" id="countryitem21" data-url="/belgium;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="be" name="value17" id="countryitem21" data-url="/belgium">
 <label class="langCountryTitle" for="countryitem21">Belgium</label></li>
 <li class="li_col1">
-<input type="checkbox" value="bz" name="value17" id="countryitem22" data-url="/belize;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="bz" name="value17" id="countryitem22" data-url="/belize">
 <label class="langCountryTitle" for="countryitem22">Belize</label></li>
 <li class="li_col1">
-<input type="checkbox" value="bj" name="value17" id="countryitem23" data-url="/benin;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="bj" name="value17" id="countryitem23" data-url="/benin">
 <label class="langCountryTitle" for="countryitem23">Benin</label></li>
 <li class="li_col1">
-<input type="checkbox" value="bm" name="value17" id="countryitem24" data-url="/bermuda;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="bm" name="value17" id="countryitem24" data-url="/bermuda">
 <label class="langCountryTitle" for="countryitem24">Bermuda</label></li>
 <li class="li_col1">
-<input type="checkbox" value="bt" name="value17" id="countryitem25" data-url="/bhutan;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="bt" name="value17" id="countryitem25" data-url="/bhutan">
 <label class="langCountryTitle" for="countryitem25">Bhutan</label></li>
 <li class="li_col1">
-<input type="checkbox" value="bo" name="value17" id="countryitem26" data-url="/bolivia;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="bo" name="value17" id="countryitem26" data-url="/bolivia">
 <label class="langCountryTitle" for="countryitem26">Bolivia</label></li>
 <li class="li_col1">
-<input type="checkbox" value="ba" name="value17" id="countryitem27" data-url="/bosniaandherzegovina;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="ba" name="value17" id="countryitem27" data-url="/bosniaandherzegovina">
 <label class="langCountryTitle" for="countryitem27">Bosnia and Herzegovina</label></li>
 <li class="li_col1">
-<input type="checkbox" value="bw" name="value17" id="countryitem28" data-url="/botswana;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="bw" name="value17" id="countryitem28" data-url="/botswana">
 <label class="langCountryTitle" for="countryitem28">Botswana</label></li>
 <li class="li_col1">
-<input type="checkbox" value="br" name="value17" id="countryitem29" data-url="/brazil;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="br" name="value17" id="countryitem29" data-url="/brazil">
 <label class="langCountryTitle" for="countryitem29">Brazil</label></li>
 <li class="li_col1">
-<input type="checkbox" value="bn" name="value17" id="countryitem30" data-url="/bruneidarussalam;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="bn" name="value17" id="countryitem30" data-url="/bruneidarussalam">
 <label class="langCountryTitle" for="countryitem30">Brunei Darussalam</label></li>
 <li class="li_col1">
-<input type="checkbox" value="bg" name="value17" id="countryitem31" data-url="/bulgaria;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="bg" name="value17" id="countryitem31" data-url="/bulgaria">
 <label class="langCountryTitle" for="countryitem31">Bulgaria</label></li>
 <li class="li_col1">
-<input type="checkbox" value="bf" name="value17" id="countryitem32" data-url="/burkinafaso;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="bf" name="value17" id="countryitem32" data-url="/burkinafaso">
 <label class="langCountryTitle" for="countryitem32">Burkina Faso</label></li>
 <li class="li_col1">
-<input type="checkbox" value="bi" name="value17" id="countryitem33" data-url="/burundi;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="bi" name="value17" id="countryitem33" data-url="/burundi">
 <label class="langCountryTitle" for="countryitem33">Burundi</label></li>
 <li class="li_col1">
-<input type="checkbox" value="kh" name="value17" id="countryitem34" data-url="/cambodia;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="kh" name="value17" id="countryitem34" data-url="/cambodia">
 <label class="langCountryTitle" for="countryitem34">Cambodia</label></li>
 <li class="li_col1">
-<input type="checkbox" value="cm" name="value17" id="countryitem35" data-url="/cameroon;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="cm" name="value17" id="countryitem35" data-url="/cameroon">
 <label class="langCountryTitle" for="countryitem35">Cameroon</label></li>
 <li class="li_col1">
-<input type="checkbox" value="ca" name="value17" id="countryitem36" data-url="/canada;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="ca" name="value17" id="countryitem36" data-url="/canada">
 <label class="langCountryTitle" for="countryitem36">Canada</label></li>
 <li class="li_col1">
-<input type="checkbox" value="cv" name="value17" id="countryitem37" data-url="/capeverde;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="cv" name="value17" id="countryitem37" data-url="/capeverde">
 <label class="langCountryTitle" for="countryitem37">Cape Verde</label></li>
 <li class="li_col1">
-<input type="checkbox" value="ky" name="value17" id="countryitem38" data-url="/caymanislands;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="ky" name="value17" id="countryitem38" data-url="/caymanislands">
 <label class="langCountryTitle" for="countryitem38">Cayman Islands</label></li>
 <li class="li_col1">
-<input type="checkbox" value="cf" name="value17" id="countryitem39" data-url="/centralafricanrepublic;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="cf" name="value17" id="countryitem39" data-url="/centralafricanrepublic">
 <label class="langCountryTitle" for="countryitem39">Central African Republic</label></li>
 <li class="li_col1">
-<input type="checkbox" value="td" name="value17" id="countryitem40" data-url="/chad;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="td" name="value17" id="countryitem40" data-url="/chad">
 <label class="langCountryTitle" for="countryitem40">Chad</label></li>
 <li class="li_col1">
-<input type="checkbox" value="cl" name="value17" id="countryitem41" data-url="/chile;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="cl" name="value17" id="countryitem41" data-url="/chile">
 <label class="langCountryTitle" for="countryitem41">Chile</label></li>
 <li class="li_col1">
-<input type="checkbox" value="cn" name="value17" id="countryitem42" data-url="/china;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="cn" name="value17" id="countryitem42" data-url="/china">
 <label class="langCountryTitle" for="countryitem42">China, People’s Republic</label></li>
 <li class="li_col1">
-<input type="checkbox" value="tw" name="value17" id="countryitem43" data-url="/taiwanprovinceofchina;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="tw" name="value17" id="countryitem43" data-url="/taiwanprovinceofchina">
 <label class="langCountryTitle" for="countryitem43">Chinese Taipei</label></li>
 <li class="li_col1">
-<input type="checkbox" value="co" name="value17" id="countryitem44" data-url="/colombia;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="co" name="value17" id="countryitem44" data-url="/colombia">
 <label class="langCountryTitle" for="countryitem44">Colombia</label></li>
 <li class="li_col1">
-<input type="checkbox" value="km" name="value17" id="countryitem45" data-url="/comoros;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="km" name="value17" id="countryitem45" data-url="/comoros">
 <label class="langCountryTitle" for="countryitem45">Comoros</label></li>
 <li class="li_col1">
-<input type="checkbox" value="cg" name="value17" id="countryitem46" data-url="/congo;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="cg" name="value17" id="countryitem46" data-url="/congo">
 <label class="langCountryTitle" for="countryitem46">Congo</label></li>
 <li class="li_col1">
-<input type="checkbox" value="cd" name="value17" id="countryitem47" data-url="/congothedemocraticrepublicofthe;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="cd" name="value17" id="countryitem47" data-url="/congothedemocraticrepublicofthe">
 <label class="langCountryTitle" for="countryitem47">Congo, the Democratic Republic of the</label></li>
 <li class="li_col1">
-<input type="checkbox" value="ck" name="value17" id="countryitem48" data-url="/cookislands;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="ck" name="value17" id="countryitem48" data-url="/cookislands">
 <label class="langCountryTitle" for="countryitem48">Cook Islands</label></li>
 <li class="li_col1">
-<input type="checkbox" value="cr" name="value17" id="countryitem49" data-url="/costarica;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="cr" name="value17" id="countryitem49" data-url="/costarica">
 <label class="langCountryTitle" for="countryitem49">Costa Rica</label></li>
 <li class="li_col1">
-<input type="checkbox" value="ci" name="value17" id="countryitem50" data-url="/cotedivoire;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="ci" name="value17" id="countryitem50" data-url="/cotedivoire">
 <label class="langCountryTitle" for="countryitem50">Cote d'Ivoire</label></li>
 <li class="li_col1">
-<input type="checkbox" value="hr" name="value17" id="countryitem51" data-url="/croatia;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="hr" name="value17" id="countryitem51" data-url="/croatia">
 <label class="langCountryTitle" for="countryitem51">Croatia</label></li>
 <li class="li_col1">
-<input type="checkbox" value="cu" name="value17" id="countryitem52" data-url="/cuba;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="cu" name="value17" id="countryitem52" data-url="/cuba">
 <label class="langCountryTitle" for="countryitem52">Cuba</label></li>
 <li class="li_col1">
-<input type="checkbox" value="cy" name="value17" id="countryitem53" data-url="/cyprus;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="cy" name="value17" id="countryitem53" data-url="/cyprus">
 <label class="langCountryTitle" for="countryitem53">Cyprus</label></li>
 <li class="li_col1">
-<input type="checkbox" value="cz" name="value17" id="countryitem54" data-url="/czecrepublic;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="cz" name="value17" id="countryitem54" data-url="/czecrepublic">
 <label class="langCountryTitle" for="countryitem54">Czech Republic</label></li>
 <li class="li_col1">
-<input type="checkbox" value="dk" name="value17" id="countryitem55" data-url="/denmark;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="dk" name="value17" id="countryitem55" data-url="/denmark">
 <label class="langCountryTitle" for="countryitem55">Denmark</label></li>
 <li class="li_col1">
-<input type="checkbox" value="dj" name="value17" id="countryitem56" data-url="/djibouti;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="dj" name="value17" id="countryitem56" data-url="/djibouti">
 <label class="langCountryTitle" for="countryitem56">Djibouti</label></li>
 <li class="li_col1">
-<input type="checkbox" value="dm" name="value17" id="countryitem57" data-url="/dominica;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="dm" name="value17" id="countryitem57" data-url="/dominica">
 <label class="langCountryTitle" for="countryitem57">Dominica</label></li>
 <li class="li_col1">
-<input type="checkbox" value="do" name="value17" id="countryitem58" data-url="/dominicanrepublic;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="do" name="value17" id="countryitem58" data-url="/dominicanrepublic">
 <label class="langCountryTitle" for="countryitem58">Dominican Republic</label></li>
 <li class="li_col1">
-<input type="checkbox" value="ec" name="value17" id="countryitem59" data-url="/ecuador;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="ec" name="value17" id="countryitem59" data-url="/ecuador">
 <label class="langCountryTitle" for="countryitem59">Ecuador</label></li>
 <li class="li_col1">
-<input type="checkbox" value="eg" name="value17" id="countryitem60" data-url="/egypt;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="eg" name="value17" id="countryitem60" data-url="/egypt">
 <label class="langCountryTitle" for="countryitem60">Egypt</label></li>
 <li class="li_col1">
-<input type="checkbox" value="sv" name="value17" id="countryitem61" data-url="/elsalvador;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="sv" name="value17" id="countryitem61" data-url="/elsalvador">
 <label class="langCountryTitle" for="countryitem61">El Salvador</label></li>
 <li class="li_col1">
-<input type="checkbox" value="gq" name="value17" id="countryitem62" data-url="/equatorialguinea;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="gq" name="value17" id="countryitem62" data-url="/equatorialguinea">
 <label class="langCountryTitle" for="countryitem62">Equatorial Guinea</label></li>
 <li class="li_col1">
-<input type="checkbox" value="er" name="value17" id="countryitem63" data-url="/eritrea;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="er" name="value17" id="countryitem63" data-url="/eritrea">
 <label class="langCountryTitle" for="countryitem63">Eritrea</label></li>
 <li class="li_col1">
-<input type="checkbox" value="ee" name="value17" id="countryitem64" data-url="/estonia;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="ee" name="value17" id="countryitem64" data-url="/estonia">
 <label class="langCountryTitle" for="countryitem64">Estonia</label></li>
 <li class="li_col1">
-<input type="checkbox" value="et" name="value17" id="countryitem65" data-url="/ethiopia;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="et" name="value17" id="countryitem65" data-url="/ethiopia">
 <label class="langCountryTitle" for="countryitem65">Ethiopia</label></li>
 <li class="li_col1">
-<input type="checkbox" value="euz" name="value17" id="countryitem66" data-url="/euroarea;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="euz" name="value17" id="countryitem66" data-url="/euroarea">
 <label class="langCountryTitle" for="countryitem66">Euro Area</label></li>
 <li class="li_col1">
-<input type="checkbox" value="eur" name="value17" id="countryitem67" data-url="/eu;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="eur" name="value17" id="countryitem67" data-url="/eu">
 <label class="langCountryTitle" for="countryitem67">European Union</label></li>
 <li class="li_col1">
-<input type="checkbox" value="fo" name="value17" id="countryitem68" data-url="/faroeislands;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="fo" name="value17" id="countryitem68" data-url="/faroeislands">
 <label class="langCountryTitle" for="countryitem68">Faroe Islands</label></li>
 <li class="li_col1">
-<input type="checkbox" value="fj" name="value17" id="countryitem69" data-url="/fiji;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="fj" name="value17" id="countryitem69" data-url="/fiji">
 <label class="langCountryTitle" for="countryitem69">Fiji</label></li>
 <li class="li_col1">
-<input type="checkbox" value="fi" name="value17" id="countryitem70" data-url="/finland;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="fi" name="value17" id="countryitem70" data-url="/finland">
 <label class="langCountryTitle" for="countryitem70">Finland</label></li>
 <li class="li_col1">
-<input type="checkbox" value="mk" name="value17" id="countryitem71" data-url="/macedoniatheformeryugoslavrepublicof;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="mk" name="value17" id="countryitem71" data-url="/macedoniatheformeryugoslavrepublicof">
 <label class="langCountryTitle" for="countryitem71">Former Yugoslav Republic of Macedonia (FYROM)</label></li>
 <li class="li_col1">
-<input type="checkbox" value="fr" name="value17" id="countryitem72" data-url="/france;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="fr" name="value17" id="countryitem72" data-url="/france">
 <label class="langCountryTitle" for="countryitem72">France</label></li>
 <li class="li_col1">
-<input type="checkbox" value="ga" name="value17" id="countryitem73" data-url="/gabon;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="ga" name="value17" id="countryitem73" data-url="/gabon">
 <label class="langCountryTitle" for="countryitem73">Gabon</label></li>
 <li class="li_col1">
-<input type="checkbox" value="gm" name="value17" id="countryitem74" data-url="/gambia;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="gm" name="value17" id="countryitem74" data-url="/gambia">
 <label class="langCountryTitle" for="countryitem74">Gambia</label></li>
 <li class="li_col1">
-<input type="checkbox" value="ge" name="value17" id="countryitem75" data-url="/georgia;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="ge" name="value17" id="countryitem75" data-url="/georgia">
 <label class="langCountryTitle" for="countryitem75">Georgia</label></li>
 <li class="li_col1">
-<input type="checkbox" value="de" name="value17" id="countryitem76" data-url="/germany;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="de" name="value17" id="countryitem76" data-url="/germany">
 <label class="langCountryTitle" for="countryitem76">Germany</label></li>
 <li class="li_col1">
-<input type="checkbox" value="gh" name="value17" id="countryitem77" data-url="/ghana;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="gh" name="value17" id="countryitem77" data-url="/ghana">
 <label class="langCountryTitle" for="countryitem77">Ghana</label></li>
 <li class="li_col1">
-<input type="checkbox" value="gi" name="value17" id="countryitem78" data-url="/gibraltar;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="gi" name="value17" id="countryitem78" data-url="/gibraltar">
 <label class="langCountryTitle" for="countryitem78">Gibraltar</label></li>
 <li class="li_col1">
-<input type="checkbox" value="gr" name="value17" id="countryitem79" data-url="/greece;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="gr" name="value17" id="countryitem79" data-url="/greece">
 <label class="langCountryTitle" for="countryitem79">Greece</label></li>
 <li class="li_col1">
-<input type="checkbox" value="gl" name="value17" id="countryitem80" data-url="/greenland;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="gl" name="value17" id="countryitem80" data-url="/greenland">
 <label class="langCountryTitle" for="countryitem80">Greenland</label></li>
 <li class="li_col1">
-<input type="checkbox" value="gd" name="value17" id="countryitem81" data-url="/grenada;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="gd" name="value17" id="countryitem81" data-url="/grenada">
 <label class="langCountryTitle" for="countryitem81">Grenada</label></li>
 <li class="li_col1">
-<input type="checkbox" value="gu" name="value17" id="countryitem82" data-url="/guam;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="gu" name="value17" id="countryitem82" data-url="/guam">
 <label class="langCountryTitle" for="countryitem82">Guam</label></li>
 <li class="li_col1">
-<input type="checkbox" value="gt" name="value17" id="countryitem83" data-url="/guatemala;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="gt" name="value17" id="countryitem83" data-url="/guatemala">
 <label class="langCountryTitle" for="countryitem83">Guatemala</label></li>
 <li class="li_col1">
-<input type="checkbox" value="gn" name="value17" id="countryitem84" data-url="/guinea;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="gn" name="value17" id="countryitem84" data-url="/guinea">
 <label class="langCountryTitle" for="countryitem84">Guinea</label></li>
 <li class="li_col1">
-<input type="checkbox" value="gw" name="value17" id="countryitem85" data-url="/guineabissau;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="gw" name="value17" id="countryitem85" data-url="/guineabissau">
 <label class="langCountryTitle" for="countryitem85">Guinea-Bissau</label></li>
 <li class="li_col1">
-<input type="checkbox" value="gy" name="value17" id="countryitem86" data-url="/guyana;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="gy" name="value17" id="countryitem86" data-url="/guyana">
 <label class="langCountryTitle" for="countryitem86">Guyana</label></li>
 <li class="li_col1">
-<input type="checkbox" value="ht" name="value17" id="countryitem87" data-url="/haiti;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="ht" name="value17" id="countryitem87" data-url="/haiti">
 <label class="langCountryTitle" for="countryitem87">Haiti</label></li>
 <li class="li_col1">
-<input type="checkbox" value="hn" name="value17" id="countryitem88" data-url="/honduras;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="hn" name="value17" id="countryitem88" data-url="/honduras">
 <label class="langCountryTitle" for="countryitem88">Honduras</label></li>
 <li class="li_col1">
-<input type="checkbox" value="hk" name="value17" id="countryitem89" data-url="/hongkong;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="hk" name="value17" id="countryitem89" data-url="/hongkong">
 <label class="langCountryTitle" for="countryitem89">Hong Kong, China</label></li>
 <li class="li_col1">
-<input type="checkbox" value="hu" name="value17" id="countryitem90" data-url="/hungary;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="hu" name="value17" id="countryitem90" data-url="/hungary">
 <label class="langCountryTitle" for="countryitem90">Hungary</label></li>
 <li class="li_col1">
-<input type="checkbox" value="is" name="value17" id="countryitem91" data-url="/iceland;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="is" name="value17" id="countryitem91" data-url="/iceland">
 <label class="langCountryTitle" for="countryitem91">Iceland</label></li>
 <li class="li_col1">
-<input type="checkbox" value="in" name="value17" id="countryitem92" data-url="/india;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="in" name="value17" id="countryitem92" data-url="/india">
 <label class="langCountryTitle" for="countryitem92">India</label></li>
 <li class="li_col1">
-<input type="checkbox" value="id" name="value17" id="countryitem93" data-url="/indonesia;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="id" name="value17" id="countryitem93" data-url="/indonesia">
 <label class="langCountryTitle" for="countryitem93">Indonesia</label></li>
 <li class="li_col1">
-<input type="checkbox" value="ir" name="value17" id="countryitem94" data-url="/iranislamicrepublicof;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="ir" name="value17" id="countryitem94" data-url="/iranislamicrepublicof">
 <label class="langCountryTitle" for="countryitem94">Iran, Islamic Republic of</label></li>
 <li class="li_col1">
-<input type="checkbox" value="iq" name="value17" id="countryitem95" data-url="/iraq;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="iq" name="value17" id="countryitem95" data-url="/iraq">
 <label class="langCountryTitle" for="countryitem95">Iraq</label></li>
 <li class="li_col1">
-<input type="checkbox" value="ie" name="value17" id="countryitem96" data-url="/ireland;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="ie" name="value17" id="countryitem96" data-url="/ireland">
 <label class="langCountryTitle" for="countryitem96">Ireland</label></li>
 <li class="li_col1">
-<input type="checkbox" value="im" name="value17" id="countryitem97" data-url="/content/subject/46;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="im" name="value17" id="countryitem97" data-url="/content/subject/46">
 <label class="langCountryTitle" for="countryitem97">Isle of Man</label></li>
 <li class="li_col1">
-<input type="checkbox" value="il" name="value17" id="countryitem98" data-url="/israel;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="il" name="value17" id="countryitem98" data-url="/israel">
 <label class="langCountryTitle" for="countryitem98">Israel</label></li>
 <li class="li_col1">
-<input type="checkbox" value="it" name="value17" id="countryitem99" data-url="/italy;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="it" name="value17" id="countryitem99" data-url="/italy">
 <label class="langCountryTitle" for="countryitem99">Italy</label></li>
 <li class="li_col1">
-<input type="checkbox" value="jm" name="value17" id="countryitem100" data-url="/jamaica;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="jm" name="value17" id="countryitem100" data-url="/jamaica">
 <label class="langCountryTitle" for="countryitem100">Jamaica</label></li>
 <li class="li_col1">
-<input type="checkbox" value="jp" name="value17" id="countryitem101" data-url="/japan;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="jp" name="value17" id="countryitem101" data-url="/japan">
 <label class="langCountryTitle" for="countryitem101">Japan</label></li>
 <li class="li_col1">
-<input type="checkbox" value="je" name="value17" id="countryitem102" data-url="/content/subject/46;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="je" name="value17" id="countryitem102" data-url="/content/subject/46">
 <label class="langCountryTitle" for="countryitem102">Jersey</label></li>
 <li class="li_col1">
-<input type="checkbox" value="jo" name="value17" id="countryitem103" data-url="/jordan;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="jo" name="value17" id="countryitem103" data-url="/jordan">
 <label class="langCountryTitle" for="countryitem103">Jordan</label></li>
 <li class="li_col1">
-<input type="checkbox" value="kz" name="value17" id="countryitem104" data-url="/kazakhstan;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="kz" name="value17" id="countryitem104" data-url="/kazakhstan">
 <label class="langCountryTitle" for="countryitem104">Kazakhstan</label></li>
 <li class="li_col1">
-<input type="checkbox" value="ke" name="value17" id="countryitem105" data-url="/kenya;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="ke" name="value17" id="countryitem105" data-url="/kenya">
 <label class="langCountryTitle" for="countryitem105">Kenya</label></li>
 <li class="li_col1">
-<input type="checkbox" value="ki" name="value17" id="countryitem106" data-url="/kiribati;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="ki" name="value17" id="countryitem106" data-url="/kiribati">
 <label class="langCountryTitle" for="countryitem106">Kiribati</label></li>
 <li class="li_col1">
-<input type="checkbox" value="kr" name="value17" id="countryitem107" data-url="/Kkorearepublicof;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="kr" name="value17" id="countryitem107" data-url="/Kkorearepublicof">
 <label class="langCountryTitle" for="countryitem107">Korea, Republic of</label></li>
 <li class="li_col1">
-<input type="checkbox" value="kw" name="value17" id="countryitem108" data-url="/kuwait;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="kw" name="value17" id="countryitem108" data-url="/kuwait">
 <label class="langCountryTitle" for="countryitem108">Kuwait</label></li>
 <li class="li_col1">
-<input type="checkbox" value="kg" name="value17" id="countryitem109" data-url="/kyrgyzstan;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="kg" name="value17" id="countryitem109" data-url="/kyrgyzstan">
 <label class="langCountryTitle" for="countryitem109">Kyrgyzstan</label></li>
 <li class="li_col1">
-<input type="checkbox" value="la" name="value17" id="countryitem110" data-url="/laopeoplesdemocraticrepublic;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="la" name="value17" id="countryitem110" data-url="/laopeoplesdemocraticrepublic">
 <label class="langCountryTitle" for="countryitem110">Lao People's Democratic Republic</label></li>
 <li class="li_col1">
-<input type="checkbox" value="lv" name="value17" id="countryitem111" data-url="/latvia;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="lv" name="value17" id="countryitem111" data-url="/latvia">
 <label class="langCountryTitle" for="countryitem111">Latvia</label></li>
 <li class="li_col1">
-<input type="checkbox" value="lb" name="value17" id="countryitem112" data-url="/lebanon;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="lb" name="value17" id="countryitem112" data-url="/lebanon">
 <label class="langCountryTitle" for="countryitem112">Lebanon</label></li>
 <li class="li_col1">
-<input type="checkbox" value="ls" name="value17" id="countryitem113" data-url="/lesotho;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="ls" name="value17" id="countryitem113" data-url="/lesotho">
 <label class="langCountryTitle" for="countryitem113">Lesotho</label></li>
 <li class="li_col1">
-<input type="checkbox" value="lr" name="value17" id="countryitem114" data-url="/liberia;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="lr" name="value17" id="countryitem114" data-url="/liberia">
 <label class="langCountryTitle" for="countryitem114">Liberia</label></li>
 <li class="li_col1">
-<input type="checkbox" value="ly" name="value17" id="countryitem115" data-url="/libyanarabjamahiriya;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="ly" name="value17" id="countryitem115" data-url="/libyanarabjamahiriya">
 <label class="langCountryTitle" for="countryitem115">Libya</label></li>
 <li class="li_col1">
-<input type="checkbox" value="li" name="value17" id="countryitem116" data-url="/liechtenstein;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="li" name="value17" id="countryitem116" data-url="/liechtenstein">
 <label class="langCountryTitle" for="countryitem116">Liechtenstein</label></li>
 <li class="li_col1">
-<input type="checkbox" value="lt" name="value17" id="countryitem117" data-url="/lithuania;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="lt" name="value17" id="countryitem117" data-url="/lithuania">
 <label class="langCountryTitle" for="countryitem117">Lithuania</label></li>
 <li class="li_col1">
-<input type="checkbox" value="lu" name="value17" id="countryitem118" data-url="/luxembourg;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="lu" name="value17" id="countryitem118" data-url="/luxembourg">
 <label class="langCountryTitle" for="countryitem118">Luxembourg</label></li>
 <li class="li_col1">
-<input type="checkbox" value="mo" name="value17" id="countryitem119" data-url="/macao;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="mo" name="value17" id="countryitem119" data-url="/macao">
 <label class="langCountryTitle" for="countryitem119">Macau, China</label></li>
 <li class="li_col1">
-<input type="checkbox" value="mg" name="value17" id="countryitem120" data-url="/madagascar;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="mg" name="value17" id="countryitem120" data-url="/madagascar">
 <label class="langCountryTitle" for="countryitem120">Madagascar</label></li>
 <li class="li_col1">
-<input type="checkbox" value="mw" name="value17" id="countryitem121" data-url="/malawi;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="mw" name="value17" id="countryitem121" data-url="/malawi">
 <label class="langCountryTitle" for="countryitem121">Malawi</label></li>
 <li class="li_col1">
-<input type="checkbox" value="my" name="value17" id="countryitem122" data-url="/malaysia;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="my" name="value17" id="countryitem122" data-url="/malaysia">
 <label class="langCountryTitle" for="countryitem122">Malaysia</label></li>
 <li class="li_col1">
-<input type="checkbox" value="mv" name="value17" id="countryitem123" data-url="/maldives;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="mv" name="value17" id="countryitem123" data-url="/maldives">
 <label class="langCountryTitle" for="countryitem123">Maldives</label></li>
 <li class="li_col1">
-<input type="checkbox" value="ml" name="value17" id="countryitem124" data-url="/mali;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="ml" name="value17" id="countryitem124" data-url="/mali">
 <label class="langCountryTitle" for="countryitem124">Mali</label></li>
 <li class="li_col1">
-<input type="checkbox" value="mt" name="value17" id="countryitem125" data-url="/malta;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="mt" name="value17" id="countryitem125" data-url="/malta">
 <label class="langCountryTitle" for="countryitem125">Malta</label></li>
 <li class="li_col1">
-<input type="checkbox" value="mh" name="value17" id="countryitem126" data-url="/marshallislands;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="mh" name="value17" id="countryitem126" data-url="/marshallislands">
 <label class="langCountryTitle" for="countryitem126">Marshall Islands</label></li>
 <li class="li_col1">
-<input type="checkbox" value="mr" name="value17" id="countryitem127" data-url="/mauritania;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="mr" name="value17" id="countryitem127" data-url="/mauritania">
 <label class="langCountryTitle" for="countryitem127">Mauritania</label></li>
 <li class="li_col1">
-<input type="checkbox" value="mu" name="value17" id="countryitem128" data-url="/mauritius;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="mu" name="value17" id="countryitem128" data-url="/mauritius">
 <label class="langCountryTitle" for="countryitem128">Mauritius</label></li>
 <li class="li_col1">
-<input type="checkbox" value="mx" name="value17" id="countryitem129" data-url="/mexico;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="mx" name="value17" id="countryitem129" data-url="/mexico">
 <label class="langCountryTitle" for="countryitem129">Mexico</label></li>
 <li class="li_col1">
-<input type="checkbox" value="fm" name="value17" id="countryitem130" data-url="/micronesiafederatedstatesof;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="fm" name="value17" id="countryitem130" data-url="/micronesiafederatedstatesof">
 <label class="langCountryTitle" for="countryitem130">Micronesia, Federated States of</label></li>
 <li class="li_col1">
-<input type="checkbox" value="md" name="value17" id="countryitem131" data-url="/moldovarepublicof;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="md" name="value17" id="countryitem131" data-url="/moldovarepublicof">
 <label class="langCountryTitle" for="countryitem131">Moldova, Republic of</label></li>
 <li class="li_col1">
-<input type="checkbox" value="mc" name="value17" id="countryitem132" data-url="/monaco;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="mc" name="value17" id="countryitem132" data-url="/monaco">
 <label class="langCountryTitle" for="countryitem132">Monaco</label></li>
 <li class="li_col1">
-<input type="checkbox" value="mn" name="value17" id="countryitem133" data-url="/mongolia;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="mn" name="value17" id="countryitem133" data-url="/mongolia">
 <label class="langCountryTitle" for="countryitem133">Mongolia</label></li>
 <li class="li_col1">
-<input type="checkbox" value="me" name="value17" id="countryitem134" data-url="/montenegro;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="me" name="value17" id="countryitem134" data-url="/montenegro">
 <label class="langCountryTitle" for="countryitem134">Montenegro</label></li>
 <li class="li_col1">
-<input type="checkbox" value="ms" name="value17" id="countryitem135" data-url="/montserrat;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="ms" name="value17" id="countryitem135" data-url="/montserrat">
 <label class="langCountryTitle" for="countryitem135">Montserrat</label></li>
 <li class="li_col1">
-<input type="checkbox" value="ma" name="value17" id="countryitem136" data-url="/morocco;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="ma" name="value17" id="countryitem136" data-url="/morocco">
 <label class="langCountryTitle" for="countryitem136">Morocco</label></li>
 <li class="li_col1">
-<input type="checkbox" value="mz" name="value17" id="countryitem137" data-url="/mozambique;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="mz" name="value17" id="countryitem137" data-url="/mozambique">
 <label class="langCountryTitle" for="countryitem137">Mozambique</label></li>
 <li class="li_col1">
-<input type="checkbox" value="mm" name="value17" id="countryitem138" data-url="/myanmar;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="mm" name="value17" id="countryitem138" data-url="/myanmar">
 <label class="langCountryTitle" for="countryitem138">Myanmar</label></li>
 <li class="li_col1">
-<input type="checkbox" value="na" name="value17" id="countryitem139" data-url="/namibia;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="na" name="value17" id="countryitem139" data-url="/namibia">
 <label class="langCountryTitle" for="countryitem139">Namibia</label></li>
 <li class="li_col1">
-<input type="checkbox" value="nr" name="value17" id="countryitem140" data-url="/nauru;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="nr" name="value17" id="countryitem140" data-url="/nauru">
 <label class="langCountryTitle" for="countryitem140">Nauru</label></li>
 <li class="li_col1">
-<input type="checkbox" value="np" name="value17" id="countryitem141" data-url="/nepal;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="np" name="value17" id="countryitem141" data-url="/nepal">
 <label class="langCountryTitle" for="countryitem141">Nepal</label></li>
 <li class="li_col1">
-<input type="checkbox" value="nl" name="value17" id="countryitem142" data-url="/netherlands;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="nl" name="value17" id="countryitem142" data-url="/netherlands">
 <label class="langCountryTitle" for="countryitem142">Netherlands</label></li>
 <li class="li_col1">
-<input type="checkbox" value="nz" name="value17" id="countryitem143" data-url="/newzealand;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="nz" name="value17" id="countryitem143" data-url="/newzealand">
 <label class="langCountryTitle" for="countryitem143">New Zealand</label></li>
 <li class="li_col1">
-<input type="checkbox" value="ni" name="value17" id="countryitem144" data-url="/nicaragua;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="ni" name="value17" id="countryitem144" data-url="/nicaragua">
 <label class="langCountryTitle" for="countryitem144">Nicaragua</label></li>
 <li class="li_col1">
-<input type="checkbox" value="ne" name="value17" id="countryitem145" data-url="/niger;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="ne" name="value17" id="countryitem145" data-url="/niger">
 <label class="langCountryTitle" for="countryitem145">Niger</label></li>
 <li class="li_col1">
-<input type="checkbox" value="ng" name="value17" id="countryitem146" data-url="/nigeria;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="ng" name="value17" id="countryitem146" data-url="/nigeria">
 <label class="langCountryTitle" for="countryitem146">Nigeria</label></li>
 <li class="li_col1">
-<input type="checkbox" value="nu" name="value17" id="countryitem147" data-url="/niue;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="nu" name="value17" id="countryitem147" data-url="/niue">
 <label class="langCountryTitle" for="countryitem147">Niue</label></li>
 <li class="li_col1">
-<input type="checkbox" value="no" name="value17" id="countryitem148" data-url="/norway;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="no" name="value17" id="countryitem148" data-url="/norway">
 <label class="langCountryTitle" for="countryitem148">Norway</label></li>
 <li class="li_col1">
-<input type="checkbox" value="om" name="value17" id="countryitem149" data-url="/oman;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="om" name="value17" id="countryitem149" data-url="/oman">
 <label class="langCountryTitle" for="countryitem149">Oman</label></li>
 <li class="li_col1">
-<input type="checkbox" value="pk" name="value17" id="countryitem150" data-url="/pakistan;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="pk" name="value17" id="countryitem150" data-url="/pakistan">
 <label class="langCountryTitle" for="countryitem150">Pakistan</label></li>
 <li class="li_col1">
-<input type="checkbox" value="pw" name="value17" id="countryitem151" data-url="/palau;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="pw" name="value17" id="countryitem151" data-url="/palau">
 <label class="langCountryTitle" for="countryitem151">Palau</label></li>
 <li class="li_col1">
-<input type="checkbox" value="ps" name="value17" id="countryitem152" data-url="/palestinianterritoryoccupied;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="ps" name="value17" id="countryitem152" data-url="/palestinianterritoryoccupied">
 <label class="langCountryTitle" for="countryitem152">Palestinian Authority</label></li>
 <li class="li_col1">
-<input type="checkbox" value="pa" name="value17" id="countryitem153" data-url="/panama;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="pa" name="value17" id="countryitem153" data-url="/panama">
 <label class="langCountryTitle" for="countryitem153">Panama</label></li>
 <li class="li_col1">
-<input type="checkbox" value="pg" name="value17" id="countryitem154" data-url="/papuanewguinea;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="pg" name="value17" id="countryitem154" data-url="/papuanewguinea">
 <label class="langCountryTitle" for="countryitem154">Papua New Guinea</label></li>
 <li class="li_col1">
-<input type="checkbox" value="py" name="value17" id="countryitem155" data-url="/paraguay;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="py" name="value17" id="countryitem155" data-url="/paraguay">
 <label class="langCountryTitle" for="countryitem155">Paraguay</label></li>
 <li class="li_col1">
-<input type="checkbox" value="pe" name="value17" id="countryitem156" data-url="/peru;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="pe" name="value17" id="countryitem156" data-url="/peru">
 <label class="langCountryTitle" for="countryitem156">Peru</label></li>
 <li class="li_col1">
-<input type="checkbox" value="ph" name="value17" id="countryitem157" data-url="/philippines;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="ph" name="value17" id="countryitem157" data-url="/philippines">
 <label class="langCountryTitle" for="countryitem157">Philippines</label></li>
 <li class="li_col1">
-<input type="checkbox" value="pl" name="value17" id="countryitem158" data-url="/poland;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="pl" name="value17" id="countryitem158" data-url="/poland">
 <label class="langCountryTitle" for="countryitem158">Poland</label></li>
 <li class="li_col1">
-<input type="checkbox" value="pt" name="value17" id="countryitem159" data-url="/portugal;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="pt" name="value17" id="countryitem159" data-url="/portugal">
 <label class="langCountryTitle" for="countryitem159">Portugal</label></li>
 <li class="li_col1">
-<input type="checkbox" value="pr" name="value17" id="countryitem160" data-url="/puertorico;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="pr" name="value17" id="countryitem160" data-url="/puertorico">
 <label class="langCountryTitle" for="countryitem160">Puerto Rico</label></li>
 <li class="li_col1">
-<input type="checkbox" value="qa" name="value17" id="countryitem161" data-url="/qatar;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="qa" name="value17" id="countryitem161" data-url="/qatar">
 <label class="langCountryTitle" for="countryitem161">Qatar</label></li>
 <li class="li_col1">
-<input type="checkbox" value="ro" name="value17" id="countryitem162" data-url="/romania;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="ro" name="value17" id="countryitem162" data-url="/romania">
 <label class="langCountryTitle" for="countryitem162">Romania</label></li>
 <li class="li_col1">
-<input type="checkbox" value="ru" name="value17" id="countryitem163" data-url="/russianfederation;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="ru" name="value17" id="countryitem163" data-url="/russianfederation">
 <label class="langCountryTitle" for="countryitem163">Russian Federation</label></li>
 <li class="li_col1">
-<input type="checkbox" value="rw" name="value17" id="countryitem164" data-url="/rwanda;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="rw" name="value17" id="countryitem164" data-url="/rwanda">
 <label class="langCountryTitle" for="countryitem164">Rwanda</label></li>
 <li class="li_col1">
-<input type="checkbox" value="kn" name="value17" id="countryitem165" data-url="/saintkittsandnevis;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="kn" name="value17" id="countryitem165" data-url="/saintkittsandnevis">
 <label class="langCountryTitle" for="countryitem165">Saint Kitts and Nevis</label></li>
 <li class="li_col1">
-<input type="checkbox" value="lc" name="value17" id="countryitem166" data-url="/saintlucia;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="lc" name="value17" id="countryitem166" data-url="/saintlucia">
 <label class="langCountryTitle" for="countryitem166">Saint Lucia</label></li>
 <li class="li_col1">
-<input type="checkbox" value="vc" name="value17" id="countryitem167" data-url="/saintvincentandthegrenadines;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="vc" name="value17" id="countryitem167" data-url="/saintvincentandthegrenadines">
 <label class="langCountryTitle" for="countryitem167">Saint Vincent and the Grenadines</label></li>
 <li class="li_col1">
-<input type="checkbox" value="ws" name="value17" id="countryitem168" data-url="/samoa;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="ws" name="value17" id="countryitem168" data-url="/samoa">
 <label class="langCountryTitle" for="countryitem168">Samoa</label></li>
 <li class="li_col1">
-<input type="checkbox" value="sm" name="value17" id="countryitem169" data-url="/sanmarino;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="sm" name="value17" id="countryitem169" data-url="/sanmarino">
 <label class="langCountryTitle" for="countryitem169">San Marino</label></li>
 <li class="li_col1">
-<input type="checkbox" value="st" name="value17" id="countryitem170" data-url="/saotomeandprincipe;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="st" name="value17" id="countryitem170" data-url="/saotomeandprincipe">
 <label class="langCountryTitle" for="countryitem170">Sao Tome and Principe</label></li>
 <li class="li_col1">
-<input type="checkbox" value="sa" name="value17" id="countryitem171" data-url="/saudiarabia;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="sa" name="value17" id="countryitem171" data-url="/saudiarabia">
 <label class="langCountryTitle" for="countryitem171">Saudi Arabia</label></li>
 <li class="li_col1">
-<input type="checkbox" value="sn" name="value17" id="countryitem172" data-url="/senegal;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="sn" name="value17" id="countryitem172" data-url="/senegal">
 <label class="langCountryTitle" for="countryitem172">Senegal</label></li>
 <li class="li_col1">
-<input type="checkbox" value="rs" name="value17" id="countryitem173" data-url="/serbia;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="rs" name="value17" id="countryitem173" data-url="/serbia">
 <label class="langCountryTitle" for="countryitem173">Serbia</label></li>
 <li class="li_col1">
-<input type="checkbox" value="sc" name="value17" id="countryitem174" data-url="/seychelles;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="sc" name="value17" id="countryitem174" data-url="/seychelles">
 <label class="langCountryTitle" for="countryitem174">Seychelles</label></li>
 <li class="li_col1">
-<input type="checkbox" value="sl" name="value17" id="countryitem175" data-url="/sierraleone;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="sl" name="value17" id="countryitem175" data-url="/sierraleone">
 <label class="langCountryTitle" for="countryitem175">Sierra Leone</label></li>
 <li class="li_col1">
-<input type="checkbox" value="sg" name="value17" id="countryitem176" data-url="/singapore;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="sg" name="value17" id="countryitem176" data-url="/singapore">
 <label class="langCountryTitle" for="countryitem176">Singapore</label></li>
 <li class="li_col1">
-<input type="checkbox" value="sk" name="value17" id="countryitem177" data-url="/slovakia;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="sk" name="value17" id="countryitem177" data-url="/slovakia">
 <label class="langCountryTitle" for="countryitem177">Slovak Republic</label></li>
 <li class="li_col1">
-<input type="checkbox" value="si" name="value17" id="countryitem178" data-url="/slovenia;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="si" name="value17" id="countryitem178" data-url="/slovenia">
 <label class="langCountryTitle" for="countryitem178">Slovenia</label></li>
 <li class="li_col1">
-<input type="checkbox" value="sb" name="value17" id="countryitem179" data-url="/solomonislands;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="sb" name="value17" id="countryitem179" data-url="/solomonislands">
 <label class="langCountryTitle" for="countryitem179">Solomon Islands</label></li>
 <li class="li_col1">
-<input type="checkbox" value="so" name="value17" id="countryitem180" data-url="/somalia;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="so" name="value17" id="countryitem180" data-url="/somalia">
 <label class="langCountryTitle" for="countryitem180">Somalia</label></li>
 <li class="li_col1">
-<input type="checkbox" value="za" name="value17" id="countryitem181" data-url="/southafrica;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="za" name="value17" id="countryitem181" data-url="/southafrica">
 <label class="langCountryTitle" for="countryitem181">South Africa</label></li>
 <li class="li_col1">
-<input type="checkbox" value="ss" name="value17" id="countryitem182" data-url="/content/subject/46;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="ss" name="value17" id="countryitem182" data-url="/content/subject/46">
 <label class="langCountryTitle" for="countryitem182">South Sudan</label></li>
 <li class="li_col1">
-<input type="checkbox" value="es" name="value17" id="countryitem183" data-url="/spain;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="es" name="value17" id="countryitem183" data-url="/spain">
 <label class="langCountryTitle" for="countryitem183">Spain</label></li>
 <li class="li_col1">
-<input type="checkbox" value="lk" name="value17" id="countryitem184" data-url="/srilanka;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="lk" name="value17" id="countryitem184" data-url="/srilanka">
 <label class="langCountryTitle" for="countryitem184">Sri Lanka</label></li>
 <li class="li_col1">
-<input type="checkbox" value="sd" name="value17" id="countryitem185" data-url="/sudan;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="sd" name="value17" id="countryitem185" data-url="/sudan">
 <label class="langCountryTitle" for="countryitem185">Sudan</label></li>
 <li class="li_col1">
-<input type="checkbox" value="sr" name="value17" id="countryitem186" data-url="/suriname;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="sr" name="value17" id="countryitem186" data-url="/suriname">
 <label class="langCountryTitle" for="countryitem186">Suriname</label></li>
 <li class="li_col1">
-<input type="checkbox" value="sz" name="value17" id="countryitem187" data-url="/swaziland;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="sz" name="value17" id="countryitem187" data-url="/swaziland">
 <label class="langCountryTitle" for="countryitem187">Swaziland</label></li>
 <li class="li_col1">
-<input type="checkbox" value="se" name="value17" id="countryitem188" data-url="/sweden;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="se" name="value17" id="countryitem188" data-url="/sweden">
 <label class="langCountryTitle" for="countryitem188">Sweden</label></li>
 <li class="li_col1">
-<input type="checkbox" value="ch" name="value17" id="countryitem189" data-url="/switzerland;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="ch" name="value17" id="countryitem189" data-url="/switzerland">
 <label class="langCountryTitle" for="countryitem189">Switzerland</label></li>
 <li class="li_col1">
-<input type="checkbox" value="sy" name="value17" id="countryitem190" data-url="/syriaarabrepublic;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="sy" name="value17" id="countryitem190" data-url="/syriaarabrepublic">
 <label class="langCountryTitle" for="countryitem190">Syrian Arab Republic</label></li>
 <li class="li_col1">
-<input type="checkbox" value="tj" name="value17" id="countryitem191" data-url="/tajikistan;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="tj" name="value17" id="countryitem191" data-url="/tajikistan">
 <label class="langCountryTitle" for="countryitem191">Tajikistan</label></li>
 <li class="li_col1">
-<input type="checkbox" value="tz" name="value17" id="countryitem192" data-url="/tanzaniaunitedrepublicof;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="tz" name="value17" id="countryitem192" data-url="/tanzaniaunitedrepublicof">
 <label class="langCountryTitle" for="countryitem192">Tanzania, United Republic of</label></li>
 <li class="li_col1">
-<input type="checkbox" value="th" name="value17" id="countryitem193" data-url="/thailand;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="th" name="value17" id="countryitem193" data-url="/thailand">
 <label class="langCountryTitle" for="countryitem193">Thailand</label></li>
 <li class="li_col1">
-<input type="checkbox" value="tl" name="value17" id="countryitem194" data-url="/timorleste;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="tl" name="value17" id="countryitem194" data-url="/timorleste">
 <label class="langCountryTitle" for="countryitem194">Timor-Leste</label></li>
 <li class="li_col1">
-<input type="checkbox" value="tg" name="value17" id="countryitem195" data-url="/togo;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="tg" name="value17" id="countryitem195" data-url="/togo">
 <label class="langCountryTitle" for="countryitem195">Togo</label></li>
 <li class="li_col1">
-<input type="checkbox" value="to" name="value17" id="countryitem196" data-url="/tonga;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="to" name="value17" id="countryitem196" data-url="/tonga">
 <label class="langCountryTitle" for="countryitem196">Tonga</label></li>
 <li class="li_col1">
-<input type="checkbox" value="tt" name="value17" id="countryitem197" data-url="/trinidadandtobago;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="tt" name="value17" id="countryitem197" data-url="/trinidadandtobago">
 <label class="langCountryTitle" for="countryitem197">Trinidad and Tobago</label></li>
 <li class="li_col1">
-<input type="checkbox" value="tn" name="value17" id="countryitem198" data-url="/tunisia;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="tn" name="value17" id="countryitem198" data-url="/tunisia">
 <label class="langCountryTitle" for="countryitem198">Tunisia</label></li>
 <li class="li_col1">
-<input type="checkbox" value="tr" name="value17" id="countryitem199" data-url="/turkey;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="tr" name="value17" id="countryitem199" data-url="/turkey">
 <label class="langCountryTitle" for="countryitem199">Turkey</label></li>
 <li class="li_col1">
-<input type="checkbox" value="tm" name="value17" id="countryitem200" data-url="/turkmenistan;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="tm" name="value17" id="countryitem200" data-url="/turkmenistan">
 <label class="langCountryTitle" for="countryitem200">Turkmenistan</label></li>
 <li class="li_col1">
-<input type="checkbox" value="tc" name="value17" id="countryitem201" data-url="/turksandcaicosislands;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="tc" name="value17" id="countryitem201" data-url="/turksandcaicosislands">
 <label class="langCountryTitle" for="countryitem201">Turks and Caicos Islands</label></li>
 <li class="li_col1">
-<input type="checkbox" value="tv" name="value17" id="countryitem202" data-url="/tuvalu;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="tv" name="value17" id="countryitem202" data-url="/tuvalu">
 <label class="langCountryTitle" for="countryitem202">Tuvalu</label></li>
 <li class="li_col1">
-<input type="checkbox" value="ug" name="value17" id="countryitem203" data-url="/uganda;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="ug" name="value17" id="countryitem203" data-url="/uganda">
 <label class="langCountryTitle" for="countryitem203">Uganda</label></li>
 <li class="li_col1">
-<input type="checkbox" value="ua" name="value17" id="countryitem204" data-url="/ukraine;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="ua" name="value17" id="countryitem204" data-url="/ukraine">
 <label class="langCountryTitle" for="countryitem204">Ukraine</label></li>
 <li class="li_col1">
-<input type="checkbox" value="ae" name="value17" id="countryitem205" data-url="/unitedarabemirates;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="ae" name="value17" id="countryitem205" data-url="/unitedarabemirates">
 <label class="langCountryTitle" for="countryitem205">United Arab Emirates</label></li>
 <li class="li_col1">
-<input type="checkbox" value="gb" name="value17" id="countryitem206" data-url="/unitedkingdom;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="gb" name="value17" id="countryitem206" data-url="/unitedkingdom">
 <label class="langCountryTitle" for="countryitem206">United Kingdom</label></li>
 <li class="li_col1">
-<input type="checkbox" value="us" name="value17" id="countryitem207" data-url="/unitedstates;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="us" name="value17" id="countryitem207" data-url="/unitedstates">
 <label class="langCountryTitle" for="countryitem207">United States</label></li>
 <li class="li_col1">
-<input type="checkbox" value="uy" name="value17" id="countryitem208" data-url="/uruguay;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="uy" name="value17" id="countryitem208" data-url="/uruguay">
 <label class="langCountryTitle" for="countryitem208">Uruguay</label></li>
 <li class="li_col1">
-<input type="checkbox" value="uz" name="value17" id="countryitem209" data-url="/uzbekistan;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="uz" name="value17" id="countryitem209" data-url="/uzbekistan">
 <label class="langCountryTitle" for="countryitem209">Uzbekistan</label></li>
 <li class="li_col1">
-<input type="checkbox" value="vu" name="value17" id="countryitem210" data-url="/vanuatu;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="vu" name="value17" id="countryitem210" data-url="/vanuatu">
 <label class="langCountryTitle" for="countryitem210">Vanuatu</label></li>
 <li class="li_col1">
-<input type="checkbox" value="ve" name="value17" id="countryitem211" data-url="/venezuela;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="ve" name="value17" id="countryitem211" data-url="/venezuela">
 <label class="langCountryTitle" for="countryitem211">Venezuela</label></li>
 <li class="li_col1">
-<input type="checkbox" value="vn" name="value17" id="countryitem212" data-url="/vietnam;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="vn" name="value17" id="countryitem212" data-url="/vietnam">
 <label class="langCountryTitle" for="countryitem212">Viet Nam</label></li>
 <li class="li_col1">
-<input type="checkbox" value="vg" name="value17" id="countryitem213" data-url="/content/subject/46;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="vg" name="value17" id="countryitem213" data-url="/content/subject/46">
 <label class="langCountryTitle" for="countryitem213">Virgin Islands, British</label></li>
 <li class="li_col1">
-<input type="checkbox" value="ye" name="value17" id="countryitem214" data-url="/yemen;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="ye" name="value17" id="countryitem214" data-url="/yemen">
 <label class="langCountryTitle" for="countryitem214">Yemen</label></li>
 <li class="li_col1">
-<input type="checkbox" value="zm" name="value17" id="countryitem215" data-url="/zambia;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="zm" name="value17" id="countryitem215" data-url="/zambia">
 <label class="langCountryTitle" for="countryitem215">Zambia</label></li>
 <li class="li_col1">
-<input type="checkbox" value="zw" name="value17" id="countryitem216" data-url="/zimbabwe;jsessionid=22c3262c0r3t8.x-oecd-live-02">
+<input type="checkbox" value="zw" name="value17" id="countryitem216" data-url="/zimbabwe">
 <label class="langCountryTitle" for="countryitem216">Zimbabwe</label></li>
 </div>
 </ul>
@@ -1356,11 +1353,11 @@ all</span></h3>
 <!-- navigation object : Catalogue List -->
 <div id="li_container4" class="li_container js-noReorder">
 <ul class="li_cont1">
-<li class="li_col1"><a href="/books;jsessionid=22c3262c0r3t8.x-oecd-live-02">BOOKS</a></li>
-<li class="li_col1"><a href="/papers;jsessionid=22c3262c0r3t8.x-oecd-live-02">PAPERS</a></li>
-<li class="li_col1"><a href="/statistics;jsessionid=22c3262c0r3t8.x-oecd-live-02">STATISTICS</a></li>
-<li class="li_col1"><a href="/economics/oecd-factbook_18147364;jsessionid=22c3262c0r3t8.x-oecd-live-02">FACTBOOK</a></li>
-<li class="li_col1"><a href="/glossaries;jsessionid=22c3262c0r3t8.x-oecd-live-02">GLOSSARIES</a></li>
+<li class="li_col1"><a href="/books">BOOKS</a></li>
+<li class="li_col1"><a href="/papers">PAPERS</a></li>
+<li class="li_col1"><a href="/statistics">STATISTICS</a></li>
+<li class="li_col1"><a href="/economics/oecd-factbook_18147364">FACTBOOK</a></li>
+<li class="li_col1"><a href="/glossaries">GLOSSARIES</a></li>
 </ul>
 <div style="clear:both; overflow:hidden; height:0px;"></div>
 </div>
@@ -1369,7 +1366,7 @@ all</span></h3>
 <!-- end of Catalogue list -->
 </li>
 <!-- catalogue-->
-<li class="navItem nav5"><a href="/statistics;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Statistics">Statistics</a></li>
+<li class="navItem nav5"><a href="/statistics" title="Statistics">Statistics</a></li>
 </ul>
 </div>
 </div> 
@@ -1380,7 +1377,7 @@ all</span></h3>
 <div id="breadcrumb-wrap"><div id="breadcrumbs">
 <span class="breadcrumb">You are here: </span>
 <span class="breadcrumb">
-<a href="/;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Home" rel=""><span title="Home">Home</span></a></span>
+<a href="/" title="Home" rel=""><span title="Home">Home</span></a></span>
 / 
 <span class="breadcrumb final">
 Privacy Policy
@@ -1403,19 +1400,19 @@ $("ul.sidebar-list li:last-child").css({"border-bottom":0});
 <div class="main">
 <ul id="footer-links" class="bobby-inline">
 <li>
-<a href="/about/terms;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Terms and Conditions" rel=""><span title="Terms and Conditions">Terms and Conditions</span></a></li>
+<a href="/about/terms" title="Terms and Conditions" rel=""><span title="Terms and Conditions">Terms and Conditions</span></a></li>
 <li>|</li>
 <li>
-<a href="/about/copyright;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Copyright and Permissions" rel=""><span title="Copyright and Permissions">Copyright and Permissions</span></a></li>
+<a href="/about/copyright" title="Copyright and Permissions" rel=""><span title="Copyright and Permissions">Copyright and Permissions</span></a></li>
 <li>|</li>
 <li>
-<a href="/about/educators;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Educators and Students" rel=""><span title="Educators and Students">Educators and Students</span></a></li>
+<a href="/about/educators" title="Educators and Students" rel=""><span title="Educators and Students">Educators and Students</span></a></li>
 <li>|</li>
 <li>
-<a href="/about/privacy;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Privacy Policy" rel=""><span title="Privacy Policy">Privacy Policy</span></a></li>
+<a href="/about/privacy" title="<a href=" http:="" www.oecd-ilibrary.org="" about="" privacy"="" &gt;privacy="" policy&lt;="" a&gt;"="" rel=""><span title="<a href=" http:="" www.oecd-ilibrary.org="" about="" privacy"="" &gt;privacy="" policy&lt;="" a&gt;"=""></span></a><a href="http://www.oecd-ilibrary.org/about/privacy" title="Go to global OECD Prvivay Policy Statement">Privacy Policy</a></li>
 <li>|</li>
 <li>
-<a href="/contact;jsessionid=22c3262c0r3t8.x-oecd-live-02" title="Contact Us" rel=""><span title="Contact Us">Contact Us</span></a></li>	
+<a href="/contact" title="Contact Us" rel=""><span title="Contact Us">Contact Us</span></a></li>	
 <li>|</li>
 <li>
 <a href="http://www.publishingtechnology.com" title="<a href=" http:="" www.publishingtechnology.com"="" target="_blank" &gt;site="" powered="" by="" publishing="" technology.&lt;="" a&gt;"="" rel=""><span title="<a href=" http:="" www.publishingtechnology.com"="" target="_blank" &gt;site="" powered="" by="" publishing="" technology.&lt;="" a&gt;"=""></span></a><a href="http://www.publishingtechnology.com" target="_blank">Site powered by Publishing Technology.</a></li>
@@ -1428,16 +1425,60 @@ $("ul.sidebar-list li:last-child").css({"border-bottom":0});
 </div>
 </div>
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">try {
-var pageTracker = _gat._getTracker("UA-1887794-2");
-pageTracker._trackPageview();
-} catch(err) {}</script>
+// <![CDATA[
+jQuery(document).ready(function($){
+$('#show_release').click(function (e) {
+window.alert("App version \"0001\"");
+});
+});
+// ]]>
+</script>
 <script type="text/javascript">
 // <![CDATA[
 jQuery(document).ready(function($){
+if(! document.cookie.match(/simon_inger_survey/)) {
+var box=$("<div id='SimonIngerPanel' style=\"border: 3px solid #00468C;\"><font size=\"2\"><b>Dear OECD iLibrary user,</b></font><hr size=\"2\" color=\"00468C\"><p><font color=\"#000\"><b>The OECD is supporting an annual research project into how readers discover books and journals online. The research is conducted by consultants Simon Inger and Tracy Gardner and the results will be publicly available early 2016.<br/><br/> We would appreciate your participation in the research project.</font></p><br/><p><font color=\"#000\">You can find the survey online at:</b></font></p><p><a name=\"remindmelater\" rel=\"external\" href=\"https://www.surveymonkey.com/r/oecdilibrary\">www.surveymonkey.com/r/oecdilibrary</a></p><hr size=\"2\" color=\"00468C\"><font size=\"2\"><b>Thank you</b></font><p align=\"right\"><a href=\"#\" name=\"cancel\"><font color=\"#000\" size=\"2\">X</font></a></p></div>").
+css({display: 'none', color: '#000', 'background-color': '#fff',
+'text-align': 'left', 'opacity': '1.0','border-radius': '4px',
+position: 'fixed', 'font-size': '12px', 'line-height': '18px',
+'box-shadow': '12px 12px 12px #777', 'padding': '8px 8px 8px 8px',
+right: '8px', bottom: '8px',
+width: '300px', height: 'auto'})
+$('a',box).css({color: '#006699', 'margin': '0 0 0 0', 'font-weight': 'bold','text-decoration': 'none'});
+$('p',box).css({margin: '0 0 5px 0', color: '#00468C',padding: '0 5px 0 5px','font-size': '12px','font-family': 'arial'});
+$('a[name=cancel]',box).click(function(e) {
+box.hide();
+// sets cookie
+//Sets expiration date for cookie
+var expireDate = new Date();
+expireDate.setTime(expireDate.getTime()+(365*24*60*60*1000));
+expireDate = expireDate.toGMTString();
+var cookieName = 'simon_inger_survey';
+var cookieValue = 'true';
+var myDate = new Date();
+myDate.setMonth(myDate.getMonth() + 12);
+document.cookie = cookieName +'=' + cookieValue + '; expires='+ expireDate + '; path=/'
+return false;
+});
+$('a[name=remindmelater]',box).click(function(e) {
+box.hide();
+// The code below also sets a cookie if the user decides to follow a link/show me more... - doens't make sense to set this as you want the pop up to continue appearing until user decides to say no
+// sets cookie
+//var cookieName = 'Commonwealth_reminder';
+//var cookieValue = 'true';
+//var myDate = new Date();
+//myDate.setMonth(myDate.getMonth() + 12);
+//var expireDate = new Date();
+//expireDate.setTime(expireDate.getTime()+(365*24*60*60*1000));
+//expireDate = expireDate.toGMTString();
+//document.cookie = cookieName +'=' + cookieValue + '; expires='+ expireDate +'; path=/'
+window.open('https://www.surveymonkey.com/r/oecdilibrary','_blank');
+return false;
+});
+$('body').append(box);
+$(box).show('slow');
+$('#SimonIngerPanel').delay(25000).fadeOut(); // panel will fade out after X seconds
+}
 $('#show_release').click(function (e) {
 window.alert("App version \"0001\"");
 });
