@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitepulse.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607180108id_/http%3A//www.websitepulse.com/corporate/privacy.policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitepulse.com privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105122721id_/http%3A//www.websitepulse.com/corporate/privacy.policy.php) for the most accurate reproduction.*
 
 # Privacy Policy of WebSitePulse
 
@@ -21,6 +21,28 @@ The WebSitePulse website uses Forms, whereby customers may request information, 
 **Security**
 
 The WebSitePulse website uses a "Secure Socket Layer" (SSL) with one of the best level of encryption to protect all data provided by our customers. Only authorized personnel have access to this data for the sole purpose of processing service orders. We accept responsibility for your information while in our direct possession. 
+
+**Cookies**
+
+We use different types of cookies to run our service. Some of the cookies identified below are stored in your browser.
+
+You can view and manage cookies in your browser (though browsers for mobile devices may not offer this visibility).
+
+**\- Preferences Cookies**
+
+These cookies allow our website to remember information that changes the way the site behaves or looks. For instance, by remembering your _Dashboard settings_ , the website is able to provide you the predefined _filters_ and the way your service _Dashboard_ looks. 
+
+**\- Security Cookies**
+
+We use security cookies to authenticate users, prevent fraudulent use of login credentials, and protect user data from unauthorized parties, including session cookies that stores information about your current session. 
+
+**\- Processes Cookies**
+
+Process cookies help make the service work, deliver services that the website visitor expects, and help us debug service internal methods. 
+
+**\- Analytics Cookies**
+
+Websitepulse uses Analytics software that help us to understand how the visitors engage with the service and the service dashboard, helping us to improve it over the time. 
 
 **Surveys**
 
