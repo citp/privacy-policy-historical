@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sanasafinaz.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508113413id_/http%3A//www.sanasafinaz.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanasafinaz.com privacy policy that was archived on 2015-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151106005958id_/http%3A//www.sanasafinaz.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# Sana Safinaz Online Store
+# SANA SAFINAZ - Official Online Store
 
 we respect the privacy rights of our online visitors and recognize the importance of protecting your personal information. We have adopted a corporate wide Privacy Policy that guides how we collect, store, and use the information that you provide us with. the following information is provided by sana safinaz sfficial to enable our online visitors to be fully informed of our privacy policies. By www.sanasafinaz.com, you are accepting and consenting to the practices described in this Privacy Policy and the terms and conditions.
 
