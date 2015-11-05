@@ -1,0 +1,1010 @@
+<!--The following is the downloaded HTML source of the orumarketplace.com privacy policy that was archived on 2015-11-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151105011932id_/http%3A//orumarketplace.com/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		
+<!--<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">-->
+
+<meta name="generator" content="ORU Marketplace">
+<title>ORU Marketplace</title>
+<meta name="keywords" content="Ultimate Global Market Place">
+<meta name="description" content="Ultimate Global Market Place">
+<!-- <link href="" rel="stylesheet" type="text/css">
+ -->
+<link href="http://www.orumarketplace.com//themes/Computers/style.css" rel="stylesheet" type="text/css">
+<link href="http://www.orumarketplace.com//styles/default.css" rel="stylesheet" type="text/css">
+
+<link href="http://www.orumarketplace.com//styles/bootstrap.css" rel="stylesheet" type="text/css">
+<link href="http://www.orumarketplace.com//styles/new_style.css" rel="stylesheet" type="text/css">
+
+<script type="text/javascript" src="./js/jquery-2.1.4.min.js"></script><!-- jQuery library -->
+<script src="./includes/functions.js" language="javascript" type="text/javascript"></script>
+
+
+<script language="javascript" type="text/javascript">
+ function validateLoginForm()
+ {
+     var frm = window.document.frmLogin;
+     if(trim(frm.txtUserName.value) =="")
+	 {
+        alert("Please enter a user name");
+        frm.txtUserName.focus();
+        return false;
+     }//end if
+	 else if(frm.txtPassword.value =="")
+	 {
+        alert("Please enter password");
+        frm.txtPassword.focus();
+        return false;
+     }//end else if
+     return true;
+ }//end function
+
+function WindowPop(InviteId)
+{
+    
+    
+	var currentTime = new Date();
+	var minutes = currentTime.getMinutes();
+        
+        //alert(InviteId);
+        
+        var winVarName = "OnlineChat_"+InviteId;
+        //alert(winVarName);
+        
+        if ((!window[winVarName] || window[winVarName].closed))
+        { 
+           
+            imgWindow= window.open('http://www.orumarketplace.com//chat/chat.php?requestid='+InviteId+'&','OnlineChat_'+InviteId,'scrollbars=yes,toolbar=no,resizable=1');
+	    imgWindow.moveTo(100,100);
+	    imgWindow.resizeTo(550,520);
+	    window[winVarName] = imgWindow;
+            
+                //window.open('http://www.orumarketplace.com//chat/chat.php?requestid='+InviteId+'&','OnlineChat_'+InviteId,'top=100,left=100,width=550,height=425,scrollbars=yes,toolbar=no,resizable=1');
+
+        }//end if
+	else
+	{
+           
+		window[winVarName].focus();
+	}
+
+}//end function
+
+var req = null;
+var reqOne = null;
+function processReqChange() {
+  if (req.readyState == 4 && req.status == 200 ) {
+    var dobj = document.getElementById( "moreSpan" );
+    dobj.innerHTML = req.responseText;
+  }
+}
+
+function timersOne()
+{
+setInterval ( "getMoreOne()", 10000 );
+}
+function getMoreOne()
+{
+  var url = "getchatrequests_one.php";
+  loadUrlOne( url );
+}
+function loadUrlOne( url ) {
+  if(window.XMLHttpRequest) {
+    try { reqOne = new XMLHttpRequest();
+    } catch(e) { reqOne = false; }
+  } else if(window.ActiveXObject) {
+    try { reqOne = new ActiveXObject('Msxml2.XMLHTTP');
+    } catch(e) {
+    try { reqOne = new ActiveXObject('Microsoft.XMLHTTP');
+    } catch(e) { reqOne = false; }
+  } }
+  if(reqOne) {
+    reqOne.onreadystatechange = processReqChangeOne;
+    reqOne.open('GET', url, true);
+    reqOne.send('');
+  }
+}
+
+function ltrim(str)
+{
+    var whitespace = new String(" \t\n\r");
+    var s = new String(str);
+    if (whitespace.indexOf(s.charAt(0)) != -1) 
+	{
+        var j=0, i = s.length;
+        while (j < i && whitespace.indexOf(s.charAt(j)) != -1)
+                j++;
+            s = s.substring(j, i);
+    }//end if
+    return s;
+}//end function
+
+function rtrim(str)
+{
+     var whitespace = new String(" \t\n\r");
+     var s = new String(str);
+     if (whitespace.indexOf(s.charAt(s.length-1)) != -1) 
+	 {
+          var i = s.length - 1;       // Get length of string
+          while (i >= 0 && whitespace.indexOf(s.charAt(i)) != -1)
+                i--;
+            s = s.substring(0, i+1);
+     }//end if
+     return s;
+}//end function
+
+function trim(str)
+{
+     return rtrim(ltrim(str));
+}//end funciton
+
+function processReqChangeOne() {
+  if (reqOne.readyState == 4 && reqOne.status == 200 ) {
+  	if(reqOne.responseText!='')
+	{
+           
+            
+		var strValue=reqOne.responseText;
+		strValue=strValue.split("'chk'");
+		var url='';
+                
+                
+		for(var i=0;i<strValue.length;i++)
+		{
+                    
+                    
+			if(trim(strValue[i])!='')
+			{
+				//imgWindow=window.open(strValue[i]);
+				//imgWindow.moveTo(100,100);
+				//imgWindow.resizeTo(550,520);
+				var invteid=strValue[i];      
+                                
+                                   
+				invteid=invteid.split("requestid");
+                                
+                                if (invteid[1]) invteid=invteid[1].split("&");
+				var id=invteid[0].substring(1,3);
+				var winVarName = "OnlineChat_"+id;
+                             
+				if ((!window[winVarName] || window[winVarName].closed))
+				{ 
+					imgWindow=window.open(strValue[i],winVarName,'scrollbars=yes,toolbar=no,resizable=1');
+					imgWindow.moveTo(100,100);
+					imgWindow.resizeTo(550,520);
+					window[winVarName] = imgWindow;
+				}//end if
+				else
+				{
+					 window[winVarName].focus();
+				}//end else
+
+			}//end if
+		}//end for loop
+	}//end if
+  }//end if
+}//end function
+
+
+window.onLoad=setInterval ( "getMoreOne()", 10000 );
+</script>
+<link href="favicon.ico" type="image/x-icon" rel="icon"> 
+<link href="favicon.ico" type="image/x-icon" rel="shortcut icon">
+</head>
+<body onload="timersOne();">
+    
+
+
+<script type="text/javascript">
+    jQuery(document).ready(function ($) {
+            $('.login_area_cnt').hide();
+    });
+</script>
+
+
+<script>
+	jQuery(document).ready(function ($) {
+		$(".logout").hide();
+		$(".userSession").click(function(){
+				$(".logout").toggle();
+		});
+		$("#sign_indiv").click(function(){
+				$(".login_area_cnt").toggle();
+		});
+});
+
+/*	 jQuery(function() { 
+  			jQuery('#datepicker').datepicker({minDate: 0, dateFormat: 'mm-dd-yy'});
+  			jQuery('#datepickers').datepicker({maxDate: 0, dateFormat: 'mm-dd-yy'});
+  			//	jQuery('#datepickers').datepicker({minDate: new Date(2015, 10 - 1, 20), dateFormat: 'mm-dd-yy'});
+    });*/
+</script>	
+<!-- <script type="text/javascript" src="./js/jquery.datepick.js"></script>
+<link href="./styles/jquery.datepick.css" type="text/css" rel="stylesheet"> -->
+<script language="javascript">
+
+    function validateLoginDropForm(){ 
+        var frm = window.document.frmLoginDrop;
+        if(trim(frm.txtUserName.value) ==""){
+            alert("Please enter a user name");
+            frm.txtUserName.focus();
+            return false;
+        }else if(frm.txtPassword.value ==""){
+            alert("Please enter password");
+            frm.txtPassword.focus();
+            return false;
+        }
+        return true;
+    }
+</script>
+
+<script type="text/javascript" src="./js/jquery.fancybox.js?v=2.1.5"></script>
+<link rel="stylesheet" type="text/css" href="./styles/jquery.fancybox.css?v=2.1.5" media="screen">
+
+
+    <link rel="stylesheet" href="./styles/modernizr_reset.css"> <!-- CSS reset -->
+    <link rel="stylesheet" href="./styles/modernizr_style.css"> <!-- Resource style -->
+    <script src="./js/modernizr.js"></script> <!-- Modernizr -->
+
+	<!--<script src="http://www.orumarketplace.com//js/jquery-2.1.1.js"></script>-->
+    <script src="http://www.orumarketplace.com//js/modernizr_jquery.menu-aim.js"></script> <!-- menu aim -->
+    <script src="http://www.orumarketplace.com//js/modernizr_main.js"></script> <!-- Resource jQuery -->
+    
+
+
+<!-- Stylesheets -->
+<link rel="stylesheet" href="./styles/masterslider.css"><!-- Master slider css -->
+<link rel="stylesheet" href="./styles/masterslider_skin_style.css"><!-- Master slider default skin -->
+<link rel="stylesheet" href="./styles/animate.css"><!-- animations -->
+<link rel="stylesheet" href="./styles/owl.carousel.css"><!-- Client carousel -->
+<link rel="stylesheet" href="./styles/template_style.css"><!-- template styles -->
+<link rel="stylesheet" href="./styles/color-default.css"><!-- template main color -->
+<link rel="stylesheet" href="./styles/retina.css"><!-- retina ready styles -->
+<link rel="stylesheet" href="./styles/responsive.css"><!-- responsive styles -->
+
+<link rel="stylesheet" href="./styles/font-awesome.min.css">
+<link rel="stylesheet" href="./styles/font-awesome.css">
+
+
+<script src="./js/jquery-2.1.4.min.js"></script><!-- jQuery library -->
+
+<script type="text/javascript" src="./js/bootstrap.js"></script><!-- .bootstrap script -->
+<script type="text/javascript" src="./js/jquery.srcipts.min.js"></script><!-- modernizr, retina, stellar for parallax -->  
+<script type="text/javascript" src="./js/owl.carousel.min.js"></script><!-- Carousels script -->
+<script type="text/javascript" src="./js/masterslider.min.js"></script><!-- Master slider main js -->
+<script type="text/javascript" src="./js/jquery.matchHeight-min.js"></script><!-- for columns with background image -->
+<script type="text/javascript" src="./js/jquery.dlmenu.min.js"></script><!-- for responsive menu -->
+<script type="text/javascript" src="./js/styleSwitcher.js"></script><!-- styleswitcher script -->
+<script type="text/javascript" src="./js/include.js"></script><!-- styleswitcher script -->
+
+<script>
+	/* <![CDATA[ */
+	jQuery(document).ready(function ($) {
+		'use strict';
+
+		function equalHeight() {
+			$('.page-content.column-img-bkg *[class*="custom-col-padding"]').each(function () {
+				var maxHeight = $(this).outerHeight();
+				$('.page-content.column-img-bkg *[class*="img-bkg"]').height(maxHeight);
+			});
+		};
+		
+		$(document).ready(equalHeight);
+		$(window).resize(equalHeight);
+
+		// MASTER SLIDER START 
+		var slider = new MasterSlider();
+		slider.setup('masterslider', {
+			width: 1140, // slider standard width
+			height: 854, // slider standard height
+			space: 0,
+			speed: 50,
+			layout: "fullwidth",
+			centerControls: false,
+			loop: true,
+			autoplay: true
+					// more slider options goes here...
+					// check slider options section in documentation for more options.
+		});
+		// adds Arrows navigation control to the slider.
+		slider.control('arrows');
+
+		// CLIENTS CAROUSEL START 
+		$('#client-carousel').owlCarousel({
+			items: 6,
+			loop: true,
+			margin: 45,
+			responsiveClass: true,
+			mouseDrag: true,
+			dots: false,
+			responsive: {
+				0: {
+					items: 2,
+					nav: true,
+					loop: true,
+					autoplay: true,
+					autoplayTimeout: 3000,
+					autoplayHoverPause: true,
+					responsiveClass: true
+				},
+				600: {
+					items: 3,
+					nav: true,
+					loop: true,
+					autoplay: true,
+					autoplayTimeout: 3000,
+					autoplayHoverPause: true,
+					responsiveClass: true
+				},
+				1000: {
+					items: 3,
+					nav: true,
+					loop: true,
+					autoplay: true,
+					autoplayTimeout: 3000,
+					autoplayHoverPause: true,
+					responsiveClass: true,
+					mouseDrag: true
+				}
+			}
+		});
+
+		// TESTIMONIAL CAROUSELS START
+		$('#testimonial-carousel').owlCarousel({
+			items: 1,
+			loop: true,
+			margin: 30,
+			responsiveClass: true,
+			mouseDrag: true,
+			dots: false,
+			autoheight: true,
+			responsive: {
+				0: {
+					items: 1,
+					nav: true,
+					loop: true,
+					autoplay: true,
+					autoplayTimeout: 3000,
+					autoplayHoverPause: true,
+					responsiveClass: true,
+					autoHeight: true
+				},
+				600: {
+					items: 1,
+					nav: true,
+					loop: true,
+					autoplay: true,
+					autoplayTimeout: 3000,
+					autoplayHoverPause: true,
+					responsiveClass: true,
+					autoHeight: true
+				},
+				1000: {
+					items: 1,
+					nav: true,
+					loop: true,
+					autoplay: true,
+					autoplayTimeout: 3000,
+					autoplayHoverPause: true,
+					responsiveClass: true,
+					mouseDrag: true,
+					autoHeight: true
+				}
+			}
+		});
+
+	});
+	/* ]]> */
+	
+	<!--  ADD CLASS  -->
+	jQuery(window).scroll(function() {    
+
+        var scroll = jQuery(window).scrollTop();
+   
+        if (scroll > 100 ) {
+            // jQuery(".inner_header").addClass("inner_header_fixed");
+        }
+		else{
+			jQuery(".inner_header").removeClass("inner_header_fixed");
+		}
+		
+    });
+</script>
+
+
+<script language="javascript" type="text/javascript">
+    function Clear_text(obj,act)
+    {
+        if(obj.value=='Enter your text here..' && act=='in')
+        {
+            obj.value='';
+        }
+        else if(obj.value=='' && act=='out')
+        {
+            obj.value='Enter your text here..';
+        }
+    }//end function
+
+    function ValidSearch()
+    {
+        if(document.frmHSearch.txtHomeSearch.value=='Enter your text here..' || document.frmHSearch.txtHomeSearch.value=='')
+        {
+            alert("Please enter search text");
+            document.frmHSearch.txtHomeSearch.value='';
+            document.frmHSearch.txtHomeSearch.focus();
+            return false;
+        }//end if
+        /*if(document.frmHSearch.txtHomeSearch.value=='')
+        {
+            alert("Search can't be blank");
+            document.frmHSearch.txtHomeSearch.focus();
+            return false;
+        }//end if
+         */
+    }//end function
+</script>
+<script type="text/javascript">
+    var $jqr=jQuery.noConflict();
+    $jqr(document).ready(function () { 
+        //jQuery.noConflict();
+       /* $jqr('.signin_btt').click(function () {
+            if ($jqr('#signin_menu').is(":visible")) {
+                $jqr('#signin_menu').hide()
+                $jqr('.signin_btt').removeClass('menu-open');
+            } else {
+                $jqr('#signin_menu').show()
+                $jqr('.signin_btt').addClass('menu-open');
+            }
+            
+            return false;
+        });
+        $jqr('#signin_menu').click(function(e) {
+            e.stopPropagation();
+        });*/
+    var $jqrs=jQuery.noConflict();
+        $jqrs(document).click(function() {
+            $jqrs('#signin_menu').hide();
+            $jqrs('.signin_btt').removeClass('menu-open');
+        });
+        $jqrs(".fancybox-manual-a").click(function(){
+               
+               var oru_value ='1';
+                $.fancybox.open({
+                    href :"http://www.orumarketplace.com//view_oru.php?id="+oru_value,
+                    type : 'iframe',
+                     width: 460,
+                     height: 210,
+		          padding : 5
+		   });
+            });
+
+
+    }); 
+
+     
+</script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<div id="Layout">
+	<header style="position:relative; height:133px;">
+		<div class="inner_header">
+		
+			<div class="container">
+				<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 no_padding">
+					<div class="logo_outer">
+						<a href="./index.php"><img src="./images/main-logo.png" border="0" class="img-responsive" alt="orbismarketplace" title="orbismarketplace"></a>
+					</div>
+				</div>
+				<div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 no_padding">
+				
+				<div class="col-xs-12 col-sm-6 col-md-12 col-lg-12 no_padding unlock_main_nav">
+					
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 no_padding">
+					
+						<nav class="navbar navbar-default nav-left" role="navigation">
+							<!-- MAIN NAVIGATION -->
+							<div class="navbar-collapse">
+								<ul class="nav navbar-nav main_nav">
+															
+								<div class="clear"></div>                                     
+							
+									<li class="home_icn"><a href="index.php">Home</a></li><li class="faq_icn"><a href="faq.php">FAQ</a></li><li class="contact_icn"><a href="contactus.php">Contact Us</a></li><li class="hlp_icn"><a href="help.php">Help</a></li><li class="stmap"><a href="sitemap.php">Navigate</a></li><li class="orucal"><a class="fancybox-manual-a">ORU Time Calculator</a></li>                                                                <div class="btn-group pull-left">
+                                                                            
+                                                                            <select class="lang_btt btn-default dropdown-toggle" id="selectBox" name="cmbLanguage">
+                                                                              
+                                                                                 <option value=""> Change Language</option>
+                                                                                                                                                                    
+                                                                                   <option value="1" selected="">English</option>
+                                                                                                                                                                    
+                                                                                 
+                                                                            </select>
+                                                                </div>
+																
+																
+									<div class="user_secton">
+																					<a href="#" id="sign_indiv" class="sign_in"><span>Sign In</span></a>
+											<!-- <a href="register.php" ><span>Register</span></a>-->
+
+									<div class="login_area_cnt" style="display:none;">
+									    <form method="post" action="" name="frmLoginDrop" onsubmit="return validateLoginDropForm();">
+										
+										<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 no_padding">
+											<input type="hidden" name="btnLogin" value="Login">
+				 																
+											<div class="login_top">
+												<input name="txtUserName" type="text" class="form-control" placeholder="User Name" id="txtUserName" maxlength="50" size="15" tiptitle="Username">
+											</div>
+											<div class="login_top">
+												<input name="txtPassword" id="txtPassword" type="password" placeholder="Password" maxlength="50" size="15" class="form-control" tiptitle="Password">
+											</div>
+											<div class="login_top">
+												<input type="checkbox" name="chkInvisible" value="Y" tabindex="3" class="login_check"> Invisible Mode
+												<input type="checkbox" name="rememberme" value="Y" tabindex="3" class="login_check"> &nbsp; Remember Me                 
+											</div>
+											<div class="login_top">
+												<input type="submit" name="btnLogin" value="Login" class="orange_normal_btt_full">
+											</div>
+											<div class="login_top">
+												<a href="register.php" id="newSignUp"><b>New User Sign Up Here</b></a><br>
+									            <a href="forgotpass.php" id="forgotPass">Forgot Password?</a>
+											</div>
+										</div>
+										
+									
+									</form>
+									</div>
+
+																						
+										
+											<!-- <div class="login_secton">
+														
+																								<a href="login.php" class="signin_btt" id="sign_indiv"><span>Sign in</span></a>
+												<a href="register.php" class="reg_btt"><span>Register</span></a>
+												
+												
+																								
+												
+																								<div id="signin_menu" style="display: none;">
+																									</div>
+																								
+												
+																				
+												<div class="clear"></div>
+											</div> -->
+											
+									</div>
+
+									
+									<!--<div class="btn-group pull-right">
+										<button type="button" class="lang_btt btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+											Change Language <span class="caret"></span>
+										</button>
+										<ul class="lang_txt dropdown-menu">
+											<li><a href="#">English</a></li>
+											<li><a href="#">FrancÃ©s</a></li>
+											<li><a href="#">EspaÃ±ol</a></li>
+											<li><a href="#">AlemÃ¡n</a></li>
+										</ul>
+									</div>-->                        
+								</ul>
+								
+								<!-- RESPONSIVE MENU -->
+								
+								<div id="dl-menu" class="dl-menuwrapper pull-right" style="position:absolute; z-index:10000;">
+									<button class="dl-trigger">Open Menu</button>
+									<ul class="dl-menu"> 							
+										<li class="home_icn"><a href="index.php">Home</a></li><li class="faq_icn"><a href="faq.php">FAQ</a></li><li class="contact_icn"><a href="contactus.php">Contact Us</a></li><li class="hlp_icn"><a href="help.php">Help</a></li><li class="stmap"><a href="sitemap.php">Navigate</a></li><li class="orucal"><a class="fancybox-manual-a">ORU Time Calculator</a></li> 
+									
+									
+									<li class="languange_head"><h2>Language</h2></li>
+																				<li class="languange_txt">
+												<span><a href="change_language.php?language_id=1&amp;redirect_url=%2Fprivacy.php">English</a></span>
+										
+											
+									</li>
+									<div class="clear"></div>
+
+										
+									<li class="respo_logout_section"><a href="login.php" class="login">Sign In</a></li>
+																	</ul>
+							</div>
+						</div>
+					
+						<div class="clear"></div>
+										
+						<!-- MAIN NAVIGATION END -->
+						
+					  </nav>
+				  </div>
+				  
+					  
+				</div>
+				
+				<div class="col-xs-12 col-sm-6 col-md-12 col-lg-12 no_padding lock_main_nav">
+					<div class="btn-group pull-right">
+						<button type="button" class="lock_main_icon btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+							
+						</button>
+						<ul class="dropdown-menu">									
+							<li><h2>Main Menu</h2></li>									
+							<li class="home_icn"><a href="index.php">Home</a></li><li class="faq_icn"><a href="faq.php">FAQ</a></li><li class="contact_icn"><a href="contactus.php">Contact Us</a></li><li class="hlp_icn"><a href="help.php">Help</a></li><li class="stmap"><a href="sitemap.php">Navigate</a></li><li class="orucal"><a class="fancybox-manual-a" style="cursor:pointer">ORU Time Calculator</a></li>								
+							<li><h2>Language</h2></li>
+						 <li class="lang_lock"><a href="change_language.php?language_id=1&amp;redirect_url=%2Fprivacy.php" title="English">English</a></li>
+
+							
+						
+						<div class="clear"></div>
+
+							
+						<li class="respo_logout_section"><a href="login.php" class="logout" style="display: none;">Sign In</a></li>
+						
+						</ul>
+					</div>
+				</div>
+				
+				
+				  
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 no_padding">
+<div class="tp_main_navs">
+	<div class="col-xs-9 col-sm-9 col-md-11 col-lg-11 sub_menu">
+	<nav class="navbar navbar-default nav-left nav_top_outer" role="navigation">                                    
+		<div class="navbar-collapse">
+			<ul class="nav navbar-nav nav_top">
+				<li><a href="wishlistdetailed.php">Wish</a></li><li><a href="swaplistdetailed.php">Transact</a></li><li><a href="register.php">Register</a></li><li><a href="allcategories.php">Category Display</a></li><li><a href="index.php"></a></li><li><a href="http://www.orumarketplace.com//referralinfo.php">Referral</a></li>				
+			</ul>	
+			<!-- RESPONSIVE MENU -->			
+			<div id="dl-menu_2" class="dl-menuwrapper">
+				<button class="dl-trigger">Open Menu</button>	
+				<ul class="dl-menu">
+					<li><a href="wishlistdetailed.php">Wish</a></li><li><a href="swaplistdetailed.php">Transact</a></li><li><a href="register.php">Register</a></li><li><a href="allcategories.php">Category Display</a></li><li><a href="http://www.orumarketplace.com//referralinfo.php">Referral</a></li>				</ul>
+			</div>		
+		</div>
+	</nav>
+	</div>
+	
+	
+<div class="col-xs-3 col-sm-3 col-md-1 col-lg-1 no_padding">
+	<a href="javascript:void(0)" class="search_main_btt"> </a>
+</div>
+<div class="search_rightsection" id="search_rightsection" style="display:none;">
+	<form name="frmHSearch" method="post" action="search.php" onsubmit="return ValidSearch();">
+		<select name="selSearch" class="search_select_feild">
+			<option value="All">All</option>
+			<option value="All products">All products</option>
+			<option value="Wished Products">Wished Products</option>
+						<option value="FAQ">FAQ</option>
+			<option value="Categories">Categories</option>
+			<option value="Countries and cities">Countries and cities</option>
+			<option value="Description">Description</option>
+			<option value="Brand">Brand</option>
+			<option value="Condition">Condition</option>
+		</select> 
+		
+		<input name="txtHomeSearch" type="text" class="search" value="Enter your text here.." onclick="javascript:Clear_text(this,'in');" onblur="javascript:Clear_text(this,'out');">
+			
+		<input type="submit" value="Search" height="21" class="search_btt">
+	</form>
+	<div class="clear"></div>
+</div>
+
+
+</div>
+</div>
+<input type="hidden" name="redirect-url" value="%2Fprivacy.php" id="redirectUrl">
+<script type="text/javascript">
+    $(".search_main_btt").click(function(){
+        $("#search_rightsection").toggle();
+    });
+    $("#selectBox").change(function(){
+     var langVal=$jqr(this).val();
+      var redirectUrl = $jqr("#redirectUrl").val(); 
+      var goLink =  'change_language.php?language_id='+langVal+'&redirect_url='+redirectUrl; 
+      window.location = goLink;
+    });
+</script>
+
+				  
+				</div>
+								
+			</div>
+		</div>
+		
+			
+
+</header>
+	
+
+
+
+
+	
+	<div class="full_width inner_cont_main_outer">
+	<div class="container">
+		<div class="cont_L_R_outer">
+			<div class="cont_L_R_row">
+				<div class="cont_L">
+					<div class="full_width">
+	<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true"><h1>Most popular categories</h1>
+	<div class="panel panel-default">
+		<div class="panel-heading" role="tab" id="heading1">
+		    <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1" aria-expanded="true" aria-controls="collapse1">
+			Professional Services</a>
+		</div>
+
+	 	<div id="collapse1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading1">
+		<div class="panel-body">
+
+					<a href="catwiseproducts.php?catid=310">Coaching</a>
+					<a href="catwiseproducts.php?catid=297">Presentations</a>
+					<a href="catwiseproducts.php?catid=308">Lawn Care</a>
+					<a href="catwiseproducts.php?catid=289">Copy and Duplication Services</a>
+					<a href="catwiseproducts.php?catid=298">Consulting</a>
+					<a href="allcategories.php" class="view_all">View all</a>
+		</div> 
+	</div> 
+	</div>
+
+
+	<div class="panel panel-default">
+		<div class="panel-heading" role="tab" id="heading2">
+		    <a href="catwiseproducts.php?catid=22">
+			Hotels and Resorts</a>
+		</div>
+
+	 	<div id="collapse2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading2">
+		<div class="panel-body">
+
+		</div> 
+	</div> 
+	</div>
+
+
+	<div class="panel panel-default">
+		<div class="panel-heading" role="tab" id="heading3">
+		    <a href="catwiseproducts.php?catid=27">
+			Miscellaneous</a>
+		</div>
+
+	 	<div id="collapse3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading3">
+		<div class="panel-body">
+
+		</div> 
+	</div> 
+	</div>
+
+
+	<div class="panel panel-default">
+		<div class="panel-heading" role="tab" id="heading4">
+		    <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse4" aria-expanded="true" aria-controls="collapse4">
+			Real Estate</a>
+		</div>
+
+	 	<div id="collapse4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading4">
+		<div class="panel-body">
+
+					<a href="catwiseproducts.php?catid=311">Homes</a>
+					<a href="allcategories.php" class="view_all">View all</a>
+		</div> 
+	</div> 
+	</div>
+
+
+	<div class="panel panel-default">
+		<div class="panel-heading" role="tab" id="heading5">
+		    <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse5" aria-expanded="true" aria-controls="collapse5">
+			Books and Magazines</a>
+		</div>
+
+	 	<div id="collapse5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading5">
+		<div class="panel-body">
+
+					<a href="catwiseproducts.php?catid=296">Financial</a>
+					<a href="allcategories.php" class="view_all">View all</a>
+		</div> 
+	</div> 
+	</div>
+
+
+	<div class="panel panel-default">
+		<div class="panel-heading" role="tab" id="heading6">
+		    <a href="catwiseproducts.php?catid=275">
+			Toys</a>
+		</div>
+
+	 	<div id="collapse6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading6">
+		<div class="panel-body">
+
+		</div> 
+	</div> 
+	</div>
+
+
+	<div class="panel panel-default">
+		<div class="panel-heading" role="tab" id="heading7">
+		    <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse7" aria-expanded="true" aria-controls="collapse7">
+			Entertainment</a>
+		</div>
+
+	 	<div id="collapse7" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading7">
+		<div class="panel-body">
+
+					<a href="catwiseproducts.php?catid=303">Action</a>
+					<a href="catwiseproducts.php?catid=302">Faith Based</a>
+					<a href="allcategories.php" class="view_all">View all</a>
+		</div> 
+	</div> 
+	</div>
+
+
+	<div class="panel panel-default">
+		<div class="panel-heading" role="tab" id="heading8">
+		    <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8" aria-expanded="true" aria-controls="collapse8">
+			Fashion</a>
+		</div>
+
+	 	<div id="collapse8" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading8">
+		<div class="panel-body">
+
+					<a href="catwiseproducts.php?catid=307">Dresses</a>
+					<a href="allcategories.php" class="view_all">View all</a>
+		</div> 
+	</div> 
+	</div>
+
+
+	<div class="panel panel-default">
+		<div class="panel-heading" role="tab" id="heading9">
+		    <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse9" aria-expanded="true" aria-controls="collapse9">
+			Vehicles</a>
+		</div>
+
+	 	<div id="collapse9" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading9">
+		<div class="panel-body">
+
+					<a href="catwiseproducts.php?catid=290">Motorcycles</a>
+					<a href="catwiseproducts.php?catid=294">Car Parts</a>
+					<a href="allcategories.php" class="view_all">View all</a>
+		</div> 
+	</div> 
+	</div>
+
+
+	<div class="panel panel-default">
+		<div class="panel-heading" role="tab" id="heading10">
+		    <a href="catwiseproducts.php?catid=279">
+			test</a>
+		</div>
+
+	 	<div id="collapse10" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading10">
+		<div class="panel-body">
+
+		</div> 
+	</div> 
+	</div>
+
+
+	<div class="panel panel-default">
+		<div class="panel-heading" role="tab" id="heading11">
+		    <a href="catwiseproducts.php?catid=24">
+			Aviation</a>
+		</div>
+
+	 	<div id="collapse11" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading11">
+		<div class="panel-body">
+
+		</div> 
+	</div> 
+	</div>
+
+
+	<div class="panel panel-default">
+		<div class="panel-heading" role="tab" id="heading12">
+		    <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse12" aria-expanded="true" aria-controls="collapse12">
+			Rentals</a>
+		</div>
+
+	 	<div id="collapse12" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading12">
+		<div class="panel-body">
+
+					<a href="catwiseproducts.php?catid=286">Cabins</a>
+					<a href="allcategories.php" class="view_all">View all</a>
+		</div> 
+	</div> 
+	</div>
+
+
+
+    <div class="panel panel-default">
+		<div class="panel-heading" role="tab" id="heading1">
+		    <a href="allcategories.php">All Categories</a>
+		</div>
+	</div>
+
+</div>
+</div>
+				</div> 
+				<div class="cont_R">
+										<div class="full_width main_contant">
+						<h1></h1>
+						<div class="full_width"><p style="text-align:center"><img alt="" src="http://www.orumarketplace.com/ckeditor/uploads/images/privacy.png" style="height:85px; width:200px"></p>
+
+<p>This privacy policy relates to use of the <strong>ORU MARKETPLACE</strong>&nbsp;websites at <a href="http://www.orumarketplace.com">http://www.orumarketplace.com</a>&nbsp;and <a href="http://www.iamsport.org/">h</a><a href="http://www.orumarket.com">ttp://www.orumarket.com</a></p>
+
+<p>This privacy policy covers how the <strong>ORU Marketplace</strong> (hereafter named "we") will treat personal information that we collect. Personal information is your information and includes identifiers like your name, address, email address, and phone number.</p>
+
+<p><strong>Our Commitment To Privacy</strong><br>
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.</p>
+
+<p><strong>The Information We Collect:</strong><br>
+This notice applies to all information collected or submitted on the <strong>ORU Marketplace</strong> website. On several pages, you can buy products or services, make offers, counteroffers, negotiate,&nbsp;and make requests.&nbsp;&nbsp;The types of personal information collected at these pages are:</p>
+
+<p>Name<br>
+Address<br>
+Email address<br>
+Phone number</p>
+
+<p><strong>The Way We Use Information:</strong><br>
+We use the information you provide about yourself when executing a transaction,&nbsp;only to complete that transaction. We do not share this information with outside parties except to the extent necessary to complete that transaction, such as shipping and delivery companies.</p>
+
+<p>We use the information you provide about someone else when creating a transaction&nbsp;only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that transaction.</p>
+
+<p>We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.</p>
+
+<p>We use non-identifying and aggregate information to better design our website.&nbsp;</p>
+
+<p>Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.</p>
+
+<p><strong>Our Commitment To Data Security</strong><br>
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.</p>
+
+<p><strong>Our Commitment To Children's Privacy:</strong><br>
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 12, and no part of our website is structured to attract anyone under 12.</p>
+
+<p><strong>How You Can Access Or Correct Your Information</strong><br>
+You can access all your personally identifiable information that we collect online and maintain by logging into your <strong>ORU Marketplace</strong> account and view your contact details. We use this procedure to better safeguard your information.</p>
+
+<p>You can correct factual errors in your personally identifiable information at any time by editing your marketplace profile.&nbsp;</p>
+
+<p>We may update this policy at any time for any reason. If there are any significant changes to how we handle personal information, we will send a notice to the primary email address specified in your <strong>ORU Marketplace</strong> account or by placing a prominent notice on our site.</p>
+
+<p><span style="color:#FF8C00"><strong>Thank you and have an Orutopian day!</strong></span></p>
+</div>
+					</div>
+					
+					<div class="sub_banner_outer"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="clear"></div>
+                
+	<div class="footer">
+		<div class="container">
+			<div class="full_width">
+				<div class="ftr_menu">
+						<a href="aboutus.php">About Us</a>&nbsp;|&nbsp;<a href="history.php">History</a>&nbsp;|&nbsp;<a href="sentinel.php">Sentinel</a>&nbsp;|&nbsp;<a href="privacy.php"><span>Privacy Policy</span></a>&nbsp;|&nbsp;<a href="terms.php">Terms</a>&nbsp;|&nbsp;<a href="glossary.php">Glossary</a>						
+					</div>
+					<div class="rssfeed_ftr">
+						 					</div>
+					
+					<div class="bmrknshare_ftr">
+						   					</div>
+			</div>
+			
+			<div class="full_width">
+							</div>
+			<div class="full_width"></div>
+			
+		</div>
+	</div>
+
+
+
+</div>
+
+
+</body></html>
