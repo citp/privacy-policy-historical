@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financial-tm.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516202709id_/http%3A//www.financial-tm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financial-tm.com privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105235911id_/http%3A//www.financial-tm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « FinancialTM – Financial,Economic and Money News
 
