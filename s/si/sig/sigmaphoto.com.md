@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sigmaphoto.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609091751id_/http%3A//www.sigmaphoto.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sigmaphoto.com privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105042427id_/http%3A//www.sigmaphoto.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sigma Corporation of America
 
@@ -7,11 +7,11 @@ Last Updated: April, 2014
 
 Welcome to the Sigma Corporation of America (“Sigma” or “we/our/us”) website (the “Site”). This privacy policy describes how Sigma treats your use of the Site, including the handling of personal information. We reserve the right to revise this privacy policy at any time. If we make any substantive changes, we will notify registered users by posting bulletins on the Site, by e-mail at the address provided by you, or by posting notice of changes at the Site. Your use of the Site after such changes constitutes your agreement to the new policies. You should periodically read this policy to learn of any revisions. Your use of the Site at any time is deemed to constitute your agreement to all of the terms of this privacy policy then in effect. If you do not agree to these terms, please do not use the Site.
 
-**1\. INFORMATION COLLECTION**
+##### 1\. INFORMATION COLLECTION
 
 We may share both personally and non-personally identifiable information with third parties that help manage the Site and related databases, as well as with our parent company, partners, affiliates, and other third parties.
 
-**A. Non-Personally Identifiable Information**
+###### A. Non-Personally Identifiable Information
 
 SIGMA gathers certain broad information about Site use, including the number of unique visitors, the frequency with which they visit, and the programs and services preferred. We look at the data in summary form, rather than on an individual basis. We gather this information so we can, for example, learn how many people visit the Site, see which pages are the most and least viewed, and identify which web sites are referring visitors to the Site and related information. The data helps us determine the extent to which visitors use certain parts of the Site and tailor the Site in the future. In connection with these activities we may use some of the following tools.
 
@@ -19,17 +19,17 @@ Cookies and Pixel Tags: We use standard technologies such as a “cookie” and 
 
 IP Addresses: We collect and analyze traffic on the Web Site by keeping track of the IP addresses of our visitors. An IP address is the unique numeric identifier assigned to each computer browser accessing the Internet. An IP address, by itself, cannot identify you personally. However, when combined with other information provided by your Internet Service Provider (ISP), your IP address can be used to identify the computer originating a message.
 
-**B. Personally Identifiable Information**
+###### B. Personally Identifiable Information
 
 Certain actions and areas of the site require you to provide personal information, such as when you join the Site or create a user account, or submit a photo or comment. The personally identifiable information we collect may include your name, address, phone number, mobile phone number, e-mail address, a user name you provide, or similar information. By submitting personal information to us, you agree that we may use the information in accordance with this privacy policy.
 
-If you do submit personally identifiable information to us, we may share such information with third party marketing partners in addition to using that information for the purposes for which it was submitted. 
+If you do submit personally identifiable information to us, we may share such information with third party marketing partners in addition to using that information for the purposes for which it was submitted.
 
 We may also use your information in other ways, such as to contact you about changes to Site policy, to provide you with information about products and offers we believe will be of interest to you, or as otherwise disclosed to you at the point of collection. We may share your information with our parent company, affiliates, partners, and any other organizations or entities for similar purposes. Additionally, to the extent required by applicable federal or state law, we will provide this information to others.
 
 By submitting information to us, you give us permission to receive it, review it, edit it, store it, post it on the Site, and use it in appropriate settings designed to illustrate the viewpoint of SIGMA.
 
-**C. Sharing Information for Operation Of Sigma Business**
+###### C. Sharing Information for Operation Of Sigma Business
 
 For the purpose of operating our business, we may transfer information between Sigma and our service providers who use that information only to conduct Sigma business. For example, they may handle Sigma’s credit card processing, shipping, data management, e-mail distribution, market research, information analysis, and promotions management. We may also share your information to administer a Site feature. We provide our service providers with the information they need to perform their services and work with them to protect your information. The information that you submit on the Site may be provided to those vendors on a confidential basis so that those vendors can provide services on our behalf.
 
@@ -41,49 +41,60 @@ We may transfer personally identifiable information to an affiliate or third par
 
 Please note that if you remove your User Generated Content from the Site, your User Generated Content may still be viewable on third party social platforms, in cached and archived pages, or if other users have stored your User Generated Content.
 
-**2\. SWEEPSTAKES, CONTESTS, PROMOTIONS**  
+##### 2\. SWEEPSTAKES, CONTESTS, PROMOTIONS
+
 From time to time, we may request information from you via online polls, surveys, sweepstakes, or contests. Participation in these survey, sweepstakes, or contests is completely voluntary; you have a choice whether or not to disclose information required to enter. Information requested may include personal contact information such as your name, address, phone number, mobile phone number, e-mail address, username, and/or similar information. In addition, as noted above, we may share this information with our parent company, affiliates, and other organizations or entities.
 
-**3\. ONLINE ADVERTISEMENTS**  
+##### 3\. ONLINE ADVERTISEMENTS
+
 We work with other companies who use tracking technologies to serve ads on our behalf across the Internet. These companies may collect non-personally identifiable information about your visits to our Site and your interaction with our communications, including advertising. Our advertising partners may use cookies and pixel tags on this Site and on third party sites on which our ads appear, which allow the advertising partner to track certain information about user behavior, such as “click stream data.” Any use of information by an advertising partner would be governed by their terms of use and privacy policy, so be sure to become familiar with these policies prior to responding to online advertisements.
 
-**4\. E-MAIL NEWSLETTER AND UPDATES, TEXT MESSAGES**  
+##### 4\. E-MAIL NEWSLETTER AND UPDATES, TEXT MESSAGES
+
 If you sign up to receive our e-mail newsletter, e-mail updates, or text messages from us, we may collect, store, and use your e-mail address and mobile phone number to send you such information from SIGMA. We may also collect and store other personally identifiable information including but not limited to your name, address, phone number, number, username, and/or similar information you may opt to provide us. In addition, as noted above, we may share this information with our parent company, affiliates, and other organizations or entities.
 
-**5\. USER ACCOUNTS**  
+##### 5\. USER ACCOUNTS
+
 If you sign up for a Site user account, or to participate in any feature or offer provided by the Site, we may collect and store your personally identifiable information. Your user account information may be visible to designated staff members of SIGMA and our third-party services vendors, but not to other registered users or Web Site visitors (except to the extent you voluntarily provide any such information when you post your comments). When you register for a user account, you may also be registered to receive e-mail updates, e-mail newsletters, and text messages from SIGMA. In addition, as noted above, we may share this information with our affiliates, partners, and other organizations or entities.
 
-**6\. SIGMA COMMUNITY**  
+##### 6\. SIGMA COMMUNITY
+
 By becoming a member of the Site, you agree to share a basic amount of information with the rest of the community, including your username, city location, and certain other basic information.
 
-**7\. OTHER COMMUNICATIONS / OTHER USERS**  
+##### 7\. OTHER COMMUNICATIONS / OTHER USERS
+
 You may choose to contact SIGMA, by e-mail or otherwise, with other inquiries or to provide comments. Any personally identifiable information you provide in connection with such inquiries or comments will be collected and used by SIGMA for the purpose of processing and responding to your inquiries or comments.
 
 Sigma is not responsible for the actions of other users or the circumvention of any privacy settings or security measures on the Site. You post User Generated Content to the Site at your own risk. Therefore, please be mindful of what you post, because it may become publicly available on the Site or otherwise. Even after account deactivation, copies of your User Generated Content previously posted may still be viewable in activity fees, in other areas on the Website, on social platforms, in cached and archived pages or if other users have stored your User Generated Content. Sigma may keep information and content in our backup files and archives.
 
-**8\. FACEBOOK, YOUTUBE, TWITTER, AND OTHER THIRD-PARTY SOCIAL NETWORKING SITES**  
+##### 8\. FACEBOOK, YOUTUBE, TWITTER, AND OTHER THIRD-PARTY SOCIAL NETWORKING SITES
+
 SIGMA maintains an active presence on several social networks. Any published activity feed about you on the Site will be made available to other Site users. Your Site activity will also be made available to social platforms, such as Facebook and Twitter, if you choose to select that option. Please read the privacy policies of those social platforms, because your Sigma Site activity published on those platforms will no longer be governed by Sigma’s Privacy Policy.
 
-**9\. SECURITY**  
+##### 9\. SECURITY
+
 Information submitted via the Internet, including through a web page or e-mail is subject to interception or incorrect routing, and the Internet is not a fully secure communications channel. Please consider this prior to submitting any information to us via this Site.  
 While we follow generally accepted industry standards to protect the personal information submitted to us, no method of transmission over the Internet, or method of electronic storage, is 100 percent secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. We do not assume any liability to third parties whose information you include on the Site, or which you post in any User Generated Content. To help maintain the security of your Sigma account, please keep your password secure.
 
-**10\. INTERNATIONAL USERS**  
+##### 10\. INTERNATIONAL USERS
+
 This site is operated, in whole or in part, from the United States. By using this Site, regardless of where you live in the world, you consent to have your personal data transferred to and processed in the United States, and allow Sigma to use and collect your personal information in accordance with this Privacy Policy.
 
-**11\. YOUR CALIFORNIA PRIVACY RIGHTS  
-** Under California Law, California residents have the right to request in writing from businesses with whom they have an established business relationship, (a) a list of the categories of personal information, such as name, email and mailing address and the type of services provided to the customer, that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties’ direct marketing purposes and (b) the names and addresses of all such third parties. To request the above information, please contact us via email through our Contact Us page or write to us at the address indicated below.  
+##### 11\. YOUR CALIFORNIA PRIVACY RIGHTS
+
+Under California Law, California residents have the right to request in writing from businesses with whom they have an established business relationship, (a) a list of the categories of personal information, such as name, email and mailing address and the type of services provided to the customer, that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties’ direct marketing purposes and (b) the names and addresses of all such third parties. To request the above information, please contact us via email through our Contact Us page or write to us at the address indicated below.
 
 We will respond to such requests to information access within 30 days following receipt at the email or mailing address stated above. If we receive your request at a different email or mailing address, we will respond within a reasonable period of time, but not to exceed 150 days from the date received. Please note that we are only required to respond to each customer once per calendar year.
 
-California law also provides that California residents are entitled to know how this site responds to “Do Not Track” browser settings. Like many other websites and online services, this site does not currently alter its practices when it receives Do Not Track signals because there is no consensus among industry participants as to what “Do Not Track” means in this context. To find out more about “Do Not Track,” and for opt out information, you may wish to visit [www.aboutads.info](http://www.aboutads.info/). 
+California law also provides that California residents are entitled to know how this site responds to “Do Not Track” browser settings. Like many other websites and online services, this site does not currently alter its practices when it receives Do Not Track signals because there is no consensus among industry participants as to what “Do Not Track” means in this context. To find out more about “Do Not Track,” and for opt out information, you may wish to visit [www.aboutads.info](http://www.aboutads.info/).
 
-**12\. UNSUBSCRIBE / CONTACT US  
-** We want to communicate with you only if you want to hear from us. If you prefer not to receive information from Sigma or would like to update or change your personal information or preferences, follow the instructions below. However, Sigma may send you service-related announcements, and transactional e-mail such as confirmations and receipts, from time to time through the general operation of the Site or by e-mail. If you do not want to receive any e-mail from us in the future, click the “unsubscribe” reference in any e-mail we send you, or follow the directions here: <http://www.sigmaphoto.com/newsletter-retrieve-updatelink>.   
+##### 12\. UNSUBSCRIBE / CONTACT US
+
+We want to communicate with you only if you want to hear from us. If you prefer not to receive information from Sigma or would like to update or change your personal information or preferences, follow the instructions below. However, Sigma may send you service-related announcements, and transactional e-mail such as confirmations and receipts, from time to time through the general operation of the Site or by e-mail. If you do not want to receive any e-mail from us in the future, click the “unsubscribe” reference in any e-mail we send you, or follow the directions here: [http://www.sigmaphoto.com/newsletter-retrieve-updatelink](http://www.sigmaphoto.com/).  
 If you wish to review the contact information we have on file for you, correct your contact information, provide a change of address, or inform us how you wish your contact information to be used, please contact our staff. You may contact us by mail, telephone, or e-mail, as follows:
 
-Sigma Corporation of America  
-15 Fleetwood Court  
-Ronkonkoma, NY 11779  
-Phone: (631) 585-1144  
+Sigma Corporation of America   
+15 Fleetwood Court   
+Ronkonkoma, NY 11779   
+Phone: (631) 585-1144   
 E-mail: [info@sigmaphoto.com](mailto:info@sigmaphoto.com)
