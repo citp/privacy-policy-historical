@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animeflavor.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314230538id_/http%3A//www.animeflavor.com/node/16640) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animeflavor.com privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105094740id_/http%3A//animeflavor.com/node/16640) for the most accurate reproduction.*
 
 # Privacy Policy | Animeflavor.com
 
