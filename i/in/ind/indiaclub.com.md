@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiaclub.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618015942id_/http%3A//www.indiaclub.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiaclub.com privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105085750id_/http%3A//www.indiaclub.com/info/privacy) for the most accurate reproduction.*
 
 # The India Club, Inc.: Help > Privacy, Security & Accessibility
 
