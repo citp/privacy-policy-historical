@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hesaa.org privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620231759id_/http%3A//www.hesaa.org/Documents/PrivacyNotice.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hesaa.org privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105150529id_/http%3A//www.hesaa.org/Documents/PrivacyNotice.pdf) for the most accurate reproduction.*
 
 # FACTS
 
