@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the lyricshot.net privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119230610id_/http%3A//www.mangalyrics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyricshot.net privacy policy that was archived on 2015-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151106131430id_/http%3A//www.lyricshot.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MangaLyrics
+# Privacy Policy | LyricsHot
 
-Privacy has become a major concern on the Internet. mangalyrics.com knows that you care how information about you is used and shared. This privacy statement describes how mangalyrics.com deals with your information. By visiting mangalyrics.com, you are accepting the practices described in this privacy statement.
+Privacy has become a major concern on the Internet. lyricshot.net knows that you care how information about you is used and shared. This privacy statement describes how lyricshot.net deals with your information. By visiting lyricshot.net, you are accepting the practices described in this privacy statement.
 
 Personal Information
 
-mangalyrics.com does not require you to disclose personal information anywhere on the site. However, mangalyrics.com offers additional features which require you to fill out forms requiring your personal information. We ask for your name, email address, city, country and birth date. The email address is used to send you a registration confirmation including activation link to active your account. The other personal details are used for display on your profile. mangalyrics.com makes chat rooms and forums available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. Your IP address is used to gather broad demographic information and to track your general visiting patterns. Your IP address is also used to help diagnose technical problems. mangalyrics.com does not sell, rent, or trade your personal information with any third parties.
+lyricshot.net does not require you to disclose personal information anywhere on the site. However, lyricshot.net offers additional features which require you to fill out forms requiring your personal information. We ask for your name, email address, city, country and birth date. The email address is used to send you a registration confirmation including activation link to active your account. The other personal details are used for display on your profile. lyricshot.net makes chat rooms and forums available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. Your IP address is used to gather broad demographic information and to track your general visiting patterns. Your IP address is also used to help diagnose technical problems. lyricshot.net does not sell, rent, or trade your personal information with any third parties.
 
 Cookies
 
-Cookies are small text files that are used by many sites to store or transfer information between the main site and the computer you use to access the site. These cookies are stored in a special folder in your temporary internet files directory. mangalyrics.com uses cookies in parts of the website. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
+Cookies are small text files that are used by many sites to store or transfer information between the main site and the computer you use to access the site. These cookies are stored in a special folder in your temporary internet files directory. lyricshot.net uses cookies in parts of the website. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
 
 Advertisers
 
