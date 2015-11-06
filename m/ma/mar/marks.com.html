@@ -1,9 +1,13 @@
-<!--The following is the downloaded HTML source of the marks.com privacy policy that was archived on 2015-04-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150413012210id_/http%3A//www.marks.com/shop/en/marks-marksdefaultsalescatalog/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the marks.com privacy policy that was archived on 2015-11-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151106063919id_/http%3A//www.marks.com/shop/en/marks/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xml:lang="en" class="dj_webkit dj_chrome dj_contentbox"><head>
 
-	<title>Mark's - Smart Clothes, Everyday Living</title>
+
+				<title>Privacy Policy | Mark's.com</title>
+			
+		
+	
 	
 	<meta http-equiv="X-UA-Compatible" content="IE=8">
 	<link rel="stylesheet" href="/wcsstore/MarksStorefrontAssetStore/css/marks_compare.css" type="text/css">
@@ -38,10 +42,7 @@ var subsFulfillmentFrequencyAttrName = "";
 var subsPaymentFrequencyAttrName = "";
 var subsTimePeriodAttrName = "";
 
-//Summary: Returns the absolute URL to use for prefixing any Ajax URL call.
-//Description: Dojo does not handle the case where the parameters in the URL are delimeted by the "/" forward slash. Therefore, in order to
-//             workaround the issue, all AJAX requests must be done using absolute URLs rather than relative.
-//Returns: The absolute URL to use for prefixing any Ajax URL call.
+
 function getAbsoluteURL()
 {
 	if (absoluteURL != "") {
@@ -64,16 +65,12 @@ function getAbsoluteURL()
 	
 	return absoluteURL;
 }
-//Summary: Returns the path pointing to the shared image directory.
-//Description: In order to get the image directory path in any javascript file, this function can be used.
-//Returns: The path to reference images.
+
 function getImageDirectoryPath()
 {
 	return imageDirectoryPath;
 }
-//Summary: Returns the path pointing to the directory containing color-dependant image files.
-//Description: In order to get the directory containing color-dependant image files in any javascript file, this function can be used.
-//Returns: The path to reference color-dependant image files.
+
 function getStyleDirectoryPath()
 {
 	return styleDirectoryPath;
@@ -101,7 +98,7 @@ function getStyleDirectoryPath()
 		}
 		else
 		dojo.byId('SimpleSearchForm_SearchTerm').value=searchText;
-		//adding calss active
+		
 		var url=dojo.doc.URL;
 		for(var i=1;i<=4;++i){
 		try{dojo.removeClass('WC_HeaderNavTree_links_3_'+i,'active');}
@@ -110,10 +107,11 @@ function getStyleDirectoryPath()
 		for(var i=1;i<=4;++i){
 		var link= dojo.byId('WC_HeaderNavTree_links_3_'+i);
 		if(link !=null &&  typeof link != 'undefined'){
-		var term =link.href.substr(link.href.lastIndexOf("/"));		
-		var term1= ("marksdefaultsalescatalog").concat(term);		
+		var term =link.href.substr(link.href.lastIndexOf("/"));	
+			
+		
 		dojo.removeClass('WC_HeaderNavTree_links_3_'+i,'active')
-		if(url.indexOf(term1)>0){
+		if(url.indexOf(term)>0){
 		dojo.addClass('WC_HeaderNavTree_links_3_'+i,'active')
 		break;
 		}
@@ -159,6 +157,58 @@ function getStyleDirectoryPath()
 	
 </script>
 <script type="text/javascript">
+
+var isMobile = {
+    Android: function() {
+        return navigator.userAgent.match(/Android/i);
+    },
+    BlackBerry: function() {
+        return navigator.userAgent.match(/BlackBerry/i) || navigator.userAgent.match(/BB10; Touch/);
+    },
+    iOS: function() {
+        return navigator.userAgent.match(/iPhone|iPad|iPod/i);
+    },
+    Opera: function() {
+        return navigator.userAgent.match(/Opera Mini/i);
+    },
+    Windows: function() {
+        return navigator.userAgent.match(/IEMobile/i);
+    },
+    any: function() {
+        return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Opera() || isMobile.Windows());
+    }
+};
+
+function setMobileDeviceCookie(value) {
+	document.cookie = "WC_MOBILEDEVICEID=" + value + ";path=/";
+}
+function enableMobileSiteLI() {
+	
+	var ul = document.getElementById("headerleftLink");
+	var lastli=ul.children[ul.children.length -1];
+	lastli.className='';
+	var li = document.createElement("li");
+	var ahyper = document.createElement("a");
+	ahyper.setAttribute("href", "http://www.marks.com/shop/en/marks");
+	ahyper.setAttribute("onclick", "javascript: setMobileDeviceCookie('-11');")
+	ahyper.appendChild(document.createTextNode("Mobile Site"));
+	var children = ul.children.length + 1
+	li.setAttribute("class", "last")
+	li.appendChild(ahyper);
+	ul.appendChild(li);
+	
+}
+function doesMobileDeviceCookieExist() {
+	
+	if(document.cookie.indexOf('WC_MOBILEDEVICEID') ==-11 || document.cookie.indexOf('WC_MOBILEDEVICEID')==-1) { 
+	  setMobileDeviceCookie('0');
+	}
+}
+if( isMobile.any() ){
+	window.onload=doesMobileDeviceCookieExist;
+}
+</script>
+<script type="text/javascript">
 	var wishabi_goal_id = '2';
 	var wishabi_goal_value= '1';
 	
@@ -168,9 +218,9 @@ function getStyleDirectoryPath()
 	}
 	
 	window.___wishabi_attribution = {
-	merchant_id: '1996',         /* -- This is Mark's merchant ID -- */
-	goal_id: wishabi_goal_id,                /* -- This is the goal ID -- */
-	goal_value: wishabi_goal_value          /* -- Can be the total basket size of the e-com transaction or set to '1' -- */
+	merchant_id: '1996',         
+	goal_id: wishabi_goal_id,                
+	goal_value: wishabi_goal_value          
 	};
 	(function() {
 		var ns = document.createElement('script');
@@ -197,12 +247,20 @@ function getStyleDirectoryPath()
 
 <div id="header_outer">
 	<div id="dock"> 
-		<ul class="left" style="display: block;">
-      		<li class="first"><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/store-locator" onclick="javascript:linkCode(this,'Mark_Header_StoreLocator');">store locator</a></li>
-      		<li class="last"><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/Page?page=Flyer" onclick="javascript:linkCode(this,'Mark_Header_LatestFlyer');">
+	
+		<ul id="headerleftLink" class="left" style="display: block;">
+      		<li class="first"><a href="http://www.marks.com/shop/en/marks/store-locator" onclick="javascript:linkCode(this,'Mark_Header_StoreLocator');">store locator</a></li>
+      		<li class="last"><a href="http://www.marks.com/shop/en/marks/Page?page=Flyer" onclick="javascript:linkCode(this,'Mark_Header_LatestFlyer');">
                      latest flyer</a></li>
+            
+           
+            
 		</ul>
- 
+ <script type="text/javascript">
+ if( isMobile.any() ){
+	enableMobileSiteLI();
+}
+ </script>
 	   
 			<span id="hideFBConnectLink" style="display:none;">
 			<!-- BEGIN CachedHeaderDisplayFacebook.jspf -->
@@ -236,19 +294,19 @@ function getStyleDirectoryPath()
 
 	      
 	   	<ul class="right" style="display: block;">		
-			<li class="first"><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/email-signup" onclick="javascript:linkCode(this,'Mark_Header_EmailSignup');">email sign up</a></li>
-			<li><a href="https://www.marks.com/shop/en/marks-marksdefaultsalescatalog/giftcard-balance" onclick="javascript:linkCode(this,'Mark_Header_GiftCardBalance');">gift card balance</a></li>
-			<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/Contact" onclick="javascript:linkCode(this,'Mark_Header_ContactUs');">contact us</a></li>
-			<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/advanced-search" onclick="javascript:linkCode(this,'Mark_Header_AdvancedSearch');">advanced search</a></li>
+			<li class="first"><a href="http://www.marks.com/shop/en/marks/email-signup" onclick="javascript:linkCode(this,'Mark_Header_EmailSignup');">email sign up</a></li>
+			<li><a href="https://www.marks.com/shop/en/marks/giftcard-balance" onclick="javascript:linkCode(this,'Mark_Header_GiftCardBalance');">gift card balance</a></li>
+			<li><a href="http://www.marks.com/shop/en/marks/Contact" onclick="javascript:linkCode(this,'Mark_Header_ContactUs');">contact us</a></li>
+			<li><a href="http://www.marks.com/shop/en/marks/advanced-search" onclick="javascript:linkCode(this,'Mark_Header_AdvancedSearch');">advanced search</a></li>
 			
-						<li class="last"><a href="https://www.marks.com/shop/en/marks-marksdefaultsalescatalog/signin" class="h_tnav_but" id="headerLogin" onclick="javascript:linkCode(this,'Mark_Header_SignIn');">sign in</a></li>
+						<li class="last"><a href="https://www.marks.com/shop/en/marks/signin" class="h_tnav_but" id="headerLogin" onclick="javascript:linkCode(this,'Mark_Header_SignIn');">sign in</a></li>
 				
 		</ul>
 	</div><!-- end dock div -->
 	<div id="header">
 		<div id="header_logo">
 			                      
-				<a class="markslogo" href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog" id="WC_CachedHeaderDisplay_Link_2" onclick="javascript:linkCode(this,'Mark_Header_LogoClick');">
+				<a class="markslogo" href="http://www.marks.com/shop/en/marks" id="WC_CachedHeaderDisplay_Link_2" onclick="javascript:linkCode(this,'Mark_Header_LogoClick');">
                                  </a>
 			
 		</div>
@@ -262,7 +320,7 @@ function getStyleDirectoryPath()
 																
 								<li id="mega_menu_1" class="first">  
 									<!-- BEGIN HeaderNavTree.jspf -->
-												<a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/mens" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s&quot;);">
+												<a href="http://www.marks.com/shop/en/marks/mens" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s&quot;);">
                                                                                                    <span>Men's
                                                                                                    </span>
                                                                                                 </a>
@@ -277,7 +335,7 @@ function getStyleDirectoryPath()
 																		
 																		<ul>
 																																						
-																			<li class="last first"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Men s_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/mens/mens-new-arrivals" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
+																			<li class="last first"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Men s_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks/mens/new-arrival" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
 																		</ul>
 																	</li>
 																
@@ -286,31 +344,31 @@ function getStyleDirectoryPath()
 																		
 																		<ul>
 																			
-																				<li class="first"><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/mens/shirts/dress-shirts" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s_Dress Shirts&quot;);">
+																				<li class="first"><a href="http://www.marks.com/shop/en/marks/mens/shirts/dress-shirts" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s_Dress Shirts&quot;);">
                                                                                      Dress Shirts</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/mens/shirts/casual-shirts" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s_Casual Shirts&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/mens/shirts/casual-shirts" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s_Casual Shirts&quot;);">
                                                                                      Casual Shirts</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/mens/shirts/hoodies" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s_Hoodies&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/mens/shirts/hoodies" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s_Hoodies&quot;);">
                                                                                      Hoodies</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/mens/shirts/mens-sweaters" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s_Sweaters&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/mens/shirts/mens-sweaters" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s_Sweaters&quot;);">
                                                                                      Sweaters</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/mens/shirts/mens-polos" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s_Polos&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/mens/shirts/mens-polos" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s_Polos&quot;);">
                                                                                      Polos</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/mens/shirts/mens-long-sleeve-tees" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s_Long Sleeve Tees&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/mens/shirts/mens-long-sleeve-tees" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s_Long Sleeve Tees&quot;);">
                                                                                      Long Sleeve Tees</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/mens/shirts/mens-short-sleeve-tees" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s_Short Sleeve Tees&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/mens/shirts/mens-short-sleeve-tees" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s_Short Sleeve Tees&quot;);">
                                                                                      Short Sleeve Tees</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/mens/shirts/mens-sleeveless-tops" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s_Sleeveless Tops&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/mens/shirts/mens-sleeveless-tops" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s_Sleeveless Tops&quot;);">
                                                                                      Sleeveless Tops</a></li>	                                                                                
 																																						
-																			<li class="last"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Men s_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/mens/shirts" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
+																			<li class="last"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Men s_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks/mens/shirts" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
 																		</ul>
 																	</li>
 																
@@ -319,19 +377,19 @@ function getStyleDirectoryPath()
 																		
 																		<ul>
 																			
-																				<li class="first"><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/mens/pants/casual-and-dress-pants" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s_Dress Pants&quot;);">
+																				<li class="first"><a href="http://www.marks.com/shop/en/marks/mens/pants/casual-and-dress-pants" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s_Dress Pants&quot;);">
                                                                                      Dress Pants</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/mens/pants/jeans" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s_Jeans&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/mens/pants/jeans" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s_Jeans&quot;);">
                                                                                      Jeans</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/mens/pants/mens-shorts" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s_Shorts&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/mens/pants/mens-shorts" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s_Shorts&quot;);">
                                                                                      Shorts</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/mens/pants/mens-casual-pants" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s_Casual Pants&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/mens/pants/mens-casual-pants" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s_Casual Pants&quot;);">
                                                                                      Casual Pants</a></li>	                                                                                
 																																						
-																			<li class="last"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Men s_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/mens/pants" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
+																			<li class="last"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Men s_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks/mens/pants" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
 																		</ul>
 																	</li>
 																
@@ -340,10 +398,10 @@ function getStyleDirectoryPath()
 																		
 																		<ul>
 																			
-																				<li class="first"><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/mens/outerwear/jackets-and-vests" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s_Jackets and Vests&quot;);">
+																				<li class="first"><a href="http://www.marks.com/shop/en/marks/mens/outerwear/jackets-and-vests" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s_Jackets and Vests&quot;);">
                                                                                      Jackets and Vests</a></li>	                                                                                
 																																						
-																			<li class="last"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Men s_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/mens/outerwear" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
+																			<li class="last"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Men s_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks/mens/outerwear" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
 																		</ul>
 																	</li>
 																
@@ -352,28 +410,28 @@ function getStyleDirectoryPath()
 																		
 																		<ul>
 																			
-																				<li class="first"><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/mens/mens-underwear/mens-socks-x" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s_Socks&quot;);">
+																				<li class="first"><a href="http://www.marks.com/shop/en/marks/mens/mens-underwear/mens-socks-x" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s_Socks&quot;);">
                                                                                      Socks</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/mens/mens-underwear/mens-undershirts" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s_Undershirts&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/mens/mens-underwear/mens-undershirts" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s_Undershirts&quot;);">
                                                                                      Undershirts</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/mens/mens-underwear/mens-briefs" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s_Briefs&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/mens/mens-underwear/mens-briefs" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s_Briefs&quot;);">
                                                                                      Briefs</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/mens/mens-underwear/mens-trunk-boxers" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s_Trunk Boxers&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/mens/mens-underwear/mens-trunk-boxers" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s_Trunk Boxers&quot;);">
                                                                                      Trunk Boxers</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/mens/mens-underwear/mens-loose-boxers" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s_Loose Boxers&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/mens/mens-underwear/mens-loose-boxers" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s_Loose Boxers&quot;);">
                                                                                      Loose Boxers</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/mens/mens-underwear/fitted-boxers" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s_Fitted Boxers&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/mens/mens-underwear/fitted-boxers" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s_Fitted Boxers&quot;);">
                                                                                      Fitted Boxers</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/mens/mens-underwear/thermal-underwear" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s_Thermal Underwear&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/mens/mens-underwear/thermal-underwear" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s_Thermal Underwear&quot;);">
                                                                                      Thermal Underwear</a></li>	                                                                                
 																																						
-																			<li class="last"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Men s_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/mens/mens-underwear" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
+																			<li class="last"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Men s_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks/mens/mens-underwear" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
 																		</ul>
 																	</li>
 																
@@ -382,37 +440,37 @@ function getStyleDirectoryPath()
 																		
 																		<ul>
 																			
-																				<li class="first"><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/mens/mens-accessories/mens-winter-accessories" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s_Headwear &amp; Gloves&quot;);">
+																				<li class="first"><a href="http://www.marks.com/shop/en/marks/mens/mens-accessories/mens-winter-accessories" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s_Headwear &amp; Gloves&quot;);">
                                                                                      Headwear &amp; Gloves</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/mens/mens-accessories/mens-sleepwear" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s_Lounge &amp; Sleepwear&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/mens/mens-accessories/mens-sleepwear" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s_Lounge &amp; Sleepwear&quot;);">
                                                                                      Lounge &amp; Sleepwear</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/mens/mens-accessories/mens-novelty" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s_Novelty&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/mens/mens-accessories/mens-novelty" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s_Novelty&quot;);">
                                                                                      Novelty</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/mens/mens-accessories/slippers" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s_Slippers&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/mens/mens-accessories/slippers" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s_Slippers&quot;);">
                                                                                      Slippers</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/mens/mens-accessories/belts" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s_Belts &amp; Suspenders&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/mens/mens-accessories/belts" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s_Belts &amp; Suspenders&quot;);">
                                                                                      Belts &amp; Suspenders</a></li>	                                                                                
 																																						
-																			<li class="last"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Men s_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/mens/mens-accessories" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
+																			<li class="last"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Men s_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks/mens/mens-accessories" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
 																		</ul>
 																	</li>
 																
 																	<li>
-																		<h3>Men's Activewear</h3>	
+																		<h3>Men's Athleisure</h3>	
 																		
 																		<ul>
 																			
-																				<li class="first"><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/mens/mens-activewear/mens-active-tops" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s_Active Tops&quot;);">
+																				<li class="first"><a href="http://www.marks.com/shop/en/marks/mens/mens-activewear/mens-active-tops" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s_Active Tops&quot;);">
                                                                                      Active Tops</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/mens/mens-activewear/mens-active-bottoms" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s_Active Bottoms&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/mens/mens-activewear/mens-active-bottoms" id="WC_HeaderNavTree_links_3_1" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Men s_Active Bottoms&quot;);">
                                                                                      Active Bottoms</a></li>	                                                                                
 																																						
-																			<li class="last"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Men s_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/mens/mens-activewear" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
+																			<li class="last"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Men s_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks/mens/mens-activewear" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
 																		</ul>
 																	</li>
 																
@@ -421,7 +479,7 @@ function getStyleDirectoryPath()
 																		
 																		<ul>
 																																						
-																			<li class="last first"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Men s_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/mens/gift-cards" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
+																			<li class="last first"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Men s_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks/mens/gift-cards" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
 																		</ul>
 																	</li>
 																
@@ -455,8 +513,8 @@ function getStyleDirectoryPath()
 
 					<div class="ad_product" id="ad_MegaNavEspotImageLeft1">
 				
-					 <a href="ClickInfo?evtype=CpgnClick&amp;mpe_id=12656&amp;intv_id=37051&amp;storeId=10151&amp;catalogId=10051&amp;langId=-1&amp;URL=en%2fmarks%2flookbooks"> 
-                   	 <img src="https://canadiantire.scene7.com/is/image/CanadianTire/week13-2015_meganav_dh3mens?fit=crop&amp;wid=350&amp;hei=180&amp;qlt=100">
+					 <a href="ClickInfo?evtype=CpgnClick&amp;mpe_id=12656&amp;intv_id=64065&amp;storeId=10151&amp;catalogId=10051&amp;langId=-1&amp;URL=SearchDisplay%3fsearchType%3d1001%26filterTerm%3dWorkwear%26showResultsPage%3dtrue%26sType%3dSimpleSearch%26manufacturer%3dWindRiver%26resultCatEntryType%3d2%26catalogId%3d10051%26pageView%3dimage%26searchTerm%3dOuterwear%26storeId%3d10151%26facet%3dads_f2_ntk_cs%25253AOn%252BSale"> 
+                   	 <img src="https://canadiantire.scene7.com/is/image/CanadianTire/15-Wk44_Owned_AllOuterwear_MEGA_NAV_350x180px_Final1?fit=crop&amp;wid=350&amp;hei=180">
                     </a>	
 					
 					</div>
@@ -473,8 +531,8 @@ function getStyleDirectoryPath()
 
 					<div class="ad_product" id="ad_MegaNavEspotImageRight1">
 				
-					 <a href="ClickInfo?evtype=CpgnClick&amp;mpe_id=13151&amp;intv_id=36055&amp;storeId=10151&amp;catalogId=10051&amp;langId=-1&amp;URL=SearchDisplay%3fsearchType%3d1001%26showResultsPage%3dtrue%26sType%3dSimpleSearch%26resultCatEntryType%3d2%26catalogId%3d10051%26pageView%3dimage%26searchTerm%3dNever%2bIron%26categoryId%3d17011%26storeId%3d10151"> 
-                   	 <img src="https://canadiantire.scene7.com/is/image/CanadianTire/week13-2015_ni_pants?fit=crop&amp;wid=350&amp;hei=180&amp;qlt=100">
+					 <a href="ClickInfo?evtype=CpgnClick&amp;mpe_id=13151&amp;intv_id=64057&amp;storeId=10151&amp;catalogId=10051&amp;langId=-1&amp;URL=SearchDisplay%3ferrorViewName%3dProductDisplayErrorView%26searchType%3d1002%26filterTerm%3dWorkwear%26showResultsPage%3dtrue%26sType%3dAdvancedSearch%26resultCatEntryType%3d2%26catalogId%3d10051%26pageView%3dimage%26searchTerm%3dHoodie%2bT-Max%26categoryId%3d17001%26storeId%3d10151"> 
+                   	 <img src="https://canadiantire.scene7.com/is/image/CanadianTire/15-Wk44_MensHoodiesWTmaxInsul_MEGA_NAV_350x180px?fit=crop&amp;wid=350&amp;hei=180">
                     </a>	
 					
 					</div>
@@ -494,7 +552,7 @@ function getStyleDirectoryPath()
 																
 								<li id="mega_menu_2">  
 									<!-- BEGIN HeaderNavTree.jspf -->
-												<a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/ladies" id="WC_HeaderNavTree_links_3_2" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Women s&quot;);">
+												<a href="http://www.marks.com/shop/en/marks/ladies" id="WC_HeaderNavTree_links_3_2" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Women s&quot;);">
                                                                                                    <span>Women's
                                                                                                    </span>
                                                                                                 </a>
@@ -509,7 +567,7 @@ function getStyleDirectoryPath()
 																		
 																		<ul>
 																																						
-																			<li class="last first"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Women s_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/ladies/womens-new-arrivals" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
+																			<li class="last first"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Women s_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks/ladies/new-arrivals" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
 																		</ul>
 																	</li>
 																
@@ -518,25 +576,25 @@ function getStyleDirectoryPath()
 																		
 																		<ul>
 																			
-																				<li class="first"><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/ladies/tops/ladies-t-shirts" id="WC_HeaderNavTree_links_3_2" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Women s_Tees&quot;);">
+																				<li class="first"><a href="http://www.marks.com/shop/en/marks/ladies/tops/ladies-t-shirts" id="WC_HeaderNavTree_links_3_2" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Women s_Tees&quot;);">
                                                                                      Tees</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/ladies/tops/ladies-sweaters" id="WC_HeaderNavTree_links_3_2" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Women s_Sweaters&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/ladies/tops/ladies-sweaters" id="WC_HeaderNavTree_links_3_2" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Women s_Sweaters&quot;);">
                                                                                      Sweaters</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/ladies/tops/ladies-shirts" id="WC_HeaderNavTree_links_3_2" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Women s_Casual Shirts&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/ladies/tops/ladies-shirts" id="WC_HeaderNavTree_links_3_2" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Women s_Casual Shirts&quot;);">
                                                                                      Casual Shirts</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/ladies/tops/ladies-tank-tops" id="WC_HeaderNavTree_links_3_2" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Women s_Tank Tops&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/ladies/tops/ladies-tank-tops" id="WC_HeaderNavTree_links_3_2" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Women s_Tank Tops&quot;);">
                                                                                      Tank Tops</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/ladies/tops/ladies-hoodies" id="WC_HeaderNavTree_links_3_2" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Women s_Hoodies&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/ladies/tops/ladies-hoodies" id="WC_HeaderNavTree_links_3_2" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Women s_Hoodies&quot;);">
                                                                                      Hoodies</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/ladies/tops/womens-dress-shirts" id="WC_HeaderNavTree_links_3_2" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Women s_Dress Shirts&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/ladies/tops/womens-dress-shirts" id="WC_HeaderNavTree_links_3_2" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Women s_Dress Shirts&quot;);">
                                                                                      Dress Shirts</a></li>	                                                                                
 																																						
-																			<li class="last"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Women s_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/ladies/tops" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
+																			<li class="last"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Women s_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks/ladies/tops" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
 																		</ul>
 																	</li>
 																
@@ -545,31 +603,16 @@ function getStyleDirectoryPath()
 																		
 																		<ul>
 																			
-																				<li class="first"><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/ladies/bottoms/ladies-denim" id="WC_HeaderNavTree_links_3_2" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Women s_Jeans&quot;);">
+																				<li class="first"><a href="http://www.marks.com/shop/en/marks/ladies/bottoms/ladies-denim" id="WC_HeaderNavTree_links_3_2" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Women s_Jeans&quot;);">
                                                                                      Jeans</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/ladies/bottoms/ladies-dress-and-casual-pants" id="WC_HeaderNavTree_links_3_2" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Women s_Dress Pants&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/ladies/bottoms/ladies-dress-and-casual-pants" id="WC_HeaderNavTree_links_3_2" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Women s_Dress Pants&quot;);">
                                                                                      Dress Pants</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/ladies/bottoms/womens-capris-and-shorts" id="WC_HeaderNavTree_links_3_2" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Women s_Capris and Shorts&quot;);">
-                                                                                     Capris and Shorts</a></li>	                                                                                
-																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/ladies/bottoms/womens-casual-pants" id="WC_HeaderNavTree_links_3_2" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Women s_Casual Pants&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/ladies/bottoms/womens-casual-pants" id="WC_HeaderNavTree_links_3_2" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Women s_Casual Pants&quot;);">
                                                                                      Casual Pants</a></li>	                                                                                
 																																						
-																			<li class="last"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Women s_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/ladies/bottoms" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
-																		</ul>
-																	</li>
-																
-																	<li>
-																		<h3>Women's Outerwear</h3>	
-																		
-																		<ul>
-																			
-																				<li class="first"><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/ladies/ladies-outerwear/ladies-jackets-and-vests" id="WC_HeaderNavTree_links_3_2" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Women s_Jackets and Vests&quot;);">
-                                                                                     Jackets and Vests</a></li>	                                                                                
-																																						
-																			<li class="last"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Women s_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/ladies/ladies-outerwear" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
+																			<li class="last"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Women s_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks/ladies/bottoms" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
 																		</ul>
 																	</li>
 																
@@ -578,28 +621,37 @@ function getStyleDirectoryPath()
 																		
 																		<ul>
 																			
-																				<li class="first"><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/ladies/ladies-underwear/bikini" id="WC_HeaderNavTree_links_3_2" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Women s_Bikini&quot;);">
+																				<li class="first"><a href="http://www.marks.com/shop/en/marks/ladies/ladies-underwear/bikini" id="WC_HeaderNavTree_links_3_2" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Women s_Bikini&quot;);">
                                                                                      Bikini</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/ladies/ladies-underwear/hi-cut" id="WC_HeaderNavTree_links_3_2" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Women s_Hi Cut/Thong&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/ladies/ladies-underwear/hi-cut" id="WC_HeaderNavTree_links_3_2" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Women s_Hi Cut/Thong&quot;);">
                                                                                      Hi Cut/Thong</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/ladies/ladies-underwear/hip-hugger" id="WC_HeaderNavTree_links_3_2" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Women s_Hip Hugger/Boy Shorts&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/ladies/ladies-underwear/hip-hugger" id="WC_HeaderNavTree_links_3_2" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Women s_Hip Hugger/Boy Shorts&quot;);">
                                                                                      Hip Hugger/Boy Shorts</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/ladies/ladies-underwear/brief" id="WC_HeaderNavTree_links_3_2" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Women s_Brief&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/ladies/ladies-underwear/brief" id="WC_HeaderNavTree_links_3_2" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Women s_Brief&quot;);">
                                                                                      Brief</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/ladies/ladies-underwear/tanks-and-camisoles" id="WC_HeaderNavTree_links_3_2" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Women s_Camisoles and Shapewear&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/ladies/ladies-underwear/tanks-and-camisoles" id="WC_HeaderNavTree_links_3_2" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Women s_Camisoles and Shapewear&quot;);">
                                                                                      Camisoles and Shapewear</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/ladies/ladies-underwear/womens-thermal-underwear" id="WC_HeaderNavTree_links_3_2" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Women s_Thermal Underwear&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/ladies/ladies-underwear/womens-thermal-underwear" id="WC_HeaderNavTree_links_3_2" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Women s_Thermal Underwear&quot;);">
                                                                                      Thermal Underwear</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/ladies/ladies-underwear/womens-socks---hosiery" id="WC_HeaderNavTree_links_3_2" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Women s_Socks &amp; Hosiery&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/ladies/ladies-underwear/womens-socks---hosiery" id="WC_HeaderNavTree_links_3_2" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Women s_Socks &amp; Hosiery&quot;);">
                                                                                      Socks &amp; Hosiery</a></li>	                                                                                
 																																						
-																			<li class="last"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Women s_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/ladies/ladies-underwear" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
+																			<li class="last"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Women s_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks/ladies/ladies-underwear" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
+																		</ul>
+																	</li>
+																
+																	<li>
+																		<h3>Women's Outerwear</h3>	
+																		
+																		<ul>
+																																						
+																			<li class="last first"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Women s_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks/ladies/ladies-outerwear" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
 																		</ul>
 																	</li>
 																
@@ -608,7 +660,7 @@ function getStyleDirectoryPath()
 																		
 																		<ul>
 																																						
-																			<li class="last first"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Women s_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/ladies/womens-dresses-and-skirts" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
+																			<li class="last first"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Women s_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks/ladies/womens-dresses-and-skirts" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
 																		</ul>
 																	</li>
 																
@@ -617,22 +669,40 @@ function getStyleDirectoryPath()
 																		
 																		<ul>
 																			
-																				<li class="first"><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/ladies/ladies-accessories/ladies-handbags" id="WC_HeaderNavTree_links_3_2" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Women s_Handbags &amp; Wallets&quot;);">
-                                                                                     Handbags &amp; Wallets</a></li>	                                                                                
+																				<li class="first"><a href="http://www.marks.com/shop/SearchDisplay?sType=SimpleSearch&amp;urlRequestType=Base&amp;catalogId=10051&amp;categoryId=123501&amp;pageView=image&amp;showResultsPage=true&amp;beginIndex=0&amp;resultCatEntryType=&amp;langId=-1&amp;top_category=17002&amp;parent_category_rn=17028&amp;storeId=10151" id="WC_HeaderNavTree_links_3_2" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Women s_Belts&quot;);">
+                                                                                     Belts</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/ladies/ladies-accessories/winter-accessories" id="WC_HeaderNavTree_links_3_2" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Women s_Hats, Scarves &amp; Gloves&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/ladies/ladies-accessories/womens-fashion-accessories" id="WC_HeaderNavTree_links_3_2" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Women s_Jewelry&quot;);">
+                                                                                     Jewelry</a></li>	                                                                                
+																			
+																				<li><a href="http://www.marks.com/shop/en/marks/ladies/ladies-accessories/winter-accessories" id="WC_HeaderNavTree_links_3_2" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Women s_Hats, Scarves &amp; Gloves&quot;);">
                                                                                      Hats, Scarves &amp; Gloves</a></li>	                                                                                
+																			
+																				<li><a href="http://www.marks.com/shop/en/marks/ladies/ladies-accessories/ladies-handbags" id="WC_HeaderNavTree_links_3_2" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Women s_Handbags &amp; Wallets&quot;);">
+                                                                                     Handbags &amp; Wallets</a></li>	                                                                                
 																																						
-																			<li class="last"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Women s_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/ladies/ladies-accessories" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
+																			<li class="last"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Women s_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks/ladies/ladies-accessories" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
 																		</ul>
 																	</li>
 																
 																	<li>
-																		<h3>Women's Activewear</h3>	
+																		<h3>Women's Athleisure</h3>	
 																		
 																		<ul>
 																																						
-																			<li class="last first"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Women s_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/ladies/ladies-yoga-wear" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
+																			<li class="last first"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Women s_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks/ladies/ladies-yoga-wear" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
+																		</ul>
+																	</li>
+																
+																	<li>
+																		<h3>Women's Sleepwear</h3>	
+																		
+																		<ul>
+																			
+																				<li class="first"><a href="http://www.marks.com/shop/en/marks/ladies/womens-sleepwear/sleepwear" id="WC_HeaderNavTree_links_3_2" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Women s_Sleepwear&quot;);">
+                                                                                     Sleepwear</a></li>	                                                                                
+																																						
+																			<li class="last"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Women s_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks/ladies/womens-sleepwear" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
 																		</ul>
 																	</li>
 																
@@ -641,7 +711,7 @@ function getStyleDirectoryPath()
 																		
 																		<ul>
 																																						
-																			<li class="last first"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Women s_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/ladies/womens-gift-cards" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
+																			<li class="last first"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Women s_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks/ladies/womens-gift-cards" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
 																		</ul>
 																	</li>
 																
@@ -673,8 +743,8 @@ function getStyleDirectoryPath()
 
 					<div class="ad_product" id="ad_MegaNavEspotImageLeft2">
 				
-					 <a href="ClickInfo?evtype=CpgnClick&amp;mpe_id=12657&amp;intv_id=30551&amp;storeId=10151&amp;catalogId=10051&amp;langId=-1&amp;URL=en%2fmarks-marksdefaultsalescatalog%2fShippingPolicy"> 
-                   	 <img src="https://canadiantire.scene7.com/is/image/CanadianTire/OnlinePolicy_MegaNav_350x180_v1?fit=crop&amp;wid=350&amp;hei=180&amp;qlt=100">
+					 <a href="ClickInfo?evtype=CpgnClick&amp;mpe_id=12657&amp;intv_id=64058&amp;storeId=10151&amp;catalogId=10051&amp;langId=-1&amp;URL=SearchDisplay%3ferrorViewName%3dProductDisplayErrorView%26searchType%3d1001%26filterTerm%3dWindRiver%2bBuffalo%2bSilver%2bLevis%26showResultsPage%3dtrue%26sType%3dSimpleSearch%26resultCatEntryType%3d2%26catalogId%3d10051%26pageView%3dimage%26searchTerm%3dJeans%26categoryId%3d17010%26storeId%3d10151"> 
+                   	 <img src="https://canadiantire.scene7.com/is/image/CanadianTire/15-Wk44_Owned_AllWomansJeans_MEGA_NAV_350x180px_v1?fit=crop&amp;wid=350&amp;hei=180">
                     </a>	
 					
 					</div>
@@ -691,8 +761,8 @@ function getStyleDirectoryPath()
 
 					<div class="ad_product" id="ad_MegaNavEspotImageRight2">
 				
-					 <a href="ClickInfo?evtype=CpgnClick&amp;mpe_id=13152&amp;intv_id=36552&amp;storeId=10151&amp;catalogId=10051&amp;langId=-1&amp;URL=en%2fmarks%2flookbooks"> 
-                   	 <img src="https://canadiantire.scene7.com/is/image/CanadianTire/week13-2015_meganav_dh3womens?fit=crop&amp;wid=350&amp;hei=180&amp;qlt=100">
+					 <a href="ClickInfo?evtype=CpgnClick&amp;mpe_id=13152&amp;intv_id=64059&amp;storeId=10151&amp;catalogId=10051&amp;langId=-1&amp;URL=en%2fmarks%2flookbooks%3ferrorViewName%3dProductDisplayErrorView"> 
+                   	 <img src="https://canadiantire.scene7.com/is/image/CanadianTire/Meganav_350x180?fit=crop&amp;wid=350&amp;hei=180&amp;qlt=100">
                     </a>	
 					
 					</div>
@@ -712,7 +782,7 @@ function getStyleDirectoryPath()
 																
 								<li id="mega_menu_3">  
 									<!-- BEGIN HeaderNavTree.jspf -->
-												<a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/workwear" id="WC_HeaderNavTree_links_3_3" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Workwear&quot;);">
+												<a href="http://www.marks.com/shop/en/marks/workwear" id="WC_HeaderNavTree_links_3_3" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Workwear&quot;);">
                                                                                                    <span>Workwear
                                                                                                    </span>
                                                                                                 </a>
@@ -727,22 +797,22 @@ function getStyleDirectoryPath()
 																		
 																		<ul>
 																			
-																				<li class="first"><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/workwear/workwear-outerwear/jackets-vests" id="WC_HeaderNavTree_links_3_3" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Workwear_Jackets and Vests&quot;);">
-                                                                                     Jackets and Vests</a></li>	                                                                                
-																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/workwear/workwear-outerwear/work-apparel" id="WC_HeaderNavTree_links_3_3" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Workwear_Work Shirts&quot;);">
+																				<li class="first"><a href="http://www.marks.com/shop/en/marks/workwear/workwear-outerwear/work-apparel" id="WC_HeaderNavTree_links_3_3" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Workwear_Work Shirts&quot;);">
                                                                                      Work Shirts</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/workwear/workwear-outerwear/work-pants" id="WC_HeaderNavTree_links_3_3" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Workwear_Work Pants&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/workwear/workwear-outerwear/work-pants" id="WC_HeaderNavTree_links_3_3" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Workwear_Work Pants&quot;);">
                                                                                      Work Pants</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/workwear/workwear-outerwear/overalls" id="WC_HeaderNavTree_links_3_3" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Workwear_Overalls &amp; Coveralls&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/workwear/workwear-outerwear/jackets-vests" id="WC_HeaderNavTree_links_3_3" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Workwear_Jackets and Vests&quot;);">
+                                                                                     Jackets and Vests</a></li>	                                                                                
+																			
+																				<li><a href="http://www.marks.com/shop/en/marks/workwear/workwear-outerwear/overalls" id="WC_HeaderNavTree_links_3_3" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Workwear_Overalls &amp; Coveralls&quot;);">
                                                                                      Overalls &amp; Coveralls</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/workwear/workwear-outerwear/rainwear" id="WC_HeaderNavTree_links_3_3" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Workwear_Rainwear&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/workwear/workwear-outerwear/rainwear" id="WC_HeaderNavTree_links_3_3" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Workwear_Rainwear&quot;);">
                                                                                      Rainwear</a></li>	                                                                                
 																																						
-																			<li class="last"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Workwear_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/workwear/workwear-outerwear" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
+																			<li class="last"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Workwear_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks/workwear/workwear-outerwear" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
 																		</ul>
 																	</li>
 																
@@ -751,7 +821,7 @@ function getStyleDirectoryPath()
 																		
 																		<ul>
 																			
-																				<li class="first"><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/workwear/ladies-workwear/jackets" id="WC_HeaderNavTree_links_3_3" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Workwear_Jackets&quot;);">
+																				<li class="first"><a href="http://www.marks.com/shop/en/marks/workwear/ladies-workwear/jackets" id="WC_HeaderNavTree_links_3_3" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Workwear_Jackets&quot;);">
                                                                                      Jackets</a></li>	                                                                                
 																			
 																				<li><a href="http://www.marks.com/shop/SearchDisplay?sType=SimpleSearch&amp;urlRequestType=Base&amp;catalogId=10051&amp;categoryId=78505&amp;pageView=image&amp;showResultsPage=true&amp;beginIndex=0&amp;resultCatEntryType=&amp;langId=-1&amp;top_category=17003&amp;parent_category_rn=23502&amp;storeId=10151" id="WC_HeaderNavTree_links_3_3" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Workwear_Work Pants&quot;);">
@@ -759,8 +829,11 @@ function getStyleDirectoryPath()
 																			
 																				<li><a href="http://www.marks.com/shop/SearchDisplay?sType=SimpleSearch&amp;urlRequestType=Base&amp;catalogId=10051&amp;categoryId=84001&amp;pageView=image&amp;showResultsPage=true&amp;beginIndex=0&amp;resultCatEntryType=&amp;langId=-1&amp;top_category=17003&amp;parent_category_rn=23502&amp;storeId=10151" id="WC_HeaderNavTree_links_3_3" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Workwear_Work Shirts&quot;);">
                                                                                      Work Shirts</a></li>	                                                                                
+																			
+																				<li><a href="http://www.marks.com/shop/SearchDisplay?sType=SimpleSearch&amp;urlRequestType=Base&amp;catalogId=10051&amp;categoryId=91001&amp;pageView=image&amp;showResultsPage=true&amp;beginIndex=0&amp;resultCatEntryType=&amp;langId=-1&amp;top_category=17003&amp;parent_category_rn=23502&amp;storeId=10151" id="WC_HeaderNavTree_links_3_3" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Workwear_Overalls&quot;);">
+                                                                                     Overalls</a></li>	                                                                                
 																																						
-																			<li class="last"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Workwear_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/workwear/ladies-workwear" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
+																			<li class="last"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Workwear_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks/workwear/ladies-workwear" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
 																		</ul>
 																	</li>
 																
@@ -769,13 +842,13 @@ function getStyleDirectoryPath()
 																		
 																		<ul>
 																			
-																				<li class="first"><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/workwear/healthwear/womens-scrubs" id="WC_HeaderNavTree_links_3_3" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Workwear_Women s Scrubs&quot;);">
+																				<li class="first"><a href="http://www.marks.com/shop/en/marks/workwear/healthwear/womens-scrubs" id="WC_HeaderNavTree_links_3_3" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Workwear_Women s Scrubs&quot;);">
                                                                                      Women's Scrubs</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/workwear/healthwear/mens-scrubs" id="WC_HeaderNavTree_links_3_3" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Workwear_Men s Scrubs&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/workwear/healthwear/mens-scrubs" id="WC_HeaderNavTree_links_3_3" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Workwear_Men s Scrubs&quot;);">
                                                                                      Men's Scrubs</a></li>	                                                                                
 																																						
-																			<li class="last"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Workwear_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/workwear/healthwear" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
+																			<li class="last"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Workwear_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks/workwear/healthwear" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
 																		</ul>
 																	</li>
 																
@@ -784,25 +857,25 @@ function getStyleDirectoryPath()
 																		
 																		<ul>
 																			
-																				<li class="first"><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/workwear/workwear-accessories/womens-work-gloves" id="WC_HeaderNavTree_links_3_3" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Workwear_Women s Work Gloves&quot;);">
+																				<li class="first"><a href="http://www.marks.com/shop/en/marks/workwear/workwear-accessories/womens-work-gloves" id="WC_HeaderNavTree_links_3_3" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Workwear_Women s Work Gloves&quot;);">
                                                                                      Women's Work Gloves</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/workwear/workwear-accessories/gloves" id="WC_HeaderNavTree_links_3_3" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Workwear_Men s Work Gloves&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/workwear/workwear-accessories/gloves" id="WC_HeaderNavTree_links_3_3" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Workwear_Men s Work Gloves&quot;);">
                                                                                      Men's Work Gloves</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/workwear/workwear-accessories/hard-hats" id="WC_HeaderNavTree_links_3_3" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Workwear_Hard Hats&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/workwear/workwear-accessories/hard-hats" id="WC_HeaderNavTree_links_3_3" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Workwear_Hard Hats&quot;);">
                                                                                      Hard Hats</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/workwear/workwear-accessories/facemasks---head-warmers" id="WC_HeaderNavTree_links_3_3" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Workwear_Facemasks &amp; Hoods&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/workwear/workwear-accessories/facemasks---head-warmers" id="WC_HeaderNavTree_links_3_3" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Workwear_Facemasks &amp; Hoods&quot;);">
                                                                                      Facemasks &amp; Hoods</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/workwear/workwear-accessories/safety-glasses---goggles" id="WC_HeaderNavTree_links_3_3" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Workwear_Safety Glasses &amp; Goggles&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/workwear/workwear-accessories/safety-glasses---goggles" id="WC_HeaderNavTree_links_3_3" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Workwear_Safety Glasses &amp; Goggles&quot;);">
                                                                                      Safety Glasses &amp; Goggles</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/workwear/workwear-accessories/miscellaneous" id="WC_HeaderNavTree_links_3_3" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Workwear_Miscellaneous&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/workwear/workwear-accessories/miscellaneous" id="WC_HeaderNavTree_links_3_3" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Workwear_Miscellaneous&quot;);">
                                                                                      Miscellaneous</a></li>	                                                                                
 																																						
-																			<li class="last"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Workwear_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/workwear/workwear-accessories" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
+																			<li class="last"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Workwear_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks/workwear/workwear-accessories" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
 																		</ul>
 																	</li>
 																
@@ -811,7 +884,7 @@ function getStyleDirectoryPath()
 																		
 																		<ul>
 																																						
-																			<li class="last first"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Workwear_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/workwear/hi-visibility" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
+																			<li class="last first"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Workwear_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks/workwear/hi-visibility" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
 																		</ul>
 																	</li>
 																
@@ -820,7 +893,7 @@ function getStyleDirectoryPath()
 																		
 																		<ul>
 																																						
-																			<li class="last first"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Workwear_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/workwear/fire-resistant" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
+																			<li class="last first"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Workwear_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks/workwear/fire-resistant" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
 																		</ul>
 																	</li>
 																
@@ -829,7 +902,7 @@ function getStyleDirectoryPath()
 																		
 																		<ul>
 																																						
-																			<li class="last first"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Workwear_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/workwear/workwear-carhartt" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
+																			<li class="last first"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Workwear_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks/workwear/workwear-carhartt" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
 																		</ul>
 																	</li>
 																
@@ -838,7 +911,7 @@ function getStyleDirectoryPath()
 																		
 																		<ul>
 																																						
-																			<li class="last first"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Workwear_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/workwear/helly-hansen" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
+																			<li class="last first"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Workwear_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks/workwear/helly-hansen" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
 																		</ul>
 																	</li>
 																
@@ -847,7 +920,7 @@ function getStyleDirectoryPath()
 																		
 																		<ul>
 																																						
-																			<li class="last first"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Workwear_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/workwear/workwear-gift-cards" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
+																			<li class="last first"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Workwear_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks/workwear/workwear-gift-cards" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
 																		</ul>
 																	</li>
 																
@@ -881,8 +954,8 @@ function getStyleDirectoryPath()
 
 					<div class="ad_product" id="ad_MegaNavEspotImageLeft3">
 				
-					 <a href="ClickInfo?evtype=CpgnClick&amp;mpe_id=12658&amp;intv_id=30551&amp;storeId=10151&amp;catalogId=10051&amp;langId=-1&amp;URL=en%2fmarks-marksdefaultsalescatalog%2fShippingPolicy"> 
-                   	 <img src="https://canadiantire.scene7.com/is/image/CanadianTire/OnlinePolicy_MegaNav_350x180_v1?fit=crop&amp;wid=350&amp;hei=180&amp;qlt=100">
+					 <a href="ClickInfo?evtype=CpgnClick&amp;mpe_id=12658&amp;intv_id=64060&amp;storeId=10151&amp;catalogId=10051&amp;langId=-1&amp;URL=SearchDisplay%3fsearchType%3d1001%26parent_category_rn%3d17003%26top_category%3d17003%26showResultsPage%3dtrue%26sType%3dSimpleSearch%26catalogId%3d10051%26pageView%3dimage%26facet%3dads_f2_ntk_cs%25253AOn%252BSale%26categoryId%3d33501%26storeId%3d10151"> 
+                   	 <img src="https://canadiantire.scene7.com/is/image/CanadianTire/15-W44_Owned_MensHiVisWorkwearLinedwithTMax_MEGA_NAV_350x180px?fit=crop&amp;wid=350&amp;hei=180&amp;qlt=100">
                     </a>	
 					
 					</div>
@@ -899,8 +972,8 @@ function getStyleDirectoryPath()
 
 					<div class="ad_product" id="ad_MegaNavEspotImageRight3">
 				
-					 <a href="ClickInfo?evtype=CpgnClick&amp;mpe_id=13153&amp;intv_id=38551&amp;storeId=10151&amp;catalogId=10051&amp;langId=-1&amp;URL=SearchDisplay%3fsearchType%3d1001%26showResultsPage%3dtrue%26sType%3dSimpleSearch%26resultCatEntryType%3d2%26catalogId%3d10051%26pageView%3dimage%26searchTerm%3dHelly%2bHansen%26facet%3dads_f2_ntk_cs%25253AOn%252BSale%26categoryId%3d17003%26storeId%3d10151"> 
-                   	 <img src="https://canadiantire.scene7.com/is/image/CanadianTire/week14-2015_meganav_helly?fit=crop&amp;wid=350&amp;hei=180&amp;qlt=100">
+					 <a href="ClickInfo?evtype=CpgnClick&amp;mpe_id=13153&amp;intv_id=64553&amp;storeId=10151&amp;catalogId=10051&amp;langId=-1&amp;URL=en%2fmarks%2fcatcontest"> 
+                   	 <img src="https://canadiantire.scene7.com/is/image/CanadianTire/15_Wk44_DIGITAL_CAT_MEGA_NAV_350x180px_Final?fit=crop&amp;wid=350&amp;hei=180">
                     </a>	
 					
 					</div>
@@ -920,7 +993,7 @@ function getStyleDirectoryPath()
 																
 								<li id="mega_menu_4">  
 									<!-- BEGIN HeaderNavTree.jspf -->
-												<a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/footwear" id="WC_HeaderNavTree_links_3_4" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Footwear&quot;);">
+												<a href="http://www.marks.com/shop/en/marks/footwear" id="WC_HeaderNavTree_links_3_4" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Footwear&quot;);">
                                                                                                    <span>Footwear
                                                                                                    </span>
                                                                                                 </a>
@@ -931,29 +1004,41 @@ function getStyleDirectoryPath()
 															<ul class="clearfix">
 																
 																	<li class="first">
+																		<h3>New Arrivals</h3>	
+																		
+																		<ul>
+																			
+																				<li class="first"><a href="http://www.marks.com/shop/SearchDisplay?sType=SimpleSearch&amp;urlRequestType=Base&amp;catalogId=10051&amp;categoryId=120003&amp;pageView=image&amp;showResultsPage=true&amp;beginIndex=0&amp;resultCatEntryType=&amp;langId=-1&amp;top_category=77002&amp;parent_category_rn=120001&amp;storeId=10151" id="WC_HeaderNavTree_links_3_4" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Footwear_Men s Casual&quot;);">
+                                                                                     Men's Casual</a></li>	                                                                                
+																			
+																				<li><a href="http://www.marks.com/shop/SearchDisplay?sType=SimpleSearch&amp;urlRequestType=Base&amp;catalogId=10051&amp;categoryId=120002&amp;pageView=image&amp;showResultsPage=true&amp;beginIndex=0&amp;resultCatEntryType=&amp;langId=-1&amp;top_category=77002&amp;parent_category_rn=120001&amp;storeId=10151" id="WC_HeaderNavTree_links_3_4" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Footwear_Women s Casual&quot;);">
+                                                                                     Women's Casual</a></li>	                                                                                
+																																						
+																			<li class="last"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Footwear_ViewAll&quot;);" href="http://www.marks.com/shop/SearchDisplay?sType=SimpleSearch&amp;urlRequestType=Base&amp;categoryId=120001&amp;catalogId=10051&amp;pageView=image&amp;showResultsPage=true&amp;beginIndex=0&amp;resultCatEntryType=&amp;langId=-1&amp;top_category=77002&amp;parent_category_rn=77002&amp;storeId=10151" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
+																		</ul>
+																	</li>
+																
+																	<li>
 																		<h3>Men's Footwear</h3>	
 																		
 																		<ul>
 																			
-																				<li class="first"><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/footwear/mens-footwear/casual-and-dress-shoes" id="WC_HeaderNavTree_links_3_4" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Footwear_Casual &amp; Dress&quot;);">
+																				<li class="first"><a href="http://www.marks.com/shop/en/marks/footwear/mens-footwear/casual-and-dress-shoes" id="WC_HeaderNavTree_links_3_4" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Footwear_Casual &amp; Dress&quot;);">
                                                                                      Casual &amp; Dress</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/footwear/mens-footwear/casual-boots" id="WC_HeaderNavTree_links_3_4" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Footwear_Casual Boots&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/footwear/mens-footwear/casual-boots" id="WC_HeaderNavTree_links_3_4" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Footwear_Casual Boots&quot;);">
                                                                                      Casual Boots</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/footwear/mens-footwear/hikers" id="WC_HeaderNavTree_links_3_4" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Footwear_Hikers &amp; Athletic&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/footwear/mens-footwear/hikers" id="WC_HeaderNavTree_links_3_4" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Footwear_Hikers &amp; Athletic&quot;);">
                                                                                      Hikers &amp; Athletic</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/footwear/mens-footwear/mens-winter-boots" id="WC_HeaderNavTree_links_3_4" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Footwear_Winter &amp; Wet Weather&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/footwear/mens-footwear/mens-winter-boots" id="WC_HeaderNavTree_links_3_4" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Footwear_Winter &amp; Wet Weather&quot;);">
                                                                                      Winter &amp; Wet Weather</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/footwear/mens-footwear/mens-sandals" id="WC_HeaderNavTree_links_3_4" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Footwear_Sandals &amp; Flip-Flops&quot;);">
-                                                                                     Sandals &amp; Flip-Flops</a></li>	                                                                                
-																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/footwear/mens-footwear/mens-slippers" id="WC_HeaderNavTree_links_3_4" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Footwear_Slippers&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/footwear/mens-footwear/mens-slippers" id="WC_HeaderNavTree_links_3_4" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Footwear_Slippers&quot;);">
                                                                                      Slippers</a></li>	                                                                                
 																																						
-																			<li class="last"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Footwear_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/footwear/mens-footwear" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
+																			<li class="last"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Footwear_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks/footwear/mens-footwear" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
 																		</ul>
 																	</li>
 																
@@ -962,25 +1047,25 @@ function getStyleDirectoryPath()
 																		
 																		<ul>
 																			
-																				<li class="first"><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/footwear/ladies-footwear/ladies-casual-shoes" id="WC_HeaderNavTree_links_3_4" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Footwear_Casual &amp; Dress&quot;);">
+																				<li class="first"><a href="http://www.marks.com/shop/en/marks/footwear/ladies-footwear/ladies-casual-shoes" id="WC_HeaderNavTree_links_3_4" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Footwear_Casual &amp; Dress&quot;);">
                                                                                      Casual &amp; Dress</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/footwear/ladies-footwear/ladies-casual-boots" id="WC_HeaderNavTree_links_3_4" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Footwear_Casual Boots&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/footwear/ladies-footwear/ladies-casual-boots" id="WC_HeaderNavTree_links_3_4" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Footwear_Casual Boots&quot;);">
                                                                                      Casual Boots</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/footwear/ladies-footwear/ladies-hikers-and-athletic" id="WC_HeaderNavTree_links_3_4" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Footwear_Hikers &amp; Athletic&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/footwear/ladies-footwear/ladies-hikers-and-athletic" id="WC_HeaderNavTree_links_3_4" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Footwear_Hikers &amp; Athletic&quot;);">
                                                                                      Hikers &amp; Athletic</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/footwear/ladies-footwear/rubber-shoes---boots" id="WC_HeaderNavTree_links_3_4" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Footwear_Rubber Boots&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/footwear/ladies-footwear/rubber-shoes---boots" id="WC_HeaderNavTree_links_3_4" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Footwear_Rubber Boots&quot;);">
                                                                                      Rubber Boots</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/footwear/ladies-footwear/ladies-winter-boots" id="WC_HeaderNavTree_links_3_4" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Footwear_Winter Boots&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/footwear/ladies-footwear/ladies-winter-boots" id="WC_HeaderNavTree_links_3_4" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Footwear_Winter Boots&quot;);">
                                                                                      Winter Boots</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/footwear/ladies-footwear/womens-sandals" id="WC_HeaderNavTree_links_3_4" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Footwear_Sandals &amp; Flip-Flops&quot;);">
-                                                                                     Sandals &amp; Flip-Flops</a></li>	                                                                                
+																				<li><a href="http://www.marks.com/shop/en/marks/footwear/ladies-footwear/womens-slippers" id="WC_HeaderNavTree_links_3_4" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Footwear_Slippers&quot;);">
+                                                                                     Slippers</a></li>	                                                                                
 																																						
-																			<li class="last"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Footwear_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/footwear/ladies-footwear" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
+																			<li class="last"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Footwear_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks/footwear/ladies-footwear" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
 																		</ul>
 																	</li>
 																
@@ -989,25 +1074,25 @@ function getStyleDirectoryPath()
 																		
 																		<ul>
 																			
-																				<li class="first"><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/footwear/safety-footwear/mens-casual-safety-shoes" id="WC_HeaderNavTree_links_3_4" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Footwear_Casual &amp; Athletic&quot;);">
+																				<li class="first"><a href="http://www.marks.com/shop/en/marks/footwear/safety-footwear/mens-casual-safety-shoes" id="WC_HeaderNavTree_links_3_4" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Footwear_Casual &amp; Athletic&quot;);">
                                                                                      Casual &amp; Athletic</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/footwear/safety-footwear/mens-safety-hikers" id="WC_HeaderNavTree_links_3_4" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Footwear_Safety Hikers&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/footwear/safety-footwear/mens-safety-hikers" id="WC_HeaderNavTree_links_3_4" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Footwear_Safety Hikers&quot;);">
                                                                                      Safety Hikers</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/footwear/safety-footwear/mens-6-work-boots" id="WC_HeaderNavTree_links_3_4" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Footwear_6  Workboots&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/footwear/safety-footwear/mens-6-work-boots" id="WC_HeaderNavTree_links_3_4" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Footwear_6  Workboots&quot;);">
                                                                                      6" Workboots</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/footwear/safety-footwear/mens-8-work-boots" id="WC_HeaderNavTree_links_3_4" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Footwear_8  Workboots&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/footwear/safety-footwear/mens-8-work-boots" id="WC_HeaderNavTree_links_3_4" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Footwear_8  Workboots&quot;);">
                                                                                      8" Workboots</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/footwear/safety-footwear/11-work-boots" id="WC_HeaderNavTree_links_3_4" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Footwear_10 + Workboots&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/footwear/safety-footwear/11-work-boots" id="WC_HeaderNavTree_links_3_4" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Footwear_10 + Workboots&quot;);">
                                                                                      10"+ Workboots</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/footwear/safety-footwear/mens-safety-winter-boots" id="WC_HeaderNavTree_links_3_4" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Footwear_Winter &amp; Rubber Boots&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/footwear/safety-footwear/mens-safety-winter-boots" id="WC_HeaderNavTree_links_3_4" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Footwear_Winter &amp; Rubber Boots&quot;);">
                                                                                      Winter &amp; Rubber Boots</a></li>	                                                                                
 																																						
-																			<li class="last"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Footwear_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/footwear/safety-footwear" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
+																			<li class="last"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Footwear_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks/footwear/safety-footwear" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
 																		</ul>
 																	</li>
 																
@@ -1016,22 +1101,22 @@ function getStyleDirectoryPath()
 																		
 																		<ul>
 																			
-																				<li class="first"><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/footwear/womens-safety-footwear/ladies-safety-footwear" id="WC_HeaderNavTree_links_3_4" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Footwear_Casual &amp; Athletic&quot;);">
+																				<li class="first"><a href="http://www.marks.com/shop/en/marks/footwear/womens-safety-footwear/ladies-safety-footwear" id="WC_HeaderNavTree_links_3_4" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Footwear_Casual &amp; Athletic&quot;);">
                                                                                      Casual &amp; Athletic</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/footwear/womens-safety-footwear/safety-hikers" id="WC_HeaderNavTree_links_3_4" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Footwear_Safety Hikers&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/footwear/womens-safety-footwear/safety-hikers" id="WC_HeaderNavTree_links_3_4" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Footwear_Safety Hikers&quot;);">
                                                                                      Safety Hikers</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/footwear/womens-safety-footwear/6-workboots" id="WC_HeaderNavTree_links_3_4" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Footwear_6  Workboots&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/footwear/womens-safety-footwear/6-workboots" id="WC_HeaderNavTree_links_3_4" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Footwear_6  Workboots&quot;);">
                                                                                      6" Workboots</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/footwear/womens-safety-footwear/8-workboots" id="WC_HeaderNavTree_links_3_4" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Footwear_8  Workboots&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/footwear/womens-safety-footwear/8-workboots" id="WC_HeaderNavTree_links_3_4" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Footwear_8  Workboots&quot;);">
                                                                                      8" Workboots</a></li>	                                                                                
 																			
-																				<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/footwear/womens-safety-footwear/winter---rubber-boots" id="WC_HeaderNavTree_links_3_4" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Footwear_Winter &amp; Rubber Boots&quot;);">
+																				<li><a href="http://www.marks.com/shop/en/marks/footwear/womens-safety-footwear/winter---rubber-boots" id="WC_HeaderNavTree_links_3_4" onclick="javascript:linkCode(this,&quot;Mark_TopNav_Footwear_Winter &amp; Rubber Boots&quot;);">
                                                                                      Winter &amp; Rubber Boots</a></li>	                                                                                
 																																						
-																			<li class="last"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Footwear_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/footwear/womens-safety-footwear" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
+																			<li class="last"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Footwear_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks/footwear/womens-safety-footwear" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
 																		</ul>
 																	</li>
 																
@@ -1040,7 +1125,7 @@ function getStyleDirectoryPath()
 																		
 																		<ul>
 																																						
-																			<li class="last first"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Footwear_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/footwear/footwear-accessories" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
+																			<li class="last first"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Footwear_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks/footwear/footwear-accessories" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
 																		</ul>
 																	</li>
 																
@@ -1049,7 +1134,7 @@ function getStyleDirectoryPath()
 																		
 																		<ul>
 																																						
-																			<li class="last first"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Footwear_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/footwear/footwear-gift-cards" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
+																			<li class="last first"><a onclick="javascript:linkCode(this, &quot;Mark_TopNav_Footwear_ViewAll&quot;);" href="http://www.marks.com/shop/en/marks/footwear/footwear-gift-cards" id="WC_HeaderNavTreef_links_1_ParentCategory">View All </a></li> 
 																		</ul>
 																	</li>
 																
@@ -1083,8 +1168,8 @@ function getStyleDirectoryPath()
 
 					<div class="ad_product" id="ad_MegaNavEspotImageLeft4">
 				
-					 <a href="ClickInfo?evtype=CpgnClick&amp;mpe_id=14651&amp;intv_id=30551&amp;storeId=10151&amp;catalogId=10051&amp;langId=-1&amp;URL=en%2fmarks-marksdefaultsalescatalog%2fShippingPolicy"> 
-                   	 <img src="https://canadiantire.scene7.com/is/image/CanadianTire/OnlinePolicy_MegaNav_350x180_v1?fit=crop&amp;wid=350&amp;hei=180&amp;qlt=100">
+					 <a href="ClickInfo?evtype=CpgnClick&amp;mpe_id=14651&amp;intv_id=64061&amp;storeId=10151&amp;catalogId=10051&amp;langId=-1&amp;URL=SearchDisplay%3ferrorViewName%3dProductDisplayErrorView%26storeId%3d10151%26catalogId%3d10051%26resultCatEntryType%3d2%26sType%3dAdvancedSearch%26pageView%3dimage%26searchTerm%3dT-Max%2bHeat%2bSocks%26searchType%3d1002%26filterTerm%3dTop%2bPants%2bLeggings%2bTights%2b2-Pack%2b3-Pack"> 
+                   	 <img src="https://canadiantire.scene7.com/is/image/CanadianTire/15-Wk44_MWTmaxSocksHeat_MEGA_NAV_350x180px?fit=crop&amp;wid=350&amp;hei=180&amp;qlt=100">
                     </a>	
 					
 					</div>
@@ -1101,8 +1186,8 @@ function getStyleDirectoryPath()
 
 					<div class="ad_product" id="ad_MegaNavEspotImageRight4">
 				
-					 <a href="ClickInfo?evtype=CpgnClick&amp;mpe_id=14652&amp;intv_id=36056&amp;storeId=10151&amp;catalogId=10051&amp;langId=-1&amp;URL=en%2fmarks-marksdefaultsalescatalog%2fPage%3fpage%3dFootwear%26icc%3dMN_2"> 
-                   	 <img src="https://canadiantire.scene7.com/is/image/CanadianTire/week13-2015_meganav_footwear?fit=crop&amp;wid=350&amp;hei=180&amp;qlt=100">
+					 <a href="ClickInfo?evtype=CpgnClick&amp;mpe_id=14652&amp;intv_id=64062&amp;storeId=10151&amp;catalogId=10051&amp;langId=-1&amp;URL=SearchDisplay%3fsearchType%3d1001%26parent_category_rn%3d17035%26top_category%3d17002%26showResultsPage%3dtrue%26sType%3dSimpleSearch%26catalogId%3d10051%26pageView%3dimage%26searchTerm%3d2-Pack%26facet%3dmfName_ntk_cs%25253AT%252BMax%252BHeat%26categoryId%3d56003%26storeId%3d10151"> 
+                   	 <img src="https://canadiantire.scene7.com/is/image/CanadianTire/15-Wk44_Owned_WomensSocks_MEGA_NAV_350x180px?fit=crop&amp;wid=350&amp;hei=180&amp;qlt=100">
                     </a>	
 					
 					</div>
@@ -1126,7 +1211,7 @@ function getStyleDirectoryPath()
 			</div> <!-- end nav div -->
 		</div>	<!-- end header_nav div -->
 		<div id="header_links1">
-			<a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog" id="headerHome1" onclick="javascript:linkCode(this,'Mark_TopNav_Home');">Home</a>
+			<a href="http://www.marks.com/shop/en/marks" id="headerHome1" onclick="javascript:linkCode(this,'Mark_TopNav_Home');">Home</a>
 			|
 			<a href="http://www.marks.com/shop/OrderCalculate?calculationUsageId=-1&amp;updatePrices=1&amp;catalogId=10051&amp;errorViewName=AjaxOrderItemDisplayView&amp;orderId=.&amp;langId=-1&amp;storeId=10151&amp;URL=AjaxOrderItemDisplayView" class="h_tnav_but" id="headerShopCart1" onclick="javascript:linkCode(this,'Mark_TopNav_Cart');">Shopping Cart</a>
 		</div>
@@ -1146,7 +1231,7 @@ function getStyleDirectoryPath()
 			<div id="header-search">
 				<span id="searchTextHolder" class="nodisplay">Search</span>
 				<input type="text" size="18" class="search-txt" name="searchTerm" id="SimpleSearchForm_SearchTerm" value="Search" onfocus="JavaScript:clearSearchField();" onblur="JavaScript:fillSearchField();" onkeypress="if(event.keyCode==13) { if(testSearchField('SimpleSearchForm_SearchTerm')){submitSpecifiedForm(document.CatalogSearchForm);};};">
-				<button name="searchBtn" id="WC_CachedHeaderDisplay_button_1" type="button" value="Search" class="search-btn" onclick="JavaScript:document.CatalogSearchForm.searchTerm.value=trim(document.CatalogSearchForm.searchTerm.value);document.CatalogSearchForm.action=getAbsoluteURL()+'AjaxCatalogSearchView'; if(testSearchField('SimpleSearchForm_SearchTerm')){submitSpecifiedForm(document.CatalogSearchForm);};"></button>
+				<button name="searchBtn" id="WC_CachedHeaderDisplay_button_1" type="button" value="Search" class="search-btn" onclick="JavaScript:document.CatalogSearchForm.searchTerm.value=trim(document.CatalogSearchForm.searchTerm.value);document.CatalogSearchForm.action=getAbsoluteURL()+'SearchDisplay'; if(testSearchField('SimpleSearchForm_SearchTerm')){submitSpecifiedForm(document.CatalogSearchForm);};"></button>
 			</div>
 		</form>
 		
@@ -1354,15 +1439,15 @@ function getStyleDirectoryPath()
 </p><p class="subcategory_inner_link">
    <a class="" href="Penny" id="bb718ef6-405f-41a5-8fd8-707b3802caf8">Penny Elimination FAQ</a>
 </p><p class="subcategory_inner_link">
-   <a class="" href="../../MarksStorefrontAssetStore/wcm/Corporate/CanadianTireCustomerServiceAccessibilityPolicy.pdf" id="52eb7793-a7c7-4202-85cc-bb43f906ff1d">Customer Service Accessibility Policy PDF(350KB)</a>
+   <a class="" href="/wcsstore/MarksStorefrontAssetStore/wcm/documents/CanadianTireMultiYearAccessibilityPolicy.pdf" id="a327252c-a1c9-439f-adfd-285311870ef0">Multi Year Accessibility Plan</a>
+</p><p class="subcategory_inner_link">
+   <a class="" href="/wcsstore/MarksStorefrontAssetStore/wcm/documents/CanadianTireCustomerServiceAccessibilityPolicy.pdf" id="52eb7793-a7c7-4202-85cc-bb43f906ff1d">Customer Service Accessibility Policy</a>
 </p></div><p class="subcategory_link">
    <a class="" href="ShippingPolicy" id="4d8354c4-b192-4fd9-b812-8413d56abbe2">Shipping &amp; Returns</a>
 </p><div class="subcategory_link_div"><p class="subcategory_inner_link">
    <a class="" href="ShippingPolicy" id="5c67f64e-254c-484a-a141-bd0ebdec3e77">Shipping &amp; Returns Policy</a>
 </p><p class="subcategory_inner_link">
    <a class="" href="DeliveryInformation" id="80929bb3-14dc-4f95-a494-aa406dd0ca14">Delivery Information</a>
-</p><p class="subcategory_inner_link">
-   <a class="" href="Guarantee" id="a936660c-3339-4fac-afd4-756399bbf751">100% Guarantee</a>
 </p></div><br></div></div></div>
 <div id="content_wrapper_box" style="min-height:750px !important;">
 <div id="static_content767" class="content_box_shadow">
@@ -1390,7 +1475,7 @@ function getStyleDirectoryPath()
 </div><!-- Content End -->
 
 				</div>
-			</div><div id="fb-root" class=" fb_reset"><script type="text/javascript" src="https://web.archive.org/web/20140625201552/https://connect.facebook.net/en_US/all.js" async=""></script><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="f3a776798a7019" frameborder="0" allowtransparency="true" scrolling="no" src="https://www.facebook.com/connect/ping?client_id=374826562590854&amp;domain=web.archive.org&amp;origin=1&amp;redirect_uri=https%3A%2F%2Fs-static.ak.facebook.com%2Fconnect%2Fxd_arbiter%2FDhmkJ2TR0QN.js%3Fversion%3D41%23cb%3Df27df859b02bdf4%26domain%3Dweb.archive.org%26origin%3Dhttps%253A%252F%252Fweb.archive.org%252Ff1bbc627d5959%26relation%3Dparent&amp;response_type=token%2Csigned_request%2Ccode&amp;sdk=joey" style="display: none;"></iframe></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" scrolling="no" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="https://s-static.ak.facebook.com/connect/xd_arbiter/DhmkJ2TR0QN.js?version=41#channel=f1bbc627d5959&amp;origin=https%3A%2F%2Fweb.archive.org" style="border: none;"></iframe></div></div></div>
+			</div><div id="fb-root" class=" fb_reset"><script type="text/javascript" src="https://web.archive.org/web/20140625201552/https://connect.facebook.net/en_US/all.js" async=""></script><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="f3b3c72429cd0d8" frameborder="0" allowtransparency="true" scrolling="no" src="https://www.facebook.com/connect/ping?client_id=374826562590854&amp;domain=web.archive.org&amp;origin=1&amp;redirect_uri=https%3A%2F%2Fs-static.ak.facebook.com%2Fconnect%2Fxd_arbiter%2FDhmkJ2TR0QN.js%3Fversion%3D41%23cb%3Df3a8b46afd66f74%26domain%3Dweb.archive.org%26origin%3Dhttps%253A%252F%252Fweb.archive.org%252Ffa1a3c216d5e54%26relation%3Dparent&amp;response_type=token%2Csigned_request%2Ccode&amp;sdk=joey" style="display: none;"></iframe></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" scrolling="no" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="https://s-static.ak.facebook.com/connect/xd_arbiter/DhmkJ2TR0QN.js?version=41#channel=fa1a3c216d5e54&amp;origin=https%3A%2F%2Fweb.archive.org" style="border: none;"></iframe></div></div></div>
 		
 		<!-- Main Content End --><!-- Footer Nav Start --><!-- BEGIN LayoutContainerBottom.jspf --><!-- BEGIN RightSidebarDisplay.jspf --><!-- BEGIN CachedRightSidebarDisplay.jsp --><!-- END CachedRightSidebarDisplay.jsp --><!-- END RightSidebarDisplay.jspf -->
 
@@ -1405,25 +1490,28 @@ function getStyleDirectoryPath()
 	<div id="footer_bg">
 		
 		<div id="fast_find">
-			<a id="ff_flat_rate_shipping" href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/ShippingPolicy" onclick="javascript:linkCode(this,'Mark_Footer_FastDelivery');"></a> 
-			<a id="ff_100_days_returns" href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/ShippingPolicy" onclick="javascript:linkCode(this,'Mark_Footer_SatisfactionGuaranteed');"></a>
+			<a id="ff_flat_rate_shipping" href="http://www.marks.com/shop/en/marks/ShippingPolicy" onclick="javascript:linkCode(this,'Mark_Footer_FastDelivery');"></a> 
+			<a id="ff_100_days_returns" href="http://www.marks.com/shop/en/marks/ShippingPolicy" onclick="javascript:linkCode(this,'Mark_Footer_SatisfactionGuaranteed');"></a>
 		</div>
 		<div id="stay_connected" class="clearfix">
 			<ul id="email_update_signup">
-				<li><a class="signup_email_updates" href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/email-signup" onclick="javascript:linkCode(this,'Mark_Footer_EmailSignUp');"></a></li>
+				<li><a class="signup_email_updates" href="http://www.marks.com/shop/en/marks/email-signup" onclick="javascript:linkCode(this,'Mark_Footer_EmailSignUp');"></a></li>
 			</ul>
 			<ul id="social_media">
 				<li>Follow us:</li>
 				<li class="last">
 					<ul>	
 						<li>
-							<a class="socialfacebook" target="_blank" href="http://173.252.110.27/MarksClothing" onclick="javascript:linkCodeEvents(this,'Mark_Footer_FaceBookButton','event56','');"></a>
+							<a class="socialfacebook" target="_blank" href="https://www.facebook.com/MarksClothing" onclick="javascript:linkCodeEvents(this,'Mark_Footer_FaceBookButton','event56','');"></a>
 						</li>
 						<li>
-							<a class="socialtwitter" target="_blank" href="http://twitter.com/#!/marksww" onclick="javascript:linkCodeEvents(this,'Mark_Footer_TwitterButton','event56','');"></a>
+							<a class="socialtwitter" target="_blank" href="https://twitter.com/marksCanada" onclick="javascript:linkCodeEvents(this,'Mark_Footer_TwitterButton','event56','');"></a>
 						</li>
 						<li>
 							<a class="socialgooglePlus" target="_blank" href="https://plus.google.com/108683542120351520319/posts" onclick="javascript:linkCodeEvents(this,'Mark_Footer_GooglePlusButton','event56','');"></a>
+						</li>
+						<li>
+							<a class="socialInstaGram" target="_blank" href="https://instagram.com/markscanada" onclick="javascript:linkCodeEvents(this,'Mark_Footer_InstaGramButton','event56','');"></a>
 						</li>
 					</ul>		
 				</li>
@@ -1436,19 +1524,19 @@ function getStyleDirectoryPath()
 					<h3>Shop </h3>
 					<ul>
 						
-									<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/mens" onclick="javascript:linkCode(this,'Mark_Footer_Men s');">
+									<li><a href="http://www.marks.com/shop/en/marks/mens" onclick="javascript:linkCode(this,'Mark_Footer_Men s');">
 Men's</a></li>
 								
-									<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/ladies" onclick="javascript:linkCode(this,'Mark_Footer_Women s');">
+									<li><a href="http://www.marks.com/shop/en/marks/ladies" onclick="javascript:linkCode(this,'Mark_Footer_Women s');">
 Women's</a></li>
 								
-									<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/workwear" onclick="javascript:linkCode(this,'Mark_Footer_Workwear');">
+									<li><a href="http://www.marks.com/shop/en/marks/workwear" onclick="javascript:linkCode(this,'Mark_Footer_Workwear');">
 Workwear</a></li>
 								
-									<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/footwear" onclick="javascript:linkCode(this,'Mark_Footer_Footwear');">
+									<li><a href="http://www.marks.com/shop/en/marks/footwear" onclick="javascript:linkCode(this,'Mark_Footer_Footwear');">
 Footwear</a></li>
 								
-						<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/Page?page=Flyer" onclick="javascript:linkCode(this,'Mark_Footer_Latest Flyer');">Latest Flyers</a></li>
+						<li><a href="http://www.marks.com/shop/en/marks/Page?page=Flyer" onclick="javascript:linkCode(this,'Mark_Footer_Latest Flyer');">Latest Flyers</a></li>
 						
 						
 					</ul>
@@ -1459,11 +1547,11 @@ Footwear</a></li>
 				<li>
 					<h3>Company Information</h3>
 					<ul>
-						<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/AboutMarks" onclick="javascript:linkCode(this,'Mark_Footer_About Marks');">About Mark's</a></li>
-						<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/Careers" onclick="javascript:linkCode(this,'Mark_Footer_Careers');">Careers</a></li>
-						<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/EthicalSourcingProgram" onclick="javascript:linkCode(this,'Mark_Footer_Ethical Sourcing Program');">Ethical Sourcing Program</a></li>
-						<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/TermsOfUse" onclick="javascript:linkCode(this,'Mark_Footer_Terms');">Terms of Use</a></li>
-						<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/Privacy" onclick="javascript:linkCode(this,'Mark_Footer_Privacy Policy');">Privacy Policy</a></li>
+						<li><a href="http://www.marks.com/shop/en/marks/AboutMarks" onclick="javascript:linkCode(this,'Mark_Footer_About Marks');">About Mark's</a></li>
+						<li><a href="http://www.marks.com/shop/en/marks/Careers" onclick="javascript:linkCode(this,'Mark_Footer_Careers');">Careers</a></li>
+						<li><a href="http://www.marks.com/shop/en/marks/EthicalSourcingProgram" onclick="javascript:linkCode(this,'Mark_Footer_Ethical Sourcing Program');">Ethical Sourcing Program</a></li>
+						<li><a href="http://www.marks.com/shop/en/marks/TermsOfUse" onclick="javascript:linkCode(this,'Mark_Footer_Terms');">Terms of Use</a></li>
+						<li><a href="http://www.marks.com/shop/en/marks/Privacy" onclick="javascript:linkCode(this,'Mark_Footer_Privacy Policy');">Privacy Policy</a></li>
 					</ul>
 				</li>
 				
@@ -1473,16 +1561,15 @@ Footwear</a></li>
 				<li>	
 					<h3>Customer Service</h3>
 					<ul>
-						<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/FastFind" onclick="javascript:linkCode(this,'Mark_Footer_Fast Find');">Fast Find</a></li>
-						<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/Contact" onclick="javascript:linkCode(this,'Mark_Footer_Contact Us');">Contact Us</a></li>
-						<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/store-locator" onclick="javascript:linkCode(this,'Mark_Footer_Find A Store');">Find a Store</a></li>
-						<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/email-signup" onclick="javascript:linkCode(this,'Mark_Footer_Email Sign Up');">E-mail Sign Up</a></li>
-						<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/FAQ" onclick="javascript:linkCode(this,'Mark_Footer_FAQ');">FAQs</a></li>
-						<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/Penny" onclick="javascript:linkCode(this,'Mark_Footer_Penny_Elimination_FAQ');">Penny Elimination FAQ</a></li>
-						<li><a target="_blank" href="/wcsstore/MarksStorefrontAssetStore/wcm/Corporate/CanadianTireCustomerServiceAccessibilityPolicy.pdf" onclick="javascript:linkCode(this,'Mark_Footer_Customer Service Accessibility Policy');">Customer Service Accessibility Policy PDF (350KB)</a></li>
-						<li><a target="_blank" href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/Page?page=SCENE" onclick="javascript:linkCode(this,'Mark_Footer_SCENE');">SCENE™ FAQ &amp; Terms</a></li>
-
-
+						<li><a href="http://www.marks.com/shop/en/marks/FastFind" onclick="javascript:linkCode(this,'Mark_Footer_Fast Find');">Fast Find</a></li>
+						<li><a href="http://www.marks.com/shop/en/marks/Contact" onclick="javascript:linkCode(this,'Mark_Footer_Contact Us');">Contact Us</a></li>
+						<li><a href="http://www.marks.com/shop/en/marks/store-locator" onclick="javascript:linkCode(this,'Mark_Footer_Find A Store');">Find a Store</a></li>
+						<li><a href="http://www.marks.com/shop/en/marks/email-signup" onclick="javascript:linkCode(this,'Mark_Footer_Email Sign Up');">E-mail Sign Up</a></li>
+						<li><a href="http://www.marks.com/shop/en/marks/FAQ" onclick="javascript:linkCode(this,'Mark_Footer_FAQ');">FAQs</a></li>
+						<li><a href="http://www.marks.com/shop/en/marks/Penny" onclick="javascript:linkCode(this,'Mark_Footer_Penny_Elimination_FAQ');">Penny Elimination FAQ</a></li>
+						<li><a target="_blank" href="/wcsstore/MarksStorefrontAssetStore/wcm/Corporate/CanadianTireCustomerServiceAccessibilityPolicy.pdf" onclick="javascript:linkCode(this,'Mark_Footer_Customer Service Accessibility Policy');">Customer Service Accessibility Policy </a></li>
+						<li><a target="_blank" href="/wcsstore/MarksStorefrontAssetStore/wcm/Corporate/CanadianTireMultiYearAccessibilityPolicy.pdf" onclick="javascript:linkCode(this,'Mark_Footer_Multi Year Accessibility Policy');">Multi-Year Accessibility Plan</a></li>
+						<li><a target="_blank" href="http://www.marks.com/shop/en/marks/Page?page=SCENE" onclick="javascript:linkCode(this,'Mark_Footer_SCENE');">SCENE™ FAQ &amp; Terms</a></li>
 					</ul>
 				</li>
 				
@@ -1493,9 +1580,9 @@ Footwear</a></li>
 				<li>
 					<h3>Shipping &amp; Returns</h3>
 					<ul>
-						<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/ShippingPolicy" onclick="javascript:linkCode(this,'Mark_Footer_Shipping Policy');"> Shipping &amp; Returns Policy</a></li>
-						<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/DeliveryInformation" onclick="javascript:linkCode(this,'Mark_Footer_Delivery Information');">Delivery Information</a></li>
-						<li><a href="http://www.marks.com/shop/en/marks-marksdefaultsalescatalog/Guarantee" onclick="javascript:linkCode(this,'Mark_Footer_Guarantee');">100% Guarantee</a></li>
+						<li><a href="http://www.marks.com/shop/en/marks/ShippingPolicy" onclick="javascript:linkCode(this,'Mark_Footer_Shipping Policy');"> Shipping &amp; Returns Policy</a></li>
+						<li><a href="http://www.marks.com/shop/en/marks/DeliveryInformation" onclick="javascript:linkCode(this,'Mark_Footer_Delivery Information');">Delivery Information</a></li>
+					
 					</ul>
 				</li>
 				<li class="last">
@@ -1510,7 +1597,7 @@ Footwear</a></li>
 				</li>
 			</ul>
 			
-			<div id="copyright">©2015 Marks Work Wearhouse. All Rights Reserved.
+			<div id="copyright">©2015 Mark’s Work Wearhouse. All Rights Reserved.
 			</div>
 		</div><!-- end div footer_nav -->
 	</div><!-- end div footer -->
@@ -1546,6 +1633,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     $('#GeryOutIframeEmail').css('display','block');
     $('#GeryOutIframeEmail').css('height',height);
     $('.iframe_container').css('display','block');
+    setCookie("emailPopupShown", 'Not register', 7);
    }
   function closeIFrame() {
    $('#GeryOutIframeEmail').css('display','none');	      
@@ -1566,12 +1654,20 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
  });
 </script>
 		<div id="GeryOutIframeEmail" onclick="closeIFrame();"></div>
-		<div class="iframe_container"><img src="/wcsstore/MarksStorefrontAssetStore/images/css/quick_popup/Close.png" alt="" id="closeEmailPopUp"> <iframe src="https://www.marks.com/shop/EmailAcquisitionpopupView?catalogId=10051&amp;langId=-1&amp;storeId=10151" class="iframe_holderClass" id="emailpPopupIframe" scrolling="no" frameborder="0"></iframe></div>
+		<div class="iframe_container_main">
+		<div class="iframe_container"><img src="/wcsstore/MarksStorefrontAssetStore/images/css/quick_popup/Close.png" alt="" id="closeEmailPopUp"> <iframe src="https://www.marks.com/shop/EmailAcquisitionpopupView?catalogId=10051&amp;langId=-1&amp;storeId=10151" class="iframe_holderClass" id="emailpPopupIframe" scrolling="no" frameborder="0"></iframe>
+		
+		
+		<div style="position: relative; top: -50px;" id="noThanks">
+		<center><a id="addToCartLinkAjax" href="javascript:closeIFrame();"><span style="color: #005b95; font-size: 13px; text-decoration: underline;">CLOSE</span></a>
+		   </center></div>
+		
+		</div>
 	<!-- END pop logic jspf --><!-- Footer Nav End -->
 
-	
+	</div>
 	<!-- Page End --><div name="CampaignTag" style="position:absolute; left:10px; top:10px; visibility: hidden">
-<!-- SiteCatalyst code version: H.23.2. Copyright 1996-2011 Adobe, Inc. All Rights Reserved. More info available at http://www.omniture.com --><!--In production server we need to include s_code_prd.js-->
+
 <script language="JavaScript" type="text/javascript"><!--
 
 
@@ -1580,14 +1676,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	
          s.prop1="English"
       
-
-  // E-commerce Variables
-  //s.events=s.apl(s.events,'event49',',',2)
-  //search term is captured by s_code after fusion audit s_code update
-  //s.eVar2=s.getQueryParam('quick_search_term')
-  //s.eVar27="" 
-  //s.prop24="" 
-  //if(s.eVar32) s.prop22=s.eVar32;
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 var s_code=s.t();  if(s_code)document.write(s_code)//--></script>
 <script language="JavaScript" type="text/javascript"><!--
