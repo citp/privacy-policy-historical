@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestmaleblogs.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507144101id_/http%3A//www.bestmaleblogs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestmaleblogs.com privacy policy that was archived on 2015-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151106014421id_/http%3A//www.bestmaleblogs.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Best Male Blogs
 
