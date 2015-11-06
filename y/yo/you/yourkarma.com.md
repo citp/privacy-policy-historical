@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourkarma.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316194951id_/https%3A//yourkarma.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourkarma.com privacy policy that was archived on 2015-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151106054525id_/https%3A//yourkarma.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -103,7 +103,7 @@ Company welcomes your comments or questions regarding this Privacy Policy. Pleas
 
   * Karma Mobility, Inc.
   * Attn: Customer Support
-  * 176 Grand St., 3rd floor
+  * 176 Grand St., 2nd floor
   * New York, NY 10013
 
 
