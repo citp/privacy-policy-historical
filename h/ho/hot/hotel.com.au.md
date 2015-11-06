@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotel.com.au privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508041622id_/http%3A//www.hotel.com.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotel.com.au privacy policy that was archived on 2015-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151106162629id_/http%3A//www.hotel.com.au/privacy.htm) for the most accurate reproduction.*
 
 # About Hotel.com.au - Offering a wide choice of competitive rate hotels world wide
 
@@ -10,7 +10,7 @@ Hotel.com.au is committed to ensuring our customers' privacy and security of all
 
 Your credit card details are protected while being transmitted over the Internet by the use of 128 bit encryption methods. Credit card details are only used to pay for accommodation booked through our service. These details are stored securely at all times, are not used for any other purpose and will never be provided to any unauthorised third parties.
 
-Hotel.com.au uses various digital certificates including certificates from THAWTE Server CA (part of the VeriSign group), an industry leader in the protection and management of data transmission and storage.
+Hotel.com.au uses various digital certificates including certificates from Nortons Symantec, an industry leader in the protection and management of data transmission and storage.
 
 ### The information we collect
 
@@ -48,3 +48,5 @@ We at Hotel.com.au work hard to provide our clients with the best possible rates
 ### How to contact us
 
 This policy may be revised from time to time, as new features are added to the site or the legislation changes. Please check back periodically for updates and additions. If you have any concerns or queries about the Privacy Policy of Hotel.com.au or would like more information, please contact us on [RoomService@Hotel.com.au](mailto:RoomService@Hotel.com.au)
+
+Error! please load page again.
