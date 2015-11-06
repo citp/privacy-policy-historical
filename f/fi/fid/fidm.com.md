@@ -1,8 +1,63 @@
-> *The following text is extracted and transformed from the fidm.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621230827id_/http%3A//fidm.edu/en/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fidm.com privacy policy that was archived on 2015-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151106205838id_/http%3A//fidm.edu/en/college%2Bpolicies) for the most accurate reproduction.*
 
-# About | FIDM.edu
+# en | FIDM.edu
 
-#### Privacy Statement
+##### __Academic Honesty
+
+All academic work submitted by a student must be original work.  Cheating or academic dishonesty includes, but is not limited to, all forms of giving or getting unauthorized help or using unauthorized materials on examinations and projects. This includes work that duplicates, in whole or part, that of another student when the assignment explicitly calls for individual expression.  Plagiarism, a form of cheating, involves obtaining or attempting to obtain academic credit by copying the words or ideas of another (from a book, magazine article, or website, for example) and passing them off as one's own without documentation – that is, without acknowledging the source with quotation marks, footnotes, and lists of works cited.  Cheating and plagiarism are cause for formal counseling.  Students who cheat or plagiarize will receive a "0" on the assignment and may be subject to further disciplinary action.  Violations of the academic honesty policy are reported to the Coordinator of Student Affairs (LA) or the Education Department (SF, OC, SD).
+
+##### __Alcohol & Substance-Free Environment
+
+FIDM is committed to providing a workplace and school environment free of alcohol, illegal drugs, un-prescribed drugs, or paraphernalia used for these substances.  Violation of this policy may result in immediate dismissal from academic programs or college-related employment. All FIDM campuses are smoke-free environments.  Smoking includes, but is not limited to, cigarettes, cigars, snuff, smoking tobacco, smokeless tobacco, nicotine, nicotine-delivering devices, chemicals or devices that produce the same flavor or physical effect of nicotine substances; and any other tobacco innovation.  Information on substance abuse programs, prevention awareness, and all other counseling services is available upon request and accessible on the FIDM Portal.
+
+[Download or view the Substance Abuse Prevention Program Brochure (PDF)](https://web.archive.org/wps/wcm/connect/4c57fd00496919f08bcbdfa05019d420/Substance+Abuse+Prevention+Brochure+rev+9.10.15.pdf?MOD=AJPERES)
+
+##### __Campus Conduct
+
+FIDM is committed to a collegiate environment in which respect for others and proper conduct is demonstrated.  Hateful language – including profanity, racial, gender, or religious slurs – is unlawful and in direct opposition to an education environment.  FIDM promotes a professional environment free from hostility and will not tolerate harassing, bullying, intimidating, or threatening behavior or communication. Any violation will result in disciplinary action including suspension of services and/or privileges, or dismissal.
+
+Students are responsible for conducting themselves as professionals while in the classroom and on the campus.  Eating and drinking are not permitted in FIDM’s classrooms, computer labs, halls, Library, or elevators.  Excessive talking, rudeness, or class disruptions will not be tolerated.  Electronic devices (mp3 players, cellular phones, etc.) are considered disruptive and must be turned off during class time and in any environment in which other students are studying, researching, or gathering for educational purposes, unless permitted by an instructor or designated staff member. In addition, FIDM respects the student’s right to express themselves through what they wear to campus, however we ask that they will exercise discretion in regard to their appearance choices to reflect a manner which suits a professional college student that does not cause undue attention or interfere with the educational process.
+
+##### __Campus Safety & Access
+
+FIDM is committed to the safety of its students, faculty, and staff.  Students are prohibited from bringing firearms onto any FIDM campus.  Students are prohibited from bringing firearms onto any FIDM campus. Illegal weapons or threatening gestures with an object that can be used as a weapon will lead to immediate dismissal.  Students are required to wear their valid FIDM Student Photo Identification cards where visible while on FIDM premises.  FIDM Student Photo ID cards may not be altered, copied, or forged and are non-transferable.  If a student is discovered loaning or altering a FIDM Student Photo ID card, that card will be confiscated and the student will face a mandatory appointment with the Coordinator of Student Affairs (LA), or Director of Education (SF, OC, SD).  Campus access is restricted to posted hours of operation. Please see FIDM Portal for hours of operation. Only registered students are permitted in the classroom. Authorized guests/visitors are not allowed on campus with prior approval and notification to Security from FIDM Staff for college business purposes (i.e., guest presenter, authorized vendor, campus meeting, etc.). All authorized visitors are required to check-in with the Security desk (LA)/Building Security (SF)/front desk (OC, SD) to obtain a guest/visitor pass. Students and faculty are not permitted to bring family, friends, or business acquaintances on campus.
+
+##### __Defacing FIDM Property
+
+Any student who defaces, vandalizes, or destroys FIDM property (including but not limited to library materials, computers, elevators, restrooms, parking structure, etc.) will be dismissed from the college.  All types of spray mount adhesive and spray paint are prohibited from being used on all FIDM campuses.
+
+##### __Harassment & Sexual Misconduct Policy
+
+FIDM is committed to providing a safe learning working environment for students and employees that is free of all forms of discrimination, harassment, exploitation, or intimidation. Sexual misconduct is a form of discrimination. All members of the college community should be aware that the college strongly opposes harassment and sexual misconduct and such behavior is prohibited by federal and state law and college policy. This policy applies to all FIDM community members, including students, faculty, administrators, staff, and third parties conducting business or having any official capacity with the college or on college property. FIDM is prepared to take prompt action to prevent and correct such behavior of individuals who engage in sexual harassment, as well as any other unlawful harassment based on factors such as race, ethnicity, religion, national origin, sexual orientation, gender identity, disability, or age. Violation of this harassment and sexual misconduct policy will not be tolerated and corrective action up to and including disqualification or termination may be taken. We encourage all students to report these incidents. FIDM is committed to protecting the privacy of all individuals involved in a report of sexual harassment, sexual misconduct, and sexual violence. Throughout the process of investigation of a report of harassment and sexual misconduct, every effort will be made to protect the privacy interests of all individuals, and respect and safeguard private information, to the extent possible consistent with the legal obligations of FIDM to investigate and respond effectively. Retaliation against a person who properly reports, complains about, or participates in the investigation of such harassment is strictly prohibited.
+
+FIDM’s harassment and sexual misconduct policy and procedures are available in full on the FIDM Portal (under College Polies FAQs). Reports of sexual misconduct and inquiries concerning FIDM’s policy may be directed to the Title IX Coordinator at 213-624-1200 x3034.
+
+_**Affirmative Consent**_  
+In alignment with California statute, FIDM’s policy concerning sexual assault, domestic violence, dating violence, and stalking, includes an affirmative consent standard in the determination of whether consent was given by both parties to sexual activity.  “Affirmative consent” means affirmative, conscious, and voluntary agreement to engage in sexual activity.   It is the responsibility of each person involved in the sexual activity to ensure that he or she has the affirmative consent of the other or others to engage in the sexual activity.  Lack of protest or resistance does not mean consent, nor does silence mean consent.  Affirmative consent must be ongoing throughout a sexual activity and can be revoked at any time.  The existence of a dating relationship between the persons involved, or the fact of past sexual relations between them, should never by itself be assumed to be an indicator of consent.
+
+[FIDM Sexual Misconduct Grievance Policy and Procedures](https://web.archive.org/wps/wcm/connect/75abbbe5-8d2b-4e53-8ea5-9475c61ddb46/FIDM+Sexual+Misconduct+Grieveance+Policy+and+Procedures+rev+8.2015+V2.pdf?MOD=AJPERES) (PDF)  
+[Reporting Options and Resources for Sexual Assault and Relationship Violence](https://web.archive.org/wps/wcm/connect/6aa31ad6-865b-4407-ac2b-0e74de3b774a/Reporting+Options+Packet+rev+8.2015.pdf?MOD=AJPERES) (PDF)
+
+##### __Non-Discrimination Policy
+
+FIDM in compliance with Civil Rights Legislation does not discriminate in its educational programs or employment practices on the basis of race, religion, national or ethnic origin, gender, sexual orientation, age, veteran status, disability, pregnancy, or any other characteristic or condition protected by federal or state law. These practices include, but are not limited to, hiring, employment promotion and transfer, admissions policies, the administration of its scholarship and loan programs and participation in the benefits and services of educational programs or related activities sponsored by the College. This policy is in accordance to Title VI of the Civil Rights Act of 1964, Title IX of the Education Amendments of 1972, Section 504 of the Rehabilitation Act of 1973), Age Discrimination Act of 1975, California SB-195 Equity in Higher Education Act, and any other applicable federal, state and local law. Inquiries concerning FIDM’s policy may be directed to the Title IX Coordinator at 213-624-1200 x3034.
+
+##### __Policies & Services for Students with Disabilities
+
+FIDM complies with the American with Disabilities Act of 1990 amended in 2008 (ADA), Section 504 of the Rehabilitation Act at 29 U. S. C. § 794 (Section 504), and any other federal, state and local law regarding students and applicants with disabilities.  It is college policy that no otherwise qualified individual with a disability, shall, solely by reason of disability, be excluded from the participation in, be denied the benefits of, or be subjected to discrimination under any program or activity of the college.
+
+Each FIDM Campus has staff representatives designated to assist students with academic accommodations.  Students are required to provide verification of a disability and consult with the campus representative to develop a plan of reasonable accommodations upon matriculation to FIDM.
+
+In order to receive reasonable accommodations, students diagnosed with learning, psychological, or physical impairment are required to meet with the campus representative to verify the disability.  Examples of documentation accepted by FIDM for a learning or psychological disability are an Individualized Education Plan (IEP), a 504 Plan, a psycho-educational evaluation or a psychological evaluation.  Accommodations cannot be provided unless verification is provided directly to the campus representative.  Students requesting accommodations receive the How to Request Accommodations form from the campus representative.  Once verification is established, the student and the campus representative discuss options for reasonable accommodations and complete the Student Academic Accommodations & Instructor Guidelines form.  The student then distributes the form to his/her instructor(s).  The documentation remains confidential for a period of seven years with the designated staff representative and is only released with the student’s signed consent.  Questions concerning FIDM’s policy, procedure, and accommodations may be directed to the Section 504 Coordinator at 213.624.1200 x3034. 
+
+##### __Solicitation/Distribution
+
+The solicitation and distribution to students of non-FIDM materials and the use of the college facility for non-FIDM business purposes is prohibited.  Posting flyers, pamphlets, posters, or other means of advertising on the walls or bulletin boards and selling products on campus is not allowed.
+
+  
+
+
+#### Privacy Statement & Legal Notices
 
 FIDM is committed to protecting your privacy. This FIDM Statement of Privacy applies to FIDM's family of websites and governs online data collection and usage at all FIDM sites and services. Please read the FIDM Statement of Privacy below and any supplementary information at the end of this statement for additional details about particular FIDM sites and services that you may use.
 
@@ -137,16 +192,9 @@ When you visit Just for Educators, we may collect personal information such as y
 
 Every effort is made to ensure the accuracy of the information presented on Just for Educators. We sincerely regret any errors or omissions and request corrections be reported to [webmaster@fidm.edu](mailto:webmaster@fidm.edu). FIDM is not liable for damages caused by inaccuracies.
 
-#### Non-Discrimination Policy
+  
 
-FIDM in compliance with Civil Rights Legislation does not discriminate in its educational programs or employment practices on the basis of race, religion, national or ethnic origin, gender, sexual orientation, age, veteran status, disability, pregnancy, or any other characteristic or condition protected by federal or state law. These practices include, but are not limited to, hiring, employment promotion and transfer, admissions policies, the administration of its scholarship and loan programs and participation in the benefits and services of educational programs or related activities sponsored by the College. This policy is in accordance to Title VI of the Civil Rights Act of 1964, Title IX of the Education Amendments of 1972, Section 504 of the Rehabilitation Act of 1973), Age Discrimination Act of 1975, California SB-195 Equity in Higher Education Act, and any other applicable federal, state and local law. Inquiries concerning FIDM's policy may be directed to the Title IX Coordinator at 213-624-1200 x3034.
 
-#### Harassment & Sexual Misconduct Policy
-
-FIDM is committed to providing a safe learning working environment for students and employees that is free of all forms of discrimination, harassment, exploitation, or intimidation. Sexual misconduct is a form of discrimination. All members of the college community should be aware that the college strongly opposes harassment and sexual misconduct and such behavior is prohibited by federal and state law and college policy. This policy applies to all FIDM community members, including students, faculty, administrators, staff, and third parties conducting business or having any official capacity with the college or on college property. FIDM is prepared to take prompt action to prevent and correct such behavior of individuals who engage in sexual harassment, as well as any other unlawful harassment based on factors such as race, ethnicity, religion, national origin, sexual orientation, gender identity, disability, or age. Violation of this harassment and sexual misconduct policy will not be tolerated and corrective action up to and including disqualification or termination may be taken. We encourage all students to report these incidents. FIDM is committed to protecting the privacy of all individuals involved in a report of sexual harassment, sexual misconduct, and sexual violence. Throughout the process of investigation of a report of harassment and sexual misconduct, every effort will be made to protect the privacy interests of all individuals, and respect and safeguard private information, to the extent possible consistent with the legal obligations of FIDM to investigate and respond effectively. Retaliation against a person who properly reports, complains about, or participates in the investigation of such harassment is strictly prohibited.
-
-FIDM's harassment and sexual misconduct policy and procedures are available in full on the FIDM Portal (under College Polies FAQs). Reports of sexual misconduct and inquiries concerning FIDM’s policy may be directed to the Title IX Coordinator at 213-624-1200 x3034.
-
-##### Bureau for Private Postsecondary Education
+#### Bureau for Private Postsecondary Education
 
 [http://www.bppe.ca.gov](http://www.bppe.ca.gov/)
