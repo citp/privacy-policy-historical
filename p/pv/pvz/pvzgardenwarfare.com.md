@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the pvzgardenwarfare.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510053115id_/http%3A//tos.ea.com/legalapp/WEBPRIVACY/US/en/PC) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pvzgardenwarfare.com privacy policy that was archived on 2015-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151106214722id_/http%3A//tos.ea.com/legalapp/WEBPRIVACY/US/en/PC) for the most accurate reproduction.*
 
 # 
 
 ELECTRONIC ARTS PRIVACY AND COOKIE POLICY
 
 Effective Date: June 28, 2013
+
+  
+
 
 [](http://privacy.truste.com/privacy-seal/Electronic-Arts/validation?rid=1cc8e153-d5a9-45d1-b59d-5fe13b8709c5 "TRUSTe European SafeHarbor certification")
 
@@ -104,7 +107,7 @@ EA and other third parties also may maintain log files which contain IP addresse
 
 EA also uses its own proprietary analytic metrics tool and other third party analytics technologies to collect information when you use our online products and services and/or play our games on your PC, game system and/or mobile device. These tools and technologies use server log files, web beacons, cookies, tracking pixels and other technologies to collect and analyze certain types of information, including cookies, IP addresses (including for purposes of determining your approximate geographic location), mobile or other hardware device ID or other device identifiers, browser types, browser language, information passed from your browser (if any), referring and exit pages, and URLs, platform type, click information, information about your media, peripheral hardware, software and/or applications installed on your machine and/or device, domain names and types, landing pages, pages viewed and the order of those pages, advertising conversion rates, the date and amount of time spent on particular pages, other Internet and website usage information, game state and the date and time of activity on our websites or games, information about how your game is used, including game metrics and statistics, feature usage and purchase history, as well as unique hardware identifiers such as MAC Address, mobile unique device ID (if applicable) and other similar information. 
 
-The third party analytics companies who collect information on our sites and in the context of our online and mobile products and/or services may combine the information collected with other information they have independently collected from other websites and/or other online or mobile products and services relating to your activities across their network of websites as well as online and/or mobile products and services. Many of these companies collect and use information under their own privacy policies. 
+The third party analytics companies who collect information on our sites and in the context of our online and mobile products and/or services, and other similar companies like Facebook in connection with the Facebook "Like" button, may combine the information collected with other information they have independently collected from other websites and/or other online or mobile products and services relating to your activities across their network of websites as well as online and/or mobile products and services. Many of these companies collect and use information under their own privacy policies. 
 
 Some EA websites and services use Google Analytics, a web analytic service offered by Google Inc. ("Google"). Google Analytics uses "Cookies", text files that are stored on your PC and that enables the analysis of your usage of this website. The information about your usage of websites, collected through these cookies, will be transmitted to and stored on Google server based in the US.  On behalf of EA, Google will use this information in order to evaluate your usage of this websites, to make reports on website activities and/or to provide the website operator with other services related to this websites. Your IP-address collected by Google Analytics will not be matched up with other data of Google. You may prevent the installation of cookies by adjusting your browser settings.  Please note that if you disable cookies, it is possible that you may not use all functionalities of EA's websites. You may also prevent the cookies from collecting and storing your information by downloading and installing the following browser-plugin under the following link <http://tools.google.com/dlpage/gaoptout?hl=en>.
 
@@ -134,9 +137,9 @@ V.    Information Provided To EA By Third Parties.
 
 EA also obtains personal and non-personal information from third parties as discussed below.  EA only uses this data for purposes consistent with this policy.
 
- **1\. PlayStation®3 computer entertainment system**
+ **1\. PlayStation®3 and** **PlayStation®4 computer entertainment systems**
 
-If you sign up to play EA games through a PlayStation®3 computer entertainment system, your Sony Entertainment Network account information will be provided to EA so that we can establish an Origin Account for you. You need an Origin Account to play EA's titles online. By signing up to play EA's titles, you agree that limited user account information can be transferred to EA. Information transferred to EA includes your name, email address, online ID, country, language and date of birth but does not include credit card number or other financial account information.
+If you sign up to play EA games through a PlayStation®3 or PlayStation®4 computer entertainment system, your Sony Entertainment Network account information will be provided to EA so that we can establish an Origin Account for you. You need an Origin Account to play EA's titles online. By signing up to play EA's titles, you agree that limited user account information can be transferred to EA. Information transferred to EA includes your name, email address, online ID, country, language and date of birth but does not include credit card number or other financial account information.
 
  **2\. Xbox Live**
 
