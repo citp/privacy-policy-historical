@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qlook.bz privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508141528id_/http%3A//qlook.bz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qlook.bz privacy policy that was archived on 2015-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151106160118id_/http%3A//qlook.bz/privacy-policy) for the most accurate reproduction.*
 
 # QLooK - Privacy Policy
 
