@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the cacharya.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324234931id_/http%3A//cacharya.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cacharya.com privacy policy that was archived on 2015-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151106061841id_/http%3A//cacharya.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Cacharya.com
-
-[](https://web.archive.org/)
-
-[ ](http://play.google.com/store/apps/details?id=com.cacharya)
+# Privacy Policy | Cacharya
 
 We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices. 
 
