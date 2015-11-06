@@ -1,79 +1,199 @@
-> *The following text is extracted and transformed from the customersat3.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626051526id_/http%3A//www.markettools.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customersat3.com privacy policy that was archived on 2015-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151106013801id_/https%3A//www.confirmit.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | MarketTools, Inc.
+# Privacy Policy | Confirmit
 
-**[](http://www.truste.org/ivalidate.php?url=www.markettools.com&sealid=102)Website Privacy Statement**
+Your privacy is important to Confirmit. This policy discloses the information practices for Confirmit Web sites, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared.
 
-In this Web Site Privacy Statement ("statement"), we, MarketTools, Inc., headquartered in San Francisco, California, USA provide information about how we collect, use and transfer personally identifiable data from you, a web site visitor to web sites that we operate (collectively the "site"). The TRUSTe portions of this policy are applicable to ztelligence.com, zoomerang.com, zoompanel.com, customersat.com, truesample.net, and markettools.com only.
+##  Safe Harbor Standards
 
-**Scope**  
-This statement covers only data collected through the site. This statement does not cover any other data collection or processing, including, without limitation, data collection practices of other web pages to which we link or data processing practices of users of our service (e.g., users of our Zoomerang service). When we refer to this statement in notices and consent requests related to surveys, special-purpose web pages or otherwise, this statement applies as modified in the particular notice or consent request (e.g., with respect to types of data collected or purposes of collection).
+This Safe Harbor Privacy Statement (the "Statement") sets forth the privacy principles followed by Confirmit, Inc. and other companies within the Confirmit group (“Confirmit”). Confirmit Inc complies with the U.S.-EU Safe Harbor Framework and with the U.S.-Swiss Safe **Harbor** Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Confirmit Inc has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the company's certification, please visit <http://www.export.gov/safeharbor/>
 
-MarketTools complies with the EU Safe Harbor Certification framework as set forth by the US Department of Commerce that covers personal data collected from or about persons in the European Economic Area.   For more information on the EU Safe Harbor Framework, please visit <http://www.export.gov/safeharbor/>.
+On October 6th 2015, the European Union Court of Justice (EUCJ) issued a ruling which by inference is seen to invalidate Safe Harbor. However, at Confirmit, we have made sure that we are fully complaint with the EU Data Protection Directive requirements applicable to our role as data processor (and "data importer" for data being transferred from the European Economic Area to the US), even in the absence of Safe Harbor. We have in place a compressive compliance framework, both internally at Confirmit, and with our data center hosting provider. Please contact privacy@confirmit.com for any questions in relation to this. 
 
-**Types of Data and Collection Methods**  
-Through the site, we receive data that you actively submit as well as data that we track:
+##  PHISHING Emails That Reference Confirmit
 
-> _Actively Submitted Data:_ When you request information, subscribe to a mailing list or for a service, register as a user, post to one of our forums or communities, send or respond to an online survey or otherwise actively send us data, we usually collect data such as your name, email address(es), telephone number(s), country of residency, and certain information related to the business you represent (if any). In connection with chargeable services, we will also collect payment information (e.g., credit card number and related verification information). In connection with our own surveys, directed at ZoomPanel members, we ask question on the topic of the survey. When your or other website visitors use our tools to send out their own surveys, they decide who to contact and what questions to ask. In each such instance, however, you will know what data we collect through the site, because you actively submit it.
-> 
-> _Passively Tracked Data:_ When you visit the site, we also passively track information on your computer and Internet connection, such as the IP address of your computer and/or Internet service provider, the date and time you access the site, the Internet address of web sites from which you link to our site, the computer technology you are using and your movements and preferences on our site. We use technology that many other web sites employ, including, without limitation, "cookies" or small data files stored on your computer's hard drive, to collect information such as the aforementioned. In some instances, we also use cookies to collect information in connection with future visits from that web site, to recognize you as a previous visitor and to track your activity at our site. You do not need to have cookies turned on to participate in our surveys or to visit our site. You can refuse cookies by turning them off on your browser, but please note that this may adversely affect user experience and convenience.
-> 
-> _Combinations:_ Unless you also actively submit personal information such as your name or address, passively tracked data does not typically allow us to identify you personally (even though it can theoretically be done, we do not try to find out who you are, unless you identify yourself voluntarily through an active submission of data). To the extent permitted by applicable law, we reserve the right to combine passively tracked data or data available via a third party with personal data that you may choose to actively submit. We do this on the [www.markettools.com](http://www.markettools.com/ "www.markettools.com") site and for some survey "panels" (which may be deployed on ztelligence.com, Zoomerang.com, or other sites). Specifically if you take surveys from us we will "fingerprint" your system in order to combat fraud. In generating this "fingerprint" we gather only publically available information from your browser; this includes your IP address, browser version, and other identifying information.
+We have been informed that e-mails with the subject “ _Important Information Regarding Your XXXX Account_ ”, or similar, are being sent by parties not affiliated with Confirmit.
 
-**Collection Purposes, Use of Data**  
-We collect passively tracked data primarily for purposes of administering, protecting and improving our site and our systems, to better understand the preferences of our site visitors, to compile aggregated statistics about site usage, and to help personalize your experience on our site. We also use cookies and passively tracked data to protect the integrity of surveys, e.g., to prevent survey respondents from responding to the same survey twice.
+These emails ask recipients to provide login information related to an account that might be held at the company referenced in the subject line. The emails point to this webpage, Confirmit’s Privacy Policy, for more information.
 
-For some survey panels we will verify the information that you, or a third party, provide us and/or combine the information you provide with information we may gather from additional sources. Verification of personal data may be done on our systems, or done by a third party. If your personal data is provided to us for verification purposes only we will never store any of your personal information on our systems (we store only the result of the verification process).
+Confirmit is not responsible for the content of these emails. If you believe that you have been asked to provide personal information, please approach the company with whom you hold the account for more information and instructions. Confirmit does not engage in such practices.
 
-We collect primarily for two purposes: Firstly, for the purpose for which you originally sent us the data e.g., to confirm your registration for a service, to run a survey, to allow you to run a survey, to bill you for services or to send you information or materials that you requested – for additional information on our services please click here <http://www.markettools.com/products/>; secondly, for purposes of informing you about products and services; you can opt out of receiving marketing emails as explained below.
+Note that Confirmit, as a provider of online survey software, enables its customers to send emails to individuals asking them to participate in market research surveys, or to provide customer and employee feedback. Confirmit does not authorize, approve or in any other way bear responsibility for emails sent out by clients under the terms of their contract to license Confirmit.
 
-**Disclosures of Personal Information**  
-We are not in the business of selling or renting your information to telemarketers and do not share your personally identifiable information with others, except as follows:
+##  WHAT is Confirmit?
 
-  * We may share your information with affiliated companies for reward redemption and/or other market research opportunities.
-  * If you use any of our services with a corporate email account (i.e., an account for employees, contractors, etc. as opposed to a personal email account with a general email service provider such as AOL, Hotmail, Yahoo, Gmail, etc.), and such corporation signs up for an enterprise account with us or is considering an enterprise account, we may inform such corporation of your use of our service, so that you can benefit from enterprise pricing and any other benefits negotiated by the corporation for its registered users or otherwise arising from such coordination.
-  * We also engage agents and service providers who have access to data, but only to process such data on our behalf and for our purposes under confidentiality agreements.
-  * We may share your information as required by law or in the interest of protecting or exercising our or others' legal rights, e.g., without limitation, in connection with requests from law enforcement officials and in connection with court proceedings.
-  * We may share or transfer your information in connection with a prospective or actual sale, merger, transfer or other reorganization of all or parts of our business.
-  * We reserve the right to use and disclose any information collected via the site that is not in personally identifiable form.
-  * We do not share, sell, rent or trade PII with third parties for their promotional purposes.
+Confirmit provides access to feedback management software platforms that enable businesses to gather feedback from customers, employees and other stakeholders, and take action to improve business processes. With Confirmit, clients create their own surveys or feedback solutions, and send them to customers, employees, or other third parties. We are primarily an Software as a Service (SaaS) provider. As such, our clients, using our software packages, collect information from end users via our proprietary software packages. We may also collect information from users of Confirmit’s website at <http://www.confirmit.com/home.aspx> (“Confirmit’s Website”). Our methods for collection and use of information depend on whether the user is using Confirmit’s Website (a “Confirmit User”) or accessing our service on one of our SaaS sites (an “SaaS User”).
 
+##  Two main categories of Confirmit sites
 
+Confirmit runs two main categories of Internet sites:
 
-Without limiting the generality of the foregoing, note that we will NOT share your identity or your individual responses to surveys that we conduct ourselves with customers who may have commissioned such surveys; we only provide aggregate response data to survey customers. But, as noted in the next following section, we do not control how others may use our tools when they conduct surveys through our website.
+1) For the first category, Confirmit acts as a SaaS provider for companies conducting data collection and reporting activities via the Internet. You may be submitting responses to web surveys, and the template of the survey may state "Powered by Confirmit". Web surveys launched by Confirmit Customers may be hosted on Confirmit's SaaS environments, or alternatively they may be hosted on customer's own hosting environment (www-addresses other than Confirmit’s). In any of these cases, please be aware that it is our customers who are initiating or performing the data collection, and it is therefore our customers who instruct Confirmit who to collect data from, and it is our customers who control the use the collected data. Confirmit is acting as a data processor (as defined in the EU Data Protection Directive), whereas our customer is the data controller. For more details about how our customer intends to use your data, please refer to the privacy policy of the Confirmit customer from whom the e-mail and web survey originate.
 
-**Third Party Data Collection Through Our Site**  
-When one of our users deploys our tools to send out survey requests or otherwise to collect data, e.g., through zoomerang.com, such user will receive and process any responses. We will host, but not access such information, except in connection with technical support or with the consent of the user who conducted the survey. We post rules on how our tools should be used, however, we cannot control the data processing practices of our users and we do not assume any responsibility for actions of our users who conduct surveys or of any other third parties.
+_NOTE: For information about cookies when you use our SaaS environment, please refer to our Cookie Policy http://www.confirmit.com/legals/cookie-policy.aspx._ We do not use cookies in surveys you are invited to take via an e-mail invitation with a clickable link, or via pop-ups, but the party delivering the survey to you may.
 
-**Tell A Friend**  
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. MarketTools stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
+2) The second category of sites we manage, is related to information offered by Confirmit to customers, prospects and other visitors (the Confirmit website, the Confirmit Extranet, etc).
 
-Your friend may contact us at [privacy@markettools.com](mailto:privacy@markettools.com) to request that we remove this information from our database.
+**_The remainder of this policy is related to this latter type of sites._**
 
-**Co-branded Sites  
-**From time to time we may partner with a third parties to provide portions of the site. In the event that you provide personally identifiable information there this privacy policies will continue to apply. You retain full rights to you data and may either contact us at [privacy@markettools.com](mailto:privacy@markettools.com) to change or remove your data or alternatively you may ask us for a contact at the third party who can provide this service.
+##  Personal information
 
-**Opt-Out  
-**In connection with promotions or other projects, we may ask you specifically whether you have objections against a certain kind of data use or sharing. If you opt-out under such circumstances, we will respect your decision. To opt-out of receiving further commercial emails, sharing of your information with our affiliates or to unsubscribe from services, please contact us at [privacy@markettools.com](mailto:privacy@markettools.com). Please note that our affiliates and other data recipients have their own data privacy policies, which may differ from ours and you would have to contact them separately with respect to opt-out requests.
+In general, you can visit Confirmit on the Internet without telling us who you are and without giving any personal information about yourself. There are times, however, when Confirmit or our partners may need information from you.
 
-**Access**  
-If personal information you have submitted through the site is no longer accurate, current, or complete, and you wish to update it, or you wish to delete it, please update your profile on the site (typically [www.zoompanel.com](http://www.zoompanel.com/)) or send an email to [privacy@markettools.com](mailto:privacy@markettools.com). Upon appropriate request we will be glad to update or amend your information within 30 days, but we reserve the right to use information previously obtained to verify your identity or take other actions that we believe are appropriate.
+You may choose to give us personal information in a variety of situations. For example, you may want to give us information, such as your name and address or e-mail id, to correspond with you, to process a request, or to provide you with a subscription. We intend to let you know how we will use such information before we collect it from you; if you tell us that you do not want us to use this information to make further contact with you beyond fulfilling your requests, we will respect your wishes. If you give us personal information about somebody else, such as a spouse or work colleague, we will assume that you have his or her permission to do so.
 
-**Security**  
-Transmissions over the Internet are never 100% secure or error-free. We do, however, take reasonable steps to protect your personal information from loss, misuse, and unauthorized access, disclosure, alteration and destruction. For example, we encrypt your registration information using secure socket layer technology (SSL). To learn more about SSL follow this link  
-<http://en.wikipedia.org/wiki/Transport_Layer_Security>. It is your responsibility to safeguard any password and User ID you use to access the site and to notify us at [webmaster@markettools.com](mailto:webmaster@markettools.com) if you ever suspect that your password or User ID has been compromised. You are solely responsible for any unauthorized use of the site conducted via your password and User ID.
+##  Using and Sharing Personal Information
 
-**Children's Privacy**.  
-The site is intended for adults in the United States. We do not intentionally or knowingly collect personally-identifiable information from children under the age of 13 and we request that individuals under the age of 13 not submit any personal information on the site.
+The following paragraphs describe in more detail how Confirmit may use your personal information and with whom we may share it. Depending on the specific Confirmit Web site you are visiting, one or more of the following may apply.
 
-**Terms of Use**  
-Your use of our site is governed by our [Terms of Use](http://www.zoomerang.com/Terms-of-Use/), which contain disclaimers, limitations of liability, and a choice of California law and jurisdiction.
+##  Fulfilling your transaction request
 
-**Effective Date, Amendments**  
-This statement is effective as of December 10, 2007. We reserve the right to change, modify, supplement or replace all or part of this statement from time to time and in our sole discretion, but will alert you that changes have been made by indicating on the statement the date it was last updated. Before any material changes to this privacy policy we will post a prominent notice on our home page no less than 30 days before these changes go into effect. When you visit the site, you are accepting the current version of this statement as posted on the site at that time. We recommend that users revisit this statement on occasion to learn of any changes.
+If you request something from a Confirmit Web site, for example, a product or service, a callback, or specific marketing materials, we will use the information you provide to fulfill your request. To help us do this, we may share information, with others, for instance, other parts of Confirmit and Confirmit's Business Partners involved in the fulfillment. In connection with a transaction we may also contact you for market research purposes.
 
-**TRUSTe**  
-We are a participant in the TRUSTe Privacy and EU Safe Harbor programs. TRUSTe is an independent organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices.
+##  Marketing Use
 
-**Contact Us**  
-Please feel free to contact us with any comments, questions, complaints or suggestions you might have regarding the information practices described in this statement. You may send us an e-mail at [info@markettools.com](mailto:info@markettools.com) or MarketTools, Inc., 150 Spear Street, Suite 600, San Francisco, CA 94105. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you can also contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns. TRUSTe will act as a liaison for any complaints arising from markettools.com, zTelligence.com, Zoomerang.com, or Zoompanel.com.
+The information you provide to Confirmit on certain Confirmit Web sites may also be used by Confirmit and Confirmit's Business Partners for marketing purposes. Before we use it, however, we will offer you the opportunity to choose whether or not to have your information used in this way.
+
+##  Confirmit Career Web Sites (including Recruitment)
+
+In connection with a job application or inquiry, whether advertised on a Confirmit Web site or otherwise, you may provide us with information about yourself, such as a resume or curriculum vitae. We may use this information throughout Confirmit and its related entities for the purpose of employment consideration or your inquiry. Except where you tell us not to, we will keep the information for future consideration.
+
+##  Surveys
+
+From time-to-time Confirmit invites customers, web site visitors and others to complete web surveys. Participation in these surveys is completely voluntary and the user therefore has a choice whether or not to respond and whether or not to disclose any requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code). Users' personally identifiable information is not shared with third parties unless we give prior notice. Though we may use an intermediary to conduct these surveys, they may not use respondents' personally identifiable information for any secondary purposes.
+
+##  Information for Confirmit Business Partners
+
+If you represent a Confirmit Business Partner, you may visit a Confirmit Web site intended specifically for Confirmit Business Partners. We may use information provided on that site to administer and develop our business relationship with you, the Business Partner you represent, and Confirmit Business Partners generally.
+
+##  Information for Confirmit Customers
+
+If you work for a Confirmit Customer, you may visit a Confirmit Web site intended specifically for Confirmit Customers. We may use information provided on that site to administer and develop our business relationship with you, the Customer you work for, and Confirmit Customers generally.
+
+##  Other Confirmit Web Site Notices
+
+In some cases, specific Confirmit Web sites may contain other notices about their use and the information practices applicable to those sites.
+
+##  Our Worldwide Practices
+
+Confirmit is a global organization, with legal entities, business processes, management structures, and technical systems that cross borders.
+
+Our privacy practices are designed to provide protection for your personal information, all over the world.
+
+We may share your personal information within Confirmit and transfer it to countries in the world where we do business. Some countries may provide less legal protection for your information. In such countries Confirmit will still handle information in the manner we describe here.
+
+##  Cookies
+
+We sometimes collect non-identifiable information from visits to our Web sites to help us provide better customer service. For example, we keep track of the domains from which people visit, and we also measure visitor activity on Confirmit Web sites, but we do so in ways that keep the information non-identifiable. This information is sometimes known as "clickstream data." Confirmit or other organizations on Confirmit's behalf may use this data to analyze trends and statistics and to help us provide better customer service.
+
+Also, when we collect personal data from you in a transaction, we may extract some information about that transaction in a non-identifiable format and combine it with other non-identifiable information such as clickstream data. If you do not want your transaction details used in this manner you can disable your cookies.
+
+We collect the information we mentioned in the previous paragraphs through the use of various technologies, including one called "cookies". A cookie is a piece of data that a Web site can send to your browser, which may then be stored on your computer as an anonymous tag that identifies your computer but not you. Some Confirmit pages use cookies, sent by Confirmit or its third party vendors, or other technologies to better serve you when you return to the Web site.
+
+**NOTE** : You can set your browser to notify you before you receive a cookie, giving you the chance to decide whether to accept it. You can also set your browser to turn off cookies. If you do so, however, some Web sites may not work properly.
+
+Here are the details of the cookies we collect:
+
+_**Type of cookie**_
+
+| 
+
+_**What is it, and what does it do**_
+
+| 
+
+_**Privacy Intrusiveness Level**_  
+  
+---|---|---  
+  
+Social Media Buttons
+
+| 
+
+Keep track if you've previously liked or promoted a page or website from social networks
+
+| 
+
+Third Party Cookie. Low Privacy Intrusiveness.  
+  
+Youtube Video
+
+| 
+
+Gathers anonymous statistics on video interaction
+
+| 
+
+Third Party Cookie. Low Privacy Intrusiveness.  
+  
+Login Cookies
+
+| 
+
+Remembers your login into private sections of the Extranet
+
+| 
+
+Session Cookie. Low Privacy Intrusiveness.  
+  
+Google Analytics
+
+| 
+
+To understand how the site is being used in order to improve the user experience. All user data is anonymous
+
+| 
+
+Third Party Cookie. Low Privacy Intrusiveness.  
+  
+Marketo
+
+| 
+
+To understand user behavior within our site and collect user feedback. All data is anonymous until the user has provided his/her own information
+
+| 
+
+Third Party Cookie. Medium Privacy Intrusiveness.  
+  
+Hubspot
+
+| 
+
+To understand areas of our site that require maintenance and to identify top sources of content. All data is anonymous
+
+| 
+
+Third Party Cookie. Low Privacy Intrusiveness.  
+  
+  |    |     
+  
+##  Service Quality Monitoring
+
+Certain Web transactions may also involve your calling us or our calling you. Please be aware that it is Confirmit's general practice to monitor and in some cases record such calls for staff training or quality assurance purposes.
+
+##  Personalized URL Link
+
+On occasion, we may personalize and customize Web sites for certain visitors. If you visit one of these sites, you may find it customized with references to products and/or services that we believe may be of interest to you, based on your previous interactions with Confirmit and information you have provided to us. While you are visiting these Web sites, we may collect information about your visit to better tailor the site to your interests. An invitation to visit one of these Web sites is usually presented as a personalized URL in an e-mail, a notice on a Web site registration page, or as a response to you logging on to a certain Web site.
+
+If you choose to visit one of these Web sites, you are agreeing to let Confirmit collect information about your visits and also to its association with other information about you and your relationship with Confirmit. If you do not wish your information to be used in this way, do not accept the invitation to visit these sites.
+
+##  Disclosures Required By Law
+
+Please be aware that in certain circumstances, it is possible that personal information may be subject to disclosure pursuant to judicial or other government subpoenas, warrants, or orders.
+
+##  Links to non-Confirmit Web sites
+
+Confirmit Web sites may contain links to other Web sites. Confirmit is not responsible for the privacy practices or the content of those other Web sites.
+
+##  Notification of Changes
+
+A notice will be posted on our Web site home page whenever this privacy policy is changed in a material way.
+
+##  Privacy Questions and Access
+
+If you have any questions about this policy, you can send an email to the Confirmit Web site coordinator. The address for this is [privacy@confirmit.com](mailto:privacy@confirmit.com). You can also contact us at this address if you have a question about Confirmit's handling of your information.
+
+If you wish to obtain a copy of particular information you provided to Confirmit, or if you become aware that the information is incorrect and you would like us to correct it contact us at [privacy@confirmit.com](mailto:privacy@confirmit.com).
+
+Before Confirmit is able to provide you with any information or correct any inaccuracies, however, we may ask you to verify your identity and to provide other details to help us to respond to your request. We will endeavor to respond within an appropriate timeframe.
