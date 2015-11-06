@@ -1,80 +1,98 @@
-> *The following text is extracted and transformed from the startafire.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625152259id_/http%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startafire.com privacy policy that was archived on 2015-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151106233020id_/http%3A//startafire.com/privacy) for the most accurate reproduction.*
 
-# HugeDomains.com - Privacy Policy
+# start A FIRE - Privacy
 
-[Home](http://www.hugedomains.com/index.cfm) _ _ Privacy Policy
+Please take a minute to confirm your email address 
 
-**What information do we collect?**
+Just drag it ;)
 
-We collect information from you when you register on our site, place an order or fill out a form. 
+It's a bookmarklet, not a button. Please drag it to your bookmarks bar.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
+## Last Revised: 03/05/15
 
-**What do we use your information for?**
+  1. Introduction
 
-Any of the information we collect from you may be used in one of the following ways: 
+1.1. We, Tomodo Ltd. ("We", "Us", or "Our"), respect the privacy of the users and visitors of our start A FIRE service (the "Service"), and are committed to protect the information that Our users ("User" or "You") share with Us.  
+1.2. We believe that You have the right to know our practices regarding the information We may collect when You log into the your Account and use the Service. The guidelines contained herein apply to your use of the Service.   
+1.3. PLEASE READ CAREFULLY: BY USING THE SERVICE, YOU AGREE TO THE TERMS AND CONDITIONS SET FORTH IN THIS PRIVACY POLICY, INCLUDING TO THE COLLECTION AND PROCESSING OF YOUR PERSONAL INFORMATION (AS DEFINED BELOW). IF YOU DISAGREE TO ANY TERM PROVIDED HEREIN, YOU MAY NOT USE THE SERVICE.  
 
-• To personalize your experience  
-(your information helps us to better respond to your individual needs) 
 
-• To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
+  2. Which information may we collect with regards to Our Users?
 
-• To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs) 
+2.1. We collect two types of data and information: 
 
-• To process transactions
+    * 2.1.1. Non-identifiable and anonymous information ("Non-personal Information"). To put it simply, we have no idea what is the identity of the User from which we have collected the Non-personal Information. The Non-personal Information We gather consists of technical information, behavioral information, and aggregated information including, among others, the following: Technical information:  
+• The Operation System through which you are accessing the Service and its operation in connection with your use of the Service.  
+• Information regarding the Browser through which you are accessing the Service and its operation in connection with your use of the Service and otherwise.  
+• The operation of the platform you are using and which is running your operation system (e.g. your personal computer, apple computers, mobile devices etc.)  
+Behavioral information:  
+• User's 'click-stream' on the Branded Site;  
 
-> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
+    * 2.1.2. Individually identifiable information ("Personal Information") - To put it simple, this information may identify an individual or is of a private and/or sensitive nature. The Personal Information gathered consists of personal details You have provided us through the Account Registration Procedure, via email and/or which is available through Your profile in one of the social media platforms through which You have logged into the Service, including, but not limited to: Facebook, and LinkedIn. The Personal Information gathered consists of individually identifiable information, including, but not limited to Your full name and e-mail address  
 
-• To send periodic emails
 
-> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+  3. How do we collect information on our Users
 
-If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
+We collect information through Your use of the Service. In other words, when You use the Service We are aware of Your usage of the Service and may gather, collect and record the information relating to such usage. 
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
+  4. What are the purposes of the collection of information? 
 
-**How do we protect your information?**
+4.1. Non-personal Information is collected in order to:
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+    * 4.1.1. Enhance Your experience with the Service;
+    * 4.1.2. Use it for statistical and research purposes and for customization and improvement of our Service's interface, for example, learn about the preferences of users and general trends on the Service (e.g. understand which features are more popular than others);
+    * 4.1.3. Provide you with analytics regarding your use of the Service.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
+4.2. Personal Information is collected in order to: 
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
+    * 4.2.1. Enable the overall operation of the Service.
+    * 4.2.2. Personalize your experience with the Service.
+    * 4.2.3. Allow us to contact you with proposals and tailored information regarding new products, events, offers, services, features, enhancements, special offers, upgrade opportunities, and events of interest etc.
+    * 4.2.4. Be able to contact You for the purpose of providing them with technical assistance and support
+    * 4.2.5. Verify Your identity when You use the Service.
+    * 4.2.6. Determine general geo-location information (i.e., country) from which Your computer is connected to the Internet in order for us to know the general location of Our Service's users as well as in order to safeguard our Service.
 
-**Do we use cookies?**
+  5. Sharing information with third parties 
 
-Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+WE WILL NEVER SHARE YOUR PERSONAL INFORMATION EXCEPT FOR THE FOLLOWING CASES: (a) to satisfy any applicable law, regulation, legal process, subpoena or governmental request; (b) to enforce these Privacy Policy, and the start A FIRE Terms of Use, as applicable, including investigation of potential violations of them; (c) to detect, prevent, or otherwise address fraud, security or technical issues; (d) to respond to claims that contact information (e.g. phone number, name, etc.) of a third-party has been posted on Service or transmitted without their consent or as a form of harassment; (e) to protect Our rights, property, or personal safety and those of our users or the general public; (f) if We undergo any change in control, including by means of merger, acquisition or purchase of all or substantially all of Our assets of Company; (h) in order to provide You with Our services and with related services; or (i) pursuant to Your approval, in order to supply certain services the You have requested from Us. 
 
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+  6. Deletion/Modification of Personal Information
 
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+At any time You may request that Your Personal Information would be deleted or modified, in whole or in part, by sending an email to hello@startafire.com. Note that unless you instruct us otherwise we may retain your Personal Information for as long as reasonably required for the purposes of which such Personal Information was collected, including without limitation, for future analytics and analysis, in order to comply with our legal or business requirements or obligations and to resolve disputes or to enforce our Terms, all as permitted under any applicable privacy laws. Aggregated and/or anonymous information derived from your use of the Site and/or Service may remain on our servers indefinitely. 
 
-**Do we disclose any information to outside parties?**
+  7. Cookies & Local Storage
 
-Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
+When You use the Service, We may use industry-standard technologies such as "cookies", Flash and/or Silverlight (or similar technologies), which store certain information on your computer ("Tracking Cookie(s)") and which will allow Us to enable automatic sign-in to the Service and make the User's browsing more convenient and effortless. It is easy to prohibit the Tracking Cookie option. Most browsers will allow the User to erase cookies from their computer hard drive, block acceptance of cookies, or receive a warning before a cookie is stored. In order to erase or disable the Tracking Cookie option in Flash or Silverlight You should use the settings option of Flash/Silverlight according to the specific instructions provided by the technology provider. However, if You block or erase Tracking Cookies, or change the settings of Flash and/or Silverlight, Your online experience may be limited. 
 
-**Online Privacy Policy Only**
+  8. Security
 
-This online privacy policy applies only to information collected through our website and not to information collected offline. 
+We take a great care in maintaining the security of Our Service and Users' information and in preventing unauthorized access to it through industry standard technologies and internal procedures. However, We do not guarantee that unauthorized access will never occur. 
 
-**Terms and Conditions**
+  9. Minors
 
-Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ http://www.HugeDomains.com](http://www.hugedomains.com/index.cfm)
+The Service is intended for users over the age of thirteen (13). Therefore, Tomodo does not intend and does not knowingly collect Personal Information from children under the age of thirteen (13) and does not wish to do so. We reserve the right to request proof of age at any stage so that we can verify that minors under the age of thirteen (13) are not using the Site and the Service. If we learn that we collected Personal Information from children under the age of thirteen (13) we will delete that information as quickly as possible. Please contact Tomodo at: hello@startafire.com if you have reasons to suspect that Tomodo collected Personal Information from children under the age of thirteen (13) and will delete that information as quickly as possible. 
 
-**Your Consent**
+  10. Links to Third Party Sites 
 
-By using our site, you consent to our web site privacy policy. 
+Certain links provided through the Service, including advertisements, affiliated links or otherwise permit users to leave our Service and enter non-Tomodo services. These linked sites and services are not under the control of Tomodo. Most of such linked sites and services provide legal documents, including terms of use and privacy policy, governing the use thereof. It is always advisable to read such documents carefully before using those sites and services, inter alia, in order to know what kind of information they are collecting. 
 
-**Changes to our Privacy Policy**
+  11. Third Party Service Providers
 
-If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+We may be using third party software or service, in order to collect, store and/or process the information detailed herein. Tomodo uses commercially reasonable efforts to engage with third parties that post a privacy policy governing their collection, processing and use of non-personal and personal information. Such software and service include without limitation: Google Analytics, which privacy policy is located at www.google.com/policies/privacy/partners/ and http://www.google.com/intl/en/analytics/privacyoverview.html, and Amazon Web Services which privacy policy is located at http://aws.amazon.com/privacy/ . However, Tomodo does not control such third party service providers. Please read their terms of use and privacy policies to understand their privacy practices. 
 
-This policy was last modified on 1/10/2012 
+  12. Changes to the Privacy Policy 
 
-**Contacting Us**
+The terms of this Privacy Policy will govern the use Service and any information collected therein. We reserve the right to change this policy at any time, so the User is encouraged to re-visit this page frequently. In case of any material change, we may post a clear notice on the Service.   
+Changes to this Privacy Policy are effective as of the stated "Last Update” and your continued use of the Service on or after the Last Update date will constitute acceptance of, and agreement to be bound by, those changes   
 
-If there are any questions regarding this privacy policy you may use the [contact us](http://www.hugedomains.com/contact.cfm) form on this Web site. 
 
-HugeDomains.com
+  13. Direct Marketing
+
+You hereby agree that We may use Your contact details for the purpose of informing You of products, services and other updates and new features which may be of interest to You, as well as for sending you other materials to the e-mail address You provided in the registration process. You may withdraw your consent via sending a written notice to Tomodo by e-mail to the following e-mail address: hello@startafire.com or alternatively following the instructions for removing Yourself from the mailing list which are available in the e-mail transmitted to You. 
+
+  14. Questions
+
+For any questions (or comments) concerning this Privacy Policy, please send Us an email to the following address: hello@startafire.com, and We will make an effort to reply within a reasonable timeframe. 
+
+
+
