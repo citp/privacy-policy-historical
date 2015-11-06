@@ -1,31 +1,53 @@
-<!--The following is the downloaded HTML source of the gmacbank.com privacy policy that was archived on 2015-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150622052011id_/http%3A//www.ally.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gmacbank.com privacy policy that was archived on 2015-11-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151106010306id_/http%3A//www.ally.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-us" class="js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths ajax-init" style=""><!--<![endif]--><head>
 
   <link href="/resources/pres/global/images/favicon.ico" rel="shortcut icon" type="image/x-icon">
- <!-- <meta name="viewport" content="width=980, initial-scale=1, minimum-scale=1" />-->
-  <meta name="description" content="You take online privacy seriously and so does Ally Financial. We are committed to protecting the personal information of visitors to our websites.">
-  <meta name="keywords" content="ally privacy, ally online privacy">
+
+   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+
+
+  <meta name="description" content="You take online privacy seriously and so does Ally. We're committed to protecting the personal information of visitors to our websites. See our policy.">
+  <meta name="keywords" content="">
   <meta name="msvalidate.01" content="B1C4C84F64ABC83D6CBD494665ED43DE">
-  <title>Online Privacy | Ally Financial</title>
+  <title>Our Privacy Policy | Ally</title>
   <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-LGNT"></script><script type="application/ld+json">
 {
   "@context": "http://schema.org",
   "@type": "Organization",
-  "name": "Ally Financial",
-  "url": "http://www.ally.com/about/",
-  "logo": "http://www.ally.com/resources/pres/marketing/images/seo/Ally.png",
+  "name": "Ally",
+  "url": "http://www.ally.com",
+  "contactPoint" : [
+    { "@type" : "ContactPoint",
+      "telephone" : "+1-888-925-2559",
+      "contactType" : "customer support, Ally phone number, Ally 
+Financial phone number", 
+      "contactOption" : "TollFree",
+      "areaServed" : "US",
+      "availableLanguage": ["English", "Spanish"]} ],
+  "logo": 
+"http://www.ally.com/resources/pres/marketing/images/seo/Ally.png",
   "sameAs": [
-    "https://www.facebook.com/pages/Ally-Financial/125498840797441",
+    "https://twitter.com/ally",
     "https://www.linkedin.com/company/ally-financial-inc"
   ],
-  
+"legalName" : "Ally Financial",
+     
 "subOrganization": [
     {
       "name": "Ally Bank",
       "url": "http://www.ally.com",
-      "logo": "http://www.ally.com/resources/pres/marketing/images/seo/AllyBank.png",
+      "contactPoint" : [
+    { "@type" : "ContactPoint",
+      "telephone" : "+1-877-247-2559",
+      "contactType" : "customer support, Ally Bank number, Ally Bank 
+phone number",
+      "contactOption" : "TollFree",
+      "areaServed" : "US",
+      "availableLanguage": ["English", "Spanish"]} ],
+      "logo": 
+"http://www.ally.com/resources/pres/marketing/images/seo/AllyBank.png",
       "member": {
       "@type": "Organization",
       "name": "Member FDIC"
@@ -42,7 +64,16 @@
     {
       "name": "Ally Auto",
       "url": "https://www.ally.com/auto/",
-      "logo": "http://www.ally.com/resources/pres/marketing/images/seo/AllyAuto.png",
+      "contactPoint" : [
+    { "@type" : "ContactPoint",
+      "telephone" : "+1-888-925-2559",
+      "contactType" : "customer support, Ally Auto number, Ally Auto 
+phone number",
+      "contactOption" : "TollFree",
+      "areaServed" : "US",
+      "availableLanguage": ["English", "Spanish"]} ],
+      "logo": 
+"http://www.ally.com/resources/pres/marketing/images/seo/AllyAuto.png",
       "sameAs": [
         "https://www.facebook.com/AllyAuto",
         "https://twitter.com/allyauto",
@@ -54,8 +85,16 @@
   ]
 }
 </script>
-<link href="/resources/builds/css/global.build.css?a0c9a2f7834440618f1cabd88610d16c" media="screen" rel="stylesheet" type="text/css">
-<link href="/resources/builds/css/channel.build.css?a0c9a2f7834440618f1cabd88610d16c" media="screen" rel="stylesheet" type="text/css">
+<script type="application/ld+json">
+{  "@context" : "http://schema.org",
+   "@type" : "WebSite",
+   "name" : "Ally",
+   "url" : "http://www.ally.com"
+}
+</script>
+
+<link href="/resources/builds/css/core.build.css?ff58ead9de3d40e58f3e7f8b4f650c05" media="screen" rel="stylesheet" type="text/css">
+
 
 
 
@@ -64,36 +103,48 @@
 	
 
 <script type="text/javascript">
-var ALLY = ALLY || {};
-ALLY.env = {
+/* New ally object */
+var ally = ally || {};
+ally.isResponsive = true;
+ally.env = {
   mobi_bank_base_url: "//ally.mobi",
   mobile_base_url: "//www.ally.com/files/landing/com_ally_m",
   desktop_base_url: "//www.ally.com"	
 }
+/* Legacy ally object references new ally object for backwards compatibility */
+var ALLY = ALLY || {};
+ALLY.isResponsive = ally.isResponsive;
+ALLY.env = {
+  mobi_bank_base_url: ally.env.mobi_bank_base_url,
+  mobile_base_url: ally.env.mobile_base_url,
+  desktop_base_url: ally.env.desktop_base_url
+}
 </script>
-<script src="/resources/builds/js/libraries-head.build.js?a0c9a2f7834440618f1cabd88610d16c"></script>
+<script src="/resources/builds/js/libraries-head.build.js?ff58ead9de3d40e58f3e7f8b4f650c05"></script>
 <!--[if lt IE 9]>
-<script src="/resources/pres/global/js/lib/selectivizr-1.0.2.js?a0c9a2f7834440618f1cabd88610d16c"></script>
-<script src="/resources/lib/js/respond.min.js?a0c9a2f7834440618f1cabd88610d16c"></script>
+<script src="/resources/pres/global/js/lib/selectivizr-1.0.2.js?ff58ead9de3d40e58f3e7f8b4f650c05"></script>
+<script src="/resources/lib/js/respond.min.js?ff58ead9de3d40e58f3e7f8b4f650c05"></script>
 <![endif]-->
-<script src="/resources/pres/global/js/mbox.js?a0c9a2f7834440618f1cabd88610d16c"></script><style>.mboxDefault { visibility:hidden; }</style>
+<script src="/resources/pres/global/js/mbox.js?ff58ead9de3d40e58f3e7f8b4f650c05"></script><style>.mboxDefault { visibility:hidden; }</style>
 
      <script src="/resources/pres/global/js/satelliteLib-5be9261470889c105665069b803d39f60dc1f480.js"></script>
 
-<script src="https://assets.adobedtm.com/f9694bc7fa11fc19f8b827551aa9747e11c3980c/s-code-contents-7683e79725d77663be11dbdce21e1491e7fec0cf.js"></script><script type="text/javascript" charset="iso-8859-1" src="https://chat.ally.com/visitor/addons/deploy.asp?site=64265650&amp;d_id=storefront"></script></head>
-<body class="contact-us-loaded">
+<link href="/resources/components/content-baseline/content-baseline.css" media="screen" rel="stylesheet" type="text/css">
+<script type="text/javascript" charset="iso-8859-1" src="https://chat.ally.com/visitor/addons/deploy.asp?site=64265650&amp;d_id=storefront"></script></head>
+<body>
       <a id="top" name="top"></a>
     <noscript><p class="no-js-message"><strong>Our site works better with JavaScript enabled.</strong>
       <a href="//www.ally.com/help/bank/account-administration.html#how-do-i-enable-javascript">Learn how to turn it on in
         your browser.</a></p></noscript>
-<div id="page" class="channel-product no-banner x local-tabs">
-
+<div id="page">
 
 <header class="site-header" id="header" aria-label="Ally Financial" role="banner">
+	
+	<!-- RESPONSIVE -->
 	<div class="global-nav">
 		<div class="row">
-			<a href="#" id="slider-icon" aria-label="Navigation Menu"><span class="icon-burger"></span></a>
-			<div id="global" class="global sm-col-5">
+			<a href="#" id="left-off-canvas-icon" aria-label="Navigation Menu" data-overlay="true"><span class="icon-burger"></span></a>
+			<div id="global" class="global sm-col-12 md-col-7 lg-col-6">
 				
 
 
@@ -105,42 +156,67 @@ ALLY.env = {
 
 
 <nav aria-label="Main">
-	<ul>
-		<li class="logo">
-			<a itemprop="url" href="/" title="Ally Logo"><span class="icon-ally"></span></a>
-		</li>
-		
-		<li><a href="/">Ally Bank</a></li>
-		<li><a href="/auto/">Ally Auto</a></li>
-		
-		<li><a href="/about/">About Us</a></li>
+	<ul class="hide-sm">
+	<li class="logo">
+		<a itemprop="url" href="/" title="Ally Logo"><span class="icon-ally"></span></a>
+	</li>
+	
+	<li><a href="/">Ally Bank</a></li>
+	<li><a href="/auto/">Ally Auto</a></li>
+	
+	<li><a href="/about/">About Us</a></li>
 	</ul>
+	
+	<div class="logo centered show-sm hide-md-up">
+		<a itemprop="url" href="/" title="Ally Logo"><span class="icon-ally"></span></a>
+	</div>
+	
 </nav>
 			</div>
-			<div id="utilities" class="utilities sm-col-7">
+			<div id="utilities" class="utilities md-col-5 lg-col-6">
 				
 
+
+
+
+
+
+
+
+
+
 <nav aria-label="Login, Contact, Search and Help">
+	
+	<!-- RESPONSIVE PAGES -->
 	<ul>
-		<li class="search-container">
+		<!-- STANDARD SEARCH BAR -->
+		<li class="search-container hide-sm hide-md">
 			
 
-<div id="search" class="live-search" role="search" aria-label="Search Ally.com" data-overlay="true">
+
+
+
+
+
+<div data-searchid="1" class="live-search" role="search" aria-label="Search Ally.com" data-overlay="true">
 	<form method="get" action="/search/index.html">
-		<label for="search-input" class="visuallyhidden">Enter Search Keywords</label>
-		<input type="search" name="term" id="search-input" class="search-input" placeholder="Search" autocomplete="off">
+		<label for="search-input1" class="visuallyhidden">Enter Keywords</label>
+		<input type="search" name="term" id="search-input1" class="search-input" placeholder="Search" autocomplete="off">
 		<input type="hidden" name="context" value="">
 		<input type="hidden" name="domain" value="www.ally.com">
 		<input type="hidden" name="filter" value="">
 		<input class="search-submit" type="submit" value="" aria-label="Search Button">
 		<button class="search-icon" data-id="search-button" tabindex="-1"><span class="icon-magnify"></span></button>
 	</form>
+<button class="clear-icon hide-lg-up" data-id="clear-button" tabindex="-1"> 
+<span class="icon-cancel"></span> 
+</button>
 	<div class="search-results" data-id="search-results">
 		<nav aria-label="Search Results" aria-expanded="false">
-			<div class="header">Top results</div>
+			<div class="header">Top Results</div>
 			<ul>
 				<li class="view-all" data-id="view-all">
-					<a href="/search/index.html" aria-label="View All Search Results"><span class="icon-magnify"></span>See	all results
+					<a href="/search/index.html" aria-label="View All Search Results"><span class="icon-magnify" style="display: inline;"></span>See	all results<span class="icon-rarrow"></span>
 					</a>
 				</li>
 			</ul>
@@ -148,14 +224,24 @@ ALLY.env = {
 	</div>
 </div>
 		</li>
-		<li class="link-container">
-			<a href="/help/privacy-security.html#regional=privacy-security">Help</a>
+		<!-- FULL WIDTH SEARCH BTN (always searchid #3) -->
+		<li class="search-container hide-sm hide-lg-up">
+			<button class="search-trigger" data-id="search-button" data-searchid="3" data-overlay="true">
+				<span class="icon-magnify"></span>
+			</button>
 		</li>
-		<li class="link-container">
-			<a href="/contact-us/">Contact</a>
+		<li class="link-container hide-sm">
+			<a href="/help/&#10;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;privacy-security.html&#10;&#9;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;">
+				<span class="icon-question hide-xl"></span><span class="hide-sm hide-md hide-lg">Help</span>
+			</a>
+		</li>
+		<li class="link-container hide-sm">
+			<a href="/contact-us/&#10;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;">
+				<span class="icon-phone hide-xl"></span><span class="hide-sm hide-md hide-lg">Contact</span>
+			</a>
 		</li>
 		
-		<li class="button-container">
+		<li class="login-container">
 			
 
 
@@ -168,7 +254,7 @@ ALLY.env = {
 	<!-- if default login is bank (show default-bank) -->
 	<a class="cta-button with-lock no-shadow alt-1 min" href="https://securebanking.ally.com" data-id="default-bank" style="display:none" data-track="bank-direct" aria-label="Bank Log In">Log In</a>
 	<!-- if default login is auto (show default-auto) -->
-	<a data-id="default-auto" style="display:none" class="cta-button with-lock no-shadow alt-1 min" href="https://www.ally.com/login/auto/" aria-label="Auto Log In" data-track="auto-direct">Log In</a>
+	<a data-id="default-auto" style="display:none" class="with-lock cta-button no-shadow alt-1 min" href="https://www.ally.com/login/auto/" aria-label="Auto Log In" data-track="auto-direct">Log In</a>
 	<!-- if default login is set to auto or bank (show default-splitter) -->
 	<button type="button" class="cta-button with-darrow no-shadow alt-3 min" data-id="default-splitter" style="display:none" data-toggle="login-splitter" data-track="login-pref" data-type="carrot" aria-label="Log In Options" aria-controls="login-modal" aria-owns="login-modal" tabindex="0" data-overlay="true"></button>
 	<!-- no login preference (shown by default) -->
@@ -210,30 +296,74 @@ ALLY.env = {
 		</form>
 	</div>
 </div>
+			<!-- <a href="#" id="right-off-canvas-icon" aria-label="Login Menu">Log In</a> -->
 		</li>
 		
 	</ul>
+	
+	
 </nav>
 			</div>
 		</div>
+		<!-- FULL-WIDTH SEARCH BAR (always searchid #3) -->
+		
+
+
+
+
+
+<div data-searchid="3" class="hide-sm search-container live-search full-width" role="search" arial-label="Search Ally.com" data-overlay="true">
+	<div class="row">
+		<div class="md-col-11">
+			<form method="get" action="/search/index.html">
+				<label for="search-input3" class="visuallyhidden">Enter Search Keywords</label>
+				<input type="search" name="term" id="search-input3" class="search-input" placeholder="Search" autocomplete="off">
+				<input type="hidden" name="context" value="">
+				<input type="hidden" name="domain" value="www.ally.com">
+				<input type="hidden" name="filter" value="">
+				<input class="search-submit" type="submit" value="" aria-label="Search Button">
+				<button class="search-icon" data-id="search-button" tabindex="-1">
+					<span class="icon-magnify"></span>
+				</button>
+			</form>
+			<button class="clear-icon" data-id="clear-button" tabindex="-1">
+				<span class="icon-cancel"></span>
+			</button>
+		</div>
+		<div class="md-col-1 centered">
+			<button data-id="cancel-button" class="search-cancel">Cancel</button>
+		</div>
+	</div>
+	<div class="search-results" data-id="search-results">
+		<nav aria-label="Search Results" aria-expanded="false">
+			<div class="header">Top Results</div>
+			<ul>
+				<li class="view-all" data-id="view-all">
+					<a href="/search/index.html" aria-label="View All Search Results"><span class="icon-magnify" style="display: inline;"></span>See	all results<span class="icon-rarrow"></span></a>
+				</li>
+			</ul>
+		</nav>
+	</div>
+</div>
 	</div>
 	
 	
+		
 
 
 
 
 
 
-<div class="info-bar" id="info-bar">
+<div class="info-bar sticky-nav" id="info-bar">
 	<div class="row">
 		<div class="sm-col-3">
-			<nav aria-label="Page Breadcrumbs" id="nav-breadcrumbs"><ul class="breadcrumbs"><li class="b0 "><a href="/">Ally Home</a></li><li class="b1 last">&nbsp;Privacy</li></ul></nav>
+			<nav aria-label="Page Breadcrumbs" id="nav-breadcrumbs"><ul class="breadcrumbs"><li class="b0 "><a href="/">Ally Home</a></li><li class="b1 last">Privacy</li></ul></nav>
 		</div>
 		<div class="sm-col-5">
 			<span id="bank-info-container">
 				<ul class="bullets" id="bank-info">
-					<li><span class="label">Bank:</span> <span class="chat"></span>	<span data-tel="1-877-247-2559">1-877-247-ALLY (2559)</span></li>
+					<li><span class="label">Bank:</span> <span class="chat" id="chatlinktop"></span>	<span data-tel="1-877-247-2559">1-877-247-2559</span></li>
 					<li>Open 24/7</li>
 					<li data-id="bank-cwt" class="">Wait Time: 3 min</li>
 				</ul>
@@ -242,153 +372,438 @@ ALLY.env = {
 		<div class="sm-col-4 align-right">
 			<span id="auto-info-container">
 				<ul class="bullets push-right" id="auto-info">
-					<li><span class="label">Auto:</span> <span data-tel="1-888-925-2559">1-888-925-ALLY (2559)</span></li>
-					<li><a href="/help/glossary/auto/index.html#term-hours-of-operation" data-tooltip="true">Hours of Operation</a></li>
+					<li><span class="label">Auto:</span> <span data-tel="1-888-925-2559">1-888-925-2559</span></li>
+					<li><a href="/help/glossary/auto/index.html#term-hours-of-operation" data-tooltip="true">Hours<span class="hide-text"> of Operation</span></a></li>
 				</ul>
 			</span>
 		</div>
 	</div>
-</div>
+</div><div class="placeholder" style="height: 31px;" data-height="31"></div>
 
+		
+			
+
+
+
+
+
+<div class="left-off-canvas" id="left-off-canvas" data-overlay="true">
+	<nav id="left-menu" class="menu search">
+		<ul>
+			<li class="search-container">
+				
+
+
+
+
+
+
+<div data-searchid="2" class="live-search" role="search" aria-label="Search Ally.com" data-overlay="true">
+	<form method="get" action="/search/index.html">
+		<label for="search-input2" class="visuallyhidden">Enter Keywords</label>
+		<input type="search" name="term" id="search-input2" class="search-input" placeholder="Search" autocomplete="off">
+		<input type="hidden" name="context" value="">
+		<input type="hidden" name="domain" value="www.ally.com">
+		<input type="hidden" name="filter" value="">
+		<input class="search-submit" type="submit" value="" aria-label="Search Button">
+		<button class="search-icon" data-id="search-button" tabindex="-1"><span class="icon-magnify"></span></button>
+	</form>
+<button class="clear-icon hide-lg-up" data-id="clear-button" tabindex="-1"> 
+<span class="icon-cancel"></span> 
+</button>
+	<div class="search-results" data-id="search-results">
+		<nav aria-label="Search Results" aria-expanded="false">
+			<div class="header">Top Results</div>
+			<ul>
+				<li class="view-all" data-id="view-all">
+					<a href="/search/index.html" aria-label="View All Search Results"><span class="icon-magnify"></span>See	all results<span class="icon-rarrow" style="display: inline;"></span>
+					</a>
+				</li>
+			</ul>
+		</nav>
+	</div>
+</div>
+			</li>
+			<li class="main-link has-dropdown"><span class="icon-piggybank"></span><a href="/">Ally Bank</a>
+				<ul style="display: none;">
+    <li class="has-dropdown has-carrot"><a href="/bank/savings-account-rates/">Savings</a>
+      <ul style="display: none;">
+        <li><a href="/bank/online-savings-account/">Online Savings</a></li>
+        <li><a href="/bank/money-market-account/">Money Market</a></li>
+        <li><a href="/bank/savings-account-rates/">Compare All Savings</a></li>
+      </ul>
+    </li>
+    <li class="has-dropdown has-carrot"><a href="/bank/cd-rates/">CDs</a>
+      <ul style="display: none;">
+        <li><a href="/bank/high-yield-cd/">High Yield CD</a></li>
+        <li><a href="/bank/raise-your-rate-cd/">Raise Your Rate CD</a></li>
+        <li><a href="/bank/no-penalty-cd/">No Penalty CD</a></li>
+        <li><a href="/bank/cd-rates/">Compare All CDs</a></li>
+      </ul>
+    </li>
+    <li class="has-dropdown has-carrot"><a href="/bank/ira/ira-account/">IRAs</a>
+      <ul style="display: none;">
+        <li><a href="/bank/ira/high-yield-cd/">IRA High Yield CD</a></li>
+        <li><a href="/bank/ira/raise-your-rate-cd/">IRA Raise Your Rate CD</a></li>
+        <li><a href="/bank/ira/online-savings-account/">IRA Online Savings</a></li>
+        <li><a href="/bank/ira/ira-account/">Compare All IRAs</a></li>
+        <li><a href="/bank/about-iras/">About IRAs</a></li>
+      </ul>
+    </li>
+    <li><a href="/bank/interest-checking-account/">Checking</a></li>
+    <li class="has-dropdown has-carrot"><a href="/bank/online-banking/">Banking With Us</a>
+      <ul style="display: none;">
+        <li><a href="/bank/online-banking/">Why Bank With Us</a></li>
+        <li><a href="/bank/online-banking/how-to-bank-with-ally/">How to Bank With Us</a></li>
+      </ul>
+    </li>
+    <li><a href="tel:1-877-247-2559">Call to Open</a></li>
+</ul>
+			</li>
+			<li class="main-link has-dropdown"><span class="icon-car-front"></span><a href="/auto">Ally Auto</a>
+				<ul style="display: none;">
+    <li>      <a href="/auto/payment/" data-pane-id="payment"><span>Make a Payment</span></a>
+</li>
+    <li class="has-dropdown has-carrot"><a href="">Vehicle Financing</a>
+      <ul style="display: none;">
+        <li>      <a href="/auto/personal/" data-pane-id="personal"><span>Personal</span></a>
+</li>
+        <li>      <a href="/auto/business/" data-pane-id="business"><span>Business</span></a>
+</li>
+        <li>      <a href="/auto/rv-financing/" data-pane-id="rv-financing"><span>RV</span></a>
+</li>
+      </ul>
+    </li>
+    <li>      <a href="/auto/vehicle-protection/" data-pane-id="vehicle-protection"><span>Vehicle Protection</span></a>
+</li>
+    <li class="has-dropdown has-carrot"><a href="#">Tools</a>
+      <ul style="display: none;">
+        <li>      <a href="/auto/lease-end/" data-pane-id="lease-end"><span>Lease-End Process</span></a>
+</li>
+        <li>      <a href="/auto/calculators/car-payment-calculator.html" data-pane-id="car-payment-calculator"><span>Payment Calculator</span></a>
+</li>
+        <li>      <a href="http://www.allywalletwise.com" target="_blank" data-pane-id="www.allywalletwise.com"><span>Wallet Wise</span></a>
+</li>
+      </ul>
+    </li>
+    <li>      <a href="/auto/dealer-locator/" data-pane-id="dealer-locator"><span>Find a Dealer</span></a>
+</li>
+</ul>
+			</li>
+			<li class="main-link has-dropdown"><span class="icon-a"></span><a href="/about">About Us</a>
+				<ul style="display: none;">
+    <li><a href="/about/company-structure/">Our Company </a></li>
+    <li class="has-dropdown has-carrot"><a href="/about/investor/">Investor Relations</a>
+      <ul style="display: none;">
+        <li><a href="/about/investor/">Overview</a></li>
+        <li><a href="/about/investor/earnings-releases/">Financial Information</a></li>
+        <li><a href="/about/investor/events-presentations/">Events &amp; Presentations</a></li>
+        <li><a href="/about/investor/stock-information">Shareholder Information</a></li>
+        <li><a href="/about/investor/trust-securities/">Fixed Income</a></li>
+        <li><a href="/about/investor/demand-notes/">Demand Notes</a></li>
+        <li><a href="/about/investor/auto-securitization/">Securitization</a></li>
+        <li><a href="/about/investor/corporate-governance/">Corporate Governance</a></li>
+      </ul>
+    </li>
+    <li><a href="/about/media-center/">Media Center</a></li>
+    <li><a href="/about/community-relations/">Giving Back</a></li>
+    <li><a href="/about/careers/">Careers</a></li>
+    <li><a href="/about/suppliers">Suppliers</a></li>
+</ul>
+			</li>
+			<li class="main-link">
+				<a href="/contact-us/">Contact</a>
+			</li>
+			<li class="main-link">
+				<a href="/help/privacy-security.html">Help</a>
+			</li>
+		</ul>
+	</nav>
+</div>
+			
+		
 </header>
 <div id="alert_banner">
 	<div class="mboxDefault" data-mboxid="ally_storefront_header_msg" id="ally-storefront-header-msg"></div>
 </div>
-  <div id="content">
-    <h1>Privacy</h1> 
-<div id="limit">
-  <article id="article" class="tabs-content" style="visibility: visible; min-height: 2525px; overflow: visible;"> 
-      <div id="privacy" class="tabs-pane" style="display: block; opacity: 1;">
-        <div class="cols xi">
-  <div class="a">
-  
-  <section>
-<h2>Online Privacy Policy</h2>
-<h3>Overview of Online Privacy Policy for Ally</h3>
-									<p>You take online privacy seriously, and so does the Ally group of companies (“Ally”), which includes Ally Financial and Ally Bank. At Ally, we’re committed to protecting the personal information of visitors to our websites.</p>
-									<p>Our online privacy policy describes the information we collect from and about you during your visit to our websites. It also describes how we use information about you, with whom we share it and how we protect it. This policy applies only to those Ally websites that link directly to this policy.</p>
-									<p>It’s important to know that our websites may contain links to third party sites not controlled by Ally or covered by this online privacy policy. We recommend that you check the privacy statements of other sites you visit before providing any personal information.</p>
-									<p>Once you become a customer of Ally, and once a year while you remain a customer of Ally, we will provide you with a Privacy Notice describing our privacy practices. It will describe and provide any updates to the collection and sharing of personal information about our customers, as required by law.</p>
-									<h3>What personal information does Ally collect online?</h3>
-									<p>We collect personally identifiable information (“PII”) about you from the information you provide to us when you visit our websites. The information we collect will depend on the Ally website you visit. This information may include, but is not limited to:</p>
-									<ul>
-										<li>Name</li>
-										<li>Address</li>
-										<li>Social Security number in whole or in part</li>
-										<li>Phone numbers (including mobile)</li>
-										<li>Account number</li>
-										<li>Account number at a bank or other financial institution, type of bank account and the name of bank or other financial institution</li>
-										<li>Demand Note number</li>
-										<li>Email address</li>
-										<li>Email referral information</li>
-										<li>Date of birth</li>
-										<li>Current residential information including mortgage or rent payments</li>
-										<li>Employment information</li>
-										<li>Income information</li>
-									</ul>
-									<h3>How does Ally use the personal information it collects online?</h3>
-									<p>We use personal information collected online for various functions, which may include:</p>
-									<ul>
-										<li>processing your request for services, products or information</li>
-										<li>improving our customer service and products</li>
-										<li>servicing your account</li>
-										<li>facilitating your participation in online activities.</li>
-									</ul>
-									<p>For example, we may use the information you provide when you complete an online application for a product or service in order to process and evaluate your application. If you request product information, we may use the information you provide to mail you information you request.</p>
-									<p>We may also use the information you provide to contact you regarding your account and to process or collect payments. In addition, we may collect and use information for analytic purposes, market research or for marketing purposes, as allowed by law.</p>
-									<h3>Does Ally share the personal information it collects online?</h3>
-									<p>We may share the personal information we collect about you with third parties, such as companies performing services on our behalf to provide the products or services you have requested.</p>
-									<p>As permitted by law, we may also share information collected about you with companies with whom we have formal agreements to offer you financial products and services.</p>
-									<p>We may share information about you with our affiliates (other companies in the Ally family) and with nonaffiliates for analysis, market research and marketing purposes as allowed by law.</p>
-									<p>Finally, we may disclose your personal information as otherwise permitted or required by law.</p>
-									<h3>Does Ally use cookies or other online technologies to collect information?</h3>
-									<p>When you browse or visit one of our websites, we may store certain information on your computer. This information may be in the form of a small text file called a "cookie" and can help us to tailor our sites to your individual preferences and save you time if you visit the site again. For example, cookies may be used to remember your bank or auto login preference. Where our websites support it, to save you time we may offer you the option to save your username and/or remember your computer by putting a cookie on your machine. Other online technologies we use may include Flash® objects (sometimes called "Local Shared Objects") as part of our online authentication measures if you ask us to remember your computer. Flash objects help us recognize your computer when you come back to our site. We do not use Flash objects for any online behavioral advertising purpose.</p>
-									<p><em>Can I disable or delete cookies?</em>
-										<br>
-You can disable cookies by making the appropriate selection from your browser options to inform you when cookies are set or to prevent cookies from being set. However, if you choose to disable or delete cookies, you may limit the functionality we can provide when you visit our site. Deleting cookies does not delete Flash objects.</p>
-									<p><em>Does Ally track your online activity on our websites?</em>
-										<br>
-We may use online tracking technologies, such as cookies, to gather anonymous, aggregate information about your visit to our websites. This information allows us to measure site activity and to create ideas for improving our sites and may include the time and length of your visit, the pages you look at on our sites, the website you visited just before coming to ours and your internet service provider. If we provide you with a link from an Ally site to another site, we may track the fact that you clicked the link. This will help us understand which links are helpful to you when you visit our site, and will help us provide you with links that may be of interest to you, when you visit our site again.</p>
-									<p><em>Does Ally use online behavioral advertising (OBA) on third party sites?</em>
-										<br>
-Yes, we utilize OBA on third party websites and mobile apps that are not affiliated with Ally. The third parties with which Ally contracts may use cookies or other technologies for OBA. Neither the third parties nor Ally collects any personally identifiable information (PII) through these cookies. We may also use aggregate data to display ads or content that may be relevant or of interest to you. Examples of aggregate data include, but are not limited to, pages visited or keyword searches. Anyone receiving an online behavioral ad may opt-out by clicking the third party site’s Advertising Option icon (Ad Choices) associated with the ad or visiting the third party website's privacy policy for an opt-out mechanism, if any.</p>
-									<p><em>How do our websites respond to web browser “Do Not Track” signals?</em>
-										<br>
-We do not respond to Web browser “Do Not Track” signals at this time. To prevent Ally or third parties from tracking, you can access your browser settings and disable or delete your cookies.</p>
-									<h3>How can I change or update my personal information with Ally?</h3>
-									<p>If you have questions about personal information you provided on an Ally website, select the "Contact Us" link – usually found in the navigation menu – or log into your Ally Auto account and select Account Information to edit your personal information or your Ally Bank account and select My Profile to edit your personal information.</p>
-									<h3>What steps does Ally take to protect personal information it collects online?</h3>
-									<p>We restrict access to the personal information obtained from our website to only those employees, agents and contractors who need it to do their jobs. We maintain administrative, technical, and physical safeguards designed to protect your personal information.</p>
-									<p>Additionally, companies that provide online services on our behalf are required by contract to protect customer information. They are only allowed to use the information they collect for the purpose of providing the services that we have contracted to them.</p>
-									<h3>Does Ally collect personal information online about children?</h3>
-									<p>We don’t intentionally collect or maintain data about children under 13 unless the personal information is provided by a parent, legal guardian or authorized adult. Our websites are not intended for children under 13.</p>
-									<h3>Does Ally make public forums available on its websites?</h3>
-									<p>Public forums are available on our websites, and they may include text, photographs and videos that are accessible to the general public. Unless we tell you otherwise, any information you disclose in these areas may become public information. You should use caution when deciding to disclose personal information in these areas.</p>
-									<h3>Will Ally make changes to this online privacy policy?</h3>
-									<p>This policy is effective January 1, 2014. We reserve the right to alter this policy at our discretion. Any change to this policy will be posted on our websites in a timely manner.</p>
-</section>
-  </div>
-  <div class="b">
-  
-  <section>
-<h3>Related links</h3>
-<p>
-										<a href="/privacy/preferences">Manage My Privacy Preferences</a>
-										<br>
-										<a href="/security/index.html">Security Guarantee</a></p>
-</section>
-  </div>
-</div>
-        
-        
-        
-     </div>    
-          <div id="local">
-	<div class="tabs horizontal">
-	  <ul class="nav-tree">
-<li class="first active">
-	          <a href="/privacy/" data-pane-id="privacy"><span>Online Privacy</span></a>
-	    </li><li class="last">
-	          <a href="/privacy/ssn.html" data-pane-id="ssn"><span>SSN Privacy Protection Policy</span></a>
-	    </li>	  </ul>
-	</div>
-</div>
-  <div class="sizing-container"></div><div class="tabs-pane" id="ssn" style="display: none;"></div></article>
-  <div id="banner">
-  </div>
-</div>
+<main id="content">
+    <article class="article simple-article">
+          <section>
+               <div class="row">
+                <div class="sm-col-12"><header>
+    <h1>Privacy</h1>
+</header></div>
+               </div>
+               <div class="row">
+                <div class="sm-col-12 md-col-8"><header>
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-  </div>
-  <div id="visual1">
+</header>
+    <h2>Online Privacy Policy</h2>
+    <p>You take online privacy seriously, and so does the Ally group of companies which includes Ally Financial and Ally Bank. At Ally, we’re committed to protecting the personal information of visitors to our websites.</p>
+    <p>Our online privacy policy describes the information we collect from and about you during your visit to our websites. It also describes how we use information about you, with whom we share it and how we protect it. This policy applies only to those Ally websites that link directly to this policy.</p>
+    <p>It's important to know that our websites may contain links to third party sites not controlled by Ally or covered by this online privacy policy. We recommend that you check the privacy statements of other sites you visit before providing any personal information.</p>
+    <p>Once you become a customer of Ally, and once a year while you remain a customer of Ally, we will provide you with a Privacy Notice describing our privacy practices. It will describe and provide any updates to the collection and sharing of personal information about our customers, as required by law.
+</p><ul class="accord faq close-all">
+  <li id="q-95585">
+    <div class="head">
+      <p>How does Ally use the personal information it collects online?</p>
+    </div>
+    <div class="body">
+        <p>We use personal information collected online for various functions, which may include:</p>
+<ul>
+<li>processing your request for services, products or information</li>
+<li>improving our customer service and products</li>
+<li>servicing your account</li>
+<li>facilitating your participation in online activities.</li>
+</ul>
+<p>For example, we may use the information you provide when you complete an online application for a product or service in order to process and evaluate your application. If you request product information, we may use the information you provide to mail you information you request.</p>
+<p>We may also use the information you provide to contact you regarding your account and to process or collect payments. In addition, we may collect and use information for analytic purposes, market research or for marketing purposes, as allowed by law.</p>
+      <div class="feedback">
+        <span>Was this helpful?</span>
+        <ul>
+          <li value="yes">Yes</li>
+          <li value="no">No</li>
+        </ul>
+      </div>
+    </div>
+  </li>
+  <li id="q-95586">
+    <div class="head">
+      <p>What personal information does Ally collect online?</p>
+    </div>
+    <div class="body">
+        <p>We collect personally identifiable information ("PII") about you from the information you provide to us when you visit our websites. The information we collect will depend on the Ally website you visit. This information may include, but is not limited to:</p>
+<ul>
+<li>Name</li>
+<li>Address</li>
+<li>Social Security number in whole or in part</li>
+<li>Phone numbers (including mobile)</li>
+<li>Account number</li>
+<li>Account number at a bank or other financial institution, type of bank account and the name of bank or other financial institution</li>
+<li>Demand Note number</li>
+<li>Email address</li>
+<li>Email referral information</li>
+<li>Date of birth</li>
+<li>Current residential information including mortgage or rent payments</li>
+<li>Employment information</li>
+<li>Income information</li>
+</ul>
+      <div class="feedback">
+        <span>Was this helpful?</span>
+        <ul>
+          <li value="yes">Yes</li>
+          <li value="no">No</li>
+        </ul>
+      </div>
+    </div>
+  </li>
+  <li id="q-95587">
+    <div class="head">
+      <p>Does Ally share the personal information it collects online?</p>
+    </div>
+    <div class="body">
+        <p>We may share the personal information we collect about you with third parties, such as companies performing services on our behalf to provide the products or services you have requested.</p>
+<p>As permitted by law, we may also share information collected about you with companies with whom we have formal agreements to offer you financial products and services.</p>
+<p>We may share information about you with our affiliates (other companies in the Ally family) and with nonaffiliates for analysis, market research and marketing purposes as allowed by law.</p>
+<p>Finally, we may disclose your personal information as otherwise permitted or required by law.</p>
+      <div class="feedback">
+        <span>Was this helpful?</span>
+        <ul>
+          <li value="yes">Yes</li>
+          <li value="no">No</li>
+        </ul>
+      </div>
+    </div>
+  </li>
+  <li id="q-95588">
+    <div class="head">
+      <p>Does Ally use cookies or other online technologies to collect information?</p>
+    </div>
+    <div class="body">
+        <p>When you browse or visit one of our websites, we may store certain information on your computer. This information may be in the form of a small text file called a "cookie" and can help us to tailor our sites to your individual preferences and save you time if you visit the site again. For example, cookies may be used to remember your bank or auto login preference. Where our websites support it, to save you time we may offer you the option to save your username and/or remember your computer by putting a cookie on your machine. Other online technologies we use may include Flash<sup>®</sup> objects (sometimes called "Local Shared Objects") as part of our online authentication measures if you ask us to remember your computer. Flash objects help us recognize your computer when you come back to our site. We do not use Flash objects for any online behavioral advertising purpose.</p>
+      <div class="feedback">
+        <span>Was this helpful?</span>
+        <ul>
+          <li value="yes">Yes</li>
+          <li value="no">No</li>
+        </ul>
+      </div>
+    </div>
+  </li>
+  <li id="q-62902">
+    <div class="head">
+      
+					<p>Can I disable or delete cookies?</p>
+				
+    </div>
+    <div class="body">
+        <p>You can disable cookies by making the appropriate selection from your browser options to inform you when cookies are set or to prevent cookies from being set. However, if you choose to disable or delete cookies, you may limit the functionality we can provide when you visit our site. Deleting cookies does not delete Flash objects.</p>
+      <div class="feedback">
+        <span>Was this helpful?</span>
+        <ul>
+          <li value="yes">Yes</li>
+          <li value="no">No</li>
+        </ul>
+      </div>
+    </div>
+  </li>
+  <li id="q-95589">
+    <div class="head">
+      <p>Does Ally track my online activity on your websites?</p>
+    </div>
+    <div class="body">
+        <p>We may use online tracking technologies, such as cookies, to gather anonymous, aggregate information about your visit to our websites. This information allows us to measure site activity and to create ideas for improving our sites and may include the time and length of your visit, the pages you look at on our sites, the website you visited just before coming to ours and your internet service provider. If we provide you with a link from an Ally site to another site, we may track the fact that you clicked the link. This will help us understand which links are helpful to you when you visit our site, and will help us provide you with links that may be of interest to you, when you visit our site again.</p>
+      <div class="feedback">
+        <span>Was this helpful?</span>
+        <ul>
+          <li value="yes">Yes</li>
+          <li value="no">No</li>
+        </ul>
+      </div>
+    </div>
+  </li>
+  <li id="q-62923">
+    <div class="head">
+      
+					<p>Does Ally use online behavioral advertising (OBA) on third party sites?</p>
+				
+    </div>
+    <div class="body">
+        <p>Yes, we utilize OBA on third party websites and mobile apps that are not affiliated with Ally. The third parties with which Ally contracts may use cookies or other technologies for OBA. Neither the third parties nor Ally collects any personally identifiable information (PII) through these cookies. We may also use aggregate data to display ads or content that may be relevant or of interest to you. Examples of aggregate data include, but are not limited to, pages visited or keyword searches. Anyone receiving an online behavioral ad may opt-out by clicking the third party site’s Advertising Option icon (Ad Choices) associated with the ad or visiting the third party website's privacy policy for an opt-out mechanism, if any.</p>
+      <div class="feedback">
+        <span>Was this helpful?</span>
+        <ul>
+          <li value="yes">Yes</li>
+          <li value="no">No</li>
+        </ul>
+      </div>
+    </div>
+  </li>
+  <li id="q-95590">
+    <div class="head">
+      <p>How do your websites respond to web browser "Do Not Track" signals?</p>
+    </div>
+    <div class="body">
+        <p>We do not respond to Web browser "Do Not Track" signals at this time. To prevent Ally or third parties from tracking, you can access your browser settings and disable or delete your cookies.</p>
+      <div class="feedback">
+        <span>Was this helpful?</span>
+        <ul>
+          <li value="yes">Yes</li>
+          <li value="no">No</li>
+        </ul>
+      </div>
+    </div>
+  </li>
+  <li id="q-95591">
+    <div class="head">
+      <p>How can I change or update my personal information with Ally?</p>
+    </div>
+    <div class="body">
+        <p>If you have questions about personal information you provided on an Ally website, select the "Contact Us" link – usually found in the navigation menu – or log into your Ally Auto account and select Account Information to edit your personal information or your Ally Bank account and select My Profile to edit your personal information.</p>
+      <div class="feedback">
+        <span>Was this helpful?</span>
+        <ul>
+          <li value="yes">Yes</li>
+          <li value="no">No</li>
+        </ul>
+      </div>
+    </div>
+  </li>
+  <li id="q-95592">
+    <div class="head">
+      <p>What steps does Ally take to protect personal information it collects online?</p>
+    </div>
+    <div class="body">
+        <p>We restrict access to the personal information obtained from our website to only those employees, agents and contractors who need it to do their jobs. We maintain administrative, technical, and physical safeguards designed to protect your personal information.</p>
+<p>Additionally, companies that provide online services on our behalf are required by contract to protect customer information. They are only allowed to use the information they collect for the purpose of providing the services that we have contracted to them.</p>
+      <div class="feedback">
+        <span>Was this helpful?</span>
+        <ul>
+          <li value="yes">Yes</li>
+          <li value="no">No</li>
+        </ul>
+      </div>
+    </div>
+  </li>
+  <li id="q-95593">
+    <div class="head">
+      <p>Does Ally collect personal information online about children?</p>
+    </div>
+    <div class="body">
+        <p>We don't intentionally collect or maintain data about children under 13 unless the personal information is provided by a parent, legal guardian or authorized adult. Our websites are not intended for children under 13.</p>
+      <div class="feedback">
+        <span>Was this helpful?</span>
+        <ul>
+          <li value="yes">Yes</li>
+          <li value="no">No</li>
+        </ul>
+      </div>
+    </div>
+  </li>
+  <li id="q-95594">
+    <div class="head">
+      <p>Does Ally make public forums available on its websites?</p>
+    </div>
+    <div class="body">
+        <p>Public forums are available on our websites, and they may include text, photographs and videos that are accessible to the general public. Unless we tell you otherwise, any information you disclose in these areas may become public information. You should use caution when deciding to disclose personal information in these areas.</p>
+      <div class="feedback">
+        <span>Was this helpful?</span>
+        <ul>
+          <li value="yes">Yes</li>
+          <li value="no">No</li>
+        </ul>
+      </div>
+    </div>
+  </li>
+  <li id="q-95595">
+    <div class="head">
+      <p>Will Ally make changes to this online privacy policy?</p>
+    </div>
+    <div class="body">
+        <p>This policy is effective January 1, 2015. We reserve the right to alter this policy at our discretion. Any change to this policy will be posted on our websites in a timely manner.</p>
+      <div class="feedback">
+        <span>Was this helpful?</span>
+        <ul>
+          <li value="yes">Yes</li>
+          <li value="no">No</li>
+        </ul>
+      </div>
+    </div>
+  </li>
+</ul><h2>Social Security Number Privacy Protection Policy</h2>
+    <p>The <a href="/help/glossary/bank/index.html#term-ally-group-of-companies" rel="glossary" class="tooltip-link">Ally&nbsp;group&nbsp;of&nbsp;companies&nbsp;</a> ("Ally") collects Social Security numbers as necessary to support state and federal legal requirements, to provide products or services to you and to meet needs within our Human Resources unit. To support these requirements, we restrict the access to Social Security numbers only to employees, agents, service providers, and government entities that require access to Social Security numbers to meet these purposes. We strive to protect Social Security numbers from unlawful disclosure and keep them confidential by maintaining administrative, technical, and physical safeguards that comply with applicable state and federal regulations.</p></div>
+                <div class="sm-col-12 md-col-3 md-offset-col-1"><h3>Related Links</h3>
+    <ul class="url-list">
+      <li>
+      <a href="/privacy/preferences">Manage My Privacy Preferences</a>
+      </li>
+      <li>
+      <a href="/security/">Security</a>
+      </li>
+    </ul></div>
+               </div>
+          </section>
+    </article>
+  </main><div id="visual1">
       
 </div>
     <div id="visual2"></div>
     <div id="visual3"></div>
     <div id="visual4"></div>
-  </div>
-  <div id="hidden-breadcrumbs" class="hidden"><ul class="breadcrumbs"><li class="b0 "><a href="/">Ally Home</a></li><li class="b1 last">&nbsp;Privacy</li></ul></div>
-  <footer id="footer" class="site-footer">
+</div>
+  <div id="hidden-breadcrumbs" class="hidden" style=""><ul class="breadcrumbs"><li class="b0 "><a href="/">Ally Home</a></li><li class="b1 last">Privacy</li></ul></div>
+  
+
+
+
+
+
+<footer id="footer" class="site-footer">
+	
+	<!-- RESPONSIVE -->
 	<div class="row">
 		<nav aria-label="Footer">
-			<div class="column sm-col-3">
+			<div class="column sm-col-12 md-col-4 lg-col-3">
 				<div class="column-title" id="column1-title">About Us</div>
 				<ul aria-labelledby="column1-title">
 					<li class=" first"> 
@@ -408,7 +823,7 @@ We do not respond to Web browser “Do Not Track” signals at this time. To pre
 </li>
 				</ul>
 			</div>
-			<div class="column sm-col-3">
+			<div class="column sm-col-12 md-col-4 lg-col-3">
 				<div class="column-title" id="column2-title">Ally Financial</div>
 				<ul aria-labelledby="column2-title">
 					<li class=" first"> 
@@ -418,14 +833,14 @@ We do not respond to Web browser “Do Not Track” signals at this time. To pre
       <a href="/auto/" data-pane-id="auto"><span>Ally Auto</span></a>
 </li>
   <li class=" "> 
-      <a href=" /dealer/" data-pane-id="dealer"><span>Dealer Services</span></a>
+      <a href="/dealer/" data-pane-id="dealer"><span>Dealer Services</span></a>
 </li>
   <li class=" last"> 
       <a href="/corporate-finance/" data-pane-id="corporate-finance"><span>Corporate Finance</span></a>
 </li>
 				</ul>
 			</div>
-			<div class="column sm-col-2">
+			<div class="column sm-col-12 md-col-4 lg-col-2">
 				<div class="column-title" id="column3-title">Resources</div>
 				<ul aria-labelledby="column3-title">
 					
@@ -436,7 +851,7 @@ We do not respond to Web browser “Do Not Track” signals at this time. To pre
       <a href="/contact-us/" data-pane-id=""><span>Contact</span></a>
 </li>
   <li class=" "> 
-      <a href="/help/privacy-security.html#regional=privacy-security" data-pane-id=""><span>Help Center</span></a>
+      <a href="/help/privacy-security.html" data-pane-id=""><span>Help Center</span></a>
 </li>
   <li class=" last"> 
       <a href="/sitemap/" data-pane-id="sitemap"><span>Site Map</span></a>
@@ -445,34 +860,28 @@ We do not respond to Web browser “Do Not Track” signals at this time. To pre
 				</ul>
 			</div>
 		</nav>
-		<div class="sm-col-4 align-right">
+		<div class="sm-col-12 md-col-12 lg-col-4 align-right">
 			<div class="social" id="social">
 				<div class="social-tabs" id="social-tabs">
-					<ul>
-						
-					</ul>
+					<ul><li data-id="blog" class="blog on"><a href="https://web.archive.org/web/20151106010307/http://community.ally.com/straight-talk/" target="_blank" title="Ally Bank Straight Talk blog"><span class="icon-a"></span></a></li><li data-id="facebook" class="facebook"><a href="https://web.archive.org/web/20151106010307/https://www.facebook.com/allybank" target="_blank" title="Ally Bank Facebook"><span class="icon-facebook"></span></a></li><li data-id="twitter" class="twitter"><a href="https://web.archive.org/web/20151106010307/https://twitter.com/allybank" target="_blank" title="Ally Bank Twitter"><span class="icon-twitter-bird"></span></a></li><li data-id="google" class="google"><a href="https://web.archive.org/web/20151106010307/https://plus.google.com/+allybank" target="_blank" title="Ally Bank Google+"><span class="icon-google-plus"></span></a></li><li data-id="youtube" class="youtube"><a href="https://web.archive.org/web/20151106010307/https://www.youtube.com/user/ally" target="_blank" title="Ally Bank YouTube"><span class="icon-youtube"></span></a></li></ul>
 				</div>
-				<div class="social-content" id="social-content">
-					<span class="social-post" id="social-post"></span>
-				</div>
+				<div class="social-content" id="social-content" style="display: block;">
+					<span class="social-post" id="social-post"><p class="large buffer-bottom"><a href="https://web.archive.org/web/20151106010307/http://community.ally.com/straight-talk/" target="_blank" title="Ally Bank Straight Talk blog">Ally Bank Blog</a></p><p class="bold"></p><p class="buffer-top">This feed is currently unavailable.</p></span>
+				<div class="loader"></div></div>
 			</div>
 		</div>
 	</div>
 	<div class="row base">
-		<div class="md-col-3">
-			<div id="copyright">
+		<div class="hide-sm md-col-4">
+			<div class="copyright" data-id="copyright">
 	
 	<p>©2009-2015 Ally Financial Inc.</p>
 </div>
 		</div>
-		<div class="md-col-9">
+		<div class="hide-sm md-col-8 clearfix">
 			<div class="links">
 				<nav aria-label="Security, Privacy And Legal">
 					<ul>
-						
-						
-						
-						
 						<li><a href="/security/">Security</a></li>
 						<li><a href="/privacy/">Privacy</a></li>
 						<li><a href="/legal/">Legal</a></li>
@@ -481,13 +890,34 @@ We do not respond to Web browser “Do Not Track” signals at this time. To pre
 				</nav>
 			</div>
 		</div>
+		<div class="sm-center-col-11 hide-md-up">
+			<div class="links pad-top">
+				<nav aria-label="Security, Privacy And Legal">
+					<ul>
+						<li><a href="/security/">Security</a></li>
+						<li><a href="/privacy/">Privacy</a></li>
+						<li><a href="/legal/">Legal</a></li>
+					</ul>
+				</nav>
+			</div>
+		</div>
+		<div class="sm-center-col-11 hide-md-up pad-top">
+			<div class="copyright" data-id="copyright">
+	
+	<p>©2009-2015 Ally Financial Inc.</p>
+</div>
+		</div>
+		
 	</div>
+	
 </footer>
   
 
-<script src="/resources/builds/js/libraries.build.js?a0c9a2f7834440618f1cabd88610d16c"></script>
-<script src="/resources/builds/js/global.build.js?a0c9a2f7834440618f1cabd88610d16c"></script>
-<script src="/resources/builds/js/channel.build.js?a0c9a2f7834440618f1cabd88610d16c"></script>
+<script src="/resources/builds/js/libraries.build.js?ff58ead9de3d40e58f3e7f8b4f650c05"></script>
+<script src="/resources/pres/channel/js/wa_config.js?ff58ead9de3d40e58f3e7f8b4f650c05"></script>
+
+<script src="/resources/builds/js/core.build.js?ff58ead9de3d40e58f3e7f8b4f650c05"></script><div id="tooltip" class="tooltip flat" role="tooltip"><div class="tooltip-content"></div><div class="arrow"></div><span class="icon-cancel"></span></div><div id="tooltip-0" role="tooltip" class="tooltip"><div class="tooltip-content"></div><div class="tooltip-arrow"></div></div>
+
 
     <!--BEGIN QUALTRICS SITE INTERCEPT-->
 <script type="text/javascript">
@@ -522,8 +952,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); 
   })(); 
 </script>
-<!--  Created: 4/2/2015 2:36:02 PM CST 
-      Published: 4/21/2015 10:59:52 PM CST
+<!--  Created: 8/13/2015 1:51:37 PM CST 
+      Published: 8/18/2015 7:05:49 PM CST
  
  -->
 <!--
@@ -548,4 +978,4 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             G0000001        00000000000
 -->
 
-<div id="tooltip" class="tooltip flat" role="tooltip"><div class="tooltip-content"></div><div class="arrow"></div><span class="icon-cancel"></span></div><script type="text/javascript" src="https://zn_baufuuufwz4y0zr-ally.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_ZID=ZN_bauFuuufwz4Y0zr&amp;Q_LOC=https%3A%2F%2Fweb.archive.org%2Fweb%2F20150622052011id_%2Fhttp%3A%2F%2Fwww.ally.com%2Fprivacy%2F&amp;t=1582527791777"></script></body></html>
+<script type="text/javascript" src="https://zn_baufuuufwz4y0zr-ally.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_ZID=ZN_bauFuuufwz4Y0zr&amp;Q_LOC=https%3A%2F%2Fweb.archive.org%2Fweb%2F20151106010306id_%2Fhttp%3A%2F%2Fwww.ally.com%2Fprivacy%2F&amp;t=1582549735168"></script></body></html>
