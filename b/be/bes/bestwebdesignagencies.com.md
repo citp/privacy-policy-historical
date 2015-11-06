@@ -1,39 +1,51 @@
-> *The following text is extracted and transformed from the bestwebdesignagencies.com privacy policy that was archived on 2009-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091108110143id_/http%3A//www.bestwebdesignagencies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestwebdesignagencies.com privacy policy that was archived on 2015-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151106204038id_/http%3A//www.bestwebdesignagencies.com/privacy-policy) for the most accurate reproduction.*
 
-# Rankings of Best Web Design Agencies - Web Strategy, Interactive Design, Flash Design, E-Commerce, Branding, GUI, Web Applications
+# bestwebdesignagencies Privacy Policy
 
-### Privacy Policy
+Updated: Wednesday, September 5, 2012
 
- Best Web Design Agencies Privacy Policy – Revision 0
+**NOTIFICATION OF CHANGES**
 
-Last Updated: Wednesday, July 08, 2009
+We may update this Privacy Agreement from time to time as our services change and expand.
 
-INTRODUCTION
+**THIS SITE CONTAINS LINKS TO OTHER SITES**
 
-The content of this Privacy Policy may be updated at any given time to give accurate information on the services that we provide here at Best Web Design Agencies. Please note that we will not provide a warning to our users when we update information here therefore it is important to check out both the Terms of Service and Privacy Policy as much as possible.
+bestwebdesignagencies.com is not responsible for the privacy practices or the Content of any other Web sites to which the Site links to or which link to the Site. By clicking on a link, logo, or other item, please note that You may no longer be on the bestwebdesignagencies.com Site.
 
-This Privacy Policy is being provided as a means to understanding the information that is collected from different sources and how it is being used both on the website and in conjunction with other services being provided by E-Ventures, LLC. This policy does not apply to any of our affiliate websites or websites that are not expressly owned by E-Ventures, LLC as stated in this Privacy Policy and are only valid for websites in the Best Web Design Agencies or bestwebdesignagencies.com domain.
+**INFORMATION WE GATHER**
 
-INFORMATION COLLECTED
+If You register to buy or sell services using bestwebdesignagencies.com, We collect and store information that specifically identifies You or Your account (“Personally Identifiable Information”).
 
-We will collect information from third-party sources and from individuals who register on our website to include information in the directory and in the rankings. We also provide information in our knowledge base that may or may not be contributed by users of this website, this information may be transmitted directly through our service or through the service of a third part. We are not at all responsible for the source of the content and are merely a means to retrieve the content through the knowledge base.
+**YOUR PUBLIC PROFILE**
 
-USER CONTRIBUTED CONTENT
+As part of registration, We collect information which is used to generate a Company Profile of service providers. After subscribing, You must create a Profile, and in order to create a Profile, You will be required to provide some information about Your company or business. If You decide to offer a service, potential buyers will look to your Company Profile to help them decide whether to make an offer on your service or not.
 
-This website will contain user contributed content, meaning that the content has been posted directly to the website through an account with the website and was not contributed by a member of our staff. We do not hold any responsibility for this content and advise users always check the sources of information before making a decision when reading an article or note here on the website. We would also like to note while the information may be hosted on our systems, it may or may not have originated from our services. We will remove offending content that is not suitable for the use here on the website through our policy to remove copyrighted or abusive content.
+**HOW WE USE INFORMATION**
 
-THIRD PARTY CONTENT 
+**REGISTRATION INFORMATION**
 
-Some of the information that we will receive on our website prior to the registration of a design agency will be based on information we receive from a third part, meaning that the information may or may not have been verified by the originating source. We cannot guarantee the accuracy of such information and can only correct information that is brought to our attention as being incorrect. Users on the website have the ability to modify and submit their own content to the website, it is their responsibility to ensure that content is correct in their profile.
+We use Personally Identifiable Information for our own internal purposes including contacting You via email to inform You about updates to our services and providing You with information relating to e-commerce transactions that You conduct on the Site. We reserve the right to disclose your information as required by law. We may additionally provide You with newsletters via email.
 
-INFORMATION ACCURACY
+**HOW WE COLLECT INFORMATION**
 
-We cannot provide any guarantee that the information on our website is accurate due to a third party providing content to our databases. With this in mind, we will take steps to ensure that the content is correct on our website if the content has been reported as inaccurate either by a member or a user of the website. This can include content on our webpage and user-contributed content as well. If you’re unsure of the information that is being displayed upon the website, please contact the design agency for more information.
+We collect personal information about You as peruse of our Site, interact with our customer service representatives, complete online order forms or information request sheets, and provide your information to our sales agents. We may use cookies and pixel tags to track Your usage of our websites. We also use online order forms and information request sheets to obtain information from You necessary to process your orders and provide You with requested information.
 
-SECURITY
+**EMAIL TRANSMISSIONS**
 
-This website has been built for use with Best Web Design Agencies and contains original code that has been tested for being secure and stable. We cannot, however, guarantee that the code is bug free or that there are not security vulnerabilities in the website. We work hard to ensure that any personal information that is submitted to this website is kept on the website include contact or information used to purchase items online.
+We may send email transmissions to our users about various products and services being offered. We may also send requests to users in regards to updating their profiles or providing more complete information about their company. In addition, we may send out promotional messages on behalf of our Affiliates regarding their products and services.
 
-We will take all unauthorized accesses to our website seriously and will work to prevent hackers from accessing our information. In the case that we do receive a breach of information, we will do our best to prevent data loss and will notify users ahead of time to update and change their information if required.
+All Users, unless otherwise unsubscribed from further email transmissions, will receive the promotional and transactional messages via the email address which they used when registering their company profile. In addition, users which opt-in to our email notification system will also be transmitted promotional messages unless they opt-out of communication. bestwebdesignagencies.com provides users with a way to opt-out of communication in accordance with the CAN-SPAM Act via a link provided at the bottom of email transmissions in which the user can send a response to the email to be removed from the email list.
 
-Please note that in most cases, stolen information is done through the use of the client’s computer, therefore it’s important to ensure that your computer is secure and is accessing the internet securely. Please contact your systems administrator or your service provider for more information.
+For all opt-out requests, please allow three to five business days for your email to be removed from our system. For requests sent via mail or telephone, please allow additional time for the message to be delivered in order for the opt-out request to be handled.
+
+**SECURITY MEASURES**
+
+We have created and implemented a variety of encryption and security technologies and procedures to protect information stored in our systems for from unauthorized access. Further, we maintain procedural safeguards that restrict access to your personal and private Customer Information to bestwebdesignagencies.com employees who need to know your Customer Information in order to provide the services that you request from time to time.
+
+**ACCESS TO INFORMATION**
+
+In the event that you have any concerns or inquiries about the Customer Information we have collected, or to access your information, please e-mail us at info@bestwebdesignagencies.com or write to bestwebdesignagencies.com, Privacy Department, 2338 Immokalee Rd, Suite 404, Naples, FL 34110-1445. We may require the payment of a minimal administrative fee for accessing or copying your information, but will inform you of the anticipated charges and confirm that you want us to proceed before processing your request. If you believe that the Customer Information about you that we have collected is incomplete or inaccurate, we will correct the information upon verification of the omission or error and that the person requesting the change is the person about whom the Customer Information relates.
+
+**LEGAL DISCLAIMER**
+
+Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our website.
