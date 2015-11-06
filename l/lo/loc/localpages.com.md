@@ -1,104 +1,308 @@
-> *The following text is extracted and transformed from the localpages.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617021906id_/http%3A//www.localpages.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localpages.com privacy policy that was archived on 2015-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151106170954id_/http%3A//www.localpages.com/privacy.html) for the most accurate reproduction.*
 
 # Local Business Directory | Online Yellow Pages | LocalPages
 
-LocalPages.com, a service of LocalPages Inc. has created this privacy statement in order to demonstrate our firm commitment to protecting your privacy. The following discloses our information gathering and dissemination practices for the www.LocalPages.com.com site.  
+THE FOLLOWING PRIVACY STATEMENT DETAILS THE LocalPages.COM PLEDGE TO KEEP YOUR INFORMATION PRIVATE. Any questions in regards to LocalPages.com privacy practices should be sent via email to [info@LocalPages.com](mailto:info@LocalPages.com).
+
+## What type of information does LocalPages.com collect?
+
+LocalPages.com utilizes the cookie feature of your browser. Cookies, on their own, cannot be used to identify you. The cookie feature of your browser can be turned off; simply locate your browser preference options. Keep in mind that disabling the cookie feature will prevent you from participating in certain activities.  
+Your IP address helps LocalPages.com diagnose server problems and helps us administer website functions. IP addresses provide us with geographical information and aggregated information on how visitors utilize LocalPages.com. By monitoring search queries, access times, and traffic patterns we can determine how to market users and make their experience more enjoyable.
+
+## Information LocalPages Collects and Receives
+
+When you Use the Software & Services, we automatically collect and store the following types of information: 
+
+  1. __Technical Information.__ Certain technical information regarding your device, and your Use of the Software & Services and other third party software and applications installed on your device (the **“Other Software”** ), including the type, name and version of the operating system and Other Software including, without limitation, their interactions with the Software & Services, ISP ( _Internet Service Provider_ ), location, Internet protocol (IP) address, anonymous user identifiers, device configuration and identifiers (IDFA (Identifier for Advertisers used in IOS), Advertising ID (Identifier for Advertisers used in Android) and the like), version of the Software & Services, and your configuration and settings of the Software & Services;
+  2. __Usage Information.__ Certain usage related information regarding your use and interaction with your device, including the Software & Services and Other Software, such as when and how you Use the Software & Services and Other Software, how you use your internet browser and internet search related applications, the web pages you visit and the content you see, access and utilize on such web pages; for example, offerings and advertisements that you view, use and access, how you use them and your response to them, how frequently you use them, your search queries and the time and date of your searches;
+  3. __Social Networks.__ Your interactions on social networks through the Software & Services;
+  4. __Registration Related Information.__ Information you provide when you register for the Software & Services (if applicable), such as name, home or work addresses, email address, telephone and fax numbers, birth date and gender; and
+  5. __Support Related Information.__ If you communicate with us via our support section or via email, we may also collect your email address, name and any information voluntarily submitted by you in connection with such support (for example, your name, company name, and particular support query or request). Such information will only be used to provide you with support services and will not be connected with any other information collected from you on or through the Software & Services, including, any individual User ID (as defined below) generated or collected by us.
 
 
-## The following questions are answered below:
 
-1\. What information does LocalPages.com collect?  
-2\. What organization is collecting the information?  
-3. What does LocalPages.com do with the data it collects?  
-4\. With whom does LocalPages.com share data?  
-5\. What choices are available regarding collection, use and distribution of the information (Opt Out Policy)?  
-6\. How can I update or correct my information?  
-7\. How can I delete my information?  
-8\. What procedures have been designed to protect the loss, misuse or alteration of information under LocalPages.com's control?  
-9\. What about privacy policies for sites to which LocalPages.com links?  
-10\. What happens to my information if LocalPages.com merges with or is sold to another company?  
+When you Use the Software & Services, we automatically generate an anonymous internal user ID (which does not personally identify you), which is assigned to your use of the Software & Services (the **"User ID"** ) and may be combined with any of the above information.
+
+While it is not our intention to collect any personally identifiable information (“ **PII** ”) (except for registration and user support purposes as set forth in this Privacy Policy), the data collected may include PII. As part of our privacy measures, we implement certain rules designed to avoid the unintentional collection of PII such as email addresses, social security numbers, credit card numbers, login information, etc. Such rules are based on known field types, parameters, values and algorithms but they are not foolproof and hence the Software & Services may sometimes, unintentionally, collect unwanted information. We regularly examine and update these rules. 
+
+## What does LocalPages.com do with my data?
+
+LocalPages.com only collects data to enhance and personally tailor our website to meet your needs. Personal information that is collected allows us to customize website content and generate targeted advertisements based on your particular preferences. Cookies help us distinguish between individual users, tailor fit homepages, control advertisement frequency, and so on.
+
+IP addresses help us diagnose server issues and help us administer LocalPages.com. Without your IP address it would be impossible to keep our services running 24/7, and we want to be here for you around the clock.  
+Every email sent to LocalPages.com users is to meet your needs. We offer website updates, inform you of new features, allow you to for special offers and sweepstakes, all for your enjoyment. If at any point these emails become annoying or bothersome, simply on the link provided to opt out.
+
+Also note that your email address helps LocalPages.com respond to any questions you have posed, issues you have encountered, or complaints made. We require your email address so we may address these issues.
+
+## Sharing Information with Third Parties.
+
+We may share with third parties the information collected in any of the following events: ** __**
+
+  * If we are required by law to disclose your information, we may share your information with law enforcement or other competent authorities and any third party, as may be required (e.g., to detect, prevent or otherwise address fraud, security, or technical issues; to respond to claims or satisfy any legal process, subpoena, or governmental request; or to protect the rights, property, or personal safety of LocalPages’s users, its partners, or the general public);
+  * In the event LocalPages goes through a business transition such as a merger or acquisition by another company, consolidation, change of control, reorganization, or sale of all or a portion of its assets, your information will be among the assets transferred;
+  * We may share your information with certain third parties (including, without limitation, search engines, content providers, and advertising networks and platforms) that provide various services (such as advertising, marketing, analysis, content, and search) in connection with the Software & Services. We take appropriate measures to ensure that no user can be individually identified from the disclosure of such information, and we require these third parties (i) to keep the data secured, (ii) not to use the data for any purpose other than to provide us with services, and (iii) to use the data solely in compliance with this Privacy Policy; and
+  * We may also share PII and non-personally identifiable information with our subsidiaries, affiliated and parent companies, but their use of such information must comply with this Privacy Policy.
 
 
-If you have any questions about this privacy statement, the practices of this site or your dealings with this site, email copyright@LocalPages.com. 
 
-## What information does LocalPages.com collect?
+In any case other than the above, we will not share your PII with third parties without your prior consent. ****
 
-At different times, LocalPages.com may collect several types of information about you. Except as otherwise stated in this privacy policy, we do not provide this information to third parties, except in aggregate form. 
+## Third-Party Content
 
-First, we or our partners or advertisers may use a feature of your browser called a cookie to assign identification to your computer. The unique user ID contained within your cookie automatically identifies your computer - but not you - to our servers every time you visit our site. Cookies by themselves cannot be used to find out the identity of any user. You can turn the cookies feature off by using your browser's preference options, but you may not be able to utilize some services properly. 
+Certain Software & Services may include and/or enable you to add Content to them. The Content may be in the form of apps, buttons, gadgets, links to third-party advertisements, websites, products and services (including search services) as well as additional means that are provided to you by third parties (collectively, **"Third Party Content and Services"** ). The use of such Third Party Content and Services is subject to their privacy policies. In addition, LocalPages provides such third parties with a large number of tools to enable them to create interesting and unique apps, buttons, and gadgets using the LocalPages platform. Some of these tools may give these third parties the ability to access, collect, store, and/or share your information – both your PII and non-personally identifiable information. In order to clarify, we do not review, approve, monitor, endorse, warrant, or make any representations with respect to such Third-Party Content and Services and your access to any Third-Party Content and Services is at your own risk. We are not responsible for the information contained and/or made available through, the practices of, or your use or inability to use such Third-Party Content and Services. You expressly relieve us from any and all liability arising from your use of such Third-Party Content and Services. We recommended that you read the terms, conditions and privacy policies of such Third-Party Content and Services before using or accessing any of them. 
 
-Second, we keep track of your IP address to help diagnose problems with our servers and to administer our site. Your IP address is a number that identifies a computer which accesses the Internet. This address is used to gather broad demographic information about you, such as your Internet service provider and the geographic location of your IP address. LocalPages.com may also collect aggregate information on how our users are utilizing the site. This might include information regarding traffic patterns through the site and search queries. 
+Some of the web search services provided herein are provided by Trovi Search and powered by Trovi search partners. For information on the web search services data collection, please visit <http://info.trovi.com/Privacy>, and the search provider's privacy policy, as applicable.
 
-Third, we log browser types, access times, URLs from which visitors came to our site and URLs viewed by visitors while on our site. Again, LocalPages.com uses this information on an aggregate basis, in this case making sure we can support overall visitor traffic and service performance. 
+## Social Networks
 
-Fourth, at specific times we may ask you to provide us with personal information in order for you to register for a service or to enter a sweepstakes. Also, you may also provide personal information if you write us feedback email. This information may include but is not limited to your name and email address. You may always choose not to provide us with this information; however, this may limit our ability to provide you with a specific service, offer you personalized content, or respond to your feedback. 
+You may also choose to activate additional features that provide you with the ability to update and use your favorite social networks directly from the Software & Services. During such activation, you will be asked to grant LocalPages permission to compile certain information from such social networks. This information may include friends or contact lists, notes, updates, and photos, and may be used by LocalPages to customize the Content available to you through the Software & Services, suggest new features and Content that may be relevant to you, or provide LocalPages with data for statistical purposes. The information you allow LocalPages to access is that which is presented to you when you choose to activate these features. Please see your social network provider policies for any questions or concerns. You may opt not to grant LocalPages access to your social network account(s) at any time by changing your social network settings or by not authorizing LocalPages’s access thereto. 
 
-Fifth, we contract with 24/7 Real Media, a service partner, to provide us with a data collection and reporting service to better understand overall use of our site. 24/7 Real Media may store certain legacy data that we received from visitors to our site prior to our relationship with them, so that we may access this information via their reporting service. 24/7 Real Media may collect information on our behalf about our users' visiting behaviors in several ways, including through the use of cookies or pixel tags. We use 24/7 Real Media to understand what's popular and useful for visitors. 
+## Cookies and Other Technologies
 
-## What organization is collecting the information?
+We may collect or allow third parties to collect, through blocks of code called “pixels” or “web beacons”, certain information about you and send it to our servers and our partners. We or our partners package all or part of this information into small text files called Cookies and send the Cookie to your computer. For example, Cookies may store search queries made through the Software & Services, the web pages you accessed, your interaction with advertisements presented to you via the Software & Services, features you used, your session duration and your configurations and preferences of the Software & Services.
 
-LocalPages.com usually collects the requested information. However, LocalPages.com has chosen select partners in order to provide certain services. In order to use certain services on the site, it may be necessary to enter information that then goes to our partner and is not kept by LocalPages.com. The areas of our site in which partners are collecting information may be cobranded with our partners' logos. If you have questions regarding the privacy policy or data collection practices of one of our content partners, please contact that partner directly. 
+Such Cookies and other technologies allow us and our partners to recognize you on your next use of, access or visit to the Software & Services, or on your visits or access to our partner’s network (i.e., sites and services outside of LocalPages).  
+LocalPages and/or its partners use Cookies and other tracking technologies to:
 
-We use third-party advertising companies and advertising networks to collect information and serve ads to you when you visit our site. These companies may use cookies, pixel tags, or otherwise independently collect information (not including your name, address email address or telephone number) from you and use this information about your visits to this and other sites in order to provide advertisements about goods and services of interest to you. We do not control their collection and use of information. Please note that if an advertiser or advertising network asks us to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 13-24 who have viewed sports content) and you respond to that ad, the advertiser or advertising network may conclude that you fit the description of the audience they are trying to reach. 
+  * facilitate and enhance your interaction and activities with the Software & Services;
+  * help LocalPages learn how you Use the Software & Services, what parts are most attractive and interesting to you, and what kind of offers you like to see;
+  * provide you with personalized content which may include interest-based information, online ads or other marketing materials on or through the Software & Services and on third party websites and properties;
+  * analyze the information collected from you and help manage and optimize the Software & Services;
+  * track and measure various performance and demographic parameters of advertising campaigns including, without limitation, analyzing which ads your browser has loaded, which site pages you may have been viewing when the ads were delivered or accessed, and your interaction with the ad.
 
-## What does LocalPages.com do with the data it collects?
 
-Whenever LocalPages.com collects data, the data is intended to tailor or improve the experience of visitors to our site. From the data collected we can customize content and advertising based on the user's preferences. We may use information from cookies to differentiate between unique users, personalize the site for each unique user, to control the frequency of individual advertisements directed to individual computers, and other purposes. In all cases, personally identifiable information is not shared with our advertisers, except as otherwise stated in this privacy policy. 
 
-We use IP addresses to help diagnose problems with our server and to administer our site. It's the way we can make sure our service is available 24/7 to you. 
+Most browsers are initially set up to accept Cookies but you can reset your browser to refuse all Cookies or to indicate when a Cookie is sent. However, some functions of the Software & Services may not function properly if your Cookies are disabled. By using the Software & Services, you affirmatively consent to the collection of information and Cookies as described above. 
 
-If you register for a service or to enter a sweepstakes, we may use the information we collect to provide the service to you or send communications regarding the sweepstakes. We may also send a newsletter by email to our users who opt to receive such emails. It is our policy to send these emails only to users who give us permission to do so. In every such email, we will also have instructions on how to unsubscribe and avoid receiving any future emails from us. LocalPages.com also may contact you by email to respond to feedback you have submitted. 
+## Children under 13
 
-## With whom does LocalPages.com share data?
+The Software & Services are not intended for users under the age of 13 and you hereby represent that you are at least 13 years old. We do not knowingly collect, use, share or disclose any personal information from children under the age of 13. We reserve the right to request proof of age at any stage, so that we can verify that minors under the age of 13 are not using the Software & Services.
 
-LocalPages.com may disclose your personal information to our business partners in order to provide you with the services you have requested, or to companies that offer a cobranded version of our site. If you have questions regarding the privacy policy or data-collection practices of one of our business partners, please contact that partner directly. LocalPages.com does not have control over and is not responsible for the data collection and use practices of our business partners. LocalPages.com may also disclose your personal information to other members of the LocalPages family of businesses. 
+We advise parents and guardians to regularly monitor their children's use of email and other online communications and activities. Control tools that create a safer online environment for children are available from third-party online services and software providers.  
+In the event that it comes to our knowledge that a person under the age of 13 is using the LocalPages Software, we will prohibit and block such a user from accessing the Software & Services, and will make all efforts to promptly delete any PII with regard to such user, as applicable.
 
-We also may disclose your personal information (including without limitation IP addresses) to a third party if we believe in good faith that the law or legal process requires it, to protect the rights or property of LocalPages.com or others, or as otherwise described in this privacy policy. 
+If you are a parent or guardian who has discovered that your child has submitted his or her PII without your consent, please contact us as provided in this Privacy Policy and we will take the necessary steps to remove that information from our database.
 
-We may disclose certain non-personally identifiable information about you to advertisers or other third parties in order to present you with targeted advertisements. We may share aggregate demographic information with our advertisers or information collection companies, but will not reveal any personally identifiable information in these instances. 
+## Access
 
-## What choices are available regarding collection, use and distribution of the information (Opt Out Policy)?
+You may send us a request to access the PII that we collect through your use of the Software & Services. In such case, we may require that you provide us with additional information to verify your identity.
 
-As previously noted, you may always choose to not provide us with any of the information we request; however, this may limit our ability to provide you with a specific service or limit our ability to offer personalized content. 
+## Data Retention
 
-To learn more about the collection of information by third party advertising networks, including how to opt out of such collection, see the links below. 
+We retain the information we collect as described in this Privacy Policy for as long as necessary to fulfill our business and/or operational purposes or comply with a legal request. We may also choose to anonymize parts of the information we collect so that it can no longer be identifiable or attributable to any person if we want to keep it for longer periods of time.
 
-http://tools.google.com/dlpage/gaoptout 
+**Transfer of Data Outside Your Territory**
 
-(Full Circle Studies, Inc) has an "opt-out" at: http://www.scorecardresearch.com/OptOut.aspx 
+The Software & Services work over the Internet. We may store and process information in various locations throughout the globe. If you are a resident of a European Union Member State or another jurisdiction where transfer of your PII to another jurisdiction requires your consent, then you hereby provide us with your express consent to such transfer of your data. 
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: 
+## Information Security
 
-http://www.networkadvertising.org/managing/opt_out.asp 
+We implement measures to secure your PII that we collect in order to minimize the risks of damage, loss of information, and unauthorized access or use of information. However, these measures are unable to provide absolute information security. Therefore, although we make efforts to secure your PII, we cannot guarantee and you cannot reasonably expect that the Software & Services and its databases are immune from any wrongdoings, malfunctions, unauthorized interceptions, access, or other kinds of abuse and misuse.
 
-## How can I update or correct my information?
+## Do Not Track
 
-LocalPages.com does not currently have a method for users to change their user information. In the case of personalized services, you will be able to modify your user information through personalization links on those pages. 
+Do Not Track is a privacy preference that can be configured in certain web browsers (the **"DNT Feature"** ); the DNT Feature, when enabled on a web browser, signals the websites you visit that you do not want certain information about the websites visited collected. As the Internet industry is in the process of defining how to interpret signals sent by the DNT Feature, LocalPages does not currently respond or recognize DNT Feature signals. 
 
-## How can I delete my information?
+## Who else gets to see my personal information?
 
-LocalPages.com currently does not have a method for completely deleting user information from our database. However, deleting the cookie stored on your computer will cause you to be perceived as a new user with no known user data. You may also change a setting in your browser, instructing it not to accept cookies, but this could prevent you from receiving some LocalPages.com services. 
+When you request services from our partners LocalPages.com will share your personal information with them, so that you can receive what you have requested. If you have any questions or concerns about a LocalPages.com business partner, you may contact them directly. LocalPages.com is not responsible for the data collection or privacy practices of business partners. Your personal information may also be shared with LocalPages.com owned businesses.
 
-## What procedures have been designed to protect the loss, misuse or alteration of information under LocalPages.com's control?
+Your personal information will be shared with an outside party if we have good reason to believe that the law or legal process require it. It is our obligation to protect any rights or property of LocalPages.com and others associated with our company and website.  
+Targeted advertisements enhance user experience, and so at times we may share specifically non personal information with advertisers, so that they may present you with relevant advertisements. Geographical information may be shared along with demographics, but we will never share personally identifiable information.
 
-Except as otherwise stated in this privacy policy, LocalPages.com has taken measures to ensure that information that is not publicly available through its site is accessible only to the user who initially entered the information or to authorized personnel at LocalPages.com or its partners, and only after a password has been entered. In the unlikely event of a security breach for which we provide notice under Cal. Civ. Code § 1798.82, LocalPages will send a notification to the email address on file (if any) for each relevant user informing him or her of the security breach. 
+LocalPages shares user information to the following partners. Please visit each company's privacy policy to better understand the controls available to you.
 
-## What about privacy policies for sites to which LocalPages.com links?
+  * Accuen Media
+  * Acxiom
+  * Ad Gear
+  * Ad Ready
+  * Adap.TV
+  * AdConion
+  * AddThis
+  * AdExpert (Microsoft)
+  * Adform
+  * AdJuggler, Inc.
+  * AdKeeper
+  * AdMedia
+  * Admotion S.R.L.
+  * Adobe
+  * Adometry
+  * AdRoll
+  * AdShuffle
+  * AdTech Inc.
+  * Advanse
+  * Advertising.com, Inc. (an AOL company)
+  * Aggregate Knowledge
+  * AKQA
+  * Alena/Performance Marketing Group (Intermix)
+  * Altitude Digital
+  * American Express (uses Omniture services)
+  * AppNexus
+  * Aranet Online
+  * Atlas DMT
+  * Bloomreach
+  * Blue Kai
+  * Brand.net
+  * Bridgetrack
+  * Brightroll
+  * BuySight
+  * C3 Metrics
+  * Caraytech S.A. (aka E-Planning)
+  * Casale
+  * Celtra
+  * Chango
+  * Cnet
+  * Cognitive Match
+  * Collective Media
+  * Comcast
+  * Compete
+  * comScore
+  * Connexity
+  * Convertro
+  * Conviva
+  * Coremetrics, Inc.
+  * Cossette Media
+  * Cox Digital Solutions (formerly Adify)
+  * Cox Enterprises
+  * Crisp Wireless
+  * Criteo Media
+  * Crowd Science
+  * DataXu
+  * Datran
+  * Diligant
+  * Dotomi
+  * DoubleClick, Inc.
+  * Dynamic Logic
+  * Epsilon
+  * Evidon
+  * eyeReturn Marketing
+  * EyeView Digital
+  * EyeWonder, Inc.
+  * Facilitate
+  * Fastclick (Valueclick)
+  * FatText
+  * Flash Talking
+  * Flite
+  * Forbes
+  * Foresee
+  * FreeWheel Media, Inc.
+  * GFK
+  * GoldSpot Media
+  * Google AdSense
+  * HipCricket
+  * Hotwire
+  * Innovation Interactive (NetMining)
+  * Innovid
+  * InsightExpress
+  * Intermix (Demand Media)
+  * Interpolls
+  * Invite Media
+  * Jivox
+  * Korrelate
+  * Legolas Media
+  * LinkStorm
+  * Liquidus Marketing
+  * Locked On Media
+  * Lucid Media
+  * Markit On Demand
+  * Media6Degrees
+  * Mediaglu (formerly known as MLN Advertising)
+  * Mediamath
+  * Mediamind
+  * Mediaplex
+  * Microsoft
+  * Mixpo
+  * Moat
+  * MobileFuse
+  * Mochila
+  * Music Interactive
+  * myThings
+  * Netseer
+  * NewsRight, LLC
+  * NexTag
+  * Nielsen
+  * Optaros, Inc
+  * OsAdsPro (GroovingAds)
+  * PaperG, Inc.
+  * PayPal
+  * Perion
+  * Phluant
+  * Pictela
+  * Planning Group International
+  * Pointdexter Systems
+  * PointRoll
+  * Predicta
+  * Pricegrabber (pgcdn.com)
+  * Procter&Gamble
+  * Pulse 360
+  * Quinstreet
+  * RadiumOne
+  * Real Media Group
+  * Rich Relevance
+  * Rocket Fuel Inc.
+  * Rovion
+  * Safecount
+  * Simpli.fi
+  * SiteScout Inc.
+  * Skenzo (Media.net)
+  * Snap
+  * Specific Media
+  * SpeedShift Media
+  * Sponge Cell
+  * Symphony Advanced Media (formerly Factor TG)
+  * Tag-Man
+  * TapAd
+  * Telemetry
+  * Teracent
+  * The Trade Desk
+  * Tidal TV/Videology
+  * TNS Customer Research Inc.
+  * TradeDoubler
+  * Tribal Fusion
+  * TruEffect
+  * TRUSTe
+  * TubeMogul
+  * Tumri
+  * Turn Inc.
+  * Undertone
+  * Unicast (Viewpoint)
+  * ValueClick Media
+  * VideoHub
+  * Vindico
+  * Visible Measures
+  * Vizu
+  * Webapps LLC dba Hitpath
+  * WebTrends
+  * Widgetbox d/b/a ClickTurn
+  * X+1 Technologies
+  * Xaxis (Media Innovation Group - mookie)
+  * Yabuka
+  * Ybrant Digital
+  * YuMe
+  * Zedo
 
-LocalPages.com contains many links to Web sites not controlled by LocalPages.com. These sites have their own policies and practices with respect to online privacy, and LocalPages.com cannot be responsible for the privacy practices or the content of these Web sites. In addition, in certain instances a LocalPages.com advertiser may ask you for personal information. LocalPages.com cannot be responsible for the privacy practices of its advertisers. 
 
-## What happens to my information if LocalPages.com merges with or its assets are sold to another company?
 
-It is possible that LocalPages.com and/or any of our assets may be acquired. In such a transaction, user information may be transferred to the acquiring entity. While we will endeavor to require the successor company to maintain this privacy policy, we cannot guarantee that our policy will remain in effect. 
+## How do I delete my information from LocalPages.com?
 
-## LocalPages.com uses Google Analytics
+At this current time it is not possible to completely delete your user information from the LocalPages.com database. If you are concerned with the security of your personal data you can remove the cookie stored on your browser, which will allow the server to perceive you as a new user. In the future you can change your browser setting to not accept cookies. Be aware that removing cookies does prevent you from participating in certain activities.
 
-LocalPages.com uses Google Analytics on its site to help us improve user experience. To find out more information on Google Analytics and its privacy policies please reference: <http://www.google.com/intl/en/analytics/privacyoverview.html>
+## Will I be notified of a security breach?
 
-## Notification of Changes
+LocalPages.com has taken many steps to ensure that your personal information is not made publicly available and that is only accessible to the user who originally entered it. However, in the event of an unlikely security breach, the user will be notified immediately.
 
-This policy may be revised over time as new features are added to the site. We will post our new privacy policy, along with the date of its last revision, prominently so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. Please check this page for information about revisions to our privacy policy. 
+## Do linked sites honor your policy?
 
-## Contact Information
+Linked sites are not run or controlled by LocalPages.com. The website does contain many linked sites, so that we may offer you additional services and products that we feel you will enjoy. Each linked site is owned by an outside company; therefore, they have established their own polices in respect to privacy. LocalPages.com won't be held responsible for privacy practices or policies or content of linked sites. Also note that any personal information supplied to an outside advertiser is at your own risk.
 
-If you have any questions about this privacy policy or about LocalPages.com information collection practices, please contact us at copyright@LocalPages.com 
+## Will your policy always remain intact?
+
+We cannot guarantee that this policy will always be honored. In the event that LocalPages.com is bought, or our assets are acquired by another company, user information may be transferred to new ownership. LocalPages.com will suggest this policy be adapted, but we cannot guarantee it.
+
+## LocalPages.com will notify you of changes
+
+LocalPages.com is constantly improving and making additions to our site to provide you with better features and services. As a result, our policies must be continuously revised. Whenever alterations are required, a new revised policy will be posted to this site, along with the date of last revision. It is important to us that you are always up to date with LocalPages.com policies, so check this site often for information on your privacy.
+
+## Contacting LocalPages.com
+
+In regards to privacy issues or the collection of personal data, any questions or concerns can be directed to our dedicated representatives. Please contact them by email at [info@LocalPages.com](mailto:info@LocalPages.com).
