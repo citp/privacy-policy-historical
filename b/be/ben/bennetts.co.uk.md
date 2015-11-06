@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the bennetts.co.uk privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507191656id_/http%3A//www.bennetts.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bennetts.co.uk privacy policy that was archived on 2015-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151106010754id_/http%3A//www.bennetts.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Bennetts | Bennetts
 
-**Bennetts Privacy and Cookie Policy**
+Bennetts is a trading name of Bennetts Biking Services Limited registered office Enbrook Park, Sandgate, Folkestone, Kent CT20 3SE.
+
+> [Bennetts Bike Insurance Privacy & Cookie Policy](http://www.bennetts.co.uk/privacy/#Bennetts%20Bike%20Insurance%20Privacy%20Policy)  
+>[ Bennetts Free Bike Classifieds Privacy & Cookie Policy](http://www.bennetts.co.uk/privacy/#Bennetts%20Classifieds%20Privacy%20Policy)  
+> [Bike Social Privacy & Cookie Policy](http://www.bennetts.co.uk/privacy/#Social)
 
  **Bennetts Bike Insurance Privacy & Cookie Policy**
 
@@ -10,7 +14,7 @@
 
 
 
-Bennetts is a trading name of BISL Limited, part of BGL Group of Companies. The data controller is BISL Limited registered in England and Wales registered number 3231094 at Pegasus House, Bakewell Road, Orton Southgate, Peterborough, PE2 6YS. In this Privacy & Cookie Policy, "we", "us" and "our" means BISL Limited and "you" and "your" means the person who wishes to use the website.
+Bennetts is a trading name of Bennetts Biking Services Limited, part of Saga Group of Companies. The data controller is Bennetts Biking Services Limited registered in England and Wales registered number 9028554 at Enbrook Park, Sandgate, Folkestone, Kent CT20 3SE. In this Privacy & Cookie Policy, "we", "us" and "our" means Bennetts Biking Services Limited and "you" and "your" means the person who wishes to use the website.
 
   1.  **2.      ****Your Rights**
 
@@ -18,9 +22,9 @@ Bennetts is a trading name of BISL Limited, part of BGL Group of Companies. The 
 
 We comply with and are registered under the data protection laws in the United Kingdom and take all reasonable steps to prevent any unauthorised access to your personal data.
 
-You are entitled, on payment of the fee of £10, made payable to BISL Limited to see details of the information we hold about you. If any of the information held is inaccurate we will also make any necessary amendments and confirm to you that these have been made.
+You are entitled, on payment of the fee of £10, made payable to Bennetts Biking Services Limited to see details of the information we hold about you. If any of the information held is inaccurate we will also make any necessary amendments and confirm to you that these have been made.
 
-You have the right to request at any time that we and/or carefully selected companies cease processing your personal data for marketing purposes. If you wish to do this please write to the Data Protection Officer at BISL Limited, Pegasus House, Bakewell Road, Orton Southgate, Peterborough, PE2 6YS.
+You have the right to request at any time that we and/or carefully selected companies cease processing your personal data for marketing purposes. If you wish to do this please write to the Data Protection Officer at Bennetts Biking Services Limited, Enbrook Park, Sandgate, Folkestone, Kent CT20 3SE.
 
 You are also entitled to ask us to remove personal information from our records and if you wish to do this then please write to the Data Protection Officer at the address above . Please provide your full name, address and date of birth when contacting us.
 
@@ -72,7 +76,7 @@ Information you supply may be used for the purpose of insurance administration, 
 
 
 
-BISL Limited, part of the BGL group of companies, which also trades as Dial Direct and Budget and other carefully selected companies may use your information to keep you informed by post, telephone, e-mail or other means of products and services which may be of interest to you. They may also contact you to conduct market research.
+Bennetts Biking Services Limited, part of the Saga Group of companiesand other carefully selected companies may use your information to keep you informed by post, telephone, e-mail or other means of products and services which may be of interest to you. They may also contact you to conduct market research.
 
   1.  **8.      ****Send to a Friend Option**
 
@@ -324,7 +328,7 @@ This Privacy & Cookie Policy applies to the Bennetts Classified website (“Cla
 
 
 
-Bennetts is a trading name of BISL Limited part of the BGL Group of Companies. The data controller is BISL Limited registered in England and Wales number 3231094 at Pegasus House, Bakewell Road, Orton Southgate, Peterborough, PE2 6YS. In this Privacy & Cookie Policy “We”, “Us” and “Our” means BISL Limited and “You” and “Your” means the person who wishes to use Classifieds. 
+Bennetts is a trading name of Bennetts Biking Services Limited part of the Saga Group of Companies. The data controller is Bennetts Biking Services Limited registered in England and Wales number 9028554 at Enbrook Park, Sandgate, Folkestone, Kent CT20 3SE. In this Privacy & Cookie Policy “We”, “Us” and “Our” means Bennetts Biking Services Limited and “You” and “Your” means the person who wishes to use Classifieds. 
 
 We reserve the right to amend or modify this Privacy & Cookie Policy at any time but will give You as much notice as possible where this is necessary.
 
@@ -334,11 +338,11 @@ We reserve the right to amend or modify this Privacy & Cookie Policy at any tim
 
 2.1      
 
-   You are entitled, on payment of the fee of £10, made payable to BISL Limited to see details of the information We hold about You. If any of the information held is inaccurate We will also make any necessary amendments and confirm to You that these have been made.
+   You are entitled, on payment of the fee of £10, made payable to Bennetts Biking Services Limited to see details of the information We hold about You. If any of the information held is inaccurate We will also make any necessary amendments and confirm to You that these have been made.
 
 2.2    
 
-    You have the right to request at any time that We and/or carefully selected companies cease processing Your personal data for marketing purposes. If You wish to do this please write to the Data Protection Officer at BISL Limited, Pegasus House, Bakewell Road, Orton Southgate, Peterborough, PE2 6YS.
+    You have the right to request at any time that We and/or carefully selected companies cease processing Your personal data for marketing purposes. If You wish to do this please write to the Data Protection Officer at Bennetts Biking Services Limited, Enbrook Park, Sandgate, Folkestone, Kent CT20 3SE.
 
 2.3 
 
@@ -362,7 +366,7 @@ We are committed to ensuring Your personal information is used properly and kept
 
  **4.1         Administration**Data You provide to Classifieds will be used for the administration of the Classifieds service.     You must register and provide Us with the data We ask for in order to use Classifieds.   Advertisements that You submit on Classifieds will be displayed on the Classifieds website.
 
- **4.2         Prevention and Detection of Crime/Fraud**Data that You provide may be disclosed to the police and fraud prevention organisations in order to prevent and detect crime.     We reserve the right to undertake identity and fraud prevention checks in order to protect Classifieds and Our users.     If You have previously been a customer of BISL Limited We may also check data You provide against data that We already hold to help prevent and detect fraud and to help Us improve Our service to You.
+ **4.2         Prevention and Detection of Crime/Fraud**Data that You provide may be disclosed to the police and fraud prevention organisations in order to prevent and detect crime.     We reserve the right to undertake identity and fraud prevention checks in order to protect Classifieds and Our users.     If You have previously been a customer of Bennetts Biking Services Limited We may also check data You provide against data that We already hold to help prevent and detect fraud and to help Us improve Our service to You.
 
 We have the right to disclose Your identity to any third party who claims that any content submitted by You on Classifieds constitutes a violation of their intellectual property rights, or of their right to privacy.
 
@@ -518,7 +522,7 @@ This Privacy & Cookie Policy is subject to English Law and to the exclusive juri
 
  _Use of Classifieds is subject to the_[ _Classifieds Terms and Conditions_](http://www.bennetts.co.uk/terms-and-conditions/ "Classifieds Terms & Conditions")
 
- **BIKE SOCIAL PRIVACY & COOKIE POLICY**
+ ** ** **BIKE SOCIAL PRIVACY & COOKIE POLICY**
 
  **SUMMARY**
 
@@ -538,7 +542,7 @@ If you are also a Bennetts Insurance customer please note that the Bike Social S
 
  **1               This Privacy & Cookie Policy**
 
-1.1          This website, located at [www.bennetts.co.uk/bikesocial](http://www.bennetts.co.uk/bikesocial) and as available through the Bennetts Bike Social mobile App **(Bike Social Site)** is operated by BISL Limited (registered in England with registration number 3231094 whose registered office is at Pegasus House, Bakewell Road, Orton Southgate, Peterborough, Cambridgeshire PE2 6YS) **(We, Us, Our)**. 
+1.1          This website, located at [www.bennetts.co.uk/bikesocial](http://www.bennetts.co.uk/bikesocial) and as available through the Bennetts Bike Social mobile App **(Bike Social Site)** is operated by Bennetts Biking Services Limited (registered in England with registration number 9028554 whose registered office is at Enbrook Park, Sandgate, Folkestone, Kent CT20 3SE) **(We, Us, Our)**. 
 
 1.2          Expressions used but not defined in this Privacy & Cookie Policy will have the meanings set out in the Terms located at [www.bennetts.co.uk/terms-and-conditions](http://www.bennetts.co.uk/terms-and-conditions/) of which this Privacy Policy forms a part.
 
@@ -554,7 +558,7 @@ If you are also a Bennetts Insurance customer please note that the Bike Social S
 
 3.3        We keep your data safe. The pages on the Bike Social Site where you provide us with personal information (for example the registration page) are SSL certified. SSL allows secure connections from our web server to your browser to allow information to be transmitted securely.
 
-3.4        If you have any queries regarding how your data is processed you can contact our Data Protection Officer by post at Pegasus House, Bakewell Road, Orton Southgate, Peterborough, PE2 6YS or by e-mail at [enquiries@bikesocial.co.uk](mailto:bikesocial@bennetts.co.uk)
+3.4        If you have any queries regarding how your data is processed you can contact our Data Protection Officer by post at Enbrook Park, Sandgate, Folkestone, Kent CT20 3SE or by e-mail at [enquiries@bikesocial.co.uk](mailto:bikesocial@bennetts.co.uk)
 
  **4             Collection of Your personal information and acceptance by You**
 
@@ -604,7 +608,7 @@ If you are also a Bennetts Insurance customer please note that the Bike Social S
 
 7.1.2      We will release Your personal information when We are required to do so for legal or regulatory purposes or as part of legal proceedings.
 
-7.1.3      If in the future we sell our business it may be necessary for us to pass your personal information to the new owner however you will always be notified in advance of this happening. 
+7.1.3  nbsp;    If in the future we sell our business it may be necessary for us to pass your personal information to the new owner however you will always be notified in advance of this happening. 
 
 7.2         We may disclose Your name and contact details where We are required to do so under a subpoena or court order, or following any other request (including criminal and civil matters) if We believe that the response is required by law or is reasonably necessary to protect the values and objectives of the Bike Social Site or other Users.
 
@@ -718,4 +722,4 @@ Visit Addthis.com for a Privacy Overview
 
  **11        Contact Us**
 
-11.1    If You have any questions about this Privacy & Cookie Policy or any of the Terms of which it forms part please contact us at Bennetts, Pegasus House,  Bakewell Road, Orton Southgate, Peterborough, Cambridgeshire PE2 6YS United Kingdom or at [enquiries@bikesocial.co.uk](mailto:enquiries@bikesocial.co.uk).
+11.1    If You have any questions about this Privacy & Cookie Policy or any of the Terms of which it forms part please contact us at Bennetts, Enbrook Park,  Sandgate, Folkestone, Kent CT20 3SE United Kingdom or at [enquiries@bikesocial.co.uk](mailto:enquiries@bikesocial.co.uk).
