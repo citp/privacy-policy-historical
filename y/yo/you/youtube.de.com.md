@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youtube.de.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617175532id_/http%3A//www.youtube.de.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youtube.de.com privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107001103id_/http%3A//youtube.de.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
