@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nptimes.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408003218id_/http%3A//nptimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nptimes.com privacy policy that was archived on 2015-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151106022105id_/http%3A//www.nptimes.com/privacy) for the most accurate reproduction.*
 
 # Privacy - The NonProfit TimesThe NonProfit Times
 
