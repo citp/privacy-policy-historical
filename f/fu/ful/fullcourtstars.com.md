@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fullcourtstars.com privacy policy that was archived on 2015-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150209071129id_/http%3A//fullcourtstars.com/%3Fpage_id%3D17) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullcourtstars.com privacy policy that was archived on 2015-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151106161607id_/http%3A//fullcourtstars.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Fullcourstars.com
+# Privacy Policy |
 
 **Privacy Policy**
 
@@ -24,4 +24,12 @@ When you do provide us with personal information, we may use that information in
 **When you view our website, we may store some information on your computer. This information will be in the form of a “Cookie” or similar file and will help us in many ways. For example, Cookies allow us to tailor our website to better match your interests and preferences. With most Internet Browsers, you can erase Cookies from your computer hard drive, block all Cookies, or receive a warning before a Cookie is stored. Please refer to your Browser instructions or help screen to learn more about these functions.
 
 **Who to Contact  
-**If you have submitted personal information through this website and would like that information deleted from our records, please contact us at the following e-mail address: [info@ipnexchange.com](mailto:info@ipnexchange.com)we will use reasonable efforts to delete your information from our existing files.
+**
+
+If you have submitted personal information through this website and would like that information deleted from our records, please contact us at the following e-mail address: solutions@sibannacmedia.com we will use reasonable efforts to delete your information from our existing files. For information about advertising email solutions@sibannacmedia.com. To contact the publisher email publisher@sibannacmedia.com, or call us at 480.420.3171.
+
+#### FullCourtStars.com  
+1313 E. Osborn STE 100  
+Phoenix, AZ 85014  
+480.420.3171  
+info@FullCourtStars.com
