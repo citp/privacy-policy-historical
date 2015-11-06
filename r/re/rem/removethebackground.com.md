@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the removethebackground.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315025430id_/http%3A//www.removethebackground.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the removethebackground.com privacy policy that was archived on 2015-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151106023154id_/http%3A//www.pixelz.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Remove The Background
+# Privacy Policy - Pixelz
 
-Remove The Background, Inc. (hereinafter, “We,” “Us,” and “Our”) respects your privacy and has instituted this Privacy Policy to protect you (hereinafter “You” and “Your”) in Your capacity as a user of the site located at (hereinafter, the “Site”). Please read on to learn how We collect and use information obtained from the Site. If You have any questions about Our Privacy Policy or the Terms and Conditions, feel free to contact Us at support@removethebackground.com.
+Pixelz, Inc. (hereinafter, “We,” “Us,” and “Our”) respects your privacy and has instituted this Privacy Policy to protect you (hereinafter “You” and “Your”) in Your capacity as a user of the site located at (hereinafter, the “Site”). Please read on to learn how We collect and use information obtained from the Site. If You have any questions about Our Privacy Policy or the Terms and Conditions, feel free to contact Us at support@pixelz.com.
 
 By Your access to and use of the Site, You agree to Our processing, storing and using certain information in accordance with the principles set out in this Privacy Policy. We will limit the collection and use of Your information to a minimum. We will only collect such information as is required to help You use the Site or keeping You informed about the services offered by Us or Our affiliates. The information You provide may also be used for analytical and statistical purposes, as specified herein.
 
@@ -22,7 +22,7 @@ We will not sell, share, transfer, or otherwise disclose Your Personal Informati
 
   * Where We have previously informed You of such a transfer through disclosures or agreement, and We have Your authority to do so;
   * Where We are required by law to disclose Your Personal Information;
-  * Where Remove The Background, Inc. is sold, or substantially all of its assets are sold to another entity, We may disclose your Personal Information to the successor entity; and
+  * Where Pixelz, Inc. is sold, or substantially all of its assets are sold to another entity, We may disclose your Personal Information to the successor entity; and
   * Where such disclosure is, in Our sole discretion, necessary to protect the wellbeing of any third party.
 
 
@@ -43,4 +43,4 @@ The Site provides services to remove backgrounds of images sent to Us by custome
 
 ## CHANGING THE INFORMATION WE HOLD ABOUT YOU
 
-If you would like to change the registration information we hold about you from our registration database, you may do so by sending an email message to: cs@removethebackground.com.
+If you would like to change the registration information we hold about you from our registration database, you may do so by sending an email message to: cs@pixelz.com.
