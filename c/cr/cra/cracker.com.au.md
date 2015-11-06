@@ -1,98 +1,83 @@
-> *The following text is extracted and transformed from the cracker.com.au privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617181209id_/http%3A//cracker.com.au/Help/Privacy-Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cracker.com.au privacy policy that was archived on 2015-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151106204517id_/http%3A//australia.cracker.com.au/classifieds/PrivacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy | Cracker Classifieds - Cracker free ads & forums - find, sell or say anything!
+# Australia Free classifieds - cracker.com - cracker.com.au
 
-  
+**Cracker Privacy Policy**
 
+ **Last Revised: Aug 25, 2015**
 
-This policy sets out how Cracker uses your personal information and explains: 
+Cracker.com and its affiliates (collectively, the “Site”) respect your privacy. Here is our Privacy Policy for this Site: 
 
-  * What kind of personal information Cracker collects and how it is collected
-  * How Cracker uses the information you provide
-  * Disclosure
-  * How Cracker treats sensitive information
-  * Management and security of personal information
-  * Updating personal information
-  * Seeking access to the personal information Cracker holds about you
-  * How to contact Cracker
+**Acceptance of Privacy Policy**
 
+Each time you access, use, post, submit a post or reply, or browse the Site, you signify your acceptance of the then-current Privacy Policy. If you do not accept this Privacy Policy, you are not authorized to use the Site and must discontinue use of the Site immediately. 
 
+**Liability for content**
 
-The Cracker business name and website is an online property of Fairfax Digital Limited, Fairfax Digital Australia & New Zealand Pty Limited. 
+The content of our sites is delivered with utmost diligence and care possible. However, the Site cannot guarantee the accuracy, completeness, integrity and actuality of the content. In cases of declaration of violation of rights, the Site will delete the concerned content at the soonest possible time. 
 
-This policy applies to cracker.com.au and explains how Cracker uses personal information collected through the 'Site'. 
+**Liability for links**
 
-Cracker is bound by the National Privacy Principles contained in the Commonwealth Privacy Act, except for its activities carried on in the course of journalism which are exempt. Cracker has publicly committed to complying with the Australian Press Council Privacy Standards for the use of personal information in the course of journalism. 
+Our site contains links to external websites over which we have no control. Thus, the Site cannot be held accountable for the content of those third party websites and the consequences that may arise from the existence of such links on the Site. The operator or provider of the mentioned content is the one responsible for their respective site content. The linked-to websites were reviewed concerning possible violation of rights at the point of publication. However, some illegal content may not be recognizable at the point of publication. A constant and permanent monitoring of the links included on the Site without concrete indication and necessity is deemed unreasonable and infeasible. But in cases of declaration of violation of rights, the Site will delete the concerned link(s) at the soonest possible time. 
 
-Cracker may, from time to time, review and update this privacy policy statement to take account of new laws and technology and changes to Cracker's operations. All personal information held by Cracker will be governed by Cracker's most recent policy, posted on the Site. 
+**Collection and processing of personal data**
 
-**What kind of personal information Cracker collects and how it is collected**
+Ads on the Site are obviously made available to the public. Our servers are located in the European Union. If you choose to provide us with personal information, you are consenting to the transfer and storage of that information to and on our servers in the European Union. 
 
-Cracker collects personal information from a variety of sources, including from members of the public, advertisers, prospective employees, mailing lists, recruitment agencies, contractors and business partners. 
+We collect and store the following personal information: 
 
-In general, the personal information Cracker collects includes (but is not limited to) name, address, contact details, gender, occupation, in some cases membership of professional associations and, where relevant, financial information, including credit card information, banking details and income information. 
+• Email address, physical location/contact information and financial information (depending on the service used)  
+• Computer sign-in data, statistics on page views, traffic to and from the Site as well as ad data (Through cookies which you can disable on your browser. However, this is likely to affect your ability to use the site in terms of functionality).  
+• Other information including your IP address and standard web log information.
 
-_Personal Information you provide_ : We store the personal information you enter on the Cracker website or give to Cracker in other ways. We obtain most personal information through the posting of ads or discussion forums via the Cracker website. You may provide information when you request or acquire a product or service from Cracker or its related companies, provide a product or service to Cracker, complete a survey or questionnaire, enter a competition, participate in forums or when you communicate with Cracker by e-mail, telephone or in writing (for example if you contact customer service or provide feedback). 
+We point out that data transmission over the Internet (eg communication via e-mail) can lead to security issues. A complete protection of data against access of third parties is not possible. 
 
-_Automatic collection_ : Cookies: We may use a feature of your browser called a cookie to assign your computer a 'User ID'. Cookies do not contain information by which Cracker can identify you. They identify your computer to our servers. You may configure your browser so that you are notified before a cookie is downloaded or so that your browser does not accept cookies. Cracker may use information contained in cookies to make assumptions about the user of the computer and to provide users of that computer with focused advertising which Cracker believes may be of interest, based on that information. To disable your cookies, please refer to the help menu within your Internet browser. 
+**Transfer of personal data**
 
-_Indirect collection_ : Cracker endeavours to collect personal information about an individual only from that individual. In some circumstances Cracker may obtain personal information from a third party. If you provide personal information about another person to Cracker, Cracker requires that you inform that person you have done so and provide them with a copy of this policy. 
+Transfer or provision of personal data to a third party occurs only if the Site is lawfully obligated to provide information to authorities in relation to an ad that a user has posted, or if the user has given prior consent to the release of personal data. Otherwise, personal data will not be released, shared or sold to third parties for marketing or advertising purposes without prior permission from the user. 
 
-**How Cracker uses the information you provide**
+**Collection of Non-Personal Information Using Cookies**
 
-Cracker may use information it collects from you for the primary purpose for which it is collected and for such other secondary purposes that are related to the primary purpose of collection. 
+We automatically receive and record non-personal information on our server logs from your browser as well as through other analysis of the Sites. Non-personal information includes without limitation your Internet Protocol (“IP”) address, cookie information (as described below), the pages you request, type of computer operating system you use (e.g., Microsoft Windows or Mac OS), the type of browser you use (e.g., Firefox, Chrome, Internet Explorer), the domain name of the Internet service provider, your activities while visiting the Site, and the content you accessed. 
 
-Cracker generally uses personal information to: 
+“Cookies” are small text files that allow Web sites to store and retrieve information about you from your computer system. The Site does serve cookies to track individual site usage for later aggregation. But we do not use cookies in order to retrieve any information from your computer other than information originally sent in a Site cookie, such as a user code. We have no control over whether and how our advertisers use cookies that originate from their website. 
 
-  * provide you with products or services you have requested
-  * personalise and customise your experiences on the Cracker website;
-  * help Cracker manage and enhance its services;
-  * communicate with you;
-  * provide you with ongoing information about opportunities on the Cracker website in which Cracker believes you may be interested;
-  * give you the opportunity from time to time to receive e-mail from Cracker.
+**Disclosure of Personal Information to Third Parties**
 
+We may disclose your personal information to agents and operators under confidentiality or similar agreements, including shippers, vendors, payment processors, and advertisers, who we believe reasonably need to come into contact with that information: (i) to provide products or services to you; (ii) to administer our business or the Site, including fulfilling and shipping orders; (iii) to provide customer service; (iv) to update account information; (v) to forward updates, announcements, and newsletters; (vi) to respond to your communications, and communicate with you about the Site and other activities related to the Site; (vii) in the event of any reorganization, merger, sale, joint venture, assignment, transfer or disposition of all or any portion of the Site’s business or operations (including without limitation in connection with bankruptcy or any similar proceedings); or (viii) as otherwise authorized by you. 
 
+**Disclosure in Special Circumstances**
 
-If you do not provide Cracker with that information, Cracker will not be able to provide you with the requested product or service. 
+We may disclose also your name, email address, or other information about you, including personal information, if (i) required to do so by law, court order or subpoena, or as requested by other government, law enforcement, or investigative authority, (ii) we in good faith believe that such disclosure is necessary or advisable, including without limitation to protect the rights or properties of the Site, (iii) we have reason to believe that disclosing your personal information is necessary to identify, contact or bring legal action against someone who may be causing interference with our rights or properties, or has breached an agreement, or if anyone else could be harmed by such activities or interference, (iv) if we determine an ad posted violates our Terms of Use or the rights of a third party, or (v) there is an emergency involving personal danger. We may also provide information about you if we believe it is necessary to share information in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or as otherwise required or permitted by law. 
 
-**Disclosure**
+Please note that if you post any of your personal information on the Site, such information may be collected and used by others over whom the Site has no control. The Site is not responsible for the use by third parties of information you post or otherwise make public. 
 
-Cracker may disclose personal information to other companies in the Fairfax Group which may only use it as set out above. 
+**Communication from the Site/Opt-Out**
 
-Cracker may also provide your information to: 
+From time to time, we may send you information with announcements and updates about the Site and your account. You may elect to opt-out of ongoing e-mail communication from us, such as newsletters, subscriptions, account information, promotional materials, contest results, survey inquiries, etc. by using a simple “opt out” procedure. You need only reply to the communication with the word “unsubscribe” (without the quotation marks) in the body of your e-mail response and your name will be removed from that mailing list. However, if you opt-out of receiving our announcements and updates about your account, you may no longer have access to areas restricted to account members. 
 
-  * third parties engaged by Cracker to perform functions on its behalf, such as processing credit card information, mailouts, debt collection, marketing, research and advertising;
-  * third parties authorised by you to receive information held by Fairfax;
-  * Law enforcement to aid in their investigations of fraudulent and illegal postings.
+**Correction/Update of Personal Information**
 
+If your personal information changes, you may review/correct/update your personal information previously provided at any time by sending us an email at support@cracker.com. You may also have your personal profile data deleted from our database by sending us an email to support@cracker.com. However, if you have your personal profile data deleted from our database, you may forfeit entrance rights to areas restricted to account members and certain benefits for account members. 
 
+**Children**
 
-If Cracker sells part of its business, personal information may be part of the assets transferred to the purchaser. 
+The Site is not intended for children under the age of 13 nor does the Site knowingly collect personal information from children under 13. The Site does not orient this Site toward children or target them as an audience, nor does it screen them from using the Site. Some of the material on this Site is for mature audiences, and parents and guardians should take responsibility for monitoring their children’s use. The Site does not collect or distribute information indicating whether a user is a child. 
 
-The Cracker Network contains features where you are invited to send personal information to organisations other than Cracker. The choice to send such information to these organisations is entirely yours. You should be aware that any such information you choose to send will not be bound by this policy. 
+**E-Commerce and Our Secure Server**
 
-**How Cracker treats sensitive information**
+We understand that storing data in a secure manner is important. We store personal information using industry standard, reasonable and technically feasible, physical, technical and administrative safeguards against foreseeable risks, such as unauthorized access. All commerce transactions that take place on the Site are processed through our secure server in order to make every reasonable effort to insure that your personal information is protected. 
 
-**"Sensitive Information"** means information relating to a person's racial or ethnic origin, membership of political bodies, religion, membership of a trade union or professional or trade association, sexual preferences, criminal record and health. 
+Please be aware that the Site and data storage are run on software, hardware and networks, any component of which may, from time to time, require maintenance or experience problems or breaches of security beyond the Site’s control. We cannot guarantee the security of the information on and sent from the Site. 
 
-Cracker may use and disclose Sensitive Information only for the purpose for which it was provided or a directly related secondary purpose or as allowed by law unless you have agreed otherwise. 
+On our Site, you may have the opportunity to follow a link to other sites that may be of interest to you. We are not responsible for the privacy practices of those sites or the content provided thereon. We disclaim any responsibility for transactions conducted on those sites and cannot vouch for the security of the information submitted in those transactions. 
 
-**Management and security of personal information**
+**Policy Changes and Acceptance**
 
-Cracker protects the personal information Cracker holds from misuse, loss, unauthorised access, modification or disclosure by various means including firewalls, pass word access, secure servers and encryption of credit card transactions. 
+The Privacy Policy may be revised from time to time as we add new features and services, as laws change, and as industry privacy and security best practices evolve. We display an effective date on the upper left corner of the Privacy Policy so that it will be easier for you to know when there has been a change. Accordingly, you should check the Privacy Policy on a regular basis for the most current privacy practices. Each time you access, use or browse the Site, you signify your acceptance of the then-current changes to the Privacy Policy applying to your personal information collected by us on and from the effective date of such changes. 
 
-**Updating personal information** Cracker endeavours to ensure that the personal information it holds is accurate, complete and up-to-date. 
+Any changes in the Privacy Policy will take effect upon posting and apply only to information collected from you on and after Last Revised date, unless we provide notice or have other communications with you. 
 
-You can generally update personal information that is not membership information on the Cracker website where you submitted that information. Otherwise, please contact Cracker on [privacy@cracker.com.au](mailto:privacy@cracker.com.au). Where personal information is no longer required by Cracker, it will be destroyed or de-identified. 
+**More Questions?**
 
-**Seeking access to the personal information Cracker holds about you**
-
-You have the right to seek access the personal information held about you and to advise Cracker of any inaccuracy. There are some exceptions to this right set out in the Privacy Act. 
-
-If you make an access request, Cracker will ask you to verify your identity and specify what information you require. Cracker may charge a fee to cover the costs of meeting your request. 
-
-**How to contact Cracker**
-
-If you have enquiries or wish to provide feedback about this policy, please e-mail [privacy@cracker.com.au](mailto:privacy@cracker.com.au). 
-
-To make an access request, please write to the Privacy Officer at GPO Box 506 Sydney, 2001. 
+If you have any questions about this Privacy Policy, e-mail them to [abuse@cracker.com](mailto:abuse@cracker.com), and be sure to indicate the specific site you’re visiting and the nature of your question or concern. 
