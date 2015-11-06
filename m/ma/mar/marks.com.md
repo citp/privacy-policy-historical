@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marks.com privacy policy that was archived on 2015-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150413012210id_/http%3A//www.marks.com/shop/en/marks-marksdefaultsalescatalog/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marks.com privacy policy that was archived on 2015-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151106063919id_/http%3A//www.marks.com/shop/en/marks/Privacy) for the most accurate reproduction.*
 
-# Mark's - Smart Clothes, Everyday Living
+# Privacy Policy | Mark's.com
 
 Mark's abides by the Canadian Tire Corporation, Limited Privacy Charter.
 
