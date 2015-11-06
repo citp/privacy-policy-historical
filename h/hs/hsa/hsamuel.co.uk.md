@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hsamuel.co.uk privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624071314id_/http%3A//www.hsamuel.co.uk/webstore/static/customerservice/shopping/privacyPolicy.cdo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsamuel.co.uk privacy policy that was archived on 2015-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151106021905id_/http%3A//www.hsamuel.co.uk/webstore/static/customerservice/shopping/privacyPolicy.cdo) for the most accurate reproduction.*
 
 # Shopping at H.Samuel - Customer Services - H. Samuel the Jeweller
 
