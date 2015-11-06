@@ -1,100 +1,64 @@
-> *The following text is extracted and transformed from the adsark.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226224735id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsark.com privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107000729id_/http%3A//adsark.com/privacy.php) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+  
+Adsark.com has established this privacy policy to explain to you how your information is protected, collected and used, which may be updated by Adsark.com from time to time. Adsark.com will provide notice of materially significant changes to this privacy policy by posting notice on our site. 
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+### 1\. Cookie Policy
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+  * Third party vendors, as well as Google use cookies to serve and display ads based on a user's prior visits to the website.
+  * Google's use of the DoubleClick cookie enables it and its partners to serve ads to users that are based on visits to this site and/or other sites across the Internet.
+  * Users may opt out of using the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). (Alternatively, you can directly opt out of a third-party vendor's use of cookies for interest-based advertising by visiting [aboutads.info](http://www.aboutads.info/).)
+  * We use third-party vendors such as Google as advertising on this site.
+  * You may visit [this site](http://www.google.com/ads/preferences/) to opt out of the use of cookies for interest-based advertising. Alternatively, you can directly opt out of some third-party vendors' use of cookies for interest-based advertising by visiting [this link](http://www.aboutads.info/).
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-**Information Collection and Use**
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+### 2\. Protecting your privacy
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+  * We run banner ads, pop ups, pop unders, or any other kind of commercial ads.
+  * We share your information with third parties for marketing purposes.
+  * We engage in cross-marketing or link-referral programs with other sites.
+  * We employ tracking devices for marketing purposes ("cookies", "web beacons," single-pixel gifs).
+  * We send you unsolicited communications for marketing purposes. 
+  * Forums uses basic webserver authentication. Close your browser to log out.
+  * Adsark.com knowingly collect any information from persons under the age of 13. If we learns that a posting is by a person under the age of 13, Adsark.com will keep that post.
+  * Adsark.com, or people who post on this website, may provide links to third party websites, which may have different privacy practices. We are not responsible for, nor have any control over, the privacy policies of those third party websites, and encourage all users to read the privacy policies of each and every website visited. 
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+### 3\. Data we collect
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+  * We sometimes collect your email address, for purposes such as sending self-publishing and confirmation emails, registering for forums, etc.
+  * For paid postings, we collect contact information, such as name(s), phone/fax number(s), and address for billing purposes.
+  * Adsark.com does not store credit card information. Credit card transactions are transmitted to a financial gateway, and we endeavor to protect the security of your payment information during transmission by using Secure Sockets Layer (SSL) technology.
+  * We may collect personal information if you provide it in feedback or comments, post it on our classifieds or interactive forums, or if you contact us directly. Please do not post any personal information on our discussion forums or classifieds posts that you expect to keep private.
+  * Our web logs collect standard web log entries for each page served, including your IP address, page URL, and timestamp. Web logs help us to diagnose problems with our server, to administer our website, and to otherwise provide our service to you.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-**Security**
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
+### 4\. Data we store
 
-**Updating Your Information**
+  * All classified and forum postings are stored in our database, even after "deletion," and may be archived elsewhere.
+  * Our web logs and other records are stored indefinitely.
+  * Although we make good faith efforts to store the information in a secure operating environment that is not available to the public, we cannot guarantee complete security.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+### 5\. Archiving and display of Adsark.com postings by search engines and other sites
 
-      iii.      You may call us at: (480) 505-8800
+Search engines and other sites not affiliated with Adsark.com - including archive.org, google.com, and groups.yahoo.com - archive or otherwise make available Adsark.com ad postings, including resumes. 
 
-       iv.      You may fax us at: (480) 505-8844
 
-**Sending Emails**
+### 6\. Circumstances in which Adsark.com may release information
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+  * We disclose information about the users if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process.
+  * Adsark.com also disclose information about its users to law enforcement officers or others, in the good faith belief that such disclosure is reasonably necessary to: enforce our Terms of Use; respond to claims that any posting or other content violates the rights of third-parties; or protect the rights, property, or personal safety of craigslist, its users or the general public.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-**Compliance with Laws and Law Enforcement**
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+### 9\. Feedback and comments
 
-**Third Party Service Providers**
+We welcome your feedback on this document in our [contact form](http://adsark.com/contact-us.php). We would be glad to explain you any terms for your better understanding. 
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
