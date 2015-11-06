@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the electricpicnic.ie privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506223037id_/http%3A//www.electricpicnic.ie/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electricpicnic.ie privacy policy that was archived on 2015-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151106195145id_/http%3A//www.electricpicnic.ie/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Electric Picnic
 
-The websites [www.electricpicnic.ie](http://www.electricpicnic.ie/) (it being "the Website") is owned and operated by Electric Picnic Republic Ltd ("our", "us" and "we") We're a company registered in Ireland with registration number 467070. Our registered office is 3Arena, North Wall Quay, Dublin 1, Ireland. and our VAT number is IE 9699990W. Our postal address is EP Republic Ltd, C/o Festival Republic, 35 Bow Street, Covent Garden, London, WC2E 7AU.[enquiries@festivalrepublic.com](mailto:enquiries@festivalrepublic.com) is our email address.
+The websites [www.electricpicnic.ie](http://www.electricpicnic.ie/) (it being "the Website") is owned and operated by EP Republic Ltd ("our", "us" and "we") We're a company registered in Ireland with registration number 467070. Our registered office is 3Arena, North Wall Quay, Dublin 1, Ireland. and our VAT number is IE 9699990W. Our postal address is EP Republic Ltd, C/o Festival Republic, 35 Bow Street, Covent Garden, London, WC2E 7AU.[enquiries@festivalrepublic.com](mailto:enquiries@festivalrepublic.com) is our email address.
 
 ### 1\. INTRODUCTION
 
