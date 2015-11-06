@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cybercafepro.net privacy policy that was archived on 2015-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150306002319id_/http%3A//www.cybercafepro.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cybercafepro.net privacy policy that was archived on 2015-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151106123320id_/http%3A//search.cybercafepro.com/privacy.php) for the most accurate reproduction.*
 
-# CyberCafePro Search
+# CyberCafePro Search Privacy
 
 Privacy Policy for the domains (websites) and all sub-domains:
 
-_CyberCafePro.net_
+_http://search.cybercafepro.com_
 
 **What information do we collect?**
 
@@ -35,6 +35,12 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 **Third party links**
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+  * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.
+  * Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+  * Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). (Alternatively, you can direct users to opt out of a third-party vendor's use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).) 
+
+
 
 **Online Privacy Policy Only**
 
