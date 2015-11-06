@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the incontact.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618051612id_/http%3A//www.incontact.com/call-center-software-company/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incontact.com privacy policy that was archived on 2015-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151106094120id_/http%3A//www.incontact.com/call-center-software-company/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | inContact
+# Privacy Policy - inContact
 
 To see our Safe Harbor Policy, [Click Here](https://web.archive.org/call-center-software-company/legal/safe-harbor).
 
