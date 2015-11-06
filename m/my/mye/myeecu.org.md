@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the myeecu.org privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805232440id_/https%3A//www.myeecu.org/home/fiFiles/static/documents/EECUPrivacyNotice.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myeecu.org privacy policy that was archived on 2015-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151106052151id_/https%3A//www.myeecu.org/home/fiFiles/static/documents/EECUPrivacyNotice.pdf) for the most accurate reproduction.*
 
-# 
+# FACTS
 
+                                                                                                                    Rev 8/2015
                                                                                                          Privacy Notice
                    WHAT DOES EDUCATIONAL EMPLOYEES CREDIT UNION
 FACTS              DO WITH YOUR PERSONAL INFORMATION?
@@ -10,9 +11,9 @@ Why?               Financial companies choose how they share your personal infor
                    and protect your personal information. Please read this notice carefully to understand what we do.
 What?              The types of personal information we collect and share depend on the product or service you have with
                    us. This information can include:
-                        Social Security Number           Income
-                        Transaction history              Account balances
-                        Credit history                   Credit scores
+                        Social Security Number and income
+                        Transaction history and account balances
+                        Credit history and account transactions
                    When you are no longer our member, we continue to share your information as described in this notice.
 How?               All financial companies need to share members’ personal information to run their everyday business. In
                    the section below, we list the reasons financial companies can share their members’ personal
@@ -37,41 +38,40 @@ For our affiliates’ everyday business purposes –
                                                                          No                           We do not share
 information about your creditworthiness
 For non-affiliates to market to you                                      No                           We do not share
-Questions? Call 800-538-EECU (3328) or (559) 437-7700 or go to www.myEECU.org
-                                                                                                             Revised Nov. 2011
+Questions? Call (800) 538-3328 or (559) 437-7700 or go to www.myEECU.org
 
 
 Page 2
 Who we are
-Who is providing this notice?        Educational Employees Credit Union
+Who is providing this notice?           Educational Employees Credit Union
 What we do
-How does EECU                        To protect your personal information from unauthorized access and use, we use
-protect my personal information?     security measures that comply with federal law. These measures include computer
-                                     safeguards and secured files and buildings.
-How does EECU                        We collect your personal information, for example, when you:
-collect my personal information?
-                                         Open an account                             Use Online Access or Bill Pay
-                                         Apply for a loan                            Provide employment information
-                                         Use your credit or debit card
-Why can’t I limit all sharing?       Federal law gives you the right to limit only:
-                                         Sharing for affiliates’ everyday business purposes – information about your
-                                         creditworthiness
-                                         Affiliates from using your information to market to you
-                                         Sharing for non-affiliates to market to you
-                                     State laws and individual companies may give you additional rights to limit sharing.
+How does EECU protect                   To protect your personal information from unauthorized access and use, we use
+my personal information?                security measures that comply with federal law. These measures include computer
+                                        safeguards and secured files and buildings.
+How does EECU collect                   We collect your personal information, for example, when you:
+my personal information?
+                                            Open an account
+                                            Apply for a loan
+                                            Use your credit or debit card
+                                            Make deposits or withdrawals from your account
+                                            Give us your contact information
+Why can’t I limit all sharing?          Federal law gives you the right to limit only:
+                                            Sharing for affiliates’ everyday business purposes – information about your
+                                            creditworthiness
+                                            Affiliates from using your information to market to you
+                                            Sharing for non-affiliates to market to you
+                                        State laws and individual companies may give you additional rights to limit sharing.
 Definitions
-Affiliates                           Companies related by common ownership or control. They can be financial and
-                                     nonfinancial companies.
-                                         EECU has no affiliates.
-Non-affiliates                       Companies not related by common ownership or control. They can be financial and
-                                     nonfinancial companies.
-                                         EECU does not share with non-affiliates so they can market to you.
-Joint marketing                      A formal agreement between non-affiliated financial companies that together market
-                                     financial products or services to you.
-                                         EECU does not market products or services jointly with non-affiliated
-                                       companies.*
+Affiliates                              Companies related by common ownership or control. They can be financial and
+                                        nonfinancial companies.
+                                            EECU has no affiliates.
+Non-affiliates                          Companies not related by common ownership or control. They can be financial and
+                                        nonfinancial companies.
+                                            EECU does not share with non-affiliates so they can market to you.
+Joint marketing                         A formal agreement between non-affiliated financial companies that together market
+                                        financial products or services to you.
+                                            EECU does not market products or services jointly with non-affiliated
+                                          companies.*
 Other Important Information
- *When we let you know of a financial product or service offered by another company, we retain control of your
- information until you authorize its release by choosing to become a customer of the company or by requesting
- their product or service.
-                                                                                                       Revised Nov. 2011
+ *When we let you know of a financial product or service offered by another company, we retain control of your information
+ until you authorize its release by choosing to become a customer of the company or by requesting their product or service.
