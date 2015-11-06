@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalatlas.gov privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628015752id_/http%3A//www.usgs.gov/laws/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalatlas.gov privacy policy that was archived on 2015-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151106092351id_/http%3A//www.usgs.gov/laws/privacy.html) for the most accurate reproduction.*
 
 # USGS Privacy Policy and Disclaimers
 
