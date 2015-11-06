@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easy-birthday-cakes.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508151414id_/http%3A//www.easy-birthday-cakes.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easy-birthday-cakes.com privacy policy that was archived on 2015-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151106222329id_/http%3A//www.easy-birthday-cakes.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Easy-Birthday-Cakes.com Privacy Policy
 
@@ -147,17 +147,6 @@ PO Box 5524 Poland, OH 44514 1-800-673-5013
 
 [ Home](http://www.easy-birthday-cakes.com/) > Privacy Policy 
 
-**Share this page:  **  
-
-
-What's This?
-
-| | | |   
----|---|---|---|---  
-| | |   
-  
-Enjoy this page? Please pay it forward. Here's how...  
-  
   
 
 
