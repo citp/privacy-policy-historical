@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comeonengland.org privacy policy that was archived on 2015-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150416111853id_/http%3A//www.gofansgo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comeonengland.org privacy policy that was archived on 2015-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151106131519id_/http%3A//www.comeonengland.org/en/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
