@@ -1,29 +1,29 @@
-> *The following text is extracted and transformed from the localmint.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616192901id_/http%3A//www.localmint.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localmint.com privacy policy that was archived on 2015-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151106121451id_/http%3A//www.localmint.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Localmint
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by [contact form](https://web.archive.org/home/contact).
+Localmint.com aims to protect the privacy of all users of our website and apps, as the privacy of our visitors is of extreme importance to us. This policy outlines localmint.com’s use of cookies, log files, web beacons, and similar technology associated with use of our website and app, what type of information is collected, who it is shared with and how it is used. By continuing to use this website you indicate your acceptance of this Policy. 
 
-At www.localmint.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.localmint.com and how it is used.
+This privacy policy does not apply to third-party advertisers or web pages displayed or linked to on our website or app as we cannot control the Cookie use, data collection, privacy standards, or actions of these third-parties. We reserve the right to update our Cookie Policy as we deem necessary to reflect changes in our service, relevant legislation, technology, or our data use policies. These Cookie policy updates may affect how we use and store cookies, and how the user manages their cookie preferences.
 
-**Log Files**
+Localmint.com’s Use of Cookies and Similar Technologies
 
-Like many other Web sites, www.localmint.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+Like most websites, localmint.com may use cookies, log files, web beacons, and similar technology related to your use of the website and app in order to optimize the user experience. 
 
-**Cookies and Web Beacons**
+Cookies may be placed on your computer or mobile device, on your browser, and on our web or app pages. Cookies may be stored for just the length of your session with a “session cookie” and after your session for repeat visits with a “persistent cookie.” Cookies may communicate information including your IP address, browser type, search preferences, referring and exit pages, advertisements displayed to you, advertisements that you click on, country of use, and date and time of use. 
 
-www.localmint.com use CountryCode cookie to store two letter country code for navigation purpose. It can be deleted from the browser settings. www.localmint.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+This information allows localmint.com to ensure that the appropriate content is displayed for your browser and country, among other things. Cookies used by localmint.com are not linked to any personally identifiable information. Localmint.com may use Cookies for purposes including but not limited to security, user location preferences, advertising, and analytics.
 
-**DoubleClick DART Cookie**
+Third Party Cookies
 
-Google, as a third party vendor, uses cookies to serve ads on www.localmint.com. .:: Google''s use of the DART cookie enables it to serve ads to users based on their visit to www.localmint.com and other sites on the Internet. .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html
+Localmint.com has third party partners that may use Cookies, such as the DART cookie that Google uses to serve ads on localmint.com. 
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .... Google Adsense
+Localmint.com’s advertising partners may use Cookies and other technologies (such as JavaScript or Web beacons) to measure the effectiveness of their advertisements and to personalize the advertising content displayed to you. Localmint.com has no access to or control over Cookies and similar technology used by third-party advertisers. You may consult the respective privacy policies of our third-party partners [Google ](http://www.google.com/policies/privacy/)and [Criteo ](http://www.criteo.com/privacy/)for more details on their practices and instructions on how to opt out of certain practices. 
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.localmint.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+Disable Cookies
 
-www.localmint.com has no access to or control over these cookies that are used by third-party advertisers.
+If you wish to disable Cookies, you may do so through your individual browser settings. More detailed information on how to disable Cookies on your browsers can be found at the following URL - <http://www.aboutcookies.org/>.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.localmint.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+More Information
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us via our [contact form](http://www.localmint.com/home/contact).
