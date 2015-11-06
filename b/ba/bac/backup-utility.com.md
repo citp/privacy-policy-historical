@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backup-utility.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609235606id_/http%3A//www.backup-utility.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backup-utility.com privacy policy that was archived on 2015-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151106165348id_/http%3A//www.backup-utility.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
