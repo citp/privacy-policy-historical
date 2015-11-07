@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the all-the-jobs.com privacy policy that was archived on 2014-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140919024809id_/http%3A//za.all-the-jobs.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the all-the-jobs.com privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107021853id_/http%3A//us.all-the-jobs.com/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy / Home - All the Jobs
+# Privacy Policy / Home | All the Jobs
 
 Allthejobs Limited which incorporates the All-The-Jobs Websites “Allthejobs” is committed to safeguarding and protecting the privacy of the Users of our Website. This Privacy Policy explains what happens to any personal data that You provide to us, or that we collect from You when you visit our Website so that You can clearly understand our data, security practices, policies and so that You can be assured that Your personal data will only be used in accordance with our Privacy Policy. 
 
