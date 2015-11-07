@@ -1,17 +1,10 @@
-> *The following text is extracted and transformed from the wpmlm.com privacy policy that was archived on 2015-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150416025628id_/http%3A//wpmlm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpmlm.com privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107035748id_/http%3A//wpmlm.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | WP-MLM
 
-  * [Home](http://wpmlm.com/ "WP-MLM")
-  * Privacy Policy
-
-
-
-The World's Only Forced Matrix Recruiting System For Reps!
-
 ## Privacy Policy
 
-Strongbox Solutions, LLC (“wpmlm.com”, “we”, “us”, or “provider”) will not trade, sell, make available or disclose to any third party any form of personal information without your consent. We value our customers (“you”, “user”, or “end-user”) both current and potential, and want to ensure their privacy when using our services. The following Privacy Policy is enacted to explain how we collect and use information from our customers who use services from wpmlm.com and those who may have visited our website or communicated with wpmlm.com.
+Free Team Builder, LLC (“wpmlm.com”, “we”, “us”, or “provider”) will not trade, sell, make available or disclose to any third party any form of personal information without your consent. We value our customers (“you”, “user”, or “end-user”) both current and potential, and want to ensure their privacy when using our services. The following Privacy Policy is enacted to explain how we collect and use information from our customers who use services from wpmlm.com and those who may have visited our website or communicated with wpmlm.com.
 
 Collection, Use, and Communication of Information (by wpmlm.com and/or Third Parties)
 
@@ -44,11 +37,3 @@ Click here to view our [Terms of Service](https://web.archive.org/tos)
 ## Contact
 
 Email: support@wpmlm.com
-
-**Mail:**
-
-WP-MLM  
-2719 SE Sunflower Ct  
-Hillsboro, OR 97123
-
-[](http://freeteambuilder.com/?ftbaff=2)
