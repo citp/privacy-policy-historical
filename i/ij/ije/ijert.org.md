@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ijert.org privacy policy that was archived on 2015-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150417154413id_/http%3A//www.ijert.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ijert.org privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107075450id_/http%3A//www.ijert.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
