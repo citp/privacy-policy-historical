@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the porn-tube.club privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502004505id_/http%3A//porn-tube.club/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porn-tube.club privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107022341id_/http%3A//porn-tube.club/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Only HD Porn Videos
 
 Porn-Tube.club recognizes that its customers, visitors, users, and others who use Porn-Tube.club value their privacy. This privacy notice details important information regarding the use and disclosure of user information collected on the Porn-Tube.club web site. We provide this privacy notice to help you make an informed decision about whether to use or continue using our site.
 
