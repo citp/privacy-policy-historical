@@ -1,90 +1,63 @@
-> *The following text is extracted and transformed from the humless.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314134410id_/http%3A//www.humless.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humless.com privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107083523id_/http%3A//www.humless.com/privacy-policy) for the most accurate reproduction.*
 
-# Portable Quiet Solar Backup Generator
+# Privacy Policy - Humless
 
-### What information do we collect?
+#### PRIVACY POLICY
 
-We collect information from you when you place an order, subscribe to our newsletter, respond to a survey or fill out a form. 
+###### This Privacy Policy governs the manner in which Humless collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.humless .com website (“Site”). This privacy policy applies to the Site and all products and services offered by Humless.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
+###### **Personal identification information**  
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-### What do we use your information for?
+###### **Non-personal identification information**  
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-Any of the information we collect from you may be used in one of the following ways: 
+###### **Web browser cookies**  
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-• To personalize your experience (your information helps us to better respond to your individual needs)  
-• To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)  
-• To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)  
-• To process transactions  
-• To administer a contest, promotion, survey or other site feature  
-• To send periodic emails 
+###### **How we use collected information**  
+Humless may collect and use Users personal information for the following purposes:
 
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+###### _To improve customer service_  
+_To personalize user experience_  
+_To improve our Site_  
+_To process payments_  
+_To run a promotion, contest, survey or other Site feature_  
+_To send periodic emails_
 
-The email address you provide for order processing, will only be used to send you information and updates pertaining to your order. 
+###### **This data will be used for the following purposes:**  
+Information you provide helps us respond to your customer service requests and support needs more efficiently.  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
+We may use feedback you provide to improve our products and services.  
+We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.  
+To send Users information they agreed to receive about topics we think will be of interest to them.  
+We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.  
+This data will be used by ourselves and our agents.
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+###### **How we protect your information**  
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-### How do we protect your information?
+###### Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures. Our Site is also in compliance with PCI vulnerability standards in order to create as secure of an environment as possible for Users.
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
+###### **Sharing your personal information**  
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
+###### **Third party websites**  
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days.
+###### **Changes to this privacy policy**  
+Humless has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-### Do we use cookies?
+###### **Your acceptance of these terms**  
+By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+###### **Contacting us**  
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+###### **Humless**  
+_www.humless .com_  
+Corporate Headquarters  
+1374 West 200 South, Lindon, UT 84042  
++1(866) 476-2586
 
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service.
-
-### Do we disclose any information to outside parties?
-
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
-
-### Third party links
-
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
-### California Online Privacy Protection Act Compliance
-
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
-
-### Childrens Online Privacy Protection Act Compliance
-
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
-
-### Online Privacy Policy Only
-
-This online privacy policy applies only to information collected through our website and not to information collected offline.
-
-### Terms and Conditions
-
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.humless.com/cart/pages.php?pageid=3](http://www.humless.com/Terms_-and-_Conditions.html)
-
-### Your Consent
-
-By using our site, you consent to our web site privacy policy.
-
-### Changes to our Privacy Policy
-
-If we decide to change our privacy policy, we will update the Privacy Policy modification date below. 
-
-This policy was last modified on 2/21/2011
-
-### Contacting Us
-
-If there are any questions regarding this privacy policy you may contact us using the information below. 
-
-www.humless.com  
-1122 S 900 E  
-Provo, UT 84606  
-USA  
-info@humless.com  
-801-762-6006
-
-  
-
+###### **_This document was last updated on 19 August 2015_**
