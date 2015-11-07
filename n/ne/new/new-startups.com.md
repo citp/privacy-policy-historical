@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the new-startups.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508233132id_/http%3A//www.new-startups.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the new-startups.com privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107013335id_/http%3A//www.new-startups.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
