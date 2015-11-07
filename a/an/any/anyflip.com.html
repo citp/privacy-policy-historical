@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the anyflip.com privacy policy that was archived on 2015-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150626095823id_/http%3A//anyflip.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the anyflip.com privacy policy that was archived on 2015-11-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151107032250id_/http%3A//anyflip.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="EN"><head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -10,8 +10,7 @@
   <link rel="icon" href="/favicon.ico" type="image/x-icon">
   <title>Privacy Policy | AnyFlip</title>
 
-  <link rel="stylesheet" href="/css/common.css">
-
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> <link type="text/css" rel="stylesheet" href="/css/build/build.min.css">
   <link rel="stylesheet" href="/privacy/css/privacy.css">
 
   <script src="/js/jquery-1.10.2.min.js"></script>
@@ -49,15 +48,7 @@
     };
 </script>
 
-    <script type="text/javascript" src="/js/yui-out/build-min.js"></script>
-
-<!--fast upload script-->
-<script type="text/javascript" src="/js/bootstrap.js"></script>
-<script type="text/javascript" src="/js/lib/zTree/jquery.ztree.core-3.5.js"></script>
-<script type="text/javascript" src="/js/lib/zTree/jquery.ztree.exedit-3.5.js"></script>
-<script type="text/javascript" src="/js/lib/fileupload.min.js"></script>
-<script type="text/javascript" src="/js/lib/jquery.qrcode.min.js"></script>
-
+<script type="text/javascript" src="/js/utils/md5.js"></script><script type="text/javascript" src="/js/build/build.min.js"></script>
 <div class="af-top-navbar navbar navbar-default navbar-fixed-top">
     <div class="container">
             <div class="af-top-navbar-collapse">
@@ -75,8 +66,21 @@
                     <li class="top-explore-books hidden-xs">
                         <a href="/explore">
                             Explore
-                            <i></i>
+                            <i class="fa fa-caret-down"></i>
                         </a>
+                        <ul class="af-top-login-hide-menu">
+                            <li>
+                                <a class="not-hover" href="/explore?#latest">
+                                    <i class="fa fa-cloud"></i>&nbsp;&nbsp;Latest Flips 
+                                </a>
+                            </li>
+                            
+                            <li>
+                                <a class="not-hover" href="/community">
+                                    <i class="fa fa-users"></i>&nbsp;&nbsp;Community
+                                </a>
+                            </li>
+                        </ul>
                     </li>
                     <li class="top-feature  hidden-xs hidden-sm hidden-md">
                         <a href="/features">
@@ -236,9 +240,9 @@
                         var search = function($container){
                 var q = $container.val().trim();
                 if (q === "") {
-                    window.location.href = "/explore/";
+                    window.location.href = "/explore/#latest";
                 } else {
-                    window.location.href = "/explore?q=" + q;                      
+                    window.location.href = "/explore?q=" + q + "#latest";                      
                 }
             };
             $("#af-top-logout-search>input").add($("#af-top-hide-logout-search>input")).on("keypress", function(e) {
@@ -323,9 +327,9 @@
 </div>
 <div class="af-bottom-bar">
     <div class="af-bottom-extra">
-        <div class="af-bottom-context cc-float-fix">
+        <div class="af-bottom-context af-overflow">
 
-            <div class="af-bottom-web-container cc-float-fix">
+            <div class="af-bottom-web-container af-overflow">
                 <div class="af-bottom-col">
                     <p>Contact Us</p>
                     <div class="contact-email">
@@ -333,7 +337,7 @@
                     </div>
                     <div class="contact-social">
                         <p>Follow Us</p>
-                        <div class="social-networks cc-float-fix">
+                        <div class="social-networks af-overflow">
                             <a target="_blank" class="af-bottom-facebook-share" href="https://www.facebook.com/anyflip" rel="nofollow">
                                 
                             </a>
@@ -365,12 +369,12 @@
                 </div>
             </div>
 
-            <div class="af-bottom-follow-container cc-float-fix">
+            <div class="af-bottom-follow-container af-overflow">
                 <div class="af-bottom-col download-col">
                     <p>Download</p>
                     <div class="af-bottom-download-content">
                         <p>Try AnyFlip free and experience increased efficiency and productivity</p>
-                        <a href="http://anyflip.com/download/anyflip.exe" onclick="ga('send', 'event', 'Download', this.href, document.location.pathname);" rel="nofollow">
+                        <a href="http://anyflip.com/download/anyflip-pc.zip" onclick="ga('send', 'event', 'Download', this.href, document.location.pathname);" rel="nofollow">
                             <div class="af-bottom-download-btn">
                                 <div class="icon"></div>
                                 <div class="title">Download For Windows</div>
@@ -395,10 +399,10 @@
         </div>
     </div>
     <div class="af-footer">
-        <div class="af-footer-copyright cc-float-fix">
+        <div class="af-footer-copyright af-overflow">
 
              <div class="af-footer-right">
-                <ul class="cc-float-fix">
+                <ul class="af-overflow">
                     <li>
                         <a href="/about">About Us</a>
                     </li>
@@ -421,7 +425,7 @@
                 </ul>
             </div>
 
-            <div class="af-footer-left cc-float-fix">
+            <div class="af-footer-left af-overflow">
                 <div class="af-copyright-text">© 2015 AnyFlip Software Co., Ltd. All rights reserved</div>
             </div>
 
