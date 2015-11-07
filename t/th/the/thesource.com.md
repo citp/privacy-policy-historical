@@ -1,78 +1,133 @@
-> *The following text is extracted and transformed from the thesource.com privacy policy that was archived on 2013-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130401233020id_/http%3A//www.thesource.com/static/privacy/%3Fthesource-prod%3D48mohcu252q0l0b46ocl20vf77) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesource.com privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107114800id_/http%3A//thesource.com/privacy) for the most accurate reproduction.*
 
-# The Source - Privacy
+# Privacy Policy | The Source
 
-### Welcome to THE SOURCE (TM)
+**www.TheSOURCE.com Privacy Policy**
 
-#### Introduction
+This Privacy Policy describes the policies and procedures of Source Digital, Inc. (“we”, “our” or “us”) on the collection, use and disclosure of your information on [www.thesource.com](http://www.thesource.com/) (the “Site”) and the services, features, content or applications we offer (collectively with the Site, the “Services”). We receive information about you from various sources, including: (i) if you register for the Site and the Services, through your user account on the Services (your “Account”); (ii) your use of the Services generally; and (iii) from third party websites and services. When you use the Services, you are consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy.
 
-All references to ‘our’, ‘us’, ‘we’ or ‘company’ within this policy and within the opt-in notice are deemed to refer to THE SOURCE™, its subsidiaries, affiliates, parent companies and any of their related businesses.
+**What Does This Privacy Policy Cover?**
 
-We endeavor to protect your personal privacy. We provide this privacy statement to help you to understand what we may do with any information that we obtain from you. By providing your personal details to us, you signify your acceptance of our Privacy Statement. If you do not agree to this statement, please do not provide your personal details to us. This privacy statement is incorporated into, and part of, the Terms and Conditions, which govern your use of the site in general. We will use your information for the purposes set out below. You will have an opportunity to unsubscribe whenever we communicate with you.
+This Privacy Policy covers the treatment of personally identifiable information (“Personal Information”) gathered when you are using or accessing the Services. This Privacy Policy also covers our treatment of any Personal Information that our business partners share with us or that we share with our business partners.
 
-We may need to update this privacy statement from time to time. We recommend that you regularly check this page to ensure that you have read the most recent version.
+This Privacy Policy does not apply to the practices of third parties that we do not own or control, including but not limited to any third party websites, services and applications (“Third Party Services”) that you elect to access through the Service or to individuals that we do not manage or employ. While we attempt to facilitate access only to those Third Party Services that share our respect for your privacy, we cannot take responsibility for the content or privacy policies of those Third Party Services. We encourage you to carefully review the privacy policies of any Third Party Services you access.
 
-#### Collecting Personal Information
+**What Information Do We Collect?**
 
-You can decide what personal information you provide to us. We will only collect personal information that you choose to provide. Where possible, we will enable you to select how we will use this information (for example, by choosing to opt-in or opt-out of receiving special promotional offers).
+The information we gather enables us to personalize, improve and continue to operate the Services. In connection with certain aspects of the Services, we may request, collect and/or display some of your Personal Information. We collect the following types of information from our users.
 
-You may choose to provide us with personal information if, for example, you: contact us with an enquiry; register on the site, fill out a survey or other form with your personal information included; request us to provide you with information; enter a competition; post information to public areas of the site or take advantage of a promotion.
+_Account Information_ :
 
-You have the opportunity to choose not to opt-in receive communications from us at any point where we request information about you.
+When you create an Account, you will provide information that could be Personal Information, such as your username, password and email address. You acknowledge that this information may be personal to you, and by creating an account on the Services and providing Personal Information to us, you allow others, including us, to identify you and therefore may not be anonymous. If you access the Services through Facebook credentials, we may automatically collect certain information that could be Personal Information, such as your name, picture, and email address. We will use all information available through Facebook in accordance with Facebook’s policies and your preferences selected through Facebook. We may use your contact information to send you information about our Services, but only rarely when we feel such information is important. You may unsubscribe from these messages through your Account settings, although we, regardless, reserve the right to contact you when we believe it is necessary, such as for account recovery purposes.
 
-By providing any personal information to us, you fully understand and clearly consent to the transfer of such personal information to, and the collection and processing of such information in, other countries or territories. Any such transfer and processing by us will be in accordance with this privacy statement.
+_User Content_ :
 
-Third parties (including but not limited to software providers, advertisers and ad placement agencies) may also use tracking technologies by or through the site. We have no responsibility or liability for any tracking, data collection or other activities of such third parties.
+Some features of the Services allow you to provide content to the Services, such as written comments. All content submitted by you to the Services may be retained by us indefinitely, even after you terminate your account. We may continue to disclose such content to third parties in a manner that does not reveal Personal Information, as described in this Privacy Policy.
 
-#### Use of Cookies
+_IP Address Information and Other Information Collected Automatically_ :
 
-We do not connect the information collected through cookies with other information that is personally identifiable, unless required or permitted to do so by law or to enforce the Terms & Conditions.
+We automatically receive and record information from your web browser when you interact with the Services, including your IP address and cookie information. This information is used for fighting spam/malware and also to facilitate collection of data concerning your interaction with the Services (e.g., what links you have clicked on).
 
-In common with many websites, we use “cookies” to help us gather the following information from visitors to our site
+Generally, the Services automatically collect usage information, such as the number and frequency of visitors to the Site. We may use this data in aggregate form, that is, as a statistical measure, but not in a manner that would identify you personally. This type of aggregate data enables us and third parties authorized by us to figure out how often individuals use parts of the Services so that we can analyze and improve them.
 
-E.g.  
+_Email Communications_ :
 
+We may receive a confirmation when you open an email from us. We use this confirmation to improve our customer service.
 
-  * the IP address from which you access the site
-  * the type of browser and operating system used to access the site
-  * the date and time of your access to the site
-  * the pages you visit
-  * the internet address of the website from which you accessed the site
+_Information Collected Using Cookies_ :
 
+Cookies are pieces of text that may be provided to your computer through your web browser when you access a website. Your browser stores cookies in a manner associated with each website you visit. We use cookies to enable our servers to recognize your web browser and tell us how and when you visit the Site and otherwise use the Services through the Internet.
 
+Our cookies do not, by themselves, contain Personal Information, and we do not combine the general information collected through cookies with other Personal Information to tell us who you are. As noted, however, we do use cookies to identify that your web browser has accessed aspects of the Services and may associate that information with your Account if you have one.
 
-A cookie is a small data file that our server sends to your browser when you visit the site. The use of cookies helps us to assist your use of certain aspects of the site. You can delete cookies at any time or you can set your browser to reject or disable cookies. If you do disable cookies some functions on the site may not work correctly.
+Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave cookies active, because they enable you to take advantage the most attractive features of the Services.
 
-We use information from cookies, for example, to learn about the number of visitors to our site and the type of technology that our visitors use. Cookies help us to monitor what sort of content is popular and to assess visitors browsing habits. When a user revisits the site, we may recognize the user by the cookie and customize the user’s experience accordingly. We can use this information to continually improve the content and usability of the site.
+This Privacy Policy covers our use of cookies only and does not cover the use of cookies by third parties. We do not control when or how third parties place cookies on your computer. For example, third party websites to which a link points may set cookies on your computer.
 
-We may compile and report to third parties (such as advertisers) aggregate statistics about our users in terms of numbers, traffic patterns and related site information.
+_Information Related to Advertising and the Use of Web Beacons_ :
 
-#### Use of Information
+To support and enhance the Services, we may serve advertisements, and also allow third parties to serve advertisements, through the Services. These advertisements are sometimes targeted and served to particular users and may come from third party companies called “ad networks.”  Ad networks include third party ad servers, ad agencies, ad technology vendors and research firms.
 
-We will use information collected from you in the following ways:
+Advertisements served through the Services may be targeted to users who fit a certain general profile category may be based on anonymized information inferred from information provided to us by a user, including Personal Information (e.g., gender or age), may be based on the Services usage patterns of particular users, or may be based on your activity on Third Party Services. We do not provide Personal Information to any ad networks for use outside of the Services.
 
-Marketing purposes. We may use information for internal marketing analysis, for example, to assess trends amongst our consumers or to measure the amount of traffic to our websites. We may also use your personal information in order to communicate with you about our products and services and those of our subsidiaries, affiliates, and parent companies and any of their related businesses. However, you will be able to choose whether or not to receive such communications when you first provide personal information to us. We may also share non-personal information with others, such as advertisers, in aggregate anonymous form, which means that the information will not contain any personally identifiable information about you.
+To increase the effectiveness of ad delivery, we may deliver a file (known as a “web beacon”) from an ad network to you through the Services. Web beacons allow ad networks to provide anonymized, aggregated auditing, research and reporting for us and for advertisers. Web beacons also enable ad networks to serve targeted advertisements to you when you visit other websites. Because your web browser must request these advertisements and web beacons from the ad network’s servers, these companies can view, edit or set their own cookies, just as if you had requested a web page from their site.
 
-Transactional purposes. We may use your personal information in order to respond to your queries and requests and to manage transactions such as credit card payments for any goods that you order from us or any of our agents, or for the fulfillment of such transactions (e.g. delivery). The personal information you provide may be used by an authorized vendor to fulfill that order.
+_Aggregate Information_ :
 
-Third party offers. We may arrange for carefully selected organizations to send you marketing and promotional information that may be of interest to you. In such circumstances your personal information may be disclosed to these organizations that agree to be bound by the terms of this privacy statement. We will obtain your permission before we send you any such communications.
+We collect statistical information about how both unregistered and registered users, collectively, use the Services (“Aggregate Information”). Some of this information is derived from Personal Information. This statistical information is not Personal Information and cannot be tied back to you, your Account or your web browser.
 
-Public (or Interactive) Areas of the Site. Information that you post on or through the public areas of the site (e.g., chat rooms, bulletin boards and discussion groups) are generally accessible to, and may be collected and used by, others and may result in unsolicited messages or other contact from others. Users of the site are encouraged to exercise caution when providing personal information about themselves in public (or interactive) areas of this site.
+**How, and With Whom, Is My Information Shared?**
 
-Sale and Transfer. In the event of a sale, merger, consolidation, change in control, transfer of substantial assets, reorganization or liquidation, we may transfer, sell, or assign to third parties information concerning your relationship with us, including without limitation, personally identifiable information that you provide and other information concerning your relationship with us.
+The Services are designed to help you share information with others. As a result, some of the information generated through the Services is shared publicly or with third parties.
 
-Administration and Data Management. We may transfer your personal information to third parties under confidentiality obligations when the performance of any service in relation to the activities above is sub-contracted (e.g. the administration of a marketing campaign). For legal purposes, we may disclose your personal information if permitted by law or required to do so by law or where we believe such action is necessary in order to protect or defend our interests or the interests of our customers or users of our site.
+_Public Information about Your Activity on the Services_ :
 
-#### Access to your Information
+Some of your activity on and through the Services is public by default. This may include, but is not limited to, content you have posted publicly on the Site or otherwise through the Services, such as written posts, comments, or other submissions by you to the Site.
 
-You can check what information we hold about you, update your information or ask us to remove your information or correct any inaccuracies in such personal data. We will use reasonable efforts to deal with your request within a reasonable time. Please send an e-mail to marketing@thesource.com requesting such access or change.
+Registered users may have some of this information associated with their Accounts. Unregistered users will not have this association, but information concerning their use of the Services (such as what pages they have visited) may be tracked anonymously through the use of cookies and stored by us.
 
-#### Security
+Please also remember that if you choose to provide Personal Information using certain public features of the Services, then that information is governed by the privacy settings of those particular features and may be publicly available. Individuals reading such information may use or disclose it to other individuals or entities without our control and without your knowledge, and search engines may index that information. We therefore urge you to think carefully about including any specific information you may deem private in content that you create or information that you submit through the Services.
 
-We take security seriously and we take precautions to keep your personal information secure. We have put in place appropriate physical, electronic and managerial procedures to safeguard the information we collect. However, due to the open communication nature of the Internet, we cannot guarantee that communications between you and us, or information stored on our servers, will be free from unauthorized access by third parties.
+_IP Address Information_ :
 
-#### Links
+While we collect and store IP address information, that information is not made public. We do at times, however, share this information with our partners, service providers and other persons with whom we conduct business, and as otherwise specified in this Privacy Policy.
 
-This site may contain links or references to other Web sites outside of our control. Please be aware that we have no control over these sites and our privacy statement does not apply to these sites. We encourage you to read the privacy statements and terms and conditions of linked or referenced sites you enter.
+_Information You Elect to Share_ :
 
-THE SOURCE(TM) 2008-2010. All rights reserved.
+You may access other Third Party Services through the Services, for example by clicking on links to those Third Party Services from within the Site. We are not responsible for the privacy policies and/or practices of these Third Party Services, and you are responsible for reading and understanding those Third Party Services’ privacy policies. This Privacy Policy only governs information collected on the Services.
+
+_Aggregate Information_ :
+
+We share Aggregate Information with our partners, service providers and other persons with whom we conduct business. We share this type of statistical data so that our partners can understand how and how often people use our Services and their services or websites, which facilitates improving both their services and how our Services interface with them. In addition, these third parties may share with us non-private, aggregated or otherwise non Personal Information about you that they have independently developed or acquired.
+
+_Email Communications with Us_ :
+
+As part of the Services, you may occasionally receive email and other communications from us, such as communications relating to your Account. Communications relating to your Account will be sent for purposes important to the Services, such as password recovery. We may use your email address to contact you for editorial purposes, to advise you of any changes to our Site, and to send you messages about our marketing partners’ products.
+
+_User Profile Information_ :
+
+User profile information including your username and other information you enter may be displayed to other users to facilitate user interaction within the Services. We will not directly reveal user email addresses to other users.
+
+_Information Shared with Our Agents_ :
+
+We employ and contract with people and other entities that perform certain tasks on our behalf and who are under our control (our “Agents”). We may need to share Personal Information with our Agents in order to provide products or services to you. Unless we tell you differently, our Agents do not have any right to use Personal Information or other information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information with our Agents.
+
+_Information Disclosed Pursuant to Business Transfers_ :
+
+In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the transferred business assets. Moreover, if we, or substantially all of our assets, were acquired, or if we go out of business or enter bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of us or our assets may continue to use your Personal Information as set forth in this policy.
+
+_Information Disclosed for Our Protection and the Protection of Others_ :
+
+We also reserve the right to access, read, preserve, and disclose any information as it reasonably believes is necessary to (i) satisfy any applicable law, regulation, legal process or governmental request, (ii) enforce the Terms of Service, including investigation of potential violations hereof, (iii) detect, prevent, or otherwise address fraud, security or technical issues, (iv) respond to user support requests, or (v) protect our rights, property or safety, our users and the public. This includes exchanging information with other companies and organizations for fraud protection and spam/malware prevention.
+
+_Information We Share With Your Consent_ :
+
+Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information.
+
+**Is Information About Me Secure?  **
+
+Your Account information will be protected by a password for your privacy and security. You need to prevent unauthorized access to your Account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your Account.
+
+We seek to protect Account information to ensure that it is kept private; however, we cannot guarantee the security of any Account information. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time.
+
+We otherwise store all of our information, including your IP address information, using industry-standard techniques. We do not guarantee or warrant that such techniques will prevent unauthorized access to information about you that we store, Personal Information or otherwise.
+
+**What Information of Mine Can I Access?**
+
+If you are a registered user, you can access information associated with your Account by logging into the Services. Registered and unregistered users can access and delete cookies through their web browser settings.
+
+**What Choices Do I Have Regarding My Information?**
+
+You can use many of the features of the Services without registering, thereby limiting the type of information that we collect.
+
+You can always opt not to disclose certain information to us, even though it may be needed to take advantage of some of our features.
+
+You can delete your Account. Please note that we will need to verify that you have the authority to delete the Account, and activity generated prior to deletion will remain stored by us and may be publicly accessible.
+
+**What Happens When There Are Changes to this Privacy Policy?**
+
+We may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we collect or use information, we will notify you by posting an announcement on the Services or sending you an email. A user is bound by any changes to the Privacy Policy when he or she uses the Services after such changes have been first posted.
+
+**Last Updated:**  7/7/2015
+
+©2015 Source Digital, Inc. – All Rights Reserved.
