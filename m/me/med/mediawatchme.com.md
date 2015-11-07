@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediawatchme.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623163249id_/http%3A//www.mediawatchme.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediawatchme.com privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107012607id_/http%3A//www.mediawatchme.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Media Watch
 
