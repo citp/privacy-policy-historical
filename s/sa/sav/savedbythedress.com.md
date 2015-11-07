@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the savedbythedress.com privacy policy that was archived on 2015-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150416004635id_/http%3A//savedbythedress.com/terms-of-use-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savedbythedress.com privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107082103id_/http%3A//savedbythedress.com/pages/terms-of-use-privacy-policy) for the most accurate reproduction.*
 
-# Terms of use & privacy policy - Saved by the Dress
+# Terms of use and Privacy Policy – Saved by the Dress
 
 Thank you for visiting Saved by the Dress! This Terms of Use & Privacy Policy page is to explain you how we use private information provided to this website. By using this website, you are accepting these terms and conditions and the practices described in this privacy policy. We may change the practices at any time but they will be posted and we will only apply activities and information on a going forward, not retroactive basis. So please read this section before submitting any transaction to make sure you understand how we use personal information.
 
@@ -92,5 +92,3 @@ By using our site, you consent to our websites privacy policy.
 **Changes to our Privacy Policy**
 
 If we decide to change our privacy policy, we will post those changes on this page.
-
-[Out of Stock](http://savedbythedress.com/out-of-stock-dresses "Out of stock dresses")
