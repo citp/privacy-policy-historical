@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the impnerd.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627152055id_/http%3A//learntogetridof.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the impnerd.com privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107212733id_/http%3A//learntogetridof.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -43,14 +43,6 @@ We are committed to ensuring that your information is secure. In order to preven
 ### What is a cookie?
 
 Cookies are text files containing small amounts of information which are downloaded to your device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognises that cookie. Cookies are useful because they allow a website to recognise a user’s device.
-
-You can find more information about cookies at:
-
-  * [www.allaboutcookies.org](http://www.allaboutcookies.org/)
-  * [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
-  * For a video about cookies visit [a look at cookies](http://www.google.co.uk/goodtoknow/data-on-the-web/cookies)
-
-
 
 Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improve the user experience. They can also help to ensure that adverts you see online are more relevant to you and your interests. The cookies used on this website have been categorised based on the categories found in the ICC UK Cookie guide.
 
