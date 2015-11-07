@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dxi.eu privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611115607id_/http%3A//www.dxi.eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dxi.eu privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107080154id_/http%3A//www.dxi.eu/privacy-policy) for the most accurate reproduction.*
 
 # Connect to DXI and Communicate with the World | DXI
 
