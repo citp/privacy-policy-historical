@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the paydq.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626112457id_/http%3A//www.cds-global.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paydq.com privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107144638id_/http%3A//www.cds-global.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CDS Global
 
   * [Leadership](http://www.cds-global.com/about/leadership/)
   * [Locations](http://www.cds-global.com/about/locations/)
   * [News](http://www.cds-global.com/about/news/)
-  * [Careers](https://cds-global-hr.silkroad.com/epostings/index.cfm?fuseaction=app.allpositions&company_id=15982&version=1)
+  * [Careers](http://www.cds-global.com/about/careers/)
   * [Contact](http://www.cds-global.com/about/contact/)
   * [Privacy Policy](http://www.cds-global.com/about/privacy-policy/)
   * [Financial and Data Security](http://www.cds-global.com/about/financial-data-security/)
