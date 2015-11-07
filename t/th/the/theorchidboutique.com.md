@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theorchidboutique.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618165327id_/http%3A//www.theorchidboutique.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theorchidboutique.com privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107030145id_/http%3A//www.theorchidboutique.com/privacy) for the most accurate reproduction.*
 
 # Privacy & Security | The Orchid Boutique
 
@@ -22,4 +22,4 @@
 
 • The Orchid Boutique is committed to providing you with a safe and secure shopping experience. Your online credit card transactions are protected by Verisign (SSL), the encryption technology that ensures safe Internet transmission of your personal information.
 
-• To obtain these certificates, The Orchid Boutique had to go undergo investigation and meet various security guidelines. For this reason we can ascertain that a credit card purchase on The Orchid Boutique is very safe. 
+• To obtain these certificates, The Orchid Boutique had to go undergo investigation and meet various security guidelines. For this reason we can ascertain that a credit card purchase on The Orchid Boutique is very safe.
