@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tsu.co privacy policy that was archived on 2015-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150216023331id_/http%3A//www.tsu.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsu.co privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107051141id_/https%3A//www.tsu.co/privacy-policy) for the most accurate reproduction.*
 
 # None
 
