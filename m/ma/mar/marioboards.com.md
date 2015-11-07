@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marioboards.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408025031id_/http%3A//www.marioboards.com/index.php%3Ftopic%3D14227.0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marioboards.com privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107192808id_/http%3A//www.marioboards.com/index.php%3Ftopic%3D14227.0) for the most accurate reproduction.*
 
 # Privacy Policy - Super Mario Boards, the Mario forum
 
