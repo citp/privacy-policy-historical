@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the parcelled.in privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208112106id_/http%3A//www.parcelled.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parcelled.in privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107071603id_/http%3A//www.parcelled.in/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-## Parcelled Privacy Policy
+# 
 
 We at Parcelled are committed to protecting and respecting your privacy.
 
@@ -18,7 +16,7 @@ If you contact us, we may keep a record of that correspondence together with you
 
 We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
 
-### What we do with the information we collect
+#### What we do with the information we collect
 
 We use information held about you in the following ways:
 
@@ -38,9 +36,9 @@ We may also use your data to provide you with information about goods and servic
 
 If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.
 
-If you do not want us to use your data in this way please send an email with your request to parcelled@gmail.com.
+If you do not want us to use your data in this way please send an email with your request to support@parcelled.in
 
-### Where we store your personal data
+#### Where we store your personal data
 
 All information you provide to us is stored on our secure third party servers.
 
@@ -48,11 +46,9 @@ Although we will do our best to protect your personal data, we cannot guarantee 
 
 Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
-### Your consent and rights of access
+#### Your consent and rights of access
 
 We will only collect and store information about you, with your consent. You give us your consent by choosing to opt in or out on the application form and also by reading and acknowledging you have read and understood the “Privacy Policy” when placing an order.
-
-You have the right of access to your personal records or other information that the Company holds about you. The charge for this service is £10.00 for each request.
 
 If any data or information we hold about you is inaccurate or out of date then please let us know and this will be corrected immediately.
 
@@ -60,7 +56,7 @@ You can change your mind or remove or add your consent at any time and you can b
 
 You can contact us through the information available on our website for any queries.
 
-### Cookies
+#### Cookies
 
 In this section you will find information on what cookies may be set when you visit our website and how to reject or delete those cookies.
 
@@ -74,7 +70,7 @@ These pieces of information are used to improve our services for you through, fo
 
 3\. Measuring how many people are using services, so they can be made easier to use and there’s enough capacity to ensure they’re fast.
 
-### How to control and delete cookies
+#### How to control and delete cookies
 
 We will not use cookies to collect personally identifiable information about you. However, if you wish to restrict or block the cookies which are set by our website or any other website, you can do this through your browser settings.
 
@@ -82,16 +78,16 @@ Please be aware that restricting cookies may impact the functionality of the web
 
 Third party cookies
 
-### Cookies set for embedded social web content
+#### Cookies set for embedded social web content
 
 To support our information provision and engagement, we sometimes embed photos and video content from websites such as Youtube, Linkedin, Twitter, Facebook and Flickr. As a result, when you visit a page with content embedded from, for example, Facebook or Twitter, you may be presented with cookies from these websites. We do not control the use of these cookies. You should check third party websites for more information on these cookies.
 
 Our website may also carry embedded ‘share’ buttons to enable users of the site to easily share articles with their peers through a number of popular social networks. These sites may set a cookie when you are also logged in to or otherwise using their service. We have no control over these cookies and you should check for more info from their website on these cookies. 
 
-### Changes to our privacy policy
+#### Changes to our privacy policy
 
 This policy was last updated on the 03/11/2014. Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
 
-### Contact
+#### Contact
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to parcelled@gmail.com
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to support@parcelled.in
