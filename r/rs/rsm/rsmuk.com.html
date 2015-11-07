@@ -1,0 +1,886 @@
+<!--The following is the downloaded HTML source of the rsmuk.com privacy policy that was archived on 2015-11-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151107035517id_/http%3A//www.rsmuk.com/privacy-and-cookies) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en" dir="ltr"><head>
+    <title>Privacy and cookies - RSM</title>
+    <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WWKR7N"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"8181473fbe","applicationID":"8989625","transactionName":"bwYBbBFRChADVkNcDVZMLm4gHzcKFlBUWhBdIAxWF0ILDw5QRRorVgcGQA==","queueTime":0,"applicationTime":41,"ttGuid":"18B5530B75F151F1","agent":"js-agent.newrelic.com/nr-768.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQcHVVRUCBAIXVlbAQMC"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:26,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:12,4:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:24,2:25,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:24,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <!-- Add to homescreen for Chrome on Android -->
+<link rel="shortcut icon" href="/assets/images/favicon.ico" type="image/vnd.microsoft.icon">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="application-name" content="RSM">
+<link rel="icon" sizes="192x192" href="/assets/images/chrome-touch-icon-192x192.png">
+<link rel="icon" type="image/png" href="/assets/images/icons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/assets/images/icons/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/assets/images/icons/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/assets/images/icons/favicon-16x16.png" sizes="16x16">
+
+<!-- Microsoft -->
+<meta name="msapplication-TileImage" content="assets/mstile-144x144.png">
+
+<!-- Add to homescreen for Safari on iOS -->
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="apple-mobile-web-app-title" content="RSM">
+<link rel="apple-touch-icon" sizes="57x57" href="/assets/images/icons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/assets/images/icons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/assets/images/icons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/assets/images/icons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/assets/images/icons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/assets/images/icons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/assets/images/icons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/assets/images/icons/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/images/icons/apple-touch-icon-180x180.png">
+
+<link rel="apple-touch-icon" href="/assets/images/icons/apple-touch-icon.png">
+
+<!-- Tile icon for Win8 (144x144 + tile color) -->
+<meta name="msapplication-TileImage" content="assets/images/ms-touch-icon-144x144-precomposed.png">
+
+<!-- Tile icon for Win8 (144x144 + tile color) -->
+<meta name="msapplication-TileImage" content="/assets/images/ms-touch-icon-144x144-precomposed.png">
+<meta name="description" content="This page contains the information gathering and use policies adopted by RSM UK Group LLP (“RSM UK”) in connection with this web site (the “Site”) and any marketing campaigns, including by email (the “Emails”). These policies are subject to periodic review and any changes will be included within this section of the site.">
+<meta name="keywords" content="">
+
+      <!-- fonts.com API -->
+
+<link href="/bundles/css?v=xxWQmG958yr3dkI-Aq4xXqB1wgDaKOvDKqbdiAcGOGs1" rel="stylesheet">
+
+    
+
+
+
+
+
+<script src="/bundles/scripts-top?v=slocL13P3j_FDnPOTwEHIyiTVJmC_G_UNY2FUQHa-UY1"></script>
+
+    
+    
+<script type="application/ld+json">
+    {"@context":"http://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"http://www.rsmuk.com/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@id":"http://www.rsmuk.com/privacy-and-cookies","name":"Privacy and cookies"}}]}
+</script>
+    
+    <meta property="og:title" content="Privacy and cookies">
+
+<meta property="og:type" content="article">
+<meta property="og:image" content="http://www.rsmuk.com/~/media/images/content-listing/default_0.jpg">
+
+<meta property="og:url" content="http://www.rsmuk.com/privacy-and-cookies">
+
+<meta property="og:description" content="This page contains the information gathering and use policies adopted by RSM UK Group LLP (“RSM UK”) in connection with this web site (the “Site”) and any marketing campaigns, including by email (the “Emails”). These policies are subject to periodic review and any changes will be included within this section of the site.">
+
+    
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Privacy and cookies">
+<meta name="twitter:description" content="This page contains the information gathering and use policies adopted by RSM UK Group LLP (“RSM UK”) in connection with this web site (the “Site”) and any marketing campaigns, including by email (the “Emails”). These policies are subject to periodic review and any changes will be included within this section of the site.">
+
+<meta name="twitter:image" content="http://www.rsmuk.com/~/media/images/content-listing/default_0.jpg">
+
+    
+    
+</head>
+
+<body class="html front not-logged-in no-sidebars page-node i18n-en direction-ltr">
+    <!-- Google Tag Manager -->
+<noscript>
+    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-WWKR7N"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<script>
+(function (w, d, s, l, i) {
+w[l] = w[l] || []; w[l].push({
+'gtm.start':
+new Date().getTime(), event: 'gtm.js'
+}); var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+'//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-WWKR7N');</script>
+<!-- End Google Tag Manager -->
+    <div class="overlay">&nbsp;</div>
+    <header>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-2 header-line-height">
+                <a href="http://www.rsmuk.com/" title="Home" rel="home" id="logo">
+    <img src="http://www.rsmuk.com/~/media/images/headerlogos/logo2x.png?la=en&amp;mh=53&amp;mw=200&amp;hash=5AE160A20FB22C74DFBA2497817F4235B5D36DB0" alt="Logo">
+</a>
+
+            </div>
+            <div class="col-md-10 header-line-height text-right">
+                <div class="visible-xs">
+                    <button class="c-hamburger c-hamburger--htx">
+                        <span>toggle menu</span>
+                    </button>
+                    <a href="#_" class="search-icon"></a>
+                    <div class="local-region mbl"><span class="flag-icon flag-icon-gb"></span><span class="hidden-xs hidden-sm">United Kingdom</span></div>
+                </div>
+                <div class="region-header-search">
+        <form action="http://www.rsmuk.com/search" method="get" novalidate="novalidate">
+            <label class="global--search--label" for="SearchText">Search</label>
+            <input name="q" class="form-control global--search" id="search-input" maxlength="128" placeholder="Search..." size="15" type="text" value="">
+            <input type="submit" id="search-icon" value="Search">
+        </form>
+</div>
+                <div class="hidden-xs">
+    <div class="region region-header-social">
+        <div class="block block-rsm" id="block-rsm-social-header">
+            <div class="content">
+                    <div class="social-header-wrap">
+                        <a href="https://twitter.com/RSMUK" target="_blank">
+                            <img src="/assets/images/icons/Twitter_0.png" alt="RSM Twitter">
+                        </a>
+                    </div>
+                                    <div class="social-header-wrap">
+                        <a href="https://www.linkedin.com/company/rsm-uk" target="_blank">
+                            <img src="/assets/images/icons/Linkedin_0.png" alt="RSM LinkedIn">
+                        </a>
+                    </div>
+
+                    <div class="social-header-wrap">
+                        <a href="https://www.youtube.com/c/Rsmuk1" target="_blank">
+                            <img src="/assets/images/icons/Youtube_0.png" alt="RSM YouTube">
+                        </a>
+                    </div>
+                                    <div class="social-header-wrap">
+                        <a href="https://plus.google.com/+Rsmuk1/posts" target="_blank">
+                            <img src="/assets/images/icons/icon--gplus.png" alt="RSM Google +">
+                        </a>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+                <div class="hidden-sm hidden-xs">
+                    <div class="region region-header-regions">
+  <div id="block-rsm-region-dropdown" class="block block-rsm">
+     <div class="content">
+            <label for="ddl-countries">Select Worldwide location</label>
+            <select name="exampleSelect" class="form-control" id="ddl-countries" style="width:180px;" onchange="if(this.value!='null') window.location.href = this.value; ">
+                <option selected="">Worldwide Locations</option>
+
+                    <optgroup label="RSM Global">
+                            <option value="http://www.rsm.global">RSM Global</option>
+                    </optgroup>
+                    <optgroup label="Regions">
+                            <option value="http://www.rsm.global/africa">Africa</option>
+                            <option value="http://www.rsm.global/mena">MENA</option>
+                            <option value="http://www.rsm.global/asiapacific">Asia Pacific</option>
+                            <option value="http://www.rsm.global/europe">Europe</option>
+                            <option value="http://www.rsm.global/latinamerica">Latin America</option>
+                            <option value="http://www.rsm.global/northamerica">North America</option>
+                    </optgroup>
+                    <optgroup label="Countries">
+                            <option value="http://www.rsm.global/argentina">Argentina</option>
+                            <option value="http://www.rsm.global/australia">Australia</option>
+                            <option value="http://www.rsm.global/austria">Austria</option>
+                            <option value="http://www.rsm.global/azerbaijan">Azerbaijan</option>
+                            <option value="http://www.rsm.global/bahrain">Bahrain</option>
+                            <option value="http://www.rsm.global/belarus">Belarus</option>
+                            <option value="http://www.rsm.global/belgium">Belgium</option>
+                            <option value="http://www.rsm.global/bosniaandherzegovina">Bosnia and Herzegovina</option>
+                            <option value="http://www.rsm.global/botswana">Botswana</option>
+                            <option value="http://www.rsm.global/brazil">Brazil</option>
+                            <option value="http://www.rsm.global/bulgaria">Bulgaria</option>
+                            <option value="http://www.rsm.global/caymanislands">Cayman Islands</option>
+                            <option value="http://www.rsm.global/channelislands">Channel Islands</option>
+                            <option value="http://www.rsm.global/chile">Chile</option>
+                            <option value="http://www.rsm.global/china">China</option>
+                            <option value="http://www.rsm.global/colombia">Colombia</option>
+                            <option value="http://www.rsm.global/croatia">Croatia</option>
+                            <option value="http://www.rsm.global/czechrepublic">Czech Republic</option>
+                            <option value="http://www.rsm.global/denmark">Denmark</option>
+                            <option value="http://www.rsm.global/dominicanrepublic">Dominican Republic</option>
+                            <option value="http://www.rsm.global/egypt">Egypt</option>
+                            <option value="http://www.rsm.global/elsalvador">El Salvador</option>
+                            <option value="http://www.rsm.global/finland">Finland</option>
+                            <option value="http://www.rsm.global/france">France</option>
+                            <option value="http://www.rsm.global/georgia">Georgia</option>
+                            <option value="http://www.rsmgermany.de">Germany</option>
+                            <option value="http://www.rsm.global/greece">Greece</option>
+                            <option value="http://www.rsm.global/guatemala">Guatemala</option>
+                            <option value="http://www.rsm.global/honduras">Honduras</option>
+                            <option value="http://www.rsm.global/hongkong">Hong Kong</option>
+                            <option value="http://www.rsm.hu">Hungary</option>
+                            <option value="http://www.rsm.global/india">India</option>
+                            <option value="http://www.rsm.global/indonesia">Indonesia</option>
+                            <option value="http://www.rsm.global/israel">Israel</option>
+                            <option value="http://www.rsm.global/italy">Italy</option>
+                            <option value="http://www.rsm.global/japan">Japan</option>
+                            <option value="http://www.rsm.global/jordan">Jordan</option>
+                            <option value="http://www.rsm.global/kenya">Kenya</option>
+                            <option value="http://www.rsm.global/korea">Korea</option>
+                            <option value="http://www.rsm.global/kuwait">Kuwait</option>
+                            <option value="http://www.rsm.global/lebanon">Lebanon</option>
+                            <option value="http://www.rsm.global/luxembourg">Luxembourg</option>
+                            <option value="http://www.rsm.global/macedonia">Macedonia</option>
+                            <option value="http://www.rsm.global/malaysia">Malaysia</option>
+                            <option value="http://www.rsm.global/malta">Malta</option>
+                            <option value="http://www.rsm.global/mauritius">Mauritius</option>
+                            <option value="http://www.rsm.global/mexico">Mexico</option>
+                            <option value="http://www.rsm.global/morocco">Morocco</option>
+                            <option value="http://www.rsm.global/netherlands">Netherlands</option>
+                            <option value="http://www.rsm.global/newzealand">New Zealand</option>
+                            <option value="http://www.rsm.global/nicaragua">Nicaragua</option>
+                            <option value="http://www.rsm.global/nigeria">Nigeria</option>
+                            <option value="http://www.rsm.global/northernireland">Northern Ireland</option>
+                            <option value="http://www.rsm.global/norway">Norway</option>
+                            <option value="http://www.rsm.global/oman">Oman</option>
+                            <option value="http://www.rsm.global/pakistan">Pakistan</option>
+                            <option value="http://www.rsm.global/panama">Panama</option>
+                            <option value="http://www.rsm.global/peru">Peru</option>
+                            <option value="http://www.rsm.global/philippines">Philippines</option>
+                            <option value="http://www.rsm.global/poland">Poland</option>
+                            <option value="http://www.rsm.global/portugal">Portugal</option>
+                            <option value="http://www.rsm.global/puertorico">Puerto Rico</option>
+                            <option value="http://www.rsm.global/qatar">Qatar</option>
+                            <option value="http://www.rsm.global/romania">Romania</option>
+                            <option value="http://www.rsm.global/russia">Russia</option>
+                            <option value="http://www.rsm.global/saudiarabia">Saudi Arabia</option>
+                            <option value="http://www.rsmsingapore.sg">Singapore</option>
+                            <option value="http://www.rsm.global/slovakia">Slovakia</option>
+                            <option value="http://www.rsm.global/southafrica">South Africa</option>
+                            <option value="http://www.rsm.global/spain">Spain</option>
+                            <option value="http://www.rsm.global/swaziland">Swaziland</option>
+                            <option value="http://www.rsm.global/sweden">Sweden</option>
+                            <option value="http://www.rsm.global/switzerland">Switzerland</option>
+                            <option value="http://www.rsm.global/taiwan">Taiwan</option>
+                            <option value="http://www.rsm.global/tajikistan">Tajikistan</option>
+                            <option value="http://www.rsm.global/tanzania">Tanzania</option>
+                            <option value="http://www.rsm.global/thailand">Thailand</option>
+                            <option value="http://www.rsm.global/tunisia">Tunisia</option>
+                            <option value="http://www.rsm.global/turkey">Turkey</option>
+                            <option value="http://www.rsm.global/uae">UAE</option>
+                            <option value="http://www.rsm.global/uganda">Uganda</option>
+                            <option value="http://www.rsmuk.com">UK</option>
+                            <option value="http://www.rsm.global/ukraine">Ukraine</option>
+                            <option value="http://www.rsm.global/uruguay">Uruguay</option>
+                            <option value="http://www.rsmus.com">USA</option>
+                            <option value="http://www.rsm.global/venezuela">Venezuela</option>
+                            <option value="http://www.rsm.global/vietnam">Vietnam</option>
+                            <option value="http://www.rsm.global/yemen">Yemen</option>
+                    </optgroup>
+            </select>
+
+
+     </div>
+   </div>
+</div>
+                </div>
+                <div class="local-region hidden-xs"><span class="flag-icon flag-icon-gb"></span>United Kingdom</div>
+            </div>
+        </div>
+    </div>
+</header>
+<div class="" id="menu-wrap">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-md-7 remove-padding pull-menu">
+        <ul class="main-menu">
+                <li class="">
+    <a href="http://www.rsmuk.com/what-we-offer" title="">What we offer</a>
+                          <span class="mbl-sub">Expand</span>
+      <ul class="sub--landing">
+            <li class="">
+                    <a href="http://www.rsmuk.com/what-we-offer/by-industry" title="">By industry</a>
+
+
+                <span class="mbl-lnd-sub">Expand</span>
+                  <div class="sub-menu">
+                     <div class="row">
+                        <div class="col-md-8 col-xs-12">
+                           <ul class="sub-items">
+                                <li class="">
+                                        <a href="http://www.rsmuk.com/what-we-offer/by-industry/charities" title="">Charities</a>
+
+                                </li>
+                                <li class="">
+                                        <a href="http://www.rsmuk.com/what-we-offer/by-industry/education" title="">Education</a>
+
+                                </li>
+                                <li class="">
+                                        <a href="http://www.rsmuk.com/what-we-offer/by-industry/energy-and-natural-resources" title="">Energy and natural resources</a>
+
+                                </li>
+                                <li class="">
+                                        <a href="http://www.rsmuk.com/what-we-offer/by-industry/financial-services" title="">Financial services</a>
+
+                                </li>
+                                <li class="">
+                                        <a href="http://www.rsmuk.com/what-we-offer/by-industry/government-and-public-sector" title="">Government and public sector</a>
+
+                                </li>
+                                <li class="">
+                                        <a href="http://www.rsmuk.com/what-we-offer/by-industry/healthcare" title="">Healthcare</a>
+
+                                </li>
+                                <li class="">
+                                        <a href="http://www.rsmuk.com/what-we-offer/by-industry/leisure-and-hospitality" title="">Leisure and hospitality</a>
+
+                                </li>
+                                <li class="">
+                                        <a href="http://www.rsmuk.com/what-we-offer/by-industry/manufacturing" title="">Manufacturing</a>
+
+                                </li>
+                                <li class="">
+                                        <a href="http://www.rsmuk.com/what-we-offer/by-industry/technology-media-and-telecommunications" title="">Technology media and telecoms</a>
+
+                                </li>
+                                <li class="">
+                                        <a href="http://www.rsmuk.com/what-we-offer/by-industry/private-equity" title="">Private equity</a>
+
+                                </li>
+                                <li class="">
+                                        <a href="http://www.rsmuk.com/what-we-offer/by-industry/professional-services" title="">Professional services</a>
+
+                                </li>
+                                <li class="">
+                                        <a href="http://www.rsmuk.com/what-we-offer/by-industry/real-estate-and-construction" title="">Real estate and construction</a>
+
+                                </li>
+                                <li class="">
+                                        <a href="http://www.rsmuk.com/what-we-offer/by-industry/retail" title="">Retail</a>
+
+                                </li>
+                                <li class="">
+                                        <a href="http://www.rsmuk.com/what-we-offer/by-industry/rural-services" title="">Rural services</a>
+
+                                </li>
+                                <li class="">
+                                        <a href="http://www.rsmuk.com/what-we-offer/by-industry/social-housing" title="">Social housing</a>
+
+                                </li>
+                                <li class="">
+                                        <a href="http://www.rsmuk.com/what-we-offer/by-industry/transport-and-logistics" title="">Transport and logistics</a>
+
+                                </li>
+                           </ul>
+                        </div>
+                        <div class="col-md-4 menu-information hidden-sm hidden-xs">
+                           <div class="block block-block" id="block-block-4">
+                              
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+            </li>
+            <li class="">
+                    <a href="http://www.rsmuk.com/what-we-offer/by-service" title="">By service</a>
+
+
+                <span class="mbl-lnd-sub">Expand</span>
+                  <div class="sub-menu">
+                     <div class="row">
+                        <div class="col-md-8 col-xs-12">
+                           <ul class="sub-items">
+                                <li class="">
+                                        <a href="http://www.rsmuk.com/what-we-offer/by-service/audit-and-assurance" title="">Audit and assurance</a>
+
+                                </li>
+                                <li class="">
+                                        <a href="http://www.rsmuk.com/what-we-offer/by-service/tax" title="">Tax</a>
+
+                                </li>
+                                <li class="">
+                                        <a href="http://www.rsmuk.com/what-we-offer/by-service/risk-advisory" title="">Risk advisory</a>
+
+                                </li>
+                                <li class="">
+                                        <a href="http://www.rsmuk.com/what-we-offer/by-service/consulting" title="">Consulting</a>
+
+                                </li>
+                                <li class="">
+                                        <a href="http://www.rsmuk.com/what-we-offer/by-service/outsourcing" title="">Outsourcing</a>
+
+                                </li>
+                                <li class="">
+                                        <a href="http://www.rsmuk.com/what-we-offer/by-service/transactions" title="">Transactions</a>
+
+                                </li>
+                                <li class="">
+                                        <a href="http://www.rsmuk.com/what-we-offer/by-service/specialist-services" title="">Specialist services</a>
+
+                                </li>
+                                <li class="">
+                                        <a href="http://www.rsmuk.com/what-we-offer/by-service/restructuring" title="">Restructuring</a>
+
+                                </li>
+                           </ul>
+                        </div>
+                        <div class="col-md-4 menu-information hidden-sm hidden-xs">
+                           <div class="block block-block" id="block-block-4">
+                              
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+            </li>
+      </ul>
+                </li>
+                <li class="">
+    <a href="http://www.rsmuk.com/who-we-are" title="">Who we are </a>
+                          <span class="mbl-sub">Expand</span>
+      <div class="sub-menu">
+         <div class="row">
+            <div class="col-md-12 col-xs-12">
+               <ul class="sub-items">
+                      <li class="">
+                             <a href="http://www.rsmuk.com/who-we-are/our-history" title="">Our history</a>
+
+                      </li>
+                      <li class="">
+                             <a href="http://www.rsmuk.com/who-we-are/our-values" title="">Our values</a>
+
+                      </li>
+                      <li class="">
+                             <a href="http://www.rsmuk.com/who-we-are/the-rsm-client-experience" title="">The RSM client experience</a>
+
+                      </li>
+                      <li class="">
+                             <a href="http://www.rsmuk.com/who-we-are/meet-our-management-team" title="">Meet our management team</a>
+
+                      </li>
+                      <li class="">
+                             <a href="http://www.rsmuk.com/who-we-are/international" title="">International</a>
+
+                      </li>
+                      <li class="">
+                             <a href="http://www.rsmuk.com/offices" title="">Offices</a>
+
+                      </li>
+               </ul>
+            </div>
+         </div>
+      </div>
+                </li>
+                <li class="">
+    <a href="http://www.rsmuk.com/ideas-and-insights" title="">Ideas and insights</a>
+                                    </li>
+
+        </ul>
+</div>
+
+
+
+            
+<div class="col-lg-6 col-md-5 remove-padding pull-menu">
+    <div class="right--menu-menu"><a href="#_">more</a></div>
+    <ul id="header-right-menu" class="list-inline">
+            <li class="menu-812 first ">
+                <a href="http://www.rsmuk.com/our-people" title="">Our people</a>
+                <form action="http://www.rsmuk.com/our-people" method="get" novalidate="novalidate">
+                    <fieldset class="peep--search">
+                        <legend>Search our people directory</legend>
+                        <a href="#_" class="close"><img src="/assets/images/icons/icon--close.png" alt=""></a>
+                        <label for="txt--people">Find a person</label>
+                        <input type="text" id="txt--people" name="q">
+                        <input type="submit" id="btn--people" value="go">
+                        <p><a href="http://www.rsmuk.com/our-people" target="Active Browser">View all of our people</a></p>
+                    </fieldset>
+                </form>
+            </li>
+
+                <li class="">
+                    
+    <a href="http://www.rsmuk.com/events" title="Events">
+        Events
+    </a>
+
+                </li>
+                <li class="">
+                    
+    <a href="http://www.rsmuk.com/news" title="News">
+        News
+    </a>
+
+                </li>
+                <li class="">
+                    
+    <a href="http://www.rsmuk.com/careers" title="Careers">
+        Careers
+    </a>
+
+                </li>
+                <li class="">
+                    
+    <a href="http://www.rsmuk.com/contact-us" title="Contact us">
+        Contact us
+    </a>
+
+                </li>
+    </ul>
+</div>
+        </div>
+    </div>
+</div>
+
+    <div class="site-content">
+        <!-- Content block -->
+        <div class="container site-top-padding">
+    <div class="box-shadow container-fluid content-right-bg">
+        <div class="breadcrumb-wrap row hidden-xs">
+            
+
+
+   <div id="breadcrumb" class="col-md-8 col-sm-8">
+    <span class="inline">
+            <a href="http://www.rsmuk.com/" title="Home">
+                Home
+            </a>
+
+
+            <span class="delimiter">/</span>
+    </span>
+    <span class="inline">
+            <span>Privacy and cookies</span>
+
+
+    </span>
+   </div>
+
+            <div class="share-wrap col-md-3 col-sm-5">
+                    <a class="addthis_button share-icon pull-right" href="http://www.addthis.com/bookmark.php?v=300&amp;pubid=ra-532c76c735692f0d">Share</a>
+    <a class="print-icon pull-right" href="javascript:window.print()" tabindex="1000">Print</a>
+
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12 content-bg">
+                <h1>Privacy and cookies</h1><div class="main--content">
+    <h3>Privacy and cookies statement&nbsp;</h3>
+<p>This page contains the information gathering and use policies adopted by RSM UK Group LLP (“RSM UK”) in connection with this web site (the “Site”) and any marketing campaigns, including by email (the “Emails”). These policies are subject to periodic review and any changes will be included within this section of the site.</p>
+<p>RSM UK is not responsible for the privacy policies of third party web sites to which any links are provided. You should check the privacy policies on these sites before providing any personal information.</p>
+<h3>Cookies</h3>
+<p>About the cookies we use, why we use them, and their impact upon you.</p>
+<p>A cookie is a small file, typically of letters and numbers, which may be placed on your computer when you access a website.&nbsp; Cookies generally allow the website to recognise your computer and browsing activity if you return to the website.</p>
+<p>We use both persistent cookies and session cookies as further detailed below.&nbsp; Persistent cookies allow our website to recognise you when you return to our site another time. This provides us with useful analytics that help us optimise our website and your visits.&nbsp; Session cookies exist just for the life of your current visit whilst you have your browser open.&nbsp; They are not stored on your hard disk and are erased when you exit your web browser.</p>
+<p>If you would like more information on cookies, we recommend the <a href="https://www.gov.uk/support/cookies">direct.gov.uk internet browser cookies page</a>.</p>
+<h3>Cookies we use</h3>
+<h3><strong>Sitecore Analytics</strong></h3>
+<p>We use this type of cookie to understand how our website is being used and in order to deliver content via widgets that we think will be especially relevant to you.</p>
+<p>Session cookie:&nbsp; SC_ANALYTICS_SESSION_COOKIE</p>
+<p>Persistent cookie:&nbsp; SC_ANALYTICS_GLOBAL_COOKIE</p>
+<p><strong>Google Analytics</strong></p>
+<p>We use this type of cookie to understand how our website is being used in order to improve the user experience. User data is all anonymous.</p>
+<p>Persistent cookie: _utma/b/z</p>
+<p>Session cookie: ASP.NET_SessionId, _utmc</p>
+<p><strong>Social buttons</strong></p>
+<p>On many of the pages of our website you will see ‘social buttons’.&nbsp; These allow you to share or bookmark pages on our site.&nbsp;</p>
+<p>Social media sites such as Twitter, Google, Facebook, and LinkedIn may collect information about your internet activity, including if your visit to our site and the specific pages you are on if you are logged into their services, even if you don’t click on the button.</p>
+<p>You should check the privacy and cookies policies of each of these sites to see how exactly they use your information and to find out how to opt out, or delete, such information.</p>
+<p>Further information</p>
+<ol>
+    <li><a href="http://www.facebook.com/about/privacy/" target="_blank">Facebook cookies </a></li>
+    <li><a href="https://twitter.com/privacy" target="_blank">Twitter cookies </a></li>
+    <li><a href="http://www.google.com/intl/en/policies/terms/" target="_blank">Google cookies </a></li>
+    <li><a href="http://www.linkedin.com/static?key=privacy_policy" target="_blank">LinkedIn cookies&nbsp;<br>
+    </a></li>
+</ol>
+<h3>Manually managing cookies</h3>
+<p>There are a number of ways you can manually manage cookies on your computer/device.&nbsp; Read more on the <a href="http://www.aboutcookies.org/page-1" style="font-size: 13px; font-weight: lighter;">About Cookies website</a>.</p>
+<p>If you access the Internet from more than one computer/device it is important to ensure each browser is configured to suit your cookie preferences.</p>
+<p>If you wish to block all cookies all the time you can set your browser to do this.&nbsp; It is important to note that blocking cookies may result in some parts of our site not working properly. This may affect your browsing experience.</p>
+<p><strong>Collection of information</strong></p>
+<p>As a visitor, you do not have to submit any personal information in order to use the Website. The Site collects only personally identifiable information that is specifically and voluntarily provided by visitors. Such information may consist of, but is not limited to, your name, current job title, company address, email address and telephone and fax numbers. This can be in order to:</p>
+<ul>
+    <li>Request specific materials or information by submitting an online form </li>
+    <li>Register to attend an RSM event </li>
+    <li>Register for one of our email publications </li>
+    <li>Applying to work for an RSM group entity&nbsp;</li>
+</ul>
+<p>The information required is necessary to enable RSM UK or one of its related entities to deal with your enquiry, but additional information may be requested to help us to provide the most appropriate response. If such additional information is requested, it is highlighted and its provision is voluntary.</p>
+<p>Sensitive information is not sought through the Site or Emails except where legally required as part of the recruitment process. Sensitive information includes data relating to: race or ethnic origin; political opinions; religious or other similar beliefs; trade union membership; physical or mental health; sexual life or criminal record. Where you do provide sensitive information this will be accepted as explicit consent to RSM UK or one of its related entities to use that information in connection with the purpose for which it has been provided.</p>
+<p><strong>Email communications</strong></p>
+<p>If you have registered to receive emails from RSM UK you have the option to opt out or to change your email preferences. This option can be found in the footer of the email.&nbsp;</p>
+<h3>Use of information</h3>
+<p>Information is used only for the specific purpose for which it was provided except where you explicitly select to receive other information from RSM UK or one of its related entities.</p>
+<p>You can opt out of receiving information from RSM UK or one of its related entities or request that your personal details are deleted from our systems at any time by emailing us here: <a href="mailto:info@rsmuk.com">info@rsmuk.com</a>.</p>
+<h3>Accuracy of information</h3>
+<p>RSM UK assumes responsibility for keeping an accurate record of personal data once you have submitted the information, but not for confirming the on-going accuracy of your personal information. If you advise RSM UK that your personal data is no longer accurate, it will be amended (where practical).</p>
+<h3>Provision of information to third parties</h3>
+<p>Information is normally only provided to a third party if it is required to deal with your enquiry, but there may be other circumstances where RSM UK is required to provide information as a result of legal process.</p>
+<p>RSM UK does not undertake marketing activities for third parties, nor does it provide information to third parties for their own marketing purposes.</p>
+<h3>Retention of information</h3>
+<p>Information is kept for as long as is necessary to fulfil your request or deal with your job application.</p>
+<p>Where you have consented to additional information being provided by RSM UK or one of its related entities your details will be retained for a reasonable period of time.</p>
+<h3>Security of information</h3>
+<p>The data controller collecting the information described in this statement is RSM UK. Unless you instruct us otherwise, information you provide will be used by the UK group of companies and LLPs trading as RSM and controlled (directly or indirectly) by Baker Tilly UK Holdings Limited (“<strong>RSM group entities</strong>”). Personal data collected by RSM UK will not be transferred to other members of the RSM network.</p>
+<p>Generally accepted standards of technology and operational security have been implemented to protect personal information from loss, misuse, alteration or destruction. All personnel of RSM group entities are required to keep personal information confidential and only authorised persons have access to such information.</p>
+<p>If you have any questions about this privacy statement please <a href="mailto:info@rsmuk.com">email us</a><a href="mailto:info@rsmuk.com">.</a></p>
+<br>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+    </div>
+    
+    <footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 col-sm-12 col-xs-12 footer-image">
+                <img src="http://www.rsmuk.com/~/media/images/footer/footertext2x.png?h=36&amp;la=en&amp;w=300&amp;hash=8BC7B8F36E14258FDD049E194E0D9460B002E56C" vspace="15" alt="Footer" width="300" height="36">
+            </div>
+        </div>
+        <div class="row">
+
+            <div class="col-lg-2 col-md-2 col-sm-4 col-xs-12">
+                    <h4>RSM links</h4>
+        <ul class="footer-links">
+                <li>
+                    
+    <a href="http://www.rsmuk.com/legal-statements" title="Legal statements">
+        Legal statements
+    </a>
+
+                </li>
+                <li>
+                    
+    <a href="http://www.rsmuk.com/privacy-and-cookies" title="Privacy and cookies">
+        Privacy and cookies
+    </a>
+
+                </li>
+                <li>
+                    
+    <a href="http://www.rsmuk.com/accessibility" title="Accessibility">
+        Accessibility
+    </a>
+
+                </li>
+        </ul>
+
+            </div>
+
+            <div class="col-lg-2 col-md-2 col-sm-4 col-xs-12">
+                    <h4>Global services</h4>
+        <ul class="footer-links">
+                <li>
+                    
+    <a href="http://www.rsmuk.com/what-we-offer/by-service/audit-and-assurance" title="Audit and assurance">
+        Audit and assurance
+    </a>
+
+                </li>
+                <li>
+                    
+    <a href="http://www.rsmuk.com/what-we-offer/by-service/consulting" title="Consulting">
+        Consulting
+    </a>
+
+                </li>
+                <li>
+                    
+    <a href="http://www.rsmuk.com/what-we-offer/by-service/outsourcing" title="Outsourcing">
+        Outsourcing
+    </a>
+
+                </li>
+                <li>
+                    
+    <a href="http://www.rsmuk.com/what-we-offer/by-service/restructuring" title="Restructuring">
+        Restructuring
+    </a>
+
+                </li>
+                <li>
+                    
+    <a href="http://www.rsmuk.com/what-we-offer/by-service/risk-advisory" title="Risk advisory">
+        Risk advisory
+    </a>
+
+                </li>
+                <li>
+                    
+    <a href="http://www.rsmuk.com/what-we-offer/by-service/specialist-services" title="Specialist services">
+        Specialist services
+    </a>
+
+                </li>
+                <li>
+                    
+    <a href="http://www.rsmuk.com/what-we-offer/by-service/tax" title="Tax">
+        Tax
+    </a>
+
+                </li>
+                <li>
+                    
+    <a href="http://www.rsmuk.com/what-we-offer/by-service/transactions" title="Transactions">
+        Transactions
+    </a>
+
+                </li>
+        </ul>
+
+            </div>
+
+            <div class="col-lg-2 col-md-2 col-sm-4 col-xs-12">
+                    <h4>International desks</h4>
+        <ul class="footer-links">
+                <li>
+                    
+    <a href="http://www.rsmuk.com/who-we-are/international/asia-pacific-business-services" title="Asia Pacific business services">
+        Asia Pacific business services
+    </a>
+
+                </li>
+                <li>
+                    
+    <a href="http://www.rsmuk.com/who-we-are/international/european-business-services" title="European business services">
+        European business services
+    </a>
+
+                </li>
+                <li>
+                    
+    <a href="http://www.rsmuk.com/who-we-are/international/us-business-services" title="US business services">
+        US business services
+    </a>
+
+                </li>
+        </ul>
+
+            </div>
+            <div class="visible-sm-block clearfix"></div>
+
+            <div class="col-lg-2 col-md-2 col-sm-4 col-xs-12">
+                <h4>Social</h4>
+                    <div class="region region-footer-social">
+                        <div id="block-rsm-social-footer" class="block block-rsm">
+                                <div class="content">
+                                    <div class="social-footer-wrap">
+                                        
+<img src="http://www.rsmuk.com/~/media/images/social/linkedin.png?la=en&amp;hash=BD3C41406042808658657EF7961C03551FA02341" alt="LinkedIn"><a title="RSM LinkedIn page" href="https://www.linkedin.com/company/rsm-uk" target="_blank">LinkedIn</a>
+                                    </div>
+                                </div>
+                                <div class="content">
+                                    <div class="social-footer-wrap">
+                                        
+<img src="http://www.rsmuk.com/~/media/images/social/twitter.png?la=en&amp;hash=982E8CE1DC97A3778EA47173B8801A7DE0749C8C" alt="Twitter"><a title="RSM Twitter page" href="http://www.twitter.com/RSMUK" target="_blank">Twitter</a>
+                                    </div>
+                                </div>
+                                <div class="content">
+                                    <div class="social-footer-wrap">
+                                        
+<img src="http://www.rsmuk.com/~/media/images/social/googleplus.png?la=en&amp;hash=4AB3E89311BF0C6ECB4CA37954854337D47DC811" alt="Google+"><a title="RSM Google plus link" href="https://plus.google.com/u/0/b/114641939640765072561/" target="_blank">GooglePlus</a>
+                                    </div>
+                                </div>
+                                <div class="content">
+                                    <div class="social-footer-wrap">
+                                        
+<img src="http://www.rsmuk.com/~/media/images/social/youtube.png?la=en&amp;hash=96C4B96AC20B9B217ADAEDAB5532E47D48B5E2DC" alt="Youtube"><a title="RSM YouTube page" href="http://www.youtube.com/c/Rsmuk1" target="_blank">YouTube</a>
+                                    </div>
+                                </div>
+                        </div>
+                    </div>
+            </div>
+
+
+            <div class="col-lg-2 col-md-2 col-sm-4 col-xs-12">
+                    <h4>RSM staff log-ins</h4>
+        <ul class="footer-links">
+                <li>
+                    
+    <a href="http://www.rsmuk.com/outlook-login" title="Outlook login">
+        Outlook login
+    </a>
+
+                </li>
+                <li>
+                    
+<a title="Share holders website" href="http://shareauction.rsmuk.com/public/Login.aspx" target="_blank">Shareholder login</a>
+                </li>
+                <li>
+                    
+<a title="RSM member login" href="https://connect.rsmi.com/" target="_blank">RSM member login</a>
+                </li>
+        </ul>
+
+            </div>
+        </div>
+
+        <div class="row footer-copy-top">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <div class="region region-footer-copy">
+                    <div id="block-block-3" class="block block-block">
+
+
+                        <div class="content">
+                            <p>The UK group of companies and LLPs trading as RSM is a member of the RSM network. RSM is the trading name used by the members of the RSM network. Each member of the RSM network is an independent accounting and consulting firm which practises in its own right. The RSM network is not itself a separate legal entity in any jurisdiction. <a href="http://www.rsmuk.com/legal-statements">Read more</a></p>
+<br>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+
+    <div class="footer-copy">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-md-6 col-md-push-6">
+                        <ul id="footer-menu" class="list-inline">
+                                <li>
+                                    
+    <a href="http://www.rsmuk.com/legal-statements" title="Legal statements">
+        Legal statements
+    </a>
+
+                                </li>
+                                <li>
+                                    
+    <a href="http://www.rsmuk.com/privacy-and-cookies" title="Privacy and cookies">
+        Privacy and cookies
+    </a>
+
+                                </li>
+                                <li>
+                                    
+    <a href="http://www.rsmuk.com/accessibility" title="Accessibility">
+        Accessibility
+    </a>
+
+                                </li>
+
+                        </ul>
+                </div>
+
+                <div class="col-md-6 copy-text col-md-pull-6">
+                    <div class="region region-footer-copyright">
+                        <div id="block-block-11" class="block block-block">
+
+
+                            <div class="content">
+                                <p>© 2015 RSM UK Group LLP. All rights reserved.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+</footer>
+
+
+    <script type="text/javascript">
+    window.jQuery = window.$scw.noConflict(true);
+</script>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;signed_in=true"></script>
+<script src="/bundles/scripts-bottom?v=J5kQl402CTPdvIFjnAQvxHKA1H0LcinHjVKm5YkgwnY1"></script>
+
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-532c76c735692f0d" tabindex="1000"></script>
+    
+    <div class="mbl--size"></div> 
+
+</body></html>
