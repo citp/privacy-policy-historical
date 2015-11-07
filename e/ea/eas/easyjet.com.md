@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyjet.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629020405id_/http%3A//www.easyjet.com/en/book/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyjet.com privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107051803id_/http%3A//www.easyjet.com/en/book/privacypolicy) for the most accurate reproduction.*
 
 # Privacy policy | easyJet
 
@@ -12,7 +12,7 @@ We will use your information to provide and personalise our service. We will als
 
 Your data may be used for the following purposes: accounting, billing and audit, credit or other payment card verification and screening, immigration and customs control, safety, security, health, administrative and legal purposes, statistical and marketing analysis, systems testing, maintenance and development, customer surveys, customer relations and to help us in any future dealings with you, for example by identifying your requirements and preferences. 
 
-Once you have registered with easyJet.com, you will be provided with access to a "Contact Preferences" page that will allow you to tailor our commercial communications to your preferences. You can opt-out of receiving e-mail updates at any time by going to [My easyJet.com](https://web.archive.org/EN/members/). 
+Once you have registered with easyJet.com, you will be provided with access to a "Contact Preferences" page that will allow you to tailor our commercial communications to your preferences. You can opt-out of receiving e-mail updates at any time by going to [My easyJet.com](https://www.easyjet.com/EN/secure/MyEasyJet.mvc/SignIn). 
 
 If you do not want to receive commercial communications from us, please select your choices by using the opt-out box available on that page. 
 
