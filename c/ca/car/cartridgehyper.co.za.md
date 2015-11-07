@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartridgehyper.co.za privacy policy that was archived on 2015-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150501105654id_/http%3A//www.cartridgehyper.co.za/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartridgehyper.co.za privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107081141id_/http%3A//www.cartridgehyper.co.za/index.php/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -155,6 +155,22 @@ To be accordance with CANSPAM we agree to the following:
      • Honor opt-out/unsubscribe requests quickly
 
      • Allow users to unsubscribe by using the link at the bottom of each email
+
+Furthermore
+
+In accordance with some of Google’s recent compulsory policies, we herewith inform you that we might be tracking your cookies as our web site / company is currently undertaking Google AdWords remarketing of any other Google AdWords feature that tracks such cookies.
+
+By visiting this site, you agree that certain of our Google AdWords remarketing and or other advertisements can follow you as you visit other web sites that forms part of Google’s Display Network (GDN).
+
+Note that we shall under no circumstances be utilizing any personally identifiable information as obtained through our Google AdWords remarketing campaign in any other related marketing endeavours – online or otherwise. (Such restricted utilization of information includes the sharing of such with third parties.)
+
+The Company shall under no circumstances be using any sensitive information of any nature on any of our remarketing tags.
+
+The Company shall duly endeavour to adhere to all of the current in-effect policies of Google related to remarketing or any other form of Google advertising in all of its Google AdWords marketing campaigns. (In instances of possible non-conformity to such, the Company shall endeavour to rectify such in a prompt manner.)
+
+You may opt out of seeing advertisements for web site, by simply clicking here: - [ ](http://www.google.com/policies/technologies/ads/)<http://www.google.com/policies/technologies/ads/>.
+
+We have implemented certain Google Analytics features for the primary purpose of attempting to ascertain the success of our online marketing endeavours via the Google AdWords platform.
 
 If at any time you would like to unsubscribe from receiving future emails, you can
 
