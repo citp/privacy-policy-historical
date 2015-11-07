@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the culturekings.com.au privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618060446id_/http%3A//www.culturekings.com.au/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the culturekings.com.au privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107071452id_/http%3A//www.culturekings.com.au/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy | Culture Kings Online Store
 
@@ -86,7 +86,7 @@ By using our site, you consent to our privacy policy.
 
 ## Unsubscribing
 
-Unsubscribing can be initiated at the link at the footer of each email,  by contacting us at [info@culturekings.com.au,](https://web.archive.org/web/20150618060446id_/http://www.culturekings.com.au/privacy-policy-cookie-restriction-mode/info@culturekings.com.au,) or by entering your email into <http://www.culturekings.com.au/unsubscribe> 
+Unsubscribing can be initiated at the link at the footer of each email,  by contacting us at [info@culturekings.com.au,](https://web.archive.org/web/20151107071452id_/http%3A//www.culturekings.com.au/info@culturekings.com.au,) or by entering your email into <http://www.culturekings.com.au/unsubscribe> 
 
 ## Changes to our Privacy Policy
 
@@ -98,8 +98,8 @@ This policy was last modified on 07/04/14.
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-Culture Kings Brisbane  
+Culture Kings  
 [orders@culturekings.com.au  
-](mailto:orders@culturekings.com.au)115 Queen Street  
-Brisbane, QLD 4000 Australia  
+](mailto:orders@culturekings.com.au)PO BOX 260  
+ARCHERFIELD, QLD 4108 Australia  
 (07) 3345 0522
