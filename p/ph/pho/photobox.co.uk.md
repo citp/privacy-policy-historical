@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the photobox.co.uk privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609020618id_/http%3A//www.photobox.co.uk/content/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photobox.co.uk privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107194318id_/https%3A//www.photobox.co.uk/content/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Online Photo Printing | PhotoBox - PhotoBox
 
 **Introduction**
 
-We are a company registered in England and Wales (registration number 03906401) under the name Photobox Limited; the address of our registered office is Bridge House, 63-65 North Wharf Road, London W2 1LA. We are registered as a data controller with the Information Commissioner’s Office (registration number Z4768023).
+We are a company registered in England and Wales (registration number 03906401) under the name Photobox Limited; the address of our registered office is Unit 7,Metal Box Factory, 30 Great Guildford Street, London, SE1 0HS.. We are registered as a data controller with the Information Commissioner’s Office (registration number Z4768023).
 
 Photobox is committed to respecting the privacy rights of visitors to its Site and App. This privacy policy explains how we collect, store and use personal data about you when you visit the Site or App, buy Products from us or otherwise provide your personal data to us. It provides you with details about the types of personal data that we collect from you, how we use your personal data and the rights you have to control our use of your personal data. Words used in this Privacy Policy have the same meaning as is attributed to them in the [Photobox Terms of Use.](http://www.photobox.co.uk/content/legal/terms-of-use)
 
