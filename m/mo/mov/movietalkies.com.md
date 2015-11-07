@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the movietalkies.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209033706id_/http%3A//www.movietalkies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movietalkies.com privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107053402id_/http%3A//www.movietalkies.com/privacy-policy) for the most accurate reproduction.*
 
 # Movie Talkies
-
-## Privacy Policy
 
 MovieTalkies.com is an online portal which provides movie related information, database, news, reviews, trailers, pictures, interviews, etc. This Privacy Policy is designed to help you understand how we collect and use the personal information you decide to share, and help you make informed decisions when using MovieTalkies.com
 
