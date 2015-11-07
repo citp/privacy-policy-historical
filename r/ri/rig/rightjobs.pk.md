@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rightjobs.pk privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618183054id_/http%3A//rightjobs.pk/content/view/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightjobs.pk privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107073825id_/http%3A//rightjobs.pk/privacy_and_security) for the most accurate reproduction.*
 
 # Right Jobs - Privacy Policy
 
