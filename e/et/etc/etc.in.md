@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the etc.in privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502090358id_/http%3A//www.etc.in/aboutus/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etc.in privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107232035id_/http%3A//www.etc.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy :: ETC Channel Official Website: Bollywood, Bollywood News, Movie Reviews, Latest Trailers, Actors, Actress, Latest Posters, Komal Nahta
+# Privacy Policy | ZETC Bollywood
 
 ZEEL is committed to protecting any personal information that you may provide to us. In particular, we believe it is important for you to know how we treat information about you that we may receive from this Web site.
 
-INFORMATION COLLECTED
+##### INFORMATION COLLECTED
 
 In general, you can visit this Web site without telling us who you are or revealing any information about yourself. Our web servers collect the domain names, not the e-mail addresses, of visitors. In addition, there are portions of this Web site where we may need to collect personal information from you for a specific purpose, such as to provide you with certain information you request. The information collected from you may include your name, address, telephone, fax number, or e-mail address.
 
 This Web site is not intended for persons under 13 years of age. We do not knowingly solicit or collect personal information from or about children, and we do not knowingly market our products or services to children.
 
-USE OF COLLECTED INFORMATION
+##### USE OF COLLECTED INFORMATION
 
 Domain name information that we collect is not used to personally identify you and instead is aggregated to measure the number of visits, average time spent on the site, pages viewed, etc. We use this information to measure the use of our site and to improve the content of our site.
 
@@ -20,14 +20,14 @@ We may share the personal information you provide with other companies we have h
 
 If you register with one of ZEEL business units online, they may use this information to provide you with custom information about ZEEL's offerings in support of your business needs. You should review the privacy policy associated with that ZEEL business' Web site for further information about that ZEEL business' privacy practices. For example, a technology called cookies may be used to provide you with tailored information. A cookie is a tiny element of data that a Web site can send to your browser, which may then be stored on your hard drive so we can recognize you when you return. You may set your browser to notify you when you receive a cookie.
 
-ACCESS TO COLLECTED INFORMATION
+##### ACCESS TO COLLECTED INFORMATION
 
 You may review and update the information that you provide to us through this Web site by contacting us as described below.
 
-CONTACTING US
+##### CONTACTING US
 
 If you have any questions about this privacy policy, please use the Contact Info page. We welcome your questions and suggestions about our privacy policy.
 
-CHANGES TO THIS POLICY
+##### CHANGES TO THIS POLICY
 
 Please check this privacy policy periodically to inform yourself of any changes. Although we reserve the right to modify or supplement this privacy policy, we will provide notice to you on this Web site of any major changes for at least 30 days following the change.
