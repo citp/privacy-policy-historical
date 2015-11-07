@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dsstyles.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615052319id_/https%3A//www.dsstyles.com/page/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dsstyles.com privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107114540id_/https%3A//www.dsstyles.com/page/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Stylish Smartphone Cases, Swarovski Crystal Cases and More | DSstyles
 
