@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allflashnow.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819131700id_/http%3A//www.allflashnow.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allflashnow.com privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107074845id_/http%3A//www.allflashnow.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: AllFlashNow
 
@@ -47,7 +47,7 @@ Play various computer games to learn more about one of the world's most favourit
 • [More Flash Games Reviews](http://blog.allflashnow.com/)  
   
 ---  
-Games played today: [**2162**](http://www.allflashnow.com/games-played-today.html)  
+Games played today: [**6219**](http://www.allflashnow.com/games-played-today.html)  
 |  | 
 
 [ ](http://www.allflashnow.com/online_games/play/GTA+3.html)
@@ -55,15 +55,6 @@ Games played today: [**2162**](http://www.allflashnow.com/games-played-today.htm
 | 
 
 New jigsaw puzzle with 56 colorful pieces of a picture from the famous PC game GTA 3 (aka GTA III). ...  
-  
----|---  
-| 
-
-[ ](http://www.allflashnow.com/online_games/play/GTA+San+Andreas+Jigsaw.html)
-
-| 
-
-New jigsaw puzzle with 91 colorful pieces of a picture from the famous PC game GTA San Andreas. Drag...  
   
 ---|---  
 | 
@@ -77,11 +68,11 @@ After super successful games GTA Vice City and GTA San Adreas here comes GTA IV 
 ---|---  
 | 
 
-[ ](http://www.allflashnow.com/online_games/play/GTA+San+Andreas+Jigsaw+2.html)
+[ ](http://www.allflashnow.com/online_games/play/GTA+San+Andreas+Jigsaw.html)
 
 | 
 
-New installment of the GTA San Andreas jigsaw series. In this game you have to drag and drop the pie...  
+New jigsaw puzzle with 91 colorful pieces of a picture from the famous PC game GTA San Andreas. Drag...  
   
 ---|---  
 | 
@@ -95,47 +86,47 @@ Jigsaw puzzle fun with 49 pieces of a scene from GTA Vice City. Drag and drop th
 ---|---  
 | 
 
-[ ](http://www.allflashnow.com/online_games/play/GTA+Vice+City+Jigsaw.html)
-
-| 
-
-A funny colorful jigsaw puzzle with Tommy Vercetti from the computer game GTA Vice City. Drag and dr...  
-  
----|---  
-| 
-
-[ ](http://www.allflashnow.com/online_games/play/Zuma.html)
-
-| 
-
-Match the balls and get rid of them before they reach the center of the circle.  
-  
----|---  
-| 
-
-[ ](http://www.allflashnow.com/online_games/play/Dinosaur+Bike+Stunt.html)
-
-| 
-
-Use your driving skills to help the little dinosaur to overcome very difficult track. Collect the s...  
-  
----|---  
-| 
-
-[ ](http://www.allflashnow.com/online_games/play/Beach+Kiss.html)
-
-| 
-
-You and your girlfriend are trying to kiss on beach without getting noticed by other people. Hold do...  
-  
----|---  
-| 
-
 [ ](http://www.allflashnow.com/online_games/play/GTA+Gangster+Life.html)
 
 | 
 
 GTA-inspired flash online game where you can be one of the bad guys and rule the streets.  
+  
+---|---  
+| 
+
+[ ](http://www.allflashnow.com/online_games/play/Sewer+Run+2.html)
+
+| 
+
+Get ready to ride the wildest open sewer runs again. Cool 3D game with awesome graphics and crazy tr...  
+  
+---|---  
+| 
+
+[ ](http://www.allflashnow.com/online_games/play/Pimp+My+Ride.html)
+
+| 
+
+Collect pimp coins around the track and enhance your ride... Each pimp-up increases your motor's bod...  
+  
+---|---  
+| 
+
+[ ](http://www.allflashnow.com/online_games/play/Scooby+Doo+Bubble+Banquet.html)
+
+| 
+
+Help the main characters of the game to collect the required number of points to proceed to a new le...  
+  
+---|---  
+| 
+
+[ ](http://www.allflashnow.com/online_games/play/Valentine+Night+of+Kisses.html)
+
+| 
+
+It's Valentine's night and this young cute couple is having a date at the coolest club in the town. ...  
   
 ---|---  
   
