@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myracequeens.com privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527022943id_/http%3A//www.myracequeens.com/myracequeens-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myracequeens.com privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107200728id_/http%3A//www.myracequeens.com/myracequeens-privacy.html) for the most accurate reproduction.*
 
 # MyRaceQueens.com - Privacy Statement
 
