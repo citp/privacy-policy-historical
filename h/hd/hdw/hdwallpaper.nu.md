@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdwallpaper.nu privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626095910id_/http%3A//www.hdwallpaper.nu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdwallpaper.nu privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107144559id_/http%3A//www.hdwallpaper.nu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - HD Wallpaper .NU
 
@@ -14,7 +14,7 @@ By allowing you to send e-mail to us, we are not attempting to collect any perso
 Since there is no newsletter or email subscription function available, we do not offer an Opt out option.
 
 **Cookies**  
-hdwallpaper.nu may use cookies to improve the use of our websites. A “cookie” is a small file that websites often store on a user’s computer. Storage of cookies on your system provides an easy and convenient method for us to personalize your experience on our websites. For example, cookies allow us to remember your screen name, tell us that you have visited our website before, and may contain information that will make your next visit to our website more enjoyable. However, we do not use cookies to store personal information such as your name. In addition, hdwallpaper.nu does not use cookies to retrieve information from your computer that was not originally sent in a cookie. You can always disable cookies or set your browser to alert you when cookies are being sent to your computer.
+hdwallpaper.nu uses cookies to store information on your computer. A “cookie” is a small file that websites often store on a user’s computer. Storage of cookies on your system provides an easy and convenient method for us to personalize your experience on our websites. For example, cookies allow us to remember your screen name, tell us that you have visited our website before, and may contain information that will make your next visit to our website more enjoyable. However, we do not use cookies to store personal information such as your name. In addition, hdwallpaper.nu does not use cookies to retrieve information from your computer that was not originally sent in a cookie. Some of these cookies are essential to make our site work and others help us to improve by giving us some insight into how the site is being used. You can always disable cookies or set your browser to alert you when cookies are being sent to your computer.
 
 **IP Addresses**  
 hdwallpaper.nu may also collect your IP address for safety and security purposes. An IP address is a number that is used by computers on the network to identify your computer every time you log on to the Internet.
