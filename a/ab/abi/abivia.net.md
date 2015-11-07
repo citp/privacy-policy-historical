@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abivia.net privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624032747id_/http%3A//www.abivia.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abivia.net privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107064626id_/http%3A//www.abivia.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Abivia Web Hosting and Web Site Development
 
