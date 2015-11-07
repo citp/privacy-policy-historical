@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the angelseo.co.uk privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613061657id_/http%3A//www.angeldigital.marketing/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angelseo.co.uk privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107024642id_/http%3A//www.angeldigital.marketing/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Angel | SEO, Website Design & Copywriting
 
@@ -7,7 +7,135 @@
 
 
 
-**Our privacy policy below explains how we will collect and use the information you give us. We may vary this policy from time to time and the current version will be that published on this site. The word 'we' refers to Angel, unless otherwise indicated.**
+By using our website, you accept that we may set cookies on your computer. If you do not agree to this, please discontinue your use of our website. 
+
+This page explains:
+
+  * Which cookies are set on your computer.
+  * What those cookies are used for.
+  * How you can manage/opt out of those cookies.
+  * How we use other information that you provide.
+
+
+
+## What are cookies?
+
+Cookies are tiny text files that are stored on a user's browser. Most cookies contain a unique identifier called a cookie ID: a string of characters that websites and servers associate with the browser on which the cookie is stored. This allows websites and servers to distinguish the browser from other browsers that store different cookies, and to recognise each browser by its unique cookie ID.
+
+Cookies are widely used by websites and servers to provide many of the basic services that we find online. If you shop on a website, a cookie allows the website to remember which items you've added to your virtual shopping basket. If you set preferences on a website, a cookie allows the website to remember your preferences the next time that you visit. Or if you sign into a website, the website might use a cookie to recognise your browser later on, so that you don't have to sign in again. Cookies also allow websites to collect data about user activity, such as how many unique visitors a page receives per month. All these applications depend on the information stored in cookies.
+
+## **The following information explains the use of cookies on our website:**
+
+### Google Analytics
+
+We use Google Analytics to monitor traffic levels, search queries and visits to this website. Google Analytics stores IP address anonymously on its servers in the US, and neither ourselves nor Google will associate your IP address with any personally identifiable information. These cookies enable Google to determine whether you are a return visitor to the site, and to track the pages that you visit during your session.
+
+The following cookies are set on your computer by **Google Analytics** :
+
+**Cookie Name** | **Default Expiration Time** | **Description**  
+---|---|---  
+__utma | 2 years from set/update | Used to distinguish users and sessions. The cookie is created when the javascript library executes and no existing __utma cookies exists. The cookie is updated every time data is sent to Google Analytics.  
+__utmt | 10 minutes | Used to throttle request rate.  
+__utmb | 30 mins from set/update | Used to determine new sessions/visits. The cookie is created when the javascript library executes and no existing __utmb cookies exists. The cookie is updated every time data is sent to Google Analytics.  
+__utmc | End of browser session | Not used in ga.js. Set for interoperability with urchin.js. Historically, this cookie operated in conjunction with the __utmb cookie to determine whether the user was in a new session/visit.  
+__utmz | 6 months from set/update | Stores the traffic source or campaign that explains how the user reached your site. The cookie is created when the javascript library executes and is updated every time data is sent to Google Analytics.  
+__utmv | 2 years from set/update | Used to store visitor-level custom variable data. This cookie is created when a developer uses the [_setCustomVar](https://developers.google.com/analytics/devguides/collection/gajs/methods/gaJSApiBasicConfiguration#_gat.GA_Tracker_._setCustomVar) method with a visitor level custom variable. This cookie was also used for the deprecated _setVar method. The cookie is updated every time data is sent to Google Analytics.  
+  
+### _Opting out of Google Analytics cookies_
+
+You can opt out of Google Analytics cookies by downloading the [**Google Analytics Opt-out Browser Add-on**](https://tools.google.com/dlpage/gaoptout).
+
+### Google Adsense
+
+Ww display adverts on our website through Google's Adsense program. These set DoubleClick cookies on your computer.
+
+### _How does DoubleClick use cookies?_
+
+DoubleClick uses cookies to improve advertising. Some common applications are to target advertising based on what’s relevant to a user, to improve reporting on campaign performance and to avoid showing ads that the user has already seen.
+
+The cookie ID in each DoubleClick cookie is essential to these uses. For example, DoubleClick uses cookie IDs to keep a log of which ads are displayed to which browsers. When it’s time to serve an ad to a browser, DoubleClick can use the browser’s cookie ID to check which DoubleClick ads have already been delivered to that particular browser. That’s how DoubleClick avoids showing ads the user has already seen. In the same way, cookie IDs allow DoubleClick to log conversions related to ad requests - such as when a user views a DoubleClick ad and later uses the same browser to visit the advertiser’s website and make a purchase.
+
+DoubleClick cookies contain no personally identifiable information. Sometimes the cookie contains an additional identifier that is similar in appearance to the cookie ID. This identifier is used to identify an ad campaign to which a user was exposed previously; but no personally identifiable information is stored by DoubleClick in the cookie.
+
+### _When does DoubleClick send cookies to a browser?_
+
+DoubleClick sends a cookie to the browser after any impression, click or other activity that results in a call to the DoubleClick server. If the browser accepts the cookie, the cookie is stored on the browser.
+
+Most commonly, DoubleClick sends a cookie to the browser when a user visits a page that shows DoubleClick ads. Pages with DoubleClick ads include ad tags that instruct browsers to request ad content from the DoubleClick ad server. When the server delivers the ad content, it also sends a cookie. But a page doesn't have to show DoubleClick ads for this to happen; it just needs to include DoubleClick ad tags, which might load a click tracker or impression pixel instead.
+
+### _Third-party and first-party cookies_
+
+Cookies are categorised as third-party or first-party depending on whether they are associated with the domain of the site a user visits. Note that this doesn't change the name or content of the actual cookie. The difference between a third-party cookie and a first-party cookie is only a matter of which domain a browser is pointed towards. The exact same kind of cookie might be sent in either scenario.
+
+**Third-party cookies**
+
+Third-party cookies are associated with a domain that is separate from the site a user visits. DoubleClick cookies are associated with doubleclick.net, the DoubleClick domain. When a browser visits a site that shows DoubleClick ads, the browser is not on a site in the DoubleClick domain. This makes the DoubleClick server a third party, so the cookies that the server sends in this context are called third-party cookies.
+
+**First-party cookies**
+
+First-party cookies are associated with the domain of the site a user visits. Any action that points the browser to the DoubleClick domain makes the DoubleClick server the first party. Cookies that the DoubleClick server sends in this context are called first-party cookies.
+
+When a user visits a site with a DoubleClick ad, the user’s browser is pointed toward the publisher’s site, which is the first party. The DoubleClick servers are not in the publisher’s domain, so in this context the DoubleClick server is the third party. However, clicking a DoubleClick ad points the user’s browser to a URL that is in the DoubleClick domain. Although the URL is in the DoubleClick domain, it also includes code that redirects the browser to the advertiser’s site (after the DoubleClick server sends the cookie). This way, the user ends up on the advertiser’s site, not in the DoubleClick domain.
+
+Note that some DoubleClick products are used by publishers, not advertisers. DoubleClick for Publishers serves a cookie on the publisher's domain, in addition to or instead of serving cookies on the doubleclick.net domain. That cookie is called __gads, and it's set to expire two years after it's served.
+
+### _Opting out of Adsense cookies_
+
+You can opt out of Adsense cookies using [ **Ads Settings**](http://www.google.com/ads/preferences).
+
+In this case, the unique DoubleClick cookie ID on the user’s browser is overwritten with the phrase “OPT_OUT”. Because there is no longer a unique cookie ID, the opt-out cookie can’t be associated with a particular browser.
+
+### Youtube
+
+Google set a number of cookies on any page that includes a Youtube video. While we have no control over the cookies set by Google, they appear to include a mixture of pieces of information to measure the number and behaviour of Youtube users, including information that links your visits to our website with your Google account if you are signed in to one. Information about your use of our website, including your IP address, may be transmitted to Google and stored on servers in the United States.This cookie does not identify you personally unless you are logged into Google, in which case it is linked to your Google account.
+
+**Cookie name(s):** SID, LOGIN_INFO, use_hotbox, PREF, SSID, HSID, watched_video_id_list, __utma, __utmz, demographics, VISITOR_INFO1_LIVE
+
+**What's stored:** Various unique identifiers, as well as login information that may relate to a Google account.
+
+**When does it expire?** Most of the cookies expire 10 years after your last visit to a page containing a Youtube video, although some expire sooner.
+
+### Other Google features
+
+Some of our web pages may use other Google features such as Google maps and Google Plus to allow you to promote our content, and to provide you with a better experience on our website. You can find out more about the type of cookies that Google sets [**here**](http://www.google.com/policies/technologies/types/) and by following the link below.
+
+### More information on Google's use of your information
+
+For more information on how Google collects and uses information from you via cookies please see '[ **How Google uses data when you use our partners' sites or apps** '](http://www.google.com/intl/en/policies/privacy/partners/). You may also like to read [**Google's privacy policy**](https://www.google.co.uk/intl/en-GB/policies/privacy/).
+
+### Pinterest
+
+Some of our web pages use a Pinterest share button which may set a cookie on your computer. You can find out more about how Pinterest uses your data [here](https://about.pinterest.com/en/privacy-policy).
+
+### Ebay
+
+Some of our web pages display advertisements from Ebay which may set a cookie on your computer. You can find out more about how Ebay uses your data [here](http://pages.ebay.co.uk/help/account/cookies-web-beacons.html).
+
+### Facebook
+
+Some of our web pages use Facebook buttons for sharing and liking our content which may set a cookie on your computer. You can find out more about how Facebook uses your data [here](https://www.facebook.com/help/cookies/).
+
+### Stumbleupon
+
+Some of our web pages use a Stumbleupon button allowing you to share our content through the Stumbleupon network. These pages may set a cookie on your computer. You can find out how Stumbleupon uses your data [here](http://www.stumbleupon.com/privacy).
+
+### Amazon
+
+Some of our web pages may contain advertisements from Amazon's Partner Program which may set a cookie on your computer. You can find out more about how Amazon uses your data [here](http://www.amazon.co.uk/gp/help/customer/display.html?ie=UTF8&*Version*=1&*entries*=0&nodeId=201149560).
+
+### Twitter
+
+Some of our web pages may use a share button to allow you to share our content on Twitter and these may set a cookie on your computer. You can find out more about how Twitter uses your data [here](https://support.twitter.com/articles/20170514).
+
+## Managing cookies in your browser settings
+
+You can accept, manage and delete cookies via your browser. You can find out more on how to do this here:
+
+## Other privacy information
+
+### Log Files
+
+Like many other Web sites, we make use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
 ### Collecting your information
 
@@ -23,11 +151,9 @@ We will act in accordance with current legislation and we will maintain a link t
 
 ### Data Protection Notice
 
-Unlike many reputable (and many more not so reputable) companies who trade on the Internet, we will **_NEVER_** share the information you provide, together with other information, with any other company.
+Unlike many reputable (and many more not so reputable) companies who trade on the Internet, we will  ** _NEVER_**  share the information you provide, together with other information, with any other company.
 
 We may use the information you provide for administration, marketing, customer services and profiling your purchasing preferences. However, we promise not to send you more than four marketing communications per month, and we promise to give you the ability to stop receiving marketing communications at any time.
-
-For information about the way we use cookies and other web tracking devices please refer to the sections below in this privacy policy.
 
 If you give us information about another person, in doing so you confirm that they have given you permission to provide it to us and for us to be able to process their personal data (including sensitive personal data) and also that you have told them who we are and what we will use their data for, as set out in this notice.
 
@@ -37,7 +163,7 @@ For our joint protection and training purposes, telephone calls may be recorded 
 
 ### Informing you about products and services
 
-We offer search engine optimisation, online marketing and other web services. By providing us with your contact details, you will be indicating to us your consent to us contacting you by mail, telephone, fax, email, and SMS/MMS to let you know about any goods, services or promotions of our own which may be of interest to you unless you indicate an objection to receiving such messages.
+By providing us with your contact details, you will be indicating to us your consent to us contacting you by mail, telephone, fax, email, and SMS/MMS to let you know about any goods, services or promotions of our own which may be of interest to you unless you indicate an objection to receiving such messages.
 
 As stated in our Data Protection Notice, we will never send you more than four marketing communications per month (in practice, we rarely send out more than one marketing communication per month) and we will always give you the opportunity of opting out of such marketing communications.
 
@@ -47,21 +173,17 @@ You may be asked on the telephone to give your credit or debit card details for 
 
 We never store customers' sensitive data - for example, credit or debit card details.
 
-#### How we collect information about your visits to our websites
+### IP address
 
 When you visit our web pages, we may check your IP address to determine your location. This helps us give you content relevant to where you are located.
 
-We may put something called a `cookie' on your computer. Thousands of reputable websites use cookies and you should not be alarmed by this. They help us track how often you visit the website. They also help us confirm your identity when you log into our website, and they help us determine whether you are logged in or logged out.
-
-Some of our websites use analytics software which records non-personal statistical information about what you do on the website. For example: the duration of time a page was viewed, common paths taken through the site, data on screen settings and other general information. None of this information is person-specific.
-
-#### What will we do with your personal information?
+### What will we do with your personal information?
 
 We will only use your information for the purposes that you would reasonably anticipate or that we state when we collect it and, where necessary, for which you have given us your consent. We will not contact you, or pass your information to any other person or company, ever.
 
 We are committed to treating your personal data with due care and in accordance with the data protection principles. In addition, you will see that our privacy policy is far more protective than many major companies, who often reserve the right to pass your details to third parties for marketing.
 
-#### How to access your personal information
+### How to access your personal information
 
 If you would like to see a copy of the information that we hold for you, please email our team, and mark your email for the attention of the legal department. We reserve the right to ask you to provide certain information to help us confirm your identity.
 
@@ -69,95 +191,14 @@ We reserve the right to charge a small fee for the provision of this information
 
 If you believe that any of the data we hold about you is incorrect or being misused or want further information you may contactus.
 
-#### Users aged 16 years and under
+### Users aged 16 years and under
 
 If you are 16 or under you must have permission from a parent or guardian before you give us personal information. If we find that we have received information from you without the appropriate consent, we reserve the right to cancel all transactions and services and remove all personal data that you have supplied. You will be able to re-submit the information when you have the required permission.
 
-#### What is a cookie?
+### Links to other websites
 
-Cookies are text files that identify your computer (through what is known as an IP address) to our server. 
+Our website may contain links to other sites outside the group. We are not responsible for the privacy and security of these sites unless they belong to us. 
 
-You generally have the opportunity to set your computer to accept all cookies, to notify you when a cookie is issued, or not to receive cookies at any time. You can do this through your Internet browser. With most browsers, this facility can be reached via the `tools' (e.g. Internet Explorer), or `edit', or 'task' (e.g. Netscape) menu. If you have any problems finding this area, the `help' function within your browser will be able to provide assistance.
-
-If you refuse a cookie it may prevent the proper operation of the site or even prevent your access to certain areas.
-
-**Name**
-
-| 
-
-**Description**  
-  
----|---  
-  
-__utma
-
-| 
-
-Google Analytics: We use Google Analytics to monitor traffic levels, search queries and visits to this website. Google Analytics stores IP address anonymously on its servers in the US, and neither Angel nor Google will associate your IP address with any personally identifiable information. These cookies enable Google to determine whether you are a return visitor to the site, and to track the pages that you visit during your session.  
-  
-__utmb  
-  
-__utmc  
-  
-__utmz  
-  
-__qca
-
-| 
-
-This cookie is set by Quantcast. Please view their privacy [statement here](http://www.quantcast.com/privacy)  
-  
-__atuvc
-
-| 
-
-Social media: We enable you to share our pages through social media channels such as Twitter, Facebook, Google Plus, Digg and Linked In. We use the addThis plugin which sets a cookie for you; view the [privacy statement here](http://www.addthis.com/privacy/privacy-policy)  
-  
-uic, clips
-
-| 
-
-Videos: We embed videos from our official vimeo channel using Vimeos privacy-enhanced mode. This mode may set cookies on your computer once you click on the Vimeo video player, but Vimeo will not store personally-identifiable cookie information for playbacks of embedded videos using the privacy-enhanced mode. To find out more please see [vimeo's privacy statement](http://vimeo.com/privacy)  
-  
-#### Links to other websites
-
-Our website may contain links to other sites outside the group. Angel is not responsible for the privacy and security of these sites unless they belong to Angel. This privacy policy applies only to AngelSEO.co.uk.
-
-If you are unsure whether a website belongs to Angel or not, just email us or give us a call.
+If you are unsure whether a website belongs to us or not, just email us or give us a call.
 
 If you have any more questions about the way we handle data, please call or email us.
-
-### Advertising privacy policy
-
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at hello@angelseo.co.uk.
-
-At www.angelseo.co.uk, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.angelseo.co.uk and how it is used.
-
-**Log files**
-
-Like many other Web sites, www.angelseo.co.uk makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
-
-**Cookies and Web Beacons  **
-
-www.angelseo.co.uk does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
-
-**DoubleClick DART Cookie**
-
-Google, as a third party vendor, uses cookies to serve ads on www.angelseo.co.uk.
-
-Google's use of the DART cookie enables it to serve ads to users based on their visit to www.angelseo.co.uk and other sites on the Internet.
-
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html
-
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:
-
-Google Adsense  
-Amazon
-
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.angelseo.co.uk send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
-
-www.angelseo.co.uk has no access to or control over these cookies that are used by third-party advertisers.
-
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.angelseo.co.uk's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
-
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
