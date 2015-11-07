@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tataskyplus.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607035837id_/http%3A//www.tatasky.com/wps/portal/TataSky/footerpages/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tataskyplus.com privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107190402id_/http%3A//www.tatasky.com/wps/portal/TataSky/footerpages/privacypolicy) for the most accurate reproduction.*
 
 # Tata Sky DTH Privacy Policy, Digital TV, DTH India | Tata Sky DTH
 
