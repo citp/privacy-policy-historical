@@ -1,42 +1,69 @@
-> *The following text is extracted and transformed from the valottery.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314233024id_/https%3A//valottery.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valottery.com privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107155527id_/https%3A//www.valottery.com/vaprivacystatement.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Official Home of the Virginia Lottery - Privacy Statement
 
----  
-  
-If you do nothing during your visit to the Virginia Lottery website but browse or download information, we automatically collect and store the following information about your visit: 
+The Virginia Lottery has been awarded TRUSTe's Privacy Seal signifying that TRUSTe has reviewed this privacy statement and our practices for compliance with TRUSTe's program requirements (including transparency, accountability, and choice) regarding the collection and use of your personal information.  The TRUSTe program covers **only** information that is collected through this website.
 
-  * **The Internet Domain and IP address from which you accessed our site.**
-  * **The type of browser and operating system you used.**
-  * **The date and time you visited our site.**
-  * **The pages visited. If you linked from another website, the address of that website.**
+TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy statement or practices, please [contact us](https://web.archive.org/contactus.aspx).   If you are not satisfied with our response, you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
 
-
-
-The information collected is used to improve the content of our web services and help us understand how people are using our pages. We analyze our website logs to continually improve the value of the materials available on our site. The information in our web logs is not personally viewable and no attempt is made to link it with individuals who browse our website. 
-
-If during your visit to the Virginia Lottery website you send an email message, we collect your email address and the contents of the message you sent us. We use your email address to respond to you.
-
-When you visit the Virginia Lottery website and request information, this site's server sends the request to you and then breaks the connection. The connection does not resume again until you perform another function. To ensure that we maintain the connection between our server and your computer for the duration of an online transaction, we may use a standard web technology called "cookies." 
-
-A "cookie" is a very small amount of data that is sent from our server to your computer's hard drive. "Cookies" allow us to save the information that you input while progressing through an online transaction. If your browser is not configured to accept "cookies," you still will be able to access the information on our website. No user information is gathered through "cookies" on our website.   
-  
 The Virginia Lottery will not collect any personal information about you (i.e., your name, address, telephone number, or email address) unless you provide it to us voluntarily. If you have access to the Internet, your computer automatically has an Internet Protocol ("IP") address. We use IP addresses to gather information to track the number of visitors to our website and to identify our most popular pages so we can improve site content.
 
-The only ways we can obtain your personal information are if you submit it to us through one of our interactive forms or send us a general inquiry or feedback.
+The only ways we can obtain your personal information are if you submit it to us through one of our interactive forms or send us a general inquiry or feedback. 
 
-If you do not want your personal information collected, please do not submit it to us! If you have already sent this information to us and would like for us to delete it, please [contact us](https://web.archive.org/en/contactus.aspx).
+If you register for a Virginia Lottery subscription or promotion, create an account, or submit your information to us through our website, we may collect the following from you:
 
-While visiting our website, you may want to send the Virginia Lottery an email or request that we call you. If so, we may ask you to provide your name, the subject of your question or comment, and your email address or telephone number. This information is used solely to fulfill your online request. The Virginia Lottery does not seek to share this information with any other entity.
+  * Contact information such as: name, email address, mailing address, and phone number 
+  * Financial information such as bank account number and billing address 
+  * Last four digits of your Social Security number 
+  * Preferences information such as product wish lists, order history, and marketing preferences 
+
+
+
+If you do not want your personal information collected, please do not submit it to us! If you have already sent this information to us and would like for us to delete it, please [contact us](https://web.archive.org/contactus.aspx).
+
+We use this information to:
+
+  * Fulfill your subscription request 
+  * Administer your account 
+  * Confirm you are eligible to play our games or participate in our promotions 
+  * Send you requested information or respond to your questions/concerns 
+  * Send you marketing communications, such as electronic newsletters or emails 
+  * Improve our website, marketing, and business efforts 
+  * Conduct research and analysis 
+  * Display content based upon your interests 
+
+
+
+As part of winning prizes from the Virginia Lottery, it is our policy to reserve the right to share and display some of your information on our website and social media pages. Claimants may have their first and last name, hometown, and prize amount shared or displayed in these locations.
+
+To request removal of your personal information from our website, contact us [here](https://web.archive.org/contactus.aspx).  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 Except as specified above, the Virginia Lottery does not collect personal information. 
 
-The Virginia Lottery does not seek to share, sell or trade email addresses, information collected in surveys or in our guest book, or any other information about our online visitors. However, the Virginia Lottery will disclose user information if we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against an individual who attempts, even unintentionally, to gain unauthorized access to the Virginia Lottery or to disrupt our website.
+We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties. We may provide your personal information to companies that provide services to help us with our business activities such as verifying your identity during your subscription request or fulfilling promotional prizes. These companies are authorized to use your personal information **_only as necessary_** to provide these services to us.
 
-We maintain security standards and procedures regarding unauthorized access to ensure that the Virginia Lottery website remains available to all users and to prevent unauthorized attempts to upload or change information or otherwise cause damage to the site. Information on individuals causing, or attempting to cause, damage to the website will be traced and released to the appropriate legal authorities to investigate suspected or actual criminal activity.
+We may also disclose your personal information:
+
+  * as required by law, such as to comply with a subpoena or similar legal process, 
+  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, or 
+  * to any other third party with your prior consent 
+
+
+
+We maintain security standards and procedures regarding unauthorized access to ensure that the Virginia Lottery website remains available to all users and to prevent unauthorized attempts to upload or change information or otherwise cause damage to the site.  When you enter sensitive information on our website, that information is transmitted to the Lottery along an encrypted communication path. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security.
+
+Information on individuals causing, or attempting to cause, damage to the website will be traced and released to the appropriate legal authorities to investigate suspected or actual criminal activity.
+
+If your personal information changes, or if you no longer desire our service, you may correct or update it through your account settings page or by contacting us using one of the methods listed below. If you provided us with personal information but do not have an account, please contact us through the contact information listed below. We will respond to your access request within thirty (30) days.
+
+We will retain your information for as long as your account is active or as needed to provide you service. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+If you chose to receive marketing communications from us and wish to no longer receive them, you can indicate this by following the “unsubscribe” instructions provided on this site or by contacting us as indicated below.
 
 For your convenience the Virginia Lottery website may provide links to other sites. However, the Virginia Lottery is not responsible for the privacy practices or the content of the websites to which we link. When you link to another site you are no longer on the Virginia Lottery website, and this Privacy Statement will not apply. When you link to another website, you are subject to the privacy policy of that new site. If you have questions or concerns about a site to which we link, please read the privacy and security information for that site.
 
 The Virginia Lottery does not warrant the accuracy, reliability or timeliness of any information published on the Virginia Lottery website or any site to which we link, nor endorse any content, viewpoint, product or service linked from this system and shall not be liable for any loss caused by reliance on the accuracy, reliability or timeliness of such information. Portions of such information may be incorrect or not current. Any person or entity that relies on any information obtained from this system does so at his or her own risk.
 
-To offer comments about the Virginia Lottery website or about the information presented in this Privacy Statement you may [contact us](https://web.archive.org/en/contactus.aspx).
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the email address specified in your account) or by means of a notice on this website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+To offer comments about the Virginia Lottery website, about the information presented in this Privacy Statement, or to find your closest customer service center, please visit our [Contact Us](https://web.archive.org/contactus.aspx) page.  Our headquarters is located at, and our mailing address is, 900 E. Main Street, Richmond, VA 23219.
