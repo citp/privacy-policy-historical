@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the cybercafepro.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508033604id_/http%3A//www.cybercafepro.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cybercafepro.com privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107042229id_/http%3A//www.cybercafepro.com/privacy.php) for the most accurate reproduction.*
 
-# CyberCafePro Privacy
+# Privacy - CyberCafePro
 
 **What information do we collect?**
 
 We collect information from you when you register on our site. 
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
-
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
 **What do we use your information for?**
 
