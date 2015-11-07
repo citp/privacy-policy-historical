@@ -1,17 +1,18 @@
-<!--The following is the downloaded HTML source of the foxtons.co.uk privacy policy that was archived on 2015-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150618064202id_/http%3A//www.foxtons.co.uk/help/termsconditions.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the foxtons.co.uk privacy policy that was archived on 2015-11-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151107151517id_/http%3A//www.foxtons.co.uk/help/termsconditions.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	<title>Foxtons Terms &amp; Conditions &amp; Privacy Policy</title>
-	<meta charset="UTF-8">
+	<meta name="description" content="Terms and Conditions">
+	<meta charset="utf-8">
 <meta name="MobileOptimized" content="0">
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
 <meta property="fb:admins" content="301056156601007">
 <script type="text/javascript" defer="" async="" src="//t.wowanalytics.co.uk/Scripts/tracker.js"></script><script>
 	var inFoxtonsFrameset = false;
 	document.createElement('nav');document.createElement('header');document.createElement('hgroup');document.createElement('article');document.createElement('aside');document.createElement('figure');document.createElement('section');
-	var currency_rates = { EUR: 1.3945, USD: 1.5846 };
+	var currency_rates = { EUR: 1.401, USD: 1.505 };
 </script>
 <style>
 @font-face {
@@ -25,22 +26,14 @@
     font-style: normal;
 }
 </style>
-<link rel="stylesheet" href="http://foxtons-static.global.ssl.fastly.net/includes/css/126/foxtons.css">
-<link rel="stylesheet" href="http://foxtons-static.global.ssl.fastly.net/includes/css/126/foxtons_media_767.css" media="(max-width: 767px)">
-<link rel="stylesheet" href="http://foxtons-static.global.ssl.fastly.net/includes/css/126/foxtons_media_479.css" media="(max-width: 479px)">
-<link rel="stylesheet" href="http://foxtons-static.global.ssl.fastly.net/includes/css/126/print.css" media="print">
-<!--[if lt IE 8]>
-	<link rel="stylesheet" href="http://foxtons-static.global.ssl.fastly.net/includes/css/126/foxtons_ie7.css">
-<![endif]-->
-<script src="http://foxtons-static.global.ssl.fastly.net/includes/js/181/loadjs.js"></script>
+<link rel="stylesheet" href="http://foxtons-static.global.ssl.fastly.net/includes/css/136/foxtons.css">
+<link rel="stylesheet" href="http://foxtons-static.global.ssl.fastly.net/includes/css/136/foxtons_media_767.css" media="(max-width: 767px)">
+<link rel="stylesheet" href="http://foxtons-static.global.ssl.fastly.net/includes/css/136/foxtons_media_479.css" media="(max-width: 479px)">
+<link rel="stylesheet" href="http://foxtons-static.global.ssl.fastly.net/includes/css/136/print.css" media="print">
+<script src="http://foxtons-static.global.ssl.fastly.net/includes/js/194/loadjs.js"></script>
+<!--[if lt IE 9]><script>FOXTONS.Design.is_ie8_or_less=1;</script><![endif]-->
 <script>
 $(document).ready(function(){
-	if($("#search_keyword_value")){
-		$("#search_keyword_value").autocomplete("/autocomplete/area_street/", {delay:40});
-	}
-	if($("#search_keyword_value").val() == "Postcode, street or area"){
-		$("#search_keyword_value").css("color","#ccc");
-	}
 	if(!FOXTONS.Utils.Cookies.hasPermission()){
 	$("body").append("<div id='cookie_message' style='z-index:99999999;position:fixed;background:#000;padding:12px 0;bottom:0;width:100%;text-align:center;color:#fff;opacity:.90;font-size:12px;' onclick='$(this).fadeOut();'><b>Cookie Policy:</b> This site uses cookies. You can <a href='/help/cookies.html' style='color:#fff;'>review</a> the cookies</a> or <b style='color:#b6d862;'>continue using this website as normal to accept cookies</b>.</div>");
 	}
@@ -65,23 +58,32 @@ ga('set', 'dimension1', 'Not logged in');
 
 <body class="default">
 <div id="wrapper">
-
+<div id="overlay" class="overlay"></div>
 <header>
 	<a href="/"><img src="http://foxtons-static.global.ssl.fastly.net/img/logo_foxtons.svg" id="logo" alt="London Estate Agents"></a>
 	<div id="nav_holder">
-		<p id="contact"><a href="#" onclick="FOXTONS.Design.toggleAccountMenu();return false;">My Foxtons</a></p>
+		<a href="#" id="contact" onclick="FOXTONS.Design.toggleAccountMenu();return false;">My Foxtons</a>
 		<nav>
 			<a href="#" class="menu_link" onclick="FOXTONS.Design.toggleMenu();return false;">Menu</a>
-			
-			<a href="/search" id="nav_buy">Buy</a>
-			<a href="/sell/">Sell</a>
-			<a href="/search?search_type=LL" id="nav_let">Rent</a>
-			<a href="/landlord/">Landlords</a>
-			<a href="/investments/">Investing in property</a>
+
+			<a href="/search" id="nav_buy" data-menu="buy">Buy</a>
+			<a href="/sell/" data-menu="sell">Sell</a>
+			<a href="/search?search_type=LL" id="nav_let" data-menu="let">Rent</a>
+			<a href="/landlord/" data-menu="landlord">Landlords</a>
+			<a href="/discover/" data-menu="discover">Discover</a>
+			<a href="/investments/" data-menu="investments">Investments</a>
 			<a href="/valuation/both/">Valuation</a>
-			<a href="/foxtons/about/">About</a>
-			<a href="/help/contact.html">Contact</a>
+			<a href="/foxtons/about/" data-menu="about">About</a>
+			<a href="/help/contact.html" data-menu="contact">Contact</a>
 		</nav>
+	</div>
+	<div id="section_menu">
+		<a href="#" class="close" title="Close"></a>
+		<div id="section_menu_holder">
+			
+			
+		
+		</div>
 	</div>
 	<div id="crumb_holder">
 		<p id="crumb">
@@ -231,13 +233,19 @@ Terms &amp; Conditions
 	<aside>
 		<dl id="section_nav">
 	<dt>Resources</dt>
-	<dd><a href="/myfoxtons/features/">My Foxtons features</a></dd>
 	<dd><a href="/search">Buy a home</a></dd>
 	<dd><a href="/search?search_type=LL">Rentals</a></dd>
 	<dd><a href="/sell/sell_whyuse.html">Sell your home</a></dd>
 	<dd><a href="/landlord/landlords_property_management.html">Property Management</a></dd>
 	<dd><a href="/valuation/both/request/subnav/free-property-valuation.html">Free property valuation</a></dd>
-	<dd><a href="/living-in/">Area guides</a></dd>
+	<dd><a href="http://foxtons-static.global.ssl.fastly.net/img/help/fees_and_terms/foxtons_fees.pdf" rel="nofollow" target="_blank" onclick="FOXTONS.Utils.Track.url('/help/fees_and_terms/foxtons_fees.pdf');">Our fees (PDF)</a></dd>
+</dl>
+
+<dl>
+	<dt>Help &amp; inspiration</dt>
+	<dd><a href="/myfoxtons/features/">My Foxtons features</a></dd>
+	<dd><a href="/local-life/">Area guides</a></dd>
+	<dd><a href="/living-in/">Market trends</a></dd>
 	<dd><a href="/interiors/">Home design inspiration</a></dd>
 	<dd><a href="/apps/">Mobile &amp; tablet apps</a></dd>
 	<dd><a href="/foxtons/careers/">Careers</a></dd>
@@ -272,177 +280,10 @@ Terms &amp; Conditions
 </div>
 </div>
 
-<div id="search_holder">
-	
-	
-	<div id="search" class="sub_holder">
-		<div id="main_search">
-			
-			
-			
-			<h3 style="clear:none;margin:0 24px 0 0;float:left;" onclick="$('#search_form_wrapper').slideDown();$('#new_search_button').hide();">Search for a property</h3>
-			
-			<p id="new_search_button" class="button"><a href="#" onclick="$(this).parent().hide();$('#search_form_wrapper').slideDown();return false;">New search</a></p>
-			
-			<div style="clear:both;"></div>
-		
-<div id="search_form_wrapper">
-<form action="/search" name="searchform" method="get">
-	<fieldset class="hidden">
-		<input type="hidden" name="submit_type" value="search">
-		<input type="hidden" name="tag" value="">
-		<input type="hidden" name="search_form" value="">
-		
-			
-			<input type="hidden" name="lat" value="">
-			<input type="hidden" name="lon" value="">
-			<input type="hidden" name="radius" value="">
-		
-	</fieldset>
-<fieldset id="search_core">
-<ol>
-<li>
-	<label id="search_type_label">I want to</label>
-	<p id="search_types">
-<label for="search_type_ss" class="selected" onclick="changeTo(this.form,'SS');"><input type="radio" class="box" id="search_type_ss" onclick="changeTo(this.form,'SS');" name="search_type" value="SS" checked="checked"> Buy</label>
-<label for="search_type_ll" onclick="changeTo(this.form,'LL');"><input type="radio" class="box" id="search_type_ll" onclick="changeTo(this.form,'LL');" name="search_type" value="LL"> Rent for over 6 months</label>
-<label for="search_type_sh" onclick="changeTo(this.form,'SH');"><input type="radio" class="box" id="search_type_sh" onclick="changeTo(this.form,'SH');" name="search_type" value="SH"> Short Let</label>
-</p>
-</li>
 
 
 
 
-
-
-
-    
-	
-<li>
-	<label>Locations</label>
-	
-		<input type="hidden" name="center_point_name" value="">
-		
-		<a href="#" onclick="FOXTONS.Search.Geo.locateMeOrGoManual();return false;" id="search_form_geo" title="Search near me">Geo</a> <input type="text" name="keyword_value" id="search_keyword_value" class="search_keyword_value" value="Postcode, street or area" onfocus="manageKeywordText();" onblur="manageKeywordText(1);"> 
-
-		<p id="search_form_geo_msg"></p>
-		
-	
-	
-
-
-</li>
-
-
-
-
-
-
-<li class="search_options">
-	<label>Or, search by</label>
-	<fieldset>
-		<a href="javascript:quickSearch(1,'map');" id="search_form_map">Map</a>
-		<a href="javascript:quickSearch(1,'poly');" id="search_form_poly">Drawing</a>
-		<a href="javascript:quickSearch(1,'tube');" id="search_form_tube">Tube</a>
-		<a href="javascript:quickSearch(1,'school');" id="search_form_school">School</a>
-	</fieldset>
-</li>
-</ol>
-
-
-<ol>
-
-
-
-
-
-
-
-
-<li>
-	<label>Price range</label>
-	<fieldset>
-		<select name="price_from">
-<option value="">From cheapest</option>
-<script>document.write('<option value="100000">'+writePrice(100000,'js')+'</option>');document.write('<option value="125000">'+writePrice(125000,'js')+'</option>');document.write('<option value="150000">'+writePrice(150000,'js')+'</option>');document.write('<option value="175000">'+writePrice(175000,'js')+'</option>');document.write('<option value="200000">'+writePrice(200000,'js')+'</option>');document.write('<option value="250000">'+writePrice(250000,'js')+'</option>');document.write('<option value="300000">'+writePrice(300000,'js')+'</option>');document.write('<option value="350000">'+writePrice(350000,'js')+'</option>');document.write('<option value="400000">'+writePrice(400000,'js')+'</option>');document.write('<option value="450000">'+writePrice(450000,'js')+'</option>');document.write('<option value="500000">'+writePrice(500000,'js')+'</option>');document.write('<option value="600000">'+writePrice(600000,'js')+'</option>');document.write('<option value="700000">'+writePrice(700000,'js')+'</option>');document.write('<option value="800000">'+writePrice(800000,'js')+'</option>');document.write('<option value="900000">'+writePrice(900000,'js')+'</option>');document.write('<option value="1000000">'+writePrice(1000000,'js')+'</option>');document.write('<option value="1250000">'+writePrice(1250000,'js')+'</option>');document.write('<option value="1500000">'+writePrice(1500000,'js')+'</option>');document.write('<option value="2000000">'+writePrice(2000000,'js')+'</option>');document.write('<option value="2500000">'+writePrice(2500000,'js')+'</option>');document.write('<option value="5000000">'+writePrice(5000000,'js')+'</option>');
-</script>
-</select> to <select name="price_to">
-<option value="">No price limit</option>
-<script>document.write('<option value="100000">'+writePrice(100000,'js')+'</option>');document.write('<option value="125000">'+writePrice(125000,'js')+'</option>');document.write('<option value="150000">'+writePrice(150000,'js')+'</option>');document.write('<option value="175000">'+writePrice(175000,'js')+'</option>');document.write('<option value="200000">'+writePrice(200000,'js')+'</option>');document.write('<option value="250000">'+writePrice(250000,'js')+'</option>');document.write('<option value="300000">'+writePrice(300000,'js')+'</option>');document.write('<option value="350000">'+writePrice(350000,'js')+'</option>');document.write('<option value="400000">'+writePrice(400000,'js')+'</option>');document.write('<option value="450000">'+writePrice(450000,'js')+'</option>');document.write('<option value="500000">'+writePrice(500000,'js')+'</option>');document.write('<option value="600000">'+writePrice(600000,'js')+'</option>');document.write('<option value="700000">'+writePrice(700000,'js')+'</option>');document.write('<option value="800000">'+writePrice(800000,'js')+'</option>');document.write('<option value="900000">'+writePrice(900000,'js')+'</option>');document.write('<option value="1000000">'+writePrice(1000000,'js')+'</option>');document.write('<option value="1250000">'+writePrice(1250000,'js')+'</option>');document.write('<option value="1500000">'+writePrice(1500000,'js')+'</option>');document.write('<option value="2000000">'+writePrice(2000000,'js')+'</option>');document.write('<option value="2500000">'+writePrice(2500000,'js')+'</option>');document.write('<option value="5000000">'+writePrice(5000000,'js')+'</option>');
-</script>
-<option value="">No price limit</option>
-</select>
-</fieldset>
-</li>
-
-<li>
-	<label>Bedrooms</label> 
-	<fieldset>
-		<select name="bedrooms">
-<option value="">Studio</option>
-<option value="1">1</option>
-<option value="2">2</option>
-<option value="3">3</option>
-<option value="4">4</option>
-<option value="5">5</option>
-<option value="6">6</option>
-</select> to <select name="bedrooms_max">
-<option value="" selected="">No bedroom limit</option>
-<option value="0">Studio</option>
-<option value="1">1</option>
-<option value="2">2</option>
-<option value="3">3</option>
-<option value="4">4</option>
-<option value="5">5</option>
-<option value="">6 or more</option>
-</select>
-	</fieldset>
-</li>
-
-<li>
-	<label>Property type</label>
-	<fieldset>
-	<select name="prop_type">
-<option value="">Any</option>
-<option value="houses">House</option>
-<option value="flats">Flat</option>
-
-<option value="parking">Garage / parking</option>
-<option value="sites">Site (land or building)</option>
-</select> <span id="sold_holder" style="margin-left:10px;"><input type="checkbox" id="sold" class="box" name="sold" value="1"> <label for="sold">Include recently <span id="sold_label">Let</span></label></span>
-	</fieldset>
-</li>
-
-
-
-
-
-
-
- 
-
-
-
-
-<li>
-	<label class="more_options"><a href="javascript:quickSearch(1);">More options</a></label> 
-	<input class="button" type="submit" onclick="quickSearch();return false;" value="Search">
-</li>
-
-
-
-
-
-</ol>
-</fieldset>
-</form>
-</div>
-		</div>
-
-
-	
-	</div>
-</div>
 
 
 <div id="footer_holder">
@@ -494,15 +335,16 @@ Terms &amp; Conditions
 	</li>
 </ol>
 		
- 
+
 		<div id="copyright">
-			<p class="copyright"><a href="/" id="footer_logo"><img src="http://foxtons-static.global.ssl.fastly.net/img/s.gif" data-src="http://foxtons-static.global.ssl.fastly.net/img/logos/footer_bw.png" width="76" height="24" alt="Estate Agents in London"></a>
- © <a href="/">Foxtons Estate Agents</a> <a href="http://www.foxtonsgroup.co.uk">Foxtons Group plc</a> <a href="/sitemap.html">Sitemap</a> <a href="/help/termsconditions.html" rel="nofollow">Terms and Conditions &amp; Privacy Policy</a>  <a href="/help/cookies.html" rel="nofollow">Cookies Policy</a> <a href="/newsletter/">Newsletter</a>
-	Low graphics versions: <a href="http://www.london-property-sales.co.uk" target="_blank">Sales</a> <a href="http://www.london-rental-properties.co.uk" target="_blank">Lettings</a></p>
+			<p class="copyright"><a href="/" id="footer_logo"><img src="http://foxtons-static.global.ssl.fastly.net/img/s.gif" data-src="http://foxtons-static.global.ssl.fastly.net/img/logos/footer_bw.png" width="76" height="24" alt="Real Estate Agents in London"></a> 
+© <a href="/">Foxtons Estate Agents</a> <a href="http://www.foxtonsgroup.co.uk">Foxtons Group plc</a> <a href="/sitemap.html">Sitemap</a> <a href="/help/termsconditions.html" rel="nofollow">Terms and Conditions &amp; Privacy Policy</a>  <a href="/help/cookies.html" rel="nofollow">Cookies Policy</a> <a href="/newsletter/">Newsletter</a>
+
+ </p>
  		</div>
  
  
- 
+
 	</div>
 </div>
 
@@ -514,6 +356,8 @@ Terms &amp; Conditions
 
 
 <div id="more"></div>
+
+
 
 <div id="account">
 <dl>
@@ -548,14 +392,8 @@ s.parentNode.insertBefore(g, s);
 </script>
 <!-- WOW Async Tracking Code End -->
 
-<!-- start speed check -->
-<script>
-(function(a,b,c,d,e){function f(){var a=b.createElement("script");a.async=!0;
-a.src="//radar.cedexis.com/1/16196/radar.js";b.body.appendChild(a)}/\bMSIE 6/i
-.test(a.navigator.userAgent)||(a[c]?a[c](e,f,!1):a[d]&&a[d]("on"+e,f))})
-(window,document,"addEventListener","attachEvent","load");
-</script>
-<!-- end speed check -->
+
+
 
 
 <script>
@@ -566,6 +404,4 @@ var _LP_CFG_={app_id:"64337664-2",options:{chatDisabled:true}};
 
 
 
-
-
-<script async="" src="//radar.cedexis.com/1/16196/radar.js"></script></body></html>
+</body></html>
