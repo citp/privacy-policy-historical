@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mercer.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508222155id_/http%3A//www.mercer.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercer.com privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107183233id_/http%3A//www.mercer.com/privacy.html) for the most accurate reproduction.*
 
-# 
+# Privacy
 
 ## Mercer LLC Privacy Policy for Web Site Users
 
@@ -38,11 +38,15 @@ You may set your web browser to not accept cookies. If you do, you may still use
 
 “Action tags,” also known as web beacons or gif tags, are a web technology used to help track web site usage, such as how many times a specific page has been viewed. Action tags are invisible to you. Unlike cookies, action tags are not placed on your computer. Information collected using cookies and action tags is not used by Mercer to market its services directly to you (other than to improve the quality and usability of our Web Sites).
 
+This website uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to this  Website.  Any data collected will be used in accordance with this privacy policy and Google’s privacy policy. 
+
+You can set preferences for how Google advertises to you using the Google Ad Preferences page, and if you want to you can opt out of interest-based advertising entirely by cookie settings or permanently using a browser plugin.
+
 ### Information We Collect from Registered Users and How We Use It
 
 Certain Web Sites require users to register with Mercer by supplying their names and other personal information in order to have access to specific Web Site features (“Registered Users”). All Registered Users receive a username and password. When you register on a Web Site, Mercer may use your data to provide you with information reports as well as information about goods and services offered by Mercer. Mercer may also use the information provided by Registered Users to perform statistical analyses on our clients and understand client demographics.
 
-Occasionally, we may transfer to our global client contact database certain information about Registered Users, in which case it will be governed by [Mercer’s Privacy Policy for Contact Data](http://www.mercer.com/privacy/privacy-policy-for-clients.html)
+Occasionally, we may transfer to our global client contact database certain information about Registered Users, in which case it will be governed by [Mercer’s Privacy Policy for Contact Data](https://web.archive.org/privacy/privacy-policy-for-clients.html)
 
 _Information Related to Employment_
 
