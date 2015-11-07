@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the professionalseoindia.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509053240id_/http%3A//www.professionalseoindia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the professionalseoindia.com privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107071859id_/http%3A//www.professionalseoindia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Professional SEO India
 
