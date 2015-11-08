@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the candidatepoint.com privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517000057id_/http%3A//candidatepoint.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the candidatepoint.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108181118id_/http%3A//candidatepoint.com/privacy.php) for the most accurate reproduction.*
 
 # CandidatePoint | Privacy Policy
 
@@ -10,7 +10,7 @@ This policy applies to information we collect on this Website. It does not apply
 
 Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. By accessing or using this Website, you agree to this Privacy Policy. This policy may change from time to time. Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for any updates.
 
-You may contact CandidatePoint at 538 W 21st St., Suite #70956, Houston, TX 77008-3642 or via our contact form located here.
+You may contact CandidatePoint at 2321 E. 14th Street, Suite C137, Santa Ana, CA 92705 or via our contact form located here.
 
 ## Information We Collect
 
