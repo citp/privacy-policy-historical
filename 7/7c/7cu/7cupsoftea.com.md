@@ -1,15 +1,7 @@
-> *The following text is extracted and transformed from the 7cupsoftea.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627055620id_/http%3A//www.7cupsoftea.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7cupsoftea.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108021108id_/http%3A//www.7cupsoftea.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy | 7CupsOfTea.com
+# Privacy Policy | 7 Cups
 
-### __ Embraced [__](https://web.archive.org/member/growthProgress.php "Member Levels")
-
-93 Growth Points to Next Level
-
-__Growth Points|  0  
----|---  
-__Compassion Hearts|  0  
-  
 * * *
 
 Welcome to 7CupsofTea.com. Privacy is extremely important to us, so we have taken several steps to protect your privacy. 
