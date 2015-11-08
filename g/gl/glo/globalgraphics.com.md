@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalgraphics.com privacy policy that was archived on 2015-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150411091730id_/http%3A//www.globalgraphics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalgraphics.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108103554id_/http%3A//www.globalgraphics.com/privacy) for the most accurate reproduction.*
 
 # Global Graphics Software privacy policy
 
