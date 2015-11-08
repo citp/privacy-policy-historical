@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nugenix.com privacy policy that was archived on 2015-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150411081035id_/http%3A//www.nugenix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nugenix.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108060943id_/http%3A//www.nugenix.com/privacy) for the most accurate reproduction.*
 
-# Nugenix Natural Testosterone Booster|Privacy Policy
+# Nugenix Free Testosterone | Privacy Policy
 
-Welcome to the Nugenix website (www.nugenix.com or the "Website"). This written policy (the "Privacy Policy") is designed to tell you about our practices regarding collection, use, and disclosure of information that you may provide via this Website and certain related services. Please be sure to read this entire Privacy Policy before using, or submitting information, to this Website.
+Welcome to the Nugenix website (www.Nugenix.com or the "Website"). This written policy (the "Privacy Policy") is designed to tell you about our practices regarding collection, use, and disclosure of information that you may provide via this Website and certain related services. Please be sure to read this entire Privacy Policy before using, or submitting information, to this Website.
 
 Policy
 
@@ -36,7 +36,7 @@ From time to time, we make the email addresses of those who access our Web site 
 
 Persons who supply us with their telephone numbers may receive telephone contact from us with information regarding products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by entering your email at the unsubscribe page.
 
-Persons who supply us with their telephone numbers may receive telephone contact from other reputable companies. You can, however, have your name put on our do-not-share list by calling customer care at 1-855-714-3234. Please provide us with your name and phone number. We will use reasonable efforts to remove your name from the list we share with other organizations.
+By providing my phone number, I provide my signature expressly consenting to contact from Nugenix or its subsidiaries, affiliates, or agents at the number I provided regarding products or services via live, automated or prerecorded telephone call, text message, or email. I understand that my telephone company may impose charges on me for these contacts, and I am not required to enter into this agreement as a condition of purchasing property, goods, or services. I understand that I can revoke this consent at any time.
 
 We may disclose Personal Information to contractors, service providers or third party marketers that help us provide services, deliver products or advertisements to you.
 
@@ -44,7 +44,7 @@ If you would like to know (1) the categories of Personal Information that we dis
 
 Opt-Out Procedures
 
-You may always opt-out of receiving communications from us. To not receive future e-mail communications from Nugenix, please go to www.nugenix.com or contact us at 1-855-714-3234.
+You may always opt-out of receiving communications from us. To not receive future e-mail communications from Nugenix, please go to www.Nugenix.com or contact us at 1-855-714-3234.
 
 Security of Information
 
