@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bestfridaydeals.org privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623032633id_/http%3A//bestfridaydeals.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestfridaydeals.org privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108133923id_/http%3A//bestfridaydeals.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » BestFridayDeals.org
-
-**0** Flares Twitter 0 Facebook 0 Google+ 0 Email \-- StumbleUpon 0 Reddit 0 **0** Flares ×
 
 This Privacy Policy governs the manner in which BestFridayDeals.org collects, uses, maintains and discloses information collected from users (each, a “User”) of the [Best Black Friday Deals](http://bestfridaydeals.org/) website (“Site”). This privacy policy applies to the Site and all products and services offered by BestFridayDeals.org.
 
@@ -73,5 +71,3 @@ blogisblogging At Gmail Dot Com
 This document was last updated on November 22, 2014
 
 Loved this Read? Rate it :)
-
-**0** Flares Twitter 0 Facebook 0 Google+ 0 Email \-- StumbleUpon 0 Reddit 0 **0** Flares ×
