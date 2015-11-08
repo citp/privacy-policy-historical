@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kreci.net privacy policy that was archived on 2015-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150416025405id_/http%3A//www.kreci.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kreci.net privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108022624id_/http%3A//www.kreci.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - www.kreci.net
 
