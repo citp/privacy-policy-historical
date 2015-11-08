@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spie.org privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508092206id_/http%3A//spie.org/x2739.xml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spie.org privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108100118id_/http%3A//spie.org/x2739.xml) for the most accurate reproduction.*
 
 # Privacy Policy - SPIE - The Optics, Photonics, Fibers, and Lasers Resource.
 
