@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expatliving.sg privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510193101id_/http%3A//www.expatliving.sg/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expatliving.sg privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108095135id_/http%3A//www.expatliving.sg/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Expat Living Singapore
 
@@ -11,7 +11,8 @@ This policy is effective from May 2014.
  **Information We Collect**
 
   1. Details of your visits to our website and the resources that you access, including, but not limited to, traffic data, location data, weblogs and other communication data.
-  2. Information that you provide by filling in forms on our website, such as when you signup to our newsletter, make a purchase or enter a competition.
+  2. Information that you provide us by filling in our forms or surveys; such as when you signup to our newsletter, make a purchase or enter a competition on our website, social media sites and at events.
+
 
 
 
@@ -28,12 +29,10 @@ The information that we collect and store relating to you is primarily used to e
 
  **How to unsubscribe**
 
-To unsubscribe from receiving promotional electronic or non-electronic direct mails, simply click on the ‘unsubscribe’ button found at the bottom of any EDM or email [info@expatliving.sg](https://web.archive.org/web/20150510193101id_/http%3A//www.expatliving.sg/info@expatliving.sg).
+To unsubscribe from receiving promotional electronic or non-electronic direct mails, simply click on the ‘unsubscribe’ button found at the bottom of any EDM or email [info@expatliving.sg](https://web.archive.org/web/20151108095135id_/http://www.expatliving.sg/privacy_policy/info@expatliving.sg).
 
-Alternatively you can contact us:
+ **Alternatively you can contact us:**
 
-Address: Expat Living Publications Pte ,40 Jalan Pemimpin #02-07 Tat Ann Building Singapore 577185  
-
-Telephone: 6259 0058
-
-Email: [info@expatliving.sg](mailto:info@expatliving.sg)
+Expat Living Publications Pte  
+18 Howard Road #08-10 Novelty Bizcentre, Singapore 369 585  
+Telephone: 6259 0058 | Email: [info@expatliving.sg](mailto:info@expatliving.sg)
