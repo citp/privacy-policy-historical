@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seo-scoop.com privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601063708id_/http%3A//www.searchenginepeople.com/about/online-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seo-scoop.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108204643id_/http%3A//www.searchenginepeople.com/about/online-privacy-policy) for the most accurate reproduction.*
 
 # Online Privacy Policy - Search Engine People
 
@@ -13,13 +13,12 @@ You can choose to disable the Service at [http://www.clicktale.net/disable.html]
 
 Any of the information we collect from you may be used in one of the following ways:
 
-\- To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs).
+  * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs).
+  * To send periodic emails.
+  * The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
+  * Anonymous aggregate information from visitors of our site such as the time of visit, pages visited, and the IP address of your computer may be used for analytics purposes.
 
-\- To send periodic emails.
 
-\- The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
-
-\- Anonymous aggregate information from visitors of our site such as the time of visit, pages visited, and the IP address of your computer may be used for analytics purposes.
 
 **How do we protect your information?**
 
