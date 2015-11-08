@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the eurobookings.com privacy policy that was archived on 2015-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150623132305id_/http%3A//www.eurobookings.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eurobookings.com privacy policy that was archived on 2015-11-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151108015147id_/http%3A//www.eurobookings.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     	<title>Eurobookings.com - Privacy statement</title>
-        <meta id="idViewport" name="viewport" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" id="idViewport">
         <meta name="format-detection" content="telephone=no">
     	
                       <meta name="robots" content="index,follow">
@@ -69,7 +69,7 @@
         }
 
         var trackCall = function( phonenr ){
-            setTimeout(function(){self.location.href = 'tel://'+phonenr},500);
+            setTimeout(function(){self.location.href = 'tel://'+phonenr.replace(/\+/g, '00').replace(/\s/g, '')},250);
         };
         var trackPopup = function( type ){};
         var trackHotelVideo = function(){};
@@ -78,15 +78,12 @@
         var trackSearchSuggest = function(){};
         var trackSearchEmpty = function(){};
 
-        var dataLayer = [{"lang_server_site":"en|USA-LA_p1-appserver3|A","testplan":"bookprocess=G:notaxes=yes:views=yes:lastbooked=no:rank=0:pn=y:tp=n:sb=y:bi=n:nrs=low:co=e:","sessionID":"","cur":"USD","locale":"en","device":"desktop","country":"us","rooms":1,"travelers":2,"custompage":"Cms","preferredsupplier":"DirectAgency"}]        
+        var dataLayer = [{"lang_server_site":"en|USA-LA_p1-appserver4|A","testplan":"bookprocess=G:notaxes=yes:views=yes:lastbooked=no:rank=0:pn=y:tp=y:sb=n:bi=y:nrs=low:co=e:","sessionID":"","cur":"USD","currentDate":"2015-11-07","locale":"en","device":"desktop","country":"us","rooms":1,"travelers":2,"custompage":"Cms","preferredsupplier":"DirectAgency"}]        
         /* ]]> */
         </script><style type="text/css">.clsScriptSwitchOnBlock { display: block; }.clsScriptKeepOnBlock { display: block; }.clsScriptKeepOff { display: none; }.clsScriptSwitchOnInline { display: inline; }.clsScriptSwitchOff { display: none; }.clsScriptSwitchGrey { color:#999999; }.clsRowRoomToggleButton { display: table-row; }.clsRowRoomToggle { display: none; }</style>
-
-<!-- start Optimizely Experiments code --> 
-<script src="//cdn.optimizely.com/js/2865070068.js"></script>
-<!-- end Optimizely Experiments code -->
         </head>
 <body>
+<script type="text/javascript" src="//s1.hocdn.com/tm/abtests.js"></script>
 
 <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KL2ZFD"
@@ -402,7 +399,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div id="idEbBelowFooter">
 	<div id="idEbFooterMenuTxt">
        <ul class="clsOrangeLinks">
-       		<li style="margin-left:10px;"><a rel="nofollow" href="http://www.eurobookings.com/faq.html" title="FAQ">FAQ</a></li>
+                       		<li style="margin-left:10px;"><a rel="nofollow" href="http://www.eurobookings.com/faq.html" title="FAQ">FAQ</a></li>
        		<li class="clsFooterLinkDivider">|</li>
        		<li><a rel="nofollow" href="http://www.eurobookings.com/customer-service.html" title="Customer Service">Customer Service</a></li>
        		<li class="clsFooterLinkDivider">|</li>
@@ -512,12 +509,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     		var arrWeekDaysKalendar = new Array('Su', 'Mo',	'Tu',	'We',	'Th',	'Fr',	'Sa');
     		var arrShortMonths = new Array('Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec');
     		var arrLongMonths = new Array('January','February','March','April','May','June','July','August','September','October','November','December');
-    		var currentDateCheckIn = '23-06-2015';
-    		var startDateCheckIn = '23-06-2015';
-    		var endDateCheckIn = '21-06-2016';
-        	var currentDateCheckOut = '23-06-2015';
-    		var startDateCheckOut = '24-06-2015';
-    		var endDateCheckOut = '22-06-2016';
+    		var currentDateCheckIn = '07-11-2015';
+    		var startDateCheckIn = '07-11-2015';
+    		var endDateCheckIn = '05-11-2016';
+        	var currentDateCheckOut = '07-11-2015';
+    		var startDateCheckOut = '08-11-2015';
+    		var endDateCheckOut = '06-11-2016';
     		var loadingText = 'Loading';
 
     		var closeButtonText = 'close';
