@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deccanreport.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621213422id_/http%3A//deccanreport.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deccanreport.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108214923id_/http%3A//deccanreport.com/privacy-policy) for the most accurate reproduction.*
 
 # Deccan report
 
