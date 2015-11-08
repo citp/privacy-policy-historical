@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the forloveandlemons.com privacy policy that was archived on 2015-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150415112043id_/http%3A//www.forloveandlemons.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forloveandlemons.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108110927id_/http%3A//www.forloveandlemons.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — For Love & Lemons
 
-### What information do we collect?
+## PRIVACY POLICY
+
+###   
+What information do we collect?
 
 We collect information from you when you register on our site or place an order.   
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
