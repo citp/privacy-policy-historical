@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listrak.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615005250id_/http%3A//www.listrak.com/privacy-and-terms/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listrak.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108071914id_/http%3A//www.listrak.com/privacy-and-terms/privacy.aspx) for the most accurate reproduction.*
 
 # Listrak's Privacy Policy | Listrak
 
@@ -96,7 +96,7 @@ Our Web site offers publicly accessible blogs or community forums. You should be
 
 #### Social Media Features
 
-Our web site includes social media features, such as links to our Facebook, YouTube, Google+, Tumblr, LinkedIn and Twitter pages. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our site. Your interactions with these features are governed by the privacy policy of the company providing it. 
+Our web site includes social media features, such as links to our Facebook, YouTube, Google+, Google Blogger, LinkedIn and Twitter pages. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our site. Your interactions with these features are governed by the privacy policy of the company providing it. 
 
 #### Unsolicited Commercial Email (SPAM)
 
