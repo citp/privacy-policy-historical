@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mackeeper.com privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529111153id_/http%3A//mackeeper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mackeeper.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108192940id_/http%3A//mackeeper.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MacKeeper
 
@@ -43,6 +43,7 @@ Information collected by the Anti-Theft service is not used by Kromtech Alliance
 This data enables fast and efficient rendering of our products and services to our customers. In addition, it is used for communication purposes, such as notifying you about product updates or special offers.
 
 User information is not complemented by information from other sources.  
+Once you purchase our software, the information collected by our software is linked to your personal information and can be used to handle any technical, product, or customer support requests that you may send to us.  
 The user is able to correct material inaccuracies in Personally Identifiable Information, such as account or contact information, in their Kromtech account.
 
 Information Collected Automatically
@@ -79,7 +80,11 @@ Information collected via MacKeeper:
 
   * IP address,
 
-  * Information about your Mac (Mac OS version, Mac’s model and serial numbers, etc.)
+  * Information about your Mac (Mac OS version, Mac’s model and serial numbers, MAC address, overall system information);
+
+  * Information about your apps (e.g. versions, size, date of last update, etc.);
+
+  * Results of Find & Fix scan.
 
 
 
@@ -89,6 +94,8 @@ Collected information is used for:
   * Registration of the MacKeeper/Kromtech account,
 
   * Proper functioning of MacKeeper
+
+  * Supplying you with a list of recommended fixes/software updates.
 
 
 
@@ -101,7 +108,11 @@ In case of enabled Anti-Theft service we will automatically collect the computer
 
 Automatically gathered data is completely anonymous. Therefore even if it is revealed to some third parties, this won’t affect your privacy.
 
-The user is able to deactivate the Anti-Theft service in their Kromtech account. 
+The user is able to deactivate the Anti-Theft service in their Kromtech account.
+
+“Internet Security”
+
+MacKeeper’s Internet Security feature is powered by Avira’s antivirus engine. In case of installing our Internet Security service, which includes Real Time Safe Browsing, Automatic Security Updates and Real Time Antivirus Scan you confirm that you have read, understood and agreed to Avira [Eula](https://www.avira.com/en/end-user-license-agreement-terms-of-use/) and [Privacy Policy](https://www.avira.com/en/general-privacy/).
 
 _2_
 
