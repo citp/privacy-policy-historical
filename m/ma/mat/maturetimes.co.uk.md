@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maturetimes.co.uk privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507073630id_/http%3A//www.maturetimes.co.uk/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maturetimes.co.uk privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108111351id_/http%3A//www.maturetimes.co.uk/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy | Mature Times | Deals, Offers, Articles On Health, Travel, Property
 
