@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the responsiveed.com privacy policy that was archived on 2012-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120803035111id_/http%3A//www.responsiveed.com%3Fpage_id%3D823) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the responsiveed.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108042911id_/http%3A//responsiveed.com%3Fpage_id%3D823) for the most accurate reproduction.*
 
 # Responsive Education Solutions - Privacy Policy
 
-[Home](http://www.responsiveed.com/ "Responsive Education Solutions") > Privacy Policy 
-
-## Privacy Policy
+[Home](http://responsiveed.com/ "Responsive Education Solutions") > Privacy Policy 
 
 ### ResponsiveEd.com Privacy Policy
 
@@ -55,7 +53,7 @@ This online privacy policy applies only to information collected through our web
 
 #### Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.ResponsiveEd.com](http://www.responsiveed.com/).
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.ResponsiveEd.com](https://web.archive.org/).
 
 #### Your Consent
 
@@ -70,7 +68,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 Responsive Education Solutions  
-[http://www.ResponsiveEd.com](http://www.responsiveed.com/)  
+[http://www.ResponsiveEd.com](https://web.archive.org/)  
 PO Box 292730  
 Lewisville, Texas 75029  
 USA  
