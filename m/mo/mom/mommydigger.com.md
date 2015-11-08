@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mommydigger.com privacy policy that was archived on 2013-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130405171930id_/http%3A//www.mommydigger.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mommydigger.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108090150id_/http%3A//www.mommydigger.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Mommy Digger
 
