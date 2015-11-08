@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gfxfree.net privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510173325id_/http%3A//gfxfree.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gfxfree.net privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108185102id_/http%3A//gfxfree.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GFXFree - Share for All
 
