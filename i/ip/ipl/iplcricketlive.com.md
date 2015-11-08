@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iplcricketlive.com privacy policy that was archived on 2015-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150405010816id_/http%3A//www.iplcricketlive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iplcricketlive.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108133506id_/http%3A//www.iplcricketlive.com/privacy-policy) for the most accurate reproduction.*
 
 # IPL 2015, Indian Premier League 2015 - Privacy Policy
 
