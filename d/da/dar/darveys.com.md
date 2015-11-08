@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the darveys.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621053252id_/http%3A//www.darveys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the darveys.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108082023id_/http%3A//www.darveys.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -44,11 +44,11 @@ Disclosure of all personal information shall be in accordance with the privacy p
 
 All information available on open, public platforms isn't covered by the Privacy Policy. The user shall bear the risk pertaining to sharing or disclosing any such information.
 
-All collection of personal information shall be done to:
+**All collection of personal information shall be done to:**
 
-  1. Be in accordance with the prevalent laws
-  2. Conduct business operations
-  3. Protect company systems
-  4. Enforce our rights
+  * Be in accordance with the prevalent laws
+  * Conduct business operations
+  * Protect company systems
+  * Enforce our rights
 
 
