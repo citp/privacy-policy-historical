@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brunel.net privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623123004id_/http%3A//www.brunel.net/service/privacy-statement.448793.lynkx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brunel.net privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108172358id_/http%3A//www.brunel.net/service/privacy-statement.448793.lynkx) for the most accurate reproduction.*
 
 # Privacy statement - Brunel.net
 
@@ -40,4 +40,4 @@ We at Brunel are committed to ensuring that the information you provided on our 
 
 **Questions**
 
-If you have any questions or comments about our privacy policy, please send an email to [toronto@brunelcanada.ca](mailto:toronto@brunelcanada.ca).
+If you have any questions or comments about our privacy policy, please send an email to [info@brunel.net](mailto:info@brunel.net)
