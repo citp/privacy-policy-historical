@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swissarmy.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630045001id_/http%3A//www.swissarmy.com/us/content/footer_slot_privacy_policyPage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swissarmy.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108172124id_/http%3A//www.swissarmy.com/us/content/footer_slot_privacy_policyPage) for the most accurate reproduction.*
 
 # Victorinox Swiss Army
 
