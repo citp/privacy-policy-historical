@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the ada.gov privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626141659id_/http%3A//www.justice.gov/privacy-file.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ada.gov privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108174139id_/http%3A//www.justice.gov/privacy-file.htm) for the most accurate reproduction.*
 
 # Privacy Policy | DOJ | Department of Justice
 
 Thank you for visiting the Department of Justice and reviewing our Privacy Policy. The Department of Justice is committed to protecting your privacy and securing the personal information made available to us when you access our websites.  This Privacy Policy describes what information is made available to the Department of Justice when you visit the Department’s websites, and describes how that information is used and stored. 
 
-[Information Collected and Stored Automatically](http://www.justice.gov/privacy-file.htm#info)  
-[Personal Information That You Voluntarily Provide ](http://www.justice.gov/privacy-file.htm#name)  
-[Children and Privacy on Justice.gov](http://www.justice.gov/privacy-file.htm#child)  
-[Website Measurement and Customization Technologies ](http://www.justice.gov/privacy-file.htm#website)  
-[Visiting Official Department of Justice Pages on Third-Party Websites](http://www.justice.gov/privacy-file.htm#visiting)  
-[Email Subscriptions and Updates ](http://www.justice.gov/privacy-file.htm#email)  
-[Links to External Sites](http://www.justice.gov/privacy-file.htm#links)  
-[Security](http://www.justice.gov/privacy-file.htm#security)
+Information Collected and Stored Automatically  
+Personal Information That You Voluntarily Provide   
+Children and Privacy on Justice.gov  
+Website Measurement and Customization Technologies   
+Visiting Official Department of Justice Pages on Third-Party Websites  
+Email Subscriptions and Updates   
+Links to External Sites  
+Security
 
 ## Information Collected and Stored Automatically
 
@@ -28,7 +28,7 @@ If you access information on our websites, the following basic information is au
 
 The Department of Justice does not use this information to track the browsing of individuals who access the site. This information is primarily collected for statistical analysis and technical improvements to the site. This government computer system uses software programs to create summary statistics, which may be used for such purposes as assessing what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas. In certain circumstances, however, we may take additional steps to identify you based on this information and we may share this information, including your identity, with other government agencies.
 
-[Back to Top](http://www.justice.gov/privacy-file.htm#top)
+Back to Top
 
 ## Personal Information that You Voluntarily Provide
 
@@ -40,13 +40,13 @@ Electronically submitted information is maintained and destroyed according to th
 
 Remember that e-mail is not necessarily secure against interception. If your communication is sensitive or includes personal information you may prefer to send it by postal mail instead.
 
-[Back to Top](http://www.justice.gov/privacy-file.htm#top)
+Back to Top
 
 ## Children and Privacy on Justice.gov
 
 We believe in the importance of protecting the privacy of children online and do not knowingly contact or collect personal information from children under 13.  Our site is not intended to solicit information of any kind from children under 13. 
 
-[Back to Top](http://www.justice.gov/privacy-file.htm#top)
+Back to Top
 
 ## Website Measurement and Customization Technologies (e.g. Cookies)
 
@@ -56,23 +56,23 @@ _Session cookies_
 Session cookies are not stored on your computer’s hard drive, and are removed when you complete your session or exit the site. Some Department websites use these “Tier 1” session cookies to provide streamlined navigation and statistical analysis. No personally identifying information is gathered. 
 
 _Persistent cookies_  
-Certain Department websites use “Tier 2” persistent cookies that remain on your computer’s hard drive after you complete an activity. For example, some Department websites use persistent cookies in association with a voluntary customer satisfaction survey conducted by a third party, [Foresee Results](http://www.foreseeresults.com/) _TM_. These surveys obtain feedback and data regarding visitors’ satisfaction with our websites, but they do not collect any personally identifying information. If you are randomly selected to participate in this survey, a persistent cookie is stored on your computer’s hard drive for 90 days to preclude a new invitation during that time. Some Department websites also use persistent cookies to enable a [Google Analytics](http://www.google.com/) or [Webtrends](http://www.webtrends.com/) program to measure how new and returning visitors use our websites over time. These persistent cookies do not collect any personally identifying information, and the information that is collected is only used to improve our websites. 
+Certain Department websites use “Tier 2” persistent cookies that remain on your computer’s hard drive after you complete an activity. For example, some Department websites use persistent cookies in association with a voluntary customer satisfaction survey conducted by a third party, [Foresee Results](https://www.foresee.com/). These surveys obtain feedback and data regarding visitors’ satisfaction with our websites, but they do not collect any personally identifying information. If you are randomly selected to participate in this survey, a persistent cookie is stored on your computer’s hard drive for 90 days to preclude a new invitation during that time. Some Department websites also use persistent cookies to enable a [Google Analytics ](http://www.google.com/)or [Webtrends ](http://www.webtrends.com/)program to measure how new and returning visitors use our websites over time. These persistent cookies do not collect any personally identifying information, and the information that is collected is only used to improve our websites. 
 
-[Back to Top](http://www.justice.gov/privacy-file.htm#top)
+Back to Top
 
 ## Visiting Official Department of Justice Pages on Third-Party Websites
 
-The Department of Justice is pleased to participate in open, un-moderated forums offered by third-party websites in order to increase government transparency, promote public participation and encourage collaboration with the Department.  We currently maintain official Department of Justice accounts on several third-party websites (e.g., [Facebook](http://www.facebook.com/), [YouTube](http://www.youtube.com/) and [Twitter](http://www.twitter.com/)).
+The Department of Justice is pleased to participate in open, un-moderated forums offered by third-party websites in order to increase government transparency, promote public participation and encourage collaboration with the Department.  We currently maintain official Department of Justice accounts on several third-party websites (e.g., [Facebook, ](https://www.facebook.com/DOJ) [YouTube](https://www.youtube.com/user/TheJusticeDepartment), [Instagram](https://instagram.com/thejusticedept), and [Twitter ](http://www.twitter.com/).
 
 Your activity on third-party websites is governed by the security and privacy policies of the third-party sites.  You may wish to review the privacy policies of these sites before using them in order to understand how and when those sites collects, uses, and shares the information you make available to those sites by using their services.  
 
 Please note that the Department does not control, moderate, endorse, or respond to the comments or opinions provided by visitors to these sites.  Personal information made available to the Department through the use of third-party websites (e.g.,  through “liking,” “friend-ing,” responding to tweets, or commenting on content provided by the Department) will not be collected, maintained, or disseminated by the Department unless required for law enforcement purposes or by statute consistent with the Privacy Act.  As such, the Department does not systematically collect, maintain, or disseminate such information unless for a specific purpose to investigate any content posted that indicates a violation or potential violation of law (e.g., a threat of criminal action or harm to national security).  Visit our [Contact Page ](https://web.archive.org/contact-us)for information on how to send official correspondence to the Attorney General or the Department of Justice.
 
-The Department’s websites may also contain embedded content from third-party websites, such as [YouTube](http://www.youtube.com/) videos uploaded by the Department.  We provide this embedded content as a service to visitors to our site.  When you click on embedded content, you are subject to the privacy and security policies of the third-party website that hosts the content.
+The Department’s websites may also contain embedded content from third-party websites, such as [YouTube ](https://www.youtube.com/user/TheJusticeDepartment)videos uploaded by the Department.  We provide this embedded content as a service to visitors to our site.  When you click on embedded content, you are subject to the privacy and security policies of the third-party website that hosts the content.
 
 For more information on the Department’s use of social media applications and third-party websites, please refer to the Department’s Privacy Impact Assessment, “[Third-Party Social Web Services](http://www.justice.gov/opcl/docs/opa-webservices-pia.pdf),” published by the Department’s Office of Public Affairs.
 
-[Back to Top](http://www.justice.gov/privacy-file.htm#top)
+Back to Top
 
 ## Email Subscriptions and Updates
 
@@ -80,16 +80,16 @@ The Department of Justice maintains several lists of subscribers who have asked 
 
 Our email analytics provider, GovDelivery, also offers the capability to view some data, such as whether a mass email was opened, at an individual level for 30 days after an email was sent; as a matter of policy and practice this data is only viewed on an aggregate basis.
 
-[Back to Top](http://www.justice.gov/privacy-file.htm#top)
+Back to Top
 
 ## Links to External Sites
 
 The Department’s websites may contain links to websites created and maintained by other public and/or private organizations.  We provide these links as a service to visitors to our site.  When you follow a link to an external site, you are leaving the Department of Justice and are subject to the privacy and security policies of the external site.
 
-[Back to Top](http://www.justice.gov/privacy-file.htm#top)
+Back to Top
 
 ## Security
 
 For site security purposes and to ensure that this service remains available to all users, this Government computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. Anyone using this system expressly consents to such monitoring and is advised that if such monitoring reveals evidence of possible abuse or criminal activity, such evidence may be provided to appropriate law enforcement officials. Unauthorized attempts to upload or change information on this server are strictly prohibited and may be punishable by law, including the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act of 1996.
 
-[Back to Top](http://www.justice.gov/privacy-file.htm#top)
+Back to Top
