@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the booqbags.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314235607id_/http%3A//www.booqbags.com/us/answers%23ordering-shipping/how-safe-is-my-personal-information) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booqbags.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108135928id_/http%3A//www.booqbags.com/us/answers%23ordering-shipping/how-safe-is-my-personal-information) for the most accurate reproduction.*
 
 # booq | Help
 
-FREE GROUND SHIPPING for orders over $100
+FREE GROUND SHIPPING on orders over $100
 
-[](https://web.archive.org/us/home) Search Products [Help](https://web.archive.org/us/answers) [Store Locator](https://web.archive.org/us/stores) [Terralinq](https://web.archive.org/us/terralinq) [Cart ](https://shopping.netsuite.com/c.579293/checkout/cart.ssp?n=1)
+[](https://web.archive.org/us/home) Search Products [Help](https://web.archive.org/us/answers) [Store Locator](https://web.archive.org/us/stores) [Terralinq](https://web.archive.org/us/terralinq) [Cart ](http://shopping.netsuite.com/c.579293/checkout/cart.ssp?n=1)
 
   *   * Are booq products waterproof? Many of our bags are made from polyurethane-backed ballistic nylon, which is water-repellent and will protect against the elements. However, seams and zippers are not entirely waterproof and thus contents cannot be guaranteed to stay completely dry in extremely heavy rainfall.
   * How do I obtain a sample for review purposes? If you would like to write a review about one of our products, we ask that you please Contact Us. Please include some links to published laptop bag, style or IT reviews for major (online) publications you have written. Please understand that we have a limited quantity of PR samples, and thus our PR agency may not be able to meet your needs. While we appreciate your interest in writing about our products, many paying customers regularly contribute to blogs and websites of all types and traffic volumes.
