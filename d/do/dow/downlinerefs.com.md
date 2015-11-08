@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downlinerefs.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608085041id_/http%3A//www.downlinerefs.com/referrals/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downlinerefs.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108120725id_/http%3A//www.downlinerefs.com/referrals/privacy) for the most accurate reproduction.*
 
 # DownlineRefs.com
 
