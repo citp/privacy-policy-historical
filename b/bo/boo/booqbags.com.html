@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the booqbags.com privacy policy that was archived on 2015-03-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150314235607id_/http%3A//www.booqbags.com/us/answers%23ordering-shipping/how-safe-is-my-personal-information) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the booqbags.com privacy policy that was archived on 2015-11-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151108135928id_/http%3A//www.booqbags.com/us/answers%23ordering-shipping/how-safe-is-my-personal-information) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head>
 
@@ -11,7 +11,7 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-touch-fullscreen" content="yes">
-<meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <link href="/assets/css/reset.css" rel="stylesheet">
 <link href="/assets/css/booq.css" rel="stylesheet">
 <script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script src="//use.typekit.net/vnl0lsy.js"></script>
@@ -78,7 +78,7 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 
 <div id="page">
 
- <div id="news">FREE GROUND SHIPPING for orders over $100</div>	
+ <div id="news">FREE GROUND SHIPPING on orders over $100</div>	
 	<nav id="top-mini-nav">
 		<span id="nav-logo">
 			<a href="/us/home"><img src="/images/site/booq.png" highsrc="/images/site/booq_2x.png"></a>
@@ -89,7 +89,7 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 			<a id="nav-help" href="/us/answers">Help</a>
 			<a id="nav-stores" href="/us/stores">Store Locator</a>
 			<a id="nav-terralinq" href="/us/terralinq">Terralinq</a>
-			<a id="nav-cart" href="//shopping.netsuite.com/c.579293/checkout/cart.ssp?n=1">Cart<span class="cartitemcount"></span>
+			<a id="nav-cart" href="http://shopping.netsuite.com/c.579293/checkout/cart.ssp?n=1">Cart<span class="cartitemcount"></span>
 <span class="carttotal"></span>
 </a>
 			<a id="open-slide-nav" href="#slide-nav"><img src="/images/site/hamburger.png" highsrc="/images/site/hamburger_2x.png"></a>
@@ -115,7 +115,7 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 				<a id="returns-replacements_tab" href="#returns-replacements">Returns &amp; Replacements</a>
 			</li>
 			<li><a id="contact_tab" href="#contact">Contact Us</a></li>
-<li><a href="//shopping.netsuite.com/app/site/query/customercenterredirect.nl?ext=T&amp;c=579293&amp;n=1">My Account</a></li>
+<li><a href="http://shopping.netsuite.com/app/site/query/customercenterredirect.nl?ext=T&amp;c=579293&amp;n=1">My Account</a></li>
 		</ul>
 	</aside>
 
@@ -514,14 +514,14 @@ If your product is found to be defective in accordance with its <a href="#orderi
 									<option value="911">Mamba sleeve 11, black</option>
 									<option value="912">Mamba sleeve 11, gray</option>
 									<option value="913">Mamba sleeve 11, sand</option>
+									<option value="1092">Mamba sleeve 12, black</option>
+									<option value="1094">Mamba sleeve 12, gray</option>
+									<option value="1095">Mamba sleeve 12, sand</option>
 									<option value="914">Mamba sleeve 13, black</option>
 									<option value="915">Mamba sleeve 13, gray</option>
 									<option value="916">Mamba sleeve 13, sand</option>
 									<option value="960">Mamba sleeve 15, black</option>
 									<option value="961">Mamba sleeve 15, gray</option>
-									<option value="1092">MSL12-BLK</option>
-									<option value="1094">MSL12-GRY</option>
-									<option value="1095">MSL12-SND</option>
 									<option value="102">PowerSleeve L, black</option>
 									<option value="443">Python skin M, denim</option>
 									<option value="442">Python skin S, denim</option>
@@ -549,6 +549,7 @@ If your product is found to be defective in accordance with its <a href="#orderi
 									<option value="372">Taipan skin XS, black</option>
 									<option value="459">Taipan sneak XS, black</option>
 									<option value="1087">Taipan spacesuit 12, black</option>
+									<option value="1107">Taipan spacesuit 12, gold</option>
 									<option value="1088">Taipan spacesuit 12, gray</option>
 									<option value="1015">Taipan spacesuit 13, black</option>
 									<option value="1022">Taipan spacesuit 13, gray</option>
@@ -569,6 +570,7 @@ If your product is found to be defective in accordance with its <a href="#orderi
 									<option value="994">Viper case 15, gray</option>
 									<option value="580">Viper hardcase 11</option>
 									<option value="998">Viper hardcase 11, graphite</option>
+									<option value="1108">Viper hardcase 12, black-red</option>
 									<option value="581">Viper hardcase 13</option>
 									<option value="999">Viper hardcase 13, graphite</option>
 									<option value="1026">Viper hardcase 7, graphite</option>
@@ -1213,7 +1215,7 @@ If your product is found to be defective in accordance with its <a href="#orderi
 
 <script>
 function updateTabs() { // make tabs work
-	if (window.location.hash.length == 0 || !$('#answers-tab-contents '+window.location.hash).length) { // default to first tab if not tabs selected or not found
+	if ((window.location.hash.length == 0 || !$('#answers-tab-contents '+window.location.hash).length) && window.location.hash != '#slide-nav') { // default to first tab if not tabs selected or not found
 		window.location.href = $('#answers-tabs a:first-child').attr('href');
 	}
 	if ($('#answers-tab-contents '+window.location.hash).length) { // validate tab before switching
@@ -1229,8 +1231,12 @@ function updateTabs() { // make tabs work
 	}
 }
 $(function() { // setup tabs
-	$('#answers-tabs a[href^=#]').on('click mousedown', function() { updateTabs(); });
+	$('#answers-tabs a[href^=#]').on('click mousedown', function() {
+		window.location = $(this).attr('href');
+		updateTabs();
+	});
 	$(window).load(function() { updateTabs(); });
+	window.onhashchange = updateTabs; // update tabs when url changes
 	// off site contact form
 	var contactUrl = '';
 	if (!(_SITE_ == 'us' || _SITE_ == 'eu') && contactUrl) {
@@ -1289,15 +1295,15 @@ $(function() { // setup tabs
 </script>
 
 <div id="hidden">
-<div id="getcartitemcount"><script src="//shopping.netsuite.com/app/site/query/getcartitemcount.nl?c=579293&amp;n=1"></script></div>
-<div id="getcarttotal"><script src="//shopping.netsuite.com/app/site/query/getcarttotal.nl?c=579293&amp;n=1"></script></div>
+<div id="getcartitemcount"><script src="http://shopping.netsuite.com/app/site/query/getcartitemcount.nl?c=579293&amp;n=1"></script></div>
+<div id="getcarttotal"><script src="http://shopping.netsuite.com/app/site/query/getcarttotal.nl?c=579293&amp;n=1"></script></div>
 </div>
 
 <!--
 Redirects:
 
-Time: 153.53ms
-Now: 2015-03-14 16:56:07 -07:00 PDT
+Time: 153.14ms
+Now: 2015-11-08 05:59:27 -08:00 PST
 -->
 	
 
