@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the theiconic.co.nz privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612085635id_/http%3A//www.theiconic.co.nz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theiconic.co.nz privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108145557id_/http%3A//www.theiconic.co.nz/privacy-policy) for the most accurate reproduction.*
 
 # THE ICONIC Privacy Policy | THE ICONIC Privacy Policy Statement |
-
-[ ](http://www.theiconic.co.nz/)
-
-Your shopping bag is empty 
 
 ### The Iconic Privacy Statement
 
@@ -67,7 +63,7 @@ You may unsubscribe from our mailing list at any time:
 
     
 
-HE ICONIC ensures that all information collected will be safely and securely stored.   
+THE ICONIC ensures that all information collected will be safely and securely stored.   
 We protect your personal information by:
 
   * Restricting access to personal information
