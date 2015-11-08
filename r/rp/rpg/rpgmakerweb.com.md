@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rpgmakerweb.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627161936id_/http%3A//www.rpgmakerweb.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rpgmakerweb.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108081246id_/http%3A//www.rpgmakerweb.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | RPG Maker | How To Make A Video Game!
 
