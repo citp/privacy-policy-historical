@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pandacashback.com privacy policy that was archived on 2015-03-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150316034325id_/https%3A//www.pandacashback.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pandacashback.com privacy policy that was archived on 2015-11-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151109001431id_/http%3A//www.pandacashback.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta name="globalsign-domain-verification" content="lidOJ34q6XQRkMo2K6SME1p5zrM9T3pI5jNii3IEPo">
@@ -12,19 +12,19 @@
 
 <title>
 
-Privacy Policy Coupons - Coupon Codes, Cashback, Deals</title>
+Privacy Policy Coupons - Privacy Policy Coupon Codes, Cashback, Deals</title>
  
-<link href="https://www.pandacashback.com/css/main.css" rel="stylesheet" type="text/css">
-<link href="https://www.pandacashback.com/css/autocomplete.css" rel="stylesheet" type="text/css">
-<link href="https://www.pandacashback.com/css/amazon_scroller.css" rel="stylesheet" type="text/css">
-<link href="https://www.pandacashback.com/css/jquery-ui.css" rel="stylesheet">
+<link href="http://www.pandacashback.com/css/main.css" rel="stylesheet" type="text/css">
+<link href="http://www.pandacashback.com/css/autocomplete.css" rel="stylesheet" type="text/css">
+<link href="http://www.pandacashback.com/css/amazon_scroller.css" rel="stylesheet" type="text/css">
+<link href="http://www.pandacashback.com/css/jquery-ui.css" rel="stylesheet">
 
 <script async="" charset="utf-8" src="//v2.zopim.com/?2BB4KaH6dGiWRPbunfefYyMjWH39Mpv7" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js#xfbml=1"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.1/jquery-ui.min.js"></script>
 
-<script type="text/javascript" src="https://www.pandacashback.com/js/jquery.autocomplete.js"></script>
-<script type="text/javascript" src="https://www.pandacashback.com/js/amazon_scroller.js"></script>
-<script type="text/javascript" src="https://www.pandacashback.com/js/cashbackengine.js"></script>
+<script type="text/javascript" src="http://www.pandacashback.com/js/jquery.autocomplete.js"></script>
+<script type="text/javascript" src="http://www.pandacashback.com/js/amazon_scroller.js"></script>
+<script type="text/javascript" src="http://www.pandacashback.com/js/cashbackengine.js"></script>
 
 <script language="javascript" type="text/javascript">
 
@@ -168,8 +168,8 @@ function toggle() {
 						<!--<li><a href="BlackFriday_CyberMonday_Survival_Guide.php" class="new">Black Friday Survival Guide</a></li>-->
                         <li><a href="howitworks.php">How It Works</a></li>
                         <li><a href="DoubleCashBack.php">Double Cash Back</a></li>
-                        <li><a href="dailydeals.php">Local Deals</a></li>
-                        <li><a href="giveaways.php" class="new">Giveaways</a></li>
+                        <li><a href="dailydeals.php">Local Daily Deals</a></li>
+                        <!--<li><a href="giveaways.php" class="new">Giveaways</a></li>-->
                         <!--<li><a href="giveaways.php">Giveaways</a></li>-->
                         <!--<li style="background:none;"><a href="retailers.php">All Stores</a></li>-->
                     </ul>
@@ -182,210 +182,261 @@ function toggle() {
 
                   
 
-		
+		<script src="//code.jquery.com/jquery-1.9.1.js"></script>
+<script src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.9/jquery.validate.min.js"></script>
+<style type="text/css">
+    #user_registation label.error, .output {
+        color: #FB3A3A;
+        font-size: 10px;
+        margin-left: 80px;;
+    }
+</style>
+<script>
+    // When the browser is ready...
+    $(function() {
+        // Setup form validation on the #register-form element
+        $("#user_registation").validate({
+            // Specify the validation rules
+            rules: {
+                fname: "required",
+                email: {
+                    required: true,
+                    email: true
+                },
+                password: {
+                    required: true,
+                    minlength: 6,
+                    maxlength:20
+                },
+                country_name: "required"
+            },
 
-    <div class="join_form">
+            // Specify the validation error messages
+            messages: {
+                fname: "Please enter your name",
+                email: {
+                    required: "Please enter a email address",
+                    email: "Please enter a valid email address"
+
+                },
+                password: {
+                    required: "Please enter a password",
+                    minlength: "Your password must be at least 6 characters long",
+                    maxlength: "Your password must be max 20 characters long"
+                },
+                country_name:"Please select a country"
+            },
+            submitHandler: function(form) {
+                form.submit();
+            }
+        });
+    });
+</script>
+
+
+<div class="join_form">
 
     
-    <form action="#" method="post">
+    <form action="" method="post" id="user_registation" novalidate="novalidate">
 
-            <label>Your Full Name</label>
+        <label>Your Full Name</label>
 
-            <div class="valuebox">
+        <div class="valuebox">
 
-				<input type="text" id="fname" class="inputt" name="fname" value="" size="25">
+            <input type="text" id="fname" class="inputt name_required" name="fname" value="" size="25">
 
-            </div>
+        </div>
 
-		<label>E-mail Address</label>
-    
-		<div class="valuebox">
-    
-		  <input type="text" id="email" class="inputt" name="email" value="" size="25">
-    
-		</div>
-    
-		<label>Password</label>
-    
-		<div class="valuebox">
-    
-		  <input type="password" id="password" class="inputt" name="password" value="" size="25">
-    
-		</div>
-		 
-		<label>Country</label>
+        <label>E-mail Address</label>
 
-		<div class="valuebox">
-					<!--<select name="country" class="inputt2" id="country" disabled=true>
+        <div class="valuebox">
+
+            <input type="text" id="email" class="inputt email_required" name="email" value="" size="25">
+
+        </div>
+
+        <label>Password</label>
+
+        <div class="valuebox">
+
+            <input type="password" id="password" class="inputt password_required" name="password" value="" size="25">
+
+        </div>
+
+        <label>Country</label>
+
+        <div class="valuebox">
+            <!--<select name="country" class="inputt2" id="country" disabled=true>
                                             <option value=""></option>
 					</select>-->
 
-                            <select name="country1" class="inputt2" id="country">
-                            <option value="">Select Country</option>
-                                                                <option value="Afghanistan">Afghanistan</option>				
-                                                                        <option value="Akrotiri">Akrotiri</option>				
-                                                                        <option value="Albania">Albania</option>				
-                                                                        <option value="Algeria">Algeria</option>				
-                                                                        <option value="Andorra">Andorra</option>				
-                                                                        <option value="Angola">Angola</option>				
-                                                                        <option value="Anguilla">Anguilla</option>				
-                                                                        <option value="Antarctica">Antarctica</option>				
-                                                                        <option value="Antigua and Barbuda">Antigua and Barbuda</option>				
-                                                                        <option value="Argentina">Argentina</option>				
-                                                                        <option value="Armenia">Armenia</option>				
-                                                                        <option value="Aruba">Aruba</option>				
-                                                                        <option value="Ashmore and Cartier Islands">Ashmore and Cartier Islands</option>				
-                                                                        <option value="Australia">Australia</option>				
-                                                                        <option value="Austria">Austria</option>				
-                                                                        <option value="Azerbaijan">Azerbaijan</option>				
-                                                                        <option value="Bahamas">Bahamas</option>				
-                                                                        <option value="Bahrain">Bahrain</option>				
-                                                                        <option value="Bangladesh">Bangladesh</option>				
-                                                                        <option value="Barbados">Barbados</option>				
-                                                                        <option value="Belarus">Belarus</option>				
-                                                                        <option value="Belgium">Belgium</option>				
-                                                                        <option value="Belize">Belize</option>				
-                                                                        <option value="Benin">Benin</option>				
-                                                                        <option value="Bermuda">Bermuda</option>				
-                                                                        <option value="Bhutan">Bhutan</option>				
-                                                                        <option value="Bolivia">Bolivia</option>				
-                                                                        <option value="Bosnia and Herzegovina">Bosnia and Herzegovina</option>				
-                                                                        <option value="Botswana">Botswana</option>				
-                                                                        <option value="Brazil">Brazil</option>				
-                                                                        <option value="Brunei Darussalam">Brunei Darussalam</option>				
-                                                                        <option value="Bulgaria">Bulgaria</option>				
-                                                                        <option value="Burkina Faso">Burkina Faso</option>				
-                                                                        <option value="Burma">Burma</option>				
-                                                                        <option value="Burundi">Burundi</option>				
-                                                                        <option value="Cambodia">Cambodia</option>				
-                                                                        <option value="Cameroon">Cameroon</option>				
-                                                                        <option value="Canada">Canada</option>				
-                                                                        <option value="Cape Verde">Cape Verde</option>				
-                                                                        <option value="Chad">Chad</option>				
-                                                                        <option value="Chile">Chile</option>				
-                                                                        <option value="China">China</option>				
-                                                                        <option value="Colombia">Colombia</option>				
-                                                                        <option value="Congo">Congo</option>				
-                                                                        <option value="Costa Rica">Costa Rica</option>				
-                                                                        <option value="Croatia">Croatia</option>				
-                                                                        <option value="Cuba">Cuba</option>				
-                                                                        <option value="Cyprus">Cyprus</option>				
-                                                                        <option value="Czech Republic">Czech Republic</option>				
-                                                                        <option value="Dominican Republic">Dominican Republic</option>				
-                                                                        <option value="Ecuador">Ecuador</option>				
-                                                                        <option value="Egypt">Egypt</option>				
-                                                                        <option value="El Salvador">El Salvador</option>				
-                                                                        <option value="Estonia">Estonia</option>				
-                                                                        <option value="Finland">Finland</option>				
-                                                                        <option value="France">France</option>				
-                                                                        <option value="Georgia">Georgia</option>				
-                                                                        <option value="Germany">Germany</option>				
-                                                                        <option value="Greece">Greece</option>				
-                                                                        <option value="Grenada">Grenada</option>				
-                                                                        <option value="Guatemala">Guatemala</option>				
-                                                                        <option value="Guyana">Guyana</option>				
-                                                                        <option value="Haiti">Haiti</option>				
-                                                                        <option value="Honduras">Honduras</option>				
-                                                                        <option value="Hong Kong">Hong Kong</option>				
-                                                                        <option value="Hungary">Hungary</option>				
-                                                                        <option value="Iceland">Iceland</option>				
-                                                                        <option value="India">India</option>				
-                                                                        <option value="Indonesia">Indonesia</option>				
-                                                                        <option value="Iran (ISLAMIC Republic Of)">Iran (ISLAMIC Republic Of)</option>				
-                                                                        <option value="Iraq">Iraq</option>				
-                                                                        <option value="Ireland">Ireland</option>				
-                                                                        <option value="Israel">Israel</option>				
-                                                                        <option value="Italy">Italy</option>				
-                                                                        <option value="Jamaica">Jamaica</option>				
-                                                                        <option value="Japan">Japan</option>				
-                                                                        <option value="Jordan">Jordan</option>				
-                                                                        <option value="Kazakhstan">Kazakhstan</option>				
-                                                                        <option value="Kosovo">Kosovo</option>				
-                                                                        <option value="Kuwait">Kuwait</option>				
-                                                                        <option value="Kyrgyzstan">Kyrgyzstan</option>				
-                                                                        <option value="Laos">Laos</option>				
-                                                                        <option value="Latvia">Latvia</option>				
-                                                                        <option value="Lebanon">Lebanon</option>				
-                                                                        <option value="Libya">Libya</option>				
-                                                                        <option value="Liechtenstein">Liechtenstein</option>				
-                                                                        <option value="Lithuania">Lithuania</option>				
-                                                                        <option value="Luxembourg">Luxembourg</option>				
-                                                                        <option value="Macedonia">Macedonia</option>				
-                                                                        <option value="Malaysia">Malaysia</option>				
-                                                                        <option value="Maldives">Maldives</option>				
-                                                                        <option value="Malta">Malta</option>				
-                                                                        <option value="Mexico">Mexico</option>				
-                                                                        <option value="Moldova">Moldova</option>				
-                                                                        <option value="Monaco">Monaco</option>				
-                                                                        <option value="Mongolia">Mongolia</option>				
-                                                                        <option value="Montenegro">Montenegro</option>				
-                                                                        <option value="Morocco">Morocco</option>				
-                                                                        <option value="Myanmar">Myanmar</option>				
-                                                                        <option value="Nepal">Nepal</option>				
-                                                                        <option value="Netherlands">Netherlands</option>				
-                                                                        <option value="New Zealand">New Zealand</option>				
-                                                                        <option value="Norway">Norway</option>				
-                                                                        <option value="Oman">Oman</option>				
-                                                                        <option value="Pakistan">Pakistan</option>				
-                                                                        <option value="Panama">Panama</option>				
-                                                                        <option value="Paraguay">Paraguay</option>				
-                                                                        <option value="Peru">Peru</option>				
-                                                                        <option value="Philippines">Philippines</option>				
-                                                                        <option value="Poland">Poland</option>				
-                                                                        <option value="Portugal">Portugal</option>				
-                                                                        <option value="Puerto Rico">Puerto Rico</option>				
-                                                                        <option value="Qatar">Qatar</option>				
-                                                                        <option value="Romania">Romania</option>				
-                                                                        <option value="Russian">Russian</option>				
-                                                                        <option value="Saint Kitts and Nevis">Saint Kitts and Nevis</option>				
-                                                                        <option value="Saint Lucia">Saint Lucia</option>				
-                                                                        <option value="Saint Vincent and the Grenadines">Saint Vincent and the Grenadines</option>				
-                                                                        <option value="Samoa">Samoa</option>				
-                                                                        <option value="San Marino">San Marino</option>				
-                                                                        <option value="Saudi Arabia">Saudi Arabia</option>				
-                                                                        <option value="Serbia">Serbia</option>				
-                                                                        <option value="Singapore">Singapore</option>				
-                                                                        <option value="Slovakia">Slovakia</option>				
-                                                                        <option value="Slovenia">Slovenia</option>				
-                                                                        <option value="Somalia">Somalia</option>				
-                                                                        <option value="South Africa">South Africa</option>				
-                                                                        <option value="South Korea">South Korea</option>				
-                                                                        <option value="Spain">Spain</option>				
-                                                                        <option value="Sri Lanka">Sri Lanka</option>				
-                                                                        <option value="Suriname">Suriname</option>				
-                                                                        <option value="Sweden">Sweden</option>				
-                                                                        <option value="Switzerland">Switzerland</option>				
-                                                                        <option value="Syria">Syria</option>				
-                                                                        <option value="Taiwan">Taiwan</option>				
-                                                                        <option value="Tajikistan">Tajikistan</option>				
-                                                                        <option value="Thailand">Thailand</option>				
-                                                                        <option value="Trinidad and Tobago">Trinidad and Tobago</option>				
-                                                                        <option value="Tunisia">Tunisia</option>				
-                                                                        <option value="Turkey">Turkey</option>				
-                                                                        <option value="Turkmenistan">Turkmenistan</option>				
-                                                                        <option value="Ukraine">Ukraine</option>				
-                                                                        <option value="United Arab Emirates">United Arab Emirates</option>				
-                                                                        <option value="United Kingdom">United Kingdom</option>				
-                                                                        <option value="United States">United States</option>				
-                                                                        <option value="Uruguay">Uruguay</option>				
-                                                                        <option value="Uzbekistan">Uzbekistan</option>				
-                                                                        <option value="Vatican City">Vatican City</option>				
-                                                                        <option value="Venezuela">Venezuela</option>				
-                                                                        <option value="Vietnam">Vietnam</option>				
-                                                                        </select>			
-		</div>
+            <select name="country1" class="inputt2" id="country_name">
+                <option value="">Select Country</option>
 
-		<input type="checkbox" name="tos" class="checkboxx" value="1">
+                 <option value="United States">United States</option>
+<option value="Afghanistan">Afghanistan</option>				
+<option value="Akrotiri">Akrotiri</option>				
+<option value="Albania">Albania</option>				
+<option value="Algeria">Algeria</option>				
+<option value="Andorra">Andorra</option>				
+<option value="Angola">Angola</option>				
+<option value="Anguilla">Anguilla</option>				
+<option value="Antarctica">Antarctica</option>				
+<option value="Antigua and Barbuda">Antigua and Barbuda</option>				
+<option value="Argentina">Argentina</option>				
+<option value="Armenia">Armenia</option>				
+<option value="Aruba">Aruba</option>				
+<option value="Ashmore and Cartier Islands">Ashmore and Cartier Islands</option>				
+<option value="Australia">Australia</option>				
+<option value="Austria">Austria</option>				
+<option value="Azerbaijan">Azerbaijan</option>				
+<option value="Bahamas">Bahamas</option>				
+<option value="Bahrain">Bahrain</option>				
+<option value="Bangladesh">Bangladesh</option>				
+<option value="Barbados">Barbados</option>				
+<option value="Belarus">Belarus</option>				
+<option value="Belgium">Belgium</option>				
+<option value="Belize">Belize</option>				
+<option value="Benin">Benin</option>				
+<option value="Bermuda">Bermuda</option>				
+<option value="Bhutan">Bhutan</option>				
+<option value="Bolivia">Bolivia</option>				
+<option value="Bosnia and Herzegovina">Bosnia and Herzegovina</option>				
+<option value="Botswana">Botswana</option>				
+<option value="Brazil">Brazil</option>				
+<option value="Brunei Darussalam">Brunei Darussalam</option>				
+<option value="Bulgaria">Bulgaria</option>				
+<option value="Burkina Faso">Burkina Faso</option>				
+<option value="Burma">Burma</option>				
+<option value="Burundi">Burundi</option>				
+<option value="Cambodia">Cambodia</option>				
+<option value="Cameroon">Cameroon</option>				
+<option value="Canada">Canada</option>				
+<option value="Cape Verde">Cape Verde</option>				
+<option value="Chad">Chad</option>				
+<option value="Chile">Chile</option>				
+<option value="China">China</option>				
+<option value="Colombia">Colombia</option>				
+<option value="Congo">Congo</option>				
+<option value="Costa Rica">Costa Rica</option>				
+<option value="Croatia">Croatia</option>				
+<option value="Cuba">Cuba</option>				
+<option value="Cyprus">Cyprus</option>				
+<option value="Czech Republic">Czech Republic</option>				
+<option value="Dominican Republic">Dominican Republic</option>				
+<option value="Ecuador">Ecuador</option>				
+<option value="Egypt">Egypt</option>				
+<option value="El Salvador">El Salvador</option>				
+<option value="Estonia">Estonia</option>				
+<option value="Finland">Finland</option>				
+<option value="France">France</option>				
+<option value="Georgia">Georgia</option>				
+<option value="Germany">Germany</option>				
+<option value="Greece">Greece</option>				
+<option value="Grenada">Grenada</option>				
+<option value="Guatemala">Guatemala</option>				
+<option value="Guyana">Guyana</option>				
+<option value="Haiti">Haiti</option>				
+<option value="Honduras">Honduras</option>				
+<option value="Hong Kong">Hong Kong</option>				
+<option value="Hungary">Hungary</option>				
+<option value="Iceland">Iceland</option>				
+<option value="India">India</option>				
+<option value="Indonesia">Indonesia</option>				
+<option value="Iran (ISLAMIC Republic Of)">Iran (ISLAMIC Republic Of)</option>				
+<option value="Iraq">Iraq</option>				
+<option value="Ireland">Ireland</option>				
+<option value="Israel">Israel</option>				
+<option value="Italy">Italy</option>				
+<option value="Jamaica">Jamaica</option>				
+<option value="Japan">Japan</option>				
+<option value="Jordan">Jordan</option>				
+<option value="Kazakhstan">Kazakhstan</option>				
+<option value="Kosovo">Kosovo</option>				
+<option value="Kuwait">Kuwait</option>				
+<option value="Kyrgyzstan">Kyrgyzstan</option>				
+<option value="Laos">Laos</option>				
+<option value="Latvia">Latvia</option>				
+<option value="Lebanon">Lebanon</option>				
+<option value="Libya">Libya</option>				
+<option value="Liechtenstein">Liechtenstein</option>				
+<option value="Lithuania">Lithuania</option>				
+<option value="Luxembourg">Luxembourg</option>				
+<option value="Macedonia">Macedonia</option>				
+<option value="Malaysia">Malaysia</option>				
+<option value="Maldives">Maldives</option>				
+<option value="Malta">Malta</option>				
+<option value="Mexico">Mexico</option>				
+<option value="Moldova">Moldova</option>				
+<option value="Monaco">Monaco</option>				
+<option value="Mongolia">Mongolia</option>				
+<option value="Montenegro">Montenegro</option>				
+<option value="Morocco">Morocco</option>				
+<option value="Myanmar">Myanmar</option>				
+<option value="Nepal">Nepal</option>				
+<option value="Netherlands">Netherlands</option>				
+<option value="New Zealand">New Zealand</option>				
+<option value="Norway">Norway</option>				
+<option value="Oman">Oman</option>				
+<option value="Pakistan">Pakistan</option>				
+<option value="Panama">Panama</option>				
+<option value="Paraguay">Paraguay</option>				
+<option value="Peru">Peru</option>				
+<option value="Philippines">Philippines</option>				
+<option value="Poland">Poland</option>				
+<option value="Portugal">Portugal</option>				
+<option value="Puerto Rico">Puerto Rico</option>				
+<option value="Qatar">Qatar</option>				
+<option value="Romania">Romania</option>				
+<option value="Russian">Russian</option>				
+<option value="Saint Kitts and Nevis">Saint Kitts and Nevis</option>				
+<option value="Saint Lucia">Saint Lucia</option>				
+<option value="Saint Vincent and the Grenadines">Saint Vincent and the Grenadines</option>				
+<option value="Samoa">Samoa</option>				
+<option value="San Marino">San Marino</option>				
+<option value="Saudi Arabia">Saudi Arabia</option>				
+<option value="Serbia">Serbia</option>				
+<option value="Singapore">Singapore</option>				
+<option value="Slovakia">Slovakia</option>				
+<option value="Slovenia">Slovenia</option>				
+<option value="Somalia">Somalia</option>				
+<option value="South Africa">South Africa</option>				
+<option value="South Korea">South Korea</option>				
+<option value="Spain">Spain</option>				
+<option value="Sri Lanka">Sri Lanka</option>				
+<option value="Suriname">Suriname</option>				
+<option value="Sweden">Sweden</option>				
+<option value="Switzerland">Switzerland</option>				
+<option value="Syria">Syria</option>				
+<option value="Taiwan">Taiwan</option>				
+<option value="Tajikistan">Tajikistan</option>				
+<option value="Thailand">Thailand</option>				
+<option value="Trinidad and Tobago">Trinidad and Tobago</option>				
+<option value="Tunisia">Tunisia</option>				
+<option value="Turkey">Turkey</option>				
+<option value="Turkmenistan">Turkmenistan</option>				
+<option value="Ukraine">Ukraine</option>				
+<option value="United Arab Emirates">United Arab Emirates</option>				
+<option value="United Kingdom">United Kingdom</option>				
+<option value="Uruguay">Uruguay</option>				
+<option value="Uzbekistan">Uzbekistan</option>				
+<option value="Vatican City">Vatican City</option>				
+<option value="Venezuela">Venezuela</option>				
+<option value="Vietnam">Vietnam</option>				
+            </select>
+        </div>
 
-		<span>I agree with the <a href="terms.php">Terms and Conditions</a></span>
+        <input type="checkbox" name="tos" class="checkboxx" value="1">
 
-				<input type="hidden" name="country" value="">
-		<input type="hidden" name="calling_code" value="">
-		<input type="hidden" name="action" id="action" value="register1">
-		<input type="submit" class="butt join" name="Register" id="Register" value="">
-			</form>
+        <span>I agree with the <a href="terms.php">Terms and Conditions</a></span>
 
-    </div>
+                <input type="hidden" name="country" value="United States">
+        <input type="hidden" name="calling_code" value="">
+        <input type="hidden" name="action" id="action" value="register1">
+        <input type="submit" class="butt join" name="Register" id="Register" value="">
+    </form>
+
+</div>
 
 
 
@@ -418,39 +469,39 @@ function toggle() {
                         </div>
 <div id="toggleText" style="display:none">
                                                         <div class="sbox">
-                                    <h3><a href="stickyj-com-coupons">StickyJ.com</a></h3>
+                                    <h3><a href="nordstrom-rack-coupons">NORDSTROM Rack</a></h3>
                                     <div class="imagebox">
-                                        <img src="https://www.pandacashback.com/uploadimage/1426474757_StickyJ.com coupons cashback.jpg" alt="stickyj-com-coupons">
-                                    </div>
-                                    <span class="price">6% Cashback </span>
-                                </div>
-                                                        <div class="sbox">
-                                    <h3><a href="ehotel-com-coupons">eHotel.com</a></h3>
-                                    <div class="imagebox">
-                                        <img src="https://www.pandacashback.com/uploadimage/1426474430_eHotel.com coupons cashback.png" alt="ehotel-com-coupons">
+                                        <img src="https://www.pandacashback.com/uploadimage/1447027364_NORDSTROM Rack coupons cashback.jpg" alt="nordstrom-rack-coupons">
                                     </div>
                                     <span class="price">2% Cashback </span>
                                 </div>
                                                         <div class="sbox">
-                                    <h3><a href="dell-refurbished-coupons">Dell Refurbished</a></h3>
+                                    <h3><a href="nastydress-com-coupons">NastyDress.com</a></h3>
                                     <div class="imagebox">
-                                        <img src="https://www.pandacashback.com/uploadimage/1426448633_Dell Refurbished coupons cashback.jpg" alt="dell-refurbished-coupons">
+                                        <img src="https://www.pandacashback.com/uploadimage/1447023118_nastydress coupons cashback.gif" alt="nastydress-com-coupons">
+                                    </div>
+                                    <span class="price">5% Cashback </span>
+                                </div>
+                                                        <div class="sbox">
+                                    <h3><a href="mydietshopz-com-coupons">MyDietShopz.com</a></h3>
+                                    <div class="imagebox">
+                                        <img src="https://www.pandacashback.com/uploadimage/1446995463_mydietshopz coupons cashback.gif" alt="mydietshopz-com-coupons">
                                     </div>
                                     <span class="price">3% Cashback </span>
                                 </div>
                                                         <div class="sbox">
-                                    <h3><a href="famous-smoke-shop-coupons">Famous Smoke Shop</a></h3>
+                                    <h3><a href="godream-com-coupons">GoDream.com</a></h3>
                                     <div class="imagebox">
-                                        <img src="https://www.pandacashback.com/uploadimage/1426418189_Famous Smoke Shop coupons cashback.jpg" alt="famous-smoke-shop-coupons">
+                                        <img src="https://www.pandacashback.com/uploadimage/1446995130_go dream coupons cashback.png" alt="godream-com-coupons">
                                     </div>
                                     <span class="price">3% Cashback </span>
                                 </div>
                                                         <div class="sbox">
-                                    <h3><a href="ltd-commodities-coupons">LTD Commodities</a></h3>
+                                    <h3><a href="featured-rentals-coupons">Featured Rentals</a></h3>
                                     <div class="imagebox">
-                                        <img src="https://www.pandacashback.com/uploadimage/1426417715_LTDCommodities coupons cashback.jpg" alt="ltd-commodities-coupons">
+                                        <img src="https://www.pandacashback.com/uploadimage/1446994662_featured rentals coupons cashback.gif" alt="featured-rentals-coupons">
                                     </div>
-                                    <span class="price">1.5% Cashback </span>
+                                    <span class="price">$5 Cashback </span>
                                 </div>
                             
                         <span class="more"><a href="retailers.php">See More</a></span>
@@ -496,8 +547,7 @@ function toggle() {
 <p style="text-align: left;">- Display content based upon your interests</p>
 <strong style="text-align: left; padding: 0px; margin: 0px;">Choice/Opt-Out</strong><br style="text-align: left; padding: 0px; margin: 0px;">
 <br style="text-align: left; padding: 0px; margin: 0px;">
-<p style="text-align: left; padding: 0px 0px 10px; margin: 0px;">You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at&nbsp;admin@pandacashback.com.<script cf-hash="f9e31" type="text/javascript">
-/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></p>
+<p style="text-align: left; padding: 0px 0px 10px; margin: 0px;">You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at&nbsp;admin@pandacashback.com.</p>
 <strong style="text-align: left; padding: 0px; margin: 0px;">Information Obtained from Third Parties</strong><br style="text-align: left; padding: 0px; margin: 0px;">
 <br style="text-align: left; padding: 0px; margin: 0px;">
 <p style="text-align: left; padding: 0px 0px 10px; margin: 0px;">If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.</p>
@@ -524,19 +574,16 @@ function toggle() {
 <p style="text-align: left;">&nbsp;</p>
 <h2 style="padding: 0px; margin: 0px; font-size: 18px; color: rgb(255, 255, 255); text-align: left;"><span style="color: rgb(0, 0, 0);">Security</span></h2>
 <p style="text-align: left;">&nbsp;&nbsp;</p>
-<p style="padding: 0px 0px 10px; margin: 0px; text-align: left;">When we collect personal information directly from you, we follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at&nbsp;admin@pandacashback.com<script cf-hash="f9e31" type="text/javascript">
-/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></p>
+<p style="padding: 0px 0px 10px; margin: 0px; text-align: left;">When we collect personal information directly from you, we follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at&nbsp;admin@pandacashback.com</p>
 <p style="padding: 0px 0px 10px; margin: 0px; text-align: left;">In order to make a purchase from us, you must use our third party checkout options to finalize and pay for your order. Its privacy statement and security practices will also apply to your information. We encourage you to read that privacy statement before providing your information.</p>
-<p style="padding: 0px 0px 10px; margin: 0px; text-align: left;">We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at&nbsp;admin@pandacashback.com.<script cf-hash="f9e31" type="text/javascript">
-/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script> We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
+<p style="padding: 0px 0px 10px; margin: 0px; text-align: left;">We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at&nbsp;admin@pandacashback.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
 <p style="padding: 0px 0px 10px; margin: 0px; text-align: left;">&nbsp;</p>
 <h2 style="text-align: left; padding: 0px; margin: 0px; font-size: 18px; color: rgb(255, 255, 255);"><span style="color: rgb(0, 0, 0);">Other Information</span></h2>
 <p style="padding: 0px 0px 10px; margin: 0px; text-align: left;">&nbsp;</p>
 <p style="padding: 0px 0px 10px; margin: 0px; text-align: left;">&nbsp;Our Web site includes third party hosted widgets, which are interactive mini-programs that run on our site to provide single-purpose services (e.g. sharing of articles, videos, etc.). Personal information, like your email address, may be collected and cookies may be set so the widget can work properly. The information through the widget is subject to the widget provider’s privacy policy</p>
 <strong style="text-align: left; padding: 0px; margin: 0px;">Correcting and Updating Your Personal Information</strong><br style="text-align: left; padding: 0px; margin: 0px;">
 <br style="text-align: left; padding: 0px; margin: 0px;">
-<p style="text-align: left; padding: 0px 0px 10px; margin: 0px;">To review and update your personal information to ensure it is accurate, contact us at&nbsp;admin@pandacashback.com.<script cf-hash="f9e31" type="text/javascript">
-/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></p>
+<p style="text-align: left; padding: 0px 0px 10px; margin: 0px;">To review and update your personal information to ensure it is accurate, contact us at&nbsp;admin@pandacashback.com.</p>
 <strong style="text-align: left; padding: 0px; margin: 0px;">Notification of Privacy Statement Changes</strong><br style="text-align: left; padding: 0px; margin: 0px;">
 <br style="text-align: left; padding: 0px; margin: 0px;">
 <p style="text-align: left; padding: 0px 0px 10px; margin: 0px;">We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.</p>
@@ -553,8 +600,7 @@ function toggle() {
 <div style="padding: 0px; margin: 0px; text-align: left;"><span class="region" style="padding: 0px; margin: 0px;">United States</span></div>
 </div>
 </div>
-<div style="padding: 0px; margin: 0px; text-align: left;">Email:&nbsp;<span class="email" style="padding: 0px; margin: 0px;">admin@pandacashback.com<script cf-hash="f9e31" type="text/javascript">
-/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></span></div>
+<div style="padding: 0px; margin: 0px; text-align: left;">Email:&nbsp;<span class="email" style="padding: 0px; margin: 0px;">admin@pandacashback.com</span></div>
 <div style="padding: 0px; margin: 0px;">&nbsp;</div>
 </div>
 <p>&nbsp;&nbsp;</p>
@@ -581,8 +627,8 @@ function toggle() {
 						<a href="/aliexpress-coupons"><img src="https://www.pandacashback.com/uploadimage/1366505576_AliExpress.com cashback.gif" width="120" height="60" border="0" alt="aliexpress-coupons" title="AliExpress" class="thebest"></a>
 			<br>
 		</div>
-		<span class="ppcash" style="text-decoration:line-through;color:#333;">Was  0.5%</span>
-		<span class="ppcash">2% Cash Back </span>
+		<span class="ppcash" style="text-decoration:line-through;color:#333;">Was  1%</span>
+		<span class="ppcash">3% Cash Back </span>
 			</div>
 	<div class="wb_bottom"></div>
 	<div class="wb_top"></div>
@@ -599,13 +645,13 @@ function toggle() {
 					<a href="/buyincoins-com-coupons">BuyinCoins.com</a>
 				</li>
 								<li>
-					<a href="/vitacost-com-coupons">Vitacost.com</a>
-				</li>
-								<li>
 					<a href="/autozone-coupons">AutoZone.com</a>
 				</li>
 								<li>
-					<a href="/baseball-express-coupons">Baseball Express</a>
+					<a href="/baseball-express-coupons">BaseballExpress.com</a>
+				</li>
+								<li>
+					<a href="/Geekvida-es-coupons">Geekvida.es</a>
 				</li>
 							</ul>
 		</div>
@@ -709,13 +755,14 @@ function toggle() {
 					</div>
 					
 				</div>
+
 			</div>
 			
         </div>
     </div>	
 	
     <div id="bottomgreeny"></div>
-﻿<script>
+<script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -734,10 +781,5 @@ $.src='//v2.zopim.com/?2BB4KaH6dGiWRPbunfefYyMjWH39Mpv7';z.t=+new Date;$.
 type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 </script>
 <!--End of Zopim Live Chat Script-->
-<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&a.indexOf("/cdn-cgi/l/email-protection") > -1  && (a.length > 28)){s='';j=27+ 1 + a.indexOf("/cdn-cgi/l/email-protection");if (a.length > j) {r=parseInt(a.substr(j,2),16);for(j+=2;a.length>j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);}t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
-/* ]]> */
-</script>
 
 </body></html>
