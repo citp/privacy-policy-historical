@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the timewasterz.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629022356id_/http%3A//www.ballerarcade.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timewasterz.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108050822id_/http%3A//www.ballerarcade.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BallerArcade.com
+
+[](https://web.archive.org/ "home")
 
 Speckd, Inc. we appreciate our relationship with you, respect that your information is yours, and is committed to safeguarding your privacy when you're using [ballerarcade.com](http://www.ballerarcade.com/). The following describes our collection of and use of any information that we may collect from you. 
 
