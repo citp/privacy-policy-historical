@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the impactbnd.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508101723id_/http%3A//www.impactbnd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the impactbnd.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108180021id_/http%3A//www.impactbnd.com/privacy-policy) for the most accurate reproduction.*
 
 # IMPACT Privacy Policy Statement
 
@@ -8,7 +8,7 @@ Current version published: June 19, 2013 Print this page
 
 IMPACT strives to be completely transparent with how we collect and use information we gather about you on this site. Your privacy is important to us and we respect your preferences.
 
-This Privacy Statement (“Privacy Statement”) explains how Impact Branding & Design, LLC, (“IMPACT”) uses personal information (“Personal Information”) and applies to all users (“users”) who access, view, visit, download, or otherwise interact with <http://www.impactbnd.com/> (the “Site”). By visiting the Site, you are accepting the practices described in this Privacy Statement. If you do not agree to the IMPACT practices, do not access, view, visit, download, or otherwise interact with the Site. If you have any questions or comments concerning IMPACT’s Privacy Statement, please contact us by sending an email to contact (at) impactbnd.com. You can also contact IMPACT via postal mail at: 98 South Turnpike Road, Wallingford, Connecticut 06492.
+This Privacy Statement (“Privacy Statement”) explains how Impact Branding & Design, LLC, (“IMPACT”) uses personal information (“Personal Information”) and applies to all users (“users”) who access, view, visit, download, or otherwise interact with <http://www.impactbnd.com/> (the “Site”). By visiting the Site, you are accepting the practices described in this Privacy Statement. If you do not agree to the IMPACT practices, do not access, view, visit, download, or otherwise interact with the Site. If you have any questions or comments concerning IMPACT’s Privacy Statement, please contact us by sending an email to contact (at) impactbnd.com. You can also contact IMPACT via postal mail at: 8 Fairfield Boulevard, Suite #107, Wallingford, Connecticut 06492.
 
 ### Our Privacy Statement is organized as follows:
 
