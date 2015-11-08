@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2instructions.com privacy policy that was archived on 2015-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150201205421id_/http%3A//2instructions.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2instructions.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108150841id_/http%3A//2instructions.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - User's guide, Instructions manual & Installation guide
 
