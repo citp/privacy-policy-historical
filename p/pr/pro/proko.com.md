@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proko.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613232719id_/http%3A//www.proko.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proko.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108211144id_/http%3A//www.proko.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Proko
 
