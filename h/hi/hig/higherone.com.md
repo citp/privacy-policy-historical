@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the higherone.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142433id_/http%3A//www.higherone.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the higherone.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108035452id_/http%3A//www.higherone.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Higher One
 
@@ -46,7 +46,7 @@ Higher One may disclose and transfer the information obtained from you through t
 When a user elects to transfer money to another Higher One account holder, we request the third party’s name, email, mailing address and banking information such as account and routing number to fulfill the requested transaction. We may also collect your friend’s email address when you invite him or her to visit our Site. We do not use or share this third party personal information for any purposes beyond fulfilling your request.
 
 **Service Providers**  
-We reserve the right to disclose information, such as …, to our service providers where necessary in allowing us to facilitate services to you on our behalf. Higher One uses third party agents, such as financial banking institutions, marketing agencies and prepaid debit card companies, to fulfill your transactional and payment processing needs made on the Site. These third party agents provide services for Higher One in compliance with all the legal requirements of operating in this capacity and are authorized to use your shared personal information specifically and exclusively for fulfilling transactions on our behalf.
+We reserve the right to disclose information to our service providers where necessary in allowing us to facilitate services to you on our behalf. Higher One uses third party agents, such as financial banking institutions, marketing agencies and prepaid debit card companies, to fulfill your transactional and payment processing needs made on the Site. These third party agents provide services for Higher One in compliance with all the legal requirements of operating in this capacity and are authorized to use your shared personal information specifically and exclusively for fulfilling transactions on our behalf.
 
 We also employ the services of a third party agent in hosting our FAQ section.
 
