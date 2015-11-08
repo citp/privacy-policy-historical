@@ -1,99 +1,48 @@
-> *The following text is extracted and transformed from the hornby.com privacy policy that was archived on 2015-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150215235949id_/http%3A//www.hornby.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hornby.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108013532id_/http%3A//www.hornby.com/us-en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Hornby
+# Hornby Privacy Policy
 
-Hornby Hobbies Limited is committed to protecting your privacy and to do its upmost to ensure that all personal and transactional information is protected to the highest standards.
+**Introduction- Our commitment to privacy**
 
-## Data Protection
+Hornby America respects each individual’s right to personal privacy. We never use or share the personally identifiable information provided to us online in ways unrelated to the ones described below without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
-We are registered data user under the Data Protection Act.
+**Part I. Information Collection**
 
-We will treat all your Personal Information as confidential (although we reserve the right to disclose this information in the circumstances set out below).  We will keep it on a secure server and we will fully comply with all applicable UK Data Protection and consumer legislation from time to time in place.
+Hornby America collects information through our Web site at several points. We collect the following information about primary visitors such as name and address information.
 
-Information that you supply is held securely and strict security procedures are followed to prevent unauthorised access. We will not sell, trade or rent your personal information to others unless you authorise us to do so.
+We may also collect contact information that our users divulge about other people, for the use of referrals. Hornby America does not actively market to children, and we never knowingly ask a child under 13 to divulge personal information.
 
-We confirm we will not release your Personal Information to any other company outside Hornby Hobbies Limited for mailing or marketing purposes unless you authorise us to do so.
+We collect the following general data that is not personally identifiable information pertaining to site traffic. We collect this information through click stream tracking and automatic logging files. This general information is collected automatically and is not connected to specific user data. 
 
-## Your information
+We may employ the use of cookies. A cookie is a small text file that our Web server places on a user’s computer hard drive to be a unique identifier. Cookies enable Hornby America to track usage patterns and deliver customized content to users. Our cookies usually have an expiration date. Our cookies do not collect personally identifiable information.
 
-We may collect and process the following data about you: Details of transactions you carry out through our website and of the fulfilment of your orders; information that you provide by filling in forms on our website, including, but not limited to, information provided at the time of requesting or subscribing to any service, uploading material or becoming a registered user or if you enter any competition or promotion sponsored by us; information from surveys that we use for research purposes, if you choose to respond to them; communications you send to us, for example to report a problem with or submit a comment regarding our website ; and details of your visits to our website; including, but not limited to, traffic data, location data and the resources that you access.
+**Part II. Information Usage**
 
-## Uses made of your information
+The information collected by Hornby America will be used for internal use. Users who provide information may receive email announcements or updates concerning our products or services.
 
-We (and our representatives) may hold your personal details in order to process your order and/or maintain your account and/or for research purposes.
+Registered users may receive additional announcements from us about products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications by contacting us directly.
 
-We may also use your details to send you further information on our products and services, to keep you up-to-date on goods, services, and promotional offers you may be interested in or for research purposes If you prefer not to you have the right to ask us not to process your personal data for marketing purposes.
+The information we collect will not be used to create customer profiles based on browsing or purchasing history. We will not supplement information collected at our Web site with data from other sources such as credit history to authorize purchases.
 
-You can exercise your right to prevent such processing by checking or un-checking (as directed) certain boxes on the forms we use to collect your data or by following the unsubscribe link on any marketing emails we send you. You can also exercise the right at any time by contacting us.
+We will share data with our transaction gateway only for the purposes of authorizing your purchase. We may have links to other sites from ours. Please note: When you click on links to other Web sites, we encourage you to read their privacy policies. Their standards may differ from ours.
 
-You should be aware that if we are requested by the Police or any other regulatory or government authority investigating suspected illegal activities to provide your personal information and /or user information, we are entitled do so.
+**Part III. Data Storage and Security**
 
-## Access your information
+Hornby America protects user information using secure servers, firewalls and SSL encryption to protect consumer privacy. General order information such as contact data is saved securely in our database. For your privacy and protection only the last four digits of your credit card and your expiration date are stored in our servers.  Your credit card number is only securely passed on to the transaction gateway to process your order.
 
-The Data Protection Act 1998 gives you the right to access information held about you. Your right of access can be exercised in accordance with that Act. Any access request may be subject to a fee not exceeding £10 to meet our costs in providing you with details of the information we hold about you.
+**Part IV. Changes in this Privacy Statement**
 
-## Use of Cookies
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
 
-We use Cookies to keep track of your current shopping session to personalise your experience.
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
-### About cookies
+**Part V. Problem Resolution**
 
-Cookies are files stored in your browser and are used by most websites to help personalise your web experience. Some features on this site will not function if you do not allow cookies. Click each category for more information on the cookies this website uses.
+We are committed to resolving disputes within a timely matter. If problems arise, users may contact us at:
 
-### Compliance cookie
-
-This cookie is set with the assumption that you consent with the use of cookies on this website and will be used to hide this message following your initial visit.
-
-**Cookies used:**  CookieLawCompliance
-
-### Analytics cookies
-
-These cookies allow us to count page visits and traffic sources so we can measure and improve the performance of our site, using a service provided by Google Analytics.
-
-**Cookies used:**  __utma, __utmb, __utmc, __utmz
-
-### Third party cookies
-
-We use a number of social media tools to enhance visitor interaction on our site. If you already use these platforms their cookies may be set through our website. Data may then be collected by these companies that enables them to serve up adverts on other sites that they think are relevent to your interests. If you do not use such platforms then our site will not place these cookies on your device.
-
-**Twitter cookies:**  __utma, __utmb, __utmc, __utmv, __utmz, _sm_au_d, _twitter_sess, _twitter_sess, ab_sess_activity_ddg_126, ab_sess_activity_up_top_98, ab_sess_promoted_arrows_and_pills_78, ab_sess_Relevance_V1-49, ab_sess_search_relevance_ranked_hits_189, ab_sess_search_relevance_social_167, ab_sess_t1_actions_156, ab_sess_wtf_user_to_user_rec_155, auth_token, auth_token_session, dnt, external_referer, guest_id, k, lang, original_referer, pid, secure_session, t1, twid, twll
-
-**Facebook cookies:**  _e_0ITr_10, _e_bWDI_21, _e_bWDI_22, _e_bWDI_23, _e_bWDI_24, _e_CTMK_0, _e_CTMK_1, _e_CTMK_2, _e_e6Yv_0, _e_e6Yv_1, _e_e6Yv_2, _sm_au_d, act, c_user, c_user, datr, e, L, L, lu, presence, reg_ext_ref, reg_ext_ref, reg_fb_gate, reg_fb_gate, reg_fb_ref, reg_fb_ref, sct, sct, wd, x-referer, xs, xs
-
-**Google cookies:**  _e_0ITr_10, _e_bWDI_21, _e_bWDI_22, _e_bWDI_23, _e_bWDI_24, _e_CTMK_0, _e_CTMK_1, _e_CTMK_2, _e_e6Yv_0, _e_e6Yv_1, _e_e6Yv_2, _sm_au_d, act, c_user, c_user, datr, e, L, L, lu, presence, reg_ext_ref, reg_ext_ref, reg_fb_gate, reg_fb_gate, reg_fb_ref, reg_fb_ref, sct, sct, wd, x-referer, xs, xs
-
-**Microsoft cookies:**  MC1, WT_FPC
-
-**Magento cookies:**
-
-COOKIE name| COOKIE Description  
----|---  
-CART | The association with your shopping cart.  
-CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
-COMPARE | The items that you have in the Compare Products list.  
-CURRENCY | Your preferred currency  
-CUSTOMER | An encrypted version of your customer id with the store.  
-CUSTOMER_AUTH | An indicator if you are currently logged into the store.  
-CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
-CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
-EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
-FRONTEND | You sesssion ID on the server.  
-GUEST-VIEW | Allows guests to edit their orders.  
-LAST_CATEGORY | The last category you visited.  
-LAST_PRODUCT | The most recent product you have viewed.  
-NEWMESSAGE | Indicates whether a new message has been received.  
-NO_CACHE | Indicates whether it is allowed to use cache.  
-PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history if you have asked the site.  
-POLL | The ID of any polls you have recently voted in.  
-POLLN | Information on what polls you have voted on.  
-RECENTLYCOMPARED | The items that you have recently compared.  
-STF | Information on products you have emailed to friends.  
-STORE | The store view or language you have selected.  
-USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
-VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
-WISHLIST | An encrypted list of products added to your Wishlist.  
-WISHLIST_CNT | The number of items in your Wishlist.  
-  
-## How to contact us
-
-If you have any questions about our online privacy policies or procedures, please [contact us](https://web.archive.org/contact). We are prepared to address any concerns you may have about the privacy, safety and appropriateness of any material you see on our website.
+Hornby America  
+3900-C2 Industry Dr. East  
+Fife, WA. 98424  
+Telephone: 877-358-6405  
+Fax: 253-922-7203  
+Email: [customersupport@hornby.us ](http://hornby.ditest.us/pages/customersupport@hornby.us%20)
