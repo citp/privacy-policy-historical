@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quizified.in privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608154017id_/http%3A//www.quizified.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizified.in privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108142821id_/http%3A//www.quizified.in/privacy) for the most accurate reproduction.*
 
 # Quizified India - #1 Online Personality and Trivia Quiz Website
 
