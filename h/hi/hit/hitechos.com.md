@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitechos.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609000131id_/http%3A//www.hitechos.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitechos.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108163735id_/http%3A//www.hitechos.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Hi-Tech Outsourcing Services Privacy Statement
 
