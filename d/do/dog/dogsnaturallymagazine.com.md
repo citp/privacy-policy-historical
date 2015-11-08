@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogsnaturallymagazine.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512065501id_/http%3A//www.dogsnaturallymagazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogsnaturallymagazine.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108062617id_/http%3A//www.dogsnaturallymagazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Natural Care, Feeding and Nutrition for Dogs
 
@@ -38,7 +38,7 @@ If you choose to provide personal information, it will be used for the following
 
 
 **Section 4: Your Opt-Out Rights**  
-You may opt-out of receiving communications from us and/or our partners by not submitting your information. We also allow you to remove your information from our marketing lists or modify your personal information. If you remove your information from our marketing lists it will no longer be used by us to send promotional correspondence to you. You can remove your information from our marketing lists by clicking on the Unsubscribe link at the bottom of every email we send you, or by sending your request, in writing, via email to [customer support](https://web.archive.org/web/20150512065501id_/http%3A//www.dogsnaturallymagazine.com/mailto_info@dogsnaturallymagazine.com).
+You may opt-out of receiving communications from us and/or our partners by not submitting your information. We also allow you to remove your information from our marketing lists or modify your personal information. If you remove your information from our marketing lists it will no longer be used by us to send promotional correspondence to you. You can remove your information from our marketing lists by clicking on the Unsubscribe link at the bottom of every email we send you, or by sending your request, in writing, via email to [customer support](https://web.archive.org/web/20151108062617id_/http://www.dogsnaturallymagazine.com/privacy-policy/mailto_info@dogsnaturallymagazine.com).
 
 **Section 5: We Do Not Intend to Collect Data from Children**  
 The information and services provided to us or our affiliates, sponsors, and advertisers are not intended to be viewed by children (under 18 years old). No information collected from children is knowingly used for any marketing or promotional purposes whatsoever, either inside or outside DogsNaturallyMagazine.com. No part of DogsNaturallyMagazine.coms web site is structured to attract anyone under the age of 18.
@@ -50,7 +50,7 @@ We reserve the right to contact you regarding your account status and changes to
 We reserve the right to change this policy at any time by notifying you of the existence and location of the new or revised privacy policy or by posting the changes online at our site.
 
 **Section 8: Our Contact Information**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us via email sent to [customer support](https://web.archive.org/web/20150512065501id_/http%3A//www.dogsnaturallymagazine.com/mailto_info@dogsnaturallymagazine.com)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us via email sent to [customer support](https://web.archive.org/web/20151108062617id_/http://www.dogsnaturallymagazine.com/privacy-policy/mailto_info@dogsnaturallymagazine.com)
 
 **Section 9:   Anti Spam Policy. Can-Spam Act Compliance**
 
@@ -94,4 +94,4 @@ From time to time, DogsNaturallyMagazine.com will enter into an arrangement wit
 
 
 
-We hope this information satisfies any questions or concerns you may have regarding the email practices of DogsNaturallyMagazine.com. If you have additional questions or wish to discuss this matter further, please contact us at: [customer support](https://web.archive.org/web/20150512065501id_/http%3A//www.dogsnaturallymagazine.com/mailto_info@dogsnaturallymagazine.com)
+We hope this information satisfies any questions or concerns you may have regarding the email practices of DogsNaturallyMagazine.com. If you have additional questions or wish to discuss this matter further, please contact us at: [customer support](https://web.archive.org/web/20151108062617id_/http://www.dogsnaturallymagazine.com/privacy-policy/mailto_info@dogsnaturallymagazine.com)
