@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gamenext.co.uk privacy policy that was archived on 2014-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141009135014id_/http%3A//www.alawar.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamenext.co.uk privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108194216id_/http%3A//www.alawar.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Alawar Online Privacy Policy
 
 ## A. INTRODUCTION
 
-This privacy statement was last updated on 1st February 2013. Alawar Entertainment, Inc., a Virginia corporation, and its affiliates (collectively, "Alawar") has created this privacy statement in order to disclose our information gathering and dissemination practices for this internet Website, [www.alawar.com](http://www.alawar.com/) and [www.alawargroup.com](http://www.alawargroup.com/) (collectively, "Website"). While Alawar's Website's is deemed to be a U.S. website, Alawar abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union. Upon reading this privacy statement, you will know:
+This privacy statement was last updated on 1st February 2013. Alawar Entertainment, Inc., a Virginia corporation, and its affiliates (collectively, "Alawar") has created this privacy statement in order to disclose our information gathering and dissemination practices for this internet Website, [www.alawar.com](http://www.alawar.com/) (collectively, "Website"). While Alawar's Website's is deemed to be a U.S. website, Alawar abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union. Upon reading this privacy statement, you will know:
 
   1. What personally identifiable information of yours or third party personally identifiable information is collected from you through the Website. 
   2. The organization collecting the information.
