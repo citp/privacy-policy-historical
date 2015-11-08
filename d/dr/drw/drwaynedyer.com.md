@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the drwaynedyer.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625110251id_/http%3A//www.drwaynedyer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drwaynedyer.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108082540id_/http%3A//www.drwaynedyer.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Dr. Wayne W. Dyer
+# Privacy Policy
 
 #### Privacy
 
