@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the foreveraffiliate.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504012716id_/http%3A//foreveraffiliate.com/ty/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foreveraffiliate.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108210952id_/http%3A//foreveraffiliate.com/ty/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - ForeverAffiliate.com
 
+This is the Privacy Policy for ForeverAffiliate.com and AndrewHansen.name.
+
 We want our users and customers to always be aware of any information we collect, how we use it, and under what circumstances, if any, we disclose it. We are also committed to providing you with the very best experience we can on our Website. Please read the following policy to understand how your personal information will be treated as you make full use of our Web site. This policy may change from time to time so please check back periodically. We respect each site visitors right to personal privacy.
 
-This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by High Energy Marketing Pty Ltd. (collectively, "Services") ("Authorized Customers").
+This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by NMOC Services Pty Ltd. (collectively, "Services") ("Authorized Customers").
 
 We collect and use personal information for many purposes, including but not limited to, billing; product and service fulfillment; to better understand our customer needs; to provide a better website, products and services; to communicate with customers and potential customers regarding our products and services and third party products and services. Generally, your private information will only be disclosed to our owners, employees, independent contractors, subsidiaries, partners, affiliates, attorneys, consultants, business associates, service providers, suppliers and agents, acting on our behalf or request. This general rule, and disclosures in specific situations, is more particularly described below.
 
@@ -49,7 +51,7 @@ Personally Identifiable Information about Authorized Customers may be shared wit
 
 **How is Personally Identifiable Information stored?**
 
-Personally Identifiable Information collected by High Energy Marketing Pty Ltd. is securely stored and is not accessible to third parties or employees of Write High Energy Marketing Pty Ltd. except for use as indicated above.
+Personally Identifiable Information collected by NMOC Services Pty Ltd. is securely stored and is not accessible to third parties or employees of Write NMOC Services Pty Ltd. except for use as indicated above.
 
 **What choices are available to Visitors regarding collection, use and distribution of the information?**
 
@@ -59,13 +61,13 @@ Visitors and Authorized Customers may opt out of receiving unsolicited informati
 
 Cookies can be used to electronically gather information about you. Again, it may or may not be personal information, but it is information and by using this site you are expressly giving permission to use 'cookies' and to use the information gathered from their use to benefit you. You also give permission to collect, archive, retrieve, and use any information collected for product design, product offers to you, and general commercial solicitation purposes by this site or joint venture partners, affiliates, and marketing organizations. Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.
 
-**How does High Energy Marketing Pty Ltd. use login information?**
+**How does NMOC Services Pty Ltd. use login information?**
 
-High Energy Marketing Pty Ltd. uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information.
+NMOC Services Pty Ltd. uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information.
 
 **What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?**
 
-High Energy Marketing Pty Ltd. has entered into and will continue to enter into partnerships and other affiliations with a number of vendors. Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility. Our privacy policy does not cover their collection or use of this information. Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers.
+NMOC Services Pty Ltd. has entered into and will continue to enter into partnerships and other affiliations with a number of vendors. Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility. Our privacy policy does not cover their collection or use of this information. Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers.
 
 **How does the Site keep Personally Identifiable Information secure?**
 
