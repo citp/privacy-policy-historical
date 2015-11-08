@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nutriherbs.in privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622080008id_/http%3A//nutriherbs.in/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutriherbs.in privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108054232id_/http%3A//nutriherbs.in/privacy-policy) for the most accurate reproduction.*
 
-# NutriHerbs
+# Privacy Policy
 
 The privacy policy mentioned governs the use of this website and the products available via this domain or any sub domains of thee website. This website is brought to you by (COSMO SOLUTIONS PVT LTD) hereinafter referred to as the "Company".
 
@@ -29,7 +29,7 @@ The policy is drafted to ensure you understand the use of website, the informati
 
 **Surveys:** The Company might conduct various surveys from time to time. These surveys are not mandatory and filled in by you voluntarily. The information provided in a survey should be personal contact information and no confidential such as your banking details will ever be requested during surveys. A survey is conducted to help the Company improve services and serve you better. Basic survey information will include name, age, gender, salary, marital status, interests and other basic information. The information provided for a survey is kept confidential with the Company and this information is NOT sold to a third party. Filling up a survey is a userâ€™s choice and is not mandatory.
 
-**Third Party Information:** The Company collects personal information you provide during your visit on the website and your interaction with third party websites. This information includes, but is not limited to name, email address, billing address, telephone numbers, DOB and other such information. The website will intimidate you before collecting such information and you can choose to opt out of providing this information at any given point by emailing us at (UNSUBSRIBE email id).
+**Third Party Information:** The Company collects personal information you provide during your visit on the website and your interaction with third party websites. This information includes, but is not limited to name, email address, billing address, telephone numbers, DOB and other such information. The website will intimidate you before collecting such information and you can choose to opt out of providing this information at any given point by emailing us at [unsubscribe@nutriherbs.in](mailto:unsubscribe@nutriherbs.in) .
 
 **Other Information Collection:** The Company collects information on several other occasions that include online prizes, email assistance, contact forms and subscription to the newsletter.
 
