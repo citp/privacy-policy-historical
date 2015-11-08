@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshports.org privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628051252id_/http%3A//www.freshports.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshports.org privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108035405id_/http%3A//www.freshports.org/privacy.php) for the most accurate reproduction.*
 
 # FreshPorts -- Privacy Policy
 
