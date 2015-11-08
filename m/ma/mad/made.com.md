@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the made.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614012103id_/http%3A//www.made.com/made-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the made.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108152211id_/http%3A//www.made.com/made-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | made.com
 
@@ -10,7 +10,7 @@ This privacy policy was last modified on 2nd Febuary 2015.
 
 1.2   For the purposes of the Data Protection Act 1998, we are the data controller of the personal information we hold about you.
 
-1.3   You should also be aware that we use cookies to store and access information whilst providing access to our site. You can find out more about our use of cookies in our [_Cookie Policy_](https://web.archive.org/web/20150614012103id_/http%3A//www.made.com/our-cookie-and-privacy-policy).
+1.3   You should also be aware that we use cookies to store and access information whilst providing access to our site. You can find out more about our use of cookies in our [_Cookie Policy_](https://web.archive.org/web/20151108152211id_/http%3A//www.made.com/our-cookie-and-privacy-policy).
 
 ## 2\. PERSONAL INFORMATION WE HOLD ABOUT YOU
 
@@ -108,7 +108,7 @@ This privacy policy was last modified on 2nd Febuary 2015.
 
 5.4   Advertising on the Site and other Websites – We, or our advertising partners, may show advertisements to you on our site or on other websites. To do this we, or our advertising partners, may collect information about how you use the site or the types of other web pages, content and ads you, or others who are using the device you connect to the site, interact with, visit or view. The information collected might also include the IP address of the device you connect to the site. We, or our advertising partners, use the information that is collected to make sure adverts you see either on the site or other websites or apps (where our partners have advertising space) are more relevant to you. 
 
-The techniques our advertising partners use recognise the device you are using but are not aimed at you as a named individual. Typically cookies and similar technologies are used to provide this type of advertising. You can find out more about cookies and how to manage their use by reading our [_Cookies Policy_](https://web.archive.org/web/20150614012103id_/http%3A//www.made.com/cookie-policy)
+The techniques our advertising partners use recognise the device you are using but are not aimed at you as a named individual. Typically cookies and similar technologies are used to provide this type of advertising. You can find out more about cookies and how to manage their use by reading our [_Cookies Policy_](https://web.archive.org/web/20151108152211id_/http%3A//www.made.com/cookie-policy)
 
 ## 6\. STORING AND TRANSFERRING YOUR PERSONAL INFORMATION
 
