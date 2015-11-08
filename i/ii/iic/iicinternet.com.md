@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iicinternet.com privacy policy that was archived on 2015-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150328080343id_/http%3A//www.iicinternet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iicinternet.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108042321id_/http%3A//www.iicinternet.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
