@@ -1,32 +1,30 @@
-> *The following text is extracted and transformed from the followspro.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407165137id_/http%3A//followspro.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the followspro.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108231558id_/http%3A//easylikesfast.com/info/privacy) for the most accurate reproduction.*
 
-# FollowsPro
+# EasyLikesFast
 
-First and foremost, PlusOnesPro, FollowsPro, RetweetsPro are here to offer a good and honest service to those who want primarily to grow their reach on Twitter, Google+ and Youtube. We ask that you use the service fairly and honestly too. This Policy applies as to all products and services provided by PlusOnesPro, FollowsPro, RetweetsPro Truejay the owner and provider of PlusOnesPro, FollowsPro, RetweetsPro, and yourself the User of PlusOnesPro, FollowsPro, RetweetsPro. This Policy applies to our use of any and all Data collected by us in relation to your use of PlusOnesPro, FollowsPro, RetweetsPro and any Services or Systems therein. Please read the Liking carefully to understand our views and practices regarding your personal data and how we treat it.
+First and foremost, EasyLikesFast is here to offer a good and honest service to those who want primarily to grow their reach on Twitter, Google+ and Youtube. We ask that you use the service fairly and honestly too. This Policy applies as to all products and services provided by EasyLikesFast the owner and provider of EasyLikesFast, and yourself the User of EasyLikesFast. This Policy applies to our use of any and all Data collected by us in relation to your use of EasyLikesFast and any Services or Systems therein. Please read the Liking carefully to understand our views and practices regarding your personal data and how we treat it.
 
 ##### 1\. Definitions & interpretations
 
 The Liking terms shall have the Liking meanings:
 
-“ **Account** ” means collectively the personal information, payment information and credentials used by Users to access material and/or any communications System on PlusOnesPro, FollowsPro, RetweetsPro
+“ **Account** ” means collectively the personal information, payment information and credentials used by Users to access material and/or any communications System on EasyLikesFast
 
-“ **Content** ” means any text, graphics, images, audio, video, software, data compilations and any other form of information capable of being stored in a computer that appears on or forms part of PlusOnesPro, FollowsPro, RetweetsPro
+“ **Content** ” means any text, graphics, images, audio, video, software, data compilations and any other form of information capable of being stored in a computer that appears on or forms part of EasyLikesFast
 
-“ **Cookie** ” means a small text file placed on your computer by PlusOnesPro, FollowsPro, RetweetsPro when you visit certain parts of the Website. This allows us to identify recurring visitors and to analyze their browsing habits within PlusOnesPro, FollowsPro, RetweetsPro
+“ **Cookie** ” means a small text file placed on your computer by EasyLikesFast when you visit certain parts of the Website. This allows us to identify recurring visitors and to analyze their browsing habits within EasyLikesFast
 
 “ **Data** ” means collectively all information that you submit to the Website. This includes, but is not limited to, Account details and information submitted using any of our Services or Systems
 
-“ **PlusOnesPro, FollowsPro, RetweetsPro** ”/“ **PlusOnesPro, FollowsPro, RetweetsPro** ” (‘We’/‘Us’/‘Truejay’) means the Website and Truejay, Inc. located at 5795 S. Sandhill Road Suite F Las Vegas, Nevada 89120
+“ **Service** ”/“ **Services** ” means collectively any online facilities, tools, services or information that EasyLikesFast makes available through EasyLikesFast either now or in the future
 
-“ **Service** ”/“ **Services** ” means collectively any online facilities, tools, services or information that Truejay makes available through PlusOnesPro, FollowsPro, RetweetsPro either now or in the future
+“ **System** ” means any online communications infrastructure that EasyLikesFast makes available through EasyLikesFast either now or in the future. This includes, but is not limited to, web-based email, message boards, live chat facilities and email links
 
-“ **System** ” means any online communications infrastructure that PlusOnesPro, FollowsPro, RetweetsPro makes available through PlusOnesPro, FollowsPro, RetweetsPro either now or in the future. This includes, but is not limited to, web-based email, message boards, live chat facilities and email links
+“ **User** ”/“ **Users** ” means any third party that accesses EasyLikesFast and is not employed by EasyLikesFast and acting in the course of their employment
 
-“ **User** ”/“ **Users** ” means any third party that accesses PlusOnesPro, FollowsPro, RetweetsPro and is not employed by PlusOnesPro, FollowsPro, RetweetsPro and acting in the course of their employment
+“ **Website** ” means the website that you are currently using (EasyLikesFast.com) and any sub-domains of this site
 
-“ **Website** ” means the website that you are currently using (PlusOnesPro.com, FollowsPro.com, RetweetsPro.com) and any sub-domains of this site
-
-“ **Truejay** ” means Truejay, Inc. the owner of PlusOnesPro, FollowsPro, RetweetsPro, the Website, and the provider of the Services.
+“ **EasyLikesFast** ” means EasyLikesFast. the owner of EasyLikesFast, the Website, and the provider of the Services.
 
 ##### 2\. Protecting your privacy
 
@@ -36,9 +34,9 @@ This policy (together with our [Terms](https://web.archive.org/info/terms) and a
 
 ##### 3\. Information collected from you
 
-This is the information you provide by filling in forms on [PlusOnesPro.com](http://plusonespro.com/), [FollowsPro.com](http://followspro.com/), [RetweetsPro.com](http://retweetspro.com/) (our site). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. This may include; your name; date of birth; gender; business industry; contact information such as email addresses and telephone numbers; demographic information such as post code, preferences and interests; website profile information.
+This is the information you provide by filling in forms on [EasyLikesFast.com](http://easylikesfast.com/)(our site). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. This may include; your name; date of birth; gender; business industry; contact information such as email addresses and telephone numbers; demographic information such as post code, preferences and interests; website profile information.
 
-3.1 We may also ask you for information when you enter a competition or promotion sponsored by Truejay, and when you report a problem with our site.
+3.1 We may also ask you for information when you enter a competition or promotion sponsored by EasyLikesFast, and when you report a problem with our site.
 
 3.2 We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
 
@@ -48,11 +46,11 @@ This is the information you provide by filling in forms on [PlusOnesPro.com](htt
 
 3.5 Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
 
-3.6 Details of your use of our services, including the online social connections made or received by you through PlusOnesPro, FollowsPro, RetweetsPro.
+3.6 Details of your use of our services, including the online social connections made or received by you through EasyLikesFast.
 
 3.7 Twitter profile information provided to us through the Twitter API with your express permission.
 
-3.8 Other automatically collected information will include; web browser type and version; operating system; a list of URLS starting with a referring site, your activity on PlusOnesPro, FollowsPro, RetweetsPro, and the site you exit to.
+3.8 Other automatically collected information will include; web browser type and version; operating system; a list of URLS starting with a referring site, your activity on EasyLikesFast, and the site you exit to.
 
 ##### 4\. Your IP address
 
@@ -92,9 +90,9 @@ If you are an existing member, we will only contact you by electronic means (e-m
 
 If you are a new member, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this.
 
-PlusOnesPro, FollowsPro, RetweetsPro may, from time to time, employ the services of other parties for dealing with matters that may include, but are not limited to, payment handling, delivery of purchased items, search engine facilities, advertising and marketing. The providers of such services do have access to certain personal Data provided by Users of PlusOnesPro, FollowsPro, RetweetsPro. Any Data used by such parties is used only to the extent required by them to perform the services that PlusOnesPro, FollowsPro, RetweetsPro requests. Any use for other purposes is strictly prohibited. Furthermore, any Data that is processed by third parties must be processed within the terms of this Policy.
+EasyLikesFast may, from time to time, employ the services of other parties for dealing with matters that may include, but are not limited to, payment handling, delivery of purchased items, search engine facilities, advertising and marketing. The providers of such services do have access to certain personal Data provided by Users of EasyLikesFast. Any Data used by such parties is used only to the extent required by them to perform the services that EasyLikesFast requests. Any use for other purposes is strictly prohibited. Furthermore, any Data that is processed by third parties must be processed within the terms of this Policy.
 
-If you do not want us to use your data in this way, please email a request to remove your information from our records to info@followspro.com
+If you do not want us to use your data in this way, please email a request to remove your information from our records to admin@easylikesfast.com
 
 ##### 9\. Disclosure of your information
 
@@ -110,13 +108,13 @@ The reasons we may disclose your personal information are:
 
 ##### 10\. Your rights
 
-You may access certain areas of PlusOnesPro, FollowsPro, RetweetsPro without providing any Data at all. However, to use all Services and Systems available on PlusOnesPro, FollowsPro, RetweetsPro you may be required to submit Account information or other Data.
+You may access certain areas of EasyLikesFast without providing any Data at all. However, to use all Services and Systems available on EasyLikesFast you may be required to submit Account information or other Data.
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at info@followspro.com
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at admin@easylikesfast.com
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you Like a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
-You have the right to opt out of receiving information from PlusOnesPro, FollowsPro, RetweetsPro at any time. You can turn-off notifications on the settings page if you don't want to receive system notifications.
+You have the right to opt out of receiving information from EasyLikesFast at any time. You can turn-off notifications on the settings page if you don't want to receive system notifications.
 
 You have the right to delete your account by emailing us at info@socialmarketingincubator.com
 
@@ -126,4 +124,4 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 ##### 12\. Contact us
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to info@followspro.com
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to admin@easylikesfast.com
