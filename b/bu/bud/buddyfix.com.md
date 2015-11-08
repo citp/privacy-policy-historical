@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buddyfix.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509024830id_/http%3A//www.buddyfix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buddyfix.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108100824id_/http%3A//www.buddyfix.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Buddyfix
 
@@ -6,11 +6,13 @@
 
 Navigate __
 
-  * [Home](http://www.buddyfix.com/)
-  * [WordPress](http://www.buddyfix.com/wordpress/)
-    * [Themes](http://www.buddyfix.com/wordpress/themes/)
-    * [Plugins](http://www.buddyfix.com/wordpress/plugin/)
+  * [WordPress](http://www.buddyfix.com/downloads/category/wordpress/)
+    * [Plugins](http://www.buddyfix.com/downloads/category/wordpress/plugins/)
+    * [Themes](http://www.buddyfix.com/downloads/category/wordpress/themes/)
   * [Html Templates](http://www.buddyfix.com/html-templates/)
+  * eCommerce
+    * [Magento Themes](http://www.buddyfix.com/downloads/category/magento-themes/)
+    * [Opencart Themes](http://www.buddyfix.com/downloads/category/opencart-themes/)
   * [Blog](http://www.buddyfix.com/post/)
     * [Mobiles](http://www.buddyfix.com/mobile/)
     * [Business](http://www.buddyfix.com/business/)
@@ -25,11 +27,11 @@ Navigate __
     * [Sports](http://www.buddyfix.com/sports/)
     * [Technology](http://www.buddyfix.com/technology/)
     * [Tips and Tricks](http://www.buddyfix.com/tips-and-tricks/)
-  * [Contact Us](http://www.buddyfix.com/contact-us/)
-  * My Account
+  * [My Account](http://www.buddyfix.com/my-account/)
+    * [My Account](http://www.buddyfix.com/my-account/)
     * [Support Ticket](http://www.buddyfix.com/support-ticket/)
-    * [Member Area](http://www.buddyfix.com/member/)
-  * [Register](http://www.buddyfix.com/member/member-checkout/?level=1)
+    * [Contact Us](http://www.buddyfix.com/contact-us/)
+  * [Register](http://www.buddyfix.com/register/)
   * [Log In](http://www.buddyfix.com/login/)
 
 
