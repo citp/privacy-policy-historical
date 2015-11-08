@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bollykings.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318211721id_/http%3A//www.bollykings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollykings.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108095955id_/http%3A//www.bollykings.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
