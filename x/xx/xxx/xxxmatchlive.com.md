@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xxxmatchlive.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511120629id_/http%3A//www.xxxmatchlive.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xxxmatchlive.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108101103id_/http%3A//www.xxxmatchlive.com/privacy.html%3F) for the most accurate reproduction.*
 
 # XXXMatchLive - Privacy Policy
 
