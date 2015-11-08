@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1iota.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623183801id_/http%3A//1iota.com/Company/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1iota.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108190432id_/http%3A//1iota.com/Company/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -14,7 +14,7 @@ This policy may be revised over time as new features are added to 1iota or as we
 
 ### Required Information
 
-When you register for an account with our site you will be asked for your contact information such as first and last name, gender, birthday, city, state and zip code. In order to become a basic member of 1iota, you must provide this information to us. A user can access their submitted information and make changes at anytime on the “my basic account info” section of the site. A user’s last name cannot be altered on the site due to members’ attempts to transfer e-tickets as our e-tickets are non-transferable. To alter your last name, please send an email to support@1iota.com. A user can also cancel their membership at any time by visiting the “resign your account” section of the site. 
+When you register for an account with our site you will be asked for your contact information such as first and last name, gender, birthday, city, state and zip code. In order to become a basic member of 1iota, you must provide this information to us. A user can access their submitted information and make changes at anytime on the “my basic account info” section of the site. A user’s last name cannot be altered on the site due to members’ attempts to transfer e-tickets as our e-tickets are non-transferable. To alter your last name, please send an email to [support@1iota.com](mailto:support@1iota.com). A user can also cancel their membership at any time by visiting the “resign your account” section of the site. 
 
 ### Optional Information
 
