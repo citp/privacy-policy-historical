@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skydaz.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626075915id_/http%3A//www.skydaz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skydaz.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108224025id_/http%3A//www.skydaz.com/privacy-policy) for the most accurate reproduction.*
 
 # Skydaz – Privacy Policy
 
