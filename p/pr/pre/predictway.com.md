@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the predictway.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407082816id_/http%3A//www.predictway.com/page/privacy-policy-29) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the predictway.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108194651id_/http%3A//www.predictway.com/page/privacy-policy-29) for the most accurate reproduction.*
 
 # Privacy Policy - Predictway.com
 
