@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technicallyeasy.net privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408165542id_/http%3A//technicallyeasy.net/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technicallyeasy.net privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108051600id_/https%3A//technicallyeasy.net/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Technically Easy
 
