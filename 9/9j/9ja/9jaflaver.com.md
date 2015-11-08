@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the 9jaflaver.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219152934id_/http%3A//9jaflaver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 9jaflaver.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108231652id_/http%3A//9jaflaver.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - 9jaflaver9jaflaver
+# Privacy policy | 9jaflaver
+
+[](http://9jaflaver.com/promote-your-musicvideo/)
+
+[ ](http://9jaflaver.com/promote-your-musicvideo/)
 
 This Privacy Policy governs the manner in which CaroVibes collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.9jaflaver.com website (“Site”). This privacy policy applies to the Site and all products and services offered by 9jaflaver  
 Personal identification information  
@@ -40,6 +44,10 @@ www.9jaflaver.com
 Admin@9jaflaver.com  
 This document was last updated on july 12, 2014
 
-Follow 9jaflaver on twitter for regular updates [HERE](http://twitter.com/9jaflaver)
+That's Not All, Also Follow Us On Twitter [Here](http://twitter.com/9jaflaver)
 
-Also Add Us On BBM For Updates:- 32E4524E
+And On Facebook, Like Us:- [Here](http://facebook.com/9jaflaver)
+
+Report Any News Or Information To Us, By Emailing Us:- 9jaflaver@gmail.com
+
+[](http://9jaflaver.com/)
