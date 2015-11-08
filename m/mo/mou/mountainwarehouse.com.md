@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mountainwarehouse.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502130302id_/http%3A//www.mountainwarehouse.com/customer-services/privacy-policy-w52.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mountainwarehouse.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108055709id_/http%3A//www.mountainwarehouse.com/privacy-policy-w50.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
-
-## PRIVACY POLICY
 
 ## Privacy and Cookie Policy
 
@@ -14,7 +12,7 @@ When you place an order with us we collect your name, address, payment details, 
 
 ## Keeping your data safe and accurate
 
-The data we collect about you will be accurate and up to date wherever possible. You can check the information we have stored for you at the “[ _My Account_](https://www.mountainwarehouse.com/members/myaccount.aspx)” section of our website. Should you become aware that any information held by us is inaccurate please contact us any time either by telephone, fax, post or e-mail ([ _info@mountainwarehouse.com_](mailto:info@mountainwarehouse.com)) and we will correct it.
+The data we collect about you will be accurate and up to date wherever possible. You can check the information we have stored for you at the “[My Account](https://www.mountainwarehouse.com/members/myaccount.aspx)” section of our website. Should you become aware that any information held by us is inaccurate please contact us any time either by telephone, fax, post or e-mail ([info@mountainwarehouse.com](mailto:info@mountainwarehouse.com)) and we will correct it.
 
 We want to make sure we get in touch with you in the best way possible. If you don’t wish to receive communication via post, fax, telephone or e-mail, please let us know and we will opt you out of any of these services. 
 
@@ -22,10 +20,10 @@ All your data is stored on our Host Server and is password protected to make sur
 
 ## What are cookies?
 
-When you visit our website we send your computer a ‘cookie’. Cookies help us to track basic visitor information in order that we can give you the best experience of our site as possible. Most web browsers automatically accept cookies but you can disable this function by changing your browser settings at any time. Please be aware however that this may limit your use and enjoyment of our site.
+When you visit our website we send your computer a ‘cookie’. Cookies help us to track basic visitor information in order that we can give you the best experience of our site as possible. Most web browsers automatically accept cookies but you can disable this function by changing your browser settings at any time. Please be aware however that this may limit your use and enjoyment of our site. 
 
 Cookies are a text file of information that a website transfers to the browser on your computer so that the website can remember who you are. They do not hold personal information about you such as your name, address or credit card details. They recognise the individual computer, tablet or mobile device through a secure token but you cannot be identified personally in this way.
 
 ## Managing cookies
 
-You can easily delete any cookies that have been installed in the cookie folder of your browser and you can also stop cookies being stored on your computer in future. In order to do this you should refer to your browser’s instructions by clicking "help" in your browser menu. Further information on deleting or controlling cookies is available at [_www.aboutcookies.org_](http://www.aboutcookies.org/) .
+You can easily delete any cookies that have been installed in the cookie folder of your browser and you can also stop cookies being stored on your computer in future. In order to do this you should refer to your browser’s instructions by clicking "help" in your browser menu. Further information on deleting or controlling cookies is available at [www.aboutcookies.org](http://www.aboutcookies.org/) .
