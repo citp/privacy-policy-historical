@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kulesearch.com privacy policy that was archived on 2015-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150406053455id_/http%3A//www.kulesearch.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kulesearch.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108064532id_/http%3A//www.kulesearch.com/privacy.html) for the most accurate reproduction.*
 
 # KuleSearch :Privacy Policy
 
