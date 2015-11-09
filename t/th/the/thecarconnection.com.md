@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecarconnection.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627090624id_/http%3A//www.highgearmedia.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecarconnection.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109135941id_/http%3A//www.highgearmedia.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | High Gear Media
 
