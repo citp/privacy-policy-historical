@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riftgame.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231051603id_/http%3A//www.trionworlds.com/en/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riftgame.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109021820id_/http%3A//www.trionworlds.com/en/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Trion Worlds, Inc.
 
@@ -9,7 +9,7 @@ UK Residents, please click here
 
 Effective January 15, 2013
 
-Trion Worlds, Inc. (“ **Trion** ” or “ **we** ” or “ **our** ”) respects your privacy and is committed to protecting the Personal Information (defined below) that you may provide us while using our websites (the “ **Site** ” as further defined below). Your use of the Site is subject to your agreement to the terms of this privacy policy (“ **Privacy Policy** ”) and our [Terms of Use](https://web.archive.org/en/legal/terms-of-use/).
+Trion Worlds, Inc. (“ **Trion** ” or “ **we** ” or “ **our** ”) respects your privacy and is committed to protecting the Personal Information (defined below) that you may provide us while using our websites (the “ **Site** ” as further defined below). Your use of the Site is subject to your agreement to the terms of this privacy policy (“ **Privacy Policy** ”) and our [Terms of Use](http://www.trionworlds.com/en/legal/terms-of-use/).
 
 This Privacy Policy sets forth the basis on which any Personal Information that you provide to us, or that we collect from you, will be processed by us and is intended to provide you with notice of the following:
 
@@ -32,7 +32,7 @@ This Privacy Policy sets forth the basis on which any Personal Information that 
 
 ### Websites governed by the privacy policy
 
-We currently operate the website located at [www.trionworlds.com](http://www.trionworlds.com/), including all of its subsites and all software, products, features, games and services made available, displayed, or offered by or through our website or subsites (collectively, the “ **Site** ”). In addition, we own many other game-specific (e.g. [riftgame.com](http://riftgame.com/), [defiance.com](http://defiance.com/) and/or content-specific “subsites” of the Site, and these subsites are also considered part of the Site for purposes of this Privacy Policy. From time to time, we may add new subsites to the Site that may not initially be listed above, but such subsites will provide a link to and will be governed by this Privacy Policy and our [Terms of Use](https://web.archive.org/en/legal/terms-of-use/).
+We currently operate the website located at [www.trionworlds.com](http://www.trionworlds.com/), including all of its subsites and all software, products, features, games and services made available, displayed, or offered by or through our website or subsites (collectively, the “ **Site** ”). In addition, we own many other game-specific (e.g. [riftgame.com](http://riftgame.com/), [defiance.com](http://defiance.com/) and/or content-specific “subsites” of the Site, and these subsites are also considered part of the Site for purposes of this Privacy Policy. From time to time, we may add new subsites to the Site that may not initially be listed above, but such subsites will provide a link to and will be governed by this Privacy Policy and our [Terms of Use](http://www.trionworlds.com/en/legal/terms-of-use/).
 
 Back to top
 
@@ -46,7 +46,7 @@ As further discussed in this Privacy Policy, we may from time to time provide yo
 
 
 
-Because we provide you with the ability to exercise your “opt out” rights as described above, we do not provide the names and addresses of third parties that received Personal Information from us for such third parties’ direct marketing purposes unless otherwise required by law. If you are a California resident, please see the Information for California Residents section of this Privacy Policy.
+Because we provide you with the ability to exercise your “opt out” rights as described above, we do not provide the names and addresses of third parties that received Personal Information from us for such third parties’ direct marketing purposes unless otherwise required by law. If you are a CA resident, please see the Information for CA Residents section of this Privacy Policy.
 
 In the event that you contact us with a specific request or “opt in” to Trion communications, including but not limited to participating in services, events, sweepstakes, contests and/or promotions, after choosing to opt out, we reserve the right, in Trion’s sole and absolute discretion, to transmit communications to you as necessary. We will take reasonable steps to ensure that such communications will be limited to the scope of your request and/or the subject matter of your “opt in.” You hereby acknowledge that it is your responsibility to renew your “opt out” request after you choose to “opt in” as set forth above.
 
@@ -62,7 +62,7 @@ Trion complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Ha
 
 ### OUR POLICIES CONCERNING CHILDREN
 
-Please take note that the content, games and services provided on the Site are not directed towards children under the age of thirteen (13) in the United States or twelve (12) in the European Union (“Children”). Therefore, except as otherwise expressly permitted by our [Terms of Use](https://web.archive.org/en/legal/terms-of-use/) and our Privacy Policy, registration for and/or access to such content, games and services by Children is strictly prohibited. Individuals under the age of eighteen (18) should consult their parents or legal guardians before providing us with any of their Personal Information.
+Please take note that the content, games and services provided on the Site are not directed towards children under the age of thirteen (13) in the United States or twelve (12) in the European Union (“Children”). Therefore, except as otherwise expressly permitted by our [Terms of Use](http://www.trionworlds.com/en/legal/terms-of-use/) and our Privacy Policy, registration for and/or access to such content, games and services by Children is strictly prohibited. Individuals under the age of eighteen (18) should consult their parents or legal guardians before providing us with any of their Personal Information.
 
 Back to top
 
@@ -134,7 +134,7 @@ Back to top
 
 ### J. INDIRECT COLLECTION OF PERSONAL INFORMATION
 
-Please note that, as mentioned elsewhere in this Privacy Policy and/or in our [Terms of Use](https://web.archive.org/en/legal/terms-of-use/) and/or on the Site itself, Trion may collect from you Personal Information relating to certain third parties, such as your parents, other family members, friends, etc. (“ **Indirect Personal Information** ”). Except as provided by applicable laws and/or as described in this Privacy Policy, you will not give any such Indirect Personal Information to us and/or any to third-party without the relevant third party’s consent.
+Please note that, as mentioned elsewhere in this Privacy Policy and/or in our [Terms of Use](http://www.trionworlds.com/en/legal/terms-of-use/) and/or on the Site itself, Trion may collect from you Personal Information relating to certain third parties, such as your parents, other family members, friends, etc. (“ **Indirect Personal Information** ”). Except as provided by applicable laws and/or as described in this Privacy Policy, you will not give any such Indirect Personal Information to us and/or any to third-party without the relevant third party’s consent.
 
 Back to top
 
@@ -209,7 +209,7 @@ Where and to the extent required by the applicable laws, you hereby expressly co
 
 When you have provided Personal Information to us for a particular purpose, we may disclose your information to other companies that we have engaged to assist us in fulfilling your request and who we subject to confidentiality requirements. This may include, but is not limited to, fulfillment houses, billing services, transaction managers, credit verification services, and other third party service providers. We may also disclose any of your Personal Information to law enforcement or other appropriate third parties in connection with criminal investigations, investigation of fraud, infringement of intellectual property rights, or other suspected illegal activities, or as otherwise may be required by applicable laws, or, as we deem necessary in our sole discretion, in order to protect the rights, property or safety of Trion, our customers or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
 
-We will also provide your Personal Information to third party processors so that it can be administered and processed for the purposes notified to you in the Privacy Policy and our [Terms of Use](https://web.archive.org/en/legal/terms-of-use/) and we may also share details with third parties (such as auditors or legal advisors) in order to obtain professional advice. Any such processing will be governed by an agreement in the form required by applicable laws, preserving any and all of your statutory data protection rights.
+We will also provide your Personal Information to third party processors so that it can be administered and processed for the purposes notified to you in the Privacy Policy and our [Terms of Use](http://www.trionworlds.com/en/legal/terms-of-use/) and we may also share details with third parties (such as auditors or legal advisors) in order to obtain professional advice. Any such processing will be governed by an agreement in the form required by applicable laws, preserving any and all of your statutory data protection rights.
 
 Except as described in this policy, we will not give any of your Personal Information to any third party without your express approval, and the only Personal Information we will request to share with third parties is your name, mailing address and email address. If you do not want us to share your Personal Information with third parties, you can “opt out” in the manner discussed under “Your Privacy Rights” set forth on the first page of this Privacy Policy. We sometimes share general, demographic, or aggregated non-Personal Information with third parties about our user base, but that information does not include any Personal Information.
 
@@ -241,7 +241,7 @@ Back to top
 
 ### OTHER IMPORTANT AGREEMENTS THAT GOVERN YOUR USE OF THE SITE
 
-In addition to this Privacy Policy, your rights and obligations concerning the Site are governed by our [Terms of Use](https://web.archive.org/en/legal/terms-of-use/), and where appropriate, the applicable terms of sale, the applicable Game’s EULA, and other applicable policies, guidelines, FAQ’s and requirements. When you sign up to use the Site and/or any of our services, please review such agreements carefully, as you must agree to be bound by each such agreement before you may use the Site and/or the relevant service.
+In addition to this Privacy Policy, your rights and obligations concerning the Site are governed by our [Terms of Use](http://www.trionworlds.com/en/legal/terms-of-use/), and where appropriate, the applicable terms of sale, the applicable Game’s EULA, and other applicable policies, guidelines, FAQ’s and requirements. When you sign up to use the Site and/or any of our services, please review such agreements carefully, as you must agree to be bound by each such agreement before you may use the Site and/or the relevant service.
 
 Back to top
 
@@ -259,7 +259,7 @@ Back to top
 
 ### INFORMATION FOR CALIFORNIA RESIDENTS
 
-Under California law, our customers that are California residents may request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. As detailed above, we do not share our customers’ Personal Information with unaffiliated third parties for direct marketing purposes without such customers’ approval. If, at any time, you wish to opt out of having your Personal Information shared with third parties and/or receiving promotional materials from Trion (via email or postal mail), you may contact us at: Trion Worlds’ Privacy Policy, Attention: Privacy Officer (Opt-Out), 1200 Bridge Parkway, Redwood City, CA 94065 or by email at privacy@trionworlds.com. Please indicate which publications or services you no longer wish to receive so that we may better address your needs.
+Under CA law, our customers that are CA residents may request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. As detailed above, we do not share our customers’ Personal Information with unaffiliated third parties for direct marketing purposes without such customers’ approval. If, at any time, you wish to opt out of having your Personal Information shared with third parties and/or receiving promotional materials from Trion (via email or postal mail), you may contact us at: Trion Worlds’ Privacy Policy, Attention: Privacy Officer (Opt-Out), 1200 Bridge Parkway, Redwood City, CA 94065 or by email at privacy@trionworlds.com. Please indicate which publications or services you no longer wish to receive so that we may better address your needs.
 
 Back to top
 
@@ -278,7 +278,7 @@ Questions, comments and requests regarding this privacy policy are welcomed and 
   * Email: [privacy@trionworlds.com](mailtto:privacy@trionworlds.com)
   * Mail: Trion Worlds Privacy Officer, 1200 Bridge Parkway, Redwood City, CA 94065
   * Phone: 650.631.9800 (ask for the Privacy Officer)
-  * For non-English speaking users, please see our [Terms of Use](https://web.archive.org/en/legal/terms-of-use/) for further information about how to contact Trion Worlds
+  * For non-English speaking users, please see our [Terms of Use](http://www.trionworlds.com/en/legal/terms-of-use/) for further information about how to contact Trion Worlds
 
 
 
@@ -294,7 +294,7 @@ US Residents, please click here
 
 Effective January 15, 2013
 
-Trion Worlds, Inc. (“ **Trion** ” or “ **we** ” or “ **our** ”) is the data controller for the purpose of the Data Protection Act of 1998. Trion respects your privacy and is committed to protecting the Personal Information (defined below) that you may provide us while using our websites (the “ **Site** ” as further defined below). Your use of the Site is subject to your agreement to the terms of this privacy policy (“ **Privacy Policy** ”) and our [Terms of Use](https://web.archive.org/en/legal/terms-of-use/#uk).
+Trion Worlds, Inc. (“ **Trion** ” or “ **we** ” or “ **our** ”) is the data controller for the purpose of the Data Protection Act of 1998. Trion respects your privacy and is committed to protecting the Personal Information (defined below) that you may provide us while using our websites (the “ **Site** ” as further defined below). Your use of the Site is subject to your agreement to the terms of this privacy policy (“ **Privacy Policy** ”) and our [Terms of Use](http://www.trionworlds.com/en/legal/terms-of-use/#uk).
 
 This Privacy Policy sets forth the basis on which any Personal Information that you provide to us, or that we collect from you, will be processed by us and is intended to provide you with notice of the following:
 
@@ -317,7 +317,7 @@ This Privacy Policy sets forth the basis on which any Personal Information that 
 
 ### WEBSITES GOVERNED BY THE PRIVACY POLICY
 
-We currently operate the website located at [www.trionworlds.com](http://www.trionworlds.com/), including all of its subsites and all software, products, features, games and services made available, displayed, or offered by or through our website or subsites (collectively, the “ **Site** ”). In addition, we own many other game-specific (e.g. [riftgame.com](http://riftgame.com/), [defiance.com](http://defiance.com/) and/or content-specific “subsites” of the Site, and these subsites are also considered part of the Site for purposes of this Privacy Policy. From time to time, we may add new subsites to the Site that may not initially be listed above, but such subsites will provide a link to and will be governed by this Privacy Policy and our [Terms of Use](https://web.archive.org/en/legal/terms-of-use/#uk).
+We currently operate the website located at [www.trionworlds.com](http://www.trionworlds.com/), including all of its subsites and all software, products, features, games and services made available, displayed, or offered by or through our website or subsites (collectively, the “ **Site** ”). In addition, we own many other game-specific (e.g. [riftgame.com](http://riftgame.com/), [defiance.com](http://defiance.com/) and/or content-specific “subsites” of the Site, and these subsites are also considered part of the Site for purposes of this Privacy Policy. From time to time, we may add new subsites to the Site that may not initially be listed above, but such subsites will provide a link to and will be governed by this Privacy Policy and our [Terms of Use](http://www.trionworlds.com/en/legal/terms-of-use/#uk).
 
 Back to top
 
@@ -347,7 +347,7 @@ Trion complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Ha
 
 ### OUR POLICIES CONCERNING CHILDREN
 
-Please take note that the content, games and services provided on the Site are not directed towards children under the age of thirteen (13) in the United States or twelve (12) in the European Union (“Children”). Therefore, except as otherwise expressly permitted by our [Terms of Use](https://web.archive.org/en/legal/terms-of-use/#uk) and our Privacy Policy, registration for and/or access to such content, games and services by Children is strictly prohibited. Individuals under the age of eighteen (18) should consult their parents or legal guardians for permission before providing us with any of their Personal Information.
+Please take note that the content, games and services provided on the Site are not directed towards children under the age of thirteen (13) in the United States or twelve (12) in the European Union (“Children”). Therefore, except as otherwise expressly permitted by our [Terms of Use](http://www.trionworlds.com/en/legal/terms-of-use/#uk) and our Privacy Policy, registration for and/or access to such content, games and services by Children is strictly prohibited. Individuals under the age of eighteen (18) should consult their parents or legal guardians for permission before providing us with any of their Personal Information.
 
 Back to top
 
@@ -419,7 +419,7 @@ Back to top
 
 ### J. INDIRECT COLLECTION OF PERSONAL INFORMATION
 
-Please note that, as mentioned elsewhere in this Privacy Policy and/or in our [Terms of Use](https://web.archive.org/web/20141231051603id_/http://www.trionworlds.com/en/legal/privacy-policy/uk-terms-of-use.php) and/or on the Site itself, Trion may collect from you Personal Information relating to certain third parties, such as your parents, other family members, friends, etc. (“ **Indirect Personal Information** ”). Except as provided by applicable laws and/or as described in this Privacy Policy, you will not give any such Indirect Personal Information to us and/or any to third-party without the relevant third party’s consent.
+Please note that, as mentioned elsewhere in this Privacy Policy and/or in our [Terms of Use](https://web.archive.org/web/20151109021820id_/http://www.trionworlds.com/en/legal/privacy-policy/uk-terms-of-use.php) and/or on the Site itself, Trion may collect from you Personal Information relating to certain third parties, such as your parents, other family members, friends, etc. (“ **Indirect Personal Information** ”). Except as provided by applicable laws and/or as described in this Privacy Policy, you will not give any such Indirect Personal Information to us and/or any to third-party without the relevant third party’s consent.
 
 Back to top
 
@@ -493,7 +493,7 @@ Where and to the extent required by the applicable laws, you hereby expressly co
 
 When you have provided Personal Information to us for a particular purpose, we may disclose your information to other companies that we have engaged to assist us in fulfilling your request and who we subject to confidentiality requirements. This may include, but is not limited to, fulfillment houses, billing services, transaction managers, credit verification services, and other third party service providers. We may also disclose any of your Personal Information to law enforcement or other appropriate third parties, located in the US or elsewhere, in connection with criminal investigations, investigation of fraud, infringement of intellectual property rights, or other suspected illegal activities, or as otherwise may be required by applicable laws, or, as we deem necessary in our sole discretion, in order to protect the rights, property or safety of Trion, our customers or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
 
-We will also provide your Personal Information to third party processors so that it can be administered and processed for the purposes notified to you in the Privacy Policy and our [Terms of Use](https://web.archive.org/web/20141231051603id_/http://www.trionworlds.com/en/legal/privacy-policy/uk-terms-of-use.php) and we may also share details with third parties (such as auditors or legal advisors) in order to obtain professional advice. Any such processing will be governed by an agreement in the form required by applicable laws, preserving any and all of your statutory data protection rights.
+We will also provide your Personal Information to third party processors so that it can be administered and processed for the purposes notified to you in the Privacy Policy and our [Terms of Use](https://web.archive.org/web/20151109021820id_/http://www.trionworlds.com/en/legal/privacy-policy/uk-terms-of-use.php) and we may also share details with third parties (such as auditors or legal advisors) in order to obtain professional advice. Any such processing will be governed by an agreement in the form required by applicable laws, preserving any and all of your statutory data protection rights.
 
 Except as described in this policy, we will not give any of your Personal Information to any third party without your express approval, and the only Personal Information we will request to share with third parties is your name, mailing address and email address. If you do not want us to share your Personal Information with third parties for marketing purposes, you can “opt out” in the manner discussed under “Your Privacy Rights” set forth on the first page of this Privacy Policy. We sometimes share general, demographic, or aggregated non-Personal Information with third parties about our user base, but that information does not include any Personal Information.You will be deemed to have consented to the disclosure to, and use by, a subsequent owner or operator of the Site, of any Personal Information contained in the Trion database for such site, if Trion or one of its companies assigns all of its rights and obligations regarding the use of your Personal Information at the time of a bankruptcy, merger, acquisition, sale of all or substantially all of the Site’s assets to a subsequent owner or operator, or similar event.
 
@@ -523,7 +523,7 @@ Back to top
 
 ### OTHER IMPORTANT AGREEMENTS THAT GOVERN YOUR USE OF THE SITE
 
-In addition to this Privacy Policy, your rights and obligations concerning the Site are governed by our [Terms of Use](https://web.archive.org/en/legal/terms-of-use/#uk), and where appropriate, the applicable terms of sale, the applicable Game’s EULA, and other applicable policies, guidelines, FAQ’s and requirements. When you sign up to use the Site and/or any of our services, please review such agreements carefully, as you must agree to be bound by each such agreement before you may use the Site and/or the relevant service.
+In addition to this Privacy Policy, your rights and obligations concerning the Site are governed by our [Terms of Use](http://www.trionworlds.com/en/legal/terms-of-use/#uk), and where appropriate, the applicable terms of sale, the applicable Game’s EULA, and other applicable policies, guidelines, FAQ’s and requirements. When you sign up to use the Site and/or any of our services, please review such agreements carefully, as you must agree to be bound by each such agreement before you may use the Site and/or the relevant service.
 
 Back to top
 
@@ -541,7 +541,7 @@ Back to top
 
 ### INFORMATION FOR CALIFORNIA RESIDENTS
 
-Under California law, our customers that are California residents may request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. As detailed above, we do not share our customers’ Personal Information with unaffiliated third parties for direct marketing purposes without such customers’ approval. If, at any time, you wish to opt out of having your Personal Information shared with third parties and/or receiving promotional materials from Trion (via email or postal mail), you may contact us at: Trion Worlds’ Privacy Policy, Attention: Privacy Officer (Opt-Out), 1200 Bridge Parkway, Redwood City, CA 94065 or by email at privacy@trionworlds.com. Please indicate which publications or services you no longer wish to receive so that we may better address your needs.
+Under CA law, our customers that are CA residents may request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. As detailed above, we do not share our customers’ Personal Information with unaffiliated third parties for direct marketing purposes without such customers’ approval. If, at any time, you wish to opt out of having your Personal Information shared with third parties and/or receiving promotional materials from Trion (via email or postal mail), you may contact us at: Trion Worlds’ Privacy Policy, Attention: Privacy Officer (Opt-Out), 1200 Bridge Parkway, Redwood City, CA 94065 or by email at privacy@trionworlds.com. Please indicate which publications or services you no longer wish to receive so that we may better address your needs.
 
 Back to top
 
@@ -560,7 +560,7 @@ Questions, comments and requests regarding this privacy policy are welcomed and 
   * Email: [privacy@trionworlds.com](mailtto:privacy@trionworlds.com)
   * Mail: Trion Worlds Privacy Officer, 1200 Bridge Parkway, Redwood City, CA 94065
   * Phone: 650.631.9800 (ask for the Privacy Officer)
-  * For non-English speaking users, please see our [Terms of Use](https://web.archive.org/en/legal/terms-of-use/#uk) for further information about how to contact Trion Worlds
+  * For non-English speaking users, please see our [Terms of Use](http://www.trionworlds.com/en/legal/terms-of-use/#uk) for further information about how to contact Trion Worlds
 
 
 
