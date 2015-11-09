@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vsb.bc.ca privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630004447id_/http%3A//www.vsb.bc.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vsb.bc.ca privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109233614id_/http%3A//www.vsb.bc.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Vancouver School Board
 
