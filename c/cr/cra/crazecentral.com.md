@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crazecentral.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531030331id_/http%3A//www.crazecentral.com/page/4/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazecentral.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110005649id_/http%3A//www.crazecentral.com/page/4/privacy-policy) for the most accurate reproduction.*
 
 # 
 
