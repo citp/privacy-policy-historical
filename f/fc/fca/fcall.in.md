@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fcall.in privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617020643id_/http%3A//fcall.in/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fcall.in privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109062935id_/http%3A//www.fcall.in/Privacy.aspx) for the most accurate reproduction.*
 
-# Free Calls, Recharge Website, Online Mobile Recharge, Unlimited Calling Anyhere In India, Earn Easy Recharge And Talktime, Make Calls on Internet VOIP, fcall.in
+# Free Call | Free Recharge | Free Online Recharge | Free Mobile Recharge Website | Free Calling
 
 Fcall takes your privacy seriously. Please read the following to learn more about our privacy policy.You are advised to please read the Privacy Policy carefully. By accessing the services provided by Fcall you agree to the collection and use of your data by Fcall in the manner provided in this Privacy Policy.
 
@@ -92,5 +92,10 @@ Fcall will send personally identifiable information about you to other companies
   * We respond to requests from any Indian or foreign government, security, defence, revenue, regulatory or other authority, agency or officer; 
   * We reserve the right to disclose your personally identifiable and email address information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
 
-  
 
+
+**Refunds**
+
+If recharge fails then we will try to recharge again and if you do not get recharge within 48 hours of   
+attempting recharge you cna contact us directly at [admin@fcall.in](mailto:shaikhsahfique98@gmail.com) with all details.  
+We will recharge your mobile again with in 24 hours.
