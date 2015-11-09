@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the english-grammar-revolution.com privacy policy that was archived on 2015-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150420230757id_/http%3A//www.english-grammar-revolution.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the english-grammar-revolution.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109202533id_/http%3A//www.english-grammar-revolution.com/privacy-policy.html) for the most accurate reproduction.*
 
 # English Grammar Revolution: Privacy Policy and Disclaimer
 
