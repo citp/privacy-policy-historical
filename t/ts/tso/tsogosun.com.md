@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tsogosun.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820041833id_/http%3A//www.tsogosun.com/Pages/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsogosun.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109193423id_/http%3A//www.tsogosun.com/Pages/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Tsogo Sun
 
@@ -14,7 +14,7 @@ By using Tsogo Sun Website, you consent to the data practices described in this 
 
 Tsogo Sun collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Tsogo Sun also collects anonymous demographic information, which is not unique to you, such as your postal or ZIP code, age, gender, preferences, interests and favourites.
 
-Your privacy is very important to Tsogosun. To help protect your privacy, we adhere to the following guidelines. Tsogo Sun **** web sites will explicitly ask when they need information that personally identifies you or allows them to contact you ("Personal Information"). Generally this information is requested when making reservations, joining the Frequent Guest programme, registering for site usage, when requesting a particular service, when sending feedback or when entering a competition. Where possible, we will provide you with the means to make sure that your Personal Information is correct and current.  You also have the right to request that your personal information not be used for any other use except for the intended purpose of its collection.
+Your privacy is very important to Tsogo Sun. To help protect your privacy, we adhere to the following guidelines. Tsogo Sun **** web sites will explicitly ask when they need information that personally identifies you or allows them to contact you ("Personal Information"). Generally this information is requested when making reservations, joining the Frequent Guest programme, registering for site usage, when requesting a particular service, when sending feedback or when entering a competition. Where possible, we will provide you with the means to make sure that your Personal Information is correct and current.  You also have the right to request that your personal information not be used for any other use except for the intended purpose of its collection.
 
 Tsogo Sun will use your Personal Information to operate the sites, provide services, and to inform you of new features, services, and products. If we intend to use Personal Information for a Secondary Use, Tsogo Sun **** will provide you with the ability to decline this service.
 
@@ -29,6 +29,8 @@ There is also information about your computer hardware and software that is auto
 Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Tsogo Sun public message boards, this information may be collected and used by others. Note: Tsogo Sun does not read any of your private online communications.
 
 Tsogo Sun encourages you to review the privacy statements of Web sites you choose to link to from Tsogo Sun so that you can understand how those Web sites collect, use and share your information. Tsogo Sun is not responsible for the privacy statements or other content on Web sites outside of Tsogo Sun and The Tsogo Sun family of Web sites.
+
+Tsogo Sun makes use of Google Analytics on its websites.   Google Analytics is a service offered by [Google](http://en.wikipedia.org/wiki/Google "Google") that generates detailed [statistics](http://en.wikipedia.org/wiki/Statistics "Statistics") about a [website](http://en.wikipedia.org/wiki/Website "Website")'s traffic and traffic sources and measures conversions and sales.  Using the [Ads Settings](https://www.google.com/settings/ads), visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads.  Visitors can also access to Google Analytics' [currently available opt-outs](https://tools.google.com/dlpage/gaoptout/).  For further information please refer to [Policy requirements for Display Advertising](https://support.google.com/analytics/answer/2700409). 
 
 ### Use of Your Personal Information
 
