@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the neeshu.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509143338id_/http%3A//neeshu.com/privacy-policy-for-neeshu-com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neeshu.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109213734id_/http%3A//neeshu.com/privacy-policy-for-neeshu-com) for the most accurate reproduction.*
 
-# Privacy Policy - Neeshu.com News Reviews Jokes Comics & health blog
+# Privacy Policy - Neeshu.com News Reviews Health & Comics blog
 
 **What information do we collect?**
 
