@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the whitefence.com privacy policy that was archived on 2015-04-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150407024235id_/http%3A//www.whitefence.com/corporate/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the whitefence.com privacy policy that was archived on 2015-11-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151109124437id_/http%3A//www.whitefence.com/corporate/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 	<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//assets.adobedtm.com/a72c4cba42c3fbd11e2e7a3daaf40b7687907a55/satelliteLib-4ae8d0f59b46d0973cda9bc53bfe314e025e7cb5.js"></script>
@@ -7,7 +7,10 @@
 
 
 
-<script src="//cdn.optimizely.com/js/1559445191.js"></script><link rel="stylesheet" type="text/css" media="screen" href="/_ui/common/css/common.css">
+
+
+	<script src="//cdn.optimizely.com/js/1559445191.js"></script>
+<link rel="stylesheet" type="text/css" media="screen" href="/_ui/common/css/common.css">
 <link rel="stylesheet" type="text/css" media="screen" href="/_ui/whitefence/css/changes.css">
 <link rel="stylesheet" type="text/css" href="/_ui/common/js/endeca/fancybox/jquery.fancybox-2.1.5.css" media="screen">
 <link rel="stylesheet" type="text/css" media="screen" href="/_ui/common/css/ui-lightness/jquery-ui-1.11.1.css">
@@ -20,7 +23,7 @@
 <meta content="Privacy and Security Statement" about="/corporate/privacy" property="dc:title">
 <meta name="description" content="Save up to 30% on Internet, Home Phone, TV, Bundles, Electricity, Natural Gas &amp; More at WhiteFence.com">
 <meta name="generator" content="Drupal 7 (http://drupal.org)"><meta name="robots" content="index, follow">
-			<meta name="viewport" content="width=device-width, initial-scale=1">
+			<meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no">
 			<title>Privacy and Security Statement | WhiteFence</title>
 
 
@@ -84,9 +87,6 @@ ga('send', 'pageview');
     var phoneCount_fromSession = null
     var videoCount_fromSession = null
     var bundleCount_fromSession = null
-    
-    
-    
 </script>
 <script>
 //setting default handler for ajax calls that have session timeout.
@@ -139,7 +139,12 @@ function End_Search(baselink)
 {
 	if(document.getElementById("search").value == "")
 	{
-		alert("Enter a search for your favorite bundles.")
+		var siteUid="whitefence";
+		if(siteUid =="gasgeorgia" || siteUid =="electricitytexas"){
+			alert(" Enter a search for your favorite product.");
+		}else{
+			alert("Enter a search for your favorite bundles.");
+		}
 	}
 	else if(containsSpecialChar())
 	{
@@ -225,60 +230,6 @@ function mostPopularReturnURL(category)
 {
 	returnURL = getCatProvUrl(category);
 }
-
-
- function setDefaultAddress() {
-	var street = 'null';
-	var apt = 'null';
-	var city = 'Ashburn';
-	var state = 'VA';
-	var zip = '20146';
-	var rentOwn = null;
-	
-	if(street!='null' && ($(_street).val() == 'null' || $(_street).val()== "")){
-		$(_street).val(street);
-	}
-	if(apt!='null' && ($(_apt).val() == 'null' || $(_apt).val()== "")){
-		$(_apt).val(apt);
-	}
-	if(city!='null' && ($(_city).val() == 'null' || $(_city).val()== "")){
-		$(_city).val(city);
-	}
-	if(state!='null' && ($(_state).val() == 'null' || $(_state).val()== "")){
-		$(_state).val(state);
-	}
-	if(zip!='null' && ($(_zip).val() == 'null' || $(_zip).val()== "")){
-		$(_zip).val(zip);
-	}
-	if(rentOwn == true)
-	{
-		$("#own").attr('checked', true);	
-	}else if(rentOwn == false){
-		$("#rent").attr('checked', true);
-	}
-	
-	
-	if(street!='null' && ($(_edited_street).val() == 'null' || $(_edited_street).val()== "")){
-		$(_edited_street).val(street);
-	}
-	if(apt!='null' && ($(_edited_apt).val() == 'null' || $(_edited_apt).val()== "")){
-		$(_edited_apt).val(apt);
-	}
-	if(city!='null' && ($(_edited_city).val() == 'null' || $(_edited_city).val()== "")){
-		$(_edited_city).val(city);
-	}
-	if(state!='null' && ($(_edited_state).val() == 'null' || $(_edited_state).val()== "")){
-		$(_edited_state).val(state);
-	}
-	if(zip!='null' && ($(_edited_zip).val() == 'null' || $(_edited_zip).val()== "")){
-		$(_edited_zip).val(zip);
-	}
-	
-
-
-	$(_redirected_location).val(window.location);	
-	$('.over').labelOver('.over');
-}
 </script>
 <div id="header">
 
@@ -286,7 +237,6 @@ function mostPopularReturnURL(category)
 	<div class="siteLogo">
 		<div class="banner"><a href="http://www.whitefence.com?N=0">
 				<div class="title">
-					
 				</div>
 				<div class="thumb">
 				<img bannerref="site-subdomain-properties" title="" alt="Whitefence" src="/medias/sys_master/heb/h0c/8813381255198/whitefence-logo.png">
@@ -303,7 +253,7 @@ function mostPopularReturnURL(category)
 				
 					<a href="/my-account" name="My Account" target="">My Account</a>
 				
-					<a href="/ordertracking" name="Order Status" target="">Order Status</a>
+					<a href="/searchOrder" name="Order Status" target="">Order Status</a>
 				
 		
 
@@ -319,7 +269,7 @@ function mostPopularReturnURL(category)
 				<div class="content">Order by Phone: Toll Free</div>
 			
 
-		<div id="headerPhoneNumber">1-866-397-2853</div>
+		<div id="headerPhoneNumber">1-888-590-0761</div>
 		<div id="phoneicon"></div>
 		</div>
 
@@ -341,7 +291,6 @@ function mostPopularReturnURL(category)
 				<div class="banner">
 	<a href="http://www.facebook.com/allconnect">
 				<div class="title">
-					
 				</div>
 				<div class="thumb">
 				<img bannerref="nologo-banner-component" title="" alt="Facebook" src="/medias/sys_master/he5/h0c/8813381058590/icon-fb.png">
@@ -354,7 +303,6 @@ function mostPopularReturnURL(category)
 				<div class="banner">
 	<a href="http://twitter.com/Allconnect">
 				<div class="title">
-					
 				</div>
 				<div class="thumb">
 				<img bannerref="nologo-banner-component" title="" alt="Twitter" src="/medias/sys_master/he6/h0c/8813381091358/icon-twitter.png">
@@ -367,7 +315,6 @@ function mostPopularReturnURL(category)
 				<div class="banner">
 	<a href="http://www.pinterest.com/allconnectinc">
 				<div class="title">
-					
 				</div>
 				<div class="thumb">
 				<img bannerref="nologo-banner-component" title="" alt="Pinterest" src="/medias/sys_master/he4/h0c/8813381025822/icon-pinterest.png">
@@ -380,7 +327,6 @@ function mostPopularReturnURL(category)
 				<div class="banner">
 	<a href="https://plus.google.com/112457316911911647814">
 				<div class="title">
-					
 				</div>
 				<div class="thumb">
 				<img bannerref="nologo-banner-component" title="" alt="GooglePlus" src="/medias/sys_master/he8/h0c/8813381156894/icon-google.png">
@@ -541,7 +487,6 @@ $(document).ready(function() {
 	</div>
 	</div>
 </div>
-
 
 
 
@@ -770,7 +715,11 @@ $(document).ready(function() {
 
 		
 	</ul>
-</div><div id="content" class="mainContent">
+</div>
+
+
+
+<div id="content" class="mainContent">
 							<div id="globalMessages">
 		
 
@@ -822,39 +771,94 @@ $(document).ready(function() {
 
 
 
-<div id="captureAddressForm">
+<form id="captureAddressForm">
 
-<button value="Close" onclick="$.fancybox.close();" id="fancyboxCloseButton">Close </button>
 	<strong id="EnterAddress">
 	
 		<div class="content">Enter Your Address Now to Verify Availability On Your Selection.</div>
 	
 	</strong>
 
-    	<h4 id="InvalidAddress" style="display: none;">
-    	
-			<div class="content">Invalid Address. Please enter correct address Below for Exact Pricing of Products in your Area.</div>
-		
-    	</h4>
-<!--     	<h5 id="EnterAddress">	 -->
-
-
-
-<!--     		</h5> -->
 	  <div id="addressForm">
-    	<label for="txtAddress1" class="over txtAddress1">
-    	Street Address* (i.e. 123 Main St)</label>
-    	<input type="text" id="txtAddress1" qaid="captureAddress.Address">
-    	<label for="txtApt" class="over txtApt">Apt #</label>
-    	<input type="text" id="txtApt" qaid="captureAddress.Apt" maxlength="16">
-    	<!-- <label for="txtCity" class="over txtCity">City (Required)</label> -->
-    	<input type="text" id="txtCity" style="display:none;">
-<!--     	<select id="ddlState"> -->
-<!--       		<option value="">State (Required)</option> -->
-<!--     	</select> -->
-		<input type="text" id="ddlState" style="display:none;">
-    	<label for="txtZip" class="over txtZip" qaid="captureAddress.Zip">Zipcode (Required)</label>
-    	<input type="text" id="txtZip">
+	  	
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+	
+	
+	
+	
+	
+
+
+
+ 
+
+	
+
+
+	
+
+ 
+
+
+<div class="invalidAddressMsg" style="display:none;">
+	  
+              <div class="content">Invalid Address. Please enter correct address Below for Exact Pricing of Products in your Area.</div>
+      
+</div>
+<div class="invalidStateMsg" style="display:none;">
+    
+</div>
+<div class="unavailableapt" style="display: none;">
+	 We think this address might require an apartment number.
+</div>
+<div class="wfAddressForm" id="captureAddress-addrForm">
+		<input id="" type="text" class="streetName" name="streetName" value="" placeholder="Street Address (i.e. 123 Main St)">
+		<input id="" type="text" class="apartment" name="apartment" value="" placeholder="Apt No" maxlength="16">
+		<input id="" type="text" class="city" style="display:none;" name="city" value="Ashburn" placeholder="City">
+		<input id="" type="text" class="state" style="display:none;" name="state" value="VA" placeholder="State">
+		<input id="" type="text" class="zip" name="zip" value="20146" placeholder="Zip Code">
+	
+	<div style="display:none;">
+		<span class="cityAndStateHiddenUpfront">true</span>
+		<span class="skipAddressValidationEnabled">true</span>
+		<span class="submitFormAfterValidation">true</span>
+		<span class="aptRequired">true</span>
+	</div>
+</div>
+
+<script type="text/javascript">
+	$(document).ready(function(){
+		$("#captureAddress-addrForm .streetName" ).change(function() {
+		  	validateWFAddress(this);
+		});
+		$("#captureAddress-addrForm .zip" ).change(function() {
+			validateWFAddress(this);
+		});
+	});
+</script>
 		<br><br>
 		
 			
@@ -862,11 +866,11 @@ $(document).ready(function() {
 				<!-- showing rent/own -->
 				<span id="rent_own_text">Will you Own or Rent at this address?</span><br>
 				<div id="ownQuestion">
-					<input type="radio" id="own" name="rentOwn">
+					<input type="radio" id="own" name="rentOwn" value="true">
 					<label>Own</label>
 				</div>
 				<div id="rentQuestion">
-					<input type="radio" id="rent" name="rentOwn">
+					<input type="radio" id="rent" name="rentOwn" value="false">
 					<label>Rent</label>
 		    	</div>
 			
@@ -875,31 +879,39 @@ $(document).ready(function() {
 
 		</div>
 	<div id="captureAddressSubmit">
-		<div id="startSavingSubmit">
-	    	<input type="button" onclick="validateAddressbeforeGetProducts();" value="Start Saving" id="button" qaid="captureAddress.Button">
+		<div id="startSavingSubmit" class="addressFormSubmit">
+	    	<input type="submit" onclick="validateWFAddressBeforeSubmit(this);return false;" value="Start Saving" id="button" qaid="captureAddress.Button">
 	    </div>
-		<div id="continueWAddress" style="display:none;">
-			<input type="button" onclick="doGetProducts('true');" value="Continue with Address as Entered" id="continueWithAddress" qaid="captureAddress.Button">
+		<div id="continueWAddress" class="addressFormContinue" style="display:none;">
+			<input type="button" onclick="validateWFAddressBeforeSubmit(this, 'true');return false;" value="Continue with Address as Entered" id="continueWithAddress" qaid="captureAddress.Button">
 		</div>
 	</div>
    	<div id="bottomBlock">
 	 <div id="callMessaging">
-    <h3>Need Help Ordering?</h3>
-    <h4> 
+     <span class="callMessagingTitle">Need Help Ordering?</span>
+    <div class="phoneNumber"> 
 		<div class="content">Call</div>
 	
 	
 
 
 <div id="sessionNumber">
-1-866-397-2853
+1-888-590-0761
 </div>
-	 </h4>
+	 </div>
     </div>
     <img src="/_ui/whitefence/images/logos/verisign-logo.png" id="verisign">
-    <a href="/corporate/privacy.html" id="privacyLink" target="_blank">Privacy Policy</a>
+    
+    	<a href="/corporate/privacy.html" id="privacyLink" target="_blank">Privacy Policy</a>
+    
     </div>
-	</div>
+	</form>
+	
+<script type="text/javascript">
+	$( "#captureAddressForm" ).submit(function( event ) {
+	  	event.preventDefault();
+	});
+</script>
 	<input type="hidden" id="mrcCode" name="mrcCode" value="defaultMRC">
 </div>
 
@@ -919,120 +931,176 @@ $(document).ready(function() {
 
 
 
+
+
 <script type="text/javascript">
-	 	var update_addr_street = 'null'
-		 var update_addr_apt ='null'
-		 var update_addr_city ='Ashburn'
-		 var update_addr_state =  'VA'
-		 var update_addr_zip = '20146'
+	var update_addr_street = 'null'
+	var update_addr_apt ='null'
+	var update_addr_city ='Ashburn'
+	var update_addr_state =  'VA'
+	var update_addr_zip = '20146'
+		
+	function checkUpdatedAddressBeforeSubmit(formObj, skipAddressValidation)
+	{
+		if(isAddressUpdated())
+		{
+			validateWFAddressBeforeSubmit(formObj, skipAddressValidation);
+		}else{
+			if (update_addr_street != null && update_addr_street != 'null' && update_addr_street.trim() != "")
+			 {
+			 	$.fancybox.close();
+			 }else{
+				editProgressModal();
+				window.location=window.parent.location;
+			 }
+		}
+	}
 	
-
-function checkAddressBeforeSubmit()
-{
-	 if (document.getElementById("redirectCategoryUrl") != null
-				&& document.getElementById("redirectCategoryUrl") != "") {
-
-			var red_cat = document
-					.getElementById("redirectCategoryUrl").value;
-			red_cat = red_cat.replace(window.location.protocol, '');
-			red_cat = red_cat.replace('//', '');
-			red_cat = red_cat.replace(window.location.hostname, '');
-			//for developers
-			red_cat = red_cat.replace(':9001', '');
-
-			if(red_cat.indexOf('?availProdMsg=true') != -1){
-				if(red_cat.split("?")[1]=='availProdMsg=true'){
-					red_cat = red_cat.replace('?availProdMsg=true', '');	
-				}else{
-					red_cat = red_cat.replace('&availProdMsg=true', '');	
-				}
-			}else if(red_cat.indexOf('&availProdMsg=true') != -1){
-				red_cat=  red_cat.replace('&availProdMsg=true', '');
-			}
-				
-			$("#redirectCategoryUrl").val(red_cat);
-
-		}
-    if (update_addr_street != null && update_addr_street != 'null' && update_addr_street.trim() != "")
-    {
-	    if(update_addr_street == $("#txtAddress2").val() && 
-	    		update_addr_apt == $("#txtApt2").val() &&
-	    		update_addr_city == $("#txtCity2").val() &&
-	    		update_addr_state == $("#ddlState2").val() &&
-	    		update_addr_zip == $("#txtZip2").val()) {
-				return false;
-			} 
+	function isAddressUpdated()
+	{
+		if (update_addr_street != null && update_addr_street != 'null' && update_addr_street.trim() != "")
+	    {
+			//comparing with session address to see if address was updated
+		    if(update_addr_street == $("#addressUpdateFormID .streetName").val() && 
+		    		update_addr_apt == $("#addressUpdateFormID .apartment").val() &&
+		    		update_addr_city == $("#addressUpdateFormID .city").val() &&
+		    		update_addr_state == $("#addressUpdateFormID .state").val() &&
+		    		update_addr_zip == $("#addressUpdateFormID .zip").val()) {
+					return false;
+				} 
 		} else {
-			if ($("#txtAddress2").val() == $("#txtAddress1").val()
-					&& $("#txtApt2").val() == $("#txtApt").val()
-					&& $("#txtCity2").val() == $("#txtCity").val()
-					&& $("#ddlState2").val() == $("#ddlState").val()
-					&& $("#txtZip2").val() == $("#txtZip").val()) {
+			//comparing with capture address form to see if address was updated since session address is null
+			if ($("#addressUpdateFormID .streetName").val() == $("#captureAddressForm .streetName").val()
+					&& $("#addressUpdateFormID .apartment").val() == $("#captureAddressForm .apartment").val()
+					&& $("#addressUpdateFormID .city").val() == $("#captureAddressForm .city").val()
+					&& $("#addressUpdateFormID .state").val() == $("#captureAddressForm .state").val()
+					&& $("#addressUpdateFormID .zip").val() == $("#captureAddressForm .zip").val()) {
 				return false;
 			}
-			
 		}
-	return true;
+		return true; 
 	}
 </script>
+
+<!-- Handle scenario where update address has streaming serviceability parameters -->
+
+
 
 
 <div id="addressUpdateForm">
 	<form id="addressUpdateFormID" action="/partner/submitAddress" method="POST">
 
-		
 		<strong id="EnterAddress2">
 			
 
 			Enter Your Updated Address Below
-			
 		</strong>
 
-		<h4 id="InvalidAddress2" style="display: none;">
-			
-				<div class="content">Invalid Address. Please enter correct address Below for Exact Pricing of Products in your Area.</div>
-			
-		</h4>
-		
-         <h4 id="InvalidState2" style="display:none;">
-             
-         </h4>	
-         	
-		<!--     	<h5 id="EnterAddress">	 -->
-		
-		
-		
-		<!--     		</h5> -->
 		<div id="addressForm2">
-			<label for="txtAddress2" class="over txtAddress2"> Street
-				Address* (i.e. 123 Main St)</label> <input type="text" id="txtAddress2" name="streetName" qaid="captureAddress.Address"> <label for="txtApt2" class="over txtApt2">Apt #</label> <input type="text" id="txtApt2" name="apartment" qaid="captureAddress.Apt" maxlength="16">
-			<!-- <label for="txtCity2" class="over txtCity2">City (Required)</label> -->
-			<input type="text" id="txtCity2" name="city" style="display: none;">
-			<!--     	<select id="ddlState2"> -->
-			<!--       		<option value="">State (Required)</option> -->
-			<!--     	</select> -->
+			
 
-			<input type="hidden" id="redirectCategoryUrl" name="redirectCategoryUrl">
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+	
+	
+	
+	
+	
+
+
+
+ 
+
+	
+
+
+	
+
+ 
+
+
+<div class="invalidAddressMsg" style="display:none;">
+	  
+              <div class="content">Invalid Address. Please enter correct address Below for Exact Pricing of Products in your Area.</div>
+      
+</div>
+<div class="invalidStateMsg" style="display:none;">
+    
+</div>
+<div class="unavailableapt" style="display: none;">
+	 We think this address might require an apartment number.
+</div>
+<div class="wfAddressForm" id="addressUpdate-addrForm">
+		<input id="" type="text" class="streetName" name="streetName" value="" placeholder="Street Address (i.e. 123 Main St)">
+		<input id="" type="text" class="apartment" name="apartment" value="" placeholder="Apt No" maxlength="16">
+		<input id="" type="text" class="city" style="display:none;" name="city" value="Ashburn" placeholder="City">
+		<input id="" type="text" class="state" style="display:none;" name="state" value="VA" placeholder="State">
+		<input id="" type="text" class="zip" name="zip" value="20146" placeholder="Zip Code">
+	
+	<div style="display:none;">
+		<span class="cityAndStateHiddenUpfront">true</span>
+		<span class="skipAddressValidationEnabled">true</span>
+		<span class="submitFormAfterValidation">true</span>
+		<span class="aptRequired">true</span>
+	</div>
+</div>
+
+<script type="text/javascript">
+	$(document).ready(function(){
+		$("#addressUpdate-addrForm .streetName" ).change(function() {
+		  	validateWFAddress(this);
+		});
+		$("#addressUpdate-addrForm .zip" ).change(function() {
+			validateWFAddress(this);
+		});
+	});
+</script>
+			
+			<input type="hidden" id="redirectCategoryUrl" name="redirectCategoryUrl" value="/corporate/privacy">
 			<!-- <input type = "hidden" id = "mrc" name = "mrc" value="123"> -->
 			<!-- <input type="hidden" id="redirectCategoryName" name="redirectCategoryName" value="bundles" style="background-image: url(http://allconnect.local:9001/_ui/whitefence/images/input-shadow.jpg);"> -->
-			<input type="hidden" name="emptyCart" value="true"> <input type="text" id="ddlState2" name="state" style="display: none;">
-			<label for="txtZip2" class="over txtZip2" qaid="captureAddress.Zip">Zipcode
-				(Required)</label> <input type="text" id="txtZip2" name="zip"> <br>
-			<br>
-
-		</div>
+			<input type="hidden" name="emptyCart" value="true">
+			<input type="hidden" class="skipAddressValidation" name="skipAddressValidation" value="false">
+		</div>	
+			
+		
 		<div id="updateAddressSubmit">
-			<div id="updateAddressSubmitButton">
-				<input type="submit" value="Update Address" onclick="validateEditedAddressBeforeSubmit();return false;">
-			</div>
-			<div id="continueWAddressUpdate" style="display: none;">
-				<input type="submit" onclick="validateEditedAddressBeforeSubmit('true');return false;" value="Continue with Address as Entered">
-			</div>
+			
+				<div id="updateAddressSubmitButton" class="addressFormSubmit">
+					<input type="submit" value="Update Address" id="submit_address_button" onclick="checkUpdatedAddressBeforeSubmit(this);return false;">
+				</div>
+				<div id="continueWAddressUpdate" class="addressFormContinue" style="display: none;">
+					<input type="submit" id="submit_address_button1" onclick="checkUpdatedAddressBeforeSubmit(this, 'true');return false;" value="Continue with Address as Entered">
+				</div>
+			
 		</div>
+		
 		<div id="bottomBlock">
 			<div id="callMessaging">
-				<h3>Need Help Ordering?</h3>
-				<h4>
+			
+				 <span class="callMessagingTitle">Need Help Ordering?</span>
+				 <div class="modalPhone">
 					
 						<div class="content">Call</div>
 					
@@ -1040,11 +1108,13 @@ function checkAddressBeforeSubmit()
 
 
 <div id="sessionNumber">
-1-866-397-2853
+1-888-590-0761
 </div>
-				</h4>
+				</div>
 			</div>
-			<div onclick="Javascript:window.open('http://www.allconnect.com/corporate/privacy.html');" class="updateAddressPrivacy">Privacy Policy</div>
+	  		
+				<div onclick="Javascript:window.open('http://www.allconnect.com/corporate/privacy.html');" class="updateAddressPrivacy">Privacy Policy</div>
+			
 		</div>
 	</form>
 
@@ -1066,11 +1136,13 @@ function checkAddressBeforeSubmit()
 
 
 
+
+
 <div id="multipleAddressModal">
 		<div id="mam">
 			<strong>Address Clarification Needed</strong>
 			
-				<a class="topOops" onclick="javascript: void updateAddressBox()" title="oops I entered my address incorrectly">
+				<a id="update_Address1" class="topOops" onclick="javascript: void updateAddressBox()" title="oops I entered my address incorrectly">
 				Oops I entered my address incorrectly
 				</a>
 			
@@ -1088,7 +1160,7 @@ function checkAddressBeforeSubmit()
 		            <input class="Continue" id="mamContinue" alt="Continue" type="button" name="mamContinue" value="Continue" onclick="reQual()">		
 			</form>
 			
-				<a class="btmOops" onclick="javascript: void updateAddressBox()" title="oops I entered my address incorrectly">Ooops I entered my address incorrectly</a>
+				<a class="btmOops" id="Adress_Box" onclick="javascript: void updateAddressBox()" title="oops I entered my address incorrectly">Ooops I entered my address incorrectly</a>
 			
 		</div>
 	</div>
@@ -1112,20 +1184,19 @@ function checkAddressBeforeSubmit()
 
 <div id="progressModal">	
 	
-        <h3>
-        	
+    <div class="modalTitle">
+    
 		<div class="content">Verifying Availability for the Selected Package in Your Area</div>
 	
-	</h3>
-    	
-        <img src="/_ui/whitefence/images/layout/ajax-loader.gif" alt="">
-        <div id="waitText">This process may take up to 30 seconds. </div>
-        <h4 id="bestPrice">
+	</div>
+    <img src="/_ui/whitefence/images/layout/ajax-loader.gif" alt="">
+    <div id="waitText">This process may take up to 30 seconds. </div>
+    <div id="bestPrice">
         
 		<div class="content">Best Price Guarantee</div>
 	
-	</h4>
-        <h5>
+	</div>
+        <div class="orderFromUsTitle">
         	
         		
         		
@@ -1134,10 +1205,10 @@ function checkAddressBeforeSubmit()
 						
         		
         	         	
-	   </h5>
+	   </div>
 	  
 	   		<a href="http://www.allconnect.com/corporate/privacy.html" target="_blank" class="progresscheckoutprivacy">Privacy Policy</a>	
-
+	  
 	   </div>
 </div>
 
@@ -1186,17 +1257,17 @@ background: url('/_ui/allconnect/images/layout/addressmodal2.jpg') center center
 
 <div id="editProgressModalWrap">
 	<div id="editProgressModal">
-		<h3>
+		<div class="modalTitle">
 			Updating your Address
-		</h3>
+		</div>
 		<img src="/_ui/whitefence/images/layout/ajax-loader.gif" alt="">
 		<div id="waitText">This process may take up to 30 seconds.</div>
-		<h4 id="bestPrice">
+		<div id="bestPrice">
 			
 				<div class="content">Best Price Guarantee</div>
 			
-		</h4>
-		<h5>
+		</div>
+		<div class="orderFromUsTitle">
         	
         		
         		
@@ -1205,8 +1276,10 @@ background: url('/_ui/allconnect/images/layout/addressmodal2.jpg') center center
 						
         		
         	   
-		</h5>
-		<a href="http://www.allconnect.com/corporate/privacy.html" target="_blank" class="progressprivacy">Privacy Policy</a>
+		</div>
+		
+			<a href="http://www.allconnect.com/corporate/privacy.html" target="_blank" class="progressprivacy">Privacy Policy</a>
+		
 	</div>
 </div>
 
@@ -1234,28 +1307,28 @@ background: url('/_ui/allconnect/images/layout/addressmodal2.jpg') center center
 	       
 	        
     <div id="unavailableWithApt">      
-    <h3 class="addressErrorMsgCode"><span id="noProdSelectedProvider1" class="providerNameModal"></span> Services are not available at 
+    <div class="modalTitle addressErrorMsgCode"><span id="noProdSelectedProvider1" class="providerNameModal"></span> Services are not available at 
             your address as entered.
             <br><br>
-	</h3>
+	</div>
 	</div>
 	
 	<div id="unavailableWithoutApt"> 
-    <h3 class="addressErrorMsgCode">It looks like <span id="noProdSelectedProvider2" class="providerNameModal"></span> Services are not available at 
+    <div class="modalTitle addressErrorMsgCode">It looks like <span id="noProdSelectedProvider2" class="providerNameModal"></span> Services are not available at 
             your address as entered.<br><br> 
     
             We think this address might require an apartment number. 
             <br><br>
-	</h3>
+	</div>
 	</div>
 	
 		<div class="noProdModalUpdateAddress">
-	To change your address <a href="javascript: void updateAddressBox()">Click Here</a>
+	To change your address <a id="update_Address" href="javascript: void updateAddressBox()">Click Here</a>
     </div>
 	
 	<br>
 	 <div id="resultsListOtherProductsMessage">
-        <h4>
+         <div class="modalInfo">
         	
 										
 				  
@@ -1264,21 +1337,25 @@ background: url('/_ui/allconnect/images/layout/addressmodal2.jpg') center center
 					
 				
 				       
-		</h4>
+		</div>
 	</div>
+	
 	<div id="bottomBlock">
 	 <div id="callMessaging">
-    <h3>Need Help Ordering?</h3>
-    <h4> 
+     <span class="callMessagingTitle">Need Help Ordering?</span>
+    <div class="modalPhone"> 
 		<div class="content">Call</div>
+					
+	<span class="phoneNumber">1-888-590-0761</span> </div>
 	
-	<font color="" #0096d6""="">1-866-397-2853</font> </h4>
-	<div class="noProductPrivacy" onclick="Javascript:window.open('http://www.allconnect.com/corporate/privacy.html');">Privacy Policy</div>
+		<div class="noProductPrivacy" onclick="Javascript:window.open('http://www.allconnect.com/corporate/privacy.html');">Privacy Policy</div>
+		
+	
    </div>
 		
 			
 				<div id="goToWhiteFence">
-					<a href="" id="gotoWhiteFence">
+					<a href="" id="goToWhiteFence">
 						
 							
 							
@@ -1321,30 +1398,30 @@ background: url('/_ui/allconnect/images/layout/addressmodal2.jpg') center center
 	<div id="unavailableWithApt">
 		
 						
-				<h3>
+				<div class="modalTitle">
 					<span id="noProdSelectedProvider1" class="providerNameModal"></span>
-					Services are not available at <span id="NoProdZip1">20146</span>.
+					<span id="NoProdZip1">Services are not available at 20146</span>.
 					<br><br>
-				</h3>
+				</div>
 			
 			
 		
 	</div>
 
 	<div id="unavailableWithoutApt"> 
-    <h3>It looks like <span id="noProdSelectedProvider2" class="providerNameModal"></span> Services are not available at 
+    <div class="modalTitle">It looks like <span id="noProdSelectedProvider2" class="providerNameModal"></span> Services are not available at 
             your address as entered.<br><br> 
     
             We think this address might require an apartment number. To add an apartment number
             
-				<a href="javascript: void updateAddressBox()" id="captureAddress">Click Here</a>
+				<a id="update_Address3" href="javascript: void updateAddressBox()">Click Here</a>
 			       
             <br><br>
-	</h3>
+	</div>
 	</div>
 	
 	
-		<h5>If you are searching for products in an area other than <span id="NoProdZip2">20146</span>, please update your ZIP code below.</h5>
+		<div class="modalInfo">If you are searching for products in an area other than <span id="NoProdZip2">20146</span>, please update your ZIP code below.</div>
 	
 	
 	<div id="noProdZipDiv">
@@ -1356,24 +1433,20 @@ background: url('/_ui/allconnect/images/layout/addressmodal2.jpg') center center
 	</div>				
 	<br>
                <div id="resultsListOtherProductsMessage">
-        <h4>
-        	
-										
-				  
-					 
-						<div class="content">Great deals from other companies are available at WhiteFence.com. Click below and start saving!</div>
+        <div class="content">Great deals from other companies are available at WhiteFence.com. Click below and start saving!</div>
 					
 				
 			
-	</h4>
+	
 	</div>
 	<div id="bottomBlock">
 	 <div id="callMessaging">
-    <h3>Need Help Ordering?</h3>
-    <h4> 
+     <span class="callMessagingTitle">Need Help Ordering?</span>
+    <div class="modalPhone"> 
 		<div class="content">Call</div>
 	
-	<font color="" #0096d6""="">1-866-397-2853</font> </h4>
+	<span class="phoneNumber">1-888-590-0761</span>
+	</div>
     </div>
 		
 			
@@ -1414,6 +1487,7 @@ background: url('/_ui/allconnect/images/layout/addressmodal2.jpg') center center
 
 
 
+
 <div id="otherCategoryModalContent" style="height:400px">
 		<div id="otherCategoryModal" style="height:300px">
 		
@@ -1421,11 +1495,11 @@ background: url('/_ui/allconnect/images/layout/addressmodal2.jpg') center center
 						
 						
 					
-						<h4>
+						<div>
 				        
 							<div class="content">Unfortunately, It Appears the Category You Selected is Not Available in This Zip Code <br> <div id="secondaryContent"> Please verify your zip code or view other categories available in your area below and start saving. </div></div>
 					    
-				        </h4>
+				        </div>
 	  				
 					
 				
@@ -1465,7 +1539,7 @@ background: url('/_ui/allconnect/images/layout/addressmodal2.jpg') center center
 									
 								 
 							<div id="contentPhoneNumber2">	
-						1-866-397-2853
+						1-888-590-0761
 						</div>
 					</div>			    
 					<!------ End Phone Number -->
@@ -1473,11 +1547,11 @@ background: url('/_ui/allconnect/images/layout/addressmodal2.jpg') center center
 		       
 		       
 	      <div id="otherCategoryMessage">
-	       		<h4>
+	       		<strong>
 	       		 
 				     Good news! We found other available categories at your address. Choose a category below: 
 				       
-				    </h4>
+				    </strong>
 				    </div>
 		</div>
 		<div class="main-footer">
@@ -1497,9 +1571,10 @@ background: url('/_ui/allconnect/images/layout/addressmodal2.jpg') center center
        			
        			
        			
-       			
-       			
+       						
+				
        			   <a href="http://www.allconnect.com/corporate/privacy.html" style="padding-top:130px;" target="_blank">Privacy Policy</a>
+				
        		</div>     
   </div>
 		</div>
@@ -1527,22 +1602,30 @@ background: url('/_ui/allconnect/images/layout/addressmodal2.jpg') center center
 <div id="timeOutModal">
 	<div id="timeOutMessage">
 	
-	<h3>Looks like <span id="noProdSelectedProvider" class="providerNameModal"></span> is taking longer than expected to respond. 
+	<div class="modalTitle">Looks like <span id="noProdSelectedProvider" class="providerNameModal"></span> is taking longer than expected to respond. 
     Please <a href="javascript: void captureAddress($('#timeOutModalCodeSelected').val(),$('#timeOutModalCategorySelected').val(),$('#timeOutModalProviderSelected').val(), null, 'true')" id="timeOut">Click Here</a> to try again.
-	</h3> 
+	</div> 
     
 	</div>      	 
-	<h5>If you are searching for products in an area other than <span id="NoProdZip3">20146</span>, please update your ZIP code below.</h5>
+	<div class="timeOutMessage">If you are searching for products in an area other than <span id="NoProdZip3">20146</span>, please update your ZIP code below.</div>
 	<div id="noProdZipDiv">
-	<form id="noProdZipForm" onsubmit="updateTimeOutZipcode();return false;">
-	<label class="over txtZip">ZIP code</label>
+	
+
+		
+			
+			
+				<form id="noProdZipForm" onsubmit="updateTimeOutZipcode();return false;">
+					<label class="over txtZip">ZIP code</label>
 					<input style="width: 80px;" class=":required" onkeypress="return isNumberKey(event)" type="text" id="updateTimeOut_txtZip" name="updateTimeOut_txtZip" value=""> 
 					<input class="submit" type="button" onclick="updateTimeOutZipcode();" value="Update" id="npupdate3">
 				</form>
+				
+		
+	
 	</div>				
 	
 	<br>
-        <h4>
+        <div class="timeOutProductMessage">
         	
 										
 				  
@@ -1551,15 +1634,15 @@ background: url('/_ui/allconnect/images/layout/addressmodal2.jpg') center center
 					
 				
 			
-	</h4>
+	</div>
 	<div id="bottomBlock">
 	 <div id="callMessaging">
-    <h3>Need Help Ordering?</h3>
-    <h4> 
+     <span class="callMessagingTitle">Need Help Ordering?</span>
+    <div class="modalPhone"> 
 		<div class="content">Call</div>
 	 
-	1-866-397-2853
-	</h4>
+	1-888-590-0761
+	</div>
     </div>
 
 		
@@ -1601,22 +1684,23 @@ background: url('/_ui/allconnect/images/layout/addressmodal2.jpg') center center
 
 
 
+
 <div id="noCategoryModalContent" style="height:400px">
 		<div id="noCategoryModal" style="height:300px">
 			   <div id="noCategoryMessage">
 			    	    	    
-			        <h3>
+			        <div class="modalTitle">
 				        
 							<div class="content">Unfortunately the category you have selected is not available at your address.</div>
 					    
-				    </h3>
-			        <h4>
+				    </div>
+			        <div>
 				        
 							<div class="content">Unfortunately, It Appears the Category You Selected is Not Available in This Zip Code <br> <div id="secondaryContent"> Please verify your zip code or view other categories available in your area below and start saving. </div></div>
 					    
-				    </h4>
+				    </div>
 				    
-				    <h5>
+				    <div class="modalTitle2">
 				    	
 													
 							  
@@ -1625,10 +1709,10 @@ background: url('/_ui/allconnect/images/layout/addressmodal2.jpg') center center
 								
 							
 						
-				    </h5>
+				    </div>
 					
 						
-							<a href="">
+							<a href="http://allconnect.com/">
 								
 									
 									
@@ -1644,26 +1728,27 @@ background: url('/_ui/allconnect/images/layout/addressmodal2.jpg') center center
 
 			        <!-------- Begin Address Incorrect -->
 			        <div id="contentAddressIncorrect">
-				        <h4>
+				        <strong>
 				        
-							<a href="javascript: void updateAddressBox()" id="timeOut">
+							<a id="update1_Box" href="javascript: void updateAddressBox()">
 					        
 								<div class="content">Oops I entered my address incorrectly</div>
 						    
 						 </a> 	
 						
-				   		</h4>
+				   		</strong>
 			   		</div>
 			   		<!------- End Address Incorrect -->
 			   		
 			   		<!------- Begin Phone Number -->
 			   		<div id="contentPhoneNumber">
 			   			
-					   		<h5> 
+					   		<strong> 
 					   		
 									<div class="content">Questions on your order? Call for help:</div>
-								 
-							</h5>
+							
+							1-888-590-0761
+							</strong>
 						
 					</div>			    
 					<!------ End Phone Number -->
@@ -1722,7 +1807,10 @@ background: url('/_ui/allconnect/images/layout/addressmodal2.jpg') center center
        			</div>
        			
        			
-       		</div>      <div class="noProductPrivacy" onclick="Javascript:window.open('http://www.allconnect.com/corporate/privacy.html');">Privacy Policy</div>    
+       		</div>      
+       		
+       			<div class="noProductPrivacy" onclick="Javascript:window.open('http://www.allconnect.com/corporate/privacy.html');">Privacy Policy</div>
+       		    
   </div>
 </div>
 
@@ -1749,6 +1837,8 @@ background: url('/_ui/allconnect/images/layout/addressmodal2.jpg') center center
 	$(document).ready(function(){
 		$("#serviceExists").click(function(){
 			getExistingCustomerQuestions();
+			$('#existingCustomerQuestionForm').css('display', 'none');
+			$('#existingCustomerModalForm').css('display', 'block');
 		});
 		$("#movingCustURL").click(function(){
 			notExistingCustomer();
@@ -1757,31 +1847,35 @@ background: url('/_ui/allconnect/images/layout/addressmodal2.jpg') center center
 </script>
 
 <div id="existingCustomerModal">
-	<div id="existingCustomerModalForm">
-		<div id="existingCustomerMessage">
+	<div id="existingCustomerModalForm" style="display:none">
+	</div>
+	<div id="existingCustomerQuestionForm">
+	<div id="existingCustomerMessage">
 			The address you entered has a pre-existing <span class="providerNameModal"></span> Account
-		</div>
-		<div id="existingCustomerQuestion">
+	</div>
+	<div id="existingCustomerQuestion">
 			<a id="serviceExists">Yes, this is my account.</a>
 			<a id="movingCustURL">No, I am moving to this address.</a>
-		</div>
+	</div>
 	</div>
 	<div id="bottomBlock">
 	 <div id="callMessaging">
-    <h3>Need Help Ordering?</h3>
-    <h4> 
+    <span class="callMessagingTitle">Need Help Ordering?</span>
+    <div class="phoneNumber"> 
 		<div class="content">Call</div>
 	
 	
 
 
 <div id="sessionNumber">
-1-866-397-2853
+1-888-590-0761
 </div>
-	 </h4>
+	 </div>
     </div>
     <img src="/_ui/whitefence/images/logos/verisign-logo.png" id="verisign">
-    <a href="http://www.allconnect.com/corporate/privacy" id="privacyLink">Privacy Policy</a>
+    
+    	<a href="http://www.allconnect.com/corporate/privacy" id="privacyLink">Privacy Policy</a>
+    
     </div>
 </div>
  
@@ -1813,12 +1907,12 @@ background: url('/_ui/allconnect/images/layout/addressmodal2.jpg') center center
 	</div>
 	
 		<div class="noProdModalUpdateAddress">
-		To change your address <a href="javascript: void updateAddressBox()">Click Here</a>
+		To change your address <a id="update_Box" href="javascript: void updateAddressBox()">Click Here</a>
 	    </div>
 	
 	<br>
 	 <div id="resultsListOtherProductsMessage">
-        <h4>
+        <div>
 	    	
 										
 				  
@@ -1827,15 +1921,15 @@ background: url('/_ui/allconnect/images/layout/addressmodal2.jpg') center center
 					
 				
 			
-	</h4>
+	</div>
 	</div>
 	<div id="bottomBlock">
 	 <div id="callMessaging">
-    <h3>Need Help Ordering?</h3>
-    <h4> 
+    <span class="callMessagingTitle">Need Help Ordering?</span>
+      <div class="modalPhone">
 		<div class="content">Call</div>
 	
-	<font color="" #0096d6""="">1-866-397-2853</font> </h4>
+	<span class="phoneNumber">1-888-590-0761</span> </div>
     </div>
 
 		
@@ -1877,7 +1971,7 @@ background: url('/_ui/allconnect/images/layout/addressmodal2.jpg') center center
 	<div id="checkAvailabilityModalET" style="height: 300px">
 
 		<div id="checkAvailabilityMessageET">
-			<h1>Check Availability</h1>
+			<strong class="modalTitle">Check Availability</strong>
 		</div>
 
 		<div id="checkAvailabilityZipDivET">
@@ -1922,11 +2016,12 @@ background: url('/_ui/allconnect/images/layout/addressmodal2.jpg') center center
 <div id="estimateBillModalContent" style="height: auto; width: 670px; background-color: #dcdcdc;">
 	<div id="otherCategoryModal" style="height: 300px">
 		<div id="checkAvailabilityMessage">
-			<h1>Estimate Your Monthly Usage Cost</h1>
+			<div class="modalTitle">Estimate Your Monthly Usage Cost</div>
 			<div id="estimateSecondaryMsg">Estimate your monthly usage cost based on the plan you have selected</div>
 			<div id="estimateTertiaryMsgBG">
-				<div id="estimateTertiaryTxt">*Usage cost calculator is just an estimate and does not include any other TDSP charges, provider fees, taxes, etc. <br>For More Details on How to Read Your Electricity Bill, <a href="/information/How-to-Read-Your-Electricity-Bill">CLICK HERE </a></div>
-				
+				<div id="estimateTertiaryTxt">					
+					estimatebill.howtoread.message
+				</div>
 			</div>
 		</div>
 		
@@ -1941,9 +2036,9 @@ background: url('/_ui/allconnect/images/layout/addressmodal2.jpg') center center
 				</div>	
 							
  				<div id="estimateUsageScenarios">
-					<p id="lowUsageScenario">LOW USAGE <small>(Under 1000kWh Usage)</small></p>
-					<p id="averageUsageScenario">AVERAGE USAGE<small>(1000 - 1999kWh Usage)</small></p>
-					<p id="highUsageScenario">HIGH USAGE <small>(2000+ kWh Usage)</small></p>
+					<p id="lowUsageScenario">LOW USAGE <small>(500 kWh based Rate)</small></p>
+					<p id="averageUsageScenario">AVERAGE USAGE<small>(1000 kWh based Rate)</small></p>
+					<p id="highUsageScenario">HIGH USAGE <small>(2000 kWh based Rate)</small></p>
 				</div>				
 			</div>				
 		</div>
@@ -1954,24 +2049,24 @@ background: url('/_ui/allconnect/images/layout/addressmodal2.jpg') center center
       
   <link rel="canonical" href="/corporate/privacy"> 
   <link rel="shortlink" href="/node/9">   
-  <style type="text/css" media="all">@import url("http://content.whitefence.com/modules/system/system.base.css?nme0bf");
-@import url("http://content.whitefence.com/modules/system/system.menus.css?nme0bf");
-@import url("http://content.whitefence.com/modules/system/system.messages.css?nme0bf");
-@import url("http://content.whitefence.com/modules/system/system.theme.css?nme0bf");</style> 
-  <style type="text/css" media="all">@import url("http://content.whitefence.com/modules/comment/comment.css?nme0bf");
-@import url("http://content.whitefence.com/modules/field/theme/field.css?nme0bf");
-@import url("http://content.whitefence.com/modules/node/node.css?nme0bf");
-@import url("http://content.whitefence.com/modules/search/search.css?nme0bf");
-@import url("http://content.whitefence.com/modules/user/user.css?nme0bf");</style> 
-  <style type="text/css" media="all">@import url("http://content.whitefence.com/sites/all/modules/ctools/css/ctools.css?nme0bf");
-@import url("http://content.whitefence.com/sites/all/modules/panels/css/panels.css?nme0bf");
-@import url("http://content.whitefence.com/sites/all/themes/whitefence/css/polyglot-language-switcher.css?nme0bf");
-@import url("http://content.whitefence.com/sites/all/themes/whitefence/css/flexslider.css?nme0bf");
-@import url("http://content.whitefence.com/sites/all/themes/whitefence/css/mediaelementplayer.css?nme0bf");
-@import url("http://content.whitefence.com/sites/all/themes/whitefence/css/shortcodes.css?nme0bf");
-@import url("http://content.whitefence.com/sites/all/themes/whitefence/style.css?nme0bf");
-@import url("http://content.whitefence.com/sites/all/themes/whitefence/css/whitefence.css?nme0bf");
-@import url("http://content.whitefence.com/sites/all/themes/whitefence/css/colors/blue.css?nme0bf");</style> 
+  <style type="text/css" media="all">@import url("http://content.whitefence.com/modules/system/system.base.css?nwxsx9");
+@import url("http://content.whitefence.com/modules/system/system.menus.css?nwxsx9");
+@import url("http://content.whitefence.com/modules/system/system.messages.css?nwxsx9");
+@import url("http://content.whitefence.com/modules/system/system.theme.css?nwxsx9");</style> 
+  <style type="text/css" media="all">@import url("http://content.whitefence.com/modules/comment/comment.css?nwxsx9");
+@import url("http://content.whitefence.com/modules/field/theme/field.css?nwxsx9");
+@import url("http://content.whitefence.com/modules/node/node.css?nwxsx9");
+@import url("http://content.whitefence.com/modules/search/search.css?nwxsx9");
+@import url("http://content.whitefence.com/modules/user/user.css?nwxsx9");</style> 
+  <style type="text/css" media="all">@import url("http://content.whitefence.com/sites/all/modules/ctools/css/ctools.css?nwxsx9");
+@import url("http://content.whitefence.com/sites/all/modules/panels/css/panels.css?nwxsx9");
+@import url("http://content.whitefence.com/sites/all/themes/whitefence/css/polyglot-language-switcher.css?nwxsx9");
+@import url("http://content.whitefence.com/sites/all/themes/whitefence/css/flexslider.css?nwxsx9");
+@import url("http://content.whitefence.com/sites/all/themes/whitefence/css/mediaelementplayer.css?nwxsx9");
+@import url("http://content.whitefence.com/sites/all/themes/whitefence/css/shortcodes.css?nwxsx9");
+@import url("http://content.whitefence.com/sites/all/themes/whitefence/style.css?nwxsx9");
+@import url("http://content.whitefence.com/sites/all/themes/whitefence/css/whitefence.css?nwxsx9");
+@import url("http://content.whitefence.com/sites/all/themes/whitefence/css/colors/blue.css?nwxsx9");</style> 
   <style type="text/css">
       body{
 
@@ -2113,9 +2208,11 @@ background: url('/_ui/allconnect/images/layout/addressmodal2.jpg') center center
 
  
 
- 
+ 	
 
-	<script type="text/javascript">
+
+	
+		<script type="text/javascript">
 function loadVeriSign(){
 		document.getElementById("iconVeriSign").src="https://seal.verisign.com/getseal?host_name=www.whitefence.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en";
 	}
@@ -2215,7 +2312,7 @@ function loadVeriSign(){
 
 
 
-<a href="/ordertracking" name="Order Status" target="">Order Status</a></li>
+<a href="/searchOrder" name="Order Status" target="">Order Status</a></li>
 							<li class="Fc right_col">
 									
 
@@ -2269,6 +2366,7 @@ function loadVeriSign(){
 		
     </div>
 
+	
 
 
 
@@ -2289,30 +2387,27 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 	track_s = ""
 	s = ""
 </script>
+
+
      
 <!-- End Visual Website Optimizer Asynchronous Code -->
-<!--  Blue Lithium -->
-<!-- <img src="http://ads.bluelithium.com/pixel?id=1446471&amp;t=2" width="1" height="1" alt="blueLithium"> -->
-
-
-<!--doublePositive FBX Bid Tag-->
-<!-- <iframe src="https://bid-tag.com/Ads/6-0-2903" frameborder="0" scrolling ="n" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" allowtransparency="true" width="1" height="1"></iframe>
- -->
-<!--Acquire Bid-tag-->
-<!-- <iframe src="//bid-tag.com/Ads/6-0-2903" frameborder="0" scrolling ="n" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" allowtransparency="true" width="1" height="1"></iframe>
- -->
 <!-- SiteCatalyst code version: H.24.1.
 Copyright 1996-2011 Adobe, Inc. All Rights Reserved
 More info available at http://www.omniture.com -->
 
 <script type="text/javascript">
-		s.pageName="www.whitefence.com-corporate-privacy"
-		homePage="corporateprivacy";
-		s.events=""
-		s.products=""
-		s.purchaseID=""
+		var track_pagename;
+		track_pagename="www.whitefence.com-corporate-privacy"
+		homePage="corporateprivacy";		
 	</script>
-	 <script language="JavaScript" type="text/javascript"><!--
+	 <script type="text/javascript">
+		
+		var track_product1 = "";
+		
+		track_product1=""
+	</script>
+
+<script language="JavaScript" type="text/javascript"><!--
 	/* You may give each page an identifying name, server, and channel on
 	the next lines. */
 	var track_service_street = "";
@@ -2334,12 +2429,12 @@ More info available at http://www.omniture.com -->
 	var track_site_subdomain = "";
 	var track_property_id = "";
 	var track_property_name = "";
+	var track_partnerId = "";
+	var track_partnerName = "";
+	var track_regionId = "";
 	
 	track_service_zip="20146"
 	
-	s.server=""
-	s.channel=""
-	s.pageType=""
 	track_server_name="www.whitefence.com"
 	
 		track_updated_zip = "";
@@ -2349,34 +2444,37 @@ More info available at http://www.omniture.com -->
 		track_service_city="Ashburn "
 		track_service_state="VA"
 		track_service_zip="20146"
-		track_phone_number="1-866-397-2853"	
+		track_phone_number="1-888-590-0761"	
 		
 			track_updated_zip= "Assumed";
 		
-		
+	
+	/*Optimizely Variables*/
+	var track_optimizely = "";
+	
 	/* Conversion Variables */
-		s.campaign="defaultMRC"
-		s.state="VA"
-		s.zip="20146"
+	var track_conversion_compaign = "";
+	var track_conversion_state = "";
+	var track_conversion_zip = "";
+	
+		track_conversion_compaign="defaultMRC"
+		track_conversion_state="VA"
+		track_conversion_zip="20146"
 		track_server_name="www.whitefence.com"
-		s.eVar2=""
-		s.eVar3=""
-		s.eVar4=""
 		
 		track_ntt=""
-	
-	
-	/* Variables for property */
 		
-			if(false){
-				track_property_id=""
-				track_property_name=""
-				track_site_subdomain="null"
-			}
-		
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+	/* Variavles for Property */
 var s_code="";if(s_code)document.write(s_code)//--></script>
-<script language="JavaScript" type="text/javascript"><!--
+<script type="text/javascript">
+			track_property_id = ""
+			track_property_name = ""
+			track_site_subdomain = "0"
+			track_partnerId = "";
+			track_partnerName = "";
+			track_regionId = "";
+		</script>
+	<script language="JavaScript" type="text/javascript"><!--
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
 //--></script><noscript><img src="http://whitefence.112.2o7.net/b/ss/pcwhitefencecom/1/H.24.1--NS/0"
 height="1" width="1" border="0" alt="" /></noscript>
@@ -2391,7 +2489,7 @@ height="1" width="1" border="0" alt="" /></noscript>
 	
 	<!--[if lt IE 9]>
 	 		 <script type="text/javascript">
-	  		var sessionNumber = '1-866-397-2853';
+	  		var sessionNumber = '1-888-590-0761';
 			$(document).ready(function(){
 				$( ".ResultsList #selectConfigure").each(function() {
 				  $(this).replaceWith( '<span class="phoneOnlyCTA">'+sessionNumber+'</span>' );
@@ -2415,15 +2513,26 @@ height="1" width="1" border="0" alt="" /></noscript>
 	
 </div>
 		</div>
-	<!-- Marchex Script -->
+	
 
-<!-- start number replacer --> 
-<script type="text/javascript"><!--
-vs_account_id      = "CtjSZVQYhEk9iwBC";
-//--></script>
-<script type="text/javascript" src="//adtrack.voicestar.com/euinc/number-changer.js?vskeywords=mchxkw">
-</script>
-<!-- end ad widget -->
-<script type="text/javascript">_satellite.pageBottom();</script> 
 
+
+	
+	
+	
+	
+	
+	
+		
+		
+
+
+<script type="text/javascript">
+	if (typeof(_satellite) !== 'undefined') {
+		_satellite.pageBottom();
+	}
+	</script> 
+
+<!-- page  :119 ms -->
+<!-- total :229 ms -->
 </div></body></html>
