@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gradeconnect.com privacy policy that was archived on 2014-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141006035655id_/http%3A//www.gradeconnect.com/front/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gradeconnect.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109042235id_/http%3A//www.gradeconnect.com/front/privacy.php) for the most accurate reproduction.*
 
 # GradeConnect... Learning just got easier!
 
