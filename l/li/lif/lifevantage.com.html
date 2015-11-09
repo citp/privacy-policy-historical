@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the lifevantage.com privacy policy that was archived on 2015-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150619004611id_/http%3A//www.lifevantage.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lifevantage.com privacy policy that was archived on 2015-11-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151109042217id_/http%3A//www.lifevantage.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
 		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwIPUVFUGwECVlZVBQQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===f.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=u.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:f,features:{}};u.addEventListener?(u.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(u.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
-		<meta name="google-site-verification" content="mhbqj8XIy7EkWX0eqgNkvEzbKianPMiItcYQ2E4Hntk">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwIPUVFUGwECVlZVBQQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:22,ee:"QJf3ax"}],8:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
+		<meta name="google-site-verification" content="q_G8KJJBq1BIDD8ocTG4yrhk0HjfKmZ2zy52APH-084"> <!-- Webmaster Tools -->
 		<title>Privacy Policy | LifeVantage US</title>
 		<meta name="description" content="">
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no, maximum-scale=1">
@@ -31,13 +31,14 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="lifevantage-jquery-ui-css" href="http://www.lifevantage.com/wp-content/themes/lifevantage/css/smoothness/jquery-ui.min.css?ver=1375636024" type="text/css" media="only screen">
-<link rel="stylesheet" id="lifevantage-combined-css" href="http://www.lifevantage.com/wp-content/themes/lifevantage/css/combined.min.css?ver=1433798571" type="text/css" media="all">
-<link rel="stylesheet" id="lifevantage-style-css" href="http://www.lifevantage.com/wp-content/themes/lifevantage/style.css?ver=1426194840" type="text/css" media="all">
+<link rel="stylesheet" id="lifevantage-jquery-ui-css" href="http://www.lifevantage.com/wp-content/themes/lifevantage/css/smoothness/jquery-ui.min.css?ver=1441838127" type="text/css" media="only screen">
+<link rel="stylesheet" id="lifevantage-font-quarto-css" href="//cloud.typography.com/7804074/797308/css/fonts.css?ver=4.2.1" type="text/css" media="all">
+<link rel="stylesheet" id="lifevantage-combined-css" href="http://www.lifevantage.com/wp-content/themes/lifevantage/css/combined.min.css?ver=1446854360" type="text/css" media="all">
+<link rel="stylesheet" id="lifevantage-style-css" href="http://www.lifevantage.com/wp-content/themes/lifevantage/style.css?ver=1441838129" type="text/css" media="all">
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 <script type="text/javascript" src="http://www.lifevantage.com/wp-content/themes/lifevantage/js/vendor/modernizr-2.6.2.min.js?ver=2.6.2"></script>
-<script type="text/javascript" src="http://www.lifevantage.com/wp-content/themes/lifevantage/js/vendor/jquery-ui.min.js?ver=1373927393"></script>
-<script type="text/javascript" src="http://www.lifevantage.com/wp-content/themes/lifevantage/js/plugins.js?ver=1428698561"></script>
+<script type="text/javascript" src="http://www.lifevantage.com/wp-content/themes/lifevantage/js/vendor/jquery-ui.min.js?ver=1441838129"></script>
+<script type="text/javascript" src="http://www.lifevantage.com/wp-content/themes/lifevantage/js/app.min.js?ver=1445716069"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.lifevantage.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.lifevantage.com/wp-includes/wlwmanifest.xml"> 
 <meta name="generator" content="WordPress 4.2.1">
@@ -46,144 +47,224 @@ img.emoji {
 <!-- <meta name="vfbPro" version="2.5" /> -->
 
 		<!--<script>window.jQuery || document.write('<script src="http://www.lifevantage.com/wp-content/themes/lifevantage/js/vendor/jquery-1.7.1.min.js"><\/script>')</script>-->
-		<script src="http://www.lifevantage.com/wp-content/themes/lifevantage/js/main.js?ver=20140507"></script>
 	</head>
 	<body id="lfvn" ontouchstart="" class="page page-id-30 page-template-default custom-background-empty">
 		<div class="container">
-			
+
 			<!--[if lt IE 7]>
 				<p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
 			<![endif]-->
+
 			
-			<nav id="navigation" class="mobile slide">
-	<ul class="first scroll">
-		<li><a href="http://www.lifevantage.com">Home</a></li>
-		<li><a href="/opportunity/">Opportunity</a></li>		<li>
-			<a href="/products/">Products</a>
-			<ul class="second">
-				<li><a href="/products/protandim/">Protandim<sup>®</sup></a></li>				<li><a href="/products/axio/">Axio</a></li>				<li><a href="/products/truescience/">TrueScience</a></li>				<li><a href="/products/canine-health/">Canine Health</a></li>			</ul>
-		</li>
-		<li><a href="/science/">Science</a></li>		<li>
-			<a href="/company/">Company</a>
-			<ul class="second">
+<div id="pre_header">
+	<div class="country_nav">
+	<div class="current">Country</div>
+	<nav class="menu">
+		<div class="wrapper">
+			<div class="header">Country</div>
+			<a class="aus" href="http://au.lifevantage.com">Australia</a>
+			<a class="can" href="http://ca-en.lifevantage.com">Canada (English)</a>
+						<a class="hon" href="http://hk-ch.lifevantage.com">香港</a>
+			<a class="hon" href="http://hk-en.lifevantage.com">Hong Kong (English)</a>
+			<a class="jap" href="http://jp.lifevantage.com">日本</a>
+			<a class="mex" href="http://mx.lifevantage.com">México</a>
+			<a class="tha" href="http://th-en.lifevantage.com">Thailand (English)</a>
+			<a class="tha" href="http://th-th.lifevantage.com">ประเทศไทย</a>
+			<a class="usa" href="http://www.lifevantage.com">United States</a>
+			<a class="usa" href="http://us-es.lifevantage.com">Estados Unidos (Español)</a>
+		</div>
+	</nav>
+</div>
+	<div class="divider left"></div>
+	<div class="distributor_nav">
+		<div class="title">Distributors</div>
+		<div class="menu">
+			<div class="wrapper">
+				<div class="user_nav">
+	<a href="http://lifevantage.myvoffice.com/">Login</a>
+	<a href="https://beta-lifevantage.myvoffice.com/Application/index.cfm">Join Us</a>
+</div>
+				<div class="resources_nav">
+	<div class="group has-children">
+		<div class="header">Events</div>
+		<ul class="group_nav">
+			<li><a href="/upcoming-events/">Upcoming Events</a></li>			<li><a href="https://registration.lifevantage.com/Registration/Events?lang=en-US">Event Registration</a></li>			<li><a href="http://bigbluecalendar.mhsoftware.com">Big Blue Calendar</a></li>			<li><a href="/master-track-events-pass/">Master Track Events Pass</a></li>		</ul>
+	</div>
+	<div class="group has-children">
+		<div class="header">Media</div>
+		<ul class="group_nav">
+			<li><a href="/news-center/">News Center</a></li>			<li><a href="/live-webinars/">LifeVantage Video</a></li>			<li><a href="http://www.lvnmedia.com">LVN Media</a></li>		</ul>
+	</div>
+	<div class="group has-children">
+		<div class="header">Distributor Info</div>
+		<div class="group_nav">
+			<li><a href="http://www.lifevantageuniversity.com">LifeVantage University</a></li>							<li><a href="http://www.lvnmedia.com/join-lifevantage/meet-our-top-achievers/master-pro-10/">Recognition</a></li>						<li><a href="https://apps.lifevantage.com/topenrollers">Top Enrollers</a></li>			<li><a href="/faqs/">FAQs</a></li>		</div>
+	</div>
+</div>
+				<div class="gene"></div>
+			</div>
+		</div>
+	</div>
+	<!-- <div class="divider right"></div> -->
+		<div class="divider right"></div>
+</div>
+<!-- /#pre-header -->
+
+<div id="condensed_nav_drawer">
+	<div class="pre">
+		<div class="country_nav">
+	<div class="current">Country</div>
+	<nav class="menu">
+		<div class="wrapper">
+			<div class="header">Country</div>
+			<a class="aus" href="http://au.lifevantage.com">Australia</a>
+			<a class="can" href="http://ca-en.lifevantage.com">Canada (English)</a>
+						<a class="hon" href="http://hk-ch.lifevantage.com">香港</a>
+			<a class="hon" href="http://hk-en.lifevantage.com">Hong Kong (English)</a>
+			<a class="jap" href="http://jp.lifevantage.com">日本</a>
+			<a class="mex" href="http://mx.lifevantage.com">México</a>
+			<a class="tha" href="http://th-en.lifevantage.com">Thailand (English)</a>
+			<a class="tha" href="http://th-th.lifevantage.com">ประเทศไทย</a>
+			<a class="usa" href="http://www.lifevantage.com">United States</a>
+			<a class="usa" href="http://us-es.lifevantage.com">Estados Unidos (Español)</a>
+		</div>
+	</nav>
+</div>
+	</div>
+	<div class="main">
+		<div class="user_nav">
+	<a href="http://lifevantage.myvoffice.com/">Login</a>
+	<a href="https://beta-lifevantage.myvoffice.com/Application/index.cfm">Join Us</a>
+</div>
+		<div class="group">
+			<a href="http://www.lifevantage.com" class="header">Home</a>
+		</div>
+		<div class="group has-children">
+			<div class="header">Products</div>
+			<ul class="group_nav">
+				<li><a href="/products/">Products Overview</a></li>
+          				<li><a href="/products/protandim/">Protandim<sup>®</sup></a></li>
+                  				<li><a href="/products/axio/">Axio</a></li>
+                  				<li><a href="/products/truescience/">TrueScience</a></li>
+                  				<li><a href="/products/canine-health/">Canine Health</a></li>
+        			</ul>
+		</div>
+		<div class="group">
+			<a href="/science/" class="header">Science</a>
+		</div>
+		<div class="group has-children">
+			<div class="header">Company</div>
+			<ul class="group_nav">
+				<li><a href="/company/">Company Overview</a></li>
 				<li><a href="/corporate-blog/">Blog</a></li>				<li><a href="/upcoming-events/">Upcoming Events</a></li>				<li><a href="/company/management-team/">Management Team</a></li>				<li><a href="/company/lifevantage-lifestories/">LifeVantage LifeStories</a></li>				<li><a href="//investor.lifevantage.com">Investor Relations</a></li>				<li><a href="/company/lifevantage-legacy/">LifeVantage Legacy</a></li>				<li><a href="/company/careers/">Careers</a></li>								<li><a href="/company/contact-us/">Contact Us</a></li>			</ul>
-		</li>		<li>
-			<a>Resources</a><!-- resources -->
-			<ul class="second">
-				<li><a href="http://www.lifevantage.com/wp-content/uploads/2013/06/Application_Distributor_USA_2015.04.07.pdf">Distributor Enrollment Form</a></li>				<li><a href="http://www.lifevantage.com/wp-content/uploads/2013/06/Application_PreferredCustomer_USA_2015.04.07.pdf">Preferred Customer Enrollment Form</a></li>				<li><a href="http://www.lifevantage.com/wp-content/uploads/2013/06/US-Compensation-Plan-Highlights-V.02.pdf">Compensation Plan</a></li>				<li><a href="http://www.lifevantage.com/wp-content/uploads/2013/06/2015.04.01-PPs_USA.pdf">Policies &amp; Procedures</a></li>				<!-- repeater field is here if needed -->
-								<li><a href="http://www.lifevantage.com/wp-content/uploads/2013/06/LifeVantage-Earnings-Claim-Statement-V.04.pdf">Earnings Claim Statement</a></li>
-												<li><a href="/suppliers/">Supplier Information</a></li>			</ul>
-		</li>
-		<li><a href="http://cart.lifevantage.com/product">Shop</a></li>		<li><a href="https://www.iact1.com/lifevantage/Application/Apply.cfm?EnrollerID=2&amp;Theme=DefaultTheme&amp;ReturnURL=www.lifevantage.com/2&amp;LNG=en_lvg&amp;COUNTRY=USA&amp;iact=1">Join Us</a></li>
-		<li class="parent login">
-			<a href="http://info.lifevantage.com/index.cfm">Distributor Portal</a>
-			<ul class="second">
-				<li><a href="http://info.lifevantage.com/index.cfm">Virtual Office</a></li>
-				<li><a href="https://beta-lifevantage.myvoffice.com"><strong>EVO</strong> <sup class="text_normal"><em>beta</em></sup> Login</a></li>				<li><a href="/activation-rewards/">Activation Rewards Program</a></li>				<li><a href="/master-track-events-pass/">Master Track Events Pass</a></li>				<li><a href="https://apps.lifevantage.com/topenrollers">Top Enrollers</a></li>				<li><a href="/upcoming-events/">Upcoming Events</a></li>				<li><a href="https://registration.lifevantage.com/Registration/Events?lang=en-US">Event Registration</a></li>				<li><a href="/faqs/">FAQs</a></li>				<li><a href="/news-center/">News Center</a></li>									<li><a href="http://www.lvnmedia.com/join-lifevantage/meet-our-top-achievers/master-pro-10/">Recognition</a></li>								<li><a href="http://bigbluecalendar.mhsoftware.com">Big Blue Calendar</a></li>				<li><a href="http://www.lvnmedia.com">LVN Media</a></li>				<li><a href="http://www.lifevantageuniversity.com">LifeVantage University</a></li>				<li><a href="/live-webinars/">LifeVantage Video</a></li>			</ul>
-		</li>
-		<li class="parent country">
-			<a>Country</a>
-			<ul class="second">
-				<li class="aus"><a href="http://au.lifevantage.com">Australia</a></li>
-				<li class="can"><a href="http://ca-en.lifevantage.com">Canada (English)</a></li>
-								<li class="hon"><a href="http://hk-ch.lifevantage.com">香港</a></li>
-				<li class="hon"><a href="http://hk-en.lifevantage.com">Hong Kong (English)</a></li>
-				<li class="jap"><a href="http://jp.lifevantage.com">日本</a></li>
-				<li class="mex"><a href="http://mx.lifevantage.com">México</a></li>
-				<li class="tha"><a href="http://th-en.lifevantage.com">Thailand (English)</a></li>
-				<li class="tha"><a href="http://th-th.lifevantage.com">ประเทศไทย</a></li>
-				<li class="usa"><a href="http://www.lifevantage.com">United States</a></li>
-				<li class="usa"><a href="http://us-es.lifevantage.com">Estados Unidos (Español)</a></li>
-			</ul>
-		</li>
-	</ul>
-</nav><!-- /mobile slide_panel -->
+		</div>
+		<div class="group">
+			<a href="/opportunity/" class="header">Opportunity</a>
+		</div>
+				<div class="group">
+			<a href="http://cart.lifevantage.com/product" class="header">Shop</a>
+		</div>
+				<div class="resources_nav">
+	<div class="group has-children">
+		<div class="header">Events</div>
+		<ul class="group_nav">
+			<li><a href="/upcoming-events/">Upcoming Events</a></li>			<li><a href="https://registration.lifevantage.com/Registration/Events?lang=en-US">Event Registration</a></li>			<li><a href="http://bigbluecalendar.mhsoftware.com">Big Blue Calendar</a></li>			<li><a href="/master-track-events-pass/">Master Track Events Pass</a></li>		</ul>
+	</div>
+	<div class="group has-children">
+		<div class="header">Media</div>
+		<ul class="group_nav">
+			<li><a href="/news-center/">News Center</a></li>			<li><a href="/live-webinars/">LifeVantage Video</a></li>			<li><a href="http://www.lvnmedia.com">LVN Media</a></li>		</ul>
+	</div>
+	<div class="group has-children">
+		<div class="header">Distributor Info</div>
+		<div class="group_nav">
+			<li><a href="http://www.lifevantageuniversity.com">LifeVantage University</a></li>							<li><a href="http://www.lvnmedia.com/join-lifevantage/meet-our-top-achievers/master-pro-10/">Recognition</a></li>						<li><a href="https://apps.lifevantage.com/topenrollers">Top Enrollers</a></li>			<li><a href="/faqs/">FAQs</a></li>		</div>
+	</div>
+</div>
+		<div class="gene"></div>
+	</div>
+</div>
 
-<div class="slide_panel slide">
-	<header class="clearfix">
-		<div class="desktop site_width clearfix">
-			<a class="f_l logo" href="http://www.lifevantage.com"><img src="//www.lifevantage.com/wp-content/themes/lifevantage/img/lifevantage-logo-header.png?08062014" width="190" height="33" alt="Lifevantage Logo Header"></a>
-
-			<a href="#navigation" id="navToggle" title="Navigation"><span>Navigation</span></a>
-
-			<nav class="primary f_r">
-				<ul class="nav_wrap clearfix text_uppercase">
-					<li class="first">
-						<a class="font_title" href="/opportunity/">Opportunity</a>
-					</li>					<li class="parent meg products">
-						<a class="relative font_title" href="/products/">Products</a>
-						<div class="menu radius_1_b">
-							<ul class="site_widt clearfix">
-								<li class="col_1_4 f_l protan clearfix">
-									<a href="/products/protandim/">
-										<span class="large font_title text_uppercase l_h_1">Protandim<sup>®</sup></span>
-										<p>Reduce oxidative stress an average of 40% in 30 days</p>
-									</a>
-								</li>								<li class="col_1_4 f_l axio clearfix">
-									<a href="/products/axio/">
-										<span class="large font_title text_uppercase l_h_1">Axio</span>
-										<p>Guilt-free physical &amp; mental energy</p>
-									</a>
-								</li>								<li class="col_1_4 f_l truesc clearfix">
-									<a href="/products/truescience/">
-										<span class="large font_title text_uppercase l_h_1">TrueScience</span>
-										<p>Visibly younger looking skin in 28 days</p>
-									</a>
-								</li>								<li class="col_1_4 f_l canine clearfix">
-									<a href="/products/canine-health/">
-										<span class="large font_title text_uppercase l_h_1">Canine Health</span>
-										<p>Formulated to reduce oxidative stress in your dog</p>
-									</a>
-								</li>							</ul>
+<div id="shiftable">
+	<header id="header">
+		<div id="condensed_nav">
+			<div class="bar filled">
+				<div class="content_wrapper">
+					<div class="toggle">
+						<span>Open Menu</span>
+					</div>
+					<div class="logo">
+						<a href="http://www.lifevantage.com">LifeVantage</a>
+						<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 140 25" enable-background="new 0 0 140 25"><g><g><path d="M2.48322,0.64838H0.00018v18.15448H9.0741V16.2901H2.48322V0.64838z M11.4834,18.80286h2.39569V8.58099 H11.4834V18.80286z M11.4834,6.75378h2.39569V4.2309H11.4834V6.75378z M29.2691,5.20837 c-3.73608,0-6.77869,3.10883-6.77869,6.93231c0,3.8241,3.0426,6.93457,6.77869,6.93457c1.80261,0,3.49811-0.71869,4.77472-2.02429 l0.1911-0.18939l-1.65875-1.69446l-0.18756,0.18268c-0.8645,0.85657-1.97021,1.3252-3.11951,1.3252 c-2.04413,0-3.84668-1.46588-4.31909-3.46271h11.0473l0.02679-0.24323c0.02692-0.30078,0.02692-0.5329,0.02692-0.83447 C35.94031,8.18365,33.02179,5.20837,29.2691,5.20837z M24.95001,11.10059c0.47241-2.01318,2.2785-3.4942,4.31909-3.4942 c2.0473,0,3.85321,1.48102,4.32581,3.4942H24.95001z M136.521,12.02167c-1.93298,0-3.50092,1.56549-3.50092,3.49335 c0,1.922,1.56793,3.48218,3.50092,3.48218c1.91089,0,3.47882-1.56018,3.47882-3.48218 C139.99982,13.58716,138.43188,12.02167,136.521,12.02167z M136.521,18.3219c-1.466,0-2.65472-1.17804-2.65472-2.80688 c0-1.63293,1.18872-2.81622,2.65472-2.81622c1.45868,0,2.64008,1.18329,2.64008,2.81622 C139.16107,17.14386,137.97968,18.3219,136.521,18.3219z M138.10339,14.67957c0-0.83386-0.5249-1.15417-1.4657-1.15417h-1.4588 v3.9444h0.72211v-1.7019h0.44501l1.02136,1.7019h0.7652l-1.06445-1.72168 C137.71722,15.68628,138.10339,15.35327,138.10339,14.67957z M135.901,15.21289V14.0788h0.65668 c0.37891,0,0.80969,0.08368,0.80969,0.5426c0,0.53851-0.37219,0.59149-0.80969,0.59149H135.901z M20.68439,0.54016 c-2.20471,0-3.74622,1.6731-3.74622,4.06842l0.00354,1.24402H15.9599v2.7027h0.98499l0.02362,10.24756h2.41931V8.5553h2.06738 V5.8526h-2.06738V5.78241L19.3642,4.60858c0-0.9165,0.62329-1.55737,1.5213-1.55737c0.104,0,0.24463,0,0.3786,0.04468 l0.34167,0.11627V0.79309L21.46509,0.7168C21.16693,0.56519,20.84851,0.54016,20.68439,0.54016z M72.3028,5.31891 c-1.82611,0-3.53839,0.51227-4.66089,1.38V5.6496h-1.25323v13.17706h1.25323V8.51178 c0.57288-1.23639,2.43939-2.06281,4.66089-2.06281c2.34552,0,4.11481,1.2796,4.11481,2.97949v9.39819h1.24628V9.42847 C77.66388,7.04791,75.4054,5.31891,72.3028,5.31891z M84.42249-0.00012h-1.23981v5.65393h-3.05579v1.26538h3.05579v11.90747 h1.23981V6.91919h3.33392V5.65381h-3.33392V-0.00012z M98.48547,6.40588c-1.10565-0.758-2.41248-1.15552-3.80627-1.15552 c-3.77649,0-6.84558,3.12604-6.84558,6.974c0,3.86029,3.06909,7.00421,6.84558,7.00421c1.38379,0,2.69061-0.40778,3.80627-1.18311 v0.78119h1.23993V5.65381h-1.23993V6.40588z M98.48547,16.4198c-1.13239,1.03729-2.37897,1.5412-3.80627,1.5412 c-3.07611,0-5.57922-2.5744-5.57922-5.73663c0-3.14899,2.50311-5.70959,5.57922-5.70959c1.3938,0,2.64038,0.5072,3.80627,1.54633 V16.4198z M113.22888,6.40588c-1.10907-0.758-2.4126-1.15552-3.80658-1.15552c-3.77612,0-6.84552,3.12604-6.84552,6.974 c0,3.86029,3.0694,7.00421,6.84552,7.00421c1.38062,0,2.6875-0.40778,3.80658-1.18311v1.50873 c0,2.57849-1.50458,4.18048-3.91699,4.18048c-0.1944,0-0.3653,0-0.72711-0.05219l-0.54266-0.08148v1.24469l0.37506,0.08569 c0.30151,0.06866,0.7038,0.06866,0.89471,0.06866c3.133,0,5.1568-2.13739,5.1568-5.44586V5.65381h-1.23981V6.40588z M113.22888,16.4198c-1.13257,1.03729-2.37897,1.5412-3.80658,1.5412c-3.07928,0-5.58228-2.5744-5.58228-5.73663 c0-3.14899,2.50299-5.70959,5.58228-5.70959c1.39398,0,2.63721,0.5072,3.80658,1.54633V16.4198z M124.16229,5.25037 c-3.77289,0-6.8454,3.12604-6.8454,6.974c0,3.86029,3.07251,7.00421,6.8454,7.00421c1.8161,0,3.52838-0.72729,4.8219-2.04828 l0.33502-0.34521l-0.87122-0.89081l-0.33838,0.3443c-1.05554,1.07843-2.45953,1.67242-3.94733,1.67242 c-2.88831,0-5.2337-2.16333-5.54858-5.07599h12.39746v-0.66064C131.01117,8.3764,127.93872,5.25037,124.16229,5.25037z M118.61011,11.62061c0.28491-2.92651,2.63379-5.10583,5.55219-5.10583c2.86511,0,5.25739,2.22382,5.55231,5.10583H118.61011z M61.67102,6.39825c-1.10602-0.75476-2.40942-1.1521-3.8031-1.1521c-3.77643,0-6.85254,3.13025-6.85254,6.97821 c0,3.86279,3.07611,7.00592,6.85254,7.00592c1.36017,0,2.69391-0.41809,3.8031-1.17889v0.77527h1.24628V5.6496h-1.24628V6.39825z M61.67102,16.41595c-1.13281,1.03766-2.37592,1.54315-3.8031,1.54315c-3.07294,0-5.57922-2.57343-5.57922-5.73474 c0-3.1463,2.50629-5.7052,5.57922-5.7052c1.39368,0,2.64026,0.50452,3.8031,1.54462V16.41595z M50.78088,0.9884l-6.5072,14.71429 L37.77991,0.9884h-1.44403l7.93781,17.96246L52.2149,0.9884H50.78088z"></path></g></g></svg>
+					</div>
+									</div>
+			</div>
+		</div>
+		<div id="full_nav" class="filled">
+			<nav class="top_nav">
+				<div class="content_wrapper">
+					<div class="logo filled">
+						<a href="http://www.lifevantage.com">LifeVantage</a>
+						<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 140 25" enable-background="new 0 0 140 25"><g><g><path d="M2.48322,0.64838H0.00018v18.15448H9.0741V16.2901H2.48322V0.64838z M11.4834,18.80286h2.39569V8.58099 H11.4834V18.80286z M11.4834,6.75378h2.39569V4.2309H11.4834V6.75378z M29.2691,5.20837 c-3.73608,0-6.77869,3.10883-6.77869,6.93231c0,3.8241,3.0426,6.93457,6.77869,6.93457c1.80261,0,3.49811-0.71869,4.77472-2.02429 l0.1911-0.18939l-1.65875-1.69446l-0.18756,0.18268c-0.8645,0.85657-1.97021,1.3252-3.11951,1.3252 c-2.04413,0-3.84668-1.46588-4.31909-3.46271h11.0473l0.02679-0.24323c0.02692-0.30078,0.02692-0.5329,0.02692-0.83447 C35.94031,8.18365,33.02179,5.20837,29.2691,5.20837z M24.95001,11.10059c0.47241-2.01318,2.2785-3.4942,4.31909-3.4942 c2.0473,0,3.85321,1.48102,4.32581,3.4942H24.95001z M136.521,12.02167c-1.93298,0-3.50092,1.56549-3.50092,3.49335 c0,1.922,1.56793,3.48218,3.50092,3.48218c1.91089,0,3.47882-1.56018,3.47882-3.48218 C139.99982,13.58716,138.43188,12.02167,136.521,12.02167z M136.521,18.3219c-1.466,0-2.65472-1.17804-2.65472-2.80688 c0-1.63293,1.18872-2.81622,2.65472-2.81622c1.45868,0,2.64008,1.18329,2.64008,2.81622 C139.16107,17.14386,137.97968,18.3219,136.521,18.3219z M138.10339,14.67957c0-0.83386-0.5249-1.15417-1.4657-1.15417h-1.4588 v3.9444h0.72211v-1.7019h0.44501l1.02136,1.7019h0.7652l-1.06445-1.72168 C137.71722,15.68628,138.10339,15.35327,138.10339,14.67957z M135.901,15.21289V14.0788h0.65668 c0.37891,0,0.80969,0.08368,0.80969,0.5426c0,0.53851-0.37219,0.59149-0.80969,0.59149H135.901z M20.68439,0.54016 c-2.20471,0-3.74622,1.6731-3.74622,4.06842l0.00354,1.24402H15.9599v2.7027h0.98499l0.02362,10.24756h2.41931V8.5553h2.06738 V5.8526h-2.06738V5.78241L19.3642,4.60858c0-0.9165,0.62329-1.55737,1.5213-1.55737c0.104,0,0.24463,0,0.3786,0.04468 l0.34167,0.11627V0.79309L21.46509,0.7168C21.16693,0.56519,20.84851,0.54016,20.68439,0.54016z M72.3028,5.31891 c-1.82611,0-3.53839,0.51227-4.66089,1.38V5.6496h-1.25323v13.17706h1.25323V8.51178 c0.57288-1.23639,2.43939-2.06281,4.66089-2.06281c2.34552,0,4.11481,1.2796,4.11481,2.97949v9.39819h1.24628V9.42847 C77.66388,7.04791,75.4054,5.31891,72.3028,5.31891z M84.42249-0.00012h-1.23981v5.65393h-3.05579v1.26538h3.05579v11.90747 h1.23981V6.91919h3.33392V5.65381h-3.33392V-0.00012z M98.48547,6.40588c-1.10565-0.758-2.41248-1.15552-3.80627-1.15552 c-3.77649,0-6.84558,3.12604-6.84558,6.974c0,3.86029,3.06909,7.00421,6.84558,7.00421c1.38379,0,2.69061-0.40778,3.80627-1.18311 v0.78119h1.23993V5.65381h-1.23993V6.40588z M98.48547,16.4198c-1.13239,1.03729-2.37897,1.5412-3.80627,1.5412 c-3.07611,0-5.57922-2.5744-5.57922-5.73663c0-3.14899,2.50311-5.70959,5.57922-5.70959c1.3938,0,2.64038,0.5072,3.80627,1.54633 V16.4198z M113.22888,6.40588c-1.10907-0.758-2.4126-1.15552-3.80658-1.15552c-3.77612,0-6.84552,3.12604-6.84552,6.974 c0,3.86029,3.0694,7.00421,6.84552,7.00421c1.38062,0,2.6875-0.40778,3.80658-1.18311v1.50873 c0,2.57849-1.50458,4.18048-3.91699,4.18048c-0.1944,0-0.3653,0-0.72711-0.05219l-0.54266-0.08148v1.24469l0.37506,0.08569 c0.30151,0.06866,0.7038,0.06866,0.89471,0.06866c3.133,0,5.1568-2.13739,5.1568-5.44586V5.65381h-1.23981V6.40588z M113.22888,16.4198c-1.13257,1.03729-2.37897,1.5412-3.80658,1.5412c-3.07928,0-5.58228-2.5744-5.58228-5.73663 c0-3.14899,2.50299-5.70959,5.58228-5.70959c1.39398,0,2.63721,0.5072,3.80658,1.54633V16.4198z M124.16229,5.25037 c-3.77289,0-6.8454,3.12604-6.8454,6.974c0,3.86029,3.07251,7.00421,6.8454,7.00421c1.8161,0,3.52838-0.72729,4.8219-2.04828 l0.33502-0.34521l-0.87122-0.89081l-0.33838,0.3443c-1.05554,1.07843-2.45953,1.67242-3.94733,1.67242 c-2.88831,0-5.2337-2.16333-5.54858-5.07599h12.39746v-0.66064C131.01117,8.3764,127.93872,5.25037,124.16229,5.25037z M118.61011,11.62061c0.28491-2.92651,2.63379-5.10583,5.55219-5.10583c2.86511,0,5.25739,2.22382,5.55231,5.10583H118.61011z M61.67102,6.39825c-1.10602-0.75476-2.40942-1.1521-3.8031-1.1521c-3.77643,0-6.85254,3.13025-6.85254,6.97821 c0,3.86279,3.07611,7.00592,6.85254,7.00592c1.36017,0,2.69391-0.41809,3.8031-1.17889v0.77527h1.24628V5.6496h-1.24628V6.39825z M61.67102,16.41595c-1.13281,1.03766-2.37592,1.54315-3.8031,1.54315c-3.07294,0-5.57922-2.57343-5.57922-5.73474 c0-3.1463,2.50629-5.7052,5.57922-5.7052c1.39368,0,2.64026,0.50452,3.8031,1.54462V16.41595z M50.78088,0.9884l-6.5072,14.71429 L37.77991,0.9884h-1.44403l7.93781,17.96246L52.2149,0.9884H50.78088z"></path></g></g></svg>
+					</div>
+					<nav class="main">
+						<div class="item">
+							<a href="/products/" class="category products filled">Products</a>
 						</div>
-					</li>
-					<li>
-						<a class="font_title" href="/science/">Science</a>
-					</li>					<li class="parent relative company">
-						<a class="font_title" href="/company/">Company</a>
-						<div class="menu radius_1_b">
-							<ul class="subnav clearfix">
-								<li><a href="/company/">Our Story</a></li>
-								<li><a href="/corporate-blog/">Blog</a></li>								<li><a href="/upcoming-events/">Upcoming Events</a></li>								<li><a href="/company/management-team/">Management Team</a></li>								<li><a href="/company/lifevantage-lifestories/">LifeVantage LifeStories</a></li>								<li><a href="//investor.lifevantage.com">Investor Relations</a></li>								<li><a href="/company/lifevantage-legacy/">LifeVantage Legacy</a></li>								<li><a href="/company/careers/">Careers</a></li>																<li><a href="/company/contact-us/">Contact Us</a></li>							</ul>
+												<div class="item">
+							<a href="/science/" class="category science filled">Science</a>
 						</div>
-					</li>					<li>
-						<a class="font_title" href="http://cart.lifevantage.com/product">Shop</a>
-					</li>					<li>
-						<a class="font_title join" href="https://www.iact1.com/lifevantage/Application/Apply.cfm?EnrollerID=2&amp;Theme=DefaultTheme&amp;ReturnURL=www.lifevantage.com/2&amp;LNG=en_lvg&amp;COUNTRY=USA&amp;iact=1">Join Us</a>
-					</li>
-					<li class="parent relative country">
-						<a class="font_title">Country</a>
-						<div class="menu radius_1_b">
-							<ul class="subnav">
-								<li class="aus"><a href="http://au.lifevantage.com">Australia</a></li>
-								<li class="can"><a href="http://ca-en.lifevantage.com">Canada (English)</a></li>
-																<li class="hon"><a href="http://hk-ch.lifevantage.com">香港</a></li>
-								<li class="hon"><a href="http://hk-en.lifevantage.com">Hong Kong (English)</a></li>
-								<li class="jap"><a href="http://jp.lifevantage.com">日本</a></li>
-								<li class="mex"><a href="http://mx.lifevantage.com">México</a></li>
-								<li class="tha"><a href="http://th-en.lifevantage.com">Thailand (English)</a></li>
-								<li class="tha"><a href="http://th-th.lifevantage.com">ประเทศไทย</a></li>
-								<li class="usa"><a href="http://www.lifevantage.com">United States</a></li>
-								<li class="usa"><a href="http://us-es.lifevantage.com">Estados Unidos (Español)</a></li>
-							</ul>
+												<div class="item">
+							<div class="quick_nav">
+								<a href="/corporate-blog/">Blog</a>								<a href="/upcoming-events/">Upcoming Events</a>								<a href="/company/management-team/">Management Team</a>								<a href="/company/lifevantage-lifestories/">LifeVantage LifeStories</a>								<a href="//investor.lifevantage.com">Investor Relations</a>								<a href="/company/lifevantage-legacy/">LifeVantage Legacy</a>								<a href="/company/careers/">Careers</a>																<a href="/company/contact-us/">Contact Us</a>							</div>
+							<a href="/company/" class="category company filled">Company</a>
 						</div>
-					</li>
-					<li class="last parent meg relative">
-						<a class="login font_title" href="http://info.lifevantage.com/index.cfm">Distributor Portal</a>
-						<div class="menu radius_1_b">
-														<ul class="subnav clearfix">
-								<li><a href="http://info.lifevantage.com/index.cfm">Virtual Office</a></li>
-								<li><a href="https://beta-lifevantage.myvoffice.com"><strong>EVO</strong> <sup class="text_normal"><em>beta</em></sup> Login</a></li>								<li><a href="/activation-rewards/">Activation Rewards Program</a></li>								<li><a href="/master-track-events-pass/">Master Track Events Pass</a></li>								<li><a href="https://apps.lifevantage.com/topenrollers">Top Enrollers</a></li>								<li><a href="/upcoming-events/">Upcoming Events</a></li>								<li><a href="https://registration.lifevantage.com/Registration/Events?lang=en-US">Event Registration</a></li>								<li><a href="/faqs/">FAQs</a></li>								<li><a href="/news-center/">News Center</a></li>																	<li><a href="http://www.lvnmedia.com/join-lifevantage/meet-our-top-achievers/master-pro-10/">Recognition</a></li>																<li><a href="http://bigbluecalendar.mhsoftware.com">Big Blue Calendar</a></li>								<li><a href="http://www.lvnmedia.com">LVN Media</a></li>								<li><a href="http://www.lifevantageuniversity.com">LifeVantage University</a></li>								<li><a href="/live-webinars/">LifeVantage Video</a></li>							</ul>
-											</div></li>
-				</ul>
+												<div class="item">
+							<a href="/opportunity/" class="category opportunity filled">Opportunity</a>
+						</div>
+																		<div class="item">
+							<a href="http://cart.lifevantage.com/product" class="category shop filled">Shop</a>
+						</div>
+											</nav>
+					<nav class="distributor">
+						<a href="https://beta-lifevantage.myvoffice.com/Application/index.cfm">Join Us</a>
+					</nav>
+				</div>
 			</nav>
-
+			<nav class="sub_nav">
+				<div class="content_wrapper">
+          									<a href="/products/protandim">
+							<img src="//www.lifevantage.com/wp-content/themes/lifevantage/img/nav/nav-protandim.jpg" alt="Protandim">
+							<div class="label">
+								<span class="title">Protandim<sup>®</sup></span>
+							</div>
+						</a>
+          			          									<a href="/products/axio/">
+							<img src="//www.lifevantage.com/wp-content/themes/lifevantage/img/nav/nav-axio.jpg" alt="Axio">
+							<div class="label">
+								<span class="title">Axio</span>
+							</div>
+						</a>
+          			          									<a href="/products/truescience/">
+							<img src="//www.lifevantage.com/wp-content/themes/lifevantage/img/nav/nav-truescience.jpg" alt="TrueScience">
+							<div class="label">
+								<span class="title">TrueScience</span>
+							</div>
+						</a>
+																<a href="/products/canine-health/">
+							<img src="//www.lifevantage.com/wp-content/themes/lifevantage/img/nav/nav-canine-health.jpg" alt="Canine Health">
+							<div class="label">
+								<span class="title">Canine Health</span>
+							</div>
+						</a>
+									</div>
+			</nav>
 		</div>
 	</header>
-		
-			<div class="content">
-		
-		
+
+			<div id="page" class="content outset_header">
+
+
 <section class="clearfix" id="invest">
 	<div class="site_width clearfix m_t_5">
 		<div class="col_2_3 left f_l">
@@ -234,133 +315,143 @@ Sandy, UT 84070<br>
 	</div>
 </section>
 
+				</div>
+				<!-- /#page.content -->
 
+				<section id="purpose_statement">
+	<div class="full_bg focus-right-5" data-stellar-ratio=".9"></div>
+	<div class="section_title">Our Purpose</div>
+	<div class="content_wrapper">
+		<div class="wrapper">
+			<div class="video">
+				<a href="https://player.vimeo.com/video/143289884" class="pop_iframe play_video large" data-effect="mfp-fade">Play Video</a>
+			</div>
+			<div class="purpose">
+				<div class="statement">
+					Progress is not essential to the human condition, progress <em>is</em> the human condition.
+				</div>
+				<p class="about">
+					At <span class="bold">Life</span>Vantage curiosity has our attention, science has our back and we recognize–and firmly believe–that your growth is the way of our future.
+				</p>
+				<div class="sub_statement">
+					Find a higher calling with LifeVantage and <strong>Venture Higher</strong><span class="sup">™</span>
+				</div>
+				<div class="controls">
+					<a href="https://beta-lifevantage.myvoffice.com/Application/index.cfm" class="control arrow_link_blue">Join Us</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- /.content_wrapper -->
+</section>
+<!-- /.purpose_statement -->
+				<footer id="footer">
+					
 
-<section class="social_bar">
-	<div class="site_width">
-		<ul class="list_none text_c">
-			<li><a class="pt" title="facebook" href="https://www.facebook.com/LifeVantage"><img src="//www.lifevantage.com/wp-content/themes/lifevantage/img/social/facebook.svg" width="11" height="24"></a></li><!--
-			--><li><a class="pt" title="twitter" href="https://twitter.com/lifevantage"><img src="//www.lifevantage.com/wp-content/themes/lifevantage/img/social/twitter.svg" width="25" height="21"></a></li><!--
-			--><li><a class="pt" title="youtube" href="http://www.youtube.com/lvnmedia"><img src="//www.lifevantage.com/wp-content/themes/lifevantage/img/social/youtube.svg" width="19" height="23"></a></li><!--
-			--><li><a class="pt" title="flickr" href="https://www.flickr.com/photos/130314339@N07/"><img src="//www.lifevantage.com/wp-content/themes/lifevantage/img/social/flickr.svg" width="25" height="12"></a></li><!--
-			--><li><a class="pt" title="pinterest" href="http://www.pinterest.com/lifevantagecorp/"><img src="//www.lifevantage.com/wp-content/themes/lifevantage/img/social/pinterest.svg" width="23" height="23"></a></li><!--
-			--><li><a class="pt" title="instagram" href="http://instagram.com/lifevantage"><img src="//www.lifevantage.com/wp-content/themes/lifevantage/img/social/instagram.svg" width="23" height="23"></a></li><!--
-			--><li><a class="btn blue_2 font_14 text_uppercase m_l_2" href="https://www.iact1.com/lifevantage/Application/Apply.cfm?EnrollerID=2&amp;Theme=DefaultTheme&amp;ReturnURL=www.lifevantage.com/2&amp;LNG=en_lvg&amp;COUNTRY=USA&amp;iact=1">Join Us</a></li>
-		</ul>
+<section class="social_and_sitemap">
+	<div class="content_wrapper">
+		<nav class="sitemap_nav">
+						<div class="group">
+				<h4 class="h7_sans"><a href="/products/">Products</a></h4>
+				<ul class="group_nav">
+					<li class="group_nav_item"><a href="/products/protandim/">Protandim</a></li>					<li class="group_nav_item"><a href="/products/axio/">Axio</a></li>					<li class="group_nav_item"><a href="/products/truescience/">TrueScience</a></li>					<li class="group_nav_item"><a href="/products/canine-health/">Canine Health</a></li>					<li class="group_nav_item"><a href="http://cart.lifevantage.com/product">Buy Products</a></li>				</ul>
+			</div>
+						<div class="group">
+				<h4 class="h7_sans"><a href="/company/">Company</a></h4>
+				<ul class="group_nav">
+					<li class="group_nav_item"><a href="/company/management-team/">Management Team</a></li>						<li class="group_nav_item"><a href="/news-center/">News Center</a></li>												<li class="group_nav_item"><a href="/company/lifevantage-legacy/">LifeVantage Legacy</a></li>						<li class="group_nav_item"><a href="/company/careers/">Careers</a></li>												<li class="group_nav_item"><a href="/faqs/">FAQs</a></li>				</ul>
+			</div>
+						<div class="group">
+				<h4 class="h7_sans">Quick Links</h4>
+				<ul class="group_nav">
+					<li class="group_nav_item"><a href="/opportunity/">Opportunity</a></li>					<li class="group_nav_item"><a href="/science/">Science</a></li>										<li class="group_nav_item"><a href="https://beta-lifevantage.myvoffice.com/Application/index.cfm">Become a Distributor</a></li>
+					<li class="group_nav_item"><a href="http://www.lvnmedia.com">LVN Media</a></li>									</ul>
+			</div>
+						<div class="group">
+				<h4 class="h7_sans">Resources</h4>
+				<ul class="group_nav">
+					<li class="group_nav_item"><a href="http://www.lifevantage.com/wp-content/uploads/2013/06/US-Distributor-App-V.03.pdf">Distributor Enrollment Form</a></li>					<li class="group_nav_item"><a href="http://www.lifevantage.com/wp-content/uploads/2013/06/Application_PreferredCustomer_USA_2015.04.07.pdf">Preferred Customer Enrollment Form</a></li>										<li class="group_nav_item"><a href="http://www.lifevantage.com/wp-content/uploads/2013/06/2015.04.01-PPs_USA.pdf">Policies &amp; Procedures</a></li>					<!-- repeater field is here if needed -->
+										<li class="group_nav_item"><a href="http://www.lifevantage.com/wp-content/uploads/2013/06/LifeVantage-Earnings-Claim-Statement-V.04.pdf">Earnings Claim Statement</a></li>
+															<li class="group_nav_item"><a href="/suppliers/">Supplier Information</a></li>				</ul>
+			</div>
+			<!-- <small>4.2.1</small> -->
+		</nav>
+		<nav class="social_nav">
+			<a href="https://www.facebook.com/LifeVantage">
+				<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 11.1 24.2" enable-background="new 0 0 11.1 24.2"><path d="M7.4,24.2H2.4V12.1H0V7.9h2.4V5.4C2.4,2,3.8,0,7.8,0H11v4.2H9c-1.5,0-1.6,0.6-1.6,1.7l0,2.1h3.7l-0.4,4.2 H7.4V24.2z"></path></svg>
+			</a>
+			<a href="https://twitter.com/lifevantage">
+				<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 25.3 20.9" enable-background="new 0 0 25.3 20.9"><path d="M25.3,2.5c-0.9,0.4-1.9,0.7-3,0.8c1.1-0.7,1.9-1.7,2.3-2.9c-1,0.6-2.1,1-3.3,1.3C20.4,0.6,19,0,17.5,0 c-2.9,0-5.2,2.4-5.2,5.3c0,0.4,0,0.8,0.1,1.2C8.2,6.3,4.3,4.2,1.8,1C1.3,1.7,1.1,2.7,1.1,3.6C1.1,5.4,2,7.1,3.4,8 C2.5,8,1.7,7.7,1,7.3c0,0,0,0,0,0.1c0,2.6,1.8,4.7,4.2,5.2c-0.4,0.1-0.9,0.2-1.4,0.2c-0.3,0-0.7,0-1-0.1c0.7,2.1,2.6,3.6,4.9,3.7 c-1.8,1.4-4,2.3-6.5,2.3c-0.4,0-0.8,0-1.2-0.1c2.3,1.5,5,2.4,8,2.4c9.6,0,14.8-8,14.8-15c0-0.2,0-0.5,0-0.7 C23.8,4.5,24.6,3.5,25.3,2.5z"></path></svg>
+			</a>
+			<a href="http://www.youtube.com/lvnmedia">
+				 <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 23 23" enable-background="new 0 0 23 23"><g><path d="M22.5902,17.0706c-0.26945,1.25746-1.27055,2.18183-2.47748,2.32311 c-2.84986,0.32091-5.73714,0.32091-8.61319,0.32091c-2.87418,0-5.76146,0-8.61132-0.32091 c-1.20693-0.14128-2.20803-1.06565-2.49058-2.32311C0,15.2864,0,13.33566,0,11.5s0-3.7864,0.41073-5.5706 c0.28255-1.25745,1.27055-2.18183,2.47748-2.32311c2.84986-0.32091,5.73714-0.32091,8.61132-0.32091 c2.87605,0,5.76333,0,8.61319,0.32091c1.20693,0.14128,2.20803,1.06565,2.49058,2.32311C23,7.7136,23,9.66434,23,11.5 S23,15.2864,22.5902,17.0706z M16.04471,10.80672l-6.5717-4.10731C9.21665,6.53287,8.8948,6.53287,8.63845,6.67414 C8.38209,6.81542,8.21368,7.09704,8.21368,7.39269v8.21462c0,0.29565,0.16841,0.57727,0.42477,0.71854 c0.12724,0.06456,0.25636,0.10292,0.39857,0.10292c0.15344,0,0.30688-0.03836,0.43599-0.12818l6.5717-4.10731 c0.24326-0.14128,0.3836-0.41073,0.3836-0.69328S16.28796,10.94799,16.04471,10.80672z"></path></g></svg>
+			</a>
+			<a href="https://www.flickr.com/photos/130314339@N07/">
+				 <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 23 23" enable-background="new 0 0 23 23"><g><path d="M23,4.3127v14.37568C23,21.06796,21.06796,23,18.68839,23H4.3127C1.93204,23,0,21.06796,0,18.68839V4.3127 C0,1.93204,1.93204,0,4.3127,0h14.37568C21.06796,0,23,1.93204,23,4.3127z M7.27735,8.32633 c-1.75193,0-3.17422,1.42229-3.17422,3.17422s1.42229,3.17422,3.17422,3.17422s3.17422-1.42229,3.17422-3.17422 S9.02928,8.32633,7.27735,8.32633z M15.72156,8.32633c-1.75084,0-3.17422,1.42229-3.17422,3.17422s1.42338,3.17422,3.17422,3.17422 c1.75303,0,3.1764-1.42229,3.1764-3.17422S17.47459,8.32633,15.72156,8.32633z"></path></g></svg>
+			</a>
+			<a href="http://www.pinterest.com/lifevantagecorp/">
+				<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 23.1 23.1" enable-background="new 0 0 23.1 23.1"><path d="M11.6,0C5.2,0,0,5.2,0,11.6c0,4.8,2.9,8.9,7,10.6c0-0.8,0-1.8,0.2-2.6c0.2-0.9,1.5-6.3,1.5-6.3 s-0.4-0.7-0.4-1.8c0-1.7,1-3,2.2-3c1.1,0,1.6,0.8,1.6,1.7c0,1.1-0.7,2.6-1,4.1c-0.3,1.2,0.6,2.2,1.8,2.2c2.2,0,3.7-2.8,3.7-6.2 c0-2.5-1.7-4.5-4.8-4.5c-3.5,0-5.7,2.6-5.7,5.6c0,1,0.3,1.7,0.8,2.3C7,14,7.1,14.1,7,14.4c-0.1,0.2-0.2,0.7-0.2,0.9 c-0.1,0.3-0.3,0.4-0.6,0.3c-1.6-0.7-2.4-2.4-2.4-4.4c0-3.3,2.8-7.3,8.3-7.3c4.4,0,7.4,3.2,7.4,6.7c0,4.6-2.5,8-6.3,8 c-1.3,0-2.4-0.7-2.8-1.4c0,0-0.7,2.7-0.8,3.2c-0.2,0.9-0.7,1.8-1.1,2.5c1,0.3,2.1,0.4,3.2,0.4c6.4,0,11.6-5.2,11.6-11.6 C23.1,5.2,18,0,11.6,0z"></path></svg>
+			</a>
+			<a href="http://instagram.com/lifevantage">
+				 <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 23 23" enable-background="new 0 0 23 23"><g><path d="M23,20.04928c0,1.61752-1.33374,2.95017-2.95127,2.95017H2.95017C1.33265,22.99945,0,21.6668,0,20.04928 V2.95072C0,1.3332,1.33265,0.00055,2.95017,0.00055h17.09856C21.66626,0.00055,23,1.3332,23,2.95072V20.04928z M20.39363,9.73295 h-2.02135c0.19428,0.61448,0.29906,1.2879,0.29906,1.96132c0,3.83315-3.20448,6.93285-7.15769,6.93285 c-3.93793,0-7.14241-3.0997-7.14241-6.93285c0-0.67342,0.10478-1.34684,0.30124-1.96132H2.56053v9.70294 c0,0.50861,0.40383,0.91354,0.91354,0.91354h16.00712c0.50861,0,0.91245-0.40493,0.91245-0.91354V9.73295z M11.51364,6.97815 c-2.54525,0-4.61026,2.00607-4.61026,4.4771c0,2.46994,2.06501,4.4771,4.61026,4.4771c2.56053,0,4.62772-2.00716,4.62772-4.4771 C16.14137,8.98422,14.07417,6.97815,11.51364,6.97815z M20.39363,3.59467c0-0.56973-0.46495-1.0336-1.03251-1.0336h-2.60637 c-0.56973,0-1.03251,0.46386-1.03251,1.0336v2.46994c0,0.56864,0.46277,1.0336,1.03251,1.0336h2.60637 c0.56755,0,1.03251-0.46495,1.03251-1.0336V3.59467z"></path></g></svg>
+			</a>
+		</nav>
 	</div>
 </section>
-
-
-<style type="text/css" media="screen">
-	.action .banners .banner_left {background-image:url('http://www.lifevantage.com/wp-content/uploads/2014/10/kc-elite-academy-en.jpg')}
-	.action .banners .banner_middle {background-image:url('http://www.lifevantage.com/wp-content/uploads/2014/10/banner-rsl.jpg')}
-	.action .banners .banner_right {background-image:url('http://www.lifevantage.com/wp-content/uploads/2014/10/flickr-banner-home.jpg')}
-	@media
-		only screen and (-webkit-min-device-pixel-ratio: 2),
-		only screen and (   min--moz-device-pixel-ratio: 2),
-		only screen and (     -o-min-device-pixel-ratio: 2/1),
-		only screen and (        min-device-pixel-ratio: 2),
-		only screen and (                min-resolution: 192dpi),
-		only screen and (                min-resolution: 2dppx) { 
-			/* Retina-specific stuff here */
-			.action .banners .banner_left {background-image:url('http://www.lifevantage.com/wp-content/uploads/2014/10/kc-elite-academy-en@2x.jpg')}
-			.action .banners .banner_middle {background-image:url('http://www.lifevantage.com/wp-content/uploads/2014/10/banner-rsl@2x.jpg')}
-			.action .banners .banner_right {background-image:url('http://www.lifevantage.com/wp-content/uploads/2014/10/flickr-banner-home@2x.jpg')}
-	}
-</style>
-
-<section class="action clearfix relative">
-	<hr class="top_hr hr_grad_white_lt">
-	<div class="site_width">
-		<ul class="banners clearfix">
-			<li class="quarter f_l">
-				<a class="banner_left" href="/upcoming-events/elite-academy-kansas-city"></a>
-			</li>
-			<li class="quarter f_l">
-				<a class="banner_middle" href="/rsl-jersey-sponsor/"></a>
-			</li>
-			<li class="quarter f_l">
-				<a class="banner_right" href="https://www.flickr.com/photos/130314339@N07/"></a>
-			</li>
-		</ul>
-	</div>
-</section>
-
-<section class="site_map font_14 relative">
-		<div class="site_width">
-		<ul class="clearfix">
-			<li class="col_1_4 left f_l">
-				<ul class="sub">
-					<li><h4>Quick Links</h4></li><!-- quick links -->
-					<li><a href="/opportunity/">Opportunity</a></li>					<li><a href="/science/">Science</a></li>										<li><a href="https://www.iact1.com/lifevantage/Application/Apply.cfm?EnrollerID=2&amp;Theme=DefaultTheme&amp;ReturnURL=www.lifevantage.com/2&amp;LNG=en_lvg&amp;COUNTRY=USA&amp;iact=1">Become a Distributor</a></li>
-					<li><a href="http://www.lvnmedia.com">LVN Media</a></li>									</ul>
-			</li>
-			<li class="col_1_4 middle_l f_l">
-				<ul class="sub">
-					<li><h4><a href="/products/">Products</a></h4></li><!-- products -->
-					<li><a href="/products/protandim/">Protandim</a></li>					<li><a href="/products/axio/">Axio</a></li>					<li><a href="/products/truescience/">TrueScience</a></li>					<li><a href="/products/canine-health/">Canine Health</a></li>					<li><a href="http://cart.lifevantage.com/product">Buy Products</a></li>				</ul>
-			</li>
-			<li class="col_1_4 middle_r f_l">
-				<ul class="sub">
-					<li><h4><a href="/company/">Company</a></h4></li><!-- company -->
-					<li><a href="/company/management-team/">Management Team</a></li>					<li><a href="/news-center/">News Center</a></li>										<li><a href="/company/lifevantage-legacy/">LifeVantage Legacy</a></li>					<li><a href="/company/careers/">Careers</a></li>										<li><a href="/faqs/">FAQs</a></li>				</ul>
-			</li>
-			<li class="col_1_4 right f_l">
-				<ul class="sub">
-					<li><h4>Resources</h4></li><!-- resources -->
-					<li><a href="http://www.lifevantage.com/wp-content/uploads/2013/06/Application_Distributor_USA_2015.04.07.pdf">Distributor Enrollment Form</a></li>					<li><a href="http://www.lifevantage.com/wp-content/uploads/2013/06/Application_PreferredCustomer_USA_2015.04.07.pdf">Preferred Customer Enrollment Form</a></li>					<li><a href="http://www.lifevantage.com/wp-content/uploads/2013/06/US-Compensation-Plan-Highlights-V.02.pdf">Compensation Plan</a></li>					<li><a href="http://www.lifevantage.com/wp-content/uploads/2013/06/2015.04.01-PPs_USA.pdf">Policies &amp; Procedures</a></li>					<!-- repeater field is here if needed -->
-										<li><a href="http://www.lifevantage.com/wp-content/uploads/2013/06/LifeVantage-Earnings-Claim-Statement-V.04.pdf">Earnings Claim Statement</a></li>
-															<li><a href="/suppliers/">Supplier Information</a></li>				</ul>
-			</li>
-		</ul>
-		<!-- <small>4.2.1</small> -->
-	</div>
-</section>
-
-				</div><!-- end content -->
-		
-				<footer>
-					<div class="foot site_width clearfix">
-						<small class="copyright f_r tooltip" data-tooltip="The Direct Selling Association (DSA) is the national trade association of the leading firms that manufacture and distribute goods and services sold directly to consumers.<br><br>The Association's mission is <em>'To protect, serve and promote the effectiveness of member companies and the independent business people they represent. To ensure that the marketing by member companies of products and/or the direct sales opportunity is conducted with the highest level of business ethics and service to consumers.'</em>
+					<div class="footer_helix">
+						<div class="light"></div>
+						<div class="dark"></div>
+					</div>
+					<section class="final">
+						<div class="content_wrapper">
+							<nav class="extra_nav">
+								<br>
+								<a href="//investor.lifevantage.com">Investor Info</a>																<a href="/privacy-policy/">Privacy Policy</a>								<a href="/terms-of-use/">Terms of Use</a>								<a href="/company/contact-us/">Contact Us</a>
+							</nav>
+							<div class="about">
+								<div class="wrap  tooltip" data-tooltip="The Direct Selling Association (DSA) is the national trade association of the leading firms that manufacture and distribute goods and services sold directly to consumers.<br><br>The Association's mission is <em>'To protect, serve and promote the effectiveness of member companies and the independent business people they represent. To ensure that the marketing by member companies of products and/or the direct sales opportunity is conducted with the highest level of business ethics and service to consumers.'</em>
 <div class='text_c m_t_2'><a href='http://www.dsa.org' target='_blank'>www.dsa.org</a></div>
 <div class='text_c m_t_2'><a href='http://www.directselling411.com' target='_blank'>www.directselling411.com</a></div>
 <div class='text_c m_t_2'><a href='http://www.dsef.org/what-we-do/ethics-initiative/?fa=dsef-cbbb-partnership' target='_blank'>www.dsef.org</a></div>
 <div class='text_c m_t_2'><a href='http://www.dsa.org/docs/default-source/ethics/codeofethics-fulltext.pdf' target='_blank'>DSA Code of Ethics</a></div>
-">© 2015 LifeVantage Corporation. All rights reserved.<span class="res_hide"><br>LifeVantage is a proud member of the Direct Selling Association.</span></small>
-						<ul class="clearfix f_l text_uppercase font_title footer_nav">
-							<li class="first"><a href="//investor.lifevantage.com">Investor Info</a></li>														<li><a href="/privacy-policy/">Privacy Policy</a></li>							<li><a href="/terms-of-use/">Terms of Use</a></li>							<li class="last"><a href="/company/contact-us/">Contact Us</a></li>
-						</ul>
-											</div>
+">
+									<div class="legal">© 2015 LifeVantage Corporation. All rights reserved.<span class="res_hide"><br>LifeVantage is a proud member of the Direct Selling Association.</span></div>
+								</div>
+							</div>
+						</div>
+					</section>
 				</footer>
+			</div>
+			<!-- /#shiftable -->
 
-							</div><!-- /.slide_panel -->
-		</div><!-- /.container -->
-	
+					</div>
+		<!-- /.container -->
+
 		<!-- Google Analytics -->
 		<script type="text/javascript">
-			
+
 			// variable used to set high dpi screen tracking
 			var pixelRatio = (window.devicePixelRatio >= 1.5) ? "high dpi" : "normal";
-			
+
 			var _gaq = _gaq || [];
 			_gaq.push(['_setAccount', 'UA-8177000-1']);
 			_gaq.push(['_setDomainName', 'lifevantage.com']);
-			
+
 			// set custom variables
 			_gaq.push(['_setCustomVar', 1, 'Pixel Ratio', pixelRatio, 2 ]);
-			
+
 			// track page view
 			_gaq.push(['_trackPageview']);
-			
+
 			(function() {
-			    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-			    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+					var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+					ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+					var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 			})();
-			
+
 		</script>
 		<!-- End Google Analytics -->
-		<script type="text/javascript" src="http://www.lifevantage.com/wp-includes/js/comment-reply.min.js?ver=4.2.1"></script>
-	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"17226b5896","applicationID":"2227725,2227726","transactionName":"NQNRMkpYDUVUWhYNVwxJcgVMUAxYGkkDA11PFkEPTlgATxhJDQhRAR8=","queueTime":0,"applicationTime":665,"atts":"GURSRAJCHks=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
+		<script src="http://localhost:35729/livereload.js?snipver=1"></script><script type="text/javascript" src="http://www.lifevantage.com/wp-includes/js/comment-reply.min.js?ver=4.2.1"></script>
+	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"17226b5896","applicationID":"2227725,2227726","transactionName":"NQNRMkpYDUVUWhYNVwxJcgVMUAxYGkkDA11PFkEPTlgATxhJDQhRAR8=","queueTime":0,"applicationTime":545,"atts":"GURSRAJCHks=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-768.min.js"}</script>
 
 </body></html>
