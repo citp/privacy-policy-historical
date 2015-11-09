@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkeyproject.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626045907id_/http%3A//linkeyproject.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkeyproject.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109114414id_/http%3A//linkeyproject.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - linkeyproject.com
 
