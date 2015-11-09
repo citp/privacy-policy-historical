@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the worldwebdirectoryindex.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511163830id_/http%3A//worldwebdirectoryindex.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwebdirectoryindex.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109041056id_/http%3A//worldwebdirectoryindex.com/privacy.html) for the most accurate reproduction.*
 
-# World Web Directory Index - WorldWebDirectoryIndex.com Privacy Policy
+# - WorldWebDirectoryIndex.com Privacy Policy
+
+  * 
+
 
 ### WorldWebDirectoryIndex.com Privacy Policy
 
@@ -18,4 +21,9 @@ The DoubleClick DART cookie is used by Google in the ads served on worldwebdirec
 
 **Changes to this Privacy Policy**
 
-WorldWebDirectoryIndex.com may amend or update this policy from time to time. Please visit this page to view changes if any.
+WorldWebDirectoryIndex.com may amend or update this policy from time to time. Please visit this page to view changes if any.  
+  
+---  
+  
+
+
