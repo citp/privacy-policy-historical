@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thetechme.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608030219id_/http%3A//thetechme.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetechme.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109144358id_/http%3A//thetechme.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TheTechme
+# Privacy Policy - TheTechme
 
 Privacy Policy for http://thetechme.com
 
@@ -19,12 +19,3 @@ DoubleClick DART cookies We also may use DART cookies for ad serving through Go
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
-
-The following two tabs change content below.
-
-  * Bio
-  * Latest Posts
-
-
-
-Hunny Garg is the owner and founder of thetechme.com and he is perusing Electronics Engineering Stundents (4th ECE) from GGSIPU. In his free time, he loves to write about android tweaks, iphone jailbreak tweaks and latest technology.
