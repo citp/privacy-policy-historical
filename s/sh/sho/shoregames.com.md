@@ -1,31 +1,42 @@
-> *The following text is extracted and transformed from the shoregames.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701170546id_/http%3A//www.ripi.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoregames.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109154540id_/http%3A//domainsdeal.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Ripi.com
+# DomainsDeal.com
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at webmaster@ripi.com. 
+[Home](http://domainsdeal.com/index.php) _ _ Privacy Policy
 
-At www.Ripi.com, herein known as This Website, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by This Website and how it is used. 
+Protecting your privacy and the personal information you provide us is a top priority at [DomainsDeal.com](https://web.archive.org/web/20151109154540id_/http%3A//domainsdeal.com/DomainsDeal.com) . For this reason, DomainsDeal does not sell or rent your personal information to third parties without your explicit consent or in way other than as outlined in this privacy policy. At DomainsDeal, we want our users to fully understand what information we collect, how we use this information, and the steps we take to protect your personal information. 
 
-**Log Files**  
-Like many other Web sites, This Website makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+This privacy policy discloses the privacy practices for DomainsDeal.com. This privacy policy applies solely to information collected by this web site. It will notify you of the following: 
 
-**Cookies and Web Beacons**  
-This Website does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
+  1. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
+  
 
-**DoubleClick DART Cookie**
+  2. What choices are available to you regarding the use of your data.
+  
 
-.:: Google, as a third party vendor, uses cookies to serve ads on This Website.  
-.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to This Website and other sites on the Internet.   
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
+  3. The security procedures in place to protect the misuse of your information.
+  
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
-Google Adsense   
-Epic Game Ads 
+  4. How you can correct any inaccuracies in the information.
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on This Website send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
-This Website has no access to or control over these cookies that are used by third-party advertisers. 
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. This Website's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+**Information Collection, Use, and Sharing**
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone. 
+
+We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order. 
+
+Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy. 
+
+**Your Access to and Control Over Information**
+
+You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website. 
+
+**Security**
+
+We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline. 
+
+**Updates**
+
+Our Privacy Policy may change from time to time and all updates will be posted on this page. 
