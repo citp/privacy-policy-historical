@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the era.la privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623154600id_/http%3A//www.era.la/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the era.la privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109141715id_/http%3A//www.era.la/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Technology News and Updates
+# Privacy Policy - Era - Automotive Index - Price and details - Car bike Truck and buses 2015
 
 **Era.la – Privacy Policy**
 
