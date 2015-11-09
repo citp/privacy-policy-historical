@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the swipevault.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426152621id_/http%3A//swipevault.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swipevault.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109011841id_/http%3A//swipevault.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy - SwipeVault
 
 YOUR PRIVACY RIGHTS  
 Effective Date: January 1, 2015
@@ -55,4 +55,4 @@ If you have any questions about this Policy or our practices related to this Sit
 
 We reserve the right, at any time, to add to, change, update, or modify this Policy to reflect changes in our Privacy Policy. We shall post any such changes on the Site in a conspicuous area. You may then choose whether you wish to accept said policy changes or discontinue using the Site. Any such change, update, or modification will be effective 30 days after posting on the Site. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms.
 
-(a) If you have signed up for email communications from us, we will notify you of the privacy policy changes by email as well. 
+(a) If you have signed up for email communications from us, we will notify you of the privacy policy changes by email as well.
