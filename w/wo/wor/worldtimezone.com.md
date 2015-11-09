@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldtimezone.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507231632id_/http%3A//www.worldtimezone.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldtimezone.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109135159id_/http%3A//www.worldtimezone.com/privacy.html) for the most accurate reproduction.*
 
 # Web Site Disclaimer and Privacy Statement for WorldTimeZone.com
 
