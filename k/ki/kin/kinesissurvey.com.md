@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kinesissurvey.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408082932id_/http%3A//www.kinesissurvey.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kinesissurvey.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109065654id_/http%3A//www.kinesissurvey.com/privacy-policy) for the most accurate reproduction.*
 
-# Kinesis Survey TechnologiesKinesis Privacy Policy
+# Kinesis Privacy Policy
 
   
 This privacy policy is effective May 1, 2013. 
