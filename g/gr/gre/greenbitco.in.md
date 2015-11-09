@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenbitco.in privacy policy that was archived on 2015-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150209033931id_/https%3A//greenbitco.in/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenbitco.in privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109035450id_/http%3A//greenbitco.in/privacy.php) for the most accurate reproduction.*
 
 # Greenbitco.in | Privacy Policy
 
