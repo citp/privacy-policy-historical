@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hellogiri.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426041737id_/http%3A//www.hellogiri.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellogiri.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109184445id_/http%3A//www.hellogiri.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Web 3
+# Privacy Policy | Easy Technology
 
 Privacy Policy for http://www.hellogiri.com
 
