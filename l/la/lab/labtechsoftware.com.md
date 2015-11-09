@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the labtechsoftware.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426155429id_/http%3A//www.labtechsoftware.com/it/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the labtechsoftware.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109010527id_/http%3A//www.labtechsoftware.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | LabTech Software
+# LabTech Software Privacy Policy
 
 ### LabTech Software Privacy Policy
 
@@ -38,7 +38,7 @@ Wherever your Personal Information may be held within LabTech Software or on its
 
 #### Access/Accuracy
 
-To the extent that you do provide us with Personal Information, LabTech Software wishes to maintain accurate Personal Information. Where we collect Personal Information from you on the web, our goal is to provide a means of contacting LabTech Software should you need to update or correct that information. If for any reason those means are unavailable or inaccessible, please [contact us](https://web.archive.org/it/contact-info/form.php) and we will make reasonable efforts to incorporate the changes in your Personal Information that we hold as soon as practicable.
+To the extent that you do provide us with Personal Information, LabTech Software wishes to maintain accurate Personal Information. Where we collect Personal Information from you on the web, our goal is to provide a means of contacting LabTech Software should you need to update or correct that information. If for any reason those means are unavailable or inaccessible, please [contact us](https://web.archive.org/contact/contact-us) and we will make reasonable efforts to incorporate the changes in your Personal Information that we hold as soon as practicable.
 
 #### Third Party Services
 
@@ -50,7 +50,7 @@ LabTech Software does not intend to transfer Personal Information without your c
 
 We are committed to privacy and support current industry initiatives to preserve individual privacy rights on the Internet. Protecting your privacy online is an evolving area, and LabTech Software’s web sites are constantly evolving to meet these demands.
 
-If you have any comments or questions regarding our Online Privacy Policy, please [contact us](https://web.archive.org/it/contact-info/form.php). While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible.
+If you have any comments or questions regarding our Online Privacy Policy, please [contact us](https://web.archive.org/contact/contact-us). While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible.
 
 #### Your Consent
 
