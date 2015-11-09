@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gmc-uk.org privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610001408id_/http%3A//www.gmc-uk.org/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmc-uk.org privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109120352id_/http%3A//www.gmc-uk.org/privacy_policy.asp) for the most accurate reproduction.*
 
 # GMC | Privacy and Cookies policy
 
@@ -11,8 +11,9 @@ This statement outlines how we will use and protect information that you provide
 
   1. 2\. Your rights under the Data Protection Act 1998
   2. 3\. Social media 
-  3. 4\. Website security: how we protect your information
-  4. 5\. Use of cookies and social variables
+  3. 4\. Mobile applications
+  4. 5\. Website security: how we protect your information
+  5. 6\. Use of cookies and social variables
 
 
 
@@ -56,11 +57,9 @@ If you subsequently obtain registration from the GMC, or if you provide informat
 
 **How we categorise doctors' information and who we'll share it with:**
 
-Level 1 information – is published in the List of Registered Medical Practitioners (LRMP) on our website and made available to any enquirer. It consists of registered doctors’ reference number, gender, name, year and place of primary medical qualification, registration status, date of registration and any publicly available fitness to practise history.
+Level 1 information – is published in the List of Registered Medical Practitioners (LRMP) on our website and made available to any enquirer. It consists of registered doctors’ reference number, gender, name, year and place of primary medical qualification, registration status, date of registration, the date on which their annual retention fee is due and any publicly available fitness to practise history.
 
-Level 2 information – is a registered doctor’s Level 1 information plus the date on which their annual retention fee is due. We give it out in response to telephone or written enquiries.
-
-Level 3 information - is registered doctors’ Level 1 and 2 information plus date of birth, photograph, passport details, registered email address, registered address and whether a doctor is subject to investigation under the fitness to practise procedures. We will only give Level 3 Information to UK health departments, employers, designated bodies, Responsible Officers, Suitable Persons and other bodies where appropriate.
+Level 3 information - is registered doctors’ Level 1 information plus date of birth, photograph, passport details, registered email address, registered address and whether a doctor is subject to investigation under the fitness to practise procedures. We will only give Level 3 Information to UK health departments, employers, designated bodies, Responsible Officers, Suitable Persons and other bodies where appropriate.
 
 Some organisations may ask us for your registered address so they can contact you about the services they provide. These may include the British Medical Association, medical defence organisations and medical Royal Colleges and faculties so they can keep their records up to date. We will only give your Level 3 information to them where we are satisfied you are already a member and haven’t asked us not to share with them. If you would like to update your preference for us to share your registered address with these organisations please let us know either by writing to Registration Update Team, General Medical Council, 3 Hardman Street, Manchester M3 3AW or by sending an email to [registrationhelp@gmc-uk.org](mailto:registrationhelp@gmc-uk.org).
 
@@ -116,7 +115,51 @@ We use several social media sites to raise awareness of our work and promote goo
 
 Read more about our [social media sites](http://www.gmc-uk.org/about/contactus/14342.asp "Opens in a new window").
 
-## 4\. Website security: how we protect your information
+## 4\. Mobile applications
+
+### My CPD
+
+This app is a voluntary tool for doctors registered with the General Medical Council in the UK.
+
+#### Registration data
+
+We will collect limited registration information from you including your email address in order for you to use the Application. Under the Data Protection Act 1998, the GMC will be sole data controller in relation to this information. The GMC will not associate any data gathered from this app with any personally identifiable information from any other records held by the GMC.
+
+#### Analytics data
+
+We will track and store certain types of anonymised data whenever you use our app, such as the stage of your career and year of registration. We will only use this data in aggregate form, for statistical purposes, and not in a way that would enable us to identify you personally. Hence this information will not constitute “personal data” about you for the purposes of the Data Protection Act 1998. The data will only be used for internal statistical reporting purposes.
+
+#### CPD data
+
+The CPD data that you enter is for your sole use as the registered user. This data will be stored on a secure GMC server.
+
+#### Storage
+
+The app is designed to act as a store for your CPD learning and reflections. You should not use the App to store content unrelated to your learning as a doctor. Please note each user has a storage limit of 2GB. Any files exceeding this limit will automatically be rejected.
+
+#### Personal Data
+
+Under no circumstances should you use this app to store information which identifies patients or other individuals. You should not include the names of patients or other individuals, or other identifying information about patient or other individuals (e.g. addresses, reference numbers, or date of birth).
+
+Please note, if you disregard this and you do store data that relates to identifiable patients or other individuals, you will be subject to the requirements of the Data Protection Act 1998 as a data controller in relation to such data. This includes an obligation to provide those identifiable individuals with access to data about themselves held by you, if they request it.
+
+#### Controlling your personal information
+
+As the registered user, you are responsible for maintaining the confidentiality of your account, and for any undertaken activity therein. This includes amending or deleting information.
+
+For the avoidance of doubt, the GMC will not access or associate any information stored by you on the CPD App to undertake any of our statutory functions as a regulatory body, including but not limited to our functions relating to Fitness to Practise or Legal Proceedings.
+
+The GMC will not disclose information stored by you on the CPD App to third parties or government agencies, unless we are under a legal obligation to do so. Otherwise, the information stored by you on the CPD App will not be accessed by anyone within the GMC for any purpose whatsoever.
+
+#### Security and account access
+
+You will need to create a password that is at least six characters long containing at least one upper case letter or a number. Only you can reset your password. This can be done by requesting a password reset e-mail be sent to your registered email address. This App does not contain an automatic timeout feature and as such, you will remain logged into your account indefinitely, or until such time as you elect to log out. Your data will be stored indefinitely, or until such time as you delete it.
+
+#### Changes
+
+If we make changes, we will notify you by updating this notice which you will be required to accept in order to continue using this Application.
+
+## 5\. Website security: how we protect your information
 
 We are committed to keeping your information secure, including any financial transactions you make with us online.
 
@@ -124,7 +167,7 @@ We are accredited to the international information security standard ISO27001 an
 
 For further advice on how you can keep your information secure online, you may find it useful to visit [Get Safe Online](http://www.getsafeonline.org/ "Opens in a new window"), which is jointly funded by government and private sector businesses.
 
-## 5\. Use of Cookies and Session variables
+## 6\. Use of Cookies and Session variables
 
 ### Cookies
 
