@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zazachat.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408080129id_/http%3A//www.zazachat.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zazachat.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109035219id_/http%3A//www.zazachat.com/privacy.aspx) for the most accurate reproduction.*
 
 # Live Chat Software, Live Support, ZaZaCHAT - Privacy policy
 
