@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amersc.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125082117id_/http%3A//www.americansafetycouncil.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amersc.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109210813id_/http%3A//americansafetycouncil.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - American Safety Council
 
