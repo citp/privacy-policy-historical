@@ -1,8 +1,18 @@
-> *The following text is extracted and transformed from the gamebillet.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426013645id_/http%3A//www.gamebillet.com/Privacy-Policy-i3.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamebillet.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109011951id_/http%3A//www.gamebillet.com/Privacy-Policy-i3.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-PRIVACY POLICY
+[ ](http://www.gamebillet.com/)
+
+  * Your shopping cart is empty!
+
+
+
+
+  * [Home](http://www.gamebillet.com/)
+  * [Privacy Policy](http://www.gamebillet.com/Privacy-Policy-i3.html)
+
+
 
 Controllers of Personal Information
 
@@ -24,21 +34,11 @@ Information from Other Sources: we might receive information about you from othe
 
 Specific examples include:
 
-Your name
-
-Your address
-
-Your email address
-
-Your phone number
-
 Your credit / debit card details
 
 Your order history and profile
 
 We will never collect sensitive information about you without your explicit consent.
-
-What About Cookies?
 
 Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to support features such as storage of items in your Shopping Basket between visits. The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the website of its manufacturer. However, because cookies allow you to take advantage of some of GameBillet.com's essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or use any GameBillet.com products and services that require you to Sign in.  
 
@@ -72,15 +72,11 @@ What Information Can I Access?
 
 GameBillet.com gives you access to a broad range of information about your account and your interactions with GameBillet.com for the limited purpose of viewing and, in certain cases, updating that information. 
 
-What Choices Do I Have?
-
 As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of such GameBillet.com features as Your Profile, Wish Lists and Customer Reviews.
 
 If you do not want to receive e-mail or other mail from us, please adjust your Customer Communication Preferences. (If you do not want to receive Conditions of Use and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of GameBillet.com and orders placed with GameBillet.com, and it is your responsibility to review them for changes.)
 
 The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the website of its manufacturer. However, because cookies allow you to take advantage of some of GameBillet.com's essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Basket, proceed to Checkout, or use any GameBillet.com products and services that require you to Sign in.  
-
-Notices and Revisions
 
 If you have any concern about privacy at GameBillet.com, please e-mail us a thorough description and we will try to resolve the issue for you.
 
