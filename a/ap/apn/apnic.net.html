@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the apnic.net privacy policy that was archived on 2015-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150605014823id_/http%3A//www.apnic.net/apnic-info/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the apnic.net privacy policy that was archived on 2015-11-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151109154731id_/https%3A//www.apnic.net/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
         <meta charset="utf-8">
@@ -37,7 +37,7 @@
 <!--[if lt IE 9]>
     <link href="https://www.apnic.net/_designs/corporate-identity/css/bootstrap.min.css" rel="stylesheet">
 <![endif]-->
-        <link href="//netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css" rel="stylesheet">        <link href="//cloud.typography.com/6771312/722504/css/fonts.css" rel="stylesheet">        <link href="https://www.apnic.net/__data/assets/css_file/0011/69239/custom.css?v=0.3.2" rel="stylesheet">
+        <link href="//netdna.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">        <link href="//cloud.typography.com/6771312/722504/css/fonts.css" rel="stylesheet">        <link href="https://www.apnic.net/__data/assets/css_file/0011/69239/custom.css?v=0.5.2" rel="stylesheet">
         <link href="https://www.apnic.net/__data/assets/css_file/0016/72322/legacy.css?v=0.1.9" rel="stylesheet">
 
         <style>
@@ -70,7 +70,7 @@
   Running Squiz Matrix
   Developed by Squiz - http://www.squiz.net
   Squiz, Squiz Matrix, MySource, MySource Matrix and Squiz.net are registered Trademarks of Squiz Pty Ltd
-  Page generated: 05 June 2015 11:48:18
+  Page generated: 08 September 2015 11:29:41
 -->
 
 
@@ -85,6 +85,8 @@
                 var $body = $('body');
                 var theme = "default";
                 if(path.match(/^\/services/)){theme = "services"}
+                else if(path.match(/^\/get-ip/)){theme = "getip"}
+                else if(path.match(/^\/manage-ip/)){theme = "manageip"}
                 else if(path.match(/^\/community/)){theme = "community"}
                 else if(path.match(/^\/policy/)){theme = "community"}
                 else if(path.match(/^\/docs/)){theme = "community"}
@@ -148,7 +150,7 @@
         // Random colour by default, but some sections are themed a particular colour
         var colour = _.sample(["blue" , "darkgreen" , "lightgreen" , "orange" , "purple"]);
         var path = window.location.pathname;
-        if(path.match(/^\/services/)){colour = "orange"}
+        if(path.match(/^\/(services|get)/)){colour = "orange"}
         else if(path.match(/^\/community/)){colour = "darkgreen"}
         else if(path.match(/^\/events/)){colour = "purple"}
         else if(path.match(/^\/about/)){colour = "blue"}
@@ -188,11 +190,11 @@
 
 <div><a href="https://www.apnic.net/services/become-a-member/manage-your-membership/transfer-resources">Transfer Resources</a></div>
 
-<div><a href="https://www.apnic.net/services/services-apnic-provides/registration-services/reverse-dns">Reverse DNS</a></div>
+<div><a href="http://www.apnic.net/services/services-apnic-provides/registration-services/reverse-dns">Reverse DNS</a></div>
 
-<div><a href="https://www.apnic.net/services/services-apnic-provides/routing-registry">Routing Registry</a></div>
+<div><a href="http://www.apnic.net/services/services-apnic-provides/routing-registry">Routing Registry</a></div>
 
-<div><a href="https://www.apnic.net/services/services-apnic-provides/resource-certification">Resource Certification (RPKI)</a></div>
+<div><a href="http://www.apnic.net/services/services-apnic-provides/resource-certification">Resource Certification (RPKI)</a></div>
 
 <div><a href="https://www.apnic.net/services/become-a-member">Membership</a></div>
 
@@ -222,9 +224,11 @@
 
 <div><a href="https://www.apnic.net/community/policy/current">Addressing Policies</a></div>
 
-<div><a href="https://www.apnic.net/community/ipv6-program">IPv6 Deployment</a></div>
-
 <div><a href="https://www.apnic.net/community/ecosystem">Internet Community</a></div>
+
+<div><a href="https://www.apnic.net/community/technical-assistance-service">Technical Assistance Service</a></div>
+
+<div><a href="https://www.apnic.net/community/ipv6-program">IPv6 Deployment</a></div>
 
 <div><a href="https://www.apnic.net/community/support/root-servers">Root Servers</a></div>
 
@@ -234,7 +238,7 @@
 
 <div><a href="https://www.apnic.net/community/ecosystem/rir">NRO</a></div>
 
-<div><a href="https://www.apnic.net/community/participate/join-discussions">Mailing Lists</a></div>
+<div><a href="https://www.apnic.net/community/participate/mailinglists">Mailing Lists</a></div>
 
 
 </div></div><div id="nav-blog"><a href="//blog.apnic.net/">Blog</a>
@@ -275,6 +279,8 @@
 </div>
 <script>
 $('.theme-services #header-label span').text('Services');
+$('.theme-getip #header-label span').text('Get IP');
+$('.theme-manageip #header-label span').text('Manage IP');
 $('.theme-community #header-label span').text('Community');
 $('.theme-events #header-label span').text('Events');
 $('.theme-publications #header-label span').text('Publications');
@@ -310,7 +316,7 @@ $('.theme-about #header-label span').text('About APNIC');
             		                        </ul>
                     </div>
                 </div><!-- /.col-sm-3 -->
-                 <div class="col-sm-6" id="main-content">
+                 <div class="col-sm-6 js-acronym-tool" id="main-content">
                     <h1>APNIC Privacy Statement</h1>
                                 <div id="social_media_widgets">
 <div class="fb-like" data-href="https://www.apnic.net/apnic-info/privacy" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
