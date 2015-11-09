@@ -1,26 +1,6 @@
-> *The following text is extracted and transformed from the fastreact.co.uk privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229095210id_/http%3A//www.fastreact.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastreact.co.uk privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110005952id_/http%3A//www.fastreact.com/en/privacy_policy) for the most accurate reproduction.*
 
-# Fast React > Privacy Policy
-
-## Latest News
-
-### FitFlop selects Fast React's Vision solution for New Product Development
-
-Internationally renowned footwear retailer, Fit Flop steps up to improve on time delivery and reduce costs.
-
-[](http://www.fastreact.com/news/vision_fitflop "FitFlop selects Fast React's Vision solution for New Product Development")
-
-## Case Studies
-
-### Concept Group
-
-[](http://www.fastreact.com/case_studies.php?product=1&id=350 "Concept Group")
-
-### REISS
-
-REISS achieves improved visibility and control with Fast React.
-
-[](http://www.fastreact.com/case_studies.php?product=1&id=132 "REISS")
+# Privacy Policy
 
 ## Privacy Policy
 
