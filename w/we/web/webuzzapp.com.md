@@ -1,83 +1,130 @@
-> *The following text is extracted and transformed from the webuzzapp.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327134605id_/http%3A//www.webuzzapp.com/aboutus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webuzzapp.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109154416id_/http%3A//www.lendkey.com%3Fp%3D1787) for the most accurate reproduction.*
 
-# Privacy Policy | WeBuzz
+# Our Privacy Policy | LendKey
 
-WeBuzz("WeBuzz" or "we") are very concerned about the privacy rights of our users and we have created this Privacy Policy to explain our information gathering and dissemination practices in providing better services, applications and more relevant content to our users ("users" or "you"). This privacy policay applies to Webuzz Website and WeBuzz applications. By using our services and applications, you are accepting the practices described in this Privacy Policy. Moreover, we may update this Privacy Policy from time to time, for any reason, with or without notice to you. You are responsible for visiting this page regularly to review any changes.
+Privacy is important to us. This Privacy Policy describes how we collect, use, and protect information and any choices you may have regarding such uses and disclosures. This Privacy Policy applies to our websites, online services, and any electronic communications you have with us.
 
-## INFORMATION COLLECTION AND USE
+Please read this Privacy Policy carefully. **By using this Website, you agree to the terms of the Privacy Policy.**
 
-### Personal Information Collected
+* * *
 
-Once you choose to participate in activities on our sites or use our services and applications, you may provide certain personally identifiable information. When you install WeBuzz applications, we may collect and record the information you provide us voluntarily through www.facebook.com ("Facebook") in accordance with the policies and terms of Facebook, including, but not limited to, your name, phone number, email address, mailing address, date of birth, gender, user ID and other information that would allow someone to identify you or contact you. The types of personal information collected may vary depending on the activity.
+  1. ### Information We Collect
 
-### Use of Collected Personal Information
 
-The purpose of collecting user information is to provide and enhance the Service and to enable users to easily navigate and enjoy the Service, manage your registration, personalize your visits to our sites, respond to your requests for certain products and services, customize the advertising and other content you see, notify you about new features, enhancements, help to resolve of site problems, handle and/or routing your customer support questions and issues, and inform you of upgrade opportunities, contests, prizes, and/or special events. We may also use such information for the purposes of improving the quality and design of our sites and applications, creating new site features, and analyzing and understanding how our sites and services are used. Your personally identifiable information may be used in a form aggregate with the information of other users and we may provide such aggregate information to our partners to let them know how our users, collectively, use our sites or applications. Again, we never disclose aggregate information to a partner in a manner that would identify you personally.
 
-### Community Features
 
-If you use any community features inlcuding, but not limited to, online forums, creating user "profiles", chat and messaging, please remember that any information disclosed in these venues may be automatically made public. You should exercise caution when disclosing any personal information in these areas. However, you may choose to have your profile page public or private. In the case where you chose to make your profile page private, the information there will only be visible to you. We may combine the information you submit to us with information collected in other forums, such as through emails or offline, or with publically available information or information obtained from third parties.
+We may collect the following information from you and about you.
 
-### Cookies
+  * **Information You Provide to Us.** We may collect and keep any personal information you provide to us through our website or in any other manner, such as email. This includes information that identifies you and financial information. Information that identifies you may include your name, email address, date of birth, mailing address, telephone number, and Social Security number. Financial information may include your income, assets, or debts. We use this information to provide you with services. We may also collect information you provide to use about others, including their name, email address, date of birth, mailing address, telephone number, and Social Security number. In addition, we gather the names, email addresses, and other personal information provided by people who contact us through our website with questions about our company. We collect this information for the sole purpose of responding to such inquiries and do not store the contact information unless requested, for example job applicants who submit resumes.
+  * **Information from Third Parties.** We may obtain information about you from vendors, contractors, and other third parties. **You authorize LendKey and Lenders to obtain a personal credit profile from credit bureaus for credit pre-qualification and identity verification. You further agree that we may verify your identity and the information you provide us with third parties**.
+  * **Cookies and Other Automatically Collected Information.** We collect information about your computer and your visits to our website, such as your IP address, geographical location, browser type, referral source, length of visit, and page views through the use of log files. We use cookies on our website, including session ID cookies and persistent cookies. A cookie is a text file sent by a web server to a web browser, and stored by the browser. The text file is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser and load the pages according to a user’s preferences for that particular website, including the personalization of content. Cookies are not tied to personally identifiable information. More importantly, using cookies also helps us protect the security of your account. Session ID cookies follow your activities on our website so that we can ensure that no one is making changes to your profile, applying for loans or making loans on your behalf. This information is encrypted.
 
-We may also employ "cookies" or similar technologies that provide additional functions to the site and help us analyze usage more accurately. We use cookies to save your registration ID and login password for future logins, accumulating and reporting aggregate, statistical information in connection with our sites, and also to better understand how users interact with our services and applications. You can disable cookies at any time, although you may not be able to access or use features of the Service.
 
-### Other Information
 
-We use passive tracking technologies to log non-identifiable information such as IP address, browser type and site usage (for example: what pages are accessed, how often, referring/exit pages and URLs) to monitor and analyze use of our services, for their technical administration, to increase their functionality and user-friendliness, and to better tailor them to our users’ needs. We also use this information to verify that users of our services meet the criteria required to process their requests. We do not treat such data as personal information or use it in association with other personal information, though we may aggregate, analyze and evaluate such information for the same purposes as stated above.
+We may send a cookie that can be stored by your browser on your computer’s hard drive. We may use the information we obtain from the cookie in the administration of our website, to improve its usability and for evaluating our marketing effectiveness as described above. We may also use that information to recognize your computer when you visit our website (if you select the “remember me on this computer” option), and to personalize our website for you. We may also use that information to recognize your computer and display certain marketing messages when you or someone using your computer visit(s) our website and/or other websites. Most browsers allow you to refuse to accept cookies. (For example, in Internet Explorer you can refuse all cookies by clicking “Tools,” “Internet Options,” “Privacy,” and selecting “Block all cookies” using the sliding selector). However, blocking cookies can also have a negative impact on the usability of our website.
 
-We may also collect other information that you provide as part of registration and administration of your account when accessing, using, installing or downloading our applications, services and sites. Any information you provide to us will be stored as entered.
+Cookies may have long-term expiration dates and can stay in your hard drive for months at a time. While you can remove them as instructed by the “help” content in your chosen browser, disabling cookies will prevent you from using our website. As with many transactional websites, cookies must be enabled in order to use our website.
 
-### SECURITY OF PROVIDED INFORMATION
+  * **Information Collected by Third Parties.** We use third-party tracking services that use cookies to track non-personally identifiable information about visitors to our website. This may include page views and referral page information to track the success of our marketing efforts to bring people to our website as well as overall website performance. We use web beacons such as clear gifs, pixel tags, targeting pixels, third party pixels, or web bugs to track the number of new users who join our website in response to certain advertising efforts. This involves the use of small graphics that contain a unique identifier to track online users, some of which may be included in email messages or promotions to determine if a message has been opened or if a response is made. No personal or sensitive information is transmitted to such advertising partners. However, third parties may use IP addresses to avoid double-counting the number of new members who joined as a result of the advertising campaign or for other purposes.
+  * **How LendKey responds to “Do Not Track” Signals.** Some web browsers have a “Do Not Track” function that allows you to tell websites that you do not want to have your online activities tracked.  LendKey is not currently set up to respond to these “do not track” signals.
 
-WeBuzz is very concerned with safeguarding your information provided. We have put in place reasonable technical and organizational measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration or disclosure. Please be aware, however, data transmission over the Internet is not 100% secure from intrusion, and we cannot guarantee that unauthorized third parties will never be able to defeat our commercially reasonable efforts to ensure protection of your information or use your personal information for improper purposes. Also please note that email and messaging systems are not considered secure, so we discourage you from sending us personal information through these mediums.
 
-Moreover, if you use a password on WeBuzz Website, you are responsible for keeping it confidential. You are remineded not to share the password with any other person. If you believe your password has been misused, please inform us immediately.
 
-### INTERNATIONAL TRANSFER
+* * *
 
-Your information may be transferred to, and maintained on computers located outside your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside Hong Kong and choose to provide information to us, WeBuzz transfers your personal information to Hong Kong and processes it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+  2. ###  How We Use Information
 
-### INFORMATION SHARING AND DISCLOSURE
 
-As part of our regular business conduct, we may share information with companies or individuals, but not including advertisers, providing services or acting on our behalf, such as companies providing technological or fulfillment services. These third parties have access to your information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. While we cannot guarantee that they will adhere to the same privacy and security procedures as WeBuzz, we will take all reasonable precautions under the circumstances to ensure the protection of your personal information.
 
-We will disclose any information about you to the government or law enforcement officials or private parties as we, in our sole discretion, believe it is necessary or appropriate to respond to claims and legal processes, to protect the property and rights of WeBuzz or a third party, to protect the safety of the public or any persons, or to prevent or stop activity we may consider to be illegal, unethical or legally actionable activity. In the event that there is a merger, acquisition, reorganization or sale of assets or bankruptcy, WeBuzz may sell, transfer or otherwise share some or all of our assets, including the information you have submitted.
 
-### UPDATING AND ACCESSING YOUR PERSONAL INFORMATION
+We use information we collect about you to:
 
-At any time, you are invited to review, update, correct or delete personally identifiable information in your profile by changing the applicable information in your account settings or, for services hosted on a social networking site, by changing the applicable information in your profile page. If you completely delete all this information, your account may become deactivated. If you would like us to delete your record in our system, please contact us and we will attempt to accommodate your request if we are not legally obligated to retain the record.
+  * Provide services and products you request;
+  * Provide customer service;
+  * Manage your relationship with us;
+  * Communicate with you by email, postal mail, or telephone or through marketing messages when you or someone using your computer visit(s) our website and/or other websites about products or services we offer or are offered by third parties;
+  * Enforce our terms and conditions;
+  * Operate our business;
+  * Enable our financial services partners to implement automatic payments and fund transfers;
+  * Contacting you if there is a problem completing a transaction you requested or to discuss a problem with your account; or
+  * Comply with our legal obligations or as otherwise permitted by law.
 
-### OPT-OUT
 
-You may "opt out" of receiving any marketing and promotional emails from us at any time by selecting the opt-out mechanism contained in an email message or any newsletter or editing your account preferences. We treat each of our consumer offerings individually, so if you are receiving mailings from more than one area of our website, and if you want to unsubscribe, you must do so with respect to each such area individually.
 
-### LINKS TO OTHER SITES
+Certain personal information must be supplied during the registration processes, as indicated below, in order to (a) enable users to login to the website, (b) determine eligibility for loans using our proprietary credit scoring process, (c) verify your identity and the identity of any proposed cosigners, (d) establish borrowers’ ability to request loans by verifying that they are at least 18 years of age, (e) identify or guard against potential fraud, and (f) abide by anti-terrorism laws and regulations.
 
-From time to time, we may include links to other websites as a service to you. If you choose to visit an advertiser by clicking on a banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party’s website. Please note that we do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other sites follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to review the privacy practices of the other websites that you visit, as we are not responsible for their privacy practices and cannot control their use of data.
+We may use your financial information to provide loan offers to you from Lenders or to match you with potential loans and services that you may be eligible to receive.
 
-### "PHISHING"
+When you register with us and authorize or request it, we may obtain a credit report from a credit bureau to determine your creditworthiness. We will also use both your required and optional information to facilitate other activities and transactions with you. This may include assigning you a borrower credit grade based on your academic characteristics and financial information.
 
-Identity theft and the practice currently known as "phishing" are of great concern to WeBuzz. Therefore, we work on safeguarding information to help protect you from identity theft with respect to information in our possession. We do not and will not, at any time, request your credit card information, your account ID, login password, or national identification numbers in a non-secure or unsolicited e-mail or telephone communication. For more information about phishing, visit the Federal Trade Commission’s website.
+We use aggregated information about your computer and your visits to our website, such as your IP address, geographical location, browser type, referral source, length of visit, and page views in the administration of our website to improve its usability and to evaluate the success of particular marketing/advertising campaigns, search engine optimization strategies and other marketing activities. We use non-identifying and aggregated information to help optimize our website based on the needs of our users.
 
-### ONLINE SECURITY
+In addition, we gather the names and email addresses of people who contact us through our website or email us with questions about our company. We collect this information for the sole purpose of responding to such inquiries and do not store the contact information unless requested by these people, for example job applicants who submit resumes.
 
-The online transaction processing is provided by PayDollar using the highest commercially available encryption technology - Extended Validation (EV) SSL Certificate encryption. All confidential information is automatically encrypted before it is transmitted, to protect the data from being read and interpreted.
+* * *
 
-### OUR POLICY FOR CHILDREN UNDER 13
+  3. ### How and When Your Information Is Shared With Other Parties
 
-We respect the privacy of parents and children and the service and applications is not geared toward children under the age of 13. We do not knowingly collect personal information from children under 13. If you are under 13, you may use and access our websites only with the involvement of a parent or guardian. If WeBuzz discovers that a child under the age of 13 has provided WeBuzz with personally identifiable information, WeBuzz will immediately delete that child’s personally identifiable information from the website. 
 
-### AGREEMENT WITH OUR PRIVACY POLICY
 
-By using any WeBuzz websites, applications or services, you signify your understanding of an agreement with this Privacy Policy, and to our Terms of Use. If you do not agree with our privacy practices, it may be best to limit your level of interaction with our sites, which could include simply not providing us with personal information.
 
-### CHANGES TO OUR PRIVACY POLICY
+We may share your information with:
 
-As noted above, we may modify this Privacy Policy from time to time. When we post changes to this Privacy Policy, we will revise the "last modified" date at the bottom of this page. Such revisions shall be effective to you immediately upon posting. We encourage you to periodically review this Privacy Policy to be informed of how we aim to protect your information.
+  * **Service Providers.** LendKey shares your personal information with authorized service providers that perform services on our behalf. These entities include credit bureaus, fraud databases, collection agencies, electronic payment service providers, customer support call centers, and companies that support surveys, marketing services, or other services and features that we offer. We share information with these third parties only to the extent necessary for us to process the transactions you initiate or perform other specific services on our behalf. These third parties are not permitted to share or use such information for any other purpose. Third parties or their servers may be located within or outside of the United States.
+  * **Lenders and Marketing Partners.** If you request a loan by providing your information and submitting our online form, we may share your personal and financial information with Lenders or other marketing partners who may have financial products, services, promotions, contests, or sweepstakes suited to your interests. We may also share your personal and financial information with third-party investors who will help finance your loan after you sign a loan agreement with the Lender. You must contact those Lenders directly to learn about their privacy and security practices because they are separate companies and are not governed by our Privacy Policy. You agree that you are bound by those privacy and security policies to the extent they apply to the use and sharing of your information. We may also disclose your personal and financial information to other third parties as permitted by law.
+  * **Special Notice to California Residents.** We will not share any personal information about you with any of our affiliated companies to the extent prohibited by applicable California law or to the extent your prior consent to share is required by applicable California Law.
+  * **Special Notice to Vermont Residents.** We will not share any personal information about you with our affiliated companies to the extent prohibited by applicable Vermont law or to the extent your prior consent to share is required by applicable Vermont law.
+  * **Additional Disclosure.** We may disclose your personal and financial information with law enforcement or other government agencies as required by law or for the purposes of limiting fraud. We reserve the right to disclose your personally identifiable information when we believe that disclosure is necessary to establish, protect, or exercise our rights, defend against legal claims, or as otherwise required by law. We may also disclose your personal and financial information to respond to a subpoena or similar investigative demand, court order or request for cooperation from a law enforcement or other government agency, or legal process served upon us. We may also share your information with third parties in connection with a substantial company transaction, such as the potential or actual sale of all or a portion of our business, a merger, consolidation, asset sale, or bankruptcy.
 
-### ENQURIES
 
-For any enquires, WeBuzz can be contacted by sending an email to info@webuzzapp.com.
 
-Last Modified: Dec 2010
+**California Residents.** If you are a resident of California, in addition to your rights set forth in this Privacy Policy, you have the right to request information from us regarding the manner in which we share your personal information with third parties for their direct marketing purposes. California law gives you the right to send us a request at a designated address to receive the following information:
+
+  1. The categories of information we disclosed to third parties for their direct marketing purposes during the preceding calendar year;
+  2. The names and addresses of the third parties that received that information; and
+  3. If the nature of the third party’s business cannot be determined from its name, examples of the products or services marketed.
+
+
+
+We may provide this information in a standardized format that is not specific to you. The designated email for these requests is [customer.care@lendkey.com](mailto:customer.care@lendkey.com).
+
+**How You Can Access or Correct Your Information.** You can access all of your personal and personally identifiable information that we collect from you through this website by visiting your profile in the My Account section of our website. This section of the website is password-protected to better safeguard your information. As a registered user, you can update your password, email address, physical address, phone number, and financial account information at any time on the website, and if you need to change any other information in your profile, you can contact us at [customer.care@lendkey.com](mailto:customer.care@lendkey.com).
+
+**Non-Personal and Aggregate Information.** We may retain and share non-personal information we collect and information about you and other customers collectively that is not personally identifiable. This includes (for example) information about your computer and visits to our website and/or other websites. We may combine it with non-personal information we obtain from other sources, and may share any aggregated information in any form with third parties. You may not access or correct your non-personal or aggregate information.
+
+**Links to Other Websites.** We may offer links to partners’ websites or to third-party websites that have their own privacy policies. We make the decision to provide links to these websites based on the quality of information provided at the time the links are enabled, and we make every effort to monitor the continuing quality of content provided on these websites. The Privacy Policy does not apply to these external websites. Further, LendKey has no control over the content of these websites. Please review the privacy policies of these websites before you provide them with any of your personal information.
+
+* * *
+
+  4. ### How We Protect Your Personal Information
+
+
+
+
+**Safeguards.** We use appropriate physical, technical, and procedural safeguards to protect your personal information from unauthorized access and disclosure. We encrypt the transmission of your personal information over the internet and only permit authorized employees, business partners, Lenders, and third-party service providers to have access to your personal information. We encourage you to take care when you handle or disclose your personal information, including passwords. No system can be completely secure, and we do not warrant that your personal information, transactions, or communication will always remain secure.
+
+**Children’s Privacy.** We do not knowingly collect, maintain, or use personal information from our website about children under age 13. If we learn that we have collected information from a child under the age of 13, we will promptly take all reasonable steps to delete the information.
+
+* * *
+
+  5. ### Your Choices
+
+
+
+
+You may choose not to provide us with personal information. However, we will be unable to provide you with our Services if you do not provide us with personal or financial information. Furthermore, due to the nature of our services, you may not opt out of the transfer of personal information to Lenders.
+
+**Changes to This Privacy Policy.** We reserve the right to change this privacy policy at any time.  We may amend this Privacy Policy on one or more occasions by posting a revised policy on this website or a similar website that replaces this website.  We may also notify consumers who apply for loans via our website.
+
+**Contact Information.** If you have any questions about our Privacy Policy or our information practices, you may contact us at:
+
+LendKey Technologies, Inc.  
+Attn: Compliance Department  
+104 W. 27th Street, 4th Floor  
+New York, NY 10001
+
+Or
+
+customer.care@lendkey.com
+
+Last Updated: May 14, 2015
