@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the casinosnodepositbonuses.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613211410id_/http%3A//casinobonusescodes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casinosnodepositbonuses.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109030152id_/http%3A//casinobonusescodes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | No Deposit Bonus Blog
+# Privacy Policy | Best Casino Bonus BLog
 
 **Privacy policy**
 
