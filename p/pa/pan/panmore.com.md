@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panmore.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502182809id_/http%3A//panmore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panmore.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109141744id_/http%3A//panmore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Panmore Institute
 
@@ -17,6 +17,6 @@ PANMORE does not collect names and other identifying information, unless the vi
 
   * Third-party vendors, including Google, use cookies to serve ads based on a user’s prior visits to this website.
   * Google’s use of the DoubleClick cookie enables it and its partners to serve ads to users/visitors based on their visit to this site and/or other sites on the Internet.
-  * Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings (Opens in New Window)](http://www.google.com/ads/preferences/). Alternatively, users can opt out of a third-party vendor’s use of cookies for interest based advertising by visiting [aboutads.info (Opens in New Window)](http://www.aboutads.info/).
+  * Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/ "Google Ads Settings \[Opens in New Window\]"). Alternatively, users can opt out of a third-party vendor’s use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/ "AboutAds.info \[Opens in New Window\]").
 
 
