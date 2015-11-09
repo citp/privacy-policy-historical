@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wefi.com privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410004526id_/http%3A//www.wefi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wefi.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109063515id_/http%3A//www.wefi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | wefi
 
