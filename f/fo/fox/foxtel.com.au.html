@@ -1,11 +1,13 @@
-<!--The following is the downloaded HTML source of the foxtel.com.au privacy policy that was archived on 2015-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150627194129id_/http%3A//www.foxtel.com.au/about/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the foxtel.com.au privacy policy that was archived on 2015-11-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151109121431id_/http%3A//www.foxtel.com.au/about/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta name="keywords" content="">
     <meta name="description" content="Foxtel privacy policy and methods of opting out of direct and behaviourally targeted marketing.">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <link rel="canonical" href="https://www.foxtel.com.au/about/privacy.html">
 
     <link rel="stylesheet" href="/etc/designs/foxtel/clientlibs.min.css" type="text/css">
 <link rel="stylesheet" href="/etc/designs/foxtel/clientlibs1.min.css" type="text/css">
@@ -16,6 +18,7 @@
 <script type="text/javascript" src="/etc/clientlibs/granite/jquery/granite.min.js"></script>
 <script type="text/javascript" src="/etc/clientlibs/foundation/jquery.min.js"></script>
 <script type="text/javascript" src="/etc/clientlibs/foundation/shared.min.js"></script>
+<script type="text/javascript" src="/etc/designs/cs/brightcove/ajaxplayernew.min.js"></script>
 <link rel="icon" type="image/vnd.microsoft.icon" href="/etc/designs/foxtel/favicon.ico">
     <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/etc/designs/foxtel/favicon.ico">
     
@@ -39,7 +42,6 @@
             var parseTimeStampFromHeaders = function(request) {
                 'use strict';
                 var headers = request.getAllResponseHeaders().toLowerCase(),
-                    /* console.log(headers); */
                     serverDate = null,
                     serverTimeStamp = null;
                 serverDate = headers.match(/date: ([a-z]{3}, [0-9]{2} [a-z]{3} [0-9]{4} [0-9]{2}:[0-9]{2}:[0-9]{2} gmt)/);
@@ -56,6 +58,10 @@
                 }
                 /* LOAD THE USER OBJECT ASYNCHRONOUSLY */
             var jsonUserProfileDataUrl = "/bin/foxtel/userInfo.json";
+
+            //declare it as a deferred object
+            window.$accountData = $.Deferred();
+
             $.getJSON(jsonUserProfileDataUrl, function(userdata, status, request) {
                 'use strict';
                 var serverTime = parseTimeStampFromHeaders(request);
@@ -74,6 +80,10 @@
                 dataLayer.push({
                     trigger: "initLoadComplete"
                 });
+
+                //push user analytics data into a global variable
+                window.$accountData.resolve(userdata);
+
             }).error(function(request) {
                 'use strict';
                 var serverTime = parseTimeStampFromHeaders(request);
@@ -97,15 +107,47 @@
     
 </head>
 <body data-main-plugin="">
-		
-	<!-- #1: BEGIN SUPERTAG TOP CODE v2.9.0 -->
-    <script type="text/javascript" src="//c.supert.ag/foxtel/foxtel/supertag.js"></script>
-    <!-- Do NOT remove the following tag: SuperTag requires the following as a separate <script> block -->
+	    <div class="data-layer-top parbase top-of-body"><!-- #1: BEGIN SUPERTAG TOP CODE v2.9.0 -->
+<script type="text/javascript" src="//c.supert.ag/foxtel/foxtel/supertag.js"></script>
+<!-- Do NOT remove the following tag: SuperTag requires the following as a separate <script> block -->
     <script type="text/javascript">
+        if (typeof document.head == 'undefined') {
+            document.head = document.getElementsByTagName('head')[0];
+        }
         if(typeof superT!="undefined" && typeof superT.t=="function"){superT.t();}
     </script>
-    <!-- #1: END SUPERTAG TOP CODE -->
-    <div class="parbase clientcontext"><link rel="stylesheet" href="/etc/designs/cs/brightcove/shared.min.css" type="text/css">
+<!-- #1: END SUPERTAG TOP CODE -->
+
+<!-- #2: BEGIN SUPERTAG PROMISECOLLECTION TOP CODE v2.9.0 -->
+    <script type="text/javascript">
+        window.promiseCall = function () {
+        window.promiseCollection = window.promiseCollection || [];
+            if (window.promiseCollection.length === 0) {
+                setTimeout(function () {promiseTrigger()}, 200);
+            } else {
+                setTimeout(function () {promiseTrigger()}, 0);
+            }
+            var promiseTrigger = function () {
+                Promise.all(window.promiseCollection)
+                   .then(function (values) {
+                       console.log('Promise collection triggered');
+                       if (typeof dataLayer !== 'undefined' && !window.lazyLoadComplete) {
+                          window.lazyLoadComplete = true;
+                          dataLayer.push({ trigger: "lazyLoadComplete" });
+                       }
+                   }, function (errValues) {
+                       console.error(errValues);
+                       if (typeof dataLayer !== 'undefined' && !window.lazyLoadComplete) {
+                            window.lazyLoadComplete = true;
+                            dataLayer.push({ trigger: "lazyLoadComplete" });
+                       }
+                   });
+            };
+        }
+    </script>
+<!-- #2: END SUPERTAG PROMISECOLLECTION TOP CODE -->
+</div>
+<div class="parbase clientcontext"><link rel="stylesheet" href="/etc/designs/cs/brightcove/shared.min.css" type="text/css">
 <script type="text/javascript" src="/etc/clientlibs/granite/underscore.min.js"></script>
 <script type="text/javascript" src="/etc/clientlibs/foundation/personalization/kernel.min.js"></script>
 <script type="text/javascript">
@@ -162,8 +204,18 @@
             });
         };
 
+        var cleanUpCookie = function(){
+            if(accountData.user.account){
+                var foxtelaccountid = accountData.user.account.accountNumber;
+                FOX.storage.removeData('data'+foxtelaccountid);
+            }
+            return true;
+        }
+
+
         $( document ).ready(function() {
           checkLogged();
+          $('#logged-in').submit(cleanUpCookie);
         });
           </script>
 
@@ -178,27 +230,26 @@
                <div class="top-logo-block">
                    <h1 class="page-title">Foxtel Privacy Policy and Opt-Out Information</h1>
                    <a href="/index.html" title="Home Page" class="logo-customer-page">
- 		                 <img src="/etc/designs/foxtel/clientlibs/img/foxtel-logo.png" alt="Foxtel">
+ 		                 <img aria-label="Foxtel" src="/etc/designs/foxtel/clientlibs/img/foxtel-logo.png" alt="Foxtel">
 		                   </a>
                     <div class="content-menu">
                         <div class="wysiwyg">
                             <ul>
 <li><a href="/get.html" adhocenable="false"><span class="bullet-arrow-item">GET Foxtel</span></a></li>
 <li><a href="/got.html" adhocenable="false"><span class="bullet-arrow-item">GOT Foxtel</span></a></li>
-<li><a href="http://www.foxtel.com.au/business/default.htm"><span class="bullet-arrow-item">For Business</span></a></li>
-<li><span class="bullet-arrow-item"><a href="http://www.foxtelplay.com.au/">Foxtel Play</a></span></li>
-<li><a href="http://access.foxtel.com.au/"><span class="bullet-arrow-item">Access Rewards</span></a></li>
+<li><a href="/business.html"><span class="bullet-arrow-item">For Business</span></a></li>
+<li><span class="bullet-arrow-item"><a href="/foxtelplay/index.html" adhocenable="false">Foxtel Play</a></span></li>
 <li><a href="/index.html"><span class="bullet-arrow-item">Foxtel home</span></a></li>
 </ul>
-<p><a href="/whats-on/tv-guide/default.htm" title="TV GUIDE" class="btn btn-cta" adhocenable="false">TV GUIDE</a></p>
+<p><a href="/got/whats-on/tv-guide/grid" title="TV GUIDE" class="btn btn-cta" adhocenable="false">TV GUIDE</a></p>
 </div>
                     </div>
                 </div>
             </div>
-            <div class="hidden-xs col-sm-7">
+            <div class="hidden-xs col-sm-8">
                 <ul class="top-level-nav">
-                    <li>
-                                <a href="/about/the-company.html" title="The Company"><span>The Company</span></a>
+                    <li tabindex="0">
+                                <a tabindex="0" href="/about/the-company.html" title="The Company"><span>The Company</span></a>
                                 <div class="content-menu">
                                         <div class="wysiwyg">
                                                 <ul>
@@ -209,8 +260,8 @@
 </div>
                                         </div>
                                 </li>
-                        <li>
-                                <a href="/about/media-centre/press-releases.html" title="Media Centre"><span>Media Centre</span></a>
+                        <li tabindex="0">
+                                <a tabindex="0" href="/about/media-centre/press-releases.html" title="Media Centre"><span>Media Centre</span></a>
                                 <div class="content-menu">
                                         <div class="wysiwyg">
                                                 <ul>
@@ -221,19 +272,19 @@
 </div>
                                         </div>
                                 </li>
-                        <li>
-                                <a href="/about/contact-us.html" title="Contact Us"><span>Contact Us</span></a>
+                        <li tabindex="0">
+                                <a tabindex="0" href="/about/contact-us.html" title="Contact Us"><span>Contact Us</span></a>
                                 </li>
                         </ul>
             </div>
-            <div class="col-xs-3 col-sm-3">
+            <div class="col-xs-3 col-sm-2">
                 <div class="row row-custom-xs">
 	            	<div class="col-xs-6 col-sm-12 col-sm-offset-0">
 	                        <div class="top-search">
 	                            <a href="javascript:;" title="" class="visible-xs-block btn-top-search" data-toggleresponsive-next="open">&nbsp;</a>
 	                            <form action="/got/search.html" autocomplete="off" method="get" class="top-search-form hidden-xs" id="top-search-form">
 	                                <label for="top-search-text" class="is-hidden"></label>
-	                                <input type="text" name="q" class="top-search-text" id="top-search-text" value="Search" onblur="if (this.value == '') this.value = 'Search';" onfocus="if (this.value == 'Search') this.value = '';" data-autocomplete="top-site-search" data-default-value="Search" data-autocomplete-link="https://www-prod.aws.foxtel.com.au/search-service/v1/suggest" data-autocomplete-category="TV Guide|Support|Products and Features">
+	                                <input type="text" name="q" class="top-search-text" id="top-search-text" value="Search" onblur="if (this.value == '') this.value = 'Search';" onfocus="if (this.value == 'Search') this.value = '';" data-autocomplete="top-site-search" data-default-value="Search" data-autocomplete-link="https://www.foxtel.com.au/search-service/v1/suggest" data-autocomplete-category="TV Guide|Support|Products and Features">
 	                                <input type="submit" class="btn-top-search">
 	                            </form>
 	                        </div>
@@ -244,18 +295,18 @@
         <div class="cta-group top-search">
 	            <form action="/got/search.html" method="get" autocomplete="off" class="top-search-form" id="top-search-form-mobile">
 	                <label for="top-search-text" class="is-hidden"></label>
-	                <input type="text" name="q" class="top-search-text" id="top-search-mobile-text" value="Search" onblur="if (this.value == '') this.value = 'Search';" onfocus="if (this.value == 'Search') this.value = '';" data-autocomplete="top-site-search" data-default-value="Search" data-autocomplete-link="https://www-prod.aws.foxtel.com.au/search-service/v1/suggest" data-autocomplete-category="TV Guide|Support|Products and Features">
+	                <input type="text" name="q" class="top-search-text" id="top-search-mobile-text" value="Search" onblur="if (this.value == '') this.value = 'Search';" onfocus="if (this.value == 'Search') this.value = '';" data-autocomplete="top-site-search" data-default-value="Search" data-autocomplete-link="https://www.foxtel.com.au/search-service/v1/suggest" data-autocomplete-category="TV Guide|Support|Products and Features">
 	                <input type="submit" class="btn-top-search hidden-xs">
 	            </form>
 	            <div class="visible-xs-block cta-header-block">
 	                <ul class="cta-list">
-	                    <li>
+	                    <li tabindex="0">
 	                        <a href="/get.html" title=""><i class="wi-header-icon icon-get-cta"></i>Get<span>Foxtel</span></a>
 	                    </li>
-	                    <li>
+	                    <li tabindex="0">
 	                        <a href="/got.html" title=""><i class="wi-header-icon icon-got-cta"></i>Got<span>Foxtel</span></a>
 	                    </li>
-	                    <li>
+	                    <li tabindex="0">
 	                        <a href="http://www.foxtel.com.au/business/default.htm" title=""><i class="wi-header-icon icon-business-cta"></i>For<span>Business</span></a>
 	                    </li>
 	                </ul>
@@ -384,6 +435,10 @@
 </div>
 	</div>
 </div>
+<div class="parbase script section"><style type="text/css">
+@media (min-width: 984px) .main-what-on .highlight-block { height: 280px; }
+.callout-sm { margin-top: 40px }
+</style></div>
 
 </div>
 </div>
@@ -440,7 +495,7 @@
 							</a>
 						</div>
 						<div class="col-sm-3 hidden-xs">
-							<a href="http://www.foxtel.com.au/business/default.htm" title="For Business ">
+							<a href="/business.html" title="For Business ">
 								<em class="foxtel-text">Foxtel </em>
 								For Business<span class="visible-lg">Get Foxtel or manage your service</span>
 								<em class="bg-line"></em>
@@ -448,7 +503,7 @@
 						</div>
 							
 						<div class="col-sm-3 hidden-xs wrap-btn">
-							<a href="http://www.foxtel.com.au/whats-on/tv-guide/default.htm" title="TV GUIDE" class="btn btn-cta">TV GUIDE</a>
+							<a href="/got/whats-on/tv-guide/grid.html" title="TV GUIDE" class="btn btn-cta">TV GUIDE</a>
 						</div>
 					</div>
 				</div>
@@ -461,8 +516,8 @@
 						<div class="col-sm-3 contact-module">
 							<div class="block border-left" data-maxheight-child="footer">
 								<div class="btn-wraper hidden-lg hidden-md hidden-sm">
-									<a href="http://www.foxtel.com.au/business/default.htm" title="For Business" class="btn btn-primary btn-for-business">For Business</a> 
-									<a href="http://www.foxtel.com.au/whats-on/tv-guide/default.htm" title="TV GUIDE" class="btn btn-cta">TV GUIDE</a>
+									<a href="/business.html" title="For Business" class="btn btn-primary btn-for-business">For Business</a> 
+									<a href="/got/whats-on/tv-guide/grid.html" title="TV GUIDE" class="btn btn-cta">TV GUIDE</a>
 									
 								</div>
 								<ul class="social-link">
@@ -484,17 +539,20 @@
 		</div>
 	</div>
 	</div>
-<div class="footerlinkcomp basecomp"><footer class="footer-global">
+<div class="footerlinkcomp basecomp"><div class="clearfix"></div>
+<footer class="footer-global">
     <div class="row">
         <div class="container">
             <div class="navbar-global" role="contentinfo">
                 <div class="navbar-footer-global">
-                    <p class="copyright">© Foxtel 2015</p>
+                    <p class="copyright"><span itemscope="" itemtype="http://schema.org/Organization">© <span itemprop="name">Foxtel</span> 2015</span></p>
                     <a class="navbar-toggle-global hidden-lg hidden-md hidden-sm" data-toggle="collapse" href="#navbar-1">Disclaimer and more...</a>
                 </div>
                 <nav class="navbar-collapse-global hidden-xs" id="navbar-1" role="navigation">
                     <ul class="navbar-nav-global">
-                        <li><a href="/about.html" title="About Foxtel">About Foxtel</a></li>
+                        <li><a href="http://access.foxtel.com.au" title="Foxtel Access">Foxtel Access</a></li>
+                            <li><a href="/allstars/index.html" title="Foxtel All-Stars">Foxtel All-Stars</a></li>
+                            <li><a href="/about.html" title="About Foxtel">About Foxtel</a></li>
                             <li><a href="/about/customer-terms.html" title="Customer Terms">Customer Terms</a></li>
                             <li><a href="/about/legal-stuff.html" title="Legal Stuff">Legal Stuff</a></li>
                             <li><a href="/about/privacy/privacy-policy.html" title="Privacy">Privacy</a></li>
@@ -510,7 +568,7 @@
 
 
 </div>
-<!-- #2: BEGIN SUPERTAG BOTTOM CODE v2.9.0 -->
+<div class="data-layer-bottom bottom-of-body parbase"><!-- #2: BEGIN SUPERTAG BOTTOM CODE v2.9.0 -->
     <script type="text/javascript">
         if(typeof superT!="undefined" && typeof superT.b=="function"){superT.b();}
     </script>
@@ -518,7 +576,7 @@
     <script type="text/javascript">
         if(typeof superT!="undefined" && typeof superT.b2=="function"){superT.b2();}
     </script>
-    <!-- #2: END SUPERTAG BOTTOM CODE -->
+<!-- #2: END SUPERTAG BOTTOM CODE --></div>
 <script type="text/javascript" src="/etc/designs/foxtel-aem-share/footer/clientlibs.min.js"></script>
 
 
