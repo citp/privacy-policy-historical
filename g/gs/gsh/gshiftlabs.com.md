@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gshiftlabs.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610053244id_/http%3A//www.gshiftlabs.com/contact-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gshiftlabs.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109140621id_/http%3A//www.gshiftlabs.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy - gShift
 
-gShift Labs Inc. respects the privacy of visitors to this website.
+**gShift Labs Inc. respects the privacy of visitors to this website.**
 
 Your personal information is only collected, used and disclosed by gShift Labs in accordance with this Privacy Policy. gShift Labs reserves the right to amend this policy at any time and for any reason. An up-to-date policy will always appear on this Website.
 
@@ -20,7 +20,7 @@ gShift Labs Inc.
 Barrie, ON, Canada  
 L4M 6G2
 
-To email gShift Labs: Please complete the [Contact Us](http://www.gshiftlabs.com/contact-info/ "Contact Info") Form. Your concerns will be addressed in a timely manner.
+To email gShift Labs: Please complete the [Contact Us](http://www.gshiftlabs.com/about-us/contact/ "Contact Info") Form. Your concerns will be addressed in a timely manner.
 
 gShift Labs provides the Web hosting and technical support services of this Website. Personal information about our blog subscribers resides on gShift Labs’ managed servers. This data is only accessed by gShift Labs if required in order to provide technical support, and is kept strictly confidential.
 
@@ -66,6 +66,6 @@ gShift Labs relies exclusively on the information provided by its Website users 
 
 The server is protected by an enterprise firewall that is immediately updated when new patches and fixes are released.
 
-Information entered anywhere else on our Website is transmitted to the gShift Labs server unencrypted, using standard Internet protocol (HTTP). You should be aware of the inherent risks of interception when communicating with others online. Visit gShift Labs’ [Terms and Conditions](http://www.gshiftlabs.com/company/terms-and-conditions/ "Terms and Conditions") for further details. Your email messages to gShift Labs are kept secure once they reach us – software is installed on all computers at gShift Labs’ location that prevents viruses and malicious activity.
+Information entered anywhere else on our Website is transmitted to the gShift Labs server unencrypted, using standard Internet protocol (HTTP). You should be aware of the inherent risks of interception when communicating with others online. Visit gShift Labs’ [Terms and Conditions](http://www.gshiftlabs.com/terms-and-conditions/ "Terms and Conditions") for further details. Your email messages to gShift Labs are kept secure once they reach us – software is installed on all computers at gShift Labs’ location that prevents viruses and malicious activity.
 
 _By providing you with this Privacy Policy, gShift Labs is pledging its continued commitment to protecting the information we collect. We regularly review our information-handling practices to ensure that we are abiding by this policy._
