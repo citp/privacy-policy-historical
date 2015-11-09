@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biz4security.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510141427id_/http%3A//biz4security.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biz4security.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109202317id_/http%3A//www.biz4security.com/help/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Help Center - Business for security - Powered By CPS Media
 
