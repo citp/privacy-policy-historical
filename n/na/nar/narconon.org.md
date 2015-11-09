@@ -1,39 +1,99 @@
-> *The following text is extracted and transformed from the narconon.org privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512120457id_/http%3A//www.narconon.org/about-narconon/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the narconon.org privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109013743id_/http%3A//www.narconon.org/online-privacy-notice.html) for the most accurate reproduction.*
 
 # Narconon Privacy Policy
 
-Privacy Policy
+Last Updated: 5 September 2015
 
-Narconon International website
+## Please Read Carefully Before Using this Website
 
-The information on the Narconon International website is for the purposes of educating the public on the rehabilitation services provided by Narconon centers around the world, informing readers of news related to Narconon activities and providing drug education services. Nothing on this website is intended to supplant proper medical care and treatment. If you or someone you are caring for has a medical emergency, you should contact emergency services in your area.
+This Privacy Notice describes the information Narconon International (“Narconon Int”) collects about you through this website, how we use and share that information, and the privacy choices we offer. This Privacy Notice applies to information we collect when you access or use our website or when you otherwise interact with us.
 
-If you are seeking rehabilitation services for a person with a substance abuse or addiction problem, or you would like to know more about drug abuse prevention services from Narconon, you can send an email to [info@narconon.org](mailto:info@narconon.org) or call 1-800-775-8750. 
+## Changes to this Privacy Notice
 
-Every reasonable effort has been made to ensure that the information on this website was accurate at the time it was made publicly available. If you find an error in the information on our website, please let us know at the email address above. 
+We may change this Privacy Notice from time to time. If we make changes, we will notify you by posting the updated Privacy Notice and revising the “Last Updated” date above. We encourage you to review the Privacy Notice whenever you use our website to stay informed about our information practices and about ways you can help protect your privacy.
 
-When you contact us for rehabilitation services, your information will be kept completely private. It will never be rented, sold or made available to anyone other than an authorized Narconon staff member who may contact you to offer Narconon services, if you have indicated that this is your preference. If at any time, you wish to terminate communication by phone or email, please send your request by email to [info@narconon.org](mailto:info@narconon.org) and then allow 7-10 days for the information to reach all parties who will need to receive it.
+## Notice of Privacy Practices – Health Information
 
-Please be aware that your email could be intercepted, read or modified in transmission by unauthorized parties. Email communications are not encrypted coming or going to Narconon International. 
+Certain protected health information that may be provided by you is protected as described in our [Notice of Privacy Practices](https://web.archive.org/web/20151109013743id_/http%3A//www.narconon.org/notice-of-privacy-practices.html). In the event of a conflict between the terms of this Privacy Notice and the terms of the Notice of Privacy Practices, the terms of the Notice of Privacy Practices shall control. 
 
-It is recommended that you do not send emails containing personal information from your place of employment since many companies claim ownership of any emails sent from their equipment or premises. 
+## Use of Website
 
-Your information will never be made public but may be anonymously aggregated and used to generate a greater understanding of the problems suffered by those needing rehabilitation services. 
+Your access to and use of this website are subject to certain terms and conditions, which are set forth in our [Terms of Use](https://web.archive.org/web/20151109013743id_/http%3A//www.narconon.org/terms-of-use.html).
 
-Narconon International does anonymously track the usage of visitors to the website only for the purpose of providing better service on the website. We may track the country of origin, the type of browser used, the pages visited and similar information. 
+## Collection of Information
 
-Narconon International does not intend to collect any personal information from any person under 13 years of age. If you are under 13, please do not enter any personally identifiable information. 
+### Information You Provide
 
-**Third Parties**
+We collect information you provide, such as when you sign up to receive our email newsletter, when you request a free information packet or portfolio, or when you fill out our pre-assessment questionnaire. We may collect, but are not limited to collecting, the following information: your name, email address, mailing address, phone number, payment card numbers, issues we can help you with, reasons why you want more information, and basic history of alcohol and/or other drug use.
 
-There is never any advertising on the Narconon International website from any third party. We do not have any affiliates other than licensed Narconon rehabilitation centers or drug education groups. Your information will never be shared outside this network of centers.
+### Information We Collect from Your Use of the Website
 
-**Photographs on the Narconon International website**
+We collect information about you when you use our website, including as follows:
 
-Narconon uses both original photographs from Narconon centers or stock photography on its website. Those appearing in original photographs have provided their written permission for these photographs to be used in this manner. The use of a stock photograph should not imply the endorsement of Narconon by the individual featured nor is it intended to imply a need of rehabilitation services by the person featured. 
+  * Device Information. We collect device-specific information when you access our website, including your hardware model, operating system and version, unique device identifiers, mobile network information, and information about the device’s interaction with our website. We may also identify other software running on the device (but will not collect any content from such software) for anti-fraud and malware-prevention purposes. 
+  * Use Information. We collect information about how you use our website, including your access times, browser types and language, and Internet Protocol (“IP”) addresses. 
+  * Information Collected by Cookies and Web Beacons. We use various technologies to collect information, and this may include sending cookies to your computer or mobile device. Cookies are small data files that are stored on your hard drive or in device memory by a website. Among other things, cookies retain your preferences and help evaluate and compile aggregated statistics about user activity. We may also collect information using web beacons. Web beacons are electronic images that may be used in our website or emails. We may use web beacons to deliver cookies, count visits, understand usage and effectiveness, and determine whether an email has been opened and acted upon. 
 
-**Restrictions**
 
-By viewing our website, you agree to use this content only as information about addiction in general, as educational material on drugs and the problems they can cause as helpful general advice for a person or family trying to deal with an addiction problem, or as advice on the rehabilitation services that Narconon centers around the world can offer. 
 
-Narconon International reserves all rights to text and photographic content on this site. You are welcome to read, download, print or relay content to others as a help for addiction or substance abuse problems. You may not rewrite, modify, redistribute, republish or use content in any way intended for commercial gain without the specific written permission of Narconon International. You may briefly quote passages from this website for educational purposes as long as the content is properly cited. 
+## Third-Party Analytics
+
+We may allow third parties to provide analytics services. These third parties may use cookies, web beacons, and other technologies to collect information, such as your IP addresses, identifiers associated with your mobile device or applications on the device, the browsers you use to visit our website, pages viewed, time spent on pages, links clicked, and conversion information. This information may be used by Narconon Int and other companies to analyze and track data, determine the popularity of certain content, and better understand your usage. This Privacy Notice does not apply to, and we are not responsible for, third-party cookies, web beacons, or other tracking technologies, and we encourage you to check the privacy policies of these third parties to learn more about their privacy practices.
+
+## Use of Information
+
+We use information about you to provide, maintain, and improve our website and to deliver the information and support you request.
+
+We may use information we collect to send you news and information about our services.
+
+We may also use information about you to track and analyze trends and usage in connection with our website; to protect our rights or property; to investigate and prevent fraud or other illegal activities; and for any other purpose disclosed to you in connection with our website.
+
+We may use third-party service providers to process and store personal information in the United States and other countries.
+
+## Sharing of Information
+
+We may share personal information about you as follows:
+
+  * With third parties to provide, maintain, and improve our website and services, including service providers who access information about you to perform services on our behalf (e.g., fraud prevention and verification services); 
+  * In connection with, or during the negotiation of, any merger, sale of company stock or assets, financing, acquisition, divestiture or dissolution of all or a portion of our business; 
+  * If we believe that disclosure is reasonably necessary to comply with any applicable law, regulation, legal process or governmental request; to enforce applicable user agreements or policies; to protect the security or integrity of our website or services; and to protect us, our users or the public from harm or illegal activities; and 
+  * With your consent. 
+
+
+
+We may also share aggregated, non-personally identifiable information with third parties.
+
+## Social Media and Third Party Platforms
+
+Certain sections or functionalities on our website may permit you to share information on third party social media sites or platforms such as Facebook, Instagram, LinkedIn, Twitter, Google+, or other similar sites (collectively, “Social Media Sites”). Narconon Int does not own or control such Social Media Sites, and posting your information on Social Media Sites is subject to the third party’s privacy policy and other legal terms, which may not provide privacy protections with which you agree. Narconon Int is not responsible for any act or omission of any Social Media Site, nor are we responsible for the consequences of your choosing to share your information on Social Media Sites.
+
+## Security
+
+We take reasonable measures, including administrative, technical, and physical safeguards, to help protect personal information from loss, theft, misuse, unauthorized access, disclosure, alteration, and destruction. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, Narconon Int cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. 
+
+## Your Privacy Choices
+
+### Personal Information
+
+You may update or correct information about yourself at any time by emailing us at info@narconon.org.
+
+### Cookies
+
+Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject cookies; however, our website may not function properly if you do so.
+
+### Links to Other Websites
+
+This website may contain links to other websites and those websites may not follow the same privacy practices as Narconon Int. We are not responsible for the privacy practices of third party websites. We encourage you to read the privacy policies of such third parties to learn more about their privacy practices.
+
+### Children
+
+Narconon Int does not knowingly collect or maintain personally identifiable information from persons under 13 years of age, and no part of the website or services are directed at persons under 13. If you are under 13 years of age, then please do not use the website or services. If Narconon Int learns that personally identifiable information of persons less than 13 years of age has been collected without verifiable parental consent, then Narconon Int will take the appropriate steps to delete this information. To make such a request, please contact us at info@narconon.org.
+
+### Contact
+
+Please contact us with any questions or concerns regarding this Privacy Notice at:
+
+Narconon International  
+7065 Hollywood Blvd  
+Los Angeles, CA 90028   
+Email: info@narconon.org 
