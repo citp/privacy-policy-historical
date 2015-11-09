@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the careerstructure.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508174827id_/http%3A//www.careerstructure.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerstructure.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109163531id_/http%3A//www.careerstructure.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
+
+We are updating our Privacy Policy on 1 December. To view our new Privacy Policy, please [visit this link.](http://www.careerstructure.com/privacy-policy-dec-2015)
+
+### Privacy Policy
 
 At CareerStructure.com we make every effort to comply with our obligations under the 1998 Data Protection Act. Additionally, we understand the importance of maintaining the confidentiality of your CV and other information stored about you while using the site.
 
@@ -8,7 +12,7 @@ You can remove any of the information that CareerStructure.com stores about you,
 
 Personal data which you supply to us may be transferred to third party service providers to be stored or processed on our behalf, including third parties located outside of the European Economic Area in countries where there may be a lower legal level of data protection. However, we will always endeavour to handle your information in accordance with this privacy policy, wherever it is processed.
 
-Privacy policy update (Last updated 4 December 2014)
+Privacy policy update (Last updated 13 July 2015)
 
 ## Registration details
 
@@ -28,7 +32,7 @@ CareerStructure will also use the aggregate data to identify employment trends a
 
 Some of our customers may be located in countries outside the European Economic Area.
 
-When you 'apply online', we store some information about you in your 'My CareerStructure' area, but it is protected by your password and may only be accessed by you. It does not form part of our CareerStructure.com candidate database and cannot be searched or accessed by CareerStructure.com customers. You can delete your 'My CareerStructure' account at any time. Your CV can only be viewed by a CareerStructure.com customer if you have consented to this within the profile section.
+When you 'apply online', we store some information about you in your 'My CareerStructure' area, but it is protected by your password and may only be accessed by you. When your profile is searchable your application activity (number of applications, job titles, locations & salaries) will be visible to CareerStructure customers. CareerStructure does not verify the names of organisations you applied to. We will respect the choices you make to limit sharing or visibility settings in your “My CareerStructure” account. You can delete your 'My CareerStructure' account at any time, make your profile anonymous or choose to not make your profile searchable. Your CV can only be viewed by a CareerStructure.com customer if you have consented to this within the profile section.
 
 If you choose to create a profile and upload a CV to our database, we rely on you to ensure that your details are kept up to date. You should update your CV at least every six months, particularly if your contact details have changed. You will still be able to log in at any time and update your CV and profile.
 
