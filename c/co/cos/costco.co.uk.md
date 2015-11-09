@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the costco.co.uk privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512144444id_/http%3A//www.costco.co.uk/your_rights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costco.co.uk privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109234206id_/http%3A//www.costco.co.uk/your_rights) for the most accurate reproduction.*
 
-# Costco UK - Your Rights
+# Your Rights | Costco UK
 
 ## Privacy Policy Last updated 07/05/2015
 
