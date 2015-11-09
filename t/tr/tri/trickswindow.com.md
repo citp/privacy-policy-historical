@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trickswindow.com privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514164917id_/http%3A//www.trickswindow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trickswindow.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109034535id_/http%3A//www.trickswindow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
