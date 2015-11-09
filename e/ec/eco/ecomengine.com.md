@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ecomengine.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609100306id_/http%3A//www.ecomengine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecomengine.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109131541id_/http%3A//www.ecomengine.com/privacy-policy) for the most accurate reproduction.*
 
-# eComEngine - Privacy Policy
+# Privacy Policy - eComEngine
 
 Your privacy is very important to eComEngine, LLC. This privacy statement provides information about the personal information that we collect, and the ways in which we use that personal information.
 
@@ -22,13 +22,3 @@ If there are any questions regarding this privacy policy, you may contact us usi
 Richmond, VA 23238
 
 800 757-6840
-
-####  Customer Success 
-
-“My experience with the group at eComEngine has been amazing. They are very professional, timely and quick to answer questions and accommodate our needs.” \- Angela Sherman, Cascade Outfitters
-
-####  Related Products 
-
-[](https://web.archive.org/products/smartprice)
-
-[](https://web.archive.org/products/ecomspy)
