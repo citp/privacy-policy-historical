@@ -1,40 +1,48 @@
-> *The following text is extracted and transformed from the lendkey.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423051042id_/http%3A//www.lendkey.com/for-lenders/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lendkey.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109154416id_/http%3A//www.lendkey.com%3Fp%3D1787) for the most accurate reproduction.*
 
-# Privacy Policy | Lendkey - Online Lending - For Lenders | LendKey – Online Lending Technology
-
-### Your Privacy Rights
+# Our Privacy Policy | LendKey
 
 Privacy is important to us. This Privacy Policy describes how we collect, use, and protect information and any choices you may have regarding such uses and disclosures. This Privacy Policy applies to our websites, online services, and any electronic communications you have with us.
 
 Please read this Privacy Policy carefully. **By using this Website, you agree to the terms of the Privacy Policy.**
 
- **
+* * *
 
-###  1\. Information We Collect
+  1. ### Information We Collect
+
+
+
 
 We may collect the following information from you and about you.
 
   * **Information You Provide to Us.** We may collect and keep any personal information you provide to us through our website or in any other manner, such as email. This includes information that identifies you and financial information. Information that identifies you may include your name, email address, date of birth, mailing address, telephone number, and Social Security number. Financial information may include your income, assets, or debts. We use this information to provide you with services. We may also collect information you provide to use about others, including their name, email address, date of birth, mailing address, telephone number, and Social Security number. In addition, we gather the names, email addresses, and other personal information provided by people who contact us through our website with questions about our company. We collect this information for the sole purpose of responding to such inquiries and do not store the contact information unless requested, for example job applicants who submit resumes.
-  * **Information from Third Parties.** We may obtain information about you from vendors, contractors, and other third parties. **You authorize LendKey and Lenders to obtain a personal credit profile from credit bureaus for credit pre-qualification and identity verification. You further agree that we may verify your identity and the information you provide us with third parties.**
- **
-  * **Cookies and Other Automatically Collected Information.** We collect information about your computer and your visits to our website, such as your IP address, geographical location, browser type, referral source, length of visit, and page views through the use of log files. We use cookies on our website, including session ID cookies and persistent cookies. A cookie is a text file sent by a web server to a web browser, and stored by the browser. The text file is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser and load the pages according to a user’s preferences for that particular website, including the personalization of content. Cookies are not tied to personally identifiable information. More importantly, using cookies also helps us protect the security of your account. Session ID cookies follow your activities on our website so that we can ensure that no one is making changes to your profile, applying for loans or making loans on your behalf. This information is encrypted. 
+  * **Information from Third Parties.** We may obtain information about you from vendors, contractors, and other third parties. **You authorize LendKey and Lenders to obtain a personal credit profile from credit bureaus for credit pre-qualification and identity verification. You further agree that we may verify your identity and the information you provide us with third parties**.
+  * **Cookies and Other Automatically Collected Information.** We collect information about your computer and your visits to our website, such as your IP address, geographical location, browser type, referral source, length of visit, and page views through the use of log files. We use cookies on our website, including session ID cookies and persistent cookies. A cookie is a text file sent by a web server to a web browser, and stored by the browser. The text file is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser and load the pages according to a user’s preferences for that particular website, including the personalization of content. Cookies are not tied to personally identifiable information. More importantly, using cookies also helps us protect the security of your account. Session ID cookies follow your activities on our website so that we can ensure that no one is making changes to your profile, applying for loans or making loans on your behalf. This information is encrypted.
 
-We may send a cookie that can be stored by your browser on your computer’s hard drive. We may use the information we obtain from the cookie in the administration of our website, to improve its usability and for evaluating our marketing effectiveness as described above. We may also use that information to recognize your computer when you visit our website (if you select the “remember me on this computer” option), and to personalize our website for you. Most browsers allow you to refuse to accept cookies. (For example, in Internet Explorer you can refuse all cookies by clicking “Tools,” “Internet Options,” “Privacy,” and selecting “Block all cookies” using the sliding selector). However, blocking cookies can also have a negative impact on the usability of our website.
+
+
+We may send a cookie that can be stored by your browser on your computer’s hard drive. We may use the information we obtain from the cookie in the administration of our website, to improve its usability and for evaluating our marketing effectiveness as described above. We may also use that information to recognize your computer when you visit our website (if you select the “remember me on this computer” option), and to personalize our website for you. We may also use that information to recognize your computer and display certain marketing messages when you or someone using your computer visit(s) our website and/or other websites. Most browsers allow you to refuse to accept cookies. (For example, in Internet Explorer you can refuse all cookies by clicking “Tools,” “Internet Options,” “Privacy,” and selecting “Block all cookies” using the sliding selector). However, blocking cookies can also have a negative impact on the usability of our website.
 
 Cookies may have long-term expiration dates and can stay in your hard drive for months at a time. While you can remove them as instructed by the “help” content in your chosen browser, disabling cookies will prevent you from using our website. As with many transactional websites, cookies must be enabled in order to use our website.
 
-  * **Information Collected by Third Parties.** We use third-party tracking services that use cookies to track non-personally identifiable information about visitors to our website. This may include page views and referral page information to track the success of our marketing efforts to bring people to our website as well as overall website performance. We use web beacons such as clear gifs, pixel tags, targeting pixels, third party pixels, or web bugs to track the number of new users who join our website in response to certain advertising efforts. This involves the use of small graphics that contain a unique identifier to track online users, some of which may be included in email messages or promotions to determine if a message has been opened or if a response is made. No personal or sensitive information is transmitted to advertising partners. However, third parties may use IP addresses to avoid double-counting the number of new members who joined as a result of the advertising campaign or for other purposes.
-**
-**
+  * **Information Collected by Third Parties.** We use third-party tracking services that use cookies to track non-personally identifiable information about visitors to our website. This may include page views and referral page information to track the success of our marketing efforts to bring people to our website as well as overall website performance. We use web beacons such as clear gifs, pixel tags, targeting pixels, third party pixels, or web bugs to track the number of new users who join our website in response to certain advertising efforts. This involves the use of small graphics that contain a unique identifier to track online users, some of which may be included in email messages or promotions to determine if a message has been opened or if a response is made. No personal or sensitive information is transmitted to such advertising partners. However, third parties may use IP addresses to avoid double-counting the number of new members who joined as a result of the advertising campaign or for other purposes.
+  * **How LendKey responds to “Do Not Track” Signals.** Some web browsers have a “Do Not Track” function that allows you to tell websites that you do not want to have your online activities tracked.  LendKey is not currently set up to respond to these “do not track” signals.
 
-###  2\. How We Use Information
+
+
+* * *
+
+  2. ###  How We Use Information
+
+
+
 
 We use information we collect about you to:
 
   * Provide services and products you request;
   * Provide customer service;
   * Manage your relationship with us;
-  * Communicate with you by email, postal mail, or telephone about products or services we offer or are offered by third parties;
+  * Communicate with you by email, postal mail, or telephone or through marketing messages when you or someone using your computer visit(s) our website and/or other websites about products or services we offer or are offered by third parties;
   * Enforce our terms and conditions;
   * Operate our business;
   * Enable our financial services partners to implement automatic payments and fund transfers;
@@ -53,7 +61,12 @@ We use aggregated information about your computer and your visits to our website
 
 In addition, we gather the names and email addresses of people who contact us through our website or email us with questions about our company. We collect this information for the sole purpose of responding to such inquiries and do not store the contact information unless requested by these people, for example job applicants who submit resumes.
 
-###  3\. How and When Your Information Is Shared With Other Parties
+* * *
+
+  3. ### How and When Your Information Is Shared With Other Parties
+
+
+
 
 We may share your information with:
 
@@ -77,21 +90,31 @@ We may provide this information in a standardized format that is not specific to
 
 **How You Can Access or Correct Your Information.** You can access all of your personal and personally identifiable information that we collect from you through this website by visiting your profile in the My Account section of our website. This section of the website is password-protected to better safeguard your information. As a registered user, you can update your password, email address, physical address, phone number, and financial account information at any time on the website, and if you need to change any other information in your profile, you can contact us at [customer.care@lendkey.com](mailto:customer.care@lendkey.com).
 
-**Non-Personal and Aggregate Information.** We may retain and share non-personal information we collect and information about you and other customers collectively that is not personally identifiable. We may combine it with non-personal information we obtain from other sources, and may share any aggregated information in any form with third parties. You may not access or correct your non-personal or aggregate information.
+**Non-Personal and Aggregate Information.** We may retain and share non-personal information we collect and information about you and other customers collectively that is not personally identifiable. This includes (for example) information about your computer and visits to our website and/or other websites. We may combine it with non-personal information we obtain from other sources, and may share any aggregated information in any form with third parties. You may not access or correct your non-personal or aggregate information.
 
 **Links to Other Websites.** We may offer links to partners’ websites or to third-party websites that have their own privacy policies. We make the decision to provide links to these websites based on the quality of information provided at the time the links are enabled, and we make every effort to monitor the continuing quality of content provided on these websites. The Privacy Policy does not apply to these external websites. Further, LendKey has no control over the content of these websites. Please review the privacy policies of these websites before you provide them with any of your personal information.
 
-###  4\. How We Protect Your Personal Information
+* * *
+
+  4. ### How We Protect Your Personal Information
+
+
+
 
 **Safeguards.** We use appropriate physical, technical, and procedural safeguards to protect your personal information from unauthorized access and disclosure. We encrypt the transmission of your personal information over the internet and only permit authorized employees, business partners, Lenders, and third-party service providers to have access to your personal information. We encourage you to take care when you handle or disclose your personal information, including passwords. No system can be completely secure, and we do not warrant that your personal information, transactions, or communication will always remain secure.
 
 **Children’s Privacy.** We do not knowingly collect, maintain, or use personal information from our website about children under age 13. If we learn that we have collected information from a child under the age of 13, we will promptly take all reasonable steps to delete the information.
 
-### 5\. Your Choices
+* * *
+
+  5. ### Your Choices
+
+
+
 
 You may choose not to provide us with personal information. However, we will be unable to provide you with our Services if you do not provide us with personal or financial information. Furthermore, due to the nature of our services, you may not opt out of the transfer of personal information to Lenders.
 
-**Changes to This Privacy Policy.** We may amend this Privacy Policy on one or more occasions by posting a revised policy on this website or a similar website that replaces this website.
+**Changes to This Privacy Policy.** We reserve the right to change this privacy policy at any time.  We may amend this Privacy Policy on one or more occasions by posting a revised policy on this website or a similar website that replaces this website.  We may also notify consumers who apply for loans via our website.
 
 **Contact Information.** If you have any questions about our Privacy Policy or our information practices, you may contact us at:
 
@@ -100,8 +123,8 @@ Attn: Compliance Department
 104 W. 27th Street, 4th Floor  
 New York, NY 10001
 
-Or customer.care@lendkey.com
+Or
 
-Last Updated: February 2, 2015
+customer.care@lendkey.com
 
-****
+Last Updated: May 14, 2015
