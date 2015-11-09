@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the automotivetouchup.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319053123id_/http%3A//www.automotivetouchup.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automotivetouchup.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109225846id_/http%3A//www.automotivetouchup.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy Statement | Touch Up Paint | AutomotiveTouchup
 
