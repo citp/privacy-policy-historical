@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the otogoldmine.com privacy policy that was archived on 2015-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150227020224id_/http%3A//www.otogoldmine.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the otogoldmine.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109060737id_/http%3A//www.otogoldmine.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
