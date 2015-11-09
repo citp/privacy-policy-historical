@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vpsland.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630120258id_/http%3A//www.vpsland.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vpsland.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109092156id_/http%3A//www.vpsland.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | VPSLAND
 
-__ **New!** \- Fully Dedicated Smart Servers Now Available [Learn More](https://go.vpsland.com/cloud-bare-metal-dedicated-servers.html)
+__**New!** \- Dedicated Servers Now Available  [Learn More](http://www.vpsland.com/dedicated-servers.html)
 
-###  We Keep Your Info Private
+###  We Keep Your Info Private 
 
 This is the Web site of VPSLAND.com. We can be reached via e-mail at support@vpsland.com. VPSLAND.com takes the privacy of its users very seriously and is committed to protecting their personal information. 
 
