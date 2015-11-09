@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jacplus.com.au privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503222059id_/http%3A//www.jacplus.com.au/jsp/general-nav/copyright/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jacplus.com.au privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109141744id_/http%3A//www.jacplus.com.au/jsp/general-nav/copyright/privacy_policy.jsp) for the most accurate reproduction.*
 
-# Wiley Australia - Copyright
+# Wiley Australia - Privacy Policy
 
 ## **JACARANDA PRIVACY POLICY**
 
@@ -28,7 +28,7 @@ Please note that Jacaranda's Privacy Policy is reviewed periodically. Jacaranda 
 
 You have the right to request access to your personal information and to request its correction. We will require you to verify your identity before proceeding.
 
-You can update your personal information at any time by logging into your account. However, if at any point you wish to contact us to access or correct your personal information or to lodge a complaint about the way in which Jacaranda collects, uses or discloses your personal information you may either enter the details of your request through the [Contact Us](http://www.jacplus.com.au/jsp/contact.jsp) page; make a request via email to [support@wiley.com](mailto:support@wiley.com) or contact us at:
+You can update your personal information at any time by logging into your account. However, if at any point you wish to contact us to access or correct your personal information or to lodge a complaint about the way in which Jacaranda collects, uses or discloses your personal information you may either enter the details of your request through the [Contact Us](http://jacplus.desk.com/customer/portal/articles/1823344-contact-jacaranda-support-form?b_id=6409?) page; make a request via email to [support@wiley.com](mailto:support@wiley.com) or contact us at:
 
 Attn: Legal Services  
 John Wiley & Sons Australia, Ltd  
