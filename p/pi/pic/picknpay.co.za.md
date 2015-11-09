@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picknpay.co.za privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524191934id_/http%3A//www.picknpay.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picknpay.co.za privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109055848id_/http%3A//www.picknpay.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Pick n Pay Privacy Policy - Pick n Pay
 
