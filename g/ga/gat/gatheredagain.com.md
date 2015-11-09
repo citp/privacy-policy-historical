@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gatheredagain.com privacy policy that was archived on 2015-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150211105046id_/http%3A//gatheredagain.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatheredagain.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109145104id_/http%3A//gatheredagain.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
