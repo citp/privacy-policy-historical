@@ -1,40 +1,118 @@
-> *The following text is extracted and transformed from the ro2.biz privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120045233id_/http%3A//ro2.biz/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ro2.biz privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109030256id_/http%3A//ro2.biz/legal_privacy.php) for the most accurate reproduction.*
 
-# Ro2.biz - Privacy Policy
+# Privacy Policy
 
-**RO2.BIZ PUBLISHING PRIVACY POLICY**  
-At Ro2.biz we represent online publishers and their properties ("Publisher Properties") to advertisers and support other properties sponsored by advertiser clients ("Client-Sponsored Properties"). Because we understand the importance of your privacy, we take safeguarding your personal information very seriously. We are providing the following Privacy Policy to inform you of our policies and procedures regarding the collection, use, and disclosure of the personally identifiable information collected from you during your use of any Ro2.biz website whether from (i) a Client-Sponsored Property or other website on ro2.biz (the "Ro2.biz domain") (such as the Ro2.biz home page at (http://www.ro2.biz/)) or (ii) a Client-Sponsored Property on a different domain (each a "Site" together our "Sites"). You'll know you're on one of our Sites because a version of this Privacy Policy will be posted.  
-This Privacy Policy may be updated from time to time for any reason. We will notify you of any material changes by posting the new policy on each Site and highlighting the changes. We suggest that you consult an Ro2.biz Site regularly to check for any changes to this Privacy Policy. If you have any questions about this Privacy Policy or our privacy practices, please contact us at mail@ro2.biz
+Ro2.biz has developed this Privacy Policy ("Policy") to inform you about how we deal with privacy issues in relation to our website. Your privacy is very important to us and you must agree to the terms of this Policy before becoming a Ro2.biz member and/or using the site covered by two domains located at ww ("the Site").
 
- **Information We Collect**  
-We collect information in connection with our Sites and Services in the following circumstances, though not every one of our Sites offers each of these four: (i) registering for an account, (ii) participation in surveys, sweepstakes, contests, and promotions ("Surveys and Promotions"), (iii) contacting Ro2.biz, and (iv) visiting and browsing any of our Sites.
+This Policy governs the information we collect about you and your use of information we provide to you. By accepting this Policy and the Website Terms of Access Agreement, you expressly consent to our use and disclosure of your personal information in a manner prescribed in this Policy. You acknowledge this by using the Site.
 
- **Registration**  
-Information collected during the registration process may include your name, username, email address, account password. We may also collect your IP address when you register and use the Site. From time to time in the future we may offer additional features, services, and promotional opportunities that may require you to submit additional information to participate.
+### Information about children
 
- **Contacting Ro2.biz**  
-You may also contact Ro2.biz by filling out and submitting a form through the Site. When you contact Ro2.biz through a Site, your full name and email address are transmitted to Ro2.biz. Any other information you choose to include in the form you submit would also be transferred to and stored on Ro2.biz's servers.
+Children (persons under the age of 18 years) are not eligible to use our services unsupervised and we ask that children not submit any personal information to us. If you are under the age of 18 years, you can browse the Site only in conjunction with and under the supervision of your parents or guardians. If you are under 18 years of age you cannot use the Membership Section of the Site.
 
- **Anonymous Information**  
-We also collect "Anonymous Information", such as traffic statistics and general usage patterns regarding page views, dates and times you use the Site, the website that referred you to the Site, and the method by which you accessed the Site, files accessed through the Site, responses sent to the browser, the length of data sent to the browser, and other data used in the communication between browser and Sites. Ro2.biz does not use cookies to collect information about your activities on any of our Sites.
+It is the responsibility of parents to monitor their children's use of our Site.
 
- **Cookies & 3rd Party Advertisements**  
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).  
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [ http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
+### Information collection
 
- **How We Use the Information we Collect**  
-We call information you provide that can be used to locate or identify you "Personally Identifiable Information." We use it to provide our Services and to communicate with you regarding such Services. We may also use your Personally Identifiable Information to provide information you have requested or products you have purchased (e.g., membership updates, e-mail newsletters), to resolve disputes, collect fees, and troubleshoot problems. We also may use your Personally Identifiable Information: to respond to specific inquiries made by you; to prevent potentially prohibited or illegal activities, and enforce our Terms of Service; and to customize, measure, and improve our Services, content, and layout. In addition, the Ro2.biz Network analyzes and uses your Personally Identifiable Information and supplements it with other information we obtain to notify you and target advertising to you regarding special offers, products, services, and information that we think may be of interest to you, and to measure the advertising effectiveness of advertisements on our Sites and Publisher Properties.
+**PART A - The Public Generally**
 
-We use your Anonymous Information for the purposes of system administration, providing certain site functionality and content, targeted advertising, site tracking, and collecting and reporting aggregate usage information. We may combine Anonymous Information with your personally identifiable information to notify you of special offers and target advertising and other content to you.
+Our primary purpose in collecting personal information is to provide you with a safer trading experience and encourage commerce between buyers and sellers using the Site as a venue. We only collect personal information about you that we consider necessary for this purpose and to achieve this goal.
 
- **Phishing**  
-We do not and will not, at any time, request your credit card information, your username, login password, or national identification numbers in a non-secure or unsolicited e-mail or telephone communication. Identity theft and the practice currently known as "phishing" are of great concern to Ro2.biz. Safeguarding information to help protect you from identity theft is our top priority. For more information about phishing, you may want to visit the Federal Trade Commission's website at http://www.ftc.gov/bcp/conline/pubs/alerts phishingalrt.htm
+You are under no obligation to provide us with this information and can access many aspects of the Site without providing us any personal information.
 
- **Information Sharing**  
-Except as set forth in this Privacy Policy, we will not share your Personally Identifiable Information with third parties.
+When you visit this website, we can record certain information in relation to your visit such as:
 
- **Compliance with Laws and Law Enforcement**  
-We may choose to disclose some or all of your Personally Identifiable Information to the government, law enforcement officials, or private parties if we, in our sole discretion, believe it necessary or appropriate to comply with the law, to respond to legal complaints, to comply with legal process (including subpoenas), to protect the rights of Ro2.biz or a third party, to ensure the safety of the public or any person, or to prevent or stop any illegal, unethical, or legally questionable activity.
+  * Your IP or proxy server IP;
+  * Basic domain information;
+  * Your Internet service provider is sometimes captured depending on the configuration of your ISP connection;
+  * The date and time of your visit to the website;
+  * The length of your session;
+  * The pages which you have accessed;
+  * The number of times you access our site within any month;
+  * The size of file you look at;
+  * The website which referred you to our website; and
+  * The operating system which your computer uses.
 
- **Accessing and Changing Your Information**  
-You may always access and modify certain of your Personally Identifiable Information you provide through Ro2.biz's self-service e-commerce platform by visiting the "sign in" area at the Ro2.biz Domain. You may or may not be able to modify the Personally Identifiable Information you provide through other parts of the Ro2.biz Domain or other Sites. If this causes concern, please contact us and we will provide information for the specific Site you reference.
+
+
+This information is only used for statistical and website development purposes.
+
+Various pages on this Site invite you to provide us your name and contact details, for example, to go onto our mailing list for our newsletter enter competitions, or to enable us to provide you with site related services such as notifications.
+
+If you use our Site's feedback and support forms, you are asked to provide your name, organization, title, address, email address and telephone number. Ro2.biz will not otherwise collect information from you through this Site unless you knowingly provide it to us.
+
+By voluntarily providing information to us when using the Site, you are consenting to the collection and use of your personal information by us.
+
+The Site uses session cookies, which are used only during a browsing session, and expire when you quit your browser. Upon closing your browser, the session cookie set by this Site is destroyed and no personal information is maintained which might identify you should you visit our Site at a later date.
+
+If you choose to buy or sell on our Site, we collect information about your buying and selling behavior. This information is only used for statistical and website development purposes.
+
+Please note that when you voluntarily disclose information on the bulletin boards or in the forum or in the chat areas of the Site or in member profile pages, your personal and other information disclosed in your communication shall become public information and can be collected and used by other parties. We cannot control what third parties in the bulletin board or chatroom do with your personal information.
+
+**PART B - Members**
+
+We collect information from people who use the Membership Section of our Site ("Members"). This information may be used:
+
+  1. to send news, information about our activities and general promotional material which we believe may be useful to you or us;
+  2. to monitor who is accessing the membership section of the Site or using services offered on the Site; and
+  3. to profile the type of people accessing the Site.
+
+
+
+If you choose to buy or sell on our Site we collect information about your buying and selling behavior.
+
+If you use a payment facilitator on the Site, we collect additional necessary information, including but not limited to billing address, credit card number and credit card expiry date.
+
+### Use of information and disclosure
+
+Ro2.biz will only use the information it collects through the Site for the following purposes:
+
+  * Forwarding important information relating to Ro2.biz activities and other requested information;
+  * Contacting you in response to your feedback or query to discuss our services;
+  * Monitoring Site performance;
+  * Improving our Site and services to you;
+  * Internal administration; and
+  * Other purposes that are in accordance with your instructions.
+
+
+
+Ro2.biz will not give, sell, trade or otherwise disclose any personal information about you to a third party unless:
+
+  * You have provided us with your consent; or
+  * We are required to do so by law.
+
+
+
+### Access and/or correction of your details
+
+You may request access to your personal information and can ask us to correct your personal information.
+
+You can do this by emailing [ legal@ro2.biz](mailto:legal@ro2.biz)
+
+### Disclaimer
+
+This Site contains links to other sites. Ro2.biz is not responsible for the privacy practices of linked sites. Underlined words and phrases are click-through links or hyperlinks to pages and websites. Ro2.biz strongly recommends that you read the Privacy Policy of the linked websites as they may contain further terms and conditions which apply to you
+
+### Security
+
+This Site has security measures in place to protect the loss or misuse of, or alteration or unauthorized access to, information under our control. However, if you send information from this Site, it will not be encrypted unless we expressly tell you it is.
+
+### Amendments to the privacy policy
+
+We may change this Policy. Such changes will be effective when a notice of the change is made available on the Site. We will provide you with thirty (30) days notice to allow you the opportunity to notify Ro2.biz if you do not agree to such changes.
+
+### Opt - out provision
+
+To protect you from unwanted email communications, Ro2.biz adopts an opt-out facility for marketing communication. If you decide you no longer would like to receive marketing communications from us, please advise us by sending an email to [ legal@ro2.biz](mailto:legal@ro2.biz) or follow the instructions in the "Opt-Out" section of the email you have received.
+
+If you request us not to use personal information in a particular manner or at all, we will adopt all reasonable measures to observe your request but we may still use or disclose that information if:
+
+  1.     1. we subsequently notify you of the intended use or disclosure and you do not object to that use or disclosure;
+    2. we believe that the use or disclosure is reasonably necessary to assist a law enforcement agency or an agency responsible for governmental or public security in the performance of their functions; or
+    3. we are required by law to disclosure the information.
+
+
+
+### International transfer of information
+
+Because our server and information processing equipment is located in the Romania, the information collected from you will be stored there. By voluntarily providing information to us when using the Site, you are consenting to the collection and use of your personal information by us, including the transfer to another jurisdiction other than your country.
