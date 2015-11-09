@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the freecultr.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531084354id_/http%3A//www.freecultr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecultr.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109085656id_/http%3A//www.freecultr.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Lifestyle Apparel Brand | FREECULTR
 
 [](http://www.freecultr.com/) [](http://www.freecultr.com/mens-wear/)
-
-  *     * Quote item is not found.
-
-
 
 [Freecultr.com](http://www.freecultr.com/) knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly.   **By visiting the Website & using our platform, you are accepting this Privacy Policy.**
 
