@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixability.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628103543id_/http%3A//www.pixability.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixability.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109024111id_/http%3A//www.pixability.com/privacy-policy) for the most accurate reproduction.*
 
 # Video Marketing Privacy Policy| Pixability Pixability
 
