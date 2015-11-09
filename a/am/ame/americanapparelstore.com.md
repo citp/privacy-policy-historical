@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanapparelstore.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607034133id_/http%3A//store.americanapparel.net/aboutus/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanapparelstore.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109134923id_/http%3A//store.americanapparel.net/aboutus/privacypolicy.jsp) for the most accurate reproduction.*
 
 # Sign In/Create Account
 
@@ -224,4 +224,4 @@ Attention: Privacy Officer
 747 Warehouse St.  
 5th Floor - IT  
 Los Angeles, CA 90021  
-Privacy@AmericanApparel.net
+Privacy@AmericanApparel.net 
