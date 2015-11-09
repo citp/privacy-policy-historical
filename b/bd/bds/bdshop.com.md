@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bdshop.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426024842id_/http%3A//www.bdshop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdshop.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109154943id_/http%3A//www.bdshop.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at BDSHOP.com
 
