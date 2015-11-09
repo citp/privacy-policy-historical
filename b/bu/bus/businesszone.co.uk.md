@@ -1,121 +1,232 @@
-> *The following text is extracted and transformed from the businesszone.co.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142903id_/http%3A//www.businesszone.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businesszone.co.uk privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109060849id_/http%3A//www.businesszone.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# BusinessZone.co.uk privacy statement
+# Privacy policy | BusinessZone
 
-**Privacy policy updated May 2012:**  
-In line with the new European e-Privacy Directive that comes into effect on 26 May 2012, we have updated this policy with new information on the **cookies** this website collects and uses.
+Sift Media Limited ("We") are committed to protecting and respecting your privacy.
 
-Welcome to our website. If you continue to browse and use this website you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our privacy policy govern BusinessZone.co.uk's relationship with you in relation to this website.
+This policy (together with our [ **[terms of use](http://www.businesszone.co.uk/terms-and-conditions-of-use)** ] and any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.
 
-The term BusinessZone.co.uk or "us" or "we" refers to the owner of the website whose registered office is Bridge House, 48-52 Baldwin Street, Bristol BS1 1QB. Our company registration number is Our company registration number is 05923499 registered in England and Wales. The term "you" refers to the user or viewer of our website.
+Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting any of our sites (as set out in our terms of use) you are accepting and consenting to the practices described in this policy.
 
-The use of this website is subject to the following terms of use:
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is Sift Limited of Bridge House, 48-52 Baldwin Street, Bristol, BS1 1QB. We are a subsidiary company of Sift Limited.
 
-  * The content of the pages of this website is for your general information and use only. It is subject to change without notice.
-  * Neither we nor any third parties provide any warranty or guarantee as to the accuracy, timeliness, performance, completeness or suitability of the information and materials found or offered on this website for any particular purpose. You acknowledge that such information and materials may contain inaccuracies or errors and we expressly exclude liability for any such inaccuracies or errors to the fullest extent permitted by law.
-  * Your use of any information or materials on this website is entirely at your own risk, for which we shall not be liable. It shall be your own responsibility to ensure that any products, services or information available through this website meet your specific requirements.
-  * This website contains material which is owned by or licensed to us. This material includes, but is not limited to, the design, layout, look, appearance and graphics. Reproduction is prohibited other than in accordance with the copyright notice, which forms part of these terms and conditions.
-  * All trade marks reproduced in this website which are not the property of, or licensed to, the operator are acknowledged on the website.
-  * Unauthorised use of this website may give rise to a claim for damages and/or be a criminal offence.
-  * From time to time this website may also include links to other websites. These links are provided for your convenience to provide further information. They do not signify that we endorse the website(s). We have no responsibility for the content of the linked website(s).
-  * You may not create a link to this website from another website or document without BusinessZone.co.uk's prior written consent.
-  * Your use of this website and any dispute arising out of such use of the website is subject to the laws of England and Wales.
+**Information we may collect**
+
+We may collect and process the following data about you:
+
+  * **Information you give us**. You may give us information about you by filling in forms on our site, using social media logins and/or other plugins, or by corresponding with us by phone, email or otherwise. This includes information you provide when you register to use our site, subscribe to a newsletter or service, order products or services, upload content, and/or participate in discussion boards or other social media functions on our site. The information you give us may include (but is not necessarily limited to):
 
 
 
-### Definition
+  * your personal name and address;
 
-The term BusinessZone.co.uk or "us" or "we" refers to the owner of the website whose registered office is Bridge House, 48-52 Baldwin Street, Bristol BS1 1QB. Our company registration number is Our company registration number is 05923499 registered in England and Wales. The term "you" refers to the user or viewer of our website.  
- 
+  * your business name and address;
 
-### Information Collection and Use
+  * your email address;
 
-We collect information from our users at several different points on the Website - this can be for registration, login, customer service and billing purposes, and also so that we may customise the Website according to individual selections. Sift Media is the sole owner of the personal information collected from this Website.
+  * your phone number;
 
-Your details are never sold or rented to any third parties. However, where your details are requested in order to download documents from our sponsors, you agree that such details will be provided to the sponsor.  
- 
+  * your financial and credit card information; and/or
 
-### Registration
+  * your photograph
 
-In order to access the full range of content and features on the Website, and also to receive our regular email bulletins, we require users to complete a member registration form. During registration a user is required to give contact information (such as name, email address, and selected information about the company that you work for).
+  * **Information we collect about you**. Each time you visit our site or interact with the emails we send to you, we may automatically collect the following information:
 
-It is optional for the user to provide certain demographic information (such as gender), however we encourage the full completion of the registration form so that we can refine our editorial content and provide a more personalised experience.  
- 
+    * technical information, including the Internet protocol (IP) address used to connect your computer to the internet, your login information, browser type and version, operating system and platform;
 
-### Order forms
+  * information about your visit, including the URL clickstream to, through and from our site (including date and time); pages, resources and/or products you viewed or searched for; page response times, errors, length of visits to certain pages, page interaction, and methods used to browse away from the page;
 
-We sometimes may request additional information from users on order forms. Users have to provide contact information (such as name and delivery address) and financial information (such as credit card number and expiry date). This information is used for billing purposes and to fulfil customer orders. If we have trouble processing an order, this contact information is used to get in touch with the user.
+  * information about your interaction with our emails, including whether you have opened the email, the number of times the email is accessed, and your interaction with email content including the links you have clicked.
 
-### Cookies
+  * **Information we receive from other sources**. We may receive information about you if you use any of the other websites we or any of our group companies operate or the other services we provide. We are also working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies) and may receive information about you from them.
 
-A cookie is a small text file written to your hard drive that contains information about your account on this Website. Cookies do not contain any personal information about users. During the course of your visit to this Website, the pages you see, along with a cookie, are downloaded to your device. Cookies enable us to collect useful information such as the device a user is using and whether they have visited the website before. This is done on a repeat visit by checking to see, and finding, the cookie left there on the last visit.
 
-**How does BusinessZone use cookies?**  
-Information gathered from cookies helps us to analyse the behaviour of our visitors and their online behaviour and patterns. This means we can provide you with a better community and user experience by tailoring our site to your needs. We are constantly looking for ways in improve our online community and information from cookies is critical for this. 
 
-Cookies do not give us any personal information about you or your business. They simply allow us to see which areas of the site are working well i.e. visited most and which content is most of interest.
 
-Cookies also allow you to have a more seamless experience of using the site i.e. you remain logged in for entire sessions or multiple user sessions, removing the need to remember usernames and passwords on a regular basis. Our session cookies are therefore essential to the functionality and usability of our site. 
+**Uses made of the information**
 
-**Third Party Cookies on BusinessZone pages**  
-During any visit to this Website you may notice some cookies that are not related to BusinessZone or Sift Media. These may include 3rd party advertising cookies. 
+We use information held about you in the following ways (the following lists are not exhaustive):
 
-You may be served a 3rd party cookie directly from one of our advertisers. However, 3rd party cookies only gather anonymous information. The 3rd party cookies that our advertisers serve simply allows ads to be shown that may be relevant to you based on previous pages and content you have viewed. 
+  * **Information you give to us**. We will use this information:
 
-3rd party cookies will come from Doubleclick, Atlas, Yieldmanager, Google DFP, Audience Science (revsci.net).
+    * to enable you to access the content and functions available via the site, provide you with any products and services you request, and carry out our obligations arising from any contracts entered into between you and us;
 
-Any widgets we use like Google+, Twitter, FB, Linkedin may also set their own cookies and set their own Google analytics cookies.
+  * to provide you with information about other resources, materials, goods and services we offer that are similar to those that you have already accessed, purchased or enquired about;
 
-You should check the third party websites for more information about these.
+  * to provide you, or permit selected third parties to provide you, with information about goods or services we feel may interest you. If you are a new user, and where we permit selected third parties to use your data, we (or they) will contact you only if you have consented to this. If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data (i.e the account registration form);
 
-**How to reject cookies?**  
-If you wish to restrict or block the cookies which are set by any Sift Media website, you can do this through your browser settings. The Help function within your browser should tell you how. For information on how to do this on the browser of your mobile phone you will need to refer to your handset manual.
+  * to notify you about changes to our service;
 
-**Please be aware that restricting cookies will have an impact on the functionality of this website and the quality of your user experience.   **
+  * to ensure that content from our site is presented in the most effective manner for you and for your computer.
 
-**List of cookies used on this website:**  
- 
+  * **Information we collect about you**. We will use this information:
 
-**  Cookie name** |   **Purpose**  
----|---  
-**  SESS*  
-(Example SESS1ca9a32632600b7812b98819fcf511d2)** | Session cookie:  
-Assigned when you log in, this keeps you logged in to the site so you don’t have to constantly re-enter your username and password. This cookie is essential for site functionality and the user experience.  
-**  Drupal.tableDrag.showWeight, has_js** | CMS settings:  
-Drupal (<http://drupal.com/>) is our content management system and sets these cookies to store user interface preferences.  
-**  __gads, admanager_session_cookie, gam_web_property, __ar_v4    ** | Primary ad server:  
-These cookies are responsible for, for example, displaying advertisements in a particular order or for showing particular ads to people in particular countries or locations.  
-**  __utma, __utmb, __utmc, __utmv, __utmz** | Google analytics:  
-We use this to monitor the volume of site traffic. This does not collect any personal information about you or your business.  
-**  rsi_segs** | Behavioural ad targeting:   
-This contains a series of codes that denote categories a user falls into based on previous browsing. For example, that they have ‘viewed at least three articles about a particular subject in the last week’. No personal information about you or your business is collected or stored.  
-  
-### Links
+    * to administer our site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
 
-The content on the Website may include links to third party external sites. You agree that we cannot be held liable for the content, nature or reliability of any third party links.
+  * to improve our site;
 
-### Surveys & competitions
+  * to allow you to participate in interactive features, when you choose to do so;
 
-From time-to-time the Website will request information from users via surveys or competitions. Participation in these surveys or competitions is completely voluntary and the user therefore has a choice whether or not to disclose any information requested. However, the provision of information may be a condition of entry into such surveys or competitions. Information requested may include contact information (such as name and delivery address), and demographic information (such as postcode or company turnover).
+  * to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you;
 
-Contact information will be used to notify the winners and to award prizes. Survey information will be used for purposes of monitoring or improving the functionality of the Website.
+  * to make suggestions and recommendations to you and other users of our site about content, goods or services that may interest you or them.
 
-### Security
+  * **Information we receive from other sources**. We may combine this information with information you give to us and information we collect about you. We may use this information and the combined information for the purposes set out above (depending on the types of information we receive).
 
-This Website takes every precaution to protect our users' information. When users submit sensitive information via the Website, your information is protected both online and off-line.
 
-When our registration or order form asks users to enter sensitive information (such as a credit card number), all information is protected with 128-bit SSL (Secure Sockets Layer) encryption.
 
-If you have any questions about the security at our website, please contact:   
-member-services@businesszone.co.uk  
- 
 
-### Correcting/updating your personal information
+**Disclosure of your information**
 
-If your details change (such as your email address) you can edit it directly on your personal profile. If you have difficulties accessing your profile, please contact:  
-member-services@businesszone.co.uk  
- 
+We may share your personal information with any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
 
-### Notification of changes
+We may also share your information (including personal data) with selected third parties including:
 
-If we should need to change our Privacy policy, we will post those changes on the Website's homepage, and also in our email bulletins, so that members of the Website are aware of what information we collect and how it is used.
+  * Business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you. This includes (but is not limited to) the following suppliers:
+
+    * Mollom, a supplier which provides a monitoring service for our site to protect it from malicious activity;
+
+    * Cxense, a supplier which enables us to monitor the usage of our site and the demographics of our visitors, which helps us to improve and customise our site and provide advertisers with relevant information (as set out below); and
+
+    * ExactTarget, a supplier which provides us with a cloud-based email system to enable us to provide you with customised newsletters and updates.
+
+  * Third parties on whose behalf we have conducted surveys, competitions, promotions and other activities which you have chosen to take part in.
+
+  * Advertisers and advertising networks that require the data to select and serve relevant adverts to you and others.  We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target. We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.
+
+  * Analytics and search engine providers that assist us in the improvement and optimisation of our site.
+
+  * In the event that we sell or buy any business or assets, the prospective seller or buyer of such business or assets.
+
+  * Parties to whom we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use or terms and conditions of supply and other agreements; or to whom we disclose or share data in order to protect the rights, property, or safety of the Sift Media group of companies, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+
+
+
+
+**Where we store your personal data**
+
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+
+All information you provide to us is stored on our secure servers. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+
+**Social media**
+
+If you use social media plugins or features on our site, including but not limited to the LinkedIn login function, you agree that we may receive information about you from social media sites (including personal information such as your name, gender, date of birth and location) in order to enable us to provide you with an online account and to enable you to use the site and its features. Any information received by us via the use of social media functions shall be stored and used strictly in accordance with this privacy policy.
+
+**Your rights**
+
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking (or omitting to check) certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at **[help@siftmedia.co.uk](mailto:help@siftmedia.co.uk)** and please state the site it is in reference to.
+
+Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.
+
+**Access to information**
+
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+
+**Cookies**
+
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site.
+
+A cookie is a small text file written to your hard drive that contains information about your account and use of this site. Cookies do not contain any personal information about users. Cookies enable us to collect useful information and to improve your experience when accessing and using our site.
+
+The cookies we use on our site include:
+
+  * **Mollom**  
+We use this service to limit spam attacks across the sites
+
+  * The service:
+
+    * We use a service called Mollom to monitor and protect our website from malicious activity. Mollom operates a web service that tries to determine the quality of member registrations and messages posted to our website, and particularly tries to determine whether these registrations/messages are to be considered as unsolicited registrations/messages (also called "spam").
+
+  * The data Mollom stores about you:
+
+    * The content of your message, your name or nickname, IP address, user ID, OpenID, email address, URL of your website, and the date and time you post a message or registered.
+
+
+
+
+For Mollom’s full terms and conditions, please [**click here**](https://mollom.com/web-service-privacy-policy).
+
+  * **Cxense**  
+We use this service to offer personalisation of content and advertising 
+
+  * The service: 
+
+    * This service runs in the background on our sites and sends one or more cookies to your computer, or handheld device to collect non-identifiable information. These cookies are used to help improve the quality of our service, including for storing user preferences, improving ad selection, content recommendations, and search results, as well as tracking user trends, such as what content people consume. We also use cookies in our advertising services to help advertisers and publishers serve and manage ads across the web.
+
+  * The data Cxense stores about you:
+
+    * Your non-identifiable browsing history across any of our sites; including but not limited to, device type, pageviews, depth of visit, dwell time, advertisements interaction.
+
+
+
+
+For more details on Cxense please visit their website [**http://www.cxense.com**](http://www.cxense.com/)
+
+  * **Google DoubleClick for publishers (DFP)**  
+ _We use this this service to bring advertiser messages to our audience._
+  * _The service:_
+    * DFP is an advertisement software as a service application run by Google. We use DFP to serve third-party advertisements to our audience. These third-party advertiser can drop cookies on to your browser. As site owners we do not directly control these cookies. You can find more information about the third-party advertising cookies on your browser from our site and others by visiting  **[Network Advertising Initiative](http://www.networkadvertising.org/choices/)**  (NAI). If you are based in the European Union and would like to learn more about how advertisers use these types of cookies or to choose not to receive them, please visit  **[www.youronlinechoices.eu](http://www.youronlinechoices.eu/)**. If you are based in the United States and would like to learn more, please visit  **[www.aboutads.info/choices](http://www.aboutads.info/choices/)**.
+  * _Related links_ : 
+    * **[Google Privacy Policy](http://www.google.com/intl/en/policies/privacy/)**  
+This policy will help you understand what data Google collects, why they collect it and what they do with it
+  * **[Google Partner Privacy Policy](http://www.google.com/intl/en/policies/privacy/partners/)**  
+This Policy gives you details on how Google uses your data and how you can control what you send to them, when using third party sites such as ours.
+
+
+  * **Google Analytics**  
+We use this this service to improve your experience across the sites
+
+  * The service:
+
+    * This service runs in the background and drops one or more cookies to your computer, or handheld device. It helps us measure how you interact with our websites content by tracking your user journey and site interactions. The cookies store non-identifiable information about your browsing history, we use this data to analyse patterns and trends to help improve your experience .
+
+  * The data Google Analytics stores about you:
+
+    * Non-identifiable data such as, visits, pages views, time on site, and the journey you take through the site.
+
+
+
+
+For more details on Google Analytics please visit their website [**http://www.google.com/analytics/**](http://www.google.com/analytics/)
+
+  * **AdThis**  
+We use this service to monitor social sharing of content
+
+  * The service:
+
+    * As part of the Service, we operate the AddThis sharing platform, this allows you to share our content across social channels. You can find the AdThis feature on all our articles and data is only collected when a user interacts with one or more of the social icon buttons. We collect certain non-personally identifiable information automatically for tracking and analysis purposes. We share this data with AdThis, their terms and conditions can be found on their website [**http://www.addthis.com/privacy/privacy-policy**](http://www.addthis.com/privacy/privacy-policy)
+
+  * The data AdThis stores about you:
+
+    * We collect non-personally Identifiable Information via the AddThis Button for use on the AddThis Platform. For example, when you visit a web page that contains one of the AddThis Buttons, their (AdThis) server logs collect your Internet Protocol address, browser type, browser language, the date and time you visited that web page, and (if you came to a web page where an AddThis Button is enabled via a search engine such as Google), the web search that landed you on that web page.
+
+  * **Drupal**  
+We use this service as a platform to power our content management system
+
+  * The service:
+
+    * Drupal ( **<http://drupal.com/>** ) is our content management system and sets cookies to store user initiated interface preferences. This helps make your visits easier and the site more useful to you. Our Drupal content management system stores the data that you pass when signing up for an account or interacting with the site, such as filling in a web form to download a PDF.
+
+  * The data Drupal stores about you:
+
+    * Drupal stores any information that you enter into a field on our site, for example; your comments, private messaging, email address, your name, company size, company turnover. 
+
+
+
+
+Third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies.
+
+If you wish to restrict or block the cookies which are set by our site, you can do this through your browser settings. The "help" function within your browser should provide information about this. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our site.
+
+**Changes to our privacy policy**
+
+Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by email. Please check back frequently to see any updates or changes to our privacy policy.
+
+**Contact**
+
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to **[help@siftmedia.co.uk](mailto:help@siftmedia.co.uk)** and please state the website it is in reference to.
+
+Thank you for visiting our site.
