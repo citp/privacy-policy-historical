@@ -1,43 +1,80 @@
-> *The following text is extracted and transformed from the bestoffersforu.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408073402id_/http%3A//www.bestoffersforu.com/policy%3Flocale%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestoffersforu.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110061303id_/http%3A//bestoffersforu.com/en/policy) for the most accurate reproduction.*
 
-# Bestoffersforu.com - Find the best offers around on just about everything. From gadgets to clothes, from holidays to finance.
+# Best Offers For U - Privacy Policy
 
-  * [Home](https://web.archive.org/en) /
-  * Privacy Policy
+This Privacy Policy governs the manner in which **Best Offers For U** collects, uses, maintains and discloses information collected from users (each, a 'User') of the [http://bestoffersforu.com](https://web.archive.org/en) website ('Site'). This privacy policy applies to the Site and all products and services offered by **Best Offers For U**.
+
+#### Personal identification information
+
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our website, register on the website, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+
+#### Non-personal identification information
+
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+
+#### Web browser cookies
+
+Our Site may use 'cookies' to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+
+#### How we use collected information
+
+**Best Offers For U** may collect and use Users personal information for the following purposes:
+
+  * To improve customer service 
+
+\- Information you provide helps us respond to your customer service requests and support needs more efficiently.
+
+  * To personalize user experience 
+
+\- We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+
+  * To improve our Site 
+
+\- We may use feedback you provide to improve our products and services.
+
+  * To run a promotion, contest, survey or other Site feature 
+
+\- To send Users information they agreed to receive about topics we think will be of interest to them.
+
+  * To send periodic emails 
+
+\- We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
 
 
-What information do we collect?
 
-We collect information from you when you register on our site.
+#### How we protect your information
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network Privacy Policy.
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-What do we use your information for?
+#### Sharing your personal information
 
-Any of the information we collect from you may be used in one of the following ways:
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
-  * \- To personalize your experience (your information helps us to better respond to your individual needs)
-  * \- To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
-  * \- To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
-  * \- To administer a contest, promotion, survey or other site feature
+#### Third party websites
 
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
 
+#### Advertising
 
-Do we use cookies?
+Ads appearing on our website may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+#### Changes to this privacy policy
 
-Do we disclose any information to outside parties?
+**Best Offers For U** has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+#### Your acceptance of these terms
 
-Your Consent
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-By using our site, you consent to our Privacy Policy.
+#### Contacting us
 
-Best Offers For U  
-Corporate Commons  
+If you have any questions about this Privacy Policy, the practices of this website, or your Dealings with this website, please contact us at:
+
+**Best Offers For U, Corporate Commons**  
 6200 Stoneridge Mall Road  
 3rd Floor , Pleasanton  
-Email: offers@bestoffersforu.com
+Pleasanton, CA, 94588  
+email: [info@bestoffersforu.com](mailto:info@bestoffersforu.com)
+
+_This document was last updated on September 18, 2014_
