@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kipling.com privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427212948id_/http%3A//www.kipling-usa.com/privacy-policy-kip/privacy-policy-kip.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kipling.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110190604id_/http%3A//www.kipling-usa.com/privacy-policy-kip/privacy-policy-kip.html) for the most accurate reproduction.*
 
-# OUR PRIVACY POLICY
+# Kipling - A colorful array of handbags, backpacks, luggage, wallets, messenger bags, travel accessories and much more.
 
 _Last updated: September 26, 2014_
 
