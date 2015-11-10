@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the atlasandboots.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511210626id_/http%3A//www.atlasandboots.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlasandboots.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110133319id_/http%3A//www.atlasandboots.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Atlas and Boots
+# Privacy | Atlas & Boots
 
-### Our privacy policy
+## Our privacy policy
 
 We want visitors to our website to be able to take part fully in the activities and offers we provide. We also want to make sure that when we collect information from you, we do so in a way that does not infringe your right to privacy. This Privacy Policy is designed to give you useful information about the way we collect and use personal information and how we use cookies.
 
 By using our website you accept the terms of this Privacy Policy.
 
-### Personal information
+## Personal information
 
 We will not collect any personal data from you unless you specifically provide it and we will only use that information for the purposes to which you have consented. We do not ask you to provide any more information than is reasonably necessary to enable you to participate in an activity on our website and to improve the website.
 
@@ -40,10 +40,8 @@ Cookies are small text files that are placed on your computer or mobile device b
 
 By your using this website, we imply that you have read this policy and agree to us sending you cookies.
 
-### How to contact us
+## How to contact us
 
 If you have any questions about this website or our privacy policy, please contact us by writing to [contact@atlasandboots.com](mailto:contact@atlasandboots.com).
 
 _First posted: 10 March 2015_
-
-​ 
