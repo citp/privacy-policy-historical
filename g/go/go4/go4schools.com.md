@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the go4schools.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408103345id_/http%3A//www.go4schools.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go4schools.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110080622id_/http%3A//www.go4schools.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy : GO 4 Schools
 
@@ -6,7 +6,7 @@ GO 4 Schools would like to place cookies on your computer to help us make this s
 
 I accept cookies from this site.
 
-Last modified: May 24, 2012
+Last modified: April 24, 2015
 
 Hyperspheric Solutions Ltd ("Hyperspheric"), the company behind the GO 4 Schools product, recognises that privacy is important. This Privacy Policy applies to the GO 4 Schools product ("www.go4schools.com") and lets you know how any personal information is processed and used by us. Our procedures covering the storage and disclosure of your information are designed to comply with the Data Protection Act 1998.
 
@@ -31,7 +31,13 @@ In order to provide our full range of services, we may collect the following typ
 
 
 
-This information is used for the provision of the GO 4 Schools service, plus:
+This information is used for the provision of the GO 4 Schools service, including but not limited to:
+
+  * Allowing schools to support parents with access to their children's data.
+
+
+
+And for:
 
   * Auditing, research and analysis in order to maintain, protect and improve our services.
   * Ensuring the technical functioning of our network.
