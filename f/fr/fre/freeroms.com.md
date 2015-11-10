@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the freeroms.com privacy policy that was archived on 2015-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150224184502id_/http%3A//www.freeroms.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeroms.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110012747id_/http%3A//www.freeroms.com/privacy.htm) for the most accurate reproduction.*
 
-# Virtual Webs Privacy Policy for FreeROMS.com
+# Sapphire Creations Privacy Policy for FreeROMS.com
 
-Virtual Webs has created this privacy statement in order to demonstrate our firm commitment to privacy.
+Sapphire Creations has created this privacy statement in order to demonstrate our firm commitment to privacy.
 
 All trademarks and copyrights are owned by their respective companies throughout the webpages. 
 
-Customer's contact information is used to contact the visitor when necessary. Your e-mail address will never be given or sold to a third party and will only be viewed by Virtual Webs.
+Customer's contact information is used to contact the visitor when necessary. Your e-mail address will never be given or sold to a third party and will only be viewed by Sapphire Creations.
 
-This site contains links to other sites. Virtual Webs is not responsible for the privacy practices or the content of such Web sites.
+This site contains links to other sites. Sapphire Creations is not responsible for the privacy practices or the content of such Web sites.
 
-Virtual Webs uses outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
+Sapphire Creations uses outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
 
 Third Party Advertising  
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here <http://www.networkadvertising.org/managing/opt_out.asp>
