@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamezebo.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628042107id_/http%3A//www.gamezebo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamezebo.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110172642id_/http%3A//www.gamezebo.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Gamezebo
 
@@ -22,7 +22,7 @@ Gamezebo discloses potentially personally-identifying and personally-identifying
 
 ## Cookies
 
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Gamezebo uses cookies to help Gamezebo identify and track visitors, their usage of Gamezebo website, and their website access preferences. Gamezebo visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Gamezebo’s websites, with the drawback that certain features of Gamezebo’s websites may not function properly without the aid of cookies.  The National Advertising initiative has more information and an opt-out site at: [http://www.networkingadvertising.org/choices/](http://gm-cdn.gamezebo.netdna-cdn.com/wp-content/uploads/2014/04/choices)
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Gamezebo uses cookies to help Gamezebo identify and track visitors, their usage of Gamezebo website, and their website access preferences. Gamezebo visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Gamezebo’s websites, with the drawback that certain features of Gamezebo’s websites may not function properly without the aid of cookies.  The National Advertising initiative has more information and an opt-out site at: [http://www.networkingadvertising.org/choices/](http://www.gamezebo.com/wp-content/uploads/2014/04/choices)
 
 ## Business Transfers
 
@@ -36,6 +36,6 @@ Ads appearing on any of our websites may be delivered to users by advertising pa
 
 Although most changes are likely to be minor, Gamezebo may change its Privacy Policy from time to time, and in Gamezebo’s sole discretion. Gamezebo encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
-Special thanks to [Automattic, Inc](http://gm-cdn.gamezebo.netdna-cdn.com/wp-content/uploads/2014/04/automattic.com)., for providing and sharing their privacy policy through a Creative Commons Sharealike license, upon which this privacy policy is based.
+Special thanks to [Automattic, Inc](http://www.gamezebo.com/wp-content/uploads/2014/04/automattic.com)., for providing and sharing their privacy policy through a Creative Commons Sharealike license, upon which this privacy policy is based.
 
 Last updated: June 5, 2014
