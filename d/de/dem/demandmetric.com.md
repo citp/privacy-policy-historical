@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the demandmetric.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608132152id_/http%3A//www.demandmetric.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demandmetric.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110014602id_/http%3A//www.demandmetric.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Demand Metric
 
@@ -18,7 +18,7 @@ Demand Metric may use aggregate or anonymous information for various uses for it
 
 **Who We Share This Information With**
 
-Demand Metric does not share personal information with any third parties except as disclosed in this policy. Demand Metric may provide personal information to Demand Metric subcontractors and professional advisers (which shall be bound by privacy obligations) to assist Demand Metric uses disclosed herein.
+Demand Metric may disclose personal information with third parties, such as our sponsors. Demand Metric may provide personal information to Demand Metric subcontractors and professional advisers (which shall be bound by privacy obligations) to assist Demand Metric uses disclosed herein.
 
 **Security**
 
