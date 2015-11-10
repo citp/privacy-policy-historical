@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartwaystolive.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607083720id_/http%3A//smartwaystolive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartwaystolive.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110131627id_/http%3A//smartwaystolive.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
