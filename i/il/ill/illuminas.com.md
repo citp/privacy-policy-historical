@@ -1,74 +1,79 @@
-> *The following text is extracted and transformed from the illuminas.com privacy policy that was archived on 2015-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150117225336id_/http%3A//www.illuminas.com/index.php%3Fp%3Dfooter%26s%3Dprivacy%26ror%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the illuminas.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110190220id_/http%3A//www.illuminas.com/site-information/privacy-policy) for the most accurate reproduction.*
 
-# Illuminas - Privacy
+# Privacy Policy - Illuminas
 
-**** When you provide us with personally identifiable information ("Personal Information") through this Website, we respect your privacy.
+**Our commitment to privacy**
 
-It is important for you to understand what Personal Information we collect about you during your visit to this Website and what we do with that information. Your visit to this Website and the sale of our products to you via this Website are subject to this Privacy Policy and our Terms and Conditions.
+Illuminas Global LLC (“Illuminas”) is a professional marketing intelligence agency that uses scientific methods to gain insight to specific issues relevant to our clients. Any information that you supply to Illuminas is used solely for legitimate research or statistical purposes and will never result in an attempt to sell you anything based on your responses. We strictly adhere to practices and guidelines that respect the individual’s right to privacy and extend the following assurances to all research projects:
 
-1\. Information Collection and Use  
-We do not collect Personal Information about you, except when you provide it to us. When you submit your Personal Information on this Website, you will be asked to consent to the processing and transfers of your Personal Information as set forth in this Privacy Policy. If you would prefer that we do not collect any Personal Information from you, please do not provide us with any such information – however, note that we must take some Personal Information about you in order to process the purchase of any products which you may wish to buy via the Website. Without such Personal Information, we will not be able to process such orders.
+**Notification:**
 
-Except as otherwise disclosed in this Privacy Policy, we will use the Personal Information you provide us through this Website only for the purposes of processing your orders and responding to any comments or questions you have. 
+  * In obtaining your cooperation, we will not mislead you about the nature of the research or the use that will be made of the findings.
+  * We will not send you unsolicited email or pass on your email address(es) to others for this purpose. If we want to send you future email or contact you using other methods, we will ask your explicit permission for this.
+  * On rare occasions we may use cookies (A cookie is a piece of information that webservers send to your browser file when you access a website. Then when you come back to a website again, that website will detect whether you have a cookies on your browser file.)and other similar devices sparingly for quality control, validation, or to prevent bothersome repeat surveying. You can configure your browser to notify you when cookies are being placed on your computer or to reject cookies altogether. In addition to your responses, we automatically capture basic information about your online survey experience, including your device type, browser type and length of time responding to specific questions. We do no other invisible processing of your data, nor do we attempt to obtain any data from your computer or mobile device.
+  * Illuminas has a network of third party vendors and they are contractually obligated to solely use your information for research and statistical purposes.
 
-We may use the information you provide in aggregate (non-personally identifiable) form for internal business purposes, such as generating statistics and developing marketing plans. We may collect, store or accumulate certain non-personally identifiable information concerning your use of this Website, such as information regarding which of our pages are most popular and general website administration. 
 
-We may share or transfer Personal Information and non-personally identifiable information with or to our affiliates, our partners and our licensors, as well as our fulfillment houses, to:  
-\- enhance this Website and/or the products and/or services made available by means of it;  
-\- enable them to process orders and/or any returns from you ; and  
-\- enable them to undertake marketing activities on our behalf to which you may have consented when you provide your Personal Information to us.
 
-Such affiliates, licensees and partners, as well as some of our fulfillment houses, may be located in countries both inside and outside the European Economic Area ("EEA"). Although countries outside the EEA may not require the same level of protection of Personal Information as countries within the EEA, we always demand that our affiliates, licensees and partners adhere to the same procedures that we follow ourselves with respect to your Personal Information, including this Privacy Policy. 
+**Choice:**
 
-We will not sell or rent or otherwise make available your Personal Information to third parties without your consent, except as disclosed in this Privacy Policy. 
+  * Should you wish to opt out from future surveys, please notify us at via email at [austin.info@illuminas.com](mailto:austin.info@illuminas.com) or by writing the address noted below. It is our goal to respond to each email within one working day, but please allow 1-2 weeks for complete removal of your data.
+  * All information you provide is confidential and reported anonymously. In rare occurrences, we may ask for permission to use certain responses in a form that would allow you to be personally identified. In such cases, this information will only be passed on with your expressed consent and only for the purposes stated.
+  * Your cooperation is voluntary at all times. You are entitled at any stage of the interview or survey, or subsequently, to ask that part or all of your information be destroyed or deleted. Wherever reasonable and practical, we will carry out such a request.
+  * We will not knowingly interview children (those under the age of 15) without first getting permission from their parent or guardian.
 
-We may also use your information to tell you about our products, promotions and special offers that may be of interest to you, by mail or by telephone. All customers are given the opportunity to opt-out of receiving such further information at the time that they give us their Personal Information. All customers may also opt-in to receiving such further information by email, SMS and other forms of electronic communication at the time that they give us their Personal Information. However, these decisions may be reversed at any time by emailing info@illuminas-global.com.
 
-We may disclose any information, including Personal Information, we deem necessary, in our sole discretion, to comply with any applicable law, regulation, legal process or governmental request. 
 
-Sensitive information is not sought through this Website. Sensitive information includes data relating to: race or ethnic origin; political opinions; religious or other similar beliefs; physical or mental health. If you do provide sensitive information, by providing that information you explicitly consent to us using it for the purposes for which it has been provided.
+**Onward Transfer:**
 
-2\. Accuracy  
-We will take reasonable steps to create an accurate record of any Personal Information you have submitted through the Website. However, we do not assume responsibility for confirming the ongoing accuracy of your Personal Information. If you advise us that your Personal Information is no longer accurate, we will, so far as practicable, make corrections. You can also request that your Personal Information is deleted from our systems at any time by emailing info@illuminas-global.com.
+  * All Third parties are contractually obligated to keep your information secure and intact.
+  * Third parties are solely contracted to use the information provided for research or statistical purposes. No other use of your information is authorized.
+  * Personal information may be disclosed to judicial or other government agencies subject to warrants, subpoenas, or other governmental orders.
 
-3\. Access to Your Personal Information  
-If you wish to access the Personal Information that you have submitted via the Website please contact The Illuminas Group in writing at the following address:
 
-The Illuminas Group  
-183-203 Eversholt Street  
-London  
-NW1 1BU  
-United Kingdom 
 
-4\. IP Addresses and Cookies  
-We store IP addresses which is standard protocol. The IP addresses are used to increase the session security. The IP is only logged to our database when you put something in your basket. The session information is stored server side, so if you return to the site you are not identifiable until the point of login. 
+**Access:**
 
-Session cookies are used by this site. These do not store personal information and are deleted once you exit the site.
+  * Information collected by Illuminas is processed solely for research or statistical purposes. Due to the possible compromise to other respondents’ data/information, access to stored data will not be granted to individuals who participate in research efforts.
+  * We encourage you to email [austin.info@illuminas.com](mailto:austin.info@illuminas.com) to address any concerns or questions you may have
 
-5\. Third Parties  
-We may retain other companies and individuals to perform functions on our behalf in relation to the purposes set forth in this Privacy Policy. Examples include credit/debit card validation and authorisation agencies, data analysis firms, customer support specialists, webhosting companies, and fulfillment houses (e.g., companies that coordinate mailings or distribute products on our behalf). Such third parties may be provided with access to your Personal Information if needed to perform their functions, but may not use such information for any other purpose. 
 
-Such third parties may be located in countries both inside and outside the European Economic Area ("EEA"). Although countries outside the EEA may not require the same level of protection of Personal Information as countries within the EEA, we always demand that third parties adhere to the same procedures that we follow ourselves with respect to your Personal Information, including this Privacy Policy.
 
-6\. Links  
-This Website may contain links to or from other websites. Please be aware that we are not responsible for the privacy practices of other websites. This Privacy Policy applies only to the information we collect on this Website. We encourage you to read the privacy policies of other websites you link to from our Website or otherwise visit. 
+**Security:**
 
-7\. Security  
-We implement various security measures to protect the security of your Personal Information, both on-line and off-line. We use a password protected login system to store your details. Only the last four digits of any credit cards used for order payments are stored. We do store card security codes and issue/expiry information to use in dealing with our financial fulfilment house should any payment issues arise (such as refunds). Your Personal Information will be stored at facilities located across the world and not necessarily within the EEA. 
+  * Our web site and internal network has security measures in place to protect the loss, misuse, and alteration of the information under our control.
+  * Only authorized employees and contractually bound partners have access to the information you provide to us. They have access solely for research, statistical analysis and quality control purposes.
+  * Personal data is stored for twelve (12) months after each study is complete.
+  * Illuminas does not sell or rent any personally identifiable information to third parties.
+  * In the event of reorganization, merger, or sale, we may transfer any and all personal information to the relevant third party.
+  * At no point does Illuminas have access to any personal credit card information.
 
-8\. Business Transfers  
-As we continue to develop our business, we might sell certain of our assets or be sold. In such transactions, user information, including Personal Information, generally is one of the transferred business assets, and by submitting your Personal Information on the Website you agree that your Personal Information may be transferred to such parties in these circumstances. 
 
-9\. Notification of Changes  
-We may revise this Privacy Policy from time to time. If we decide to change our Privacy Policy, we will post the revised policy here. As we may make changes at any time without notifying you, we suggest that you periodically consult this Privacy Policy. Please note that our rights to use your Personal Information will be based on the Privacy Policy in effect at the time the information is used. If the preceding sentence is deemed to violate applicable law, the Privacy Policy in effect at the time your Personal Information was collected will apply. 
 
-10\. Data Controller  
-The Personal Information you provide to us will be managed by The Illuminas Group website manager.
+**Data Integrity:**
 
-11\. Jurisdiction  
-This Privacy Policy shall be construed in accordance with the laws of England and Wales.
+  * Illuminas shall only process Personal Information in a way that is compatible with and relevant for the purpose for which it was collected or authorized by the individual
+  * Illuminas shall take reasonable steps to ensure that Personal Information is accurate, complete, current and reliable for its intended use.
 
-12\. Comments  
-If you have any questions, comments or concerns about our privacy practices, please email us at info@illuminas-global.com
 
-Thanks for your feedback.
+
+**Enforcement:**
+
+  * Illuminas utilizes a self-assessment approach to assure compliance with this privacy policy and periodically verifies that the policy is accurate, comprehensive for the information intended to be covered, prominently displayed, completely implemented and accessible and in conformity with the principles. We encourage interested persons to raise any concerns using the contact information provided and we will investigate and attempt to resolve any complaints and disputes regarding use and disclosure of personal information in accordance with the principles.
+  * If a complaint or dispute cannot be resolved through our internal process, we agree to dispute resolution using eTrust Privacy Services as a third party resolution provider. You can reach eTrust’s privacy complaint system at the following URL: <http://www.etrust.org/complaint/raise_privacy_complaint.php>
+
+
+
+#### Amendments
+
+This privacy policy may be amended from time to time consistent with the requirements of the Safe Harbor. We will post any revised policy on this website. This version of Illuminas’ privacy policy was last modified on December 30, 2013.
+
+#### **Commitment to Protect**
+
+****In accordance with our commitment to protect personal privacy, Illuminas adheres to the seven privacy principles and fifteen frequently asked questions (FAQs) of the U.S.-EU and U.S.-Swiss Safe Harbor Frameworks as developed by the U.S. Department of Commerce in consultation with the European Commission and the Federal Data Protection and Information Commissioner of Switzerland. To learn more about the Safe Harbor program, and to view Illuminas’ certification, please visit  <http://www.export.gov/safeharbor/>
+
+#### Contact Information
+
+You may contact us at [ **austin.info@illuminas.com**](mailto:austin.info@illuminas-global.com)  or via mail at Attn: Privacy Policy, 3801 South Capital of Texas Hwy, Ste 200, Austin, TX 78704 to express or discuss any concerns with an individual survey or questions regarding our general research practices. We are members of the Marketing Research Association and Council of American Survey Research Organizations (CASRO), and follow their codes of conduct for market research. All research projects are also conducted in accordance with the provisions of the ICC/ESOMAR International Code of Marketing and Social Research Practice.
+
+[](http://www.etrust.org/cert/787566.html)
