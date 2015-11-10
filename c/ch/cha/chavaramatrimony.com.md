@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chavaramatrimony.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503054107id_/http%3A//www.chavaramatrimony.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chavaramatrimony.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110155038id_/http%3A//www.chavaramatrimony.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Chavara Matrimony.com –Privacy Policy
 
