@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sarkarinaukricareer.in privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407235910id_/http%3A//www.sarkarinaukricareer.com/p/all-informative-content-placed.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sarkarinaukricareer.in privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110063126id_/http%3A//www.sarkarinaukricareer.in/p/all-informative-content-placed.html) for the most accurate reproduction.*
 
-# Privacy Policy | Sarkari Naukri - Jobs and Exam Notification
+# Privacy Policy - Sarkari Naukri Career
 
 All informative content placed on Sarkarinaukricareer.com is proudly written by our qualified Team. Although we have used many external links but all those are useful for users so it can’t hurt to anyone. We don’t store any information from user.
 
