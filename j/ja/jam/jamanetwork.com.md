@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamanetwork.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629122136id_/http%3A//jamanetwork.com/public/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamanetwork.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110033157id_/http%3A//jamanetwork.com/public/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # JAMA Network | Privacy Policy
 
