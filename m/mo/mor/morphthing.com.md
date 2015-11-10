@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morphthing.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619063440id_/http%3A//www.morphthing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morphthing.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110163106id_/http%3A//www.morphthing.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - MorphThing.com
 
