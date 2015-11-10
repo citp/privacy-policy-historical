@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wisestamp.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315031926id_/http%3A//www.wisestamp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisestamp.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110190546id_/http%3A//www.wisestamp.com/privacy-policy) for the most accurate reproduction.*
 
 # WiseStamp Privacy Policy
 
