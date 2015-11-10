@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the viewlorium.com privacy policy that was archived on 2014-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141028195022id_/http%3A//www.viewlorium.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viewlorium.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110071449id_/http%3A//viewlorium.com/privacy) for the most accurate reproduction.*
 
-# Protecting Your Privacy | Viewlorium
+# Privacy Policy | ViewLorium
 
-## Flashback Privacy Policy
+#### Flashback Privacy Policy
 
 Viewlorium (a trading name of Flashback Holdings Pty Limited) recognises that your privacy is very important to you and that it is your right to control your personal information. We know that providing personal information is an act of trust and we take that trust seriously. FLASHBACK will never sell, rent or, except as set out in this Privacy Policy, otherwise disclose any of your personal information, including your Email address, to any third party without your consent. Unless you give us specific consent to act otherwise, the following policies will govern how FLASHBACK handles the personal information that you provide to us.
 
@@ -70,19 +70,24 @@ All information you provide to us is stored in Australia only, on secure servers
 
 #### Cookies
 
-‘Cookies’ are small text files that are stored by the browser on your computer. Websites are able to read and write these files, which allows them to store things like personalization details and user preferences. We use cookies for a number of purposes, including to:
+We use a number of different cookies on our site. If you do not know what cookies are, or how to control or delete them, then we recommend you visit http://www.aboutcookies.org for detailed guidance.
 
-  * Recognise you as a FLASHBACK member so that we can log you in to this Website on a repeat visit;
-  * Provide you with customised content and remember preferences you specify while you are using our products or services;
-  * Deliver advertisements relevant to your interests when you visit our Website and use our products and services;
-  * Provide general internal and customer analytics to conduct research to improve our Website and our products and services; and
-  * Support security measures such as requiring re-logging into this Website after a certain amount of time has elapsed.
+The list below describe the cookies we use on this site and what we use them for. Currently we operate an ‘implied consent’ policy which means that we assume you are happy with this usage. If you are not happy, then you should either not use this site, or you should delete the cookies having visited the site, or you should browse the site using your browser’s anonymous usage setting (called “Incognito” in Chrome, “InPrivate” for Internet Explorer, “Private Browsing” in Firefox and Safari etc.)  
 
 
+#### First Party Cookies
 
-In addition to our own cookies, we allow certain third parties and affiliates to set and access their cookies on your computer such as companies providing auditing, research and reporting for advertisers. Those parties’ use of cookies is subject to their own privacy policies, not our Privacy Policy.
+These are cookies that are set by this website directly.
 
-The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on’s settings or visiting the website of its manufacturer. However, because cookies allow you to take advantage of some of our Website essential features, we recommend that you leave them turned on. If you do leave cookies turned on, be sure to sign off when you finish using a shared computer.
+**Google Analytics:** We use Google Analytics to collect information about visitor behaviour on our website. Google Analytics stores information about what pages you visit, how long you are on the site, how you got here and what you click on. This Analytics data is collected via a JavaScript tag in the pages of our site and is not tied to personally identifiable information.We therefore do not collect or store your personal information (e.g. your name or address) so this information cannot be used to identify who you are. We have turned on Google Analytics Demographics and Interest Reporting to get an idea of our demographics and users’ interests. Please see above for how we use this data, you can opt-out from Google Analytics [here](https://support.google.com/analytics/answer/181881).
+
+**WordPress:** Our websites runs the popular WordPress CMS and cookies are used to store basic data on your interactions with WordPress, and whether you have logged into WordPress. We use a session cookie to remember your log-in for you if you are a registered user and we deem these as being strictly necessary to the working of the website. If these are disabled then various functionality on the site will be broken.  
+
+
+#### Third Party Cookies
+
+These are cookies set on your machine by external websites whose services are used on this site. Cookies of this type are the sharing buttons across the site allow visitors to share content onto social networks. Cookies are currently set by Twitter, Facebook, Google+, GitHub and Pinterest. In order to implement these buttons, and connect them to the relevant social networks and external sites, there are scripts from domains outside of our website. You should be aware that these sites are likely to be collecting information about what you are doing all around the internet, including on this website. If you’d like information on how to disable companies tracking your web use, email us at [info@viewlorium.com](mailto:info@viewlorium.com).  
+
 
 #### Third Party Advertising
 
