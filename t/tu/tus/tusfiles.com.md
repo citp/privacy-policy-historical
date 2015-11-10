@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tusfiles.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203070609id_/https%3A//www.tusfiles.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tusfiles.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110011548id_/https%3A//tusfiles.net/privacy.html) for the most accurate reproduction.*
 
-# TusFiles - Easy way to share your files
+# TusFiles | Free Cloud Storage
 
 TusFiles.net is a provider of online file storage service. Your use of the [www.tusfiles.net](https://tusfiles.net/) site is governed by TusFiles Terms and Conditions and this Privacy Policy. The purpose of this Privacy Policy is to inform you about the service we provide, about the ways how the personal information you submit to us may be used, and how this information is protected on our website.
 
