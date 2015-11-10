@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the hotelsone.com privacy policy that was archived on 2015-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150620113218id_/http%3A//www.hotelsone.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hotelsone.com privacy policy that was archived on 2015-11-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151110023401id_/http%3A//www.hotelsone.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     	<title>HotelsOne.com - Privacy statement</title>
-        <meta id="idViewport" name="viewport" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
         <meta name="format-detection" content="telephone=no">
     	
     	            <meta name="robots" content="noindex,nofollow">
@@ -72,7 +72,7 @@
         }
         
         var trackCall = function( phonenr ){
-            setTimeout(function(){self.location.href = 'tel://'+phonenr},500);
+            setTimeout(function(){self.location.href = 'tel://'+phonenr.replace(/\+/g, '00').replace(/\s/g, '')},250);
         };
         var trackPopup = function( type ){};
         var trackHotelVideo = function(){};
@@ -81,17 +81,14 @@
         var trackSearchSuggest = function(){};
         var trackSearchEmpty = function(){};
 
-        var dataLayer = [{"lang_server_site":"en|USA-LA_p1-appserver4|A","testplan":"bookprocess=G:notaxes=yes:views=no:lastbooked=yes:rank=0:pn=y:tp=y:sb=y:bi=n:gar=y:nrs=low:co=a:","sessionID":"b_2401659629","cur":"USD","locale":"en","device":"desktop","country":"us","rooms":1,"travelers":2,"custompage":"Cms","preferredsupplier":"MerchantStandard"}]        
+        var dataLayer = [{"lang_server_site":"en|USA-LA_p1-appserver3|A","testplan":"bookprocess=G:notaxes=yes:views=yes:lastbooked=no:rank=0:pn=y:tp=y:sb=y:bi=n:gar=y:nrs=low:co=e:","sessionID":"","cur":"USD","currentDate":"2015-11-09","locale":"en","device":"desktop","country":"us","rooms":1,"travelers":2,"custompage":"Cms","preferredsupplier":"MerchantStandard"}]        
         /* ]]> */
         </script><style type="text/css">.clsScriptSwitchOnBlock { display: block; }.clsScriptKeepOnBlock { display: block; }.clsScriptKeepOff { display: none; }.clsScriptSwitchOnInline { display: inline; }.clsScriptSwitchOff { display: none; }.clsScriptSwitchGrey { color:#999999; }.clsRowRoomToggleButton { display: table-row; }.clsRowRoomToggle { display: none; }</style>
 
 
-       
-<!-- start Optimizely Experiments code --> 
-<script src="//cdn.optimizely.com/js/1636390289.js"></script>
-<!-- end Optimizely Experiments code -->
-    </head>
+           </head>
 <body>
+<script type="text/javascript" src="//s1.hocdn.com/tm/abtests.js"></script>
 
 <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NBXKZ4"
@@ -158,8 +155,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
             <div id="idEbHeaderMenuPos">
                 <div id="idEbHeaderMenu" style="width:600px;">
-                	                	        			<a rel="nofollow" href="http://www.hotelsone.com/scripts/php/popupMyBooking.php?strLang=en" onclick="trackPopup('My Booking'); void(funLoadPopUp('http://www.hotelsone.com/scripts/php/popupMyBooking.php?strLang=en', '', '', 100,260,550,380));return false;" target="_blank" title="My Booking">My&nbsp;Booking</a> |
-        			<a rel="nofollow" href="http://www.hotelsone.com/customer-service.html" title="Customer Service">Customer&nbsp;Service</a>
+                	                	                                   			<a rel="nofollow" href="http://www.hotelsone.com/scripts/php/popupMyBooking.php?strLang=en" onclick="trackPopup('My Booking'); void(funLoadPopUp('http://www.hotelsone.com/scripts/php/popupMyBooking.php?strLang=en', '', '', 100,260,550,380));return false;" target="_blank" title="My Booking">My&nbsp;Booking</a> |
+                                   			<a rel="nofollow" href="http://www.hotelsone.com/customer-service.html" title="Customer Service">Customer&nbsp;Service</a>
         	    </div>
             </div>
         </div>
@@ -405,7 +402,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div id="idEbBelowFooter">
 	<div id="idEbFooterMenuTxt">
        <ul class="clsOrangeLinks">
-       		<li style="margin-left:10px;"><a rel="nofollow" href="http://www.hotelsone.com/faq.html" title="FAQ">FAQ</a></li>
+                       		<li style="margin-left:10px;"><a rel="nofollow" href="http://www.hotelsone.com/faq.html" title="FAQ">FAQ</a></li>
        		<li class="clsFooterLinkDivider">|</li>
        		<li><a rel="nofollow" href="http://www.hotelsone.com/customer-service.html" title="Customer Service">Customer Service</a></li>
        		<li class="clsFooterLinkDivider">|</li>
@@ -585,12 +582,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     		var arrWeekDaysKalendar = new Array('Su', 'Mo',	'Tu',	'We',	'Th',	'Fr',	'Sa');
     		var arrShortMonths = new Array('Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec');
     		var arrLongMonths = new Array('January','February','March','April','May','June','July','August','September','October','November','December');
-    		var currentDateCheckIn = '19-06-2015';
-    		var startDateCheckIn = '20-06-2015';
-    		var endDateCheckIn = '18-06-2016';
-        	var currentDateCheckOut = '20-06-2015';
-    		var startDateCheckOut = '21-06-2015';
-    		var endDateCheckOut = '19-06-2016';
+    		var currentDateCheckIn = '08-11-2015';
+    		var startDateCheckIn = '09-11-2015';
+    		var endDateCheckIn = '07-11-2016';
+        	var currentDateCheckOut = '09-11-2015';
+    		var startDateCheckOut = '10-11-2015';
+    		var endDateCheckOut = '08-11-2016';
     		var loadingText = 'Loading';
 
     		var closeButtonText = 'close';
