@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sitedoctors.net privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409103622id_/http%3A//sitedoctors.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitedoctors.net privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110060929id_/http%3A//sitedoctors.net/privacy) for the most accurate reproduction.*
 
-# SiteDoctors.net Privacy Policy - SiteDoctors.net
+# Privacy | SiteDoctors.net a Wholesale ISP with reseller programs
 
 ## Privacy Policy Statement for SiteDoctors.net
 
@@ -83,7 +83,7 @@ This site gives users the following options for changing and modifying informati
 
 ## Terms of Use
 
-SiteDoctors.net follows the strict guidelines of our customer privacy statement. Please make sure you understand this statement fully. Please [click here](https://web.archive.org/web/20150409103622id_/http://sitedoctors.net/privacy/terms.htm) to read the Terms of Use policy.
+SiteDoctors.net follows the strict guidelines of our customer privacy statement. Please make sure you understand this statement fully. Please [click here](https://web.archive.org/web/20151110060929id_/http://sitedoctors.net/privacy/terms.htm) to read the Terms of Use policy.
 
 ## Contacting Us
 
