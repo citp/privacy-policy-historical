@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thecelebslife.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625122303id_/http%3A//www.thecelebslife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecelebslife.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110032345id_/http%3A//thecelebslife.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Celeb's Life
+# Privacy Policy | The Celebs Life
 
 We at THE CELEBS LIFE.com (“THE CELEBS LIFE,” “we,” “us,” “our”) know that our users (“you,” “your”) care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting or using the Website or Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways. Any capitalized terms used herein without definition shall have the meaning given to them in the [THE CELEBS LIFE Terms of Service](http://www.thecelebslife.com/terms-of-service/).
 
