@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsvoir.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629104605id_/http%3A//www.newsvoir.com/-23.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsvoir.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110091728id_/http%3A//www.newsvoir.com/-23.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
