@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the scotland.org privacy policy that was archived on 2014-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141205095609id_/http%3A//www.scotland.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scotland.org privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110051729id_/http%3A//www.scotland.org/privacy) for the most accurate reproduction.*
 
 # Privacy — The Official Gateway to Scotland
 
 ## The Data Protection Act
 
-Under the [Data Protection Act 1998](http://www.dataprotection.gov.uk/), we have a legal duty to protect any information we collect from you. We use leading technologies to safeguard your data, and keep strict security standards to prevent any unauthorised access to it. We do not pass on your details to any third party or government department unless you give us permission to do so.
+Under the [Data Protection Act 1998](https://www.gov.uk/data-protection/the-data-protection-act), we have a legal duty to protect any information we collect from you. We use leading technologies to safeguard your data, and keep strict security standards to prevent any unauthorised access to it. We do not pass on your details to any third party or government department unless you give us permission to do so.
 
 ## What information do we collect?
 
@@ -43,6 +43,10 @@ exp_last_activity
 
 cookies_allowed  
 1 year. Indicates whether the user has given consent for cookies to be set.
+
+### DoubleClick
+
+These cookies collect information that is used to improve advertising and contain no personally identifiable information.
 
 ### Managing cookies
 
