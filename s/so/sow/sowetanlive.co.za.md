@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sowetanlive.co.za privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629094048id_/http%3A//www.sowetanlive.co.za/%3Ffilter%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sowetanlive.co.za privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110025330id_/http%3A//www.sowetanlive.co.za/%3Ffilter%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy - Sowetan LIVE
 
