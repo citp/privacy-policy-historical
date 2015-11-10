@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokeraffiliateprograms.com privacy policy that was archived on 2015-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150304093853id_/http%3A//www.pokeraffiliateprograms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokeraffiliateprograms.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110131126id_/http%3A//www.pokeraffiliateprograms.com/privacy-policy) for the most accurate reproduction.*
 
 # PokerAffiliatePrograms.com - Privacy Policy
 
