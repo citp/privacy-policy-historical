@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the enstars.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220010837id_/http%3A//www.enstarz.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enstars.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110175040id_/http%3A//www.enstarz.com/privacypolicy) for the most accurate reproduction.*
 
 # ENSTARZ
-
-[](https://web.archive.org/)
-
-_December 19, 2014 | Updated at 07:50 PM EST_ **The Latest Entertainment & Celebrity News**
 
 #### Privacy Policy
 
@@ -173,27 +169,3 @@ Further, if you use any of the Communities features and functions made available
 **b. Questions.** If you have questions about this Privacy Policy or if you do not understand any information about how we collect, maintain, use or share your Personal Information or Other Information, you may contact us directly by sending an email to privacy-admin@enstarz.com or please contact our Privacy Administrator at EnStarNews, 33 Whitehall St., 7th Floor, New York, New York 10004, c/o Privacy Administrator. **c. Sole Statement:** This document is the sole statement of the Site's Privacy Policy and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, but not limited to, machine-generated, is valid.  
 **d. Other:** Please review our Terms of Use Agreement which governs your use of the Site. Any terms that are not defined in this Privacy Policy shall have the meaning given in the Terms of Use Agreement.  
 This Privacy Policy was last modified on the date indicated above and is effective immediately.
-
-[](https://web.archive.org/articles/53956/20141219/general-hospital-spoilers-franco-nina-learn-their-fates-as-jamie-s-paternity-is-finally-revealed-video.htm)
-
-### [Franco & Nina Learn Their Fates On 'General Hospital'](https://web.archive.org/articles/53956/20141219/general-hospital-spoilers-franco-nina-learn-their-fates-as-jamie-s-paternity-is-finally-revealed-video.htm)
-
-Their huge plot to kidnap Ava's (Maura West) baby and live a happy life together were thwarted and they wound up going to jail, and now, Franco (Roger Howarth) and Nina (Michelle Stafford) will learn the punishments they'll receive for their crimes on General Hospital.
-
-#### Latest News
-
-#### Featured Videos
-
-#### From Our Partners
-
-[](http://www.sportsworldnews.com/articles/24807/20141219/islanders-vs-red-wings-watch-live-stream-online-new-york-at-detroit.htm)
-
-### [ISLANDERS vs RED WINGS Watch Live Stream Online: New York at Detroit](http://www.sportsworldnews.com/articles/24807/20141219/islanders-vs-red-wings-watch-live-stream-online-new-york-at-detroit.htm)
-
-Tonight at 7:30 p.m. ET, the New York Islanders (21-10-0, 42 points) and Detroit Red Wings (17-7-8, 42 points) face-off for the first of three meetings this season live from the Joe Louis Arena in Detroit. The game can be live streamed here. New York fans can hear all of the action on WRHU 88.7 while Detroit fans can do the same on 97.1 The Ticket.
-
-[](http://www.sportsworldnews.com/articles/24752/20141219/spurs-vs-blazers-watch-free-live-stream-online-portland-at-san-antonio.htm)
-
-### [SPURS vs. BLAZERS Watch FREE Live Stream Online: Portland at San Antonio](http://www.sportsworldnews.com/articles/24752/20141219/spurs-vs-blazers-watch-free-live-stream-online-portland-at-san-antonio.htm)
-
-Tonight at 8:00 p.m. ET a battle of Western Conference heavyweights will kick off when the defending champion San Antonio Spurs (17-9) host the Portland Trailblazers (20-6), who are off to a blazing start for the second straight season. Watch the game on ESPN or live stream it free by clicking this link. Spurs fans can listen to the game on 1200 WOAI, while Blazers fans may do the same on Fox Sports 620.
