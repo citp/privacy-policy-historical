@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smallworldfs.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625172114id_/http%3A//www.smallworldfs.com/small-world/generic/en-gb/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallworldfs.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110012101id_/http%3A//www.smallworldfs.com/small-world/generic/en-gb/privacy-policy) for the most accurate reproduction.*
 
 # Small World's privacy policy ensures security and confidentiality
 
