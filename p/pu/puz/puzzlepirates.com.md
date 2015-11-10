@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puzzlepirates.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513034040id_/http%3A//www.puzzlepirates.com/Privacy.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puzzlepirates.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110010838id_/http%3A//www.puzzlepirates.com/Privacy.xhtml) for the most accurate reproduction.*
 
 # Puzzle Pirates: tright"><a href="http://www.esrb.org/confirm/threerings-confirmation.jsp" title="caption"><img alt="caption" src="/content/images/Official_esrb_privacy.gif" width="76" height="102" /></a></div>
 
