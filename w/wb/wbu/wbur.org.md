@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wbur.org privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627190443id_/http%3A//www.wbur.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbur.org privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110074045id_/http%3A//www.wbur.org/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | WBUR
 
