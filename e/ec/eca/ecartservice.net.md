@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecartservice.net privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607032147id_/http%3A//www.ecartservice.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecartservice.net privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110033815id_/http%3A//www.ecartservice.net/privacy) for the most accurate reproduction.*
 
 # Privacy | eCartService.net
 
@@ -17,14 +17,14 @@ We use third-party advertising companies to serve ads when you visit our website
 Specifically:
 
   * Google, as a third-party vendor, uses cookies to serve ads on this site.
-  * Google’s use of the DART cookie enables it to serve ads to visitors based on their visit to this site and other sites on the Internet.
+  * Google's use of the DART cookie enables it to serve ads to visitors based on their visit to this site and other sites on the Internet.
   * You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.co.uk/privacy_ads.html).
 
 
 
 ## Providing Visitors with Anonymous Access
 
-You can browse parts of our Site without disclosing your personal data.
+You can browse our Site without disclosing your personal data.
 
 ## Consent
 
