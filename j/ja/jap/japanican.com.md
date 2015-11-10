@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the japanican.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628194131id_/http%3A//www.japanican.com/en/misc/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japanican.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110140543id_/http%3A//www.japanican.com/en/misc/privacypolicy) for the most accurate reproduction.*
 
 # Japan Hotels and Ryokan - JAPANiCAN.com
 
@@ -60,6 +60,8 @@ JTBGMT will provide in electronic form a customer’s name, gender, age, address
 
 JTBGMT may provide customer personal information in our possession to souvenir stores to facilitate shopping by customers at their destination. In such cases, the customer’s name, passport number and flight number will be provided electronically. If you do not wish for your information to be provided to these businesses, please inform the branch where you purchased the travel before departure.
 
+Please also confirm Article 9 (Cookies) below regarding the information which third parties can acquire via advertisements displayed on JTBGMT's websites or in e-mails distributed by JTBGMT.
+
 ### 6\. Consignment of Customer Personal Information
 
 JTBGMT may consign personal information to complete formalities for traveling abroad as well as perform procedures necessary to provide requested travel and other services. When consigning the information, JTBGMT will choose a consignee using company standards, enter into a contract with the consignee for protecting personal information, and audit their practices to ensure the proper handling of personal information.
@@ -90,6 +92,7 @@ JTBGMT handles the collection and use of customer personal information as follow
   * JTB Okinawa Corp.
   * i.JTB Corp.
   * JTB Asia Tourist Corp.
+  * JTB Japan Travel Corp.
 
 
 
@@ -117,11 +120,14 @@ i.JTB Corp. | 2-3-11 Higashi Shinagawa Shinagawa-ku, Tokyo
 JTB Business Innovators Corp. | 2-3-11 Higashi Shinagawa Shinagawa-ku, Tokyo  
 JTB Tohoku Corp. | Meiji Yasuda Seimei Building, 3rd Fl. 3-7-23 Ichiban-cho Aoba-ku, Sendai  
 Travel Plaza International, Inc. | 2-1-9 Tomioka Koto-ku, Tokyo  
-JTB Global Assistance, Inc. | 2F, COI Nihonbashihoncho Bldg. 4-13-5, Nihonbashihoncho, Chuo-ku,Tokyo  
+JTB Global Assistance, Inc. | 2F, COI Nihonbashihoncho Bldg. 4-13-5, Nihonbashihoncho, Chuo-ku, Tokyo  
+JTB Japan Travel Corp. | 2-3-11 Higashi Shinagawa Shinagawa-ku, Tokyo  
   
 ### 9\. Cookies
 
 The JTBGMT website uses "cookies" to provide better service and ensure security. Cookies are data files that are stored by websites on customer computers and can be read when the customer visits the site at a later date. Individual cookies can only be read by the website that created them. JTBGMT uses cookies for many website management purposes. For instance, to record the types of information requested by customers and to use that information to automatically fill in fields when the customer visits the site. Most cookies are used only for a single session or visit to the site. They do not contain any information that would allow anybody to contact the customer such as phone numbers, e-mail addresses, or mail addresses. Customers can set their browser to inform them of the placement of cookies or to not permit the placement of any cookies.
+
+JTBGMT may display advertisements for products and services offered by third parties on its websites or e-mails. When customers click on such advertisements, the advertisers can acquire information about the customer such as that the customer has accessed JTBGMT's websites, the customer has browsed e-mails distributed by JTBGMT, the date the advertisement was clicked, and other information acquired through the use of cookies used by the advertisers. The advertiser may match this information with any information provided by the customer directly to the advertiser through shopping or other transactions carried out with the advertiser.
 
 ### 10\. Inquiries, Release, Deletion, and Correction of Customer Personal Information
 
