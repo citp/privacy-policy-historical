@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wrestlenewz.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126091516id_/http%3A//www.wrestlenewz.com/wrestling/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrestlenewz.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110210453id_/http%3A//www.wrestlenewz.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | WWE News, TNA News, WWE Divas Photos, TNA Knockouts Photos - WNZ
+# Privacy Policy - Wrestle Newz
 
 WrestleNewz knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy. 
 
@@ -59,16 +59,3 @@ This site allows third-party companies to serve ads and/or collect certain anony
 Effective Date of this Privacy Policy 
 
 This Privacy Policy is effective as of 7/29/2010 and last updated 11/16/2011.
-
-Be Sociable, Share!
-
-  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fwww.wrestlenewz.com%2Fwrestling%2Fprivacy-policy%2F%20 "Twitter")
-  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.wrestlenewz.com%2Fwrestling%2Fprivacy-policy%2F&t=Privacy%20Policy "Facebook")
-  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fwww.wrestlenewz.com%2Fwrestling%2Fprivacy-policy%2F&ui=2&tf=1&shva=1 "email")
-  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.wrestlenewz.com%2Fwrestling%2Fprivacy-policy%2F&title=Privacy%20Policy "StumbleUpon")
-  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.wrestlenewz.com%2Fwrestling%2Fprivacy-policy%2F&title=Privacy%20Policy&notes=WrestleNewz%20knows%20that%20you%20care%20about%20how%20your%20personal%20information%20is%20used%20and%20shared%2C%20and%20we%20take%20your%20privacy%20very%20seriously.%20Please%20read%20the%20following%20to%20learn%20more%20about%20our%20privacy%20policy.%20By%20visiting%20our%20website%2C%20you%20are%20accepting%20the%20practice "Delicious")
-  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.wrestlenewz.com%2Fwrestling%2Fprivacy-policy%2F&title=Privacy%20Policy&srcURL=http%3A%2F%2Fwww.wrestlenewz.com%2Fwrestling%2Fprivacy-policy%2F&srcTitle=WWE+News%2C+TNA+News%2C+WWE+Divas+Photos%2C+TNA+Knockouts+Photos+-+WNZ+The+TMZ+of+Pro+Wrestling "Google Reader")
-  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.wrestlenewz.com%2Fwrestling%2Fprivacy-policy%2F&title=Privacy%20Policy&source=WWE+News%2C+TNA+News%2C+WWE+Divas+Photos%2C+TNA+Knockouts+Photos+-+WNZ+The+TMZ+of+Pro+Wrestling&summary=WrestleNewz%20knows%20that%20you%20care%20about%20how%20your%20personal%20information%20is%20used%20and%20shared%2C%20and%20we%20take%20your%20privacy%20very%20seriously.%20Please%20read%20the%20following%20to%20learn%20more%20about%20our%20privacy%20policy.%20By%20visiting%20our%20website%2C%20you%20are%20accepting%20the%20practice "LinkedIn")
-  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fwww.wrestlenewz.com%2Fwrestling%2Fprivacy-policy%2F&Title=Privacy%20Policy "BlinkList")
-  * 
-
