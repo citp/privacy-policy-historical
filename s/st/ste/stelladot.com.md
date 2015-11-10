@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stelladot.com privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418200411id_/http%3A//www.stelladot.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stelladot.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110010043id_/http%3A//www.stelladot.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Stella & Dot
 
@@ -136,7 +136,7 @@ You may review, correct, or delete your Personal Information through the Service
 
 ## U.S.-EU SAFE HARBOR
 
-Stella & Dot adheres to the seven privacy principles dictated by the Safe Harbor Framework as set forth by the U.S. Department of Commerce: Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement. These principles may be found at: [www.export.gov/safeharbor.](https://web.archive.org/web/20150418200411id_/http%3A//www.stelladot.com/help/www.export.gov/safeharbor)
+Stella & Dot adheres to the seven privacy principles dictated by the Safe Harbor Framework as set forth by the U.S. Department of Commerce: Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement. These principles may be found at: [www.export.gov/safeharbor.](https://web.archive.org/web/20151110010043id_/http%3A//www.stelladot.com/help/www.export.gov/safeharbor)
 
 **Privacy Inquiries by EU Citizens**  
 In compliance with the Safe Harbor Principles, Stella & Dot commits to resolve complaints about your privacy and our collection or use of your Personal Information. EU citizens with inquiries or complaints regarding this privacy policy should contact Stella & Dot LLC at [privacy@stelladot.com](mailto:privacy@stelladot.com) or by mail, Attn: Privacy Administrator, 1111 Bayhill Drive, Suite 375, San Bruno, CA 94066.
