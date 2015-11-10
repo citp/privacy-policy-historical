@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelonly.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623061701id_/http%3A//www.travelonly.com/en/c/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelonly.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110045348id_/http%3A//www.travelonly.com/en/c/privacy) for the most accurate reproduction.*
 
 # Website Privacy Policy Legal documentation - TravelOnly
 
@@ -23,7 +23,7 @@ Your personally identifiable information is kept secure. Only authorized employe
 Privacy Contact Information  
 If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:
 
-By e-mail: [headoffice@travelonly.net](mailto:headoffice@travelonly.net)
+By e-mail: [headoffice@travelonly.com](mailto:headoffice@travelonly.com)
 
 By Phone: 1-800-608-1117
 
