@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geniushelper.org privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611215733id_/http%3A//www.geniushelper.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geniushelper.org privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110061845id_/http%3A//www.geniushelper.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Genius Helper
 
@@ -19,6 +19,14 @@ www.geniushelper.org does use cookies to store information about visitors prefer
 DoubleClick DART Cookie
 
 .:: Google, as a third party vendor, uses cookies to serve ads on www.geniushelper.org.
+
+Your ads will be inserted here by
+
+ **Easy Plugin for AdSense**.
+
+Please go to the plugin admin page to  
+ _Paste your ad code_ OR  
+_Suppress this ad slot_.
 
 .:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.geniushelper.org and other sites on the Internet.
 
