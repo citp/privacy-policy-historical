@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leche69.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510171604id_/http%3A//www.leche69.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leche69.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110034713id_/http%3A//www.leche69.com/privacy) for the most accurate reproduction.*
 
 # Leche69 Privacy Policy
 
