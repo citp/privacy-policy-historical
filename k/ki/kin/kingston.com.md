@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingston.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616163608id_/http%3A//www.kingston.com/us/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingston.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110013059id_/http%3A//www.kingston.com/us/company/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Kingston
 
@@ -35,7 +35,7 @@ WHAT INFORMATION DO WE COLLECT?
 
 Information we collect is generally of two types – personally identifiable information and non-personally identifiable information. 
 
-Personally identifiable information comprises any information that can help us identify or locate an individual, including, without limitation, an individual’s name, address, e-mail address, telephone number and credit card number. 
+Personally identifiable information comprises any information that can help us identify or locate an individual, including, without limitation, an individual’s name, address, e-mail address, telephone number and credit card number. Personally identifiable information does not include publicly available information that is lawfully made available to the general public from federal, state or local government records. 
 
 Non-personally identifiable information comprises information that does not by itself identify an individual. This information generally includes anonymous information about an individual’s use of the Website that includes, among other things, information concerning date and time of visit, the pages of the Website visited, path through the Website, IP address, the type of browser and operating system used. 
 
@@ -59,7 +59,7 @@ We use your contact information to complete and support your purchases from us, 
 
 Credit Card Information
 
-When you order any product and/or request an RMA (Returned Merchandise Authorization) on our Website, you may be redirected to a third-party payment gateway service to provide your credit card information including the credit card number, card security code (also called CVV2, CVC2, CIDcode), the expiration date and the billing address. The third-party payment gateway service is fully compliant with Payment Card Industry Data Security Standard (PCI DSS) for payment processing. 
+When you order any product through our Website or at a Tradeshow or request an RMA (Returned Merchandise Authorization) on our Website, you may be redirected to a third-party payment gateway service to provide your credit card information including the credit card number, card security code (also called CVV2, CVC2, CID code), the expiration date and the billing address. The third-party payment gateway service is fully compliant with Payment Card Industry Data Security Standard (PCI DSS) for payment processing. 
 
 Online Surveys
 
