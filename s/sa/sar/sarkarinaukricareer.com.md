@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sarkarinaukricareer.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629173025id_/http%3A//www.sarkarinaukricareer.in/p/all-informative-content-placed.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sarkarinaukricareer.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110063126id_/http%3A//www.sarkarinaukricareer.in/p/all-informative-content-placed.html) for the most accurate reproduction.*
 
 # Privacy Policy - Sarkari Naukri Career
 
