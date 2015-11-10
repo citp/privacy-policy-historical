@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timvandevall.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609091842id_/http%3A//timvandevall.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timvandevall.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110215055id_/http%3A//www.timvandevall.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Tim's Printables
 
