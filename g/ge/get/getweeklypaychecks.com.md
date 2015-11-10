@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getweeklypaychecks.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504012806id_/http%3A//getweeklypaychecks.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getweeklypaychecks.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110235120id_/http%3A//getweeklypaychecks.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
