@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imsa.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611185656id_/http%3A//www.imsa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imsa.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110212938id_/http%3A//www.imsa.com/privacy-policy) for the most accurate reproduction.*
 
-# IMSA | TUDOR United SportsCar Championship | Privacy Policy
+# IMSA | WeatherTech SportsCar Championship | Privacy Policy
 
 **We are always conscious and respectful of your personal privacy.**
 
