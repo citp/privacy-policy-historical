@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phroogal.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613074954id_/http%3A//phroogal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phroogal.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110033729id_/https%3A//phroogal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Phroogal
 
