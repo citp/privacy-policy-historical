@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toastedontheinside.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610064906id_/http%3A//toastedontheinside.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toastedontheinside.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110133022id_/http%3A//toastedontheinside.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Toasted On The InsideToasted On The Inside
 
