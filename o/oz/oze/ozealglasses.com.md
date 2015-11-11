@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ozealglasses.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629150247id_/http%3A//www.ozealglasses.com/shop-with-ozeal%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozealglasses.com privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112002137id_/http%3A//www.ozealglasses.com/shop-with-ozeal%23privacy) for the most accurate reproduction.*
 
 # Privacy Policy, Shopping Security, T and C | Ozeal Glasses
 
@@ -98,7 +98,7 @@ Kemp House
 London  
 England  
 EC1V 2NX  
-800-582-2589
+
 
 ### Protection
 
