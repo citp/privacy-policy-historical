@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nait.ca privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607182438id_/http%3A//www.nait.ca/privacypolicy.htm%3Futm_source%3Dnait%26utm_medium%3Dtemplate%26utm_campaign%3Dfooter%26utm_content%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nait.ca privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112173942id_/http%3A//www.nait.ca/privacypolicy.htm) for the most accurate reproduction.*
 
-# NAIT | NAIT Privacy Policy
+# NAIT Privacy Policy
 
 The Northern Alberta Institute of Technology ("NAIT") is committed to ensuring the personal privacy of faculty, staff, students, and customers visiting our website. The following information discloses our practices for collecting data, including what type of information is gathered and tracked, why this information is being collected, and how this information is used. The following guidelines were developed with a fundamental respect for our users' right to privacy, and to guide our relationships with our users. NAIT reserves the right to modify our privacy policy at any time. Any such modification will be effective immediately upon posting to the NAIT site.
 
