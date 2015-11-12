@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nimsoft.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607174015id_/http%3A//www.ca.com/us/privacy.aspx%3Fintcmp%3Dfooternav) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nimsoft.com privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112172942id_/http%3A//www.ca.com/us/privacy.aspx%3Fintcmp%3Dfooternav) for the most accurate reproduction.*
 
 # CA Privacy Notice - CA Technologies
 
@@ -8,12 +8,16 @@ CA is committed to respecting and protecting your privacy and wants you to feel 
 
 CA may modify or update this privacy notice at any time without prior notice. You can check the “Last Updated” date above to see when the notice was last changed. Your continued use of the website constitutes your consent to the contents of this privacy notice.
 
-We have prepared this Privacy Notice to inform you of the information we gather and how it is used. This Notice applies to all CA websites that display or link to this Privacy Notice. In some cases CA may request additional information in which case you will receive separate notice and will be able to review those terms at that time. You should also note that CA maintains the same privacy practices with respect to data that is collected off-line and this notice may be relied upon with respect to those methods of data collection and use. Please see our [Core Values and Code of Conduct](https://web.archive.org/us/about-us/company-information/core-values.aspx) for more information about CA’s high standard of ethics and our commitment to the protection of your personal information.
+We have prepared this Privacy Notice to inform you of the information we gather and how it is used. This Notice applies to all CA websites that display or link to this Privacy Notice. In some cases CA may request additional information in which case you will receive separate notice and will be able to review those terms at that time. You should also note that CA maintains the same privacy practices with respect to data that is collected off-line and this notice may be relied upon with respect to those methods of data collection and use. Please see our [Core Values and Code of Conduct](https://web.archive.org/us/about-us.aspx) for more information about CA’s high standard of ethics and our commitment to the protection of your personal information.
 
 CA Technologies complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  CA Technologies has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  CA's Safe Harbor certification can be found at <https://safeharbor.export.gov/list.aspx>.  To learn more about the Safe Harbor program, and to view our certification, please visit <http://www.export.gov/safeharbor/>
 
 **[We self-certify compliance with](https://safeharbor.export.gov/list.aspx)**  
 [](http://www.export.gov/safeharbor)
+
+CA, Inc. has may subsidiaries in the European Economic Area (EEA) (this is an area made up of European Union Member States and other countries in Europe who adhere to similar rules).  In order for CA Technologies to do business, CA subsidiaries in the EEA need to send personal data to CA, Inc. and other subsidiaries around the world.  CA Technologies needs to have a method to do this while remaining compliant with laws in the EEA.  Safe Harbor concerns the transfer of personal data from EEA and Switzerland to the US, and CA will retain its Safe Harbor certification to address those needs.  For transfer to other subsidiaries around the world we have developed a set of Binding Corporate Rules (BCRs) to ensure uniform, comprehensive data protection and privacy standards for the handling of such personal data. 
+
+Click [here](http://ec.europa.eu/justice/data-protection/international-transfers/binding-corporate-rules/bcr_cooperation/index_en.htm) to see our listing on the European Commission's BCR website. [](http://www.export.gov/safeharbor)
 
 ## Q: What information does CA collect?
 
