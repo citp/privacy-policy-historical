@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acneuro.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607150448id_/http%3A//reps.acneuro.com/ACN-Europe_files/policy_terms/policy_EN.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acneuro.com privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112051828id_/http%3A//reps.acneuro.com/ACN-Europe_files/policy_terms/policy_EN.html) for the most accurate reproduction.*
 
 # ACN Europe Privacy Policy
 
@@ -30,7 +30,7 @@ The Personal Data and other information that we process varies depending on your
 
 **Use of Cookies**
 
-Cookies are small text files that are sent to your computer so that our websites can remember the settings and information that you submit, so that You don’t have to re-enter them when You re-visit a page or visit a new page on the same website. We also use cookies to measure how You use our websites so that We can make sure that they meet your needs. You can control whether or not your computer accepts cookies, however, refusing to accept cookies may affect your experience using our websites. For more information about cookies, please go to the website www.allaboutcookies.org.
+Cookies are small text files that are sent to your computer so that our websites can remember the settings and information that you submit, so that You don’t have to re-enter them when You re-visit a page or visit a new page on the same website. We also use cookies to measure how You use our websites so that We can make sure that they meet your needs. You can control whether or not your computer accepts cookies, however, refusing to accept cookies may affect your experience using our websites. For more information about cookies, please go to the website [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
 **How Do We Collect Information?**
 
