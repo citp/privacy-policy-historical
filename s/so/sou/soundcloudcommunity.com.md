@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soundcloudcommunity.com privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007020921id_/https%3A//getsatisfaction.com/corp/website/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundcloudcommunity.com privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112211449id_/https%3A//getsatisfaction.com/corp/website/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Get Satisfaction
 
@@ -174,4 +174,4 @@ San Francisco, California 94103
 
 **Effective August 15, 2014**
 
-**[Older privacy policy[08/15/2013](https://web.archive.org/web/20141015151353id_/https://getsatisfaction.com/corp/privacy-policy/privacy-pre-08-15-2013.php)]**
+**[Older privacy policy[08/15/2013](https://web.archive.org/web/20150905140716id_/https://getsatisfaction.com/corp/privacy-policy/privacy-pre-08-15-2013.php)]**
