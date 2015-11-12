@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the belugerinstudios.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511103842id_/http%3A//www.belugerinstudios.com/index.php%3Fact%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belugerinstudios.com privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112175931id_/http%3A//www.belugerinstudios.com/index.php%3Fact%3Dprivacy) for the most accurate reproduction.*
 
 # Strategy Games Online | War Games | Defense Games
 
